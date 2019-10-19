@@ -1,0 +1,872 @@
+﻿---
+
+
+
+static_pages:
+
+    top-homepage:
+        categories: "content"
+        content: |
+
+            .. image:: [GAME_FILE_URL "images/emblems/auction_logo_rounded.png"]
+                :align: right
+
+            L'Académie d'Alifir est heureuse de vous accueillir au sein de sa nébuleuse numérique, **Anthropia**.
+
+            Vous vous trouvez présentement dans le site **Trésors Perdus de Midolie**, dédiée aux ventes aux enchères - gemmologique et archéologiques - organisées par son plus généreux mécène : **Sir Loyd Georges, de Salima**.
+
+            Authentifiez-vous si ce n'est déjà fait, puis prenez vos aises, et partez découvrir les excitantes ventes qui s'annoncent, ainsi que les illustres personnages avec qui vous allez concourir. Pour voir l'état de vos possessions, ``[ GAME_PAGE_LINK "accédez à votre profil" "pychronia_game.views.character_profile" ]``.
+
+            .. Votre hôte est évidemment, plus que tout autre, à votre écoute ; vous pouvez le contacter directement à l'adresse loyd.georges\@anthropia.pg.
+
+            *Besoin de davantage de renseignements sur ce bijou technologique qu'est Anthropia ? Cliquez sur le bouton "(?)" en haut à droite de la page.*
+
+            .. note::
+
+                Certains médias de ce site (vidéos, webradios, télévisualisation 3D...) nécessitent FlashPlayer.
+
+                Si vous rencontrez des problèmes inattendus pour les lire, essayez de désactiver AdBlock ou autres extensions similaires de votre navigateur web.
+
+
+
+    help-homepage:
+        categories: "content"
+        content: |
+            Anthropia, un Joyau de PangeaWeb
+            =====================================
+
+            Le méta-portail Anthropia est le fruit de décennies de recherche en hautes technologies numériques.
+
+            En plus d'être un puits de savoir, il est conçu de façon à permettre l'affichage de modules externes, c'est à dire de pages web ou formulaires gérés par d'autres organismes (scientifiques ou non).
+
+            Anthropia est ainsi connecté avec la Banque de Salima, afin de vous puissiez facilement gérer vos paiements et vos biens ; il a aussi des liens avec des centres académiques étrangers, et des sociétés de tous types.
+
+            Mais attention, l'Académie d'Alifir décline toute responsabilité quant aux conséquences morales, économiques et juridiques découlant de l'usage de ces fonctionnalités proposées par des tiers. **Et notez que, par mesure de sécurité, vous ne pourrez souvent interagir, dans ces modules externes, qu'avec des gens que vous avez auparavant contactés par message textuel.**
+
+            En cas de problème technique rencontré sur une quelconque page d'Anthropia, n'hésitez pas a en avertir le webmestre concerné, via le bouton situé tout en bas de page. Cela lui ruinera sans doute une ou deux nuits de sommeil, mais justifiera sa plantureuse solde.
+
+            Notez par ailleurs que si l'interface du site est traduite en plusieurs langues, en revanche son contenu (introductions, articles encyclopédiques, pages d'aide, emails, spots radio...) n'est disponible que dans une seule langue.
+
+            *Le département des technologies numériques de l'Académie d'Alifir.*
+
+            PS : lorsque des notifications s'affichent en haut de page, vous pouvez les fermer en cliquant sur leur bord.
+
+
+
+    help-characters_view:
+        categories: "content"
+        content: |
+            Notice d'Utilisation
+            ==========================
+
+            Retrouvez sur cette page les honorables personnalités participant aux ventes aux enchères de Loyd Georges, "Trésors perdus de Midolie".
+
+            Vous pouvez aussi visualiser ici, a minima, vos possessions en termes d'argent et d'objets. Vos objets de type "lots de gemmes" sont surtout mentionnés à titre de "mémos", étant donné que leurs différentes pierres précieuses peuvent avoir été dilapidées séparément.
+
+            Grâce aux modules externes aimablement fournis par la Banque de Salima, vous pourrez ici même, via les formulaires de haut de page, échanger de l'argent, des gemmes, et autres objets avec vos congénères.
+
+            **Attention, par mesure de sécurité, vous ne pouvez transférer des biens qu'aux personnes avec qui vous avez déjà eu des échanges par message textuel.**
+
+
+        gamemaster_hints: |
+            Le maître du jeu peut voir les **mots de passe des joueurs** dans des infobulles, en survolant leurs noms avec sa souris.
+
+            Il peut transférer arbitrairement de l'argent entre des personnages, ou bien depuis/vers la "banque".
+
+            Il peut aussi réaffecter à volonté des artefacts (non-gemmes), qu'ils soient libres ou bien possédés par des personnages.
+
+            Il peut transférer des gemmes, mais seulement entre personnages ou bien depuis/vers la réserve des "gemmes déjà dilapidées" ; tant qu'aucune gemme n'a été obtenue par un personnage (ex. via un lot des enchères), ce formulaire est donc indisponible.
+
+
+
+    top-view_sales:
+        categories: "content"
+        content: |
+            Retrouvez ici les objets officiellement mis en vente par votre aimable hôte, sir Loyd Georges.
+
+            Que vous soyez amateur de rutilants joyaux ou d'antiques artefacts, nul doute que vous trouverez dans ces lots de quoi combler vos plus lancinants désirs.
+
+            Notez que les prix indiqués sont évidemment de simples estimations d'expert, qui ne présagent que peu du prix final de vente.
+
+            Davantage de détails, par exemple sur la possibilité de Visualisation 3D, sont disponibles dans la page "Diaporama d'Enchères" (sous réserve qu'elle soit publiée).
+
+        gamemaster_hints: |
+            **Maître du jeu, n'oubliez pas de transférer les sommes d'argent correspondant aux transactions que vous finalisez ici (s'il s'agit de Livres Sabarites, cela revient à éditer manuellement les "possessions diverses" des joueurs).**
+
+    help-view_sales:
+        categories: "content"
+        content: |
+            Les articles aux enchères
+            ===========================
+
+            Voici les objets mis dans les différentes séries d'enchères. Il peut s'agir d'artefacts archéologiques, mais aussi de lots de gemmes.
+
+            À cause de leur forte valeur scientifique, les artefacts peuvent être soumis à des restrictions d'usage ou de vente ; reportez-vous aux autorités compétentes pour plus d'informations.
+
+            Les gemmes peuvent par contre être vendues à leur prix de référence sur le marché international, dont le cours est très stable actuellement - il parait d'ailleurs que notre portail Anthropia va être connecté sous peu à une nouvelle place des ventes, "informelle".
+
+            Certains lots de gemmes sont volumineux, mais rien ne vous interdit de vous entendre pour en acheter en commun, et vous repartir les pierres individuelles ensuite.
+
+            Modalités Pratiques
+            ==========================
+
+            Afin de pimenter davantage encore l'affaire, les séries d'enchères se dérouleront selon des modalités différentes, qui vous seront communiquées en temps voulu par votre hôte.
+
+            Voici ci-dessous les principaux types de ventes pouvant avoir lieu :
+
+            Enchères montantes classiques
+                Chaque participant peut à tout moment proposer un montant supérieur pour le lot en cours (incrément minimal: 5 unités), et le lot revient au mieux offrant.
+
+            Enchères descendantes
+                Le maître des enchères descend progressivement le prix exigé, et le premier acquéreur qui se manifeste emporte le lot.
+
+            Enchères mono-tour au meilleur offrant
+                Les participants donnent à l'avance au maître du jeu leur offre maximale pour chaque lot, et le participant le plus généreux gagne le lot sans possibilité pour les autres de surenchérir.
+                En cas d'ex-aequo entre participants, ceux-ci se départagent via une enchère montante classique.
+
+            Enchères mono-tour au deuxième meilleur offrant
+                Idem que l'enchère précédente, sauf que c'est la deuxième meilleure offre qui remporte l'objet (chacun est ainsi incité à chercher le "juste prix").
+
+
+        gamemaster_hints: |
+
+            Les joueurs ne voient que les objets "publics" vendus par Loyd Georges, c'est-à-dire ceux ayant un identifiant d'enchère (ex. "1-A").
+            Le maître de jeu peut par contre voir ici tous les objets disponibles dans le jeu, y compris ceux n'ayant rien à voir avec les enchères.
+
+            Les formulaires de cette page permettent de transférer un artefact ou un lot de gemmes à un personnage, ou bien de le lui retirer.
+
+            Mais attention :
+
+            - le prix final de chaque transaction étant libre, il vous faut réaliser les échanges d'argent manuellement, le transfert d'objet lui-même étant toujours réalisé "gratuitement".
+            - les "gemmes" obtenues peuvent ensuite être utilisées individuellement par le joueur ; l'annulation du transfert d'un "lot de gemmes" ne peut donc avoir lieu que si le personnage possède encore toutes les gemmes du lot. Sauf en cas d'erreur d'étourderie - à réparer immédiatement - les descriptifs des lots de gemmes ont donc vocation à rester dans le profil de leur acheteur initial, à titre de **mémo**, même si les gemmes du lot ont déjà été disséminées.
+
+
+    top-auction_items_slideshow:
+        categories: "content"
+        content: |
+
+          .. note::
+
+              Télévisualisation publique, en 2D uniquement.
+
+    help-auction_items_slideshow:
+        categories: "content"
+        content: |
+            Visualisation Détaillée
+            =========================
+
+            La banque de Salima - dont la sécurité n'a d'égale que la confidentialité - a le plaisir de vous faire découvrir sur ce portail, en avant-première mondiale, son système de télévisualisation numérique. Savourez donc le spectacle de ces précieux biens numérisés en 2D.
+
+            Si les objets sont marqués comme tels, vous aurez de surcroît le plaisir de pouvoir les manipuler en **3D interactive** dans votre espace **"Mes objets"**, après leur achat.
+
+        gamemaster_hints: &beware_slideshow_gamemaster_hints |
+
+            Attention, maître de jeu : si vous utilisez cette page comme support visuel durant les enchères (que ce soit en LIVE ou bien via un partage d'écran par Internet), il ne faut pas que les joueurs voient les infobulles spéciales, qui contiennent des indices sur le jeu.
+
+            Même "impersonner" Loyd Georges ne suffit pas pour cela ; il faut plutôt se connecter au portail Anthropia directement avec les identifiants de Loyd Georges, afin de n'avoir accès qu'à ce que ce PNJ peut voir.
+
+
+    top-chatroom:
+        categories: "content"
+        content: |
+            Bienvenue sur le salon de discussion de Loyd Georges, un espace dédié aussi bien à une innocente convivialité, qu'aux plus intrépides négociations commerciales.
+
+            Cette page peut aussi servir à prendre publiquement des engagements, qui seront automatiquement garantis par le Tiers de Confiance.
+
+
+    help-chatroom:
+        categories: "content"
+        content: |
+            Décharge
+            ==========================
+
+            Faute de crédits suffisants, ce salon n'utilise pas les technologies les plus éprouvées pour la télédiscussion en temps réel.
+            Il est donc conseillé, autant que faire se peut, de réaliser les ventes aux enchères dans un environnement plus dynamique et porteur.
+
+
+    help-view_encyclopedia:
+        categories: "content"
+        content: |
+            Le Savoir est Pouvoir
+            ===============================
+
+            L'encyclopédie collaborative d'Anthropia vous donne accès à un large éventail de savoirs, et cela en toute gratuité.
+
+            Vous pouvez rechercher des articles par mots-clefs, ou utiliser l'index (plus ou moins) disponible.
+
+            Noter le moteur de recherche ne supporte pas les expressions booléennes complexes, ni les mots répartis dans l'article cible ; il fonctionne uniquement une reconnaissant une sous-chaîne "stricte" de caractère.
+
+            Fonctionnalité hors-norme, l'encyclopédie est intégrée au reste du portail Anthropia, afin que les mots-clefs présents dans les divers textes disséminés (présentations, messages email...) soient automatiquement transformés en liens encyclopédiques.
+
+        gamemaster_hints: |
+
+            Seul le **premier mot-clef** de chaque article encyclopédique est automatiquement détecté,
+            et transformé en lien encyclopédique, lorsqu'il apparaît dans un contenu du site (ex. dans un message échangé, ou dans un autre article encyclopédique...).
+
+            Les autres mots-clefs servent en cas de recherche volontaire, par l'utilisateur, dans l'encyclopédie.
+
+            Le corps des articles, lui, n'est pas pris en compte lors de ces recherches (sinon ce serait trop facile de trouver tout le contenu de l'encyclopédie).
+
+
+
+    top-personal_webradio_page:
+        categories: "content"
+        content: |
+            Musiques, informations, reportages, messages personnels... profitez d'un programme original et varié avec votre webradio préférée (nécessite FlashPlayer, sinon cliquer sur les spots radio séparés en bas de page).
+
+    help-personal_webradio_page:
+        categories: "content"
+        content: |
+            Renouvellement des Playlists
+            ====================================
+
+            La radio libre de Pangéa diffuse en continu tous types d'émissions, informations, et musiques.
+
+            Son programme est renouvelé régulièrement, donc n'oubliez pas de vous y connecter au moins tous les deux jours, afin de ne rien rater de ce qu'elle a à vous offrir.
+
+
+    help-view_world_map_static:
+        categories: "content"
+        content: |
+            Géographie Pangéenne
+            =========================
+
+            Après des millénaires de bouleversements, notre chère sphère pangéenne se stabilise enfin, il est donc temps de redonner à la géographie ses lettres de noblesse.
+
+            **Données utiles :**
+
+            - Diamètre : 40.000 kms
+            - Rayon : 6000 kms
+            - Masse : 6 mille quadrillions de kilogrammes
+
+            Passer le pointeur de votre souris sur cette carte devrait afficher une portion agrandie.
+
+            Une version téléchargeable de la carte est disponible en bas de page.
+
+
+
+
+    help-all_dispatched_messages:
+        categories: "content"
+        content: |
+            Messages Transmis
+            =====================
+
+            Cette page liste chronologiquement (et non "par conversation") **tous** les messages échangés au cours de la partie. Cela permet au maître de jeu de suivre tout ce qui se passe côté messagerie, y compris en privé entre les joueurs. Les messages qu'il a "archivés" sont inclus aussi.
+
+            Les messages "programmés pour envoi" (par le maître de jeu, ou par les systèmes de réponse automatique) ne sont pas visibles ici.
+
+            Notez que les messages envoyés automatiquement par des compétences spéciales, et qui requièrent une réponse du maître de jeu, sont automatiquement marqués comme "favoris".
+
+            **Il est possible de supprimer un de ces messages échangés, mais attention, cela revient à le supprimer PARTOUT, pour tous les joueurs l'ayant dans une de leurs conversations, donc c'est rarement une bonne idée.**
+
+            Notez que par défaut, lorsque les messages sont nombreux, seuls les plus récents sont affichés, voir la barre latérale pour forcer l'affichage de TOUS les messages.
+
+
+    help-all_queued_messages:
+        categories: "content"
+        content: |
+            Messages En Attente
+            =====================
+
+            Le maître du jeu peut voir ici les messages programmés pour un envoi futur (de son fait, ou par les systèmes de réponse automatique des compétences spéciales, s'ils sont activés).
+
+            Il lui est possible de forcer leur envoi "tout de suite", ou de les annuler.
+
+
+
+    help-standard_conversations:
+        categories: "content"
+        content: |
+            Conversations Email
+            =====================
+
+            Retrouvez ici vos conversations de messagerie, avec les contrôles usuels (répondre, transférer, marquer comme lu, mettre en favori, archiver...).
+
+            **IMPORTANT : par défaut, seules les quelques dizaines de conversations les plus récentes sont récupérées ; si vous voulez toutes les afficher, cliquez sur le lien dédié du panneau latéral (qui apparaît lorsque cette limite est dépassée).**
+
+            Les messages non lus, ou marqués comme favoris, sont indiqués de façon spécifique dans le panneau latéral.
+
+            Notez que le fait de répondre à un message ne le marque pas pour autant comme "lu".
+
+            Pour effectuer une recherche dans les messages, vous pouvez utiliser le petit formulaire de filtrage, ou bien tous les déplier puis utiliser la fonctionnalité de recherche standard de votre navigateur web (ex. CTRL+F).
+
+        gamemaster_hints: &npc_messages_gamemaster_hints |
+
+            Attention, lorsque cette section est accédée en tant que "maître du jeu" : ne sont alors présents ici que les messages envoyés DEPUIS ou VERS un PNJ (qu'il soit un "personnage" du portail Anthropia, ou un simple contact email externe) ; en effet, ces messages requièrent pioritairement l'intervention du maître de jeu. Pour voir aussi les messages échangés en privé entre les joueurs, il faut aller dans la section des "Messages Expédiés".
+
+            Comme pour les joueurs, les messages auxquels le maître de jeu répond sont automatiquement "marqués comme lus" pour l'émetteur (donc ici pour le PNJ impersonné, ou juste pour la vision "maître de jeu" s'il s'agit d'un contact email externe).
+
+    help-intercepted_messages:
+        categories: "content"
+        content: |
+            Messages Interceptés
+            =====================
+
+            Retrouvez ici les messages que vous avez interceptés,
+            dans le cas de la mise sur écoute d'un autre protagoniste de l'affaire.
+
+
+        gamemaster_hints: |
+
+            Cette section n'est actuellement pas disponible pour le maître de jeu.
+
+
+
+    help-all_archived_messages:
+        categories: "content"
+        content: |
+            Messages Archivés
+            =====================
+
+            Retrouvez ici les messages que vous avez archivés, et qui ne devraient
+            donc plus vous être d'une grande utilité.
+
+        gamemaster_hints: *npc_messages_gamemaster_hints
+
+
+    help-messages_templates:
+        categories: "content"
+        content: |
+            Modèles d'Emails
+            =====================
+
+            Ces contenus préfabriqués sont réservés au maître du jeu, et lui permettent de gagner un temps précieux dans le déroulement de l'intrigue.
+
+            Utiliser le nuage de mots-clefs, afin d'afficher ces modèles par catégorie.
+
+            Les modèles sont automatiquement marqués comme utilisés, la première fois qu'ils sont édités et envoyés.
+
+
+    help-compose_message:
+        categories: "content"
+        content: |
+            Envoi d'un Nouveau Message
+            ============================
+
+            Dans ce formulaire, les champs optionnels ont leur titre en italique.
+
+            Destinataires
+            -----------------
+
+            Le cadre de gauche liste votre carnet d'adresses. Laissez la souris sur un contact pour avoir des informations plus détaillées par infobulle ; cliquez dessus pour l'ajouter aux destinataires du brouillon en cours d'écriture.
+
+            Les adresses email avec des crochets sont des listes de diffusion (par exemple, la liste de tous les enchérisseurs participant aux enchères de Loyd Georges, sans ce dernier).
+
+            Si vous cochez l'option "masquer les destinataires", le message sera envoyé individuellement à chacun des destinataires. Cela peut servir, ainsi, à s'adresser "personnellement" à plusieurs personnes d'un seul coup.
+
+            Corps du Message
+            ------------------
+
+            Le corps des messages textuels peut être entré soit comme du "texte brut", soit être mis en forme grâce au format "restructuredtext".
+            Dans ce dernier format, notez que les "retours à la ligne" simples sont ignorés, il faut laisser une **ligne vide** pour que le message final comporte effectivement un nouveau paragraphe.
+
+            Pour davantage d'informations sur "restructuredtext" :
+
+            http://docutils.sourceforge.net/docs/user/rst/quickref.html
+
+            Divers
+            ------------
+
+            - si vous répondez à un message, ou si vous faites "recontacter" dessus, le message parent sera automatiquement "marqué comme lu", donc marquez-le en favori si vous voulez le garder à l'oeil
+            - vous pouvez attacher à un message soit un de vos "documents personnels", soit une URL absolue de fichier, grâce au champ de sélection dédié
+            - si vous transférez un ancien message à l'un de vos contacts, ce "message transféré" pourra être lu dans une nouvelle fenêtre, grâce au lien automatiquement inséré dans le nouveau message servant à ce transfert
+            - un mécanisme de sauvegarde automatique est en place, afin d'éviter que vous perdiez tout un brouillon suite à une fausse manipulation ; mais si vous devez taper de longs textes, mieux vaut quand même les écrire dans un fichier à part sur votre disque dur, par sécurité
+
+
+        gamemaster_hints: |
+
+            Seul le maître du jeu peut choisir l'adresse de l’émetteur, et peut décaler la date d'envoi de l'email, dans le passé (valeur de délai négative) ou dans le futur (valeur de délai positive). Exemples de valeurs possibles pour ce décalage, qui est entré en HEURES : 0, 1.6, -2... Notez que selon les réglages de votre navigateur (langue, etc.), il se peut que le séparateur décimal soit un point ou une virgule ("2.5" ou "2,5").
+
+            Les messages "pour le passé" (qui ne devraient en fait servir qu'à préparer l’état initial du jeu) sont émis immédiatement, et sont impactés par les dispositifs divers (ex. de mise sur écoute) *actifs à l'instant présent*. Le système ne peut en effet se souvenir des dispositifs qui étaient en place dans le passé...
+
+            Les messages pour le futur, eux, sont mis en file d'attente (où ils peuvent être annulés), et seront impactés seulement par les dispositifs actifs au *moment de leur envoi réel*.
+
+            Pour l'instant, ni l’émetteur (si choisi par le MJ), ni les destinataires de l'email, ne sont vérifiés. Les contacts invalides apparaîtront donc simplement, dans les échanges, avec un avatar par défaut. Il revient au MJ de rattraper les possibles bourdes, soit en créant après-coup les contacts manquants, soit en envoyant de fausses notifications "adresse destinataire introuvable" aux joueurs concernés.
+
+            Les messages comportant des identifiants entre accolades (ex "{{ JOUEUR }}"), comme c'est le cas dans les modèles d'emails par exemple, ne peuvent pas être envoyés tant que ces balises n'ont pas été remplacées par des données correctes.
+
+            .. à voir FIXME quid des vérifications automatiques de droit d'accès aux partnerships?
+
+
+    top-ability_introduction:
+        categories: "content"
+        content: |
+            Cette section du menu recense les "modules externes" de votre compte Anthropia.
+
+            Ces services, typiquement proposés par des tiers (académies, entreprises, autres entités), peuvent nécessiter des privilèges particuliers, ou des frais supplémentaires, faites-en donc bon et prudent usage.
+
+            Si un service apparaît en noirci, c'est que vous n'avez pas acquis l'autorisation de l'utiliser ; voyez dans ce cas vous-même, avec le fournisseur de ce service, comment débloquer la situation.
+
+            Attention, nombre de services (transfert de biens, analyses...) nécessitent que le destinataire soit dans votre **carnet d'adresses** (i.e que vous ayez déjà échangé un message textuel).
+
+
+    help-wiretapping:
+        categories: "content"
+        content: |
+            Espionnage de Messagerie
+            ============================
+
+            Vos contacts dans les Télécoms Pangéennes vous permettent d'intercepter les messages reçus et envoyés par des tiers, pour peu que ceux-ci appartiennent bien au domaine d'Anthropia.
+
+            Il vous faut pour cela acheter des kits de mise sur écoute, puis leur affecter chacun un "identifiant de compte" à surveiller (identifiant modifiable à tout moment). Le compte utilisateur visé doit être dans votre carnet d'adresse.
+
+            Notez que si la personne visée a elle-même mis des gens sur écoute, les messages qu'elle a interceptés de son côté ne vous seront, eux, pas transmis...
+
+            Vous pourrez peut-être protéger vos propres communications contre les indiscrets, en achetant un kit de confidentialité.
+
+        gamemaster_hints: |
+
+            Si une des cibles de mise sur écoute a acheté un kit de confidentialité, le joueur sera informé, sur cette page, qu'il y a un problème pour espionner cette personne.
+
+
+    help-mercenaries_hiring:
+        categories: "content"
+        content: |
+            Réseau d'Espions
+            ===================
+
+            Comme tout agent secret qui se respecte, vous disposez de contacts au sein de la Confrérie des Obérons, un réseau mondial d'espions qui vend ses services sans discrimination.
+
+            Après avoir payé une somme forfaitaire au pôle Obéron d'une cité, vous pourrez, pendant un an, leur demander toutes sortes d'informations et de services divers - légaux ou non.
+
+            Avec quelques restrictions toutefois:
+
+            - les obérons ne sont pas des guerriers ni des assassins, donc toute action armée exigera un énorme supplément pécuniaire, afin qu'ils délèguent à des mercenaires de bas étage
+            - les obérons sont fraternels et solidaires, donc s'ils reçoivent des ordres contradictoires de la part de leurs divers clients, ceux-ci devront régler leurs conflits par eux-mêmes.
+
+
+    top-house_reports:
+        categories: "content"
+        content: |
+
+            Cher SIR LOYD GEORGES, pour votre honorable demeure, vous avez souscrit au service : enregistrement vidéographique sans audiophonie.
+
+            Salles sous surveillance : *grand hall, bureau, bibliothèque, salle à manger, et cuisine*. Vous pouvez contrôler votre système de surveillance depuis le terminal qui a été installé dans votre *grand hall*.
+
+            Nous vous rappelons que, pour des questions de pérénnité et de confidentialité des enregistrements, ceux-ci sont automatiquement transférés chaque nuit vers les serveurs centraux d'\ *OmniVision*. Vous pouvez consulter les enregistrements dans nos locaux, en vous munissant de votre carte d'identité.
+
+            Pas de temps à perdre ? Vous pouvez aussi demander une transcription analytique de l'ensemble des caméras sur une tranche horaire, qui vous sera envoyée par messagerie. Cette transcription recense les actions notables des personnes de votre maisonnées, ainsi que des visiteurs ; pour un fonctionnement optimal, n'oubliez pas de mettre à jour régulièrement le référentiel photographique de vos connaissances. Ce service donné lieu à une facturation pour chaque tranche horaire demandée.
+
+            Notez que les périodes pour lesquelles aucun mouvement n'a été détecté sur les caméras, ne sont pas disponibles dans le formulaire ci-dessous.
+
+            *Le Service OmniVision*
+
+            [BR]
+
+            **ALERTE STATUT TEMPS REEL : toutes les caméras du manoir sont désactivées depuis ce matin 0h00, suite au retrait de leurs bandes d'enregistrement. Pensez à les remettre en activité dès que vous aurez fini d'analyser lesdites bandes.**
+
+
+
+
+    top-house_locking:
+        categories: "content"
+        content: |
+            Bienvenue, cher *Sir Loyd Georges*, sur le gestionnaire de sécurité simplifié de votre demeure.
+
+            D'ici, vous pouvez verrouiller et déverrouiller l'ensemble du système : portes du manoir, enceinte électrifiée du parc, et portail principal du parc.
+
+            .. Nous vous rappelons qu'une fois les portes verrouillées à distance, seul votre code secret pourra les ouvrir, et toute tentative d'accès non autorisée déclenchera l'intervention d'une escouade de vigiles armés jusqu'aux dents.
+
+
+
+    help-runic_translation:
+        categories: "content"
+        content: |
+            Traduction de Runes Antiques
+            ===============================
+
+            Ce traducteur de runes akarites, développé à l'Académie d'Alifir, est encore en cours de développement. Aucune garantie n'est donc apportée quant à l'exactitude des traductions fournies.
+
+            Pour l'utiliser, il vous suffit de recopier dans le formulaire la transcription phonétique de vos runes, en séparant les syllabes par des espaces, puis de soumettre le tout. Le résultat de la traduction vous sera alors communiqué par email.
+
+            Attention à l'exactitude de vos transcriptions, une syllabe en plus ou en moins peut facilement corrompre une grande partie de la traduction.
+
+        gamemaster_hints: |
+
+            Référence des transcriptions de runes::
+
+                FIXME - add reference here, or BETTER, PROGRAMATICALLY!!!
+
+
+    help-matter_analysis:
+        categories: "content"
+        content: |
+            Expertise Biophysique
+            ========================
+
+            Le département biophysique de l'Académie de Belez vous propose, pour une somme modique, une analyse approfondie de l'objet que vous lui soumettrez, afin d'en avoir une connaissance aussi complète que le permet l'état actuel de la science.
+
+            Aspects abordés:
+
+            - datation
+            - étude structurelle s'ensemble
+            - étude épidémiologique
+            - étude moléculaire
+            - étude ondulatoire
+
+
+    help-chess_challenge:
+        categories: "content"
+        content: |
+            L'I.A Ultime
+            ==============
+
+            La Faculté d'Imuo, qui a toujours été considérée comme une étoile de la recherche en Intelligence Artificielle, se propose de démontrer cette rumeur grâce à un petit défi de Jeu d'Echecs tout à fait ludique et innovant.
+
+            Tentez de remporter une victoire face à son cerveau informatique de pointe, **WireMind**, et de gagner ainsi, outre la gloire, les 1000¤ de récompense !
+
+            *Participation gratuite, règlement complet disponible auprès de notre huissier Maître Izdouvraj à Imuo.*
+
+        gamemaster_hints: |
+
+            Seul le maître du jeu peut manipuler l'IA et les couleurs grâce aux contrôles sous l'échiquier ; le joueur peut uniquement choisir ce que devient son pion lors d'une promotion.
+
+
+    top-geoip_location:
+        categories: "content"
+        content: |
+
+            Besoin de localiser géographiquement l'émetteur d'un email ? Rien de plus facile avec notre service de Géolocalisation Numérique.
+
+            Il vous suffit pour cela de transférer le mystérieux message à l'adresse ci-dessous, et d'attendre la réponse.
+
+            Chaque géolocalisation est facturée **45¤**. Si nous ne parvenons pas à déterminer, à moins de 300m près, l'origine du message en question, vous ne serez débités que des frais de traitement, soit **15¤**.
+
+            Notez que les adresses hébergées par des portails académiques sécurisés (comme les adresses "@anthropia.pg"), ne donnent pratiquement jamais d'informations de localisation.
+
+            **Adresse de contact: email-geolocation@digitalia.pg**
+
+
+    help-world_scan:
+        categories: "content"
+        content: |
+            Scan Mondial
+            ===============
+
+            La maîtrise des nouvelles sciences technomanaïques nous permet de réaliser des choses jusqu'ici impensables, comme sonder l'intégralité de notre globe pangéen avec "l'empreinte manaïque" d'un objet, afin d'en trouver des exemplaires similaires.
+
+            Cette technologie a cependant des limitations : les objets en question doivent être assez rares pour que les résultats de la recherche soient pertinents, et la localisation se fait avec une précision variable, dans des zones ayant entre quelques dizaines et quelques milliers de mètres de diamètre, suivant leur distance du Centre Scanner situé à Alifir.
+
+
+
+    top-business_escrow:
+        categories: "content"
+        content: |
+            Le commerce est avant tout une affaire de confiance. C'est pourquoi la Ligue Bancaire Pangéenne a mis en place, pour votre confort d'esprit, un service absolument gratuit de Tiers de Confiance Numérique.
+
+            Il vous suffit d'ajouter en copie de vos messages, lors d'une négociation commerciale, le contact ci-dessous. Une fois la transaction acceptée par les deux parties, le tiers de confiance réalisera les potentielles immobilisations financières ou matérielles garantissant l’échange, et s'assurera (dans la limite de ses moyens) du bon respect, par les parties en présence, de leurs engagements réciproques.
+
+            Notons que le tiers de confiance est tenu à un strict devoir de neutralité et de confidentialité, qui - la jurisprudence en fait foi - lui interdit de refuser ou dénoncer des transactions, même celles lui paraissant illégales.
+
+            **Adresse de contact: escrow@business.pg**
+
+
+
+
+    top-black_market:
+        categories: "content"
+        content: |
+
+            Il existe toujours de bonnes raisons de ne pas mener une transaction commerciale par les circuits officiels : parce que les procédures douanières sont horripilantes, parce que les taxes sont décourageantes, parce que l'on n'est pas censé être en possession de tel bien ou de telle somme d'argent...
+
+            Le marché noir offre une solution commune à toutes ces problématiques. Achetez, vendez, tout ce que vous voulez, tant que vous êtes majeur et vacciné. Et nous déclinons toute responsabilité, etc., etc.
+
+            **Adresse de contact: black-market@business.pg**
+
+
+    top-artificial_intelligence:
+        categories: "content"
+        content: |
+
+              Si vous ne savez pas ce que sont les Djinns, mieux vaut pour vous sortir de cette page, profanateur.
+
+    help-telecom_investigation:
+        categories: "content"
+        content: |
+
+              L'Investigation Télécom vous permet de récupérer, à l'instant T, un historique résumé des conversations ayant eu lieu entre la personne ciblée et ses correspondants : sujet, interlocuteurs, dates...
+
+              Le corps des messages n'est en revanche pas récupérable.
+
+              Seuls les comptes utilisateur du portail Anthropia, avec vous avez eu un échange email, peuvent être ciblés par ce système.
+
+
+
+
+    help-game_events:
+        categories: "content"
+        content: |
+
+              Cette page affiche l'historique des évènements vous ayant affecté, sur ce portail Anthropia.
+
+        gamemaster_hints: |
+
+            **Cette page est aussi accessible aux joueurs !**
+
+            Mais contrairement au maître de jeu, qui a la vision sur TOUS les évènements (qu'ils impliquent des joueurs, des PNJs, ou bien des tâches automatisées du système), les joueurs ne voient ici que leur **historique personnel**.
+
+            Ce récapitulatif complet, pour le MJ, est particulièrement utile pour définir l’état initial de la *Mystery Party* concluant le jeu : **Mindstorm**.
+
+
+    help-admin_dashboard:
+        categories: "content"
+        content: |
+
+
+            Ce panneau de contrôle permet au MJ d’éditer de façon centralisée divers réglages du jeu, qui ne méritent pas chacun leur page dédiée.
+            Les formulaires de cette page peuvent être durablement réordonnés par cliquer-glisser. Voici les fonctionnalités actuellement paramétrables dans cette page :
+
+            .. TODO FREQUENCE WEBRADIO A METTRE configurable ?? bof...
+
+            Données du maître de jeu
+                Vous pouvez ici changer votre mot de passe (ne prenez pas le même que celui pour vos comptes web "dans la vraie vie"), et renseigner un véritable email, qui pourra servir à certaines notifications du jeu.
+
+            Visibilité des pages spéciales
+                Les pages activées ici apparaîtront dans le menu des joueurs. Noter que certaines, nécessitant par ailleurs des permissions personnelles, pourront rester grisées (désactivées) pour l'un ou l'autre joueur.
+
+            Mise en pause du jeu
+                Si les circonstances l'exigent, il est possible de geler le portail Anthropia pour tous les joueurs (mais pas pour le MJ, qui garde le plein contrôle). La majorité des pages restera alors accessible, mais les boutons d'action, par exemple pour soumettre des formulaires, seront inutilisables.
+
+            Durée théorique du jeu
+                Certains systèmes automatisés du jeu (ex. les délais de réponse, via messages, de certaines compétences spéciales) sont calibrés pour respecter le rythme prévu pour le jeu ; il peut donc être nécessaire de changer cette durée théorique pour accélérer ou ralentir le déroulement des différents *gameplays*.
+
+            Durée minimum d'amitié
+                Afin d'éviter une certaine paranoïa, les joueurs ne peuvent pas sceller une amitié, espionner leur "nouvel ami", puis annuler cette amitié, avant que l'autre n'ait pu en profiter aussi. Une "période de grâce" peut donc être réglée ici.
+
+            Visibilité de l'index encyclopédique
+                Cette option est à n'activer qu'en fin de partie, si l'on souhaite dévoiler à tous cette mine d'informations qu'est l'Encyclopédie d'Anthropia.
+
+            Réponses automatiques aux compétences spéciales
+                Laissez ces réponses automatiques désactivées, si vous n'êtes pas complètement sûr du contenu préparé pour les différentes compétences spéciales.
+
+            Notifications externes
+                Le portail peut envoyer automatiquement, et quotidiennement, des emails pour prévenir les joueurs qu'ils ont du nouveau sur leur compte Anthropia. Cette fonctionnalité peut être désactivée ici.
+
+
+    top-admin_information:
+        categories: "content"
+        content: |
+            Voici un regroupement de diverses informations secrètes, à destination du maître de jeu.
+
+    help-manage_characters:
+        categories: "content"
+        content: |
+
+            Cette page, réservée au maître du jeu, permet de modifier les données personnelles des personnages (utile surtout au moment de remplir l’état initial de la partie), de voir leurs relations d'amitié, et de mettre à jour, tout au long du jeu, leurs allégeances et **droits d'accès**.
+
+            Certaines pages nécessitent en effet des permissions pour être accessibles. Il peut s'agir de "visibilités globales", que le maître de jeu doit alors accorder depuis son "Tableau de Bord". Mais il peut aussi s'agir de permissions personnelles, accordées précisément depuis cette page de gestion des joueurs.
+
+            Certaines des permissions disponibles ne concernent pas des pages entières, mais donnent accès (en lecture, ou en écriture) à certains éléments à l'intérieur même d'une page.
+
+
+
+
+
+    help-webradio_management:
+        categories: "content"
+        content: |
+
+            La liste de lecture (\ *playlist*\ ) de la radio se construit par clics, et/ou par cliquer-glisser depuis la liste des spots disponibles vers l'encart de gauche. Les spots sélectionnés peuvent être réordonnés à volonté. Il est possible d'enlever des spots de la playlist en les glissant vers la poubelle, ou de complètement vider la playlist en cliquant sur ladite poubelle.
+
+            **Vérifiez bien que les spots que vous ajoutez à la liste de lecture ciblent un fichier audio valide ; en cas de mauvaise URL ou de fichier illisible, la lecture de la webradio s'arrêtera.**
+
+            La webradio est habituellement allumée par chaque joueur (depuis la popup radio, ou la page "Webradio Pangéa"), sans que cela ne modifie la liste de lecture (qui est toujours commune à tous).
+
+            Mais cette radio peut aussi être utilisée comme une "radio publique", manipulable à distance, dans le cadre d'une séquence Grandeur-Nature.
+
+            Cela suppose de lancer la page "Webradio Publique", depuis un compte anonyme (non authentifié sur le portail). L'accès est restreint par un code (dit "fréquence radio"), que seul le MJ est censé connaître (voir la page "Informations Admin").
+            Ainsi mise sur haut-parleur, dans une salle commune, la radio publique est alors prête à être contrôlée à distance.
+
+            En effet, cette radio publique a ceci de particulier qu'elle **consomme** les clips qu'elle diffuse, et peut être démarrée/arrêtée a distance.
+
+            Le principe est donc, pour le MJ, de construire une playlist, puis d'appuyer sur le bouton "Allumer la Radio", le tout depuis un PC ou smartphone séparé.
+
+            La radio publique va alors :
+
+            - aller chercher les mises a jour sur le portail
+            - lire un à un les nouveaux spots, en les supprimant à chaque fois après-coup
+            - finalement passer en état "arrêté" une fois la liste de lecture finie.
+
+            C'est idéal pour de petites séquences "flash info" ou "musiques", durant les Soirées Mystère.
+
+
+
+
+    help-static_pages_management:
+        categories: "content"
+        content: |
+
+            Cette page permet au MJ d’éditer les contenus statiques du site (texte, images, liens...), à la façon d'un *content management system* (CMS) web. Le format ReStructuredText, ainsi que les balises spécifiques (entre crochets), sont utilisés, tout comme cela peut se faire dans les messages emails.
+
+            Tous ces contenus peuvent être édités ou supprimés, et il est possible d'en créer de nouveaux.
+
+            Le traitement de ces "blocs de contenu multimédia" diffère selon leur type.
+
+            - pour les articles encyclopédiques (catégorie **encyclopedia**), les identifiants sont libres, mais il est important de renseigner de bons mots-clefs, afin que la recherche encyclopédique et les liens automatiques, qui ne s'appuient que sur lesdits mots-clefs, fonctionnent. Les mots-clefs sont des "expressions régulières" (dans leur version Python, https://openclassrooms.com/courses/apprenez-a-programmer-en-python/les-expressions-regulieres), ce qui demande entre autres de précéder tout caractère spécial (tiret, point, parenthèse, crochet...) avec un antislash ("\\"). Le **premier mot-clef** de chaque article a par ailleurs un statut particulier, car il est automatiquement transformé en lien encyclopédique quand il est rencontré dans les textes du portail. Enfin, le titre de l'article, qui est affiché dans l'index, doit être significatif.
+
+            - concernant les blocs de contenu "en tête" et "pied de page", et "page d'aide" (catégorie **content**), c'est leur identifiant qui permet de les placer automatiquement (les mots-clefs sont ignorés, de même que le titre). Pour les blocs non encore existants, vous trouverez les identifiants attendus dans les petits encarts auréolés (visibles uniquement pour le MJ), et dans l'infobulle du bouton **"?"**, sur chaque page.
+
+            Dans tous les cas, les blocs de contenu possèdent un champ **gamemaster_hints**, qui ne sera affiché que pour le maître le jeu, et permet de mettre toutes informations utiles à sa bonne gestion de la partie.
+
+            **Important** : pour que ces contenus soient publiés, visibles sur le portail de jeu, il faut impérativement leur affecter la bonne catégorie (leur donner le bon identifiant ne suffit pas).
+
+            **Ces contenus sont censés être "statiques", donc si vous en modifiez de façon sensible le contenu, n'oubliez pas d'en informer directement les joueurs d'une façon ou d'une autre.**
+
+
+    help-global_contacts_management:
+        categories: "content"
+        content: |
+
+            Cette page est dédiée à la gestion des "contacts externes" de la partie, c'est-à-dire toutes les adresses email qui ne sont pas implicitement attachées à un compte Joueur ou PNJ d'Anthropia.
+
+            Il est possible de créer de nouveaux contacts ; les contacts existants peuvent toujours être modifiés, mais ceux présents dans l'état initial (qui peuvent être utilisés par des compétences spéciales) ne peuvent pas être supprimés.
+
+            L'avatar d'un contact peut être un chemin relatif de fichier de jeu (sur le serveur), ou une URL externe (attention dans ce cas aux dimensions de l'image ciblée).
+
+            Les messages ayant, en émetteur ou en destinataire, un de ces contacts, apparaissent donc dans la boîte aux lettres dédiée au MJ (page "Conversations").
+
+            .. NOPE NOTE YET Il est possible de rendre un contact "public" (cas par défaut), ou au contraire de restreindre les personnages ayant le droit de lui envoyer un email (cette limitation ne s'applique pas aux emails envoyés, par le MJ, en tant qu'un des PNJs du jeu).
+
+            A l'heure actuelle, il n'est pas nécessaire qu'un contact existe pour pouvoir lui envoyer un email - toute adresse qui n'est pas propre à un joueur est supposée appartenir au MJ ; ainsi les joueurs ne seront pas bloqués si une adresse email qui leur a été fournie est mal orthographiée. Par contre, toujours par souci d’éviter les erreurs, le MJ ne peut envoyer un email qu'en usurpant (via le champ "émetteur") un contact existant.
+
+
+
+    help-game_items_management:
+        categories: "content"
+        content: |
+
+            Cette page permet d'éditer individuellement les objets disponibles dans le jeu.
+
+            Il est possible de créer de nouveaux objets ; les objets qui sont possédés par un personnage ne peuvent pas être édités ou supprimés. Par ailleurs, les objets présents dans l'état initial (parfois nécessaires au scénario) peuvent être modifiés, mais pas supprimés.
+
+            Ces objets peuvent être des lots de gemmes (auquel cas leur coût unitaire est important, au moment de leur dissociation), ou des lots d'objets (dont le coût unitaire n'est alors qu'indicatif). Si et seulement si leur identifiant d'enchère est non-vide, ils apparaîtront dans le programme publique des enchères.
+
+            L'image d'un objet peut être un chemin relatif de fichier de jeu (sur le serveur), ou une URL externe. Mais attention, dans ce dernier cas, l'image ne sera pas automatiquement transformée en une série de miniatures adaptées aux tailles des différents endroits où elle doit être affichée ; la qualité d'affichage sera donc un peu moins bonne.
+
+
+
+
+    help-radio_spots_editing:
+        categories: "content"
+        content: |
+
+            Cette page permet d’éditer individuellement les spots radio disponibles (ce qui est différent de la gestion de la *playlist* radio en cours de diffusion, qui a lieu dans une autre page).
+
+            Il est possible de créer de nouveaux spots audio. Les spots existants peuvent toujours être modifiés. Les spots présents dans l'état initial du jeu (parfois nécessaires au scénario) peuvent être modifiés, mais pas supprimés. Par contre, le fait d'être ou non dans la liste de lecture webradio n'a pas d'incidence sur l'édition des spots (s'ils sont supprimés, ils sont automatiquement enlevés de la liste de lecture webradio).
+
+            Le fichier audio peut être un chemin relatif de fichier de jeu (sur le serveur), ou une URL externe.
+            Il peut aussi être vide, mais dans ce cas, évitez d'ajouter ce spot à la playlist webradio, bien sûr.
+
+            Ce fichier peut être un fichier MP3 créé à l'avance (par exemple, mixé avec Le logiciel *Audacity*). Mais il peut aussi être généré en dernière minute à partir d'un texte, grâce au moteur de synthèse vocale et de mixage audio "Acapela VAAS" ; de quoi coder de façon (relativement) simple à la fois les paroles, les intonations, et les musiques de fond !
+
+            ATTENTION - après avoir fait la "synthèse vocale" d'un texte, il faut encore SAUVEGARDER le spot radio en question, sans quoi les modifications seront perdues après avoir quitté la page.
+
+            Quelques indications pour des spots "Text To Speech" réussis:
+
+            - si la voix digitale cafouille sur certains mots (en particulier les noms propres), changer leur orthographe pour les rendre phonétiques.
+            - il est possible de changer la voix à tout moment, et donc par exemple de réaliser des conversations entre journalistes et personnalités politiques, grâce aux balises prévues pour cela ; attention, certaines voix ont un riche jeu d'intonations et d’onomatopées (déclenchables grâce a des balises spécifiques), d'autres non.
+            - il est possible, grâce à d'autres balises, de rajouter et mixer des musiques de fond, certaines étant prévues pour être mises bout à bout (intro/milieu/fin), ou mises en boucle.
+
+            Pour davantage de détails sur les balises, les voix et musiques disponibles, se référer au manuel "Acapella VAAS".
+
+
+    top-gamemaster_manual:
+        categories: "content"
+        content: |
+
+            **Cette page affiche le Manuel du Maître de Jeu pour la partie "Réalité Alternée" du jeu Chrysalis (aussi appelée Chrysalis:Auction). Une version PDF de ce manuel est disponible dans vos "Documents Personnels".**
+
+
+    help-manage_databases:
+        categories: "content"
+        content: |
+
+            Cette section permet de visualiser l'intégralité de la base de données de la partie, afin de vérifier des contenus et paramétrages qui ne sont pas exposés ailleurs.
+
+            Si les valeurs de certains champs ne lui conviennent pas, le MJ peut rentrer en contact avec les concepteurs du jeu pour voir s'il est envisageable de modifier "à chaud", manuellement, ces valeurs, sans pour autant risquer de déstabiliser le moteur de jeu.
+
+            Une section qui pourrait être bien utile au MJ est celle identifiée par le mot "abilities" : elle contient les paramétrages des différentes compétences spéciales, et en particulier les indices qui seront automatiquement divulgués lors de l'analyse d'un objet, du déchiffrage d'une rune, ou autres investigations.
+
+
+
+
+
+
+
+    top-character_profile:
+        categories: "content"
+        content: |
+
+            Vous pouvez, ici, rapidement visualiser vos possessions, ainsi que modifier votre mot de passe de compte Anthropia.
+
+
+
+    help-friendship_management:
+        categories: "content"
+        content: |
+
+            L’amitié numérique est une magnifique façon, pour les utilisateurs du portail, de partager leur vie digitale avec des tiers, en leur donnant accès à leur compte.
+
+            L'amitié présuppose la confiance, c'est pourquoi l'accès que vous conférez ainsi à votre "ami" est certes en **lecture seule** (cette personne ne peut pas modifier votre compte), mais il n'en est pas moins **sans restriction de zone**.
+
+            Il n'y a, par contre, pas de transitivité de cette amitié : les amis de vos amis ne sont pas forcément vos amis, donc vous ne pourrez pas accéder à leurs pages personnelles (et vice-versa non plus).
+
+            Une amitié vraie étant une amitié durable, il existe au début de toute amitié scellée une "période de grâce", durant laquelle les deux nouveaux amis ne peuvent pas rompre leur relation.
+
+
+
+    help-personal_folder:
+        categories: "content"
+        content: |
+            Documents Personnels
+            =========================
+
+            Retrouvez ici vos documents personnels, qu'ils soient textuels ou audiovisuels, sous des formes (majoritairement) consultables depuis votre navigateur.
+
+            Vous pouvez partager un de ces fichiers par email, soit en copiant/collant l'adresse de son lien dans le corps du message envoyé, soit en utilisant le menu déroulant dédié, en bas du formulaire de "nouveau message".
+
+        gamemaster_hints: |
+            Certains fichiers sans importance sont donnés en commun à tous les joueurs, en début de partie.
+            Le maître du jeu a son propre lot de fichiers personnels.
+
+
+    top-personal_items_slideshow:
+        categories: "content"
+        content: |
+
+          .. note::
+
+              Télévisualisation privée, en 2D ou 3D ; dans ce dernier cas, cliquer-glisser avec la souris ou le doigt pour faire tourner l'objet horizontalement voire verticalement.
+
+
+    help-personal_items_slideshow:
+        categories: "content"
+        content: |
+
+            Retrouvez ici les objets que vous avez acquis, avec leur description, et leur télévisualisation (qui, pour certains objets, peut être en 3D interactive).
+
+            Notez que certains groupes d'objet (ex. des gemmes), dissociés au moment de leur arrivée, restent visibles, mais uniquement en tant que "mémos" des possessions passées, sans existence effective dans votre coffre.
+
+        gamemaster_hints: *beware_slideshow_gamemaster_hints
+
+
+    top-login:
+        categories: "content"
+        content: |
+
+          En cas d'oubli de mot de passe, entrez uniquement votre identifiant utilisateur et cliquez sur "Mot de passe oublié ?".
+
+          [BR]
+
+    top-secret_question:
+        categories: "content"
+        content: |
+
+          Veuillez entrer ci-dessous la réponse à la question secrète de votre compte, ainsi qu'un email de secours sur lequel nous vous renverrons votre mot de passe.
+
+          [BR]
+
+
+...
+

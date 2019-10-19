@@ -1,0 +1,541 @@
+﻿---
+
+
+
+
+_TEMP_:
+
+    ### Misssion Introductions ###
+
+
+    masslavian_introduction: &masslavian_introduction
+
+        -       |
+            **Services des Renseignements Généraux Masslaves**
+
+            *Le {{ date }} de l’Ere Stable*
+
+        -   &masslavian_motto    "*Liberté, honneur, robustesse*"
+
+        -   &report_headers     |
+
+            - Sévérité: critique
+            - Confidentialité: critique
+
+        -    &nazur_excavation_intro   |
+            Les derniers retours de nos agents infiltrés en Akarie sont extrêmement préoccupants. Tous font état d’une fébrile activité dans
+            les plus hautes sphères de la hiérarchie religieuse akarite, suite à des fouilles récemment effectuées par l’expédition archéologique du Sir Loyd Georges dans les environs de Nazur (Etat d'Akaris).
+
+        -       |
+            Nous n’avons, à l’heure actuelle aucun renseignement fiable sur la façon dont ce retraité de Salima s'y est pris pour passer outre les décrets midoliens proscrivant ce type d'activités, ni sur les artefacts qu’il aurait mis au jour.
+
+            Mais s’il a réellement déniché des pièces en rapport avec les Trois Orbes Sacrés akarites, nous pouvons craindre de graves troubles politico-religieux à court terme dans la région, alors même que notre puissance militaire se fait rapidement dépasser par celle de nos voisins akarites.
+
+        -   &lg_auction_announce   |
+            Loyd Georges organise bientôt la vente aux enchères d'une partie de ses trouvailles, afin de remettre en états ses finances grevées par des décennies de fouilles infructueuses (ainsi qu'un train de vie plus qu'exubérant). Il invite à cette occasion les musées archéologiques, les grands bijoutiers, ainsi que "tous les amoureux de l'Ere Tectone et des pierres précieuses", à concourir via le portail intranet "Anthropia", gracieusement prêté par l'université d'Alifir.
+
+            Il faut à tout prix que nos meilleurs agents empruntent de fausses identités pour participer à ces enchères, et obtiennent un maximum d'informations sur cette expédition archéologique. Sans nul doute, nous ne serons pas les seuls services secrets sur la sellette ; une prudence infinie et une présence d'esprit impeccable seront donc de mise.
+
+        -       |
+            Qui sait ce qui nous attend si Akaris, ou un autre état malintentionné, parvient à mettre la main sur une de ces improbables "Orbes Sacrés".
+            Nous devons donc immédiatement entrer en contact avec les autorités doriennes et héliossares, qui sont tout autant menacées que nous par cette affaire d'orbes.
+            Leur collaboration nous sera précieuse pour démêler ce sac de noeuds, et inestimable si les choses devaient mal tourner.
+
+
+
+    dorian_introduction: &dorian_introduction
+
+        -       |
+            **Services des Renseignements Généraux Doriens**
+
+            *Le {{ date }} de l’Ere Stable*
+
+        -    &dorian_motto    "*Grandeur, Largesse, Délicatesse*"
+
+        -   *report_headers
+
+        -   *nazur_excavation_intro
+
+        -       |
+            Nous n’avons à l’heure actuelle aucun renseignement fiable sur les artefacts qu’il aurait mis au jour. Mais s’il a réellement déniché des pièces en rapport avec les Trois Orbes Sacrés akarites, la fièvre religieuse qui grandit en akarite pourrait bien dégénérer pour de bon.
+
+        -   *lg_auction_announce
+
+        -       |
+            Quelques soient les résultats de cette investigation, nous ne devons pas oublier l'objectif prioritaire que nous a fixé notre bien-aimé duc : ménager à tout prix la susceptibilité des judicateurs akarites. Certains d'entre eux considèrent déjà notre peuple comme issu de leur "lignée sacrée", cela nous offre donc une chance de nous ranger sans heurts sous leur bannière, si une nouvelle guerre midolienne devait éclater ; des contacts diplomatiques secrets ont déjà été établis, pour préparer le terrain en ce sens.
+            Mais il nous reste à agir dans l'ombre pour que cette solution de dernier recours - nuisible à nos anciens alliés héliossars et masslaves, et fort humiliante au demeurant - n'ait jamais à être appliquée.
+
+
+
+    lordanian_introduction: &lordanian_introduction
+
+        -       |
+            **Services des Renseignements Généraux Lordaniens**
+
+            *Le {{ date }} de l’Ere Stable*
+
+        -    &lordanian_motto    "*Opulence, Indépendance, Puissance*"
+
+        -   *report_headers
+
+        -   *nazur_excavation_intro
+
+        -       |
+            Nous n’avons à l’heure actuelle aucun renseignement fiable sur les artefacts qu’il aurait mis au jour. Mais s’il a réellement déniché des pièces en rapport avec les Trois Orbes Sacrés akarites, cela pourrait bien servir de prétexte aux akarites, pour transformer leur puissance économique et militaire retrouvée en rouleau compresseur continental - voire mondial.
+
+        -   *lg_auction_announce
+
+        -       |
+            Certes, l'émergence d'une puissance midolienne contrôlée par les judicateurs akarites serait une forte menace pour notre hégémonie et notre tranquillité, mais ces tensions diplomatiques pourraient tout aussi bien servir la stratégie qui nous a déjà tant profité, "diviser pour prospérer".
+
+            Pour peu que les camps s'opposant en midolie soient de force comparable, leur affrontement pourrait en effet à nouveau résulter en une destruction réciproque, tout à fait compatible avec nos intérêts aussi bien politiques qu'économiques. C'est pourquoi une bonne récolte d'informations sur les stratégies diplomatiques de chaque camp sera un atout primordial, au moment où nous choisirons les cartes à abattre.
+
+            D'un point de vue économique, des bouleversements politiques en Midolie ne constitueraient pas un risque
+            critique - nous avons suffisamment diversifié nos sources d'approvisionnement pour garder une certaine indépendance. Cependant, là encore, une trop grande unité en Midolie - qu'elle se fasse par alliance ou par conquête - nuirait à nos négociations commerciales. Sachons donc éviter cela, sans pour autant nous attirer l'opprobre - ou pire, un embargo - de la part des états les plus significatifs de Pangéa.
+
+
+    akarite_introduction: &akarite_introduction
+
+        -       |
+            **Services des Renseignements Généraux Akarites**
+
+            *Le {{ date }} de l’Ere Stable*
+
+        -    &akarite_motto    "*Foi, Pureté, Divinité*"
+
+        -   *report_headers
+
+        -   *nazur_excavation_intro
+
+        -       |
+            Nous n’avons à l’heure actuelle aucun renseignement fiable sur les artefacts qu’il aurait mis au jour. Mais s'il a mis au jour des artefacts divins, ils ne peuvent rester aux mains de ce profanateur! Il nous faut à tout prix identifier clairement le contenu de ce pillage et, si l'un des artefacts se trouve être en rapport avec les orbes divins que nous avaient confiés les yods eux-mêmes, les arracher des mains de ce blasphémateur et les ramener à leur place légitime.
+
+        -   *lg_auction_announce
+
+        -       |
+            N'oubliez pas, notre mission divine confiée par les yods, dans leur grande bonté, est de retrouver, garder et protéger les orbes divins et leur pouvoir afin qu'un jour les yods, dans leur grande bonté, puissent pardonner à ceux qui ont pêché en se les faisant dérober.
+
+            Et alors la sainte Trinité sera réunie, et les psaumes bénis déclamés, alors les mantras chantés feront descendre les yods devant nos formes miséricordieuses qui prouveront alors notre pureté et purgeront le mal.
+
+            C'est la volonté des yods que nous dominions les races inférieures et de peu de Foi; nous ne pouvons donc pas échouer ; et si c'est par les armes que nous reprendrons nos dus, ce sera alors la volonté des yods qu'il en soit ainsi.
+
+    sabarite_introduction: &sabarite_introduction
+
+        -       |
+            **Services de police Généraux Sabarites**
+
+            *Le {{ date }} de l’Ere Stable*
+
+        -   &sabarite_motto    "*Loi, Ordre, Sécurité*"
+
+        -       |
+
+            - Sévérité: critique
+            - Confidentialité: critique
+
+        -       |
+            Les derniers retours de nos agents de police sont extrêmement préoccupants. Tous font état d’une fébrile activité suite à des fouilles récemment effectuées par l’expédition archéologique du Sir Loyd Georges dans les environs de Nazur (Etat d'Akaris).
+
+        -       |
+            Nous n’avons, à l’heure actuelle aucun renseignement fiable sur la façon dont ce retraité de Salima s'y est pris pour passer outre les décrets midoliens proscrivant ce type d'activités, ni sur les artefacts qu’il aurait mis au jour.
+
+        -       |
+            Loyd Georges organise bientôt la vente aux enchères d'une partie de ses trouvailles, afin de remettre en états ses finances grevées par des décennies de fouilles infructueuses (ainsi qu'un train de vie plus qu'exubérant). Il invite à cette occasion les musées archéologiques, les grands bijoutiers, ainsi que "tous les amoureux de l'Ere Tectone et des pierres précieuses", à concourir via le portail intranet "Anthropia", gracieusement prêté par l'université d'Alifir.
+
+            Tout ce qu'on sait c'est que nos indics n'ont jamais eu les lèvres aussi scellées et que les enchères de ce cher vieillard sont un véritable panier à crabes!
+
+
+
+
+
+
+    ### Mission Orders for Players ###
+
+
+    masslavian_mission_orders: &masslavian_mission_orders
+        -       |
+            Agents SHA1 et MD5,
+
+            vos décennies de bons et loyaux services vous ont désignés pour accomplir, en tandem, l'une des plus difficiles
+            missions auxquels les services spéciaux de notre chère Masslavie aient jamais été confrontés.
+
+            En menant des fouilles illégales en Midolie, Loyd Georges a en effet secoué le plus gros nid de frelons
+            que l'on puisse imaginer, et il nous appartient de calmer le jeu avant qu'un désastre continental ne se produise une fois encore.
+            Vous suivrez donc les enchères en ligne de Loyd Georges, en vous faisant passer pour d'innocents acheteurs.
+
+            SHA1, vous prendrez officiellement l'identité de {{ titre_officiel }} ;
+            le véritable détenteur du nom, en bon patriote masslave, restera à nos côtés avec ses proches, pour vous conseiller en cas de besoin.
+
+            MD5, pour brouiller les pistes, vous endosserez le rôle de {{ titre_officiel }} ; le véritable personnage est parti faire de la randonnée pédestre dans l'arrière-pays désertique de Sabarim, pour au moins 6 semaines encore - voilà une aubaine pour nous.
+
+        -   &explain_threats_competitors    |
+            Les enchères ne sont jamais des opérations extrêmement amicales, mais celles-ci s'annoncent particulièrement gratinées: vous avez dès à présent de nombreuses menaces anonymes qui vous attendent sur vos messageries Microcosme, vous déconseillant fortement de participer à ces enchères.
+            Sans surprise... Nous avons nous-mêmes utilisé cette tactique pour nous assurer que les concurrents ne se presseraient pas au portillon. Ceux qui viendront tout de même seront donc des profils plutôt douteux (ou simplement suicidaires)...
+
+        -       |
+            Faites un point ensemble pour définir une stratégie, et répartissez-vous les tâches et les ressources, pour mener à bien les nombreux défis qui vous attendent :
+
+            - Récupérer toute information utile sur les circonstances de cette expédition archéologiques, les découvertes effectuées, les participants de ces enchères, et tout autre protagoniste qui pourrait interférer, aussi bien officiellement qu'officieusement, avec nos plans.
+            - Éclaircir cette rumeur d'Orbe(s) Sacré(s), et nous assurer que ces diableries - si tant est qu'elles existent - ne mettent pas la région à feu et à sang.
+            - Assister nos services dans la prise de contact et les négociations avec les autorités des états voisins. Il nous faut resserrer nos liens avec les Heliossars et les Doriens - sans toutefois irriter les Akarites - avant que leur lubie d'un empire n'empire.
+
+        -    *masslavian_motto
+
+        -   &post_scriptums    |
+            PS : Nos services ayant accès à vos comptes Anthropia, ils auront tout le loisir de vous assister dans vos entreprises. Au cas où vous changeriez le mot de passe, n'oubliez donc pas de nous communiquer le nouveau.
+
+
+
+    dorian_mission_orders: &dorian_mission_orders
+        -       |
+            Agents MP3 et MP5,
+
+            vos décennies de bons et loyaux services vous ont désignés pour accomplir l'une des plus difficiles
+            missions auxquels les services spéciaux de notre cher Duché Dorien aient jamais été confrontés.
+
+            En menant des fouilles illégales en Midolie, Loyd Georges a en effet dopé le fanatisme de nos voisins akarites, et il nous appartient de prendre en main la situation avant que notre pays ne soit une fois encore brisé par une déferlante akarite.
+            Vous suivrez donc les ventes aux enchères de Loyd Georges, en vous faisant passer pour d'innocents acheteurs.
+
+            MP3, vous vous présenterez comme {{ titre_officiel }}. L'individu en question n'ayant jamais existé,
+            il nous faudra jouer finement si vous attirez par trop l'attention sur vous.
+
+            MP5, vous usurperez pour votre part l'identité de {{ titre_officiel }}
+            Le vrai sieur était au bord de la faillite à force de se faire pigeonner, il s'est donc montré très compréhensif face à nos propositions, et se fera éminemment discret pendant les semaines à venir.
+
+        -   *explain_threats_competitors
+
+        -       |
+            Faites un point ensemble pour définir une stratégie, et répartissez-vous les tâches et les ressources, pour mener à bien les nombreux défis qui vous attendent :
+
+            - Récupérer toute information utile sur les circonstances de cette expédition archéologiques, les découvertes effectuées, les participants de ces enchères, et tout autre protagoniste qui pourrait interférer, aussi bien officiellement qu'officieusement, avec nos plans.
+            - Éclaircir cette rumeur d'Orbe(s) Sacré(s), et nous assurer que ces diableries - si tant est qu'elles existent - servent notre cause au lieu de l'anéantir.
+            - Assister nos services dans la prise de contact et les négociations avec les judicateurs akarites. Il nous faut resserrer nos liens avec eux - sans toutefois nous griller auprès de nos voisins heliossars et masslaves - afin de nous retrouver sur le bon bateau, dans l'hypothèse où la guerre éclaterait.
+
+        -   *dorian_motto
+
+        -   *post_scriptums
+
+
+
+    lordanian_mission_orders: &lordanian_mission_orders
+        -       |
+            Agents HDD et SSD,
+
+            vos décennies de bons et loyaux services vous ont désignés pour accomplir une mission particulièrement délicate.
+
+            En menant des fouilles illégales en Midolie, Loyd Georges a en effet exacerbé les tensions politico-religieuses dans cette région, et il nous appartient de nous immiscer au plus tôt dans la partie, afin que son issue ne puisse nuire à nos intérêts.
+
+            Vous suivrez donc les enchères en ligne de Loyd Georges, en vous faisant passer pour d'innocents acheteurs.
+
+            HDD, vous vous présenterez comme {{ titre_officiel }}. C'est une identité fictive que nous faisons "vivre" depuis de nombreuses années déjà, et qui nous a servi pour toutes sortes de missions à l'étranger ; vous devriez donc être en toute sécurité dans ce rôle.
+
+            SSD, vous usurperez pour votre part l'identité de {{ titre_officiel }}.
+            Actuellement, le véritable personnage est censé être en voyage d'affaires, mais dans les faits il est en cure pour se débarrasser d'une maladie assez honteuse, et cela pour au moins 2 mois encore. Profitons-en gaiement.
+
+        -   *explain_threats_competitors
+
+        -       |
+            Faites un point ensemble pour définir une stratégie, et répartissez-vous les tâches et les ressources, pour mener à bien les nombreux défis qui vous attendent :
+
+            - Récupérer toute information utile sur les circonstances de cette expédition archéologiques, les découvertes effectuées, les participants de ces enchères, et tout autre protagoniste qui pourrait interférer, aussi bien officiellement qu'officieusement, avec nos plans.
+            - Assister nos services dans l'évaluation des forces militaires en présence, et des options stratégiques choisies par chaque camp, afin que notre pays puisse décider des meilleures cartes à jouer pour assurer sa qualité de vie à court, moyen et long terme
+            - Éclaircir cette rumeur d'Orbe(s) Sacré(s), et nous assurer que ces diableries - si tant est qu'elles existent - soient bien mises au service des décisions susdites.
+
+        -   *lordanian_motto
+
+        -   *post_scriptums
+
+    akarite_mission_orders: &akarite_mission_orders
+        -       |
+            Agent CORE,
+
+            vos décennies de bons et pieux services vous ont désignés pour accomplir une mission particulièrement délicate.
+
+            En menant des fouilles illégales en Midolie, Loyd Georges a en effet exacerbé l'ire de nos instances politico-religieuses supérieures et, si les orbes sont réellement présents, nous aurons l'excuse que nous cherchions pour commencer un conflit armé. Il nous appartient de nous immiscer au plus tôt dans la partie, afin que son issue ne puisse nuire à nos intérêts.
+
+            Vous suivrez donc les enchères en ligne de Loyd Georges, en vous faisant passer pour un innocent acheteur.
+
+            CORE, vous vous présenterez comme {{ titre_officiel }}. Le véritable personnage s'est converti à la foi akarite par peur, ses exploitations étant limitrophe. Il ne sort plus de chez lui et passe son temps a prier, attention donc, car des agents doriens pourraient éventuellement vous repérez.
+
+        -   *explain_threats_competitors
+
+        -       |
+            Etablissez au plus vite vos priorités, du point de vue des tâches et des ressources, pour mener à bien les nombreux défis qui vous attendent :
+
+            - Récupérer toute information utile sur les circonstances de cette expédition archéologiques, les découvertes effectuées, les participants de ces enchères, et tout autre protagoniste qui pourrait interférer, aussi bien officiellement qu'officieusement, avec nos plans.
+            - Assister nos services dans la prise de contact et les négociations avec les doriens. Evaluez leurs forces, assurez-vous de leur soutien et entamez les négociations de redditions. Le cas échéant, rappelez-leur qui commande.
+            - Éclaircir cette rumeur d'Orbe(s) Sacré(s), et nous assurer que ces artefacts soient bien mis au service des décisions susdites et récupérés.
+
+        -   *akarite_motto
+
+        -   *post_scriptums
+
+    sabarite_mission_orders: &sabarite_mission_orders
+        -       |
+            Inspecteur I7,
+
+            vos décennies de bons et loyaux services vous ont désignés pour accomplir, l'une des plus difficiles
+            missions auxquels les services spéciaux de police Sabarite aient jamais été confrontés.
+
+            En menant des fouilles illégales en Midolie, Loyd Georges a en effet secoué le plus gros nid de frelons
+            que l'on puisse imaginer, et il semblerait que nous en soyons la cible.
+            Vous suivrez donc les enchères en ligne de Loyd Georges, en vous faisant passer pour un innocent acheteur.
+
+            Vous prendrez officiellement l'identité de {{ titre_officiel }}.
+            Le véritable personnage est également en voyage en Sabarim mais compte plutôt jouer de ses relations pour pouvoir admirer la collection privée de l'académie, que celle de cette vente aux enchères.
+
+        -       |
+            Les enchères ne sont jamais des opérations extrêmement amicales, mais celles-ci s'annoncent particulièrement gratinées: vous avez dès à présent de nombreuses menaces anonymes qui vous attendent sur vos messageries Microcosme, vous déconseillant fortement de participer à ces enchères.
+            Évidemment comme toute mission undercover, vous aurez une certaine marge de manoeuvre relative à votre condition, mais n'oubliez pas que vous restez un membre de la police et devez agir dans le cadre de la loi! Toute action "spéciale" devra d’abord obtenir notre approbation, vous n'avez pas carte blanche.
+        -       |
+            Menez à bien les nombreux défis qui vous attendent :
+
+            - Identifier les participants de ces enchères et la raison de leur présence, s'ils sont en infraction avec la loi, n'hésitez pas à les faire chanter avant de les mettre derrière les barreaux.
+            - Comprenez ce que fait tout ce foutoir ici, et si cela nous concerne, remontez-nous toute information sensible et prenez les mesures nécessaires.
+            - Assurez la sécurité nationale et déjouez tout complôt se passant sur notre territoire, tout en arrêtant les criminels.
+
+        -    *sabarite_motto
+
+        -       |
+            PS : Nos services ayant accès à vos comptes Anthropia, ils auront tout le loisir de vous assister dans vos entreprises. Au cas où vous changeriez le mot de passe, n'oubliez donc pas de nous communiquer le nouveau.
+
+
+
+
+
+
+
+
+
+messaging:
+
+    manual_messages_templates:  #-> list of messages processed
+
+
+        - id: masslavian_introduction
+          categories: ["player_instructions"]
+          sender_email: secret-services@masslavia.pg
+          recipient_emails: ["spinel", "malachite"]
+          subject: "Rapport synthétique masslave - Affaire Loyd Georges"
+          body: *masslavian_introduction
+
+        - id: dorian_introduction
+          categories: ["player_instructions"]
+          sender_email: secret-services@dorian-dukedom.pg
+          recipient_emails: ["topaz", "peridot"]
+          subject: "Rapport synthétique dorien - Affaire Loyd Georges"
+          body: *dorian_introduction
+
+        - id: lordanian_introduction
+          categories: ["player_instructions"]
+          sender_email: secret-services@lordania.pg
+          recipient_emails: ["garnet", "amethyst"]
+          subject: "Rapport synthétique lordanien - Affaire Loyd Georges"
+          body: *lordanian_introduction
+
+        - id: akarith_introduction
+          categories: ["player_instructions"]
+          sender_email: archbishop-baazel@akaris.pg
+          recipient_emails: []  # FIXME ??
+          subject: "Rapport synthétique akarite - Affaire Loyd Georges"
+          body: *akarite_introduction
+
+        - id: sabarite_introduction
+          categories: ["player_instructions"]
+          sender_email: secret-services@sabarim.pg
+          recipient_emails: ["obsidian"]
+          subject: "Rapport synthétique sabarite - Affaire Loyd Georges"
+          body: *sabarite_introduction
+
+
+
+        - id: masslavian_mission_orders
+          categories: ["player_instructions"]
+          sender_email: secret-services@masslavia.pg
+          recipient_emails: ["spinel", "malachite"]
+          subject: "Lettre de Mission Masslavie"
+          body: *masslavian_mission_orders
+
+        - id: dorian_mission_orders
+          categories: ["player_instructions"]
+          sender_email: secret-services@dorian-dukedom.pg
+          recipient_emails: ["topaz", "peridot"]
+          subject: "Lettre de Mission Dorie"
+          body: *dorian_mission_orders
+
+        - id: lordanian_mission_orders
+          categories: ["player_instructions"]
+          sender_email: secret-services@lordania.pg
+          recipient_emails: ["garnet", "amethyst"]
+          subject: "Lettre de Mission Lordanie"
+          body: *lordanian_mission_orders
+
+        - id: akarith_mission_orders
+          categories: ["player_instructions"]
+          sender_email: archbishop-baazel@akaris.pg
+          recipient_emails: ["obsidian"]
+          subject: "Lettre de Mission Akaris"
+          body: *akarite_mission_orders
+
+        - id: sabarite_mission_orders
+          categories: ["player_instructions"]
+          sender_email: secret-services@sabarim.pg
+          recipient_emails: ["obsidian"]
+          subject: "Lettre de Mission Sabarim"
+          body: *sabarite_mission_orders
+
+
+        - id: more_instructions_partial
+          gamemaster_hints: "Exemple pour débloquer les joueurs s'ils sont déboussolés."
+          categories: ["player_instructions"]
+          subject: "Instructions complémentaires"
+          body: |
+
+              Agents, la première série d'enchères de Loyd Georges approche, il est temps de vous mettre en ordre de bataille, et de vous répartir les tâches suivantes.
+
+              - Votre première mission sera de lier vos comptes par le "système d'amitié numérique" disponible dans ce portail Anthropia. Cela fluidifiera le partage d'informations.
+              - Votre deuxième mission sera de mettre Loyd Georges sur écoute, grâce au module "mise sur écoute" qui vient d'être raccordé à votre compte Anthropia. Il est indispensable que nous puissions voir tous les messages qu'il envoie ou reçoit.
+              - Votre troisième mission sera d'engager (dès que ce sera possible) des espions dans la ville de Loyd Georges, afin de surveiller les moindres faits et gestes du bonhomme. Leurs tarifs ont augmenté récemment : ils monnayent désormais leur expertise bien plus cher si elle est payée en argent et non en pierres précieuses ; les ventes aux enchères pourraient donc nous aider sur ce point ci.
+
+              Répartissez-vous intelligement le travail.
+              Vous me ferez un rapport commun dès que la première série d'enchères aura eu lieu.
+
+
+
+        -   "id": more_instructions_complete
+            "body": |
+                Agents,
+
+                **Mes adjoints m'ont confirmé que vous étiez désormais bien logés, dans différents hôtels des
+                environs de Salima, avec des visas de voyage d'affaire en bonne et due forme.**
+
+                C'est une bonne chose, mais rappelez-vous qu'être sur place ne doit pas vous encourager à la témérité
+                ; contentez-vous pour l'instant de jouer vos rôles d'honorables personnages, et déléguez les actions
+                dangereuses, "live", à des tiers rémunérés, afin de ne pas vous compromettre.
+
+                voici vos premières tâches pour cette mission, répartissez vous les kashes et le travail pour
+                optimiser l'efficacité.
+
+                - lier vos comptes par le "système d’amitié numérique" disponible dans ce portail Anthropia. Cela
+                  fluidifiera le partage d’informations.
+
+                - mettre sur écoute Loyd Georges (important)
+
+                - prendre contact avec lui par messagerie Anthropia, pour commencer à vous faire bien voir de
+                  sa part (n'hésitez pas à lui lécher les bottes, si ce n'est davantage, mais attention, en finesse,
+                  car le personnage est distingué)
+
+                - espionner toute personne de son entourage qui serait digne d'intérêt
+
+                - réfléchir à une stratégie pour ces premières enchères (voir l'aide de la page "Objets d'Enchères").
+
+                Tout cela au service de notre premier objectif : comprendre ce qu'il a fait lors de son expédition
+                en Midolie, et en particulier ce qu'il a ramené hormis les banals joyaux qu'il exhibe présentement.
+
+                Sinon, pour information, voici les prix que nous avons pu négocier auprès de différents sécrétariats
+                et indics' répartis dans quelques académies et confréries de Pangéa. Inutile de souligner que
+                les enchères de Loyd Georges, et leurs gemmes certifiées 100% naturelles, sont une énorme opportunité
+                pour avoir un rabais sur ces menus services (qui seront d'ici quelques jours/semaines raccordés
+                au portail Anthropia).
+
+                {{TODO VERIFIER ET COMPLETER CES PRIX}}
+
+                Embauche de mercenaire "obéron":
+                    150¤ en cash, ou 100¤ en gemmes naturelles
+                Kit de mise sur écoute:
+                    350¤ en cash, ou 250¤ en gemmes naturelles
+                Traduction runique:
+                    400¤ en cash, ou 100¤ en gemmes naturelles
+                Expertise biophysique d'un objet:
+                    400¤ en cash, ou 100¤ en gemmes naturelles
+                Question à un sage Djinn de la confrérie de Sedes Sancta:
+                    800¤ en cash, ou 200¤ en gemmes naturelles
+
+                Il devrait aussi être possible, à terme, d'obtenir un **historique télécom** des interlocuteurs contactés par une personne donnée.
+
+                Nous comptons sur vous !
+
+            "categories":
+            - >-
+                player_instructions
+            "subject": >-
+                Instructions complémentaires
+
+
+        -   "id": telephone switchboard_instructions
+            "body": |
+                Agents,
+
+                nous avons mis en place un central téléphonique pour tous les agents de cette opération.
+
+                Appelez le {{NUMERO_GAMEMASTER}} et faites "Allo Central" pour être mis en contact avec l'opérateur, puis
+                demandez l’interlocuteur de votre choix (par exemple, "mon chef").
+
+                Où qu'il soit sur Pangéa, cet interlocuteur, nous essaierons de vous le passer, si tant est qu'il
+                ait accès au téléphone.
+
+                Que la ruse soit avec vous.
+            "categories":
+            - >-
+                player_instructions
+            "subject": >-
+                Central téléphonique
+
+
+        -   "id": info_about_heliossar
+            "body": |
+                Agent,
+
+                nos ambassades se démènent (mais di-scrè-te-ment), afin d'organiser des pourparlers avec Héliossar
+                qui ne risquent pas de tomber entre les mains des akarites.
+
+                Vous avez sans doute lu l'article encyclopédique sur la Midolie, nos peuples étaient très soudés
+                suite à notre dernière résistance contre le fléau akarite. Mais les politiciens ont remplacé les
+                héros de la résistance, et aujourd’hui aussi bien les héliossars que les doriens semblent TRES
+                peu pressés de prendre en main la question (un ministre dorien a même évoqué "une tempête dans
+                un verre d'eau"). Vivement qu'ils comprennent la gravité de la situation.
+            "categories":
+            - >-
+                player_instructions
+            "gamemaster_hints": "Si infos demandées sur le comportement des Héliossars."
+            "sender_email": >-
+                secret-services@masslavia.pg
+            "subject": >-
+                Infos sur Héliossar
+
+
+        - id: dorian_instructions_change
+          gamemaster_hints: "Exemple si une alliance entre groupes est souhaitable."
+          categories: ["player_instructions"]
+          sender_email:  secret-services@dorian-dukedom.pg
+          subject: "Changement de programme"
+          body: |
+
+              Agents,
+
+              devant l'intensification de la tension vis à vis des Judicateurs akarites, nous avons pris contact avec les services secrets de nos voisins héliossares et masslaves, afin de mettre en commun nos plans et nos moyens.
+
+              Il s'avère en effet que lors de récents sommets théologiques, les judicateurs et les chefs de tribus ont rejeté la doctrine de la *transfiliation*, et donc nié la possibilité qu'un peuple non-akarite (comme le nôtre) rejoigne leur "Race élue des Yod". Nous n'avons donc plus d'autre choix que de nous battre contre eux, ou de devenir leurs esclave.
+
+              Vous êtes mandatés pour un contact avec les agents héliossares et masslaves alliés, dans le courant de la semaine ; nous comptons sur vous pour nouer de solides liens.
+
+
+        - id: midolian_alliance_alert
+          gamemaster_hints: "Indices lorsque la fin du jeu approche."
+          categories: ["player_instructions"]
+          subject: "Etat d'alerte"
+          body: |
+
+              Agents,
+
+              nos services ont détecté une activité exceptionnelle des fidèles yodiques. Sous prétexte de "pèlerinage", de nombreux individus d'origine akarites sont en mouvement pour le nord de Sabarim, ou l'Antaria, ou encore le nord du continent de Keroskia.
+
+              Nous ne savons pas ce qu'ils comptent faire exactement. Toutes les unités sont donc mobilisées pour couper court aux coups fourrés qu'ils pourraient préparer.
+
+              *Les services secrets*
+
+
+
+
+...
+

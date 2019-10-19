@@ -1,0 +1,554 @@
+﻿
+messaging:
+
+    manual_messages_templates:
+
+
+
+        -   id: alifir_ceremony
+            gamemaster_hints: "Début de la mission du doctorat honoris causa"
+            categories: ["doctor_honoris_causa"]
+            subject: "Flash Info - Colloque à Alifir"
+            body: |
+
+                {{ MAINTENANT SPOT RADIO LA DESSUS PLUTOT }}
+
+                L’Académie d’Alifir prépare en grande pompe la 10° édition de son Grand Colloque, un évènement qui a lieu tous les 6 ans depuis sa création, et qui n’est pas pour rien dans le rayonnement grandissant de ce poumon scientifique, artistique et littéraire.
+
+                D'ici quelques semaines, les conférences et les ateliers interactifs vont donc se succéder, avec en point d’orgue la cérémonie finale de distribution des honneurs, un climax qui verra de nouveaux noms s’inscrire dans le marbre du Panthéon Éternel de l’Académie.
+
+
+
+        -   id: misc_news_lg
+            gamemaster_hints: "Indices en vrac pour diverses quêtes."
+            categories: ["doctor_honoris_causa", "nazur_orb"]
+            sender_email: loyd.georges
+            recipient_emails: emilos.loakim
+            subject: "Nouvelles en vrac"
+            body: |
+
+                Mon vieil Emilos,
+
+                j'espère que l'étude des magnifiques bibelots que je t'ai rapportés se passe bien. De mon côté, je n'ai jamais autant travaillé de ma vie !
+
+                Les enchères débutent {{ date }} ; je n'ai pas encore eu la joie d'échanger avec tous les participants, mais cela viendra bien. Nous sommes encore ennuyés par des messages non sollicités (euphémisme), mais cette fois-ci pas des menaces, juste de bêtes arnaques. Je vais aller voir le support du portail Anthropia pour qu'ils corrigent leur filtrage de messagerie en conséquence ; mais morbleu, si seulement quelqu'un sur Pangéa pouvait aller régler ce genre de problèmes à la source, je serais prêt à lui donner gros...
+
+                Je te remercie d'avoir discrètement plaidé en ma faveur auprès de nos trois amies ;, j'espère bien que la manne que je viens d'apporter à ton département d'archéologie saura faire pencher la balance en ma faveur (mais je n'en redouble pas moins d'efforts).
+
+                La petite bande de cinéastes que j'ai engagée s'est mise au tournage depuis maintenant 2 semaines, j'ai hâte de pouvoir visionner les premiers morceaux de leur œuvre.
+
+                PS : en ce qui concerne qui-tu-sais, surtout ne tarde pas à me transmettre toute information qui arriverait de sa part, je n'en dors plus la nuit tellement cette découverte m'électrise !
+
+
+        -   id: thanks_gifts_lg
+            gamemaster_hints: "Indices pour le doctorat honoris causa."
+            categories: ["doctor_honoris_causa"]
+            sender_email: mneme@anthropia.pg
+            recipient_emails: loyd.georges
+            subject: "De la part de l'Académie"
+            body: |
+
+                Sir Loyd Georges,
+
+                je tenais à vous remercier, au nom de l'académie, pour les généreuses contributions que vous lui avez tout récemment consenties.
+
+                D'après les premières datations de notre département archéologique, le temple pré-akarite que vous avez mis au jour serait resté en usage prés de 60 ans après la date présumée de la chute de Nazur, ce qui soulève de nombreuses questions fort intéressantes.
+
+                Tous travaillent d'arrache-pied pour que le Traducteur de Runes soit opérationnel, et que nous puissions enfin exploiter cette abondance d'écrits antiques.
+
+
+
+
+
+        -   id: controversy_about_lg
+            categories: ["doctor_honoris_causa"]
+            sender_email: aiode@anthropia.pg
+            recipient_emails: [mneme@anthropia.pg, melete@anthropia.pg]
+            subject: "Soyons prudentes"
+            body: |
+
+                Concernant notre (mouvementée) discussion de tout à l'heure:
+
+                Je pense que cette situation doit être appréhendée avec la plus grande circonspection, et qu'il n'y a pas de solution évidente.
+
+                Comme tu l'as fait remarquer, Melete, scientifiquement parlant, Loyd Georges n'arrive pas à la hauteur des autres pressentis, et ses méthodes sont parfois... peu orthodoxes.
+
+                Néanmoins, il y a deja eu - et en particulier aux débuts de l'académie - nombre de titres de Doctor Honoris Causa décernés uniquement en guise de remerciements ; et ce, pour des dons bien inférieurs a ceux, aussi bien financiers qu'archéologiques, dont Loyd Georges nous gratifie depuis des décennies.
+
+                Certes, il n'est pas de notre intérêt de déprécier ces titres honorifiques, mais à l'inverse il serait dommage de décourager la générosité de nos bienfaiteurs, à force de restreindre notre considération aux seules prouesses de la matière grise. Le savoir nourrit l'esprit, mais le corps réclame son dû aussi.
+
+                A méditer, donc.
+
+
+
+
+    ## conversation with the dean Melete - opposed to Loyd Georges' wishes
+
+        -   id: honoris_causa_melete1
+            categories: ["doctor_honoris_causa"]
+            sender_email: melete@anthropia.pg
+            recipient_emails: loyd.georges
+            subject: "Lobbying pro Honoris Causa"
+            body: |
+
+                Monsieur,
+
+                j'ai bien pris note de la pression que vous exercez depuis des mois, en particulier via l'intermédiaire de vos amis les Pr Loakim et Shaw, afin d'obtenir un titre honorifique de la part de notre université.
+
+                Pour que vous ne nourrissiez pas d'espoirs inutiles, je me dois de vous signifier qu'en ce qui me concerne, c'est absolument inenvisageable.
+
+                Certes notre département d’Histoire Tectonne a grandement profité de vos dons et de vos récentes découvertes, mais le mécénat ne saurait être confondu avec l'expertise scientifique ; et en ce qui concerne ce dernier trait, tout porte à croire que vous êtes encore *largement* déficitaire. J'irais même jusqu'à dire que votre expédition en Midolie a allègrement piétiné toute la déontologie de la profession archéologique.
+
+                Lorsque des fouilles ont lieu, elles se doivent d'être menées en accord avec les populations et autorités locales, et avec une méthodologie extrêmement rigoureuse, afin de ne pas perdre une miette des reliques de l'Histoire. A l’inverse, se frayer un chemin à coup d'explosifs, puis déguerpir avec une partie des artefacts, je n’appelle pas cela une investigation scientifique, mais un pillage.
+
+                Vous nommer *Doctor Honoris* Causa pour un tel haut fait ne serait donc pas galvauder ce titre, mais rien moins que l'anéantir.
+
+                Courtoisement vôtre,
+
+                *Doyenne Melete*
+
+
+        -   id: honoris_causa_melete2
+            categories: ["doctor_honoris_causa"]
+            sender_email: loyd.georges
+            recipient_emails: melete@anthropia.pg
+            subject: "Re: Lobbying pro Honoris Causa"
+            body: |
+
+                Votre rectitude,
+
+                Je confesse avoir été aussi chagriné que vous par la perspective de mener mon expédition de cette façon diantrement cavalière. Mais je souhaite attirer votre attention sur l'enjeu faramineux que représentait, pour la science, cette évasion d'artefacts archéologiques midoliens.
+
+                Tout laisse à penser que l'Histoire de ce continent a été, lors de l’Ere Tectonne, d'une exceptionnelle complexité, en particulier sur le plan politico-religieux. Or, la piété des habitants du lieu étant encore bien vivace, dès qu'un vestige du passé est mis au jour, il est soit déclaré comme impie et détruit, soit considéré comme sacré et donc accaparé par le culte. Dans les deux cas, la grande perdante est la Science.
+
+                Je ne rougis donc pas d'avoir sauvé ces artefacts d’un monumental gâchis, et d'avoir ainsi offert à la connaissance humaine une chance de compléter ses lacunes, concernant une période clef de la chronologie midolienne.
+
+                Révérencieusement vôtre,
+
+                *Sir Loyd Georges*
+
+
+        -   id: honoris_causa_melete3
+            categories: ["doctor_honoris_causa"]
+            sender_email: melete@anthropia.pg
+            recipient_emails: loyd.georges
+            subject: "Re: Lobbying pro Honoris Causa"
+            body: |
+
+                Cher monsieur,
+
+                Un scientifique est par nature désintéressé. Or je n'ignore pas que vous avez l'intention de vendre aux enchères une partie de vos trouvailles, comme s'il s'agissait d’un trésor de guerre. Ce ne sont pas là les méthodes d'un scientifique digne de ce nom.
+
+                Courtoisement vôtre,
+
+                *Doyenne Melete*
+
+
+        -   id: honoris_causa_melete4
+            categories: ["doctor_honoris_causa"]
+            sender_email: loyd.georges
+            recipient_emails: melete@anthropia.pg
+            subject: "Re: Lobbying pro Honoris Causa"
+            body: |
+
+                Votre rectitude,
+
+                je me dois de dissiper ce malentendu. Je ne cherche pas à m'enrichir sur le dos de l’Histoire, mais uniquement à redresser des finances qui se portent fort mal, entre autres à cause des dons irraisonnés que j'ai consentis à votre université dans mes jeunes années. Je n'ai donc mis en vente que des gemmes sans valeur scientifique, ou des artefacts qui existent déjà en plusieurs exemplaires dans les musées.
+
+                Dès lors, il ne me semble pas anormal de faire appel à de grands bijoutiers, de prestigieux conservateurs, ou des collectionneurs de renom, pour me permettre de continuer à mener mes oeuvres. Ils prendront, j'en suis sûr, le plus grand soin des trouvailles que je leur confierai.
+
+                Révérencieusement vôtre,
+
+                *Sir Loyd Georges*
+
+
+        -   id: honoris_causa_banor
+            categories: ["doctor_honoris_causa"]
+            sender_email: aiode@anthropia.pg
+            recipient_emails: [melete@anthropia.pg, mneme@anthropia.pg]
+            subject: "Dr Syghmon Banor"
+            body: |
+                {{ A COMPLETER }}
+
+                Et encore une fois, concernant le professeur Syghmon Banor, je ne remets pas du tout en cause son expertise, ni l'intérêt, pour la science, de ses recherches. C'est quand même grâce à lui que de nouveaux matériaux polymères ont été découverts, et il a rigoureusement approfondi, à sa manière, la connaissance du règne animal.
+
+                Mais enfin, tu diras ce que tu voudras, nous aurons l'air bien fins lorsque les journaux annonceront sa nomination au titre de *Doctor Honoris Causa*.
+
+                Je vois d'ici les grands titres. "L'Académie d'Alifir récompense 20 années de recherche acharnée sur les pénis de Tapirs Obturandus". Nous allons passer pour une bande de monomaniaques tendancieux, voilà ce qui va arriver!
+
+                A méditer donc.
+
+                *Aïode*
+
+        -   id: honoris_causa_losslass
+            categories: ["doctor_honoris_causa", "pr_losslass"]
+            sender_email: emilos.loakim
+            recipient_emails: loyd.georges
+            subject: "À propos du Pr Losslass"
+            body: |
+                Après réflexion :
+
+                moi, ça me ferait doublement mal que le Pr Losslass te passe devant pour ce titre "honoris causa",
+                parce que ce gars là ne me revient complètement pas. Il y en a plus d'un à l'académie qui croit
+                que je suis jaloux, mais je suis juste infiniment sceptique devant ses "extraordinaires" découvertes.
+
+                Il suffit qu'il se ramène sur un chantier de fouilles et hop, en quelques jours de grattage à
+                peine, il tombe sur des objets et des ossements là où personne n'avait rien trouvé depuis des
+                mois. Il vient de partir pour des grottes en Axolia, dans les "montagnes nacrées" ; tu vas voir
+                que dans moins d'une semaine, il aura remis ça.
+
+                Les journalistes le surnomment "la main des dieux", mais à mon avis, c'est juste un escroc doublé
+                d'un habile faussaire. Je n'ai hélas jamais réussi à le prouver ; ses découvertes se montrent
+                - étrangement - réfractaires à de nombreuses analyses, et j'ai d'autres chats à fouetter que de
+                surveiller et confondre ce paltoquet. Mais il y aura bien un jour où il fera une gaffe, et où
+                le masque tombera.
+
+                Emil'
+
+
+        -   id: honoris_causa_libel_interview
+            gamemaster_hints: "Diffamation envers Loyd Georges, pour le doctorat honoris causa."
+            categories: ["doctor_honoris_causa", "pr_losslass"]
+            subject: "Flash Info - Scandale à l’Académie d’Alifir"
+            body: |
+
+                *Rien ne va plus au département archéologique de l’Académie d’Alifir. Après avoir soigneusement attisé la curiosité du monde scientifique de Pangéa, à coup de petites annonces aussi triomphales que nébuleuses sur un "scoop archéologique" en préparation, voilà que docteurs et professeurs sont contraints à un douloureux rétropédalage. Et qu’enfle la rumeur d’une fraude de grande envergure. En exclusivité, les explications du Pr Losslass, l’homme par qui la polémique est sortie au jour.*
+
+                - Alors oui, initialement nous étions subjugués par ces découvertes. Pensez donc, les restes prodigieusement conservés d’un temple yodique, une civilisation sur laquelle on ne connaît presque rien ! Mais peu à peu, il a fallu commencer à se poser des questions.
+
+                  Nous avons rapidement été... disons interloqués par la diversité des artefacts ramenés ; la plupart d'entre eux ressemblent furieusement aux oeuvres d'anciennes civilisations keroskiennes ou antariennes, et les sectes yodiques n'étaient pas connues pour leur... cosmopolitisme. Il y a aussi le contexte assez incroyable de ces découvertes. Pensez, dénicher en quelques minutes et a coups d'explosifs ce que des décennies de patience n'ont pas permis de découvrir, c'est un peu trop gros pour être vrai.
+
+                  Mais enfin le clou du spectacle, ce sont les soi-disant photographies du lieu, sur lesquelles nous avons trouvés de nombreux indices de vandalisme. Alors comme cela, des gens se seraient introduits dans un temple souterrain pour y briser quelques statues et peintures, mais auraient laissé sur place de nombreux artefacts intacts, et surtout des centaines d'inestimables joyaux ?? Allons bon, prise avec un peu de recul, toute cette histoire est ridicule.
+
+                - Vous accusez donc vos collègues du département d'archéologie d'être des escrocs ?
+
+                - Non, je les accuse d'être crédules. L'auteur de toute cette mise en scène me semble claire.
+
+                  Mettez-vous à la place d’un homme qui, en toute une vie de recherches archéologiques, n’a pas apporté ne serait-ce qu’un gravillon à l’édifice du Savoir. Au soir de sa vie, il se retrouve avec un tas d’artefacts sans queue ni têtes, glanés sur tout Pangéa ; face la lente disparition de la fortune que lui ont laissé ses ancêtres ; et avec la déréliction comme seule ligne d’horizon. Ne voyez-vous pas qu’il y a là, inévitablement, matière à une grave crise existentielle ?
+
+                  Dès lors, comment s’étonner de cette expédition miraculeuse, en un endroit où nul homme de science n’aura plus jamais le loisir d’investiguer ? De ce fatras d’objets et de pierres précieuses, que l’on croirait sorti d’un marché aux puces "grand luxe" ? De cette multiplication des incohérences entre les différents indices sur lesquels nous nous penchons ?
+
+                  Loyd Georges avait le choix entre la désespérance et la supercherie, il a voulu fuir la première, il héritera finalement des deux, mais non sans avoir, au passage, jeté le discrédit et l’opprobre sur un pan entier de la Science.
+
+
+        -   id: honoris_causa_libel_pain
+            gamemaster_hints: "Réaction à la diffamation envers Loyd Georges, pour le doctorat honoris causa."
+            categories: ["doctor_honoris_causa"]
+            subject: "Grandeur et déchéance........."
+            "recipient_emails":
+            - >-
+                emilos.loakim@anthropia.pg
+            "sender_email": >-
+                loyd.georges@anthropia.pg
+            body: |
+
+                Tu as lu les journaux, ces jours-ci ?
+
+                Je n’en dors plus la nuit.
+
+                J’ai jeté mes dernières forces dans cette expédition, et voilà que l’on m’accuse d’être un menteur et un escroc. Et toi aussi tu es dans la nasse, ainsi que toute l’académie. Pardonne-moi.
+
+                Ce maudit temple n’était peut-être qu’une absurde mise en scène, mais nous allons leur rabattre le caquet à cette meute de calomniateurs.
+
+                Trêve de subtilités, nous allons tous les rassembler, et leur dévoiler la "chose".
+
+
+        -   id: honoris_causa_libel_advice
+            "body": |
+                ATTENDS, surtout ne fais pas de bêtises. Tu sais aussi bien que moi que cette "chose" trouverait
+                une énorme résonance chez les fanatiques du bout du continent - ce n’est pas un sujet à traiter
+                à la légère. Je m’en veux déjà suffisamment d’avoir géré cela juste avec Waden et toi, alors que
+                l’académie offrait bien plus de sécurité en cas de fuites.
+
+                Pour le reste, je ne partage pas ton analyse. Là où il n’y a pas de mystères, il n’y a rien à
+                apprendre ; l’étrangeté de ce temple est donc un défi et une chance pour nous, non un échec. Et
+                nous avons encore quelques cartes maîtresses à joueur, en particulier les runes de ce fameux manuscrit.
+                Elles dépassent largement le contenu du livre saint yodique, même avec toutes ses extensions.
+
+                J'ai d'ailleurs trouvé quelques passages assez inédits dedans, qui parlent de la mythique "Bataille
+                de Wigwir" ; je revérifie les traductions, mais il est fort possible que toute la lumière sur
+                cette affaire doive se jouer **en Kéroskia** ! Je viens ce soir au manoir, après tes enchères,
+                pour qu'on en discute.
+
+                E.L
+            "categories": ["doctor_honoris_causa", "wigwir_orb"]
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                loyd.georges@anthropia.pg
+            "sender_email": >-
+                emilos.loakim@anthropia.pg
+            "subject": >-
+                "RE: Grandeur et déchéance........."
+
+
+
+
+        -   id: ceremony_player_invitation
+            gamemaster_hints: "Invitation que peut demander un joueur qui a réussi à s'attirer les grâces des doyennes de l'Académie d'Alifir, pour lui et Loyd Georges."
+            categories: ["doctor_honoris_causa"]
+            sender_email: system@anthropia.pg
+            recipient_emails: loyd.georges
+            subject: "Suite à votre demande"
+            body: |
+
+                .. FIXME,  à rationaliser dans les différents messages, à quoi LG est-il invité par défaut ???
+
+                Cher monsieur {{ nom_joueur }},
+
+                Nous acceptons avec joie votre demande.
+
+                Aussi vous trouverez jointes à ce courrier DEUX invitations pour le Grand Colloque, **pour vous et pour M. Loyd Georges** (qui n'était, en tant que non-scientifique, convié qu'à la cérémonie finale ; ce qui fut certes maladroit puisqu'il fait partie des pressentis - bien que controversé - à un titre honorifique).
+
+                Vous pourrez ainsi profiter de nombre d'archéologues de renom, partageant votre passion commune.
+
+                Bien à vous,
+
+                *Les Doyennes de l’Académie d’Alifir*
+
+
+
+        -   id: ceremony_lg_invitation
+            gamemaster_hints: "Invitation normale de Loyd Georges à la cérémonie finale de l'Académie d'Alifir."
+            categories: ["doctor_honoris_causa"]
+            sender_email: system@anthropia.pg
+            recipient_emails: loyd.georges
+            subject: "Invitation - Cérémonie Finale"
+            body: |
+
+                Cher sir Loyd Georges,
+
+                bientôt aura lieu le Grand Colloque de l'Académie d’Alifir, une occasion unique pour les érudits et les passionnés de se rassembler, d’échanger sur les dernières avancées de la Science, et éventuellement de susciter des vocations.
+
+                L’académie d’Alifir vous invite à participer à la désormais célèbre cérémonie finale de remise des prix, au cours de laquelle seront récompensés tous les savants qui ont, par leurs inventions ou leurs découvertes fait avancer l’état des connaissances scientifiques.
+
+                Nos trois Doyennes y gratifieront ensuite du titre de Docteur Honoris Causa celui qui aura, sans être passé par un cycle universitaire,  su montrer son apport à la recherche scientifique.
+
+                Nous souhaitons que cette cérémonie permette à chacun de se rappeler de l’importance de l’instruction et de la diffusion du Savoir en Sabarim et en Pangea ;
+
+                En espérant vivement vous compter des nôtres, veuillez recevoir nos meilleures salutations,
+
+                *l’Académie d’Alifir*
+
+
+
+
+        -   id: ceremony_lg_invitation_thanks
+            gamemaster_hints: "Réponse de Loyd Georges, si un joueur a réussi à le faire inviter à la cérémonie finale de l'Académie d'Alifir."
+            categories: ["doctor_honoris_causa"]
+            sender_email: loyd.georges@anthropia.pg
+            subject: "Re: Invitation - Cérémonie Finale"
+            body: |
+
+                Mon cher {{NOM}},
+
+                ce sont les muses elles-mêmes qui vous envoient ! J'étais justement sur le point de contacter l'académie, pour leur notifier cette incroyable méprise, cet impardonnable oubli. Mais voilà qui va nous faire gagner du temps, merci infiniment !
+
+                Gardez-le pour vous, mais je pense bien être en bonne position pour que mes apports à la Science soient reconnus lors de cette fameuse cérémonie finale, ce serait donc absurde que je n'aie pas eu le loisir de profiter du Colloque entier auparavant. Si vos "contacts" peuvent d'ailleurs s'assurer de cela...
+
+                Il faudra que je vous présente à des amis à moi, avec qui nous étudions en ce moment même quelque trouvaille qui pourrait bien révolutionner la Science telle que nous la connaissons.
+
+                Cordialement,
+
+                *Loyd Georges*
+
+
+
+
+        -   "id": nazur_new_mission_thoughts
+            "body": |
+                Mon cher Emilos,
+
+                merci encore d'être venu au manoir malgré vos faiblesses chroniques ; étant désormais cloîtré dedans, cela m'a été d'un grand réconfort.
+
+                Je vous souhaite bonne chance pour cette mission sacrée que nous vous avons confiée. Ce n'est
+                pas seulement mon honneur qui est en jeu, ni celui de l'Académie d'Alifir, c'est aussi toute notre connaissance de l'Ere Tectonne en Akarie qui pourrait être bouleversée si nous résolvons cette étrange énigme archéologique.
+
+                Voici ci-dessous les quelques photos exploitables, de l'extérieur du temple, et de l'intérieur
+                de son Saint des Saints (la momie couchée au milieu de la grande pièce, ainsi que le mobilier,
+                avait déjà été en grande partie chargé dans notre convoi). Nous pourrons discuter ensemble de
+                ces prises de vue si ce n'est pas clair.
+
+                En résumé, les questions qui se posent sont :
+
+                - **pourquoi ce mobilier hétéroclite, digne d'un collectionneur amateur (ancre et barre de bateau, tonneaux, armes étrangères...) ?**
+
+                - **pourquoi ces dégradations iconoclastes sur les murs et certains objets, alors que le Saint des Saints était hermétiquement scellé, et que les gemmes/artefacts étaient encore en place ?**
+
+                - **pourquoi ce cadavre couché au milieu, non violenté, alors que les autres "habitants du lieu" sont tous dans des tombes plus ou moins sophistiquées ?**
+
+                Mettons tout en oeuvre pour résoudre cela, dussions-nous envoyer une expédition éclair sur place
+                pour trouver des indices manquants ; et tuons la rumeur qui enfle, et qui prétend outrageusement
+                que toute mon expédition ne fut qu'une mascarade.
+
+                Dites-moi si besoin de fonds supplémentaires, nous vous transférons dès que possible les artefacts litigieux, et nous donnons accès à notre traducteur de rune (version beta). Et si nous pouvons faire quoi que ce soit pour vos propres problèmes...
+
+                Merci,
+
+                **LG**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/locations/nazur_temple_outside.jpg" "big_width"]
+                    :align: center
+
+                [BR]
+
+                .. image:: [GAME_THUMBNAIL_URL "images/locations/nazur_temple_inside.jpg" "big_width"]
+                    :align: center
+
+                [BR]
+
+                .. image:: [GAME_THUMBNAIL_URL "images/locations/nazur_temple_mini_altar.png" "big_width"]
+                    :align: center
+
+            "categories": ["doctor_honoris_causa", "nazur_orb"]
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                emilos.loakim@anthropia.pg
+            "sender_email": >-
+                loyd.georges@anthropia.pg
+            "subject": >-
+                Enigme de Nazur
+
+
+
+        -   "id": info_nazur_temple_investigations
+            "body": |
+                Chers tous,
+
+                le service du Pr Loakim m'a communiqué à l'instant quelques nouvelles avancées sur l'étude de
+                ce temple, que je tenais à vous partager.
+
+                Sur l'un des murs vandalisés, ils ont reconstitué une gravure de runes qui, une fois traduite,
+                donnait grosso modo : "lorsque la lumière de la foi/piété est filtrée par la doctrine/dogme, alors
+                sont révélées au fidèle des prophéties cachées depuis les commencements du monde".
+
+                Quant aux quelques "tags runiques", en pigment rouge, qui souillaient certains murs, ils ressemblaient
+                à des marques typiques d'iconoclaste, avec des mots comme "mensonge", "faux", ainsi que quelques
+                concepts orduriers que la décence m'empêche de citer ici.
+
+                J'espère que la toute prochaine autopsie de la "momie" retrouvée allongée au milieu du temple,
+                permettra d'en savoir davantage.
+
+                LG
+            "categories": ["doctor_honoris_causa", "nazur_orb"]
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                loyd.georges@anthropia.pg
+            "subject": >-
+                Enigmes de plus
+
+        -   "id": "losslass_spying_evidence"
+            "body":  |
+                Cher monsieur,
+
+                voici ci-dessous quelques images que nos caméras de surveillance ont captées sur le chantier de fouilles du Pr Losslass. Pour une raison qui reste à déterminer, il est sorti de nuit, avec un éclairage rudimentaire, pour farfouiner dans les ruines d'une cave de l'ère ante-tectonne.
+
+                La capture est trop imprécise pour savoir s'il venait prendre, ou déposer quelque chose, dans cette urne, mais sa conduite était assez foncièrement louche.
+
+                *Les oberons*
+
+                .. image:: [GAME_THUMBNAIL_URL "images/scenes/archaeology_fraud/fraud1.jpg" "medium_width"]
+                    :align: center
+
+                .. image:: [GAME_THUMBNAIL_URL "images/scenes/archaeology_fraud/fraud2.jpg" "medium_width"]
+                    :align: center
+
+                .. image:: [GAME_THUMBNAIL_URL "images/scenes/archaeology_fraud/fraud3.jpg" "medium_width"]
+                    :align: center
+
+                .. image:: [GAME_THUMBNAIL_URL "images/scenes/archaeology_fraud/fraud4.jpg" "medium_width"]
+                    :align: center
+
+                .. image:: [GAME_THUMBNAIL_URL "images/scenes/archaeology_fraud/fraud5.jpg" "medium_width"]
+                    :align: center
+
+                .. image:: [GAME_THUMBNAIL_URL "images/scenes/archaeology_fraud/fraud6.jpg" "medium_width"]
+                    :align: center
+
+                *Les oberons*
+            "categories": ["doctor_honoris_causa", "pr_losslass"]
+            "gamemaster_hints": "Si un joueur enquête sur les fouilles du Pr Losslass (dissémination de faux artefacts archéologiques)."
+            "sender_email": >-
+                atyourservice@oberons.pg
+            "subject": "Rapport sur Pr Losslass"
+
+
+        -   "id": "losslass_3d_printing_invoice"
+            "body": |
+                Ci-dessous le bon de LIVRAISON demandé::
+
+                    TRANSPORT SUPER-EXPRESS INTERNATIONAL
+                    FROM: Imprimeries Tridimensionnelles de Kioctl
+                    TO: Pr Losslass, Académie d'Alifir, Sabarim
+                    Poids: 3kg
+                    FRAGILE - SENSIBLE T° ET PRESSION
+                    N° de livrable 7233722
+                    N° de commande AJG2625
+                    
+                *Les oberons*
+            "categories": ["doctor_honoris_causa", "pr_losslass"]
+            "gamemaster_hints": "Si un joueur enquête sur les commandes du Pr Losslass aux imprimeries 3D (création de faux artefacts archéologiques)."
+            "sender_email": >-
+                atyourservice@oberons.pg
+            "subject": "Bon de Livraison Imprimeries Tridimensionnelless"
+
+
+
+        -   id: losslass_hoax_deans_response
+            "body": |
+                Mes amis,
+
+                vous avez décidément des alliés de poids. Considérez le Pr Losslass comme un déchu en sursis,
+                mais comme je l'ai dit (ci-dessous) à ce cher "{{JOUEUR}}", cela ne vous donne aucunement accès au
+                doctorat, sir Loyd Georges, car vous aussi êtes suspecté par le monde scientifique ; et temps
+                que, Pr Loakim, vous n'avez rien ramené de pertinent de Kéroskia, ces soupçons continueront à
+                enfler.
+
+                Je vous laisse trouver une issue à ce problème, et je veux du concret, pas des théories fumeuses.
+
+                Aiode
+
+                -----------
+
+                *Trouvez-nous au moins une piste, une explication tangible, qui permette de justifier soit ce
+                fatras d'objets insolites dans ce temple enfoui, soit le fait que ce temple ait été vandalisé
+                "à moitié" alors qu'il était hermétiquement clos. Et alors nous oserons faire front avec sir Loyd
+                Georges et le professeur Loakim, contre les rumeurs.*
+            "categories": ["doctor_honoris_causa", "pr_losslass"]
+            "gamemaster_hints": "A diffuser si un joueur a fait pression sur les doyennes après avoir débusqué le Pr Losslass"
+            "recipient_emails":
+            - >-
+                emilos.loakim@anthropia.pg
+            - >-
+                loyd.georges@anthropia.pg
+            "sender_email": >-
+                aiode@anthropia.pg
+            "subject": >-
+                Népotisme & co
+
+
+
+        -   "id": "doctor_honoris_causa_result"
+            "body": |
+                {{ICI DECRIRE CE QUI SE PASSE EXACTEMENT}}
+
+                -----------
+
+                .. image:: [GAME_THUMBNAIL_URL "images/scenes/lg_honoris_causa_victory.jpg" "big_width"]
+                    :align: center
+
+                -----------
+
+                .. image:: [GAME_THUMBNAIL_URL "images/scenes/lg_honoris_causa_defeat.jpg" "big_width"]
+                    :align: center
+
+            "categories": ["doctor_honoris_causa"]
+            "gamemaster_hints": "Pour après la cérémonie d'Alifir : choisir la bonne image et la commenter."
+            "subject": "Cérémonie de Remise des Prix à Alifir"
+
+
+

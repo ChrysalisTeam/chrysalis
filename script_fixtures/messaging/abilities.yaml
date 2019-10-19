@@ -1,0 +1,346 @@
+﻿---
+
+messaging:
+
+
+    manual_messages_templates:
+
+        -   "id": announce_brute_force_decryption
+            "body": |
+                <Transferred from : secret services>
+
+                Agents, nous vous rappelons que nous disposons d'un service de piratage cryptographique, capable
+                de s'attaquer en "force brutale" aux archives/fichiers chiffrés sur lesquels vous pourriez tomber.
+                C'est une opération gratuite, mais qui peut prendre plusieurs jours, selon la complexité du mot
+                de passe à deviner.
+
+                Par contre, cette manipulation ne peut PAS être utilisée pour deviner le mot de passe d'un compte
+                utilisateur, car au bout de 10 tentatives infructueuses, cela déclencherait des mesures de protection
+                anti "force brutale" sur le portail web.
+
+                Vos Supérieurs
+            "categories":
+            - >-
+                abilities
+            "gamemaster_hints": ""
+            "subject": >-
+                Notes du service cryptographie
+
+
+        -   id: feedback_akaris_threats_geoip
+            gamemaster_hints: "Retour si l'analyse GeoIP d'un email de menaces a été demandée par un joueur."
+            categories: ["abilities"]
+            sender_email: email-geolocation@digitalia.pg
+            subject: Localisation Email
+            body: |
+                Cher monsieur,
+
+                d'après nos traçages réseau, cet email a été envoyé depuis un bâtiment de la Congrégation pour l'Orthodoxie, un service de l'État Akarite sous le contrôle direct de ses plus hautes éminences, à savoir les fameux Judicateurs Akarites.
+
+                Nous constatons d'ailleurs une nette augmentation du trafic web et messagerie sur les bâtiments ministériels akarites, depuis deux mois environ, pour une raison qui nous est inconnue. Ce trafic cible souvent des adresses dans le reste de la Midolie ou bien en Sabarim.
+
+                *Conformément à nos conditions générales de vente, ce service vous a été facturé {{ PRIX }}.*
+
+
+
+
+        -   id: black_market_offers_1
+            gamemaster_hints: "Publicité pour le marché noir, et vente d'objets divers (certains utiles, d'autres non)."
+            categories: ["abilities"]
+            sender_email: black-market@business.pg
+            subject: Le marché informel débarque chez vous !
+            body: |
+
+                Chers futurs clients, fatigués des embarras du commerce officiel ?
+
+                Voilà qui tombe bien, nous vous proposons aujourd'hui notre service de Marché Noir Haut de gamme.
+
+                N'hésitez pas à nous proposer vos biens à l'achat, même les plus précieux objets trouvent chez nous acquéreur, au minimum à leur valeur "estimée par des experts".
+
+                De notre côté nous ne manquerons pas de vous faire profiter de nos meilleures offres, par exemple actuellement :
+
+                - une authentique copie du tableau "Les cygnes d'étang" (calembour), par Justik Blomorovik (prix: 4500¤)
+                - 1 antique tonnelet en bois, subtilisé durant une expédition archéologique récente en Midolie (prix: 50¤)
+                - 400 kilos de saucisson à l'ail de Monon, crû 1011 (prix: 20¤)
+                - 1 kilo de drogue de synthèse "licorne arc-en-ciel", en poudre raffinée (prix: 50¤)
+                - des kit logiciels "ultimate bank spider", permettant de lire les comptes des autres clients de votre banque, quelle qu'elle soit (prix: 10¤)
+                - la collection complète des oeuvres numériques du poète chansonnier humoristique Répuce Soifran (prix: 4¤)
+
+                **Retrouvez-nous vite dans la section "Marché Noir" !**
+
+
+
+        -   id: black_market_offers_2
+            "body": |
+                Chers clients (potentiels),
+
+                cette semaine de nouvelles opportunités sont venues compléter notre catalogue. Vous pouvez donc, par notre entremise, acquérir:
+
+                - un monocle en argent plaqué OR, le MUST pour tout "sir" qui se respecte, même non myope ; emballage cadeau offert sur demande (prix: 200)
+
+                - un kit de confidentialité, chiffrant votre messagerie email en la défendant ainsi contre les oreilles indélicates (prix : 400¤)
+
+                - un lot de 18 pièces métalliques percées, une quincaillerie très prisée des peuplades barbares des tréfonds de Kéroskia (prix : 20¤)
+
+                - 3 tenues de plongée en eau profonde, issues des stocks de l'armée sabarite, avec bouteilles fournies (prix : 40¤)
+
+                Dépêchons, il n'y en aura peut-être pas pour tout le monde !
+
+                A bientôt,
+
+                *le marché informel*
+            "categories":
+            - >-
+                abilities
+            "gamemaster_hints": ""
+            "sender_email": >-
+                black-market@business.pg
+            "subject": >-
+                Nouveaux arrivages au marché
+
+        -   id: black_market_offers_3
+            "body": |
+                Chers clients,
+
+                le marché noir va se prendre bientôt des vacances bien méritées, mais admirez (et ACHETEZ) présentement nos dernières opportunités :
+
+                - un lingot 100% OR 1Kg, valeur sûre pour thésauriser vos biens. Prix: 1000¤
+
+                - une étrange statuette (divinité homme-ourse accroupie), venant de Slavinka ; livrée avec notice détaillant sa mouvementée histoire, et son passage entre les mains de plusieurs célèbres aventuriers. Prix: 600¤
+
+                - un parchemin roulé, copie manuscrite du très ancien "Une vie à braver l'océan diorique, mémoires du capitaine de navette Hawata Sensa". Prix: 20px
+
+                *le marché noir*
+            "categories":
+            - >-
+                abilities
+            "gamemaster_hints": ""
+            "sender_email": >-
+                black-market@business.pg
+            "subject": >-
+                Nouveaux arrivages au marché (encore)
+
+
+
+        -   id: oberons_feedback_alifir
+            gamemaster_hints: "Retour si des mercenaires sont envoyés enquêter à l'Académie d'Alifir."
+            categories: ["abilities"]
+            sender_email: atyourservice@oberons.pg
+            subject: Espionnage Alifir
+            body: |
+
+                Cher et honorable client,
+
+                j'ai le retour de notre contact sur place, à Alifir.
+
+                Il m'informe qu'en effet le département archéologique de l'académie a reçu récemment un bon nombre d'artefacts "mirobolants" (comme il le dit). Il a entendu parler d'une amphore ainsi que d'un gros livre, mais n'en sait pas plus.
+
+                Ces nouvelles pièces sont entreposées dans un dépôt très bien surveillé, mais lorsqu'elles sont, chacune leur tour, sorties pour analyse, il y a un créneau pour faire quelque chose : à la pause de midi.
+
+                Par contre, clairement, au vu de la vidéosurveillance omniprésente, toute action sera un "one shot", et devra être suffisamment rémunérée pour que notre contact puisse, suite à cela, s'expatrier et s'offrir une nouvelle vie.
+
+
+
+
+        -   id: security_measures
+            gamemaster_hints: "Indice pour le piratage des comptes de PNJ via la 'question secrète'."
+            categories: ["abilities"]
+            sender_email: system@anthropia.pg
+            subject: Procédures de sécurité !
+            body: |
+
+                Cher utilisateur du portail Anthropia,
+
+                suite à de récentes tentatives d'intrusion, et dans un souci constant de renforcer la sécurité de vos données, une nouvelle politique de "récupération des mots de passe" va être mise en place. En cas de perte de votre mot de passe, il vous faudra à terme vous rendre en personne, avec votre badge, au QG de sécurité de l'Académie d'Alifir.
+
+                Les comptes de moins de 3 mois sont déjà dépourvus de "question secrète". Cette fonctionnalité dangereuse sera aussi supprimée pour les comptes plus anciens, d'ici la fin de l'année prochaine.
+
+                En attendant, veuillez vous assurer que votre "question secrète", si elle existe, offre bien un niveau de confidentialité suffisant.
+
+                *Rappels* : ne communiquez jamais votre mot de passe à quiconque, et alertez immédiatement la Sécurité en cas d'activités anormales sur votre compte Anthropia.
+
+                *Le QG Sécurité*
+
+
+
+        -   id: biophysics_analysis_amphora
+            gamemaster_hints: "Retour si analyse biophysique de l'amphore."
+            categories: ["abilities"]
+            sender_email: biophysicslab@anthropia.pg
+            subject: Rapport d'analyse biochimique
+            body: |
+
+                Cher monsieur,
+
+                après étude des résidus chimiques sur les parois internes de l'amphore, il s'avère qu'il s'agit de sel "terrestre" hyper-iodé, comme on en trouve uniquement dans les mers de sel d'Aklarvik ou d'Antaria.
+
+                Les pollens et moisissures retrouvés à l'extérieur, cependant, sont plus récents, et caractéristiques du continent intérieur midolien. L'amphore elle-même, en argile marbrée, semble dater de la fin de l'ère tectone, il y a 600 ans environ.
+
+                Nous n'avons hélas pas le moyen de décrypter les runes akarites qui recouvrent la surface de cette amphore - runes que vous pouvez admirer dans le diaporama 3D de votre section "Mes Objets".
+
+                | En espérant vous avoir été utile,
+                | cordialement,
+                | Le Centre d'Etudes de Belez
+
+
+        -   "id": oberons_lg_manor_spying
+            "body": |
+                Nos plus obséquieuses salutations, cher monsieur.
+
+                Nos confrères sont allés flâner autour du manoir de Loyd Georges à Salima, et il s'avère que cette
+                auguste habitation a subi de lourdes transformations ces derniers mois. Pour un peu, je parlerais
+                presque de "fortifications".
+
+                Il me parait donc urgent d'attendre, et d'étudier les lieux et les allées et venues avant de tenter
+                quoi que ce soit. Ou bien, si vous êtes vraiment pressé, nous pouvons engager de petits caïds
+                pour tenter un casse (ça coutera bien 300¤) , mais il est certain que notre confrérie ne s'attaquera
+                pas elle-même à un si hasardeux lieu.
+
+                Dans l'attente de vos vénérées instructions,
+
+                les Oberons
+            "categories":
+            - >-
+                abilities
+            "gamemaster_hints": "Si des obérons sont envoyés espionner le manoir de LG."
+            "sender_email": >-
+                atyourservice@oberons.pg
+            "subject": >-
+                Rapport - Mission Obéron
+
+
+        -   id: oberons_loyd_georges_spying
+            gamemaster_hints: "Retour si les mercenaires doivent espionner Loyd Georges."
+            categories: ["abilities"]
+            sender_email: atyourservice@oberons.pg
+            subject: Rapport d'espionnage
+            body: |
+
+                Cher monsieur,
+
+                nous avons pu rassembler quelques éléments sur la vie de Loyd Georges : il passe beaucoup de temps à jouer au Tarot chez son ami Lariss De Trévors (3 rue des acacias à Salima), un de ses vieux chiens s'appelle Anubis, il aime beaucoup les fromages fins de chèvres, et il a un système de sécurité très abouti protégeant son manoir.
+
+                Nous avons placé une sonde pirate pour interagir avec son digicode, mais nous n'avons hélas pas le mot de passe de ce dernier. Vous pouvez y accéder dans l'onglet "Sécurité du Manoir".
+
+                cdlt,
+
+                Les Obérons
+
+
+
+
+        -   id: oberons_alifir_academy_spying
+            gamemaster_hints: "Deuxième retour si espionnage, par des mercenaires, de l'Académie d'Alifir."
+            categories: ["abilities"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Bis: Rapport d'espionnage"
+            body: |
+
+                Cher monsieur,
+
+                nous avons eu de plus amples nouvelles de notre contact en l'Académie d'Alifir.
+
+                Il nous informe que le service archéologique du Pr Loakim se concentre actuellement sur 3 artefacts, qui sont tour à tour sortis du dépôt ultra-sécurisé pour être analysés.
+
+                Ces 3 objets sont une drôle de statuette cornue sur piédestal, une espèce de grimoire ancien couvert de runes, et une étrange statuette assise.
+
+                Etes-vous prêt à payer les 2000¤ en cash (ou 1000¤ en gemmes) pour que notre contact organise la subtilisation de l'objet que vous indiquerez, et disparaisse dans la nature après vous l'avoir remis ?
+
+                Cordialement,
+
+                *Le Central Obéron*
+
+
+
+        -   id: world_scan_announce
+            gamemaster_hints: "Annonce de la dernière chance pour donner accès au Scan Mondial, si aucun joueur n'est rentré en contact approfondi avec le 'Paladium'."
+            categories: ["abilities"]
+            sender_email: world-scanner@paladium.pg
+            subject: Nouveau - le Scan Mondial
+            body: |
+
+                Notre confrérie est fière de vous présenter la version de démonstration de son "Détecteur Manaïque".
+
+                Les sciences technomanaïques naissantes nous permettent en effet de prendre une nouvelle forme d'empreinte sur un objet, et de scanner l'ensemble du globe à la recherche d'objets similaires (pour peu qu'ils ne soient, évidemment, pas trop communs !).
+
+                La recherche désespérée de votre trousseau de clefs ou de votre chinchilla ne seront bientôt plus que des affaires du passé.
+
+                RDV dans la section "Scan Mondial" de votre portail pour en savoir davantage.
+
+                *Paladium*
+
+
+
+        -   id: world_scan_amphora
+            gamemaster_hints: "Retour si un scan manaïque mondial a eu lieu en prenant pour modèle l'amphore."
+            categories: ["abilities"]
+            sender_email: world-scanner@paladium.pg
+            subject: "Votre scan mondial 'amphore'"
+            body: |
+
+                Cher monsieur,
+
+                l'empreinte manaïque de cette amphore a été repérée à divers endroits sur Pangéa:
+
+                - dans "Les vieilleries de Joji", antiquaire à Baynon (Lordanie)
+                - dans l'entrepôt des Mielleries à l'Ancienne, à Cazoar (Sabarim)
+                - en forte concentration dans les ruines de l'ancienne Blassow (Antaria)
+                - dans quelques caves de particuliers à Kosalam
+
+                Espérant vous avoir convaincu de la puissance de notre nouvelle technologie,
+
+                cordialement,
+
+                *le Paladium*
+
+
+
+        -   id: world_scan_runic_chest
+            gamemaster_hints: "Retour si un scan manaïque mondial a eu lieu en prenant pour modèle le coffre avec runes."
+            categories: ["abilities"]
+            sender_email: world-scanner@paladium.pg
+            subject: "Votre scan mondial 'coffre'"
+            body: |
+                Cher monsieur,
+
+                l’empreinte manaïque de ce coffre a été repérée en divers endroits sur Pangéa:
+
+                - dans une mer de sel à l'Ouest d'Antaria (coordonnées 128.872228)
+                - en pleine jungle, au sud de Slavinka (coordonnées 9278.2267)
+                - dans le Temple Yodique de Zorzas
+                - chez Maître Védrille, richissime lord de Kioctl (Balberith)
+
+                Espérant vous avoir convaincu de la puissance de notre nouvelle technologie,
+
+                cordialement,
+
+                *le Paladium*
+
+
+
+        -   "id": "djinns_announce"
+            "body": |
+                Chers interlocuteurs,
+
+                nous sommes délicatement extatiques de vous annoncer l'arrivée prochaine, sur votre portail, d'un
+                contact avec nous autres, sages Djinns.
+
+                Veuillez cependant noter que nos tarifs ne sont pas minables :
+
+                800¤ en cash, ou 200¤ en gemmes naturelles.
+
+                Avec un petit caprice bien mignon de notre part : nous ne sommes pas intéressés par des gemmes
+                dont la valeur unitaire est inférieure à 200¤.
+
+                Les djinns
+            "categories":
+            - >-
+                abilities
+            "gamemaster_hints": ""
+            "sender_email": >-
+                djinns@sedes-sancta.pg
+            "subject": >-
+                Arrivée prochaine d'un module djinnique
+
+
+...

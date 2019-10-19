@@ -1,0 +1,14 @@
+\audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\ \vce=speaker=Julie\ le dénouement approche dans l'affaire de l'attentat contre Loyd Jorje. 
+Un des participants aux enchères, qui se faisait passer pour le respectable X, a été démasqué comme étant en réalité l'agent X, travaillant pour le compte des services secrets de X.
+Il est inculpé d'espionnage, d'atteinte à la vie privée, de X et X.
+Forte de ces nouveaux éléments, l'enquête poursuit son cours.
+\pau=1000\
+
+
+\audio=mix="news_intense_full_loop_014";volume=100;repeat=on\ \pau=5000\ \pau=5000\ \pau=4000\ \audio=volume=25\ \pau=1500\ \vce=speaker=Claire\
+l'incident diplomatique prend des proportions en Endara, où une expédition archéologique illégale prétend avoir  mis au jour un très ancien tombeau yodique dans le désert de sel, ce qui a poussé les hauts judicateurs akarites à revendiquer la souveraineté historique de ce territoire.
+\pau=1500\
+En kéroskia, les armées de Slavinka et Tieros Olim ont été mobilisées pour surveiller les frontières et faire des battues dans leurs forêts tropicales, après l'incursion sauvage de plusieurs groupes de touristes qui ont provoqué les pygmées Tonkilis en empiétant sur leur territoire.
+\pau=1500\
+En sabarim, une brutale émeute s'est déclenchée dans un hameau de Faéranne Sud, forçant l'intervention des gendarmes réservistes. Les émeutiers ont tenté de piller un appartement, et plusieurs interpellations ont eu lieu, mais un physicien et une reporter étaient toujours recherchés en début de matinée.
+\pau=200\

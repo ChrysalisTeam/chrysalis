@@ -1,0 +1,2 @@
+\audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\ \vce=speaker=Julie\ Il souffle comme un vent de déjà-vu en Midolie, où l'Etat d'héliossar a appelé les pays voisins à signer un traité d'assistance mutuelle, afin de peser contre la menace akarite. Thélassar et la Masslavie ont répondu favorablement, mais la Dorie a appelé à la retenue, en indiquant que ce type d'initiative ne ferait qu'attiser les tensions.
+\pau=1000\

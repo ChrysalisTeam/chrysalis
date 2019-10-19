@@ -1,0 +1,52 @@
+﻿---
+
+nightmare_captchas:
+
+    trolling:
+        text: "En philosophie, dans quelle mesure l'Etre est-il subversivement contingent à la Substance ?"
+        image: null
+        answer: null
+        explanation: null  # Certaines questions n'ont juste pas de réponse.
+
+    unreadable:
+        text: "Traduisez en français ce texte :"
+        image: "unreadable.png"
+        answer: null
+        explanation: null  # Certaines langues ont disparu...
+
+    derivatives:
+        text: "Résoudre Y dans l'équation suivante :"
+        image: "equation.jpg"
+        answer: null
+        explanation: null  # Certaines équations n'ont juste pas de réponse.
+
+    maths_enumeration:
+        text: |
+            Ecrivez un nombre de 10 chiffres tel que :
+
+            - le premier chiffre en indique le nombre total de zéros
+            - Le deuxième chiffre le nombre total de 1 et ainsi de suite jusqu'au dernier chiffre.
+
+        image: null
+        answer: "6210001000"
+        explanation: "Le nombre trouvé correspond aux critères."
+
+    common_point:
+        text: "Quel est le chiffre commun aux 6 chiffres suivants : 7, 5, 2, 0, 9, 8 ?"
+        image: null
+        answer: "4"
+        explanation: "Tous s'écrivent avec 4 lettres."
+
+    logical_sequence:
+        text: "Soit la suite logique suivante : 4, 6, 15, 105, .... quel sera le nombre suivant ?"
+        image: null
+        answer: "5460"
+        explanation: "( 105 × 105 − 105 ) / 2 = 5460"
+
+    easy_question:
+        text: "Dans quelle ville se trouve la plus glorieuse académie de tout Pangéa ?"
+        image: null
+        answer: "Alifir"
+        explanation: "L'Académie d'Alifir, y a-t-il plus bel hommage à la Science sur tout Pangéa ?"
+
+...

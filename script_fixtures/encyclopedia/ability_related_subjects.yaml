@@ -1,0 +1,43 @@
+---
+
+
+static_pages:
+
+    oberon_brotherhood:
+        title: "Confrérie des Obérons"
+        categories: ["encyclopedia"]
+        keywords: ["confrérie des obérons", "ob[eé]rons?", "puks?", "confrérie", "mercenaires?"]
+        content: |
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/foggy_crater_city.png" "big_width"]
+                :align: center
+
+            La Confrérie des Obérons est un collectif international, qui se veut officiellement une fraternité d'hommes "à tout faire", offrant leurs multiples compétences à qui les désire (et en a les moyens).
+
+            Dans les faits, le tarif de ces "obérons" (l'origine de ce mot s'est perdue) est assez exorbitant, et ils semblent surtout utilisés pour des missions de filature, d'espionnage, de piratage informatique, ou de cambriolage. Ils se défendent cependant de faire quoi que ce soit d’illégal, et ostracisent comme brebis galeuses leurs frères qui se sont fait prendre la main dans le sac.
+
+            Cette nébuleuse est constituée de "pôles" autonomes, présents dans les principales villes de Pangéa. Tous obéissent à quelques règles aussi implicites que strictes :
+
+            - pas de violence : les frères sont au-dessus de ces déshonorantes vulgarités (mais ils peuvent déléguer cela à des malfrats de leur connaissance appelés "puks")
+            - pas de conflits d’intérêts : si des commanditaires donnent des instructions contraires, ou tentent de se nuire mutuellement, les obérons s'abstiennent, et laissent leurs clients régler leurs conflits entre eux
+            - pas de mission suicidaire : à l'impossible nul obéron n'est tenu
+
+
+    djinns:
+        title: "Djinns de Sedes Sancta"
+        categories: ["encyclopedia"]
+        keywords: ["djinns de sedes sancta", "djinns", "sedes sancta", "oracles?"]
+        content: |
+
+            Les djinns de Sedes Sancta sont une étrange confrérie recluse en son sanctuaire, qui cultive le savoir comme une divinité, et délivre des informations rares contre de fortes sommes d'argent.
+
+            Ils semblent avoir un bon réseau d'informateurs à travers le monde, ainsi qu'une bibliothèque immense.
+
+            Un des rares aperçus que nous ayons eus d'eux :
+
+            .. embed_video:: [ GAME_FILE_URL "video/djinn_sedes_sancta.flv" ]
+
+
+
+...
+

@@ -1,0 +1,54 @@
+﻿
+
+global_parameters:
+
+    game_is_started: True # allows to freeze game
+
+    game_theoretical_length_days: 30
+
+    pangea_network_domain: anthropia.pg
+    all_players_mailing_list: "[auction-list]@anthropia.pg"
+    default_contact_avatar: "images/symbolic_avatars/question_mark.png"
+
+    anonymous_login: anonymous
+    master_login: system
+    master_password: ultimate
+    master_real_email: ""
+
+    # timers for misc events
+    online_presence_timeout_s: 600
+    chatroom_presence_timeout_s: 15
+    chatroom_timestamp_display_threshold_s: 600
+
+    bank_name: "bank"
+    bank_account: 100000 # let's take huge margins
+    spent_gems: [] # only values in kashes, in this list
+
+    pangea_radio_frequency: "100.0" # string, for the "consuming" public webadio
+    radio_is_on: false # beware, only for the "consuming" public webradio
+    pending_radio_messages: [] #for all radio types
+
+    encyclopedia_index_visible: false
+
+    friendship_minimum_duration_mn_abs: 720 # NOT a relative delay
+
+    world_map_image: "images/world_maps/pangea_world_map_v10_8bits.png"
+    world_map_image_bw: "images/world_maps/pangea_world_map_blackwhite_31.jpg"
+
+    password_recovery_delay_mn: 0  # having a delay here is weird!
+
+    game_random_seed: "ahAUGAaguTAkOSy28686" # used to init random generators, TODO UNUSED ATM!!!
+
+    disable_automated_ability_responses: true
+    disable_real_email_notifications: false
+
+scheduled_actions: [] #-> list of scheduled action dicts
+
+events_log: [] #-> list of event dicts
+
+novelty_tracker: {} #-> dict mapping novelties to usernames having seen them
+
+chatroom_messages: [] #-> list of message records
+
+static_pages: {} #-> will be filled by other fixture files
+

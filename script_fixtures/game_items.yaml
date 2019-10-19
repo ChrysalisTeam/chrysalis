@@ -1,0 +1,713 @@
+﻿---
+
+
+game_items:
+
+
+    ## AUCTION ITEMS ##
+
+    7_rubies:
+        is_gem: True
+        total_price: 245
+        num_items: 7
+        auction: "1-A"
+        image: "7_rubies.jpg"
+        title: "7 rubis non polis"
+        comments: "Ces précieuses gemmes rougeoyantes, taillées en Marquise mais non polies, se prêteront à toutes sortes de finitions."
+        gamemaster_hints: "Gemmes pratiques pour faire l'appoint."
+
+    7_topazes:
+        is_gem: True
+        total_price: 280
+        num_items: 7
+        auction: "1-B"
+        image: "7_topazes.jpg"
+        title: "7 topazes"
+        comments: "Ces topazes, taillés en Princesse, vous séduiront par la profondeur de leur teinte légèrement turquoise."
+        gamemaster_hints: "Gemmes multi-usages."
+
+    8_amethysts:
+        is_gem: True
+        total_price: 240
+        num_items: 8
+        auction: "1-C"
+        image: "8_amethysts.jpg"
+        title: "8 améthystes"
+        comments: "Nanties d'une douce transparence violacée, ces améthystes taillées en Ovale combleront de joie leur possesseur."
+        gamemaster_hints: "Gemmes pratiques pour faire l'appoint."
+
+    25_sapphires:
+        is_gem: True
+        total_price: 500
+        num_items: 25
+        auction: "1-D"
+        image: "25_sapphires.jpg"
+        title: "25 saphirs"
+        comments: "Une taille Marquise et un bleu marin, quoi de mieux pour cette déferlante de précieux saphirs ? "
+        gamemaster_hints: "Gemmes pratiques pour faire l'appoint."
+
+    8_colored_diamonds:
+        is_gem: True
+        total_price: 1200
+        num_items: 8
+        auction: "1-E"
+        image: "8_colored_diamonds.png"
+        title: "8 diamants d'exception"
+        comments: "Retrouvez toutes les couleurs de l'arc-en-ciel dans ce lot exceptionnel de diamants."
+        gamemaster_hints: "Gemmes piégées, peu utilisables."
+
+
+
+    3_green_tourmalines:
+        is_gem: True
+        total_price: 115
+        num_items: 3
+        auction: "2-A"
+        image: "3_green_tourmalines.jpg"
+        title: "3 tourmalines"
+        comments: "De volumineuses tourmalines polies en Cabochon, qui diffusent leur vert si profond et spécifique."
+        gamemaster_hints: "Gemmes pratiques pour faire l'appoint."
+
+    5_diamonds:
+        is_gem: True
+        total_price: 875
+        num_items: 5
+        auction: "2-B"
+        image: "5_diamonds.jpg"
+        title: "5 diamants"
+        comments: "Une taille ronde classique est de mise pour ces diamants de forte valeur."
+        gamemaster_hints: "Gemmes piégées, peu utilisables."
+
+    8_emeralds:
+        is_gem: True
+        total_price: 440
+        num_items: 8
+        auction: "2-C"
+        image: "8_emeralds.jpg"
+        title: "8 émeraudes"
+        comments: "Craquez pour ces émeraudes en Ovale, et leur douce teinte verte."
+        gamemaster_hints: "Gemmes multi-usages."
+
+    16_garnets:
+        is_gem: True
+        total_price: 480
+        num_items: 16
+        auction: "2-D"
+        image: "16_garnets.jpg"
+        title: "16 grenats"
+        comments: "Gemme souvent sous-estimée, le grenat illuminera vos parures de sa teinte sanguine."
+        gamemaster_hints: "Gemmes pratiques pour faire l'appoint."
+
+    6_different_gems_case:
+        is_gem: True
+        total_price: 1500
+        num_items: 6
+        auction: "2-E"
+        image: "6_different_gems_case.png"
+        title: "6 diamants d'exception"
+        comments: "Chapeau bas devant ces exemplaires rarissimes des plus précieuses pierres existantes."
+        gamemaster_hints: "Utiles pour débloquer des informations rares."
+
+    amphora:
+        auction: 2-F
+        comments: "Une pièce insolite du temple de Nazur."
+        gamemaster_hints: "Un indice vers l'orbe polaire."
+        image: images/sales/amphora.jpg
+        is_gem: false
+        num_items: 1
+        title: "Belle Amphore Antique"
+        total_price: 900
+
+    yodic_candle:
+        auction: 2-G
+        comments: "Précieux témoin de secrètes célébrations yodiques de l'ère tectonne, dans le temple enfoui. État originel."
+        gamemaster_hints: ""
+        image: images/objects/brass_wax_candle_holder.png
+        is_gem: false
+        num_items: 1
+        title: "Cierge Yodique"
+        total_price: 300
+
+    basket_bottle:
+        auction: 2-H
+        comments: "Grosse bonbonne ayant servi aux habitants du temple enfoui. État originel."
+        gamemaster_hints: ""
+        image: images/objects/basket_bottle.png
+        is_gem: false
+        num_items: 1
+        title: "Bonbonne tectonne"
+        total_price: 300
+
+    void_scroll:
+        auction: 2-I
+        comments: "Parchemin visiblement inutilisé, trouvé dans une caissette de parchemins utilisés, dans le temple enfoui. État originel."
+        gamemaster_hints: "En réalité, ce parchemin porte un message à l'encre invisible."
+        image: images/objects/scroll_void.png
+        is_gem: false
+        num_items: 1
+        title: "Parchemin Akarite"
+        total_price: 100
+
+
+    30_raw_diamonds:
+        is_gem: True
+        total_price: 450
+        num_items: 30
+        auction: "3-A"
+        image: "30_raw_diamonds.jpg"
+        title: "30 petits diamants bruts"
+        comments: "Aiguisez vos outils, ces diamants bruts ne demandent qu'à exhiber leur beauté au monde entier."
+        gamemaster_hints: "Revendable à bon prix à de véritables commerciaux."
+
+    7_smoky_quartzes:
+        is_gem: True
+        total_price: 210
+        num_items: 7
+        auction: "3-B"
+        image: "7_smoky_quartzes.jpg"
+        title: "7 quartz fumés"
+        comments: "Ces quartz en Ovale se marieront agréablement avec un style sobre mais distingué."
+        gamemaster_hints: "Gemmes pratiques pour faire l'appoint."
+
+    7_aquamarines:
+        is_gem: True
+        total_price: 490
+        num_items: 7
+        auction: "3-C"
+        image: "7_aquamarines.jpg"
+        title: "7 aigues-marines"
+        comments: "Une lueur éclatante et une taille Ovale, ces aigues-marines ne pouvaient rêver mieux pour briller auprès de leurs spectateurs."
+        gamemaster_hints: "Gemmes chères, peu faciles à écouler."
+
+    40_tiny_emeralds:
+        is_gem: True
+        total_price: 400
+        num_items: 40
+        auction: "3-D"
+        image: "40_tiny_emeralds.jpg"
+        title: "40 émeraudes taillées"
+        comments: "Ces petites émeraudes feront une adorable rivière de gemmes, pour les plus grandes occasions."
+        gamemaster_hints: "Uniquement utiles pour faire l'appoint."
+
+    6_sapphire_gems:
+        is_gem: True
+        total_price: 1200
+        num_items: 6
+        auction: "3-E"
+        image: "6_sapphire_gems.png"
+        title: "6 saphirs d'exception"
+        comments: "Ces saphirs, exceptionnels par leur taille et leur qualité, feront le délice des plus hauts personnages de l'univers."
+        gamemaster_hints: "Gemmes piégées, peu utilisables."
+
+    midolian_katana:
+        auction: 3-F
+        comments: "Katana trouvé dans le temple enfoui. Il a par erreur été entièrement dérouillé, réaffuté, et désinfecté. Très fashion au mur dans votre salon."
+        gamemaster_hints: ""
+        image: images/objects/katana.png
+        is_gem: false
+        num_items: 1
+        title: "Katana Midolien"
+        total_price: 200
+
+    dog_skull:
+        auction: 3-G
+        comments: "Crâne canin trouvé dans le temple enfoui. État originel."
+        gamemaster_hints: ""
+        image: images/objects/dog_skull.png
+        is_gem: false
+        num_items: 1
+        title: "Crâne de Chien"
+        total_price: 150
+
+    three_eyes_skull:
+        auction: 3-H
+        comments: "Buste en pierre, trouvé dans le temple enfoui. État originel."
+        gamemaster_hints: ""
+        image: images/objects/three_eyes_skull.png
+        is_gem: false
+        num_items: 1
+        title: "Buste à 3 yeux"
+        total_price: 450
+
+    rounded_grating:
+        auction: 3-I
+        comments: "Grille de puits, rouillée, trouvée accrochée à un mur du temple enfoui. État originel. Présence d'inscriptions runiques, non encore traduites."
+        gamemaster_hints: ""
+        image: images/objects/rounded_grating.png
+        is_gem: false
+        num_items: 1
+        title: "Grille Rouillée"
+        total_price: 200
+
+
+    46_small_gems:
+        is_gem: True
+        total_price: 460
+        num_items: 46
+        auction: "4-A"
+        image: "46_small_gems.png"
+        title: "46 petites gemmes taillées"
+        comments: "Une diversité inimaginable de formes et de couleurs, pour cet assortiment de gemmes aux multiples usages. "
+        gamemaster_hints: "Uniquement utiles pour faire l'appoint."
+
+    8_citrines:
+        is_gem: True
+        total_price: 480
+        num_items: 8
+        auction: "4-B"
+        image: "8_citrines.jpg"
+        title: "8 citrines"
+        comments: "Leur teinte citronnée, leur qualité et leur taille Ovale font de ces citrines un produit plus qu'aguicheur."
+        gamemaster_hints: "Uniquement utiles pour faire l'appoint."
+
+    15_raw_diamonds:
+        is_gem: True
+        total_price: 450
+        num_items: 15
+        auction: "4-C"
+        image: "15_raw_diamonds.jpg"
+        title: "15 diamants bruts"
+        comments: "Toutes les formes sont envisageables pour ces diamants bruts de qualité."
+        gamemaster_hints: "Revendable à bon prix à de véritables commerciaux."
+
+    5_tanzanites:
+        is_gem: True
+        total_price: 250
+        num_items: 5
+        auction: "4-D"
+        image: "5_tanzanites.jpg"
+        title: "5 tanzanites"
+        comments: "Polies en Cabochon, ces tanzanites à la texture hypnotisante vous impressionneront par leur poids."
+        gamemaster_hints: "Gemmes chères, peu faciles à écouler."
+
+    2_huge_diamonds:
+        is_gem: True
+        total_price: 400
+        num_items: 2
+        auction: "4-E"
+        image: "2_huge_diamonds.png"
+        title: "2 diamants d'exception"
+        comments: "Tout le monde se lève pour les héros de la fête, des diamants qui se classent parmi les plus précieux de tout Pangéa."
+        gamemaster_hints: "Utiles pour débloquer des informations rares."
+
+    goat_skull:
+        auction: 4-F
+        comments: "Crâne de chèvre trouvé dans le temple enfoui. État originel."
+        gamemaster_hints: ""
+        image: images/objects/goat_skull.png
+        is_gem: false
+        num_items: 1
+        title: "Crâne de Chèvre"
+        total_price: 150
+
+    stone_lantern:
+        auction: 4-G
+        comments: "Trouvée au fond d'un puits dans le temple enfoui. État originel. Présence d'inscriptions runiques, non encore traduites."
+        gamemaster_hints: null
+        image: images/objects/stone_lantern.png
+        is_gem: false
+        num_items: 1
+        title: "Lanterne de Pierre"
+        total_price: 200
+
+    vase_stone:
+        auction: 4-H
+        comments: "Mobilier du temple de Nazur. État originel."
+        gamemaster_hints: null
+        image: images/objects/vase_stone.png
+        is_gem: false
+        num_items: 1
+        title: "Vasque de Pierre"
+        total_price: 300
+
+    rusty_chest:
+        auction: 4-I
+        comments: "Issu du Temple Souterrain de Nazur. État originel."
+        gamemaster_hints: null
+        image: images/objects/rusty_chest.png
+        is_gem: false
+        num_items: 1
+        title: "Coffre Antique Rouillé"
+        total_price: 180
+
+
+   ## OPTIONALLY AUCTION ITEMS ##
+
+    band_emerald:
+        auction: null
+        comments: "Une bague sertie d'une magnifique émeraude."
+        image: images/sales/band_emerald.png
+        is_gem: true
+        num_items: 1
+        title: "Bague à l'Emeraude"
+        total_price: 200
+
+    band_ruby:
+        auction: null
+        comments: "Une bague sertie d'un magnifique rubis."
+        image: images/sales/band_ruby.png
+        is_gem: true
+        num_items: 1
+        title: "Bague au Rubis"
+        total_price: 200
+
+    band_topaz:
+        auction: null
+        comments: "Une bague sertie d'un magnifique topaze."
+        image: images/sales/band_topaz.png
+        is_gem: true
+        num_items: 1
+        title: "Bague au Topaze"
+        total_price: 200
+
+
+
+    ## NON-AUCTION ITEMS ##
+
+    horned_statue:
+        auction: null
+        comments: "Une énigmatique statue du temple de Nazur."
+        gamemaster_hints: FIXME
+        image: images/sales/horned_statue.png
+        is_gem: false
+        num_items: 1
+        title: "Statue Cornue"
+        total_price: 900
+
+    antic_chest:
+        auction: null
+        comments: "Ce coffret, trouvé plein de rouille et de boue dans un recoin du temple de Nazur, a été décapé pour pouvoir de nouveau servir."
+        gamemaster_hints: FIXME
+        image: images/sales/antic_chest.jpg
+        is_gem: false
+        num_items: 1
+        title: "Coffret Antique Restauré"
+        total_price: 900
+
+    sacred_book:
+        auction: null
+        comments: "Livre en runes akarites, découvert dans le sanctuaire de Nazur."
+        gamemaster_hints: FIXME
+        image: images/sales/sacred_book.jpg
+        is_gem: false
+        num_items: 1
+        title: "Livre Sacré Yodique"
+        total_price: 900
+
+    black_outdoor_lamp:
+        auction: null
+        comments: "Fonctionne même sous l'eau."
+        gamemaster_hints: "Utile pour retrouver la piste de l'un des Orbes."
+        image: images/objects/black_outdoor_lamp.png
+        is_gem: false
+        num_items: 1
+        title: Lampe-Tempête
+        total_price: null
+
+    brass_key:
+        auction: null
+        comments: "Elle porte une discrète inscription: XN608."
+        gamemaster_hints: "Clef trouvée dans la canne de Loyd Georges, et qui est celle de son coffre dans la banque de Salima"
+        image: images/objects/brass_key.png
+        is_gem: false
+        num_items: 1
+        title: "Clef en Cuivre"
+        total_price: null
+
+    wooden_cane:
+        auction: null
+        comments: "Un modèle unique en son genre."
+        gamemaster_hints: "C'est la fameuse canne de Loyd Georges."
+        image: images/objects/cane1.png
+        is_gem: false
+        num_items: 1
+        title: "Canne Distinguée"
+        total_price: null
+
+    wooden_box:
+        auction: null
+        comments: "Une caisse au contenu masqué."
+        gamemaster_hints: null
+        image: images/objects/wooden_box.jpg
+        is_gem: false
+        num_items: 1
+        title: "Caisse en bois"
+        total_price: null
+
+    wooden_box2:
+        auction: null
+        comments: "Une caisse au contenu masqué."
+        gamemaster_hints: null
+        image: images/objects/wooden_box.jpg
+        is_gem: false
+        num_items: 1
+        title: "Caisse en bois"
+        total_price: null
+
+    wooden_box3:
+        auction: null
+        comments: "Une caisse au contenu masqué."
+        gamemaster_hints: null
+        image: images/objects/wooden_box.jpg
+        is_gem: false
+        num_items: 1
+        title: "Caisse en bois"
+        total_price: null
+
+    classy_lamp:
+        auction: null
+        comments: "Un modèle unique en son genre."
+        gamemaster_hints: "C'est la lampe qui se trouvait dans le vestibule du manoir de Loyd Georges."
+        image: images/objects/classy_lamp.png
+        is_gem: false
+        num_items: 1
+        title: "Magnifique Lampe"
+        total_price: null
+
+    gold_bar:
+        auction: null
+        comments: "Un placement (en principe) sûr."
+        gamemaster_hints: "Tous usages."
+        image: images/objects/gold_bar.png
+        is_gem: false
+        num_items: 1
+        title: "Lingot d'Or"
+        total_price: 2000
+
+    heart_shaped_diamond:
+        auction: null
+        comments: "Un cadeau à nul autre pareil"
+        gamemaster_hints: null
+        image: images/objects/heart_shaped_diamond.png
+        is_gem: true
+        num_items: 1
+        title: "Diamant en Coeur"
+        total_price: 2000
+
+    pierced_coins:
+        auction: null
+        comments: "Valeur archéologique autant que pécuniaire."
+        gamemaster_hints: "Tous usages."
+        image: images/objects/pierced_coins.png
+        is_gem: false
+        num_items: 1
+        title: "Pièces Percées"
+        total_price: 1000
+
+    rusty_propeller:
+        auction: null
+        comments: "Issue du Temple Souterrain de Nazur."
+        gamemaster_hints: null
+        image: images/objects/rusty_propeller.png
+        is_gem: false
+        num_items: 1
+        title: "Hélice Rouillée"
+        total_price: null
+
+    rusty_wheel:
+        auction: null
+        comments: "Issue du Temple Souterrain de Nazur."
+        image: images/objects/rusty_wheel.png
+        is_gem: false
+        num_items: 1
+        title: "Barre Antique Rouillée"
+        total_price: 1000
+
+    scrolls_rolled:
+        auction: null
+        comments: "Origine indéterminée."
+        gamemaster_hints: null
+        image: images/objects/scrolls_rolled.png
+        is_gem: false
+        num_items: 2
+        title: "Parchemins Roulés"
+        total_price: null
+
+    small_leather_bag:
+        auction: null
+        comments: "Assez usé. Accessoire très répandu sur Pangéa. Contient des dépôts poudreux."
+        gamemaster_hints: null
+        image: images/objects/small_leather_bag.png
+        is_gem: false
+        num_items: 1
+        title: "Bourse de Cuir"
+        total_price: null
+
+    pocket_clock:
+        auction: null
+        comments: "Exemplaire issu d'une perquisition."
+        gamemaster_hints: null
+        image: images/objects/pocket_clock.png
+        is_gem: false
+        num_items: 1
+        title: "Montre à gousset douteuse"
+        total_price: null
+
+    strange_statue:
+        auction: null
+        comments: "Produits manufacturés, importés en masse de Kéroskia."
+        gamemaster_hints: null
+        image: images/objects/strange_statue.png
+        is_gem: false
+        num_items: 1
+        title: "Statuette en Argile"
+        total_price: null
+
+    wooden_barrel:
+        auction: null
+        comments: "Origine indéterminée."
+        gamemaster_hints: null
+        image: images/objects/wooden_barrel.png
+        is_gem: false
+        num_items: 1
+        title: "Tonnelet de Bois"
+        total_price: null
+
+    diving_equipment:
+        auction: null
+        comments: "Tenues de plongée commando de type F.R.O.G.S, sans émission de bulles d'air."
+        gamemaster_hints: null
+        image: images/objects/equipment_box.jpg
+        is_gem: false
+        num_items: 1
+        title: "Trois tenues de plongée"
+        total_price: null
+
+    golden_monocle:
+        auction: null
+        comments: "Cadeau précieux pour gens précieux, en argent plaqué or."
+        gamemaster_hints: "Pour offrir à LG ?"
+        image: images/objects/monocle.png
+        is_gem: false
+        num_items: 1
+        title: "Monocle Plaqué Or"
+        total_price: null
+
+    "000_standard_diamonds_small_round":
+        auction: null
+        comments: &standard_gems_comments "Gemmes de qualité standard."
+        gamemaster_hints: &standard_gems_hints "Pour convertir les gemmes trouvées en jeu en gemmes virtuelles."
+        image: images/sales/misc_standard_transparent_gems.jpg
+        is_gem: true
+        num_items: 20
+        title: "Petits diamants ronds"
+        total_price: 400  # 20¤ per unit!
+
+    "000_standard_diamonds_medium_rectangle":
+        auction: null
+        comments: *standard_gems_comments
+        gamemaster_hints: *standard_gems_hints
+        image: images/sales/misc_standard_transparent_gems.jpg
+        is_gem: true
+        num_items: 20
+        title: "Diamants moyens rectangulaires"
+        total_price: 700  # 35¤ per unit!
+
+    "000_standard_diamonds_big_round":
+        auction: null
+        comments: *standard_gems_comments
+        gamemaster_hints: *standard_gems_hints
+        image: images/sales/misc_standard_transparent_gems.jpg
+        is_gem: true
+        num_items: 20
+        title: "Gros diamants ronds"
+        total_price: 1000  # 50¤ per unit!
+
+
+item_3d_settings:
+
+    sacred_book:
+        levels: 1
+        per_level: 100
+
+        index_steps: 1
+        index_offset: 1
+        file_template: "images/sales/sacred_book/simpler_book%04d.jpg"
+
+        start_level: 1
+
+        image_width: 500
+        image_height: 375
+        mode: "object" # camera mode ('object'/'camera')
+
+        x_coefficient: 12
+        y_coefficient: 160
+
+        autoreverse: false
+        rotomatic: 0
+
+        music: null
+
+    antic_chest:
+        levels: 4
+        per_level: 20
+
+        index_steps: 5
+        index_offset: 1
+        file_template: "images/sales/antic_chest/simpler_chest%04d.jpg"
+
+        start_level: 1
+
+        image_width: 500
+        image_height: 375
+        mode: "camera" # camera mode ('object'/'camera')
+
+        x_coefficient: 12
+        y_coefficient: -160
+
+        autoreverse: false
+        rotomatic: 0
+
+        music: null
+
+
+    horned_statue:
+
+        levels: 1
+        per_level: 40
+
+        index_steps: 5
+        index_offset: 1
+        file_template: "images/sales/horned_statue/statue3D_animated2_%d.jpg"
+
+        start_level: 1
+
+        image_width: 500
+        image_height: 375
+        mode: "object" # camera mode ('object'/'camera')
+
+        x_coefficient: 12
+        y_coefficient: 160
+
+        autoreverse: false
+        rotomatic: 0
+
+        music: null
+
+
+    amphora:
+        levels: 1 # number of Y axis levels (total/levels = horizontal images)
+        per_level: 80 # total image number concerned for the "step" chosen
+
+        index_steps: 2 # skips some images
+        index_offset: 1 # at which image number to begin
+        file_template: "images/sales/amphora/simpler_amphora%04d.jpg"  # "images/sales/amphora/amphora%04d.jpg"
+
+        start_level: 1 # defines the starting Y axis
+
+        image_width: 420 # iframe and image width
+        image_height: 513 # iframe and image hight
+        mode: "object" # camera mode ('object'/'camera')
+
+        x_coefficient: 12
+        y_coefficient: 160
+
+        autoreverse: False
+        rotomatic: 0
+
+        music: null
+
+
+
+...
+

@@ -1,0 +1,133 @@
+
+
+
+
+messaging:
+
+    manual_messages_templates:
+
+
+        - id: akaris_first_approach
+          gamemaster_hints: "Introduction du camp akarite, qui cherche des alliés."
+          categories: ["super_factions"]
+          sender_email: archbishop-baazel@akaris.pg
+          recipient_emails: "[auction-list]@anthropia.pg"
+          subject: "Vous seuls pouvez nous aider, cher enfant"
+          body: |
+
+              Dignes salutations,
+
+              j'ai appris que vous participiez aux enchères de Sir Loyd Georges, enchères comprenant nombre de gemmes et d'objets anciens, originaires des ruines de Nazur.
+
+              Je me vois donc dans l'obligation de vous prévenir : il ne s'agit pas d'antiquités quelconque, mais d'objets liturgiques akarites infiniment sacrés, volés à l'intérieur même du temple où ils reposaient depuis des millénaires.
+
+              Je ne reviendrai pas sur la façon extrêmement cavalière - et frisant l'illégalité - avec laquelle Loyd Georges s'est accaparé ces artefacts.
+              Mais il est de la plus grande importante qu'ils retrouvent au plus vite la place qui leur est due, au sein de nos temples, avant que ces profanations ne soient davantages connues, et ne déclenchent un scandale parmi nos fidèles.
+
+              Loyd Georges s'est pour l'instant montré réfractaire à toutes nos offres, même moyennant de substantiels dédommagements. Nous le soupçonnons en réalité de n'avoir mis en vente qu'une moindre partie de son larcin, et d'avoir gardé les plus inestimables reliques pour les-Yods-seuls-savent quel odieux trafic.
+
+              Nous nous tournons donc vers vous pour nous aider à réparer cette injustice, et ce cinglant outrage asséné aux Yods ainsi qu'à tous ceux qui les craignent.
+
+              Acceptez-vous de nous aider à sauver le maximum de ces objets sacrés, livrés à la convoitise des foules ? Acceptez-vous, surtout, d'investiguer - grâce à votre situation privilégiée - sur toutes les facettes de la profanation de Loyd Georges, afin que nous soyons en mesure de négocier la récupération de la plus précieuse partie de son butin ?
+
+              | Dans l'espérance de votre vertueuse coopération,
+              | veuillez agréer la réception de ma bénédiction,
+
+              | *Baazel, Doyen des Fidèles Akarites, Nelm*
+
+              PS: en collaborant à notre sainte mission, vous recevrez évidemment de notre part un large support, aussi bien spirituel que financier.
+              Et en prouvant votre droitesse, vous obtiendrez également accès à un éventail croissant de nos moyens d'action, ce qui ne saurait nuire à vos propres affaires temporelles.
+
+
+
+        - id: akaris_orbs_myth
+          gamemaster_hints: "Réintroduction du camp akarite, s'il cherche toujours des alliés."
+          categories: ["super_factions"]
+          sender_email: archbishop-baazel@akaris.pg
+          recipient_emails: "[auction-list]@anthropia.pg"
+          subject: "Bis : Vous seuls pouvez nous aider, cher enfant"
+          body: |
+
+              Mes amis,
+
+              il semble que mon dernier message ne vous ait pas convaincus.
+
+              Je soumets donc à votre attention, la VÉRITÉ sur les origines de notre univers, et sur les dommages vertigineux que Loyd Georges pourrait causer si personne ne mettait fin à ses errements.
+
+              Il est en effet très probable qu'il ait exhumé et capturé l'un des merveilleux Orbes Divins, dont seule la réunification pourra sauver notre pauvre monde.
+
+              http://youtu.be/Y14XYTagvhw
+
+              Ne fermez pas vos oreilles à la Voix des Yods !
+
+              Yodiquement,
+
+              *Baazel*
+
+
+
+        -   "id": akaris_acknowledgement
+            "body": |
+                Cher enfant {{NOM JOUEUR}},
+
+                ce sont les yods qui vous envoient !
+
+                Nous comptons sur vous pour mettre de côté autant de ces artefacts que possible, et surveiller
+                cet impie Loyd Georges afin qu’il ne commette pas de nouvelles profanations.
+
+                Si vous vous ralliez à notre sainte bannière, nous pouvons vous apporter beaucoup de kashes, et
+                surtout mettre à vos ordres de vaillants fidèles akarites, disséminés en grappes sur Pangé, et
+                prêts à tous les sacrifices.
+
+                Mais avant cela, nous devons bien sûr vérifier la Pureté de votre Crainte et de votre Dévotion
+                envers les yods, car pire encore que les mécréants, sont les faux fidèles qui corrompent la Sainte
+                Doctrine depuis l’intérieur même du culte, et détruisent ainsi la docte guidance de nos bien aimés
+                judicateurs.
+
+                Etes-vous donc disponible pour un petit entretien avec notre Grand Inquisiteur, en début de semaine
+                prochaine ? Ou bien, la vérité des yods est-elle encore trop immature dans votre coeur ?
+
+                Dévotement vôtre,
+
+                *Baazel*
+            "categories":
+            - >-
+                super_factions
+            "gamemaster_hints": ""
+            "sender_email": >-
+                archbishop-baazel@akaris.pg
+            "subject": >-
+                Re: Vous seuls pouvez nous aider, cher enfant
+
+
+
+        - id: paladium_first_approach
+          gamemaster_hints: "Introduction du camp du Paladium, qui cherche des alliés."
+          categories: ["super_factions"]
+          sender_email: contact@paladium.pg
+          recipient_emails: "[auction-list]@anthropia.pg"
+          subject: "Le monde a besoin de vous, ami"
+          body: |
+
+              Bien le bonjour,
+
+              nous nous permettons de vous contacter au motif de votre participation à une série d'enchères organisées par Sir Loyd Georges, enchères portant sur des artefacts qui - vous ne pouvez l'ignorer - proviennent d'un ancien temple akarite des environs de Nazur.
+
+              Le caractère religieux de ces objets rend toute cette affaire extrêmement sensible, car pour de nombreux fidèles midoliens, l'expédition de Sir Loyd Georges n'était pas une fouille archéologique, mais une véritable profanation. Cet évènement est d'autant plus délicat qu'il se produit à un moment où l'impérialisme religieux a le vent en poupe en Akarie. Il n'en faudrait pas beaucoup plus pour que toute la région alentour bascule, une fois de plus, dans le chaos.
+
+              Nombre de gouvernements, midoliens ou non, suivent cette situation de près, mais ils recherchent souvent bien moins l'apaisement du continent, que le moyen de tirer profit d'un éventuel conflit. Nous ne pouvons donc compter que sur les humains de bonne volonté, dont vous faites, nous l'espérons, partie.
+
+              Nous n'avons eu vent de cette affaire que très récemment, trop tard en tout cas pour pouvoir nous immiscer dans ces enchères, et y jouer un rôle de premier plan. Nous avons donc besoin de gens comme vous, pour sauver ce qui peut l'être.
+
+              Pouvons-nous donc compter sur votre soutien, pour démêler ce sac de noeuds ? Notre premier objectif serait d'en savoir plus sur le *butin* de Loyd Georges, et en particulier sur les rumeurs affirmant qu'il aurait déniché des artefacts d'une valeur "sacrée" inestimable - de véritables bombes d'un point de vue géopolitique.
+
+              Vous devez sans doute commencer à vous demander qui est "nous", n'est-ce pas ? Nous ne vous connaissons pas assez bien pour pouvoir vous donner beaucoup de détails, sachez juste que nous sommes un collectif qui lutte dans l'ombre pour préserver les peuples contre les glaives sanglants des tyrans. Et que si nous sommes peu nombreux, nous sommes tout autant déterminés, et extrêmement outillés d'un point de vue technologique. Prouvez votre valeur d'âme en travaillant à nos côtés, et nous vous laisserons entrevoir les prémisses d'une nouvelle ère, bien plus humaine qu'aucune ne l'a jamais été.
+
+              Dans l'attente de votre réponse,
+
+              Justice et Vérité
+
+              **Paladium**
+
+
+

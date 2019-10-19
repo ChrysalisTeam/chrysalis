@@ -1,0 +1,62 @@
+﻿---
+
+messaging:
+
+    manual_messages_templates:
+
+
+
+
+        -   "id": deans_announce_waden_cynthia_engagement
+            "body": |
+                Chers collaborateurs et amis de l'Académie d'Alifir,
+
+                un petit pot aura lieu dans 20 jours en l'honneur des fiançailles de notre jeune et talentueux
+                physicien quantique, Waden Shaw, avec la non moins talentueuse reporter Cynthia Loakim (dont le
+                nom doit vous rappeler, à juste titre, quelque chose).
+
+                Suite aux débordements de la dernière initiative similaire, seul le cidre doux sera autorisé,
+                et des alcootests auront lieu en entrée et en sortie.
+
+                *Les Doyennes*
+
+                [BR]
+
+                [BR]
+
+                **Portraits des Tourtereaux**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/portraits/cynthia_loakim_portrait.jpg" "medium_width"]
+                    :align: center
+                .. image:: [GAME_THUMBNAIL_URL "images/portraits/waden_shaw_portrait.png" "medium_width"]
+                    :align: center
+            "categories":
+            - >-
+                cynthia_abduction
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                mneme@anthropia.pg
+            "subject": >-
+                Annonce réjouissante
+
+
+        -   id: first_news_cynthia
+            gamemaster_hints: "Introduction de la reporter fiancée au physicien Waden Shaw."
+            categories: ["cynthia_abduction"]
+            sender_email: cynthia
+            recipient_emails: waden
+            subject: Tout va bien
+            body: |
+                Coucou chéri, je t'envoie tout plein de bisous de Kitiika, où le conseil des chefs nalavutiens va débuter
+                ce soir. J'ai réussi à obtenir une autorisation spéciale pour y assister, donc tout se passe pour le mieux.
+
+                A bientôt,
+
+                    Ton "RF"
+
+
+
+...

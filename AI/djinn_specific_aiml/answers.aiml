@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+
+    
+    <category>
+        <pattern>NOANSWER</pattern>
+        <template>
+            I'm not one of the three master djinns, so I can't answer you...
+        </template>
+    </category>   
+
+
+    <category>
+        <pattern>RESPONSEABOUTALPHAORB</pattern>
+        <template>
+            <condition name="botName">
+                <li value="Pay Rhuss">
+                    A father and his future son-in-law sharing the same meal tonight. He who indulges
+                        in uncovering the secrets of earthly light and matter, is unintentionnaly
+                        attempting to do the same with Heavenly Ones.
+                </li>
+                <li value="Phayl Blogg">
+                    Where does the squirrel hide his bounty ? He will never say. But his investigating
+                        maiden might; too bad she's so far north from here.
+                </li>
+                <li value="Sheuk Nauriss">
+                    The man would die rather than revealing where his precious is. But the woman
+                        would be sensible enough to prefer her life to a shiny stone.
+                </li>
+                <li>
+                    <srai>NOANSWER</srai>               
+                </li>
+            </condition>
+        </template>
+    </category>
+
+</aiml>

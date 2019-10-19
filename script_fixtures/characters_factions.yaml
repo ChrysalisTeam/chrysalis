@@ -1,0 +1,286 @@
+﻿---
+
+domains:
+
+    masslavia:
+        national_anthem: "Marching to the future (Masslavia's hymn).mp3"
+        permissions: []
+
+    dorian_dukedom:
+        national_anthem: "The glorious people (Dorian dukedom's hymn).mp3"
+        permissions: []
+
+    lordania:
+        national_anthem: "The proud island (Lordania's hymn).mp3"
+        permissions: []
+
+    heliossar:
+        national_anthem: "Sweet smell of liberty (Heliossar's hymn).mp3"
+        permissions: []
+
+    akaris:
+        national_anthem: "The long wait for dawn (Akaris' hymn).mp3"
+        permissions: []
+
+    paladium:
+        national_anthem: null # TODO
+        permissions: []
+
+    alifir_academy:
+        national_anthem: "Delights of a sophisticated world (Alifir academy's theme).mp3"
+        permissions: []
+
+
+
+
+character_properties:
+
+    # WARNING - the values of global parameters anonymous_login, master_login and common_login are reserved and shall not be used here
+
+    spinel:
+        character_color: "DarkBlue"
+        avatar: "land_deep_blue.jpg"
+        domains: ["masslavia"]
+        password: "cosmos"
+        account: 600
+        gems: []
+        address_book: ["secret-services@masslavia.pg"]
+        official_name: "Simonie Vladstaffulovza"
+        official_role: "Négociant en matières premières pour les joailleries de Mastden (Masslavie)"
+        gamemaster_hints: "En vérité SHA1, agente masslave. La véritable personne est partie faire de la randonnée pédestre dans l'arrière-pays désertique de Sabarim, pour au moins 6 semaines."
+        extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
+        is_npc: false
+
+    malachite:
+        character_color: "DarkGreen"
+        avatar: "land_deep_green.jpg"
+        domains: ["masslavia"]
+        password: "comet"
+        account: 600
+        address_book: ["secret-services@masslavia.pg"]
+        official_name: "Wiliette Bfurokt"
+        official_role: "Conservatrice du musée archéologique de Mastden (Masslavie) et experte en histoire du yodisme"
+        gamemaster_hints: "En vérité MD5, agente masslave. La véritable détentrice du nom, en bonne patriote masslave, reste à disposition de l'Etat avec ses proches, pour conseiller en cas de besoin."
+        extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
+        is_npc: false
+
+
+    topaz:
+        character_color: "Blue"
+        avatar: "land_light_blue.jpg"
+        domains: ["dorian_dukedom"]
+        permissions: []
+        password: "ocean"
+        account: 1600
+        address_book: ["secret-services@dorian-dukedom.pg"]
+        official_name: "Luciane Begalazatr"
+        official_role: "Prospecteur mandaté par de riches collectionneurs de Nimouk (Duché dorien)"
+        gamemaster_hints: "En vérité MP3, agent dorien. La personne en question n'ayant jamais existé, il faudra jouer finement pour ne pas se faire démasquer."
+        extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
+        is_npc: false
+
+    peridot:
+        character_color: "Green"
+        avatar: "land_light_green.jpg"
+        domains: ["dorian_dukedom"]
+        permissions: []
+        password: "abyss"
+        account: 1600
+        address_book: ["secret-services@dorian-dukedom.pg"]
+        official_name: "Philipon Vertioundem"
+        official_role: "Patronne d’une bijouterie de Nimouk (Duché dorien) en quête de bonnes affaires"
+        gamemaster_hints: "En vérité MP5, agent dorien. Le vrai personnage était au bord de la faillite à force de se faire pigeonner, il s'est donc montré très compréhensif face aux propositions de son Etat, et se fera éminemment discret pendant les semaines à venir."
+        extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
+        is_npc: false
+
+
+    garnet:
+        character_color: "DarkRed"
+        avatar: "land_red.jpg"
+        domains: ["lordania"]
+        permissions: []
+        password: "rock"
+        account: 600
+        address_book: ["secret-services@lordania.pg"]
+        official_name: "Arthiane Subduernum"
+        official_role: "Riche collectionneuse d'Ouram (Lordanie) en quête d’antiquités akarites"
+        gamemaster_hints: "En vérité HDD, agente lordanienne. C'est une identité fictive que l'État fait vivre depuis de nombreuses années déjà, et qui lui a servi pour toutes sortes de missions à l'étranger."
+        extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
+        is_npc: false
+
+    amethyst:
+        character_color: "#990099"
+        avatar: "land_violet.jpg"
+        domains: ["lordania"]
+        permissions: []
+        password: "paper"
+        account: 600
+        address_book: ["secret-services@lordania.pg"]
+        official_name: "Tomol Niokiev"
+        official_role: "Conservateur au musée d'histoire ancienne d'Ouram (Lordanie)"
+        gamemaster_hints: "En vérité SSD, agent lordanien. Le véritable personnage est censé être en voyage d'affaires, mais dans les faits il est en cure pour se débarrasser d'une maladie assez honteuse, et cela pour au moins 2 mois encore."
+        extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
+        is_npc: false
+
+
+    opal:
+        character_color: "#FF3300"
+        avatar: "land_orange.jpg"
+        domains: []
+        permissions: []
+        password: "tornado"
+        account: 300
+        address_book: []
+        official_name: "Charles Magnus"
+        official_role: "Riche lordanien, natif de Baynon, amateur de belles antiquités et pierreries."
+        gamemaster_hints: "Vrai enchérisseur, autrefois compagnon d'aventure (malhonnête) de Loyd Georges, il est venu avec sa femme Lydia et son enfant Khaal à Sabarim."
+        extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
+        is_npc: false
+
+    lydia:
+        character_color: "#FF3300"
+        avatar: "land_orange.jpg"
+        domains: []
+        permissions: []
+        password: "tempest"
+        account: 300
+        address_book: []
+        official_name: "Lydia Magnus"
+        official_role: "Politicienne sabarite, candidate au poste de consule d'Alifir."
+        gamemaster_hints: "Femme d'Opal."
+        extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
+        is_npc: false
+
+
+    obsidian:
+        character_color: "#4d4d4d"
+        avatar: "land_black.jpg"
+        domains: []
+        permissions: []
+        password: "desert"
+        account: 300
+        address_book: []
+        official_name: "Marcille Kiliringar"
+        official_role: "Adjointe de police sabarite"
+        gamemaster_hints: "Agente secrète sabarite."
+        extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
+        is_npc: false
+
+
+    loyd.georges:
+        character_color: "Black"
+        avatar: "loyd_georges.png"
+        domains: ["alifir_academy"]
+        permissions: ["access_house_locking"]  # ONLY for him
+        password: "awesomeness"
+        account: 1000
+        address_book: []
+        official_name: "Loyd Georges"
+        official_role: "Rentier sexagénaire féru d'archéologie, et vivant à Salima."
+        gamemaster_hints: "Il a organisé l'expédition réussie à Nazur, ainsi que les enchères en cours."
+        is_npc: true
+        secret_question: "Le nom de mon premier animal de compagnie."
+        secret_answer: "Bastet"  # future cat: Ailuros or Sekhmet
+
+    emilos.loakim:
+        character_color: "Black"
+        avatar: "emilos_loakim.png"
+        domains: ["alifir_academy"]
+        permissions: []
+        password: "antic"
+        account: 100
+        address_book: []
+        official_name: "Emilos Loakim"
+        official_role: "Brillant archéologue sexagénaire d'Alifir."
+        gamemaster_hints: "Professeur à Alifir et confident de Loyd Georges, il a localisé pour lui le temple de Nazur."
+        is_npc: true
+        secret_question: "Nom de jeune fille de ma tendre et chère."
+        secret_answer: "Begalatr"
+
+
+    cynthia:  #FIXME CHANGE to make it farther from "lydia" ??
+        character_color: "Black"
+        avatar: "cynthia_loakim.png"
+        domains: ["alifir_academy"]
+        permissions: []
+        password: "lightspeed1"
+        account: 100
+        address_book: []
+        official_name: "Cynthia Loakim"
+        official_role: "Jeune journaliste à l'international, originaire de Sabarim"
+        gamemaster_hints: "Fille du Pr Loakim, et fiancée au physicien Waden Show."
+        is_npc: false
+        secret_question: "Là où l'on s'est embrassé pour la première fois."
+        secret_answer: "Salimuron" # normally impossible to find
+
+    waden:
+        character_color: "Black"
+        avatar: "waden_shaw.png"
+        domains: ["alifir_academy"]
+        permissions: []
+        password: "lightspeed2"  # FIXME à changer
+        account: 100
+        address_book: []
+        official_name: "Waden Shaw"
+        official_role: "Jeune chercheur sabarite en physique quantique"
+        gamemaster_hints: "Fiancé à la reporter Cynthia Loakim, et donc futur gendre du Pr Loakim."
+        is_npc: false
+        secret_question: null # IMPORTANT
+        secret_answer: null
+
+
+    emogladys:
+        character_color: "Black"
+        avatar: "emogladys.png"
+        domains: []
+        permissions: []
+        password: "stranger"
+        account: 100
+        address_book: []
+        official_name: "Emogladys"
+        official_role: "Simple civile."
+        gamemaster_hints: "Compte de test, servant au maître de jeu à explorer les pages uniquement accessibles aux personnages."
+        is_npc: true
+        secret_question: null # IMPORTANT
+        secret_answer: null
+
+
+    shark:
+        character_color: "Black"
+        avatar: "inspector_shark.png"
+        domains: []
+        permissions: []
+        password: "serve&protect"
+        account: 300
+        address_book: []
+        official_name: "Inspecteur Shark"
+        official_role: "Inspecteur de police sabarite, récemment sorti de sa retraite."
+        gamemaster_hints: "Il a des connexions avec loyd Georges (dont il accepte régulièrement les pots-de-vin pour le laisser mener ses recherches) et s'occupe personnellement des interactions PVP des joueurs."
+        is_npc: true
+        secret_question: "Mon fidèle compagnon."
+        secret_answer: "S&W_M66"
+
+
+    bishop.baazel:
+        character_color: "Black"
+        avatar: "archbishop.png"
+        domains: ["akaris"]
+        permissions: []
+        password: "4theyods"
+        account: 300
+        address_book: ["judicator-arthanas@akaris.pg", contact@akaris.pg]
+        official_name: "archbishop-baazel"
+        official_role: "Le guide de l'un des 7 clans akarites."
+        gamemaster_hints: "Il cherche à convertir un maximum de joueur et à amener la suprématie akarite, il est fanatique et dur mais suffisamment intelligent pour comprendre qu'il faut accepter la transfiliation ; c'est un loup déguisé en agneau."
+        is_npc: true
+        secret_question: "Jubilation et transcendance"
+        secret_answer: "immanence_et_piété"
+
+
+friendships: {} # complex structures here
+
+
+
+
+...
+

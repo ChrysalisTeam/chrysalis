@@ -1,0 +1,427 @@
+﻿
+
+---
+
+audio_messages:
+
+    "99_intro_audio_messages":
+        title: "Introduction aux messages personnels"
+        text: "Veuillez écouter maintenant quelques messages personnels."
+        file: "audio/radio_spots/personal_messages/A_intro_messages.mp3"
+        gamemaster_hints: "Spot servant à introduire les messages audio lors de l'utilisation de la webradio publique (ex. pendant une mystery party)."
+
+    "01_news_auction_bidders_chosen":
+        "title": >-
+            Informations Nationales - Spécial Salima
+        "text": >-
+            \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\ \pau=2000\
+            \vce=speaker=Antoine\ Bonjour à tous. Pour cette édition du journal national, nous retrouvons
+            tout de suite notre envoyée spéciale à Salima ! \pau=1500\ \vce=speaker=Julie\ En effet la
+            nouvelle vient de tomber : les participants aux fameuses ventes aux enchères de sire Loyd
+            Jorje ont été sélectionnés. Il s'agit de {{TODO}} personnalités triées sur le volet, et venant
+            de tous les coins de Pangéa. Les heureux élus sont {{TODO}}. On se souvient tous de
+            l'audacieuse expédition secrète menée par Loyd Jorje en Midolie, et des tensions diplomatiques
+            qui ont suivi. Maintenant que la situation semble s'être calmée, plus rien ne devrait empêcher
+            ces ventes de pierres précieuses, et d'artefacts archéologiques, d'être un franc succès. \pau=1500\
+            \audio=play="new_orchestra_hits_X_ending_008";volume=120\
+
+    "10_commercial_anounces_weird":
+        "title": >-
+            Annonces commerciales diverses
+        "text": >-
+            \audio=mix="advert_synth_209";volume=100\ \pau=6000\ \audio=volume=25\ \pau=1000\ \vce=speaker=MargauxHappy\
+            Ami zalcoliques, la brasserie du purineur vous accueille tous les jours en continu. Venez
+            profiter de ses bagarres mémorables, de ses breuvages imbitables, et d'une magnifique vue
+            sur les bas-fonds de Salima. La brasserie du purineur, parce que chez vous, c'est surement
+            pire! \pau=2000\ \vce=speaker=AntoineHappy\
+            Envie de faire du commerce original, sans les
+            tracas de la fiscalité et de la moralité ? Alors le marché noir est fait pour vous. Le marché
+            noir, bientôt disponible sur votre portail numérique, quel qu'il soit. \pau=2000\ \vce=speaker=Justine\
+            fatigué de porter des kilos et des kilos d'eau minérale en bouteille chaque semaine ? Alors
+            le Docteur Shamaz, inventeur de génie, a la solution à votre problème. Contactez-le pour en
+            savoir davantage ! \pau=500\ \audio=volume=15\ \pau=500\ \audio=volume=5\ \pau=500\
+
+    "20_alifir_conference_announce":
+        "title": >-
+            Annonce - Cérémonie à Alifir
+        "text": >-
+            \audio=mix="entertainment_oboe_203";volume=100\ \pau=5000\ \pau=5000\ \audio=volume=25\ \pau=3000\
+            \vce=speaker=BrunoHMM\L’Académie d’Alifir prépare en grande pompe la diizième édition de son
+            Grand Colloque, un évènement qui a lieu tous les 6 ans depuis sa création, et qui n’est pas
+            pour rien dans le rayonnement grandissant de ce poumon scientifique, artistique et littéraire.
+            D'ici quelques semaines, les conférences et les ateliers interactifs vont donc se succéder,
+            avec en point d’orgue, la cérémonie finale de distribution des honneurs. Un climax qui verra
+            de nouveaux noms s’inscrire dans le marbre du Panthéon Eternel de l’Académie. \pau=3000\
+
+    "30_announce_nalavut_crisis_waves":
+        "title": >-
+            Brèves Internationales
+        "text": >-
+            \audio=play="jingle_chimes_006";volume=100\ \pau=10\ \vce=speaker=Claire\ Grande animation
+            dans la petite ville de Kittiiika, où les chefs nalavuthiens se rassembleront bientôt, pour
+            l'assemblée générale de début de siècle. Notre envoyée spéciale sur place, Sinnnthia Looaakim,
+            couvrira ce grand événement. \audio=play="jingle_chimes_004";\ Incidents diplomatiques en Midolie.
+            Les judicateurs akarites viennent d'expulser les ambassadeurs masslaves de leur capitale, en les
+            accusant d'espionnage et d'ingérence dans les affaires intérieures. La masslavie dément formellement
+            ces allégations. \audio=play="jingle_chimes_004";\ L'académiiie d'Imuo annonce enregistrer
+            en ce moment des ondes d'un genre nouveau, qui balaieraient toute la surface du globe. L'origine
+            de ce phénomène n'est pas encore connue. \audio=play="jingle_chimes_006";volume=100\
+
+    "35_three_paintings_stolen":
+        "title": >-
+            Vol de 3 peintures inestimables
+        "text": >-
+            \audio=mix="entertainment_strings_155";volume=50\ \pau=5000\ Trois tableaux de maître,
+            datant de l'époque pré-tectonne, et d'une valeur inestimable, ont été volés ce matin
+            au musée de Faéranne. Devant l'importance du préjudice, les frontières de Sabarim
+            ont été immédiatement mises sous filtrage fin, et d'importants moyens policiers
+            ont été mobilisés pour retrouver ces tableaux. Des récompenses de 1000 kashes, cumulables,
+            sont offertes à quiconque permettra de retrouver chacun de ces tableaux. Les oeuvres
+            en question sont des portraits (peinture à l'huile sur toile) de trois dignitaires
+            de l'époque : Lady Aurora, Lord Préphett et Lord Rulias. \pau=5000\
+
+    "40_news_council_explosion_alifir":
+        "title": >-
+            News internationales
+        "text": >-
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Bruno\Dans
+            les nouvelles internationales du jour : l'ordre des judicateurs akarites vient d'entrer
+            en concile secret, dans la Citadelle Nuageuse. Parmi les thèmes qui seront abordés
+            : "y aura-t-il des araignées dans le royaume cosmique des yods"; "la transfiliation
+            est-elle orthodoxe"; et "la fin des temps est-elle imminente". \pau=1000\ Loin de là,
+            une secousse sous-marine a été détectée par les sismographes de Baynon, laissant
+            craindre un épisode sismique ; mais le micro-pays d'hydrolande, qui se trouvait
+            à l'épicentre, a refusé de laisser les scientifiques entrer dans sa zone maritime.
+            \pau=1000\ Enfin, un incident a eu lieu aujourd'hui à l'Académie d'Alifir, où un
+            agent de nettoyage était recherché par la police. L'académie a refusé de donner
+            des détails sur ce qui s'était passé, en invoquant le secret de l'instruction.
+
+    "50_theft_alifir":
+        "title": >-
+            Vol à l'Académie d'Alifir
+        "text": >-
+            \audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\
+            \vce=speaker=Julie\ Consternation à l'Académie d'Alifir, où l'un des chercheurs en paléontologie
+            aurait dérobé un précieux grimoire antique avant de disparaître dans la nature, et cela à
+            quelques jours à peine de l'ouverture du Grand Colloque. Les premiers éléments de l'enquête
+            laissent penser que le voleur aurait été manipulé par une secte akarite.
+
+    "55_announce_lg_manor_theft":
+        "title": >-
+            Cambriolage à Salima
+        "text": "\\audio=mix=\"news_military_full_147\";volume=100\\ \\pau=5000\\ \\pau=3000\\\
+            \ \\audio=volume=25\\ \\pau=1000\\ \\vce=speaker=Julie\\ Stupeur près de la ville\
+            \ de Salima : le fameux Loyd Georges aurait été victime d'une tentative de cambriolage\
+            \ dans son manoir, malgré l'imposant système de sécurité présent. \r\n\r\nD'après\
+            \ les déclarations de l'inspecteur Shark, les truands n'auraient pas réussi à dépasser\
+            \ le vestibule d'entrée, et auraient été arrêtés par les gendarmes, mais l'un d'entre\
+            \ eux aurait réussi à s'échapper avec quelques objets volés.\r\n\r\n\\pau=1000\\"
+
+    "62_news_akarith_riots":
+        "title": >-
+            News - Emeutes et Incidents
+        "text": "\\audio=mix=\"news_intense_full_loop_014\";volume=100;repeat=on\\ \\pau=5000\\\
+            \ \\pau=5000\\ \\pau=4000\\ \\audio=volume=25\\ \\pau=1500\\ \\vce=speaker=Claire\\\
+            \r\nl'incident diplomatique prend des proportions en Endara, où une expédition archéologique\
+            \ illégale prétend avoir  mis au jour un très ancien tombeau yodique dans le désert\
+            \ de sel, ce qui a poussé les hauts judicateurs akarites à revendiquer la souveraineté\
+            \ historique de ce territoire.\r\n\\pau=1500\\\r\nEn kéroskia, les armées de Slavinka\
+            \ et Tieros Olim ont été mobilisées pour surveiller les frontières et faire des\
+            \ battues dans leurs forêts tropicales, après l'incursion sauvage de plusieurs groupes\
+            \ de touristes qui ont provoqué les pygmées Tonkilis en empiétant sur leur territoire.\r\
+            \n\\pau=1500\\\r\nEn sabarim, une brutale émeute s'est déclenchée dans un hameau\
+            \ de Faéranne Sud, forçant l'intervention des gendarmes réservistes. Les émeutiers\
+            \ ont tenté de piller un appartement, et plusieurs interpellations ont eu lieu,\
+            \ mais un physicien et une reporter étaient toujours recherchés en début de matinée.\r\
+            \n\\pau=200\\"
+
+    "64_news_alifir_blaze_&_councils":
+        "title": >-
+            Actualités mondiales : incendies et conseils religieux
+        "text": >-
+            \audio=mix="new_hits_intro_loop_014";volume=100\ \pau=4500\ \pau=3000\ \audio=volume=25\
+            \pau=1000\ \vce=speaker=Claire\ Bonjour à tous, bienvenue dans ce résumé de l'actualité
+            mondiale. \pau=2000\ Un incendie s'est déclaré hier soir dans le luxueux hôtel "King
+            Of Alifir", heureusement sans faire de blessé. Le même jour, le conseil des chefs
+            nalavutyens s'est terminé, par une cérémonie en l'honneur du Grand Hibou Céleste.
+            Enfin, des fuites ont révélé que lors du Grand Concile Secret akarite, la doctrine
+            de la transfiliation avait été rejetée à une large majorité par les chefs des 7
+            clans ; ils ont cependant revoté la confiance envers les hauts judicateurs, par
+            4 voix contre 3.
+
+
+    "65_wiremind_defeat_irony":
+        "title": >-
+            Imuo confrontée à son échec
+        "text": >-
+            \audio=mix="entertainment_rock_237";volume=100\ \pau=2000\ \audio=volume=10\ \vce=speaker=antoinehappy\
+            Coup de projecteur sur les louzeurs de la semaine. La Faculté d'Imuo avait proclamé,
+            à grand renfort d'affichages publics, la sortie de son intelligence artificielle
+            censée être imbattable aux échecs. Mais en 3h à peine, ce logiciel a été vaincu
+            par le dénommé {{TODO}}, un génial citoyen de {{TODO}}. La Faculté ne
+            s'est pas pressée pour reconnaître son échec, et reste pour le moment encore injoignable.
+            Commentaire du vainqueur. "Pitoyables scientifiques d'Imuo, sautillez aussi haut
+            que vous voulez, moi je me contente de planer !". {{TODO}} a aussi remercié
+            Loyd Georges de Salima pour son soutien moral dans cet exploit. \pau=1000\
+
+    "70_sabarim_riots_and_dorian_treason":
+        "title": >-
+            Rattachement des doriens à Akaris
+        "text": >-
+            \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\
+            \pau=2000\ \vce=speaker=Antoine\ Bonsoir à tous. L'heure est grave. Le
+            pays est en proie  à des grands troubles, Pour cette édition du journal
+            national, nous retrouvons tout de suite notre envoyée spéciale à Salima!
+            \pau=1500\ \vce=speaker=Julie\ En effet, de nombreuses manifestations
+            d'analphabêtes ont lieu dans plusieurs villes du pays, la police tente
+            de reprimer ce qui pourrait bien tourner à un mouvement d'émeutes.Les
+            rues de sont pas sures, Nous conseillons aux habitants de Salima de ne
+            pas quitter leur logements. Ces désordres s'ajoutent a ceux qui ont cours
+            au niveau international, en effet le Duc Dorien à annoncé sa décision
+            de rattacher le duché dorien à l'Empire Akarite. Ce rattachement entraine
+            une pénalité d'impots sur une période de cent ans à l'encontre du duché
+            dorien. Les doriens obtiennent le titre de nourrissons d'Eiode, ils pourront
+            devenir Fils d'eiode d'ici dix ans. Les pays voisins de Masslavie et d'Elosia
+            ont fortement condamnés cette décision. \pau=1500\
+            \audio=play="new_orchestra_hits_X_ending_008";volume=120\
+
+    "80_defeat_wiremind_standard":
+        "title": >-
+            Annonce - Wiremind battu
+        "text": >-
+            \audio=mix="news_bass_full_042";volume=100\ \pau=6000\ \audio=volume=25\ \pau=1000\ \vce=speaker=alice\
+            La Faculté d'Imuo est la cible de nombreux commentaires zacerbes, après avoir tenté de dissimuler
+            la défaite de son intelligence artificielle aux échecs, contre un joueur amateur. Le gagnant
+            est un certain {{TODO}}, venant de {{TODO}}.
+
+
+_UNUSED_AUDIO_:
+
+    #message_intercepted:
+    #    text: "Short chimes sound"
+    #    file: "intercepted_message_chimes.mp3"
+
+    intro_audio_messages:
+        text: "Veuillez écouter maintenant quelques messages personnels."
+        file: "A_intro_messages.mp3"
+
+
+    new_messages_bewitcher:
+        text: "Tante Amélie fait du vélo en short."
+        file: "amelie.mp3"
+
+    new_messages_oracle:
+        text: "Atalie est restée en extase"
+        file: "atalie.mp3"
+
+
+    new_messages_hacker:
+        text: "Louis a deux cochons"
+        file : louis.mp3
+
+    new_messages_networker:
+        text: "Grand-mère mange nos bonbons."
+        file: "bonbons.mp3"
+
+
+    new_messages_listener:
+        text: "Le cheval bleu se promène sur l'horizon."
+        file: "cheval.mp3"
+
+    new_messages_scanner:
+        text: "Clémentine veut se curer les dents."
+        file: "clementine.mp3"
+
+
+    new_messages_loyd.georges:
+        text: "Je n'aime pas les crêpes Suzette."
+        file: "crepes.mp3"
+
+    new_messages_archaeologist:
+        text: "Le facteur s'est endormi"
+        file: "facteur.mp3"
+
+    new_messages_physicist:
+        text: "Les girafes ne portent pas de faux col."
+        file: "girafes.mp3"
+
+
+
+    #request_for_report_akaris:
+    #    text: "Pierrot ressemble à son grand-père"
+    #    file: pierrot.mp3
+
+    #request_for_report_masslavia:
+    #    text: "J'aime les chats siamois."
+    #    file: "siamois.mp3"
+
+    #request_for_report_teldorium:
+    #    text: "Il n'y a plus de tabac dans la tabatière."
+    #    file: "tabac.mp3"
+
+    #request_for_report_sciences:
+    #    text: "Il est temps de cueillir des tomates."
+    #    file: "tomates.mp3"
+
+
+    victory_akaris:
+        text: "Sound of a cat"
+        file: sound_cat.mp3
+    defeat_akaris:
+        text: "Sound of a cicada"
+        file: sound_cicada.mp3
+
+    victory_masslavia:
+        text: "Sound of a cow"
+        file: sound_cow.mp3
+    defeat_masslavia:
+        text: "Sound of a dog"
+        file: sound_dog.mp3
+
+    victory_teldorium:
+        text: "Sound of a donkey"
+        file: sound_donkey.mp3
+    defeat_teldorium:
+        text: "Sound of a duck"
+        file: sound_duck.mp3
+
+    victory_sciences:
+        text: "Sound of a monkey"
+        file: sound_monkey.mp3
+    defeat_sciences:
+        text: "Sound of a sheep"
+        file: sound_sheep.mp3
+
+
+    #A CASER 0
+    #    text: "Andromaque se parfume à la lavande."
+    #    file: "andromaque.mp3"
+
+    #A CASER 1:
+    #    text: "Les sanglots longs des violons de l'automne."
+    #    file: "sanglots.mp3"
+
+    #A CASER 2:
+    #    text: "Berce mon coeur d'une langueur monotone."
+    #    file: "berce.mp3"
+
+    #A CASER 3:
+    #    text: "L'éléphant s'est cassé une défense."
+    #    file: "elephant.mp3"
+
+
+
+    #spot_intro_flash_info:
+    #    text: "Whah mini flash info, trop de la balle hé..." # with music
+    #    file: spot_mini_flash_info.mp3
+
+    #spot_intro_normal_info:
+    #    text: "Super info radio, le meilleur de l'actualité en quelques dizaines de secondes."
+    #    file: spot_intro_info.mp3
+
+    #spot_alifir_bank_attack:
+    #    text: >
+    #       La banque centrale d'Alifir victime d'un audacieux cambriolage. Un commando a mystérieusement réussi à s'introduire
+    #       dans les chambres fortes sans déclencher d'alarme. Grâce à la prompte intervention des gardes ils n'ont heureusement
+    #       eu le temps que d'ouvrir un seul coffre blindé avant de s'enfuir.
+    #    file: spot_alifir_bank_attack.mp3
+
+    #spot_masslavian_ambassadors_eviction:
+    #    text: >
+    #        Tensions diplomatique en Midolie. Les judicateurs akarites viennent d'expulser les ambassadeurs masslaves en Akarie,
+    #        en les accusant d'espionnage et d'ingérence dans les affaires intérieures. La masslavie dément formellement ces allégations.
+    #    file: spot_masslavian_ambassadors_eviction.mp3
+
+    #spot_nuxia_alcohol_exhibition:
+    #    text: >
+    #        Aujourd'hui commence, à Mikahaih, la grande foire à l'eau de vie, qui comme chaque année rassemble des milliers
+    #        d'oenologues et d'alcooliques venus de tout le continent.
+    #    file: spot_nuxia_alcohol_exhibition.mp3
+
+    #spot_nalavut_council_begins:
+    #    text: >
+    #        Grande animation dans la petite ville de Kitiika, où le grand conseil des chefs nalavutiens se rassemble actuellement pour
+    #        l'assemblée générale de début de siècle. Notre envoyée spéciale sur place, ssynthia Farthstariygta, nous donnera en direct
+    #        ce soir les détails de ce grand évènement.
+    #    file: spot_nalavut_council_begins.mp3
+
+    #spot_akarith_agents_arrested:
+    #    text: >
+    #        Les troubles diplomatiques s'intensifient en Midolie, après l'arrestation, par le gouvernement masslave, d'une dizaine de ressortissants
+    #        akarites, pour détention illégale de poisons et atteinte à la sécurité de l'état. Les judicateurs akarites ont violemment condamné ces
+    #        mesures.
+    #    file: spot_akarith_agents_arrested.mp3
+
+    #spot_electromagnetic_storm:
+    #    text: >
+    #        L'académie d'Imuo annonce enregistrer en ce moment des secousses électromagnétiques d'un genre nouveau, qui balayent toute la surface du globe.
+    #        Les premières mesures indiquent que ces phénomènes trouveraient leur source du côté d'Héliossar ou Slavinka.
+    #    file: spot_electromagnetic_storm.mp3
+
+    #spot_kitiika_attack:
+    #    text: >
+    #        Grave crise à Kitiika, où un groupe armé a fait irruption dans l'enceinte intérieure du grand conseil, et pris en otage une dizaine de
+    #        dignitaires présents avant de s'enfuir par la mer. De nombreux navires de guerre sillonnent la zone à leur recherche.
+    #    file : spot_kitiika_attack.mp3
+
+    #spot_kitiika_cynthia_lacking:
+    #    text: >
+    #        Soulagement au Nalavut, où tous les chefs de clans enlevés par les terroristes inconnus ont pu être récupérés dans un voilier à la dérive
+    #        par un croiseur de Beth-Asmavoth. Leurs ravisseurs se seraient éclipsés grâce à un sous-marin, en gardant en otage une journaliste Sabarite.
+    #    file : spot_kitiika_cynthia_lacking.mp3
+
+    #spot_H2O_cheating:
+    #    text: >
+    #        Escroquerie de grande ampleur à Baynon, où plusieurs milliers de victimes défilent dans la rue, pour réclamer la tête d'un marchand béelmonien
+    #        qui leur aurait vendu des dizaines de tonnes d'eau déshydratée. Un mandat d'arrêt international a été lancé.
+    #    file : spot_dehydrated_water_cheating.mp3
+
+    #spot_baazel_arrested:
+    #    text: >
+    #        La situation se complique en Akarie, où l'archimage de Zorzas, Baazel, a été arrêté par les judicateurs sous inculpation de haute trahison.
+    #        L'état d'urgence a été décrété dans tout le pays.
+    #    file : spot_baazel_arrested.mp3
+
+    #spot_midolia_high_tension:
+    #    text: >
+    #        La tension monte en midolie, alors que les armées masslaves et akarites se pressent aux frontières, et que les deux états
+    #        ne cessent de s'accuser d'impérialisme, de sacrilège ou de trahison.
+    #        Les nations voisines appellent à une résolution pacifique du conflit.
+    #    file : spot_midolia_high_tension.mp3
+
+    #spot_alien_phenomenons:
+    #    text: >
+    #        Etrange phénomènes météorologiques dans le ciel d'Héliossar, ou des cercles lumineux et des éclairs colorés ne cessent d'apparaître et de disparaître.
+    #        La majorité de la population s'attend à un débarquement imminent d'extra-terrestres.
+    #    file : spot_alien_phenomenons.mp3
+
+
+
+
+    info_spots_1:
+        text: "ambassadors eviction + nalavut council begins + alcohol exhibition"
+        file: info_spots_1.mp3
+
+    info_spots_2:
+        text: "kitiika attack + akarith agents arrested + electromagnetic storm"
+        file: info_spots_2.mp3
+
+    info_spots_3:
+        text: "nalavut cynthia lacking + max tension midolia + alien phenomenons"
+        file: info_spots_3.mp3
+
+    info_spots_alifir_bank_attack:
+        text: "The bank of Alifir was hold up."
+        file: info_spots_alifir_bank_attack.mp3
+
+    info_spots_baazel_arrested:
+        text: "Archimage Baazel was arrested."
+        file: info_spots_baazel_arrested.mp3
+
+    info_spots_H2O_cheating:
+        text: "Dehydrated water rip off."
+        file: info_spots_dehydrated_water_cheating.mp3
+
+
+...
+

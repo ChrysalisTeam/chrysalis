@@ -1,0 +1,91 @@
+
+
+
+messaging:
+
+    manual_messages_templates:
+
+
+
+        -   "id": magnus_philiblast_news
+            "body": |
+                Monsieur,
+
+                juste un petit statut, pour vous confirmer que vos affaires tournent tranquillement.
+
+                Hormis la demande en antiquité yodiques, qui a crû sensiblement à cause des récents évènements,
+                le marché des antiquités et des bijoux reste stable.
+
+                Les États en mis en place des quotas stricts pour éviter tout effet d'emballement suite à la crise
+                midolienne, donc je ne pourrais guère vous virer plus de **1400¤** par semaine (le dimanche à
+                minuit). Par contre un de nos "amis" est prêt à discretos nous en convertir une partie, à l'arrivée,
+                en Livres Sabarites Certifiées, au **prix de 2¤ pour 1 Livre**. Tenez-moi au courant de vos décisions.
+
+                A votre disposition,
+
+                Philiblast, votre dévoué Gestionnaire
+            "categories":
+            - >-
+                magnus
+            "gamemaster_hints": "Le manager lordanien de Magnus le tient au courant."
+            "sender_email": >-
+                manager@magnuscorp.pg
+            "subject": >-
+                Etat des lieux
+
+
+        -   "id": "magnus_lydia_intro"
+            "body": |
+                haha chéri, je sais que cette suite de l’Hôtel Impérial d’Alifir est imposante, mais il suffirait
+                que tu descendes à l’étage du dessous pour pouvoir jouer avec lui (ou l'aider à réviser ses tables
+                de multiplication, mieux !)
+
+                Il faudra que tu le gardes demain matin, d’ailleurs, avant ces fameuses ventes, histoire que je
+                puisse faire du shopping. Je n’ai pas totalement confiance dans le personnel autochtone.
+
+                Est-ce que tu vas chez Loyd Georges pour ces ventes, d’ailleurs, ou est-ce que tu restes en téléconférence ?
+
+                *Bizzzzz*
+            "categories":
+            - >-
+                magnus
+            "gamemaster_hints": "Message de la femme de Magnus, qui est venue avec lui et enfant en Sabarim."
+            "sender_email": >-
+                lydia@anthropia.pg
+            "subject": >-
+                Re: Coucou
+
+        -   "id": "magnus_lydia_msg_medecine"
+            "body": |
+                Hello chéri,
+
+                j'ai entendu le message sur ton répondeur, c'est moi qui ai emporté ta trousse de médicaments
+                ici (avec les restes des anciens médocs), elle est dans l'armoire de la chambre d'hôtel si besoin.
+
+                Et voici ci-dessous  le récap' dont tu pourrais avoir besoin (heureusement que je garde la trace
+                de tout cela pour toi!)
+
+                ++ biz
+
+                -------
+
+                **Dossier médical - Magnus**
+
+                2014 février : luxation de l'épaule lors d'un tournoi de paumes, 1 mois d'immobilité puis rééducation
+
+                2014 septembre : cure de vitamine D, 1 ampoule par mois pendant 3 mois
+
+                2015 Mars : ablation d'un petit kyste au bras
+
+                2015 Janvier : cure de 1 an d'anti-histaminiques, contre la sinusite chronique (moyennement efficace)
+
+                2015 Juin : rappels de quelques vaccins obligatoires, avant voyage pour Sabarim
+            "categories":
+            - >-
+                magnus
+            "gamemaster_hints": ""
+            "sender_email": >-
+                lydia@anthropia.pg
+            "subject": >-
+                Médocs
+

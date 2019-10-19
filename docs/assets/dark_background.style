@@ -1,0 +1,11 @@
+
+
+pageTemplates:
+        
+    standardPage:
+        background: assets/dark_background.jpg
+        frames: []
+            [0cm, 0cm, 100%, 100%]
+        showHeader: false
+        showFooter: true 
+        

@@ -1,0 +1,302 @@
+---
+
+
+static_pages:
+
+
+    midolian_wars:
+        title: "Guerres Midoliennes"
+        categories: ["encyclopedia"]
+        keywords: ["guerres midoliennes", "akarites?"]  # remember that the FIRST keyword will get auto-linked in misc. content
+        content: |
+
+            *"L'histoire du continent midolien se résume à une succession d'expansions et de déchéances de l'empire akarite, au gré des envolées conquérantes des divers ordres religieux qui se sont succédés à sa tête, et de leur désagrégation spontanée pour cause d'irréconciliables divergences doctrinales entre hauts dignitaires ; les peuples adjacents ont fortement pâti de chacune de ces résurgences fanatiques, et leur démographie exhibe aujourd'hui encore les stigmates des innombrables incivilités dont ils ont été les proies."*
+
+            *Lucius Dimnus, "Histoire de Pangéa pour les Distingués"*
+
+            ------------
+
+            Ce que ce bon vieux Lucius résume si éloquemment, c'est que depuis des millénaires, c'est toujours le même scénario qui se déroule en Midolie.
+
+            #. les tribus d'Akarie se développent économiquement et militairement
+            #. elles se mettent à rêver d'un empire akarite millénaire, sous l'impulsion de quelque gourou fanatique
+            #. elles partent en croisade contre les peuples voisins (correspondants aux actuels Doriens, Masslaves, Héliossares voire Thélassares)
+            #. elles imposent leur tyrannie aux territoires conquis, pendant quelques années
+            #. l'agrandissement de l'empire devient de plus en plus difficile, d'où des querelles théologiques entre hauts gradés akarites
+            #. l'empire s'effondre, et le continent sombre dans l'anarchie et la misère durant quelques générations
+            #. revenir à l'étape 1.
+
+            Piètre spectacle en vérité. Cependant, lors de la dernière guerre midolienne, il y a un siècle de cela, les soldats akarites (appelés **zélotes**) ont été immédiatement mis en échec par des guérilleros masslaves et héliossars particulièrement déterminés. La contre-attaque de ce "Front des Affranchis" a rendu l'Akarie exsangue et divisée comme jamais, et offert une paix prolongée à leurs voisins.
+
+            Mais récemment, l'ordre religieux dit des "judicateurs" s'est hissé au pouvoir en Akarie, en remettant à l'honneur les plus vieilles traditions de la contrée. Adorés comme "Messagers des Yods" (les divinités locales), et bénéficiant d'une conjoncture économique rutilante, le judicateur suprême Arthanas et sa cour ne semblent pas vouloir s'arrêter en si bon chemin.
+
+            En Midolie, l'avenir n'est-il qu'un long passé ? Lui seul nous le dira.
+
+            [BR]
+
+            *Le symbole des judicateurs akarites, le Crossentar:*
+
+            .. image:: [GAME_THUMBNAIL_URL "images/emblems/crossentar_symbol.png" "big_width"]
+                :align: center
+
+
+    sacred_orbs:
+        title: "Orbes Sacrés"
+        categories: ["encyclopedia"]
+        keywords: ["orbes divins", "larmes?", "orbes?", "divine?s?"]
+        content:   |
+
+            .. note::
+
+                Ce n'est pas une erreur, "Orbe" est bel et bien un mot masculin, quand bien même l'intuition plaiderait le contraire.
+
+            L'un des plus vieux mythes midoliens connus à ce jour.
+
+            Il raconte que les Yods (divinités akarites) donnèrent un jour au prêtre Melkisedech, ancêtre de tous les akarites, trois orbes sacrés garants de la domination de sa race sur toute la planète.
+
+            Après quelques millénaires de cet "Âge de l'Equilibre Universel", les orbes tombèrent par trahison entre des mains impies. L'harmonie fut alors rompue, et les akarites durent se réfugier aux confins du continent midolien, tandis que les peuplades dégénérées prenaient possession de l'ensemble de Pangea. Les Yods, outrés, lâchèrent ensuite sur la planète les épidémies, les tornades, les ongles de pieds incarnés, les tremblements de terre et autres horreurs ; tout cela comme un rappel lancinant que leur précieux don avait été bafoué, et que les akarites n'auraient jamais la paix tant que ce sacrilège ne serait racheté.
+
+            L'existence de ces fameux orbes (aussi appelées pierres sacrées, larmes divines, saintes gemmes et moult autres combinaisons) reste sujette à controverses. Cependant, dans le cas où elles seraient un jour retrouvées, il existe deux choses que les voisins des peuples akarites craindraient énormément.
+
+            La première, ce serait de posséder ces orbes ; car cette impiété, si elle était connue, leur vaudrait une agression immédiate des fanatiques akarites. La deuxième, ce serait de ne pas les posséder ; car si elles se retrouvaient alors entre les mains des chefs religieux akarites, cela justifierait une poussée impérialiste plus mortifère encore. Cette analyse de la situation, un lieutenant masslave d'antan l'a résumée ainsi dans ses mémoires: "si ces grosses caillasses, un jour refont surface, nous serons quoi qu'on fasse, profonds dans la merdasse".
+
+            [BR]
+
+            *La plus ancienne représentation connue à ce jour du mythe des orbes akarites, un dessin sur toile :*
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/cloth_drawing_temple.png" "big_width"]
+                :align: center
+
+
+    yodic_theology:
+        title: "Théologie Yodique"
+        categories: ["encyclopedia"]
+        keywords: ["théologie yodique", "théologie", "yods?", "akari[es]", "transfiliation"]
+        content: |
+
+            Ces doctrines font partie de l'immense arbre des concepts qui animent et séparent les différentes confessions yodiques, chacune faisant le tri entre ce qu'elle considère comme "orthodoxe" (vrai, bon, fidèle au dogme) et "hérétique" (pervers, fallacieux, contraire au dogme).
+
+
+            La transfiliation
+            ======================
+
+            Cette notion théologique fut décisive dans le schisme entre les fidèles de Sul'Taran et ceux de Sul'Razul (deux gourous de l'ère tectonne).
+
+            En effet, ceux-ci pensaient que les bâthârs, c'est-à-dire les humains ne faisant pas partie de la sainte lignée descendant directement des yods, pouvaient, par leur piété et leurs efforts, "rentrer en grâce" auprès des divinités, et accéder aux aussi à l'Empire Cosmique, à la fin des temps ; mais ceux-là s'opposèrent violemment à cette doctrine, considérant comme une horrible hérésie l'idée que les yods puissent "se renier", en acceptant parmi eux des êtres considérés comme descendant d'unions contre-nature avec des animaux.
+
+            Bien que l'akarie actuelle reste majoritairement marquée par la théologie taranite, la caste des judicateurs a prudemment commencé à remettre la question de la transfiliation sur le tapis, sous l’appellation "hypothèse théologique inexplorée". Sans doute dans le but de pouvoir, à terme, récolter des ouailles parmi les populations étrangères.
+
+
+            La polymonie
+            ====================
+
+            Très tôt, la religion yodique se démarqua de toutes les religions environnantes, en rejetant violemment aussi bien le monothéisme (croyance en un dieu unique), que le polythéisme (croyance en un panthéon de divinités, pouvant s'opposer entre elles).
+
+            Ainsi s'est forgée la doctrine de la polymonie, professant l'existence d'un nombre sans fin de yods, tous partageant une unique conscience, mémoire et volonté. "L'infinité dans l'unité" est ainsi devenu un mantra fondamental dans la piété populaire.
+
+            Hormis dans quelques rares hérésies, nettoyées par le feu aussitôt qu'apparues, ce dogme n'a historiquement jamais été remis en cause au sein des fidèles yodiques ; du moins jusqu'au second concile de la récente caste des Judicateurs, durant laquelle un fort courant minoritaire s'est prononcé en faveur de l'équivalence entre les appellations plurielle (nom commun) et singulière (nom propre) ; dans ce cas, "les yods soient loués" pourrait aussi bien se dire "Yod soit loué". Au final, suite au prêche enflammé d'un archidiacre de Zorzas, cette motion a été excrétée sans ambiguïté, et les Judicateurs n'ont cessé, depuis, d'entériner avec véhémence cette prise de position doctrinale.
+
+
+            L'eschatologie in-vivo et post-mortem
+            =========================================
+
+            Toutes les confessions yodiques s'accordent sur le rétablissement, à terme, de l'Empire Cosmique des yods, via la réunion des trois orbes divins. En revanche, il existe de fortes divergences d'opinions sur les modalités de cet achèvement.
+
+            Traditionnellement, les fidèles yodiques eurent très à cœur d'accomplir de force de cette prophétie, en recherchant avidement les trois orbes, et en multipliant les opérations militaires dès que le vent semblait favorable.
+
+            Cependant, une théorie alternative est apparue, suite à l'effondrement du second empire akarite. Cette version affirme que le mythe des orbes est uniquement symbolique, qu'il représente la lutte de tout individu pour rentrer en grâce auprès des yods, et que la victoire finale des yods n'aura lieu que dans l'au-delà, après la mort du dernier humain.
+
+            Cette doctrine est allée jusqu'à devenir un dogme dans certaines confessions yodiques ; par exemple chez les fidèles de Sul'mithra (autre gourou de l'ère tectonne), suite à leur schisme d'avec les razulites, et leur exil forcé vers Beth-Asmavoth ; un schisme qui aurait été principalement dû à des conflits de pouvoir.
+
+            En Akarie actuelle, la controverse est restée vive, même si un édit du Grand Conseil a joué l'apaisement, en statuant que ces deux versions des fins dernières ne s'opposaient pas, mais se complétaient mutuellement. Ces dernières années, les judicateurs ont cependant clairement fait pencher la balance, avec leurs discours enflammés sur la nécessaire imminence de la réunion des orbes.
+
+            [BR]
+
+            **Un haut-judicateur akarite :**
+
+            .. image:: [GAME_THUMBNAIL_URL "images/portraits/judicator_portrait.png" "big_width"]
+                :align: center
+
+        gamemaster_hints: |
+
+            RECAPITULATIF - pour la caste des judicateurs, qui a fait sa propre sauce à partir des doctrines précédentes :
+
+            - la polymonie est un dogme fondamental (on dit "les yods" et pas "Yod")
+            - l'eschatologie est nécessairement in-vivo (il faut retrouver au plus vite les trois orbes pour que l'ère de félicité se réalise)
+            - la transfiliation est une hypothèse intéressante, à diffuser auprès de la population réticente, afin de pouvoir grappiller de nouveaux fidèles et alliés chez les peuples voisins.
+
+
+    yodic_quotes:
+        title: "Citations Yodiques"
+        categories: ["encyclopedia"]
+        keywords: ["citations yodiques", "théologie", "yods?", "akari[es]", "transfiliation"]
+        content: |
+
+            **Quelques citations célèbres, de diverses confessions et figures yodiques.**
+
+            1. Quel parfum plus agréable aux narines des yods, que celui d'un esprit filial brisé et broyé ? *Hayo Li*
+
+            2. Oh Yod sois en témoin, cette ère ne finira guère sans qu'Akarie la Glorieuse n'impose le respect de ton Saint Nom à toutes les irrécupérables nations bâthâres. *Prophète Ysotop*
+
+            3. La dilétion des yods embrase tout fidèle qui dévoue sa vie à la récupération des saints orbes. *Maître Subal' Tern*
+
+            4. Oh toi qui cherche les yods, ne te méprends pas : l'obéissance, la mortification et la contemplation sont les trois seuls joyaux qui t'obtiendront leurs grâces. *Ermite Seulomond*
+
+            5. Rien n'est impossible aux Yods, hormis aller contre leur propre volonté. *Livre Saint Yodique*
+
+            6. La jubilation est à la transcendance ce que l'immanence est à la piété, c'est-à-dire l'anamnèse d'une entéléchie par l'intercession de la grâce yodique. *Diakon Hermès Tick*
+
+            [BR]
+
+            **Un archevêque akarite :**
+
+            .. image:: [GAME_THUMBNAIL_URL "images/portraits/archbishop_portrait.png" "big_width"]
+                :align: center
+
+        gamemaster_hints: |
+
+            **Avis des judicateurs akarites sur ces citations:**
+
+            1. Hors sujet, car concerne les fidèles déjà acquis aux yods
+            2. Hérétique, car parlant de "Yod" comme prénom personnel, et niant toute transfiliation possible
+            3. Orthodoxe, car appelant à la quête des orbes
+            4. Hérétique, car niant l'importance de la quête des orbes
+            5. Orthodoxe, car ouvrant la possibilité de la transfiliation
+            6. Hors sujet, et incompréhensible
+
+
+    salt_deserts:
+        title: "Déserts de Sel"
+        categories: ["encyclopedia"]
+        keywords: ["désert de sel", "désert", "banquise", "mer", "sel"]
+        content: |
+
+            Un désert de sel, ou "salar", est un vaste dépôt de sédiments essentiellement
+            constitués par des sels (chlorures, sulfates, nitrates, borates, etc).
+            Il se forme typiquement par évaporation d'un lac salé dont les apports en eau sont insuffisants.
+
+            Pangéa compte de nombreux déserts de sel, dont parmi les plus importants:
+
+            - la "mer saline perchée" à l'Est de Meelish
+            - la "banquise de sel" près d'Endara
+            - les "lacs nacrés" au centre de Balberith
+            - les "rivières salées" au nord de Mastden
+
+            [BR]
+
+            **La "banquise de sel" polaire**
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/salt_desert.jpg" "big_width"]
+                :align: center
+
+
+    akaris_runes:
+        title: "Runes Akarites"
+        categories: ["encyclopedia"]
+        keywords: ["runes? akarites?", "runes?", "antiques?"]
+        content:   |
+
+            Les runes akarites sont un système d'écriture alphabétique rudimentaire, dont l'anticonformisme laisse penser qu'il a été inventé de toutes pièces pour contrer l'immixtion des langages venus d'Axolie.
+
+            Ces runes sont apparues de façon soudaine vers le milieu de l'ère tectonne, sur les Côtes Nord de la Midolie. Elles ont vraisemblablement été empruntées à l'alphabet d'une civilisation antérieure, disparue sans laisser d'autres traces.
+
+            La spécificité de ce système d'écriture est qu'il ne transcrit pas les consonnes, mais uniquement les voyelles et des accents marquant l'intonation. Il en découle une certaine propension à l'homonymie, des phrases comme *"nous nous réjouissons de la fructueuse collaboration commerciale qui s'annonce entre nos deux pays"*, et *"nous savourons la perspective de crever toute votre race dégénérée par le fer et le feu"*, s'écrivant, dans ce système, identiquement.
+
+            Les historiens ont noté que l'une des plus meurtrières éruptions de guerres tribales akarites avait coïncidé avec le remplacement des messagers oraux, par des parchemins diplomatiques écrits en runes. Il est consensuellement admis que ceci explique cela.
+
+            [BR]
+
+            *Transcription phonétique des runes akarites actuellement connues :*
+
+            .. image:: [GAME_FILE_URL "images/sciences/antic_runes.gif"]
+                :align: center
+
+
+    cloudy_citadel:
+        title: "Citadelle Nuageuse"
+        categories: ["encyclopedia"]
+        keywords: ["citadelle nuageuse", "citadelle", "nuages?", "sanctuaire"]
+        content: |
+
+            Ce nouveau lieu saint yodique, construit par les judicateurs dès leur accession au pouvoir il y a 3 ans, sert à la fois de palais aux hauts-gradés de cet ordre, et de lieu de réunion pour les Hauts-Conseils Akarites, qui rassemblent les meneurs spirituels des 7 clans akarites.
+
+            Les mauvaises langues prétendent que les nuages qui recouvrent constamment la montagne seraient des brumes artificielles ; mais le domaine étant interdit aux "impies", nul n'a jamais pu le vérifier.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/cloudy_citadel.jpg" "big_width"]
+                :align: center
+
+
+    wigwir_battle:
+        title: "Bataille de Wigwir"
+        categories: ["encyclopedia"]
+        keywords: ["bataille de wigwir", "bataille", "wigwir", "kéroskia"]
+        content: |
+
+            La "Bataille de Wigwir" est un évènement mythico-historique, durant laquelle les confessions yodiques rivales des Taranites et des Razulites se seraient affrontées pour la dernière fois, et l'un des Orbes Divins aurait été perdu.
+
+            Aucune trace du lieu de cette bataille n'a été trouvée dans toute la Midolie, et il est aujourd'hui communément admis que cette bataille est légendaire. Les taranites auraient en réalité imposé leur doctrine de façon bien plus progressive en Akarie.
+
+
+    mount_shina:
+        title: "Mont Shina"
+        categories: ["encyclopedia"]
+        keywords: ["montagne", "mont", "shina", "sanctuaire"]
+        content: |
+
+            C'est la plus haute cime de la chaîne montagneuse midolienne, caractérisée par ses neiges éternelles, et sa faune très inhospitalière : serpents des neiges, caracals ombrageux, edelweiss empoisonnés.
+
+            Elle fut, durant les "marées yodiques", considérée comme un important sanctuaire par certaines confessions.
+
+            Depuis l'implosion du dernier empire akarite, cette montagne est située au centre de la **Masslavie**, et n'a (théoriquement) plus aucune signification religieuse, contrairement à de nombreux autres reliefs : le mont Olysho (Heliossar), la colline Brumerre (Dorie)...
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/sky_dome.jpg" "big_width"]
+                :align: center
+
+
+    ancient_deities:
+        title: "Divinités Antiques"
+        categories: ["encyclopedia"]
+        keywords: ["dieux?", "déesses?", "divinités?", "[ée]gypte", "théologie", "chiens?", "chats?"]
+        content: |
+
+            Les religions yodiques, et leurs dérivés, sont de nos jours extrêmement majoritaires sur Pangéa.
+
+            Mais par le passé, bien avant Tungunska, des ensembles de dieux très différents se partageaient la planète.Les panthéons des cultures dites "grecques", "romaines", "égyptiennes" et "orientales" sont ainsi en cours de recensement par la glorieuse académie d'Alifir.
+
+            Fait insolite, de nombreuses civilisations tiraient leurs divinités d'animaux anthropomorphisés.
+            Ainsi, l'Égypte Antique avait entre autres des dieux et déesses :
+
+            - à tête de Bélier :
+
+              - Ageb
+              - Banebdjedet
+              - Khnoum
+
+            - à tête de Canidé :
+
+              - Anubis
+              - Bedou
+              - Oupaout
+              - Seth
+
+            - à tête de Félin :
+
+              - Apademak
+              - Bastet
+              - Sekhmet
+
+            - à tête de Faucon :
+
+              - Hemen
+              - Montou
+              - Nephthys
+              - Sokaris
+
+
+
+
+
+...
+

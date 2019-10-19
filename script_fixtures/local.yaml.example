@@ -1,0 +1,7 @@
+# Rename this file as "local.yaml", and fill these values to customize your game.
+
+telephone_exchange_number: "<undefined>"
+
+anthropia_portal_url: "<undefined>"
+
+gmail_smtp_password: "<undefined>"

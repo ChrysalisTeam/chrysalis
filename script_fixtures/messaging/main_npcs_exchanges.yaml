@@ -1,0 +1,135 @@
+
+
+
+messaging:
+
+    manual_messages_templates:
+
+
+        -   "id": sir_ademar_dogs
+            "body": |
+                Mon cher Loyd Georges,
+
+                Je suis désolé de tous ces ennuis qui vous arrivent. Entre les effractions, les vols, les menaces,
+                et maintenant des attentats contre vos amis, ce pays n'est décidément plus constitué que de chienlit.
+
+                Je me charge avec plaisir de la cure thermale de votre chien ; Anubis est décidément un compagnon
+                exceptionnel, aussi rigoureux à la garde de votre manoir, que joueur avec mes petits enfants.
+
+                Si vous envisagez de rajouter, à votre famille, un nouveau canidé, sachez que ma nièce vient d’être
+                gratifiée d'une portée de 5 chiots bassets a-do-rable. Vous pourriez prendre un mâle et l'appeler
+                Seth par exemple - pour rester dans la même nomenclature que depuis le début. Mais si vous préférez
+                retourner à vos premiers amours, ma chatte siamoise accouche bientôt.
+
+                Princement vôtre,
+
+                S.A
+            "categories":
+            - >-
+                npc_account_hacking
+            "gamemaster_hints": "Indices pour pirater le compte Anthropia de Loyd Georges."
+            "recipient_emails":
+            - >-
+                loyd.georges@anthropia.pg
+            "sender_email": >-
+                sir-ademar@salima.pg
+            "subject": >-
+                Condoléances pour ces impromptus
+
+
+        -
+            id: lg_mansion_hints_answer
+            gamemaster_hints: "Indices pour pirater le compte Anthropia de Loyd Georges."
+            categories: ["npc_account_hacking"]
+            sender_email: loyd.georges
+            recipient_emails: ["sir-ademar@salima.pg"]
+            subject: "Re: Condoléances pour ces impromptus"
+            body: |
+
+                Cher Sir Adémar,
+
+                Merci pour votre message qui me fait chaud au coeur. Je réfléchis à prendre un nouvel animal en effet, mais il est encore trop tôt pour cela - non seulement à cause du deuil que je dois à mon vieil Anubis, mais aussi parce que mon agenda ne me donnerait pas le loisir de faire décemment connaissance avec mon nouveau fauve.
+
+                En ce qui concerne l'enterrement, il aura lieu dans le caveau que nous nous transmettons de génération en génération, au cimetière animal du Père Huche (Salima Sud), à 13h37 après-demain.
+
+                Sirement vôtre,
+
+                L.G
+
+
+
+        -   "id": "loakim_loucia_death_commemoration"
+            "body": |
+                Chers tous,
+
+                entre les réclusions à domicile et les voyages à l'étranger, il semble que la cérémonie anniversaire
+                à la mémoire de notre chère femme/mère/soeur/amie ne pourra avoir lieu ce Week-End.
+
+                Je propose donc que l'on repousse cela à dans 4 semaines, quand les choses se seront calmées.
+                Loucia aurait en tout cas apprécié de voir autant de dévotion aux merveilles de la Science.
+
+                *Docteur L.B.*
+            "categories":
+            - >-
+                npc_account_hacking
+            "gamemaster_hints": "Indices pour pirater le compte Anthropia du Pr Loakim."
+            "recipient_emails":
+            - >-
+                cynthia@anthropia.pg
+            - >-
+                emilos.loakim@anthropia.pg
+            - >-
+                loyd.georges@anthropia.pg
+            "sender_email": >-
+                lucius.begalatr@faeran.pg
+            "subject": >-
+                Report de la cérémonie mémorielle
+
+
+
+        -   "id": alifir_robbery_status
+            "body": |
+                Hello les amis,
+
+                Bon, moralement le vol de ce Grimoire Sacré Akarite est un drame pour notre équipe ; ça prouve
+                que même dans le Saint des Saints de l'Académie d'Alifir, ces maudits akarites peuvent frapper....
+
+                Mais scientifiquement parlant, on devrait s'en tirer : nous avons encore toutes les pages, sous
+                forme numérique, et la traduction est déjà bien avancée.
+
+                La section que nous sommes en train de déchiffrer parle de l'épique "Bataille de Wigwir", au cours
+                de laquelle les "trois larmes divines" auraient été perdues. Ça en fait donc deux dans la nature,
+                qui n'attendent que nos recherches.
+
+                J'ai envoyé mon assistant Karles faire des repérages à l'est de Nuxia (Slavinka), où nous avons
+                déjà plusieurs localisations possibles pour ce fameux lieu-dit de Wigwir. Il est probable que
+                malgré mon arthrite, je me doive d'aller lancer ces chantiers de fouille moi-même !
+
+                Ainsi je m'éloignerai un peu de ces maudits fanatiques ; de votre côté, restez cloîtrés et tout
+                ira bien. L'inspecteur Shark voulait te mettre aussi sous protection policière, Waden, mais nous
+                sommes tous d'accord pour dire que le secret est notre meilleur allié, car rien ne peut arrêter
+                une troupe de fous furieux mêlés à la population, quand ils connaissent leur but.
+
+                Pour résumer le puzzle actuel : ce temple enfoui appartenait à des fidèles razulites, qui étaient
+                en guerre fratricide avec des fidèles taranites. Visiblement tout s'est joué à Wigwir, et les
+                corps que nous avons retrouvés datent de plusieurs décennies plus tard. Cela nous laisse beaucoup
+                de mystères à résoudre (surtout le vandalisme "interrompu"), mais c'est déjà un début.
+
+                Je fais mes valises sur l'heure, je n'aurai sans doute plus accès à mon compte Anthropia avant
+                plusieurs semaines donc ne vous inquiétez pas, je vous appellerai en phonodistance si besoin.
+
+                E.L
+            "categories":
+            - >-
+                wigwir_orb
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                waden@anthropia.pg
+            - >-
+                loyd.georges@anthropia.pg
+            "sender_email": >-
+                emilos.loakim@anthropia.pg
+            "subject": >-
+                Important - suite à ce nouveau cambriolage.....
+

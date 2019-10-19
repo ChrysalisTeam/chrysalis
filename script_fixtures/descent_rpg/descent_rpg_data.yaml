@@ -1,0 +1,158 @@
+---
+
+descent_rpg:
+    common_equipments:
+        - combinaison spéléologique avec casque et gants de cuir
+        - masque de protection bactério-chimique (agilité -1)
+        - grand sac à dos et sachets 10 litres, tous étanches
+        - piolet en acier
+        - flambeau (portée 30m, longue durée)
+        - 5 géodes lumineuses (portée 1m, chaud sans flamme, étanche, dure 20mn)
+        - 1/2 brancard téléscopique
+        - "kit de survie : briquet, ficelle, couteau multifonction, corde 3m, 1 ration, eau..."
+        - légende akarite des "Trois Orbes Divins"
+
+    players:
+
+        archaeologist:
+
+            name: "Pr Sylvius, archéologue(s)"
+
+            stats:
+                constitution: 3
+                agility: 4
+                observation: 4
+
+            missions: |
+               Prouvez qu'il s'agit là d'un véritable scoop archéologique, en ce qu'il s'agit d'un :
+
+               - temple de la religion yodique (native d'Akarie)
+               - de la confession dissidente "razulite", autrefois annihilée par sa rivale "taranite"
+               - qui a servi de façon postérieure à la chute de Nazur (l'ex-capitale razulite), il y a 500 ans
+
+               Ramenez en particulier **2 artefacts exceptionnels**, pour appuyer vos allégations.
+
+               Divers écrits énigmatiques que vous gardez en tête : *"Au bout des profondeurs nous sommes terrés, pour adorer les Yods jusqu'au retour du vrai Prophète", "Les êtres de l'air ouvrent leur porte vers l'est, les êtres de la terre ouvrent la leur vers l'ouest, qu'ils puissent accorder leurs actions, et les êtres de l'eau perdront leur domination", "Ainsi trône le crossentar sur ce temple archaïque de nos aïeux", "Levez les yeux, fidèles, vers le nuage de la prophétie des Yods", "Au froid la larme dort jusqu'au retour du seul prophète"*.
+
+               **Note** : *utiliser les marques A/B uniquement lorsqu'il y a deux archéologues, l'un physicien, l'autre linguiste.*
+
+            abilities:
+                - "histoire, religion, légendes, et pièges akarites"
+
+                - "[A] large éducation en sciences dures (maths, physique, chimie, biologie, géologie....)"
+                - "[A] météorologie analytique"
+
+                - "[B] large éducation en littérature, psychologie, sociologie, ethnologie..."
+                - "[B] langues anciennes akarites (hormis les runes sacrées)"
+
+            equipments:
+                - "lampe frontale (portée 1m, sans flamme)"
+                - "kit d'archéologie : truelle, pinceau, loupe..."
+
+                - "[A] spectromètre de masse (constitution chimique simple d'un échantillon)"
+                - "[A] sonar pour volumes solide/liquide/gazeux (échographie 3D)"
+                - "[A] détecteur de métaux (portée 1m)"
+
+                - "[B] carnet de notes sur Akaris (biotope, histoire, géographie, géologie)"
+                - "[B] 2 kits de restauration de peintures anciennes"
+                - "[B] appareil photographique (haute résolution, avec flash, max 6 photos)"
+
+
+        naturalist:
+
+            name: "Dr Physh, naturaliste"
+
+            stats:
+                constitution: 3
+                agility: 3
+                observation: 4
+
+            missions: |
+               Ramener des informations zoologico-botaniques, pour fonder un département de Sciences de la Vie à l'Académie d'Alifir :
+
+               - trouver 2 nouvelles espèces, animales ou végétales
+               - faire 2 découvertes scientifiques, sur l'adaptation d'espèces existantes à la vie souterraine
+               - filmer 5 séquences novatrices, pour un reportage exceptionnel sur la faune et la flore du pays d'Akaris
+
+               **Note** : grand Ami de la Nature, vous ne supportez pas de voir une bête sauvage dépérir dans un zoo ou un aquarium...
+
+            abilities:
+                - large éducation en sciences de la vie (zoologie, botanique, biologie...)
+                - connaissances des poisons
+                - escalade à mains nues
+                - camouflage
+                - champion de boxe inter-académique
+
+            equipments:
+                - maigre carnet de notes sur le biotope d'Akaris
+                - caméra amphibie (8 séquences, résolution moyenne, haute sensibilité)
+                - spot lumineux (portée 10m, étanche)
+                - vivarium portatif 50 litres
+                - épuisette fine (manche 1m)
+
+
+        protector:
+
+            name: "Rodok, baroudeur(se)"
+
+            stats:
+                constitution: 4
+                agility: 4
+                observation: 4
+
+            missions: |
+                Protégez tous les autres membres de l'expédition, fût-ce au prix de votre vie. Plus largement - et à votre grand regret - Loyd Georges souhaite qu'il n'y ait pas de blessés (et encore moins de morts) chez de potentiels agresseurs akarites, car cela entraînerait de gravissimes troubles diplomatiques.
+
+                Personnellement, vous rêvez de mettre la main sur la **Recette de l'Elixir Berserk**, une potion donnant temporairement force surhumaine et insensibilité à la douleur, et dont la confession razulite a emporté le secret dans sa déchéance. Libre à vous de solliciter l'aide de vos équipiers pour cette quête.
+
+            abilities:
+                - météorologie intuitive
+                - survie en milieu hostile
+                - natation et plongée sous-marine
+                - escalade et spéléologie
+                - faune et flore pangéennes
+                - rudiments d'une dizaine de langues pangéennes
+
+            equipments:
+                - machette longue
+                - arbalète compacte (1 grappin, 4 carreaux, 4 soporifiques)
+                - 30m de cordelette ultrasolide
+                - bouteille de plongée (10mn d'autonomie)
+                - lunettes de vision nocturne
+                - kit espionnage (3 micros sans-fil et 1 console d'écoute)
+                - détecteur de radioactivité
+
+
+        butler:
+
+            name: "Rydji, majordome"
+
+            stats:
+                constitution: 3
+                agility: 3
+                observation: 3
+
+            missions: |
+                Assurez la réussite financière de cette opération, dont dépend la survie de toute la maisonnée de Sir Loyd Georges.
+
+                Les pièces archéologiques exceptionnelles sont *légalement* invendables, et sont censées être laissées à disposition de l'Académie Scientifique. Il vous faudra donc veiller à ramener les artefacts de plus faible valeur scientifique, et toutes matières précieuses (voire, pourquoi pas, biologiques).
+
+                Objectif minimal pour éponger les dettes : **100 kashes de butin**.
+
+            abilities:
+                - bienséance et protocole de la noblesse sabarite
+                - gestion du personnel
+                - connaissance des métaux et gemmes précieux, et de leurs prix sur le marché
+                - artificier confirmé
+                - fondamentaux de la plongée sous-marine
+                - bases en secourisme et premiers soins
+
+            equipments:
+                - émetteur-récepteur radio lié au camp de base
+                - pistolet (2 balles non silencieuses)
+                - 3 bâtons de dynamite
+                - 100m de mèche à explosif (vitesse 5m/s)
+                - 1 fumigène urticant
+                - kit d'analyse gemmologique   # (microscope, polariscope, réfractomètre, dichroscope et spectroscope)"
+                - trousse médicale et antipoison
+...

@@ -1,0 +1,127 @@
+---
+
+static_pages:
+
+
+    nalavut_council:
+        title: "Grand Conseil Nalavutien"
+        categories: ["encyclopedia"]
+        keywords: ["conseil nalavutien", "conseil", "nalavut", "diplomatie"]
+        content: |
+
+            Cet événement rarissime voit des délégations de toutes les tribus nalavutiennes converger vers Kitiika, pour une assemblée solennelle qui dure plus d'une semaine et qui traite de tous les problèmes auxquels le peuple de ces terres gelées peut être confronté.
+
+            Traditionnellement c'est un immense igloo, bâti pour l'occasion, qui accueille les réunions entre les plus grands chefs nalavutiens.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/nalavut_council.png" "big_width"]
+                :align: center
+
+
+    hydroland:
+        title: "Plate-forme Hydrolande"
+        categories: ["encyclopedia"]
+        keywords: ["hydrolande", "mer", "plate-?forme"]
+        content: |
+
+            La plateforme Hydrolande est une entité assez unique dans la géopolitique pangéenne.
+
+            Elle fut initialement construite à quelques kilomètres de Baynon, pour servir de plateforme gazière. Mais elle n'a jamais pu réaliser cet objectif, à cause d'une complexe guerre de brevets concernant la technique de fabrication des rivets métalliques parcourant sa structure interne.
+
+            Laissée à l'abandon pendant près de 20 ans, elle a finalement été conquise sans lutte par un pécheur lordanien, Atsaros, qui s'est dans la foulée proclamé Saint Empereur d'hydrolande, et y a installé sa famille.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/ocean_platforms.png" "big_width"]
+                :align: center
+
+            [BR]
+
+            Les dix années suivantes ont été principalement occupées par des batailles juridiques avec l'état lordanien, quant à la souveraineté et l'autonomie de ce micro-empire maritime.
+
+            S'il n'a jamais obtenu la reconnaissance officielle de son pays, Atsaros Ier a en revanche suffisamment amusé l'opinion publique pour que l'Etat de Lordanie, craignant une mauvaise publicité, ne renonce à l'expulser manu militari.
+
+            Plusieurs générations se sont par la suite succédé sur la plateforme, en vivotant des produits de la pêche.
+
+            Depuis 3 ans, Hydrolande a fermé sa zone maritime, et nul ne sait ce qui s'y passe exactement.
+
+        gamemaster_hints: |
+
+            Hydrolande a en réalité été le théâtre d’un coup d’État (le descendant d'Atsaros y est prisonnier), et sert depuis de base arrière pour des opérations mafieuses en tout genre, principalement via le web (scams, phishing…).
+
+
+    belez_academy:
+        title: "Académie de Belez"
+        categories: ["encyclopedia"]
+        keywords: ["académie de belez", "faculté", "académie", "belez"]
+        content: |
+
+            L'académie de Belez est un centre scientifique polyvalent, qui s'est particulièrement impliqué dans les analyses de matière : biologiques, physiques, optiques, ondulatoires...
+
+            Ce n'est donc pas surprenant si même des pays étrangers le sollicitent, pour des investigations médico-légales pointues ou des partenariats de recherche.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/seashore_academy.png" "big_width"]
+                :align: center
+
+
+    imuo_faculty:
+        title: "Faculté d'Imuo"
+        categories: ["encyclopedia"]
+        keywords: ["faculté d'imuo", "faculté", "académie", "imuo"]
+        content: |
+
+            .. note::
+
+              Cet article a été épuré et verrouillé suit à un conflit entre éditeurs. Le service encyclopédique rappelle à chacun qu'il n'a pas vocation à arbitrer des guéguerres entre académies rivales.
+
+            La faculté d'Imuo est un centre scientifique, d'inspiration architecturale pré-tectonne, et situé sur les hauteurs d'Imuo (pays de Yumeinamatchi), face à la mer.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/mountain_castle.png" "big_width"]
+                :align: center
+
+
+    jungle_harmonies_album:
+        title: "Harmonies Jungliennes"
+        categories: ["encyclopedia"]
+        keywords: ["harmonies jungliennes", "jungle", "musique", "kéroskia"]
+        content: |
+
+            **Harmonies Jungliennes** est un nouveau projet musical de Claudia Pason, sono-artiste d'Alifir, qui cherche à "retrouver la symbiose entre sonorités innées et acquises", selon ses mots.
+
+            [BR]
+
+            *Localisation des prises sonores de son premier morceau, "Secrets de la Jungle Kamilia"*
+
+            ::
+
+                0:00 - Lisière Ouest aux Oiseaux
+                0:15 - Pic de l'Aiguille Noire
+                0:32 - Mont Eventé
+                0:45 - Caverne du Géant Invisible
+                0:59 - Vallée du Souffle
+                1:18 - Ruisseau des 100 Branches
+                2:10 - Plateau de Kupoutac
+                2:40 - Rivière Cascadante
+                3:08 - Ruisseau Rutilant
+                3:23 - Ruisseau Vaseux
+                3:38 - Roc du Babouin
+                3:54 - Butte des Arbres Secs
+
+            *Carte de la Jungle de Kamilia (entre Slavinka et Tieros Olim)*
+
+            .. image:: [GAME_THUMBNAIL_URL "images/world_maps/kamilia_jungle_map.jpg" "big_width"]
+                :align: center
+                :target: [GAME_FILE_URL "images/world_maps/kamilia_jungle_map.jpg"]
+
+        gamemaster_hints: |
+
+            Lieux où l'on peut entendre le chant des orbes, dans ce morceau : Vallée du Souffle et Rivière Cascadante.
+
+
+...
+

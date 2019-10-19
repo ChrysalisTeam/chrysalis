@@ -1,0 +1,279 @@
+
+messaging:
+
+    manual_messages_templates:
+
+
+        -   id: "pangea_geopolitics_accounce"
+            gamemaster_hints: "Annonce de la série d'artworks dévoilant les personnages importants de Pangéa."
+            categories: ["universe"]
+            sender_email: contact@sabarim-gazette.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "Croquis Géopolitiques - Annonce"
+            body: |
+
+                Chers Lecteurs,
+
+                nombre de cultures pangéennes considèrent que prendre quelqu'un en photographie, c'est porter atteinte à l'intégrité de son âme. Les journalistes internationaux ont donc souvent dû, bon gré mal gré, se mettre aux croquis pour pouvoir illustrer leurs reportages.
+
+                La Gazette de Sabarim vous propose donc ce mois-ci une rétrospective, en dessin et en musique, de la géopolitique pangéenne. Et ce, en suivant les pérégrinations de notre reporter Cynthia Loakim au long de ses 4 premières de métier, ainsi que ses vaillants progrès dans l'art de saisir des hauts personnages en quelques coups de crayon.
+
+                *Rendez-vous tout bientôt pour notre premier article de la série : la Lordanie.*
+
+
+
+        -   "id": "pangea_geopolitics_lordania"
+            "body": |
+                *Article 2015, et croquis 2012, par C. Loakim*
+
+                [BR]
+
+                **Hymne lordanien :**
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/The proud island (Lordania's hymn).mp3"]
+
+                La Fédération Lordanienne s'est constituée naturellement, par agrégation de petits royaumes et
+                républiques épars, d'abord liés entre eux par un "doux commerce" de plus en plus intense, puis
+                syndiqués pour bâtir de solides relations commerciales avec un grand nombre d'états pangéens.
+                Sous les efforts de Lord Annye, un jeune et redoutable diplomate, elle s'est dotée il y a 5 ans
+                d'un embryon d'état fédéral, principalement destiné à protéger les intérêts de la fédération face
+                aux rivaux économiques et politiques émergents.
+
+                Si l'armée fédérale reste uniquement défensive, en revanche il n'est un secret pour personne que
+                les "services d'intelligence", menés par le discret général Larrange, oeuvrent dans tout Pangéa
+                pour s'assurer qu'aucun rival ou danger sérieux ne vienne troubler la fédération à quelque terme
+                que ce soit.
+
+                [BR]
+
+                **Général Larrange :**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/dark_blue_general.png" "big_width"]
+                    :align: center
+
+                [BR]
+
+                **Lord Annye :**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/red_general.png" "medium_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Géopolitique Pangéenne - partie 1
+
+
+
+        -   "id": "pangea_geopolitics_thelassar"
+            "body": |
+                *Sketches 2013, article 2015, C. Loakim*
+
+                Le pays de Thélassar fonctionne sur un très complexe système de démocratie représentative, ce
+                qui fait que bien peu de politologues sont capables de prédire quel est le prochain sénateur qui
+                sera élu pour remplacer l'un des deux "consuls" en exercice.
+
+                Avec ces cohabitations forcées, la politique intérieure et la diplomatie du pays ont tendance
+                à stagner, mais la population semble très bien s'en satisfaire.
+
+                [BR]
+
+                *Les deux consuls actuels, Izrina Bouchkef et Helethor Podvin.*
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/glass_lady.png" "big_width"]
+                    :align: center
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/light_blue_general.png" "big_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Géopolitique Pangéenne - partie 2
+
+
+
+        -   "id": "pangea_geopolitics_masslavia"
+            "body": |
+                *Article 2015, et croquis 2014, par C. Loakim*
+
+                **Hymne Masslave:**
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/Marching to the future (Masslavia's hymn).mp3"]
+
+                La comtesse de Mastden est la représentante de l'État Parlementaire de Masslavie depuis près de
+                40 ans.
+
+                Bien que son pouvoir législatif et exécutif soit très limité, elle garde une influence importante
+                en tant que dirigeante des forces armées et des services d'espionnage.
+
+                Elle est favorable à une ligne diplomatique dure envers les judicateurs akarites et leurs appels
+                à la conquête sainte.
+
+                [BR]
+
+                **Comtesse de Mastden :**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/senior_lady.png" "big_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Géopolitique Pangéenne - partie 3
+
+
+        -   "id": "pangea_geopolitics_dorian"
+            "body": |
+                *Article 2015, et croquis 2014, par C. Loakim*
+
+                [BR]
+
+                **Hymne Dorien:**
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/The glorious people (Dorian dukedom's hymn).mp3"]
+
+                Historiquement, la Dorie fur longtemps le souffre-douleur préféré des phalanges akarites. C'est
+                pour cela qu'un profond sentiment anti-yodique s'y est développé, jusqu'à la victoire du "front
+                des affranchis", une coalition régionale, contre la dernière tentative impérialiste des akarites.
+
+                Mais depuis vingt ans, le Duc autoproclamé de Dorie, Stelenas Ier, a tenté de normaliser les relations
+                de son pays avec l'Akarie voisine, quitte à s'attirer les foudres d'une partie de la population,
+                qui y voit un signe de faiblesse voire de duplicité.
+
+                [BR]
+
+                **Duc de Dorie :**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/brown_noble.png" "big_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Géopolitique Pangéenne - partie 4
+
+
+
+        -   "id": "pangea_geopolitics_heliossar"
+            "body": |
+                *Article 2015, et croquis 2014, par C. Loakim*
+
+                [BR]
+
+                **Hymne Héliossar:**
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/Sweet smell of liberty (Heliossar's hymn).mp3"]
+
+                En Héliossar, le Maréchal De Dianous est le régent de fait du pays, car le parlement peine à trouver
+                une majorité suffisante pour élire un Grand Mandataire, et les scandales de moeurs et de corruption
+                font chuter les députés les uns après les autres.
+
+                Résultat, le pays est bien peu présent sur la scène internationale, et son opinion publique ne
+                semble pas très sensibilisée aux tensions croissantes avec l'Akarie, d'autant que le Maréchal
+                ne cesse d'appeler à la confiance et de dénoncer les "montagnes faites d'une taupinière" quand
+                l'un ou l'autre intellectuel appelle à la mobilisation patriotique.
+
+                [BR]
+
+                **Maréchal De Dianous:**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/brown_general.png" "big_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Géopolitique Pangéenne - partie 5
+
+
+
+        -   "id": "pangea_geopolitics_akaris"
+            "body": |
+                *Article 2015, et croquis 2015, par C. Loakim*
+
+                [BR]
+
+                *Hymne Akarite:*
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/The long wait for dawn (Akaris' hymn).mp3"]
+
+                [BR]
+
+                L'ordre religieux des judicateurs akarites. Est-il réellement besoin d'en parler, tant l'actualité
+                en est remplie ?
+
+                *Un moine de l'ordre des judicateurs akarite, en tenue de cérémonie.*
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/masked_monk.png" "medium_width"]
+                    :align: center
+                    
+                [BR]
+
+                On peut toujours noter quelques particularités méconnues du grand public ; par exemple le fait
+                que, bien qu'il se définisse comme monastique, cet ordre a créé un statut spécial de "mi-moniale",
+                afin que les hauts judicateurs puissent se créer leur petit harem à volonté ; ou bien que son
+                symbole (le Crossentar), ainsi que son Livre Saint, sont considérés par les experts comme des
+                simples déviation/assemblages constitués à partir des religions antérieures à l'ère tectonne ;
+                ou enfin que, malgré l'apparente unité nationale qui est exposée au monde extérieur, cet ordre
+                est loin de faire l'unanimité parmi les différentes tribus akarites, qui le considèrent soit trop
+                dur envers les "bâthârs" ("ceux qui ne sont pas de la pure race des fils des yods"), soit pas
+                assez.
+
+                *Mi-monesse, courtisane des judicateurs.*
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/midolian_courtesan.png" "medium_width"]
+                    :align: center
+
+                [BR]
+
+                Un des points problématiques de cet ordre, enfin, c'est qu'il a un goût prononcé pour les projets
+                mégalomanes, mais qu'il manque cruellement de support scientifique pour les concrétiser. Ainsi,
+                le chantier du Sanctuaire des Yods, à Zorzas, s'est heurté à des limitations techniques qu'aucune
+                entreprise de construction n'a été à même de contourner, malgré les montagnes d'or débloquées
+                par les judicateurs. A ce jour, le projet est "suspendu indéfiniment, sur inspiration décisionnelle
+                des yods".
+
+                **Concept du Sanctuaire des Yods.**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/futuristic_tower.png" "medium_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Géopolitique Pangéenne - partie 6
+
+
+

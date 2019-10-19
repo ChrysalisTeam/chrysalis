@@ -1,0 +1,7 @@
+
+PyYAML==5.1
+jinja2==2.10.1
+git+https://github.com/pakal/jinja-macro-tags
+docx2txt
+git+https://github.com/rst2pdf/rst2pdf/@2443b161838b71120d8320f55d8d4724cbcb3286
+reportlab==3.5.31

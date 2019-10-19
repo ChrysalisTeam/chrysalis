@@ -1,0 +1,83 @@
+
+embeddedFonts : [ ["OpenSans-Regular.ttf","OpenSans-Bold.ttf","OpenSans-Italic.ttf","OpenSans-BoldItalic.ttf"] ]
+
+pageSetup:
+    firstTemplate: standardPage
+    margin-top: 1cm
+    margin-bottom: 1cm
+    margin-left: 1cm
+    margin-right: 1cm
+
+pageTemplates:
+
+    standardPage:
+        frames: []
+            [0cm, 0cm, 100%, 100%]
+        showHeader: false
+        showFooter: true
+
+styles:
+
+    base:
+        #kerning: true  BUGGY
+        #firstLineIndent: 10
+        fontSize: 11
+        leading: 13
+        fontName: "opensans"
+
+    title:
+        fontSize: 18
+        textColor: black
+        alignment: left
+
+    subtitle:
+        fontSize: 12
+        textColor: black
+        alignment: left
+
+    heading1:
+        fontSize: 16
+        spaceBefore: 10
+        spaceAfter: 2
+
+    heading2:
+        fontSize: 14
+        spaceBefore: 7
+        spaceAfter: 2
+
+    admonition:
+        backColor: transparent
+
+    bullet-list:
+        spaceBefore: 0
+        spaceAfter: 4
+
+    bullet-list-item:
+        firstLineIndent: 0
+        spaceBefore: 0
+        spaceAfter: 0
+
+    table:
+        alignment: TA_CENTER
+        spaceBefore:6
+        spaceAfter:0
+        commands: []
+                 [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
+                 [INNERGRID, [ 0, 0 ], [ -1, -1 ], 0.25, black ]
+                 [ROWBACKGROUNDS, [0, 0], [-1, -1], [#E0E0E0]]
+                 [BOX, [ 0, 0 ], [ -1, -1 ], 0.25, black ]
+
+    table-heading:
+        backColor : lightgrey
+
+    table-body:
+        alignment: TA_LEFT
+
+    large-font:
+        fontSize: 18
+        leading: 25
+
+    gamemaster-hints:
+        spaceBefore: 4
+        fontName: "opensans-italic"
+

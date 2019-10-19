@@ -1,0 +1,25 @@
+pageSetup:
+    firstTemplate: coverPage
+
+
+pageTemplates:
+    coverPage:
+        background: assets/shadow_cover.jpg
+        frames: []
+            [33%, 20%, 72%, 30%]
+        showHeader: false
+        showFooter: false
+
+    intermediaryPage:
+        background: assets/dark_background.jpg
+        frames: []
+            [0cm, 0cm, 100%, 100%]
+        showHeader: false
+        showFooter: false
+
+    standardPage:
+        background: assets/dark_background.jpg
+        frames: []
+            [0cm, 0cm, 100%, 100%]
+        showHeader: false
+        showFooter: true

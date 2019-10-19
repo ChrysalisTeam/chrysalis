@@ -1,0 +1,160 @@
+
+
+
+
+messaging:
+
+    manual_messages_templates:
+
+
+        -   id: lg_cinematics
+            categories: ["nazur_orb"]
+            sender_email: loyd.georges
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "VIDEO - Introduction du Temple de Nazur"
+            body: |
+
+                Chers tous,
+
+                veuillez profiter en avant-première mondiale de cette petite bande-annonce, première pierre - je l'espère - d'un futur vidéogramme narrant cette excitante expédition en terres akarites.
+
+                A regarder en Haute Définition, bien sûr.
+
+                http://www.youtube.com/watch?v=DqvYix3n0DI
+
+                Vos retours sont les bienvenus,
+
+                cordialement,
+
+                *Loyd Georges*
+
+
+
+        -   id: waden_news_request
+            categories: ["nazur_orb"]
+            sender_email: emilos.loakim
+            recipient_emails: waden
+            subject: "Wassup ?"
+            body: |
+
+                Salutations, mon garçon !
+
+                Alors qu'est-ce que tes petites investigations sur bouboule ont donné ? Est-ce qu'il y a du lourd en perspective ? Tu sais que Lolo s'impatiente tout autant que moi.
+
+                Si tu as besoin de matériel supplémentaire, n'hésite pas à nous en parler, on peut te faire livrer ça chez un ami à moi, près du centre-ville de Faeran.
+
+                A bientôt,
+
+                Emilos
+
+        -   id: misc_news_emilos
+            gamemaster_hints: "Indices en vrac pour l'orbe alpha."
+            categories: ["doctor_honoris_causa", "nazur_orb"]
+            sender_email: emilos.loakim
+            recipient_emails: loyd.georges
+            subject: "Re: Nouvelles en vrac"
+            body: |
+
+                Désolé pour le retard vieille branche,
+
+                j'ai moi-même des nuits bien courtes à cause de tout ce qui arrive. J'avais prévu un petit voyage au Nalavut pour faire un coucou à ma Cynthia et profiter des festivités, mais il semble que ce sera pour une autre année.
+
+                Je n'ai hélas pas encore de nouvelles de Waden, mais le connaissant, il ne communiquera pas tant qu'il n'aura pas du solide et du précis... je lui envoie un message d'ici vendredi, mais ne fais surtout pas de déclarations intempestives en attendant, car nous n'avons pour l'heure aucune assurance que cette "chose" n'est pas un *fake*.
+
+                A bientôt,
+
+                *Emilos*
+
+
+
+        -   "id": waden_report_orb_analysis
+            "body": |
+                hello,
+
+                voici, comme demandé hier, un petit récap' de mon analyse actuelle de la "chose" ; vivement que
+                je puisse revenir à l'académie pour étudier, dans un cadre plus serein, et avec du matériel plus
+                sophistiqué, ce petit trésor.
+
+                Bonne lecture,
+
+                *waden*
+
+                -----
+
+                Avec un indice de réfraction de 1 (qui la rend donc transparente à de nombreux phénomènes optique/ondulatoire),
+                un magnétisme nul, une conductivité parfaite, une phosphorescence prodigieuse, une structure cristallographique
+                extrêmement solide, mais qui déjoue toute tentative d’observation, et une composition chimique
+                tout aussi mystérieuse, cette pierre échappe manifestement à toute classification ! Il est probable
+                que cette gemme ne vienne pas de notre planète.
+
+                Ce qui parait acquis aussi, c’est que toutes les propriétés "magiques" prêtées par la tradition
+                populaire aux cristaux géants, sont démenties par cette gemme. Elle est entièrement transparente
+                aux ondes électromagnétiques et ne possède même pas les propriétés interférentielles ou focalisantes
+                des cristaux existants. Pas de risque, donc, de déclencher des réactions en chaîne en la stimulant.
+
+                Le plus intrigant c'est ce sifflement cristallin, aigu, que la gemme émet dès que sa température
+                dépasse le zéro absolu. Sous l'effet des lasers, le vacarme devient parfois assez terrifiant,
+                une chance que ce labo soit bien insonorisé. C'est sans doute cela le "chant des orbes" dont parle
+                la mythologie.
+            "categories": ["doctor_honoris_causa", "nazur_orb"]
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                loyd.georges@anthropia.pg
+            - >-
+                emilos.loakim@anthropia.pg
+            "sender_email": >-
+                waden@anthropia.pg
+            "subject": >-
+                Analyse de bouboule
+
+
+        -   id: waden_news_response
+            categories: ["nazur_orb"]
+            sender_email: waden
+            recipient_emails: ["emilos.loakim", "loyd.georges"]
+            subject: "Au rapport"
+            body: |
+
+                Hello les anciens,
+
+                désolé pour le délai, mais je n'ai pas arrêté récemment.
+
+                La "chose" dépasse toutes mes espérances, dans sa façon de réagir négativement à toutes mes tentatives d'analyse.
+
+                Il est encore trop tôt pour tirer des conclusions, il me faudrait du matos spécifique pour investiguer ses propriétés magnétiques.
+
+                Est-ce que vous pourriez me faire parvenir au plus vite un transpondeur Lasulis et des lentilles de Barzow, toujours à la conciergerie centrale de Faeran ? J'irai les chercher samedi prochain, en toute discrétion.
+
+                thanks,
+                @+
+
+                *Waden*
+
+
+
+        -   "id": jungle_harmony_album_announce
+            "body": |
+                La gazette de Sabrim est heureuse de vous présenter, en exclusivité, la dernière création de l'étoile
+                montante de la création musicale, Claudia Pason.
+
+                Native d'Alifir, Claudia écume depuis plusieurs année Kéroskia, en quête de sonorités hybrides.
+                Après son passage dans le désert de sel près de Meelish, voici qu'elle s'aventure plus au nord,
+                pour son prochain album Harmonies Jungliennes. Un album qui, une nouvelle fois, mêle instruments
+                traditionnels et prises de son en milieu sauvage.
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/Journey in keroskian jungle.mp3"]
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Harmonies Jungliennes - Preview
+
+
+

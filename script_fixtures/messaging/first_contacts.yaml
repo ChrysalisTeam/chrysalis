@@ -1,0 +1,237 @@
+﻿
+
+messaging:
+
+    manual_messages_templates:
+
+        ## miscellaneous threats received by player characters before game
+
+        -   id: anonymous_threat_1
+            gamemaster_hints: &is_threat "Une des menaces (akarites) reçues par les joueurs en début de partie."
+            categories: ["first_contacts"]
+            sender_email: dexter@anonymous.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "<sans sujet>"
+            body: |
+                Ecoute, petite enflure, je te conseille de laisser tomber tout de suite ces enchères ridicules, et de retourner vaquer à tes affaires, pigé !?
+
+                Si tu ne veux pas finir coulé dans 1000 m3 de béton, tu sais ce qu'il te reste à faire.
+
+        -   id: anonymous_threat_2
+            categories: ["first_contacts"]
+            sender_email: anonymous@noname.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "Bon Vent"
+            body: |
+                Le business des antiquités midoliennes, on n'y rentre pas comme ça. Alors arrête de venir marcher sur nos plates-bandes, sinon on s'occupe de te faire renifler les pissenlits par la racine.
+
+        -   id: anonymous_threat_3
+            categories: ["first_contacts"]
+            sender_email: kwiky@organization.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "Dernier Avertissement"
+            body: |
+                Si un seul joyau akarite tombe entre vos mains, vous n'aurez jamais assez de toutes vos larmes pour le regretter. Ai-je été suffisamment clair ?
+
+        -   id: anonymous_threat_4
+            categories: ["first_contacts"]
+            sender_email: death@you.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "Dégager"
+            body: |
+                Dans le cas ou vous parter pas tou de suite de ces vente, et reviendez jamais, c fini pour vous.
+
+                ::
+
+                                     uuuuuuu
+                                 uu$$$$$$$$$$$uu
+                              uu$$$$$$$$$$$$$$$$$uu
+                             u$$$$$$$$$$$$$$$$$$$$$u
+                            u$$$$$$$$$$$$$$$$$$$$$$$u
+                           u$$$$$$$$$$$$$$$$$$$$$$$$$u
+                           u$$$$$$$$$$$$$$$$$$$$$$$$$u
+                           u$$$$$$"   "$$$"   "$$$$$$u
+                           "$$$$"      u$u       $$$$"
+                            $$$u       u$u       u$$$
+                            $$$u      u$$$u      u$$$
+                             "$$$$uu$$$   $$$uu$$$$"
+                              "$$$$$$$"   "$$$$$$$"
+                                u$$$$$$$u$$$$$$$u
+                                 u$"$"$"$"$"$"$u
+                      uuu        $$u$ $ $ $ $u$$       uuu
+                     u$$$$        $$$$$u$u$u$$$       u$$$$
+                      $$$$$uu      "$$$$$$$$$"     uu$$$$$$
+                    u$$$$$$$$$$$uu    """""    uuuu$$$$$$$$$$
+                    $$$$"""$$$$$$$$$$uuu   uu$$$$$$$$$"""$$$"
+                     """      ""$$$$$$$$$$$uu ""$"""
+                               uuuu ""$$$$$$$$$$uuu
+                      u$$$uuu$$$$$$$$$uu ""$$$$$$$$$$$uuu$$$
+                      $$$$$$$$$$""""           ""$$$$$$$$$$$"
+                       "$$$$$"                      ""$$$$""
+                         $$$"                         $$$$"
+
+
+        -   id: anonymous_threat_5
+            categories: ["first_contacts"]
+            sender_email: kjb@dark.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "A Poem"
+            body: |
+
+                Live or Die
+
+                Leave or Lie.
+
+                Immediately.
+
+                ::
+
+                                   ...
+                                 ;::::;
+                               ;::::; :;
+                             ;:::::'   :;
+                            ;:::::;     ;.
+                           ,:::::'       ;           OOO\
+                           ::::::;       ;          OOOOO\
+                           ;:::::;       ;         OOOOOOOO
+                          ,;::::::;     ;'         / OOOOOOO
+                        ;:::::::::`. ,,,;.        /  / DOOOOOO
+                      .';:::::::::::::::::;,     /  /     DOOOO
+                     ,::::::;::::::;;;;::::;,   /  /        DOOO
+                    ;`::::::`'::::::;;;::::: ,#/  /          DOOO
+                    :`:::::::`;::::::;;::: ;::#  /            DOOO
+                    ::`:::::::`;:::::::: ;::::# /              DOO
+                    `:`:::::::`;:::::: ;::::::#/               DOO
+                     :::`:::::::`;; ;:::::::::##                OO
+                     ::::`:::::::`;::::::::;:::#                OO
+                     `:::::`::::::::::::;'`:;::#                O
+                      `:::::`::::::::;' /  / `:#
+                       ::::::`:::::;'  /  /   `#
+
+
+
+        -   id: lg_welcome_message
+            gamemaster_hints: "Premières annonces de Loyd Georges aux invités. Il peut ajouter \"Vous avez sans doute remarqué que chacun a désormais un identifiant (un nom de pierre précieuse) et une couleur attitrée ; nous nous aiderons de ceux-ci pour nous reconnaître, afin de simplifier les choses.\""
+            categories: ["first_contacts"]
+            sender_email: loyd.georges
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "Bienvenue à tous"
+            body: |
+
+                Chers amis et amies,
+
+                bienvenue dans ces enchères, qui permettront aux plus audacieux d’entre vous de s’offrir des joyaux et des artefacts archéologiques sans pareil sur Pangéa.
+
+                Je m’excuse des étranges messages que vous avez reçus ; ignorez ces pitoyables fanatiques midoliens, ils sont désormais bloqués par le filtre de messagerie de ce portail "Anthropia"
+
+                Le descriptif des enchères est désormais accessible depuis le menu, profitez-en pour peaufiner votre stratégie d’achat.
+
+                Bien cordialement,
+
+                *Sir Loyd Georges*
+
+
+        -   "id": lg_funny_media_explanations
+            "body": |
+                Chers tous,
+
+                certains se sont émus, alarmés même, de trouver dans leurs documents des photos d'étranges bêtes
+                félines, et autres médias. Point de danger, il s'agit juste de quelques trouvailles ludiques de
+                l'ère pré-tectonne, que je tenais à vous faire partager en guise de bienvenue. Une façon aussi
+                d'illustrer ma (bientôt illustre) devise, "noblesse et fantaisie".
+
+                A tout bientôt,
+
+                L.G
+            "categories": ["first_contacts"]
+            "subject": >-
+                Explications sur Documents
+
+
+        -   "id": lg_welcome_to_magnus
+            "body": |
+                Bien le bonsoir mon cher,
+
+                je n'en croyais pas mes yeux quand j'ai reçu votre candidature. Un homonyme, me disais-je ?
+
+                Ah diantre, c'est une belle leçon pour l'humanité, qu'après nos infructueuses pérégrinations,
+                nous ayons tout deux acquis le rang qui sied aux gens de notre trempe.
+
+                Cela enlève beaucoup de l'amertume que j'avais ponctuellement, en repensant à la façon dont ma
+                chance m'a été broyée sous le nez par bien trop de fois. Vous rendez-vous compte, que si les pillards
+                n'étaient pas arrivés juste avant nous à ce temple kéroskien, nous y aurions sans doute trouvé
+                cette inestimable statuette, dans sa vasque de pierre, telle que décrite par les légendes locales
+                ? Et que nous aurions été célèbres 10 ans plus tôt ?
+
+                Malepeste, tout est bien qui finit - pardon COMMENCE - bien, c'est le principal. Au plaisir de
+                vous revoir aux premières ventes aux enchères, car hélas je n'aurai aucun temps pour moi avant
+                cela.
+            "categories":
+            - >-
+                first_contacts
+            "gamemaster_hints": ""
+            "sender_email": >-
+                loyd.georges@anthropia.pg
+            "subject": >-
+                Bievenue mon cher Magnus
+
+
+        -
+            id: lg_personal_message
+            gamemaster_hints: "Informations diverses à potentiellement distiller, en retour des premières sollicitations (et flatteries) faites par les joueurs."
+            categories: ["first_contacts"]
+            sender_email: loyd.georges
+            subject: "Merci de vos congratulations"
+            body: |
+                Cher {{ contact }},
+
+                je dois vous avouer qu'à la lecture de votre lettre, le rose m'est monté aux joues. J'ai beau m'être attendu à quelques congratulations suite à mon expédition archéologique hors-norme (congratulations que le monde académique tarde, hélas, à me délivrer), les vôtres étaient bien au-delà de mes attentes, et je vous en remercie.
+
+                En ce qui concerne les enchères, certes, il ne s'agira pas des plus belles pièces du sanctuaire akarite, car la Science les réclame à grands cris, à l'Académie d'Alifir. mais il s'agira tout de même de biens assez uniques en leur genre, et même pour certains couverts de mystérieuses runes akarites (celles-là mêmes que mon ami Emilos Loakim tente de déchiffrer depuis des lustres).
+
+                Nous aurons l'occasion de rediscuter de mon périple plus amplement (une vidéo historique est même en cours de tournage !), quand les enchères seront lancées.
+
+                Si vous avez le loisir de vadrouiller dans le coin, n’hésitez pas à aller admirer la banque de Salima, qui brille autant par son intérêt pratique que par son architecture. je vous enverrai des informations touristiques dessus dès que je serai de retour en mon manoir (j’ai un penchant un peu fort pour mon club de tarot, je l’avoue).
+
+
+
+        -   "id": auction_intro_video_fun
+            "body": |
+                PS : Pour ceux qui n'ont pas pu la voir, ou bien qui n'en sont pas rassasiés, voici la petite
+                vidéo introductive des enchères que nous avons visionnée ce soir :
+
+                TODO FIXME http://sharing.prolifik.net/LG_auction_intro_blingbling_french.mp4
+
+                loyd Georges
+            "categories": ["first_contacts"]
+            "gamemaster_hints": ""
+            "sender_email": >-
+                loyd.georges@anthropia.pg
+            "subject": >-
+                Introduction visuelle des enchères
+
+
+        -   id: phishing_email
+            gamemaster_hints: "Indice à analyser, pour une quête annexe 'phishing'."
+            categories: ["first_contacts"]
+            sender_email: kontakt@anthrapia.pg
+            subject: "Votre conte va etre suspendu"
+            body: |
+                Madame monsieur,
+
+                Je vous informe que suite a des maneuvres frauduleuses detectés sur votre conte anthopia, une procédure est en cours pour le fermer.
+
+                Pour eviter cela, merci de bien vouloir nous retourner le formulaire si dessous completement rempli, afin que nous pouvons verifier votre identite.
+
+                Veuillez agréer l'expression courtoise de nos salutations les plus voluptueusement distinguées,
+
+                **Le service client Anrthopia**
+
+                ::
+
+                    Nom :
+                    Prenom :
+                    Identifiant Anthropia :
+                    Mot de passe Anthropia :
+                    (optionnel) numero de carte de credit:
+

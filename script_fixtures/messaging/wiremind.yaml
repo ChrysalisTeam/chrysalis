@@ -1,0 +1,97 @@
+
+messaging:
+
+    manual_messages_templates:
+
+
+
+
+        -   id: wiremind_announce
+            gamemaster_hints: "Annonce du concours d'échecs contre l'intelligence artificielle d'échecs."
+            categories: ["wiremind"]
+            sender_email: scharamoz@imuo-faculty.pg
+            subject: La Science-Fiction devient réalité !
+            body: |
+
+                C'est avec une fierté débordante que la **Faculté d'Imuo** lance, aujourd'hui, le **Défi d'Échecs**.
+
+                Venez-vous mesurer à la plus habile intelligence artificielle jamais créée, **Wiremind**, fruit de 11 années de recherche de pointe dans nos laboratoires.
+
+                Saurez-vous battre Wiremind aux Échecs, et gagner la récompense de 1000¤ en jeu ? Saurez-vous faire mentir cet adage, qui prétend que la seule entité capable de vaincre Wiremind, est Wiremind elle-même ?
+
+                A bientôt dans le section **Défi d'Échecs** !
+
+                *Pr Scharamoz*
+
+
+        -   "id": wiremind_alifir_warning
+            "body": |
+                Chers membres et amis de l'Académie d'Alifir,
+
+                Vous avez dû voir passer l'annonce sur l'I.A d'échecs WIREMIND, développée à la Faculté d'Imuo, qui se revendique "révolutionnaire".
+
+                C'est un coup dur pour la crédibilité de notre Académie, qui a toujours été en pointe dans ce domaine.
+
+                De plus, nous avons des raisons de penser que du code de cette application a été volé à notre propre laboratoire de recherche appliquée, même si nous ne pouvons le prouver.
+
+                Il serait exécrable qu'Imuo nous vole ainsi la vedette, nous serions donc reconnaissants à toute
+                personne capable, de tout faire pour vaincre cette IA, et démontrer ainsi que sa réputation est
+                surfaite.
+
+                Merci,
+
+                *Aiode, superviseur du département de sciences numériques*
+            "categories":
+            - >-
+                wiremind
+            "gamemaster_hints": ""
+            "sender_email": >-
+                aiode@anthropia.pg
+            "subject": >-
+                Échecs - alerte
+
+
+        -   id: wiremind_defat_alifir_cheers
+            gamemaster_hints: "Si un joueur a, de quelque manière que ce soit, vaincu Wiremind."
+            categories: ["wiremind", "doctor_honoris_causa"]
+            sender_email: aiode@anthropia.pg
+            subject: "Remerciements de tout coeur"
+            body: |
+
+                Cher monsieur {{ nom_joueur }},
+
+                au nom de l'Académie d'Alifir, nous vous apportons toutes nos félicitations et notre gratitude pour votre victoire aux échecs, contre l'intelligence artificielle de la Faculté d'Imuo.
+
+                En gagnant, en tant que simple joueur amateur, contre leur prodige de technologie, vous leur avez infligé un camouflet qu'ils n'ont pas cherché à médiatiser. Et puisqu'il aurait été très injuste que ces gens nous fassent de l'ombre avec des technologies qu'ils nous avaient largement volées (même si nous n'avons hélas pu le prouver), nous nous félicitons que le bon droit triomphe par votre truchement.
+
+                Nous sommes donc vos débiteurs, et aurons à coeur d'exaucer le souhait que vous pourriez émettre.
+
+                Cordialement,
+
+                *Les Doyennes de l’Académie d’Alifir*
+
+
+        -   id: wiremind_success_interview
+            "body": |
+                Hello,
+
+                voici l'interview:
+
+                - comment avez-vous découvert les échecs ?
+
+                - qu'avez-vous ressenti après avoir battu Wiremind ?
+
+                - un commentaire sur Loyd Georges et l'Académie d'Alifir, donc il est proche ?
+
+                Merci,
+
+                *la gazeeetttttte*
+            "categories":
+            - >-
+                wiremind
+            "gamemaster_hints": ""
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Questions au vainqueur de Wiremind
+

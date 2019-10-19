@@ -1,0 +1,192 @@
+﻿
+
+messaging:
+
+    globally_registered_contacts:
+
+        "[auction-list]@anthropia.pg": # all players
+            avatar: "rainbow_colors.jpg"
+            description: "Tous les enchérisseurs des ventes aux enchères de Loyd Georges (sans Loyd Georges lui-même, donc)."
+            gamemaster_hints: "Très utile pour diffuser des nouvelles et indices en masse..."
+
+
+        # SECRET SERVICES #
+
+        secret-services@masslavia.pg:
+            avatar: "coat_of_arms_wild_boar.png"
+            description: "Les supérieurs et contacts directs de tous les agents secrets masslaves."
+
+        secret-services@dorian-dukedom.pg:
+            avatar: "coat_of_arms_blue_owl_flare.png"
+            description: "Les supérieurs et contacts directs de tous les agents secrets doriens."
+
+        secret-services@lordania.pg:
+            avatar: "coat_of_arms_fleur_de_lys.png"
+            description: "Les supérieurs et contacts directs de tous les agents secrets lordaniens."
+
+        secret-services@heliossar.pg:
+            avatar: "coat_of_arms_yellow_tree.png"
+            description: "Les supérieurs et contacts directs de tous les agents secrets héliossars."
+
+        secret-services@sabarim.pg:
+            avatar: "coat_of_arms_yellow_dove.png"
+            description: "Les supérieurs et contacts directs de tous les agents secrets sabarites."
+
+
+        # SUPER FACTIONS #
+
+        contact@paladium.pg:
+            avatar: "coat_of_arms_olive_branch.png"
+            description: "La mystérieuse corporation du Paladium."
+
+
+        contact@akaris.pg:
+            avatar: "crossentar_symbol.png"
+            description: "L'Etat religieux akarite."
+
+        judicator-arthanas@akaris.pg:
+            avatar: "judicator.png"
+            description: "La plus haute autorité politique et religieuse d'Akaris."
+
+        archbishop-baazel@akaris.pg:
+            avatar: "archbishop.png"
+            description: "Dévoué aux Yods et à Akaris."
+
+
+        # SPECIAL ABILITIES #
+
+        surveillance@services.com:
+            avatar: "wiretapping_bw.png"
+            description: "Service de stockage des enregistrements caméra privés."
+
+        runic-translation@anthropia.pg:
+            avatar: "runic_stone_bw.png"
+            description: "Service de traduction de runes akarites de l'Académie d'Alifir."
+
+        biophysicslab@anthropia.pg:
+            avatar: "microscope_bw.png"
+            description: "Service d'expertise biophysique de l'Académie de Belez."
+
+        telecom@pangeatel.com:
+            avatar: "phone.png"
+            description: "Service mondial de réseau téléphonique."
+
+        atyourservice@oberons.pg:
+            avatar: "mercenaries_stylish.png"
+            description: "Contact de la confrérie internationale des Obérons."
+
+        djinns@sedes-sancta.pg:
+            avatar: "mysterious_face.jpg" # or "smog_eye.jpg"
+            description: "L'ordre sacré des djinns de Sedes Sancta, dépositaire d'un Savoir à nul autre pareil."
+
+        world-scanner@paladium.pg:
+            avatar: "geo_wave_bw.png"
+            description: "Service de recherche d'empreinte manaïque à l'échelle planétaire, piloté par la corporation du Paladium."
+
+        escrow@business.pg:
+            avatar: "beer_agreement.jpg"
+            description: "Un tiers-de-confiance soumis au plus strict secret professionnel, à inclure dans toute transaction dont vous voulez garantir la bonne réalisation."
+
+        black-market@business.pg:
+            avatar: "black_market.jpg"
+            description: "Une plateforme officieuse pour des échanges commerciaux en toute liberté, loin des contraintes administratives de chaque pays (et des taxes sous-jacentes)."
+
+        email-geolocation@digitalia.pg:
+            avatar: "geolocalization_closeup.png"
+            description: "Un service numérique pour localiser géographiquement l'émetteur d'un message email précis."
+
+
+
+        # ALIFIR ACADEMY DEANS #
+
+        aiode@anthropia.pg:
+            avatar: "dean_aiode.png"
+            description: "L'une des trois muses-doyennes de l'Académie d'Alifir, dont le pseudonyme signifie \"le chant, la voix\"."
+            gamemaster_hints: "Position neutre envers la candidature de Loyd Georges."
+
+        melete@anthropia.pg:
+            avatar: "dean_melete.png"
+            description: "L'une des trois muses-doyennes de l'Académie d'Alifir, dont le pseudonyme signifie \"la méditation\"."
+            gamemaster_hints: "Position défavorable envers la candidature de Loyd Georges."
+
+        mneme@anthropia.pg:
+            avatar: "dean_mneme.png"
+            description: "L'une des trois muses-doyennes de l'Académie d'Alifir, dont le pseudonyme signifie \"la mémoire\"." # in favor of Loyd Georges
+            gamemaster_hints: "Position favorable envers la candidature de Loyd Georges."
+
+
+        # MISCELLANEOUS PHISHERS AND SPAMMERS #
+        #dexter@anonymous.pg: {}
+        #kwiky@organization.pg: {}
+        #death@you.pg: {}
+        #kjb@dark.pg: {}
+        #kontakt@anthrapia.pg: {}
+        #anonymous@noname.pg: {}
+
+
+
+        # MISCELLANEOUS PEOPLE #
+
+        "ernestdevilleneuve@anthropia.pg":
+            "avatar": >-
+                prof_denoir.png
+            "description": >-
+                Collaborateur du Pr Emilos Loakim
+
+        "contact@sabarim-gazette.pg":
+            "avatar": >-
+                library_green.png
+            "description": >-
+                Journal hebdomadaire populaire du pays de Sabarim.
+
+        "scharamoz@imuo-faculty.pg":
+            "avatar": >-
+                prof_scharamoz.png
+            "description": >-
+                Directeur du département "intelligences artificielles" de la Faculté d'Imuo.
+
+        "losslass@anthropia.pg":
+            "avatar": >-
+                prof_losslass.png
+            "description": >-
+                Très éminent archéologue de l'Académie d'Alifir.
+
+        "system@anthropia.pg":
+            "avatar": >-
+                images/symbolic_avatars/vinci_human.jpg
+            "description": >-
+                Emetteur des notifications automatiques du portail Anthropia, qui appartient à l'Académie d'Alifir.
+
+        #"lydia@anthropia.pg":
+        #    "avatar": >-
+        #        lydia.png
+        #    "description": >-
+        #        Fière aventurienne lordanienne, épouse et mère.
+
+        "sylwie.lescusa@anthropia.pg":
+            "avatar": >-
+                prof_laelee.png
+            "description": >-
+                Technicienne à l'Académie d'Alifir
+
+        "manager@magnuscorp.pg":
+            "avatar": >-
+                manager.png
+            "description": >-
+                Fidèle et fiable gestionnaire de la famille Magnus.
+
+        "sir-ademar@salima.pg":
+            "avatar": >-
+                sir_ademar.png
+            "description": >-
+                Distingué gentilhomme de Salima.
+
+
+
+
+
+    messages_dispatched: []
+
+    messages_queued: []
+
+    manual_messages_templates: [] # we use list format here

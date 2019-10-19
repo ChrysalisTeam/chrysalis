@@ -1,0 +1,70 @@
+
+embeddedFonts : [ ["OpenSans-Regular.ttf","OpenSans-Bold.ttf","OpenSans-Italic.ttf","OpenSans-BoldItalic.ttf"] ]
+
+pageSetup:
+    firstTemplate: coverPage
+    
+
+pageTemplates:
+    coverPage:
+        background: cover.jpg
+        frames: []
+            [43%, 22%, 65%, 30%]
+        showHeader: false
+        showFooter: false 
+
+    intermediaryPage:
+        background: background.jpg
+        frames: []
+            [0cm, 0cm, 100%, 100%]
+        showHeader: false
+        showFooter: false 
+        
+    standardPage:
+        background: background.jpg
+        frames: []
+            [0cm, 0cm, 100%, 100%]
+        showHeader: false
+        showFooter: true 
+        
+
+styles:
+
+    base:
+        #kerning: true  BUGGY
+        #firstLineIndent: 10
+        fontSize: 13
+        leading: 18
+        fontName: "opensans"
+
+    title:
+        fontSize: 17
+        textColor: black
+        alignment: right
+
+    subtitle:
+        fontSize: 10
+        textColor: black
+        alignment: right
+
+    heading1:
+        fontSize: 13
+        spaceBefore: 14
+
+    heading2:
+        fontSize: 11
+        spaceBefore: 8
+
+    admonition:
+        backColor: transparent
+
+    bullet-list:
+        spaceBefore: 0
+        spaceAfter: 0
+
+    bullet-list-item:
+        firstLineIndent: 0
+        spaceAfter: 2
+
+    transient-clue:
+        textColor: black

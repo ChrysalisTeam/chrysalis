@@ -1,0 +1,85 @@
+
+
+messaging:
+
+
+    manual_messages_templates:
+
+
+        -   "id": "info_on_magnus"
+            "body": |
+                Agent,
+
+                de mémoire c'est un riche lordanien, il était passé dans quelques journaux il y a plus d'un an,
+                pour des achats archéologiques aux sommes assez exorbitantes.
+
+                Les services d'investigation de l'état sont actuellement débordés par les cas de faux papiers
+                provenant de voyageurs akarites, mais nous pouvons faire appel à un enquêteur privé, pour 100¤
+                - voulez-vous que nous débitions cette somme du budget qui vous est alloué pour cette mission,
+                afin d'obtenir un rapport sur l'individu ?
+            "categories":
+            - >-
+                magnus
+            "gamemaster_hints": "Si des infos sont demandées sur le joueur spécial lordanien Magnus"
+            "subject": >-
+                Infos sur Magnus
+
+
+
+        -   "id": "inquiry_on_magnus_private_detectives"
+            "body": |
+                Agent,
+
+                comme vu au téléphone, voici un bref récap' de cette (un peu lamentable) filature. Vos 50¤ ont
+                été débités par ces rats de l'agence de filature.
+
+                - Magnus, venant de Lordanie, s'est installé au luxueux hôtel d'Alifir,
+                  face à l'Académie, avec femme et enfant.
+
+                - Il a passé la matinée seul, au centre d'analyses médicales
+
+                - Sur le retour, il flânait dans une rue marchande, et s'est rendu compte que la "détective stagiaire" le suivait.
+
+                - Il s'est alors assis à un café, et a offert à la détective (qui s'était assise quelques tables plus loin) la boisson de son choix, via le garçon de café.
+
+                - La détective n'était préparée à ça, a demandé un cocktail de fruit, puis a paniqué et s'est enfuie après l'avoir à peine touché.
+
+                Sinon, le cabinet de détective a dit nous envoyer bientôt son rapport complet, ce qu'ils savent
+                déjà c'est que Magnus est une figure assez célèbres en Lordanie, un ancien magouilleur en tous
+                genres qui a fait fortune de façon plus ou moins honnête, et qui s'est dernièrement stabilisé
+                et réorienté dans les antiquités diverses.
+
+                Force et Honneur
+            "categories":
+            - >-
+                magnus
+            "gamemaster_hints": "Exemple un joueur embauche un détective local pour enquêter sur Magnus"
+            "subject": >-
+                Filature de Magnus - compte rendu
+
+
+        -   "id": "inquiry_on_magnus_secret_services"
+            "body": |
+                OK agent,
+
+                j'ai le rapport "Magnus" sous les yeux.
+
+                Le gars est né à Baynon y a une cinquantaine d'années. Il a pas mal bourlingué, et amassé des
+                sous par divers trafics plus ou moins légaux, bizarrement sans jamais être inquiété par les services
+                de sécurité lordaniens.
+
+                Il semble s'être posé ces dernières années, avec une femme ("Lydia") et un gamin ("Khaal"). Il
+                fait actuellement du gros business dans les antiquités, les bijoux, les trucs un peu ésotériques,
+                tout ça, depuis la Lordanie.
+
+                Impossible de savoir par contre, où il a rencontré le vieux Loyd Georges, mais ce n'est pas un
+                camarade d'école/étude en tout cas.
+            "categories":
+            - >-
+                magnus
+            "gamemaster_hints": "Si les services secrets doivent faire un rapport sur Magnus"
+            "subject": >-
+                Magnus - rapport
+
+
+
