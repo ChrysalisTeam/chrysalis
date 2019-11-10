@@ -3,14 +3,13 @@ Chrysalis Game Data
 
 .. image:: images/game_logos/chrysalis_logo_blue.png
 
-This repository contains the scenarios and media files for the `Chrysalis Roleplay Games <https://chrysalis-game.com/>`_:
+This repository contains the scenario and media files for the `Chrysalis Roleplay Games <https://chrysalis-game.com/>`_:
 
 - Descent (one-shot table-top RPG)
 - Mindstorm (single-day murder party)
 - Auction (alternate reality game, mixing live encounters and web interactions)
 
-You may freely modify, use and share these assets under the `Creative Commons - Non Commercial <https://creativecommons.org/licenses/by-nc/3.0/fr/deed.en>`_ license. Their authors are listed in the `team page <https://chrysalis-game.com/cms/a-propos/equipe/>`_ of the Chrysalis Game website.
-For commercial use, please contact us via this website.
+You may freely modify, use and share these assets under the `Creative Commons - Non Commercial <https://creativecommons.org/licenses/by-nc/3.0/fr/deed.en>`_ license. Their authors are listed in the `team page <https://chrysalis-game.com/cms/a-propos/equipe/>`_ of the Chrysalis Game website. For commercial use of media or text files, please contact us via this website. Python code files, on the other hand, are released under a permissive `MIT license <https://opensource.org/licenses/MIT>`_.
 
 **For now, Chrysalis texts are in French only, sorry for the inconvenience.**
 
