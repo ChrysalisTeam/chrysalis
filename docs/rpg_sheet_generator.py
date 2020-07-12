@@ -26,8 +26,8 @@ def load_yaml_file(yaml_file):
 
 
 def load_rst_file(rst_file):
-    with open(rst_file, "r") as f:
-        data = f.read().decode("utf8")
+    with open(rst_file, "r", encoding="utf8") as f:
+        data = f.read()
         return data
 
 
@@ -39,7 +39,7 @@ def write_rst_file(rst_file, data):
     if isinstance(data, (tuple, list)):
         full_rst = "\n\n".join(data)
     else:
-        assert isinstance(data, basestring), type(data)
+        assert isinstance(data, str), type(data)
         full_rst = data
 
     full_rst = full_rst.replace("[BR]",  # for stuffs coming from yaml fixtures
@@ -62,8 +62,8 @@ def write_rst_file(rst_file, data):
     if not os.path.exists(folder):
         os.makedirs(folder)
 
-    with open(rst_file, "wb") as f:
-        f.write(full_rst.encode("utf8"))
+    with open(rst_file, "w", encoding="utf8") as f:
+        f.write(full_rst)
 
 
 ####################################
@@ -315,7 +315,7 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
     # other options: --very-verbose --show-frame-boundary or just "-v"
     command = r'''python -m rst2pdf.createpdf "%(rst_file)s" -o "%(pdf_file)s" --config=%(conf_file)s --fit-background-mode=scale --first-page-on-right --smart-quotes=2 --break-side=any  -e dotted_toc --fit-literal-mode=shrink %(extra_args)s''' % vars
 
-    print("Current directory: %s" % os.getcwd())
+    #print("Current directory: %s" % os.getcwd())
     print("Executing command: %s" % command)
 
     res = os.system(command)
