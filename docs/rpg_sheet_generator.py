@@ -20,8 +20,8 @@ from markupsafe import Markup
 
 
 def load_yaml_file(yaml_file):
-    with open(yaml_file, "r") as f:
-        data = yaml.load(f)
+    with open(yaml_file, "r", encoding="utf8") as f:
+        data = yaml.load(f, Loader=yaml.FullLoader)
         return data
 
 
@@ -71,7 +71,7 @@ def write_rst_file(rst_file, data):
 ####################################
 
 
-def load_jinja_environment(templates_root, use_macro_tags):
+def load_jinja_environment(templates_root: list, use_macro_tags: bool):
     # IMPORTANT - we refuse undefined template vars: exceptions get raised instead
     jinja_env = jinja2.Environment(undefined=jinja2.StrictUndefined,
                                    loader=jinja2.FileSystemLoader(templates_root),
@@ -315,6 +315,7 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
     # other options: --very-verbose --show-frame-boundary or just "-v"
     command = r'''python -m rst2pdf.createpdf "%(rst_file)s" -o "%(pdf_file)s" --config=%(conf_file)s --fit-background-mode=scale --first-page-on-right --smart-quotes=2 --break-side=any  -e dotted_toc --fit-literal-mode=shrink %(extra_args)s''' % vars
 
+    print("Current directory: %s" % os.getcwd())
     print("Executing command: %s" % command)
 
     res = os.system(command)
