@@ -6,7 +6,7 @@ Chrysalis Game Data
 This repository contains the scenario and media files for the `Chrysalis Roleplay Games <https://chrysalis-game.com/>`_:
 
 - Descent (one-shot table-top RPG)
-- Mindstorm (single-day murder party)
+- Mindstorm (single-day mystery party)
 - Auction (alternate reality game, mixing live encounters and web interactions)
 
 You may freely modify, use and share these assets under the `Creative Commons - Non Commercial <https://creativecommons.org/licenses/by-nc/3.0/fr/deed.en>`_ license. Their authors are listed in the `team page <https://chrysalis-game.com/cms/a-propos/equipe/>`_ of the Chrysalis Game website. For commercial use of media or text files, please contact us via this website. Python code files, on the other hand, are released under a permissive `MIT license <https://opensource.org/licenses/MIT>`_.
@@ -41,10 +41,7 @@ Note that output folders will contain restructuredtext files along their PDF cou
 Common setup
 ---------------
 
-Due to some remaining incompatibilities in restructuredtext-to-pdf plugins, the toolchain is still under Python2.7, and uses some old versions of its dependencies.
-As a result, an error *"[ERROR] createpdf.py:565 Can't find cover template assets/pdf_cover.tpl, using default"* still happens for now, but it doesn't prevent PDF generation.
-
-To use it, create a python2.7 virtual environments (see https://virtualenv.pypa.io/en/latest/) and **activate it**.
+Create a python virtual environments (see https://virtualenv.pypa.io/en/latest/) and **activate it**; python 3.7 has been tested, other recent python3 versions should work too.
 
 Then install common dependencies, from inside the root folder of the repository::
 
@@ -74,18 +71,20 @@ Run::
 	
 	python build_mindstorm_pdfs.py
 
-This script relies on the presence of an "docs/_initial_game_data_dump.yaml" file, a dump of the data stored in the pychronia portal database, which includes some scenario texts as well as the list of players.
-If this yaml file present, the script will attempt to generate it using the pychronia code, but the python2/3 incompatibility currently breaks this features. 
-In this case, run the pychronia portal normally, and copy/paste the yaml data from the "database content" page of the gamemaster area of your game.
+This script relies on the presence of an "docs/_initial_game_data_dump.yaml" file, a dump of the data stored in the pychronia portal database, which includes some useful scenario texts.
 
-This script is quite long to run, so you might want to disable some steps later in build_mindstorm_pdfs.py (by replacing some "if True:" by "if False:"), to regenerate only what you need.
+If this yaml file is not present, the script will attempt to generate it using the Pychronia code, so ensure that the Pychronia repository root is added to your PYTHONPATH.
+In case the generation of this dump fails, you can also initialize and run the Pychronia portal normally, and copy/paste the yaml data from the "database content" page of the gamemaster area of your game into this dump file.
+The Pychronia portal should be in default Auction mode for this dumping (see "persistent_mode_settings.py" files), since the build script overrides relevant values of the mystery-party when needed.
 
-The "docs/output_mindstorm/" folder should then contain the gamemaster manual, character sheets, summary docs, and in-game documents for this murder party game.
+The build_mindstorm_pdfs.py PDF generation script is quite long to run, so you might want to disable some steps later in it (by replacing some "if True:" by "if False:"), to regenerate only what you need.
+
+The "docs/output_mindstorm/" folder should then contain the gamemaster manual, character sheets, summary docs, and in-game documents for this mystery party game.
 
 If you have put properly named images in "trombinoscope/" folder, the generated common_guests_gallery.pdf file will gather them.
 
 You'll need to have LibreOffice installed in your system so that separate documents can be extracted from ingame_clues.odt file using "unoconv.py".
-This step might fail if the pagination of this ODT file is altered on your system (e.g. fonts missing), in this case edit it by hand to respect the splitting information stored in INGAME_CLUES_PARTS python variable.
+This step might fail if the pagination of this ODT file is altered on your system (e.g. fonts missing), in this case edit it by hand to respect the splitting information stored in the INGAME_CLUES_PARTS python variable of the build script.
 
 
 
