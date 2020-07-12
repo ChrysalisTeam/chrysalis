@@ -10,17 +10,7 @@ YAML_FILE = "../script_fixtures/gamemaster_manual.yaml"
 TEMP_DIR = "output_auction"
 PDFTK_EXE = r'''C:\Program Files (x86)\pdftk4all\pdftk.exe'''
 
-cover_path = os.path.normpath(os.path.join("assets", "pdf_cover.tpl")).replace("\\", "/")  # DOC_DIR,
-
-'''
-if os.sep == "\\":
-    # Big HACK due to workaround bugs of pypi version of rst2pdf, we end up loading r'X:assets\pdf_cover.tpl' (relative path)
-    cover_path = os.path.normpath(os.path.join(os.path.splitdrive(DOC_DIR)[0], "assets", "pdf_cover.tpl")).replace("\\", "/")
-else:
-    cover_path = os.path.normpath(os.path.join(DOC_DIR, "assets", "pdf_cover.tpl"))
-    '''
-
-EXTRA_ARGS = "--stylesheets=shiny --custom-cover=%s" % cover_path
+EXTRA_ARGS = "--stylesheets=shiny"
 RST2PDF_CONF_FILE = "./rst2pdf.conf"
 
 
@@ -62,6 +52,8 @@ def generate_manual(sections, output_file_template, remove_second_page):
 generate_manual(["pdf_prefix", "public_content", "spoiler_content"],
                 output_file_template="chrysalis_auction_gamemaster_manual_%s_full",
                 remove_second_page=False)
+
+# It is normal to have "Unknown target name" errors with this extract, since some RST links are broken in it...
 generate_manual(["pdf_prefix", "public_content", "truncation_message"],
                 output_file_template="chrysalis_auction_gamemaster_manual_%s_extract",
                 remove_second_page=False)

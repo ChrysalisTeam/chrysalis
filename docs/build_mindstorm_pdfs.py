@@ -24,8 +24,7 @@ ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
-cover_path = os.path.join("assets", "pdf_cover.tpl")
-DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_cover --custom-cover=%s" % cover_path
+DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_cover"
 
 MAIN_OUTPUT_DIR = "output_mindstorm"
 DOCUMENTS_OUTPUT_DIR = os.path.join(MAIN_OUTPUT_DIR, "documents")
