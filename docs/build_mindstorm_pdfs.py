@@ -19,7 +19,7 @@ GAME_TYPE = "anteauction.standalone" if IS_STANDALONE else "postauction.custom"
 
 DISABLE_DECORATIONS = False
 
-TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty")
+TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_mindstorm")
 ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues.odt")
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -485,7 +485,7 @@ def generate_mindstorm_sheets():
 
     all_data["available_anthropia_abilities"] = AVAILABLE_ANTHROPIA_ABILITIES
 
-    murder_party_items = rpg.load_yaml_file("../script_fixtures/mysteryparty/gamemaster_assets_checklist.yaml")
+    murder_party_items = rpg.load_yaml_file("../script_fixtures/mysteryparty_mindstorm/gamemaster_assets_checklist.yaml")
     all_data["murder_party_items"] = murder_party_items
 
     # BEWARE - sensitive data specific to a murder party game
