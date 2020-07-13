@@ -248,7 +248,6 @@ def generate_mindstorm_rst_from_parts(parts, title, add_page_breaks, with_decora
     %s
     ################################################################ 
 
-
        
     .. raw:: pdf
     
@@ -288,8 +287,6 @@ def generate_mindstorm_rst_from_parts(parts, title, add_page_breaks, with_decora
     return full_data
 
 
-
-
 def build_mindstorm_pdf(parts, filename_base, title,
                         with_decorations=True,
                         add_page_breaks=False,
@@ -319,18 +316,15 @@ def build_mindstorm_pdf(parts, filename_base, title,
 def generate_mindstorm_sheets():
     _ensure_intial_game_data_dump_is_present(INITIAL_GAME_DATA_DUMP)  # IMPORTANT
 
-    has_coherence_errors = False
-
     all_data = dict(standalone=IS_STANDALONE,
-                    use_player_photos=True,
-                    gamemaster=False)  # TODO change me
+                    use_player_photos=True)
 
     data = rpg.load_yaml_file(INITIAL_GAME_DATA_DUMP)
     all_data.update(data)  # TODO - replace that dump by source data, eventually
 
     all_data["available_anthropia_abilities"] = AVAILABLE_ANTHROPIA_ABILITIES
 
-    murder_party_items = rpg.load_yaml_file("../script_fixtures/mysteryparty_mindstorm/gamemaster_assets_checklist.yaml")
+    murder_party_items = rpg.load_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"))
     all_data["murder_party_items"] = murder_party_items
 
     # BEWARE - sensitive data specific to a murder party game
@@ -397,7 +391,6 @@ def generate_mindstorm_sheets():
     # first the gamemaster manual
     if True:
         gm_data = all_data.copy()
-        gm_data["gamemaster"] = True
         gm_data["current_player_id"] = master_login  # silent
         gm_data["current_player_password"] = gm_data["global_parameters"]["master_password"]
         build_mindstorm_pdf(GAMEMASTER_MANUAL_PARTS,
@@ -451,7 +444,6 @@ def generate_mindstorm_sheets():
 
     # then character cheat sheets
     if True:
-        full_extracts_rst = ""
         for player in sorted(players_names_set_no_shark):
             parts = ["players/%(player_name)s_cheat_sheet.rst" % dict(player_name=player),
                      "players/%(player_name)s_specific_abilities.rst" % dict(player_name=player),
@@ -520,7 +512,7 @@ def generate_mindstorm_sheets():
     else:
         print("!!! Aborting generation of gamemaster_facts_summary, since NO FACTS have been detected")
 
-    if has_coherence_errors:
+    if has_any_coherence_error:
         print(">>>>>>>>>> PROBLEMS WITH SCRIPT COHERENCE, SEE OUTPUTS <<<<<<<<<<")
         sys.exit(1)
     else:
