@@ -110,7 +110,7 @@ def render_with_jinja_and_fact_tags(content, jinja_env, jinja_context):
     #print("<<<RENDERING CONTENT>>>\n %s" % content[:1000].encode("ascii", "ignore"))
     template = jinja_env.from_string(content)
     output_tagged = template.render(jinja_context)
-    output = jinja_env.extract_facts(output_tagged)  # must exist
+    output = jinja_env.extract_facts_from_intermediate_markup(output_tagged)  # must exist
     return output
 
 
@@ -137,6 +137,8 @@ class StoryChecksExtension(Extension):
     # a set of names that trigger the extension.
     tags = set(['fact', 'symbol', 'hint'])
 
+    DUMMY_GAMEMASTER_NAME = "<master>"
+
     def __init__(self, environment):
         super(StoryChecksExtension, self).__init__(environment)
 
@@ -149,7 +151,7 @@ class StoryChecksExtension(Extension):
             facts_registry=self.facts_registry,  # (fact_name -> fact_data_dict) mapping
             symbols_registry=self.symbols_registry,  # (symbol_name -> symbol_values_set) mapping
             hints_registry=self.hints_registry,  # (hint_name -> hint_statuses_set) mapping
-            extract_facts=functools.partial(extract_facts, facts_registry=self.facts_registry)
+            extract_facts_from_intermediate_markup=functools.partial(extract_facts_from_intermediate_markup, facts_registry=self.facts_registry)
         )
 
     def parse(self, parser):
@@ -234,7 +236,7 @@ class StoryChecksExtension(Extension):
 
     def _fact_processing(self, fact_name, as_what, context):
 
-        player_id = context.get("current_player_id", "<master>")
+        player_id = context.get("current_player_id", self.DUMMY_GAMEMASTER_NAME)
         is_cheat_sheet = context.get("is_cheat_sheet", False)
 
         #if "mytest" in fact_name:
@@ -262,7 +264,11 @@ class StoryChecksExtension(Extension):
         return ""  # empty output
 
 
-def extract_facts(source, facts_registry):
+def extract_facts_from_intermediate_markup(source, facts_registry):
+    """
+    Browse a transformed output, and extract facts from the special markup left in it by StoryChecksExtension.
+    """
+
     def process_fact(matchobj):
 
         fact_name = matchobj.group("fact_name")
@@ -288,6 +294,97 @@ def extract_facts(source, facts_registry):
 
     cleaned_source = re.sub(MARKER_REGEX, process_fact, source, flags=0)
     return cleaned_source
+
+
+def _display_and_check_story_hints(jinja_env):
+    from pprint import pprint
+
+    print("\nInline hints of scenario:")
+    pprint(jinja_env.hints_registry)
+
+    has_coherence_errors = False
+    hints_registry_good_value = set(['needed', 'provided'])
+    for k, v in jinja_env.hints_registry.items():
+        assert v <= hints_registry_good_value, (k, v)  # no weird values
+        if 'needed' in v and 'provided' not in v:
+            print("!!!!! ERROR IN hints registry for key", k, ':', v, 'requires a provided hint')
+            has_coherence_errors = True
+
+    return has_coherence_errors
+
+def _display_and_check_story_symbols(jinja_env):
+    from pprint import pprint
+
+    print("\nInline symbols of scenario:")
+    pprint(jinja_env.symbols_registry)
+
+    has_coherence_errors = False
+    for k, v in jinja_env.symbols_registry.items():
+        unique_values = set(x.strip().lower() for x in v)
+        if len(unique_values) != 1:
+            print("!!!!! ERROR IN symbols registry for key", k, ':', v)
+            has_coherence_errors = True
+    return has_coherence_errors
+
+
+def _display_and_check_story_facts(jinja_env, masked_user_names):
+    from pprint import pprint
+    assert isinstance(masked_user_names, (set, tuple, list)), repr(masked_user_names)
+
+    masked_user_names = list(masked_user_names) + [StoryChecksExtension.DUMMY_GAMEMASTER_NAME]
+
+    print("\nInline facts of scenario:")
+    pprint(jinja_env.facts_registry)
+
+    '''
+    def __UNUSED_replace_all_players_set(names):
+        """When all real players know a fact, replace their names by a symbol"""
+        names_set = set(names)
+        if all_player_names <= names_set:
+            new_set = (names_set - all_player_names) | {"ALL-PLAYERS"}
+        else:
+            new_set = names_set
+        return new_set
+    '''
+
+    has_coherence_errors = False
+
+    def _check_fact_leaf(fact_name, player_id, fact_node):
+        """Ensure that the knowledge of a single player over a single fact is coherent"""
+        assert fact_node["in_normal_sheet"] or fact_node["in_cheat_sheet"], fact_node
+        _has_coherence_errors = False
+        if fact_node["in_cheat_sheet"]:
+            if not fact_node["in_normal_sheet"]:  # all facts must be explained in normal sheets
+                print("!!!!! ERROR IN fact leaf for key", fact_name, ':', player_id, fact_node)
+                _has_coherence_errors = True
+        return _has_coherence_errors
+
+    facts_items = sorted(jinja_env.facts_registry.items())
+
+    for (fact_name, fact_data) in facts_items:
+        for player_id, fact_node in fact_data.items():
+            has_coherence_errors = _check_fact_leaf(fact_name, player_id=player_id, fact_node=fact_node) or has_coherence_errors
+
+    facts_summary = [(fact_name,  #.replace("_", " "),
+                      sorted((x, y) for (x, y) in fact_data.items()
+                             if y["is_author"] and x not in masked_user_names),
+                      sorted((x, y) for (x, y) in fact_data.items()
+                             if not y["is_author"] and x not in masked_user_names))
+                     for (fact_name, fact_data) in facts_items]
+
+    return has_coherence_errors, facts_summary
+
+
+def display_and_check_story_tags(jinja_env, masked_user_names):
+    has_coherence_errors1 = _display_and_check_story_hints(jinja_env)
+    has_coherence_errors2 = _display_and_check_story_symbols(jinja_env)
+    has_coherence_errors3, facts_summary = _display_and_check_story_facts(jinja_env, masked_user_names=masked_user_names)
+
+    has_any_coherence_error = has_coherence_errors1 or has_coherence_errors2 or has_coherence_errors3
+
+    return has_any_coherence_error, facts_summary
+
+
 
 
 ####################################

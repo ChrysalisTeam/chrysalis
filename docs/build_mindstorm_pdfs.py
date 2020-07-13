@@ -12,6 +12,7 @@ from pprint import pprint
 
 from mysteryparty_common_utils import _generate_clues_pdfs_from_main_odt_document, _send_player_sheets_via_email, \
     _extract_ingame_clues_text_from_odt, _ensure_intial_game_data_dump_is_present, build_mysteryparty_pdf, spacer
+from rpg_sheet_generator import display_and_check_story_tags
 
 IS_STANDALONE = True
 
@@ -507,60 +508,8 @@ def generate_mindstorm_sheets():
 
     # -------------
 
-    print("\nInline hints of scenario:")
-    pprint(jinja_env.hints_registry)
-    hints_registry_good_value = set(['needed', 'provided'])
-    for k, v in jinja_env.hints_registry.items():
-        assert v <= hints_registry_good_value, (k, v)  # no weird values
-        if 'needed' in v and 'provided' not in v:
-            print("!!!!! ERROR IN hints registry for key", k, ':', v, 'requires a provided hint')
-            has_coherence_errors = True
-
-    # -------------
-
-    print("\nInline symbols of scenario:")
-    pprint(jinja_env.symbols_registry)
-    for k, v in jinja_env.symbols_registry.items():
-        unique_values = set(x.strip().lower() for x in v)
-        if len(unique_values) != 1:
-            print("!!!!! ERROR IN symbols registry for key", k, ':', v)
-            has_coherence_errors = True
-
-    # -------------
-
-    print("\nInline facts of scenario:")
-
-    pprint(jinja_env.facts_registry)
-
-    def _replace_all_players_set(names):
-        """When all real players know a fact, replace their names by a symbol"""
-        names_set = set(names)
-        if players_names_set_no_shark <= names_set:
-            new_set = (names_set - players_names_set_no_shark) | {"ALL-PLAYERS"}
-        else:
-            new_set = names_set
-        return new_set
-
-    def _check_fact_leaf(fact_name, player_id, fact_node):
-        """Ensure that the knowledge of a single player over a single fact is coherent"""
-        assert fact_node["in_normal_sheet"] or fact_node["in_cheat_sheet"], data
-        if fact_node["in_cheat_sheet"]:
-            if not fact_node["in_normal_sheet"]:  # all facts must be explained in normal sheets
-                print("!!!!! ERROR IN fact leaf for key", fact_name, ':', player_id, fact_node)
-                raise RuntimeError('See error above in logs')
-
-    facts_items = sorted(jinja_env.facts_registry.items())
-
-    for (fact_name, fact_data) in facts_items:
-        for player_id, fact_node in fact_data.items():
-            _check_fact_leaf(fact_name, player_id=player_id, fact_node=fact_node)
-
-    facts_summary = [(fact_name,  #.replace("_", " "),
-                      sorted((x, y) for (x, y) in fact_data.items()
-                             if y["is_author"] and x != master_login),
-                      sorted((x, y) for (x, y) in fact_data.items()
-                             if not y["is_author"] and x != master_login))
-                     for (fact_name, fact_data) in facts_items]
+    # perform full checkup of story checks now that all has been processed
+    has_any_coherence_error, facts_summary = display_and_check_story_tags(jinja_env, masked_user_names=[master_login])
 
     if facts_summary:
         build_mindstorm_pdf(["gamemaster_facts_summary.rst"],
