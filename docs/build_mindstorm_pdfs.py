@@ -10,6 +10,9 @@ import time
 from collections import OrderedDict
 from pprint import pprint
 
+from mysteryparty_common_utils import _generate_clues_pdfs_from_main_odt_document, _send_player_sheets_via_email, \
+    _extract_ingame_clues_text_from_odt, _ensure_intial_game_data_dump_is_present, build_mysteryparty_pdf, spacer
+
 IS_STANDALONE = True
 
 INITIAL_GAME_DATA_DUMP = os.path.join(os.path.dirname(__file__), "_initial_game_data_dump.yaml")
@@ -20,6 +23,7 @@ GAME_TYPE = "anteauction.standalone" if IS_STANDALONE else "postauction.custom"
 DISABLE_DECORATIONS = False
 
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_mindstorm")
+TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
 ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues.odt")
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -32,59 +36,8 @@ DOCUMENTS_OUTPUT_DIR = os.path.join(MAIN_OUTPUT_DIR, "documents")
 if not os.path.exists(DOCUMENTS_OUTPUT_DIR):
     os.mkdir(DOCUMENTS_OUTPUT_DIR)
 
-# TODO change this, "common lore introduction" changes are not relevant anymore!
-PLAYER_INITIAL_EMAIL_TEXT = """\
-## Message exclusivement destiné à %(real_life_identity)s (%(real_life_email)s) ##
 
-Bonjour,
-
-Voici votre feuille de personnage complète, à lire et relire sans modération !
-
-Une fiche synthétique est également fournie, récapitulant les principaux éléments de votre fiche de personnage. 
-N'hésitez pas à la compléter avec toute autre information que vous jugeriez bon de garder sur vous durant le jeu.
-
-Certains d'entre vous ont des documents spécifiques en pièce jointe, avec des informations juridiques, scientifiques, épistolaires... en fonction de ce qui est mentionné dans leur fiche de personnage. 
-
-Le document de l'Univers du Jeu et des Règles est aussi inclus, avec quelques évolutions :
-- les photos du trombinoscope ont été mises à jour
-- l'utilisation du "poing levé" pour signifier "je suis hors-jeu"
-- vous n'avez pas tous la possibilité d'embaucher des mercenaires (mais toujours accès aux médiateurs obérons)
-
-IMPORTANT - Merci de bien vouloir :
-- acquitter bonne réception de cet email
-- signaler toute incohérence ou lacune que vous verriez dans ces documents par la suite
-- IMPRIMER la fiche synthétique ("cheat sheet"), ainsi que les documents spécifiques, pour les avoir avec vous le jour J
-
-Bonne lecture !
-
-bien vaporeusement,
-Pascal Chambon pour le CLIVRA
-"""
-
-
-def page_breaker(jinja_context):
-    return textwrap.dedent(
-        """
-        
-        .. raw:: pdf
-        
-           PageBreak   
-           
-        """)
-
-
-def spacer(jinja_context):
-    return textwrap.dedent(
-        """
-        
-        .. raw:: pdf
-        
-           Spacer 0 25
-           
-        """)
-
-
-jinja_env = rpg.load_jinja_environment(TEMPLATES_ROOT, use_macro_tags=True)
+jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True)
 
 EXCLUDED_CHARACTERS = []  # mystery-party has no sheet for these characters, for now
 
@@ -113,85 +66,12 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
 )
 
 
-def _ensure_intial_game_data_dump_is_present():
-    if not os.path.exists(INITIAL_GAME_DATA_DUMP):
-        # WORKAROUND FOR DEV ENV SETUP
-        os.environ["DJANGO_SETTINGS_MODULE"] = settings_module = \
-            "pychronia_game.tests.persistent_mode_settings"  # with DB not in temp dir
-
-        from pychronia_game.scripts import dump_initial_game_yaml;
-        dump_initial_game_yaml.execute(INITIAL_GAME_DATA_DUMP)
-
-
-def _extract_ingame_clues_text_from_docx(clues_file):
-    """
-    UNUSED
-    """
-    import docx2txt
-
-    docx_file = os.path.join(TEMPLATES_ROOT, clues_file)
-
-    # we may also use "img_dir" parameter to write images in /tmp/img_dir
-    text = docx2txt.process(docx_file)
-    return text
-
-
-def _extract_ingame_clues_text_from_odt(clues_file):
-    """
-    Extract texts and comments from LibreOffice file.
-    """
-    import odt2txt
-    odt_file = os.path.join(TEMPLATES_ROOT, clues_file)
-    odt = odt2txt.OpenDocumentTextFile(odt_file)
-    text = odt.toString()
-    return text
-
-
-def _send_email_to_recipients(sender, recipients, text, subject, attachements=None, dry_run=True, gmail_password=None):
-    from email.mime.text import MIMEText
-    from email.mime.application import MIMEApplication
-    from email.mime.multipart import MIMEMultipart
-    import smtplib
-
-    assert len(recipients) <= 2, recipients  # safety
-
-    recipients = recipients
-    emaillist = [elem.strip() for elem in recipients]
-
-    msg = MIMEMultipart()
-    msg['Subject'] = subject
-    msg['From'] = msg['Reply-to'] = sender
-    msg['To'] = ", ".join(recipients)
-
-    msg.preamble = 'Multipart message.\n'
-
-    part = MIMEText(text, _charset='utf8')
-    msg.attach(part)
-
-    for attachement in (attachements or []):
-        part = MIMEApplication(open(attachement, "rb").read())
-        part.add_header('Content-Disposition', 'attachment', filename=os.path.basename(attachement))
-        msg.attach(part)
-
-    print("/!\\ %s SENDING EMAIL '%s' TO %s (attachments: %s)" % (
-    "FAKE" if dry_run else "REALLY", subject, str(recipients), ", ".join(attachements)))
-
-    if not dry_run:
-        server = smtplib.SMTP("smtp.gmail.com:587")
-        server.ehlo()
-        server.starttls()
-        server.login(sender, gmail_password)
-        res = server.sendmail(msg['From'], emaillist, msg.as_string())
-        time.sleep(20)  # else gmail freaks out...
-        return res
-    return None
-
-
 GAMEMASTER_MANUAL_PARTS = [
     "gamemaster_manual_mindstorm.rst",
     ## OBSOLETE "gamemaster_checklist_mindstorm.rst",
     # FIXME  add manor surveillance report ?????
 ]
+
 PLAYER_MANUAL_PARTS = [
     "players/%(player_name)s.GAME_TYPE.rst".replace("GAME_TYPE", GAME_TYPE),
     "players/%(player_name)s_previous_days.rst",
@@ -287,32 +167,6 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("loyd_markis_biography_extract", 1),
     ("highly_confidential_letter_for_loyd_georges_about_secret_villa", 1),
 ]
-
-
-def _generate_clues_pdfs_from_main_odt_document():
-    current_page = 1
-    for idx, (basename, pages_count) in enumerate(INGAME_CLUES_PARTS):
-        prefix = ""  # or ("%02d_" % idx) if debugging needed
-        output_pdf = os.path.join(DOCUMENTS_OUTPUT_DIR, prefix + basename + ".pdf")
-        variables = dict(input=ALL_CLUES_DOCUMENT,
-                         output=output_pdf,
-                         page_range='%s-%s' % (current_page, current_page + pages_count - 1))
-        cmd = 'python unoconv.py -f pdf -o "%(output)s" -e PageRange=%(page_range)s "%(input)s"' % variables
-        print(cmd)
-        os.system(cmd)
-
-        # IMPORTANT - remove GAMEMASTER ANNOTATIONS from PDF file
-        # BEWARE, this seems to CORRUPT a bit the PDF, find a better REGEX someday
-        with open(output_pdf, 'rb') as f:
-            data = f.read()
-        assert b'Annots' in data  # all clues have annotations regarding their purposes
-        regex = br'/Annots\s*\[[^]]+\]'
-        data = re.sub(regex, b'', data, flags=re.MULTILINE)
-        assert b'Annots' not in data  # no more clues VISIBLE (but still present in sources alas)
-        with open(output_pdf, 'wb') as f:
-            f.write(data)
-
-        current_page += pages_count
 
 
 def _expose_real_identities_in_rst_template(rst):
@@ -433,46 +287,36 @@ def generate_mindstorm_rst_from_parts(parts, title, add_page_breaks, with_decora
     return full_data
 
 
-def build_mindstorm_pdf(parts, filename_base,
-                        title, with_decorations=True,
+
+
+def build_mindstorm_pdf(parts, filename_base, title,
+                        with_decorations=True,
                         add_page_breaks=False,
                         jinja_context=None,
                         skip_pdf_output=False,
                         toc_depth=1):
-    if filename_base:
-        print("Generating", filename_base)
-    assert filename_base or skip_pdf_output
 
     with_decorations = with_decorations and not DISABLE_DECORATIONS
 
-    rst_content = generate_mindstorm_rst_from_parts(
-        parts,
+    return build_mysteryparty_pdf(
+        parts=parts,
+        filename_base=filename_base,
         title=title,
-        add_page_breaks=add_page_breaks,
+        output_dir=MAIN_OUTPUT_DIR,
+        generate_rst_from_parts=generate_mindstorm_rst_from_parts,
+        jinja_env=jinja_env,
+        extra_args= DECORATIONS_EXTRA_ARGS if with_decorations else STANDARD_EXTRA_ARGS,
         with_decorations=with_decorations,
-        toc_depth=toc_depth,
-        jinja_context=jinja_context)
+        add_page_breaks=add_page_breaks,
+        jinja_context=jinja_context,
+        skip_pdf_output=skip_pdf_output,
+        toc_depth=toc_depth
+    )
 
-    if jinja_context is not None:
-        rst_content = rpg.render_with_jinja_and_fact_tags(
-            content=rst_content,
-            jinja_env=jinja_env,
-            jinja_context=jinja_context)
-
-    extra_args = DECORATIONS_EXTRA_ARGS if with_decorations else STANDARD_EXTRA_ARGS
-
-    if not skip_pdf_output:
-        filepath_base = os.path.join(MAIN_OUTPUT_DIR, filename_base)
-        rpg.convert_rst_content_to_pdf(filepath_base=filepath_base,
-                                       rst_content=rst_content,
-                                       conf_file="rst2pdf.conf",
-                                       extra_args=extra_args)
-
-    return rst_content
 
 
 def generate_mindstorm_sheets():
-    _ensure_intial_game_data_dump_is_present()  # IMPORTANT
+    _ensure_intial_game_data_dump_is_present(INITIAL_GAME_DATA_DUMP)  # IMPORTANT
 
     has_coherence_errors = False
 
@@ -522,59 +366,29 @@ def generate_mindstorm_sheets():
     # -------------
 
     if False:
-        # export clues into a myriad of small PDFs
-        _generate_clues_pdfs_from_main_odt_document()
+        # HEAVY - export clues into a myriad of small PDFs
+        _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
+                                                    clues_parts=INGAME_CLUES_PARTS,
+                                                    output_dir=DOCUMENTS_OUTPUT_DIR)
 
     # -------------
 
     if False:  # BEWARE DANGEROUS
-        def _send_player_sheets_via_email(dry_run):
 
-            # send already generated docs to players
-            # BEWARE, first CHECK that filenames match file contents on all "clues" attachments!
-
-            specific_recipients = set()
-            gmail_password = all_data["gmail_smtp_password"]
-            assert gmail_password, gmail_password
-
-            gamemaster_email = all_data["global_parameters"]["master_real_email"]
-            assert gamemaster_email, gamemaster_email
-
-            for player in sorted(players_names_set_no_shark):
-                player_data = all_data["character_properties"][player]
-                real_life_identity = player_data["real_life_identity"]
-                real_life_email = player_data["real_life_email"]
-
-                if real_life_email in specific_recipients:  # each player must have its own email
-                    raise ValueError('Duplicated specific recipient %s' % real_life_email)
-                specific_recipients.add(real_life_email)
-
-                player_attachments = [
+        default_player_attachments = [
                                          os.path.join(MAIN_OUTPUT_DIR, "common_lore_introduction.pdf"),
-                                         os.path.join(MAIN_OUTPUT_DIR, "player_%s_cheat_sheet.pdf" % player),
-                                         os.path.join(MAIN_OUTPUT_DIR, "player_%s_sheet_full.pdf" % player),
-                                     ] + player_data["email_attachments"]
-
-                for player_attachment in player_attachments:
-                    assert player in player_attachment or "common" in player_attachment, \
-                        player_attachment  # do not mixup specific files
-                    assert os.path.exists(player_attachment), player_attachment
-
-                text = PLAYER_INITIAL_EMAIL_TEXT % player_data
-
-                _send_email_to_recipients(sender=gamemaster_email,
-                                          recipients=[real_life_email],
-                                          text=text,
-                                          subject='Murder Party Chrysalis - votre fiche personnage pour %s' % player.capitalize(),
-                                          attachements=player_attachments,
-                                          dry_run=dry_run,
-                                          gmail_password=gmail_password)
+                                         os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_cheat_sheet.pdf"),
+                                         os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_sheet_full.pdf"),
+                                     ]
+        _common_params = dict(all_data=all_data,
+                             player_names=players_names_set_no_shark,
+                             default_player_attachments=default_player_attachments)
 
         print("----------FAKE--------------")
-        _send_player_sheets_via_email(dry_run=True)  # ensure everything seems in place
+        _send_player_sheets_via_email(dry_run=True, **_common_params)  # ensure everything seems in place
         if False:
             print("----------REAL--------------")
-            _send_player_sheets_via_email(dry_run=False)  # REALLY send stuffs
+            _send_player_sheets_via_email(all_data=all_data, player_names=players_names_set_no_shark, dry_run=False)  # REALLY send stuffs
         STOP  # only do that
 
     # -------------
