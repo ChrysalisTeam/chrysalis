@@ -73,9 +73,9 @@ PLAYER_MANUAL_PARTS = [
 ]
 
 COMMON_LORE_DOCS = [
-    "context_intro.rst",
-    "context_details.rst",
-    "common_guests_gallery.rst",
+    #"context_intro.rst",
+    #"context_details.rst",
+    #"common_guests_gallery.rst",
     "game_rules.rst",
 ]
 
@@ -250,7 +250,7 @@ def generate_archives_sheets():
     # -------------
 
     # then the common LORE doc
-    if False:
+    if True:
         build_archives_pdf(COMMON_LORE_DOCS,
                             filename_base="common_lore_introduction", title="Univers du Jeu",
                             add_page_breaks=True, jinja_context=isolated_data)
@@ -275,7 +275,7 @@ def generate_archives_sheets():
         return player_data
 
     # then character full sheets
-    if True:
+    if False:
         for player in players_names:
             parts = [(part % dict(player_name=player) if not callable(part) else part)
                      for part in PLAYER_MANUAL_PARTS]
