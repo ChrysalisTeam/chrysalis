@@ -492,7 +492,7 @@ def generate_mindstorm_sheets():
         ##print(content[:1000].encode('ascii', 'ignore'))
         assert "Inutilisé" in content  # comments are well included
 
-        # no need for variables nor rendered output
+        # no need for variables nor rendered output, we just fill fact-check registries
         rpg.render_with_jinja_and_fact_tags(
             content=content,
             jinja_env=jinja_env,
