@@ -87,7 +87,8 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
 
 # documents without decorations, typically ; one can provide a LIST of RST files
 ISOLATED_DOCS = {
-    #"gamemaster_players_actions_summary": "players/all_players_actions_summary.rst",
+    "avatar_druid_sheet": "npcs/avatar_druid_sheet.rst",
+    "phantom_arkon_sheet": "npcs/phantom_arkon_sheet.rst",
 }
 
 
@@ -257,8 +258,8 @@ def generate_archives_sheets():
 
     # -------------
 
-    # then miscellaneous docs, eg. last-minute context, checklists (which might be included by other sheets)...
-    if False:
+    # then miscellaneous docs, eg. NPC sheets, last-minute context, checklists (which might be included by other sheets)...
+    if True:
         for filename_base, doc in sorted(ISOLATED_DOCS.items()):
             build_archives_pdf([doc] if not isinstance(doc, (list, tuple)) else doc,
                                 filename_base=filename_base,
