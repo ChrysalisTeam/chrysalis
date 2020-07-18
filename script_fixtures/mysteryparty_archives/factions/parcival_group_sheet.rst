@@ -1,0 +1,18 @@
+
+
+
+
+Vous appartenez aux quatre enfants de la famille Parcival. Une famille qui a hérité, de par sa noble lignée, de grandes connaissances en alchimie et autre arts ésotériques.
+
+Récemment, votre petite sœur {% symbol "Philomène" for "parcival_sick_child_name" %} est tombée gravement malade. La {% symbol "dégénérescence marbrée" for "legacy_disease" %}, un mal qui avait moult fois frappé vos ancêtres au fil des siècles. Mais un espoir subsistit : il est connu que votre aïeule, Mérédice de Maupertuis, en avait été guérie par ses parents dans sa tendre enfance. Ce savoir familial est hélas tombé dans l'oubli, suite au saccage de leur manoir par des fanatiques. Vous êtes donc partis sur les traces du passé, pour retrouver cette fabuleuse "Potion de Réjuvénation" qui avait sauvé votre lignée.
+
+Les ruines du manoir n'ont, sans surprise, livré aucun secret. Et le temps commençait à manquer ; {% symbol "Philomène" for "parcival_sick_child_name" %} n'en avait plus que pour quelques mois à vivre.
+
+{% macro monolith_found_by_explorers() %}
+Heureusement, des archéologues mirandiens ont mis au jour des monolithes immémoriaux, narrant les premières générations de la famille Maupertuis. Il y était mentionné, sous forme énigmatique, la création d'une bibliothèque enfouie très loin sous terre, afin conserver les plus puissants grimoires magiques de cette ère. Quelques photos de ces inscriptions ont heureusement fuité dans la presse, photos que vous avez laborieusement déchiffrées.
+Quelques jours plus tard, comme chaque année depuis des temps immémoriaux, un portail magique s'est réveillé lors du {% symbol "solstice d'hiver" for "astral_opening_date" %}, dans la cave d'un vieux chateau d'un pays voisin. Un portail permettant de rejoindre, pour une journée seulement, les archives secrètes des Maupertuis. C'est visiblement par ce sortilège que cette famille invitait leurs amis magiciens à célébrer la nouvelle année.
+Il vous a fallu plus d'une demi-journée pour comprendre le fonctionnement de ce portail, il vous reste donc **{% symbol "3 heures" for "library_outside_portal_remaining_time" %}** seulement pour explorer les lieux lorsque vous vous y matérialisez. Mais pour fouiller un vieux tas de livres, cela devrait suffire, non ?
+{% endmacro %}
+<{ monolith_found_by_explorers }/>
+
+
