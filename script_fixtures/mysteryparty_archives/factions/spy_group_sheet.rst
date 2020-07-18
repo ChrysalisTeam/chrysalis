@@ -1,0 +1,3 @@
+
+
+Vous êtes des agents secrets du pays de Miranda de l'île de Miranda. Cette petite principauté vivait en paix, jusqu'à ce que ses richesses minières et maritimes n'excitent la convoitise des grands pays voisins. Victime de sombres complots économiques, votre patrie est désormais lourdement endettée, et sous la menace être annexé par le plus offrant. En désespoir de cause, le prince mis rendirent vous a envoyé sur les traces du trésor des Maupertuis, une antique lignée dommage guérisseurs qui avait toujours vécu dans l'aisance sans jamais faire payer leurs services. Vos recherches vous ont mené jusqu'au manoir des Maupertuis, en ruine.
