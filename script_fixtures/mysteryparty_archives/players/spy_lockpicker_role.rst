@@ -5,7 +5,7 @@ Vous avez donc toujours avec vous quelques matériels fort utiles.
 
 
 Crochetage de serrures
-=============================
+-------------------------
 
 La plupart des serrures de la bibliothèque sont protégées par des envoûtements, et échappent donc à votre art purement mécanique.
 Mais si vous trouvez un **cadenas transparent**, vous pouvez tenter de le crocheter.
@@ -14,7 +14,7 @@ Mais si vous trouvez un **cadenas transparent**, vous pouvez tenter de le croche
 
 
 Détecteur de magnétisme
-==========================
+----------------------------
 
 Vous disposez d'une petite feuille de papier qui réagit aux champs magnétiques. Initialement destinée à comprendre la structure interne de certaines serrures magnétiques, elle s'est révélée encore plus utile pour déchiffrer d'étranges inscriptions de la lignée Maupertuis. Visiblement, leur magie runique a laissé une trace magnétique dans **certains papiers, certains tableaux, certains livres**. Bonne nouvelle pour vous.
 
