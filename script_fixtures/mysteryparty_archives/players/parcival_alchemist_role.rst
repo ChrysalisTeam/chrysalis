@@ -2,7 +2,7 @@
 
 Vous avez passé les soirées de votre enfance à déchiffrer les quelques livres ésotériques, hérités de votre lignée, qui avaient échappé aux dommages du temps. Et par la suite, en parfait autodidacte, vous n'avez pas manqué une occasion pour trouver quelque grimoire poussiéreux ou quelque herboriste prêt à vous enseigner davantage. Vous commencez donc à avoir une certaine habileté à la confection de potions, principalement médicinales (on ne renie pas ses aieux) mais pas uniquement. Mais il vous reste beaucoup de chemin à parcourir, tant il est difficile de rassembler les ingrédients, les ustensiles, et - surtout - les recettes de cet art mystérieux.
 
-*NOTE hors-jeu : les ingrédients et ustensiles qui sont faciles à trouver dans notre monde réel, sont tout aussi accessible dans le monde de la soirée mystère.*
+*NOTE hors-jeu : Les ingrédients et ustensiles qui sont faciles à trouver dans notre monde réel, sont tout aussi accessible dans le monde de la soirée mystère.*
 
 
 Les ingrédients que vous possédez
@@ -26,4 +26,4 @@ Sur vous lors de votre expédition: aucun
 Les recettes que vous connaissez déjà
 ---------------------------------------------
 
-<TODO A LISTER
+<TODO A LISTER>
