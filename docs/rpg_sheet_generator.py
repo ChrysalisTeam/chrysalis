@@ -124,7 +124,7 @@ class StoryChecksExtension(Extension):
     the script can be checked. Some duplicates might be found in registries, because jinja
     templates are loaded multiple times (when importing macros, especially).
 
-    The tag {% fact "my_fact_description" [as "author"] %} gathers facts and their authors,
+    The tag {% fact "my_fact_description" [as author] %} gathers facts and their authors,
     and exposes the resulting data in jinja_env.facts_registry.
 
     Similarly, a tag {% symbol "value" for "name" %} ensures unicity of a value amongst
