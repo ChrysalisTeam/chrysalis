@@ -26,8 +26,8 @@ PS: Vous aviez aussi, depuis longtemps, rendu quasiment indestructible votre squ
 
 
 
-{% comment %}
+{#
 
 Vous avez parlementé avec le garçon avec Octave et l'archiviste qui s'était réfugié dans ces lieux pleins de savoir et de magie, et vous les avez convaincus de refermer les portails interdits mentionnait-elle, en retour de votre aide pour les sortir d'ici et les mettre à l'abri. Les personnages d'outre monde étaient plus ou moins étés globalement très remontés contre vous, mais ils ont bien du accepté la décision. Vous avez donc il mise en place avantage du rituel, et commencer à refermer les portes une par une.
 
-{% endcomment %}
+#}

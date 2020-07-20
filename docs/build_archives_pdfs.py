@@ -87,8 +87,15 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
 
 # documents without decorations, typically ; one can provide a LIST of RST files
 ISOLATED_DOCS = {
-    "avatar_druid_sheet": "npcs/avatar_druid_sheet.rst",
-    "phantom_arkon_sheet": "npcs/phantom_arkon_sheet.rst",
+    # NPCS
+    "npc_avatar_druid_sheet": "npcs/avatar_druid_sheet.rst",
+    "npc_phantom_arkon_sheet": "npcs/phantom_arkon_sheet.rst",
+    "npc_avatar_inventor_sheet": "npcs/avatar_inventor_sheet.rst",
+    # FACTIONS
+    "faction_diakon_sheet.rst": "factions/diakon_group_sheet.rst",
+    "faction_explorer_sheet.rst": "factions/explorer_group_sheet.rst",
+    "faction_parcival_sheet.rst": "factions/parcival_group_sheet.rst",
+    "faction_spy_sheet.rst": "factions/spy_group_sheet.rst",
 }
 
 

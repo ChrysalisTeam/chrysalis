@@ -10,16 +10,15 @@ Vos recherches vous ont un amené sur les traces des Maupertuis, une vieille lig
 Leur manoir avait été rasé il y a fort longtemps, heureusement, en remontant l'arbre généalogique, vous avez trouvé des monolithes dans un pays voisin, narrant les premières générations de la famille Maupertuis.
 
 Il y était mentionné, sous forme énigmatique, la création d'une bibliothèque enfouie très loin sous terre, afin de conserver les plus puissants grimoires magiques de cette ère. Quelques photos de ces inscriptions ont malheureusement fuité dans la presse, alors que vous vous acharniez à les déchiffrer.
-{% endmacro %}
 
 
 <{ portal_to_library_opened }/>
 
 
-{% comment %}
+{#
 Et dans un temple du pays voisin, vous avez trouvé des runes détaillant la construction de ces manoirs, et en particulier d'une bibliothèque enfouie dans leur domaine.
 Hélas, vos premiers clichés ont été escamotés par la presse à sensation, et depuis les images ont fait le tour du globe. Vous voyagez donc à toute allure pour pénétrer dans la bibliothèque enfouie avant tout le monde, mettre la main sur ce fameux Tamas Ecology, et si possible trouvait une parade au plan des Acharie.
-{% endcomment %}
+#}
 
 
 
