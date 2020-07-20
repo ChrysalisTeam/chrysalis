@@ -96,6 +96,9 @@ ISOLATED_DOCS = {
     "faction_explorer_sheet.rst": "factions/explorer_group_sheet.rst",
     "faction_parcival_sheet.rst": "factions/parcival_group_sheet.rst",
     "faction_spy_sheet.rst": "factions/spy_group_sheet.rst",
+    # INFORMATION
+    "documents/phantoms_knowledge.rst": "miscellaneous/phantoms_knowledge.rst",
+
 }
 
 
