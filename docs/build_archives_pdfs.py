@@ -53,7 +53,7 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     explorer_runologist=dict(email_attachments=[]),
 
     parcival_alchemist=dict(email_attachments=[]),
-    parcival_hunter=dict(email_attachments=[]),
+    parcival_woodsman=dict(email_attachments=[]),
     parcival_oracle=dict(email_attachments=[]),
 
     spy_lockpicker=dict(email_attachments=[]),
@@ -286,7 +286,7 @@ def generate_archives_sheets():
         return player_data
 
     # then character full sheets
-    if False:
+    if True:
         for player in players_names:
             parts = [(part % dict(player_name=player) if not callable(part) else part)
                      for part in PLAYER_MANUAL_PARTS]

@@ -1,10 +1,10 @@
 
 
 {% macro explorer_sheet_intro() %}
-Au fil de votre carrière dune fouille à l'autre, d'un temple abandonné à l'autre, vous en avez acquis des savoirs.
+Au fil de votre carrière avec vos comparses, d'une fouille à l'autre, d'un temple abandonné à l'autre, vous en avez acquis des savoirs.
 {% endmacro %}
 
-<{ avatar_principle_summary }/> Mais la spécialité qui vous parle le plus, c'est l'étude des runes anciennes.
+<{ avatar_principle_summary }/> Mais la spécialité qui vous parle le plus, c'est l'étude des runes anciennes et autres messages cryptiques.
 
 
 Traducteur runique
@@ -16,11 +16,15 @@ Puis vous rentrer ce texte dans votre intelligence artificielle, qui va en trouv
 Attention, si l'une des runes est mal transcrite, cela fausser en partie la traduction.
 
 
-Connaissance des messages cachés
--------------------------------------
+Connaissance des codes secrets
+---------------------------------
 
-stéréogrammes
+Vous avez appris à décoder quelques systèmes de chiffrement, et gardez sur vous une feuille de mémo à ce sujet.
+{% hint "secret_codes_sheet_for_explorer_runologist" is needed %}
 
-quoi d'auter ??
+Vous savez aussi que certains messages peuvent se dissimuler dans de simples dessins, soit sous forme de stéréogrammes ( http://www.1001experiences.com/stereogrammes/stereogramme-tube-3d.html ), soit d'anamorphoses ( http://www.wonderful-art.fr/illusion-d-optique-anamorphose/ ).
 
+TODO CREER STEREOGRAMMES ET ANAMORPHOSES
 
+http://lilpoi.free.fr/images.php?index=0
+https://easystereogrambuilder.com/  (mieux)

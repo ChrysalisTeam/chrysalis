@@ -1,6 +1,6 @@
 
-Les fantômes
-===================
+Des fantômes et autres esprits égarés
+==============================================
 
 Il existe bien peu de connaissances fiables sur le monde des morts. De nombreux exorcistes et mystiques atteste cependant que, parfois, au lieu de flotter librement vers l'au-delà, des défunts peuvent passer des années ou des siècles à errer sur Terre, pour des raisons fort diverses.
 
@@ -9,7 +9,9 @@ Des deux formes fantomatiques
 
 Il est possible de communiquer avec un fantôme lorsque celui-ci est dans un phase "incarnée". Il s'agit bien sûr d'un abus de langage, car le défunt reste incapable d'interagir normalement avec le monde de chair et de matière ; il n'en est pas moins capable de dialoguer, de raisonner, et de se souvenir de sa vie passée, même si la conscience qu'il a de sa situation peut être très variable. Ces moments privilégiés sont le meilleur moyen pour un exorciste de comprendre ce qui retient un fantôme sur terre, afin de prendre des mesures correctives.
 
-Mais la plupart du temps, les fantômes errent comme des "spectres" sans but, comme privés de la plupart de leurs sens et de leur pensées, et uniquement attirés par les vivants lorsqu'ils les croisent de près. Ils peuvent alors entrer dans une intense "frénésie", lorsqu'ils sont touchés par les ondes de quelque rituel magique ou sacré, ou bien à certains moments significatifs de la journée ; leurs déplacements sont alors plus rapides, et ils semblent rechercher à tout prix le contact des vivants.
+Mais la plupart du temps, les fantômes errent comme des "spectres" sans but, comme privés de la plupart de leurs sens et de leur pensées, et uniquement attirés par les vivants lorsqu'ils les croisent de près. Ces fantomes éthérés peuvent entrer dans une intense frénésie, lorsqu'ils sont touchés par les ondes de quelque rituel magique ou sacré, ou bien à certains moments significatifs de la journée ; leurs déplacements sont alors plus rapides, et ils semblent rechercher à tout prix le contact des vivants.
+
+Il est largement établi que les fantômes peuvent passer à travers les murs et les objets ; cependant, n'étant pas entièrement dématérialisés, cela leur demande des efforts supplémentaires, aggravés lorsque les lieux ont été protégés par des envoûtements magiques ou des bénédictions sacrées. Dans les faits, les fantômes suivent donc souvent les mêmes parcours que les humains.
 
 
 De la dangerosité de ces revenants
