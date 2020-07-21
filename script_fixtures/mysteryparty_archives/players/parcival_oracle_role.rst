@@ -36,3 +36,4 @@ Pour les révélations imagées : Le maître de jeu vous montrera une image, qu'
 Pour les révélations auditives : Le maître de jeu vous fera écouter une première fois la bande-son, puis vous pourrez simuler devant les autres personnages le fait de la recevoir, tout en gardant une oreillette rejouant la bande-son une deuxième et dernière fois. Placez-vous de profil afin que l'assistance ne voie pas l'oreillette. N'écoutez pas les possibles questions de l'assistance, afin de ne pas avoir de distraction.
 
 
+XXX TODO - peut détecter certaines choses (ex. la présence de la bete) à son arrivée???
