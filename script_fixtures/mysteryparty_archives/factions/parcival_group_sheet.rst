@@ -1,8 +1,9 @@
 
 
 
+Vous appartenez tous trois à la dernière génération de la famille Parcival. Une famille qui a hérité, par sa noble lignée, de certaines appétences avec le monde ésotérique.
+L'un de vous est ainsi spécialisé dans les arts alchimiques ; l'autre reçoit ponctuellement des présages sous forme de visions ou de voix ; l'autre, enfin, a développé des facultés physiques et sensorielles impressionnantes en se connectant aux forces cachées de la Nature.
 
-Vous appartenez tous trois à la dernière génération de la famille Parcival. Une famille qui a hérité, par sa noble lignée, de grandes connaissances en alchimie et autre arts ésotériques.
 
 Récemment, votre petite sœur {% symbol "Philomène" for "parcival_sick_child_name" %} est tombée gravement malade. La {% symbol "dégénérescence marbrée" for "legacy_disease" %}, un mal qui avait moult fois frappé vos ancêtres au fil des siècles. Mais un espoir subsistit : il est connu que votre aïeule, Mérédice de Maupertuis, en avait été guérie par ses parents dans sa tendre enfance. Ce savoir familial est hélas tombé dans l'oubli, suite au saccage de leur manoir par des fanatiques. Vous êtes donc partis sur les traces du passé, pour retrouver cette fabuleuse "Potion de Réjuvénation" qui avait sauvé votre lignée.
 

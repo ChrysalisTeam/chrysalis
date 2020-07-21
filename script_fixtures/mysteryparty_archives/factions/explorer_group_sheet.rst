@@ -2,6 +2,7 @@
 
 
 Vous êtes trois explorateurs-archéologues du pays d'Héliossar.
+L'un de vous est spécialisé dans les runes antiques et autres codes secrets ; l'autre dans l'analyse des inscriptions cachées, des artefacts et des ossements ; l'autre enfin dans les savoirs anthropologiques (sociétés humaines) et hiéraldiques (art des armoiries).
 
 Depuis des décennies, depuis des siècles, votre pays repousse les tentatives de conquête de son voisin, la Théocratie Akarite. Mais les dernières nouvelles sont alarmantes : les Akarites auraient trouvé un exemplaire du "livre des morts" yodique, le légendaire {% symbol "Thanatologue" for "book_of_the_dead" %} ; et à travers ce grimoire, un moyen "infaillible" d'envahir Héliossar.
 
