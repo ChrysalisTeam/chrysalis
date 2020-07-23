@@ -1,6 +1,6 @@
 
 
-<{ avatar_principle_summary }/> Mais les spécialités qui vous parle le plus, ce sont les sociétés humaines - passées et actuelles - et de l'art des blasons.
+<{ explorer_sheet_intro }/> Mais les spécialités qui vous parle le plus, ce sont les sociétés humaines - passées et actuelles - et de l'art des blasons.
 
 
 Initiations rituelles
@@ -36,4 +36,5 @@ Par décision de l'Ordre International de la Hiéraldique, il était pendant lon
 Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson, l'oiseau-grue, la chèvre, le pangolin, la faucille, le fouet, le tabouret et la feuille de houx**.
 
 
+TODO TODO ---> utile pour déchiffrer prophéties!!!
 

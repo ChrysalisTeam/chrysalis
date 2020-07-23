@@ -4,7 +4,7 @@
 Au fil de votre carrière avec vos comparses, d'une fouille à l'autre, d'un temple abandonné à l'autre, vous en avez acquis des savoirs.
 {% endmacro %}
 
-<{ avatar_principle_summary }/> Mais la spécialité qui vous parle le plus, c'est l'étude des runes anciennes et autres messages cryptiques.
+<{ explorer_sheet_intro }/> Mais la spécialité qui vous parle le plus, c'est l'étude des runes anciennes et autres messages cryptiques.
 
 
 Traducteur runique

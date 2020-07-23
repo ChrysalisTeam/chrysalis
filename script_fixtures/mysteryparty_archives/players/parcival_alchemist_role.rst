@@ -20,7 +20,7 @@ Les ustensiles que vous possédez
 
 Au domicile familial : Agitateur aluminique, Alambic en cuivre, Balance à plombs, Chaudron en fer, Cristallisoir, Pilon, Thermomètre à mercure, Fioles jaugées en cristal
 
-Sur vous lors de votre expédition: aucun
+Sur vous lors de votre expédition: <un fiole vide pour faire un mélange ?????? XXXXX TODO>
 
 
 Les recettes que vous connaissez déjà

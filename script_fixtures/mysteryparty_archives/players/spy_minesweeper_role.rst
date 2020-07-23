@@ -3,11 +3,11 @@ Démineur-artificier
 =====================
 
 
-{% macro spy_sheet_introduction() %}
+{% macro spy_sheet_intro() %}
 Depuis des décennies que vous baroudez dans les services secrets de votre patrie, avec votre fine équipe, vous avez eu le temps de voir ce qui vous plaisait.
 {% endmacro %}
 
-<{ spy_sheet_introduction }/> Et vos péchés mignons, ce sont les pièges et les explosifs. Rien de magique, uniquement les bons vieux phénomènes physiques qui ont largement fait leurs preuves.
+<{ spy_sheet_intro }/> Et vos péchés mignons, ce sont les pièges et les explosifs. Rien de magique, uniquement les bons vieux phénomènes physiques qui ont largement fait leurs preuves.
 
 
 Pièges physiques

@@ -4,11 +4,15 @@
 Dès votre prime jeunesse, vous avez réalisé que vous pouviez voir et entendre des choses que personne d'autre ne semblait sentir.
 Bénédiction ou malédiction ? En tout cas, votre grandiose lignée vous a légué ce don de clairvoyance, qui ne vous a jamais quitté.
 
-Bien avant tout le monde, vous avez visualisé la survenue de guerres et de famines dans les pays alentours, les meilleurs moments pours planter les céréales, et même - moment terrible - la maladie de votre petite soeur.
-
-Parfois ces révélations vous tombent dessus sans prévenir, parfois vous les attirez à vous en marchant dans un lieu au passé lourdement chargé. Signe du destin, de tels endroits raisonnent souvent du **chant surnaturel des cigales** de votre enfance, chants que vous mais aussi les gens qui vous cotoyent peuvent entendre.
+Bien avant tout le monde, vous avez visualisé la survenue de guerres et de famines dans les pays alentours, les meilleurs moments pour planter les céréales, et même - moment terrible - la maladie de votre petite soeur.
 
 Ainsi, tandis que vous pénétrez dans la bibliothèque enfouie des Maupertuis, tous vos sens sont en éveil, pour pouvoir prévenir vos proches, par ces révélations mystiques, des aubaines et des dangers qu'elle recèle.
+
+
+La survenue des oracles
+---------------------------
+
+Parfois, les prophéties vous tombent dessus sans prévenir, parfois vous les attirez à vous en marchant dans un lieu au passé lourdement chargé. Signe du destin, de tels endroits raisonnent souvent du **chant surnaturel des cigales** de votre enfance, chants que vous mais aussi les gens qui vous cotoyent peuvent entendre.
 
 *NOTE hors-jeu : Signalez au maître de jeu un endroit où le chant des cigales vous a parlé.*
 
