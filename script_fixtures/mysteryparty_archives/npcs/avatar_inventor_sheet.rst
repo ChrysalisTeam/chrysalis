@@ -14,7 +14,7 @@ Depuis, malgré votre jeune âge, vous êtes devenu un maître-automaticien reno
 
 <{ avatar_arrival_on_earth }/>
 
-En particulier, vous avez fouillé l'étage autorisé de la bibliothèque avec votre nouvel ami Octave, et trouvé de quoi construire plusieurs automates grandeur-nature pour faire service. Dopés par quelques sortilège de lhéritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les montrer à vos proches dans votre propre univers.
+En particulier, vous avez fouillé l'étage autorisé de la bibliothèque avec votre nouvel ami Octave, et trouvé de quoi construire plusieurs automates grandeur-nature pour faire service. Dopés par quelques sortilège de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les montrer à vos proches dans votre propre univers.
 
 ##INSERT COMMON KNOWLEDGE##
 

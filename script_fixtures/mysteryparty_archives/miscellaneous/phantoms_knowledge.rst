@@ -2,6 +2,8 @@
 Des fantômes et autres esprits égarés
 ==============================================
 
+# TODO DIRE FANTOMES VISIBLES QUE LA NUIT ???
+
 Il existe bien peu de connaissances fiables sur le monde des morts. De nombreux exorcistes et mystiques atteste cependant que, parfois, au lieu de flotter librement vers l'au-delà, des défunts peuvent passer des années ou des siècles à errer sur Terre, pour des raisons fort diverses.
 
 Des deux formes fantomatiques

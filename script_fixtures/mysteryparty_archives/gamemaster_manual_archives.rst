@@ -17,30 +17,46 @@ Concept
 
 Plusieurs groupes d'aventuriers se sont infiltrés dans une bibliothèque souterraine abandonnée, et s’y retrouvent piégés par un mystérieux pouvoir. A la nuit tombée, ces lieux prennent vie, et se peuplent d'une multitude d'êtres plus ou moins bienveillants, plus ou moins énigmatiques. Qui sont ces étranges personnages, captifs des lieux eux aussi - certains fantomatiques, d’autres au contraire bien trop vivants ?
 
-Cette soirée-mystère se joue en 3h, et met l'accent sur une ambiance légèrement angoissante, mais plus encore envoûtante, à la façon d'un Labyrinthe de Pan, d'un Voyage de Chihiro, ou d'un Alice au Pays des Merveilles. Autres références : la Nuit au Musée, les archives secrètes du Vatican, le mythe de Cthulhu… Les personnages auront des costumes diversifiés, mais on se place principalement dans une esthétique entre le steampunk et l'occultisme.
+Cette soirée-mystère met l'accent sur une ambiance légèrement angoissante, mais plus encore envoûtante, à la façon d'un Labyrinthe de Pan, d'un Voyage de Chihiro, ou d'un Alice au Pays des Merveilles. Autres références possibles : la Nuit au Musée, les archives secrètes du Vatican, le mythe de Cthulhu… Pour les costumes, on se place principalement dans une esthétique entre le steampunk et l'occultisme.
 
 Les joueurs ont une feuille de mission par groupe, et seulement une ou deux compétences spécifiques par personne (ce n'est pas un jeu romanesque, où le caractère et le passif des joueurs sont primordiaux). Ils sont amenés à faire connaissance les uns avec les autres, à discuter avec des figurants regorgeant de services et de secrets, et à résoudre des énigmes simples (recherche d'objets, ouverture de serrures, déchiffrement de runes...).
 
-Pour une bonne ambiance, l’idée est que la bibliothèque soit plongée dans le noir, seulement éclairée par quelques lanternes portées par les joueurs ou posées à côté des figurants. Une machine à fumée et des spots lumineux sont disponibles, en plus d'enceintes sonores, pour créer une atmosphère très immersive, voire quelques moments chorégraphiés façon “Son & Lumière”.
+Pour une bonne atmosphère, l’idée est que la bibliothèque soit plongée dans le noir, seulement éclairée par quelques lanternes portées par les joueurs ou posées à côté des figurants. Une machine à fumée et des spots lumineux peuvent être utilisés, en plus d'enceintes sonores, pour encore plus d'immersivité, voire quelques moments chorégraphiés façon “Son & Lumière”.
+
+
+L'histoire des Maupertuis et des Avatars
+==================================================
+
+**La malédiction de la bibliothèque remonte à 500 ans, par rapport au temps du jeu.**
+
+Le jeune garçon, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a eu une histoire tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles de {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du {% symbol "cardinal Tridentès" for "old_guru_name" %}, lors du grand marasme planétaire. Sa soeur **{% symbol "Mérédice" for "maupertuis_sister" %}** a pu s’enfuir et refaire sa vie ailleurs (fondant une lignée qui deviendra les **Parcival**), mais l'enfant ne l’a jamais su.
+
+{% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur-archiviste **maître Parchemine** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) était détruit, mais il restait des portails secondaires vers d'autres chateaux de magiciens - la plupart en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du {% symbol "solstice d'hiver" for "astral_opening_date" %}, moment d'une traditionelle célébration de la nouvelle année.
+
+Les deux survivants ont vécu là seuls 15 mois durant, le précepteur estimant qu'{% symbol "Octave" for "maupertuis_son" %} n'était pas encore prêt pour affronter la rudesse du dehors. Ils n'ont pu se rendre dans le "domaine interdit" de la bibliothèque, gardé par une Bête, car Octave n'avait pas encore reçu l'initiation lui permettant d'ouvrir le passage vers ce saint-des-saints. Esseulé, l'enfant s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une intimité de plus en plus fortes avec les héros de ces oeuvres.
+
+Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’Octave, plusieurs personnages imaginaires se sont réellement incarnés dans la bibliothèque, devenant ainsi ce que l'on appelle des **"avatars"** : un inventeur, un druide, une princesse, une corsaire, un mousquetaire, un homme-chat, un pilote de biplan...
+L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.
+L’archiviste l’a découvert, mais il a bien dû accepter la situation, tout en interdisant aux avatars de sortir de la bibliothèque.
+
+Quelques mois plus tard a eu lieu le {% symbol "solstice d'hiver" for "astral_opening_date" %} suivant. **L’arkonte (paladin-exorciste) Valerias, de religion yodique (et plus particulièrement de confession mithraïte)**, qui résidait dans le {% symbol "Monastère de Rochesombre" for "common_monastery_name" %}, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
+
+Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanité, et de laisser l’arkonte renvoyer définitivement les avatars hors de la Terre ; en retour, l’arkonte amènerait avec lui {% symbol "Octave" for "maupertuis_son" %} et l'archiviste, en sécurité, dans un autre pays. Après des adieux déchirants, les personnages imaginaires sont chacun retournés dans leur univers en attendant que le rituel verrouille à nouveau les accès au monde réel.
+
+Certains de ces avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - inventeur, druide et princess - cela n'a pas été le cas. Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier), et - horreur - le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
+
+Les avatars restant ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir mais dont ils ont marqué, au sol, l'emplacement. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège des Maupertuis.
+
+La princesse a, dans son propre monde, reçu l'oracle que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outremonde" for "banquet_name" %} en l'honneur rdes Maupertuis, dans l'attente de la réalisation de cette prophétie.
 
 Fond de l’intrigue (SPOILER)
 ============================
 
-La malédiction remonte à **500 ans**.
+L'un des héros de roman, le duide aux pouvoirs surhumains, était en fait devenu le grand méchant dans son univers ; l’enfant ne le savait pas, n’ayant jamais retrouvé le dernier tome de la série. Cet ancien héros, désirant prendre le contrôle de cet univers aussi, est revenu par ledit Tome, a assassiné les vivants pendant le rituel, puis a joué la surprise vis-à-vis des personnages imaginaires restants, revenus plus tard s’enquérir de la situation.
 
-Le jeune garçon, **Octave De Maupertuis**, a eu une histoire tragique. Il est issu, par sa mère (**Isadora**) et son père (**Quirinius**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par une foule fanatisée (de fidèles de Bahamut), lors du grand marasme planétaire ; sa soeur **Mérédice** a pu s’enfuir et refaire sa vie ailleurs, mais il ne l’a jamais su.
+Réalisant le fléau qui menaçait le monde des humains, l’arkonte avait cependant réussi, dans son dernier souffle, à jeter un sortilège sur le traître ; un sortilège qui a piégé la bibliothèque entière dans un "trou noir" du monde spirituel : que l'on soit véritable humain ou personnage imaginaire, on pourrait désormais y entrer, mais pas en sortir, aussi longtemps que le traître serait "en vie". Les trois humains sont donc restés piégés en tant que fantômes (spectres s’incarnant par moments) dans ces lieux ; de même que les personnages de roman, qui peuvent cependant toujours aller et venir entre la bibliothèque souterraine et leur propre monde littéraire.
 
-Réfugié dans les archives souterraines avec son précepteur-archiviste (**maître Parchemine**), serviteur de la famille, il a vécu là plusieurs années, en attendant que le chaos - et la haine ciblant leur famille - prenne fin. Esseulé, il s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une intimité de plus en plus fortes avec les héros de ces oeuvres.
-
-Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’Octave, plusieurs personnages imaginaires se sont réellement incarnés dans la bibliothèque, et ont tenu compagnie au garçon, jouant et confectionnant des objets avec lui, et organisant de grands buffets festifs. L’archiviste l’a découvert, mais bien que très contrarié (il avait interdit de contacter qui que ce soit “de l’extérieur”), il a bien dû accepter la situation, tout en interdisant aux héros de sortir de la bibliothèque.
-
-**L’arkonte (paladin-exorciste) Valerias, de religion yodique (et plus particulièrement de confession mithraïte)**, habitant à la surface, a senti la présence d’âmes inhumaines, s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant. Ceux-ci ont finalement accepté de ne plus faire courir ce risque à l’humanité, et de laisser l’arkonte, via un rituel, renvoyer définitivement les personnages imaginaires hors de la Terre ; contre la promesse que l’arkonte les amènerait avec lui, en sécurité, dans un autre pays. Les héros sont donc chacun retournés dans leur univers en attendant que le rituel verrouille à nouveau les accès au monde réel.
-
-Mais l'un des héros de roman, aux pouvoirs surhumains, était en fait (plot-twist) le grand méchant dans son univers ; l’enfant ne le savait pas, n’ayant jamais retrouvé le dernier Tome de la série. Le faux-héros, désirant prendre le contrôle de cet univers aussi, est revenu par ledit Tome, a discrètement assassiné les vivants pendant le rituel (alors que certains héros de roman avaient déjà été bannis de ce monde), puis a joué la surprise vis-à-vis des personnages imaginaires restants, revenus s’enquérir de la situation.
-
-Réalisant le fléau qui menaçait le monde des humains, l’arkonte avait cependant réussi, dans son dernier souffle, à jeter un sortilège sur le traître, sortilège qui a piégé la bibliothèque entière dans un "trou noir" du monde spirituel : que l'on soit véritable humain ou personnage imaginaire, on pourrait désormais y entrer mais pas en sortir, aussi longtemps que le traître serait “en vie”. Les trois humains sont donc restés piégés en tant que fantômes (spectres s’incarnant par moments) dans ces lieux ; de même que les personnages imaginaires, qui peuvent cependant toujours aller et venir entre la bibliothèque souterraine et leur propre monde littéraire.
-
-Outre leurs propres objectifs, les joueurs doivent donc apprendre la différence entre ces différents types de protagonistes, et trouver le moyen de démasquer et détruire le traître, pour achever la malédiction et libérer les âmes errantes.
+Outre leurs propres objectifs, les joueurs doivent donc apprendre la différence entre ces différents types de protagonistes, et trouver le moyen de démasquer et détruire le traître, pour finaliser la malédiction et libérer les âmes errantes.
 
 Principes fondamentaux des différents mondes
 ============================================
@@ -59,64 +75,67 @@ C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y e
 Le monde des morts
 ------------------
 
-Il est composé des humains qui sont morts dans la bibliothèque après sa malédiction, et ne peuvent donc rejoindre l’au-delà. Ils se voient entre eux, mais ne peuvent pas se faire de mal mutuellement. Seules des armes humaines sacrées peuvent les atteindre, mais puisqu’ils ne peuvent pas échapper à la bibliothèque, ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
+Il est composé des humains qui sont morts dans la bibliothèque après sa malédiction, et ne peuvent donc rejoindre l’au-delà.
 
--  Lorsqu’ils sont “désincarnés”, les morts errent au hasard comme des spectres, entièrement recouverts de linceuls. Parfois, ils entrent en “frénésie”, et deviennent plus agressifs (par exemple lorsqu’un rituel a eu lieu non loin).
-
--  Pendant les moments où ils s’incarnent, les morts reprennent une apparence humaine, toujours vêtus de linceuls mais à visage découvert, et potentiellement avec quelques accessoires représentant leur vie entière ; ils gardent une certaine lenteurs dans les gestes, et si possible un visage blafard.
-
--  Lorsqu’ils sont en phase incarnée, les fantomes qui sont morts de façon **violente** sont “attachés” spirituellement à une lumière, qu’ils ne peuvent eux-mêmes bouger\ **, placée à l’endroit où ils sont morts**. Les joueurs peuvent parfois déplacer cette lumière pour amener le fantôme avec eux. Les morts de **vieillesse** errent librement (dont la Bête).
-
--  Les morts peuvent se toucher mutuellement, mais ne peuvent se nuire entre eux ; les incarnés peuvent “repousser” les spectre désincarnés.
-
--  A aucun moment les morts ne peuvent interagir avec les objets du monde vivant ; seule exception, le buffet est composé de plats et boissons compatibles avec tous les mondes.
-
--  Les morts peuvent être impactés par des armes et rituels sacrés du monde des vivants.
+- Les morts peuvent se voir et se toucher mutuellement, mais ne peuvent se nuire entre eux ; les fantomes incarnés peuvent “repousser” leurs congénères désincarnés.
 
 -  Les morts ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des livres.
 
+-  A aucun moment les morts ne peuvent interagir avec les objets du monde vivant ; seule exception, le buffet est composé de plats et boissons compatibles avec tous les mondes.
+
+- Seules des armes humaines sacrées peuvent les atteindre, mais puisqu’ils ne peuvent pas échapper à la bibliothèque, ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
+
+-  Lorsqu’ils sont “désincarnés”, les morts errent au hasard comme des spectres, entièrement recouverts de linceuls. Parfois, ils entrent en “frénésie”, et deviennent plus agressifs.
+
+-  Pendant les moments où ils s’incarnent, les morts reprennent une apparence humaine, toujours vêtus de linceuls mais à visage découvert, et potentiellement avec quelques accessoires représentant leur vie entière ; ils gardent une certaine lenteurs dans les gestes, et si possible un visage blafard.
+
+-  Lorsqu’ils sont en phase incarnée, les fantomes qui sont morts de façon **violente** sont “attachés” spirituellement à une lumière inamovible, **placée à l’endroit où ils sont morts**. Les morts de **vieillesse**, eux, errent librement (dont la Bête).
+
+-  Les morts peuvent être impactés par des armes et rituels sacrés du monde des vivants.
+
 -  Ils ne sont PAS soumis aux règles du “Serment de Zarathoustra”.
 
-Des entités “démoniaques”, faisant elles aussi partie du monde des morts, pourraient être invoquées dans ce contexte. Elles sont les mêmes propriétés, juste davantage de liberté, d’agressivité, et de pouvoirs magico-sacrés.
+- Des entités “démoniaques”, faisant elles aussi partie du monde des morts, pourraient être invoquées dans ce contexte. Elles auraient alors les mêmes propriétés que les fantomes, avec davantage de liberté, d’hostilité, et de pouvoirs magico-sacrés.
 
-Attention, les entités faisant partie du “\ **divin**\ ” (dont l’Ankou) sont aussi “dangereux malgré eux”, mais ils sont insensibles aux armes et aux sortilèges (dont la clôture magique).
+- Attention, les entités faisant partie du “\ **divin**\ ” (dont l’Ankou) sont aussi “dangereux malgré eux”, mais ils sont insensibles aux armes et aux sortilèges (dont la clôture magique).
+
 
 Le monde des livres
 -------------------
 
-Les personnages issus du monde littéraire, imaginaire, sont uniquement des héros auxquels l’enfant Octave a donné vie parce qu’il les admirait particulièrement. On les appelle aussi ”\ **avatars**\ ”.
+Les personnages issus du monde littéraire, imaginaire, sont uniquement des héros de roman auxquels l’enfant Octave a donné vie parce qu’il les admirait particulièrement. On les appelle aussi ”\ **avatars**\ ”.
 
 Ces personnages sont dans l’état où leurs auteurs les avaient laissés à la fin de leurs “histoires” respectives, et non selon ce que l’enfant sait/imagine d’eux. Ils ne vieillissent pas.
 
-Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils le désirent. Le temps s’écoule identiquement dans tous les mondes, mais dans leurs livres, les héros vivent un “éternel présent”, où leur situation est globalement immuable.
+Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils le désirent. Le temps s’écoule identiquement dans tous les mondes, mais dans leurs livres, les héros vivent un “éternel présent”, où leur situation est globalement immuable, puisque leur auteur a cessé son travail d'écriture.
 
-Si les héros meurent dans le monde réel, cela équivaut à une mort dans leur monde imaginaire (et soumise à leur propre système de croyances religieuses).
+- Si les héros meurent dans le monde réel, cela équivaut à une mort dans leur monde imaginaire (soumise à leur propre système de croyances religieuses).
 
 -  Ces héros portent leurs costumes et accessoires “typiques”.
 
+-  Ils peuvent interagir librement avec le monde des vivants et ses objets, sauf avec les “romans”, qu’il ne peuvent déplacer car ils portent en eux un univers entier
+
+-  Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher.
+
 -  Ils ne peuvent ramener aucun autre objet ou individu depuis/vers leur monde d’origine (pas mêmes des accessoires décoratifs).
 
--  Ils ne peuvent pas aller dans le monde d’autres avatars, ni accueillir dans leur monde des humains ou des fantômes.
-
--  Ils peuvent interagir librement avec le monde des vivants, sauf avec les “romans”, qu’il ne peuvent déplacer car ils portent en eux un univers entier
+-  Ils ne peuvent pas aller dans le monde d’autres avatars, ni accueillir dans leur monde des vivants ou des fantômes.
 
 -  Ils conservent les super-pouvoirs qu’ils peuvent avoir dans leur univers (regénération, force, sorts…)
-
--  Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher
 
 -  Ils ne sont PAS soumis aux règles du “Serment de Zarathoustra”.
 
 Le monde des automates (optionnel)
 ----------------------------------
 
-Avec les héros de roman, Octave avait conçu des automates pouvant par exemple faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience ou pouvoir magique. Certains peuvent parler, ou comprendre des ordres simples.
+Avec les héros de roman, Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler, ou comprendre des ordres simples.
 
-Les maîtres de jeu, photographes, servants du buffet, ont intérêt à faire partie de ce monde là.
+Les maîtres de jeu, photographes, et servants du buffet, ont intérêt à faire partie de ce monde là pour un surcroit d'ambiance et une bonne liberté d'action.
 
 Équipes de joueurs
 ==================
 
-Tout débute lorsque des explorateurs héliossars (ceux présents dans le jeu), profitant d’une rare conjonction astrale, résolvent l’énigme d’un vieux temple, et exhument ainsi une tablette couverte de runes. Hélas pour eux, l’image fuite, et fait le tour de la presse mondiale ; quelques groupes de personnes se révèlent capables de la déchiffrer, et de déterminer ainsi la localisation du légendaire Manoir des Maupertuis. Tous ces gens s’y rendent prestement, pour des raisons différentes, sans réaliser qu’ils se jettent ainsi dans la gueule du loup.
+Tout débute lorsque des explorateurs héliossars (ceux présents dans le jeu), à la recherche des secrets des Maupertuis, exhument des monolithes couverts d'inscriptions antiques. Hélas pour eux, des images de leur trouvaille fuitent, et font le tour de la presse mondiale ; quelques groupes de personnes se révèlent capables de la déchiffrer, et de comprendre ainsi le fonctionnement des portails menant à la bibliothèque des Maupertuis, portails actifs lors du {% symbol "solstice d'hiver" for "astral_opening_date" %} qui arrive. Tous ces gens s’y rendent prestement à cette date, pour des raisons différentes, sans réaliser qu’ils se jettent ainsi dans la gueule du loup.
 
 Les explorateurs héliossars
 ---------------------------
