@@ -168,10 +168,10 @@ Leur devise est **"Nobles de coeur comme de sang."**, le poing fermé sur le coe
 {% endmacro %}
 <{ parcival_group_symbols }/>
 
-Les diacres de Bahamut
-----------------------
+Les diacres de Bahamoot
+------------------------
 
-Ces 3 moines officient pour le culte du Dieu Bahamut, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des âmes errantes (les fantômes). Ils s’y rendent donc pour résoudre les problèmes, et protéger l’ordre des choses.
+Ces 3 moines officient pour le culte du Dieu Bahamoot, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des âmes errantes (les fantômes). Ils s’y rendent donc pour résoudre les problèmes, et protéger l’ordre des choses.
 
 {# **Il ont aussi ordre de détruire magiquement les 3 livres “maléfiques” que contient le domaine interdit des Maupertuis, de peur qu’ils ne tombent en de mauvaises mains (la bibliothèque ne peut pas juste être brûlée). ????????** NOPE #}
 
@@ -255,7 +255,7 @@ L’arkonte Valérias (paladin-exorciste devenu légendaire)
 
 -  L’arkonte sait s’être battu contre un agresseur qui résistait très bien à tous les types d'attaques (surtout sacrées) ; il se souvient, en mourant, avoir jeté la malédiction pour isoler les lieux du reste du monde, et rendu son squelette invulnérable pour ne pas disparaître sans laisser de traces ; il sait que c’est sa “lanterne spirituelle” qui l’ancre à un endroit précis
 
--  Un peu désabusé de voir que le culte païen de Bahamut a finalement remplacé le sien (culte yodique de confession mithraïte), dans le monastère à la surface
+-  Un peu désabusé de voir que le culte païen de Bahamoot a finalement remplacé le sien (culte yodique de confession mithraïte), dans le monastère à la surface
 
 -  Exige de pouvoir faire sa “confession de mission” à un prélat de la religion yodique, et uniquement dans ce cas il livre tout ce qu’il sait sur la situation ; n’aide que les joueurs en qui il a confiance pour mener à bien sa mission de protection de l’humanité (et qui ne vont pas simplement lever le confinement de la bibliothèque, en détruisant ainsi ses efforts)
 
@@ -720,7 +720,7 @@ Agents secrets mirandiens
 
 -  Crocheteur : Sait ouvrir des cadenas à clef (spéciaux transparents) avec un kit de crochetage **?** Sait aussi voir à travers les objets grâce au papier détecteur de magnétisme.
 
-Diacres de Bahamut (A CHANGER POUR Bahamoot)
+Diacres de Bahamoot (A CHANGER POUR Bahamoot)
 --------------------------------------------
 
 -  Désenvouteur : Reconnaissance des objets sacrés ou ensorcelés, et suppression des envoûtements dangereux (pentacles sur le sol, objets piégés…)
