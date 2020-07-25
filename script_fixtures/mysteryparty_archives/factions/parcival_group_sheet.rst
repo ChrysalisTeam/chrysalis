@@ -25,3 +25,4 @@ Il vous a fallu plus d'une demi-journée pour percer le fonctionnement de ce por
 <{ portal_to_library_opened }/>
 
 
+<{ parcival_group_symbols }/>

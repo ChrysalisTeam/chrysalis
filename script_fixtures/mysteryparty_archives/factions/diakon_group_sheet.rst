@@ -12,3 +12,7 @@ Vos investigations initiales n'ont rien donné.
 <{ monolith_found_by_explorers }/>
 
 <{ portal_to_library_opened }/>
+
+
+
+<{ diakon_group_symbols }/>

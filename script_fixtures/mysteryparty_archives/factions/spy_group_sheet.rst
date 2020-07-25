@@ -11,3 +11,6 @@ En désespoir de cause, le prince mirandien vous a envoyé sur les traces du tr�
 <{ monolith_found_by_explorers }/>
 
 <{ portal_to_library_opened }/>
+
+
+<{ spy_group_symbols }/>

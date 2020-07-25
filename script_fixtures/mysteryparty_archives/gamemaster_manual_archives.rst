@@ -66,11 +66,14 @@ Le monde des vivants
 
 C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y est identique au nôtre, puis s’est produit un “grand marasme” tectonique et climatique qui a tout chamboulé pendant des siècles. Les lois scientifiques, la psychologie des humains, sont identiques à notre monde, avec en plus la présence de “magie”.
 
--  Les vivants peuvent voir et entendre aussi bien les personnages du monde des morts que des livres, et peuvent toucher les personnages des livres
+- Les vivants peuvent voir et entendre aussi bien les personnages du monde des morts que des livres, et peuvent toucher les personnages des livres
 
 -  Pour un vivant, toucher un fantôme - incarné ou non - inflige de graves blessures de type “sacré” (et non “magique”), donnant un malus ou (si un malus a déjà eu lieu) la mort.
 
--  Les vivants sont soumis aux règles du “Serment de Zarathoustra”.
+- Les vivants sont par défaut sensibles aux attaques physiques, magiques et sacrées.
+
+- Les vivants sont soumis aux règles du “Serment de Zarathoustra”.
+
 
 Le monde des morts
 ------------------
@@ -83,15 +86,13 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 -  A aucun moment les morts ne peuvent interagir avec les objets du monde vivant ; seule exception, le buffet est composé de plats et boissons compatibles avec tous les mondes.
 
-- Seules des armes humaines sacrées peuvent les atteindre, mais puisqu’ils ne peuvent pas échapper à la bibliothèque, ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
+- Seules des attaques sacrées peuvent les atteindre, pas les attaques physiques ni magiques ; mais puisque présentement ils ne peuvent pas s'échapper à la bibliothèque, ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
 
 -  Lorsqu’ils sont “désincarnés”, les morts errent au hasard comme des spectres, entièrement recouverts de linceuls. Parfois, ils entrent en “frénésie”, et deviennent plus agressifs.
 
 -  Pendant les moments où ils s’incarnent, les morts reprennent une apparence humaine, toujours vêtus de linceuls mais à visage découvert, et potentiellement avec quelques accessoires représentant leur vie entière ; ils gardent une certaine lenteurs dans les gestes, et si possible un visage blafard.
 
 -  Lorsqu’ils sont en phase incarnée, les fantomes qui sont morts de façon **violente** sont “attachés” spirituellement à une lumière inamovible, **placée à l’endroit où ils sont morts**. Les morts de **vieillesse**, eux, errent librement (dont la Bête).
-
--  Les morts peuvent être impactés par des armes et rituels sacrés du monde des vivants.
 
 -  Ils ne sont PAS soumis aux règles du “Serment de Zarathoustra”.
 
@@ -121,14 +122,14 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 -  Ils ne peuvent pas aller dans le monde d’autres avatars, ni accueillir dans leur monde des vivants ou des fantômes.
 
--  Ils conservent les super-pouvoirs qu’ils peuvent avoir dans leur univers (regénération, force, sorts…)
+-  Ils conservent les super-pouvoirs qu’ils peuvent avoir dans leur univers (regénération, force, sorts…) ; dans le cas présents, tous les avatars sont sensibles aux attaques physiques et magiques, mais le sacré ne leur fait rien car leur "transcendance" n'est pas la même que les humains.
 
 -  Ils ne sont PAS soumis aux règles du “Serment de Zarathoustra”.
 
 Le monde des automates (optionnel)
 ----------------------------------
 
-Avec les héros de roman, Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler, ou comprendre des ordres simples.
+Avec les héros de roman, Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler, ou comprendre des ordres simples. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas sacrées ; cependant rien n'est censé leur arriver durant le jeu.
 
 Les maîtres de jeu, photographes, et servants du buffet, ont intérêt à faire partie de ce monde là pour un surcroit d'ambiance et une bonne liberté d'action.
 
@@ -140,11 +141,16 @@ Tout débute lorsque des explorateurs héliossars (ceux présents dans le jeu), 
 Les explorateurs héliossars
 ---------------------------
 
-Ces 3 aventuriers-archéologues tentent de préserver leur pays, Héliossar, contre les nouvelles envies de conquête de leur puissant voisin, la Théocratie akarite. Ils ont appris que les akarites avaient mis la main sur une copie du légendaire Thanatologue, la Livre des Morts d’une civilisation disparue, et en avaient tiré un plan pour une invasion “inéluctable” d’Héliossar. Ils recherchent donc l'exemplaire que les Maupertuis, d’après la légende, possédaient, afin de comprendre et surtout parer ce plan de conquête.
+Ces 3 aventuriers-archéologues tentent de préserver leur pays, Héliossar, contre les nouvelles envies de conquête de leur puissant voisin, la Théocratie akarite. Ils ont appris que les akarites avaient mis la main sur une copie du légendaire Thanatologue, le Livre des Morts d’une civilisation disparue, et en avaient tiré un plan pour une invasion “inéluctable” d’Héliossar. Ils recherchent donc l'exemplaire que les Maupertuis, d’après la légende, possédaient, afin de comprendre et surtout parer ce plan de conquête.
 
 Leurs compétences sont orientées vers les sciences physiques et humaines.
 
-Leur vêtement de reconnaissance est une **ceinture beige**.
+{% macro explorer_group_symbols() %}
+Le vêtement de reconnaissance des explorateurs héliossars est une **ceinture beige** (fournie par les organisateurs).
+
+Leur devise est **"le savoir est pouvoir"**, en pointant l'index vers le ciel.
+{% endmacro %}
+<{ explorer_group_symbols }/>
 
 La famille Parcival
 -------------------
@@ -155,7 +161,12 @@ Ces Parcival ont lu dans l’autobiographie de leur ancêtre Mérédice comment 
 
 Leurs compétences sont orientées vers la médecine et la magie.
 
-Leur vêtement de reconnaissance est un **jabot bleu-royal**.
+{% macro parcival_group_symbols() %}
+Le vêtement de reconnaissance des Parcival est un **jabot bleu-royal** (fourni par les organisateurs).
+
+Leur devise est **"Nobles de coeur comme de sang."**, le poing fermé sur le coeur.
+{% endmacro %}
+<{ parcival_group_symbols }/>
 
 Les diacres de Bahamut
 ----------------------
@@ -166,7 +177,12 @@ Ces 3 moines officient pour le culte du Dieu Bahamut, très ancré dans la régi
 
 Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 
-Leur vêtement de reconnaissance est une **étole violette** (écharpe portée en travers du torse).
+{% macro diakon_group_symbols() %}
+Le vêtement de reconnaissance des diacres de Bahamoot est une **étole violette** (écharpe portée en travers du torse, fournie par les organisateurs).
+
+Leur devise est **"le dragon est notre guide"**, les mains jointes en prière.
+{% endmacro %}
+<{ diakon_group_symbols }/>
 
 Les agents secrets mirandiens
 -----------------------------
@@ -177,7 +193,12 @@ Ces 3 agents étatiques ont donc remué ciel et terre pour retrouver le mythique
 
 Leurs compétences sont orientées vers les “gadgets technosteam”.
 
-Leur vêtement de reconnaissance est un **brassard vert émeraude**.
+{% macro spy_group_symbols() %}
+Le vêtement de reconnaissance des agents secrets mirandiens est un **brassard vert émeraude** (fournie par les organisateurs).
+
+Leur devise est **"Mirandia pour toujours brillera"**, avec un salut militaire la main contre la tempe.
+{% endmacro %}
+<{ spy_group_symbols }/>
 
 Figurants
 =========
