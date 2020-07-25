@@ -157,7 +157,7 @@ La famille Parcival
 
 Ces 3 frères et soeurs sont les lointains descendants de Mérédice De Maupertuis, la soeur d’Octave que tout le monde croyait morte avec sa famille, mais qui avait en réalité pu s’échapper et refaire sa vie.
 
-Ces Parcival ont lu dans l’autobiographie de leur ancêtre Mérédice comment ses parents, magiciens-quérisseurs, l’avaient soignée d’un grand mal héréditaire, la dégénérescence marbrée, grâce à un “Cocktail de Réjuvénation”. Lorsque leur petite soeur commune est tombée malade à son tour (il ne lui reste que quelques semaines à vivre), ils sont partis en quête du remède, et leur enquête les a menés jusqu’aux archives enfouies de leur ancien domaine familial.
+Ces Parcival ont lu dans l’autobiographie de leur ancêtre Mérédice comment ses parents, magiciens-quérisseurs, l’avaient soignée d’un grand mal héréditaire, la dégénérescence marbrée, grâce à un “Cocktail de Réjuvénation”. Lorsque leur petite soeur commune est tombée malade à son tour (il ne lui reste que quelques semaines à vivre), ils sont partis en quête du remède, et leur enquête les a menés jusqu’aux archives enfouies de l'ancien domaine familial.
 
 Leurs compétences sont orientées vers la médecine et la magie.
 
@@ -171,9 +171,9 @@ Leur devise est **"Nobles de coeur comme de sang."**, le poing fermé sur le coe
 Les diacres de Bahamut
 ----------------------
 
-Ces 3 moines officient pour le culte du Dieu Bahamut, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des créatures “outre-monde” (les héros de roman). ils s’y rendent donc pour renvoyer ces intrus chacun dans leur dimension, et protéger l’ordre universel.
+Ces 3 moines officient pour le culte du Dieu Bahamut, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des âmes errantes (les fantômes). Ils s’y rendent donc pour résoudre les problèmes, et protéger l’ordre des choses.
 
-**Il ont aussi ordre de détruire magiquement les 3 livres “maléfiques” que contient le domaine interdit des Maupertuis, de peur qu’ils ne tombent en de mauvaises mains (la bibliothèque ne peut pas juste être brûlée). ????????**
+{# **Il ont aussi ordre de détruire magiquement les 3 livres “maléfiques” que contient le domaine interdit des Maupertuis, de peur qu’ils ne tombent en de mauvaises mains (la bibliothèque ne peut pas juste être brûlée). ????????** NOPE #}
 
 Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 
@@ -189,7 +189,7 @@ Les agents secrets mirandiens
 
 L’île autonome de Mirandia, et son positionnement stratégique au centre de l’océan diorique, ont attiré les convoitises de ses voisins. Piégée par des complots économiques, surendettée, l’île est sur le point d’être annexée et vendue au plus offrant.
 
-Ces 3 agents étatiques ont donc remué ciel et terre pour retrouver le mythique (et “dangereux”) trésor de la famille Maupertuis, et sauver ainsi leur patrie de la famille.
+Ces 3 agents étatiques ont donc remué ciel et terre pour retrouver le mythique (et “dangereux”) trésor de la famille Maupertuis, et sauver ainsi leur patrie de la faillite.
 
 Leurs compétences sont orientées vers les “gadgets technosteam”.
 
@@ -212,9 +212,7 @@ Octave de Maupertuis (l’enfant)
 
 -  Traits : candeur, spontanéité, enthousiasme, affection
 
--  Histoire : voir “Le fond de l’intrigue”
-
--  Octave ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu, ni que c’est sa “lanterne spirituelle” qui l’ancre à un endroit précis.
+-  Octave ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu, ni pourquoi il est ancré à un endroit précis.
 
 -  Excité d’apprendre que les joueurs ont croisé l’archiviste (l’enfant sait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
 
@@ -222,22 +220,19 @@ Octave de Maupertuis (l’enfant)
 
 -  “Mes parents m’ont dit de ne jamais parler à des inconnus. Maître Parchemine aussi. Mais je m’ennuie trop, alors tant pis”
 
-**A CASER**
-
+{# BOF
 **Journal intime quelque part ?**
+**S'il arrive au coin enfant (avec jouet et peluche) il donne davantage d’informations ?**
+#}
 
-**Si on déplace sa lanterne jusqu’au coin enfant (avec jouet et peluche) il donne davantage d’informations ?**
-
-Monsieur Sigisbert Parchemine (l’archiviste et précepteur)
-----------------------------------------------------------
+Monsieur Sigisbert Parchemine (précepteur d'Octave et archiviste )
+------------------------------------------------------------------------
 
 -  FANTÔME
 
 -  Traits : jovialité, sagesse, bienveillance, paternalisme, méticulosité
 
--  Histoire : voir “Le fond de l’intrigue”
-
--  L’archiviste ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu (soupçonne une trahison de l’arkonte), ni que c’est sa “lanterne spirituelle” qui l’ancre à un endroit précis.
+-  L’archiviste ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu (soupçonne une trahison de l’arkonte), ni pourquoi il est ancré à un endroit précis.
 
 -  Excité d’apprendre que les joueurs ont croisé l’enfant (l’archiviste sait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
 
@@ -245,13 +240,11 @@ Monsieur Sigisbert Parchemine (l’archiviste et précepteur)
 
 -  S’assure de la bonne volonté des joueurs grâce au “Serment de Zarathoustra”, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
 
-**A CASER OU ANNULER**
-
+{# BOF
 **Faiblesse face aux méchants : adore les livres : fera tout ce qu’on lui demande si on menace un livre**
-
 **Ne sait plus comment est rangée la bibliothèque,**
-
 **Peut retrouver la fiche des emprunts du garçon : cette fiche liste les livres des PNJ notamment les tomes dont est issu le méchant.**
+#}
 
 L’arkonte Valérias (paladin-exorciste devenu légendaire)
 --------------------------------------------------------
@@ -260,11 +253,9 @@ L’arkonte Valérias (paladin-exorciste devenu légendaire)
 
 -  Traits : méfiance, sens du devoir, bonne volonté, intelligence, sévérité
 
--  Histoire : voir “Le fond de l’intrigue”
+-  L’arkonte sait s’être battu contre un agresseur qui résistait très bien à tous les types d'attaques (surtout sacrées) ; il se souvient, en mourant, avoir jeté la malédiction pour isoler les lieux du reste du monde, et rendu son squelette invulnérable pour ne pas disparaître sans laisser de traces ; il sait que c’est sa “lanterne spirituelle” qui l’ancre à un endroit précis
 
--  L’arkonte sait s’être battu contre un agresseur qui résistait très bien aux attaquex physiques, magiques et sacrées ; il se souvient, en mourant, avoir jeté la malédiction pour isoler les lieux du reste du monde, et rendu son squelette invulnérable pour ne pas disparaître sans laisser de traces ; il sait que c’est sa “lanterne spirituelle” qui l’ancre à un endroit précis
-
--  Un peu désabusé de voir que le culte païen de Bahamut a finalement remplacé le sien (culte yodique de confession mithraïte), à la surface
+-  Un peu désabusé de voir que le culte païen de Bahamut a finalement remplacé le sien (culte yodique de confession mithraïte), dans le monastère à la surface
 
 -  Exige de pouvoir faire sa “confession de mission” à un prélat de la religion yodique, et uniquement dans ce cas il livre tout ce qu’il sait sur la situation ; n’aide que les joueurs en qui il a confiance pour mener à bien sa mission de protection de l’humanité (et qui ne vont pas simplement lever le confinement de la bibliothèque, en détruisant ainsi ses efforts)
 
@@ -292,7 +283,7 @@ L’Ankou (le guide des âmes, le “psychopompe”)
 
 -  Il ne passe que brièvement dans la bibliothèque en faisant sa tournée, puis peut être “invoqué” par les joueurs pour continuer à interagir.
 
--  “Pourquoi vous flippez, là, les humains qui vous cachez derrière les rayons ! Vous croyez que je ne vous vois pas ? Je ne suis pas un psychopathe, vous devriez plutôt me remercier, sans moi vous auriez l’air fin pour rejoindre le royaume des morts ! Allez sortez, tant que vous ne venez pas me tripoter, vous n’avez rien à craindre de moi ! Comme si j’allais me rajouter du travail supplémentaire en butant des humains qui ne m’ont rien fait, dans ce lieu qui est déjà maudit ! mais qu’est-ce que vous êtes venus faire ici, comme si c’était pas déjà assez le souk !”
+-  “Pourquoi vous flippez, là, les humains qui vous cachez derrière les rayons ! Vous croyez que je ne vous vois pas ? Je ne suis pas un psychopathe, vous devriez plutôt me remercier, sans moi vous auriez l’air fin pour rejoindre le royaume des morts ! Allez sortez, tant que vous ne venez pas me tripoter, vous n’avez rien à craindre de moi ! Comme si j’allais me rajouter du travail supplémentaire en butant des humains qui ne m’ont rien fait, dans ce lieu qui est déjà maudit ! Mais qu’est-ce que vous êtes venus faire ici d'ailleurs, comme si c’était pas déjà assez le boxon !”
 
 -  “J’ai l’air de quoi moi, aux réunions inter-spirituelles !? A chaque fois je me fais charrier, genre ‘alors cette affaire Maupertuis, ça avance toujours pas ?’. J’ai une réputation à tenir moi ! Des fantômes qui squattent un caveau pendant des siècles, ça fait tache ! Sans parler de la bestiole là-haut ! C’est contre l’ordre des choses, donc que chacun y mette du sien pour comprendre ce qui cloche ! ”
 
@@ -303,11 +294,11 @@ La Bête (gardienne du Domaine Interdit)
 
 -  FANTÔME (anciennement une goule des cavernes, “embauchée” et enchantée pour être plus dangereuse et ne pas avoir besoin de se nourrir)
 
--  Traits : agressif, sournois, non-communiquant
+-  Traits : agressive, sournoise, non-communiquante
 
 -  Dressée par les parents d’Octave pour garder les grimoires les plus dangereux, dans le Domaine interdit
 
--  Ne reconnaît personne comme ami (seuls les parents d’Octave et Mérédice avaient pouvoir sur elle, ni l’archiviste ni Octave n’auraient été épargnés s’ils avaient pénétré le domaine interdit)
+-  Ne reconnaît personne comme ami (seuls les parents d’Octave et Mérédice avaient pouvoir sur elle, ni l’archiviste ni Octave n’auraient été épargnés s’ils avaient pénétré dans le domaine interdit)
 
 -  Morte de vieillesse, et devenue encore plus féroce à force d’errer sans but dans le domaine interdit
 
@@ -345,11 +336,11 @@ L’inventeur-scientiste (Sir Vaucanson)
 
 -  **LE RESTE EST A DETERMINER**
 
-La princesse guerrière ? Enchanteresse ?
-----------------------------------------
+La princesse-enchanteresse (Dame XXXXXXX)
+---------------------------------------------
 
-AUTRES HEROS DE ROMAN : A TROUVER !!!!!
----------------------------------------
+TODO
+
 
 Lieux
 =====
@@ -365,7 +356,7 @@ Etage du bas (bibliothèque normale)
 
 -  La mini-jungle que le druide et l’enfant avaient créée
 
--  Le buffet dinatoire des 3 mondes (mis en place automatiquement par les héros de roman et les automates)
+-  Le buffet dinatoire des 4 mondes (mis en place automatiquement par les héros de roman et les automates)
 
 -  Le pentacle du rituel inachevé de l’arkonte.
 
@@ -380,7 +371,7 @@ Accès initialement impossible aux joueurs et aux héros de roman
 
 -  Le coin du voleur
 
--  **La niche de la bête ?**
+-  **La niche de la bête ????**
 
 -  Le saint-des-saints (contenant le Livre des Ombres akarite)
 
@@ -401,19 +392,19 @@ Un joueur est blessé dans les cas suivants :
 
 -  S’il touche un objet manifestement maudit (ossements animés, coffre avec symbole de malédiction…)
 
--  S’il pose le pied sur le pentacle du rituel inachevé
+-  S’il pose le pied sur le pentacle du rituel inachevé ????
 
 -  S’il tente de passer de force dans le Domaine Interdit sans lever la protection d’abord
 
 Un joueur attaqué par la Bête et sans protections meurt inévitablement.
 
-A la discrétion du MJ, le malus peut être de devenir muet, ou d’avoir les mains liées dans le dos, ou de ne plus pouvoir utiliser ses compétences, pendant une durée de 10 à 15 minutes.
+A la discrétion du MJ, le malus reçu par le joueur peut être de devenir muet, ou d’avoir les mains liées dans le dos, ou de ne plus pouvoir utiliser ses compétences, pendant une durée de 10 à 15 minutes.
 
 Chaque joueur ne peut se prendre qu’un malus au maximum pendant la partie ; en cas de récidive, il meurt dans tous les cas.
 
 Si un joueur meurt, il devient un fantôme, et ne peut plus manipuler d’objets (pas même sa tablette tactile de compétences), mais il garde ses connaissances acquises ; il ne peut se déplacer que dans une zone de 3m autour de la lanterne de son groupe ; il reste cependant constamment incarné, contrairement aux anciens fantômes.
 
-Avec le bon rituel, il est possible de ressusciter un joueur à l’état de zombie pour quelques heures ; le joueur retrouve alors toutes ses capacités, il mais doit adopter une posture et un langage de zombie “à l’ancienne” (ex. Il peut marcher relativement vite mais ne peut pas courir).
+Avec le bon rituel, il est possible de ressusciter un joueur à l’état de zombie pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de zombie “à l’ancienne” (ex. Il peut marcher en titubant mais ne peut pas courir).
 
 Événements rythmant le jeu
 ==========================
@@ -430,7 +421,7 @@ L’entrée en en scène des joueurs (temps 0h00)
 
 Chaque groupe arrive dans l’étage du bas de la bibliothèque par un accès différent (ou avec un délai de quelques minutes).
 
-Les fantômes se déplacent tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; l’archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “serment de Zarathoustra”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les héros de romans), en cette date anniversaire du drame, comme tous les 100 ans.
+Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; l’archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “serment de Zarathoustra”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les héros de romans), en cette date anniversaire du drame, comme tous les 100 ans.
 
 L’ouverture du buffet (temps 0h30)
 ----------------------------------
@@ -446,13 +437,8 @@ Le passage de l’Ankou (temps 1h)
 
 L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils n’ont rien à faire ici, qu’il n’est pas “la Bête”, qu’il ne leur veut pas de mal, puis finalement qu’il compte sur eux pour l'aider à résoudre le problème de ces âmes prisonnières des lieux. Il leur explique comment l’invoquer depuis l’au-delà si besoin est, puis repart.
 
-L’ouverture du passage vers le domaine interdit (+ la Bête)
------------------------------------------------------------
-
-TODO
-
-Le druide trouve des grimoires de magie dans l’étage interdit
--------------------------------------------------------------
+Le druide trouve des grimoires de magie dans l’étage interdit (temps 2h30)
+------------------------------------------------------------------------------------
 
 Il semble très réjoui, et s’isole pour les lire près du pentacle (il surveille ainsi que personne ne cherche à le renvoyer de force dans son propre univers romanesque).
 
@@ -461,7 +447,7 @@ L’épilogue musical
 
 Faire éteindre aux joueurs leurs lanternes, pour augmenter l’ambiance.
 
-Une bande son est jouée, pour une scène assez chorégraphiée.
+Une bande-son est jouée, pour une scène assez chorégraphiée.
 
 Les héros de roman restants s’auto-bannissent de ce monde grâce au pentacle du rituel.
 
@@ -503,8 +489,6 @@ IMPORTANT: les héros de roman ont eu très longtemps pour fouiller l’étage a
 
 -  Y A T IL 3 grimoires légendaires à mettre à l’abri hors de la bibliothèque ?
 
--  Est-ce que la bibli ne se reconnecte au reste du monde que chaque année ?
-
 -  Un joueur a PORTE-VOIX ??
 
 -  Mettre des énigmes physiques pour récupérer des objets, façon Fort Boyard (ou réutilisant les défis steampunk, contre un opposant fantomatique...)
@@ -516,8 +500,6 @@ IMPORTANT: les héros de roman ont eu très longtemps pour fouiller l’étage a
 -  Survie ? Microfilms ? QR Codes ? Appel au central des connaissances ?
 
 -  + restaurateur de textes effacés (ou ça fait doublon) ? + kit d’analyse gemmologique (bof) ?
-
--  EXPLOSIF pour détruire uniquement éboulis ???
 
 -  Besoin de protection pendant le rituel, car fantomes arrivent ?
 
@@ -531,7 +513,6 @@ IMPORTANT: les héros de roman ont eu très longtemps pour fouiller l’étage a
 
 -  Un des joueurs est ERUDIT, peut déchiffrer les mots perdus depuis longtemps
 
--  **TODO**
 
 Accéder au domaine interdit (utile à tous)
 ------------------------------------------
@@ -714,8 +695,8 @@ Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétis
 
 **TODO ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...**
 
-Rôles spécifiques des joueurs
-=============================
+Rôles spécifiques des joueurs (A SUPPRIMER CAR REDONDANT)
+=============================================================
 
 Ces rôles peuvent être facilement réaffectés ou cumulés à l’intérieur d’une équipe, en cas de changements dans les joueurs présents. Ils viennent en plus des compétences communes à tous les joueurs (chercher des objets, utiliser des clefs, discuter avec des figurants), qui sont aussi nécessaires pour progresser dans les énigmes.
 
