@@ -8,9 +8,9 @@ Vous avez passé les soirées de votre enfance à déchiffrer les quelques livre
 Les ingrédients que vous possédez
 ------------------------------------------
 
-{# voir https://harrypotter.fandom.com/fr/wiki/Cat%C3%A9gorie:Ingr%C3%A9dients_de_potions #}
+{# voir https://harrypotter.fandom.com/fr/wiki/Cat%C3%A9gorie:Ingr%C3%A9dients_de_potions et https://sain-et-naturel.ouest-france.fr/voici-liste-plantes-medicinales.html#}
 
-Au domicile familial : Alchémille, Bile de tatou, Chrysope, Champignon écarlate, Digitale, Essence de ciguë, Foie de chauve-souris, Huile de ricin, Livèche, Mandragore, Œil de triton, Pierre de lune, Polygonum, Rosée d'éclair, Sang de salamandre, Sumac vénéneux, Tentacule de poulpe, Venin de tarantule.
+Au domicile familial : Alchémille, Bile de tatou, Chrysope, Champignon écarlate, Digitale, Essence de ciguë, Ether, Foie de chauve-souris, Huile de ricin, Joubarbe, Livèche, Mandragore, Œil de triton, Pierre de lune, Polygonum, Rosée d'éclair, Sang de salamandre, Sumac vénéneux, Seigle barbaquin, Venin de tarantule.
 
 Sur vous lors de votre expédition: <TODO A LISTER>
 

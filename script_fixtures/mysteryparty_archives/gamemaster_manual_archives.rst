@@ -517,17 +517,17 @@ IMPORTANT: les héros de roman ont eu très longtemps pour fouiller l’étage a
 Accéder au domaine interdit (utile à tous)
 ------------------------------------------
 
-Des carrés retournables, sur un panneau (ou une application sur tablette tactile) permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon symbole entier pour ouvrir le passage
+Des carrés retournables, sur un panneau (ou une application sur tablette tactile) {% hint "runes_enigma_puzzle_app" is needed %} permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon symbole entier pour ouvrir le passage
 
--  Des runes sur le journal d’Octave (trouvé sur sa tombe) indiquent qu’il faut la superposition du symbole secret de la famille Maupertuis, et du symbole secret d’un héritier (ici Octave) pour pouvoir ouvrir le passage.
+-  Des runes sur le journal d’Octave (trouvé sur sa tombe) indiquent qu’il faut la superposition du symbole secret de la famille Maupertuis, et du symbole secret d’un héritier (ici Octave) pour pouvoir ouvrir le passage. {% hint "octave_diary_with_runes_enigma_puzzle_hint" is needed %}
 
--  Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé dans le domaine interdit (il en avait la défense absolue, sous peine de mourir sous les coups de la Bête).
+-  Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé dans le domaine interdit (il en avait la défense absolue, sous peine de mourir sous les coups de la Bête). {% fact "octave_knows_about_runes_enigma_puzzle" %}
 
--  Le symbole propre à Octave est magiquement en surbrillance sur son avant-bras de fantôme, et il le sait.
+-  Le symbole propre à Octave est magiquement en surbrillance sur son avant-bras de fantôme, et il le sait. {% hint "octave_has_hair_symbol_on_arm" is needed %}
 
--  Le symbole de la famille est sur la couverture d’un livret “Généalogie des Maupertuis”, qui est dans le coffre de Quirinius, dont la clef est dans le “\ **XXXX [livre factice non scellé]**\ ” (Octave connait juste cette phrase d’indice, qui lui avait été laissée “au cas où quelque chose arrivait”).
+-  Le symbole de la famille est sur la couverture d’un livret “Généalogie des Maupertuis”, {% hint "book_with_family_symbol" is needed %} qui est dans le coffre de {% symbol "Quirinius" for "maupertuis_father" %}, {% hint "quirinius_chest_closed_by_key" is needed %} dont la clef est dans le livre factice "{% symbol "Venture Prins" for "name" %}" {% hint "quirinius_chest_by_key_in_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé “au cas où quelque chose arrivait”). {% fact "octave_knows_venture_prins_name" %}
 
--  L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice, contenant la clef de coffre en question.
+-  L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice, contenant la clef de coffre en question. {% fact "archivist_knows_venture_prins_location" %}
 
 -  Le code peut aussi être demandé aux parents défunts, plus tard, via l’Ankou.
 
@@ -538,7 +538,7 @@ Neutraliser la bête des Maupertuis (utile à tous)
 
 Le domaine interdit des Maupertuis, rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes mais hautement dangereuses. Lors de la malédiction de la bibliothèque, celle qui s’y trouvait y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et ultra-agressive, elle est plus dangereuse que jamais.
 
-La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme un chien effarouché.
+La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouché.
 
 Une fois que l’accès au domaine interdit est ouvert, la bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. L’archiviste les encourage donc à planifier de quoi la mettre hors d’état de nuir durablement.
 
@@ -547,31 +547,35 @@ Pour neutraliser la bête :
 -  La bête “sent” les vivants qui se trouvent à moins de 3m, mais voit très mal au delà. Il est donc possible de se promener dans le domaine interdit en l’évitant soigneusement, mais cela reste très dangereux.
 
 -  L’arkonte avait une armure sacrée protégeant des attaques “sacrées”, c’est à dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la bête.
+   {% hint "arkon_sacred_armor" is needed %}
 
--  **L’exorciste** peut faire fuir la bête pendant **30 secondes** avec un de ses rituels !
+-  **L’exorciste** peut faire fuir la bête pendant **30 secondes** avec un de ses rituels ! {% fact "diakon_exorcist_can_chse_away_beast_temporarily" %}
 
--  L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la bête fantomatique (la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la bête reviendrait dans ce cas un peu plus tard, encore plus féroce.
+-  L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la bête fantomatique (la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la bête reviendrait dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
 
--  **L’invocateur** connait un rituel capable de “geler” pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu.
+-  **L’invocateur** connait un rituel capable de “geler” pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% fact "diakon_invoker_can_freeze_beast_for_days" %}
+
 
 Le remède contre la dégénérescence marbrée (famille Parcival)
 -------------------------------------------------------------
 
--  L'archiviste se souvient très bien de la maladie de Mérédice De Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un Cocktail de Réjuvénation. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l‘étage autorisé).
+-  L'archiviste se souvient très bien de la maladie de Mérédice De Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un Cocktail de Réjuvénation. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l‘étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe" %}
 
--  Le Cocktail de Réjuvénation demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse).
+-  Le Cocktail de Réjuvénation demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "rejuvenation_cocktail_recipe" is needed %}
+  {% hint "flex_elixir_recipe" is needed %} {% hint "clarity_lotion_recipe" is needed %} {% hint "pyrolitis_tincture_recipe" is needed %}
 
--  Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec le **scanner multi-fréquences**.
+-  Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec le **scanner multi-fréquences**. {% hint "radio_frequency_scanner_app" is needed %}
 
--  Ces deux potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival (ils le savent, avec une liste comme https://sain-et-naturel.ouest-france.fr/voici-liste-plantes-medicinales.html), elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide et de l’érudit** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà.
+-  Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà. {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
--  La dernière potion, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille de Maupertuis.
+-  La dernière potion, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_with_tincture_shelf" is needed %}
 
--  Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé, un dans **le coffre-fort** de l’étage interdit.
+-  Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé, un dans un **corridor toxique** de l’étage interdit.
 
--  Enfin, il faut un récipient avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre).
+-  Enfin, il faut un récipient avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "undestroyable_copper_cauldron_on_alchemy_table" is needed %}
 
 -  Une fois tous les ingrédients rassemblés (pas besoin de préparer effectivement les potions), la famille a réussi cette mission, à condition qu’elle puisse quitter les lieux.
+
 
 Le Thanatologue (explorateurs héliossars)
 -----------------------------------------
@@ -580,9 +584,9 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 
 -  Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre (l’archiviste le sait et le dit par avance).
 
--  **Quirinius De Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans son coffre privé (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d\ **’écriture invisible UV**.
+-  **{% symbol "Quirinius" for "maupertuis_father" %} De Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans son coffre privé (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d\ **’écriture invisible UV**.
 
--  **Isadora De Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher.
+-  **{% symbol "Isadora" for "maupertuis_mother" %} De Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher.
 
 -  Le Thanatologue se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie intelligente - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne.
 
@@ -695,7 +699,7 @@ Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétis
 
 **TODO ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...**
 
-Rôles spécifiques des joueurs (A SUPPRIMER CAR REDONDANT)
+Rôles spécifiques des joueurs (A SUPPRIMER CAR REDONDANT???)
 =============================================================
 
 Ces rôles peuvent être facilement réaffectés ou cumulés à l’intérieur d’une équipe, en cas de changements dans les joueurs présents. Ils viennent en plus des compétences communes à tous les joueurs (chercher des objets, utiliser des clefs, discuter avec des figurants), qui sont aussi nécessaires pour progresser dans les énigmes.
