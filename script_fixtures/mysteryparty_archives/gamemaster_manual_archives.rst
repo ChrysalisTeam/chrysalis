@@ -561,8 +561,8 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 -  L'archiviste se souvient très bien de la maladie de Mérédice De Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un Cocktail de Réjuvénation. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l‘étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe" %}
 
--  Le Cocktail de Réjuvénation demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "rejuvenation_cocktail_recipe" is needed %}
-  {% hint "flex_elixir_recipe" is needed %} {% hint "clarity_lotion_recipe" is needed %} {% hint "pyrolitis_tincture_recipe" is needed %}
+-  Le Cocktail de Réjuvénation demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
+  {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
 -  Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec le **scanner multi-fréquences**. {% hint "radio_frequency_scanner_app" is needed %}
 
@@ -724,8 +724,8 @@ Agents secrets mirandiens
 
 -  Crocheteur : Sait ouvrir des cadenas à clef (spéciaux transparents) avec un kit de crochetage **?** Sait aussi voir à travers les objets grâce au papier détecteur de magnétisme.
 
-Diacres de Bahamoot (A CHANGER POUR Bahamoot)
---------------------------------------------
+Diacres de Bahamoot
+-----------------------
 
 -  Désenvouteur : Reconnaissance des objets sacrés ou ensorcelés, et suppression des envoûtements dangereux (pentacles sur le sol, objets piégés…)
 

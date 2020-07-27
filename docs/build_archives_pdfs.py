@@ -11,7 +11,7 @@ from collections import OrderedDict
 from pprint import pprint
 
 from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_game_data_dump_is_present, \
-    _extract_ingame_clues_text_from_odt
+    _extract_ingame_clues_text_from_odt, _generate_clues_pdfs_from_main_odt_document
 from rpg_sheet_generator import display_and_check_story_tags
 
 IS_STANDALONE = True
@@ -22,7 +22,7 @@ DISABLE_DECORATIONS = False
 
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_archives")
 TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
-#ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_archives.odt")
+ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_archives.odt")
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
@@ -82,7 +82,10 @@ COMMON_LORE_DOCS = [
 # BEWARE, be careful when regenerating PDF clues, that their titles and content match well!
 
 INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, number_of_mages)
-    ("someclue", 1),
+    ("recipe_flex_elixir_and_clarity_lotion", 1),
+    ("recipe_pyrolitis_tincture", 1),
+    ("recipe_rejuvenation_cocktail", 1),
+    ("secret_codes", 1),
 ]
 
 # documents without decorations, typically ; one can provide a LIST of RST files
@@ -233,10 +236,11 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:
+    if True:
         # export clues into a myriad of small PDFs
-        _generate_clues_pdfs_from_main_odt_document()
-
+        _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
+                                                    clues_parts=INGAME_CLUES_PARTS,
+                                                    output_dir=DOCUMENTS_OUTPUT_DIR)
     # -------------
 
     if False:  # BEWARE DANGEROUS
@@ -298,9 +302,8 @@ def generate_archives_sheets():
             build_archives_pdf(parts, filename_base="player_%s_sheet_full" % player,
                                 title="%s" % character_displayed_name, jinja_context=player_data)
 
-    # then character cheat sheets
+    # then character cheat sheets - USELESS HERE????
     if False:
-        full_extracts_rst = ""
         for player in sorted(players_names_set_no_shark):
             parts = ["players/%(player_name)s_cheat_sheet.rst" % dict(player_name=player),
                      "players/%(player_name)s_specific_abilities.rst" % dict(player_name=player),
@@ -317,11 +320,11 @@ def generate_archives_sheets():
     # -------------
 
     # then resolve fact/hint tags from the ODT clues file
-    if False:
+    if True:
         print("Extracting ingame clues text from ODT file")
         content = _extract_ingame_clues_text_from_odt(ALL_CLUES_DOCUMENT)
         ##print(content[:1000].encode('ascii', 'ignore'))
-        assert "Inutilisé" in content  # comments are well included
+        assert "petite sœur des Parcival" in content  # comments are well included
 
         # no need for variables nor rendered output, we just fill fact-check registries
         rpg.render_with_jinja_and_fact_tags(
