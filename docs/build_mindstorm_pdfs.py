@@ -25,7 +25,7 @@ DISABLE_DECORATIONS = False
 
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_mindstorm")
 TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
-ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues.odt")
+ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_mindstorm.odt")
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
