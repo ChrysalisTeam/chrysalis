@@ -29,7 +29,7 @@ L'histoire des Maupertuis et des Avatars
 
 **La malédiction de la bibliothèque remonte à 500 ans, par rapport au temps du jeu.**
 
-Le jeune garçon, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a eu une histoire tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles de {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du {% symbol "cardinal Tridentès" for "old_guru_name" %}, lors du grand marasme planétaire. Sa soeur **{% symbol "Mérédice" for "maupertuis_sister" %}** a pu s’enfuir et refaire sa vie ailleurs (fondant une lignée qui deviendra les **Parcival**), mais l'enfant ne l’a jamais su.
+Le jeune garçon, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a eu une histoire tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles de {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du {% symbol "cardinal Tridentès" for "old_guru_name" %}, lors du grand marasme planétaire. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a pu s’enfuir et refaire sa vie ailleurs (fondant une lignée qui deviendra les **Parcival**), mais l'enfant ne l’a jamais su.
 
 {% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur-archiviste **maître Parchemine** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) était détruit, mais il restait des portails secondaires vers d'autres chateaux de magiciens - la plupart en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du {% symbol "solstice d'hiver" for "astral_opening_date" %}, moment d'une traditionelle célébration de la nouvelle année.
 
@@ -570,7 +570,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 -  La dernière potion, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_with_tincture_shelf" is needed %}
 
--  Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé, un dans un **corridor toxique** de l’étage interdit.
+-  Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé, un dans un **corridor toxique** de l’étage interdit. {# Story tags for this are in the clues document #}
 
 -  Enfin, il faut un récipient avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "undestroyable_copper_cauldron_on_alchemy_table" is needed %}
 
@@ -580,38 +580,38 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 Le Thanatologue (explorateurs héliossars)
 -----------------------------------------
 
-Un des rares exemplaires de ce mythique et controversé ouvrage a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste indique aux explorateurs-archéologues après avoir vérifié leur bonne volonté.
+Un des rares exemplaires de ce mythique et controversé ouvrage a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste indique aux explorateurs-archéologues après avoir vérifié leur bonne volonté. {% hint "forbidden_zone_thanatologue_chest" is needed %}
 
 -  Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre (l’archiviste le sait et le dit par avance).
 
--  **{% symbol "Quirinius" for "maupertuis_father" %} De Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans son coffre privé (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d\ **’écriture invisible UV**.
+-  **{% symbol "Quirinius" for "maupertuis_father" %} De Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans son coffre privé (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d\ **’écriture invisible UV**. {% hint "quirinius_notebook_with_thanatologue_chest_uv_code" is needed %}
 
--  **{% symbol "Isadora" for "maupertuis_mother" %} De Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher.
+-  **{% symbol "Isadora" for "maupertuis_mother" %} De Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher. {% fact "isadora_can_tell_thanatologue_chest_code_from_heaven" %} {% fact "thief_knows_about_isadora_thanatologue_chest_code" %}
 
--  Le Thanatologue se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie intelligente - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne.
+-  Le Thanatologue se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une contre-mesure, dans le thanatologue, en appelant à viser en priorité les désenvouteurs du camp adverse. {% hint "thanatologue_book_with_zombie_spell_and_counterspell_hints" is needed %}
 
--  L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements capables d’empêcher leur “réanimation” à partir de cadavres.
+-  L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
--  Un **message UV** donne un indice sur cette contre-mesure, dans le thanatologue, en appelant à viser en priorité les désenvouteurs du camp adverse.
+-  Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien ne la profane. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
 
--  Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien ne la profane. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire.
+-  L’oracle a une vision d’un affrontement entre une légion de morts-vivants, dirigés par des nécromanciens, et une terre fertile et pacifique, enchantée par une figure brandissant un bâton coiffé d'un symbole : **{% symbol "soleil contenant un tourbillon" for "scepter_for_magic_amplification_symbol" %}**.
+   {% hint "parcival_oracle_vision_about_necromancers_and_scepter_amplificans" is needed %}
 
--  L’oracle a une vision d’un affrontement entre une légion de morts-vivants, dirigés par des nécromanciens, et une terre fertile et pacifique, enchantée par une figure brandissant un bâton orné d’une **boule lumineuse ???**.
+-  L’arkonte se souvient de ces **{% symbol "Sceptres Amplificans" for "scepter_for_magic_amplification_name" %}** légendaires, disparus de la circulation des siècles avant lui-même, et de leur symbole. Il conseille de chercher des traces de cela dans la bibliothèque."".
+   {% hint "arkon_has_hints_about_scepter_amplificans" is needed %}
 
--  L’arkonte se souvient de ce **Sceptre d’Onyx** légendaire, disparu des siècles avant lui-même, et de son symbole.
-
--  Plusieurs allées de l’étage interdit se finissent en cul-de-sac, et 3 d’entre elles sont protégées par d’imposants pièges. L’une d’elle porte en UV le sigle du **Sceptre d’Onyx.** Il faut donc soit désactiver les pièges pour accéder au coffret qui est au fond, soit utiliser le **médaillon de téléportation** du voleur pour cela. Le coffret contient, sans protection, le sceptre en question
+-  Plusieurs allées de l’étage interdit se finissent en cul-de-sac, et 3 d’entre elles sont protégées par d’imposants pièges. L’une d’elle porte en UV le sigle des **{% symbol "Sceptres Amplificans" for "scepter_for_magic_amplification_name" %}**. Il faut donc soit désactiver les pièges pour accéder au coffret qui est au fond, soit utiliser le **médaillon de téléportation** du voleur pour cela. Le coffret contient, sans protection, le sceptre en question {% hint "scepter_amplificans_in_trapped_corridor" is needed %}
 
 -  Avec le sceptre et la formule du désenvoûtement, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
 Le trésor des Maupertuis (les agents secrets mirandiens)
 --------------------------------------------------------
 
-Les agents secrets ont des traces d’antiques récits vantant la fortune “surnaturelle” de la famille Maupertuis, jamais exhumée à ce jour.
+Les agents secrets ont vu des traces d’antiques récits vantant la fortune “surnaturelle” de la famille Maupertuis, jamais exhumée à ce jour.
 
-Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langage énigmatique comme ses parents ont réuni “trois micro-codex”, puis comment alors qu’un “grimoire chantant” se fait entendre, la “manivelle mise en mouvement déverse des torrents de richesses”.
+Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langage énigmatique comme ses parents ont réuni “trois micro-codex”, puis comment alors qu’un “grimoire chantant” se fait entendre, la “manivelle mise en mouvement déverse des torrents de richesses”. {% hint "meredice_diary_about_treasure_for_spy_group" is needed %}
 
-Un **oracle déclenché par un grillon de l’étage autorisé**, montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques.
+Un **oracle déclenché par un grillon de l’étage autorisé**, montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques.  {% hint "parcival_oracle_vision_about_water_mill" is needed %}
 
 Les joueurs doivent comprendre qu’il s’agit d’un moulin à poivre simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit.
 
