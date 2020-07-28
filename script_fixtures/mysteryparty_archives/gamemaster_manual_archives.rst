@@ -613,21 +613,23 @@ Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langa
 
 Un **oracle déclenché par un grillon de l’étage autorisé**, montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques.  {% hint "parcival_oracle_vision_about_water_mill" is needed %}
 
-Les joueurs doivent comprendre qu’il s’agit d’un moulin à poivre simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit.
+Les joueurs doivent comprendre qu’il s’agit d’un moulin à poivre simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit. {% hint "grinding_mill_magical" is needed %}
 
-Afin d’éviter les abus, ce moulin, capable de générer des pierres précieuses à partir de rien, est protégé par un code, qui change chaque mois. Ce code doit être rentré dans un livre chantant magique.
+Ce moulin, capable de générer des pierres précieuses à partir de rien, nécessite un chant issu d'un grimoire magique, pour fonctionner. Afin d’éviter les abus, ledit grimoire est protégé par un code qui change chaque mois.
 
 Le code est constitué de symboles répartis entre 4 bijoux (indestructibles) des Maupertuis. 3 bijoux seulement suffisent à activer la chanson. Ces bijoux sont chacun ornés d’un micro-livre, qui contient un des symboles recherchés.
 
 Les différents bijoux :
 
--  La broche de la mère la famille se trouve sur la tombe d’Octave, qui l’avait récupéré dans les ruines du manoir ; c’est quasiment tout ce qui restait dans les cendres de l’enfant après la trahison, les héros de roman l’ont donc déposé là en symbole de deuil. Cet objet doit guider les joueurs dans la compréhension de l’énigme globale.
+-  La broche de la mère la famille se trouve sur la tombe d’Octave, qui l’avait récupéré dans les ruines du manoir au bout de la première année ; cette broche est aussi quasiment tout ce qui restait dans les cendres de l’enfant après la trahison, les héros de roman l’ont donc déposé là en symbole de deuil. Cet objet doit guider les joueurs dans la compréhension de l’énigme globale. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %}
 
 -  La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Le **détecteur de magnétisme** donne une code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier. Outre le bijou, le livre factice à clef contient un **YYYY**.
+  {% hint "maupertuis_father_jewel_in_twin_books" is needed %}
 
 -  La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont rassemblés dans un coin du manoir. Un ritualiste peut invoquer une clef capable d‘ouvrir un de ces coffres, mais cette clef s’autodétruit à son premier usage, et ne réapparait qu’après 1 an. Il s’agissait d’une épreuve pour Octave, qui devait être capable de “sentir” la présence de l’objet magique avant d’y avoir droit. Les agents doivent utiliser le **détecteur de métal** pour deviner le coffre qui a l’objet. **VERIFIER QUE CA MARCHE!!!** Outre le bijou, le bon mini-coffret contient un **YYYY**.
+  {% hint "maupertuis_son_jewel_in_one_of_the_tiny_chests" is needed %}  {% hint "one_time_key_for_tiny_chests" is needed %}
 
--  La broche de Mérédice, enfin, avait été retrouvée par le voleur hors de la bibliothèque, il en connaît donc le signe, et est prêt à le monnayer très cher.
+-  La broche de Mérédice, enfin, avait été retrouvée par le voleur hors de la bibliothèque, il en connaît donc le signe, et est prêt à le monnayer très cher.   NOOON LE SIGNE CHANGE
 
 Le “livre chantant” se trouve bien rangé, dans la bibliothèque de l’étage interdit, il suffit de prêter l’oreille pour l’entendre. Rentrer le bon symbole dedans déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit des gemmes à foison.
 
