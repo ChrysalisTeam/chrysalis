@@ -653,17 +653,20 @@ Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 - L’un montre une main boisée et griffue menaçant le monde, ainsi qu'un crâne sous des racines d’arbres, permettant de découvrir celui de l'arkonte dans la “mini jungle d’intérieur” du druide.
   {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
 
--  Un dernier **oracle, déclenché par un grillon de l’étage interdit**, montre un livre portant le chiffre 3, et couvert de toiles d’araignées, coincé entre une troupe d’animaux et un amas de plats cuisinés. L’archiviste doit indiquer sur demande les rayons de la zoologie et de la cuisine, entre lequel le Tome 3 du roman du Druide est cachée.
+-  Un dernier **oracle, déclenché par un grillon de l’étage interdit**, montre un livre portant le chiffre 3, coincé entre un inventaire d’animaux et des évocations de cuisine. Le plan de l'étage interdit indique les rayons de des "Poisons Soologiques" et de la "Poisons Patissiers", entre lequels le Tome 3 du roman du Druide est caché. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %}
+  {% hint "forbidden_level_map_showing_animal_and_food_poison_shelves" is needed %}
 
-**L’analyse médicale du crâne** montre un empoisonnements au curare, ce qui fait naturellement suspecter le druide.
+**L’analyse médicale du crâne** montre un empoisonnements au curare, ce qui fait naturellement suspecter le druide.  {% hint "arkon_skull_analysis_showing_curare_poisoning" is needed %}
 
-La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure.
+La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% hint "chaos_novel_volume_three_summary_showing_cruelty" is needed %}
 
 Dès lors, il doit être évident pour les joueurs que le coupable est le druide. Mais si celui-ci est démasqué, il peut continuer à nier, ou finir par avouer mais livrer les joueurs à un chantage, vu qu’il est plus puissant qu’eux tous ; de toute façon, “maintenant qu’il a accès aux grimoires magiques, il finira bien par savoir comment briser la malédiction de la bibliothèque”. Et il garde jalousement le pentacle pour éviter tout coup bas de ce côté-ci.
 
 **IDEE ANNEXE : le traitre assassine pendant le jeu un des héros de roman, qui s’opposait trop fort à l’idée de supprimer la clôture magique sans avoir résolu l’enquête de la mort des humains.**
 
 Le traître étant insensible aux attaques physiques et sacrées, seul un rituel magique peut l’atteindre. Deux façons :
+
+**IDEE - un joueur doit devenir immortel à force de différents envoutements.**
 
 -  Soit reconstituer un pentacle de renvoi ailleurs, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).
 
