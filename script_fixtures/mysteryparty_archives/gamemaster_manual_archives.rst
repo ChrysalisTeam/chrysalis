@@ -545,11 +545,12 @@ Une fois que l’accès au domaine interdit est ouvert, la bête est libre d’e
 Pour neutraliser la bête :
 
 -  La bête “sent” les vivants qui se trouvent à moins de 3m, mais voit très mal au delà. Il est donc possible de se promener dans le domaine interdit en l’évitant soigneusement, mais cela reste très dangereux.
+   {% fact "npcs_know_how_the_beast_works" %}
 
 -  L’arkonte avait une armure sacrée protégeant des attaques “sacrées”, c’est à dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la bête.
    {% hint "arkon_sacred_armor" is needed %}
 
--  **L’exorciste** peut faire fuir la bête pendant **30 secondes** avec un de ses rituels ! {% fact "diakon_exorcist_can_chse_away_beast_temporarily" %}
+-  **L’exorciste** peut faire fuir la bête pendant **30 secondes** avec un de ses rituels ! {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
 
 -  L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la bête fantomatique (la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la bête reviendrait dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
 
@@ -645,13 +646,12 @@ L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur enrob
 
 Les soupçons se portent naturellement sur les héros de roman, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait.
 
-Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais sans le **crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure.
+Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais sans le **crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_have_traces_of_burning" is needed %}
 
 Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 
--  L’un montre une main griffue menaçant le monde depuis une porte spatiale.
-
--  L’autre montre un **crâne caché** dans des racines d’arbres, permettant de le découvrir dans la “mini jungle d’intérieur” du druide.
+- L’un montre une main boisée et griffue menaçant le monde, ainsi qu'un crâne sous des racines d’arbres, permettant de découvrir celui de l'arkonte dans la “mini jungle d’intérieur” du druide.
+  {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
 
 -  Un dernier **oracle, déclenché par un grillon de l’étage interdit**, montre un livre portant le chiffre 3, et couvert de toiles d’araignées, coincé entre une troupe d’animaux et un amas de plats cuisinés. L’archiviste doit indiquer sur demande les rayons de la zoologie et de la cuisine, entre lequel le Tome 3 du roman du Druide est cachée.
 
