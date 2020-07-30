@@ -525,7 +525,7 @@ Des carrés retournables, sur un panneau (ou une application sur tablette tactil
 
 -  Le symbole propre à Octave est magiquement en surbrillance sur son avant-bras de fantôme, et il le sait. {% hint "octave_has_hair_symbol_on_arm" is needed %}
 
--  Le symbole de la famille est sur la couverture d’un livret “Généalogie des Maupertuis”, {% hint "book_with_family_symbol" is needed %} qui est dans le coffre de {% symbol "Quirinius" for "maupertuis_father" %}, {% hint "quirinius_chest_closed_by_key" is needed %} dont la clef est dans le livre factice "{% symbol "Venture Prins" for "name" %}" {% hint "quirinius_chest_by_key_in_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé “au cas où quelque chose arrivait”). {% fact "octave_knows_venture_prins_name" %}
+-  Le symbole de la famille est sur la couverture d’un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_family_symbol" is needed %} qui est dans le coffre commun de la famille, {% hint "quirinius_chest_closed_by_key" is needed %}, coffre dont la clef est dans le livre factice "{% symbol "Venture Prins" for "name" %}" {% hint "family_chest_key_in_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”). {% fact "octave_knows_venture_prins_name" %}
 
 -  L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice, contenant la clef de coffre en question. {% fact "archivist_knows_venture_prins_location" %}
 
@@ -560,20 +560,19 @@ Pour neutraliser la bête :
 Le remède contre la dégénérescence marbrée (famille Parcival)
 -------------------------------------------------------------
 
--  L'archiviste se souvient très bien de la maladie de Mérédice De Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un Cocktail de Réjuvénation. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l‘étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe" %}
+-  L'archiviste se souvient très bien de la maladie de Mérédice De Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un Cocktail de Réjuvénation. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l'étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
 -  Le Cocktail de Réjuvénation demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
-  {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
--  Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec le **scanner multi-fréquences**. {% hint "radio_frequency_scanner_app" is needed %}
+-  Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec le **scanner multi-fréquences**. {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
 
 -  Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà. {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
--  La dernière potion, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_with_tincture_shelf" is needed %}
+-  La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cett recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_with_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
 -  Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé, un dans un **corridor toxique** de l’étage interdit. {# Story tags for this are in the clues document #}
 
--  Enfin, il faut un récipient avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "undestroyable_copper_cauldron_on_alchemy_table" is needed %}
+-  Enfin, il faut un récipient avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 
 -  Une fois tous les ingrédients rassemblés (pas besoin de préparer effectivement les potions), la famille a réussi cette mission, à condition qu’elle puisse quitter les lieux.
 
@@ -587,7 +586,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 
 -  **{% symbol "Quirinius" for "maupertuis_father" %} De Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans son coffre privé (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d\ **’écriture invisible UV**. {% hint "quirinius_notebook_with_thanatologue_chest_uv_code" is needed %}
 
--  **{% symbol "Isadora" for "maupertuis_mother" %} De Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher. {% fact "isadora_can_tell_thanatologue_chest_code_from_heaven" %} {% fact "thief_knows_about_isadora_thanatologue_chest_code" %}
+-  **{% symbol "Isadora" for "maupertuis_mother" %} De Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher. {% hint "isadora_code_for_thanatologue_chest_code" is needed %} {% fact "thief_knows_about_isadora_thanatologue_chest_code" %}
 
 -  Le Thanatologue se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une contre-mesure, dans le thanatologue, en appelant à viser en priorité les désenvouteurs du camp adverse. {% hint "thanatologue_book_with_zombie_spell_and_counterspell_hints" is needed %}
 
@@ -646,7 +645,7 @@ L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur enrob
 
 Les soupçons se portent naturellement sur les héros de roman, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait.
 
-Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais sans le **crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_have_traces_of_burning" is needed %}
+Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais sans le **crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
 
 Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 
@@ -654,7 +653,7 @@ Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
   {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
 
 -  Un dernier **oracle, déclenché par un grillon de l’étage interdit**, montre un livre portant le chiffre 3, coincé entre un inventaire d’animaux et des évocations de cuisine. Le plan de l'étage interdit indique les rayons de des "Poisons Soologiques" et de la "Poisons Patissiers", entre lequels le Tome 3 du roman du Druide est caché. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %}
-  {% hint "forbidden_level_map_showing_animal_and_food_poison_shelves" is needed %}
+  {% hint "forbidden_zone_map_showing_animal_and_food_poison_shelves" is needed %}
 
 **L’analyse médicale du crâne** montre un empoisonnements au curare, ce qui fait naturellement suspecter le druide.  {% hint "arkon_skull_analysis_showing_curare_poisoning" is needed %}
 

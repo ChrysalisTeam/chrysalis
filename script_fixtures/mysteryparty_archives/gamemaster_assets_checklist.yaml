@@ -1,13 +1,69 @@
 
 
+-
+  - "Emplacements décorés voire illuminés aux 2 étages"
+  -
+    - "F1 - Balise du fantôme de l’archiviste"
+    - "F2 - Balise du fantôme de l’enfant"
+    - "F3 - Balise du fantôme de l’arkonte"
+    - "F4 - Balise du fantôme du voleur"
+    - "XX - Coffre commun des Maupertuis"
+    - "L1 - Buffet dinatoire des 3 mondes"
+    - "L2 - Pentacle du rituel inachevé de l’arkonte"
+    - "L3 - Cimetière (tombes de l’enfant, de l’archiviste et de l’arkonte)"
+    - "L4 - Mini-jungle (assemblage de grandes plantes en pots)"
+    - "L5 - Laboratoire d'alchimie"
+    - "YY - Coffre légendaire des Mapupertuis"
+    - "Différents coffres et objets répartis dans les lieux, ainsi que des 'marqueurs' mis au sol par les héros de roman lors de leurs investigations infructueuses"
 
 -
-  - "Logistique"
+  - "Vérifications préalables"
   -
-    ##- "2 rallonges et 2 multiprises blanches"
-    - "petite enceinte bluetooth Jabra"
-    - "grande enceinte bluetooth Vintage"
-    ##- "2 nappes rouges, rideau jaune, rideau léopard orangé"
-    - "projecteur 3 couleurs avec interrupteurs à distance"
-    - "générateur de fumée bien rempli"
-    - "interrupteurs à distance réglés, et plombs électriques identifiés, pour tout allumer/éteindre sur demande"
+    - "Les 4 broches doivent avoir les symboles XXXXXX"
+    - "Octave doit avoir son symbole sur le bras {% hint 'octave_symbol_tattooed_on_his_arm' is provided %}"
+    - "La page web du puzzle des runes symboliques doit fonctionner"
+
+-
+  - "Coffre commun des Maupertuis (protégé par une clef)"
+  -
+    - "Livret généalogique des Maupertuis avec leur symbole secret {% hint 'genealogy_book_with_family_symbol' is provided %}"
+    - "Carnet de notes personnel du père Maupertuis avec un des codes du coffret légendaire {% hint 'quirinius_notebook_with_thanatologue_chest_uv_code' is provided %}"
+
+-
+  - "Coffre légendaire des Maupertuis  (protégé par 2 codes)"
+  -
+    - "Grimoire maudit 'Thanatologue' {% hint 'thanatologue_book_with_zombie_spell_and_counterspell_hints' is needed %}"
+
+-
+  - "Cimetière"
+  -
+    - "Tombe 1: Journal intime d'Octave {% hint 'octave_diary_with_runes_enigma_puzzle_hint' is provided %}"
+    - "Tombe 1: broche de la mère Maupertuis {% hint 'octave_has_heir_symbol_on_arm' is provided %}"
+    - "Tombe 2: ???????"
+    - "Tombe 3: Squelette sans crâne de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %}"
+    - "Tombe 3: Armure de l'arkonte {% hint 'arkon_sacred_armor' is provided %}"
+
+-
+  - "Laboratoire d'Alchimie"
+  -
+    - "Moulin à poivre enchanté {% hint 'grinding_mill_magical' is provided %}"
+    - "Chaudron en cuiver avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %}"
+
+-
+  - "Indices cachés"
+  -
+    - "I1 - Livre factice bleu (contient la clef du livre factice rouge et XXX pierreries), marqué au sol"
+    - "I2 - Livre factice bleu (montre en magnétisme le code du livre factice bleu, contient la broche du père Maupertuis), marqué au sol"
+    - "I3 - Livre 'Venture Prins' contenant la clef du coffre commun des Maupertuis"
+    - "I4 - Recette de l'Elixir Flexifiant (avec balise Bluetooth) {% hint 'recipe_flex_elixir' is provided %}"
+    - "I5 - Recette de la Lotion de Clairvoyance (avec balise Bluetooth) {% hint 'recipe_clarity_lotion' is provided %}"
+    - "I6 - Recette de la Teinture Pyrolitis (avec balise Bluetooth) {% hint 'recipe_pyrolitis_tincture' is provided %}"
+    - "Crâne empoisonné de l'arkonte (entre les plantes de la mini-jungle)"
+
+-
+  - "Indices à là disposition du maître de jeu"
+  -
+    - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_scepter_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %}"
+    - "Un des codes du coffret légendaire des Maupertuis, connu de la mère des Maupertuis {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}"
+
+
