@@ -523,9 +523,9 @@ Des carrés retournables, sur un panneau (ou une application sur tablette tactil
 
 -  Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé dans le domaine interdit (il en avait la défense absolue, sous peine de mourir sous les coups de la Bête). {% fact "octave_knows_about_runes_enigma_puzzle" %}
 
--  Le symbole propre à Octave est magiquement en surbrillance sur son avant-bras de fantôme, et il le sait. {% hint "octave_has_hair_symbol_on_arm" is needed %}
+-  Le symbole propre à Octave est magiquement en surbrillance sur son avant-bras de fantôme, et il le sait. {% hint "octave_has_heir_symbol_on_arm" is needed %}
 
--  Le symbole de la famille est sur la couverture d’un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_family_symbol" is needed %} qui est dans le coffre commun de la famille, {% hint "quirinius_chest_closed_by_key" is needed %}, coffre dont la clef est dans le livre factice "{% symbol "Venture Prins" for "name" %}" {% hint "family_chest_key_in_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”). {% fact "octave_knows_venture_prins_name" %}
+-  Le symbole de la famille est sur la couverture d’un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_family_symbol" is needed %} qui est dans le coffre commun de la famille, {% hint "family_common_chest_protected_by_key" is needed %}", coffre dont la clef est dans le livre factice "{% symbol "Venture Prins" for "name" %}" {% hint "family_common_chest_key_in_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”). {% fact "octave_knows_venture_prins_name" %}
 
 -  L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice, contenant la clef de coffre en question. {% fact "archivist_knows_venture_prins_location" %}
 
@@ -580,7 +580,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 Le Thanatologue (explorateurs héliossars)
 -----------------------------------------
 
-Un des rares exemplaires de ce mythique et controversé ouvrage a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste indique aux explorateurs-archéologues après avoir vérifié leur bonne volonté. {% hint "forbidden_zone_thanatologue_chest" is needed %}
+Un des rares exemplaires de ce mythique et controversé ouvrage a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste indique aux explorateurs-archéologues après avoir vérifié leur bonne volonté. {% hint "family_legendary_chest_protected_by_double_key" is needed %}
 
 -  Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre (l’archiviste le sait et le dit par avance).
 

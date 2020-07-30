@@ -20,25 +20,25 @@
   - "Vérifications préalables"
   -
     - "Les 4 broches doivent avoir les symboles XXXXXX"
-    - "Octave doit avoir son symbole sur le bras {% hint 'octave_symbol_tattooed_on_his_arm' is provided %}"
+    - "Octave doit avoir son symbole sur le bras {% hint 'octave_has_heir_symbol_on_arm' is provided %}"
     - "La page web du puzzle des runes symboliques doit fonctionner"
 
 -
-  - "Coffre commun des Maupertuis (protégé par une clef)"
+  - "Coffre commun des Maupertuis (protégé par une clef) {% hint 'family_common_chest_protected_by_key' is provided %}"
   -
     - "Livret généalogique des Maupertuis avec leur symbole secret {% hint 'genealogy_book_with_family_symbol' is provided %}"
     - "Carnet de notes personnel du père Maupertuis avec un des codes du coffret légendaire {% hint 'quirinius_notebook_with_thanatologue_chest_uv_code' is provided %}"
 
 -
-  - "Coffre légendaire des Maupertuis  (protégé par 2 codes)"
+  - "Coffre légendaire des Maupertuis  (protégé par 2 codes)  {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
   -
-    - "Grimoire maudit 'Thanatologue' {% hint 'thanatologue_book_with_zombie_spell_and_counterspell_hints' is needed %}"
+    - "Grimoire maudit 'Thanatologue' {% hint 'thanatologue_book_with_zombie_spell_and_counterspell_hints' is provided %}"
 
 -
   - "Cimetière"
   -
     - "Tombe 1: Journal intime d'Octave {% hint 'octave_diary_with_runes_enigma_puzzle_hint' is provided %}"
-    - "Tombe 1: broche de la mère Maupertuis {% hint 'octave_has_heir_symbol_on_arm' is provided %}"
+    - "Tombe 1: broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}"
     - "Tombe 2: ???????"
     - "Tombe 3: Squelette sans crâne de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %}"
     - "Tombe 3: Armure de l'arkonte {% hint 'arkon_sacred_armor' is provided %}"
@@ -53,17 +53,19 @@
   - "Indices cachés"
   -
     - "I1 - Livre factice bleu (contient la clef du livre factice rouge et XXX pierreries), marqué au sol"
-    - "I2 - Livre factice bleu (montre en magnétisme le code du livre factice bleu, contient la broche du père Maupertuis), marqué au sol"
-    - "I3 - Livre 'Venture Prins' contenant la clef du coffre commun des Maupertuis"
-    - "I4 - Recette de l'Elixir Flexifiant (avec balise Bluetooth) {% hint 'recipe_flex_elixir' is provided %}"
-    - "I5 - Recette de la Lotion de Clairvoyance (avec balise Bluetooth) {% hint 'recipe_clarity_lotion' is provided %}"
-    - "I6 - Recette de la Teinture Pyrolitis (avec balise Bluetooth) {% hint 'recipe_pyrolitis_tincture' is provided %}"
-    - "Crâne empoisonné de l'arkonte (entre les plantes de la mini-jungle)"
+    - "I2 - Livre factice bleu (montre en magnétisme le code du livre factice bleu, contient la broche du père Maupertuis), marqué au sol {% hint 'maupertuis_father_jewel_in_twin_books' is provided %}"
+    - "I3 - Livre 'Venture Prins' contenant la clef du coffre commun des Maupertuis {% hint 'family_common_chest_key_in_venture_prins_fake_book' is provided %}"
+    - "I4 - Recette du Cocktail de Réjuvénation (exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
+    - "IX - Recette de l'Elixir Flexifiant (avec balise Bluetooth) {% hint 'recipe_flex_elixir' is provided %}"
+    - "IX - Recette de la Lotion de Clairvoyance (avec balise Bluetooth) {% hint 'recipe_clarity_lotion' is provided %}"
+    - "IX - Recette de la Teinture Pyrolitis (avec balise Bluetooth) {% hint 'recipe_pyrolitis_tincture' is provided %}"
+    - "Crâne empoisonné de l'arkonte (entre les plantes de la mini-jungle) {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}"
 
 -
   - "Indices à là disposition du maître de jeu"
   -
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_scepter_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %}"
     - "Un des codes du coffret légendaire des Maupertuis, connu de la mère des Maupertuis {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}"
+    - "Application mobile de scanner de balises Bluetooth {% hint 'radio_frequency_scanner_app' is provided %}"
 
-
+-
