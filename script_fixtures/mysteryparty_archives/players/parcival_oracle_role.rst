@@ -12,7 +12,7 @@ Ainsi, tandis que vous pénétrez dans la bibliothèque enfouie des Maupertuis, 
 La survenue des oracles
 ---------------------------
 
-Parfois, les prophéties vous tombent dessus sans prévenir, parfois vous les attirez à vous en marchant dans un lieu au passé lourdement chargé. Signe du destin, de tels endroits raisonnent souvent du **chant surnaturel des cigales** de votre enfance, chants que vous mais aussi les gens qui vous cotoyent peuvent entendre.
+Parfois, les prophéties vous tombent dessus svans prévenir, parfois vous les attirez à vous en marchant dans un lieu au passé lourdement chargé. Signe du destin, de tels endroits raisonnent souvent du **chant surnaturel des cigales** de votre enfance, chants que vous mais aussi les gens qui vous cotoyent peuvent entendre.
 
 *NOTE hors-jeu : Signalez au maître de jeu un endroit où le chant des cigales vous a parlé.*
 

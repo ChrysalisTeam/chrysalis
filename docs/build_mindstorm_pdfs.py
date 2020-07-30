@@ -190,7 +190,7 @@ def _generate_spoiler_manor_surveillance_reports(jinja_context):
     return rst  # this RST string will be evaluated with jinja once more!
 
 
-# documents without decorations, typically ; one can provide a LIST of RST files
+# documents without decorations, typically ; one can provide a LIST of RST files as value
 ISOLATED_DOCS = {
     "gamemaster_manor_surveillance_reports": _generate_spoiler_manor_surveillance_reports,
     "gamemaster_planning_details": "gamemaster_planning_details.rst",
@@ -264,7 +264,10 @@ def generate_mindstorm_rst_from_parts(parts, title, add_page_breaks, with_decora
         if callable(part):
             new_data = part(jinja_context=jinja_context)  # builder function
         else:
-            rst_filepath = os.path.join(TEMPLATES_ROOT, part)
+            rst_filepath1 = os.path.join(TEMPLATES_ROOT, part)
+            rst_filepath2 = os.path.join(TEMPLATES_COMMON, part)
+            rst_filepath = rst_filepath1 if os.path.exists(rst_filepath1) else rst_filepath2
+            assert os.path.exists(rst_filepath), rst_filepath
             new_data = rpg.load_rst_file(rst_filepath)
         full_data += new_data
         if add_page_breaks:

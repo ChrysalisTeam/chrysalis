@@ -93,8 +93,10 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("secret_codes", 1),
 ]
 
-# documents without decorations, typically ; one can provide a LIST of RST files
+# documents without decorations, typically ; one can provide a LIST of RST files as value
 ISOLATED_DOCS = {
+    # GAMEMASTER DOCS
+    "gamemaster_assets_checklist": "gamemaster_assets_checklist.rst",
     # NPCS
     "npc_avatar_druid_sheet": "npcs/avatar_druid_sheet.rst",
     "npc_phantom_arkon_sheet": "npcs/phantom_arkon_sheet.rst",
@@ -148,7 +150,10 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
         if callable(part):
             new_data = part(jinja_context=jinja_context)  # builder function
         else:
-            rst_filepath = os.path.join(TEMPLATES_ROOT, part)
+            rst_filepath1 = os.path.join(TEMPLATES_ROOT, part)
+            rst_filepath2 = os.path.join(TEMPLATES_COMMON, part)
+            rst_filepath = rst_filepath1 if os.path.exists(rst_filepath1) else rst_filepath2
+            assert os.path.exists(rst_filepath), rst_filepath
             new_data = rpg.load_rst_file(rst_filepath)
         full_data += new_data
         if add_page_breaks:
@@ -208,7 +213,7 @@ def generate_archives_sheets():
     data = rpg.load_yaml_file(INITIAL_GAME_DATA_DUMP)
     all_data.update(data)
 
-    murder_party_items = rpg.load_yaml_file("../script_fixtures/mysteryparty_mindstorm/gamemaster_assets_checklist.yaml")
+    murder_party_items = rpg.load_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"))
     all_data["murder_party_items"] = murder_party_items
 
     # BEWARE - sensitive data specific to a murder party game
@@ -241,7 +246,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if True:
+    if False:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,
@@ -295,7 +300,7 @@ def generate_archives_sheets():
         return player_data
 
     # then character full sheets
-    if True:
+    if False:
         for player in players_names:
             parts = [(part % dict(player_name=player) if not callable(part) else part)
                      for part in PLAYER_MANUAL_PARTS]
