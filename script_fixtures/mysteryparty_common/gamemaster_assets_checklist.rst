@@ -5,7 +5,7 @@ Checklist des Objets du Jeu
 
 {% for section, item_titles in murder_party_items %}
 
-{{section}}
+{{section|dangerous_render}}
 
 {% for item_title in item_titles %}
 - {{item_title|dangerous_render}}

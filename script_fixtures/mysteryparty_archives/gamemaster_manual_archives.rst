@@ -517,7 +517,7 @@ IMPORTANT: les héros de roman ont eu très longtemps pour fouiller l’étage a
 Accéder au domaine interdit (utile à tous)
 ------------------------------------------
 
-Des carrés retournables, sur un panneau (ou une application sur tablette tactile) {% hint "runes_enigma_puzzle_app" is needed %} permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon symbole entier pour ouvrir le passage
+Des carrés retournables, sur un panneau (ou une application sur tablette tactile) {% hint "symbolic_enigma_puzzle_app" is needed %} permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon symbole entier pour ouvrir le passage
 
 -  Des runes sur le journal d’Octave (trouvé sur sa tombe) indiquent qu’il faut la superposition du symbole secret de la famille Maupertuis, et du symbole secret d’un héritier (ici Octave) pour pouvoir ouvrir le passage. {% hint "octave_diary_with_runes_enigma_puzzle_hint" is needed %}
 
@@ -568,7 +568,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 -  Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà. {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
--  La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cett recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_with_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
+-  La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cett recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
 -  Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé, un dans un **corridor toxique** de l’étage interdit. {# Story tags for this are in the clues document #}
 
@@ -598,7 +598,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
    {% hint "parcival_oracle_vision_about_necromancers_and_scepter_amplificans" is needed %}
 
 -  L’arkonte se souvient de ces **{% symbol "Sceptres Amplificans" for "scepter_for_magic_amplification_name" %}** légendaires, disparus de la circulation des siècles avant lui-même, et de leur symbole. Il conseille de chercher des traces de cela dans la bibliothèque."".
-   {% hint "arkon_has_hints_about_scepter_amplificans" is needed %}
+   {% fact "arkon_has_hints_about_scepter_amplificans" %}
 
 -  Plusieurs allées de l’étage interdit se finissent en cul-de-sac, et 3 d’entre elles sont protégées par d’imposants pièges. L’une d’elle porte en UV le sigle des **{% symbol "Sceptres Amplificans" for "scepter_for_magic_amplification_name" %}**. Il faut donc soit désactiver les pièges pour accéder au coffret qui est au fond, soit utiliser le **médaillon de téléportation** du voleur pour cela. Le coffret contient, sans protection, le sceptre en question {% hint "scepter_amplificans_in_trapped_corridor" is needed %}
 
@@ -627,7 +627,7 @@ Les différents bijoux :
   {% hint "maupertuis_father_jewel_in_twin_books" is needed %} {% hint "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
 
 -  La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont rassemblés dans un coin du manoir. Un ritualiste peut invoquer une clef capable d‘ouvrir un de ces coffres, mais cette clef s’autodétruit à son premier usage, et ne réapparait qu’après 1 an. Il s’agissait d’une épreuve pour Octave, qui devait être capable de “sentir” la présence de l’objet magique avant d’y avoir droit. Les agents doivent utiliser le **détecteur de métal** pour deviner le coffre qui a l’objet. **VERIFIER QUE CA MARCHE!!!** Outre le bijou, le bon mini-coffret contient un **YYYY**.
-  {% hint "maupertuis_son_jewel_in_one_of_the_tiny_chests" is needed %}  {% hint "one_time_key_for_tiny_chests" is needed %}
+  {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}  {% hint "one_time_key_of_octave_for_tiny_chests" is needed %}
 
 -  La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est effondré. Il vend donc cette information chèrement et à contre-coeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. {% hint "maupertuis_daughter_jewel_in_metal_box_under_fallen_rocks" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}
@@ -652,12 +652,11 @@ Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 - L’un montre une main boisée et griffue menaçant le monde, ainsi qu'un crâne sous des racines d’arbres, permettant de découvrir celui de l'arkonte dans la “mini jungle d’intérieur” du druide.
   {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
 
--  Un dernier **oracle, déclenché par un grillon de l’étage interdit**, montre un livre portant le chiffre 3, coincé entre un inventaire d’animaux et des évocations de cuisine. Le plan de l'étage interdit indique les rayons de des "Poisons Soologiques" et de la "Poisons Patissiers", entre lequels le Tome 3 du roman du Druide est caché. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %}
-  {% hint "forbidden_zone_map_showing_animal_and_food_poison_shelves" is needed %}
+-  Un dernier **oracle, déclenché par un grillon de l’étage interdit**, montre un livre portant le chiffre 3, coincé entre un inventaire d’animaux et des évocations de cuisine. Le plan de l'étage autorisé indique les rayons de "Zoologie" et des "Patisseries", entre lequels le Tome 3 du roman du Druide est caché. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_map_showing_zoology_and_cooking_shelves" is needed %}
 
 **L’analyse médicale du crâne** montre un empoisonnements au curare, ce qui fait naturellement suspecter le druide.  {% hint "arkon_skull_analysis_showing_curare_poisoning" is needed %}
 
-La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% hint "chaos_novel_volume_three_summary_showing_cruelty" is needed %}
+La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% hint "chaos_novel_volume_three_between_zoology_and_cooking_shelves" is needed %}
 
 Dès lors, il doit être évident pour les joueurs que le coupable est le druide. Mais si celui-ci est démasqué, il peut continuer à nier, ou finir par avouer mais livrer les joueurs à un chantage, vu qu’il est plus puissant qu’eux tous ; de toute façon, “maintenant qu’il a accès aux grimoires magiques, il finira bien par savoir comment briser la malédiction de la bibliothèque”. Et il garde jalousement le pentacle pour éviter tout coup bas de ce côté-ci.
 
