@@ -82,6 +82,7 @@
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_scepter_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %}"
     - "Un des codes du coffret légendaire des Maupertuis, connu de la mère des Maupertuis {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}"
     - "La broche de Meredice, trouvée si si le bon éboulement est dynamité {% hint 'maupertuis_daughter_jewel_in_metal_box_under_fallen_rocks' is provided %}"
-    - "Application mobile de scanner de balises Bluetooth {% hint 'radio_frequency_scanner_app' is provided %}"
+    - "Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app' is provided %}"
 
 
+# TODO INVISIBILITY BRACELET ETC!!!

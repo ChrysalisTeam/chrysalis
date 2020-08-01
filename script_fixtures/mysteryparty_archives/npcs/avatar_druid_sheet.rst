@@ -1,6 +1,8 @@
 Avatar - Le druide {% symbol "Diviciacos" for "druid_name" %}
 =================================================================
 
+<{ avatar_druid_character_summary }/>
+
 {% macro avatar_principle_summary() %}
 Vous êtes ce que les mystiques de la planète Terre appellent un **avatar**. C'est-à-dire que vous êtes né de l'imagination d'un écrivain, qui vous a couché par écrit dans un roman, avec tout votre univers. Mais par un prodige rarissime, un de vos lecteurs a réussi à vous "incarner" dans le monde des vivants.
 {% endmacro %}

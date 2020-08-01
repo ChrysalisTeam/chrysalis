@@ -9,9 +9,13 @@
 Invocation d'un défunt
 -------------------------
 
-TODO
+BOD
 
 Incarnation d'un spectre
 --------------------------------
 
 
+Rituels divers
+------------------
+
+???

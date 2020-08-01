@@ -107,7 +107,7 @@ ISOLATED_DOCS = {
     "faction_parcival_sheet.rst": "factions/parcival_group_sheet.rst",
     "faction_spy_sheet.rst": "factions/spy_group_sheet.rst",
     # INFORMATION
-    "documents/phantoms_knowledge.rst": "miscellaneous/phantoms_knowledge.rst",
+    "documents/knowledge_about_phantoms.rst": "miscellaneous/knowledge_about_phantoms.rst",
 
 }
 
@@ -246,7 +246,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:
+    if True:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,
@@ -300,7 +300,7 @@ def generate_archives_sheets():
         return player_data
 
     # then character full sheets
-    if False:
+    if True:
         for player in players_names:
             parts = [(part % dict(player_name=player) if not callable(part) else part)
                      for part in PLAYER_MANUAL_PARTS]

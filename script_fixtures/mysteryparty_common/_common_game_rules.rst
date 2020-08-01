@@ -23,12 +23,14 @@ Le jeu est pensé pour se jouer en immersion complète. Pour en profiter pleinem
   - Il est possible de se changer sur place.
 
 
+
 Sécurité physique et émotionnelle
 +++++++++++++++++++++++++++++++++++++
 
 - **Pas de contact physique** hormis les mains (et les baisemains), sauf consentement prélalable entre joueurs (ex. pour réaliser une scène d'empoignade)
-- L'univers du jeu est plutôt léger, lumineux, courtois ; donc on évite les **situations sordides** comme la torture, le viol, l'inceste, etc.
-- A tout moment, si une situation vous oppresse en tant que joueur , vous pouvez l'interrompre **en disant "STOP", ou en faisant une croix avec les mains**. On en discute alors "hors roleplay", pour voir si son intensité doit être modulée, si elle doit être expédiée (avec une ellipse temporelle), ou si elle est réputée n'avoir jamais eu lieu.
+- On ne court pas dans les escaliers ; aucun ennemi ne vous y rattrapera, donc on se tient à la rambarde et on y va tranquillement ; même prudence à proximité de balustrades
+- L'univers du jeu est plutôt léger, envoutant, courtois ; donc on évite les **situations sordides** comme la torture, le viol, l'inceste, etc.
+- Si une situation vous oppresse trop en tant que joueur , vous pouvez l'interrompre **en disant "STOP", ou en faisant une croix avec les mains**. On en discute alors "hors roleplay", pour voir si son intensité doit être modulée, si elle doit être expédiée (avec une ellipse temporelle), ou si elle est réputée n'avoir jamais eu lieu.
 
 
 {% endmacro %}

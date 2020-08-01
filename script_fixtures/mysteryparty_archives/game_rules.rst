@@ -3,6 +3,8 @@
 <{ game_rules_intro }/>
 
 
+# ATTENTION PAS DE nyctophobie  !!!!!!!!!!!!!
+
 Apprentissage et suivi du scénario
 ++++++++++++++++++++++++++++++++++++++
 
@@ -30,6 +32,11 @@ Communications et Compétences
 
   - **Leur clef en métal (s'ils s'agit d'une serrure ou cadenas à clef)**
   - **Leur code secret (s'il s'agit de mollettes à chiffres)**
+
+Notes spécifiques
++++++++++++++++++++++++
+
+- Il vous sera parfois demandé de diminuer ou d'éteindre des lumières que vous portez, pour renforcer l'ambiance et éviter les éblouissements lors d'un rituel ou autre scène importante du jeu.
 
 
 <{ game_rules_outro }/>

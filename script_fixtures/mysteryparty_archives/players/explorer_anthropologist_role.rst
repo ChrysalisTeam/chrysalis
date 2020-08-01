@@ -38,3 +38,7 @@ Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson,
 
 TODO TODO ---> utile pour déchiffrer prophéties!!!
 
+Eruditions diverses
+----------------------
+
+TODO, plantes ? Mots compliqués ? Latin ?

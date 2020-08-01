@@ -10,6 +10,9 @@ Vous êtes costaud. Mais vraiment, vraiment costaud. Cela vous permet de souleve
 
 *NOTE hors-jeu : De tels objets seront signalés en jeu par une étiquette, leur poids réel restant bien sûr assez faible.*
 
+- armure de fonte
+- porte de métal barrant un passage !!!
+
 
 Pistolet pneumatique
 -----------------------
@@ -28,3 +31,9 @@ A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres l
 - a un pistolet
 
 #}
+
+Stratège Défenseur
+------------------------
+
+Vos parents ne vous l'ont jamais caché : s'il en est un seul qui s'en sortira toujours, dans la famille, c'est vous.
+Mais votre talon d'Achille, ce sont les gens de votre cercle familial et amical. Vous avez donc pris l'habitude d'ouvrir l'oeil face aux potentiels périls, et de repérer les atouts et défauts du terrain où vous vous trouvez. Y a-t-il un cul-de-sac à éviter pour ne pas se retrouver acculé par des ennemis ? Ou au contraire un recoin dans lequel se cacher, ou éviter un encerclement ? Vous savez ne pas pouvoir être partout, mais au minimum vous désirez pouvoir vous interposer entre les dangers et vos proches vulnérables.

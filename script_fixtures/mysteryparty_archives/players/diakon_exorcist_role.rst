@@ -20,3 +20,5 @@ Les rituels d'exorcisme
 - Vous êtes capable de chasser une créature du monde des morts, mais à chaque fois cela consomme XXX (max XX fois dans la partie).
 
   TODO RITUEL POUR CELA
+
+- Vous êtes capable de réaliser un rituel pour couper une passerelle entre des mondes

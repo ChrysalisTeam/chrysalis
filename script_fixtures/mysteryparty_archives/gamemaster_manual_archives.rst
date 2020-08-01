@@ -27,7 +27,7 @@ Pour une bonne atmosphère, l’idée est que la bibliothèque soit plongée dan
 L'histoire des Maupertuis et des Avatars
 ==================================================
 
-**La malédiction de la bibliothèque remonte à 500 ans, par rapport au temps du jeu.**
+**La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu.**
 
 Le jeune garçon, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a eu une histoire tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles de {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du {% symbol "cardinal Tridentès" for "old_guru_name" %}, lors du grand marasme planétaire. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a pu s’enfuir et refaire sa vie ailleurs (fondant une lignée qui deviendra les **Parcival**), mais le garçon ne l’a jamais su.
 
@@ -68,12 +68,11 @@ C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y e
 
 - Les vivants peuvent voir et entendre aussi bien les personnages du monde des morts que des livres, et peuvent toucher les personnages des livres
 
--  Pour un vivant, toucher un fantôme - incarné ou non - inflige de graves blessures de type “sacré” (et non “magique”), donnant un malus ou (si un malus a déjà eu lieu) la mort.
+- Pour un vivant, toucher un fantôme - incarné ou non - inflige de graves blessures de type “sacré” (et non “magique”), donnant un malus ou (si un malus a déjà eu lieu) la mort.
 
 - Les vivants sont par défaut sensibles aux attaques physiques, magiques et sacrées.
 
 - Les vivants sont soumis aux règles du “Serment de Zarathoustra”.
-
 
 Le monde des morts
 ------------------
@@ -100,7 +99,6 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 - Attention, les entités faisant partie du “\ **divin**\ ” (dont l’Ankou) sont aussi “dangereux malgré eux”, mais ils sont insensibles aux armes et aux sortilèges (dont la clôture magique).
 
-
 Le monde des livres
 -------------------
 
@@ -126,10 +124,10 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 -  Ils ne sont PAS soumis aux règles du “Serment de Zarathoustra”.
 
-Le monde des automates (optionnel)
-----------------------------------
+Le monde des automates
+-------------------------------
 
-Avec les héros de roman, Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler, ou comprendre des ordres simples. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas sacrées ; cependant rien n'est censé leur arriver durant le jeu.
+Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler, ou comprendre des ordres simples. Ils voient les vivants et les avatars, mais pas les fantômes. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas sacrées ; cependant rien n'est censé leur arriver durant le jeu.
 
 Les maîtres de jeu, photographes, et servants du buffet, ont intérêt à faire partie de ce monde là pour un surcroit d'ambiance et une bonne liberté d'action.
 
@@ -203,10 +201,12 @@ Leur devise est **"Mirandia pour toujours brillera"**, avec un salut militaire l
 Figurants
 =========
 
-**Ces rôles peuvent être jouer au masculin comme au féminin, en adaptant les noms et titres si nécessaire.**
+**Ces rôles peuvent être joués au masculin comme au féminin, en adaptant les noms et titres si nécessaire.**
 
 Octave de Maupertuis (l’enfant)
 -------------------------------
+
+{% macro phantom_octave_character_summary() %}
 
 -  FANTÔME
 
@@ -220,6 +220,9 @@ Octave de Maupertuis (l’enfant)
 
 -  “Mes parents m’ont dit de ne jamais parler à des inconnus. Maître Parchemine aussi. Mais je m’ennuie trop, alors tant pis”
 
+{% endmacro %}
+<{ phantom_octave_character_summary }/>
+
 {# BOF
 **Journal intime quelque part ?**
 **S'il arrive au coin enfant (avec jouet et peluche) il donne davantage d’informations ?**
@@ -227,6 +230,8 @@ Octave de Maupertuis (l’enfant)
 
 Monsieur Sigisbert Parchemine (précepteur d'Octave et archiviste )
 ------------------------------------------------------------------------
+
+{% macro phantom_archivist_character_summary() %}
 
 -  FANTÔME
 
@@ -240,6 +245,9 @@ Monsieur Sigisbert Parchemine (précepteur d'Octave et archiviste )
 
 -  S’assure de la bonne volonté des joueurs grâce au “Serment de Zarathoustra”, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
 
+{% endmacro %}
+<{ phantom_archivist_character_summary }/>
+
 {# BOF
 **Faiblesse face aux méchants : adore les livres : fera tout ce qu’on lui demande si on menace un livre**
 **Ne sait plus comment est rangée la bibliothèque,**
@@ -248,6 +256,8 @@ Monsieur Sigisbert Parchemine (précepteur d'Octave et archiviste )
 
 L’arkonte Valérias (paladin-exorciste devenu légendaire)
 --------------------------------------------------------
+
+{% macro phantom_arkon_character_summary() %}
 
 -  FANTÔME
 
@@ -259,8 +269,14 @@ L’arkonte Valérias (paladin-exorciste devenu légendaire)
 
 -  Exige de pouvoir faire sa “confession de mission” à un prélat de la religion yodique, et uniquement dans ce cas il livre tout ce qu’il sait sur la situation ; n’aide que les joueurs en qui il a confiance pour mener à bien sa mission de protection de l’humanité (et qui ne vont pas simplement lever le confinement de la bibliothèque, en détruisant ainsi ses efforts)
 
+{% endmacro %}
+<{ phantom_arkon_character_summary }/>
+
+
 Fédore Pass’muraille (le voleur)
 --------------------------------
+
+{% macro phantom_thief_character_summary() %}
 
 -  FANTÔME
 
@@ -271,6 +287,9 @@ Fédore Pass’muraille (le voleur)
 -  Le voleur n’a initialement pas conscience qu’il est mort, ni du rôle de la “lanterne spirituelle” qui l’ancre à un endroit précis ; il se croit juste piégé par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “Serment de Zarathoustra” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
 
 -  Il monnaie chèrement ses informations “pratiques” sur les lieux aux joueurs, contre de l’or et des pierreries.
+
+{% endmacro %}
+<{ phantom_thief_character_summary }/>
 
 L’Ankou (le guide des âmes, le “psychopompe”)
 ---------------------------------------------
@@ -309,6 +328,8 @@ La Bête (gardienne du Domaine Interdit)
 Le druide (Diviciacos)
 ----------------------
 
+{% macro avatar_druid_character_summary() %}
+
 -  HEROS DE ROMAN (titre “Les sorciers du chaos”, en 3 Tomes)
 
 -  Traits : doux, discret, érudit, ami des plantes et des bêtes
@@ -321,10 +342,15 @@ Le druide (Diviciacos)
 
 -  Il est très habile, a des pouvoirs magiques, résiste à la magie et aux poisons (ainsi qu’au sacré bien sûr), et régénère très vite son corps en cas de blessure.
 
--  **S’y connait en NECROMANCIE ??**
+-  **S’y connait en NECROMANCIE ?????**
+
+{% endmacro %}
+<{ avatar_druid_character_summary }/>
 
 L’inventeur-scientiste (Sir Vaucanson)
 --------------------------------------
+
+{% macro avatar_inventor_character_summary() %}
 
 -  HEROS DE ROMAN (titre “Le ballet des automates”, en 1 seul Tome)
 
@@ -335,6 +361,9 @@ L’inventeur-scientiste (Sir Vaucanson)
 -  **Une trousse à outils doit trainer quelque part pour attester de ses travaux ?**
 
 -  **LE RESTE EST A DETERMINER**
+
+{% endmacro %}
+<{ avatar_inventor_character_summary }/>
 
 La princesse-enchanteresse (Dame XXXXXXX)
 ---------------------------------------------
