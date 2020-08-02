@@ -3,30 +3,30 @@
 -
   - "Emplacements décorés voire illuminés aux 2 étages"
   -
-    - "P1 - Plan de l'étage autorisé {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %}"
-    - "P2 - Plan du domaine intetdit {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
+    - "P1 - Plan de l'étage autorisé, avec en signe UV les localisations de : le TOMBEAU {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %}"
+    - "P2 - Plan du domaine interdit {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
 
     - "F1 - Balise du fantôme de l’archiviste"
     - "F2 - Balise du fantôme de l’enfant"
     - "F3 - Balise du fantôme de l’arkonte"
     - "F4 - Balise du fantôme du voleur"
 
-    - "XX - Coffre commun des Maupertuis"
     - "L1 - Buffet dinatoire des 3 mondes"
     - "L2 - Pentacle du rituel inachevé de l’arkonte"
-    - "Barrière magique devant l'escalier du domaine interdit (avec le grimoire d'énigme symbolique) {% hint 'symbolic_enigma_puzzle_app' is provided %}"
-    - "L3 - Cimetière (tombes de l’enfant, de l’archiviste et de l’arkonte)"
-    - "L4 - Mini-jungle (assemblage de grandes plantes en pots)"
-    - "L5 - Laboratoire d'alchimie"
-    - "L6 - Tombeau du {% symbol 'Mage Maur Pottis' for 'maupertuis_dynasty_founder' %}, contenant le Sceptre Amplificans et le Bandeau Bouclier Magique {% hint 'scepter_amplificans' is provided %} {% hint 'antimagic_protection_headband' is provided %}"
-    - "YY - Coffre légendaire des Maupertuis"
+    - "L3 - Barrières magiques devant les escaliers du domaine interdit (avec le grimoire d'énigme puzzle symbolique) {% hint 'symbolic_enigma_puzzle_app' is provided %}"
+    - "L4 - Cimetière (tombes de l’enfant, de l’archiviste et de l’arkonte)"
+    - "L5 - Coffre familial commun des Maupertuis"
+    - "L6 - Mini-jungle (assemblage de grandes plantes en pots), avec le crâne empoisonné de l'arkonte BIEN caché dedans {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}"
+    - "L7 - Tombeau du {% symbol 'Mage Maur Pottis' for 'maupertuis_dynasty_founder' %}, contenant le Sceptre Amplificans et le Bandeau Bouclier Magique {% hint 'scepter_amplificans' is provided %} {% hint 'antimagic_protection_headband' is provided %}"
 
-    - "ZZ - Cul-de-sac fermé par une porte en bronze de type 'ultra-lourd', renfermant les mini-coffrets de l'initiation d'Octave"
-    - "ZZ - Mini-coffrets non-métalliques de l'initiation d'Octave, l'un renfermant sa broche {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %}"
-    - "ZZ - Cul-de-sac protégé par un piège, avec la dépouille maudite du voleur, le {% symbol 'médaillon de téléportation' for 'thief_teleportation_device_name' %} dessus, et des richesses au bout {% hint 'thief_cursed_skeleton' is provided %} {% hint 'thief_teleportation_device' is provided %}"
-    - "ZZ - Corridor empoisonné, avec le {% symbol 'Bracelet d\\'Invisibilité Spirituelle' for 'spiritual_invisibility_wristband' %} et des potions (dont le Fungal Bleu) au bout {% hint 'spiritual_invisibility_wristband_in_toxic_corridor' is provided %} {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
+    - "P1 - Niche de la bête, avec la dépouille maudite du voleur et le {% symbol 'médaillon de téléportation' for 'thief_teleportation_device_name' %} dessus {% hint 'thief_cursed_skeleton' is provided %} {% hint 'thief_teleportation_device' is provided %}"
+    - "P2 - Coffre légendaire des Maupertuis"
+    - "P3 - Laboratoire d'alchimie"
+    - "P4 - Cul-de-sac protégé par un piège, avec des richesses au bout"
+    - "P5 - Cul-de-sac fermé par une porte en bronze de type 'ultra-lourd', renfermant les mini-coffrets de l'initiation d'Octave (dont l'un renfermant sa broche) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %}"
+    - "P6 - Corridor empoisonné, avec le {% symbol 'Bracelet d\\'Invisibilité Spirituelle' for 'spiritual_invisibility_wristband' %} et des potions (dont celle de Fungal Bleu) au bout {% hint 'spiritual_invisibility_wristband_in_toxic_corridor' is provided %} {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
 
-    - "Différents coffres et objets répartis dans les lieux, ainsi que des 'marqueurs' mis au sol par les héros de roman lors de leurs investigations infructueuses"
+    - "???????? Différents coffres et objets répartis dans les lieux, ainsi que des 'marqueurs' mis au sol par les héros de roman lors de leurs investigations infructueuses"
 
 -
   - "Vérifications préalables"
@@ -35,17 +35,18 @@
     - "Octave doit avoir son symbole sur le bras {% hint 'octave_has_heir_symbol_on_arm' is provided %}"
     - "La page web du puzzle des symboles familiaux doit fonctionner"
     - "La page web du code symbolique du grimoire chantant doit fonctionner"
+    - "La page web des indices divers (identifiés par un code unique) doit fonctionner"
 
 -
-  - "Coffre commun des Maupertuis (protégé par une clef) {% hint 'family_common_chest_protected_by_key' is provided %}"
+  - "Coffre commun des Maupertuis (protégé par une clef) {% hint 'family_common_chest_protected_by_code' is provided %}"
   -
-    - "Livret généalogique des Maupertuis avec leur symbole secret {% hint 'genealogy_book_with_family_symbol' is provided %}"
-    - "Carnet de notes personnel du père Maupertuis avec un des codes du coffret légendaire {% hint 'quirinius_notebook_with_thanatologue_chest_uv_code' is provided %}"
+    - "Livret généalogique des Maupertuis avec leur symbole secret en magnétisme {% hint 'genealogy_book_with_magnetic_family_symbol' is provided %}"
+    - "Carnet de notes personnel du père Maupertuis, avec un des codes du coffret légendaire en UV {% hint 'quirinius_notebook_with_thanatologue_chest_uv_code' is provided %}"
 
 -
   - "Coffre légendaire des Maupertuis  (protégé par 2 codes)  {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
   -
-    - "Grimoire maudit 'Thanatologue' {% hint 'thanatologue_book_with_zombie_spell_and_counterspell_hints' is provided %}"
+    - "Grimoire maudit 'Thanatologue' {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %}"
 
 -
   - "Cimetière"
@@ -54,41 +55,49 @@
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}"
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'one_time_key_of_octave_for_tiny_chests' is provided %}"
 
-    - "Tombe 2 : ???????"
+    - "Tombe 2 : ??????? METTRE QUELQUE CHOSE, il avait un coffre au fond de la bibliothèque l'archiviste ???"
 
     - "Tombe 3 : Squelette sans crâne de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %}"
     - "Tombe 3 : Armure de l'arkonte {% hint 'arkon_sacred_armor' is provided %}"
 
 -
+  - "Galerie des portraits"
+  -
+    - "Portrait du {% symbol 'Mage Maur Pottis' for 'maupertuis_dynasty_founder' %} avec instructions magnétiques: 'XXXXX'"
+    - "Portrait du père des Maupertuis (Quirinius) avec message UV : YYYYYYYYYYY"
+    - "Portrait de la mère des Maupertuis (Isadora) avec message UV : YYYYYYYYYYY"
+    - "Portrait de la fille des Maupertuis (Mérédice) avec message UV : YYYYYYYYYYY"
+    - "Portrait du fils des Maupertuis (Octave) avec message UV : YYYYYYYYYYY"
+
+-
   - "Laboratoire d'Alchimie"
   -
+    - "La table doit 'murmurer' à travers le bois ce message : XXXXXXXXXXXXXXXXXXXXXX"
     - "Moulin à poivre enchanté {% hint 'grinding_mill_magical' is provided %}"
     - "Chaudron en cuiver avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %}"
-    - "Potion de vapeurs de thorium, dans un coffret à crocheter {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is needed %}"
+    - "Potion de vapeurs de thorium, dans un coffret à crocheter {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
 
 -
   - "Indices cachés ou disséminés"
   -
     - "I1 - Livre factice bleu (contient la clef du livre factice rouge et XXX pierreries), marqué au sol"
     - "I2 - Livre factice bleu (montre en magnétisme le code du livre factice bleu, contient la broche du père Maupertuis), marqué au sol {% hint 'maupertuis_father_jewel_in_twin_books' is provided %}"
-    - "I3 - Livre 'Venture Prins' contenant la clef du coffre commun des Maupertuis {% hint 'family_common_chest_key_in_venture_prins_fake_book' is provided %}"
+    - "I3 - Livre 'Venture Prins' murmurant le code du coffre commun familial des Maupertuis {% hint 'family_common_chest_code_spoken_by_venture_prins_fake_book' is provided %}"
     - "I4 - Recette du Cocktail de Réjuvénation (avec balise Bluetooth, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
-    - "IX - Recette de l'Elixir Flexifiant (avec balise Bluetooth) {% hint 'recipe_flex_elixir' is provided %}"
-    - "IX - Recette de la Lotion de Clairvoyance (avec balise Bluetooth) {% hint 'recipe_clarity_lotion' is provided %}"
-    - "Crâne empoisonné de l'arkonte (entre les plantes de la mini-jungle) {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}"
-    - "IX - Recette de la Teinture Pyrolitis (avec balise Bluetooth) {% hint 'recipe_pyrolitis_tincture' is provided %}"
-    - "Tome 3 du roman du druide entre les étagères de zoologie et de cuisine  {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
-    - "Potion de tentacule de poulpe {% hint 'potion_octopus_tentacle_in_authorized_zone' is needed %} mise en évidence"
+    - "I5 - Recette de l'Elixir Flexifiant (avec balise Bluetooth) {% hint 'recipe_flex_elixir' is provided %}"
+    - "I6 - Recette de la Lotion de Clairvoyance (avec balise Bluetooth) {% hint 'recipe_clarity_lotion' is provided %}"
+    - "I7 - Tome 3 du roman du druide entre les étagères de zoologie et de cuisine  {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
+    - "I8 - Potion de tentacule de poulpe {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence"
 
-    - "Grimoire chantant du trésor des Maupertuis {% hint 'chanting_book_with_symbolic_code_puzzle' is provided %}"
+    - "J1 - Grimoire chantant du trésor des Maupertuis {% hint 'chanting_book_with_symbolic_code_puzzle' is provided %}"
+    - "J2 - Recette de la Teinture Pyrolitis (avec balise Bluetooth) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
 -
   - "Indices à là disposition du maître de jeu"
   -
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_scepter_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %}"
-    - "Un des codes du coffret légendaire des Maupertuis, connu de la mère des Maupertuis {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}"
-    - "La broche de Meredice, trouvée si si le bon éboulement est dynamité {% hint 'maupertuis_daughter_jewel_in_metal_box_under_fallen_rocks' is provided %}"
+    - "Un des codes du coffret légendaire des Maupertuis, celui connu de la mère des Maupertuis, si elle est interrogée depuis l'au-delà {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}"
+    - "Broche de Meredice, trouvée par les joueurs si le bon éboulement est dynamité {% hint 'maupertuis_daughter_jewel_in_metal_box_under_fallen_rocks' is provided %}"
     - "Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app' is provided %}"
 
 
-# TODO INVISIBILITY BRACELET ETC!!!

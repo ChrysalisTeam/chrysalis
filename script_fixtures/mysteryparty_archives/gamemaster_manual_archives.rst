@@ -554,13 +554,15 @@ Des carrés retournables, sur un panneau (ou une application sur tablette tactil
 
 -  Le symbole propre à Octave est magiquement en surbrillance sur son avant-bras de fantôme, et il le sait. {% hint "octave_has_heir_symbol_on_arm" is needed %}
 
--  Le symbole de la famille est sur la couverture d’un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_family_symbol" is needed %} qui est dans le coffre commun de la famille, {% hint "family_common_chest_protected_by_key" is needed %}", coffre dont la clef est dans le livre factice "{% symbol "Venture Prins" for "name" %}" {% hint "family_common_chest_key_in_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”). {% fact "octave_knows_venture_prins_name" %}
+-  Le symbole de la famille est en magnétisme sur la couverture d’un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_magnetic_family_symbol" is needed %} qui est dans le coffre commun de la famille.{% hint "family_common_chest_protected_by_code" is needed %}"
+   Ce coffre est protégé part un code, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "name" %}" {% hint "family_common_chest_code_spoken_by_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”). {% fact "octave_knows_about_murmuring_venture_prins_book" %}
 
--  L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice, contenant la clef de coffre en question. {% fact "archivist_knows_venture_prins_location" %}
+-  L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice. {% fact "archivist_knows_venture_prins_location" %}
+   Il faut un stéthoscope, ou à défaut l'aide d'un automate, pour entendre le code diffusé dans le bois du livre, et ainsi ouvrir le coffre commun des Maupertuis.
 
 -  Le code peut aussi être demandé aux parents défunts, plus tard, via l’Ankou.
 
-Une fois la combinaison de ces deux symboles reproduite sur le panneau, un son puissant se fait entendre, et le passage vers le domaine interdit est libre.
+Une fois la combinaison de ces deux symboles reproduite sur le panneau, un son puissant se fait entendre, et le passage vers le domaine interdit est libre, dans les deux sens.
 
 Neutraliser la bête des Maupertuis (utile à tous)
 -------------------------------------------------
@@ -618,7 +620,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 
 -  **{% symbol "Isadora" for "maupertuis_mother" %} De Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher. {% hint "isadora_code_for_thanatologue_chest_code" is needed %} {% fact "thief_knows_about_isadora_thanatologue_chest_code" %}
 
--  Le Thanatologue se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une contre-mesure, dans le thanatologue, en appelant à viser en priorité les désenvouteurs du camp adverse. {% hint "thanatologue_book_with_zombie_spell_and_counterspell_hints" is needed %}
+-  Le Thanatologue se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une contre-mesure, dans le thanatologue, en appelant à viser en priorité les désenvouteurs du camp adverse. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
 
 -  L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
@@ -720,6 +722,7 @@ Le pentacle et les objets du rituel (ainsi que les romans) sont toujours en plac
 
 Il est possible de renvoyer autant de héros à la fois qu’il n’y a de diacres participant au rituel, les joueurs peuvent donc faire cela en une seule itération au lieu de personnage-par-personnage (pour que ce soit plus rapide en roleplay).
 
+
 Supprimer la clôture magique de la bibliothèque (piège)
 -------------------------------------------------------
 
@@ -734,7 +737,7 @@ Préserver les grimoires légendaires **(bonus des diacres ?????)**
 
 La plupart des ouvrages de la bibliothèque sont des copies de livres courants, ou retrouvés depuis dan s d’autres lieux mystiques. Mais le Thanatologue, ainsi que deux ouvrages (Necronomicon? Codex Vampiris ?) ne doivent pas tomber dans les mains des impies qui vont probablement finir par trouver, à leur tour, cette bibliothèque.
 
-Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétisme sur une carte de la bibliothèque**, ou en soudoyant le voleur.
+Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétisme sur une carte de la bibliothèque ??????**, ou en soudoyant le voleur.
 
 **TODO ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...**
 
