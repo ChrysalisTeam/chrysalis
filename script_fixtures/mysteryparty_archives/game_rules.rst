@@ -5,6 +5,9 @@
 
 # ATTENTION PAS DE nyctophobie  !!!!!!!!!!!!!
 
+# PARLER DEGAT PHYSIQUES MAGIQUES ET SACRES !!!!!!
+
+
 Apprentissage et suivi du scénario
 ++++++++++++++++++++++++++++++++++++++
 

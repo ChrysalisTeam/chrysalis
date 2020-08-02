@@ -309,6 +309,9 @@ def _display_and_check_story_hints(jinja_env):
         if 'needed' in v and 'provided' not in v:
             print("!!!!! ERROR IN hints registry for key", k, ':', v, 'requires a provided hint')
             has_coherence_errors = True
+        if 'provided' in v and 'needed' not in v:
+            print("!!!!! WARNING IN hints registry for key", k, ':', v, 'normally requires a needed hint')
+            # It's not a blocking coherence error, do don't set has_coherence_errors here
 
     return has_coherence_errors
 

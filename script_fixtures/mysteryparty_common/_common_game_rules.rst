@@ -22,6 +22,7 @@ Le jeu est pensé pour se jouer en immersion complète. Pour en profiter pleinem
   - Exemples d'accessoires: chapeau melon ou haut-de-forme, jabot, canne, robe à crinoline, éventail...
   - Il est possible de se changer sur place.
 
+Plus généralement, on tente d'ajouter un peu de jeu d'acteur aux différentes situations, en simulant les émotions, les travaux de force, la réalisation des diverses opérations que l'on peut avoir à mener, les blessures pitentiellement reçues...
 
 
 Sécurité physique et émotionnelle

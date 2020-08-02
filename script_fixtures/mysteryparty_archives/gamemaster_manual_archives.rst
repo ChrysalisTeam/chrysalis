@@ -532,7 +532,7 @@ IMPORTANT: les héros de roman ont eu très longtemps pour fouiller l’étage a
 
 -  Besoin de protection pendant le rituel, car fantomes arrivent ?
 
--  Le bourrin a une compétence INTUITION ?
+-  Le bourrin a une compétence INTUITION ? nope mais oracle oui
 
 -  Quid des oracles délivrés par les GRILLONS ???
 
@@ -599,7 +599,8 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 -  La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cett recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
--  Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé, un dans un **corridor toxique** de l’étage interdit. {# Story tags for this are in the clues document #}
+-  Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé, un dans un **corridor toxique** de l’étage interdit. {# Hint tags for this are in the clues document #}
+   Il est préférable de mettre en scène que ce corridor est empoisonné à cause d'une potion qui s'est cassée dedans. {% fact "Toxic corridor is due to spilled potion" %}
 
 -  Enfin, il faut un récipient avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 
@@ -626,10 +627,15 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 -  L’oracle a une vision d’un affrontement entre une légion de morts-vivants, dirigés par des nécromanciens, et une terre fertile et pacifique, enchantée par une figure brandissant un bâton coiffé d'un symbole : **{% symbol "soleil contenant un tourbillon" for "scepter_for_magic_amplification_symbol" %}**.
    {% hint "parcival_oracle_vision_about_necromancers_and_scepter_amplificans" is needed %}
 
--  L’arkonte se souvient de ces **{% symbol "Sceptres Amplificans" for "scepter_for_magic_amplification_name" %}** légendaires, disparus de la circulation des siècles avant lui-même, et de leur symbole. Il conseille de chercher des traces de cela dans la bibliothèque."".
-   {% fact "arkon_has_hints_about_scepter_amplificans" %}
+-  L’arkonte se souvient de ce symbole, qui est celui du légendaire **{% symbol "Sceptre Amplificans" for "scepter_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis mais a disparu à sa mort. Il conseille de chercher des traces de cela dans la bibliothèque. {% fact "arkon_has_hints_about_scepter_amplificans" %}
 
--  Plusieurs allées de l’étage interdit se finissent en cul-de-sac, et 3 d’entre elles sont protégées par d’imposants pièges. L’une d’elle porte en UV le sigle des **{% symbol "Sceptres Amplificans" for "scepter_for_magic_amplification_name" %}**. Il faut donc soit désactiver les pièges pour accéder au coffret qui est au fond, soit utiliser le **médaillon de téléportation** du voleur pour cela. Le coffret contient, sans protection, le sceptre en question {% hint "scepter_amplificans_in_trapped_corridor" is needed %}
+- Une barrière magique ultra-puissante bloque l'accès au Tombeau du {% symbol "Mage Maur Pottis" for "maupertuis_dynasty_founder" %} ; le seul moyen d'y pénétrer, c'est de s'y téléporter.
+
+- Le {% symbol 'médaillon de téléportation' for 'thief_teleportation_device_name' %} qui fut utilisé par le voleur est sur sa dépouille, qui est maudite. {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device' is needed %}
+
+- Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé.
+
+- Dans la tombe du mage se trouve la dépouille du mage, ainsi que le {% symbol "Sceptre Amplificans" for "scepter_for_magic_amplification_name" %} et un {% symbol "Bandeau Magiprotek" for "antimagic_protection_headband" %}. {% hint 'scepter_amplificans' is needed %} {% hint 'antimagic_protection_headband' is needed %}
 
 -  Avec le sceptre et la formule du désenvoûtement, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
@@ -695,7 +701,7 @@ Le traître étant insensible aux attaques physiques et sacrées, seul un rituel
 
 **IDEE - un joueur doit devenir immortel à force de différents envoutements.**
 
--  Soit reconstituer un pentacle de renvoi ailleurs, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).
+-  NOPE - Soit reconstituer un pentacle de renvoi ailleurs, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).
 
 -  Soit confectionner et lui faire boire une potion magique d’autocombustion, qui va retourner sa puissance magique contre lui ; cette potion doit être échangée avec celle que lui apporte l’automate, pour qu’il ne soit pas soupçonneux.
 
@@ -731,6 +737,14 @@ La plupart des ouvrages de la bibliothèque sont des copies de livres courants, 
 Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétisme sur une carte de la bibliothèque**, ou en soudoyant le voleur.
 
 **TODO ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...**
+
+Le bracelet spirituel (bonus)
+------------------------------------
+
+Un {% symbol "Bracelet d'Invisibilité Spirituelle" for "spiritual_invisibility_wristband" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_wristband_in_toxic_corridor" is needed %}
+
+S'y téléporter, c'est la mort assurée. Pour le récupérer, il faut soit avoir reçu une potion anti-poison, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet artefact. {% hint "recipe_antipoison_potion" is needed %}
+
 
 Rôles spécifiques des joueurs (A SUPPRIMER CAR REDONDANT???)
 =============================================================

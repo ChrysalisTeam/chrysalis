@@ -246,7 +246,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if True:
+    if False:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,
@@ -333,7 +333,7 @@ def generate_archives_sheets():
     if True:
         print("Extracting ingame clues text from ODT file")
         content = _extract_ingame_clues_text_from_odt(ALL_CLUES_DOCUMENT)
-        ##print(content[:1000].encode('ascii', 'ignore'))
+        print(content[:10000].encode('ascii', 'ignore'))
         assert "petite sœur des Parcival" in content  # comments are well included
 
         # no need for variables nor rendered output, we just fill fact-check registries
