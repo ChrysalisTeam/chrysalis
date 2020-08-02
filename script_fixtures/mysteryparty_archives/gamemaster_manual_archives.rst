@@ -738,8 +738,8 @@ Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétis
 
 **TODO ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...**
 
-Le bracelet spirituel (bonus)
-------------------------------------
+Le bracelet d'invisibilité spirituelle (bonus)
+------------------------------------------------------
 
 Un {% symbol "Bracelet d'Invisibilité Spirituelle" for "spiritual_invisibility_wristband" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_wristband_in_toxic_corridor" is needed %}
 
