@@ -19,6 +19,8 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 
 - TODO TODO !!!!!!!!!!!
 
+- Ritualiste de Bahamoot (peut aider autres)
+
 
 Connaissance des blasons
 ----------------------------------
@@ -42,3 +44,7 @@ Eruditions diverses
 ----------------------
 
 TODO, plantes ? Mots compliqués ? Latin ?
+
+
+
+$$$$$$$ 1er soins ?????????????? $$$$$

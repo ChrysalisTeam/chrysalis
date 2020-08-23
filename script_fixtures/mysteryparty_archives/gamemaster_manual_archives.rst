@@ -27,9 +27,9 @@ Pour une bonne atmosphère, l’idée est que la bibliothèque soit plongée dan
 L'histoire des Maupertuis et des Avatars
 ==================================================
 
-**La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu.**
+**La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu, c'est à dire en l'{% symbol "an 500" for "library_initial_events_year" %}.**
 
-Le jeune garçon, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a eu une histoire tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles de {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du {% symbol "cardinal Tridentès" for "old_guru_name" %}, lors du grand marasme planétaire. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a pu s’enfuir et refaire sa vie ailleurs (fondant une lignée qui deviendra les **Parcival**), mais le garçon ne l’a jamais su.
+Le jeune garçon, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a eu une histoire tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles de {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du {% symbol "cardinal Tridentès" for "old_guru_name" %}, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a pu s’enfuir et refaire sa vie ailleurs (fondant une lignée qui deviendra les **Parcival**), mais le garçon ne l’a jamais su.
 
 {% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur-archiviste **maître Parchemine** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens chateaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du {% symbol "solstice d'hiver" for "astral_opening_date" %}, pour une célébration commune de la nouvelle année, même si cette tradition n'avait plus cours depuis longtemps.
 
@@ -243,7 +243,7 @@ Monsieur Sigisbert Parchemine (précepteur d'Octave et archiviste )
 
 -  Se demande si ce n’est pas son oeuvre d’inventaire et rangement complet de la bibliothèque, inachevée, qui le retient dans ce monde.
 
--  S’assure de la bonne volonté des joueurs grâce au “Serment de Zarathoustra”, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
+-  S’assure de la bonne volonté des joueurs grâce au “Serment de Zarathoustra” //UTILISER SYMBOL//, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
 
 {% endmacro %}
 <{ phantom_archivist_character_summary }/>
@@ -263,7 +263,7 @@ L’arkonte Valérias (paladin-exorciste devenu légendaire)
 
 -  Traits : méfiance, sens du devoir, bonne volonté, intelligence, sévérité
 
--  L’arkonte sait s’être battu contre un agresseur qui résistait très bien à tous les types d'attaques (surtout sacrées) ; il se souvient, en mourant, avoir jeté la malédiction pour isoler les lieux du reste du monde, et rendu son squelette invulnérable pour ne pas disparaître sans laisser de traces ; il sait que c’est sa “lanterne spirituelle” qui l’ancre à un endroit précis
+-  L’arkonte sait s’être battu contre un agresseur qui résistait très bien à tous les types d'attaques (surtout sacrées) ; il se souvient, en mourant, avoir jeté la malédiction pour isoler les lieux du reste du monde ; il avait auparavant, au fil de ses aventures, rendu son squelette invulnérable pour ne pas risquer de disparaître sans laisser de traces ; il sait que c’est sa “lanterne spirituelle” qui l’ancre à un endroit précis
 
 -  Un peu désabusé de voir que le culte païen de Bahamoot a finalement remplacé le sien (culte yodique de confession mithraïte), dans le monastère à la surface
 
@@ -567,6 +567,8 @@ Une fois la combinaison de ces deux symboles reproduite sur le panneau, un son p
 Neutraliser la bête des Maupertuis (utile à tous)
 -------------------------------------------------
 
+A METTRE DANSS NPC COMMON KNOWLEGE
+
 Le domaine interdit des Maupertuis, rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes mais hautement dangereuses. Lors de la malédiction de la bibliothèque, celle qui s’y trouvait y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et ultra-agressive, elle est plus dangereuse que jamais.
 
 La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouché.
@@ -581,7 +583,7 @@ Pour neutraliser la bête :
 -  L’arkonte avait une armure sacrée protégeant des attaques “sacrées”, c’est à dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la bête.
    {% hint "arkon_sacred_armor" is needed %}
 
--  **L’exorciste** peut faire fuir la bête pendant **30 secondes** avec un de ses rituels ! {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
+-  **L’exorciste** peut faire fuir la bête pendant **XXXX temps** avec un de ses rituels ! {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
 
 -  L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la bête fantomatique (la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la bête reviendrait dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
 
@@ -595,7 +597,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 -  Le Cocktail de Réjuvénation demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
 
--  Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec le **scanner multi-fréquences**. {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
+-  Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées?????). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec le **scanner multi-fréquences**. {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
 
 -  Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà. {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
@@ -676,7 +678,7 @@ Avec le moulin et le grimoire chantant résolu, les explorateurs ont réussi leu
 Neutraliser le méchant
 ----------------------
 
-Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons se portent initialement sur l’arkonte, surtout de la part des héros de roman qui n’ont pu le contacter.
+Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons se portent initialement sur l’arkonte, surtout de la part des héros de roman qui n’ont pu le contacter. Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre MAGE??, peuvent aussi être suspectés.
 
 L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur enrobé de ténèbres, qui résistait aux attaques physiques et sacrées ; et qu’il a donc maudit cet attaquant (et la bibliothèque) en succombant, ainsi que protégé son propre squelette par un sort.
 

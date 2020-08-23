@@ -22,11 +22,11 @@
     - "P1 - Niche de la bête, avec la dépouille maudite du voleur et le {% symbol 'médaillon de téléportation' for 'thief_teleportation_device_name' %} dessus {% hint 'thief_cursed_skeleton' is provided %} {% hint 'thief_teleportation_device' is provided %}"
     - "P2 - Coffre légendaire des Maupertuis"
     - "P3 - Laboratoire d'alchimie"
-    - "P4 - Cul-de-sac protégé par un piège, avec des richesses au bout"
+    - "P4 - Cul-de-sac protégé par un piège, avec des richesses au bout {% fact 'trapped_corridor_keeps_jewels' %}"
     - "P5 - Cul-de-sac fermé par une porte en bronze de type 'ultra-lourd', renfermant les mini-coffrets de l'initiation d'Octave (dont l'un renfermant sa broche) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %}"
     - "P6 - Corridor empoisonné, avec le {% symbol 'Bracelet d\\'Invisibilité Spirituelle' for 'spiritual_invisibility_wristband' %} et des potions (dont celle de Fungal Bleu) au bout {% hint 'spiritual_invisibility_wristband_in_toxic_corridor' is provided %} {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
 
-    - "???????? Différents coffres et objets répartis dans les lieux, ainsi que des 'marqueurs' mis au sol par les héros de roman lors de leurs investigations infructueuses"
+    - "Quatre zones d'éboulements réparties sur les 2 étages parmi lesquelles : XXXXXXXXXXXXXXXX"
 
 -
   - "Vérifications préalables"
@@ -91,6 +91,12 @@
 
     - "J1 - Grimoire chantant du trésor des Maupertuis {% hint 'chanting_book_with_symbolic_code_puzzle' is provided %}"
     - "J2 - Recette de la Teinture Pyrolitis (avec balise Bluetooth) {% hint 'recipe_pyrolitis_tincture' is provided %}"
+
+-
+  - "Richesses à collecter"
+  -
+    - "500 kashes répartis entre les coffres et emplacements de l'étage autorisé"
+    - "500 kashes répartis entre les coffres, l'établi d'alchimie, la dépouille du voleur, et le corridor piégé de l'étage interdit"
 
 -
   - "Indices à là disposition du maître de jeu"
