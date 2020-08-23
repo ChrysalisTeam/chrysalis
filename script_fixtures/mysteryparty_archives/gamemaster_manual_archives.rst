@@ -546,7 +546,7 @@ IMPORTANT: les héros de roman ont eu très longtemps pour fouiller l’étage a
 Accéder au domaine interdit (utile à tous)
 ------------------------------------------
 
-Des carrés retournables, sur un panneau (ou une application sur tablette tactile) {% hint "symbolic_enigma_puzzle_app" is needed %} permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon symbole entier pour ouvrir le passage
+Des carrés retournables, sur un panneau (ou une application sur tablette tactile) {% hint "symbolic_enigma_puzzle_app" is needed %} permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon motif entier pour ouvrir le passage
 
 -  Des runes sur le journal d’Octave (trouvé sur sa tombe) indiquent qu’il faut la superposition du symbole secret de la famille Maupertuis, et du symbole secret d’un héritier (ici Octave) pour pouvoir ouvrir le passage. {% hint "octave_diary_with_runes_enigma_puzzle_hint" is needed %}
 
@@ -555,7 +555,7 @@ Des carrés retournables, sur un panneau (ou une application sur tablette tactil
 -  Le symbole propre à Octave est magiquement en surbrillance sur son avant-bras de fantôme, et il le sait. {% hint "octave_has_heir_symbol_on_arm" is needed %}
 
 -  Le symbole de la famille est en magnétisme sur la couverture d’un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_magnetic_family_symbol" is needed %} qui est dans le coffre commun de la famille.{% hint "family_common_chest_protected_by_code" is needed %}"
-   Ce coffre est protégé part un code, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "name" %}" {% hint "family_common_chest_code_spoken_by_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”). {% fact "octave_knows_about_murmuring_venture_prins_book" %}
+   Ce coffre est protégé part un code, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}" {% hint "family_common_chest_code_spoken_by_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”). {% fact "octave_knows_about_murmuring_venture_prins_book" %}
 
 -  L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice. {% fact "archivist_knows_venture_prins_location" %}
    Il faut un stéthoscope, ou à défaut l'aide d'un automate, pour entendre le code diffusé dans le bois du livre, et ainsi ouvrir le coffre commun des Maupertuis.
@@ -631,15 +631,15 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 -  L’oracle a une vision d’un affrontement entre une légion de morts-vivants, dirigés par des nécromanciens, et une terre fertile et pacifique, enchantée par une figure brandissant un bâton coiffé d'un symbole : **{% symbol "soleil contenant un tourbillon" for "scepter_for_magic_amplification_symbol" %}**.
    {% hint "parcival_oracle_vision_about_necromancers_and_scepter_amplificans" is needed %}
 
--  L’arkonte se souvient de ce symbole, qui est celui du légendaire **{% symbol "Sceptre Amplificans" for "scepter_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis mais a disparu à sa mort. Il conseille de chercher des traces de cela dans la bibliothèque. {% fact "arkon_has_hints_about_scepter_amplificans" %}
+-  L’arkonte se souvient de ce symbole, qui est celui du légendaire **{% symbol "Sceptre Amplificans" for "scepter_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau. {% fact "arkon_has_hints_about_scepter_amplificans" %}
 
-- Une barrière magique ultra-puissante bloque l'accès au Tombeau du {% symbol "Mage Maur Pottis" for "maupertuis_dynasty_founder" %} ; le seul moyen d'y pénétrer, c'est de s'y téléporter.
+- Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage ; le seul moyen d'y pénétrer, c'est de s'y téléporter.
 
 - Le {% symbol 'médaillon de téléportation' for 'thief_teleportation_device_name' %} qui fut utilisé par le voleur est sur sa dépouille, qui est maudite. {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device' is needed %}
 
 - Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé.
 
-- Dans la tombe du mage se trouve la dépouille du mage, ainsi que le {% symbol "Sceptre Amplificans" for "scepter_for_magic_amplification_name" %} et un {% symbol "Bandeau Magiprotek" for "antimagic_protection_headband" %}. {% hint 'scepter_amplificans' is needed %} {% hint 'antimagic_protection_headband' is needed %}
+- Dans le tombeau se trouve la dépouille du mage, ainsi que le {% symbol "Sceptre Amplificans" for "scepter_for_magic_amplification_name" %} et un {% symbol "Bandeau Magiprotek" for "antimagic_protection_headband" %}. {% hint 'scepter_amplificans' is needed %} {% hint 'antimagic_protection_headband' is needed %}
 
 -  Avec le sceptre et la formule du désenvoûtement, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
@@ -678,7 +678,7 @@ Avec le moulin et le grimoire chantant résolu, les explorateurs ont réussi leu
 Neutraliser le méchant
 ----------------------
 
-Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons se portent initialement sur l’arkonte, surtout de la part des héros de roman qui n’ont pu le contacter. Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre MAGE??, peuvent aussi être suspectés.
+Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons se portent initialement sur l’arkonte, surtout de la part des héros de roman qui n’ont pu le contacter. Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre (le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}), peuvent aussi être suspectés.
 
 L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur enrobé de ténèbres, qui résistait aux attaques physiques et sacrées ; et qu’il a donc maudit cet attaquant (et la bibliothèque) en succombant, ainsi que protégé son propre squelette par un sort.
 

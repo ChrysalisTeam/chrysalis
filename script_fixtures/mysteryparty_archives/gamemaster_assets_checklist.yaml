@@ -17,7 +17,7 @@
     - "L4 - Cimetière (tombes de l’enfant, de l’archiviste et de l’arkonte)"
     - "L5 - Coffre familial commun des Maupertuis"
     - "L6 - Mini-jungle (assemblage de grandes plantes en pots), avec le crâne empoisonné de l'arkonte BIEN caché dedans {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}"
-    - "L7 - Tombeau du {% symbol 'Mage Maur Pottis' for 'maupertuis_dynasty_founder' %}, contenant le Sceptre Amplificans et le Bandeau Bouclier Magique {% hint 'scepter_amplificans' is provided %} {% hint 'antimagic_protection_headband' is provided %}"
+    - "L7 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, contenant le Sceptre Amplificans et le Bandeau Bouclier Magique {% hint 'scepter_amplificans' is provided %} {% hint 'antimagic_protection_headband' is provided %}"
 
     - "P1 - Niche de la bête, avec la dépouille maudite du voleur et le {% symbol 'médaillon de téléportation' for 'thief_teleportation_device_name' %} dessus {% hint 'thief_cursed_skeleton' is provided %} {% hint 'thief_teleportation_device' is provided %}"
     - "P2 - Coffre légendaire des Maupertuis"
@@ -65,7 +65,7 @@
 -
   - "Galerie des portraits"
   -
-    - "Portrait du {% symbol 'Mage Maur Pottis' for 'maupertuis_dynasty_founder' %} avec instructions magnétiques: 'XXXXX'"
+    - "Portrait du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} avec instructions magnétiques: 'XXXXX'"
     - "Portrait du père des Maupertuis (Quirinius) avec message UV : YYYYYYYYYYY"
     - "Portrait de la mère des Maupertuis (Isadora) avec message UV : YYYYYYYYYYY"
     - "Portrait de la fille des Maupertuis (Mérédice) avec message UV : YYYYYYYYYYY"
@@ -130,11 +130,11 @@
 - "6 Guirlandes lumineuses BXROIU 2m (chacune 2xCR2032 incluses)"
 - "1 Guirlande lumineuse avec lierre vert 2m (2xAA)"
 - "10 galets phosphorescents bleus"
-- "Digital MP3 Player Small avec Jack3.5 ou SDCARD
+- "Digital MP3 Player Small avec Jack3.5 ou SDCARD"
 
 
 
-- L'Ankou
+- "L'Ankou"
 -
   - "Capuchon noir"
 
@@ -145,8 +145,7 @@
 
 
 - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse)"
-
-
+-
   - "Cadenas et leurs clefs"
   -
     - "Cadenas"

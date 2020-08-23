@@ -71,7 +71,8 @@ Cet exorcisme primitif "chasse" un fantome loin du ritualiste qui le déclame, p
 Explication octave symboles (en UV ?)
 ------------------------------------
 
-Paroles du Puissant Mage.
+Paroles du Puissant {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}.
+
 O héritiers, n'oubliez jamais, certaines connaissances doivent rester propres à notre lignée, non seulement pour la protéger des envieux, mais aussi pour le bien de l'humanité entière.
 C'est pour cela que, à l'âge de raison, vos géniteurs vous confieront un symbole secret, qui sera votre identité dans le domaine magique. Gardez le secret.
 A votre première initiation, vous recevrez le symbole immémorial de la famille Maupertuis. Gardez le secret également.
@@ -98,8 +99,8 @@ DONNER QUELQUES POTIONS a l'EXORCISTE AUSSI!!! (que l'alchimiste doit vouloir)
 
 
 
-Envoutement de la tombe du MAGE
--------------------------------------
+Envoutement de la tombe du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
+-----------------------------------------------------------------------------------------------
 
 - Sceau impénétrable en titane
 - Barrière de foudre
