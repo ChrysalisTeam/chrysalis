@@ -1,0 +1,9 @@
+
+Contexte Historico-géographique
+================================
+
+L'action se passe sur la planète Pangéa, en l'{% symbol "an 1000" for "current_events_year" %} de l'ère du Grand Apaisement ; le niveau de développement actuel y est similaire à notre 20° siècle terrestre, mais avec une population bien inférieure.
+
+En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'à 1900, est identique à la nôtre. Les références à ces époques de notre monde, à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent. En effet, au début du 20e siècles, les deux mondes ont bifurqué. Pendant que le nôtre continuait son chemin vers les guerres mondiales, Pangéa a subi un bouleversement tectonique et climatique majeur, appelé le {% symbol "marasme planétaire" for "catastrophic_period" %}, qui a torpillé tout développement humain durant des siècles. La planète est enfin sortie, à grand peine, de ce cataclysme, et l'humanité reprend son essor.
+
+La monnaie internationale est le kash (1 kash permet de se payer 10 baguettes de pain).
