@@ -111,3 +111,25 @@ Envoutement de la tombe du MAGE
 
 
 
+
+Sur le crâne sur le front une encoche pour le losange, visiblement causé par une fléchette. Une analyse au spectromètre de masse révèle des traces de curare emprisonné dans l'os.
+
+Cet objet a été envoûté avec un envoûtement dangereux cet objet est porteur d'un envoûtement bénéfique ; vous ne risquez rien dans le toucher. Il est dangereux de le toucher.
+
+
+Cet objet est porteur d'une bénédiction sacrée.
+
+Cet objet est porteur d'une malédiction sacrée.
+Afin de supprimer l'envoûtement qui entouré un objet, placez-vous face à lui (sans le toucher bien sûr), imposer les mains dessus, et que la mettre efforts : « par jour alors la puissance pacificatrice de minutes,
+ouvrez grand vos oreilles, si misérable mortelle, ouvrez grand vos yeux, vous qui craignez les cieux, car par la puissance pacificatrice de base minutes, je romps les liens qui enchaînaient cet objet aux strates magiques.
+
+
+Par le souffle sacré de Bamout, ont perdu, je te chasse, par loin de moi.
+
+Un objet en santé doit toujours porter, parmi d'autres sans, je nettoie sur son autocollant. Si l'étoile à un nombre impair de branche (1,3, 5,7… Fermez la parenthèse alors l'envoûtement est dangereux maléfique. À l'inverse, si l'objet a une étoile avec un nombre pair de branche (quatre, 6,8…), Alors l'objet porte un envoûtement inoffensif.
+
+
+
+Vous êtes capables de déminage les pièges que pourrait contenir la bibliothèque. C'est piège se présente sous deux formes.
+
+Soit se dans le premier cas, vous devez couper
