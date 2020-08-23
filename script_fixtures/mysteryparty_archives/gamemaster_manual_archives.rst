@@ -72,7 +72,7 @@ C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y e
 
 - Les vivants sont par défaut sensibles aux attaques physiques, magiques et sacrées.
 
-- Les vivants sont soumis aux règles du “Serment de Zarathoustra”.
+- Les vivants sont soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”.
 
 Le monde des morts
 ------------------
@@ -93,7 +93,7 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 -  Lorsqu’ils sont en phase incarnée, les fantomes qui sont morts de façon **violente** sont “attachés” spirituellement à une lumière inamovible, **placée à l’endroit où ils sont morts**. Les morts de **vieillesse**, eux, errent librement (dont la Bête).
 
--  Ils ne sont PAS soumis aux règles du “Serment de Zarathoustra”.
+-  Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”.
 
 - Des entités “démoniaques”, faisant elles aussi partie du monde des morts, pourraient être invoquées dans ce contexte. Elles auraient alors les mêmes propriétés que les fantomes, avec davantage de liberté, d’hostilité, et de pouvoirs magico-sacrés.
 
@@ -122,7 +122,7 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 -  Ils conservent les super-pouvoirs qu’ils peuvent avoir dans leur univers (regénération, force, sorts…) ; dans le cas présents, tous les avatars sont sensibles aux attaques physiques et magiques, mais le sacré ne leur fait rien car leur "transcendance" n'est pas la même que les humains.
 
--  Ils ne sont PAS soumis aux règles du “Serment de Zarathoustra”.
+-  Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”.
 
 Le monde des automates
 -------------------------------
@@ -243,7 +243,7 @@ Monsieur Sigisbert Parchemine (précepteur d'Octave et archiviste )
 
 -  Se demande si ce n’est pas son oeuvre d’inventaire et rangement complet de la bibliothèque, inachevée, qui le retient dans ce monde.
 
--  S’assure de la bonne volonté des joueurs grâce au “Serment de Zarathoustra” //UTILISER SYMBOL//, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
+-  S’assure de la bonne volonté des joueurs grâce au “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” //UTILISER SYMBOL//, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
 
 {% endmacro %}
 <{ phantom_archivist_character_summary }/>
@@ -284,7 +284,7 @@ Fédore Pass’muraille (le voleur)
 
 -  Histoire : 200 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **médaillon de téléportation** (récupérable sur son cadavre maudit, après **désenvoutement**), mais s’est fait tuer par surprise par la Bête gardant les lieux.
 
--  Le voleur n’a initialement pas conscience qu’il est mort, ni du rôle de la “lanterne spirituelle” qui l’ancre à un endroit précis ; il se croit juste piégé par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “Serment de Zarathoustra” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
+-  Le voleur n’a initialement pas conscience qu’il est mort, ni du rôle de la “lanterne spirituelle” qui l’ancre à un endroit précis ; il se croit juste piégé par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
 
 -  Il monnaie chèrement ses informations “pratiques” sur les lieux aux joueurs, contre de l’or et des pierreries.
 
@@ -450,7 +450,7 @@ L’entrée en en scène des joueurs (temps 0h00)
 
 Chaque groupe arrive dans l’étage du bas de la bibliothèque par un accès différent (ou avec un délai de quelques minutes).
 
-Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; l’archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “serment de Zarathoustra”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les héros de romans), en cette date anniversaire du drame, comme tous les 100 ans.
+Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; l’archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les héros de romans), en cette date anniversaire du drame, comme tous les 100 ans.
 
 L’ouverture du buffet (temps 0h30)
 ----------------------------------
