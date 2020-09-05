@@ -1,9 +1,12 @@
 
+# TODO à remonter dans le manuel du gamemaster!
+
+{% macro common_npc_lore_knowledge() %}
 
 Connaissances communes aux personnages de l'ère Maupertuis
 ============================================================
 
-Voici ceux que savent tous les personnages avatars et fantômes, hormis le voleur qui
+Voici ce que savent tous les personnages avatars et fantômes, hormis le voleur qui
 
 
 Si un joueur cherche des informations sur les automates, l
@@ -18,8 +21,8 @@ XXX broche de
 
 
 
-Le Mage "Mos Peratys"  (CHANGEMENT) 
-------------------------
+Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
+-------------------------------------------------------------------------------
 
 
 XXXXXXXXXX
@@ -46,6 +49,11 @@ Les grandes lignées de magiciens sont tombées l'une après l'autre, à cause d
 La lignée des Maupertuis a tenu plus longtemps que les autres, ayant bénéficié d'une réputation favorable grâce à son orientation vers les mes soins médicinaux.
 
 Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bardée d'envoutements, se délite peu à peu ; certains murs, entièrement désenvoutés, se sont effondrés. Mais ce processus prendra encore de nombreux siècles ; et certains artefacts continuent de préserver, en isolation, les puissants flux magiques qui les traversent.
+
+{% endmacro %}
+
+
+
 
 
 La derière maisonnée des Maupertuis

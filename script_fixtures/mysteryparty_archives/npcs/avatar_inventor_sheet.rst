@@ -1,10 +1,13 @@
 
-L’inventeur-scientiste (Sir Jacques Vaucanson)
-HEROS DE ROMAN (titre “Le ballet des automates”, en 1 seul Tome)
-Traits : extraversion, bonnes manières, langage châtié, dynamisme
-A conçu les automates de la bibliothèque
-Une trousse à outils doit trainer quelque part pour attester de ses travaux ?
-LE RESTE EST A DETERMINER
+Avatar - L’inventeur-scientiste {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
+###########################################################################################
+
+Votre personnage
+====================
+
+<{ avatar_principle_summary }/>
+
+<{ avatar_inventor_character_summary }/>
 
 Vous êtes le jeune sir Jacques Vaucanson, mais on vous surnomme "{% symbol "Jacko" for "inventor_name" %}".
 
@@ -16,12 +19,13 @@ Depuis, malgré votre jeune âge, vous êtes devenu un maître-automaticien reno
 
 En particulier, vous avez fouillé l'étage autorisé de la bibliothèque avec votre nouvel ami Octave, et trouvé de quoi construire plusieurs automates grandeur-nature pour faire service. Dopés par quelques sortilège de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les montrer à vos proches dans votre propre univers.
 
-##INSERT COMMON KNOWLEDGE##
+<{ common_npc_tragedy_knowledge }/>
+
+Après le drame
+===================
 
 
 Très affecté par le triste sort de vos amis, vous mettez tous vos espoirs dans les songes divinatoires de vos compères d'outre monde, pour obtenir justice et surtout libérer les âmes errantes de la maisonnée Maupertuis.
-
-
 
 
 {#
@@ -30,3 +34,7 @@ Vous êtes archivages, aventuriers et inventeur de génie. Dans votre univers, c
 Mais une force interdit mentionnait élevages rouverts, et vous a amené dans le monde de sa bibliothèque enfouie.
 depuis désespéré par le triste sort d'Octave, vous revenez tous les 10 ans célébrez sa mémoire, et espérer.
 #}
+
+
+
+<{ common_npc_lore_knowledge }/>

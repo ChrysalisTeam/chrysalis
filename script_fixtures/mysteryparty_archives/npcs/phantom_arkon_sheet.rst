@@ -1,7 +1,11 @@
 Fantôme - L'Arkonte {% symbol "Valerias" for "arkon_name" %}
 ==================================================================
 
-<{ avatar_principle_summary }/>
+Votre personnage
+====================
+
+<{ phantom_arkon_character_summary }/>
+
 
 
 Vous êtes l'arkonte Valerias.
@@ -10,7 +14,13 @@ Héroïque chevalier de la religion yodique (et plus particulièrement disciple 
 
 Votre épique parcours s'est arrêté, il y a {% symbol "500 ans" for "past_events_delay" %} lors de votre séjour dans le {% symbol "Monastère de Rochesombre" for "common_monastery_name" %} , non loin des ruines du domaine Maupertuis. A la faveur du {% symbol "solstice d'hiver" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %}. Votre ordre vous avait mis en garde contre ces phénomènes rarissimes mais lourds de périls, par lesquels différents univers s'entremêlaient. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique ne se referme.
 
-##COMMON KNOWNLEDGE
+<{ phantom_archivist_character_summary }/>
+
+<{ common_npc_tragedy_knowledge }/>
+
+Ce qui s'est réellemnt passé
+==================================
+
 
 Là, en plein milieu du tumulte du rituel de refermement des portails interdimensionnels, une puissance maléfique s'est interposée. Vous l'avez combattue sans relâche, pendant d'interminables minutes, à coups de glaive, de sortilèges et d'exorcisme. Elle encaissait douloureusement vos attaques (sauf celles sacrées, qui ne lui faisaient manifestement rien)... mais elle se régénérait en un clin d'oeil.
 
@@ -34,3 +44,5 @@ PS: Vous aviez aussi, depuis longtemps, rendu quasiment indestructible votre squ
 Vous avez parlementé avec le garçon avec Octave et l'archiviste qui s'était réfugié dans ces lieux pleins de savoir et de magie, et vous les avez convaincus de refermer les portails interdits mentionnait-elle, en retour de votre aide pour les sortir d'ici et les mettre à l'abri. Les personnages d'outre monde étaient plus ou moins étés globalement très remontés contre vous, mais ils ont bien du accepté la décision. Vous avez donc il mise en place avantage du rituel, et commencer à refermer les portes une par une.
 
 #}
+
+<{ common_npc_lore_knowledge }/>

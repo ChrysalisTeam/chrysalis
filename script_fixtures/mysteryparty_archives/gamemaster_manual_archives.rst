@@ -23,8 +23,8 @@ Les joueurs ont une feuille de mission par groupe, et seulement une ou deux comp
 
 Pour une bonne atmosphère, l’idée est que la bibliothèque soit plongée dans le noir, seulement éclairée par quelques lanternes portées par les joueurs ou posées à côté des figurants. Une machine à fumée et des spots lumineux peuvent être utilisés, en plus d'enceintes sonores, pour encore plus d'immersivité, voire quelques moments chorégraphiés façon “Son & Lumière”.
 
-
-L'histoire des Maupertuis et des Avatars
+{% macro common_npc_tragedy_knowledge() %}
+La tragédie des Maupertuis et des Avatars
 ==================================================
 
 **La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu, c'est à dire en l'{% symbol "an 500" for "library_initial_events_year" %}.**
@@ -37,7 +37,7 @@ Les deux survivants ont vécu là seuls 15 mois durant, le précepteur estimant 
 
 Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’Octave, plusieurs personnages imaginaires se sont réellement incarnés dans la bibliothèque, devenant ainsi ce que l'on appelle des **"avatars"** : un inventeur, un druide, une princesse, une corsaire, un mousquetaire, un homme-chat, un pilote de biplan...
 L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.
-L’archiviste l’a découvert, mais il a bien dû accepter la situation, tout en interdisant aux avatars de sortir de la bibliothèque.
+L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de sortir de la bibliothèque.
 
 Quelques mois plus tard a eu lieu le {% symbol "solstice d'hiver" for "astral_opening_date" %} suivant. **L’arkonte (paladin-exorciste) Valerias, de religion yodique (et plus particulièrement de confession mithraïte)**, qui résidait dans le {% symbol "Monastère de Rochesombre" for "common_monastery_name" %}, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
 
@@ -47,7 +47,10 @@ Certains de ces avatars ont effectivement vu le passage interdimensionnel se ref
 
 Les avatars restant ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir mais dont ils ont marqué, au sol, l'emplacement. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège des Maupertuis.
 
-La princesse a, dans son propre monde, reçu l'oracle que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outremonde" for "banquet_name" %} en l'honneur rdes Maupertuis, dans l'attente de la réalisation de cette prophétie.
+La princesse a, dans son propre monde, reçu l'oracle que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outremonde" for "banquet_name" %} en l'honneur des Maupertuis, dans l'attente de la réalisation de cette prophétie.
+
+{% endmacro %}
+<{ common_npc_tragedy_knowledge }/>
 
 Fond de l’intrigue (SPOILER)
 ============================
@@ -367,6 +370,16 @@ L’inventeur-scientiste (Sir Vaucanson)
 
 La princesse-enchanteresse (Dame XXXXXXX)
 ---------------------------------------------
+
+{% macro avatar_princess_character_summary() %}
+
+-  HEROINE DE ROMAN
+
+# TODO A REMPLIR
+
+{% endmacro %}
+<{ avatar_princess_character_summary }/>
+
 
 TODO
 

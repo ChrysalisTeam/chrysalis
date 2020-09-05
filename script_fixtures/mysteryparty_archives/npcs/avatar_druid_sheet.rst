@@ -1,12 +1,16 @@
 Avatar - Le druide {% symbol "Diviciacos" for "druid_name" %}
-=================================================================
+########################################################################
 
-<{ avatar_druid_character_summary }/>
+Votre personnage
+====================
 
 {% macro avatar_principle_summary() %}
 Vous êtes ce que les mystiques de la planète Terre appellent un **avatar**. C'est-à-dire que vous êtes né de l'imagination d'un écrivain, qui vous a couché par écrit dans un roman, avec tout votre univers. Mais par un prodige rarissime, un de vos lecteurs a réussi à vous "incarner" dans le monde des vivants.
 {% endmacro %}
 <{ avatar_principle_summary }/>
+
+<{ avatar_druid_character_summary }/>
+
 
 Vous êtes le druide {% symbol "Diviciacos" for "druid_name" %}, grand connaisseur de la Nature, et de la Magie des Esprits qui lui est liée. Vous êtes l'un des principaux personnages d'un roman appelé {% symbol "Les sorciers du chaos" for "druid_novel_name" %}, en **{% symbol "3" for "druid_novel_volumes" %} tomes**.
 
@@ -17,8 +21,11 @@ Cet état de fait durait depuis très longtemps, lorsque vous avez senti une pr�
 {% endmacro %}
 <{ avatar_arrival_on_earth }/>
 
-##INSERT COMMON KNOWLEDGE##
 
+<{ common_npc_tragedy_knowledge }/>
+
+Après le drame
+===================
 
 <Mais il ne s'agissait pas que de passer le temps. Pour vous, la signification de tout ceci était claire> : Mère Nature vous avait appelé, dans ce monde qui avait généré le vôtre, enfin que vous y meniez la même tâche prophétique de destruction de la technologie, et de retour à l'Harmonie Naturelle. Mais pour cela, il vous fallait d'abord comprendre le fonctionnement de cet univers, de sa science, de sa magie, et en particuliers de ces "envoûtements" qui résistaient si souvent à votre propre magie druidique. Vous avez donc joué le jeu, et investigué en secret pour débloquer l'accès au Domaine Interdit de la bibliothèque, malgré les mises en garde préalables d'Octave et de l'archiviste. Heureusement pour vous, Octave n'avait pas trouvé le troisième tome de votre roman, et ne connaissait donc rien de votre conception assez particulière de la morale. Hélas, l'arkonte {% symbol "Valerias" for "arkon_name" %} est venu mettre vos plans en pièces.
 
@@ -34,4 +41,6 @@ Depuis, vos investigations cafouillent, je vous attendais avec impatience que de
 Vous aviez pris soin de mettre en premier, sur la ville, le livre de vos congénères NON,, sauf ce de l'inventeur et de l'enchanteresse, qui pourrait vous être utile.
 Hélas, un trouble-fête est venu mettre vos plans en pièces . L'Arkonte Val, s'entend la présence d'entités étrangères à son monde, s'immisça dans la bibliothèque, et a mis les survivants de Maupertuis en demeure de cesser ses activités. Vous avez joué la collaboration, afin de ne pas éventer vos plans. Malgré les récriminations des autres personnages légendaires, Octave a fini par accepter les propositions les indemnisations de leur compte, et chaque personnage d'autre monde retournait dans son, comme attendant le rituel sacré qui refermerait les portes et portails internes monde.
 #}
+
+<{ common_npc_lore_knowledge }/>
 
