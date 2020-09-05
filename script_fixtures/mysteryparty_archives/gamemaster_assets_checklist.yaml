@@ -85,14 +85,14 @@
     - "I1 - Livre factice bleu (contient la clef du livre factice rouge et XXX pierreries), marqué au sol"
     - "I2 - Livre factice bleu (montre en magnétisme le code du livre factice bleu, contient la broche du père Maupertuis), marqué au sol {% hint 'maupertuis_father_jewel_in_twin_books' is provided %}"
     - "I3 - Livre 'Venture Prins' murmurant le code du coffre commun familial des Maupertuis {% hint 'family_common_chest_code_spoken_by_venture_prins_fake_book' is provided %}"
-    - "I4 - Recette du Cocktail de Réjuvénation (avec balise Bluetooth, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
-    - "I5 - Recette de l'Elixir Flexifiant (avec balise Bluetooth) {% hint 'recipe_flex_elixir' is provided %}"
-    - "I6 - Recette de la Lotion de Clairvoyance (avec balise Bluetooth) {% hint 'recipe_clarity_lotion' is provided %}"
+    - "I4 - Recette du Cocktail de Réjuvénation (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
+    - "I5 - Recette de l'Elixir Flexifiant (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_flex_elixir' is provided %}"
+    - "I6 - Recette de la Lotion de Clairvoyance (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_clarity_lotion' is provided %}"
     - "I7 - Tome 3 du roman du druide entre les étagères de zoologie et de cuisine  {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
     - "I8 - Potion de tentacule de poulpe {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence"
 
     - "J1 - Grimoire chantant du trésor des Maupertuis {% hint 'chanting_book_with_symbolic_code_puzzle' is provided %}"
-    - "J2 - Recette de la Teinture Pyrolitis (avec balise Bluetooth) {% hint 'recipe_pyrolitis_tincture' is provided %}"
+    - "J2 - Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
 -
   - "Richesses à collecter"
@@ -113,41 +113,77 @@
   - "1 pierre tombale verte"
   - "Aube dorée"
   - "Masque 'anonymous' doré"
+  - "/!\ Squelette plastique à fournir par la médiathèque"
+
 
 - "Projecteur globe Aurore Boréale Lunartec (secteur/12V)"
-- "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 + Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 512Mo incluse"
+- "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 + Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse"
 - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA)"
 - "Microphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi"
 - "Boule plasma Pearl (USB ou 4xAAA)"
 - "Lampe-tempête Argent (2xPileD incluses)"
 - "Lampe-tempête Bronze (2xPileD incluses)"
 - "Lampe à fibres Blue ice Lunartec (3xAAA)"
-- "4 lumignons soufflables (chacune 1xCR2032 incluse)"
-- "1 jarre lumineuse NewYang (batterie solaire incluse)"
+- "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
+- "Jarre lumineuse NewYang (batterie solaire incluse)"
 - "4 bandes LED Black Light (USB))"
 - "Squelette 18 os avec crâne sonore (2xAA)"
 - "Squelette 28 os simple"
 - "6 Guirlandes lumineuses BXROIU 2m (chacune 2xCR2032 incluses)"
 - "1 Guirlande lumineuse avec lierre vert 2m (2xAA)"
 - "10 galets phosphorescents bleus"
-- "Digital MP3 Player Small avec Jack3.5 ou SDCARD"
+
+- "Lampe tube blanche autonome"
+- "2 cigales en céramique à détection de mouvement"
+- "Mini globe terrestre"
 
 
+- "Digital MP3 Player Small avec SDCARD 512Mo incluse"
+- "Lecteur MP3 AGPTEK Go2 Small à batterie avec mémoire interne 8Go incluse"
+- "Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse"
+- "Mini-enceinte cylindre étanche bluetooth EWA-A106Pro"
+- "Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth"
+
+- "Batterie USB Duracelle PB2 24.3Wh"
+- "Batterie LifeDom 18Wh"
+
+- "Encensoir en argent plaqué avec chainettes"
+
+- "Fantômes"
+-
+  - "4 paires gants blancs à diodes (3 à lumière blanche et 1 bleue)"
+  - "ailes en tissu (look métallique)"
+
+- "6 papillons volants à élastique"
+- "Sonnette de table argentée"
 
 - "L'Ankou"
 -
-  - "Capuchon noir"
+  - "Capuchon noir en feutre"
 
-- La Bête
+- "La Bête"
 -
   - "Masque latex de goule"
   - "Gants latex griffus"
+  - "Guètres latex griffues"
 
+- "Stylo doré surmonté d'un diamant"
 
 - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse)"
+
 -
   - "Cadenas et leurs clefs"
   -
-    - "Cadenas"
-    - "Cadenas"
-    - "Cadenas"
+    - "2 cadenas transparents avec 2 kits de crochetage"
+    - "Cadenas moyen sans marque avec sa clé"
+    - "Mini-cadenas sans marque avec sa clé"
+    - "2 mini-cadenas GoTravels avec 2 mini-clés chacun"
+    - "Mini-cadenas ancien Jaihiund avec sa clé"
+    - "Cadenas ancien Aligarh LK Factory avec sa clé"
+    - "Cadenas à 3 chiffres DavidJones"
+
+
+
+- "logistique"
+-
+  - "boite de maquillage spécial UV"
