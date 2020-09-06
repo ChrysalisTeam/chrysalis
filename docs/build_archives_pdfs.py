@@ -96,11 +96,16 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
 # documents without decorations, typically ; one can provide a LIST of RST files as value
 ISOLATED_DOCS = {
     # GAMEMASTER DOCS
-    "gamemaster_assets_checklist": "gamemaster_assets_checklist.rst",
+    #"gamemaster_assets_checklist": "gamemaster_assets_checklist.rst",
     # NPCS
     "npc_avatar_druid_sheet": "npcs/avatar_druid_sheet.rst",
-    "npc_phantom_arkon_sheet": "npcs/phantom_arkon_sheet.rst",
     "npc_avatar_inventor_sheet": "npcs/avatar_inventor_sheet.rst",
+    "npc_avatar_princess_sheet": "npcs/avatar_princess_sheet.rst",
+    "npc_phantom_archivist_sheet": "npcs/phantom_archivist_sheet.rst",
+    "npc_phantom_arkon_sheet": "npcs/phantom_arkon_sheet.rst",
+    "npc_phantom_octave_sheet": "npcs/phantom_octave_sheet.rst",
+    "npc_phantom_thief_sheet": "npcs/phantom_thief_sheet.rst",
+
     # FACTIONS
     "faction_diakon_sheet.rst": "factions/diakon_group_sheet.rst",
     "faction_explorer_sheet.rst": "factions/explorer_group_sheet.rst",
@@ -300,7 +305,7 @@ def generate_archives_sheets():
         return player_data
 
     # then character full sheets
-    if True:
+    if False:
         for player in players_names:
             parts = [(part % dict(player_name=player) if not callable(part) else part)
                      for part in PLAYER_MANUAL_PARTS]

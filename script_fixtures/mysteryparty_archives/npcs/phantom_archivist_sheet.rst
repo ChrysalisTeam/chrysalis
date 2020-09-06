@@ -7,7 +7,7 @@ Votre personnage
 
 <{ phantom_archivist_character_summary }/>
 
-<{ common_npc_tragedy_knowledge }/>
+<{ common_npc_tragedy_knowledge with_post_tragedy=False }/>
 
 Après le drame
 ===================

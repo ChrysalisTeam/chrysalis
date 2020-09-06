@@ -6,8 +6,6 @@ Votre personnage
 
 <{ phantom_arkon_character_summary }/>
 
-
-
 Vous êtes l'arkonte Valerias.
 
 Héroïque chevalier de la religion yodique (et plus particulièrement disciple de la confession dite "mithraïque"), grand érudit, adepte de nombreuses formes de magie, ferme défenseur des humains contre les incursions d'entités démoniaques, vous avez parcouru la planète en laissant derrière vous d'innombrables légendes.
@@ -16,7 +14,8 @@ Votre épique parcours s'est arrêté, il y a {% symbol "500 ans" for "past_even
 
 <{ phantom_archivist_character_summary }/>
 
-<{ common_npc_tragedy_knowledge }/>
+<{ common_npc_tragedy_knowledge with_post_tragedy=False }/>
+
 
 Ce qui s'est réellemnt passé
 ==================================

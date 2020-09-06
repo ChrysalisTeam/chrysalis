@@ -76,8 +76,11 @@
   -
     - "La table doit 'murmurer' à travers le bois ce message : XXXXXXXXXXXXXXXXXXXXXX"
     - "Moulin à poivre enchanté {% hint 'grinding_mill_magical' is provided %}"
-    - "Chaudron en cuiver avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %}"
+    - "Chaudron en cuivre avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %}"
+    - "Passoire cylindrique en métal"
     - "Potion de vapeurs de thorium, dans un coffret à crocheter {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
+    - "Grand lot de petites bouteilles diverses et condiments"
+    - "Fontaine à encens illuminée"
 
 -
   - "Indices cachés ou disséminés"
@@ -182,7 +185,7 @@
     - "Cadenas ancien Aligarh LK Factory avec sa clé"
     - "Cadenas à 3 chiffres DavidJones"
 
-
+- "Astrolabe en laiton"
 
 - "logistique"
 -

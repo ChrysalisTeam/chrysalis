@@ -23,7 +23,9 @@ Les joueurs ont une feuille de mission par groupe, et seulement une ou deux comp
 
 Pour une bonne atmosphère, l’idée est que la bibliothèque soit plongée dans le noir, seulement éclairée par quelques lanternes portées par les joueurs ou posées à côté des figurants. Une machine à fumée et des spots lumineux peuvent être utilisés, en plus d'enceintes sonores, pour encore plus d'immersivité, voire quelques moments chorégraphiés façon “Son & Lumière”.
 
-{% macro common_npc_tragedy_knowledge() %}
+{% macro common_npc_tragedy_knowledge(with_post_tragedy=True) %}
+
+
 La tragédie des Maupertuis et des Avatars
 ==================================================
 
@@ -43,14 +45,19 @@ Quelques mois plus tard a eu lieu le {% symbol "solstice d'hiver" for "astral_op
 
 Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanité, et de laisser l’arkonte renvoyer définitivement les avatars hors de la Terre ; en retour, l’arkonte amènerait avec lui {% symbol "Octave" for "maupertuis_son" %} et l'archiviste, en sécurité, dans un autre pays. Après des adieux déchirants, les personnages imaginaires sont chacun retournés dans leur univers en attendant que le rituel verrouille à nouveau les accès au monde réel.
 
+{% if with_post_tragedy %}
 Certains de ces avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - inventeur, druide et princess - cela n'a pas été le cas. Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier), et - horreur - le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
 
 Les avatars restant ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir mais dont ils ont marqué, au sol, l'emplacement. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège des Maupertuis.
 
 La princesse a, dans son propre monde, reçu l'oracle que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outremonde" for "banquet_name" %} en l'honneur des Maupertuis, dans l'attente de la réalisation de cette prophétie.
+{% else %}
+Mais rien ne s'est passé comme prévu...
+{% endif %}
 
 {% endmacro %}
 <{ common_npc_tragedy_knowledge }/>
+
 
 Fond de l’intrigue (SPOILER)
 ============================
