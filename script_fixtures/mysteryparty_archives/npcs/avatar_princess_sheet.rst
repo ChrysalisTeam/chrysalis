@@ -9,7 +9,7 @@ Votre personnage
 
 <{ avatar_princess_character_summary }/>
 
-<{ common_npc_tragedy_knowledge }/>
+<{ common_npc_tragedy_knowledge is_avatar=True }/>
 
 Après le drame
 ===================

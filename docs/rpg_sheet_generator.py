@@ -304,7 +304,7 @@ def _display_and_check_story_hints(jinja_env):
 
     has_coherence_errors = False
     hints_registry_good_value = set(['needed', 'provided'])
-    for k, v in jinja_env.hints_registry.items():
+    for k, v in sorted(jinja_env.hints_registry.items()):
         assert v <= hints_registry_good_value, (k, v)  # no weird values
         if 'needed' in v and 'provided' not in v:
             print("!!!!! ERROR IN hints registry for key", k, ':', v, 'requires a provided hint')

@@ -1,5 +1,5 @@
-Fantôme - L'Archiviste XXXX
-##################################
+Fantôme - L'Archiviste {% symbol "Maître Parchemine" for "archivist_name" %}
+##########################################
 
 
 Votre personnage
@@ -7,7 +7,7 @@ Votre personnage
 
 <{ phantom_archivist_character_summary }/>
 
-<{ common_npc_tragedy_knowledge with_post_tragedy=False }/>
+<{ common_npc_tragedy_knowledge is_avatar=False }/>
 
 Après le drame
 ===================

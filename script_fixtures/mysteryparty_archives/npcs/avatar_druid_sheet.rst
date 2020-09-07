@@ -22,7 +22,7 @@ Cet état de fait durait depuis très longtemps, lorsque vous avez senti une pr�
 <{ avatar_arrival_on_earth }/>
 
 
-<{ common_npc_tragedy_knowledge }/>
+<{ common_npc_tragedy_knowledge is_avatar=True }/>
 
 Après le drame
 ===================

@@ -23,40 +23,46 @@ Les joueurs ont une feuille de mission par groupe, et seulement une ou deux comp
 
 Pour une bonne atmosphère, l’idée est que la bibliothèque soit plongée dans le noir, seulement éclairée par quelques lanternes portées par les joueurs ou posées à côté des figurants. Une machine à fumée et des spots lumineux peuvent être utilisés, en plus d'enceintes sonores, pour encore plus d'immersivité, voire quelques moments chorégraphiés façon “Son & Lumière”.
 
-{% macro common_npc_tragedy_knowledge(with_post_tragedy=True) %}
 
+{% macro common_npc_tragedy_knowledge(is_avatar) %}
 
-La tragédie des Maupertuis et des Avatars
+La rencontre des Maupertuis et des Avatars
 ==================================================
 
-**La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu, c'est à dire en l'{% symbol "an 500" for "library_initial_events_year" %}.**
+*Connaissances communes aux avatars et aux fantômes, sauf le voleur.*
 
-Le jeune garçon, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a eu une histoire tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles de {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du {% symbol "cardinal Tridentès" for "old_guru_name" %}, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a pu s’enfuir et refaire sa vie ailleurs (fondant une lignée qui deviendra les **Parcival**), mais le garçon ne l’a jamais su.
+**La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu, c'est à dire en l'{% symbol "an 500" for "library_initial_events_year" %} de la nouvelle ère.**
 
-{% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur-archiviste **maître Parchemine** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens chateaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du {% symbol "solstice d'hiver" for "astral_opening_date" %}, pour une célébration commune de la nouvelle année, même si cette tradition n'avait plus cours depuis longtemps.
+L'enfant, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a eu une histoire tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a disparu aussi.
+
+{% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur-archiviste **{% symbol "Maître Parchemine" for "archivist_name" %}** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens chateaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du {% symbol "solstice d'hiver" for "astral_opening_date" %}, pour une célébration commune de la nouvelle année, même si cette tradition n'avait plus cours depuis longtemps.
 
 Les deux survivants ont vécu là seuls 15 mois durant, le précepteur estimant qu'{% symbol "Octave" for "maupertuis_son" %} n'était pas encore prêt pour affronter la rudesse du dehors. Ils n'ont pu se rendre dans le "domaine interdit" de la bibliothèque, gardé par une Bête, car Octave n'avait pas encore reçu l'initiation lui permettant d'ouvrir le passage vers ce saint-des-saints, contrairement à sa soeur. Esseulé, l'enfant s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une intimité de plus en plus fortes avec les héros de ces oeuvres.
 
 Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’Octave, plusieurs personnages imaginaires se sont réellement incarnés dans la bibliothèque, devenant ainsi ce que l'on appelle des **"avatars"** : un inventeur, un druide, une princesse, une corsaire, un mousquetaire, un homme-chat, un pilote de biplan...
 L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.
-L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de sortir de la bibliothèque.
+L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de jamais sortir de la bibliothèque.
 
-Quelques mois plus tard a eu lieu le {% symbol "solstice d'hiver" for "astral_opening_date" %} suivant. **L’arkonte (paladin-exorciste) Valerias, de religion yodique (et plus particulièrement de confession mithraïte)**, qui résidait dans le {% symbol "Monastère de Rochesombre" for "common_monastery_name" %}, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
+Quelques mois plus tard a eu lieu le {% symbol "solstice d'hiver" for "astral_opening_date" %} suivant. **L’arkonte (paladin-exorciste) Valerias, de religion yodique (et plus particulièrement de confession mithraïte)**, qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
 
 Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanité, et de laisser l’arkonte renvoyer définitivement les avatars hors de la Terre ; en retour, l’arkonte amènerait avec lui {% symbol "Octave" for "maupertuis_son" %} et l'archiviste, en sécurité, dans un autre pays. Après des adieux déchirants, les personnages imaginaires sont chacun retournés dans leur univers en attendant que le rituel verrouille à nouveau les accès au monde réel.
 
-{% if with_post_tragedy %}
-Certains de ces avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - inventeur, druide et princess - cela n'a pas été le cas. Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier), et - horreur - le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
+{% if is_avatar %}
 
-Les avatars restant ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir mais dont ils ont marqué, au sol, l'emplacement. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège des Maupertuis.
+*A partir d'ici, connaissances communes uniquement aux avatars.*
+
+Certains de ces avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - inventeur, druide et princesse - cela n'a pas été le cas. Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier) ; horreur, le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
+
+Explorés, ces avatars restants ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir, mais dont ils ont marqué au sol l'emplacement. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis.
 
 La princesse a, dans son propre monde, reçu l'oracle que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outremonde" for "banquet_name" %} en l'honneur des Maupertuis, dans l'attente de la réalisation de cette prophétie.
+
 {% else %}
 Mais rien ne s'est passé comme prévu...
 {% endif %}
 
 {% endmacro %}
-<{ common_npc_tragedy_knowledge }/>
+<{ common_npc_tragedy_knowledge is_avatar=False }/>
 
 
 Fond de l’intrigue (SPOILER)
@@ -228,7 +234,7 @@ Octave de Maupertuis (l’enfant)
 
 -  Passionné de littérature fantastique et autres livres.
 
--  “Mes parents m’ont dit de ne jamais parler à des inconnus. Maître Parchemine aussi. Mais je m’ennuie trop, alors tant pis”
+-  “Mes parents m’ont dit de ne jamais parler à des inconnus. {% symbol "Maître Parchemine" for "archivist_name" %} aussi. Mais je m’ennuie trop, alors tant pis”
 
 {% endmacro %}
 <{ phantom_octave_character_summary }/>
@@ -238,7 +244,7 @@ Octave de Maupertuis (l’enfant)
 **S'il arrive au coin enfant (avec jouet et peluche) il donne davantage d’informations ?**
 #}
 
-Monsieur Sigisbert Parchemine (précepteur d'Octave et archiviste )
+{% symbol "Maître Parchemine" for "archivist_name" %} (précepteur d'Octave et archiviste )
 ------------------------------------------------------------------------
 
 {% macro phantom_archivist_character_summary() %}
@@ -624,7 +630,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 -  La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cett recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
 -  Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé, un dans un **corridor toxique** de l’étage interdit. {# Hint tags for this are in the clues document #}
-   Il est préférable de mettre en scène que ce corridor est empoisonné à cause d'une potion qui s'est cassée dedans. {% fact "Toxic corridor is due to spilled potion" %}
+   Il est préférable de mettre en scène que ce corridor est empoisonné à cause d'une potion qui s'est cassée dedans. {% fact "toxic_corridor_is_due_to_spilled_potion" %}
 
 -  Enfin, il faut un récipient avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 

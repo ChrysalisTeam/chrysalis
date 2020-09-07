@@ -14,7 +14,7 @@ Votre épique parcours s'est arrêté, il y a {% symbol "500 ans" for "past_even
 
 <{ phantom_archivist_character_summary }/>
 
-<{ common_npc_tragedy_knowledge with_post_tragedy=False }/>
+<{ common_npc_tragedy_knowledge is_avatar=False }/>
 
 
 Ce qui s'est réellemnt passé
