@@ -33,9 +33,9 @@ La rencontre des Maupertuis et des Avatars
 
 **La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu, c'est à dire en l'{% symbol "an 500" for "library_initial_events_year" %} de la nouvelle ère.**
 
-L'enfant, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a eu une histoire tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a disparu aussi.
+L'enfant, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a connu une destinée tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a disparu durant ces évènements.
 
-{% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur-archiviste **{% symbol "Maître Parchemine" for "archivist_name" %}** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens chateaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du {% symbol "solstice d'hiver" for "astral_opening_date" %}, pour une célébration commune de la nouvelle année, même si cette tradition n'avait plus cours depuis longtemps.
+{% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur-archiviste **{% symbol "Maître Parchemine" for "archivist_name" %}** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens chateaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, pour une célébration commune de la nouvelle année, même si cette tradition n'avait plus cours depuis longtemps.
 
 Les deux survivants ont vécu là seuls 15 mois durant, le précepteur estimant qu'{% symbol "Octave" for "maupertuis_son" %} n'était pas encore prêt pour affronter la rudesse du dehors. Ils n'ont pu se rendre dans le "domaine interdit" de la bibliothèque, gardé par une Bête, car Octave n'avait pas encore reçu l'initiation lui permettant d'ouvrir le passage vers ce saint-des-saints, contrairement à sa soeur. Esseulé, l'enfant s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une intimité de plus en plus fortes avec les héros de ces oeuvres.
 
@@ -43,7 +43,7 @@ Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’O
 L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.
 L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de jamais sortir de la bibliothèque.
 
-Quelques mois plus tard a eu lieu le {% symbol "solstice d'hiver" for "astral_opening_date" %} suivant. **L’arkonte (paladin-exorciste) Valerias, de religion yodique (et plus particulièrement de confession mithraïte)**, qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
+Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) Valerias, de religion yodique (et plus particulièrement de confession mithraïte)**, qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
 
 Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanité, et de laisser l’arkonte renvoyer définitivement les avatars hors de la Terre ; en retour, l’arkonte amènerait avec lui {% symbol "Octave" for "maupertuis_son" %} et l'archiviste, en sécurité, dans un autre pays. Après des adieux déchirants, les personnages imaginaires sont chacun retournés dans leur univers en attendant que le rituel verrouille à nouveau les accès au monde réel.
 
@@ -55,7 +55,7 @@ Certains de ces avatars ont effectivement vu le passage interdimensionnel se ref
 
 Explorés, ces avatars restants ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir, mais dont ils ont marqué au sol l'emplacement. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis.
 
-La princesse a, dans son propre monde, reçu l'oracle que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outremonde" for "banquet_name" %} en l'honneur des Maupertuis, dans l'attente de la réalisation de cette prophétie.
+La princesse a, dans son propre monde, reçu l'oracle que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outremonde" for "banquet_name" %} en l'honneur des Maupertuis, dans l'attente de la réalisation de cette prophétie.
 
 {% else %}
 Mais rien ne s'est passé comme prévu...
@@ -150,7 +150,7 @@ Les maîtres de jeu, photographes, et servants du buffet, ont intérêt à faire
 Équipes de joueurs
 ==================
 
-Tout débute lorsque des explorateurs héliossars (ceux présents dans le jeu), à la recherche des secrets des Maupertuis, exhument des monolithes couverts d'inscriptions antiques. Hélas pour eux, des images de leur trouvaille fuitent, et font le tour de la presse mondiale ; quelques groupes de personnes se révèlent capables de la déchiffrer, et de comprendre ainsi le fonctionnement des portails menant à la bibliothèque des Maupertuis, portails actifs lors du {% symbol "solstice d'hiver" for "astral_opening_date" %} qui arrive. Tous ces gens s’y rendent prestement à cette date, pour des raisons différentes, sans réaliser qu’ils se jettent ainsi dans la gueule du loup.
+Tout débute lorsque des explorateurs héliossars (ceux présents dans le jeu), à la recherche des secrets des Maupertuis, exhument des monolithes couverts d'inscriptions antiques. Hélas pour eux, des images de leur trouvaille fuitent, et font le tour de la presse mondiale ; quelques groupes de personnes se révèlent capables de la déchiffrer, et de comprendre ainsi le fonctionnement des portails menant à la bibliothèque des Maupertuis, portails actifs lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}** qui arrive. Tous ces gens s’y rendent prestement à cette date, pour des raisons différentes, sans réaliser qu’ils se jettent ainsi dans la gueule du loup.
 
 Les explorateurs héliossars
 ---------------------------
@@ -185,7 +185,7 @@ Leur devise est **"Nobles de coeur comme de sang."**, le poing fermé sur le coe
 Les diacres de Bahamoot
 ------------------------
 
-Ces 3 moines officient pour le culte du Dieu Bahamoot, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des âmes errantes (les fantômes). Ils s’y rendent donc pour résoudre les problèmes, et protéger l’ordre des choses.
+Ces 3 moines officient pour le culte du dieu Bahamoot, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des âmes errantes (les fantômes). Ils s’y rendent donc pour résoudre les problèmes, et protéger l’ordre des choses.
 
 {# **Il ont aussi ordre de détruire magiquement les 3 livres “maléfiques” que contient le domaine interdit des Maupertuis, de peur qu’ils ne tombent en de mauvaises mains (la bibliothèque ne peut pas juste être brûlée). ????????** NOPE #}
 
@@ -279,9 +279,9 @@ L’arkonte Valérias (paladin-exorciste devenu légendaire)
 
 -  Traits : méfiance, sens du devoir, bonne volonté, intelligence, sévérité
 
--  L’arkonte sait s’être battu contre un agresseur qui résistait très bien à tous les types d'attaques (surtout sacrées) ; il se souvient, en mourant, avoir jeté la malédiction pour isoler les lieux du reste du monde ; il avait auparavant, au fil de ses aventures, rendu son squelette invulnérable pour ne pas risquer de disparaître sans laisser de traces ; il sait que c’est sa “lanterne spirituelle” qui l’ancre à un endroit précis
+-  L’arkonte se souvient de sa mort en combat singulier, et d'avoir jeté la malédiction sur la bibliothèque. Il sait être attaché mystiquement à la zone de sa mort violente.
 
--  Un peu désabusé de voir que le culte païen de Bahamoot a finalement remplacé le sien (culte yodique de confession mithraïte), dans le monastère à la surface
+-  Un peu désabusé de voir que le culte païen du dieu Bahamoot a finalement remplacé le sien (le culte yodique de confession mithraïte), dans le monastère à la surface
 
 -  Exige de pouvoir faire sa “confession de mission” à un prélat de la religion yodique, et uniquement dans ce cas il livre tout ce qu’il sait sur la situation ; n’aide que les joueurs en qui il a confiance pour mener à bien sa mission de protection de l’humanité (et qui ne vont pas simplement lever le confinement de la bibliothèque, en détruisant ainsi ses efforts)
 
