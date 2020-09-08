@@ -19,7 +19,7 @@
     - "L6 - Mini-jungle (assemblage de grandes plantes en pots), avec le crâne empoisonné de l'arkonte BIEN caché dedans {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}"
     - "L7 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, contenant le Sceptre Amplificans et le Bandeau Bouclier Magique {% hint 'scepter_amplificans' is provided %} {% hint 'antimagic_protection_headband' is provided %}"
 
-    - "P1 - Niche de la bête, avec la dépouille maudite du voleur et le {% symbol 'médaillon de téléportation' for 'thief_teleportation_device_name' %} dessus {% hint 'thief_cursed_skeleton' is provided %} {% hint 'thief_teleportation_device' is provided %}"
+    - "P1 - Niche de la bête, avec la dépouille maudite du voleur et le {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} dessus {% hint 'thief_cursed_skeleton' is provided %} {% hint 'thief_teleportation_device' is provided %}"
     - "P2 - Coffre légendaire des Maupertuis"
     - "P3 - Laboratoire d'alchimie"
     - "P4 - Cul-de-sac protégé par un piège, avec des richesses au bout {% fact 'trapped_corridor_keeps_jewels' %}"

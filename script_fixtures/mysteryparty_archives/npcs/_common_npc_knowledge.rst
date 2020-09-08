@@ -44,7 +44,7 @@ La goule du domaine interdit
 
 Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes mais hautement dangereuses car pourvues de longues griffes et très résistantes à la magie. Nourries et choyées en échange de leurs bons services, les goules étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres.
 
-Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, pas les avatars).
+Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars).
 
 
 

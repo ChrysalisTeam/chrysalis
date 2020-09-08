@@ -301,9 +301,9 @@ Fédore Pass’muraille (le voleur)
 
 -  Traits : convoitise, roublardise, bagout, incrédulité, défiance
 
--  Histoire : 200 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **médaillon de téléportation** (récupérable sur son cadavre maudit, après **désenvoutement**), mais s’est fait tuer par surprise par la Bête gardant les lieux.
+-  Histoire : 200 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets, et en particulier le légendaire trésor des Maupertuis. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur son cadavre maudit, après **désenvoutement**), mais s’est fait tuer par surprise par la Bête (devenue spectrale) gardant les lieux.
 
--  Le voleur n’a initialement pas conscience qu’il est mort, ni du rôle de la “lanterne spirituelle” qui l’ancre à un endroit précis ; il se croit juste piégé par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
+-  Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste piégé dans son périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
 
 -  Il monnaie chèrement ses informations “pratiques” sur les lieux aux joueurs, contre de l’or et des pierreries.
 
@@ -665,7 +665,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 
 - Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage ; le seul moyen d'y pénétrer, c'est de s'y téléporter.
 
-- Le {% symbol 'médaillon de téléportation' for 'thief_teleportation_device_name' %} qui fut utilisé par le voleur est sur sa dépouille, qui est maudite. {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device' is needed %}
+- Le puissant {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} appartenant au voleur est sur sa dépouille, qui est maudite car il est "mort dans le vice". {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device' is needed %}
 
 - Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé.
 
