@@ -529,7 +529,7 @@ IMPORTANT: les héros de roman ont eu très longtemps pour fouiller l’étage a
 
 -  L’entrée normal du manoir, celle menant à la surface, a été définitivement fermée par les parents Maupertuis pour protéger leur enfant.
 
--  Avatar “sorcière” prévient tous que prophétie de GRAVE DANGER pour le monde ? Mais ils pensent tous que c’est la bête..
+-  Avatar “sorcière” prévient tous que prophétie de GRAVE DANGER pour le monde ? Mais ils pensent tous que c’est la bête.
 
 -  Différents coffrets et livres assez caractéristiques sont disséminés parmi les livres normaux de la bibliothèque, il faut les trouver puis pour chacun trouver la clé ou le code correspondant. A PRECISER
 
@@ -596,9 +596,10 @@ Une fois la combinaison de ces deux symboles reproduite sur le panneau, un son p
 Neutraliser la bête des Maupertuis (utile à tous)
 -------------------------------------------------
 
-A METTRE DANSS NPC COMMON KNOWLEGE
+A METTRE DANS NPC COMMON KNOWLEGE
 
-Le domaine interdit des Maupertuis, rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes mais hautement dangereuses. Lors de la malédiction de la bibliothèque, celle qui s’y trouvait y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et ultra-agressive, elle est plus dangereuse que jamais.
+
+Lors de la malédiction de la bibliothèque, la goule qui gardait le domaine interdit y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et ultra-agressive, elle est plus dangereuse que jamais.
 
 La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouché.
 

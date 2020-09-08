@@ -39,6 +39,15 @@ La lignée des Maupertuis a tenu plus longtemps que les autres, grâce à une r�
 Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bardée d'envoutements, se délite peu à peu ; certains murs, entièrement désenvoutés, se sont effondrés. Mais ce processus prendra encore de nombreux siècles ; et certains artefacts continuent de préserver, en isolation, les puissants flux magiques qui les traversent.
 
 
+La goule du domaine interdit
+---------------------------------
+
+Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes mais hautement dangereuses car pourvues de longues griffes et très résistantes à la magie. Nourries et choyées en échange de leurs bons services, les goules étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres.
+
+Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, pas les avatars).
+
+
+
 La derrière maisonnée des Maupertuis
 ---------------------------------------
 
@@ -51,6 +60,8 @@ Il devait bientôt passer son initiation appelée "adoubement", à l'étage inte
 - être présenté à la Bête, et recevoir d'elle un serment d'allégeance
 - tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petit boite, parmis un lot, contenait sa broche personnelle
 - en cas de réussite, recevoir le symbole secret de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois
+
+
 
 {% endmacro %}
 
