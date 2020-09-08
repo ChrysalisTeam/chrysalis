@@ -24,10 +24,13 @@ Les joueurs ont une feuille de mission par groupe, et seulement une ou deux comp
 Pour une bonne atmosphère, l’idée est que la bibliothèque soit plongée dans le noir, seulement éclairée par quelques lanternes portées par les joueurs ou posées à côté des figurants. Une machine à fumée et des spots lumineux peuvent être utilisés, en plus d'enceintes sonores, pour encore plus d'immersivité, voire quelques moments chorégraphiés façon “Son & Lumière”.
 
 
+Histoire du jeu
+===========================
+
 {% macro common_npc_tragedy_knowledge(is_avatar) %}
 
 La rencontre des Maupertuis et des Avatars
-==================================================
+---------------------------------------------
 
 *Connaissances communes aux avatars et aux fantômes, sauf le voleur.*
 
@@ -66,7 +69,7 @@ Mais rien ne s'est passé comme prévu...
 
 
 Fond de l’intrigue (SPOILER)
-============================
+-----------------------------------
 
 L'un des héros de roman, le duide aux pouvoirs surhumains, était en fait devenu le grand méchant dans son univers ; l’enfant ne le savait pas, n’ayant jamais retrouvé le dernier tome de la série. Cet ancien héros, désirant prendre le contrôle de cet univers aussi, est revenu par ledit Tome, a assassiné les vivants pendant le rituel, puis a joué la surprise vis-à-vis des personnages imaginaires restants, revenus plus tard s’enquérir de la situation.
 
@@ -259,7 +262,7 @@ Octave de Maupertuis (l’enfant)
 
 -  Se demande si ce n’est pas son oeuvre d’inventaire et rangement complet de la bibliothèque, inachevée, qui le retient dans ce monde.
 
--  S’assure de la bonne volonté des joueurs grâce au “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” //UTILISER SYMBOL//, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
+-  S’assure de la bonne volonté des joueurs grâce au “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
 
 {% endmacro %}
 <{ phantom_archivist_character_summary }/>

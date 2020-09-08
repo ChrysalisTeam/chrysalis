@@ -1,8 +1,11 @@
 Fantôme - Le Voleur XXXX
 ##################################
 
-Votre personnage
-====================
+Votre histoire
+=======================
+
+Votre caractère
+---------------------
 
 {# NO COMMON TRAGEDY OR LORE KNOWLEDGE FOR THIS NPC #}
 

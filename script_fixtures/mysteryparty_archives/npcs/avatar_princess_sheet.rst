@@ -2,8 +2,11 @@
 Avatar - PRINCESS
 ###########################################################################################
 
-Votre personnage
-====================
+Votre histoire
+=======================
+
+Votre caractère
+---------------------
 
 <{ avatar_principle_summary }/>
 
@@ -11,8 +14,9 @@ Votre personnage
 
 <{ common_npc_tragedy_knowledge is_avatar=True }/>
 
+
 Après le drame
-===================
+--------------------
 
 TODO TODO
 

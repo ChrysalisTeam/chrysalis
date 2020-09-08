@@ -2,8 +2,11 @@
 Avatar - L’inventeur-scientiste {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 ###########################################################################################
 
-Votre personnage
-====================
+Votre histoire
+=======================
+
+Votre caractère
+---------------------
 
 <{ avatar_principle_summary }/>
 
@@ -21,8 +24,9 @@ En particulier, vous avez fouillé l'étage autorisé de la bibliothèque avec v
 
 <{ common_npc_tragedy_knowledge is_avatar=True }/>
 
+
 Après le drame
-===================
+---------------------
 
 
 Très affecté par le triste sort de vos amis, vous mettez tous vos espoirs dans les songes divinatoires de vos compères d'outre monde, pour obtenir justice et surtout libérer les âmes errantes de la maisonnée Maupertuis.

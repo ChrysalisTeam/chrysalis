@@ -1,8 +1,12 @@
 Fantôme - L'Arkonte {% symbol "Valerias" for "arkon_name" %}
 ==================================================================
 
-Votre personnage
-====================
+Votre histoire
+=======================
+
+Votre caractère
+---------------------
+
 
 <{ phantom_arkon_character_summary }/>
 
@@ -15,7 +19,7 @@ Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "past_event
 
 
 La malédiction de la bibliothèque
-=====================================
+-------------------------------------------
 
 
 Alors que vous procédiez, dans un tumulte magique, aux rituels successifs de refermement des portails interdimensionnels, une puissance maléfique s'est interposée. Vous l'avez combattue sans relâche, pendant d'interminables minutes, à coups de glaive, de sortilèges et d'exorcisme. Elle encaissait douloureusement vos attaques (sauf celles sacrées, qui ne lui faisaient manifestement rien)... mais elle se régénérait en un clin d'oeil.

@@ -1,8 +1,12 @@
 Avatar - Le druide {% symbol "Diviciacos" for "druid_name" %}
 ########################################################################
 
-Votre personnage
-====================
+
+Votre histoire
+=======================
+
+Votre caractère
+---------------------
 
 {% macro avatar_principle_summary() %}
 Vous êtes ce que les mystiques de la planète Terre appellent un **avatar**. C'est-à-dire que vous êtes né de l'imagination d'un écrivain, qui vous a couché par écrit dans un roman, avec tout votre univers. Mais par un prodige rarissime, un de vos lecteurs a réussi à vous "incarner" dans le monde des vivants.
@@ -24,8 +28,9 @@ Cet état de fait durait depuis très longtemps, lorsque vous avez senti une pr�
 
 <{ common_npc_tragedy_knowledge is_avatar=True }/>
 
+
 Après le drame
-===================
+------------------
 
 <Mais il ne s'agissait pas que de passer le temps. Pour vous, la signification de tout ceci était claire> : Mère Nature vous avait appelé, dans ce monde qui avait généré le vôtre, enfin que vous y meniez la même tâche prophétique de destruction de la technologie, et de retour à l'Harmonie Naturelle. Mais pour cela, il vous fallait d'abord comprendre le fonctionnement de cet univers, de sa science, de sa magie, et en particuliers de ces "envoûtements" qui résistaient si souvent à votre propre magie druidique. Vous avez donc joué le jeu, et investigué en secret pour débloquer l'accès au Domaine Interdit de la bibliothèque, malgré les mises en garde préalables d'Octave et de l'archiviste. Heureusement pour vous, Octave n'avait pas trouvé le troisième tome de votre roman, et ne connaissait donc rien de votre conception assez particulière de la morale. Hélas, l'arkonte {% symbol "Valerias" for "arkon_name" %} est venu mettre vos plans en pièces.
 

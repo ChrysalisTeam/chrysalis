@@ -6,7 +6,7 @@
 Connaissances communes aux personnages de l'ère Maupertuis
 ============================================================
 
-*Connaissances communes aux avatars et aux fantômes, sauf le voleur.*
+*Ce que savent les avatars et les fantômes, sauf le voleur.*
 
 
 Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}

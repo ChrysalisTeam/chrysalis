@@ -1,24 +1,32 @@
 Fantôme - Octave de Maupertuis
 ##################################
 
-Votre personnage
-====================
+Votre histoire
+=======================
+
+Votre caractère
+---------------------
 
 <{ phantom_octave_character_summary }/>
 
 <{ common_npc_tragedy_knowledge is_avatar=False }/>
 
 Un réveil inattendu
-======================
+-------------------------
 
 Alors que vous prépariez vos affaires, le coeur lourd de devoir quitter si brusquement vos amis avatars, vous avez senti une vivre brûlure dans votre dos.
 
-Vous vous êtes réveillé un peu plus tard, la mémoire brouillée, le corps presque insensible. Le monde glissait entre entre vos doigts.
-Grâce à votre bonne éducation mystique, vous avez vite compris. Vous étiez devenu un fantôme.
+{% macro maupertuis_phantoms_awakening() %}
 
-Vous ne savez toujours pas ce qui s'est passé lors du rituel de l'Arkonte. Qui vous a attaqué ? L'arkonte ? La bête ? Un intrus inattendu ? Une malédiction latente de la bibliothèque, peut-être en lien avec les pouvoirs insondables du fondateur la dynastie Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} ?
+Vous vous êtes réveillé un peu plus tard, la mémoire brouillée, le corps presque insensible. Le monde glissait entre vos doigts.
+Grâce à votre bonne éducation, vous avez vite compris. Vous étiez devenu un fantôme.
 
-Ce genre de situation ne dure jamais éternellement. Donc vous attendez, en oscillant entre des moments de lucidité - dans lesquels vous êtes comme attaché à une petite zone lumineuse, et voyez parfois passer des spectres en errance - et d'étranges cauchemars où vous errez dans la bibliothèque, en proie à une rage surnaturelle.
+Vous ne savez toujours pas ce qui s'est passé lors du rituel de l'Arkonte. Qui vous a attaqué ? L'arkonte ? La bête ? Un intrus inattendu ? Une malédiction latente de la bibliothèque, peut-être en lien avec les pouvoirs insondables du fondateur de la dynastie Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} ?
+
+Ce genre de situation ne dure jamais éternellement. Donc vous attendez, en oscillant entre des moments de lucidité - dans lesquels vous êtes comme attaché à une petite zone lumineuse, et voyez passer au loin des spectres en errance - et d'étranges cauchemars où vous errez dans la bibliothèque, en proie à une rage surnaturelle.
+
+{% endmacro %}
+<{ maupertuis_phantoms_awakening }/>
 
 <{ common_npc_lore_knowledge }/>
 
