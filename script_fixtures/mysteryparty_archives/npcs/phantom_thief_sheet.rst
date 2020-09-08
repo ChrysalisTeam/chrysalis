@@ -4,13 +4,12 @@ Fantôme - Le Voleur XXXX
 Votre histoire
 =======================
 
-Votre caractère
+Votre profil
 ---------------------
 
 {# NO COMMON TRAGEDY OR LORE KNOWLEDGE FOR THIS NPC #}
 
 <{ phantom_thief_character_summary }/>
-
 
 
 Informations et instructions diverses

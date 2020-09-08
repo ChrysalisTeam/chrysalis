@@ -5,7 +5,7 @@ Fantôme - L'Archiviste {% symbol "Maître Parchemine" for "archivist_name" %}
 Votre histoire
 =======================
 
-Votre caractère
+Votre profil
 ---------------------
 
 <{ phantom_archivist_character_summary }/>

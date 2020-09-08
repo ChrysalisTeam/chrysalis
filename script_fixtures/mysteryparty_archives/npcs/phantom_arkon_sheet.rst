@@ -4,7 +4,7 @@ Fantôme - L'Arkonte {% symbol "Valerias" for "arkon_name" %}
 Votre histoire
 =======================
 
-Votre caractère
+Votre profil
 ---------------------
 
 
@@ -12,7 +12,7 @@ Votre caractère
 
 Héroïque chevalier de la religion yodique (et plus particulièrement disciple de la confession dite "mithraïque"), grand érudit, adepte de nombreuses formes de magie, ferme défenseur des humains contre les incursions d'entités démoniaques, vous avez parcouru la planète en laissant derrière vous d'innombrables légendes.
 
-Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "past_events_delay" %}, lors de votre séjour dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, non loin des ruines du domaine Maupertuis. A la faveur du {% symbol "r" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %}. Votre ordre vous avait mis en garde contre ces phénomènes rarissimes mais lourds de périls, par lesquels différents univers s'entremêlaient. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique ne se referme.
+Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "past_events_delay" %}, lors de votre séjour dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, non loin des ruines du domaine Maupertuis. A la faveur du {% symbol "solstice d'hiver" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %}. Votre ordre vous avait mis en garde contre ces phénomènes rarissimes mais lourds de périls, par lesquels différents univers s'entremêlaient. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique ne se referme.
 
 
 <{ common_npc_tragedy_knowledge is_avatar=False }/>
@@ -20,7 +20,6 @@ Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "past_event
 
 La malédiction de la bibliothèque
 -------------------------------------------
-
 
 Alors que vous procédiez, dans un tumulte magique, aux rituels successifs de refermement des portails interdimensionnels, une puissance maléfique s'est interposée. Vous l'avez combattue sans relâche, pendant d'interminables minutes, à coups de glaive, de sortilèges et d'exorcisme. Elle encaissait douloureusement vos attaques (sauf celles sacrées, qui ne lui faisaient manifestement rien)... mais elle se régénérait en un clin d'oeil.
 

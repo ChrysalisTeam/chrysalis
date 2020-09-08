@@ -1,35 +1,27 @@
 
-Avatar - L’inventeur-scientiste {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
-###########################################################################################
+Avatar - L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %} {% symbol "Jacko" for "inventor_nickname" %}
+##############################################################################################
 
 Votre histoire
 =======================
 
-Votre caractère
+Votre profil
 ---------------------
-
-<{ avatar_principle_summary }/>
 
 <{ avatar_inventor_character_summary }/>
 
-Vous êtes le jeune sir Jacques Vaucanson, mais on vous surnomme "{% symbol "Jacko" for "inventor_name" %}".
+<{ avatar_principle_summary }/>
+
+Votre nom complet a beau être sir Jacques Vaucanson, dans les faits  on vous surnomme souvent "{% symbol "Jacko" for "inventor_nickname" %}".
 
 Dans votre roman, "Le ballet des automates volant", vous avez secouru un vieux savant, dont des espions étrangers convoitaient les inventions pour un usage militaire.
 A son contact, vous avez appris l'art de la mécanique, de la force électromagnétique, du travail du bois et du métal, et bientôt l'élève a dépassé le maître.
-Depuis, malgré votre jeune âge, vous êtes devenu un maître-automaticien renommé, qui bricole avec bonheur des créatures et des véhicules regorgeants d'engrenages.
+Depuis, malgré votre jeunesse, vous êtes devenu un scientiste et maître-automaticien renommé, qui bricole avec bonheur des créatures et des véhicules regorgeant d'engrenages.
 
 <{ avatar_arrival_on_earth }/>
 
-En particulier, vous avez fouillé l'étage autorisé de la bibliothèque avec votre nouvel ami Octave, et trouvé de quoi construire plusieurs automates grandeur-nature pour faire service. Dopés par quelques sortilège de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les montrer à vos proches dans votre propre univers.
 
 <{ common_npc_tragedy_knowledge is_avatar=True }/>
-
-
-Après le drame
----------------------
-
-
-Très affecté par le triste sort de vos amis, vous mettez tous vos espoirs dans les songes divinatoires de vos compères d'outre monde, pour obtenir justice et surtout libérer les âmes errantes de la maisonnée Maupertuis.
 
 
 {#
@@ -40,5 +32,12 @@ depuis désespéré par le triste sort d'Octave, vous revenez tous les 10 ans c�
 #}
 
 
-
 <{ common_npc_lore_knowledge }/>
+
+
+Informations et instructions diverses
+========================================
+
+Personnellement très affecté par le triste sort de vos amis, vous mettez tous vos espoirs dans les affinités surnaturelles de vos compères d'outre monde, pour peut-être obtenir justice, et surtout libérer les âmes errantes de la maisonnée Maupertuis.
+
+Durant vos temps heureux dans la bibliothèque, vous avez fouillé l'étage autorisé avec votre nouvel ami Octave, et trouvé de quoi construire plusieurs automates grandeur-nature pour faire le service. Dopés par quelques sortilège de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les montrer à vos proches dans votre propre univers. {% fact "inventor_has_built_androids_with_octave" %}

@@ -4,7 +4,7 @@ Fantôme - Octave de Maupertuis
 Votre histoire
 =======================
 
-Votre caractère
+Votre profil
 ---------------------
 
 <{ phantom_octave_character_summary }/>
