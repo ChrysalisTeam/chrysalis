@@ -36,7 +36,7 @@ Dans les décennies suivantes, le "contraste magique", c'est à dire la puissanc
 Les grandes lignées de magiciens sont tombées l'une après l'autre, à cause de dissensions internes, ou d'agressions populaires plus ou moins justifiées.
 La lignée des Maupertuis a tenu plus longtemps que les autres, grâce à une réputation favorable due à son orientation vers les soins médicinaux.
 
-Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bardée d'envoutements, se délite peu à peu ; certains murs, entièrement désenvoutés, se sont effondrés. Mais ce processus prendra encore de nombreux siècles ; et certains artefacts continuent de préserver, en isolation, les puissants flux magiques qui les traversent.
+Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bardée d'envoûtements, se délite peu à peu ; certains murs, entièrement désenvoutés, se sont effondrés. Mais ce processus prendra encore de nombreux siècles ; et certains artefacts continuent de préserver, en isolation, les puissants flux magiques qui les traversent.
 
 
 La goule du domaine interdit
@@ -85,12 +85,12 @@ CRER LE SUR-ETRE
 
 Il faut être capable de finir le rituel de renvoi sans êttre atteint par les atttaques diverses du méchant ; et donc :
 
-- un envoutement de "peau de golem", rendant insensible aux blessures physiques
+- un envoûtement de "peau de golem", rendant insensible aux blessures physiques
 - une potion antipoison (à fabriquer sur place)
 - le bandeau antimagie du mage légendaire (trouvé dans sa tombe), contre les sortilèges
 - soit le bijou d'invisibilité spirituelle, soit l'armure bénite, contre les spectres
 
-Si un de ces envoutements est manquant, le druide, en tenant différentes tactiques (sauf les spectres sur lesquels il n'a aucune prise)
+Si un de ces envoûtements est manquant, le druide, en tenant différentes tactiques (sauf les spectres sur lesquels il n'a aucune prise)
 
 
 

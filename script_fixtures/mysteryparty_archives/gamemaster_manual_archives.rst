@@ -301,7 +301,7 @@ Fédore Pass’muraille (le voleur)
 
 -  Traits : convoitise, roublardise, bagout, incrédulité, défiance
 
--  Histoire : 200 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets, et en particulier le légendaire trésor des Maupertuis. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur son cadavre maudit, après **désenvoutement**), mais s’est fait tuer par surprise par la Bête (devenue spectrale) gardant les lieux.
+-  Histoire : 200 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets, et en particulier le légendaire trésor des Maupertuis. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur son cadavre maudit, après **désenvoûtement**), mais s’est fait tuer par surprise par la Bête (devenue spectrale) gardant les lieux.
 
 -  Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste piégé dans son périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
 
@@ -732,7 +732,7 @@ Dès lors, il doit être évident pour les joueurs que le coupable est le druide
 
 Le traître étant insensible aux attaques physiques et sacrées, seul un rituel magique peut l’atteindre. Deux façons :
 
-**IDEE - un joueur doit devenir immortel à force de différents envoutements.**
+**IDEE - un joueur doit devenir immortel à force de différents envoûtements.**
 
 -  NOPE - Soit reconstituer un pentacle de renvoi ailleurs, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).
 
@@ -819,7 +819,7 @@ Explorateurs-archéologues héliossars
 
 -  Runologue : Traduction de runes antiques provenant de livres, de graffitis, et indices pour les **stéréogrammes et quelques codes secrets**. **Possède un carnet.**
 
--  Dénicheur : Possède une lampe UV pour lire l’encre invisible, et peut analyser des ossements **et des artefacts.**
+-  Dévoileur : Possède une lampe UV pour lire l’encre invisible, et peut analyser des ossements **et des artefacts.**
 
 -  Anthropologue : A obtenu précédemment le titre d’arkonte yodique (peut donc recevoir la “confession de mission” de l’arkonte mort), et est **érudit** (accès une encyclopédie en ligne). **Possède un TALKIE-WALKIE ?**
 

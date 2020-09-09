@@ -1,6 +1,6 @@
 
 Faction - Les explorateurs héliossars
-###########################################
+==================================================
 
 
 Vous êtes trois explorateurs-archéologues du pays d'Héliossar.

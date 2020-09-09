@@ -1,6 +1,6 @@
 
 Faction - Les héritiers Parcival
-###########################################
+============================================
 
 
 Vous appartenez tous trois à la dernière génération de la famille Parcival. Une famille qui a hérité, par sa noble lignée, de certaines appétences avec le monde ésotérique.

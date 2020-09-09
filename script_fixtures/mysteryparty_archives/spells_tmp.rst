@@ -10,7 +10,7 @@ Permet d'immobiliser un mort récalcitrant, pour une durée de 6h au moins
 - Tracer un pentagone lumineux sur le sol
 - Placer à l'intérieur le fantome ciblé (sous forme incarnée ou spectrale)
 - Réciter trois fois à haute voix "Si manere ad minus ne quoquam", avec au moins trois ritualistes en coeur {# Traduction : "Si tu dois demeurer, au moins ne bouge plus" #}
-- Le fantome doit rester à l'intérieur du pentagone pendant toute la durée du rituel, sans quoi l'envoutement échoue
+- Le fantome doit rester à l'intérieur du pentagone pendant toute la durée du rituel, sans quoi l'envoûtement échoue
 
 
 
@@ -81,7 +81,7 @@ Que vos géniteurs vous en expliquent alors les pièges et aubaines, et plient �
 N'oubliez jamais que cet antre des savoirs ésotériques a fait la grandeur de vottre famille, et qu'elle ne doit jamais devenir cause de sa chute.
 
 
-Rituel d'envoutement d'arme sacrée
+Rituel d'envoûtement d'arme sacrée
 ---------------------------------
 
 Une arme de poing ou un projectile peuvent être envoutés pour gagner prise sur le monde des esprits.
@@ -99,7 +99,7 @@ DONNER QUELQUES POTIONS a l'EXORCISTE AUSSI!!! (que l'alchimiste doit vouloir)
 
 
 
-Envoutement de la tombe du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
+Envoûtement de la tombe du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
 -----------------------------------------------------------------------------------------------
 
 - Sceau impénétrable en titane
