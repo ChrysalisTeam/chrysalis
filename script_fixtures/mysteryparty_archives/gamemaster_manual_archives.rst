@@ -163,7 +163,7 @@ Ces 3 aventuriers-archéologues tentent de préserver leur pays, Héliossar, con
 Leurs compétences sont orientées vers les sciences physiques et humaines.
 
 {% macro explorer_group_symbols() %}
-Le vêtement de reconnaissance des explorateurs héliossars est une **ceinture beige** (fournie par les organisateurs).
+Le vêtement de reconnaissance des explorateurs héliossars est une **ceinture beige** *(fournie par les organisateurs)*.
 
 Leur devise est **"le savoir est pouvoir"**, en pointant l'index vers le ciel.
 {% endmacro %}
@@ -179,7 +179,7 @@ Ces Parcival ont lu dans l’autobiographie de leur ancêtre Mérédice comment 
 Leurs compétences sont orientées vers la médecine et la magie.
 
 {% macro parcival_group_symbols() %}
-Le vêtement de reconnaissance des Parcival est un **jabot bleu-royal** (fourni par les organisateurs).
+Le vêtement de reconnaissance des Parcival est un **jabot bleu-royal** *(fourni par les organisateurs)*.
 
 Leur devise est **"Nobles de coeur comme de sang."**, le poing fermé sur le coeur.
 {% endmacro %}
@@ -195,7 +195,7 @@ Ces 3 moines officient pour le culte du dieu Bahamoot, très ancré dans la rég
 Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 
 {% macro diakon_group_symbols() %}
-Le vêtement de reconnaissance des diacres de Bahamoot est une **étole violette** (écharpe portée en travers du torse, fournie par les organisateurs).
+Le vêtement de reconnaissance des diacres de Bahamoot est une **étole violette** *(écharpe portée en travers du torse, fournie par les organisateurs)*.
 
 Leur devise est **"le dragon est notre guide"**, les mains jointes en prière.
 {% endmacro %}
@@ -211,7 +211,7 @@ Ces 3 agents étatiques ont donc remué ciel et terre pour retrouver le mythique
 Leurs compétences sont orientées vers les “gadgets technosteam”.
 
 {% macro spy_group_symbols() %}
-Le vêtement de reconnaissance des agents secrets mirandiens est un **brassard vert émeraude** (fournie par les organisateurs).
+Le vêtement de reconnaissance des agents secrets mirandiens est un **brassard vert émeraude** *(fournie par les organisateurs)*.
 
 Leur devise est **"Mirandia pour toujours brillera"**, avec un salut militaire la main contre la tempe.
 {% endmacro %}
