@@ -34,12 +34,19 @@ Vous entendez un dialogue ou autre récit défiler dans votre tête, et vous dev
 NOTE hors-jeu : le déroulement des révélations
 ---------------------------------------------------------
 
+{% macro prophecy_workflow_instructions() %}
+
 L'objectif est de profiter des jeux de lumières et de bandes sonores pour créer une belle ambiance mystique autour de ces révélations (l'usage de fumigènes nous est hélas impossible).
-Vous aurez à votre disposition un petit projecteur d'aurores boréales, diffusant aussi du son. Il faudrait que vous restiez dans ce halo lumineux et sonore pendant vos révélations, en jouant de façon un peu théâtrale les prophéties qui vous arrivent, à la façon des Oracles de la Pythie de Delphes.
+Vous aurez à votre disposition un petit projecteur d'aurores boréales, diffusant aussi du son.
+Il faudrait que vous restiez dans ce halo lumineux et sonore pendant vos révélations, en jouant de façon un peu théâtrale les prophéties qui vous arrivent, à la façon des Oracles de l'antique "Pythie de Delphes".
+Les différentes bandes-son disponibles doivent vous avoir été communiquées en même temps que votre fiche de personnage, pour que vous vous entrainiez à placer vos exclamations entre les éclats de percussions.
 
-Pour les révélations imagées : Le maître de jeu vous montrera une image, qu'il vous faudra ensuite décrire devant les autres personnages comme si elle vous apparaissait subitement. Vous pouvez solliciter l'assstance pour qu'ils vous demandent des précisions sur tel ou tel point, et y répondre, au fil de la vision.
+Pour les révélations imagées : un figurant vous montrera une image, qu'il vous faudra ensuite décrire devant les autres personnages comme si elle vous apparaissait subitement. Vous pouvez solliciter l'assistance pour qu'ils vous demandent des précisions sur tel ou tel point, et y répondre, au fil de la vision.
 
-Pour les révélations auditives : Le maître de jeu vous fera écouter une première fois la bande-son, puis vous pourrez simuler devant les autres personnages le fait de la recevoir, tout en gardant une oreillette rejouant la bande-son une deuxième et dernière fois. Placez-vous de profil afin que l'assistance ne voie pas l'oreillette. N'écoutez pas les possibles questions de l'assistance, afin de ne pas avoir de distraction.
+Pour les révélations auditives : un figurant vous fera écouter une première fois la bande-son, puis vous pourrez simuler devant les autres personnages le fait de la recevoir, tout en gardant une oreillette rejouant la bande-son une deuxième et dernière fois. Placez-vous de profil afin que l'assistance ne voie pas l'oreillette. N'écoutez pas les possibles questions de l'assistance, afin de ne pas avoir de distraction.
+
+{% endmacro %}
+<{ prophecy_workflow_instructions }/>
 
 
 Les intuitions

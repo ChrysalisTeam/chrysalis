@@ -100,7 +100,7 @@ ISOLATED_DOCS = {
     # NPCS
     "npc_avatar_druid_sheet": "npcs/avatar_druid_sheet.rst",
     "npc_avatar_inventor_sheet": "npcs/avatar_inventor_sheet.rst",
-    "npc_avatar_princess_sheet": "npcs/avatar_princess_sheet.rst",
+    "npc_avatar_duchess_sheet": "npcs/avatar_duchess_sheet.rst",
     "npc_phantom_archivist_sheet": "npcs/phantom_archivist_sheet.rst",
     "npc_phantom_arkon_sheet": "npcs/phantom_arkon_sheet.rst",
     "npc_phantom_octave_sheet": "npcs/phantom_octave_sheet.rst",

@@ -18,7 +18,7 @@ Vous êtes ce que les mystiques de la planète Terre appellent un **avatar**. C'
 
 Vous êtes un grand connaisseur de la Nature, et de la Magie des Esprits qui lui est liée. Vous êtes l'un des principaux personnages d'un roman appelé {% symbol "Les sorciers du chaos" for "druid_novel_name" %}, en **{% symbol "3" for "druid_novel_volumes" %} tomes**.
 
-Lors des deux premiers livres de votre aventure, vous avez rejoint une jeune princesse déchue, dans sa quête initiatique pour renverser les sorciers nécromants qui opprimaient la planète. Mais peu à peu, vous avez réalisé la folie de vos congénères, admiré la beauté des grands paysages, et décidé que l'ordre des choses devait changer pour de bon.
+Lors des deux premiers livres de votre aventure, vous avez rejoint un jeune prince déchu, dans sa quête initiatique pour renverser les sorciers nécromants qui opprimaient la planète. Mais peu à peu, vous avez réalisé la folie de vos congénères, admiré la beauté des grands paysages, et décidé que l'ordre des choses devait changer pour de bon.
 
 Dans le dernier tome, une fois le dernier sorcier tombé, vous avez donc trahi vos compagnons, et établi une utopie planétaire de retour à la nature, en brûlant les villes et en renvoyant les humains vivre au milieu des bois et des bêtes sauvages. Pour vous, c'est ainsi qu'il doit en être.
 

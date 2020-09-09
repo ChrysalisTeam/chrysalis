@@ -42,7 +42,7 @@ L'enfant, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a connu 
 
 Les deux survivants ont vécu là seuls 15 mois durant, le précepteur estimant qu'{% symbol "Octave" for "maupertuis_son" %} n'était pas encore prêt pour affronter la rudesse du dehors. Ils n'ont pu se rendre dans le "domaine interdit" de la bibliothèque, gardé par une Bête, car Octave n'avait pas encore reçu l'initiation lui permettant d'ouvrir le passage vers ce saint-des-saints, contrairement à sa soeur. Esseulé, l'enfant s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une intimité de plus en plus fortes avec les héros de ces oeuvres.
 
-Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’Octave, plusieurs personnages imaginaires se sont réellement incarnés dans la bibliothèque, devenant ainsi ce que l'on appelle des **"avatars"** : un inventeur, un druide, une princesse, une corsaire, un mousquetaire, un homme-chat, un pilote de biplan...
+Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’Octave, plusieurs personnages imaginaires se sont réellement incarnés dans la bibliothèque, devenant ainsi ce que l'on appelle des **"avatars"** : un inventeur, un druide, une duchesse, une samuraï, un chevalier, un pilote de biplan...
 L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.
 L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de jamais sortir de la bibliothèque.
 
@@ -54,11 +54,11 @@ Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanit
 
 *A partir d'ici, connaissances propres uniquement aux avatars.*
 
-Certains de ces avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - inventeur, druide et princesse - cela n'a pas été le cas. Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier) ; horreur, le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
+Certains de ces avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - inventeur, druide et duchesse - cela n'a pas été le cas. Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier) ; horreur, le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
 
 Eplorés, ces avatars subsistants ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir, mais dont ils ont marqué au sol l'emplacement. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis.
 
-La princesse a, dans son propre monde, reçu l'oracle que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outre-monde" for "banquet_name" %} en l'honneur des Maupertuis, dans l'attente de la réalisation de cette prophétie.
+La duchesse a, dans son propre monde, reçu d'un devin la révélation que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outre-monde" for "banquet_name" %} en l'honneur des Maupertuis, dans l'attente de la réalisation de cette prophétie.
 
 {% else %}
 Mais rien ne s'est passé comme prévu...
@@ -344,12 +344,12 @@ La Bête (gardienne du Domaine Interdit)
 
 -  **Les parents Maupertuis, interrogés depuis l’au-delà, peuvent donner des indications sur comment la neutraliser**
 
-Le druide (Diviciacos)
-----------------------
+Le druide {% symbol "Diviciacos" for "druid_name" %}
+---------------------------------
 
 {% macro avatar_druid_character_summary() %}
 
--  HEROS DE ROMAN (titre “Les sorciers du chaos”, en 3 Tomes)
+-  HEROS DE ROMAN (titre “{% symbol "Les sorciers du chaos" for "druid_novel_name" %}”, en 3 Tomes)
 
 -  Traits : doux, discret, érudit, ami des plantes et des bêtes
 
@@ -357,7 +357,7 @@ Le druide (Diviciacos)
 
 -  C’est lui le “vrai méchant”
 
--  Dans les 2 premiers tomes de son roman, il parcourt le monde pour défaire les Sorciers du Chaos qui contrôlent chaque continent. Mais dans le 3e tome, après avoir tué le dernier Seigneur, il révèle sa vraie nature et devient le Guide de Gaia, qui soumet l’humanité à une utopie brutale de “retour à la Nature”.
+-  Dans les 2 premiers tomes de son roman, il parcourt le monde pour défaire les sombres magiciens qui contrôlent chaque continent. Mais dans le 3e tome, après avoir tué le dernier Seigneur, il révèle sa vraie nature et devient le Guide de Gaia, qui soumet l’humanité à une utopie brutale de “retour à la Nature”.
 
 -  Il est très habile, a des pouvoirs magiques, résiste à la magie et aux poisons (ainsi qu’au sacré bien sûr), et régénère très vite son corps en cas de blessure.
 
@@ -366,8 +366,8 @@ Le druide (Diviciacos)
 {% endmacro %}
 <{ avatar_druid_character_summary }/>
 
-L’inventeur-scientiste (Sir Vaucanson)
---------------------------------------
+L’inventeur ({% symbol "Sir Jacques Vaucanson" for "inventor_name" %})
+-------------------------------------------------
 
 {% macro avatar_inventor_character_summary() %}
 
@@ -384,20 +384,19 @@ L’inventeur-scientiste (Sir Vaucanson)
 {% endmacro %}
 <{ avatar_inventor_character_summary }/>
 
-La princesse-enchanteresse (Dame XXXXXXX)
----------------------------------------------
+La duchesse (La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %})
+-----------------------------------------------------------
 
-{% macro avatar_princess_character_summary() %}
+{% macro avatar_duchess_character_summary() %}
 
--  HEROINE DE ROMAN
+-  HEROINE DE ROMAN (titre "Les cygnes d'étang", en 1 seul Tome)
 
-# TODO A REMPLIR
+- Traits : distinguée, sensible, protectrice, entreprenante
+
+- Est capable d'entrer en synergie avec d'autres "voyants"
 
 {% endmacro %}
-<{ avatar_princess_character_summary }/>
-
-
-TODO
+<{ avatar_duchess_character_summary }/>
 
 
 Lieux
