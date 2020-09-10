@@ -1,7 +1,8 @@
 
+{% macro explorer_group_sheet() %}
+
 Faction - Les explorateurs héliossars
 ==================================================
-
 
 Vous êtes trois explorateurs-archéologues du pays d'Héliossar.
 L'un de vous est spécialisé dans les runes antiques et autres codes secrets ; l'autre dans l'analyse des inscriptions cachées, des artefacts et des ossements ; l'autre enfin dans les savoirs anthropologiques (sociétés humaines) et hiéraldiques (art des armoiries).
@@ -20,6 +21,9 @@ Il y était mentionné, sous forme énigmatique, la création d'une bibliothèqu
 **Spécificités**
 
 <{ explorer_group_symbols }/>
+
+{% endmacro %}
+<{ explorer_group_sheet }/>
 
 {#
 Et dans un temple du pays voisin, vous avez trouvé des runes détaillant la construction de ces manoirs, et en particulier d'une bibliothèque enfouie dans leur domaine.

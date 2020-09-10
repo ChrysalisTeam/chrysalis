@@ -1,7 +1,7 @@
+<{ spy_group_sheet }/>
 
-Démineur-artificier
-=====================
-
+Vos compétences
+====================================
 
 {% macro spy_sheet_intro() %}
 Depuis des décennies que vous baroudez dans les services secrets de votre patrie, avec votre fine équipe, vous avez eu le temps de voir ce qui vous plaisait.

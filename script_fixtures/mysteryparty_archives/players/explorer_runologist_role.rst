@@ -1,10 +1,14 @@
+<{ explorer_group_sheet }/>
 
+Vos compétences
+====================================
 
 {% macro explorer_sheet_intro() %}
 Au fil de votre carrière avec vos comparses, d'une fouille à l'autre, d'un temple abandonné à l'autre, vous en avez acquis des savoirs.
 {% endmacro %}
+<{ explorer_sheet_intro }/>
 
-<{ explorer_sheet_intro }/> Mais la spécialité qui vous parle le plus, c'est l'étude des runes anciennes et autres messages cryptiques.
+Mais la spécialité qui vous parle le plus, c'est l'étude des runes anciennes et autres messages cryptiques.
 
 
 Traducteur runique

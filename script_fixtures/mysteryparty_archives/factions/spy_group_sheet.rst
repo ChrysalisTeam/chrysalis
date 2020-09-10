@@ -1,8 +1,8 @@
 
+{% macro spy_group_sheet() %}
+
 Faction - Les agents secrets mirandiens
 ============================================
-
-
 
 Vous êtes des agents secrets de l'île de Mirandia, située dans l’océan diorique.
 L'un de vous est spécialisé dans le crochetage de serrures, et la lecture des champs magnétiques sur les objets ; l'autre dans la désactivation de pièges, et l'utilisation d'explosifs ; l'autre, enfin, dans la détection des métaux et la télécommunication.
@@ -18,3 +18,6 @@ En désespoir de cause, le prince mirandien vous a envoyé sur les traces du tr�
 **Spécificités**
 
 <{ spy_group_symbols }/>
+
+{% endmacro %}
+<{ spy_group_sheet }/>

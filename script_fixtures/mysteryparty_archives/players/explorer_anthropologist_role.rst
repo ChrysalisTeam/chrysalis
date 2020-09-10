@@ -1,6 +1,11 @@
+<{ explorer_group_sheet }/>
 
+Vos compétences
+====================================
 
-<{ explorer_sheet_intro }/> Mais les spécialités qui vous parle le plus, ce sont les sociétés humaines - passées et actuelles - et de l'art des blasons.
+<{ explorer_sheet_intro }/>
+
+Mais les spécialités qui vous parle le plus, ce sont les sociétés humaines - passées et actuelles - et de l'art des blasons.
 
 
 Initiations rituelles

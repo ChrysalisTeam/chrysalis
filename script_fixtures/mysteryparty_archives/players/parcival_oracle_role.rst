@@ -1,5 +1,7 @@
+<{ parcival_group_sheet }/>
 
-
+Vos compétences
+====================================
 
 Dès votre prime jeunesse, vous avez réalisé que vous pouviez voir et entendre des choses que personne d'autre ne semblait sentir.
 Bénédiction ou malédiction ? En tout cas, votre grandiose lignée vous a légué ce don de clairvoyance, qui ne vous a jamais quitté.
@@ -31,7 +33,7 @@ Les révélations auditives - ABORTED ?
 Vous entendez un dialogue ou autre récit défiler dans votre tête, et vous devez alors le clamer au fil de l'eau, pour que ceux à qui les messages sont destinés puissent les mémoriser.
 
 
-NOTE hors-jeu : le déroulement des révélations
+Note hors-jeu : le déroulement des révélations
 ---------------------------------------------------------
 
 {% macro prophecy_workflow_instructions() %}

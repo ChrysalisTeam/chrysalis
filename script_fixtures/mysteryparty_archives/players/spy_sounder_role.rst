@@ -1,6 +1,11 @@
+<{ spy_group_sheet }/>
 
+Vos compétences
+====================================
 
-<{ spy_sheet_intro }/> Et votre péché mignon, c'est l'utilisation des ondes électromagnétiques pour trouver ce qui échappe à la vue de tous, et communiquer librement à distance. Vous avez donc toujours avec vous quelques matériels fort utiles.
+<{ spy_sheet_intro }/>
+
+Et votre péché mignon, c'est l'utilisation des ondes électromagnétiques pour trouver ce qui échappe à la vue de tous, et communiquer librement à distance. Vous avez donc toujours avec vous quelques matériels fort utiles.
 
 Détection de métaux
 -------------------------

@@ -179,9 +179,13 @@ Ces Parcival ont lu dans l’autobiographie de leur ancêtre Mérédice comment 
 Leurs compétences sont orientées vers la médecine et la magie.
 
 {% macro parcival_group_symbols() %}
-Le vêtement de reconnaissance des Parcival est un **jabot bleu-royal** *(fourni par les organisateurs)*.
 
-Leur devise est **"Nobles de coeur comme de sang."**, le poing fermé sur le coeur.
+Le blason de la famille Parcival est un **batôn noueux autour duquel un serpent est enroulé**.
+{% fact "coat_of_arms_of_parcival_is_partial_caduceus" %}
+
+Son vêtement de reconnaissance est un **jabot bleu-royal** *(fourni par les organisateurs)*.
+
+Sa devise est **"Nobles de coeur comme de sang."**, le poing fermé sur le coeur.
 {% endmacro %}
 <{ parcival_group_symbols }/>
 

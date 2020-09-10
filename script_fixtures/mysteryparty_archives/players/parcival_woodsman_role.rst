@@ -1,4 +1,7 @@
+<{ parcival_group_sheet }/>
 
+Vos compétences
+====================================
 
 Depuis tout petit, vous vous ennuyez dans les lectures et les sciences abstraites, mais vous revivez lorsque vous êtes dans les grands espaces et l'activité physiques intense. C'est pour cela que vous êtes naturellement devenu "Gardien des bois", un titre prestigieux qui regroupe les activités de garde-chasse, de bûcheron-jardinier et de traqueur de monstres.
 

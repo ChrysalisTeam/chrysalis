@@ -4,7 +4,7 @@
 Faction - Les diacres de Bahamoot
 ============================================
 
-Vous êtes trois diacres du dieu {% symbol "Bahamoot" for "god_of_diakons" %}.
+Vous êtes trois diacres du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, le grand dragon cosmique, bleu et invisible, juste et généreux.
 L'un de vous est spécialisé dans les (dés)envoûtements d'objets ; l'autre dans les exorcismes ; l'autre enfin dans les rituels d'invocation.
 Mais tous, vous êtes des *initiés*, ce qui signifie que vous pouvez officier à un rituel mêlant talismans, formules incantatoires, gestes sacrés, lumières, fumées, et autres signes mystiques.
 

@@ -1,6 +1,11 @@
+<{ spy_group_sheet }/>
 
+Vos compétences
+====================================
 
-<{ spy_sheet_intro }/> Et votre péché mignon, c'est d'ouvrir les serrures et autres mécanismes.
+<{ spy_sheet_intro }/>
+
+Et votre péché mignon, c'est d'ouvrir les serrures et autres mécanismes.
 Vous avez donc toujours avec vous quelques matériels fort utiles.
 
 

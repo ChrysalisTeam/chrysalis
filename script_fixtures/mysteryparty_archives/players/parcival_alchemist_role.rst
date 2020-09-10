@@ -1,4 +1,7 @@
+<{ parcival_group_sheet }/>
 
+Vos compétences
+====================================
 
 Vous avez passé les soirées de votre enfance à déchiffrer les quelques livres ésotériques, hérités de votre lignée, qui avaient échappé aux dommages du temps. Et par la suite, en parfait autodidacte, vous n'avez pas manqué une occasion pour trouver quelque grimoire poussiéreux ou quelque herboriste prêt à vous enseigner davantage. Vous commencez donc à avoir une certaine habileté à la confection de potions, principalement médicinales (on ne renie pas ses aieux) mais pas uniquement. Mais il vous reste beaucoup de chemin à parcourir, tant il est difficile de rassembler les ingrédients, les ustensiles, et - surtout - les recettes de cet art mystérieux.
 
