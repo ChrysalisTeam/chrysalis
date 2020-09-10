@@ -16,7 +16,7 @@ Mais votre vocation s'est rapidement imposée à vous : désenvouteur, c'est-à-
 Le reconnaissance des envoûtements
 --------------------------------------------
 
-En imposant les mains sur un objet (ou un marquage) et en fermant les yeux, vous pouvez sentir s'il a été la cible de sortilèges ou de bénédictions.
+En imposant les mains sur un objet (ou un marquage) et en fermant les yeux, vous pouvez sentir s'il a été la cible de malédictions ou de bénédictions.
 
 Explications hors-jeu : un élément analysable par votre sensibilité porte une **petite pastille ronde** de couleur chaude (jaune, orange, rouge...) ; la couleur exacte est sans signification.
 
@@ -27,7 +27,7 @@ Si cette étoile a un nombre **pair** de pointes, alors l'objet est maudit et da
 Attention, si l'étoile est absente alors l'objet est forcément **non-envouté**, quels que soient les autres symboles présents !
 
 Par défaut, un envoûtement présent est de niveau "simple".
-S'il existe un petit **cercle** quelque part dans la pastille, alors l'envoûtement est de niveau "complexe".
+S'il existe un petit **cercle** où que ce soit dans la pastille, alors l'envoûtement est de niveau "complexe".
 Si ce cercle contient un **unique point**, alors l'envoûtement passe au niveau "légendaire".
 
 Une autre pastille de même couleur peut être présente, avec un **code** à 3 lettres ; rentrez ce code dans votre {% symbol "portail de connaissances" for "hint_website_name" %} pour en apprendre plus sur l'objet en question.
@@ -50,10 +50,10 @@ Il faut alors dans l'ordre :
 
 - mettre à brûler un morceau d'encens dans l'encensoir
 - passer tous les trois, en file indienne, trois fois devant l'objet (ou en tournant autour si possible) en balançant l'encensoir, et en chantant un "ôôôôm" grave
-- puis placez-vous en demi-cercle (ou cercle si possible) autour de l'objet
-- prononcer **seul** l'incantation : **"Ouvrez grandes vos oreilles, misérable mortels, ouvrez grands vos yeux, car par la puissance pacificatrice de Bahamoot, voici que nous brisons les chaines impies qui emprisonnent cet artefact !"**
+- puis vous placer en demi-cercle (ou cercle si possible) autour de l'objet
+- que vous prononciez **seul** l'incantation : **"Ouvrez grandes vos oreilles, misérable mortels, ouvrez grands vos yeux, car par la puissance pacificatrice de Bahamoot, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
 
 En cas de réussite, le maître de jeu retire la pastille de l'objet.
 
-Si l'envoûtement est de niveau "légendaire", alors il est **impossible** de le supprimer, sauf à trouver une contre-mesure spécifique à ce sortilège précis.
+Si l'envoûtement est de niveau "légendaire", alors il est **impossible** de le supprimer, sauf en trouvant une contre-mesure spécifique à ce sortilège.
 

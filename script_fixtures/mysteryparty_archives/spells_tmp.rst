@@ -112,7 +112,6 @@ Envoûtement de la tombe du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty
 
 
 
-
 Sur le crâne sur le front une encoche pour le losange, visiblement causé par une fléchette. Une analyse au spectromètre de masse révèle des traces de curare emprisonné dans l'os.
 
 Cet objet a été envoûté avec un envoûtement dangereux cet objet est porteur d'un envoûtement bénéfique ; vous ne risquez rien dans le toucher. Il est dangereux de le toucher.
@@ -121,8 +120,7 @@ Cet objet a été envoûté avec un envoûtement dangereux cet objet est porteur
 Cet objet est porteur d'une bénédiction sacrée.
 
 Cet objet est porteur d'une malédiction sacrée.
-Afin de supprimer l'envoûtement qui entouré un objet, placez-vous face à lui (sans le toucher bien sûr), imposer les mains dessus, et que la mettre efforts : « par jour alors la puissance pacificatrice de minutes,
-ouvrez grand vos oreilles, si misérable mortelle, ouvrez grand vos yeux, vous qui craignez les cieux, car par la puissance pacificatrice de base minutes, je romps les liens qui enchaînaient cet objet aux strates magiques.
+
 
 
 Par le souffle sacré de Bamout, ont perdu, je te chasse, par loin de moi.
@@ -134,3 +132,12 @@ Un objet en santé doit toujours porter, parmi d'autres sans, je nettoie sur son
 Vous êtes capables de déminage les pièges que pourrait contenir la bibliothèque. C'est piège se présente sous deux formes.
 
 Soit se dans le premier cas, vous devez couper
+
+
+
+
+
+------------- TRASH --------------
+
+Afin de supprimer l'envoûtement qui entouré un objet, placez-vous face à lui (sans le toucher bien sûr), imposer les mains dessus, et que la mettre efforts : « par jour alors la puissance pacificatrice de minutes,
+ouvrez grand vos oreilles, si misérable mortelle, ouvrez grand vos yeux, vous qui craignez les cieux, car par la puissance pacificatrice de base minutes, je romps les liens qui enchaînaient cet objet aux strates magiques.
