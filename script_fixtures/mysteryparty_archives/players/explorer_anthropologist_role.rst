@@ -13,7 +13,6 @@ Initiations rituelles
 
 Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribales et certains cultes, vous avez suivi avec assiduité leurs parcours initiatiques. Cela fait de vous l'unique personne sur Terre cumulant des titres si divers :
 
-
 - Shaman de la jungle de Kamilia (salutation : "Par l'oiseau à trois têtes, reçois ma salutation" ; réponse : "Par le serpent sans tête, reçois la mienne")
 
   Ce titre atteste de votre résistance aux épreuves du feu, de l'eau, de la terre et du ciel. Il vous permet de réaliser des sacrifices rituels en l'honneur du Grand Sage, de préparer le Kahflu des cérémonies (jus de tubercules alcoolisé des banquet), et de lire la parole des esprits dans les galets des rivières.
@@ -50,6 +49,6 @@ Eruditions diverses
 
 TODO, plantes ? Mots compliqués ? Latin ?
 
-
+CONNAISSANCE DES PRIX DES GEMMES
 
 $$$$$$$ 1er soins ?????????????? $$$$$

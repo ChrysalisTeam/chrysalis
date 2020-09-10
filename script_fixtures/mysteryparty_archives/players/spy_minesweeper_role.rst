@@ -19,6 +19,10 @@ Vous êtes capable de désactiver les pièges à l'ancienne, qui pullulent dans 
 
 TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 
+------> A SYSTEM DE CODE AUSSI !!!!!!!!!?????
+
+------> PEUT DEVINER SI UN COFFRE EST PIEGE ???
+
 
 Explosifs
 --------------------
