@@ -61,40 +61,9 @@ Il devait bientôt passer son initiation appelée "adoubement", à l'étage inte
 - tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petit boite, parmis un lot, contenait sa broche personnelle
 - en cas de réussite, recevoir le symbole secret de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois
 
-
-
 {% endmacro %}
 
 
-Le précepteur
---------------------
-
-(suite)
-
-Il est relativement sage et érudit, mais a très peu de connaissances et de compétences en ce qui concerne les arts magiques.
-
-Il enseignait principalement à Octave ses humanités (sciences, lettres...), laissant aux parents le soin de transmettre leur héritage de magiciens.
-
-Il a tiré profit de leur enfermement initial dans la bibliothèque, suite au sac du manoir, pour s'improviser archiviste, et trier l'étage autorisé. ????MAIS PAS FINI ???
-Il prenait juste soin de ne pas manipuler les grimoires aux allures louches.
-
-
-
-CRER LE SUR-ETRE
----------------------
-
-Il faut être capable de finir le rituel de renvoi sans êttre atteint par les atttaques diverses du méchant ; et donc :
-
-- un envoûtement de "peau de golem", rendant insensible aux blessures physiques
-- une potion antipoison (à fabriquer sur place)
-- le bandeau antimagie du mage légendaire (trouvé dans sa tombe), contre les sortilèges
-- soit le bijou d'invisibilité spirituelle, soit l'armure bénite, contre les spectres
-
-Si un de ces envoûtements est manquant, le druide, en tenant différentes tactiques (sauf les spectres sur lesquels il n'a aucune prise)
-
-
-
-POSSIBILITE DE CRER UN PENTACLE INVISIBLE
 
 
 

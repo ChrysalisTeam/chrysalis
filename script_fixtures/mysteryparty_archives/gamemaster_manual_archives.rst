@@ -841,9 +841,5 @@ Héros de roman
 
 - (AUTRE ?): TODO suivant besoins du scénario
 
-Règles du jeu - A BOUGER
-===========================
 
-- Assurer qu’il n’y aura pas d’araignées/scorpions ni de serpents ?
-
-- Les pièges sont toujours repérables visuellement, ou alors annoncés par différents indices ; vous ne serez pas pénalisé pour avoir ouvert un grimoire quelconque ou prononcé un mot anodin. En revanche, si vous marchez sur un pentacle ou prononcez des incantations sans les comprendre, gare.
+<{ common_npc_lore_knowledge }/>
