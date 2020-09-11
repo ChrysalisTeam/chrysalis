@@ -30,3 +30,7 @@ Les recettes que vous connaissez déjà
 ---------------------------------------------
 
 <TODO A LISTER>
+
+
+CONNAISSANCE DES DIVERSES BLESSURES
+--------------------------------------

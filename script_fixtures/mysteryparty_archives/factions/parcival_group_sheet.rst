@@ -14,7 +14,7 @@ Il vous a fallu plus d'une demi-journée pour percer le fonctionnement de ce por
 
 Faction - Les héritiers Parcival
 ============================================
-
+parcival_group_symbols
 Vous appartenez tous trois à la dernière génération de la famille Parcival. Une famille qui a hérité, par sa noble lignée, de certaines appétences avec le monde ésotérique.
 L'un de vous est ainsi spécialisé dans les arts alchimiques ; l'autre reçoit ponctuellement des présages sous forme de visions ou de voix ; l'autre, enfin, a développé des facultés physiques et sensorielles impressionnantes en se connectant aux forces invisibles de la Nature.
 

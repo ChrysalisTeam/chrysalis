@@ -10,7 +10,7 @@
 
 - Les pièges sont toujours repérables visuellement, ou alors annoncés par différents indices ; vous ne serez pas pénalisé pour avoir ouvert un grimoire quelconque ou prononcé un mot anodin. En revanche, si vous marchez sur un pentacle ou prononcez des incantations sans les comprendre, gare.   XXXXXXX
 
-
+DIER INTERDICTION EXPLIQUER PASTILLES DE JEU
 
 Apprentissage et suivi du scénario
 ++++++++++++++++++++++++++++++++++++++

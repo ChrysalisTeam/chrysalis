@@ -71,7 +71,7 @@ Mais rien ne s'est passé comme prévu...
 Fond de l’intrigue (SPOILER)
 -----------------------------------
 
-L'un des héros de roman, le duide aux pouvoirs surhumains, était en fait devenu le grand méchant dans son univers ; l’enfant ne le savait pas, n’ayant jamais retrouvé le dernier tome de la série. Cet ancien héros, désirant prendre le contrôle de cet univers aussi, est revenu par ledit Tome, a assassiné les vivants pendant le rituel, puis a joué la surprise vis-à-vis des personnages imaginaires restants, revenus plus tard s’enquérir de la situation.
+L'un des avatars, le duide aux pouvoirs surhumains, était en fait devenu le grand méchant dans son univers ; l’enfant ne le savait pas, n’ayant jamais retrouvé le dernier tome de la série. Cet ancien héros, désirant prendre le contrôle de cet univers aussi, est revenu par ledit Tome, a assassiné les vivants pendant le rituel, puis a joué la surprise vis-à-vis des personnages imaginaires restants, revenus plus tard s’enquérir de la situation.
 
 Réalisant le fléau qui menaçait le monde des humains, l’arkonte avait cependant réussi, dans son dernier souffle, à jeter un sortilège sur le traître ; un sortilège qui a piégé la bibliothèque entière dans un "trou noir" du monde spirituel : que l'on soit véritable humain ou personnage imaginaire, on pourrait désormais y entrer, mais pas en sortir, aussi longtemps que le traître serait "en vie". Les trois humains sont donc restés piégés en tant que fantômes (spectres s’incarnant par moments) dans ces lieux ; de même que les personnages de roman, qui peuvent cependant toujours aller et venir entre la bibliothèque souterraine et leur propre monde littéraire.
 
@@ -121,7 +121,7 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 Le monde des livres
 -------------------
 
-Les personnages issus du monde littéraire, imaginaire, sont uniquement des héros de roman auxquels l’enfant Octave a donné vie parce qu’il les admirait particulièrement. On les appelle aussi ”\ **avatars**\ ”.
+Les personnages issus du monde littéraire, imaginaire, sont uniquement des avatars auxquels l’enfant Octave a donné vie parce qu’il les admirait particulièrement. On les appelle aussi ”\ **avatars**\ ”.
 
 Ces personnages sont dans l’état où leurs auteurs les avaient laissés à la fin de leurs “histoires” respectives, et non selon ce que l’enfant sait/imagine d’eux. Ils ne vieillissent pas.
 
@@ -331,7 +331,7 @@ L’Ankou (le guide des âmes, le “psychopompe”)
 
 - Pendant la scène finale, en revanche, il se tait et laisse la solennité de l’évènement s’imposer ; mais il peut, tout à la fin, lancer un “Hé les gars on se dépêche maintenant, j'ai un groupe de touristes kéroskiens qui vient d’aller caresser des requins-sabres, donc j’ai pas fini ma journée !”
 
-La Bête (gardienne du Domaine Interdit)
+La Bête (goule gardienne du Domaine Interdit)
 ---------------------------------------
 
 - FANTÔME (anciennement une goule des cavernes, “embauchée” et enchantée pour être plus dangereuse et ne pas avoir besoin de se nourrir)
@@ -370,7 +370,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 {% endmacro %}
 <{ avatar_druid_character_summary }/>
 
-L’inventeur ({% symbol "Sir Jacques Vaucanson" for "inventor_name" %})
+L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 -------------------------------------------------
 
 {% macro avatar_inventor_character_summary() %}
@@ -388,7 +388,7 @@ L’inventeur ({% symbol "Sir Jacques Vaucanson" for "inventor_name" %})
 {% endmacro %}
 <{ avatar_inventor_character_summary }/>
 
-La duchesse (La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %})
+La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %}
 -----------------------------------------------------------
 
 {% macro avatar_duchess_character_summary() %}
@@ -417,18 +417,18 @@ Etage du bas (bibliothèque normale)
 
 - La mini-jungle que le druide et l’enfant avaient créée
 
-- Le buffet dinatoire des 4 mondes (mis en place automatiquement par les héros de roman et les automates)
+- Le buffet dinatoire des 4 mondes (mis en place automatiquement par les avatars et les automates)
 
 - Le pentacle du rituel inachevé de l’arkonte.
 
 - Le cimetière (tombes rudimentaires de l’enfant, de l’archiviste et de l’arkonte)
 
-- Différents coffres et objets répartis dans les lieux, ainsi que des “marqueurs” mis au sol par les héros de roman lors de leurs investigations infructueuses
+- Différents coffres et objets répartis dans les lieux, ainsi que des “marqueurs” mis au sol par les avatars lors de leurs investigations infructueuses
 
 Etage du haut (domaine interdit)
 --------------------------------
 
-*Accès initialement impossible aux joueurs et aux héros de roman.*
+*Accès initialement bloqué pour tous.*
 
 - Le coin du voleur
 
@@ -482,7 +482,7 @@ L’entrée en en scène des joueurs (temps 0h00)
 
 Chaque groupe arrive dans l’étage du bas de la bibliothèque par un accès différent (ou avec un délai de quelques minutes).
 
-Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; l’archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les héros de romans), en cette date anniversaire du drame, comme tous les 100 ans.
+Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; l’archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans.
 
 L’ouverture du buffet (temps 0h30)
 ----------------------------------
@@ -510,7 +510,7 @@ Faire éteindre aux joueurs leurs lanternes, pour augmenter l’ambiance.
 
 Une bande-son est jouée, pour une scène assez chorégraphiée.
 
-Les héros de roman restants s’auto-bannissent de ce monde grâce au pentacle du rituel.
+Les avatars restants s’auto-bannissent de ce monde grâce au pentacle du rituel.
 
 Puis l’Ankou appelle les fantômes enfin libérés (qui ont des petites ailes dans le dos) à le rejoindre.
 
@@ -528,7 +528,7 @@ Quêtes et parcours d’énigmes
 Idées diverses à caser
 ----------------------
 
-IMPORTANT: les héros de roman ont eu très longtemps pour fouiller l’étage autorisé, il doit être expliqué pourquoi tel ou tel élément leur a échappé (règles de magie différentes, nécessités de + de gens pour un rituel…)
+IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé, il doit être expliqué pourquoi tel ou tel élément leur a échappé (règles de magie différentes, nécessités de + de gens pour un rituel…)
 
 - L’entrée normal du manoir, celle menant à la surface, a été définitivement fermée par les parents Maupertuis pour protéger leur enfant.
 
@@ -536,7 +536,7 @@ IMPORTANT: les héros de roman ont eu très longtemps pour fouiller l’étage a
 
 - Différents coffrets et livres assez caractéristiques sont disséminés parmi les livres normaux de la bibliothèque, il faut les trouver puis pour chacun trouver la clé ou le code correspondant. A PRECISER
 
-- Un des héros de roman a un cache-oeil de pirate, pratique pour changer d’identité
+- Un des avatars a un cache-oeil de pirate, pratique pour changer d’identité
 
 - Encourager les collaborations entre équipes!!!! Nécessaires pour quête principale de chaque équipe.
 
@@ -695,7 +695,7 @@ Le code est constitué de symboles répartis entre 4 bijoux (indestructibles) de
 
 Les différents bijoux :
 
-- La broche de la mère la famille se trouve sur la tombe d’Octave, qui l’avait récupéré dans les ruines du manoir au bout de la première année ; cette broche est aussi quasiment tout ce qui restait dans les cendres de l’enfant après la trahison, les héros de roman l’ont donc déposé là en symbole de deuil. Cet objet doit guider les joueurs dans la compréhension de l’énigme globale. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %}
+- La broche de la mère la famille se trouve sur la tombe d’Octave, qui l’avait récupéré dans les ruines du manoir au bout de la première année ; cette broche est aussi quasiment tout ce qui restait dans les cendres de l’enfant après la trahison, les avatars l’ont donc déposé là en symbole de deuil. Cet objet doit guider les joueurs dans la compréhension de l’énigme globale. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %}
 
 - La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Le **détecteur de magnétisme** donne une code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier. Outre le bijou, le livre factice à clef contient un **YYYY**.
   {% hint "maupertuis_father_jewel_in_twin_books" is needed %} {% hint "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
@@ -713,11 +713,11 @@ Avec le moulin et le grimoire chantant résolu, les explorateurs ont réussi leu
 Neutraliser le méchant
 ----------------------
 
-Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons se portent initialement sur l’arkonte, surtout de la part des héros de roman qui n’ont pu le contacter. Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre (le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}), peuvent aussi être suspectés.
+Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons se portent initialement sur l’arkonte, surtout de la part des avatars qui n’ont pu le contacter. Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre (le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}), peuvent aussi être suspectés.
 
 L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur enrobé de ténèbres, qui résistait aux attaques physiques et sacrées ; et qu’il a donc maudit cet attaquant (et la bibliothèque) en succombant, ainsi que protégé son propre squelette par un sort.
 
-Les soupçons se portent naturellement sur les héros de roman, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait.
+Les soupçons se portent naturellement sur les avatars, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait.
 
 Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais sans le **crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
 
@@ -734,7 +734,7 @@ La lecture d’un **extrait du Tome 3** montre que le druide est en réalité de
 
 Dès lors, il doit être évident pour les joueurs que le coupable est le druide. Mais si celui-ci est démasqué, il peut continuer à nier, ou finir par avouer mais livrer les joueurs à un chantage, vu qu’il est plus puissant qu’eux tous ; de toute façon, “maintenant qu’il a accès aux grimoires magiques, il finira bien par savoir comment briser la malédiction de la bibliothèque”. Et il garde jalousement le pentacle pour éviter tout coup bas de ce côté-ci.
 
-**IDEE ANNEXE : le traitre assassine pendant le jeu un des héros de roman, qui s’opposait trop fort à l’idée de supprimer la clôture magique sans avoir résolu l’enquête de la mort des humains.**
+**IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la clôture magique sans avoir résolu l’enquête de la mort des humains.**
 
 Le traître étant insensible aux attaques physiques et sacrées, seul un rituel magique peut l’atteindre. Deux façons :
 
@@ -750,7 +750,7 @@ Si les joueurs attaquent le traître sans avoir le moyen de le tuer, il en tue u
 
 Si le traître est expulsé du monde humain ou tué, la malédiction prend fin, et l’épilogue peut se dérouler. Sinon, il ouvre lui-même la clotûre de la bibliothèque et s’enfuit, les joueurs sont donc libres mais ont échoué à protéger le monde des vivants.
 
-Finir le rituel de révocation des héros de roman (diacres)
+Finir le rituel de révocation des avatars (diacres)
 ----------------------------------------------------------
 
 Les personnages imaginaires refusent que ce rituel, commencé par l’arkonte et interrompu par la trahison du méchant, soit mené à bien tant que les fantômes n’auront pas reçu justice et été libérés. A cela s’ajoute initialement la crainte que le rituel ait, en lui-même, causé le drame.
@@ -764,7 +764,7 @@ Supprimer la clôture magique de la bibliothèque (piège)
 
 La clotûre de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **3 / 5 des vivants** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit.
 
-Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et le monde redevient en grand danger. La session se terminera alors par la révocation des héros de roman restants, et la sortie piteuse des joueurs.
+Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et le monde redevient en grand danger. La session se terminera alors par la révocation des avatars restants, et la sortie piteuse des joueurs.
 
 Pour rappel, dans l’issue normale du jeu, la malédiction est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être.
 
@@ -819,7 +819,7 @@ Diacres de Bahamoot
 
 - Exorciste : Connaissance des différentes entités monstrueuses ou sacrées et des règles qui les régissent. Il peut bénir rendre une arme pour la rendre capable de blesser au choix une entité magique ou sacrée. Il peut aussi chasser temporairement X fois une créature monstrueuse. **Possède un carnet.**
 
-- Invocateur : Il peut réaliser un rituel (nécromancie, révocation des héros de roman, neutralisation de la Bête, suppression d’une clôture magique…) en coordination avec ses coéquipiers. Il peut aussi appeler l’Ankou depuis l’au-delà, ou accélérer/prolonger X fois la réincarnation temporaire d’un fantôme qui est actuellement errant.
+- Invocateur : Il peut réaliser un rituel (nécromancie, révocation des avatars, neutralisation de la Bête, suppression d’une clôture magique…) en coordination avec ses coéquipiers. Il peut aussi appeler l’Ankou depuis l’au-delà, ou accélérer/prolonger X fois la réincarnation temporaire d’un fantôme qui est actuellement errant.
 
 Explorateurs-archéologues héliossars
 ------------------------------------
@@ -830,7 +830,7 @@ Explorateurs-archéologues héliossars
 
 - Anthropologue : A obtenu précédemment le titre d’arkonte yodique (peut donc recevoir la “confession de mission” de l’arkonte mort), et est **érudit** (accès une encyclopédie en ligne). **Possède un TALKIE-WALKIE ?**
 
-Héros de roman
+Avatars
 --------------
 
 - (druide) connaissance des vocabulaires alchimistes et herboristes désuets, connaissances des plantes et animaux, soin des blessures, forte auto-régénération et auto-protection magique
