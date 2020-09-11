@@ -26,7 +26,7 @@ ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
-DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_cover"
+DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_cover  --show-frame-boundary"
 
 MAIN_OUTPUT_DIR = "output_archives"
 DOCUMENTS_OUTPUT_DIR = os.path.join(MAIN_OUTPUT_DIR, "documents")
@@ -44,21 +44,21 @@ _asset_path = lambda x: os.path.join(DOCUMENTS_OUTPUT_DIR, x)
 
 
 CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
-    diakon_dispeller=dict(email_attachments=[]),
-    diakon_exorcist=dict(email_attachments=[]),
-    diakon_invoker=dict(email_attachments=[]),
+    diakon_dispeller=dict(official_name="Le désenvouteur", email_attachments=[]),
+    diakon_exorcist=dict(official_name="L'exorciste", email_attachments=[]),
+    diakon_invoker=dict(official_name="L'invocateur", email_attachments=[]),
 
-    explorer_analyser=dict(email_attachments=[]),
-    explorer_anthropologist=dict(email_attachments=[]),
-    explorer_runologist=dict(email_attachments=[]),
+    explorer_analyser=dict(official_name="Le dévoileur", email_attachments=[]),
+    explorer_anthropologist=dict(official_name="L'anthropologue", email_attachments=[]),
+    explorer_runologist=dict(official_name="Le runologue", email_attachments=[]),
 
-    parcival_alchemist=dict(email_attachments=[]),
-    parcival_woodsman=dict(email_attachments=[]),
-    parcival_oracle=dict(email_attachments=[]),
+    parcival_alchemist=dict(official_name="L'alchimiste", email_attachments=[]),
+    parcival_woodsman=dict(official_name="Le gardien des bois", email_attachments=[]),
+    parcival_oracle=dict(official_name="L'oracle", email_attachments=[]),
 
-    spy_lockpicker=dict(email_attachments=[]),
-    spy_minesweeper=dict(email_attachments=[]),
-    spy_sounder=dict(email_attachments=[]),
+    spy_lockpicker=dict(official_name="Le crocheteur", email_attachments=[]),
+    spy_minesweeper=dict(official_name="Le démineur", email_attachments=[]),
+    spy_sounder=dict(official_name="Le sondeur", email_attachments=[]),
 )
 
 players_names = set(CHARACTER_OVERRIDES.keys())
@@ -73,8 +73,7 @@ PLAYER_MANUAL_PARTS = [
 ]
 
 COMMON_LORE_DOCS = [
-    #"context_intro.rst",
-    #"context_details.rst",
+    "common_lore.rst",
     #"common_guests_gallery.rst",
     "game_rules.rst",
 ]
@@ -112,7 +111,7 @@ ISOLATED_DOCS = {
     "faction_parcival_sheet.rst": "factions/parcival_group_sheet.rst",
     "faction_spy_sheet.rst": "factions/spy_group_sheet.rst",
     # INFORMATION
-    "documents/knowledge_about_phantoms.rst": "miscellaneous/knowledge_about_phantoms.rst",
+    # useless "documents/knowledge_about_phantoms.rst": "miscellaneous/knowledge_about_phantoms.rst",
 
 }
 
@@ -133,7 +132,7 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
     if title:
         full_data += textwrap.dedent("""
     #######################################################################################
-    HIDDEN ARCHIVES
+    Les archives secrètes des Maupertuis
     #######################################################################################
 
     %s
@@ -146,8 +145,8 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
    
        PageBreak standardPage
        
-    .. contents:: Table of Contents
-       :depth: %s
+    .. XXX contents:: Table des Matières
+    ..    :depth: %s
        
     """) % (title, toc_depth)
 
@@ -305,7 +304,7 @@ def generate_archives_sheets():
         return player_data
 
     # then character full sheets
-    if False:
+    if True:
         for player in players_names:
             parts = [(part % dict(player_name=player) if not callable(part) else part)
                      for part in PLAYER_MANUAL_PARTS]

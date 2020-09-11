@@ -477,7 +477,7 @@ Un briefing collectif a lieu pour rappeler le contexte du jeu, les règles (en p
 
 Chaque groupe de joueurs est ensuite briefé à part, surtout pour vérifier qu’ils n’ont pas de questions sur leur rôle et leurs compétences spécifiques.
 
-L’entrée en en scène des joueurs (temps 0h00)
+L’entrée en scène des joueurs (temps 0h00)
 ---------------------------------------------
 
 Chaque groupe arrive dans l’étage du bas de la bibliothèque par un accès différent (ou avec un délai de quelques minutes).
