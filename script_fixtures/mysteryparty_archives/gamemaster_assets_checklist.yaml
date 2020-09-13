@@ -32,7 +32,6 @@
   - "Vérifications préalables"
   -
     - "Les 4 broches doivent avoir les symboles XXXXXX"
-    - "Octave doit avoir son symbole sur le bras {% hint 'octave_has_heir_symbol_on_arm' is provided %}"
     - "La page web du puzzle des symboles familiaux doit fonctionner"
     - "La page web du code symbolique du grimoire chantant doit fonctionner"
     - "La page web des indices divers (identifiés par un code unique) doit fonctionner"
@@ -40,7 +39,7 @@
 -
   - "Coffre commun des Maupertuis (protégé par une clef) {% hint 'family_common_chest_protected_by_code' is provided %}"
   -
-    - "Livret généalogique des Maupertuis avec leur symbole secret en magnétisme {% hint 'genealogy_book_with_magnetic_family_symbol' is provided %}"
+    - "Livret généalogique des Maupertuis avec leur symbole secret en ultraviolet {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
     - "Carnet de notes personnel du père Maupertuis, avec un des codes du coffret légendaire en UV {% hint 'quirinius_notebook_with_thanatologue_chest_uv_code' is provided %}"
 
 -

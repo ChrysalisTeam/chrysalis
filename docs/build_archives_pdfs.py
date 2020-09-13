@@ -48,7 +48,7 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     diakon_exorcist=dict(official_name="L'exorciste", email_attachments=[]),
     diakon_invoker=dict(official_name="L'invocateur", email_attachments=[]),
 
-    explorer_analyser=dict(official_name="Le dévoileur", email_attachments=[]),
+    explorer_unveiler=dict(official_name="Le dévoileur", email_attachments=[]),
     explorer_anthropologist=dict(official_name="L'anthropologue", email_attachments=[]),
     explorer_runologist=dict(official_name="Le runologue", email_attachments=[]),
 

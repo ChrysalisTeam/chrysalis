@@ -50,3 +50,6 @@ Informations et instructions diverses
 ========================================
 
 Vous aviez, longtemps avant votre mort, rendu votre **squelette indestructible**, tout autant pour renforcer votre corps que pour éviter que votre possible disparition dans les griffes de quelque ennemi ne reste à jamais un mystère. C'est ça l'esprit de prévoyance.
+
+
+LUI PARLER DE SON ARMURE SACREE

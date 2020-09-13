@@ -14,30 +14,45 @@ Reportez-vous à **l'article en annexe** pour une description détaillée du mon
 Les rituels d'exorcisme
 ---------------------------------------------
 
+*N'hésitez pas à simuler l'épuisement que vous procure les plus exigeants de ces exercices, quitte à vous effondrer à genoux après l'un d'eux.*
+
+
 **Bénédiction d'arme**
 
 Vous êtes capable de bénir une arme de poing, ou une munition (flèche, balle...), pour quelle ait prise sur les entités du monde des morts.
 Les armes ainsi sacrées ne peuvent bien sûr pas réellement blesser ou tuer des êtres qui sont déjà morts ;
-Mais par les impacts mystiques qu'ils infligent, elles peuvent chasser des fantomes agressifs, et atténuer leur lien au monde des vivants - les condamnannt ainsi à passer une plus grande proportion de temps sous forme spectrale, entre deux incarnations.
+Mais par les impacts mystiques qu'ils infligent, elles peuvent chasser des fantomes agressifs, et atténuer leur lien au monde des vivants - les condamnannt ainsi à passer une plus grande proportion de temps sous forme spectrale, entre deux incarnations. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
 
 Cette bénédiction ne fonctionne que sur les métaux nobles : **Paladium, Iridium, Platine, ou Mithril**.
 
 Rituel :
 
 - imposer les mains sur l'arme de poing ou la munition présentée
-- clamer "Toi qui blesses la chair, blesse aussi l'âme" (ou bien la version latine : "Tu et caro dolet, et anima nocere")
+- clamer "Toi qui blesses la chair, blesse aussi l'âme" {# (ou bien la version latine : "Tu et caro dolet, et anima nocere") #}
 
 
 **Expulsion d'esprit**
 
-Vous êtes capable de chasser une créature du monde des morts, pour le faire sortir d'un corps possédé, ou juste l'envoyer loin de vous ; cela le fait systématiquement (mais temporairement) repasser sous forme spectrale, non incarnée.
+Vous êtes capable de chasser une créature du monde des morts, pour le faire sortir d'un corps possédé, ou juste l'envoyer loin de vous ; cela le fait systématiquement (mais pendant quelques minutes uniquement) repasser sous forme spectrale (non incarnée). {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
 
 Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser que **2 fois par jour**.
 
 Rituel :
 
 - lever les bras vers le ciel
-- crier "Hors d'ici, esprit mauvais" (ou bien la version latine : "Vade retro, mali spiritus")
+- crier "Hors d'ici, esprit mauvais" {# (ou bien la version latine : "Vade retro, mali spiritus") #}
+
+
+**Charme d'esprit**
+
+Vous êtes capable de charmer une créature du monde des morts, qu'elle soit sous forme incarnée ou spectrale ; ell ene change pas de forme, en revanche elle est irrésistiblement attirée par vous pendant 30 secondes, mais se déplace particulièrement lentement. Cela ne lui permet cependant pas de passer à travers les obstacles qui la bloqueraient habituellement.
+
+Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser que **2 fois par jour**.
+
+Rituel :
+
+- mettre les bras croisés sur votre coeur
+- crier "Viens à moi, esprit errant" {# (ou bien la version latine : "Venite ad me errantes spiritu") #}
 
 
 **Rupture de corridor outre-monde**
@@ -48,7 +63,7 @@ Rituel :
 
 - utiliser un pentacle simple (étoile à 5 branches dans un cercle) sur le sol
 - placer au centre de ce pentacle un objet lié à la mise en place du corridor (objet maudit, livre d'avatar...)
-- clamer "portail vers d'autres mondes, scelle ton seuil" (ou bien la version latine : "Porta ad alios mundos, sigillum tuum limen")
+- clamer "portail vers d'autres mondes, scelle ton seuil" {# (ou bien la version latine : "Porta ad alios mundos, sigillum tuum limen") #}
 
 Attention, cet exorcisme ne fonctionne que si toutes les entités qui sont venues depuis un autre monde par ce passage y sont **retournées**, ou où défaut sont placées **dans** le pentacle.
 

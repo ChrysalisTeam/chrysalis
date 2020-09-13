@@ -39,13 +39,16 @@ La lignée des Maupertuis a tenu plus longtemps que les autres, grâce à une r�
 Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bardée d'envoûtements, se délite peu à peu ; certains murs, entièrement désenvoutés, se sont effondrés. Mais ce processus prendra encore de nombreux siècles ; et certains artefacts continuent de préserver, en isolation, les puissants flux magiques qui les traversent.
 
 
-La goule du domaine interdit
----------------------------------
+Le domaine interdit et la Bête
+----------------------------------
 
 Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes mais hautement dangereuses car pourvues de longues griffes et très résistantes à la magie. Nourries et choyées en échange de leurs bons services, les goules étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres.
 
-Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars).
+Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit (surnomme "La Bête") ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars).
 
+L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de goule errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_noraml_zone_because_of_ultimate_seal" %}
+
+Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le symbole secret des Maupertuis, transmis de génération en génération ; l'accès est alors débloqué **pour 3 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "octave_knows_about_secret_family_symbol" %}
 
 
 La derrière maisonnée des Maupertuis

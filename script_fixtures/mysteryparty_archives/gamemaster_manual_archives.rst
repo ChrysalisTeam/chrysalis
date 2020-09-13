@@ -582,14 +582,12 @@ Accéder au domaine interdit (utile à tous)
 
 Des carrés retournables, sur un panneau (ou une application sur tablette tactile) {% hint "symbolic_enigma_puzzle_app" is needed %} permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon motif entier pour ouvrir le passage
 
-- Des runes sur le journal d’Octave (trouvé sur sa tombe) indiquent qu’il faut la superposition du symbole secret de la famille Maupertuis, et du symbole secret d’un héritier (ici Octave) pour pouvoir ouvrir le passage. {% hint "octave_diary_with_runes_enigma_puzzle_hint" is needed %}
+- Les figurants savent qu'il faut le symbole secret de la famille Maupertuis pour pouvoir ouvrir le passage. {% fact "secret_family_symbol_needed_for_forbidden_zone" %}
 
-- Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé dans le domaine interdit (il en avait la défense absolue, sous peine de mourir sous les coups de la Bête). {% fact "octave_knows_about_runes_enigma_puzzle" %}
+- Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé dans le domaine interdit (il en avait la défense absolue, sous peine de mourir sous les coups de la Bête). {% fact "octave_knows_about_secret_family_symbol" %}
 
-- Le symbole propre à Octave est magiquement en surbrillance sur son avant-bras de fantôme, et il le sait. {% hint "octave_has_heir_symbol_on_arm" is needed %}
-
-- Le symbole de la famille est en magnétisme sur la couverture d’un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_magnetic_family_symbol" is needed %} qui est dans le coffre commun de la famille.{% hint "family_common_chest_protected_by_code" is needed %}"
-   Ce coffre est protégé part un code, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}" {% hint "family_common_chest_code_spoken_by_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”). {% fact "octave_knows_about_murmuring_venture_prins_book" %}
+- Le symbole de la famille est en UV dans un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_uv_family_symbol" is needed %} qui est dans le coffre commun de la famille.{% hint "family_common_chest_protected_by_code" is needed %}"
+  Ce coffre est protégé part un code, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}" {% hint "family_common_chest_code_spoken_by_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”). {% fact "octave_knows_about_murmuring_venture_prins_book" %}
 
 - L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice. {% fact "archivist_knows_venture_prins_location" %}
    Il faut un stéthoscope, ou à défaut l'aide d'un automate, pour entendre le code diffusé dans le bois du livre, et ainsi ouvrir le coffre commun des Maupertuis.
@@ -601,14 +599,11 @@ Une fois la combinaison de ces deux symboles reproduite sur le panneau, un son p
 Neutraliser la bête des Maupertuis (utile à tous)
 -------------------------------------------------
 
-A METTRE DANS NPC COMMON KNOWLEGE
+Lors de la malédiction de la bibliothèque, la goule qui gardait le domaine interdit y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et aigrie, elle est plus dangereuse que jamais.
 
+La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouchée.
 
-Lors de la malédiction de la bibliothèque, la goule qui gardait le domaine interdit y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et ultra-agressive, elle est plus dangereuse que jamais.
-
-La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouché.
-
-Une fois que l’accès au domaine interdit est ouvert, la bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. L’archiviste les encourage donc à planifier de quoi la mettre hors d’état de nuir durablement.
+Une fois que l’accès au domaine interdit (habituellement protégé par un puissant {% symbol "barrage absolu" for "ultimate_seal_name" %}) est ouvert, la bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. L’archiviste les encourage donc à planifier de quoi la mettre hors d’état de nuir durablement. {% fact "archivist_warns_players_about_ghoul_dangerousness" %}
 
 Pour neutraliser la bête :
 
@@ -618,11 +613,15 @@ Pour neutraliser la bête :
 - L’arkonte avait une armure sacrée protégeant des attaques “sacrées”, c’est à dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la bête.
    {% hint "arkon_sacred_armor" is needed %}
 
-- **L’exorciste** peut faire fuir la bête pendant **XXXX temps** avec un de ses rituels ! {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
+- **L’exorciste** peut faire fuir la bête pendant quelques temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %} {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
 
-- L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la bête fantomatique (la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la bête reviendrait dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
+- L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
+
+- La bête avait pour friandises favorites des {% symbol "pierres de lune" for "beast_favorite_snack_is_moon_stone" %} ; même s'il ne peut plus les manger, il se jette dessus quand il en croise. {% hint "beast_snack_as_moon_stones" is needed %}
 
 - **L’invocateur** connait un rituel capable de “geler” pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% fact "diakon_invoker_can_freeze_beast_for_days" %}
+
+{# NOPE - **L'alchimiste** peut trouver une potion capable de réaliser un {% symbol "barrage absolu" for "ultimate_seal_name" %} pendant une journée sur u #}
 
 
 Le remède contre la dégénérescence marbrée (famille Parcival)
@@ -784,10 +783,7 @@ Un {% symbol "Bracelet d'Invisibilité Spirituelle" for "spiritual_invisibility_
 
 S'y téléporter, c'est la mort assurée. Pour le récupérer, il faut soit avoir reçu une potion anti-poison, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet artefact. {% hint "recipe_antipoison_potion" is needed %}
 
-
-FIXME REMOVE STUFFS BELOW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-Rôles spécifiques des joueurs (A SUPPRIMER CAR REDONDANT???)
+Survol des compétences spécifiques des participants
 =============================================================
 
 Ces rôles peuvent être facilement réaffectés ou cumulés à l’intérieur d’une équipe, en cas de changements dans les joueurs présents. Ils viennent en plus des compétences communes à tous les joueurs (chercher des objets, utiliser des clefs, discuter avec des figurants), qui sont aussi nécessaires pour progresser dans les énigmes.
@@ -797,49 +793,47 @@ IMPORTANT : chaque rôle doit avoir son “moment de gloire” prévu dans le sc
 Famille Parcival
 ----------------
 
-- Gardien des bois et chasseur de monstres : A un nerf avec 2 balles normales, et une forte musculature lui permettant de porter une **armure d’airain** (celle de l’arkonte) ou de **soulever certains objets** **(ex. lanternes des fantômes) NOOOPE. Il a aussi une compétence “premiers soins” lui permettant de soigner immédiatement un joueur atteint d’un malus. NOPE**
-
-- Alchimiste : Connaît les matériels et ingrédients disponibles au domicile des Parcival, les propriétés de certains composants de base, et sait réaliser une potion simple sur un établi. **Possède un carnet.**
-
-- Oracle : Le MJ lui montre des images (ou fait écouter des bandes son) à certains moments du jeu, et il doit de mémoire simuler une apparition et la décrire (les autres joueurs peuvent le questionner pour l’aider à ressortir les points importants) ; il peut aussi dénicher des visions supplémentaires s’il croise des “chants de grillon\ **”** dans la bibliothèque. **Possède un TALKIE-WALKIE ?**
+- Gardien des bois : armé, fort et protecteur
+- Alchimiste : sait fabriquer des potions pour divers usages
+- Oracle : reçoit des révélations visuelles ou auditives par moment
 
 Agents secrets mirandiens
 -------------------------
 
-- Démineur : Connaissance et désactivation des pièges physiques (fils tendus, dalles piégées...) + EXPLOSIFS. **Possède un carnet.**
-
-- Sondeur : Peut trianguler et trouver des émetteurs de fréquences radio (avec un mobile)\ **,** et possède un détecteur de métaux.
-
-- Crocheteur : Sait ouvrir des cadenas à clef (spéciaux transparents) avec un kit de crochetage **?** Sait aussi voir à travers les objets grâce au papier détecteur de magnétisme.
+- Démineur : désactivation des pièges et manipulation d'explosifs
+- Sondeur : sait détecter les métaux et les signaux faibles
+- Crocheteur : sait forcer certains cadenas, et visualiser/ouvrir des systèmes magnétiques
 
 Diacres de Bahamoot
 -----------------------
 
-- Désenvouteur : Reconnaissance des objets sacrés ou ensorcelés, et suppression des envoûtements dangereux (pentacles sur le sol, objets piégés…)
+- Désenvouteur : reconnait les envoûtements d'objets, et peut en supprimer
 
-- Exorciste : Connaissance des différentes entités monstrueuses ou sacrées et des règles qui les régissent. Il peut bénir rendre une arme pour la rendre capable de blesser au choix une entité magique ou sacrée. Il peut aussi chasser temporairement X fois une créature monstrueuse. **Possède un carnet.**
+- Exorciste : sait bannir des esprits et bénir des armes
 
-- Invocateur : Il peut réaliser un rituel (nécromancie, révocation des avatars, neutralisation de la Bête, suppression d’une clôture magique…) en coordination avec ses coéquipiers. Il peut aussi appeler l’Ankou depuis l’au-delà, ou accélérer/prolonger X fois la réincarnation temporaire d’un fantôme qui est actuellement errant.
+- Invocateur : sait invoquer des esprits ou réaliser des rituels magiques complexes
 
 Explorateurs-archéologues héliossars
 ------------------------------------
 
-- Runologue : Traduction de runes antiques provenant de livres, de graffitis, et indices pour les **stéréogrammes et quelques codes secrets**. **Possède un carnet.**
+- Runologue : sait traduire des runes et reconnaître divers codes secrets
 
-- Dévoileur : Possède une lampe UV pour lire l’encre invisible, et peut analyser des ossements **et des artefacts.**
+- Dévoileur : sait lire les encres UV invisibles, et analyser des objets
 
-- Anthropologue : A obtenu précédemment le titre d’arkonte yodique (peut donc recevoir la “confession de mission” de l’arkonte mort), et est **érudit** (accès une encyclopédie en ligne). **Possède un TALKIE-WALKIE ?**
+- Anthropologue : érudit en traditions humaines, blasons, valeurs marchandes...
 
 Avatars
 --------------
 
-- (druide) connaissance des vocabulaires alchimistes et herboristes désuets, connaissances des plantes et animaux, soin des blessures, forte auto-régénération et auto-protection magique
+- (druide) connaissance des vocabulaires alchimistes et herboristes désuets, connaissances des plantes et animaux, soin des blessures, forte auto-régénération et auto-protection magique ?????????????????????
 
 - (inventeur) peur réparer les objets, et diriger les automates
 
 - (sorcière?) TODO ? PEUT SOIGNER ????
 
-- (AUTRE ?): TODO suivant besoins du scénario
 
 
 <{ common_npc_lore_knowledge }/>
+
+
+<{ phantom_knowledge_article }/>
