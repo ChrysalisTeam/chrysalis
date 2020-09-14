@@ -667,10 +667,10 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 
 - Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien ne la profane. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
 
-- L’oracle a une vision d’un affrontement entre une légion de morts-vivants, dirigés par des nécromanciens, et une terre fertile et pacifique, enchantée par une figure brandissant un bâton coiffé d'un symbole : **{% symbol "soleil contenant un tourbillon" for "scepter_for_magic_amplification_symbol" %}**.
-   {% hint "parcival_oracle_vision_about_necromancers_and_scepter_amplificans" is needed %}
+- L’oracle a une vision d’un affrontement entre une légion de morts-vivants, dirigés par des nécromanciens, et une terre fertile et pacifique, enchantée par une figure brandissant un bâton coiffé d'un symbole : **{% symbol "soleil contenant un tourbillon" for "ring_for_magic_amplification_symbol" %}**.
+   {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %}
 
-- L’arkonte se souvient de ce symbole, qui est celui du légendaire **{% symbol "Sceptre Amplificans" for "scepter_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau. {% fact "arkon_has_hints_about_scepter_amplificans" %}
+- L’arkonte se souvient de ce symbole, qui est celui du légendaire **{% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
 - Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage ; le seul moyen d'y pénétrer, c'est de s'y téléporter.
 
@@ -678,9 +678,9 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 
 - Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé.
 
-- Dans le tombeau se trouve la dépouille du mage, ainsi que le {% symbol "Sceptre Amplificans" for "scepter_for_magic_amplification_name" %} et un {% symbol "Bandeau Magiprotek" for "antimagic_protection_headband" %}. {% hint 'scepter_amplificans' is needed %} {% hint 'antimagic_protection_headband' is needed %}
+- Dans le tombeau se trouve la dépouille du mage, ainsi que le {% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %} et un {% symbol "Bandeau Magiprotek" for "antimagic_protection_headband" %}. {% hint 'ring_amplificans' is needed %} {% hint 'antimagic_protection_headband' is needed %}
 
-- Avec le sceptre et la formule du désenvoûtement, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
+- Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
 Le trésor des Maupertuis (les agents secrets mirandiens)
 --------------------------------------------------------
