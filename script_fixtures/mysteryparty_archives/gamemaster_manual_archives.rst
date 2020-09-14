@@ -621,6 +621,11 @@ Pour neutraliser la bête :
 
 - **L’invocateur** connait un rituel capable de “geler” pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
+
+FRIANDISES PIERRE DE LUNE
+
+MURS AMOVIBLES
+
 {# NOPE - **L'alchimiste** peut trouver une potion capable de réaliser un {% symbol "barrage absolu" for "ultimate_seal_name" %} pendant une journée sur u #}
 
 
@@ -637,8 +642,8 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 - La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cett recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
-- Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé, un dans un **corridor toxique** de l’étage interdit. {# Hint tags for this are in the clues document #}
-   Il est préférable de mettre en scène que ce corridor est empoisonné à cause d'une potion qui s'est cassée dedans. {% fact "toxic_corridor_is_due_to_spilled_potion" %}
+- Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé ; un dans un **corridor toxique** de l’étage interdit (empoisonné à cause d'une potion qui s'est cassée dedans). {% fact "toxic_corridor_is_due_to_spilled_potion" %} ) {# Hint tags for this are in the clues document #}
+  Se téléporter dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir reçu une potion anti-poison, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet artefact. {% hint "recipe_antipoison_potion" is needed %}
 
 - Enfin, il faut un récipient avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 
@@ -650,9 +655,9 @@ Le Thanatologue (explorateurs héliossars)
 
 Un des rares exemplaires de ce mythique et controversé ouvrage a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste indique aux explorateurs-archéologues après avoir vérifié leur bonne volonté. {% hint "family_legendary_chest_protected_by_double_key" is needed %}
 
-- Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre (l’archiviste le sait et le dit par avance).
+- Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre (l’archiviste le sait et le dit par avance).   VOYANCE DECLENCHEE SUR CE COFFRE
 
-- **{% symbol "Quirinius" for "maupertuis_father" %} De Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans son coffre privé (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d\ **’écriture invisible UV**. {% hint "quirinius_notebook_with_thanatologue_chest_uv_code" is needed %}
+- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans le coffre familial (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d\ **’écriture invisible UV**. {% hint "quirinius_notebook_with_thanatologue_chest_uv_code" is needed %}
 
 - **{% symbol "Isadora" for "maupertuis_mother" %} De Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher. {% hint "isadora_code_for_thanatologue_chest_code" is needed %} {% fact "thief_knows_about_isadora_thanatologue_chest_code" %}
 
@@ -780,8 +785,8 @@ Le bracelet d'invisibilité spirituelle (bonus)
 ------------------------------------------------------
 
 Un {% symbol "Bracelet d'Invisibilité Spirituelle" for "spiritual_invisibility_wristband" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_wristband_in_toxic_corridor" is needed %}
+NOPE LE CACHER UN PEU MIEUX ??????????
 
-S'y téléporter, c'est la mort assurée. Pour le récupérer, il faut soit avoir reçu une potion anti-poison, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet artefact. {% hint "recipe_antipoison_potion" is needed %}
 
 Survol des compétences spécifiques des participants
 =============================================================

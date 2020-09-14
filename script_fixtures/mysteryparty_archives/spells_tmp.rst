@@ -23,7 +23,7 @@ Rend le buveur/récipiendaire invulnérable à toute attaque physique, contondan
 Bézoard anti-poison
 -------------------------
 
-Le bézoard cristallin ne protège pas de tous les poisons, mais rend inoffensifs les plus courants, et ralentit la progression dans le corps de tous les toxique,s qu'ils proviennent d'animaux, de plantes, ou de vapeurs.
+Le bézoard cristallin ne protège pas de tous les poisons, mais rend inoffensifs les plus courants, et ralentit la progression dans le corps de tous les toxiques qu'ils proviennent d'animaux, de plantes, ou de vapeurs.
 
 Dissoudre dans un chaudron quelconque les minéraux suivants :
 
