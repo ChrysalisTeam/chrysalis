@@ -22,17 +22,18 @@ Le jeu est pensé pour se jouer en immersion complète. Pour en profiter pleinem
   - Exemples d'accessoires: chapeau melon ou haut-de-forme, jabot, canne, robe à crinoline, éventail...
   - Il est possible de se changer sur place.
 
-Plus généralement, on tente d'ajouter un peu de jeu d'acteur aux différentes situations, en simulant les émotions, les travaux de force, la réalisation des diverses opérations que l'on peut avoir à mener, les blessures pitentiellement reçues...
+Plus généralement, on tente d'ajouter un peu de jeu d'acteur aux différentes situations, en simulant les émotions, les travaux de force physique ou de concentration mentale, la réalisation des diverses opérations que l'on peut avoir à mener, les blessures potentiellement reçues...
 
 
 Sécurité physique et émotionnelle
 +++++++++++++++++++++++++++++++++++++
 
 - **Pas de contact physique** hormis les mains (et les baisemains), sauf consentement prélalable entre joueurs (ex. pour réaliser une scène d'empoignade)
-- On ne court pas dans les escaliers ; aucun ennemi ne vous y rattrapera, donc on se tient à la rambarde et on y va tranquillement ; même prudence à proximité de balustrades
+- On ne court pas dans les escaliers ; aucun ennemi ne vous y rattrapera, donc on se tient bien à la rambarde et on s'y déplace tranquillement ; même prudence à proximité de balustrades
 - L'univers du jeu est plutôt léger, envoutant, courtois ; donc on évite les **situations sordides** comme la torture, le viol, l'inceste, etc.
 - Si une situation vous oppresse trop en tant que joueur , vous pouvez l'interrompre **en disant "STOP", ou en faisant une croix avec les mains**. On en discute alors "hors roleplay", pour voir si son intensité doit être modulée, si elle doit être expédiée (avec une ellipse temporelle), ou si elle est réputée n'avoir jamais eu lieu.
-
+- Signalez aux organisateurs si vous avez des **phobies** (de l'obscurité, de certains animaux...) pour qu'ils voient si cela peut poser problème.
+- Signalez de même les **allergies** (surtout alimentaires), ou autres problèmes de santé, que vous pourriez avoir.
 
 {% endmacro %}
 
@@ -44,6 +45,6 @@ Sécurité physique et émotionnelle
 Note Finale
 ++++++++++++++++++
 
-Cette Mystery Party est un **JEU**, le but ultime est que tout le monde, joueur comme figurant, passe un bon moment. On fait donc preuve de savoir-vivre en toutes circonstances, on reste fair-play, on adapte son jeu pour aider les rôlistes débutants... et si on a un peu d'expérience, on peut même aider à la mise en place de situations et scènes particulièrement intéressantes (quitte à ce que le personnage lui-même y perde au change, comme lors d'un glorieux sacrifice personnel).
+Cette Mystery Party est un **JEU**, le but ultime est que tout le monde, joueur comme figurant, passe un bon moment. On fait donc preuve de savoir-vivre en toutes circonstances, on reste fair-play, on adapte son jeu pour aider et promouvoir les rôlistes débutants... et si l'on a un peu d'expérience, on peut même aider à la mise en place de situations et scènes particulièrement intéressantes (quitte à ce que le personnage lui-même y perde au change, comme lors d'un glorieux sacrifice personnel).
 
 {% endmacro %}

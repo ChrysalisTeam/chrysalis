@@ -687,15 +687,15 @@ Le trésor des Maupertuis (les agents secrets mirandiens)
 
 Les agents secrets ont vu des traces d’antiques récits vantant la fortune “surnaturelle” de la famille Maupertuis, jamais exhumée à ce jour.
 
-Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langage énigmatique comme ses parents ont réuni “trois micro-codex”, puis comment alors qu’un “grimoire chantant” se fait entendre, la “manivelle mise en mouvement déverse des torrents de richesses”. {% hint "meredice_diary_about_treasure_for_spy_group" is needed %}
+Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langage énigmatique comment lorsqu'un grimoire se met à chanter, quelque chose tourne et les richesses apparaissent. {% hint "meredice_diary_about_treasure_for_spy_group" is needed %}
 
 Un **oracle déclenché par un grillon de l’étage autorisé**, montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques.  {% hint "parcival_oracle_vision_about_water_mill" is needed %}
 
 Les joueurs doivent comprendre qu’il s’agit d’un moulin à poivre simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit. {% hint "grinding_mill_magical" is needed %}
 
-Ce moulin, capable de générer des pierres précieuses à partir de rien, nécessite un chant issu d'un grimoire magique, pour fonctionner. Afin d’éviter les abus, ledit grimoire est protégé par un code qui change chaque mois.
+Ce moulin, capable de générer des pierres précieuses à partir de rien, nécessite un chant issu d'un grimoire magique, pour fonctionner. Afin d’éviter les abus, ledit grimoire est protégé par un code qui change tous les quelques jours.
 
-Le code est constitué de symboles répartis entre 4 bijoux (indestructibles) des Maupertuis. 3 bijoux seulement suffisent à activer la chanson. Ces bijoux sont chacun ornés d’un micro-livre, qui contient un des symboles recherchés.
+Le code est constitué de symboles répartis entre 4 bijoux (indestructibles) des Maupertuis. 3 bijoux seulement suffisent à activer la chanson, car le dernier symbole peut se trouver *relativement* rapidement par essai et erreur sur le grimoire chantant.
 
 Les différents bijoux :
 

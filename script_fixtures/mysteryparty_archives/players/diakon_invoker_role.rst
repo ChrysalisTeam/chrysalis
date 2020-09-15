@@ -31,3 +31,8 @@ GEL d'un spectre
 ----------------------
 
  {% fact "diakon_invoker_can_freeze_beast_for_days" %}
+
+Clef mystique
+------------------
+
+(pour épreuve d'octave)
