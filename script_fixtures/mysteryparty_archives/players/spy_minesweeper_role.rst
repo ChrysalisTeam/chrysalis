@@ -10,6 +10,12 @@ Depuis des décennies que vous baroudez dans les services secrets de votre patri
 <{ spy_sheet_intro }/> Et vos péchés mignons, ce sont les pièges et les explosifs. Rien de magique, uniquement les bons vieux phénomènes physiques qui ont largement fait leurs preuves.
 
 
+Reconnaissance des coffres piégés
+--------------------------------------
+
+PASTILLES
+
+
 Pièges physiques
 --------------------
 
@@ -18,6 +24,8 @@ Vous êtes capable de désactiver les pièges à l'ancienne, qui pullulent dans 
 *NOTE hors-jeu : les pièges sont simulés par des fils tendus en travers du chemin. Votre but est de les démonter sans faire tomber/tinter de grelot. Vous devez, pour cette opération de déminage, être supervisé par le maître de jeu, qui vous donnera votre devenir si le déminage échoue. Vous pouvez pour cela toucher à tout ce qui constitue le piège (y compris les grelots), mais vous ne pouvez rien couper/casser. N'hésitez pas à en rajouter, à établir un périmètre de sécurité pour le déminage, ou à simuler la blessure si elle survient.*
 
 TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
+
+GRELOTS AVEC ELASTIQUES !!!!
 
 ------> A SYSTEM DE CODE AUSSI !!!!!!!!!?????
 

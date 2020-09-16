@@ -13,7 +13,7 @@ Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
 -------------------------------------------------------------------------------
 
 
-Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la guerre des sorciers.
+Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la guerre des trente sorciers.
 
 Redoutable magiciens, alchimiste, et duelliste, il a mis au pas tous ses adversaires. La legende raconte qu'il était simplement invulnérable aux sortilèges magiques.
 
@@ -21,11 +21,11 @@ Pour éviter tout empoisonnement, il avait appris à générer lui-même de la n
 
 Il a créé le chateau familial des Maupertuis, la bibliothèque enfouie, ainsi que le réseau de portails planétaires la reliant aux domaines de ses vassaux.
 
-Il est mort brusquement, à l'approche des 50 ans, en s'étouffant avec un noyau de pêche. Il n'avait pas encore tranmis à ses héritiers ses plus importants secrets.
+Il est mort brusquement lors de festivités, à l'approche de ses 50 ans, en s'étouffant avec un noyau de pêche. Il n'avait pas encore tranmis à ses héritiers ses plus importants secrets.
 
 Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèque, dans sa robe de fêtes, sans oser risquer de déclencher quelque malédiction en le toilettant.
 
-Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul ne viole jamais la sépulture de ce vénérable aieul, ni aucun des dangereux secrets qu'il a emportés dans la tombe.
+Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul ne viole jamais la sépulture de ce vénérable aieul, ni aucun des dangereux mystères qu'il a emportés dans la tombe.
 
 
 Le déclin magique

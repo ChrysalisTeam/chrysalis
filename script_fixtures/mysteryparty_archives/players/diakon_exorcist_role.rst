@@ -68,5 +68,9 @@ Rituel :
 Attention, cet exorcisme ne fonctionne que si toutes les entités qui sont venues depuis un autre monde par ce passage y sont **retournées**, ou où défaut sont placées **dans** le pentacle.
 
 
+<{ injury_types_knowledge }/>
+
 
 <{ phantom_knowledge_article }/>
+
+

@@ -3,12 +3,8 @@
 <{ game_rules_intro }/>
 
 
-# ATTENTION PAS DE nyctophobie  !!!!!!!!!!!!!
 
-# PARLER DEGAT PHYSIQUES MAGIQUES ET SACRES !!!!!!
-
-
-{% Assurer qu’il n’y aura pas d’araignées/scorpions ni de serpents %}
+{# Assurer qu’il n’y aura pas d’araignées/scorpions ni de serpents ? NOPE AU CONTRAIRE #}
 
 
 Apprentissage et suivi du scénario
@@ -26,7 +22,7 @@ Distinction des objets RP/HRP
 - Certains papiers (documents du MJ, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels ; **en particulier, ne pas montrer sa feuille de personnage aux autres joueurs, même alliés**
 - Lorsque des **meubles sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu
 - Du **scotch noir** peut aussi être utilisés pour désigner des objets soudés ensemble, ou scellés ; ce scotch ne doit pas être enlevé par les joueurs.
-- Des **petites pastilles et plumes colorées** sont utilisés pour annoter des objets du jeu, ne les enlevez pas. Si vous ne les reconnaissez pas, vous ne pouvez pas transmettre leur contenu à un autre joueur (car ils sont hors-jeu), vous pouvez lui demander de "jeter un oeil, car cette objet vous semble étrange/piégé/magique" ; les méthodes de déchiffrement de ces annotations ne doivent pas être divulgué entre joueur, car ils représentent des compétences sophistiquées dans l'univers du jeu.
+- Des **petites pastilles, plumes colorées, ou des cure-pipes (fil chenille)** sont utilisés pour annoter des objets du jeu, ne les enlevez pas. Si vous ne les reconnaissez pas, vous ne pouvez pas transmettre leur contenu à un autre joueur (car ils sont hors-jeu), vous pouvez lui demander de "jeter un oeil, car cette objet vous semble étrange/piégé/magique" ; les méthodes de déchiffrement de ces annotations ne doivent pas être divulgué entre joueur, car ils représentent des compétences sophistiquées dans l'univers du jeu.
 - si un participant traverse la salle avec le **poing levé**, c'est qu'il est hors-jeu, ignorez-le
 - En cas de doute sur ce qui est en jeu ou non, demander au MJ ou aux PNJs
 

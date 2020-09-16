@@ -27,6 +27,14 @@ Rituels divers
 
 ???
 
+
+Bénédiction de terrain
+------------------------
+(anti zombie)
+{% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
+
+
+
 GEL d'un spectre
 ----------------------
 
@@ -36,3 +44,5 @@ Clef mystique
 ------------------
 
 (pour épreuve d'octave)
+
+

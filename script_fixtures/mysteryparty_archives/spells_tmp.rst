@@ -68,8 +68,8 @@ Cet exorcisme primitif "chasse" un fantome loin du ritualiste qui le déclame, p
 
 
 
-Explication octave symboles (en UV ?)
-------------------------------------
+Explication octave symboles (en UV ?)  ABORTED
+----------------------------------------------------
 
 Paroles du Puissant {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}.
 

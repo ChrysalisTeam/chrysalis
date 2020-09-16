@@ -36,7 +36,7 @@ La rencontre des Maupertuis et des Avatars
 
 **La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu, c'est à dire en l'{% symbol "an 500" for "library_initial_events_year" %} de la nouvelle ère.**
 
-L'enfant, **{% symbol "Octave" for "maupertuis_son" %} De Maupertuis**, a connu une destinée tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a disparu durant ces évènements.
+L'enfant, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, a connu une destinée tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a disparu durant ces évènements.
 
 {% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur-archiviste **{% symbol "Maître Parchemine" for "archivist_name" %}** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens chateaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, pour une célébration commune de la nouvelle année, même si cette tradition n'avait plus cours depuis longtemps.
 
@@ -172,7 +172,7 @@ Leur devise est **"le savoir est pouvoir"**, en pointant l'index vers le ciel.
 La famille Parcival
 -------------------
 
-Ces 3 frères et soeurs sont les lointains descendants de Mérédice De Maupertuis, la soeur d’Octave que tout le monde croyait morte avec sa famille, mais qui avait en réalité pu s’échapper et refaire sa vie.
+Ces 3 frères et soeurs sont les lointains descendants de Mérédice de Maupertuis, la soeur d’Octave que tout le monde croyait morte avec sa famille, mais qui avait en réalité pu s’échapper et refaire sa vie.
 
 Ces Parcival ont lu dans l’autobiographie de leur ancêtre Mérédice comment ses parents, magiciens-quérisseurs, l’avaient soignée d’un grand mal héréditaire, la dégénérescence marbrée, grâce à un “Cocktail de Réjuvénation”. Lorsque leur petite soeur commune est tombée malade à son tour (il ne lui reste que quelques semaines à vivre), ils sont partis en quête du remède, et leur enquête les a menés jusqu’aux archives enfouies de l'ancien domaine familial.
 
@@ -332,7 +332,7 @@ L’Ankou (le guide des âmes, le “psychopompe”)
 - Pendant la scène finale, en revanche, il se tait et laisse la solennité de l’évènement s’imposer ; mais il peut, tout à la fin, lancer un “Hé les gars on se dépêche maintenant, j'ai un groupe de touristes kéroskiens qui vient d’aller caresser des requins-sabres, donc j’ai pas fini ma journée !”
 
 La Bête (goule gardienne du Domaine Interdit)
----------------------------------------
+--------------------------------------------------
 
 - FANTÔME (anciennement une goule des cavernes, “embauchée” et enchantée pour être plus dangereuse et ne pas avoir besoin de se nourrir)
 
@@ -349,7 +349,7 @@ La Bête (goule gardienne du Domaine Interdit)
 - **Les parents Maupertuis, interrogés depuis l’au-delà, peuvent donner des indications sur comment la neutraliser**
 
 Le druide {% symbol "Diviciacos" for "druid_name" %}
----------------------------------
+-----------------------------------
 
 {% macro avatar_druid_character_summary() %}
 
@@ -632,7 +632,7 @@ MURS AMOVIBLES
 Le remède contre la dégénérescence marbrée (famille Parcival)
 -------------------------------------------------------------
 
-- L'archiviste se souvient très bien de la maladie de Mérédice De Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un Cocktail de Réjuvénation. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l'étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
+- L'archiviste se souvient très bien de la maladie de Mérédice de Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un Cocktail de Réjuvénation. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l'étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
 - Le Cocktail de Réjuvénation demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
 
@@ -657,9 +657,12 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 
 - Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre (l’archiviste le sait et le dit par avance).   VOYANCE DECLENCHEE SUR CE COFFRE
 
-- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans le coffre familial (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d\ **’écriture invisible UV**. {% hint "quirinius_notebook_with_thanatologue_chest_uv_code" is needed %}
+- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans le coffre familial (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis" is needed %}
+  Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
 
-- **{% symbol "Isadora" for "maupertuis_mother" %} De Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher. {% hint "isadora_code_for_thanatologue_chest_code" is needed %} {% fact "thief_knows_about_isadora_thanatologue_chest_code" %}
+- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher.
+  Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. {% fact "thief_knows_about_isadora_thanatologue_chest_code" %}
+
 
 - Le Thanatologue se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une contre-mesure, dans le thanatologue, en appelant à viser en priorité les désenvouteurs du camp adverse. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
 
@@ -667,16 +670,16 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 
 - Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien ne la profane. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
 
-- L’oracle a une vision d’un affrontement entre une légion de morts-vivants, dirigés par des nécromanciens, et une terre fertile et pacifique, enchantée par une figure brandissant un bâton coiffé d'un symbole : **{% symbol "soleil contenant un tourbillon" for "ring_for_magic_amplification_symbol" %}**.
+- L’oracle a une vision d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplifican_artefacts_symbol" %}**.
    {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %}
 
-- L’arkonte se souvient de ce symbole, qui est celui du légendaire **{% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau. {% fact "arkon_has_hints_about_ring_amplificans" %}
+- L’arkonte se souvient de ce symbole, qui est celui du légendaire **{% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
 - Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage ; le seul moyen d'y pénétrer, c'est de s'y téléporter.
 
 - Le puissant {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} appartenant au voleur est sur sa dépouille, qui est maudite car il est "mort dans le vice". {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device' is needed %}
 
-- Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé.
+- Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé. {% fact "thief_knows_teleportation_device_formula" %}
 
 - Dans le tombeau se trouve la dépouille du mage, ainsi que le {% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %} et un {% symbol "Bandeau Magiprotek" for "antimagic_protection_headband" %}. {% hint 'ring_amplificans' is needed %} {% hint 'antimagic_protection_headband' is needed %}
 
@@ -689,7 +692,7 @@ Les agents secrets ont vu des traces d’antiques récits vantant la fortune “
 
 Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langage énigmatique comment lorsqu'un grimoire se met à chanter, quelque chose tourne et les richesses apparaissent. {% hint "meredice_diary_about_treasure_for_spy_group" is needed %}
 
-Un **oracle déclenché par un grillon de l’étage autorisé**, montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques.  {% hint "parcival_oracle_vision_about_water_mill" is needed %}
+Un **oracle déclenché par un grillon de l’étage autorisé NOPE NOPE**, montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques.  {% hint "parcival_oracle_vision_about_water_mill" is needed %}
 
 Les joueurs doivent comprendre qu’il s’agit d’un moulin à poivre simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit. {% hint "grinding_mill_magical" is needed %}
 
@@ -781,11 +784,28 @@ Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétis
 
 **TODO ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...**
 
-Le bracelet d'invisibilité spirituelle (bonus)
+Les trois colliers d'invisibilité
 ------------------------------------------------------
 
-Un {% symbol "Bracelet d'Invisibilité Spirituelle" for "spiritual_invisibility_wristband" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_wristband_in_toxic_corridor" is needed %}
+Un {% symbol "Collier d'Invisibilité Spirituelle" for "spiritual_invisibility_necklace" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_necklace_in_toxic_corridor" is needed %}
 NOPE LE CACHER UN PEU MIEUX ??????????
+
+Un {% symbol "Collier d'Invisibilité Spirituelle" for "spiritual_invisibility_necklace" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_necklace_in_toxic_corridor" is needed %}
+
+{% symbol "Collier éthérique d'esprit" for "spiritual_invisibility_necklace" %}
+
+{% symbol "Collier éthérique de magie" for "spiritual_invisibility_necklace" %}
+
+{% symbol "Collier éthérique de corps" for "spiritual_invisibility_necklace" %}
+
+
+
+Collier éthérique de magie (pierres ovales translucides) : Celui qui porte ce collier autour du cou devient impalpable sur le plan magique, aucun sortilège (de feu, de foudre...) ne peut plus l'atteindre. Il ne peut lui-même réaliser aucun acte de magie (préparation alchimique, lancer de sorts...) tant qu'il le porte.
+
+Collier éthérique de corps (ruban-chaine doré) : Celui qui porte ce collier autour du cou devient impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre. En contrepartie, il se déplace très lentement (comme en nageant dans de la glaise), et doit se concentrer beaucoup pour interagir avec les objets ; naturellement, il ne peut pas soulever de grosses charges, ni se battre.
+
+Collier éthérique d'esprit (boules en bois) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, spectres, ou malédictions. Il ne peut lui-même réaliser aucun rituel en rapport avec le monde des esprits (invocation de morts, exorcisme, portails d'outre-monde...) tant qu'il le porte.
+
 
 
 Survol des compétences spécifiques des participants

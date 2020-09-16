@@ -53,3 +53,7 @@ Vous aviez, longtemps avant votre mort, rendu votre **squelette indestructible**
 
 
 LUI PARLER DE SON ARMURE SACREE
+
+Vous connaissez de nombreuses légendes remontant à l'ère du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}. L'un d'elle parle de divers artefacts (bijous, sceptres, armes) créés par une petite secte, qui avaient pour particularité d'étendre la portée spatiale des sortilèges de leur porteur. Avec cet effet démultiplicateur, un rituel créant habituellement un petit mur de flamme sur quelques pas pouvait se retrouver à embraser une plaine entière. le symbole commun à ces artefacts était un **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplifican_artefacts_symbol" %}**.
+
+{% fact "arkon_has_hints_about_ring_amplificans" %}
