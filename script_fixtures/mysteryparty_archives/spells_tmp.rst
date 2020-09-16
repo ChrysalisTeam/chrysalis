@@ -17,7 +17,7 @@ Permet d'immobiliser un mort récalcitrant, pour une durée de 6h au moins
 Philtre de peau de pierre
 ----------------------------
 
-Rend le buveur/récipiendaire invulnérable à toute attaque physique, contondante, perçante ou tranchante, pour une durée de 1h
+.. Rend le buveur/récipiendaire invulnérable à toute
 
 
 Bézoard anti-poison

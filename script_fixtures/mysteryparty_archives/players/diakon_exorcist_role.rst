@@ -33,9 +33,9 @@ Rituel :
 
 **Expulsion d'esprit**
 
-Vous êtes capable de chasser une créature du monde des morts, pour le faire sortir d'un corps possédé, ou juste l'envoyer loin de vous ; cela le fait systématiquement (mais pendant quelques minutes uniquement) repasser sous forme spectrale (non incarnée). {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
+Vous êtes capable de chasser une créature du monde des morts, pour la faire sortir d'un corps possédé, ou juste l'envoyer loin de vous ; cela la fait systématiquement (mais pendant quelques minutes uniquement) repasser sous forme spectrale (non incarnée). {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
 
-Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser que **2 fois par jour**.
+Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser que **3 fois par jour**. Il ne touche qu'un seul exprit par invocation.
 
 Rituel :
 
@@ -45,9 +45,9 @@ Rituel :
 
 **Charme d'esprit**
 
-Vous êtes capable de charmer une créature du monde des morts, qu'elle soit sous forme incarnée ou spectrale ; ell ene change pas de forme, en revanche elle est irrésistiblement attirée par vous pendant 30 secondes, mais se déplace particulièrement lentement. Cela ne lui permet cependant pas de passer à travers les obstacles qui la bloqueraient habituellement.
+Vous êtes capable de charmer une créature du monde des morts, qu'elle soit sous forme incarnée ou spectrale ; elle ne change pas de forme, en revanche elle est irrésistiblement attirée par vous pendant 30 secondes, mais se déplace particulièrement lentement. Cela ne lui permet cependant pas de passer à travers les obstacles qui la bloqueraient habituellement.
 
-Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser que **2 fois par jour**.
+Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser que **3 fois par jour**. Il ne touche qu'un seul exprit par invocation.
 
 Rituel :
 

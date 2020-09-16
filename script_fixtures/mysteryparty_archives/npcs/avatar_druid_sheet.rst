@@ -55,3 +55,5 @@ Hélas, un trouble-fête est venu mettre vos plans en pièces . L'Arkonte Val, s
 
 Informations et instructions diverses
 ========================================
+
+Demande à heures fixes des boissons à l'automate de service.
