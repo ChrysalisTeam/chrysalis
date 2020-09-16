@@ -13,7 +13,7 @@ Autrefois protecteur du domain interdit, vous vous êtes retrouvé définitiveme
 - Si l'occasion se présente, vous pouvez décider de descendre par l'escalier où les joueurs ne vous attendent pas, pour les prendre à revers.
 - Vous ne pouvez que marcher, mais à grands pas si nécessaire.
 - Vous attaquez les joueurs les plus proches (mais vous voyez mal au delà de 3m).
-- Si un joueur est invulnérable (car portant l'armure de l'arkonte par exemple), vous l'attaquez quelques fois en vain, puis vous choisissez une autre cible.
+- Si un joueur est invulnérable (car portant l'{% symbol "armure de Mithril" for "arkon_armor_name" %} de l'arkonte par exemple), vous l'attaquez quelques fois en vain, puis vous choisissez une autre cible.
 - Si un joueur tombe sous votre main, vous le "griffez" pendant 5-6 secondes, puis vous le considérez comme hors de combat et vous passez à un autre.
 - Prêtez attention aux incantations de l'exorciste, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; lisez sa fiche auparavant.
 - Si vous êtes touché par une balle sacrée, vous partez au hasard sous forme spectrale pendant quelques minutes.

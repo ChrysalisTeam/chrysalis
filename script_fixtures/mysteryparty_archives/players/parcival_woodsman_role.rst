@@ -13,7 +13,7 @@ Vous êtes costaud. Mais vraiment, vraiment costaud. Cela vous permet de souleve
 
 *NOTE hors-jeu : De tels objets seront signalés en jeu par une étiquette, leur poids réel restant bien sûr assez faible.*
 
-- armure de fonte
+- armure de l'arkonte
 - porte de métal barrant un passage !!!
 
 

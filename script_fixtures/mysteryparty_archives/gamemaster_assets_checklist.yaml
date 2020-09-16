@@ -59,7 +59,7 @@
     - "Tombe 2 : ??????? METTRE QUELQUE CHOSE, il avait un coffre au fond de la bibliothèque l'archiviste ???"
 
     - "Tombe 3 : Squelette sans crâne de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %}"
-    - "Tombe 3 : Armure de l'arkonte {% hint 'arkon_sacred_armor' is provided %}"
+    - "Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %}"
 
 -
   - "Galerie des portraits"

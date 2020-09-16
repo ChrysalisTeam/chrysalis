@@ -13,7 +13,7 @@ Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
 -------------------------------------------------------------------------------
 
 
-Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la guerre des trente sorciers.
+Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la {% symbol "guerre des trente sorciers" for "mages_war_name" %}.
 
 Redoutable magiciens, alchimiste, et duelliste, il a mis au pas tous ses adversaires. La legende raconte qu'il était simplement invulnérable aux sortilèges magiques.
 

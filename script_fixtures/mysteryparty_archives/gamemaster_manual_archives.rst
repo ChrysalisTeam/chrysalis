@@ -610,7 +610,7 @@ Pour neutraliser la bête :
 - La bête “sent” les vivants qui se trouvent à moins de 3m, mais voit très mal au delà. Il est donc possible de se promener dans le domaine interdit en l’évitant soigneusement, mais cela reste très dangereux.
    {% fact "npcs_know_how_the_beast_works" %}
 
-- L’arkonte avait une armure sacrée protégeant des attaques “sacrées”, c’est à dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la bête.
+- L’arkonte avait une {% symbol "armure de Mithril" for "arkon_armor_name" %} sacrée protégeant des attaques “sacrées”, c’est à dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la bête.
    {% hint "arkon_sacred_armor" is needed %}
 
 - **L’exorciste** peut faire fuir la bête pendant quelques temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %} {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
@@ -746,7 +746,7 @@ Le traître est insensible aux attaques physiques et magiques usuelles, mais il 
 
 - Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de trois joueurs pour créer “la balle qui ne pardonne pas”.
 
-- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer forcer la terminaison du rituel de renvoi du druide dans son propre monde. Un oracle évoque cette façon de faire, et met en garde contre une riposte du méchant à l'aide des fantômes ; en effet, en désespoir de cause, le druide utilise la {% symbol "Sonnette des Ames" for "phantom_bell_name" %} pour rameuter les spectres et ainsi atteindre le ritualiste. A charge pour les autres joueurs de repousser les spectres (avec l'armure de l'arkonte, avec des exorcismes) sans se faire attaquer par le druide.
+- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer forcer la terminaison du rituel de renvoi du druide dans son propre monde. Un oracle évoque cette façon de faire, et met en garde contre une riposte du méchant à l'aide des fantômes ; en effet, en désespoir de cause, le druide utilise la {% symbol "Sonnette des Ames" for "phantom_bell_name" %} pour rameuter les spectres et ainsi atteindre le ritualiste. A charge pour les autres joueurs de repousser les spectres (avec l'{% symbol "armure de Mithril" for "arkon_armor_name" %} de l'arkonte, avec des exorcismes) sans se faire attaquer par le druide.
 
 
 
@@ -802,13 +802,16 @@ Un {% symbol "Collier d'Invisibilité Spirituelle" for "spiritual_invisibility_n
 
 {% symbol "Collier éthérique de corps" for "spiritual_invisibility_necklace" %}
 
+Les légendes parlent de plusieurs colliers magiques forgés durant la {% symbol "guerre des trente sorciers" for "mages_war_name" %}, et disparus peu après.
+Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux.
 
+Collier éthérique de peau de pierre (formé de pierres ovales translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques, , (contondantes, perçantes ou tranchantes). En contrepartie, il se déplace très lentement (comme un golem, en "nageant dans de la glaise").
 
-Collier éthérique de peau de pierre (pierres ovales translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques, , (contondantes, perçantes ou tranchantes). En contrepartie, il se déplace très lentement (comme un golem, en "nageant dans de la glaise").
+Collier éthérique de force vitale (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
 
-Collier éthérique de force vitale (boules en bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
+Collier éthérique d'aura manaïque (formé de chainettes dorées) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut lui-même réaliser aucun acte de magie (préparation alchimique, lancer de sorts...) tant qu'il le porte. Les dangers et rituels de type sacré (blessures de fantômes, exorcismes...) ne sont pas concernés par ce collier.
 
-Collier éthérique d'aura manaïque (ruban-chaine doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut lui-même réaliser aucun acte de magie (préparation alchimique, lancer de sorts...) tant qu'il le porte. Les dangers et rituels de type sacré (blessures de fantômes, exorcismes...) ne sont pas concernés par ce collier.
+Collier éthérique d'esprit (formé d'anneaux ) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, spectres, ou malédictions. Il ne peut lui-même réaliser aucun rituel en rapport avec le monde des esprits (invocation de morts, exorcisme, portails d'outre-monde...) tant qu'il le porte.
 
 
 {# OLDIES
@@ -821,7 +824,7 @@ impalpable sur le plan magique, aucun sortilège (de feu, de foudre...) ne peut 
 
 Collier éthérique de corps (ruban-chaine doré) : Celui qui porte ce collier autour du cou devient impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre.
 
-Collier éthérique d'esprit (boules en bois) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, spectres, ou malédictions. Il ne peut lui-même réaliser aucun rituel en rapport avec le monde des esprits (invocation de morts, exorcisme, portails d'outre-monde...) tant qu'il le porte.
+
 
 #}
 
