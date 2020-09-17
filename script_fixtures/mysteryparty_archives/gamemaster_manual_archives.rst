@@ -791,30 +791,22 @@ Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétis
 Les trois colliers éthériques
 ------------------------------------------------------
 
-Un {% symbol "Collier d'Invisibilité Spirituelle" for "spiritual_invisibility_necklace" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_necklace_in_toxic_corridor" is needed %}
-NOPE LE CACHER UN PEU MIEUX ??????????
-
-Un {% symbol "Collier d'Invisibilité Spirituelle" for "spiritual_invisibility_necklace" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_necklace_in_toxic_corridor" is needed %}
-
-{% symbol "Collier éthérique d'esprit" for "spiritual_invisibility_necklace" %}
-
-{% symbol "Collier éthérique de magie" for "spiritual_invisibility_necklace" %}
-
-{% symbol "Collier éthérique de corps" for "spiritual_invisibility_necklace" %}
-
 Les légendes parlent de plusieurs colliers magiques forgés durant la {% symbol "guerre des trente sorciers" for "mages_war_name" %}, et disparus peu après.
 Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux.
 
-Collier éthérique de peau de pierre (formé de pierres ovales translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques, , (contondantes, perçantes ou tranchantes). En contrepartie, il se déplace très lentement (comme un golem, en "nageant dans de la glaise").
+{% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %} (formé de pierres ovales translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques, , (contondantes, perçantes ou tranchantes). En contrepartie, il se déplace très maladroitement (comme un golem).
 
-Collier éthérique de force vitale (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
+{% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %} (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
 
-Collier éthérique d'aura manaïque (formé de chainettes dorées) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut lui-même réaliser aucun acte de magie (préparation alchimique, lancer de sorts...) tant qu'il le porte. Les dangers et rituels de type sacré (blessures de fantômes, exorcismes...) ne sont pas concernés par ce collier.
+{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}  (formé de chainettes dorées) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas concernés par ce collier.
 
-Collier éthérique d'esprit (formé d'anneaux ) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, spectres, ou malédictions. Il ne peut lui-même réaliser aucun rituel en rapport avec le monde des esprits (invocation de morts, exorcisme, portails d'outre-monde...) tant qu'il le porte.
+{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %} (formé d'anneaux de Mithril) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrèmement lourd, et ralentit ses mouvements.
 
 
 {# OLDIES
+
+Un {% symbol "Collier d'Invisibilité Spirituelle" for "spiritual_invisibility_necklace" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_necklace_in_toxic_corridor" is needed %}
+NOPE LE CACHER UN PEU MIEUX ??????????
 
 impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre.
 

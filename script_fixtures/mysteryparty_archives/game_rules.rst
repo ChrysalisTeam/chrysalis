@@ -23,6 +23,8 @@ Distinction des objets RP/HRP
 - Lorsque des **meubles sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu
 - Du **scotch noir** peut aussi être utilisés pour désigner des objets soudés ensemble, ou scellés ; ce scotch ne doit pas être enlevé par les joueurs.
 - Des **petites pastilles, plumes colorées, ou des cure-pipes (fil chenille)** sont utilisés pour annoter des objets du jeu, ne les enlevez pas. Si vous ne les reconnaissez pas, vous ne pouvez pas transmettre leur contenu à un autre joueur (car ils sont hors-jeu), vous pouvez lui demander de "jeter un oeil, car cette objet vous semble étrange/piégé/magique" ; les méthodes de déchiffrement de ces annotations ne doivent pas être divulgué entre joueur, car ils représentent des compétences sophistiquées dans l'univers du jeu.
+- Les livres modernes sont considérés comme des grimoires écrits dans des langues que vous ne pouvez comprendre.
+- Les objets modernes (lampes...) sont traités comme leurs équivalents dans un monde steampunk, ou ignorés s'ils osnt high-tech (oridinateurs...).
 - si un participant traverse la salle avec le **poing levé**, c'est qu'il est hors-jeu, ignorez-le
 - En cas de doute sur ce qui est en jeu ou non, demander au MJ ou aux PNJs
 
