@@ -45,6 +45,17 @@ TODO dire blason du mage
 
 TODO TODO ---> utile pour déchiffrer prophéties!!!
 
+
+Estimation des monnaies et gemmes
+------------------------------------
+
+Vous connaissez bien la valeur des pièces et pierreries, ainsi que son évolution au fil de l'histoire*.
+
+Voici par exemple comment s'écoulaient, au meilleur prix, les éléments précieux du temps des Maupertuis (leur valeur a chuté de moitié depuis, pendant que la monnaie "kash" est restée de valeur globalement constante) :
+
+<{ treasures_value_summary }/>
+
+
 Eruditions diverses
 ----------------------
 

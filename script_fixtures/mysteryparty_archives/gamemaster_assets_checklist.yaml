@@ -50,7 +50,7 @@
   -
     - "Grande enceinte Vintage avec Jack3.5/Bluetooth"
     - "Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth"
-    - "Projecteur LED Blanche RX-7732 (4xAA incluses) @Vero"
+    - "Lampe-tempête Bronze (2xPileD incluses)"
 
 -
   - "Coin du fantôme de l’enfant (près de la jungle)"
@@ -71,8 +71,8 @@
 -
   - "Coin du fantôme du voleur"
   -
-    - "Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse"
-
+    - "Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (1h15 autonomie)"
+    - "Projecteur LED Blanche RX-7732 (4xAA incluses) @Vero"
 
 
 -
@@ -83,13 +83,14 @@
 
 
 -
-  - "Coffre commun des Maupertuis (protégé par une clef) {% hint 'family_common_chest_protected_by_code' is provided %}"
+  - "Coffre commun (bois marron) des Maupertuis (protégé par une clef) {% hint 'family_common_chest_protected_by_code' is provided %}"
   -
     - "Livret généalogique des Maupertuis avec leur symbole familial secret en ultraviolet {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
     - "Carnet de notes personnel du père Maupertuis, avec un des codes du coffret légendaire en anamorphose {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis' is provided %}"
+    - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse + ECOUTEURS dans mini-boite de carton noir qui murmure"
 
 -
-  - "Coffre légendaire des Maupertuis  (protégé par 2 codes)  {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
+  - "Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes)  {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
   -
     - "Grimoire maudit 'Thanatologue' {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %}"
 
@@ -107,7 +108,7 @@
     - "Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %}"
 
     - "Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth"
-    - "Digital MP3 Player Small avec SDCARD 512Mo incluse"
+    - "Digital MP3 Player Small avec SDCARD 512Mo incluse (1h30 d'autonomie)"
 
 -
   - "Galerie des portraits"
@@ -128,17 +129,17 @@
     - "Passoire cylindrique en métal"
     - "Meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE, avec dedans la potion de vapeurs de thorium{% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "Grand lot de petites bouteilles diverses et de condiments"
-    - "Fontaine à encens illuminée"
+    - "Fontaine à encens illuminée LED"
     - "Base de sapin écairante à LEDs @Pascal"
     - "Support cylindrique éclairant à LEDs (3xAAA) @Vero"
 
 -
-  - "Laboratoire de cristallographie"
+  - "Laboratoire de gemmologie"
   -
     - XXXXXXX
     - "Mini-globe terrestre"
     - "Boule plasma Pearl (USB ou 4xAAA)"
-
+    - "Guirlande multicolore SilverWireLights (3xAA) @Cat"
 
 -
   - "Indices cachés ou disséminés"
@@ -155,10 +156,22 @@
     - "J2 - Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
 -
-  - "Richesses à collecter"
+  - "Richesses tootales à collecter"
   -
-    - "500 kashes répartis entre les coffres et emplacements de l'étage autorisé"
-    - "500 kashes répartis entre les coffres, l'établi d'alchimie, la dépouille du voleur, et le corridor piégé de l'étage interdit"
+    - "6 pièces d'or (= 120 kashes)"
+    - "40 pièces normales (= 40 kashes)"
+    - "10 petits diamants ronds (= 50 kashes)"
+    - "10 diamants moyens rectangulaire (= 100 kashes)"
+    - "5 grands diamants ronds (= 100 kashes)"
+    - "Bracelet doré à gros diamant bleu (non magique) valant environ 100 kashes"
+    - "Pendentif Quart avec collier fin doré (non magique) valant environ 60 kashes"
+    - "Stylo doré avec gros diamant (non magique) valant environ 60 kashes"
+    - "SOIT environ 630 kashes en jeu!"
+
+    - "300 kashes répartis entre les coffres et emplacements de l'étage autorisé"
+    - "300 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors l'étage interdit"
+    - "30 kashes dans les poches des avatars"
+    - "Coffret crochetable avec des gemmes dedans"
 
 -
   - "Indices et objets à là disposition du maître de jeu"
@@ -191,6 +204,7 @@
     - "Nid de lianes et feuilles géantes"
     - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %}"
+    - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur"
 
 -
   - "Fantômes"
@@ -214,14 +228,17 @@
   - "Avatars"
   -
     - "Microphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi (pour l'inventeur)"
-    - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse puis joueur oracle)"
+    - "Bracelet large argenté de commandement des automates (pour l'inventeur, puis joueur amateur de robotique)"
+    - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, puis joueur oracle)"
+    - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
 
 -
   - "Joueurs"
   -
     - "Encensoir en argent plaqué avec chainettes (pour invoker)"
     - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse) (pour sounder)"
-
+    - "Lampe-tempête Argent (2xPileD incluses)"
+    -
 
 -
   - "Cadenas et leurs clefs"
@@ -251,26 +268,18 @@
     - "boite de maquillage spécial UV"
     - "Projecteur directionnel 220v @Poncet devant les escaliers"
 
-
-    - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse"
-
-    - "Guirlande multicolore SilverWireLights (3xAA) @Cat"
-
-    - "Lampe-tempête Argent (2xPileD incluses)"
-    - "Lampe-tempête Bronze (2xPileD incluses)"
-
     - "Jarre lumineuse NewYang (batterie solaire incluse)"
     - "4 néons LED Black Light (USB))"
 
-    - "6 Guirlandes lumineuses BXROIU 2m (chacune 2xCR2032 incluses)"
+    - "6 Guirlandes lumineuses LED BXROIU 2m (chacune 2xCR2032 incluses)"
 
-    - "10 galets phosphorescents bleus"
+    - "10 galets phosphorescents bleus (friandises de la goule)"
 
     - "Lampe mini-tube blanche autonome à détection de mouvement "
     - "2 cigales en céramique à détection de mouvement"
 
-    - "Batterie USB Duracell PB2 24.3Wh"
     - "Batterie plate blanche LifeDom 18Wh"
+    - "Batterie USB Duracell PB2 24.3Wh"
     - "2 batteries haute capacité MaxoakK2"
 
     - "6 papillons volants à élastique"
