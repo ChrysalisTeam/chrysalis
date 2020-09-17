@@ -95,7 +95,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
 # documents without decorations, typically ; one can provide a LIST of RST files as value
 ISOLATED_DOCS = {
     # GAMEMASTER DOCS
-    #"gamemaster_assets_checklist": "gamemaster_assets_checklist.rst",
+    "gamemaster_assets_checklist": "gamemaster_assets_checklist.rst",
     # NPCS
     "npc_avatar_druid_sheet": "npcs/avatar_druid_sheet.rst",
     "npc_avatar_inventor_sheet": "npcs/avatar_inventor_sheet.rst",

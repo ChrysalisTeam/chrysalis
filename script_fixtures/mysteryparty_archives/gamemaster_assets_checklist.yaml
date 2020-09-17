@@ -6,27 +6,80 @@
     - "P1 - Plan de l'étage autorisé, avec en signe UV les localisations de : le TOMBEAU {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %}"
     - "P2 - Plan du domaine interdit {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
 
-    - "F1 - Balise du fantôme de l’archiviste"
-    - "F2 - Balise du fantôme de l’enfant"
-    - "F3 - Balise du fantôme de l’arkonte"
-    - "F4 - Balise du fantôme du voleur"
+    - "F1 - Coin du fantôme de l’archiviste"
+    - "F2 - Coin du fantôme de l’enfant"
+    - "F3 - Coin du fantôme de l’arkonte"
+    - "F4 - Coin du fantôme du voleur"
 
     - "L1 - Buffet dinatoire des 3 mondes"
     - "L2 - Pentacle du rituel inachevé de l’arkonte"
     - "L3 - Barrières magiques devant les escaliers du domaine interdit (avec le grimoire d'énigme puzzle symbolique) {% hint 'symbolic_enigma_puzzle_app' is provided %}"
     - "L4 - Cimetière (tombes de l’enfant, de l’archiviste et de l’arkonte)"
     - "L5 - Coffre familial commun des Maupertuis"
-    - "L6 - Mini-jungle (assemblage de grandes plantes en pots), avec le crâne empoisonné de l'arkonte BIEN caché dedans {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}"
+    - "L6 - Mini-jungle de grandes plantes en pot"
     - "L7 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
+    - "L8 - Sonnette de table argentée d'appel aux spectres"
 
     - "P1 - Niche de la bête"
     - "P2 - Coffre légendaire des Maupertuis"
     - "P3 - Laboratoire d'alchimie"
     - "P4 - Cul-de-sac protégé par un piège, avec des richesses au bout {% fact 'trapped_corridor_keeps_jewels' %}"
     - "P5 - Cul-de-sac fermé par une porte en bronze de type 'ultra-lourd', renfermant les mini-coffrets de l'initiation d'Octave (dont l'un renfermant sa broche) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %}"
-    - "P6 - Corridor empoisonné, avec le {% symbol "Collier d\\'Invisibilité Spirituelle" for "spiritual_invisibility_necklace" %} et des potions (dont celle de Fungal Bleu) au bout {% hint 'spiritual_invisibility_wristband_in_toxic_corridor' is provided %} {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
+    - "P6 - Corridor empoisonné, avec le {% symbol 'Collier d\\'Invisibilité Spirituelle' for 'spiritual_invisibility_necklace' %} et des potions (dont celle de Fungal Bleu) au bout {% hint 'spiritual_invisibility_wristband_in_toxic_corridor' is provided %} {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
 
     - "E1, E2, E3, E4 - Quatre zones d'éboulements réparties sur les 2 étages parmi lesquelles"
+
+
+-
+  - "Buffet d'outre-monde"
+  -
+    - "Lampe à fibres Blue ice Lunartec (3xAAA)"
+    - "Ballon verre jaune Sil Interiors avec LEDs (2xAA incluses) au buffet @Cat"
+    - "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
+
+
+-
+  - "Pentacle du rituel inachevé de l’arkonte"
+  -
+    - "10 cylindres LEDs remote-controlled Kitosun"
+    - "Guirlande de Noël multicolore réglable @Pascal"
+
+
+-
+  - "Coin du fantôme de l’archiviste"
+  -
+    - "Grande enceinte Vintage avec Jack3.5/Bluetooth"
+    - "Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth"
+    - "Projecteur LED Blanche RX-7732 (4xAA incluses) @Vero"
+
+-
+  - "Coin du fantôme de l’enfant (près de la jungle)"
+  -
+    - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5"
+    - "Lecteur MP3 étanche bleu AGPTEK Go2 Small à batterie avec mémoire interne 8Go incluse"
+
+
+-
+  - "Coin du fantôme de l’arkonte"
+  -
+    - "Projecteur globe Aurore Boréale Lunartec (secteur/12V)"
+    - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse"
+
+
+
+
+-
+  - "Coin du fantôme du voleur"
+  -
+    - "Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse"
+
+
+
+-
+  - "Mini-jungle"
+  -
+    - "Crâne empoisonné de l'arkonte bien caché entyre les pots {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}"
+    - "1 Guirlande lumineuse avec lierre vert 2m (2xAA)"
 
 
 -
@@ -50,8 +103,11 @@
 
     - "Tombe 2 : CLEF DE QUOI - il avait un coffre au fond de la bibliothèque l'archiviste ???"
 
-    - "Tombe 3 : Squelette sans crâne de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %}"
+    - "Tombe 3 : Squelette 28 os sans crâne de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %}"
     - "Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %}"
+
+    - "Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth"
+    - "Digital MP3 Player Small avec SDCARD 512Mo incluse"
 
 -
   - "Galerie des portraits"
@@ -73,6 +129,16 @@
     - "Meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE, avec dedans la potion de vapeurs de thorium{% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "Grand lot de petites bouteilles diverses et de condiments"
     - "Fontaine à encens illuminée"
+    - "Base de sapin écairante à LEDs @Pascal"
+    - "Support cylindrique éclairant à LEDs (3xAAA) @Vero"
+
+-
+  - "Laboratoire de cristallographie"
+  -
+    - XXXXXXX
+    - "Mini-globe terrestre"
+    - "Boule plasma Pearl (USB ou 4xAAA)"
+
 
 -
   - "Indices cachés ou disséminés"
@@ -95,63 +161,28 @@
     - "500 kashes répartis entre les coffres, l'établi d'alchimie, la dépouille du voleur, et le corridor piégé de l'étage interdit"
 
 -
-  - "Indices à là disposition du maître de jeu"
+  - "Indices et objets à là disposition du maître de jeu"
   -
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_ring_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %}"
     - "Un des codes du coffret légendaire des Maupertuis, celui connu de la mère des Maupertuis, si elle est interrogée depuis l'au-delà {% hint 'isadora_code_for_thanatologue_chest_code' is provided %} XXXXXX"
     - "Broche de Meredice, trouvée par les joueurs si le bon éboulement est dynamité {% hint 'maupertuis_daughter_jewel_in_metal_box_under_fallen_rocks' is provided %}"
     - "Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app' is provided %}"
 
-- "Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
 -
-  - "1 pierre tombale verte"
-  - "2 grandes bougies"
-  - "Aube de pape dorée"
-  - "Crâne humain (@Médiathèque) et ossements divers"
-  - "Masque 'anonymous' doré sur le crâne"
-  - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %}"
-  - "{% symbol 'Bague Amplificans' for 'ring_for_magic_amplification_name' %}"
+  - "Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
+  -
+    - "1 pierre tombale verte"
+    - "2 grandes bougies"
+    - "Aube de pape dorée"
+    - "Crâne humain (@Médiathèque) et ossements divers"
+    - "Masque 'anonymous' doré sur le crâne"
+    - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %}"
+    - "{% symbol 'Bague Amplificans' for 'ring_for_magic_amplification_name' %}"
+
+    - "Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone)"
 
 
 
-
-
-
-- "Projecteur directionnel 220v @Poncet"
-- "Projecteur LED Blanche RX-7732 (4xAA incluses) @Vero"
-- "Support cylindrique éclairant à LEDs (3xAAA) @Vero"
-- "Ballon verre jaune Sil Interiors avec LEDs (2xAA incluses) @Cat"
-- "Guirlande multicolore SilverWireLights (3xAA)"
-- "Projecteur globe Aurore Boréale Lunartec (secteur/12V)"
-- "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 + Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse"
-- "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA)"
-- "Microphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi"
-- "Boule plasma Pearl (USB ou 4xAAA)"
-- "Lampe-tempête Argent (2xPileD incluses)"
-- "Lampe-tempête Bronze (2xPileD incluses)"
-- "Lampe à fibres Blue ice Lunartec (3xAAA)"
-- "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
-- "Jarre lumineuse NewYang (batterie solaire incluse)"
-- "4 bandes LED Black Light (USB))"
-- "Squelette 18 os avec crâne sonore (2xAA)"
-- "Squelette 28 os simple"
-- "6 Guirlandes lumineuses BXROIU 2m (chacune 2xCR2032 incluses)"
-- "1 Guirlande lumineuse avec lierre vert 2m (2xAA)"
-- "10 galets phosphorescents bleus"
-- "Guirlande de Noël et base de sapin à LED de Pascal"
--
-- "Lampe tube blanche autonome"
-- "2 cigales en céramique à détection de mouvement"
-- "Mini globe terrestre"
-
-- "Digital MP3 Player Small avec SDCARD 512Mo incluse"
-- "Lecteur MP3 AGPTEK Go2 Small à batterie avec mémoire interne 8Go incluse"
-- "Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse"
-- "Mini-enceinte cylindre étanche bluetooth EWA-A106Pro"
-- "Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth"
-
-- "Batterie USB Duracelle PB2 24.3Wh"
-- "Batterie LifeDom 18Wh"
 
 
 -
@@ -159,28 +190,37 @@
   -
     - "Nid de lianes et feuilles géantes"
     - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
-    - "Crâne et ossements maudits du voleur {% hint 'thief_cursed_skeleton' is provided %}"
+    - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %}"
 
-
-- "Fantômes"
 -
-  - "4 paires gants blancs à diodes (3 à lumière blanche et 1 bleue)"
-  - "ailes en tissu (look métallique)"
+  - "Fantômes"
+  -
+    - "4 paires gants blancs à diodes (3 à lumière blanche et 1 bleue)"
+    - "Ailes en tissu (look métallique)"
 
-- "6 papillons volants à élastique"
-- "Sonnette de table argentée"
-
-- "L'Ankou"
 -
-  - "Capuchon noir en feutre"
+  - "L'Ankou"
+  -
+    - "Capuchon noir en feutre"
 
-- "La Bête"
 -
-  - "Masque latex de goule"
-  - "Gants latex griffus"
-  - "Guètres latex griffues"
+  - "La Bête"
+  -
+    - "Masque latex de goule"
+    - "Gants latex griffus"
+    - "Guètres latex griffues"
 
-- "Stylo doré surmonté d'un diamant"
+-
+  - "Avatars"
+  -
+    - "Microphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi (pour l'inventeur)"
+    - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse puis joueur oracle)"
+
+-
+  - "Joueurs"
+  -
+    - "Encensoir en argent plaqué avec chainettes (pour invoker)"
+    - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse) (pour sounder)"
 
 
 -
@@ -197,16 +237,6 @@
 
 
 
-
-
-- "Joueurs"
--
-  - "Encensoir en argent plaqué avec chainettes (pour invoker)"
-  - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse) (pour sounder)"
-  -
-
-
-
 -
   - "Vérifications préalables"
   -
@@ -215,7 +245,34 @@
     - "La page web des cartes symboliques du grimoire chantant doit fonctionner"
     - "La page web des indices divers (identifiés par un code unique) doit fonctionner"
 
-
-- "logistique"
 -
-  - "boite de maquillage spécial UV"
+  - "logistique et décorations diverses"
+  -
+    - "boite de maquillage spécial UV"
+    - "Projecteur directionnel 220v @Poncet devant les escaliers"
+
+
+    - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse"
+
+    - "Guirlande multicolore SilverWireLights (3xAA) @Cat"
+
+    - "Lampe-tempête Argent (2xPileD incluses)"
+    - "Lampe-tempête Bronze (2xPileD incluses)"
+
+    - "Jarre lumineuse NewYang (batterie solaire incluse)"
+    - "4 néons LED Black Light (USB))"
+
+    - "6 Guirlandes lumineuses BXROIU 2m (chacune 2xCR2032 incluses)"
+
+    - "10 galets phosphorescents bleus"
+
+    - "Lampe mini-tube blanche autonome à détection de mouvement "
+    - "2 cigales en céramique à détection de mouvement"
+
+    - "Batterie USB Duracell PB2 24.3Wh"
+    - "Batterie plate blanche LifeDom 18Wh"
+    - "2 batteries haute capacité MaxoakK2"
+
+    - "6 papillons volants à élastique"
+
+    - "Stylo doré surmonté d'un diamant"
