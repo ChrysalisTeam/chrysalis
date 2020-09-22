@@ -56,4 +56,13 @@ Hélas, un trouble-fête est venu mettre vos plans en pièces . L'Arkonte Val, s
 Informations et instructions diverses
 ========================================
 
-Demande à heures fixes des boissons à l'automate de service.
+Demande à heures fixes des boissons à l'automate de service. TODO TODO
+
+Vous vous posez des questions sur la clochette métallique laissée en évidence, qui, lorsque vous l'essayez, sonne mais ne déclenche rien (car vous ne voyez pas les spectres s'agiter à ce moment) ; ce n'est pas, en tout cas, une trouvaille de l'inveteur et de ses automates.
+En discutant avec les joueurs, ils finiront bien par vous expliquer ce qui se passe lorsqu'elle est utilisée.
+Une fois que vous savez qu'il s'agit d'un signal de rappel pour els fantômes, **vous la volez discrètement**, et vous cachez dans votre besace. Ni avatars ni joueurs ne doivent savoir que c'est vosu qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% fact "druid_must_steal_table_bell_when_usage_understood" %} {% fact "druid_uses_table_bell_as_weapon" %}
+
+
+
+
+

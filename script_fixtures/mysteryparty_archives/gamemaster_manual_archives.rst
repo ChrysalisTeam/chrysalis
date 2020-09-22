@@ -106,7 +106,7 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 - Seules des attaques sacrées peuvent les atteindre, pas les attaques physiques ni magiques ; mais puisque présentement ils ne peuvent pas s'échapper à la bibliothèque, ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
 
-- Lorsqu’ils sont “désincarnés”, les morts errent au hasard comme des spectres, entièrement recouverts de linceuls. Parfois, ils entrent en “frénésie”, et deviennent plus agressifs.
+- Lorsqu’ils sont “désincarnés”, les morts errent au hasard comme des spectres, entièrement recouverts de linceuls. Parfois, pour diverses raisons, ils entrent en “{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}”, et deviennent plus vifs et agressifs.
 
 - Pendant les moments où ils s’incarnent, les morts reprennent une apparence humaine, toujours vêtus de linceuls mais à visage découvert, et potentiellement avec quelques accessoires représentant leur vie entière ; ils gardent une certaine lenteurs dans les gestes, et si possible un visage blafard.
 
@@ -317,6 +317,8 @@ Fédore Pass’muraille (le voleur)
 L’Ankou (le guide des âmes, le “psychopompe”)
 ---------------------------------------------
 
+{% macro god_ankou_character_summary() %}
+
 - DIVIN (anciennement fantôme humain, mais promu par les dieux)
 
 - Traits : exaspération, franc-parler, langage familier, bonne volonté
@@ -330,6 +332,9 @@ L’Ankou (le guide des âmes, le “psychopompe”)
 - “J’ai l’air de quoi moi, aux réunions inter-spirituelles !? A chaque fois je me fais charrier, genre ‘alors cette affaire Maupertuis, ça avance toujours pas ?’. J’ai une réputation à tenir moi ! Des fantômes qui squattent un caveau pendant des siècles, ça fait tache ! Sans parler de la bestiole là-haut ! C’est contre l’ordre des choses, donc que chacun y mette du sien pour comprendre ce qui cloche ! ”
 
 - Pendant la scène finale, en revanche, il se tait et laisse la solennité de l’évènement s’imposer ; mais il peut, tout à la fin, lancer un “Hé les gars on se dépêche maintenant, j'ai un groupe de touristes kéroskiens qui vient d’aller caresser des requins-sabres, donc j’ai pas fini ma journée !”
+
+{% endmacro %}
+<{ god_ankou_character_summary }/>
 
 La Bête (goule gardienne du Domaine Interdit)
 --------------------------------------------------
@@ -484,6 +489,15 @@ Chaque groupe arrive dans l’étage du bas de la bibliothèque par un accès di
 
 Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; l’archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans.
 
+
+La {% symbol "frénésie spectrale" for "phantom_frenzy_name" %} (temps inconnu)
+-------------------------------------------------------------------------------
+
+Si un joueur sonne la "{% symbol "Clochette Spectrale" for "table_bell_name" %}" laissée en évidence sur une table, les automates de service l'ignorent, mais le MJ doit déclencher une bande-son angoissante, et les fantômes (devenus spectres) doivent errer férnétiquement aux alentours de cette clochette pendant un instant. Il s'agit juste d'un artefact, d'un signal de rappel, oublié par l'Akou lors d'un précédent passage. {% fact "table_bell_belongs_to_ankou" %}
+
+Cete frénésie ne peut arriver qu'une fois toutes les {% symbol "30mn" for "table_bell_cooldown" %}, et le druide doit de toute façon discrètement voler cette clochette lorsqu'il a compris son usage en discutant avec les joueurs. {% fact "druid_must_steal_table_bell_when_usage_understood" %}
+
+
 L’ouverture du buffet (temps 0h30)
 ----------------------------------
 
@@ -502,6 +516,13 @@ Le druide trouve des grimoires de magie dans l’étage interdit (temps 2h30)
 ------------------------------------------------------------------------------------
 
 Il semble très réjoui, et s’isole pour les lire près du pentacle (il surveille ainsi que personne ne cherche à le renvoyer de force dans son propre univers romanesque).
+
+
+La bataille finale
+------------------------
+
+Voir la quête `Neutraliser le méchant`_ pour un aperçu des déroulements possibles de cet épisode final.
+
 
 L’épilogue musical
 ------------------
@@ -554,7 +575,7 @@ IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé
 
 - Mettre des énigmes physiques pour récupérer des objets, façon Fort Boyard (ou réutilisant les défis steampunk, contre un opposant fantomatique...) NOPE COVID
 
-- Une des actions réalisées déclenche la “frénésie” des fantômes désincarnés proches, ou juste les attire, forçant à la fuite temporairement.
+- Une des actions réalisées déclenche la “{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}” des fantômes désincarnés proches, ou juste les attire, forçant à la fuite temporairement.
 
 - Le détecteur de métaux permet AUSSI de détecter les runes magnétiques !! YEP
 
@@ -742,19 +763,16 @@ Dès lors, il doit être évident pour les joueurs que le coupable est le druide
 
 Le traître est insensible aux attaques physiques et magiques usuelles, mais il existe différentes façons de l'atteindre :
 
-- Soit confectionner et lui faire boire une **potion magique d’autocombustion**, qui va retourner sa puissance magique contre lui ; cette potion doit impérativement lui être apportée suffisamment tôt, et par l’automate, pour qu’il ne soit pas soupçonneux.
+- Soit confectionner et lui faire boire une **potion magique d’autocombustion**, qui va retourner sa puissance magique contre lui ; cette potion doit impérativement lui être apportée suffisamment tôt, et par l’automate, pour qu’il ne soit pas soupçonneux. TODO NOPE ABORTED
 
 - Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de trois joueurs pour créer “la balle qui ne pardonne pas”.
 
-- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer forcer la terminaison du rituel de renvoi du druide dans son propre monde. Un oracle évoque cette façon de faire, et met en garde contre une riposte du méchant à l'aide des fantômes ; en effet, en désespoir de cause, le druide utilise la {% symbol "Sonnette des Ames" for "phantom_bell_name" %} pour rameuter les spectres et ainsi atteindre le ritualiste. A charge pour les autres joueurs de repousser les spectres (avec l'{% symbol "armure de Mithril" for "arkon_armor_name" %} de l'arkonte, avec des exorcismes) sans se faire attaquer par le druide.
-
+- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer forcer la terminaison du rituel de renvoi du druide dans son propre monde. Un oracle évoque cette façon de faire, et met en garde contre une riposte du méchant à l'aide des fantômes ; en effet, en désespoir de cause, le druide utilise la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste. {% fact "druid_uses_table_bell_as_weapon" %} A charge pour les autres joueurs de repousser les spectres (avec l'{% symbol "armure de Mithril" for "arkon_armor_name" %} de l'arkonte, avec des exorcismes) sans se faire attaquer par le druide.
 
 
 **IDEE - un joueur doit devenir immortel à force de différents envoûtements.**
 
 {# NOPE - Soit reconstituer un pentacle de renvoi ailleurs, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).  #}
-
-
 
 
 Si les joueurs attaquent le traître sans avoir le moyen de le tuer, il en tue un (qui devient un fantôme), puis ordonne aux autres de lever la malédiction, sans quoi il tuera un joueur par X minutes. Le jeu tourne donc à la prise d’otages.

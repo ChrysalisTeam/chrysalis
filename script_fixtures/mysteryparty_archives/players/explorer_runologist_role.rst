@@ -11,7 +11,9 @@ Au fil de votre carrière avec vos comparses, d'une fouille à l'autre, d'un tem
 Mais la spécialité qui vous parle le plus, c'est l'étude des runes anciennes et autres messages cryptiques.
 
 
-Traducteur runique
+
+
+Traducteur runique ????????????
 ---------------------------
 
 Vous ne vous séparez jamais de votre traducteur portable de runes akarites, votre plus belle création.

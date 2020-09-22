@@ -64,6 +64,14 @@ Il devait bientôt passer son initiation appelée "adoubement", à l'étage inte
 - tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petit boite, parmis un lot, contenait sa broche personnelle
 - en cas de réussite, recevoir le symbole secret de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois
 
+
+La "{% symbol "Clochette Spectrale" for "table_bell_name" %}"
+--------------------------------------------------------------------
+
+Si l'on vous parle d'une **clochette de table** (petite, ronde et métallique), vous ne savez rien à son sujet ; vous savez juste qu'elle n'était pas visible dans la bibliothèque de votre vivant (même pour le voleur), donc quelqu'un a dû l'apporter ou la sortir d'une cachette.
+
+Si quelqu'un appuie sur la clochette, et que cela n'a pas déjà eu lieu dans les {% symbol "30mn" for "table_bell_cooldown" %} précédentes, alors le MJ doit déclencher la bande-son de la **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}** : vous vous mettez alors sous-forme spectrale, et vous vous ruez vers le son de clochette ; une fois près d'elle, vous errez de gauche et de droite, non loin, éperdus, jusqu'à la fin de la bande-son, puis vous revenez à ce que vous faisiez avant.
+
 {% endmacro %}
 
 

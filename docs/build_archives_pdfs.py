@@ -104,6 +104,7 @@ ISOLATED_DOCS = {
     "npc_phantom_arkon_sheet": "npcs/phantom_arkon_sheet.rst",
     "npc_phantom_octave_sheet": "npcs/phantom_octave_sheet.rst",
     "npc_phantom_thief_sheet": "npcs/phantom_thief_sheet.rst",
+    "npc_god_ankou_sheet": "npcs/god_ankou_sheet.rst",
 
     # FACTIONS
     "faction_diakon_sheet.rst": "factions/diakon_group_sheet.rst",

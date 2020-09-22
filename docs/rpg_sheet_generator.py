@@ -107,6 +107,7 @@ def render_with_jinja_and_fact_tags(content, jinja_env, jinja_context):
     Renders content and analyses/removes the {% fact %} markers from output.
     """
     assert isinstance(jinja_context, (dict, Context)), type(jinja_context)
+    assert isinstance(content, (str, bytes)), repr(content)
     #print("<<<RENDERING CONTENT>>>\n %s" % content[:1000].encode("ascii", "ignore"))
     template = jinja_env.from_string(content)
     output_tagged = template.render(jinja_context)
