@@ -11,6 +11,7 @@ Votre profil
 
 <{ phantom_thief_character_summary }/>
 
+TODO indiquer regles sur vision entre mondes
 
 Informations et instructions diverses
 ========================================

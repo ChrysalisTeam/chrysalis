@@ -16,7 +16,7 @@ Mais la plupart du temps, les fantômes errent comme des "spectres" sans but, co
 Il est largement établi que les fantômes peuvent passer à travers les murs et les objets ; cependant, n'étant pas entièrement dématérialisés, cela leur demande des efforts supplémentaires, aggravés lorsque les lieux ont été protégés par des envoûtements magiques ou des bénédictions sacrées. Dans les faits, les fantômes suivent donc souvent les mêmes parcours que les humains.
 
 
-De la dangerosité de ces revenants
+De la dangerosité des revenants
 --------------------------------------
 
 La littérature ésotérique ne cesse de mettre en garde contre la dangerosité des fantômes, même si ceux-ci ne sont que rarement malveillants.
@@ -41,6 +41,14 @@ Des rituels de libération
 De nombreux rituels sacrés permettent de chasser les fantômes, mais il est déconseillé de les utiliser sans avoir d'abord analysé la situation, car il est rare qu'un fantôme ainsi expulsé retrouve, par chance, la voie vers l'au-delà. Il en est de même des armes sacrées, qui ne sont que des formes primitives d'exorcisme, malgré leur grande utilité dans certaines situations délicates. Ne pas oublier qu'un fantôme ainsi malmené, une fois revenu, sera encore plus perturbé et désincarné qu'auparavant.
 
 De nombreux voyants du monde spirituel évoquent le rôle d'un "psychopompe", d'un guide des âmes, qui parcourerait la Terre pour ramener les fantômes vers les voies céleste. Cela expliquerait la soudaine disparition de défunts, en des lieux pourtant hantés sans relâches depuis des années. Mais cette figure énigmatique reste un sujet de vive controverse théologique.
+
+
+Des périls des restes corporels
+-----------------------------------
+
+Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun ; mais uniquement s'il touche directement le crâne du défunt - le reste des ossements n'est jamais maudit.
+
+Notons que ce sortilège peut perdurer jusque bien après le retour du fantôme au royaume des morts, exigeant ainsi l'intervention d'un désenvouteur en bonne et due forme. {% fact "cursed_skull_only_is_dangerous_not_bones" %}
 
 
 {#

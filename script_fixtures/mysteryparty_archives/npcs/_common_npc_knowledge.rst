@@ -1,7 +1,23 @@
 
 # TODO à remonter dans le manuel du gamemaster!
 
-{% macro common_npc_lore_knowledge() %}
+{% macro common_npc_rules_and_lore_knowledge() %}
+
+
+Instructions importantes
+================================
+
+**Attention, les mondes des fantômes et des avatars sont complètement séparés : ils ne peuvent ni se voir, ni se ressentir,
+ni s'entendre mutuellement.**
+
+*Il est important de simuler réalistement ces lacunes, dans toutes les interactions.*
+
+En revanche, les deux mondes peuvent voir et entendre les vivants (les joueurs), ainsi que les automates.
+
+Ce fonctionnement des 3 mondes est une surprise pour tous les figurants (hormsi à la rigueur pour l'Arkonte qui s'en doutait un peu), ils doivent donc être intrigués lorsque les joueurs "parlent à du vide", puis peu à peu comprendre le fonctionnement de tout cela, et réaliser (pour les fantômes) pourquoi les automates se mettaient à bouger tous seuls, pourquoi certains objets (issus du monde des vivants) se déplaçaient, etc.
+
+A l'occasion, les figurants peuvent communiquer d'un monde à l'autre par l'intercession des joueurs, pour se saluer, se transmettre des informations etc.
+
 
 Connaissances communes aux personnages de l'ère Maupertuis
 ============================================================
@@ -15,9 +31,9 @@ Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
 
 Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la {% symbol "guerre des trente sorciers" for "mages_war_name" %}.
 
-Redoutable magiciens, alchimiste, et duelliste, il a mis au pas tous ses adversaires. La legende raconte qu'il était simplement invulnérable aux sortilèges magiques.
+Redoutable magicien, alchimiste, et duelliste, il a mis au pas tous ses adversaires. La légende raconte qu'il était invulnérable aux sortilèges magiques.
 
-Pour éviter tout empoisonnement, il avait appris à générer lui-même de la nourriture à partir de simples roches.
+Pour éviter tout empoisonnement, il avait appris à générer lui-même de la nourriture à partir de simples roches, connaissance qui est restéee dans sa descendance sous la forme d'une table de banquet magique, située dans la bibliothèque. {% fact "buffet_table_magically_generates_food" %}
 
 Il a créé le chateau familial des Maupertuis, la bibliothèque enfouie, ainsi que le réseau de portails planétaires la reliant aux domaines de ses vassaux.
 

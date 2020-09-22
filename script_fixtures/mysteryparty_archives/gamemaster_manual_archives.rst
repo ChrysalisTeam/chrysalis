@@ -456,7 +456,7 @@ Un joueur est blessé dans les cas suivants :
 
 - S’il tombe dans un piège, par exemple un fil tendu dans une allée et relié à une clochette
 
-- S’il touche un objet manifestement maudit (ossements animés, coffre avec symbole de malédiction…)
+- S’il touche un objet manifestement maudit : coffre avec symbole de malédiction, crâne sonore (les autres ossements sont sans danger) {% fact "cursed_skull_only_is_dangerous_not_bones" %}
 
 - S’il pose le pied sur le pentacle du rituel inachevé ????
 
@@ -503,7 +503,7 @@ L’ouverture du buffet (temps 0h30)
 
 Une musique entraînante se déclenche (ex. https://www.youtube.com/watch?v=UPr4Ql0fNAc), et l’inventeur fait irruption près du banquet, appelant à grands cris ses amis du monde imaginaire à le rejoindre pour porter un toast à Octave, et espérer ensemble la levée de la malédiction.
 
-Les autres héros arrivent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, au cours duquel les mets du banquet sont dévoilés.
+Les autres héros arrivent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, au cours duquel les mets du banquet sont dévoilés ; ces mets sont automatiquement produits par la table enchantée. {% fact "buffet_table_magically_generates_food" %}
 
 Une fois la musique finie, joueurs et héros font connaissance autour du buffet. Il est affirmé que, à dessein, les mets sont aussi accessibles aux fantômes (incarnés ou non).
 
@@ -511,6 +511,7 @@ Le passage de l’Ankou (temps 1h)
 --------------------------------
 
 L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils n’ont rien à faire ici, qu’il n’est pas “la Bête”, qu’il ne leur veut pas de mal, puis finalement qu’il compte sur eux pour l'aider à résoudre le problème de ces âmes prisonnières des lieux. Il leur explique comment l’invoquer depuis l’au-delà si besoin est, puis repart.
+
 
 Le druide trouve des grimoires de magie dans l’étage interdit (temps 2h30)
 ------------------------------------------------------------------------------------
@@ -889,7 +890,7 @@ Avatars
 
 
 
-<{ common_npc_lore_knowledge }/>
+<{ common_npc_rules_and_lore_knowledge }/>
 
 
 <{ phantom_knowledge_article }/>

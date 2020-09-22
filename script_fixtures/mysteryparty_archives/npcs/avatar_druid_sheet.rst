@@ -50,7 +50,7 @@ Vous aviez pris soin de mettre en premier, sur la ville, le livre de vos congén
 Hélas, un trouble-fête est venu mettre vos plans en pièces . L'Arkonte Val, s'entend la présence d'entités étrangères à son monde, s'immisça dans la bibliothèque, et a mis les survivants de Maupertuis en demeure de cesser ses activités. Vous avez joué la collaboration, afin de ne pas éventer vos plans. Malgré les récriminations des autres personnages légendaires, Octave a fini par accepter les propositions les indemnisations de leur compte, et chaque personnage d'autre monde retournait dans son, comme attendant le rituel sacré qui refermerait les portes et portails internes monde.
 #}
 
-<{ common_npc_lore_knowledge }/>
+<{ common_npc_rules_and_lore_knowledge }/>
 
 
 Informations et instructions diverses

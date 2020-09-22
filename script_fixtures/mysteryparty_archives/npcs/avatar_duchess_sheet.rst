@@ -21,7 +21,7 @@ plaisant avenir à vos enfants et à votre duché.
 <{ common_npc_tragedy_knowledge is_avatar=True }/>
 
 
-<{ common_npc_lore_knowledge }/>
+<{ common_npc_rules_and_lore_knowledge }/>
 
 
 

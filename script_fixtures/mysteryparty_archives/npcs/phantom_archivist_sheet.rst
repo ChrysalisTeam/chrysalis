@@ -21,7 +21,7 @@ Alors que vous prépariez vos affaires, satisfait de voir cet étrange confineme
 <{ maupertuis_phantoms_awakening }/>
 
 
-<{ common_npc_lore_knowledge }/>
+<{ common_npc_rules_and_lore_knowledge }/>
 
 
 Informations et instructions diverses

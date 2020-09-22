@@ -42,7 +42,7 @@ Vous avez parlementé avec le garçon avec Octave et l'archiviste qui s'était r
 
 #}
 
-<{ common_npc_lore_knowledge }/>
+<{ common_npc_rules_and_lore_knowledge }/>
 
 
 
