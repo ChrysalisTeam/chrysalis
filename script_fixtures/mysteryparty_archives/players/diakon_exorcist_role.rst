@@ -61,7 +61,7 @@ Vous êtes capable de couper une passerelle existant entre des mondes disjoints,
 
 Rituel :
 
-- utiliser un pentacle simple (étoile à 5 branches dans un cercle) sur le sol
+- utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} sur le sol
 - placer au centre de ce pentacle un objet lié à la mise en place du corridor (objet maudit, livre d'avatar...)
 - clamer "portail vers d'autres mondes, scelle ton seuil" {# (ou bien la version latine : "Porta ad alios mundos, sigillum tuum limen") #}
 

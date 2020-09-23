@@ -24,7 +24,7 @@
     - "P3 - Laboratoire d'alchimie"
     - "P4 - Cul-de-sac protégé par un piège, avec des richesses au bout {% fact 'trapped_corridor_keeps_jewels' %}"
     - "P5 - Cul-de-sac fermé par une porte en bronze de type 'ultra-lourd', renfermant les mini-coffrets de l'initiation d'Octave (dont l'un renfermant sa broche) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %}"
-    - "P6 - Corridor empoisonné, avec le {% symbol 'Collier d\\'Invisibilité Spirituelle' for 'spiritual_invisibility_necklace' %} et des potions (dont celle de Fungal Bleu) au bout {% hint 'spiritual_invisibility_wristband_in_toxic_corridor' is provided %} {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
+    - "P6 - Corridor empoisonné (avec GRILLON DETECTEUR), avec le {% symbol 'Collier d\\'Invisibilité Spirituelle' for 'spiritual_invisibility_necklace' %} et des potions (dont celle de Fungal Bleu) au bout {% hint 'spiritual_invisibility_wristband_in_toxic_corridor' is provided %} {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
 
     - "E1, E2, E3, E4 - Quatre zones d'éboulements réparties sur les 2 étages parmi lesquelles"
 

@@ -107,10 +107,10 @@ ISOLATED_DOCS = {
     "npc_god_ankou_sheet": "npcs/god_ankou_sheet.rst",
 
     # FACTIONS
-    "faction_diakon_sheet.rst": "factions/diakon_group_sheet.rst",
-    "faction_explorer_sheet.rst": "factions/explorer_group_sheet.rst",
-    "faction_parcival_sheet.rst": "factions/parcival_group_sheet.rst",
-    "faction_spy_sheet.rst": "factions/spy_group_sheet.rst",
+    "faction_diakon_sheet": "factions/diakon_group_sheet.rst",
+    "faction_explorer_sheet": "factions/explorer_group_sheet.rst",
+    "faction_parcival_sheet": "factions/parcival_group_sheet.rst",
+    "faction_spy_sheet": "factions/spy_group_sheet.rst",
     # INFORMATION
     # useless "documents/knowledge_about_phantoms.rst": "miscellaneous/knowledge_about_phantoms.rst",
 
