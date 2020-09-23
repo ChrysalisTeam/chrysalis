@@ -30,7 +30,9 @@ La maitrise de tels pentacles est sans doute l'art le plus complexe de votre dis
 
 Vous savez en revanche réactiver un pentacle existant, en l'encensant puis en clamant l'invocation **"O pentacle magique, réveille-toi et écoute ma voix"**. Le pentacle devrait s'illuminer peu après, signe qu'il est désormais actif. N'importe quelle personne formée aux arts invocatoires peut alors l'utiliser.
 
-Notez cependant que seule la personne ayant dessiné un pentacle peut facilement le révoquer ; pour des personnes externes, il s'agit d'une opération de désenvoutement longue et ardue, aux effets imprévisiblement dangereux.
+Actif ou non, un pentacle n'est pas en soi dangereux, initiés comme non-initiés peuvent marcher dessus sans crainte. Il ne faut en revanche jamais le faire durant un rituel, sous peine d'être impliqué à son insu dans ce dernier. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+
+Notez que seule la personne ayant dessiné un pentacle peut facilement le révoquer ; pour des personnes externes, il s'agit d'une opération de désenvoutement longue et ardue, aux effets imprévisiblement dangereux.
 
 
 Stase spirituelle

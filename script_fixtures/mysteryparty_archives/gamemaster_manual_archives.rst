@@ -46,7 +46,7 @@ Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’O
 L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.
 L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de jamais sortir de la bibliothèque.
 
-Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) Valerias, de religion yodique (et plus particulièrement de confession mithraïte)**, qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
+Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) Valerias**, de religion yodique (et plus particulièrement de confession mithraïte), qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
 
 Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanité, et de laisser l’arkonte renvoyer définitivement les avatars hors de la Terre ; en retour, l’arkonte amènerait avec lui {% symbol "Octave" for "maupertuis_son" %} et l'archiviste, en sécurité, dans un autre pays. Après des adieux déchirants, les personnages imaginaires sont chacun retournés dans leur univers en attendant que le rituel verrouille à nouveau les accès au monde réel.
 
@@ -151,7 +151,7 @@ Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exempl
 
 Les maîtres de jeu, photographes, et servants du buffet, ont intérêt à faire partie de ce monde là pour un surcroit d'ambiance et une bonne liberté d'action.
 
-le monde divin
+Le monde divin
 -------------------
 
 Les entités faisant partie du “\ **divin**\ ” - actuellement uniquement le figurant l’Ankou - peuvent voir tout le monde, et sont par défaut sans danger pour les différents personnages.
@@ -169,14 +169,14 @@ Tout débute lorsque des explorateurs héliossars (ceux présents dans le jeu), 
 Les explorateurs héliossars
 ---------------------------
 
-Ces 3 aventuriers-archéologues tentent de préserver leur pays, Héliossar, contre les nouvelles envies de conquête de leur puissant voisin, la Théocratie akarite. Ils ont appris que les akarites avaient mis la main sur une copie du légendaire Thanatologue, le Livre des Morts d’une civilisation disparue, et en avaient tiré un plan pour une invasion “inéluctable” d’Héliossar. Ils recherchent donc l'exemplaire que les Maupertuis, d’après la légende, possédaient, afin de comprendre et surtout parer ce plan de conquête.
+Ces 3 aventuriers-archéologues tentent de préserver leur pays, Héliossar, contre les nouvelles envies de conquête de leur puissant voisin, la Théocratie akarite. Ils ont appris que les akarites avaient mis la main sur une copie du légendaire {% symbol "Thanatologue" for "book_of_the_dead" %}, le Livre des Morts d’une civilisation disparue, et en avaient tiré un plan pour une invasion “inéluctable” d’Héliossar. Ils recherchent donc l'exemplaire que les Maupertuis, d’après la légende, possédaient, afin de comprendre et surtout parer ce plan de conquête.
 
 Leurs compétences sont orientées vers les sciences physiques et humaines.
 
 {% macro explorer_group_symbols() %}
 Le vêtement de reconnaissance des explorateurs héliossars est une **ceinture beige** *(fournie par les organisateurs)*.
 
-Leur devise est **"le savoir est pouvoir"**, en pointant l'index vers le ciel.
+Leur devise est **"Le savoir est pouvoir"**, en pointant l'index vers le ciel.
 {% endmacro %}
 <{ explorer_group_symbols }/>
 
@@ -196,7 +196,7 @@ Le blason de la famille Parcival est un **batôn noueux autour duquel un serpent
 
 Son vêtement de reconnaissance est un **jabot bleu-royal** *(fourni par les organisateurs)*.
 
-Sa devise est **"Nobles de coeur comme de sang."**, le poing fermé sur le coeur.
+Sa devise est **"Noble de coeur comme de sang."**, le poing fermé sur le coeur.
 {% endmacro %}
 <{ parcival_group_symbols }/>
 
@@ -214,7 +214,7 @@ Le vêtement de reconnaissance des diacres de Bahamoot est une **étole violette
 
 Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes en prière, aplaties l'une contre l'autre devant eux. Lors de leurs déplacements en procession, ils ânonnent un **son "Ohm"** lent et guttural *(à répéter ensemble en début de jeu)*.
 
-Leur devise est **"le dragon est notre guide"**, à professer les mains jointes en prière là encore.
+Leur devise est **"Le dragon est notre guide"**, à professer les mains jointes en prière là encore.
 
 {% endmacro %}
 <{ diakon_group_symbols }/>
@@ -265,8 +265,8 @@ Octave de Maupertuis (l’enfant)
 **S'il arrive au coin enfant (avec jouet et peluche) il donne davantage d’informations ?**
 #}
 
-{% symbol "Maître Parchemine" for "archivist_name" %} (précepteur d'Octave et archiviste )
-------------------------------------------------------------------------
+{% symbol "Maître Parchemine" for "archivist_name" %} (le précepteur d'Octave et archiviste )
+--------------------------------------------------------------------------------
 
 {% macro phantom_archivist_character_summary() %}
 
@@ -291,7 +291,7 @@ Octave de Maupertuis (l’enfant)
 **Peut retrouver la fiche des emprunts du garçon : cette fiche liste les livres des PNJ notamment les tomes dont est issu le méchant.**
 #}
 
-L’arkonte Valérias (paladin-exorciste devenu légendaire)
+L’arkonte Valérias (le paladin-exorciste légendaire)
 --------------------------------------------------------
 
 {% macro phantom_arkon_character_summary() %}
@@ -350,7 +350,7 @@ L’Ankou (le guide des âmes, le “psychopompe”)
 {% endmacro %}
 <{ god_ankou_character_summary }/>
 
-La Bête (goule gardienne du Domaine Interdit)
+La Bête (la goule gardienne du Domaine Interdit)
 --------------------------------------------------
 
 {% macro phantom_beast_character_summary() %}
@@ -391,7 +391,9 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 - Il est très habile, a des pouvoirs magiques, résiste à la magie et aux poisons (ainsi qu’au sacré bien sûr), et régénère très vite son corps en cas de blessure.
 
-- **S’y connait en NECROMANCIE ?????**
+- Il peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "avatar_druid_can_dangerously_heal_limited_injuries" %} (mais c'est dangereux)
+
+{# NOPE - **S’y connait en NECROMANCIE ?????** #}
 
 {% endmacro %}
 <{ avatar_druid_character_summary }/>
@@ -407,9 +409,9 @@ L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 
 - A conçu les automates de la bibliothèque
 
-- **Une trousse à outils doit trainer quelque part pour attester de ses travaux ?**
+- **TODO Une trousse à outils doit trainer quelque part pour attester de ses travaux ?**
 
-- **LE RESTE EST A DETERMINER**
+- Il peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "avatar_inventor_can_dangerously_heal_missing_limbs" %} (mais c'est dangereux)
 
 {% endmacro %}
 <{ avatar_inventor_character_summary }/>
@@ -421,9 +423,11 @@ La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %}
 
 - HEROINE DE ROMAN (titre "Les cygnes d'étang", en 1 seul Tome)
 
-- Traits : distinguée, sensible, protectrice, entreprenante
+- Traits : distinguée, sensible, pieuse, protectrice, entreprenante
 
 - Est capable d'entrer en synergie avec d'autres "voyants"
+
+- Elle peut invoquer ses propres dieux, avec l'aide des diacres, pour guérir une blessure sacrée {% fact "avatar_duchess_can_dangerously_heal_sacred_injuries" %}  (mais c'est dangereux)
 
 {% endmacro %}
 <{ avatar_duchess_character_summary }/>
@@ -443,7 +447,7 @@ Etage du bas (bibliothèque normale)
 
 - La mini-jungle que le druide et l’enfant avaient créée
 
-- Le buffet dinatoire des 4 mondes (mis en place automatiquement par les avatars et les automates)
+- Le buffet dinatoire magique des 4 mondes
 
 - Le pentacle du rituel inachevé de l’arkonte.
 
@@ -458,40 +462,66 @@ Etage du haut (domaine interdit)
 
 - Le coin du voleur
 
-- **La niche de la bête ????**
+- La niche de la bête
 
-- Le saint-des-saints (contenant le Livre des Ombres akarite)
+- Le coffre avec le {% symbol "Thanatologue" for "book_of_the_dead" %}
 
 - L’atelier d’alchimie
 
-- Différents pièges et objets répartis entre les rayonnages
+- L’atelier de gemmologie
 
-- **AUTRE LIEU ????**
+- Différents pièges et artefacts répartis entre les rayonnages
 
-Dangers
-=======
+Dangers et blessures
+==========================
 
-Un joueur est blessé dans les cas suivants :
+Les différents types de blessures
+-------------------------------------------------
 
-- S’il se fait toucher par un fantôme (incarné ou non), ou par l’Ankou
+{% macro injury_types_knowledge() %}
 
-- S’il tombe dans un piège, par exemple un fil tendu dans une allée et relié à une clochette
+Les agressions qu'un aventurier malchanceux est susceptible de subir se classent en trois catégories : attaques physiques, magiques et sacrées.
 
-- S’il touche un objet manifestement maudit : coffre avec symbole de malédiction, crâne sonore (les autres ossements sont sans danger) {% fact "cursed_skull_only_is_dangerous_not_bones" %}
+Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, de foudre, de choc...), doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : biologique. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.
 
-- S’il pose le pied sur le pentacle du rituel inachevé ????
+En revanche, les attaques sacrées, telles les malédictions de certains sorciers nécromants, ou les contacts avec des fantômes, causent des blessures de nature spirituelle. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction.
 
-- S’il tente de passer de force dans le Domaine Interdit sans lever la protection d’abord
+La distinction entre ces différents types de blessure n'est pas toujours évidente ; par exemple, la paralysie d'un membre peut être due à des lésions internes tout comme à l'attaque d'un spectre. D'où la nécessité d'investiguer les circonstances ayant mené aux troubles constatés, afin de fournir un remède approprié.
 
-Un joueur attaqué par la Bête et sans protections meurt inévitablement.
+Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "sacrées" fragilisent les fondements de l'âme. Subir d'affilée deux blessures de même nature mène donc à une mort presque certaine. {% fact "second_sacred_injury_is_always_fatal" %}
 
-A la discrétion du MJ, le malus reçu par le joueur peut être de devenir muet, ou d’avoir les mains liées dans le dos, ou de ne plus pouvoir utiliser ses compétences, pendant une durée de 10 à 15 minutes.
+{% endmacro %}
+<{ injury_types_knowledge }/>
 
-Chaque joueur ne peut se prendre qu’un malus au maximum pendant la partie ; en cas de récidive, il meurt dans tous les cas.
+Concrètement : les cas possibles durant le jeu
+-------------------------------------------------
 
-Si un joueur meurt, il devient un fantôme, et ne peut plus manipuler d’objets (pas même sa tablette tactile de compétences), mais il garde ses connaissances acquises ; il ne peut se déplacer que dans une zone de 3m autour de la lanterne de son groupe ; il reste cependant constamment incarné, contrairement aux anciens fantômes.
+Un joueur peut être blessé dans les cas suivants :
 
-Avec le bon rituel, il est possible de ressusciter un joueur à l’état de zombie pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de zombie “à l’ancienne” (ex. Il peut marcher en titubant mais ne peut pas courir).
+- S’il se fait toucher par un fantôme (incarné ou non) : blessure sacrée (si la Bête s'acharne sur un joueur non protégé, elle finit par le tuer)
+
+- S’il touche un objet manifestement maudit, comme un crâne sonore (les autres ossements sont sans danger) {% fact "cursed_skull_only_gives_sacred_injuries_not_bones" %} : blessure sacrée ; un pentacle, lui, n'est pas dangereux hormis durant un rituel {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+
+- S’il déclenche un piège, c'est à dire fait tomber un grelot par terre (ex. fil tendu dans une allée) ou déclenche le cri d'un grillon détecteur de mouvement : blessure biologique
+
+- S'il boit une potion dangereuse, ou reçoit un sortilège ennemi etc. : cela dépend du cas spécifique
+
+**Les blessures se traduisent par un malus à la discrétion du MJ, suivant la situation : perdre l'usage d'un membre, devenir muet, perdre la mémoire, devenir essoufflé et ne plus pouvoir courir (en cas d'empoisonnement), ou de ne plus pouvoir utiliser certaines compétences...**
+
+**IMPORTANT : une deuxième blessure de même nature, subie durant le jeu, a 5 chances sur 6 de tuer le joueur.** {% fact "second_sacred_injury_is_always_fatal" %}
+
+Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux potions magiques et aux rituels des diacres, mais ces possibilités restent très limitées.
+
+Toutes les blessures peuvent aussi être guéries par des avatars, mais ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur) :
+
+- la **duchesse** peut invoquer ses propres dieux, avec l'aide des diacres, pour réparer une blessure sacrée {% fact "avatar_duchess_can_dangerously_heal_sacred_injuries" %}
+- le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "avatar_druid_can_dangerously_heal_limited_injuries" %}
+- l'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "avatar_inventor_can_dangerously_heal_missing_limbs" %}
+
+**Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes blocages que les autres fantômes (malédiction de la bibliothèque, {% symbol "barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet aux corridors piégés et autres lieux dangereux pour les vivants.
+
+Avec le bon rituel, il est possible de **ressusciter un joueur** à l’état de zombie pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de zombie “à l’ancienne” (ex. il parle bizarrement, peut marcher en titubant mais ne peut pas courir...).
+
 
 Événements rythmant le jeu
 ==========================
@@ -693,8 +723,8 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 - Une fois tous les ingrédients rassemblés (pas besoin de préparer effectivement les potions), la famille a réussi cette mission, à condition qu’elle puisse quitter les lieux.
 
 
-Le Thanatologue (explorateurs héliossars)
------------------------------------------
+Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)
+------------------------------------------------
 
 Un des rares exemplaires de ce mythique et controversé ouvrage a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste indique aux explorateurs-archéologues après avoir vérifié leur bonne volonté. {% hint "family_legendary_chest_protected_by_double_key" is needed %}
 
@@ -707,7 +737,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
   Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. {% fact "thief_knows_about_isadora_thanatologue_chest_code" %}
 
 
-- Le Thanatologue se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une contre-mesure, dans le thanatologue, en appelant à viser en priorité les désenvouteurs du camp adverse. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
+- Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une contre-mesure, dans le {% symbol "Thanatologue" for "book_of_the_dead" %}, en appelant à viser en priorité les désenvouteurs du camp adverse. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
 
 - L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
@@ -822,7 +852,7 @@ Pour rappel, dans l’issue normale du jeu, la malédiction est automatiquement 
 Préserver les grimoires légendaires **(bonus des diacres ?????)**
 -----------------------------------------------------------------
 
-La plupart des ouvrages de la bibliothèque sont des copies de livres courants, ou retrouvés depuis dan s d’autres lieux mystiques. Mais le Thanatologue, ainsi que deux ouvrages (Necronomicon? Codex Vampiris ?) ne doivent pas tomber dans les mains des impies qui vont probablement finir par trouver, à leur tour, cette bibliothèque.
+La plupart des ouvrages de la bibliothèque sont des copies de livres courants, ou retrouvés depuis dan s d’autres lieux mystiques. Mais le {% symbol "Thanatologue" for "book_of_the_dead" %}, ainsi que deux ouvrages (Necronomicon? Codex Vampiris ?) ne doivent pas tomber dans les mains des impies qui vont probablement finir par trouver, à leur tour, cette bibliothèque.
 
 Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétisme sur une carte de la bibliothèque ??????**, ou en soudoyant le voleur.
 
@@ -831,7 +861,7 @@ Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétis
 Les trois colliers éthériques
 ------------------------------------------------------
 
-Les légendes parlent de plusieurs colliers magiques forgés durant la {% symbol "guerre des trente sorciers" for "mages_war_name" %}, et disparus peu après.
+Les légendes parlent de plusieurs colliers magiques forgés durant la {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}, et disparus peu après.
 Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux.
 
 {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %} (formé de pierres ovales translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques, , (contondantes, perçantes ou tranchantes). En contrepartie, il se déplace très maladroitement (comme un golem).
@@ -916,14 +946,14 @@ Avatars
 Connaissances communes aux personnages de l'ère Maupertuis
 ============================================================
 
-*Ce que savent tous les avatars et les fantômes, sauf le voleur ; celui-ci connait un peu les anciennes légendes et le contexte du saccage du manoir, mais c'est tout.*
+*Ce que savent tous les avatars et les fantômes, sauf le voleur ; celui-ci connait un peu les vieilles légendes et le contexte du saccage du manoir, mais c'est tout.*
 
 
 Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
 -------------------------------------------------------------------------------
 
 
-Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la {% symbol "guerre des trente sorciers" for "mages_war_name" %}.
+Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}.
 
 Redoutable magicien, alchimiste, et duelliste, il a mis au pas tous ses adversaires. La légende raconte qu'il était invulnérable aux sortilèges magiques.
 
@@ -938,8 +968,8 @@ Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèqu
 Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul ne viole jamais la sépulture de ce vénérable aieul, ni aucun des dangereux mystères qu'il a emportés dans la tombe.
 
 
-Le déclin magique
--------------------------
+Le déclin magique et l'aura guérisseuse
+-------------------------------------------
 
 Dans les décennies suivantes, le "contraste magique", c'est à dire la puissance phénoménale de quelques individus par rapport au reste de la population, s'est largement attténué. Bridés par le gout du secret et les limitations d'une pratique artisanale, les arts magiques et ésotériques ont presque partout été dépassés par les technologies guerrières ; ils ont surtout subsisté dans leur coloration religieuse, en lien avec le monde des morts.
 
@@ -975,7 +1005,7 @@ Il devait bientôt passer son initiation appelée "adoubement", à l'étage inte
 - en cas de réussite, recevoir le symbole secret de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois
 
 
-La "{% symbol "Clochette Spectrale" for "table_bell_name" %}"
+La {% symbol "Clochette Spectrale" for "table_bell_name" %}
 --------------------------------------------------------------------
 
 Si l'on vous parle d'une **clochette de table** (petite, ronde et métallique), vous ne savez rien à son sujet ; vous savez juste qu'elle n'était pas visible dans la bibliothèque de votre vivant (même pour le voleur), donc quelqu'un a dû l'apporter ou la sortir d'une cachette.
@@ -1034,9 +1064,9 @@ De nombreux voyants du monde spirituel évoquent le rôle d'un "psychopompe", d'
 Des périls des restes corporels
 -----------------------------------
 
-Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun ; mais uniquement s'il touche directement le crâne du défunt - le reste des ossements n'est jamais maudit.
+Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun, car elle inflige des blessures sacrées ; mais uniquement s'il touche directement le crâne du défunt - le reste des ossements n'est jamais maudit. {% fact "cursed_skull_only_gives_sacred_injuries_not_bones" %}
 
-Notons que ce sortilège peut perdurer jusque bien après le retour du fantôme au royaume des morts, exigeant ainsi l'intervention d'un désenvouteur en bonne et due forme. {% fact "cursed_skull_only_is_dangerous_not_bones" %}
+Notons que ce sortilège peut perdurer jusque bien après le retour du fantôme au royaume des morts, exigeant ainsi l'intervention d'un désenvouteur en bonne et due forme.
 
 
 {#

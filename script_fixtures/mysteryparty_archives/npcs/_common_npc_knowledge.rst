@@ -5,12 +5,10 @@
 Fonctionnement des différents mondes
 =============================================
 
-Instructions fondamentales
+Principes fondamentaux
 ---------------------------------
 
-**En résumé, les mondes des fantômes et des avatars sont complètement séparés : ils ne peuvent ni se voir, ni se ressentir,
-ni s'entendre mutuellement, et il est important de simuler réalistement ces lacunes, dans toutes les interactions.
-En revanche, ces deux mondes peuvent voir et entendre les vivants (les joueurs), ainsi que les automates (serviteurs).
+**En résumé, les mondes des fantômes et des avatars sont complètement séparés : ils ne peuvent ni se voir, ni se ressentir, ni s'entendre mutuellement, et il est important de simuler réalistement ces lacunes, dans toutes les interactions. En revanche, ces deux mondes peuvent voir et entendre les vivants (les joueurs), ainsi que les automates (serviteurs).**
 
 Ce fonctionnement des différents mondes est une surprise pour tous les figurants (hormis à la rigueur pour l'Arkonte qui s'en doutait un peu) ; ils doivent donc être intrigués lorsque les joueurs "parlent à du vide", puis peu à peu comprendre le fonctionnement de tout cela, et réaliser (pour les fantômes) pourquoi les automates se mettent parfois à bouger tous seuls, pourquoi certains objets issus du monde des vivants se déplacent en apesanteur, etc.
 

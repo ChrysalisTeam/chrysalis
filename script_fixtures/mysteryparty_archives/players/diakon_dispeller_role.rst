@@ -11,6 +11,7 @@ Au long de votre périple initiatique avec vos condisciples, d'un temple à l'au
 <{ diakon_sheet_intro }/>
 
 Mais votre vocation s'est rapidement imposée à vous : désenvouteur, c'est-à-dire celui qui reconnaît les éléments sacrés ou ensorcelés, et supprime les envoûtements malfaisants (pentacles sur le sol, objets piégés…).
+{# NOPE not yet - Un chemin qui vous a amené aussi à la guérison de certaines blessures spirituelles, tant elles sont proches dans leurs symptomes de certaines envoutements. #}
 
 
 Le reconnaissance des envoûtements
@@ -38,7 +39,7 @@ Vous devez bien sûr jouer théâtralement votre imposition des mains, et ne pas
 La suppression des envoûtements
 ----------------------------------------
 
-**Signalez au maitre de jeu les désenvoûtements que vous souhaitez mener à bien, il doit y assister.**
+**Signalez au maitre de jeu les désenvoûtements que vous souhaitez mener à bien.**
 
 Si l'envoûtement reconnu est de niveau "simple", il suffit de solliciter l'aide de n'importe quel "initié" (probablement un confrère diacre) pour le dissiper.
 Il faut que vous imposiez tous les deux les mains au dessus de l'objet, et que vous **seul** prononciez, et bien fort, l'incantation : **"Par le souffle sacré de Bahamoot, ô matière inerte, nous rompons les liens qui te lient aux strates ensorcelées".**
@@ -48,6 +49,7 @@ Si l'envoûtement est de niveau "complexe", alors il faut être au moins **trois
 
 Il faut alors dans l'ordre :
 
+TODO REECRIRE AVEC AUTRE ROLE POUR ENCENSOIR
 - mettre à brûler un morceau d'encens dans l'encensoir
 - passer tous les trois, en file indienne, trois fois devant l'objet (ou en tournant autour si possible) en balançant l'encensoir, et en chantant un "ôôôôm" grave
 - puis vous placer en demi-cercle (ou cercle si possible) autour de l'objet
@@ -58,6 +60,7 @@ En cas de réussite, le maître de jeu retire la pastille de l'objet.
 Si l'envoûtement est de niveau "légendaire", alors il est **impossible** de le supprimer, sauf en trouvant une contre-mesure spécifique à ce sortilège.
 
 
-
+La guérison des blessures spirituelles
+----------------------------------------
 
 PENTACLEs - dire sait pas faier TODO

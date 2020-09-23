@@ -91,7 +91,7 @@
 -
   - "Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes)  {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
   -
-    - "Grimoire maudit 'Thanatologue' {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %}"
+    - "Grimoire maudit '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %}"
 
 -
   - "Cimetière"
