@@ -34,7 +34,7 @@ La rencontre des Maupertuis et des Avatars
 
 *Connaissances communes aux avatars et aux fantômes, sauf le voleur.*
 
-**La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu, c'est à dire en l'{% symbol "an 500" for "library_initial_events_year" %} de la nouvelle ère.**
+**La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu, c'est à dire en l'{% symbol "an 500" for "library_initial_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %} (ère actuelle).**
 
 L'enfant, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, a connu une destinée tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a disparu durant ces évènements.
 
@@ -316,7 +316,7 @@ Fédore Pass’muraille (le voleur)
 
 - Traits : convoitise, roublardise, bagout, incrédulité, défiance
 
-- Histoire : 200 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets, et en particulier le légendaire trésor des Maupertuis. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur son cadavre maudit, après **désenvoûtement**), mais s’est fait tuer par surprise par la Bête (devenue spectrale) gardant les lieux.
+- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets, et en particulier le légendaire trésor des Maupertuis. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille), mais s’est fait tuer par surprise par la Bête (qui était toujours vivante à ce moment là) gardant les lieux.
 
 - Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste piégé dans son périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
 
@@ -358,7 +358,7 @@ La Bête (goule gardienne du Domaine Interdit)
 
 - Ne reconnaît personne comme ami (seuls les parents d’Octave et Mérédice avaient pouvoir sur elle, ni l’archiviste ni Octave n’auraient été épargnés s’ils avaient pénétré dans le domaine interdit)
 
-- Morte de vieillesse, et devenue encore plus féroce à force d’errer sans but dans le domaine interdit
+- Morte de vieillesse plus d'un siècle après la malédiction de la bibliothèque, et devenue encore plus féroce à force d’errer sans but dans le domaine interdit
 
 - Ses caractéristiques doivent rester un grand mystère pour les joueurs, afin d’augmenter l’angoisse, et de les forcer à réagir vite pour trouver des solutions, lorsqu’elle apparaît.
 
@@ -942,9 +942,9 @@ Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bar
 Le domaine interdit et la Bête
 ----------------------------------
 
-Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes mais hautement dangereuses car pourvues de longues griffes et très résistantes à la magie. Nourries et choyées en échange de leurs bons services, les goules étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres.
+Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes, à haute longévité, et très dangereuses avec leurs longues griffes et leur forte résistance à la magie. Nourries et choyées en échange de leurs bons services, les goules étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres.
 
-Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit (surnomme "La Bête") ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars).
+Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit (surnommée "La Bête") ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars).
 
 L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de goule errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_noraml_zone_because_of_ultimate_seal" %}
 

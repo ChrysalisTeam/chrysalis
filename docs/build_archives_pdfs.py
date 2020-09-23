@@ -279,7 +279,7 @@ def generate_archives_sheets():
     # then the common LORE doc
     if True:
         build_archives_pdf(COMMON_LORE_DOCS,
-                            filename_base="common_lore_introduction", title="Univers du Jeu",
+                            filename_base="common_lore_and_rules", title="Univers et Règles du Jeu ",
                             add_page_breaks=True, jinja_context=isolated_data)
 
     # -------------

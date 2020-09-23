@@ -1,5 +1,5 @@
 {% macro monolith_found_by_explorers() %}
-Heureusement, à ce moment là, des archéologues héliossars ont mis au jour des monolithes immémoriaux, narrant les premières générations de la famille Maupertuis. Il y était mentionné, sous forme énigmatique, la création d'une bibliothèque enfouie loin sous terre, afin de conserver les plus puissants grimoires magiques de cette ère. Quelques photos de ces inscriptions ont fuité dans la presse, photos que vous avez laborieusement déchiffrées.
+Heureusement, à ce moment là, des archéologues héliossars ont mis au jour des monolithes immémoriaux, narrant les premières générations de la famille Maupertuis. Il y était mentionné, sous forme énigmatique, la création d'une bibliothèque enfouie loin sous terre, afin de conserver les plus puissants grimoires magiques de ce temps. Quelques photos de ces inscriptions ont fuité dans la presse, photos que vous avez laborieusement déchiffrées.
 {% endmacro %}
 
 
@@ -15,10 +15,10 @@ Il vous a fallu plus d'une demi-journée pour percer le fonctionnement de ce por
 Faction - Les héritiers Parcival
 ============================================
 parcival_group_symbols
-Vous appartenez tous trois à la dernière génération de la famille Parcival. Une famille qui a hérité, par sa noble lignée, de certaines appétences avec le monde ésotérique.
+Vous appartenez tous trois à la plus récente génération de la famille Parcival, vivant dans le pays de Slavinka. Une famille qui a hérité, par sa noble lignée, de certaines appétences avec le monde ésotérique.
 L'un de vous est ainsi spécialisé dans les arts alchimiques ; l'autre reçoit ponctuellement des présages sous forme de visions ou de voix ; l'autre, enfin, a développé des facultés physiques et sensorielles impressionnantes en se connectant aux forces invisibles de la Nature.
 
-Récemment, votre petite sœur {% symbol "Philomène" for "parcival_sick_child_name" %} est tombée gravement malade. La **{% symbol "dégénérescence marbrée" for "legacy_disease" %}**, un mal qui avait moult fois frappé vos ancêtres au fil des siècles. Mais un espoir subsistait : il est connu que votre aïeule, Mérédice de Maupertuis, en avait été guérie par ses parents dans sa tendre enfance. Ce savoir familial est hélas largement tombé dans l'oubli, suite au saccage de leur manoir par des fanatiques, dont Mérédice fut visiblement la seule rescapée. Traumatisée, elle avait entièrement refait sa vie à l'étranger, en ne cherchant jamais à récupérer le domaine qui lui revenait de droit.
+Récemment, votre petite sœur {% symbol "Philomène" for "parcival_sick_child_name" %} est tombée gravement malade. La **{% symbol "dégénérescence marbrée" for "legacy_disease" %}**, un mal qui avait moult fois frappé vos ancêtres au fil des siècles. Mais un espoir subsistait : il est connu que votre aïeule, Mérédice de Maupertuis, en avait été guérie par ses parents dans sa tendre enfance. Ce savoir familial est hélas largement tombé dans l'oubli, suite au saccage de leur manoir de {% symbol "Thelassar" for "events_region_name" %} par des fanatiques, drame dont Mérédice fut visiblement la seule rescapée. Traumatisée, elle avait entièrement refait sa vie à l'étranger, en ne cherchant jamais à récupérer le domaine qui lui revenait de droit.
 
 Vous êtes donc partis sur les traces du passé, pour retrouver cette fabuleuse "Potion de Réjuvénation" qui avait sauvé votre lignée.
 

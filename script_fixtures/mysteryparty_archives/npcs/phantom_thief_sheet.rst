@@ -7,7 +7,7 @@ Votre histoire
 Votre profil
 ---------------------
 
-{# NO COMMON TRAGEDY OR LORE KNOWLEDGE FOR THIS NPC #}
+{# BEWARE - NO COMMON TRAGEDY OR LORE KNOWLEDGE FOR THIS NPC #}
 
 <{ phantom_thief_character_summary }/>
 
