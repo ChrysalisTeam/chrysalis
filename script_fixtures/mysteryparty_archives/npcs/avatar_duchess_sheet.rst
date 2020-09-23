@@ -21,15 +21,14 @@ plaisant avenir à vos enfants et à votre duché.
 <{ common_npc_tragedy_knowledge is_avatar=True }/>
 
 
-<{ common_npc_rules_and_lore_knowledge }/>
+<{ common_npc_lore_knowledge }/>
 
-
+<{ common_npc_instructions }/>
 
 Informations et instructions diverses
 ========================================
 
 Personnellement très affectée par le triste sort de vos amis, vous attendez avec impatience la résolution de cette situation, pour peut-être obtenir justice, et surtout libérer les âmes errantes de la maisonnée Maupertuis.
-
 
 
 

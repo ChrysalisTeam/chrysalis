@@ -10,6 +10,7 @@ Votre profil
 
 <{ god_ankou_character_summary }/>
 
+<{ common_npc_instructions }/>
 
 Informations et instructions diverses
 ========================================

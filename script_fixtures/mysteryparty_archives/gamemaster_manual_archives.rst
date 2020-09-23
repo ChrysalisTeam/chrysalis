@@ -80,6 +80,8 @@ Outre leurs propres objectifs, les joueurs doivent donc apprendre la différence
 Principes fondamentaux des différents mondes
 ============================================
 
+{% macro explanation_of_different_worlds() %}
+
 Le monde des vivants
 --------------------
 
@@ -114,9 +116,8 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 - Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”.
 
-- Des entités “démoniaques”, faisant elles aussi partie du monde des morts, pourraient être invoquées dans ce contexte. Elles auraient alors les mêmes propriétés que les fantomes, avec davantage de liberté, d’hostilité, et de pouvoirs magico-sacrés.
+{# NOT YET - Des entités “démoniaques”, faisant elles aussi partie du monde des morts, pourraient être invoquées dans ce contexte. Elles auraient alors les mêmes propriétés que les fantomes, avec davantage de liberté, d’hostilité, et de pouvoirs magico-sacrés. #}
 
-- Attention, les entités faisant partie du “\ **divin**\ ” (dont l’Ankou) sont aussi “dangereux malgré eux”, mais ils sont insensibles aux armes et aux sortilèges (dont la clôture magique).
 
 Le monde des livres
 -------------------
@@ -149,6 +150,16 @@ Le monde des automates
 Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler, ou comprendre des ordres simples. Ils voient les vivants et les avatars, mais pas les fantômes. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas sacrées ; cependant rien n'est censé leur arriver durant le jeu.
 
 Les maîtres de jeu, photographes, et servants du buffet, ont intérêt à faire partie de ce monde là pour un surcroit d'ambiance et une bonne liberté d'action.
+
+le monde divin
+-------------------
+
+Les entités faisant partie du “\ **divin**\ ” - actuellement uniquement le figurant l’Ankou - peuvent voir tout le monde, et sont par défaut sans danger pour les différents personnages.
+
+Ils sont également insensibles aux armes et aux sortilèges (dont la clôture magique). {% fact "ankou_sees_all_and_is_harmless_for_all" %}
+
+{% endmacro %}
+<{ explanation_of_different_worlds }/>
 
 Équipes de joueurs
 ==================
@@ -890,10 +901,145 @@ Avatars
 
 
 
-<{ common_npc_rules_and_lore_knowledge }/>
+{% macro common_npc_lore_knowledge() %}
+
+Connaissances communes aux personnages de l'ère Maupertuis
+============================================================
+
+*Ce que savent tous les avatars et les fantômes, sauf le voleur ; celui-ci connait un peu les anciennes légendes et le contexte du saccage du manoir, mais c'est tout.*
 
 
+Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
+-------------------------------------------------------------------------------
+
+
+Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la {% symbol "guerre des trente sorciers" for "mages_war_name" %}.
+
+Redoutable magicien, alchimiste, et duelliste, il a mis au pas tous ses adversaires. La légende raconte qu'il était invulnérable aux sortilèges magiques.
+
+Pour éviter tout empoisonnement, il avait appris à générer lui-même de la nourriture à partir de simples roches, connaissance qui est restéee dans sa descendance sous la forme d'une table de banquet magique, située dans la bibliothèque. {% fact "buffet_table_magically_generates_food" %}
+
+Il a créé le chateau familial des Maupertuis, la bibliothèque enfouie, ainsi que le réseau de portails planétaires la reliant aux domaines de ses vassaux.
+
+Il est mort brusquement lors de festivités, à l'approche de ses 50 ans, en s'étouffant avec un noyau de pêche. Il n'avait pas encore tranmis à ses héritiers ses plus importants secrets.
+
+Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèque, dans sa robe de fêtes, sans oser risquer de déclencher quelque malédiction en le toilettant.
+
+Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul ne viole jamais la sépulture de ce vénérable aieul, ni aucun des dangereux mystères qu'il a emportés dans la tombe.
+
+
+Le déclin magique
+-------------------------
+
+Dans les décennies suivantes, le "contraste magique", c'est à dire la puissance phénoménale de quelques individus par rapport au reste de la population, s'est largement attténué. Bridés par le gout du secret et les limitations d'une pratique artisanale, les arts magiques et ésotériques ont presque partout été dépassés par les technologies guerrières ; ils ont surtout subsisté dans leur coloration religieuse, en lien avec le monde des morts.
+
+Les grandes lignées de magiciens sont tombées l'une après l'autre, à cause de dissensions internes, ou d'agressions populaires plus ou moins justifiées.
+La lignée des Maupertuis a tenu plus longtemps que les autres, grâce à une réputation favorable due à son orientation vers les soins médicinaux.
+
+Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bardée d'envoûtements, se délite peu à peu ; certains murs, entièrement désenvoutés, se sont effondrés. Mais ce processus prendra encore de nombreux siècles ; et certains artefacts continuent de préserver, en isolation, les puissants flux magiques qui les traversent.
+
+
+Le domaine interdit et la Bête
+----------------------------------
+
+Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes mais hautement dangereuses car pourvues de longues griffes et très résistantes à la magie. Nourries et choyées en échange de leurs bons services, les goules étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres.
+
+Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit (surnomme "La Bête") ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars).
+
+L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de goule errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_noraml_zone_because_of_ultimate_seal" %}
+
+Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le symbole secret des Maupertuis, transmis de génération en génération ; l'accès est alors débloqué **pour 3 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "octave_knows_about_secret_family_symbol" %}
+
+
+La derrière maisonnée des Maupertuis
+---------------------------------------
+
+Au moment de l'attaque du manoir, Mérédice de Maupertuis avait déjà beaucoup progressé dans les arts magiques, et en particulier - comme ses parents - dans les impositions de mains et potions de guérison. Mais laissait toujours la plupart de ses affaires dans la bibliothèque, de peur de les perdre lors de ses excursions d'herboristerie dans les environs.
+
+Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il était distrait par ses lectures romanesques et fantastiques.
+
+Il devait bientôt passer son initiation appelée "adoubement", à l'étage interdit, c'est-à-dire :
+
+- être présenté à la Bête, et recevoir d'elle un serment d'allégeance
+- tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petit boite, parmis un lot, contenait sa broche personnelle
+- en cas de réussite, recevoir le symbole secret de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois
+
+
+La "{% symbol "Clochette Spectrale" for "table_bell_name" %}"
+--------------------------------------------------------------------
+
+Si l'on vous parle d'une **clochette de table** (petite, ronde et métallique), vous ne savez rien à son sujet ; vous savez juste qu'elle n'était pas visible dans la bibliothèque de votre vivant (même pour le voleur), donc quelqu'un a dû l'apporter ou la sortir d'une cachette.
+
+Si quelqu'un appuie sur la clochette, et que cela n'a pas déjà eu lieu dans les {% symbol "30mn" for "table_bell_cooldown" %} précédentes, alors le MJ doit déclencher la bande-son de la **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}** : vous vous mettez alors sous-forme spectrale, et vous vous ruez vers le son de clochette ; une fois près d'elle, vous errez de gauche et de droite, non loin, éperdus, jusqu'à la fin de la bande-son, puis vous revenez à ce que vous faisiez avant.
+
+{% endmacro %}
+<{ common_npc_lore_knowledge }/>
+
+
+
+{% macro phantom_knowledge_article() %}
+
+Des fantômes et autres esprits égarés
+==============================================
+
+Il existe bien peu de connaissances fiables sur le monde des morts. De nombreux exorcistes et mystiques atteste cependant que, parfois, au lieu de flotter librement vers l'au-delà, des défunts peuvent passer des années ou des siècles à errer sur Terre, pour des raisons fort diverses.
+
+Des deux formes fantomatiques
+----------------------------------------
+
+Il est possible de communiquer avec un fantôme lorsque celui-ci est dans un phase "incarnée". Il s'agit bien sûr d'un abus de langage, car le défunt reste incapable d'interagir normalement avec le monde de chair et de matière ; il n'en est pas moins capable de dialoguer, de raisonner, et de se souvenir de sa vie passée, même si la conscience qu'il a de sa situation peut être très variable. Ces moments privilégiés sont le meilleur moyen pour un exorciste de comprendre ce qui retient un fantôme sur terre, afin de prendre des mesures correctives. Ils ont lieu principalement la nuit, ou à défaut, dans l'obscurité.
+
+Mais la plupart du temps, les fantômes errent comme des "spectres" sans but, comme privés de la plupart de leurs sens et de leur pensées, et uniquement attirés par les vivants lorsqu'ils les croisent de près. Ces fantomes éthérés peuvent entrer dans une intense "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}", lorsqu'ils sont touchés par les ondes de quelque rituel magique ou sacré, ou bien à certains moments significatifs de la journée ; leurs déplacements sont alors plus rapides, et ils semblent rechercher à tout prix le contact des vivants.
+
+Il est largement établi que les fantômes peuvent passer à travers les murs et les objets ; cependant, n'étant pas entièrement dématérialisés, cela leur demande des efforts supplémentaires, aggravés lorsque les lieux ont été protégés par des envoûtements magiques ou des bénédictions sacrées. Dans les faits, les fantômes suivent donc souvent les mêmes parcours que les humains.
+
+
+De la dangerosité des revenants
+--------------------------------------
+
+La littérature ésotérique ne cesse de mettre en garde contre la dangerosité des fantômes, même si ceux-ci ne sont que rarement malveillants.
+Toucher un de ces êtres, écartelés entre le monde des vivants et celui des morts, inflige en effet de graves blessures au corps et à l'esprit, atteintes qui peuvent facilement mener à la mort.
+
+Il est donc indispensable de ne pas toucher (ou se laisser toucher par) un fantôme, qu'il soit sous forme incarnés ou spectrale, sauf si l'on porte des protections dûment bénites.
+
+
+Des chaines spirituelles
+-------------------------------
+
+les fantômes, d'une manière générale, s'éloignent peu de leur lieu de vie passé.
+
+Mais les personnes mortes d'un crime violent peuvent se retrouver comme emprisonnées près du lieu de leur chute, dans l'aura d'une étrange lumière sacrée. Elle ne peuvent s'incarner que près de cette lueur, bien que sous forme spectrale elles gardent une plus grande liberté (si l'on peut appeler cela ainsi).
+
+Les personnes - ou même les bêtes - mortes naturellement, ne semblent pas avoir ce type de lien très localisé, et ce sont davantage des tâches inachevées ou des malédictions qui peuvent les attacher au monde des vivants.
+
+
+Des rituels de libération
+-------------------------------
+
+De nombreux rituels sacrés permettent de chasser les fantômes, mais il est déconseillé de les utiliser sans avoir d'abord analysé la situation, car il est rare qu'un fantôme ainsi expulsé retrouve, par chance, la voie vers l'au-delà. Il en est de même des armes sacrées, qui ne sont que des formes primitives d'exorcisme, malgré leur grande utilité dans certaines situations délicates. Ne pas oublier qu'un fantôme ainsi malmené, une fois revenu, sera encore plus perturbé et désincarné qu'auparavant.
+
+De nombreux voyants du monde spirituel évoquent le rôle d'un "psychopompe", d'un guide des âmes, qui parcourerait la Terre pour ramener les fantômes vers les voies céleste. Cela expliquerait la soudaine disparition de défunts, en des lieux pourtant hantés sans relâches depuis des années. Mais cette figure énigmatique reste un sujet de vive controverse théologique.
+
+
+Des périls des restes corporels
+-----------------------------------
+
+Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun ; mais uniquement s'il touche directement le crâne du défunt - le reste des ossements n'est jamais maudit.
+
+Notons que ce sortilège peut perdurer jusque bien après le retour du fantôme au royaume des morts, exigeant ainsi l'intervention d'un désenvouteur en bonne et due forme. {% fact "cursed_skull_only_is_dangerous_not_bones" %}
+
+
+{#
+
+ainsi que les façons de l'invoquer afin de hâter la fin d'un errance, restent de vaste sujets de recherche
+, elles peuvent aussi rejoindre cette anomalie qu'est le monde des fantômes.
+ Il arrive que les fantômes s'incarnent, un abus de langage attestant qu'il retrouve alors leur sens, leur conscience, et leur mémoire, même s'ils peuvent toujours pas interagir avec le monde des vivants ces
+
+#}
+
+{% endmacro %}
 <{ phantom_knowledge_article }/>
+
 
 
 Valeur des objets précieux

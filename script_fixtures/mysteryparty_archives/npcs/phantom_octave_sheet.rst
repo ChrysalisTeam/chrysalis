@@ -28,8 +28,9 @@ Ce genre de situation ne dure jamais éternellement. Donc vous attendez, en osci
 {% endmacro %}
 <{ maupertuis_phantoms_awakening }/>
 
-<{ common_npc_rules_and_lore_knowledge }/>
+<{ common_npc_lore_knowledge }/>
 
+<{ common_npc_instructions }/>
 
 Informations et instructions diverses
 ========================================

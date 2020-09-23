@@ -11,7 +11,7 @@ Votre profil
 
 <{ phantom_thief_character_summary }/>
 
-TODO indiquer regles sur vision entre mondes
+<{ common_npc_instructions }/>
 
 Informations et instructions diverses
 ========================================
@@ -39,3 +39,5 @@ Vous connaissez bien la valeur des pièces et pierreries, ainsi que les meilleur
 Bien entendu, lorsque vous négociez, vous sous-estimez systématiquement de **20%** les richesses que l'on vous apporte, et escroquez ainsi ceux qui ne s'y connaissent pas.
 
 <{ treasures_value_summary }/>
+
+

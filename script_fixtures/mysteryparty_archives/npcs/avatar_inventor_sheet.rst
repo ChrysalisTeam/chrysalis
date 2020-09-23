@@ -32,8 +32,9 @@ depuis désespéré par le triste sort d'Octave, vous revenez tous les 10 ans c�
 #}
 
 
-<{ common_npc_rules_and_lore_knowledge }/>
+<{ common_npc_lore_knowledge }/>
 
+<{ common_npc_instructions }/>
 
 Informations et instructions diverses
 ========================================
