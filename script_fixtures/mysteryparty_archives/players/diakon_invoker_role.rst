@@ -14,21 +14,29 @@ Mais votre vocation s'est rapidement imposée à vous : invocateur, c'est-à-dir
 Thuriféraire (encenseur)
 -------------------------------
 
-TODO
+Vous disposez d'un encensoir argenté, afin de purifier les environs lors de certains rituels qui requièrent ce geste.
+
+L'encensement se fait au moyen d'un papier parfumé et non d'un cône d'encense ; il vous faut alors tourner, en procession avec vos confrères disponibles, autour de l'objet ou de la zone concernée, en balançant l'encensoir au bout de sa chaine.
+
+*Faites appel au MJ ou à un figurant de type "serviteur" pour approvisionner et allumer votre encensoir au moment opportun ; évitez de l'ouvrir vous même, car le système de fixation interne peut être coupant.*
 
 
 Connaissance des pentacles
 ----------------------------
 
-Le plus commun et polyvalent des tracés rituels est sans doute le {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %}, typiquement tracé et nanti de lumignons.
+Le plus commun et polyvalent des tracés rituels est sans doute le **{% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %}**, typiquement tracé au sol et nanti de lumignons magiques.
 
 La maitrise de tels pentacles est sans doute l'art le plus complexe de votre discipline ; seuls les grands maîtres du monastère savent en créer, et il s'agit d'un processus prenant facilement plusieurs heures.
 
-Vous savez en revanche réactiver un pentacle existant, en l'encensant puis en clamant l'invocation **"O pentacle magique, réveille-toi et écoute ma voix"**. Le pentacle doit alors s'illuminer peu après, signe qu'il est désormais actif. N'importe quelle personne peut alors l'utiliser.
+Vous savez en revanche réactiver un pentacle existant, en l'encensant puis en clamant l'invocation **"O pentacle magique, réveille-toi et écoute ma voix"**. Le pentacle devrait s'illuminer peu après, signe qu'il est désormais actif. N'importe quelle personne formée aux arts invocatoires peut alors l'utiliser.
 
 Notez cependant que seule la personne ayant dessiné un pentacle peut facilement le révoquer ; pour des personnes externes, il s'agit d'une opération de désenvoutement longue et ardue, aux effets imprévisiblement dangereux.
 
 
+Stase spirituelle
+----------------------
+
+ {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
 
 Invocation d'un défunt  NOPE
@@ -54,10 +62,7 @@ Bénédiction de terrain
 
 
 
-GEL d'un spectre
-----------------------
 
- {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
 Clef mystique
 ------------------

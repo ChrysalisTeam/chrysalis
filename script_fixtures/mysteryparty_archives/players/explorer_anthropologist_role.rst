@@ -23,7 +23,7 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 
 - TODO TODO !!!!!!!!!!!
 
-- Ritualiste de Bahamoot (peut aider autres)
+- Ritualiste de Bahamoot (peut aider autres) TODO
 
 
 Connaissance des blasons

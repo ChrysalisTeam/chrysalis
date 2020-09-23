@@ -212,7 +212,10 @@ Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 {% macro diakon_group_symbols() %}
 Le vêtement de reconnaissance des diacres de Bahamoot est une **étole violette** *(écharpe portée en travers du torse, fournie par les organisateurs)*.
 
-Leur devise est **"le dragon est notre guide"**, les mains jointes en prière.
+Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes en prière, aplaties l'une contre l'autre devant eux. Lors de leurs déplacements en procession, ils ânonnent un **son "Ohm"** lent et guttural *(à répéter ensemble en début de jeu)*.
+
+Leur devise est **"le dragon est notre guide"**, à professer les mains jointes en prière là encore.
+
 {% endmacro %}
 <{ diakon_group_symbols }/>
 
@@ -350,19 +353,26 @@ L’Ankou (le guide des âmes, le “psychopompe”)
 La Bête (goule gardienne du Domaine Interdit)
 --------------------------------------------------
 
-- FANTÔME (anciennement une goule des cavernes, “embauchée” et enchantée pour être plus dangereuse et ne pas avoir besoin de se nourrir)
+{% macro phantom_beast_character_summary() %}
+
+- FANTÔME (anciennement une goule des cavernes, enchantée pour ne pas avoir besoin de se nourrir)
 
 - Traits : agressive, sournoise, non-communiquante
 
-- Dressée par les parents d’Octave pour garder les grimoires les plus dangereux, dans le Domaine interdit
+- Engagée par les parents d’Octave pour garder les grimoires les plus dangereux, dans le Domaine interdit
 
 - Ne reconnaît personne comme ami (seuls les parents d’Octave et Mérédice avaient pouvoir sur elle, ni l’archiviste ni Octave n’auraient été épargnés s’ils avaient pénétré dans le domaine interdit)
 
 - Morte de vieillesse plus d'un siècle après la malédiction de la bibliothèque, et devenue encore plus féroce à force d’errer sans but dans le domaine interdit
 
+- A une véritable addiction pour les {% symbol "pierres de lune" for "beast_favorite_snack_is_moon_stone" %} (galets phosphorescents) {% fact "beats_is_addicted_to_moon_stones" %}
+
 - Ses caractéristiques doivent rester un grand mystère pour les joueurs, afin d’augmenter l’angoisse, et de les forcer à réagir vite pour trouver des solutions, lorsqu’elle apparaît.
 
 - **Les parents Maupertuis, interrogés depuis l’au-delà, peuvent donner des indications sur comment la neutraliser**
+
+{% endmacro %}
+<{ phantom_beast_character_summary }/>
 
 Le druide {% symbol "Diviciacos" for "druid_name" %}
 -----------------------------------
@@ -636,7 +646,7 @@ Lors de la malédiction de la bibliothèque, la goule qui gardait le domaine int
 
 La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouchée.
 
-Une fois que l’accès au domaine interdit (habituellement protégé par un puissant {% symbol "barrage absolu" for "ultimate_seal_name" %}) est ouvert, la bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. L’archiviste les encourage donc à planifier de quoi la mettre hors d’état de nuir durablement. {% fact "archivist_warns_players_about_ghoul_dangerousness" %}
+Une fois que l’accès au domaine interdit (habituellement protégé par un puissant {% symbol "barrage absolu" for "ultimate_seal_name" %}) est ouvert, la bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. L’archiviste les encourage donc à planifier de quoi la mettre hors d’état de nuir durablement. {% fact "archivist_warns_players_about_beast_dangerousness" %}
 
 Pour neutraliser la bête :
 
@@ -646,7 +656,7 @@ Pour neutraliser la bête :
 - L’arkonte avait une {% symbol "armure de Mithril" for "arkon_armor_name" %} sacrée protégeant des attaques “sacrées”, c’est à dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la bête.
    {% hint "arkon_sacred_armor" is needed %}
 
-- **L’exorciste** peut faire fuir la bête pendant quelques temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %} {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
+- **L’exorciste** peut faire fuir la bête pendant quelques temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
 - L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
 
@@ -946,7 +956,7 @@ Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dang
 
 Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit (surnommée "La Bête") ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars).
 
-L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de goule errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_noraml_zone_because_of_ultimate_seal" %}
+L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de goule errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %}
 
 Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le symbole secret des Maupertuis, transmis de génération en génération ; l'accès est alors débloqué **pour 3 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "octave_knows_about_secret_family_symbol" %}
 

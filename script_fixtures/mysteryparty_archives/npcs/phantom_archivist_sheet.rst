@@ -29,6 +29,6 @@ Informations et instructions diverses
 ========================================
 
 
-Vous avez entendu bien des choses, du temps des Maupertuis, sur la dangerosité de la goule, donc si les joueurs veulent ouvrir le passage vers le domaine interdit, vous les exhortez à avoir d'abord un plan pour la neutraliser, sous quelle forme qu'elle pointe le bout du museau. {% fact "archivist_warns_players_about_ghoul_dangerousness" %}
+Vous avez entendu bien des choses, du temps des Maupertuis, sur la dangerosité de la goule, donc si les joueurs veulent ouvrir le passage vers le domaine interdit, vous les exhortez à avoir d'abord un plan pour la neutraliser, sous quelle forme qu'elle pointe le bout du museau. {% fact "archivist_warns_players_about_beast_dangerousness" %}
 
 IL A VU PASSER LE VOLEUR
