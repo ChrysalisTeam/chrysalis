@@ -12,7 +12,7 @@ Ainsi, tandis que vous pénétrez dans la bibliothèque enfouie des Maupertuis, 
 
 
 La survenue des oracles
----------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Parfois, les prophéties vous tombent dessus sans prévenir. Mais bien plus souvent, elles se produisent lorsque vous rencontrez des personnes elles aussi habituées aux influences prophétiques. Vos sens entrent alors en résonnance mutuelle, donnant des voyans soit complètes, soit partagées entre les personnes présentes.
 
@@ -22,19 +22,19 @@ Vous pouvez aussi attirer les révélations à vous en marchant dans un lieu au 
 
 
 Les révélations visuelles
---------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous avez parfois des images qui s'affichent plusieurs secondes devant vos yeux ; il vous faut alors en saisir le plus vite possible tous les détails, avant que cette vision ne disparaisse à jamais, afin de pouvoir par la suite restituer tout cela à vos proches .
 
 
 Les révélations auditives - ABORTED ?
--------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous entendez un dialogue ou autre récit défiler dans votre tête, et vous devez alors le clamer au fil de l'eau, pour que ceux à qui les messages sont destinés puissent les mémoriser.
 
 
 Note hors-jeu : le déroulement des révélations
----------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro prophecy_workflow_instructions() %}
 
@@ -52,7 +52,7 @@ Pour les révélations auditives : un figurant vous fera écouter une première 
 
 
 Les intuitions
-------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Ils vous arrive par moment d'avoir, non pas des révélation, mais juste de forts attraits ou appréhensions.
 Ces émotions se révèlent parfois totalement erronnées, tant il est difficile de discerner entre de bonnes intuitions et de simples peurs ou préjugés.

@@ -14,7 +14,7 @@ Mais la spécialité qui vous parle le plus, c'est l'étude des runes anciennes 
 
 
 Traducteur runique ????????????
----------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous ne vous séparez jamais de votre traducteur portable de runes akarites, votre plus belle création.
 La première étape est de déterminer la transcription, en syllabes, de ces étranges symboles - vous avez une feuille pour cela.
@@ -23,7 +23,7 @@ Attention, si l'une des runes est mal transcrite, cela fausser en partie la trad
 
 
 Connaissance des codes secrets
----------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous avez appris à décoder quelques systèmes de chiffrement, et gardez sur vous une feuille de mémo à ce sujet.
 {% hint "secret_codes_sheet_for_explorer_runologist" is needed %}

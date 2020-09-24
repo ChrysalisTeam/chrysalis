@@ -7,7 +7,7 @@ Depuis tout petit, vous vous ennuyez dans les lectures et les sciences abstraite
 
 
 Force herculéenne
---------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous êtes costaud. Mais vraiment, vraiment costaud. Cela vous permet de soulever seul des troncs d'arbre entiers, et plus généralement de porter des objets considérés comme **ultra-lourds** par le commun des mortels.
 
@@ -18,7 +18,7 @@ Vous êtes costaud. Mais vraiment, vraiment costaud. Cela vous permet de souleve
 
 
 Mini-arbalète
------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous ne vous séparez jamais de votre chère arme de poing, qui vous a déjà sauvé la mise plus d'une fois lorsque la nuit tombait dans les bois.
 Ses flèchettes sont en solide {% symbol "Iridium" for "parcival_woodsman_bullets_metal" %}, mais n'ont pas reçu d'enchantements leur permettant de percer des défenses magiques, ou de blesser des entités du monde des morts ; heureusement pour vous, le cas ne s'est jamais présenté.
@@ -35,14 +35,14 @@ A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres l
 #}
 
 Stratège Défenseur
-------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vos parents ne vous l'ont jamais caché : s'il en est un seul qui s'en sortira toujours, dans la famille, c'est vous.
 Mais votre talon d'Achille, ce sont les gens de votre cercle familial et amical. Vous avez donc pris l'habitude d'ouvrir l'oeil face aux potentiels périls, et de repérer les atouts et défauts du terrain où vous vous trouvez. Y a-t-il un cul-de-sac à éviter pour ne pas se retrouver acculé par des ennemis ? Ou au contraire un recoin dans lequel se cacher, ou éviter un encerclement ? Vous savez ne pas pouvoir être partout, mais au minimum vous désirez pouvoir vous interposer entre les dangers et vos proches vulnérables.
 
 
 Connaissance des bêtes dangereuses
-----------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous pourriez écrire un roman sur toutes les saletés que vous avez croisées dans les sous-bois, les rivières ou les grottes de votre pays natal.
 

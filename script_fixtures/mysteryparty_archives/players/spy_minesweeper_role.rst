@@ -11,13 +11,13 @@ Depuis des décennies que vous baroudez dans les services secrets de votre patri
 
 
 Reconnaissance des coffres piégés
---------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 PASTILLES
 
 
 Pièges physiques
---------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous êtes capable de désactiver les pièges à l'ancienne, qui pullulent dans les vieux temples et tombeaux.
 
@@ -27,13 +27,13 @@ TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 
 GRELOTS AVEC ELASTIQUES !!!!
 
-------> A SYSTEM DE CODE AUSSI !!!!!!!!!?????
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> A SYSTEM DE CODE AUSSI !!!!!!!!!?????
 
-------> PEUT DEVINER SI UN COFFRE EST PIEGE ???
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> PEUT DEVINER SI UN COFFRE EST PIEGE ???
 
 
 Explosifs
---------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous avez avec vous 2 bâtonnets d'explosif. Vous pouvez en utiliser un pour déblayer un tas d'éboulements dans la bibliothèque. Les autres murs, le mobilier, les livres, sont encore protégés par des enchantements, et ne réagiront pas aux explosifs.
 
@@ -41,7 +41,7 @@ Vous avez avec vous 2 bâtonnets d'explosif. Vous pouvez en utiliser un pour dé
 
 
 Connaissance des mécaniques et des automates
---------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # TODO pour être ami avec inventeur, et pouvoir analyser quelques objets mécaniques ???
 

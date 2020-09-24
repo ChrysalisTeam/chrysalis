@@ -9,7 +9,7 @@ Vous avez passé les soirées de votre enfance à déchiffrer les quelques livre
 
 
 Les ingrédients que vous possédez
-------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {# voir https://harrypotter.fandom.com/fr/wiki/Cat%C3%A9gorie:Ingr%C3%A9dients_de_potions et https://sain-et-naturel.ouest-france.fr/voici-liste-plantes-medicinales.html#}
 
@@ -19,7 +19,7 @@ Sur vous lors de votre expédition: <TODO A LISTER>
 
 
 Les ustensiles que vous possédez
-------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Au domicile familial : Agitateur aluminique, Alambic en cuivre, Balance à plombs, Chaudron en fer, Cristallisoir, Pilon, Thermomètre à mercure, Fioles jaugées en cristal
 
@@ -27,16 +27,15 @@ Sur vous lors de votre expédition: <un fiole vide pour faire un mélange ??????
 
 
 Les recettes que vous connaissez déjà
----------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
--
-<TODO A LISTER>
+- <TODO A LISTER>
 
 
 
 
 
 Vos connaissances sur les différents types de blessures
----------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 <{ injury_types_knowledge }/>

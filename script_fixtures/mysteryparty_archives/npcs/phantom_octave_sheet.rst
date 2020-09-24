@@ -5,14 +5,14 @@ Votre histoire
 =======================
 
 Votre profil
----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 <{ phantom_octave_character_summary }/>
 
 <{ common_npc_tragedy_knowledge is_avatar=False }/>
 
 Un réveil inattendu
--------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Alors que vous prépariez vos affaires, le coeur lourd de devoir quitter si brusquement vos amis avatars, vous avez senti une vivre brûlure dans votre dos.
 

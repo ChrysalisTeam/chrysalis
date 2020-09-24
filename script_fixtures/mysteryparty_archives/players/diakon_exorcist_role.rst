@@ -12,7 +12,7 @@ Reportez-vous à **l'article en annexe** pour une description détaillée du mon
 
 
 Les rituels d'exorcisme
----------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 *N'hésitez pas à simuler l'épuisement que vous procure les plus exigeants de ces exercices, quitte à vous effondrer à genoux après l'un d'eux.*
 
@@ -69,7 +69,7 @@ Attention, cet exorcisme ne fonctionne bien que si toutes les entités qui sont 
 
 
 Vos connaissances sur les différents types de blessures
----------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 <{ injury_types_knowledge }/>
 

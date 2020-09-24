@@ -9,7 +9,7 @@ Mais les spécialités qui vous parle le plus, ce sont les sociétés humaines -
 
 
 Initiations rituelles
------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribales et certains cultes, vous avez suivi avec assiduité leurs parcours initiatiques. Cela fait de vous l'unique personne sur Terre cumulant des titres si divers :
 
@@ -27,7 +27,7 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 
 
 Connaissance des blasons
-----------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% fact "coat_of_arms_of_maupertuis_is_caduceus" %}
 L'armoirie des Maupertuis était une reprise du caducée (bâton surmonté de deux ailes et entouré de deux serpents entrelacés).
@@ -43,11 +43,11 @@ Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson,
 
 TODO dire blason du mage
 
-TODO TODO ---> utile pour déchiffrer prophéties!!!
+TODO TODO ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> utile pour déchiffrer prophéties!!!
 
 
 Estimation des monnaies et gemmes
-------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous connaissez bien la valeur des pièces et pierreries, ainsi que son évolution au fil de l'histoire*.
 
@@ -57,7 +57,7 @@ Voici par exemple comment s'écoulaient, au meilleur prix, les éléments préci
 
 
 Eruditions diverses
-----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 TODO, plantes ? Mots compliqués ? Latin ?
 
@@ -67,7 +67,7 @@ $$$$$$$ 1er soins ?????????????? $$$$$
 
 
 Expertise de biens
------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 CONNAISSANCE DE LA VALEUR DE L'ARGENT ET DES PIERRERIES
 

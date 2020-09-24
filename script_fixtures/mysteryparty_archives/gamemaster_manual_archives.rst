@@ -1,7 +1,10 @@
 
-
+################################
 MANUEL DU MAITRE DE JEU
 ################################
+
+Principes fondamentaux du jeu
+#####################################
 
 Pitch
 =====
@@ -12,8 +15,9 @@ Plongez dans cet antre d’art et de magie, et brisez la malédiction qui y main
 
 *"Les Archives Secrètes Des Maupertuis" est une soirée-mystère pour 12 joueurs, qui se joue en 3h environ.*
 
-Concept
-=======
+
+Concept détaillé
+=====================
 
 Plusieurs groupes d'aventuriers se sont infiltrés dans une bibliothèque souterraine abandonnée, et s’y retrouvent piégés par un mystérieux pouvoir. A la nuit tombée, ces lieux prennent vie, et se peuplent d'une multitude d'êtres plus ou moins bienveillants, plus ou moins énigmatiques. Qui sont ces étranges personnages, captifs des lieux eux aussi - certains fantomatiques, d’autres au contraire bien trop vivants ?
 
@@ -30,7 +34,7 @@ Histoire du jeu
 {% macro common_npc_tragedy_knowledge(is_avatar) %}
 
 La rencontre des Maupertuis et des Avatars
----------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 *Connaissances communes aux avatars et aux fantômes, sauf le voleur.*
 
@@ -69,7 +73,7 @@ Mais rien ne s'est passé comme prévu...
 
 
 Fond de l’intrigue (SPOILER)
------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 L'un des avatars, le duide aux pouvoirs surhumains, était en fait devenu le grand méchant dans son univers ; l’enfant ne le savait pas, n’ayant jamais retrouvé le dernier tome de la série. Cet ancien héros, désirant prendre le contrôle de cet univers aussi, est revenu par ledit Tome, a assassiné les vivants pendant le rituel, puis a joué la surprise vis-à-vis des personnages imaginaires restants, revenus plus tard s’enquérir de la situation.
 
@@ -83,7 +87,7 @@ Principes fondamentaux des différents mondes
 {% macro explanation_of_different_worlds() %}
 
 Le monde des vivants
---------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y est identique au nôtre, puis s’est produit un “grand marasme” tectonique et climatique qui a tout chamboulé pendant des siècles. Les lois scientifiques, la psychologie des humains, sont identiques à notre monde, avec en plus la présence de “magie”.
 
@@ -96,7 +100,7 @@ C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y e
 - Les vivants sont soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 Le monde des morts
-------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Il est composé des humains qui sont morts dans la bibliothèque après sa malédiction, et ne peuvent donc rejoindre l’au-delà.
 
@@ -120,7 +124,7 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 
 Le monde des livres
--------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les personnages issus du monde littéraire, imaginaire, sont uniquement des héros de romans auxquels l’enfant Octave a donné vie parce qu’il les admirait particulièrement. On les appelle aussi ”\ **avatars**\ ”.
 
@@ -145,7 +149,7 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 - Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 Le monde des automates
--------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler, ou comprendre des ordres simples. Ils voient les vivants et les avatars, mais pas les fantômes. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas sacrées ; cependant rien n'est censé leur arriver durant le jeu.
 
@@ -154,7 +158,7 @@ Les maîtres de jeu, photographes, et servants du buffet, ont intérêt à faire
 Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 Le monde divin
--------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les entités faisant partie du “\ **divin**\ ” - actuellement uniquement le figurant l’Ankou - peuvent voir tout le monde, et sont par défaut sans danger pour les différents personnages.
 
@@ -171,7 +175,7 @@ Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for
 Tout débute lorsque des explorateurs héliossars (ceux présents dans le jeu), à la recherche des secrets des Maupertuis, exhument des monolithes couverts d'inscriptions antiques. Hélas pour eux, des images de leur trouvaille fuitent, et font le tour de la presse mondiale ; quelques groupes de personnes se révèlent capables de la déchiffrer, et de comprendre ainsi le fonctionnement des portails menant à la bibliothèque des Maupertuis, portails actifs lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}** qui arrive. Tous ces gens s’y rendent prestement à cette date, pour des raisons différentes, sans réaliser qu’ils se jettent ainsi dans la gueule du loup.
 
 Les explorateurs héliossars
----------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Ces 3 aventuriers-archéologues tentent de préserver leur pays, Héliossar, contre les nouvelles envies de conquête de leur puissant voisin, la Théocratie akarite. Ils ont appris que les akarites avaient mis la main sur une copie du légendaire {% symbol "Thanatologue" for "book_of_the_dead" %}, le Livre des Morts d’une civilisation disparue, et en avaient tiré un plan pour une invasion “inéluctable” d’Héliossar. Ils recherchent donc l'exemplaire que les Maupertuis, d’après la légende, possédaient, afin de comprendre et surtout parer ce plan de conquête.
 
@@ -185,7 +189,7 @@ Leur devise est **"Le savoir est pouvoir"**, en pointant l'index vers le ciel.
 <{ explorer_group_symbols }/>
 
 La famille Parcival
--------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Ces 3 frères et soeurs sont les lointains descendants de Mérédice de Maupertuis, la soeur d’Octave que tout le monde croyait morte avec sa famille, mais qui avait en réalité pu s’échapper et refaire sa vie.
 
@@ -205,7 +209,7 @@ Sa devise est **"Noble de coeur comme de sang."**, le poing fermé sur le coeur.
 <{ parcival_group_symbols }/>
 
 Les diacres de Bahamoot
-------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Ces 3 moines officient pour le culte du dieu Bahamoot, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des âmes errantes (les fantômes). Ils s’y rendent donc pour résoudre les problèmes, et protéger l’ordre des choses.
 
@@ -224,7 +228,7 @@ Leur devise est **"Le dragon est notre guide"**, à professer les mains jointes 
 <{ diakon_group_symbols }/>
 
 Les agents secrets mirandiens
------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 L’île autonome de Mirandia, et son positionnement stratégique au centre de l’océan diorique, ont attiré les convoitises de ses voisins. Piégée par des complots économiques, surendettée, l’île est sur le point d’être annexée et vendue au plus offrant.
 
@@ -245,7 +249,7 @@ Figurants
 **Ces rôles peuvent être joués au masculin comme au féminin, en adaptant les noms et titres si nécessaire.**
 
 Octave de Maupertuis (l’enfant)
--------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro phantom_octave_character_summary() %}
 
@@ -270,7 +274,7 @@ Octave de Maupertuis (l’enfant)
 #}
 
 {% symbol "Maître Parchemine" for "archivist_name" %} (le précepteur d'Octave et archiviste )
---------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro phantom_archivist_character_summary() %}
 
@@ -296,7 +300,7 @@ Octave de Maupertuis (l’enfant)
 #}
 
 L’arkonte {% symbol "Valerias" for "arkon_name" %} (le paladin-exorciste légendaire)
------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro phantom_arkon_character_summary() %}
 
@@ -317,7 +321,7 @@ L’arkonte {% symbol "Valerias" for "arkon_name" %} (le paladin-exorciste lége
 
 
 Fédore Pass’muraille (le voleur)
---------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro phantom_thief_character_summary() %}
 
@@ -335,7 +339,7 @@ Fédore Pass’muraille (le voleur)
 <{ phantom_thief_character_summary }/>
 
 L’Ankou (le guide des âmes, le “psychopompe”)
----------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro god_ankou_character_summary() %}
 
@@ -357,7 +361,7 @@ L’Ankou (le guide des âmes, le “psychopompe”)
 <{ god_ankou_character_summary }/>
 
 La Bête (la goule gardienne du Domaine Interdit)
---------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro phantom_beast_character_summary() %}
 
@@ -381,7 +385,7 @@ La Bête (la goule gardienne du Domaine Interdit)
 <{ phantom_beast_character_summary }/>
 
 Le druide {% symbol "Diviciacos" for "druid_name" %}
------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro avatar_druid_character_summary() %}
 
@@ -405,7 +409,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 <{ avatar_druid_character_summary }/>
 
 L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
--------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro avatar_inventor_character_summary() %}
 
@@ -423,7 +427,7 @@ L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 <{ avatar_inventor_character_summary }/>
 
 La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %}
------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro avatar_duchess_character_summary() %}
 
@@ -443,7 +447,7 @@ Lieux
 =====
 
 Etage du bas (bibliothèque normale)
------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Le coin de l’archiviste (face à l’escalier)
 
@@ -462,7 +466,7 @@ Etage du bas (bibliothèque normale)
 - Différents coffres et objets répartis dans les lieux, ainsi que des “marqueurs” mis au sol par les avatars lors de leurs investigations infructueuses
 
 Etage du haut (domaine interdit)
---------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 *Accès initialement bloqué pour tous.*
 
@@ -478,11 +482,20 @@ Etage du haut (domaine interdit)
 
 - Différents pièges et artefacts répartis entre les rayonnages
 
+
+.. raw:: pdf
+
+   PageBreak
+
+
+Déroulement du jeu
+##########################################
+
 Dangers et blessures
 ==========================
 
 Les différents types de blessures
--------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro injury_types_knowledge() %}
 
@@ -500,7 +513,7 @@ Un point d'attention : de même que les blessures "biologiques", même soignées
 <{ injury_types_knowledge }/>
 
 Concrètement : les cas possibles durant le jeu
--------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Un joueur peut être blessé dans les cas suivants :
 
@@ -533,14 +546,14 @@ Avec le bon rituel, il est possible de **ressusciter un joueur** à l’état de
 ==========================
 
 Briefings
----------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Un briefing collectif a lieu pour rappeler le contexte du jeu, les règles (en particulier la sécurité physique et psychologique), et le planning global.
 
 Chaque groupe de joueurs est ensuite briefé à part, surtout pour vérifier qu’ils n’ont pas de questions sur leur rôle et leurs compétences spécifiques.
 
 L’entrée en scène des joueurs (temps 0h00)
----------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Chaque groupe arrive dans l’étage du bas de la bibliothèque par un accès différent (ou avec un délai de quelques minutes).
 
@@ -548,7 +561,7 @@ Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et 
 
 
 La {% symbol "frénésie spectrale" for "phantom_frenzy_name" %} (temps inconnu)
--------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Si un joueur sonne la "{% symbol "Clochette Spectrale" for "table_bell_name" %}" laissée en évidence sur une table, les automates de service l'ignorent, mais le MJ doit déclencher une bande-son angoissante, et les fantômes (devenus spectres) doivent errer férnétiquement aux alentours de cette clochette pendant un instant. Il s'agit juste d'un artefact, d'un signal de rappel, oublié par l'Akou lors d'un précédent passage. {% fact "table_bell_belongs_to_ankou" %}
 
@@ -556,7 +569,7 @@ Cete frénésie ne peut arriver qu'une fois toutes les {% symbol "30mn" for "tab
 
 
 L’ouverture du buffet (temps 0h30)
-----------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Une musique entraînante se déclenche (ex. https://www.youtube.com/watch?v=UPr4Ql0fNAc), et l’inventeur fait irruption près du banquet, appelant à grands cris ses amis du monde imaginaire à le rejoindre pour porter un toast à Octave, et espérer ensemble la levée de la malédiction.
 
@@ -565,25 +578,25 @@ Les autres héros arrivent, les joueurs qui étaient proches se font haranguer a
 Une fois la musique finie, joueurs et héros font connaissance autour du buffet. Il est affirmé que, à dessein, les mets sont aussi accessibles aux fantômes (incarnés ou non).
 
 Le passage de l’Ankou (temps 1h)
---------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils n’ont rien à faire ici, qu’il n’est pas “la Bête”, qu’il ne leur veut pas de mal, puis finalement qu’il compte sur eux pour l'aider à résoudre le problème de ces âmes prisonnières des lieux. Il leur explique comment l’invoquer depuis l’au-delà si besoin est, puis repart.
 
 
 Le druide trouve des grimoires de magie dans l’étage interdit (temps 2h30)
-------------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Il semble très réjoui, et s’isole pour les lire près du pentacle (il surveille ainsi que personne ne cherche à le renvoyer de force dans son propre univers romanesque).
 
 
 La bataille finale
-------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Voir la quête `Neutraliser le méchant`_ pour un aperçu des déroulements possibles de cet épisode final.
 
 
 L’épilogue musical
-------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Faire éteindre aux joueurs leurs lanternes, pour augmenter l’ambiance.
 
@@ -605,7 +618,7 @@ Quêtes et parcours d’énigmes
 ============================
 
 Idées diverses à caser
-----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé, il doit être expliqué pourquoi tel ou tel élément leur a échappé (règles de magie différentes, nécessités de + de gens pour un rituel…)
 
@@ -657,7 +670,7 @@ IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé
 
 
 Accéder au domaine interdit (utile à tous)
-------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Des carrés retournables, sur un panneau (ou une application sur tablette tactile) {% hint "symbolic_enigma_puzzle_app" is needed %} permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon motif entier pour ouvrir le passage
 
@@ -676,7 +689,7 @@ Des carrés retournables, sur un panneau (ou une application sur tablette tactil
 Une fois la combinaison de ces deux symboles reproduite sur le panneau, un son puissant se fait entendre, et le passage vers le domaine interdit est libre, dans les deux sens.
 
 Neutraliser la bête des Maupertuis (utile à tous)
--------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Lors de la malédiction de la bibliothèque, la goule qui gardait le domaine interdit y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et aigrie, elle est plus dangereuse que jamais.
 
@@ -709,7 +722,7 @@ MURS AMOVIBLES
 
 
 Le remède contre la dégénérescence marbrée (famille Parcival)
--------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - L'archiviste se souvient très bien de la maladie de Mérédice de Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un Cocktail de Réjuvénation. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l'étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
@@ -730,7 +743,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 
 Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)
-------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Un des rares exemplaires de ce mythique et controversé ouvrage a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste indique aux explorateurs-archéologues après avoir vérifié leur bonne volonté. {% hint "family_legendary_chest_protected_by_double_key" is needed %}
 
@@ -765,7 +778,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 - Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
 Le trésor des Maupertuis (les agents secrets mirandiens)
---------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les agents secrets ont vu des traces d’antiques récits vantant la fortune “surnaturelle” de la famille Maupertuis, jamais exhumée à ce jour.
 
@@ -797,7 +810,7 @@ Le “livre chantant” se trouve bien rangé, dans la bibliothèque de l’éta
 Avec le moulin et le grimoire chantant résolu, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
 Neutraliser le méchant
-----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons se portent initialement sur l’arkonte, surtout de la part des avatars qui n’ont pu le contacter. Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre (le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}), peuvent aussi être suspectés.
 
@@ -838,7 +851,7 @@ Si les joueurs attaquent le traître sans avoir le moyen de le tuer, il en tue u
 Si le traître est expulsé du monde humain ou tué, la malédiction prend fin, et l’épilogue peut se dérouler. Sinon, il ouvre lui-même la clotûre de la bibliothèque et s’enfuit, les joueurs sont donc libres mais ont échoué à protéger le monde des vivants.
 
 Finir le rituel de révocation des avatars (diacres)
-----------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les personnages imaginaires refusent que ce rituel, commencé par l’arkonte et interrompu par la trahison du méchant, soit mené à bien tant que les fantômes n’auront pas reçu justice et été libérés. A cela s’ajoute initialement la crainte que le rituel ait, en lui-même, causé le drame.
 
@@ -847,7 +860,7 @@ Le pentacle et les objets du rituel (ainsi que les romans) sont toujours en plac
 Il est possible de renvoyer autant de héros à la fois qu’il n’y a de diacres participant au rituel, les joueurs peuvent donc faire cela en une seule itération au lieu de personnage-par-personnage (pour que ce soit plus rapide en roleplay).
 
 Supprimer la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} de la bibliothèque (piège)
----------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 La clotûre de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **3 / 5 des vivants** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit.
 
@@ -856,7 +869,7 @@ Mais si cette malédiction est détruite ainsi, le traître s’échappe de la b
 Pour rappel, dans l’issue normale du jeu, la malédiction est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être.
 
 Préserver les grimoires légendaires **(bonus des diacres ?????)**
------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 La plupart des ouvrages de la bibliothèque sont des copies de livres courants, ou retrouvés depuis dan s d’autres lieux mystiques. Mais le {% symbol "Thanatologue" for "book_of_the_dead" %}, ainsi que deux ouvrages (Necronomicon? Codex Vampiris ?) ne doivent pas tomber dans les mains des impies qui vont probablement finir par trouver, à leur tour, cette bibliothèque.
 
@@ -889,21 +902,21 @@ Ces rôles peuvent être facilement réaffectés ou cumulés à l’intérieur d
 IMPORTANT : chaque rôle doit avoir son “moment de gloire” prévu dans le scénario - à charge pour le joueur de savoir s’en saisir.
 
 Famille Parcival
-----------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Gardien des bois : armé, fort et protecteur
 - Alchimiste : sait fabriquer des potions pour divers usages
 - Oracle : reçoit des révélations visuelles ou auditives par moment
 
 Agents secrets mirandiens
--------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Démineur : désactivation des pièges et manipulation d'explosifs
 - Sondeur : sait détecter les métaux et les signaux faibles
 - Crocheteur : sait forcer certains cadenas, et visualiser/ouvrir des systèmes magnétiques
 
 Diacres de Bahamoot
------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Désenvouteur : reconnait les envoûtements d'objets, et peut en supprimer
 
@@ -912,7 +925,7 @@ Diacres de Bahamoot
 - Invocateur : sait invoquer des esprits ou réaliser des rituels magiques complexes
 
 Explorateurs-archéologues héliossars
-------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Runologue : sait traduire des runes et reconnaître divers codes secrets
 
@@ -921,7 +934,7 @@ Explorateurs-archéologues héliossars
 - Anthropologue : érudit en traditions humaines, blasons, valeurs marchandes...
 
 Avatars
---------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - (druide) connaissance des vocabulaires alchimistes et herboristes désuets, connaissances des plantes et animaux, soin des blessures, forte auto-régénération et auto-protection magique ?????????????????????
 
@@ -930,6 +943,15 @@ Avatars
 - (sorcière?) TODO ? PEUT SOIGNER ????
 
 
+.. raw:: pdf
+
+   PageBreak
+
+
+L'univers du jeu
+#############################
+
+*Ces informations sont répliquées par les fiches de personnage pertinentes.*
 
 {% macro common_lore_for_all() %}
 
@@ -941,6 +963,19 @@ L'action se passe sur la planète Pangéa, en l'{% symbol "an 1000" for "current
 En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'à 1900, est identique à la nôtre. Les références à ces époques de notre monde, à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent. C'est au début du 20° siècle que les deux mondes ont bifurqué. Pendant que le nôtre continuait son chemin vers les guerres mondiales, Pangéa a subi un bouleversement tectonique et climatique majeur, appelé le {% symbol "marasme planétaire" for "catastrophic_period" %}, qui a torpillé tout développement humain durant des siècles. La planète est enfin sortie, à grand peine, de ce cataclysme, et l'humanité reprend son essor.
 
 La monnaie internationale est le **kash** (1 kash permet de se payer environ 100 baguettes de pain).
+
+
+Le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}
+=====================================================================
+
+L'arkonte Zarathoustra serait à l'origine de cet envoutement planétaire très puissant, et toujours en effet si longtemps après sa mise en place - au tout début de l'ère actuelle.
+
+Sur Pangéa, toute personne qui jure quelque chose **"Par le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}"** est tenu par les Cieux de respecter son engagement, quelles que soient ses propres croyances.
+
+Concrètement, tout parjure sera rapidement sanctionné par un douloureux chatiment, allant de l'infirmité à la mort, selon la gravité du mensonge. Si certains jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risque à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand chose.
+
+Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+
 
 
 .. raw:: pdf
@@ -959,36 +994,23 @@ Carte du monde de Pangéa
     :width: 2000px
 
 
-
-Informations diverses sur l'univers
-===========================================
-
-Le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}
-----------------------------------------------------------------------------
-
-L'arkonte Zarathoustra serait à l'origine de cet envoutement planétaire très puissant, et toujours en effet si longtemps après sa mise en place - au tout début de l'ère actuelle.
-
-Sur Pangéa, toute personne qui jure quelque chose **"Par le {% symbol "serment de Zarathoustra" for "unbreakable_oath_name" %}"** est tenu par les Cieux de respecter son engagement, quelles que soient ses propres croyances.
-
-Concrètement, tout parjure sera rapidement sanctionné par un douloureux chatiment, allant de l'infirmité à la mort, selon la gravité du mensonge. Si certains jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risque à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand chose.
-
-Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
-
-
 {% endmacro %}
 <{ common_lore_for_all }/>
 
+.. raw:: pdf
+
+   PageBreak
 
 {% macro common_npc_lore_knowledge() %}
 
-Connaissances communes aux personnages de l'ère Maupertuis
+Connaissances propres aux personnages de l'ère Maupertuis
 ============================================================
 
 *Ce que savent tous les avatars et les fantômes, sauf le voleur ; celui-ci connait un peu les vieilles légendes et le contexte du saccage du manoir, mais c'est tout.*
 
 
 Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
--------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}.
@@ -1007,7 +1029,7 @@ Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protecti
 
 
 Les colliers éthériques
-------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les légendes parlent de plusieurs colliers magiques forgés par des alchimistes durant cette {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}, et disparus peu après.
 Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux. En particulier, sa diction trainante mais tonitruante lors de toutes ses apparitions publiques a déclenché plus d'une suspicion.
@@ -1022,7 +1044,7 @@ Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dy
 
 
 Le déclin magique et l'aura guérisseuse
--------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Dans les siècles suivants, le "contraste magique", c'est à dire la puissance phénoménale de quelques individus par rapport au reste de la population, s'est largement attténué. Bridés par le gout du secret et les limitations d'une pratique artisanale, les arts magiques et ésotériques ont presque partout été dépassés par les technologies guerrières ; ils ont surtout subsisté dans leur coloration religieuse, en lien avec le monde des morts.
 
@@ -1033,7 +1055,7 @@ Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bar
 
 
 Le domaine interdit et la Bête
-----------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes, à haute longévité, et très dangereuses avec leurs longues griffes et leur forte résistance à la magie. Nourries et choyées en échange de leurs bons services, les goules étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres.
 
@@ -1045,7 +1067,7 @@ Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer su
 
 
 La derrière maisonnée des Maupertuis
----------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Au moment de l'attaque du manoir, Mérédice de Maupertuis avait déjà beaucoup progressé dans les arts magiques, et en particulier - comme ses parents - dans les impositions de mains et potions de guérison. Mais laissait toujours la plupart de ses affaires dans la bibliothèque, de peur de les perdre lors de ses excursions d'herboristerie dans les environs.
 
@@ -1059,7 +1081,7 @@ Il devait bientôt passer son initiation appelée "adoubement", à l'étage inte
 
 
 La {% symbol "Clochette Spectrale" for "table_bell_name" %}
---------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Si l'on vous parle d'une **clochette de table** (petite, ronde et métallique), vous ne savez rien à son sujet ; vous savez juste qu'elle n'était pas visible dans la bibliothèque de votre vivant (même pour le voleur), donc quelqu'un a dû l'apporter ou la sortir d'une cachette.
 
@@ -1078,7 +1100,7 @@ Des fantômes et autres esprits égarés
 Il existe bien peu de connaissances fiables sur le monde des morts. De nombreux exorcistes et mystiques atteste cependant que, parfois, au lieu de flotter librement vers l'au-delà, des défunts peuvent passer des années ou des siècles à errer sur Terre, pour des raisons fort diverses.
 
 Des deux formes fantomatiques
-----------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Il est possible de communiquer avec un fantôme lorsque celui-ci est dans un phase "incarnée". Il s'agit bien sûr d'un abus de langage, car le défunt reste incapable d'interagir normalement avec le monde de chair et de matière ; il n'en est pas moins capable de dialoguer, de raisonner, et de se souvenir de sa vie passée, même si la conscience qu'il a de sa situation peut être très variable. Ces moments privilégiés sont le meilleur moyen pour un exorciste de comprendre ce qui retient un fantôme sur terre, afin de prendre des mesures correctives. Ils ont lieu principalement la nuit, ou à défaut, dans l'obscurité.
 
@@ -1088,7 +1110,7 @@ Il est largement établi que les fantômes peuvent passer à travers les murs et
 
 
 De la dangerosité des revenants
---------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 La littérature ésotérique ne cesse de mettre en garde contre la dangerosité des fantômes, même si ceux-ci ne sont que rarement malveillants.
 Toucher un de ces êtres, écartelés entre le monde des vivants et celui des morts, inflige en effet de graves blessures au corps et à l'esprit, atteintes qui peuvent facilement mener à la mort.
@@ -1097,7 +1119,7 @@ Il est donc indispensable de ne pas toucher (ou se laisser toucher par) un fant�
 
 
 Des chaines spirituelles
--------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 les fantômes, d'une manière générale, s'éloignent peu de leur lieu de vie passé.
 
@@ -1107,7 +1129,7 @@ Les personnes - ou même les bêtes - mortes naturellement, ne semblent pas avoi
 
 
 Des rituels de libération
--------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 De nombreux rituels sacrés permettent de chasser les fantômes, mais il est déconseillé de les utiliser sans avoir d'abord analysé la situation, car il est rare qu'un fantôme ainsi expulsé retrouve, par chance, la voie vers l'au-delà. Il en est de même des armes sacrées, qui ne sont que des formes primitives d'exorcisme, malgré leur grande utilité dans certaines situations délicates. Ne pas oublier qu'un fantôme ainsi malmené, une fois revenu, sera encore plus perturbé et désincarné qu'auparavant.
 
@@ -1115,7 +1137,7 @@ De nombreux voyants du monde spirituel évoquent le rôle d'un "psychopompe", d'
 
 
 Des périls des restes corporels
------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun, car elle inflige des blessures sacrées ; mais uniquement s'il touche directement le crâne du défunt - le reste des ossements n'est jamais maudit. {% fact "cursed_skull_only_gives_sacred_injuries_not_bones" %}
 

@@ -5,7 +5,7 @@ Votre histoire
 =======================
 
 Votre profil
----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 <{ phantom_arkon_character_summary }/>
@@ -20,7 +20,7 @@ Votre ordre vous avait mis en garde contre ces phénomènes rarissimes par lesqu
 
 
 La malédiction de la bibliothèque
--------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Alors que vous procédiez, dans un tumulte magique, aux rituels successifs de refermement des portails interdimensionnels, une puissance maléfique s'est interposée. Vous l'avez combattue sans relâche, pendant d'interminables minutes, à coups de glaive, de sortilèges et d'exorcisme. Elle encaissait douloureusement vos attaques (sauf celles sacrées, qui ne lui faisaient manifestement rien)... mais elle se régénérait en un clin d'oeil.
 

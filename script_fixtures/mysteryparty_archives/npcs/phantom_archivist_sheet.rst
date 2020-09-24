@@ -6,7 +6,7 @@ Votre histoire
 =======================
 
 Votre profil
----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 <{ phantom_archivist_character_summary }/>
 
@@ -14,7 +14,7 @@ Votre profil
 
 
 Un réveil inattendu
--------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Alors que vous prépariez vos affaires, satisfait de voir cet étrange confinement toucher à sa fin, vous avez senti une vivre brûlure dans votre dos.
 

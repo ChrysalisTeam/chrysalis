@@ -3,7 +3,7 @@ Ajouter objet "canne" ????
 
 
 Rituel de stase fantomatique
-----------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Permet d'immobiliser un mort récalcitrant, pour une durée de 6h au moins
 
@@ -15,13 +15,13 @@ Permet d'immobiliser un mort récalcitrant, pour une durée de 6h au moins
 
 
 Philtre de peau de pierre
-----------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. Rend le buveur/récipiendaire invulnérable à toute
 
 
 Bézoard anti-poison
--------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Le bézoard cristallin ne protège pas de tous les poisons, mais rend inoffensifs les plus courants, et ralentit la progression dans le corps de tous les toxiques qu'ils proviennent d'animaux, de plantes, ou de vapeurs.
 
@@ -37,11 +37,11 @@ Gardez ce cristal dans une de vos poches pour bénéficier de cette aura tempora
 
 
 Potion de sommeil
----------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 Rituel de révocation d'Avatar (renvoie avatar)
-------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - 1 ritualiste
 CF MANUAL
@@ -51,7 +51,7 @@ CF MANUAL
 
 
 Rituel de Brise-SCeau (enleve cloture library)
--------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 CF MANUAL
 
@@ -59,7 +59,7 @@ CF MANUAL
 
 
 Rituel d'Ostracisme Fugace
-------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Cet exorcisme primitif "chasse" un fantome loin du ritualiste qui le déclame, pour une durée de 15mn. Le fantome passe souvent en forme spectrale quand il est est chassé, et va fuir au hasard, en évitant constamment le lieu d'où il a été chassé.
 
@@ -69,7 +69,7 @@ Cet exorcisme primitif "chasse" un fantome loin du ritualiste qui le déclame, p
 
 
 Explication octave symboles (en UV ?)  ABORTED
-----------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Paroles du Puissant {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}.
 
@@ -82,7 +82,7 @@ N'oubliez jamais que cet antre des savoirs ésotériques a fait la grandeur de v
 
 
 Rituel d'envoûtement d'arme sacrée
----------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Une arme de poing ou un projectile peuvent être envoutés pour gagner prise sur le monde des esprits.
 Ils ne peuvent bien sûr réellement blesser ou tuer pour de vrai des êtres qui sontt déjà morts.
@@ -100,7 +100,7 @@ DONNER QUELQUES POTIONS a l'EXORCISTE AUSSI!!! (que l'alchimiste doit vouloir)
 
 
 Envoûtement de la tombe du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
------------------------------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Sceau impénétrable en titane
 - Barrière de foudre
@@ -137,7 +137,7 @@ Soit se dans le premier cas, vous devez couper
 
 
 
-------------- TRASH --------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ TRASH ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Afin de supprimer l'envoûtement qui entouré un objet, placez-vous face à lui (sans le toucher bien sûr), imposer les mains dessus, et que la mettre efforts : « par jour alors la puissance pacificatrice de minutes,
 ouvrez grand vos oreilles, si misérable mortelle, ouvrez grand vos yeux, vous qui craignez les cieux, car par la puissance pacificatrice de base minutes, je romps les liens qui enchaînaient cet objet aux strates magiques.

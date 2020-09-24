@@ -12,7 +12,7 @@ Mais votre vocation s'est rapidement imposée à vous : invocateur, c'est-à-dir
 {# NOTE : l'invocateur apprendra aussi au cours de la partie à invoquer des zombies à partir de cadavres, ou à appeler l'Ankou #}
 
 Thuriféraire (encenseur)
--------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous disposez d'un encensoir argenté, afin de purifier les environs lors de certains rituels qui requièrent ce geste.
 
@@ -22,7 +22,7 @@ L'encensement se fait au moyen d'un papier parfumé et non d'un cône d'encense 
 
 
 Connaissance des pentacles
-----------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Le plus commun et polyvalent des tracés rituels est sans doute le **{% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %}**, typiquement tracé au sol et nanti de lumignons magiques.
 
@@ -36,29 +36,29 @@ Notez que seule la personne ayant dessiné un pentacle peut facilement le révoq
 
 
 Stase spirituelle
-----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
  {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
 
 Invocation d'un défunt  NOPE
-------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 TODO
 
 Incarnation d'un spectre (nope??)
------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 TODO
 
 Rituels divers
-------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ???
 
 
 Bénédiction de terrain
-------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 (anti zombie)
 {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
 
@@ -67,7 +67,7 @@ Bénédiction de terrain
 
 
 Clef mystique
-------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 (pour épreuve d'octave)
 

@@ -6,7 +6,7 @@ Votre histoire
 =======================
 
 Votre profil
----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 <{ avatar_duchess_character_summary }/>
 
@@ -33,7 +33,7 @@ Personnellement très affectée par le triste sort de vos amis, vous attendez av
 
 
 Les révélations prophétiques
----------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous avez depuis toujours de grande affinités avec les prophéties ; mais elles ne vous arrivent jamais entièrement et directement, elles passent à travers vous pour atteindre des personnes encore plus "clairvoyantes" ; comme l'un des membre de la famille Parcival, appelé "Oracle". Vous aurez donc la charge de transmettre ses voyances à ce joueurs aux moments prévus (dans le déroulement du jeu, ou suite à certaines actions des joueurs).
 

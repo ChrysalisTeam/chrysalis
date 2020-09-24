@@ -6,7 +6,7 @@ Votre histoire
 =======================
 
 Votre profil
----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 <{ avatar_druid_character_summary }/>
 
@@ -32,7 +32,7 @@ Cet état de fait durait depuis très longtemps, lorsque vous avez senti une pr�
 
 
 L'envers du décor
----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Dès votre rencontre avec les survivants de la maisonnée Maupertuis, votre avis était clair : Mère Nature vous avait appelé, dans ce monde qui avait généré le vôtre, enfin que vous y meniez la même tâche prophétique de destruction de la technologie, et de retour à l'Harmonie Naturelle. La découverte du grand **{% symbol "marasme planétaire" for "catastrophic_period" %}** survenu quelques siècles plus tôt a renforcé vos convictions : la planète avait déjà mis à terre les technologies humaines une fois, c'était à vous de terminer le travail.
 

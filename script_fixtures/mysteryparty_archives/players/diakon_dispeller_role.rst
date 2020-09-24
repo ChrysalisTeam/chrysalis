@@ -15,7 +15,7 @@ Mais votre vocation s'est rapidement imposée à vous : désenvouteur, c'est-à-
 
 
 Le reconnaissance des envoûtements
---------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 En imposant les mains sur un objet (ou un marquage) et en fermant les yeux, vous pouvez sentir s'il a été la cible de malédictions ou de bénédictions.
 
@@ -37,7 +37,7 @@ Vous devez bien sûr jouer théâtralement votre imposition des mains, et ne pas
 
 
 La suppression des envoûtements
-----------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **Signalez au maitre de jeu les désenvoûtements que vous souhaitez mener à bien.**
 
@@ -61,6 +61,6 @@ Si l'envoûtement est de niveau "légendaire", alors il est **impossible** de le
 
 
 La guérison des blessures spirituelles
-----------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 PENTACLEs - dire sait pas faier TODO

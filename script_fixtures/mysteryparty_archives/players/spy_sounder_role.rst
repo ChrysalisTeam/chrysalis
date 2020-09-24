@@ -8,7 +8,7 @@ Vos compétences
 Et votre péché mignon, c'est l'utilisation des ondes électromagnétiques pour trouver ce qui échappe à la vue de tous, et communiquer librement à distance. Vous avez donc toujours avec vous quelques matériels fort utiles.
 
 Détection de métaux
--------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Votre détecteur de métaux vous alerte par des vibrations et des sons lorsque vous l'approchez de bijoux, monnaies, et divers matériaux sensibles au magnétisme (fer, aluminium, or, argent, cuivre etc.). Il vous suffit de l'allumer loin de tout métal, puis de passer sa pointe ou sa tranche près de la zone de recherche (meubles, coffres, éboulis etc.).
 
@@ -21,7 +21,7 @@ Cependant, il semble que la **batterie de votre détecteur de métaux soit morte
 
 
 Détecteur de magnétisme
-----------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 XXXXXXXXXXX Vous disposez d'une petite feuille de papier qui réagit aux champs magnétiques. Initialement destinée à comprendre la structure interne de certaines serrures magnétiques, elle s'est révélée encore plus utile pour déchiffrer d'étranges inscriptions de la lignée Maupertuis. Visiblement, leur magie runique a laissé une trace magnétique dans **certains papiers, certains tableaux, certains livres**. Bonne nouvelle pour vous.
 
@@ -30,15 +30,15 @@ XXXXXXXXXXX Vous disposez d'une petite feuille de papier qui réagit aux champs 
 
 
 Kit d'observation-écoute
-------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous savez d'expérience que les vieilles familles lèguent souvent à leurs héritiers des conseils et indices sous des formes très petitement écrites ou très faiblement audibles, donc vous avez emporté **une loupe et un stéthoscope**, au cas où.
 
---> grimoire et table aui murmurent
---> quid de l'écriture petite ?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> grimoire et table aui murmurent
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> quid de l'écriture petite ?
 
 
 Talkie Walkie ???
-----------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 XXXXXXXXXXXXXX

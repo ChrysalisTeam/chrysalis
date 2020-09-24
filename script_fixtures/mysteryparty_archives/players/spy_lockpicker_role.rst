@@ -10,7 +10,7 @@ Vous avez donc toujours avec vous quelques matériels fort utiles.
 
 
 Crochetage de serrures
--------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 La plupart des serrures de la bibliothèque sont protégées par des envoûtements, et échappent donc à votre art purement mécanique.
 Mais si vous trouvez un **cadenas transparent**, vous pouvez tenter de le crocheter.
@@ -19,7 +19,7 @@ Mais si vous trouvez un **cadenas transparent**, vous pouvez tenter de le croche
 
 
 Déverrouilleur magnétique
-------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 TODO TIROIRES ET ANTIVOLS DE TISSUS
 
