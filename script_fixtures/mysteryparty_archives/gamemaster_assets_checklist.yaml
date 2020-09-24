@@ -126,7 +126,8 @@
     - "2 grandes bougies"
     - "Aube de pape dorée"
     - "Crâne humain (@Médiathèque) et ossements divers"
-    - "Masque 'anonymous' doré sur le crâne"
+    - "Masque 'anonymous' doré devant le crâne"
+    - "Calotte/tiare noir&or sur le crâne"
     - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %}"
     - "{% symbol 'Bague Amplificans' for 'ring_for_magic_amplification_name' %}"
 
@@ -206,14 +207,13 @@
     - "10 diamants moyens rectangulaire (= 100 kashes)"
     - "5 grands diamants ronds (= 100 kashes)"
     - "Bracelet doré à gros diamant bleu (non magique) valant environ 100 kashes"
-    - "Pendentif Quart avec collier fin doré (non magique) valant environ 60 kashes"
+    - "Collier en bande dorée (non magique) valant environ 60 kashes"
     - "Stylo doré avec gros diamant (non magique) valant environ 60 kashes"
     - "SOIT environ 630 kashes en jeu!"
-
     - "300 kashes répartis entre les coffres et emplacements de l'étage autorisé"
     - "300 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors l'étage interdit"
     - "30 kashes dans les poches des avatars"
-    - "Coffret crochetable avec des gemmes dedans"
+    - "Coffret crochetable avec des gemmes dedansXXXXXXXXXX"
 
 -
   - "Indices et objets à là disposition du maître de jeu"

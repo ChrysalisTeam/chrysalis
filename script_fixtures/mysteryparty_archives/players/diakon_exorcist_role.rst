@@ -63,9 +63,9 @@ Rituel :
 
 - utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} sur le sol
 - placer au centre de ce pentacle un objet lié à la mise en place du corridor (objet maudit, livre d'avatar...)
-- clamer "portail vers d'autres mondes, scelle ton seuil" {# (ou bien la version latine : "Porta ad alios mundos, sigillum tuum limen") #}
+- clamer "portail vers d'autres mondes, scelle ton seuil" en répétition pendant 30 secondes {# (ou bien la version latine : "Porta ad alios mundos, sigillum tuum limen") #}
 
-Attention, cet exorcisme ne fonctionne que si toutes les entités qui sont venues depuis un autre monde par ce passage y sont **retournées**, ou où défaut sont placées **dans** le pentacle.
+Attention, cet exorcisme ne fonctionne bien que si toutes les entités qui sont venues en ce monde par ce passage y sont **retournées**, ou à défaut sont placées **dans** le pentacle. Sans cela, le ritualiste sentira une résistance, et l'invocation ne sera pas résolue au bout du temps normal. Si le ritualiste continue alors son invocation pendant 30 secondes supplémentaires, cela forcera sa réalisation, mais avec la conséquence dramatique de **"tuer"** lesdites entités, quoi que cela signifie concrètement.
 
 
 Vos connaissances sur les différents types de blessures

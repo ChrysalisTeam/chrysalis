@@ -10,10 +10,11 @@ Votre profil
 
 <{ phantom_arkon_character_summary }/>
 
-Héroïque chevalier de la religion yodique (et plus particulièrement disciple de la confession dite "mithraïque"), grand érudit, adepte de nombreuses formes de magie, ferme défenseur des humains contre les incursions d'entités démoniaques, vous avez parcouru la planète en laissant derrière vous d'innombrables légendes.
+Héroïque paladin de la religion yodique (et plus particulièrement disciple de la confession dite "mithraïque"), grand érudit, adepte de nombreuses formes de magie, ferme défenseur des humains contre les incursions d'entités démoniaques, vous avez parcouru la planète en laissant derrière vous d'innombrables légendes.
 
-Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "library_initial_events_timedelta" %}, lors de votre séjour dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, non loin des ruines du domaine Maupertuis. A la faveur du {% symbol "solstice d'hiver" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %}. Votre ordre vous avait mis en garde contre ces phénomènes rarissimes mais lourds de périls, par lesquels différents univers s'entremêlaient. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique ne se referme.
+Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "library_initial_events_timedelta" %}, lors de votre séjour dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, non loin des ruines du domaine Maupertuis. A la faveur du {% symbol "solstice d'hiver" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %} menant à une étrange bibliothèque.
 
+Votre ordre vous avait mis en garde contre ces phénomènes rarissimes par lesquels différents univers s'entremêlaient : leurs propriétés physiques, magiques et spirituelles, partiellement incompatibles, pouvaient donner à de grands drames, même sans mauvaises intentions. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique vers la bibliothèque ne se referme.
 
 <{ common_npc_tragedy_knowledge is_avatar=False }/>
 
@@ -29,14 +30,14 @@ Depuis, comme vous l'aviez prévu dans votre ultime sacrifice, votre âme fantom
 
 Vous avez vu passer des spectres en errance, sans doute ceux de l'enfant et de l'archiviste. De quoi sont-ils morts exactement ? Du monstre qui vous a attaqué ? Vous ne savez pas même ce que c'était. La goule qui gardait l'étage du dessus, mais qui pourtant semblait tout à fait inoffensive pour un mage tel que vous ? Une monstruosité ancienne tapie dans les lieux, et réveillée par votre présence ? Un des personnages d'outre-monde devenu fou, et revenu subrepticement dans cette dimension humaine ? Vous avez vu, fugacement, passer quelques un de ces "avatars" (comme les mystiques les appellent), que vous n'aviez pu sceller dans leur propre univers. Ils semblaient vainement fouiller la bibliothèque, à la recherche de réponses.
 
-Vous attendez donc que quelqu'un de la surface, sensible à ces perturbations dans les strates d'existence, vienne à votre secours... De préférence un arkonte du même culte que vous, dont vous puissiez avoir suffisamment confiance pour lui faire votre "confession de mission" et le laisser résoudre correctement le problème. En effet, même le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %} n'est pas un gage suffisant, car plus d'un fanatique a préféré le briser, et être châtié mortellement, que de faire ce qui était réellement juste et juré.
+Vous attendez donc que quelqu'un de la surface, sensible à ces perturbations dans les strates d'existence, vienne à votre secours... De préférence un arkonte du même culte que vous, dont vous puissiez avoir suffisamment confiance pour lui faire votre "confession de mission" et le laisser résoudre correctement le problème. En effet, même le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %} n'est pas un gage suffisant, car plus d'un fanatique a préféré le briser, et être châtié mortellement peu après, que de faire ce qui était réellement juste et juré.
 
 Il faudra à votre salvateur, non pas briser votre {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} de la bibliothèque - ce qui anéantirait vos efforts - mais traquer et tuer la monstruosité qui s'y terre assurément encore. Qu'il vous tarde de voir cette mission connaitre une fin heureuse, et de pouvoir rejoindre vos pairs dans les banquets célestes.
 
 
 {#
 
-Ou, si vous n'arrivez pas à en trouver un, au moins une personne qui aura juré sufffisammennt de choses par le "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}" pour que sa bonne volonté soit attestée.
+Ou, si vous n'arrivez pas à en trouver un, au moins une personne qui aura juré suffisamment de choses par le "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}" pour que sa bonne volonté soit attestée.
 
 Vous avez parlementé avec le garçon avec Octave et l'archiviste qui s'était réfugié dans ces lieux pleins de savoir et de magie, et vous les avez convaincus de refermer les portails interdits mentionnait-elle, en retour de votre aide pour les sortir d'ici et les mettre à l'abri. Les personnages d'outre monde étaient plus ou moins étés globalement très remontés contre vous, mais ils ont bien du accepté la décision. Vous avez donc il mise en place avantage du rituel, et commencer à refermer les portes une par une.
 
@@ -49,11 +50,10 @@ Vous avez parlementé avec le garçon avec Octave et l'archiviste qui s'était r
 Informations et instructions diverses
 ========================================
 
-Vous aviez, longtemps avant votre mort, rendu votre **squelette indestructible**, tout autant pour renforcer votre corps que pour éviter que votre possible disparition dans les griffes de quelque ennemi ne reste à jamais un mystère. C'est ça l'esprit de prévoyance.
+Au tout début de votre parcours initiatique d'arkonte, vous avez retrouvé le légendaire **{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}**. Vous avez décidé de le fondre dans votre {% symbol 'Armure de Mithril' for 'arkon_armor_name' %}, ce qui l'a rendue extrèmement lourde mais vous a protégé intégralement, lorsque vous la portiez, contre les attaques des entités du monde des morts. Vous ne savez ce qu'est devenue votre armure après votre mort. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
+
+Vous aviez, longtemps avant votre mort, rendu votre **squelette indestructible**, tout autant pour renforcer votre corps, que pour éviter que votre possible disparition dans les griffes de quelque ennemi ne demeure à jamais un mystère. C'est ça l'esprit de prévoyance.
+
+Vous connaissez de'autres légendes remontant à l'ère du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}. L'un d'elle parle de divers artefacts (bijous, sceptres, armes) créés par une petite secte, qui avaient pour particularité d'étendre la portée spatiale des sortilèges de leur porteur. Avec cet effet démultiplicateur, un rituel créant habituellement un petit mur de flamme sur quelques pas pouvait se retrouver à embraser une plaine entière. le symbole commun à ces artefacts était un **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplifican_artefacts_symbol" %}**. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
 
-LUI PARLER DE SON ARMURE SACREE --> contains etheric_benediction_necklace_name
-
-Vous connaissez de nombreuses légendes remontant à l'ère du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}. L'un d'elle parle de divers artefacts (bijous, sceptres, armes) créés par une petite secte, qui avaient pour particularité d'étendre la portée spatiale des sortilèges de leur porteur. Avec cet effet démultiplicateur, un rituel créant habituellement un petit mur de flamme sur quelques pas pouvait se retrouver à embraser une plaine entière. le symbole commun à ces artefacts était un **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplifican_artefacts_symbol" %}**.
-
-{% fact "arkon_has_hints_about_ring_amplificans" %}

@@ -46,7 +46,7 @@ Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’O
 L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.
 L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de jamais sortir de la bibliothèque.
 
-Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) Valerias**, de religion yodique (et plus particulièrement de confession mithraïte), qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
+Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) {% symbol "Valerias" for "arkon_name" %}**, de religion yodique (et plus particulièrement de confession mithraïte), qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
 
 Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanité, et de laisser l’arkonte renvoyer définitivement les avatars hors de la Terre ; en retour, l’arkonte amènerait avec lui {% symbol "Octave" for "maupertuis_son" %} et l'archiviste, en sécurité, dans un autre pays. Après des adieux déchirants, les personnages imaginaires sont chacun retournés dans leur univers en attendant que le rituel verrouille à nouveau les accès au monde réel.
 
@@ -93,7 +93,7 @@ C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y e
 
 - Les vivants sont par défaut sensibles aux attaques physiques, magiques et sacrées.
 
-- Les vivants sont soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”.
+- Les vivants sont soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 Le monde des morts
 ------------------
@@ -114,7 +114,7 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 - Lorsqu’ils sont en phase incarnée, les fantomes qui sont morts de façon **violente** sont “attachés” spirituellement à une lumière inamovible, **placée à l’endroit où ils sont morts**. Les morts de **vieillesse**, eux, errent librement (dont la Bête).
 
-- Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”.
+- Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 {# NOT YET - Des entités “démoniaques”, faisant elles aussi partie du monde des morts, pourraient être invoquées dans ce contexte. Elles auraient alors les mêmes propriétés que les fantomes, avec davantage de liberté, d’hostilité, et de pouvoirs magico-sacrés. #}
 
@@ -122,27 +122,27 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 Le monde des livres
 -------------------
 
-Les personnages issus du monde littéraire, imaginaire, sont uniquement des avatars auxquels l’enfant Octave a donné vie parce qu’il les admirait particulièrement. On les appelle aussi ”\ **avatars**\ ”.
+Les personnages issus du monde littéraire, imaginaire, sont uniquement des héros de romans auxquels l’enfant Octave a donné vie parce qu’il les admirait particulièrement. On les appelle aussi ”\ **avatars**\ ”.
 
 Ces personnages sont dans l’état où leurs auteurs les avaient laissés à la fin de leurs “histoires” respectives, et non selon ce que l’enfant sait/imagine d’eux. Ils ne vieillissent pas.
 
-Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils le désirent. Le temps s’écoule identiquement dans tous les mondes, mais dans leurs livres, les héros vivent un “éternel présent”, où leur situation est globalement immuable, puisque leur auteur a cessé son travail d'écriture.
+Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils le désirent. Le temps s’écoule identiquement dans tous les mondes, mais dans leurs livres, les avatars vivent un “éternel présent”, où leur situation est globalement immuable, puisque leur auteur a cessé son travail d'écriture.
 
-- Si les héros meurent dans le monde réel, cela équivaut à une mort dans leur monde imaginaire (soumise à leur propre système de croyances religieuses).
+- Si les avatars meurent dans le monde réel, cela équivaut à une mort dans leur monde imaginaire (soumise à leur propre système de croyances religieuses), ils y sont reprojetés, et ne restent jamais des fantômes dans le monde réel.
 
-- Ces héros portent leurs costumes et accessoires “typiques”.
+- Ces avatars portent leurs costumes et accessoires “typiques” de leurs romans.
 
-- Ils peuvent interagir librement avec le monde des vivants et ses objets, sauf avec les “romans”, qu’il ne peuvent déplacer car ils portent en eux un univers entier
+- Ils peuvent interagir librement avec le monde des vivants et ses objets, sauf avec les “romans”, qu’il ne peuvent déplacer car ils portent en eux un univers entier.
 
 - Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher.
 
 - Ils ne peuvent ramener aucun autre objet ou individu depuis/vers leur monde d’origine (pas mêmes des accessoires décoratifs).
 
-- Ils ne peuvent pas aller dans le monde d’autres avatars, ni accueillir dans leur monde des vivants ou des fantômes.
+- Ils ne peuvent pas aller dans le monde d'autres avatars, ni accueillir dans leur propre monde des vivants ou des fantômes.
 
-- Ils conservent les super-pouvoirs qu’ils peuvent avoir dans leur univers (regénération, force, sorts…) ; dans le cas présents, tous les avatars sont sensibles aux attaques physiques et magiques, mais le sacré ne leur fait rien car leur "transcendance" n'est pas la même que les humains.
+- Ils conservent majoritairement les super-pouvoirs qu’ils peuvent avoir dans leur univers (regénération, force, sorts…), mais avec des risques d'effets de bord dangereux, à cause d'incompatibilités entre les lois fondamentales des univers ; dans le cas présents, tous les avatars sont sensibles aux attaques physiques et magiques, mais le sacré ne leur fait rien car leur "transcendance" n'est pas la même que les humains. {% fact "avatar_abilities_are_randomly_hazardous" %}
 
-- Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”.
+- Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 Le monde des automates
 -------------------------------
@@ -151,12 +151,16 @@ Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exempl
 
 Les maîtres de jeu, photographes, et servants du buffet, ont intérêt à faire partie de ce monde là pour un surcroit d'ambiance et une bonne liberté d'action.
 
+Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+
 Le monde divin
 -------------------
 
 Les entités faisant partie du “\ **divin**\ ” - actuellement uniquement le figurant l’Ankou - peuvent voir tout le monde, et sont par défaut sans danger pour les différents personnages.
 
 Ils sont également insensibles aux armes et aux sortilèges (dont la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %}). {% fact "ankou_sees_all_and_is_harmless_for_all" %}
+
+Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 {% endmacro %}
 <{ explanation_of_different_worlds }/>
@@ -291,14 +295,16 @@ Octave de Maupertuis (l’enfant)
 **Peut retrouver la fiche des emprunts du garçon : cette fiche liste les livres des PNJ notamment les tomes dont est issu le méchant.**
 #}
 
-L’arkonte Valérias (le paladin-exorciste légendaire)
---------------------------------------------------------
+L’arkonte {% symbol "Valerias" for "arkon_name" %} (le paladin-exorciste légendaire)
+-----------------------------------------------------------
 
 {% macro phantom_arkon_character_summary() %}
 
 - FANTÔME
 
 - Traits : méfiance, sens du devoir, bonne volonté, intelligence, sévérité
+
+- "Arkonte" est un titre désignant une "chevalerie bénie par les dieux" dans les religions dites "yodiques"
 
 - L’arkonte se souvient de sa mort en combat singulier, et d'avoir jeté la malédiction sur la bibliothèque. Il sait être attaché mystiquement à la zone de sa mort violente.
 
@@ -512,7 +518,7 @@ Un joueur peut être blessé dans les cas suivants :
 
 Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux potions magiques et aux rituels des diacres, mais ces possibilités restent très limitées.
 
-Toutes les blessures peuvent aussi être guéries par des avatars, mais ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur) :
+Toutes les blessures peuvent aussi être guéries par des avatars, mais ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur) : {% fact "avatar_abilities_are_randomly_hazardous" %}
 
 - la **duchesse** peut invoquer ses propres dieux, avec l'aide des diacres, pour réparer une blessure sacrée {% fact "avatar_duchess_can_dangerously_heal_sacred_injuries" %}
 - le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "avatar_druid_can_dangerously_heal_limited_injuries" %}
@@ -858,20 +864,6 @@ Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétis
 
 **TODO ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...**
 
-Les quatre colliers éthériques
-------------------------------------------------------
-
-Les légendes parlent de plusieurs colliers magiques forgés durant la {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}, et disparus peu après.
-Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux.
-
-{% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %} (formé de pierres ovales translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques, , (contondantes, perçantes ou tranchantes). En contrepartie, il se déplace très maladroitement (comme un golem).
-
-{% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %} (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
-
-{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}  (formé de chainettes dorées) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas concernés par ce collier.
-
-{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %} (formé d'anneaux de Mithril) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrèmement lourd, et ralentit ses mouvements.
-
 
 {# OLDIES
 
@@ -953,7 +945,7 @@ Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
 
 Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}.
 
-Redoutable magicien, alchimiste, et duelliste, il a mis au pas tous ses adversaires. La légende raconte qu'il était invulnérable aux sortilèges magiques.
+Redoutable magicien, alchimiste, et duelliste, il a mis au pas tous ses adversaires. La légende raconte même qu'il était invulnérable aux sortilèges magiques.
 
 Pour éviter tout empoisonnement, il avait appris à générer lui-même de la nourriture à partir de simples roches, connaissance qui est restéee dans sa descendance sous la forme d'une table de banquet magique, située dans la bibliothèque. {% fact "buffet_table_magically_generates_food" %}
 
@@ -966,15 +958,42 @@ Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèqu
 Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul ne viole jamais la sépulture de ce vénérable aieul, ni aucun des dangereux mystères qu'il a emportés dans la tombe.
 
 
+Les colliers éthériques
+------------------------------------------------------
+
+Les légendes parlent de plusieurs colliers magiques forgés par des alchimistes durant cette {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}, et disparus peu après.
+Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux. En particulier, sa diction trainante mais tonitruante lors de toutes ses apparitions publiques a déclenché plus d'une suspicion.
+
+{% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %} (formé de pierres ovales bleutées translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques (contondantes, perçantes ou tranchantes). En contrepartie, il marche et bouge les bras très lentement, tel un golem.
+
+{% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %} (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
+
+{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %} (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas concernés par ce collier.
+
+{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %} (formé d'anneaux de Mithril) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrèmement lourd. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
+
+
 Le déclin magique et l'aura guérisseuse
 -------------------------------------------
 
-Dans les décennies suivantes, le "contraste magique", c'est à dire la puissance phénoménale de quelques individus par rapport au reste de la population, s'est largement attténué. Bridés par le gout du secret et les limitations d'une pratique artisanale, les arts magiques et ésotériques ont presque partout été dépassés par les technologies guerrières ; ils ont surtout subsisté dans leur coloration religieuse, en lien avec le monde des morts.
+Dans les siècles suivants, le "contraste magique", c'est à dire la puissance phénoménale de quelques individus par rapport au reste de la population, s'est largement attténué. Bridés par le gout du secret et les limitations d'une pratique artisanale, les arts magiques et ésotériques ont presque partout été dépassés par les technologies guerrières ; ils ont surtout subsisté dans leur coloration religieuse, en lien avec le monde des morts.
 
 Les grandes lignées de magiciens sont tombées l'une après l'autre, à cause de dissensions internes, ou d'agressions populaires plus ou moins justifiées.
 La lignée des Maupertuis a tenu plus longtemps que les autres, grâce à une réputation favorable due à son orientation vers les soins médicinaux.
 
 Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bardée d'envoûtements, se délite peu à peu ; certains murs, entièrement désenvoutés, se sont effondrés. Mais ce processus prendra encore de nombreux siècles ; et certains artefacts continuent de préserver, en isolation, les puissants flux magiques qui les traversent.
+
+
+Le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}
+----------------------------------------------------------------------------
+
+L'arkonte Zarathoustra serait à l'origine de cet envoutement planétaire très puissant, et toujours en effet si longtemps après sa mise en place - au tout début de l'ère actuelle.
+
+Sur Pangéa, toute personne qui jure quelque chose **"Par le {% symbol "serment de Zarathoustra" for "unbreakable_oath_name" %}"** est tenu par les Cieux de respecter son engagement, quelles que soient ses propres croyances.
+
+Concrètement, tout parjure sera rapidement sanctionné par un douloureux chatiment, allant de l'infirmité à la mort, selon la gravité du mensonge. Si certains jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risque à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand chose.
+
+Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 
 Le domaine interdit et la Bête

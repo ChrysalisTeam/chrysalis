@@ -19,7 +19,7 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 
 - Arkonte yodique (salutation : "J'implore que les yods vous éclairent" ; réponse : "Que je sois pour vous leur miroir")
 
-  Ce titre correspond à une forme de "chevalerie bénie par les dieux" parmi les fidèles de cette religion ; il vous engage à la droiture morale, à al persévérance et au discernement dans vos actions  ; il vous permet de commenter les textes saints de la religion yodique, de siéger aux conseils ordinaires des arkontes, et de recevoir la "confession de mission" d'un confrère arkonte (pour cela, il se met à genou devant vous, et vous gardez une main imposée au dessus de sa tête).
+  Ce titre correspond à une forme de "chevalerie bénie par les dieux" parmi les fidèles de cette religion ; il vous engage à la droiture morale, à al persévérance et au discernement dans vos actions  ; il vous permet de commenter les textes saints de la religion yodique, de siéger aux conseils ordinaires des arkontes, et de recevoir la "confession de mission" d'un confrère arkonte (pour cela, il se met à genou devant vous, et vous gardez une main imposée en l'air au dessus de sa tête). {% fact "arkon_means_blessed_knight" %} Vous n'êtes pas peu fier de ce titre, qui vous place dans la lignée de personnages légendaires et pourtant réels comme Zarathoustra, ou {% symbol "Valerias" for "arkon_name" %}.
 
 - TODO TODO !!!!!!!!!!!
 
