@@ -931,6 +931,54 @@ Avatars
 
 
 
+{% macro common_lore_for_all() %}
+
+Contexte Historico-géographique
+================================
+
+L'action se passe sur la planète Pangéa, en l'{% symbol "an 1000" for "current_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %} ; le niveau de développement actuel y est similaire à notre 20° siècle terrestre, mais avec une population bien plus réduite.
+
+En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'à 1900, est identique à la nôtre. Les références à ces époques de notre monde, à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent. C'est au début du 20° siècle que les deux mondes ont bifurqué. Pendant que le nôtre continuait son chemin vers les guerres mondiales, Pangéa a subi un bouleversement tectonique et climatique majeur, appelé le {% symbol "marasme planétaire" for "catastrophic_period" %}, qui a torpillé tout développement humain durant des siècles. La planète est enfin sortie, à grand peine, de ce cataclysme, et l'humanité reprend son essor.
+
+La monnaie internationale est le **kash** (1 kash permet de se payer environ 100 baguettes de pain).
+
+
+.. raw:: pdf
+
+   PageBreak
+
+Carte du monde de Pangéa
+==============================
+
+*La géographie a très peu d'importance dans cette soirée mystère, inutile d'appendre ces pays et villes.*
+
+[BR]
+
+.. image:: ../assets/pangea_world_map_v10_8bits-rotated.png
+    :align: center
+    :width: 2000px
+
+
+
+Informations diverses sur l'univers
+===========================================
+
+Le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}
+----------------------------------------------------------------------------
+
+L'arkonte Zarathoustra serait à l'origine de cet envoutement planétaire très puissant, et toujours en effet si longtemps après sa mise en place - au tout début de l'ère actuelle.
+
+Sur Pangéa, toute personne qui jure quelque chose **"Par le {% symbol "serment de Zarathoustra" for "unbreakable_oath_name" %}"** est tenu par les Cieux de respecter son engagement, quelles que soient ses propres croyances.
+
+Concrètement, tout parjure sera rapidement sanctionné par un douloureux chatiment, allant de l'infirmité à la mort, selon la gravité du mensonge. Si certains jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risque à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand chose.
+
+Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+
+
+{% endmacro %}
+<{ common_lore_for_all }/>
+
+
 {% macro common_npc_lore_knowledge() %}
 
 Connaissances communes aux personnages de l'ère Maupertuis
@@ -982,18 +1030,6 @@ Les grandes lignées de magiciens sont tombées l'une après l'autre, à cause d
 La lignée des Maupertuis a tenu plus longtemps que les autres, grâce à une réputation favorable due à son orientation vers les soins médicinaux.
 
 Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bardée d'envoûtements, se délite peu à peu ; certains murs, entièrement désenvoutés, se sont effondrés. Mais ce processus prendra encore de nombreux siècles ; et certains artefacts continuent de préserver, en isolation, les puissants flux magiques qui les traversent.
-
-
-Le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}
-----------------------------------------------------------------------------
-
-L'arkonte Zarathoustra serait à l'origine de cet envoutement planétaire très puissant, et toujours en effet si longtemps après sa mise en place - au tout début de l'ère actuelle.
-
-Sur Pangéa, toute personne qui jure quelque chose **"Par le {% symbol "serment de Zarathoustra" for "unbreakable_oath_name" %}"** est tenu par les Cieux de respecter son engagement, quelles que soient ses propres croyances.
-
-Concrètement, tout parjure sera rapidement sanctionné par un douloureux chatiment, allant de l'infirmité à la mort, selon la gravité du mensonge. Si certains jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risque à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand chose.
-
-Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 
 Le domaine interdit et la Bête
