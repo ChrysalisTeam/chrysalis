@@ -56,7 +56,7 @@ Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanit
 
 Certains de ces avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - inventeur, druide et duchesse - cela n'a pas été le cas. Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier) ; horreur, le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
 
-Eplorés, ces avatars subsistants ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir, mais dont ils ont marqué au sol l'emplacement. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis.
+Eplorés, ces avatars subsistants ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir, mais dont ils ont marqué au sol l'emplacement, avec d'étranges galets phosphorescents trouvés sur place. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis. {% hint "beast_snack_as_moon_stones" is needed %}
 
 La duchesse a, dans son propre monde, reçu d'un devin la révélation que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outre-monde" for "banquet_name" %} en l'honneur des Maupertuis, dans l'attente de la réalisation de cette prophétie.
 
@@ -156,7 +156,7 @@ Le monde divin
 
 Les entités faisant partie du “\ **divin**\ ” - actuellement uniquement le figurant l’Ankou - peuvent voir tout le monde, et sont par défaut sans danger pour les différents personnages.
 
-Ils sont également insensibles aux armes et aux sortilèges (dont la clôture magique). {% fact "ankou_sees_all_and_is_harmless_for_all" %}
+Ils sont également insensibles aux armes et aux sortilèges (dont la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %}). {% fact "ankou_sees_all_and_is_harmless_for_all" %}
 
 {% endmacro %}
 <{ explanation_of_different_worlds }/>
@@ -278,7 +278,7 @@ Octave de Maupertuis (l’enfant)
 
 - Excité d’apprendre que les joueurs ont croisé l’enfant (l’archiviste sait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
 
-- Se demande si ce n’est pas son oeuvre d’inventaire et rangement complet de la bibliothèque, inachevée, qui le retient dans ce monde.
+- Se demande ouvertement si ce n’est pas son oeuvre d’inventaire et rangement complet de la bibliothèque, inachevée, qui le retient dans ce monde.
 
 - S’assure de la bonne volonté des joueurs grâce au “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
 
@@ -365,7 +365,7 @@ La Bête (la goule gardienne du Domaine Interdit)
 
 - Morte de vieillesse plus d'un siècle après la malédiction de la bibliothèque, et devenue encore plus féroce à force d’errer sans but dans le domaine interdit
 
-- A une véritable addiction pour les {% symbol "pierres de lune" for "beast_favorite_snack_is_moon_stone" %} (galets phosphorescents) {% fact "beats_is_addicted_to_moon_stones" %}
+- A une véritable addiction pour les {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} (galets phosphorescents) {% fact "beats_is_addicted_to_moon_stones" %}
 
 - Ses caractéristiques doivent rester un grand mystère pour les joueurs, afin d’augmenter l’angoisse, et de les forcer à réagir vite pour trouver des solutions, lorsqu’elle apparaît.
 
@@ -690,7 +690,7 @@ Pour neutraliser la bête :
 
 - L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
 
-- La bête avait pour friandises favorites des {% symbol "pierres de lune" for "beast_favorite_snack_is_moon_stone" %} ; même s'il ne peut plus les manger, il se jette dessus quand il en croise. {% hint "beast_snack_as_moon_stones" is needed %}
+- La bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même s'il ne peut plus les manger, il se jette dessus quand il en croise. {% hint "beast_snack_as_moon_stones" is needed %}
 
 - **L’invocateur** connait un rituel capable de “geler” pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
@@ -734,7 +734,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
   Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
 
 - **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher.
-  Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. {% fact "thief_knows_about_isadora_thanatologue_chest_code" %}
+  Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}
 
 
 - Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une contre-mesure, dans le {% symbol "Thanatologue" for "book_of_the_dead" %}, en appelant à viser en priorité les désenvouteurs du camp adverse. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
@@ -811,7 +811,7 @@ Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 
 Dès lors, il doit être évident pour les joueurs que le coupable est le druide. Mais si celui-ci est démasqué, il peut continuer à nier, ou finir par avouer mais livrer les joueurs à un chantage, vu qu’il est plus puissant qu’eux tous ; de toute façon, “maintenant qu’il a accès aux grimoires magiques, il finira bien par savoir comment briser la malédiction de la bibliothèque”. Il garde jalousement le pentacle pour éviter tout coup bas de ce côté-ci, et prévient qu'il sentira sans problème si un autre pentacle est créé dans les environs.
 
-**IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la clôture magique sans avoir résolu l’enquête de la mort des humains.**
+**IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} sans avoir résolu l’enquête de la mort des humains.**
 
 Le traître est insensible aux attaques physiques et magiques usuelles, mais il existe différentes façons de l'atteindre :
 
@@ -840,8 +840,8 @@ Le pentacle et les objets du rituel (ainsi que les romans) sont toujours en plac
 
 Il est possible de renvoyer autant de héros à la fois qu’il n’y a de diacres participant au rituel, les joueurs peuvent donc faire cela en une seule itération au lieu de personnage-par-personnage (pour que ce soit plus rapide en roleplay).
 
-Supprimer la clôture magique de la bibliothèque (piège)
--------------------------------------------------------
+Supprimer la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} de la bibliothèque (piège)
+---------------------------------------------------------------
 
 La clotûre de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **3 / 5 des vivants** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit.
 
@@ -875,7 +875,7 @@ Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dy
 
 {# OLDIES
 
-Un {% symbol "Collier d'Invisibilité Spirituelle" for "spiritual_invisibility_necklace" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_necklace_in_toxic_corridor" is needed %}
+Un {% symbol "Collier d'Invisibilité SpirituelleXX" for "NOPE" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_necklace_in_toxic_corridorXXX" is needed %}
 NOPE LE CACHER UN PEU MIEUX ??????????
 
 impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre.
@@ -885,8 +885,6 @@ impalpable sur le plan physique : les armes et les poisons le traversent sans l'
 impalpable sur le plan magique, aucun sortilège (de feu, de foudre...) ne peut plus l'atteindre. Il ne peut lui-même réaliser aucun acte de magie (préparation alchimique, lancer de sorts...) tant qu'il le porte.
 
 Collier éthérique de corps (ruban-chaine doré) : Celui qui porte ce collier autour du cou devient impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre.
-
-
 
 #}
 

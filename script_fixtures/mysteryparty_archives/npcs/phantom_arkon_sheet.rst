@@ -12,7 +12,7 @@ Votre profil
 
 Héroïque chevalier de la religion yodique (et plus particulièrement disciple de la confession dite "mithraïque"), grand érudit, adepte de nombreuses formes de magie, ferme défenseur des humains contre les incursions d'entités démoniaques, vous avez parcouru la planète en laissant derrière vous d'innombrables légendes.
 
-Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "past_events_delay" %}, lors de votre séjour dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, non loin des ruines du domaine Maupertuis. A la faveur du {% symbol "solstice d'hiver" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %}. Votre ordre vous avait mis en garde contre ces phénomènes rarissimes mais lourds de périls, par lesquels différents univers s'entremêlaient. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique ne se referme.
+Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "library_initial_events_timedelta" %}, lors de votre séjour dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, non loin des ruines du domaine Maupertuis. A la faveur du {% symbol "solstice d'hiver" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %}. Votre ordre vous avait mis en garde contre ces phénomènes rarissimes mais lourds de périls, par lesquels différents univers s'entremêlaient. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique ne se referme.
 
 
 <{ common_npc_tragedy_knowledge is_avatar=False }/>
@@ -23,7 +23,7 @@ La malédiction de la bibliothèque
 
 Alors que vous procédiez, dans un tumulte magique, aux rituels successifs de refermement des portails interdimensionnels, une puissance maléfique s'est interposée. Vous l'avez combattue sans relâche, pendant d'interminables minutes, à coups de glaive, de sortilèges et d'exorcisme. Elle encaissait douloureusement vos attaques (sauf celles sacrées, qui ne lui faisaient manifestement rien)... mais elle se régénérait en un clin d'oeil.
 
-Lorsque vous avez reçu un projectile en plein front, vous avez compris que la partie était perdue ; mais dans votre dernier souffle, vous avez lancé une sortilège immémorial, décuplé par la puissance de votre sacrifice ; une malédiction enfermant la bibliothèque entière dans un vortex sacré, un "trou noir" spirituel, qui ne cesserait lorsque votre attaquant serait rayé de ce monde.
+Lorsque vous avez reçu un projectile en plein front, vous avez compris que la partie était perdue ; mais dans votre dernier souffle, vous avez lancé une sortilège immémorial, décuplé par la puissance de votre sacrifice : la **{% symbol "clôture absolue" for "library_cursed_enclosure_name" %}**, une malédiction enfermant la bibliothèque entière dans un vortex sacré, un "trou noir" spirituel, qui ne cesserait lorsque votre attaquant serait rayé de ce monde.
 
 Depuis, comme vous l'aviez prévu dans votre ultime sacrifice, votre âme fantomatique est restée prisonnière de la bibliothèque ; moins à cause de la sortilège de votre mort - vous savez que cela peut "attacher" temporairement une âme à un lieu - qu'à cause de votre propre malédiction.
 
@@ -31,7 +31,7 @@ Vous avez vu passer des spectres en errance, sans doute ceux de l'enfant et de l
 
 Vous attendez donc que quelqu'un de la surface, sensible à ces perturbations dans les strates d'existence, vienne à votre secours... De préférence un arkonte du même culte que vous, dont vous puissiez avoir suffisamment confiance pour lui faire votre "confession de mission" et le laisser résoudre correctement le problème. En effet, même le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %} n'est pas un gage suffisant, car plus d'un fanatique a préféré le briser, et être châtié mortellement, que de faire ce qui était réellement juste et juré.
 
-Il faudra à votre salvateur, non pas briser votre clôture de la bibliothèque - ce qui anéantirait vos efforts - mais traquer et tuer la monstruosité qui s'y terre assurément encore. Qu'il vous tarde de voir cette mission connaitre une fin heureuse, et de pouvoir rejoindre vos pairs dans les banquets célestes.
+Il faudra à votre salvateur, non pas briser votre {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} de la bibliothèque - ce qui anéantirait vos efforts - mais traquer et tuer la monstruosité qui s'y terre assurément encore. Qu'il vous tarde de voir cette mission connaitre une fin heureuse, et de pouvoir rejoindre vos pairs dans les banquets célestes.
 
 
 {#

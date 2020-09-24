@@ -48,7 +48,7 @@ Vous pourriez écrire un roman sur toutes les saletés que vous avez croisées d
 
 Les vampires sont à votre avis des dangers bien exagérés ; qu'ils soient sous forme humaine ou animale, un coup de massue leur apprend vite les bonnes manières, leur crainte de la lumière les rend faciles à repousser, et leur morsure est en réalité bien plus douloureuse que toxique.
 
-Vous avez en revanche dû fuir plus d'une fois leurs lointains cousins, les goules des cavernes, créatures trop dangereuses pour être combattues par le commun des mortels. Vous savez cependant que certains paysans leur tendent des pièces sophistiqués, en profitant de leur addiction innée pour les "{% symbol "pierres de lune" for "beast_favorite_snack_is_moon_stone" %}", des sortes de galets phosphorescents.
+Vous avez en revanche dû fuir plus d'une fois leurs lointains cousins, les goules des cavernes, créatures trop dangereuses pour être combattues par le commun des mortels. Vous savez cependant que certains paysans leur tendent des pièces sophistiqués, en profitant de leur addiction innée pour les "{% symbol "pierres de lune" for "phosphorescent_pebbles_name" %}", des sortes de galets phosphorescents.
 
 Vous n'avez croisé qu'un seul loup-garou, alosr qu'il ressortait d'une de ses transformation nocturne. Les bons soins des shamans du village ont permis de rapidement guérir le malheureux, ce qui est heureux car la force d'un lycanthrope pleinement enragé peut facilement dépasser la vôtre. Vous les savez heureusement très, trop sensibles aux odeurs fortes (oeufs pourris, charognes...), ce qui peut perturber leurs habileté au combat.
 

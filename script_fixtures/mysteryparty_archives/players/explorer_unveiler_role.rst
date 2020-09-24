@@ -21,4 +21,4 @@ Analyse d'artefacts et de sépultures
 Entre médecine légiste et savoir archéologique, vous avez acquis une certaines finesse dans l'examen de ces éléments.
 Vous pourrez donc, grâce à votre carnet de notes high-tech, trouver des indices en examinant les objets et ossements que vous rencontrerez.
 
-*NOTE hors-jeu : Un élément analysable par votre science porte une petite pastille ronde de couleur XXXXXXX. Cette pastille porte un code de 2 ou 3 caractères, tapez-le sur votre application de recherche, en mettant la catégorie {% symbol "" for "explorer_unveiler_search_category" %}, pour obtenir des informations sur l'élement en question.*
+*NOTE hors-jeu : Un élément analysable par votre science porte une petite pastille ronde de couleur XXXXXXX. Cette pastille porte un code de 2 ou 3 caractères, tapez-le sur votre application de recherche, en mettant la catégorie {% symbol "XXXXX" for "explorer_unveiler_search_category" %}, pour obtenir des informations sur l'élement en question.*
