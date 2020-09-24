@@ -858,7 +858,7 @@ Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétis
 
 **TODO ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...**
 
-Les trois colliers éthériques
+Les quatre colliers éthériques
 ------------------------------------------------------
 
 Les légendes parlent de plusieurs colliers magiques forgés durant la {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}, et disparus peu après.
