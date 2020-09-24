@@ -753,7 +753,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
   Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
 
 - **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher.
-  Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}
+  Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'isadora_code_for_thanatologue_chest_code' is needed %}
 
 
 - Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une contre-mesure, dans le {% symbol "Thanatologue" for "book_of_the_dead" %}, en appelant à viser en priorité les désenvouteurs du camp adverse. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
@@ -773,7 +773,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 
 - Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé. {% fact "thief_knows_teleportation_device_formula" %}
 
-- Dans le tombeau se trouve la dépouille du mage, ainsi que le {% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %} et un {% symbol "Bandeau Magiprotek" for "antimagic_protection_headband" %}. {% hint 'ring_amplificans' is needed %} {% hint 'antimagic_protection_headband' is needed %}
+- Dans le tombeau se trouve la dépouille du mage, ainsi que le {% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %} et un {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}. {% hint 'ring_amplificans' is needed %} {% hint 'etheric_manaic_aura_necklace' is needed %}
 
 - Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
@@ -830,21 +830,21 @@ Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 
 Dès lors, il doit être évident pour les joueurs que le coupable est le druide. Mais si celui-ci est démasqué, il peut continuer à nier, ou finir par avouer mais livrer les joueurs à un chantage, vu qu’il est plus puissant qu’eux tous ; de toute façon, “maintenant qu’il a accès aux grimoires magiques, il finira bien par savoir comment briser la malédiction de la bibliothèque”. Il garde jalousement le pentacle pour éviter tout coup bas de ce côté-ci, et prévient qu'il sentira sans problème si un autre pentacle est créé dans les environs.
 
-**IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} sans avoir résolu l’enquête de la mort des humains.**
+{# TODO LATER **IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} sans avoir résolu l’enquête de la mort des humains.** #}
 
 Le traître est insensible aux attaques physiques et magiques usuelles, mais il existe différentes façons de l'atteindre :
 
-- Soit confectionner et lui faire boire une **potion magique d’autocombustion**, qui va retourner sa puissance magique contre lui ; cette potion doit impérativement lui être apportée suffisamment tôt, et par l’automate, pour qu’il ne soit pas soupçonneux. TODO NOPE ABORTED
+{# - Soit confectionner et lui faire boire une **potion magique d’autocombustion**, qui va retourner sa puissance magique contre lui ; cette potion doit impérativement lui être apportée suffisamment tôt, et par l’automate, pour qu’il ne soit pas soupçonneux. TODO NOPE ABORTED FOR NOW #}
 
 - Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de trois joueurs pour créer “la balle qui ne pardonne pas”.
 
-- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer forcer la terminaison du rituel de renvoi du druide dans son propre monde. Un oracle évoque cette façon de faire, et met en garde contre une riposte du méchant à l'aide des fantômes ; en effet, en désespoir de cause, le druide utilise la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste. {% fact "druid_uses_table_bell_as_weapon" %} A charge pour les autres joueurs de repousser les spectres (avec l'{% symbol "armure de Mithril" for "arkon_armor_name" %} de l'arkonte, avec des exorcismes) sans se faire attaquer par le druide.
+- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer forcer la terminaison du rituel de renvoi du druide dans son propre monde. Cela nécessite de trouver **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name'" %}.**
+  {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
+
+  Un oracle évoque cette façon de faire, et met en garde contre une riposte du méchant à l'aide des fantômes ; en effet, en désespoir de cause, le druide utilise la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %} A charge pour les autres joueurs de repousser les spectres (avec l'{% symbol "armure de Mithril" for "arkon_armor_name" %} de l'arkonte, avec des exorcismes) sans se faire attaquer par le druide.
 
 
-**IDEE - un joueur doit devenir immortel à force de différents envoûtements.**
-
-{# NOPE - Soit reconstituer un pentacle de renvoi ailleurs, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).  #}
-
+{# NOPE - Soit reconstituer un pentacle de renvoi ailleurs TOO HARD, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).  #}
 
 Si les joueurs attaquent le traître sans avoir le moyen de le tuer, il en tue un (qui devient un fantôme), puis ordonne aux autres de lever la malédiction, sans quoi il tuera un joueur par X minutes. Le jeu tourne donc à la prise d’otages.
 

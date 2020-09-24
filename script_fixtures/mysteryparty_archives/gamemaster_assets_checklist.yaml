@@ -39,7 +39,7 @@
     - "I5 - Recette de l'Elixir Flexifiant (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_flex_elixir' is provided %}"
     - "I6 - Recette de la Lotion de Clairvoyance (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_clarity_lotion' is provided %}"
     - "I7 - Tome 3 du roman du druide entre les étagères de zoologie et de cuisine  {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
-    - "I8 - Potion de tentacule de poulpe {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence"
+    - "I8 - Potion de tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence"
     - "J1 - Grimoire chantant du trésor des Maupertuis {% hint 'chanting_book_with_symbolic_code_puzzle' is provided %}"
     - "J2 - Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
@@ -128,7 +128,7 @@
     - "Crâne humain (@Médiathèque) et ossements divers"
     - "Masque 'anonymous' doré devant le crâne"
     - "Calotte/tiare noir&or sur le crâne"
-    - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %}"
+    - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %}"
     - "{% symbol 'Bague Amplificans' for 'ring_for_magic_amplification_name' %}"
 
     - "Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone)"
@@ -154,7 +154,7 @@
     - "Moulin à poivre enchanté {% hint 'grinding_mill_magical' is provided %}"
     - "Chaudron en cuivre avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %}"
     - "Passoire cylindrique en métal"
-    - "Meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE, avec dedans la potion de vapeurs de thorium{% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
+    - "Meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE, avec dedans la potion de vapeur de Thorium {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "Grand lot de petites bouteilles diverses et de condiments"
     - "Fontaine à encens illuminée LED"
     - "Base de sapin écairante à LEDs (3xAA) @Pascal"
@@ -171,7 +171,7 @@
 -
   - "Corridor de Force Vitale (cul-de-sac)"
   -
-    - "Coffre protégé par XXX et contenant le {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %}"
+    - "Coffre protégé par XXX et contenant le {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %}"
 
 -
   - "Corridor d'Aura Manaïque (cul-de-sac)"
@@ -183,7 +183,7 @@
   - "Corridor de de Peau de Pierre (cul-de-sac)"
   -
     - "Présence de vapeurs toxiques (fioles diverses renversées)"
-    - "Coffre protégé par XXX et contenant le {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %}"
+    - "Coffre protégé par XXX et contenant le {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %}"
     - "Plusieurs potions (dont celle de Fungal Bleu) {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
 
 -
@@ -255,7 +255,8 @@
     - "Encensoir en argent plaqué avec chainettes (pour invoker)"
     - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse) (pour sounder)"
     - "Lampe-tempête Argent (2xPileD incluses)"
-    - "Feuille mémo des codes secrets {% hint 'secret_codes_sheet_for_explorer_runologist' is needed %}"
+    - "Feuille mémo des codes secrets (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %}"
+    - "Journal de Mérédice à propos du trésor familial (pour spy_group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %}"
 
 -
   - "Cadenas et leurs clefs"
@@ -307,10 +308,7 @@
     - "7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
     - "2 flacons-bouteilles de condiments : Curcuma et Coriandre"
 
-    - "1 potion avec tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle' is provided %}"
-    - "1 potion (rouge foncé) de fungal rouge{% hint 'potion_red_mushroom' is provided %}"
-    - "1 potion (orange clair) de fungal bleu {% hint 'potion_blue_mushroom' is provided %}"
+    - "1 potion (rouge foncé) de fungal rouge {% hint 'potion_red_mushroom' is provided %}"
     - "1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
     - "1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
-    - "1 potion de vapeurs de Thorium {% hint 'potion_thorium_steam' is provided %}"
-    - "1 potion Délieur de Langue {% hint 'potion_langue_untier' is provided %}"
+    - "1 potion Délieur de Langue {% hint 'potion_tongue_untier' is provided %}"
