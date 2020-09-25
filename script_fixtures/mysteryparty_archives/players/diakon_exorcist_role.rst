@@ -11,6 +11,9 @@ Mais votre vocation s'est rapidement imposée à vous : exorciste, c'est-à-dire
 Reportez-vous à **l'article en annexe** pour une description détaillée du monde des morts, des connaissances que vous pourrez théâtralement enseigner à vos alliés au cours du jeu, lorsque le sujet se présentera.
 
 
+TODO METTRE EN PLACE UN SYSTEM DE STAMINA XXXXXXX
+
+
 Les rituels d'exorcisme
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
