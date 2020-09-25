@@ -130,7 +130,7 @@
     - "Masque 'anonymous' doré devant le crâne"
     - "Calotte/tiare noir&or sur le crâne"
     - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %}"
-    - "{% symbol 'Bague Amplificans' for 'ring_for_magic_amplification_name' %}"
+    - "{% symbol 'Bague Amplificans' for 'ring_for_magic_amplification_name' %} {% hint 'ring_amplificans' is provided %}"
 
     - "Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone)"
 
@@ -294,6 +294,8 @@
 
     - "Lampe mini-tube blanche autonome à détection de mouvement "
     - "2 cigales en céramique à détection de mouvement"
+
+    - "Canne avec cachette @Cat"
 
     - "Coffret en bois clair et jointures laiton"
     - "Micro-meuble vernis à bijoux"

@@ -56,8 +56,8 @@ Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanit
 
 {% if with_avatar_specifics %}
 
-Ce qu'ont vécu les avatars suite au rituel de l'arkonte
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Le retour des Avatars
++++++++++++++++++++++++++++++++++
 
 *A partir d'ici, connaissances propres uniquement aux avatars.*
 
@@ -772,7 +772,8 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 - L’oracle a une vision d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplifican_artefacts_symbol" %}**.
    {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %}
 
-- L’arkonte se souvient de ce symbole, qui est celui du légendaire **{% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
+- L’arkonte se souvient de ce symbole, qui est entre autres celui de la légendaire **{% symbol "Bague
+Amplificans" for "ring_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
 - Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage ; le seul moyen d'y pénétrer, c'est de s'y téléporter.
 
@@ -1022,7 +1023,7 @@ Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
 
 Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}.
 
-Redoutable magicien, alchimiste, et duelliste, il a mis au pas tous ses adversaires. La légende raconte même qu'il était invulnérable aux sortilèges magiques.
+Redoutable magicien, alchimiste, et duelliste, il a mis au pas tous ses adversaires. La légende raconte qu'il était invulnérable aux sortilèges magiques, et pouvait faire tomber la pluie ou la grêle sur des villes entières, quand ses adversaires ne touchaient jamais plus que quelques ares de terrain à la fois.
 
 Pour éviter tout empoisonnement, il avait appris à générer lui-même de la nourriture à partir de simples roches, connaissance qui est restéee dans sa descendance sous la forme d'une table de banquet magique, située dans la bibliothèque. {% fact "buffet_table_magically_generates_food" %}
 

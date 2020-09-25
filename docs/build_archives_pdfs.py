@@ -73,7 +73,7 @@ PLAYER_MANUAL_PARTS = [
 ]
 
 COMMON_PLAYER_DOCS = [
-    "common_player_sheet.rst",
+    "common_lore_sheet.rst",
 ]
 
 COMMON_NPC_DOCS = [
@@ -285,10 +285,10 @@ def generate_archives_sheets():
     # then the common DOCS for participants
     if True:
         build_archives_pdf(COMMON_PLAYER_DOCS,
-                            filename_base="common_player_information", title="Univers pour les Joueurs",
+                            filename_base="common_lore_information", title="Univers du Jeu",
                             add_page_breaks=True, jinja_context=isolated_data)
         build_archives_pdf(COMMON_NPC_DOCS,
-                            filename_base="common_npc_information", title="Univers des Figurants",
+                            filename_base="common_npc_information", title="Complément des Figurants",
                             add_page_breaks=True, jinja_context=isolated_data)
         build_archives_pdf(COMMON_GAME_RULES,
                             filename_base="common_game_rules", title="Règles du Jeu ",
