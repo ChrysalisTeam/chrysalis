@@ -25,7 +25,8 @@ Alors que vous prépariez vos affaires, satisfait de voir cet étrange confineme
 
 <{ common_npc_instructions }/>
 
-Informations et instructions diverses
+
+Informations et instructions spécifiques
 ========================================
 
 

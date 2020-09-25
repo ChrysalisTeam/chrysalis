@@ -100,6 +100,7 @@
 
     - "Tombe 1 : Journal intime d'Octave parlant ????"
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}"
+    - "Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates {% hint 'androids_command_bracelet' is provided %})"
 
     - "Tombe 2 : CLEF DE QUOI - il avait un coffre au fond de la bibliothèque l'archiviste ???"
 
@@ -245,9 +246,10 @@
   - "Avatars"
   -
     - "Microphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi (pour l'inventeur)"
-    - "Bracelet large argenté de commandement des automates (pour l'inventeur, puis joueur amateur de robotique)"
+    - "Quelques outils (tournevis, mètre-ruban...) (pour l'inventeur)"
     - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, puis joueur oracle)"
     - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
+
 
 -
   - "Joueurs"

@@ -13,7 +13,8 @@ Votre profil
 
 <{ common_npc_instructions }/>
 
-Informations et instructions diverses
+
+Informations et instructions spécifiques
 ========================================
 
 Etant en mauvaise posture dans votre quête du trésor, vous avez décidé de monnayer cher vos informations aux autres explorateurs de cette bibliothèque, quitte à ce qu'ils trouvent avant vous.

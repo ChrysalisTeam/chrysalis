@@ -32,7 +32,8 @@ Ce genre de situation ne dure jamais éternellement. Donc vous attendez, en osci
 
 <{ common_npc_instructions }/>
 
-Informations et instructions diverses
+
+Informations et instructions spécifiques
 ========================================
 
 Vous avez gardé un esprit d'enfance, et vous interpellez parfois les joueurs de façon improbable, en leur racontant des anecdotes de votre relation enfance complice avec votre soeur, en leur demandant quel est leur live ou leur reptile préféré, en leur demandant comment c'est "dehors" maintenant...

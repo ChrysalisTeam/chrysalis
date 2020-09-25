@@ -43,8 +43,7 @@ Vous avez avec vous 2 bâtonnets d'explosif. Vous pouvez en utiliser un pour dé
 Connaissance des mécaniques et des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-# TODO pour être ami avec inventeur, et pouvoir analyser quelques objets mécaniques ???
+Vous avez depuis toujours une passion pour les **inventions mécaniques et robotiques**. Dans votre temps libre, vous avez conçu une horloge à coucou fonctionnant à l'énergie géothermique, un fauteuil à bascule monté sur verrins steamoforce... et vous vous tenez très au courant des dernières avancées dans la construction d'automates basés sur les animaux et les humains. Avec les progrès faits dans les engrenages diphasiques, les compresseur néodymes et les senseurs proprioceptifs, d'ici quelques décennies les machines autonomes se répandront dans le monde, vous en avez la certitude enthousiaste. Même si l'intelligence de ses machines restera pour longtemps très rudimentaire. *Vous pouvez à votre guise inventer des termes scientifiques et des inventions dans ce domaine, tant qu'ils sont dits avec conviction et restent dans ce niveau de technologie 'steampunk'.* {% fact "spy_minesweeper_likes_building_robots" as author %}
 
 
 
-{% fact "spyne_minesceeper_likes_building_robots" as author %}

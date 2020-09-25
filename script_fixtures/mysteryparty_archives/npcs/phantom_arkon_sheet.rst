@@ -47,7 +47,8 @@ Vous avez parlementé avec le garçon avec Octave et l'archiviste qui s'était r
 
 <{ common_npc_instructions }/>
 
-Informations et instructions diverses
+
+Informations et instructions spécifiques
 ========================================
 
 Au tout début de votre parcours initiatique d'arkonte, vous avez retrouvé le légendaire **{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}**. Vous avez décidé de le fondre dans votre {% symbol 'Armure de Mithril' for 'arkon_armor_name' %}, ce qui l'a rendue extrèmement lourde mais vous a protégé intégralement, lorsque vous la portiez, contre les attaques des entités du monde des morts. Vous ne savez ce qu'est devenue votre armure après votre mort. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}

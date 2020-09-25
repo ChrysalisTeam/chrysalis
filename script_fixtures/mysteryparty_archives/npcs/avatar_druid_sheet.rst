@@ -11,7 +11,7 @@ Votre profil
 <{ avatar_druid_character_summary }/>
 
 {% macro avatar_principle_summary() %}
-Vous êtes ce que les mystiques de la planète Terre appellent un **avatar**. C'est-à-dire que vous êtes né de l'imagination d'un écrivain, qui vous a couché par écrit dans un roman, avec tout un univers autour. Mais par un prodige rarissime, un de vos lecteurs a réussi à vous "incarner" dans le monde des vivants.
+Vous êtes ce que les mystiques de la planète Terre appellent un **avatar**. C'est-à-dire que vous êtes un personnage né de l'imagination d'un écrivain, qui vous a couché par écrit dans un roman, avec tout un univers autour. Mais par un prodige rarissime, un de vos lecteurs a réussi à vous "incarner" dans le monde des vivants.
 {% endmacro %}
 <{ avatar_principle_summary }/>
 
@@ -42,9 +42,9 @@ Vous avez donc joué le jeu, et investigué en secret pour débloquer l'accès a
 
 Pendant que l'arkonte réalisait son rituel, et refermait une par une les portails interdimensionnelles, vous êtes revenu dans le monde des vivants via le troisième tome de votre roman. Et vous avez attaqué les humains peu avant que ce ne soit le tour de votre portail. Octave et l'archiviste ont été vaporisés par votre élémentaire de feu avant même d'avoir compris ce qui leur arrivait. L'arkonte, lui, s'est révélé être un terrible adversaire, enchainant les attaques et les défenses sur les plans physiques, magiques, et sacrés – ce dernier étant bien sûr sans effet sur vous. Au milieu de ce déferlement de puissance, vous avez réussi à lui décocher en plein front une flèche au curare, ce qui a assuré votre victoire.
 
-Hélas pour vous, dans son dernier souffle, Valérian a maudit la bibliothèque afin que nul esprit ne puisse en sortir tant que vous-mêmes serez vivant. Son squelette se révélant par ailleurs indestructible, vous avez donc dissimulé son crâne entre les pieds des {% symbol "plantes de la bibliothèque" for "arkon_skull_location" %}, afin d'éviter qu'il ne vous compromette. Lorsque les autres avatars encore libres sont venus, plusieurs jours plus tard, s'enquérir de la situation, ils n'ont pu comprendre ce qui s'était passé ici ; et vous avez joué le jeu de la surprise et de l'effroi.
+Hélas pour vous, dans son dernier souffle, {% symbol "Valerias" for "arkon_name" %} a maudit la bibliothèque afin que nul esprit ne puisse en sortir tant que vous-mêmes serez vivant. Son squelette se révélant par ailleurs indestructible, vous avez dissimulé son crâne entre les pieds des {% symbol "plantes de la bibliothèque" for "arkon_skull_location" %}, afin d'éviter qu'il ne vous compromette. Lorsque les autres avatars encore libres sont venus, plusieurs jours plus tard, s'enquérir de la situation, ils n'ont pu comprendre ce qui s'était passé ici ; et vous avez joué le jeu de la surprise et de l'effroi.
 
-Depuis, vos investigations piétinent, la fouille de l'étage autorisé n'a rien donné, l'étage interdit reste inaccessible, et vous attendez avec impatience que des sorciers humains rouvrent un jour la bibliothèque, afin de reprendre vos plans de conquête du monde.
+Depuis, vos investigations piétinent ; la fouille de l'étage autorisé n'a rien donné, l'étage interdit reste inaccessible, et vous attendez avec impatience que des sorciers humains rouvrent un jour la bibliothèque, afin de reprendre vos plans de conquête du monde.
 
 
 {#
@@ -56,10 +56,10 @@ Hélas, un trouble-fête est venu mettre vos plans en pièces . L'Arkonte Val, s
 
 <{ common_npc_instructions }/>
 
-Informations et instructions diverses
-========================================
+Informations et instructions spécifiques
+=========================================
 
-Demande à heures fixes des boissons à l'automate de service. TODO TODO
+{# NOPE NOT NOW Demander à heures fixes des boissons à l'automate de service. #}
 
 Vous vous posez des questions sur la clochette métallique laissée en évidence, qui, lorsque vous l'essayez, sonne mais ne déclenche rien (car vous ne voyez pas les spectres s'agiter à ce moment) ; ce n'est pas, en tout cas, une trouvaille de l'inveteur et de ses automates.
 En discutant avec les joueurs, ils finiront bien par vous expliquer ce qui se passe lorsqu'elle est utilisée.

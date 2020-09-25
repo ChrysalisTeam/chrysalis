@@ -6,7 +6,7 @@ Heureusement, à ce moment là, des archéologues héliossars ont mis au jour de
 {% macro portal_to_library_opened() %}
 Quelques jours plus tard, comme chaque année depuis des siècles, un portail magique s'est amorcé lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, dans la cave d'un vieux chateau voisin ; un passage permettant de rejoindre, pour une journée seulement, les archives secrètes des Maupertuis. C'est visiblement par ce sortilège que cette famille invitait ses vassaux magiciens du monde entier à célébrer la nouvelle année, même si cette tradition était manifestement oubliée depuis longtemps quand le manoir des Maupertuis fut brûlé.
 
-Il vous a fallu plus d'une demi-journée pour percer le fonctionnement de ce portail et le réveiller entièrement, il vous reste donc **{% symbol "3 heures" for "library_outside_portal_remaining_time" %}** seulement pour explorer les lieux, lorsque vous vous y matérialisez. Mais pour fouiller un vieux tas de livres, cela devrait amplement suffire, n'est-ce pas ?
+Il vous a fallu plus d'une demi-journée pour percer le fonctionnement de ce portail et le réveiller entièrement, il vous reste donc un peu plus de **{% symbol "3 heures" for "library_outside_portal_remaining_time" %}** pour explorer les lieux, lorsque vous vous y matérialisez. Mais pour fouiller un vieux tas de livres, cela devrait amplement suffire, n'est-ce pas ?
 {% endmacro %}
 
 
@@ -14,6 +14,8 @@ Il vous a fallu plus d'une demi-journée pour percer le fonctionnement de ce por
 
 Faction - Les héritiers Parcival
 ============================================
+
+{# Héritier Parcival - Vous descendez d'une grande lignée, et disposez soit d'une force surhumaine, soit de talents d'alchimie, soit de dons de voyance #}
 
 Vous appartenez tous trois à la plus récente génération de la famille Parcival, vivant dans le pays de Slavinka. Une famille qui a hérité, par sa noble lignée, de certaines appétences avec le monde ésotérique.
 L'un de vous est ainsi spécialisé dans les arts alchimiques ; l'autre reçoit ponctuellement des présages sous forme de visions ou de voix ; l'autre, enfin, a développé des facultés physiques et sensorielles impressionnantes en se connectant aux forces invisibles de la Nature.

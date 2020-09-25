@@ -40,14 +40,14 @@ La rencontre des Maupertuis et des Avatars
 
 **La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %}, par rapport au temps du jeu, c'est à dire en l'{% symbol "an 500" for "library_initial_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %} (ère actuelle).**
 
-L'enfant, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, a connu une destinée tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait {% symbol "16 ans" for "maupertuis_daughter_age" %}, a disparu durant ces évènements.
+L'enfant, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, a connu une destinée tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait **{% symbol "16 ans" for "maupertuis_daughter_age" %}**, a disparu durant ces évènements.
 
 {% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur-archiviste **{% symbol "Maître Parchemine" for "archivist_name" %}** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens chateaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, pour une célébration commune de la nouvelle année, même si cette tradition n'avait plus cours depuis longtemps.
 
 Les deux survivants ont vécu là seuls 15 mois durant, le précepteur estimant qu'{% symbol "Octave" for "maupertuis_son" %} n'était pas encore prêt pour affronter la rudesse du dehors. Ils n'ont pu se rendre dans le "domaine interdit" de la bibliothèque, gardé par une Bête, car Octave n'avait pas encore reçu l'initiation lui permettant d'ouvrir le passage vers ce saint-des-saints, contrairement à sa soeur. Esseulé, l'enfant s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une intimité de plus en plus fortes avec les héros de ces oeuvres.
 
 Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’Octave, plusieurs personnages imaginaires se sont réellement incarnés dans la bibliothèque, devenant ainsi ce que l'on appelle des **"avatars"** : un inventeur, un druide, une duchesse, une samuraï, un chevalier, un pilote de biplan...
-L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.
+**L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.**
 L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de jamais sortir de la bibliothèque.
 
 Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) {% symbol "Valerias" for "arkon_name" %}**, de religion yodique (et plus particulièrement de confession mithraïte), qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
@@ -58,7 +58,9 @@ Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanit
 
 *A partir d'ici, connaissances propres uniquement aux avatars.*
 
-Certains de ces avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - inventeur, druide et duchesse - cela n'a pas été le cas. Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier) ; horreur, le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
+Certains de ces avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - l'inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %} (que tout le monde appelle {% symbol "Jacko" for "inventor_nickname" %}), le druide {% symbol "Diviciacos" for "druid_name" %} et la duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %} - cela n'a pas été le cas.
+
+Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier) ; horreur, le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
 
 Eplorés, ces avatars subsistants ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir, mais dont ils ont marqué au sol l'emplacement, avec d'étranges galets phosphorescents trouvés sur place. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis. {% hint "beast_snack_as_moon_stones" is needed %}
 
@@ -151,9 +153,11 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 Le monde des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler, ou comprendre des ordres simples. Ils voient les vivants et les avatars, mais pas les fantômes. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas sacrées ; cependant rien n'est censé leur arriver durant le jeu.
+Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les MJs ; d'autres sont limités à des tâches très précises comme servir les mets et boissons.
 
-Les maîtres de jeu, photographes, et servants du buffet, ont intérêt à faire partie de ce monde là pour un surcroit d'ambiance et une bonne liberté d'action.
+Ces automates voient les vivants et les avatars, mais pas les fantômes. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas sacrées ; cependant rien n'est censé leur arriver durant le jeu.
+
+Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde là pour un surcroit d'ambiance et une bonne liberté d'action.
 
 Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
@@ -419,7 +423,7 @@ L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 
 - A conçu les automates de la bibliothèque
 
-- **TODO Une trousse à outils doit trainer quelque part pour attester de ses travaux ?**
+{# BOF - **TODO Une trousse à outils doit trainer quelque part pour attester de ses travaux ?** #}
 
 - Il peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "avatar_inventor_can_dangerously_heal_missing_limbs" %} (mais c'est dangereux)
 
@@ -1021,7 +1025,7 @@ Pour éviter tout empoisonnement, il avait appris à générer lui-même de la n
 
 Il a créé le chateau familial des Maupertuis, la bibliothèque enfouie, ainsi que le réseau de portails planétaires la reliant aux domaines de ses vassaux.
 
-Il est mort brusquement lors de festivités, à l'approche de ses 50 ans, en s'étouffant avec un noyau de pêche. Il n'avait pas encore tranmis à ses héritiers ses plus importants secrets.
+Il est mort brusquement lors de grandes festivités, à l'approche de ses 50 ans, en s'étouffant avec un noyau de pêche. Il n'avait pas encore tranmis à ses héritiers ses plus importants secrets.
 
 Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèque, dans sa robe de fêtes, sans oser risquer de déclencher quelque malédiction en le toilettant.
 
@@ -1032,26 +1036,26 @@ Les colliers éthériques
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les légendes parlent de plusieurs colliers magiques forgés par des alchimistes durant cette {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}, et disparus peu après.
-Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux. En particulier, sa diction trainante mais tonitruante lors de toutes ses apparitions publiques a déclenché plus d'une suspicion.
+Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux. En particulier, sa diction trainante mais tonitruante lors de toutes ses apparitions publiques a déclenché plus d'une suspicion. {% fact "magus_mos_peratys_often_wore_manaic_aura_necklace" %}
 
-{% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %} (formé de pierres ovales bleutées translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques (contondantes, perçantes ou tranchantes). En contrepartie, il marche et bouge les bras très lentement, tel un golem.
+**{% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}** (formé de pierres ovales bleutées translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques (contondantes, perçantes ou tranchantes). En contrepartie, il marche et bouge les bras très lentement, tel un golem.
 
-{% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %} (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
+**{% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}** (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
 
-{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %} (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas concernés par ce collier.
+**{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}** (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas concernés par ce collier.
 
-{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %} (formé d'anneaux de Mithril) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrèmement lourd. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
+**{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}** (formé d'anneaux de Mithril) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrèmement lourd. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
 
 
-Le déclin magique et l'aura guérisseuse
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Le déclin magique
++++++++++++++++++++++++++++
 
 Dans les siècles suivants, le "contraste magique", c'est à dire la puissance phénoménale de quelques individus par rapport au reste de la population, s'est largement attténué. Bridés par le gout du secret et les limitations d'une pratique artisanale, les arts magiques et ésotériques ont presque partout été dépassés par les technologies guerrières ; ils ont surtout subsisté dans leur coloration religieuse, en lien avec le monde des morts.
 
 Les grandes lignées de magiciens sont tombées l'une après l'autre, à cause de dissensions internes, ou d'agressions populaires plus ou moins justifiées.
 La lignée des Maupertuis a tenu plus longtemps que les autres, grâce à une réputation favorable due à son orientation vers les soins médicinaux.
 
-Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bardée d'envoûtements, se délite peu à peu ; certains murs, entièrement désenvoutés, se sont effondrés. Mais ce processus prendra encore de nombreux siècles ; et certains artefacts continuent de préserver, en isolation, les puissants flux magiques qui les traversent.
+Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bardée d'envoûtements de protection (anti-feu, anti-inondation, anti-casse...), se délite peu à peu ; certains murs, entièrement désenvoutés, se sont effondrés. Mais ce processus prendra encore de nombreux siècles ; et certains artefacts continuent de préserver, en isolation, les puissants flux magiques qui les traversent.
 
 
 Le domaine interdit et la Bête
@@ -1073,7 +1077,7 @@ Au moment de l'attaque du manoir, Mérédice de Maupertuis avait déjà beaucoup
 
 Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il était distrait par ses lectures romanesques et fantastiques.
 
-Il devait bientôt passer son initiation appelée "adoubement", à l'étage interdit, c'est-à-dire :
+Il devait bientôt passer son **initiation appelée "adoubement"**, à l'étage interdit, c'est-à-dire :
 
 - être présenté à la Bête, et recevoir d'elle un serment d'allégeance
 - tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petit boite, parmis un lot, contenait sa broche personnelle

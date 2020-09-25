@@ -61,14 +61,7 @@ Eruditions diverses
 
 TODO, plantes ? Mots compliqués ? Latin ?
 
->>>>>>> CONNAISSANCE DES PRIX DES GEMMES
-
 $$$$$$$ 1er soins ?????????????? $$$$$
 
-
-Expertise de biens
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-CONNAISSANCE DE LA VALEUR DE L'ARGENT ET DES PIERRERIES
 
 
