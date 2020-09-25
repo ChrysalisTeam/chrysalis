@@ -11,8 +11,6 @@ Votre profil
 
 <{ phantom_thief_character_summary }/>
 
-<{ common_npc_instructions }/>
-
 
 Informations et instructions spécifiques
 ========================================

@@ -72,10 +72,16 @@ PLAYER_MANUAL_PARTS = [
     "players/%(player_name)s_role.rst",
 ]
 
-COMMON_LORE_DOCS = [
-    "common_lore.rst",
-    #"common_guests_gallery.rst",
-    "game_rules.rst",
+COMMON_PLAYER_DOCS = [
+    "common_player_sheet.rst",
+]
+
+COMMON_NPC_DOCS = [
+    "common_npc_sheet.rst",
+]
+
+COMMON_GAME_RULES = [
+    "game_rules.rst"
 ]
 
 # BEWARE, be careful when regenerating PDF clues, that their titles and content match well!
@@ -106,11 +112,11 @@ ISOLATED_DOCS = {
     "npc_phantom_thief_sheet": "npcs/phantom_thief_sheet.rst",
     "npc_god_ankou_sheet": "npcs/god_ankou_sheet.rst",
 
-    # FACTIONS
-    "faction_diakon_sheet": "factions/diakon_group_sheet.rst",
-    "faction_explorer_sheet": "factions/explorer_group_sheet.rst",
-    "faction_parcival_sheet": "factions/parcival_group_sheet.rst",
-    "faction_spy_sheet": "factions/spy_group_sheet.rst",
+    # FACTIONS (already included in player sheets)
+    "_faction_diakon_sheet": "factions/diakon_group_sheet.rst",
+    "_faction_explorer_sheet": "factions/explorer_group_sheet.rst",
+    "_faction_parcival_sheet": "factions/parcival_group_sheet.rst",
+    "_faction_spy_sheet": "factions/spy_group_sheet.rst",
 }
 
 
@@ -276,10 +282,16 @@ def generate_archives_sheets():
 
     # -------------
 
-    # then the common LORE doc
+    # then the common DOCS for participants
     if True:
-        build_archives_pdf(COMMON_LORE_DOCS,
-                            filename_base="common_lore_and_rules", title="Univers et Règles du Jeu ",
+        build_archives_pdf(COMMON_PLAYER_DOCS,
+                            filename_base="common_player_information", title="Univers pour les Joueurs",
+                            add_page_breaks=True, jinja_context=isolated_data)
+        build_archives_pdf(COMMON_NPC_DOCS,
+                            filename_base="common_npc_information", title="Univers des Figurants",
+                            add_page_breaks=True, jinja_context=isolated_data)
+        build_archives_pdf(COMMON_GAME_RULES,
+                            filename_base="common_game_rules", title="Règles du Jeu ",
                             add_page_breaks=True, jinja_context=isolated_data)
 
     # -------------

@@ -18,19 +18,11 @@ plaisant avenir à vos enfants et à votre duché.
 
 <{ avatar_arrival_on_earth }/>
 
-<{ common_npc_tragedy_knowledge is_avatar=True }/>
-
-
-<{ common_npc_lore_knowledge }/>
-
-<{ common_npc_instructions }/>
-
 
 Informations et instructions spécifiques
 ==========================================
 
 Personnellement très affectée par le triste sort de vos amis, vous attendez avec impatience la résolution de cette situation, pour peut-être obtenir justice, et surtout libérer les âmes errantes de la maisonnée Maupertuis.
-
 
 
 Les révélations prophétiques

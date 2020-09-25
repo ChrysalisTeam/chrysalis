@@ -31,7 +31,7 @@ Pour une bonne atmosphère, l’idée est que la bibliothèque soit plongée dan
 Histoire du jeu
 ===========================
 
-{% macro common_npc_tragedy_knowledge(is_avatar) %}
+{% macro common_npc_tragedy_knowledge(with_avatar_specifics) %}
 
 La rencontre des Maupertuis et des Avatars
 +++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,15 +54,18 @@ Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_
 
 Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanité, et de laisser l’arkonte renvoyer définitivement les avatars hors de la Terre ; en retour, l’arkonte amènerait avec lui {% symbol "Octave" for "maupertuis_son" %} et l'archiviste, en sécurité, dans un autre pays. Après des adieux déchirants, les personnages imaginaires sont chacun retournés dans leur univers en attendant que le rituel verrouille à nouveau les accès au monde réel.
 
-{% if is_avatar %}
+{% if with_avatar_specifics %}
+
+Ce qu'ont vécu les avatars suite au rituel de l'arkonte
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 *A partir d'ici, connaissances propres uniquement aux avatars.*
 
-Certains de ces avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - l'inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %} (que tout le monde appelle {% symbol "Jacko" for "inventor_nickname" %}), le druide {% symbol "Diviciacos" for "druid_name" %} et la duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %} - cela n'a pas été le cas.
+Certains des avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - l'inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %} (que tout le monde appelle {% symbol "Jacko" for "inventor_nickname" %}), le druide {% symbol "Diviciacos" for "druid_name" %} et la duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %} - cela n'a pas été le cas.
 
 Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier) ; horreur, le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
 
-Eplorés, ces avatars subsistants ont créé un cimétière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouve que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir, mais dont ils ont marqué au sol l'emplacement, avec d'étranges galets phosphorescents trouvés sur place. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis. {% hint "beast_snack_as_moon_stones" is needed %}
+Eplorés, ces avatars subsistants ont créé un cimetière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouvé que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir, mais dont ils ont marqué au sol l'emplacement, avec d'étranges galets phosphorescents trouvés sur place. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis. {% hint "beast_snack_as_moon_stones" is needed %}
 
 La duchesse a, dans son propre monde, reçu d'un devin la révélation que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outre-monde" for "banquet_name" %} en l'honneur des Maupertuis, dans l'attente de la réalisation de cette prophétie.
 
@@ -71,7 +74,7 @@ Mais rien ne s'est passé comme prévu...
 {% endif %}
 
 {% endmacro %}
-<{ common_npc_tragedy_knowledge is_avatar=False }/>
+<{ common_npc_tragedy_knowledge with_avatar_specifics=True }/>
 
 
 Fond de l’intrigue (SPOILER)
@@ -1007,7 +1010,7 @@ Carte du monde de Pangéa
 
 {% macro common_npc_lore_knowledge() %}
 
-Connaissances propres aux personnages de l'ère Maupertuis
+Connaissances des personnages de l'ère Maupertuis
 ============================================================
 
 *Ce que savent tous les avatars et les fantômes, sauf le voleur ; celui-ci connait un peu les vieilles légendes et le contexte du saccage du manoir, mais c'est tout.*

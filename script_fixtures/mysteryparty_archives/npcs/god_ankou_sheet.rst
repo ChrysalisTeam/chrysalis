@@ -10,8 +10,6 @@ Votre profil
 
 XXX TODO EXPLIQUER SON ROLE, DEDUPLIQUER AVEC GAMEMASTER MANUAL
 
-<{ common_npc_instructions }/>
-
 
 Informations et instructions spécifiques
 ========================================

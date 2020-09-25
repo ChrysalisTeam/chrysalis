@@ -16,8 +16,6 @@ Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "library_in
 
 Votre ordre vous avait mis en garde contre ces phénomènes rarissimes par lesquels différents univers s'entremêlaient : leurs propriétés physiques, magiques et spirituelles, partiellement incompatibles, pouvaient donner à de grands drames, même sans mauvaises intentions. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique vers la bibliothèque ne se referme.
 
-<{ common_npc_tragedy_knowledge is_avatar=False }/>
-
 
 La malédiction de la bibliothèque
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -42,10 +40,6 @@ Ou, si vous n'arrivez pas à en trouver un, au moins une personne qui aura juré
 Vous avez parlementé avec le garçon avec Octave et l'archiviste qui s'était réfugié dans ces lieux pleins de savoir et de magie, et vous les avez convaincus de refermer les portails interdits mentionnait-elle, en retour de votre aide pour les sortir d'ici et les mettre à l'abri. Les personnages d'outre monde étaient plus ou moins étés globalement très remontés contre vous, mais ils ont bien du accepté la décision. Vous avez donc il mise en place avantage du rituel, et commencer à refermer les portes une par une.
 
 #}
-
-<{ common_npc_lore_knowledge }/>
-
-<{ common_npc_instructions }/>
 
 
 Informations et instructions spécifiques

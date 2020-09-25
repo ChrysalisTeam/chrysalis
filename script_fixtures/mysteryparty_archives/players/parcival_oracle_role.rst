@@ -22,13 +22,13 @@ Vous pouvez aussi attirer les révélations à vous en marchant dans un lieu au 
 
 
 Les révélations visuelles
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++
 
 Vous avez parfois des images qui s'affichent plusieurs secondes devant vos yeux ; il vous faut alors en saisir le plus vite possible tous les détails, avant que cette vision ne disparaisse à jamais, afin de pouvoir par la suite restituer tout cela à vos proches .
 
 
-Les révélations auditives - ABORTED ?
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Les révélations auditives
+++++++++++++++++++++++++++++++
 
 Vous entendez un dialogue ou autre récit défiler dans votre tête, et vous devez alors le clamer au fil de l'eau, pour que ceux à qui les messages sont destinés puissent les mémoriser.
 
