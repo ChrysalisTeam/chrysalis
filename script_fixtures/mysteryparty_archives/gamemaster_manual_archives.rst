@@ -679,6 +679,7 @@ IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé
 Accéder au domaine interdit (utile à tous)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Un sceau est visible devant les escaliers
 Des carrés retournables, sur un panneau (ou une application sur tablette tactile) {% hint "symbolic_enigma_puzzle_app" is needed %} permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon motif entier pour ouvrir le passage
 
 - Les figurants savent qu'il faut le symbole secret de la famille Maupertuis pour pouvoir ouvrir le passage. {% fact "secret_family_symbol_needed_for_forbidden_zone" %}
@@ -812,7 +813,7 @@ Les différents bijoux :
 - La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est effondré. Il vend donc cette information chèrement et à contre-coeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. {% hint "maupertuis_daughter_jewel_in_metal_box_under_fallen_rocks" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}
 
-Le “livre chantant” se trouve bien rangé, dans la bibliothèque de l’étage interdit, il suffit de prêter l’oreille pour l’entendre. Rentrer le bon symbole dedans déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produise des gemmes à foison. {% hint "chanting_book_with_symbolic_code_puzzle" is needed %}
+Le “livre chantant” se trouve bien rangé, dans la bibliothèque de l’étage interdit, il suffit de prêter l’oreille pour l’entendre. Rentrer le bon symbole dedans déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produise des gemmes à foison. {% hint "symbolic_cards_enigma_app" is needed %}
 
 Avec le moulin et le grimoire chantant résolu, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
