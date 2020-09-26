@@ -200,7 +200,7 @@ La famille Parcival
 
 Ces 3 frères et soeurs sont les lointains descendants de Mérédice de Maupertuis, la soeur d’Octave que tout le monde croyait morte avec sa famille, mais qui avait en réalité pu s’échapper et refaire sa vie.
 
-Ces Parcival ont lu dans l’autobiographie de leur ancêtre Mérédice comment ses parents, magiciens-quérisseurs, l’avaient soignée d’un grand mal héréditaire, la dégénérescence marbrée, grâce à un “Cocktail de Réjuvénation”. Lorsque leur petite soeur commune est tombée malade à son tour (il ne lui reste que quelques semaines à vivre), ils sont partis en quête du remède, et leur enquête les a menés jusqu’aux archives enfouies de l'ancien domaine familial.
+Ces Parcival ont lu dans l’autobiographie de leur ancêtre Mérédice comment ses parents, magiciens-quérisseurs, l’avaient soignée d’un grand mal héréditaire, la dégénérescence marbrée, grâce à un "{% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}". Lorsque leur petite soeur commune est tombée malade à son tour (il ne lui reste que quelques semaines à vivre), ils sont partis en quête du remède, et leur enquête les a menés jusqu’aux archives enfouies de l'ancien domaine familial.
 
 Leurs compétences sont orientées vers la médecine et la magie.
 
@@ -382,7 +382,7 @@ La Bête (la goule gardienne du Domaine Interdit)
 
 - Morte de vieillesse plus d'un siècle après la malédiction de la bibliothèque, et devenue encore plus féroce à force d’errer sans but dans le domaine interdit
 
-- A une véritable addiction pour les {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} (galets phosphorescents) {% fact "beats_is_addicted_to_moon_stones" %}
+- A une véritable **addiction pour** les {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} (galets phosphorescents) {% fact "beast_is_addicted_to_moon_stones" %}
 
 - Ses caractéristiques doivent rester un grand mystère pour les joueurs, afin d’augmenter l’angoisse, et de les forcer à réagir vite pour trouver des solutions, lorsqu’elle apparaît.
 
@@ -544,7 +544,7 @@ Toutes les blessures peuvent aussi être guéries par des avatars, mais ces inte
 - le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "avatar_druid_can_dangerously_heal_limited_injuries" %}
 - l'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "avatar_inventor_can_dangerously_heal_missing_limbs" %}
 
-**Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes blocages que les autres fantômes (malédiction de la bibliothèque, {% symbol "barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet aux corridors piégés et autres lieux dangereux pour les vivants.
+**Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes blocages que les autres fantômes ({% symbol "clôture absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet aux corridors piégés et autres lieux dangereux pour les vivants.
 
 Avec le bon rituel, il est possible de **ressusciter un joueur** à l’état de zombie pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de zombie “à l’ancienne” (ex. il parle bizarrement, peut marcher en titubant mais ne peut pas courir...).
 
@@ -679,20 +679,20 @@ IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé
 Accéder au domaine interdit (utile à tous)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Un sceau est visible devant les escaliers
-Des carrés retournables, sur un panneau (ou une application sur tablette tactile) {% hint "symbolic_enigma_puzzle_app" is needed %} permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon motif entier pour ouvrir le passage
+Un sceau est visible devant les escaliers menant à l'étage interdit. Lorsqu'il est activé, un grimoire apparait ; il montre des carrés retournables, sur un panneau (ou une application sur tablette tactile) {% hint "symbolic_enigma_puzzle_app" is needed %} permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon motif entier pour ouvrir le passage
 
 - Les figurants savent qu'il faut le symbole secret de la famille Maupertuis pour pouvoir ouvrir le passage. {% fact "secret_family_symbol_needed_for_forbidden_zone" %}
 
 - Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé dans le domaine interdit (il en avait la défense absolue, sous peine de mourir sous les coups de la Bête). {% fact "octave_knows_about_secret_family_symbol" %}
 
-- Le symbole de la famille est en UV dans un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_uv_family_symbol" is needed %} qui est dans le coffre commun de la famille.{% hint "family_common_chest_protected_by_code" is needed %}"
-  Ce coffre est protégé part un code, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}" {% hint "family_common_chest_code_spoken_by_venture_prins_fake_book" is needed %} (Octave connait juste ce nom, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”). {% fact "octave_knows_about_murmuring_venture_prins_book" %}
+- Le symbole de la famille est en UV dans un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_uv_family_symbol" is needed %} qui est dans la mallette administrative de la famille. {% hint "family_briefcase_protected_by_code" is needed %}
+  Cette mallette est protégée par le code {% symbol "625-993" for "family_briefcase_code" %}, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}". {% hint "family_brifecase_code_spoken_by_venture_prins_fake_book" is needed %}
+  Octave connait juste ce nom étrange, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”. {% fact "octave_knows_about_murmuring_venture_prins_book" %}
 
 - L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice. {% fact "archivist_knows_venture_prins_location" %}
-   Il faut un stéthoscope, ou à défaut l'aide d'un automate, pour entendre le code diffusé dans le bois du livre, et ainsi ouvrir le coffre commun des Maupertuis.
+   Il faut un stéthoscope, ou à défaut l'aide d'un automate, pour entendre le code diffusé dans le bois du livre, et ainsi ouvrir la mallette des Maupertuis.
 
-- Le code peut aussi être demandé aux parents défunts, plus tard, via l’Ankou.
+- Le code peut aussi être demandé aux parents défunts, plus tard, via l’Ankou, en pire cas.
 
 Une fois la combinaison de ces deux symboles reproduite sur le panneau, un son puissant se fait entendre, et le passage vers le domaine interdit est libre, dans les deux sens.
 
@@ -701,51 +701,46 @@ Neutraliser la bête des Maupertuis (utile à tous)
 
 Lors de la malédiction de la bibliothèque, la goule qui gardait le domaine interdit y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et aigrie, elle est plus dangereuse que jamais.
 
-La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouchée.
+La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouchée. {% beast_ignores_or_fears_other_phantomes" %}
 
-Une fois que l’accès au domaine interdit (habituellement protégé par un puissant {% symbol "barrage absolu" for "ultimate_seal_name" %}) est ouvert, la bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. L’archiviste les encourage donc à planifier de quoi la mettre hors d’état de nuir durablement. {% fact "archivist_warns_players_about_beast_dangerousness" %}
+Une fois que l’accès au domaine interdit (habituellement protégé par un puissant {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}) est ouvert, la bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. L’archiviste les encourage donc à planifier de quoi la mettre hors d’état de nuir durablement. {% fact "archivist_warns_players_about_beast_dangerousness" %}
 
 Pour neutraliser la bête :
 
 - La bête “sent” les vivants qui se trouvent à moins de 3m, mais voit très mal au delà. Il est donc possible de se promener dans le domaine interdit en l’évitant soigneusement, mais cela reste très dangereux.
-   {% fact "npcs_know_how_the_beast_works" %}
+   {% fact "npcs_know_how_the_beast_works_regarding_3m_sight" %}
 
-- L’arkonte avait une {% symbol "armure de Mithril" for "arkon_armor_name" %} sacrée protégeant des attaques “sacrées”, c’est à dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la bête.
-   {% hint "arkon_sacred_armor" is needed %}
+- L’arkonte avait une {% symbol "armure de Mithril" for "arkon_armor_name" %} sacrée protégeant des attaques “sacrées”, c’est à dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la bête. {% hint "arkon_sacred_armor" is needed %}
 
 - **L’exorciste** peut faire fuir la bête pendant quelques temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
 - L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
 
-- La bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même s'il ne peut plus les manger, il se jette dessus quand il en croise. {% hint "beast_snack_as_moon_stones" is needed %}
+- La bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même s'il ne peut plus les manger, il se jette dessus quand il en croise. {% hint "beast_snack_as_moon_stones" is needed %} {% fact "beast_is_addicted_to_moon_stones" %}
 
 - **L’invocateur** connait un rituel capable de “geler” pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
-
-FRIANDISES PIERRE DE LUNE
-
-MURS AMOVIBLES
-
-{# NOPE - **L'alchimiste** peut trouver une potion capable de réaliser un {% symbol "barrage absolu" for "ultimate_seal_name" %} pendant une journée sur u #}
+{# NOT YET - murs amovibles pourraient être déplacés pour encager la bête #}
+{# NOPE - **L'alchimiste** peut trouver une potion capable de réaliser un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} pendant une journée sur u #}
 
 
 Le remède contre la dégénérescence marbrée (famille Parcival)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- L'archiviste se souvient très bien de la maladie de Mérédice de Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un Cocktail de Réjuvénation. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l'étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
+- L'archiviste se souvient très bien de la maladie de Mérédice de Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l'étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
-- Le Cocktail de Réjuvénation demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
+- Le {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %} demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
 
-- Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées?????). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec le **scanner multi-fréquences**. {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
+- Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées?????). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec un **{"% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth). {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
 
-- Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà. {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
+- Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà). {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
-- La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cett recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
+- La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cette recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
 - Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé ; un dans un **corridor toxique** de l’étage interdit (empoisonné à cause d'une potion qui s'est cassée dedans). {% fact "toxic_corridor_is_due_to_spilled_potion" %} ) {# Hint tags for this are in the clues document #}
-  Se téléporter dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir reçu une potion anti-poison, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet artefact. {% hint "recipe_antipoison_potion" is needed %}
+  Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir reçu une potion anti-poison, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet artefact. {% hint "recipe_antipoison_potion" is needed %}
 
-- Enfin, il faut un récipient avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
+- Enfin, il faut un récipient métallique avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 
 - Une fois tous les ingrédients rassemblés (pas besoin de préparer effectivement les potions), la famille a réussi cette mission, à condition qu’elle puisse quitter les lieux.
 
@@ -1044,7 +1039,7 @@ Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dy
 
 **{% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}** (formé de pierres ovales bleutées translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques (contondantes, perçantes ou tranchantes). En contrepartie, il marche et bouge les bras très lentement, tel un golem.
 
-**{% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}** (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
+**{% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}** (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : maladies, poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
 
 **{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}** (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas concernés par ce collier.
 
@@ -1067,11 +1062,11 @@ Le domaine interdit et la Bête
 
 Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes, à haute longévité, et très dangereuses avec leurs longues griffes et leur forte résistance à la magie. Nourries et choyées en échange de leurs bons services, les goules étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres.
 
-Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit (surnommée "La Bête") ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars).
+Lors de la malédiction de a blibliothèque, il restait une goule de garde dans le domaine interdit (surnommée "La Bête") ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars). Elle avait la particularité, étonnante pour son espèce, d'être très myope, **ne voyant plus grand chose à plus de 3m**. {% fact "npcs_know_how_the_beast_works_regarding_3m_sight" %}
 
-L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de goule errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %}
+L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de goule errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %}
 
-Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le symbole secret des Maupertuis, transmis de génération en génération ; l'accès est alors débloqué **pour 3 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "octave_knows_about_secret_family_symbol" %}
+Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le symbole secret des Maupertuis, transmis de génération en génération ; l'accès est alors débloqué **pour 12 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "octave_knows_about_secret_family_symbol" %}
 
 
 La derrière maisonnée des Maupertuis
@@ -1083,9 +1078,10 @@ Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il é
 
 Il devait bientôt passer son **initiation appelée "adoubement"**, à l'étage interdit, c'est-à-dire :
 
-- être présenté à la Bête, et recevoir d'elle un serment d'allégeance
-- tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petit boite, parmis un lot, contenait sa broche personnelle
-- en cas de réussite, recevoir le symbole secret de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois
+- Etre présenté à la Bête, et recevoir d'elle un serment d'allégeance
+- Réussir à activer le **Sceau d'initiation** présent sur place
+- Tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petit boite, parmi un ensemble, contenait sa broche personnelle
+- En cas de réussite, **recevoir le symbole secret** de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois
 
 
 La {% symbol "Clochette Spectrale" for "table_bell_name" %}

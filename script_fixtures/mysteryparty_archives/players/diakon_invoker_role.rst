@@ -44,11 +44,11 @@ Vous pouvez en revanche facilement réactiver un pentacle ou sceau existant, en 
 Stase absolue
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Cette invocation permet d'immobiliser une entité vivante ou morte, pour 6h au moins.  {% fact "diakon_invoker_can_freeze_beast_for_days" %}
+Cette invocation permet d'immobiliser une entité vivante ou morte, pour deux jours au moins.  {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
 Rituel :
 
-- utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
+- Utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
 - Placer à l'intérieur l'entité ciblée, quelque soit son état actuel
 - Réciter trois fois à haute voix "Si tu dois demeurer, au moins ne bouge plus"
 - L'entité doit rester à l'intérieur du pentagone pendant toute la durée du rituel, sans quoi l'envoûtement échoue

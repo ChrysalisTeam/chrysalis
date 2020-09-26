@@ -22,7 +22,7 @@ La malédiction de la bibliothèque
 
 Alors que vous procédiez, dans un tumulte magique, aux rituels successifs de refermement des portails interdimensionnels, une puissance maléfique s'est interposée. Vous l'avez combattue sans relâche, pendant d'interminables minutes, à coups de glaive, de sortilèges et d'exorcisme. Elle encaissait douloureusement vos attaques (sauf celles sacrées, qui ne lui faisaient manifestement rien)... mais elle se régénérait en un clin d'oeil.
 
-Lorsque vous avez reçu un projectile en plein front, vous avez compris que la partie était perdue ; mais dans votre dernier souffle, vous avez lancé une sortilège immémorial, décuplé par la puissance de votre sacrifice : la **{% symbol "clôture absolue" for "library_cursed_enclosure_name" %}**, une malédiction enfermant la bibliothèque entière dans un vortex sacré, un "trou noir" spirituel, qui ne cesserait lorsque votre attaquant serait rayé de ce monde.
+Lorsque vous avez reçu un projectile en plein front, vous avez compris que la partie était perdue ; mais dans votre dernier souffle, vous avez lancé une sortilège immémorial, décuplé par la puissance de votre sacrifice : la **{% symbol "clôture absolue" for "library_cursed_enclosure_name" %}**, une malédiction enfermant la bibliothèque entière dans un vortex sacré, un "trou noir" spirituel, qui ne cesserait que lorsque votre attaquant serait rayé de ce monde.
 
 Depuis, comme vous l'aviez prévu dans votre ultime sacrifice, votre âme fantomatique est restée prisonnière de la bibliothèque ; moins à cause de la sortilège de votre mort - vous savez que cela peut "attacher" temporairement une âme à un lieu - qu'à cause de votre propre malédiction.
 

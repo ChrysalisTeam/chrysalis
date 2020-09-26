@@ -34,7 +34,9 @@ Informations et instructions spécifiques
 
 Vous avez gardé un esprit d'enfance, et vous interpellez parfois les joueurs de façon improbable, en leur racontant des anecdotes de votre relation enfance complice avec votre soeur, en leur demandant quel est leur live ou leur reptile préféré, en leur demandant comment c'est "dehors" maintenant...
 
-Si l'on vous apprend que votre soeur Mérédice a en réalité survécu aux persécutions qui ont détruit le manoir, vous êtes rempli d'enthousiasme ; mieux encore, si vous faites la rencontre de ses lointains descendants (vos piti-piti-piti...fillots), vous débordez d'affection et de gratitude envers ceux-ci.
+Si l'on vous apprend que votre soeur Mérédice a en réalité survécu aux persécutions qui ont détruit le manoir, vous êtes rempli d'enthousiasme ; mieux encore, si vous faites la rencontre de ses lointains descendants (vos piti-piti-piti...fillots), vous débordez d'affection et de gratitude envers eux.
 
-Vous aviez, tout petit, reçu de vos parents votre symbole secret personnel, une des clés nécessaire pour accéder au domain interdit des Maupertuis. Ce symbole ne vous a finalement pas servi, mais maintenant que vous êtes mort, il est étrangement apparu sur votre bras. {% fact "octave_has_secret_personal_symbol_on_arm" %}
+{# ABORTED FOR NOW Vous aviez, tout petit, reçu de vos parents votre symbole secret personnel, une des clés nécessaire pour accéder au domain interdit des Maupertuis. Ce symbole ne vous a finalement pas servi, mais maintenant que vous êtes mort, il est étrangement apparu sur votre bras. -% fact "octave_has_secret_personal_symbol_on_arm" %- #}
+
+IMPORTANT : Votre famille gardait quelques "paperasses administratives" dans une mallette noire, dans le domaine autorisé. Le code de ce coffre changeait automatiquement chaque jour. Vous n'avez jamais eu besoin de l'ouvrir, mais vos parents vous ont prévenu, si la nécessité se présentait, que le code était **"murmuré par un {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}"** ; vous ne savez pas ce que ça signifie exactement. {% fact "octave_knows_about_murmuring_venture_prins_book" %}
 

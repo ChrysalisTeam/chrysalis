@@ -60,6 +60,11 @@ En discutant avec les joueurs, ils finiront bien par vous expliquer ce qui se pa
 Une fois que vous savez qu'il s'agit d'un signal de rappel pour els fantômes, **vous la volez discrètement**, et vous cachez dans votre besace. Ni avatars ni joueurs ne doivent savoir que c'est vosu qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% fact "druid_must_steal_table_bell_when_usage_understood" %} {% fact "druid_uses_table_bell_as_weapon" %}
 
 
+Vous êtes un érudit des animaux et des plantes, et le vocabulaire de votre univers est le même que le vocabulaire très ancien de l'univers des vivants.
+Ainsi, si l'on vous le demande, vous indiquez facilement :
+
+- que "l'arbre éternel" est le sobriquet souvent donné aux oliviers {% fact "druid_knows_that_eternal_tree_is_olive_tree" %}
+- que le "gant-de-renard" est simplement un nom alternatif de la digitale {% fact "druid_knows_that_foxglove_is_digitalis" %}
 
 
 

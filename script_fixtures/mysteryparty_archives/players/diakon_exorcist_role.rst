@@ -47,7 +47,7 @@ Rituel :
 
 **Charme d'esprit**
 
-Vous êtes capable de charmer une créature du monde des morts, qu'elle soit sous forme incarnée ou spectrale ; elle ne change pas de forme, en revanche elle est irrésistiblement attirée par vous pendant 30 secondes, mais se déplace particulièrement lentement. Cela ne lui permet cependant pas de passer à travers les obstacles qui la bloqueraient habituellement.
+Vous êtes capable de charmer une créature du monde des morts, qu'elle soit sous forme incarnée ou spectrale ; elle ne change pas de forme, en revanche elle est irrésistiblement attirée par vous pendant 30 secondes, mais se déplace particulièrement lentement. Cela ne lui permet cependant pas de passer à travers les obstacles qui la bloqueraient habituellement. {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
 Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser que **3 fois par jour**. Il ne touche qu'un seul exprit par invocation.
 
@@ -59,7 +59,7 @@ Rituel :
 
 **Libération d'ancrage spirituel**
 
-Si vous rencontrez un fantôme ancré dans une petite zone - typiquement le lieu de sa mort - lorsqu'il est sous forme incarnée, ce rituel vous permet de le libérer pour toujours de cette chaine invisible. Il restera néanmoins par le suite soumis aux contraintes d'un possible {% symbol "barrage absolu" for "ultimate_seal_name" %}, ou autre sortilège contraignant, dressé sur sa route.
+Si vous rencontrez un fantôme ancré dans une petite zone - typiquement le lieu de sa mort - lorsqu'il est sous forme incarnée, ce rituel vous permet de le libérer pour toujours de cette chaine invisible. Il restera néanmoins par le suite soumis aux contraintes d'un possible {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}, ou autre sortilège contraignant, dressé sur sa route.
 
 TODO TODO
 

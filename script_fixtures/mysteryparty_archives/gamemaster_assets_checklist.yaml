@@ -3,7 +3,7 @@
   - "Emplacements décorés voire illuminés aux 2 étages"
   -
     - "P1 - Plan de l'étage autorisé, avec en signe UV les localisations de : le TOMBEAU {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %}"
-    - "P2 - Plan du domaine interdit {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
+    - "P2 - Plan du domaine interdit désignant l'étagère des teintures {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
 
     - "F1 - Coin du fantôme de l’archiviste"
     - "F2 - Coin du fantôme de l’enfant"
@@ -12,9 +12,9 @@
 
     - "L1 - Buffet dinatoire des 3 mondes"
     - "L2 - Pentacle du rituel inachevé de l’arkonte"
-    - "L3 - Barrières magiques devant les escaliers du domaine interdit (avec le grimoire d'énigme puzzle symbolique) {% hint 'symbolic_enigma_puzzle_app' is provided %}"
+    - "L3 - Barrières magiques devant les escaliers du domaine interdit, et SCEAU lumineux (1 LONGUE Guirlandee de Noël multicolore réglable @Pascal) faisant apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %}"
     - "L4 - Cimetière (tombes de l’enfant, de l’archiviste et de l’arkonte)"
-    - "L5 - Coffre familial commun des Maupertuis"
+    - "L5 - Mallette administrative noire des Maupertuis"
     - "L6 - Mini-jungle de grandes plantes en pot"
     - "L7 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
     - "L8 - Sonnette de table argentée d'appel aux spectres"
@@ -34,13 +34,13 @@
   -
     - "I1 - Livre factice bleu (contient la clef du livre factice rouge et XXX pierreries), marqué au sol"
     - "I2 - Livre factice bleu (montre en magnétisme le code du livre factice bleu, contient la broche du père Maupertuis), marqué au sol {% hint 'maupertuis_father_jewel_in_twin_books' is provided %}"
-    - "I3 - Livre 'Venture Prins' murmurant le code du coffre commun familial des Maupertuis {% hint 'family_common_chest_code_spoken_by_venture_prins_fake_book' is provided %}"
-    - "I4 - Recette du Cocktail de Réjuvénation (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
+    - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %}"
+    - "I4 - Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
     - "I5 - Recette de l'Elixir Flexifiant (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_flex_elixir' is provided %}"
     - "I6 - Recette de la Lotion de Clairvoyance (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_clarity_lotion' is provided %}"
     - "I7 - Tome 3 du roman du druide entre les étagères de zoologie et de cuisine  {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
-    - "I8 - Potion de tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence"
-    - "J1 - Grimoire chantant du trésor des Maupertuis {% hint 'chanting_book_with_symbolic_code_puzzle' is provided %}"
+    - "I8 - Potion de tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence, ainsi que Micro-meuble vernis pour bijoux"
+    - "J1 - SCEAU lumineux (1 MOYENNE Guirlandee de Noël multicolore réglable @Pascal) faisant apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %}"
     - "J2 - Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
 
@@ -57,7 +57,7 @@
   - "Pentacle du rituel inachevé de l’arkonte"
   -
     - "10 cylindres LEDs remote-controlled Kitosun"
-    - "2 Guirlandes de Noël multicolores réglables @Pascal"
+    - "1 LONGUE Guirlandee de Noël multicolore réglable @Pascal"
 
 -
   - "Coin du fantôme de l’archiviste"
@@ -65,6 +65,9 @@
     - "Grande enceinte Vintage avec Jack3.5/Bluetooth"
     - "Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth"
     - "Lampe-tempête Bronze (2xPileD incluses)"
+    - "Stroboscope LED (4xAA)"
+    - "Projecteur directionnel 220v @Poncet (pour les escaliers)"
+    - "4 néons LED Black Light (USB))"
 
 -
   - "Coin du fantôme de l’enfant (près de la jungle)"
@@ -85,13 +88,20 @@
     - "1 Guirlande lumineuse avec lierre vert 2m (2xAA)"
 
 -
-  - "Coffre commun (bois marron) des Maupertuis (protégé par une clef) {% hint 'family_common_chest_protected_by_code' is provided %}"
+  - "Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %}"
   -
     - "Livret généalogique des Maupertuis avec leur symbole familial secret en ultraviolet {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
     - "Carnet de notes personnel du père Maupertuis, avec un des codes du coffret légendaire en anamorphose {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis' is provided %}"
+
+-
+  - "Coffre commun en bois marron des Maupertuis (protégé par un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed' %}"
+  -
     - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse + ECOUTEURS dans mini-boite de carton noir qui murmure"
     - "Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %}"
     - "Néon UV auto-alimenté"
+    - "Objets divers sans intérêt: XXXXXXXXXXX"
+    - "TODO AUTRE CHOSE INTERESSANTE XXXXXXXX"
+    - "Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app' is provided %}"
 
 -
   - "Cimetière"
@@ -102,7 +112,7 @@
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}"
     - "Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates {% hint 'androids_command_bracelet' is provided %})"
 
-    - "Tombe 2 : CLEF DE QUOI - il avait un coffre au fond de la bibliothèque l'archiviste ???"
+    - "Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided' %}"
 
     - "Tombe 3 : Squelette 28 os sans crâne de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %}"
     - "Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %}"
@@ -153,21 +163,27 @@
   -
     - "La table doit 'murmurer' à travers le bois ce message : XXXXXXXXXXXXXXXXXXXXXX ??"
     - "Moulin à poivre enchanté {% hint 'grinding_mill_magical' is provided %}"
-    - "Chaudron en cuivre avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %}"
+    - "Chaudron en cuivre avec ENCHANTEMENT d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %}"
     - "Passoire cylindrique en métal"
     - "Meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE, avec dedans la potion de vapeur de Thorium {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "Grand lot de petites bouteilles diverses et de condiments"
     - "Fontaine à encens illuminée LED"
     - "Base de sapin écairante à LEDs (3xAA) @Pascal"
     - "Support cylindrique éclairant à LEDs (3xAAA) @Vero"
+    - "7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
+    - "2 flacons-bouteilles de condiments : Curcuma et Coriandre"
 
 -
   - "Laboratoire de gemmologie"
   -
-    - XXXXXXX
+    - "3 faux-galets creux"
     - "Mini-globe terrestre"
     - "Boule plasma Pearl (USB ou 4xAAA)"
     - "Guirlande multicolore SilverWireLights (3xAA) @Cat"
+    - "Lot de petites pierres du monde avec étiquettes"
+    - "Cristaux et pierres diverses"
+    - "3 faux-galets creux"
+    - "Coffret en bois clair et jointures laiton PIÉGÉ"
 
 -
   - "Corridor de Force Vitale (cul-de-sac)"
@@ -220,9 +236,9 @@
   - "Indices et objets à là disposition du maître de jeu"
   -
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_ring_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %}"
-    - "Un des codes du coffret légendaire des Maupertuis, celui connu de la mère des Maupertuis, si elle est interrogée depuis l'au-delà {% hint 'isadora_code_for_thanatologue_chest_code' is provided %} XXXXXX"
+    - "Le code de la mallette administrative noire ({% symbol '625-993' for 'family_briefcase_code' %}) si les joueurs le demandent aux défunts via l'Ankou"
+    - "Un des codes du coffret légendaire des Maupertuis, celui de la mère des Maupertuis, si elle est interrogée depuis l'au-delà {% hint 'isadora_code_for_thanatologue_chest_code' is provided %} XXXXXX"
     - "Broche de Meredice, trouvée par les joueurs si le bon éboulement est dynamité {% hint 'maupertuis_daughter_jewel_in_metal_box_under_fallen_rocks' is provided %}"
-    - "Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app' is provided %}"
 
 -
   - "Fantômes"
@@ -250,7 +266,6 @@
     - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, puis joueur oracle)"
     - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
 
-
 -
   - "Joueurs"
   -
@@ -274,7 +289,7 @@
 -
   - "Vérifications préalables"
   -
-    - "Les 4 broches doivent avoir les symboles XXXXXX"
+    - "Les 4 broches doivent avoir les symboles [moon, heart, arrow, circle]"
     - "La page web du puzzle des symboles familiaux doit fonctionner"
     - "La page web des cartes symboliques du grimoire chantant doit fonctionner"
     - "La page web des indices divers (identifiés par un code unique) doit fonctionner"
@@ -283,10 +298,12 @@
   - "logistique et décorations diverses"
   -
     - "Boite de maquillage spécial UV"
-    - "Projecteur directionnel 220v @Poncet devant les escaliers"
+
+    - "Batterie plate blanche LifeDom 18Wh"
+    - "Batterie USB Duracell PB2 24.3Wh"
+    - "2 batteries haute capacité Maxoak K2"
 
     - "Jarre lumineuse NewYang (batterie solaire incluse)"
-    - "4 néons LED Black Light (USB))"
 
     - "6 Guirlandes lumineuses LED BXROIU 2m (chacune 2xCR2032 incluses)"
 
@@ -297,24 +314,12 @@
 
     - "Canne avec cachette @Cat"
 
-    - "Coffret en bois clair et jointures laiton"
-    - "Micro-meuble vernis à bijoux"
-    - "Stroboscope LED (4xAA)"
-    - "3 faux-galets creux"
-
-    - "Batterie plate blanche LifeDom 18Wh"
-    - "Batterie USB Duracell PB2 24.3Wh"
-    - "2 batteries haute capacité Maxoak K2"
-
     - "6 papillons volants à élastique"
 
     - "2 lanternes rouges Clivra (2xLR20D chacune)"
-    - "1 lanterne cuivre (PILES???)"
+    - "1 lanterne cylindrique base cuivre (PILES???)"
     - "8 chandelles blanches (3xAA chacune)"
     - "3 cadres noirs Clivra format A5 (fragiles)"
-
-    - "7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
-    - "2 flacons-bouteilles de condiments : Curcuma et Coriandre"
 
     - "1 potion (rouge foncé) de fungal rouge {% hint 'potion_red_mushroom' is provided %}"
     - "1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"

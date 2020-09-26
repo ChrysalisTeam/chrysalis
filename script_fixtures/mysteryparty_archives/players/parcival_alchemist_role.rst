@@ -15,6 +15,8 @@ Les ingrédients que vous possédez
 
 Au domicile familial : Alchémille, Bile de tatou, Chrysope, Champignon écarlate, Digitale, Essence de ciguë, Ether, Foie de chauve-souris, Huile de ricin, Joubarbe, Livèche, Mandragore, Œil de triton, Pierre de lune, Polygonum, Rosée d'éclair, Sang de salamandre, Sumac vénéneux, Seigle barbaquin, Venin de tarantule.
 
+{% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
+
 Sur vous lors de votre expédition: <TODO A LISTER>
 
 
@@ -31,8 +33,10 @@ Les recettes que vous connaissez déjà
 
 - <TODO A LISTER>
 
+POTION DE PUANTEUR
+POTION DE STAMINA POUR EXORCISTE
 
-
+TODO POTION ANTIPOISON ICI OU AILLEURS ?  {% hint "recipe_antipoison_potion" is provided %}
 
 
 Vos connaissances sur les différents types de blessures
