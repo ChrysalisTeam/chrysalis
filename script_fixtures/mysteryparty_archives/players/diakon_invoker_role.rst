@@ -41,10 +41,10 @@ Vous pouvez en revanche facilement réactiver un pentacle ou sceau existant, en 
 
 
 
-Stase spirituelle
+Stase absolue
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Cette invocation permet d'immobiliser un esprit vivant ou mort, pour 6h au moins.  {% fact "diakon_invoker_can_freeze_beast_for_days" %}
+Cette invocation permet d'immobiliser une entité vivante ou morte, pour 6h au moins.  {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
 Rituel :
 
@@ -79,7 +79,7 @@ Bénédiction de terrain
 
 
 
-Clef mystique
+Clef mystique - alreay said with SEALS
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 (pour épreuve d'octave)

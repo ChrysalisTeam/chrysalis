@@ -629,7 +629,7 @@ Idées diverses à caser
 
 IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé, il doit être expliqué pourquoi tel ou tel élément leur a échappé (règles de magie différentes, nécessités de + de gens pour un rituel…)
 
-- L’entrée normal du manoir, celle menant à la surface, a été définitivement fermée par les parents Maupertuis pour protéger leur enfant.
+- L’entrée normal du manoir, celle menant à la surface, a été définitivement fermée par les parents Maupertuis pour protéger leur enfant. NOPE OTHER
 
 - Avatar “sorcière” prévient tous que prophétie de GRAVE DANGER pour le monde ? Mais ils pensent tous que c’est la bête.
 
@@ -665,15 +665,15 @@ IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé
 
 - Le bourrin a une compétence INTUITION ? nope mais oracle oui
 
-- Quid des oracles délivrés par les GRILLONS ???
+- Quid des oracles délivrés par les GRILLONS ??? nope
 
-- Faire un coin avec des jouets d’enfants ? ou Un niche du monstre ?
+- Faire un coin avec des jouets d’enfants ? ou Un niche du monstre YEP ?
 
-- Des objets sont CASSES, à réparer par inventeur : detecteur de metaux n’a plus de pile, boite à musique n’a plus de tourniquet ?
+- Des objets sont CASSES, à réparer par inventeur : detecteur de metaux n’a plus de pile, boite à musique n’a plus de tourniquet, membres arrachés ?
 
 - Un des joueurs est ERUDIT, peut déchiffrer les mots perdus depuis longtemps
 
-- Device pour prendre le controle des automates ?
+- Device pour prendre le controle des automates ? yep bracelet
 
 
 Accéder au domaine interdit (utile à tous)
@@ -772,8 +772,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 - L’oracle a une vision d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplifican_artefacts_symbol" %}**.
    {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %}
 
-- L’arkonte se souvient de ce symbole, qui est entre autres celui de la légendaire **{% symbol "Bague
-Amplificans" for "ring_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
+- L’arkonte se souvient de ce symbole, qui est entre autres celui de la légendaire **{% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
 - Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage ; le seul moyen d'y pénétrer, c'est de s'y téléporter.
 
@@ -846,7 +845,7 @@ Le traître est insensible aux attaques physiques et magiques usuelles, mais il 
 
 - Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de trois joueurs pour créer “la balle qui ne pardonne pas”.
 
-- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer forcer la terminaison du rituel de renvoi du druide dans son propre monde. Cela nécessite de trouver **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name'" %}.**
+- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer forcer la terminaison du rituel de renvoi du druide dans son propre monde. Cela nécessite de trouver **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}.**
   {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
 
   Un oracle évoque cette façon de faire, et met en garde contre une riposte du méchant à l'aide des fantômes ; en effet, en désespoir de cause, le druide utilise la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %} A charge pour les autres joueurs de repousser les spectres (avec l'{% symbol "armure de Mithril" for "arkon_armor_name" %} de l'arkonte, avec des exorcismes) sans se faire attaquer par le druide.

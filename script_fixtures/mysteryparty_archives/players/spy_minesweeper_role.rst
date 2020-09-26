@@ -25,7 +25,7 @@ Vous êtes capable de désactiver les pièges à l'ancienne, qui pullulent dans 
 
 TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 
-GRELOTS AVEC ELASTIQUES !!!!
+TODO GRELOTS AVEC ELASTIQUES !!!!
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> A SYSTEM DE CODE AUSSI !!!!!!!!!?????
 
