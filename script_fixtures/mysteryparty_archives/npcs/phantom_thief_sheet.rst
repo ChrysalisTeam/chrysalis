@@ -24,7 +24,7 @@ Important : vous devez **vider** en hors-jeu cette pochette chaque fois que vous
 
 **Informations à revendre**
 
-- Vous savez que la broche en laiton de Mérédice de Maupertuis, évoquée dans les souevnirs de certaisn de ses descendants, était une pièce importante pour avoir accès au trésor ; elle laissait cette broche dans son petit bureau d'études d'occultisme, qui trônait **dans le coin du domaine interdit, par delà le laboratoire d'alchimie**. {% fact "meredice_jewel_is_under_rubbles_beyond_alchemist_laboratory" %}. PRIX : **XXXXXX kashes**.
+- Vous savez que la broche en laiton de Mérédice de Maupertuis, évoquée dans les souevnirs de certains de ses descendants, était une pièce importante pour avoir accès au trésor ; elle laissait cette broche dans son petit bureau d'études d'occultisme, qui trônait **dans le coin du domaine interdit, par delà le laboratoire d'alchimie**. {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}. PRIX : **XXXXXX kashes**.
 
 - La formule magique pour activer votre {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} est **"Astrolabe, transporte moi là-bas"** {% fact "thief_knows_teleportation_device_formula" %}. On peut l'utiliser autant de fois qu'on veut, mais vous prévenez qu'il faut attendre {% symbol '30 secondes' for 'thief_teleportation_device_cooldown' %} entre chaque téléportation. PRIX : **XXXXXXXXX**
 
