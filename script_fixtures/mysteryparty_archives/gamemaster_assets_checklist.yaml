@@ -94,9 +94,9 @@
     - "Carnet de notes personnel du père Maupertuis, avec un des codes du coffret légendaire en anamorphose {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis' is provided %}"
 
 -
-  - "Coffre commun en bois marron des Maupertuis (protégé par un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed' %}"
+  - "Coffre commun en bois marron des Maupertuis (protégé par un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %}"
   -
-    - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse + ECOUTEURS dans mini-boite de carton noir qui murmure"
+    - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse + ECOUTEURS dans mini-boite de carton noir qui murmure WHAT XXXXX"
     - "Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %}"
     - "Néon UV auto-alimenté"
     - "Objets divers sans intérêt: XXXXXXXXXXX"
@@ -112,7 +112,7 @@
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}"
     - "Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates {% hint 'androids_command_bracelet' is provided %})"
 
-    - "Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided' %}"
+    - "Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided %}"
 
     - "Tombe 3 : Squelette 28 os sans crâne de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %}"
     - "Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %}"

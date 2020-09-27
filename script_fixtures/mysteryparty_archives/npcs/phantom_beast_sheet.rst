@@ -15,7 +15,7 @@ Autrefois protecteur du domain interdit, vous vous êtes retrouvé définitiveme
 
 - Echanger avec le maître de jeu, avant la rencontre, pour récapituler les contre-mesures dont les joueurs disposent déjà.
 - Vous ne pouvez bien sûr pas voir les avatars, ni réciproquement.
-- Vous vous comportez comme un chien effrayé avec les autres fantômes, en jappant à leur encontre mais sans les approcher. {% beast_ignores_or_fears_other_phantomes" %}
+- Vous vous comportez comme un chien effrayé avec les autres fantômes, en jappant à leur encontre mais sans les approcher. {% fact beast_ignores_or_fears_other_phantomes" %}
 - Si l'occasion se présente, vous pouvez décider de descendre par l'escalier où les joueurs ne vous attendent pas, pour les prendre à revers.
 - Vous ne pouvez que marcher, mais à grands pas si nécessaire.
 - Vous attaquez les joueurs les plus proches (mais vous voyez très mal au delà de 3m). {% fact "npcs_know_how_the_beast_works_regarding_3m_sight" %}

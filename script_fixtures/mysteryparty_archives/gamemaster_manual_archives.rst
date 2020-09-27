@@ -522,6 +522,8 @@ Un point d'attention : de même que les blessures "biologiques", même soignées
 Concrètement : les cas possibles durant le jeu
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+{% macro injury_cases_and_remedies() %}
+
 Un joueur peut être blessé dans les cas suivants :
 
 - S’il se fait toucher par un fantôme (incarné ou non) : blessure sacrée (si la Bête s'acharne sur un joueur non protégé, elle finit par le tuer)
@@ -540,13 +542,16 @@ Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux
 
 Toutes les blessures peuvent aussi être guéries par des avatars, mais ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur) : {% fact "avatar_abilities_are_randomly_hazardous" %}
 
-- la **duchesse** peut invoquer ses propres dieux, avec l'aide des diacres, pour réparer une blessure sacrée {% fact "avatar_duchess_can_dangerously_heal_sacred_injuries" %}
+- la **duchesse** peut invoquer ses propres dieux, avec l'aide des diacres, pour réparer une blessure sacrée (touchant l'âme) {% fact "avatar_duchess_can_dangerously_heal_sacred_injuries" %}
 - le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "avatar_druid_can_dangerously_heal_limited_injuries" %}
 - l'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "avatar_inventor_can_dangerously_heal_missing_limbs" %}
 
 **Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes blocages que les autres fantômes ({% symbol "clôture absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet aux corridors piégés et autres lieux dangereux pour les vivants.
 
 Avec le bon rituel, il est possible de **ressusciter un joueur** à l’état de zombie pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de zombie “à l’ancienne” (ex. il parle bizarrement, peut marcher en titubant mais ne peut pas courir...).
+
+{% endmacro %}
+<{ injury_cases_and_remedies }/>
 
 
 Événements rythmant le jeu
@@ -701,7 +706,7 @@ Neutraliser la bête des Maupertuis (utile à tous)
 
 Lors de la malédiction de la bibliothèque, la goule qui gardait le domaine interdit y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et aigrie, elle est plus dangereuse que jamais.
 
-La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouchée. {% beast_ignores_or_fears_other_phantomes" %}
+La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouchée. {% fact "beast_ignores_or_fears_other_phantomes" %}
 
 Une fois que l’accès au domaine interdit (habituellement protégé par un puissant {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}) est ouvert, la bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. L’archiviste les encourage donc à planifier de quoi la mettre hors d’état de nuir durablement. {% fact "archivist_warns_players_about_beast_dangerousness" %}
 
@@ -752,7 +757,7 @@ Un des rares exemplaires de ce mythique et controversé ouvrage a été conserv�
 
 - Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre (l’archiviste le sait et le dit par avance).   VOYANCE DECLENCHEE SUR CE COFFRE
 
-- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans le coffre familial (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis" is needed %}
+- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans le coffre familial (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis" is needed %}  TODO FIXME NOPE LE BOUGER AILLEURS, PAS LE METTRE ICI AUSSI
   Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
 
 - **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher.
@@ -1072,7 +1077,7 @@ Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer su
 La derrière maisonnée des Maupertuis
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Au moment de l'attaque du manoir, Mérédice de Maupertuis avait déjà beaucoup progressé dans les arts magiques, et en particulier - comme ses parents - dans les impositions de mains et potions de guérison. Mais laissait toujours la plupart de ses affaires dans la bibliothèque, de peur de les perdre lors de ses excursions d'herboristerie dans les environs.
+Au moment de l'attaque du manoir, Mérédice de Maupertuis avait déjà beaucoup progressé dans les arts magiques, et en particulier - comme ses prédecesseurs - dans les potions et gemmes de guérison. Elle travaillait régulièrement dans les **cabinets d'alchimie et de gemmologie de l'étage interdit**. Elle laissait d'ailleurs la plupart de ses affaires dans la bibliothèque, de peur de les perdre lors de ses excursions d'herboristerie dans les environs, ou en cas de cambriolage du manoir.
 
 Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il était distrait par ses lectures romanesques et fantastiques.
 

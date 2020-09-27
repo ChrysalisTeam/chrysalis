@@ -28,7 +28,7 @@ Important : vous devez **vider** en hors-jeu cette pochette chaque fois que vous
 
 - La formule magique pour activer votre {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} est **"Astrolabe, transporte moi là-bas"** {% fact "thief_knows_teleportation_device_formula" %}. On peut l'utiliser autant de fois qu'on veut, mais il faut attendre {% symbol '15 secondes' for 'thief_teleportation_device_cooldown' %} entre chaque téléportation. PRIX : **XXXXXXXXX**
 
-- Vous aviez mis la main sur un précieux coffret à bijoux ayant appartenu à la jeune {% symbol "Isadora" for "maupertuis_mother" %} ; personne n'avait réussi à l'ouvrir, mais votre talent auditif vous a permis de découvir le nombre attendu par les engrenages : **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. Avec un peu de chance, elle a continué à utilisé ce code pour protéger d'autres secrets.  PRIX : **XXXXXXXXX**
+- Vous aviez mis la main sur un précieux coffret à bijoux ayant appartenu à la jeune {% symbol "Isadora" for "maupertuis_mother" %} ; personne n'avait réussi à l'ouvrir, mais votre talent auditif vous a permis de découvir le nombre attendu par les engrenages : **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. Avec un peu de chance, elle a continué à utilisé ce code pour protéger d'autres secrets.  PRIX : **XXXXXXXXX** {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}
 
 
 Estimation des monnaies et gemmes
