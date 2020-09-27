@@ -42,9 +42,9 @@ La rencontre des Maupertuis et des Avatars
 
 L'enfant, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, a connu une destinée tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait **{% symbol "16 ans" for "maupertuis_daughter_age" %}**, a disparu durant ces évènements.
 
-{% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur-archiviste **{% symbol "Maître Parchemine" for "archivist_name" %}** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens chateaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, pour une célébration commune de la nouvelle année, même si cette tradition n'avait plus cours depuis longtemps.
+{% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur **{% symbol "Maître Parchemine" for "archivist_name" %}** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens chateaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, pour une célébration commune de la nouvelle année, même si cette tradition n'avait plus cours depuis longtemps.
 
-Les deux survivants ont vécu là seuls 15 mois durant, le précepteur estimant qu'{% symbol "Octave" for "maupertuis_son" %} n'était pas encore prêt pour affronter la rudesse du dehors. Ils n'ont pu se rendre dans le "domaine interdit" de la bibliothèque, gardé par une Bête, car Octave n'avait pas encore reçu l'initiation lui permettant d'ouvrir le passage vers ce saint-des-saints, contrairement à sa soeur. Esseulé, l'enfant s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une intimité de plus en plus fortes avec les héros de ces oeuvres.
+Les deux survivants ont vécu là seuls 15 mois durant, le précepteur estimant qu'{% symbol "Octave" for "maupertuis_son" %} n'était pas encore prêt pour affronter la rudesse du dehors. Ils n'ont pu se rendre dans le "domaine interdit" de la bibliothèque, gardé par une Bête, car Octave n'avait pas encore reçu l'initiation lui permettant d'ouvrir le passage vers ce saint-des-saints, contrairement à sa soeur. {% symbol "Maître Parchemine" for "archivist_name" %} s'est improvisé archiviste pour passer le temps, et a commencé un inventaire des livres "non bizarres" accessibles. {% fact "archivist_began_cataloging_books" %} Esseulé, l'enfant s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une intimité de plus en plus fortes avec les héros de ces oeuvres.
 
 Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’Octave, plusieurs personnages imaginaires se sont réellement incarnés dans la bibliothèque, devenant ainsi ce que l'on appelle des **"avatars"** : un inventeur, un druide, une duchesse, une samuraï, un chevalier, un pilote de biplan...
 **L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.**
@@ -266,7 +266,7 @@ Octave de Maupertuis (l’enfant)
 
 - Octave ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu, ni pourquoi il est ancré à un endroit précis.
 
-- Excité d’apprendre que les joueurs ont croisé l’archiviste (l’enfant sait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
+- Excité d’apprendre que les joueurs ont croisé son précepteur (l’enfant sait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
 
 - Passionné de littérature fantastique et autres livres.
 
@@ -289,9 +289,15 @@ Octave de Maupertuis (l’enfant)
 
 - Traits : jovialité, sagesse, bienveillance, paternalisme, méticulosité
 
-- L’archiviste ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu (soupçonne une trahison de l’arkonte), ni pourquoi il est ancré à un endroit précis.
+- Sage et un peu érudit, mais a très peu de connaissances en magie.
 
-- Excité d’apprendre que les joueurs ont croisé l’enfant (l’archiviste sait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
+- Il enseignait principalement à Octave ses humanités (sciences, lettres...), laissant aux parents le soin de transmettre leur héritage de magiciens.
+
+- Il a tiré profit de leur enfermement initial dans la bibliothèque, suite au saccage du manoir, pour s'improviser archiviste, et commencer à trier l'étage autorisé. Il prenait juste soin de ne pas manipuler les grimoires aux allures louches. {% fact "archivist_began_cataloging_books" %}
+
+- Le précepteur ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu (soupçonne une trahison de l’arkonte), ni pourquoi il est ancré à un endroit précis.
+
+- Excité d’apprendre que les joueurs ont croisé l’enfant (le précepteur sait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
 
 - Se demande ouvertement si ce n’est pas son oeuvre d’inventaire et rangement complet de la bibliothèque, inachevée, qui le retient dans ce monde.
 
@@ -378,7 +384,7 @@ La Bête (la goule gardienne du Domaine Interdit)
 
 - Engagée par les parents d’Octave pour garder les grimoires les plus dangereux, dans le Domaine interdit
 
-- Ne reconnaît personne comme ami (seuls les parents d’Octave et Mérédice avaient pouvoir sur elle, ni l’archiviste ni Octave n’auraient été épargnés s’ils avaient pénétré dans le domaine interdit)
+- Ne reconnaît personne comme ami (seuls les parents d’Octave et Mérédice avaient pouvoir sur elle, ni le précepteur ni Octave n’auraient été épargnés s’ils avaient pénétré dans le domaine interdit)
 
 - Morte de vieillesse plus d'un siècle après la malédiction de la bibliothèque, et devenue encore plus féroce à force d’errer sans but dans le domaine interdit
 
@@ -569,7 +575,7 @@ L’entrée en scène des joueurs (temps 0h00)
 
 Chaque groupe arrive dans l’étage du bas de la bibliothèque par un accès différent (ou avec un délai de quelques minutes).
 
-Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; l’archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans.
+Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans.
 
 
 La {% symbol "frénésie spectrale" for "phantom_frenzy_name" %} (temps inconnu)
@@ -691,7 +697,7 @@ Un sceau est visible devant les escaliers menant à l'étage interdit. Lorsqu'il
 - Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé dans le domaine interdit (il en avait la défense absolue, sous peine de mourir sous les coups de la Bête). {% fact "octave_knows_about_secret_family_symbol" %}
 
 - Le symbole de la famille est en UV dans un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_uv_family_symbol" is needed %} qui est dans la mallette administrative de la famille. {% hint "family_briefcase_protected_by_code" is needed %}
-  Cette mallette est protégée par le code {% symbol "625-993" for "family_briefcase_code" %}, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}". {% hint "family_brifecase_code_spoken_by_venture_prins_fake_book" is needed %}
+  Cette mallette est protégée par le code {% symbol "625-993" for "family_briefcase_code" %}, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}". {% hint "family_briefcase_code_spoken_by_venture_prins_fake_book" is needed %}
   Octave connait juste ce nom étrange, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”. {% fact "octave_knows_about_murmuring_venture_prins_book" %}
 
 - L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice. {% fact "archivist_knows_venture_prins_location" %}
@@ -736,7 +742,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 - Le {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %} demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
 
-- Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées?????). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec un **{"% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth). {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
+- Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées????? TODO XXXX). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec un **{"% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth). {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
 
 - Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà). {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
@@ -1132,9 +1138,11 @@ Des chaines spirituelles
 
 les fantômes, d'une manière générale, s'éloignent peu de leur lieu de vie passé.
 
-Mais les personnes mortes d'un crime violent peuvent se retrouver comme emprisonnées près du lieu de leur chute, dans l'aura d'une étrange lumière sacrée. Elle ne peuvent s'incarner que près de cette lueur, bien que sous forme spectrale elles gardent une plus grande liberté (si l'on peut appeler cela ainsi).
+Mais les personnes mortes d'un violemment peuvent se retrouver comme ancrées, emprisonnées près du lieu de leur chute, dans l'aura d'une étrange lumière sacrée. Elle ne peuvent s'incarner que près de cette lueur, bien que sous forme spectrale elles gardent une plus grande liberté (si l'on peut appeler cela ainsi).
 
 Les personnes - ou même les bêtes - mortes naturellement, ne semblent pas avoir ce type de lien très localisé, et ce sont davantage des tâches inachevées ou des malédictions qui peuvent les attacher au monde des vivants.
+
+Notons qu'un fantôme ancré passera plus souvent sous forme spectrale errante qu'un fantôme libre de ses mouvements. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 
 
 Des rituels de libération

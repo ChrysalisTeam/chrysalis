@@ -63,8 +63,14 @@ Quelques exemples de **courtes controverses** qui peuvent surgir de façon inopi
 - Et bien d'autres oppositions un peu cliché entre "conservateur" et "progressiste"...
 
 
+Errance spectrales
+++++++++++++++++++++++++++
 
+TODO XXXXXXX
 
+- suivre tracé pré-réfléchi
+- quand sentir et pourchasser les joueurs ?
+- quand passer en icnarné/spactrale (attention clochette!!)
 
 
 
