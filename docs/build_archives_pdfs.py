@@ -101,22 +101,25 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
 # documents without decorations, typically ; one can provide a LIST of RST files as value
 ISOLATED_DOCS = {
     # GAMEMASTER DOCS
-    "gamemaster_assets_checklist": "gamemaster_assets_checklist.rst",
+    "gamemaster_assets_checklist": ("gamemaster_assets_checklist.rst", "gamemaster"),
     # NPCS
-    "npc_avatar_druid_sheet": "npcs/avatar_druid_sheet.rst",
-    "npc_avatar_inventor_sheet": "npcs/avatar_inventor_sheet.rst",
-    "npc_avatar_duchess_sheet": "npcs/avatar_duchess_sheet.rst",
-    "npc_phantom_archivist_sheet": "npcs/phantom_archivist_sheet.rst",
-    "npc_phantom_arkon_sheet": "npcs/phantom_arkon_sheet.rst",
-    "npc_phantom_octave_sheet": "npcs/phantom_octave_sheet.rst",
-    "npc_phantom_thief_sheet": "npcs/phantom_thief_sheet.rst",
-    "npc_god_ankou_sheet": "npcs/god_ankou_sheet.rst",
+    "npc_avatar_druid_sheet": ("npcs/avatar_druid_sheet.rst", "avatar_druid"),
+    "npc_avatar_inventor_sheet": ("npcs/avatar_inventor_sheet.rst", "avatar_inventor"),
+    "npc_avatar_duchess_sheet": ("npcs/avatar_duchess_sheet.rst", "avatar_duchess"),
+
+    "npc_god_ankou_sheet": ("npcs/god_ankou_sheet.rst", "god_ankou"),
+
+    "npc_phantom_archivist_sheet": ("npcs/phantom_archivist_sheet.rst", "phantom_archivist"),
+    "npc_phantom_arkon_sheet": ("npcs/phantom_arkon_sheet.rst", "phantom_arkon"),
+    "npc_phantom_octave_sheet": ("npcs/phantom_octave_sheet.rst", "phantom_octave"),
+    "npc_phantom_thief_sheet": ("npcs/phantom_thief_sheet.rst", "phantom_thief"),
+    "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
 
     # FACTIONS (already included in player sheets)
-    "_faction_diakon_sheet": "factions/diakon_group_sheet.rst",
-    "_faction_explorer_sheet": "factions/explorer_group_sheet.rst",
-    "_faction_parcival_sheet": "factions/parcival_group_sheet.rst",
-    "_faction_spy_sheet": "factions/spy_group_sheet.rst",
+    "_faction_diakon_sheet": ("factions/diakon_group_sheet.rst", None),
+    "_faction_explorer_sheet": ("factions/explorer_group_sheet.rst", None),
+    "_faction_parcival_sheet": ("factions/parcival_group_sheet.rst", None),
+    "_faction_spy_sheet": ("factions/spy_group_sheet.rst", None),
 }
 
 
@@ -284,26 +287,36 @@ def generate_archives_sheets():
 
     # then the common DOCS for participants
     if True:
+        isolated_data["current_player_id"] = "everyone"
         build_archives_pdf(COMMON_PLAYER_DOCS,
                             filename_base="common_lore_information", title="Univers du Jeu",
                             add_page_breaks=True, jinja_context=isolated_data)
+
+        isolated_data["current_player_id"] = "npcs"
         build_archives_pdf(COMMON_NPC_DOCS,
                             filename_base="common_npc_information", title="Complément des Figurants",
                             add_page_breaks=True, jinja_context=isolated_data)
+
+        isolated_data["current_player_id"] = "everyone"
         build_archives_pdf(COMMON_GAME_RULES,
                             filename_base="common_game_rules", title="Règles du Jeu ",
                             add_page_breaks=True, jinja_context=isolated_data)
+
+        isolated_data["current_player_id"] = None  # Restore this!
 
     # -------------
 
     # then miscellaneous docs, eg. NPC sheets, last-minute context, checklists (which might be included by other sheets)...
     if True:
-        for filename_base, doc in sorted(ISOLATED_DOCS.items()):
+        for filename_base, docs_and_player_id in sorted(ISOLATED_DOCS.items()):
+            doc, player_id = docs_and_player_id
+            isolated_data["current_player_id"] = player_id
             build_archives_pdf([doc] if not isinstance(doc, (list, tuple)) else doc,
                                 filename_base=filename_base,
                                 title=None,
                                 with_decorations=False,
                                 jinja_context=isolated_data)
+            isolated_data["current_player_id"] = None
 
     # -------------
 
@@ -361,16 +374,16 @@ def generate_archives_sheets():
     # perform full checkup of story checks now that all has been processed
     has_any_coherence_error, facts_summary = display_and_check_story_tags(jinja_env, masked_user_names=[master_login])
 
-    '''
     if facts_summary:
-        build_mindstorm_pdf(["gamemaster_facts_summary.rst"],
+        aggregated_facts_summary = [(fact, sorted(authors + viewers)) for (fact, authors, viewers) in facts_summary]
+        build_archives_pdf(["gamemaster_facts_summary.rst"],
                             filename_base="gamemaster_facts_summary",
                             title=None,
                             with_decorations=False,
-                            jinja_context=dict(facts_summary=facts_summary))
+                            jinja_context=dict(aggregated_facts_summary=aggregated_facts_summary))
     else:
         print("!!! Aborting generation of gamemaster_facts_summary, since NO FACTS have been detected")
-    '''
+
 
     if has_any_coherence_error:
         print(">>>>>>>>>> PROBLEMS WITH SCRIPT COHERENCE, SEE OUTPUTS <<<<<<<<<<")
