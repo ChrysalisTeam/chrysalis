@@ -829,23 +829,23 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 
 - Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, car ils ont quelques invocateursdans leur armée ; à condition qu’ils puissent quitter les lieux, bien sûr.
 
-Neutraliser le méchant
+Neutraliser le méchant  TO BE REVIEWED TODO
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons se portent initialement sur l’arkonte, surtout de la part des avatars qui n’ont pu le contacter. Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre (le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}), peuvent aussi être suspectés.
+Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons se portent initialement sur l’arkonte, surtout de la part des avatars qui n’ont pu le contacter. Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, peuvent aussi être suspectés.
 
-L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur enrobé de ténèbres, qui résistait aux attaques physiques, magiques et sacrées ; et qu’il a donc maudit cet attaquant (et la bibliothèque) en succombant.
+L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur enrobé de ténèbres, qui résistait bien aux attaques physiques, magiques et sacrées ; et qu’il a donc maudit cet attaquant (et la bibliothèque) en succombant.
 
-Les soupçons se portent naturellement sur les avatars, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait, via différents exemplaires de leurs romans.
+Les soupçons se portent donc sur les avatars, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait, via différents exemplaires de leurs romans.
 
 Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais sans le **crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
 
 Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 
-- L’un montre une main boisée et griffue menaçant le monde, ainsi qu'un crâne sous des racines d’arbres, permettant de découvrir celui de l'arkonte dans la “mini jungle d’intérieur” du druide.
+- L’un montre une main boisée et griffue menaçant le monde, ainsi qu'un crâne sous des racines d’arbres, permettant de découvrir le crâne de l'arkonte dans la “mini jungle d’intérieur” du druide.
   {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
   **L’analyse médicale du crâne** montre un empoisonnements au curare, ce qui fait naturellement suspecter le druide.  {% hint "arkon_skull_analysis_showing_curare_poisoning" is needed %}
-- Un dernier **oracle, déclenché par un grillon de l’étage interdit**, montre un livre portant le chiffre 3, coincé entre un inventaire d’animaux et des évocations de cuisine. Le plan de l'étage autorisé indique les rayons de "Zoologie" et des "Patisseries", entre lequels le Tome 3 du roman du Druide est caché. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_map_showing_zoology_and_cooking_shelves" is needed %}
+- Un autre oracle montre un livre portant le chiffre 3, coincé entre un inventaire d’animaux et des évocations de cuisine. Le plan de l'étage autorisé indique les rayons de "Zoologie" et des "Patisseries", entre lequels le Tome 3 du roman du Druide est caché. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_map_showing_zoology_and_cooking_shelves" is needed %}
   La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% hint "chaos_novel_volume_three_between_zoology_and_cooking_shelves" is needed %}
 
 Dès lors, il doit être évident pour les joueurs que le coupable est le druide. Mais si celui-ci est démasqué, il peut continuer à nier, ou finir par avouer mais livrer les joueurs à un chantage, vu qu’il est plus puissant qu’eux tous ; de toute façon, “maintenant qu’il a accès aux grimoires magiques, il finira bien par savoir comment briser la malédiction de la bibliothèque”. Il garde jalousement le pentacle pour éviter tout coup bas de ce côté-ci, et prévient qu'il sentira sans problème si un autre pentacle est créé dans les environs.
