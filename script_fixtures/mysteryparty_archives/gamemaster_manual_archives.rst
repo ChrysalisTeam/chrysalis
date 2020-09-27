@@ -530,13 +530,15 @@ Concrètement : les cas possibles durant le jeu
 
 {% macro injury_cases_and_remedies() %}
 
-Un joueur peut être blessé dans les cas suivants :
+Un joueur peut être ateint dans les cas suivants :
 
 - S’il se fait toucher par un fantôme (incarné ou non) : blessure sacrée (si la Bête s'acharne sur un joueur non protégé, elle finit par le tuer)
 
 - S’il touche un objet manifestement maudit, comme un crâne sonore (les autres ossements sont sans danger) {% fact "cursed_skull_only_gives_sacred_injuries_not_bones" %} : blessure sacrée ; un pentacle, lui, n'est pas dangereux hormis durant un rituel {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
 - S’il déclenche un piège, c'est à dire fait tomber un grelot par terre (ex. fil tendu dans une allée) ou déclenche le cri d'un grillon détecteur de mouvement : blessure biologique
+
+- S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival : mort après quelques minutes {% fact "maguc_mos_peratys_tomb_kills_non_heir_intruders" %}
 
 - S'il boit une potion dangereuse, ou reçoit un sortilège ennemi etc. : cela dépend du cas spécifique
 
@@ -756,43 +758,9 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 - Une fois tous les ingrédients rassemblés (pas besoin de préparer effectivement les potions), la famille a réussi cette mission, à condition qu’elle puisse quitter les lieux.
 
 
-Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Un des rares exemplaires de ce mythique et controversé ouvrage a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste indique aux explorateurs-archéologues après avoir vérifié leur bonne volonté. {% hint "family_legendary_chest_protected_by_double_key" is needed %}
-
-- Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre (l’archiviste le sait et le dit par avance).   VOYANCE DECLENCHEE SUR CE COFFRE
-
-- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans le coffre familial (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis" is needed %}  TODO FIXME NOPE LE BOUGER AILLEURS, PAS LE METTRE ICI AUSSI
-  Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
-
-- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher.
-  Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'isadora_code_for_thanatologue_chest_code' is needed %}
-
-
-- Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares - les morts des deux camps n’étant pas en nombre équivalent. Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une contre-mesure, dans le {% symbol "Thanatologue" for "book_of_the_dead" %}, en appelant à viser en priorité les désenvouteurs du camp adverse. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
-
-- L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
-
-- Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien ne la profane. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
-
-- L’oracle a une vision d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplifican_artefacts_symbol" %}**.
-   {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %}
-
-- L’arkonte se souvient de ce symbole, qui est entre autres celui de la légendaire **{% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
-
-- Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage ; le seul moyen d'y pénétrer, c'est de s'y téléporter.
-
-- Le puissant {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} appartenant au voleur est sur sa dépouille, qui est maudite car il est "mort dans le vice". {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device' is needed %}
-
-- Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé. {% fact "thief_knows_teleportation_device_formula" %}
-
-- Dans le tombeau se trouve la dépouille du mage, ainsi que le {% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %} et un {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}. {% hint 'ring_amplificans' is needed %} {% hint 'etheric_manaic_aura_necklace' is needed %}
-
-- Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
-
-Le trésor des Maupertuis (les agents secrets mirandiens)
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Le trésor des Maupertuis (les agents secrets mirandiens) - A REVIEWER TODO
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les agents secrets ont vu des traces d’antiques récits vantant la fortune “surnaturelle” de la famille Maupertuis, jamais exhumée à ce jour.
 
@@ -822,6 +790,43 @@ Les différents bijoux :
 Le “livre chantant” se trouve bien rangé, dans la bibliothèque de l’étage interdit, il suffit de prêter l’oreille pour l’entendre. Rentrer le bon symbole dedans déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produise des gemmes à foison. {% hint "symbolic_cards_enigma_app" is needed %}
 
 Avec le moulin et le grimoire chantant résolu, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
+
+
+Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Un des rares exemplaires de cet ouvrage mythique et controversé a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste indique aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% hint "family_legendary_chest_protected_by_double_key" is needed %} {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
+
+- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans un de ses livres factices (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book" is needed %}
+  Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
+
+- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien et mémorisait tout**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connaît ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher.
+  Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'isadora_code_for_thanatologue_chest_code' is needed %} {% fact "diakon_invoker_can_message_ankou" %}
+
+{% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}
+
+- Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre légendaire, mais cela ne résoud pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares. {% fact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %} {% hint "recipe_authority_potion" is needed %}
+  Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une solution, dans le {% symbol "Thanatologue" for "book_of_the_dead" %} : viser en priorité les invocateurs du camp adverse, surtout ceux portant de grands bijoux. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
+
+- L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
+
+- Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien ne la profane. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
+
+- L’oracle a une vision d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplifican_artefacts_symbol" %}**. {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %}
+
+- L’arkonte se souvient de ce symbole, qui est entre autres celui de la légendaire **{% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
+
+- Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage, même si les fantômes peuvent eux la contourner ; le seul moyen d'y pénétrer en tant que vivant, c'est manifestement de s'y téléporter. {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %} {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
+
+- Le puissant {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} appartenant au voleur est sur sa dépouille, qui est maudite car il est "mort dans le vice". {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device' is needed %}
+
+- Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé. {% fact "thief_knows_teleportation_device_formula" %}
+
+- Seul un héritier des Maupertuis peut pénétrer dans le tombeau, toute autre personne y meurt rapidement des suites d'une des malédictions (mais peut ensuite en sortir via les murs, sous forme de fantôme). {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
+
+- Dans le tombeau se trouve entre autres, sur la dépouille du mage, la {% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %}. {% hint 'ring_amplificans' is needed %}
+
+- Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, car ils ont quelques invocateursdans leur armée ; à condition qu’ils puissent quitter les lieux, bien sûr.
 
 Neutraliser le méchant
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -1039,7 +1044,9 @@ Il est mort brusquement lors de grandes festivités, à l'approche de ses 50 ans
 
 Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèque, dans sa robe de fêtes, sans oser risquer de déclencher quelque malédiction en le toilettant.
 
-Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul ne viole jamais la sépulture de ce vénérable aieul, ni aucun des dangereux mystères qu'il a emportés dans la tombe.
+Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul ne viole jamais la sépulture de ce vénérable aieul, ni aucun des dangereux mystères qu'il a emportés dans la tombe. A ce jour, aucune guilde de mages sur la planète ne serait probablement capable de briser autant d'envoutements accumulés. Mais peut-être qu'il est possible d'y entrer par des moyens détournés, qui sait ? {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}
+
+Note : une fois libérés de leur ancrage, en revanche, **les fantômes PEUVENT entrer** dans le tombeau and passant par les murs, qui ne sont pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Il peuvent donc ramener quelques informations sur le contenu du tombeau. {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
 
 
 Les colliers éthériques
@@ -1083,6 +1090,8 @@ Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer su
 La derrière maisonnée des Maupertuis
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Les parents Maupertuis étaient très différents et complémentaires ; par exemple autant {% symbol "Isadora" for "maupertuis_mother" %} avait une excellente **mémoire** et ne notait jamais rien, autant {% symbol "Quirinius" for "maupertuis_father" %}, lui, ne retenait jamis rien, et devait noter jusqu'à ses secrets les plus sensibles dans des carnets, qu'il laissait bien cachés dans la bibliothèque. {% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}
+
 Au moment de l'attaque du manoir, Mérédice de Maupertuis avait déjà beaucoup progressé dans les arts magiques, et en particulier - comme ses prédecesseurs - dans les potions et gemmes de guérison. Elle travaillait régulièrement dans les **cabinets d'alchimie et de gemmologie de l'étage interdit**. Elle laissait d'ailleurs la plupart de ses affaires dans la bibliothèque, de peur de les perdre lors de ses excursions d'herboristerie dans les environs, ou en cas de cambriolage du manoir.
 
 Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il était distrait par ses lectures romanesques et fantastiques.
@@ -1092,7 +1101,7 @@ Il devait bientôt passer son **initiation appelée "adoubement"**, à l'étage 
 - Etre présenté à la Bête, et recevoir d'elle un serment d'allégeance
 - Réussir à activer le **Sceau d'initiation** présent sur place
 - Tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petit boite, parmi un ensemble, contenait sa broche personnelle
-- En cas de réussite, **recevoir le symbole secret** de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois
+- En cas de réussite, **recevoir le symbole secret** de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois.
 
 
 La {% symbol "Clochette Spectrale" for "table_bell_name" %}

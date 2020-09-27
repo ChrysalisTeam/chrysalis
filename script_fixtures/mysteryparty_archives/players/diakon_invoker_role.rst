@@ -64,6 +64,13 @@ Incarnation d'un spectre (nope??)
 
 TODO
 
+
+Message à un défunt
++++++++++++++++++++++++++++++
+
+TODO pour demander à mere maupertuis son code, il faut envoyer message à l'ANKOU
+
+
 Rituels divers
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -72,7 +79,7 @@ Rituels divers
 
 Bénédiction de terrain
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-(anti zombie)
+(anti zombie IMPORTANT)
 {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
 
 
