@@ -44,4 +44,4 @@ Si vous croisez un joueur lui aussi intéressé par la robotique, et le démontr
 TODO ADD MORE THINGS TO DO XXXX
 
 
-TODO {% fact "avatar_inventor_can_repair_items" %}
+TODO {% fact "inventor_can_repair_items" %}

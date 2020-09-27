@@ -408,7 +408,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 - Il est très habile, a des pouvoirs magiques, résiste à la magie et aux poisons (ainsi qu’au sacré bien sûr), et régénère très vite son corps en cas de blessure.
 
-- Il peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "avatar_druid_can_dangerously_heal_limited_injuries" %} (mais c'est dangereux)
+- Il peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "druid_can_dangerously_heal_limited_injuries" %} (mais c'est dangereux)
 
 {# NOPE - **S’y connait en NECROMANCIE ?????** #}
 
@@ -428,7 +428,7 @@ L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 
 {# BOF - **TODO Une trousse à outils doit trainer quelque part pour attester de ses travaux ?** #}
 
-- Il peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "avatar_inventor_can_dangerously_heal_missing_limbs" %} (mais c'est dangereux)
+- Il peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "inventor_can_dangerously_heal_missing_limbs" %} (mais c'est dangereux)
 
 {% endmacro %}
 <{ avatar_inventor_character_summary }/>
@@ -444,7 +444,7 @@ La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %}
 
 - Est capable d'entrer en synergie avec d'autres "voyants"
 
-- Elle peut invoquer ses propres dieux, avec l'aide des diacres, pour guérir une blessure sacrée {% fact "avatar_duchess_can_dangerously_heal_sacred_injuries" %}  (mais c'est dangereux)
+- Elle peut invoquer ses propres dieux, avec l'aide des diacres, pour guérir une blessure sacrée {% fact "duchess_can_dangerously_heal_sacred_injuries" %}  (mais c'est dangereux)
 
 {% endmacro %}
 <{ avatar_duchess_character_summary }/>
@@ -540,11 +540,11 @@ Un joueur peut être blessé dans les cas suivants :
 
 Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux potions magiques et aux rituels des diacres, mais ces possibilités restent très limitées.
 
-Toutes les blessures peuvent aussi être guéries par des avatars, mais ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur) : {% fact "avatar_abilities_are_randomly_hazardous" %}
+Toutes les blessures peuvent aussi être guéries par des avatars, mais ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur) : {% fact "abilities_are_randomly_hazardous" %}
 
-- la **duchesse** peut invoquer ses propres dieux, avec l'aide des diacres, pour réparer une blessure sacrée (touchant l'âme) {% fact "avatar_duchess_can_dangerously_heal_sacred_injuries" %}
-- le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "avatar_druid_can_dangerously_heal_limited_injuries" %}
-- l'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "avatar_inventor_can_dangerously_heal_missing_limbs" %}
+- la **duchesse** peut invoquer ses propres dieux, avec l'aide des diacres, pour réparer une blessure sacrée (touchant l'âme) {% fact "duchess_can_dangerously_heal_sacred_injuries" %}
+- le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "druid_can_dangerously_heal_limited_injuries" %}
+- l'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "inventor_can_dangerously_heal_missing_limbs" %}
 
 **Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes blocages que les autres fantômes ({% symbol "clôture absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet aux corridors piégés et autres lieux dangereux pour les vivants.
 
