@@ -829,14 +829,14 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 
 - Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, car ils ont quelques invocateursdans leur armée ; à condition qu’ils puissent quitter les lieux, bien sûr.
 
-Neutraliser le méchant  TO BE REVIEWED TODO
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Neutraliser le méchant  
++++++++++++++++++++++++++++++++++++++
 
-Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons se portent initialement sur l’arkonte, surtout de la part des avatars qui n’ont pu le contacter. Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, peuvent aussi être suspectés.
+Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons doivent se porter initialement sur l’arkonte, surtout de la part des avatars (qui n’ont pu le voir en tant que fantôme). Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, peuvent aussi être suspectés.
 
 L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur enrobé de ténèbres, qui résistait bien aux attaques physiques, magiques et sacrées ; et qu’il a donc maudit cet attaquant (et la bibliothèque) en succombant.
 
-Les soupçons se portent donc sur les avatars, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait, via différents exemplaires de leurs romans.
+Les soupçons se portent donc ensuite sur les avatars, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait, via différents exemplaires de leurs romans.
 
 Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais sans le **crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
 
@@ -848,68 +848,76 @@ Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 - Un autre oracle montre un livre portant le chiffre 3, coincé entre un inventaire d’animaux et des évocations de cuisine. Le plan de l'étage autorisé indique les rayons de "Zoologie" et des "Patisseries", entre lequels le Tome 3 du roman du Druide est caché. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_map_showing_zoology_and_cooking_shelves" is needed %}
   La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% hint "chaos_novel_volume_three_between_zoology_and_cooking_shelves" is needed %}
 
-Dès lors, il doit être évident pour les joueurs que le coupable est le druide. Mais si celui-ci est démasqué, il peut continuer à nier, ou finir par avouer mais livrer les joueurs à un chantage, vu qu’il est plus puissant qu’eux tous ; de toute façon, “maintenant qu’il a accès aux grimoires magiques, il finira bien par savoir comment briser la malédiction de la bibliothèque”. Il garde jalousement le pentacle pour éviter tout coup bas de ce côté-ci, et prévient qu'il sentira sans problème si un autre pentacle est créé dans les environs.
+Le druide nie initialement toutes les accusations, en traitant ses accusateurs de fous.
+{# LATER **IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} sans avoir résolu l’enquête de la mort des humains.** #}
 
-{# TODO LATER **IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} sans avoir résolu l’enquête de la mort des humains.** #}
+Mais lorsque ces 2 indices rassemblés sont exposés aux autres avatars, ils confontent le druide. Celui-ci change alors de posture, assume son crime au nom du Salut de Pangéa, et rappelle qu'il est bien plus puissant que tous les participants rassemblés. Il propose donc à tous de l'aider à briser la malédiction de la bibliothèque, en échange de la vie sauve dans son futur Havre de Nature.
+Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu’il a accès aux grimoires du domaine interdit, il finira bien par découvrir comment utiliser la magie de ce monde et briser la malédiction de la bibliothèque ; mais eux ont des missions urgentes à accomplir et doivent ressortir avant que les portails planétaires ne se referment, d'ici quelques heures.
+Le druide prévient qu'il ne s'éloignera plus du pentacle du rituel de l'arkonte, afin que personne ne tente de le renvoyer de force dans son monde ; et qu'il sentirait si un autre pentacle similaire était créé dans les environs.
 
-Le traître est insensible aux attaques physiques et magiques usuelles, mais il existe différentes façons de l'atteindre :
+Le traître est en effet insensible aux attaques usuelles.
+Si les joueurs l'attaquent directement, il en tue un (qui devient un fantôme), puis ordonne aux autres de continuer à chercher comment lever la malédiction.
 
-{# - Soit confectionner et lui faire boire une **potion magique d’autocombustion**, qui va retourner sa puissance magique contre lui ; cette potion doit impérativement lui être apportée suffisamment tôt, et par l’automate, pour qu’il ne soit pas soupçonneux. TODO NOPE ABORTED FOR NOW #}
+Mais il existe certaines façons de l'atteindre :
+
+{# NOPE for now - Soit confectionner et lui faire boire une **potion magique d’autocombustion**, qui va retourner sa puissance magique contre lui ; cette potion doit impérativement lui être apportée suffisamment tôt, et par l’automate, pour qu’il ne soit pas soupçonneux. #}
+{# NOPE for now - Soit reconstituer un pentacle de renvoi ailleurs TOO HARD, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).  #}
 
 - Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de trois joueurs pour créer “la balle qui ne pardonne pas”.
 
-- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer forcer la terminaison du rituel de renvoi du druide dans son propre monde. Cela nécessite de trouver **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}.**
-  {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
+- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer reproduire le rituel de l'arkonte. Cela nécessite de trouver **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}.** {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
 
-  Un oracle évoque cette façon de faire, et met en garde contre une riposte du méchant à l'aide des fantômes ; en effet, en désespoir de cause, le druide utilise la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %} A charge pour les autres joueurs de repousser les spectres (avec l'{% symbol "armure de Mithril" for "arkon_armor_name" %} de l'arkonte, avec des exorcismes) sans se faire attaquer par le druide.
+  Un oracle auditif évoque ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% hint 'parcival_oracle_hearing_about_last_battle_plan' is needed %}
+  En effet, en désespoir de cause, le druide utilise la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %}
+  A charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...) sans se faire attaquer par le druide.
+
+Si le traître est expulsé du monde humain ou tué, la malédiction prend fin, et l’épilogue peut se dérouler.
+
+Si quelqu'un suit les ordres du druide et lève la malédiction, ou si celui-ci (en dernier lieu) brise lui-même la clotûre de la bibliothèque grâce une formule trouvée dans un grimpoire, alors le druide s'échappe de la bibliothèque ; les joueurs peuvent alors effectivement rentrer chez eux, mais avec l'amertume d'avoir lâché un monstre dans leur monde.
 
 
-{# NOPE - Soit reconstituer un pentacle de renvoi ailleurs TOO HARD, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).  #}
-
-Si les joueurs attaquent le traître sans avoir le moyen de le tuer, il en tue un (qui devient un fantôme), puis ordonne aux autres de lever la malédiction, sans quoi il tuera un joueur par X minutes. Le jeu tourne donc à la prise d’otages.
-
-Si le traître est expulsé du monde humain ou tué, la malédiction prend fin, et l’épilogue peut se dérouler. Sinon, il ouvre lui-même la clotûre de la bibliothèque et s’enfuit, les joueurs sont donc libres mais ont échoué à protéger le monde des vivants.
-
-Finir le rituel de révocation des avatars (diacres)
+Finir le rituel d'expulsion des avatars (diacres)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Les personnages imaginaires refusent que ce rituel, commencé par l’arkonte et interrompu par la trahison du méchant, soit mené à bien tant que les fantômes n’auront pas reçu justice et été libérés. A cela s’ajoute initialement la crainte que le rituel ait, en lui-même, causé le drame.
+Les personnages imaginaires refusent initialement que ce rituel, commencé par l’arkonte et interrompu par la trahison du méchant, soit mené à bien tant que les fantômes n’auront pas reçu justice et été libérés. A cela s’ajoute initialement la crainte que le rituel ait, en lui-même, causé le drame.
 
-Le pentacle et les objets du rituel (ainsi que les romans) sont toujours en place, le traître n’ayant pas osé toucher à cette magie sacrée qu’il ne connait pas. Pour finir le rituel, il est juste besoin de suivre les instructions de l’arkonte **:** mettre un exemplaire d’un livre du héro, ainsi que le personnage imaginaire **(sans quoi il meurt ???)**, au centre du pentacle, puis réciter une formule (les personnages peuvent aussi directement retourner dans leur univers avant le rituel).
+Le pentacle et les objets du rituel (ainsi que les romans) sont toujours en place, le traître n’ayant pas osé toucher à cette magie sacrée qu’il ne connait pas. Pour finir le rituel, et renvoyer un ou plusieurs avatars à la fois dans leurs mondes respectifs, il est juste besoin de suivre les instructions pour ce rituel, connues des diacres. {% fact "diakon_exorcist_knows_how_to_expel_avatar" %} {% fact "multiple_avatars_can_be_simultaneously_expelled_with_ritual" %}
 
-Il est possible de renvoyer autant de héros à la fois qu’il n’y a de diacres participant au rituel, les joueurs peuvent donc faire cela en une seule itération au lieu de personnage-par-personnage (pour que ce soit plus rapide en roleplay).
 
 Supprimer la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} de la bibliothèque (piège)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-La clotûre de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **3 / 5 des vivants** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit.
 
-Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et le monde redevient en grand danger. La session se terminera alors par la révocation des avatars restants, et la sortie piteuse des joueurs.
+La clotûre de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **3 / 5 des vivants** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit. {% fact "diakon_invoker_can_break_cursed_enclosure" %}
 
-Pour rappel, dans l’issue normale du jeu, la malédiction est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être.
+Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et le monde des vivants est grand danger. La session se terminera alors par la révocation des avatars restants (optionnelle, car ils peuvent vouloir aider cette planète encore), et la sortie piteuse des joueurs.
 
-Préserver les grimoires légendaires **(bonus des diacres ?????)**
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Pour rappel, dans l’issue optimale du jeu, la malédiction de la bibliothèque est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être.
 
-La plupart des ouvrages de la bibliothèque sont des copies de livres courants, ou retrouvés depuis dan s d’autres lieux mystiques. Mais le {% symbol "Thanatologue" for "book_of_the_dead" %}, ainsi que deux ouvrages (Necronomicon? Codex Vampiris ?) ne doivent pas tomber dans les mains des impies qui vont probablement finir par trouver, à leur tour, cette bibliothèque.
+{# NOPE TOO MUCH
 
-Les deux grimoires supplémentaires peuvent être trouvés grâce au **magnétisme sur une carte de la bibliothèque ??????**, ou en soudoyant le voleur.
+    Préserver les grimoires légendaires (bonus des diacres ?????)
 
-**TODO ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...**
+    La plupart des ouvrages de la bibliothèque sont des copies de livres courants, ou retrouvés depuis dan s d’autres lieux mystiques. Mais le {% symbol "Thanatologue" for "book_of_the_dead" %}, ainsi que deux ouvrages (Necronomicon? Codex Vampiris ?) ne doivent pas tomber dans les mains des impies qui vont probablement finir par trouver, à leur tour, cette bibliothèque.
 
+    Les deux grimoires supplémentaires peuvent être trouvés grâce au *agnétisme sur une carte de la bibliothèque ??????, ou en soudoyant le voleur.
 
-{# OLDIES
+    ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...
 
-Un {% symbol "Collier d'Invisibilité SpirituelleXX" for "NOPE" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_necklace_in_toxic_corridorXXX" is needed %}
-NOPE LE CACHER UN PEU MIEUX ??????????
+#}
 
-impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre.
+{# OLDIES REPLACED BY NECKLACES
 
-, et doit se concentrer beaucoup pour interagir avec les objets ; naturellement, il ne peut pas soulever de grosses charges, ni se battre.
+    Un {% symbol "Collier d'Invisibilité SpirituelleXX" for "NOPE" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_necklace_in_toxic_corridorXXX" is needed %}
+    NOPE LE CACHER UN PEU MIEUX ??????????
 
-impalpable sur le plan magique, aucun sortilège (de feu, de foudre...) ne peut plus l'atteindre. Il ne peut lui-même réaliser aucun acte de magie (préparation alchimique, lancer de sorts...) tant qu'il le porte.
+    impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre.
 
-Collier éthérique de corps (ruban-chaine doré) : Celui qui porte ce collier autour du cou devient impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre.
+    , et doit se concentrer beaucoup pour interagir avec les objets ; naturellement, il ne peut pas soulever de grosses charges, ni se battre.
+
+    impalpable sur le plan magique, aucun sortilège (de feu, de foudre...) ne peut plus l'atteindre. Il ne peut lui-même réaliser aucun acte de magie (préparation alchimique, lancer de sorts...) tant qu'il le porte.
+
+    Collier éthérique de corps (ruban-chaine doré) : Celui qui porte ce collier autour du cou devient impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre.
 
 #}
 

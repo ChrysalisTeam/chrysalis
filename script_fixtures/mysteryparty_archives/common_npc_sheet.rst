@@ -49,12 +49,12 @@ Orienter les joueurs vers les bons interlocuteurs
 
 
 
-Improviser des anecdotes et débat
+Improviser des anecdotes, débats, et bogues
 +++++++++++++++++++++++++++++++++++++++++++++
 
 Le scénario laisse une grande marge quant aux évènements survenus avant la malédiction - que ce soit avant ou après le saccage du manoir des Maupertuis, ou dans les univers alternatifs des avatars.
 
-Vous êtes donc libre de faire "revivre" la nostalgie de ces époques révolues, en improvisant des récits, des anecdotes, des taquineries, sur tout ce que vos personnages (avatars ou fantômes) ont pu vivre de leur côté, ou bien les uns avec les autres. En particulier Octave peut narrer aux descendants Parcival quelques bribes de l'histoire de leurs ancètres. Saisissez les perches tendues par les autres figurants, en prenant juste soin de respecter le caractère fondamental de votre personnage. Evitez juste de faire en sorte que cela ressemble à des indices pour les missions des joueurs, en restant assez loin de ces sujets.
+Vous êtes donc libre de faire "revivre" la **nostalgie de ces époques révolues**, en improvisant des récits, des anecdotes, des taquineries, sur tout ce que vos personnages (avatars ou fantômes) ont pu vivre de leur côté, ou bien les uns avec les autres. En particulier, Octave peut narrer aux descendants Parcival quelques bribes de l'histoire de leurs ancètres. Saisissez les perches tendues par les autres figurants, en prenant juste soin de respecter le caractère fondamental de votre personnage. Evitez cependant que cela ressemble à des indices pour les missions des joueurs, en restant assez loin de ces sujets précis.
 
 Quelques exemples de **courtes controverses** qui peuvent surgir de façon inopinée entre les avatars, en particulier lors d'un possible ralentissement du rythme du jeu :
 
@@ -62,12 +62,18 @@ Quelques exemples de **courtes controverses** qui peuvent surgir de façon inopi
 - La duchesse ne jure que par le chant a capella et les musiques classiques, l'inventeur essaie de lui faire écouter de la musique ElectroSwing de sa composition (ex. sur une petite enceinte cachée dans une "boite à musique"). Le druide dit que seul le son du vent dans les arbres et les polyphonies de loups son tde la vraie musique.
 - Et bien d'autres oppositions un peu cliché entre "conservateur" et "progressiste"...
 
+De leur côté, les automates peuvent parfois montrer se mettre à **dysfonctionner**, jusqu'à ce que l'avatar inventeur ou un joueur ne les débloque :
+
+- Se retrouver dans une impasse logique, en voulant constamment céder la priorité à l'autre ("Mais non... Après vous... Je n'en ferais rien...")
+- Soudain se mettre à babiller, ou tourner en rond, de façon incohérente, façon "engrenage défectueux"
+
 
 Errance spectrales
 ++++++++++++++++++++++++++
 
 TODO XXXXXXX
 
+- haleter et non pas faire "hoooo"
 - suivre tracé pré-réfléchi
 - quand sentir et pourchasser les joueurs ?
 - quand passer en icnarné/spactrale (attention clochette!!)

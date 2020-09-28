@@ -92,3 +92,5 @@ Clef mystique - alreay said with SEALS
 (pour épreuve d'octave)
 
 
+
+RUPTURE DE CLOTURE ABSOLUE {% fact "diakon_invoker_can_break_cursed_enclosure" %} VOIR GAMEMASTER SHEET
