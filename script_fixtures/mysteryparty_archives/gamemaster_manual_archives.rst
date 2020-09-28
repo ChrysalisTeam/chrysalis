@@ -584,7 +584,7 @@ Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et 
 La {% symbol "frénésie spectrale" for "phantom_frenzy_name" %} (temps inconnu)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Si un joueur sonne la "{% symbol "Clochette Spectrale" for "table_bell_name" %}" laissée en évidence sur une table, les automates de service l'ignorent, mais le MJ doit déclencher une bande-son angoissante, et les fantômes (devenus spectres) doivent errer férnétiquement aux alentours de cette clochette pendant un instant. Il s'agit juste d'un artefact, d'un signal de rappel, oublié par l'Akou lors d'un précédent passage, mais seul l'Ankou le sait. {% fact "table_bell_belongs_to_ankou" %}
+Si un joueur sonne la "{% symbol "Clochette Spectrale" for "table_bell_name" %}" laissée en évidence sur une table, les automates de service l'ignorent, mais le MJ doit déclencher une bande-son angoissante, et les fantômes (devenus spectres) doivent accourir puis errer frénétiquement aux alentours de cette clochette pendant un instant. Il s'agit juste d'un artefact, d'un signal de rappel, oublié par l'Akou lors d'un précédent passage, mais seul l'Ankou le sait. {% fact "table_bell_belongs_to_ankou" %} {% fact "table_bell_triggers_spectral_frenzy" %}
 
 Cete frénésie ne peut arriver qu'une fois toutes les {% symbol "30mn" for "table_bell_cooldown" %}, et le druide doit de toute façon discrètement voler cette clochette lorsqu'il a compris son usage en discutant avec les joueurs. {% fact "druid_must_steal_table_bell_when_usage_understood" %}
 
@@ -833,6 +833,8 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 Neutraliser le méchant  
 +++++++++++++++++++++++++++++++++++++
 
+{% macro quest_to_find_traitor_and_final_battle() %}
+
 Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons doivent se porter initialement sur l’arkonte, surtout de la part des avatars (qui n’ont pu le voir en tant que fantôme). Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, peuvent aussi être suspectés.
 
 L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur enrobé de ténèbres, qui résistait bien aux attaques physiques, magiques et sacrées ; et qu’il a donc maudit cet attaquant (et la bibliothèque) en succombant.
@@ -872,9 +874,13 @@ Mais il existe certaines façons de l'atteindre :
   En effet, en désespoir de cause, le druide utilise la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %}
   A charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...) sans se faire attaquer par le druide.
 
-Si le traître est expulsé du monde humain ou tué, la malédiction prend fin, et l’épilogue peut se dérouler.
+Si le traître est expulsé du monde humain ou tué, la malédiction prend fin, et l’épilogue peut se dérouler. {% fact "traitor_death_ends_cursed_enclosure" %}
 
-Si quelqu'un suit les ordres du druide et lève la malédiction, ou si celui-ci (en dernier lieu) brise lui-même la clotûre de la bibliothèque grâce une formule trouvée dans un grimpoire, alors le druide s'échappe de la bibliothèque ; les joueurs peuvent alors effectivement rentrer chez eux, mais avec l'amertume d'avoir lâché un monstre dans leur monde.
+IMPORTANT : Si quelqu'un suit les ordres du druide et lève la malédiction, ou si celui-ci (en dernier lieu) brise lui-même la clotûre de la bibliothèque grâce une formule trouvée dans un grimoire, alors le druide s'échappe de la bibliothèque
+Les joueurs peuvent alors effectivement rentrer chez eux, mais avec l'amertume de l'échec : avoir lâché un monstre dans leur monde ; et les **avatars restants** peuvent choisir entre être révoqués, ou rester pour essayer d'aider cette planète face au nouveau péril.
+
+{% endmacro %}
+<{ quest_to_find_traitor_and_final_battle }/>
 
 
 Finir le rituel d'expulsion des avatars (diacres)
@@ -888,12 +894,10 @@ Le pentacle et les objets du rituel (ainsi que les romans) sont toujours en plac
 Supprimer la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} de la bibliothèque (piège)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
 La clotûre de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **3 / 5 des vivants** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit. {% fact "diakon_invoker_can_break_cursed_enclosure" %}
+Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et c'est un échec pour tous, comme explicité ci-dessus.
 
-Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et le monde des vivants est grand danger. La session se terminera alors par la révocation des avatars restants (optionnelle, car ils peuvent vouloir aider cette planète encore), et la sortie piteuse des joueurs.
-
-Pour rappel, dans l’issue optimale du jeu, la malédiction de la bibliothèque est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être.
+Pour rappel, dans l’issue optimale du jeu, la malédiction de la bibliothèque est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être. {% fact "traitor_death_ends_cursed_enclosure" %}
 
 {# NOPE TOO MUCH
 

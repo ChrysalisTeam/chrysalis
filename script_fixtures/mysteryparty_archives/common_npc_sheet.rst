@@ -64,23 +64,26 @@ Quelques exemples de **courtes controverses** qui peuvent surgir de façon inopi
 
 De leur côté, les automates peuvent parfois montrer se mettre à **dysfonctionner**, jusqu'à ce que l'avatar inventeur ou un joueur ne les débloque :
 
-- Se retrouver dans une impasse logique, en voulant constamment céder la priorité à l'autre ("Mais non... Après vous... Je n'en ferais rien...")
-- Soudain se mettre à babiller, ou tourner en rond, de façon incohérente, façon "engrenage défectueux"
+- Se retrouver dans une impasse logique, en voulant constamment céder la priorité à l'autre ("Mais non... Après vous... Je n'en ferais rien...") ;
+- Soudain se mettre à babiller, ou tourner en rond, de façon incohérente, façon "engrenage défectueux" ;
 
 
-Errance spectrales
-++++++++++++++++++++++++++
+Errance spectrale des fantômes
++++++++++++++++++++++++++++++++++++
 
-TODO XXXXXXX
+Hormis la Bête, dans ce scénario, un figurant fantôme est initialement ancré à une petite zone, qui fut le lieu de sa mort. {% fact "human_phantoms_are_initially_anchored" %}
+Lors de certains moments (attente trop longue sans interactions, sons diffusés par le MJ dans la bibliothèque...), il passe en mode spectral, non incarné, et erre alors dans la zone facilement accessible de la bibliothèque (y compris dans le domaine interdit si celui-ci est ouvert).
+Ce passage en spectre arrive aussi pour un fantôme qui a été libéré de son ancrage, mais moins souvent. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 
-- haleter et non pas faire "hoooo"
-- suivre tracé pré-réfléchi
-- quand sentir et pourchasser les joueurs ?
-- quand passer en icnarné/spactrale (attention clochette!!)
+L'errance se fait en marchant pas trop vite, visage voilé, bras tendus devant (si possible avec des gants lumineux), en inspirant/expirant de façon longue et rauque (pas de bruit "booo" trop cliché).
 
+Pour être fair-play, un spectre doit **planifier** chacun de ses tours dans la bibliothèque à l'avance (en cercle, en huit, en passant dans certains cul-de-sac ou non), et ne pas démordre de ce trajet, même si les joueur se sont entretemps rassemblés à un autre endroit.
 
+Seule exception : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélére le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% fact "phantoms_feel_humans_closer_than_3m" %}
 
+Un joueur touché par un spectre est blessé et doit appeler à l'aide, en restant au sol - le MJ lui indiquera son malus.
 
+Note : un fantôme peut en certaines évènements prédéterminées être atteint de **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**, ce qui est un peu comme une errance mais avec des règles plus précises et une davantage de vélocité.
 
 {% endmacro %}
 <{ common_npc_instructions }/>

@@ -68,3 +68,11 @@ Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_
 
 TODO gemmes aussi ???????
 
+
+La bataille finale
+==============================
+
+*Voici le résumé des évènements qui doivent mener à vous démasquer, et la façon dont vous devez réagir.*
+
+<{ quest_to_find_traitor_and_final_battle }/>
+
