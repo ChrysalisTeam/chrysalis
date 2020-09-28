@@ -34,13 +34,14 @@ Les recettes que vous connaissez déjà
 - <TODO A LISTER>
 
 POTION DE PUANTEUR
+
 POTION DE STAMINA POUR EXORCISTE
 
 TODO POTION ANTIPOISON ICI OU AILLEURS ?  {% hint "recipe_antipoison_potion" is provided %}
 
-
 POTION AUTORITE POUR CREER ZOMBIES {% hint "recipe_authority_potion" is provided %}
 
+POTION DE FORCE (pour encore améliorer woodsman ?)
 
 
 Vos connaissances sur les différents types de blessures

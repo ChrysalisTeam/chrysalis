@@ -5,11 +5,11 @@ Vos compétences
 
 <{ spy_sheet_intro }/>
 
-Et votre péché mignon, c'est l'utilisation des ondes électromagnétiques pour trouver ce qui échappe à la vue de tous. Vous avez donc toujours avec vous quelques matériels fort utiles.
+Et votre péché mignon, c'est l'utilisation des ondes électromagnétiques ou sonores pour trouver ce qui échappe à la vue de tous. Vous avez donc toujours avec vous quelques matériels fort utiles.
 
 Ceux-ci pourraient en particulier aider à trouver les serrures magnétiques qui intéressent l'un de vos compères. {% fact "spy_sounder_can_help_spy_lockpicker_regarding_magnetic_unlocker" %}
 
-Détection de métaux
+Détecteur de métaux
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Votre détecteur de métaux vous alerte par des vibrations et des sons lorsque vous l'approchez de bijoux, monnaies, et divers matériaux sensibles au magnétisme (fer, aluminium, or, argent, cuivre etc.). Il vous suffit de l'allumer loin de tout métal, puis de passer sa pointe ou sa tranche près de la zone de recherche (meubles, coffres, éboulis etc.).
@@ -39,4 +39,4 @@ Vous savez d'expérience que les vieilles familles lèguent souvent à leurs hé
 Talkie Walkie ???
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-XXXXXXXXXXXXXX
+TODO XXXXXXXXXXXXXX

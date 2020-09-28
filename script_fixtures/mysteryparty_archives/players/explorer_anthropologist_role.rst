@@ -46,9 +46,7 @@ Par décision de l'Ordre International de la Hiéraldique, il était pendant lon
 
 Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson, l'oiseau-grue, la chèvre, le pangolin, la faucille, le fouet, le tabouret et la feuille de houx**.
 
-TODO dire blason du mage
-
-TODO TODO ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> utile pour déchiffrer prophéties!!!
+TODO dire blason du mage, et blason utile pour déchiffrer prophéties!!!
 
 
 Estimation des monnaies et gemmes
@@ -66,7 +64,10 @@ Eruditions diverses
 
 TODO, plantes ? Mots compliqués ? Latin ?
 
-$$$$$$$ 1er soins ?????????????? $$$$$
+
+Vos connaissances sur les différents types de blessures ???
+<{ injury_types_knowledge }/>
+$$$$$$$ 1er soins ?????????????? $$$$$ TODO XXX
 
 
 

@@ -61,4 +61,4 @@ Si l'envoûtement est de niveau "légendaire", alors il est **impossible** de le
 La guérison des blessures spirituelles ????????
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-PENTACLEs - dire sait pas faier TODO
+TODO important

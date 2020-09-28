@@ -11,7 +11,7 @@ Mais votre vocation s'est rapidement imposée à vous : exorciste, c'est-à-dire
 Reportez-vous à **l'article en annexe** pour une description détaillée du monde des morts, des connaissances que vous pourrez théâtralement enseigner à vos alliés au cours du jeu, lorsque le sujet se présentera.
 
 
-TODO METTRE EN PLACE UN SYSTEM DE STAMINA XXXXXXX
+TODO METTRE EN PLACE UN SYSTEM DE STAMINA UNIQUE AVEC PERLES PLATES XXXXXXX
 
 
 Les rituels d'exorcisme
@@ -64,6 +64,7 @@ Si vous rencontrez un fantôme ancré dans une petite zone - typiquement le lieu
 TODO XXXXXXXXXXXXXXX
 
 D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spirituelles passera moins souvent dans sa forme spectrale. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+
 
 **Rupture de corridor outre-monde**
 

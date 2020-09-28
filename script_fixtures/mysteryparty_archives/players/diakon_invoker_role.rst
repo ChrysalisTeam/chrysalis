@@ -40,7 +40,6 @@ Vous pouvez en revanche facilement réactiver un pentacle ou sceau existant, en 
 
 
 
-
 Stase absolue
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -54,44 +53,33 @@ Rituel :
 - L'entité doit rester à l'intérieur du pentagone pendant toute la durée du rituel, sans quoi l'envoûtement échoue
 
 
-Invocation d'un défunt  NOPE
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-TODO
-
-Incarnation d'un spectre (nope??)
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-TODO
-
-
 Message à un défunt
 +++++++++++++++++++++++++++++
 
 TODO pour demander à mere maupertuis son code, il faut envoyer message à l'ANKOU
+COMMUNICATION A QUICONQUE DANS AU DELA - {% fact "diakon_invoker_can_message_ankou" %}
 
 
-Rituels divers
+Bénédiction de terrain anti-zombie
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-???
-
-
-Bénédiction de terrain
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 (anti zombie IMPORTANT)
 {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
 
 
+RUPTURE DE CLOTURE ABSOLUE
++++++++++++++++++++++++++++++++++++++++++++++++
 
-COMMUNICATION A QUICONQUE DANS AU DELA - {% fact "diakon_invoker_can_message_ankou" %}
-
-
-Clef mystique - alreay said with SEALS
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-(pour épreuve d'octave)
+{% fact "diakon_invoker_can_break_cursed_enclosure" %} VOIR GAMEMASTER SHEET
 
 
+Lumière sacrée
+++++++++++++++++++++++
 
-RUPTURE DE CLOTURE ABSOLUE {% fact "diakon_invoker_can_break_cursed_enclosure" %} VOIR GAMEMASTER SHEET
+Peut allumer chandelles éteintes
+
+
+Sort de foudre
+++++++++++++++++++++
+
+Mais ne marche pas dans la bibliothèque car sous-terrain....
