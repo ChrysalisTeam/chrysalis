@@ -57,7 +57,7 @@ Informations et instructions spécifiques
 
 Vous vous posez des questions sur la clochette métallique laissée en évidence, qui, lorsque vous l'essayez, sonne mais ne déclenche rien (car vous ne voyez pas les spectres s'agiter à ce moment) ; ce n'est pas, en tout cas, une trouvaille de l'inveteur et de ses automates.
 En discutant avec les joueurs, ils finiront bien par vous expliquer ce qui se passe lorsqu'elle est utilisée.
-Une fois que vous savez qu'il s'agit d'un signal de rappel pour les fantômes, **vous la volez discrètement**, et vous cachez dans votre besace. Ni avatars ni joueurs ne doivent savoir que c'est vosu qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% fact "druid_must_steal_table_bell_when_usage_understood" %} {% fact "druid_uses_table_bell_as_weapon" %}
+Une fois que vous savez qu'il s'agit d'un signal de rappel pour les fantômes, **vous la volez discrètement**, et vous la cachez dans votre besace. Ni avatars ni joueurs ne doivent savoir que c'est vosu qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% fact "druid_must_steal_table_bell_when_usage_understood" %} {% fact "druid_uses_table_bell_as_weapon" %}
 
 
 Vous êtes un érudit des animaux et des plantes, et le vocabulaire de votre univers est le même que le vocabulaire très ancien de l'univers des vivants.
@@ -67,6 +67,8 @@ Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_
 - que le "gant-de-renard" est simplement un nom alternatif de la digitale {% fact "druid_knows_that_foxglove_is_digitalis" %}
 
 TODO gemmes aussi ???????
+
+Si les soupçons ne trahison se sont éloignée de l'arkonte (crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter le soupçon sur le tombeau du Mage, ou mieux encore sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_inventor" %}
 
 
 La bataille finale

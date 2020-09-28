@@ -19,6 +19,8 @@ Parfois, les prophéties vous tombent dessus sans prévenir. Mais bien plus souv
 Vous pouvez aussi attirer les révélations à vous en touchant des objets au passé lourdement chargé.
 *NOTE hors-jeu : Ces révélations se matérialisent par des plumes colorées, montrez-les à une autre personne clairvoyante ou au MJ quand vous en trouvez.* {% fact "revelations_are_simulated_by_colored_feathers" %}
 
+Vous avez toujours rêvé de croiser une *licorne de nacre, ou une fontaine d'encens, ou un trèfle à onze feuilles*. De telles rencontres signifient la survenue de prophéties particulièrement vives, venues du tréfond du monde invisible ; pour peu, du moins, que le voyant sache rentrer en contact avec de tels artefacts, qui s'évanouiront sitôt leur rôle rempli. {% fact "incense_fountain_can_deliver_powerful_prophecy" %} {% hint "incense_fountain" is needed %}
+
 
 Les révélations visuelles
 +++++++++++++++++++++++++++++++++
@@ -58,3 +60,5 @@ Ces émotions se révèlent parfois totalement erronnées, tant il est difficile
 Mais cela ne vous empêche pas de les communiquer à vos proches, tout en gardant l'esprit ouvert à la réalité des choses.
 
 XXX TODO - peut détecter ex. la présence de la bete à son arrivée???
+XX se sent en sécurité pour eux et sa famille près du tombeau du mage, mais pas pour les autres jouers
+XX sent qu'il faut revenir à la fontaine d'encens quand tou tsera perdu
