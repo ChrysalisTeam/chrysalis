@@ -166,7 +166,7 @@ Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for
 Le monde divin
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Les entités faisant partie du “\ **divin**\ ” - actuellement uniquement le figurant l’Ankou - peuvent voir tout le monde, et sont par défaut sans danger pour les différents personnages.
+Les entités faisant partie du “\ **divin**\ ” - actuellement uniquement le figurant l’Ankou - peuvent voir tout le monde et être vues de tous, et sont par défaut sans danger pour les différents personnages.
 
 Ils sont également insensibles aux armes et aux sortilèges (dont la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %}). {% fact "ankou_sees_all_and_is_harmless_for_all" %}
 
@@ -433,8 +433,6 @@ L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 
 - A conçu les automates de la bibliothèque
 
-{# BOF - **TODO Une trousse à outils doit trainer quelque part pour attester de ses travaux ?** #}
-
 - Il peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "inventor_can_dangerously_heal_missing_limbs" %} (mais c'est dangereux)
 
 {% endmacro %}
@@ -579,14 +577,6 @@ L’entrée en scène des joueurs (temps 0h00)
 Chaque groupe arrive dans l’étage du bas de la bibliothèque par un accès différent (ou avec un délai de quelques minutes).
 
 Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans.
-
-
-La {% symbol "frénésie spectrale" for "phantom_frenzy_name" %} (temps inconnu)
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Si un joueur sonne la "{% symbol "Clochette Spectrale" for "table_bell_name" %}" laissée en évidence sur une table, les automates de service l'ignorent, mais le MJ doit déclencher une bande-son angoissante, et les fantômes (devenus spectres) doivent accourir puis errer frénétiquement aux alentours de cette clochette pendant un instant. Il s'agit juste d'un artefact, d'un signal de rappel, oublié par l'Akou lors d'un précédent passage, mais seul l'Ankou le sait. {% fact "table_bell_belongs_to_ankou" %} {% fact "table_bell_triggers_spectral_frenzy" %}
-
-Cete frénésie ne peut arriver qu'une fois toutes les {% symbol "30mn" for "table_bell_cooldown" %}, et le druide doit de toute façon discrètement voler cette clochette lorsqu'il a compris son usage en discutant avec les joueurs. {% fact "druid_must_steal_table_bell_when_usage_understood" %}
 
 
 L’ouverture du buffet (temps 0h30)
@@ -966,15 +956,6 @@ Explorateurs-archéologues héliossars
 
 - Anthropologue : érudit en traditions humaines, blasons, valeurs marchandes...
 
-Avatars
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-- (druide) connaissance des vocabulaires alchimistes et herboristes désuets, connaissances des plantes et animaux, soin des blessures, forte auto-régénération et auto-protection magique ?????????????????????
-
-- (inventeur) peur réparer les objets, et diriger les automates
-
-- (sorcière?) TODO ? PEUT SOIGNER ????
-
 
 .. raw:: pdf
 
@@ -1119,17 +1100,19 @@ Il devait bientôt passer son **initiation appelée "adoubement"**, à l'étage 
 Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvé sur place. {% fact "octave_carried_mother_jewel_after_her_death" %}
 
 
-La {% symbol "Clochette Spectrale" for "table_bell_name" %}
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+La {% symbol "Clochette Spectrale" for "table_bell_name" %} et la {% symbol "frénésie spectrale" for "phantom_frenzy_name" %}
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Si l'on vous parle d'une **clochette de table** (petite, ronde et métallique), vous ne savez rien à son sujet ; vous savez juste qu'elle n'était pas visible dans la bibliothèque de votre vivant (même pour le voleur), donc quelqu'un a dû l'apporter ou la sortir d'une cachette.
+Les automates ignorent, étrangement, le son de cette sonnette.
 
-Si quelqu'un appuie sur la clochette, et que cela n'a pas déjà eu lieu dans les {% symbol "30mn" for "table_bell_cooldown" %} précédentes, alors le MJ doit déclencher la bande-son de la **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}** : vous vous mettez alors sous-forme spectrale, et vous vous ruez vers le son de clochette ; une fois près d'elle, vous errez de gauche et de droite, non loin, éperdus, jusqu'à la fin de la bande-son, puis vous revenez à ce que vous faisiez avant.
+Si quelqu'un appuie sur la clochette, et que cela n'a pas déjà eu lieu dans les {% symbol "30mn" for "table_bell_cooldown" %} précédentes, alors le MJ doit déclencher la bande-son angoissante de la **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**. les fantômes se mettent alors sous-forme non-incarnée, et se ruent vers le son de clochette. Une fois près d'elle, ils errent de gauche et de droite, non loin, éperdus, jusqu'à la fin de la bande-son, puis reviennent à ce qu'ils faisaient avant. {% fact "table_bell_triggers_spectral_frenzy" %}
+
+*Spoiler: Il s'agit en réalité juste d'un signal de rappel oublié par l'Akou lors d'un précédent passage, mais seul l'Ankou le sait.* {% fact "table_bell_belongs_to_ankou" %}
+*Le druide doit discrètement voler cette clochette, après qu'il a compris son usage en discutant avec les joueurs.* {% fact "druid_must_steal_table_bell_when_usage_understood" %}
 
 {% endmacro %}
-<{ common_npc_lore_knowledge }/>
-
-
+<{ common_npc_lore_knowledge}/>
 
 {% macro phantom_knowledge_article() %}
 
