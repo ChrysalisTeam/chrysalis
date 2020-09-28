@@ -10,7 +10,7 @@ Votre profil
 
 <{ phantom_arkon_character_summary }/>
 
-Héroïque paladin de la religion yodique (et plus particulièrement disciple de la confession dite "mithraïque"), grand érudit, adepte de nombreuses formes de magie, ferme défenseur des humains contre les incursions d'entités démoniaques, vous avez parcouru la planète en laissant derrière vous d'innombrables légendes.
+Héroïque "arkonte" (chevalier béni par les dieux) de la religion yodique (et plus particulièrement disciple de la confession dite "mithraïque"), grand érudit, adepte de nombreuses formes de magie, ferme défenseur des humains contre les incursions d'entités démoniaques, vous avez parcouru la planète en laissant derrière vous d'innombrables légendes. {% fact "arkon_means_blessed_knight" %}
 
 Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "library_initial_events_timedelta" %}, lors de votre séjour dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, non loin des ruines du domaine Maupertuis. A la faveur du {% symbol "solstice d'hiver" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %} menant à une étrange bibliothèque.
 

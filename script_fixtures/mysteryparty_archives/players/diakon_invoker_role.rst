@@ -84,6 +84,7 @@ Bénédiction de terrain
 
 
 
+COMMUNICATION A QUICONQUE DANS AU DELA - {% fact "diakon_invoker_can_message_ankou" %}
 
 
 Clef mystique - alreay said with SEALS

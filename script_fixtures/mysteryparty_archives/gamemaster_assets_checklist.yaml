@@ -198,7 +198,7 @@
 -
   - "Corridor de de Peau de Pierre (cul-de-sac)"
   -
-    - "Présence de vapeurs toxiques (fioles diverses renversées)"
+    - "Présence de vapeurs toxiques (fioles diverses renversées) {% hint 'spilled_potions_in_toxic_corridor' is provided %}"
     - "Coffre protégé par XXX et contenant le {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %}"
     - "Plusieurs potions (dont celle de Fungal Bleu) {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
 
@@ -272,10 +272,11 @@
   - "Joueurs"
   -
     - "Encensoir en argent plaqué avec chainettes (pour invoker)"
-    - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse) (pour sounder)"
+    - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse) (pour sounder) initialement SANS PILE{% hint 'spy_sounder_metal_detector_initially_broken' is provided %}"
     - "Lampe-tempête Argent (2xPileD incluses)"
     - "Feuille mémo des codes secrets (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %}"
     - "Journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %}"
+    - "Arbalète bois et UNIQUE fléchette (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %}"
 
 -
   - "Cadenas et leurs clefs"

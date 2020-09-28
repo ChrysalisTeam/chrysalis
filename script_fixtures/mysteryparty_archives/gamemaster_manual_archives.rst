@@ -47,7 +47,7 @@ L'enfant, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, a connu 
 Les deux survivants ont vécu là seuls 15 mois durant, le précepteur estimant qu'{% symbol "Octave" for "maupertuis_son" %} n'était pas encore prêt pour affronter la rudesse du dehors. Ils n'ont pu se rendre dans le "domaine interdit" de la bibliothèque, gardé par une Bête, car Octave n'avait pas encore reçu l'initiation lui permettant d'ouvrir le passage vers ce saint-des-saints, contrairement à sa soeur. {% symbol "Maître Parchemine" for "archivist_name" %} s'est improvisé archiviste pour passer le temps, et a commencé un inventaire des livres "non bizarres" accessibles. {% fact "archivist_began_cataloging_books" %} Esseulé, l'enfant s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une intimité de plus en plus fortes avec les héros de ces oeuvres.
 
 Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’Octave, plusieurs personnages imaginaires se sont réellement incarnés dans la bibliothèque, devenant ainsi ce que l'on appelle des **"avatars"** : un inventeur, un druide, une duchesse, une samuraï, un chevalier, un pilote de biplan...
-**L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des objets, et apprendre moult choses sur les règles régissant chacun des univers représentés.**
+**L'enfant et ses nouveaux amis se retrouvés au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des automates, et apprendre moult choses sur les règles régissant chacun des univers représentés.**
 L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de jamais sortir de la bibliothèque.
 
 Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) {% symbol "Valerias" for "arkon_name" %}**, de religion yodique (et plus particulièrement de confession mithraïte), qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes inhumaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
@@ -127,7 +127,6 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 {# NOT YET - Des entités “démoniaques”, faisant elles aussi partie du monde des morts, pourraient être invoquées dans ce contexte. Elles auraient alors les mêmes propriétés que les fantomes, avec davantage de liberté, d’hostilité, et de pouvoirs magico-sacrés. #}
 
-
 Le monde des livres
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -156,7 +155,7 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 Le monde des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les MJs ; d'autres sont limités à des tâches très précises comme servir les mets et boissons.
+Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les MJs ; d'autres sont limités à des tâches très précises comme servir les mets et boissons. {% fact "inventor_has_built_androids" %}
 
 Ces automates voient les vivants et les avatars, mais pas les fantômes. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas sacrées ; cependant rien n'est censé leur arriver durant le jeu.
 
@@ -344,6 +343,8 @@ Fédore Pass’muraille (le voleur)
 
 - Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets, et en particulier le légendaire trésor des Maupertuis. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille), mais s’est fait tuer par surprise par la Bête (qui était toujours vivante à ce moment là) gardant les lieux.
 
+- Lors du combat dans un des corridors, des potions ont été renversées, ce qui a rendu cet endroid toxique. {% fact "toxic_corridor_is_due_to_spilled_potion" %} {% hint 'spilled_potions_in_toxic_corridor' is needed %}
+
 - Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste piégé dans son périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
 
 - Il monnaie chèrement ses informations “pratiques” sur les lieux aux joueurs, contre de l’or et des pierreries.
@@ -530,7 +531,7 @@ Concrètement : les cas possibles durant le jeu
 
 {% macro injury_cases_and_remedies() %}
 
-Un joueur peut être ateint dans les cas suivants :
+Un joueur peut être atteint dans les cas suivants :
 
 - S’il se fait toucher par un fantôme (incarné ou non) : blessure sacrée (si la Bête s'acharne sur un joueur non protégé, elle finit par le tuer)
 
@@ -538,7 +539,7 @@ Un joueur peut être ateint dans les cas suivants :
 
 - S’il déclenche un piège, c'est à dire fait tomber un grelot par terre (ex. fil tendu dans une allée) ou déclenche le cri d'un grillon détecteur de mouvement : blessure biologique
 
-- S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival : mort après quelques minutes {% fact "maguc_mos_peratys_tomb_kills_non_heir_intruders" %}
+- S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival : mort après quelques minutes (les figurants ne connaissent initialement pas ce danger) {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
 - S'il boit une potion dangereuse, ou reçoit un sortilège ennemi etc. : cela dépend du cas spécifique
 
@@ -581,9 +582,9 @@ Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et 
 
 
 La {% symbol "frénésie spectrale" for "phantom_frenzy_name" %} (temps inconnu)
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Si un joueur sonne la "{% symbol "Clochette Spectrale" for "table_bell_name" %}" laissée en évidence sur une table, les automates de service l'ignorent, mais le MJ doit déclencher une bande-son angoissante, et les fantômes (devenus spectres) doivent errer férnétiquement aux alentours de cette clochette pendant un instant. Il s'agit juste d'un artefact, d'un signal de rappel, oublié par l'Akou lors d'un précédent passage. {% fact "table_bell_belongs_to_ankou" %}
+Si un joueur sonne la "{% symbol "Clochette Spectrale" for "table_bell_name" %}" laissée en évidence sur une table, les automates de service l'ignorent, mais le MJ doit déclencher une bande-son angoissante, et les fantômes (devenus spectres) doivent errer férnétiquement aux alentours de cette clochette pendant un instant. Il s'agit juste d'un artefact, d'un signal de rappel, oublié par l'Akou lors d'un précédent passage, mais seul l'Ankou le sait. {% fact "table_bell_belongs_to_ankou" %}
 
 Cete frénésie ne peut arriver qu'une fois toutes les {% symbol "30mn" for "table_bell_cooldown" %}, et le druide doit de toute façon discrètement voler cette clochette lorsqu'il a compris son usage en discutant avec les joueurs. {% fact "druid_must_steal_table_bell_when_usage_understood" %}
 
@@ -750,7 +751,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 - La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cette recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
-- Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé ; un dans un **corridor toxique** de l’étage interdit (empoisonné à cause d'une potion qui s'est cassée dedans). {% fact "toxic_corridor_is_due_to_spilled_potion" %} ) {# Hint tags for this are in the clues document #}
+- Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé ; un dans un **corridor toxique** de l’étage interdit (empoisonné à cause d'une potion qui s'est cassée dedans). {% fact "toxic_corridor_is_due_to_spilled_potion" %} {% hint 'spilled_potions_in_toxic_corridor' is provided %} {# Hint tags for this are in the clues document #}
   Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir reçu une potion anti-poison, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet artefact. {% hint "recipe_antipoison_potion" is needed %}
 
 - Enfin, il faut un récipient métallique avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
@@ -783,7 +784,7 @@ Les différents bijoux :
 - La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Le **détecteur de magnétisme** donne une code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier.
   {% hint "maupertuis_father_jewel_in_twin_books" is needed %} {% hint "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
 
-- La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont cachés dans un SCEAU d'initiation. Il s’agissait d’une épreuve pour Octave, qui devait être capable de “sentir” la présence de l’objet magique avant d’y avoir droit. Les joueurs doivent activer le sceau, écouter le message enregistré qui leur résumé l'épreuve, puis utiliser le **détecteur de métal** pour deviner le coffre qui a l’objet. Seul un héritier Maupertuis peut effectivement déclencher la résolution de cette initiation. {% fact "octave_had_to_pass_initiation_to_gain_his_jewel" %} {% fact "only_maupertuis_heirs_can_take_initiation" %} {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}
+- La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont cachés dans un SCEAU d'initiation. Il s’agissait d’une épreuve pour Octave, qui devait être capable de “sentir” la présence de l’objet magique avant d’y avoir droit. Les joueurs doivent activer le sceau, écouter le message enregistré qui leur résumé l'épreuve, puis utiliser le **détecteur de métal** pour deviner le coffre qui a l’objet. Seul un héritier Maupertuis peut effectivement déclencher la résolution de cette initiation. {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% fact "only_maupertuis_heirs_can_take_initiation" %} {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}
 
 - La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est effondré. Il vend donc cette information chèrement et à contre-coeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}
@@ -1005,7 +1006,6 @@ Concrètement, tout parjure sera rapidement sanctionné par un douloureux chatim
 Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 
-
 .. raw:: pdf
 
    PageBreak
@@ -1093,7 +1093,7 @@ Lors de la malédiction de a blibliothèque, il restait une goule de garde dans 
 
 L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de goule errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %}
 
-Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le symbole secret des Maupertuis, transmis de génération en génération ; l'accès est alors débloqué **pour 12 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "octave_knows_about_secret_family_symbol" %}
+Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le **symbole secret des Maupertuis**, transmis de génération en génération ; l'accès est alors débloqué **pour 12 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "octave_knows_about_secret_family_symbol" %}
 
 
 La derrière maisonnée des Maupertuis
@@ -1109,7 +1109,7 @@ Il devait bientôt passer son **initiation appelée "adoubement"**, à l'étage 
 
 - Etre présenté à la Bête, et recevoir d'elle un serment d'allégeance
 - Réussir à activer le **Sceau d'initiation** présent sur place
-- Tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petit boite, parmi un ensemble, contenait sa **broche personnelle**, et obtenir ainsi cet artefact dynastique {% fact "octave_had_to_pass_initiation_to_gain_his_jewel" %}
+- Tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petit boite, parmi un ensemble, contenait sa **broche personnelle**, et obtenir ainsi cet artefact dynastique {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %}
 - En cas de réussite, **recevoir le symbole secret** de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois.
 
 Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvé sur place. {% fact "octave_carried_mother_jewel_after_her_death" %}

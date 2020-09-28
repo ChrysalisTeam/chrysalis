@@ -35,13 +35,13 @@ Informations et instructions spécifiques
 
 Personnellement très affecté par le triste sort de vos amis, vous mettez tous vos espoirs dans les affinités surnaturelles de vos compères d'outre monde, pour peut-être obtenir justice, et surtout libérer les âmes errantes de la maisonnée Maupertuis.
 
-Durant vos temps heureux dans la bibliothèque, vous avez fouillé l'étage autorisé avec votre nouvel ami Octave, et trouvé de quoi construire plusieurs **automates grandeur-nature** pour faire le service. Dopés par quelques sortilège de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les ramener pour les montrer à vos proches dans votre propre univers. {% fact "inventor_has_built_androids_with_octave" %}
+Durant vos temps heureux dans la bibliothèque, vous avez fouillé l'étage autorisé avec votre nouvel ami Octave, et trouvé de quoi construire plusieurs **automates grandeur-nature** pour faire le service. Dopés par quelques sortilège de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les ramener pour les montrer à vos proches dans votre propre univers. {% fact "inventor_has_built_androids" %}
 
 Vous aviez donné à Octave un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**, conçu par vos soins et permettant de commander les automates. Ce bracelet est désormais sur sa tombe. {% hint 'androids_command_bracelet' is needed %})"
-Si vous croisez un joueur lui aussi intéressé par la robotique, et le démontre en utilisant un vocabulaire technique évolué (sur lequel vous rebondissez, en improvisant), vous acceptez de lui **affecter et activer** le bracelet (en quelques coups de tournevis), et vous annoncez que désormais tous les automates présents répondront du mieux possible à ses ordres - tant qu'ils ne contredisent pas les vôtres bien sûr. {% fact "spy_minesweeper_likes_building_robots" %}
+Si vous croisez un joueur lui aussi intéressé par la robotique, et qui le démontre en utilisant un vocabulaire technique évolué (sur lequel vous rebondissez, en improvisant), vous acceptez de lui **affecter et activer** le bracelet (en quelques coups de tournevis), et vous annoncez que désormais tous les automates présents répondront du mieux possible à ses ordres - tant qu'ils ne contredisent pas les vôtres bien sûr. {% fact "spy_minesweeper_likes_building_robots" %}
 
 
 TODO ADD MORE THINGS TO DO XXXX
 
 
-TODO {% fact "inventor_can_repair_items" %}
+TODO {% fact "inventor_can_repair_items" %} quand manque pile par exemple

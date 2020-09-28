@@ -23,7 +23,7 @@ Mini-arbalète
 Vous ne vous séparez jamais de votre chère arme de poing, qui vous a déjà sauvé la mise plus d'une fois lorsque la nuit tombait dans les bois.
 Ses flèchettes sont en solide {% symbol "Iridium" for "parcival_woodsman_bullets_metal" %}, mais n'ont pas reçu d'enchantements leur permettant de percer des défenses magiques, ou de blesser des entités du monde des morts ; heureusement pour vous, le cas ne s'est jamais présenté.
 
-A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres les semaines précédentes, il ne vous reste **qu'une seule munition** dans votre arme. {% fact "parcival_woodsman_has_only_one_bullet_left" as author %}
+A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres les semaines précédentes, il ne vous reste **qu'une seule munition** dans votre arme. {% hint "single_bullet_left_for_woodsman" is needed %}
 
 # TODO une des balles doit être trouvable en jeu!!!!
 
