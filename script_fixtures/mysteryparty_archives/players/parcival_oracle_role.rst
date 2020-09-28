@@ -14,11 +14,10 @@ Ainsi, tandis que vous pénétrez dans la bibliothèque enfouie des Maupertuis, 
 La survenue des oracles
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Parfois, les prophéties vous tombent dessus sans prévenir. Mais bien plus souvent, elles se produisent lorsque vous rencontrez des personnes elles aussi habituées aux influences prophétiques. Vos sens entrent alors en résonnance mutuelle, donnant des voyans soit complètes, soit partagées entre les personnes présentes.
+Parfois, les prophéties vous tombent dessus sans prévenir. Mais bien plus souvent, elles se produisent lorsque vous rencontrez des personnes elles aussi habituées aux influences prophétiques. Vos sens entrent alors en résonnance mutuelle, donnant des prophéties soit complètes, soit partagées entre les personnes présentes.
 
-Vous pouvez aussi attirer les révélations à vous en marchant dans un lieu au passé lourdement chargé. Signe du destin, de tels endroits raisonnent souvent du **chant surnaturel des cigales** de votre enfance, chants que vous, mais aussi les gens qui vous cotoyent, peuvent dans ce cas entendre.  XX NOPE NON A REMPLACER PAR PLUMES TODO XX
-
-*NOTE hors-jeu : Signalez à une autre personne sensible aux prophéties, ou à défaut au maître de jeu, un endroit où le chant des cigales vous a parlé.*
+Vous pouvez aussi attirer les révélations à vous en touchant des objets au passé lourdement chargé.
+*NOTE hors-jeu : Ces révélations se matérialisent par des plumes colorées, montrez-les à une autre personne clairvoyante ou au MJ quand vous en trouvez.* {% fact "revelations_are_simulated_by_colored_feathers" %}
 
 
 Les révélations visuelles

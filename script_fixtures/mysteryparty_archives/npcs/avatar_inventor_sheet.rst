@@ -44,6 +44,7 @@ Naturellement, vous savez réparer moult choses, par exemple un détecteur de m�
 *Isolez-vous avec l'objet et allez trouver le MJ quand cela se produit.*
 TODO OTHER BROKEN OBJECTS????
 
+TODO IL A UNE CLEF MAGNETIQUE AUSSI, pour cas de DOUBEL SERRURE !!!
 
 TODO ADD MORE THINGS TO DO XXXX
 

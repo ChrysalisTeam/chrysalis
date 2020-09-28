@@ -226,7 +226,7 @@ Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 {% macro diakon_group_symbols() %}
 Le vêtement de reconnaissance des diacres de Bahamoot est une **étole violette** *(écharpe portée en travers du torse, fournie par les organisateurs)*.
 
-Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes en prière, aplaties l'une contre l'autre devant eux. Lors de leurs déplacements en procession, ils ânonnent un **son "Ohm"** lent et guttural *(à répéter ensemble en début de jeu)*.
+Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes en prière, aplaties l'une contre l'autre devant eux. Lors de leurs déplacements en procession, ils ânonnent un **son "ôôôôhm"** lent et guttural *(à répéter ensemble en début de jeu)*.
 
 Leur devise est **"Le dragon est notre guide"**, à professer les mains jointes en prière là encore.
 
@@ -668,8 +668,6 @@ IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé
 - Besoin de protection pendant le rituel, car fantomes arrivent ?
 
 - Le bourrin a une compétence INTUITION ? nope mais oracle oui
-
-- Quid des oracles délivrés par les GRILLONS ??? nope
 
 - Faire un coin avec des jouets d’enfants ? ou Un niche du monstre YEP ?
 

@@ -61,7 +61,7 @@ Rituel :
 
 Si vous rencontrez un fantôme ancré dans une petite zone - typiquement le lieu de sa mort violente - lorsqu'il est sous forme incarnée, ce rituel vous permet de le libérer pour toujours de cette chaine invisible. Il restera néanmoins par le suite soumis aux contraintes d'un possible {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}, ou autre sortilège contraignant, dressé sur sa route.
 
-TODO TODO
+TODO XXXXXXXXXXXXXXX
 
 D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spirituelles passera moins souvent dans sa forme spectrale. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 

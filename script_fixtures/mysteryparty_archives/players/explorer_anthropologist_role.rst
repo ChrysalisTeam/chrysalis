@@ -21,9 +21,14 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 
   Ce titre correspond à une forme de "chevalerie bénie par les dieux" parmi les fidèles de cette religion ; il vous engage à la droiture morale, à al persévérance et au discernement dans vos actions  ; il vous permet de commenter les textes saints de la religion yodique, de siéger aux conseils ordinaires des arkontes, et de recevoir la "confession de mission" d'un confrère arkonte (pour cela, il se met à genou devant vous, et vous gardez une main imposée en l'air au dessus de sa tête). {% fact "arkon_means_blessed_knight" %} Vous n'êtes pas peu fier de ce titre, qui vous place dans la lignée de personnages légendaires et pourtant réels comme Zarathoustra, ou {% symbol "Valerias" for "arkon_name" %}.
 
-- TODO TODO !!!!!!!!!!!
+- Ritualiste de Bahamoot. Vous avez été *initié* aux rudiments de ce culte, et même si cela remonte à loin, vous êtes capable de vous joindre à un rituel pour décuple son effet. D'après vos souvenirs :
 
-- Ritualiste de Bahamoot (peut aider autres) TODO
+{% filter indent(width=8) %}
+
+<{ diakon_group_symbols }/>
+
+{% endfilter %}
+
 
 
 Connaissance des blasons
@@ -35,7 +40,7 @@ TODO
 
 Les lignées ayant divergé de cette famille ont souvent gardé une partie de ce symbole - bâton, aile ou serpent.
 
-DIRE CROSSENTAR!!!
+DIRE CROSSENTAR!!!??? TODO
 
 Par décision de l'Ordre International de la Hiéraldique, il était pendant longtemps interdit de créer soi-même un blason, même pour une oeuvre de fiction. Cependant, suite aux moeurs belliqueuses et perfides de certaines familles royales, leurs blasons, ainsi que les symboles qui y tronaient, ont été bannis à jamais de la symbolique des vivants. Il a donc été argué que ces symboles "tabou" pourraient être utilisés dans les oeuvres de fiction, séparant ainsi clairement les armoiries réelles et celles destinées à l'amusement.
 

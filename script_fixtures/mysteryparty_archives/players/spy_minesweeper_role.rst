@@ -14,22 +14,18 @@ Reconnaissance des coffres piégés
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 PASTILLES
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> A SYSTEM DE CODE AUSSI !!!!!!!!!?????
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> PEUT DEVINER SI UN COFFRE EST PIEGE ???
 
 Pièges physiques
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous êtes capable de désactiver les pièges à l'ancienne, qui pullulent dans les vieux temples et tombeaux.
 
-*NOTE hors-jeu : les pièges sont simulés par des fils tendus en travers du chemin. Votre but est de les démonter sans faire tomber/tinter de grelot. Vous devez, pour cette opération de déminage, être supervisé par le maître de jeu, qui vous donnera votre devenir si le déminage échoue. Vous pouvez pour cela toucher à tout ce qui constitue le piège (y compris les grelots), mais vous ne pouvez rien couper/casser. N'hésitez pas à en rajouter, à établir un périmètre de sécurité pour le déminage, ou à simuler la blessure si elle survient.*
+*NOTE hors-jeu : les pièges sont simulés par des fils tendus en travers du chemin. Votre but est de les démonter sans faire tomber au sol de grelot. Vous devez, pour cette opération de déminage, être supervisé par le maître de jeu, qui vous donnera votre devenir si le déminage échoue. Vous pouvez pour cela toucher à tout ce qui constitue le piège (y compris les grelots), mais vous ne pouvez rien couper/casser. N'hésitez pas à en rajouter, à établir un périmètre de sécurité pour le déminage, etc.*
 
 TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
-
 TODO GRELOTS AVEC ELASTIQUES !!!!
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> A SYSTEM DE CODE AUSSI !!!!!!!!!?????
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> PEUT DEVINER SI UN COFFRE EST PIEGE ???
 
 
 Explosifs

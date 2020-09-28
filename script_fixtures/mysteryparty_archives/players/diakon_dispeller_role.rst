@@ -49,11 +49,9 @@ Si l'envoûtement est de niveau "complexe", alors il faut être au moins **trois
 
 Il faut alors dans l'ordre :
 
-TODO REECRIRE AVEC AUTRE ROLE POUR ENCENSOIR
-- mettre à brûler un morceau d'encens dans l'encensoir
-- passer tous les trois, en file indienne, trois fois devant l'objet (ou en tournant autour si possible) en balançant l'encensoir, et en chantant un "ôôôôm" grave
-- puis vous placer en demi-cercle (ou cercle si possible) autour de l'objet
-- que vous prononciez **seul** l'incantation : **"Ouvrez grandes vos oreilles, misérable mortels, ouvrez grands vos yeux, car par la puissance pacificatrice de Bahamoot, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
+- Faire appel aux talents d'encensement de votre confrère (tourner 3 fois autour de l'objet en procession, avec l'encensoir)
+- Puis vous placer en demi-cercle (ou cercle si possible) autour de l'objet
+- Que vous prononciez **seul** l'incantation : **"Ouvrez grandes vos oreilles, misérable mortels, ouvrez grands vos yeux, car par la puissance pacificatrice de Bahamoot, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
 
 En cas de réussite, le maître de jeu retire la pastille de l'objet.
 
