@@ -67,6 +67,9 @@ De leur côté, les automates peuvent parfois montrer se mettre à **dysfonction
 - Se retrouver dans une impasse logique, en voulant constamment céder la priorité à l'autre ("Mais non... Après vous... Je n'en ferais rien...") ;
 - Soudain se mettre à babiller, ou tourner en rond, de façon incohérente, façon "engrenage défectueux" ;
 
+Les fractures entre les différents mondes peuvent donner des situations cocasses. Par exemple, puisque les avatars et les fantômes ne s'entendent pas les uns les autres, ils vont par moment parler en même temps aux mêmes joueurs, créant une véritable **cacophonie** (si possible se terminant sur la même phrase, par "coincidence").
+
+
 
 Errance spectrale des fantômes
 +++++++++++++++++++++++++++++++++++
