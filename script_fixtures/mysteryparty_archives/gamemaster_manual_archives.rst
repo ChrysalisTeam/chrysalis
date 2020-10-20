@@ -596,12 +596,20 @@ Une fois la musique finie, joueurs et héros font connaissance autour du buffet.
 {% endmacro %}
 <{ early_game_events }/>
 
+
+{% macro ankou_introduction_event() %}
+
 Le passage de l’Ankou (temps 1h)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils n’ont rien à faire ici, qu’il n’est pas “la Bête”, qu’il ne leur veut pas de mal, puis finalement qu’il compte sur eux pour l'aider à résoudre le problème de ces âmes prisonnières des lieux. Puis il repart.
 
-Les joueurs peuvent par la suite lui envoyer des questions pour les Maupertuis défunts, mais attention ceux-ci ne se souviennent pas de tout non plus.
+{% endmacro %}
+<{ ankou_introduction_event }/>
+
+*Les joueurs peuvent par la suite lui envoyer des questions pour les Maupertuis défunts, mais attention ceux-ci ne se souviennent pas de tout non plus.*
+
+
 
 L'exploration du tombeau du mage fondateur
 ++++++++++++++++++++++++++++++++++++++++++++
@@ -706,7 +714,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 - Le {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %} demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
 
-- Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées????? TODO XXXX). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec un **{"% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth). {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
+- Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec un **{"% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth). {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
 
 - Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà). {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
@@ -1059,7 +1067,7 @@ Il devait tout bientôt passer son **initiation appelée "adoubement"**, à l'é
 
 Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvé sur place. {% fact "octave_carried_mother_jewel_after_her_death" %}
 
-Dans leur enfance, Octave et sa soeur jouaient à se créer des jeux de piste - et autres énigmes - l'un pour l'autre. Mérédice en avait créé un tout spécial pour le futur adoubement d'Octave, et elle avait placé la dernière énigme dans la **{% symbol "Boîte à Murmure" for "whispering_box" %} dans un coffre de bois.** {% hint "whispering_box_with_enigma_in_common_brown_chest" is needed %} ; les membres de la famille utilisaient cette boite magique pour se laisser des messages, qu'ils écoutaient en posant le doigt dessus. {# Les joueurs doivent utiliser un stéthoscope pour lire ces messages #} Octave n'a jamais pu finir ce jeu car cela demandait d'aller dans le domaine interdit, et de toute façon **entendre la voix de sa soeur disparue le chagrinait trop.**
+Dans leur enfance, Octave et sa soeur jouaient à se créer des jeux de piste - et autres énigmes - l'un pour l'autre. Mérédice en avait créé un spécialeent espiègle pour le futur adoubement d'Octave, en lui subtilisant sa tirelire, et elle avait placé la dernière énigme menant à ce trésor dans la **{% symbol "Boîte à Murmure" for "whispering_box" %} présente au fond d'un coffre de bois.** {% hint "whispering_box_with_enigma_in_common_brown_chest" is needed %} ; les membres de la famille utilisaient cette boite magique pour se laisser des messages, qu'ils écoutaient en posant le doigt dessus. {# Les joueurs doivent utiliser un stéthoscope pour lire ces messages #} Octave n'a jamais pu finir ce jeu car cela demandait d'aller dans le domaine interdit, et de toute façon **entendre la voix de sa soeur disparue le chagrinait trop.**
 
 
 La {% symbol "Clochette Spectrale" for "table_bell_name" %} et la {% symbol "frénésie spectrale" for "phantom_frenzy_name" %}
@@ -1070,7 +1078,7 @@ Les automates ignorent, étrangement, le son de cette sonnette.
 
 Si quelqu'un appuie sur la clochette, et que cela n'a pas déjà eu lieu dans les {% symbol "30mn" for "table_bell_cooldown" %} précédentes, alors le MJ doit déclencher la bande-son angoissante de la **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**. les fantômes se mettent alors sous-forme non-incarnée, et se ruent vers le son de clochette. Une fois près d'elle, ils errent de gauche et de droite, non loin, éperdus, jusqu'à la fin de la bande-son, puis reviennent à ce qu'ils faisaient avant. {% fact "table_bell_triggers_spectral_frenzy" %}
 
-*Spoiler: Il s'agit en réalité juste d'un signal de rappel oublié par l'Akou lors d'un précédent passage, mais seul l'Ankou le sait.* {% fact "table_bell_belongs_to_ankou" %}
+*Spoiler: Il s'agit en réalité juste d'un signal de rappel oublié par l'Ankou lors d'un précédent passage, mais seul l'Ankou le sait.* {% fact "table_bell_belongs_to_ankou" %}
 *Le druide doit discrètement voler cette clochette, après qu'il a compris son usage en discutant avec les joueurs.* {% fact "druid_must_steal_table_bell_when_usage_understood" %}
 
 {% endmacro %}

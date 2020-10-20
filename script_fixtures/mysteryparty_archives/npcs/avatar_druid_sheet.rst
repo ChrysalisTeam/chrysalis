@@ -59,14 +59,14 @@ Vous vous posez des questions sur la clochette métallique laissée en évidence
 En discutant avec les joueurs, ils finiront bien par vous expliquer ce qui se passe lorsqu'elle est utilisée.
 Une fois que vous savez qu'il s'agit d'un signal de rappel pour les fantômes, **vous la volez discrètement**, et vous la cachez dans votre besace. Ni avatars ni joueurs ne doivent savoir que c'est vosu qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% fact "druid_must_steal_table_bell_when_usage_understood" %} {% fact "druid_uses_table_bell_as_weapon" %}
 
-
-Vous êtes un érudit des animaux et des plantes, et le vocabulaire de votre univers est le même que le vocabulaire très ancien de l'univers des vivants.
+Vous êtes un érudit des animaux, des plantes et des minéraux, et le vocabulaire de votre univers est le même que le vocabulaire très ancien de l'univers des vivants.
 Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_about_plants_and_gems" %}
 
 - que "l'arbre éternel" est le sobriquet souvent donné aux oliviers {% fact "druid_knows_that_eternal_tree_is_olive_tree" %}
 - que le "gant-de-renard" est simplement un nom alternatif de la digitale {% fact "druid_knows_that_foxglove_is_digitalis" %}
-
-TODO gemmes aussi ???????
+- que le "clairvoyant minéral" est ce que l'on nomme ici du cristal de roche {% fact "druid_knows_about_rock_crystal" %}
+- que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
+- que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tigers_eye" %}
 
 Si les soupçons ne trahison se sont éloignée de l'arkonte (crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter le soupçon sur le tombeau du Mage, ou mieux encore sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_inventor" %}
 

@@ -31,7 +31,7 @@ TODO GRELOTS AVEC ELASTIQUES !!!!
 Explosifs
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous avez avec vous 2 bâtonnets d'explosif. Vous pouvez en utiliser un pour déblayer un tas d'éboulements dans la bibliothèque. Les autres murs, le mobilier, les livres, sont encore protégés par des enchantements, et ne réagiront pas aux explosifs.
+Vous avez avec vous **2 bâtonnets d'explosif**. Vous pouvez en utiliser un pour déblayer un tas d'éboulements dans la bibliothèque. Les autres murs, le mobilier, les livres, sont encore protégés par des enchantements, et ne réagiront pas aux explosifs.
 
 *NOTE hors-jeu : Voyez avec le maître de jeu pour utiliser cette compétence, puis simulez la "mise à l'abri de tous" pendant le compte à rebours.*
 

@@ -40,9 +40,8 @@ Durant vos temps heureux dans la bibliothèque, vous avez fouillé l'étage auto
 Vous aviez donné à Octave un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**, conçu par vos soins et permettant de commander les automates. Ce bracelet est désormais sur sa tombe. {% hint 'androids_command_bracelet' is needed %})"
 Si vous croisez un joueur lui aussi intéressé par la robotique, et qui le démontre en utilisant un vocabulaire technique évolué (sur lequel vous rebondissez, en improvisant), vous acceptez de lui **affecter et activer** le bracelet (en quelques coups de tournevis), et vous annoncez que désormais tous les automates présents répondront du mieux possible à ses ordres - tant qu'ils ne contredisent pas les vôtres bien sûr. {% fact "spy_minesweeper_likes_building_robots" %}
 
-Naturellement, vous savez réparer moult choses, par exemple un détecteur de métal casse (simulé par une *pile manquante*). {% fact "inventor_can_repair_items" %} {% hint "spy_sounder_metal_detector_initially_broken" is needed %}
+Naturellement, vous savez réparer moult choses, par exemple un détecteur de métal cassé (simulé par une *pile manquante*), ou une lanterne qui n'éclaire plus. {% fact "inventor_can_repair_items" %} {% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "broken_lantern_to_repair" is needed %}
 *Isolez-vous avec l'objet et allez trouver le MJ quand cela se produit.*
-TODO OTHER BROKEN OBJECTS????
 
 TODO IL A UNE CLEF MAGNETIQUE AUSSI, pour cas de DOUBLE SERRURE !!! NOPE jamais vraiment nécessaire...
 
@@ -50,4 +49,3 @@ TODO peut créer ou réparer talkie-walkie ???
 
 TODO ADD MORE THINGS TO DO XXXX
 
-PEUT REPARER LANTERNE SUPPLEMENTAIRE

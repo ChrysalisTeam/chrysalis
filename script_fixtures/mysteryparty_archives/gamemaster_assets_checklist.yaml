@@ -27,7 +27,7 @@
     - "P6 - Corridor d'Aura Manaïque"
     - "P7 - Corridor de Peau de Pierre"
 
-    - "E1, E2, E3, E4 - Quatre zones d'éboulements réparties sur les 2 étages parmi lesquelles"
+    - "E1, E2, E3, E4, E5 - Zones d'éboulements réparties sur les 2 étages"
 
 -
   - "Indices cachés ou disséminés"
@@ -181,11 +181,13 @@
     - "Boule plasma Pearl (USB ou 4xAAA)"
     - "Guirlande multicolore SilverWireLights (3xAA) @Cat"
     - "Lot de petites pierres du monde avec étiquettes"
+    - "Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}"
     - "Cristaux et pierres diverses"
     - "3 faux-galets creux"
     - "Coffret en bois clair et jointures laiton PIÉGÉ"
     - "Fontaine à encens (éteinte et sans cône d'encens) {% hint 'incense_fountain' is provided %}"
     - "Trésor caché dans un livre factice, non loin de CHALUMEAUX {% hint 'enigma_treasure_near_blowtorch' is needed %}"
+    - "Lampe-sculpture à gemme surmontée d'un dragon"
 
 -
   - "Corridor de Force Vitale (cul-de-sac)"
@@ -212,7 +214,7 @@
     - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %}"
     - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %}"
-
+    - "Lanterne cassée {% hint 'broken_lantern_to_repair' is needed %}"
 
 # DIVERS AUTRES #
 
@@ -220,7 +222,7 @@
 -
   - "Richesses tootales à collecter"
   -
-    - "6 pièces d'or (= 120 kashes)"
+    - "6 pièces d'or (= 60 kashes)"
     - "40 pièces normales (= 40 kashes)"
     - "10 petits diamants ronds (= 50 kashes)"
     - "10 diamants moyens rectangulaire (= 100 kashes)"
@@ -228,11 +230,11 @@
     - "Bracelet doré à gros diamant bleu (non magique) valant environ 100 kashes"
     - "Collier en bande dorée (non magique) valant environ 60 kashes"
     - "Stylo doré avec gros diamant (non magique) valant environ 60 kashes"
-    - "SOIT environ 630 kashes en jeu!"
-    - "300 kashes répartis entre les coffres et emplacements de l'étage autorisé"
-    - "300 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors l'étage interdit"
-    - "30 kashes dans les poches des avatars"
-    - "Coffret crochetable avec des gemmes dedansXXXXXXXXXX"
+    - "SOIT environ 570 kashes en jeu, disséminés comme suit:"
+    - "180 kashes répartis entre les coffres et emplacements dans l'étage autorisé"
+    - "180 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors dans l'étage interdit"
+    - "20 kashes dans les poches des avatars"
+    - "190 kashes dans le trésor du jeu de piste de Mérédice"
 
 -
   - "Indices et objets à là disposition du maître de jeu"
