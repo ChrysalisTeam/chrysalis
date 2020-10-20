@@ -74,11 +74,12 @@ Rituel :
 
 - utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
 - placer au centre de ce pentacle un objet lié à la mise en place du corridor (objet maudit, livre d'avatar...)
-- clamer "Portail vers d'autres mondes, ferme ton seuil à jamais" en répétition pendant 30 secondes {# (ou bien la version latine : "Porta ad alios mundos, sigillum tuum limen OUTDATED") #}
+- clamer "Portail vers d'autres mondes, ferme ton seuil à jamais" en répétition pendant 30 secondes, les bras levés {# (ou bien la version latine : "Porta ad alios mundos, sigillum tuum limen OUTDATED") #}
+- il est indispensable de rester bien immobile pendant l'incantation, sans quoi le pentacle peut être déstabilisé (il s'éteint brièvement) et il faut recommencer l'incantation magique
 
 Attention, cet exorcisme ne fonctionne bien que si toutes les entités qui sont venues en ce monde par ce passage y sont **retournées**, ou à défaut sont placées **dans** le pentacle. Sans cela, le ritualiste sentira une résistance, et l'invocation ne sera pas résolue au bout du temps normal. Si le ritualiste continue alors son invocation pendant **30 secondes supplémentaires**, cela forcera sa réalisation, mais avec la conséquence dramatique de **"tuer"** lesdites entités, quoi que cela signifie concrètement.
 
-Notez qu'il est possible, en une seule invocation, de briser plusieurs corridors d'outre-monde à la fois, mais il faut pour cela placer les objets liés à chacun de ces corridors dans le pentacle, et surtout avoir autant de diacre participant au gestes et exlamations rituels qu'il n'y a de corridors à fermer. {% fact "multiple_avatars_can_be_simultaneously_expelled_with_ritual" %}
+Notez qu'il est possible, en une seule invocation, de briser plusieurs corridors d'outre-monde à la fois, mais il faut pour cela placer les objets liés à chacun de ces corridors dans le pentacle, et surtout avoir autant de diacre participant au gestes rituels et incantations qu'il n'y a de corridors à fermer. {% fact "multiple_avatars_can_be_simultaneously_expelled_with_ritual" %}
 
 
 Vos connaissances sur les différents types de blessures

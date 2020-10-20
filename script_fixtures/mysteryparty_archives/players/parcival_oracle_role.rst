@@ -62,3 +62,4 @@ Mais cela ne vous empêche pas de les communiquer à vos proches, tout en gardan
 XXX TODO - peut détecter ex. la présence de la bete à son arrivée???
 XX se sent en sécurité pour eux et sa famille près du tombeau du mage, mais pas pour les autres jouers
 XX sent qu'il faut revenir à la fontaine d'encens quand tou tsera perdu
+TODO

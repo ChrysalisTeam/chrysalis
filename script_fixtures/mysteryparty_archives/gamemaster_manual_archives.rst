@@ -59,13 +59,13 @@ Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanit
 Le retour des Avatars
 +++++++++++++++++++++++++++++++++
 
-*A partir d'ici, connaissances propres uniquement aux avatars.*
+*Ces connaissances sont propres uniquement aux avatars.*
 
 Certains des avatars ont effectivement vu le passage interdimensionnel se refermer. Mais pour trois d'entre eux - l'inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %} (que tout le monde appelle {% symbol "Jacko" for "inventor_nickname" %}), le druide {% symbol "Diviciacos" for "druid_name" %} et la duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %} - cela n'a pas été le cas.
 
 Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier) ; horreur, le squelette sans crâne de l'arkonte gisant dans un coin, ainsi que des cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
 
-Eplorés, ces avatars subsistants ont créé un cimetière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain. Ils n'ont trouvé que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir, mais dont ils ont marqué au sol l'emplacement, avec d'étranges galets phosphorescents trouvés sur place. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis. {% hint "beast_snack_as_moon_stones" is needed %}
+Eplorés, ces avatars subsistants ont créé un cimetière improvisé pour ces restes, et investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain, les connaissances en magie de ce monde leur manquant trop. Ils n'ont trouvé que quelques livres factices et coffrets hérmétiques, qu'ils n'étaient pas capables d'ouvrir, mais dont ils ont marqué au sol l'emplacement, avec d'étranges galets phosphorescents trouvés sur place. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis. {% hint "beast_snack_as_moon_stones" is needed %}
 
 La duchesse a, dans son propre monde, reçu d'un devin la révélation que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un {% symbol "banquet d'outre-monde" for "banquet_name" %} en l'honneur des Maupertuis, dans l'attente de la réalisation de cette prophétie.
 
@@ -140,7 +140,7 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 - Ces avatars portent leurs costumes et accessoires “typiques” de leurs romans.
 
-- Ils peuvent interagir librement avec le monde des vivants et ses objets, sauf avec les “romans”, qu’il ne peuvent déplacer car ils portent en eux un univers entier.
+- Ils peuvent interagir librement avec le monde des vivants, ses objets et grimoires, **sauf avec les “romans”**, qu’il ne peuvent déplacer car ils portent en eux un univers entier. {% fact "avatars_cannot_carry_novels" %}
 
 - Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher.
 
@@ -226,7 +226,7 @@ Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 {% macro diakon_group_symbols() %}
 Le vêtement de reconnaissance des diacres de Bahamoot est une **étole violette** *(écharpe portée en travers du torse, fournie par les organisateurs)*.
 
-Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes en prière, aplaties l'une contre l'autre devant eux. Lors de leurs déplacements en procession, ils ânonnent un **son "ôôôôhm"** lent et guttural *(à répéter ensemble en début de jeu)*.
+Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes par les pointes des doigts, les paumes éloignées l'une de l'autre, comme s'ils enserraient un globe entre elles ; c'est leur signe de prière. Lors de leurs déplacements en procession, ils ânonnent un **son "ôôôôhm"** lent et guttural *(à répéter ensemble en début de jeu)*.
 
 Leur devise est **"Le dragon est notre guide"**, à professer les mains jointes en prière là encore.
 
@@ -564,6 +564,8 @@ Avec le bon rituel, il est possible de **ressusciter un joueur** à l’état de
 Événements rythmant le jeu
 ==========================
 
+{% macro early_game_events() %}
+
 Briefings
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -576,107 +578,78 @@ L’entrée en scène des joueurs (temps 0h00)
 
 Chaque groupe arrive dans l’étage du bas de la bibliothèque par un accès différent (ou avec un délai de quelques minutes).
 
-Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés. Après 10mn, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans.
+Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés.
 
+Certains avatars peuvent déjà être présents (par exemple en prière au cimetière), dans l'attente de l'inventeur-scientiste.
 
-L’ouverture du buffet (temps 0h30)
+Après 10mn, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans.
+
+L’ouverture du buffet d'outre-monde (temps 0h30)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Une musique entraînante se déclenche (ex. https://www.youtube.com/watch?v=UPr4Ql0fNAc), et l’inventeur fait irruption près du banquet, appelant à grands cris ses amis du monde imaginaire à le rejoindre pour porter un toast à Octave, et espérer ensemble la levée de la malédiction.
 
-Les autres héros arrivent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, au cours duquel les mets du banquet sont dévoilés ; ces mets sont automatiquement produits par la table enchantée. {% fact "buffet_table_magically_generates_food" %}
+Les autres héros arrivent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, au cours duquel les mets du banquet sont dévoilés ; ces mets sont supposés automatiquement produits par la table enchantée. {% fact "buffet_table_magically_generates_food" %}
 
-Une fois la musique finie, joueurs et héros font connaissance autour du buffet. Il est affirmé que, à dessein, les mets sont aussi accessibles aux fantômes (incarnés ou non).
+Une fois la musique finie, joueurs et héros font connaissance autour du buffet. Il est assumé que, à dessein, ces mets magiques sont aussi accessibles aux fantômes (incarnés ou non).
+
+{% endmacro %}
+<{ early_game_events }/>
 
 Le passage de l’Ankou (temps 1h)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils n’ont rien à faire ici, qu’il n’est pas “la Bête”, qu’il ne leur veut pas de mal, puis finalement qu’il compte sur eux pour l'aider à résoudre le problème de ces âmes prisonnières des lieux. Il leur explique comment l’invoquer depuis l’au-delà si besoin est, puis repart.
+L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils n’ont rien à faire ici, qu’il n’est pas “la Bête”, qu’il ne leur veut pas de mal, puis finalement qu’il compte sur eux pour l'aider à résoudre le problème de ces âmes prisonnières des lieux. Puis il repart.
 
+Les joueurs peuvent par la suite lui envoyer des questions pour les Maupertuis défunts, mais attention ceux-ci ne se souviennent pas de tout non plus.
 
-Le druide trouve des grimoires de magie dans l’étage interdit (temps 2h30)
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+L'exploration du tombeau du mage fondateur
+++++++++++++++++++++++++++++++++++++++++++++
 
-Il semble très réjoui, et s’isole pour les lire près du pentacle (il surveille ainsi que personne ne cherche à le renvoyer de force dans son propre univers romanesque).
+Les joueurs doivent trouver le moyen de se téléporter dans le tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, en contournant ainsi les sceaux maléfiques qui protègent son entrée, pour y prendre des artefacts magiques.
 
+**Un figurant doit alors y prendre la place du cadavre, dans l'aube dorée.**
+
+Si un non-Parcival fait partie du groupe des téléportés, cela déclenche une malédiction : la momie du mage se lève, et pourchasse (en marchant lentement, comme un zombie) l'intrus, qui doit l'esquiver jusqu'à ce que le téléporteur lui permette de sortir, sous peine de mourir. La momie retourne ensuite à sa place.
+
+Lorsqu'il n'y pas de non-Parcival dans le tombeau, la momie ne bouge absolument pas, mais sa simple présence suffit à stresser les joueurs tandis qu'ils lui piquent ses ornements légendaires.
 
 La bataille finale
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Voir la quête `Neutraliser le méchant`_ pour un aperçu des déroulements possibles de cet épisode final.
 
-
 L’épilogue musical
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Faire éteindre aux joueurs leurs lanternes, pour augmenter l’ambiance.
-
 Une bande-son est jouée, pour une scène assez chorégraphiée.
 
-Les avatars restants s’auto-bannissent de ce monde grâce au pentacle du rituel.
+L’Ankou appelle les fantômes enfin libérés (qui ont des petites ailes dans le dos) à le rejoindre.
 
-Puis l’Ankou appelle les fantômes enfin libérés (qui ont des petites ailes dans le dos) à le rejoindre.
-
-Le voleur est déjà parti en douce.
-
-Octave est ravi de retrouver bientôt sa famille, mais se retourne pour distribuer des remerciements et conseils à chaque groupe de joueurs, avant de partir en courant.
+Octave est ravi de retrouver bientôt sa famille, mais se retourne pour distribuer des remerciements, conseils et adieux à chaque groupe de joueurs, avant de partir en courant.
 
 L’archiviste et l’arkonte suivent avec solennité.
 
-Les automates guident les joueurs vers la sortie de la bibliothèque.
+La Bête peut potentiellement reparaître juste pour s'échapper elle aussi, de façon comique, de même que le voleur.
+
+Les avatars restants, qui ont suivi la scène sans la voir (en demandant possiblement une narration aux joueurs) demandent à être bannis de ce monde grâce au pentacle du rituel..
+
+Les automates guident ensuite les joueurs vers la sortie de la bibliothèque.
+
 
 Quêtes et parcours d’énigmes
 ============================
 
-Idées diverses à caser
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé, il doit être expliqué pourquoi tel ou tel élément leur a échappé (règles de magie différentes, nécessités de + de gens pour un rituel…)
-
-- L’entrée normal du manoir, celle menant à la surface, a été définitivement fermée par les parents Maupertuis pour protéger leur enfant. NOPE OTHER
-
-- Avatar “sorcière” prévient tous que prophétie de GRAVE DANGER pour le monde ? Mais ils pensent tous que c’est la bête.
-
-- Différents coffrets et livres assez caractéristiques sont disséminés parmi les livres normaux de la bibliothèque, il faut les trouver puis pour chacun trouver la clé ou le code correspondant. A PRECISER
-
-- Un des avatars a un cache-oeil de pirate, pratique pour changer d’identité
-
-- Encourager les collaborations entre équipes!!!! Nécessaires pour quête principale de chaque équipe.
-
-- L'archiviste ne se souvient plus d’un code, mais si on l'amène jusqu'au coffre, sa mémoire musculaire lui permet de le retrouver ?
-
-- Un des fantômes recule sous le coup de la surprise, menaçant de toucher un joueur ?
-
-- Utiliser des images stéréoscopiques/stéréogrammes ? YEP
+{#
+AUTRE IDEES DE COMPETENCES ET ENIGMES
 
 - Mettre des énigmes textuelles pour trouver des mots (voir Enigma Battle sur le forum du Clivra)
-
-- Y A T IL 3 grimoires légendaires à mettre à l’abri hors de la bibliothèque ? OUI
-
-- Un joueur a PORTE-VOIX ??
-
-- Mettre des énigmes physiques pour récupérer des objets, façon Fort Boyard (ou réutilisant les défis steampunk, contre un opposant fantomatique...) NOPE COVID
-
-- Une des actions réalisées déclenche la “{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}” des fantômes désincarnés proches, ou juste les attire, forçant à la fuite temporairement.
-
-- Le détecteur de métaux permet AUSSI de détecter les runes magnétiques !! YEP
-
 - Survie ? Microfilms ? QR Codes ? Appel au central des connaissances ?
+- Restaurateur de textes effacés (ou ça fait doublon) ? + kit d’analyse gemmologique (bof) ?
+- Différents coffrets et livres assez caractéristiques sont disséminés parmi les livres normaux de la bibliothèque, il faut les trouver puis pour chacun trouver la clé ou le code correspondant. A PRECISER
 
-- + restaurateur de textes effacés (ou ça fait doublon) ? + kit d’analyse gemmologique (bof) ?
-
-- Besoin de protection pendant le rituel, car fantomes arrivent ?
-
-- Le bourrin a une compétence INTUITION ? nope mais oracle oui
-
-- Faire un coin avec des jouets d’enfants ? ou Un niche du monstre YEP ?
-
-- Des objets sont CASSES, à réparer par inventeur : detecteur de metaux n’a plus de pile, boite à musique n’a plus de tourniquet, membres arrachés ?
-
-- Un des joueurs est ERUDIT, peut déchiffrer les mots perdus depuis longtemps
-
-- Device pour prendre le controle des automates ? yep bracelet
-
+#}
 
 Accéder au domaine interdit (utile à tous)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -843,10 +816,13 @@ Le druide nie initialement toutes les accusations, en traitant ses accusateurs d
 {# LATER **IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} sans avoir résolu l’enquête de la mort des humains.** #}
 
 Mais lorsque ces 2 indices rassemblés sont exposés aux autres avatars, ils confontent le druide. Celui-ci change alors de posture, assume son crime au nom du Salut de Pangéa, et rappelle qu'il est bien plus puissant que tous les participants rassemblés. Il propose donc à tous de l'aider à briser la malédiction de la bibliothèque, en échange de la vie sauve dans son futur Havre de Nature.
-Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu’il a accès aux grimoires du domaine interdit, il finira bien par découvrir comment utiliser la magie de ce monde et briser la malédiction de la bibliothèque ; mais eux ont des missions urgentes à accomplir et doivent ressortir avant que les portails planétaires ne se referment, d'ici quelques heures.
-Le druide prévient qu'il ne s'éloignera plus du pentacle du rituel de l'arkonte, afin que personne ne tente de le renvoyer de force dans son monde ; et qu'il sentirait si un autre pentacle similaire était créé dans les environs.
 
-Le traître est en effet insensible aux attaques usuelles.
+Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu’il a accès aux grimoires du domaine interdit, il finira bien par découvrir comment utiliser la magie de ce monde et briser la malédiction de la bibliothèque ; mais eux ont des missions urgentes à accomplir et doivent ressortir avant que les portails planétaires ne se referment, d'ici quelques heures.
+
+Le druide prévient qu'il ne s'éloignera plus du pentacle du rituel de l'arkonte, afin que personne ne tente de le renvoyer de force dans son monde ; et qu'il sentirait si un autre pentacle similaire était créé dans les environs.
+Typiquement, il se met alors à lire des grimoires, l'air enthousiaste, non loin du pentacle. {% fact "druid_reads_near_pentacle_before_game_ending" %}
+
+Le traître est insensible aux attaques usuelles.
 Si les joueurs l'attaquent directement, il en tue un (qui devient un fantôme), puis ordonne aux autres de continuer à chercher comment lever la malédiction.
 
 Mais il existe certaines façons de l'atteindre :
@@ -856,7 +832,7 @@ Mais il existe certaines façons de l'atteindre :
 
 - Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de trois joueurs pour créer “la balle qui ne pardonne pas”.
 
-- Soit, la façon la plus éprouvée : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer reproduire le rituel de l'arkonte. Cela nécessite de trouver **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}.** {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
+- Soit, la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer reproduire le rituel de l'arkonte. Cela nécessite de trouver **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}.** {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
 
   Un oracle auditif évoque ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% hint 'parcival_oracle_hearing_about_last_battle_plan' is needed %}
   En effet, en désespoir de cause, le druide utilise la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %}
@@ -899,20 +875,6 @@ Pour rappel, dans l’issue optimale du jeu, la malédiction de la bibliothèque
 
 #}
 
-{# OLDIES REPLACED BY NECKLACES
-
-    Un {% symbol "Collier d'Invisibilité SpirituelleXX" for "NOPE" %} se trouve en évidence dans le corridor toxique de l'étage interdit. {% hint "spiritual_invisibility_necklace_in_toxic_corridorXXX" is needed %}
-    NOPE LE CACHER UN PEU MIEUX ??????????
-
-    impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre.
-
-    , et doit se concentrer beaucoup pour interagir avec les objets ; naturellement, il ne peut pas soulever de grosses charges, ni se battre.
-
-    impalpable sur le plan magique, aucun sortilège (de feu, de foudre...) ne peut plus l'atteindre. Il ne peut lui-même réaliser aucun acte de magie (préparation alchimique, lancer de sorts...) tant qu'il le porte.
-
-    Collier éthérique de corps (ruban-chaine doré) : Celui qui porte ce collier autour du cou devient impalpable sur le plan physique : les armes et les poisons le traversent sans l'atteindre.
-
-#}
 
 
 Survol des compétences spécifiques des participants
@@ -1014,7 +976,7 @@ Carte du monde de Pangéa
 
 {% macro common_npc_lore_knowledge() %}
 
-Connaissances des personnages de l'ère Maupertuis
+Connaissances des personnages issus de l'ère des Maupertuis
 ============================================================
 
 *Ce que savent tous les avatars et les fantômes, sauf le voleur ; celui-ci connait un peu les vieilles légendes et le contexte du saccage du manoir, mais c'est tout.*
@@ -1088,7 +1050,7 @@ Au moment de l'attaque du manoir, Mérédice de Maupertuis avait déjà beaucoup
 
 Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il était distrait par ses lectures romanesques et fantastiques.
 
-Il devait bientôt passer son **initiation appelée "adoubement"**, à l'étage interdit, une cérémonie ne fonctionnant que pour les héritiers de la lignée Maupertuis: {% fact "only_maupertuis_heirs_can_take_initiation" %}
+Il devait tout bientôt passer son **initiation appelée "adoubement"**, à l'étage interdit, une cérémonie ne fonctionnant que pour les héritiers de la lignée Maupertuis: {% fact "only_maupertuis_heirs_can_take_initiation" %}
 
 - Etre présenté à la Bête, et recevoir d'elle un serment d'allégeance
 - Réussir à activer le **Sceau d'initiation** présent sur place
@@ -1096,6 +1058,8 @@ Il devait bientôt passer son **initiation appelée "adoubement"**, à l'étage 
 - En cas de réussite, **recevoir le symbole secret** de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois.
 
 Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvé sur place. {% fact "octave_carried_mother_jewel_after_her_death" %}
+
+Dans leur enfance, Octave et sa soeur jouaient à se créer des jeux de piste - et autres énigmes - l'un pour l'autre. Mérédice en avait créé un tout spécial pour le futur adoubement d'Octave, et elle avait placé la dernière énigme dans la **{% symbol "Boîte à Murmure" for "whispering_box" %} dans un coffre de bois.** {% hint "whispering_box_with_enigma_in_common_brown_chest" is needed %} ; les membres de la famille utilisaient cette boite magique pour se laisser des messages, qu'ils écoutaient en posant le doigt dessus. {# Les joueurs doivent utiliser un stéthoscope pour lire ces messages #} Octave n'a jamais pu finir ce jeu car cela demandait d'aller dans le domaine interdit, et de toute façon **entendre la voix de sa soeur disparue le chagrinait trop.**
 
 
 La {% symbol "Clochette Spectrale" for "table_bell_name" %} et la {% symbol "frénésie spectrale" for "phantom_frenzy_name" %}

@@ -101,6 +101,7 @@
     - "Objets divers sans intérêt: XXXXXXXXXXX"
     - "TODO AUTRE CHOSE INTERESSANTE XXXXXXXX"
     - "Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app' is provided %}"
+    - "Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_enigma_in_common_brown_chest' is provided %}"
 
 -
   - "Cimetière"
@@ -184,6 +185,7 @@
     - "3 faux-galets creux"
     - "Coffret en bois clair et jointures laiton PIÉGÉ"
     - "Fontaine à encens (éteinte et sans cône d'encens) {% hint 'incense_fountain' is provided %}"
+    - "Trésor caché dans un livre factice, non loin de CHALUMEAUX {% hint 'enigma_treasure_near_blowtorch' is needed %}"
 
 -
   - "Corridor de Force Vitale (cul-de-sac)"
@@ -209,7 +211,7 @@
     - "Nid de lianes et feuilles géantes"
     - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %}"
-    - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur"
+    - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %}"
 
 
 # DIVERS AUTRES #

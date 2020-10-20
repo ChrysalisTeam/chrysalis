@@ -50,3 +50,4 @@ TODO peut créer ou réparer talkie-walkie ???
 
 TODO ADD MORE THINGS TO DO XXXX
 
+PEUT REPARER LANTERNE SUPPLEMENTAIRE

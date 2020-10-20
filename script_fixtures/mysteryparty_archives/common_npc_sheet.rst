@@ -11,6 +11,7 @@ Histoire du jeu
 
 {% macro common_npc_instructions() %}
 
+
 Fonctionnement des différents mondes
 =============================================
 
@@ -19,11 +20,13 @@ Principes fondamentaux
 
 **En résumé, les mondes des fantômes et des avatars sont complètement séparés : ils ne peuvent ni se voir, ni se ressentir, ni s'entendre mutuellement, et il est important de simuler réalistement ces lacunes, dans toutes les interactions. En revanche, ces deux mondes peuvent voir et entendre les vivants (les joueurs), ainsi que les automates (les serviteurs).**
 
-Ce fonctionnement des différents mondes est une surprise pour tous les figurants (hormis à la rigueur pour l'Arkonte qui s'en doutait un peu) ; ils doivent donc être intrigués lorsque les joueurs "parlent à du vide", puis peu à peu comprendre le fonctionnement de tout cela, et réaliser (pour les fantômes) pourquoi les automates se mettent parfois à bouger tous seuls, pourquoi certains objets issus du monde des vivants se déplacent en apesanteur, etc.
+Ce comportements des différents mondes est une surprise pour tous les figurants (hormis à la rigueur pour l'Arkonte qui s'en doutait un peu) ; ils doivent donc être intrigués lorsque les joueurs "parlent à du vide", puis peu à peu comprendre le fonctionnement de tout cela, et réaliser (pour les fantômes) pourquoi les automates se mettent parfois à bouger tous seuls, pourquoi certains objets issus du monde des vivants se déplacent en apesanteur, etc.
 
 A l'occasion, les figurants peuvent communiquer d'un monde à l'autre par l'intercession des joueurs, pour se saluer, se transmettre des informations etc.
 
 Notez que l'Ankou n'est pas régi par ces règles (ni même soumis à la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} de la bibliothèque), car il est d'essence divine, bien que lié au monde des morts. {% fact "ankou_sees_all_and_is_harmless_for_all" %}
+
+Attention en outre au fait que **les avatars ne peuvent pas manipuler de romans**, ni les leurs ni les autres ; les autres livres et grimoires leur restent cependant accessibles. {% fact "avatars_cannot_carry_novels" %}
 
 <{ explanation_of_different_worlds }/>
 
@@ -32,6 +35,12 @@ Les blessures des joueurs durant le jeu
 =============================================
 
 <{ injury_cases_and_remedies }/>
+
+
+Les premiers évènements du jeu
+=========================================
+
+<{ early_game_events }/>
 
 
 Conseils pour les figurants
@@ -46,7 +55,6 @@ Orienter les joueurs vers les bons interlocuteurs
 - S'il s'agit de voyance, c'est la duchesse qui est la mieux placée. {% fact "duchess_knowns_about_prophecies" %}
 - S'il s'agit d'herboristerie ou gemmologie, c'est le duide qui peut avoir quelques réponses. {% fact "druid_known_about_plants_and_gems" %}
 - Si un joueur est blessé, interpeller l'avatar qui pourrait - en dernier recours (car dangereux) - tenter de le soigner). {% fact "avatar_abilities_are_randomly_hazardous" %}
-
 
 
 Improviser des anecdotes, débats, et bogues
