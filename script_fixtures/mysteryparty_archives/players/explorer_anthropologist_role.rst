@@ -64,10 +64,8 @@ Eruditions diverses
 
 TODO, plantes ? Mots compliqués ? Latin ?
 
-
 Vos connaissances sur les différents types de blessures ???
 <{ injury_types_knowledge }/>
-$$$$$$$ 1er soins ?????????????? $$$$$ TODO XXX
 
 
 

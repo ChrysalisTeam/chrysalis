@@ -8,8 +8,6 @@ Votre profil
 <{ god_ankou_character_summary }/>
 
 
-XXX TODO EXPLIQUER SON ROLE, DEDUPLIQUER AVEC GAMEMASTER MANUAL
-
 Votre passage dans la bibliothèque
 +++++++++++++++++++++++++++++++++++++++++++++++++
 

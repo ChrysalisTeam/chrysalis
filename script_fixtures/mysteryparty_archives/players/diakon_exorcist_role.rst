@@ -11,8 +11,6 @@ Mais votre vocation s'est rapidement imposée à vous : exorciste, c'est-à-dire
 Reportez-vous à **l'article en annexe** pour une description détaillée du monde des morts, des connaissances que vous pourrez théâtralement enseigner à vos alliés au cours du jeu, lorsque le sujet se présentera.
 
 
-TODO METTRE EN PLACE UN SYSTEM DE STAMINA UNIQUE AVEC PERLES PLATES XXXXXXX
-
 
 Les rituels d'exorcisme
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -37,7 +35,7 @@ Rituel :
 
 Vous êtes capable de chasser une créature du monde des morts, pour la faire sortir d'un corps possédé, ou juste l'envoyer loin de vous ; cela la fait systématiquement repasser sous forme spectrale, non incarnée (mais pendant quelques minutes uniquement). L'esprit ainsi chassé va fuir au hasard, en évitant le lieu d'où il a été chassé, mais sans pouvoir traverser pour autant les possibles barrières spirituelles qui le retiendraient habituellement lorsqu'il est en spectre. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
 
-Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser que **3 fois par jour**. Il ne touche qu'un seul exprit par invocation.
+Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser qu'une fois toutes les **{% symbol "10 minutes" for "phantom_eviction_cooldown" %}**. Il ne touche qu'un seul esprit par invocation.
 
 Rituel :
 
@@ -49,7 +47,7 @@ Rituel :
 
 Vous êtes capable de charmer une créature du monde des morts, qu'elle soit sous forme incarnée ou spectrale ; elle ne change pas de forme, en revanche elle est irrésistiblement attirée par vous pendant 30 secondes, mais se déplace particulièrement lentement. Cela ne lui permet cependant pas de passer à travers les obstacles qui la bloqueraient habituellement. {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
-Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser que **3 fois par jour**. Il ne touche qu'un seul exprit par invocation.
+Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser qu'une fois toutes les **{% symbol "10 minutes" for "phantom_charm_cooldown" %}**. Il ne touche qu'un seul esprit par invocation.
 
 Rituel :
 

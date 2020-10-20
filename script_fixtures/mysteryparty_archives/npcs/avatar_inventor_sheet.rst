@@ -43,9 +43,13 @@ Si vous croisez un joueur lui aussi intéressé par la robotique, et qui le dém
 Naturellement, vous savez réparer moult choses, par exemple un détecteur de métal cassé (simulé par une *pile manquante*), ou une lanterne qui n'éclaire plus. {% fact "inventor_can_repair_items" %} {% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "broken_lantern_to_repair" is needed %}
 *Isolez-vous avec l'objet et allez trouver le MJ quand cela se produit.*
 
-TODO IL A UNE CLEF MAGNETIQUE AUSSI, pour cas de DOUBLE SERRURE !!! NOPE jamais vraiment nécessaire...
-
-TODO peut créer ou réparer talkie-walkie ???
-
 TODO ADD MORE THINGS TO DO XXXX
+
+
+{#
+ IL A UNE CLEF MAGNETIQUE AUSSI, pour cas de DOUBLE SERRURE !!! NOPE jamais vraiment nécessaire...
+
+ peut créer ou réparer talkie-walkie ??? NOPE
+#}
+
 

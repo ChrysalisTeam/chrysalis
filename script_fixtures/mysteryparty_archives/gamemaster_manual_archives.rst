@@ -201,7 +201,7 @@ Ces 3 frères et soeurs sont les lointains descendants de Mérédice de Maupertu
 
 Ces Parcival ont lu dans l’autobiographie de leur ancêtre Mérédice comment ses parents, magiciens-quérisseurs, l’avaient soignée d’un grand mal héréditaire, la dégénérescence marbrée, grâce à un "{% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}". Lorsque leur petite soeur commune est tombée malade à son tour (il ne lui reste que quelques semaines à vivre), ils sont partis en quête du remède, et leur enquête les a menés jusqu’aux archives enfouies de l'ancien domaine familial.
 
-Leurs compétences sont orientées vers la médecine et la magie.
+Leurs compétences sont orientées vers la nature et la magie.
 
 {% macro parcival_group_symbols() %}
 
@@ -537,23 +537,27 @@ Un joueur peut être atteint dans les cas suivants :
 
 - S’il déclenche un piège, c'est à dire fait tomber un grelot par terre (ex. fil tendu dans une allée) ou déclenche le cri d'un grillon détecteur de mouvement : blessure biologique
 
-- S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival : mort après quelques minutes (les figurants ne connaissent initialement pas ce danger) {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
+- S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival et se fait toucher par la momie du mage : mort (les figurants ne connaissent initialement pas ce danger) {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
 - S'il boit une potion dangereuse, ou reçoit un sortilège ennemi etc. : cela dépend du cas spécifique
 
 **Les blessures se traduisent par un malus à la discrétion du MJ, suivant la situation : perdre l'usage d'un membre, devenir muet, perdre la mémoire, devenir essoufflé et ne plus pouvoir courir (en cas d'empoisonnement), ou de ne plus pouvoir utiliser certaines compétences...**
 
-**IMPORTANT : une deuxième blessure de même nature, subie durant le jeu, a 5 chances sur 6 de tuer le joueur.** {% fact "second_sacred_injury_is_always_fatal" %}
+**IMPORTANT : une deuxième blessure de même nature, subie durant le jeu, tue le joueur.** {% fact "second_sacred_injury_is_always_fatal" %}
 
+{# NOPE
 Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux potions magiques et aux rituels des diacres, mais ces possibilités restent très limitées.
+#}
 
-Toutes les blessures peuvent aussi être guéries par des avatars, mais ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur) : {% fact "abilities_are_randomly_hazardous" %}
+Les joueurs sont très démunis face aux diverses blessures, il n'ont pas de compétences en ce sens. {% fact "players_have_no_medecine_abilites" %}
+
+Toutes les blessures peuvent être guéries par des avatars, mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur) : {% fact "avatar_abilities_are_randomly_hazardous" %}. Dans tous les cas, laisser d'abord le joueur **mariner dans ses blessures 5-10mn**, le temps de "rassembler ce qu'il faut pour soigner".
 
 - la **duchesse** peut invoquer ses propres dieux, avec l'aide des diacres, pour réparer une blessure sacrée (touchant l'âme) {% fact "duchess_can_dangerously_heal_sacred_injuries" %}
 - le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "druid_can_dangerously_heal_limited_injuries" %}
 - l'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "inventor_can_dangerously_heal_missing_limbs" %}
 
-**Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes blocages que les autres fantômes ({% symbol "clôture absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet aux corridors piégés et autres lieux dangereux pour les vivants.
+**Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes blocages que les autres fantômes ({% symbol "clôture absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet d'accéder aux corridors piégés et autres lieux dangereux pour les vivants.
 
 Avec le bon rituel, il est possible de **ressusciter un joueur** à l’état de zombie pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de zombie “à l’ancienne” (ex. il parle bizarrement, peut marcher en titubant mais ne peut pas courir...).
 

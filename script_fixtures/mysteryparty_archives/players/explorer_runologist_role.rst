@@ -30,7 +30,7 @@ Vous avez appris à décoder quelques systèmes de chiffrement, et gardez sur vo
 
 Vous savez aussi que certains messages peuvent se dissimuler dans de simples dessins, soit sous forme de stéréogrammes ( http://www.1001experiences.com/stereogrammes/stereogramme-tube-3d.html ), soit d'anamorphoses ( http://www.wonderful-art.fr/illusion-d-optique-anamorphose/ ).
 
-TODO CREER STEREOGRAMMES ET ANAMORPHOSES
+TODO CREER STEREOGRAMMES ET ANAMORPHOSES XXXXXXX
 
 http://lilpoi.free.fr/images.php?index=0
 https://easystereogrambuilder.com/  (mieux)

@@ -56,9 +56,3 @@ Il faut alors dans l'ordre :
 En cas de réussite, le maître de jeu retire la pastille de l'objet.
 
 Si l'envoûtement est de niveau "légendaire", alors il est **impossible** de le supprimer, sauf en trouvant une contre-mesure spécifique à ce sortilège.
-
-
-La guérison des blessures spirituelles ????????
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-TODO important
