@@ -268,7 +268,7 @@
 -
   - "Avatars"
   -
-    - "Microphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi (pour l'inventeur)"
+    - "Microphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
     - "Quelques outils (tournevis, mètre-ruban...) (pour l'inventeur)"
     - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, puis joueur oracle)"
     - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
