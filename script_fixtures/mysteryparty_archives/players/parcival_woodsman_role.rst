@@ -11,7 +11,7 @@ Force herculéenne
 
 Vous êtes costaud. Mais vraiment, vraiment costaud. Cela vous permet de soulever seul des troncs d'arbre entiers, et plus généralement de porter des objets considérés comme **ultra-lourds** par le commun des mortels.
 
-*NOTE hors-jeu : De tels objets seront signalés en jeu par une étiquette, leur poids réel restant bien sûr assez faible.*
+*NOTE hors-jeu : De tels objets seront signalés en jeu par une étiquette, leur poids réel restant bien sûr faible.*
 
 - armure de l'arkonte
 - porte de métal barrant un passage !!!

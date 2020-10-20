@@ -7,7 +7,6 @@ Vos compétences
 {% macro diakon_sheet_intro() %}
 Au long de votre périple initiatique avec vos condisciples, d'un temple à l'autre, d'un enseignement à l'autre, vous n'avez cessé d'aiguiser votre sensibilité envers le monde spirituel.
 {% endmacro %}
-
 <{ diakon_sheet_intro }/>
 
 Mais votre vocation s'est rapidement imposée à vous : désenvouteur, c'est-à-dire celui qui reconnaît les éléments sacrés ou ensorcelés, et supprime les envoûtements malfaisants (pentacles sur le sol, objets piégés…).

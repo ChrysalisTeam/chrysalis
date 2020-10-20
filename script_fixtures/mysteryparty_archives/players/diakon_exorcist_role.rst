@@ -13,10 +13,12 @@ Reportez-vous à **l'article en annexe** pour une description détaillée du mon
 
 
 Les rituels d'exorcisme
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++
 
 *N'hésitez pas à simuler l'épuisement que vous procure les plus exigeants de ces exercices, quitte à vous effondrer à genoux après l'un d'eux.*
 
+
+{% macro anti_phantom_spells() %}
 
 **Bénédiction d'arme**
 
@@ -53,6 +55,9 @@ Rituel :
 
 - Mettre les bras croisés sur votre coeur
 - Crier "Accours vers moi, esprit errant" {# (ou bien la version latine : "Venite ad me errantes spiritu") #}
+
+{% endmacro %}
+<{ anti_phantom_spells }/>
 
 
 **Libération d'ancrage spirituel**

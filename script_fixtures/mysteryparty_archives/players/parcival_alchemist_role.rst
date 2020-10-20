@@ -69,8 +69,3 @@ Vous aimeriez aider les talents de prophète de votre soeur Oracle, et certains 
 Vous savez qu'il est nécessaire de faire fondre un "oeil-de-tigre" et une "aventurine" dans un chaudron - des ingrédients que vous ne connaissez pas - avec de l'huile de ricin, pour obtenir cet encens une fois le mélange refroidi.
 
 
-
-Vos connaissances sur les différents types de blessures
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-<{ injury_types_knowledge }/>

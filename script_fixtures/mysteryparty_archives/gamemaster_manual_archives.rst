@@ -531,7 +531,7 @@ Concrètement : les cas possibles durant le jeu
 
 Un joueur peut être atteint dans les cas suivants :
 
-- S’il se fait toucher par un fantôme (incarné ou non) : blessure sacrée (si la Bête s'acharne sur un joueur non protégé, elle finit par le tuer)
+- S’il se fait toucher par un fantôme (incarné ou non) : blessure sacrée ; s'il se fait attaquer durablement par la Bête, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer
 
 - S’il touche un objet manifestement maudit, comme un crâne sonore (les autres ossements sont sans danger) {% fact "cursed_skull_only_gives_sacred_injuries_not_bones" %} : blessure sacrée ; un pentacle, lui, n'est pas dangereux hormis durant un rituel {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
@@ -588,6 +588,11 @@ Certains avatars peuvent déjà être présents (par exemple en prière au cimet
 
 Après 10mn, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être un espoir de résolution de la malédiction. Il répond aux questions des joueurs, teste leurs bonnes intentions avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s’est encore mis en place “tout seul” (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans.
 
+La frénésie de la clochette spectrale
++++++++++++++++++++++++++++++++++++++++++++
+
+Un joueur sonnera probablement la clochette en début de jeu ; en tant que fantôme il faudra réagir conformément à la description de cet artefact mystique, en passant en mode "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}".
+
 L’ouverture du buffet d'outre-monde (temps 0h30)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -596,6 +601,7 @@ Une musique entraînante se déclenche (ex. https://www.youtube.com/watch?v=UPr4
 Les autres héros arrivent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, au cours duquel les mets du banquet sont dévoilés ; ces mets sont supposés automatiquement produits par la table enchantée. {% fact "buffet_table_magically_generates_food" %}
 
 Une fois la musique finie, joueurs et héros font connaissance autour du buffet. Il est assumé que, à dessein, ces mets magiques sont aussi accessibles aux fantômes (incarnés ou non).
+
 
 {% endmacro %}
 <{ early_game_events }/>
@@ -725,7 +731,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 - La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cette recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_map_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
 - Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), un sur l'établi de gemmologie, deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé ; un dans un **corridor toxique** de l’étage interdit (empoisonné à cause d'une potion qui s'est cassée dedans). {% fact "toxic_corridor_is_due_to_spilled_potion" %} {% hint 'spilled_potions_in_toxic_corridor' is provided %} {% hint "gem_rock_crystal" is needed %} {# Hint tags for this are in the clues document #}
-  Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% hint "androids_command_bracelet"' is needed %}
+  Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% hint "androids_command_bracelet" is needed %}
 
 - Enfin, il faut un récipient métallique avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 

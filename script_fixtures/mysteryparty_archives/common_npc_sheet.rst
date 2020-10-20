@@ -92,9 +92,18 @@ Pour être fair-play, un spectre doit **planifier** chacun de ses tours dans la 
 
 Seule exception : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélére le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% fact "phantoms_feel_humans_closer_than_3m" %}
 
-Un joueur touché par un spectre est blessé et doit appeler à l'aide, en restant au sol - le MJ lui indiquera son malus.
+Un joueur touché par un spectre est blessé et doit appeler à l'aide, en restant au sol - le MJ lui indiquera son malus. Le fantôme se désintéresse ensuite du blessé, sauf si celui-ci tente de lui barrer la route.
 
 Note : un fantôme peut en certaines évènements prédéterminées être atteint de **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**, ce qui est un peu comme une errance mais avec des règles plus précises et une davantage de vélocité.
+
+En tant que fantôme, y compris la Bête : Prêtez attention aux incantations de l'exorciste, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour l'éviter, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une balle sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes. Plus de détails ci-dessous.
+
+
+Les sorts d'exorcisme anti-fantômes (dont la Bête)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+<{ anti_phantom_spells }/>
+
 
 {% endmacro %}
 <{ common_npc_instructions }/>

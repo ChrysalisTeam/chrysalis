@@ -5,7 +5,7 @@ Vos compétences
 
 <{ explorer_sheet_intro }/>
 
-Mais les spécialités qui vous parle le plus, ce sont les sociétés humaines - passées et actuelles - et de l'art des blasons.
+Mais les spécialités qui vous parle le plus, ce sont les sociétés humaines - passées et actuelles - et  l'art des blasons. TODO TOD XXXXXX
 
 
 Initiations rituelles
@@ -59,13 +59,10 @@ Voici par exemple comment s'écoulaient, au meilleur prix, les éléments préci
 <{ treasures_value_summary }/>
 
 
-Eruditions diverses
+
+Vos connaissances sur les différents types de blessures
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-TODO, plantes ? Mots compliqués ? Latin ?
-
-Vos connaissances sur les différents types de blessures ???
 <{ injury_types_knowledge }/>
-
 
 
