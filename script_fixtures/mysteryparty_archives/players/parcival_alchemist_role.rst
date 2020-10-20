@@ -40,10 +40,6 @@ Les recettes que vous connaissez déjà
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-TODO POTION ANTIPOISON ICI OU AILLEURS ?  {% hint "recipe_antipoison_potion" is provided %}
-
-
-
 Potion de pestilence
 --------------------------
 
