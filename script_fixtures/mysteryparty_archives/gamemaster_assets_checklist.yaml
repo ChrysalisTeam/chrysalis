@@ -95,13 +95,12 @@
 -
   - "Coffre commun en bois marron des Maupertuis (protégé par un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %}"
   -
-    - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse + ECOUTEURS dans mini-boite de carton noir qui murmure WHAT XXXXX"
+    - "Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_enigma_in_common_brown_chest' is provided %}"
+    - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse + ECOUTEURS pour ladite mini-boîte"
     - "Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %}"
     - "Néon UV auto-alimenté"
     - "Objets divers sans intérêt: XXXXXXXXXXX"
-    - "TODO AUTRE CHOSE INTERESSANTE XXXXXXXX"
     - "Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app' is provided %}"
-    - "Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_enigma_in_common_brown_chest' is provided %}"
 
 -
   - "Cimetière"
@@ -180,10 +179,10 @@
     - "Mini-globe terrestre"
     - "Boule plasma Pearl (USB ou 4xAAA)"
     - "Guirlande multicolore SilverWireLights (3xAA) @Cat"
-    - "Lot de petites pierres du monde avec étiquettes"
-    - "Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}"
-    - "Cristaux et pierres diverses"
-    - "3 faux-galets creux"
+    -     - "Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et fluorite {% hint 'gem_fluorine' is provided %}"
+    - "Lot d'autres petites pierres du monde avec étiquettes"
+    - "Cristaux et gemmes diverses"
+    - "3 faux-galets creux TODO WHAT FOR??????"
     - "Coffret en bois clair et jointures laiton PIÉGÉ"
     - "Fontaine à encens (éteinte et sans cône d'encens) {% hint 'incense_fountain' is provided %}"
     - "Trésor caché dans un livre factice, non loin de CHALUMEAUX {% hint 'enigma_treasure_near_blowtorch' is needed %}"

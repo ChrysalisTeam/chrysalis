@@ -24,7 +24,7 @@ Sur vous lors de votre expédition: un nombre suffisant pour tous usages de fiol
 - Poudre de carapace de tortue
 - Lymphe de tarantule
 - Huile de ricin
-
+- Filtrat de marée lunaire
 
 
 
@@ -39,17 +39,8 @@ Sur vous lors de votre expédition: **fioles vides pour faire des mélanges**
 Les recettes que vous connaissez déjà
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- <TODO A LISTER>
-
-
-POTION DE PUANTEUR
-
 
 TODO POTION ANTIPOISON ICI OU AILLEURS ?  {% hint "recipe_antipoison_potion" is provided %}
-
-
-POTION DE FORCE (pour encore améliorer woodsman ?)
-
 
 
 
@@ -62,7 +53,7 @@ En mélangeant de l'essence de soufre avec du jus de Fungal rouge {% hint 'potio
 Pierre Anti-Philosophale
 ------------------------
 
-Recouvrir une gemme de fluorite avec de la lymphe de tarantule. La pierre ainsi créer permet de transformer en plomb, par simple contact, de petits objets d'or.
+Recouvrir une gemme de fluorite avec de la lymphe de tarantule. La pierre ainsi créer permet de transformer en plomb, par simple contact, de petits objets d'or. {% hint "gem_fluorine" is needed %}
 
 
 Potion d'autorité
@@ -71,7 +62,15 @@ Potion d'autorité
 {% hint "recipe_authority_potion" is provided %}
 
 La potion Délieur de Langue que de nombreux alchimistes connaissent est en réalité peu intéressante, le vin obtient d'aussi bons effets de bavardage.
-Mais si on y dissout une pierre de Chrysocolle, la potion résultante donne un regain d'énergie et de charisme qui permet de commander bien plus facilement aux autres humains, aux animaux, voire (si l'on n'est pas pressé) aux plantes. {% hint 'potion_tongue_untier' is provided %}
+Mais si on y dissout une pierre de Chrysocolle, la potion résultante donne un regain d'énergie et de charisme qui permet de commander bien plus facilement aux autres humains, aux animaux, voire (si l'on n'est pas pressé) aux plantes. {% hint "potion_tongue_untier" is needed %} {% hint "gem_chrysocolle" is needed %}
+
+
+Encens prophétique
+-----------------------
+
+Vous aimeriez aider les talents de prophète de votre soeur Oracle, et certains lieux sacrés de révélation requièrent de brûler un cône d'encens bien particulier pour que le le mysticisme s'active.
+
+Vous savez qu'il est nécessaire de faire fondre un "oeil-de-tigre" et une "aventurine" dans un chaudron - des ingrédients que vous ne connaissez pas - avec de l'huile de ricin, pour obtenir cet encens une fois le mélange refroidi.
 
 
 
