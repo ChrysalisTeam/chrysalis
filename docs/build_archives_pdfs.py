@@ -26,7 +26,7 @@ ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
-DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_cover  --show-frame-boundary"
+DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_frame  --show-frame-boundary"  # Use --show-frame-boundary (if necessary to debug)
 
 MAIN_OUTPUT_DIR = "output_archives"
 DOCUMENTS_OUTPUT_DIR = os.path.join(MAIN_OUTPUT_DIR, "documents")
@@ -116,10 +116,10 @@ ISOLATED_DOCS = {
     "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
 
     # FACTIONS (already included in player sheets)
-    "_faction_diakon_sheet": ("factions/diakon_group_sheet.rst", None),
-    "_faction_explorer_sheet": ("factions/explorer_group_sheet.rst", None),
-    "_faction_parcival_sheet": ("factions/parcival_group_sheet.rst", None),
-    "_faction_spy_sheet": ("factions/spy_group_sheet.rst", None),
+    #"_faction_diakon_sheet": ("factions/diakon_group_sheet.rst", None),
+    #"_faction_explorer_sheet": ("factions/explorer_group_sheet.rst", None),
+    #"_faction_parcival_sheet": ("factions/parcival_group_sheet.rst", None),
+    #"_faction_spy_sheet": ("factions/spy_group_sheet.rst", None),
 }
 
 
@@ -147,8 +147,6 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
 
 
     .. raw:: pdf
-    
-       Spacer 0 80
    
        PageBreak standardPage
        
@@ -280,8 +278,8 @@ def generate_archives_sheets():
         gm_data = all_data.copy()
         gm_data["current_player_id"] = master_login  # silent
         build_archives_pdf(GAMEMASTER_MANUAL_PARTS,
-                            filename_base="chrysalis_archives_gamemaster_manual", title="Maître de Jeu",
-                            add_page_breaks=True, jinja_context=gm_data, toc_depth=2)
+                            filename_base="chrysalis_archives_gamemaster_manual", title=None,
+                            add_page_breaks=True, jinja_context=gm_data, toc_depth=2, with_decorations=False)
 
     # -------------
 
