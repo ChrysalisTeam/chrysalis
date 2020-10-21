@@ -218,7 +218,6 @@
 
 # DIVERS AUTRES #
 
-
 -
   - "Richesses tootales à collecter"
   -
@@ -273,6 +272,7 @@
     - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, puis joueur oracle)"
     - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
     - "Sarbacane-nerf ou similaire (pour le druide)"
+    - "Sacoche de l'arkonte avec une fausse lettre compromettante au blason de faucille et houx {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %}"
 
 -
   - "Joueurs"

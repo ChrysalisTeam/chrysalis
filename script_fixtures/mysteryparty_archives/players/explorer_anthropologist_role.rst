@@ -30,29 +30,21 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 {% endfilter %}
 
 
-
 Connaissance des blasons
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-{% fact "coat_of_arms_of_maupertuis_is_caduceus" %}
-L'armoirie des Maupertuis était une reprise du caducée (bâton surmonté de deux ailes et entouré de deux serpents entrelacés).
-TODO
+Le {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %}, fondateur de la dynastie des Maupertuis, avait pris sur la fin de sa vie des armoiries de **dragon doré sur fond noir**. Ses descendants s'en sont rapidement éloignés au profit d'une reprise du **caducée** (bâton surmonté de deux ailes et entouré de deux serpents entrelacés). {% fact "coat_of_arms_of_maupertuis_is_caduceus" %}
+Les lignées ayant divergé de la famille Maupertuis ont souvent concerné une partie de ce symbolisme médical. {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %}
 
-Les lignées ayant divergé de cette famille ont souvent gardé une partie de ce symbole - bâton, aile ou serpent.
+Par décision de l'Ordre International de la Hiéraldique, il fut pendant longtemps interdit de créer soi-même un blason, même pour une oeuvre de fiction. Cependant, suite aux moeurs cruelles et honteuses de certaines familles royales, leurs blasons, ainsi que les symboles qui y tronaient, étaient bannis de la symbolique des vivants depuis bien avant le {% symbol "marasme planétaire" for "catastrophic_period" %}. Il a donc été argué que ces symboles "tabou" pourraient être utilisés dans les oeuvres de fiction, séparant ainsi clairement les armoiries réelles et celles destinées à l'amusement.
 
-DIRE CROSSENTAR!!!??? TODO
-
-Par décision de l'Ordre International de la Hiéraldique, il était pendant longtemps interdit de créer soi-même un blason, même pour une oeuvre de fiction. Cependant, suite aux moeurs belliqueuses et perfides de certaines familles royales, leurs blasons, ainsi que les symboles qui y tronaient, ont été bannis à jamais de la symbolique des vivants. Il a donc été argué que ces symboles "tabou" pourraient être utilisés dans les oeuvres de fiction, séparant ainsi clairement les armoiries réelles et celles destinées à l'amusement.
-
-Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson, l'oiseau-grue, la chèvre, le pangolin, la faucille, le fouet, le tabouret et la feuille de houx**.
-
-TODO dire blason du mage, et blason utile pour déchiffrer prophéties!!!
+Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson, l'oiseau-grue, la chèvre, le pangolin, la faucille, le fouet, le tabouret et la feuille de houx**. {% fact "sickle_and_holly_emblems_are_banned_in_reality" %}
 
 
 Estimation des monnaies et gemmes
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous connaissez bien la valeur des pièces et pierreries, ainsi que son évolution au fil de l'histoire*.
+Vous connaissez bien les valeurs des pièces et pierreries, ainsi que leur évolution au fil de l'Histoire.
 
 Voici par exemple comment s'écoulaient, au meilleur prix, les éléments précieux du temps des Maupertuis (leur valeur a chuté de moitié depuis, pendant que la monnaie "kash" est restée de valeur globalement constante) :
 

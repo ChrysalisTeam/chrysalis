@@ -71,8 +71,17 @@ Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_
 Si les soupçons ne trahison se sont éloignée de l'arkonte (crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter le soupçon sur le tombeau du Mage, ou mieux encore sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_inventor" %}
 
 
+Le complot anti-arkonte
+===========================
+
+Lorsque des joueurs se mettent à suivre les conseils du fantôme de l'arkonte, vous vous dite que le vent pourrait tourner pour vous ; vous décidez donc de le piéger, en laissant traîner une fausse lettre compromettante dans son ancienne sacoche de ceinture (que vous aviez subtilisée juste après la bataille), quelque part dans le domaine interdit. Vous avez imité de mémoire ce qui pourrait ressembler à des armoiries crédibles pour une secte secrète.
+
+Bien entendu, personne ne doit vous voir poser cette sacoche ; non seulement elle laissera entendre que l'arkonte a pénétré de son vivant dans le domaine interdit, mais aussi qu'il a volontairement tué les réfugiés Maupertuis pour ensuite les emprisonner maléfiquement dans la bibliothèque.
+{% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %} {% fact "sickle_and_holly_emblems_are_banned_in_reality" %}
+
+
 La bataille finale
-==============================
+=============================
 
 *Voici le résumé des évènements qui doivent mener à vous démasquer, et la façon dont vous devez réagir.*
 

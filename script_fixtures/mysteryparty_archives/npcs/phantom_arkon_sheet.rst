@@ -52,3 +52,6 @@ Vous connaissez d'autres légendes remontant à l'ère du {% symbol 'Mage Mos Pe
 Vous aviez, longtemps avant votre mort, rendu votre **squelette indestructible**, tout autant pour renforcer votre corps, que pour éviter que votre possible disparition dans les griffes de quelque ennemi ne demeure à jamais un mystère. C'est ça l'esprit de prévoyance.
 
 Si l'on vous interroge : vous ne connaissez pas de solution miracle à une **légion de zombies* - à part les combattre un à un avec des armes de préférence bénites. Mais vous avez entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
+
+Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votre sacoche de ceinture contenant quelques valeurs, afin qu'elle n'interfère pas ; vous ne savez pas ce qu'elle est devenue, mais son contenu pourrait aider les vivants en manque d'argent, vous le leur indiquez si l'occasion se présente.
+{% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
