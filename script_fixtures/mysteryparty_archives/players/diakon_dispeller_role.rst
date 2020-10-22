@@ -18,7 +18,7 @@ Le reconnaissance des envoûtements
 
 En imposant les mains sur un objet (ou un marquage) et en fermant les yeux, vous pouvez sentir s'il a été la cible de malédictions ou de bénédictions.
 
-Explications hors-jeu : un élément analysable par votre sensibilité porte une **petite pastille ronde** de couleur chaude (jaune, orange, rouge...) ; la couleur exacte est sans signification.
+Explications hors-jeu : un élément analysable par votre sensibilité porte une **petite pastille ronde de couleur chaude** (jaune, orange, rouge...) ; la couleur exacte est sans signification.
 
 Cette pastille porte divers symboles, dont parfois une **étoile** ; cette étoile doit avoir des branches en forme de traits sans épaisseurs - un polygone comme un triangle, un carré, un pentagone etc. ne comptent pas comme une étoile.
 
@@ -30,7 +30,7 @@ Par défaut, un envoûtement présent est de niveau "simple".
 S'il existe un petit **cercle** où que ce soit dans la pastille, alors l'envoûtement est de niveau "complexe".
 Si ce cercle contient un **unique point**, alors l'envoûtement passe au niveau "légendaire".
 
-Une autre pastille de même couleur peut être présente, avec un **code** à 3 lettres ; rentrez ce code dans votre {% symbol "portail de connaissances" for "hint_website_name" %} pour en apprendre plus sur l'objet en question.
+Une autre pastille de même couleur peut être présente, avec un **code** à 3 lettres ; rentrez ce code dans votre {% symbol "portail de connaissances" for "hint_website_name" %}, dans la **catégorie {% symbol "magie" for "bewitchment_portal_hint_category" %}**, pour en apprendre davantage sur l'objet en question.
 
 Vous devez bien sûr jouer théâtralement votre imposition des mains, et ne pas indiquer à quiconque cette signalétique hors-jeu avec la pastille.
 

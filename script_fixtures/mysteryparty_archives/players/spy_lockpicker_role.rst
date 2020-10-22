@@ -25,7 +25,3 @@ Vous disposez d'une clé magnétique, qui permet d'ouvrir des serrures dissimul�
 Trouver les emplacements exacts de ces mécanismes n'est pas toujours facile, mais votre collègue sondeur pourrait vous y aider. {% fact "spy_sounder_can_help_spy_lockpicker_regarding_magnetic_unlocker" %}
 
 Cette clé s'est parfois aussi révélée utile pour désactiver d'étranges antivols mis sur des meubles, livres ou autres objets.
-
-TODO comment trouver ces serrures avec pastilles ?  XXXXXX
-
-

@@ -21,22 +21,8 @@ Cependant, il semble que la **batterie de votre détecteur de métaux soit morte
 Détecteur de magnétisme
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-XXXXXXXXXXX Vous disposez d'une petite feuille de papier qui réagit aux champs magnétiques. Initialement destinée à comprendre la structure interne de certaines serrures magnétiques, elle s'est révélée encore plus utile pour déchiffrer d'étranges inscriptions de la lignée Maupertuis. Visiblement, leur magie runique a laissé une trace magnétique dans **certains papiers, certains tableaux, certains livres**. Bonne nouvelle pour vous.
+Vous disposez d'une petite feuille de papier qui réagit aux champs magnétiques. Initialement destinée à comprendre la structure interne de certaines serrures magnétiques, elle s'est révélée encore plus utile pour déchiffrer d'étranges inscriptions de la lignée Maupertuis. Visiblement, leur magie runique a laissé une trace magnétique dans **certains papiers, certains tableaux, certains livres**. Bonne nouvelle pour vous.
 
-*NOTE hors-jeu : En posant ou en faisant coulisser la feuille de détection sur certaines surfaces, vous pouvez y voir des lignes de champ magnétique, révélant soit des inscriptions, soit simplement la présence de systèmes d'ouverture magnétiques.*
-
-
-
-Kit d'observation-écoute
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Vous savez d'expérience que les vieilles familles lèguent souvent à leurs héritiers des conseils et indices sous des formes très petitement écrites ou très faiblement audibles, donc vous avez emporté **une loupe et un stéthoscope**, au cas où.
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> grimoire et table aui murmurent
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> quid de l'écriture petite ?
+*En posant ou en faisant coulisser la feuille de détection sur certaines surfaces, vous pouvez y voir des lignes de champ magnétique, révélant soit des inscriptions, soit simplement la présence de systèmes d'ouverture magnétiques.*
 
 
-Talkie Walkie ???
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-TODO XXXXXXXXXXXXXX

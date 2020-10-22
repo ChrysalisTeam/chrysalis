@@ -10,22 +10,12 @@ Depuis des décennies que vous baroudez dans les services secrets de votre patri
 <{ spy_sheet_intro }/> Et vos péchés mignons, ce sont les pièges et les explosifs. Rien de magique, uniquement les bons vieux phénomènes physiques qui ont largement fait leurs preuves.
 
 
-Reconnaissance des coffres piégés
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-PASTILLES
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> A SYSTEM DE CODE AUSSI !!!!!!!!!?????
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++> PEUT DEVINER SI UN COFFRE EST PIEGE ???
-
 Pièges physiques
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous êtes capable de désactiver les pièges à l'ancienne, qui pullulent dans les vieux temples et tombeaux.
+Vous êtes capable de reconnaître et désactiver les pièges à l'ancienne, mécaniques, qui pullulent dans les couloirs des vieux temples et tombeaux.
 
-*NOTE hors-jeu : les pièges sont simulés par des fils tendus en travers du chemin. Votre but est de les démonter sans faire tomber au sol de grelot. Vous devez, pour cette opération de déminage, être supervisé par le maître de jeu, qui vous donnera votre devenir si le déminage échoue. Vous pouvez pour cela toucher à tout ce qui constitue le piège (y compris les grelots), mais vous ne pouvez rien couper/casser. N'hésitez pas à en rajouter, à établir un périmètre de sécurité pour le déminage, etc.*
-
-TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
-TODO GRELOTS AVEC ELASTIQUES !!!!
+*NOTE hors-jeu : les pièges sont simulés par des fils tendus en travers du chemin ; il est possible de les contourner ou même de passer au dessus, mais buter dans un fil déclenche le piège. Votre but, lors d'une opération de déminage, est de démonter ces fils sans faire tomber au sol de grelot (ce n'est pas grave si les grelots tintent dans ce contexte). Vous devez, pour faire cela, être supervisé par le maître de jeu, qui vous donnera votre devenir si le déminage échoue. Lors d'un déminage, vous pouvez toucher à tout ce qui constitue le piège (y compris les grelots), mais vous ne pouvez rien couper/casser. N'hésitez pas à en rajouter au niveau théâtral, à établir un périmètre de sécurité pour votre intervention, etc.*
 
 
 Explosifs

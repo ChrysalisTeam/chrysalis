@@ -332,7 +332,7 @@ L’arkonte {% symbol "Valerias" for "arkon_name" %} (le paladin-exorciste lége
 <{ phantom_arkon_character_summary }/>
 
 
-Fédore Pass’muraille (le voleur)
+Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro phantom_thief_character_summary() %}

@@ -25,14 +25,6 @@ Ses flèchettes sont en solide {% symbol "Iridium" for "parcival_woodsman_bullet
 
 A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres les semaines précédentes, il ne vous reste **qu'une seule munition** dans votre arme. {% hint "single_bullet_left_for_woodsman" is needed %}
 
-# TODO une des balles doit être trouvable en jeu!!!!
-
-{#
-
-- forte carrure, porte de lourdes charges
-- a un pistolet
-
-#}
 
 Stratège Défenseur
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

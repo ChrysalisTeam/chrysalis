@@ -59,7 +59,3 @@ Ils vous arrive par moment d'avoir, non pas des révélation, mais juste de fort
 Ces émotions se révèlent parfois totalement erronnées, tant il est difficile de discerner entre de bonnes intuitions et de simples peurs ou préjugés.
 Mais cela ne vous empêche pas de les communiquer à vos proches, tout en gardant l'esprit ouvert à la réalité des choses.
 
-XXX TODO - peut détecter ex. la présence de la bete à son arrivée???
-XX se sent en sécurité pour eux et sa famille près du tombeau du mage, mais pas pour les autres jouers
-XX sent qu'il faut revenir à la fontaine d'encens quand tou tsera perdu
-TODO

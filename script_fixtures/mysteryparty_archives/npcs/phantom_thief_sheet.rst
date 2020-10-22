@@ -1,5 +1,5 @@
-Fantôme - Le Voleur XXXX
-##################################
+Fantôme - Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
+#####################################################
 
 Votre histoire
 =======================

@@ -5,7 +5,7 @@ Vos compétences
 
 <{ explorer_sheet_intro }/>
 
-Mais les spécialités qui vous parle le plus, ce sont les sociétés humaines - passées et actuelles - et  l'art des blasons. TODO TOD XXXXXX
+Et vous avez ainsi de petites expertises dans tout un ensemble de domaines, des sociétés humaines - passées et actuelles - aux blasons en passant par la médecine et les estimations financières.
 
 
 Initiations rituelles
@@ -30,15 +30,10 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 {% endfilter %}
 
 
-Connaissance des blasons
+Vos connaissances sur les différents types de blessures
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Le {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %}, fondateur de la dynastie des Maupertuis, avait pris sur la fin de sa vie des armoiries de **dragon doré sur fond noir**. Ses descendants s'en sont rapidement éloignés au profit d'une reprise du **caducée** (bâton surmonté de deux ailes et entouré de deux serpents entrelacés). {% fact "coat_of_arms_of_maupertuis_is_caduceus" %}
-Les lignées ayant divergé de la famille Maupertuis ont souvent concerné une partie de ce symbolisme médical. {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %}
-
-Par décision de l'Ordre International de la Hiéraldique, il fut pendant longtemps interdit de créer soi-même un blason, même pour une oeuvre de fiction. Cependant, suite aux moeurs cruelles et honteuses de certaines familles royales, leurs blasons, ainsi que les symboles qui y tronaient, étaient bannis de la symbolique des vivants depuis bien avant le {% symbol "marasme planétaire" for "catastrophic_period" %}. Il a donc été argué que ces symboles "tabou" pourraient être utilisés dans les oeuvres de fiction, séparant ainsi clairement les armoiries réelles et celles destinées à l'amusement.
-
-Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson, l'oiseau-grue, la chèvre, le pangolin, la faucille, le fouet, le tabouret et la feuille de houx**. {% fact "sickle_and_holly_emblems_are_banned_in_reality" %}
+<{ injury_types_knowledge }/>
 
 
 Estimation des monnaies et gemmes
@@ -51,10 +46,12 @@ Voici par exemple comment s'écoulaient, au meilleur prix, les éléments préci
 <{ treasures_value_summary }/>
 
 
-
-Vos connaissances sur les différents types de blessures
+Connaissance des blasons
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-<{ injury_types_knowledge }/>
+Le {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %}, fondateur de la dynastie des Maupertuis, avait pris sur la fin de sa vie des armoiries de **dragon doré sur fond noir**. Ses descendants s'en sont rapidement éloignés au profit d'une reprise du **caducée** (bâton surmonté de deux ailes et entouré de deux serpents entrelacés). {% fact "coat_of_arms_of_maupertuis_is_caduceus" %}
+Les lignées ayant divergé de la famille Maupertuis ont souvent concerné une partie de ce symbolisme médical. {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %}
 
+Par décision de l'Ordre International de la Hiéraldique, il fut pendant longtemps interdit de créer soi-même un blason, même pour une oeuvre de fiction. Cependant, suite aux moeurs cruelles et honteuses de certaines familles royales, leurs blasons, ainsi que les symboles qui y tronaient, étaient bannis de la symbolique des vivants depuis bien avant le {% symbol "marasme planétaire" for "catastrophic_period" %}. Il a donc été argué que ces symboles "tabou" pourraient être utilisés dans les oeuvres de fiction, séparant ainsi clairement les armoiries réelles et celles destinées à l'amusement.
 
+Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson, l'oiseau-grue, la chèvre, le pangolin, la faucille, le fouet, le tabouret et la feuille de houx**. {% fact "sickle_and_holly_emblems_are_banned_in_reality" %}
