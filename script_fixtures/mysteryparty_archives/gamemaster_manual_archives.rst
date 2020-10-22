@@ -226,7 +226,7 @@ Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 {% macro diakon_group_symbols() %}
 Le vêtement de reconnaissance des diacres de Bahamoot est une **étole violette** *(écharpe portée en travers du torse, fournie par les organisateurs)*.
 
-Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes par les pointes des doigts, les paumes éloignées l'une de l'autre, comme s'ils enserraient un globe entre elles ; c'est leur signe de prière. Lors de leurs déplacements en procession, ils ânonnent un **son "ôôôôhm"** lent et guttural *(à répéter ensemble en début de jeu)*.
+Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes par les pointes des doigts, les paumes éloignées l'une de l'autre, comme s'ils enserraient un globe entre elles ; c'est leur signe de prière. Lors de leurs déplacements en procession, ils ânonnent un **son "ôôôôhm"** lent et guttural.
 
 Leur devise est **"Le dragon est notre guide"**, à professer les mains jointes en prière là encore.
 
@@ -511,7 +511,7 @@ Les différents types de blessures
 
 {% macro injury_types_knowledge() %}
 
-Les agressions qu'un aventurier malchanceux est susceptible de subir se classent en trois catégories : attaques physiques, magiques et sacrées.
+Les agressions qu'un aventurier malchanceux est susceptible de subir se classent en trois catégories : **attaques physiques, magiques et sacrées**.
 
 Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, de foudre, de choc...), doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : biologique. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.
 
@@ -551,7 +551,7 @@ Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux
 
 Les joueurs sont très démunis face aux diverses blessures, il n'ont pas de compétences en ce sens. {% fact "players_have_no_medecine_abilites" %}
 
-Toutes les blessures peuvent être guéries par des avatars, mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur) : {% fact "avatar_abilities_are_randomly_hazardous" %}. Dans tous les cas, laisser d'abord le joueur **mariner dans ses blessures 5-10mn**, le temps de "rassembler ce qu'il faut pour soigner".
+Toutes les blessures peuvent être guéries par des avatars, mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur){% fact "avatar_abilities_are_randomly_hazardous" %}. Dans tous les cas, laisser d'abord le joueur **mariner dans ses blessures 5-10mn**, le temps de "rassembler ce qu'il faut pour le soigner".
 
 - la **duchesse** peut invoquer ses propres dieux, avec l'aide des diacres, pour réparer une blessure sacrée (touchant l'âme) {% fact "duchess_can_dangerously_heal_sacred_injuries" %}
 - le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "druid_can_dangerously_heal_limited_injuries" %}
@@ -609,7 +609,7 @@ Une fois la musique finie, joueurs et héros font connaissance autour du buffet.
 
 {% macro ankou_introduction_event() %}
 
-Le passage de l’Ankou (temps 1h)
+Le passage de l’Ankou dans la bibliothèque (temps 1h)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils n’ont rien à faire ici, qu’il n’est pas “la Bête”, qu’il ne leur veut pas de mal, puis finalement qu’il compte sur eux pour l'aider à résoudre le problème de ces âmes prisonnières des lieux. Puis il repart.
@@ -617,8 +617,7 @@ L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’i
 {% endmacro %}
 <{ ankou_introduction_event }/>
 
-*Les joueurs peuvent par la suite lui envoyer des questions pour les Maupertuis défunts, mais attention ceux-ci ne se souviennent pas de tout non plus.*
-
+*Les joueurs peuvent par la suite lui envoyer des questions pour les Maupertuis défunts, mais attention ceux-ci ne se souviennent pas de tout non plus.* {% fact "players_can_talk_to_the_dead_via_ankou" %}
 
 
 L'exploration du tombeau du mage fondateur
@@ -724,7 +723,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 - Le {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %} demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
 
-- Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec un **{"% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth). {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
+- Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth). {% hint "radio_frequency_scanner_app" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %}
 
 - Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà). {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
@@ -900,7 +899,7 @@ Survol des compétences spécifiques des participants
 
 Ces rôles peuvent être facilement réaffectés ou cumulés à l’intérieur d’une équipe, en cas de changements dans les joueurs présents. Ils viennent en plus des compétences communes à tous les joueurs (chercher des objets, utiliser des clefs, discuter avec des figurants), qui sont aussi nécessaires pour progresser dans les énigmes.
 
-IMPORTANT : chaque rôle doit avoir son “moment de gloire” prévu dans le scénario - à charge pour le joueur de savoir s’en saisir.
+IMPORTANT : chaque rôle doit avoir son **“moment de gloire”** prévu dans le scénario - à charge pour le joueur de savoir s’en saisir.
 
 Famille Parcival
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -912,27 +911,23 @@ Famille Parcival
 Agents secrets mirandiens
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Démineur : désactivation des pièges et manipulation d'explosifs
-- Sondeur : sait détecter les métaux et les signaux faibles
+- Démineur : sait désactiver des pièges et manipuler des explosifs
+- Sondeur : sait détecter les métaux et le magnétisme
 - Crocheteur : sait forcer certains cadenas, et visualiser/ouvrir des systèmes magnétiques
 
 Diacres de Bahamoot
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Désenvouteur : reconnait les envoûtements d'objets, et peut en supprimer
-
-- Exorciste : sait bannir des esprits et bénir des armes
-
-- Invocateur : sait invoquer des esprits ou réaliser des rituels magiques complexes
+- Exorciste : sait bannir des esprits et bénir des armes ; connait les types de blessures
+- Invocateur : sait réaliser des rituels magiques complexes
 
 Explorateurs-archéologues héliossars
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Runologue : sait traduire des runes et reconnaître divers codes secrets
-
 - Dévoileur : sait lire les encres UV invisibles, et analyser des objets
-
-- Anthropologue : érudit en traditions humaines, blasons, valeurs marchandes...
+- Anthropologue : érudit en traditions humaines, blasons, et valeurs marchandes ; connait les types de blessures
 
 
 .. raw:: pdf
@@ -943,7 +938,7 @@ Explorateurs-archéologues héliossars
 L'univers du jeu
 #############################
 
-*Ces informations sont répliquées par les fiches de personnage pertinentes.*
+*Ces informations sont répliquées dans des résumés généraux ou fiches de personnage pertinentes.*
 
 {% macro common_lore_for_all() %}
 
@@ -1018,7 +1013,7 @@ Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèqu
 
 Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul ne viole jamais la sépulture de ce vénérable aieul, ni aucun des dangereux mystères qu'il a emportés dans la tombe. A ce jour, aucune guilde de mages sur la planète ne serait probablement capable de briser autant d'envoutements accumulés. Mais peut-être qu'il est possible d'y entrer par des moyens détournés, qui sait ? {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}
 
-Note : une fois libérés de leur ancrage, en revanche, **les fantômes PEUVENT entrer** dans le tombeau and passant par les murs, qui ne sont pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Il peuvent donc ramener quelques informations sur le contenu du tombeau. {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
+*Note : une fois libérés de leur ancrage, en revanche, les fantômes PEUVENT entrer dans le tombeau and passant par les murs, qui ne sont pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Il peuvent donc ramener quelques informations sur le contenu du tombeau.* {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
 
 
 Les colliers éthériques

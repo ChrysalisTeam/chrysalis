@@ -36,14 +36,19 @@ styles:
         alignment: left
 
     heading1:
-        fontSize: 16
-        spaceBefore: 10
+        fontSize: 17
+        spaceBefore: 12
         spaceAfter: 2
 
     heading2:
-        fontSize: 14
-        spaceBefore: 7
+        fontSize: 15
+        spaceBefore: 9
         spaceAfter: 2
+
+    heading3:
+        fontSize: 12
+        spaceBefore: 5
+        spaceAfter: 1
 
     admonition:
         backColor: transparent

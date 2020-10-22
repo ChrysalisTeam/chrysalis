@@ -45,6 +45,6 @@ Sécurité physique et émotionnelle
 Note Finale
 ++++++++++++++++++
 
-Cette Mystery Party est un **JEU**, le but ultime est que tout le monde, joueur comme figurant, passe un bon moment. On fait donc preuve de savoir-vivre en toutes circonstances, on reste fair-play, on adapte son jeu pour aider et promouvoir les rôlistes débutants... et si l'on a un peu d'expérience, on peut même aider à la mise en place de situations et scènes particulièrement intéressantes (quitte à ce que le personnage lui-même y perde au change, comme lors d'un glorieux sacrifice personnel).
+Une Mystery Party est une expérience de jeu, le but ultime est donc que tout le monde, joueur comme figurant, passe un très bon moment. On fait donc preuve de savoir-vivre en toutes circonstances, on reste fair-play, on adapte son jeu pour aider et promouvoir les rôlistes débutants... et si l'on a un peu d'expérience, on peut même aider à la mise en place de situations et scènes particulièrement intéressantes (quitte à ce que le personnage lui-même y perde au change, comme lors d'un glorieux sacrifice personnel).
 
 {% endmacro %}

@@ -38,7 +38,7 @@ Estimation des monnaies et gemmes
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous connaissez bien la valeur des pièces et pierreries, ainsi que les meilleurs endroits pour les écouler à **meilleur prix**.
-Bien entendu, lorsque vous négociez, vous sous-estimez systématiquement de **20%** les richesses que l'on vous apporte, et escroquez ainsi ceux qui ne s'y connaissent pas.
+Bien entendu, lorsque vous négociez, vous sous-estimez systématiquement de **20%** les richesses que l'on vous apporte, et escroquez ainsi ceux qui ne s'y connaissent pas. Mais face à un expert en estimation de biens, vous vous inclinez.
 
 <{ treasures_value_summary }/>
 

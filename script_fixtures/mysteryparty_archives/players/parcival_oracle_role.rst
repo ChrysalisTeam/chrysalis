@@ -11,7 +11,7 @@ Vos oracles sont souvent très énigmatiques, mais avec l'aide de vos proches, v
 Ainsi, tandis que vous pénétrez dans la bibliothèque enfouie des Maupertuis, tous vos sens sont en éveil, pour pouvoir prévenir vos proches, par ces révélations mystérieuses, des aubaines et des dangers qu'elle recèle.
 
 
-La survenue des oracles
+La survenue des révélations
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Parfois, les prophéties vous tombent dessus sans prévenir. Mais bien plus souvent, elles se produisent lorsque vous rencontrez des personnes elles aussi habituées aux influences prophétiques. Vos sens entrent alors en résonnance mutuelle, donnant des prophéties soit complètes, soit partagées entre les personnes présentes.

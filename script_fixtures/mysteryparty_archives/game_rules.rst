@@ -11,15 +11,15 @@ Apprentissage et suivi du scénario
 ++++++++++++++++++++++++++++++++++++++
 
 - **Lisez attentivement vos fiches de personnage** et tout autre document utile ; n'hésitez pas à surligner les passages qui vous semblent importants, et à les imprimer - ces papiers seront considérés comme hors-roleplay sur place
-- Prévoyez de quoi prendre des notes en cours de jeu (stylo voire calepin), si vous le désirez
+- Prévoyez de quoi prendre des notes en cours de jeu (stylo et calepin), si vous le désirez
 - Par souci de simplicité, les feuilles de personnage sont par défaut accordées au masculin, mais la plupart des rôles sont non genrés ; voyez avec les organisateurs si vous avez des préférences à ce niveau
 
 
 Distinction des objets RP/HRP
 ++++++++++++++++++++++++++++++++
 
-- **La nourriture et les boissons du buffet sont hors-roleplay**, vous ne risquez donc rien à vous en empiffrer gaiement
-- Certains papiers (documents du MJ, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels ; **en particulier, ne pas montrer sa feuille de personnage aux autres joueurs, même alliés**
+- **La nourriture et les boissons du buffet sont hors-roleplay**, vous ne risquez donc rien à vous en empiffrer gaiement.
+- Certains papiers (documents du MJ, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels ; **en particulier, ne pas montrer sa feuille de personnage aux autres joueurs, même alliés**.
 - Lorsque des **meubles sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu. Similairement, lorsque des objets sont recouverts d'un tissu noir, c'est qu'ils ne sont pas (encore) matérialisés dans le monde du jeu.
 - Du **scotch noir** peut aussi être utilisés pour désigner des objets soudés ensemble, ou scellés ; ce scotch ne doit pas être enlevé par les joueurs.
 - Des marqueurs tels **petites pastilles autocollantes, plumes colorées ou perles plates en verre** peuvent être utilisés désigner des points d'action, ou pour annoter des objets du jeu. Ne les touchez pas. Si vous ne les reconnaissez pas, vous ne pouvez pas transmettre leur contenu à un autre joueur (car ces éléments sont hors-jeu), mais vous pouvez lui demander de "jeter un oeil, car cette objet vous semble étrange/piégé/magique". Les méthodes de déchiffrement de ces annotations ne peuvent pas être transmises entre joueurs, car elles représentent des compétences sophistiquées dans l'univers du jeu.

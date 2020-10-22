@@ -30,7 +30,7 @@ Par défaut, un envoûtement présent est de niveau "simple".
 S'il existe un petit **cercle** où que ce soit dans la pastille, alors l'envoûtement est de niveau "complexe".
 Si ce cercle contient un **unique point**, alors l'envoûtement passe au niveau "légendaire".
 
-Une autre pastille de même couleur peut être présente, avec un **code** à 3 lettres ; rentrez ce code dans votre {% symbol "portail de connaissances" for "hint_website_name" %}, dans la **catégorie {% symbol "magie" for "bewitchment_portal_hint_category" %}**, pour en apprendre davantage sur l'objet en question.
+Une autre pastille de même couleur peut être présente, avec un **code** à 3 lettres ; rentrez ce code dans votre {% symbol "portail de connaissances" for "hint_website_name" %}, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.
 
 Vous devez bien sûr jouer théâtralement votre imposition des mains, et ne pas indiquer à quiconque cette signalétique hors-jeu avec la pastille.
 

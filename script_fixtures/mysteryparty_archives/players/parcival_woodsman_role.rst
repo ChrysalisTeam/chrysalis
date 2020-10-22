@@ -13,9 +13,6 @@ Vous êtes costaud. Mais vraiment, vraiment costaud. Cela vous permet de souleve
 
 *NOTE hors-jeu : De tels objets seront signalés en jeu par une étiquette, leur poids réel restant bien sûr faible.*
 
-- armure de l'arkonte
-- porte de métal barrant un passage !!!
-
 
 Mini-arbalète
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -48,4 +45,4 @@ Les wendigos, des humanoides émaciés friands de chair humaine, sont très rare
 
 Une créature que vous n'avez jamais vu, et que vous souhaitez ne jamais voir, est sens conteste le thestral. Ce monstre hippique, squelettique et ailé, se déplace rapidement entre les arbres, et s'en prendrait violemment aux promeneurs isolés, par pur plaisir sadique. Vous prenez donc toujours soin de vous cachez lorsque vous entendez un jappement suraigu au loin. Surtout qu'il ne lui est connu aucune vulnérabilité particulière, sinon un nombre suffisant de coups de hache dans son corps malingre.
 
-Quant aux strigas, dryades, spriggan et autres créatures amatrices de magie, vous les connaissez peu, et vous avez toujours pris soin d'aller chercher l'aide d'experts lorsque le cas se présentait ; ces créatures-là ne sont heureusement dangereuses que lorsqu'elles sont affamées ou blessées.
+Quant aux strigas, dryades, spriggans et autres créatures amatrices de magie, vous les connaissez peu, et vous avez toujours pris soin d'aller chercher l'aide d'experts lorsque le cas se présentait ; ces créatures-là ne sont heureusement dangereuses que lorsqu'elles sont affamées ou blessées.
