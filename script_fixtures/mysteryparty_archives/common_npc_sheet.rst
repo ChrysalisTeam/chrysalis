@@ -99,10 +99,12 @@ Note : un fantôme peut en certaines évènements prédéterminées être attein
 En tant que fantôme, y compris la Bête : Prêtez attention aux incantations de l'exorciste, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour l'éviter, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une balle sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes. Plus de détails ci-dessous.
 
 
-Les sorts d'exorcisme anti-fantômes (dont la Bête)
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Les sorts d'exorcisme affectant les fantômes
+++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-<{ anti_phantom_spells }/>
+*Extraits de la fiche de personnage de l'Exorciste*
+
+<{ phantom_related_spells }/>
 
 
 {% endmacro %}
