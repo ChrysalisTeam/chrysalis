@@ -30,7 +30,7 @@ Le plus commun et polyvalent des tracés rituels est sans doute le **{% symbol "
 
 La maitrise de tels pentacles est sans doute l'art le plus complexe de votre discipline ; seuls les grands maîtres du monastère savent en créer, et il s'agit d'un processus prenant facilement plusieurs heures. N'importe quelle personne formée aux arts invocatoires peut en revanche activer et utiliser un pentacle existant.
 
-Un pentacle n'est jamais en soi dangereux ; initiés comme non-initiés peuvent marcher dessus sans crainte. Il ne faut en revanche jamais passer dedans durant un rituel, sous peine d'être impliqué à son insu dans ce dernier. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+Un pentacle n'est jamais en soi dangereux ; {% symbol "initiés" for "ritualist_kind_name" %} comme non-initiés peuvent marcher dessus sans crainte. Il ne faut en revanche jamais passer dedans durant un rituel, sous peine d'être impliqué à son insu dans ce dernier. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
 Les **sceaux sont de lointaines variantes des pentacles** ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle. Il s'agit de supports spécialisés à des fins précises, typiquement pour **contrôler l'accès** à des savoirs dangereux, ou accompagner **l'initiation des membres** d'une dynastie magicienne.
 
@@ -50,38 +50,48 @@ Cette invocation permet d'immobiliser une entité vivante ou morte, pour deux jo
 Rituel :
 
 - Utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
-- Placer à l'intérieur l'entité ciblée, quelque soit son état actuel
+- Amener à l'intérieur l'entité ciblée, quelque soit son état actuel
 - Réciter trois fois à haute voix "Si tu dois demeurer, au moins ne bouge plus"
-- L'entité doit rester à l'intérieur du pentagone pendant toute la durée du rituel, sans quoi l'envoûtement échoue.
+- L'entité peut bouger un peu, mais elle doit rester à l'intérieur du pentagone pendant toute la durée du rituel, sans quoi l'envoûtement échoue.
 
 
 Message à un défunt
 +++++++++++++++++++++++++++++
 
-TODO pour demander à mere maupertuis son code, il faut envoyer message à l'ANKOU
-COMMUNICATION A QUICONQUE DANS AU DELA - {% fact "diakon_invoker_can_message_ankou" %}
+Les dieux empêchent habituellement que les vivants perturbent la quiétude des morts, cependant si vous obtenez les faveurs d'une divinité quelconque, et qu'elle vous indique son **adresse mortuaire**, vous pouvez lui envoyer un **message spirituel**. {% fact "diakon_invoker_can_message_ankou" %}
+
+Pour cela, il faut vous mettre en cercle avec 2 autres {% symbol "initiés" for "ritualist_kind_name" %}, mains tendues vers le centre du cercle, et déclamer cette invocation :
+
+*Ô <nom du dieu>, toi qui résides au <adresse mortuaire>, réponds à notre quémande: <votre demande> ; nous attendons avec un coeur fébrile ta réponse.*
 
 
 Bénédiction de terrain anti-zombie
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-(anti zombie IMPORTANT)
-{% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
+Lassés des bouffoneries de nécomanciens, tous les invocateurs de votre ordre ont appris à purifier certains terrains (surtout cimetières et champs de batailles  - afin d'éviter la survenue de morts-vivants. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
+
+TODO à REDIGER
 
 
-RUPTURE DE CLOTURE ABSOLUE
-+++++++++++++++++++++++++++++++++++++++++++++++
+RUPTURE DE {% symbol "clôture absolue" for "library_cursed_enclosure_name" %}
+++++++++++++++++++++++++++++++++++++++++++++++++++
 
-{% fact "diakon_invoker_can_break_cursed_enclosure" %} VOIR GAMEMASTER SHEET
+TODO à REDIGER - VOIR les contraintes dans la GAMEMASTER SHEET
+
+{% fact "diakon_invoker_can_break_cursed_enclosure" %}
 
 
 Lumière sacrée
 ++++++++++++++++++++++
 
-Peut allumer chandelles éteintes
+Il peut allumer chandelles éteintes  {% fact "diakon_invoker_can_light_candles" %}
+
+TODO à REDIGER
 
 
 Sort de foudre
 ++++++++++++++++++++
 
 Mais ne marche pas dans la bibliothèque car sous-terrain....
+
+TODO à REDIGER

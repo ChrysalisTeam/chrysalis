@@ -19,6 +19,8 @@ Vous leur expliquez que vous aviez oublié lors de votre dernier passage cet acc
 *Normalement, la cloche devrait être devenue introuvable à ce moment du jeu, ce dont vous vous plaignez alors.*
 Dans tous les cas, vous demandez aux joueurs de laisser la cloche bien en évidence (s'ils la retrouvent), sur place, car vous en aurez bientôt l'usage ici, si - comme vous le souhaitez - les joueurs brisent la malédiction de la bibliothèque (il est donc inutile de vous embarrasser de cet objet pour la suite de vos affaires en ce jour).
 
+Important : vous indiquez au joueurs que si l'un d'eux a une question à vous poser, ou à transmettre à l'un des défunts Maupertuis, il peut - s'il en a la compétence mystique - envoyer un message spirituel au **"42 avenue du Saule Pleureur, Hadès Nord"** (votre adresse mortuaire) ; vous lui répondrez alors de la façon qui vous siéra. *L'adresse exacte importe peu, le tout est que le joueur l'aie.*
+
 
 Informations et instructions spécifiques
 ========================================

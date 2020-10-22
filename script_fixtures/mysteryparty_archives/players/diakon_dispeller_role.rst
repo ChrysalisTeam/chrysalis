@@ -44,7 +44,7 @@ Si l'envoûtement reconnu est de niveau "simple", il suffit de solliciter l'aide
 Il faut que vous imposiez tous les deux les mains au dessus de l'objet, et que vous **seul** prononciez, et bien fort, l'incantation : **"Par le souffle sacré de Bahamoot, ô matière inerte, nous rompons les liens qui te lient aux strates ensorcelées".**
 En cas de réussite, le maître de jeu retire la pastille de l'objet.
 
-Si l'envoûtement est de niveau "complexe", alors il faut être au moins **trois initiés** pour réaliser le désenvoutement.
+Si l'envoûtement est de niveau "complexe", alors il faut être au moins **trois {% symbol "initiés" for "ritualist_kind_name" %}** pour réaliser le désenvoutement.
 
 Il faut alors dans l'ordre :
 
