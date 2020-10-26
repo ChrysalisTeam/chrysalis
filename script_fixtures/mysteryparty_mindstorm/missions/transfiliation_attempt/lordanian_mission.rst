@@ -6,7 +6,7 @@ Agents,
 
 nos services sont en alerte, car un concile religieux secret a lieu en ce moment même en Akarie, concile qui pourrait faire basculer la situation géopolitique de la région midolienne.
 
-D'après nos sources, les chefs religieux akarites vont décider, à cette occasion, si leur théologie autorise la "transfiliation" du peuple dorien, c'est à dire le fait de les considérer comme des confrères dans leur religion (qui est originellement héréditaire). Si la doctrine de la transfiliation est plébiscitée, il y a des chances que le Duc Dorien s'allie, avec son peuple, aux fanatiques akarites, de peur de subir leurs assauts.
+D'après nos sources, les chefs religieux akarites vont décider, à cette occasion, si leur théologie autorise la "transfiliation" du peuple dorien, c'est-à-dire le fait de les considérer comme des confrères dans leur religion (qui est originellement héréditaire). Si la doctrine de la transfiliation est plébiscitée, il y a des chances que le Duc Dorien s'allie, avec son peuple, aux fanatiques akarites, de peur de subir leurs assauts.
 {% endmacro %}
 <{ yodic_council_risk_intro }/>
 

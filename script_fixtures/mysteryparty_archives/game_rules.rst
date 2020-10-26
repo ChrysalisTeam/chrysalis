@@ -18,7 +18,7 @@ Apprentissage et suivi du scénario
 Distinction des objets RP/HRP
 ++++++++++++++++++++++++++++++++
 
-- **La nourriture et les boissons du buffet sont hors-roleplay**, vous ne risquez donc rien à vous en empiffrer gaiement.
+- **La nourriture et les boissons du buffet sont hors-roleplay**, vous ne risquez donc rien à vous en délecter gaiement.
 - Certains papiers (documents du MJ, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels ; **en particulier, ne pas montrer sa feuille de personnage aux autres joueurs, même alliés**.
 - Lorsque des **meubles sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu. Similairement, lorsque des objets sont recouverts d'un tissu noir, c'est qu'ils ne sont pas (encore) matérialisés dans le monde du jeu.
 - Du **scotch noir** peut aussi être utilisés pour désigner des objets soudés ensemble, ou scellés ; ce scotch ne doit pas être enlevé par les joueurs.

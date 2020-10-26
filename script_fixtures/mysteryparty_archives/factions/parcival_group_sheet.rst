@@ -4,7 +4,7 @@ Heureusement, à ce moment là, des archéologues héliossars ont mis au jour de
 
 
 {% macro portal_to_library_opened() %}
-Quelques jours plus tard, comme chaque année depuis des siècles, un portail magique s'est amorcé lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, dans la cave d'un vieux chateau voisin ; un passage permettant de rejoindre, pour une journée seulement, les archives secrètes des Maupertuis. C'est visiblement par ce sortilège que cette famille invitait ses vassaux magiciens du monde entier à célébrer la nouvelle année, même si cette tradition était manifestement oubliée depuis longtemps quand le manoir des Maupertuis fut brûlé.
+Quelques jours plus tard, comme chaque année depuis des siècles, un portail magique s'est amorcé lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, dans la cave d'un vieux château voisin ; un passage permettant de rejoindre, pour une journée seulement, les archives secrètes des Maupertuis. C'est visiblement par ce sortilège que cette famille invitait ses vassaux magiciens du monde entier à célébrer la nouvelle année, même si cette tradition était manifestement oubliée depuis longtemps quand le manoir des Maupertuis fut brûlé.
 
 Il vous a fallu plus d'une demi-journée pour percer le fonctionnement de ce portail et le réveiller entièrement, il vous reste donc un peu plus de **{% symbol "3 heures" for "library_outside_portal_remaining_time" %}** pour explorer les lieux, lorsque vous vous y matérialisez. Mais pour fouiller un vieux tas de livres, cela devrait amplement suffire, n'est-ce pas ?
 {% endmacro %}

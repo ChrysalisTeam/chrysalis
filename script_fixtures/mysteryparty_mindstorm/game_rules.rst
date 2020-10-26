@@ -15,7 +15,7 @@ Apprentissage et suivi du scénario
 Distinction des objets RP/HRP
 ++++++++++++++++++++++++++++++++
 
-- Sauf très explicite mention contraire, **la nourriture et les boissons du buffet sont hors-roleplay**, vous ne risquez donc rien à vous en empiffrer gaiement
+- Sauf très explicite mention contraire, **la nourriture et les boissons du buffet sont hors-roleplay**, vous ne risquez donc rien à vous en délecter gaiement
 - Le MJ peut avoir décidé de marquer les objets et documents "non quelconques", et qui font partie du jeu, par le moyen de son choix ; c'est à voir avec lui en début de partie
 - Certains éléments (documents du MJ, réserves d'argent du MJ, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels ; **en particulier, ne pas montrer sa feuille de personnage aux autres joueurs, même alliés**
 - **Les appareils-photo sont hors-roleplay**, ils ne pourront servir à obtenir des éléments à charge contre vous ; il en est de même des **caméras de surveillance**, qui sont, dans le scénario, supposées désactivées dans tout le manoir durant la soirée

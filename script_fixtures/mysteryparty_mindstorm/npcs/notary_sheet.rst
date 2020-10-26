@@ -17,7 +17,7 @@ Après la première série de ventes (des artefacts et gemmes assez banals pour 
 
 - vous devez lire en privé, avec lui, le **brouillon de son testament**, qu'il garde dans son coffre-fort. Vous avez sur vous diverses copies de ses documents, dont ledit brouillon. Au cas où il lui arriverait quelque chose, Loyd Georges vous a demandé de procéder sans délai à la lecture de son testament, afin de préserver les intérêts de sa maisonnée.
 
-- vous devez prêter assistance à la **vente de concession minière** qui sera faite par Lydia, c'est à dire la laisser librement mener cette vente, mais vous assurer préalablement que les acheteurs potentiels ont bien un mandat valide, et vous tenir à sa disposition si elle a besoin de conseils. Le prix d'achat doit être un multiple de 0.5 mégakashes.
+- vous devez prêter assistance à la **vente de concession minière** qui sera faite par Lydia, c'est-à-dire la laisser librement mener cette vente, mais vous assurer préalablement que les acheteurs potentiels ont bien un mandat valide, et vous tenir à sa disposition si elle a besoin de conseils. Le prix d'achat doit être un multiple de 0.5 mégakashes.
 
 
 {% macro sabarim_notable_has_no_body_search() %}

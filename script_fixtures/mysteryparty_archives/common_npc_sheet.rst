@@ -67,10 +67,10 @@ Vous êtes donc libre de faire "revivre" la **nostalgie de ces époques révolue
 Quelques exemples de **courtes controverses** qui peuvent surgir de façon inopinée entre les avatars, en particulier lors d'un possible ralentissement du rythme du jeu :
 
 - La duchesse considère que seule la poésie en rimes est digne d'intérêt, et que les poèmes en prose sont des signes de lâcheté et de fainéantise. L'inventeur, au contraire, prétend que seule la prose donne assez de liberté pour choisir les rythmes et mots les plus forts et évocateurs. Le druide, en retrait, affirme que seule la rosée du matin sur la mousse des bois, ou le coucher de soleil sur les monts embrumés, peut prétendre être de la poésie.
-- La duchesse ne jure que par le chant a capella et les musiques classiques, l'inventeur essaie de lui faire écouter de la musique ElectroSwing de sa composition (ex. sur une petite enceinte cachée dans une "boite à musique"). Le druide dit que seul le son du vent dans les arbres et les polyphonies de loups son tde la vraie musique.
+- La duchesse ne jure que par le chant a capella et les musiques classiques, l'inventeur essaie de lui faire écouter de la musique ElectroSwing de sa composition (ex. sur une petite enceinte cachée dans une "boite à musique"). Le druide dit que seul le son du vent dans les arbres et les polyphonies de loups sont de la vraie musique.
 - Et bien d'autres oppositions un peu cliché entre "conservateur" et "progressiste"...
 
-De leur côté, les automates peuvent parfois montrer se mettre à **dysfonctionner**, jusqu'à ce que l'avatar inventeur ou un joueur ne les débloque :
+De leur côté, les automates peuvent parfois se mettre à **dysfonctionner**, jusqu'à ce que l'avatar inventeur ou un joueur ne les débloque :
 
 - Se retrouver dans une impasse logique, en voulant constamment céder la priorité à l'autre ("Mais non... Après vous... Je n'en ferais rien...") ;
 - Soudain se mettre à babiller, ou tourner en rond, de façon incohérente, façon "engrenage défectueux" ;

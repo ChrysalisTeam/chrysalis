@@ -11,6 +11,6 @@ Il semble que les industriels akarites aient trouvé un procédé chimique astuc
 Notre duc a été discrètement mais fermement *invité* par les judicateurs à leur fournir des ressources en sable bitumineux ; dans un but non-militaire, disent-ils ; mais qu'importe, ce n'est pas comme si nous avions le choix.
 
 Une personnalité de Sabarim propose aujourd'hui à la vente un important gisement de tels sables bitumineux, qui contient en quantité suffisante les "terres rares" nécessaires à la coagulation (une réaction qui lie ensemble les grains de sables et les gouttes de bitume).
-Avec les techniques modernes, nous pouvons extraire en quelques mois l'intégralité des ressources accessibles dans le gisement, c'est à dire l’équivalent de **20 mégakashes** de sables bitumineux complets.
+Avec les techniques modernes, nous pouvons extraire en quelques mois l'intégralité des ressources accessibles dans le gisement, c'est-à-dire l’équivalent de **20 mégakashes** de sables bitumineux complets.
 
 {% include "missions/mining_lease_negotiation/generic_mission_briefing.rst" %}

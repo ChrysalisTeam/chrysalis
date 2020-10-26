@@ -16,7 +16,7 @@ C'est à vous qu'il reviendra de répondre à l'appel téléphonique émis par l
 
 Vous avez aussi autorité comme **négociateurs**, pour trouver un terrain d'entente qui convienne à tous les clans akarites et aux doriens, au cas où le concile ne serait pas convaincu par cette démonstration de pureté doctrinale.
 
-Je dois cependant vous prévenir que c'est à contrecœur que je vous donne ces missions ; un vent d'amertume souffle en effet parmi la population dorienne, qui commence à considérer les manœuvres de notre Duc non plus comme de la diplomatie prudente, mais comme de la soumission, voire de la trahison envers nos anciens alliés masslaves et héliossars. Je ne sais pas quelles seront les nouvelles conditions des doriens, mais il faudra comparer cela à la solution par défaut, c'est à dire une terrible guerre contre les akarites, au côté des autres états non-akarites.
+Je dois cependant vous prévenir que c'est à contrecœur que je vous donne ces missions ; un vent d'amertume souffle en effet parmi la population dorienne, qui commence à considérer les manœuvres de notre Duc non plus comme de la diplomatie prudente, mais comme de la soumission, voire de la trahison envers nos anciens alliés masslaves et héliossars. Je ne sais pas quelles seront les nouvelles conditions des doriens, mais il faudra comparer cela à la solution par défaut, c'est-à-dire une terrible guerre contre les akarites, au côté des autres états non-akarites.
 
 Notez que l'issue de tout ceci dépendra aussi des autres orateurs qui témoigneront devant le concile. Il a ainsi fuité que le **Pr Schaladuk**, sociologue akarite expatrié en Dorie, pourrait être sollicité pour donner son avis sur ce que les doriens pensent généralement du culte akarite ; et difficile de présager de sa réponse.
 
