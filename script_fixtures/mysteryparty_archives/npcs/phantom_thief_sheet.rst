@@ -28,7 +28,7 @@ Important : vous devez **vider** en hors-jeu cette pochette chaque fois que vous
 
 - Vous savez que la broche en laiton de Mérédice de Maupertuis, évoquée dans les souvenirs de certains de ses descendants, était une pièce importante pour avoir accès au trésor ; elle laissait cette broche dans son petit bureau d'études d'occultisme, qui trônait **dans le coin du domaine interdit, par delà le laboratoire d'alchimie**. {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}. **PRIX : 160 kashes**.
 
-- La formule magique pour activer votre {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} est **"Astrolabe, transporte moi là-bas"** {% fact "thief_knows_teleportation_device_formula" %}. Il peut téléporter jusqu'à {% symbol '3 personnes' for 'thief_teleportation_device_simultaneous_limit' %} à la fois, du moment qu'elles tiennent chacun un de ses pieds. On peut l'utiliser autant de fois qu'on veut, mais vous prévenez qu'il faut attendre {% symbol '30 secondes' for 'thief_teleportation_device_cooldown' %} entre chaque téléportation. **PRIX : 200 kashes**
+- La formule magique pour activer votre {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} est **"Astrolabe, transporte moi là-bas"** {% fact "thief_knows_teleportation_device_formula" %}. Il peut téléporter jusqu'à {% symbol '3 personnes' for 'thief_teleportation_device_simultaneous_limit' %} à la fois, du moment qu'elles tiennent chacune l'un de ses pieds. On peut l'utiliser autant de fois qu'on veut, mais vous prévenez qu'il faut attendre {% symbol '30 secondes' for 'thief_teleportation_device_cooldown' %} entre chaque téléportation. **PRIX : 200 kashes**
 
 
 {# LATER indice pour la quete de la potion de guérison #}

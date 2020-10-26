@@ -23,7 +23,7 @@ Les rituels d'exorcisme
 **Bénédiction d'arme**
 
 Vous êtes capable de bénir une arme de poing, ou une munition (flèche, balle...), pour quelle ait prise sur les entités du monde des morts.
-Les armes ainsi sacrées ne peuvent bien sûr pas réellement blesser ou tuer des êtres qui sont déjà morts ; mais par les impacts mystiques qu'ils infligent, elles peuvent chasser des fantomes agressifs, et atténuer leur lien au monde des vivants - les condamnant ainsi à passer une plus grande proportion de temps sous forme spectrale, entre deux incarnations. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
+Les armes ainsi sacrées ne peuvent bien sûr pas réellement blesser ou tuer des êtres qui sont déjà morts ; mais par les impacts mystiques qu'ils infligent, elles peuvent chasser des fantômes agressifs, et atténuer leur lien au monde des vivants - les condamnant ainsi à passer une plus grande proportion de temps sous forme spectrale, entre deux incarnations. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
 
 Cette bénédiction ne fonctionne que sur les métaux nobles : **Paladium, Iridium, Platine, ou Mithril**.
 

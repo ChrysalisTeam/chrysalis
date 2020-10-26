@@ -32,7 +32,7 @@ Ce genre de situation ne dure jamais éternellement. Donc vous attendez, en osci
 Informations et instructions spécifiques
 ========================================
 
-Vous avez gardé un esprit d'enfance, et vous interpellez parfois les joueurs de façon improbable, en leur racontant des anecdotes de votre relation enfance complice avec votre soeur, en leur demandant quel est leur live ou leur reptile préféré, en leur demandant comment c'est "dehors" maintenant...
+Vous avez gardé un esprit d'enfance, et vous interpellez parfois les joueurs de façon improbable, en leur racontant des anecdotes de votre relation enfance complice avec votre soeur, en leur demandant quel est leur livre ou leur reptile préféré, en leur demandant comment c'est "dehors" maintenant...
 
 Si l'on vous apprend que votre soeur Mérédice a en réalité survécu aux persécutions qui ont détruit le manoir, vous êtes rempli d'enthousiasme ; mieux encore, si vous faites la rencontre de ses lointains descendants (vos piti-piti-piti...fillots), vous débordez d'affection et de gratitude envers eux.
 
