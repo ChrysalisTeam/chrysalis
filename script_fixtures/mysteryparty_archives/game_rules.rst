@@ -22,9 +22,9 @@ Distinction des objets RP/HRP
 - Certains papiers (documents du MJ, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels ; **en particulier, ne pas montrer sa feuille de personnage aux autres joueurs, même alliés**.
 - Lorsque des **meubles sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu. Similairement, lorsque des objets sont recouverts d'un tissu noir, c'est qu'ils ne sont pas (encore) matérialisés dans le monde du jeu.
 - Du **scotch noir** peut aussi être utilisés pour désigner des objets soudés ensemble, ou scellés ; ce scotch ne doit pas être enlevé par les joueurs.
-- Des marqueurs tels **petites pastilles autocollantes, plumes colorées ou perles plates en verre** peuvent être utilisés désigner des points d'action, ou pour annoter des objets du jeu. Ne les touchez pas. Si vous ne les reconnaissez pas, vous ne pouvez pas transmettre leur contenu à un autre joueur (car ces éléments sont hors-jeu), mais vous pouvez lui demander de "jeter un oeil, car cette objet vous semble étrange/piégé/magique". Les méthodes de déchiffrement de ces annotations ne peuvent pas être transmises entre joueurs, car elles représentent des compétences sophistiquées dans l'univers du jeu.
+- Des marqueurs tels **des petites pastilles autocollantes, plumes colorées ou perles plates en verre** peuvent être utilisés pour désigner des points d'action, ou pour annoter des objets du jeu. Ne les touchez pas. Si vous ne les reconnaissez pas, vous ne pouvez pas transmettre leur contenu à un autre joueur (car ces éléments sont hors-jeu), mais vous pouvez lui demander de "jeter un oeil, car cette objet vous semble étrange/piégé/magique". Les méthodes de déchiffrement de ces annotations ne peuvent pas être transmises entre joueurs, car elles représentent des compétences sophistiquées dans l'univers du jeu.
 - Les livres modernes sont considérés comme des grimoires écrits dans des langues que vous ne pouvez comprendre.
-- Les objets modernes (lampes...) sont traités comme leurs équivalents dans un monde steampunk, ou ignorés s'ils sont high-tech (oridinateurs...).
+- Les objets modernes (lampes...) sont traités comme leurs équivalents dans un monde steampunk, ou ignorés s'ils sont high-tech (ordinateurs...).
 - si un participant traverse la salle avec le **poing levé**, c'est qu'il est hors-jeu, ignorez-le.
 - En cas de doute sur ce qui est en jeu ou non, demander au MJ ou aux PNJs.
 
@@ -38,7 +38,7 @@ Compétences, objets et pièges
 - **Les objets du jeu sont parfois fragiles, on ne les secoue pas et on ne force pas dessus, en particulier s'ils sont équipés d'un système de verrouillage. Ils nécessitent alors soit d'avoir des compétences spéciales pour les ouvrir (ex. systèmes magnétiques), soit de trouver, selon les cas :**
 
   - **Leur clef en métal (s'ils s'agit d'une serrure ou cadenas à clef)**
-  - **Leur code secret (s'il s'agit de mollettes à chiffres)**
+  - **Leur code secret (s'il s'agit de molettes à chiffres)**
 
 - Les coffrets et valises qui sont posés sur le sol ou sur une table sont considérés **inamovibles**, il ne faut pas les bouger, et encore moins les secouer pour jauger ce qu'ils contiennent (risque d'objets ou mécanismes fragiles, là encore) ; les petits coffrets et boites placés dans d'autres rangements peuvent, eux, être déplacés avec précaution.
 

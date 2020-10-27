@@ -12,27 +12,27 @@ Respect de l'immersion
 
 Le jeu est pensé pour se jouer en immersion complète. Pour en profiter pleinement, et par respect pour les organisateurs et les autres joueurs :
 
-- On **prend des marges importantes** pour ne pas arriver en retard et risquer de perturber la planification du jeu, surtout si l'on prend des transports en commun
+- On **prend ses dispositions en termes d'horaires** pour ne pas arriver en retard et risquer de perturber la planification du jeu, surtout si l'on prend des transports en commun
 - On ne prévoit **pas** d'impératifs horaires juste après le jeu, car il est possible que celui-ci déborde un peu en cas d'imprévu
 - On se garde de toute discussion sans rapport avec le jeu, même (et surtout) en cas de période de flottement
 - On reste discret lorsque l'on demande des informations en hors-roleplay, par exemple au maître de jeu
 - Les potentiels appareils technologiques sont eux aussi dédiés au jeu, donc on ne répond pas à ses appels/sms/emails personnels durant la partie
-- On s'habille de façon un minimum crédible ; des costumes et robes peuvent suffire comme base, mais trouver des accessoires steampunk/renaissance/victorien (dans des boutiques de déguisement, aux puces, sur leboncoin, sur ebay...) ajoutera beaucoup de cachet à l'ambiance.
+- Les vêtements ont leur importance ; des costumes et robes peuvent suffire comme base, mais trouver des accessoires steampunk/renaissance/victorien (dans des boutiques de déguisements, aux puces, sur leboncoin, sur ebay...) ajoutera beaucoup de cachet à l'ambiance.
 
   - Exemples d'accessoires: chapeau melon ou haut-de-forme, jabot, canne, robe à crinoline, éventail...
   - Il est possible de se changer sur place.
 
-Plus généralement, on tente d'ajouter un peu de jeu d'acteur aux différentes situations, en simulant les émotions, les travaux de force physique ou de concentration mentale, la réalisation des diverses opérations que l'on peut avoir à mener, les blessures potentiellement reçues...
+Il est vivement encouragé d'ajouter un peu de jeu d'acteur aux différentes situations, en simulant les émotions, les travaux de force physique ou de concentration mentale, la réalisation des diverses opérations que l'on peut avoir à mener, les blessures potentiellement reçues...
 
 
 Sécurité physique et émotionnelle
 +++++++++++++++++++++++++++++++++++++
 
-- **Pas de contact physique** hormis les mains (et les baisemains), sauf consentement prélalable entre joueurs (ex. pour réaliser une scène d'empoignade)
+- **Pas de contact physique** hormis les mains (et les baisemains), sauf consentement prélalable entre joueurs (ex. pour réaliser une scène d'empoignade) ; attention, en période de pandémie, les contacts physiques sont à éviter entièrement
 - On ne court pas dans les escaliers ; aucun ennemi ne vous y rattrapera, donc on se tient bien à la rambarde et on s'y déplace tranquillement ; même prudence à proximité de balustrades
 - L'univers du jeu est plutôt léger, envoutant, courtois ; donc on évite les **situations sordides** comme la torture, le viol, l'inceste, etc.
 - Si une situation vous oppresse trop en tant que joueur , vous pouvez l'interrompre **en disant "STOP", ou en faisant une croix avec les mains**. On en discute alors "hors roleplay", pour voir si son intensité doit être modulée, si elle doit être expédiée (avec une ellipse temporelle), ou si elle est réputée n'avoir jamais eu lieu.
-- Signalez aux organisateurs si vous avez des **phobies** (de l'obscurité, de certains animaux...) pour qu'ils voient si cela peut poser problème.
+- Si ce n'est déjà fait, signalez aux organisateurs si vous avez des **phobies** (de l'obscurité, de certains animaux...) pour qu'ils voient si cela peut poser problème.
 - Signalez de même les **allergies** (surtout alimentaires), ou autres problèmes de santé, que vous pourriez avoir.
 
 {% endmacro %}
