@@ -85,7 +85,7 @@ Rituel :
 
 Attention, cet exorcisme ne fonctionne bien que si toutes les entités qui sont venues en ce monde par l'objet concerné sont **retournées**, ou à défaut sont placées **dans** le pentacle. Sans cela, le ritualiste rencontrera une résistance, et l'invocation ne sera pas résolue au bout du temps normal. Si l'officiant continue alors son invocation pendant **30 secondes supplémentaires**, cela forcera sa réalisation, mais avec la conséquence dramatique de **"tuer"** lesdites entités d'outre-monde, quoi que cela signifie concrètement.
 
-Notez qu'il est possible, en une seule invocation, de briser plusieurs corridors d'outre-monde à la fois, mais il faut pour cela placer les objets liés à chacun de ces corridors dans le pentacle, et surtout avoir autant de diacre participant au gestes rituels et incantations qu'il n'y a de corridors à fermer. {% fact "multiple_avatars_can_be_simultaneously_expelled_with_ritual" %}
+Notez qu'il est possible, en une seule invocation, de briser plusieurs corridors d'outre-monde à la fois, mais il faut pour cela placer les objets liés à chacun de ces corridors dans le pentacle, et surtout avoir autant de diacres participant au gestes rituels et incantations qu'il n'y a de corridors à fermer. {% fact "multiple_avatars_can_be_simultaneously_expelled_with_ritual" %}
 
 
 Vos connaissances sur les différents types de blessures

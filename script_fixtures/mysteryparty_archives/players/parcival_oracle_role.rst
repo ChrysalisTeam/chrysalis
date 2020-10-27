@@ -55,7 +55,7 @@ Pour les **révélations auditives** : un figurant vous fera écouter une premi�
 Les intuitions
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Ils vous arrive par moment d'avoir, non pas des révélation, mais juste de forts attraits ou appréhensions.
+Il vous arrive par moment d'avoir, non pas des révélations, mais juste de forts attraits ou appréhensions.
 Ces émotions se révèlent parfois totalement erronnées, tant il est difficile de discerner entre de bonnes intuitions et de simples peurs ou préjugés.
 Mais cela ne vous empêche pas de les communiquer à vos proches, tout en gardant l'esprit ouvert à la réalité des choses.
 

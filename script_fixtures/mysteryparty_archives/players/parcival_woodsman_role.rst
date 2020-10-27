@@ -3,7 +3,7 @@
 Vos compétences
 ====================================
 
-Depuis tout petit, vous vous ennuyez dans les lectures et les sciences abstraites, mais vous revivez lorsque vous êtes dans les grands espaces et l'activité physiques intense. C'est pour cela que vous êtes naturellement devenu "Gardien des bois", un titre prestigieux qui regroupe les activités de garde-chasse, de bûcheron-jardinier et de traqueur de monstres.
+Depuis tout petit, vous vous ennuyez dans les lectures et les sciences abstraites, mais vous revivez lorsque vous êtes dans les grands espaces et l'activité physique intense. C'est pour cela que vous êtes naturellement devenu "Gardien des bois", un titre prestigieux qui regroupe les activités de garde-chasse, de bûcheron-jardinier et de traqueur de monstres.
 
 
 Force herculéenne
@@ -37,9 +37,9 @@ Vous pourriez écrire un roman sur toutes les saletés que vous avez croisées d
 
 Les vampires sont à votre avis des dangers bien exagérés ; qu'ils soient sous forme humaine ou animale, un coup de massue leur apprend vite les bonnes manières ; leur crainte de la lumière les rend faciles à repousser, et leur morsure est en réalité bien plus douloureuse que toxique.
 
-Vous avez en revanche dû fuir plus d'une fois leurs lointains cousins, les goules des cavernes, créatures trop dangereuses pour être combattues par le commun des mortels. Vous savez cependant que certains paysans leur tendent des pièces sophistiqués, en profitant de leur addiction innée pour les "{% symbol "pierres de lune" for "phosphorescent_pebbles_name" %}", des sortes de galets phosphorescents. {% fact "beast_is_addicted_to_moon_stones" %}
+Vous avez en revanche dû fuir plus d'une fois leurs lointains cousins, les goules des cavernes, créatures trop dangereuses pour être combattues par le commun des mortels. Vous savez cependant que certains paysans leur tendent des pièges sophistiqués, en profitant de leur addiction innée pour les "{% symbol "pierres de lune" for "phosphorescent_pebbles_name" %}", des sortes de galets phosphorescents. {% fact "beast_is_addicted_to_moon_stones" %}
 
-Vous n'avez croisé qu'un seul loup-garou, alosr qu'il ressortait d'une de ses transformation nocturne. Les bons soins des shamans du village ont permis de rapidement guérir le malheureux, ce qui est heureux car la force d'un lycanthrope pleinement enragé peut facilement dépasser la vôtre. Vous les savez heureusement très, trop sensibles aux odeurs fortes (oeufs pourris, charognes...), ce qui peut perturber leurs habileté au combat.
+Vous n'avez croisé qu'un seul loup-garou, alors qu'il ressortait d'une de ses transformations nocturnes. Les bons soins des shamans du village ont permis de rapidement guérir le malheureux, ce qui est heureux car la force d'un lycanthrope pleinement enragé peut facilement dépasser la vôtre. Vous les savez heureusement très, trop sensibles aux odeurs fortes (oeufs pourris, charognes...), ce qui peut perturber leur habileté au combat.
 
 Les wendigos, des humanoides émaciés friands de chair humaine, sont très rares sur pangéa. Vous en avez combattu deux dans votre masure, en plein hiver, et par chance les recettes traditionnelles ont fonctionné : une bonne flèchette en {% symbol "Iridium" for "parcival_woodsman_bullets_metal" %} dans le coeur de l'un, et une bonne plongée dans le feu de la cheminée pour l'autre.
 
