@@ -1,0 +1,157 @@
+---
+
+descent_rpg:
+    common_equipments:
+        - caving suit with helmet and leather gloves
+        - bacteriochemical protection mask (agility -1)
+        - large backpack and 10 litre bags, all waterproof
+        - steel pick
+        - torch (range 30m, long duration)
+        - 5 light geodes (range 1m, warm without flame, waterproof, lasts 20mn)
+        - 1/2 telescopic stretcher
+        - "Survival kit: lighter, string, multi-purpose knife, 10-foot rope, 1 ration, water..."
+        - Akarite legend of the "Three Divine Orbs"...
+
+    players:
+
+        archaeologist:
+
+            name: "Professor Sylvius, archaeologist(s)"
+
+            stats:
+                constitution: 3
+                agility: 4
+                observation: 4
+
+            missions: |
+               Prove it's a real archaeological scoop, in that it's a :
+
+               - temple of the yodic religion (native of Akaria)
+               - of the dissident "Razulite" denomination, once annihilated by its rival "Taranite"...
+               - which was used after the fall of Nazur (the former Razulite capital) 500 years ago.
+
+               In particular, bring back **2 exceptional artifacts** to support your claims.
+
+               Various enigmatic writings that you keep in mind: *"At the end of the depths we are holed up, to worship the Yod until the true Prophet returns", "The beings of the air open their door to the east, the beings of the earth open theirs to the west, that they may bestow their deeds", and the beings of the water will lose their domination", "Thus thrones the crossentar on this archaic temple of our forefathers", "Raise your eyes, faithful, to the cloud of the prophecy of the Yods", "In the cold the tear sleeps until the return of the only prophet".
+               **Note** : *use the A/B marks only when there are two archaeologists, one a physicist, the other a linguist.*
+
+            abilities:
+                - "history, religion, legends, and Akarite traps."
+
+                - "[A] broad education in hard sciences (math, physics, chemistry, biology, geology....)"
+                - "[A] analytical meteorology"
+
+                - "[B] wide education in literature, psychology, sociology, ethnology..."
+                - "[B] ancient Akarite languages (except the sacred runes)"
+
+            equipment:
+                - "headlamp (range 1m, no flame)"
+                - "archaeology kit: trowel, brush, magnifying glass..."
+
+                - "[A] mass spectrometer (simple chemical constitution of a sample)"
+                - "[A] sonar for solid/liquid/gas volumes (3D ultrasound)"
+                - "[A] metal detector (range 1m)"
+
+                - "[B] notebook on Akaris (biotope, history, geography, geology)"
+                - "[B] 2 antique paint restoration kits"
+                - "[B] camera (high resolution, with flash, max 6 shots)"
+
+
+        naturalist:
+
+            name: "Dr. Physh, naturalist"
+
+            stats:
+                constitution: 3
+                agility: 3
+                observation: 4
+
+            missions: |
+               To bring back zoological-botanical information, to found a department of Life Sciences at the Alifir Academy:
+
+               - find 2 new species, animal or plant
+               - make 2 scientific discoveries, on the adaptation of existing species to underground life
+               - filming 5 innovative sequences, for an exceptional report on the fauna and flora of the Akaris country
+
+               **Note** : great Friend of Nature, you can't bear to see a wild beast dying in a zoo or aquarium...
+
+            abilities:
+                - broad education in life sciences (zoology, botany, biology...)
+                - poison knowledge
+                - hand-climbing
+                - camouflage
+                - inter-academy boxing champ
+
+            equipment:
+                - meagre notebook on the Akaris biotope
+                - amphibious camera (8 sequences, medium resolution, high sensitivity)
+                - light spot (range 10m, waterproof)
+                - portable vivarium 50 litres
+                - fine landing net (1m handle)
+
+
+        protector:
+
+            name: "Rodok, adventurer"
+
+            stats:
+                constitution: 4
+                agility: 4
+                observation: 4
+
+            missions: |
+                Protect all other members of the expedition, even at the cost of your life. More generally - and to your great regret - Loyd Georges hopes that there will be no injuries (and even fewer deaths) among potential Akarite aggressors, as this would lead to serious diplomatic unrest.
+
+                Personally, you dream of getting your hands on the **Berserk Elixir Recipe**, a potion that gives temporary superhuman strength and insensitivity to pain, and whose Razulite confession took the secret away in its demise. It is up to you to ask your teammates for help in this quest.
+
+            abilities:
+                - intuitive weather
+                - hostile survival
+                - swimming and scuba diving
+                - climbing and caving
+                - panegian fauna and flora
+                - rudiments of a dozen Panamanian languages
+
+            equipment:
+                - long machete
+                - compact crossbow (1 grapple, 4 squares, 4 soporifics)
+                - 30m of ultra-strong cord
+                - diving tank (10mn of autonomy)
+                - night vision goggles
+                - spy kit (3 wireless microphones and 1 listening console)
+                - radioactivity detector
+
+
+        butler:
+
+            name: "Rydji, butler"
+
+            stats:
+                constitution: 3
+                agility: 3
+                observation: 3
+
+            missions: |
+                Ensure the financial success of this operation, on which the survival of the entire household of Sir Loyd George depends.
+
+                Exceptional archaeological finds are *legally* unsaleable, and are supposed to be left at the disposal of the Scientific Academy. You will therefore have to be careful to bring back artifacts of lower scientific value, and any valuable materials (even, why not, biological).
+
+                Minimum target for paying off debts : **100 kashes of loot**.
+
+            abilities:
+                - propriety and protocol of the Sabarite nobility
+                - people management
+                - knowledge of precious metals and gems and their market prices
+                - experienced artificer
+                - fundamentals of scuba diving
+                - basics in first aid and first aid
+
+            equipment:
+                - radio transceiver linked to base camp
+                - pistol (2 unsilent bullets)
+                - 3 sticks of dynamite
+                - 100m of explosive fuse (speed 5m/s)
+                - 1 stinging smoke
+                - gemmological analysis kit # (microscope, polariscope, refractometer, dichroscope and spectroscope)"
+                - medical and poison control kit
+...
