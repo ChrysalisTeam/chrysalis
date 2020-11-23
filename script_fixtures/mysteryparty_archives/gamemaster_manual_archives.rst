@@ -759,7 +759,7 @@ Les différents bijoux :
 
 - La broche de la mère de famille se trouve sur la tombe d’Octave, qui l’avait portée en souvenir après l'avoir retrouvée dans la bibliothèque ; cette broche était quasiment tout ce qui restait dans les cendres de l’enfant après la trahison, les avatars l’ont donc déposée là en signe de deuil. Cet objet doit guider les joueurs dans la compréhension de l’énigme globale. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %} {% fact "octave_carried_mother_jewel_after_her_death" %}
 
-- La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Le **détecteur de magnétisme** donne une code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier.
+- La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Le **détecteur de magnétisme** donne un code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier.
   {% hint "maupertuis_father_jewel_in_twin_books" is needed %} {% hint "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
 
 - La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont cachés dans un SCEAU d'initiation. Il s’agissait d’une épreuve pour Octave, qui devait être capable de “sentir” la présence de l’objet magique avant d’y avoir droit. Les joueurs doivent activer le sceau, écouter le message enregistré qui leur résumé l'épreuve, puis utiliser le **détecteur de métal** pour deviner le coffre qui a l’objet. Seul un héritier Maupertuis peut effectivement déclencher la résolution de cette initiation. {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% fact "only_maupertuis_heirs_can_take_initiation" %} {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}
@@ -806,7 +806,7 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 
 - Dans le tombeau se trouve entre autres, sur la dépouille du mage, la {% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %}. {% hint 'ring_amplificans' is needed %}
 
-- Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, car ils ont quelques invocateursdans leur armée ; à condition qu’ils puissent quitter les lieux, bien sûr.
+- Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, car ils ont quelques invocateurs dans leur armée ; à condition qu’ils puissent quitter les lieux, bien sûr.
 
 Neutraliser le méchant  
 +++++++++++++++++++++++++++++++++++++
@@ -825,7 +825,7 @@ Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 
 - L’un montre une main boisée et griffue menaçant le monde, ainsi qu'un crâne sous des racines d’arbres, permettant de découvrir le crâne de l'arkonte dans la “mini jungle d’intérieur” du druide.
   {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
-  **L’analyse médicale du crâne** montre un empoisonnements au curare, ce qui fait naturellement suspecter le druide.  {% hint "arkon_skull_analysis_showing_curare_poisoning" is needed %}
+  **L’analyse médicale du crâne** montre un empoisonnement au curare, ce qui fait naturellement suspecter le druide.  {% hint "arkon_skull_analysis_showing_curare_poisoning" is needed %}
 - Un autre oracle montre un livre portant le chiffre 3, coincé entre un inventaire d’animaux et des évocations de cuisine. Le plan de l'étage autorisé indique les rayons de "Zoologie" et des "Patisseries", entre lequels le Tome 3 du roman du Druide est caché. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_map_showing_zoology_and_cooking_shelves" is needed %}
   La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% hint "chaos_novel_volume_three_between_zoology_and_cooking_shelves" is needed %}
 
@@ -1013,7 +1013,7 @@ Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèqu
 
 Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul ne viole jamais la sépulture de ce vénérable aieul, ni aucun des dangereux mystères qu'il a emportés dans la tombe. A ce jour, aucune guilde de mages sur la planète ne serait probablement capable de briser autant d'envoutements accumulés. Mais peut-être qu'il est possible d'y entrer par des moyens détournés, qui sait ? {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}
 
-*Note : une fois libérés de leur ancrage, en revanche, les fantômes PEUVENT entrer dans le tombeau and passant par les murs, qui ne sont pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Il peuvent donc ramener quelques informations sur le contenu du tombeau.* {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
+*Note : une fois libérés de leur ancrage, en revanche, les fantômes PEUVENT entrer dans le tombeau en passant par les murs, qui ne sont pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Il peuvent donc ramener quelques informations sur le contenu du tombeau.* {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
 
 
 Les colliers éthériques
