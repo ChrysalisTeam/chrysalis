@@ -1,0 +1,303 @@
+---
+
+rentals:
+
+    # CONTINENTS AND COUNTRIES #
+
+    Austrions:
+        summary: ""
+        geolocation: [727,314,867,335]
+
+    Baronies:
+        summary: ""
+        geolocation: [867,243,952,261]
+
+    Kingdom_of_Suabel:
+        summary: ""
+        geolocation: [647,347,735,386]
+
+    Antaria:
+        summary: ""
+        geolocation: [1091,202,1166,221]
+
+    Dorian_Dukedom:
+        summary: ""
+        geolocation: [590,700,692,745]
+
+    Republic_of_Masslavia:
+        summary: ""
+        geolocation: [574,785,669,855]
+
+    Akaris:
+        summary: ""
+        geolocation: [417,871,491,891]
+
+    Heliossar:
+        summary: ""
+        geolocation: [512,993,612,1019]
+
+    Midolia:
+        summary: ""
+        geolocation: [649,962,790,999]
+
+    Thelassar:
+        summary: ""
+        geolocation: [713,1036,814,1062]
+
+    Aquilin_Counties:
+        summary: ""
+        geolocation: [795,885,892,935]
+
+    Nanimatchi:
+        summary: ""
+        geolocation: [871,1045,984,1063]
+
+    Axolia:
+        summary: ""
+        geolocation: [980,1086,1090,1118]
+
+    Yumeimatchi:
+        summary: ""
+        geolocation: [1026,1043,1156,1066]
+
+    Balberith:
+        summary: ""
+        geolocation: [960,1160,1051,1181]
+
+    Sabarim:
+        summary: ""
+        geolocation: [748,1185,833,1206]
+
+    Beth_Asmavoth:
+        summary: ""
+        geolocation: [958,1296,1110,1318]
+
+    Nalavut:
+        summary: ""
+        geolocation: [852,1410,935,1433]
+
+    Lilitian_Sea:
+        summary: ""
+        geolocation: [1055,1453,1205,1482]
+
+    Akta:
+        summary: ""
+        geolocation: [768,1572,819,1594]
+
+    Jenedun:
+        summary: ""
+        geolocation: [1211,884,1299,908]
+
+    Keroskia:
+        summary: ""
+        geolocation: [1270,837,1421,870]
+
+    Principality_of_Beelmon:
+        summary: ""
+        geolocation: [1377,889,1496,966]
+
+    Svabodia:
+        summary: ""
+        geolocation: [1350,682,1446,705]
+
+    Tieros_Olim:
+        summary: ""
+        geolocation: [1170,682,1295,706]
+
+    Slavinka:
+        summary: ""
+        geolocation: [1105,586,1197,609]
+
+    Kuniski:
+        summary: ""
+        geolocation: [1098,472,1185,493]
+
+    Lordanian_Federation:
+        summary: ""
+        geolocation: [1352,1312,1468,1363]
+
+    Intragean_Sea:
+        summary: ""
+        geolocation: [1199,1147,1372,1176]
+
+    Panhydrical_Ocean:
+        summary: ""
+        geolocation: [1715,947,1958,980]
+
+    Dioric_Ocean:
+        summary: ""
+        geolocation: [811,692,986,724]
+
+
+    # TOWNS #
+
+    Endara:
+        summary: "A sea of salt and a refrigerated city."
+        geolocation: [1085,164,20]
+
+    Blassow:
+        summary: "This city once enjoyed Endara's prosperity, but it followed it into decline."
+        geolocation: [1204,171,20]
+
+    Kosalam:
+        summary: "For a long time, this island was considered a divine domain by the Akarite priests, and covered with temples. But natural disasters finally convinced it was actually cursed, and people left in bulk."
+        geolocation: [468,564,20]
+
+    Whussla:
+        summary: "One of the few cities in the region that has never been hit by bombings or other attacks."
+        geolocation: [399,670,20]
+
+    Nelm:
+        summary: "City known to have been the birthplace of many heresies in Akarie."
+        geolocation: [388,804,20]
+
+    Zorzas:
+        summary: "Legend has it that the three Divine Orbs were discovered in a giant crater near this ancient city."
+        geolocation: [368,954,20]
+
+    Monon:
+        summary: "This city is full of statues of the Wonderful Zealot Bartzar, even though no one remembers what exactly he did!"
+        geolocation: [364,1022,20]
+
+    Holdamis:
+        summary: "City of jewellers and craftsmen."
+        geolocation: [502,1065,20]
+
+    Lukas:
+        summary: "Violent battles took place here, when Akarite zealots landed to try to encircle the rebel armies. Centuries later, the consequences of these events are still being felt."
+        geolocation: [577,1119,20]
+
+    Belez:
+        summary: "A major scientific hub."
+        geolocation: [709,1242,20]
+
+    Nazur:
+        summary: "Small hamlet lost in the hills."
+        geolocation: [531,885,20]
+
+    Nimouk:
+        summary: "A major seaport on this continent."
+        geolocation: [595,678,20]
+
+    Mastden:
+        summary: "Once the sacred sanctuary of a great empire, this upland city is now the property of grasses and birds."
+        geolocation: [681,864,20]
+
+    Denkos:
+        summary: "The capital of Masslavie is more determined than ever to defend itself against the imperial claims of its eastern neighbour."
+        geolocation: [577,948,20]
+
+    Ghek:
+        summary: "Many of the guides and mercenaries, hired by Loyd Georges for his expedition to Nazur, came from this place. But most of them fled when they realized that Loyd Georges had exhumed a sacred Akarite mausoleum."
+        geolocation: [712,1095,20]
+
+    Faeran:
+        summary: "Charming town."
+        geolocation: [818,1146,20]
+
+    Cazoar:
+        summary: "Luxury Village."
+        geolocation: [882,1140,20]
+
+    Salima:
+        summary: "A city renowned for the safety and professionalism of its bank."
+        geolocation: [781,1248,20]
+
+    Alifir:
+        summary: "City of scientific influence."
+        geolocation: [869,1228,20]
+
+    Omrh:
+        summary: "People are very nervous at the moment. They hope with all their hearts that their city will once again be chosen as the capital of Nalavut for the next hundred years."
+        geolocation: [868,1363,20]
+
+    Vladok:
+        summary: "The only industrialized city in Nalavut."
+        geolocation: [980,1430,20]
+
+    Kitiika:
+        summary: "This small coastal town is bustling with people right now as Nalavutian leaders gather for their turn-of-the-century council."
+        geolocation: [962,1498,20]
+
+    Kotlal:
+        summary: "Its strong alliances with cities in Axolia have spared that city from wars ruining the entire region."
+        geolocation: [837,837,20]
+
+    Bandjik:
+        summary: "A commercial city without fuss."
+        geolocation: [884,951,20]
+
+    Quda:
+        summary: "The only major city in the Nanimatchi."
+        geolocation: [929,1072,20]
+
+    Sedes_Sancta:
+        summary: "A center of world esotericism."
+        geolocation: [998,1153,20]
+
+    Kioctl:
+        summary: "City of two- and three-dimensional printing."
+        geolocation: [1102,1200,20]
+
+    Bethsech:
+        summary: "The military state holds this city and the country with an iron fist."
+        geolocation: [1027,1265,20]
+
+    Aklarvic:
+        summary: "A small town isolated from everything."
+        geolocation: [772,1543,20]
+
+    Baynon:
+        summary: "This city is famous for its jewellery industry and its huge archaeological museum. It seems that Akaris has never before colonized this far into the mecreant  continent."
+        geolocation: [1257,1380,20]
+
+    Umm:
+        summary: "The people here are very nice, but quite ignorant. They know nothing about the chaos that has taken place in Midolia."
+        geolocation: [1491,1245,20]
+
+    Imuo:
+        summary: "With its central position in the world, this city has benefited from the contributions of many different cultures, which has made it prolific in the field of arts, literature and technology."
+        geolocation: [1171,1095,20]
+
+    Helvitil:
+        summary: "A lot of miscellaneous traffic goes on in this city."
+        geolocation: [1232,969,20]
+
+    Beelmon:
+        summary: "A cousin of one of Georges Loyd's grandfathers lived here."
+        geolocation: [1443,1016,20]
+
+    Meelish:
+        summary: "Famous for its archeological museum."
+        geolocation: [1180,841,20]
+
+    Nuxia:
+        summary: "A city of merchants and sailors, who made good business out of the constant Midolian wars."
+        geolocation: [1106,653,20]
+
+    Douls:
+        summary: "Terrible weather and lack of natural resources, that's all there is to say about this city."
+        geolocation: [1088,515,20]
+
+    Betsveda:
+        summary: "A city isolated from the trade flows."
+        geolocation: [1345,602,20]
+
+    Halini:
+        summary: "This area has always been full of diamond mines. At the expense of his political stability."
+        geolocation: [1374,742,20]
+
+    Nuja:
+        summary: "The coal and wood mines are the udders of this region. A lot of foreigners have settled here lately, and built a kind of isolated technology center."
+        geolocation: [1153,745,20]
+
+    Otzig:
+        summary: "Not much to say about this town."
+        geolocation: [934,304,20]
+
+    Vidastrit:
+        summary: "A vital trading port for this country."
+        geolocation: [764,408,20]
+
+...
+
