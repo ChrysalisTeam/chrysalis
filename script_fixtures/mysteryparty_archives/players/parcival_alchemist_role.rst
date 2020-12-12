@@ -40,6 +40,7 @@ Sur vous lors de votre expédition: **fioles vides pour faire des mélanges**
 Les recettes que vous connaissez déjà
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+TODO X add potion d'invulnérabiltité temporaire mais avec ingrédients introuvables !!!!!!!!!!!!!!XXXXXXXXXXXXXX
 
 Potion de pestilence
 --------------------------
