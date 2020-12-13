@@ -6,7 +6,7 @@
 
 - mettre la main sur l'orbe de Loyd Georges {% fact 'agent_mission_seek_lg_orb' %}
 - mettre la main sur le Panorbium Fortuna {% fact 'agent_mission_find_panorbium_fortuna' %}
-- obtenir un bail pour le gisement de sables bitumineux {% fact 'agent_mission_obtain_mining_lease' %}
+{% if not small_format %}- obtenir un bail pour le gisement de sables bitumineux {% fact 'agent_mission_obtain_mining_lease' %}{% endif %}
 
 - vos objectifs à court terme :
 

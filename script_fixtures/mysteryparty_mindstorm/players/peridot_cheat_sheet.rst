@@ -5,8 +5,8 @@
 =============================================================
 
 - mettre la main sur l'orbe de Loyd Georges {% fact 'agent_mission_seek_lg_orb' %}
-- obtenir un bail pour le gisement de sables bitumineux {% fact 'agent_mission_obtain_mining_lease' %}
 - convaincre le concile akarite de la pureté doctrinale des doriens {% fact 'agent_mission_transfiliation_attempt' %} {% fact "peridot_must_answer_akarith_council" as author %}
+{% if not small_format %}- obtenir un bail pour le gisement de sables bitumineux {% fact 'agent_mission_obtain_mining_lease' %}{% endif %}
 
 - vos objectifs à court terme :
 

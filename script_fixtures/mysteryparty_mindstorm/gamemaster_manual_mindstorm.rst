@@ -49,6 +49,7 @@ les protagonistes de l'Affaire Loyd Georges :
 - la faction masslave (Malachite et Spinel) est très anti-akarite ; elle veut empêcher un rattachement de la Dorie à l'Akarie, et l'invasion de leur pays.
 - la faction dorienne (Topaz et Peridot) est plutot pro-akarite ; elle doit, sur les ordres du Duc dorien, faciliter l'alliance de leur pays avec l'Akarie, même si cela ne fait pas l'unanimité parmi les hauts gradés doriens.
 - la faction lordanienne (Garnet et Amethyst) veut juste préserver l'hégémonie de son pays ; elle veut donc découvrir les rapports de force exacts en Midolie, puis d'empêcher l'avènement d'un empire akarite dans cette région, qui découlerait d'une invasion réussie des pays alentours.
+  {% if small_format %}Dans cette version compacte de la soirée mystère, ces deux joueurs sont absents car arrêtés la veille par les services secrets sabarites. {% fact "lordanians_were_arrested_last_evening" %}{% endif %}
 - Opal et Lydia, civils de nationalité lordanienne (ainsi que sabarite pour Lydia), doivent surtout servir les intérêts de leur famille, en évitant la ruine financière, en trouvant le moyen de soigner monsieur (victime d'une secte akarite), et en permettant à madame de remporter les élections consulaires.
 - Waden, Cynthia et Obsidian, civils sabarites, sont inquiets de la déstabilisation de leur pays (entre autres à cause des ingérences akarites) ; ils ont diverses missions personnelles, visant surtout à protéger leurs secrets, leurs proches, leurs pays... et aider à trouver l'agresseur de Loyd Georges.
 
@@ -105,7 +106,11 @@ Mécaniques récurrentes pour les joueurs
   - étude des mobiles possibles
   - vérification des alibis :
 
+    {% if small_format %}
+    - les lordaniens ont été arrêtés la veille avant ledrame et ne sont donc pas très suspects. {% fact "lordanians_were_arrested_last_evening" %}
+    {% else %}
     - les lordaniens n'ont pas d'alibis facilement vérifiables {% fact "amethyst_alibi_is_void" as author %} {% fact "garnet_alibi_is_void" %}
+    {% endif %}
     - les masslaves ont des alibis compromettants pour eux {% fact "malachite_alibi_is_illegal" as author %} {% fact "spinel_alibi_is_illegal" %}
     - les doriens ont des alibis neutres et solides, tout comme Cynthia {% fact "peridot_topaz_alibi_is_strong" %} {% fact "cynthia_alibi_is_strong" %}
     - Opal était endormi dans sa chambre du manoir, sous somnifères {% fact "opal_alibi_is_average" %}

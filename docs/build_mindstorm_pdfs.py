@@ -16,6 +16,8 @@ from rpg_sheet_generator import display_and_check_story_tags
 
 IS_STANDALONE = True
 
+IS_SMALL_FORMAT = True  # If True, no lordanians are present, and players take the roles of some NPCs
+
 INITIAL_GAME_DATA_DUMP = os.path.join(os.path.dirname(__file__), "_initial_game_data_dump.yaml")
 
 # for now, only these two types exists
@@ -40,7 +42,8 @@ if not os.path.exists(DOCUMENTS_OUTPUT_DIR):
 
 jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True)
 
-EXCLUDED_CHARACTERS = []  # mystery-party has no sheet for these characters, for now
+EXCLUDED_CHARACTERS = ["amethyst", "garnet"] if IS_SMALL_FORMAT else []  # mystery-party builds no sheet for these characters
+
 
 _asset_path = lambda x: os.path.join(DOCUMENTS_OUTPUT_DIR, x)
 
@@ -210,6 +213,7 @@ ISOLATED_DOCS = {
 
     "documents/audio_recordings": "miscellaneous/audio_recordings.rst",
 
+    # FIXME remove exceeding NPCs for SMALL FORMAT!!!!
     "npc_alphonse_sheet": "npcs/alphonse_sheet.rst",
     "npc_rydji_sheet": "npcs/rydji_sheet.rst",
     "npc_robb_barrow_sheet": "npcs/robb_barrow_sheet.rst",
@@ -224,6 +228,8 @@ ISOLATED_DOCS = {
                                "appointments/dorian_duke_blasphemy_proof_destruction_mission.rst", spacer,
                                "appointments/captain_rodimir_negotiation.rst"],
 }
+
+
 
 
 def generate_mindstorm_rst_from_parts(parts, title, add_page_breaks, with_decorations, toc_depth=1, jinja_context=None):
@@ -320,6 +326,7 @@ def generate_mindstorm_sheets():
     _ensure_intial_game_data_dump_is_present(INITIAL_GAME_DATA_DUMP)  # IMPORTANT
 
     all_data = dict(standalone=IS_STANDALONE,
+                    small_format=IS_SMALL_FORMAT,
                     use_player_photos=True)
 
     data = rpg.load_yaml_file(INITIAL_GAME_DATA_DUMP)
