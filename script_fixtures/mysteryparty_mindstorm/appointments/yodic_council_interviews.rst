@@ -5,8 +5,8 @@ Auditions du Grand Concile akarite
 Audition de l'expert en histoire yodique
 ================================================
 
-Pour cette mission en Sabarim, **Malachite** a pris l'identité d'un expert en histoire yodique (avec son accord).
-Un haut-gradé akarite l'appelle donc pour voir ce qu'il pense de la "maturité" du peuple dorien en matière de théologie yodique, afin que le concile puisse décider du statut à accorder à ce peuple en cas d'annexion de la Dorie par l'akarie.
+Pour cette mission en Sabarim, **Malachite** a pris l'identité d'un expert en histoire yodique (avec son accord). {% fact 'malachite_official_is_expert_in_yodic_history' %}
+Un haut-gradé akarite l'appelle donc pour voir ce qu'il pense de la "maturité" du peuple dorien en matière de théologie yodique, afin que le concile puisse décider du statut à accorder à ce peuple en cas d'annexion de la Dorie par l'akarie. {% fact "malachite_must_answer_akarith_council" as author %}
 
 Exemple d'introduction :
 

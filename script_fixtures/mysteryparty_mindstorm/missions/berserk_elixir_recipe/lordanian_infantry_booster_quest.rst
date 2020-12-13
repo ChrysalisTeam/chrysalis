@@ -17,4 +17,4 @@ Nous avons appris que Loyd Georges avait trouvé des écrits à ce sujet, dans l
 
 Historiquement les "potions magiques" de ce genre ont toujours donné des résultats désastreux. Nous vous mandatons donc pour aider discrètement ces quidams à fabriquer et à ingérer une quelconque variante de cet Elixir. Ainsi, nous en aurons le coeur net.
 
-Si cet Elixir fonctionne réellement (et sans effet secondaire irrémédiable), il sera bien temps d'en récupérer la recette, d'une façon ou d'une autre ({{character_properties.opal.official_name}} possède de nombreux biens en Lordanie, il doit donc même être possible de travailler en bonne entente et bonne contrepartie avec lui).
+Si cet Elixir fonctionne réellement (et sans effet secondaire irrémédiable), il sera bien temps d'en récupérer la recette, d'une façon ou d'une autre ; {{character_properties.opal.official_name}} possède de nombreux biens en Lordanie, il doit donc même être possible de travailler en bonne entente et bonne contrepartie avec lui.

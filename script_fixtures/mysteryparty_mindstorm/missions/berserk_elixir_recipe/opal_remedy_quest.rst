@@ -2,7 +2,7 @@
 MISSION - L'Elixir salvateur Berserk
 ====================================
 
-Vous en êtes désormais convaincu : votre seul espoir de survie tient désormais dans le mythique Elixir Berserk, dont de nombreuses légendes akarites évoquent les pouvoirs de guérison et de dopage guerrier.
+Vous en êtes désormais convaincu : votre seul espoir de survie tient désormais dans le mythique Elixir Berserk, dont de nombreuses légendes akarites évoquent les pouvoirs de guérison et de dopage guerrier. {% fact "opal_knows_about_berserk_elixir" as author %}
 
 Loyd Georges vous a maintes fois laissé entendre qu'un de ses compères d'aventure, un baroudeur appelé **{% symbol "Rodok" for "lg_adventurer_friend_name" %}**, avançait peu à peu sur des pistes prometteuses, suite à l'exploration du temple de Nazur.
 Mais il se reprenait juste après, murmurant "ne pas vouloir vous donner de faux espoirs".

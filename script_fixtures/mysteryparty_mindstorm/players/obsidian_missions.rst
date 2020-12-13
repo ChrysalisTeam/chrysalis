@@ -26,7 +26,7 @@ Dans le cadre de ces ventes aux enchères de Loyd Georges, vous aurez donc moult
 
 - Aider Lydia Magnus à accéder au poste de consul, tout en vous assurant qu'elle prenne des engagements forts (devant Tiers de Confiance), en faveur des réformes voulues par le peuple.
 
-- Enquêter sur les Akarites et leurs alliés, qui se sont infiltrés en Sabarim. Nous devons trouver leurs centres d'opération, et les détruire.
+- Enquêter sur les Akarites et leurs alliés, qui se sont infiltrés en Sabarim. Nous devons trouver leurs centres d'opération, et les détruire. {% fact "obsidian_must_investigate_akarith_infiltrators" as author %}
 
 - Vous assurer que les personnes présentes, en particulier si elles ont des contacts avec la Presse, ne mettent pas le feu aux poudres prématurément par des déclarations hasardeuses. Il faudra bien un jour "nettoyer l'écurie", mais attendons que les instances du pouvoir soient à nouveau légitimées, avant de traîner devant la Justice les corrompus de Sabarim, ou de dénoncer des intrusions étrangères.
 

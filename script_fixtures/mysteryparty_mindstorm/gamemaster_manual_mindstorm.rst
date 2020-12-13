@@ -134,16 +134,16 @@ Dès le début du jeu, les différents agents secrets sont appelés par leurs su
 
 Le compte web de Loyd Georges révèle immédiatement que c'est le physicien Waden Shaw qui possède l'orbe ainsi que divers artefacts archéologiques ramenés d'Akarie. Dès lors, avec les conseils de leur hiérarchie, les agents secrets vont devoir espionner Waden, potentiellement négocier avec lui, et surtout rassembler assez d'indices sur sa cachette.
 
-Chaque faction possède initialement UN indice différent sur la localisation de l'orbe.
+Chaque faction possède initialement UN indice différent sur la localisation de l'orbe. FIXME REALLY????
 
 Pour en trouver d'autres, il faut principalement :
 
 - récupérer des artefacts "atypiques mais pas uniques" et les passer au scanner de géolocalisation mondiale (et cela, via les ventes aux enchères ou via le marché noir) ; cela donne des "zones" numérotées dans différentes villes
-- localiser et cambrioler l'appartement de Cynthia pour obtenir davantage d'informations sur Waden (la ville où il se rend)
+- localiser et cambrioler l'appartement de Cynthia pour obtenir davantage d'informations sur Waden (ex. la ville où elle se rend)
 - trouver, en perquisitionnant le manoir (pour Obsidian), un télégramme évoquant une commande de matériel à GemmoKorps livré dans une librairie
 - cambrioler le coffre-fort de Loyd Georges pour en prendre le document "hautement confidentiel" décrivant le lieu où est le laboratoire de Waden
 - [pour l'inspecteur] perquisitionner le compte Anthropia d'un suspect mis en examen
-- [non implémenté par défaut] être à l'affut des courriers interceptables, et des spots radios, qui peuvent donner quelques indices supplémentaires si le MJ le trouve nécessaire
+- [non implémenté par défaut] être à l'affut des courriers interceptables, et des spots radios, qui peuvent donner quelques indices supplémentaires si le MJ trouve cela nécessaire
 
 Avoir trois indices différents, dont un "très local", on a une localisation suffisamment précise de la cachette de l'orbe pour y lancer un assaut.
 Avec 4 indices "grosse maille", on suppose que les détails manquants arrivent par eux-mêmes via d'autres collègues.
@@ -162,21 +162,21 @@ Un trafic de Drogue Zombifiante s'est mis en place de la Lordanie vers Sabarim, 
 
 Les akarites en ont eu vent, et se sont servis de ce réseau logistique pour implanter tranquillement des agents akarites (dont la secte des "purificateurs" qui pourchasse les profanateurs) en Sabarim, en particulier dans les tavernes des bas-fonds par où transite la drogue ; quitte à faire chanter un peu les consuls comme {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} lorsque ceux-ci, prenant conscience de ces ingérences akarites, tentaient de faire le ménage dans ce mic-mac. Les akarites sont aussi en partie pourvoyeurs de la drogue elle-même.
 
-L'Etat lordanien est étranger à ce trafic, qui met en danger sa tentative de rapprochement militaire et scientifique avec Sabarim ; les agents secrets lordaniens doivent donc être informés de ce péril mafieux.
+L'Etat lordanien est étranger à ce trafic, qui met en danger sa tentative de rapprochement militaire et scientifique avec Sabarim ; les agents secrets lordaniens ont donc intérêt à découvrir et démanteler ce péril mafieux.
 
 Les services secrets sabarites, eux, ont conscience que des choses ne tournent pas rond dans le bas-fond, mais sont bridés par leur subordination aux consuls. Les élections consulaires en cours pourraient évidemment changer la donne.
 
-L'agent sabarite Obsidian, présent à la soirée en tant que "adjoint de l'inspecteur Shark", doit entre autres enquêter sur ces akarites infiltrés.
+L'agent sabarite Obsidian, présent à la soirée en tant que "adjoint de l'inspecteur Shark", doit entre autres enquêter sur des akarites infiltrés. {% fact "obsidian_must_investigate_akarith_infiltrators" %}
 
 - les agents masslaves savent que le {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %} sert de repaire à des purificateurs akarites {% fact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
-- Cynthia reçoit un message de traquenard, mal orthographié, qui une fois géolocalisé renvoie vers l'adresse du {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %}
+- Cynthia reçoit un message numérique de traquenard, mal orthographié, qui une fois géolocalisé renvoie vers l'adresse du {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %}
 - le jeu de carte vendu par Alphonse contient un message codé annonçant une réunion des purificateurs au Bar du Purineur. {% hint 'card_game_with_unreadable_manual' is needed %}
 - un étrange spot radio fait une promotion plutôt contre-productive du Bar du Purineur
 
-Si l'agent Obsidian remonte un de ces 2 bars à l'inspecteur Shark, rien ne se passe.
+Si l'agent Obsidian remonte un de ces 2 bars à l'inspecteur Shark, *étrangement*, rien ne se passe.
 En revanche, les services secrets sabarites peuvent y faire une descente.
 
-Trouvailles remontées par la perquisition :
+Trouvailles remontées par cette possible perquisition :
 
 - message codé {% symbol "MO NOUS COUVRE - LIVRAISON OK – 17 TAVERNES AUBONPICHET SOUMISES SUR 1238" for "akarith_sect_coded_message" %}, déchiffrable avec l'aide de Cynthia. {% fact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
 - montre à gousset qui, une fois analysée biophysiquement via Anthropia, divulgue des métaux lordaniens, des pollens d'Akarie dans la drogue ainsi que des "vapeurs de liqueur de tilleul" dans la drogue (ce qui surconscrit à environ 80 tavernes AuBonPichet servant cette boisson); le scanner mondial, lui, donne une dizaine de zones dans les grandes villes akarites, zones contenant en tout environ 50 tavernes AuBonPichet. Avoir les deux indices permet de cerner précisément les 17 tavernes soumises.
@@ -185,16 +185,17 @@ Les consuls peuvent pousser une gueulante, en interne, suite à cette première 
 
 Le but pour Obsidian est de lancer une offensive simultanée contre les tavernes AuBonPichet identifiées, afin de démanteler à la fois le trafic et l'implantation akarite. Mais puisque l'armée ne saurait être engagée dans une opération intérieure, et que la police est mise au pas par les consuls, les forces disponibles pour cela sont insuffisantes.
 
-Il faut donc soit engager des compagnies d'obérons dans les autres villes du pays, qui suivront les fugitifs à la trace, soit encore mieux des mercenaires (via les obérons, mais plus chers), qui participeront directement à l'assaut contre les tavernes. Selon le nombre de tavernes visées, il faut ebaucher 1 ou 2 groupes en soutien.
+Il faut donc soit engager des compagnies d'obérons dans les autres villes du pays, qui suivront les fugitifs à la trace, soit encore mieux des mercenaires (via les obérons, mais plus chers), qui participeront directement à l'assaut contre les tavernes. Selon le nombre de tavernes visées, il faut embaucher 1 ou 2 groupes en soutien.
 
 Un assaut réussi met les akarites infiltrés en position désespérée, et les contraint à de derniers coups d'éclat (dont l'attaque du manoir de Loyd Georges).
 
+TODO FIXME AJOUTER INTERACTIONS AVEC LES AUTRES JOUEURS DANS CETTE QUETE!!!!!!!
 
 
 Le nouveau triumvirat sabarite
 ----------------------------------
 
-Le triumvirat de consuls qui dirige sabarite a des pouvoirs très étendus.
+Le triumvirat de consuls qui dirige Sabarim a des pouvoirs très étendus.
 
 Lydia, la femme d'Opal, est en lice pour un de ces postes de consuls ; et le Tabellion "{% symbol "Maestre Ramye Leydelass" for "notary_name" %}" (PNJ), présent à la soirée a une forte influence sur son fils "Vik Leydelass", qui est lui aussi candidat (dans un autre consulat).
 
@@ -211,7 +212,7 @@ Pour les autres joueurs, c'est le moment de nouer des pactes avec Lydia et avec 
 
 Exemples de tractations :
 
-- obtenir que Sabarim ouvre son aérodrome militaire géant à des bombardiers lordaniens (sur la demande de ceux-ci) ?
+- obtenir que Sabarim ouvre son aérodrome militaire géant à des bombardiers lordaniens (sur la demande de ceux-ci) ?  FIXME ADD MASSLAVES HERE
 - mettre en place une tolérance zéro vis-à-vis des akarites infiltrés ?
 - renforcer la législation pour la protection de la presse ?
 - forcer les académies scientifiques à ouvrir leur savoir au plus grand nombre ?
@@ -247,7 +248,7 @@ face à ces revendications :
 La crise midolienne
 +++++++++++++++++++++++++++++++
 
-
+{% if not small_format %}
 Le choix des Lordaniens
 ----------------------------
 
@@ -265,12 +266,11 @@ Dès lors, l'objectif des lordaniens devient d'empêcher une expansion victorieu
 - contrecarrer un ralliement du duc dorien à l'Akarie (en donant un faux "témoignage d'expert" au concile)
 - fournir un appui aérien pour dissuader une invasion terrestre des akarites (forteresse volante déployée dans l'aérodrome sabarite géant d'Alifir, suel à pouvoi l'accueillir sur le continent)
 - plus généralement, mettre des bâtons dans les roues des akarites (ex. s'assurer que le gisement de sables bitumineux ne risque pas de leur profiter)
-
+{% endif %}
 
 
 La décision du grand concile
 ------------------------------------
-
 
 Durant le temps de la soirée, a lieu un grand concile en Akarie, dont les résultats scelleront le destin de la Dorie, en fonction de l'évolution de la doctrine de la "transfiliation" : une intégration d'égal à égal à l'Akarie, un statut avili (temporairement ou non) pour ses habitants, ou une conquête impitoyable (ex. mise en esclavage ou annihilation).
 
@@ -300,14 +300,17 @@ L'arbre de décision final est grosso-modo celui-ci :
   - si le duc a la confiance des akarites, il s'enfuit pour rejoindre les judicateurs et leur livrer ses secrets d'Etat
   - si le duc est "grillé", il rejoint avec son pays la coalition midolienne anti-akarite, avec un large support de sa population (mais là encore risques de troubles des akarites infiltrés)
 
+{% if not small_format %}
 Attention, les lordaniens peuvent avoir mis leur grain de sel dans l'affaire, en émettant des fausses nouvelles dans les médias ; nouvelles qui peuvent ou non avoir été démasquées (en particulier par Cynthia et ses relations de presse). Cela pourrait a minima semer le doute parmi les différents chefs religieux akarites, et faire pencher la balance vers un sens ou l'autre.
-
+{% endif %}
 
 
 L'assassinat de l'ambassadeur akarite
 --------------------------------------------
 
-Au milieu de la soirée, l'agent sabarite reçoit l'ordre d'assassiner "naturellement" (ex. via un choc allergique) l'ambassadeur akarite, pour stopper ses manigances contre la sécurité du pays.
+FIXME CHANGE THIS, PAS CHOC ALLERGIQUE POUR L'INSTANT DANS FICHE DE ambassadeur akarite!!!!!!!!
+
+Au milieu de la soirée, l'agent secret sabarite reçoit l'ordre d'assassiner "naturellement" (ex. via un choc allergique) l'ambassadeur akarite, pour stopper ses manigances contre la sécurité du pays.
 
 Dans le même temps, les agents lordaniens reçoivent l'ordre de l'assassiner en rejetant la faute sur Sabarim ; il leur faut pour cela défier en duel d'honneur l'ambassadeur akarite, récupérer ainsi sa bague à tête de mort (qui est typique des "{% symbol "hauteurs de Kéroskia" for "akarith_ambassador_skull_ring_origin" %}", comme lui et les serviteurs de Loyd Georges le savent), et se servir du poison spécifiquement sabarite qu'elle contient, pour l'empoisonner en retour.
 
@@ -345,27 +348,24 @@ Si interrogé, le vieil Alphonse raconte l'arrivée de ce colis très tôt, le m
 Pour avancer dans l'enquête, les joueurs peuvent au choix :
 
 - récupérer les **enregistrements de caméra de 8h-10h**, qui mentionnent la manipulation par Loyd Georges d'un livre factice **"Venture Prins"** dans la bibliothèque
-- faire aller chercher le sac en toile brune dans la BIBLIOTHEQUE, un sac contenant une note évoquant le "Venture Prins"  {% fact 'panorbium_fortuna_bag_remains_in_library' %}
+- faire aller chercher le sac en toile brune dans la **chambre de Loyd Georges**, un sac contenant une note évoquant le "Venture Prins"  {% fact 'panorbium_fortuna_bag_remains_in_lg_bedroom' %}
 
 Par la suite, l'idée est alors de récupérer le "Venture Prins" dans la bibliothèque, une fois encore en payant l'obéron ou en faisant chanter le vieil Alphonse pour qu'il le fasse lui-même.
 
-Le livre factice contient une note en clair, invitant à regarder au loin par la fenêtre du bureau de Loyd Georges (devenue la salle d'interrogatoire de l'inspecteur). Des jumelles sont laissées à disposition pour cela, dans la salle de réception.
+**Possibilité 1** : Le livre factice contient une note en clair, invitant à regarder au loin par la fenêtre du bureau de Loyd Georges (devenue la salle d'interrogatoire de l'inspecteur). Des jumelles sont laissées à disposition pour cela, dans la salle de réception. Si personne ne voit les glyphes pendant un long moment, des serviteurs peuvent alerter bruyamment de leur surprenante présence. On peut lire dessus, de loin, une énigme littéraire menant à chercher **sous les recettes de cuisine**. {% fact "panorbium_fortuna_is_under_recipes" %}
 
-On peut lire, de loin, une énigme littéraire menant à chercher **sous les recettes de cuisine**.
+**Possibilité 2** : Le livre factice contient directement le papier avec cette énigme littéraire.
 
-Les serviteurs ne savent pas où ces recettes sont (pas vues depuis plusieurs jours), le nouveau cuisinier Robb Barrow les a déplacées. Et ils n'ont aps que ça à faire de retourner le manoir pour cela. Il faut donc attendre l'arrivée du cuisinier, "tout à l'heure" ; les joueurs les plus précoces sur cette quête doivent donc essayer de confisquer les différentes jumelles disponibles pour saboter les efforts des concurrents, et peut-être tenter d'envoyer l'obéron fouiller certains coins précis du manoir.
-
-Si personne n'a encore vu les glyphes sur le toit de la cabane de jardin lorsque le cuisinier arrive, des serviteurs peuvent alerter bruyamment de leur surprenante présence.
+Les serviteurs ne savent pas où ces recettes sont (pas vues depuis plusieurs jours), le nouveau cuisinier Robb Barrow les a déplacées. Et ils n'ont pas que ça à faire de retourner le manoir pour cela. Il faut donc attendre l'arrivée du cuisinier, "tout à l'heure" ; les joueurs les plus précoces sur cette quête doivent donc essayer de confisquer les différentes jumelles disponibles pour saboter les efforts des concurrents, et peut-être tenter d'envoyer l'obéron fouiller certains coins précis du manoir.
 
 Piste alternative, si la recherche cale toujours et si le détecteur de radioactivité est disponible : un message d'Ernest de Villeuneuve annonce à Loyd Georges et Emilos Loakim que le livret livré ce matin au manoir risquait d'être **radioactif**, et qu'il leur fallait donc prendre des précautions.
-Dès visualisation de ce message (via le compte de Loyd Georges hacké), les joueurs doivent penser à acheter le **détecteur de radiations** auprès du marché noir, le faire venir au manoir par un moyen ou un autre (colis postal ? masseur de Salima ? vieille dame ?), et s'en servir pour trouver le Panorbium Fortuna.
+Dès visualisation de ce message (via le compte de Loyd Georges hacké), les joueurs doivent penser à acheter le **détecteur de radiations** auprès du marché noir, le faire venir au manoir par un moyen ou un autre (colis postal ? masseur de Salima ? vieille dame ?), et s'en servir via l'obéron pour trouver le Panorbium Fortuna.
 
-Une fois arrivé, le cuisinier dit sans problème où ces recettes "encombrantes et inutiles" peuvent être récupérées : **dans un coin de la bibliothèque**.
+Une fois arrivé, le cuisinier dit sans problème où ces recettes "vieilles et inutiles" peuvent être récupérées : **dans un tiroir de la bibliothèque**.
 
 Le Panorbium Fortuna contient une prophétie évoquant le **sanctuaire immaculé du Mont Shina**, qui serait donc la cible prioritaire des judicateurs akarites en cas d'invasion, d'après divers indices (spot radio, traduction de rune akarite...). Un article encyclopédique indique sa localisation.
 
 A charge, pour celui qui trouvera le grimoire, de tenter de le faire discrètement sortir du manoir, et surtout de prévenir ses supérieurs de ce secret stratégique.
-
 
 
 
@@ -379,9 +379,9 @@ La rémission d'Opal (Elixir Berserk)
 
 Opal est malade depuis qu'il a été empoisonné par la secte akarite des "purificateurs".
 
- s'est vu confier par Loyd Georges qu'il y aurait peut-être moyen de le soigner grâce à une antique potion yodique, l'Elixir Berserk, et qu'ils en reparleraient après la soirée spéciale.
-
-Au début de la soirée, Rydji lui remet une lettre de {% symbol "Rodok" for "lg_adventurer_friend_name" %}, que Loyd Georges avait mise de côté "au cas où". Cette lettre contient la recette de base de l'Elixir :
+Il s'est vu confier par Loyd Georges qu'il y aurait peut-être moyen de le soigner grâce à une antique potion yodique, l'Elixir Berserk.
+Au début de la soirée, Rydji lui remet une lettre de {% symbol "Rodok" for "lg_adventurer_friend_name" %}, que Loyd Georges avait mise de côté "au cas où".
+Cette lettre contient la recette de base de l'Elixir :
 {% fact "opal_knows_about_berserk_elixir" %} {% hint "letter_from_rodok_forwarded_to_opal" is needed %}
 
 {# RECETTE UN PEU DIFFERENTE DE CELLE DU JDR CHRYSALIS:DESCENT, POUR EVITER LA TRICHE #}
@@ -389,16 +389,20 @@ Au début de la soirée, Rydji lui remet une lettre de {% symbol "Rodok" for "lg
 - tentacule de poulpe caverneux (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% hint 'blue_aquatic_mushroom_juice' is needed %}"
 - petit fruit rouge qui pique (prune rouge d'Akarie, disponible en liqueur dans la bonbonne antique vendue aux enchères)
 
-Les lordaniens ont aussi eu vent de cet Elixir, et ils sont intéressés de voir ses effets sur Opal, pour jauger de sa pertinence sur leur infanterie.
+{% if not small_format %}
+Les lordaniens ont aussi eu vent de cet Elixir, et ils sont intéressés de voir ses effets sur Opal, pour jauger de sa pertinence sur leur infanterie. Ils ont obtenu des indices sur les ingrédients complémentaires, permettant de modifier les effets de l'Elixir.
+{% endif %}
 
-Ils ont pour leur part uniquement des indices sur les ingrédients complémentaires, permettant de modifier les effets de l'Elixir :
+FIXME QUI A CELA EN VERSION COURTE???????????????
 
-- l'Elixir de base donne une grande énergie, atténue la douleur et augmente légèrement la force physique, mais entraine une agressivité déraisonnable au combat, sans augmenter la résistance aux blessures pour autant
+Les variations de l'Elixir Berserk :
+
+- la recette de base donne une grande énergie, atténue la douleur et augmente légèrement la force physique, mais entraine une agressivité déraisonnable au combat, sans augmenter la résistance aux blessures pour autant
 - ajouter une goutte de venin de Najah royal (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse) décuple la force physique, et enlève toute sensation de douleur, mais l'utilisateur régresse à l'état d'animal suite au premier combat
 - ajouter de la poudre de corne striée de chèvre (chèvre d'Akarie, disponible auprès de dame Clodynette) permet à l'utilisateur de garder sa raison au combat, et lui donne des réflexes surhumains pour parer la plupart des projectiles et des coups
 - dans tous les cas, s'il prend plus d'un millilitre d'Elixir en une semaine, l'utilisateur meurt d'épuisement en moins d'une journée
 
-Le mode préparatoire de la potion est trouvable grâce au grimoire akarite (vendu aux enchères) et aux dépôts poudreux de la bourse de cuire (compte de Lody georges). Ne pas les connaître altérera la qualité de la potion.
+Le mode préparatoire de la potion est trouvable grâce au grimoire akarite (vendu aux enchères) et aux dépôts poudreux de la bourse de cuir (compte de Lody georges). Ne pas les connaître altérera la qualité de la potion.
 
 Le cuisinier Robb Barrow peut préparer la potion pour Opal, en fonction des détails qu'on lui donne.
 
@@ -407,7 +411,7 @@ Lorsque Opal boit la potion, cela donne lieu à une mise en scène musicale et s
 Si la potion est réussie, les serviteurs imploreront Opal de donner de cette potion à Loyd Georges souffrant.
 
 
-
+{% if not small_format %}
 Ce qui arriva à l'agent lordanien Emerald
 ---------------------------------------------
 
@@ -420,9 +424,10 @@ Depuis, Opal a accès au compte web sécurisé d'Emerald (mais en lecture seule)
 Des indices répartis entre les protagonistes permettent de relier Opal à la mort d'Emerald, et d'expliquer a posteriori l'action d'Opal face à cet agent double.
 
 Si Opal n'arrive à pas démontrer son innocence, les lordaniens pourraient lui mettre des bâtons dans les roues de multiples façon, y compris en lui fournissant une mauvaise recette pour compléter son Elixir Berserk.
+{% endif %}
 
 
-
+{% if not small_format %}
 Le renflouement de la famille (dont la négociation de vente minière)
 -----------------------------------------------------------------------------------
 
@@ -450,7 +455,7 @@ Ou trouver un coeur de fusion thermocyclique ?
 Le physicien Waden Shaw en avait un dans le laboratoire du professeur Voluto, et peut s'en servir de monnaie d'échange pour détruire ledit laboratoire.
 
 Noter que l'ambassadeur akarite tente d'interférer avec cette vente, en proposant à Lydia de signer un **pacte de négociation commerciale** (non exclusif) avec Akaris ; le but étant davantage de la "griller" auprès de l'opinion publique, que d'obtenir réellement le gisement (car les doriens s'en chargent pour l'Akarie).
-
+{% endif %}
 
 
 La protection de Khaal
@@ -460,7 +465,7 @@ Les dialogues enregistrés entre Opal et Lydia, la lettre d'Emilos Loakim volée
 
 Lyia et Opal doivent le faire sortir au plus vite de la thalassothérapie du mont brumeux.
 
-Une attaque de plusieurs factins (akarites, et mercenaires de {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}) finit par y survenir. {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %} cherche en effet à récupérer le manoir de Loyd Georges depuis toujours, et il compte pour cela sur un vil chantage. {% fact "lord_mac_jolt_wants_to_blackmail_lg_via_khaal" %}
+Une attaque de plusieurs factions (akarites, et mercenaires de {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}) finit par y survenir. {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %} cherche en effet à récupérer le manoir de Loyd Georges depuis toujours, et il compte pour cela sur un vil chantage. {% fact "lord_mac_jolt_wants_to_blackmail_lg_via_khaal" %}
 
 Si Khaal était encore sur place, lui et son accompagnatrice sont heureusement secourus par le {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %}, qui surveillait les manigances du {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, et protégeait les proches de Loyd Georges à la demande de ce dernier.
 
@@ -552,7 +557,7 @@ Le secret des atomes et le Pr Voluto
 
 Le physicien Waden Shaw a officiellement puis officieusement travaillé avec le Pr Voluto, sur la piste d'une "supernova atomique" obtenable en raffinant de l'{% symbol "Uranium 234" for "most_dangerous_radioactive_material" %}.  {% fact "waden_secretly_worked_with_voluto_on_radioactivity" as author %}
 
-Le Pr Voluto a tenté de vendre ses découvertes à divers pays, Waden s'est donc violemment disputé avec lui à l"Académie d'Alifir.
+Le Pr Voluto a tenté de vendre ses découvertes à divers pays, Waden s'est donc violemment disputé avec lui à l'Académie d'Alifir.
 Les enregistrements vidéo de cette dispute ont été subtilisés par des agents de {% symbol "Balberith" for "waden_blackmailer_lady_country" %}.  {% fact "voluto_death_day_academy_recordings_disappeared" %}
 
 Peu après, le jour même, l'agent sabarite Obisidan s'est fait surprendre par le Pr Voluto tandis qu'il perquisitionnait son domicile, et le vieil homme est accidentellement mort dans la lutte qui s'est ensuivie.
@@ -571,11 +576,9 @@ De son côté, l'agent sabarite Obsidian peut aussi tenter de faire entendre rai
 
 Par ailleurs, Waden a été récemment contacté par une agente de {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, {% symbol "Elezie" for "waden_blackmailer_lady_name" %}, qui cherche à le faire chanter grâce aux enregistrements vidéo de l'Académie. Elle lui a confié trois échantillons de granit à analyser, pour tâter sa collaboration et guider leurs approvisionnements en matières premières radioactives.
 
-Waden reçoit les derniers résultats de son analyse pendant la soirée. Il peut décider de dire la vérité aux maîtres-chanteurs, ou de leur mentir (en faisant potentiellement au passage une escroquerie, car un des granits provient du terrain Hydrolande possédé par Opal). Dans tous les cas, {% symbol "Balberith" for "waden_blackmailer_lady_country" %} le croit et met tout en oeuvre pour acquérir le terrain qu'il croit rempli de minerai précieux, quitte à créer une crise géopolitique. {% fact "balberith_has_poor_atom_analysis_technology" %}
+Waden reçoit les derniers résultats de son analyse pendant la soirée. Il peut décider de dire la vérité aux maîtres-chanteurs, ou de leur mentir (en faisant potentiellement au passage une escroquerie, car un des granits provient du terrain Hydrolande possédé par Opal). Dans tous les cas, {% symbol "Balberith" for "waden_blackmailer_lady_country" %} le croit, et par exemple met tout en oeuvre pour acquérir le terrain qu'il croirait rempli de minerai précieux, quitte à créer une crise géopolitique. {% fact "balberith_has_poor_atom_analysis_technology" %}
 
 En revanche, lorsque {% symbol "Elezie" for "waden_blackmailer_lady_name" %} exige d'obtenir les travaux du Pr Voluto, Waden doit trouver une solution, que ce soit coopérer, ou monter un contre-feu médiatique grâce à Cynthia afin que le chantage tombe à l'eau, ou bien faire intercepter par Obsidian les enregistrements que {% symbol "Elezie" for "waden_blackmailer_lady_name" %}, en dernier recours, enverrait à Shark.
-
-
 
 
 

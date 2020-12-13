@@ -149,8 +149,8 @@
     # résultats pour les fouilles menées par OBSIDIAN, si objets non déjà récupérés par des joueurs, et en l'absence d'indications supplémentaires qui auraient affiné les recherches...
     - "Perquisition des HALLS : Rien trouvé"
     - "Perquisition du BUREAU : Télégramme de Waden évoquant sa commande de matériel à GemmoKorps (tombé sous un meuble)"
-    - "Perquisition de la BIBLIOTHEQUE : Sac en toile brune avec une note d'Emilos Loakim"
-    - "Perquisition de la CHAMBRE DE LOYD GEORGES : Pharmacologie de la Dixogine (voir ci-dessus)"
+    - "Perquisition de la BIBLIOTHEQUE : Rien trouvé (trop de livres divers)"
+    - "Perquisition de la CHAMBRE DE LOYD GEORGES : Pharmacologie de la Dixogine (voir ci-dessus) et sac en toile brune avec une note d'Emilos Loakim {% fact 'panorbium_fortuna_bag_remains_in_lg_bedroom' %}"
     - "Perquisition de la CHAMBRE D'ALPHONSE : Stock d'alcools illégalement importés, cachés sous le matelas"  # pour faire chanter Alphonse...
     - "Perquisition de la CHAMBRE DE RYDJI : Télégramme du {% symbol 'Comte Blispin' for 'lg_close_friend_lord_name' %} pour Rydji"
     - "Perquisition de la CHAMBRE D'OPAL : Fausse lettre évoquant une fraude électorale de Lydia"
