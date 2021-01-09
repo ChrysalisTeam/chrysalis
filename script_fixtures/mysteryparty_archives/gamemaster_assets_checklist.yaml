@@ -185,7 +185,7 @@
     - "3 faux-galets creux TODO WHAT FOR??????"
     - "Coffret en bois clair et jointures laiton PIÉGÉ"
     - "Fontaine à encens (éteinte et sans cône d'encens) {% hint 'incense_fountain' is provided %}"
-    - "Trésor caché dans un livre factice, non loin de CHALUMEAUX {% hint 'enigma_treasure_near_blowtorch' is needed %}"
+    - "Trésor caché dans un livre factice, non loin de CHALUMEAUX {% hint 'enigma_treasure_near_blowtorch' is provided %}"
     - "Lampe-sculpture à gemme surmontée d'un dragon"
 
 -
@@ -214,7 +214,7 @@
     - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %}"
     - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %}"
-    - "Lanterne cassée {% hint 'broken_lantern_to_repair' is needed %}"
+    - "Lanterne cassée {% hint 'broken_lantern_to_repair' is provided %}"
 
 # DIVERS AUTRES #
 
@@ -239,7 +239,7 @@
   - "Indices et objets à là disposition du maître de jeu"
   -
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_ring_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %} TODO LES DISSEMINER EN PLUMES XXXXXXXXXXX"
-    - "Bande-son de la prophétie auditive sur comment vaincre le méchant {% hint 'parcival_oracle_hearing_about_last_battle_plan' is needed %}"
+    - "Bande-son de la prophétie auditive sur comment vaincre le méchant {% hint 'parcival_oracle_hearing_about_last_battle_plan' is provided %}"
     - "Le code de la mallette administrative noire ({% symbol '625-993' for 'family_briefcase_code' %}) si les joueurs le demandent aux défunts via l'Ankou"
     - "Un des codes du coffret légendaire des Maupertuis, celui de la mère des Maupertuis, si elle est interrogée depuis l'au-delà : {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}"
     - "Broche de Meredice, trouvée par les joueurs si le bon éboulement derrière l'atelier d'alchimie est dynamité {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
@@ -280,7 +280,7 @@
     - "Encensoir en argent plaqué avec chainettes (pour invoker)"
     - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse) (pour sounder) initialement SANS PILE{% hint 'spy_sounder_metal_detector_initially_broken' is provided %}"
     - "Lampe-tempête Argent (2xPileD incluses)"
-    - "Feuille mémo des codes secrets (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %}"
+    - "Feuilles mémo des codes secrets et des runes (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %} {% hint 'runic_transcription_sheet_for_explorer_runologist' is provided %}"
     - "Journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %}"
     - "Arbalète bois et UNIQUE fléchette (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %}"
 
