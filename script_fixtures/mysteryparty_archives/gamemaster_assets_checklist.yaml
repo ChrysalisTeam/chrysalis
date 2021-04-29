@@ -84,7 +84,7 @@
 -
   - "Mini-jungle"
   -
-    - "Crâne empoisonné de l'arkonte bien caché entyre les pots {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}"
+    - "Crâne empoisonné de l'arkonte bien caché entre les pots {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}"
     - "1 Guirlande lumineuse avec lierre vert 2m (2xAA)"
 
 -
@@ -109,7 +109,7 @@
 
     - "Tombe 1 : Journal intime d'Octave parlant ????"
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}"
-    - "Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates {% hint 'androids_command_bracelet' is provided %})"
+    - "Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates {% hint 'androids_command_bracelet' is provided %}"
 
     - "Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided %}"
 
@@ -182,7 +182,6 @@
     - "Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et fluorite {% hint 'gem_fluorine' is provided %}"
     - "Lot d'autres petites pierres du monde avec étiquettes"
     - "Cristaux et gemmes diverses"
-    - "3 faux-galets creux TODO WHAT FOR??????"
     - "Coffret en bois clair et jointures laiton PIÉGÉ"
     - "Fontaine à encens (éteinte et sans cône d'encens) {% hint 'incense_fountain' is provided %}"
     - "Trésor caché dans un livre factice, non loin de CHALUMEAUX {% hint 'enigma_treasure_near_blowtorch' is provided %}"
@@ -219,7 +218,7 @@
 # DIVERS AUTRES #
 
 -
-  - "Richesses tootales à collecter"
+  - "Richesses totales à collecter"
   -
     - "6 pièces d'or (= 60 kashes)"
     - "40 pièces normales (= 40 kashes)"
@@ -318,12 +317,12 @@
 
     - "6 Guirlandes lumineuses LED BXROIU 2m (chacune 2xCR2032 incluses)"
 
-    - "10 galets phosphorescents bleus (friandises de la goule)"
+    - "10 galets phosphorescents bleus (friandises de la goule) ??? DUPLICATED"
 
     - "Lampe mini-tube blanche autonome à détection de mouvement "
     - "2 cigales en céramique à détection de mouvement"
 
-    - "Livre factice gris ChooChoo"
+    - "Livre factice gris ChooChoo @Clodynette"
 
     - "Canne avec cachette @Cat"
 
