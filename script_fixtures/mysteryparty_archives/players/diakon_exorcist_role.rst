@@ -35,7 +35,7 @@ Rituel :
 
 **Expulsion d'esprit**
 
-Vous êtes capable de chasser une créature du monde des morts, pour la faire sortir d'un corps possédé, ou juste l'envoyer loin de vous ; cela la fait systématiquement repasser sous forme spectrale, non incarnée (mais pendant quelques minutes uniquement). L'esprit ainsi chassé va fuir au hasard, en évitant le lieu d'où il a été chassé, mais sans pouvoir traverser pour autant les possibles barrières spirituelles qui le retiendraient habituellement lorsqu'il est en spectre. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
+Vous êtes capable de chasser une créature du monde des morts, pour la faire sortir d'un corps possédé, ou juste l'envoyer loin de vous ; cela la fait systématiquement repasser sous forme spectrale, non incarnée, si elle ne l'était pas déjà (mais pendant quelques minutes uniquement). L'esprit ainsi chassé va fuir au hasard, en évitant le lieu d'où il a été chassé, mais sans pouvoir traverser pour autant les possibles barrières spirituelles qui le retiendraient habituellement lorsqu'il est en spectre. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
 
 Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réaliser qu'une fois toutes les **{% symbol "10 minutes" for "phantom_eviction_cooldown" %}**. Il ne touche qu'un seul esprit par invocation.
 

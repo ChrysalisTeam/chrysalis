@@ -88,6 +88,9 @@ Ce passage en spectre arrive aussi pour un fantôme qui a été libéré de son 
 
 L'errance se fait en marchant pas trop vite, visage voilé, bras tendus devant (si possible avec des gants lumineux), en inspirant/expirant de façon longue et rauque (pas de bruit "booo" trop cliché).
 
+La vitesse de déplacement peut être plus rapide pour un personnage ayant eu une vie lourde de péchés (ex. le voleur).
+{% fact "phantoms_of_sinners_have_faster_specters" %}
+
 Pour être fair-play, un spectre doit **planifier** chacun de ses tours dans la bibliothèque à l'avance (en cercle, en huit, en passant dans certains cul-de-sac ou non), et ne pas démordre de ce trajet, même si les joueur se sont entretemps rassemblés à un autre endroit.
 
 Seule exception : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélére le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% fact "phantoms_feel_humans_closer_than_3m" %}
@@ -102,7 +105,7 @@ En tant que fantôme, y compris la Bête : Prêtez attention aux incantations de
 Les sorts d'exorcisme affectant les fantômes
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-*Extraits de la fiche de personnage de l'Exorciste*
+*Extraits de la fiche de personnage de l'Exorciste, afin que tous les figurants qui jouent des fantômes sachent comment réagir aux différents rituels qui les visent.*
 
 <{ phantom_related_spells }/>
 
