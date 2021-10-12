@@ -73,7 +73,7 @@ Lassés des bouffoneries de nécomanciens, tous les invocateurs de votre ordre o
 TODO à REDIGER
 
 
-RUPTURE DE {% symbol "clôture absolue" for "library_cursed_enclosure_name" %}
+RUPTURE DE {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 TODO à REDIGER - VOIR les contraintes dans la GAMEMASTER SHEET

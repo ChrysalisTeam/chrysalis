@@ -24,7 +24,7 @@ Ce comportements des différents mondes est une surprise pour tous les figurants
 
 A l'occasion, les figurants peuvent communiquer d'un monde à l'autre par l'intercession des joueurs, pour se saluer, se transmettre des informations etc.
 
-Notez que l'Ankou n'est pas régi par ces règles (ni même soumis à la {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} de la bibliothèque), car il est d'essence divine, bien que lié au monde des morts. {% fact "ankou_sees_all_and_is_harmless_for_all" %}
+Notez que l'Ankou n'est pas régi par ces règles (ni même soumis à la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque), car il est d'essence divine, bien que lié au monde des morts. {% fact "ankou_sees_all_and_is_harmless_for_all" %}
 
 Attention en outre au fait que **les avatars ne peuvent pas manipuler de romans**, ni les leurs ni les autres ; les autres livres et grimoires leur restent cependant accessibles. {% fact "avatars_cannot_carry_novels" %}
 

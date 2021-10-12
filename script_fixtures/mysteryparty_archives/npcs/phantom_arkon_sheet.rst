@@ -22,7 +22,7 @@ La malédiction de la bibliothèque
 
 Alors que vous procédiez, dans un tumulte magique, aux rituels successifs de refermement des portails interdimensionnels, une puissance maléfique enrobée de ténèbres s'est interposée. Vous l'avez combattue sans relâche, pendant d'interminables minutes, à coups de glaive, de sortilèges et d'exorcisme. Elle encaissait douloureusement vos attaques (sauf celles sacrées, qui ne lui faisaient manifestement rien)... mais elle se régénérait en un clin d'oeil.
 
-Lorsque vous avez reçu un projectile en plein front, vous avez compris que la partie était perdue ; mais dans votre dernier souffle, vous avez lancé une sortilège immémorial, décuplé par la puissance de votre sacrifice : la **{% symbol "clôture absolue" for "library_cursed_enclosure_name" %}**, une malédiction enfermant la bibliothèque entière dans un vortex sacré, un "trou noir" spirituel, qui ne cesserait que lorsque votre attaquant serait rayé de ce monde. {% fact "traitor_death_ends_cursed_enclosure" %}
+Lorsque vous avez reçu un projectile en plein front, vous avez compris que la partie était perdue ; mais dans votre dernier souffle, vous avez lancé une sortilège immémorial, décuplé par la puissance de votre sacrifice : la **{% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}**, une malédiction enfermant la bibliothèque entière dans un vortex sacré, un "trou noir" spirituel, qui ne cesserait que lorsque votre attaquant serait rayé de ce monde. {% fact "traitor_death_ends_cursed_enclosure" %}
 
 Depuis, comme vous l'aviez prévu dans votre ultime sacrifice, votre âme fantomatique est restée prisonnière de la bibliothèque ; moins à cause du sortilège de votre mort - vous savez que cela peut "attacher" temporairement une âme à un lieu - qu'à cause de votre propre malédiction.
 
@@ -30,7 +30,7 @@ Vous avez vu passer des spectres en errance, sans doute ceux de l'enfant et de l
 
 Vous attendez donc que quelqu'un de la surface, sensible à ces perturbations dans les strates d'existence, vienne à votre secours... De préférence un arkonte du même culte que vous, en qui vous puissiez avoir suffisamment confiance pour lui faire votre "confession de mission" et le laisser résoudre correctement le problème. En effet, même le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %} n'est pas un gage suffisant, car plus d'un fanatique a préféré le briser, et être châtié mortellement peu après, que de faire ce qui était réellement juste et juré.
 
-Il faudra à votre salvateur, non pas briser votre {% symbol "clôture absolue" for "library_cursed_enclosure_name" %} de la bibliothèque - ce qui anéantirait vos efforts - mais traquer et tuer la monstruosité qui s'y terre assurément encore. Qu'il vous tarde de voir cette mission connaitre une fin heureuse, et de pouvoir rejoindre vos pairs dans les banquets célestes.
+Il faudra à votre salvateur, non pas briser votre {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque - ce qui anéantirait vos efforts - mais traquer et tuer la monstruosité qui s'y terre assurément encore. Qu'il vous tarde de voir cette mission connaitre une fin heureuse, et de pouvoir rejoindre vos pairs dans les banquets célestes.
 
 
 {#
