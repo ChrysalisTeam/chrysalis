@@ -28,7 +28,7 @@ Attention, si l'étoile est absente alors l'objet est forcément **non-envouté*
 
 Par défaut, un envoûtement présent est de niveau "simple".
 S'il existe un petit **cercle** où que ce soit dans la pastille, alors l'envoûtement est de niveau "complexe".
-Si ce cercle contient un **unique point**, alors l'envoûtement passe au niveau "légendaire".
+Si ce cercle contient en plus un **unique point**, alors l'envoûtement passe au niveau "légendaire".
 
 Une autre pastille de même couleur peut être présente, avec un **code** à 3 lettres ; rentrez ce code dans votre {% symbol "portail de connaissances" for "hint_website_name" %}, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.
 
@@ -50,7 +50,7 @@ Il faut alors dans l'ordre :
 
 - Faire appel aux talents d'encensement de votre confrère (tourner 3 fois autour de l'objet en procession, avec l'encensoir)
 - Puis vous placer en demi-cercle (ou cercle si possible) autour de l'objet
-- Que vous prononciez **seul** l'incantation : **"Ouvrez grandes vos oreilles, misérable mortels, ouvrez grands vos yeux, car par la puissance pacificatrice de Bahamoot, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
+- Que vous prononciez **seul** l'incantation : **"Ouvrez grandes vos oreilles, ouvrez grands vos yeux, car par la puissance pacificatrice de Bahamoot, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
 
 En cas de réussite, le maître de jeu retire la pastille de l'objet.
 

@@ -30,7 +30,7 @@ Cette bénédiction ne fonctionne que sur les métaux nobles : **Paladium, Iridi
 Rituel :
 
 - Imposer les mains sur l'arme de poing ou la munition présentée
-- Clamer "Toi qui blesses la chair, blesse aussi l'âme" {# (ou bien la version latine : "Tu et caro dolet, et anima nocere") #}
+- Clamer **"Toi qui blesses la chair, blesse aussi l'âme"** {# (ou bien la version latine : "Tu et caro dolet, et anima nocere") #}
 
 
 **Expulsion d'esprit**
@@ -42,7 +42,7 @@ Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réali
 Rituel :
 
 - Lever les bras vers le ciel, paumes face au fantôme
-- Crier "Via Bahamoot, hors d'ici, esprit infâme" {# (ou bien la version latine : "Vade retro, mali spiritus OUDATED") #}
+- Crier **"Par Bahamoot, arrière, esprit errant"** {# (ou bien la version latine : "Vade retro, mali spiritus OUDATED") #}
 
 
 **Charme d'esprit**
@@ -54,7 +54,7 @@ Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réali
 Rituel :
 
 - Mettre les bras croisés sur votre coeur
-- Crier "Via Bahamoot, accours vers moi, esprit errant" {# (ou bien la version latine : "Venite ad me errantes spiritu") #}
+- Crier **"Par Bahamoot, accours vers moi, esprit errant"** {# (ou bien la version latine : "Venite ad me errantes spiritu") #}
 
 
 **Libération d'ancrage spirituel**
@@ -62,9 +62,10 @@ Rituel :
 Si vous rencontrez un fantôme bloqué dans une petite zone - typiquement le lieu de sa mort violente - lorsqu'il est sous forme incarnée, ce rituel vous permet de le libérer pour toujours de cette chaine invisible. Comme tous les fantômes, il restera néanmoins par le suite soumis aux contraintes d'un possible {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}, ou autre sortilège contraignant, dressé sur sa route.
 
 Rituel :
+
 - Rassembler 3 autres **{% symbol "initiés" for "ritualist_kind_name" %}**, en plus de vous, en cercle autour du fantôme incarné
 - Mettez-vous tous les quatre les bras étendus à l'horizontale
-- Clamez tous ensemble "Esprit égaré, nous brisons les chaines qui en ce lieu funeste te retiennent", trois fois d'affilée
+- Clamez tous ensemble **"Esprit égaré, nous brisons les chaines qui en ce lieu funeste te retiennent"**, trois fois d'affilée
 
 D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spirituelles passera moins souvent dans sa forme spectrale. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 

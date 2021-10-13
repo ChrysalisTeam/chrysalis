@@ -14,6 +14,8 @@ Votre profil
 Un réveil inattendu
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Lorsque l'arkonte s'est immiscé dans la bibliothèque, vous avez fini par vous ranger à ses arguments.
+
 Alors que vous prépariez vos affaires, satisfait de voir cet étrange confinement toucher à sa fin, vous avez senti une vivre brûlure dans votre dos.
 
 <{ maupertuis_phantoms_awakening }/>
@@ -33,4 +35,4 @@ Mais vous expliquez aux joueurs qu'il existe un **{% symbol "grimoire traceur" f
 
 Dans le temps, vous aviez entendu plusieurs fois les Maupertuis parler d'un **"Livre Yodique des Morts"**, qui serait l'un des grimoires les plus dangereux de la bibliothèque. Il était gardé dans un coffre du domaine interdit, verrouillé par **deux codes secrets**, chacun gardé par l'un des parents Maupertuis. {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
 
-Lors d'une de vos brèves incarnations de fantôme, il y a très longtemps de cela, vous avez vu passer un individu louche dans la bibliothèque. Il se dirigeait vers le domaine interdit. Vous ne savez pas ce qu'il est advenu de lui.  {% fact "archivist_saw_thief_exploring_the_library" %}
+Lors d'une de vos brèves incarnations de fantôme, il y a très longtemps de cela, vous avez vu passer un **individu louche** dans la bibliothèque. Il se dirigeait vers le domaine interdit. Vous ne savez pas ce qu'il est advenu de lui.  {% fact "archivist_saw_thief_exploring_the_library" %}

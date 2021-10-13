@@ -228,7 +228,7 @@ Le vêtement de reconnaissance des diacres de Bahamoot est une **étole violette
 
 Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes par les pointes des doigts, les paumes éloignées l'une de l'autre, comme s'ils enserraient un globe entre elles ; c'est leur signe de prière. Lors de leurs déplacements en procession, ils ânonnent un **son "ôôôôhm"** lent et guttural.
 
-Leur devise est **"Le dragon est notre guide"**, à professer les mains jointes en prière là encore.
+Leur devise est **"Le dragon est notre guide"**, à professer les mains jointes en prière, là encore.
 
 {% endmacro %}
 <{ diakon_group_symbols }/>
@@ -819,7 +819,7 @@ L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur entou
 
 Les soupçons se portent donc ensuite sur les avatars, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait, via différents exemplaires de leurs romans.
 
-Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais sans le **crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
+Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais **sans le crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
 
 Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 
@@ -857,8 +857,8 @@ Mais il existe certaines façons de l'atteindre :
 
 Si le traître est expulsé du monde humain ou tué, la malédiction prend fin, et l’épilogue peut se dérouler. {% fact "traitor_death_ends_cursed_enclosure" %}
 
-IMPORTANT : Si quelqu'un suit les ordres du druide et lève la malédiction, ou si celui-ci (en dernier lieu) brise lui-même la clotûre de la bibliothèque grâce une formule trouvée dans un grimoire, alors le druide s'échappe de la bibliothèque
-Les joueurs peuvent alors effectivement rentrer chez eux, mais avec l'amertume de l'échec : avoir lâché un monstre dans leur monde ; et les **avatars restants** peuvent choisir entre être révoqués, ou rester pour essayer d'aider cette planète face au nouveau péril.
+Mais si quelqu'un suit les ordres du druide et lève la malédiction, ou si celui-ci brise finalement lui-même la clotûre de la bibliothèque, grâce une formule prétendûment trouvée dans un grimoire, alors le druide s'échappe de la bibliothèque
+Les joueurs peuvent dans ce cas effectivement rentrer chez eux, mais avec l'amertume de l'échec : avoir lâché un monstre dans leur monde. Et les **avatars restants** peuvent choisir entre être révoqués, ou rester pour essayer d'aider cette planète face au nouveau péril.
 
 {% endmacro %}
 <{ quest_to_find_traitor_and_final_battle }/>
