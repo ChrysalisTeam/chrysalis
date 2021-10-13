@@ -519,7 +519,7 @@ En revanche, les attaques sacrées, telles les malédictions de certains sorcier
 
 La distinction entre ces différents types de blessures n'est pas toujours évidente ; par exemple, la paralysie d'un membre peut être due à des lésions internes tout comme à l'attaque d'un spectre. D'où la nécessité d'investiguer les circonstances ayant mené aux troubles constatés, afin de fournir un remède approprié.
 
-Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "sacrées" fragilisent les fondements de l'âme. Subir d'affilée deux blessures de même nature mène donc à une mort presque certaine. {% fact "second_sacred_injury_is_always_fatal" %}
+Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "sacrées" fragilisent les fondements de l'âme. Subir d'affilée deux blessures de même nature mène donc presque certainement à la mort. {% fact "second_sacred_injury_is_always_fatal" %}
 
 {% endmacro %}
 <{ injury_types_knowledge }/>

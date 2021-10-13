@@ -33,6 +33,8 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 Vos connaissances sur les différents types de blessures
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Vous avez eu la chance d'être formé, par un marabout abazech', sur ce sujet fort méconnu.
+
 <{ injury_types_knowledge }/>
 
 

@@ -55,3 +55,11 @@ Il faut alors dans l'ordre :
 En cas de réussite, le maître de jeu retire la pastille de l'objet.
 
 Si l'envoûtement est de niveau "légendaire", alors il est **impossible** de le supprimer, sauf en trouvant une contre-mesure spécifique à ce sortilège.
+
+
+Vos connaissances sur les différents types de blessures
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Vous avez eu la chance d'être formé, lors d'une rencontre avec un Inquisiteur-Exorciste, sur ce sujet fort méconnu même parmi les diacres.
+
+<{ injury_types_knowledge }/>
