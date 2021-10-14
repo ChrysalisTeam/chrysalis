@@ -27,7 +27,7 @@ Sur vous lors de votre expédition: un nombre suffisant pour tous usages de fiol
 - Huile de ricin
 - Filtrat de marée lunaire
 
-*Note hors-jeu: Ces ingrédients-là ne sont pas pas spécifiquement matérialisés en jeu, simulez-les avec une de vos fioles quelconques.*
+*NOTE hors-jeu: Ces ingrédients-là ne sont pas pas spécifiquement matérialisés en jeu, simulez-les avec une de vos fioles quelconques.*
 
 
 Les ustensiles que vous possédez
