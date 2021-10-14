@@ -2,8 +2,11 @@
 L'Affaire Loyd Georges
 ==============================
 
+{# FIXME DEDUPLICATE THIS ONE DAY #}
+
 L'action se passe sur la planète Pangéa, où le niveau de développement est similaire à notre 21° siècle terrestre, mais avec une population bien inférieure.
-En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'à 1900, est identique à la nôtre. Les références à ces époques de notre monde, à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent. En effet, au début du 20e siècles, les deux mondes ont bifurqué. Pendant que le nôtre continuait son chemin vers les guerres mondiales, Pangéa a subi un bouleversement tectonique et climatique majeur (appelé **Tunguska**), qui a torpillé tout développement humain durant des millénaires. La planète sort enfin, à grand peine, de ce cataclysme, et l'humanité reprend son essor.
+
+En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'à l'an 1900, est identique à la nôtre. Les références à ces époques de notre monde, à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent. En effet, au début du 20e siècles, les deux mondes ont bifurqué. Pendant que le nôtre continuait son chemin vers les guerres mondiales, Pangéa a subi un bouleversement tectonique et climatique majeur (appelé **Tunguska**), qui a torpillé tout développement humain durant des millénaires. La planète sort enfin, à grand-peine, de ce cataclysme, et l'humanité reprend son essor.
 
 Le **pays de Sabarim**, dans lequel se situe l’action, est une jeune république en pleine effervescence scientifique, dans laquelle les élites ont droit à une modernité proche de notre an 2000 terrien. Sabarim brille en particulier par ses académies, telles celle d’Alifir que fréquente le nouvellement célèbre Loyd Georges. *Question ambiance, pensez "renaissance / steampunk / Angleterre victorienne, où les gens aisés ont des décorations d'intérieurs tout en velours, peintures, cristal, et laiton.*
 

@@ -945,9 +945,15 @@ L'univers du jeu
 Contexte Historico-géographique
 ================================
 
+{# FIXME DEDUPLICATE THIS ONE DAY #}
+
 L'action se passe sur la planète Pangéa, en l'{% symbol "an 1000" for "current_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %} ; le niveau de développement actuel y est similaire à notre 20° siècle terrestre, mais avec une population bien plus réduite.
 
-En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'à 1900, est identique à la nôtre. Les références à ces époques de notre monde, à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent. C'est au début du 20° siècle que les deux mondes ont divergé. Pendant que le nôtre continuait son chemin vers les guerres mondiales, Pangéa a subi un bouleversement tectonique et climatique majeur, appelé le {% symbol "marasme planétaire" for "catastrophic_period" %}, qui a torpillé tout développement humain durant des siècles. La planète est enfin sortie, à grand peine, de ce cataclysme, et l'humanité reprend son essor.
+En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'à l'an 1900, est identique à la nôtre. Les références à ces époques de notre monde (Antiquité, Moyen-âge, Renaissance...), à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent.
+
+C'est au début du 20° siècle que les deux mondes ont divergé. Pendant que le nôtre continuait son chemin vers les guerres mondiales, Pangéa a subi un bouleversement tectonique et climatique majeur, appelé le {% symbol "marasme planétaire" for "catastrophic_period" %}, qui a torpillé tout développement humain durant des siècles.
+
+La planète est enfin sortie, à grand-peine, de ce cataclysme, et l'humanité reprend son essor.
 
 La monnaie internationale est le **kash** (1 kash permet de se payer environ 100 baguettes de pain).
 
@@ -961,7 +967,7 @@ Sur Pangéa, toute personne qui jure quelque chose **"Par le {% symbol "Serment 
 
 Concrètement, tout parjure sera rapidement sanctionné par un douloureux chatiment, allant de l'infirmité à la mort, selon la gravité du mensonge. Si certains jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risque à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand chose.
 
-Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités d'outre-monde s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 
 .. raw:: pdf
