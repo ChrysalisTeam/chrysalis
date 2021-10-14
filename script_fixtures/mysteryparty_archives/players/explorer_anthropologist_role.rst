@@ -21,7 +21,7 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 
   Ce titre correspond à une forme de "chevalerie bénie par les dieux" parmi les fidèles de cette religion ; il vous engage à la droiture morale, à la persévérance et au discernement dans vos actions  ; il vous permet de commenter les textes saints de la religion yodique, de siéger aux conseils ordinaires des arkontes, et de recevoir la "confession de mission" d'un confrère arkonte (pour cela, il se met à genoux devant vous, et vous gardez une main imposée en l'air au dessus de sa tête). {% fact "arkon_means_blessed_knight" %} Vous n'êtes pas peu fier de ce titre, qui vous place dans la lignée de personnages légendaires et pourtant réels comme Zarathoustra, ou {% symbol "Valerias" for "arkon_name" %}.
 
-- **Ritualiste de Bahamoot** ; vous faites partie des **{% symbol "initiés" for "ritualist_kind_name" %}** de ce culte, et même si cela remonte à loin, vous êtes capable de vous joindre à un rituel mystique pour décupler son effet. D'après vos souvenirs :
+- **Ritualiste de {% symbol "Bahamoot" for "god_of_diakons" %}** ; vous faites partie des **{% symbol "initiés" for "ritualist_kind_name" %}** de ce culte, et même si cela remonte à loin, vous êtes capable de vous joindre à un rituel mystique pour décupler son effet. D'après vos souvenirs :
 
 {% filter indent(width=8) %}
 
@@ -51,9 +51,10 @@ Voici par exemple comment s'écoulaient, au meilleur prix, les éléments préci
 Connaissance des blasons
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Le {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %}, fondateur de la dynastie des Maupertuis, avait pris sur la fin de sa vie des armoiries de **dragon doré sur fond noir**. Ses descendants s'en sont rapidement éloignés au profit d'une reprise du **caducée** (bâton surmonté de deux ailes et entouré de deux serpents entrelacés). {% fact "coat_of_arms_of_maupertuis_is_caduceus" %}
+Le {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %}, fondateur de la dynastie des Maupertuis, avait pris sur la fin de sa vie des armoiries de **dragon doré sur fond noir**.{% fact "coat_of_arms_of_mos_peraty_is_golden_dragon" %} Ses descendants s'en sont rapidement éloignés au profit d'une reprise du **caducée** (bâton surmonté de deux ailes et entouré de deux serpents entrelacés). {% fact "coat_of_arms_of_maupertuis_is_caduceus" %}
 Les lignées ayant divergé de la famille Maupertuis ont souvent conservé une partie de ce symbolisme médical. {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %}
 
 Par décision de l'Ordre International de la Hiéraldique, il fut pendant longtemps interdit de créer soi-même un blason, même pour une oeuvre de fiction. Cependant, suite aux moeurs cruelles et honteuses de certaines familles royales, leurs blasons, ainsi que les symboles qui y tronaient, étaient bannis de la symbolique des vivants depuis bien avant le {% symbol "marasme planétaire" for "catastrophic_period" %}. Il a donc été argué que ces symboles "tabou" pourraient être utilisés dans les oeuvres de fiction, séparant ainsi clairement les armoiries réelles et celles destinées à l'amusement.
 
 Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson, l'oiseau-grue, la chèvre, le pangolin, la faucille, le fouet, le tabouret et la feuille de houx**. {% fact "sickle_and_holly_emblems_are_banned_in_reality" %}
+

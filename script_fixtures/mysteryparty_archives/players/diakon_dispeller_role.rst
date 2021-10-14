@@ -41,7 +41,7 @@ La suppression des envoûtements
 **Signalez au maitre de jeu les désenvoûtements que vous souhaitez mener à bien.**
 
 Si l'envoûtement reconnu est de niveau "simple", il suffit de solliciter l'aide de n'importe quel "initié" (probablement un confrère diacre) pour le dissiper.
-Il faut que vous imposiez tous les deux les mains au dessus de l'objet, et que vous **seul** prononciez, et bien fort, l'incantation : **"Par le souffle sacré de Bahamoot, ô matière inerte, nous rompons les liens qui te lient aux strates ensorcelées".**
+Il faut que vous imposiez tous les deux les mains au dessus de l'objet, et que vous **seul** prononciez, et bien fort, l'incantation : **"Par le souffle sacré de {% symbol "Bahamoot" for "god_of_diakons" %}, ô matière inerte, nous rompons les liens qui te lient aux strates ensorcelées".**
 En cas de réussite, le maître de jeu retire la pastille de l'objet.
 
 Si l'envoûtement est de niveau "complexe", alors il faut être au moins **trois {% symbol "initiés" for "ritualist_kind_name" %}** pour réaliser le désenvoutement.
@@ -50,7 +50,7 @@ Il faut alors dans l'ordre :
 
 - Faire appel aux talents d'encensement de votre confrère (tourner 3 fois autour de l'objet en procession, avec l'encensoir)
 - Puis vous placer en demi-cercle (ou cercle si possible) autour de l'objet
-- Que vous prononciez **seul** l'incantation : **"Ouvrez grandes vos oreilles, ouvrez grands vos yeux, car par la puissance pacificatrice de Bahamoot, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
+- Que vous prononciez **seul** l'incantation : **"Ouvrez grandes vos oreilles, ouvrez grands vos yeux, car par la puissance pacificatrice de {% symbol "Bahamoot" for "god_of_diakons" %}, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
 
 En cas de réussite, le maître de jeu retire la pastille de l'objet.
 
@@ -63,3 +63,6 @@ Vos connaissances sur les différents types de blessures
 Vous avez eu la chance d'être formé, lors d'une rencontre avec un Inquisiteur-Exorciste, sur ce sujet fort méconnu même parmi les diacres.
 
 <{ injury_types_knowledge }/>
+
+
+

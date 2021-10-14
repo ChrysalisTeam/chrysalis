@@ -214,17 +214,17 @@ Sa devise est **"Noble de coeur comme de sang."**, le poing fermé sur le coeur.
 {% endmacro %}
 <{ parcival_group_symbols }/>
 
-Les diacres de Bahamoot
+Les diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Ces 3 moines officient pour le culte du dieu Bahamoot, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des âmes errantes (les fantômes). Ils s’y rendent donc pour résoudre les problèmes, et protéger l’ordre des choses.
+Ces 3 moines officient pour le culte du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des âmes errantes (les fantômes). Ils s’y rendent donc pour résoudre les problèmes, et protéger l’ordre des choses.
 
 {# **Il ont aussi ordre de détruire magiquement les 3 livres “maléfiques” que contient le domaine interdit des Maupertuis, de peur qu’ils ne tombent en de mauvaises mains (la bibliothèque ne peut pas juste être brûlée). ????????** NOPE #}
 
 Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 
 {% macro diakon_group_symbols() %}
-Le vêtement de reconnaissance des diacres de Bahamoot est une **étole violette** *(écharpe portée en travers du torse, fournie par les organisateurs)*.
+Le vêtement de reconnaissance des diacres de {% symbol "Bahamoot" for "god_of_diakons" %} est une **étole violette** *(écharpe portée en travers du torse, fournie par les organisateurs)*.
 
 Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes par les pointes des doigts, les paumes éloignées l'une de l'autre, comme s'ils enserraient un globe entre elles ; c'est leur signe de prière. Lors de leurs déplacements en procession, ils ânonnent un **son "ôôôôhm"** lent et guttural.
 
@@ -324,7 +324,7 @@ L’arkonte {% symbol "Valerias" for "arkon_name" %} (le paladin-exorciste lége
 
 - L’arkonte se souvient de sa mort en combat singulier, et d'avoir jeté la malédiction sur la bibliothèque. Il sait être attaché mystiquement à la zone de sa mort violente.
 
-- Un peu désabusé de voir que le culte païen du dieu Bahamoot a finalement remplacé le sien (le culte yodique de confession mithraïte), dans le monastère à la surface
+- Un peu désabusé de voir que le culte païen du dieu {% symbol "Bahamoot" for "god_of_diakons" %} a finalement remplacé le sien (le culte yodique de confession mithraïte), dans le monastère à la surface
 
 - Exige de pouvoir faire sa “confession de mission” à un prélat de la religion yodique, et uniquement dans ce cas il livre tout ce qu’il sait sur la situation ; n’aide que les joueurs en qui il a confiance pour mener à bien sa mission de protection de l’humanité (et qui ne vont pas simplement lever le confinement de la bibliothèque, en détruisant ainsi ses efforts)
 
@@ -790,7 +790,7 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 
 - L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
-- Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien ne la profane. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
+- Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien n'en tire un mort-vivant. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
 
 - L’oracle a une vision d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplifican_artefacts_symbol" %}**. {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %}
 
@@ -875,12 +875,12 @@ Le pentacle et les objets du rituel (ainsi que les romans) sont toujours en plac
 Supprimer la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque (piège)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-La clotûre de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **3 / 5 des vivants** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit. {% fact "diakon_invoker_can_break_cursed_enclosure" %}
+La clotûre de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **{% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %}** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit. {% fact "diakon_invoker_can_break_cursed_enclosure" %}
 Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et c'est un échec pour tous, comme explicité ci-dessus.
 
 Pour rappel, dans l’issue optimale du jeu, la malédiction de la bibliothèque est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être. {% fact "traitor_death_ends_cursed_enclosure" %}
 
-{# NOPE TOO MUCH
+{# NOPE TOO MANY MISSIONS ALREADY
 
     Préserver les grimoires légendaires (bonus des diacres ?????)
 
@@ -915,7 +915,7 @@ Agents secrets mirandiens
 - Sondeur : sait détecter les métaux et le magnétisme
 - Crocheteur : sait forcer certains cadenas, et visualiser/ouvrir des systèmes magnétiques
 
-Diacres de Bahamoot
+Diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Désenvouteur : reconnait les envoûtements d'objets, et peut en supprimer

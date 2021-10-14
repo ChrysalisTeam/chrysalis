@@ -336,9 +336,10 @@
     - "Bouillotte cylindrique en cuivre avec dedans message XXXXX"
 
     - "1 potion (rouge foncé) de fungal rouge {% hint 'potion_red_mushroom' is provided %}"
-    - "1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
-    - "1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
+    - "1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} TODO ALCHEMISTLAB"
+    - "1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %} TODO ALCHEMISTLAB"
     - "1 potion Délieur de Langue {% hint 'potion_tongue_untier' is provided %}"
+    - "FIXME {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
 
     - "Ciboire (calice fermé) en argent"
     - "Seau argenté à champagne"

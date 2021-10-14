@@ -1,8 +1,8 @@
 
 {% macro diakon_group_sheet() %}
 
-Faction - Les diacres de Bahamoot
-============================================
+Faction - Les diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
+==============================================
 
 Vous êtes trois diacres du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, le grand dragon cosmique, bleu et invisible, juste et généreux.
 L'un de vous est spécialisé dans les (dés)envoûtements d'objets ; l'autre dans les exorcismes ; l'autre enfin dans les rituels d'invocation.

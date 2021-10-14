@@ -16,11 +16,11 @@ Thuriféraire (encenseur)
 
 Vous disposez d'un encensoir argenté, afin de purifier les environs lors de certains rituels qui requièrent ce geste.
 
-L'encensement se fait au moyen d'un papier parfumé et non d'un cône d'encens ; il vous faut alors tourner, en procession avec vos confrères disponibles (juste pour l'effet théâtral - cela ne change rien à l'encensement), autour de l'objet ou de la zone concernée, en balançant l'encensoir au bout de sa chaine.
+L'encensement se fait au moyen d'un papier parfumé et non d'un cône d'encens ; il vous faut alors tourner en procession, avec des confrères si disponibles (juste pour l'effet théâtral - cela ne change rien à l'encensement), autour de l'objet ou de la zone concernée, en balançant l'encensoir au bout de sa chaine.
 
 Vous pouvez déléguer cette tâche de Thuriféraire à un autre ritualiste, si les circonstances l'exigent.
 
-*Faites appel au MJ ou à un figurant de type "serviteur" pour approvisionner et allumer votre encensoir au moment opportun ; évitez de l'ouvrir vous même, car le système de fixation interne peut être coupant.*
+*Faites appel au MJ ou à un figurant de type "serviteur" pour approvisionner et allumer votre encensoir au moment opportun ; évitez de l'ouvrir vous-même, car le système de fixation interne peut être coupant.*
 
 
 Connaissance des pentacles et sceaux
@@ -38,12 +38,12 @@ Attention, même éteint, un sceau peut, lui, conserver une **aura bénéfique o
 
 Notez que seule la personne ayant dessiné un pentacle ou un sceau peut facilement le **révoquer** ; pour des personnes externes, il s'agit d'une opération de désenvoutement longue et ardue, aux effets imprévisiblement dangereux.
 
-Vous pouvez en revanche facilement réactiver un pentacle ou sceau existant, en l'encensant (un tour suffit) puis en clamant l'invocation **"O pentacle/sceau magique, réveille-toi et écoute ma voix"**. Le pentacle ou sceau devrait s'illuminer peu après, signe qu'il est désormais actif ; il peut se désactiver de lui-même au bout d'un certain temps sans utilisation.
+Vous pouvez en revanche facilement réactiver un pentacle ou sceau existant, en l'encensant (un tour suffit) puis en clamant l'invocation **"Ô pentacle (ou "sceau magique"), réveille-toi et écoute ma voix"**. Le pentacle ou sceau devrait s'illuminer peu après, signe qu'il est désormais actif ; il peut se désactiver de lui-même au bout d'un certain temps sans utilisation.
 
 
 
 Stase absolue
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++
 
 Cette invocation permet d'immobiliser une entité vivante ou morte, pour deux jours au moins.  {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
@@ -51,7 +51,7 @@ Rituel :
 
 - Utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
 - Amener à l'intérieur l'entité ciblée, quelque soit son état actuel
-- Réciter trois fois à haute voix "Si tu dois demeurer, au moins ne bouge plus"
+- Réciter trois fois à haute voix : **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, si tu dois demeurer, au moins ne bouge plus."**
 - L'entité peut bouger un peu, mais elle doit rester à l'intérieur du pentagone pendant toute la durée du rituel, sans quoi l'envoûtement échoue.
 
 
@@ -62,36 +62,46 @@ Les dieux empêchent habituellement que les vivants perturbent la quiétude des 
 
 Pour cela, il faut vous mettre en cercle avec 2 autres {% symbol "initiés" for "ritualist_kind_name" %}, mains tendues vers le centre du cercle, et déclamer cette invocation :
 
-*Ô <nom du dieu>, toi qui résides au <adresse mortuaire>, réponds à notre quémande: <votre demande> ; nous attendons avec un coeur fébrile ta réponse.*
+**Ô <nom du dieu>, toi qui résides au <adresse mortuaire>, réponds à notre quémande: <demande> ; nous attendons avec un coeur fébrile ta réponse.**
 
 
 Bénédiction de terrain anti-zombie
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Lassés des bouffoneries de nécomanciens, tous les invocateurs de votre ordre ont appris à purifier certains terrains (surtout cimetières et champs de batailles  - afin d'éviter la survenue de morts-vivants. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_tomb" %}
+Lassés des bouffoneries des nécomanciens, tous les invocateurs de votre ordre ont appris à purifier une tombe, afin d'éviter que la dépouille qu'elle contient ne soit plus tard transformée en un mort-vivant. Cela ne fonctionne pas si le mort-vivant est déjà incarné, que ce soit à cause d'un maléfice nécromant ou de la vie trop maléfique du défunt. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
 
-TODO à REDIGER
+Pour purifier la tombe, il faut que 2 {% symbol "initiés" for "ritualist_kind_name" %} se placent de part et d'autre à ses extrémités, mains tendues vers le ciel, et que l'invocateur clame cette invocation :
 
-
-RUPTURE DE {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}
-++++++++++++++++++++++++++++++++++++++++++++++++++
-
-TODO à REDIGER - VOIR les contraintes dans la GAMEMASTER SHEET
-
-{% fact "diakon_invoker_can_break_cursed_enclosure" %}
-
-
-Lumière sacrée
-++++++++++++++++++++++
-
-Il peut allumer chandelles éteintes  {% fact "diakon_invoker_can_light_candles" %}
-
-TODO à REDIGER
+**Par {% symbol "Bahamoot" for "god_of_diakons" %}, qu'un repos sans rêve et sans fin berce cette dépouille mortuaire à tout jamais.**
 
 
 Sort de foudre
 ++++++++++++++++++++
 
-Mais ne marche pas dans la bibliothèque car sous-terrain....
+{# Ne marche pas dans la bibliothèque car c'est en sous-terrain... #}
 
-TODO à REDIGER
+Par temps orageux, vous pouvez faire descendre du ciel la foudre sur l'endroit que vous désirez, à l'aide de cette invocation.
+
+Pointez du doigts la zone à frapper, puis annoncez lentement :
+
+**Par {% symbol "Bahamoot" for "god_of_diakons" %}, que se meuvent les cieux, qu'ils rejoignent la terre, que par ce mouvement de lumière, le fracas soit déchainé.**
+
+
+Rupture de {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+{% fact "diakon_invoker_can_break_cursed_enclosure" %}
+
+Peu de connaissances existent sur ce sortilège de la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, hormis le fait qu'il est hautement dangereux, et formellement interdit à tout invocateur.
+
+La sagesse ancestrale indique que s'il a été mis en place sur un lieu, il est toutefois possible de le briser, non sans sacrifice.
+
+Pour cela, il faut d'abord que {% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %} enfermés dans le lieu donnent leur accord verbal pour être libérés.
+
+Puis il faut que l'invocateur - qu'il se trouve dans ou hors la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} - mélange de la "Potion de vieillissement accéléré" et de la "Potion de venin de serpent" à parts égales dans un demi-verre, et les avale d'un coup sec. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
+
+Il doit ensuite, dans son dernier souffle, clamer :
+
+**Par {% symbol "Bahamoot" for "god_of_diakons" %}, qu'en franchissant le seuil de l'éternité, j'emporte avec moi ce rempart contre-nature.**
+
+

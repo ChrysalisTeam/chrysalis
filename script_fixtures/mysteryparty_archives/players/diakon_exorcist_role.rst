@@ -42,7 +42,7 @@ Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réali
 Rituel :
 
 - Lever les bras vers le ciel, paumes face au fantôme
-- Crier **"Par Bahamoot, arrière, esprit errant"** {# (ou bien la version latine : "Vade retro, mali spiritus OUDATED") #}
+- Crier **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, arrière, esprit errant"** {# (ou bien la version latine : "Vade retro, mali spiritus OUDATED") #}
 
 
 **Charme d'esprit**
@@ -54,7 +54,7 @@ Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réali
 Rituel :
 
 - Mettre les bras croisés sur votre coeur
-- Crier **"Par Bahamoot, accours vers moi, esprit errant"** {# (ou bien la version latine : "Venite ad me errantes spiritu") #}
+- Crier **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, accours vers moi, esprit errant"** {# (ou bien la version latine : "Venite ad me errantes spiritu") #}
 
 
 **Libération d'ancrage spirituel**
