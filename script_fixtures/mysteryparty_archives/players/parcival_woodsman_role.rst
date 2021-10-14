@@ -27,7 +27,7 @@ Stratège Défenseur
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vos parents ne vous l'ont jamais caché : s'il en est un seul qui s'en sortira toujours, dans la famille, c'est vous.
-Mais votre talon d'Achille, ce sont les gens de votre cercle familial et amical. Vous avez donc pris l'habitude d'ouvrir l'oeil face aux potentiels périls, et de repérer les atouts et défauts du terrain où vous vous trouvez. Y a-t-il un cul-de-sac à éviter pour ne pas se retrouver acculé par des ennemis ? Ou au contraire un recoin dans lequel se cacher, ou éviter un encerclement ? Vous savez ne pas pouvoir être partout, mais au minimum vous désirez pouvoir vous interposer entre les dangers et vos proches vulnérables.
+Mais votre talon d'Achille, ce sont les gens de votre cercle familial et amical. Vous avez donc pris l'habitude d'ouvrir l'oeil face aux potentiels périls, et de repérer les atouts et défauts du terrain où vous vous trouvez. Y a-t-il un cul-de-sac à éviter pour ne pas se retrouver acculé par des ennemis ? Ou au contraire un recoin dans lequel se cacher, voire éviter un encerclement ? Vous savez ne pas pouvoir être partout, mais au minimum vous désirez pouvoir vous interposer entre les dangers et vos proches les plus vulnérables.
 
 
 Connaissance des bêtes dangereuses
@@ -37,11 +37,11 @@ Vous pourriez écrire un roman sur toutes les saletés que vous avez croisées d
 
 Les vampires sont à votre avis des dangers bien exagérés ; qu'ils soient sous forme humaine ou animale, un coup de massue leur apprend vite les bonnes manières ; leur crainte de la lumière les rend faciles à repousser, et leur morsure est en réalité bien plus douloureuse que toxique.
 
-Vous avez en revanche dû fuir plus d'une fois leurs lointains cousins, les goules des cavernes, créatures trop dangereuses pour être combattues par le commun des mortels. Vous savez cependant que certains paysans leur tendent des pièges sophistiqués, en profitant de leur addiction innée pour les "{% symbol "pierres de lune" for "phosphorescent_pebbles_name" %}", des sortes de galets phosphorescents. {% fact "beast_is_addicted_to_moon_stones" %}
+Vous avez en revanche dû fuir plus d'une fois leurs lointains cousins, les goules des cavernes, créatures trop dangereuses pour être combattues par le commun des mortels. Vous savez cependant que certains paysans leur tendent des pièges sophistiqués, en profitant de leur addiction innée pour les *{% symbol "pierres de lune" for "phosphorescent_pebbles_name" %}*, des sortes de galets phosphorescents. {% fact "beast_is_addicted_to_moon_stones" %}
 
-Vous n'avez croisé qu'un seul loup-garou, alors qu'il ressortait d'une de ses transformations nocturnes. Les bons soins des shamans du village ont permis de rapidement guérir le malheureux, ce qui est heureux car la force d'un lycanthrope pleinement enragé peut facilement dépasser la vôtre. Vous les savez heureusement très, trop sensibles aux odeurs fortes (oeufs pourris, charognes...), ce qui peut perturber leur habileté au combat.
+Vous n'avez croisé qu'un seul loup-garou, alors qu'il ressortait d'une de ses transformations nocturnes. Les bons soins des shamans du village ont permis de rapidement guérir cette personne, ce qui est heureux car la force d'un lycanthrope pleinement enragé peut facilement dépasser la vôtre. Vous les savez heureusement très, trop sensibles aux fortes odeurs (oeufs pourris, charognes...), ce qui peut perturber leur habileté au combat.
 
-Les wendigos, des humanoides émaciés friands de chair humaine, sont très rares sur pangéa. Vous en avez combattu deux dans votre masure, en plein hiver, et par chance les recettes traditionnelles ont fonctionné : une bonne flèchette en {% symbol "Iridium" for "parcival_woodsman_bullets_metal" %} dans le coeur de l'un, et une bonne plongée dans le feu de la cheminée pour l'autre.
+Les wendigos, des humanoides émaciés friands de chair humaine, sont très rares sur Pangéa. Vous en avez combattu deux dans votre masure, en plein hiver, et par chance les recettes traditionnelles ont fonctionné : une bonne flèchette en {% symbol "Iridium" for "parcival_woodsman_bullets_metal" %} dans le coeur de l'un, et une bonne plongée dans le feu de la cheminée pour l'autre.
 
 Une créature que vous n'avez jamais vu, et que vous souhaitez ne jamais voir, est sens conteste le thestral. Ce monstre hippique, squelettique et ailé, se déplace rapidement entre les arbres, et s'en prendrait violemment aux promeneurs isolés, par pur plaisir sadique. Vous prenez donc toujours soin de vous cachez lorsque vous entendez un jappement suraigu au loin. Surtout qu'il ne lui est connu aucune vulnérabilité particulière, sinon un nombre suffisant de coups de hache dans son corps malingre.
 
