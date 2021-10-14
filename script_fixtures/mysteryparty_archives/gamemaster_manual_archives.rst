@@ -210,7 +210,7 @@ Le blason de la famille Parcival est un **batôn noueux autour duquel un serpent
 
 Son vêtement de reconnaissance est un **jabot bleu-royal** *(fourni par les organisateurs)*.
 
-Sa devise est **"Noble de coeur comme de sang."**, le poing fermé sur le coeur.
+Sa devise est **"Noble de coeur comme de sang"**, le poing fermé sur le coeur.
 {% endmacro %}
 <{ parcival_group_symbols }/>
 
@@ -243,7 +243,7 @@ Ces 3 agents étatiques ont donc remué ciel et terre pour retrouver le mythique
 Leurs compétences sont orientées vers les “gadgets technosteam”.
 
 {% macro spy_group_symbols() %}
-Le vêtement de reconnaissance des agents secrets mirandiens est un **brassard vert émeraude** *(fournie par les organisateurs)*.
+Le vêtement de reconnaissance des agents secrets mirandiens est un **brassard vert émeraude** *(fourni par les organisateurs)*.
 
 Leur devise est **"Mirandia pour toujours brillera"**, avec un salut militaire la main contre la tempe.
 {% endmacro %}
