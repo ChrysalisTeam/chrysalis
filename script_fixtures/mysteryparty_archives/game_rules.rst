@@ -45,6 +45,14 @@ Compétences, objets et pièges
 - Les **pièges** sont toujours repérables visuellement, ou alors annoncés par différents indices. Vous ne serez pas pénalisé pour avoir ouvert un grimoire quelconque, ou prononcé un mot anodin. En revanche, si vous marchez sur un pentacle ou prononcez des incantations trouvées sans les comprendre, gare.
 
 
+Blessures et morts fictifs, "en jeu"
+++++++++++++++++++++++++++++++++++++++
+
+Il est possible que votre personnage soit blessé durant le jeu, auquel cas vous devrez simuler du mieux possible les malus que le maître de jeu vous donnera.
+
+Il peut aussi arriver, plus rarement, qu'il soit tué. Mais pas de panique, cela ne signifie pas la fin de la partie pour vous, car dans l'univers de ce jeu, le monde des morts offre lui aussi des possibilités de contribuer à l'intrigue, que le maître de jeu vous indiquera.
+
+
 Scènes théâtrales
 +++++++++++++++++++++++
 
