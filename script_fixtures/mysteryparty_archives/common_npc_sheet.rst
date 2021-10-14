@@ -3,7 +3,7 @@
 Histoire du jeu
 ===========================
 
-<{ common_npc_tragedy_knowledge with_avatar_specifics=True }/>
+<{ common_npc_tragedy_knowledge }/>
 
 
 <{ common_npc_lore_knowledge }/>

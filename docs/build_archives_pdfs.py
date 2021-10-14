@@ -72,16 +72,13 @@ PLAYER_MANUAL_PARTS = [
     "players/%(player_name)s_role.rst",
 ]
 
-COMMON_PLAYER_DOCS = [
-    "common_lore_sheet.rst",
-]
-
 COMMON_NPC_DOCS = [
     "common_npc_sheet.rst",
 ]
 
-COMMON_GAME_RULES = [
-    "game_rules.rst"
+COMMON_LORE_AND_RULES = [
+    "common_lore_sheet.rst",
+    "game_rules.rst",
 ]
 
 # BEWARE, be careful when regenerating PDF clues, that their titles and content match well!
@@ -285,19 +282,15 @@ def generate_archives_sheets():
 
     # then the common DOCS for participants
     if True:
+
         isolated_data["current_player_id"] = "everyone"
-        build_archives_pdf(COMMON_PLAYER_DOCS,
-                            filename_base="common_lore_information", title="Univers du Jeu",
+        build_archives_pdf(COMMON_LORE_AND_RULES,
+                            filename_base="common_lore_and_game_rules", title="Univers et Règles du Jeu ",
                             add_page_breaks=True, jinja_context=isolated_data)
 
         isolated_data["current_player_id"] = "npcs"
         build_archives_pdf(COMMON_NPC_DOCS,
                             filename_base="common_npc_information", title="Complément des Figurants",
-                            add_page_breaks=True, jinja_context=isolated_data)
-
-        isolated_data["current_player_id"] = "everyone"
-        build_archives_pdf(COMMON_GAME_RULES,
-                            filename_base="common_game_rules", title="Règles du Jeu ",
                             add_page_breaks=True, jinja_context=isolated_data)
 
         isolated_data["current_player_id"] = None  # Restore this!
