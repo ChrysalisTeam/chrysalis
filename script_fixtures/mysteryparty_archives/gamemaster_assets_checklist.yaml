@@ -100,7 +100,7 @@
     - "Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %}"
     - "Néon UV auto-alimenté"
     - "Objets divers sans intérêt: XXXXXXXXXXX"
-    - "Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app' is provided %}"
+    - "Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
 
 -
   - "Cimetière"

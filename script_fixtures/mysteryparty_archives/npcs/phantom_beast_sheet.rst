@@ -18,7 +18,7 @@ Autrefois protecteur du domain interdit, vous vous êtes retrouvé définitiveme
 - Vous vous comportez comme un chien effrayé avec les autres fantômes, en jappant à leur encontre mais sans les approcher. {% fact "beast_ignores_or_fears_other_phantoms" %}
 - Si l'occasion se présente, vous pouvez décider de descendre par l'escalier où les joueurs ne vous attendent pas, pour les prendre à revers.
 - Vous ne pouvez que marcher, mais à grands pas si nécessaire.
-- Vous attaquez les joueurs les plus proches (mais vous voyez très mal au delà de 3m). {% fact "npcs_know_how_the_beast_works_regarding_3m_sight" %}
+- Vous attaquez les joueurs les plus proches (mais vous voyez très mal au delà de 3m). {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 - Si un joueur est invulnérable (car portant l'{% symbol "armure de Mithril" for "arkon_armor_name" %} de l'arkonte par exemple), vous l'attaquez quelques fois en vain, puis vous choisissez une autre cible.
 - Si un joueur tombe sous votre main, vous le "griffez" pendant 5-6 secondes, puis vous le prévenez qu'il est mourant et vous passez à un autre.
 - Le but des joueurs est de vous leurrer vers un **pentacle** puis de vous y "geler" par un rapide rituel ; jouez le jeu si leur plan est cohérent, en particulier soyez fortement attiré, de proche en proche, par les "{% symbol "pierres de lune" for "phosphorescent_pebbles_name" %}" (galets phosphorescents) si vous en croisez (vous ne pouvez pas les prendre puisque vous êtes un fantôme, mais vous essayez quand même). {% hint "beast_snack_as_moon_stones" is needed %} {% fact "beast_is_addicted_to_moon_stones" %}
