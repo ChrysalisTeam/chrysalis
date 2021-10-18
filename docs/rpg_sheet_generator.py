@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import print_function, unicode_literals
 
+import copy
 import functools
 import jinja2
 import os
@@ -335,10 +336,12 @@ def _display_and_check_story_facts(jinja_env, masked_user_names):
     from pprint import pprint
     assert isinstance(masked_user_names, (set, tuple, list)), repr(masked_user_names)
 
-    masked_user_names = list(masked_user_names) + [StoryChecksExtension.DUMMY_GAMEMASTER_NAME]
+    __masked_user_names = list(masked_user_names) + [StoryChecksExtension.DUMMY_GAMEMASTER_NAME]
+
+    facts_registry_stripped = [(k, sorted(v)) for (k, v) in jinja_env.facts_registry.items()]
 
     print("\nInline facts of scenario:")
-    pprint(jinja_env.facts_registry)
+    pprint(facts_registry_stripped)
 
     '''
     def __UNUSED_replace_all_players_set(names):
