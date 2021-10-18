@@ -63,8 +63,8 @@ Si vous rencontrez un fantôme bloqué dans une petite zone - typiquement le lie
 
 Rituel :
 
-- Rassembler 3 autres **{% symbol "initiés" for "ritualist_kind_name" %}**, en plus de vous, en cercle autour du fantôme incarné
-- Mettez-vous tous les quatre les bras étendus à l'horizontale
+- Rassembler **3 autres {% symbol "initiés" for "ritualist_kind_name" %}**, en plus de vous, en cercle autour du fantôme incarné
+- Se mettre tous les quatre avec les bras étendus à l'horizontale
 - Clamez tous ensemble **"Esprit égaré, nous brisons les chaines qui en ce lieu funeste te retiennent"**, trois fois d'affilée
 
 D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spirituelles passera moins souvent dans sa forme spectrale. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
@@ -73,20 +73,28 @@ D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spi
 <{ phantom_related_spells }/>
 
 
-**Rupture de corridor outre-monde**
+**Rupture globale de corridor outre-monde**
 
-Vous êtes capable de couper une passerelle existant entre des mondes disjoints, comme les portails que certains sorciers ouvrent vers le monde des esprits, ou vers d'autres mondes parallèles. {% fact "diakon_exorcist_knows_how_to_expel_avatar" %}
+Vous êtes capable de couper les passerelles existant entre des mondes disjoints, tels les portails que certains sorciers ouvrent vers le monde des esprits, ou vers d'autres mondes parallèles. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
+
+Les plus grands mystique sont capables de procéder à cette rupture sélectivement, en ne rompant qu'un seul corridor - attaché à un objet spécifique - à la fois. Mais votre exorcisme est un peu plus sommaire, et va anéantir tous les points d'attache inter-monde qui se situent dans un rayon de 100 pas autour de vous.
 
 Rituel :
 
-- utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
-- placer au centre de ce pentacle un objet lié à la mise en place du corridor (objet maudit, livre d'avatar...)
-- clamer "Portail vers d'autres mondes, je t'en conjure, ferme ton seuil à jamais" en répétition pendant 30 secondes, les bras levés {# (ou bien la version latine : "Porta ad alios mundos, sigillum tuum limen OUTDATED") #}
-- il est indispensable de rester bien **immobile** pendant l'incantation, sans quoi le pentacle peut être déstabilisé (il s'éteint brièvement) et il faut recommencer l'incantation magique
+- Utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
+- Placer au centre de ce pentacle le maximum d'objets attachés aux corridors outre-monde (talismans maudits, livres d'avatars...)
+- la présence d'{% symbol "initiés" for "ritualist_kind_name" %} supplémentaires autour du pentacle est conseillée mais pas indispensable
+- Tendre le bras droit vers le portail, les doigts grand écartés
+- Clamer cette incantation : **"Par le soleil victorieux, Par le pouvoir des cieux, Portails disparaissez"** pendant au moins **30 secondes**
+- Il est important de rester bien **immobile** pendant l'incantation, sans quoi le pentacle peut être déstabilisé (il s'éteint brièvement) et cela retarde la finalisation du rituel
 
-Attention, cet exorcisme ne fonctionne bien que si toutes les entités qui sont venues en ce monde par l'objet concerné sont **retournées**, ou à défaut sont placées **dans** le pentacle. Sans cela, le ritualiste rencontrera une résistance, et l'invocation ne sera pas résolue au bout du temps normal. Si l'officiant continue alors son invocation pendant **30 secondes supplémentaires**, cela forcera sa réalisation, mais avec la conséquence dramatique de **"tuer"** lesdites entités d'outre-monde, quoi que cela signifie concrètement.
+Attention, cet exorcisme ne fonctionne sans problèmes que si toutes les entités qui sont venues en ce monde par un des corridors présents sont **retournées** dans leur monde, ou à défaut sont placées **dans** le pentacle. Sans cela, le ritualiste rencontrera une résistance mystique, et l'invocation ne sera pas résolue au bout du temps habituel. Si l'officiant continue alors son invocation pendant **30 secondes supplémentaires**, cela forcera la finalisation du rituel, mais avec la conséquence dramatique de **"tuer"** lesdites entités d'outre-monde non-renvoyées, quoi que cela signifie concrètement.
+{% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
-Notez qu'il est possible, en une seule invocation, de briser plusieurs corridors d'outre-monde à la fois, mais il faut pour cela placer les objets liés à chacun de ces corridors dans le pentacle, et surtout avoir autant de diacres participant au gestes rituels et incantations qu'il n'y a de corridors à fermer. {% fact "multiple_avatars_can_be_simultaneously_expelled_with_ritual" %}
+{# WRONG Notez qu'il est possible, en une seule invocation, de briser plusieurs corridors d'outre-monde à la fois, mais il faut pour cela placer les objets liés à chacun de ces corridors dans le pentacle, et surtout avoir autant de diacres participant au gestes rituels et incantations qu'il n'y a de corridors à fermer.
+ OUTDATED clamer "Portail vers d'autres mondes, je t'en conjure, ferme ton seuil à jamais" en répétition pendant 30 secondes, les bras levés (ou bien la version latine : "Porta ad alios mundos, sigillum tuum limen") #}
+
+
 
 
 Vos connaissances sur les différents types de blessures

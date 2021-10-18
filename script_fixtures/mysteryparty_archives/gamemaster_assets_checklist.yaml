@@ -200,7 +200,7 @@
     - "Nota: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
 
 -
-  - "Corridor de de Peau de Pierre (cul-de-sac)"
+  - "Corridor de Peau de Pierre (cul-de-sac)"
   -
     - "Présence de vapeurs toxiques (fioles diverses renversées) {% hint 'spilled_potions_in_toxic_corridor' is provided %}"
     - "Coffre protégé par XXX et contenant le {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %}"

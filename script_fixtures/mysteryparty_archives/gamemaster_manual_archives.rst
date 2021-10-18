@@ -840,7 +840,7 @@ Le druide prévient qu'il ne s'éloignera plus du pentacle du rituel de l'arkont
 Typiquement, il se met alors à lire des grimoires, l'air enthousiaste, non loin du pentacle. {% fact "druid_reads_near_pentacle_before_game_ending" %}
 
 Le traître est insensible aux attaques usuelles.
-Si les joueurs l'attaquent directement, il en tue un (qui devient un fantôme), puis ordonne aux autres de continuer à chercher comment lever la malédiction.
+Si les joueurs l'agressent directement, il en tue un (qui devient un fantôme), puis ordonne aux autres de continuer à chercher comment lever la malédiction.
 
 Mais il existe certaines façons de l'atteindre :
 
@@ -849,15 +849,25 @@ Mais il existe certaines façons de l'atteindre :
 
 - Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de trois joueurs pour créer “la balle qui ne pardonne pas”.
 
-- Soit, la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer reproduire le rituel de l'arkonte pour refermer le corridor outre-monde. Cela nécessite de trouver **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}.** {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
+- Soit, la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer détruire massivement les corridors outre-monde grâce à l'un de ses **rituels**, capable de briser tous les corridors à la fois, et murer ainsi les avatars dans leurs mondes respectifs. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
-  Un **oracle auditif** évoque ce plan de bataille, qui nécessite d'abord par sécurité que les autres avatars retournent chacun dans son monde ; et cet oracle met en garde contre une riposte du méchant à l'aide des fantômes. {% hint 'parcival_oracle_hearing_about_last_battle_plan' is needed %}
+Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'expulsion :
 
-  En effet, en désespoir de cause, le druide va utiliser la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %} A charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...) sans se faire attaquer par le druide.
+- Un **oracle auditif** évoque ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% hint 'parcival_oracle_hearing_about_last_battle_plan' is needed %}
 
-Si le traître est expulsé du monde humain ou tué, la malédiction prend fin, et l’épilogue peut se dérouler. {% fact "traitor_death_ends_cursed_enclosure" %}
+- Les joueurs doivent rassembler **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}**, qui sont stockés à différents endroits de la bibliothèque. {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
 
-Mais si quelqu'un suit les ordres du druide et lève la malédiction, ou si celui-ci brise finalement lui-même la clôture de la bibliothèque, grâce une formule prétendument trouvée dans un grimoire, alors le méchant s'échappe de la bibliothèque.
+- Par sécurité, les autres avatars doivent être poussés par l'exorciste à chacun retourner dans son monde, sans quoi ils seraient mis en grave danger par le rituel. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
+
+- Lorsque l'exorciste commence son rituel, le druide est d'abord confus, puis, comprenant ce qui se passe, il l'attaque, mais en vain.
+
+- En désespoir de cause, le druide va utiliser la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte (qui contient le {% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}), et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} À charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...), sans se faire eux-mêmes attaquer par le druide.
+
+- Une fois le rituel à son terme, le druide est comme blessé ; l'arkonte intervient alors pour clamer victoire, et appelle tous les diacres autour de lui pour quelques dernières répétitions de l'incantation rituelle. Le druide est alors attiré par le pentacle et y meurt.
+
+Que le traître soit anéanti d'une manière ou d'une autre (balle maudite ou rituel d'expulsion), la malédiction prend fin, et l’épilogue peut se dérouler. {% fact "traitor_death_ends_cursed_enclosure" %}
+
+Mais si un jour suit les ordres du druide et lève la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, ou si tous tardent trop à agir et le druide brise finalement lui-même cette malédiction - grâce une formule prétendument trouvée dans un grimoire - alors le druide s'échappe de la bibliothèque.
 Les joueurs peuvent dans ce cas effectivement rentrer chez eux, mais avec l'amertume de l'échec : avoir lâché un monstre dans leur monde. Et les **avatars restants** peuvent choisir entre être révoqués, ou rester pour essayer d'aider cette planète face au nouveau péril.
 
 {% endmacro %}
@@ -867,18 +877,21 @@ Les joueurs peuvent dans ce cas effectivement rentrer chez eux, mais avec l'amer
 Finir le rituel d'expulsion des avatars (diacres)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Les personnages imaginaires refusent initialement que ce rituel, commencé par l’arkonte et interrompu par la trahison du méchant, soit mené à bien tant que les fantômes n’auront pas reçu justice et été libérés. À cela s’ajoute initialement la crainte que le rituel ait, en lui-même, causé le drame.
+Les avatars refusent initialement que quiconque continue le rituel, commencé par l’arkonte et interrompu par la trahison du méchant, en vue de les renvoyer chez eux. En effet, ils ne veulent pas partir tant que les fantômes n’auront pas reçu justice et été libérés. À cela s’ajoute initialement la crainte que le rituel ait, en lui-même, causé ces drames.
 
-Le pentacle et les objets du rituel (ainsi que les romans) sont toujours en place, le traître n’ayant pas osé toucher à cette magie sacrée qu’il ne connait pas. Pour finir le rituel, et renvoyer un ou plusieurs avatars à la fois dans leurs mondes respectifs, il est juste besoin de suivre les instructions pour ce rituel, connues des diacres. {% fact "diakon_exorcist_knows_how_to_expel_avatar" %} {% fact "multiple_avatars_can_be_simultaneously_expelled_with_ritual" %}
+Le pentacle et les objets du rituel sont toujours en place, le traître n’ayant pas osé toucher à cette magie sacrée qu’il ne connait pas, et ne pouvant de plus, par nature, transporter des romans. {% fact "avatars_cannot_carry_novels" %}
+
+C'est uniquement une fois le plan de bataille finale bien établi, ou le méchant déjà supprimé par un quelconque moyen, que les avatars acceptent de retourner chez eux et de laisser le rituel de l'exorciste les renvoyer définitivement dans leurs mondes.  {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
+
+Si un joueur tente de renvoyer de force les avatars "gentils", cela causera certainement un certain chaos tant parmi les figurants que les joueurs.
 
 
-Supprimer la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque (piège)
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Supprimer précocement la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque (piège)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-La clotûre de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **{% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %}** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit. {% fact "diakon_invoker_can_break_cursed_enclosure" %}
-Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et c'est un échec pour tous, comme explicité ci-dessus.
+La clôture de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **{% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %}** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit. {% fact "diakon_invoker_can_break_cursed_enclosure" %} Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et c'est un échec pour tous, comme décrit ci-dessus.
 
-Pour rappel, dans l’issue optimale du jeu, la malédiction de la bibliothèque est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être. {% fact "traitor_death_ends_cursed_enclosure" %}
+Dans l’issue optimale du jeu, la malédiction de la bibliothèque est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être. {% fact "traitor_death_ends_cursed_enclosure" %}
 
 {# NOPE TOO MANY MISSIONS ALREADY
 
@@ -891,7 +904,6 @@ Pour rappel, dans l’issue optimale du jeu, la malédiction de la bibliothèque
     Ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...
 
 #}
-
 
 
 Survol des compétences spécifiques des participants

@@ -38,7 +38,7 @@ Attention, même éteint, un sceau peut, lui, conserver une **aura bénéfique o
 
 Notez que seule la personne ayant dessiné un pentacle ou un sceau peut facilement le **révoquer** ; pour des personnes externes, il s'agit d'une opération de désenvoutement longue et ardue, aux effets imprévisiblement dangereux.
 
-Vous pouvez en revanche facilement réactiver un pentacle ou sceau existant, en l'encensant (un tour suffit) puis en clamant l'invocation **"Ô pentacle (ou "sceau magique"), réveille-toi et écoute ma voix"**. Le pentacle ou sceau devrait s'illuminer peu après, signe qu'il est désormais actif ; il peut se désactiver de lui-même au bout d'un certain temps sans utilisation.
+Vous pouvez en revanche facilement réactiver un pentacle ou sceau existant, en l'encensant (un tour suffit) puis en clamant l'invocation **"Ô pentacle (ou "sceau magique"), réveille-toi et écoute ma voix"**. Le pentacle ou sceau devrait s'illuminer peu après, signe qu'il est désormais actif ; il peut se désactiver de lui-même au bout d'un certain temps sans utilisation. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
 
 
 
