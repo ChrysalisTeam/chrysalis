@@ -863,7 +863,9 @@ Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'e
 
 - En désespoir de cause, le druide va utiliser la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte (qui contient le {% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}), et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} À charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...), sans se faire eux-mêmes attaquer par le druide.
 
-- Une fois le rituel à son terme, le druide est comme blessé ; l'arkonte intervient alors pour clamer victoire, et appelle tous les diacres autour de lui pour quelques dernières répétitions de l'incantation rituelle. Le druide est alors attiré par le pentacle et y meurt.
+- Une fois le rituel à son terme, le druide est comme blessé ; l'arkonte intervient alors pour clamer victoire, et appelle tous les diacres autour de lui pour quelques dernières répétitions de l'incantation rituelle. Il peut s'en désolidariser à la fin pour clamer : **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**. Le druide est alors attiré par le pentacle et y meurt. (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres)
+
+
 
 Que le traître soit anéanti d'une manière ou d'une autre (balle maudite ou rituel d'expulsion), la malédiction prend fin, et l’épilogue peut se dérouler. {% fact "traitor_death_ends_cursed_enclosure" %}
 
@@ -1179,6 +1181,7 @@ Valeur des objets précieux
 - 1 diamant moyen rectangulaire vaut 10 kashes sur le marché de Nimouk
 - 1 grand diamant rond ou rectangulaire vaut jusqu'à 20 kashes dans les pays Axoliens
 - la couleur (fumée ou non) des diamants est sans impact sur leur valeur
+- pour les bijoux, leur valeur matérielle estimée est marquée sous forme d'étiquettes
 
 {% endmacro %}
 <{ treasures_value_summary }/>
