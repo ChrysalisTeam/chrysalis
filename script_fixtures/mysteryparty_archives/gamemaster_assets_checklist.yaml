@@ -2,11 +2,11 @@
 -
   - "Emplacements décorés voire illuminés aux 2 étages"
   -
-    - "P1 - Plan de l'étage autorisé, avec en signe UV les localisations de : le TOMBEAU {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %}"
+    - "P1 - Plan de l'étage autorisé, avec en signe UV les localisations de : le TOMBEAU {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %} ????????????"
     - "P2 - Plan du domaine interdit désignant l'étagère des teintures {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
 
     - "F1 - Coin du fantôme de l’archiviste"
-    - "F2 - Coin du fantôme de l’enfant"
+    - "F2 - Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
     - "F3 - Coin du fantôme de l’arkonte"
     - "F4 - Coin du fantôme du voleur"
 
@@ -64,28 +64,28 @@
   -
     - "Grande enceinte Vintage avec Jack3.5/Bluetooth"
     - "Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth"
-    - "Lampe-tempête Bronze (2xPileD incluses)"
+    - "Lampe-tempête Bronze (2xPileD incluses) INAMOVIBLE"
     - "Stroboscope LED (4xAA)"
     - "Projecteur directionnel 220v @Poncet (pour les escaliers)"
     - "4 néons LED Black Light (USB))"
 
 -
-  - "Coin du fantôme de l’enfant (près de la jungle)"
+  - "Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
   -
-    - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5"
+    - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 INAMOVIBLE"
     - "Lecteur MP3 étanche bleu AGPTEK Go2 Small à batterie avec mémoire interne 8Go incluse"
 
 -
   - "Coin du fantôme de l’arkonte"
   -
-    - "Projecteur globe Aurore Boréale Lunartec (secteur/12V)"
+    - "Projecteur globe Aurore Boréale Lunartec (secteur/12V) INAMOVIBLE"
     - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse"
 
 -
   - "Mini-jungle"
   -
     - "Crâne empoisonné de l'arkonte bien caché entre les pots {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}"
-    - "1 Guirlande lumineuse avec lierre vert 2m (2xAA)"
+    - "1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
 
 -
   - "Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %}"
@@ -107,7 +107,7 @@
   -
     - "3 pierres tombales noires"
 
-    - "Tombe 1 : Journal intime d'Octave parlant ????"
+    - "Tombe 1 : Journal intime d'Octave parlant de ???????????"
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}"
     - "Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates {% hint 'androids_command_bracelet' is provided %}"
 
@@ -133,7 +133,7 @@
   - "Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
   -
     - "1 pierre tombale verte"
-    - "2 grandes bougies"
+    - "2 grandes bougies (3xAAA chacune)"
     - "Aube de pape dorée"
     - "Crâne humain (@Médiathèque) et ossements divers"
     - "Masque 'anonymous' doré devant le crâne"
@@ -156,6 +156,7 @@
   -
     - "Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (1h15 autonomie)"
     - "Projecteur LED Blanche RX-7732 (4xAA incluses) @Vero"
+    - "Masque à LED ShiningApp pour le fantôme du voleur"
 
 -
   - "Laboratoire d'Alchimie"
@@ -171,11 +172,12 @@
     - "Support cylindrique éclairant à LEDs (3xAAA) @Vero"
     - "7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
     - "2 flacons-bouteilles de condiments : Curcuma et Coriandre"
-
+    - "1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
+    - "1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
 -
   - "Laboratoire de gemmologie"
   -
-    - "3 faux-galets creux"
+    - "3 faux-galets creux (??????)"
     - "Mini-globe terrestre"
     - "Boule plasma Pearl (USB ou 4xAAA)"
     - "Guirlande multicolore SilverWireLights (3xAA) @Cat"
@@ -225,10 +227,13 @@
     - "10 petits diamants ronds (= 50 kashes)"
     - "10 diamants moyens rectangulaire (= 100 kashes)"
     - "5 grands diamants ronds (= 100 kashes)"
-    - "Bracelet doré à gros diamant bleu (non magique) valant environ 100 kashes"
-    - "Collier en bande dorée (non magique) valant environ 60 kashes"
-    - "Stylo doré avec gros diamant (non magique) valant environ 60 kashes"
-    - "SOIT environ 570 kashes en jeu, disséminés comme suit:"
+    - "Bracelet doré à gros diamant bleu (marqué non magique) valant environ 100 kashes"
+    - "Collier en bande dorée (marqué non magique) valant environ 60 kashes"
+    - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes"
+
+-
+  - "Localisation de ces richesses à collecter (environ 570 kashes en jeu)"
+  -
     - "180 kashes répartis entre les coffres et emplacements dans l'étage autorisé"
     - "180 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors dans l'étage interdit"
     - "20 kashes dans les poches des avatars"
@@ -244,17 +249,22 @@
     - "Broche de Meredice, trouvée par les joueurs si le bon éboulement derrière l'atelier d'alchimie est dynamité {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
     - "Lot de gemmes pour simuler la réussite du moulin magique des Maupertuis {% hint 'jewels_set_for_grinding_mill_success' is provided %}"
     - "Cônes d'encens pour la fontaine magique"
+    - "Papier d'Arménie et briquet pour l'encensoir des diacres"
 
 -
   - "Fantômes"
   -
     - "4 paires gants blancs à diodes (3 à lumière blanche et 1 bleue)"
     - "Ailes en tissu (look métallique)"
+    - "Autres paires d'ailes : ???????????"
+    - "Capuchon noir en feutre pour le voleur"
 
 -
   - "L'Ankou"
   -
-    - "Capuchon noir en feutre"
+    - "Casque à bois de cerf @Victorien"
+    - "Bâton orné ????????????"
+    - "Robe noire ?????"
 
 -
   - "La Bête"
@@ -266,18 +276,19 @@
 -
   - "Avatars"
   -
-    - "Microphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
+    - "Mégaphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
     - "Quelques outils (tournevis, mètre-ruban...) (pour l'inventeur)"
-    - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, puis joueur oracle)"
+    - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, qui le fournira au joueur oracle)"
     - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
-    - "Sarbacane-nerf ou similaire (pour le druide)"
-    - "Sacoche de l'arkonte avec une fausse lettre compromettante au blason de faucille et houx {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %}"
+    - "Sarbacane-nerf, épée ou similaire (pour le druide) ?????????"
+    - "Sacoche de l'arkonte, avec une fausse lettre compromettante au blason de faucille et houx, et de l'argent {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %}"
+    - "Cape et autres vêtements de druide @Pascal"
 
 -
   - "Joueurs"
   -
-    - "Encensoir en argent plaqué avec chainettes (pour invoker)"
-    - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse) (pour sounder) initialement SANS PILE{% hint 'spy_sounder_metal_detector_initially_broken' is provided %}"
+    - "Encensoir en argent plaqué avec chainettes (pour l'invoker)"
+    - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse) (pour sounder) initialement SANS PILE {% hint 'spy_sounder_metal_detector_initially_broken' is provided %}"
     - "Lampe-tempête Argent (2xPileD incluses)"
     - "Feuilles mémo des codes secrets et des runes (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %} {% hint 'runic_transcription_sheet_for_explorer_runologist' is provided %}"
     - "Journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %}"
@@ -286,7 +297,7 @@
 -
   - "Cadenas et leurs clefs"
   -
-    - "2 cadenas transparents avec 2 kits de crochetage"
+    - "2 cadenas transparents avec 2 kits de crochetage ?????????? où çà ????"
     - "Cadenas moyen sans marque avec sa clé"
     - "Mini-cadenas sans marque avec sa clé"
     - "2 mini-cadenas GoTravels avec 2 mini-clés chacun"
@@ -300,14 +311,15 @@
     - "Les 4 broches doivent avoir les symboles [moon, heart, arrow, circle]"
     - "La page web du puzzle des symboles familiaux doit fonctionner"
     - "La page web des cartes symboliques du grimoire chantant doit fonctionner"
-    - "La page web des indices divers (identifiés par un code unique) doit fonctionner"
+    - "La page web de requêtage des indices divers (identifiés par un code unique) doit fonctionner"
 
 -
   - "logistique et décorations diverses"
   -
+    - "2 enceintes bluetooth/SD/jack MuziliSpeaker (longue autonomie)"
     - "Boite de maquillage spécial UV"
-    - "Fils fins, élastiques géants etc. TODO"
-    - "Crackers de papillottes pour explosions"
+    - "Fils blancs fins, codrelette épaisse etc. TODO"
+    - "Crackers de papillottes pour explosions - NOPE BOF"
 
     - "Batterie plate blanche LifeDom 18Wh"
     - "Batterie USB Duracell PB2 24.3Wh"
@@ -331,13 +343,11 @@
     - "2 lanternes rouges Clivra (2xLR20D chacune)"
     - "1 lanterne cylindrique base cuivre (PILES???)"
     - "8 chandelles blanches (3xAA chacune)"
-    - "3 cadres noirs Clivra format A5 (fragiles)"
+    - "4 cadres photo Clivra format A5 (fragiles)"
 
-    - "Bouillotte cylindrique en cuivre avec dedans message XXXXX"
+    - "2 Bouillottes cylindrique en cuivre, dont l'une avec dedans message XXXXX"
 
     - "1 potion (rouge foncé) de fungal rouge {% hint 'potion_red_mushroom' is provided %}"
-    - "1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} TODO ALCHEMISTLAB"
-    - "1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %} TODO ALCHEMISTLAB"
     - "1 potion Délieur de Langue {% hint 'potion_tongue_untier' is provided %}"
     - "FIXME {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
 
@@ -346,3 +356,4 @@
     - "Bouteille verdâtre en tête de mort"
 
     - "3 livrets verts Hachette de géographie régionale"
+    - "Station Internet !!! Autres accès Internet ???"
