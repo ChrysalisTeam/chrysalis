@@ -7,6 +7,7 @@ This repository contains the scenario and media files for the `Chrysalis Rolepla
 
 - Descent (one-shot table-top RPG)
 - Mindstorm (single-day mystery party)
+- Archives (single-evening mystery party)
 - Auction (alternate reality game, mixing live encounters and web interactions)
 
 You may freely modify, use and share these assets under the `Creative Commons - Non Commercial <https://creativecommons.org/licenses/by-nc/3.0/fr/deed.en>`_ license. Their authors are listed in the `team page <https://chrysalis-game.com/cms/a-propos/equipe/>`_ of the Chrysalis Game website. For commercial use of media or text files, please contact us via this website. Python code files, on the other hand, are released under a permissive `MIT license <https://opensource.org/licenses/MIT>`_.
@@ -86,6 +87,18 @@ If you have put properly named images in "trombinoscope/" folder, the generated 
 You'll need to have LibreOffice installed in your system so that separate documents can be extracted from ingame_clues.odt file using "unoconv.py".
 This step might fail if the pagination of this ODT file is altered on your system (e.g. fonts missing), in this case edit it by hand to respect the splitting information stored in the INGAME_CLUES_PARTS python variable of the build script.
 
+
+
+Chrysalis:Archives
+---------------------
+
+Run::
+
+	python build_archives_pdfs.py
+
+The "docs/output_archives/" folder should then contain the gamemaster manual, and character sheets, for this mystery party.
+
+See instructions for "Chrysalis:Mindstorm" above, for some constraints and possibilities of this build system.
 
 
 Chrysalis:Auction
