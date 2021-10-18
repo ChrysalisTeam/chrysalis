@@ -1,0 +1,565 @@
+EQUILIBRAGE
+
+- harmoniser le mot "connaît" et "envoutement"  (LATER)
+
+À
+
+Enigme avec disques gramophone ???
+
+NE SURTOUT PAS liberer le voleur sinon il fout la merde
+
+
+!!!!! ERROR IN hints registry for key arkon_skull_analysis_showing_curare_poisoning : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key candle_batteries_for_explorer_anthropologist : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key candle_without_battery_is_needed : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key hint_website_device : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key parcival_oracle_intuition_hints : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key thin_white_wire_to_represent_traps : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key torn_children_book_with_animal_motions : {'needed'} requires a provided hint
+
+
+Ce qu'il faut :
+    - ANALYSES D'OBJETS avec code
+
+    - ENVOUTEMENTS avec pastille
+    - ENVOUTEMENTS avec code
+
+    - CADENAS
+
+    - CODES SECRETS
+
+    - PIEGES désactivables
+
+
+
+L'exorciste a perdu ses fioles en chemin, trouvées par alchimiste
+
+Exiger des  potions pour bloquer le rituel d'expulsion
+Complexifier "**Bénédiction d'arme**" avec une POTION
+DONNER QUELQUES POTIONS a l'EXORCISTE AUSSI!!! (que l'alchimiste doit vouloir)
+ET VICE VERSA POTION DE SOMMEIL ???
+
+IMPRIMER MOULIN EN STEREOGRAMME
+
+
+
+MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE !!!!!!!!!!!!
+
+
+
+PREVOIR PILES En rhab 20xx pour télécommandes ???????
+
+Mettre toiles d'araignee dans checklist !!!
+
+QUAND surviennent les oracles/visions, faire planning
+
+
+
+COFFRES
+- coffre familial (code dicté par stéthoscope)
+- coffre légendaire (double code, celui de l'au-delà, et celui
+
+LIVRES
+- livret “Généalogie des Maupertuis” avec symbole familial en UV
+- livre des morts, avec message UV
+
+
+faire blasons CADUCEES et semi-caducee
+
+
+COMPET A REBOURS DE TNT bande son à faire
+
+
+
+AJOUTER SOUVENIRS ET ANEDCOTES A OCTAVE
+
+NE PAS DIRE TROP VITE QUE c'est une goule, parler de la BETE!! seul octave sait que c'est une goule, au début
+
+
+Automates de service
+---------------------
+- NE VOIENT PAS FANTOMES
+- répondent à appel
+- apporter nourriture et boisson
+- illuminent avec lampe frontale ????
+- buggents par moment:
+  - butent contre mur, contre obstacle
+  - se bloquent l'un contre l'autre
+  - répétent à l'infini une des 4 phrase
+  - si miroir, bugger devant
+- font la poussière sur les étagères, les joueurs
+- suivent clodynette comme caneetons
+- ont lampe-tempête
+PAROLES :
+- !!!!monsieur ou madame désire-t-il quelque chose ????
+- daignez gouter ces douceurs
+- je vous prie d'accepter cette boisson
+
+
+Kit d'observation-écoute
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Vous savez d'expérience que les vieilles familles lèguent souvent à leurs héritiers des conseils et indices sous des formes très petitement écrites ou très faiblement audibles, donc vous avez emporté **une loupe et un stéthoscope**, au cas où.
+> grimoire et table qui murmurent
+> quid de l'écriture petite ?
+
+
+Talkie Walkie ???
+
+AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
+
+TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
+
+TODO GRELOTS AVEC ELASTIQUES !!!!
+
+A EXPLOITER en jeu pour encens :
+- que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
+- que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tigers_eye" %}
+
+
+>>>>>>>>>>>>>>>> DONNER OBJECTIFS CHIFFRéS POUR TRESOR
+
+TODO bande son du venture prins
+
+ANALYSE à fournir : arkon_bones_having_traces_of_burning + arkon_skull_analysis_showing_curare_poisoning
+
+REDIGER les novels, et en particulier chaos_novel_volume_three_between_zoology_and_cooking_shelves
+
+IMPORTANT - donner du jeu au runologue et unveiler !!!  moins au lockpicker !! ========> RENFORCER SOUNDER MAINTENANT
+DONNER + DE TRAVAIL A L INVENTEUR?? EX. LUI AUSSI A CLEF MAGNETIQUE ???
+Aussi + d'infos pour Octave ?
+
+METTRE PASTILLE DE MAGIE SUR TABLE ENCHANTEE (expliquant génération nourriture)
+
+PREENREGISTRER MESSAGE D'INITIATION D'OCTAVE
+
+PRE ENREGISTRER PROPHECY AUDIO finale avertissant contre danger du druide
+
+ECRIRE dans Thanatologue le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %} (bullet enchantment)
+
+
+
+# ATTENTION ATTACHER RUBANS SUR PETITS BIJOUX POUR PAS LES PERDRE #
+
+Ou sont autres recettes de potions et rituels ? Ex. pour déblocage des fantomes ?
+
+DONNER A DRUIDE LA CHARGE DE SUIVRE LE DESENVOUTEUR !!??? Ou le démineur ???
+
+Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout
+
+
+
+------------------------
+
+INDICE PORTRAIT MAGE - Sur le portrait du mage, une multitude de petites inscriptions magnétiques vous donnent un avertissement formel : "Malheur, malheur à celui qui pénétrera dans la tombe du plus puissant magicien de tous les temps, si ne coule pas en lui le sang des Maupertuis.".
+
+INDICE PORTRAIT PERE - en UV "Rappel : Venture Prins Murmure"
+
+INDICE PORTRAIT MERE - en UV "" 
+
+-------------------------
+
+
+**Rupture de corridor outre-monde**  <--- metter tag {% SYMBOL %}
+
+NOTE
+    3 neveux de clodynette viennent aussi !!!
+
+Où et quand se déclenchent les VISIONS d'oracle ????
+
+
+
+
+Envoûtement de la tombe du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
+
+A DIRE - Seul un héritier des Maupertuis peut pénétrer dans le tombeau, toute autre personne y meurt rapidement des suites d'une des malédictions (mais peut ensuite en sortir via les murs, sous forme de fantôme). {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
+
+- Sceau impénétrable en titane
+- Barrière de foudre
+- Protection anti feu et glace
+- Bouclier anti "passe-muraille éthéré"
+- Mécanisme anti-crochetage
+- Malédiction contre les perçages magiques
+- Filtre 
+
+
+Sur le crâne sur le front une encoche pour le losange, visiblement causé par une fléchette. Une analyse au spectromètre de masse révèle des traces de curare emprisonné dans l'os.
+
+Cet objet a été envoûté avec un envoûtement dangereux cet objet est porteur d'un envoûtement bénéfique ; vous ne risquez rien dans le toucher. Il est dangereux de le toucher.
+
+Cet objet est porteur d'une bénédiction sacrée.
+
+Cet objet est porteur d'une malédiction sacrée.
+
+
+ECRITEAU POUR CLOCHETTE SPECTRALE !
+
+
+
+
+
+
+
+
+
+
+
+TRASH
+########################################
+
+
+
+
+
+CHERCHER MUSIQUE POUR MYSTERY PARTY
+
+FABRIQUER ENCENS - DONE
+
+{#
+INTUITIONS DE ORACLE
+    XXX TODO - peut détecter ex. la présence de la bete à son arrivée???
+    Sent danger pour non-parcival dans tombeau du mage
+    XX se sent en sécurité pour eux et sa famille près du tombeau du mage, mais pas pour les autres jouers
+    XX sent qu'il faut revenir à la fontaine d'encens quand tout sera perdu
+#}
+
+AJOUTER DU JEU au DESENVOUTEUR!!!!!!?????
+
+
+IMPORTANT - forcer la réalisation de la fermeture de portail TUE AUTRES AUSSI SI PAS PARTIS !!!
+
+
+COMMENT DENOTER LES OBJETS CHERS OU NON ?? MAGQIUES OU NON ??  <<< étiquettes et pastilles
+
+
+
+------------
+ CR REUNION
+
+
+- ils n'ont toujours pas leurs affiches, mais ils veulent bien qu'on lance la com', tant qu'on met le logo de la médiathèque dessus
+- au niveau du son ils ont des gros/petits jacks sur leur système de hauts parleurs, mais la qualité risque d'être pourrie
+- pour les fumigènes et encens un technicien doit leur dire ce qui est faisable
+- bien sûr avec le Covid y a de grosses incertitudes, mais hormis l'obligation des masques (et ptet des aménagements pour le buffet), ils continuent tels quels pour l'instant
+
+Au niveau des 6-8 figurants nous avons déjà tout ce qu'il faut en interne, mais si des membres de la médiathèque veulent participer, nous pouvons libérer des rôles.
+
+Au niveau des 12 joueurs, il nous faudrait recruter à partir de la fin du mois de septembre au maximum, afin d'avoir tous les rôles remplis pour le 15 novembre 2020 et envoyer à ce moment là les fiches personnage aux joueurs.
+
+Les joueurs devront avoir des tenues un peu rétro/steampunk (ou à défaut, des tenues sobres), nous nous chargeons des accessoires de jeu .
+
+> Rôles "héritiers"
+Gardien des bois
+Alchimiste
+Oracle
+
+> Rôles "agents secrets"
+Démineur
+Sondeur magnétique
+Crocheteur
+
+> Rôles "mystiques" - Vous êtes trois diacres du dieu Bahamoot, le grand dragon cosmique, bleu et invisible, juste et
+généreux. L’un de vous est spécialisé dans les (dés)envoûtements d’objets ; l’autre dans les exorcismes
+; l’autre enfin dans les rituels d’invocation. Mais tous, vous êtes des initiés, ce qui signifie que vous
+pouvez officier à un rituel sacré mêlant talismans, formules incantatoires, gestes sacrés, lumières,
+fumées, et autres signes mystiques.
+Désenvouteur
+Exorciste
+Invocateur
+
+> Rôles "explorateurs"
+Runologue
+Dénicheur-analyste
+Anthropologue
+
+
+
+
+Les avatars restants, qui ont suivi la scène sans la voir (en demandant possiblement une narration aux joueurs) demandent à être bannis de ce monde grâce au pentacle du rituel..
+
+Qui peut soigner quoi, chez les joueurs ?  RIEN DU TOUT
+
+
+Faire que ANTHROPOLOGUE SOIT NECESSAIRE POUR CERTAINES ACTIONS ? Comme la rupture du corridor ?  DONE 3 initiés nécessaires
+
+
+COMMENT poser questions à l'ankou dans au dela exactement ??  DONE
+
+A QUOI SERVENT BLASONS ??? DONE
+
+Vous êtes capables de déminer les pièges que pourrait contenir la bibliothèque. Ces pièges se présente sous deux formes.
+
+- Device pour prendre le controle des automates ? yep bracelet DOMINION
+
+
+
+Reconnaissance des coffres piégés -> NOPE EN DOUBLON AVEC OBJETS MAUDITS, ABORTED
+
+COMPLOT avec faux blason du druide pour accuser mec
+-> Sacoche de l'arkonte avec une fausse lettre compromettante au blason de faucille et houx TODO
+
+- Avatar “sorcière” prévient tous que prophétie de GRAVE DANGER pour le monde ? Mais ils pensent tous que c’est la bête.
+
+ENIGME AVEC CHAT-LU-MOTS !!!  OK WIP
+
+VRAI figurant dans tombe du mage mos peratys !!
+
+TELEPORTER A PLUSIEURS
+
+NE PAS BOUGER PENDANT RITUEL
+
+INVENTEUR A ENFANTS ET DOIT S'EN OCCUPER !!  BOF
+
+MEREDICE AVAIT FAIT JEU DE PISTE POUR OCTAVE AVANT DECES !!!!!!
+
+
+TODO on peut piquer les sous du voleur avant de partir!!!!
+
+MEREDICE AVAIT FAIT JEUDE PISTE ET CACHE TRUCS DE OCTAVE (elle s'en souvient plus depuis l'au-dela)
+
+DEPLaCER SQUELETTE DU VOLEUR VERS TOMBEAUX après sa découverte ?? Nope complicated
+
+ILS RENCONTRENT AVATARS DES LE DEBUT pour certains ? duchesse sur tombe en recueillement par exemple ?
+
+Expliquer la pochette magique du fantome, avec son code secret, pliable par joueurs
+
+INFORMER TOUS NPCS DES EVENEMENTS DU JEU ET DE QUETE DE LA BATAILLE FINALE
+
+Que murmure la boite noire au fond du grand coffre marron ????
+
+- L’entrée normal du manoir, celle menant à la surface, a été définitivement fermée par les parents Maupertuis pour protéger leur enfant. NOPE OTHER
+
+
+- L'archiviste ne se souvient plus d’un code, mais si on l'amène jusqu'au coffre, sa mémoire musculaire lui permet de le retrouver ?  BOF
+
+- Un des fantômes recule sous le coup de la surprise, menaçant de toucher un joueur ? BOF
+
+- Utiliser des images stéréoscopiques/stéréogrammes ? YEP
+
+
+- Y A T IL 3 grimoires légendaires à mettre à l’abri hors de la bibliothèque ? NOPE
+
+- Un joueur a PORTE-VOIX ??  NOPE
+
+- Mettre des énigmes physiques pour récupérer des objets, façon Fort Boyard (ou réutilisant les défis steampunk, contre un opposant fantomatique...) NOPE COVID
+
+IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé, il doit être expliqué pourquoi tel ou tel élément leur a échappé (règles de magie différentes, nécessités de + de gens pour un rituel…)
+
+
+- Encourager les collaborations entre équipes!!!! Nécessaires pour quête principale de chaque équipe.
+
+
+- Une des actions réalisées déclenche la “{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}” des fantômes désincarnés proches, ou juste les attire, forçant à la fuite temporairement.
+- Le détecteur de métaux permet AUSSI de détecter les runes magnétiques !! YEP
+- Besoin de protection pendant le rituel, car fantomes arrivent ?
+
+
+- Le bourrin a une compétence INTUITION ? nope mais oracle oui
+
+- Faire un coin avec des jouets d’enfants ? ou Un niche du monstre YEP ?
+
+- Des objets sont CASSES, à réparer par inventeur : detecteur de metaux n’a plus de pile, boite à musique n’a plus de tourniquet, membres arrachés ?
+
+- Un des joueurs est ERUDIT, peut déchiffrer les mots perdus depuis longtemps
+
+- Un des avatars a un cache-oeil de pirate, pratique pour changer d’identité
+
+    - Laura a 1 cristal en cours
+    - commander résine ?
+
+moment comique, même la goule repart à la fin ????????
+
+
+Un objet en santé doit toujours porter, parmi d'autres sans, je nettoie sur son autocollant. Si l'étoile à un nombre impair de branche (1,3, 5,7… Fermez la parenthèse alors l'envoûtement est dangereux maléfique. À l'inverse, si l'objet a une étoile avec un nombre pair de branche (quatre, 6,8…), Alors l'objet porte un envoûtement inoffensif.
+
+
+PARLER DE LA FONTAINE SACREE DE VOYANCE
+--------> dit "reviens quand tout sera perdu"
+
+
+Le druide essaie de monter joueurs contre inventeurs  DONE
+
+QUID DES GRILLONS finalement ????
+
+Par le souffle sacré de Bamout, ont perdu, je te chasse, par loin de moi.
+
+Le précepteur
+
+Il est relativement sage et érudit, mais a très peu de connaissances et de compétences en ce qui concerne les arts magiques.
+
+Il enseignait principalement à Octave ses humanités (sciences, lettres...), laissant aux parents le soin de transmettre leur héritage de magiciens.
+
+Il a tiré profit de leur enfermement initial dans la bibliothèque, suite au sac du manoir, pour s'improviser archiviste, et trier l'étage autorisé. ????MAIS PAS FINI ???
+Il prenait juste soin de ne pas manipuler les grimoires aux allures louches.
+
+
+
+!!!!! Le voleur demande des sous pour usage du médaillon de téléportation, et localisation de la broche de mérédice, quoi d'autre ?????????
+
+
+
+faut utiliser le bon rituel de stase pour “geler” la bête jusqu’à ce que la malédiction soit annulée, ce qui nécessite que la bête reste un petit moment à l’intérieur d’une zone.
+TODO COMMENT CA FONCTIONNE ?
+Typiquement, les joueurs devront donc faire lutter l’un des leurs avec la bête jusqu’à ce que le rituel soit achevé. Ou alors la “tuer” avec la balle magique et immédiatement geler sa dépouille fantomatique avec le rituel.
+
+
+
+
+NE PAS APPUYER BOUTON SONNETTE
+
+
+INTEGRER SPELL FILE RST
+
+{% hint 'octave_diary_with_runes_enigma_puzzle_hint' is provided %} ??
+
+il avait appris à générer lui-même de la nourriture à partir de simples roches, connaissance qui est restéee dans sa descendance.  --->   COMMENT ???
+
+duchesse et inventeur se déchirent sur poesie ou musique ?
+
+Faire que les avatars se connaissent entre eux !!!  DONE
+
+IMPORTANT SORTIR les données communes NPC ???  DONE
+
+DONNER INSTRUCTIONS DEPLACEMENT FANTOMES
+MANQUE UN NERF SARBACANE
+METTER STAND CRYSTALLOGRAPHIE
+
+
+
+NPCs
+Si un joueur cherche des informations sur les automates, l
+- automate
+- initiation octave
+XXX broche de
+
+
+
+
+POURQUOI LE FANTOME DE GOULE NE DESCENDAIT PAS DEJA ??  SCEAU LEGENDAIRE
+DIRE FANTOMES NE VOIENT PAS AVATARS ????
+- Bezoar de protection contre poisons ?
+POSSIBILITE DE CRER UN PENTACLE INVISIBLE - NOPE
+
+Il faut être capable de finir le rituel de renvoi sans êttre atteint par les atttaques diverses du méchant ; et donc :
+- un envoûtement de "peau de golem", rendant insensible aux blessures physiques
+- une potion antipoison (à fabriquer sur place)
+- le bandeau antimagie du mage légendaire (trouvé dans sa tombe), contre les sortilèges
+- soit le bijou d'invisibilité spirituelle, soit l'armure bénite, contre les spectres
+Si un de ces envoûtements est manquant, le druide, en tenant différentes tactiques (sauf les spectres sur lesquels il n'a aucune prise)
+
+
+
+
+
+
+où est truc d'invisibilité ???
+ATTENTION LE VOLEUR EST VENU QUAND LA BETE ETAIT ENCORE VIVANTE !!!!!!
+
+
+
+PARLER DES PENTACLES, de comment ils naissent et meurent DONE
+, contenant la Bague Amplificans et le Bandeau Bouclier Magique {% hint 'ring_amplificans' is provided %} {% hint 'antimagic_protection_headband' is provided %}
+DIRE mage était symptomatique aura manaique
+{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}
+QUI SAIT A PROPOS COLLIERS ETHERIQUES
+, gagnant ainsi le titre d'arkonte, c'est-à-dire "sur-être défenseur de la justice".
+OUTDATED Cul-de-sac protégé par un piège, avec des richesses au bout {% fact 'trapped_corridor_keeps_jewels' %}"
+    - "P5 - Corridor de Force Vitale" 
+    - "P6 - Cul-de-sac fermé par une porte en bronze de type 'ultra-lourd', renfermant les mini-coffrets de l'initiation d'Octave (dont l'un renfermant sa broche) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %}"
+    - "P7 - Corridor empoisonné (avec GRILLON DETECTEUR), avec le {% symbol 'Collier d\\'Invisibilité Spirituelle' for 'XXXXXXXX' %} et des potions (dont celle de Fungal Bleu) au bout {% hint 'spiritual_invisibility_wristband_in_toxic_corridorXXXXXXXXXX' is provided %} {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
+
+
+
+
+"Bandeau Magiprotek" for "antimagic_protection_headband"  NOPE
+oracle déclenché par un grillon de l’étage autorisé   NOPE
+
+
+ELEMENTS IMPORTANTS RESTANT A CONCEVOIR
+----------------------------------------------
+
+- vêtements des fantomes et parures des joueurs : EN ATTENTE DE LIVRAISON
+- paires d'ailes pour l'archiviste et l'arkonte : Vero et Clodynette sont sur le coup
+- tête de L'Ankou : Victorien
+- bâton/colifichets de l'Ankou: Philou et Vero sont sur le coup
+- 2 livres creux avec tablettes/smartphone intégrés: Catherine s'en occupe
+- tableaux-portraits des membres de la famille Maupertuis : Héloïse les cherche
+- niche de la goule : ??
+- lampes tempêtes supplémentaires
+    Katia en a une de lampe tempête à LED.
+    Clivra a 2 lampes rouges qui fonctionnent en AA ?
+    Petite lampe de Victorien ?
+- sport lumineux avec trépied
+- on oublie pour le moment le torse de la bête, une tunique de fantome marchera aussi
+- rallonge électrique noire
+- grelots pour pièges
+- intégrer énigmes de ruens sur le portail web @PASCAL
+- SYMBOLES RUNIQUES pour les énigmes (demander explications)
+
+
+ELEMENTS NON VITAUX MAIS COOLS A AVOIR
+-----------------------------------------------------
+
+- écran steampunk  @victorien
+- chainette pour rallonger l'encensoir
+- un sceptre lumineux davantage impressionnant que mon stylo doré avec diamant
+- autres enceintes autonomes mp3 (ex. avec carte SD)
+- arbalete nerf décorée (voir avec Héloïse)
+- 2x3 BOUGIES grandes à LED (CENTRAKOR, @Héloise)
+- cristaux géants en résine ou assemblage de bouts plastiques transparents ?
+
+
+GRELOTS ETC
+
+- nouveau matériel : monstre, encense, ailettes, lumières, mp3...
+- CRISTAUX ??
+
+- 2 énigmes sur PYCHRONIA
+- il me faut les stéthoscopes  @VICTORIEN
+
+- plan des lieux annoté
+- évolutions perso : druide, inventeur, et PRINCESSE/DUCHESSE voyante
+- AUTOMATES pour PNJs
+
+- plan de com' ?
+
+INTEGRER DANS PYCHRONIA LES ENIGMES !!!!!!!
+
+REALISER SYMBOLES EN PNG!!!
+
+
+AMENER DETECTEUR METAUX DIMANCHE  <<<
+
+Deplacer murs ?????
+
+Acheter CRAFT et ENROULEUR Demander à la médiathèque pour SPOT LUMINEUX !!!!!!!
+
+Grelots/clochettes ???
+
+Dire à cathe de ramener le bescherelle
+
+
+
+
+REVIEW DES FICHES joueurs
+=============================
+
+Hello, voici la première version des fiches de joueurs.
+Il reste quelques "TODO" à remplir dedans, c'est normal, et des blocs entiers de texte sont automatiquement dupliqués entre les fiches de personnages, donc vous pouvez les survoler rapidement.
+
+- commencer par les règles du jeu, l'Univers du jeu pour les joueurs, et les fiches de personnage des joueurs
+- lire ensuite les "Complément des Figurants", puis les fiches de personnage des figurants (fantômes, avatars, l'Ankou...)
+- lire enfin le long manuel global du maître du jeu
+
+l'important est de pouvoir signaler :
+
+- les possibles fautes d'orthographes, erreurs de formatage, mots manquants ou dupliqués
+- si le contexte du jeu, le monde dans lequel tout se passe, est insuffisamment exposé
+- si le déroulement du début du jeu, ou des scènes dans lesquelles ils ont un rôle crucial, n'est pas clair pour les figurants
+- si certaines autres informations sont ambigues, ou pas assez détaillées, en particulier par rapport à ce qui est marqué dans le manuel du maître de jeu (en particulier en ce qui concerne les compétences spéciales)
+- si certains joueurs risquent de n'avoir pas assez de "jeu", de choses spécifiques à faire avec leurs compétences et connaissances, par rapport aux autres
+- si certaines quêtes sont trop complexes ou au contraire trop faciles
+- si le timing global du jeu (3h) est faisable avec ce contenu
+- si certains mécanismes de jeu pourraient être mal utilisés et mettre en danger le jeu
+
+
+
