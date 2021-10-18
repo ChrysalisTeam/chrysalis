@@ -13,13 +13,15 @@ Initiations rituelles
 
 Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribales et certains cultes, vous avez suivi avec assiduité leurs parcours initiatiques. Cela fait de vous l'unique personne sur Terre cumulant des titres si divers :
 
-- **Shaman de la jungle de Kamilia** (salutation : "Par l'oiseau à trois têtes, reçois ma salutation" ; réponse : "Par le serpent sans tête, reçois la mienne")
+{% macro mystics_knowledge_article() %}
+
+- **Shaman de la jungle de Kamilia** (salutation : *"Par l'oiseau à trois têtes, reçois ma salutation"* ; réponse : *"Par le serpent sans tête, reçois la mienne"*)
 
   Ce titre atteste de votre résistance aux épreuves du feu, de l'eau, de la terre et du ciel. Il vous permet de réaliser des sacrifices rituels en l'honneur du Grand Sage, de préparer le Kahflu des cérémonies (jus de tubercules alcoolisé des banquet), et de lire la parole des esprits dans les galets des rivières.
 
-- **Arkonte yodique** (salutation : "J'implore que les yods vous éclairent" ; réponse : "Que je sois pour vous leur miroir")
+- **Arkonte yodique** (salutation : *"J'implore que les yods vous éclairent"* ; réponse : *"Que je sois pour vous leur miroir"*)
 
-  Ce titre correspond à une forme de "chevalerie bénie par les dieux" parmi les fidèles de cette religion ; il vous engage à la droiture morale, à la persévérance et au discernement dans vos actions  ; il vous permet de commenter les textes saints de la religion yodique, de siéger aux conseils ordinaires des arkontes, et de recevoir la "confession de mission" d'un confrère arkonte (pour cela, il se met à genoux devant vous, et vous gardez une main imposée en l'air au dessus de sa tête). {% fact "arkon_means_blessed_knight" %} Vous n'êtes pas peu fier de ce titre, qui vous place dans la lignée de personnages légendaires et pourtant réels comme Zarathoustra, ou {% symbol "Valerias" for "arkon_name" %}.
+  Ce titre correspond à une forme de "chevalerie bénie par les dieux" parmi les fidèles de cette religion ; il vous engage à la droiture morale, à la persévérance et au discernement dans vos actions  ; il vous permet de commenter les textes saints de la religion yodique, de siéger aux conseils ordinaires des arkontes, et de recevoir la **{% symbol "confession de mission" for "arkon_mission_confession" %}** d'un confrère arkonte (pour cela, il se met à genoux devant vous, et vous gardez une main imposée en l'air au dessus de sa tête). {% fact "arkon_means_blessed_knight" %} Vous n'êtes pas peu fier de ce titre, qui vous place dans la lignée de personnages légendaires et pourtant réels comme Zarathoustra, ou {% symbol "Valerias" for "arkon_name" %}.
 
 - **Ritualiste de {% symbol "Bahamoot" for "god_of_diakons" %}** ; vous faites partie des **{% symbol "initiés" for "ritualist_kind_name" %}** de ce culte, et même si cela remonte à loin, vous êtes capable de vous joindre à un rituel mystique pour décupler son effet. D'après vos souvenirs :
 
@@ -29,13 +31,8 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 
 {% endfilter %}
 
-
-Vos connaissances sur les différents types de blessures
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Vous avez eu la chance d'être formé, par un marabout abazech', sur ce sujet fort méconnu.
-
-<{ injury_types_knowledge }/>
+{% endmacro %}
+<{ mystics_knowledge_article }/>
 
 
 Estimation des monnaies et gemmes
@@ -69,3 +66,20 @@ Les plus riches natifs de l'époque Maupertuis utilisaient souvent, pour s'écla
 Vous avez pu refabriquer de telles cartouches avec l'aide de Restaurateurs d'Histoire, et vous en avez apporté dans le domaine des Maupertuis, au cas où des luminis seraient encore en état de marche sur place.
 
 *Lorsque vous croisez des bougies rechargeables, vous pouvez les ouvrir, en enlevant un bout de scotch noir si nécessaire, y mettre une "cartouche", puis les allumer.* {% hint 'candle_without_battery_is_needed' is needed %} {% hint 'candle_batteries_for_explorer_anthropologist' is needed %}
+
+
+
+Vos connaissances sur les fantômes et autres esprits égarés
+===================================================================
+
+*A force de croiser des mystiques, vous avez une certaine vue d'ensemble théorique de ce domaine.*
+
+<{ phantom_knowledge_article }/>
+
+
+Vos connaissances sur les différents types de blessures
+==============================================================
+
+*Vous avez eu la chance d'être formé, par un marabout ermitique, sur ce sujet fort méconnu.*
+
+<{ injury_types_knowledge }/>

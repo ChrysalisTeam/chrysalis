@@ -28,7 +28,7 @@ Depuis, comme vous l'aviez prévu dans votre ultime sacrifice, votre âme fantom
 
 Vous avez vu passer des spectres en errance, sans doute ceux de l'enfant et de l'archiviste. De quoi sont-ils morts exactement ? Du monstre qui vous a attaqué ? Vous ne savez pas même ce que c'était. La goule qui gardait l'étage du dessus, mais qui pourtant semblait tout à fait inoffensive pour un mage tel que vous ? Une monstruosité ancienne tapie dans les lieux, et réveillée par votre présence ? Un des personnages d'outre-monde devenu fou, et revenu subrepticement dans cette dimension humaine ? Vous avez vu, fugacement, passer quelques-uns de ces "avatars" (comme les mystiques les appellent), que vous n'aviez pu sceller dans leurs propres univers. Ils semblaient vainement fouiller la bibliothèque, à la recherche de réponses.
 
-Vous attendez donc que quelqu'un de la surface, sensible à ces perturbations dans les strates d'existence, vienne à votre secours... De préférence un arkonte du même culte que vous, en qui vous puissiez avoir suffisamment confiance pour lui faire votre "confession de mission" et le laisser résoudre correctement le problème. En effet, même le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %} n'est pas un gage suffisant, car plus d'un fanatique a préféré le briser, et être châtié mortellement peu après, que de faire ce qui était réellement juste et juré.
+Vous attendez donc que quelqu'un de la surface, sensible à ces perturbations dans les strates d'existence, vienne à votre secours... De préférence un arkonte du même culte que vous, en qui vous puissiez avoir suffisamment confiance pour lui faire votre "{% symbol "confession de mission" for "arkon_mission_confession" %}" et le laisser résoudre correctement le problème. En effet, même le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %} n'est pas un gage suffisant, car plus d'un fanatique a préféré le briser, et être châtié mortellement peu après, que de faire ce qui était réellement juste et juré.
 
 Il faudra à votre salvateur, non pas briser votre {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque - ce qui anéantirait vos efforts - mais traquer et tuer la monstruosité qui s'y terre assurément encore. Qu'il vous tarde de voir cette mission connaitre une fin heureuse, et de pouvoir rejoindre vos pairs dans les banquets célestes.
 
@@ -40,6 +40,13 @@ Ou, si vous n'arrivez pas à en trouver un, au moins une personne qui aura juré
 Vous avez parlementé avec le garçon avec Octave et l'archiviste qui s'était réfugié dans ces lieux pleins de savoir et de magie, et vous les avez convaincus de refermer les portails interdits mentionnait-elle, en retour de votre aide pour les sortir d'ici et les mettre à l'abri. Les personnages d'outre monde étaient plus ou moins étés globalement très remontés contre vous, mais ils ont bien du accepté la décision. Vous avez donc il mise en place avantage du rituel, et commencer à refermer les portes une par une.
 
 #}
+
+Connaissances sur votre culte et les autres
+====================================================
+
+*Pensez à bien apprendre en particulier votre salutation d'arkonte et le fonctionnement de votre {% symbol "confession de mission" for "arkon_mission_confession" %} !*
+
+<{ mystics_knowledge_article }/>
 
 
 Informations et instructions spécifiques
@@ -57,3 +64,5 @@ Si un vivant meurt, vous incitez les autres à trouver comment le **ressusciter*
 
 Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votre **sacoche de ceinture** contenant quelques valeurs, afin qu'elle n'interfère pas ; vous ne savez pas ce qu'elle est devenue, mais son contenu pourrait aider les vivants en manque d'argent, vous le leur indiquez si l'occasion se présente.
 {% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
+
+

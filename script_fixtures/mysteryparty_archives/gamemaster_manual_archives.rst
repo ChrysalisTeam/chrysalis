@@ -325,7 +325,7 @@ L’arkonte {% symbol "Valerias" for "arkon_name" %} (le paladin-exorciste lége
 
 - Un peu désabusé de voir que le culte païen du dieu {% symbol "Bahamoot" for "god_of_diakons" %} a finalement remplacé le sien (le culte yodique de confession mithraïte), dans le monastère à la surface
 
-- Exige de pouvoir faire sa “confession de mission” à un prélat de la religion yodique, et uniquement dans ce cas il livre tout ce qu’il sait sur la situation ; n’aide que les joueurs en qui il a confiance pour mener à bien sa mission de protection de l’humanité (et qui ne vont pas simplement lever le confinement de la bibliothèque, en détruisant ainsi ses efforts)
+- Exige de pouvoir faire sa “{% symbol "confession de mission" for "arkon_mission_confession" %}” à un prélat de la religion yodique, et uniquement dans ce cas il livre tout ce qu’il sait sur la situation ; n’aide que les joueurs en qui il a confiance pour mener à bien sa mission de protection de l’humanité (et qui ne vont pas simplement lever le confinement de la bibliothèque, en détruisant ainsi ses efforts)
 
 {% endmacro %}
 <{ phantom_arkon_character_summary }/>
@@ -930,8 +930,8 @@ Agents secrets mirandiens
 Diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Désenvouteur : reconnait les envoûtements d'objets, et peut en supprimer
-- Exorciste : sait bannir des esprits et bénir des armes ; connait les types de blessures
+- Désenvouteur : reconnait et supprimer les envoûtements d'objets ; connait les types de blessures
+- Exorciste : sait bannir des esprits et bénir des armes ; connait les fantômes
 - Invocateur : sait réaliser des rituels magiques complexes
 
 Explorateurs-archéologues héliossars
@@ -939,7 +939,7 @@ Explorateurs-archéologues héliossars
 
 - Runologue : sait traduire des runes et reconnaître divers codes secrets
 - Dévoileur : sait lire les encres UV invisibles, et analyser des objets
-- Anthropologue : érudit en traditions humaines, blasons, et valeurs marchandes ; connait les types de blessures
+- Anthropologue : érudit en traditions humaines, blasons, et valeurs marchandes ; connait les fantômes et les types de blessures
 
 
 .. raw:: pdf
@@ -967,7 +967,7 @@ C'est au début du 20° siècle que les deux mondes ont divergé. Pendant que le
 
 La planète est enfin sortie, à grand-peine, de ce cataclysme, et l'humanité reprend son essor.
 
-La monnaie internationale est le **kash** (1 kash permet de se payer environ 100 baguettes de pain).
+La monnaie internationale est le **kash** (1 kash permet de se payer environ 100 pains).
 
 
 Le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}
@@ -1107,10 +1107,12 @@ Si quelqu'un appuie sur la clochette, et que cela n'a pas déjà eu lieu dans le
 {% endmacro %}
 <{ common_npc_lore_knowledge}/>
 
-{% macro phantom_knowledge_article() %}
 
-Des fantômes et autres esprits égarés
+
+Le fonctionnement des fantômes
 ==============================================
+
+{% macro phantom_knowledge_article() %}
 
 Il existe bien peu de connaissances fiables sur le monde des morts. De nombreux exorcistes et mystiques attestent cependant que, parfois, au lieu de flotter librement vers l'au-delà, des défunts peuvent passer des années ou des siècles à errer sur Terre, pour des raisons fort diverses.
 

@@ -20,7 +20,8 @@ Les rituels d'exorcisme
 
 {% macro phantom_related_spells() %}
 
-**Bénédiction d'arme**
+Bénédiction d'arme
+-----------------------------------------
 
 Vous êtes capable de bénir une arme de poing, ou une munition (flèche, balle...), pour quelle ait prise sur les entités du monde des morts.
 Les armes ainsi sacrées ne peuvent bien sûr pas réellement blesser ou tuer des êtres qui sont déjà morts ; mais par les impacts mystiques qu'ils infligent, elles peuvent chasser des fantômes agressifs, et atténuer leur lien au monde des vivants ; ce dernier effet les condamne à passer une plus grande proportion de temps sous forme spectrale, entre deux incarnations. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
@@ -33,7 +34,8 @@ Rituel :
 - Clamer **"Toi qui blesses la chair, blesse aussi l'âme"** {# (ou bien la version latine : "Tu et caro dolet, et anima nocere") #}
 
 
-**Expulsion d'esprit**
+Expulsion d'esprit
+-----------------------------------------
 
 Vous êtes capable de chasser une créature du monde des morts, pour la faire sortir d'un corps possédé, ou juste l'envoyer loin de vous ; cela la fait systématiquement repasser sous forme spectrale, non incarnée, si elle ne l'était pas déjà (mais pendant quelques minutes uniquement). L'esprit ainsi chassé va fuir au hasard, en évitant le lieu d'où il a été chassé, mais sans pouvoir traverser pour autant les possibles barrières spirituelles qui le retiendraient habituellement lorsqu'il est en spectre. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %}
 
@@ -45,7 +47,8 @@ Rituel :
 - Crier **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, arrière, esprit errant"** {# (ou bien la version latine : "Vade retro, mali spiritus OUDATED") #}
 
 
-**Charme d'esprit**
+Charme d'esprit
+-----------------------------------------
 
 Vous êtes capable de charmer une créature du monde des morts, qu'elle soit sous forme incarnée ou spectrale ; elle ne change pas de forme, en revanche elle est irrésistiblement attirée par vous pendant 30 secondes, mais se déplace particulièrement lentement. Cela ne lui permet cependant pas de passer à travers les obstacles qui la bloqueraient habituellement. {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
@@ -57,7 +60,8 @@ Rituel :
 - Crier **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, accours vers moi, esprit errant"** {# (ou bien la version latine : "Venite ad me errantes spiritu") #}
 
 
-**Libération d'ancrage spirituel**
+Libération d'ancrage spirituel
+-----------------------------------------
 
 Si vous rencontrez un fantôme bloqué dans une petite zone - typiquement le lieu de sa mort violente - lorsqu'il est sous forme incarnée, ce rituel vous permet de le libérer pour toujours de cette chaine invisible. Comme tous les fantômes, il restera néanmoins par le suite soumis aux contraintes d'un possible {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}, ou autre sortilège contraignant, dressé sur sa route.
 
@@ -73,22 +77,23 @@ D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spi
 <{ phantom_related_spells }/>
 
 
-**Rupture globale de corridor outre-monde**
+Rupture globale de corridor outre-monde
+-----------------------------------------
 
 Vous êtes capable de couper les passerelles existant entre des mondes disjoints, tels les portails que certains sorciers ouvrent vers le monde des esprits, ou vers d'autres mondes parallèles. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
-Les plus grands mystique sont capables de procéder à cette rupture sélectivement, en ne rompant qu'un seul corridor - attaché à un objet spécifique - à la fois. Mais votre exorcisme est un peu plus sommaire, et va anéantir tous les points d'attache inter-monde qui se situent dans un rayon de 100 pas autour de vous.
+Les plus grands mystiques sont capables de procéder à cette rupture sélectivement, en ne rompant qu'un seul corridor - attaché à un objet spécifique - à la fois. Mais votre exorcisme est un peu plus sommaire, et va anéantir tous les points d'attache inter-monde qui se situent dans un rayon de 100 pas autour de vous.
 
 Rituel :
 
 - Utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
 - Placer au centre de ce pentacle le maximum d'objets attachés aux corridors outre-monde (talismans maudits, livres d'avatars...)
-- la présence d'{% symbol "initiés" for "ritualist_kind_name" %} supplémentaires autour du pentacle est conseillée mais pas indispensable
-- Tendre le bras droit vers le portail, les doigts grand écartés
+- la présence d'{% symbol "initiés" for "ritualist_kind_name" %} supplémentaires autour du pentacle est conseillée, mais pas indispensable
+- Tendre le bras droit vers le portail, les doigts bien écartés
 - Clamer cette incantation : **"Par le soleil victorieux, Par le pouvoir des cieux, Portails disparaissez"** pendant au moins **30 secondes**
 - Il est important de rester bien **immobile** pendant l'incantation, sans quoi le pentacle peut être déstabilisé (il s'éteint brièvement) et cela retarde la finalisation du rituel
 
-Attention, cet exorcisme ne fonctionne sans problèmes que si toutes les entités qui sont venues en ce monde par un des corridors présents sont **retournées** dans leur monde, ou à défaut sont placées **dans** le pentacle. Sans cela, le ritualiste rencontrera une résistance mystique, et l'invocation ne sera pas résolue au bout du temps habituel. Si l'officiant continue alors son invocation pendant **30 secondes supplémentaires**, cela forcera la finalisation du rituel, mais avec la conséquence dramatique de **"tuer"** lesdites entités d'outre-monde non-renvoyées, quoi que cela signifie concrètement.
+Attention, cet exorcisme ne fonctionne sans problèmes que si toutes les entités qui sont venues en ce monde par un des corridors présents sont **retournées** dans leur monde, ou à défaut sont placées **dans** le pentacle. Sans cela, le ritualiste rencontrera une résistance mystique, et l'invocation ne sera pas résolue au bout du temps habituel. Si l'officiant continue alors son invocation pendant **30 secondes supplémentaires**, cela forcera la finalisation du rituel, mais avec la conséquence dramatique de **"tuer"** lesdites entités d'outre-monde encore présentes, quoi que cela signifie concrètement.
 {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
 {# WRONG Notez qu'il est possible, en une seule invocation, de briser plusieurs corridors d'outre-monde à la fois, mais il faut pour cela placer les objets liés à chacun de ces corridors dans le pentacle, et surtout avoir autant de diacres participant au gestes rituels et incantations qu'il n'y a de corridors à fermer.
@@ -102,6 +107,10 @@ Vos connaissances sur les différents types de blessures
 
 Vous savez qu'il existe différents types de blessures, parfois naturelles, parfois surnaturelles, mais l'enseignement que vous deviez suivre à ce sujet a été maintes fois repoussé... si bien que vous en êtes pour l'instant réduit à solliciter les guérisseurs sur votre route, même lorsqu'une personne de votre entourage se fait blesser par un esprit errant. Un comble pour un exorciste !
 
+
+
+Des fantômes et autres esprits égarés
+=============================================
 
 <{ phantom_knowledge_article }/>
 
