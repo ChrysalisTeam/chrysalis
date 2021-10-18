@@ -152,13 +152,31 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 Le monde des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les MJs ; d'autres sont limités à des tâches très précises comme servir les mets et boissons. {% fact "inventor_has_built_androids" %}
+Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons. {% fact "inventor_has_built_androids" %}
 
-Ces automates voient les vivants et les avatars, mais pas les fantômes. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas sacrées ; cependant rien n'est censé leur arriver durant le jeu.
-
-Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde là pour un surcroit d'ambiance et une bonne liberté d'action.
+Ces robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas les attaques sacrées ; cependant rien n'est censé leur arriver durant le jeu.
 
 Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+
+Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde-là pour un surcroit d'ambiance et une bonne liberté d'action.
+
+Idées d'interactions possibles :
+
+- Les automates boguent par moment, butent contre les murs et obstacles, ou se coincent les bras des uns dans ceux des autres et tournent donc en rond.
+- Ils répètent toujours les mêmes 4 phrases stéréotypées aux joueurs, même hors de propose.
+- Ils font la poussière sur les étagères, voire sur les autres personnages.
+- Ils portent des lampes et suivent les joueurs qui le demandent.
+
+Paroles typiques :
+
+- "Soyez le bienvenu dans notre humble demeure"
+- "Monsieur/madame désire-t-il/elle quelque chose ?"
+- "Daignez gouter ces douceurs fort onéreuses"
+- "Je vous prie d'accepter cette boisson gouleyante à souhait"
+- "Puis-je vous débarrasser de votre manteau ?"
+- "Je sers la lignée des Maupertuis et c'est une immense joie."
+
+
 
 Le monde divin
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

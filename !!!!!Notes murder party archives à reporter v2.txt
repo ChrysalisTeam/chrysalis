@@ -76,25 +76,6 @@ AJOUTER SOUVENIRS ET ANEDCOTES A OCTAVE
 NE PAS DIRE TROP VITE QUE c'est une goule, parler de la BETE!! seul octave sait que c'est une goule, au début
 
 
-Automates de service
----------------------
-- NE VOIENT PAS FANTOMES
-- répondent à appel
-- apporter nourriture et boisson
-- illuminent avec lampe frontale ????
-- buggents par moment:
-  - butent contre mur, contre obstacle
-  - se bloquent l'un contre l'autre
-  - répétent à l'infini une des 4 phrase
-  - si miroir, bugger devant
-- font la poussière sur les étagères, les joueurs
-- suivent clodynette comme caneetons
-- ont lampe-tempête
-PAROLES :
-- !!!!monsieur ou madame désire-t-il quelque chose ????
-- daignez gouter ces douceurs
-- je vous prie d'accepter cette boisson
-
 
 Kit d'observation-écoute
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -208,6 +189,25 @@ TRASH
 
 
 
+
+Automates de service
+---------------------
+- NE VOIENT PAS FANTOMES
+- répondent à appel
+- apporter nourriture et boisson
+- illuminent avec lampe frontale ????
+- buggents par moment:
+  - butent contre mur, contre obstacle
+  - se bloquent l'un contre l'autre
+  - répétent à l'infini une des 4 phrase
+  - si miroir, bugger devant
+- font la poussière sur les étagères, les joueurs
+- suivent clodynette comme caneetons
+- ont lampe-tempête
+PAROLES :
+- !!!!monsieur ou madame désire-t-il quelque chose ????
+- daignez gouter ces douceurs
+- je vous prie d'accepter cette boisson
 
 
 CHERCHER MUSIQUE POUR MYSTERY PARTY
