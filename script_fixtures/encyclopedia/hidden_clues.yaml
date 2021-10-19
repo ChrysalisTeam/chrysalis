@@ -22,6 +22,76 @@ static_pages:
             Le tombeau lui-même ne semble pas piégé, hormis une influence ambivalente, mi-fierté mi-haine, rôdant autour de la dépouille du défunt.
 
 
+    forbidden_domain_seal:
+        title: "Barrières magiques devant le domaine interdit"
+        categories: ["magie"]
+        clue_code: "bte"
+        keywords: []
+        content: |
+
+            Ces escaliers sont protégés par un très ancien et puissant sceau, qui interdit leur franchissement
+            par toute créature, qu'elle soit vivante ou défunte.
+
+            Il s'agit visiblement d'un sceau temporairement désactivable par un grimoire-clé, qui nécessite un rituel propre à ce grimoire.
+
+            De tels sceau sont souvent utilisés par les sorciers qui désirent bloquer l'accès à leurs laboratoires ou appartements privés.
+
+    etheric_stone_skin_necklace:
+        title: "Collier éthérique de peau de pierre (pierres ovales bleutées translucides)"
+        categories: ["magie"]
+        clue_code: "arx"
+        keywords: []
+        content: |
+
+            Vous reconnaissez à son aura le légendaire **Collier éthérique de peau de pierre**.
+
+            Celui qui porte ce collier autour du cou devient insensible aux armes physiques (contondantes, perçantes ou tranchantes).
+
+            En contrepartie, il marche et bouge les bras très lentement, tel un golem.
+
+    etheric_vital_force_necklace:
+        title: "Collier éthérique de force vitale (perles de bois)"
+        categories: ["magie"]
+        clue_code: "hfv"
+        keywords: []
+        content: |
+
+            Vous reconnaissez à son aura le légendaire **Collier éthérique de force vitale**.
+
+            Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : maladies, poisons solides ou liquides, vapeurs toxiques...
+
+            En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
+
+    etheric_manaic_aura_necklace:
+        title: "Collier éthérique d'aura manaïque (quartz avec collier fin doré)"
+        categories: ["magie"]
+        clue_code: "pyw"
+        keywords: []
+        content: |
+
+            Vous reconnaissez à son aura le légendaire **Collier éthérique d'aura manaïque**.
+
+            Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...).
+
+            En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte.
+
+            Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas évités par ce collier.
+
+    etheric_benediction_necklace:
+        title: "Collier éthérique de bénédiction (armure de l'arkonte)"
+        categories: ["magie"]
+        clue_code: "bst"
+        keywords: []
+        content: |
+
+            Vous reconnaissez à son aura le légendaire **Collier éthérique de bénédiction**, visiblement incorporé dans cette armure en Mithril.
+
+            Celui qui garde sur lui cet artefact devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions.
+
+            En contrepartie, cela lui demande une grande force physique car ce collier est extrêmement lourd.
+
+    # ------------------------
+
     arkon_skull_analysis:
         title: "Autopsie de crâne humain"
         categories: ["analyse"]
@@ -36,3 +106,4 @@ static_pages:
             Une encoche profonde est creusée au niveau du front, en forme de losange.
 
             Une analyse au spectromètre de masse révèle du curare emprisonné dans l'os.
+
