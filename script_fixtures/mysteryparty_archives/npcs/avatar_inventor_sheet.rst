@@ -39,10 +39,10 @@ Durant vos temps heureux dans la bibliothèque, vous avez fouillé l'étage auto
 
 En temps que maître des automates, vous les dirigez pour le service de table, vous les réglez/huilez lorsqu'ils dysfonctionnent, voire vous testez de nouvelles interactions avec eux - qu'ils peuvent ou non comprendre. Vous disposez d'un **porte-voix à écho** pour les rameuter, dont vous vous servez aussi de façon fantaisiste pour vos envolées enthousiastes sur n'importe quel sujet. {% hint "echo_megaphone" is needed %}
 
-Vous aviez donné à Octave un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**, conçu par vos soins et permettant de commander les automates. Ce bracelet est désormais sur sa tombe. {% hint 'androids_command_bracelet' is needed %}
+Vous aviez donné à Octave un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**, conçu par vos soins et permettant de commander les automates. Ce bracelet est désormais sur sa tombe. {% hint 'androids_command_bracelet_on_tomb' is needed %}
 Si vous croisez un joueur lui aussi intéressé par la robotique, et qui le démontre en utilisant un vocabulaire technique évolué (sur lequel vous rebondissez, en improvisant), vous acceptez de lui **affecter et activer** le bracelet (en quelques coups de tournevis), et vous annoncez **à tous** que désormais tous les automates présents répondront du mieux possible à ses ordres - tant qu'ils ne contredisent pas les vôtres bien sûr. {% fact "spy_minesweeper_likes_building_robots" %}
 
-Naturellement, vous savez **réparer** moult choses, par exemple un détecteur de métal cassé (simulé par une *pile manquante*), ou une lanterne qui n'éclaire plus, si on vous les amène. {% fact "inventor_can_repair_items" %} {% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "broken_lantern_to_repair" is needed %} *Isolez-vous avec l'objet et allez trouver le MJ quand cela se produit.*
+Naturellement, vous savez **réparer** moult choses, par exemple un détecteur de métal cassé, ou une lanterne qui n'éclaire plus, si on vous les amène ; cela vous prend évidemment un peu de temps. {% fact "inventor_can_repair_items" %} {% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "broken_lantern_to_repair" is needed %} *Isolez-vous avec l'objet et mettez-y les piles qui manquent (piles que vous devez avoir reçues au début du jeu), quand cela se produit.*
 
 {#
  IL A UNE CLEF MAGNETIQUE AUSSI, pour cas de DOUBLE SERRURE !!! NOPE jamais vraiment nécessaire...
