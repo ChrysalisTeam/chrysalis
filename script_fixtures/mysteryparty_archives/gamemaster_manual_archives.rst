@@ -943,7 +943,7 @@ Famille Parcival
 Agents secrets mirandiens
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Démineur : sait désactiver des pièges et manipuler des explosifs
+- Démineur : sait désactiver des pièges, manipuler des explosifs, et rallumer les cierges
 - Sondeur : sait détecter les métaux et le magnétisme
 - Crocheteur : sait forcer certains cadenas, et visualiser/ouvrir des systèmes magnétiques
 

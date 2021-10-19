@@ -28,6 +28,19 @@ Vous avez avec vous **2 bâtonnets d'explosif**. Chacun peut servir à déblayer
 *NOTE hors-jeu : Voyez avec le maître de jeu pour utiliser cette compétence, et simuler la "mise à l'abri de tous" pendant le compte à rebours.*
 
 
+Rechargement des luminis
++++++++++++++++++++++++++++++
+
+{% fact "spy_minesweeper_can_light_candles" %}
+
+Les plus riches natifs de l'époque Maupertuis utilisaient souvent, pour s'éclairer, des luminis, sortes de bougies "rechargeables" grâce à des cartouches de vapeur de cire pressurisée ; ainsi, moins de coulures tachantes et inesthétiques.
+
+Vous avez pu refabriquer de telles cartouches avec l'aide de passionnés d'Histoire, et vous en avez apporté dans le domaine des Maupertuis, au cas où des luminis seraient encore en état de marche sur place.
+
+*Lorsque vous croisez des bougies rechargeables, vous pouvez les ouvrir, en enlevant un bout de scotch noir si nécessaire, y mettre une "cartouche", puis les allumer.* {% hint 'candle_without_battery_is_needed' is needed %} {% hint 'candle_batteries_for_spy_minesweeper' is needed %}
+
+
+
 Connaissance des mécaniques et des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 

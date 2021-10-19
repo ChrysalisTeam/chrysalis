@@ -56,19 +56,6 @@ Par décision de l'Ordre International de la Hiéraldique, il fut pendant longte
 Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson, l'oiseau-grue, la chèvre, le pangolin, la faucille, le fouet, le tabouret et la feuille de houx**. {% fact "sickle_and_holly_emblems_are_banned_in_reality" %}
 
 
-Rechargement des luminis
-+++++++++++++++++++++++++++++
-
-{% fact "explorer_anthropologist_can_light_candles" %}
-
-Les plus riches natifs de l'époque Maupertuis utilisaient souvent, pour s'éclairer, des luminis, sortes de bougies "rechargeables" grâce à des cartouches de vapeur de cire pressurisée ; ainsi, moins de coulures tachantes et inesthétiques.
-
-Vous avez pu refabriquer de telles cartouches avec l'aide de Restaurateurs d'Histoire, et vous en avez apporté dans le domaine des Maupertuis, au cas où des luminis seraient encore en état de marche sur place.
-
-*Lorsque vous croisez des bougies rechargeables, vous pouvez les ouvrir, en enlevant un bout de scotch noir si nécessaire, y mettre une "cartouche", puis les allumer.* {% hint 'candle_without_battery_is_needed' is needed %} {% hint 'candle_batteries_for_explorer_anthropologist' is needed %}
-
-
-
 Vos connaissances sur les fantômes et autres esprits égarés
 ===================================================================
 
