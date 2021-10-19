@@ -15,7 +15,7 @@ Crochetage de serrures
 La plupart des serrures de la bibliothèque sont protégées par des envoûtements, et échappent donc à votre art purement mécanique.
 Mais si vous trouvez un **cadenas transparent**, vous pouvez tenter de l'ouvrir avec votre kit de crochetage.
 
-*NOTE hors-jeu : Voyez avec le maître de jeu, avant le début de la partie, le fonctionnement de votre kit de crochetage. Grosso modo, le but est d'appliquer une pression de rotation sur le cylindre interne, avec la tige en L, puis de pousser un par un les picots qui sont dans la serrure, jusqu'à ce que tous soient sur leur position "coulissante".*
+*NOTE hors-jeu : Avec le kit de crochetage que vous recevrez, le but est d'appliquer une pression de rotation sur le cylindre interne, avec une tige en L, puis de pousser un par un les picots qui sont dans la serrure, jusqu'à ce que tous soient sur leur position "coulissante". Exemple en vidéo : https://www.youtube.com/watch?v=RqWgl0nK46E*
 
 
 Déverrouilleur magnétique
@@ -27,5 +27,5 @@ Trouver les emplacements exacts de ces mécanismes n'est pas toujours facile, ma
 
 Cette clé magnétique s'est parfois aussi révélée utile pour désactiver d'étranges antivols mis sur des livres ou autres objets.
 
-*Explications hors-jeu* : la présence de systèmes magnétiques peut être dénotée par des **petits oeillets de classeur blancs**.
+*NOTE hors-jeu* : la présence de systèmes magnétiques peut être dénotée par des **petits oeillets de classeur blancs**.
 
