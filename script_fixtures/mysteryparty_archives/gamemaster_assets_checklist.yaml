@@ -141,7 +141,7 @@
     - "Masque 'anonymous' doré devant le crâne"
     - "Calotte/tiare noir&or sur le crâne"
     - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}])"
-    - "{% symbol 'Bague Amplificans' for 'ring_for_magic_amplification_name' %} {% hint 'ring_amplificans' is provided %}"
+    - "{% symbol 'Bague Amplificans' for 'ring_amplificans_name' %} (code d'envoûtement POSITIF [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} "
 
     - "Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone)"
 

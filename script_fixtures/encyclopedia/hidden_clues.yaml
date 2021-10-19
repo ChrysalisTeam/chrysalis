@@ -90,6 +90,31 @@ static_pages:
 
             En contrepartie, cela lui demande une grande force physique car ce collier est extrêmement lourd.
 
+    ring_amplificans:
+        title: "Bague Amplificans (énorme bague transparente)"
+        categories: ["magie"]
+        clue_code: "duy"
+        keywords: []
+        content: |
+
+            Cette bague semble démultiplier votre pouvoir lorsque vous la touchez.
+
+            Non pas en puissance brute, mais en portée.
+
+            Comme si, avec cette bague, de petits sortilèges de zone pouvaient désormais toucher une surface extrêmement vaste.
+
+    grinding_mill_with_enchantment:
+        title: "Moulin à café enchanté"
+        categories: ["magie"]
+        clue_code: "ecz"
+        keywords: []
+        content: |
+
+            Vous sentez une immense puissance génératrice rayonner dans ce moulin à café.
+
+            Comme s'il renfermait monts et merveilles, mais ne pouvait les délivrer que peu à peu, et uniquement sur une demande dûment formulée.
+
+
     # ------------------------
 
     arkon_skull_analysis:

@@ -2,7 +2,7 @@ EQUILIBRAGE
 
 - harmoniser le mot "connaît" et "envoutement"  (LATER)
 
-À
+À  É
 
 Enigme avec disques gramophone ???
 
@@ -154,16 +154,10 @@ Envoûtement de la tombe du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty
 
 A DIRE - Seul un héritier des Maupertuis peut pénétrer dans le tombeau, toute autre personne y meurt rapidement des suites d'une des malédictions (mais peut ensuite en sortir via les murs, sous forme de fantôme). {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
-- Sceau impénétrable en titane
-- Barrière de foudre
-- Protection anti feu et glace
-- Bouclier anti "passe-muraille éthéré"
-- Mécanisme anti-crochetage
-- Malédiction contre les perçages magiques
-- Filtre 
+
+IL FAUT UNE SARBACANE POUR LE DRUIDE !!!!
 
 
-Sur le crâne sur le front une encoche pour le losange, visiblement causé par une fléchette. Une analyse au spectromètre de masse révèle des traces de curare emprisonné dans l'os.
 
 Cet objet a été envoûté avec un envoûtement dangereux cet objet est porteur d'un envoûtement bénéfique ; vous ne risquez rien dans le toucher. Il est dangereux de le toucher.
 
