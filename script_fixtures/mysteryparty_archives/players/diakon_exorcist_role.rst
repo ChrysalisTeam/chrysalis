@@ -69,7 +69,7 @@ Rituel :
 
 - Rassembler **3 autres {% symbol "initiés" for "ritualist_kind_name" %}**, en plus de vous, en cercle autour du fantôme incarné
 - Se mettre tous les quatre avec les bras étendus à l'horizontale
-- Clamez tous ensemble **"Esprit égaré, nous libérons les chaines qui en ce lieu funeste te retiennent"**, trois fois d'affilée
+- Clamer tous ensemble **"Esprit égaré, nous libérons les chaines qui en ce lieu funeste te retiennent"**, trois fois d'affilée
 
 D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spirituelles passera moins souvent dans sa forme spectrale. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 

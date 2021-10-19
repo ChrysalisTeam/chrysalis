@@ -798,7 +798,7 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 - **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans un de ses livres factices (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book" is needed %}
   Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
 
-- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien et mémorisait tout**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connait ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher.
+- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien et mémorisait tout**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connait ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher. {% hint "isadora_code_for_thanatologue_chest_code" is needed %}
   Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'isadora_code_for_thanatologue_chest_code' is needed %} {% fact "diakon_invoker_can_message_ankou" %}
 
 {% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}

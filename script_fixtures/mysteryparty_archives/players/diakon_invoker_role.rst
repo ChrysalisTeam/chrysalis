@@ -15,6 +15,7 @@ Thuriféraire (encenseur)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous disposez d'un encensoir argenté, afin de purifier les environs lors de certains rituels qui requièrent ce geste.
+{% hint "incense_burner_for_invoker" is needed %}
 
 L'encensement se fait au moyen d'un papier parfumé et non d'un cône d'encens ; il vous faut alors tourner en procession, avec des confrères si disponibles (juste pour l'effet théâtral - cela ne change rien à l'encensement), autour de l'objet ou de la zone concernée, en balançant l'encensoir au bout de sa chaine.
 

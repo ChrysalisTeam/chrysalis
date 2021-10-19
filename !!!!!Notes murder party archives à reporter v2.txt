@@ -1,18 +1,9 @@
-EQUILIBRAGE
 
 
 
-Enigme avec disques gramophone ???
-
-
-
-!!!!! ERROR IN hints registry for key arkon_skull_analysis_showing_curare_poisoning : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key candle_batteries_for_explorer_anthropologist : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key candle_without_battery_is_needed : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key hint_website_device : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key parcival_oracle_intuition_hints : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key thin_white_wire_to_represent_traps : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key torn_children_book_with_animal_motions : {'needed'} requires a provided hint
+AJOUTER UN DERNIER TRAP en fil !!
+TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
+TODO GRELOTS AVEC ELASTIQUES !!!!
 
 
 Ce qu'il faut :
@@ -24,45 +15,45 @@ Ce qu'il faut :
     - CADENAS
 
     - CODES SECRETS
+    - RUNES akarites
 
     - PIEGES désactivables
 
 
-
-L'exorciste a perdu ses fioles en chemin, trouvées par alchimiste
-
-Exiger des  potions pour bloquer le rituel d'expulsion
+Exiger des potions pour avoir le rituel d'expulsion ?
 Complexifier "**Bénédiction d'arme**" avec une POTION
 DONNER QUELQUES POTIONS a l'EXORCISTE AUSSI!!! (que l'alchimiste doit vouloir)
-ET VICE VERSA POTION DE SOMMEIL ???
+L'exorciste a perdu ses fioles en chemin, trouvées par alchimiste
+
 
 IMPRIMER MOULIN EN STEREOGRAMME
 
 
-MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE !!!!!!!!!!!!
+MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE et d'autres avec autres objets !!!!!!!!!!!!
+
+Mettre affichettes de catégories sur les rayonnages de livres
 
 
 PREVOIR PILES En rhab 20xx pour télécommandes ???????
 
-Mettre toiles d'araignee dans checklist !!!
 
-QUAND surviennent les oracles/visions, faire planning
-
-
-faire blasons CADUCEES et semi-caducee
+Où et quand surviennent les oracles/visions, faire planning
+ {% fact "revelations_are_simulated_by_colored_feathers" %}
+PRE-ENREGISTRER PROPHECY AUDIO finale avertissant contre danger du druide
 
 
-COMPET A REBOURS DE TNT bande-son - à faire
+faire blasons CADUCEES et semi-caducee ?
+A quoi servent blasons connaissances exactement ??? Disculper l'arkonte ??!!
 
 
-
-AJOUTER SOUVENIRS ET ANEDCOTES A OCTAVE
-
-NE PAS DIRE TROP VITE QUE c'est une goule, parler de la BETE!! seul octave sait que c'est une goule, au début
+AJOUTER RUNES AKARITES
+- dans calepin du voleur, pour formule de astrolabe
 
 
+NE PAS DIRE TROP VITE QUE c'est une goule, parler de la BETE!! seul octave sait que c'est une goule, au début <<<<<<<<<
 
-Kit d'observation-écoute
+
+Kit d'observation-écoute pour RUNOLOGIST!!!!!!!
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Vous savez d'expérience que les vieilles familles lèguent souvent à leurs héritiers des conseils et indices sous des formes très petitement écrites ou très faiblement audibles, donc vous avez emporté **une loupe et un stéthoscope**, au cas où.
 > grimoire et table qui murmurent
@@ -70,45 +61,29 @@ Vous savez d'expérience que les vieilles familles lèguent souvent à leurs hé
 
 
 AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
+EX. LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
 
-TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
-
-TODO GRELOTS AVEC ELASTIQUES !!!!
-
-A EXPLOITER en jeu pour encens :
-- que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
-- que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tigers_eye" %}
+>>>>>>>>>>>>>>>> DONNER OBJECTIFS CHIFFRéS POUR TRESOR aux spies
 
 
->>>>>>>>>>>>>>>> DONNER OBJECTIFS CHIFFRéS POUR TRESOR
-
-TODO bande son du venture prins
-
+>>>>>>>> FAIRE bande son du venture prins !!
 
 
 REDIGER les novels, et en particulier chaos_novel_volume_three_between_zoology_and_cooking_shelves
 
 
-DONNER + DE TRAVAIL A L INVENTEUR?? EX. LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
-Aussi + d'infos pour Octave ?
+PREENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ?
 
-
-========> RENFORCER SOUNDER MAINTENANT avec détecteur de métaux
-
-
-PREENREGISTRER MESSAGE D'INITIATION D'OCTAVE
-
-PRE ENREGISTRER PROPHECY AUDIO finale avertissant contre danger du druide
 
 ECRIRE dans Thanatologue le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %} (bullet enchantment)
 
-arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter
+arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter <<< à écrire
+DIRE QUE NPCs savent que cette sacoche est à LUI l'arkonte !! et qu'ils ne savent pas où elle était passée ! Y mettre trucs intéressants dedans aussi
 
-DONNER A DRUIDE LA CHARGE DE SUIVRE LE DESENVOUTEUR !!??? Ou le démineur ???
 
 Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout
 
-Pouvoir trouver astrolabe différemment
+
 
 ------------------------
 
@@ -119,10 +94,6 @@ INDICE PORTRAIT PERE - en UV "Rappel : Venture Prins Murmure"
 INDICE PORTRAIT MERE - en UV "" 
 
 -------------------------
-
-
-Où et quand se déclenchent les VISIONS d'oracle ????
-
 
 
 IL FAUT UNE SARBACANE POUR LE DRUIDE !!!!
@@ -137,13 +108,17 @@ ECRITEAU POUR CLOCHETTE SPECTRALE !
 
 
 
+
+
+
+
 ******** LATER *******************
 
+- AJOUTER SOUVENIRS ET ANEDCOTES A OCTAVE
+- Enigme avec disques gramophone ?
 - harmoniser le mot "connaît" et "envoutement"  (LATER)
 **Rupture de corridor outre-monde**  <--- metter tag {% SYMBOL %}
 À  É
-
-
 
 
 
@@ -160,6 +135,18 @@ TRASH
 ########################################
 
 
+
+BOF DONNER A DRUIDE LA CHARGE DE SUIVRE LE DESENVOUTEUR !!??? Ou le démineur ???
+
+
+====> RENFORCER SOUNDER MAINTENANT avec détecteur de métaux  DONE
+
+
+- TNT bande-son - DONE
+
+A EXPLOITER en jeu pour encens :
+- que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
+- que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tigers_eye" %}
 
 IMPORTANT - donner du jeu au runologue et unveiler !!!  moins au lockpicker !!
 
