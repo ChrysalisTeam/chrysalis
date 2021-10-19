@@ -90,7 +90,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("thanatologue_extract", 2),
     ("meredice_diary_extract", 1),
     ("parcival_oracle_vision_about_water_mill", 1),
-    ("parcival_oracle_vision_about_necromancers_and_scepter_amplificans", 1),
+    ("parcival_oracle_vision_about_necromancers_and_ring_amplificans", 1),
     ("parcival_oracle_vision_about_maupertuis_father_twin_books", 1),
     ("parcival_oracle_shared_vision_about_world_threat", 3),
     ("parcival_oracle_vision_chaos_novel_tome_3", 1),
@@ -258,7 +258,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if True:
+    if False:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,

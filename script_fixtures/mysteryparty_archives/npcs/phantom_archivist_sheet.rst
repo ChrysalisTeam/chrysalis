@@ -24,7 +24,7 @@ Alors que vous prépariez vos affaires, satisfait de voir cet étrange confineme
 Informations et instructions spécifiques
 ========================================
 
-Vous avez entendu bien des choses, du temps des Maupertuis, sur la dangerosité de la goule, donc si les joueurs veulent ouvrir le passage vers le domaine interdit, vous les exhortez à avoir d'abord un plan pour la neutraliser, sous quelle forme qu'elle pointe le bout du museau. {% fact "archivist_warns_players_about_beast_dangerousness" %}
+Vous avez entendu bien des choses, du temps des Maupertuis, sur la dangerosité de la Bête, donc si les joueurs veulent ouvrir le passage vers le domaine interdit, vous les exhortez à avoir d'abord un plan pour la neutraliser, sous quelle forme qu'elle pointe le bout du museau. {% fact "archivist_warns_players_about_beast_dangerousness" %}
 
 Lors de travaux d'inventaire, parmi quelques autres livres factices, vous avez vu passer un boitier en bois nommé **{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}**, et qui vous semblait grincer continûment. Habitué à ce genre de bizarreries dans la bibliothèque des Maupertuis, vous l'avez juste laissé à sa place, et vous savez l'indiquer à quiconque vous le demande (voir Plan du Jeu).{% fact "archivist_knows_venture_prins_location" %}
 

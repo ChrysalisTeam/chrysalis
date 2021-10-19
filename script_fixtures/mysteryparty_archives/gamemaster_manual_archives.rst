@@ -396,7 +396,7 @@ La Bête (la goule gardienne du Domaine Interdit)
 
 {% macro phantom_beast_character_summary() %}
 
-- FANTÔME (anciennement une goule des cavernes, enchantée pour ne pas avoir besoin de se nourrir)
+- FANTÔME (anciennement une "goule des cavernes", enchantée par les Maupertuis pour ne pas avoir besoin de se nourrir)
 
 - Traits : agressive, sournoise, non-communiquante
 
@@ -408,7 +408,7 @@ La Bête (la goule gardienne du Domaine Interdit)
 
 - A une véritable **addiction pour** les {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} (galets phosphorescents) {% fact "beast_is_addicted_to_moon_stones" %}
 
-- Ses caractéristiques doivent rester un grand mystère pour les joueurs, afin d’augmenter l’angoisse, et de les forcer à réagir vite pour trouver des solutions, lorsqu’elle apparaît.
+- Son espèce et ses caractéristiques doivent rester un grand mystère pour les joueurs, afin d’augmenter l’angoisse, et de les forcer à réagir vite pour trouver des solutions, lorsqu’elle apparaît.
 
 - **Les parents Maupertuis, interrogés depuis l’au-delà, peuvent donner des indications sur comment la neutraliser**
 
@@ -501,7 +501,7 @@ Etage du haut (domaine interdit)
 
 - Le coin du voleur
 
-- La niche de la bête
+- La niche de la Bête
 
 - Le coffre avec le {% symbol "Thanatologue" for "book_of_the_dead" %}
 
@@ -692,7 +692,7 @@ Un sceau est visible devant les escaliers menant à l'étage interdit. Lorsqu'il
 
 - Les figurants indiquent qu'il faut le symbole secret de la famille Maupertuis pour pouvoir ouvrir le passage. {% fact "secret_family_symbol_needed_for_forbidden_zone" %}
 
-- Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé dans le domaine interdit (il en avait la défense absolue, sous peine de mourir sous les coups de la Bête). {% fact "octave_knows_about_secret_family_symbol" %}
+- Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé dans le domaine interdit (il en avait la défense absolue, sous peine de mourir sous les coups de la Bête). {% fact "octave_knows_about_secret_family_symbol" %} {% fact "octave_never_went_into_forbidden_zone" %}
 
 - Le symbole de la famille est en UV dans un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_uv_family_symbol" is needed %} qui est dans la mallette administrative de la famille. {% hint "family_briefcase_protected_by_code" is needed %}
   Cette mallette est protégée par le code {% symbol "625-993" for "family_briefcase_code" %}, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}". {% hint "family_briefcase_code_spoken_by_venture_prins_fake_book" is needed %}
@@ -705,31 +705,31 @@ Un sceau est visible devant les escaliers menant à l'étage interdit. Lorsqu'il
 
 Une fois la combinaison de ces deux symboles reproduite sur le panneau, un son puissant se fait entendre, et le passage vers le domaine interdit est libre, dans les deux sens.
 
-Neutraliser la bête des Maupertuis (utile à tous)
+Neutraliser la Bête des Maupertuis (utile à tous)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Lors de la malédiction de la bibliothèque, la goule qui gardait le domaine interdit y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et aigrie, elle est plus dangereuse que jamais.
+Lors de la malédiction de la bibliothèque, la Bête qui gardait le domaine interdit y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et aigrie, elle est plus dangereuse que jamais.
 
-La bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouchée. {% fact "beast_ignores_or_fears_other_phantoms" %}
+La Bête attaque toute créature vivante et ses attaques (au corps à corps mais “sacrées”) sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouchée. {% fact "beast_ignores_or_fears_other_phantoms" %}
 
-Une fois que l’accès au domaine interdit (habituellement protégé par un puissant {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}) est ouvert, la bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. L’archiviste les encourage donc à planifier de quoi la mettre hors d’état de nuir durablement. {% fact "archivist_warns_players_about_beast_dangerousness" %}
+Une fois que l’accès au domaine interdit (habituellement protégé par un puissant {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}) est ouvert, la Bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. L’archiviste les encourage donc à planifier de quoi la mettre hors d’état de nuir durablement. {% fact "archivist_warns_players_about_beast_dangerousness" %}
 
-Pour neutraliser la bête :
+Pour neutraliser la Bête :
 
-- La bête “sent” les vivants qui se trouvent à moins de 3m, mais voit très mal au-delà. Il est donc possible de se promener dans le domaine interdit en l’évitant soigneusement, mais cela reste très dangereux.
+- La Bête détecte les vivants qui se trouvent à moins de 3m, mais voit très mal au-delà. Il est donc possible de se promener dans le domaine interdit en l’évitant soigneusement, mais cela reste très dangereux.
    {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 
-- L’arkonte avait une {% symbol "armure de Mithril" for "arkon_armor_name" %} sacrée protégeant des attaques “sacrées”, c'est-à-dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la bête. {% hint "arkon_sacred_armor" is needed %}
+- L’arkonte avait une {% symbol "armure de Mithril" for "arkon_armor_name" %} sacrée protégeant des attaques “sacrées”, c'est-à-dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la Bête. {% hint "arkon_sacred_armor" is needed %}
 
-- **L’exorciste** peut faire fuir la bête pendant quelque temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
+- **L’exorciste** peut faire fuir la Bête pendant quelque temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
-- L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
+- L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la Bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la Bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
 
-- La bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même s'il ne peut plus les manger, il se jette dessus quand il en croise. {% hint "beast_snack_as_moon_stones" is needed %} {% fact "beast_is_addicted_to_moon_stones" %}
+- La Bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même s'il ne peut plus les manger, il se jette dessus quand il en croise. {% hint "beast_snack_as_moon_stones" is needed %} {% fact "beast_is_addicted_to_moon_stones" %}
 
-- **L’invocateur** connait un rituel capable de “geler” pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% fact "diakon_invoker_can_freeze_beast_for_days" %}
+- **L’invocateur** connait un rituel capable de “geler” pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la Bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
-{# NOT YET - murs amovibles pourraient être déplacés pour encager la bête #}
+{# NOT YET - murs amovibles pourraient être déplacés pour encager la Bête #}
 {# NOPE - **L'alchimiste** peut trouver une potion capable de réaliser un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} pendant une journée sur u #}
 
 
@@ -1085,11 +1085,11 @@ Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bar
 Le domaine interdit et la Bête
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des goules des cavernes, créatures vivantes, à haute longévité, et très dangereuses avec leurs longues griffes et leur forte résistance à la magie. Nourries et choyées en échange de leurs bons services, les goules étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres.
+Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des monstres vivants, enchantés pour se passer de nourriture et vivre longtemps. Choyées en échange de leurs bons services, ces créatures étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres. L'identité de ces créatures était volontairement cachée, par sécurité, si bien que seuls les héritiers Maupertuis savaient à **quelle espèce** elles appartenaient.
 
-Lors de la malédiction de a bibliothèque, il restait une goule de garde dans le domaine interdit (surnommée "La Bête") ; il est probable qu'elle a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars). Elle avait la particularité, étonnante pour son espèce, d'être très myope, **ne voyant pas grand-chose à plus de 3m**. {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
+Lors de la malédiction de la bibliothèque, il restait un monstre de garde, surnommé "La Bête", dans le domaine interdit ; il est probable qu'il a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars). Il parait qu'il avait la particularité d'être très myope, **ne voyant pas grand-chose à plus de 3m**. {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 
-L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de goule errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %}
+L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de la Bête errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %}
 
 Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le **symbole secret des Maupertuis**, transmis de génération en génération ; l'accès est alors débloqué **pour 12 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "octave_knows_about_secret_family_symbol" %}
 
@@ -1101,11 +1101,11 @@ Les parents Maupertuis étaient très différents et complémentaires ; par exem
 
 Au moment de l'attaque du manoir, Mérédice de Maupertuis avait déjà beaucoup progressé dans les arts magiques, et en particulier - comme ses prédécesseurs - dans les potions et gemmes de guérison. Elle travaillait régulièrement dans les **cabinets d'alchimie et de gemmologie de l'étage interdit**. Elle laissait d'ailleurs la plupart de ses affaires dans la bibliothèque, de peur de les perdre lors de ses excursions d'herboristerie dans les environs, ou en cas de cambriolage du manoir.
 
-Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il était distrait par ses lectures romanesques et fantastiques.
+Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il était distrait par ses lectures romanesques et fantastiques. Il n'était donc jamais allé dans l'étage interdit. {% fact "octave_never_went_into_forbidden_zone" %}
 
-Il devait tout bientôt passer son **initiation appelée "adoubement"**, à l'étage interdit, une cérémonie ne fonctionnant que pour les héritiers de la lignée Maupertuis: {% fact "only_maupertuis_heirs_can_take_initiation" %}
+Il devait tout bientôt passer son **initiation appelée "adoubement"**, une cérémonie ne fonctionnant que pour les héritiers de la lignée Maupertuis : {% fact "only_maupertuis_heirs_can_take_initiation" %}
 
-- Etre présenté à la Bête, et recevoir d'elle un serment d'allégeance
+- Etre présenté à la Bête du domaine interdit, et recevoir d'elle un serment d'allégeance
 - Réussir à activer le **Sceau d'initiation** présent sur place
 - Tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petite boite, parmi un ensemble, contenait sa **broche personnelle**, et obtenir ainsi cet artefact dynastique {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %}
 - En cas de réussite, **recevoir le symbole secret** de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois.

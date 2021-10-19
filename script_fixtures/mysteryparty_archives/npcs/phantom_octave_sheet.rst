@@ -22,7 +22,7 @@ Alors que vous prépariez vos affaires, le coeur lourd de devoir quitter si brus
 Vous vous êtes réveillé un peu plus tard, la mémoire brouillée, le corps presque insensible. Le monde glissait entre vos doigts.
 Grâce à votre bonne éducation, vous avez vite compris. Vous étiez devenu un fantôme.
 
-Vous ne savez toujours pas ce qui s'est passé lors du rituel de l'Arkonte. Qui vous a attaqué ? L'arkonte ? La bête ? Un intrus inattendu ? Une malédiction latente de la bibliothèque, peut-être en lien avec les pouvoirs insondables du fondateur de la dynastie Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} ?
+Vous ne savez toujours pas ce qui s'est passé lors du rituel de l'Arkonte. Qui vous a attaqué ? L'arkonte ? La Bête ? Un intrus inattendu ? Une malédiction latente de la bibliothèque, peut-être en lien avec les pouvoirs insondables du fondateur de la dynastie Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} ?
 
 Ce genre de situation ne dure jamais éternellement. Donc vous attendez, en oscillant entre des moments de lucidité - dans lesquels vous êtes comme attaché à une petite zone lumineuse, et voyez passer au loin des spectres en errance - et d'étranges cauchemars où vous errez dans la bibliothèque, en proie à une rage surnaturelle.
 
@@ -43,4 +43,7 @@ Si l'on vous apprend que votre soeur Mérédice a en réalité survécu aux pers
 IMPORTANT : Votre famille gardait quelques "paperasses administratives" dans une mallette noire, dans le domaine autorisé. Le code de ce coffre changeait automatiquement chaque jour. Vous n'avez jamais eu besoin de l'ouvrir, mais vos parents vous ont prévenu, si la nécessité se présentait, que le code était **"murmuré par un {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}"** ; vous ne savez pas ce que ça signifie exactement. {% fact "octave_knows_about_murmuring_venture_prins_book" %}
 
 Lors de vos derniers préparatifs, vous aviez commencé à rassembler **de l'argent** dans votre sac de voyage. Si ce sac de voyage n'est plus trouvable, c'est soit que quelqu'un l'a volé, soit simplement qu'il a été enseveli sous un des **éboulis** survenus depuis. {% hint 'travel_bag_with_money_under_far_rubbles' is needed %}
+
+Vous ne vous souvenez plus de l'espèce exacte à laquelle appartenait la Bête. Juste que c'était une créature très griffue, et vivant habituellement dans des cavernes. {% fact "only_arkon_and_octave_know_things_about_beast_species" %}
+
 
