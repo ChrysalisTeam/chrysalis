@@ -20,15 +20,15 @@ En imposant les mains sur un objet (ou un marquage) et en fermant les yeux, vous
 
 *Explications hors-jeu* : un élément analysable par votre sensibilité porte une **petite pastille ronde de couleur chaude** (jaune, orange, rouge...) ; la couleur exacte est sans signification.
 
-Cette pastille porte divers symboles, dont parfois une **étoile** ; cette étoile doit avoir des branches en forme de traits sans épaisseurs - un polygone comme un triangle, un carré, un pentagone etc. ne comptent pas comme une étoile.
+Cette pastille porte divers symboles, dont parfois une **étoile** ; cette étoile doit avoir des branches en forme de traits sans épaisseurs - un polygone comme un triangle, un carré, un pentagone etc. ne compte pas comme une étoile.
 
 Si cette étoile a un nombre **pair** de pointes, alors l'objet est maudit et dangereux ; si l'étoile a un nombre **impair** de pointes, il est envouté mais de façon neutre voire bénéfique.
 
-Attention, si l'étoile est absente alors l'objet est forcément **non-envouté**, quels que soient les autres symboles présents !
+Attention, si l'étoile est absente alors l'objet n'est pas envoûté par des sortilèges humains, quels que soient les autres symboles présents. Cela ne signifie pas que l'objet sera dépourvu de propriétés magiques, mais s'il en possède alors elles seront d'un niveau **divin**, hors d'atteinte de vos pouvoirs de détection et de désenvoûtement. {% fact "objects_might_carry_non_analysable_divine_powers" %}
 
 Par défaut, un envoûtement présent est de niveau "simple".
 S'il existe un petit **cercle** où que ce soit dans la pastille, alors l'envoûtement est de niveau "complexe".
-Si ce cercle contient en plus un **unique point**, alors l'envoûtement passe au niveau "légendaire".
+Si ce cercle contient un **unique point**, alors l'envoûtement passe au niveau "légendaire".
 
 Une autre pastille de même couleur peut être présente, avec un **code** à 3 lettres ; rentrez ce code dans le **{% symbol "portail de connaissances (explications le jour J)" for "hint_website_name" %}**, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.  {% hint "hint_website_device" is needed %}
 
