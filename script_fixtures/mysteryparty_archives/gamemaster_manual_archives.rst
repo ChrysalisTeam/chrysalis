@@ -362,7 +362,7 @@ Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 
 - Lors du combat dans un des corridors, des potions ont été renversées, ce qui a rendu cet endroit toxique. {% fact "toxic_corridor_is_due_to_spilled_potion" %} {% hint 'spilled_potions_in_toxic_corridor' is needed %}
 
-- Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste piégé dans son périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
+- Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste **piégé** dans son (petit) périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
 
 - Il monnaie chèrement ses informations “pratiques” sur les lieux aux joueurs, contre de l’or et des pierreries.
 
@@ -785,7 +785,7 @@ Les différents bijoux :
 - La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est **effondré**. Il vend donc cette information chèrement et à contrecoeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}
 
-Rentrer le bon symbole dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit des gemmes (mais en nombre limité par jour). {% hint 'jewels_set_for_grinding_mill_success' is needed %}
+Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes (mais en nombre limité par jour). {% hint 'jewels_set_for_grinding_mill_success' is needed %}
 
 Avec le moulin et le grimoire chantant résolu, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 

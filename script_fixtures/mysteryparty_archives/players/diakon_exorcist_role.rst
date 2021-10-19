@@ -63,15 +63,17 @@ Rituel :
 Libération d'ancrage spirituel
 -----------------------------------------
 
-Si vous rencontrez un fantôme bloqué dans une petite zone - typiquement le lieu de sa mort violente - lorsqu'il est sous forme incarnée, ce rituel vous permet de le libérer pour toujours de cette chaine invisible. Comme tous les fantômes, il restera néanmoins par le suite soumis aux contraintes d'un possible {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}, ou autre sortilège contraignant, dressé sur sa route.
+Si vous rencontrez un fantôme bloqué dans une petite zone - typiquement le lieu de sa mort violente - lorsqu'il est sous forme incarnée, ce rituel vous permet de le libérer de cette chaine invisible. Comme tous les fantômes, il restera néanmoins par la suite soumis aux contraintes d'un possible {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}, ou autre sortilège contraignant, dressé sur sa route.
 
 Rituel :
 
 - Rassembler **3 autres {% symbol "initiés" for "ritualist_kind_name" %}**, en plus de vous, en cercle autour du fantôme incarné
 - Se mettre tous les quatre avec les bras étendus à l'horizontale
-- Clamez tous ensemble **"Esprit égaré, nous brisons les chaines qui en ce lieu funeste te retiennent"**, trois fois d'affilée
+- Clamez tous ensemble **"Esprit égaré, nous libérons les chaines qui en ce lieu funeste te retiennent"**, trois fois d'affilée
 
 D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spirituelles passera moins souvent dans sa forme spectrale. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+
+**Annulation** : n'importe lequel des initiés qui ont participé au rituel peut, tant que le fantôme n'est pas passé dans l'au-delà, restaurer la chaine invisible qui l'attachait à un point précis. Il suffit de tendre les paumes ouvertes vers le fantôme incarné, et de clamer **"Esprit égaré, je restaure les chaines qui en ce lieu funeste te retenaient"**. Le fantôme va alors retourner à son emplacement initial d'attache. {% fact "diakons_can_all_anchor_phantoms" %}
 
 {% endmacro %}
 <{ phantom_related_spells }/>

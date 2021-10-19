@@ -79,6 +79,18 @@ Les fractures entre les différents mondes peuvent donner des situations cocasse
 
 
 
+Interactions entre fantômes incarnés
+++++++++++++++++++++++++++++++++++++++++
+
+Les fantômes ne peuvent PAS se nuire mutuellement, mais ils ne sont pas initialement conscients de cette invulnérabilité.
+
+Donc ,quand ils sont incarnés et conscients de leurs actes, ils réagissent face au danger comme s'ils étaient vivants :
+
+- Tous les fantômes humains craignent d'approcher la Bête fantomatique, même si l'arkonte est plus courageux que les autres à ce sujet.
+- Si le voleur est libéré et devient menaçant, les autres fantômes tentent de s'interposer entre lui et les joueurs.
+
+
+
 Errance spectrale des fantômes
 +++++++++++++++++++++++++++++++++++
 
