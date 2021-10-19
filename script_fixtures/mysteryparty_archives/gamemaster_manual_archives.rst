@@ -809,7 +809,7 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 
 - Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien n'en tire un mort-vivant. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
 
-- L’oracle a une vision d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplifican_artefacts_symbol" %}**. {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %}
+- L’oracle a une vision d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %}
 
 - L’arkonte se souvient de ce symbole, qui est entre autres celui de la légendaire **{% symbol "Bague Amplificans" for "ring_for_magic_amplification_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
@@ -1060,11 +1060,13 @@ Les colliers éthériques
 Les légendes parlent de plusieurs colliers magiques forgés par des alchimistes durant cette {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}, et disparus peu après.
 Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux. En particulier, sa diction trainante mais tonitruante lors de toutes ses apparitions publiques a déclenché plus d'une suspicion. {% fact "magus_mos_peratys_often_wore_manaic_aura_necklace" %}
 
+{# FIXME IMPORTER CELA DEPUIS STATIC PAGES ?? #}
+
 **{% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}** (formé de pierres ovales bleutées translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques (contondantes, perçantes ou tranchantes). En contrepartie, il marche et bouge les bras très lentement, tel un golem.
 
 **{% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}** (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : maladies, poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
 
-**{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}** (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas concernés par ce collier.
+**{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}** (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas évités par ce collier.
 
 **{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}** (formé d'anneaux de Mithril) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrêmement lourd. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
 
