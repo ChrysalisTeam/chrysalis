@@ -57,11 +57,11 @@ Recouvrir une gemme de fluorite avec de la lymphe de tarantule. La pierre ainsi 
 Potion d'autorité
 -----------------------
 
-{% hint "recipe_authority_potion" is needed %}
+{% hint "recipe_authority_potion" is provided %}
 
-La "Potion de Délieur de Langue" que de nombreux alchimistes connaissent est en réalité peu intéressante, le vin obtient d'aussi bons effets de bavardage.
+La "Potion de Délieur de Langue" que de nombreux alchimistes connaissent est en réalité peu intéressante, le vin obtient d'aussi bons effets de bavardage. {% hint "potion_tongue_untier" is needed %}
 
-Mais si on y dissout une pierre de Chrysocolle, la potion résultante donne un regain d'énergie et de charisme qui permet de commander bien plus facilement aux autres humains, aux animaux, voire (si l'on n'est pas pressé) aux plantes. {% hint "potion_tongue_untier" is needed %} {% hint "gem_chrysocolle" is needed %}
+Mais si on y dissout une pierre de Chrysocolle, la potion résultante donne un regain d'énergie et de charisme qui permet de commander bien plus facilement aux autres humains, aux animaux, voire (si l'on n'est pas pressé) aux plantes. {% hint "gem_chrysocolle" is needed %}
 
 
 Encens prophétique

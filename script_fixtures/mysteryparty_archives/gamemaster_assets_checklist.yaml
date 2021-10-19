@@ -77,6 +77,7 @@
   -
     - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 INAMOVIBLE"
     - "Lecteur MP3 étanche bleu AGPTEK Go2 Small à batterie avec mémoire interne 8Go incluse"
+    - "Livre d'enfant déchiré avec des animaux en mouvement {% hint 'torn_child_book_with_animal_motions' is provided %}"
 
 -
   - "Coin du fantôme de l’arkonte"
@@ -87,7 +88,7 @@
 -
   - "Mini-jungle"
   -
-    - "Crâne empoisonné de l'arkonte caché entre les pots {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is needed %}"
+    - "Crâne empoisonné de l'arkonte caché entre les pots {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %}"
     - "1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
 
 -
