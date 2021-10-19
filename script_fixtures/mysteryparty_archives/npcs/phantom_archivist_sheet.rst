@@ -16,7 +16,7 @@ Un réveil inattendu
 
 Lorsque l'arkonte s'est immiscé dans la bibliothèque, vous avez fini par vous ranger à ses arguments.
 
-Alors que vous prépariez vos affaires, satisfait de voir cet étrange confinement toucher à sa fin, vous avez senti une vivre brûlure dans votre dos.
+Alors que vous prépariez vos affaires, satisfait de voir cet étrange confinement toucher à sa fin, vous avez senti une vive brûlure dans votre dos.
 
 <{ maupertuis_phantoms_awakening }/>
 

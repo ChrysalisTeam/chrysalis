@@ -550,7 +550,7 @@ Un joueur peut être atteint dans les cas suivants :
 
 - S’il se fait toucher par un fantôme (incarné ou non) : blessure sacrée. S'il se fait attaquer durablement par la Bête, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer.
 
-- S’il touche un objet manifestement maudit, comme un crâne sonore (les autres ossements sont sans danger) {% fact "cursed_skull_only_gives_sacred_injuries_not_bones" %} : blessure sacrée. Un pentacle, lui, n'est pas dangereux hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- S’il touche un objet manifestement maudit, comme un crâne sonore ou les ossements qui vont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : blessure sacrée. Un pentacle, lui, n'est pas dangereux hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
 - S’il déclenche un piège, c'est-à-dire fait tomber un grelot par terre (ex. fil tendu dans une allée) ou déclenche le cri d'un grillon détecteur de mouvement : blessure biologique.
 
@@ -780,7 +780,7 @@ Les différents bijoux :
 - La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Le **détecteur de magnétisme** donne un code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier.
   {% hint "maupertuis_father_jewel_in_twin_books" is needed %} {% hint "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
 
-- La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont cachés dans un SCEAU d'initiation. Il s’agissait d’une épreuve pour Octave, qui devait être capable de “sentir” la présence de l’objet magique avant d’y avoir droit. Les joueurs doivent activer le sceau, écouter le message pré-enregistré d'un automate qui leur résume l'épreuve, puis utiliser le **détecteur de métal** pour deviner le coffre qui a l’objet. Seul un héritier Maupertuis peut effectivement déclencher la résolution de cette initiation. {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% fact "only_maupertuis_heirs_can_take_initiation" %} {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}
+- La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont cachés dans un SCEAU d'initiation. Il s’agissait d’une épreuve pour Octave, qui devait être capable de “sentir” la présence de l’objet magique avant d’y avoir droit. Les joueurs doivent activer le sceau, écouter le message pré-enregistré d'un automate qui leur résume l'épreuve, puis utiliser le **détecteur de métal** pour deviner le coffret qui a l’objet. Seul un héritier Maupertuis peut effectivement déclencher la résolution de cette initiation. {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% fact "only_maupertuis_heirs_can_take_initiation" %} {% hint 'maupertuis_initiation_seal' is needed %} {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}
 
 - La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est **effondré**. Il vend donc cette information chèrement et à contrecoeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}
@@ -1180,7 +1180,7 @@ De nombreux voyants du monde spirituel évoquent le rôle d'un "psychopompe", d'
 Des périls des restes corporels
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun, car elle inflige des blessures sacrées ; mais uniquement s'il touche directement le crâne du défunt - le reste des ossements n'est jamais maudit. {% fact "cursed_skull_only_gives_sacred_injuries_not_bones" %}
+Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun, car elle inflige des blessures sacrées, s'il touche directement le crâne ou les ossements du défunt. {% fact "cursed_skull_and_bones_give_sacred_injuries" %}
 
 Notons que ce sortilège peut perdurer jusque bien après le retour du fantôme au royaume des morts, exigeant ainsi l'intervention d'un désenvouteur en bonne et due forme.
 

@@ -1,12 +1,9 @@
 EQUILIBRAGE
 
-- harmoniser le mot "connaît" et "envoutement"  (LATER)
 
-À  É
 
 Enigme avec disques gramophone ???
 
-NE SURTOUT PAS liberer le voleur sinon il fout la merde
 
 
 !!!!! ERROR IN hints registry for key arkon_skull_analysis_showing_curare_poisoning : {'needed'} requires a provided hint
@@ -42,9 +39,7 @@ ET VICE VERSA POTION DE SOMMEIL ???
 IMPRIMER MOULIN EN STEREOGRAMME
 
 
-
 MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE !!!!!!!!!!!!
-
 
 
 PREVOIR PILES En rhab 20xx pour télécommandes ???????
@@ -54,20 +49,10 @@ Mettre toiles d'araignee dans checklist !!!
 QUAND surviennent les oracles/visions, faire planning
 
 
-
-COFFRES
-- coffre familial (code dicté par stéthoscope)
-- coffre légendaire (double code, celui de l'au-delà, et celui
-
-LIVRES
-- livret “Généalogie des Maupertuis” avec symbole familial en UV
-- livre des morts, avec message UV
-
-
 faire blasons CADUCEES et semi-caducee
 
 
-COMPET A REBOURS DE TNT bande son à faire
+COMPET A REBOURS DE TNT bande-son - à faire
 
 
 
@@ -84,8 +69,6 @@ Vous savez d'expérience que les vieilles familles lèguent souvent à leurs hé
 > quid de l'écriture petite ?
 
 
-Talkie Walkie ???
-
 AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
 
 TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
@@ -101,15 +84,17 @@ A EXPLOITER en jeu pour encens :
 
 TODO bande son du venture prins
 
-ANALYSE à fournir : arkon_bones_having_traces_of_burning + arkon_skull_analysis_showing_curare_poisoning
+
 
 REDIGER les novels, et en particulier chaos_novel_volume_three_between_zoology_and_cooking_shelves
 
-IMPORTANT - donner du jeu au runologue et unveiler !!!  moins au lockpicker !! ========> RENFORCER SOUNDER MAINTENANT
-DONNER + DE TRAVAIL A L INVENTEUR?? EX. LUI AUSSI A CLEF MAGNETIQUE ???
+
+DONNER + DE TRAVAIL A L INVENTEUR?? EX. LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
 Aussi + d'infos pour Octave ?
 
-METTRE PASTILLE DE MAGIE SUR TABLE ENCHANTEE (expliquant génération nourriture)
+
+========> RENFORCER SOUNDER MAINTENANT avec détecteur de métaux
+
 
 PREENREGISTRER MESSAGE D'INITIATION D'OCTAVE
 
@@ -117,21 +102,17 @@ PRE ENREGISTRER PROPHECY AUDIO finale avertissant contre danger du druide
 
 ECRIRE dans Thanatologue le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %} (bullet enchantment)
 
-
-
-# ATTENTION ATTACHER RUBANS SUR PETITS BIJOUX POUR PAS LES PERDRE #
-
-Ou sont autres recettes de potions et rituels ? Ex. pour déblocage des fantomes ?
+arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter
 
 DONNER A DRUIDE LA CHARGE DE SUIVRE LE DESENVOUTEUR !!??? Ou le démineur ???
 
 Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout
 
-
+Pouvoir trouver astrolabe différemment
 
 ------------------------
 
-INDICE PORTRAIT MAGE - Sur le portrait du mage, une multitude de petites inscriptions magnétiques vous donnent un avertissement formel : "Malheur, malheur à celui qui pénétrera dans la tombe du plus puissant magicien de tous les temps, si ne coule pas en lui le sang des Maupertuis.".
+INDICE PORTRAIT MAGE - TOO LONG Sur le portrait du mage, une multitude de petites inscriptions magnétiques vous donnent un avertissement formel : "Malheur, malheur à celui qui pénétrera dans la tombe du plus puissant magicien de tous les temps, si ne coule pas en lui le sang des Maupertuis.".
 
 INDICE PORTRAIT PERE - en UV "Rappel : Venture Prins Murmure"
 
@@ -140,33 +121,30 @@ INDICE PORTRAIT MERE - en UV ""
 -------------------------
 
 
-**Rupture de corridor outre-monde**  <--- metter tag {% SYMBOL %}
-
-NOTE
-    3 neveux de clodynette viennent aussi !!!
-
 Où et quand se déclenchent les VISIONS d'oracle ????
 
 
 
-
-Envoûtement de la tombe du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
-
-A DIRE - Seul un héritier des Maupertuis peut pénétrer dans le tombeau, toute autre personne y meurt rapidement des suites d'une des malédictions (mais peut ensuite en sortir via les murs, sous forme de fantôme). {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
-
-
 IL FAUT UNE SARBACANE POUR LE DRUIDE !!!!
 
-
-
-Cet objet a été envoûté avec un envoûtement dangereux cet objet est porteur d'un envoûtement bénéfique ; vous ne risquez rien dans le toucher. Il est dangereux de le toucher.
-
-Cet objet est porteur d'une bénédiction sacrée.
-
-Cet objet est porteur d'une malédiction sacrée.
-
-
 ECRITEAU POUR CLOCHETTE SPECTRALE !
+
+
+
+
+
+
+
+
+
+******** LATER *******************
+
+- harmoniser le mot "connaît" et "envoutement"  (LATER)
+**Rupture de corridor outre-monde**  <--- metter tag {% SYMBOL %}
+À  É
+
+
+
 
 
 
@@ -183,6 +161,40 @@ TRASH
 
 
 
+IMPORTANT - donner du jeu au runologue et unveiler !!!  moins au lockpicker !!
+
+ANALYSE à fournir : arkon_bones_having_traces_of_burning + arkon_skull_analysis_showing_curare_poisoning
+
+
+METTRE PASTILLE DE MAGIE SUR TABLE ENCHANTEE (expliquant génération nourriture)
+
+DUPLICATEd Ou sont autres recettes de potions et rituels ? Ex. pour déblocage des fantomes ?
+
+
+A DIRE - Seul un héritier des Maupertuis peut pénétrer dans le tombeau, toute autre personne y meurt rapidement des suites d'une des malédictions (mais peut ensuite en sortir via les murs, sous forme de fantôme). {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
+
+
+
+Cet objet a été envoûté avec un envoûtement dangereux cet objet est porteur d'un envoûtement bénéfique ; vous ne risquez rien dans le toucher. Il est dangereux de le toucher.
+
+Cet objet est porteur d'une bénédiction sacrée.
+
+Cet objet est porteur d'une malédiction sacrée.
+
+
+COFFRES
+- coffre familial (code dicté par stéthoscope)
+- coffre légendaire (double code, celui de l'au-delà, et celui
+
+LIVRES
+- livret “Généalogie des Maupertuis” avec symbole familial en UV
+- livre des morts, avec message UV
+
+
+
+Envoûtement de la tombe du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
+
+NE SURTOUT PAS liberer le voleur sinon il fout la merde  DONE
 
 Automates de service
 ---------------------

@@ -28,6 +28,8 @@
     - "P7 - Corridor de Peau de Pierre"
 
     - "E1, E2, E3, E4, E5 - Zones d'éboulements réparties sur les 2 étages"
+    - "Jetons en métal dans l'éboulis E5 derrière le laboratoire d'alchimie {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
+    - "Jetons en métal dans l'éboulis E2 du coin le plus lointain {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
 
 -
   - "Indices cachés ou disséminés"
@@ -201,7 +203,7 @@
   - "Corridor d'Aura Manaïque (cul-de-sac)"
   -
     - "Accès bloqué une porte en bronze de type 'ultra-lourd"
-    - "SCEAU d'initiation (avec guirlande???), et Mini-coffrets (recouverts d'un drap noir) de l'initiation d'Octave dont un contenant sa broche {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %}"
+    - "SCEAU d'initiation (avec guirlande???), et Mini-coffrets (recouverts d'un drap noir) de l'initiation d'Octave dont un contenant sa broche {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %} {% hint 'maupertuis_initiation_seal' is provided %}"
     - "Note: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
 
 -
@@ -229,17 +231,20 @@
     - "40 pièces normales (= 40 kashes)"
     - "10 petits diamants ronds (= 50 kashes)"
     - "10 diamants moyens rectangulaire (= 100 kashes)"
+    - "5 grands diamants ronds (= 100 kashes)"
     - "Bracelet doré à gros diamant bleu (marqué non magique) valant environ 100 kashes"
     - "Collier en bande dorée (marqué non magique) valant environ 60 kashes"
     - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes"
 
 -
-  - "Localisation de ces richesses à collecter (environ 470 kashes en jeu)"
+  - "Localisation de ces richesses diverses à collecter (570 kashes en jeu)"
   -
     - "140 kashes répartis entre les coffres et emplacements dans l'étage autorisé"
     - "140 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors dans l'étage interdit"
     - "20 kashes dans les poches des avatars"
-    - "170 kashes dans le trésor du jeu de piste de Mérédice"
+    - "100 kashes dans le trésor du jeu de piste de Mérédice"
+    - "70 kashes dans le sac de voyage sous éboulis"
+    - "100 kashes dans le moulin magique quand activé"
 
 -
   - "Indices et objets à là disposition du maître de jeu"
@@ -248,8 +253,9 @@
     - "Bande-son de la prophétie auditive sur comment vaincre le méchant {% hint 'parcival_oracle_hearing_about_last_battle_plan' is provided %}"
     - "Le code de la mallette administrative noire ({% symbol '625-993' for 'family_briefcase_code' %}) si les joueurs le demandent aux défunts via l'Ankou"
     - "Un des codes du coffret légendaire des Maupertuis, celui de la mère des Maupertuis, si elle est interrogée depuis l'au-delà : {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}"
-    - "Broche de Meredice, trouvée par les joueurs si le bon éboulement derrière l'atelier d'alchimie est dynamité {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
-    - "Lot de gemmes pour simuler la réussite du moulin magique des Maupertuis {% hint 'jewels_set_for_grinding_mill_success' is provided %} : 5 grands diamants ronds (= 100 kashes)"
+    - "Broche de Mérédice, trouvée par les joueurs si le bon éboulement derrière l'atelier d'alchimie est dynamité {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
+    - "Lot de gemmes pour simuler la réussite du moulin magique des Maupertuis {% hint 'jewels_set_for_grinding_mill_success' is provided %}"
+    - "Lot de gemmes dans un sac de voyage à trouver sous les bons éboulis {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
     - "Cônes d'encens pour la fontaine magique"
     - "Papier d'Arménie et briquet pour l'encensoir des diacres"
     - "Clés des cadenas crochetables transparents, au cas où ils sont bloqués"
@@ -317,6 +323,8 @@
     - "La page web du puzzle des symboles familiaux doit fonctionner avec le symbole familial secret des Maupertuis"
     - "La page web de requêtage des indices divers (identifiés par un code unique) doit fonctionner"
     - "L'application de recherche de balises BLUETOOTH doit fonctionner pour toutes les balises cachées"
+    - "Les petits bijoux et clés doivent être attachés à des gros rubans, pour ne pas les perdre en jeu"
+    - "Le détecteur de métaux doit bien sonner près des éboulis, ou des coffrets d'initiation d'Octave, qui contiennnent des valeurs"
 
 -
   - "logistique et décorations diverses"

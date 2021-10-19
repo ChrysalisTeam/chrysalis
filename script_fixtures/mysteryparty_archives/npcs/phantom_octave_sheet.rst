@@ -15,7 +15,7 @@ Un réveil inattendu
 
 Lorsque l'arkonte s'est immiscé dans la bibliothèque, vous avez fini par vous ranger à ses arguments.
 
-Alors que vous prépariez vos affaires, le coeur lourd de devoir quitter si brusquement vos amis avatars, vous avez senti une vivre brûlure dans votre dos.
+Alors que vous prépariez vos affaires, le coeur lourd de devoir quitter si brusquement vos amis avatars, vous avez senti une vive brûlure dans votre dos.
 
 {% macro maupertuis_phantoms_awakening() %}
 
@@ -41,4 +41,6 @@ Si l'on vous apprend que votre soeur Mérédice a en réalité survécu aux pers
 {# ABORTED FOR NOW Vous aviez, tout petit, reçu de vos parents votre symbole secret personnel, une des clés nécessaire pour accéder au domain interdit des Maupertuis. Ce symbole ne vous a finalement pas servi, mais maintenant que vous êtes mort, il est étrangement apparu sur votre bras. -% fact "octave_has_secret_personal_symbol_on_arm" %- #}
 
 IMPORTANT : Votre famille gardait quelques "paperasses administratives" dans une mallette noire, dans le domaine autorisé. Le code de ce coffre changeait automatiquement chaque jour. Vous n'avez jamais eu besoin de l'ouvrir, mais vos parents vous ont prévenu, si la nécessité se présentait, que le code était **"murmuré par un {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}"** ; vous ne savez pas ce que ça signifie exactement. {% fact "octave_knows_about_murmuring_venture_prins_book" %}
+
+Lors de vos derniers préparatifs, vous aviez commencé à rassembler **de l'argent** dans votre sac de voyage. Si ce sac de voyage n'est plus trouvable, c'est soit que quelqu'un l'a volé, soit simplement qu'il a été enseveli sous un des **éboulis** survenus depuis. {% hint 'travel_bag_with_money_under_far_rubbles' is needed %}
 
