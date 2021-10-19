@@ -32,8 +32,8 @@
 -
   - "Indices cachés ou disséminés"
   -
-    - "I1 - Livre factice bleu (contient la clef du livre factice rouge et XXX pierreries), marqué au sol"
-    - "I2 - Livre factice rouge (montre en magnétisme le code du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose), marqué au sol {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %}"
+    - "I1 - Livre factice bleu (contient la CLEF du livre factice rouge et XXX pierreries), marqué au sol"
+    - "I2 - Livre factice rouge, marqué au sol (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %}"
     - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
     - "I4 - Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
     - "I5 - Recette de l'Elixir Flexifiant (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_flex_elixir' is provided %}"
@@ -89,7 +89,7 @@
     - "1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
 
 -
-  - "Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %}"
+  - "Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %} et "
   -
     - "Livret généalogique des Maupertuis avec leur symbole familial secret en ultraviolet {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
 
@@ -106,7 +106,7 @@
 -
   - "Cimetière"
   -
-    - "3 pierres tombales noires"
+    - "3 pierres tombales noires avec code d'analyse [{% symbol 'ltx' for 'analysis_code_three_tombs' %}]"
 
     - "Tombe 1 : Journal intime d'Octave parlant de ???????????"
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF)"
@@ -134,8 +134,9 @@
   - "Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
   -
     - "Code d'envoûtement NEGATIF [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] sur la porte du tombeau"
+    - "MESSAGE chiffré 'Seul le sang des Maupertuis passera sans encombre' {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %}"
     - "1 pierre tombale verte"
-    - "2 grandes bougies (3xAAA chacune)"
+    - "2 grosses bougies (3xAAA chacune)"
     - "Aube de pape dorée"
     - "Crâne humain (@Médiathèque?????) et ossements divers"
     - "Masque 'anonymous' doré devant le crâne"
@@ -167,7 +168,7 @@
     - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
     - "Chaudron en cuivre avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
     - "Passoire cylindrique en métal"
-    - "Meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE, avec dedans la potion de vapeur de Thorium {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
+    - "Mini-meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT, avec dedans la potion de vapeur de Thorium {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "Grand lot de petites bouteilles diverses et de condiments"
     - "Fontaine à encens illuminée LED"
     - "Base de sapin écairante à LEDs (3xAA) @Pascal"
@@ -217,7 +218,7 @@
     - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF)"
     - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF)"
-    - "Lanterne cassée {% hint 'broken_lantern_to_repair' is provided %}"
+    - "Lanterne cassée {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
 
 # DIVERS AUTRES #
 
@@ -251,6 +252,7 @@
     - "Lot de gemmes pour simuler la réussite du moulin magique des Maupertuis {% hint 'jewels_set_for_grinding_mill_success' is provided %} : 5 grands diamants ronds (= 100 kashes)"
     - "Cônes d'encens pour la fontaine magique"
     - "Papier d'Arménie et briquet pour l'encensoir des diacres"
+    - "Clés des cadenas crochetables transparents, au cas où ils sont bloqués"
 
 -
   - "Fantômes"
@@ -278,9 +280,10 @@
   - "Avatars"
   -
     - "Mégaphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
-    - "Quelques outils (tournevis, mètre-ruban...) (pour l'inventeur)"
-    - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, qui le fournira au joueur oracle)"
+    - "Quelques outils d'ambiance, tournevis, mètre-ruban... (pour l'inventeur)"
+    - "Piles pour lanterne et pour détecteur de métal (pour l'inventeur) {% hint 'broken_lantern_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %}"
     - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
+    - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, qui le fournira au joueur oracle)"
     - "Sarbacane-nerf, épée ou similaire (pour le druide) ?????????"
     - "Sacoche de l'arkonte, avec une fausse lettre compromettante au blason de faucille et houx, et de l'argent {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %}"
     - "Cape et autres vêtements de druide @Pascal"
@@ -288,8 +291,9 @@
 -
   - "Joueurs"
   -
+    - "Kit de crochetage de serrure (pour le lockpicker)"
     - "Encensoir en argent plaqué avec chainettes (pour l'invoker)"
-    - "Détecteur de métal Longruner (pile RECTANGLE 9V incluse) (pour sounder) initialement SANS PILE {% hint 'spy_sounder_metal_detector_initially_broken' is provided %}"
+    - "Détecteur de métal Longruner (nécessite pile RECTANGLE 9V) (pour le sounder) initialement SANS SA PILE {% hint 'spy_sounder_metal_detector_initially_broken' is provided %} {% hint 'spy_sounder_metal_detector_battery' is needed %}"
     - "Lampe-tempête Argent (2xPileD incluses)"
     - "Feuilles mémo des codes secrets et des runes (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %} {% hint 'runic_transcription_sheet_for_explorer_runologist' is provided %}"
     - "Journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %}"
@@ -298,7 +302,6 @@
 -
   - "Cadenas et leurs clefs"
   -
-    - "2 cadenas transparents avec 2 kits de crochetage ?????????? où çà ????"
     - "Cadenas moyen sans marque avec sa clé"
     - "Mini-cadenas sans marque avec sa clé"
     - "2 mini-cadenas GoTravels avec 2 mini-clés chacun"
@@ -322,6 +325,8 @@
     - "Boite de maquillage spécial UV"
     - "Fils blancs fins, cordelette épaisse etc.   TODO"
     - "Crackers de papillottes pour explosions - NOPE BOF"
+
+    - "7 grosses bougies (3xAAA chacune, NON PRESENTES initialement) à disséminer dans les lieux"
 
     - "Batterie plate blanche LifeDom 18Wh"
     - "Batterie USB Duracell PB2 24.3Wh"

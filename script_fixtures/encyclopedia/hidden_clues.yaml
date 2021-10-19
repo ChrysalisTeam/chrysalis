@@ -117,6 +117,20 @@ static_pages:
 
     # ------------------------
 
+
+    three_tombs_analysis:
+        title: "Analyses des 3 tombes du cimetière"
+        categories: ["analyse"]
+        clue_code: "ltx"
+        keywords: []
+        content: |
+            Ces trois tombes hors-sol ont été sommairement construites il y a environ 5 siècles.
+
+            La première et la deuxième ont à leur surface des cendres humaines, ayant appartenu à 2 individus morts à cette époque.
+
+            La troisième supporte un squelette sans crâne, dont les os sont rongés par des traces de contusions, de brûlures et d'érosions acides
+
+
     arkon_skull_analysis:
         title: "Autopsie de crâne humain"
         categories: ["analyse"]

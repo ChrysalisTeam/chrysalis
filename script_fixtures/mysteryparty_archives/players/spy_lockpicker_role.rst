@@ -13,7 +13,8 @@ Crochetage de serrures
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 La plupart des serrures de la bibliothèque sont protégées par des envoûtements, et échappent donc à votre art purement mécanique.
-Mais si vous trouvez un **cadenas transparent**, vous pouvez tenter de l'ouvrir avec votre kit de crochetage.
+
+Mais si vous trouvez un **cadenas transparent**, vous pouvez tenter de l'ouvrir avec votre **kit de crochetage**.
 
 *NOTE hors-jeu : Avec le kit de crochetage que vous recevrez, le but est d'appliquer une pression de rotation sur le cylindre interne, avec une tige en L, puis de pousser un par un les picots qui sont dans la serrure, jusqu'à ce que tous soient sur leur position "coulissante". Exemple en vidéo : https://www.youtube.com/watch?v=RqWgl0nK46E*
 
