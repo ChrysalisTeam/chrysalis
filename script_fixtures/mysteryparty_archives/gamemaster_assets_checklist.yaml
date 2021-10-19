@@ -17,7 +17,7 @@
     - "L5 - Mallette administrative noire des Maupertuis"
     - "L6 - Mini-jungle de grandes plantes en pot"
     - "L7 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
-    - "L8 - Sonnette de table argentée d'appel aux spectres, avec plaquette d'instructions \"Appuyer 3 Fois Très Fort\""
+    - "L8 - Sonnette de table argentée d'appel aux spectres, avec plaquette d'instructions \"Appuyer 3 Fois Très Fort\" (envoûtement INCOMPRÉHENSIBLE)"
 
     - "P1 - Niche de la bête"
     - "P2 - Coffre légendaire des Maupertuis"
@@ -34,14 +34,14 @@
   -
     - "I1 - Livre factice bleu (contient la clef du livre factice rouge et XXX pierreries), marqué au sol"
     - "I2 - Livre factice rouge (montre en magnétisme le code du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose), marqué au sol {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %}"
-    - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %}"
+    - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
     - "I4 - Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
     - "I5 - Recette de l'Elixir Flexifiant (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_flex_elixir' is provided %}"
     - "I6 - Recette de la Lotion de Clairvoyance (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_clarity_lotion' is provided %}"
     - "I7 - Tome 3 du roman du druide entre les étagères de zoologie et de cuisine  {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
     - "I8 - Potion de tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence, ainsi que Micro-meuble vernis pour bijoux"
 
-    - "J1 - SCEAU lumineux OPTIONNEL (1 MOYENNE Guirlande de Noël multicolore réglable @Pascal), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %}"
+    - "J1 - SCEAU lumineux OPTIONNEL (1 MOYENNE Guirlande de Noël multicolore réglable @Pascal), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %} (envoûtement POSITIF)"
     - "J2 - Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
 
@@ -63,7 +63,7 @@
 -
   - "Coin du fantôme de l’archiviste"
   -
-    - "Grande enceinte Vintage avec Jack3.5/Bluetooth"
+    - "Grande enceinte noir/gris Vintage avec Jack3.5/Bluetooth"
     - "Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth"
     - "Lampe-tempête Bronze (2xPileD incluses) INAMOVIBLE"
     - "Stroboscope LED (4xAA)"
@@ -96,7 +96,7 @@
 -
   - "Coffre commun en bois marron des Maupertuis (protégé par un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %}"
   -
-    - "Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_enigma_in_common_brown_chest' is provided %}"
+    - "Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF)"
     - "Lecteur Digital MP4 Player/ZI (batterie / microUSB) avec SDCARD 8Go incluse + ECOUTEURS pour ladite mini-boîte"
     - "Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %}"
     - "Néon UV auto-alimenté"
@@ -109,12 +109,12 @@
     - "3 pierres tombales noires"
 
     - "Tombe 1 : Journal intime d'Octave parlant de ???????????"
-    - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}"
+    - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF)"
     - "Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates {% hint 'androids_command_bracelet' is provided %}"
 
     - "Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided %}"
 
-    - "Tombe 3 : Squelette de 28 os (sans crâne) de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %}"
+    - "Tombe 3 : Squelette de 28 os (sans crâne) de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %} (envoûtement POSITIF)"
     - "Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %} (code d'envoûtement POSITIF [{% symbol 'bst' for 'magic_code_etheric_benediction_necklace' %}])"
 
     - "Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth"
@@ -137,7 +137,7 @@
     - "1 pierre tombale verte"
     - "2 grandes bougies (3xAAA chacune)"
     - "Aube de pape dorée"
-    - "Crâne humain (@Médiathèque) et ossements divers"
+    - "Crâne humain (@Médiathèque?????) et ossements divers"
     - "Masque 'anonymous' doré devant le crâne"
     - "Calotte/tiare noir&or sur le crâne"
     - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}])"
@@ -164,8 +164,8 @@
   - "Laboratoire d'Alchimie"
   -
     - "La table doit 'murmurer' à travers le bois ce message : XXXXXXXXXXXXXXXXXXXXXX ??"
-    - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %}"
-    - "Chaudron en cuivre avec ENCHANTEMENT d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %}"
+    - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
+    - "Chaudron en cuivre avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
     - "Passoire cylindrique en métal"
     - "Meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE, avec dedans la potion de vapeur de Thorium {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "Grand lot de petites bouteilles diverses et de condiments"
@@ -201,7 +201,7 @@
   -
     - "Accès bloqué une porte en bronze de type 'ultra-lourd"
     - "SCEAU d'initiation (avec guirlande???), et Mini-coffrets (recouverts d'un drap noir) de l'initiation d'Octave dont un contenant sa broche {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %}"
-    - "Nota: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
+    - "Note: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
 
 -
   - "Corridor de Peau de Pierre (cul-de-sac)"
@@ -215,8 +215,8 @@
   -
     - "Nid de lianes et feuilles géantes"
     - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
-    - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %}"
-    - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %}"
+    - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF)"
+    - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF)"
     - "Lanterne cassée {% hint 'broken_lantern_to_repair' is provided %}"
 
 # DIVERS AUTRES #
@@ -228,18 +228,17 @@
     - "40 pièces normales (= 40 kashes)"
     - "10 petits diamants ronds (= 50 kashes)"
     - "10 diamants moyens rectangulaire (= 100 kashes)"
-    - "5 grands diamants ronds (= 100 kashes)"
     - "Bracelet doré à gros diamant bleu (marqué non magique) valant environ 100 kashes"
     - "Collier en bande dorée (marqué non magique) valant environ 60 kashes"
     - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes"
 
 -
-  - "Localisation de ces richesses à collecter (environ 570 kashes en jeu)"
+  - "Localisation de ces richesses à collecter (environ 470 kashes en jeu)"
   -
-    - "180 kashes répartis entre les coffres et emplacements dans l'étage autorisé"
-    - "180 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors dans l'étage interdit"
+    - "140 kashes répartis entre les coffres et emplacements dans l'étage autorisé"
+    - "140 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors dans l'étage interdit"
     - "20 kashes dans les poches des avatars"
-    - "190 kashes dans le trésor du jeu de piste de Mérédice"
+    - "170 kashes dans le trésor du jeu de piste de Mérédice"
 
 -
   - "Indices et objets à là disposition du maître de jeu"
@@ -249,7 +248,7 @@
     - "Le code de la mallette administrative noire ({% symbol '625-993' for 'family_briefcase_code' %}) si les joueurs le demandent aux défunts via l'Ankou"
     - "Un des codes du coffret légendaire des Maupertuis, celui de la mère des Maupertuis, si elle est interrogée depuis l'au-delà : {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}"
     - "Broche de Meredice, trouvée par les joueurs si le bon éboulement derrière l'atelier d'alchimie est dynamité {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
-    - "Lot de gemmes pour simuler la réussite du moulin magique des Maupertuis {% hint 'jewels_set_for_grinding_mill_success' is provided %}"
+    - "Lot de gemmes pour simuler la réussite du moulin magique des Maupertuis {% hint 'jewels_set_for_grinding_mill_success' is provided %} : 5 grands diamants ronds (= 100 kashes)"
     - "Cônes d'encens pour la fontaine magique"
     - "Papier d'Arménie et briquet pour l'encensoir des diacres"
 
@@ -311,16 +310,17 @@
   - "Vérifications préalables"
   -
     - "Les 4 broches doivent avoir les symboles [moon, heart, arrow, circle]"
-    - "La page web du puzzle des symboles familiaux doit fonctionner"
-    - "La page web des cartes symboliques du grimoire chantant doit fonctionner"
+    - "La page web des cartes symboliques du grimoire chantant doit fonctionner avec les symboles de ces 4 broches des Maupertuis"
+    - "La page web du puzzle des symboles familiaux doit fonctionner avec le symbole familial secret des Maupertuis"
     - "La page web de requêtage des indices divers (identifiés par un code unique) doit fonctionner"
+    - "L'application de recherche de balises BLUETOOTH doit fonctionner pour toutes les balises cachées"
 
 -
   - "logistique et décorations diverses"
   -
     - "2 enceintes bluetooth/SD/jack MuziliSpeaker (longue autonomie)"
     - "Boite de maquillage spécial UV"
-    - "Fils blancs fins, codrelette épaisse etc. TODO"
+    - "Fils blancs fins, cordelette épaisse etc.   TODO"
     - "Crackers de papillottes pour explosions - NOPE BOF"
 
     - "Batterie plate blanche LifeDom 18Wh"
