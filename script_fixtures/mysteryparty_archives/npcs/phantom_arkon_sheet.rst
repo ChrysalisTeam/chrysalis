@@ -62,7 +62,7 @@ Si l'on vous interroge : vous ne connaissez pas de solution miracle à une **lé
 
 Si un vivant meurt, vous incitez les autres à trouver comment le **ressusciter** temporairement, afin qu'il puisse encore aider ; vous savez que ce genre de subterfuge a souvent débloqué, par le passé, des situations jugées désespérées.
 
-Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votre **sacoche de ceinture** contenant quelques valeurs, afin qu'elle n'interfère pas ; vous ne savez pas ce qu'elle est devenue, mais son contenu pourrait aider les vivants en manque d'argent, vous le leur indiquez si l'occasion se présente.
+Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votre **sacoche de ceinture** contenant quelques valeurs, afin qu'elle n'interfère pas ; vous ne savez pas ce qu'elle est devenue, mais son contenu pourrait aider les vivants en manque d'argent, vous le leur indiquez si l'occasion se présente. {% fact "arkon_bag_remained_after_his_death_but_disappeared" %}
 {% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
 
 
