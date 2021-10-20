@@ -532,13 +532,13 @@ Les différents types de blessures
 
 Les agressions qu'un aventurier malchanceux est susceptible de subir se classent en trois catégories : **attaques physiques, magiques et sacrées**.
 
-Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, de foudre, de choc...) doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : biologique. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.
+Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, de foudre, de choc...) doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : **biologique**. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.
 
-En revanche, les attaques sacrées, telles les malédictions de certains sorciers nécromants, ou les contacts avec des fantômes, causent des blessures de nature spirituelle. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction.
+En revanche, les attaques sacrées, telles les malédictions de certains sorciers nécromants, ou les contacts avec des fantômes, causent des blessures de nature **spirituelle**. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction.
 
 La distinction entre ces différents types de blessures n'est pas toujours évidente ; par exemple, la paralysie d'un membre peut être due à des lésions internes tout comme à l'attaque d'un spectre. D'où la nécessité d'investiguer les circonstances ayant mené aux troubles constatés, afin de fournir un remède approprié.
 
-Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "sacrées" fragilisent les fondements de l'âme. Subir d'affilée deux blessures de même nature mène donc presque certainement à la mort. {% fact "second_sacred_injury_is_always_fatal" %}
+Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "spirituelles" fragilisent les fondements de l'âme. Subir d'affilée deux blessures de même nature mène donc presque certainement à la mort. {% fact "second_sacred_injury_is_always_fatal" %}
 
 {% endmacro %}
 <{ injury_types_knowledge }/>

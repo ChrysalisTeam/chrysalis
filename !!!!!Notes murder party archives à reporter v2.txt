@@ -1,5 +1,5 @@
 
-
+Reviewer les lecteurs mp3 sonores présents !!!!
 
 AJOUTER UN DERNIER TRAP en fil ??
 TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
@@ -28,14 +28,13 @@ DONNER QUELQUES POTIONS a l'EXORCISTE AUSSI!!! (que l'alchimiste doit vouloir)
 L'exorciste a perdu ses fioles en chemin, trouvées par alchimiste
 
 
-AJOUTER pieges en envoutement légendaires avec cigales
 
 IMPRIMER MOULIN EN STEREOGRAMME
 
 
 MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE et d'autres avec autres objets !!!!!!!!!!!!
 
-Mettre affichettes de catégories sur les rayonnages de livres
+Mettre affichettes de catégories sur les rayonnages de livres !!
 
 
 PREVOIR PILES En rhab 20xx pour télécommandes ???????
@@ -66,6 +65,7 @@ Vous savez d'expérience que les vieilles familles lèguent souvent à leurs hé
 
 AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
 EX. LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
+
 
 >>>>>>>>>>>>>>>> DONNER OBJECTIFS CHIFFRéS POUR TRESOR aux spies  <<<<<<<<<<<<<
 
@@ -134,10 +134,12 @@ UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL
 
 
 
+
 TRASH
 ########################################
 
 
+AJOUTER pieges en envoutement légendaires avec cigales  DONE
 
 DIRE QUE NPCs savent que cette sacoche est à LUI l'arkonte !! et qu'ils ne savent pas où elle était passée ! Y mettre trucs intéressants dedans aussi
 
