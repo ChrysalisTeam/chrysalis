@@ -168,7 +168,7 @@
 -
   - "Laboratoire d'Alchimie"
   -
-    - "La table doit 'murmurer' à travers le bois ce message : XXXXXXXXXXXXXXXXXXXXXX ??"
+    - "La table doit 'murmurer' mais profondément (sthéthoscope) à travers le bois ce message : XXXXXXXXXXXXXXXXXXXXXX ??"
     - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
     - "Chaudron en cuivre avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
     - "Passoire cylindrique en métal"
