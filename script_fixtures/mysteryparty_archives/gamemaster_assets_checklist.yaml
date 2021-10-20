@@ -210,6 +210,7 @@
     - "Accès bloqué par une porte en bronze de type 'ULTRA-LOURD"
     - "SCEAU d'initiation (avec guirlande), et mini-coffrets (recouverts d'un drap noir) de l'initiation d'Octave dont un contenant sa broche {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %} {% hint 'maupertuis_initiation_seal' is provided %}"
     - "Note: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
+    - "Coffret avec envoûtement NEGATIF LEGENDAIRE, piégé avec une CIGALE"
 
 -
   - "Corridor de Peau de Pierre (cul-de-sac)"
@@ -354,7 +355,6 @@
     - "10 galets phosphorescents bleus (friandises de la Bête) ??? DUPLICATED"
 
     - "Lampe mini-tube blanche autonome à détection de mouvement "
-    - "2 cigales en céramique à détection de mouvement, PIEGES UNBREAKABLE XXXXXX"
 
     - "Livre factice gris ChooChoo @Clodynette"
 
