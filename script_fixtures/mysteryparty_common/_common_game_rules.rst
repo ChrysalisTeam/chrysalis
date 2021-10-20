@@ -38,9 +38,9 @@ Sécurité physique et émotionnelle
 +++++++++++++++++++++++++++++++++++++
 
 - **Pas de contact physique** hormis les mains (et les baisemains), sauf consentement préalable entre joueurs (ex. pour réaliser une scène d'empoignade) ; attention, en période de pandémie, les contacts physiques sont à éviter entièrement
-- On ne court pas dans les escaliers ; aucun ennemi ne vous y rattrapera, donc on se tient bien à la rambarde et on s'y déplace tranquillement ; même prudence à proximité de balustrades.
+- On ne court pas dans les escaliers ; aucun ennemi ne vous y rattrapera, donc on se tient bien à la rambarde et on s'y déplace tranquillement ; même prudence à proximité des balustrades.
 - L'univers du jeu est plutôt léger, envoutant, courtois ; donc on évite les **situations sordides** comme la torture, le viol, l'inceste, etc.
-- Si une situation vous oppresse trop en tant que joueur, vous pouvez l'interrompre **en disant "STOP", et en faisant une croix avec les mains**. On en discute alors "hors roleplay", pour voir si son intensité doit être modulée, si elle doit être expédiée (avec une ellipse temporelle), ou si elle est réputée n'avoir jamais eu lieu.
+- Si une situation vous oppresse trop en tant que joueur, vous pouvez l'interrompre **en disant "STOP", et en levant le poing à la verticale**. On en discute alors "hors roleplay", pour voir si son intensité doit être modulée, si elle doit être expédiée (avec une ellipse temporelle), ou si elle est réputée n'avoir jamais eu lieu.
 - Si ce n'est pas déjà fait, signalez aux organisateurs si vous avez des **phobies** (de l'obscurité, de certains animaux...) pour qu'ils voient si cela peut poser problème.
 - Signalez de même les **allergies** (surtout alimentaires), ou autres problèmes de santé, que vous pourriez avoir.
 

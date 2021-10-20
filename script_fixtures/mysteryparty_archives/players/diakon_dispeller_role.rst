@@ -54,7 +54,8 @@ Il faut alors dans l'ordre :
 
 En cas de réussite, le maître de jeu retire la pastille de l'objet.
 
-Si l'envoûtement est de niveau "légendaire", alors il est **impossible** de le supprimer, sauf en trouvant une contre-mesure spécifique à ce sortilège.
+Si l'envoûtement est de niveau "légendaire", alors il est **impossible** pour vous de le supprimer, sauf en trouvant une contre-mesure spécifique à ce sortilège. Il n'en existe pas toujours, car certains artefacts envoutés sont simplement des **pièges** à destination des importuns, qui ne disparaitront qu'en étant déclenchés par une pauvre victime.
+{% fact "some_cursed_artefacts_are_just_unbreakable_traps" %}
 
 
 Vos connaissances sur les différents types de blessures

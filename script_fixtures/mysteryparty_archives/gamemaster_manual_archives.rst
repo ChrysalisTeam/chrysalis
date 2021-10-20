@@ -552,9 +552,10 @@ Un joueur peut être atteint dans les cas suivants :
 
 - S’il se fait toucher par un fantôme (incarné ou non) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer.
 
-- S’il touche un objet manifestement maudit, comme un crâne sonore ou les ossements qui vont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est pas dangereux hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- S’il touche un objet manifestement maudit, comme un crâne sonore ou les ossements qui sont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
-- S’il déclenche un piège, c'est-à-dire fait tomber un grelot par terre (ex. fil tendu dans une allée) ou déclenche le cri d'une cigale à détecteur de présence : **blessure biologique**.
+- S’il déclenche un piège physique ou magique, c'est-à-dire fait tomber un **grelot** par terre (ex. fil tendu dans une allée) ou déclenche le cri d'une **cigale** à détecteur de présence (ex. en ouvrant un coffre) : **blessure biologique**.
+ {% fact "cicada_or_minibell_sound_mean_injury" %}
 
 - S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival, et se fait toucher par la momie du mage : **mort**. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
@@ -568,17 +569,17 @@ Un joueur peut être atteint dans les cas suivants :
 Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux potions magiques et aux rituels des diacres, mais ces possibilités restent très limitées.
 #}
 
-Les joueurs sont très démunis face aux diverses blessures, ils n'ont pas de compétences en ce sens. {% fact "players_have_no_medecine_abilites" %}
+Les joueurs sont très démunis face aux diverses blessures, ils n'ont PAS de compétences en ce sens. {% fact "players_have_no_medecine_abilites" %}
 
-**Guérisons par des avatars** : Toutes les blessures peuvent être guéries par des avatars, mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur){% fact "avatar_abilities_are_randomly_hazardous" %}. Dans tous les cas, laisser d'abord le joueur **mariner dans ses blessures 5-10mn**, le temps de "rassembler ce qu'il faut pour le soigner".
+**Guérisons par des avatars** : Toutes les blessures peuvent être guéries par des avatars, mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur){% fact "avatar_abilities_are_randomly_hazardous" %}. Dans tous les cas, les avatars doivent d'abord laisser le joueur avec ses blessures pendant 5-10mn, le temps de "rassembler ce qu'il faut pour le soigner".
 
-- la **duchesse** peut invoquer ses propres dieux, avec l'aide des diacres, pour réparer une blessure sacrée (touchant l'âme) {% fact "duchess_can_dangerously_heal_sacred_injuries" %}
+- la **duchesse** peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour réparer une blessure sacrée (touchant l'âme) {% fact "duchess_can_dangerously_heal_sacred_injuries" %}
 - le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "druid_can_dangerously_heal_limited_injuries" %}
 - l'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "inventor_can_dangerously_heal_missing_limbs" %}
 
 **Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes blocages que les autres fantômes ({% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet d'accéder aux corridors piégés et autres lieux dangereux pour les vivants.
 
-Avec le bon rituel, il est possible de **ressusciter un joueur** à l’état de zombie pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de "zombie à l’ancienne” (ex. il parle bizarrement, peut marcher en titubant, mais ne peut pas courir...).
+Avec le bon rituel du {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de **ressusciter un joueur** à l’état de **zombie** pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de "zombie à l’ancienne” (ex. il parle bizarrement, peut marcher en titubant, mais ne peut pas courir...). {% fact "players_have_thanatologue_spell_to_summon_zombies" %}
 
 {% endmacro %}
 <{ injury_cases_and_remedies }/>
@@ -805,7 +806,7 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 
 {% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}
 
-- Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre légendaire, mais cela ne résout pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares. {% fact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %} {% hint "recipe_authority_potion" is needed %}
+- Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre légendaire, mais cela ne résout pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares. {% fact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %} {% fact "players_have_thanatologue_spell_to_summon_zombies" %} {% hint "recipe_authority_potion" is needed %}
   Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une solution, dans le {% symbol "Thanatologue" for "book_of_the_dead" %} : les akarites cherchent à viser en priorité les invocateurs du camp adverse, surtout ceux portant de grands bijoux. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
 
 - L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}

@@ -9,7 +9,7 @@ Vos compétences
 Mais votre vocation s'est rapidement imposée à vous : invocateur, c'est-à-dire celui qui est capable d'invoquer certains êtres depuis l'au-delà, ou de s'appuyer sur la force sprituelle de ses congénères pour réaliser des rituels sacrés d'une grande puissance.
 
 
-{# NOTE : l'invocateur apprendra aussi au cours de la partie à invoquer des zombies à partir de cadavres, ou à appeler l'Ankou #}
+{# NOPE NOTE : l'invocateur apprendra aussi au cours de la partie à invoquer des zombies à partir de cadavres, ou à appeler l'Ankou #}
 
 Thuriféraire (encenseur)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
