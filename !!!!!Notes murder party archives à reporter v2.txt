@@ -25,23 +25,10 @@ Ce qu'il faut :
 
 Rajouter des fléchettes en iridium pour woodsman dans la bibliothèque ? {% hint "single_bullet_left_for_woodsman" is needed %}
 
-
-DONNER DE VRAIES POTIONS UTILES à l'alchimiste dès le début ???
-
-Exiger des potions pour avoir le rituel d'expulsion ?
-Complexifier "**Bénédiction d'arme**" avec une POTION
-DONNER QUELQUES POTIONS a l'EXORCISTE AUSSI!!! (que l'alchimiste doit vouloir)
-L'exorciste a perdu ses fioles en chemin, trouvées par alchimiste
-
-
-
 IMPRIMER MOULIN EN STEREOGRAMME
 
-
 MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE et d'autres avec autres objets !!!!!!!!!!!!
-
 Mettre affichettes de catégories sur les rayonnages de livres !!
-
 
 PREVOIR PILES En rhab 20xx pour télécommandes ???????
 
@@ -49,11 +36,13 @@ PREVOIR PILES En rhab 20xx pour télécommandes ???????
 Où et quand surviennent les oracles/visions, faire planning
 INTUITIONS aussi, quand ??
  {% fact "revelations_are_simulated_by_colored_feathers" %}
+
 PRE-ENREGISTRER PROPHECY AUDIO finale avertissant contre danger du druide
 
 
-faire blasons CADUCEES et semi-caducee ?
-A quoi servent blasons connaissances exactement ??? Disculper l'arkonte yep ??!!
+faire blasons CADUCEES (Maupertuis) voire semi-caducee (Parcival) ?
+
+A quoi servent connaissances des blasons exactement ??? Disculper l'arkonte yep ??!!
 
 
 AJOUTER RUNES AKARITES
@@ -63,30 +52,26 @@ AJOUTER RUNES AKARITES
 Mettre message secret sur la goule
 
 
-
 AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
 EX. LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
 
 
->>>>>>>>>>>>>>>> DONNER OBJECTIFS CHIFFRéS POUR TRESOR aux spies  <<<<<<<<<<<<<
-
-
->>>>>>>> FAIRE bande son du venture prins !!
+ FAIRE bande son du venture prins !!
 
 
 REDIGER les novels, et en particulier chaos_novel_volume_three_between_zoology_and_cooking_shelves
 
 
-PREENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ?
+PRE-ENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ?
 
 
 ECRIRE dans Thanatologue le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %} (bullet enchantment)
+
 
 arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter <<< à écrire et mettre EMBLEME
 
 
 Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout
-
 
 
 ------------------------
@@ -123,6 +108,7 @@ UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL
 - harmoniser le mot "connaît" et "envoutement"  (LATER)
 **Rupture de corridor outre-monde**  <--- metter tag {% SYMBOL %}
 À  É
+- mettre QUELQUES POTIONS que alchimiste doit vouloir plus tard, dans la sacoche perdue de l'exorciste
 
 
 
@@ -138,6 +124,18 @@ UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL
 
 TRASH
 ########################################
+
+
+DONNER OBJECTIFS CHIFFRéS POUR TRESOR aux spies
+
+DONNER DE VRAIES POTIONS UTILES à l'alchimiste dès le début ??? BOF it's OK
+
+Exiger des potions pour avoir le rituel d'expulsion ?  DONE
+Complexifier "**Bénédiction d'arme**" avec une POTION   DONE
+
+
+L'exorciste a perdu ses fioles en chemin, trouvées par lockpicker
+
 
 
 AJOUTER pieges en envoutement légendaires avec cigales  DONE

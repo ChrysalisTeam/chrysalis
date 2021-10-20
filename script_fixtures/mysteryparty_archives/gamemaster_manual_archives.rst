@@ -771,7 +771,7 @@ Un stéréogramme au mur montre par ailleurs un moulin à café {% hint "grindin
 Les joueurs doivent comprendre qu’il s’agit d’un moulin à café simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit. {% hint "grinding_mill_with_enchantment" is needed %}
 
 Ce moulin, capable de générer des pierres précieuses à partir de rien, nécessite en réalité un chant issu d'un grimoire magique, pour fonctionner.
-Optionnellement, il faut activer un sceau dans l'étage interdit pour faire apparaître ce grimoire.
+Optionnellement, il faut activer un sceau dans l'étage interdit pour faire apparaître ce grimoire magique.
 Cet ouvrage est protégé par un code qui change tous les quelques jours. {% hint "symbolic_cards_enigma_app" is needed %}
 
 Le code est constitué de symboles répartis entre 4 bijoux (indestructibles) des Maupertuis. 3 bijoux seulement suffisent à activer la chanson, car le dernier symbole peut se trouver *relativement* rapidement par essai et erreur sur le code du grimoire chantant.
@@ -788,9 +788,9 @@ Les différents bijoux :
 - La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est **effondré**. Il vend donc cette information chèrement et à contrecoeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}
 
-Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes (mais en nombre limité par jour). {% hint 'jewels_set_for_grinding_mill_success' is needed %}
+Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité par jour, mais suffisant pour la quête des agents secrets. {% hint 'jewels_set_for_grinding_mill_success' is needed %}
 
-Avec le moulin et le grimoire chantant résolu, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
+Avec le moulin magique et le grimoire chantant, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
 
 Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)

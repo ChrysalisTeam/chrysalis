@@ -250,7 +250,7 @@
     - "20 kashes dans les poches des avatars"
     - "100 kashes dans le trésor du jeu de piste de Mérédice"
     - "70 kashes dans le sac de voyage sous éboulis"
-    - "100 kashes dans le moulin magique quand activé"
+    - "100 kashes dans le moulin magique quand activé {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}"
 
 -
   - "Indices et objets à là disposition du maître de jeu"
@@ -260,8 +260,8 @@
     - "Le code de la mallette administrative noire ({% symbol '625-993' for 'family_briefcase_code' %}) si les joueurs le demandent aux défunts via l'Ankou"
     - "Un des codes du coffret légendaire des Maupertuis, celui de la mère des Maupertuis, si elle est interrogée depuis l'au-delà : {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} {% hint 'isadora_code_for_thanatologue_chest_code' is provided %}"
     - "Broche de Mérédice, trouvée par les joueurs si le bon éboulement derrière l'atelier d'alchimie est dynamité {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
-    - "Lot de gemmes pour simuler la réussite du moulin magique des Maupertuis {% hint 'jewels_set_for_grinding_mill_success' is provided %}"
-    - "Lot de gemmes dans un sac de voyage à trouver sous les bons éboulis {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
+    - "Lot de gemmes pour simuler la possible réussite du moulin magique des Maupertuis {% hint 'jewels_set_for_grinding_mill_success' is provided %}"
+    - "Lot de gemmes dans un sac de voyage, à exhumer à l'explosif depuis des éboulis {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
     - "Cônes d'encens pour la fontaine magique"
     - "Papier d'Arménie et briquet pour l'encensoir des diacres"
     - "Clés des cadenas crochetables transparents, au cas où ils sont bloqués"
