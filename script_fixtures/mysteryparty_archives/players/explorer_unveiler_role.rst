@@ -11,8 +11,12 @@ Mais la spécialité qui vous parle le plus, c'est l'analyse des surfaces, des o
 Lampe à ultraviolets
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous gardez sur vous cette lampe, très pratiques pour faire ressortir des traces animales, ou des écritures utilisant des encres invisibles.
+Vous gardez sur vous cette antique lampe-torche, très pratique pour faire ressortir des traces animales, ou des écritures utilisant des encres invisibles.
+
 Il semblerait que les vieilles lignées de mages utilisaient beaucoup de telles encres pour laisser des messages à leurs successeurs, même s'ils utilisaient souvent, hélas, des langages codés pour cet usage.
+
+Hélas, il semble que les **{% symbol "cartouches de vapeur de cire pressurisée" for "candle_batteries_name" %} utilisées par votre lampe soient désormais vides**, et cela ne va pas être simple de refabriquer des combustibles si spécifiques au vu des circonstances.
+{% hint "explorer_unveiler_uv_lamp_initially_broken" is needed %} {% hint "explorer_unveiler_uv_lamp_battery" is needed %}
 
 
 Analyse d'artefacts et de sépultures

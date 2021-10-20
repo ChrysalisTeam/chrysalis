@@ -17,7 +17,7 @@ Votre détecteur de métaux vous alerte par des vibrations et des sons lorsque v
 
 Si vous l'allumez près d'objets métalliques, sa sensibilité sera diminuée, ce qui peut être utile pour déceler des agrégats métalliques au milieu d'autres objets qui font sonner le détecteur (comme des étagères en métal).
 
-Cependant, il semble que la **batterie de votre détecteur de métaux soit morte** lors de vos récentes démbulations. Vous cherchez donc ardemment de quoi le remettre en marche. {% hint "spy_sounder_metal_detector_initially_broken" is needed %}
+Cependant, il semble que la **batterie cubique de votre détecteur de métaux soit morte** lors de vos récentes démbulations. Vous cherchez donc ardemment de quoi le remettre en marche. {% hint "spy_sounder_metal_detector_initially_broken" is needed %}
 
 
 Détecteur de magnétisme

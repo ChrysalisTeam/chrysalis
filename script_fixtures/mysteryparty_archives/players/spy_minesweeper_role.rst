@@ -33,7 +33,7 @@ Rechargement des luminis
 
 {% fact "spy_minesweeper_can_light_candles" %}
 
-Les plus riches natifs de l'époque Maupertuis utilisaient souvent, pour s'éclairer, des luminis, sortes de bougies "rechargeables" grâce à des cartouches de vapeur de cire pressurisée ; ainsi, moins de coulures tachantes et inesthétiques.
+Les plus riches natifs de l'époque Maupertuis utilisaient souvent, pour s'éclairer, des luminis, sortes de bougies "rechargeables" grâce à des {% symbol "cartouches de vapeur de cire pressurisée" for "candle_batteries_name" %} ; ainsi, moins de coulures tachantes et inesthétiques.
 
 Vous avez pu refabriquer de telles cartouches avec l'aide de passionnés d'Histoire, et vous en avez apporté dans le domaine des Maupertuis, au cas où des luminis seraient encore en état de marche sur place.
 

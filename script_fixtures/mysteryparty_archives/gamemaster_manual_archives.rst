@@ -550,15 +550,15 @@ Concrètement : les cas possibles durant le jeu
 
 Un joueur peut être atteint dans les cas suivants :
 
-- S’il se fait toucher par un fantôme (incarné ou non) : blessure sacrée. S'il se fait attaquer durablement par la Bête, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer.
+- S’il se fait toucher par un fantôme (incarné ou non) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer.
 
-- S’il touche un objet manifestement maudit, comme un crâne sonore ou les ossements qui vont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : blessure sacrée. Un pentacle, lui, n'est pas dangereux hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- S’il touche un objet manifestement maudit, comme un crâne sonore ou les ossements qui vont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est pas dangereux hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
-- S’il déclenche un piège, c'est-à-dire fait tomber un grelot par terre (ex. fil tendu dans une allée) ou déclenche le cri d'un grillon détecteur de mouvement : blessure biologique.
+- S’il déclenche un piège, c'est-à-dire fait tomber un grelot par terre (ex. fil tendu dans une allée) ou déclenche le cri d'une cigale à détecteur de présence : **blessure biologique**.
 
-- S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival, et se fait toucher par la momie du mage : mort. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
+- S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival, et se fait toucher par la momie du mage : **mort**. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
-- S'il boit une potion dangereuse, ou reçoit un sortilège ennemi etc. : cela dépend du cas spécifique.
+- S'il boit une potion dangereuse, ou reçoit un sortilège ennemi etc. : **cela dépend** du cas spécifique.
 
 **Les blessures se traduisent par un malus à la discrétion du MJ, suivant la situation : perdre l'usage d'un membre, devenir muet, perdre la mémoire, devenir essoufflé et ne plus pouvoir courir (en cas d'empoisonnement), ou de ne plus pouvoir utiliser certaines compétences...**
 
