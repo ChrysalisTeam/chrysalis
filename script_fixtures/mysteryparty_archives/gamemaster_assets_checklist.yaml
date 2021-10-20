@@ -95,6 +95,7 @@
   - "Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %} et "
   -
     - "Livret généalogique des Maupertuis avec leur symbole familial secret en ultraviolet {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
+    - "Coffret avec envoûtement NEGATIF LEGENDAIRE, piégé avec une CIGALE {% hint 'trap_in_family_briefcase' is provided %}"
 
 -
   - "Coffre commun en bois marron des Maupertuis (protégé par un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %}"
