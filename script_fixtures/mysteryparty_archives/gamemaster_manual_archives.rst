@@ -948,7 +948,7 @@ Agents secrets mirandiens
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Démineur : sait désactiver des pièges, manipuler des explosifs, et rallumer les cierges
-- Sondeur : sait détecter les métaux et le magnétisme
+- Sondeur : sait détecter les métaux et le magnétisme, et reconnaître la nature surnaturelle des artefacts
 - Crocheteur : sait forcer certains cadenas, et visualiser/ouvrir des systèmes magnétiques
 
 Diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
@@ -961,7 +961,7 @@ Diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
 Explorateurs-archéologues héliossars
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Runologue : sait traduire des runes et reconnaître divers codes secrets
+- Runologue : sait traduire des runes et reconnaître divers codes secrets, possède une loupe et un stéthoscope
 - Dévoileur : sait lire les encres UV invisibles, et analyser des objets
 - Anthropologue : érudit en traditions humaines, blasons, et valeurs marchandes ; connait les fantômes et les types de blessures
 

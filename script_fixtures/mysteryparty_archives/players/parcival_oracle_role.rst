@@ -48,7 +48,6 @@ Pour les **révélations imagées** : un figurant vous montrera une image, qu'il
 
 Pour les **révélations auditives** : un figurant vous fera écouter une première fois la bande-son, puis vous pourrez simuler devant les autres personnages le fait de la recevoir, tout en gardant une oreillette rejouant la bande-son une deuxième et dernière fois. Placez-vous de profil afin que l'assistance ne voie pas l'oreillette. N'écoutez pas les possibles questions de l'assistance, afin de ne pas avoir de distractions.
 
-
 {% endmacro %}
 <{ prophecy_workflow_instructions }/>
 

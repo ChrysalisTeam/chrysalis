@@ -39,7 +39,7 @@ Attention, même éteint, un sceau peut, lui, conserver une **aura bénéfique o
 
 Notez que seule la personne ayant dessiné un pentacle ou un sceau peut facilement le **révoquer** ; pour des personnes externes, il s'agit d'une opération de désenvoutement longue et ardue, aux effets imprévisiblement dangereux.
 
-Vous pouvez en revanche facilement réactiver un pentacle ou sceau existant, en l'encensant (un tour suffit) puis en clamant l'invocation **"Ô pentacle (ou "sceau magique"), réveille-toi et écoute ma voix"**. Le pentacle ou sceau devrait s'illuminer peu après, signe qu'il est désormais actif ; il peut se désactiver de lui-même au bout d'un certain temps sans utilisation. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
+Vous pouvez en revanche facilement réactiver un pentacle ou sceau existant, en **l'encensant** (un tour suffit) puis en clamant l'invocation **"Ô pentacle (ou "sceau magique"), réveille-toi et écoute ma voix"**. Le pentacle ou sceau devrait s'illuminer peu après, signe qu'il est désormais actif ; il peut se désactiver de lui-même au bout d'un certain temps sans utilisation. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
 
 
 
@@ -61,7 +61,7 @@ Message à un défunt
 
 Les dieux empêchent habituellement que les vivants perturbent la quiétude des morts, cependant si vous obtenez les faveurs d'une divinité quelconque, et qu'elle vous indique son **adresse mortuaire**, vous pouvez lui envoyer un **message spirituel**. {% fact "diakon_invoker_can_message_ankou" %}
 
-Pour cela, il faut vous mettre en cercle avec 2 autres {% symbol "initiés" for "ritualist_kind_name" %}, mains tendues vers le centre du cercle, et déclamer cette invocation :
+Pour cela, il faut vous mettre en cercle avec 2 autres {% symbol "initiés" for "ritualist_kind_name" %}, mains tendues vers le centre du cercle, et déclamer (seul) cette invocation :
 
 **Ô <nom du dieu>, toi qui résides au <adresse mortuaire>, réponds à notre quémande: <demande> ; nous attendons avec un coeur fébrile ta réponse.**
 
@@ -97,7 +97,7 @@ Peu de connaissances existent sur ce sortilège de la {% symbol "Clôture Absolu
 
 La sagesse ancestrale indique que s'il a été mis en place sur un lieu, il est toutefois possible de le briser, non sans sacrifice.
 
-Pour cela, il faut d'abord que {% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %} enfermés dans le lieu donnent leur accord verbal pour être libérés.
+Pour cela, il faut d'abord qu'au moins {% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %} enfermés dans le lieu donnent leur accord verbal pour être libérés.
 
 Puis il faut que l'invocateur - qu'il se trouve dans ou hors la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} - mélange de la "Potion de vieillissement accéléré" et de la "Potion de venin de serpent" à parts égales dans un demi-verre, et les avale d'un coup sec. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
 

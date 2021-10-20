@@ -41,3 +41,10 @@ Vous savez aussi que certains messages peuvent se dissimuler dans de simples des
     http://lilpoi.free.fr/images.php?index=0
     https://easystereogrambuilder.com/  (mieux)
 #}
+
+
+Kit d'observation-écoute
+++++++++++++++++++++++++++++++++++
+
+Vous savez, d'expérience, que les vieilles familles lèguent souvent à leurs héritiers des conseils et indices sous des formes très petitement écrites ou très faiblement audibles, donc vous avez emporté **une loupe et un stéthoscope**.
+{% hint "stethoscope_and_magnifying_glass_for_explorer_runologist" is needed %}

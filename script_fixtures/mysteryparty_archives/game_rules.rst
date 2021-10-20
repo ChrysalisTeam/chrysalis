@@ -11,6 +11,7 @@ Apprentissage et suivi du scénario
 ++++++++++++++++++++++++++++++++++++++
 
 - **Lisez attentivement vos fiches de personnage** et tout autre document utile ; n'hésitez pas à surligner les passages qui vous semblent importants, et à les imprimer - ces papiers seront considérés comme hors-roleplay sur place.
+- Les **objets ou portails informatiques** propres à vos rôles vous seront fournis **le jour J**
 - Prévoyez de quoi prendre des notes en cours de jeu (stylo et calepin), si vous le désirez.
 - Par souci de simplicité, les feuilles de personnage sont par défaut accordées au masculin, mais la plupart des rôles sont non genrés ; voyez avec les organisateurs si vous avez des préférences à ce niveau.
 
@@ -23,7 +24,7 @@ Distinction des objets en-jeu/hors-jeu (RP/HRP)
 - Lorsque des **meubles ou objets sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu. Similairement, lorsque des objets sont dans une sacoche noire unie, c'est qu'ils ne sont pas (encore) matérialisés dans le monde du jeu, il ne faut pas y toucher.
 - Du **scotch noir** peut aussi être utilisé pour désigner des objets soudés ensemble, ou scellés, ou attachés au sol ; ce scotch ne doit pas être enlevé par les joueurs, sauf compétences particulières qui le mentionnent.
 - De la **cordelette épaisse de chanvre** peut servir à matérialiser les passages bloqués, soit à cause d'un mur infranchissable, soit d'un sortilège qui doit être dissipé.
-- Des marqueurs tels **des petites pastilles autocollantes (ou oeillets de classeur), plumes colorées ou perles plates en verre** peuvent être utilisés pour désigner des points d'action, ou pour annoter des objets du jeu. Ne les enlevez pas. Si vous ne connaissez pas leur signification, vous ne pouvez pas les décrire à un autre joueur (car ces marqueurs sont hors-jeu), mais vous pouvez lui demander de *"jeter un oeil, car cette objet vous semble étrange/piégé/magique"*. Les méthodes de déchiffrement de ces marqueurs ne peuvent pas être transmises entre joueurs, car elles représentent des compétences sophistiquées dans l'univers du jeu.
+- Des marqueurs tels **des petites pastilles autocollantes (ou oeillets de classeur), plumes colorées, ou perles plates en verre** peuvent être utilisés pour désigner des points d'action, ou pour annoter des objets du jeu. Ne les enlevez pas. Si vous ne connaissez pas leur signification, vous ne pouvez pas les décrire à un autre joueur (car ces marqueurs sont hors-jeu), mais vous pouvez lui demander de *"jeter un oeil, car cette objet vous semble étrange/piégé/magique"*. Les méthodes de déchiffrement de ces marqueurs ne peuvent pas être transmises entre joueurs, car elles représentent des compétences sophistiquées dans l'univers du jeu.
 - Les livres modernes sont considérés comme des grimoires écrits dans des langues que vous ne pouvez comprendre.
 - Les objets contemporains (lampes...) sont traités comme leurs équivalents dans un monde rétrofuturiste "steampunk", ou ignorés s'ils sont high-tech (ordinateurs...).
 - si un participant traverse la salle avec le **poing levé**, c'est qu'il est hors-jeu, ignorez-le.
