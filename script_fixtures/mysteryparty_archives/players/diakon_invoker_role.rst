@@ -93,7 +93,7 @@ Rupture de {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}
 
 {% fact "diakon_invoker_can_break_cursed_enclosure" %}
 
-Peu de connaissances existent sur ce sortilège de la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, hormis le fait qu'il est hautement dangereux, et formellement interdit à tout invocateur.
+Peu de connaissances existent sur ce sortilège de la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, hormis le fait qu'il est hautement dangereux, et formellement interdit d'usage à tout invocateur.
 
 La sagesse ancestrale indique que s'il a été mis en place sur un lieu, il est toutefois possible de le briser, non sans sacrifice.
 

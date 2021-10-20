@@ -45,7 +45,7 @@ Les recettes que vous connaissez déjà
 Potion de pestilence
 --------------------------
 
-En mélangeant de l'essence de soufre avec du jus de Fungal rouge{% hint 'potion_red_mushroom' is needed %}, vous pouvez obtenir un liquide qui répand une odeur pestilentielle sur 10 pas de diamètre.
+En mélangeant de l'essence de soufre avec du jus de Fungal rouge, vous pouvez obtenir un liquide qui répand une odeur pestilentielle sur 10 pas de diamètre. {% hint 'potion_red_mushroom' is needed %}
 
 
 Pierre Anti-Philosophale
@@ -86,4 +86,5 @@ Vous ne connaissez pas le mode de préparation exact, mais vous avez réussi à 
 - un oeil de tricératops
 - un cristal de cardanium
 - trois feuilles d'edelweiss
+- un rein de blatte cendrée
 

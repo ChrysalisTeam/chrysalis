@@ -34,7 +34,7 @@
 -
   - "Indices cachés ou disséminés"
   -
-    - "I1 - Livre factice bleu (contient la CLEF du livre factice rouge et XXX pierreries), marqué au sol"
+    - "I1 - Livre factice bleu (contient la CLEF du livre factice rouge et XXXXXXX pierreries), marqué au sol"
     - "I2 - Livre factice rouge, marqué au sol (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %}"
     - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
     - "I4 - Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
@@ -155,7 +155,7 @@
 -
   - "Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes)  {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
   -
-    - "Grimoire maudit '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %}"
+    - "Grimoire maudit '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' avec Zombies, Contre-mesure en UV, et {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %} {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %}"
 
 -
   - "Coin du fantôme du voleur"
@@ -294,7 +294,7 @@
     - "Piles pour lanterne et pour détecteur de métal (pour l'inventeur) {% hint 'broken_lantern_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %}"
     - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
     - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, qui le fournira au joueur oracle)"
-    - "Sarbacane-nerf, épée ou similaire (pour le druide) ?????????"
+    - "Sarbacane-nerf (pour le druide) IMPORTANT?????????"
     - "Sacoche de l'arkonte, avec une fausse lettre compromettante au blason de faucille et houx, et de l'argent {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %}"
     - "Cape et autres vêtements de druide @Pascal"
 
@@ -336,8 +336,8 @@
   -
     - "2 enceintes bluetooth/SD/jack MuziliSpeaker (longue autonomie)"
     - "Boite de maquillage spécial UV"
-    - "Fils blancs fins, cordelette épaisse etc.   TODO"
-    - "Crackers de papillottes pour explosions - NOPE BOF"
+    - "Fils blancs fins, cordelette épaisse etc.   TODO XXXXXXXXXXXX"
+    - "Crackers de papillottes pour explosions - NOPE BOF XXXXXXXXXXXX"
 
     - "7 grosses bougies (3xAAA chacune, NON PRESENTES initialement) à disséminer dans les lieux {% hint 'candles_without_battery' is provided %}"
 

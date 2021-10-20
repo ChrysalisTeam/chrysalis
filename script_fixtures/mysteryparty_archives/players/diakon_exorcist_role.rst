@@ -20,6 +20,7 @@ Les rituels d'exorcisme
 
 {% macro phantom_related_spells() %}
 
+
 Bénédiction d'arme
 -----------------------------------------
 
