@@ -30,3 +30,10 @@ Cette clé magnétique s'est parfois aussi révélée utile pour désactiver d'�
 
 *NOTE hors-jeu* : la présence de systèmes magnétiques peut être dénotée par des **petits oeillets de classeur blancs**.
 
+
+Potions trouvées
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+Vous avez trouvé par terre, lors de votre arrivée dans la bibliothèque, quelques **potions** éparpillées.
+Vous les gardez avec vous, même si personne dans votre équipe n'a de grandes connaissances dans ce domaine.
+{% fact "diakon_exorcist_lost_potions_bag_found_by_lockpicker" %}

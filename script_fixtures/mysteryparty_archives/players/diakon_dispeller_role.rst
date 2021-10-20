@@ -10,7 +10,10 @@ Au long de votre périple initiatique avec vos condisciples, d'un temple à l'au
 <{ diakon_sheet_intro }/>
 
 Mais votre vocation s'est rapidement imposée à vous : désenvouteur, c'est-à-dire celui qui reconnaît les éléments sacrés ou ensorcelés, et supprime les envoûtements malfaisants (pentacles sur le sol, objets piégés…).
-{# NOPE not yet - Un chemin qui vous a amené aussi à la guérison de certaines blessures spirituelles, tant elles sont proches dans leurs symptomes de certaines envoutements. #}
+
+{# NOPE not yet - Un chemin qui vous a amené aussi à la guérison de certaines blessures spirituelles, tant elles sont proches dans leurs symptômes de certains envoûtements. #}
+
+*NOTE hors-jeu : n'hésitez pas à simuler des émotions fortes, négatives ou positives selon les cas, lorsque vous imposez les mains sur des artefacts envoûtés..*
 
 
 Le reconnaissance des envoûtements

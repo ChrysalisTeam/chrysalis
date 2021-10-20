@@ -310,10 +310,11 @@
     - "Détecteur de métal Longruner (nécessite pile RECTANGLE 9V) (pour le sounder) initialement SANS SA PILE {% hint 'spy_sounder_metal_detector_initially_broken' is provided %} {% hint 'spy_sounder_metal_detector_battery' is needed %}"
     - "Lampe-torche UV (nécessite 3xAAA) (pour l'unveiler) initialement SANS SA PILE {% hint 'explorer_unveiler_uv_lamp_initially_broken' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is needed %}"
     - "Feuilles mémo des codes secrets et des runes (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %} {% hint 'runic_transcription_sheet_for_explorer_runologist' is provided %}"
-    - "Stéthoscope et loupe (pour runologist) {% hint 'stethoscope_and_magnifying_glass_for_explorer_runologist' is needed %}"
+    - "Stéthoscope et loupe (pour runologist) {% hint 'stethoscope_and_magnifying_glass_for_explorer_runologist' is provided %}"
     - "Journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %}"
     - "Arbalète bois et UNIQUE fléchette (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %}"
-    - "Fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is needed %}"
+    - "Fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %}"
+    - "Potions de Focus et de Charme (pour alchemist, appartenait à l'exorcist) {% hint 'potions_of_focus_from_exorcist' is provided %} {% hint 'potions_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %}"
 
 -
   - "Cadenas et leurs clefs"
@@ -371,7 +372,7 @@
 
     - "2 Bouillottes cylindrique en cuivre, dont l'une avec dedans message XXXXX"
 
-    - "1 potion (rouge foncé) de fungal rouge {% hint 'potion_red_mushroom' is provided %}"
+    - "1 potion (rouge foncé) de Fungal Rouge {% hint 'potion_red_mushroom' is provided %}"
     - "1 potion Délieur de Langue {% hint 'potion_tongue_untier' is provided %}"
     - "FIXME {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
 

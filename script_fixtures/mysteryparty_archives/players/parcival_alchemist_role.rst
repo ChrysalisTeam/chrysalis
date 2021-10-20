@@ -15,10 +15,10 @@ Les ingrédients que vous possédez
 
 {# voir https://harrypotter.fandom.com/fr/wiki/Cat%C3%A9gorie:Ingr%C3%A9dients_de_potions et https://sain-et-naturel.ouest-france.fr/voici-liste-plantes-medicinales.html#}
 
-Au domicile familial : Alchémille, Bile de tatou, Chrysope, Champignon écarlate, Digitale, Essence de ciguë, Ether, Foie de chauve-souris, Joubarbe, Livèche, Mandragore, Œil de triton, Pierre de lune, Polygonum, Rosée d'éclair, Sang de salamandre, Sumac vénéneux, Seigle barbaquin, Venin de tarantule.
+**Au domicile familial** : Alchémille, Bile de tatou, Chrysope, Champignon écarlate, Digitale, Essence de ciguë, Ether, Foie de chauve-souris, Joubarbe, Livèche, Mandragore, Œil de triton, Pierre de lune, Polygonum, Rosée d'éclair, Sang de salamandre, Sumac vénéneux, Seigle barbaquin, Venin de tarantule.
 {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
-Sur vous lors de votre expédition: un nombre suffisant pour tous usages de fioles de :
+**Sur vous lors de votre expédition**, un nombre suffisant pour tous usages de fioles de :
 
 - Jus de chrysanthrope
 - Essence de soufre
@@ -33,9 +33,9 @@ Sur vous lors de votre expédition: un nombre suffisant pour tous usages de fiol
 Les ustensiles que vous possédez
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Au domicile familial : Agitateur aluminique, Alambic en cuivre, Balance à plombs, Chaudron en fer, Cristallisoir, Pilon, Thermomètre à mercure, Fioles jaugées en cristal.
+**Au domicile familial** : Agitateur aluminique, Alambic en cuivre, Balance à plombs, Chaudron en fer, Cristallisoir, Pilon, Thermomètre à mercure, Fioles jaugées en cristal.
 
-Sur vous lors de votre expédition: **fioles vides pour faire des mélanges**. {% hint "empty_flasks_for_alchemist" is needed %}
+**Sur vous lors de votre expédition** : fioles vides pour faire des mélanges. {% hint "empty_flasks_for_alchemist" is needed %}
 
 
 Les recettes que vous connaissez déjà
@@ -67,7 +67,7 @@ Mais si on y dissout une pierre de Chrysocolle, la potion résultante donne un r
 Encens prophétique
 -----------------------
 
-Vous aimeriez aider les talents de prophète de votre proche l'Oracle, et certains lieux sacrés de révélation requièrent de brûler un cône d'encens bien particulier pour que le le mysticisme s'active.
+Vous aimeriez aider les talents de prophète de votre proche l'Oracle, et certains lieux sacrés de révélation requièrent de brûler un cône d'encens bien particulier pour que le mysticisme s'active.
 
 Vous savez qu'il est nécessaire de faire fondre un "oeil-de-tigre" et une "aventurine" (des ingrédients que vous ne connaissez pas) dans un chaudron, avec de l'huile de ricin, pour obtenir cet encens une fois le mélange refroidi.
 {% hint "aventurine_for_incense" is needed %} {% hint "tigers_eye_for_incense" is needed %}
@@ -77,6 +77,7 @@ Potion d'invulnérabilité
 ------------------------------------
 
 Ce élixir est recherché ou jalousement gardé depuis des siècles par les armées du monde entier.
+
 Il donnerait, pendant une courte période - moins de 10 minutes - une invulnérabilité totale de la personne ainsi enchantée, à quelque type de blessure que ce soit.
 
 Vous ne connaissez pas le mode de préparation exact, mais vous avez réussi à réunir la liste à peu près complète des ingrédients :

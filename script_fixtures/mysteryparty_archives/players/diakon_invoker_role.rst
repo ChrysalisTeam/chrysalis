@@ -6,8 +6,9 @@ Vos compétences
 
 <{ diakon_sheet_intro }/>
 
-Mais votre vocation s'est rapidement imposée à vous : invocateur, c'est-à-dire celui qui est capable d'invoquer certains êtres depuis l'au-delà, ou de s'appuyer sur la force sprituelle de ses congénères pour réaliser des rituels sacrés d'une grande puissance.
+Mais votre vocation s'est rapidement imposée à vous : invocateur, c'est-à-dire celui qui est capable d'invoquer certains êtres depuis l'au-delà, ou de s'appuyer sur la force spirituelle de ses congénères pour réaliser des rituels sacrés d'une grande puissance.
 
+*NOTE hors-jeu : n'hésitez pas à simuler l'émerveillement que vous procurent les plus solennels de ces rituels d'invocateur, quitte à rester un petit moment en extase après l'un d'eux.*
 
 {# NOPE NOTE : l'invocateur apprendra aussi au cours de la partie à invoquer des zombies à partir de cadavres, ou à appeler l'Ankou #}
 
@@ -39,7 +40,7 @@ Attention, même éteint, un sceau peut, lui, conserver une **aura bénéfique o
 
 Notez que seule la personne ayant dessiné un pentacle ou un sceau peut facilement le **révoquer** ; pour des personnes externes, il s'agit d'une opération de désenvoutement longue et ardue, aux effets imprévisiblement dangereux.
 
-Vous pouvez en revanche facilement réactiver un pentacle ou sceau existant, en **l'encensant** (un tour suffit) puis en clamant l'invocation **"Ô pentacle (ou "sceau magique"), réveille-toi et écoute ma voix"**. Le pentacle ou sceau devrait s'illuminer peu après, signe qu'il est désormais actif ; il peut se désactiver de lui-même au bout d'un certain temps sans utilisation. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
+Vous pouvez en revanche facilement **réactiver** un pentacle ou sceau existant, en **l'encensant** (un tour suffit) puis en clamant l'invocation **"Ô pentacle (ou "sceau magique"), réveille-toi et écoute ma voix"**. Le pentacle ou sceau devrait s'illuminer peu après, signe qu'il est désormais actif ; il peut se désactiver de lui-même au bout d'un certain temps sans utilisation. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
 
 
 
@@ -99,7 +100,7 @@ La sagesse ancestrale indique que s'il a été mis en place sur un lieu, il est 
 
 Pour cela, il faut d'abord qu'au moins {% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %} enfermés dans le lieu donnent leur accord verbal pour être libérés.
 
-Puis il faut que l'invocateur - qu'il se trouve dans ou hors la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} - mélange de la "Potion de vieillissement accéléré" et de la "Potion de venin de serpent" à parts égales dans un demi-verre, et les avale d'un coup sec. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
+Puis il faut que l'invocateur - qu'il se trouve dans ou hors la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} - mélange de la "Potion de vieillissement accéléré" et de la "Potion de venin d'un serpent quelconque" à parts égales dans un demi-verre, et les avale d'un coup sec. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
 
 Il doit ensuite, dans son dernier souffle, clamer :
 

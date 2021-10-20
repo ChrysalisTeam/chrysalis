@@ -11,11 +11,14 @@ Mais votre vocation s'est rapidement imposée à vous : exorciste, c'est-à-dire
 Reportez-vous à **l'article en annexe** pour une description détaillée du monde des morts, des connaissances que vous pourrez théâtralement enseigner à vos alliés au cours du jeu, lorsque le sujet se présentera.
 
 
-
 Les rituels d'exorcisme
 +++++++++++++++++++++++++++++++++++++++++++++++
 
-*N'hésitez pas à simuler l'épuisement que vous procure les plus exigeants de ces exercices, quitte à vous effondrer à genoux après l'un d'eux.*
+Vos rituels exigent des artefacts, des gestuelles, des invocations, et parfois l'usage de potions en soutien de votre force psychique.
+
+Vous aviez emporté dans vos poches assez de potions pour vos rituels habituels ; cependant, par mégarde, vous les avez **fait tomber** à un moment - difficile de savoir si c'était avant ou après le saut à travers le portail magique. Mais peut-être trouverez-vous sur place de quoi vous réapprovisionner, de toute façon. {% fact "diakon_exorcist_lost_potions_bag_found_by_lockpicker" %}
+
+*NOTE hors-jeu : n'hésitez pas à simuler l'épuisement que vous procurent les plus exigeants de ces rituels d'exorcisme, quitte à vous effondrer à genoux après l'un d'eux.*
 
 
 {% macro phantom_related_spells() %}
@@ -31,6 +34,7 @@ Cette bénédiction ne fonctionne que sur les métaux nobles : **Paladium, Iridi
 
 Rituel :
 
+- Prendre une gorgée de Potion de Focus {% hint "potions_of_focus_from_exorcist" is needed %}
 - Imposer les mains sur l'arme de poing ou la munition présentée
 - Clamer **"Toi qui blesses la chair, blesse aussi l'âme"** {# (ou bien la version latine : "Tu et caro dolet, et anima nocere") #}
 
@@ -57,6 +61,7 @@ Cet exorcisme étant épuisant psychiquement pour vous, vous ne pouvez le réali
 
 Rituel :
 
+- Prendre une gorgée de Potion de Charme {% hint "potions_of_charm_from_exorcist" is needed %}
 - Mettre les bras croisés sur votre coeur
 - Crier **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, accours vers moi, esprit errant"** {# (ou bien la version latine : "Venite ad me errantes spiritu") #}
 
@@ -104,7 +109,6 @@ Attention, cet exorcisme ne fonctionne sans problèmes que si toutes les entité
 
 
 
-
 Vos connaissances sur les différents types de blessures
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -112,8 +116,8 @@ Vous savez qu'il existe différents types de blessures, parfois naturelles, parf
 
 
 
-Des fantômes et autres esprits égarés
-=============================================
+Encyclopédie du monde des esprits
+===================================================================
 
 <{ phantom_knowledge_article }/>
 

@@ -23,6 +23,9 @@ Ce qu'il faut :
     - PIEGES désactivables
 
 
+Rajouter des fléchettes en iridium pour woodsman dans la bibliothèque ? {% hint "single_bullet_left_for_woodsman" is needed %}
+
+
 DONNER DE VRAIES POTIONS UTILES à l'alchimiste dès le début ???
 
 Exiger des potions pour avoir le rituel d'expulsion ?
