@@ -24,7 +24,7 @@ Informations et instructions spécifiques
 
 Personnellement très affectée par le triste sort de vos amis, vous attendez avec impatience la résolution de cette situation, pour peut-être obtenir justice, et surtout libérer les âmes errantes de la maisonnée Maupertuis.
 
-Vous vous souvenez bien que l'arkonte avait une sacoche avec lui, qui a échappé à la destruction lors de sa mort. Mais vous ne savez pas où elle a bien pu passer depuis tout ce temps.
+Vous vous souvenez bien que l'arkonte avait une **sacoche de ceinture** avec lui, qui a échappé à la destruction lors de sa mort. Mais vous ne savez pas ce qu'elle est devenue depuis tout ce temps.
 {% fact "arkon_bag_remained_after_his_death_but_disappeared" %}
 
 

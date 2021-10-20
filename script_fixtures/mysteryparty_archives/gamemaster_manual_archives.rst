@@ -358,7 +358,7 @@ Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 
 - FANTÔME
 
-- Traits : convoitise, roublardise, bagout, incrédulité, défiance
+- Traits : convoitise, roublardise, bagout, incrédulité, défiance, alcoolisme
 
 - Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets, et en particulier le légendaire trésor des Maupertuis. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille), mais s’est fait tuer par surprise par la Bête (qui était toujours vivante à ce moment-là) gardant les lieux.
 
