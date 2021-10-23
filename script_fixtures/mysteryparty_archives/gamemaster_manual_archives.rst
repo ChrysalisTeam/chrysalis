@@ -164,7 +164,6 @@ Les assistants logistiques, photographes, et servants du buffet, ont intérêt �
 
 Idées d'interactions possibles :
 
-- Les automates boguent par moment, butent contre les murs et obstacles, ou se coincent les bras des uns dans ceux des autres et tournent donc en rond.
 - Ils répètent toujours les mêmes 4 phrases stéréotypées aux joueurs, même hors de propose.
 - Ils font la poussière sur les étagères, voire sur les autres personnages.
 - Ils portent des lampes et suivent les joueurs qui le demandent.
@@ -178,6 +177,10 @@ Paroles typiques :
 - "Puis-je vous débarrasser de votre manteau ?"
 - "Je sers la lignée des Maupertuis et c'est une immense joie."
 
+Ils peuvent boguer par moment, jusqu'à ce que l'avatar inventeur ou un joueur ne les débloque :
+
+- Ils bégayent, butent contre les murs et obstacles, se coincent les bras des uns dans ceux des autres, ou bougent bizarrement façon "engrenage défectueux"...
+- Ils peuvent se retrouver dans une impasse logique, en voulant constamment céder la priorité à un autre automate : "Mais non... Après vous... Je n'en ferais rien...".
 
 
 Le monde divin
@@ -608,7 +611,7 @@ Certains avatars peuvent déjà être présents (par exemple la duchesse en pri�
 
 Après 10mn, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être avec eux un espoir de résolution de la malédiction. Il répond aux questions des joueurs, **teste leurs bonnes intentions** avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s'est **"activé tout seul"** (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans
 
-Lors de leur première rencontre avec les joueurs, aussi bien les avaters que les fantômes se demandent **quelle année** on est actuellement, dans le monde des vivants.
+Lors de leur première rencontre avec les joueurs, aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans le monde des vivants.
 
 
 La frénésie de la clochette spectrale

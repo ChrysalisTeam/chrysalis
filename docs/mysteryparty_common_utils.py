@@ -173,7 +173,8 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachments=Non
     return None
 
 
-def _send_player_sheets_via_email(all_data, player_names, subject, email_template, default_player_attachments, dry_run, allow_duplicate_emails=False):
+def _send_character_sheets_via_email(all_data, player_names, subject, email_template, default_player_attachments, dry_run, allow_duplicate_emails=False):
+    # FIXME player_names is actually character_names !!!!!!!!!!!!!!
 
     # send already generated docs to players
     # BEWARE, first CHECK that filenames match file contents on all "clues" attachments!

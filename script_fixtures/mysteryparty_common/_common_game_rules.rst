@@ -43,7 +43,7 @@ Il est vivement encouragé d'ajouter un peu de jeu d'acteur aux différentes sit
 Sécurité physique et émotionnelle
 +++++++++++++++++++++++++++++++++++++
 
-- **Pas de contact physique** hormis les mains (et les baisemains), sauf consentement préalable entre joueurs (ex. pour réaliser une scène d'empoignade) ; attention, en période de pandémie, les contacts physiques sont particulièrement à éviter.
+- En tant que joueurs, on évite tout **contact physique** hormis les mains (et les baisemains), sauf consentement préalable entre participants (ex. pour réaliser une scène d'empoignade) ; en période de pandémie, les contacts physiques sont encore plus à éviter.
 - On ne court pas dans les escaliers ; aucun ennemi ne vous y rattrapera, donc on se tient bien à la rambarde et on s'y déplace tranquillement ; même prudence à proximité des balustrades.
 - L'univers du jeu est plutôt léger, envoutant, courtois ; donc on évite les **situations sordides** comme la torture, le viol, l'inceste, etc.
 - Si une situation vous oppresse trop en tant que joueur, vous pouvez l'interrompre **en disant "STOP", et en levant le poing à la verticale**. On en discute alors "hors roleplay", pour voir si son intensité doit être modulée, si elle doit être expédiée (avec une ellipse temporelle), ou si elle est réputée n'avoir jamais eu lieu.

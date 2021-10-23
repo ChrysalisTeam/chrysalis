@@ -10,7 +10,7 @@ import time
 from collections import OrderedDict
 from pprint import pprint
 
-from mysteryparty_common_utils import _generate_clues_pdfs_from_main_odt_document, _send_player_sheets_via_email, \
+from mysteryparty_common_utils import _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email, \
     _extract_ingame_clues_text_from_odt, _ensure_intial_game_data_dump_is_present, build_mysteryparty_pdf, spacer
 from rpg_sheet_generator import display_and_check_story_tags
 
@@ -404,11 +404,11 @@ def generate_mindstorm_sheets():
                              default_player_attachments=default_player_attachments)
 
         print("----------FAKE--------------")
-        _send_player_sheets_via_email(dry_run=True, **_common_params)  # ensure everything seems in place
+        _send_character_sheets_via_email(dry_run=True, **_common_params)  # ensure everything seems in place
         if False:
             print("----------REAL--------------")
             XXXXXXXXXXXXXXXXX
-            _send_player_sheets_via_email(all_data=all_data, player_names=player_names_set_no_shark, dry_run=False)  # REALLY send stuffs
+            _send_character_sheets_via_email(all_data=all_data, player_names=player_names_set_no_shark, dry_run=False)  # REALLY send stuffs
         STOP  # only do that
 
     # -------------

@@ -70,11 +70,6 @@ Quelques exemples de **courtes controverses** qui peuvent surgir de façon inopi
 - La duchesse ne jure que par le chant a capella et les musiques classiques, l'inventeur essaie de lui faire écouter de la musique ElectroSwing de sa composition (ex. sur une petite enceinte cachée dans une "boite à musique"). Le druide dit que seul le son du vent dans les arbres et les polyphonies de loups sont de la vraie musique.
 - Et bien d'autres oppositions un peu cliché entre "conservateur" et "progressiste"...
 
-De leur côté, les automates peuvent parfois se mettre à **dysfonctionner**, jusqu'à ce que l'avatar inventeur ou un joueur ne les débloque :
-
-- Se retrouver dans une impasse logique, en voulant constamment céder la priorité à l'autre ("Mais non... Après vous... Je n'en ferais rien...") ;
-- Soudain se mettre à babiller, ou tourner en rond, de façon incohérente, façon "engrenage défectueux" ;
-
 Les fractures entre les différents mondes peuvent donner des situations cocasses. Par exemple, puisque les avatars et les fantômes ne s'entendent pas les uns les autres, ils vont par moment parler en même temps aux mêmes joueurs, créant une véritable **cacophonie** (si possible se terminant sur la même phrase, par "coincidence").
 
 
@@ -107,7 +102,7 @@ Pour être fair-play, un spectre doit **planifier** chacun de ses tours dans la 
 
 Seule exception : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélére le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% fact "phantoms_feel_humans_closer_than_3m" %}
 
-Un joueur touché par un spectre est blessé et doit appeler à l'aide, en restant au sol - le MJ lui indiquera son malus. Le fantôme se désintéresse ensuite du blessé, sauf si celui-ci tente de lui barrer la route.  TODO TODO ?????????????????????????????????????????????????
+Un joueur touché par un spectre est blessé et doit appeler à l'aide, en restant au sol - le MJ lui indiquera son malus. Le fantôme se **désintéresse** ensuite du blessé, sauf si celui-ci tente de lui barrer la route.
 
 Note : un fantôme peut en certaines évènements prédéterminées être atteint de **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**, ce qui est un peu comme une errance mais avec des règles plus précises et une davantage de vélocité.
 
