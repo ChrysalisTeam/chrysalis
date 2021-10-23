@@ -207,7 +207,7 @@ def _send_player_sheets_via_email(all_data, player_names, default_player_attachm
 
     for player in sorted(player_names):
         player_data = all_data["character_properties"][player]
-        real_life_identity = player_data["real_life_identity"]
+        #real_life_identity = player_data["real_life_identity"]
         real_life_email = player_data["real_life_email"]
 
         if real_life_email in specific_recipients:  # each player must have its own email

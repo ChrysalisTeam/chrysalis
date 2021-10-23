@@ -3,7 +3,6 @@
 <{ game_rules_intro }/>
 
 
-
 {# Assurer qu’il n’y aura pas d’araignées/scorpions ni de serpents ? NOPE AU CONTRAIRE #}
 
 
@@ -21,14 +20,14 @@ Distinction des objets en-jeu/hors-jeu (RP/HRP)
 
 - **La nourriture et les boissons du buffet sont hors-roleplay**, vous ne risquez donc rien à vous en délecter gaiement.
 - Certains papiers (documents du MJ, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels ; **en particulier, ne pas montrer sa feuille de personnage aux autres joueurs, même alliés**.
-- Lorsque des **meubles ou objets sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu. Similairement, lorsque des objets sont dans une sacoche noire unie, c'est qu'ils ne sont pas (encore) matérialisés dans le monde du jeu, il ne faut pas y toucher.
-- Du **scotch noir** peut aussi être utilisé pour désigner des objets soudés ensemble, ou scellés, ou attachés au sol ; ce scotch ne doit pas être enlevé par les joueurs, sauf compétences particulières qui le mentionnent.
+- Lorsque des **meubles ou objets sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu. Similairement, lorsque des objets sont dans une **sacoche noire unie**, c'est qu'ils ne sont pas (encore) matérialisés dans le monde du jeu, il ne faut pas y toucher.
+- Du **scotch noir** peut aussi être utilisé pour désigner des objets soudés ensemble, ou scellés, ou attachés au sol ; cet état de fait doit être respecté, sauf compétences particulières qui permettent d'altérer ces objets.
 - De la **cordelette épaisse de chanvre** peut servir à matérialiser les passages bloqués, soit à cause d'un mur infranchissable, soit d'un sortilège qui doit être dissipé.
 - Des marqueurs tels **des petites pastilles autocollantes (ou oeillets de classeur), plumes colorées, ou perles plates en verre** peuvent être utilisés pour désigner des points d'action, ou pour annoter des objets du jeu. Ne les enlevez pas. Si vous ne connaissez pas leur signification, vous ne pouvez pas les décrire à un autre joueur (car ces marqueurs sont hors-jeu), mais vous pouvez lui demander de *"jeter un oeil, car cette objet vous semble étrange/piégé/magique"*. Les méthodes de déchiffrement de ces marqueurs ne peuvent pas être transmises entre joueurs, car elles représentent des compétences sophistiquées dans l'univers du jeu.
 - Les livres modernes sont considérés comme des grimoires écrits dans des langues que vous ne pouvez comprendre.
-- Les objets contemporains (lampes...) sont traités comme leurs équivalents dans un monde rétrofuturiste "steampunk", ou ignorés s'ils sont high-tech (ordinateurs...).
-- si un participant traverse la salle avec le **poing levé**, c'est qu'il est hors-jeu, ignorez-le.
+- Les objets contemporains (lampes LED...) sont traités comme leurs équivalents dans un monde rétrofuturiste "steampunk", ou ignorés s'ils sont high-tech (ordinateurs...). Les systèmes modernes de sonorisation et d'éclairage d'ambiance sont évidemment hors-jeu et à ignorer.
 - En cas de doute sur ce qui est en jeu ou non, demander au MJ ou aux figurants.
+- si un participant (joueur ou figurant) traverse la salle avec le **poing levé**, c'est qu'il est hors-jeu, ignorez-le.
 
 
 Compétences, objets et pièges
@@ -44,7 +43,9 @@ Compétences, objets et pièges
 
 - Les coffrets et valises qui sont posés sur le sol ou sur une table sont considérés **inamovibles**, il ne faut pas les bouger, et encore moins les secouer pour jauger ce qu'ils contiennent (risque d'objets ou mécanismes fragiles, là encore) ; les petits coffrets et boites placés dans d'autres rangements peuvent, eux, être déplacés avec précaution.
 
-- Les **pièges** sont toujours repérables visuellement, ou alors annoncés par différents indices tels les marqueurs hors-jeu. Vous ne serez pas pénalisé pour avoir ouvert un grimoire quelconque, ou prononcé un mot anodin. En revanche, si vous marchez sur un pentacle ou prononcez des incantations trouvées sans les comprendre, gare.
+- Les (fausses) bougies et autres sources de lumière "en-jeu" peuvent être déplacées, sauf si elles sont marquées comme ancrées au sol avec du **scotch noir**.
+
+- Les **pièges** sont toujours repérables visuellement, ou alors annoncés par différents indices tels que les **marqueurs hors-jeu**. Vous ne serez pas pénalisé pour avoir ouvert un grimoire quelconque, ou prononcé un mot anodin. En revanche, si vous marchez sur un pentacle ou prononcez des incantations trouvées sans les comprendre, gare.
 
 
 Blessures et morts fictifs, "en jeu"
