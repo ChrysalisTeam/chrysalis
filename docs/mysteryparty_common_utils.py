@@ -150,9 +150,7 @@ def build_mysteryparty_pdf(output_dir, filename_base,
     return rst_content
 
 
-def _send_email_to_recipients(sender, recipients, text, subject, attachements=None, dry_run=True, gmail_password=None):
-
-    SMTP_HOST = "smtp.gmail.com:587"
+def _send_email_to_recipients(sender, recipients, text, subject, attachments=None, dry_run=True, smtp_conf=None):
 
     from email.mime.text import MIMEText
     from email.mime.application import MIMEApplication
@@ -161,8 +159,8 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachements=No
 
     assert len(recipients) <= 2, recipients  # safety
 
-    recipients = recipients
-    emaillist = [elem.strip() for elem in recipients]
+    attachments = attachments or []
+    email_list = [elem.strip() for elem in recipients]
 
     msg = MIMEMultipart()
     msg['Subject'] = subject
@@ -174,20 +172,20 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachements=No
     part = MIMEText(text, _charset='utf8')
     msg.attach(part)
 
-    for attachement in (attachements or []):
+    for attachement in attachments:
         part = MIMEApplication(open(attachement, "rb").read())
         part.add_header('Content-Disposition', 'attachment', filename=os.path.basename(attachement))
         msg.attach(part)
 
-    print("/!\\ %s SENDING EMAIL '%s' TO %s (attachments: %s)" % (
-    "FAKE" if dry_run else "REALLY", subject, str(recipients), ", ".join(attachements)))
+    print("/!\\ %s SENDING EMAIL '%s' TO %s (attachments: %r)" % (
+    "FAKE" if dry_run else "REALLY", subject, str(recipients), ", ".join(attachments)))
 
     if not dry_run:
-        server = smtplib.SMTP(SMTP_HOST)
+        server = smtplib.SMTP(smtp_conf["host"])
         server.ehlo()
         server.starttls()
-        server.login(sender, gmail_password)
-        res = server.sendmail(msg['From'], emaillist, msg.as_string())
+        server.login(smtp_conf["login"], smtp_conf["password"])
+        res = server.sendmail(msg['From'], email_list, msg.as_string())
         time().sleep(20)  # else gmail freaks out...
         return res
     return None
@@ -199,8 +197,8 @@ def _send_player_sheets_via_email(all_data, player_names, default_player_attachm
     # BEWARE, first CHECK that filenames match file contents on all "clues" attachments!
 
     specific_recipients = set()
-    gmail_password = all_data["gmail_smtp_password"]
-    assert gmail_password, gmail_password
+    smtp_conf = all_data["smtp_conf"]
+    assert smtp_conf, smtp_conf
 
     gamemaster_email = all_data["global_parameters"]["master_real_email"]
     assert gamemaster_email, gamemaster_email
@@ -227,6 +225,10 @@ def _send_player_sheets_via_email(all_data, player_names, default_player_attachm
                                   recipients=[real_life_email],
                                   text=text,
                                   subject='Murder Party Chrysalis - votre fiche personnage pour %s' % player.capitalize(),
-                                  attachements=player_attachments,
+                                  attachments=player_attachments,
                                   dry_run=dry_run,
-                                  gmail_password=gmail_password)
+                                  smtp_conf=smtp_conf)
+
+if __name__ == '__main__':
+    _send_email_to_recipients("webmaster@chrysalis-game.com",
+                              recipients=["chambon.pascal@gmail.com"], text="test content", subject="test subject")

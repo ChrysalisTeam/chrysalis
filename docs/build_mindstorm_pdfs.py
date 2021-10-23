@@ -334,13 +334,13 @@ def generate_mindstorm_sheets():
     data = rpg.load_yaml_file("../script_fixtures/local.yaml")  # must exist, see local.yaml.example
     all_data.update(data)
 
-    players_names = sorted([k for (k, v) in all_data["character_properties"].items()
+    player_names = sorted([k for (k, v) in all_data["character_properties"].items()
                             if not v["is_npc"] and k not in EXCLUDED_CHARACTERS])
-    players_names_set_no_shark = set(players_names)
-    assert "shark" not in players_names_set_no_shark
-    players_names += ["shark"]  # special player
-    all_data["players_names"] = players_names
-    #print("-------->", players_names)
+    player_names_set_no_shark = set(player_names)
+    assert "shark" not in player_names_set_no_shark
+    player_names += ["shark"]  # special player
+    all_data["player_names"] = player_names
+    #print("-------->", player_names)
 
     master_login = all_data["global_parameters"]["master_login"]
 
@@ -379,14 +379,14 @@ def generate_mindstorm_sheets():
                                          os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_sheet_full.pdf"),
                                      ]
         _common_params = dict(all_data=all_data,
-                             player_names=players_names_set_no_shark,
+                             player_names=player_names_set_no_shark,
                              default_player_attachments=default_player_attachments)
 
         print("----------FAKE--------------")
         _send_player_sheets_via_email(dry_run=True, **_common_params)  # ensure everything seems in place
         if False:
             print("----------REAL--------------")
-            _send_player_sheets_via_email(all_data=all_data, player_names=players_names_set_no_shark, dry_run=False)  # REALLY send stuffs
+            _send_player_sheets_via_email(all_data=all_data, player_names=player_names_set_no_shark, dry_run=False)  # REALLY send stuffs
         STOP  # only do that
 
     # -------------
@@ -434,7 +434,7 @@ def generate_mindstorm_sheets():
 
     # then character full sheets
     if True:
-        for player in players_names:
+        for player in player_names:
             parts = [(part % dict(player_name=player) if not callable(part) else part)
                      for part in PLAYER_MANUAL_PARTS]
             #print("COMPILING", player, parts)
@@ -447,7 +447,7 @@ def generate_mindstorm_sheets():
 
     # then character cheat sheets
     if True:
-        for player in sorted(players_names_set_no_shark):
+        for player in sorted(player_names_set_no_shark):
             parts = ["players/%(player_name)s_cheat_sheet.rst" % dict(player_name=player),
                      "players/%(player_name)s_specific_abilities.rst" % dict(player_name=player),
                      "common_anthropia_account_summary_displayer.rst",
@@ -466,7 +466,7 @@ def generate_mindstorm_sheets():
     # then character sheet extracts for the gamemaster
     if True:
         full_extracts_rst = ""
-        for player in players_names:
+        for player in player_names:
             if full_extracts_rst:
                 full_extracts_rst += "\n----------\n\n"  # add separator
             player_data = _get_player_context(player)

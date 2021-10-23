@@ -11,7 +11,7 @@ from collections import OrderedDict
 from pprint import pprint
 
 from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_game_data_dump_is_present, \
-    _extract_ingame_clues_text_from_odt, _generate_clues_pdfs_from_main_odt_document
+    _extract_ingame_clues_text_from_odt, _generate_clues_pdfs_from_main_odt_document, _send_player_sheets_via_email
 from rpg_sheet_generator import display_and_check_story_tags
 
 IS_STANDALONE = True
@@ -61,7 +61,7 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     spy_sounder=dict(official_name="Le sondeur", email_attachments=[]),
 )
 
-players_names = set(CHARACTER_OVERRIDES.keys())
+player_names = set(CHARACTER_OVERRIDES.keys())
 
 
 GAMEMASTER_MANUAL_PARTS = [
@@ -232,8 +232,8 @@ def generate_archives_sheets():
     data = rpg.load_yaml_file("../script_fixtures/local.yaml")  # must exist, see local.yaml.example
     all_data.update(data)
 
-    all_data["players_names"] = players_names
-    #print("-------->", players_names)
+    all_data["player_names"] = player_names
+    #print("-------->", player_names)
 
     master_login = all_data["global_parameters"]["master_login"]
 
@@ -265,13 +265,13 @@ def generate_archives_sheets():
                                                     output_dir=DOCUMENTS_OUTPUT_DIR)
     # -------------
 
-    if False:  # BEWARE DANGEROUS
+    if True:  # BEWARE DANGEROUS
 
         print("----------FAKE--------------")
-        _send_player_sheets_via_email(dry_run=True)  # ensure everything seems in place
+        _send_player_sheets_via_email(all_data, player_names, default_player_attachments, dry_run=True)  # ensure everything seems in place
         if False:
             print("----------REAL--------------")
-            _send_player_sheets_via_email(dry_run=False)  # REALLY send stuffs
+            ##########_send_player_sheets_via_email(dry_run=False)  # REALLY send stuffs
         STOP  # only do that
 
     # -------------
@@ -325,7 +325,7 @@ def generate_archives_sheets():
 
     # then character full sheets
     if True:
-        for player in players_names:
+        for player in player_names:
             parts = [(part % dict(player_name=player) if not callable(part) else part)
                      for part in PLAYER_MANUAL_PARTS]
             #print("COMPILING", player, parts)
@@ -338,7 +338,7 @@ def generate_archives_sheets():
 
     # then character cheat sheets - USELESS HERE????
     if False:
-        for player in sorted(players_names_set_no_shark):
+        for player in sorted(player_names_set_no_shark):
             parts = ["players/%(player_name)s_cheat_sheet.rst" % dict(player_name=player),
                      "players/%(player_name)s_specific_abilities.rst" % dict(player_name=player),
                      "common_anthropia_account_summary_displayer.rst",
