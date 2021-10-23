@@ -11,7 +11,7 @@ from collections import OrderedDict
 from pprint import pprint
 
 from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_game_data_dump_is_present, \
-    _extract_ingame_clues_text_from_odt, _generate_clues_pdfs_from_main_odt_document, _send_player_sheets_via_email
+    _extract_ingame_clues_text_from_odt, _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email
 from rpg_sheet_generator import display_and_check_story_tags
 
 IS_STANDALONE = True
@@ -61,6 +61,20 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     spy_sounder=dict(official_name="Le sondeur", email_attachments=[]),
 )
 
+NPC_OVERRIDES = dict(
+    avatar_druid=dict(official_name="Le druide", email_attachments=[]),
+    avatar_duchess=dict(official_name="La duchesse", email_attachments=[]),
+    avatar_inventor=dict(official_name="L'inventeur", email_attachments=[]),
+
+    god_ankou=dict(official_name="L'ankou", email_attachments=[]),
+
+    phantom_archivist=dict(official_name="L'archiviste", email_attachments=[]),
+    phantom_arkon=dict(official_name="L'arkonte", email_attachments=[]),
+    phantom_beast=dict(official_name="La Bête", email_attachments=[]),
+    phantom_octave=dict(official_name="Octave", email_attachments=[]),
+    phantom_thief=dict(official_name="Le voleur", email_attachments=[]),
+)
+
 PLAYER_INITIAL_EMAIl_TEMPLATE = """\
 ## Message exclusivement destiné à %(real_life_identity)s (%(real_life_email)s) ##
 
@@ -68,7 +82,7 @@ Bonjour,
 
 Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis", à lire et relire sans modération !
 
-Le document de l'Univers du Jeu et des Règles, crucial, est aussi inclus !
+Des informations sur l'univers du jeu et les règles, cruciales, sont aussi incluses !
 
 IMPORTANT - Merci de bien vouloir :
 - acquitter bonne réception de cet email
@@ -81,7 +95,7 @@ Les Organisateurs
 """
 
 player_names = set(CHARACTER_OVERRIDES.keys())
-
+npc_names = set(NPC_OVERRIDES.keys())
 
 GAMEMASTER_MANUAL_PARTS = [
     "gamemaster_manual_archives.rst",
@@ -250,6 +264,7 @@ def generate_archives_sheets():
     # BEWARE - sensitive data specific to a murder party game
     data = rpg.load_yaml_file("../script_fixtures/local.yaml")  # must exist, see local.yaml.example
     local_character_overrides = data.pop("_CHARACTER_OVERRIDES_")
+    local_npc_overrides = data.pop("_NPC_OVERRIDES_")
     all_data.update(data)
 
     all_data["player_names"] = player_names
@@ -258,9 +273,15 @@ def generate_archives_sheets():
     master_login = all_data["global_parameters"]["master_login"]
 
     for k, v in CHARACTER_OVERRIDES.items():
-        all_data["character_properties"].setdefault(k, {})  # Create character if necessary
+        all_data["character_properties"].setdefault(k, {})  # Create (player) character if necessary
         all_data["character_properties"][k].update(v)  # We override official names mainly
         all_data["character_properties"][k].update(local_character_overrides[k])  # Override real names and emails
+
+    for k, v in NPC_OVERRIDES.items():
+        all_data["character_properties"].setdefault(k, {})  # Create (NPC) character if necessary
+        all_data["character_properties"][k].update(v)  # We override official names mainly
+        all_data["character_properties"][k].update(local_npc_overrides[k])  # Override real names and emails
+
 
     # for standalone docs
     isolated_data = all_data.copy()
@@ -281,16 +302,25 @@ def generate_archives_sheets():
                                          os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
                                          os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_sheet_full.pdf"),
                                      ]
+        default_npc_attachments = [
+                                         os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
+                                         os.path.join(MAIN_OUTPUT_DIR, "common_npc_information.pdf"),
+                                         os.path.join(MAIN_OUTPUT_DIR, "npc_%(player)s_sheet.pdf"),
+                                     ]
         def _send_everything(dry_run):
-            _send_player_sheets_via_email(all_data=all_data, player_names=player_names,
-                                          subject='Soirée Mystère Archives - votre fiche de personnage pour %s',
+            _send_character_sheets_via_email(all_data=all_data, player_names=player_names,
+                                          subject='Soirée Mystère Archives - votre fiche de joueur pour %s',
                                           email_template=PLAYER_INITIAL_EMAIl_TEMPLATE,
                                           default_player_attachments=default_player_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
+            _send_character_sheets_via_email(all_data=all_data, player_names=npc_names,
+                                          subject='Soirée Mystère Archives - votre fiche de figurant pour %s',
+                                          email_template=PLAYER_INITIAL_EMAIl_TEMPLATE,
+                                          default_player_attachments=default_npc_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
 
         print("----------FAKE--------------")
         _send_everything(dry_run=True)
 
-        if True:
+        if False:
             print("----------REAL--------------")
             _send_everything(dry_run=False)  # REALLY send stuffs
 
