@@ -38,7 +38,7 @@ Compétences, objets et pièges
 
 - Les objets du jeu sont parfois **fragiles**, on ne les secoue pas et on ne force pas dessus, en particulier s'ils sont équipés d'un système de verrouillage. Ils nécessitent alors soit d'avoir des compétences spéciales pour les ouvrir (ex. systèmes magnétiques), soit de trouver, selon les cas :
 
-  - **Leur clef en métal (s'ils s'agit d'une serrure ou cadenas à clef)**
+  - **Leur clef en métal (s'ils s'agit d'une serrure ou d'un cadenas à clef)**
   - **Leur code secret (s'il s'agit de molettes à chiffres)**
 
 - Les coffrets et valises qui sont posés sur le sol ou sur une table sont considérés **inamovibles**, il ne faut pas les bouger, et encore moins les secouer pour jauger ce qu'ils contiennent (risque d'objets ou mécanismes fragiles, là encore) ; les petits coffrets et boites placés dans d'autres rangements peuvent, eux, être déplacés avec précaution.

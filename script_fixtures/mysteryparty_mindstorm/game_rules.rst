@@ -36,7 +36,7 @@ Communications et Compétences
 - N'hésitez pas à prendre à part le maître de jeu durant la partie, si une règle n'est pas claire, ou pour demander si X ou Y est possible dans cet univers
 - **Les objets du jeu sont parfois fragiles, on ne force pas dessus, en particulier s'ils sont équipés d'un système de verrouillage. Ils nécessitent alors soit d'avoir des compétences spéciales pour les ouvrir, soit de trouver, selon les cas :**
 
-  - **Leur clef en métal (s'ils s'agit d'une serrure ou cadenas à clef)**
+  - **Leur clef en métal (s'ils s'agit d'une serrure ou d'un cadenas à clef)**
   - **Leur code secret (s'il s'agit de mollettes à chiffres)**
   - **Leur carte magnétique (si c'est une ouverture marquée d'un logo de carte magnétique)**
 

@@ -983,7 +983,7 @@ Contexte Historico-géographique
 
 {# FIXME DEDUPLICATE THIS ONE DAY #}
 
-L'action se passe sur la planète Pangéa, en l'{% symbol "an 1000" for "current_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %} ; le niveau de développement actuel y est similaire à notre 20° siècle terrestre, mais avec une population bien plus réduite.
+L'action se passe sur la planète Pangéa, en **l'{% symbol "an 1000" for "current_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %}** ; le niveau de développement actuel y est similaire à notre 20° siècle terrestre, mais avec une population bien plus réduite.
 
 En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'à l'an 1900, est identique à la nôtre. Les références à ces époques de notre monde (Antiquité, Moyen-âge, Renaissance...), à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent.
 
