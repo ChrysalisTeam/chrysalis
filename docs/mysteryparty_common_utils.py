@@ -6,27 +6,7 @@ import rpg_sheet_generator as rpg
 
 
 
-PLAYER_INITIAL_EMAIL_TEXT = """\
-## Message exclusivement destiné à %(real_life_identity)s (%(real_life_email)s) ##
 
-Bonjour,
-
-Voici votre feuille de personnage complète pour cette soirée mystère, à lire et relire sans modération !
-
-Certains d'entre vous ont des documents spécifiques en pièce jointe, avec des informations juridiques, scientifiques, épistolaires... en fonction de ce qui est mentionné dans leur fiche de personnage. 
-
-Le document de l'Univers du Jeu et des Règles est aussi inclus !
-
-IMPORTANT - Merci de bien vouloir :
-- acquitter bonne réception de cet email
-- signaler toute incohérence ou lacune que vous verriez dans ces documents par la suite
-- IMPRIMER les documents spécifiques, pour les avoir avec vous le jour J
-
-Bonne lecture !
-
-bien amicalement,
-Les Organisateurs
-"""
 
 
 def page_breaker(jinja_context):
@@ -181,6 +161,7 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachments=Non
     "FAKE" if dry_run else "REALLY", subject, str(recipients), ", ".join(attachments)))
 
     if not dry_run:
+        XXXXXXXXXXXXXXXXXX
         server = smtplib.SMTP(smtp_conf["host"])
         server.ehlo()
         server.starttls()
@@ -191,12 +172,12 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachments=Non
     return None
 
 
-def _send_player_sheets_via_email(all_data, player_names, default_player_attachments, dry_run):
+def _send_player_sheets_via_email(all_data, player_names, email_template, default_player_attachments, dry_run, allow_duplicate_emails=False):
 
     # send already generated docs to players
     # BEWARE, first CHECK that filenames match file contents on all "clues" attachments!
 
-    specific_recipients = set()
+    already_processed_recipients = set()
     smtp_conf = all_data["smtp_conf"]
     assert smtp_conf, smtp_conf
 
@@ -207,10 +188,12 @@ def _send_player_sheets_via_email(all_data, player_names, default_player_attachm
         player_data = all_data["character_properties"][player]
         #real_life_identity = player_data["real_life_identity"]
         real_life_email = player_data["real_life_email"]
+        official_name = player_data["official_name"]
 
-        if real_life_email in specific_recipients:  # each player must have its own email
+        if not allow_duplicate_emails and (real_life_email in already_processed_recipients):
+            # Here each player must have its own email
             raise ValueError('Duplicated specific recipient %s' % real_life_email)
-        specific_recipients.add(real_life_email)
+        already_processed_recipients.add(real_life_email)
 
         player_attachments = [filename % dict(player=player) for filename in default_player_attachments]
         player_attachments += player_data["email_attachments"]
@@ -219,12 +202,12 @@ def _send_player_sheets_via_email(all_data, player_names, default_player_attachm
             assert player in player_attachment or "common" in player_attachment, player_attachment  # do not mixup specific files
             assert os.path.exists(player_attachment), player_attachment
 
-        text = PLAYER_INITIAL_EMAIL_TEXT % player_data
+        text = email_template % player_data
 
         _send_email_to_recipients(sender=gamemaster_email,
                                   recipients=[real_life_email],
                                   text=text,
-                                  subject='Murder Party Chrysalis - votre fiche personnage pour %s' % player.capitalize(),
+                                  subject='Murder Party Chrysalis - votre fiche personnage pour %s' % official_name,
                                   attachments=player_attachments,
                                   dry_run=dry_run,
                                   smtp_conf=smtp_conf)

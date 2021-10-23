@@ -61,6 +61,25 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     spy_sounder=dict(official_name="Le sondeur", email_attachments=[]),
 )
 
+PLAYER_INITIAL_EMAIl_TEMPLATE = """\
+## Message exclusivement destiné à %(real_life_identity)s (%(real_life_email)s) ##
+
+Bonjour,
+
+Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis", à lire et relire sans modération !
+
+Le document de l'Univers du Jeu et des Règles, crucial, est aussi inclus !
+
+IMPORTANT - Merci de bien vouloir :
+- acquitter bonne réception de cet email
+- signaler toute incohérence ou lacune que vous verriez dans ces documents
+
+Bonne lecture !
+
+bien amicalement,
+Les Organisateurs
+"""
+
 player_names = set(CHARACTER_OVERRIDES.keys())
 
 
@@ -239,7 +258,7 @@ def generate_archives_sheets():
 
     for k, v in CHARACTER_OVERRIDES.items():
         all_data["character_properties"].setdefault(k, {})  # Create character if necessary
-        all_data["character_properties"][k].update(v)  # we override official names mainly
+        all_data["character_properties"][k].update(v, real_life_email="", real_life_identity="")  # we override official names mainly
 
     ''' UNUSED
     for k, v in all_data["character_properties"].items():
@@ -267,8 +286,14 @@ def generate_archives_sheets():
 
     if True:  # BEWARE DANGEROUS
 
+        default_player_attachments = [
+                                         os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
+                                         os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_sheet_full.pdf"),
+                                     ]
+
         print("----------FAKE--------------")
-        _send_player_sheets_via_email(all_data, player_names, default_player_attachments, dry_run=True)  # ensure everything seems in place
+        _send_player_sheets_via_email(all_data=all_data, player_names=player_names, email_template=PLAYER_INITIAL_EMAIl_TEMPLATE,
+                                      default_player_attachments=default_player_attachments, allow_duplicate_emails=True, dry_run=True)  # ensure everything seems in place
         if False:
             print("----------REAL--------------")
             ##########_send_player_sheets_via_email(dry_run=False)  # REALLY send stuffs

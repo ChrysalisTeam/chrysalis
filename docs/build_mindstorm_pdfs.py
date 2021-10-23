@@ -66,6 +66,27 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     obsidian=dict(email_attachments=[_asset_path("sabarith_law_summary_for_obsidian.pdf")]),
 )
 
+PLAYER_INITIAL_EMAIL_TEXT = """\
+## Message exclusivement destiné à %(real_life_identity)s (%(real_life_email)s) ##
+
+Bonjour,
+
+Voici votre feuille de personnage complète pour cette soirée mystère, à lire et relire sans modération !
+
+Certains d'entre vous ont des documents spécifiques en pièce jointe, avec des informations juridiques, scientifiques, épistolaires... en fonction de ce qui est mentionné dans leur fiche de personnage. 
+
+Le document de l'Univers du Jeu et des Règles est aussi inclus !
+
+IMPORTANT - Merci de bien vouloir :
+- acquitter bonne réception de cet email
+- signaler toute incohérence ou lacune que vous verriez dans ces documents par la suite
+- IMPRIMER les documents spécifiques, pour les avoir avec vous le jour J
+
+Bonne lecture !
+
+bien amicalement,
+Les Organisateurs
+"""
 
 GAMEMASTER_MANUAL_PARTS = [
     "gamemaster_manual_mindstorm.rst",
@@ -372,7 +393,7 @@ def generate_mindstorm_sheets():
     # -------------
 
     if False:  # BEWARE DANGEROUS
-
+        FIXME # Setup initial template email
         default_player_attachments = [
                                          os.path.join(MAIN_OUTPUT_DIR, "common_lore_introduction.pdf"),
                                          os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_cheat_sheet.pdf"),
@@ -386,6 +407,7 @@ def generate_mindstorm_sheets():
         _send_player_sheets_via_email(dry_run=True, **_common_params)  # ensure everything seems in place
         if False:
             print("----------REAL--------------")
+            XXXXXXXXXXXXXXXXX
             _send_player_sheets_via_email(all_data=all_data, player_names=player_names_set_no_shark, dry_run=False)  # REALLY send stuffs
         STOP  # only do that
 
