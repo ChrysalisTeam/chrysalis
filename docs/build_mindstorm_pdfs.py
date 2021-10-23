@@ -84,7 +84,7 @@ IMPORTANT - Merci de bien vouloir :
 
 Bonne lecture !
 
-bien amicalement,
+Bien amicalement,
 Les Organisateurs
 """
 

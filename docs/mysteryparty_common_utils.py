@@ -1,5 +1,5 @@
 import textwrap, os, re
-from time import time
+import time
 
 
 import rpg_sheet_generator as rpg
@@ -161,25 +161,26 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachments=Non
     "FAKE" if dry_run else "REALLY", subject, str(recipients), ", ".join(attachments)))
 
     if not dry_run:
-        XXXXXXXXXXXXXXXXXX
+        print(">>>>>> SMTP SETTINGS: %s" % str(smtp_conf))
         server = smtplib.SMTP(smtp_conf["host"])
         server.ehlo()
         server.starttls()
         server.login(smtp_conf["login"], smtp_conf["password"])
         res = server.sendmail(msg['From'], email_list, msg.as_string())
-        time().sleep(20)  # else gmail freaks out...
+        time.sleep(10)  # else smtp freaks out...
+        print("sendmail operation returned %s" % res)
         return res
     return None
 
 
-def _send_player_sheets_via_email(all_data, player_names, email_template, default_player_attachments, dry_run, allow_duplicate_emails=False):
+def _send_player_sheets_via_email(all_data, player_names, subject, email_template, default_player_attachments, dry_run, allow_duplicate_emails=False):
 
     # send already generated docs to players
     # BEWARE, first CHECK that filenames match file contents on all "clues" attachments!
 
     already_processed_recipients = set()
     smtp_conf = all_data["smtp_conf"]
-    assert smtp_conf, smtp_conf
+    assert smtp_conf and isinstance(smtp_conf, dict), smtp_conf
 
     gamemaster_email = all_data["global_parameters"]["master_real_email"]
     assert gamemaster_email, gamemaster_email
@@ -205,13 +206,13 @@ def _send_player_sheets_via_email(all_data, player_names, email_template, defaul
         text = email_template % player_data
 
         _send_email_to_recipients(sender=gamemaster_email,
-                                  recipients=[real_life_email],
+                                  recipients=[gamemaster_email],  # COPY to gamemaster!  ##### real_life_email,
                                   text=text,
-                                  subject='Murder Party Chrysalis - votre fiche personnage pour %s' % official_name,
+                                  subject=subject % official_name,
                                   attachments=player_attachments,
                                   dry_run=dry_run,
                                   smtp_conf=smtp_conf)
 
 if __name__ == '__main__':
     _send_email_to_recipients("webmaster@chrysalis-game.com",
-                              recipients=["chambon.pascal@gmail.com"], text="test content", subject="test subject")
+                              recipients=["XXX"], text="test content", subject="test subject")

@@ -76,7 +76,7 @@ IMPORTANT - Merci de bien vouloir :
 
 Bonne lecture !
 
-bien amicalement,
+Bien amicalement,
 Les Organisateurs
 """
 
@@ -249,6 +249,7 @@ def generate_archives_sheets():
 
     # BEWARE - sensitive data specific to a murder party game
     data = rpg.load_yaml_file("../script_fixtures/local.yaml")  # must exist, see local.yaml.example
+    local_character_overrides = data.pop("_CHARACTER_OVERRIDES_")
     all_data.update(data)
 
     all_data["player_names"] = player_names
@@ -258,18 +259,8 @@ def generate_archives_sheets():
 
     for k, v in CHARACTER_OVERRIDES.items():
         all_data["character_properties"].setdefault(k, {})  # Create character if necessary
-        all_data["character_properties"][k].update(v, real_life_email="", real_life_identity="")  # we override official names mainly
-
-    ''' UNUSED
-    for k, v in all_data["character_properties"].items():
-        #print("HANDLING CHARACTER", k)
-
-        # additional variables to DRY display
-        official_name = all_data["character_properties"][k]["official_name"]
-        full_official_title = "%s, %s" % (official_name,
-                                          all_data["character_properties"][k]["official_role"])
-        all_data["character_properties"][k]["full_official_title"] = full_official_title
-    '''
+        all_data["character_properties"][k].update(v)  # We override official names mainly
+        all_data["character_properties"][k].update(local_character_overrides[k])  # Override real names and emails
 
     # for standalone docs
     isolated_data = all_data.copy()
@@ -290,13 +281,19 @@ def generate_archives_sheets():
                                          os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
                                          os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_sheet_full.pdf"),
                                      ]
+        def _send_everything(dry_run):
+            _send_player_sheets_via_email(all_data=all_data, player_names=player_names,
+                                          subject='Soirée Mystère Archives - votre fiche de personnage pour %s',
+                                          email_template=PLAYER_INITIAL_EMAIl_TEMPLATE,
+                                          default_player_attachments=default_player_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
 
         print("----------FAKE--------------")
-        _send_player_sheets_via_email(all_data=all_data, player_names=player_names, email_template=PLAYER_INITIAL_EMAIl_TEMPLATE,
-                                      default_player_attachments=default_player_attachments, allow_duplicate_emails=True, dry_run=True)  # ensure everything seems in place
-        if False:
+        _send_everything(dry_run=True)
+
+        if True:
             print("----------REAL--------------")
-            ##########_send_player_sheets_via_email(dry_run=False)  # REALLY send stuffs
+            _send_everything(dry_run=False)  # REALLY send stuffs
+
         STOP  # only do that
 
     # -------------
