@@ -13,7 +13,7 @@ Mais votre vocation s'est rapidement imposée à vous : désenvouteur, c'est-à-
 
 {# NOPE not yet - Un chemin qui vous a amené aussi à la guérison de certaines blessures spirituelles, tant elles sont proches dans leurs symptômes de certains envoûtements. #}
 
-*NOTE hors-jeu : n'hésitez pas à simuler des émotions fortes, négatives ou positives selon les cas, lorsque vous imposez les mains sur des artefacts envoûtés..*
+*NOTE hors-jeu : n'hésitez pas à simuler des émotions fortes, négatives ou positives selon les cas, lorsque vous imposez les mains sur des artefacts envoûtés...*
 
 
 Le reconnaissance des envoûtements

@@ -8,7 +8,7 @@ Vos compétences
 
 Mais votre vocation s'est rapidement imposée à vous : exorciste, c'est-à-dire celui qui connait le monde des esprits et ses règles, et dispose de divers rituels pour le contrer.
 
-Reportez-vous à **l'article en annexe** pour une description détaillée du monde des morts, des connaissances que vous pourrez théâtralement enseigner à vos alliés au cours du jeu, lorsque le sujet se présentera.
+Reportez-vous à **l'article en annexe** pour une description détaillée du monde des morts ; des connaissances que vous pourrez théâtralement enseigner à vos alliés au cours du jeu, lorsque le sujet se présentera.
 
 
 Les rituels d'exorcisme

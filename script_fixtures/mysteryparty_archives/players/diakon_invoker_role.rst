@@ -54,7 +54,7 @@ Rituel :
 - Utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
 - Amener à l'intérieur l'entité ciblée, quelque soit son état actuel
 - Réciter trois fois à haute voix : **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, si tu dois demeurer, au moins ne bouge plus."**
-- L'entité peut bouger un peu, mais elle doit rester à l'intérieur du pentagone pendant toute la durée du rituel, sans quoi l'envoûtement échoue.
+- L'entité peut bouger un peu, mais elle doit rester à l'intérieur du pentacle pendant toute la durée du rituel, sans quoi l'envoûtement échoue.
 
 
 Message à un défunt
@@ -84,7 +84,7 @@ Sort de foudre
 
 Par temps orageux, vous pouvez faire descendre du ciel la foudre sur l'endroit que vous désirez, à l'aide de cette invocation.
 
-Pointez du doigts la zone à frapper, puis annoncez lentement :
+Pointez du doigts la zone à frapper, qui doit se trouver en extérieur, puis annoncez lentement :
 
 **Par {% symbol "Bahamoot" for "god_of_diakons" %}, que se meuvent les cieux, qu'ils rejoignent la terre, que par ce mouvement de lumière, le fracas soit déchainé.**
 
