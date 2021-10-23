@@ -13,7 +13,7 @@ Lorsque la nuit tombe sur les archives secrètes des Maupertuis, trois mondes s�
 
 Plongez dans cet antre d’art et de magie, et brisez la malédiction qui y maintient les âmes prisonnières.
 
-*"Les Archives Secrètes Des Maupertuis" est une soirée-mystère pour 12 joueurs, qui se joue en 3h environ.*
+*"Les Archives Secrètes Des Maupertuis" est une soirée-mystère pour 12 joueurs, qui se joue en 3-4h environ.*
 
 
 Concept détaillé
