@@ -126,6 +126,8 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 - Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
+- **Déclencheurs** : durant ce jeu, lorsqu'un **son de cloches d'église** est joué, les fantômes doivent passer en mode désincarné, en **errance spectrale*. Lorsqu'un unique **son de gong** retentit, ils repassent au contraire en **phase incarnée**, après être revenus à leur point d'attache s'ils en ont un. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+
 {# NOT YET - Des entités “démoniaques”, faisant elles aussi partie du monde des morts, pourraient être invoquées dans ce contexte. Elles auraient alors les mêmes propriétés que les fantômes, avec davantage de liberté, d’hostilité, et de pouvoirs magico-sacrés. #}
 
 Le monde des livres
@@ -615,13 +617,13 @@ Après 10mn, le gong résonne ; le précepteur-archiviste s’incarne, et appell
 
 Lors de leur première rencontre avec les joueurs, les autres figurants sont au choix étonnés, inquiets, ou ravis, selon leur caractère et leur connaissance de la situation. Aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans ce monde des vivants.
 
-Les fantômes qui ne sont pas conscients de leur dangerosité peuvent être tentés de donner une accolade aux joueurs (ex. Octave envers ses lointains descendants Parcival). {% fact "parcival_family_is_heir_of_maupertuis" %}
+Les fantômes qui ne sont pas conscients de leur dangerosité peuvent être tentés de donner une accolade aux joueurs (ex. Octave envers ses lointains héritiers Parcival). {% fact "parcival_family_is_heir_of_maupertuis" %}
 À charge pour les joueurs de les éviter, sans cela il y aura des blessures, et un grand désarroi parmi les fantômes "agresseurs involontaires".
 
 La frénésie de la clochette spectrale
 +++++++++++++++++++++++++++++++++++++++++++
 
-Un joueur sonnera probablement la clochette, par curiosité, en début de jeu ; en tant que fantôme, il faudra réagir conformément à la description de cet artefact mystique, en passant en mode "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}".
+Un joueur sonnera probablement la clochette de service, par curiosité, en début de jeu ; en tant que fantôme, il faudra réagir conformément à la description de cet artefact mystique, en passant en mode "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}".
 
 L’ouverture du buffet d'outre-monde (temps 0h30)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -633,7 +635,6 @@ Les autres avatars arrivent, les joueurs qui étaient proches se font haranguer 
 Une fois la musique finie, joueurs et héros font connaissance autour du buffet. Il est assumé que, à dessein, ces mets magiques sont aussi accessibles aux fantômes (incarnés ou non).
 
 *Le jeu se poursuit ensuite au gré des initiatives des joueurs.*
-
 
 {% endmacro %}
 <{ early_game_events }/>
@@ -1157,7 +1158,7 @@ Des deux formes fantomatiques
 
 Il est possible de communiquer avec un fantôme lorsque celui-ci est dans une phase "incarnée". Il s'agit bien sûr d'un abus de langage, car le défunt reste incapable d'interagir normalement avec le monde de chair et de matière ; il n'en est pas moins capable de dialoguer, de raisonner, et de se souvenir de sa vie passée, même si la conscience qu'il a de sa situation peut être très variable. Ces moments privilégiés sont le meilleur moyen pour un exorciste de comprendre ce qui retient un fantôme sur terre, afin de prendre des mesures correctives. Ils ont lieu principalement la nuit, ou à défaut, dans l'obscurité.
 
-Mais bien souvent, les fantômes errent comme des "spectres" sans but, privés de la plupart de leurs sens et de leurs pensées, et uniquement attirés par les vivants lorsqu'ils les croisent de près. Le degré d'agitation de ces fantômes éthérés dépend alors en partie du poids de leurs péchés terrestres {% fact "phantoms_of_sinners_have_faster_specters" %}; mais tous peuvent entrer dans une intense "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}", lorsqu'ils sont touchés par les ondes de quelque rituel magique ou sacré, ou bien à certains moments significatifs de la journée ; leurs déplacements sont alors plus rapides, et ils semblent rechercher à tout prix le contact des vivants.
+Mais bien souvent, les fantômes errent comme des "spectres" sans but, privés de la plupart de leurs sens et de leurs pensées, et uniquement attirés par les vivants lorsqu'ils les croisent de près. Le degré d'agitation de ces fantômes éthérés dépend alors en partie du poids de leurs péchés terrestres {% fact "phantoms_of_sinners_have_faster_specters" %}; mais tous peuvent entrer dans une intense "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}", lorsqu'ils sont touchés par les ondes de quelque rituel magique ou sacré, ou bien à certains moments significatifs de la journée ; leurs déplacements sont alors plus rapides, et ils semblent rechercher à tout prix le contact des vivants ou d'un artefact spécifique.
 
 Il est largement établi que les fantômes peuvent passer à travers les murs et les objets ; cependant, n'étant pas entièrement dématérialisés, cela leur demande des efforts supplémentaires, aggravés lorsque les lieux ont été protégés par des envoûtements magiques ou des bénédictions sacrées. Dans les faits, les fantômes suivent donc souvent les mêmes parcours que les humains.
 
