@@ -1,5 +1,8 @@
-URGENT AJOUTER JEU au sondeur
 
+
+IMPORTANT ; QUAND PASSAGE EN FANTOME ????????????????? SONNETTE OU MUSIQUE ????????
+
+----------
 
 
 Reviewer les lecteurs mp3 sonores présents !!!!
@@ -24,7 +27,7 @@ Ce qu'il faut :
 
 
 
-URGENT DEVELOPPER TRADUCTION RUNIQUE OUVERTE !!!!!!!!!
+URGENT DEVELOPPER TRADUCTION RUNIQUE OUVERTE !!!!!!!!! <<<<<<<<<<<<<<<<<<<<<
 
 Rajouter des fléchettes en iridium pour woodsman dans la bibliothèque ? {% hint "single_bullet_left_for_woodsman" is needed %}
 

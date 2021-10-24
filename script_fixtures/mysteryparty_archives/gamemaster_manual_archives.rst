@@ -97,7 +97,7 @@ C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y e
 
 - Les vivants peuvent voir et entendre aussi bien les personnages du monde des morts que des livres, et peuvent toucher les personnages des livres.
 
-- Pour un vivant, toucher un fantôme - incarné ou non - inflige de graves blessures de type “sacré” (et non “magique”), donnant un malus ou (si un malus a déjà eu lieu) la mort.
+- Pour un vivant, tout contact avec un fantôme - incarné ou non - est très dangereux. {% fact "phantom_touch_harms_the_living" %}
 
 - Les vivants sont par défaut sensibles aux attaques physiques, magiques et sacrées.
 
@@ -121,6 +121,8 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 - Pendant les moments où ils s’incarnent, les morts reprennent une apparence humaine, toujours vêtus de linceuls mais à visage découvert, et potentiellement avec quelques accessoires représentant leur vie entière ; ils gardent une certaine lenteur dans les gestes, et si possible un visage blafard.
 
 - Lorsqu’ils sont en phase incarnée, les fantômes qui sont morts de façon **violente** sont “attachés” spirituellement à une lumière inamovible, **placée à l’endroit où ils sont morts**. Les morts de **vieillesse**, eux, errent librement (dont la Bête).
+
+- Lorsqu'il touche un vivant, tout fantôme - incarné ou non - le blesse dangereusement. {% fact "phantom_touch_harms_the_living" %}
 
 - Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
@@ -553,7 +555,7 @@ Concrètement : les cas possibles durant le jeu
 
 Un joueur peut être atteint dans les cas suivants :
 
-- S’il se fait toucher par un fantôme (incarné ou non) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer.
+- S’il se fait toucher par un fantôme (incarné ou non) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer. {% fact "phantom_touch_harms_the_living" %}
 
 - S’il touche un objet manifestement maudit, comme un crâne sonore ou les ossements qui sont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
@@ -611,8 +613,10 @@ Certains avatars peuvent déjà être présents (par exemple la duchesse en pri�
 
 Après 10mn, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être avec eux un espoir de résolution de la malédiction. Il répond aux questions des joueurs, **teste leurs bonnes intentions** avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s'est **"activé tout seul"** (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans
 
-Lors de leur première rencontre avec les joueurs, aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans le monde des vivants.
+Lors de leur première rencontre avec les joueurs, les autres figurants sont au choix étonnés, inquiets, ou ravis, selon leur caractère et leur connaissance de la situation. Aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans ce monde des vivants.
 
+Les fantômes qui ne sont pas conscients de leur dangerosité peuvent être tentés de donner une accolade aux joueurs (ex. Octave envers ses lointains descendants Parcival). {% fact "parcival_family_is_heir_of_maupertuis" %}
+À charge pour les joueurs de les éviter, sans cela il y aura des blessures, et un grand désarroi parmi les fantômes "agresseurs involontaires".
 
 La frénésie de la clochette spectrale
 +++++++++++++++++++++++++++++++++++++++++++
@@ -1162,7 +1166,7 @@ De la dangerosité des revenants
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 La littérature ésotérique ne cesse de mettre en garde contre la dangerosité des fantômes, même si ceux-ci ne sont que rarement malveillants.
-Toucher un de ces êtres, écartelés entre le monde des vivants et celui des morts, inflige en effet de graves blessures au corps et à l'esprit, atteintes qui peuvent facilement mener à la mort.
+Toucher un de ces êtres, écartelés entre le monde des vivants et celui des morts, inflige en effet de graves blessures au corps et à l'esprit, atteintes qui peuvent facilement mener à la mort. {% fact "phantom_touch_harms_the_living" %}
 
 Il est donc indispensable de ne pas toucher (ou se laisser toucher par) un fantôme, qu'il soit sous forme incarnée ou spectrale, sauf si l'on porte des protections dûment bénites.
 

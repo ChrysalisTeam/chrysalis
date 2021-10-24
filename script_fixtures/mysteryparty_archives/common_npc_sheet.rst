@@ -89,9 +89,9 @@ Donc, quand ils sont incarnés et conscients de leurs actes, ils réagissent fac
 Errance spectrale des fantômes
 +++++++++++++++++++++++++++++++++++
 
-Hormis la Bête, dans ce scénario, un figurant fantôme est initialement ancré à une petite zone, qui fut le lieu de sa mort. {% fact "human_phantoms_are_initially_anchored" %}
-Lors de certains moments (attente trop longue sans interactions, sons diffusés par le MJ dans la bibliothèque...), il passe en mode spectral, non incarné, et erre alors dans la zone facilement accessible de la bibliothèque (y compris dans le domaine interdit si celui-ci est ouvert).
-Ce passage en spectre arrive aussi pour un fantôme qui a été libéré de son ancrage, mais moins souvent. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+Hormis la Bête, dans ce scénario, tout figurant fantôme est initialement ancré à une petite zone, qui fut le lieu de sa mort. {% fact "human_phantoms_are_initially_anchored" %}
+Lors de certains moments (sons diffusés par le MJ dans la bibliothèque, voire simplement attente trop longue sans interactions...), il passe en mode spectral, non incarné, et erre alors dans la bibliothèque (y compris dans le domaine interdit si celui-ci est ouvert).
+Cette errance en spectre arrive aussi pour un fantôme qui a été libéré de son ancrage, mais moins souvent. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 
 L'errance se fait en marchant pas trop vite, visage voilé, bras tendus devant (si possible avec des gants lumineux), en inspirant/expirant de façon longue et rauque (pas de bruit "booo" trop cliché).
 
