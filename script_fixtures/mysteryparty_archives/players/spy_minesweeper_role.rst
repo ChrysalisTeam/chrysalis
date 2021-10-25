@@ -37,7 +37,7 @@ Les plus riches natifs de l'époque Maupertuis utilisaient souvent, pour s'écla
 
 Vous avez pu refabriquer de telles cartouches avec l'aide de passionnés d'Histoire, et vous en avez apporté dans le domaine des Maupertuis, au cas où des luminis seraient encore en état de marche sur place.
 
-*Lorsque vous croisez des bougies rechargeables, vous pouvez les ouvrir, en enlevant un bout de scotch noir si nécessaire, y mettre une "cartouche", puis les allumer.* {% hint 'candles_without_battery' is needed %} {% hint 'candle_batteries_for_spy_minesweeper' is needed %}
+*Lorsque vous croisez des bougies rechargeables, vous pouvez les ouvrir, en détachant temporairement le scotch noir qui les maintient (si présent), y mettre une "cartouche", puis les allumer.* {% hint 'candles_without_battery' is needed %} {% hint 'candle_batteries_for_spy_minesweeper' is needed %}
 
 
 

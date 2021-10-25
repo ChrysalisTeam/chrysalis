@@ -114,7 +114,7 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 - À aucun moment les morts ne peuvent interagir avec les objets du monde vivant. Seule exception, le buffet est composé de plats et boissons compatibles avec tous les mondes.
 
-- Seules des attaques sacrées peuvent les atteindre, pas les attaques physiques ni magiques. Mais puisque présentement ils ne peuvent pas s'échapper à la bibliothèque, ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
+- Seules des attaques sacrées peuvent les atteindre, pas les attaques physiques ni magiques. Mais puisque présentement ils ne peuvent pas s'échapper de la bibliothèque, en cas de "blessures", ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
 
 - Lorsqu’ils sont “désincarnés”, les morts errent au hasard comme des spectres, entièrement recouverts de linceuls. Parfois, pour diverses raisons, ils entrent en “{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}”, et deviennent plus vifs et agressifs.
 
@@ -143,7 +143,7 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 - Ces avatars portent leurs costumes et accessoires “typiques” de leurs romans.
 
-- Ils peuvent interagir librement avec le monde des vivants, ses objets et grimoires, **sauf avec les “romans”**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% fact "avatars_cannot_carry_novels" %}
+- Ils peuvent interagir librement avec le monde des vivants, ses objets et grimoires, **sauf avec les "romans"**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% fact "avatars_cannot_carry_novels" %}
 
 - Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher.
 
@@ -160,7 +160,7 @@ Le monde des automates
 
 Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons. {% fact "inventor_has_built_androids" %}
 
-Ces robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas les attaques sacrées ; cependant rien n'est censé leur arriver durant le jeu.
+Ces robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas les attaques sacrées ; cependant rien n'est censé leur arriver durant le jeu.
 
 Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
