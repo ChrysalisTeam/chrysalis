@@ -1,7 +1,44 @@
 # Rename this file as "local.yaml", and fill these values to customize your game.
 
-telephone_exchange_number: "<undefined>"
+telephone_exchange_number: "XXXXXXXXXXX"
 
-anthropia_portal_url: "<undefined>"
+anthropia_portal_url: "XXXXXXXXXXX"
 
-gmail_smtp_password: "<undefined>"
+smtp_conf:
+  host: "example.com:26"
+  login: ""
+  password: ""
+
+
+_CHARACTER_OVERRIDES_:
+  diakon_dispeller: {"real_life_email": "", "real_life_identity": ""}
+  diakon_exorcist: {"real_life_email": "", "real_life_identity": ""}
+  diakon_invoker: {"real_life_email": "", "real_life_identity": ""}
+
+  explorer_unveiler: {"real_life_email": "", "real_life_identity": ""}
+  explorer_anthropologist: {"real_life_email": "", "real_life_identity": ""}
+  explorer_runologist: {"real_life_email": "", "real_life_identity": ""}
+
+  parcival_alchemist: {"real_life_email": "", "real_life_identity": ""}
+  parcival_woodsman: {"real_life_email": "", "real_life_identity": ""}
+  parcival_oracle: {"real_life_email": "", "real_life_identity": ""}
+
+  spy_lockpicker: {"real_life_email": "", "real_life_identity": ""}
+  spy_minesweeper: {"real_life_email": "", "real_life_identity": ""}
+  spy_sounder: {"real_life_email": "", "real_life_identity": ""}
+
+
+_NPC_OVERRIDES_:
+
+  avatar_druid: {"real_life_email": "", "real_life_identity": ""}
+  avatar_duchess: {"real_life_email": "", "real_life_identity": ""}
+  avatar_inventor: {"real_life_email": "", "real_life_identity": ""}
+
+  phantom_archivist: {"real_life_email": "", "real_life_identity": ""}
+  phantom_arkon: {"real_life_email": "", "real_life_identity": ""}
+  phantom_octave: {"real_life_email": "", "real_life_identity": ""}
+
+  phantom_beast: {"real_life_email": "", "real_life_identity": ""}
+  phantom_thief: {"real_life_email": "", "real_life_identity": ""}
+
+  god_ankou: {"real_life_email": "", "real_life_identity": ""}

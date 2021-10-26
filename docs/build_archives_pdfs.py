@@ -26,7 +26,7 @@ ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
-DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_frame  --show-frame-boundary"  # Use --show-frame-boundary (if necessary to debug)
+DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_frame"  # Use --show-frame-boundary (if necessary to debug)
 
 MAIN_OUTPUT_DIR = "output_archives"
 DOCUMENTS_OUTPUT_DIR = os.path.join(MAIN_OUTPUT_DIR, "documents")
@@ -66,13 +66,13 @@ NPC_OVERRIDES = dict(
     avatar_duchess=dict(official_name="La duchesse", email_attachments=[]),
     avatar_inventor=dict(official_name="L'inventeur", email_attachments=[]),
 
-    god_ankou=dict(official_name="L'ankou", email_attachments=[]),
-
     phantom_archivist=dict(official_name="L'archiviste", email_attachments=[]),
     phantom_arkon=dict(official_name="L'arkonte", email_attachments=[]),
-    phantom_beast=dict(official_name="La Bête", email_attachments=[]),
     phantom_octave=dict(official_name="Octave", email_attachments=[]),
-    phantom_thief=dict(official_name="Le voleur", email_attachments=[]),
+    #phantom_beast=dict(official_name="La Bête", email_attachments=[]),
+    #phantom_thief=dict(official_name="Le voleur", email_attachments=[]),
+
+    #god_ankou=dict(official_name="L'Ankou", email_attachments=[]),
 )
 
 PLAYER_INITIAL_EMAIl_TEMPLATE = """\
@@ -80,17 +80,19 @@ PLAYER_INITIAL_EMAIl_TEMPLATE = """\
 
 Bonjour,
 
-Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis", à lire et relire sans modération !
+Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis" du *vendredi 26 novembre à 18h30* à la médiathèque CAPI Agnès Varda de l'Isle d'Abeau.
+
+Un document à lire et relire sans modération !
 
 Des informations sur l'univers du jeu et les règles, cruciales, sont aussi incluses !
 
-IMPORTANT - Merci de bien vouloir :
+IMPORTANT - Nous vous remercions de bien vouloir :
 - acquitter bonne réception de cet email
 - signaler toute incohérence ou lacune que vous verriez dans ces documents
 
 Bonne lecture !
 
-Bien amicalement,
+Amicalement,
 Les Organisateurs
 """
 
@@ -150,12 +152,6 @@ ISOLATED_DOCS = {
     "npc_phantom_octave_sheet": ("npcs/phantom_octave_sheet.rst", "phantom_octave"),
     "npc_phantom_thief_sheet": ("npcs/phantom_thief_sheet.rst", "phantom_thief"),
     "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
-
-    # FACTIONS (already included in player sheets)
-    #"_faction_diakon_sheet": ("factions/diakon_group_sheet.rst", None),
-    #"_faction_explorer_sheet": ("factions/explorer_group_sheet.rst", None),
-    #"_faction_parcival_sheet": ("factions/parcival_group_sheet.rst", None),
-    #"_faction_spy_sheet": ("factions/spy_group_sheet.rst", None),
 }
 
 
@@ -289,14 +285,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:
-        # export clues into a myriad of small PDFs
-        _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
-                                                    clues_parts=INGAME_CLUES_PARTS,
-                                                    output_dir=DOCUMENTS_OUTPUT_DIR)
-    # -------------
-
-    if True:  # BEWARE DANGEROUS
+    if False:  # BEWARE DANGEROUS
 
         default_player_attachments = [
                                          os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
@@ -328,6 +317,14 @@ def generate_archives_sheets():
 
     # -------------
 
+    if False:
+        # export clues into a myriad of small PDFs
+        _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
+                                                    clues_parts=INGAME_CLUES_PARTS,
+                                                    output_dir=DOCUMENTS_OUTPUT_DIR)
+
+    # -------------
+
     # first the gamemaster manual
     if True:
         gm_data = all_data.copy()
@@ -348,7 +345,7 @@ def generate_archives_sheets():
 
         isolated_data["current_player_id"] = "npcs"
         build_archives_pdf(COMMON_NPC_DOCS,
-                            filename_base="common_npc_information", title="Complément des Figurants",
+                            filename_base="common_npc_information", title="Compléments des Figurants",
                             add_page_breaks=True, jinja_context=isolated_data)
 
         isolated_data["current_player_id"] = None  # Restore this!
