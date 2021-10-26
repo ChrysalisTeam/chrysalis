@@ -1,0 +1,8 @@
+ah oui
+
+SITE WEB CHRYSALIS A TRADUIRE EN ANGLAIS
+
+http://dev.chrysalis-game.com/en/cms/
+http://dev.chrysalis-game.com/admin/cms/page/
+
+Credentials "htaccess" du site web, et credentials de la partie admin Django :  admin /  admin_262527621

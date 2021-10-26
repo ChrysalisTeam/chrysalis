@@ -1,0 +1,29 @@
+{% fact "lordanians_were_arrested_last_evening" %}
+
+
+- obtenir que Sabarim ouvre son aérodrome militaire géant à des bombardiers lordaniens (sur la demande de ceux-ci) ?
+
+Parler à alphonse pour théologie
+
+TODO - négotiations avec consuls à intégrer dans le jeu !!!!
+
+TODO augmenter l'accès aux enregistrements du manoir
+
+Y a-t-il toujours histoire des forteresses volantes lordaniennes ?
+
+NPC 1 :
+
+- ambassadeur akarite
+- capitaine rodomir
+- cuisinier
+
+
+Enlever Coeur de Fusion Thermocyclique ???
+
+
+
+{% if not small_format %}
+Les lordaniens ont aussi eu vent de cet Elixir, et ils sont intéressés de voir ses effets sur Opal, pour jauger de sa pertinence sur leur infanterie. Ils ont obtenu des indices sur les ingrédients complémentaires, permettant de modifier les effets de l'Elixir.
+{% endif %}
+FIXME QUI A CELA EN VERSION COURTE???????????????
+
