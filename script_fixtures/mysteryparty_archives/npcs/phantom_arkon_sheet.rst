@@ -65,4 +65,5 @@ Si un vivant meurt, vous incitez les autres à trouver comment le **ressusciter*
 Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votre **sacoche de ceinture** contenant quelques valeurs, afin qu'elle n'interfère pas ; vous ne savez pas ce qu'elle est devenue, mais son contenu pourrait aider les vivants en manque d'argent, vous le leur indiquez si l'occasion se présente. {% fact "arkon_bag_remained_after_his_death_but_disappeared" %}
 {% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
 
+Si l'exorciste tente de **briser les corridors outre-monde** alors que des avatars sont encore présents dans la bibliothèque, vous vous demandez ouvertement si cela ne va pas les mettre en grave danger. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 

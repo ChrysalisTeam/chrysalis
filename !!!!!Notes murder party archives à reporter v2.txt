@@ -4,6 +4,7 @@ IMPORTANT ; QUAND PASSAGE EN FANTOME ????????????????? SONNETTE OU MUSIQUE ?????
 
 ----------
 
+Mettre marque d'enchantement sur lanternes déjà allumées de l'étage maudit
 
 Reviewer les lecteurs mp3 sonores présents !!!!
 
@@ -27,7 +28,7 @@ Ce qu'il faut :
 
 
 
-URGENT DEVELOPPER TRADUCTION RUNIQUE OUVERTE !!!!!!!!! <<<<<<<<<<<<<<<<<<<<<
+URGENT DEVELOPPER TRADUCTION RUNIQUE OUVERTE !!!!!!!!! <<<<<<<<<<<<<<<<<<<<<  WIP
 
 Rajouter des fléchettes en iridium pour woodsman dans la bibliothèque ? {% hint "single_bullet_left_for_woodsman" is needed %}
 
@@ -556,7 +557,7 @@ Hello, voici la première version des fiches de joueurs.
 Il reste quelques "TODO" à remplir dedans, c'est normal, et des blocs entiers de texte sont automatiquement dupliqués entre les fiches de personnages, donc vous pouvez les survoler rapidement.
 
 - commencer par les règles du jeu, l'Univers du jeu pour les joueurs, et les fiches de personnage des joueurs
-- lire ensuite les "Complément des Figurants", puis les fiches de personnage des figurants (fantômes, avatars, l'Ankou...)
+- lire ensuite les "Compléments des Figurants", puis les fiches de personnage des figurants (fantômes, avatars, l'Ankou...)
 - lire enfin le long manuel global du maître du jeu
 
 l'important est de pouvoir signaler :

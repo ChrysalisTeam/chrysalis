@@ -226,8 +226,8 @@
 -
   - "Corridor de Peau de Pierre (cul-de-sac)"
   -
-    - "Présence de vapeurs toxiques (fioles diverses renversées) {% hint 'spilled_potions_in_toxic_corridor' is provided %}"
-    - "Coffre protégé par XXX et contenant le {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) "
+    - "[???? COMMENT LE MARQUER????] Présence de vapeurs toxiques (fioles diverses renversées) {% hint 'spilled_potions_in_toxic_corridor' is provided %}"
+    - "Coffre protégé par XXX?????[attention automate doit pouvoir le prendre] et contenant le {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) "
     - "Plusieurs potions (dont celle de Fungal Bleu) {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
 
 -
