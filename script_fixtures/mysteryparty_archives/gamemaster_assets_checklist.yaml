@@ -377,7 +377,7 @@
     - "6 papillons volants à élastique à disséminer dans des grimoires et boites"
 
     - "2 lanternes rouges Clivra (2xLR20D chacune)"
-    - "8 chandelles blanches (3xAA chacune) REALLY ????????"
+    - "NOPE 8 chandelles blanches (3xAA chacune) REALLY ????????"
     - "4 cadres photo Clivra format A5 (fragiles)"
 
     - "2 Bouillottes cylindrique en cuivre, dont l'une avec dedans message XXXXX"
@@ -393,3 +393,10 @@
     - "Toiles d'araignées à disséminer, surtout dans l'étage interdit"
     - "3 livrets verts Hachette de géographie régionale"
     - "Station Internet !!! Autres accès Internet ???"
+
+
+# BESOINS EN PILES #
+# AAA : 3 + 6 + 3 + 4 + 2 + 3 + 21 = 42
+# AA : 2 + 4 + 4 + 2 + 4 + 3 + 3 + 2 = 24
+# LR20D : 8
+# Pile rectangle 9V : 1  (+1 en secours)

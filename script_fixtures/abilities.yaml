@@ -336,7 +336,28 @@ abilities:
                         money_price: 400
                         gems_price: 100
 
+    runic_translation_open:
+        settings:
 
+            dedicated_email: "runic-translation@anthropia.pg"
+            result_delay: [4, 6] # minutes
+
+            random_translation_words: >
+                 monkey apocalypse blood sun spear shelter wrath goat son uncle priest drugs moon fire water pepper volcano law sacrifice bird squid camel wolf war
+
+            references:
+
+                antic_chest:
+                    decoding: >
+                        su se | so sa | chi so #
+                        ku sa | su te #
+                        chi sa to | ta sa su
+                    translation: >
+                        spoils of war | skirmish of | the black meadows #
+                        may the yods | purify these goods #
+                        shortent our penance | and give us final victory
+
+            middlewares: {}
 
     mercenaries_hiring:
         settings:

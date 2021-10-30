@@ -2,7 +2,13 @@
 
 IMPORTANT ; QUAND PASSAGE EN FANTOME ????????????????? SONNETTE OU MUSIQUE ????????
 
+Ajouter bandes son aux fichiers envoyés pour ORACLE !!
+
+TOUJOURS générer aussi les fiches SANS DECORATIONS!!!
+
 ----------
+
+Rédiger la fiche du mage mos peratys
 
 Mettre marque d'enchantement sur lanternes déjà allumées de l'étage maudit
 
@@ -11,6 +17,8 @@ Reviewer les lecteurs mp3 sonores présents !!!!
 AJOUTER UN DERNIER TRAP en fil ??
 TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 TODO GRELOTS AVEC ELASTIQUES !!!!
+
+Ecrire message du complot anti-arkonte et trouver sacoche
 
 
 Ce qu'il faut :
