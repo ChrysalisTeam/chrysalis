@@ -656,13 +656,18 @@ L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’i
 L'exploration du tombeau du mage fondateur
 ++++++++++++++++++++++++++++++++++++++++++++
 
+{% macro magus_zombie_instructions() %}
+
 Les joueurs doivent trouver le moyen de se téléporter dans le tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, en contournant ainsi les sceaux maléfiques qui protègent son entrée, pour y prendre des artefacts magiques.
 
-*Un figurant doit alors y prendre la place du cadavre, dans l'aube papale dorée.*
+Le cadavre du mage git là, dans l'aube papale dorée.
 
-Si un non-Parcival fait partie du groupe des téléportés, cela déclenche une malédiction : la momie du mage se lève, et pourchasse (en marchant lentement, comme un zombie) l'intrus, qui doit l'esquiver jusqu'à ce que le téléporteur lui permette de sortir, sous peine de mourir. La momie retourne ensuite à sa place.
+Si un non-Parcival fait partie du groupe des téléportés, cela déclenche une malédiction : la momie du mage se lève, et pourchasse (en marchant lentement, comme un zombie) l'intrus, qui doit l'esquiver jusqu'à ce que le téléporteur lui permette de sortir, sous peine de mourir. La momie retourne ensuite à sa place. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
 Lorsqu'il n'y pas de non-Parcival dans le tombeau, la momie ne bouge absolument pas, mais sa simple présence suffit à stresser les joueurs tandis qu'ils lui piquent ses ornements légendaires.
+{% endmacro %}
+<{ magus_zombie_instructions }/>
+
 
 La bataille finale
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -69,6 +69,7 @@ NPC_OVERRIDES = dict(
     phantom_archivist=dict(official_name="L'archiviste", email_attachments=[]),
     phantom_arkon=dict(official_name="L'arkonte", email_attachments=[]),
     phantom_octave=dict(official_name="Octave", email_attachments=[]),
+    #phantom_magus=dict(official_name="Défunt Mage Mos Peratys", email_attachments=[]),
     #phantom_beast=dict(official_name="La Bête", email_attachments=[]),
     #phantom_thief=dict(official_name="Le voleur", email_attachments=[]),
 
@@ -174,6 +175,7 @@ ISOLATED_DOCS = {
     "npc_phantom_octave_sheet": ("npcs/phantom_octave_sheet.rst", "phantom_octave"),
     "npc_phantom_thief_sheet": ("npcs/phantom_thief_sheet.rst", "phantom_thief"),
     "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
+    "npc_phantom_magus_sheet": ("npcs/phantom_magus_sheet.rst", "phantom_magus"),
 }
 
 

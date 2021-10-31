@@ -5,11 +5,11 @@ IMPORTANT ; QUAND PASSAGE EN FANTOME ????????????????? SONNETTE OU MUSIQUE ?????
 
 Ajouter bandes son aux fichiers envoyés pour ORACLE !!
 
-TOUJOURS générer aussi les fiches SANS DECORATIONS!!!
+TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
 
 ----------
 
-Rédiger la fiche du mage mos peratys
+Rédiger la fiche du mage mos peratys <-- DONE, l'envoyer plus tard aux figuranst en question!!!!
 
 Mettre marque d'enchantement sur lanternes déjà allumées de l'étage maudit
 
