@@ -1,9 +1,17 @@
 
-Dire aux avatars INVENTEZ VOTRE PETIT RITUEL
+Emprunetr batteries à Valef pour le jour J
+
+Lister les Questions et reponses des réactions de chacun vis à vis de chacun, chez les figurants
+
+MANQUE un dernier code secret avec hiéroglyphes
+
+
+Dire aux avatars INVENTEZ VOTRE PETIT RITUEL DE SOIN SANTE
 
 IMPORTANT ; QUAND PASSAGE EN FANTOME ????????????????? SONNETTE OU MUSIQUE ????????
 
 
+Qu'y a-t-il d'autre dans la sacoche de l'arkonte ? Des messages ? Des potions ?
 
 Rédiger la fiche du mage mos peratys <-- DONE, l'envoyer plus tard aux figurants en question!!!!
 
@@ -16,8 +24,7 @@ TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 TODO GRELOTS AVEC ELASTIQUES !!!!
 
 
-Trouver sacoche pour le complot anti arkonte !
-
+Trouver sacoche pour le complot anti arkonte ! Et pochette du voleur sans fond !!
 
 Ce qu'il faut :
     - ANALYSES D'OBJETS avec code
@@ -25,7 +32,7 @@ Ce qu'il faut :
     - ENVOUTEMENTS avec pastille
     - ENVOUTEMENTS avec code
 
-    - CADENAS
+    - CADENAS <<< AUTRES QUE TRANSPARENTS AUSSI!!!
 
     - CODES SECRETS
     - RUNES akarites
@@ -33,16 +40,15 @@ Ce qu'il faut :
     - PIEGES désactivables
 
 
-
 URGENT DEVELOPPER TRADUCTION RUNIQUE OUVERTE !!!!!!!!! <<<<<<<<<<<<<<<<<<<<<  WIP
 
 Rajouter des fléchettes en iridium pour woodsman dans la bibliothèque ? {% hint "single_bullet_left_for_woodsman" is needed %}
 
-IMPRIMER MOULIN EN STEREOGRAMME
+
 
 MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE et d'autres avec autres objets !!!!!!!!!!!!
 
-Mettre affichettes de catégories sur les rayonnages de livres !!
+
 
 PREVOIR PILES En rhab 20xx pour télécommandes ???????
 
@@ -53,17 +59,9 @@ INTUITIONS aussi, quand ??
 
 
 
-faire blasons CADUCEES (Maupertuis) voire semi-caducee (Parcival) ?
-
-A quoi servent connaissances des blasons exactement ??? Disculper l'arkonte yep ??!!
 
 
-AJOUTER RUNES AKARITES
-- dans calepin du voleur, pour formule de astrolabe
-
-
-
-Mettre message secret sur la goule
+Mettre message secret sur la goule :?
 
 
 AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
@@ -79,19 +77,29 @@ AUDIO :
 
 
 
-
-ECRIRE dans Thanatologue le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %} (bullet enchantment)
-
-
-arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter <<< à écrire et mettre EMBLEME
-
-
 Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout
+
+
+
+MESSAGE CLOCHETTE SPECTRALE :
+ki su to | sa sa chi | so ko ka | se su ki
+clochette spectrale
+rappelle les esprits
+sous forme frénétique
+garantie 3000 ans
+
+
+TOMBEAU DU MAGE
+ku ke ko | su shi su | tsu tsu ta
+Seul le sang
+des Maupertuis
+passera sans encombre
+
 
 
 ------------------------
 
-INDICE PORTRAIT MAGE - TOO LONG Sur le portrait du mage, une multitude de petites inscriptions magnétiques vous donnent un avertissement formel : "Malheur, malheur à celui qui pénétrera dans la tombe du plus puissant magicien de tous les temps, si ne coule pas en lui le sang des Maupertuis.".
+INDICE PORTRAIT MAGE - TOO LONG Sur le portrait du mage, une multitude de petites inscriptions magnétiques vous donnent un avertissement formel : "Malheur, malheur à celui qui pénétrera dans la tombe du plus puissant magicien de tous les temps, si ne coule pas en lui le sang des Maupertuis.".  BOF
 
 INDICE PORTRAIT PERE - en UV "Rappel : Venture Prins Murmure"
 
@@ -103,10 +111,6 @@ INDICE PORTRAIT MERE - en UV ""
 IL FAUT UNE SARBACANE POUR LE DRUIDE !!!!
 
 ECRITEAU POUR CLOCHETTE SPECTRALE !
-
-UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL
-
-
 
 
 
@@ -126,9 +130,7 @@ UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL
 - mettre QUELQUES POTIONS que alchimiste doit vouloir plus tard, dans la sacoche perdue de l'exorciste
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 - TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
-
-
-
+- UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL bof
 
 
 
@@ -141,7 +143,28 @@ TRASH
 ########################################
 
 
-Ecrire message du complot anti-arkonte   DONE
+
+
+
+
+
+
+
+AJOUTER CODE
+- dans calepin du voleur, pour formule de astrolabe  DONE
+
+
+ECRIRE dans Thanatologue le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %} (bullet enchantment)   DONE
+
+
+IMPRIMER MOULIN EN STEREOGRAMME ADDED
+
+A quoi servent connaissances des blasons exactement ??? Disculper l'arkonte yep ??!!  YES
+
+Mettre affichettes de catégories sur les rayonnages de livres !!   DONE
+faire blasons CADUCEES (Maupertuis) voire semi-caducee (Parcival) ?  DONE, nope pour Parcival
+
+Ecrire message du complot anti-arkonte - arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter <<< à écrire et mettre EMBLEME  DONE
 
 REDIGER les novels, et en particulier chaos_novel_volume_three_between_zoology_and_cooking_shelves  <<< DONE
 

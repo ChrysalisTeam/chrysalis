@@ -145,18 +145,24 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("recipe_flex_elixir_and_clarity_lotion", 1),
     ("recipe_pyrolitis_tincture", 1),
     ("recipe_rejuvenation_cocktail", 1),
-    ("thanatologue_extract", 2),
+    ("thanatologue_extract", 3),
     ("meredice_diary_extract", 1),
     ("parcival_oracle_vision_about_water_mill", 1),
     ("parcival_oracle_vision_about_necromancers_and_ring_amplificans", 1),
     ("parcival_oracle_vision_about_maupertuis_father_twin_books", 1),
     ("parcival_oracle_shared_vision_about_world_threat", 3),
     ("parcival_oracle_vision_chaos_novel_tome_3", 1),
-    ("secret_codes", 1),
+    ("secret_codes_converters", 1),
     ("unreadable_runes", 2),
-    ("modern_akarith_runes", 1),
+    ("antic_akarith_runes", 1),
     ("maupertuis_father_chest_code_anamorphosis_enigma", 1),
     ("maupertuis_whispering_box_enigma", 1),
+    ("avatar_novel_summaries", 2),
+    ("conspiracy_anti_arkoon_letter_with_coast_of_arms", 1),
+    ("book_shelf_labels_for_library", 2),
+    ("maupertuis_caduceus_symbol", 1),
+    ("coffee_mill_stereogram", 1),
+    ("miscellaneous_secret_messages", 1),
 ]
 
 # documents without decorations, typically ; one can provide a LIST of RST files as value
@@ -341,7 +347,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:
+    if True:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,

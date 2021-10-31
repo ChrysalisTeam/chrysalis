@@ -812,7 +812,7 @@ Avec le moulin magique et le grimoire chantant, les explorateurs ont réussi leu
 Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Un des rares exemplaires de cet ouvrage mythique et controversé a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste indique aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% hint "family_legendary_chest_protected_by_double_key" is needed %} {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
+Un des rares exemplaires de cet ouvrage mythique et controversé a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste devrait indiquer aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% hint "family_legendary_chest_protected_by_double_key" is needed %} {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
 
 - **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans un de ses livres factices (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book" is needed %}
   Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
@@ -837,7 +837,7 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 
 - Le puissant {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} appartenant au voleur est sur sa dépouille, qui est maudite car il est "mort dans le vice". {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device' is needed %}
 
-- Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé. {% fact "thief_knows_teleportation_device_formula" %}
+- Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé. En alternative, cette formule est trouvable sous forme chiffrée dans les affaires du voleur. {% fact "thief_knows_teleportation_device_formula" %} {% hint 'thief_teleportation_device_encrypted_formula' is needed %}
 
 - Seul un héritier des Maupertuis peut se téléporter tranquillement dans le tombeau, toute autre personne y déclenche le réveil du mage sous forme zombie, et doit donc le fuir jusqu'à pouvoir se retéléporter à l'extérieur. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
@@ -885,9 +885,9 @@ Mais il existe certaines façons de l'atteindre :
 {# NOPE for now - Soit confectionner et lui faire boire une **potion magique d’autocombustion**, qui va retourner sa puissance magique contre lui ; cette potion doit impérativement lui être apportée suffisamment tôt, et par l’automate, pour qu’il ne soit pas soupçonneux. #}
 {# NOPE for now - Soit reconstituer un pentacle de renvoi ailleurs TOO HARD, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).  #}
 
-- Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de trois joueurs pour créer “la balle qui ne pardonne pas”. {% hint "unavoidable_bullet_spell_from_thanatologue" is needed %}
+- Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de **trois joueurs** pour créer “la balle qui ne pardonne pas”. {% hint "unavoidable_bullet_spell_from_thanatologue" is needed %}
 
-- Soit, la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer détruire massivement les corridors outre-monde grâce à l'un de ses **rituels**, capable de briser tous les corridors à la fois, et murer ainsi les avatars dans leurs mondes respectifs. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
+- Soit la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer détruire massivement les corridors outre-monde grâce à l'un de ses **rituels**, capable de briser tous les corridors à la fois, et murer ainsi les avatars dans leurs mondes respectifs. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
 Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'expulsion :
 

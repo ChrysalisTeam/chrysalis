@@ -2,8 +2,8 @@
 -
   - "Emplacements décorés voire illuminés aux 2 étages"
   -
-    - "P1 - Plan de l'étage autorisé, avec en signe UV les localisations de : le TOMBEAU {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %} ????????????"
-    - "P2 - Plan du domaine interdit désignant l'étagère des teintures {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
+    - "P1 - NOPE ABORTED Plan de l'étage autorisé, avec en signe UV les localisations de : le TOMBEAU {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %} ????????????"
+    - "P2 - NOPE ABORTED Plan du domaine interdit désignant l'étagère des teintures {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
 
     - "F1 - Coin du fantôme de l’archiviste"
     - "F2 - Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
@@ -17,7 +17,7 @@
     - "L5 - Mallette administrative noire des Maupertuis"
     - "L6 - Mini-jungle de grandes plantes en pot"
     - "L7 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
-    - "L8 - Sonnette de table argentée d'appel aux spectres, avec plaquette d'instructions \"Appuyer 3 Fois Très Fort\" (envoûtement INCOMPRÉHENSIBLE)"
+    - "L8 - Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (marque d'envoûtement INCOMPRÉHENSIBLE)"
     - "L9 - Galerie de portraits des Maupertuis"
 
     - "P1 - Niche de la Bête"
@@ -49,7 +49,6 @@
 
 
 # ETAGE AUTORISÉ #
-
 
 
 -
@@ -105,7 +104,7 @@
 -
   - "Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %} et "
   -
-    - "Livret généalogique des Maupertuis avec leur symbole familial secret en ultraviolet {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
+    - "Livret généalogique des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
     - "Coffret avec envoûtement NEGATIF LEGENDAIRE, piégé avec une CIGALE {% hint 'trap_in_family_briefcase' is provided %}"
 
 -
@@ -149,7 +148,7 @@
   - "Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
   -
     - "Code d'envoûtement NEGATIF [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] sur la porte du tombeau"
-    - "MESSAGE chiffré 'Seul le sang des Maupertuis passera sans encombre' {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %}"
+    - "MESSAGE RUNIQUE 'Seul le sang des Maupertuis passera sans encombre' {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %}"
     - "1 pierre tombale verte"
     - "2 grosses bougies (3xAAA chacune)"
     - "Aube de pape dorée"
@@ -238,6 +237,7 @@
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF)"
     - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF)"
     - "Lanterne en argent cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
+    - "Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is needed %}"
 
 # DIVERS AUTRES #
 
@@ -309,7 +309,7 @@
     - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
     - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour duchesse, qui le fournira au joueur oracle)"
     - "Sarbacane-nerf (pour le druide) IMPORTANT?????????"
-    - "Sacoche de l'arkonte, avec une fausse lettre compromettante au blason de faucille et houx, et de l'argent {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %}"
+    - "Sacoche de ceinture de l'arkonte, avec une fausse lettre compromettante au blason de faucille et houx, et de l'argent {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %}  XXXXXXQUOI D'AUTRE???"
     - "Cape et autres vêtements de druide @Pascal"
 
 -
@@ -348,6 +348,8 @@
     - "L'application de recherche de balises BLUETOOTH doit fonctionner pour toutes les balises cachées"
     - "Les petits bijoux et clés doivent être attachés à des gros rubans, pour ne pas les perdre en jeu"
     - "Le détecteur de métaux doit bien sonner près des éboulis, ou des coffrets d'initiation d'Octave, s'ils contiennnent des valeurs"
+    - "Mettre les étiquettes sur les rayonnages de livres des 2 étages, en faisant attention à celles importantes dans le scénario (zoologie, cuisine, et teintures)."
+    - "Mettre le symbole des Maupertuis (Caducée) sur les objets pertinents"
 
 -
   - "logistique et décorations diverses"
