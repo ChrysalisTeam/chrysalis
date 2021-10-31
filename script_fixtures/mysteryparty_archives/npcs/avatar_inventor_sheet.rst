@@ -14,6 +14,8 @@ Votre profil
 
 Votre nom complet a beau être sir Jacques Vaucanson, dans les faits  on vous surnomme souvent "{% symbol "Jacko" for "inventor_nickname" %}".
 
+{# ATTENTION GARDER CELA EN SYNCHRO AVEC LE RESUME IMPRIMABLE DU LIVRE #}
+
 Dans votre roman, vous avez secouru un vieux savant, dont des espions étrangers convoitaient les inventions pour un usage militaire.
 A son contact, vous avez appris l'art de la mécanique, de la force électromagnétique, du travail du bois et du métal, et bientôt l'élève a dépassé le maître.
 Depuis, malgré votre jeunesse, vous êtes devenu un scientiste et maître-automaticien renommé, qui bricole avec bonheur des créatures et des véhicules regorgeant d'engrenages.

@@ -75,12 +75,13 @@ NPC_OVERRIDES = dict(
     #god_ankou=dict(official_name="L'Ankou", email_attachments=[]),
 )
 
+# FIXME rename to "character"
 PLAYER_INITIAL_EMAIl_TEMPLATE = """\
 ## Message exclusivement destiné à %(real_life_identity)s (%(real_life_email)s) ##
 
 Bonjour,
 
-Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis" du *vendredi 26 novembre à 18h30* à la médiathèque CAPI Agnès Varda de l'Isle d'Abeau.
+Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis".
 
 Un document à lire et relire sans modération !
 
@@ -95,6 +96,27 @@ Bonne lecture !
 Amicalement,
 Les Organisateurs
 """
+
+
+AUTOMATA_INITIAL_EMAIl_TEMPLATE = """
+Bonjour,
+
+Voici des informations sur l'univers du jeu et les règles, pour la soirée mystère "Les archives secrètes des Maupertuis"
+
+En tant que figurants automates, vous n'avez pas de fiche de personnage avec un rôle spécifique, mais vous pourrez suivre les joueurs dans leurs aventures.
+
+Seule la section "Fonctionnement des différents mondes" du "Compléments des Figurants" est importante pour vous, le reste est uniquement là à titre informatif.
+
+IMPORTANT - Nous vous remercions de bien vouloir :
+- acquitter bonne réception de cet email
+- signaler toute incohérence ou lacune que vous verriez dans ces documents
+
+Bonne lecture !
+
+Amicalement,
+Les Organisateurs
+"""
+
 
 player_names = set(CHARACTER_OVERRIDES.keys())
 npc_names = set(NPC_OVERRIDES.keys())

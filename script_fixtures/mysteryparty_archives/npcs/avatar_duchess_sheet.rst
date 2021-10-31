@@ -12,6 +12,7 @@ Votre profil
 
 <{ avatar_principle_summary }/>
 
+{# ATTENTION GARDER CELA EN SYNCHRO AVEC LE RESUME IMPRIMABLE DU LIVRE #}
 Dans votre roman, vous avez sauvé votre famille d'un complot ourdi par une dynastie rivale, en vous alliant avec un
 gang de mousquetaires renégats et le chef corsaire "Barbe Blonde". Devenue duchesse, et épouse dudit corsaire, vous avez assuré un
 plaisant avenir à vos enfants et à votre duché.

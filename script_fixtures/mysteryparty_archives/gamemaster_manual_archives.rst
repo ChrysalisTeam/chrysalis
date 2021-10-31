@@ -429,7 +429,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 {% macro avatar_druid_character_summary() %}
 
-- HEROS DE ROMAN (titre “{% symbol "Les sorciers du chaos" for "druid_novel_name" %}”, en 3 Tomes)
+- HEROS DE ROMAN (titre “{% symbol "Les sorciers du chaos" for "druid_novel_name" %}”, en {% symbol "3" for "druid_novel_volumes" %} Tomes)
 
 - Traits : doux, discret, érudit, ami des plantes et des bêtes
 
@@ -437,7 +437,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 - C’est lui le “vrai méchant”
 
-- Dans les 2 premiers tomes de son roman, il parcourt le monde pour défaire les sombres magiciens qui contrôlent chaque continent. Mais dans le 3e tome, après avoir tué le dernier Seigneur, il révèle sa vraie nature et devient le Guide de Gaia, qui soumet l’humanité à une utopie brutale de “retour à la Nature”.
+- Dans les 2 premiers tomes de son roman, il parcourt le monde pour défaire les sombres magiciens qui contrôlent chaque continent. Mais dans le 3e tome, après avoir tué le dernier sorcier, il révèle sa vraie nature et devient le Guide de Gaïa, qui soumet la planète à une utopie brutale de “Retour à la Nature”.
 
 - Il est très habile, a des pouvoirs magiques, résiste à la magie et aux poisons (ainsi qu’au sacré bien sûr), et régénère très vite son corps en cas de blessure.
 
@@ -453,7 +453,7 @@ L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 
 {% macro avatar_inventor_character_summary() %}
 
-- HEROS DE ROMAN (titre “Le ballet des automates”, en 1 seul Tome)
+- HEROS DE ROMAN (titre “{% symbol "Le ballet des automates" for "avatar_inventor_novel_name" %}”, en 1 seul Tome)
 
 - Traits : extraversion, bonnes manières, langage châtié, dynamisme
 
@@ -469,7 +469,7 @@ La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %}
 
 {% macro avatar_duchess_character_summary() %}
 
-- HEROINE DE ROMAN (titre "Les cygnes d'étang", en 1 seul Tome)
+- HEROINE DE ROMAN (titre "{% symbol "Les cygnes d'étang" for "avatar_duchess_novel_name" %}", en 1 seul Tome)
 
 - Traits : distinguée, sensible, pieuse, protectrice, entreprenante
 
