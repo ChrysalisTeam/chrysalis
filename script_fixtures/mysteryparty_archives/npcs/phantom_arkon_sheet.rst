@@ -14,7 +14,7 @@ Héroïque "arkonte" (chevalier béni par les dieux) de la religion yodique (et 
 
 Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "library_initial_events_timedelta" %}, lors de votre séjour dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, non loin des ruines du domaine Maupertuis. A la faveur du {% symbol "solstice d'hiver" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %} menant à une étrange bibliothèque.
 
-Votre ordre vous avait mis en garde contre ces phénomènes rarissimes par lesquels différents univers s'entremêlaient : leurs propriétés physiques, magiques et spirituelles, partiellement incompatibles, pouvaient donner à de grands drames, même sans mauvaises intentions. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique vers la bibliothèque ne se referme.
+Votre ordre vous avait mis en garde contre ces phénomènes rarissimes par lesquels différents univers s'entremêlaient : leurs propriétés physiques, magiques et spirituelles, partiellement incompatibles, pouvaient donner à de grands drames, même sans mauvaises intentions. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique vers la bibliothèque ne se referme. Et vous avez convaincu les habitants du lieu de vous laisser faire.
 
 
 La malédiction de la bibliothèque
@@ -30,7 +30,7 @@ Vous avez vu passer des spectres en errance, sans doute ceux de l'enfant et de l
 
 Vous attendez donc que quelqu'un de la surface, sensible à ces perturbations dans les strates d'existence, vienne à votre secours... De préférence un arkonte du même culte que vous, en qui vous puissiez avoir suffisamment confiance pour lui faire votre "{% symbol "confession de mission" for "arkon_mission_confession" %}" et le laisser résoudre correctement le problème. En effet, même le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %} n'est pas un gage suffisant, car plus d'un fanatique a préféré le briser, et être châtié mortellement peu après, que de faire ce qui était réellement juste et juré.
 
-Il faudra à votre salvateur, non pas briser votre {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque - ce qui anéantirait vos efforts - mais traquer et tuer la monstruosité qui s'y terre assurément encore. Qu'il vous tarde de voir cette mission connaitre une fin heureuse, et de pouvoir rejoindre vos pairs dans les banquets célestes.
+Il faudra à votre salvateur, non pas briser votre {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque - ce qui anéantirait vos efforts - mais traquer et tuer la monstruosité qui s'y terre assurément encore, et rompre pour de bon les corridors d'outre-monde. Qu'il vous tarde de voir cette mission connaitre une fin heureuse, et de pouvoir rejoindre vos pairs dans les banquets célestes.
 
 
 {#
@@ -57,6 +57,8 @@ Au tout début de votre parcours initiatique d'arkonte, vous avez retrouvé le l
 Vous connaissez d'autres légendes remontant à l'ère du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}. L'une d'elle parle de divers artefacts (bijoux, sceptres, armes) créés par une petite secte, et appelés les **"Amplificans"**, qui avaient pour particularité d'étendre la portée spatiale des sortilèges de leur porteur. Avec cet effet démultiplicateur, un rituel créant habituellement un petit mur de flamme sur quelques pas pouvait se retrouver à embraser une plaine entière. Le symbole commun à ces artefacts était un **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**, en plus de leur **taille exagérément grande**. D'après vous, clairement, le mage a utilisé de telles sources de pouvoir. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
 Vous aviez, longtemps avant votre mort, rendu votre **squelette indestructible**, tout autant pour renforcer votre corps, que pour éviter que votre possible disparition dans les griffes de quelque ennemi ne demeure à jamais un mystère. C'est ça l'esprit de prévoyance.
+
+Vous pouvez être assez frustré de découvrir que votre ancien monastère héberge désormais un culte concurrent, celui des diacres de {% symbol "Bahamoot" for "god_of_diakons" %}. Mais enfin, c'est la marche du monde.
 
 Si l'on vous interroge : vous ne connaissez pas de solution miracle à une **légion de zombies** - à part les combattre un à un avec des armes de préférence bénites. Mais vous avez entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
