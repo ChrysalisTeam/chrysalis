@@ -182,7 +182,7 @@
     - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
     - "Chaudron en cuivre avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
     - "Passoire cylindrique en métal"
-    - "Mini-meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT, avec dedans la potion de vapeur de Thorium et une aventurine {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
+    - "Mini-meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT, avec dedans la potion de vapeur de Thorium et une Aventurine {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}{% hint 'aventurine_for_incense' is provided %}"
     - "Grand lot de petites bouteilles diverses et de condiments"
     - "Fontaine à encens illuminée LED"
     - "Base de sapin écairante à LEDs (3xAA) @Pascal"
@@ -201,7 +201,7 @@
     - "Boule plasma Pearl (USB ou 4xAAA)"
     - "Guirlande multicolore SilverWireLights (3xAA) @Cat"
     - "Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et Fluorite {% hint 'gem_fluorine' is provided %}"
-    - "Gemmes d'Aventurine et Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %} {% hint 'aventurine_for_incense' is provided %}"
+    - "Gemme d'Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %}"
     - "Lot d'autres petites pierres du monde avec étiquettes"
     - "Cristaux et gemmes diverses"
     - "Coffret en bois clair et jointures laiton PIÉGÉ"
@@ -220,7 +220,7 @@
     - "Accès bloqué par une porte en bronze de type 'ULTRA-LOURD"
     - "SCEAU d'initiation (avec guirlande), et mini-coffrets (recouverts d'un drap noir) de l'initiation d'Octave dont un contenant sa broche {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %} {% hint 'maupertuis_initiation_seal' is provided %}"
     - "Note: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
-    - "Coffret avec envoûtement NEGATIF LEGENDAIRE, piégé avec une CIGALE"
+    - "Coffret avec envoûtement NEGATIF LEGENDAIRE, piégé avec une CIGALE ???????????????"
 
 -
   - "Corridor de Peau de Pierre (cul-de-sac)"

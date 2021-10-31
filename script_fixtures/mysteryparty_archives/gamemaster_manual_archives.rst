@@ -559,7 +559,7 @@ Un joueur peut être atteint dans les cas suivants :
 
 - S’il se fait toucher par un fantôme (incarné ou non) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer. {% fact "phantom_touch_harms_the_living" %}
 
-- S’il touche un objet manifestement maudit, comme un crâne sonore ou les ossements qui sont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- S’il touche un objet manifestement maudit, comme un crâne sonore ou les ossements qui sont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
 - S’il déclenche un piège physique ou magique, c'est-à-dire fait tomber un **grelot** par terre (ex. fil tendu dans une allée) ou déclenche le cri d'une **cigale** à détecteur de présence (ex. en ouvrant un coffre) : **blessure biologique**.
  {% fact "cicada_or_minibell_sound_mean_injury" %}
@@ -580,13 +580,13 @@ Les joueurs sont très démunis face aux diverses blessures, ils n'ont PAS de co
 
 **Guérisons par des avatars** : Toutes les blessures peuvent être guéries par des avatars, mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur){% fact "avatar_abilities_are_randomly_hazardous" %}. Dans tous les cas, les avatars doivent d'abord laisser le joueur avec ses blessures pendant 5-10mn, le temps de "rassembler ce qu'il faut pour le soigner".
 
-- la **duchesse** peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour réparer une blessure sacrée (touchant l'âme) {% fact "duchess_can_dangerously_heal_sacred_injuries" %}
-- le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "druid_can_dangerously_heal_limited_injuries" %}
-- l'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "inventor_can_dangerously_heal_missing_limbs" %}
+- La **duchesse** peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour réparer une blessure sacrée (touchant l'âme). {% fact "duchess_can_dangerously_heal_sacred_injuries" %}
+- Le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques. {% fact "druid_can_dangerously_heal_limited_injuries" %}
+- L'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu. {% fact "inventor_can_dangerously_heal_missing_limbs" %}
 
-**Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes blocages que les autres fantômes ({% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet d'accéder aux corridors piégés et autres lieux dangereux pour les vivants.
+**Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes barrières que l'ensemble des protagonistes ({% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet d'accéder aux corridors piégés et autres lieux dangereux pour les vivants.
 
-Avec le bon rituel du {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de **ressusciter un joueur** à l’état de **zombie** pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de "zombie à l’ancienne” (ex. il parle bizarrement, peut marcher en titubant, mais ne peut pas courir...). {% fact "players_have_thanatologue_spell_to_summon_zombies" %}
+Avec le bon rituel du grimoire {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de **ressusciter un joueur** à l’état de **zombie** pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de "zombie à l’ancienne” (ex. il parle bizarrement, peut marcher en titubant, mais ne peut pas courir...). {% fact "players_have_thanatologue_spell_to_summon_zombies" %}
 
 {% endmacro %}
 <{ injury_cases_and_remedies }/>
@@ -674,6 +674,7 @@ La bataille finale
 
 Voir la quête `Neutraliser le méchant`_ pour un aperçu des déroulements possibles de cet épisode final.
 
+
 L’épilogue musical
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -689,6 +690,28 @@ L’archiviste et l’arkonte suivent avec solennité.
 La Bête peut potentiellement reparaître juste pour s'échapper elle aussi, de façon comique, de même que le voleur.
 
 Les automates guident ensuite les joueurs vers la sortie de la bibliothèque, avant que les portails magiques ne se referment jusqu'au prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}.
+
+
+Planification des prophéties et intuitions
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*Durant l'ensemble du jeu, il est important qu'un figurant soit affecté à la gestion des éléments de clairvoyance à transmettre au joueur Oracle, au bon moment. La prophétie n'a pas besoin de se déclencher tout de suite quand une plume est trouvée, il peut être bon d'attendre le moment opportun pour la divulguer à l'Oracle.*
+
+- **Intuition initiale sur la Bête** (avant l'entrée en jeu) : *"Vous sentez de multiples présences errantes, et parmi elles une remplie d'incompréhension et de haine. Vous sentez aussi une vieille présence endormie, à la fois fière et vindicative, qui semble vous appeler à elle."*
+
+- **Vision des livres jumeaux du père Maupertuis** (plume dans le coffre commun des Maupertuis) : Vision simple, musique "In Uchronia - One Last Stand". {% hint 'feather_in_common_family_chest' is needed %}
+
+- **Intuition sur l'étage interdit** (lorsque l'étage interdit est ouvert) : *"Vous sentez se déverser sur vous le poids de siècles, de millénaires mêmes, de connaissances qui sont sources de vie, mais aussi souvent de mort. Cependant, vous le sentez, le Mal est bien plus ancré dans l'étage autorisé, qu'il ne l'est dans l'étage interdit."*
+
+- **Vision sur le moulin générateur de richesses** (plume dans l'atelier de gemmologie) : Vision simple, musique "In Uchronia - Here and Now (Seed's Theme).mp3". {% hint 'feather_in_gemmology_lab' is needed %}
+
+- **Vision de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "In Uchronia - The Calling.mp3". {% hint 'feather_in_thanatologue' is needed %}
+
+- **"Vision du 3e Tome égaré du druide"** (plume dans la sacoche de l'arkonte) : Vision simple, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 1.mp3". {% hint 'feather_in_arkon_bag' is needed %}
+
+- **Vision du crâne de l’arkonte et du danger planétaire** (si allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 2.mp3"
+
+- **Intuition sur la dernière bataille** (lorsque le méchant est démasqué) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un toureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire le taureau."*
 
 
 Quêtes et parcours d’énigmes
@@ -875,7 +898,7 @@ Mais lorsque ces 2 indices rassemblés sont exposés aux autres avatars, ils con
 Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu’il a accès aux grimoires du domaine interdit, il finira bien par découvrir comment utiliser la magie de ce monde et briser la malédiction de la bibliothèque ; mais eux ont des missions urgentes à accomplir et doivent ressortir avant que les portails planétaires ne se referment, d'ici quelques heures.
 
 Le druide prévient qu'il ne s'éloignera plus du pentacle du rituel de l'arkonte, afin que personne ne tente de le renvoyer de force dans son monde ; et qu'il sentirait si un autre pentacle similaire était créé dans les environs.
-Typiquement, il se met alors à lire des grimoires, l'air enthousiaste, non loin du pentacle. {% fact "druid_reads_near_pentacle_before_game_ending" %}
+Typiquement, il se met alors à lire des grimoires (dont le Thanatologue), l'air enthousiaste, non loin du pentacle. {% fact "druid_reads_near_pentacle_before_game_ending" %}
 
 Le traître est insensible aux attaques usuelles.
 Si les joueurs l'agressent directement, il en tue un (qui devient un fantôme), puis ordonne aux autres de continuer à chercher comment lever la malédiction.

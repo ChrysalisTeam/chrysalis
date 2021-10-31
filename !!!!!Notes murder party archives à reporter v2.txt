@@ -23,6 +23,7 @@ AJOUTER UN DERNIER TRAP en fil ??
 TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 TODO GRELOTS AVEC ELASTIQUES !!!!
 
+DONNER GRIMOIRES à lire au druide à la fin
 
 Trouver sacoche pour le complot anti arkonte ! Et pochette du voleur sans fond !!
 
@@ -33,6 +34,8 @@ Ce qu'il faut :
     - ENVOUTEMENTS avec code
 
     - CADENAS <<< AUTRES QUE TRANSPARENTS AUSSI!!!
+
+    - Codes via magnétisme !!!
 
     - CODES SECRETS
     - RUNES akarites
@@ -45,12 +48,10 @@ URGENT DEVELOPPER TRADUCTION RUNIQUE OUVERTE !!!!!!!!! <<<<<<<<<<<<<<<<<<<<<  WI
 Rajouter des fléchettes en iridium pour woodsman dans la bibliothèque ? {% hint "single_bullet_left_for_woodsman" is needed %}
 
 
-
-MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE et d'autres avec autres objets !!!!!!!!!!!!
-
+MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE et d'autres avec autres objets !!!!!!!!!!!! << JUSTE LES IMPRIMER (P:\!!AFFAIRE EN COURS\2020 Murder Party Mediathèque Isle Abeau\Materiel\Affiches d'objets)
 
 
-PREVOIR PILES En rhab 20xx pour télécommandes ???????
+PREVOIR PILES En rhab CR20xx pour télécommandes ???????
 
 
 Où et quand surviennent les oracles/visions, faire planning
@@ -59,9 +60,6 @@ INTUITIONS aussi, quand ??
 
 
 
-
-
-Mettre message secret sur la goule :?
 
 
 AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
@@ -73,7 +71,7 @@ AUDIO :
 
     FAIRE bande son du venture prins !!
 
-    PRE-ENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ?
+    PRE-ENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ?  ET TROUVER MUSIQUE
 
 
 
@@ -98,6 +96,9 @@ passera sans encombre
 
 
 ------------------------
+
+CA PEUT ETRE DU MAGNETISME
+
 
 INDICE PORTRAIT MAGE - TOO LONG Sur le portrait du mage, une multitude de petites inscriptions magnétiques vous donnent un avertissement formel : "Malheur, malheur à celui qui pénétrera dans la tombe du plus puissant magicien de tous les temps, si ne coule pas en lui le sang des Maupertuis.".  BOF
 
@@ -131,7 +132,7 @@ ECRITEAU POUR CLOCHETTE SPECTRALE !
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 - TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
 - UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL bof
-
+- Mettre message secret sur la goule :?
 
 
 
