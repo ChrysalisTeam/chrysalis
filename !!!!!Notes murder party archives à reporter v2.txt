@@ -3,13 +3,9 @@ Dire aux avatars INVENTEZ VOTRE PETIT RITUEL
 
 IMPORTANT ; QUAND PASSAGE EN FANTOME ????????????????? SONNETTE OU MUSIQUE ????????
 
-Ajouter bandes son aux fichiers envoyés pour ORACLE !!
 
-TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
 
-----------
-
-Rédiger la fiche du mage mos peratys <-- DONE, l'envoyer plus tard aux figuranst en question!!!!
+Rédiger la fiche du mage mos peratys <-- DONE, l'envoyer plus tard aux figurants en question!!!!
 
 Mettre marque d'enchantement sur lanternes déjà allumées de l'étage maudit
 
@@ -19,7 +15,8 @@ AJOUTER UN DERNIER TRAP en fil ??
 TODO TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 TODO GRELOTS AVEC ELASTIQUES !!!!
 
-Ecrire message du complot anti-arkonte et trouver sacoche
+
+Trouver sacoche pour le complot anti arkonte !
 
 
 Ce qu'il faut :
@@ -44,6 +41,7 @@ Rajouter des fléchettes en iridium pour woodsman dans la bibliothèque ? {% hin
 IMPRIMER MOULIN EN STEREOGRAMME
 
 MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE et d'autres avec autres objets !!!!!!!!!!!!
+
 Mettre affichettes de catégories sur les rayonnages de livres !!
 
 PREVOIR PILES En rhab 20xx pour télécommandes ???????
@@ -53,7 +51,6 @@ Où et quand surviennent les oracles/visions, faire planning
 INTUITIONS aussi, quand ??
  {% fact "revelations_are_simulated_by_colored_feathers" %}
 
-PRE-ENREGISTRER PROPHECY AUDIO finale avertissant contre danger du druide
 
 
 faire blasons CADUCEES (Maupertuis) voire semi-caducee (Parcival) ?
@@ -73,13 +70,14 @@ AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
 EX. LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
 
 
- FAIRE bande son du venture prins !!
+AUDIO :
+    PRE-ENREGISTRER PROPHECY AUDIO finale avertissant contre danger du druide
+
+    FAIRE bande son du venture prins !!
+
+    PRE-ENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ?
 
 
-REDIGER les novels, et en particulier chaos_novel_volume_three_between_zoology_and_cooking_shelves
-
-
-PRE-ENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ?
 
 
 ECRIRE dans Thanatologue le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %} (bullet enchantment)
@@ -126,8 +124,8 @@ UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL
 **Rupture de corridor outre-monde**  <--- metter tag {% SYMBOL %}
 À  É
 - mettre QUELQUES POTIONS que alchimiste doit vouloir plus tard, dans la sacoche perdue de l'exorciste
-
-
+- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
+- TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
 
 
 
@@ -142,6 +140,10 @@ UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL
 TRASH
 ########################################
 
+
+Ecrire message du complot anti-arkonte   DONE
+
+REDIGER les novels, et en particulier chaos_novel_volume_three_between_zoology_and_cooking_shelves  <<< DONE
 
 DONNER OBJECTIFS CHIFFRéS POUR TRESOR aux spies
 
