@@ -182,6 +182,8 @@ ISOLATED_DOCS = {
     "npc_phantom_thief_sheet": ("npcs/phantom_thief_sheet.rst", "phantom_thief"),
     "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
     "npc_phantom_magus_sheet": ("npcs/phantom_magus_sheet.rst", "phantom_magus"),
+
+    "planning_of_prophecies": ("miscellaneous/planning_of_prophecies.rst", "anyone"),
 }
 
 
@@ -347,7 +349,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if True:
+    if False:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,

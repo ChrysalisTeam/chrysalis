@@ -695,6 +695,10 @@ Les automates guident ensuite les joueurs vers la sortie de la bibliothèque, av
 Planification des prophéties et intuitions
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
+{% macro planning_of_prophecies() %}
+
+{% hint 'npc_responsible_for_prophecies_monitoring' is needed %}
+
 *Durant l'ensemble du jeu, il est important qu'un figurant soit affecté à la gestion des éléments de clairvoyance à transmettre au joueur Oracle, au bon moment. La prophétie n'a pas besoin de se déclencher tout de suite quand une plume est trouvée, il peut être bon d'attendre le moment opportun pour la divulguer à l'Oracle.*
 
 - **Intuition initiale sur la Bête** (avant l'entrée en jeu) : *"Vous sentez de multiples présences errantes, et parmi elles une remplie d'incompréhension et de haine. Vous sentez aussi une vieille présence endormie, à la fois fière et vindicative, qui semble vous appeler à elle."*
@@ -705,13 +709,16 @@ Planification des prophéties et intuitions
 
 - **Vision sur le moulin générateur de richesses** (plume dans l'atelier de gemmologie) : Vision simple, musique "In Uchronia - Here and Now (Seed's Theme).mp3". {% hint 'feather_in_gemmology_lab' is needed %}
 
-- **Vision de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "In Uchronia - The Calling.mp3". {% hint 'feather_in_thanatologue' is needed %}
+- **Vision de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "In Uchronia - The Calling.mp3". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% hint 'feather_in_thanatologue' is needed %}
 
-- **"Vision du 3e Tome égaré du druide"** (plume dans la sacoche de l'arkonte) : Vision simple, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 1.mp3". {% hint 'feather_in_arkon_bag' is needed %}
+- **Vision du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte) : Vision simple, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 1.mp3". {% hint 'feather_in_arkon_bag' is needed %}
 
 - **Vision du crâne de l’arkonte et du danger planétaire** (si allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 2.mp3"
 
 - **Intuition sur la dernière bataille** (lorsque le méchant est démasqué) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un toureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire le taureau."*
+
+{% endmacro %}
+<{ planning_of_prophecies }/>
 
 
 Quêtes et parcours d’énigmes
