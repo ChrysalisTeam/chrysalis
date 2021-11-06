@@ -200,6 +200,7 @@
 -
   - "Laboratoire de gemmologie"
   -
+    - "Lanterne à flamme (3xAA) (marque d'envoûtement POSITIF)"
     - "3 faux-galets creux (pierreries dedans)"
     - "Mini-globe terrestre"
     - "Boule plasma Pearl (USB ou 4xAAA)"
@@ -314,8 +315,8 @@
     - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
     - "Projecteur ovale sonore LuckyStone (microUSB) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour la duchesse, qui le fournira au joueur oracle)"
     - "Fiche de planification et images des prophéties et intuitions (pour la duchesse) {% hint 'npc_responsible_for_prophecies_monitoring' is provided %}{% hint 'parcival_oracle_intuition_hints' is provided %}"
-    - "Sarbacane-nerf (pour le druide) IMPORTANT?????????"
-    - "Sacoche de ceinture de l'arkonte, avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'feather_in_arkon_bag' is provided %} XXXXXXQUOI D'AUTRE???"
+    - "Sarbacane-flûte (pour le druide) {% hint 'blowpipe_flute_for_druid' is provided %}"
+    - "Sacoche de ceinture de l'arkonte, avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'feather_in_arkon_bag' is provided %} XXXXXXQUOI-D'AUTRE-POTION-MESSAGE???"
     - "Cape et autres vêtements de druide @Pascal"
 
 -
@@ -406,6 +407,6 @@
 
 # BESOINS EN PILES #
 # AAA : 3 + 6 + 3 + 4 + 2 + 3 + 21 = 42
-# AA : 2 + 4 + 4 + 2 + 4 + 3 + 3 + 2 + 4 = 28
+# AA : 2 + 4 + 4 + 2 + 4 + 3 + 3 + 2 + 4 + 3 = 31
 # LR20D : 8
 # Pile rectangle 9V : 1  (+1 en secours)

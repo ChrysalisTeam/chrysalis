@@ -1,29 +1,15 @@
 
 TODO CHECKLIST POUR epilogue - braquer le spot vers le bas, mettre ailes etc !!!
 
+RACHETER PILES AA en masse ; megapile D aussi ?
 
-!!!!! DISSEMINER LES PLUMES de l'ORACLE!!
 Besoin d'un chaudron ??
-
-
-Emprunter batteries à Valef pour le jour J  DONE
-
-Lister les Questions et reponses des réactions de chacun vis à vis de chacun, chez les figurants
 
 MANQUE un dernier code secret avec hiéroglyphes
 
-
-Dire aux avatars INVENTEZ VOTRE PETIT RITUEL DE SOIN SANTE
-
 IMPORTANT ; QUAND PASSAGE EN FANTOME ????????????????? SONNETTE OU MUSIQUE ????????
 
-FORCER à valider chaque tentive avec le symbole
-
-Qu'y a-t-il d'autre dans la sacoche de l'arkonte ? Des messages ? Des potions ?
-
-Rédiger la fiche du mage mos peratys <-- DONE, l'envoyer plus tard aux figurants en question!!!!
-
-Mettre marque d'enchantement sur lanternes déjà allumées de l'étage maudit
+FORCER à valider chaque tentative avec le symbole sur tablette ??
 
 Reviewer les lecteurs mp3 sonores présents !!!!
 
@@ -43,32 +29,23 @@ Ce qu'il faut :
 
     - CADENAS <<< AUTRES QUE TRANSPARENTS AUSSI!!!
 
-    - Codes via magnétisme !!!
+    - Codes via magnétisme !!! <<<<<<<<<<<<<<<<<<<<<<<<<<
 
     - CODES SECRETS
     - RUNES akarites
 
     - PIEGES désactivables
 
-L'ankou doit dire "n'oublies tu pas quelque chose", l'arkonte aussi, à Octave lors de l'épilogue s'il oublie
 
-URGENT DEVELOPPER TRADUCTION RUNIQUE OUVERTE !!!!!!!!! <<<<<<<<<<<<<<<<<<<<<  WIP
+
+URGENT DEVELOPPER TRADUCTION RUNIQUE OUVERTE et MAJ site wbe ANTHROPIA  !!!!!!!!! <<<<<<<<<<<<<<<<<<<<<  WIP
 
 Rajouter des fléchettes en iridium pour woodsman dans la bibliothèque ? {% hint "single_bullet_left_for_woodsman" is needed %}
-
 
 MANQUE CHALUMEAU, AU PIRE EN METTRE UNE AFFICHE et d'autres avec autres objets !!!!!!!!!!!! << JUSTE LES IMPRIMER (P:\!!AFFAIRE EN COURS\2020 Murder Party Mediathèque Isle Abeau\Materiel\Affiches d'objets)
 
 
-PREVOIR PILES En rhab CR20xx pour télécommandes ???????
-
-
-Où et quand surviennent les oracles/visions, faire planning
-INTUITIONS aussi, quand ??
- {% fact "revelations_are_simulated_by_colored_feathers" %}
-
-
-
+PREVOIR PILES En rhab CR20xx pour télécommandes ??????? bof nan ya plein de telecommandes en trop
 
 
 AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
@@ -76,19 +53,17 @@ EX. LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
 
 
 AUDIO :
-    PRE-ENREGISTRER PROPHECY AUDIO finale avertissant contre danger du druide
+    PRE-ENREGISTRER PROPHECY AUDIO
 
-    FAIRE bande son du venture prins !!
+    FAIRE bande son du venture prins avec code secret !!
 
     PRE-ENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ?  ET TROUVER MUSIQUE
-
-
 
 Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout
 
 
 
-MESSAGE CLOCHETTE SPECTRALE :
+MESSAGE CLOCHETTE SPECTRALE :   ECRITEAU POUR CLOCHETTE SPECTRALE
 ki su to | sa sa chi | so ko ka | se su ki
 clochette spectrale
 rappelle les esprits
@@ -106,21 +81,21 @@ passera sans encombre
 
 ------------------------
 
-CA PEUT ETRE DU MAGNETISME
+CA PEUT ETRE DU MAGNETISME :
 
+    INDICE PORTRAIT MAGE - TOO LONG Sur le portrait du mage, une multitude de petites inscriptions magnétiques vous donnent un avertissement formel : "Malheur, malheur à celui qui pénétrera dans la tombe du plus puissant magicien de tous les temps, si ne coule pas en lui le sang des Maupertuis.".  BOF
 
-INDICE PORTRAIT MAGE - TOO LONG Sur le portrait du mage, une multitude de petites inscriptions magnétiques vous donnent un avertissement formel : "Malheur, malheur à celui qui pénétrera dans la tombe du plus puissant magicien de tous les temps, si ne coule pas en lui le sang des Maupertuis.".  BOF
+    INDICE PORTRAIT PERE - en UV "Rappel : Venture Prins Murmure"
 
-INDICE PORTRAIT PERE - en UV "Rappel : Venture Prins Murmure"
-
-INDICE PORTRAIT MERE - en UV "" 
+    INDICE PORTRAIT MERE - en UV ""
 
 -------------------------
 
 
 IL FAUT UNE SARBACANE POUR LE DRUIDE !!!!
 
-ECRITEAU POUR CLOCHETTE SPECTRALE !
+
+
 
 
 
@@ -144,6 +119,20 @@ ECRITEAU POUR CLOCHETTE SPECTRALE !
 - Mettre message secret sur la goule :?
 - Ajouter que les FANTOMES ont tous déjà vu l'ankou précédemment ????
 - NOPE ABORTED Plan de l'étage autorisé et interdit : à changer
+- ECRIER AU PROPER l'epilogue
+   > L'ankou doit dire "n'oublies tu pas quelque chose", l'arkonte aussi, à Octave lors de l'épilogue s'il oublie
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -156,7 +145,19 @@ TRASH
 
 
 
+Où et quand surviennent les oracles/visions, faire planning
+INTUITIONS aussi, quand ??   DONE
+ {% fact "revelations_are_simulated_by_colored_feathers" %}
 
+Mettre marque d'enchantement positif sur lanternes déjà allumées de l'étage maudit
+
+Rédiger la fiche du mage mos peratys <-- DONE, l'envoyer plus tard aux figurants en question!!!!
+
+Qu'y a-t-il d'autre dans la sacoche de l'arkonte ? Des messages ? Des potions ? (dans CHECKLIST DEJA)
+
+Lister les Questions et reponses des réactions de chacun vis à vis de chacun, chez les figurants   DONE
+
+Emprunter batteries à Valef pour le jour J  DONE
 
 
 AJOUTER CODE
