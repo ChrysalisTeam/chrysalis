@@ -703,19 +703,19 @@ Planification des prophéties et intuitions
 
 - **Intuition initiale sur la Bête** (avant l'entrée en jeu) : *"Vous sentez de multiples présences errantes, et parmi elles une remplie d'incompréhension et de haine. Vous sentez aussi une vieille présence endormie, à la fois fière et vindicative, qui semble vous appeler à elle."*
 
-- **Vision des livres jumeaux du père Maupertuis** (plume dans le coffre commun des Maupertuis) : Vision simple, musique "In Uchronia - One Last Stand". {% hint 'feather_in_common_family_chest' is needed %}
+- **Prophétie des livres jumeaux du père Maupertuis** (plume dans le coffre commun des Maupertuis) : Vision simple, musique "In Uchronia - One Last Stand". {% hint 'feather_in_common_family_chest' is needed %}
 
 - **Intuition sur l'étage interdit** (lorsque l'étage interdit est ouvert) : *"Vous sentez se déverser sur vous le poids de siècles, de millénaires mêmes, de connaissances qui sont sources de vie, mais aussi souvent de mort. Cependant, vous le sentez, le Mal est bien plus ancré dans l'étage autorisé, qu'il ne l'est dans l'étage interdit."*
 
-- **Vision sur le moulin générateur de richesses** (plume dans l'atelier de gemmologie) : Vision simple, musique "In Uchronia - Here and Now (Seed's Theme).mp3". {% hint 'feather_in_gemmology_lab' is needed %}
+- **Prophétie sur le moulin générateur de richesses** (plume dans l'atelier de gemmologie) : Vision simple, musique "In Uchronia - Here and Now (Seed's Theme).mp3". {% hint 'feather_in_gemmology_lab' is needed %}
 
-- **Vision de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "In Uchronia - The Calling.mp3". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% hint 'feather_in_thanatologue' is needed %}
+- **Prophétie de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "In Uchronia - The Calling.mp3". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% hint 'feather_in_thanatologue' is needed %}
 
-- **Vision du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte) : Vision simple, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 1.mp3". {% hint 'feather_in_arkon_bag' is needed %}
+- **Prophétie du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte) : Vision simple, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 1.mp3". {% hint 'feather_in_arkon_bag' is needed %}
 
-- **Vision du crâne de l’arkonte et du danger planétaire** (si allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 2.mp3"
+- **Prophétie du crâne de l’arkonte et du danger planétaire** (si allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 2.mp3"
 
-- **Intuition sur la dernière bataille** (lorsque le méchant est démasqué) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un toureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire le taureau."*
+- **Intuition sur la dernière bataille** (lorsque le méchant est démasqué) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un toureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire le taureau. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."*
 
 {% endmacro %}
 <{ planning_of_prophecies }/>
@@ -921,7 +921,7 @@ Mais il existe certaines façons de l'atteindre :
 
 Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'expulsion :
 
-- Un **oracle auditif** évoque ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% hint 'parcival_oracle_hearing_about_last_battle_plan' is needed %}
+- Une **intuition** de l'Oacle évoque ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes.
 
 - Les joueurs doivent rassembler **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}**, qui sont stockés à différents endroits de la bibliothèque. {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
 
