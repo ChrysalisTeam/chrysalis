@@ -61,6 +61,20 @@ Orienter les joueurs vers les bons interlocuteurs
 - Si un joueur est blessé, selon son type de blessure, interpeller l'avatar qui pourrait le soigner (ce qui n'est pas sans danger) {% fact "avatar_abilities_are_randomly_hazardous" %}
 
 
+Être crédible dans son personnage
+++++++++++++++++++++++++++++++++++++++++++++
+
+Tous les figurants ont une histoire, et un passif vis-à-vis des autres figurants, il faut en tenir compte lors de chaque interaction.
+
+- Lorsque les avatars se retrouvent pour le banquet : plaisir, échange de "nouvelles" peu surprenantes (car leurs univers romanesques évoluent très peu)
+- Lorsque les avatars ou fantômes croisent les joueurs : surprise, méfiance, espérance d'avoir là une solution à la malédiction de la bibliothèque
+- Lorsqu'Octave et l'archiviste se retrouvent : effusions de joie, questionnements mutuels sur "pourquoi" de la situation
+- Lorsqu'Octave et l'archiviste retrouvent l'arkonte : surprise, méfiance, questionnements accusateurs
+- Lorsqu'Octave et l'archiviste voient la Bête : surprise, tentative de l'amadouer au nom des Maupertuis
+- Lorsque les avatars ou fantômes croisent le voleur : surprise, indignation, condamnation (lui reste moqueur)
+- Lorsque les avatars ou fantômes croisent l'Ankou : respect, espérance, questions sur les défunts Maupertuis, LES FANTÔMES L'ONT DEJA VU QUELQUES FOIS
+
+
 Improviser des anecdotes, débats, et bogues
 +++++++++++++++++++++++++++++++++++++++++++++
 

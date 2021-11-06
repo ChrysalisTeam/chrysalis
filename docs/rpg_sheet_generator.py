@@ -325,7 +325,7 @@ def _display_and_check_story_symbols(jinja_env):
 
     has_coherence_errors = False
     for k, v in jinja_env.symbols_registry.items():
-        unique_values = set(x.strip().lower() for x in v)
+        unique_values = set(x.strip().lower().replace("\n", "") for x in v)
         if len(unique_values) != 1:
             print("!!!!! ERROR IN symbols registry for key", k, ':', v)
             has_coherence_errors = True

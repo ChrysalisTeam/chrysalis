@@ -157,6 +157,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("antic_akarith_runes", 1),
     ("maupertuis_father_chest_code_anamorphosis_enigma", 1),
     ("maupertuis_whispering_box_enigma", 1),
+    ("octave_diary_on_his_tomb", 1),
     ("avatar_novel_summaries", 2),
     ("conspiracy_anti_arkoon_letter_with_coast_of_arms", 1),
     ("book_shelf_labels_for_library", 2),
@@ -349,7 +350,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:
+    if True:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,

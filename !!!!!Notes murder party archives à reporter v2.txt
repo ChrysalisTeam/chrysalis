@@ -1,7 +1,7 @@
 
 TODO CHECKLIST POUR epilogue - braquer le spot vers le bas, mettre ailes etc !!!
 
-Emprunetr batteries à Valef pour le jour J
+Emprunter batteries à Valef pour le jour J  DONE
 
 Lister les Questions et reponses des réactions de chacun vis à vis de chacun, chez les figurants
 
@@ -45,6 +45,7 @@ Ce qu'il faut :
 
     - PIEGES désactivables
 
+L'ankou doit dire "n'oublies tu pas quelque chose", l'arkonte aussi, à Octave lors de l'épilogue s'il oublie
 
 URGENT DEVELOPPER TRADUCTION RUNIQUE OUVERTE !!!!!!!!! <<<<<<<<<<<<<<<<<<<<<  WIP
 
@@ -136,9 +137,8 @@ ECRITEAU POUR CLOCHETTE SPECTRALE !
 - TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
 - UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL bof
 - Mettre message secret sur la goule :?
-
-
-
+- Ajouter que les FANTOMES ont tous déjà vu l'ankou précédemment ????
+- NOPE ABORTED Plan de l'étage autorisé et interdit : à changer
 
 
 

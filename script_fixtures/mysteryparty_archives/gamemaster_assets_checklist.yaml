@@ -35,7 +35,7 @@
 -
   - "Indices cachés ou disséminés"
   -
-    - "I1 - Livre factice bleu (contient la CLEF du livre factice rouge et XXXXXXX pierreries), marqué au sol"
+    - "I1 - Livre factice bleu (contient la CLEF du livre factice rouge et quelques pierreries), marqué au sol"
     - "I2 - Livre factice rouge, marqué au sol (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %}"
     - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF) WHATAUDIO??????????????"
     - "I4 - Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
@@ -50,19 +50,20 @@
 
 # ETAGE AUTORISÉ #
 
-
 -
   - "Barrières magiques devant les escaliers du domaine interdit"
   -
-    - "Cordelette barrant le chemin (code d'envoûtement NEGATIF [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}])
-    - SCEAU lumineux (1 LONGUE Guirlande de Noël multicolore réglable @Pascal) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %}"
+    - "Cordelette barrant le chemin (code d'envoûtement NEGATIF [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}])"
+    - "SCEAU lumineux (1 LONGUE Guirlande de Noël multicolore réglable @Pascal) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %}"
 
 -
   - "Buffet d'outre-monde"
   -
     - "Lampe à fibres Blue ice Lunartec (3xAAA)"
     - "Ballon verre jaune Sil Interiors avec LEDs (2xAA incluses) au buffet @Cat"
-    - "4 bougies LED soufflables (chacune 1xCR2032 incluse) ??????????????"
+    - "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
+    - "2 bougies sur chandelier (chacun 2xAA)"
+    - "Gramophone (alimentation: 12V ??)"
 
 -
   - "Pentacle du rituel inachevé de l’arkonte"
@@ -75,7 +76,7 @@
   -
     - "Grande enceinte noir/gris Vintage avec Jack3.5/Bluetooth"
     - "Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth"
-    - "Lanterne en bronze (2xLR20D incluses) ????????????????"
+    - "Lanterne en bronze (2xLR20D incluses) FONCTIONNE????????????????"
     - "Stroboscope LED (4xAA)"
     - "Projecteur directionnel 220v @Poncet (pour les escaliers)"
     - "4 néons LED Black Light (USB))"
@@ -97,9 +98,11 @@
   - "Mini-jungle"
   -
     - "Crâne empoisonné de l'arkonte caché entre les pots {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %}"
+    - "Emballages bruns pour faire la 'terre'"
     - "1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
-    - "QUEL AUTRE OBJET INTERESSANT ??????"
     - "1 enceinte bluetooth/SD/jack MuziliSpeaker (longue autonomie)"
+    - "Lierres et feuilles géantes vertes"
+    - "QUEL AUTRE OBJET INTERESSANT ??????"
 
 -
   - "Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %} et "
@@ -114,15 +117,15 @@
     - "Lecteur MP3 MANQUANT ??????????????? + ECOUTEURS?????? pour ladite mini-boîte"
     - "Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %}"
     - "Néon UV auto-alimenté"
-    - "Objets divers sans intérêt: XXXXXXXXXXX"
     - "Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
+    - "Objets divers sans intérêt: XXXXXXXXXXX"
 
 -
   - "Cimetière"
   -
     - "3 pierres tombales noires avec code d'analyse [{% symbol 'ltx' for 'analysis_code_three_tombs' %}]"
 
-    - "Tombe 1 : Journal intime d'Octave parlant de ???????????"
+    - "Tombe 1 : Journal intime d'Octave à peine entamé, évoquant juste sa nouvelle qui commence 'dehors' {% hint 'octave_private_diary_on_his_tomb' is provided %}"
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF)"
     - "Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates {% hint 'androids_command_bracelet_on_tomb' is provided %}"
 
@@ -359,7 +362,9 @@
     - "Fils blancs fins, cordelette épaisse etc.   TODO XXXXXXXXXXXX"
     - "Crackers de papillottes pour explosions - NOPE BOF XXXXXXXXXXXX"
 
-    - "7 grosses bougies (3xAAA chacune, NON PRESENTES initialement) à disséminer dans les lieux {% hint 'candles_without_battery' is provided %}"
+    - "7 grosses bougies (3xAAA chacune, NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %}"
+
+    - "9 moyennes bougies (1xCR2032 chacune incluse) à disséminer dans l'étage interdit (marque d'envoûtement POSITIF)"
 
     - "Batterie plate blanche LifeDom 18Wh"
     - "Batterie USB Duracell PB2 24.3Wh"
@@ -401,6 +406,6 @@
 
 # BESOINS EN PILES #
 # AAA : 3 + 6 + 3 + 4 + 2 + 3 + 21 = 42
-# AA : 2 + 4 + 4 + 2 + 4 + 3 + 3 + 2 = 24
+# AA : 2 + 4 + 4 + 2 + 4 + 3 + 3 + 2 + 4 = 28
 # LR20D : 8
 # Pile rectangle 9V : 1  (+1 en secours)
