@@ -1,3 +1,12 @@
+< MANQUE PLUS QUE L'AUDIO DE LA PROPHETIE AMPLIFICANS
+
+Trouver bandeaux pour ptits objets murder
+
+noter gants fantome
+
+Preciser réaction de arkonte ou l'ankou
+
+Créer marqueurs "objet ultra lourd" et "zone empoisonnée"
 
 TODO CHECKLIST POUR epilogue - braquer le spot vers le bas, mettre ailes etc !!!
 
@@ -29,7 +38,7 @@ Ce qu'il faut :
 
     - CADENAS <<< AUTRES QUE TRANSPARENTS AUSSI!!!
 
-    - Codes via magnétisme !!! <<<<<<<<<<<<<<<<<<<<<<<<<<
+    - Codes via magnétisme !!! <<<<<<<<<<<<<<<<<<<<<<<<<< pour Détecteur de magnétisme, MANQUE!!!
 
     - CODES SECRETS
     - RUNES akarites
@@ -57,7 +66,7 @@ AUDIO :
 
     FAIRE bande son du venture prins avec code secret !!
 
-    PRE-ENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ?  ET TROUVER MUSIQUE
+    PRE-ENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ? << NOPE DIRECTEMENT DIT PAR OCTAVE --  ET TROUVER MUSIQUE OUI
 
 Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout
 
@@ -83,7 +92,11 @@ passera sans encombre
 
 CA PEUT ETRE DU MAGNETISME :
 
+    INDICES SUR LES PORTRAITS EN CODE UV ET NOM DU GARS EN CODE MAGNETIQUE!!!
+
     INDICE PORTRAIT MAGE - TOO LONG Sur le portrait du mage, une multitude de petites inscriptions magnétiques vous donnent un avertissement formel : "Malheur, malheur à celui qui pénétrera dans la tombe du plus puissant magicien de tous les temps, si ne coule pas en lui le sang des Maupertuis.".  BOF
+    >>> en UV : "Il a vécu par les ethers, les amplificans, et les grimoires maudits, mais il est mort par un simple fruit."
+
 
     INDICE PORTRAIT PERE - en UV "Rappel : Venture Prins Murmure"
 
@@ -121,7 +134,7 @@ IL FAUT UNE SARBACANE POUR LE DRUIDE !!!!
 - NOPE ABORTED Plan de l'étage autorisé et interdit : à changer
 - ECRIER AU PROPER l'epilogue
    > L'ankou doit dire "n'oublies tu pas quelque chose", l'arkonte aussi, à Octave lors de l'épilogue s'il oublie
-
+- Changer scénario : le poison de la zone n'est pas due à la lutet du voleur mais est INNEE
 
 
 

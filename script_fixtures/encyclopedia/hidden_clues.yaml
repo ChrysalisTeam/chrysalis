@@ -130,6 +130,16 @@ static_pages:
 
             La troisième supporte un squelette sans crâne, dont les os sont rongés par des traces de contusions, de brûlures et d'érosions acides.
 
+    androids_command_bracelet:
+        title: "Analyses du bracelet Dominion"
+        categories: ["analyse"]
+        clue_code: "fzk"
+        keywords: []
+        content: |
+            Ce bracelet contient un minuscule mécanisme d'origine inconnue.
+
+            Les senseurs biométriques et le diffuseur électromagnétique qu'il contient laissent entendre qu'il
+            pourrait servir de système de commandement distant pour d'autres machines.
 
     arkon_skull_analysis:
         title: "Autopsie de crâne humain"

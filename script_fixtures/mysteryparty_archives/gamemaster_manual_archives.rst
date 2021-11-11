@@ -812,7 +812,7 @@ Les agents secrets sont sur les traces du "trésor" supposé de la famille Maupe
 Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langage énigmatique comment lorsqu'un grimoire se met à chanter, grâce à des symboles changeants, quelque chose tourne et les richesses apparaissent. {% hint "meredice_diary_about_treasure_for_spy_group" is needed %}
 
 Un oracle déclenché dans le domaine interdit montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques. {% hint "parcival_oracle_vision_about_water_mill" is needed %}
-Un stéréogramme au mur montre par ailleurs un moulin à café {% hint "grinding_mill_stereogram_picture" is needed %}.
+Un stéréogramme au mur montre par ailleurs un moulin à café avec un mot caché de remerciement {% hint "grinding_mill_stereogram_picture_with_magnetic_code" is needed %}.
 
 Les joueurs doivent comprendre qu’il s’agit d’un moulin à café simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit. {% hint "grinding_mill_with_enchantment" is needed %}
 

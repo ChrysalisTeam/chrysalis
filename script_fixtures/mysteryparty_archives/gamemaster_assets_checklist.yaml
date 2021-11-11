@@ -128,7 +128,7 @@
 
     - "Tombe 1 : Journal intime d'Octave à peine entamé, évoquant juste sa nouvelle qui commence 'dehors' {% hint 'octave_private_diary_on_his_tomb' is provided %}"
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF)"
-    - "Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates {% hint 'androids_command_bracelet_on_tomb' is provided %}"
+    - "Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_bracelet_on_tomb' is provided %}"
 
     - "Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided %}"
 
@@ -146,7 +146,7 @@
     - "Portrait de la mère des Maupertuis (Isadora) avec message UV : YYYYYYYYYYY"
     - "Portrait de la fille des Maupertuis (Mérédice) avec message UV : YYYYYYYYYYY"
     - "Portrait du fils des Maupertuis (Octave) avec message UV : YYYYYYYYYYY"
-    - "Cadre de remerciement, avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
+    - "Cadre de remerciement (en magnétique magnétique), avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
 
 -
   - "Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
@@ -155,11 +155,11 @@
     - "MESSAGE RUNIQUE 'Seul le sang des Maupertuis passera sans encombre' {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %}"
     - "Emblème du mage avec dragon doré {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
     - "1 pierre tombale verte"
-    - "2 grosses bougies (3xAAA chacune)"
+    - "3 grosses bougies (3xAAA chacune) ????????"
     - "Aube de pape dorée"
-    - "Crâne humain (@Médiathèque?????) et ossements divers"
     - "Masque 'anonymous' doré devant le crâne"
-    - "Calotte/tiare noir&or sur le crâne"
+    - "Capuchon noir en feutre"
+    - "Calotte/tiare noir&or"
     - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}])"
     - "{% symbol 'Bague Amplificans' for 'ring_amplificans_name' %} (code d'envoûtement POSITIF [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} "
     - "Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone) EXTINCTION-PB??????"
@@ -170,14 +170,13 @@
 -
   - "Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes)  {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
   -
-    - "Grimoire maudit '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' avec sort de zombification, contre-mesure en UV, {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, et plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'feather_in_thanatologue' is provided %}"
+    - "Grimoire maudit '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' (nom possiblement en code magnétique) ; il contient le sort de zombification, la contre-mesure en UV, {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'feather_in_thanatologue' is provided %}"
 
 -
   - "Coin du fantôme du voleur"
   -
     - "Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (1h15 autonomie)"
     - "Projecteur LED Blanche RX-7732 (4xAA incluses) @Vero"
-    - "Masque à LED ShiningApp pour le fantôme du voleur"
 
 -
   - "Laboratoire d'Alchimie"
@@ -288,9 +287,8 @@
   - "Fantômes"
   -
     - "4 paires gants blancs à diodes (3 à lumière blanche et 1 bleue)"
-    - "Ailes en tissu (look métallique)"
-    - "Autres paires d'ailes : ???????????"
-    - "Capuchon noir en feutre pour le voleur"
+    - "3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes"
+    - "Masque à LEDs ShiningApp pour le fantôme du voleur"
 
 -
   - "L'Ankou"
@@ -364,7 +362,7 @@
     - "Boite de maquillage spécial UV"
     - "Fils blancs fins, cordelette épaisse etc."
 
-    - "7 grosses bougies (3xAAA chacune, NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %}"
+    - "6 grosses bougies (3xAAA chacune, piles NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %}"
 
     - "9 moyennes bougies (1xCR2032 chacune incluse) à disséminer dans l'étage interdit (marque d'envoûtement POSITIF)"
 
@@ -410,3 +408,4 @@
 # AA : 2 + 4 + 4 + 2 + 4 + 3 + 3 + 2 + 4 + 3 = 31
 # LR20D : 8
 # Pile rectangle 9V : 1  (+1 en secours)
+#CR2032 : 4 + 4 + 9 + 2*6   (incluses: 4 + 9 + 2*6)
