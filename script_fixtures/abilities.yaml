@@ -347,15 +347,22 @@ abilities:
 
             references:
 
-                antic_chest:
+                spectral_bell:
                     decoding: >
-                        su se | so sa | chi so #
-                        ku sa | su te #
-                        chi sa to | ta sa su
+                        ki su to | sa sa chi | so ko ka | se su ki
                     translation: >
-                        spoils of war | skirmish of | the black meadows #
-                        may the yods | purify these goods #
-                        shortent our penance | and give us final victory
+                        clochette spectrale |
+                        rappelle les esprits |
+                        sous forme frénétique |
+                        garantie 3000 ans
+
+                magus_tomb:
+                    decoding: >
+                        ku ke ko | su shi su | tsu tsu ta
+                    translation: >
+                        Seul le sang  |
+                        des Maupertuis  |
+                        passera sans encombre
 
             middlewares: {}
 
