@@ -27,6 +27,7 @@ ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
 DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_frame"  # Use --show-frame-boundary (if necessary to debug)
+BIG_FONT_EXTRA_PARAMS = "--stylesheets=big_font"
 
 MAIN_OUTPUT_DIR = "output_archives"
 DOCUMENTS_OUTPUT_DIR = os.path.join(MAIN_OUTPUT_DIR, "documents")
@@ -170,21 +171,23 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
 ISOLATED_DOCS = {
     # GAMEMASTER DOCS
     "gamemaster_assets_checklist": ("gamemaster_assets_checklist.rst", "gamemaster"),
+    "gamemaster_crates_listing_big": ("gamemaster_crates_listing.rst", "gamemaster"),
+
     # NPCS
-    "npc_avatar_druid_sheet": ("npcs/avatar_druid_sheet.rst", "avatar_druid"),
-    "npc_avatar_inventor_sheet": ("npcs/avatar_inventor_sheet.rst", "avatar_inventor"),
-    "npc_avatar_duchess_sheet": ("npcs/avatar_duchess_sheet.rst", "avatar_duchess"),
-
-    "npc_god_ankou_sheet": ("npcs/god_ankou_sheet.rst", "god_ankou"),
-
-    "npc_phantom_archivist_sheet": ("npcs/phantom_archivist_sheet.rst", "phantom_archivist"),
-    "npc_phantom_arkon_sheet": ("npcs/phantom_arkon_sheet.rst", "phantom_arkon"),
-    "npc_phantom_octave_sheet": ("npcs/phantom_octave_sheet.rst", "phantom_octave"),
-    "npc_phantom_thief_sheet": ("npcs/phantom_thief_sheet.rst", "phantom_thief"),
-    "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
-    "npc_phantom_magus_sheet": ("npcs/phantom_magus_sheet.rst", "phantom_magus"),
-
-    "planning_of_prophecies": ("miscellaneous/planning_of_prophecies.rst", "anyone"),
+    # "npc_avatar_druid_sheet": ("npcs/avatar_druid_sheet.rst", "avatar_druid"),
+    # "npc_avatar_inventor_sheet": ("npcs/avatar_inventor_sheet.rst", "avatar_inventor"),
+    # "npc_avatar_duchess_sheet": ("npcs/avatar_duchess_sheet.rst", "avatar_duchess"),
+    #
+    # "npc_god_ankou_sheet": ("npcs/god_ankou_sheet.rst", "god_ankou"),
+    #
+    # "npc_phantom_archivist_sheet": ("npcs/phantom_archivist_sheet.rst", "phantom_archivist"),
+    # "npc_phantom_arkon_sheet": ("npcs/phantom_arkon_sheet.rst", "phantom_arkon"),
+    # "npc_phantom_octave_sheet": ("npcs/phantom_octave_sheet.rst", "phantom_octave"),
+    # "npc_phantom_thief_sheet": ("npcs/phantom_thief_sheet.rst", "phantom_thief"),
+    # "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
+    # "npc_phantom_magus_sheet": ("npcs/phantom_magus_sheet.rst", "phantom_magus"),
+    #
+    # "planning_of_prophecies": ("miscellaneous/planning_of_prophecies.rst", "anyone"),
 }
 
 
@@ -261,6 +264,13 @@ def build_archives_pdf(parts, filename_base, title,
 
     with_decorations = with_decorations and not DISABLE_DECORATIONS
 
+    big_font = filename_base.endswith("_big")
+    if big_font:
+        # Ignore with_decoration!
+        extra_args = BIG_FONT_EXTRA_PARAMS
+    else:
+        extra_args = extra_args=DECORATIONS_EXTRA_ARGS if with_decorations else STANDARD_EXTRA_ARGS
+
     return build_mysteryparty_pdf(
         parts=parts,
         filename_base=filename_base,
@@ -268,7 +278,7 @@ def build_archives_pdf(parts, filename_base, title,
         output_dir=MAIN_OUTPUT_DIR,
         generate_rst_from_parts=generate_archives_rst_from_parts,
         jinja_env=jinja_env,
-        extra_args= DECORATIONS_EXTRA_ARGS if with_decorations else STANDARD_EXTRA_ARGS,
+        extra_args=extra_args,
         with_decorations=with_decorations,
         add_page_breaks=add_page_breaks,
         jinja_context=jinja_context,
@@ -289,6 +299,18 @@ def generate_archives_sheets():
 
     murder_party_items = rpg.load_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"))
     all_data["murder_party_items"] = murder_party_items
+
+    # Sort items between crates dependong on @CRATE start markers
+    murder_party_items_per_crate = OrderedDict()
+    for (section, item_titles) in murder_party_items:
+        for item_title in item_titles:
+            crate = section
+            match = re.search("^@\w+\s", item_title)
+            if match:
+                crate = match.group(0)
+            murder_party_items_per_crate.setdefault(crate, [])
+            murder_party_items_per_crate[crate].append(item_title)
+    all_data["murder_party_items_per_crate"] = murder_party_items_per_crate.items()
 
     # BEWARE - sensitive data specific to a murder party game
     data = rpg.load_yaml_file("../script_fixtures/local.yaml")  # must exist, see local.yaml.example
@@ -350,7 +372,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if True:
+    if False:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,
@@ -359,7 +381,7 @@ def generate_archives_sheets():
     # -------------
 
     # first the gamemaster manual
-    if True:
+    if False:
         gm_data = all_data.copy()
         gm_data["current_player_id"] = master_login  # silent
         build_archives_pdf(GAMEMASTER_MANUAL_PARTS,
@@ -369,7 +391,7 @@ def generate_archives_sheets():
     # -------------
 
     # then the common DOCS for participants
-    if True:
+    if False:
 
         isolated_data["current_player_id"] = "everyone"
         build_archives_pdf(COMMON_LORE_AND_RULES,
@@ -397,6 +419,7 @@ def generate_archives_sheets():
                                 jinja_context=isolated_data)
             isolated_data["current_player_id"] = None
 
+    AAAAAA
     # -------------
 
     def _get_player_context(_player_name):

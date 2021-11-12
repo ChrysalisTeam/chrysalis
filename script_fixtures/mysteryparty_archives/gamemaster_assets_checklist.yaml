@@ -151,18 +151,18 @@
 -
   - "Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
   -
-    - "Code d'envoûtement NEGATIF [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] sur la porte du tombeau"
-    - "MESSAGE RUNIQUE 'Seul le sang des Maupertuis passera sans encombre' {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %}"
     - "Emblème du mage avec dragon doré {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
     - "1 pierre tombale verte"
-    - "3 grosses bougies (3xAAA chacune) ????????"
+    - "3 grosses bougies (3xAAA chacune)"
     - "Aube de pape dorée"
     - "Masque 'anonymous' doré devant le crâne"
-    - "Capuchon noir en feutre"
+    - "Capuchon noir médiéval en feutre"
     - "Calotte/tiare noir&or"
     - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}])"
     - "{% symbol 'Bague Amplificans' for 'ring_amplificans_name' %} (code d'envoûtement POSITIF [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} "
-    - "Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone) EXTINCTION-PB??????"
+    - "@TINY Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone) EXTINCTION-PB??????"
+    - "@MISC Code d'envoûtement NEGATIF [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] sur la porte du tombeau"
+    - "@MISC MESSAGE RUNIQUE 'Seul le sang des Maupertuis passera sans encombre' {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %}"
 
 
 # ETAGE INTERDIT #
