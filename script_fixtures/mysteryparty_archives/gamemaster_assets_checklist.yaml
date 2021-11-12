@@ -284,25 +284,26 @@
     - "Dé à 6 faces, pour les soins dangereux des avatars etc."
 
 -
-  - "Fantômes"
+  - "@PHANTOMS Fantômes humains"
   -
+    - "4 tuniques en velours pourpre"
     - "4 paires gants blancs à diodes (3 à lumière blanche et 1 bleue)"
-    - "3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes"
+    - "@BIG 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes"
     - "Masque à LEDs ShiningApp pour le fantôme du voleur"
+
+-
+  - "@PHANTOMS La Bête"
+  -
+    - "Robe noire (peut aussi servir à l'Ankou)"
+    - "Masque latex de monstre"
+    - "Gants latex griffus"
+    - "Guètres latex griffues"
 
 -
   - "L'Ankou"
   -
     - "Casque à bois de cerf @Victorien"
     - "Bâton orné ????????????"
-    - "Robe noire ?????"
-
--
-  - "La Bête"
-  -
-    - "Masque latex de monstre"
-    - "Gants latex griffus"
-    - "Guètres latex griffues"
 
 -
   - "Avatars"
