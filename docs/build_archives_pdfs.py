@@ -302,12 +302,24 @@ def generate_archives_sheets():
 
     # Sort items between crates dependong on @CRATE start markers
     murder_party_items_per_crate = OrderedDict()
+
+    def _extract_crate(_title):
+        crate = None
+        new_title = _title
+        #print(">>>>> SEARCHING CRATE IN TITLE", _title)
+        match = re.search(r"^@\S+\s", _title)
+        if match:
+            crate = match.group(0)
+            new_title = new_title.replace(crate, "")
+        return crate, new_title
+
     for (section, item_titles) in murder_party_items:
+        crate, section = _extract_crate(section)
+        default_create = crate or section
         for item_title in item_titles:
-            crate = section
-            match = re.search("^@\w+\s", item_title)
-            if match:
-                crate = match.group(0)
+            crate, item_title = _extract_crate(item_title)
+            crate = crate or default_create
+            assert crate, repr(crate)
             murder_party_items_per_crate.setdefault(crate, [])
             murder_party_items_per_crate[crate].append(item_title)
     all_data["murder_party_items_per_crate"] = murder_party_items_per_crate.items()
