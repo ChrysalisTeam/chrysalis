@@ -1248,7 +1248,7 @@ Valeur des objets précieux
 - 1 pièce de monnaie couleur argent ou bronze vaut 1 kash (quelle que soit sa taille)
 - 1 pièce en or vaut 10 kashes dans les grandes villes
 - 1 petit diamant rond vaut 5 kashes dans les places marchandes de Keroskia
-- 1 diamant moyen rectangulaire vaut 10 kashes sur le marché de Nimouk
+- 1 moyen diamant rectangulaire vaut 10 kashes sur le marché de Nimouk
 - 1 grand diamant rond ou rectangulaire vaut jusqu'à 20 kashes dans les pays Axoliens
 - la couleur (fumée ou non) des diamants est sans impact sur leur valeur
 - pour les bijoux, leur valeur matérielle estimée est marquée sous forme d'étiquettes

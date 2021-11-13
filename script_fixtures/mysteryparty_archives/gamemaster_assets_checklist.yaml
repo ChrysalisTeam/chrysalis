@@ -17,8 +17,7 @@
     - "L5 - Mallette administrative noire des Maupertuis"
     - "L6 - Mini-jungle de grandes plantes en pot"
     - "L7 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
-    - "L8 - Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (marque d'envoûtement INCOMPRÉHENSIBLE)"
-    - "L9 - Galerie de portraits des Maupertuis"
+    - "L8 - Galerie de portraits des Maupertuis"
 
     - "P1 - Niche de la Bête"
     - "P2 - Coffre légendaire des Maupertuis"
@@ -64,11 +63,12 @@
     - "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
     - "2 bougies sur chandelier (chacun 2xAA)"
     - "@ENORMES Gramophone (alimentation: 12V ??)"
+    - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (marque d'envoûtement INCOMPRÉHENSIBLE) <MISSING-plaquette>"
 
 -
   - "@RECOINS Pentacle du rituel inachevé de l’arkonte"
   -
-    - "10 cylindres LEDs remote-controlled Kitosun"
+    - "10 cylindres LEDs remote-controlled Kitosun (2xCR 2450 chacune)"
     - "1 LONGUE Guirlande de Noël multicolore réglable @Pascal <MISSING>"
     - "@LIVRES Livres luxe pourpre : Tomes 1&2 du roman du druide"
     - "@LIVRES Livre bleu à tranche rouge : Tome unique du roman de la duchesse"
@@ -79,7 +79,7 @@
   -
     - "Grande enceinte noir/gris Vintage avec Jack3.5/Bluetooth <MISSING>"
     - "@AUDIOVIDEO Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth"
-    - "Lanterne en bronze (2xLR20D incluses)"
+    - "@ECLAIRAGES Jarre lumineuse NewYang (batterie solaire incluse)"
     - "Stroboscope LED (4xAA)"
     - "@ENORMES Projecteur directionnel 220v @Poncet (pour les escaliers)"
     - "@GENERAL 3 néons LED Black Light (USB))"
@@ -98,13 +98,14 @@
     - "@AUDIOVIDEO Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse"
 
 -
-  - "@RECOINS Mini-jungle"
+  - "@RECOINS Mini-jungle du druide"
   -
     - "Crâne empoisonné de l'arkonte caché entre les pots {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %}"
     - "@ENORMES Emballages bruns pour faire la 'terre' de la jungle"
     - "1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
     - "@AUDIOVIDEO 1 enceinte bluetooth/SD/jack MuziliSpeaker (longue autonomie)"
     - "Lierres et feuilles géantes vertes <MISSING>"
+    - "Cristaux blancs en impression 3D (mettre mini LEDs dedans)"
     - "QUEL AUTRE OBJET INTERESSANT ??????"
 
 -
@@ -178,13 +179,14 @@
 -
   - "Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes)  {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
   -
-    - "@LIVRES Grimoire maudit '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' (nom possiblement en code magnétique) ; il contient le sort de zombification, la contre-mesure en UV, {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'feather_in_thanatologue' is provided %}"
+    - "@LIVRES Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' (nom possiblement inscrit en code magnétique) ; il contient le sort de zombification, la contre-mesure en UV, {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'feather_in_thanatologue' is provided %}"
+    - "@ECLAIRAGES Globe à LED Atmosphera (2xAAA) à côté du coffre légendaire (marque d'envoûtement POSITIF)"
 
 -
   - "Coin du fantôme du voleur"
   -
     - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (1h15 autonomie)"
-    - "@RECOINS Projecteur LED Blanche RX-7732 (4xAA incluses) @Vero"
+    - "@RECOINS Projecteur LED Blanche RX-7732 (4xAA incluses) @Véro"
 
 -
   - "@ALCHIMIE Laboratoire d'Alchimie"
@@ -195,18 +197,19 @@
     - "Passoire cylindrique en métal"
     - "Pot africain en bois avec couvercle"
     - "Vase hexagonal en verre"
+    - "Boite rectangulaire plate en laiton"
     - "2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
     - "@ENORMES Mini-meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT"
     - "@POTIONS Potion de vapeur de Thorium dans mini-meuble {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "@GEMMES Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %}"
     - "@BOUTEILLES Grand lot de petites bouteilles diverses et de condiments"
-    - "Support cylindrique éclairant à LEDs (3xAAA) @Vero  <MISSING>"
+    - "Support cylindrique éclairant à LEDs (3xAAA) @Véro  <MISSING>"
     - "@BOUTEILLES 7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
     - "@BOUTEILLES 2 flacons-bouteilles de condiments : Curcuma et Coriandre"
     - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
     - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
     - "Fontaine à encens à LED (éteinte et sans cône d'encens) {% hint 'incense_fountain' is provided %}"
-    - "Objets décoratifs : grande gourde cylindrique et théière en cuivre, pichet en zinc"
+    - "Objets décoratifs : 2 grandes gourdes cylindriques et théière en cuivre, pichet en zinc"
 
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie"
@@ -219,16 +222,17 @@
     - "@GEMMES Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et Fluorite {% hint 'gem_fluorine' is provided %}"
     - "@GEMMES Gemme d'Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %}"
     - "@GEMMES Lot d'autres petites pierres du monde avec étiquettes"
-    - "@GEMMES Cristaux et gemmes diverses"
+    - "@GEMMES Cristaux, gemmes et coquillages divers"
     - "Coffret en bois clair et jointures laiton PIÉGÉ"
-    - "CHALUMEAU ancien (en vrai et poster) non loin @cat"
-    - "Mini-lanterne rouillée avec crâne animal illuminé @cat"
+    - "CHALUMEAU ancien (en vrai et poster) non loin @Cat"
+    - "Mini-lanterne rouillée avec crâne animal illuminé @Cat"
     - "@LIVRES Livre factice gris ChooChoo @Clodynette caché près du chalumeau, avec trésor dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %}"
     - "Lampe-sculpture à gemme surmontée d'un dragon"
     - "3 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
     - "Arbre à micro-cristaux colorés avec guirlande d'illumination"
     - "7 flacons de cristaux colorés"
     - "@GENERAL Plume de prophétie {% hint 'feather_in_gemmology_lab' is provided %}"
+    - "@ENORMES Boîte-présentoir très plate en bois pour exposer les gemmes"
 
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac)"
@@ -250,14 +254,16 @@
   - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac)"
   -
     - "[???? COMMENT LE MARQUER????] Présence de vapeurs toxiques (fioles diverses renversées) {% hint 'spilled_potions_in_toxic_corridor' is provided %}"
-    - "@ENORMES Valisettes ovales imbriquées, [automate doit pouvoir prendre celle intérieure] et contenant le {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) "
+    - "@ENORMES Valisettes ovales imbriquées, [automate doit pouvoir prendre celle intérieure]"
+    - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette interne"
+    - "2 grands miroirs rectangulaires pour le fond des valisettes"
     - "@POTIONS Plusieurs potions (dont celle de Fungal Bleu) {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
 
 -
   - "@NICHE Niche de la Bête"
   -
     - "@ENORME Nid de lianes et feuilles géantes"
-    - "@BIJOUX {% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
+    - "@PERSONNES {% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF)"
     - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF)"
     - "Lanterne en argent cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
@@ -273,9 +279,9 @@
     - "10 petits diamants ronds (= 50 kashes)"
     - "10 diamants moyens rectangulaire (= 100 kashes)"
     - "5 grands diamants ronds (= 100 kashes)"
-    - "Bracelet doré à gros diamant bleu (marqué non magique) valant environ 100 kashes"
-    - "Collier en bande dorée (marqué non magique) valant environ 60 kashes"
-    - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes"
+    - "Bracelet doré à gros diamant bleu (marqué non magique) valant environ 100 kashes [ETIQUETTE]"
+    - "Collier en bande dorée (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
+    - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
 
 -
   - "Localisation de ces richesses diverses à collecter (570 kashes en jeu)"
@@ -326,7 +332,7 @@
     - "@BIJOUX Queues de vison décoratives pour bâton"
 
 -
-  - "Avatars"
+  - "@PERSONNES Avatars"
   -
     - "@AUDIOVIDEO Mégaphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
     - "Quelques outils anciens pour l'ambiance, tournevis, mètre-ruban, pince... (pour l'inventeur) <MISSING>"
@@ -336,15 +342,12 @@
     - "@ENORMES Bâton de magicienne avec boule verte pour la duchesse"
     - "Fiche de planification, et images des prophéties et intuitions (pour la duchesse) {% hint 'npc_responsible_for_prophecies_monitoring' is provided %}{% hint 'parcival_oracle_intuition_hints' is provided %}"
     - "Sarbacane-flûte (pour le druide) {% hint 'blowpipe_flute_for_druid' is provided %} <MISSING>"
-    - "Sacoche de ceinture de l'arkonte, avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'feather_in_arkon_bag' is provided %} XXXXXXQUOI-D'AUTRE-POTION-MESSAGE???"
+    - "Sacoche de ceinture de l'arkonte (pour le druide), avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'feather_in_arkon_bag' is provided %} XXXXXXQUOI-D'AUTRE-POTION-MESSAGE???"
+    - "Balle avec rubans multicolores (pour le druide) pour simuler un sortilège offensif"
+    - "2 paires de pouces à LED (verte et rouge)"
 
 -
-  - "COSTUMES"
-  -
-    - "Cape, pantalon, et chemise médiévaux pour le druide @Pascal TODO TODO"
-
--
-  - "Joueurs"
+  - "@PERSONNES Joueurs"
   -
     - "Kit de crochetage de serrure (pour le lockpicker) {% hint 'lock_picking_kit_for_lockpicker' is provided %}"
     - "Nombreuses piles AAA (pour mine-sweeper) {% hint 'candle_batteries_for_spy_minesweeper' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is provided %}"
@@ -357,7 +360,22 @@
     - "Couverture marron fine avec croix, contenant le journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %} <MISSING>"
     - "Arbalète bois et UNIQUE fléchette (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %}"
     - "@BOUTEILLES Fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %}"
-    - "@POTIONS Potions de Focus et de Charme (pour alchemist, appartenait à l'exorcist) {% hint 'potions_of_focus_from_exorcist' is provided %} {% hint 'potions_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %}"
+    - "@POTIONS Potions de Focus et de Charme (pour alchemist, appartenait à l'exorcist) {% hint 'potions_of_focus_from_exorcist' is provided %} {% hint 'potions_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %} <MISSING>"
+    - "2 lanternes rouges du Clivra (2xLR20D chacune) <MISSING-PILES>"
+    - "Lanterne en bronze (2xLR20D incluses)"
+
+-
+  - "COSTUMES"
+  -
+    - "Habits médiévaux : cape verte, pantalon marron, pantacourt noir, et chemises blanche, beige, et marron"
+    - "Habits d'automates : vestons noirs et bris, pantalon gris, redingote bleue, redingote noire, cape à dentelle noire"
+    - "4 ceintures beiges, 4 jabots bleux, 4 brassards verts et 4 étoles mauves pour les joueurs"
+    - "@ENORMES Kit elfique en cuir vert/marron : corne de brume, corne à boire avec attache, bourse, ceinture, gourdette, fourreau à glaive"
+
+-
+  - "VALISE ROUGE EN CUIR"
+  -
+    - "Décorations : lampe multicolore à angelot, chauffe-lit à manche, chaudronnet ovale, chandelier, tous en cuivre"
 
 -
   - "Cadenas et leurs clefs"
@@ -387,53 +405,55 @@
   - "@GENERAL Logistique et décorations diverses"
   -
     - "Boite de maquillage spécial UV"
+    - "2 sachets de fausses toiles d'araignées (pour étage interdit)"
     - "Fils blancs fins"
     - "Cordelette fine"
     - "Cordelette épaisse"
+    - "7 gros grelots blancs pour pièges"
 
     - "@ECLAIRAGES 6 grosses bougies (3xAAA chacune, piles NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %} <MISSING-1>"
     - "@ECLAIRAGES 9 moyennes bougies (1xCR2032 chacune incluse) à disséminer dans l'étage interdit (marque d'envoûtement POSITIF)"
+    - "@ECLAIRAGES Lampe à sel (USB normal)"
 
     - "Batterie plate blanche LifeDom 18Wh"
     - "Batterie USB Duracell PB2 24.3Wh"
     - "Batterie solaire rouge @valentin"
     - "2 batteries haute capacité Maxoak K2"
 
-    - "Jarre lumineuse NewYang (batterie solaire incluse)"
+    - "@ALCHIMIE Boite beige plate en bois avec toutes les potions (marquées @POTIONS) importantes du jeu"
+
+    - "@LIVRES 2 gros grimoires (1 rouge et 1 gris foncé) creusés pour accueillir tablette/papiers"
+
     - "Mini-lampe cylindrique tactile multi-couleurs"
-    - "Globe à LED Atmosphera (2xAAA)"
 
-    - "6 Guirlandes lumineuses LED BXROIU 2m (chacune 2xCR2032 incluses)"
+    - "@AUDIOVIDEO 6 Guirlandes lumineuses LED BXROIU 2m (chacune 2xCR2032 incluses)"
 
-    - "10 galets phosphorescents bleus (friandises de la Bête) ??? DUPLICATED"
+    - "Reste des 10 galets phosphorescents bleus (friandises de la Bête) pour marquages au sol"
 
-    - "Lampe mini-tube blanche autonome à détection de mouvement "
+    - "Lampe tube blanche autonome à détection de mouvement (batterie incluse)"
 
-    - "Canne avec cachette @Cat"
+    - "Canne avec cachette @Cat ??????????????"
 
-    - "6 papillons volants à élastique à disséminer dans des grimoires et boites"
+    - "6 papillons volants à élastique, à disséminer dans des grimoires et boites pour frayeurs"
 
-    - "2 lanternes rouges Clivra (2xLR20D chacune)"
-    - "NOPE 8 chandelles blanches (3xAA chacune) REALLY ????????"
-    - "4 cadres photo Clivra format A5 (fragiles)"
+    - "5 chandelles blanches (3xAA chacune) du Clivra"
 
-    - "2 Bouillottes cylindrique en cuivre, dont l'une avec dedans message XXXXX"
+    - "Nappes polyester brillantes rouge, bleue, noire @Pascal"
 
-    - "1 potion (rouge foncé) de Fungal Rouge {% hint 'potion_red_mushroom' is provided %}"
-    - "1 potion Délieur de Langue {% hint 'potion_tongue_untier' is provided %}"
+    - "@POTIONS 1 potion (rouge foncé) de Fungal Rouge {% hint 'potion_red_mushroom' is provided %}"
+    - "@POTIONS 1 potion Délieur de Langue {% hint 'potion_tongue_untier' is provided %}"
 
-    - "Ciboire (calice fermé) en argent"
-    - "Seau argenté à champagne"
-    - "Bouteille verdâtre en tête de mort"
+    - "Bouteille verdâtre à liqueur en tête de mort <MISSING>"
+    - "Ciboire (calice fermé) en argent <MISSING>"
+    - "Seau argenté à champagne <MISSING>"
+    - "@ECLAIRAGES Machine électrique à fumée pour le seau argenté"
 
-    - "Toiles d'araignées à disséminer, surtout dans l'étage interdit"
-    - "3 livrets verts Hachette de géographie régionale"
     - "Station Internet !!! Autres accès Internet ???"
 
 
 # BESOINS EN PILES #
 # AAA : 3 + 6 + 3 + 4 + 2 + 3 + 21 = 42
 # AA : 2 + 4 + 4 + 2 + 4 + 3 + 3 + 2 + 4 + 3 = 31
-# LR20D : 8
+# LR20D : 8 en tout
 # Pile rectangle 9V : 1  (+1 en secours)
 #CR2032 : 4 + 4 + 9 + 2*6   (incluses: 4 + 9 + 2*6)
