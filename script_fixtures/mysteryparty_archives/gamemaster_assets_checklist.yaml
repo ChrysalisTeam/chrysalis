@@ -53,7 +53,7 @@
 -
   - "@RECOINS Barrières magiques devant les escaliers du domaine interdit"
   -
-    - "@GENERAL Cordelette barrant le chemin (code d'envoûtement NEGATIF [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}])"
+    - "Obstacle en cordelette bloquant les escaliers (code d'envoûtement NEGATIF [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}])"
     - "SCEAU lumineux (1 MOYENNE Guirlande de Noël multicolore réglable @Pascal) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %}"
 
 -
@@ -115,15 +115,18 @@
     - "@GENERAL CIGALE pour ledit mini-coffret"
 
 -
-  - "Coffre commun en bois marron des Maupertuis (protégé par un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %}"
+  - "Coffre familial commun en bois marron des Maupertuis"
   -
+    - "Sur le coffret, un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %}"
     - "@AUDIOVIDEO Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF)"
     - "@AUDIOVIDEO Lecteur MP3 MANQUANT ??????????????? + ECOUTEURS?????? pour ladite mini-boîte"
     - "@GENERAL Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %}"
     - "@GENERAL Néon UV auto-alimenté"
     - "@AUDIOVIDEO Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
     - "@GENERAL Plume de prophétie {% hint 'feather_in_common_family_chest' is provided %}"
-    - "Objets divers sans intérêt: XXXXXXXXXXX"
+    - "Décorations : boite en cuir noir contenant peigne perroquet, boussole, loupe, pipe"
+    - "Décorations : mini-jumelles, miroir, bol et clochette en laiton, lunettes dans étui fin noir, gobelet en argent, jeu de cartes dans étui rouge, boite en métal jaune Neurotrophol"
+    - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope"
 
 -
   - "@CIMETIERE Cimetière"
@@ -192,6 +195,7 @@
     - "Passoire cylindrique en métal"
     - "Pot africain en bois avec couvercle"
     - "Vase hexagonal en verre"
+    - "2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
     - "@ENORMES Mini-meuble à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT"
     - "@POTIONS Potion de vapeur de Thorium dans mini-meuble {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "@GEMMES Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %}"
@@ -202,6 +206,7 @@
     - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
     - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
     - "Fontaine à encens à LED (éteinte et sans cône d'encens) {% hint 'incense_fountain' is provided %}"
+    - "Objets décoratifs : grande gourde cylindrique et théière en cuivre, pichet en zinc"
 
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie"
@@ -222,6 +227,7 @@
     - "Lampe-sculpture à gemme surmontée d'un dragon"
     - "3 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
     - "Arbre à micro-cristaux colorés avec guirlande d'illumination"
+    - "7 flacons de cristaux colorés"
     - "@GENERAL Plume de prophétie {% hint 'feather_in_gemmology_lab' is provided %}"
 
 -
@@ -335,16 +341,17 @@
 -
   - "COSTUMES"
   -
-    - "Cape, pantalon, et chemise médiévaux pour le druide @Pascal"
+    - "Cape, pantalon, et chemise médiévaux pour le druide @Pascal TODO TODO"
 
 -
   - "Joueurs"
   -
     - "Kit de crochetage de serrure (pour le lockpicker) {% hint 'lock_picking_kit_for_lockpicker' is provided %}"
     - "Nombreuses piles AAA (pour mine-sweeper) {% hint 'candle_batteries_for_spy_minesweeper' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is provided %}"
+    - "2 bâtons de dynamite (pour mine-sweeper) {% hint '2_explosives_for_minesweeper' is provided %}"
     - "Encensoir en argent plaqué avec chainettes (pour l'invoker) {% hint 'incense_burner_for_invoker' is provided %}"
     - "Détecteur de métal Longruner (nécessite pile RECTANGLE 9V) (pour le sounder) initialement SANS SA PILE {% hint 'spy_sounder_metal_detector_initially_broken' is provided %} {% hint 'spy_sounder_metal_detector_battery' is needed %}"
-    - "Lampe-torche UV (nécessite 3xAAA) (pour l'unveiler) initialement SANS SA PILE {% hint 'explorer_unveiler_uv_lamp_initially_broken' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is needed %}"
+    - "Lampe-torche UV (nécessite 3xAAA) (pour l'unveiler) initialement SANS SA PILE {% hint 'explorer_unveiler_uv_lamp_initially_broken' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is needed %} <MISSING>"
     - "Feuilles mémo des codes secrets et des runes (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %} {% hint 'runic_transcription_sheet_for_explorer_runologist' is provided %} <MISSING>"
     - "Stéthoscope et loupe (pour runologist) {% hint 'stethoscope_and_magnifying_glass_for_explorer_runologist' is provided %}"
     - "Couverture marron fine avec croix, contenant le journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %} <MISSING>"
@@ -377,21 +384,24 @@
     - "Mettre le symbole des Maupertuis (Caducée) sur les objets pertinents"
 
 -
-  - "logistique et décorations diverses"
+  - "@GENERAL Logistique et décorations diverses"
   -
     - "Boite de maquillage spécial UV"
-    - "Fils blancs fins, cordelette épaisse etc."
+    - "Fils blancs fins"
+    - "Cordelette fine"
+    - "Cordelette épaisse"
 
-    - "6 grosses bougies (3xAAA chacune, piles NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %}"
-
-    - "9 moyennes bougies (1xCR2032 chacune incluse) à disséminer dans l'étage interdit (marque d'envoûtement POSITIF)"
+    - "@ECLAIRAGES 6 grosses bougies (3xAAA chacune, piles NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %} <MISSING-1>"
+    - "@ECLAIRAGES 9 moyennes bougies (1xCR2032 chacune incluse) à disséminer dans l'étage interdit (marque d'envoûtement POSITIF)"
 
     - "Batterie plate blanche LifeDom 18Wh"
     - "Batterie USB Duracell PB2 24.3Wh"
+    - "Batterie solaire rouge @valentin"
     - "2 batteries haute capacité Maxoak K2"
 
     - "Jarre lumineuse NewYang (batterie solaire incluse)"
     - "Mini-lampe cylindrique tactile multi-couleurs"
+    - "Globe à LED Atmosphera (2xAAA)"
 
     - "6 Guirlandes lumineuses LED BXROIU 2m (chacune 2xCR2032 incluses)"
 

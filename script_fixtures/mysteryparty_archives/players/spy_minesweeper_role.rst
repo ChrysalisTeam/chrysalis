@@ -23,7 +23,7 @@ Vous êtes capable de reconnaître et désactiver les pièges à l'ancienne, mé
 Explosifs
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous avez avec vous **2 bâtonnets d'explosif**. Chacun peut servir à déblayer un tas d'éboulements dans la bibliothèque. Les murs sains, le mobilier, les livres, sont encore protégés par des enchantements, et ne réagiront pas aux explosifs.
+Vous avez avec vous **2 bâtonnets d'explosif**. Chacun peut servir à déblayer un tas d'éboulements dans la bibliothèque. Les murs sains, le mobilier, les livres, sont encore protégés par des enchantements, et ne réagiront pas aux explosifs. {% hint "2_explosives_for_minesweeper" is needed %}
 
 *NOTE hors-jeu : Voyez avec le maître de jeu pour utiliser cette compétence, et simuler la "mise à l'abri de tous" pendant le compte à rebours.*
 
