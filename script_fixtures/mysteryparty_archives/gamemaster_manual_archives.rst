@@ -859,7 +859,7 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 
 - Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien n'en tire un mort-vivant. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
 
-- L’oracle a une vision d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %}
+- L’oracle a une prophétie visio/audio d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %} "parcival_oracle_audio_about_necromancers_and_ring_amplificans" is needed %}
 
 - L’arkonte se souvient de ce symbole, qui est entre autres celui de la légendaire **{% symbol "Bague Amplificans" for "ring_amplificans_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
