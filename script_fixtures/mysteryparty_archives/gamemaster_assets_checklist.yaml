@@ -152,11 +152,11 @@
 -
   - "@TOMBEAU Galerie de portraits des Maupertuis"
   -
-    - "Portrait du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} avec code magnétique: 'XXXXX' ??????????"
-    - "Portrait du père des Maupertuis (Quirinius) avec message UV : YYYYYYYYYYY"
-    - "Portrait de la mère des Maupertuis (Isadora) avec message UV : YYYYYYYYYYY"
-    - "Portrait de la fille des Maupertuis (Mérédice) avec message UV : YYYYYYYYYYY"
-    - "Portrait du fils des Maupertuis (Octave) avec message UV : YYYYYYYYYYY"
+    - "Portrait du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} avec message UV : \"Il a vécu par les ethers, les amplificans, et les grimoires maudits, mais il est mort par un simple fruit.\""
+    - "Portrait du père des Maupertuis (Quirinius) avec message UV : \"Si oubli, penser Venture Prins !\""
+    - "Portrait de la mère des Maupertuis (Isadora) avec message UV : \"Rien qui m'appartienne Sinon la paix du coeur Et la fraîcheur de l'air\""
+    - "Portrait de la fille des Maupertuis (Mérédice) avec message UV : \"Adieu soeurette, qui mourra verra (signé Octave)\""
+    - "Portrait du fils des Maupertuis (Octave) avec message UV : \"Tu ne retrouveras jamais tes sousous, frérot ! (signé Mérédice)\""
     - "Portrait de jeune fille en illusion d'optique lenticulaire"
     - "Cadre de remerciement (en code magnétique) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %} <MISSING>"
 
@@ -234,6 +234,7 @@
     - "3 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
     - "Arbre à micro-cristaux colorés avec guirlande d'illumination"
     - "7 flacons de cristaux colorés"
+    - "Fléchette de nerf cachée là {% hint 'other_iridium_bullet_for_woodsman' is provided %}"
     - "@GENERAL Plume de prophétie {% hint 'feather_in_gemmology_lab' is provided %}"
     - "@ENORMES Boîte-présentoir très plate en bois pour exposer les gemmes"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis la mini-jungle après ouverture de l'étage interdit"
@@ -269,7 +270,7 @@
     - "@ENORMES Nid de lianes et feuilles géantes"
     - "@PERSONNES {% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF)"
-    - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF)"
+    - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF) <MISSING>"
     - "Lanterne en argent cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
     - "@LIVRES Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %} <MISSING>"
     - "@AUDIOVIDEO Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth (batterie / microUSB)"
