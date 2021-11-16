@@ -258,7 +258,7 @@
 -
   - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac)"
   -
-    - "Présence de vapeurs toxiques (fioles diverses renversées) {% hint 'spilled_potions_in_toxic_corridor' is provided %} <MISSING-ECRITEAU>"
+    - "Présence de vapeurs toxiques <MISSING-ECRITEAU>"
     - "@ENORMES Valisettes ovales imbriquées, [automate doit pouvoir prendre celle intérieure]"
     - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette interne"
     - "2 grands miroirs rectangulaires pour le fond des valisettes"

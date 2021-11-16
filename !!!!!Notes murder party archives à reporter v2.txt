@@ -19,17 +19,20 @@ TODO CHECKLIST POUR changement d'étage, et aussi pour epilogue - braquer le spo
 
 DEPLOYER le site web en LOCAL aussi sur le mini-pc portable
 
-Créer marqueurs "objet ultra lourd" et "zone empoisonnée / danger de mort"
+Créer marqueurs "objet ultra lourd" et "zone empoisonnée / danger de mort"   WIP
 
-Imprimer affiches objets divers
+Imprimer affiches outillages divers
 
-Trouver pochette du voleur sans fond !!
+Trouver pochette du voleur sans fond !!  (CHAPEAU ???)
 
-Prevoir rembourrage pour simuler le cadavre du mage initialement
+Prevoir rembourrage pour simuler le cadavre du mage initialement (pareil que éboulis)
 
-Amener draps et nappes, demander Véro si + sont nécessaires
+Recenser et amener draps et nappes, demander Véro si + sont nécessaires
 
 Vérifier : imprimantes sur place à la médiatheque ???
+
+Changer pentacle de place ? Protéger ses diodes LED contre écrasements au pied ?
+
 
 
 
@@ -68,9 +71,11 @@ DRUIDE :
 INVENTEUR :
 - Répéter l'ouverture du bande son avec le discours et la musique préparés
 
-DUCHESSE
+DUCHESSE :
 - Répéter le démasquage du traître avec le discours et la musique préparés
 
+VOLEUR :
+- Petit changement, le corridor de l'étage interdit est toxique DEPUIS TOUJOURS, pas à cause d'une lutte et de potions renversées durant la mort du voleur
 
 
 
@@ -98,7 +103,7 @@ DUCHESSE
 - NOPE ABORTED Plan de l'étage autorisé et interdit : à changer
 - ECRIER AU PROPER l'epilogue
    > L'ankou doit dire "n'oublies tu pas quelque chose", l'arkonte aussi, à Octave lors de l'épilogue s'il oublie
-- Changer scénario : le poison de la zone n'est pas due à la lutte du voleur mais est INNEE -> changer toxic_corridor_is_due_to_spilled_potion
+- Changer scénario : le poison de la zone n'est pas due à la lutte du voleur mais est INNEE -> changer toxic_corridor_is_due_to_spilled_potion  DONE
 - Parler à Octave de son livre d'animaux favori (pour énigme du chat-lu-mots)
 - Dire réaction de l'arkonte ou l'ankou devant autres gens ?
 - Dire automate : quid si on les envoie dans un piege ?
@@ -116,6 +121,7 @@ DUCHESSE
 - Inventeur : LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
 - PREVOIR PILES En rhab CR20xx pour télécommandes ??????? bof nan ya plein de telecommandes en trop......
 - acheter guètres / surchaussures et gants blancs
+- Mettre code magnétique ou analyse physique pour le corridor toxique ?
 
 - Ce qu'il faut en tout:
 

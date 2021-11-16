@@ -6,9 +6,7 @@ import re
 import rpg_sheet_generator as rpg
 import sys
 import textwrap
-import time
 from collections import OrderedDict
-from pprint import pprint
 
 from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_game_data_dump_is_present, \
     _extract_ingame_clues_text_from_odt, _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email
@@ -165,6 +163,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("maupertuis_caduceus_symbol", 1),
     ("coffee_mill_stereogram", 1),
     ("miscellaneous_secret_messages", 1),
+    ("trap_and_property_markers", 2),
 ]
 
 # documents without decorations, typically ; one can provide a LIST of RST files as value
