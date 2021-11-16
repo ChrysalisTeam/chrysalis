@@ -160,17 +160,26 @@ Le monde des automates
 
 Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons. {% fact "inventor_has_built_androids" %}
 
-Ces robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas les attaques sacrées ; cependant rien n'est censé leur arriver durant le jeu.
+Ces robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas les attaques sacrées ; cependant rien n'est censé leur arriver durant le jeu, sauf initiatives des joueurs.
 
 Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde-là pour un surcroit d'ambiance et une bonne liberté d'action.
 
-Idées d'interactions possibles :
+Rôles typiques possibles (un automate peut en changer en cours de partie) :
 
-- Ils répètent toujours les mêmes 4 phrases stéréotypées aux joueurs, même hors de propose.
-- Ils font la poussière sur les étagères, voire sur les autres personnages.
-- Ils portent des lampes et suivent les joueurs qui le demandent.
+- Automate nettoyeur (1 plumeau est disponible)
+- Automate serveur de boissons et de plats
+- Automate majordome, qui veut enlever leurs manteaux aux joueurs et leur faire visiter l'étage autorisé
+- Automate chanteur (a cappella, ou prévoir une musique instrumentale)
+- Automate blagueur (prévoir 5-6 blagues non-contemporaines à raconter sur demande)
+- Automate encyclopédique (invente tout un discours farfelu quand on lui demande une information)
+
+Idées d'interactions possibles pour certains automates :
+
+- Ils répètent toujours quelques phrases stéréotypées aux joueurs, même hors de propos.
+- Ils font la poussière non seulement sur les étagères, mais aussi sur les autres personnages.
+- Ils portent des lampes et suivent les joueurs qui le leur demandent.
 
 Paroles typiques :
 
@@ -180,10 +189,11 @@ Paroles typiques :
 - "Je vous prie d'accepter cette boisson gouleyante à souhait"
 - "Puis-je vous débarrasser de votre manteau ?"
 - "Je sers la lignée des Maupertuis et c'est une immense joie."
+- "A votre gauche le tombeau du graaaaand mage Mos Peratys, fondateur de la lignée..."
 
 Ils peuvent boguer par moment, jusqu'à ce que l'avatar inventeur ou un joueur ne les débloque :
 
-- Ils bégayent, butent contre les murs et obstacles, se coincent les bras des uns dans ceux des autres, ou bougent bizarrement façon "engrenage défectueux"...
+- Ils bégayent, butent contre les murs et obstacles, se coincent les bras les uns dans les autres, ou bougent bizarrement sur place façon "engrenage défectueux"...
 - Ils peuvent se retrouver dans une impasse logique, en voulant constamment céder la priorité à un autre automate : "Mais non... Après vous... Je n'en ferais rien...".
 
 
@@ -660,9 +670,9 @@ Les joueurs doivent trouver le moyen de se téléporter dans le tombeau du {% sy
 
 Le cadavre du mage git là, dans l'aube papale dorée.
 
-Si un non-Parcival fait partie du groupe des téléportés, cela déclenche une malédiction : la momie du mage se lève, et pourchasse (en marchant lentement, comme un zombie) l'intrus, qui doit l'esquiver jusqu'à ce que le téléporteur lui permette de sortir, sous peine de mourir. La momie retourne ensuite à sa place. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
+Si un non-Parcival fait partie du groupe des téléportés (voir leurs habits de reconnaissance), cela déclenche une malédiction : la momie du mage se lève, et pourchasse (en marchant lentement, comme un zombie) l'intrus, qui doit l'esquiver jusqu'à ce que le téléporteur lui permette de sortir, sous peine de mourir. La momie retourne ensuite à sa place. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
-Lorsqu'il n'y pas de non-Parcival dans le tombeau, la momie ne bouge absolument pas, mais sa simple présence suffit à stresser les joueurs tandis qu'ils lui piquent ses ornements légendaires.
+Lorsqu'il n'y pas de non-Parcival dans le tombeau, la momie ne bouge absolument pas, mais sa simple présence suffit à stresser les joueurs, tandis qu'ils lui piquent ses ornements légendaires.
 {% endmacro %}
 <{ magus_zombie_instructions }/>
 
