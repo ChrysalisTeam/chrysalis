@@ -37,15 +37,15 @@
     - "I1 - Livre factice bleu (contient la CLEF du livre factice rouge et quelques pierreries), marqué au sol"
     - "I2 - Livre factice rouge, marqué au sol (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %}"
     - "@BIJOUX Broche du père Maupertuis pour le livre factice rouge (envoûtement POSITIF)"
-    - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF) <MISSING-MP3PLAYER>"
-    - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (1h15 autonomie) pour le Venture Prins"
+    - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
+    - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (1h15 autonomie) pour le Venture Prins (ajouter batterie miniUSB externe)"
     - "I4 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
     - "I5 - Livre fin HACHETTE avec Recette de l'Elixir Flexifiant (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_flex_elixir' is provided %}"
     - "I6 - Livre fin HACHETTE avec Recette de la Lotion de Clairvoyance (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_clarity_lotion' is provided %}"
     - "I7 - Livre luxe pourpre :  Tome 3 du roman du druide entre les étagères de zoologie et de cuisine  {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
     - "@POTIONS I8 - Potion de tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence, ainsi que Micro-meuble vernis pour bijoux"
 
-    - "@RECOINS J1 - SCEAU lumineux OPTIONNEL (1 MOYENNE Guirlande de Noël multicolore réglable @Pascal), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %} (envoûtement POSITIF) <MISSING>"
+    - "@RECOINS J1 - SCEAU lumineux OPTIONNEL (1 mini-guirlande LED), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %} (envoûtement POSITIF) <MISSING>"
     - "J2 - Livre fin HACHETTE avec Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
 
@@ -219,7 +219,7 @@
   -
     - "Lanterne à flamme (3xAA) (marque d'envoûtement POSITIF)"
     - "3 faux-galets creux (pierreries dedans)"
-    - "Mini-globe terrestre <MISSING>"
+    - "Mini-globe terrestre"
     - "Boule plasma Pearl (USB ou 4xAAA)"
     - "Guirlande multicolore SilverWireLights (3xAA) @Cat"
     - "@GEMMES Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et Fluorite {% hint 'gem_fluorine' is provided %}"
@@ -258,7 +258,7 @@
 -
   - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac)"
   -
-    - "[???? COMMENT LE MARQUER????] Présence de vapeurs toxiques (fioles diverses renversées) {% hint 'spilled_potions_in_toxic_corridor' is provided %} <MISSING-ECRITEAU>"
+    - "Présence de vapeurs toxiques (fioles diverses renversées) {% hint 'spilled_potions_in_toxic_corridor' is provided %} <MISSING-ECRITEAU>"
     - "@ENORMES Valisettes ovales imbriquées, [automate doit pouvoir prendre celle intérieure]"
     - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette interne"
     - "2 grands miroirs rectangulaires pour le fond des valisettes"
@@ -369,7 +369,7 @@
     - "Couverture marron fine avec croix, contenant le journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %} <MISSING-journal>"
     - "Arbalète bois et UNIQUE fléchette (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %}"
     - "@BOUTEILLES Fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %}"
-    - "@POTIONS Potions de Focus et de Charme (pour l'alchemist, appartenait à l'exorcist) {% hint 'potions_of_focus_from_exorcist' is provided %} {% hint 'potions_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %} <MISSING-POTIONS>"
+    - "@POTIONS Potions de Focus et de Charme (pour l'alchemist, appartenait à l'exorcist) {% hint 'potions_of_focus_from_exorcist' is provided %} {% hint 'potions_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %} <MISSING-POTIONS-A-FABRIQUER>"
     - "2 lanternes rouges du Clivra (2xLR20D chacune) <MISSING-PILES>"
     - "Lanterne en bronze (2xLR20D incluses)"
 
@@ -420,7 +420,7 @@
     - "Cordelette épaisse"
     - "7 gros grelots blancs pour pièges"
 
-    - "@ECLAIRAGES 6 grosses bougies (3xAAA chacune, piles NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %} <MISSING-1>"
+    - "@ECLAIRAGES 6 grosses bougies (3xAAA chacune, piles NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %} <MISSING-3-pack-in-cave>"
     - "@ECLAIRAGES 9 moyennes bougies (1xCR2032 chacune incluse) à disséminer dans l'étage interdit (marque d'envoûtement POSITIF)"
     - "@ECLAIRAGES Lampe à sel (USB normal)"
 
@@ -457,7 +457,7 @@
     - "Seau argenté à champagne <MISSING>"
     - "@ECLAIRAGES Machine électrique à fumée pour le seau argenté"
 
-    - "Station Internet !!! Autres accès Internet ???"
+    - "Station web sur PC (aevc écran steampunk si possible) {% hint 'hint_website_device' is provided %}"
 
 
 # BESOINS EN PILES #

@@ -173,21 +173,22 @@ ISOLATED_DOCS = {
     "gamemaster_assets_checklist": ("gamemaster_assets_checklist.rst", "gamemaster"),
     "gamemaster_crates_listing_big": ("gamemaster_crates_listing.rst", "gamemaster"),
 
-    # NPCS
-    # "npc_avatar_druid_sheet": ("npcs/avatar_druid_sheet.rst", "avatar_druid"),
-    # "npc_avatar_inventor_sheet": ("npcs/avatar_inventor_sheet.rst", "avatar_inventor"),
-    # "npc_avatar_duchess_sheet": ("npcs/avatar_duchess_sheet.rst", "avatar_duchess"),
-    #
-    # "npc_god_ankou_sheet": ("npcs/god_ankou_sheet.rst", "god_ankou"),
-    #
-    # "npc_phantom_archivist_sheet": ("npcs/phantom_archivist_sheet.rst", "phantom_archivist"),
-    # "npc_phantom_arkon_sheet": ("npcs/phantom_arkon_sheet.rst", "phantom_arkon"),
-    # "npc_phantom_octave_sheet": ("npcs/phantom_octave_sheet.rst", "phantom_octave"),
-    # "npc_phantom_thief_sheet": ("npcs/phantom_thief_sheet.rst", "phantom_thief"),
-    # "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
-    # "npc_phantom_magus_sheet": ("npcs/phantom_magus_sheet.rst", "phantom_magus"),
-    #
-    # "planning_of_prophecies": ("miscellaneous/planning_of_prophecies.rst", "anyone"),
+    # NPCs
+    "npc_avatar_druid_sheet": ("npcs/avatar_druid_sheet.rst", "avatar_druid"),
+    "npc_avatar_inventor_sheet": ("npcs/avatar_inventor_sheet.rst", "avatar_inventor"),
+    "npc_avatar_duchess_sheet": ("npcs/avatar_duchess_sheet.rst", "avatar_duchess"),
+
+    "npc_god_ankou_sheet": ("npcs/god_ankou_sheet.rst", "god_ankou"),
+
+    "npc_phantom_archivist_sheet": ("npcs/phantom_archivist_sheet.rst", "phantom_archivist"),
+    "npc_phantom_arkon_sheet": ("npcs/phantom_arkon_sheet.rst", "phantom_arkon"),
+    "npc_phantom_octave_sheet": ("npcs/phantom_octave_sheet.rst", "phantom_octave"),
+    "npc_phantom_thief_sheet": ("npcs/phantom_thief_sheet.rst", "phantom_thief"),
+    "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
+    "npc_phantom_magus_sheet": ("npcs/phantom_magus_sheet.rst", "phantom_magus"),
+
+    # SPECIFIC PLANNINGS
+    "planning_of_prophecies": ("miscellaneous/planning_of_prophecies.rst", "anyone"),
 }
 
 
@@ -384,7 +385,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:
+    if True:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,
@@ -393,7 +394,7 @@ def generate_archives_sheets():
     # -------------
 
     # first the gamemaster manual
-    if False:
+    if True:
         gm_data = all_data.copy()
         gm_data["current_player_id"] = master_login  # silent
         build_archives_pdf(GAMEMASTER_MANUAL_PARTS,
@@ -431,7 +432,7 @@ def generate_archives_sheets():
                                 jinja_context=isolated_data)
             isolated_data["current_player_id"] = None
 
-    AAAAAA
+    ##AAAAAA
     # -------------
 
     def _get_player_context(_player_name):
