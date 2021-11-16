@@ -1,7 +1,7 @@
 Checklist des Objets du Jeu
 ================================
 
-*Marquer avec un rond les objets préparés au début du jeu, et cocher ce rond lorsque les objets sont récupérés à la fin du jeu.*
+*Marquer avec des ronds les objets préparés au début du jeu, et cocher ces ronds lorsque les objets sont récupérés à la fin du jeu.*
 
 {% for section, item_titles in murder_party_items %}
 
