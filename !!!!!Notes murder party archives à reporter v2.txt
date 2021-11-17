@@ -126,6 +126,7 @@ VOLEUR :
 - PREVOIR PILES En rhab CR20xx pour télécommandes ??????? bof nan ya plein de telecommandes en trop......
 - acheter guètres / surchaussures et gants blancs
 - Mettre code magnétique ou analyse physique pour le corridor toxique ?
+- Statuer sur nom des portails de transplanage/planétaire/magique qui mènent à la surface ("Symbol" needed)
 
 - Ce qu'il faut en tout:
 

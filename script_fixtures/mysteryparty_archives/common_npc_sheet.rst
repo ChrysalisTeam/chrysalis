@@ -67,8 +67,9 @@ Orienter les joueurs vers les bons interlocuteurs
 Tous les figurants ont une histoire, et un passif vis-à-vis des autres figurants, il faut en tenir compte lors de chaque interaction.
 
 - Lorsque les avatars se retrouvent pour le banquet : plaisir, échange de "nouvelles" peu surprenantes (car leurs univers romanesques évoluent très peu)
-- Lorsque les avatars ou fantômes croisent les joueurs : surprise, méfiance, espérance d'avoir là une solution à la malédiction de la bibliothèque
-- Lorsqu'Octave et l'archiviste se retrouvent : effusions de joie, questionnements mutuels sur "pourquoi" de la situation
+- Lorsque les avatars ou fantômes croisent les joueurs : selon leur passif, ils manifestent surprise, méfiance, espérance d'avoir là une solution à la malédiction de la bibliothèque ; Aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans ce monde des vivants.
+- Les fantômes qui ne sont pas conscients de leur dangerosité peuvent être tentés de donner une **accolade** aux joueurs (ex. Octave envers ses lointains héritiers Parcival). {% fact "parcival_family_is_heir_of_maupertuis" %} À charge pour les joueurs de les éviter, sans cela il y aura des blessures, et un grand désarroi parmi les fantômes "agresseurs involontaires".
+- Lorsqu'Octave et l'archiviste se retrouvent : effusions de joie, questionnements mutuels sur le "pourquoi" de la situation
 - Lorsqu'Octave et l'archiviste retrouvent l'arkonte : surprise, méfiance, questionnements accusateurs
 - Lorsqu'Octave et l'archiviste voient la Bête : surprise, tentative de l'amadouer au nom des Maupertuis
 - Lorsque les avatars ou fantômes croisent le voleur : surprise, indignation, condamnation (lui reste moqueur)

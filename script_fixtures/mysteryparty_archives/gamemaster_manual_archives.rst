@@ -608,41 +608,45 @@ Avec le bon rituel du grimoire {% symbol "Thanatologue" for "book_of_the_dead" %
 Briefings
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Un briefing collectif a lieu pour rappeler le contexte du jeu, les règles (en particulier la sécurité physique et psychologique), et le planning global.
+Chaque groupe de joueurs est briefé à part, pour vérifier qu’ils n’ont pas de questions sur leur rôles et leurs compétences spécifiques, et qu'ils sont d'accord entre eux sur la façon de jouer leurs devises et gestes symboliques.
 
-Chaque groupe de joueurs est ensuite briefé à part, surtout pour vérifier qu’ils n’ont pas de questions sur leur rôles et leurs compétences spécifiques, et qu'ils sont d'accord entre eux sur la façon de jouer leurs devises et gestes symboliques.
+Un briefing collectif a ensuite lieu pour rappeler le contexte du jeu, les règles (en particulier la sécurité physique et psychologique, la présence des toilettes...), et le planning global.
 
-L’entrée en scène des joueurs (temps 0h00)
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Chaque groupe arrive dans l’étage du bas de la bibliothèque par un accès différent (ou avec un délai de quelques minutes), avec une musique introductive.
+L’entrée en scène des joueurs
+++++++++++++++++++++++++++++++++++
+
+Un discours du maître de jeu introduit le début du jeu.
+
+Chaque groupe est ensuite amené, par un automate, dans un endroit différent de l’étage du bas de la bibliothèque, avec une musique introductive.
 
 Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés.
 
-Certains avatars peuvent déjà être présents (par exemple la duchesse en prière au cimetière, le druide dans sa mini-jungle), dans l'attente de l'inventeur-scientiste.
+Certains avatars peuvent déjà être présents (par exemple la duchesse en prière au cimetière, le druide dans sa mini-jungle, l'inventeur réparant un automate), dans l'attente du moment de l'ouverture du buffet.
 
-Après 10mn, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être avec eux un espoir de résolution de la malédiction. Il répond aux questions des joueurs, **teste leurs bonnes intentions** avec le “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et leur signale la présence du buffet (encore recouvert de voiles) qui s'est **"activé tout seul"** (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans
 
-Lors de leur première rencontre avec les joueurs, les autres figurants sont au choix étonnés, inquiets, ou ravis, selon leur caractère et leur connaissance de la situation. Aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans ce monde des vivants.
+L’ouverture du buffet d'outre-monde
+++++++++++++++++++++++++++++++++++++++++++++
 
-Les fantômes qui ne sont pas conscients de leur dangerosité peuvent être tentés de donner une **accolade** aux joueurs (ex. Octave envers ses lointains héritiers Parcival). {% fact "parcival_family_is_heir_of_maupertuis" %}
-À charge pour les joueurs de les éviter, sans cela il y aura des blessures, et un grand désarroi parmi les fantômes "agresseurs involontaires".
+Une musique entraînante se déclenche, et l’inventeur vient au banquet, appelant à grands cris ses amis du monde imaginaire à le rejoindre pour porter un toast à Octave et l'archiviste, et espérer ensemble la levée de la malédiction.
+
+Les autres avatars convergent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, au cours duquel les mets du banquet sont dévoilés ; ces mets sont supposés être automatiquement produits par la table enchantée, lorsqu'on l'active par une formule simple comme **"Mon ventre gargouille, ma gorge se dessèche, ô table comble moi !"**. {% fact "buffet_table_magically_generates_food" %}
+
+Une fois la musique finie, joueurs et héros font plus ample connaissance autour du buffet. Il est assumé que, à dessein, ces mets magiques sont aussi accessibles aux fantômes (incarnés ou non).
+
+
+La première incarnation des fantômes
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+Après un moment, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être avec eux un espoir de résolution de la malédiction. Il répond aux questions des joueurs, et **teste leurs bonnes intentions** avec le "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". Il leur (re)signale la présence du buffet, qui pour lui s'est **"activé tout seul"** (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans
+
+Les autres fantômes s'incarnent aussi (de préférence un peu après), chacun à son point d'attache plus loin du banquet.
+
 
 La frénésie de la clochette spectrale
 +++++++++++++++++++++++++++++++++++++++++++
 
 Un joueur sonnera probablement la clochette de service, par curiosité, en début de jeu ; en tant que fantôme, il faudra réagir conformément à la description de cet artefact mystique, en passant en mode "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}".
-
-L’ouverture du buffet d'outre-monde (temps 0h30)
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Une musique entraînante se déclenche, et l’inventeur fait irruption près du banquet, appelant à grands cris ses amis du monde imaginaire à le rejoindre pour porter un toast à Octave, et espérer ensemble la levée de la malédiction.
-
-Les autres avatars arrivent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, au cours duquel les mets du banquet sont dévoilés ; ces mets sont supposés être automatiquement produits par la table enchantée, lorsqu'on l'active par une formule simple comme **"Mon ventre gargouille, ma gorge se dessèche, ô table comble moi !"**. {% fact "buffet_table_magically_generates_food" %}
-
-Une fois la musique finie, joueurs et héros font connaissance autour du buffet. Il est assumé que, à dessein, ces mets magiques sont aussi accessibles aux fantômes (incarnés ou non).
-
-*Le jeu se poursuit ensuite au gré des initiatives des joueurs.*
 
 {% endmacro %}
 <{ early_game_events }/>
@@ -650,8 +654,8 @@ Une fois la musique finie, joueurs et héros font connaissance autour du buffet.
 
 {% macro ankou_introduction_event() %}
 
-Le passage de l’Ankou dans la bibliothèque (temps 1h)
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Le passage de l’Ankou dans la bibliothèque
+++++++++++++++++++++++++++++++++++++++++++++++++++
 
 L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils n’ont rien à faire ici, qu’il n’est pas “la Bête”, qu’il ne leur veut pas de mal, puis finalement qu’il compte sur eux pour l'aider à résoudre le problème de ces âmes prisonnières des lieux. Puis il repart.
 
@@ -662,7 +666,7 @@ L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’i
 
 
 L'exploration du tombeau du mage fondateur
-++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro magus_zombie_instructions() %}
 
@@ -693,11 +697,11 @@ L’Ankou appelle les fantômes enfin libérés (qui ont des petites ailes dans 
 
 Octave est ravi de retrouver bientôt sa famille, mais se retourne pour distribuer des remerciements, conseils et adieux à chaque groupe de joueurs, avant de partir en courant.
 
-L’archiviste et l’arkonte suivent avec solennité.
+L’archiviste et l’arkonte le suivent avec solennité.
 
 La Bête peut potentiellement reparaître juste pour s'échapper elle aussi, de façon comique, de même que le voleur.
 
-Les automates guident ensuite les joueurs vers la sortie de la bibliothèque, avant que les portails magiques ne se referment jusqu'au prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}.
+Les automates guident ensuite les joueurs vers la sortie de la bibliothèque, avant que les portails de transplanage ne se referment jusqu'au prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}.
 
 
 Planification des prophéties et intuitions
@@ -910,7 +914,7 @@ Le druide nie initialement toutes les accusations, en traitant ses accusateurs d
 
 Mais lorsque ces 2 indices rassemblés sont exposés aux autres avatars, ils confrontent le druide. Celui-ci change alors de posture, assume son crime au nom du Salut de Pangéa, et rappelle qu'il est bien plus puissant que tous les participants rassemblés. Il propose donc à tous de l'aider à briser la malédiction de la bibliothèque, en échange de la vie sauve dans son futur Havre de Nature.
 
-Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu’il a accès aux grimoires du domaine interdit, il finira bien par découvrir comment utiliser la magie de ce monde et briser la malédiction de la bibliothèque ; mais eux ont des missions urgentes à accomplir et doivent ressortir avant que les portails planétaires ne se referment, d'ici quelques heures.
+Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu’il a accès aux grimoires du domaine interdit, il finira bien par découvrir comment utiliser la magie de ce monde et briser la malédiction de la bibliothèque ; mais eux ont des missions urgentes à accomplir et doivent ressortir avant que les portails de transplanage ne se referment, d'ici quelques heures.
 
 Le druide prévient qu'il ne s'éloignera plus du pentacle du rituel de l'arkonte, afin que personne ne tente de le renvoyer de force dans son monde ; et qu'il sentirait si un autre pentacle similaire était créé dans les environs.
 Typiquement, il se met alors à lire des grimoires (dont le Thanatologue), l'air enthousiaste, non loin du pentacle. {% fact "druid_reads_near_pentacle_before_game_ending" %}
@@ -1094,14 +1098,13 @@ Connaissances des personnages de l'ère Maupertuis
 Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
 Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %} avant la malédiction de la bibliothèque, durant la {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}.
 
 Redoutable magicien, alchimiste, et duelliste, il a défait tous ses adversaires. La légende raconte qu'il était invulnérable aux sortilèges magiques, et pouvait faire tomber la pluie ou la grêle sur des villes entières, quand ses adversaires invocateurs ne touchaient jamais plus que quelques ares de terrain à la fois.
 
 Pour éviter tout empoisonnement, il avait appris à générer lui-même de la nourriture à partir de simples roches ; un savoir qui est resté dans sa descendance sous la forme d'une table de banquet magique, située dans la bibliothèque, qui transmute toute seule de la nourriture à partir des roches environnantes. {% fact "buffet_table_magically_generates_food" %}
 
-Il a créé le château familial des Maupertuis, la bibliothèque enfouie, ainsi que le réseau de portails planétaires la reliant aux domaines de ses vassaux.
+Il a créé le château familial des Maupertuis, la bibliothèque enfouie, ainsi que le réseau de portails de transplanage la reliant aux domaines de ses vassaux.
 
 Il est mort brusquement lors de grandes festivités, à l'approche de ses 50 ans, en s'étouffant avec un noyau de pêche. Il n'avait pas encore transmis à ses héritiers ses plus importants secrets.
 
