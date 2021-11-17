@@ -164,7 +164,7 @@ Ces robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont v
 
 Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
-Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde-là pour un surcroit d'ambiance et une bonne liberté d'action.
+Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde-là pour un surcroît d'ambiance et une bonne liberté d'action.
 
 Rôles typiques possibles (un automate peut en changer en cours de partie) :
 
@@ -185,7 +185,7 @@ Paroles typiques :
 
 - "Soyez le bienvenu dans notre humble demeure"
 - "Monsieur/madame désire-t-il/elle quelque chose ?"
-- "Daignez gouter ces douceurs fort onéreuses"
+- "Daignez goûter ces douceurs fort onéreuses"
 - "Je vous prie d'accepter cette boisson gouleyante à souhait"
 - "Puis-je vous débarrasser de votre manteau ?"
 - "Je sers la lignée des Maupertuis et c'est une immense joie."
@@ -193,7 +193,7 @@ Paroles typiques :
 
 Ils peuvent boguer par moment, jusqu'à ce que l'avatar inventeur ou un joueur ne les débloque :
 
-- Ils bégayent, butent contre les murs et obstacles, se coincent les bras les uns dans les autres, ou bougent bizarrement sur place façon "engrenage défectueux"...
+- Ils bégaient, butent contre les murs et obstacles, se coincent les bras les uns dans les autres, ou bougent bizarrement sur place façon "engrenage défectueux"...
 - Ils peuvent se retrouver dans une impasse logique, en voulant constamment céder la priorité à un autre automate : "Mais non... Après vous... Je n'en ferais rien...".
 
 

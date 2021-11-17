@@ -38,23 +38,24 @@ Changer pentacle de place ? Protéger ses diodes LED contre écrasements au pied
 
 
 
-COMPLEMENTS DE BRIEFING
-=============================
+COMPLEMENTS DE BRIEFING POUR DIVERS PARTICIPANTS
+=================================================
 
 JOUEURS :
 - Si vous êtes touché par un ennemi ou un piège, vous devez vous arrêter, vous mettre au sol, et appeler à l'aide en simulant que vous êtes blessé.
 
 FIGURANTS :
-- Rappeler que les avatars/automates et les fantomes ne peuvent interagir ensemble QUE par l'entremise des joueurs, ces 2 mondes ne se voient et s'entendent pas.
+- Rappel : les avatars/automates et les fantômes ne peuvent interagir ensemble QUE par l'entremise des joueurs, ces 2 mondes ne se voient et s'entendent pas.
 - Au début du jeu, après le soulagement des "retrouvailles" indirectes, avatars comme fantômes se demandent mutuellement ce qu'il s'est passé il y a 500 ans lors du drame
 - Les avatars sont désemparés en essayant de protéger les joueurs des dangers invisibles
 - Si on veut vous faire jurer quelque chose "par Zarathoustra", vous pouvez dire ce que vous voulez, et même vous moquer des joueurs, car ce serment ne s'applique pas à vous (avatars ou fantomes), vous ne risquez rien en parjurant avec.
-- Les fantomes sont reconnaissables à leur tunique pourpre, similairement les avatars sont reconnaissables au **maquillage sur le visage et aux bandeaux de dentelles blanche**
+- Les fantômes sont reconnaissables à leur tunique pourpre, similairement les avatars sont reconnaissables au **maquillage sur le visage et aux bandeaux de dentelles blanche**
+- Les DISCOURS LONGS des figurants peuvent être soufflés dans l'oreille par une oreillette (sur lecteur MP3), avec 1-2 secondes d'avance sur la musique, pour éviter tout oubli ; vérifier que le son grave de piano est bien synchronisé, au lancement simultané des 2 bandes son (musique et voix)
 
 L'ANKOU :
 - Si on lui demande, les défunts Maupertuis vont "tous bien"
 
-FANTOMES :
+FANTÔMES :
 - Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés"
 - Vous passez errance lorsque les CLOCHES retentissent (ou la clochette de frénésie) ; vous repassez en incarné lors du GONG
 - Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage,n et que vous ne pouvez rejoindre l'au-delà
@@ -68,19 +69,18 @@ OCTAVE :
 
 DRUIDE :
 - Si les joueurs font mine de fouiller la TERRE de la mini-jungle, tu t'énerves au motif qu'ils saccagent tout et que la Nature est sacrée
-- Avoir une posture prévue si le Tome 3 du roman du druide (qui l'accable) est trouvé trop tôt : dire soir que le livre est faux, soit que le druide a changé de comportement par la suite, dans un autre roman de rédemption, et que ces crimes étaient juste des "erreurs de jeunesse"
-- Répéter avec l'arkonte la chorégraphie de la bataille finale
+- Avoir une posture prévue si le Tome 3 du roman du druide (qui l'accable) est trouvé trop tôt : dire soit que le livre est faux, soit que le druide a changé de comportement par la suite, dans un autre roman de rédemption, et que ces crimes étaient juste des "erreurs de jeunesse"
+- Répéter avec l'arkonte, avant le jeu, la chorégraphie de la bataille finale
 - Tu dois, vers la fin du jeu, récupérer des gros livres/grimoires pour les lire tranquillement non loin du pentacle (voir le maitre de jeu pour çà)
 
 INVENTEUR :
-- Répéter l'ouverture du bande son avec le discours et la musique préparés
+- Répéter avant le jeu l'ouverture du bande son avec le discours et la musique préparés
 
 DUCHESSE :
-- Répéter le démasquage du traître avec le discours et la musique préparés
+- Répéter avant le jeu le démasquage du traître avec le discours et la musique préparés
 
 VOLEUR :
 - Petit changement, le corridor de l'étage interdit est toxique DEPUIS TOUJOURS, pas à cause d'une lutte et de potions renversées durant la mort du voleur
-
 
 
 
