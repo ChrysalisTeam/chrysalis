@@ -189,6 +189,7 @@ ISOLATED_DOCS = {
     # SPECIFIC INSTRUCTIONS
     "planning_of_prophecies": ("miscellaneous/planning_of_prophecies.rst", "anyone"),
     "ingame_speeches": ("miscellaneous/ingame_speeches.rst", "anyone"),
+    "planning_details_for_game": ("miscellaneous/planning_details_for_game.rst", "anyone"),
 }
 
 
@@ -404,7 +405,7 @@ def generate_archives_sheets():
     # -------------
 
     # then the common DOCS for participants
-    if False:
+    if True:
 
         isolated_data["current_player_id"] = "everyone"
         build_archives_pdf(COMMON_LORE_AND_RULES,

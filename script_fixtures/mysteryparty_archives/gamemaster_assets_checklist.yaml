@@ -420,6 +420,8 @@
     - "Cordelette épaisse"
     - "7 gros grelots blancs pour pièges"
 
+    - "Plan des lieux imprimé en couleurs pour aider au déploiement/rangement"
+
     - "@ECLAIRAGES 6 grosses bougies (3xAAA chacune, piles NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %} <MISSING-3-pack-in-cave>"
     - "@ECLAIRAGES 9 moyennes bougies (1xCR2032 chacune incluse) à disséminer dans l'étage interdit (marque d'envoûtement POSITIF)"
     - "@ECLAIRAGES Lampe à sel (USB normal)"

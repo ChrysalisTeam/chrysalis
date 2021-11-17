@@ -11,27 +11,17 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TODO RESTANT
 ================
 
-
-!!! VITE donner idées archétypes d'automates !!!
-
 RACHETER PILES D20 vite!!  3-4 exemplaires ???
-
-TODO VITE BANDE SON TOTALE POUR FIGURANTS, recap du planning du jeu
-TODO CHECKLIST POUR changement d'étage, et aussi pour epilogue - braquer le spot vers le bas, mettre ailes etc !!!
 
 DEPLOYER le site web en LOCAL aussi sur le mini-pc portable
 
-Créer marqueurs "objet ultra lourd" et "zone empoisonnée / danger de mort"   WIP
+Créer marqueurs "objet ultra lourd" et "zone empoisonnée / danger de mort"   DONE A IMPRIMER !!!!!!!!
 
-Imprimer affiches outillages divers
+Imprimer affiches outillages divers  !!!!!!
+
+IMPRIMER PLAN DES LIEUX
 
 Trouver pochette du voleur sans fond !!  (CHAPEAU ???)
-
-Prevoir rembourrage pour simuler le cadavre du mage initialement (pareil que éboulis)
-
-Recenser et amener draps et nappes, demander Véro si + sont nécessaires
-
-Vérifier : imprimantes sur place à la médiatheque ???
 
 Changer pentacle de place ? Protéger ses diodes LED contre écrasements au pied ?
 
@@ -58,7 +48,7 @@ L'ANKOU :
 FANTÔMES :
 - Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés"
 - Vous passez errance lorsque les CLOCHES retentissent (ou la clochette de frénésie) ; vous repassez en incarné lors du GONG
-- Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage,n et que vous ne pouvez rejoindre l'au-delà
+- Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage, et que vous ne pouvez rejoindre l'au-delà ; mais vous pouvez aller à l'étage interdit s'il est ouvert
 
 AUTOMATES :
 - Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le piège reste en place dans tous les cas
@@ -154,10 +144,22 @@ VOLEUR :
 
 
 
+
+
 TRASH
 ########################################
 
 
+
+
+
+Vérifier : imprimantes sur place à la médiatheque ???  BOF WHO CARES
+
+
+VITE donner idées archétypes d'automates !!!  DONE
+
+TODO VITE BANDE SON TOTALE POUR FIGURANTS, recap du planning du jeu
+TODO CHECKLIST POUR changement d'étage, et aussi pour epilogue - braquer le spot vers le bas, mettre ailes etc !!!
 
 
 AUDIO :
