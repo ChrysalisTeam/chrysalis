@@ -53,3 +53,21 @@ J'assumerai devant les Y ods le poids de mes erreurs et de mes fautes.
 
 Mais aujourd'hui c'est à vous, mon confesseur, que je m'en remets pour achever ce que j'ai commencé...
 
+
+ADIEUX AUX JOUEURS (par le fantôme Octave)
+----------------------------------------------------------
+
+*Au début de la musique d'épilogue, Octave, revêtu de ses ailes, se réjouit ouvertement de pouvoir retrouver bientôt sa famille. Lorsque la voix de la chanteuse commence à 1mn12, il s'élance dans les escaliers, s'arrête net à mi-parcours, fait demi-tour, et fait ses adieux aux différents groupes de joueurs, jusqu'à 1mn39 ; puis alors que la musique s'envole, il s'élance jusqu'en haut des escaliers en appelant ses parents, et disparait ; il est bientôt suivi par les autres fantômes, ailés eux aussi.*
+
+*Exemple de discours d'adieu, à adapter bien sûr si certaines équipes n'ont pas réussi leur quête :*
+
+Mes amis les diacres, je vous remercie pour tout ce que vous avez fait pour nous, et je vous souhaite de toujours bien lutter contre les monstres, de libérer les fantômes égarés, et de ne surtout plus jamais brûler des familles et des manoirs qui ne vous ont rien fait !
+
+Mes amis les soldats mirandiens, je suis content que notre moulin magique continue à servir une belle cause, et j'espère qu'avez lui, vous pourrez continuer à vivre en paix et en liberté sur votre île, aussi longtemps que le soleil brillera !
+
+Mes amis les explorateurs héliossars, je compte sur vous pour contrer les plans insensés des akarites, avec la bague de mon aïeul ; et pour faire en sorte que plus jamais des légions de morts-vivants ne sortent de terre pour embêter les vivants !
+
+Enfin, mes tous petits neveux et nièces les Parcival, j'ai eu un honneur et bonheur immense de faire votre connaissance. Occupez-vous bien de votre soeur {% symbol "Philomène" for "parcival_sick_child_name" %}, et perpétuez pour longtemps, pour toujours, la sagesse et le sang de notre noble lignée !
+
+
+

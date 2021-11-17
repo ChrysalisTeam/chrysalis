@@ -12,6 +12,8 @@ TODO RESTANT
 ================
 
 
+!!! VITE donner idées archétypes d'automates !!!
+
 RACHETER PILES D20 vite!!  3-4 exemplaires ???
 
 TODO VITE BANDE SON TOTALE POUR FIGURANTS, recap du planning du jeu
@@ -53,14 +55,16 @@ L'ANKOU :
 - Si on lui demande, les défunts Maupertuis vont "tous bien"
 
 FANTOMES :
-- Vous n'activez vis gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés"
+- Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés"
 - Vous passez errance lorsque les CLOCHES retentissent (ou la clochette de frénésie) ; vous repassez en incarné lors du GONG
+- Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage,n et que vous ne pouvez rejoindre l'au-delà
 
 AUTOMATES :
 - Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le piège reste en place dans tous les cas
 
 OCTAVE :
-- tu avais un vieux livre favori avec des animaux qui courent, en illusion d'optique
+- Tu peux être peiné de réaliser, à un moment, que les diacres appartiennent précisément au culte de Bahamoot qui a fait saccager le manoir des Maupertuis jadis
+- Tu avais un vieux livre favori avec des animaux qui courent, en illusion d'optique
 
 DRUIDE :
 - Si les joueurs font mine de fouiller la TERRE de la mini-jungle, tu t'énerves au motif qu'ils saccagent tout et que la Nature est sacrée

@@ -717,7 +717,7 @@ Planification des prophéties et intuitions
 
 - **Prophétie sur le moulin générateur de richesses** (plume dans l'atelier de gemmologie) : Vision simple, musique "In Uchronia - Here and Now (Seed's Theme).mp3". {% hint 'feather_in_gemmology_lab' is needed %}
 
-- **Prophétie de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "In Uchronia - The Calling.mp3". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% hint 'feather_in_thanatologue' is needed %}
+- **Prophétie de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "In Uchronia - The Calling.mp3". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% hint 'feather_in_thanatologue' is needed %} Si le joueur Oracle ne se sent pas capable de gérer cette prophétie audio, repasser sur une simple vision, avec image.
 
 - **Prophétie du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte) : Vision simple, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 1.mp3". {% hint 'feather_in_arkon_bag' is needed %}
 
@@ -761,6 +761,7 @@ Un sceau est visible devant les escaliers menant à l'étage interdit. Lorsqu'il
 - Le code peut aussi être demandé aux parents défunts, plus tard, via l’Ankou, en pire cas.
 
 Une fois la combinaison de ces deux symboles reproduite sur le panneau, un son puissant se fait entendre, et le passage vers le domaine interdit est libre, dans les deux sens.
+
 
 Neutraliser la Bête des Maupertuis (utile à tous)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -809,7 +810,6 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 - Enfin, il faut un récipient métallique avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 
 - Une fois tous les ingrédients rassemblés (pas besoin de préparer effectivement les potions), la famille a réussi cette mission, à condition qu’elle puisse quitter les lieux.
-
 
 
 Le trésor des Maupertuis (les agents secrets mirandiens)

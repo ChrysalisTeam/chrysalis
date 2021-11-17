@@ -188,7 +188,7 @@ ISOLATED_DOCS = {
 
     # SPECIFIC INSTRUCTIONS
     "planning_of_prophecies": ("miscellaneous/planning_of_prophecies.rst", "anyone"),
-    "npc_ingame_speeches": ("miscellaneous/npc_ingame_speeches.rst", "anyone"),
+    "ingame_speeches": ("miscellaneous/ingame_speeches.rst", "anyone"),
 }
 
 
