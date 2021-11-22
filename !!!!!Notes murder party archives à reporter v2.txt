@@ -11,19 +11,32 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TODO RESTANT
 ================
 
-RACHETER PILES D20 vite!!  3-4 exemplaires ???
 
-DEPLOYER le site web en LOCAL aussi sur le mini-pc portable
+Eteinde aussi couloir administratif de la médiathèque ?
 
-Créer marqueurs "objet ultra lourd" et "zone empoisonnée / danger de mort"   DONE A IMPRIMER !!!!!!!!
+Ajouter RADIATIONS dans corridor où il y a collier anti-poison ????
 
-Imprimer affiches outillages divers  !!!!!!
+AUTRES QUETES POUR AUTOMATES -> MALEDICTION AVEC MUSIQUE !!!
 
-IMPRIMER PLAN DES LIEUX
+MARQUEUR POUR HORS-JEU !!!!!!!!!!
+
+Archiviste a 2 choses à connaitre : venture prins et cocktail réjuvénation
+
+MALEDICTION SUR AUTOMATES !!!!!!!!!
+
+Collier or à ARKONTE
+
+SIGNE de reconnaisance des avatars ? Guirlandes ? Dentelle blanche ?
+
+DEMANDER PHOTOGRAPHES (automates ??) !!
+
+DEPLOYER le site web en LOCAL aussi sur le mini-pc portable ?
 
 Trouver pochette du voleur sans fond !!  (CHAPEAU ???)
 
-Changer pentacle de place ? Protéger ses diodes LED contre écrasements au pied ?
+Changer pentacle de place ? à voir
+
+>>>> joueurs ne doivent pas se barrer avec clés ou broches
 
 
 
@@ -33,11 +46,13 @@ COMPLEMENTS DE BRIEFING POUR DIVERS PARTICIPANTS
 
 JOUEURS :
 - Si vous êtes touché par un ennemi ou un piège, vous devez vous arrêter, vous mettre au sol, et appeler à l'aide en simulant que vous êtes blessé.
+- Attention aux éclairages (guirlandes de LEDs, diodes qui) peuvent se trouver au sol, évitez de marcher dessus
 
 FIGURANTS :
+- Rappel : la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans, et les automates (autrefois conçus par l'inventeur et Octave) vaquent à leurs occupations pour organiser cette fête, même si depuis sa raison d'être a beaucoup disparu
 - Rappel : les avatars/automates et les fantômes ne peuvent interagir ensemble QUE par l'entremise des joueurs, ces 2 mondes ne se voient et s'entendent pas.
 - Au début du jeu, après le soulagement des "retrouvailles" indirectes, avatars comme fantômes se demandent mutuellement ce qu'il s'est passé il y a 500 ans lors du drame
-- Les avatars sont désemparés en essayant de protéger les joueurs des dangers invisibles
+- Les avatars sont désemparés en essayant de protéger les joueurs des dangers invisibles comme la Bête
 - Si on veut vous faire jurer quelque chose "par Zarathoustra", vous pouvez dire ce que vous voulez, et même vous moquer des joueurs, car ce serment ne s'applique pas à vous (avatars ou fantomes), vous ne risquez rien en parjurant avec.
 - Les fantômes sont reconnaissables à leur tunique pourpre, similairement les avatars sont reconnaissables au **maquillage sur le visage et aux bandeaux de dentelles blanche**
 - Les DISCOURS LONGS des figurants peuvent être soufflés dans l'oreille par une oreillette (sur lecteur MP3), avec 1-2 secondes d'avance sur la musique, pour éviter tout oubli ; vérifier que le son grave de piano est bien synchronisé, au lancement simultané des 2 bandes son (musique et voix)
@@ -49,6 +64,9 @@ FANTÔMES :
 - Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés"
 - Vous passez errance lorsque les CLOCHES retentissent (ou la clochette de frénésie) ; vous repassez en incarné lors du GONG
 - Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage, et que vous ne pouvez rejoindre l'au-delà ; mais vous pouvez aller à l'étage interdit s'il est ouvert
+
+AVATARS :
+- Inventez vos propres petits rituels de soin pour les joueurs !
 
 AUTOMATES :
 - Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le piège reste en place dans tous les cas
@@ -146,12 +164,24 @@ VOLEUR :
 
 
 
+
+
+
+
 TRASH
 ########################################
 
 
+RACHETER PILES D20 vite!!  3-4 exemplaires ???
 
+Protéger pentacle's diodes LED contre écrasements au pied ? BOF
 
+IMPRIMER PLAN DES LIEUX DONE
+
+Où seront jouées musiques du dossier "musics/Domaine interdit/" ??? DSPATCHED DONE
+
+Créer marqueurs "objet ultra lourd" et "zone empoisonnée / danger de mort"   DONE A IMPRIMER !!!!!!!!
+Imprimer affiches outillages divers  NOPE inutile vu qu'on a VRAI chalumeau !!
 
 Vérifier : imprimantes sur place à la médiatheque ???  BOF WHO CARES
 

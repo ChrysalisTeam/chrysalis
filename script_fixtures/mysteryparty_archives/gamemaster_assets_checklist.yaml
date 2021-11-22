@@ -2,8 +2,8 @@
 -
   - "@PLAN-DES-LIEUX Emplacements décorés voire illuminés aux 2 étages"
   -
-    - "P1 - NOPE ABORTED Plan de l'étage autorisé, avec en signe UV les localisations de : le TOMBEAU {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %} ????????????"
-    - "P2 - NOPE ABORTED Plan du domaine interdit désignant l'étagère des teintures {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
+    #- "P1 - NOPE ABORTED Plan de l'étage autorisé, avec en signe UV les localisations de : le TOMBEAU {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %} ????????????"
+    #- "P2 - NOPE ABORTED Plan du domaine interdit désignant l'étagère des teintures {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
 
     - "F1 - Coin du fantôme de l’archiviste"
     - "F2 - Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
@@ -447,7 +447,7 @@
 
     - "6 papillons volants à élastique, à disséminer dans des grimoires et boites pour frayeurs"
 
-    - "5 chandelles blanches (3xAA chacune) du Clivra"
+    - "6 chandelles blanches (3xAA chacune) du Clivra"
 
     - "Nappes polyester brillantes rouge, bleue, noire @Pascal"
 

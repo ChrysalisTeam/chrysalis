@@ -122,9 +122,9 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 - Lorsqu’ils sont en phase incarnée, les fantômes qui sont morts de façon **violente** sont “attachés” spirituellement à une lumière inamovible, **placée à l’endroit où ils sont morts**. Les morts de **vieillesse**, eux, errent librement (dont la Bête).
 
-- Lorsqu'il touche un vivant, tout fantôme - incarné ou non - le blesse dangereusement. {% fact "phantom_touch_harms_the_living" %}
-
 - Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+
+- Lorsqu'il touche un vivant, tout fantôme - incarné ou non - le blesse dangereusement. {% fact "phantom_touch_harms_the_living" %}
 
 - **Déclencheurs** : durant ce jeu, lorsqu'un **son de cloches d'église** est joué, les fantômes doivent passer en mode désincarné, en **errance spectrale*. Lorsqu'un unique **son de gong** retentit, ils repassent au contraire en **phase incarnée**, après être revenus à leur point d'attache s'ils en ont un. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
@@ -143,7 +143,7 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 - Ces avatars portent leurs costumes et accessoires “typiques” de leurs romans.
 
-- Ils peuvent interagir librement avec le monde des vivants, ses objets et grimoires, **sauf avec les "romans"**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% fact "avatars_cannot_carry_novels" %}
+- Ils peuvent interagir librement avec le monde des vivants, ses humains et animaux, ses objets et grimoires, **sauf avec les "romans"**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% fact "avatars_cannot_carry_novels" %}
 
 - Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher.
 
@@ -158,7 +158,7 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 Le monde des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons. {% fact "inventor_has_built_androids" %}
+Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% fact "inventor_has_built_androids" %}
 
 Ces robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas les attaques sacrées ; cependant rien n'est censé leur arriver durant le jeu, sauf initiatives des joueurs.
 
@@ -174,6 +174,7 @@ Rôles typiques possibles (un automate peut en changer en cours de partie) :
 - Automate chanteur (a cappella, ou prévoir une musique instrumentale)
 - Automate blagueur (prévoir 5-6 blagues non-contemporaines à raconter sur demande)
 - Automate encyclopédique (invente tout un discours farfelu quand on lui demande une information)
+- Automate photographe
 
 Idées d'interactions possibles pour certains automates :
 
@@ -334,7 +335,7 @@ Octave de Maupertuis (l’enfant)
 
 - Se demande ouvertement si ce n’est pas son oeuvre d’inventaire et rangement complet de la bibliothèque, inachevée, qui le retient dans ce monde.
 
-- S’assure de la bonne volonté des joueurs grâce au “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
+- S’assure de la bonne volonté initiale des joueurs grâce au “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
 
 {% endmacro %}
 <{ phantom_archivist_character_summary }/>
