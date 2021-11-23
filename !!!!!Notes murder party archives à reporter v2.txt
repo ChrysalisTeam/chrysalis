@@ -11,7 +11,11 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TODO RESTANT
 ================
 
-Trouver panie rdes objets précieux !
+Amener lecteur SD-card là bas !!
+
+TESTER tous endpoints de prod Pychronia magie/analyse
+
+Trouver panier des objets précieux !
 
 Eteindre aussi couloir administratif de la médiathèque ?
 

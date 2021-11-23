@@ -37,8 +37,8 @@
     - "I1 - Livre factice bleu (contient la CLEF du livre factice rouge et quelques pierreries), marqué au sol"
     - "I2 - Livre factice rouge, marqué au sol (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %}"
     - "@BIJOUX Broche du père Maupertuis pour le livre factice rouge (envoûtement POSITIF)"
-    - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
-    - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (1h15 autonomie) pour le Venture Prins (ajouter batterie miniUSB externe)"
+    - "@AUDIOVIDEO I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
+    - "@AUDIOVIDEO Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse pour le Venture Prins"
     - "I4 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
     - "I5 - Livre fin HACHETTE avec Recette de l'Elixir Flexifiant (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_flex_elixir' is provided %}"
     - "I6 - Livre fin HACHETTE avec Recette de la Lotion de Clairvoyance (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_clarity_lotion' is provided %}"
@@ -80,8 +80,7 @@
 -
   - "@RECOINS Coin du fantôme de l’archiviste"
   -
-    - "@ENORMES Grande enceinte noir/gris Vintage avec Jack3.5/Bluetooth <MISSING>"
-    - "@AUDIOVIDEO Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth"
+
     - "@ECLAIRAGES Jarre lumineuse NewYang (batterie solaire incluse)"
     - "Stroboscope LED (4xAA)"
     - "@ENORMES Projecteur directionnel 220v @Poncet (pour les escaliers)"
@@ -100,7 +99,7 @@
   - "@RECOINS Coin du fantôme de l’arkonte"
   -
     - "@RECOINS Projecteur globe Aurore Boréale Lunartec (secteur/12V)"
-    - "@AUDIOVIDEO Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse"
+
 
 -
   - "@RECOINS Mini-jungle du druide"
@@ -189,7 +188,7 @@
   - "Coin du fantôme du voleur"
   -
     - "@RECOINS Projecteur LED Blanche RX-7732 (4xAA incluses) @Véro"
-    - "@AUDIOVIDEO Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone en mode avion)"
+    - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie + batterie miniUSB SIXTHGU)"
 
 -
   - "@ALCHIMIE Laboratoire d'Alchimie"
@@ -273,7 +272,7 @@
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF)"
     - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF) <MISSING>"
     - "Lanterne en argent cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
-    - "@LIVRES Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %} <MISSING>"
+    - "@LIVRES Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %} <MISSING>"&é
     - "@AUDIOVIDEO Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth (batterie / microUSB)"
     - "@AUDIOVIDEO Lecteur audio CarWirelessAudioAdapter noir pour l'enceinte Jabra"
 
@@ -304,7 +303,10 @@
 -
   - "Éléments à disposition du Maître de Jeu"
   -
-    - "Mini-lecteur MP3 clip argenté (batterie faible) aec écouteurs, pour les discours et prophéties"
+    - "Mini-lecteur MP3 clip argenté (batterie faible) avec écouteurs, pour les discours et prophéties"
+    - "@AUDIOVIDEO Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone en mode avion) si problème"
+    - "@ENORMES Grande enceinte noir/gris Vintage avec Jack3.5/Bluetooth pour EVENEMENTS <MISSING>"
+    - "@AUDIOVIDEO Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth pour EVENEMENTS"
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_ring_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %}"
     - "Bande-son de la prophétie auditive sur la bague Amplificans anti-zombie {% hint 'parcival_oracle_audio_about_necromancers_and_ring_amplificans' is provided %}"
     - "Le code de la mallette administrative noire ({% symbol '625-993' for 'family_briefcase_code' %}) si les joueurs le demandent aux défunts via l'Ankou"
@@ -343,7 +345,7 @@
 -
   - "@PERSONNES Avatars"
   -
-    - "@AUDIOVIDEO Mégaphone à écho (batterie / microUSB) avec Jack3.5 et Bluetooth Bontempi (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
+    - "@AUDIOVIDEO Mégaphone Bontempi à écho (batterie / microUSB) avec Jack3.5 et Bluetooth (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
     - "Quelques outils anciens pour l'ambiance, tournevis, mètre-ruban, pince... (pour l'inventeur) <MISSING>"
     - "Piles gros format pour lanterne en argent cassée et pour détecteur de métal cassé (pour l'inventeur) {% hint 'broken_lantern_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %}"
     - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
@@ -438,7 +440,7 @@
 
     - "Mini-lampe cylindrique tactile multi-couleurs"
 
-    - "@AUDIOVIDEO 6 Guirlandes lumineuses LED BXROIU 2m (chacune 2xCR2032 incluses)"
+    - "@AUDIOVIDEO 4 Guirlandes lumineuses LED BXROIU 2m (chacune 2xCR2032 incluses)"
 
     - "Reste des 10 galets phosphorescents bleus (friandises de la Bête) pour marquages au sol"
 

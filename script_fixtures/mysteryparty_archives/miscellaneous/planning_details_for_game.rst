@@ -25,7 +25,7 @@ H+25mn : [Cris] Grognements de la Bête à l'étage, à plusieurs reprises
 
 H+30mn : [Choeur] Arrivée de l'Ankou en haut des escaliers, ALLUMER le projecteur pendant sa présence
 
-H+40mn : IMPORTANT - Aller allumer les musiques, lumières, et toutes les bougies (car magiques) de l'étage interdit ; y transférer les 2 enceintes noires autonomes MuziliSpeaker (cimetière et mini-jungle), avec échange des cartes SIM, pour les mettre aux 2 laboratoires de l'étage interdit
+H+40mn : IMPORTANT - Aller allumer les musiques, lumières, et toutes les bougies (car magiques) de l'étage interdit ; y transférer les 2 enceintes noires autonomes MuziliSpeaker (cimetière+alchimie et mini-jungle+gemmologie) pour les mettre aux 2 laboratoires de l'étage interdit avec les bandes son pertinentes
 
 H+45mn : [Cloches] Les fantômes repassent en spectre
 
