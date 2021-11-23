@@ -60,6 +60,7 @@
 -
   - "@RECOINS Buffet d'outre-monde"
   -
+    - "Panier des objets précieux (pours les clés/bijoux utilisés) {% hint 'basket_for_precious_items' is provided %}"
     - "Lampe à fibres Blue ice Lunartec (3xAAA)"
     - "Ballon verre jaune Sil Interiors avec LEDs (2xAA incluses) au buffet @Cat"
     - "4 bougies LED soufflables (chacune 1xCR2032 incluse)"

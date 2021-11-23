@@ -7,6 +7,8 @@ H-15mn : Vérifier que tous les systèmes audio/vidéo sont soit activés (si re
 
 H-5mn : Les avatars doivent être prêts à se disperser dans la bibliothèque, et les fantômes à errer spectralement ; mais ces figurants peuvent écouter le discours introductif de loin
 
+H-4mn : Briefing commun des joueurs (voir "Briefings" dans le manuel)
+
 H-2mn : [Musique] Discours introductif du maitre de jeu, tous ensemble
 
 H : [Musique] Les automates amènent les groupes de joueurs respectivement aux 4 coins de l'étage autorisé, puis vaquent à leurs occupations.
@@ -43,7 +45,9 @@ H+2h20 : [Cloches] Les fantômes repassent en spectre
 
 H+2h30 : [Gong] Les fantômes repassent en incarné
 
-H+X : [Musique] Se tenir prêt à mettre en scène la cérémonie d'initiation d'Octave
+H+X : [Musique] Se tenir prêt à mettre en scène la cérémonie d'initiation d'Octave en musique
+
+H+X : [Musique] Se tenir prêt à mettre en scène la malédiction des automates (lors de l'ouverture du {% symbol "Thanatologue" for "book_of_the_dead" %})
 
 H+X : [Musique] Se tenir prêt à mettre en scène le démasquage du traître (dispute de la duchesse et du druide)
 
@@ -57,4 +61,4 @@ H+X : [Musiques] Se tenir prêt à déclencher les 3 phases de la musique de bat
 
 H+X : [Musique] Quelques minutes après la suppression de la Clôture Absolue (causée par le druide ou par le rituel des diacres), les joueurs doivent être rassemblés en bas des escaliers ; puis épilogue musical, avec retour de l'Ankou (ALLUMER alors le projecteur jusqu'à la fin de l'épilogue), puis discours d'adieux d'Octave, puis départ des fantômes ; les automates raccmpagnent ensuite les joueurs vers la salle de briefing
 
-H+X : [Musique] Debriefing avec les joueurs et figurants
+H+X : [Musique] Debriefing avec les joueurs et figurants, IMPORTANT vérifier que les joueurs ne gardent pas de clés ou bijoux sur eux

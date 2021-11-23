@@ -11,8 +11,9 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TODO RESTANT
 ================
 
+Trouver panie rdes objets précieux !
 
-Eteinde aussi couloir administratif de la médiathèque ?
+Eteindre aussi couloir administratif de la médiathèque ?
 
 Ajouter RADIATIONS dans corridor où il y a collier anti-poison ????
 
@@ -70,6 +71,12 @@ AVATARS :
 
 AUTOMATES :
 - Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le piège reste en place dans tous les cas
+
+- La malédiction des automates::
+
+    Lorsque, bien plus tard, les joueurs arrivent à accéder au {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de déclencher une bande son intense lors de la première ouverture de ce grimoire maudit.
+    Les automates de service deviennent alors possédés, et claudiquent vers les joueurs, en battant des bras, et en ressassant "Mort aux hérétiques !".
+    les joueurs doivent alors les éviter jusqu'à la fin de la bande son ; à ce moment-là, les automates redeviennent normaux, et reprennent leurs tâches habituelles.
 
 OCTAVE :
 - Tu peux être peiné de réaliser, à un moment, que les diacres appartiennent précisément au culte de Bahamoot qui a fait saccager le manoir des Maupertuis jadis

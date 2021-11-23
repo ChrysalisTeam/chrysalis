@@ -611,7 +611,13 @@ Briefings
 
 Chaque groupe de joueurs est briefé à part, pour vérifier qu’ils n’ont pas de questions sur leur rôles et leurs compétences spécifiques, et qu'ils sont d'accord entre eux sur la façon de jouer leurs devises et gestes symboliques.
 
-Un briefing collectif a ensuite lieu pour rappeler le contexte du jeu, les règles (en particulier la sécurité physique et psychologique, la présence des toilettes...), et le planning global.
+Un briefing collectif a ensuite lieu pour rappeler :
+
+- le planning global du jeu
+- les règles (en particulier la sécurité physique et psychologique, et le statut hors-jeu des sacs noirs ou des papiers marqués HRP)
+- la présence des toilettes
+- la présence du terminal des indices
+- l'utilisation du "panier des objets précieux" (pours les clés/bijoux utilisés) {% hint 'basket_for_precious_items' is needed %}
 
 
 L’entrée en scène des joueurs
@@ -655,6 +661,7 @@ Un joueur sonnera probablement la clochette de service, par curiosité, en débu
 
 {% macro ankou_introduction_event() %}
 
+
 Le passage de l’Ankou dans la bibliothèque
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -664,6 +671,15 @@ L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’i
 <{ ankou_introduction_event }/>
 
 *Les joueurs peuvent par la suite lui envoyer des questions pour les Maupertuis défunts, mais attention ceux-ci ne se souviennent pas de tout non plus.* {% fact "players_can_talk_to_the_dead_via_ankou" %}
+
+
+La malédiction des automates
++++++++++++++++++++++++++++++++++++++++++++
+
+Lorsque, bien plus tard, les joueurs arrivent à accéder au {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de déclencher une bande son intense lors de la première ouverture de ce grimoire maudit.
+
+Les automates de service deviennent alors possédés, et claudiquent vers les joueurs, en battant des bras, et en ressassant "Mort aux hérétiques !".
+les joueurs doivent alors les éviter jusqu'à la fin de la bande son ; à ce moment-là, les automates redeviennent normaux, et reprennent leurs tâches habituelles.
 
 
 L'exploration du tombeau du mage fondateur
