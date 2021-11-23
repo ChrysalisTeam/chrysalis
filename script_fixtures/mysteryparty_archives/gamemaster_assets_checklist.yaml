@@ -99,7 +99,7 @@
   - "@RECOINS Coin du fantôme de l’arkonte"
   -
     - "@RECOINS Projecteur globe Aurore Boréale Lunartec (secteur/12V)"
-
+    - "Mini-lecteur MP3 clip argenté (batterie faible) avec écouteurs (+ batterie miniUSB solaire ClipSonic)"
 
 -
   - "@RECOINS Mini-jungle du druide"
@@ -269,10 +269,10 @@
   -
     - "@ENORMES Nid de lianes et feuilles géantes"
     - "@PERSONNES {% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device' is provided %}"
-    - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF)"
+    - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}]"
     - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF) <MISSING>"
     - "Lanterne en argent cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
-    - "@LIVRES Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %} <MISSING>"&é
+    - "@LIVRES Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %} <MISSING>"
     - "@AUDIOVIDEO Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth (batterie / microUSB)"
     - "@AUDIOVIDEO Lecteur audio CarWirelessAudioAdapter noir pour l'enceinte Jabra"
 
@@ -303,7 +303,6 @@
 -
   - "Éléments à disposition du Maître de Jeu"
   -
-    - "Mini-lecteur MP3 clip argenté (batterie faible) avec écouteurs, pour les discours et prophéties"
     - "@AUDIOVIDEO Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone en mode avion) si problème"
     - "@ENORMES Grande enceinte noir/gris Vintage avec Jack3.5/Bluetooth pour EVENEMENTS <MISSING>"
     - "@AUDIOVIDEO Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth pour EVENEMENTS"

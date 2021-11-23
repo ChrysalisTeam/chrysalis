@@ -11,6 +11,10 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TODO RESTANT
 ================
 
+
+Charger musiques maudites sur tabletet ? Deja fait ??
+
+
 Amener lecteur SD-card là bas !!
 
 TESTER tous endpoints de prod Pychronia magie/analyse
@@ -30,6 +34,10 @@ Archiviste a 2 choses à connaitre : venture prins et cocktail réjuvénation
 MALEDICTION SUR AUTOMATES !!!!!!!!!
 
 Collier or à ARKONTE
+
+Blagues pour automates
+
+Quelques automates OFF au début
 
 SIGNE de reconnaisance des avatars ? Guirlandes ? Dentelle blanche ?
 
