@@ -2,9 +2,7 @@
 -
   - "@PLAN-DES-LIEUX Emplacements décorés voire illuminés aux 2 étages"
   -
-    #- "P1 - NOPE ABORTED Plan de l'étage autorisé, avec en signe UV les localisations de : le TOMBEAU {% hint 'authorized_zone_map_showing_zoology_and_cooking_shelves' is provided %} ????????????"
-    #- "P2 - NOPE ABORTED Plan du domaine interdit désignant l'étagère des teintures {% hint 'forbidden_zone_map_showing_tincture_shelf' is provided %}"
-
+    
     - "F1 - Coin du fantôme de l’archiviste"
     - "F2 - Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
     - "F3 - Coin du fantôme de l’arkonte"
@@ -30,6 +28,10 @@
     - "E1, E2, E3, E4, E5 - Zones d'éboulements réparties sur les 2 étages"
     - "Jetons en métal dans l'éboulis E5 derrière le laboratoire d'alchimie {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
     - "Jetons en métal dans l'éboulis E2 du coin le plus lointain {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
+
+    - "Etiquettes des étagères de l'étage autorisé, montrant les sections zoologie/cuisine {% hint 'authorized_zone_labels_showing_zoology_and_cooking_shelves' is provided %}"
+    - "Etiquettes des étagères du domaine interdit, désignant celle des teintures {% hint 'forbidden_zone_labels_showing_tincture_shelf' is provided %}"
+
 
 -
   - "@LIVRES Indices cachés ou disséminés"
