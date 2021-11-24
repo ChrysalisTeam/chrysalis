@@ -163,7 +163,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("maupertuis_caduceus_symbol", 1),
     ("coffee_mill_stereogram", 1),
     ("miscellaneous_secret_messages", 1),
-    ("trap_and_property_markers", 2),
+    ("trap_and_property_markers", 3),
 ]
 
 # documents without decorations, typically ; one can provide a LIST of RST files as value
@@ -308,6 +308,7 @@ def generate_archives_sheets():
     def _extract_crate(_title):
         crate = None
         new_title = _title
+        assert new_title, repr(new_title)
         #print(">>>>> SEARCHING CRATE IN TITLE", _title)
         match = re.search(r"^@\S+\s", _title)
         if match:

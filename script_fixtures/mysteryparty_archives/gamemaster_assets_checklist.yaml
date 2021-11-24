@@ -2,7 +2,7 @@
 -
   - "@PLAN-DES-LIEUX Emplacements décorés voire illuminés aux 2 étages"
   -
-    
+
     - "F1 - Coin du fantôme de l’archiviste"
     - "F2 - Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
     - "F3 - Coin du fantôme de l’arkonte"
@@ -47,7 +47,7 @@
     - "I7 - Livre luxe pourpre :  Tome 3 du roman du druide entre les étagères de zoologie et de cuisine  {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
     - "@POTIONS I8 - Potion de tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence, ainsi que Micro-meuble vernis pour bijoux"
 
-    - "@RECOINS J1 - SCEAU lumineux OPTIONNEL (1 mini-guirlande LED), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %} (envoûtement POSITIF) <MISSING>"
+    - "@AUDIOVIDEO J1 - SCEAU lumineux OPTIONNEL (1 mini-guirlande LED), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %} (envoûtement POSITIF)"
     - "J2 - Livre fin HACHETTE avec Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
 
@@ -68,7 +68,7 @@
     - "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
     - "2 bougies sur chandelier (chacun 2xAA)"
     - "@ENORMES Gramophone (alimentation: 12V)"
-    - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (marque d'envoûtement INCOMPRÉHENSIBLE) <MISSING-plaquette>"
+    - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (marque d'envoûtement INCOMPRÉHENSIBLE)"
 
 -
   - "@RECOINS Pentacle du rituel inachevé de l’arkonte"
@@ -130,7 +130,7 @@
     - "@GENERAL Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %}"
     - "@GENERAL Néon UV auto-alimenté"
     - "@AUDIOVIDEO Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
-    - "@GENERAL Plume de prophétie {% hint 'feather_in_common_family_chest' is provided %}"
+    - "@GENERAL Plume de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %}"
     - "Décorations : boite en cuir noir contenant peigne perroquet, boussole, loupe, pipe"
     - "Décorations : mini-jumelles, miroir, bol et clochette en laiton, lunettes dans étui fin noir, gobelet en argent, jeu de cartes dans étui rouge, boite en métal jaune Neurotrophol"
     - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope"
@@ -195,7 +195,7 @@
 -
   - "@ALCHIMIE Laboratoire d'Alchimie"
   -
-    - "La table doit 'murmurer' mais profondément (sthéthoscope) à travers le bois ce message : XXXXXXXXXXXXXXXXXXXXXX ?? OU BIEN CODE SECRET EN MAGNETIQUE ???????<MISSING>"
+    # - ABORTED "La table doit 'murmurer' mais profondément (sthéthoscope) à travers le bois ce message : XXXXXXXXXXXXXXXXXXXXXX ?? OU BIEN CODE SECRET EN MAGNETIQUE ???????"
     - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
     - "Chaudron rond en cuivre à anse, avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
     - "Passoire cylindrique en métal"
@@ -237,7 +237,7 @@
     - "Arbre à micro-cristaux colorés avec guirlande d'illumination"
     - "7 flacons de cristaux colorés"
     - "Fléchette de nerf cachée là {% hint 'other_iridium_bullet_for_woodsman' is provided %}"
-    - "@GENERAL Plume de prophétie {% hint 'feather_in_gemmology_lab' is provided %}"
+    - "@GENERAL Plume de prophétie du labo de gemmologie {% hint 'feather_in_gemmology_lab' is provided %}"
     - "@ENORMES Boîte-présentoir très plate en bois pour exposer les gemmes"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis la mini-jungle après ouverture de l'étage interdit"
 
@@ -260,7 +260,7 @@
 -
   - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac)"
   -
-    - "Présence de vapeurs toxiques <MISSING-ECRITEAU>"
+    - "Présence de vapeurs toxiques"
     - "@ENORMES Valisettes ovales imbriquées, [automate doit pouvoir prendre celle intérieure]"
     - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette interne"
     - "2 grands miroirs rectangulaires pour le fond des valisettes"
@@ -274,7 +274,7 @@
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}]"
     - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF) <MISSING>"
     - "Lanterne en argent cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
-    - "@LIVRES Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %} <MISSING>"
+    - "@LIVRES Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %}"
     - "@AUDIOVIDEO Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth (batterie / microUSB)"
     - "@AUDIOVIDEO Lecteur audio CarWirelessAudioAdapter noir pour l'enceinte Jabra"
 
@@ -303,7 +303,7 @@
     - "Placer : 100 kashes dans le moulin magique APRES activation {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}"
 
 -
-  - "Éléments à disposition du Maître de Jeu"
+  - "Matériel du Maître de Jeu"
   -
     - "@AUDIOVIDEO Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone en mode avion) si problème"
     - "@ENORMES Grande enceinte noir/gris Vintage avec Jack3.5/Bluetooth pour EVENEMENTS <MISSING>"
@@ -318,7 +318,7 @@
     - "Cônes d'encens pour la fontaine magique"
     - "Papier d'Arménie et briquet pour l'encensoir des diacres"
     - "Clés des cadenas crochetables transparents, au cas où ils sont bloqués"
-    - "Dé à 6 faces, pour les soins dangereux des avatars etc."
+    - "Dé à 6 faces, pour les soins dangereux des avatars etc. <MISSING>"
 
 -
   - "@FANTOMES Fantômes humains"
@@ -355,7 +355,7 @@
     - "@ENORMES Bâton de magicienne avec boule verte pour la duchesse"
     - "@LIVRES Protège-livre rouge doré avec la fiche de planification, et les images des prophéties et intuitions (pour la duchesse) {% hint 'npc_responsible_for_prophecies_monitoring' is provided %}{% hint 'parcival_oracle_intuition_hints' is provided %}"
     - "Sarbacane-flûte (pour le druide) {% hint 'blowpipe_flute_for_druid' is provided %}"
-    - "Sacoche de ceinture de l'arkonte (pour le druide), avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'feather_in_arkon_bag' is provided %} <MISSING-XXXXXX-QUOI-D'AUTRE-POTION-MESSAGE???>"
+    - "Sacoche de ceinture de l'arkonte (pour le druide), avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'feather_in_arkon_bag' is provided %}"
     - "Balle avec rubans multicolores (pour le druide) pour simuler un sortilège offensif"
     - "2 paires de pouces à LED (verte et rouge)"
 
@@ -367,14 +367,14 @@
     - "2 bâtons de dynamite (pour mine-sweeper) {% hint '2_explosives_for_minesweeper' is provided %}"
     - "Encensoir en argent plaqué avec chainettes (pour l'invoker) {% hint 'incense_burner_for_invoker' is provided %}"
     - "Détecteur de métal Longruner (nécessite pile RECTANGLE 9V) (pour le sounder) initialement SANS SA PILE {% hint 'spy_sounder_metal_detector_initially_broken' is provided %} {% hint 'spy_sounder_metal_detector_battery' is needed %}"
-    - "Lampe-torche UV (nécessite 3xAAA) (pour l'unveiler) initialement SANS SA PILE {% hint 'explorer_unveiler_uv_lamp_initially_broken' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is needed %} <MISSING>"
-    - "Feuilles mémo des codes secrets et des runes (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %} {% hint 'runic_transcription_sheet_for_explorer_runologist' is provided %} <MISSING>"
+    - "@AUDIOVIDEO Lampe-torche UV (nécessite 3xAAA) (pour l'unveiler) initialement SANS SA PILE {% hint 'explorer_unveiler_uv_lamp_initially_broken' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is needed %}"
+    - "Feuilles mémo des codes secrets et des runes (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %} {% hint 'runic_transcription_sheet_for_explorer_runologist' is provided %}"
     - "Stéthoscope et loupe (pour runologist) {% hint 'stethoscope_and_magnifying_glass_for_explorer_runologist' is provided %}"
-    - "Couverture marron fine avec croix, contenant le journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %} <MISSING-journal>"
+    - "Couverture marron fine avec croix, contenant le journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %}"
     - "Arbalète bois et UNIQUE fléchette (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %}"
     - "@BOUTEILLES Fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %}"
     - "@POTIONS Potions de Focus et de Charme (pour l'alchemist, appartenait à l'exorcist) {% hint 'potions_of_focus_from_exorcist' is provided %} {% hint 'potions_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %} <MISSING-POTIONS-A-FABRIQUER>"
-    - "2 lanternes rouges du Clivra (2xLR20D chacune) <MISSING-PILES>"
+    - "2 lanternes rouges du Clivra (2xLR20D chacune)"
     - "Lanterne en bronze (2xLR20D incluses)"
 
 -
@@ -388,7 +388,10 @@
 -
   - "VALISE ROUGE EN CUIR"
   -
-    - "Décorations : lampe multicolore à angelot, chauffe-lit à manche, chaudronnet ovale, chandelier, tous en cuivre"
+    - "Lampe multicolore à angelot en cuivre"
+    - "Chauffe-lit à manche en cuivre"
+    - "Chaudronnet ovale en cuivre"
+    - "Chandelier en cuivre"
 
 -
   - "Cadenas et leurs clefs"
@@ -432,7 +435,7 @@
 
     - "Batterie plate blanche LifeDom 18Wh"
     - "Batterie USB Duracell PB2 24.3Wh"
-    - "Batterie solaire rouge @valentin"
+    - "Batterie solaire rouge @Valentin"
     - "2 batteries haute capacité Maxoak K2"
 
     - "@ALCHIMIE Boite beige plate en bois avec toutes les potions (marquées @POTIONS) importantes du jeu"
@@ -447,23 +450,21 @@
 
     - "Lampe tube blanche autonome à détection de mouvement (batterie incluse)"
 
-    - "Canne avec cachette @Cat ??????????ABORTED????"
-
     - "6 papillons volants à élastique, à disséminer dans des grimoires et boites pour frayeurs"
 
     - "6 chandelles blanches (3xAA chacune) du Clivra"
 
-    - "Nappes polyester brillantes rouge, bleue, noire @Pascal"
+    - "Nappes polyester brillantes rouge, bleue, noire @Pascal <MISSING>"
 
     - "@POTIONS 1 potion (rouge foncé) de Fungal Rouge {% hint 'potion_red_mushroom' is provided %}"
     - "@POTIONS 1 potion Délieur de Langue {% hint 'potion_tongue_untier' is provided %}"
 
     - "Bouteille verdâtre à liqueur en tête de mort <MISSING>"
-    - "Ciboire (calice fermé) en argent <MISSING>"
+    # ABORTED TOO PRECIOUS - "Ciboire (calice fermé) en argent <MISSING>"
     - "Seau argenté à champagne <MISSING>"
     - "@ECLAIRAGES Machine électrique à fumée pour le seau argenté"
 
-    - "Station web sur PC (aevc écran steampunk si possible) {% hint 'hint_website_device' is provided %}"
+    - "Station web sur PC (avec écran steampunk si possible) {% hint 'hint_website_device' is provided %}"
 
 
 # BESOINS EN PILES #

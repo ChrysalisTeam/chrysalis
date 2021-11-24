@@ -5,7 +5,7 @@ PLANNING DETAILLÉ DU JEU
 
 H-15mn : Vérifier que tous les systèmes audio/vidéo sont soit activés (si recoins standard), soit prêts à l'être (si emplacement de fantôme), aux deux étages ; aucune bougie ne doit être allumée, SAUF dans le tombeau du mage
 
-H-5mn : Les avatars doivent être prêts à se disperser dans la bibliothèque, et les fantômes à errer spectralement ; mais ces figurants peuvent écouter le discours introductif de loin
+H-5mn : Les avatars doivent être prêts à se disperser dans la bibliothèque, et les fantômes à errer spectralement ; mais ces figurants peuvent écouter le discours introductif de loin ; certains automates peuvent être déjà dispersés
 
 H-4mn : Briefing commun des joueurs (voir "Briefings" dans le manuel)
 

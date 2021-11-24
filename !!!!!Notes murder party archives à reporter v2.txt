@@ -12,12 +12,13 @@ TODO RESTANT
 ================
 
 
-Charger musiques maudites sur tabletet ? Deja fait ??
+Imprimer plan ?? déjà fait ??
+
+Charger musiques maudites sur tablette ? Deja fait ??
+
+Amener lecteur SD-card là bas !!     DONE
 
 
-Amener lecteur SD-card là bas !!
-
-TESTER tous endpoints de prod Pychronia magie/analyse
 
 Trouver panier des objets précieux !
 
@@ -37,19 +38,15 @@ Collier or à ARKONTE
 
 Blagues pour automates
 
-Quelques automates OFF au début
-
-SIGNE de reconnaisance des avatars ? Guirlandes ? Dentelle blanche ?
+SIGNE de reconnaissance des avatars ET des automates ? Guirlandes ? Dentelle blanche ?
 
 DEMANDER PHOTOGRAPHES (automates ??) !!
-
-DEPLOYER le site web en LOCAL aussi sur le mini-pc portable ?
 
 Trouver pochette du voleur sans fond !!  (CHAPEAU ???)
 
 Changer pentacle de place ? à voir
 
->>>> joueurs ne doivent pas se barrer avec clés ou broches
+>>>> joueurs ne doivent pas se barrer avec clés ou broches à la fin du jeu
 
 
 
@@ -77,11 +74,14 @@ FANTÔMES :
 - Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés"
 - Vous passez errance lorsque les CLOCHES retentissent (ou la clochette de frénésie) ; vous repassez en incarné lors du GONG
 - Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage, et que vous ne pouvez rejoindre l'au-delà ; mais vous pouvez aller à l'étage interdit s'il est ouvert
+- AILES de l'épilogue : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
+
 
 AVATARS :
 - Inventez vos propres petits rituels de soin pour les joueurs !
 
 AUTOMATES :
+- Au début du jeu, vous pouvez pour certains être INACTIFS, au sol, jusqu'à ce que l'inventeur ne vous allume (les avatars doivent évidemment trouver cela normal)
 - Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le piège reste en place dans tous les cas
 
 - La malédiction des automates::
@@ -190,6 +190,13 @@ VOLEUR :
 TRASH
 ########################################
 
+
+
+- Quelques automates sont OFF au début
+
+DEPLOYER le site web en LOCAL aussi sur le mini-pc portable ?  DONE
+
+TESTER tous endpoints de prod Pychronia magie/analyse   DONE
 
 RACHETER PILES D20 vite!!  3-4 exemplaires ???
 
