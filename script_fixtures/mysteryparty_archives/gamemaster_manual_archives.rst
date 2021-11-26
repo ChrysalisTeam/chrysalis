@@ -616,7 +616,8 @@ Un briefing collectif a ensuite lieu pour rappeler :
 - le planning global du jeu
 - les règles (en particulier la sécurité physique et psychologique, et le statut hors-jeu des sacs noirs ou des papiers marqués HRP)
 - la présence des toilettes
-- la présence du terminal des indices
+- la présence du photographe (redemander à tous si OK pour droit à l'image)
+- la présence du terminal web des indices
 - l'utilisation du "panier des objets précieux" (pours les clés/bijoux utilisés) {% hint 'basket_for_precious_items' is needed %}
 
 

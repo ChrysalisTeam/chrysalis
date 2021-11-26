@@ -144,7 +144,7 @@
     - "@BIJOUX Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF)"
     - "@BIJOUX Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_bracelet_on_tomb' is provided %}"
 
-    - "@CLEFS Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided %}"
+    - "@DIVERS Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided %}"
 
     - "Tombe 3 : Squelette de 28 os (SANS crâne) de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %} (envoûtement POSITIF)"
     - "Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %} (code d'envoûtement POSITIF [{% symbol 'bst' for 'magic_code_etheric_benediction_necklace' %}])"
@@ -160,7 +160,7 @@
     - "Portrait de la fille des Maupertuis (Mérédice) avec message UV : \"Adieu soeurette, qui mourra verra (signé Octave)\""
     - "Portrait du fils des Maupertuis (Octave) avec message UV : \"Tu ne retrouveras jamais tes sousous, frérot ! (signé Mérédice)\""
     - "Portrait de jeune fille en illusion d'optique lenticulaire"
-    - "Cadre de remerciement (en code magnétique) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %} <MISSING>"
+    - "Cadre de remerciement (en code magnétique) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
 
 -
   - "@TOMBEAU Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
@@ -465,6 +465,33 @@
     - "@ECLAIRAGES Machine électrique à fumée pour le seau argenté"
 
     - "Station web sur PC (avec écran steampunk si possible) {% hint 'hint_website_device' is provided %}"
+
+
+-
+  - "@EXTRACLOTHES"
+  -
+    - "Ceintures cuir marron avec gros ronds dorés"
+    - "Ceinture tissu noir avec pochette"
+    - "Ceinture longue tissu rouge"
+    - "Bretelles bleues"
+    - "Guètre basses en cuir noir mat"
+    - "Guètre hautes en cuir noir brillant"
+    - "Manteau sans manche en fourrure marron tachetée"
+    - "2 nappes blanc nacrées @Clivra"
+    - "Chemin de table en dentelle blanc écru @Clivra"
+
+-
+  - "@EXTRA-DIVERS"
+  -
+    - "Boite noire plate à motifs avec antivols magnétiques"
+    - "Boite carton à couverture marron avec antivols magnétiques"
+    - "Dérouleur électrique gris"
+    - "Rallonge électrique + tripleur de prisen, tous deux blancs"
+    - "Canne bois marron recourbée"
+    - "Canne bois argentée droite"
+    - "Gants noirs du mage mos peratys"
+    - "Pantalon épais en toile marron"
+    - "Manteau sans manche en fourrure noire"
 
 
 # BESOINS EN PILES #
