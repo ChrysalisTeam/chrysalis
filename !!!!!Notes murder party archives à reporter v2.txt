@@ -6,33 +6,11 @@ https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_cards/
 https://anthropia.prolifik.net/DEMO/anonymous/ability/my_runic_translation_open/
 https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
-
+À  É
 
 
 TODO RESTANT
 ================
-
-
-AJOUTER PASTILLE
-    spectral_table_bell:
-        title: "Clochette spectrale"
-        categories: ["magie"]
-        clue_code: "vbr"
-
-
-
-livre bleu : code 425   DONE
-demander aux autres joueurs ce qu'ils font là, ce qu'ils savent faire   DONE
-ne touchez pas aux objets dans sacs en tissu noir !   DONE
-figurants : pensez à demander en quelle année on est   DONE
-
-Faire symboles pour marquer les objets porteurs d'UV et Magnets
-
-Symbole amplificans sur tombeau mage
-
-Etiquettes avec noms sur les tombes !!
-Etiquettes : mallette administrative des maupertuis, coffre familial des maupertuis, coffre légendaire des maupertuis
-
 
 
 dire aux automates comment trouver les livrets de potions
@@ -43,8 +21,8 @@ Si les Parcival cherchent des ingrêdient des 2 potions de l'étage
 qui indique que les élements doivent avoir des noms alternatifs ??
 
 agents secret :
-être plus explicite sur le moulin dans lettre de mérédice, perlé de cet outil caché en pleine vue de tous
-etre plus explicite sur les origines des 4 signes attendus par enigme du moulin
+être plus explicite sur le moulin dans lettre de mérédice, perlé de cet outil caché en pleine vue de tous    DONE
+etre plus explicite sur les origines des 4 signes attendus par enigme du moulin dans appli
 
 explorateurs:
 archiviste doit dire : thanathologue caché en haut !!
@@ -190,6 +168,9 @@ VOLEUR :
 
 
 
+
+
+
 ******** LATER *******************
 
 - AJOUTER SOUVENIRS ET ANEDCOTES A OCTAVE
@@ -259,10 +240,33 @@ VOLEUR :
 
 
 
+
+
+
 TRASH
 ########################################
 
 
+
+
+
+
+
+AJOUTER PASTILLE    DONE
+    spectral_table_bell:
+        title: "Clochette spectrale"
+        categories: ["magie"]
+        clue_code: "vbr"
+
+Symbole amplificans sur tombeau mage  DONE
+Etiquettes avec noms sur les tombes !!  DONE
+Etiquettes : mallette administrative des maupertuis, coffre familial des maupertuis, coffre légendaire des maupertuis   DONE
+
+livre bleu : code 425   DONE
+demander aux autres joueurs ce qu'ils font là, ce qu'ils savent faire   DONE
+ne touchez pas aux objets dans sacs en tissu noir !   DONE
+figurants : pensez à demander en quelle année on est   DONE
+Faire symboles pour marquer les objets porteurs d'UV et Magnets  DONE
 
 - Quelques automates sont OFF au début
 
