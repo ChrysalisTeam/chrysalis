@@ -13,7 +13,7 @@ TODO RESTANT
 ================
 
 
-dire aux automates comment trouver les livrets de potions
+dire aux automates comment trouver les livrets de potions  ABORTED
 
 
 PARCIVAL
@@ -123,7 +123,7 @@ FANTÔMES :
 - Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés"
 - Vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie) ; vous repassez en incarné lors du GONG
 - Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage, et que vous ne pouvez rejoindre l'au-delà ; vous le dites aux joueurs ; mais vous pouvez aller à l'étage interdit s'il est ouvert
-- AILES de l'épilogue, les TESTER aavant : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
+- AILES de l'épilogue, les TESTER avant : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
 
 AVATARS :
 - Vous avez tous des talents pour guérir tel ou tel type de blessure, relisez la section sur les blessures des joueurs, dans les Compléments des Figurants
@@ -139,9 +139,14 @@ AUTOMATES :
     Les automates de service deviennent alors possédés, et claudiquent vers les joueurs, en battant des bras, et en ressassant "Mort aux hérétiques !".
     les joueurs doivent alors les éviter jusqu'à la fin de la bande son ; à ce moment-là, les automates redeviennent normaux, et reprennent leurs tâches habituelles.
 
-OCTAVE :
+- vers la fin du jeu, après la mort du méchant, rassemblez les joueurs en bas des escaliers.
+- Après le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails vers la surface vont bientôt se refermer.
+
+OCTAVE et ARCHIVISTE :
 - Tu peux être peiné de réaliser, à un moment, que les diacres appartiennent précisément au culte de Bahamoot qui a fait saccager le manoir des Maupertuis jadis
-- Tu avais un vieux livre favori avec des animaux qui courent, en illusion d'optique
+- Octave avais un vieux livre favori avec des animaux qui courent, en illusion d'optique
+- Bien mémoriser l'emplacement approximatif de la 1ere recette de potion requise par les Parcival pour guérir la "dégénérescence marbrée"
+- Pusique les balises électroniques dysfonctionnent, dire tout de suite que pour trouver les autres sous-potions, il faut s'aider des **flèches blanches** (en scotch) laissées au sol par les parents Maupertuis.
 
 DRUIDE :
 - Répéter avec l'arkonte, AVANT le jeu, la chorégraphie exacte de la bataille finale
@@ -150,12 +155,14 @@ DRUIDE :
 - Tu dois, vers la fin du jeu, récupérer des gros livres/grimoires pour les lire tranquillement non loin du pentacle, après avoir annoncé avec vantardise que tu étais sur le point de trouver un sortilège pouvant briser la Clôture Absolue (voir le maitre de jeu pour çà)
 
 INVENTEUR :
+- Bien avoir sur soi des piles "gros cylindre" et "rectangulaire" pour réparer les objets des joueurs
 - Répéter avant le jeu l'ouverture du banquet, avec le discours et la musique préparés
 
 DUCHESSE :
 - Répéter avant le jeu le démasquage du traître, avec le discours et la musique préparés
 
 VOLEUR :
+- Bien avoir mémoriser les informations que tu es prêt à échanger contre de l'argent ; laisser tomber l'histoire de la "sacoche sans fond" si ça complique trop
 - Petit changement, le corridor de l'étage interdit est toxique DEPUIS TOUJOURS, pas à cause d'une lutte et de potions renversées durant la mort du voleur
 - Tu dois te trouver "encré" non loin la niche de la Bête, et expliquer aux joueurs ce qu'elle est
 

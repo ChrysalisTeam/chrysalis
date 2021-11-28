@@ -53,12 +53,12 @@ H+X : [Musique] Se tenir prêt à mettre en scène le démasquage du traître (d
 
 H+X : [Musique] Se tenir prêt à mettre en scène l'intrusion dans le tombeau du mage
 
-H+X : Le druide va s'asseoir près du pentacle, l'air ravi, avec de gros grimoires qu'il proclame comme prometteurs
+H+X : Le druide va s'asseoir près du pentacle, l'air ravi, avec de gros grimoires qu'il proclame comme prometteurs ; l'Ankou va se préparer pour son discours final
 
 H+X : L'arkonte briefe le diacre qui se prépare à affronter le druide en terminant le rituel, les avatars décident de retourner dans leurs univers pour ne pas être en danger.
 
 H+X : [Musiques] Se tenir prêt à déclencher les 3 phases de la musique de bataille finale, suivant que le druide est encore plongé dans ses grimoires (phase 1), puis attaque le diacre suite au début du rituel (phase 2), puis après 1 minute s'effondre (phase 3, entrée en scène de l'arkonte) ; si le diacre se dégonfle durant le rituel, la phase 2 continue jusqu'à ce que la situation soit retombée (un joueur tué "pour l'exemple" par le druide, auquel cas la musique d'arrête ; ou bien le druide tué par un autre moyen, ce dernier cas déclenchant la phase 3 de la musique)
 
-H+X : [Musique] Quelques minutes après la suppression de la Clôture Absolue (causée par le druide ou par le rituel des diacres), les joueurs doivent être rassemblés en bas des escaliers ; puis épilogue musical, avec retour de l'Ankou (ALLUMER alors le projecteur jusqu'à la fin de l'épilogue), puis discours d'adieux d'Octave, puis départ des fantômes ; les automates raccmpagnent ensuite les joueurs vers la salle de briefing
+H+X : [Musique] Quelques minutes après la suppression de la Clôture Absolue (causée par le druide ou par le rituel des diacres), les joueurs doivent être rassemblés en bas des escaliers ; puis épilogue musical, avec **retour de l'Ankou** qui appelle à lui les fantômes (ALLUMER alors le projecteur jusqu'à la fin de l'épilogue), puis discours d'adieux d'Octave, puis départ des fantômes ; les automates raccompagnent ensuite les joueurs vers la salle de briefing
 
-H+X : [Musique] Debriefing avec les joueurs et figurants, IMPORTANT vérifier que les joueurs ne gardent pas de clés ou bijoux sur eux
+H+X : [Musique] Debriefing avec les joueurs et figurants, IMPORTANT vérifier que les joueurs ne gardent pas de **clés ou bijoux** sur eux, distribuer des **FLYERS** de l'association, et faire des **photographies** ensemble
