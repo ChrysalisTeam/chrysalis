@@ -62,13 +62,13 @@
 -
   - "@RECOINS Buffet d'outre-monde"
   -
-    - "Panier des objets précieux (pours les clés/bijoux utilisés) {% hint 'basket_for_precious_items' is provided %}"
     - "Lampe à fibres Blue ice Lunartec (3xAAA)"
     - "Ballon verre jaune Sil Interiors avec LEDs (2xAA incluses) au buffet @Cat"
     - "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
     - "2 bougies sur chandelier (chacun 2xAA)"
     - "@ENORMES Gramophone (alimentation: 12V)"
     - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement POSITIF [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}])"
+    - "Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %}"
 
 -
   - "@RECOINS Pentacle du rituel inachevé de l’arkonte"
@@ -110,7 +110,7 @@
     - "@ENORMES Emballages bruns pour faire la 'terre' de la jungle"
     - "1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
     - "@AUDIOVIDEO Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)"
-    - "Lierres et feuilles géantes vertes <MISSING>"
+    - "Lierres et feuilles géantes vertes"
     - "Cristaux blancs en impression 3D (mettre mini LEDs dedans)"
 
 -
@@ -161,6 +161,7 @@
     - "Portrait du fils des Maupertuis (Octave) avec message UV : \"Tu ne retrouveras jamais tes sousous, frérot ! (signé Mérédice)\""
     - "Portrait de jeune fille en illusion d'optique lenticulaire"
     - "Cadre de remerciement (en code magnétique) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
+    - "@GENERAL Plume de prophétie sur ce cadre de remerciement {% hint 'feather_on_stereogram_board' is provided %}"
 
 -
   - "@TOMBEAU Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
@@ -237,7 +238,6 @@
     - "Arbre à micro-cristaux colorés avec guirlande d'illumination"
     - "7 flacons de cristaux colorés"
     - "Fléchette de nerf cachée là {% hint 'other_iridium_bullet_for_woodsman' is provided %}"
-    - "@GENERAL Plume de prophétie du labo de gemmologie {% hint 'feather_in_gemmology_lab' is provided %}"
     - "@ENORMES Boîte-présentoir très plate en bois pour exposer les gemmes"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis la mini-jungle après ouverture de l'étage interdit"
 
@@ -306,7 +306,7 @@
   - "Matériel du Maître de Jeu"
   -
     - "@AUDIOVIDEO Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone en mode avion) si problème"
-    - "@ENORMES Grande enceinte noir/gris Vintage avec Jack3.5/Bluetooth pour EVENEMENTS <MISSING>"
+    - "@ENORMES Grande enceinte noir/gris Vintage avec Jack3.5/Bluetooth pour EVENEMENTS"
     - "@AUDIOVIDEO Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth pour EVENEMENTS"
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_ring_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %}"
     - "Bande-son de la prophétie auditive sur la bague Amplificans anti-zombie {% hint 'parcival_oracle_audio_about_necromancers_and_ring_amplificans' is provided %}"
@@ -318,7 +318,7 @@
     - "Cônes d'encens pour la fontaine magique"
     - "Papier d'Arménie et briquet pour l'encensoir des diacres"
     - "Clés des cadenas crochetables transparents, au cas où ils sont bloqués"
-    - "Dé à 6 faces, pour les soins dangereux des avatars etc. <MISSING>"
+    - "Dé à 6 faces, pour les soins dangereux des avatars etc."
 
 -
   - "@FANTOMES Fantômes humains"
@@ -327,6 +327,7 @@
     - "4 paires gants blancs à diodes (3 à lumière blanche et 1 bleue)"
     - "@ENORMES 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes"
     - "Masque à LEDs ShiningApp pour le voleur"
+    - "Gros collier en or pour l'arkonte, potentiellement"
 
 -
   - "@FANTOMES La Bête"
@@ -417,14 +418,14 @@
     - "La page web de requêtage des indices divers physiques/magiques (identifiés par un code unique) doit fonctionner"
     - "La page web de traduction runique doit fonctionner, et expliquer comment bien transcrire des runes"
     - "Tous les emplacements des PLUMES de prophétie doivent en avoir une, attachée au scotch noir"
-    - "L'application de recherche de balises BLUETOOTH doit fonctionner pour toutes les balises cachées"
+    - "L'application de recherche de balises BLUETOOTH doit si possible fonctionner, et ce pour toutes les balises cachées"
     - "Les petits bijoux et clés doivent être attachés à des gros RUBANS, pour ne pas les perdre en jeu"
     - "Le détecteur de métaux doit bien sonner près des éboulis, ou des coffrets d'initiation d'Octave, s'ils contiennnent des valeurs"
     - "Mettre les étiquettes de classification sur les rayonnages de livres des 2 étages, en faisant attention à celles importantes dans le scénario (zoologie et cuisine sur le même rayonnage, et teintures là où est la teinture Pyrolitis)."
-    - "Les pierres précieuses et pièces, les cadenas et clés, les messages UV et magnétiques, les étiquettes de danger, doivent tous être en place comme le demande la checklist."
+    - "Les pierres précieuses et pièces (surtout les trésors comme pour l'énigme chat-lu-mot), les cadenas et clés, les messages UV et magnétiques, les étiquettes de danger, les pastilles rondes de code d'analyse/magie, doivent tous être en place comme le demande la checklist."
     - "Coller des symboles 'UV' et 'aimant' sur les objets respectivement porteurs d'ultraviolets et de codes magnétiques"
     - "Coller le symbole des Maupertuis (Caducée) sur les objets importants de la bibliothèque"
-    - "Coller les étiquettes dédiées sur les TOMBES du cimetière (dont l'hommage funèbre des avatars), sur le TOMEBAU du mage, et sur les COFFRES"
+    - "Coller les étiquettes dédiées sur les TOMBES du cimetière (dont l'hommage funèbre des avatars), sur le TOMEBAU du mage, et sur les COFFRES/BOÎTES"
 
 -
   - "@GENERAL Logistique et décorations diverses"
@@ -438,7 +439,7 @@
 
     - "Plan des lieux imprimé en couleurs pour aider au déploiement/rangement"
 
-    - "@ECLAIRAGES 6 grosses bougies (3xAAA chacune, piles NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %} <MISSING-3-pack-in-cave>"
+    - "@ECLAIRAGES 6 grosses bougies (3xAAA chacune, piles NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %}"
     - "@ECLAIRAGES 9 moyennes bougies (1xCR2032 chacune incluse) à disséminer dans l'étage interdit (marque d'envoûtement POSITIF)"
     - "@ECLAIRAGES Lampe à sel (USB normal)"
 
@@ -463,14 +464,10 @@
 
     - "6 chandelles blanches (3xAA chacune) du Clivra"
 
-    - "Nappes polyester brillantes rouge, bleue, noire @Pascal <MISSING>"
-
     - "@POTIONS 1 potion (rouge foncé) de Fungal Rouge {% hint 'potion_red_mushroom' is provided %}"
     - "@POTIONS 1 potion Délieur de Langue {% hint 'potion_tongue_untier' is provided %}"
 
-    - "Bouteille verdâtre à liqueur en tête de mort <MISSING>"
-    # ABORTED TOO PRECIOUS - "Ciboire (calice fermé) en argent <MISSING>"
-    - "Seau argenté à champagne <MISSING>"
+    - "Bouteille verdâtre à liqueur en tête de mort"
     - "@ECLAIRAGES Machine électrique à fumée pour le seau argenté"
 
     - "Station web sur PC (avec écran steampunk si possible) {% hint 'hint_website_device' is provided %}"

@@ -1,15 +1,31 @@
 PLANNING DETAILLÉ DU JEU
 ==============================
 
-*Planning théorique des évènements, à revalider au fur et à mesure avec le maître de jeu, suivant l'état d'avancement des joueurs dans les quêtes. Les prophéties ont leur propre planning, géré par la duchesse qui encade le joueur Oracle.*
+*Planning théorique des évènements, à revalider au fur et à mesure avec le maître de jeu, suivant l'état d'avancement des joueurs dans les quêtes. Les prophéties ont leur propre planning, géré par la duchesse qui encadre le joueur Oracle.*
+
+H-30mn : Chaque groupe de joueurs est briefé à part, pour vérifier :
+
+- qu’ils n’ont pas de questions sur leurs rôles et compétences spécifiques
+- qu'ils ont leurs vêtements et leurs objets dédiés
+- qu'ils sont d'accord entre eux sur la façon de jouer leurs devises et gestes symboliques.
 
 H-15mn : Vérifier que tous les systèmes audio/vidéo sont soit activés (si recoins standard), soit prêts à l'être (si emplacement de fantôme), aux deux étages ; aucune bougie ne doit être allumée, SAUF dans le tombeau du mage
 
-H-5mn : Les avatars doivent être prêts à se disperser dans la bibliothèque, et les fantômes à errer spectralement ; mais ces figurants peuvent écouter le discours introductif de loin ; certains automates peuvent être déjà dispersés
+H-10mn : Les avatars doivent être prêts à se disperser dans la bibliothèque, et les fantômes à errer spectralement ; mais ces figurants peuvent écouter le discours introductif de loin ; certains automates peuvent être déjà dispersés
 
-H-4mn : Briefing commun des joueurs (voir "Briefings" dans le manuel)
+H-10mn : Briefing commun des joueurs, où l'on rappelle
 
-H-2mn : [Musique] Discours introductif du maitre de jeu, tous ensemble
+- le planning global du jeu
+- les principales règles (en particulier la sécurité physique et psychologique)
+- la présence des toilettes
+- la présence du photographe (redemander à tous si OK pour droit à l'image)
+- les "INSTRUCTIONS COMPLEMENTAIRES DES JOUEURS"
+- la présence du terminal web des indices et des traductions runiques
+- l'utilisation du "seau argenté des objets utilisés" (ex. pour les clés utilisés) {% hint 'basket_for_precious_items' is needed %}
+
+H-5mn : [Musique] Discours introductif du maitre de jeu, tous ensemble
+
+H : Les joueurs se présentent les uns aux autres, en un "tour de table"
 
 H : [Musique] Les automates amènent les groupes de joueurs respectivement aux 4 coins de l'étage autorisé, puis vaquent à leurs occupations.
 
@@ -43,7 +59,7 @@ H+1h40 : [Cloches] Les fantômes repassent en spectre pour 2 minutes, puis [Gong
 
 H+2h20 : [Cloches] Les fantômes repassent en spectre pour 2 minutes, puis [Gong]
 
-H+X : SEULEMENT SI les joueurs ont bien progressé (voir avec le MJ), le druide doit laisser les joueurs trouver la sacoche de ceinture faussement compromettante {{% fact "druid_makes_conspiracy_against_arkon" %}
+H+X : SEULEMENT SI les joueurs ont bien progressé (voir avec le MJ), le druide doit laisser les joueurs trouver la sacoche de ceinture faussement compromettante {% fact "druid_makes_conspiracy_against_arkon" %}
 
 H+X : [Musique] Se tenir prêt à mettre en scène la cérémonie d'initiation d'Octave en musique
 

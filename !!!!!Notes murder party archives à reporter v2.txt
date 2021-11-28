@@ -13,78 +13,35 @@ TODO RESTANT
 ================
 
 
-dire aux automates comment trouver les livrets de potions  ABORTED
-
-
 PARCIVAL
 Si les Parcival cherchent des ingrêdient des 2 potions de l'étage
 qui indique que les élements doivent avoir des noms alternatifs ??
 
 agents secret :
-être plus explicite sur le moulin dans lettre de mérédice, perlé de cet outil caché en pleine vue de tous    DONE
 etre plus explicite sur les origines des 4 signes attendus par enigme du moulin dans appli
-
-explorateurs:
-archiviste doit dire : thanathologue caché en haut !!
-
-oracle : mieux repartir plumes entre etage du bas et du haut !!
-
-
-
-dans quoi mettre chandelles debout ? verres OK
-
-cadenas transparent sur valise du thanathologue plutot
-
-collier d'or pour fantome arkonte
-
-AJOUTER seau argenté sur BUFFET! !! pour objets perdus
-
-
-
-TODO:
-- MAJ de "journal intime" Octave à imprimer
-
-il faut un système sonore à l'étage pour les cris de bête et le jingle de l'ankou !!
-
-Redire ce qu'est un sceau !!
 
 Expliquer comment marche transcription runique"
 
-Imprimer plan ?? déjà fait ??
+Pas dire "indice" sur site web
 
-Charger musiques maudites sur tablette ? Deja fait ??
+oracle : mieux repartir plumes entre etage du bas et du haut !!
 
-Amener lecteur SD-card là bas !!     DONE
+cadenas transparent sur valise du thanathologue plutot
 
-Faire porter DENTELLES BLANCHES aux automates !!!
+- MAJ des 2 "journal intime" de Octave ET Mérédice à imprimer
 
-Trouver panier des objets précieux !
+il faut un système sonore à l'étage pour les cris de bête et le jingle de l'ankou (EWA bluetooth) !!
 
-Eteindre aussi couloir administratif de la médiathèque ?
+Ajouter RADIATIONS dans corridor où il y a collier anti-poison !
 
-Ajouter RADIATIONS dans corridor où il y a collier anti-poison ????
-
-AUTRES QUETES POUR AUTOMATES -> MALEDICTION AVEC MUSIQUE !!!
-
-MARQUEUR POUR HORS-JEU !!!!!!!!!!
-
-Archiviste a 2 choses à connaitre : venture prins et cocktail réjuvénation
-
-MALEDICTION SUR AUTOMATES !!!!!!!!!
-
-Collier or à ARKONTE
-
-Blagues pour automates
-
-SIGNE de reconnaissance des avatars ET des automates ? Guirlandes ? Dentelle blanche ?
-
-DEMANDER PHOTOGRAPHES (automates ??) !!
 
 Trouver pochette du voleur sans fond !!  (CHAPEAU ???)
 
-Changer pentacle de place ? à voir
+ajouter message runique
 
->>>> joueurs ne doivent pas se barrer avec clés ou broches à la fin du jeu
+
+
+
 
 
 
@@ -92,10 +49,16 @@ Changer pentacle de place ? à voir
 COMPLEMENTS DE BRIEFING POUR DIVERS PARTICIPANTS
 =================================================
 
-JOUEURS :
+
+INSTALLATION DU DECOR :
+- Mettre 2 PASTILLES de couleur pour chaque marquage d'objet, vu qu'elles sont toutes petites
+- Les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme ça en guirlandes LED
+
+INSTRUCTIONS COMPLEMENTAIRES DES JOUEURS :
 - C'est le moment ou jamais de relire en détail votre fiche de personnage ; si vous ne savez pas clairement qui vous êtes, ce que vous venez faire dans la bibliothèque, et vos différentes compétences spéciales, cela va énormément vous handicaper durant le jeu  ^^
 - Si vous êtes touché par un ennemi ou un piège, vous devez vous arrêter, vous mettre au sol, et appeler à l'aide en simulant que vous êtes blessé.
 - On ne touche pas aux objets qui sont dans des sacs en toile entièrement noirs, ou attachés avec du scotch noir ; et on évite de déplacer les objets qui ne nous concernent pas ; mieux vaut les laisser sur place et les signaler aux autres joueurs.
+- Les petits trésors (pièces, diamants...) peuvent être utiles à collecter
 - Si un évènement notable survient (un piège est déclenché, un sceau magique a été activé, une énigme de grimoire a été résolue), faire appel au maître de jeu pour savoir ce qui se passe réellement.
 - Les obstacles faits de cordelette sont infranchissables, tant que le maître de jeu ne les a pas enlevés (souvent suite à une action des joueurs comme un déminage ou un sortilège).
 - Attention aux éclairages (guirlandes de LEDs, diodes, bougies) qui peuvent se trouver au sol, on évite de marcher dessus.
@@ -115,6 +78,7 @@ FIGURANTS :
 - Les fantômes sont reconnaissables à leur tunique pourpre, les autoamtes à leurs **bandeaux de dentelle blanche** ; les avatars n'ont pas de signe distinctif particulier
 - Les DISCOURS LONGS des figurants peuvent être soufflés dans l'oreille par une oreillette (sur lecteur MP3), avec 1-2 secondes d'avance sur la musique, pour éviter tout oubli ; vérifier que le son grave de piano est bien synchronisé, au lancement simultané des 2 bandes son (musique et voix)
 
+
 L'ANKOU :
 - Tu informes les joueurs que les fantômes sont PRISONNIERS de ce lieu au lieu de rejoindre l'au-delà
 - Tu préviens que les défunts Maupertuis (la famille d'Octave) vont "tous bien" dans l'au-delà, qu'ils ont bien envie de retrouver Octave, et qu'ils se tiennent à disposition en cas de besoin pour aider les aventuriers
@@ -130,6 +94,7 @@ AVATARS :
 - Inventez vos propres petits rituels de soin pour les joueurs !
 
 AUTOMATES :
+- Pour être plus facilement distingués des avatars, outre leurs démarches, les automates doivent porter des **rubans de dentelle blanche** autour du cou et des poignets
 - Au début du jeu, vous pouvez pour certains être INACTIFS, au sol, jusqu'à ce que l'inventeur ne vous allume (les avatars doivent évidemment trouver cela normal)
 - Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le piège reste en place dans tous les cas
 
@@ -141,12 +106,16 @@ AUTOMATES :
 
 - vers la fin du jeu, après la mort du méchant, rassemblez les joueurs en bas des escaliers.
 - Après le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails vers la surface vont bientôt se refermer.
+- Prenez des photographies durant le jeu, si possible, SVP !
 
 OCTAVE et ARCHIVISTE :
-- Tu peux être peiné de réaliser, à un moment, que les diacres appartiennent précisément au culte de Bahamoot qui a fait saccager le manoir des Maupertuis jadis
-- Octave avais un vieux livre favori avec des animaux qui courent, en illusion d'optique
-- Bien mémoriser l'emplacement approximatif de la 1ere recette de potion requise par les Parcival pour guérir la "dégénérescence marbrée"
-- Pusique les balises électroniques dysfonctionnent, dire tout de suite que pour trouver les autres sous-potions, il faut s'aider des **flèches blanches** (en scotch) laissées au sol par les parents Maupertuis.
+- Vous pouvez être peinés de réaliser, à un moment, que les diacres appartiennent précisément au culte de Bahamoot qui a fait saccager le manoir des Maupertuis jadis
+- Octave avait un vieux livre favori avec des animaux qui courent, en illusion d'optique (utile pour l'énigme de la {% symbol "Boîte à Murmure" for "whispering_box" %} de Mérédice)
+- Bien mémoriser la forme (faux-livre épais en bois marron) et la localisation approximative du {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}, qui murmure le code de la mallette administrative noire des Maupertuis
+- Bien mémoriser l'emplacement approximatif de la première recette de potion requise par les Parcival pour guérir la "dégénérescence marbrée".
+- Puisque les balises électroniques dysfonctionnent, dites tout de suite aux Parcival que pour trouver les autres sous-potions de guérison, il faut s'aider des **flèches blanches** (en scotch) laissées au sol par les parents Maupertuis.
+- Si des joueurs (probablement explorateurs héliossars) vous parlent du {% symbol "Thanatologue" for "book_of_the_dead" %}, vous savez qu'il ne pourrait être gardé que dans un coffre bien protégé de l'étage interdit.
+- Si des joueurs (probablement agents secrets mirandiens) évoquent un trésor des Maupertuis, vous savez que la famille disposait d'un artefact générateur de richesses, dans l'étage interdit.
 
 DRUIDE :
 - Répéter avec l'arkonte, AVANT le jeu, la chorégraphie exacte de la bataille finale
@@ -250,6 +219,8 @@ VOLEUR :
 
 
 
+
+
 TRASH
 ########################################
 
@@ -258,6 +229,32 @@ TRASH
 
 
 
+>>>> joueurs ne doivent pas se barrer avec clés ou broches à la fin du jeu  DONE
+DEMANDER PHOTOGRAPHES (automates ??) !!   DONE
+
+
+Archiviste a 2 choses à connaitre : venture prins et cocktail réjuvénation  DONE
+Blagues pour automates  NOPE
+SIGNE de reconnaissance des avatars ET des automates ? Guirlandes ? Dentelle blanche ?  DONE
+
+
+Faire porter DENTELLES BLANCHES aux automates !!!  DONE
+Eteindre aussi couloir administratif de la médiathèque ? NOPE
+AUTRES QUETES POUR AUTOMATES -> MALEDICTION AVEC MUSIQUE !!!  DONE
+
+
+Charger musiques maudites sur tablette ? Deja fait ??  DONE
+Amener lecteur SD-card là bas !!     DONE
+
+
+AJOUTER seau argenté sur BUFFET! !! pour objets perdus
+
+dans quoi mettre chandelles debout ? verres OK
+
+agents secrets : être plus explicite sur le moulin dans lettre de mérédice, perlé de cet outil caché en pleine vue de tous    DONE
+explorateurs: archiviste doit dire : thanathologue caché en haut !!  DONE
+
+Dire aux automates comment trouver les livrets de potions  ABORTED
 
 AJOUTER PASTILLE    DONE
     spectral_table_bell:

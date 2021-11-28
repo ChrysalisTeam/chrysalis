@@ -14,7 +14,7 @@ Votre minuscule pays vivait en paix, jusqu'à ce que ses richesses minières et 
 Votre pays doit désormais trouver de quoi rembourser **500 kashes par jour pendant 3 ans**, ce qui est énorme.
 {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
 
-En désespoir de cause, le prince mirandien vous a envoyé sur les traces du trésor ayant appartenu aux Maupertuis - une antique lignée de mages-guérisseurs qui avait toujours vécu dans l'aisance, sans jamais faire payer leurs services. Vos recherches vous ont mené jusqu'aux ruines de leur manoir, dans le pays de {% symbol "Thelassar" for "events_region_name" %}, manoir qui fut autrefois saccagé par des fanatiques. Vos chances de retrouver ce trésor devenaient bien minces.
+En désespoir de cause, le prince mirandien vous a envoyé sur les traces de **trésor dynastique** ayant appartenu aux Maupertuis - une antique lignée de mages-guérisseurs qui avait toujours vécu dans l'aisance, sans jamais faire payer leurs services. Vos recherches vous ont mené jusqu'aux ruines de leur manoir, dans le pays de {% symbol "Thelassar" for "events_region_name" %}, manoir qui fut autrefois saccagé par des fanatiques. Vos chances de retrouver ces richesses devenaient bien minces.
 
 <{ monolith_found_by_explorers }/>
 

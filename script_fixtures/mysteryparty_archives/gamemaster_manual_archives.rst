@@ -609,22 +609,16 @@ Avec le bon rituel du grimoire {% symbol "Thanatologue" for "book_of_the_dead" %
 Briefings
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Chaque groupe de joueurs est briefé à part, pour vérifier qu’ils n’ont pas de questions sur leur rôles et leurs compétences spécifiques, et qu'ils sont d'accord entre eux sur la façon de jouer leurs devises et gestes symboliques.
-
-Un briefing collectif a ensuite lieu pour rappeler :
-
-- le planning global du jeu
-- les règles (en particulier la sécurité physique et psychologique, et le statut hors-jeu des sacs noirs ou des papiers marqués HRP)
-- la présence des toilettes
-- la présence du photographe (redemander à tous si OK pour droit à l'image)
-- la présence du terminal web des indices
-- l'utilisation du "panier des objets précieux" (pours les clés/bijoux utilisés) {% hint 'basket_for_precious_items' is needed %}
+Avant le jeu, des briefings par groupe puis collectif ont lieu avec les joueurs.
+*Voir la fiche de planning détaillé, à ce sujet.*
 
 
 L’entrée en scène des joueurs
 ++++++++++++++++++++++++++++++++++
 
 Un discours du maître de jeu introduit le début du jeu.
+
+Puis chaque groupe de joueur
 
 Chaque groupe est ensuite amené, par un automate, dans un endroit différent de l’étage du bas de la bibliothèque, avec une musique introductive.
 
@@ -733,7 +727,7 @@ Planification des prophéties et intuitions
 
 - **Intuition sur l'étage interdit** (lorsque l'étage interdit est ouvert) : *"Vous sentez se déverser sur vous le poids de siècles, de millénaires mêmes, de connaissances qui sont sources de vie, mais aussi souvent de mort. Cependant, vous le sentez, le Mal est bien plus ancré dans l'étage autorisé, qu'il ne l'est dans l'étage interdit."*
 
-- **Prophétie sur le moulin générateur de richesses** (plume dans l'atelier de gemmologie) : Vision simple, musique "In Uchronia - Here and Now (Seed's Theme).mp3". {% hint 'feather_in_gemmology_lab' is needed %}
+- **Prophétie sur le moulin générateur de richesses** (plume sur le tableau avec stéréogramme près des portraits) : Vision simple, musique "In Uchronia - Here and Now (Seed's Theme).mp3". {% hint 'feather_on_stereogram_board' is needed %}
 
 - **Prophétie de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "In Uchronia - The Calling.mp3". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% hint 'feather_in_thanatologue' is needed %} Si le joueur Oracle ne se sent pas capable de gérer cette prophétie audio, repasser sur une simple vision, avec image.
 
@@ -774,7 +768,7 @@ Un sceau est visible devant les escaliers menant à l'étage interdit. Lorsqu'il
   Octave connait juste ce nom étrange, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”. {% fact "octave_knows_about_murmuring_venture_prins_book" %}
 
 - L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice. {% fact "archivist_knows_venture_prins_location" %}
-   Il faut un stéthoscope, ou à défaut l'aide d'un automate, pour entendre le code diffusé dans le bois du livre, et ainsi ouvrir la mallette des Maupertuis.
+   Il peut falloir un stéthoscope, ou à défaut l'aide d'un automate, pour entendre le code diffusé dans le bois du livre, et ainsi ouvrir la mallette des Maupertuis.  {# FIXME FALSE TOO EASY NOW #}
 
 - Le code peut aussi être demandé aux parents défunts, plus tard, via l’Ankou, en pire cas.
 

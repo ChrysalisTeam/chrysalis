@@ -34,7 +34,7 @@ La maitrise de tels pentacles est sans doute l'art le plus complexe de votre dis
 
 Un pentacle n'est jamais en soi dangereux ; {% symbol "initiés" for "ritualist_kind_name" %} comme non-initiés peuvent marcher dessus sans crainte. Il ne faut en revanche jamais passer dedans durant un rituel, sous peine d'être impliqué à son insu dans ce dernier. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
-Les **sceaux sont de lointaines variantes des pentacles** ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle. Il s'agit de supports spécialisés à des fins précises, typiquement pour **contrôler l'accès** à des savoirs dangereux, ou accompagner **l'initiation des membres** d'une dynastie magicienne.
+Les **sceaux sont de lointaines variantes des pentacles** ; ils se présentent sous la forme de tracés aux formes variées, mais toujours **entourés d'un cercle**. Il s'agit de supports spécialisés à des fins précises, typiquement pour **contrôler l'accès** à des savoirs dangereux, ou accompagner **l'initiation des membres** d'une dynastie magicienne.
 
 Attention, même éteint, un sceau peut, lui, conserver une **aura bénéfique ou dangereuse** ; l'activer sert principalement à modifier son état ou lire les informations qu'il recèle.
 
