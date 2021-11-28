@@ -416,7 +416,7 @@ HEURE 5:00
 
 - attaque des purificateurs akarites :
 
-    - diffusion de la bande son de l'attaque du manoir, avec explosions, et descente des volets roulants
+    - diffusion de la bande-son de l'attaque du manoir, avec explosions, et descente des volets roulants
     - les serviteurs rassemblent les invités à l'abri dans la salle principale, et demandent, catastrophés, qui a une arme
     - Rydji part à l'assaut avec un explosif, et revient blessé à la jambe, en disant qu'il reste des assaillants
     - 2 akarites surgissent dans la fumée, l'un avec un nerf, l'autre avec un sabre

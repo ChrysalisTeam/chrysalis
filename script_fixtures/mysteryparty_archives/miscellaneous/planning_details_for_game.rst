@@ -51,7 +51,7 @@ H+45mn : [Cloches] Les fantômes repassent en spectre pour 2 minutes, puis [Gong
 
 H+55mn : [Musique] Se tenir prêt à mettre en scène l'arrivée de la Bête, lorsque l'étage interdit sera ouvert
 
-H+60mn : [Musique] Se tenir prêt à mettre une bande son instrumentale lorsque les joueurs pénètrent dans l'étage interdit. Le fantôme du voleur y commence alors son errance, avec les gants bleus et le masque à LED
+H+60mn : [Musique] Se tenir prêt à mettre une bande-son instrumentale lorsque les joueurs pénètrent dans l'étage interdit. Le fantôme du voleur y commence alors son errance, avec les gants bleus et le masque à LED
 
 H+1h20 : [Choeur] Si les joueurs n'ont toujours pas ouvert l'étage interdit, l'Ankou vient leur donner des indices sur la façon d'accéder au symbole nécessaire (symbole en ultraviolets dans la mallette administrative noir, dont le code est murmuré par le {% symbol "Venture Prins" for "small_wooden_fake_book_name" %})
 
@@ -77,4 +77,9 @@ H+X : [Musiques] Se tenir prêt à déclencher les 3 phases de la musique de bat
 
 H+X : [Musique] Quelques minutes après la suppression de la Clôture Absolue (causée par le druide ou par le rituel des diacres), les joueurs doivent être rassemblés en bas des escaliers ; puis épilogue musical, avec **retour de l'Ankou** qui appelle à lui les fantômes (ALLUMER alors le projecteur jusqu'à la fin de l'épilogue), puis discours d'adieux d'Octave, puis départ des fantômes ; les automates raccompagnent ensuite les joueurs vers la salle de briefing
 
-H+X : [Musique] Debriefing avec les joueurs et figurants, IMPORTANT vérifier que les joueurs ne gardent pas de **clés ou bijoux** sur eux, distribuer des **FLYERS** de l'association, et faire des **photographies** ensemble
+H+X : [Musique] Debriefing avec les joueurs et figurants :
+
+- IMPORTANT vérifier que les joueurs ne gardent pas de **clés ou bijoux** sur eux
+- Présenter le CLIVRA et CHRYSALIS et distribuer des **FLYERS**
+- Faire des **photographies** ensemble
+- Remercier tous pour participation

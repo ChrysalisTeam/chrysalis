@@ -12,28 +12,28 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TODO RESTANT
 ================
 
+- Affecter un automate et avatar à chaque groupe de joueurs !!!!
 
-PARCIVAL
-Si les Parcival cherchent des ingrêdient des 2 potions de l'étage, qui indique que les élements doivent avoir des noms alternatifs ??
-
-agents secret :
-etre plus explicite sur les origines des 4 signes attendus par enigme du moulin dans appli
-
-Expliquer comment marche transcription runique"
-
-Pas dire "indice" sur site web
-
-
-
-- MAJ des 2 "journal intime" de Octave ET Mérédice à imprimer
+- MAJ des 2 "journal intime" de Octave ET Mérédice à imprimer, + nouvelles pages et celles disparues durant jeu
 
 il faut un système sonore à l'étage pour les cris de bête et le jingle de l'ankou (EWA bluetooth) !!
+REDISPATCHER CERTAINS SYSTEMES AUDIO VIDEO
 
-Ajouter RADIATIONS dans corridor où il y a collier anti-poison !
+PREVOIR SMARTPHONE EN TETHERING WIFI POUR PC ET TABLETTES ??
 
-Trouver pochette du voleur sans fond !!  (CHAPEAU ???)
+Ajouter messages runiques
 
-ajouter messages runiques !
+Ajouter messages magnétiques
+
+CADRE STEREOGRAMME
+- MERCI MOULIN  (magnétique)
+- ET merci à nos broches familiales !  (UV)
+- plume
+
+DANS LIVRE FAMILIAL MARRON FIN, en plus du symbole en UV :
+- Lettre expliquant danger des colliers éthériques, et du grimoire thanatologue !!!
+- Indice aussi sur besoin de NORMALISER la nomenclature des potions, avec exemple et besoin d'un bon herboriste !!!
+- indice sur risques d'Octave avec création avatars ???
 
 
 
@@ -45,6 +45,7 @@ COMPLEMENTS DE BRIEFING POUR DIVERS PARTICIPANTS
 INSTALLATION DU DECOR :
 - Mettre 2 PASTILLES de couleur pour chaque marquage d'objet, vu qu'elles sont toutes petites
 - Les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme ça en guirlandes LED
+- Bien ajouter écriteau RAYONNEMENTS IONISANTS dans corridor de Peau de Pierre (valisettes ovales imbriquées)
 
 INSTRUCTIONS COMPLEMENTAIRES DES JOUEURS :
 - C'est le moment ou jamais de relire en détail votre fiche de personnage ; si vous ne savez pas clairement qui vous êtes, ce que vous venez faire dans la bibliothèque, et vos différentes compétences spéciales, cela va énormément vous handicaper durant le jeu  ^^
@@ -59,23 +60,21 @@ INSTRUCTIONS COMPLEMENTAIRES DES JOUEURS :
 - Vous allez aussi croiser différents personnages figurants ; prenez là aussi le temps de les découvrir, de discuter avec eux, peut-être que vous pouvez les aider, peut-être aussi qu'ils peuvent vous aider dans vos recherches !
 - Enfin, vous allez croiser des fantômes errants, faites attention, ils sont très dangereux ; ils peuvent vous blesser ou bien pire ; et que faites-vous si vous êtes blessé, déjà ? Oui, vous ne bougez plus et vous appelez à l'aide.
 
-
 FIGURANTS :
 - Rappel : la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans, et les automates (autrefois conçus par l'inventeur et Octave) vaquent à leurs occupations pour organiser cette fête, même si depuis tous ces siècles, sa raison d'être a beaucoup disparu.
 - Rappel : les avatars/automates et les fantômes ne peuvent interagir ensemble QUE par l'entremise des joueurs, ces 2 mondes ne se voient et s'entendent pas.
 - Lors de la première rencontre avec les joueurs, une des premières questions à leur poser, c'est : en quelle année sommes-nous ?
 - Au début du jeu, après le soulagement de leurs "retrouvailles" indirectes, avatars comme fantômes se demandent mutuellement ce qu'il s'est passé il y a 500 ans lors du drame
 - Les avatars sont désemparés en essayant de protéger les joueurs des dangers invisibles comme la Bête
-- Si on veut vous faire jurer quelque chose "par Zarathoustra", vous pouvez dire ce que vous voulez, et même vous moquer des joueurs, car ce serment ne s'applique pas à vous (avatars ou fantomes), vous ne risquez rien en parjurant avec.
-- Les fantômes sont reconnaissables à leur tunique pourpre, les autoamtes à leurs **bandeaux de dentelle blanche** ; les avatars n'ont pas de signe distinctif particulier
+- Si on veut vous faire jurer quelque chose "par Zarathoustra", vous pouvez dire ce que vous voulez, et même vous moquer des joueurs, car ce serment ne s'applique pas à vous (avatars ou fantômes), vous ne risquez rien en parjurant avec.
+- Les fantômes sont reconnaissables à leur tunique pourpre, les automates à leurs **rubans de dentelle blanche** ; les avatars n'ont pas de signe distinctif particulier
 - Les DISCOURS LONGS des figurants peuvent être soufflés dans l'oreille par une oreillette (sur lecteur MP3), avec 1-2 secondes d'avance sur la musique, pour éviter tout oubli ; vérifier que le son grave de piano est bien synchronisé, au lancement simultané des 2 bandes son (musique et voix)
-
 
 L'ANKOU :
 - Tu informes les joueurs que les fantômes sont PRISONNIERS de ce lieu au lieu de rejoindre l'au-delà
 - Tu préviens que les défunts Maupertuis (la famille d'Octave) vont "tous bien" dans l'au-delà, qu'ils ont bien envie de retrouver Octave, et qu'ils se tiennent à disposition en cas de besoin pour aider les aventuriers
 
-FANTÔMES :
+TOUS LES FANTÔMES :
 - Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés"
 - Vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie) ; vous repassez en incarné lors du GONG
 - Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage, et que vous ne pouvez rejoindre l'au-delà ; vous le dites aux joueurs ; mais vous pouvez aller à l'étage interdit s'il est ouvert
@@ -92,9 +91,9 @@ AUTOMATES :
 
 - La malédiction des automates::
 
-    Lorsque, bien plus tard, les joueurs arrivent à accéder au {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de déclencher une bande son intense lors de la première ouverture de ce grimoire maudit.
+    Lorsque, bien plus tard, les joueurs arrivent à accéder au {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de déclencher une bande-son intense lors de la première ouverture de ce grimoire maudit.
     Les automates de service deviennent alors possédés, et claudiquent vers les joueurs, en battant des bras, et en ressassant "Mort aux hérétiques !".
-    les joueurs doivent alors les éviter jusqu'à la fin de la bande son ; à ce moment-là, les automates redeviennent normaux, et reprennent leurs tâches habituelles.
+    les joueurs doivent alors les éviter jusqu'à la fin de la bande-son ; à ce moment-là, les automates redeviennent normaux, et reprennent leurs tâches habituelles.
 
 - vers la fin du jeu, après la mort du méchant, rassemblez les joueurs en bas des escaliers.
 - Après le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails vers la surface vont bientôt se refermer.
@@ -106,8 +105,14 @@ OCTAVE et ARCHIVISTE :
 - Bien mémoriser la forme (faux-livre épais en bois marron) et la localisation approximative du {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}, qui murmure le code de la mallette administrative noire des Maupertuis
 - Bien mémoriser l'emplacement approximatif de la première recette de potion requise par les Parcival pour guérir la "dégénérescence marbrée".
 - Puisque les balises électroniques dysfonctionnent, dites tout de suite aux Parcival que pour trouver les autres sous-potions de guérison, il faut s'aider des **flèches blanches** (en scotch) laissées au sol par les parents Maupertuis.
+- Si des joueurs vous demandent où trouvers ces ingrédients, vous supposez qu'il s'agit de noms anciens ou de minéraux, et vous les renvoyez vers le druide pour savoir de quoi il s'agit exactement : **"arbre éternel", "gant-de-renard", "clairvoyant minéral", "aventurine", et "oeil-de-tigre"**.
 - Si des joueurs (probablement explorateurs héliossars) vous parlent du {% symbol "Thanatologue" for "book_of_the_dead" %}, vous savez qu'il ne pourrait être gardé que dans un coffre bien protégé de l'étage interdit.
 - Si des joueurs (probablement agents secrets mirandiens) évoquent un trésor des Maupertuis, vous savez que la famille disposait d'un artefact générateur de richesses, dans l'étage interdit.
+
+VOLEUR :
+- Bien avoir mémorisé les informations que tu es prêt à échanger contre de l'argent ; laisser tomber l'histoire de la "sacoche sans fond" si ça complique trop
+- Petit changement, le corridor de l'étage interdit est toxique DEPUIS TOUJOURS, pas à cause d'une lutte et de potions renversées durant la mort du voleur
+- Tu dois te trouver "encré" non loin la niche de la Bête, et expliquer aux joueurs ce qu'elle est
 
 DRUIDE :
 - Répéter avec l'arkonte, AVANT le jeu, la chorégraphie exacte de la bataille finale
@@ -122,10 +127,6 @@ INVENTEUR :
 DUCHESSE :
 - Répéter avant le jeu le démasquage du traître, avec le discours et la musique préparés
 
-VOLEUR :
-- Bien avoir mémoriser les informations que tu es prêt à échanger contre de l'argent ; laisser tomber l'histoire de la "sacoche sans fond" si ça complique trop
-- Petit changement, le corridor de l'étage interdit est toxique DEPUIS TOUJOURS, pas à cause d'une lutte et de potions renversées durant la mort du voleur
-- Tu dois te trouver "encré" non loin la niche de la Bête, et expliquer aux joueurs ce qu'elle est
 
 
 
@@ -175,7 +176,7 @@ VOLEUR :
 - acheter guètres / surchaussures et gants blancs
 - Mettre code magnétique ou analyse physique pour le corridor toxique ?
 - Statuer sur nom des portails de transplanage/planétaire/magique qui mènent à la surface ("Symbol" needed)
-
+- Trouver pochette du voleur sans fond !!  (CHAPEAU ???)
 - Ce qu'il faut en tout:
 
     - ANALYSES D'OBJETS avec code
@@ -216,8 +217,12 @@ VOLEUR :
 TRASH
 ########################################
 
+Si les Parcival cherchent des ingrêdient des 2 potions de l'étage, qui indique que les élements doivent avoir des noms alternatifs ??  DONE ocatve et archiviste
 
+agents secret : etre plus explicite sur les origines des 4 signes attendus par enigme du moulin dans appli  DONE
+Expliquer comment marche transcription runique   DONE
 
+Pas dire "indice" sur site web - SI C OK
 
 - oracle : mieux repartir plumes entre etage du bas et du haut !!  DONE
 - cadenas transparent sur valisette intérieur rouge  DONE
@@ -294,7 +299,7 @@ TODO CHECKLIST POUR changement d'étage, et aussi pour epilogue - braquer le spo
 AUDIO :
     PRE-ENREGISTRER PROPHECY AUDIO  DONE
 
-    FAIRE bande son du venture prins avec code secret !!  DONE
+    FAIRE bande-son du venture prins avec code secret !!  DONE
 
     PRE-ENREGISTRER MESSAGE D'INITIATION D'OCTAVE avec mini coffrets ? << NOPE DIRECTEMENT DIT PAR OCTAVE - MAIS TROUVER MUSIQUE OUI  DONE
 

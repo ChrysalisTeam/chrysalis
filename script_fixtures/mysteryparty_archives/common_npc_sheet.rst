@@ -54,10 +54,10 @@ Il faut rester concentré sur ce point : les mondes des fantômes et des avatars
 Orienter les joueurs vers les bons interlocuteurs
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Octave, l'archiviste et l'arkonte peuvent se renvoyer la balle quand il s'agit d"informations sur la maisonnée Maupertuis ou la malédiction de la bibliothèque.
+- Octave, l'archiviste et l'arkonte peuvent se renvoyer la balle quand on leur des informations qu'ils ont oubliées sur la maisonnée Maupertuis ou la malédiction de la bibliothèque.
 - Si un joueur cherche des informations sur les automates, ou a un outil à réparer, l'orienter vers l'inventeur.  {% fact "inventor_can_repair_items" %}
 - S'il s'agit de voyance, c'est la duchesse qui est la mieux placée. {% fact "duchess_knowns_about_prophecies" %}
-- S'il s'agit d'herboristerie ou de gemmologie, c'est le duide qui peut avoir quelques réponses. {% fact "druid_known_about_plants_and_gems" %}
+- S'il s'agit d'herboristerie (pour les potions) ou de gemmologie, c'est le duide qui peut avoir quelques réponses. {% fact "druid_known_about_plants_and_gems" %}
 - Si un joueur est blessé, selon son type de blessure, interpeller l'avatar qui pourrait le soigner (ce qui n'est pas sans danger) {% fact "avatar_abilities_are_randomly_hazardous" %}
 
 

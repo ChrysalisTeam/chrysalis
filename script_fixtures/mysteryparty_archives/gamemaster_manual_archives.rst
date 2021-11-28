@@ -671,10 +671,10 @@ L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’i
 La malédiction des automates
 +++++++++++++++++++++++++++++++++++++++++++
 
-Lorsque, bien plus tard, les joueurs arrivent à accéder au {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de déclencher une bande son intense lors de la première ouverture de ce grimoire maudit.
+Lorsque, bien plus tard, les joueurs arrivent à accéder au {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de déclencher une bande-son intense lors de la première ouverture de ce grimoire maudit.
 
 Les automates de service deviennent alors possédés, et claudiquent vers les joueurs, en battant des bras, et en ressassant "Mort aux hérétiques !".
-les joueurs doivent alors les éviter jusqu'à la fin de la bande son ; à ce moment-là, les automates redeviennent normaux, et reprennent leurs tâches habituelles.
+les joueurs doivent alors les éviter jusqu'à la fin de la bande-son ; à ce moment-là, les automates redeviennent normaux, et reprennent leurs tâches habituelles.
 
 
 L'exploration du tombeau du mage fondateur
