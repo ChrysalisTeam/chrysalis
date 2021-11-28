@@ -196,7 +196,6 @@
 -
   - "@ALCHIMIE Laboratoire d'Alchimie"
   -
-    # - ABORTED "La table doit 'murmurer' mais profondément (sthéthoscope) à travers le bois ce message : XXXXXXXXXXXXXXXXXXXXXX ?? OU BIEN CODE SECRET EN MAGNETIQUE ???????"
     - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
     - "Chaudron rond en cuivre à anse, avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
     - "Passoire cylindrique en métal"
@@ -260,8 +259,9 @@
 -
   - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac)"
   -
-    - "Présence de vapeurs toxiques"
-    - "@ENORMES Valisettes ovales imbriquées, [automate doit pouvoir prendre celle intérieure]"
+    - "Présence de radiations et vapeurs toxiques"
+    - "@ENORMES Valisettes ovales imbriquées, [un automate doit pouvoir prendre celle intérieure]"
+    - "La valisette intérieure est protégée par un CADENAS CROCHETABLE TRANSPARENT"
     - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette interne"
     - "2 grands miroirs rectangulaires pour le fond des valisettes"
     - "@POTIONS Plusieurs potions (dont celle de Fungal Bleu) {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
@@ -422,7 +422,7 @@
     - "Les petits bijoux et clés doivent être attachés à des gros RUBANS, pour ne pas les perdre en jeu"
     - "Le détecteur de métaux doit bien sonner près des éboulis, ou des coffrets d'initiation d'Octave, s'ils contiennnent des valeurs"
     - "Mettre les étiquettes de classification sur les rayonnages de livres des 2 étages, en faisant attention à celles importantes dans le scénario (zoologie et cuisine sur le même rayonnage, et teintures là où est la teinture Pyrolitis)."
-    - "Les pierres précieuses et pièces (surtout les trésors comme pour l'énigme chat-lu-mot), les cadenas et clés, les messages UV et magnétiques, les étiquettes de danger, les pastilles rondes de code d'analyse/magie, doivent tous être en place comme le demande la checklist."
+    - "Les pierres précieuses et pièces (surtout les trésors comme pour l'énigme chat-lu-mot), les cadenas et clés, les messages UV et magnétiques, les étiquettes de danger (poisons, radiations...), les pastilles rondes de code d'analyse/magie, doivent tous être en place comme le demande la checklist."
     - "Coller des symboles 'UV' et 'aimant' sur les objets respectivement porteurs d'ultraviolets et de codes magnétiques"
     - "Coller le symbole des Maupertuis (Caducée) sur les objets importants de la bibliothèque"
     - "Coller les étiquettes dédiées sur les TOMBES du cimetière (dont l'hommage funèbre des avatars), sur le TOMEBAU du mage, et sur les COFFRES/BOÎTES"

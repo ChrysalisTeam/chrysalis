@@ -14,8 +14,7 @@ TODO RESTANT
 
 
 PARCIVAL
-Si les Parcival cherchent des ingrêdient des 2 potions de l'étage
-qui indique que les élements doivent avoir des noms alternatifs ??
+Si les Parcival cherchent des ingrêdient des 2 potions de l'étage, qui indique que les élements doivent avoir des noms alternatifs ??
 
 agents secret :
 etre plus explicite sur les origines des 4 signes attendus par enigme du moulin dans appli
@@ -24,9 +23,7 @@ Expliquer comment marche transcription runique"
 
 Pas dire "indice" sur site web
 
-oracle : mieux repartir plumes entre etage du bas et du haut !!
 
-cadenas transparent sur valise du thanathologue plutot
 
 - MAJ des 2 "journal intime" de Octave ET Mérédice à imprimer
 
@@ -34,14 +31,9 @@ il faut un système sonore à l'étage pour les cris de bête et le jingle de l'
 
 Ajouter RADIATIONS dans corridor où il y a collier anti-poison !
 
-
 Trouver pochette du voleur sans fond !!  (CHAPEAU ???)
 
-ajouter message runique
-
-
-
-
+ajouter messages runiques !
 
 
 
@@ -227,7 +219,8 @@ TRASH
 
 
 
-
+- oracle : mieux repartir plumes entre etage du bas et du haut !!  DONE
+- cadenas transparent sur valisette intérieur rouge  DONE
 
 >>>> joueurs ne doivent pas se barrer avec clés ou broches à la fin du jeu  DONE
 DEMANDER PHOTOGRAPHES (automates ??) !!   DONE
