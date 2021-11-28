@@ -13,29 +13,34 @@ TODO RESTANT
 ================
 
 
+AJOUTER PASTILLE
+    spectral_table_bell:
+        title: "Clochette spectrale"
+        categories: ["magie"]
+        clue_code: "vbr"
 
 
 
-livre bleu : code 425
+livre bleu : code 425   DONE
+demander aux autres joueurs ce qu'ils font là, ce qu'ils savent faire   DONE
+ne touchez pas aux objets dans sacs en tissu noir !   DONE
+figurants : pensez à demander en quelle année on est   DONE
 
-dire grosse corde est infranchissable !
+Faire symboles pour marquer les objets porteurs d'UV et Magnets
 
-demander aux autres joueurs ce qu'ils font là, ce qu'ils savent faire
-ne touchez pas aux objets dans sacs en tissu noir !
-figurants : pensez à demander en quelle année on est
+Symbole amplificans sur tombeau mage
 
-faire symboles UV et MAgnet
+Etiquettes avec noms sur les tombes !!
+Etiquettes : mallette administrative des maupertuis, coffre familial des maupertuis, coffre légendaire des maupertuis
 
-etiquettes avec noms sur les tombes !!
-etiquettes : mallette administrative des maupertuis, coffre familial des maupertuis, coffre légendaire des maupertuis
 
-prevenez le maitre de jeu quand evenement survient, sceau activé, énigme de grimoire résolue, etc.
 
 dire aux automates comment trouver les livrets de potions
 
-parcival : qui indique que les élements doivent avoir des noms alternatifs ??
-Indices :
+
+PARCIVAL
 Si les Parcival cherchent des ingrêdient des 2 potions de l'étage
+qui indique que les élements doivent avoir des noms alternatifs ??
 
 agents secret :
 être plus explicite sur le moulin dans lettre de mérédice, perlé de cet outil caché en pleine vue de tous
@@ -48,20 +53,13 @@ oracle : mieux repartir plumes entre etage du bas et du haut !!
 
 
 
-
-
-codes magnetiques :
-- symbole amplificans sur tombeau mage
-
-rajouter jeu au sondeur
-
-dans quoi mettre chandelles debout ? engrenages ?
+dans quoi mettre chandelles debout ? verres OK
 
 cadenas transparent sur valise du thanathologue plutot
 
 collier d'or pour fantome arkonte
 
-
+AJOUTER seau argenté sur BUFFET! !! pour objets perdus
 
 
 
@@ -117,16 +115,22 @@ COMPLEMENTS DE BRIEFING POUR DIVERS PARTICIPANTS
 =================================================
 
 JOUEURS :
-- C'est le moment ou jamais de relire votre fiche de personnage ; si vous ne savez pas clairement qui vous êtes, ce que vous venez faire ici, et vos différentes compétences spéciales, cela va énormément vous handicaper dans ce jeu.
+- C'est le moment ou jamais de relire en détail votre fiche de personnage ; si vous ne savez pas clairement qui vous êtes, ce que vous venez faire dans la bibliothèque, et vos différentes compétences spéciales, cela va énormément vous handicaper durant le jeu  ^^
 - Si vous êtes touché par un ennemi ou un piège, vous devez vous arrêter, vous mettre au sol, et appeler à l'aide en simulant que vous êtes blessé.
-- Vous allez croiser des fantômes errants, faites attention, ils sont très dangereux ; ils peuvent vous blesser ou bien pire ; et que faites vous si vous êtes blessé, déjà ? Oui, vous ne bougez plsu et vous appelez à l'aide.
-- Voue allez aussi croiser différents personnages ; prenez le temps de les découvrir, de discuter avec eux, peut-être que vous pouvez les aider, peut-être aussi qu'ils peuvent vous aider dans vos recherches !
-- Attention aux éclairages (guirlandes de LEDs, diodes, bougies) qui peuvent se trouver au sol, évitez de marcher dessus.
+- On ne touche pas aux objets qui sont dans des sacs en toile entièrement noirs, ou attachés avec du scotch noir ; et on évite de déplacer les objets qui ne nous concernent pas ; mieux vaut les laisser sur place et les signaler aux autres joueurs.
+- Si un évènement notable survient (un piège est déclenché, un sceau magique a été activé, une énigme de grimoire a été résolue), faire appel au maître de jeu pour savoir ce qui se passe réellement.
+- Les obstacles faits de cordelette sont infranchissables, tant que le maître de jeu ne les a pas enlevés (souvent suite à une action des joueurs comme un déminage ou un sortilège).
+- Attention aux éclairages (guirlandes de LEDs, diodes, bougies) qui peuvent se trouver au sol, on évite de marcher dessus.
+- Lorsque vous avez utilisé pour de bon un objet - par exemple une clé ou un bijou - SVP mettez-le dans le seau argenté sur la table du buffet, ça nous évitera de le perdre d'ici la fin du jeu.
+- Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des pastilles de couleur sur des objets du jeu, ou bien des plumes colorées.
+- Vous allez aussi croiser différents personnages figurants ; prenez là aussi le temps de les découvrir, de discuter avec eux, peut-être que vous pouvez les aider, peut-être aussi qu'ils peuvent vous aider dans vos recherches !
+- Enfin, vous allez croiser des fantômes errants, faites attention, ils sont très dangereux ; ils peuvent vous blesser ou bien pire ; et que faites-vous si vous êtes blessé, déjà ? Oui, vous ne bougez plus et vous appelez à l'aide.
 
 
 FIGURANTS :
 - Rappel : la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans, et les automates (autrefois conçus par l'inventeur et Octave) vaquent à leurs occupations pour organiser cette fête, même si depuis tous ces siècles, sa raison d'être a beaucoup disparu.
 - Rappel : les avatars/automates et les fantômes ne peuvent interagir ensemble QUE par l'entremise des joueurs, ces 2 mondes ne se voient et s'entendent pas.
+- Lors de la première rencontre avec les joueurs, une des premières questions à leur poser, c'est : en quelle année sommes-nous ?
 - Au début du jeu, après le soulagement de leurs "retrouvailles" indirectes, avatars comme fantômes se demandent mutuellement ce qu'il s'est passé il y a 500 ans lors du drame
 - Les avatars sont désemparés en essayant de protéger les joueurs des dangers invisibles comme la Bête
 - Si on veut vous faire jurer quelque chose "par Zarathoustra", vous pouvez dire ce que vous voulez, et même vous moquer des joueurs, car ce serment ne s'applique pas à vous (avatars ou fantomes), vous ne risquez rien en parjurant avec.

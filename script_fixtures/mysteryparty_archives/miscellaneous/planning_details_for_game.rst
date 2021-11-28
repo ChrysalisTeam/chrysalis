@@ -13,37 +13,37 @@ H-2mn : [Musique] Discours introductif du maitre de jeu, tous ensemble
 
 H : [Musique] Les automates amènent les groupes de joueurs respectivement aux 4 coins de l'étage autorisé, puis vaquent à leurs occupations.
 
+H+2mn : [Frénésie] Se tenir prêt à déclencher la frénésie spectrale lorsqu'un joueur appuie sur la clochette argentée
+
 H+4mn : [Cris] Grognements de la Bête à l'étage, à plusieurs reprises
 
 H+8mn : [Musique] L'avatar scientiste ouvre le buffet, avec les automates (discours dansant)
 
-H+15mn : [Gong] Les fantômes s'incarnent chacun à leur emplacement, l'archiviste interpelle les joueurs qu'il voit
+H+15mn : [Gong] Les fantômes s'incarnent chacun à leur emplacement, et interpellent les joueurs qu'ils voient
 
 H+20mn : [Musique] Se tenir prêt à mettre en scène une Confession de l'Arkonte (discours agenouillé)
 
 H+25mn : [Cris] Grognements de la Bête à l'étage, à plusieurs reprises
 
-H+30mn : [Choeur] Arrivée de l'Ankou en haut des escaliers, ALLUMER le projecteur pendant sa présence
+H+30mn : [Choeur] Discours de l'Ankou en haut des escaliers, ALLUMER le projecteur pendant sa présence
 
-H+40mn : IMPORTANT - Aller allumer les musiques, lumières, et toutes les bougies (car magiques) de l'étage interdit ; y transférer les 2 enceintes noires autonomes MuziliSpeaker (cimetière+alchimie et mini-jungle+gemmologie) pour les mettre aux 2 laboratoires de l'étage interdit avec les bandes son pertinentes
+H+35mn : Le druide doit discrètement voler la clochette spectrale {% fact "druid_must_steal_table_bell_when_usage_understood" %}
 
-H+45mn : [Cloches] Les fantômes repassent en spectre
+H+40mn : IMPORTANT - Aller allumer les musiques, lumières, et toutes les bougies (car magiques) de l'étage interdit ; y transférer les 2 enceintes noires autonomes MuziliSpeaker (cimetière+alchimie et mini-jungle+gemmologie) pour les mettre aux 2 laboratoires de l'étage interdit, avec les bandes son pertinentes
 
-H+55mn : [Gong] Les fantômes repassent en incarné
+H+45mn : [Cloches] Les fantômes repassent en spectre pour 2 minutes, puis [Gong]
 
 H+55mn : [Musique] Se tenir prêt à mettre en scène l'arrivée de la Bête, lorsque l'étage interdit sera ouvert
 
 H+60mn : [Musique] Se tenir prêt à mettre une bande son instrumentale lorsque les joueurs pénètrent dans l'étage interdit. Le fantôme du voleur y commence alors son errance, avec les gants bleus et le masque à LED
 
-H+1h20 : [Choeur] Si les joueurs n'ont toujours pas ouvert l'étage interdit, l'Ankou vient leur donner des indices sur la façon d'accéder au symbole nécessaire (il est en ultraviolet dans la mallette administrative noir, dont le code est murmuré par le {% symbol "Venture Prins" for "small_wooden_fake_book_name" %})
+H+1h20 : [Choeur] Si les joueurs n'ont toujours pas ouvert l'étage interdit, l'Ankou vient leur donner des indices sur la façon d'accéder au symbole nécessaire (symbole en ultraviolets dans la mallette administrative noir, dont le code est murmuré par le {% symbol "Venture Prins" for "small_wooden_fake_book_name" %})
 
-H+1h40 : [Cloches] Les fantômes repassent en spectre
+H+1h40 : [Cloches] Les fantômes repassent en spectre pour 2 minutes, puis [Gong]
 
-H+1h50 : [Gong] Les fantômes repassent en incarné
+H+2h20 : [Cloches] Les fantômes repassent en spectre pour 2 minutes, puis [Gong]
 
-H+2h20 : [Cloches] Les fantômes repassent en spectre
-
-H+2h30 : [Gong] Les fantômes repassent en incarné
+H+X : SEULEMENT SI les joueurs ont bien progressé (voir avec le MJ), le druide doit laisser les joueurs trouver la sacoche de ceinture faussement compromettante {{% fact "druid_makes_conspiracy_against_arkon" %}
 
 H+X : [Musique] Se tenir prêt à mettre en scène la cérémonie d'initiation d'Octave en musique
 
@@ -53,9 +53,9 @@ H+X : [Musique] Se tenir prêt à mettre en scène le démasquage du traître (d
 
 H+X : [Musique] Se tenir prêt à mettre en scène l'intrusion dans le tombeau du mage
 
-H+X : Le druide va s'asseoir près du pentacle, l'air ravi, avec de gros grimoires qu'il dit prometteurs
+H+X : Le druide va s'asseoir près du pentacle, l'air ravi, avec de gros grimoires qu'il proclame comme prometteurs
 
-H+X : L'arkonte briefe le diacre qui se prépare à affronter le druide en terminant le rituel, les avatars décident de retourner dans leurs univers pour ne pas être en danger
+H+X : L'arkonte briefe le diacre qui se prépare à affronter le druide en terminant le rituel, les avatars décident de retourner dans leurs univers pour ne pas être en danger.
 
 H+X : [Musiques] Se tenir prêt à déclencher les 3 phases de la musique de bataille finale, suivant que le druide est encore plongé dans ses grimoires (phase 1), puis attaque le diacre suite au début du rituel (phase 2), puis après 1 minute s'effondre (phase 3, entrée en scène de l'arkonte) ; si le diacre se dégonfle durant le rituel, la phase 2 continue jusqu'à ce que la situation soit retombée (un joueur tué "pour l'exemple" par le druide, auquel cas la musique d'arrête ; ou bien le druide tué par un autre moyen, ce dernier cas déclenchant la phase 3 de la musique)
 

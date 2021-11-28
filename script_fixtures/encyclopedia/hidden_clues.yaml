@@ -1,6 +1,20 @@
 
 static_pages:
 
+    spectral_table_bell:
+        title: "Clochette spectrale"
+        categories: ["magie"]
+        clue_code: "vbr"
+        keywords: []
+        content: |
+
+            Cette clochette est porteuse d'une magie très étrange, presque divine, que vous n'êtes pas capable d'altérer.
+
+            Elle semble dédiée à agir comme un signal de rappel pour les entités du monde des morts qui seraient dans les parages. Un signal assez fort pour les faires passer en errance spectrale, si par hasard ils étaient actuellement incarnés.
+
+            Vous ne pouvez dire si elle est actuellement chargée ou déchargée.
+
+
     mos_peratys_tomb_curse:
         title: "Malédiction de la tombe du mage Mos Peratys"
         categories: ["magie"]
