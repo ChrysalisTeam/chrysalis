@@ -27,7 +27,7 @@ Les ingrédients que vous possédez
 - Huile de ricin
 - Filtrat de marée lunaire
 
-*NOTE hors-jeu: Ces ingrédients-là ne sont pas pas spécifiquement matérialisés en jeu, simulez-les avec une de vos fioles quelconques.*
+*NOTE hors-jeu: Ces ingrédients-là ne sont pas spécifiquement matérialisés en jeu, simulez-les avec une de vos fioles quelconques (des fioles génériques peuvent être fournies par les organisateurs).*
 
 
 Les ustensiles que vous possédez
@@ -35,7 +35,7 @@ Les ustensiles que vous possédez
 
 **Au domicile familial** : Agitateur aluminique, Alambic en cuivre, Balance à plombs, Chaudron en fer, Cristallisoir, Pilon, Thermomètre à mercure, Fioles jaugées en cristal.
 
-**Sur vous lors de votre expédition** : fioles vides pour faire des mélanges. {% hint "empty_flasks_for_alchemist" is needed %}
+**Sur vous lors de votre expédition** : fioles vides pour faire des mélanges (des fioles génériques peuvent être fournies par les organisateurs). {% hint "empty_flasks_for_alchemist" is needed %}
 
 
 Les recettes que vous connaissez déjà

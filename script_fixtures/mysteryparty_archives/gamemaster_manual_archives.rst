@@ -587,7 +587,7 @@ Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux
 
 Les joueurs sont très démunis face aux diverses blessures, ils n'ont PAS de compétences en ce sens. {% fact "players_have_no_medecine_abilites" %}
 
-**Guérisons par des avatars** : Toutes les blessures peuvent être guéries par des avatars, mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant à la mort du joueur){% fact "avatar_abilities_are_randomly_hazardous" %}. Dans tous les cas, les avatars doivent d'abord laisser le joueur avec ses blessures pendant 5-10mn, le temps de "rassembler ce qu'il faut pour le soigner". Puis ils procèdent à une opération ou un rituel - **à inventer pour l'occasion**.
+**Guérisons par des avatars** : Toutes les blessures peuvent être guéries par des avatars, mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant alors à la mort du joueur - tirer cela au dé avec le maître de jeu){% fact "avatar_abilities_are_randomly_hazardous" %}. Dans tous les cas, les avatars doivent d'abord laisser le joueur avec ses blessures pendant quelques minutes, le temps de "rassembler ce qu'il faut pour le soigner". Puis ils procèdent à une opération ou un rituel - **à inventer pour l'occasion**.
 
 - La **duchesse** peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour réparer une blessure sacrée (touchant l'âme). {% fact "duchess_can_dangerously_heal_sacred_injuries" %}
 - Le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques. {% fact "druid_can_dangerously_heal_limited_injuries" %}
@@ -726,10 +726,6 @@ Planification des prophéties et intuitions
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro planning_of_prophecies() %}
-
-{% hint 'npc_responsible_for_prophecies_monitoring' is needed %}
-
-*Durant l'ensemble du jeu, il est important qu'un figurant soit affecté à la gestion des éléments de clairvoyance à transmettre au joueur Oracle, au bon moment. La prophétie n'a pas besoin de se déclencher tout de suite quand une plume est trouvée, il peut être bon d'attendre le moment opportun pour la divulguer à l'Oracle.*
 
 - **Intuition initiale sur la Bête** (avant l'entrée en jeu) : *"Vous sentez de multiples présences errantes, et parmi elles une remplie d'incompréhension et de haine. Vous sentez aussi une vieille présence endormie, à la fois fière et vindicative, qui semble vous appeler à elle."*
 

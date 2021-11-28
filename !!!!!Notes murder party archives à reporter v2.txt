@@ -8,9 +8,71 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 
 
+
 TODO RESTANT
 ================
 
+
+
+
+
+livre bleu : code 425
+
+dire grosse corde est infranchissable !
+
+demander aux autres joueurs ce qu'ils font là, ce qu'ils savent faire
+ne touchez pas aux objets dans sacs en tissu noir !
+figurants : pensez à demander en quelle année on est
+
+faire symboles UV et MAgnet
+
+etiquettes avec noms sur les tombes !!
+etiquettes : mallette administrative des maupertuis, coffre familial des maupertuis, coffre légendaire des maupertuis
+
+prevenez le maitre de jeu quand evenement survient, sceau activé, énigme de grimoire résolue, etc.
+
+dire aux automates comment trouver les livrets de potions
+
+parcival : qui indique que les élements doivent avoir des noms alternatifs ??
+Indices :
+Si les Parcival cherchent des ingrêdient des 2 potions de l'étage
+
+agents secret :
+être plus explicite sur le moulin dans lettre de mérédice, perlé de cet outil caché en pleine vue de tous
+etre plus explicite sur les origines des 4 signes attendus par enigme du moulin
+
+explorateurs:
+archiviste doit dire : thanathologue caché en haut !!
+
+oracle : mieux repartir plumes entre etage du bas et du haut !!
+
+
+
+
+
+codes magnetiques :
+- symbole amplificans sur tombeau mage
+
+rajouter jeu au sondeur
+
+dans quoi mettre chandelles debout ? engrenages ?
+
+cadenas transparent sur valise du thanathologue plutot
+
+collier d'or pour fantome arkonte
+
+
+
+
+
+TODO:
+- MAJ de "journal intime" Octave à imprimer
+
+il faut un système sonore à l'étage pour les cris de bête et le jingle de l'ankou !!
+
+Redire ce qu'est un sceau !!
+
+Expliquer comment marche transcription runique"
 
 Imprimer plan ?? déjà fait ??
 
@@ -18,7 +80,7 @@ Charger musiques maudites sur tablette ? Deja fait ??
 
 Amener lecteur SD-card là bas !!     DONE
 
-
+Faire porter DENTELLES BLANCHES aux automates !!!
 
 Trouver panier des objets précieux !
 
@@ -55,29 +117,34 @@ COMPLEMENTS DE BRIEFING POUR DIVERS PARTICIPANTS
 =================================================
 
 JOUEURS :
+- C'est le moment ou jamais de relire votre fiche de personnage ; si vous ne savez pas clairement qui vous êtes, ce que vous venez faire ici, et vos différentes compétences spéciales, cela va énormément vous handicaper dans ce jeu.
 - Si vous êtes touché par un ennemi ou un piège, vous devez vous arrêter, vous mettre au sol, et appeler à l'aide en simulant que vous êtes blessé.
-- Attention aux éclairages (guirlandes de LEDs, diodes qui) peuvent se trouver au sol, évitez de marcher dessus
+- Vous allez croiser des fantômes errants, faites attention, ils sont très dangereux ; ils peuvent vous blesser ou bien pire ; et que faites vous si vous êtes blessé, déjà ? Oui, vous ne bougez plsu et vous appelez à l'aide.
+- Voue allez aussi croiser différents personnages ; prenez le temps de les découvrir, de discuter avec eux, peut-être que vous pouvez les aider, peut-être aussi qu'ils peuvent vous aider dans vos recherches !
+- Attention aux éclairages (guirlandes de LEDs, diodes, bougies) qui peuvent se trouver au sol, évitez de marcher dessus.
+
 
 FIGURANTS :
-- Rappel : la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans, et les automates (autrefois conçus par l'inventeur et Octave) vaquent à leurs occupations pour organiser cette fête, même si depuis sa raison d'être a beaucoup disparu
+- Rappel : la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans, et les automates (autrefois conçus par l'inventeur et Octave) vaquent à leurs occupations pour organiser cette fête, même si depuis tous ces siècles, sa raison d'être a beaucoup disparu.
 - Rappel : les avatars/automates et les fantômes ne peuvent interagir ensemble QUE par l'entremise des joueurs, ces 2 mondes ne se voient et s'entendent pas.
-- Au début du jeu, après le soulagement des "retrouvailles" indirectes, avatars comme fantômes se demandent mutuellement ce qu'il s'est passé il y a 500 ans lors du drame
+- Au début du jeu, après le soulagement de leurs "retrouvailles" indirectes, avatars comme fantômes se demandent mutuellement ce qu'il s'est passé il y a 500 ans lors du drame
 - Les avatars sont désemparés en essayant de protéger les joueurs des dangers invisibles comme la Bête
 - Si on veut vous faire jurer quelque chose "par Zarathoustra", vous pouvez dire ce que vous voulez, et même vous moquer des joueurs, car ce serment ne s'applique pas à vous (avatars ou fantomes), vous ne risquez rien en parjurant avec.
-- Les fantômes sont reconnaissables à leur tunique pourpre, similairement les avatars sont reconnaissables au **maquillage sur le visage et aux bandeaux de dentelles blanche**
+- Les fantômes sont reconnaissables à leur tunique pourpre, les autoamtes à leurs **bandeaux de dentelle blanche** ; les avatars n'ont pas de signe distinctif particulier
 - Les DISCOURS LONGS des figurants peuvent être soufflés dans l'oreille par une oreillette (sur lecteur MP3), avec 1-2 secondes d'avance sur la musique, pour éviter tout oubli ; vérifier que le son grave de piano est bien synchronisé, au lancement simultané des 2 bandes son (musique et voix)
 
 L'ANKOU :
-- Si on lui demande, les défunts Maupertuis vont "tous bien"
+- Tu informes les joueurs que les fantômes sont PRISONNIERS de ce lieu au lieu de rejoindre l'au-delà
+- Tu préviens que les défunts Maupertuis (la famille d'Octave) vont "tous bien" dans l'au-delà, qu'ils ont bien envie de retrouver Octave, et qu'ils se tiennent à disposition en cas de besoin pour aider les aventuriers
 
 FANTÔMES :
 - Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés"
-- Vous passez errance lorsque les CLOCHES retentissent (ou la clochette de frénésie) ; vous repassez en incarné lors du GONG
-- Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage, et que vous ne pouvez rejoindre l'au-delà ; mais vous pouvez aller à l'étage interdit s'il est ouvert
-- AILES de l'épilogue : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
-
+- Vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie) ; vous repassez en incarné lors du GONG
+- Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage, et que vous ne pouvez rejoindre l'au-delà ; vous le dites aux joueurs ; mais vous pouvez aller à l'étage interdit s'il est ouvert
+- AILES de l'épilogue, les TESTER aavant : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
 
 AVATARS :
+- Vous avez tous des talents pour guérir tel ou tel type de blessure, relisez la section sur les blessures des joueurs, dans les Compléments des Figurants
 - Inventez vos propres petits rituels de soin pour les joueurs !
 
 AUTOMATES :
@@ -95,19 +162,20 @@ OCTAVE :
 - Tu avais un vieux livre favori avec des animaux qui courent, en illusion d'optique
 
 DRUIDE :
+- Répéter avec l'arkonte, AVANT le jeu, la chorégraphie exacte de la bataille finale
 - Si les joueurs font mine de fouiller la TERRE de la mini-jungle, tu t'énerves au motif qu'ils saccagent tout et que la Nature est sacrée
 - Avoir une posture prévue si le Tome 3 du roman du druide (qui l'accable) est trouvé trop tôt : dire soit que le livre est faux, soit que le druide a changé de comportement par la suite, dans un autre roman de rédemption, et que ces crimes étaient juste des "erreurs de jeunesse"
-- Répéter avec l'arkonte, avant le jeu, la chorégraphie de la bataille finale
-- Tu dois, vers la fin du jeu, récupérer des gros livres/grimoires pour les lire tranquillement non loin du pentacle (voir le maitre de jeu pour çà)
+- Tu dois, vers la fin du jeu, récupérer des gros livres/grimoires pour les lire tranquillement non loin du pentacle, après avoir annoncé avec vantardise que tu étais sur le point de trouver un sortilège pouvant briser la Clôture Absolue (voir le maitre de jeu pour çà)
 
 INVENTEUR :
-- Répéter avant le jeu l'ouverture du bande son avec le discours et la musique préparés
+- Répéter avant le jeu l'ouverture du banquet, avec le discours et la musique préparés
 
 DUCHESSE :
-- Répéter avant le jeu le démasquage du traître avec le discours et la musique préparés
+- Répéter avant le jeu le démasquage du traître, avec le discours et la musique préparés
 
 VOLEUR :
 - Petit changement, le corridor de l'étage interdit est toxique DEPUIS TOUJOURS, pas à cause d'une lutte et de potions renversées durant la mort du voleur
+- Tu dois te trouver "encré" non loin la niche de la Bête, et expliquer aux joueurs ce qu'elle est
 
 
 

@@ -35,7 +35,7 @@ H+55mn : [Musique] Se tenir prêt à mettre en scène l'arrivée de la Bête, lo
 
 H+60mn : [Musique] Se tenir prêt à mettre une bande son instrumentale lorsque les joueurs pénètrent dans l'étage interdit. Le fantôme du voleur y commence alors son errance, avec les gants bleus et le masque à LED
 
-H+1h20 : [Choeur] Si les joueurs n'ont toujours pas ouvert l'étage interdit, l'Ankou vient leur donner des indices sur la façon d'accéder au symbole nécessaire (il est en ultraviolet dans la mallette administrative noir, dont le code est murmuré par le Venture Prins)
+H+1h20 : [Choeur] Si les joueurs n'ont toujours pas ouvert l'étage interdit, l'Ankou vient leur donner des indices sur la façon d'accéder au symbole nécessaire (il est en ultraviolet dans la mallette administrative noir, dont le code est murmuré par le {% symbol "Venture Prins" for "small_wooden_fake_book_name" %})
 
 H+1h40 : [Cloches] Les fantômes repassent en spectre
 

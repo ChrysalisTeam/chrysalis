@@ -31,8 +31,8 @@ Attention en outre au fait que **les avatars ne peuvent pas manipuler de romans*
 <{ explanation_of_different_worlds }/>
 
 
-Les blessures des joueurs durant le jeu
-==========================================
+Les blessures et soins des joueurs durant le jeu
+===================================================
 
 <{ injury_cases_and_remedies }/>
 
