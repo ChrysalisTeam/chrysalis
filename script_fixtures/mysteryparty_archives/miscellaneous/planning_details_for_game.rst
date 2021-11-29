@@ -9,7 +9,7 @@ H-30mn : Chaque groupe de joueurs est briefé à part, pour vérifier :
 - qu'ils ont leurs vêtements et leurs objets dédiés
 - qu'ils sont d'accord entre eux sur la façon de jouer leurs devises et gestes symboliques.
 
-H-15mn : Vérifier que tous les systèmes audio/vidéo sont soit activés (si recoins standard), soit prêts à l'être (si emplacement de fantôme), aux deux étages ; aucune bougie ne doit être allumée, SAUF dans le tombeau du mage
+H-15mn : Vérifier que tous les systèmes audio/vidéo sont soit activés (si étage autorisé), soit prêts à l'être (si étage interdit), aux deux étages ; attention à bien allumer à chaque fois enceinte, lecture MP3 (sur la bonne piste pour les MuziliSpeaker noirs), voire batterie externe, le cas échéant. Régler les volumes sonores pour que chaque ambiance n'empiète pas sur le reste de la salle. Aucune bougie ne doit être allumée, SAUF dans le tombeau du mage qui doit être bien illuminé. Laisser le projecteur de l'escalier éteint.
 
 H-10mn : Les avatars doivent être prêts à se disperser dans la bibliothèque, et les fantômes à errer spectralement ; mais ces figurants peuvent écouter le discours introductif de loin ; certains automates peuvent être déjà dispersés
 
@@ -19,9 +19,9 @@ H-10mn : Briefing commun des joueurs, où l'on rappelle
 - les principales règles (en particulier la sécurité physique et psychologique)
 - la présence des toilettes
 - la présence du photographe (redemander à tous si OK pour droit à l'image)
-- les "INSTRUCTIONS COMPLEMENTAIRES DES JOUEURS"
 - la présence du terminal web des indices et des traductions runiques
 - l'utilisation du "seau argenté des objets utilisés" (ex. pour les clés utilisés) {% hint 'basket_for_precious_items' is needed %}
+- les "INSTRUCTIONS COMPLEMENTAIRES DES JOUEURS"
 
 H-5mn : [Musique] Discours introductif du maitre de jeu, tous ensemble
 
@@ -39,13 +39,13 @@ H+15mn : [Gong] Les fantômes s'incarnent chacun à leur emplacement, et interpe
 
 H+20mn : [Musique] Se tenir prêt à mettre en scène une Confession de l'Arkonte (discours agenouillé)
 
-H+25mn : [Cris] Grognements de la Bête à l'étage, à plusieurs reprises
+H+23mn : [Cris] Grognements de la Bête à l'étage, à plusieurs reprises
 
-H+30mn : [Choeur] Discours de l'Ankou en haut des escaliers, ALLUMER le projecteur pendant sa présence
+H+25mn : Le druide doit discrètement voler la clochette spectrale AVANT l'arrivée de l'Ankou {% fact "druid_must_steal_table_bell_when_usage_understood" %}
 
-H+35mn : Le druide doit discrètement voler la clochette spectrale {% fact "druid_must_steal_table_bell_when_usage_understood" %}
+H+30mn : [Choeur] Discours de l'Ankou en haut des escaliers, ALLUMER le projecteur pendant sa présence, et le liasser allumer par al suite.
 
-H+40mn : IMPORTANT - Aller allumer les musiques, lumières, et toutes les bougies (car magiques) de l'étage interdit ; y transférer les 2 enceintes noires autonomes MuziliSpeaker (cimetière+alchimie et mini-jungle+gemmologie) pour les mettre aux 2 laboratoires de l'étage interdit, avec les bandes son pertinentes
+H+40mn : IMPORTANT - Aller allumer les musiques, lumières, et toutes les bougies (car magiques) de l'étage interdit (SAUF la fontaine à encens) ; y transférer les 2 enceintes noires autonomes MuziliSpeaker (cimetière+alchimie et mini-jungle+gemmologie) pour les mettre aux 2 laboratoires de l'étage interdit, avec les bandes son pertinentes
 
 H+45mn : [Cloches] Les fantômes repassent en spectre pour 2 minutes, puis [Gong]
 

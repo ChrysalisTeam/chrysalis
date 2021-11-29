@@ -657,10 +657,10 @@ Un joueur sonnera probablement la clochette de service, par curiosité, en débu
 {% macro ankou_introduction_event() %}
 
 
-Le passage de l’Ankou dans la bibliothèque
+Le passage de l'Ankou dans la bibliothèque
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
-L’Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils n’ont rien à faire ici, qu’il n’est pas “la Bête”, qu’il ne leur veut pas de mal, puis finalement qu’il compte sur eux pour l'aider à résoudre le problème de ces âmes prisonnières des lieux. Puis il repart.
+L'Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils n’ont rien à faire ici, qu’il n’est pas “la Bête”, qu’il ne leur veut pas de mal, puis finalement qu’il compte sur eux pour l'aider à résoudre le problème de ces âmes prisonnières des lieux. Il s'enquiert de la présence de sa clochette spectrale, qui doit déjà avoir été dérobée par le méchant. Puis il repart.
 
 {% endmacro %}
 <{ ankou_introduction_event }/>
@@ -733,7 +733,7 @@ Planification des prophéties et intuitions
 
 - **Prophétie du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte) : Vision simple, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 1.mp3". {% hint 'feather_in_arkon_bag' is needed %}
 
-- **Prophétie du crâne de l’arkonte et du danger planétaire** (si allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 2.mp3"
+- **Prophétie du crâne de l’arkonte et du danger planétaire** (plume puis allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 2.mp3"
 
 - **Intuition sur la dernière bataille** (lorsque le méchant est démasqué) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un toureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire le taureau. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."*
 
@@ -803,8 +803,12 @@ Pour neutraliser la Bête :
 {# NOPE - **L'alchimiste** peut trouver une potion capable de réaliser un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} pendant une journée sur u #}
 
 
+
+
 Le remède contre la dégénérescence marbrée (famille Parcival)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+{% macro parcival_group_main_quest() %}
 
 - L'archiviste se souvient très bien de la maladie de Mérédice de Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l'étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
@@ -823,22 +827,27 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 - Une fois tous les ingrédients rassemblés (pas besoin de préparer effectivement les potions), la famille a réussi cette mission, à condition qu’elle puisse quitter les lieux.
 
+{% endmacro %}
+<{ parcival_group_main_quest }/>
+
 
 Le trésor des Maupertuis (les agents secrets mirandiens)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+{% macro spy_group_main_quest() %}
 
 Les agents secrets sont sur les traces du "trésor" supposé de la famille Maupertuis, jamais exhumé à ce jour.
 
 Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langage énigmatique comment lorsqu'un grimoire se met à chanter, grâce à des symboles changeants, quelque chose tourne et les richesses apparaissent. {% hint "meredice_diary_about_treasure_for_spy_group" is needed %}
 
 Un oracle déclenché dans le domaine interdit montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques. {% hint "parcival_oracle_vision_about_water_mill" is needed %}
-Un stéréogramme au mur montre par ailleurs un moulin à café avec un mot caché de remerciement {% hint "grinding_mill_stereogram_picture_with_magnetic_code" is needed %}.
+Un stéréogramme au mur montre par ailleurs un moulin à café avec un double mot caché de remerciement {% hint "grinding_mill_stereogram_picture_with_magnetic_and_uv_code" is needed %}.
 
 Les joueurs doivent comprendre qu’il s’agit d’un moulin à café simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit. {% hint "grinding_mill_with_enchantment" is needed %}
 
 Ce moulin, capable de générer des pierres précieuses à partir de rien, nécessite en réalité un chant issu d'un grimoire magique, pour fonctionner.
 Optionnellement, il faut activer un sceau dans l'étage interdit pour faire apparaître ce grimoire magique.
-Cet ouvrage est protégé par un code qui change tous les quelques jours. {% hint "symbolic_cards_enigma_app" is needed %}
+Cet ouvrage est protégé par un code qui change tous les quelques jours. {% hint "symbolic_cards_enigma_app" is needed %} {# TODO TELL THAT TO FANTOMS #}
 
 Le code est constitué de symboles répartis entre 4 bijoux (indestructibles) des Maupertuis. 3 bijoux seulement suffisent à activer la chanson, car le dernier symbole peut se trouver *relativement* rapidement par essai et erreur sur le code du grimoire chantant.
 
@@ -846,7 +855,7 @@ Les différents bijoux :
 
 - La broche de la mère de famille se trouve sur la **tombe d’Octave**, qui l’avait portée en souvenir après l'avoir retrouvée dans la bibliothèque ; cette broche était quasiment tout ce qui restait dans les cendres de l’enfant après la trahison, les avatars l’ont donc déposée là en signe de deuil. Cet objet doit guider les joueurs dans la compréhension de l’énigme globale. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %} {% fact "octave_carried_mother_jewel_after_her_death" %}
 
-- La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Le **détecteur de magnétisme** donne un code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier.
+- La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Le **détecteur de magnétisme et d'UV** donnent un code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier.
   {% hint "maupertuis_father_jewel_in_twin_books" is needed %} {% hint "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
 
 - La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont cachés dans un SCEAU d'initiation. Il s’agissait d’une épreuve pour Octave, qui devait être capable de “sentir” la présence de l’objet magique avant d’y avoir droit. Les joueurs doivent activer le sceau, écouter le message pré-enregistré d'un automate qui leur résume l'épreuve, puis utiliser le **détecteur de métal** pour deviner le coffret qui a l’objet. Seul un héritier Maupertuis peut effectivement déclencher la résolution de cette initiation. {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% fact "only_maupertuis_heirs_can_take_initiation" %} {% hint 'maupertuis_initiation_seal' is needed %} {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}
@@ -858,9 +867,14 @@ Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de v
 
 Avec le moulin magique et le grimoire chantant, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
+{% endmacro %}
+<{ spy_group_main_quest }/>
+
 
 Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+{% macro explorer_group_main_quest() %}
 
 Un des rares exemplaires de cet ouvrage mythique et controversé a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste devrait indiquer aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% hint "family_legendary_chest_protected_by_double_key" is needed %} {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
 
@@ -894,6 +908,9 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 - Dans le tombeau se trouve entre autres, sur la dépouille du mage, la {% symbol "Bague Amplificans" for "ring_amplificans_name" %}. {% hint 'ring_amplificans' is needed %}
 
 - Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, car ils ont quelques invocateurs dans leur armée ; à condition qu’ils puissent quitter les lieux, bien sûr.
+
+{% endmacro %}
+<{ explorer_group_main_quest }/>
 
 
 Neutraliser le méchant  

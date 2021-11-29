@@ -67,7 +67,7 @@
     - "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
     - "2 bougies sur chandelier (chacun 2xAA)"
     - "@ENORMES Gramophone (alimentation: 12V)"
-    - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement POSITIF [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}])"
+    - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}])"
     - "Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %}"
 
 -
@@ -160,7 +160,7 @@
     - "Portrait de la fille des Maupertuis (Mérédice) avec message UV : \"Adieu soeurette, qui mourra verra (signé Octave)\""
     - "Portrait du fils des Maupertuis (Octave) avec message UV : \"Tu ne retrouveras jamais tes sousous, frérot ! (signé Mérédice)\""
     - "Portrait de jeune fille en illusion d'optique lenticulaire"
-    - "Cadre de remerciement (en message magnétique + message UV) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
+    - "Cadre de remerciement (en message magnétique + message UV) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_and_uv_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
     - "@GENERAL Plume de prophétie sur ce cadre de remerciement {% hint 'feather_on_stereogram_board' is provided %}"
 
 -
@@ -212,7 +212,7 @@
     - "@BOUTEILLES 2 flacons-bouteilles de condiments : Curcuma et Coriandre"
     - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
     - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
-    - "Fontaine à encens à LED (éteinte et sans cône d'encens) {% hint 'incense_fountain' is provided %}"
+    - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %}"
     - "Objets décoratifs : 2 grandes gourdes cylindriques et théière en cuivre, pichet en zinc"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis le cimetière après ouverture de l'étage interdit"
 
