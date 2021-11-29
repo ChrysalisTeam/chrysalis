@@ -160,7 +160,7 @@
     - "Portrait de la fille des Maupertuis (Mérédice) avec message UV : \"Adieu soeurette, qui mourra verra (signé Octave)\""
     - "Portrait du fils des Maupertuis (Octave) avec message UV : \"Tu ne retrouveras jamais tes sousous, frérot ! (signé Mérédice)\""
     - "Portrait de jeune fille en illusion d'optique lenticulaire"
-    - "Cadre de remerciement (en code magnétique) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
+    - "Cadre de remerciement (en message magnétique + message UV) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
     - "@GENERAL Plume de prophétie sur ce cadre de remerciement {% hint 'feather_on_stereogram_board' is provided %}"
 
 -

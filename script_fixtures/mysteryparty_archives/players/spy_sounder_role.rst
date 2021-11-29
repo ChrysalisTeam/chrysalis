@@ -25,7 +25,7 @@ Détecteur de magnétisme
 
 Vous disposez d'une petite feuille qui réagit aux champs magnétiques. Initialement destinée à comprendre la structure interne de certaines serrures originales, elle s'est révélée encore plus utile pour déchiffrer d'étranges inscriptions de la lignée Maupertuis. Visiblement, leur magie runique a laissé une trace magnétique dans **certains papiers, tableaux, ou livres**. Bonne nouvelle pour vous.
 
-*NOTE hors-jeu : En posant ou en faisant coulisser la feuille de détection sur des surfaces précises, vous pouvez y voir des lignes de champ magnétique, révélant soit des inscriptions, soit plus subtilement la présence de systèmes d'ouverture magnétiques.*
+*NOTE hors-jeu : En posant ou en faisant coulisser la feuille de détection sur des surfaces précises, vous pouvez y voir des lignes de champ magnétique, révélant soit des inscriptions, soit plus subtilement la présence de systèmes d'ouverture magnétiques. Si les inscriptions sont un code à trois chiffres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification.*
 
 
 Sensibilité au surnaturel
