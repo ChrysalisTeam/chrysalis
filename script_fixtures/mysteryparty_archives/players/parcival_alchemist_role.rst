@@ -67,6 +67,8 @@ Mais si on y dissout une pierre de Chrysocolle, la potion résultante donne un r
 Encens prophétique
 -----------------------
 
+{% fact "parcival_alchemist_can_create_incense_cone" %}
+
 Vous aimeriez aider les talents de prophète de votre proche l'Oracle, et certains lieux sacrés de révélation requièrent de brûler un cône d'encens bien particulier pour que le mysticisme s'active.
 
 Vous savez qu'il est nécessaire de faire fondre un "oeil-de-tigre" et une "aventurine" (des ingrédients que vous ne connaissez pas) dans un chaudron, avec de l'huile de ricin, pour obtenir cet encens une fois le mélange refroidi.
