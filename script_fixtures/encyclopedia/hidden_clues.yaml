@@ -182,3 +182,27 @@ static_pages:
             Ils portent des traces de morsures de canines, et certains ont été brisés pour en extraire la moelle.
 
             Aucune trace de maladie ou de poison, mais des déformations probablement dues à un alcoolisme persistant.
+
+    thief_wallet_scroll_analysis:
+        title: "Analyse du parchemin du portefeuille du voleur"
+        categories: ["analyse"]
+        clue_code: "yal"
+        keywords: []
+        content: |
+
+            Ce parchemin de la guilde des voleurs cache un double message magnétique, l'un facilement accessible
+            et sans signification, l'autre enfoui plus profondément dans le papier.
+
+            Par corrélation des signaux faibles, vous identifiez un nombre ainsi dissimulé : **1 5 9**
+
+    scary_lenticular_painting_analysis:
+        title: "Analyse du portrait lenticulaire effrayant de jeune fille"
+        categories: ["analyse"]
+        clue_code: "vpx"
+        keywords: []
+        content: |
+
+            Ce portrait change de visage selon l'angle sous lequel on le regarde. Et sous certains angles très subtils,
+            des messages en vieille langue régionale apparaissent.
+
+            Traduction approximative : **"Méfie-toi, ô ambitieux initié, les colliers éthériques sont puissants, très puissants, trop puissants, et ils peuvent sur le long terme corrompre l'ego même du plus sage des humains. Mais à court terme, cela est sûr, ils te feront toucher du doigt l'invincibilité et l'éternité."**
