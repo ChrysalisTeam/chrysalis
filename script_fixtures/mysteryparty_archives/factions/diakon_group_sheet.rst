@@ -12,6 +12,8 @@ Il y a {% symbol "500 ans" for "library_initial_events_timedelta" %}, votre ordr
 
 Cependant, quelques jours plus tôt, l'oracle du monastère a reçu des visions mystiques, la prévenant qu'une bête ivre de rage, et des âmes en peine, étaient prisonnières dans la périphérie du manoir des Maupertuis. Votre petite équipe s'y est donc rendue sans tarder.
 
+{# TODO PRECISER OBJECTIFS DES DIACRES #}
+
 Vos investigations initiales n'ont rien donné.
 <{ monolith_found_by_explorers }/>
 

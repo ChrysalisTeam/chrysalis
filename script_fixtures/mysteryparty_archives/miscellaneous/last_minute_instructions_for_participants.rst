@@ -59,22 +59,24 @@ AVATARS :
 AUTOMATES :
 
 - Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **rubans de dentelle blanche** autour du cou et des poignets
-- Au début du jeu, vous pouvez pour certains être INACTIFS, au sol, jusqu'à ce que l'inventeur ne vous allume (les avatars doivent évidemment trouver cela normal)
-- Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le piège reste en place dans tous les cas
+- Vous devez accompagner les groupes de joueurs jusqu'à leurs points de départ, juste après le briefing collectif du début
+- Lorsque le jeu commence vraiment, vous pouvez pour certains être INACTIFS, au sol, jusqu'à ce que l'inventeur ne vous allume (les avatars doivent évidemment trouver cela normal)
+- Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le piège reste cependant en place (sauf si le MJ en dit autrement)
 
 - La malédiction des automates:
   Lorsque, bien plus tard, les joueurs arrivent à accéder au {% symbol "Thanatologue" for "book_of_the_dead" %}, il est POSSIBLE de déclencher une bande-son intense lors de la première ouverture de ce grimoire maudit.
   Les automates de service deviennent alors possédés, et claudiquent vers les joueurs, en battant des bras, et en ressassant "Mort aux hérétiques !".
   Les joueurs doivent alors les éviter jusqu'à la fin de la bande-son ; à ce moment-là, les automates redeviennent normaux, et reprennent leurs tâches habituelles.
 
-- vers la fin du jeu, après la mort du méchant, rassemblez les joueurs en bas des escaliers.
-- Après le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails vers la surface vont bientôt se refermer.
+- vers la fin du jeu, après la mort du méchant, rassemblez les joueurs en bas des escaliers en attendant l'épilogue.
+- Après le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails de transplanage vers la surface vont bientôt se refermer.
 - Prenez des photographies durant le jeu, si possible, SVP !
 
 OCTAVE et ARCHIVISTE :
 
-- Vous pouvez être peinés de réaliser, à un moment, que les diacres appartiennent précisément au culte de Bahamoot qui a fait saccager le manoir des Maupertuis jadis
+- Vous pouvez être tristes de réaliser, à un moment, que les diacres appartiennent précisément au culte de Bahamoot qui a fait saccager le manoir des Maupertuis jadis
 - Octave avait un vieux livre favori avec des animaux qui courent, en illusion d'optique (utile pour l'énigme de la {% symbol "Boîte à Murmure" for "whispering_box" %} de Mérédice)
+- L'archiviste sait où est gardé le grimoire maudit appelé {% symbol "Thanatologue" for "book_of_the_dead" %}
 - Bien mémoriser la forme (faux-livre épais en bois marron) et la localisation approximative du {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}, qui murmure le code de la mallette administrative noire des Maupertuis
 
 - Pour la quête des Parcival :

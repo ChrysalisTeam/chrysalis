@@ -3,11 +3,17 @@ PLANNING DETAILLÉ DU JEU
 
 *Planning théorique des évènements, à revalider au fur et à mesure avec le maître de jeu, suivant l'état d'avancement des joueurs dans les quêtes. Les prophéties ont leur propre planning, géré par la duchesse qui encadre le joueur Oracle.*
 
-H-30mn : Chaque groupe de joueurs est briefé à part, pour vérifier :
+H-30mn : Briefing par groupe des joueurs, le MJ passe pour distribuer les objets manquants et répondre aux questions
 
-- qu’ils n’ont pas de questions sur leurs rôles et compétences spécifiques
-- qu'ils ont leurs vêtements et leurs objets dédiés
-- qu'ils sont d'accord entre eux sur la façon de jouer leurs devises et gestes symboliques.
+{% macro group_briefing_questions() %}
+Questions à poser aux joueurs du groupe avant le jeu :
+
+- Qui êtes-vous ? Que venez-vous faire dans les archives secrètes des Maupertuis ? Quelles sont, pour chacun, vos compétences spéciales ? En quelle année de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %} sommes-nous censés être ?
+- Comment faites-vous, tous ensemble, votre devise et votre geste symbolique ?
+- Avez-vous des questions sur vos rôles ou compétences spécifiques ? *(voir avec le MJ quand il passe)*
+- Avez-vous bien vos vêtements et objets fournis par les organisateurs ? *(voir avec le MJ quand il passe)*
+{% endmacro %}
+<{ group_briefing_questions }/>
 
 H-15mn : Vérifier que tous les systèmes audio/vidéo sont soit activés (si étage autorisé), soit prêts à l'être (si étage interdit), aux deux étages ; attention à bien allumer à chaque fois enceinte, lecture MP3 (sur la bonne piste pour les MuziliSpeaker noirs), voire batterie externe, le cas échéant. Régler les volumes sonores pour que chaque ambiance n'empiète pas sur le reste de la salle. Aucune bougie ne doit être allumée, SAUF dans le tombeau du mage qui doit être bien illuminé. Laisser le projecteur de l'escalier éteint.
 
@@ -25,7 +31,7 @@ H-10mn : Briefing commun des joueurs, où l'on rappelle
 
 H-5mn : [Musique] Discours introductif du maitre de jeu, tous ensemble
 
-H : Les joueurs se présentent les uns aux autres, en un "tour de table"
+H : Les JOUEURS se présentent les uns aux autres, en un "tour de table", et chaque GROUPE explique ce qu'il est venu chercher ici.
 
 H : [Musique] Les automates amènent les groupes de joueurs respectivement aux 4 coins de l'étage autorisé, puis vaquent à leurs occupations.
 
@@ -43,7 +49,7 @@ H+23mn : [Cris] Grognements de la Bête à l'étage, à plusieurs reprises
 
 H+25mn : Le druide doit discrètement voler la clochette spectrale AVANT l'arrivée de l'Ankou {% fact "druid_must_steal_table_bell_when_usage_understood" %}
 
-H+30mn : [Choeur] Discours de l'Ankou en haut des escaliers, ALLUMER le projecteur pendant sa présence, et le liasser allumer par al suite.
+H+30mn : [Choeur] Discours de l'Ankou en haut des escaliers, ALLUMER le projecteur pendant sa présence, et le laisser allumé par la suite.
 
 H+40mn : IMPORTANT - Aller allumer les musiques, lumières, et toutes les bougies (car magiques) de l'étage interdit (SAUF la fontaine à encens) ; y transférer les 2 enceintes noires autonomes MuziliSpeaker (cimetière+alchimie et mini-jungle+gemmologie) pour les mettre aux 2 laboratoires de l'étage interdit, avec les bandes son pertinentes
 
@@ -53,11 +59,11 @@ H+55mn : [Musique] Se tenir prêt à mettre en scène l'arrivée de la Bête, lo
 
 H+60mn : [Musique] Se tenir prêt à mettre une bande-son instrumentale lorsque les joueurs pénètrent dans l'étage interdit. Le fantôme du voleur y commence alors son errance, avec les gants bleus et le masque à LED
 
+H+1h15 : [Cloches] Les fantômes repassent en spectre pour 2 minutes, puis [Gong]
+
 H+1h20 : [Choeur] Si les joueurs n'ont toujours pas ouvert l'étage interdit, l'Ankou vient leur donner des indices sur la façon d'accéder au symbole nécessaire (symbole en ultraviolets dans la mallette administrative noir, dont le code est murmuré par le {% symbol "Venture Prins" for "small_wooden_fake_book_name" %})
 
 H+1h40 : [Cloches] Les fantômes repassent en spectre pour 2 minutes, puis [Gong]
-
-H+2h20 : [Cloches] Les fantômes repassent en spectre pour 2 minutes, puis [Gong]
 
 H+X : SEULEMENT SI les joueurs ont bien progressé (voir avec le MJ), le druide doit laisser les joueurs trouver la sacoche de ceinture faussement compromettante {% fact "druid_makes_conspiracy_against_arkon" %}
 
@@ -69,7 +75,7 @@ H+X : [Musique] Se tenir prêt à mettre en scène le démasquage du traître (d
 
 H+X : [Musique] Se tenir prêt à mettre en scène l'intrusion dans le tombeau du mage
 
-H+X : Le druide va s'asseoir près du pentacle, l'air ravi, avec de gros grimoires qu'il proclame comme prometteurs ; l'Ankou va se préparer pour son discours final
+H+X : Le druide va s'asseoir près du pentacle, ravi, avec de gros grimoires qu'il proclame être prometteurs pour s'échapper du lieu ; l'Ankou va se préparer pour son discours final
 
 H+X : L'arkonte briefe le diacre qui se prépare à affronter le druide en terminant le rituel, les avatars décident de retourner dans leurs univers pour ne pas être en danger.
 

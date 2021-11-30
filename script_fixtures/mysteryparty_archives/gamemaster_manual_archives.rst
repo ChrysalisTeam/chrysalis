@@ -810,11 +810,13 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 {% macro parcival_group_main_quest() %}
 
+**Les Parcival ont pour principal objectif de trouver un remède contre la maladie de leur petite soeur {% symbol "Philomène" for "parcival_sick_child_name" %}, la {% symbol "dégénérescence marbrée" for "legacy_disease" %}, car leur ancêtre Mérédice de Maupertuis en avait été guérie ici.**
+
 - L'archiviste se souvient très bien de la maladie de Mérédice de Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ladite potion, et l'indique aux joueurs (elle est dans l'étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
 - Le {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %} demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
 
-- Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth). Des flèches blanches au sol peuvent aussi être utilisées comme marqueurs. {% hint "radio_frequency_scanner_app_in_chest" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %} {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %}
+- Les deux premières potions ont leurs recettes à l'étage autorisé (mais l’archiviste ne les avait pas encore retrouvées et rangées). Ces recettes sont localisables grâce aux vibrations que les parents leur avaient affectées pour pouvoir plus facilement les retrouver à l’avenir, et qui permettent de les trianguler avec un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth). Des **flèches blanches au sol** peuvent aussi être utilisées comme marqueurs. {% hint "radio_frequency_scanner_app_in_chest" is needed %} {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %} {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %}
 
 - Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà). {% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
@@ -836,14 +838,14 @@ Le trésor des Maupertuis (les agents secrets mirandiens)
 
 {% macro spy_group_main_quest() %}
 
-Les agents secrets sont sur les traces du "trésor" supposé de la famille Maupertuis, jamais exhumé à ce jour.
+**Les agents secrets mirandiens ont pour principal objectif de trouver le trésor, la source de richesse des Maupertuis, pour sauver leur petit pays de la faillite.**
 
 Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langage énigmatique comment lorsqu'un grimoire se met à chanter, grâce à des symboles changeants, quelque chose tourne et les richesses apparaissent. {% hint "meredice_diary_about_treasure_for_spy_group" is needed %}
 
 Un oracle déclenché dans le domaine interdit montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques. {% hint "parcival_oracle_vision_about_water_mill" is needed %}
 Un stéréogramme au mur montre par ailleurs un moulin à café avec un double mot caché de remerciement {% hint "grinding_mill_stereogram_picture_with_magnetic_and_uv_code" is needed %}.
 
-Les joueurs doivent comprendre qu’il s’agit d’un moulin à café simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit. {% hint "grinding_mill_with_enchantment" is needed %}
+Les joueurs doivent comprendre qu’il s’agit d’un **moulin à café** simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit. {% hint "grinding_mill_with_enchantment" is needed %}
 
 Ce moulin, capable de générer des pierres précieuses à partir de rien, nécessite en réalité un chant issu d'un grimoire magique, pour fonctionner.
 Optionnellement, il faut activer un sceau dans l'étage interdit pour faire apparaître ce grimoire magique.
@@ -876,13 +878,15 @@ Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)
 
 {% macro explorer_group_main_quest() %}
 
-Un des rares exemplaires de cet ouvrage mythique et controversé a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste devrait indiquer aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% hint "family_legendary_chest_protected_by_double_key" is needed %} {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
+**Les explorateurs héliossars ont pour principal objectif de trouver le {% symbol "Thanatologue" for "book_of_the_dead" %}, un grimoire maudit, et surtout, grâce à lui, un moyen de contrer les maléfices et la tentative d'invasion de leurs ennemis les akarites.**
+
+Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conservé par la lignée des Maupertuis, dans un coffre magique situé dans le **domaine interdit** - ce que l'archiviste devrait indiquer aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% hint "family_legendary_chest_protected_by_double_key" is needed %} {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
 
 - **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans un de ses livres factices (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book" is needed %}
   Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
 
-- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien et mémorisait tout**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connait ce code (qu’elle avait utilisé pour d’autres coffrets), et le vend très cher. {% hint "isadora_code_for_thanatologue_chest_code" is needed %}
-  Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'isadora_code_for_thanatologue_chest_code' is needed %} {% fact "diakon_invoker_can_message_ankou" %}
+- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien et mémorisait tout**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connait ce code (que la mère d'Octave avait aussi utilisé pour d’autres coffrets), et le vend très cher ; on peut aussi le trouver dans le portefeuille du voleur (gisant dans la niche de la Bête). {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'isadora_code_for_thanatologue_chest_code' is needed %} {% fact "diakon_invoker_can_message_ankou" %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
+  Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**.
 
 {% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}
 
@@ -893,13 +897,13 @@ Un des rares exemplaires de cet ouvrage mythique et controversé a été conserv
 
 - Les diacres connaissent un rituel simple permettant de “désenvouter” par avancer une tombe, et éviter ainsi qu’un nécromancien n'en tire un mort-vivant. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
 
-- L’oracle a une prophétie visio/audio d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %} {% hint "parcival_oracle_audio_about_necromancers_and_ring_amplificans" is needed %}
+- L’oracle a une prophétie vision/audio d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %} {% hint "parcival_oracle_audio_about_necromancers_and_ring_amplificans" is needed %}
 
 - L’arkonte se souvient de ce symbole, qui est entre autres celui de la légendaire **{% symbol "Bague Amplificans" for "ring_amplificans_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
 - Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage, même si les fantômes peuvent eux la contourner ; le seul moyen d'y pénétrer en tant que vivant, c'est manifestement de s'y téléporter. {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %} {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
 
-- Le puissant {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} appartenant au voleur est sur sa dépouille, qui est maudite car il est "mort dans le vice". {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device' is needed %}
+- Le puissant {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} appartenant au voleur est sur sa dépouille, qui est maudite car il est "mort dans le vice". {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device_in_beast_nest' is needed %}
 
 - Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé. En alternative, cette formule est trouvable sous forme chiffrée dans les affaires du voleur. {% fact "thief_knows_teleportation_device_formula" %} {% hint 'thief_teleportation_device_encrypted_formula' is needed %}
 
@@ -918,7 +922,7 @@ Neutraliser le méchant
 
 {% macro quest_to_find_traitor_and_final_battle() %}
 
-Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons doivent se porter initialement sur l’arkonte, surtout de la part des avatars (qui n’ont pu le voir en tant que fantôme). Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, peuvent aussi être suspectés.
+Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons doivent viser initialement l’arkonte, surtout de la part des avatars (qui n’ont pu le voir ensuite en tant que fantôme). Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, peuvent aussi être suspectés.
 
 L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur entouré de ténèbres, qui résistait bien aux attaques physiques, magiques et sacrées ; et qu’il a donc maudit cet attaquant (et la bibliothèque) en succombant.
 
@@ -969,8 +973,6 @@ Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'e
 - En désespoir de cause, le druide va utiliser la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte (qui contient le {% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}), et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} À charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...), sans se faire eux-mêmes attaquer par le druide.
 
 - Une fois le rituel à son terme, le druide est comme blessé ; l'arkonte intervient alors pour clamer victoire, et appelle tous les diacres autour de lui pour quelques dernières répétitions de l'incantation rituelle. Il peut s'en désolidariser à la fin pour clamer : **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**. Le druide est alors attiré par le pentacle et y meurt. (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres)
-
-
 
 Que le traître soit anéanti d'une manière ou d'une autre (balle maudite ou rituel d'expulsion), la malédiction prend fin, et l’épilogue peut se dérouler. {% fact "traitor_death_ends_cursed_enclosure" %}
 
