@@ -12,4 +12,8 @@ Vous avez la charge d'accompagner le joueur Oracle des Parcival dans la divulgat
 - Noter que la prophétie n'a pas besoin de se déclencher tout de suite quand une plume est trouvée, il peut être bon d'attendre le moment opportun pour la divulguer à l'Oracle.*
 - Si une prophétie n'est pas obtenue pour une quelconque raison (ex. la plume a disparu), vous pouvez donner quand même la prophétie, 15 minutes après le passage des Parcival près de l'endroit concerné.
 
+---
+
+**PLANNING DES PROPHETIES**
+
 <{ planning_of_prophecies }/>

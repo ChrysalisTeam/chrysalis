@@ -30,6 +30,8 @@ Cette clé magnétique s'est parfois aussi révélée utile pour désactiver d'�
 
 *NOTE hors-jeu* : la présence de systèmes magnétiques peut être dénotée par des **petits oeillets de classeur blancs**.
 
+{# TODO DIRE QUE LES LOGOS MAGNETIQUES NE SONT PAS POUR LUI !!!#}
+
 
 Potions trouvées
 ++++++++++++++++++++++++++++++++++++++++++++++++

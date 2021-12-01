@@ -98,6 +98,7 @@ VOLEUR :
 DRUIDE :
 
 - Répéter avec l'arkonte, AVANT le jeu, la chorégraphie exacte de la bataille finale
+- Aider les Parcival à traduire les noms désuets des ingrédients de leurs potions
 - Si les joueurs font mine de fouiller la TERRE de la mini-jungle, tu t'énerves au motif qu'ils saccagent tout et que la Nature est sacrée
 - Avoir une posture prévue si le Tome 3 du roman du druide (qui l'accable) est trouvé trop tôt : dire soit que le livre est faux, soit que le druide a changé de comportement par la suite, dans un autre roman de rédemption, et que ces crimes étaient juste des "erreurs de jeunesse"
 - Tu dois, vers la fin du jeu, récupérer des gros livres/grimoires pour les lire tranquillement non loin du pentacle, après avoir annoncé avec vantardise que tu étais sur le point de trouver un sortilège pouvant briser la Clôture Absolue (voir le maitre de jeu pour çà)

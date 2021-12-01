@@ -12,22 +12,32 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TODO RESTANT
 ================
 
+
+METTRE D:\HORROR_BEAST_NOISES_MEGA_MIX.mp3
+
+DRUIDE : Aider les Parcival à traduire les noms désuets des ingrédients de leurs potions
+DIACRES : bien clamer les formules rituelles, que tout le monde entende bien !
+
+
 POUR MJ, faire un book avec :
 - last_minute_instructions_for_participants
 - Planning details for game
 - Planning of Prophecies
-- Vérifications préalables (checklist)
+- Vérifications préalables (checklist) !!!
+- ces TODOs restants
 
-Imprimer en séparé les différentes checklists des lieux !!
+> A IMPRIMER :  MAJ des 2 "journal intime" de Octave ET Mérédice, + nouvelles pages de MISC-DOC et celles disparues durant jeu, + solutions des énigmes
+> Imprimer en séparé les différentes checklists des lieux !!
+> REMETTRE sur PC et clé USb tous les docs, affaire en cours, PDFs, et script-fixtures + clues-doc
 
-ENLEVER l'étiquette "Fabre" de la valise
+LAST MINUTE PREPARATIONS :
+    ENLEVER l'étiquette "Fabre" de la valise
+    Annuler le stéthoscope, mettre la boite à murmures en évidence plutot...
+    LIVRES JUMEAUX : détecteurs de magnétisme, et d'UV AUSSI, donnent le code à 3 chiffres
 
-LIVRES JUMEAUX : détecteurs de magnétisme, et d'UV AUSSI, donnent le code à 3 chiffres
-
+IMPORTANT pour spy-lockpicker : Déverrouilleur magnétique n'est pas concerné par logos "aimant"
 IMPORTANT pour spy-sounder : "Détecteur de magnétisme : Si les inscriptions sont un code à trois lettres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification"
 IMPORTANT pour parcival-oracle : dire "avoir confiance dans ses prophéties, et dans l'allié que le destin vous enverra"
-
-Annuler le stéthoscope, mettre la boite à murmures en évidence plutot...
 
 Au niveau objets perdus, il nous manquait aux dernières nouvelles :
 - un livret fin "Hachette Géographie" ancien, verdâtre, avec une grosse puce blanchededans
@@ -35,27 +45,18 @@ Au niveau objets perdus, il nous manquait aux dernières nouvelles :
 - des grosses bougies, et quoi d'autre ?
 - Une carte mémoire micro-SD (probablement tombée par terre)
 
-- Combien de broches métalliques des Maupertuis ont pu être récupérées à la fin du jeu svp ?  -> INCONNU
-- Est-ce que quelqu'un a vu passer le papier d'Arménie et les briquets que j'avais confié à un figurant ?  -> AMANDINE
+DVERS :
+    - Combien de broches métalliques des Maupertuis ont pu être récupérées à la fin du jeu svp ?  -> INCONNU
+    - Est-ce que quelqu'un a vu passer le papier d'Arménie et les briquets que j'avais confié à un figurant ?  -> AMANDINE
+    - CLODYNETTE :
+        Oui je suis là vendredi session 2 mais pas besoin de plus de rôle je serai avec bibi mais pour titou tu peut être le mettre assistant de filou ou de la duchesse
+        Filou tu pourras appeler mardi soir si tu veux . A vendredi
 
-CLODYNETTE :
-    Oui je suis là vendredi session 2 mais pas besoin de plus de rôle je serai avec bibi mais pour titou tu peut être le mettre assistant de filou ou de la duchesse  .
-    Filou tu pourras appeler mardi soir si tu veux . A vendredi
+il faut un système sonore à l'étage pour les cris de bête et le jingle de l'ankou (EWA bluetooth non car il s'éteint seul) !!
+>>>>>>>>>> REDISPATCHER CERTAINS SYSTEMES AUDIO VIDEO
+>>>>>>>>>> Remettre TOUS les sons, même prophéties, sur clé USb et lecteurs
 
-- Affecter un automate et avatar à chaque groupe de joueurs !!!!
-
-A IMPRIMER :  MAJ des 2 "journal intime" de Octave ET Mérédice, + nouvelles pages de MISC-DOC et celles disparues durant jeu, + solutions des énigmes
-
-il faut un système sonore à l'étage pour les cris de bête et le jingle de l'ankou (EWA bluetooth) !!
-REDISPATCHER CERTAINS SYSTEMES AUDIO VIDEO
-
-PREVOIR SMARTPHONE EN TETHERING WIFI POUR PC ET TABLETTES ?? noep WIFI
-
-Ajouter messages runiques/secrets
-
-Ajouter messages magnétiques d'analyse physique SUR QUELS OBJETS ???
-
-DANS LIVRE FAMILIAL MARRON FIN, en plus du symbole en UV :
+RESTE A FAIRE - DANS LIVRE FAMILIAL MARRON FIN, en plus du symbole en UV :
 - Lettre expliquant danger des colliers éthériques, et du grimoire thanatologue !!!
 - Indice aussi sur besoin de NORMALISER la nomenclature des potions, avec exemple et besoin d'un bon herboriste !!!
 - indice sur risques d'Octave avec création avatars ???
@@ -103,6 +104,8 @@ DANS LIVRE FAMILIAL MARRON FIN, en plus du symbole en UV :
 - Trouver pochette du voleur sans fond !!  (CHAPEAU ???)
 - Cet ouvrage est protégé par un code qui change tous les quelques jours. {# TODO TELL THAT TO FANTOMS #}
 - Simplifier codes d'evoutement, ne pas avoir "level" pour les positifs !
+- Lockpicker : TODO DIRE QUE LES LOGOS MAGNETIQUES NE SONT PAS POUR LUI
+- SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
 - Ce qu'il faut en tout:
 
     - ANALYSES D'OBJETS avec code
@@ -137,8 +140,11 @@ TRASH
 ########################################
 
 
+PREVOIR SMARTPHONE EN TETHERING WIFI POUR PC ET TABLETTES ?? nope WIFI
 
-
+Affecter un automate et avatar à chaque groupe de joueurs !!!!   DONE
+Ajouter messages runiques/secrets  DONE
+Ajouter messages magnétiques d'analyse physique SUR QUELS OBJETS ???  DONE
 
 
 Incoherence avec sonnette : le druide doit la prendre juste AVANT le passage de L'ankou !!  DONE
