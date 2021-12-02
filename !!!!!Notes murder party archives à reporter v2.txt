@@ -13,6 +13,8 @@ TODO RESTANT
 ================
 
 
+QUICK recharger Venture Prins sur place et checker les IBEACON
+
 METTRE D:\HORROR_BEAST_NOISES_MEGA_MIX.mp3
 
 DRUIDE : Aider les Parcival à traduire les noms désuets des ingrédients de leurs potions
@@ -106,6 +108,7 @@ RESTE A FAIRE - DANS LIVRE FAMILIAL MARRON FIN, en plus du symbole en UV :
 - Simplifier codes d'evoutement, ne pas avoir "level" pour les positifs !
 - Lockpicker : TODO DIRE QUE LES LOGOS MAGNETIQUES NE SONT PAS POUR LUI
 - SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
+- Supprimer explorer_unveiler_uv_lamp_initially_broken car conflit avec rechargement des luminis ???
 - Ce qu'il faut en tout:
 
     - ANALYSES D'OBJETS avec code
