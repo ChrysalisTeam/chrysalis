@@ -157,13 +157,15 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("maupertuis_father_chest_code_anamorphosis_enigma", 1),
     ("maupertuis_whispering_box_enigma", 1),
     ("octave_diary_on_his_tomb", 1),
+    ("letters_to_maupertuis_parents", 2),
+    ("octave_instructions_for_initiation", 1),
     ("avatar_novel_summaries", 2),
-    ("conspiracy_anti_arkoon_letter_with_coast_of_arms", 1),
+    ("conspiracy_anti_arkon_letter_with_coast_of_arms", 1),
     ("book_shelf_labels_for_library", 2),
     ("maupertuis_caduceus_symbol", 1),
     ("coffee_mill_stereogram", 1),
     ("miscellaneous_secret_messages", 1),
-    ("trap_and_property_markers", 3),
+    ("trap_and_property_markers", 8),  # Bug with layout adds another page
 ]
 
 # documents without decorations, typically ; one can provide a LIST of RST files as value
@@ -187,9 +189,12 @@ ISOLATED_DOCS = {
     "npc_phantom_magus_sheet": ("npcs/phantom_magus_sheet.rst", "phantom_magus"),
 
     # SPECIFIC INSTRUCTIONS
+    "planning_details_for_game": ("miscellaneous/planning_details_for_game.rst", "anyone"),
     "planning_of_prophecies": ("miscellaneous/planning_of_prophecies.rst", "anyone"),
     "ingame_speeches": ("miscellaneous/ingame_speeches.rst", "anyone"),
-    "planning_details_for_game": ("miscellaneous/planning_details_for_game.rst", "anyone"),
+    "enigma_solutions": ("miscellaneous/enigma_solutions.rst", "anyone"),
+    "last_minute_instructions_for_participants": ("miscellaneous/last_minute_instructions_for_participants.rst", "anyone"),
+    "main_quest_tracking_sheets": ("miscellaneous/main_quest_tracking_sheets.rst", "anyone"),
 }
 
 
