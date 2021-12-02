@@ -1,4 +1,30 @@
 
+
+TODO RESTANT MURDER PARTY (PRINTED NOW)
+==============================================
+
+/!\ IMMEDIATELY QUICK
+- recharger Venture Prins sur place et checker les IBEACON
+- Retrouver broches et papiers/romans/étiquettes manqants
+- ENLEVER l'étiquette "Fabre" de la valise
+- Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
+- Annuler le stéthoscope, mettre la boite à murmures en évidence plutot...
+- LIVRES JUMEAUX : détecteurs de magnétisme, et d'UV AUSSI, donnent le code à 3 chiffres
+
+LAST MINUTE PREPARATIONS :
+    Donner lanterne cassée aux SPIES qui peuvent recharger luminis
+
+IMPORTANT pour spy-lockpicker : Déverrouilleur magnétique n'est pas concerné par logos "aimant"
+IMPORTANT pour spy-sounder : "Détecteur de magnétisme : Si les inscriptions sont un code à trois lettres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification"
+IMPORTANT pour parcival-oracle : dire "avoir confiance dans ses prophéties, et dans l'allié que le destin vous enverra"
+IMPORTANT pour DIACRES : bien clamer les formules rituelles, que tout le monde entende bien !
+
+* Au niveau objets perdus, il nous manquait aux dernières nouvelles :
+- un livret fin "Hachette Géographie" ancien, verdâtre, avec une grosse puce blanchededans
+- un énorme grimoire verdâtre avec une tablette tactile dedans
+- des grosses bougies
+
+
 URLS IMPORTANTES
 -------------------------
 https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_puzzle/
@@ -6,74 +32,17 @@ https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_cards/
 https://anthropia.prolifik.net/DEMO/anonymous/ability/my_runic_translation_open/
 https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
-À  É
-
-
-TODO RESTANT
-================
-
-
-QUICK recharger Venture Prins sur place et checker les IBEACON
-
-METTRE D:\HORROR_BEAST_NOISES_MEGA_MIX.mp3
-
-DRUIDE : Aider les Parcival à traduire les noms désuets des ingrédients de leurs potions
-DIACRES : bien clamer les formules rituelles, que tout le monde entende bien !
-
-
-POUR MJ, faire un book avec :
-- last_minute_instructions_for_participants
-- Planning details for game
-- Planning of Prophecies
-- Vérifications préalables (checklist) !!!
-- ces TODOs restants
-
-> A IMPRIMER :  MAJ des 2 "journal intime" de Octave ET Mérédice, + nouvelles pages de MISC-DOC et celles disparues durant jeu, + solutions des énigmes
-> Imprimer en séparé les différentes checklists des lieux !!
-> REMETTRE sur PC et clé USb tous les docs, affaire en cours, PDFs, et script-fixtures + clues-doc
-
-LAST MINUTE PREPARATIONS :
-    ENLEVER l'étiquette "Fabre" de la valise
-    Annuler le stéthoscope, mettre la boite à murmures en évidence plutot...
-    LIVRES JUMEAUX : détecteurs de magnétisme, et d'UV AUSSI, donnent le code à 3 chiffres
-
-IMPORTANT pour spy-lockpicker : Déverrouilleur magnétique n'est pas concerné par logos "aimant"
-IMPORTANT pour spy-sounder : "Détecteur de magnétisme : Si les inscriptions sont un code à trois lettres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification"
-IMPORTANT pour parcival-oracle : dire "avoir confiance dans ses prophéties, et dans l'allié que le destin vous enverra"
-
-Au niveau objets perdus, il nous manquait aux dernières nouvelles :
-- un livret fin "Hachette Géographie" ancien, verdâtre, avec une grosse puce blanchededans
-- un énorme grimoire verdâtre avec une tablette tactile dedans
-- des grosses bougies, et quoi d'autre ?
-- Une carte mémoire micro-SD (probablement tombée par terre)
-
-DVERS :
-    - Combien de broches métalliques des Maupertuis ont pu être récupérées à la fin du jeu svp ?  -> INCONNU
-    - Est-ce que quelqu'un a vu passer le papier d'Arménie et les briquets que j'avais confié à un figurant ?  -> AMANDINE
-    - CLODYNETTE :
-        Oui je suis là vendredi session 2 mais pas besoin de plus de rôle je serai avec bibi mais pour titou tu peut être le mettre assistant de filou ou de la duchesse
-        Filou tu pourras appeler mardi soir si tu veux . A vendredi
-
-il faut un système sonore à l'étage pour les cris de bête et le jingle de l'ankou (EWA bluetooth non car il s'éteint seul) !!
->>>>>>>>>> REDISPATCHER CERTAINS SYSTEMES AUDIO VIDEO
->>>>>>>>>> Remettre TOUS les sons, même prophéties, sur clé USb et lecteurs
-
-RESTE A FAIRE - DANS LIVRE FAMILIAL MARRON FIN, en plus du symbole en UV :
-- Lettre expliquant danger des colliers éthériques, et du grimoire thanatologue !!!
-- Indice aussi sur besoin de NORMALISER la nomenclature des potions, avec exemple et besoin d'un bon herboriste !!!
-- indice sur risques d'Octave avec création avatars ???
 
 
 
 
 
 ******** LATER *******************
-
+- Lettres UTILES : À  É
 - AJOUTER SOUVENIRS ET ANEDCOTES A OCTAVE
 - Enigme avec disques gramophone ?
 - harmoniser le mot "connaît" et "envoutement"  (LATER)
-**Rupture de corridor outre-monde**  <--- metter tag {% SYMBOL %}
-À  É
+- Rupture de corridor outre-monde  <--- metter tag {% SYMBOL %}
 - mettre QUELQUES POTIONS que alchimiste doit vouloir plus tard, dans la sacoche perdue de l'exorciste
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 - TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
@@ -142,6 +111,37 @@ RESTE A FAIRE - DANS LIVRE FAMILIAL MARRON FIN, en plus du symbole en UV :
 TRASH
 ########################################
 
+
+- Une carte mémoire micro-SD (probablement tombée par terre)  NOPE fausse alerte
+
+DONE :
+> A IMPRIMER :  MAJ des 2 "journal intime" de Octave ET Mérédice, + nouvelles pages de MISC-DOC et celles disparues durant jeu, + solutions des énigmes
+> Imprimer en séparé les différentes checklists des lieux !!
+> REMETTRE sur PC et clé USb tous les docs, affaire en cours, PDFs, et script-fixtures + clues-doc
+
+DVERS DONE
+    - Combien de broches métalliques des Maupertuis ont pu être récupérées à la fin du jeu svp ?  -> INCONNU
+    - Est-ce que quelqu'un a vu passer le papier d'Arménie et les briquets que j'avais confié à un figurant ?  -> AMANDINE
+    - CLODYNETTE :
+        Oui je suis là vendredi session 2 mais pas besoin de plus de rôle je serai avec bibi mais pour titou tu peut être le mettre assistant de filou ou de la duchesse
+        Filou tu pourras appeler mardi soir si tu veux . A vendredi
+
+RESTE A FAIRE - DANS BOITE AUX LETTRES:
+- Lettre expliquant danger des colliers éthériques, et du grimoire thanatologue !!!
+- Indice aussi sur besoin de NORMALISER la nomenclature des potions, avec exemple et besoin d'un bon herboriste !!!
+- indice sur risques d'Octave avec création avatars ???
+
+il faut un système sonore à l'étage pour les cris de bête et le jingle de l'ankou (EWA bluetooth non car il s'éteint seul) !!  >> DONE carmp3player
+>>>>>>>>>> REDISPATCHER CERTAINS SYSTEMES AUDIO VIDEO  DONE
+>>>>>>>>>> Remettre TOUS les sons, même prophéties, sur clé USb et lecteurs
+
+
+POUR MJ, faire un book avec :
+- last_minute_instructions_for_participants
+- Planning details for game
+- Planning of Prophecies
+- Vérifications préalables (checklist) !!!
+- ces TODOs restants
 
 PREVOIR SMARTPHONE EN TETHERING WIFI POUR PC ET TABLETTES ?? nope WIFI
 

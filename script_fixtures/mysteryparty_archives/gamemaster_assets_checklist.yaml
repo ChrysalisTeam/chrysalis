@@ -54,13 +54,13 @@
 # ETAGE AUTORISÉ #
 
 -
-  - "@RECOINS Barrières magiques devant les escaliers du domaine interdit"
+  - "@RECOINS Barrières magiques devant les escaliers du domaine interdit [L3]"
   -
     - "Obstacle en cordelette bloquant les escaliers (code d'envoûtement NEGATIF [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}])"
     - "SCEAU lumineux (1 MOYENNE Guirlande de Noël multicolore réglable @Pascal) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %}"
 
 -
-  - "@RECOINS Buffet d'outre-monde"
+  - "@RECOINS Buffet d'outre-monde [L1]"
   -
     - "Lampe à fibres Blue ice Lunartec (3xAAA)"
     - "Ballon verre jaune Sil Interiors avec LEDs (2xAA incluses) au buffet @Cat"
@@ -71,7 +71,7 @@
     - "Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %}"
 
 -
-  - "@RECOINS Pentacle du rituel inachevé de l’arkonte"
+  - "@RECOINS Pentacle du rituel inachevé de l’arkonte [L2]"
   -
     - "10 cylindres LEDs remote-controlled Kitosun (2xCR 2450 chacune)"
     - "1 LONGUE Guirlande de Noël multicolore réglable @Pascal"
@@ -80,31 +80,33 @@
     - "@LIVRES Livre marron tacheté : Tome unique du roman de l'inventeur"
 
 -
-  - "@RECOINS Coin du fantôme de l’archiviste"
+  - "@RECOINS Coin du fantôme de l’archiviste [F1]"
   -
 
     - "@ECLAIRAGES Jarre lumineuse NewYang (batterie solaire incluse)"
     - "Stroboscope LED (4xAA)"
     - "@ENORMES Projecteur directionnel 220v @Poncet (pour les escaliers)"
     - "@GENERAL 3 néons LED Black Light (USB))"
+    - "@ENORMES Mini-meuble boîte-aux-lettres à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT, avec dedans les 2 lettres aux parents Maupertuis (sur risques des avatars et des artefacts maudits)"
 
 -
-  - "@RECOINS Coin du fantôme de l’arkonte"
+  - "@RECOINS Coin du fantôme de l’arkonte [F3]"
   -
     - "@RECOINS Projecteur globe Aurore Boréale Lunartec (secteur/12V)"
     - "Mini-lecteur MP3 clip argenté (batterie faible) avec écouteurs (+ batterie miniUSB solaire ClipSonic)"
 
 -
-  - "@RECOINS Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
+  - "@RECOINS Coin du fantôme de l’enfant (près de la jungle) [F2] {% fact 'phantom_octave_is_near_jungle' %}"
   -
     - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5"
     - "@AUDIOVIDEO Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse"
     - "Valise avec quelques vieux vêtements aléatoires"
     - "2 livres anciens beige/marbré dans la valise"
+    - "@LIVRES Lettre des parents d'Octave avec des instructions pour son adoubement"
     - "@LIVRES Livre d'enfant déchiré avec des animaux en mouvement {% hint 'torn_child_book_with_animal_motions' is provided %}"
 
 -
-  - "@RECOINS Mini-jungle du druide"
+  - "@RECOINS Mini-jungle du druide [L6]"
   -
     - "Crâne empoisonné de l'arkonte caché entre les pots {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %}"
     - "@ENORMES Emballages bruns pour faire la 'terre' de la jungle"
@@ -114,7 +116,7 @@
     - "Cristaux blancs en impression 3D (mettre mini LEDs dedans)"
 
 -
-  - "Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %} et "
+  - "Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} [L5] {% hint 'family_briefcase_protected_by_code' is provided %}"
   -
     - "@LIVRES Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
     - "@LIVRES Classeur vert-foncé CLIVRA, avec message UV indiquant qu'il n'est PAS le Thanatologue"
@@ -122,7 +124,7 @@
     - "@GENERAL CIGALE pour ledit mini-coffret"
 
 -
-  - "@COFFRE-MARRON Coffre familial commun en bois marron des Maupertuis"
+  - "@COFFRE-MARRON Coffre familial commun en bois marron des Maupertuis [L5]"
   -
     - "Sur le coffret, un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %}"
     - "@AUDIOVIDEO Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF)"
@@ -136,7 +138,7 @@
     - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope"
 
 -
-  - "@CIMETIERE Cimetière"
+  - "@CIMETIERE Cimetière [L4]"
   -
     - "3 pierres tombales noires avec code d'analyse [{% symbol 'ltx' for 'analysis_code_three_tombs' %}]"
 
@@ -152,7 +154,7 @@
     - "@AUDIOVIDEO Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)"
 
 -
-  - "@TOMBEAU Galerie de portraits des Maupertuis"
+  - "@TOMBEAU Galerie de portraits des Maupertuis [L8]"
   -
     - "Portrait du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} avec message UV : \"Il a vécu par les ethers, les amplificans, et les grimoires maudits, mais il est mort par un simple fruit.\""
     - "Portrait du père des Maupertuis (Quirinius) avec message UV : \"Si oubli, penser Venture Prins !\""
@@ -164,7 +166,7 @@
     - "@GENERAL Plume de prophétie sur ce cadre de remerciement {% hint 'feather_on_stereogram_board' is provided %}"
 
 -
-  - "@TOMBEAU Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
+  - "@TOMBEAU Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} [L7]"
   -
     - "Emblème du mage avec dragon doré {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
     - "1 pierre tombale verte"
@@ -182,20 +184,20 @@
 # ETAGE INTERDIT #
 
 -
-  - "Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes)  {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
+  - "Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes) [P2] {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
   -
     - "@LIVRES Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' (nom possiblement inscrit en code magnétique) ; il contient le sort de zombification, la contre-mesure en UV, {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'feather_in_thanatologue' is provided %}"
     - "@ECLAIRAGES Globe à LED Atmosphera (2xAAA) à côté du coffre légendaire (marque d'envoûtement POSITIF)"
 
 -
-  - "Coin du fantôme du voleur"
+  - "Coin du fantôme du voleur [F4]"
   -
     - "@RECOINS Projecteur LED Blanche RX-7732 (4xAA incluses) @Véro"
     - "@AUDIOVIDEO Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth (batterie / microUSB) => INITIALEMENT EN HAUT DES ESCALIERS AVEC CRIS DE BETES"
     - "@AUDIOVIDEO Digital MP3/FM Player Key noir (pile AAA incluse) pour l'enceinte Jabra"
 
 -
-  - "@ALCHIMIE Laboratoire d'Alchimie"
+  - "@ALCHIMIE Laboratoire d'Alchimie [P3]"
   -
     - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
     - "Chaudron rond en cuivre à anse, avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
@@ -204,8 +206,7 @@
     - "Vase hexagonal en verre"
     - "Boite rectangulaire plate en laiton"
     - "2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
-    - "@ENORMES Mini-meuble boîte-aux-lettres à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT"
-    - "@POTIONS Potion de vapeur de Thorium dans mini-meuble {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
+    - "@POTIONS Potion de vapeur de Thorium dans un des tiroirs rouges {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "@GEMMES Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %}"
     - "@BOUTEILLES Grand lot de petites bouteilles diverses et de condiments"
     - "Support cylindrique éclairant à LEDs (3xAAA) @Véro"
@@ -214,11 +215,11 @@
     - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
     - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
     - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %}"
-    - "Objets décoratifs : 2 grandes gourdes cylindriques et théière en cuivre, pichet en zinc"
+    - "Objets décoratifs : 2 grandes gourdes cylindriques et théière en cuivre, pichet en zinc, petit vase large en verre fumé noir"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis le cimetière après ouverture de l'étage interdit"
 
 -
-  - "@GEMMOLOGIE Laboratoire de gemmologie"
+  - "@GEMMOLOGIE Laboratoire de gemmologie [P4]"
   -
     - "Lanterne à flamme (3xAA) (marque d'envoûtement POSITIF)"
     - "3 faux-galets creux (pierreries dedans)"
@@ -242,14 +243,14 @@
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis la mini-jungle après ouverture de l'étage interdit"
 
 -
-  - "@CORRIDORS Corridor de Force Vitale (cul-de-sac)"
+  - "@CORRIDORS Corridor de Force Vitale (cul-de-sac) [P5]"
   -
     - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %}"
     - "Coffret cubique en bois avec VERROU MAGNÉTIQUE"
     - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique"
 
 -
-  - "@CORRIDORS Corridor d'Aura Manaïque (cul-de-sac)"
+  - "@CORRIDORS Corridor d'Aura Manaïque (cul-de-sac) [P6]"
   -
     - "@ENORMES Accès corridor bloqué par une porte en bronze de type 'ULTRA-LOURD"
     - "SCEAU d'initiation (avec guirlande)"
@@ -258,7 +259,7 @@
     - "Note: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
 
 -
-  - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac)"
+  - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac) [P7]"
   -
     - "Présence de radiations et vapeurs toxiques"
     - "@ENORMES Valisettes ovales imbriquées, [un automate doit pouvoir prendre celle intérieure]"
@@ -268,7 +269,7 @@
     - "@POTIONS Plusieurs potions (dont celle de Fungal Bleu) {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
 
 -
-  - "@NICHE Niche de la Bête"
+  - "@NICHE Niche de la Bête [P1]"
   -
     - "@ENORMES Nid de lianes et feuilles géantes"
     - "@PERSONNES {% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device_in_beast_nest' is provided %}"
