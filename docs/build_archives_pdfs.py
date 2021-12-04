@@ -165,7 +165,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("maupertuis_caduceus_symbol", 1),
     ("coffee_mill_stereogram", 1),
     ("miscellaneous_secret_messages", 1),
-    ("trap_and_property_markers", 8),  # Bug with layout adds another page
+    ("trap_and_property_markers", 9),  # Bug with layout adds another page
 ]
 
 # documents without decorations, typically ; one can provide a LIST of RST files as value
@@ -392,7 +392,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:
+    if True:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,

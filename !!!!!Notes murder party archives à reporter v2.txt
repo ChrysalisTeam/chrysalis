@@ -78,6 +78,9 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - Lockpicker : TODO DIRE QUE LES LOGOS MAGNETIQUES NE SONT PAS POUR LUI
 - SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
 - Supprimer explorer_unveiler_uv_lamp_initially_broken car conflit avec rechargement des luminis ???
+- Mettre prophétie sur bataille finale avec 4 colliers
+- ERRATUM -> pour le code JSB, c'était un code d'analyse PHYSIQUE, je me suis planté de couleur de pastille (comme je m'étais planté de type d'étoile sur l'armure du diacre)
+- Ne pas dire "AMI OU ENNEMI", faire un sermen tde zarathoustra initial
 - Ce qu'il faut en tout:
 
     - ANALYSES D'OBJETS avec code
