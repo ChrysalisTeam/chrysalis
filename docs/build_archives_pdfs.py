@@ -321,7 +321,12 @@ def generate_archives_sheets():
             new_title = new_title.replace(crate, "")
         return crate, new_title
 
-    for (section, item_titles) in murder_party_items:
+    for murder_party_item in murder_party_items:
+
+        if len(murder_party_item) != 2:
+            raise ValueError("Value should be a PAIR: %s" % murder_party_items)
+
+        section, item_titles = murder_party_item
         crate, section = _extract_crate(section)
         default_create = crate or section
         for item_title in item_titles:
@@ -439,7 +444,7 @@ def generate_archives_sheets():
                                 jinja_context=isolated_data)
             isolated_data["current_player_id"] = None
 
-    ##AAAAAA
+    STOP
     # -------------
 
     def _get_player_context(_player_name):

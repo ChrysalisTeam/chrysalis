@@ -1,7 +1,6 @@
 
 
-- SOphie reparera grande bougie et ecumoire cylindrique
-- Vero reparera bracelet doré ayant perdu pierre
+### Vero reparera bracelet doré ayant perdu pierre
 
 -
   - "@PLAN-DES-LIEUX Emplacements décorés voire illuminés aux 2 étages"
@@ -80,7 +79,7 @@
     - "Petit plateau de service rectangulaire en bois doré"
     - "OUT Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %}"
     - "2 nappes blanche nacrées et 1 chemin de table brodé blanc cassé"
-    - Globe à LED Atmosphera (2xAAA) à côté du coffre légendaire (marque d'envoûtement POSITIF)"
+    - "Globe à LED Atmosphera (2xAAA) à côté du coffre légendaire (marque d'envoûtement POSITIF)"
 
 -
   - "@RECOINS Pentacle du rituel inachevé de l’arkonte [L2]"
@@ -145,10 +144,10 @@
     - "@GENERAL Néon UV auto-alimenté"
     - "@AUDIOVIDEO Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
     - "@GENERAL Plume de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %}"
-    - !"Décorations : boite cylindrique en cuir noir contenant peigne perroquet, boussole, loupe, pipe"
-    - !"Décorations : mini-jumelles, miroir, OUT bol et clochette en laiton, lunettes dans étui fin noir, gobelet en argent, OUT jeu de cartes dans étui rouge, boite en métal jaune Neurotrophol"
-    - !"Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope"
-    - !"Decorations : petite cafetière en cuivre"
+    - "! Décorations : boite cylindrique en cuir noir contenant peigne perroquet, boussole, loupe, pipe"
+    - "! Décorations : mini-jumelles, miroir, OUT bol et clochette en laiton, lunettes dans étui fin noir, gobelet en argent, OUT jeu de cartes dans étui rouge, boite en métal jaune Neurotrophol"
+    - "! Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope"
+    - "! Decorations : petite cafetière en cuivre"
 
 -
   - "@CIMETIERE Cimetière [L4]"
@@ -197,7 +196,7 @@
 # ETAGE INTERDIT #
 
 -
-  - OUT"Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes) [P2] {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
+  - "OUT Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes) [P2] {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
   - []
     
 
@@ -209,81 +208,81 @@
 
 -
   - "@ALCHIMIE Laboratoire d'Alchimie [P3]"
-
-    - !"Bouteille verdâtre à liqueur en tête de mort"
-    - !"tapis en paille présentoir"
-    - !"drap noir "
-    - !"Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
-    - !"Chaudron rond en cuivre à anse, avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
-    - !"2 pots cylindrique aluminium/doré avec couvercle"
+  -
+    - "! Bouteille verdâtre à liqueur en tête de mort"
+    - "! tapis en paille présentoir"
+    - "! drap noir "
+    - "! Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
+    - "! Chaudron rond en cuivre à anse, avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
+    - "! 2 pots cylindrique aluminium/doré avec couvercle"
     - "ABORTED Passoire cylindrique en métal"
-    - !"Pot africain en bois avec couvercle"
-    - !"Vase hexagonal en verre"
+    - "! Pot africain en bois avec couvercle"
+    - "! Vase hexagonal en verre"
     - "ABORTED Boite rectangulaire plate en laiton"
-    - !"2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
+    - "! 2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
     - "@POTIONS Potion de vapeur de Thorium dans un des tiroirs rouges {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "@GEMMES Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %}"
     - "@BOUTEILLES Grand lot de petites bouteilles diverses et de condiments"
-    - !"Support cylindrique éclairant à LEDs (3xAAA) @Véro"
+    - "! Support cylindrique éclairant à LEDs (3xAAA) @Véro"
     - "CUSTOMISER @BOUTEILLES 7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
-    - !"Grande bouteille verte de Champagne et grande bouteillee bleeue Elixir de Sorcière"
+    - "! Grande bouteille verte de Champagne et grande bouteillee bleeue Elixir de Sorcière"
     - "@BOUTEILLES 2 flacons-bouteilles de condiments : Curcuma et Coriandre"
     - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
     - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
-    - !"Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %}"
-    - !"Objets décoratifs : 2 grandes gourdes cylindriques et théière en cuivre, pichet en zinc, petit vase large en verre fumé noir"
+    - "! Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %}"
+    - "! Objets décoratifs : 2 grandes gourdes cylindriques et théière en cuivre, pichet en zinc, petit vase large en verre fumé noir"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis le cimetière après ouverture de l'étage interdit"
-    - !"Boule plasma Pearl (USB ou 4xAAA)"
+    - "! Boule plasma Pearl (USB ou 4xAAA)"
     
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie [P4]"
   -
-    - !"Lampe à sel (USB normal)"
-    - !  1 Drap/nappe/rideau gris
-    - !"Lanterne à flamme (3xAA) (marque d'envoûtement POSITIF)"
-    - !"3 faux-galets creux (pierreries dedans)"
-    - !"Mini-globe terrestre"
-    - OUT"Guirlande multicolore SilverWireLights (3xAA) @Cat"
+    - "! Lampe à sel (USB normal)"
+    - "!  1 Drap/nappe/rideau gris"
+    - "! Lanterne à flamme (3xAA) (marque d'envoûtement POSITIF)"
+    - "! 3 faux-galets creux (pierreries dedans)"
+    - "! Mini-globe terrestre"
+    - "OUT Guirlande multicolore SilverWireLights (3xAA) @Cat"
     - "@GEMMES Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et Fluorite {% hint 'gem_fluorine' is provided %}"
     - "@GEMMES Gemme d'Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %}"
     - "@GEMMES Lot d'autres petites pierres du monde avec étiquettes"
     - "@GEMMES Cristaux, gemmes et coquillages divers"
-    - !"Coffret en bois clair et jointures laiton PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE)"
+    - "! Coffret en bois clair et jointures laiton PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE)"
     - "OUT CHALUMEAU ancien (en vrai et poster) non loin @Cat"
     - "OUT Mini-lanterne rouillée avec crâne animal illuminé @Cat"
     - "??? @LIVRES Livre factice gris ChooChoo @Clodynette caché près du chalumeau, avec trésor dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %}"
-    - !"Lampe-sculpture à gemme surmontée d'un dragon"
-    - !"4 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
-    - !"Arbre à micro-cristaux colorés avec guirlande d'illumination"
-    - !"7 flacons de cristaux colorés"
-    - OUT"Fléchette de nerf cachée là {% hint 'other_iridium_bullet_for_woodsman' is provided %}"
-    - !"ENORMES Boîte-présentoir très plate en bois pour exposer les gemmes"
+    - "! Lampe-sculpture à gemme surmontée d'un dragon"
+    - "! 4 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
+    - "! Arbre à micro-cristaux colorés avec guirlande d'illumination"
+    - "! 7 flacons de cristaux colorés"
+    - "OUT Fléchette de nerf cachée là {% hint 'other_iridium_bullet_for_woodsman' is provided %}"
+    - "! ENORMES Boîte-présentoir très plate en bois pour exposer les gemmes"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis la mini-jungle après ouverture de l'étage interdit"
 
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac) [P5]"
   -
     - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %}"
-    - !"Coffret cubique en bois avec VERROU MAGNÉTIQUE"
+    - "! Coffret cubique en bois avec VERROU MAGNÉTIQUE"
     - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique"
 
 -
   - "@CORRIDORS Corridor d'Aura Manaïque (cul-de-sac) [P6]"
   -
     - "@ENORMES Accès corridor bloqué par une porte en bronze de type 'ULTRA-LOURD"
-    - OUT"SCEAU d'initiation (avec guirlande)"
-    - !"Boîtes-gigognes beiges tressées (recouvertes d'un DRAP NOIR) de l'initiation d'Octave"
+    - "OUT SCEAU d'initiation (avec guirlande)"
+    - "! Boîtes-gigognes beiges tressées (recouvertes d'un DRAP NOIR) de l'initiation d'Octave"
     - "@BIJOUX Broche d'Octave dans une des boîtes-gigognes (envoûtement POSITIF) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %} {% hint 'maupertuis_initiation_seal' is provided %}"
-    - OUT"Note: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
+    - "OUT Note: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
 
 -
   - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac) [P7]"
   -
-    - OUT"Présence de radiations et vapeurs toxiques"
+    - "OUT Présence de radiations et vapeurs toxiques"
     - "@ENORMES Valisettes ovales imbriquées, [un automate doit pouvoir prendre celle intérieure]"
-    - OUT"La valisette intérieure est protégée par un CADENAS CROCHETABLE TRANSPARENT"
+    - "OUT La valisette intérieure est protégée par un CADENAS CROCHETABLE TRANSPARENT"
     - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette interne"
-    - ! JUSTE 1"2 grands miroirs rectangulaires pour le fond des valisettes"
+    - "! JUSTE 1 grand miroir rectangulaire pour le fond des valisettes"
     - "@POTIONS Plusieurs potions (dont celle de Fungal Bleu) {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
 
     - "@GRIMOIRES
