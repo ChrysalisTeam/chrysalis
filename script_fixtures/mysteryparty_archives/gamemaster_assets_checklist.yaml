@@ -1,4 +1,8 @@
 
+
+- SOphie reparera grande bougie et ecumoire cylindrique
+- Vero reparera bracelet doré ayant perdu pierre
+
 -
   - "@PLAN-DES-LIEUX Emplacements décorés voire illuminés aux 2 étages"
   -
@@ -63,8 +67,8 @@
   - "@RECOINS Buffet d'outre-monde [L1]"
   -
     - "Lampe à fibres Blue ice Lunartec (3xAAA)"
-    - "Ballon verre jaune Sil Interiors avec LEDs (2xAA incluses) au buffet @Cat"
-    - "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
+    - "ABORTED Ballon verre jaune Sil Interiors avec LEDs (2xAA incluses) au buffet @Cat"
+    - "4 bougies LED soufflables (chacune 1xCR2032 incluse) (3 ONLY RECOVERED)"
     - "2 bougies sur chandelier (chacun 2xAA)"
     - "@ENORMES Gramophone (alimentation: 12V)"
     - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}])"
@@ -120,7 +124,7 @@
   -
     - "@LIVRES Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
     - "@LIVRES Classeur vert-foncé CLIVRA, avec message UV indiquant qu'il n'est PAS le Thanatologue"
-    - "@GENERAL Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %}"
+    - "OUT @GENERAL Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %}"
     - "@GENERAL CIGALE pour ledit mini-coffret"
 
 -
@@ -200,42 +204,45 @@
   - "@ALCHIMIE Laboratoire d'Alchimie [P3]"
   -
     - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
-    - "Chaudron rond en cuivre à anse, avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
-    - "Passoire cylindrique en métal"
+    - "??? Chaudron rond en cuivre à anse, avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
+    - "2 pots cylindrique aluminium/doré avec couvercle"
+    - "ABORTED Passoire cylindrique en métal"
     - "Pot africain en bois avec couvercle"
     - "Vase hexagonal en verre"
-    - "Boite rectangulaire plate en laiton"
+    - "ABORTED Boite rectangulaire plate en laiton"
     - "2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
     - "@POTIONS Potion de vapeur de Thorium dans un des tiroirs rouges {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "@GEMMES Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %}"
     - "@BOUTEILLES Grand lot de petites bouteilles diverses et de condiments"
     - "Support cylindrique éclairant à LEDs (3xAAA) @Véro"
-    - "@BOUTEILLES 7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
+    - "CUSTOMISER @BOUTEILLES 7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
+    - "Grande bouteille verte de Champagne et grande bouteillee bleeue Elixir de Sorcière"
     - "@BOUTEILLES 2 flacons-bouteilles de condiments : Curcuma et Coriandre"
     - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
     - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
     - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %}"
     - "Objets décoratifs : 2 grandes gourdes cylindriques et théière en cuivre, pichet en zinc, petit vase large en verre fumé noir"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis le cimetière après ouverture de l'étage interdit"
-
+    - "Boule plasma Pearl (USB ou 4xAAA)"
+    
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie [P4]"
   -
+    - "Lampe à sel (USB normal)"
     - "Lanterne à flamme (3xAA) (marque d'envoûtement POSITIF)"
     - "3 faux-galets creux (pierreries dedans)"
     - "Mini-globe terrestre"
-    - "Boule plasma Pearl (USB ou 4xAAA)"
     - "Guirlande multicolore SilverWireLights (3xAA) @Cat"
     - "@GEMMES Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et Fluorite {% hint 'gem_fluorine' is provided %}"
     - "@GEMMES Gemme d'Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %}"
     - "@GEMMES Lot d'autres petites pierres du monde avec étiquettes"
     - "@GEMMES Cristaux, gemmes et coquillages divers"
     - "Coffret en bois clair et jointures laiton PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE)"
-    - "CHALUMEAU ancien (en vrai et poster) non loin @Cat"
-    - "Mini-lanterne rouillée avec crâne animal illuminé @Cat"
-    - "@LIVRES Livre factice gris ChooChoo @Clodynette caché près du chalumeau, avec trésor dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %}"
+    - "OUT CHALUMEAU ancien (en vrai et poster) non loin @Cat"
+    - "OUT Mini-lanterne rouillée avec crâne animal illuminé @Cat"
+    - "??? @LIVRES Livre factice gris ChooChoo @Clodynette caché près du chalumeau, avec trésor dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %}"
     - "Lampe-sculpture à gemme surmontée d'un dragon"
-    - "3 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
+    - "4 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
     - "Arbre à micro-cristaux colorés avec guirlande d'illumination"
     - "7 flacons de cristaux colorés"
     - "Fléchette de nerf cachée là {% hint 'other_iridium_bullet_for_woodsman' is provided %}"
@@ -272,11 +279,11 @@
   - "@NICHE Niche de la Bête [P1]"
   -
     - "@ENORMES Nid de lianes et feuilles géantes"
-    - "@PERSONNES {% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device_in_beast_nest' is provided %}"
+    - "OUT @PERSONNES {% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device_in_beast_nest' is provided %}"
     - "Portefeuille vert du voleur, avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}]"
     - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF) <MISSING>"
-    - "Lanterne en argent cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
+    - "A METTRE AILLEURS -> donner joueurs ;  Lanterne en argent cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
     - "@LIVRES Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %}"
     - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie + batterie miniUSB SIXTHGU)"
 
@@ -352,7 +359,7 @@
     - "@AUDIOVIDEO Mégaphone Bontempi à écho (batterie / microUSB) avec Jack3.5 et Bluetooth (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
     - "Quelques outils anciens pour l'ambiance, tournevis, mètre-ruban, pince... (pour l'inventeur) <MISSING>"
     - "Piles gros format pour lanterne en argent cassée et pour détecteur de métal cassé (pour l'inventeur) {% hint 'broken_lantern_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %}"
-    - "Cache-oeil steampunk (pour l'inventeur) @clodynette"
+    - "ABORTED Cache-oeil steampunk (pour l'inventeur) @clodynette"
 
     - "@LIVRES Protège-livre rouge doré avec la fiche de planification, et les images des prophéties et intuitions (pour la duchesse) {% hint 'npc_responsible_for_prophecies_monitoring' is provided %}{% hint 'parcival_oracle_intuition_hints' is provided %}"
     - "Projecteur ovale sonore LuckyStone (microUSB sans batterie) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) (pour la duchesse"
@@ -360,7 +367,7 @@
     - "@ENORMES Bâton de magicienne avec boule verte pour la duchesse"
 
     - "Sarbacane-flûte (pour le druide) {% hint 'blowpipe_flute_for_druid' is provided %}"
-    - "Sacoche de ceinture de l'arkonte (pour le druide), avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% fact 'druid_makes_conspiracy_against_arkon' %} {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'feather_in_arkon_bag' is provided %}"
+    - "OUT Sacoche de ceinture de l'arkonte (pour le druide), avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% fact 'druid_makes_conspiracy_against_arkon' %} {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'feather_in_arkon_bag' is provided %}"
     - "Balle avec rubans multicolores (pour le druide) pour simuler un sortilège offensif"
 
     - "2 paires de pouces à LED (verte et rouge) A DISTRIBUER !"
@@ -375,13 +382,13 @@
     - "Détecteur de métal Longruner (nécessite pile RECTANGLE 9V) (pour le sounder) initialement SANS SA PILE {% hint 'spy_sounder_metal_detector_initially_broken' is provided %} {% hint 'spy_sounder_metal_detector_battery' is needed %}"
     - "@AUDIOVIDEO Lampe-torche UV (nécessite 3xAAA) (pour l'unveiler) initialement SANS SA PILE {% hint 'explorer_unveiler_uv_lamp_initially_broken' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is needed %}"
     - "Feuilles mémo des codes secrets et des runes (pour runologist) {% hint 'secret_codes_sheet_for_explorer_runologist' is provided %} {% hint 'runic_transcription_sheet_for_explorer_runologist' is provided %}"
-    - "Stéthoscope et loupe (pour runologist) {% hint 'stethoscope_and_magnifying_glass_for_explorer_runologist' is provided %}"
+    - "OUT Stéthoscope et loupe (pour runologist) {% hint 'stethoscope_and_magnifying_glass_for_explorer_runologist' is provided %}"
     - "Couverture marron fine avec croix, contenant le journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %}"
     - "Arbalète bois et UNIQUE fléchette (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %}"
-    - "@BOUTEILLES Fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %}"
-    - "@POTIONS Potions de Focus et de Charme (pour l'alchemist, appartenait à l'exorcist) {% hint 'potions_of_focus_from_exorcist' is provided %} {% hint 'potions_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %} <MISSING-POTIONS-A-FABRIQUER>"
-    - "2 lanternes rouges du Clivra (2xLR20D chacune)"
-    - "Lanterne en bronze (2xLR20D incluses)"
+    - "MANQUANTES @BOUTEILLES Fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %}"
+    - "MANQUANTES @POTIONS Potions de Focus et de Charme (pour l'alchemist, appartenait à l'exorcist) {% hint 'potions_of_focus_from_exorcist' is provided %} {% hint 'potions_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %} <MISSING-POTIONS-A-FABRIQUER>"
+    - "OUT 2 lanternes rouges du Clivra (2xLR20D chacune)"
+    - "OUT Lanterne en bronze (2xLR20D incluses)"
 
 -
   - "COSTUMES"
@@ -446,7 +453,7 @@
 
     - "@ECLAIRAGES 6 grosses bougies (3xAAA chacune, piles NON PRESENTES initialement) à disséminer dans l'étage autorisé {% hint 'candles_without_battery' is provided %}"
     - "@ECLAIRAGES 9 moyennes bougies (1xCR2032 chacune incluse) à disséminer dans l'étage interdit (marque d'envoûtement POSITIF)"
-    - "@ECLAIRAGES Lampe à sel (USB normal)"
+
 
     - "Batterie plate blanche LifeDom 18Wh"
     - "Batterie USB Duracell PB2 24.3Wh"
