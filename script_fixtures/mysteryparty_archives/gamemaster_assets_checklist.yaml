@@ -71,53 +71,51 @@
     - "SCEAU lumineux (1 MOYENNE Guirlande de Noël multicolore réglable @Pascal) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %}"
 
 -
-  - "@RECOINS Buffet d'outre-monde [L1]"
+  - "@BUFFET Buffet d'outre-monde [L1]"
   -
-    - "! Lampe à fibres Blue ice Lunartec (3xAAA)"
-    - "ABORTED Ballon verre jaune Sil Interiors avec LEDs (2xAA incluses) au buffet @Cat"
-    - "! 4 bougies LED soufflables (chacune 1xCR2032 incluse) (3 ONLY RECOVERED)"
-    - "! 2 bougies sur chandelier (chacun 2xAA)"
+    - "Lampe à fibres Blue ice Lunartec (3xAAA)"
+    - "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
+    - "2 bougies sur chandelier (chacun 2xAA)"
     - "@ENORMES Gramophone (alimentation: 12V)"
-    - "! Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}])"
+    - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}])"
     - "Petit plateau de service rectangulaire en bois doré"
-    - "OUT Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %}"
-    - "2 nappes blanche nacrées et 1 chemin de table brodé blanc cassé"
+    - "@OUT Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %}"
+    - "2 nappes blanche nacrées, 1 nappe pourpre brillante, et 1 chemin de table brodé blanc cassé"
     - "Globe à LED Atmosphera (2xAAA) à côté du coffre légendaire (marque d'envoûtement POSITIF)"
 
 -
   - "@RECOINS Pentacle du rituel inachevé de l’arkonte [L2]"
   -
     - "@AUDIOVIDEO 10 cylindres LEDs remote-controlled Kitosun (2xCR 2450 chacune)"
-    - "OUT 1 LONGUE Guirlande de Noël multicolore réglable @Pascal"
-    - "! Livres luxe pourpre : Tomes 1&2 du roman du druide"
-    - "! Livre bleu à tranche rouge : Tome unique du roman de la duchesse"
-    - "! Livre marron tacheté : Tome unique du roman de l'inventeur"
+    - "@OUT 1 LONGUE Guirlande de Noël multicolore réglable @Pascal"
+    - "2 Livres luxe pourpre : Tomes 1&2 du roman du druide sur le pentacle"
+    - "Livre bleu à tranche rouge : Tome unique du roman de la duchesse sur le pentacle"
+    - "Livre marron tacheté : Tome unique du roman de l'inventeur sur le pentacle"
 
 -
   - "@RECOINS Coin du fantôme de l’archiviste [F1]"
   -
 
     - "@ECLAIRAGES Jarre lumineuse NewYang (batterie solaire incluse)"
-    - "! Stroboscope LED (4xAA)"
-    - "ABORTED @ENORMES Projecteur directionnel 220v @Poncet (pour les escaliers)"
-    - "! 4 néons LED Black Light (USB)"
+    - "Stroboscope LED (4xAA) près du pentacle"
+    - "4 néons LED Black Light (USB) près du pentacle"
     - "@ENORMES Mini-meuble boîte-aux-lettres à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT, avec dedans les 2 lettres aux parents Maupertuis (sur risques des avatars et des artefacts maudits)"
 
 -
   - "@RECOINS Coin du fantôme de l’arkonte [F3]"
   -
-    - "! Projecteur globe Aurore Boréale Lunartec (secteur/12V)"
+    - "Projecteur globe Aurore Boréale Lunartec (secteur/12V) pour l'arkonte"
     - "@AUDIOVIDEO Mini-lecteur MP3 clip argenté (batterie faible) avec écouteurs (+ batterie miniUSB solaire ClipSonic)"
 
 -
   - "@RECOINS Coin du fantôme de l’enfant (près de la jungle) [F2] {% fact 'phantom_octave_is_near_jungle' %}"
   -
-    - "! Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5"
+    - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 pour l'enfant"
     - "@AUDIOVIDEO Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse"
-    - "OUT Valise avec quelques vieux vêtements aléatoires"
-    - "! 2 livres anciens beige/marbré dans la valise"
+    - "@OUT Valise avec quelques vieux vêtements aléatoires"
     - "@PARCHEMINS Lettre des parents d'Octave avec des instructions pour son adoubement"
-    - "! Livre d'enfant déchiré avec des animaux en mouvement {% hint 'torn_child_book_with_animal_motions' is provided %}"
+    - "2 livres anciens beige/marbré dans la valise de l'enfant"
+    - "Livre déchiré avec des animaux en mouvement pour le coin de l'enfant {% hint 'torn_child_book_with_animal_motions' is provided %}"
 
 -
   - "@JUNGLE Mini-jungle du druide [L6]"
