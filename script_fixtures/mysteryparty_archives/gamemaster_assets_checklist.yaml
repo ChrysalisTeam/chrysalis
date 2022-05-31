@@ -180,18 +180,18 @@
 -
   - "@TOMBEAU Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} [L7]"
   -
-    - "Emblème du mage avec dragon doré {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
+    - "Blason emblème plastique du mage avec dragon doré {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
     - "1 pierre tombale verte"
     - "3 grosses bougies (3xAAA chacune)"
     - "Aube de pape dorée"
     - "Masque 'anonymous' doré devant le crâne"
-    - "Capuchon noir médiéval en feutre"
+    - "@OUT Capuchon noir médiéval en feutre"
     - "Calotte/tiare noir&or"
     - "@BIJOUX {% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}])"
     - "@BIJOUX {% symbol 'Bague Amplificans' for 'ring_amplificans_name' %} (code d'envoûtement POSITIF [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} "
     - "@DIVERS Code d'envoûtement NEGATIF [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] sur l'affichette de la porte du tombeau"
     - "@DIVERS MESSAGE RUNIQUE 'Seul le sang des Maupertuis passera sans encombre' sur la porte du tombeau {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %}"
-    - "! Projecteur LED Blanche RX-7732 (4xAA incluses) @Véro"
+    - "Projecteur LED Blanche RX-7732 (4xAA incluses) @Véro"
 
 # ETAGE INTERDIT #
 
@@ -209,30 +209,30 @@
 -
   - "@ALCHIMIE Laboratoire d'Alchimie [P3]"
   -
-    - "! Bouteille verdâtre à liqueur en tête de mort"
-    - "! tapis en paille présentoir"
-    - "! drap noir "
-    - "! Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
-    - "! Chaudron rond en cuivre à anse, avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
-    - "! 2 pots cylindrique aluminium/doré avec couvercle"
-    - "ABORTED Passoire cylindrique en métal"
-    - "! Pot africain en bois avec couvercle"
-    - "! Vase hexagonal en verre"
-    - "ABORTED Boite rectangulaire plate en laiton"
-    - "! 2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
+    - "Bouteille-bougeoir en laiton et verre bleu"
+    - "Bouteille verdâtre à liqueur en tête de mort"
+    - "Tapis en paille présentoir"
+    - "Nappe-drap noir "
+    - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
+    - "Chaudron rond en cuivre à anse, avec enchantement d'inabrasion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
+    - "2 pots cylindrique, 1 en aluminium et 1 en doré, avec couvercles"
+    - "Passoire cylindrique en métal brûlé/troué"
+    - "Pot africain en bois avec couvercle"
+    - "Vase hexagonal en verre transparent"
+    - "2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
     - "@POTIONS Potion de vapeur de Thorium dans un des tiroirs rouges {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %}"
     - "@GEMMES Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %}"
     - "@BOUTEILLES Grand lot de petites bouteilles diverses et de condiments"
-    - "! Support cylindrique éclairant à LEDs (3xAAA) @Véro"
-    - "CUSTOMISER @BOUTEILLES 7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
-    - "! Grande bouteille verte de Champagne et grande bouteillee bleeue Elixir de Sorcière"
+    - "Support cylindrique éclairant à LEDs (3xAAA) @Véro"
+    - "@BOUTEILLES 7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
+    - "Grande bouteille verte de Champagne et grande bouteillee bleue Elixir de Sorcière"
     - "@BOUTEILLES 2 flacons-bouteilles de condiments : Curcuma et Coriandre"
     - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
     - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
-    - "! Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %}"
-    - "! Objets décoratifs : 2 grandes gourdes cylindriques et théière en cuivre, pichet en zinc, petit vase large en verre fumé noir"
+    - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %}"
+    - "Objets décoratifs : 2 grandes gourdes cylindriques, théière en cuivre, pichet en zinc, petit vase large en verre fumé noir"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis le cimetière après ouverture de l'étage interdit"
-    - "! Boule plasma Pearl (USB ou 4xAAA)"
+    - "Boule plasma Pearl (USB ou 4xAAA)"
     
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie [P4]"
@@ -476,7 +476,7 @@
     - "Batterie solaire rouge @Valentin"
     - "2 batteries haute capacité Maxoak K2"
 
-    - "@ALCHIMIE Boite beige plate en bois avec toutes les potions (marquées @POTIONS) importantes du jeu"
+    - "@POTIONS Boite beige plate en bois avec toutes les potions importantes du jeu"
 
 
 
