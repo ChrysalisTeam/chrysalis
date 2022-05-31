@@ -127,12 +127,12 @@
     - "OUT Cristaux blancs en impression 3D (mettre mini LEDs dedans)"
 
 -
-  - "Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} [L5] {% hint 'family_briefcase_protected_by_code' is provided %}"
+  - "@MALLETTES Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} [L5] {% hint 'family_briefcase_protected_by_code' is provided %}"
   -
-    - "@LIVRES Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
-    - "@LIVRES Classeur vert-foncé CLIVRA, avec message UV indiquant qu'il n'est PAS le Thanatologue"
-    - "OUT @GENERAL Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %}"
-    - "@GENERAL CIGALE pour ledit mini-coffret"
+    - "Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
+    - "Classeur vert-foncé CLIVRA, avec message UV indiquant qu'il n'est PAS le Thanatologue"
+    - "@OUT @GENERAL Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %}"
+    - "@GENERAL CIGALE pour le mini-coffret en bois rouge&or"
 
 -
   - "@COFFRE-MARRON Coffre familial commun en bois marron des Maupertuis [L5]"
@@ -144,10 +144,10 @@
     - "@GENERAL Néon UV auto-alimenté"
     - "@AUDIOVIDEO Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
     - "@GENERAL Plume de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %}"
-    - "! Décorations : boite cylindrique en cuir noir contenant peigne perroquet, boussole, loupe, pipe"
-    - "! Décorations : mini-jumelles, miroir, OUT bol et clochette en laiton, lunettes dans étui fin noir, gobelet en argent, OUT jeu de cartes dans étui rouge, boite en métal jaune Neurotrophol"
-    - "! Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope"
-    - "! Decorations : petite cafetière en cuivre"
+    - "Décorations : boite cylindrique en cuir noir contenant peigne-perroquet, loupe, pipe métallique"
+    - "Décorations : mini-jumelles dans étui velours violet, miroir décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol"
+    - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc"
+    - "2 grands tissus-nappes noirs"
 
 -
   - "@CIMETIERE Cimetière [L4]"
@@ -193,12 +193,14 @@
     - "@DIVERS MESSAGE RUNIQUE 'Seul le sang des Maupertuis passera sans encombre' sur la porte du tombeau {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %}"
     - "Projecteur LED Blanche RX-7732 (4xAA incluses) @Véro"
 
+
 # ETAGE INTERDIT #
 
 -
-  - "OUT Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes) [P2] {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
-  - []
-    
+  - "@OUT Coffre légendaire (valise noire épaisse) des Maupertuis  (protégé par 2 codes) [P2] {% hint 'family_legendary_chest_protected_by_double_key' is provided %}"
+  -
+    - "@MALLETTES Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' (nom possiblement inscrit en code magnétique) pour la mallette noire épaisse (coffre légendaire des Maupertuis) ; il contient le sort de zombification, la contre-mesure en UV, {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'feather_in_thanatologue' is provided %}"
+
 
 -
   - "Coin du fantôme du voleur [F4]"
@@ -237,62 +239,50 @@
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie [P4]"
   -
-    - "! Lampe à sel (USB normal)"
-    - "!  1 Drap/nappe/rideau gris"
-    - "! Lanterne à flamme (3xAA) (marque d'envoûtement POSITIF)"
-    - "! 3 faux-galets creux (pierreries dedans)"
-    - "! Mini-globe terrestre"
-    - "OUT Guirlande multicolore SilverWireLights (3xAA) @Cat"
+    - "Lampe à sel (USB normal)"
+    - "1 drap-nappe-rideau gris"
+    - "Lanterne à flamme (3xAA) (marque d'envoûtement POSITIF)"
+    - "3 faux-galets creux (pierreries dedans)"
+    - "Mini-globe terrestre"
+    - "@OUT Guirlande multicolore SilverWireLights (3xAA) @Cat"
     - "@GEMMES Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et Fluorite {% hint 'gem_fluorine' is provided %}"
     - "@GEMMES Gemme d'Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %}"
     - "@GEMMES Lot d'autres petites pierres du monde avec étiquettes"
     - "@GEMMES Cristaux, gemmes et coquillages divers"
-    - "! Coffret en bois clair et jointures laiton PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE)"
-    - "OUT CHALUMEAU ancien (en vrai et poster) non loin @Cat"
-    - "OUT Mini-lanterne rouillée avec crâne animal illuminé @Cat"
-    - "??? @LIVRES Livre factice gris ChooChoo @Clodynette caché près du chalumeau, avec trésor dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %}"
-    - "! Lampe-sculpture à gemme surmontée d'un dragon"
-    - "! 4 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
-    - "! Arbre à micro-cristaux colorés avec guirlande d'illumination"
-    - "! 7 flacons de cristaux colorés"
-    - "OUT Fléchette de nerf cachée là {% hint 'other_iridium_bullet_for_woodsman' is provided %}"
-    - "! ENORMES Boîte-présentoir très plate en bois pour exposer les gemmes"
+    - "Coffret en bois clair et jointures laiton PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE)"
+    - "Lampe-sculpture à gemme surmontée d'un dragon"
+    - "4 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
+    - "Arbre à micro-cristaux colorés avec guirlande d'illumination"
+    - "7 flacons de cristaux colorés"
+    - "@OUT Fléchette de nerf cachée là {% hint 'other_iridium_bullet_for_woodsman' is provided %}"
+    - "Boîte-présentoir très plate en bois pour exposer les gemmes"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis la mini-jungle après ouverture de l'étage interdit"
 
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac) [P5]"
   -
     - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %}"
-    - "! Coffret cubique en bois avec VERROU MAGNÉTIQUE"
+    - "Coffret cubique en bois peint de fruits, avec VERROU MAGNÉTIQUE"
     - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique"
 
 -
   - "@CORRIDORS Corridor d'Aura Manaïque (cul-de-sac) [P6]"
   -
     - "@ENORMES Accès corridor bloqué par une porte en bronze de type 'ULTRA-LOURD"
-    - "OUT SCEAU d'initiation (avec guirlande)"
-    - "! Boîtes-gigognes beiges tressées (recouvertes d'un DRAP NOIR) de l'initiation d'Octave"
+    - "@OUT SCEAU d'initiation (avec guirlande)"
+    - "Boîtes-gigognes beiges tressées (recouvertes d'un DRAP NOIR) de l'initiation d'Octave"
     - "@BIJOUX Broche d'Octave dans une des boîtes-gigognes (envoûtement POSITIF) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %} {% hint 'maupertuis_initiation_seal' is provided %}"
-    - "OUT Note: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
+    - "@OUT Note: le collier d'aura manaïque n'était plus ici depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
 
 -
   - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac) [P7]"
   -
-    - "OUT Présence de radiations et vapeurs toxiques"
-    - "@ENORMES Valisettes ovales imbriquées, [un automate doit pouvoir prendre celle intérieure]"
-    - "OUT La valisette intérieure est protégée par un CADENAS CROCHETABLE TRANSPARENT"
-    - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette interne"
-    - "! JUSTE 1 grand miroir rectangulaire pour le fond des valisettes"
+    - "@OUT Présence de radiations et vapeurs toxiques"
+    - "Valisettes ovales rougeâtres imbriquées [un automate doit pouvoir prendre celle intérieure]"
+    - "@OUT La valisette ovale rougeâtre intérieure est protégée par un CADENAS CROCHETABLE TRANSPARENT"
+    - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure"
+    - "1 grand miroir rectangulaire pour le fond de la petite valisette ovale rougeâtre"
     - "@POTIONS Plusieurs potions (dont celle de Fungal Bleu) {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %}"
-
-    - "@GRIMOIRES
-
-
-     - Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' (nom possiblement inscrit en code magnétique) ; il contient le sort de zombification, la contre-mesure en UV, {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'feather_in_thanatologue' is provided %}"
-
-
-    - "@LIVRES 2 gros grimoires (1 rouge et 1 gris foncé) creusés pour accueillir tablette/papiers"
-
 
 -
   - "@NICHE Niche de la Bête [P1]"
