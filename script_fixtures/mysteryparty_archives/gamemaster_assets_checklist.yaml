@@ -120,14 +120,14 @@
     - "! Livre d'enfant déchiré avec des animaux en mouvement {% hint 'torn_child_book_with_animal_motions' is provided %}"
 
 -
-  - "@RECOINS Mini-jungle du druide [L6]"
+  - "@JUNGLE Mini-jungle du druide [L6]"
   -
-    - "! Crâne empoisonné de l'arkonte caché entre les pots {% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %}"
+    - "Crâne empoisonné de l'arkonte caché entre les pots{% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %}"
+    - "Lianes et feuilles géantes pour la mini-jungle"
     - "@ENORMES Emballages bruns pour faire la 'terre' de la jungle"
-    - "OUT 1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
+    - "@OUT 1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
     - "@AUDIOVIDEO Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)"
-    - "! Lierres et feuilles géantes vertes"
-    - "OUT Cristaux blancs en impression 3D (mettre mini LEDs dedans)"
+    - "@OUT Cristaux blancs en impression 3D (mettre mini LEDs dedans)"
 
 -
   - "@MALLETTES Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} [L5] {% hint 'family_briefcase_protected_by_code' is provided %}"
@@ -290,13 +290,13 @@
 -
   - "@NICHE Niche de la Bête [P1]"
   -
-    - "@ENORMES Nid de lianes et feuilles géantes"
     - "OUT @PERSONNES {% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device_in_beast_nest' is provided %}"
     - "Portefeuille vert du voleur, avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}]"
     - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF) <MISSING>"
     - "@PARCHEMINS Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %}"
     - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie + batterie miniUSB SIXTHGU)"
+    - "@JUNGLE Lianes et feuilles géantes pour la niche de la Bête"
 
 # DIVERS AUTRES #
 
@@ -377,7 +377,7 @@
     - "@ENORMES Grand bâton noueux (pour le druide)"
     - "Sarbacane-flûte (pour le druide) {% hint 'blowpipe_flute_for_druid' is provided %}"
     - "Balle avec rubans multicolores (pour le druide) pour simuler un sortilège offensif"
-    
+
     - "@OUT Sacoche de ceinture de l'arkonte (pour le druide), avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% fact 'druid_makes_conspiracy_against_arkon' %} {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'feather_in_arkon_bag' is provided %}"
 
     - "@OUT 2 paires de pouces à LED (verte et rouge) A DISTRIBUER !"
