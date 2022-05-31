@@ -341,16 +341,17 @@
     - "Dé à 6 faces, pour les soins dangereux des avatars etc."
 
 -
-  - "@FANTOMES Fantômes humains"
+  - "@COSTUMES-FIGURANTS Fantômes humains"
   -
-    - "5 tuniques en velours pourpre"
-    - "4 paires gants blancs à diodes (3 à lumière blanche et 1 bleue)"
+    - "5 sacs fins en toile noir pour stocker les affaires des fantômes"
+    - "5 tuniques en velours pourpre pour fantômes"
+    - "4 paires gants blancs à diodes (3 à lumière blanche et 1 à lumière bleue)"
     - "@ENORMES 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes"
-    - "Masque à LEDs ShiningApp pour le voleur"
-    - "Gros collier en or pour l'arkonte, potentiellement"
+    - "@AUDIOVIDEO Masque à LEDs ShiningApp pour le voleur"
+    - "@BIJOUX Gros collier en or pour l'arkonte, potentiellement"
 
 -
-  - "@FANTOMES La Bête"
+  - "@COSTUMES-FIGURANTS La Bête"
   -
     - "Robe noire (peut aussi servir à l'Ankou)"
     - "Masque latex de monstre"
@@ -402,11 +403,11 @@
     - "Lanterne en argent prétendument cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
 
 -
-  - "COSTUMES"
+  - "@COSTUMES-JOUEURS"
   -
-    - "Habits médiévaux : cape verte, pantalon marron, pantacourt noir, et chemises blanche, beige, et marron"
-    - "Habits d'automates : vestons noirs et bris, pantalon gris, redingote bleue, redingote noire, cape à dentelle noire"
     - "4 ceintures beiges, 4 jabots bleux, 4 brassards verts et 4 étoles violette pour les joueurs"
+    - "@OUT Habits médiévaux : cape verte, pantalon marron, pantacourt noir, et chemises blanche, beige, et marron"
+    - "@OUT Habits d'automates : vestons noirs et bris, pantalon gris, redingote bleue, redingote noire, cape à dentelle noire"
     - "@ENORMES Kit elfique en cuir vert/marron : corne de brume, corne à boire avec attache, bourse, ceinture, gourdette, fourreau à glaive"
 
 -
