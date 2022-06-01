@@ -100,6 +100,7 @@
     - "Stroboscope LED (4xAA) près du pentacle"
     - "4 néons LED Black Light (USB) près du pentacle"
     - "@ENORMES Mini-meuble boîte-aux-lettres à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT, avec dedans les 2 lettres aux parents Maupertuis (sur risques des avatars et des artefacts maudits)"
+    - "Projecteur ovale sonore LuckyStone (microUSB sans batterie) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) pour les ORACLES"
 
 -
   - "@RECOINS Coin du fantôme de l’arkonte [F3]"
@@ -126,6 +127,7 @@
     - "@OUT 1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
     - "@AUDIOVIDEO Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)"
     - "@OUT Cristaux blancs en impression 3D (mettre mini LEDs dedans)"
+    - "Gourde large peu haute en cuivre"
 
 -
   - "@MALLETTES Mallette administrative noire des Maupertuis avec code {% symbol '625-993' for 'family_briefcase_code' %} [L5] {% hint 'family_briefcase_protected_by_code' is provided %}"
@@ -154,7 +156,7 @@
   - "@CIMETIERE Cimetière [L4]"
   -
     - "3 pierres tombales noires avec code d'analyse [{% symbol 'ltx' for 'analysis_code_three_tombs' %}]"
-
+    - "Couverture marron avec dragon doré pour la Tombe 1"
     - "@PARCHEMINS Tombe 1 : Journal intime d'Octave à peine entamé, évoquant juste sa nouvelle qui commence 'dehors' {% hint 'octave_private_diary_on_his_tomb' is provided %}"
     - "@BIJOUX Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF)"
     - "@BIJOUX Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_bracelet_on_tomb' is provided %}"
@@ -162,9 +164,10 @@
     - "@DIVERS Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided %}"
 
     - "Tombe 3 : Squelette de 28 os (SANS crâne) de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %} (envoûtement POSITIF)"
-    - "Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %} (code d'envoûtement POSITIF [{% symbol 'bst' for 'magic_code_etheric_benediction_necklace' %}])"
+    - "@OUT Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %} (code d'envoûtement POSITIF [{% symbol 'bst' for 'magic_code_etheric_benediction_necklace' %}])"
 
     - "@AUDIOVIDEO Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)"
+    - "Lanterne rectangulaire en laiton à vitre rouge"
 
 -
   - "@TOMBEAU Galerie de portraits des Maupertuis [L8]"
@@ -233,7 +236,7 @@
     - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %}"
     - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %}"
     - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %}"
-    - "Objets décoratifs : 2 grandes gourdes cylindriques, théière en cuivre, pichet en zinc, petit vase large en verre fumé noir"
+    - "Objets décoratifs : 2 grandes gourdes cylindriques en cuivre, théière en cuivre, pichet en zinc, petit vase large en verre fumé noir"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis le cimetière après ouverture de l'étage interdit"
     - "Boule plasma Pearl (USB ou 4xAAA)"
     
@@ -250,7 +253,7 @@
     - "@GEMMES Gemme d'Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %}"
     - "@GEMMES Lot d'autres petites pierres du monde avec étiquettes"
     - "@GEMMES Cristaux, gemmes et coquillages divers"
-    - "Coffret en bois clair et jointures laiton PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE)"
+    - "Coffret en bois clair et jointures laiton"
     - "Lampe-sculpture à gemme surmontée d'un dragon"
     - "4 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
     - "Arbre à micro-cristaux colorés avec guirlande d'illumination"
@@ -291,10 +294,12 @@
     - "OUT @PERSONNES {% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device_in_beast_nest' is provided %}"
     - "Portefeuille vert du voleur, avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}]"
-    - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF) <MISSING>"
+    - "@OUT {% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF)"
     - "@PARCHEMINS Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %}"
     - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie + batterie miniUSB SIXTHGU)"
     - "@JUNGLE Lianes et feuilles géantes pour la niche de la Bête"
+    - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE)"
+    - "@GENERAL CIGALE pour le mini-coffret en bois marron foncé noueux"
 
 # DIVERS AUTRES #
 
@@ -414,7 +419,10 @@
     - "Lampe multicolore à angelot en cuivre"
     - "Chauffe-lit à manche en cuivre"
     - "Chaudronnet ovale en cuivre"
-    - "Chandelier en cuivre"
+    - "Lampe à huile à forme de chandelier en cuivre"
+    - "Micro-meuble vernis à tiroirs pour bijoux"
+    - "2 chalumeaux anciens"
+    - "Livre factice gris ChooChoo @Clodynette caché près des chalumeaux, avec trésor dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %}"
 
 -
   - "Cadenas et leurs clefs"
