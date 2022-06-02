@@ -82,6 +82,7 @@
     - "@EXTERNE Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %}"
     - "2 nappes blanche nacrées, 1 nappe pourpre brillante, et 1 chemin de table brodé blanc cassé"
     - "Globe à LED Atmosphera (2xAAA) à côté du coffre légendaire (marque d'envoûtement POSITIF)"
+    - "Petite sphère armillaire en laiton sur pied en bois"
 
 -
   - "@RECOINS Pentacle du rituel inachevé de l’arkonte [L2]"
@@ -134,7 +135,7 @@
   -
     - "Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %}"
     - "Classeur vert-foncé CLIVRA, avec message UV indiquant qu'il n'est PAS le Thanatologue"
-    - "@EXTERNE @GENERAL Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %}"
+    - "@EXTERNE Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %}"
     - "@GENERAL CIGALE pour le mini-coffret en bois rouge&or"
 
 -
@@ -238,6 +239,7 @@
     - "Objets décoratifs : 2 grandes gourdes cylindriques en cuivre, théière en cuivre, pichet en zinc, petit vase large en verre fumé noir"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis le cimetière après ouverture de l'étage interdit"
     - "Boule plasma Pearl (USB ou 4xAAA)"
+    - "Soufflet à feu en bois et cuir"
     
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie [P4]"
@@ -290,15 +292,18 @@
 -
   - "@NICHE Niche de la Bête [P1]"
   -
-    - "OUT @PERSONNES {% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton @Clodynette {% hint 'thief_teleportation_device_in_beast_nest' is provided %}"
+    - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton dans une boîte en bois avec symbole d'ancre {% hint 'thief_teleportation_device_in_beast_nest' is provided %}"
     - "Portefeuille vert du voleur, avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %}"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}]"
-    - "@EXTERNE {% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF)"
+    - "{% symbol 'Pochette sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_moneybox' is provided %} (envoûtement POSITIF), sous forme d'une bourse pourpre en tissu"
     - "@PARCHEMINS Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %}"
     - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie + batterie miniUSB SIXTHGU)"
     - "@JUNGLE Lianes et feuilles géantes pour la niche de la Bête"
     - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE)"
     - "@GENERAL CIGALE pour le mini-coffret en bois marron foncé noueux"
+    - "Mini-lanterne noire à bougie avec vitre mauve"
+    - "Boite en forme de dé 6 faces, en bois et cuir marron"
+    - "Lanterne noire sale (non fonctionnelle)"
 
 # DIVERS AUTRES #
 
