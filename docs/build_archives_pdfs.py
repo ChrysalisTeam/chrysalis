@@ -304,7 +304,24 @@ def generate_archives_sheets():
     data = rpg.load_yaml_file(INITIAL_GAME_DATA_DUMP)
     all_data.update(data)
 
-    murder_party_items = rpg.load_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"))
+    murder_party_items_raw = rpg.load_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"))
+
+    important_marker = " IMPORTANT"
+    murder_party_items = []
+    for section, item_titles in murder_party_items_raw:
+        section_item_structs = []
+        section_is_important = (important_marker in section)
+        section = section.replace(important_marker, "")
+        for item_title in item_titles:
+            title_is_important = (important_marker in item_title)
+            item_title = item_title.replace(important_marker, "")
+            section_item_struct = {
+                "item_is_important": section_is_important or title_is_important,
+                "item_label": item_title
+            }
+            section_item_structs.append(section_item_struct)
+        murder_party_items.append((section, section_item_structs))
+
     all_data["murder_party_items"] = murder_party_items
 
     # Sort items between crates dependong on @CRATE start markers
@@ -329,7 +346,8 @@ def generate_archives_sheets():
         section, item_titles = murder_party_item
         crate, section = _extract_crate(section)
         default_create = crate or section
-        for item_title in item_titles:
+        for section_item_struct in section_item_structs:
+            item_title = section_item_struct["item_label"]
             crate, item_title = _extract_crate(item_title)
             crate = crate or default_create
             assert crate, repr(crate)
@@ -397,7 +415,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if True:
+    if False:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,
@@ -406,7 +424,7 @@ def generate_archives_sheets():
     # -------------
 
     # first the gamemaster manual
-    if True:
+    if False:
         gm_data = all_data.copy()
         gm_data["current_player_id"] = master_login  # silent
         build_archives_pdf(GAMEMASTER_MANUAL_PARTS,
@@ -416,7 +434,7 @@ def generate_archives_sheets():
     # -------------
 
     # then the common DOCS for participants
-    if True:
+    if False:
 
         isolated_data["current_player_id"] = "everyone"
         build_archives_pdf(COMMON_LORE_AND_RULES,

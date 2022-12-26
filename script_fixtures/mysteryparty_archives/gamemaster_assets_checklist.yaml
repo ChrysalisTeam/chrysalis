@@ -3,7 +3,7 @@
 ### Vero reparera bracelet doré ayant perdu pierre  DOOOONE!!!
 
 -
-  - "@PLAN-DES-LIEUX Emplacements décorés voire illuminés aux 2 étages"
+  - "@PLAN-DES-LIEUX Emplacements décorés voire illuminés aux 2 étages IMPORTANT"
   -
 
     - "F1 - Coin du fantôme de l’archiviste"
@@ -37,7 +37,7 @@
 
 
 -
-  - "@OBJETS-DISSEMINES Indices cachés et objets disséminés"
+  - "@OBJETS-DISSEMINES Indices cachés et objets disséminés IMPORTANT"
   -
     - "I1 - Livre factice bleu à code {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %} (contient la CLEF du livre factice rouge et quelques pierreries), marqué au sol"
     - "I2 - Livre factice rouge, marqué au sol (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %}"
