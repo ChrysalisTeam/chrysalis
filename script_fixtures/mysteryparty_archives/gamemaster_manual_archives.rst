@@ -51,11 +51,12 @@ Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’O
 L'enfant et ses nouveaux amis se retrouvaient au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des automates, et apprendre moult choses sur les règles régissant chacun des univers représentés.
 L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de sortir de la bibliothèque.
 
-Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) {% symbol "Valerias" for "arkon_name" %}**, de religion yodique (et plus particulièrement de confession mithraïte), qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes non-humaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant.
+Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) {% symbol "Valerias" for "arkon_name" %}**, de religion yodique (et plus particulièrement de confession mithraïte), qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes non-humaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant qui s'apprétaient à en partir.
 
-Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanité avec ce mélange contre-nature des mondes, et de laisser l’arkonte renvoyer définitivement les avatars hors de la Terre ; en retour, l’arkonte amènerait avec lui {% symbol "Octave" for "maupertuis_son" %} et l'archiviste, en sécurité, dans un autre pays.
+Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanité avec un mélange contre-nature des mondes, et de laisser l’arkonte renvoyer définitivement les avatars hors de la Terre ; en retour, l’arkonte amènerait avec lui {% symbol "Octave" for "maupertuis_son" %} et l'archiviste, en sécurité, dans un pays accueillant.
 
-Après des adieux déchirants, les personnages imaginaires sont chacun retournés dans leur univers en attendant que le rituel verrouille à nouveau les accès au monde réel.
+Après des adieux déchirants, les personnages imaginaires sont chacun retournés dans leur univers, en attendant que le rituel fermme leur accès au monde des humains.
+
 
 Le retour des Avatars
 +++++++++++++++++++++++++++++++++
@@ -330,6 +331,8 @@ Octave de Maupertuis (l’enfant)
 - Il a tiré profit de leur enfermement initial dans la bibliothèque, suite au saccage du manoir, pour s'improviser archiviste, et commencer à trier l'étage autorisé. Il prenait juste soin de ne pas manipuler les grimoires aux allures louches. {% fact "archivist_began_cataloging_books" %}
 
 - Le précepteur ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu (soupçonne une trahison de l’arkonte), ni pourquoi il est ancré à un endroit précis.
+
+- Il a tenu un petit journal de bord pendant leur enfermement, qui doit se trouver quelque part dans la bibliothèque. {% fact "archivist_began_diary_during_confinement" %}
 
 - Excité d’apprendre que les joueurs ont croisé l’enfant (le précepteur sait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
 
@@ -767,7 +770,7 @@ Un sceau est visible devant les escaliers menant à l'étage interdit. Lorsqu'il
   Cette mallette est protégée par le code {% symbol "625-993" for "family_briefcase_code" %}, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}". {% hint "family_briefcase_code_spoken_by_venture_prins_fake_book" is needed %}
   Octave connait juste ce nom étrange, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”. {% fact "octave_knows_about_murmuring_venture_prins_book" %}
 
-- L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice. {% fact "archivist_knows_venture_prins_location" %}
+- ???ACHANGER??? L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice. {% fact "archivist_knows_venture_prins_location" %}
    Il peut falloir un stéthoscope, ou à défaut l'aide d'un automate, pour entendre le code diffusé dans le bois du livre, et ainsi ouvrir la mallette des Maupertuis.  {# FIXME FALSE TOO EASY NOW #}
 
 - Le code peut aussi être demandé aux parents défunts, plus tard, via l’Ankou, en pire cas.

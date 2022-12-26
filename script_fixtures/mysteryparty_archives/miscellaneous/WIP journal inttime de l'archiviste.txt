@@ -1,0 +1,70 @@
+{% fact "archivist_began_diary_during_confinement" %}
+
+
+X februaire de l'an XXX
+
+Ô que voilà des temps sombres qui s'ouvrent devant nous. Ce dément cardiinal de {% symbol "Bahamoot" for "god_of_diakons" %} aura réussi, avec ses hordes fanatiques, à détruire des siècles de symbiose entre la glorieuse dynastie des Maupertuis, et la population environnante. 
+
+Je n'ai plus personne à qui me confier, c'est donc désormais toi qui lira mon âme, journal.
+
+Je ferai de mon mieux pour qu'{% symbol "Octave" for "maupertuis_son" %} surmonte sa mélancolie et reprenne goùt en l'avenir, mais les dieux savent que je ne suis pas le mieux armé pour lui permettre de bâtir un jour sa place à la surface.
+
+
+-----
+
+
+{% symbol "Octave" for "maupertuis_son" %} stagne, j'en suis conscient. J'ai beau tenter de l'intéresser à nouveau aux beaux arts et aux sciences, il se réfugie de plus en plus loin dans son imaginaire. Un tel palliatif n'est pas sain sur le long terme. 
+
+Hélas, sa lignée est faite pour les arts magiques, un savoir dans lequel je ne peux le guider. Il n'avait pas reçu son "Adoubement", et la si précieuse broche familiale qui récompense cette initiation. 
+
+Même l'accès au Domaine Interdit lui est impossible. Nous avons pourtant retrouvé ce fameux livre "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}", et fouillé en vain la mallette administrative de la famille. Mais ces secrets familiaux semblent hors d'atteinte de nos sens. Dans de telles conditions, comment pourra-t-il révéler son potentiel ? Et que deviendra la Bête qui rôde la haut, si elle demeure privée de tout contact avec ses maîtres pendant des années, des décennies, des siècles ?
+{% hint "family_briefcase_code_spoken_by_venture_prins_fake_book" is needed %} {% fact "archivist_knows_about_murmuring_venture_prins_book" %}
+
+
+
+------
+
+Le {% symbol "solstice d'hiver" for "astral_opening_date" %} est passé. J'ai vu les portails luire, puis, à la fin de la journée, s'éteindre. Mais nous n'étions pas prêts à sortie. Vaille que vaille, {% symbol "Octave" for "maupertuis_son" %} doit encore grandir un peu, apprendre un peu. Peut-être que sa magie s'éveillera à son insu, et qu'il pourra accéder au moins à quelques secrets de ses ancêtres, qui sait. 
+
+Je ne sais pas encore vers quel pays nous nous téléporterons. Mais d'ici là, autant que j'occupe utilement mon temps, en triant et inventoriant les livres de cet étage-ci, du moins ceux qui ne semblent pas dangereux. "Précepteur-archiviste {% symbol "Maître Parchemine" for "archivist_name" %}", voilà qui sonne bien.
+
+
+-------
+
+Toute cette soitude, toute cette obscurité, finit par égratigner ma sanité psychique, j'en suis conscient. Je perds la notion du temps. Je me parle tout haut à moi-même. {% symbol "Octave" for "maupertuis_son" %} fait de même, le pauvre. Le tombeau du mage me semble parfois bouillir de haine à mon égard. Gardons la tête froide, plus qu'une demi-année, et nous serons à nouveau à la lumière du jour.
+
+-------
+
+J'ai failli mourir de peur. Je m'attendais à tout, sauf à croiser un duchesse ici. Elle m'a chaleureusement salué, puis est partie. 
+{% symbol "Octave" for "maupertuis_son" %} a dit que c'était "une amie", puis s'est muré dans le silence. Grands dieux, serait-il capable d'invoquer des hallucinations ? Ou pire, aurait-il touché au Savoir interdit, au monde des morts ?
+
+-------
+
+En me faisant violence, j'ai confronté {% symbol "Octave" for "maupertuis_son" %} et sa dizaine de "nouveaux amis" pendant une de leurs festivités. Mais plus ils m'expliquaient, moins je comprenais. Tout cela est contraire à l'ordre des choses, je le sens. Mais que puis-je, seul contre eux tous ? Et au moins, mon protégé sourit à nouveau. Peut-être que ses ancêtres lui ont offert un temporaire réconfort.
+
+Plus que trois mois à tenir. Nous n'aurons pas réussi à rouvrir le Domaine Interdit, mais qu'importe, je sais que mon pupille??? reviendra en prendre possession lorsqu'il sera un homme accompli.
+
+-------
+
+C'est demain le grand jour du solstice. {% symbol "Octave" for "maupertuis_son" %} est anxieux de l'avenir, et triste de quitter ses amis romanesques. Ils m'ont juré, par le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}, de ne jamais tenter de rejoindre la surface de notre monde. Mais sont-ils réellement soumis au pouvoir de ce serment ? Je n'en sais rien. 
+
+Ils se sont en revanche tous promis de se retrouver ici chaque année avec mon jeune élève, et en cela je les crois sans peine ; c'est donc comme une vieille tradition qui renait de ses cendres.
+
+A bientôt, cher journal, la prochaine fois que je te narrerai des aventures, ce sera à la lumière du soleil ou de la lune.
+
+
+
+TOODO VERIFIER VERSION DU DIARY DE OCTAVE 
+
+
+
+Dans un an, {% symbol "15 mois" for "octave_life_in_archives_delay" %}
+
+
+------
+
+Le temps va sembler long jusqu'à la prochain
+Dans ces con
+
+
+- ???ACHANGER??? L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice. {% fact "archivist_knows_venture_prins_location" %}

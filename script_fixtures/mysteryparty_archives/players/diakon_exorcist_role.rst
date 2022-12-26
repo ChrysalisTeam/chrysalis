@@ -112,7 +112,7 @@ Attention, cet exorcisme ne fonctionne sans problèmes que si toutes les entité
 Vos connaissances sur les différents types de blessures
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous savez qu'il existe différents types de blessures, parfois naturelles, parfois surnaturelles, mais l'enseignement que vous deviez suivre à ce sujet a été maintes fois repoussé... si bien que vous en êtes pour l'instant réduit à solliciter les guérisseurs sur votre route, même lorsqu'une personne de votre entourage se fait blesser par un esprit errant. Un comble pour un exorciste !
+Vous savez qu'il existe différents types de blessures, parfois naturelles, parfois surnaturelles, mais l'enseignement que vous deviez suivre à ce sujet a été maintes fois repoussé... si bien que vous en êtes pour l'instant réduit à solliciter vos confrères lorsqu'une personne de votre entourage se fait blesser par un esprit errant. Un comble pour un exorciste ! 
 
 
 

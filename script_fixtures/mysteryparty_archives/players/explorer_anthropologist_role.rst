@@ -55,6 +55,11 @@ Par décision de l'Ordre International de la Hiéraldique, il fut pendant longte
 
 Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson, l'oiseau-grue, la chèvre, le pangolin, la faucille, le fouet, le tabouret et la feuille de houx**. {% fact "sickle_and_holly_emblems_are_banned_in_reality" %}
 
+Un autre blason, enfin, est banni depuis des temps immémoriaux, à l'échelle de la planète enière : XXXXX
+Vous avez eu le plus grand mal à briser le tabou entourant ce blason - tous les ouvrages évoquant le sujet avaient été censurés, avec des chapitres entiers arrachés. Un de vos amis, sorcier de la nuit, vous a cependant donné une bribe de réponse : ce blason appartenait à une secte de cultistes, qui avaient travaiillé àà ouvrir des "portails '
+
+
+
 
 Vos connaissances sur les fantômes et autres esprits égarés
 ===================================================================
