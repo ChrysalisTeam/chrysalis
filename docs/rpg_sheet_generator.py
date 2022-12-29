@@ -309,10 +309,10 @@ def _display_and_check_story_hints(jinja_env):
     for k, v in sorted(jinja_env.hints_registry.items()):
         assert v <= hints_registry_good_value, (k, v)  # no weird values
         if 'needed' in v and 'provided' not in v:
-            print("!!!!! ERROR IN hints registry for key", k, ':', v, 'requires a provided hint')
+            print("!!!!! ERROR IN hints registry for key", repr(k), ':', v, 'requires a provided hint')
             has_coherence_errors = True
         if 'provided' in v and 'needed' not in v:
-            print("!!!!! WARNING IN hints registry for key", k, ':', v, 'normally requires a needed hint')
+            print("!!!!! WARNING IN hints registry for key", repr(k), ':', v, 'normally requires a needed hint')
             # It's not a blocking coherence error, do don't set has_coherence_errors here
 
     return has_coherence_errors

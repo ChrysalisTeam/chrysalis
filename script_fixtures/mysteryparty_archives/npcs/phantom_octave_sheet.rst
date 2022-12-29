@@ -44,6 +44,8 @@ IMPORTANT : Votre famille gardait quelques "paperasses administratives" dans une
 
 Lors de vos derniers préparatifs, vous aviez commencé à rassembler **de l'argent** dans votre sac de voyage. Si ce sac de voyage n'est plus trouvable, c'est soit que quelqu'un l'a volé, soit simplement qu'il a été enseveli sous un des **éboulis** survenus depuis. {% hint 'travel_bag_with_money_under_far_rubbles' is needed %}
 
+Vous aviez aussi commencé un journal intime, au moment du départ, juste avant votre mort. {% hint 'octave_private_diary_on_his_tomb' is needed %}
+
 Vous ne vous souvenez plus de l'espèce exacte à laquelle appartenait **la Bête**. Juste que c'était une créature très griffue, et vivant habituellement dans des cavernes. {% fact "only_arkon_and_octave_know_things_about_beast_species" %}
 
 

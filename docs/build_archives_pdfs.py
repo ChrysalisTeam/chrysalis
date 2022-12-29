@@ -163,6 +163,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("conspiracy_anti_arkon_letter_with_coast_of_arms", 1),
     ("archivist_diary_in_his_case", 4),
     ("book_shelf_labels_for_library", 2),
+    ("skeleton_danger_symbol", 1),
     ("maupertuis_caduceus_symbol", 1),
     ("coffee_mill_stereogram", 1),
     ("miscellaneous_secret_messages", 1),
@@ -425,7 +426,7 @@ def generate_archives_sheets():
     # -------------
 
     # first the gamemaster manual
-    if False:
+    if True:
         gm_data = all_data.copy()
         gm_data["current_player_id"] = master_login  # silent
         build_archives_pdf(GAMEMASTER_MANUAL_PARTS,
@@ -435,7 +436,7 @@ def generate_archives_sheets():
     # -------------
 
     # then the common DOCS for participants
-    if False:
+    if True:
 
         isolated_data["current_player_id"] = "everyone"
         build_archives_pdf(COMMON_LORE_AND_RULES,
@@ -463,7 +464,6 @@ def generate_archives_sheets():
                                 jinja_context=isolated_data)
             isolated_data["current_player_id"] = None
 
-    STOP
     # -------------
 
     def _get_player_context(_player_name):

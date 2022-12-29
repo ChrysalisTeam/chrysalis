@@ -836,7 +836,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 <{ parcival_group_main_quest }/>
 
 
-Le trésor des Maupertuis (les agents secrets mirandiens)
+Le trésor des Maupertuis (agents secrets mirandiens)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro spy_group_main_quest() %}
@@ -883,7 +883,7 @@ Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)
 
 **Les explorateurs héliossars ont pour principal objectif de trouver le {% symbol "Thanatologue" for "book_of_the_dead" %}, un grimoire maudit, et surtout, grâce à lui, un moyen de contrer les maléfices et la tentative d'invasion de leurs ennemis les akarites.**
 
-Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conservé par la lignée des Maupertuis, dans le "coffre légendaire" situé dans le **domaine interdit** - ce que l'archiviste devrait indiquer aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% hint "family_legendary_chest_protected_by_double_key" is needed %} {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
+Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conservé par la lignée des Maupertuis, dans le "coffre légendaire" situé dans le **domaine interdit** - ce que l'archiviste devrait indiquer aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% hint "family_legendary_chest_protected_by_double_code" is needed %} {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
 
 - **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans un de ses livres factices (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book" is needed %}
   Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
@@ -999,7 +999,7 @@ Si un joueur tente de renvoyer de force les avatars "gentils", cela causera cert
 
 
 Supprimer précocement la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque (piège)
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 La clôture de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **{% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %}** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit. {% fact "diakon_invoker_can_break_cursed_enclosure" %} Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et c'est un échec pour tous, comme décrit ci-dessus.
 
@@ -1016,6 +1016,30 @@ Dans l’issue optimale du jeu, la malédiction de la bibliothèque est automati
     Ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...
 
 #}
+
+
+Le vortex abyssal (piége)
+++++++++++++++++++++++++++++++++++++++++
+
+Dans le domaine interdit, les joueurs peuvent trouver un plateau avec 4 emplacements dessinés.
+
+Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine epoxy :
+
+- un cristal romantique (rose dans une pyramide à base carré)
+- un cristal marin (coquillage dans une pyramide à base triangulaire)
+- un cristal piquant (chardon dans un cube)
+- un cristal innocent (fleurs blanches dans un diamant)
+
+Il est indiqué, par un texte codé en couleur, par un blason que l'anthropologue connait, et par un extrait du Thanatologue, que ce rituel ouvre le "vortex abyssal", qui est en réalité un passage vers un univers rempli de féroces monstres. {% hint 'abyssal_vortex_coded_name_on_plank' is needed %} {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
+
+Les fantômes ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact. {% fact "arkon_is_worried_about_abyssal_vortex" %}
+
+Si les joueurs posent les 4 cristaux sur le plateau, le passage est ouvert et les dragons commencent à se répandre sur Terre, mais à la surface ; les joueurs ne l'apprendront qu'à la fin du jeu.
+
+{% hint 'abyssal_vortex_4_face_pyramid' is needed %}
+{% hint 'abyssal_vortex_3_face_pyramid' is needed %}
+{% hint 'abyssal_vortex_cube_is_needed' is needed %}
+{% hint 'abyssal_vortex_diamond_is_needed' is needed %}
 
 
 Survol des compétences spécifiques des participants
@@ -1159,7 +1183,7 @@ Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dy
 
 **{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}** (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas évités par ce collier.
 
-**{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}** (formé d'anneaux de Mithril) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrêmement lourd. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
+**{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}** (formé d'anneaux de Mithril avanat d'être fondu dans l'armure de l'arkonte) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrêmement lourd. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
 
 
 Le déclin magique
@@ -1201,8 +1225,7 @@ Il devait tout bientôt passer son **initiation appelée "adoubement"**, une cé
 - Tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petite boite, parmi un ensemble, contenait sa **broche personnelle**, et obtenir ainsi cet artefact dynastique {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %}
 - En cas de réussite, **recevoir le symbole secret** de la famille Maupertuis ; sinon, réessayer cette initiation dans 6 mois.
 
-Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvée sur place. {% fact "octave_carried_mother_jewel_after_her_death" %}
-
+Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvée sur place. {% fact "octave_carried_mother_jewel_after_her_death" %} {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}  ????
 Dans leur enfance, Octave et sa soeur jouaient à se créer des jeux de piste - et autres énigmes - l'un pour l'autre. Mérédice en avait créé un spécialement espiègle pour le futur adoubement d'Octave, en lui subtilisant sa tirelire, et elle avait placé la dernière énigme menant à ce trésor dans la **{% symbol "Boîte à Murmure" for "whispering_box" %} présente au fond d'un coffre de bois.** {% hint "whispering_box_with_children_enigma_in_common_brown_chest" is needed %} ; les membres de la famille utilisaient cette boite magique pour se laisser des messages, qu'ils écoutaient en posant le doigt dessus. {# Les joueurs doivent utiliser un stéthoscope pour lire ces messages #} Octave n'a jamais pu finir ce jeu car cela demandait d'aller dans le domaine interdit, et de toute façon **entendre la voix de sa soeur disparue le chagrinait trop.**
 
 
