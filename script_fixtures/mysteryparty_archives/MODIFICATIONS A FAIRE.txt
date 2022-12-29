@@ -4,21 +4,19 @@ CLUES
 ------
 
 
+https://scape.enepe.fr/ressources/polychromacryptographe/   CLEFS DU GOUFFRE ABYSSAL
+
 où se trouve lettre de Isadora ? et celle du vétérinaire ?
 
-d’hyppogriffes ? Erreur typo ??
-
-
-"Résultat, quand la magicienne" <- bof
-
-ÈSPERONS <- typo
-
-Il est vain de vouloir tuer  <-- pas clair comme indice pour bête
-
+CHANGER detection des recettes supplémentaires
 
 
 AUTRES
 --------
+
+Mais vous expliquez aux joueurs qu'il existe un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** permettant de suivre les vibrations magiques de ces recettes fondamentales, grimoire qui doit être dans un des coffres de l'étage autorisé. Lorsque les joueurs vous le ramènent, vous leur donnez une phrase magique quelconque à prononcer (par exemple **"Grimoire traceur, dis-moi où sont les recettes qui guérissent"**), et le MJ activera la tablette tactile pour les joueurs. {% hint "radio_frequency_scanner_app_in_chest" is needed %}
+**Si le grimoire traceur ne fonctionne pas, indiquez que les recettes fondamentales sont aussi trouvables grâce à des flèches blanches marquées au sol.** {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %}
+
 
 Le désenvouteur ne supprime qu'envoutements NEGATIFS !!!!!
 
@@ -35,11 +33,11 @@ JOUEUR doit avoir les TELECOMMANDES des lampes LED en cire ??? Mais conflit avec
 le diacre doit aussi REVEILLER objets sacrés !! coomme astrolabe
 
 
-Revoir discous introductif pour encourager COOPERATION entre joueurs
+Revoir discours introductif pour encourager COOPERATION entre joueurs
 
 
 L'arkonte doit convaincre le voleur qu'il est mort. Des lors, 
-celui ci continue à ne vouloir que de l'argent, car avec sa bourse magique, cela termmine dans le repaire de sa famille.
+celui ci continue à ne vouloir que de l'argent, car avec sa bourse magique, cela termmine dans le repaire de sa famille ?
 
 
 Clarifier zoologie et gastronomie dans prophétie
@@ -52,3 +50,12 @@ United they stand, divided they fall
 
 
 
+======= TRASH============
+
+d’hyppogriffes ? Erreur typo ??   FIXED
+
+"Résultat, quand la magicienne" <- bof
+
+ÈSPERONS <- typo
+
+Il est vain de vouloir tuer  <-- pas clair comme indice pour bête, mais bof
