@@ -1030,16 +1030,16 @@ Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine 
 - un cristal piquant (chardon dans un cube)
 - un cristal innocent (fleurs blanches dans un diamant)
 
-Il est indiqué, par un texte codé en couleur, par un blason que l'anthropologue connait, et par un extrait du Thanatologue, que ce rituel ouvre le "vortex abyssal", qui est en réalité un passage vers un univers rempli de féroces monstres. {% hint 'abyssal_vortex_coded_name_on_plank' is needed %} {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
+Il est indiqué, par un texte codé en couleur, par un blason que l'anthropologue connait, et par un extrait du Thanatologue, que ce rituel ouvre le "vortex abyssal", qui est en réalité un passage vers un univers rempli de féroces monstres. {% hint 'abyssal_vortex_coded_tray' is needed %} {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
 
 Les fantômes ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact. {% fact "arkon_is_worried_about_abyssal_vortex" %}
 
 Si les joueurs posent les 4 cristaux sur le plateau, le passage est ouvert et les dragons commencent à se répandre sur Terre, mais à la surface ; les joueurs ne l'apprendront qu'à la fin du jeu.
 
-{% hint 'abyssal_vortex_4_face_pyramid' is needed %}
-{% hint 'abyssal_vortex_3_face_pyramid' is needed %}
-{% hint 'abyssal_vortex_cube_is_needed' is needed %}
-{% hint 'abyssal_vortex_diamond_is_needed' is needed %}
+{% hint 'abyssal_vortex_key_4_face_pyramid' is needed %}
+{% hint 'abyssal_vortex_key_3_face_pyramid' is needed %}
+{% hint 'abyssal_vortex_key_cube_is_needed' is needed %}
+{% hint 'abyssal_vortex_key_diamond_is_needed' is needed %}
 
 
 Survol des compétences spécifiques des participants

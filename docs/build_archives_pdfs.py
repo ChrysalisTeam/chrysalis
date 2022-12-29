@@ -146,6 +146,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("recipe_rejuvenation_cocktail", 1),
     ("thanatologue_extract", 4),
     ("meredice_diary_extract", 1),
+    ("abyssal_vortex_coded_tray", 1),
     ("parcival_oracle_vision_about_water_mill", 1),
     ("parcival_oracle_vision_about_necromancers_and_ring_amplificans", 1),
     ("parcival_oracle_vision_about_maupertuis_father_twin_books", 1),
