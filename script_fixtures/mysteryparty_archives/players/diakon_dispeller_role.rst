@@ -21,45 +21,49 @@ Le reconnaissance des envoûtements
 
 En imposant les mains sur un objet (ou un marquage) et en fermant les yeux, vous pouvez sentir s'il a été la cible de malédictions ou de bénédictions.
 
-*Explications hors-jeu* : un élément analysable par votre sensibilité porte une **petite pastille ronde de couleur chaude** (jaune, orange, rouge...) ; la couleur exacte est sans signification.  {% fact "sticker_hot_color_means_magical_analysis" %}
+*Explications hors-jeu* : un élément analysable par votre sensibilité porte une **étoile de couleur dorée**.  {% fact "sticker_hot_color_means_magical_analysis" %}
 
-Cette pastille porte divers symboles, dont parfois une **étoile** ; cette étoile doit avoir des branches en forme de traits sans épaisseurs - un polygone comme un triangle, un carré, un pentagone etc. ne compte pas comme une étoile.
+Cette pastille peut porter divers symboles géométriques.
 
-Si cette étoile a un nombre **pair** de pointes, alors l'objet est maudit et dangereux ; si l'étoile a un nombre **impair** de pointes, il est envouté mais de façon neutre voire bénéfique.
-
-Attention, si l'étoile est absente alors l'objet n'est pas envoûté par des sortilèges humains, quels que soient les autres symboles présents. Cela ne signifie pas que l'objet sera dépourvu de propriétés magiques, mais s'il en possède alors elles seront d'un niveau **divin**, hors d'atteinte de vos pouvoirs de détection et de désenvoûtement. {% fact "objects_might_carry_non_analysable_divine_powers" %}
+Si elle contient un **triangle**, alors l'objet est maudit et dangereux ; sinon, il est envouté mais de façon neutre voire bénéfique (en particulier, c'est le cas si aucun symbole géométrique n'est présent). Attention, un objet envouté de façon neutre/bénéfique peut quand même se révéler **dangereux** (ex. si c'est une arme bénie), mais il ne sera pas "piégé" pour celui qui y touchera.
 
 Par défaut, un envoûtement présent est de niveau "simple".
 S'il existe un petit **cercle** où que ce soit dans la pastille, alors l'envoûtement est de niveau "complexe".
 Si ce cercle contient un **unique point**, alors l'envoûtement passe au niveau "légendaire".
 
-Une autre pastille de même couleur peut être présente, avec un **code** à 3 lettres ; rentrez ce code dans le **{% symbol "portail de connaissances" for "hint_website_name" %}**, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.  {% hint "hint_website_device" is needed %}
+Une étoile dorée peut aussi porter, au lieu d'éléments géométriques, un **code** à 3 lettres ; rentrez ce code dans le **{% symbol "portail de connaissances" for "hint_website_name" %}**, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.  {% hint "hint_website_device" is needed %}
 
-Vous devez bien sûr jouer théâtralement votre imposition des mains, et ne pas indiquer à quiconque cette signalétique hors-jeu avec la pastille.
+Vous devez bien sûr jouer théâtralement votre imposition des mains, et ne pas détailler à quiconque cette signalétique hors-jeu avec la pastille dorée.
 
 
-La suppression des envoûtements
+La suppression des envoûtements négatifs
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **Signalez au maitre de jeu les désenvoûtements que vous souhaitez mener à bien.**
 
-Si l'envoûtement reconnu est de niveau "simple", il suffit de solliciter l'aide de n'importe quel "initié" (probablement un confrère diacre) pour le dissiper.
-Il faut que vous imposiez tous les deux les mains au dessus de l'objet, et que vous **seul** prononciez, et bien fort, l'incantation : **"Par le souffle sacré de {% symbol "Bahamoot" for "god_of_diakons" %}, ô matière inerte, nous rompons les liens qui te lient aux strates ensorcelées".**
-En cas de réussite, le maître de jeu retire la pastille de l'objet.
+Si l'envoûtement reconnu est "négatif", vous pouvez vouloir le dissiper par un rituel ; les enchantements neutres/positifs ne sont pas supprimables de cette façon.
+
+Une malédiction de niveau "simple" demande de solliciter l'aide de n'importe quel "initié" (probablement un confrère diacre) pour le dissiper.
+
+Il faut que vous imposiez tous les deux les mains au dessus de l'objet, et que vous (seul) prononciez bien fort l'incantation : **"Par le souffle sacré de {% symbol "Bahamoot" for "god_of_diakons" %}, ô matière inerte, nous rompons les liens qui te lient aux strates ensorcelées".**
+En cas de réussite, le maître de jeu retire la pastille dorée de l'objet.
 
 Si l'envoûtement est de niveau "complexe", alors il faut être au moins **trois {% symbol "initiés" for "ritualist_kind_name" %}** pour réaliser le désenvoutement.
 
-Il faut alors dans l'ordre :
+Il vous faut alors dans l'ordre :
 
 - Faire appel aux talents d'encensement de votre confrère (tourner 3 fois autour de l'objet en procession, avec l'encensoir)
-- Puis vous placer en demi-cercle (ou cercle si possible) autour de l'objet
-- Que vous prononciez **seul** l'incantation : **"Ouvrez grandes vos oreilles, ouvrez grands vos yeux, car par la puissance pacificatrice de {% symbol "Bahamoot" for "god_of_diakons" %}, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
+- Puis vous placer tous en demi-cercle (ou cercle si possible) autour de l'objet
+- Puis que vous (seul) prononciez l'incantation : **"Ouvrez grandes vos oreilles, ouvrez grands vos yeux, car par la puissance pacificatrice de {% symbol "Bahamoot" for "god_of_diakons" %}, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
 
-En cas de réussite, le maître de jeu retire la pastille de l'objet.
+En cas de réussite, le maître de jeu retire la pastille dorée de l'objet.
 
-Si l'envoûtement est de niveau "légendaire", alors il est **impossible** pour vous de le supprimer, sauf en trouvant une contre-mesure spécifique à ce sortilège. Il n'en existe pas toujours, car certains artefacts envoutés sont simplement des **pièges** à destination des importuns, qui ne disparaitront qu'en étant déclenchés par une pauvre victime.
+Si l'envoûtement est de niveau "légendaire", alors il est **impossible** pour vous de le supprimer, sauf en trouvant une contre-mesure spécifique à ce sortilège. Mais le jeu n'en vaut pas toujours la chandelle, car certains artefacts envoutés sont simplement des **pièges** à destination des importuns, qui ne disparaitront qu'en étant déclenchés par une pauvre victime.
 {% fact "some_cursed_artefacts_are_just_unbreakable_traps" %}
 
+
+
+{% comment %}  NOT FOR NOW
 
 La réactivation des envoûtements
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -72,8 +76,7 @@ Attention, ce rituel ne fonctionne pas avec les pentacles et sceaux, qui sont de
 *NOTE hors-jeu: outre la pastille indiquant son type d'envoutement, un tel objet est pourvu ????*
 ????? LESQUELS SONT AINSI ?
 
-
-
+{% endcomment %}
 
 
 Vos connaissances sur les différents types de blessures
