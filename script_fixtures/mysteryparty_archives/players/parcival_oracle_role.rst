@@ -17,7 +17,7 @@ La survenue des révélations
 Parfois, les prophéties vous tombent dessus sans prévenir. Mais bien plus souvent, elles se produisent lorsque vous rencontrez des personnes elles aussi habituées aux influences prophétiques. Vos sens entrent alors mutuellement en résonnance, donnant des prophéties soit davantage complètes, soit partagées entre les personnes présentes.
 
 Vous pouvez aussi attirer les révélations à vous en touchant des objets au passé lourdement chargé.
-*NOTE hors-jeu : Ces révélations se matérialisent par des plumes colorées, montrez-les à une autre personne clairvoyante ou au MJ quand vous en trouvez.* {% fact "revelations_are_simulated_by_colored_feathers" %}
+*NOTE hors-jeu : Ces révélations se matérialisent par des plumes colorées, annoncez-les à une autre personne clairvoyante ou au MJ quand vous en trouvez.* {% fact "oracle_revelations_are_triggered_by_colored_feathers" %}
 
 Vous avez toujours rêvé de croiser une *licorne de nacre, ou une fontaine d'encens, ou un trèfle à cinq feuilles*. De telles rencontres signifient la survenue de prophéties particulièrement vives, venues des tréfonds du monde invisible ; pour peu, du moins, que le voyant sache activer de tels artefacts, qui perdront leur pouvoir sitôt leur rôle rempli. L'alchimiste de votre groupe peut aider à ce sujet. {% fact "incense_fountain_can_deliver_powerful_prophecy" %} {% hint "incense_fountain" is needed %} {% fact "parcival_alchemist_can_create_incense_cone" %}
 

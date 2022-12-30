@@ -34,7 +34,7 @@ Sensibilité au surnaturel
 A force de croiser des artefacts teintés d'auras mystérieuses, vous commencez à savoir reconnaître leur nature.
 Il vous faut cependant vous adresser à la bonne personne experte pour en savoir davantage sur les objets qui vous semblent étranges.
 
-*Explications hors-jeu* : Si vous croisez une **étoile dorée** sur un objet, cela signifie qu'il a probablement des propriétés magiques ; tandis qu'une **petite pastille ronde de couleur froide** indique simplement un objet intéressant d'un point de vue scientifique. Si vous voyez une **plume colorée**, cela peut indiquer une aura liée aux dons de prophétie.
- {% fact "sticker_cold_color_means_physical_analysis" %}
- {% fact "sticker_hot_color_means_magical_analysis" %}
- {% fact "revelations_are_simulated_by_colored_feathers" %}
+*Explications hors-jeu* : Si vous croisez une **étoile dorée** sur un objet, cela signifie qu'il a probablement des propriétés magiques ; tandis qu'une **étoile argentée** indique simplement un objet intéressant d'un point de vue scientifique. Si vous voyez une **plume colorée**, cela peut indiquer une aura liée aux dons de prophétie.
+ {% fact "sticker_silver_star_means_physical_analysis" %}
+ {% fact "sticker_gold_star_means_magical_analysis" %}
+ {% fact "oracle_revelations_are_triggered_by_colored_feathers" %}

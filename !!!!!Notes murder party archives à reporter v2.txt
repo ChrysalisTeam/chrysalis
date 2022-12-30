@@ -299,7 +299,7 @@ IL FAUT UNE SARBACANE POUR LE DRUIDE - DONE
 
 Où et quand surviennent les oracles/visions, faire planning
 INTUITIONS aussi, quand ??   DONE
- {% fact "revelations_are_simulated_by_colored_feathers" %}
+ {% fact "oracle_revelations_are_triggered_by_colored_feathers" %}
 
 Mettre marque d'enchantement positif sur lanternes déjà allumées de l'étage maudit
 

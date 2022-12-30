@@ -21,7 +21,7 @@ Le reconnaissance des envoûtements
 
 En imposant les mains sur un objet (ou un marquage) et en fermant les yeux, vous pouvez sentir s'il a été la cible de malédictions ou de bénédictions.
 
-*Explications hors-jeu* : un élément analysable par votre sensibilité porte une **étoile de couleur dorée**.  {% fact "sticker_hot_color_means_magical_analysis" %}
+*Explications hors-jeu* : un élément analysable par votre sensibilité porte une **étoile autocollante de couleur dorée**.  {% fact "sticker_gold_star_means_magical_analysis" %}
 
 Cette pastille peut porter divers symboles géométriques.
 
@@ -29,7 +29,7 @@ Si elle contient un **triangle**, alors l'objet est maudit et nocif ; sinon, il 
 
 Par défaut, un envoûtement présent est de niveau "simple".
 S'il existe un petit **cercle** où que ce soit dans la pastille, alors l'envoûtement est de niveau "complexe".
-Si ce cercle contient un **unique point**, alors l'envoûtement passe au niveau "légendaire".
+Si ce cercle contient en plus un **unique point**, alors l'envoûtement passe au niveau "légendaire".
 
 Une étoile dorée peut aussi porter, au lieu d'éléments géométriques, un **code** à 3 lettres ; rentrez ce code dans le **{% symbol "portail de connaissances" for "hint_website_name" %}**, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.  {% hint "hint_website_device" is needed %}
 
@@ -49,6 +49,7 @@ Envoûtement simple
 Une malédiction de niveau "simple" demande de solliciter l'aide de n'importe quel "initié" (probablement un confrère diacre) pour le dissiper.
 
 Il faut que vous imposiez tous les deux les mains au dessus de l'objet, et que vous (seul) prononciez bien fort l'incantation : **"Par le souffle sacré de {% symbol "Bahamoot" for "god_of_diakons" %}, ô matière inerte, nous rompons les liens qui te lient aux strates ensorcelées".**
+
 En cas de réussite, le maître de jeu retire la pastille dorée de l'objet.
 
 Envoûtement complexe
@@ -62,7 +63,7 @@ Il vous faut alors dans l'ordre :
 - Puis vous placer tous en demi-cercle (ou cercle si possible) autour de l'objet
 - Puis que vous (seul) prononciez l'incantation : **"Ouvrez grandes vos oreilles, ouvrez grands vos yeux, car par la puissance pacificatrice de {% symbol "Bahamoot" for "god_of_diakons" %}, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
 
-En cas de réussite, le maître de jeu retire la pastille dorée de l'objet.
+En cas de réussite, le maître de jeu retire là encore la pastille dorée de l'objet.
 
 Envoûtement légendaire
 -----------------------------
@@ -83,7 +84,6 @@ Attention, ce rituel ne fonctionne pas avec les pentacles et sceaux, qui sont de
 
 
 *NOTE hors-jeu: outre la pastille indiquant son type d'envoutement, un tel objet est pourvu ????*
-????? LESQUELS SONT AINSI ?
 
 {% endcomment %}
 

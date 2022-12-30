@@ -3,10 +3,17 @@
 CLUES
 ------
 
+AJOUTER JEU AU DISPELLER
 
 METTRE A JOUR A LA FIN
     Sensibilité au surnaturel
     Liste des talents récapitulative
+
+éboulis
+
+CHANGER DETECTION ANALYSES OBJETS
+
+donner chromocrypto et en rajouter
 
 
 CHANGER detection des recettes supplémentaires, à decrire dans assets checklist
@@ -18,6 +25,7 @@ OLDIE  Mais vous expliquez aux joueurs qu'il existe un **{% symbol "grimoire tra
 
 
 ACHETER STHETOSCOPE ????
+
 
 JOUEUR doit avoir les TELECOMMANDES des lampes LED en cire ??? Mais conflit avec LUMINIS, qui sait faire cela en réalité ???
 

@@ -14,7 +14,7 @@ INSTRUCTIONS COMPLEMENTAIRES DES JOUEURS (déjà envoyées par email) :
 - Les obstacles faits de cordelette épaisse sont infranchissables, tant que le maître de jeu ne les a pas enlevés (souvent suite à une action des joueurs comme un déminage ou un sortilège).
 - Attention aux éclairages (guirlandes de LEDs, diodes, bougies) qui peuvent se trouver au sol, on évite de marcher dessus.
 - Lorsque vous avez utilisé pour de bon un objet - par exemple une clé ou un bijou - SVP mettez-le dans le seau argenté sur la table du buffet, ça nous évitera de le perdre d'ici la fin du jeu.
-- Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des pastilles de couleur sur des objets du jeu, ou bien des plumes colorées.
+- Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des étoiles autocollantes sur des objets du jeu, ou bien des plumes colorées.
 - Vous allez aussi croiser différents personnages figurants ; prenez là aussi le temps de les découvrir, de discuter avec eux, peut-être que vous pouvez les aider, peut-être aussi qu'ils peuvent vous aider dans vos recherches !
 - Enfin, vous allez croiser des fantômes errants, faites attention, ils sont très dangereux ; ils peuvent vous blesser ou bien pire ; et que faites-vous si vous êtes blessé, déjà ? Oui, vous ne bougez plus et vous appelez à l'aide.
 - Pour le joueur ayant des DYNAMITES : celles-ci ne peuvent être utilisées que sur des "éboulis"  :)
@@ -22,7 +22,7 @@ INSTRUCTIONS COMPLEMENTAIRES DES JOUEURS (déjà envoyées par email) :
 
 INSTALLATION DU DECOR :
 
-- Mettre 2 PASTILLES de couleur pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
+- Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme ça en guirlandes LED
 - Bien ajouter un écriteau RAYONNEMENTS IONISANTS devant le corridor de Peau de Pierre (avec les valisettes ovales imbriquées)
 
@@ -84,7 +84,7 @@ OCTAVE et ARCHIVISTE :
     - Bien mémoriser l'emplacement approximatif de la première recette de potion requise pour guérir la "dégénérescence marbrée".
     - Puisque les balises électroniques dysfonctionnent, dites tout de suite aux Parcival que pour trouver les autres sous-potions de guérison, il faut s'aider des **flèches blanches** (en scotch) laissées au sol par les parents Maupertuis.
     - Si l'on vous demande où trouver ces ingrédients, vous supposez qu'il s'agit de noms anciens ou de minéraux, et vous les renvoyez vers le druide pour savoir de quoi il s'agit exactement : **"arbre éternel", "gant-de-renard", "clairvoyant minéral", "aventurine", et "oeil-de-tigre"**.
-    - Si des joueurs cherchent un chaudron enchanté anti-abrasion, les guider vers le chaudron en cuivre à anse portant des pastilles d'envoûtement en couleurs chaudes (dans l'étage interdit)
+    - Si des joueurs cherchent un chaudron enchanté anti-abrasion, les guider vers le chaudron en cuivre à anse portant des marques d'envoûtement(dans l'étage interdit)
 
 - Si des joueurs (probablement explorateurs héliossars) vous parlent du {% symbol "Thanatologue" for "book_of_the_dead" %}, vous savez qu'il ne pourrait être gardé que dans un coffre bien protégé de l'étage interdit.
 - Si des joueurs (probablement agents secrets mirandiens) évoquent un trésor des Maupertuis, vous savez que la famille disposait d'un artefact générateur de richesses, dans l'étage interdit.
