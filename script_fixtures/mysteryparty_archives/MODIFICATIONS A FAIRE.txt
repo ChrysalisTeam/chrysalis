@@ -4,8 +4,6 @@ CLUES
 ------
 
 
-{% fact "diakon_invoker_can_message_ankou" %}
-
 
 
 Kit d'observation-écoute  TRANSFERRED TO DISPELLER
@@ -16,21 +14,17 @@ Vous savez, d'expérience, que les vieilles familles lèguent souvent à leurs h
 
 
 
-AJOUTER JEU AU DISPELLER
-
 METTRE A JOUR A LA FIN
-    Sensibilité au surnaturel
+    Sensibilité au surnaturel  (done)
     Liste des talents récapitulative
 
-éboulis
+éboulis et non pièges
 
-CHANGER DETECTION ANALYSES OBJETS
 
 donner chromocrypto et en rajouter
 
 
-CHANGER detection des recettes supplémentaires, à decrire dans assets checklist
-
+CHANGER detection des recettes supplémentaires, à decrire dans assets checklist :
 
 POUR DERNIER LIVRET!!!!
 OLDIE  Mais vous expliquez aux joueurs qu'il existe un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** permettant de suivre les vibrations magiques de ces recettes fondamentales, grimoire qui doit être dans un des coffres de l'étage autorisé. Lorsque les joueurs vous le ramènent, vous leur donnez une phrase magique quelconque à prononcer (par exemple **"Grimoire traceur, dis-moi où sont les recettes qui guérissent"**), et le MJ activera la tablette tactile pour les joueurs. {% hint "radio_frequency_scanner_app_in_chest" is needed %}
@@ -56,7 +50,13 @@ United they stand, divided they fall
 
 
 
-======= TRASH============
+======================= TRASH ====================
+
+
+
+CHANGER DETECTION ANALYSES OBJETS  DONE
+
+{% fact "diakon_invoker_can_message_ankou" %} DONE
 
 
 le diacre doit aussi REVEILLER objets sacrés !! comme astrolabe  NOPE NOT FOR NOW

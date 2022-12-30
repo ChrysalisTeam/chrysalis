@@ -16,7 +16,7 @@ Les ingrédients que vous possédez
 {# voir https://harrypotter.fandom.com/fr/wiki/Cat%C3%A9gorie:Ingr%C3%A9dients_de_potions et https://sain-et-naturel.ouest-france.fr/voici-liste-plantes-medicinales.html#}
 
 **Au domicile familial** : Alchémille, Bile de tatou, Chrysope, Champignon écarlate, Digitale, Essence de ciguë, Ether, Foie de chauve-souris, Joubarbe, Livèche, Mandragore, Œil de triton, Pierre de lune, Polygonum, Rosée d'éclair, Sang de salamandre, Sumac vénéneux, Seigle barbaquin, Venin de tarantule.
-{% fact "parcival_alchemist_has_all_ingredient_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
+{% fact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
 
 **Sur vous lors de votre expédition**, un nombre suffisant pour tous usages de fioles de :
 
@@ -27,7 +27,7 @@ Les ingrédients que vous possédez
 - Huile de ricin
 - Filtrat de marée lunaire
 
-*NOTE hors-jeu: Ces ingrédients-là ne sont pas spécifiquement matérialisés en jeu, simulez-les avec une de vos fioles quelconques (des fioles génériques peuvent être fournies par les organisateurs).*
+*NOTE hors-jeu: Ces ingrédients-là ne sont pas spécifiquement matérialisés en jeu, simulez-les avec des fioles et pots quelconques.*
 
 
 Les ustensiles que vous possédez
