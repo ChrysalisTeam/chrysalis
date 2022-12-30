@@ -408,7 +408,7 @@
     - "Couverture marron fine avec croix, contenant le journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %}"
     - "Arbalète bois et UNIQUE fléchette (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %}"
     - "@EXTERNE Fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %}"
-    - "@POTIONS Potions de Focus et de Charme (pour l'alchemist, appartenait à l'exorcist) {% hint 'potions_of_focus_from_exorcist' is provided %} {% hint 'potions_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %} <MISSING-POTIONS-A-FABRIQUER>"
+    - "@POTIONS Potions respectivement de Focus et de Charme (pour l'alchemist, appartenait à l'exorcist) {% hint 'potion_of_focus_from_exorcist' is provided %} {% hint 'potion_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %}"
     - "@EXTERNE 2 lanternes rouges du Clivra (2xLR20D chacune)"
     - "@EXTERNE Lanterne en bronze (2xLR20D incluses)"
     - "Lanterne en argent prétendument cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"

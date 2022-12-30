@@ -645,7 +645,9 @@ L’ouverture du buffet d'outre-monde
 
 Une musique entraînante se déclenche, et l’inventeur vient au banquet, appelant à grands cris ses amis du monde imaginaire à le rejoindre pour porter un toast à Octave et l'archiviste, et espérer ensemble la levée de la malédiction.
 
-Les autres avatars convergent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, au cours duquel les mets du banquet sont dévoilés ; ces mets sont supposés être automatiquement produits par la table enchantée, lorsqu'on l'active par une formule simple comme **"Mon ventre gargouille, ma gorge se dessèche, ô table comble moi !"**. {% fact "buffet_table_magically_generates_food" %}
+Les autres avatars convergent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, en ouverture du banquet.
+
+Les mets du buffet sont supposés être automatiquement produits par la table enchantée. Optionnellement, s'il n'est pas déjà visible, on peut faire apparaître le buffet garni par une formule magique simple, que les avatars connaissent. {% fact "buffet_table_magically_generates_food" %}
 
 Une fois la musique finie, joueurs et héros font plus ample connaissance autour du buffet. Il est assumé que, à dessein, ces mets magiques sont aussi accessibles aux fantômes (incarnés ou non).
 
@@ -903,7 +905,7 @@ Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conse
 
 {% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}
 
-- Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre légendaire, mais cela ne résout pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d’Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares. {% fact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %} {% fact "players_have_thanatologue_spell_to_summon_zombies" %} {% hint "recipe_authority_potion" is needed %}
+- Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre légendaire, mais cela ne résout pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d'Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares. {% fact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %} {% fact "players_have_thanatologue_spell_to_summon_zombies" %} {% hint "recipe_authority_potion" is needed %}
   Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une solution, dans le {% symbol "Thanatologue" for "book_of_the_dead" %} : les akarites cherchent à viser en priorité les invocateurs du camp adverse, surtout ceux portant de grands bijoux. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
 
 - L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}

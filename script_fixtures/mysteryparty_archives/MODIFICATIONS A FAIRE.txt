@@ -8,37 +8,25 @@ METTRE A JOUR A LA FIN
     Sensibilité au surnaturel
     Liste des talents récapitulative
 
-CHANGER detection des recettes supplémentaires
+
+CHANGER detection des recettes supplémentaires, à decrire dans assets checklist
 
 
+POUR DERNIER LIVRET!!!!
 OLDIE  Mais vous expliquez aux joueurs qu'il existe un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** permettant de suivre les vibrations magiques de ces recettes fondamentales, grimoire qui doit être dans un des coffres de l'étage autorisé. Lorsque les joueurs vous le ramènent, vous leur donnez une phrase magique quelconque à prononcer (par exemple **"Grimoire traceur, dis-moi où sont les recettes qui guérissent"**), et le MJ activera la tablette tactile pour les joueurs. {% hint "radio_frequency_scanner_app_in_chest" is needed %}
 **Si le grimoire traceur ne fonctionne pas, indiquez que les recettes fondamentales sont aussi trouvables grâce à des flèches blanches marquées au sol.** {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %}
 
 
-Le désenvouteur ne supprime qu'envoutements NEGATIFS !!!!!
-
-AJOUTER ENVOUTEMENT INCONNU avec pastille vide !!! ex. les 4 elements
-
-résumer le fonctionnement du buffet, et le mentionner dans diary de l'archiviste !!!
-
-Qui utilise potions autorité et charme ??
-
 ACHETER STHETOSCOPE ????
 
 JOUEUR doit avoir les TELECOMMANDES des lampes LED en cire ??? Mais conflit avec LUMINIS, qui sait faire cela en réalité ???
-
-le diacre doit aussi REVEILLER objets sacrés !! coomme astrolabe
-
-
-Revoir discours introductif pour encourager COOPERATION entre joueurs
 
 
 L'arkonte doit convaincre le voleur qu'il est mort. Des lors, 
 celui ci continue à ne vouloir que de l'argent, car avec sa bourse magique, cela termmine dans le repaire de sa famille ?
 
 
-Clarifier zoologie et gastronomie dans prophétie
- 
+Revoir discours introductif pour encourager COOPERATION entre joueurs
 
 Mettre prophétie inittiale comme quoi ils doivent tous, joueurs, rester soudés, et seront entourés de danger
 United they stand, divided they fall
@@ -49,6 +37,19 @@ United they stand, divided they fall
 
 ======= TRASH============
 
+
+le diacre doit aussi REVEILLER objets sacrés !! comme astrolabe  NOPE NOT FOR NOW
+
+
+Clarifier zoologie et gastronomie dans prophétie  DONE
+
+Qui utilise potions autorité et charme ??
+
+résumer le fonctionnement du buffet, et le mentionner dans diary de l'archiviste !!!
+
+Le désenvouteur ne supprime qu'envoutements NEGATIFS !!!!!  DONE
+
+AJOUTER ENVOUTEMENT INCONNU avec pastille vide !!! ex. les 4 elements  USELESS
 
 OK   Si l'on vous interroge : vous ne savez pas ce qu'est un {% symbol "Vortex Abyssal" for "corridor_to_demonic_space" %}. Mais vous êtes plutôt opposé à utiliser des sortilèges sans bien comprendre ce qu'ils impliquent.
 
