@@ -23,9 +23,9 @@ Distinction des objets en-jeu/hors-jeu (RP/HRP)
 - Lorsque des **meubles ou objets sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu. Similairement, lorsque des objets sont dans une **sacoche noire unie**, c'est qu'ils ne sont pas (encore) matérialisés dans le monde du jeu, il ne faut pas y toucher.
 - Du **scotch noir** peut aussi être utilisé pour désigner des objets soudés ensemble, ou scellés, ou attachés au sol ; cet état de fait doit être respecté, sauf compétences particulières qui permettent d'altérer ces objets.
 - De la **cordelette épaisse de chanvre** peut servir à matérialiser les passages bloqués, soit à cause d'un mur infranchissable, soit d'un sortilège qui doit être dissipé.
-- Des marqueurs tels **des gommettes autocollantes, plumes colorées, ou perles plates en verre** peuvent être utilisés pour désigner des points d'action, ou pour annoter des objets du jeu. Ne les enlevez pas. Si vous ne connaissez pas leur signification, vous ne pouvez pas les décrire à un autre joueur (car ces marqueurs sont hors-jeu), mais vous pouvez lui demander de *"jeter un oeil, car cette objet vous semble étrange/piégé/magique"*. Les méthodes de déchiffrement de ces marqueurs ne peuvent pas être transmises entre joueurs, car elles représentent des compétences sophistiquées dans l'univers du jeu. En revanche, ignorez les **pastilles rondes colorées**, car elles servent uniquement au rangement des objets.
-- Les livres modernes sont considérés comme des grimoires écrits dans des langues que vous ne pouvez comprendre.
-- Les objets contemporains (lampes LED...) sont traités comme leurs équivalents dans un monde rétrofuturiste "steampunk", ou ignorés s'ils sont high-tech (ordinateurs...). Les systèmes modernes de sonorisation et d'éclairage d'ambiance sont évidemment hors-jeu et à ignorer.
+- Des marqueurs tels **des étoiles autocollantes, plumes colorées, ou perles plates en verre** peuvent être utilisés pour désigner des points d'action, ou pour annoter des objets du jeu. **Ne les enlevez pas.** Si vous ne connaissez pas leur signification, vous ne pouvez pas les décrire à un autre joueur (car ces marqueurs sont hors-jeu), mais vous pouvez lui demander de *"jeter un oeil, car cette objet vous semble étrange/piégé/magique"*. Les méthodes de déchiffrement de ces marqueurs ne peuvent pas être transmises entre joueurs, car elles représentent des compétences longues à acquérir dans l'univers du jeu. En revanche, ignorez toutes les **pastilles rondes colorées**, car elles servent uniquement au rangement des objets.
+- Les livres modernes sont à considérer comme des grimoires écrits dans des langues que vous ne pouvez comprendre.
+- Les objets contemporains (lampes LED...) sont traités comme leurs équivalents dans un monde rétrofuturiste "steampunk", ou ignorés s'ils sont high-tech (ordinateurs...). Les systèmes modernes de sonorisation et d'éclairage d'ambiance sont hors-jeu et à ignorer.
 - En cas de doute sur ce qui est en jeu ou non, demander au MJ ou aux figurants.
 - si un participant (joueur ou figurant) traverse la salle avec le **poing levé**, c'est qu'il est hors-jeu, ignorez-le.
 
@@ -34,36 +34,38 @@ Compétences, objets et pièges
 +++++++++++++++++++++++++++++++++++++
 
 - Le maître du jeu doit être **tenu informé** des compétences spéciales que vous mettez en œuvre, et y assister s'il s'agit de compétences interactives entre protagonistes (comme des serments), ou de manoeuvres qui modifient l'état des objets du jeu.
-- N'hésitez pas à prendre à part le maître de jeu durant la partie, si une règle n'est pas claire, ou pour demander si ceci ou cela est possible dans cet univers
+- N'hésitez pas à prendre à part le maître de jeu durant la partie, si une règle n'est pas claire, ou pour demander si ceci ou cela est possible dans cet univers.
+
+- Les coffrets et valises qui sont posés sur le sol ou sur une table sont considérés **inamovibles**, il ne faut pas les bouger, et encore moins les secouer pour jauger ce qu'ils contiennent (risque d'objets ou mécanismes fragiles, là encore) ; les petits coffrets et boites placés dans d'autres rangements peuvent, eux, être déplacés avec précaution.
+
+- Afin de s'assurer d'une bonne répartition de l'information parmi les joueurs, et éviter de perdre des objets, il vous est demandé de **ne pas prendre les objets dont vous n'avez pas l'utilité** ; par exemple les livres, les artefacts, les potions, les clefs disposés dans les lieux. Ainsi, les autres joueurs peuvent les lire/analyser aussi, et participer à la résolution des énigmes. En revanche, lorsque vous trouvez un objet utile à vos compétences spéciales ou à la progression des quêtes, vous pouvez l'emporter, mais prenez soin de bien **informer les autres** de ce que vous possédez, et des nouvelles capacités que cela vous offre. Les richesses (pièces, diamants...) peuvent être emportées librement.
 
 - Les objets du jeu sont parfois **fragiles**, on ne les secoue pas et on ne force pas dessus, en particulier s'ils sont équipés d'un système de verrouillage. Ils nécessitent alors soit d'avoir des compétences spéciales pour les ouvrir (ex. systèmes magnétiques), soit de trouver, selon les cas :
 
   - **Leur clef en métal (s'ils s'agit d'une serrure ou d'un cadenas à clef)**
   - **Leur code secret (s'il s'agit de molettes à chiffres)**
 
-- Les coffrets et valises qui sont posés sur le sol ou sur une table sont considérés **inamovibles**, il ne faut pas les bouger, et encore moins les secouer pour jauger ce qu'ils contiennent (risque d'objets ou mécanismes fragiles, là encore) ; les petits coffrets et boites placés dans d'autres rangements peuvent, eux, être déplacés avec précaution.
-
 - Les (fausses) bougies et autres sources de lumière "en-jeu" peuvent être déplacées, sauf si elles sont marquées comme ancrées au sol avec du **scotch noir**.
 
-- Les **pièges** sont toujours repérables visuellement, ou alors annoncés par différents indices tels que les **marqueurs hors-jeu**. Vous ne serez pas pénalisé pour avoir ouvert un grimoire quelconque, ou prononcé un mot anodin. En revanche, si vous marchez sur un pentacle ou prononcez des incantations trouvées sans les comprendre, gare.
+- Les **pièges** sont toujours repérables visuellement, ou alors annoncés par différents indices tels que les **marqueurs hors-jeu**. Vous ne serez pas pénalisé pour avoir ouvert un livre quelconque, ou prononcé un mot anodin. En revanche, si vous marchez sur un pentacle ou prononcez des incantations trouvées sans les comprendre, gare.
 
 
 Blessures et morts fictifs, "en jeu"
 ++++++++++++++++++++++++++++++++++++++
 
-Il est possible que votre personnage soit blessé durant le jeu, auquel cas vous devrez simuler du mieux possible les malus que le maître de jeu vous donnera.
+Il est possible que votre personnage soit **blessé** durant le jeu, auquel cas vous devrez simuler du mieux possible les malus que le maître de jeu vous donnera.
 
 Si vous déclenchez un **son de cigale**, ou faites sonner des **grelots**, cela peut signifier un piège, faites alors appel au maître de jeu pour savoir quoi faire. {% fact "cicada_or_minibell_sound_mean_injury" %}
 
-Il peut aussi arriver, plus rarement, que votre personnage soit tué. Mais pas de panique, cela ne signifie pas la fin de la partie pour vous, car dans l'univers de ce jeu, le monde des morts offre lui aussi des possibilités de contribuer à l'intrigue.
+Il peut aussi arriver, plus rarement, que votre personnage soit **tué**. Mais pas de panique, cela ne signifie pas la fin de la partie pour vous, car dans l'univers de ce jeu, le monde des morts offre lui aussi des possibilités de contribuer à l'intrigue.
 
 
 Scènes théâtrales
 +++++++++++++++++++++++
 
-Il vous sera parfois demandé de diminuer ou d'éteindre des lumières que vous portez, pour renforcer l'ambiance et éviter les éblouissements, par exemple lors d'un rituel ou autre scène importante du jeu.
+Il vous sera parfois demandé de **diminuer ou d'éteindre des lumières** que vous portez, pour renforcer l'ambiance et éviter les éblouissements, par exemple lors d'un rituel ou autre scène importante du jeu.
 
-Lors d'une telle scène, surtout si elle est accompagnée d'une ambiance musicale, on évite de faire du bruit, de l'interrompre ou de la déranger autrement. Il peut cependant arriver que les protagonistes de la scène sollicitent votre participation.
+Lors d'une telle scène, surtout si elle est accompagnée d'une ambiance musicale, **on évite de faire du bruit**, de l'interrompre ou de la déranger autrement. Il peut cependant arriver que les protagonistes de la scène sollicitent votre participation.
 
 
 <{ game_rules_outro }/>
