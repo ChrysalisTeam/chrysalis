@@ -598,9 +598,9 @@ Les joueurs sont par eux-mêmes très démunis face aux diverses blessures, ils 
 
 **Guérisons par des avatars** : Les blessures peuvent, en fonction de leur type, être guéries par certains des avatars. Les avatars doivent d'abord laisser le joueur avec ses blessures pendant quelques minutes, le temps de "rassembler ce qu'il faut pour le soigner". Puis ils procèdent à une opération ou un rituel - **à inventer pour l'occasion**.
 
-{% comment %} NOPE FORGET THAT FOR NOW
+{# NOPE FORGET THAT FOR NOW
 mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant alors à la mort du joueur - tirer cela au dé avec le maître de jeu){ % fact "avatar_abilities_are_randomly_hazardous" % }.
-{% endcomment %}
+#}
 
 - La **duchesse** peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour réparer une blessure sacrée (touchant l'âme). {% fact "duchess_can_well_heal_sacred_injuries" %}
 - Le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques. {% fact "druid_can_well_heal_limited_injuries" %}

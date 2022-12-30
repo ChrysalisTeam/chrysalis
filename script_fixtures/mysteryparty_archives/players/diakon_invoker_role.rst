@@ -53,7 +53,7 @@ Rituel :
 
 - Utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
 - Amener à l'intérieur l'entité ciblée, quelque soit son état actuel
-- Réciter trois fois à haute voix : **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, si tu dois demeurer, au moins ne bouge plus."**
+- Réciter trois fois à haute voix : **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, reste suspendu."**
 - L'entité peut bouger un peu, mais elle doit rester à l'intérieur du pentacle pendant toute la durée du rituel, sans quoi l'envoûtement échoue.
 
 
@@ -64,13 +64,13 @@ Les dieux empêchent habituellement que les vivants perturbent la quiétude des 
 
 Pour cela, il faut vous mettre en cercle avec 2 autres {% symbol "initiés" for "ritualist_kind_name" %}, mains tendues vers le centre du cercle, et déclamer (seul) cette invocation :
 
-**Ô <nom du dieu>, toi qui résides au <adresse mortuaire>, réponds à notre quémande: <demande> ; nous attendons avec un coeur fébrile ta réponse.**
+**Ô <nom du dieu>, toi qui résides au <adresse mortuaire>, réponds à notre quémande: <demande>.**
 
 
 Bénédiction de terrain anti-zombie
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Lassés des bouffoneries des nécomanciens, tous les invocateurs de votre ordre ont appris à purifier une tombe, afin d'éviter que la dépouille qu'elle contient ne soit plus tard transformée en un mort-vivant. Cela ne fonctionne pas si le mort-vivant est déjà incarné, que ce soit à cause d'un maléfice nécromant ou de la vie trop maléfique du défunt. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
+Lassés des sottises des nécromanciens, tous les invocateurs de votre ordre ont appris à purifier une tombe, afin d'éviter que la dépouille qu'elle contient ne soit plus tard transformée en un mort-vivant. Cela ne fonctionne pas si le mort-vivant est déjà incarné, que ce soit à cause d'un maléfice nécromant ou de la vie trop maléfique du défunt. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
 
 Pour purifier la tombe, il faut que 2 {% symbol "initiés" for "ritualist_kind_name" %} se placent de part et d'autre à ses extrémités, mains tendues vers le ciel, et que l'invocateur clame cette invocation :
 
@@ -100,7 +100,7 @@ La sagesse ancestrale indique que s'il a été mis en place sur un lieu, il est 
 
 Pour cela, il faut d'abord qu'au moins {% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %} enfermés dans le lieu donnent leur accord verbal pour être libérés.
 
-Puis il faut que l'invocateur - qu'il se trouve dans ou hors la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} - mélange de la "Potion de vieillissement accéléré" et de la "Potion de venin d'un serpent quelconque" à parts égales dans un demi-verre, et les avale d'un coup sec. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
+Puis il faut que l'invocateur - qu'il se trouve dans ou hors la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} - mélange de la "Potion de vieillissement accéléré" et de la "Potion de venin d'un serpent" (quelconque) à parts égales dans un demi-verre, et les avale d'un coup sec. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
 
 Il doit ensuite, dans son dernier souffle, clamer :
 

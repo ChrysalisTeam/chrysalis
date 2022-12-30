@@ -3,6 +3,19 @@
 CLUES
 ------
 
+
+{% fact "diakon_invoker_can_message_ankou" %}
+
+
+
+Kit d'observation-écoute  TRANSFERRED TO DISPELLER
+++++++++++++++++++++++++++++++++++
+
+Vous savez, d'expérience, que les vieilles familles lèguent souvent à leurs héritiers des conseils et indices sous des formes très petitement écrites ou très faiblement audibles, donc vous avez emporté **une loupe et un stéthoscope**.
+{% hint "stethoscope_and_magnifying_glass_for_explorer_runologist" is needed %}
+
+
+
 AJOUTER JEU AU DISPELLER
 
 METTRE A JOUR A LA FIN

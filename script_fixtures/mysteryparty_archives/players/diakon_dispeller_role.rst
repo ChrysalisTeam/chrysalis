@@ -73,7 +73,7 @@ Si l'envoûtement est de niveau "légendaire", alors il est **impossible** pour 
 
 
 
-{% comment %}  NOT FOR NOW
+{#  NOT FOR NOW
 
 La réactivation des envoûtements
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -85,7 +85,7 @@ Attention, ce rituel ne fonctionne pas avec les pentacles et sceaux, qui sont de
 
 *NOTE hors-jeu: outre la pastille indiquant son type d'envoutement, un tel objet est pourvu ????*
 
-{% endcomment %}
+#}
 
 
 Vos connaissances sur les différents types de blessures
