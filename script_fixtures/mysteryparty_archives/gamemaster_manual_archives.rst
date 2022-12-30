@@ -152,7 +152,11 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 - Ils ne peuvent pas aller dans le monde d'autres avatars, ni accueillir dans leur propre monde des vivants ou des fantômes.
 
-- Ils conservent majoritairement les super-pouvoirs qu’ils peuvent avoir dans leur univers (régénération, force, sorts…), mais avec des risques d'effets de bord dangereux, à cause d'incompatibilités entre les lois fondamentales des univers ; dans le cas présent, tous les avatars sont sensibles aux attaques physiques et magiques, mais le sacré ne leur fait rien car leur "transcendance" n'est pas la même que les humains. {% fact "avatar_abilities_are_randomly_hazardous" %}
+- Ils conservent majoritairement les super-pouvoirs qu’ils peuvent avoir dans leur univers (régénération, force, sorts…)
+
+- Ils sont sensibles aux attaques physiques et magiques, mais le sacré (et le monde des fantômes) ne leur fait rien car leur "transcendance" n'est pas la même que les humains.
+
+{# mais avec des risques d'effets de bord dangereux, à cause d'incompatibilités entre les lois fondamentales des univers ; dans le cas présent, { % fact "avatar_abilities_are_randomly_hazardous" % } #}
 
 - Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
@@ -453,7 +457,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 - Il est très habile, a des pouvoirs magiques, résiste à la magie et aux poisons (ainsi qu’au sacré bien sûr), et régénère très vite son corps en cas de blessure.
 
-- Il peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "druid_can_dangerously_heal_limited_injuries" %} (mais c'est dangereux)
+- Il peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "druid_can_well_heal_limited_injuries" %}
 
 {# NOPE - **S’y connait en NECROMANCIE ?????** #}
 
@@ -471,7 +475,7 @@ L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 
 - A conçu les automates de la bibliothèque
 
-- Il peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "inventor_can_dangerously_heal_missing_limbs" %} (mais c'est dangereux)
+- Il peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "inventor_can_well_heal_missing_limbs" %}
 
 {% endmacro %}
 <{ avatar_inventor_character_summary }/>
@@ -487,7 +491,7 @@ La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %}
 
 - Est capable d'entrer en synergie avec d'autres "voyants"
 
-- Elle peut invoquer ses propres dieux, avec l'aide des diacres, pour guérir une blessure sacrée {% fact "duchess_can_dangerously_heal_sacred_injuries" %}  (mais c'est dangereux)
+- Elle peut invoquer ses propres dieux, avec l'aide des diacres, pour guérir une blessure sacrée {% fact "duchess_can_well_heal_sacred_injuries" %}
 
 {% endmacro %}
 <{ avatar_duchess_character_summary }/>
@@ -551,13 +555,15 @@ Les différents types de blessures
 
 Les agressions qu'un aventurier malchanceux est susceptible de subir se classent en trois catégories : **attaques physiques, magiques et sacrées**.
 
-Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, de foudre, de choc...) doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : **biologique**. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.
+Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, ou autres, mais aussi blessures résultant d'objets envoûtés par des malédictions...) doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : **biologique**. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.  {% fact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
 
-En revanche, les attaques sacrées, telles les malédictions de certains sorciers nécromants, ou les contacts avec des fantômes, causent des blessures de nature **spirituelle**. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions aussi peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction. {% fact "potions_cannot_heal_spiritual_injuries" %}
+En revanche, les attaques sacrées, typiquement issues de contacts avec des fantômes, causent des blessures de nature **spirituelle**. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité, membre inutilisable...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions aussi peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction. {% fact "potions_cannot_heal_spiritual_injuries" %}
 
 La distinction entre ces différents types de blessures n'est pas toujours évidente ; par exemple, la paralysie d'un membre peut être due à des lésions internes tout comme à l'attaque d'un spectre. D'où la nécessité d'investiguer les circonstances ayant mené aux troubles constatés, afin de fournir un remède approprié.
 
-Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "spirituelles" fragilisent les fondements de l'âme. Subir deux blessures d'affilée de même nature mène donc presque certainement à la mort. {% fact "second_sacred_injury_is_always_fatal" %}
+Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "spirituelles" fragilisent les fondements de l'âme.
+
+**Subir deux blessures d'affilée, de toutes nature que ce soir, mène donc presque certainement à la mort.** {% fact "second_sacred_injury_is_always_fatal" %}
 
 {% endmacro %}
 <{ injury_types_knowledge }/>
@@ -571,16 +577,16 @@ Un joueur peut être atteint dans les cas suivants :
 
 - S’il se fait toucher par un fantôme (incarné ou non) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer. {% fact "phantom_touch_harms_the_living" %}
 
-- S’il touche un objet manifestement maudit, comme un crâne sonore ou les ossements qui sont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- S’il touche un objet maudit, comme un crâne sonore ou les ossements qui sont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure biologique**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
 - S’il déclenche un piège physique ou magique, c'est-à-dire fait tomber un **grelot** par terre (ex. fil tendu dans une allée) ou déclenche le cri d'une **cigale** à détecteur de présence (ex. en ouvrant un coffre) : **blessure biologique**.
  {% fact "cicada_or_minibell_sound_mean_injury" %}
 
 - S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival, et se fait toucher par la momie du mage : **mort**. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
-- S'il boit une potion dangereuse, ou reçoit un sortilège ennemi etc. : **cela dépend** du cas spécifique.
+- S'il boit une potion dangereuse, ou reçoit un sortilège ennemi etc. : **blessure biologique**.
 
-**Les blessures se traduisent par un malus à la discrétion du MJ, suivant la situation : perdre l'usage d'un membre, devenir muet, perdre la mémoire, devenir essoufflé et ne plus pouvoir courir (en cas d'empoisonnement), ou de ne plus pouvoir utiliser certaines compétences...**
+**Les blessures se traduisent par un malus à la discrétion du MJ, suivant la situation : perdre un membre ou juste son usage, devenir muet, perdre la mémoire, devenir essoufflé et ne plus pouvoir courir (en cas d'empoisonnement), ou ne plus pouvoir utiliser certaines compétences...**
 
 **IMPORTANT : une deuxième blessure de même nature, subie durant le jeu, tue le joueur.** {% fact "second_sacred_injury_is_always_fatal" %}
 
@@ -588,15 +594,19 @@ Un joueur peut être atteint dans les cas suivants :
 Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux potions magiques et aux rituels des diacres, mais ces possibilités restent très limitées.
 #}
 
-Les joueurs sont très démunis face aux diverses blessures, ils n'ont PAS de compétences en ce sens. {% fact "players_have_no_medecine_abilites" %}
+Les joueurs sont par eux-mêmes très démunis face aux diverses blessures, ils n'ont PAS de compétences en ce sens. {% fact "players_have_no_medecine_abilites" %}
 
-**Guérisons par des avatars** : Toutes les blessures peuvent être guéries par des avatars, mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant alors à la mort du joueur - tirer cela au dé avec le maître de jeu){% fact "avatar_abilities_are_randomly_hazardous" %}. Dans tous les cas, les avatars doivent d'abord laisser le joueur avec ses blessures pendant quelques minutes, le temps de "rassembler ce qu'il faut pour le soigner". Puis ils procèdent à une opération ou un rituel - **à inventer pour l'occasion**.
+**Guérisons par des avatars** : Les blessures peuvent, en fonction de leur type, être guéries par certains des avatars. Les avatars doivent d'abord laisser le joueur avec ses blessures pendant quelques minutes, le temps de "rassembler ce qu'il faut pour le soigner". Puis ils procèdent à une opération ou un rituel - **à inventer pour l'occasion**.
 
-- La **duchesse** peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour réparer une blessure sacrée (touchant l'âme). {% fact "duchess_can_dangerously_heal_sacred_injuries" %}
-- Le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques. {% fact "druid_can_dangerously_heal_limited_injuries" %}
-- L'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu. {% fact "inventor_can_dangerously_heal_missing_limbs" %}
+{% comment %} NOPE FORGET THAT FOR NOW
+mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant alors à la mort du joueur - tirer cela au dé avec le maître de jeu){ % fact "avatar_abilities_are_randomly_hazardous" % }.
+{% endcomment %}
 
-**Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes barrières que l'ensemble des protagonistes ({% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet d'accéder aux corridors piégés et autres lieux dangereux pour les vivants.
+- La **duchesse** peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour réparer une blessure sacrée (touchant l'âme). {% fact "duchess_can_well_heal_sacred_injuries" %}
+- Le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques. {% fact "druid_can_well_heal_limited_injuries" %}
+- L'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu. {% fact "inventor_can_well_heal_missing_limbs" %}
+
+**Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes barrières que l'ensemble des protagonistes ({% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} bloquant le domaine interdit...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet d'accéder aux corridors piégés et autres lieux dangereux pour les vivants.
 
 Avec le bon rituel du grimoire {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de **ressusciter un joueur** à l’état de **zombie** pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de "zombie à l’ancienne” (ex. il parle bizarrement, peut marcher en titubant, mais ne peut pas courir...). {% fact "players_have_thanatologue_spell_to_summon_zombies" %}
 
@@ -1166,7 +1176,7 @@ Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèqu
 
 Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul **étranger** ne viole jamais la sépulture de ce vénérable aïeul, ni aucun des dangereux mystères qu'il a emportés dans la tombe. À ce jour, aucune guilde de mages sur la planète ne serait probablement capable de briser autant d'envoutements accumulés. Mais peut-être qu'il est possible d'y entrer par des moyens détournés, qui sait ? {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}
 
-*Note : une fois libérés de leur ancrage, en revanche, les fantômes PEUVENT entrer dans le tombeau en passant par les murs, qui ne sont pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Il peuvent donc ramener quelques informations sur le contenu du tombeau.* {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
+*Note : une fois libérés de leur ancrage, en revanche, les fantômes PEUVENT entrer dans le tombeau en passant par les murs l'entourant, qui ne sont eux pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Il peuvent donc ramener quelques informations sur le contenu du tombeau.* {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
 
 
 Les colliers éthériques
