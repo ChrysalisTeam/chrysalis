@@ -18,6 +18,7 @@ Mini-arbalète
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous ne vous séparez jamais de votre chère arme de poing, qui vous a déjà sauvé la mise plus d'une fois lorsque la nuit tombait dans les bois.
+
 Ses flèchettes sont en solide {% symbol "Iridium" for "parcival_woodsman_bullets_metal" %}, mais n'ont pas reçu d'enchantements leur permettant de percer des défenses magiques, ou de blesser des entités du monde des morts ; heureusement pour vous, le cas ne s'est jamais présenté.
 
 A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres les semaines précédentes, il ne vous reste **qu'une seule munition** dans votre arme. {% hint "single_bullet_left_for_woodsman" is needed %} {% hint "other_iridium_bullet_for_woodsman" is needed %}
@@ -27,7 +28,7 @@ Stratège Défenseur
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vos parents ne vous l'ont jamais caché : s'il en est un seul qui s'en sortira toujours, dans la famille, c'est vous.
-Mais votre talon d'Achille, ce sont les gens de votre cercle familial et amical. Vous avez donc pris l'habitude d'ouvrir l'oeil face aux potentiels périls, et de repérer les atouts et défauts du terrain où vous vous trouvez. Y a-t-il un cul-de-sac à éviter pour ne pas se retrouver acculé par des ennemis ? Ou au contraire un recoin dans lequel se cacher, voire éviter un encerclement ? Vous savez ne pas pouvoir être partout, mais au minimum vous désirez pouvoir vous interposer entre les dangers et vos proches les plus vulnérables.
+Mais votre talon d'Achille, ce sont les gens de votre cercle familial et amical. Vous avez donc pris l'habitude d'ouvrir l'oeil face aux potentiels périls, et de repérer les atouts et défauts du terrain où vous vous trouvez. Y a-t-il un cul-de-sac à éviter pour ne pas se retrouver acculé par des ennemis ? Ou au contraire un recoin dans lequel se cacher, voire éviter un encerclement ? Des chemins qui semblent piégés ? Vous savez ne pas pouvoir être partout, mais au minimum vous désirez pouvoir vous interposer entre les dangers et vos proches les plus vulnérables.
 
 
 Connaissance des bêtes dangereuses
@@ -45,6 +46,6 @@ Les wendigos, des humanoides émaciés friands de chair humaine, sont très rare
 
 Une créature que vous n'avez jamais vue, et que vous souhaitez ne jamais voir, est sens conteste le thestral. Ce monstre hippique, squelettique et ailé, se déplace rapidement entre les arbres, et s'en prendrait violemment aux promeneurs isolés, par pur plaisir sadique. Vous prenez donc toujours soin de vous cachez lorsque vous entendez un jappement suraigu au loin. Surtout qu'il ne lui est connu aucune vulnérabilité particulière, sinon un nombre suffisant de coups de hache dans son corps malingre.
 
-Vous avez très peu de savoir en nécromancie, et aucune contre-mesure en la matière ; mais vous savez par exemple, que contrairement aux fantômes - immatériels donc persistants - les zombies et autres morts vivants ne sont que temporaires, et qu'ils puisent dans la magie de leurs invocateurs, ou de leur tombeau, de quoi animer leur chair de façon temporaire ; fuir puis attendre est donc souvent la meilleure solution. ???A VERIFIER ???? {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
+Vous avez très peu de savoir en nécromancie, et aucune contre-mesure en la matière ; mais vous savez par exemple que, contrairement aux fantômes - immatériels donc persistants - les zombies et autres morts vivants ne sont que temporaires, et puisent dans la magie de leurs invocateurs, ou de leur tombeau, de quoi animer leur chair de façon temporaire ; fuir puis attendre est donc souvent la meilleure solution. {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
 
 Quant aux strigas, dryades, spriggans et autres créatures amatrices de magie, vous les connaissez peu, et vous avez toujours pris soin d'aller chercher l'aide d'experts lorsque le cas se présentait ; ces créatures-là ne sont heureusement dangereuses que lorsqu'elles sont affamées ou blessées.

@@ -47,6 +47,10 @@ Mettre prophétie inittiale comme quoi ils doivent tous, joueurs, rester soudés
 United they stand, divided they fall
 
 
+???A VERIFIER ???? {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
+
+Passer en revue les "???"
+
 
 
 
