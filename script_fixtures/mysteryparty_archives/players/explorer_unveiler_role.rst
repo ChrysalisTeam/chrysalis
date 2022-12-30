@@ -18,6 +18,8 @@ Il semblerait que les vieilles lignées de mages utilisaient beaucoup de telles 
 Hélas, il semble que les **{% symbol "cartouches de vapeur de cire pressurisée" for "candle_batteries_name" %} utilisées par votre lampe soient désormais vides**, et cela ne va pas être simple de refabriquer des combustibles si spécifiques, au vu des circonstances.
 {% hint "explorer_unveiler_uv_lamp_initially_broken" is needed %} {% hint "explorer_unveiler_uv_lamp_battery" is needed %}
 
+*NOTE hors-jeu* : des étiquettes avec un symbole "UV" peuvent vous aider à trouver les objets pertinents.
+
 
 Analyse d'artefacts et de sépultures
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
