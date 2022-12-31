@@ -16,12 +16,12 @@ Mais votre vocation s'est rapidement imposée à vous : désenvouteur, c'est-à-
 *NOTE hors-jeu : n'hésitez pas à simuler des émotions fortes, négatives ou positives selon les cas, lorsque vous imposez les mains sur des artefacts envoûtés...*
 
 
-Le reconnaissance des envoûtements
+Le reconnaissance des envoûtements d'artefacts
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-En imposant les mains sur un objet (ou un marquage) et en fermant les yeux, vous pouvez sentir s'il a été la cible de malédictions ou de bénédictions.
+En imposant les mains sur un objet et en fermant les yeux, vous pouvez sentir s'il a été la cible de malédictions ou de bénédictions.
 
-*Explications hors-jeu* : un élément analysable par votre sensibilité porte une **étoile autocollante de couleur dorée**.  {% fact "sticker_gold_star_means_magical_analysis" %}
+*NOTES hors-jeu* : Un élément analysable par votre sensibilité porte une **étoile autocollante de couleur dorée**.  {% fact "sticker_gold_star_means_magical_analysis" %}
 
 Cette pastille peut porter divers symboles géométriques.
 
@@ -72,20 +72,26 @@ Si l'envoûtement est de niveau "légendaire", alors il est **impossible** pour 
 {% fact "some_cursed_artefacts_are_just_unbreakable_traps" %}
 
 
-
 {#  NOT FOR NOW
 
 La réactivation des envoûtements
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 C'est un cas assez rare, mais il arrive qu'un envouteur doive réactiver la magie présente dans un lieu ou un objet, lorsque cette magie, bénéfique, a été délaiséee pendant trop longtemps.
-
 Attention, ce rituel ne fonctionne pas avec les pentacles et sceaux, qui sont des systèmes très spécifiques dédiés aux invocateurs.
-
-
 *NOTE hors-jeu: outre la pastille indiquant son type d'envoutement, un tel objet est pourvu ????*
 
 #}
+
+
+La lecture des significations d'aura magique
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Vous êtes capable de lire directement la **signification de l'aura magique** ancrée dans certains endroits puissamment enchantés ; par exemple des lieux servant à d'anciens rituels familiaux, ou des protections posées pour sceller durablement des lieux.
+
+*NOTES hors-jeu* : Ces noms sont sous forme de *codes polychromatiques*, autrement dit des nuages de lettres de toutes les couleurs, sur un écriteau blanc. Pour lire les lettres réellement pertinentes, il vous suffira de porter des **lunettes rouges** (fournies par les organisateurs avant le jeu), qui masqueront les lettres inutiles.
+
+{% hint "red_goggles_for_diakon_dispeller" is needed %}
 
 
 Vos connaissances sur les différents types de blessures

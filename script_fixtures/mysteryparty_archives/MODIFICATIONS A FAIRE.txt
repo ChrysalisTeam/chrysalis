@@ -4,15 +4,6 @@ CLUES
 ------
 
 
-{% fact "spy_minesweeper_can_light_candles" %}
-
-Les plus riches natifs de l'époque Maupertuis utilisaient souvent, pour s'éclairer, des luminis, sortes de bougies "rechargeables" grâce à des {% symbol "cartouches de vapeur de cire pressurisée" for "candle_batteries_name" %} ; ainsi, moins de coulures tachantes et inesthétiques.
-
-Vous avez pu refabriquer de telles cartouches avec l'aide de passionnés d'Histoire, et vous en avez apporté dans le domaine des Maupertuis, au cas où des luminis seraient encore en état de marche sur place.
-
-*Lorsque vous croisez des bougies rechargeables, vous pouvez les ouvrir, en détachant temporairement le scotch noir qui les maintient (si présent), y mettre une "cartouche", puis les allumer.* {% hint 'candles_without_battery' is needed %} {% hint 'candle_batteries_for_spy_minesweeper' is needed %}
-
-
 
 Kit d'observation-écoute  TRANSFERRED TO DISPELLER
 ++++++++++++++++++++++++++++++++++
@@ -20,14 +11,10 @@ Kit d'observation-écoute  TRANSFERRED TO DISPELLER
 Vous savez, d'expérience, que les vieilles familles lèguent souvent à leurs héritiers des conseils et indices sous des formes très petitement écrites ou très faiblement audibles, donc vous avez emporté **une loupe et un stéthoscope**.
 {% hint "stethoscope_and_magnifying_glass_for_explorer_runologist" is needed %}
 
-*Lorsque vous croisez des bougies rechargeables, vous pouvez les ouvrir, en détachant temporairement le scotch noir qui les maintient (si présent), y mettre une "cartouche", puis les allumer.* {% hint 'candles_without_battery' is needed %} {% hint 'candle_batteries_for_spy_minesweeper' is needed %}
-
-
 METTRE A JOUR A LA FIN
     Sensibilité au surnaturel  (done)
     Liste des talents récapitulative
 
-éboulis et non pièges
 
 
 donner chromocrypto et en rajouter
@@ -43,8 +30,6 @@ OLDIE  Mais vous expliquez aux joueurs qu'il existe un **{% symbol "grimoire tra
 ACHETER STHETOSCOPE ????
 
 
-JOUEUR doit avoir les TELECOMMANDES des lampes LED en cire ??? Mais conflit avec LUMINIS, qui sait faire cela en réalité ???
-
 
 L'arkonte doit convaincre le voleur qu'il est mort. Des lors, 
 celui ci continue à ne vouloir que de l'argent, car avec sa bourse magique, cela termmine dans le repaire de sa famille ?
@@ -56,8 +41,6 @@ Mettre prophétie inittiale comme quoi ils doivent tous, joueurs, rester soudés
 United they stand, divided they fall
 
 
-???A VERIFIER ???? {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
-
 Passer en revue les "???"
 
 
@@ -66,6 +49,14 @@ Passer en revue les "???"
 ======================= TRASH ====================
 
 
+
+
+JOUEUR doit avoir les TELECOMMANDES des lampes LED en cire ??? Mais conflit avec LUMINIS, qui sait faire cela en réalité ???  NOPE PAS TELECOMMANDE, que luminis complets
+
+{% fact "phantoms_are_persistent_but_zombies_are_transient" %}  OK
+
+
+éboulis et non pièges  DONE
 
 CHANGER DETECTION ANALYSES OBJETS  DONE
 
