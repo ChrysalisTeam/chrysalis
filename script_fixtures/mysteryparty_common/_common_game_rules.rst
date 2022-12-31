@@ -39,6 +39,8 @@ Le jeu est pensé pour se jouer en immersion complète. Pour en profiter pleinem
 
 Il est vivement encouragé d'ajouter un peu de jeu d'acteur aux différentes situations, en simulant les émotions, les travaux de force physique ou de concentration mentale, la réalisation des diverses opérations que l'on peut avoir à mener, les blessures potentiellement reçues...
 
+Si vous vous sentez à l'aise, vous pouvez aussi travailler plus profondément votre personnage, pour lui donner un caractère bien tranché, des manies, un accent, etc.
+
 
 Sécurité physique et émotionnelle
 +++++++++++++++++++++++++++++++++++++

@@ -33,12 +33,14 @@ Distinction des objets en-jeu/hors-jeu (RP/HRP)
 Compétences, objets et pièges
 +++++++++++++++++++++++++++++++++++++
 
+- Les compétences spéciales de votre personnage ne sont pas vos seuls atouts. Beaucoup d'actions nécessaires pour avancer dans le jeu sont accessibles à tous : chercher des objets et indices, discuter avec des figurants, résoudre des énigmes...
+
 - Le maître du jeu doit être **tenu informé** des compétences spéciales que vous mettez en œuvre, et y assister s'il s'agit de compétences interactives entre protagonistes (comme des serments), ou de manoeuvres qui modifient l'état des objets du jeu.
 - N'hésitez pas à prendre à part le maître de jeu durant la partie, si une règle n'est pas claire, ou pour demander si ceci ou cela est possible dans cet univers.
 
 - Les coffrets et valises qui sont posés sur le sol ou sur une table sont considérés **inamovibles**, il ne faut pas les bouger, et encore moins les secouer pour jauger ce qu'ils contiennent (risque d'objets ou mécanismes fragiles, là encore) ; les petits coffrets et boites placés dans d'autres rangements peuvent, eux, être déplacés avec précaution.
 
-- Afin de s'assurer d'une bonne répartition de l'information parmi les joueurs, et éviter de perdre des objets, il vous est demandé de **ne pas prendre les objets dont vous n'avez pas l'utilité** ; par exemple les livres, les artefacts, les potions, les clefs disposés dans les lieux. Ainsi, les autres joueurs peuvent les lire/analyser aussi, et participer à la résolution des énigmes. En revanche, lorsque vous trouvez un objet utile à vos compétences spéciales ou à la progression des quêtes, vous pouvez l'emporter, mais prenez soin de bien **informer les autres** de ce que vous possédez, et des nouvelles capacités que cela vous offre. Les richesses (pièces, diamants...) peuvent être emportées librement.
+- Afin de s'assurer d'une bonne répartition de l'information parmi les joueurs, et éviter de perdre des objets, il vous est demandé de **ne pas prendre les objets dont vous n'avez pas l'utilité immédiate** ; par exemple les livres, les artefacts, les potions, les clefs disposés dans les lieux. Ainsi, les autres joueurs peuvent les lire/analyser aussi, et participer à la résolution des énigmes (c'est un jeu avant tout **coopératif**). En revanche, lorsque vous trouvez un objet utile à vos compétences spéciales ou à la progression des quêtes, vous pouvez l'emporter, mais prenez soin de bien **informer les autres** de ce que vous possédez, et des nouvelles capacités que cela vous offre. Les richesses (pièces, diamants...) peuvent être emportées librement.
 
 - Les objets du jeu sont parfois **fragiles**, on ne les secoue pas et on ne force pas dessus, en particulier s'ils sont équipés d'un système de verrouillage. Ils nécessitent alors soit d'avoir des compétences spéciales pour les ouvrir (ex. systèmes magnétiques), soit de trouver, selon les cas :
 
