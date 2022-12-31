@@ -12,33 +12,40 @@ Depuis des décennies que vous baroudez dans les services secrets de votre patri
 Et vos péchés mignons, ce sont les pièges et les explosifs. Rien de magique, uniquement les bons vieux phénomènes physiques qui ont largement fait leurs preuves.
 
 
-Pièges physiques
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Zones de danger
++++++++++++++++++++++++++++++++++
 
-Vous êtes capable de reconnaître et désactiver les pièges à l'ancienne, mécaniques, qui pullulent dans les couloirs des vieux temples et tombeaux.
+Vous êtes capable de reconnaître et sécuriser les couloirs dangereux des vieilles batisses : murs ou planchers prêts à s'effondrer, voir pièges mécaniques posés dans les vieux temples et tombeaux.
 
-*NOTE hors-jeu : les pièges sont simulés par des fils blancs fins (et non des cordelettes) tendus en travers du chemin ; il est possible de les contourner ou même de passer au-dessus, mais buter dans un fil déclenche le piège. Votre but, lors d'une opération de déminage, est de démonter ces fils sans faire tomber au sol de grelot (ce n'est pas grave si les grelots tintent par eux-mêmes dans ce contexte). Vous devez, lors de l'opération de démonage, être supervisé par le maître de jeu, qui vous donnera votre devenir si elle échoue. Lors d'un déminage, vous pouvez toucher à tout ce qui constitue le piège (y compris les grelots), mais vous ne pouvez rien couper/casser. N'hésitez pas à en rajouter au niveau théâtral, à établir un périmètre de sécurité pour votre intervention, etc.*  {% hint "thin_white_wire_and_bells_to_represent_traps" is needed %}
+*NOTES hors-jeu* :
+
+Les dangers sont simulés par des fils blancs fins (et non des cordelettes de chanvre) tendus en travers du chemin, avec des grelots attachés ; c'est à vous d'annoncer aux autres joueurs si c'est une fragilité naturelle ou un piège artificiel, selon qu'il s'agit d'une zone normalement habitable, ou d'un sanctuaire caché. {% hint "thin_white_wire_and_bells_to_represent_traps" is needed %}
+
+Il est possible de contourner ces fils, ou même de passer au-dessus, mais buter dedans déclenche l'éboulis/piège.
+
+Votre but, lors d'une opération de sécurisation/déminage, est de démonter ces fils sans faire tomber au sol de grelot (ce n'est pas grave si les grelots tintent par eux-mêmes, dans ce contexte). Vous devez être supervisé par le maître de jeu, qui vous donnera votre devenir si l'opération échoue. Vous pouvez toucher à tout ce qui constitue le piège (y compris les grelots), mais vous ne pouvez rien couper/casser.
+
+Une fois les fils et grelots enlevés, la zone est considérée comme "structurellement renforcée" ou "déminée", selon les cas.
+
+N'hésitez pas à en rajouter au niveau théâtral, à établir un périmètre de sécurité pour votre intervention, etc.
 
 
-Explosifs
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Bâtonnets d'explosifs
+++++++++++++++++++++++++++
 
-Vous avez avec vous **2 bâtonnets d'explosif**. Chacun peut servir à déblayer un **éboulis rocheux** dans la bibliothèque. Les murs sains, le mobilier, les livres, sont encore protégés par des enchantements, et ne réagiront pas aux explosifs. {% hint "2_explosives_for_minesweeper" is needed %}
+Vous avez avec vous **2 bâtonnets de dynamite**. Chacun peut servir à déblayer un **éboulis rocheux** préexistant dans la bibliothèque ; cet éboulis est matérialisé par des cartons froissés et des étiquettes. Les murs sains, le mobilier, les livres, sont encore protégés par des enchantements, et ne réagiront pas aux explosifs. {% hint "2_explosives_for_minesweeper" is needed %}
 
 *NOTE hors-jeu : Voyez avec le maître de jeu pour utiliser cette compétence, et simuler la "mise à l'abri de tous" pendant le compte à rebours.*
 
 
-Rechargement des luminis
+Réserve de luminis
 +++++++++++++++++++++++++++++
 
-{% fact "spy_minesweeper_can_light_candles" %}
+Vous avez emporté avec vous un sac de "luminis", des petites éclairages autonomes luisants.
 
-Les plus riches natifs de l'époque Maupertuis utilisaient souvent, pour s'éclairer, des luminis, sortes de bougies "rechargeables" grâce à des {% symbol "cartouches de vapeur de cire pressurisée" for "candle_batteries_name" %} ; ainsi, moins de coulures tachantes et inesthétiques.
+Ils peuvent éclairer (faiblement) une zone de la bibliothèque. Mais ils peuvent aussi vous servir à baliser les chemins sûrs, à mettre en évidence des points d'intérêt ou de dangers, ou à tout autre usage - à votre convenance.
 
-Vous avez pu refabriquer de telles cartouches avec l'aide de passionnés d'Histoire, et vous en avez apporté dans le domaine des Maupertuis, au cas où des luminis seraient encore en état de marche sur place.
-
-*Lorsque vous croisez des bougies rechargeables, vous pouvez les ouvrir, en détachant temporairement le scotch noir qui les maintient (si présent), y mettre une "cartouche", puis les allumer.* {% hint 'candles_without_battery' is needed %} {% hint 'candle_batteries_for_spy_minesweeper' is needed %}
-
+*NOTE hors-jeu : Ces bougies LED doivent vous être fournies avant le jeu par les organisateurs*
 
 
 Connaissance des mécaniques et des automates
