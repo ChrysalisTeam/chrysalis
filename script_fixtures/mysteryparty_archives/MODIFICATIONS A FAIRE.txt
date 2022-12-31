@@ -4,14 +4,7 @@ CLUES
 ------
 
 
-METTRE A JOUR A LA FIN
-    Sensibilité au surnaturel  (done)
-    Liste des talents récapitulative
-
-
-
 donner chromocrypto et en rajouter ++ DANS ASSETSS
-
 
 CHANGER detection des recettes supplémentaires, à decrire dans assets checklist :
 
@@ -21,10 +14,6 @@ OLDIE  Mais vous expliquez aux joueurs qu'il existe un **{% symbol "grimoire tra
 
 
 ACHETER STHETOSCOPE ????
-
-
-L'arkonte doit convaincre le voleur qu'il est mort. Des lors, 
-celui ci continue à ne vouloir que de l'argent, car avec sa bourse magique, cela termmine dans le repaire de sa famille ?
 
 
 Revoir discours introductif pour encourager COOPERATION entre joueurs
@@ -42,6 +31,14 @@ Passer en revue les "???"
 
 
 
+DONE : L'arkonte doit convaincre le voleur qu'il est mort. Des lors,
+celui ci continue à ne vouloir que de l'argent, car avec sa bourse magique, cela termmine dans le repaire de sa famille ?
+
+
+
+METTRE A JOUR A LA FIN
+    Sensibilité au surnaturel  (done)
+    Liste des talents récapitulative  (done)
 
 JOUEUR doit avoir les TELECOMMANDES des lampes LED en cire ??? Mais conflit avec LUMINIS, qui sait faire cela en réalité ???  NOPE PAS TELECOMMANDE, que luminis complets
 

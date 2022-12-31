@@ -15,13 +15,15 @@ Votre profil
 Informations et instructions spécifiques
 ========================================
 
+{% fact "arkon_uselessly_discusses_with_thief_phantom" %}
+
 Etant en mauvaise posture dans votre quête du trésor, vous avez décidé de monnayer cher vos informations aux autres explorateurs de cette bibliothèque, quitte à ce qu'ils trouvent le trésor avant vous.
 
-Vous savez ne plus réussir à prendre en main des richesses, mais pour éviter d'être cambriolé pendant vos "absences", vous exigez que les paiements soient faits dans votre **{% symbol 'pochette sans fond' for 'thief_moneybox_name' %}**, une sorte de tirelire magique, qu'ils doivent d'abord retrouver pour vous. {% hint "thief_moneybox" is needed %}
+Vous savez ne plus pouvoir prendre en main des richesses, mais pour continuer à alimenter sans danger votre immense Trésor (situé fort loin), vous exigez que les paiements soient faits dans votre **{% symbol 'pochette sans fond' for 'thief_moneybox_name' %}**, une sorte de tirelire magique, que les joueurs doivent d'abord retrouver pour vous. {% hint "thief_moneybox" is needed %}
 
-Important : vous devez **vider** dans un sac hors-jeu (ou discrètement dans vos poches) cette pochette, chaque fois que vous allez repasser en spectre, pour que l'argent soit bien sorti du jeu.
+Important : vous devez **vider** dans un sac hors-jeu (ou dans vos poches) cette pochette, chaque fois que vous allez repasser en spectre, pour que l'argent dépensé soit bien sorti du jeu.
 
-Si les joueurs vous libèrent suite à vos demandes, vous errez en essayant en vain d'attraper des richesses du lieu, et vous commencez à devenir menaçant pour les joueurs et avatars, en les sommant de vous libérer aussi de cette étrange malédiction qui vous rend le monde impalpable. Il est probable que les diacres vous ancreront alors rapidement à un endroit. Sinon, en pire cas, vous pouvez aller jusqu'à l'agression et le meurtre d'un des joueurs. {% fact "diakons_can_all_anchor_phantoms" %}
+Si les joueurs vous libèrent suite à vos demandes, avant que vous n'ayez réalisé être mort, vous errez en essayant en vain d'attraper des richesses du lieu ; vous commencez à devenir menaçant pour les joueurs et avatars, en les sommant de vous libérer aussi de cette étrange malédiction qui vous rend le monde impalpable (l'arkonte est censé s'interposer). Il est probable que les diacres vous ancreront alors rapidement à un endroit. Sinon, en pire cas, vous pouvez aller jusqu'à l'agression et le meurtre d'un des joueurs. {% fact "diakons_can_all_anchor_phantoms" %}
 
 
 **Informations à revendre**
@@ -40,7 +42,7 @@ Estimation des monnaies et gemmes
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous connaissez bien la valeur des pièces et pierreries, ainsi que les meilleurs endroits pour les écouler à **meilleur prix**.
-Bien entendu, lorsque vous négociez, vous sous-estimez systématiquement de **20%** les richesses que l'on vous apporte, et escroquez ainsi ceux qui ne s'y connaissent pas. Mais face à un expert en estimation de biens, vous vous inclinez.
+Bien entendu, lorsque vous négociez, vous sous-estimez systématiquement de **30%** les richesses que l'on vous apporte, et escroquez ainsi ceux qui ne s'y connaissent pas. Mais face à un expert en estimation de biens, vous vous inclinez.
 
 <{ treasures_value_summary }/>
 

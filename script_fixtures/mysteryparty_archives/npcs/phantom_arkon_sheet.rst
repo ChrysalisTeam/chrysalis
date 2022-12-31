@@ -71,3 +71,4 @@ Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votr
 
 Si l'exorciste tente de **briser les corridors outre-monde** alors que des avatars sont encore présents dans la bibliothèque, vous vous demandez ouvertement si cela ne va pas les mettre en grave danger. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
+Vous demandez aux diacres de ne pas libérer le fantôme du voleur de son ancrage, et vous protégez de votre corps les diverses personnes, si ce fantôme se montre agressif. Vous tentez de lui expliquer qu'il est mort, que son avidité pour les trésors n'a plus aucun sens, qu'il ferait mieux de vous révéler tout ce qu'il sait *(mais en vain)*. {% fact "arkon_uselessly_discusses_with_thief_phantom" %}

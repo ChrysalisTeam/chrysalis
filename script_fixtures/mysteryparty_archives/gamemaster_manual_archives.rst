@@ -383,11 +383,13 @@ Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 
 - FANTÔME
 
-- Traits : convoitise, roublardise, bagout, incrédulité, défiance, alcoolisme
+- Traits : convoitise, roublardise, bagout, incrédulité, défiance, alcoolisme, vanité
 
 - Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets, et en particulier le légendaire trésor des Maupertuis. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille), mais s’est fait tuer par surprise par la Bête (qui était toujours vivante à ce moment-là) gardant les lieux.
 
-- Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste **piégé** dans son (petit) périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, même suite aux visites de l’Ankou, il déclare “c’est juste votre opinion”.
+- Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste **piégé** dans son (petit) périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, il est dubitatif.
+
+- Suite aux harangues de l'arkonte, ou aux visites de l’Ankou, il peut finir par réaliser qu'il est mort. Mais cela ne change rien : il exulte que personne ici n'ait entendu parler du "Trésor de {% symbol "Fédore Pass’muraille" for "thief_name" %}", et se glorifie donc de continuer à alimenter cet amoncellement de richesse, même une fois mort, via sa magique {% symbol 'pochette sans fond' for 'thief_moneybox_name' %}.
 
 - Il monnaie chèrement ses informations “pratiques” sur les lieux aux joueurs, contre de l’or et des pierreries.
 
