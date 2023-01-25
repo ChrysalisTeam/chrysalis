@@ -5,24 +5,21 @@ TODO RESTANT MURDER PARTY (PRINTED NOW)
 
 /!\ IMMEDIATELY QUICK
 - recharger Venture Prins sur place et checker les IBEACON
-- Retrouver broches et papiers/romans/étiquettes manqants
+- Retrouver broches et papiers/romans/étiquettes manquants
 - ENLEVER l'étiquette "Fabre" de la valise
 - Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
 - Annuler le stéthoscope, mettre la boite à murmures en évidence plutot...
 - LIVRES JUMEAUX : détecteurs de magnétisme, et d'UV AUSSI, donnent le code à 3 chiffres
 
 LAST MINUTE PREPARATIONS :
-    Donner lanterne cassée aux SPIES qui peuvent recharger luminis
+    Donner lanterne cassée aux SPIES qui peuvent recharger luminis NOPE??
 
-IMPORTANT pour spy-lockpicker : Déverrouilleur magnétique n'est pas concerné par logos "aimant"
+IMPORTANT pour spy-lockpicker : Déverrouilleur magnétique n'est pas concerné par logos "aimant"   DONE
 IMPORTANT pour spy-sounder : "Détecteur de magnétisme : Si les inscriptions sont un code à trois lettres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification"
 IMPORTANT pour parcival-oracle : dire "avoir confiance dans ses prophéties, et dans l'allié que le destin vous enverra"
 IMPORTANT pour DIACRES : bien clamer les formules rituelles, que tout le monde entende bien !
 
-* Au niveau objets perdus, il nous manquait aux dernières nouvelles :
-- un livret fin "Hachette Géographie" ancien, verdâtre, avec une grosse puce blanchededans
-- un énorme grimoire verdâtre avec une tablette tactile dedans
-- des grosses bougies
+
 
 
 URLS IMPORTANTES
@@ -35,33 +32,31 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 
 
-
-
 ******** LATER *******************
 - Lettres UTILES : À  É
 - FORCER COOPERATION et présentation des gens dès le début (briefing)
-- donner plsu de jeu à désenvouteurs, énigmes à cardinaux
+- donner plus de jeu à désenvouteurs, énigmes à cardinaux
 - Faire oracle MULTIPARTITE orchestré par la duchesse
 - AJOUTER SOUVENIRS ET ANEDCOTES A OCTAVE
 - Enigme avec disques gramophone ?
 - harmoniser le mot "connaît" et "envoutement"  (LATER)
-- Rupture de corridor outre-monde  <--- metter tag {% SYMBOL %}
-- mettre QUELQUES POTIONS que alchimiste doit vouloir plus tard, dans la sacoche perdue de l'exorciste
+- Rupture de corridor outre-monde  <--- mettre tag {% SYMBOL %}
+- mettre QUELQUES POTIONS que alchimiste AUSSI doit vouloir plus tard, dans la sacoche perdue de l'exorciste
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 - TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
 - UTILISER {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL bof
 - Mettre message secret sur la goule :?
 - Ajouter que les FANTOMES ont tous déjà vu l'ankou précédemment ????
 - NOPE ABORTED Plan de l'étage autorisé et interdit : à changer
-- ECRIER AU PROPER l'epilogue
-   > L'ankou doit dire "n'oublies tu pas quelque chose", l'arkonte aussi, à Octave lors de l'épilogue s'il oublie
+- ECRIER AU PROPRE l'epilogue
+   > L'ankou doit dire "n'oublies tu pas quelque chose", l'arkonte aussi, à Octave lors de l'épilogue s'il oublie son discours
 - Changer scénario : le poison de la zone n'est pas due à la lutte du voleur mais est INNEE -> changer toxic_corridor_is_due_to_spilled_potion  DONE
 - Parler à Octave de son livre d'animaux favori (pour énigme du chat-lu-mots)
 - Dire réaction de l'arkonte ou l'ankou devant autres gens ?
 - Dire automate : quid si on les envoie dans un piege ?
 - Dire explicitement aux joueurs que les romans sont non-soulevables par avatars !!!!!!!!!!
 - Rajouter quête où sacrifice est nécessaire pour atteindre inscriptions dans endroit piégé ? BOF déjà sacrifice de zarthoustra
-- Rajouter pelle pour creuser terre de la jungle, ou explosifs ;
+- Rajouter pelle pour creuser terre de la jungle, ou explosifs ?
 - BRIEFER druide sur reglementation anti creusage
 - AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
 - Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout
@@ -72,18 +67,18 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - DONNER GRIMOIRES à lire au druide à la fin
 - Inventeur : LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
 - PREVOIR PILES En rhab CR20xx pour télécommandes ??????? bof nan ya plein de telecommandes en trop......
-- acheter guètres / surchaussures et gants blancs
+- acheter guètres / surchaussures et gants blancs, et rubans blancs pour automates
 - Mettre code magnétique ou analyse physique pour le corridor toxique ?
 - Statuer sur nom des portails de transplanage/planétaire/magique qui mènent à la surface ("Symbol" needed)
 - Trouver pochette du voleur sans fond !!  (CHAPEAU ???)
 - Cet ouvrage est protégé par un code qui change tous les quelques jours. {# TODO TELL THAT TO FANTOMS #}
-- Simplifier codes d'evoutement, ne pas avoir "level" pour les positifs !
-- Lockpicker : TODO DIRE QUE LES LOGOS MAGNETIQUES NE SONT PAS POUR LUI
+- Simplifier codes d'evoutement, ne pas avoir "level" pour les positifs ! WHATEVER
+- Lockpicker : TODO DIRE QUE LES LOGOS MAGNETIQUES NE SONT PAS POUR LUI  done
 - SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
-- Supprimer explorer_unveiler_uv_lamp_initially_broken car conflit avec rechargement des luminis ???
+- Supprimer explorer_unveiler_uv_lamp_initially_broken car conflit avec rechargement des luminis ??? done
 - Mettre prophétie sur bataille finale avec 4 colliers
 - ERRATUM -> pour le code JSB, c'était un code d'analyse PHYSIQUE, je me suis planté de couleur de pastille (comme je m'étais planté de type d'étoile sur l'armure du diacre)
-- Ne pas dire "AMI OU ENNEMI", faire un sermen tde zarathoustra initial
+- Ne pas dire "AMI OU ENNEMI", faire un serment de zarathoustra initial
 - Ce qu'il faut en tout:
 
     - ANALYSES D'OBJETS avec code
@@ -108,15 +103,14 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 
 
-
-
-
-
-
-
 TRASH
 ########################################
 
+
+* Au niveau objets perdus, il nous manquait aux dernières nouvelles :  DONE
+- un livret fin "Hachette Géographie" ancien, verdâtre, avec une grosse puce blanchededans
+- un énorme grimoire verdâtre avec une tablette tactile dedans
+- des grosses bougies
 
 - Une carte mémoire micro-SD (probablement tombée par terre)  NOPE fausse alerte
 

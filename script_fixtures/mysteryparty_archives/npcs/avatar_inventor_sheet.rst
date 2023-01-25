@@ -49,7 +49,7 @@ Naturellement, vous savez **réparer** moult choses, par exemple un détecteur d
 {#
  IL A UNE CLEF MAGNETIQUE AUSSI, pour cas de DOUBLE SERRURE !!! NOPE jamais vraiment nécessaire...
 
- peut créer ou réparer talkie-walkie ??? NOPE
+ peut créer ou réparer talkie-walkie ? NOPE
 #}
 
 

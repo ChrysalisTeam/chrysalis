@@ -79,7 +79,7 @@ La réactivation des envoûtements
 
 C'est un cas assez rare, mais il arrive qu'un envouteur doive réactiver la magie présente dans un lieu ou un objet, lorsque cette magie, bénéfique, a été délaiséee pendant trop longtemps.
 Attention, ce rituel ne fonctionne pas avec les pentacles et sceaux, qui sont des systèmes très spécifiques dédiés aux invocateurs.
-*NOTE hors-jeu: outre la pastille indiquant son type d'envoutement, un tel objet est pourvu ????*
+*NOTE hors-jeu: outre la pastille indiquant son type d'envoutement, un tel objet est pourvu... ?*
 
 #}
 

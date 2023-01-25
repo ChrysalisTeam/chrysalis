@@ -259,7 +259,7 @@ Les diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
 
 Ces 3 moines officient pour le culte du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des âmes errantes (les fantômes). Ils s’y rendent donc pour résoudre les problèmes, et protéger l’ordre des choses.
 
-{# **Ils ont aussi ordre de détruire magiquement les 3 livres “maléfiques” que contient le domaine interdit des Maupertuis, de peur qu’ils ne tombent en de mauvaises mains (la bibliothèque ne peut pas juste être brûlée). ????????** NOPE #}
+{# **Ils ont aussi ordre de détruire magiquement les 3 livres “maléfiques” que contient le domaine interdit des Maupertuis, de peur qu’ils ne tombent en de mauvaises mains (la bibliothèque ne peut pas juste être brûlée). ??** NOPE #}
 
 Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 
@@ -461,7 +461,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 - Il peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "druid_can_well_heal_limited_injuries" %}
 
-{# NOPE - **S’y connait en NECROMANCIE ?????** #}
+{# NOPE - **S’y connait en NECROMANCIE??** #}
 
 {% endmacro %}
 <{ avatar_druid_character_summary }/>
@@ -782,9 +782,9 @@ Un sceau est visible devant les escaliers menant à l'étage interdit. Lorsqu'il
 
 - Le symbole de la famille est en **message UV** dans un livret “Généalogie des Maupertuis”, {% hint "genealogy_book_with_uv_family_symbol" is needed %} qui est dans la mallette administrative de la famille. {% hint "family_briefcase_protected_by_code" is needed %}
   Cette mallette est protégée par le code {% symbol "625-993" for "family_briefcase_code" %}, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}". {% hint "family_briefcase_code_spoken_by_venture_prins_fake_book" is needed %}
-  Octave connait juste ce nom étrange, qui lui avait été laissé par ses parents “au cas où quelque chose arrivait”. {% fact "octave_knows_about_murmuring_venture_prins_book" %}
+  Octave et l'archiviste connaissent ce livre factice, et ont même fouillé en vain la mallette administrative par le passé. {% fact "octave_and_archivist_knows_about_murmuring_venture_prins_book" %} {% fact "octave_and_archivist_have_searched_family_briefcase" %}
 
-- ???ACHANGER??? L’archiviste sait avoir vu passer ce nom dans les livres qu’il a inventoriés ; il indique le rayon concerné aux joueurs qui le demandent, et ceux-ci y trouvent le livre factice. {% fact "archivist_knows_venture_prins_location" %}
+- L’archiviste se souvient où il a mis le livre factice ; il indique le rayon concerné aux joueurs qui le demandent, et le livre s'y trouve bien. {% fact "archivist_knows_venture_prins_location" %}
    Il peut falloir un stéthoscope, ou à défaut l'aide d'un automate, pour entendre le code diffusé dans le bois du livre, et ainsi ouvrir la mallette des Maupertuis.  {# FIXME FALSE TOO EASY NOW #}
 
 - Le code peut aussi être demandé aux parents défunts, plus tard, via l’Ankou, en pire cas.
@@ -1251,7 +1251,7 @@ Les automates ignorent, étrangement, le son de cette sonnette.
 
 Si quelqu'un appuie sur la clochette pour la première fois, le MJ doit déclencher la bande-son angoissante de la **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**. les fantômes se mettent alors sous-forme non-incarnée, et se ruent vers le son de clochette. Une fois près d'elle, ils errent de gauche et de droite, non loin, éperdus, jusqu'à la fin de la bande-son, puis reviennent à ce qu'ils faisaient avant. {% fact "table_bell_triggers_spectral_frenzy" %}
 
-Par la suite la clochette est censée être **déchargée** de sa magie, les avatars et fantômes peuvent le sentir et le disent aux joueurs s'ils appuient encore sur la clochette. {% fact "table_bell_is_only_usable_once" %}
+Par la suite, la clochette est censée être **temporairement déchargée** de sa magie, les avatars et fantômes peuvent le sentir et le disent aux joueurs s'ils appuient encore sur la clochette. *Mettre un scotch noir dessus pour matérialiser cela.* {% fact "table_bell_is_only_usable_once" %}
 
 *Spoiler : Il s'agit en réalité juste d'un signal de rappel oublié par l'Ankou lors d'un précédent passage, mais seul l'Ankou le sait.* {% fact "table_bell_belongs_to_ankou" %}
 
