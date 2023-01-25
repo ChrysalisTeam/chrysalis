@@ -5,3 +5,4 @@ git+https://github.com/pakal/jinja-macro-tags
 docx2txt
 rst2pdf==0.97
 reportlab==3.5.44
+markupsafe==2.0.1

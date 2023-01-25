@@ -11,9 +11,10 @@ Votre histoire
 Autrefois protecteur du domain interdit, vous vous êtes retrouvé définitivement enfermé dedans lorsque la malédiction a été jetée dessus, il y a des siècles de cela. Même une fois mort de vieillesse, impossible ni de rejoindre le pays des morts, ni de passer dans la zone normale de la bibliothèque. Vous avez donc erré, dans une rancoeur croissante. Lorsque le passage vers les escaliers s'ouvre enfin, naturellement, vous vous y engagez avec rage, mais en phase incarnée (consciente) de votre statut de fantôme. {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %}
 
 
-**Instructions pour la rencontre avec les autres personnages :**
+Instructions pour l'attaque
+==============================
 
-- Echanger avec le maître de jeu, avant la rencontre, pour récapituler les contre-mesures dont les joueurs disposent déjà.
+- Échanger avec le maître de jeu, avant la rencontre, pour récapituler les contre-mesures dont les joueurs disposent déjà.
 - Vous ne pouvez bien sûr pas voir les avatars, ni réciproquement.
 - Vous vous comportez comme un chien un peu effrayé avec les autres fantômes, en jappant à leur encontre mais sans les approcher. {% fact "beast_ignores_or_fears_other_phantoms" %}
 - Si l'occasion se présente, vous pouvez décider de descendre par l'escalier où les joueurs ne vous attendent pas, pour les prendre à revers.

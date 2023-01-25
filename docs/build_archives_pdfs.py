@@ -37,8 +37,6 @@ if not os.path.exists(DOCUMENTS_OUTPUT_DIR):
 
 jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True)
 
-EXCLUDED_CHARACTERS = []  # mystery-party has no sheet for these characters, for now
-
 _asset_path = lambda x: os.path.join(DOCUMENTS_OUTPUT_DIR, x)
 
 
@@ -191,6 +189,7 @@ ISOLATED_DOCS = {
     "npc_phantom_thief_sheet": ("npcs/phantom_thief_sheet.rst", "phantom_thief"),
     "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
     "npc_phantom_magus_sheet": ("npcs/phantom_magus_sheet.rst", "phantom_magus"),
+    "npc_automaton_sentinel_sheet.rst": ("npcs/automaton_sentinel_sheet.rst", "automaton_sentinel"),
 
     # SPECIFIC INSTRUCTIONS
     "planning_details_for_game": ("miscellaneous/planning_details_for_game.rst", "anyone"),
@@ -419,7 +418,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if True:
+    if False:
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,

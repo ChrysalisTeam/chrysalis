@@ -69,7 +69,7 @@ Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_
 - que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
 - que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tigers_eye" %}
 
-Si les soupçons de trahison se sont éloignés de l'arkonte (devenu crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter le soupçon sur le tombeau du Mage, ou mieux encore sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_inventor" %}
+Si les soupçons initiaux de meurtre se sont éloignés de l'arkonte (devenu crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter le doute sur le tombeau du Mage, ou sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_inventor" %}
 
 
 Le complot anti-arkonte
@@ -80,6 +80,16 @@ Lorsque des joueurs se mettent à suivre les conseils du fantôme de l'arkonte, 
 Bien entendu, personne ne doit vous voir poser cette sacoche ; non seulement elle laissera entendre que l'arkonte a pénétré de son vivant dans le domaine interdit, mais aussi qu'il a volontairement tué les réfugiés Maupertuis pour ensuite les emprisonner maléfiquement dans la bibliothèque.
 {% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
 {% fact "sickle_and_holly_emblems_are_banned_in_reality" %}
+
+
+La tentative d'assassinat des prophètes
+=============================================
+
+Lorsque la Duchesse et l'Oracle commencent à enchainer des prophéties qui vous désignent subtilement, vous décidez de les éliminer.
+Vous corrompez donc l'automate de garde de la bibliothèqye
+
+{% fact "druid_turns_automaton_sentinel_into_prophet_killer" %}
+
 
 
 La bataille finale

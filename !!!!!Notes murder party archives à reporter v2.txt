@@ -601,7 +601,7 @@ Il prenait juste soin de ne pas manipuler les grimoires aux allures louches.
 
 
 
-faut utiliser le bon rituel de stase pour “geler” la bête jusqu’à ce que la malédiction soit annulée, ce qui nécessite que la bête reste un petit moment à l’intérieur d’une zone.
+faut utiliser le bon rituel de Stase pour “geler” la bête jusqu’à ce que la malédiction soit annulée, ce qui nécessite que la bête reste un petit moment à l’intérieur d’une zone.
 TODO COMMENT CA FONCTIONNE ?
 Typiquement, les joueurs devront donc faire lutter l’un des leurs avec la bête jusqu’à ce que le rituel soit achevé. Ou alors la “tuer” avec la balle magique et immédiatement geler sa dépouille fantomatique avec le rituel.
 

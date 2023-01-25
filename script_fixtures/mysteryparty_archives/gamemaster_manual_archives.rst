@@ -163,13 +163,18 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 Le monde des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+*Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde-là pour un surcroît d'ambiance et une bonne liberté d'action.*
+
 Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% fact "inventor_has_built_androids" %}
 
-Ces robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous. Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas les attaques sacrées ; cependant rien n'est censé leur arriver durant le jeu, sauf initiatives des joueurs.
+Ces robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous.
 
 Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
-Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde-là pour un surcroît d'ambiance et une bonne liberté d'action.
+Ils sont globalement lents et rigides dans leurs mouvements. Mais ils disposent d'une **immmense force physique**, et peuvent donc déplacer des objets de type ULTRA-LOURD à la demande. En cas d'empoignade, ils gagneraient facilement contre un humain.
+
+Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas aux attaques sacrées.
+Plus précisément, ils craignent les explosifs et les coups d'épée, mais peu les projectiles (balles ou flèches).
 
 Rôles typiques possibles (un automate peut en changer en cours de partie) :
 
@@ -201,6 +206,8 @@ Ils peuvent boguer par moment, jusqu'à ce que l'avatar inventeur ou un joueur n
 
 - Ils bégaient, butent contre les murs et obstacles, se coincent les bras les uns dans les autres, ou bougent bizarrement sur place façon "engrenage défectueux"...
 - Ils peuvent se retrouver dans une impasse logique, en voulant constamment céder la priorité à un autre automate : "Mais non... Après vous... Je n'en ferais rien...".
+
+Rôle spécial : l'automate de garde, armé, qui patrouille dans la bibliothèque pour la protéger contre de possibles assaillants (voir sa fiche de figurant, et ses interventions programmées).
 
 
 Le monde divin
@@ -688,25 +695,35 @@ L'Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils
 La folie de l'automate de garde
 +++++++++++++++++++++++++++++++++++
 
-Dès le début de l'aventure, un des automates patrouille avec un fusil Nerf, et interpelle les joueurs. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde en ignorant les joueurs ainsi "contrôlés".
+{% macro automaton_sentinel_instructions() %}
 
-Plus tard, peu après l'ouverture du Domaine Interdit le druide se sent menacé par les différentes prophéties qui le désignent peu à peu. Il prend donc le contrôle de l'automate de garde, par des champignons/lianes s'infiltrant dans le système central de ladite machine, et l'envoie pour assassiner (par balle) deux personnes :
+{% fact "druid_turns_automaton_sentinel_into_prophet_killer" %}
+
+Dès le début de l'aventure, cet automate patrouille bien "mécaniquement" avec un fusil Nerf, et interpelle les joueurs qu'il croise. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde, en ignorant désormais les joueurs ainsi contrôlés.
+
+Plus tard, peu après l'ouverture du Domaine Interdit le druide se sent menacé par les différentes prophéties qui le désignent peu à peu. Il prend donc le contrôle de l'automate de garde, par des champignons/lianes s'infiltrant dans le système central de ladite machine (cela est matérialisé en jeu, par exemple, par de faux végétaux autour de son cou ou derrière son masque).
+
+Le druide envoie l'automate de garde pour assassiner (par une balle dans le torse) deux personnes :
 
 - La joueuse Oracle, qui reçoit les visions
 - La figurante Duchesse, qui l'aide à cela
 
-L'automate cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus, car le druide compte sur eux pour supprimer la malédiction de la bibliothèque.
+L'automate cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus ; car le druide compte sur eux pour supprimer la malédiction de la bibliothèque. Il se montre particulièrement prudent envers les précieux diacres.
 
 Face à cet automate :
 
 - Tous les protagonistes sont vulnérables
-- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte
-- Ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur qui sera fatal
+- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkont ; ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal
 - Aller à l'empoignade est proscrit par sécurité, mais serait de toute façon suicidaire étant donnée la force physique des automates
-- Les diacres peuvent utiliser un sortilège de stase pour emprisonner l'automate (mais en état invulnérable) temporairement
+- Les diacres peuvent utiliser un sortilège de Stase pour emprisonner l'automate (mais en état invulnérable) temporairement
 - Les meilleures armes sont le glaive ultra-lourd de l'arkonte, et les explosifs
 
-Une fois que l'automate tueur a été neutralisé, ou (en pire cas) n'a plus de balles et s'autodétruit, les joueurs peuvent récolter dessus les indices de son étrange contamination
+Une fois que l'automate tueur a été neutralisé, ou (en pire cas) n'a plus de balles et s'autodétruit, les joueurs peuvent récolter dessus les indices de son étrange contamination.
+
+{% endmacro %}
+<{ automaton_sentinel_instructions }/>
+
+{% hint "vegetables_around_head_of_automaton_hitman" is needed %}
 
 
 L'exploration du tombeau du mage fondateur
