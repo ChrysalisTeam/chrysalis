@@ -685,13 +685,28 @@ L'Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils
 *Les joueurs peuvent par la suite envoyer des questions à l'Ankou à l'adresse des défunts Maupertuis, mais attention, ceux-ci ne se souviennent pas de tout non plus.* {% fact "diakon_invoker_can_message_ankou" %}
 
 
-La malédiction des automates
-+++++++++++++++++++++++++++++++++++++++++++
+La folie de l'automate de garde
++++++++++++++++++++++++++++++++++++
 
-Lorsque, bien plus tard, les joueurs arrivent à accéder au {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de déclencher une bande-son intense lors de la première ouverture de ce grimoire maudit.
+Dès le début de l'aventure, un des automates patrouille avec un fusil Nerf, et interpelle les joueurs. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde en ignorant les joueurs ainsi "contrôlés".
 
-Les automates de service deviennent alors possédés, et claudiquent vers les joueurs, en battant des bras, et en ressassant "Mort aux hérétiques !".
-les joueurs doivent alors les éviter jusqu'à la fin de la bande-son ; à ce moment-là, les automates redeviennent normaux, et reprennent leurs tâches habituelles.
+Plus tard, peu après l'ouverture du Domaine Interdit le druide se sent menacé par les différentes prophéties qui le désignent peu à peu. Il prend donc le contrôle de l'automate de garde, par des champignons/lianes s'infiltrant dans le système central de ladite machine, et l'envoie pour assassiner (par balle) deux personnes :
+
+- La joueuse Oracle, qui reçoit les visions
+- La figurante Duchesse, qui l'aide à cela
+
+L'automate cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus, car le druide compte sur eux pour supprimer la malédiction de la bibliothèque.
+
+Face à cet automate :
+
+- Tous les protagonistes sont vulnérables
+- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte
+- Ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur qui sera fatal
+- Aller à l'empoignade est proscrit par sécurité, mais serait de toute façon suicidaire étant donnée la force physique des automates
+- Les diacres peuvent utiliser un sortilège de stase pour emprisonner l'automate (mais en état invulnérable) temporairement
+- Les meilleures armes sont le glaive ultra-lourd de l'arkonte, et les explosifs
+
+Une fois que l'automate tueur a été neutralisé, ou (en pire cas) n'a plus de balles et s'autodétruit, les joueurs peuvent récolter dessus les indices de son étrange contamination
 
 
 L'exploration du tombeau du mage fondateur

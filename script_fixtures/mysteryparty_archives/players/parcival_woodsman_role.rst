@@ -19,9 +19,12 @@ Mini-arbalète
 
 Vous ne vous séparez jamais de votre chère arme de poing, qui vous a déjà sauvé la mise plus d'une fois lorsque la nuit tombait dans les bois.
 
-Ses flèchettes sont en solide {% symbol "Iridium" for "parcival_woodsman_bullets_metal" %}, mais n'ont pas reçu d'enchantements leur permettant de percer des défenses magiques, ou de blesser des entités du monde des morts ; heureusement pour vous, le cas ne s'est jamais présenté.
+Ses flèchettes sont en solide {% symbol "Iridium" for "parcival_woodsman_bullets_metal" %}, efficace même contre des carapaces ou armures épaisses. Mais elles n'ont pas reçu d'enchantements leur permettant de percer des défenses magiques, ou de blesser des entités du monde des morts ; heureusement pour vous, le cas ne s'est jamais présenté. Contre les machines, ces fléchettes précises sont très peu efficaces, des explosifs seraient davantage appropriés.
+{% fact "parcival_woodsman_bullets_only_work_against_living_creatures" %}
 
 A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres les semaines précédentes, il ne vous reste **qu'une seule munition** dans votre arme. {% hint "single_bullet_left_for_woodsman" is needed %} {% hint "other_iridium_bullet_for_woodsman" is needed %}
+
+*NOTE hors-jeu : Une fléchette qui a raté sa cible peut être récupérée et réutilisée ; mais si elle a touché sa cible, elle est réputée trop abîmée par l'impact pour servir encore.* {% fact "parcival_woodsman_bullets_can_only_succeed_once" %}
 
 
 Stratège Défenseur
