@@ -1064,28 +1064,35 @@ Dans l’issue optimale du jeu, la malédiction de la bibliothèque est automati
 #}
 
 
-Le vortex abyssal (piége)
-++++++++++++++++++++++++++++++++++++++++
+L'orbe spirituel, le vortex abyssal (piége) et le puits de savoir (don)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Dans le domaine interdit, les joueurs peuvent trouver un plateau avec 4 emplacements dessinés.
+Dans le domaine interdit, les joueurs peuvent trouver un plateau avec une boule à plasma éteinte au centre, désignée comme **l'orbe spirituel** ; 4 emplacements sont dessinés autour de lui.
 
 Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine epoxy :
 
-- un cristal romantique (rose dans une pyramide à base carré)
-- un cristal marin (coquillage dans une pyramide à base triangulaire)
-- un cristal piquant (chardon dans un cube)
-- un cristal innocent (fleurs blanches dans un diamant)
-
-Il est indiqué, par un texte codé en couleur, par un blason que l'anthropologue connait, et par un extrait du Thanatologue, que ce rituel ouvre le "vortex abyssal", qui est en réalité un passage vers un univers rempli de féroces monstres. {% hint 'abyssal_vortex_coded_tray' is needed %} {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
-
-Les fantômes ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact. {% fact "arkon_is_worried_about_abyssal_vortex" %}
-
-Si les joueurs posent les 4 cristaux sur le plateau, le passage est ouvert et les dragons commencent à se répandre sur Terre, mais à la surface ; les joueurs ne l'apprendront qu'à la fin du jeu.
-
+- un cristal romantique (une rose dans une pyramide à base carré)
+- un cristal marin (un coquillage dans une pyramide à base triangulaire)
+- un cristal piquant (un chardon dans un cube)
+- un cristal innocent (des fleurs blanches dans un diamant)
 {% hint 'abyssal_vortex_key_4_face_pyramid' is needed %}
 {% hint 'abyssal_vortex_key_3_face_pyramid' is needed %}
 {% hint 'abyssal_vortex_key_cube_is_needed' is needed %}
 {% hint 'abyssal_vortex_key_diamond_is_needed' is needed %}
+
+Il est indiqué, par un écriteau codé en couleur, par un blason que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% hint 'abyssal_vortex_coded_tray' is needed %} {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
+Les fantômes ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. Les avatars sont plutôt tentés par l'expérience. {% fact "arkon_is_worried_about_abyssal_vortex" %} {% fact "avatars_are_enthusiastic_regarding_spiritual_orb" %}
+
+il s'agit en réalité d'un canal de communication vers un univers démoniaque. Une fois ce canal ouvert (donc une fois la boule à plasma allumée), les joueurs qui posent le doigt dessus sont contaminés par des influences toxiques. En fonction de leur personnage, ils vont avoir des gages montrant que leur santé mentale a pris un coup, avec toujours beaucoup d'agitation, de paroles incohérentes.
+
+Exemples de gages :
+- l'oracle se met à  faire des prédiction abracadabrantes
+- l'alchimiste boit une de ses potions (non létale)
+- d'autres se mettent à utiliser en vain leur détecteur de métaux, leur lampe UV, sans but...
+
+Cet orbe peut en réalité ouvrir des passages vers d'autres univers. En particulier, le voleur est le seul à connaître la formule permettant d'ouvrir un passage vers le **puits de savoir**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout.
+
+Les joueurs peuvent utiliser ce don comme un moteur de recherche historique, et poser au maître de jeu des questions sur le lore de cette planète, sur les grands aspects de l'histoire des Maupertuis. Les djinns ne savent pas tout, ont des avis divergents, se trompent parfois, mais donnent des informations généralement instructives et utiles.
 
 
 Survol des compétences spécifiques des participants
