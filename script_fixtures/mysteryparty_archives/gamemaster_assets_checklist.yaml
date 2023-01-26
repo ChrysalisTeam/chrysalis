@@ -160,7 +160,7 @@
     - "Livret à couverture marron avec dragon doré pour la Tombe 1"
     - "@PARCHEMINS Tombe 1 : Journal intime d'Octave à peine entamé, évoquant juste sa nouvelle qui commence 'dehors' {% hint 'octave_private_diary_on_his_tomb' is provided %} IMPORTANT ???"
     - "@BIJOUX Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF) IMPORTANT"
-    - "@BIJOUX Tombe 1 : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_bracelet_on_tomb' is provided %} IMPORTANT"
+    - "@BIJOUX Tombe 1 : NOPE????? Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_bracelet_for_inventor' is provided %} IMPORTANT"
 
     - "@GENERAL Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided %} IMPORTANT"
 

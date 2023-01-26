@@ -51,7 +51,7 @@ Ils peuvent éclairer (faiblement) une zone de la bibliothèque. Mais ils peuven
 Connaissance des mécaniques et des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous avez depuis toujours une véritable passion pour les **inventions mécaniques et robotiques**. Dans votre temps libre, vous avez conçu une horloge à coucou fonctionnant à l'énergie géothermique, un fauteuil à bascule monté sur verrins steamoforce... et vous vous tenez très au courant des dernières avancées dans la construction d'automates basés sur les animaux et les humains.
+Vous avez depuis toujours une véritable passion pour les **inventions mécaniques et robotiques**. Dans votre temps libre, vous avez conçu une horloge à coucou fonctionnant à l'énergie géothermique, un fauteuil à bascule monté sur verrins steamoforce... et vous êtes très informé des dernières avancées dans la construction d'automates imitant des animaux ou des humains.
 
 Avec les progrès faits dans les engrenages diphasiques, les compresseurs néodymes et les senseurs proprioceptifs, d'ici quelques décennies les machines autonomes se répandront dans le monde, vous en avez la certitude enthousiaste. Même si l'intelligence de ses machines restera pour longtemps très rudimentaire.
 

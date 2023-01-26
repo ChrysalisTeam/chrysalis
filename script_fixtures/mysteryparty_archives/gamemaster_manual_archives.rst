@@ -123,11 +123,11 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 - Lorsqu’ils sont en phase incarnée, les fantômes qui sont morts de façon **violente** sont “attachés” spirituellement à une lumière inamovible, **placée à l’endroit où ils sont morts**. Les morts de **vieillesse**, eux, errent librement (dont la Bête).
 
-- Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
-
 - Lorsqu'il touche un vivant, tout fantôme - incarné ou non - le blesse dangereusement. {% fact "phantom_touch_harms_the_living" %}
 
 - **Déclencheurs** : durant ce jeu, lorsqu'un **son de cloches d'église** est joué, les fantômes doivent passer en mode désincarné, en **errance spectrale*. Lorsqu'un unique **son de gong** retentit, ils repassent au contraire en **phase incarnée**, après être revenus à leur point d'attache s'ils en ont un. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+
+- Les fantômes ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 {# NOT YET - Des entités “démoniaques”, faisant elles aussi partie du monde des morts, pourraient être invoquées dans ce contexte. Elles auraient alors les mêmes propriétés que les fantômes, avec davantage de liberté, d’hostilité, et de pouvoirs magico-sacrés. #}
 
@@ -140,36 +140,36 @@ Ces personnages sont dans l’état où leurs auteurs les avaient laissés à la
 
 Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils le désirent. Le temps s’écoule identiquement dans tous les mondes, mais dans leurs livres, les avatars vivent un “éternel présent”, où leur situation est globalement immuable, puisque leur auteur a cessé son travail d'écriture.
 
-- Si les avatars meurent dans le monde réel, cela équivaut à une mort dans leur monde imaginaire (soumise à leur propre système de croyances religieuses), ils y sont reprojetés, et ne restent jamais des fantômes dans le monde réel.
-
-- Ces avatars portent leurs costumes et accessoires “typiques” de leurs romans.
+- Si les avatars meurent dans le monde réel, cela équivaut à une mort dans leur monde imaginaire (une mort soumise à leur propre système de croyances religieuses) ; ils y sont alors reprojetés, et ne deviennent pas des fantômes dans le monde réel.
 
 - Ils peuvent interagir librement avec le monde des vivants, ses humains et animaux, ses objets et grimoires, **sauf avec les "romans"**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% fact "avatars_cannot_carry_novels" %}
 
 - Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher.
 
-- Ils ne peuvent ramener aucun autre objet ou individu depuis/vers leur monde d’origine (pas mêmes des accessoires décoratifs).
+- Ces avatars portent leurs costumes et accessoires “typiques” de leurs romans, ceux qu'ils avaient quand Octave les a, involontairement, invoqués.
+
+- Ils ne peuvent ramener aucun autre objet ou individu depuis/vers leur monde d’origine (pas mêmes des accessoires décoratifs). Ils sont donc, en toutes choses, limités à ce que contient la bibliothèque des Maupertuis.
 
 - Ils ne peuvent pas aller dans le monde d'autres avatars, ni accueillir dans leur propre monde des vivants ou des fantômes.
 
-- Ils conservent majoritairement les super-pouvoirs qu’ils peuvent avoir dans leur univers (régénération, force, sorts…)
+- Ils conservent majoritairement les super-pouvoirs qu’ils possèdent dans leur propre univers (régénération, force, sorts…)
 
 - Ils sont sensibles aux attaques physiques et magiques, mais le sacré (et le monde des fantômes) ne leur fait rien car leur "transcendance" n'est pas la même que les humains.
 
 {# mais avec des risques d'effets de bord dangereux, à cause d'incompatibilités entre les lois fondamentales des univers ; dans le cas présent, { % fact "avatar_abilities_are_randomly_hazardous" % } #}
 
-- Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+- Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, et peuvent d'ailleurs s'en moquer allègrement, en jurant toutes sortes de choses farfelues. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 Le monde des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 *Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde-là pour un surcroît d'ambiance et une bonne liberté d'action.*
 
-Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par le ou les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% fact "inventor_has_built_androids" %}
+Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% fact "inventor_has_built_androids" %}
 
-Ces robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous.
+Ils obéissent uniquement au personnage (figurant ou joueur) portant un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**. Ils répondent du mieux possible à ses ordres, tant qu'ils ne contredisent pas leurs règles innées de non-agression et de survie. *En cas de doute sur ce comment réagir à un ordre difficile, simuler l'hésitation, et demander discrètement au maître de jeu.* {% fact "robots_obey_but_refuse_violence_or_sacrifice" %}
 
-Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+Les robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous.
 
 Ils sont globalement lents et rigides dans leurs mouvements. Mais ils disposent d'une **immmense force physique**, et peuvent donc déplacer des objets de type ULTRA-LOURD à la demande. En cas d'empoignade, ils gagneraient facilement contre un humain.
 
@@ -202,13 +202,14 @@ Paroles typiques :
 - "Je sers la lignée des Maupertuis et c'est une immense joie."
 - "A votre gauche le tombeau du graaaaand mage Mos Peratys, fondateur de la lignée..."
 
-Ils peuvent boguer par moment, jusqu'à ce que l'avatar inventeur ou un joueur ne les débloque :
+Ils peuvent dysfonctionner par moment, jusqu'à ce que l'avatar inventeur ou un joueur ne les débloque :
 
 - Ils bégaient, butent contre les murs et obstacles, se coincent les bras les uns dans les autres, ou bougent bizarrement sur place façon "engrenage défectueux"...
 - Ils peuvent se retrouver dans une impasse logique, en voulant constamment céder la priorité à un autre automate : "Mais non... Après vous... Je n'en ferais rien...".
 
 Rôle spécial : l'automate de garde, armé, qui patrouille dans la bibliothèque pour la protéger contre de possibles assaillants (voir sa fiche de figurant, et ses interventions programmées).
 
+Les automates ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 Le monde divin
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -877,7 +878,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 - La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Cet étage est très bien rangé, un plan à l'entrée indique les rayonnages où trouver les Teintures, en plus des vibrations émises par cette recette aussi. Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis. {% hint "forbidden_zone_labels_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
 - Un ingrédient de la Teinture est sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter), un sur l'établi de gemmologie ; deux autres sont à retrouver dans la bibliothèque : un en évidence à l’étage autorisé ; un dans un **corridor toxique** de l’étage interdit (c'est une protection supplémentaire du lieu). {% fact "one_corridor_is_toxic" %} {% hint "gem_rock_crystal" is needed %} {# Hint tags for this are in the clues document #}
-  Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% hint "androids_command_bracelet_on_tomb" is needed %}
+  Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% hint "androids_command_bracelet_for_inventor" is needed %}
 
 - Enfin, il faut un récipient métallique avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 
