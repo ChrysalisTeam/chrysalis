@@ -692,8 +692,8 @@ L'Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils
 *Les joueurs peuvent par la suite envoyer des questions à l'Ankou à l'adresse des défunts Maupertuis, mais attention, ceux-ci ne se souviennent pas de tout non plus.* {% fact "diakon_invoker_can_message_ankou" %}
 
 
-La folie de l'automate de garde
-+++++++++++++++++++++++++++++++++++
+La folie meutrière de l'automate de garde
++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro automaton_sentinel_instructions() %}
 
@@ -702,31 +702,32 @@ La folie de l'automate de garde
 Dès le début de l'aventure, cet automate patrouille bien "mécaniquement" avec un fusil Nerf, et interpelle les joueurs qu'il croise. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde, en ignorant désormais les joueurs ainsi contrôlés.
 
 Plus tard, peu après l'ouverture du Domaine Interdit le druide se sent menacé par les différentes prophéties qui le désignent peu à peu. Il prend donc le contrôle de l'automate de garde, par des champignons/lianes s'infiltrant dans le système central de ladite machine (cela est matérialisé en jeu, par exemple, par de faux végétaux autour de son cou ou derrière son masque).
+{% hint "vegetables_around_head_of_automaton_hitman" is needed %}
 
 Le druide envoie l'automate de garde pour assassiner (par une balle dans le torse) deux personnes :
 
 - La joueuse Oracle, qui reçoit les visions
 - La figurante Duchesse, qui l'aide à cela
 
-L'automate cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus ; car le druide compte sur eux pour supprimer la malédiction de la bibliothèque. Il se montre particulièrement prudent envers les précieux diacres.
+L'automate tueur cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus ; car le druide compte sur eux pour supprimer la malédiction de la bibliothèque. Il se montre particulièrement prudent envers les précieux diacres.
 
 Face à cet automate :
 
 - Tous les protagonistes sont vulnérables
-- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkont ; ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal
+- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte ; ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal
 - Aller à l'empoignade est proscrit par sécurité, mais serait de toute façon suicidaire étant donnée la force physique des automates
-- Les diacres peuvent utiliser un sortilège de Stase pour emprisonner l'automate (mais en état invulnérable) temporairement
-- Les meilleures armes sont le glaive ULTRA-LOURD de l'arkonte, et les explosifs
+- Les sortilèges des diacres sont en théorie inutilisables, car l'automate bouge trop, par exemple, pour être mis en stase dans un pentacle
+- Si un protagoniste possède le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}', le bracelet de commandement des automates, il peut donner des ordres à l'automate tueur, et ainsi créer un conflit qui va le ralentir (car le robot oscillera entre l'ordre de tuer, et celui de ne pas le faire)
+- Les meilleures armes pour détruire l'automatre tueur sont le glaive ULTRA-LOURD de l'arkonte, et les explosifs
 
 {% hint "arkon_heavy_gladius_sword" is needed %}
 {% hint "2_explosives_for_minesweeper" is needed %}
 
 Une fois que l'automate tueur a été neutralisé, ou (en pire cas) n'a plus de balles et s'autodétruit, les joueurs peuvent récolter dessus les indices de son étrange contamination.
+{% hint "vegetables_around_head_of_automaton_hitman" is needed %}
 
 {% endmacro %}
 <{ automaton_sentinel_instructions }/>
-
-{% hint "vegetables_around_head_of_automaton_hitman" is needed %}
 
 
 L'exploration du tombeau du mage fondateur
@@ -841,7 +842,7 @@ Pour neutraliser la Bête :
 - La Bête détecte les vivants qui se trouvent à moins de 3m, mais voit très mal au-delà. Il est donc possible de se promener dans le domaine interdit en l’évitant soigneusement, mais cela reste très dangereux.
    {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 
-- L’arkonte avait une {% symbol "armure de Mithril" for "arkon_armor_name" %} sacrée protégeant des attaques “sacrées”, c'est-à-dire celles des créatures du royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la Bête. {% hint "arkon_sacred_armor" is needed %}
+- L’arkonte avait une {% symbol "armure de Mithril" for "arkon_armor_name" %} protégeant intégralement le porteur des attaques “sacrées”, c'est-à-dire celles des créatures appartenant au royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la Bête. {% hint "arkon_sacred_armor" is needed %}
 
 - **L’exorciste** peut faire fuir la Bête pendant quelque temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 

@@ -84,7 +84,7 @@ Attention, ce rituel ne fonctionne pas avec les pentacles et sceaux, qui sont de
 #}
 
 
-La lecture des significations d'aura magique
+La lecture des significations d'auras magiques
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous êtes capable de lire directement la **signification de l'aura magique** ancrée dans certains endroits puissamment enchantés ; par exemple des lieux servant à d'anciens rituels familiaux, ou des protections posées pour sceller durablement des lieux.
