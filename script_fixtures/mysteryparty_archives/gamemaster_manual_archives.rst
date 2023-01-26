@@ -984,8 +984,14 @@ Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 - L’un montre une main boisée et griffue menaçant le monde, ainsi qu'un crâne sous des racines d’arbres, permettant de découvrir le crâne de l'arkonte dans la “mini jungle d’intérieur” du druide.
   {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
   **L’analyse médicale du crâne** montre un empoisonnement au curare, ce qui fait naturellement suspecter le druide.  {% hint "arkon_skull_analysis_showing_curare_poisoning" is needed %}
-- Un autre oracle montre un livre portant le chiffre 3, coincé entre un inventaire d’animaux et des évocations de cuisine. Le plan de l'étage autorisé indique les rayons de "Zoologie" et des "Patisseries", entre lesquels le Tome 3 du roman du Druide est caché. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_labels_showing_zoology_and_cooking_shelves" is needed %}
+- Un autre oracle montre un livre portant le chiffre 3, coincé entre des évocations de "Zoologie" et de "Patisseries". Le Tome 3 du roman du Druide est caché entre ces deux rayonnages de livres, indiqués par des étiquettes sur les meubles. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_labels_showing_zoology_and_cooking_shelves" is needed %}
   La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% hint "chaos_novel_volume_three_between_zoology_and_cooking_shelves" is needed %}
+
+Une dernière prophétie peut être trouvée en activant, par une Lotion de Restauration, un des portraits horrifiques suspendus au mur ; portrait reconnaissable car il réagit au détecteur de métaux (le joueur possédant cet outil a des informations là-dessus).
+{% hint "horror_portrait_with_metal_in_it" is needed %}
+{% hint "prophecy_soundtrack_for_horror_portrait" is needed %}
+{% hint "potion_restoration_recipe_for_alchemist" is needed %}
+{% fact "spy_sounder_knows_about_horror_portraits" %}
 
 Le druide nie initialement toutes les accusations, en traitant ses accusateurs de fous.
 {# LATER **IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} sans avoir résolu l’enquête de la mort des humains.** #}
@@ -1066,6 +1072,8 @@ Dans l’issue optimale du jeu, la malédiction de la bibliothèque est automati
 
 L'orbe spirituel, le vortex abyssal (piége) et le puits de savoir (don)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*Ceci est une quête facultative*
 
 Dans le domaine interdit, les joueurs peuvent trouver un plateau avec une boule à plasma éteinte au centre, désignée comme **l'orbe spirituel** ; 4 emplacements sont dessinés autour de lui.
 
