@@ -31,6 +31,12 @@ Ce genre de situation ne dure jamais éternellement. Donc vous attendez, en osci
 <{ maupertuis_phantoms_awakening }/>
 
 
+Connaissances en commun avec l'Archiviste
+==========================================
+
+IMPORTANT : Votre famille gardait quelques "paperasses administratives" dans une mallette noire, dans le domaine autorisé. Le code de ce coffre changeait automatiquement chaque jour, les chiffres actuels étant **"murmurés par un faux-livre {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}"**. Vous aviez en vain fouillé cette mallette avec votre maître, tout en prenant garde car elle est **partiellement piégée** contre les intrus. {% fact "octave_and_archivist_know_about_murmuring_venture_prins_book" %} {% fact "octave_and_archivist_know_about_trap_of_family_briefcase" %} {% fact "octave_and_archivist_have_searched_family_briefcase" %} {% hint 'trap_in_family_briefcase' is needed %}
+
+Lors de travaux d'inventaire, parmi quelques autres livres factices, vous avez vu passer un boitier en bois nommé **{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}**, donnant accès à la mallette administrative de la famille Maupertuis. Vos fouilles de la mallette (dangereuse car partiellement piégée), avec Octave, n'ont rien donné, mais vous savez indiquer la place du boitier en bois à quiconque vous le demande **(voir Plan du Jeu)**. {% fact "octave_and_archivist_know_about_murmuring_venture_prins_book" %} {% fact "octave_and_archivist_know_about_trap_of_family_briefcase" %} {% fact "octave_and_archivist_have_searched_family_briefcase" %} {% hint 'trap_in_family_briefcase' is needed %} {% fact "archivist_knows_venture_prins_location" %}
 
 Informations et instructions spécifiques
 ========================================
@@ -41,7 +47,7 @@ Si l'on vous apprend que votre soeur Mérédice a en réalité survécu aux pers
 
 {# ABORTED FOR NOW Vous aviez, tout petit, reçu de vos parents votre symbole secret personnel, une des clés nécessaire pour accéder au domain interdit des Maupertuis. Ce symbole ne vous a finalement pas servi, mais maintenant que vous êtes mort, il est étrangement apparu sur votre bras. -% fact "octave_has_secret_personal_symbol_on_arm" %- #}
 
-IMPORTANT : Votre famille gardait quelques "paperasses administratives" dans une mallette noire, dans le domaine autorisé. Le code de ce coffre changeait automatiquement chaque jour, les chiffres actuels étant **"murmurés par un faux-livre {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}"**. Vous aviez en vain fouillé cette mallette avec votre maître, tout en prenant garde car elle est **partiellement piégée** contre les intrus. {% fact "octave_and_archivist_know_about_murmuring_venture_prins_book" %} {% fact "octave_and_archivist_know_about_trap_of_family_briefcase" %} {% fact "octave_and_archivist_have_searched_family_briefcase" %} {% hint 'trap_in_family_briefcase' is needed %}
+
 
 Lors de vos derniers préparatifs, vous aviez commencé à rassembler **de l'argent** dans votre sac de voyage. Si ce sac de voyage n'est plus trouvable, c'est soit que quelqu'un l'a volé, soit simplement qu'il a été enseveli sous un des **éboulis** survenus depuis. {% hint 'travel_bag_with_money_under_far_rubbles' is needed %}
 

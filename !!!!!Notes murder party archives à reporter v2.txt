@@ -21,15 +21,15 @@ IMPORTANT pour DIACRES : bien clamer les formules rituelles, que tout le monde e
 
 Préciser répartition des gemmes et pièces d'or, et les rendre utiles  l'alchimie
 
-- nouvelle quete, détruire la bibliothèque
+- nouvelle quete, détruire la bibliothèque ?
 
-- automat veut confier à bon bricoleur ses automates
+- l'inventeur veut confier à bon bricoleur ses automates  DONE
 
 mettre des codes d'analyse magique sur les portraits horrifiques
 
 normaliser "Arkonte" ?
 
-PROPHETIE DE CASSANDRA   à enregistrer
+PROPHETIE DE CASSANDRA   à enregistrer en audio
 
 
 URLS IMPORTANTES
@@ -41,6 +41,9 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 
 
+DIARY  {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
+
+MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rubbles de octave
 
 ******** LATER *******************
 - Lettres UTILES : À  É
@@ -59,18 +62,18 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - Ajouter que les FANTOMES ont tous déjà vu l'ankou précédemment ????
 - NOPE ABORTED Plan de l'étage autorisé et interdit : à changer
 - ECRIER AU PROPRE l'epilogue
-   > L'ankou doit dire "n'oublies tu pas quelque chose", l'arkonte aussi, à Octave lors de l'épilogue s'il oublie son discours
+   > L'ankou doit dire "n'oublies tu pas quelque chose", l'arkonte aussi, à Octave lors de l'épilogue s'il oublie son discours DONE
 - Changer scénario : le poison de la zone n'est pas due à la lutte du voleur mais est INNEE -> changer toxic_corridor_is_due_to_spilled_potion  DONE
 - Parler à Octave de son livre d'animaux favori (pour énigme du chat-lu-mots)
 - Dire réaction de l'arkonte ou l'ankou devant autres gens ?
-- Dire automate : quid si on les envoie dans un piege ?
+- Dire automate : quid si on les envoie dans un piege ?  DONE
 - Dire explicitement aux joueurs que les romans sont non-soulevables par avatars !!!!!!!!!!
 - Rajouter quête où sacrifice est nécessaire pour atteindre inscriptions dans endroit piégé ? BOF déjà sacrifice de zarthoustra
 - Rajouter pelle pour creuser terre de la jungle, ou explosifs ?
 - BRIEFER druide sur reglementation anti creusage
 - AJOUTER TAF à L'INVENTEUR, avec talkie walkie ???
-- Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout
-- Filer automatiquement à la duchesse son planning et ses bandes son
+- Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout -> pochettes
+- Filer à la duchesse son planning et ses bandes son
 - Preciser réaction de arkonte ou l'ankou
 - FORCER à valider chaque tentative avec le symbole sur tablette ??  (comme pour cards)
 - AJOUTER UN DERNIER TRAP en fil ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!

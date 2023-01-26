@@ -54,12 +54,12 @@ Il faut rester concentré sur ce point : les mondes des fantômes et des avatars
 Orienter les joueurs vers les bons interlocuteurs
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Octave, l'archiviste et l'arkonte peuvent se renvoyer la balle quand on leur des informations qu'ils ont oubliées sur la maisonnée Maupertuis ou la malédiction de la bibliothèque.
+- Octave, l'archiviste et l'arkonte peuvent se renvoyer la balle quand on leur demande des informations qu'ils ont oubliées sur la maisonnée Maupertuis ou la malédiction de la bibliothèque.
 - Si un joueur cherche des informations sur les automates, ou a un outil à réparer, l'orienter vers l'inventeur.  {% fact "inventor_can_repair_items" %}
-- S'il s'agit de voyance, c'est la duchesse qui est la mieux placée. {% fact "duchess_knowns_about_prophecies" %}
+- S'il s'agit de dons de voyance, c'est la duchesse qui est la mieux placée. {% fact "duchess_knowns_about_prophecies" %}
 - S'il s'agit d'herboristerie (pour les potions) ou de gemmologie, c'est le duide qui peut avoir quelques réponses. {% fact "druid_known_about_plants_and_gems" %}
 - Si un joueur est blessé, selon son type de blessure, interpeller l'avatar qui pourrait le soigner
- {# (ce qui n'est pas sans danger) { % fact "avatar_abilities_are_randomly_hazardous" % } #}
+ {# ABORTED (ce qui n'est pas sans danger) { % fact "avatar_abilities_are_randomly_hazardous" % } #}
 
 
 Être crédible dans son personnage
@@ -74,7 +74,7 @@ Tous les figurants ont une histoire, et un passif vis-à-vis des autres figurant
 - Lorsqu'Octave et l'archiviste retrouvent l'arkonte : surprise, méfiance, questionnements accusateurs
 - Lorsqu'Octave et l'archiviste voient la Bête : surprise, tentative de l'amadouer au nom des Maupertuis
 - Lorsque les avatars ou fantômes croisent le voleur : surprise, indignation, condamnation (lui reste moqueur)
-- Lorsque les avatars ou fantômes croisent l'Ankou : respect, espérance, questions sur les défunts Maupertuis, LES FANTÔMES L'ONT DEJA VU QUELQUES FOIS
+- Lorsque les avatars ou fantômes croisent l'Ankou : respect, espérance, questions sur les défunts Maupertuis ; les fantômes l'ont déjà croisé quelques fois
 
 
 Improviser des anecdotes, débats, et bogues
