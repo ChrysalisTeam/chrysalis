@@ -51,4 +51,7 @@ Une créature que vous n'avez jamais vue, et que vous souhaitez ne jamais voir, 
 
 Vous avez très peu de savoir en nécromancie, et aucune contre-mesure en la matière ; mais vous savez par exemple que, contrairement aux fantômes - immatériels donc persistants - les zombies et autres morts vivants ne sont que temporaires, et puisent dans la magie de leurs invocateurs, ou de leur tombeau, de quoi animer leur chair de façon temporaire ; fuir puis attendre est donc souvent la meilleure solution. {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
 
-Quant aux strigas, dryades, spriggans et autres créatures amatrices de magie, vous les connaissez peu, et vous avez toujours pris soin d'aller chercher l'aide d'experts lorsque le cas se présentait ; ces créatures-là ne sont heureusement dangereuses que lorsqu'elles sont affamées ou blessées.
+Quant aux strigas, dryades, spriggans et autres créatures amatrices de magie, vous les connaissez peu, et vous avez toujours pris soin d'aller chercher l'aide d'experts lorsque le cas se présentait ; ces bêtes-là ne sont heureusement dangereuses que lorsqu'elles sont affamées ou blessées.
+
+Enfin, vous avez entendu des histoires écoeurantes, de paisibles bêtes des bois parasitées par des champignons, des plantes grimpantes, ou des mollusques de marais. La chimère en résultant représentait alors un danger difficilement prévisible. Il parait même que de paisibles machineries agricoles ont déjà "pris vie" de cette machine. Mais sur ces sujets là, la légende dépasse probablement la réalité.
+{% fact "parcival_woodsman_knows_about_parasited_automatons" %}

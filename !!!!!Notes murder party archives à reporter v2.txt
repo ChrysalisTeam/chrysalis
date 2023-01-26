@@ -19,6 +19,8 @@ IMPORTANT pour spy-sounder : "Détecteur de magnétisme : Si les inscriptions so
 IMPORTANT pour parcival-oracle : dire "avoir confiance dans ses prophéties, et dans l'allié que le destin vous enverra"
 IMPORTANT pour DIACRES : bien clamer les formules rituelles, que tout le monde entende bien !
 
+Préciser répartition des gemmes et pièces d'or, et les rendre utiles  l'alchimie
+
 - nouvelle quete, détruire la bibliothèque
 
 - automat veut confier à bon bricoleur ses automates
@@ -27,7 +29,7 @@ mettre des codes d'analyse magique sur les portraits horrifiques
 
 normaliser "Arkonte" ?
 
-
+PROPHETIE DE CASSANDRA   à enregistrer
 
 
 URLS IMPORTANTES

@@ -714,7 +714,8 @@ L'automate tueur cherche à effrayer, ou à la rigueur blesser aux jambes, les a
 Face à cet automate :
 
 - Tous les protagonistes sont vulnérables
-- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte ; ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal
+- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte ; ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal ; il a déjà entendu parler de ce genre de chimères mécaniques {% fact "parcival_woodsman_knows_about_parasited_automatons" %}
+
 - Aller à l'empoignade est proscrit par sécurité, mais serait de toute façon suicidaire étant donnée la force physique des automates
 - Les sortilèges des diacres sont en théorie inutilisables, car l'automate bouge trop, par exemple, pour être mis en stase dans un pentacle
 - Si un protagoniste possède le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}', le bracelet de commandement des automates, il peut donner des ordres à l'automate tueur, et ainsi créer un conflit qui va le ralentir (car le robot oscillera entre l'ordre de tuer, et celui de ne pas le faire)
