@@ -91,7 +91,7 @@ Vous êtes capable de lire directement la **signification de l'aura magique** an
 
 *NOTES hors-jeu* : Ces noms sont sous forme de *codes polychromatiques*, autrement dit des nuages de lettres de toutes les couleurs, sur un écriteau blanc. Pour lire les lettres réellement pertinentes, il vous suffira de porter des **lunettes rouges** (fournies par les organisateurs avant le jeu), qui masqueront les lettres inutiles.
 
-{% hint "red_goggles_for_diakon_dispeller" is needed %}
+{% hint "red_goggles_for_dispeller" is needed %}
 
 
 Vos connaissances sur les différents types de blessures

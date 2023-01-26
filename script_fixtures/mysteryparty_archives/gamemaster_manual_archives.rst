@@ -716,7 +716,10 @@ Face à cet automate :
 - Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkont ; ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal
 - Aller à l'empoignade est proscrit par sécurité, mais serait de toute façon suicidaire étant donnée la force physique des automates
 - Les diacres peuvent utiliser un sortilège de Stase pour emprisonner l'automate (mais en état invulnérable) temporairement
-- Les meilleures armes sont le glaive ultra-lourd de l'arkonte, et les explosifs
+- Les meilleures armes sont le glaive ULTRA-LOURD de l'arkonte, et les explosifs
+
+{% hint "arkon_gladius_heavy_sword" is needed %}
+{% hint "2_explosives_for_minesweeper" is needed %}
 
 Une fois que l'automate tueur a été neutralisé, ou (en pire cas) n'a plus de balles et s'autodétruit, les joueurs peuvent récolter dessus les indices de son étrange contamination.
 
@@ -978,6 +981,12 @@ L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur entou
 Les soupçons se portent donc ensuite sur les avatars, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait, via différents exemplaires de leurs romans.
 
 Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais **sans le crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
+
+Dans la niche de la Bête, parmi les restes du voleur, se trouve le glaive (
+Dans la niche de la Bête, parmi les restes du voleur, se trouve le glaive (
+{% hint "arkon_gladius_heavy_sword" is needed %}
+
+{% hint "spy_sounder_metal_detector_initially_broken" is needed %}
 
 Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 
