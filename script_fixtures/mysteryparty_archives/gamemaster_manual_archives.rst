@@ -718,7 +718,7 @@ Face à cet automate :
 - Les diacres peuvent utiliser un sortilège de Stase pour emprisonner l'automate (mais en état invulnérable) temporairement
 - Les meilleures armes sont le glaive ULTRA-LOURD de l'arkonte, et les explosifs
 
-{% hint "arkon_gladius_heavy_sword" is needed %}
+{% hint "arkon_heavy_gladius_sword" is needed %}
 {% hint "2_explosives_for_minesweeper" is needed %}
 
 Une fois que l'automate tueur a été neutralisé, ou (en pire cas) n'a plus de balles et s'autodétruit, les joueurs peuvent récolter dessus les indices de son étrange contamination.
@@ -982,9 +982,10 @@ Les soupçons se portent donc ensuite sur les avatars, qui pouvaient aller et ve
 
 Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais **sans le crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
 
-Dans la niche de la Bête, parmi les restes du voleur, se trouve le glaive (
-Dans la niche de la Bête, parmi les restes du voleur, se trouve le glaive (
-{% hint "arkon_gladius_heavy_sword" is needed %}
+Dans la niche de la Bête, parmi les restes du voleur, se trouve le glaive ULTRA-LOURD de l'arkonte. Ce glaive est analysable : il possède des traces de sang bleu à sa surface. Un des romans mentionne le fait que le druide a lui-même le sang bleu.
+{% hint "arkon_heavy_gladius_sword" is needed %}
+{% fact "arkon_heavy_gladius_sword_has_blue_blood_traces" %}
+{% fact "druid_novels_mention_his_blue_blood" %}
 
 {% hint "spy_sounder_metal_detector_initially_broken" is needed %}
 

@@ -56,6 +56,29 @@ J'assumerai devant les Y ods le poids de mes erreurs et de mes fautes.
 Mais aujourd'hui c'est à vous, mon confesseur, que je m'en remets pour achever ce que j'ai commencé...
 
 
+PROPHETIE DE CASSANDRA (si jouée par une figurante)
+----------------------------------------------------------
+
+Enfants, écoutez-moi.
+
+Je suis Cassandra, arrière petite-fille du Mage Sombre, et prophétesse des divinités tutélaires de Pangéa.
+
+Depuis mon enfance je n'ai cessé d'avertir des terribles dangers que représentait cette bibliothèque ; moins à cause de ses artefacts ensorcelés, que des auras magiques qui s'y entassent depuis des siècles ; des auras qui, mal dirigées, pourraient éventrer les frontières sacrées séparant les différents univers.
+
+Cependant, par incrédulité, par lâcheté, par flemme, tous ont refusé de m'écouter.
+
+Mais point n'était besoin d'espérer pour entreprendre, ni de réussir pour persévérer.
+Au crépuscule de ma vie, je vous lègue donc, à vous, générations futures, ces derniers présages.
+
+Des catastrophes sont en marche, que plus rien ne peut arrêter.
+Et un jour, enfants, vous vous retrouverez face à la plus grande menace que cette planète ait jamais vu surgir.
+
+Gardez la tête froide, sachez garder en cage une monstruosité que vous ne sauriez vaincre.
+Mais lorsque la dernière bataille sera à l'horizon, devenez des bâtisseurs ; les bâtisseurs du plus inébranlable guerrier qui ait jamais existé. Qu'il ne craigne ni les armes, ni les poisons, ni les sortilèges. Qu'il puisse tenir fermement face la tempête, tandis qu'il guidera l'ultime invocation.
+
+Restez sur vos gardes, enfants. On ne trouve de gloire que dans les périls, on ne trouve de succès que dans l'union des forces, mais on ne trouve de traître que parmi ses amis.
+
+
 ADIEUX AUX JOUEURS (par le fantôme Octave)
 ----------------------------------------------------------
 
