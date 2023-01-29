@@ -24,7 +24,7 @@ Alors que vous prépariez vos affaires, satisfait de voir cet étrange confineme
 Connaissances en commun avec Octave
 ==========================================
 
-
+<{ octave_and_archivist_common_knowledge_for_sheets }/>
 
 Informations et instructions spécifiques
 ========================================

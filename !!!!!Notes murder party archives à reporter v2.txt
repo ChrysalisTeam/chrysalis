@@ -32,6 +32,8 @@ normaliser "Arkonte" ?
 PROPHETIE DE CASSANDRA   à enregistrer en audio
 
 
+
+
 URLS IMPORTANTES
 -------------------------
 https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_puzzle/
@@ -39,11 +41,13 @@ https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_cards/
 https://anthropia.prolifik.net/DEMO/anonymous/ability/my_runic_translation_open/
 https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
-
+{% fact "arkon_heavy_gladius_sword_has_blue_blood_traces" %} <-- analyse
 
 DIARY  {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
 
 MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rubbles de octave
+
+ajouter infos sur voleur et ses descendants
 
 ******** LATER *******************
 - Lettres UTILES : À  É
@@ -556,7 +560,6 @@ Que murmure la boite noire au fond du grand coffre marron ????
 - Mettre des énigmes physiques pour récupérer des objets, façon Fort Boyard (ou réutilisant les défis steampunk, contre un opposant fantomatique...) NOPE COVID
 
 IMPORTANT: les avatars ont eu très longtemps pour fouiller l’étage autorisé, il doit être expliqué pourquoi tel ou tel élément leur a échappé (règles de magie différentes, nécessités de + de gens pour un rituel…)
-
 
 - Encourager les collaborations entre équipes!!!! Nécessaires pour quête principale de chaque équipe.
 
