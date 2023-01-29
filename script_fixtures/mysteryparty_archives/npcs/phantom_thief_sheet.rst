@@ -15,20 +15,19 @@ Votre profil
 Informations et instructions spécifiques
 ========================================
 
-{% fact "arkon_uselessly_discusses_with_thief_phantom" %}
-
-Étant en mauvaise posture dans votre quête des trésors du lieu, vous avez décidé de monnayer cher vos informations aux autres explorateurs de cette bibliothèque.
-
-Vous savez ne plus pouvoir prendre en main des richesses, mais pour continuer à alimenter sans danger votre immense Trésor du {% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}, vous exigez que les paiements soient faits dans votre **{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}**, une sorte de tirelire magique, que les joueurs doivent d'abord retrouver pour vous. {% hint "thief_moneybox" is needed %}
+Pour continuer à alimenter sans danger votre immense Trésor du {% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}, vous exigez que les paiements soient faits directement dans votre **{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}**, une sorte de tirelire magique qui téléporte les biens dans votre chateau familial ; cette tirelire, les joueurs doivent d'abord la retrouver pour vous. {% hint "lost_thief_moneybox" is needed %}
 
 Important : vous devez **vider** dans un sac hors-jeu (ou dans vos poches) cette pochette, chaque fois que vous allez repasser en spectre, pour que l'argent dépensé soit bien sorti du jeu.
 
 Si les joueurs vous libèrent suite à vos demandes, avant que vous n'ayez réalisé être mort, vous errez en essayant en vain d'attraper des richesses du lieu ; vous commencez à devenir menaçant pour les joueurs et avatars, en les sommant de vous libérer aussi de cette étrange malédiction qui vous rend le monde impalpable (l'arkonte est alors censé s'interposer). Il est probable que les diacres vous ancreront alors rapidement à un endroit. Sinon, en pire cas, vous pouvez aller jusqu'à l'agression et le meurtre d'un des joueurs. {% fact "diakons_can_all_anchor_phantoms" %}
+Mais une fois conscient de votre mort, vous n'avez plus de raisons d'être violent : mieux vaut maximiser les gains de votre lignée encore existante.
 
 
 **Informations à revendre**
 
-- Vous aviez mis la main sur un précieux coffret à bijoux ayant appartenu à la jeune {% symbol "Isadora" for "maupertuis_mother" %}, la future mère d'Octave ; personne n'avait réussi à l'ouvrir, mais votre talent auditif vous a permis de découvrir le nombre attendu par les engrenages : **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. Avec un peu de chance, elle a continué à utiliser ce code pour protéger d'autres secrets.  **PRIX : 160???????? kashes** {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
+- IMPORTANT : Vous savez qu'il existe un artefact, dans le domaine interdit, permettant d'ouvrir des liens spirituels vers d'autres strates de ce monde. Et vous êtes certain d'être le **seul** à connaître la formule menant plus spécifiquement au **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**, une puissante source de connaissances ; car vous avez brûlé le seul artefact connu à ce jour qui donnait des indications dessus. cette formule est **"ô prodiges de sagesse et de curiosité, venez répondre à ma soif d'érudition"**.  **PRIX : XXX???????? kashes** {% fact "phantom_thief_uniquely knows_about_link_to_djinn_world" %}
+
+- Vous aviez mis la main sur un précieux coffret à bijoux ayant appartenu à la jeune {% symbol "Isadora" for "maupertuis_mother" %}, la future mère d'Octave ; personne n'avait réussi à l'ouvrir, car en cas d'échec il se bloquait pour un mois ; mais votre talent auditif vous a permis de découvrir le nombre attendu par les engrenages : **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. Avec un peu de chance, elle a continué à utiliser ce code pour protéger d'autres secrets.  **PRIX : 160???????? kashes** {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
 
 - Vous savez que la broche en laiton de Mérédice de Maupertuis, évoquée dans les souvenirs de certains de ses descendants, était une pièce importante pour avoir accès au trésor ; elle laissait cette broche dans son petit bureau d'études d'occultisme, qui trônait **dans un coin du domaine interdit, par delà le laboratoire d'alchimie (voir le plan avec le maître de jeu)** ; zone désormais effondrée. **PRIX : 160???????? kashes** {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}

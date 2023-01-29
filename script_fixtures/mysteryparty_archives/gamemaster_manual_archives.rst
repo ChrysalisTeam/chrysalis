@@ -393,13 +393,13 @@ Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 
 - Traits : convoitise, roublardise, bagout, incrédulité, défiance, alcoolisme, vanité
 
-- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets ; en particulier le légendaire **trésor des Maupertuis**, et le mystérieux **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille), mais s’est fait tuer par surprise par la Bête (qui était toujours vivante à ce moment-là) gardant les lieux.
+- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets ; en particulier le légendaire **trésor des Maupertuis**, et le mystérieux **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille). Mais il s’est fait tuer par surprise par la Bête - toujours vivante à ce moment-là - qui gardait les lieux.
 
-- Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste **piégé** dans son (petit) périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, il est dubitatif.
+- Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste **piégé** dans son (petit) périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles, qu'il ne peut hélas plus prendre en main ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, il est dubitatif (peut-être ces personnes ont-elles une immunité contre les effets de ce serment ?).
 
-- Suite aux harangues de l'arkonte, ou aux visites de l’Ankou, il peut finir par réaliser qu'il est mort. Mais cela ne change rien : après discussions, il exulte le **"{% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}"** soit toujours dans sa famille, et se glorifie donc de continuer à alimenter cet amoncellement de richesse, même une fois mort, via sa magique "{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %} {% fact "thief_heirs_still_benefit_from_his_treasure" %}
+- Suite aux harangues de l'arkonte, voire aux visites de l’Ankou, il finit par réaliser qu'il est mort. Mais cela ne change rien : après discussions avec les joueurs (certains ont des informations), il exulte que le **"{% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}"** reste depuis toujours dans sa famille. Il se glorifie donc de pouvoir encore alimenter cet amoncellement de richesse, même une fois mort, via sa magique "{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %} {% fact "thief_heirs_still_benefit_from_his_treasure" %}
 
-- Il monnaie chèrement ses informations sur les lieux aux joueurs, contre de l’or et des pierreries.
+- Il monnaie chèrement ses informations sur les lieux aux autres explorateurs de cette bibliothèque, contre de l’or et des pierreries.
 
 {% endmacro %}
 <{ phantom_thief_character_summary }/>
@@ -1116,14 +1116,14 @@ Il est indiqué, par un écriteau codé en couleur, par un blason (à vouivre bl
 
 Les avatars ou fantômes Maupertuis ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
 
-il s'agit en réalité d'un canal de communication vers un univers démoniaque. Une fois ce canal ouvert (donc une fois la boule à plasma allumée), les joueurs qui posent le doigt dessus sont contaminés par des influences toxiques. En fonction de leur personnage, ils vont avoir des gages montrant que leur santé mentale a pris un coup, avec toujours beaucoup d'agitation, de paroles incohérentes.
+il s'agit en réalité d'un canal de communication vers une dimension démoniaque. Une fois ce canal ouvert (donc une fois la boule à plasma allumée), les joueurs qui posent le doigt dessus sont contaminés par des influences néfastes trop puissantes pour eux. En fonction de leur personnage, ils vont avoir des gages montrant que leur santé mentale a été blessée ; avec toujours beaucoup d'agitation et de paroles incohérentes.
 
 Exemples de gages :
 - l'oracle se met à  faire des prédiction abracadabrantes
 - l'alchimiste boit une de ses potions (non létale)
 - d'autres se mettent à utiliser en vain leur détecteur de métaux, leur lampe UV, sans but...
 
-Cet orbe peut en réalité ouvrir des passages vers d'autres univers. En particulier, le voleur est le seul à connaître la formule permettant d'ouvrir un passage vers le **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout. {% fact "phantom_thief_knows_about_link_to_djinn_world" %}
+Cet orbe peut aussi ouvrir des passages vers d'autres strates de la réalité. En particulier, le voleur est le seul à connaître la formule permettant d'ouvrir un passage vers le **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout. {% fact "phantom_thief_uniquely knows_about_link_to_djinn_world" %}
 
 Les joueurs peuvent utiliser ce don comme un moteur de recherche historique, et poser au maître de jeu des questions sur le lore de cette planète, sur les grands aspects de l'histoire des Maupertuis. Les djinns ne savent pas tout, ont des avis divergents, se trompent parfois, mais donnent des informations généralement instructives et utiles.
 

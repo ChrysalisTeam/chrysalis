@@ -24,3 +24,4 @@ Informations et instructions spécifiques
 
 Vous maniez férocement l'ironie, et si par exemple un Parcival meurt, vous lui demandez de vous rappeler quelle était sa mission initialement, et s'il se sent fier de lui-même.
 
+Dans le Domaine Interdit, si vous croisez le fantôme du **voleur**, vous tentez de lui faire comprendre qu'il est mort, et devrait donc vous suivre dès que c'est possible. {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}

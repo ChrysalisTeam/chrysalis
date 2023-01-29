@@ -74,3 +74,18 @@ Vos connaissances sur les différents types de blessures
 *Vous avez eu la chance d'être formé, par un marabout ermitique, sur ce sujet fort méconnu.*
 
 <{ injury_types_knowledge }/>
+
+
+Autres connaissances diverses
+==============================================================
+
+{% macro knowledge_about_thief_heirs_success() %}
+Lors de vos investigations sur les Archives Secrètes, vous avez croisé des mentions de **{% symbol "Fédore Pass’muraille" for "thief_name" %}**, qui aurait disparu en recherchant le trésor des Maupertuis, bien après la destruction de leur manoir.
+
+Ses descendants n'ont jamais été délogés du fameux {% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}, alors qu'il est désormais connu que leur ancêtre était non pas un fructueux marchand, mais un rusé cambrioleur ; et ils continuent à mener une vie de luxe en lambinant, ce qui laisse penser que le butin familial était plus que conséquent.
+{% endmacro %}
+<{ knowledge_about_thief_heirs_success }/>
+
+{% fact "explorer_anthropologist_knows_about_thief_heirs_success" %}
+
+
