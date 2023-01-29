@@ -262,7 +262,7 @@
     - "Boîte-présentoir très plate en bois pour exposer les gemmes"
     - "@EXTERNE Fléchette de nerf cachée {% hint 'other_iridium_bullet_for_woodsman' is provided %} IMPORTANT"
     - "Lanterne à flamme (3xAA) (marque d'envoûtement POSITIF) IMPORTANT ???"
-    - "@BIJOUX Gemme de Cristal de Roche {% hint 'gem_rock_crystal' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et Fluorite {% hint 'gem_fluorine' is provided %} IMPORTANT"
+    - "@BIJOUX Gemme de Cristal de Roche {% hint 'gem_rock_crystal_on_gemmology_table' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et Fluorite {% hint 'gem_fluorine' is provided %} IMPORTANT"
     - "@BIJOUX Gemme d'Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %} IMPORTANT"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis la mini-jungle après ouverture de l'étage interdit"
 

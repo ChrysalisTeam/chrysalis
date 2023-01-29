@@ -16,7 +16,7 @@ Les ingrédients que vous possédez
 {# voir https://harrypotter.fandom.com/fr/wiki/Cat%C3%A9gorie:Ingr%C3%A9dients_de_potions et https://sain-et-naturel.ouest-france.fr/voici-liste-plantes-medicinales.html#}
 
 **Au domicile familial** : Alchémille, Bile de tatou, Chrysope, Champignon écarlate, Digitale, Essence de ciguë, Ether, Foie de chauve-souris, Joubarbe, Livèche, Mandragore, Œil de triton, Pierre de lune, Polygonum, Rosée d'éclair, Sang de salamandre, Sumac vénéneux, Seigle barbaquin, Venin de tarantule.
-{% fact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredient_for_clarity_lotion_recipe" %}
+{% fact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredients_for_clarity_lotion_recipe" %}
 
 **Sur vous lors de votre expédition**, un nombre suffisant pour tous usages de fioles de :
 
@@ -38,7 +38,7 @@ Les ustensiles que vous possédez
 **Sur vous lors de votre expédition** : fioles vides pour faire des mélanges (des fioles génériques peuvent être fournies par les organisateurs). {% hint "empty_flasks_for_alchemist" is needed %}
 
 
-Les recettes que vous connaissez déjà
+Les recettes que vous connaissez
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
@@ -91,3 +91,10 @@ Vous ne connaissez pas le mode de préparation exact, mais vous avez réussi à 
 - trois feuilles d'edelweiss
 - un rein de blatte cendrée
 
+
+Quelques informations supplémentaires
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Vous avez entendu que certains laboratoires d'alchimie très ésotériques disposaient d'un grimoire animé permettant de guider vers les recettes dont on connait le nom exact. {% fact "parcival_alchemist_knows_about_frequency_scanner_book" %}
+
+Vous avez encore du mal avec les noms antiques trouvés dans certains grimoires ; vous avez parfois cherché en vain des ingrédients, avant de réaliser que vous les aviez déjà, sous un autre nom. Heureusement, des herboristes ont souvent débloqué vos recherches. {% fact "druid_known_about_plants_and_gems" %}

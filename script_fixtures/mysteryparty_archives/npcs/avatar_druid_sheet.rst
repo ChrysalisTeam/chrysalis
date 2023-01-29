@@ -65,11 +65,13 @@ Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_
 
 - que "l'arbre éternel" est le sobriquet souvent donné aux oliviers {% fact "druid_knows_that_eternal_tree_is_olive_tree" %}
 - que le "gant-de-renard" est simplement un nom alternatif de la digitale {% fact "druid_knows_that_foxglove_is_digitalis" %}
-- que le "clairvoyant minéral" est ce que l'on nomme ici du cristal de roche {% fact "druid_knows_about_rock_crystal" %}
+- que le "clairvoyant minéral" est ce que l'on nomme ici du cristal de roche {% fact "druid_knows_about_gem_rock_crystal" %}
 - que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
 - que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tigers_eye" %}
 
-Si les soupçons initiaux de meurtre se sont éloignés de l'arkonte (devenu crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter le doute sur le tombeau du Mage, ou sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_inventor" %}
+**Proposez spontanément votre aide à l'alchimiste**, qui aura besoin de reconnaître ces noms dans les recettes qu'elle trouvera.
+
+Au niveau de l'enquête principale : si les soupçons initiaux de culpabilité se sont éloignés de l'arkonte (devenu crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter temporairement le doute sur le tombeau du Mage, ou sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_magus_or_inventor" %}
 
 
 Le complot anti-arkonte
