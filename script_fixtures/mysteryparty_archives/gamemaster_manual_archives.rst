@@ -38,7 +38,7 @@ La rencontre des Maupertuis et des Avatars
 
 *Connaissances communes aux avatars et aux fantômes, sauf le voleur.*
 
-**La malédiction de la bibliothèque remonte à {% symbol "500 ans" for "library_initial_events_timedelta" %} par rapport au temps du jeu, c'est-à-dire qu'elle a eu lieu en l'{% symbol "an 500" for "library_initial_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %} (ère actuelle). Nous sommes actuellement en l'an {% symbol "an 1000" for "current_events_year" %} de ladite ère.**
+**La malédiction de la bibliothèque a débuté {% symbol "500 ans" for "library_initial_events_timedelta" %} avant le temps du jeu, c'est-à-dire qu'elle a eu lieu en l'{% symbol "an 500" for "library_initial_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %} (ère actuelle). Nous sommes actuellement en l'{% symbol "an 1000" for "current_events_year" %} de cette ère de prospérité.**
 
 L'enfant, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, a connu une destinée tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait **{% symbol "16 ans" for "maupertuis_daughter_age" %}**, a disparu durant ces évènements.
 
@@ -467,7 +467,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 - Il est très habile, a des pouvoirs magiques, résiste à la magie et aux poisons (ainsi qu’au sacré bien sûr), et régénère très vite son corps en cas de blessure.
 
-- Il peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques {% fact "druid_can_well_heal_limited_injuries" %}
+- Il peut utiliser son **sang bleu comme la mer**, avec l'aide des esprits de la Nature, pour soigner tous types de maux biologiques. {% fact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% hint "blue_blood_for_druid_healings" is needed %}
 
 {# NOPE - **S’y connait en NECROMANCIE??** #}
 
@@ -501,7 +501,7 @@ La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %}
 
 - Est capable d'entrer en synergie avec d'autres "voyants"
 
-- Elle peut invoquer ses propres dieux, avec l'aide des diacres, pour guérir une blessure sacrée {% fact "duchess_can_well_heal_sacred_injuries" %}
+- Elle peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour guérir une blessure sacrée {% fact "duchess_can_well_heal_sacred_injuries" %}
 
 {% endmacro %}
 <{ avatar_duchess_character_summary }/>
@@ -573,7 +573,7 @@ La distinction entre ces différents types de blessures n'est pas toujours évid
 
 Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "spirituelles" fragilisent les fondements de l'âme.
 
-**Subir deux blessures d'affilée, de toutes nature que ce soir, mène donc presque certainement à la mort.** {% fact "second_sacred_injury_is_always_fatal" %}
+**Subir deux blessures d'affilée, de toutes natures que ce soir, mène donc presque certainement à la mort.** {% fact "second_injury_sustained_is_always_fatal" %}
 
 {% endmacro %}
 <{ injury_types_knowledge }/>
@@ -598,7 +598,7 @@ Un joueur peut être atteint dans les cas suivants :
 
 **Les blessures se traduisent par un malus à la discrétion du MJ, suivant la situation : perdre un membre ou juste son usage, devenir muet, perdre la mémoire, devenir essoufflé et ne plus pouvoir courir (en cas d'empoisonnement), ou ne plus pouvoir utiliser certaines compétences...**
 
-**IMPORTANT : une deuxième blessure de même nature, subie durant le jeu, tue le joueur.** {% fact "second_sacred_injury_is_always_fatal" %}
+**IMPORTANT : une deuxième blessure, de même nature ou non, subie durant le jeu, tue le joueur.** {% fact "second_injury_sustained_is_always_fatal" %}
 
 {# NOPE
 Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux potions magiques et aux rituels des diacres, mais ces possibilités restent très limitées.
@@ -606,17 +606,17 @@ Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux
 
 Les joueurs sont par eux-mêmes très démunis face aux diverses blessures, ils n'ont PAS de compétences en ce sens. {% fact "players_have_no_medecine_abilites" %}
 
-**Guérisons par des avatars** : Les blessures peuvent, en fonction de leur type, être guéries par certains des avatars. Les avatars doivent d'abord laisser le joueur avec ses blessures pendant quelques minutes, le temps de "rassembler ce qu'il faut pour le soigner". Puis ils procèdent à une opération ou un rituel - **à inventer pour l'occasion**.
+**Guérisons par des avatars** : Les blessures peuvent, en fonction de leur type, être guéries par certains des avatars présents. Les avatars doivent d'abord laisser le joueur avec ses blessures pendant quelques minutes, le temps de "rassembler ce qu'il faut pour le soigner". Puis ils procèdent à une opération ou un rituel - **à inventer pour l'occasion**.
 
 {# NOPE FORGET THAT FOR NOW
 mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant alors à la mort du joueur - tirer cela au dé avec le maître de jeu){ % fact "avatar_abilities_are_randomly_hazardous" % }.
 #}
 
 - La **duchesse** peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour réparer une blessure sacrée (touchant l'âme). {% fact "duchess_can_well_heal_sacred_injuries" %}
-- Le **druide** peut utiliser des potions de son attirail et invoquer les esprits de la Nature pour soigner tous types de maux biologiques. {% fact "druid_can_well_heal_limited_injuries" %}
+- Le **druide** peut utiliser son **sang bleu comme la mer**, avec l'aide des esprits de la Nature, pour soigner tous types de maux biologiques. {% fact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% hint "blue_blood_for_druid_healings" is needed %}
 - L'\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu. {% fact "inventor_can_well_heal_missing_limbs" %}
 
-**Si un joueur meurt**, il devient un fantôme ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes barrières que l'ensemble des protagonistes ({% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} bloquant le domaine interdit...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet d'accéder aux corridors piégés et autres lieux dangereux pour les vivants.
+**Si un joueur meurt, il devient un fantôme** ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes barrières que l'ensemble des protagonistes ({% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} encerclant la bibliothèque, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} bloquant l'accès au domaine interdit...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet d'accéder sans problème aux corridors piégés et autres lieux dangereux pour les vivants.
 
 Avec le bon rituel du grimoire {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de **ressusciter un joueur** à l’état de **zombie** pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de "zombie à l’ancienne” (ex. il parle bizarrement, peut marcher en titubant, mais ne peut pas courir...). {% fact "players_have_thanatologue_spell_to_summon_zombies" %}
 
