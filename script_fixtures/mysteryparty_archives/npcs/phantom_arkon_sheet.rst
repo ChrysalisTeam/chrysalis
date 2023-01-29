@@ -65,7 +65,7 @@ Vous pouvez être assez frustré de découvrir que votre ancien monastère hébe
 
 Si l'on vous interroge : vous ne connaissez pas de solution miracle à une **légion de zombies** - à part les combattre un à un avec des armes de préférence bénites. Mais vous avez entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
-Si l'on vous interroge : vous ne savez pas ce qu'est un **"{% symbol "Vortex Abyssal" for "corridor_to_demonic_space" %}"**. Mais vous êtes plutôt opposé à utiliser des sortilèges sans bien comprendre ce qu'ils impliquent. {% fact "arkon_is_worried_about_abyssal_vortex" %}
+En cas de question : vous ne savez pas ce qu'est un **"{% symbol "Vortex Abyssal" for "link_to_demonic_space" %}"** ni un **"{% symbol "Puits de Savoir" for "link_to_djinn_world" %}"**. Mais vous êtes plutôt opposé à utiliser des sortilèges sans bien comprendre ce qu'ils impliquent. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
 
 Si un vivant meurt, vous incitez les autres à trouver comment le **ressusciter** temporairement, afin qu'il puisse encore aider ; vous savez que ce genre de subterfuge a souvent débloqué, par le passé, des situations jugées désespérées.
 

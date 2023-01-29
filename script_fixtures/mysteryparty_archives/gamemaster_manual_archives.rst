@@ -207,7 +207,7 @@ Ils peuvent dysfonctionner par moment, jusqu'à ce que l'avatar inventeur ou un 
 - Ils bégaient, butent contre les murs et obstacles, se coincent les bras les uns dans les autres, ou bougent bizarrement sur place façon "engrenage défectueux"...
 - Ils peuvent se retrouver dans une impasse logique, en voulant constamment céder la priorité à un autre automate : "Mais non... Après vous... Je n'en ferais rien...".
 
-Rôle spécial : l'automate de garde, armé, qui patrouille dans la bibliothèque pour la protéger contre de possibles assaillants (voir sa fiche de figurant, et ses interventions programmées).
+Rôle spécial : **l'automate de garde**, armé, qui patrouille dans la bibliothèque pour la protéger contre de possibles assaillants (voir sa fiche de figurant, et ses interventions programmées).
 
 Les automates ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
@@ -573,7 +573,7 @@ La distinction entre ces différents types de blessures n'est pas toujours évid
 
 Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "spirituelles" fragilisent les fondements de l'âme.
 
-**Subir deux blessures d'affilée, de toutes natures que ce soir, mène donc presque certainement à la mort.** {% fact "second_injury_sustained_is_always_fatal" %}
+**Subir deux blessures d'affilée, de quelques natures que ce soit, mène presque certainement à la mort.** {% fact "second_injury_sustained_is_always_fatal" %}
 
 {% endmacro %}
 <{ injury_types_knowledge }/>
@@ -773,6 +773,8 @@ L’archiviste et l’arkonte le suivent avec solennité.
 La Bête peut potentiellement reparaître juste pour s'échapper elle aussi, de façon comique, de même que le voleur.
 
 Les automates guident ensuite les joueurs vers la sortie de la bibliothèque, avant que les portails de transplanage ne se referment jusqu'au prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}.
+
+Selon que les groupes de joueurs ont, ou non, pris l'engagement auprès de l'arkonte de protéger/détruire les portails menant à ce lieu, **cette bibliothèque subsistera, ou s'autodétruira dan le magma**, faute de lien magique avec la surface (elle a besoin de 2 des liens sur les 4 pour ne pas s'effondrer). {% fact "arkon_questions_groups_about_the future_of_maupertuis_archives" %}
 
 
 Planification des prophéties et intuitions
@@ -1095,7 +1097,7 @@ Dans l’issue optimale du jeu, la malédiction de la bibliothèque est automati
 L'orbe spirituel, le vortex abyssal (piége) et le puits de savoir (don)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-*Ceci est une quête facultative*
+*Ceci est une quête facultative.*
 
 Dans le domaine interdit, les joueurs peuvent trouver un plateau avec une boule à plasma éteinte au centre, désignée comme **l'orbe spirituel** ; 4 emplacements sont dessinés autour de lui.
 
@@ -1105,13 +1107,14 @@ Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine 
 - un cristal marin (un coquillage dans une pyramide à base triangulaire)
 - un cristal piquant (un chardon dans un cube)
 - un cristal innocent (des fleurs blanches dans un diamant)
-{% hint 'abyssal_vortex_key_4_face_pyramid' is needed %}
-{% hint 'abyssal_vortex_key_3_face_pyramid' is needed %}
-{% hint 'abyssal_vortex_key_cube_is_needed' is needed %}
-{% hint 'abyssal_vortex_key_diamond_is_needed' is needed %}
+{% hint 'spiritual_orb_key_4_face_pyramid' is needed %}
+{% hint 'spiritual_orb_key_3_face_pyramid' is needed %}
+{% hint 'spiritual_orb_key_cube_is_needed' is needed %}
+{% hint 'spiritual_orb_key_diamond_is_needed' is needed %}
 
-Il est indiqué, par un écriteau codé en couleur, par un blason que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% hint 'abyssal_vortex_coded_tray' is needed %} {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
-Les fantômes ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. Les avatars sont plutôt tentés par l'expérience. {% fact "arkon_is_worried_about_abyssal_vortex" %} {% fact "avatars_are_enthusiastic_regarding_spiritual_orb" %}
+Il est indiqué, par un écriteau codé en couleur, par un blason (à vouivre blanche) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% hint 'spiritual_orb_coded_tray' is needed %} {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
+
+Les avatars ou fantômes Maupertuis ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
 
 il s'agit en réalité d'un canal de communication vers un univers démoniaque. Une fois ce canal ouvert (donc une fois la boule à plasma allumée), les joueurs qui posent le doigt dessus sont contaminés par des influences toxiques. En fonction de leur personnage, ils vont avoir des gages montrant que leur santé mentale a pris un coup, avec toujours beaucoup d'agitation, de paroles incohérentes.
 
@@ -1120,7 +1123,7 @@ Exemples de gages :
 - l'alchimiste boit une de ses potions (non létale)
 - d'autres se mettent à utiliser en vain leur détecteur de métaux, leur lampe UV, sans but...
 
-Cet orbe peut en réalité ouvrir des passages vers d'autres univers. En particulier, le voleur est le seul à connaître la formule permettant d'ouvrir un passage vers le **puits de savoir**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout.
+Cet orbe peut en réalité ouvrir des passages vers d'autres univers. En particulier, le voleur est le seul à connaître la formule permettant d'ouvrir un passage vers le **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout. {% fact "phantom_thief_knows_about_link_to_djinn_world" %}
 
 Les joueurs peuvent utiliser ce don comme un moteur de recherche historique, et poser au maître de jeu des questions sur le lore de cette planète, sur les grands aspects de l'histoire des Maupertuis. Les djinns ne savent pas tout, ont des avis divergents, se trompent parfois, mais donnent des informations généralement instructives et utiles.
 
