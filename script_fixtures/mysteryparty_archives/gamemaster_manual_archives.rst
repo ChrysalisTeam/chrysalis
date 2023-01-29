@@ -51,7 +51,7 @@ Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’O
 L'enfant et ses nouveaux amis se retrouvaient au moins un jour chaque semaine dans la bibliothèque, pour festoyer, jouer, fabriquer des automates, et apprendre moult choses sur les règles régissant chacun des univers représentés.
 L’archiviste les a vite découverts, mais il a bien dû accepter la situation, tout en interdisant aux avatars de sortir de la bibliothèque.
 
-Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) {% symbol "Valerias" for "arkon_name" %}**, de religion yodique (et plus particulièrement de confession mithraïte), qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes non-humaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant qui s'apprétaient à en partir.
+Quelques mois plus tard a eu lieu le **{% symbol "solstice d'hiver" for "astral_opening_date" %}** suivant. **L’arkonte (paladin-exorciste) {% symbol "Valerias" for "arkon_name" %}**, de religion yodique (et plus particulièrement de confession mithraïte), qui résidait dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, a senti la présence des âmes non-humaines. Il s’est infiltré dans la bibliothèque secrète, et a confronté l’archiviste et l’enfant qui s'apprêtaient à en partir.
 
 Ceux-ci ont finalement accepté de ne plus faire courir de risque à l’humanité avec un mélange contre-nature des mondes, et de laisser l’arkonte renvoyer définitivement les avatars hors de la Terre ; en retour, l’arkonte amènerait avec lui {% symbol "Octave" for "maupertuis_son" %} et l'archiviste, en sécurité, dans un pays accueillant.
 
@@ -393,13 +393,13 @@ Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 
 - Traits : convoitise, roublardise, bagout, incrédulité, défiance, alcoolisme, vanité
 
-- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets, et en particulier le légendaire trésor des Maupertuis. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille), mais s’est fait tuer par surprise par la Bête (qui était toujours vivante à ce moment-là) gardant les lieux.
+- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets ; en particulier le légendaire **trésor des Maupertuis**, et le mystérieux **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille), mais s’est fait tuer par surprise par la Bête (qui était toujours vivante à ce moment-là) gardant les lieux.
 
 - Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste **piégé** dans son (petit) périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, il est dubitatif.
 
-- Suite aux harangues de l'arkonte, ou aux visites de l’Ankou, il peut finir par réaliser qu'il est mort. Mais cela ne change rien : il exulte que personne ici n'ait entendu parler du "Trésor de {% symbol "Fédore Pass’muraille" for "thief_name" %}", et se glorifie donc de continuer à alimenter cet amoncellement de richesse, même une fois mort, via sa magique {% symbol 'pochette sans fond' for 'thief_moneybox_name' %}.
+- Suite aux harangues de l'arkonte, ou aux visites de l’Ankou, il peut finir par réaliser qu'il est mort. Mais cela ne change rien : après discussions, il exulte le **"{% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}"** soit toujours dans sa famille, et se glorifie donc de continuer à alimenter cet amoncellement de richesse, même une fois mort, via sa magique "{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %} {% fact "thief_heirs_still_benefit_from_his_treasure" %}
 
-- Il monnaie chèrement ses informations “pratiques” sur les lieux aux joueurs, contre de l’or et des pierreries.
+- Il monnaie chèrement ses informations sur les lieux aux joueurs, contre de l’or et des pierreries.
 
 {% endmacro %}
 <{ phantom_thief_character_summary }/>
@@ -703,7 +703,7 @@ La folie meutrière de l'automate de garde
 Dès le début de l'aventure, cet automate patrouille bien "mécaniquement" avec une carabine Nerf, et interpelle les joueurs qu'il croise. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde, en ignorant désormais les joueurs ainsi contrôlés.
 
 Plus tard, peu après l'ouverture du Domaine Interdit le druide se sent menacé par les différentes prophéties qui le désignent peu à peu. Il prend donc le contrôle de l'automate de garde, par des champignons/lianes s'infiltrant dans le système central de ladite machine (cela est matérialisé en jeu, par exemple, par de faux végétaux autour de son cou ou derrière son masque).
-{% hint "vegetables_around_head_of_automaton_hitman" is needed %}
+{% hint "plants_around_head_of_automaton_hitman" is needed %}
 
 Le druide envoie l'automate de garde pour assassiner (par une balle dans le torse) deux personnes :
 
@@ -728,7 +728,7 @@ Face à cet automate :
 {% hint "2_explosives_for_minesweeper" is needed %}
 
 Une fois que l'automate tueur a été neutralisé, ou (en pire cas) n'a plus de balles et s'autodétruit, les joueurs peuvent récolter dessus les indices de son étrange contamination.
-{% hint "vegetables_around_head_of_automaton_hitman" is needed %}
+{% hint "plants_around_head_of_automaton_hitman" is needed %}
 
 Si le druide est appelé pour soigner une des deux cibles de l'automate, il sera naturellement **réticent** à le faire ; mais il devra alors choisir entre faire profil bas et soigner avec son talent habituel, ou échouer volontairement dans ses soins, et tenter alors de le justifier pour ne pas éveiller trop de soupçons.
 
@@ -882,7 +882,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 - Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà). {% fact "druid_known_about_plants_and_gems" %} {% fact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredients_for_clarity_lotion_recipe" %}
 
-- La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth), trouvable sur place, est utilisé pour localiser les recettes dont on connait le nom, dans cet étrange endroit (en plus des étiduettes sur les rayonnages). L'alchimiste en a entendu parler. {% hint "radio_frequency_scanner_app_in_chest" is needed %} {% fact "parcival_alchemist_knows_about_frequency_scanner_book" %} {% hint "forbidden_zone_labels_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
+- La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth), trouvable sur place, est utilisé pour localiser les recettes dont on connait le nom, dans cet étrange endroit (en plus des étiquettes sur les rayonnages). L'alchimiste en a entendu parler. {% hint "radio_frequency_scanner_app_in_chest" is needed %} {% fact "parcival_alchemist_knows_about_frequency_scanner_book" %} {% hint "forbidden_zone_labels_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
 Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis.
 
@@ -926,8 +926,8 @@ Les différents bijoux :
 
 - La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont cachés dans un SCEAU d'initiation. Il s’agissait d’une épreuve pour Octave, qui devait être capable de “sentir” la présence de l’objet magique avant d’y avoir droit. Les joueurs doivent activer le sceau, écouter le message pré-enregistré d'un automate qui leur résume l'épreuve, puis utiliser le **détecteur de métal** pour deviner le coffret qui a l’objet. Seul un héritier Maupertuis peut effectivement déclencher la résolution de cette initiation. {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% fact "only_maupertuis_heirs_can_take_initiation" %} {% hint 'maupertuis_initiation_seal' is needed %} {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}
 
-- La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est **effondré**. Il vend donc cette information chèrement et à contrecoeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
-  {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}
+- La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est **effondré**. Il vend donc cette information chèrement et à contrecoeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. Octave a aussi quelques indices, moins précis, sur l'endroit où sa soeur gardait ses biens les plus précieux. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
+  {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %} {% fact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}
 
 Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité par jour, mais suffisant pour la quête des agents secrets. {% hint 'jewels_set_for_grinding_mill_success' is needed %}
 
@@ -947,9 +947,9 @@ Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)
 Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conservé par la lignée des Maupertuis, dans le "coffre légendaire" situé dans le **domaine interdit** - ce qu'Octave ou l'archiviste devrait indiquer aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% hint "family_legendary_chest_protected_by_double_code" is needed %} {% fact "octave_and_archivist_know_about_thanatologue_location_and_double_code" %}
 
 - **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans un de ses livres factices (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book" is needed %}
-  Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**.
+  Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**. {% fact "dead_quirinius_does_not_remember_thanatologue_chest_code" %}
 
-- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien et mémorisait tout**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connait ce code (que la mère d'Octave avait aussi utilisé pour d’autres coffrets), et le vend très cher ; on peut aussi le trouver dans le portefeuille du voleur (gisant dans la niche de la Bête). {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'isadora_code_for_thanatologue_chest_code' is needed %} {% fact "diakon_invoker_can_message_ankou" %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
+- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien et mémorisait tout**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connait ce code (que la mère d'Octave avait aussi utilisé pour d’autres coffrets), et le vend très cher ; on peut aussi le trouver dans le portefeuille du voleur (gisant dans la niche de la Bête). {% fact "dead_isadora_remembers_thanatologue_chest_code" %} {% hint 'defunct_isadora_code_for_thanatologue_chest_code' is needed %} {% fact "diakon_invoker_can_message_ankou" %} {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
   Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**.
 
 {% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}

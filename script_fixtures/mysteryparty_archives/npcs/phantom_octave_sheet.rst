@@ -61,7 +61,10 @@ Vous avez gardé un esprit d'enfance, et vous interpellez parfois les joueurs de
 
 Si l'on vous apprend que votre soeur Mérédice a en réalité survécu aux persécutions qui ont détruit le manoir, vous êtes rempli d'enthousiasme ; mieux encore, si vous faites la rencontre de ses lointains descendants (vos piti-piti-piti...fillots), vous débordez d'affection et de gratitude envers eux.
 
-L'archiviste vous a indiqué qu'il avait retrouvé, et bien classé, certaines recettes de potion qui avaient été utiles pour sauver votre soeur Mérédice dans son enfance. {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
+Vous savez que votre soeur gardait ses affaires les plus précieuses dans son petit bureau d'études d'occultisme, dans le domaine interdit. Vous n'avez jamais vu ce bureau de vos yeux. Et en visitant le domaine en question, vous ne voyez rien qui ressemble à une telle chose ; peut-être derrière des éboulis ?
+{% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %} {% fact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}
+
+L'archiviste vous a indiqué qu'il avait retrouvé, et bien classé, certaines recettes de potion qui avaient été utiles pour sauver votre soeur Mérédice dans son enfance. {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %} {% fact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 
 Lors de vos derniers préparatifs, vous aviez commencé à rassembler dans votre sac de voyage **un peu d'argent**, du moins celui qui n'avait pas été espièglement caché par votre soeur avant le drame. Si ce sac de voyage n'est plus trouvable, c'est soit que quelqu'un l'a volé, soit simplement qu'il a été enseveli sous un des **éboulis** survenus depuis. {% hint 'travel_bag_with_money_under_far_rubbles' is needed %} {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
 
