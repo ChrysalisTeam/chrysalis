@@ -38,9 +38,9 @@ La rencontre des Maupertuis et des Avatars
 
 *Connaissances communes aux avatars et aux fantômes, sauf le voleur.*
 
-**La malédiction de la bibliothèque a débuté {% symbol "500 ans" for "library_initial_events_timedelta" %} avant le temps du jeu, c'est-à-dire qu'elle a eu lieu en l'{% symbol "an 500" for "library_initial_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %} (ère actuelle). Nous sommes actuellement en l'{% symbol "an 1000" for "current_events_year" %} de cette ère de prospérité.**
+**La malédiction de la bibliothèque a débuté {% symbol "500 ans" for "library_initial_events_timedelta" %} avant le temps du jeu, c'est-à-dire qu'elle a eu lieu en l'{% symbol "an 500" for "library_initial_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %}. Nous sommes actuellement en l'{% symbol "an 1000" for "current_events_year" %} de cette ère de prospérité.**
 
-L'enfant, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, a connu une destinée tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait **{% symbol "16 ans" for "maupertuis_daughter_age" %}**, a disparu durant ces évènements.
+L'enfant, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, a connu une destinée tragique. Il est issu, par sa mère (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) et son père (**{% symbol "Quirinius" for "maupertuis_father" %}**) de deux grandes lignées de magiciens-guérisseurs. Ses parents sont morts lorsque le domaine a été attaqué et rasé par des fidèles du **dieu {% symbol "Bahamoot" for "god_of_diakons" %}**, sur ordre du **{% symbol "cardinal Tridentès" for "old_guru_name" %}**, lors du {% symbol "marasme planétaire" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} avait alors **{% symbol "10" for "maupertuis_son_age" %} ans**. Sa soeur, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, qui avait **{% symbol "16 ans" for "maupertuis_daughter_age" %}**, a disparu durant ces évènements.
 
 {% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur **{% symbol "Maître Parchemine" for "archivist_name" %}** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens châteaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, pour une célébration commune de la nouvelle année, même si cette tradition n'était plus respectée depuis longtemps.
 
@@ -700,7 +700,7 @@ La folie meutrière de l'automate de garde
 
 {% fact "druid_turns_automaton_sentinel_into_prophet_killer" %}
 
-Dès le début de l'aventure, cet automate patrouille bien "mécaniquement" avec un fusil Nerf, et interpelle les joueurs qu'il croise. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde, en ignorant désormais les joueurs ainsi contrôlés.
+Dès le début de l'aventure, cet automate patrouille bien "mécaniquement" avec une carabine Nerf, et interpelle les joueurs qu'il croise. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde, en ignorant désormais les joueurs ainsi contrôlés.
 
 Plus tard, peu après l'ouverture du Domaine Interdit le druide se sent menacé par les différentes prophéties qui le désignent peu à peu. Il prend donc le contrôle de l'automate de garde, par des champignons/lianes s'infiltrant dans le système central de ladite machine (cela est matérialisé en jeu, par exemple, par de faux végétaux autour de son cou ou derrière son masque).
 {% hint "vegetables_around_head_of_automaton_hitman" is needed %}
@@ -712,21 +712,25 @@ Le druide envoie l'automate de garde pour assassiner (par une balle dans le tors
 
 L'automate tueur cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus ; car le druide compte sur eux pour supprimer la malédiction de la bibliothèque. Il se montre particulièrement prudent envers les précieux diacres.
 
+Il ne peut pas récupérer ses balles, qui se désagrègent naturellement à l'impact.
+Il ne vise évidemment **jamais la tête** des participants.
+
 Face à cet automate :
 
 - Tous les protagonistes sont vulnérables
-- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte ; ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal ; il a déjà entendu parler de ce genre de chimères mécaniques {% fact "parcival_woodsman_knows_about_parasited_automatons" %}
-
-- Aller à l'empoignade est proscrit par sécurité, mais serait de toute façon suicidaire étant donnée la force physique des automates
-- Les sortilèges des diacres sont en théorie inutilisables, car l'automate bouge trop, par exemple, pour être mis en stase dans un pentacle
-- Si un protagoniste possède le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}', le bracelet de commandement des automates, il peut donner des ordres à l'automate tueur, et ainsi créer un conflit qui va le ralentir (car le robot oscillera entre l'ordre de tuer, et celui de ne pas le faire)
-- Les meilleures armes pour détruire l'automatre tueur sont le glaive ULTRA-LOURD de l'arkonte, et les explosifs
+- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte ; ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal ; il a déjà entendu parler de ce genre de chimères mécaniques. {% fact "parcival_woodsman_knows_about_parasited_automatons" %}
+- Aller à l'empoignade est proscrit par sécurité, mais serait de toute façon suicidaire étant donnée la force physique des automates.
+- Les sortilèges des diacres sont en théorie inutilisables, car l'automate bouge trop, par exemple, pour être mis en stase dans un pentacle.
+- Si un protagoniste possède le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}', le bracelet de commandement des automates, il peut donner des ordres à l'automate tueur, et ainsi créer un conflit qui va le confondre et le ralentir (car le robot oscillera entre l'ordre de tuer, et celui de ne pas le faire).
+- Les meilleures armes pour détruire l'automate tueur sont le {% symbol "glaive" for "arkon_weapon_name" %} ULTRA-LOURD de l'arkonte, et les explosifs.
 
 {% hint "arkon_heavy_gladius_sword" is needed %}
 {% hint "2_explosives_for_minesweeper" is needed %}
 
 Une fois que l'automate tueur a été neutralisé, ou (en pire cas) n'a plus de balles et s'autodétruit, les joueurs peuvent récolter dessus les indices de son étrange contamination.
 {% hint "vegetables_around_head_of_automaton_hitman" is needed %}
+
+Si le druide est appelé pour soigner une des deux cibles de l'automate, il sera naturellement **réticent** à le faire ; mais il devra alors choisir entre faire profil bas et soigner avec son talent habituel, ou échouer volontairement dans ses soins, et tenter alors de le justifier pour ne pas éveiller trop de soupçons.
 
 {% endmacro %}
 <{ automaton_sentinel_instructions }/>
@@ -790,7 +794,7 @@ Planification des prophéties et intuitions
 
 - **Prophétie du crâne de l’arkonte et du danger planétaire** (plume puis allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "In Uchronia - Broken Truth (Delphi's Theme) phase 2.mp3"
 
-- **Intuition sur la dernière bataille** (lorsque le méchant est démasqué) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un toureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire le taureau. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."*
+- **Intuition sur la dernière bataille** (lorsque le méchant est démasqué) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un toureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire le taureau. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."* {% fact "parcival_oracle_has_intuition_about_last_battle" %}
 
 {% endmacro %}
 <{ planning_of_prophecies }/>
@@ -977,7 +981,7 @@ Neutraliser le méchant
 
 {% macro quest_to_find_traitor_and_final_battle() %}
 
-Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons doivent viser initialement l’arkonte, surtout de la part des avatars (qui n’ont pu le voir ensuite en tant que fantôme). Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, peuvent aussi être suspectés.
+Les récits des différents fantômes concordent sur le fait qu’ils sont morts alors que se déroulait le rituel. Les soupçons doivent viser initialement l’arkonte, surtout de la part des avatars (qui n’ont pu le voir ensuite en tant que fantôme). Mais la Bête de l'étage interdit, ou une possible malédiction liée à l'ancêtre {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, peuvent aussi être suspectées.
 
 L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur entouré de ténèbres, qui résistait bien aux attaques physiques, magiques et sacrées ; et qu’il a donc maudit cet attaquant (et la bibliothèque) en succombant.
 
@@ -985,14 +989,14 @@ Les soupçons se portent donc ensuite sur les avatars, qui pouvaient aller et ve
 
 Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais **sans le crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
 
-Dans la niche de la Bête, parmi les restes du voleur, se trouve le glaive ULTRA-LOURD de l'arkonte. Ce glaive est analysable : il possède des traces de sang bleu à sa surface. Un des romans mentionne le fait que le druide a lui-même le sang bleu.
+Dans la niche de la Bête, parmi les restes du voleur, se trouve le **{% symbol "glaive" for "arkon_weapon_name" %} ULTRA-LOURD** de l'arkonte. Cette arme est analysable : elle possède des traces de sang bleu à sa surface. Un des romans concernant le druide mentionne qu'il a le sang bleu.
 {% hint "arkon_heavy_gladius_sword" is needed %}
 {% fact "arkon_heavy_gladius_sword_has_blue_blood_traces" %}
 {% fact "druid_novels_mention_his_blue_blood" %}
 
 {% hint "spy_sounder_metal_detector_initially_broken" is needed %}
 
-Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
+Plusieurs **oracles** sont aussi délivrés pour aiguiller les joueurs.
 
 - L’un montre une main boisée et griffue menaçant le monde, ainsi qu'un crâne sous des racines d’arbres, permettant de découvrir le crâne de l'arkonte dans la “mini jungle d’intérieur” du druide.
   {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
@@ -1000,21 +1004,16 @@ Plusieurs **oracles** sont délivrés pour aiguiller les joueurs.
 - Un autre oracle montre un livre portant le chiffre 3, coincé entre des évocations de "Zoologie" et de "Patisseries". Le Tome 3 du roman du Druide est caché entre ces deux rayonnages de livres, indiqués par des étiquettes sur les meubles. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_labels_showing_zoology_and_cooking_shelves" is needed %}
   La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% hint "chaos_novel_volume_three_between_zoology_and_cooking_shelves" is needed %}
 
-Une dernière prophétie peut être trouvée en activant, par une Lotion de Restauration, un des portraits horrifiques suspendus au mur ; portrait reconnaissable car il réagit au détecteur de métaux (le joueur possédant cet outil a des informations là-dessus).
-{% hint "horror_portrait_with_metal_in_it" is needed %}
-{% hint "prophecy_soundtrack_for_horror_portrait" is needed %}
-{% hint "potion_restoration_recipe_for_alchemist" is needed %}
-{% fact "spy_sounder_knows_about_horror_portraits" %}
-
 Le druide nie initialement toutes les accusations, en traitant ses accusateurs de fous.
 {# LATER **IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} sans avoir résolu l’enquête de la mort des humains.** #}
 
-Mais lorsque ces 2 indices rassemblés sont exposés aux autres avatars, ils confrontent le druide. Celui-ci change alors de posture, assume son crime au nom du Salut de Pangéa, et rappelle qu'il est bien plus puissant que tous les participants rassemblés. Il propose donc à tous de l'aider à briser la malédiction de la bibliothèque, en échange de la vie sauve dans son futur Havre de Nature.
+Mais lorsque ces différents indices probants sont exposés aux autres avatars, ils confrontent le druide. Celui-ci change alors de posture, assume son crime au nom du Salut de Pangéa, et rappelle qu'il est bien plus puissant que tous les participants rassemblés. Il exige donc de tous de l'aider à briser la malédiction de la bibliothèque, en échange de la vie sauve dans son futur Havre de Nature.
 
 Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu’il a accès aux grimoires du domaine interdit, il finira bien par découvrir comment utiliser la magie de ce monde et briser la malédiction de la bibliothèque ; mais eux ont des missions urgentes à accomplir et doivent ressortir avant que les portails de transplanage ne se referment, d'ici quelques heures.
 
 Le druide prévient qu'il ne s'éloignera plus du pentacle du rituel de l'arkonte, afin que personne ne tente de le renvoyer de force dans son monde ; et qu'il sentirait si un autre pentacle similaire était créé dans les environs.
-Typiquement, il se met alors à lire des grimoires (dont le Thanatologue), l'air enthousiaste, non loin du pentacle. {% fact "druid_reads_near_pentacle_before_game_ending" %}
+
+Typiquement, il se met alors à lire des grimoires (dont le Thanatologue), l'air enthousiaste, non loin du pentacle. Il est réellement sur la piste d'un **contre-sortilège** pour annuler la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}. {% fact "druid_reads_near_pentacle_before_game_ending" %}
 
 Le traître est insensible aux attaques usuelles.
 Si les joueurs l'agressent directement, il en tue un (qui devient un fantôme), puis ordonne aux autres de continuer à chercher comment lever la malédiction.
@@ -1026,17 +1025,23 @@ Mais il existe certaines façons de l'atteindre :
 
 - Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de **trois joueurs** pour créer “la balle qui ne pardonne pas”. {% hint "unavoidable_bullet_spell_from_thanatologue" is needed %}
 
-- Soit la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer détruire massivement les corridors outre-monde grâce à l'un de ses **rituels**, capable de briser tous les corridors à la fois, et murer ainsi les avatars dans leurs mondes respectifs. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
+- Soit la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer détruire massivement les corridors d'outre-monde grâce à l'un de ses **rituels**, et murer ainsi les avatars dans leurs mondes respectifs. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
+
+Une prophétie détaillant ce procédé de "diacre invulnérable" peut être trouvée en activant, par une Lotion de Restauration, un des portraits horrifiques suspendus au mur ; portrait reconnaissable, car il réagit au détecteur de métaux (le joueur possédant cet outil a des informations là-dessus).
+{% hint "horror_portrait_with_metal_in_it" is needed %}
+{% hint "prophecy_soundtrack_for_horror_portrait" is needed %}
+{% hint "potion_restoration_recipe_for_alchemist" is needed %}
+{% fact "spy_sounder_knows_about_horror_portraits" %}
+
+- Une **intuition** de l'Oacle évoque aussi ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% fact "parcival_oracle_has_intuition_about_last_battle" %}
 
 Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'expulsion :
-
-- Une **intuition** de l'Oacle évoque ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes.
 
 - Les joueurs doivent rassembler **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}**, qui sont stockés à différents endroits de la bibliothèque. {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
 
 - Par sécurité, les autres avatars doivent être poussés par l'exorciste à chacun retourner dans son monde, sans quoi ils seraient mis en grave danger par le rituel. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
-- Lorsque l'exorciste commence son rituel, le druide est d'abord confus, puis, comprenant ce qui se passe, il l'attaque, mais en vain.
+- Lorsque l'exorciste commence son rituel, le druide est d'abord confus, puis, comprenant ce qui se passe, il l'attaque par différents moyens, mais en vain.
 
 - En désespoir de cause, le druide va utiliser la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte (qui contient le {% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}), et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} À charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...), sans se faire eux-mêmes attaquer par le druide.
 
@@ -1044,7 +1049,8 @@ Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'e
 
 Que le traître soit anéanti d'une manière ou d'une autre (balle maudite ou rituel d'expulsion), la malédiction prend fin, et l’épilogue peut se dérouler. {% fact "traitor_death_ends_cursed_enclosure" %}
 
-Mais si un jour suit les ordres du druide et lève la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, ou si tous tardent trop à agir et le druide brise finalement lui-même cette malédiction - grâce une formule prétendument trouvée dans un grimoire - alors le druide s'échappe de la bibliothèque.
+Mais si un joueur suit les ordres du druide et lève la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, ou si tous tardent trop à agir et le druide brise finalement lui-même cette malédiction (grâce une formule prétendument trouvée dans un grimoire) alors le druide s'échappe de la bibliothèque.
+
 Les joueurs peuvent dans ce cas effectivement rentrer chez eux, mais avec l'amertume de l'échec : avoir lâché un monstre dans leur monde. Et les **avatars restants** peuvent choisir entre être révoqués, ou rester pour essayer d'aider cette planète face au nouveau péril.
 
 {% endmacro %}

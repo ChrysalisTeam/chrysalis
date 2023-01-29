@@ -85,11 +85,9 @@ Bien entendu, personne ne doit vous voir poser cette sacoche ; non seulement ell
 La tentative d'assassinat des prophètes
 =============================================
 
-Lorsque la Duchesse et l'Oracle commencent à enchainer des prophéties qui vous désignent subtilement, vous décidez de les éliminer.
-Vous corrompez donc l'automate de garde de la bibliothèqye
+*Lorsque la Duchesse et l'Oracle commencent à enchainer des prophéties qui vous désignent subtilement, vous décidez de les éliminer. Voici la fiche de l'automate de garde, donnant aussi des indications sur vos actions possibles.*
 
-{% fact "druid_turns_automaton_sentinel_into_prophet_killer" %}
-
+<{ automaton_sentinel_instructions }/>
 
 
 La bataille finale
