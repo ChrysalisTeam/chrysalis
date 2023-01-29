@@ -422,7 +422,7 @@
     - "4 étoles violette pour les diacres IMPORTANT"
 
 -
-  - "VALISE ROUGE EN CUIR"
+  - "VALISE ROUGE EN CUIR {% hint 'miscellaneous_valuable_objects_gathered_by_archivist' is needed %}"
   -
     - "Lampe multicolore à angelot en cuivre"
     - "Chauffe-lit à manche en cuivre"

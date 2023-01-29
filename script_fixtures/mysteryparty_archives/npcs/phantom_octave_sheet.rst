@@ -16,7 +16,7 @@ Un réveil inattendu
 
 Lorsque l'arkonte s'est immiscé dans la bibliothèque, vous avez fini par vous ranger à ses arguments.
 
-Alors que vous prépariez vos affaires, le coeur lourd de devoir quitter si brusquement vos amis avatars, vous avez senti une vive brûlure dans votre dos.
+Alors que vous prépariez vos affaires, le coeur lourd de devoir quitter pour toujours vos amis avatars, vous avez senti une vive brûlure dans votre dos.
 
 {% macro maupertuis_phantoms_awakening() %}
 

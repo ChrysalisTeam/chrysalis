@@ -14,9 +14,12 @@ Votre profil
 Un réveil inattendu
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Lorsque l'arkonte s'est immiscé dans la bibliothèque, vous avez fini par vous ranger à ses arguments.
+Lorsque l'arkonte s'est immiscé dans la bibliothèque, vous vous êtes rapidement rangé à ses arguments.
 
-Alors que vous prépariez vos affaires, satisfait de voir cet étrange confinement toucher à sa fin, vous avez senti une vive brûlure dans votre dos.
+Vous avez donc fini de préparer vos affaires pour le départ, en rassemblant quelques derniers bibelots non-magiques à revendre à la surface.
+{% fact "archivist_gathered_non_magic_objects_to_sell_them_outside" %} {% hint "miscellaneous_valuable_objects_gathered_by_archivist" is needed %}
+
+Mais vous avez senti une vive brûlure dans votre dos.
 
 <{ maupertuis_phantoms_awakening }/>
 
