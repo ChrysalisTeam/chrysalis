@@ -29,12 +29,8 @@ Connaissances en commun avec Octave
 Informations et instructions spécifiques
 ========================================
 
-Vous avez entendu bien des choses, du temps des Maupertuis, sur la dangerosité de la Bête, donc si les joueurs veulent ouvrir le passage vers le domaine interdit, vous les exhortez à avoir d'abord un plan pour la neutraliser, sous quelque forme qu'elle pointe le bout du museau. {% fact "archivist_warns_players_about_beast_dangerousness" %}
-
 Vous vous souvenez très bien de la maladie de Mérédice de Maupertuis, et comment les parents Maupertuis vous avaient envoyé en personne quérir différents ingrédients très pointus pour créer une potion appelée **{% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}**. Vous aviez retrouvé et rangé à sa place, lors de l'inventaire, la recette principale de ladite potion, et vous l'indiquez aux joueurs qui la demandent (voir Plan du Jeu). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
-Si l'on vous pose des questions sur les recettes des **potions intermédiaires** nécessaires à ce cocktail, vous indiquez que vous aviez marqué la présence de certaines d'entre elles, dans l'étage autorisé, avec des flèches blanches tracées au sol, grâce à une peinture phosphorescente trouvée sur place.** {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %}
+Si l'on vous pose des questions sur les recettes des **potions intermédiaires** nécessaires à ce cocktail, vous indiquez que vous aviez marqué la présence de certaines d'entre elles, dans l'étage autorisé, avec des **flèches blanches tracées au sol**, grâce à une peinture phosphorescente trouvée sur place. {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %} {% fact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 
-Dans le temps, vous aviez entendu plusieurs fois les Maupertuis parler d'un **"Livre Yodique des Morts"**, le **{% symbol "Thanatologue" for "book_of_the_dead" %}**, qui serait l'un des grimoires les plus dangereux de la bibliothèque. Il était gardé dans un coffre du domaine interdit, verrouillé par **deux codes secrets**, chacun gardé par l'un des parents Maupertuis. {% fact "archivist_knows_about_thanatologue_location_and_double_code" %} {% hint 'family_legendary_chest_protected_by_double_code' is needed %}
-
-Lors d'une de vos brèves incarnations de fantôme, il y a très longtemps de cela, vous avez vu passer un **individu louche** dans la bibliothèque. Il se dirigeait vers le domaine interdit. Vous ne savez pas ce qu'il est advenu de lui.  {% fact "archivist_saw_thief_exploring_the_library" %}
+Lors d'une de vos brèves incarnations de fantôme, il y a très longtemps de cela, vous avez vu passer un **individu louche** dans la bibliothèque. Il se dirigeait vers le domaine interdit. Vous ne savez pas ce qu'il est advenu de lui. {% fact "archivist_saw_thief_exploring_the_library" %}
