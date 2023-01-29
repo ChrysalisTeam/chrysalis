@@ -1187,7 +1187,9 @@ L'arkonte Zarathoustra serait à l'origine de cet envoutement planétaire très 
 
 Sur Pangéa, toute personne qui jure quelque chose **"Par le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}"** est tenu par les Cieux de respecter son engagement, quelles que soient ses propres croyances.
 
-Concrètement, tout parjure sera rapidement sanctionné par un douloureux châtiment, allant de l'infirmité à la mort, selon la gravité du mensonge. Si certains jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risque à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand-chose.
+Concrètement, tout parjure sera rapidement sanctionné par un douloureux châtiment, allant de l'infirmité à la mort, selon la gravité du mensonge. Plus encore, les forces du destin se combineraient pour réaliser la promesse trahie, à la place de son auteur. Ainsi, lorsqu'un chevalier oriental jura par Zarathoustra qu'il détruirait un puits maléfique, mais revint sur sa promesse, la légende raconte que non seulement il perdit un bras lors de la bataille suivante, mais aussi que des boeufs sortirent de leur chemin pour démanteler le puits eux-mêmes.
+
+Si certaines personnes jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risquerait à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand-chose.
 
 Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités d'outre-monde s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
