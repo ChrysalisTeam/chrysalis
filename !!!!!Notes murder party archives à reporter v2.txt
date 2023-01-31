@@ -21,7 +21,7 @@ IMPORTANT pour DIACRES : bien clamer les formules rituelles, que tout le monde e
 
 Préciser répartition des gemmes et pièces d'or, et les rendre utiles  l'alchimie
 
-- nouvelle quete, détruire la bibliothèque ?
+- nouvelle quete, détruire la bibliothèque ? à ajouter PLANNING GLOBAL
 
 - l'inventeur veut confier à bon bricoleur ses automates  DONE
 
@@ -34,6 +34,12 @@ PROPHETIE DE CASSANDRA   à enregistrer en audio
 PAS besoin des lebels d'étageres dans l'etage interdit ?? no idea
 
 Pouvoir refabriquer balles et explosifs simplement ??
+
+Ajouter quelques chromocryptographes
+
+
+Passer en revue last minute hints
+
 
 
 URLS IMPORTANTES
