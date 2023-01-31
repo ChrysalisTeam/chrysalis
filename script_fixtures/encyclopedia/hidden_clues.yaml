@@ -133,7 +133,7 @@ static_pages:
 
 
     three_tombs_analysis:
-        title: "Analyses des 3 tombes du cimetière"
+        title: "Analyse des 3 tombes du cimetière"
         categories: ["analyse"]
         clue_code: "ltx"
         keywords: []
@@ -142,10 +142,10 @@ static_pages:
 
             La première et la deuxième ont à leur surface des cendres humaines, ayant appartenu à 2 individus morts à cette époque.
 
-            La troisième supporte un squelette sans crâne, dont les os sont rongés par des traces de contusions, de brûlures et d'érosions acides.
+            La troisième supporte un squelette sans crâne, dont les os sont couverts de traces de contusions, de brûlures et d'érosions acides.
 
     androids_command_bracelet:
-        title: "Analyses du bracelet Dominion"
+        title: "Analyse du bracelet Dominion"
         categories: ["analyse"]
         clue_code: "fzk"
         keywords: []
@@ -193,16 +193,16 @@ static_pages:
             Ce parchemin de la guilde des voleurs cache un double message magnétique, l'un facilement accessible
             et sans signification, l'autre enfoui plus profondément dans le papier.
 
-            Par corrélation des signaux faibles, vous identifiez un nombre ainsi dissimulé : **1 5 9**
+            Par corrélation des signaux faibles, vous identifiez un code ainsi dissimulé : **1 5 9**
 
     scary_lenticular_painting_analysis:
-        title: "Analyse du portrait lenticulaire effrayant de jeune fille"
+        title: "Analyse des portraits lenticulaires effrayant"
         categories: ["analyse"]
         clue_code: "vpx"
         keywords: []
         content: |
 
-            Ce portrait change de visage selon l'angle sous lequel on le regarde. Et sous certains angles très subtils,
-            des messages en vieille langue régionale apparaissent.
+            Ces tableaux changent de visage selon l'angle sous lequel on les regarde. 
+            Et sous certains angles très subtils, des bouts de message en vieille langue régionale apparaissent.
 
-            Traduction approximative : **"Méfie-toi, ô ambitieux initié, les colliers éthériques sont puissants, très puissants, trop puissants, et ils peuvent sur le long terme corrompre l'ego même du plus sage des humains. Mais à court terme, cela est sûr, ils te feront toucher du doigt l'invincibilité et l'éternité."**
+            Traduction approximative : **"Méfie-toi, ô ambitieux initié, les colliers éthériques sont puissants, très puissants, trop puissants, et ils peuvent sur le long terme corrompre l'ego même du plus sage des humains. Mais à court terme, cela est sûr, ils te feront toucher du doigt l'invincibilité."**
