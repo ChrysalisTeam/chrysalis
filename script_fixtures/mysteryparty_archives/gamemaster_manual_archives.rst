@@ -567,13 +567,13 @@ Les agressions qu'un aventurier malchanceux est susceptible de subir se classent
 
 Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, ou autres, mais aussi blessures résultant d'objets envoûtés par des malédictions...) doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : **biologique**. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.  {% fact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
 
-En revanche, les attaques sacrées, typiquement issues de contacts avec des fantômes, causent des blessures de nature **spirituelle**. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité, membre inutilisable...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions aussi peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction. {% fact "potions_cannot_heal_spiritual_injuries" %}
+En revanche, les attaques sacrées, typiquement issues de contacts avec des fantômes ou démons, causent des blessures de nature **spirituelle**. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité, membre inutilisable...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions aussi peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction. {% fact "potions_cannot_heal_spiritual_injuries" %}
 
 La distinction entre ces différents types de blessures n'est pas toujours évidente ; par exemple, la paralysie d'un membre peut être due à des lésions internes tout comme à l'attaque d'un spectre. D'où la nécessité d'investiguer les circonstances ayant mené aux troubles constatés, afin de fournir un remède approprié.
 
 Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "spirituelles" fragilisent les fondements de l'âme.
 
-**Subir deux blessures d'affilée, de quelques natures que ce soit, mène presque certainement à la mort.** {% fact "second_injury_sustained_is_always_fatal" %}
+**Subir deux blessures d'affilée, de quelques natures que ce soit, mène donc presque certainement à la mort.** {% fact "second_injury_sustained_is_always_fatal" %}
 
 {% endmacro %}
 <{ injury_types_knowledge }/>
@@ -1269,7 +1269,7 @@ Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dy
 
 **{% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}** (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : maladies, poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
 
-**{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}** (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...). En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas évités par ce collier.
+**{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}** (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...) et aux envoûtements maléfiques d'objets. En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, de démons...) ne sont pas évités par ce collier. {% fact "etheric_manaic_aura_protects_from_magic_and_cursed_objects_too" %}
 
 **{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}** (formé d'anneaux de Mithril avanat d'être fondu dans l'armure de l'arkonte) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrêmement lourd. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
 

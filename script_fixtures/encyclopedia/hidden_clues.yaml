@@ -10,7 +10,8 @@ static_pages:
 
             Cette clochette est porteuse d'une magie très étrange, presque divine, que vous n'êtes pas capable d'altérer.
 
-            Elle semble dédiée à agir comme un signal de rappel pour les entités du monde des morts qui seraient dans les parages. Un signal assez fort pour les faires passer en errance spectrale, si par hasard ils étaient actuellement incarnés.
+            Elle semble dédiée à agir comme un signal de rappel pour les entités du monde des morts qui seraient dans les parages. 
+            Un signal assez fort pour les faire passer en errance spectrale, si par hasard ils étaient actuellement incarnés.
 
             Vous ne pouvez dire si elle est actuellement chargée ou déchargée.
 
@@ -22,7 +23,7 @@ static_pages:
         keywords: []
         content: |
 
-            Cette porte est saturée de sortilèges, qui ont visiblement été placés dessus au fil de plusieurs générations.
+            Cette porte blindée est saturée de sortilèges, qui ont visiblement été placés dessus au fil de plusieurs générations.
 
             Envoûtements reconnaissables :
 
@@ -74,7 +75,7 @@ static_pages:
 
             Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : maladies, poisons solides ou liquides, vapeurs toxiques...
 
-            En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
+            En contrepartie, la personne le portant ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
 
     etheric_manaic_aura_necklace:
         title: "Collier éthérique d'aura manaïque (quartz avec collier fin doré)"
@@ -85,13 +86,13 @@ static_pages:
 
             Vous reconnaissez à son aura le légendaire **Collier éthérique d'aura manaïque**.
 
-            Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...).
+            Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...)  et aux envoûtements maléfiques d'objets.
 
             En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte.
 
-            Les dommages de type "sacré" (blessures de fantômes, malédictions...) ne sont pas évités par ce collier.
+            Les dommages de type "sacré" (attaques de fantômes, de démons...) ne sont pas évités par ce collier.
 
-    etheric_benediction_necklace:
+    etheric_benediction_necklace:  # DONE
         title: "Collier éthérique de bénédiction (armure de l'arkonte)"
         categories: ["magie"]
         clue_code: "bst"
@@ -100,9 +101,11 @@ static_pages:
 
             Vous reconnaissez à son aura le légendaire **Collier éthérique de bénédiction**, visiblement incorporé dans cette armure en Mithril.
 
-            Celui qui garde sur lui cet artefact devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions.
+            Celui qui garde sur lui cet artefact devient entièrement impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes ou démons.
 
             En contrepartie, cela lui demande une grande force physique car ce collier est extrêmement lourd.
+            
+            Cette armure protège aussi des attaques physiques ou magiques normale, mais uniquement celles portées au torse.
 
     ring_amplificans:
         title: "Bague Amplificans (énorme bague transparente)"
