@@ -22,6 +22,7 @@ Vous pouvez aussi déclencher des révélations en touchant des objets au passé
 
 Vous avez toujours rêvé de croiser une **licorne de nacre, ou une fontaine d'encens, ou un trèfle à cinq feuilles**. De telles rencontres signifient la survenue de prophéties particulièrement vives, venues des tréfonds du monde invisible ; pour peu, du moins, que le voyant sache activer de tels artefacts, qui perdront leur pouvoir sitôt leur rôle rempli. L'alchimiste de votre groupe peut aider à ce sujet. {% fact "incense_fountain_can_deliver_powerful_prophecy" %} {% hint "incense_fountain" is needed %} {% fact "parcival_alchemist_can_create_incense_cone" %}
 
+TO UPDATE
 
 Les révélations de type "visuel"
 +++++++++++++++++++++++++++++++++
