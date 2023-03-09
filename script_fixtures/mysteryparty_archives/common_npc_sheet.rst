@@ -49,7 +49,10 @@ Conseils pour les figurants
 Rappel du principe fondamental
 ++++++++++++++++++++++++++++++++++++++++
 
-Il faut rester concentré sur ce point : les mondes des fantômes et des avatars sont hermétiquement séparés. Les avatars ne peuvent pas voir/entendre/sentir les fantômes (ni la Bête) ; et vice-versa. En revanche, tous peuvent voir/entendre les vivants et les automates (ces derniers ne peuvent pas voir les fantômes), ainsi que l'Ankou (qui est du monde "divin"). {% fact "phantom_and_avatar_worlds_are_disjoint" %}
+Il faut rester concentré sur ce point : les mondes des fantômes et des avatars sont hermétiquement séparés. Les avatars ne peuvent pas voir/entendre/sentir les fantômes (ni la Bête) ; et vice-versa. En revanche, tous peuvent voir/entendre les vivants et les automates (ces derniers ne peuvent pas voir les fantômes) ; et tous peuvent voir/entendre l'Ankou (qui est du monde "divin"), ainsi que le Djinn renégat (maître de jeu) qui a été matérialisé par les diacres. {% fact "phantom_and_avatar_worlds_are_disjoint" %}
+
+Les fantômes sont reconnaissables à leur tunique pourpre, les automates à leurs **rubans de dentelle blanche** ; les avatars n'ont pas de signe distinctif particulier, juste un costume conforme à leur personnage de roman.
+
 
 Orienter les joueurs vers les bons interlocuteurs
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -68,13 +71,17 @@ Orienter les joueurs vers les bons interlocuteurs
 Tous les figurants ont une histoire, et un passif vis-à-vis des autres figurants, il faut en tenir compte lors de chaque interaction.
 
 - Lorsque les avatars se retrouvent pour le banquet : plaisir, échange de "nouvelles" peu surprenantes (car leurs univers romanesques évoluent très peu)
-- Lorsque les avatars ou fantômes croisent les joueurs : selon leur passif, ils manifestent surprise, méfiance, espérance d'avoir là une solution à la malédiction de la bibliothèque ; Aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans ce monde des vivants.
+- Lorsque les avatars ou fantômes croisent les joueurs : selon leur passif, ils manifestent surprise, méfiance, espérance d'avoir là une solution à la malédiction de la bibliothèque. Aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans ce monde des vivants.
 - Les fantômes qui ne sont pas conscients de leur dangerosité peuvent être tentés de donner une **accolade** aux joueurs (ex. Octave envers ses lointains héritiers Parcival). {% fact "parcival_family_is_heir_of_maupertuis" %} À charge pour les joueurs de les éviter, sans cela il y aura des blessures, et un grand désarroi parmi les fantômes "agresseurs involontaires".
+- Les avatars et fantômes sont soulagés de se "retrouver" mutuellement par l'intermédiaire des joueurs ; ils se questionnent alors, indirectement encore, sur ce qui s'est passé il y a 500 ans lors du drame.
 - Lorsqu'Octave et l'archiviste se retrouvent : effusions de joie, questionnements mutuels sur le "pourquoi" de la situation
 - Lorsqu'Octave et l'archiviste retrouvent l'arkonte : surprise, méfiance, questionnements accusateurs
 - Lorsqu'Octave et l'archiviste voient la Bête : surprise, tentative de l'amadouer au nom des Maupertuis
+- Les avatars sont désemparés en essayant de protéger les joueurs des dangers "invisibles" comme la Bête
 - Lorsque les avatars ou fantômes croisent le voleur : surprise, indignation, condamnation (lui reste moqueur)
 - Lorsque les avatars ou fantômes croisent l'Ankou : respect, espérance, questions sur les défunts Maupertuis ; les fantômes l'ont déjà croisé quelques fois
+- Ne pas hésiter à solliciter les joueurs, les questionner, s'ils sont peu proactifs vis-à-vis des figurants.
+- Avatars ou fantômes, l'on veut vous faire jurer quelque chose "par Zarathoustra", vous pouvez dire ce que vous voulez, et même vous moquer des joueurs, car ce serment ne s'applique pas à vous, vous ne risquez rien en parjurant avec.
 
 
 Improviser des anecdotes, débats, et bogues

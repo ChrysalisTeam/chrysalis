@@ -285,7 +285,7 @@
 -
   - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac) [P7]"
   -
-    - "@EXTERNE Affichette de présence de radiations et vapeurs toxiques"
+    - "@EXTERNE Affichette de présence de Rayonnements Ionisants"
     - "Valisettes ovales rougeâtres imbriquées [un automate doit pouvoir prendre celle intérieure] IMPORTANT"
     - "@EXTERNE La valisette ovale rougeâtre intérieure est protégée par un CADENAS CROCHETABLE TRANSPARENT IMPORTANT"
     - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"

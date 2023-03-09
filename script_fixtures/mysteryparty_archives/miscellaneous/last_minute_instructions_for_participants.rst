@@ -7,36 +7,22 @@ COMPLEMENTS DE BRIEFING POUR LES PARTICIPANTS
 INSTRUCTIONS COMPLEMENTAIRES DES JOUEURS (déjà envoyées par email) :
 
 - C'est le moment ou jamais de relire en détail votre fiche de personnage ; si vous ne savez pas clairement qui vous êtes, ce que vous venez faire dans la bibliothèque, et vos différentes compétences spéciales, cela va énormément vous handicaper durant le jeu  ^^
-- Si vous êtes touché par un ennemi ou un piège, vous devez vous arrêter, si possible vous mettre au sol, et appeler à l'aide en simulant que vous êtes blessé.
-- On ne touche pas aux objets qui sont dans des sacs en toile entièrement noirs, ou attachés avec du scotch noir ; et on évite de déplacer les objets qui ne nous concernent pas ; mieux vaut les laisser sur place et les signaler aux autres joueurs.
-- Les petits trésors (pièces, diamants...) peuvent être utiles à collecter
-- Si un évènement notable survient (un piège est déclenché, un sceau magique a été activé, une énigme de grimoire a été résolue), faire appel au maître de jeu pour savoir ce qui se passe réellement.
-- Les obstacles faits de cordelette épaisse sont infranchissables, tant que le maître de jeu ne les a pas enlevés (souvent suite à une action des joueurs comme un déminage ou un sortilège).
-- Attention aux éclairages (guirlandes de LEDs, diodes, bougies) qui peuvent se trouver au sol, on évite de marcher dessus.
-- Lorsque vous avez utilisé pour de bon un objet - par exemple une clé ou un bijou - SVP mettez-le dans le seau argenté sur la table du buffet, ça nous évitera de le perdre d'ici la fin du jeu.
-- Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des étoiles autocollantes sur des objets du jeu, ou bien des plumes colorées.
+- Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des étoiles
+autocollantes sur des objets du jeu, ou bien des plumes colorées.
 - Vous allez aussi croiser différents personnages figurants ; prenez là aussi le temps de les découvrir, de discuter avec eux, peut-être que vous pouvez les aider, peut-être aussi qu'ils peuvent vous aider dans vos recherches !
 - Enfin, vous allez croiser des fantômes errants, faites attention, ils sont très dangereux ; ils peuvent vous blesser ou bien pire ; et que faites-vous si vous êtes blessé, déjà ? Oui, vous ne bougez plus et vous appelez à l'aide.
-- Pour le joueur ayant des DYNAMITES : celles-ci ne peuvent être utilisées que sur des "éboulis"  :)
 
 
 INSTALLATION DU DECOR :
 
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
-- Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme ça en guirlandes LED
-- Bien ajouter un écriteau RAYONNEMENTS IONISANTS devant le corridor de Peau de Pierre (avec les valisettes ovales imbriquées)
+- Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
 
 
 FIGURANTS :
 
 - Rappel : la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans, et les automates (autrefois conçus par l'inventeur et Octave) vaquent à leurs occupations pour organiser cette fête, même si depuis tous ces siècles, sa raison d'être a beaucoup disparu.
-- Rappel : les avatars/automates et les fantômes ne peuvent interagir ensemble QUE par l'entremise des joueurs, ces 2 mondes ne se voient et s'entendent pas.
-- Lors de la première rencontre avec les joueurs, une des premières questions à leur poser, c'est : en quelle année sommes-nous ?
-- Ne pas hésiter à solliciter les joueurs, les questionner, s'ils sont peu proactifs vis-à-vis des figurants.
-- Au début du jeu, après le soulagement de leurs "retrouvailles" indirectes, avatars comme fantômes se demandent mutuellement ce qu'il s'est passé il y a 500 ans lors du drame
-- Les avatars sont désemparés en essayant de protéger les joueurs des dangers "invisibles" comme la Bête
-- Si on veut vous faire jurer quelque chose "par Zarathoustra", vous pouvez dire ce que vous voulez, et même vous moquer des joueurs, car ce serment ne s'applique pas à vous (avatars ou fantômes), vous ne risquez rien en parjurant avec.
-- Les fantômes sont reconnaissables à leur tunique pourpre, les automates à leurs **rubans de dentelle blanche** ; les avatars n'ont pas de signe distinctif particulier
+
 - Les DISCOURS LONGS des figurants peuvent être soufflés dans l'oreille par une oreillette (sur lecteur MP3), avec 1-2 secondes d'avance sur la musique, pour éviter tout oubli ; vérifier que le son grave de piano est bien synchronisé, au lancement simultané des 2 bandes son (musique et voix)
 
 L'ANKOU :

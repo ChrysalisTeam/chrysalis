@@ -214,7 +214,7 @@ Les automates ne sont PAS soumis aux règles du “{% symbol "Serment de Zaratho
 Le monde divin
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Les entités faisant partie du “\ **divin**\ ” - actuellement uniquement le figurant l’Ankou - peuvent voir tout le monde et être vues de tous, et sont par défaut sans danger pour les différents personnages.
+Les entités faisant partie du “\ **divin**\ ” - le figurant **l’Ankou**, et le maître de jeu en **Djinn renégat** - peuvent voir tout le monde et être vues de tous, et sont par défaut sans danger pour les différents personnages.
 
 Ils sont également insensibles aux armes et aux sortilèges (dont la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}). {% fact "ankou_sees_all_and_is_harmless_for_all" %}
 
@@ -1209,9 +1209,7 @@ Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivant
 Divinités et mondes alternatifs
 =============================================
 
-Beaucoup de croyances coexistent sur Pangea, apparaissent et disparaissent. Actuellement, les principales divinités adorées sont les **Yods** (une infinité dans l'unité), **{% symbol "Bahamoot" for "god_of_diakons" %}** le dragon cosmique, et diverses Forces de la Nature.
-
-La rumeur court que nombre de dieux et déesses seraient en réalité les habitants d'univers fort lointains, ou juste d'autres strates de notre réalité. Par exemple, ce serait le cas pour les **Djinns**, des créatures inoffensives, érudites et invisibles, qui sont réparties sur toute la planète.
+Beaucoup de croyances coexistent sur Pangea, apparaissent et disparaissent. Actuellement, les principales divinités adorées sont les **Yods** (une infinité dans l'unité), **{% symbol "Bahamoot" for "god_of_diakons" %}** le dragon cosmique, et diverses Forces de la Nature. Parmi les divinités inférieures, on trouve l'Ankou, guide des morts ; ainsi que les **Djinns**, des êtres inoffensifs, érudits et invisibles, qui sont répartis sur toute la planète. La rumeur court que nombre de dieux et déesses, anges et démons, seraient en réalité juste les habitants d'univers fort lointains, ou d'autres strates de la réalité.
 
 .. raw:: pdf
 

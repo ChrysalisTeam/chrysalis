@@ -21,14 +21,13 @@ Distinction des objets en-jeu/hors-jeu (RP/HRP)
 - **La nourriture et les boissons du buffet sont hors-roleplay**, vous ne risquez donc rien à vous en délecter gaiement.
 - Certains papiers (documents du MJ, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels ; **en particulier, ne pas montrer sa feuille de personnage aux autres joueurs, même alliés**.
 - Lorsque des **meubles ou objets sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu. Similairement, lorsque des objets sont dans une **sacoche noire unie**, c'est qu'ils ne sont pas (encore) matérialisés dans le monde du jeu, il ne faut pas y toucher.
-- Du **scotch noir** peut aussi être utilisé pour désigner des objets soudés ensemble, ou scellés, ou attachés au sol ; cet état de fait doit être respecté, sauf compétences particulières qui permettent d'altérer ces objets.
-- De la **cordelette épaisse de chanvre** peut servir à matérialiser les passages bloqués, soit à cause d'un mur infranchissable, soit d'un sortilège qui doit être dissipé.
+- Du **scotch noir** peut aussi être utilisé pour désigner des objets soudés ensemble, ou scellés, ou attachés au sol ; dans ce cas, ne pas les déplacer, sauf compétences particulières qui permettent d'altérer ces objets.
+- De la **cordelette épaisse de chanvre** peut servir à matérialiser les passages bloqués, soit à cause d'un mur infranchissable, soit d'un sortilège qui doit d'abord être dissipé.
 - Des marqueurs tels **des étoiles autocollantes, plumes colorées, ou perles plates en verre** peuvent être utilisés pour désigner des points d'action, ou pour annoter des objets du jeu. **Ne les enlevez pas.** Si vous ne connaissez pas leur signification, vous ne pouvez pas les décrire à un autre joueur (car ces marqueurs sont hors-jeu), mais vous pouvez lui demander de *"jeter un oeil, car cette objet vous semble étrange/piégé/magique"*. Les méthodes de déchiffrement de ces marqueurs ne peuvent pas être transmises entre joueurs, car elles représentent des compétences longues à acquérir dans l'univers du jeu. En revanche, ignorez toutes les **pastilles rondes colorées**, car elles servent uniquement au rangement des objets.
 - Les livres modernes sont à considérer comme des grimoires écrits dans des langues que vous ne pouvez comprendre.
 - Les objets contemporains (lampes LED...) sont traités comme leurs équivalents dans un monde rétrofuturiste "steampunk", ou ignorés s'ils sont high-tech (ordinateurs...). Les systèmes modernes de sonorisation et d'éclairage d'ambiance sont hors-jeu et à ignorer.
 - En cas de doute sur ce qui est en jeu ou non, demander au MJ ou aux figurants.
 - si un participant (joueur ou figurant) traverse la salle avec le **poing levé**, c'est qu'il est hors-jeu, ignorez-le.
-
 
 Compétences, objets et pièges
 +++++++++++++++++++++++++++++++++++++
@@ -40,14 +39,18 @@ Compétences, objets et pièges
 
 - Les coffrets et valises qui sont posés sur le sol ou sur une table sont considérés **inamovibles**, il ne faut pas les bouger, et encore moins les secouer pour jauger ce qu'ils contiennent (risque d'objets ou mécanismes fragiles, là encore) ; les petits coffrets et boites placés dans d'autres rangements peuvent, eux, être déplacés avec précaution.
 
-- Afin de s'assurer d'une bonne répartition de l'information parmi les joueurs, et éviter de perdre des objets, il vous est demandé de **ne pas prendre les objets dont vous n'avez pas l'utilité immédiate** ; par exemple les livres, les artefacts, les potions, les clefs disposés dans les lieux. Ainsi, les autres joueurs peuvent les lire/analyser aussi, et participer à la résolution des énigmes (c'est un jeu avant tout **coopératif**). En revanche, lorsque vous trouvez un objet utile à vos compétences spéciales ou à la progression des quêtes, vous pouvez l'emporter, mais prenez soin de bien **informer les autres** de ce que vous possédez, et des nouvelles capacités que cela vous offre. Les richesses (pièces, diamants...) peuvent être emportées librement.
+- Afin de s'assurer d'une bonne répartition de l'information parmi les joueurs, et éviter de perdre des objets, il vous est demandé de **ne pas prendre les objets dont vous n'avez pas l'utilité immédiate** ; par exemple les livres, les artefacts, les potions, les clefs disposés dans les lieux. Ainsi, les autres joueurs peuvent les étudier aussi, et participer à la résolution des énigmes (c'est un jeu avant tout **coopératif**). En revanche, lorsque vous trouvez un objet utile à vos compétences spéciales ou à la progression des quêtes, vous pouvez l'emporter, mais prenez soin de bien **informer les autres** de ce que vous possédez, et des nouvelles capacités que cela vous offre. Les richesses (pièces de monnaie, diamants...) peuvent être emportées librement.
 
 - Les objets du jeu sont parfois **fragiles**, on ne les secoue pas et on ne force pas dessus, en particulier s'ils sont équipés d'un système de verrouillage. Ils nécessitent alors soit d'avoir des compétences spéciales pour les ouvrir (ex. systèmes magnétiques), soit de trouver, selon les cas :
 
   - **Leur clef en métal (s'ils s'agit d'une serrure ou d'un cadenas à clef)**
   - **Leur code secret (s'il s'agit de molettes à chiffres)**
 
+- Lorsque vous avez utilisé pour de bon un objet - par exemple une clé de cadenas ou un elixir - SVP mettez-le dans le **seau argenté** sur la table du buffet, cela nous évitera de le perdre d'ici la fin du jeu.
+
 - Les (fausses) bougies et autres sources de lumière "en-jeu" peuvent être déplacées, sauf si elles sont marquées comme ancrées au sol avec du **scotch noir**.
+
+- Attention aux éclairages (guirlandes de LEDs, diodes, bougies) qui peuvent se trouver au sol, ne pas marcher dessus.
 
 - Les **pièges** sont toujours repérables visuellement, ou alors annoncés par différents indices tels que les **marqueurs hors-jeu**. Vous ne serez pas pénalisé pour avoir ouvert un livre quelconque, ou prononcé un mot anodin. En revanche, si vous marchez sur un pentacle ou prononcez des incantations trouvées sans les comprendre, gare.
 
@@ -55,9 +58,9 @@ Compétences, objets et pièges
 Blessures et morts fictifs, "en jeu"
 ++++++++++++++++++++++++++++++++++++++
 
-Il est possible que votre personnage soit **blessé** durant le jeu, auquel cas vous devrez simuler du mieux possible les malus que le maître de jeu vous donnera.
+Il peut arriver que votre personnage soit **blessé** durant le jeu. Vous devez alors vous arrêter, si possible vous mettre au sol, et appeler à l'aide. Le maître de jeu vous donnera alors le malus que vous subissez.
 
-Si vous déclenchez un **son de cigale**, ou faites sonner des **grelots**, cela peut signifier un piège, faites alors appel au maître de jeu pour savoir quoi faire. {% fact "cicada_or_minibell_sound_mean_injury" %}
+Si vous déclenchez un **son de cigale**, ou faites sonner des **grelots**, cela signifie probablement un piège, faites alors appel au maître de jeu pour savoir quoi faire. {% fact "cicada_or_minibell_sound_mean_injury" %}
 
 Il peut aussi arriver, plus rarement, que votre personnage soit **tué**. Mais pas de panique, cela ne signifie pas la fin de la partie pour vous, car dans l'univers de ce jeu, le monde des morts offre lui aussi des possibilités de contribuer à l'intrigue.
 
