@@ -25,7 +25,9 @@ Préciser répartition des gemmes et pièces d'or, et les rendre utiles  l'alchi
 
 - l'inventeur veut confier à bon bricoleur ses automates  DONE
 
-mettre des codes d'analyse magique sur les portraits horrifiques
+mettre des codes d'analyse magique sur les portraits horrifiques DIVERS
+
+mettre code d'analyse sur GLAIVE ARKONTE
 
 normaliser "Arkonte" ?
 
@@ -671,7 +673,23 @@ Il faut être capable de finir le rituel de renvoi sans êttre atteint par les a
 Si un de ces envoûtements est manquant, le druide, en tenant différentes tactiques (sauf les spectres sur lesquels il n'a aucune prise)
 
 
+Améliorations du scénario (côté CLIVRA)
+    amender les règles pour empêcher les joueurs de prendre les objets qui ne les concernent pas (évite de perdre des objets ou de ruiner le jeu d'autres persos)
+    revoir les prophéties d'Oracles pour qu'elles soient plus percutantes, tout en restant non-vitales pour la progression (+ ajouter une prophétie directement à la fin du speech d'intro)
+    ajuster le chemin de quête des Parcival quant aux recettes et ingrédients de potions à trouver
+    rendre les fantômes plus effrayants en insistant sur leur dangerosité
+    montrer la dangerosité ET la nécessité de se rendre dans le tombeau du mage
+    ajuster les signalétiques de danger et d'ensorcèlement
+    simplifier les incantations des diacres
 
+
+
+BACKUP de l'intro des figurants
+Nous proposons des rôles de figurants assez différents selon les envies des participants, avec plus ou moins de scénario à apprendre, et plus ou moins de connaissance des secrets du jeu.
+- Les automates de service sont les rôles les plus simples, ils ne nécessitent quasiment aucun apprentissage, et permettent de profiter de la soirée mystère "en spectateur"
+- Les fantômes doivent apprendre un recueil d'informations sur l'univers du jeu, et ont quelques actions "scriptées", mais le reste du temps ils peuvent mener l'enquête avec les joueurs, sans connaitre le fond de l'affaire
+- Les avatars ont des rôles plus complexes, et aident plus activement le bon déroulement de l'intrigue, en connaissant déjà certains secrets
+- Les figurants multiples sont de préférences des gens un peu expérimentés en jeu de rôle, et vont changer de personnage au gré des évènements
 
 
 
