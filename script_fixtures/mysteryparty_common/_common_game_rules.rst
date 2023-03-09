@@ -45,7 +45,7 @@ Si vous vous sentez à l'aise, vous pouvez aussi travailler plus profondément v
 Sécurité physique et émotionnelle
 +++++++++++++++++++++++++++++++++++++
 
-- En tant que joueurs, on évite tout **contact physique** hormis les mains (et les baisemains), sauf consentement préalable entre participants (ex. pour réaliser une scène d'empoignade) ; en période de pandémie, les contacts physiques sont encore plus à éviter.
+- En tant que joueurs, on évite tout **contact physique** hormis les mains (et les baisemains), sauf consentement préalable entre participants (ex. pour réaliser une scène d'empoignade). En période de pandémie, les contacts physiques sont encore plus à éviter.
 - On ne vise jamais la **tête** des participants avec un projectile, uniquement le torse et les membres.
 - On ne court pas dans les escaliers ; aucun ennemi ne vous y rattrapera, donc on se tient bien à la rambarde et on s'y déplace tranquillement ; même prudence à proximité des balustrades.
 - L'univers du jeu est plutôt léger, envoutant, courtois ; donc on évite les **situations sordides** comme la torture, le viol, l'inceste, etc.

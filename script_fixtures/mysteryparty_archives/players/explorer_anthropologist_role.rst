@@ -19,7 +19,7 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 
   Ce titre atteste de votre résistance aux épreuves du feu, de l'eau, de la terre et du ciel. Il vous permet de réaliser des sacrifices rituels en l'honneur du Grand Sage, de préparer le Kahflu des cérémonies (jus de tubercules alcoolisé des banquet), et de lire la parole des esprits dans les galets des rivières.
 
-- **Arkonte yodique** (salutation : *"J'implore que les yods vous éclairent"* ; réponse : *"Que je sois pour vous leur miroir"*)
+- **Arkonte yodique** (salutation : *"J'implore que les Yods vous éclairent"* ; réponse : *"Que je sois pour vous leur miroir"*)
 
   Ce titre correspond à une forme de "chevalerie bénie par les dieux" parmi les fidèles de cette religion ; il vous engage à la droiture morale, à la persévérance et au discernement dans vos actions  ; il vous permet de commenter les textes saints de la religion yodique, de siéger aux conseils ordinaires des arkontes, et de recevoir la **{% symbol "confession de mission" for "arkon_mission_confession" %}** d'un confrère arkonte (pour cela, il se met à genoux devant vous, et vous gardez une main imposée en l'air au dessus de sa tête). {% fact "arkon_means_blessed_knight" %} Vous n'êtes pas peu fier de ce titre, qui vous place dans la lignée de personnages légendaires et pourtant réels comme Zarathoustra, ou {% symbol "Valerias" for "arkon_name" %}.
 

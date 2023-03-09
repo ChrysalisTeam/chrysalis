@@ -1206,6 +1206,13 @@ Si certaines personnes jouent encore les sceptiques à ce sujet, dans les faits 
 Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités d'outre-monde s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 
+Divinités et mondes alternatifs
+=============================================
+
+Beaucoup de croyances coexistent sur Pangea, apparaissent et disparaissent. Actuellement, les principales divinités adorées sont les **Yods** (une infinité dans l'unité), **{% symbol "Bahamoot" for "god_of_diakons" %}** le dragon cosmique, et diverses Forces de la Nature.
+
+La rumeur court que nombre de dieux et déesses seraient en réalité les habitants d'univers fort lointains, ou juste d'autres strates de notre réalité. Par exemple, ce serait le cas pour les **Djinns**, des créatures inoffensives, érudites et invisibles, qui sont réparties sur toute la planète.
+
 .. raw:: pdf
 
    PageBreak
