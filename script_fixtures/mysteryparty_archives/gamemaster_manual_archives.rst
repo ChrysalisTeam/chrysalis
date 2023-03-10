@@ -401,6 +401,8 @@ Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 
 - Il monnaie chèrement ses informations sur les lieux aux autres explorateurs de cette bibliothèque, contre de l’or et des pierreries.
 
+- Il doit de préférence être ancré à proximité de la niche de la Bête.
+
 {% endmacro %}
 <{ phantom_thief_character_summary }/>
 
@@ -1331,7 +1333,7 @@ Il devait tout bientôt passer son **initiation appelée "adoubement"**, une cé
 
 Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvée sur place. {% fact "octave_carried_mother_jewel_after_her_death" %} {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
 
-Dans leur enfance, Octave et sa soeur jouaient à se créer des jeux de piste - et autres énigmes - l'un pour l'autre. Mérédice en avait créé un spécialement espiègle pour le futur adoubement d'Octave, en lui subtilisant sa tirelire remplie d'économies. Et elle avait placé la dernière énigme menant à ce trésor dans la **{% symbol "Boîte à Murmure" for "whispering_box" %} présente au fond d'un coffre de bois.** {% hint "whispering_box_with_children_enigma_in_common_brown_chest" is needed %} ; les membres de la famille utilisaient cette boite magique pour se laisser des messages, qu'ils écoutaient en posant le doigt dessus. {# Les joueurs doivent utiliser un stéthoscope pour lire ces messages #} Octave n'a jamais pu retrouver sa tirelire, probablement parce qu'elle était cachée dans le domaine interdit. {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
+Dans leur enfance, Octave et sa soeur jouaient à se créer des jeux de piste - et autres énigmes - l'un pour l'autre. Mérédice en avait créé un spécialement espiègle pour le futur adoubement d'Octave, en lui subtilisant sa tirelire remplie d'économies. Et elle avait placé la dernière énigme menant à ce petit trésor dans la **{% symbol "Boîte à Murmure" for "whispering_box" %} présente au fond d'un coffre de bois.** {% hint "whispering_box_with_children_enigma_in_common_brown_chest" is needed %} ; les membres de la famille utilisaient cette boite magique pour se laisser des messages, qu'ils écoutaient en posant le doigt dessus. {# Les joueurs doivent utiliser un stéthoscope pour lire ces messages #} Octave n'a jamais pu retrouver sa tirelire, probablement parce qu'elle était cachée dans le domaine interdit. {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
 
 
 La {% symbol "Clochette Spectrale" for "table_bell_name" %} et la {% symbol "frénésie spectrale" for "phantom_frenzy_name" %}

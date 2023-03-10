@@ -47,29 +47,6 @@ autocollantes sur des objets du jeu, ou bien des plumes colorées.
 
 
 
-
-
-OCTAVE et ARCHIVISTE :
-
-
-- L'archiviste sait où est gardé le grimoire maudit appelé {% symbol "Thanatologue" for "book_of_the_dead" %}
-- Bien mémoriser la forme (faux-livre épais en bois marron) et la localisation approximative du {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}, qui murmure le code de la mallette administrative noire des Maupertuis
-
-- Pour la quête des Parcival :
-    - Bien mémoriser l'emplacement approximatif de la première recette de potion requise pour guérir la "dégénérescence marbrée".
-    - Puisque les balises électroniques dysfonctionnent, dites tout de suite aux Parcival que pour trouver les autres sous-potions de guérison, il faut s'aider des **flèches blanches** (en scotch) laissées au sol par les parents Maupertuis.
-    - Si l'on vous demande où trouver ces ingrédients, vous supposez qu'il s'agit de noms anciens ou de minéraux, et vous les renvoyez vers le druide pour savoir de quoi il s'agit exactement : **"arbre éternel", "gant-de-renard", "clairvoyant minéral", "aventurine", et "oeil-de-tigre"**.
-    - Si des joueurs cherchent un chaudron enchanté anti-abrasion, les guider vers le chaudron en cuivre à anse portant des marques d'envoûtement(dans l'étage interdit)
-
-- Si des joueurs (probablement explorateurs héliossars) vous parlent du {% symbol "Thanatologue" for "book_of_the_dead" %}, vous savez qu'il ne pourrait être gardé que dans un coffre bien protégé de l'étage interdit.
-- Si des joueurs (probablement agents secrets mirandiens) évoquent un trésor des Maupertuis, vous savez que la famille disposait d'un artefact générateur de richesses, dans l'étage interdit.
-
-VOLEUR :
-
-- Bien avoir mémorisé les informations que tu es prêt à échanger contre de l'argent ; laisser tomber l'histoire de la "sacoche sans fond" si ça complique trop
-- Petit changement, le corridor de l'étage interdit est toxique DEPUIS TOUJOURS, pas à cause d'une lutte et de potions renversées durant la mort du voleur
-- Tu dois te trouver "ancré" pas trop loin la niche de la Bête, pour expliquer aux joueurs ce qu'elle est
-
 DRUIDE :
 
 - Répéter avec l'arkonte, AVANT le jeu, la chorégraphie exacte de la bataille finale

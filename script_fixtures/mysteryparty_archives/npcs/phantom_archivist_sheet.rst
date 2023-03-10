@@ -36,4 +36,6 @@ Vous vous souvenez très bien de la maladie de Mérédice de Maupertuis, et comm
 
 Si l'on vous pose des questions sur les recettes des **potions intermédiaires** nécessaires à ce cocktail, vous indiquez que vous aviez marqué la présence de certaines d'entre elles, dans l'étage autorisé, avec des **flèches blanches tracées au sol**, grâce à une peinture phosphorescente trouvée sur place. {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %} {% fact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 
+Si l'on vous demande où trouver ces ingrédients spécifiques, vous supposez qu'il s'agit de noms vieillots pour des herbes ou minéraux, et vous renvoyez les joueurs **vers le druide** pour savoir de quoi il s'agit exactement : **"arbre éternel", "gant-de-renard", "clairvoyant minéral", "aventurine", et "oeil-de-tigre"**.
+
 Lors d'une de vos brèves incarnations de fantôme, il y a très longtemps de cela, vous avez vu passer un **individu louche** dans la bibliothèque. Il se dirigeait vers le domaine interdit. Vous ne savez pas ce qu'il est advenu de lui. {% fact "archivist_saw_thief_exploring_the_library" %}
