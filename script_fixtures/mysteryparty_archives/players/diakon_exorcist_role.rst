@@ -85,8 +85,8 @@ D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spi
 <{ phantom_related_spells }/>
 
 
-Rupture globale de corridor outre-monde
------------------------------------------
+Rupture globale de corridor d'outre-monde
+------------------------------------------
 
 Vous êtes capable de couper les passerelles existant entre des mondes disjoints, tels les portails que certains sorciers ouvrent vers le monde des esprits, ou vers d'autres mondes parallèles. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
