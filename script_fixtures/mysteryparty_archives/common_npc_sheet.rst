@@ -117,23 +117,26 @@ Errance spectrale des fantômes
 +++++++++++++++++++++++++++++++++++
 
 Hormis la Bête, dans ce scénario, tout figurant fantôme est initialement ancré à une petite zone, qui fut le lieu de sa mort. {% fact "human_phantoms_are_initially_anchored" %}
-Lors de certains moments (sons diffusés par le MJ dans la bibliothèque, voire simplement attente trop longue sans interactions...), il passe en mode spectral, non incarné, et erre alors dans la bibliothèque (y compris dans le domaine interdit si celui-ci est ouvert).
-Cette errance en spectre arrive aussi pour un fantôme qui a été libéré de son ancrage, mais moins souvent. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+Il est alors en phase incarnée: il peut communiquer normalement, son visage est découvert, et ses gants lumineux éteints.
 
-L'errance se fait en marchant pas trop vite, visage voilé, bras tendus devant (si possible avec des gants lumineux), en inspirant/expirant de façon longue et rauque (pas de bruit "booo" trop cliché).
+Lorsque les **cloches** retentissent (ou bien la **clochette** de frénésie spectrale), le fantôme passe en mode spectral, non incarné, et peut errer dans la bibliothèque (y compris dans le domaine interdit si celui-ci est ouvert).
 
-La vitesse de déplacement peut être plus rapide pour un personnage ayant eu une vie lourde de péchés (ex. le voleur).
+Cette phase d'errance survient aussi pour un fantôme qui a été libéré de son ancrage, mais moins souvent. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+
+L'errance se fait en marchant pas trop vite, bras plus ou moins tendus devant soi, en inspirant/expirant de façon longue et rauque (pas de bruit "booo" trop cliché). le fantôme doit avoir le visage couvert avec le voile, et ses gants lumineux allumés.
+
+Le déplacement est plus rapide et agressif pour un personnage ayant eu une vie lourde de péchés (ex. le voleur).
 {% fact "phantoms_of_sinners_have_faster_specters" %}
 
-Pour être fair-play, un spectre doit **planifier** chacun de ses tours dans la bibliothèque à l'avance (en cercle, en huit, en passant dans certains cul-de-sac ou non), et ne pas démordre de ce trajet, même si les joueur se sont entretemps rassemblés à un autre endroit.
+Pour être fair-play, un spectre devrait planifier chacun de ses tours (en cercle, en huit, en passant dans certains culs-de-sac ou non), et ne pas trop démordre de ce trajet, même si les joueurs se sont entretemps rassemblés à un autre endroit.
 
-Seule exception : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélére le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% fact "phantoms_feel_humans_closer_than_3m" %}
+Exception : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélère le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% fact "phantoms_feel_humans_closer_than_3m" %}
 
-Un joueur touché par un spectre est blessé et doit appeler à l'aide, en restant au sol - le MJ lui indiquera son malus. Le fantôme se **désintéresse** ensuite du blessé, sauf si celui-ci tente de lui barrer la route.
+Un joueur touché par un spectre est blessé et doit appeler à l'aide, en restant au sol - le MJ lui indiquera son malus. Le fantôme se **désintéresse** ensuite du blessé.
 
-Note : un fantôme peut en certaines évènements prédéterminées être atteint de **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**, ce qui est un peu comme une errance mais avec des règles plus précises et une davantage de vélocité.
+Rappel : suite à certains évènements, un fantôme peut être atteint de **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**, ce qui est un peu comme une errance, mais avec des règles plus précises et davantage de vélocité.
 
-En tant que fantôme, y compris la Bête : Prêtez attention aux incantations de l'exorciste, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour éviter cet exorciste, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une balle sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes. Plus de détails ci-dessous.
+En tant que fantôme, y compris la Bête : Prêtez attention aux **incantations de l'exorciste**, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour éviter cet exorciste, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une balle sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes. Plus de détails ci-dessous.
 
 
 Les sorts d'exorcisme affectant les fantômes
