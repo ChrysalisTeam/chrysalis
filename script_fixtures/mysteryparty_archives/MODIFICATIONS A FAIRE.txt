@@ -10,6 +10,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
 
 
+
 Renommer bandes son oracle pour simplifier ??
 
 
@@ -40,9 +41,18 @@ Passer en revue les "???"
 
 
 
+
+
+
 ======================= TRASH ====================
 
 
+
+
+
+
+
+réordonner les prix du VOLEUR
 
 DONE : L'arkonte doit convaincre le voleur qu'il est mort. Des lors,
 celui ci continue à ne vouloir que de l'argent, car avec sa bourse magique, cela termmine dans le repaire de sa famille ?
