@@ -989,7 +989,7 @@ Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conse
 <{ explorer_group_main_quest }/>
 
 
-Neutraliser le méchant  
+Démasquer et neutraliser le méchant
 +++++++++++++++++++++++++++++++++++++
 
 {% macro quest_to_find_traitor_and_final_battle() %}
@@ -1020,7 +1020,10 @@ Plusieurs **oracles** sont aussi délivrés pour aiguiller les joueurs.
 Le druide nie initialement toutes les accusations, en traitant ses accusateurs de fous.
 {# LATER **IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} sans avoir résolu l’enquête de la mort des humains.** #}
 
-Mais lorsque ces différents indices probants sont exposés aux autres avatars, ils confrontent le druide. Celui-ci change alors de posture, assume son crime au nom du Salut de Pangéa, et rappelle qu'il est bien plus puissant que tous les participants rassemblés. Il exige donc de tous de l'aider à briser la malédiction de la bibliothèque, en échange de la vie sauve dans son futur Havre de Nature.
+Mais lorsque les différents indices probants sont exposés aux autres avatars, ceux-ci se rangent derrière les joueurs.
+Typiquement, la duchesse va alors aller confronter le druide, sur une musique intense. {% fact "duchess_immediately_confronts_traitor_when_exposed" %}
+
+Celui-ci change alors de posture, assume son crime au nom du Salut de Pangéa, et rappelle qu'il est bien plus puissant que tous les participants rassemblés. Il exige donc de tous de l'aider à briser la malédiction de la bibliothèque, en échange de la vie sauve dans son futur Havre de Nature.
 
 Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu’il a accès aux grimoires du domaine interdit, il finira bien par découvrir comment utiliser la magie de ce monde et briser la malédiction de la bibliothèque ; mais eux ont des missions urgentes à accomplir et doivent ressortir avant que les portails de transplanage ne se referment, d'ici quelques heures.
 
@@ -1058,7 +1061,7 @@ Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'e
 
 - En désespoir de cause, le druide va utiliser la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte (qui contient le {% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}), et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} À charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...), sans se faire eux-mêmes attaquer par le druide.
 
-- Une fois le rituel à son terme, le druide est comme blessé ; l'arkonte intervient alors pour clamer victoire, et appelle tous les diacres autour de lui pour quelques dernières répétitions de l'incantation rituelle. Il peut s'en désolidariser à la fin pour clamer : **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**. Le druide est alors attiré par le pentacle et y meurt. (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres)
+- Une fois le rituel à son terme, le druide est comme blessé ; l'arkonte intervient alors pour clamer victoire, et appelle tous les diacres autour de lui pour quelques dernières répétitions de l'incantation rituelle. Il peut s'en désolidariser à la fin pour clamer : **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**. Le druide est alors attiré par le pentacle et y meurt (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres).
 
 Que le traître soit anéanti d'une manière ou d'une autre (balle maudite ou rituel d'expulsion), la malédiction prend fin, et l’épilogue peut se dérouler. {% fact "traitor_death_ends_cursed_enclosure" %}
 

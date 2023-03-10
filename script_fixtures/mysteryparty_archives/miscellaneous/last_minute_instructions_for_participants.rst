@@ -52,7 +52,6 @@ autocollantes sur des objets du jeu, ou bien des plumes colorées.
 OCTAVE et ARCHIVISTE :
 
 
-Vous avez un **discours final**, en l'adaptant bien sûr à la réalité de l'état du jeu
 - L'archiviste sait où est gardé le grimoire maudit appelé {% symbol "Thanatologue" for "book_of_the_dead" %}
 - Bien mémoriser la forme (faux-livre épais en bois marron) et la localisation approximative du {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}, qui murmure le code de la mallette administrative noire des Maupertuis
 

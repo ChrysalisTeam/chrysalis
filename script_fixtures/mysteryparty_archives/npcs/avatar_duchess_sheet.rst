@@ -28,6 +28,9 @@ Personnellement très affectée par le triste sort de vos amis, vous attendez av
 Vous vous souvenez bien que l'arkonte avait une **sacoche de ceinture** avec lui, qui a échappé à la destruction lors de sa mort. Mais vous ne savez pas ce qu'elle est devenue depuis tout ce temps.
 {% fact "arkon_bag_remained_after_his_death_but_disappeared" %}
 
+Lorsque les joueurs démasquent le méchant, il est préférable que vous alliez le **confronter** vous-même, sur une musique intense ; une scène à répéter auparavant, avec le maître de jeu.
+{% fact "duchess_immediately_confronts_traitor_when_exposed" %}
+
 
 Les révélations prophétiques
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
