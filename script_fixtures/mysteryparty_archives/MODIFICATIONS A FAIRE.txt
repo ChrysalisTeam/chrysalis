@@ -11,29 +11,18 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 
 
-Renommer bandes son oracle pour simplifier ??
-
-
-AJOUTER GLAIVE DE ARKONTE taché de sang bleu (à rajouter au roman)
-
-Potion pelade bete dans boiet aux lettres des maupertuis
 
 donner chromocrypto et en rajouter ++ DANS ASSETS
 
-CHANGER detection des recettes supplémentaires, à decrire dans assets checklist :
+MAJ les prophecies et intuitions
+Mettre prophétie initiale comme quoi ils doivent tous, joueurs, rester soudés, et seront entourés de danger - United they stand, divided they fall
+
+
 
 POUR DERNIER LIVRET!!!!
 OLDIE  Mais vous expliquez aux joueurs qu'il existe un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** permettant de suivre les vibrations magiques de ces recettes fondamentales, grimoire qui doit être dans un des coffres de l'étage autorisé. Lorsque les joueurs vous le ramènent, vous leur donnez une phrase magique quelconque à prononcer (par exemple **"Grimoire traceur, dis-moi où sont les recettes qui guérissent"**), et le MJ activera la tablette tactile pour les joueurs. {% hint "radio_frequency_scanner_app_in_chest" is needed %}
 **Si le grimoire traceur ne fonctionne pas, indiquez que les recettes fondamentales sont aussi trouvables grâce à des flèches blanches marquées au sol.** {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %}
 
-
-ACHETER STHETOSCOPE ????
-
-
-Revoir discours introductif pour encourager COOPERATION entre joueurs
-
-Mettre prophétie inittiale comme quoi ils doivent tous, joueurs, rester soudés, et seront entourés de danger
-United they stand, divided they fall
 
 
 Passer en revue les "???"
@@ -43,14 +32,21 @@ Passer en revue les "???"
 
 
 
-
 ======================= TRASH ====================
 
 
+Revoir discours introductif pour encourager COOPERATION entre joueurs
 
 
+ACHETER STHETOSCOPE ????
 
+CHANGER detection des recettes supplémentaires, à decrire dans assets checklist :
 
+Potion pelade bete dans boiet aux lettres des maupertuis  NOPE
+
+AJOUTER GLAIVE DE ARKONTE taché de sang bleu (à rajouter au roman)
+
+Renommer bandes son oracle pour simplifier ??
 
 réordonner les prix du VOLEUR
 

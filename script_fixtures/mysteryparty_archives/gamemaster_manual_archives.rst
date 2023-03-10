@@ -804,8 +804,7 @@ Planification des prophéties et intuitions
 
 - **Prophétie du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte) : Vision simple, musique "Broken Truth light (Delphi's Theme)". {% hint 'feather_in_arkon_bag' is needed %}
 
-- **Prophétie du crâne de l’arkonte et du danger planétaire** (plume puis allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "Broken Truth heavy
-(Delphi's Theme)"
+- **Prophétie du crâne de l’arkonte et du danger planétaire** (plume puis allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "Broken Truth heavy (Delphi's Theme)".
 
 - **Intuition sur la dernière bataille** (lorsque le méchant est démasqué) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un toureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire le taureau. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."* {% fact "parcival_oracle_has_intuition_about_last_battle" %}
 
@@ -1217,7 +1216,7 @@ Concrètement, tout parjure sera rapidement sanctionné par un douloureux châti
 
 Si certaines personnes jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risquerait à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand-chose.
 
-Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux vivants, les défunts et autres entités d'outre-monde s'en servant parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux pangéens vivants ; les défunts et les entités d'outre-monde s'en serviraient donc parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 
 Divinités et mondes alternatifs
