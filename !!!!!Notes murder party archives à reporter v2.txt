@@ -3,6 +3,9 @@
 TODO RESTANT MURDER PARTY (PRINTED NOW)
 ==============================================
 
+Ajouter cassandra
+
+
 /!\ IMMEDIATELY QUICK
 - recharger Venture Prins sur place et checker les IBEACON
 - Retrouver broches et papiers/romans/étiquettes manquants
@@ -58,6 +61,8 @@ DIARY  {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
 MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rubbles de octave
 
 ajouter infos sur voleur et ses descendants
+
+
 
 ******** LATER *******************
 - Lettres UTILES : À  É

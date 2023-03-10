@@ -25,24 +25,30 @@ Mais une fois conscient de votre mort, vous n'avez plus de raisons d'être viole
 
 **Informations à bien mémoriser et à revendre**
 
-- IMPORTANT : Vous savez qu'il existe un artefact, dans le domaine interdit, permettant d'ouvrir des liens spirituels vers d'autres strates de ce monde. Et vous êtes certain d'être le **seul** à connaître la formule menant plus spécifiquement au **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**, une puissante source de connaissances ; car vous avez brûlé le seul artefact connu à ce jour qui donnait des indications dessus. cette formule est **"ô prodiges de sagesse et de curiosité, venez répondre à ma soif d'érudition"**.  **PRIX : XXX???????? kashes** {% fact "phantom_thief_uniquely knows_about_link_to_djinn_world" %}
+- IMPORTANT : Vous savez qu'il existe un artefact dans le domaine interdit, **l'{% symbol "orbe spirituel" for "spiritual_orb_name" %}**, permettant d'ouvrir des liens spirituels vers d'autres strates de ce monde. Et vous êtes certain d'être le **seul** à connaître la formule menant plus spécifiquement au **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**, une puissante source de connaissance ; car vous avez brûlé le seul antique qui donnait des indications dessus. Cette formule est **"ô prodiges de sagesse et de curiosité, venez répondre à ma soif d'érudition"**.  {% fact "phantom_thief_uniquely knows_about_link_to_djinn_world" %}
 
-- Vous aviez mis la main sur un précieux coffret à bijoux ayant appartenu à la jeune {% symbol "Isadora" for "maupertuis_mother" %}, la future mère d'Octave ; personne n'avait réussi à l'ouvrir, car en cas d'échec il se bloquait pour un mois ; mais votre talent auditif vous a permis de découvrir le nombre attendu par les engrenages : **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. Avec un peu de chance, elle a continué à utiliser ce code pour protéger d'autres secrets.  **PRIX : 160???????? kashes** {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
+- Vous aviez mis la main sur un précieux coffret à bijoux ayant appartenu à la jeune {% symbol "Isadora" for "maupertuis_mother" %}, la future mère d'Octave ; personne n'avait réussi à l'ouvrir, car en cas d'échec il se bloquait pour un mois ; mais votre talent auditif vous a permis de découvrir le nombre attendu par les engrenages : **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. Avec un peu de chance, elle a continué à utiliser ce code pour protéger d'autres secrets.  {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
 
-- Vous savez que la broche en laiton de Mérédice de Maupertuis, évoquée dans les souvenirs de certains de ses descendants, était une pièce importante pour avoir accès au trésor familial ; elle laissait cette broche dans son petit bureau d'études d'occultisme, qui trônait **dans un coin du domaine interdit, par delà le laboratoire d'alchimie (voir le plan avec le maître de jeu)** ; zone désormais effondrée. **PRIX : 160???????? kashes** {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
+- Vous savez que la broche en laiton de Mérédice de Maupertuis, évoquée dans les souvenirs de certains de ses descendants, était une pièce importante pour avoir accès au trésor familial ; elle laissait cette broche dans son petit bureau d'études d'occultisme, qui trônait **dans un coin du domaine interdit, par delà le laboratoire d'alchimie (voir le plan avec le maître de jeu)** ; une zone désormais effondrée. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}
 
-- Vous êtes très dépité à l'idée de vous être fait dérober votre si précieux {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}, mais en même temps c'est la loi parmi les voleurs... La formule magique pour l'activer est **"Astrolabe, transporte-moi là-bas"** {% fact "thief_knows_teleportation_device_formula" %}. Il peut téléporter jusqu'à {% symbol '3 personnes' for 'thief_teleportation_device_simultaneous_limit' %} à la fois, du moment qu'elles tiennent chacune l'un de ses pieds. On peut l'utiliser autant de fois qu'on veut, mais vous prévenez qu'il faut attendre **{% symbol '30 secondes' for 'thief_teleportation_device_cooldown' %}** entre chaque téléportation. **PRIX : 200???????? kashes**
+- Vous êtes très dépité à l'idée de vous être fait dérober votre si précieux {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}, mais en même temps c'est la loi parmi les voleurs... La formule magique pour l'activer est **"Astrolabe, transporte-moi là-bas"** {% fact "thief_knows_teleportation_device_formula" %}. Il peut téléporter jusqu'à {% symbol '3 personnes' for 'thief_teleportation_device_simultaneous_limit' %} à la fois, du moment qu'elles tiennent chacune l'un de ses pieds. On peut l'utiliser autant de fois qu'on veut, mais vous prévenez qu'il faut attendre **{% symbol '30 secondes' for 'thief_teleportation_device_cooldown' %}** entre chaque téléportation.
 
 {# LATER indice pour la quete de la potion de guérison #}
+
+
+Prix de vos "bons tuyaux de voleur"
+++++++++++++++++++++++++++++++++++++++
+
+- Formule magique menant au monde des djins : **280 kashes**
+- Code secret préféré d'Isadora de Maupertuis : **150 kashes**
+- Localisation du bureau de Mérédice : **150 kashes**
+- Formule magique de votre astrolabe de téléporation : **150 kashes**
 
 
 Estimation des monnaies et gemmes
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous connaissez bien la valeur des pièces et pierreries, ainsi que les meilleurs endroits pour les écouler à **meilleur prix**.
-Bien entendu, lorsque vous négociez, vous sous-estimez systématiquement de **30%** les richesses que l'on vous apporte, et escroquez ainsi ceux qui ne s'y connaissent pas. Mais face à un expert en estimations de biens, vous vous inclinez.
-
 <{ treasures_value_summary }/>
 
-
+**Important** : lorsque vous négociez, vous sous-estimez systématiquement de **25%** les richesses que l'on vous apporte, et escroquez ainsi ceux qui ne s'y connaissent pas. Mais face à un expert en estimations de biens, vous vous inclinez.

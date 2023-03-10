@@ -313,8 +313,8 @@
 -
   - "@RICHESSES Richesses totales à collecter"
   -
-    - "6 pièces d'or (= 60 kashes)"
     - "40 pièces normales (= 40 kashes)"
+    - "6 pièces d'or (= 60 kashes)"
     - "10 petits diamants ronds (= 50 kashes)"
     - "10 diamants moyens rectangulaire (= 100 kashes)"
     - "5 grands diamants ronds (= 100 kashes)"
@@ -328,8 +328,8 @@
     - "Placer : 140 kashes répartis entre les coffres et emplacements dans l'étage autorisé"
     - "Placer : 140 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors dans l'étage interdit"
     - "Placer : 20 kashes dans les poches des avatars"
-    - "Placer : 100 kashes dans le trésor du jeu de piste de Mérédice"
-    - "Placer : 70 kashes dans le sac de voyage sous éboulis"
+    - "Placer : 100 kashes dans le trésor d'Octave (jeu de piste monté par Mérédice)"
+    - "Placer : 70 kashes dans le sac de voyage d'Octave enfoui sous les éboulis de l'étage autorisé {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
     - "Placer : 100 kashes dans le moulin magique APRES activation {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}"
 
 -

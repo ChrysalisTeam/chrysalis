@@ -34,8 +34,7 @@ BRIEFING GLOBAL DES JOUEURS+FIGURANTS
 -----------------------------------------
 
 - C'est le moment ou jamais de relire en détail votre fiche de personnage ; si vous ne savez pas clairement qui vous êtes, ce que vous venez faire dans la bibliothèque, et vos différentes compétences spéciales, cela va grandement vous handicaper durant le jeu  ^^
-- Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des étoiles
-autocollantes sur des objets du jeu, ou bien des plumes colorées.
+- Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des étoiles autocollantes sur des objets du jeu, ou bien des plumes colorées.
 - Vous allez aussi croiser différents personnages figurants ; prenez là aussi le temps de les découvrir, de discuter avec eux, peut-être que vous pouvez les aider, peut-être aussi qu'ils peuvent vous aider dans vos recherches !
 - Enfin, vous allez croiser des êtres dangereux... Faites attention, ils peuvent vous blesser ou bien pire ; et que faites-vous si vous êtes blessé, déjà ? Oui, vous ne bougez plus et vous appelez à l'aide.
 - En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler: je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de pangéa par exemple, ce n'est pas de la triche, çà fait partie du jeu !

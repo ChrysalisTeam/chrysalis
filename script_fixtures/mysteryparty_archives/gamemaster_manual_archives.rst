@@ -939,9 +939,9 @@ Les différents bijoux :
 - La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est **effondré**. Il vend donc cette information chèrement et à contrecoeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. Octave a aussi quelques indices, moins précis, sur l'endroit où sa soeur gardait ses biens les plus précieux. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %} {% fact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}
 
-Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité par jour, mais suffisant pour la quête des agents secrets. {% hint 'jewels_set_for_grinding_mill_success' is needed %}
+Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité par jour (un lot toutes les X heures), mais suffisant pour la quête des agents secrets. {% hint 'jewels_set_for_grinding_mill_success' is needed %}
 
-Avec le moulin magique et le grimoire chantant, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
+Avec le moulin magique et le grimoire chantant, les exZplorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
 {% endmacro %}
 <{ spy_group_main_quest }/>
@@ -1112,7 +1112,7 @@ L'orbe spirituel, le vortex abyssal (piége) et le puits de savoir (don)
 
 *Ceci est une quête facultative.*
 
-Dans le domaine interdit, les joueurs peuvent trouver un plateau avec une boule à plasma éteinte au centre, désignée comme **l'orbe spirituel** ; 4 emplacements sont dessinés autour de lui.
+Dans le domaine interdit, les joueurs peuvent trouver un plateau avec une boule à plasma éteinte au centre, désignée comme un {% symbol "orbe spirituel" for "spiritual_orb_name" %}** ; 4 emplacements sont dessinés autour de lui.
 
 Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine epoxy :
 
@@ -1419,13 +1419,17 @@ Valeur des objets précieux
 
 {% macro treasures_value_summary() %}
 
+Vous connaissez bien les valeurs des pièces et pierreries.
+
+Voici par exemple comment s'écoulaient, au meilleur prix, les éléments précieux du temps des Maupertuis (leur valeur en kashes est restée globalement constante dans toute l'Histoire de Pangea, jusqu'à nos jours). {% fact "precious_objects_have_kept_same_kash_value_along_history" %}
+
 - 1 pièce de monnaie couleur argent ou bronze vaut 1 kash (quelle que soit sa taille)
 - 1 pièce en or vaut 10 kashes dans les grandes villes
 - 1 petit diamant rond vaut 5 kashes dans les places marchandes de Keroskia
 - 1 moyen diamant rectangulaire vaut 10 kashes sur le marché de Nimouk
 - 1 grand diamant rond ou rectangulaire vaut jusqu'à 20 kashes dans les pays Axoliens
-- la couleur (fumée ou non) des diamants est sans impact sur leur valeur
-- pour les bijoux, leur valeur matérielle estimée est marquée sous forme d'étiquettes
+- La couleur (fumée ou non) des diamants est sans impact sur leur valeur
+- Pour les bijoux, leur valeur estimée est marquée sous forme d'étiquette hors-jeu
 
 {% endmacro %}
 <{ treasures_value_summary }/>
