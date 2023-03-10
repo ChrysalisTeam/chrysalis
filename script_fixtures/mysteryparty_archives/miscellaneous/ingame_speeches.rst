@@ -1,7 +1,7 @@
 DISCOURS DES FIGURANTS
 =============================
 
-*Il est possible de garder une oreillette avec les paroles des discours longs, pour ne pas risquer un trou de mémoire.*
+Ces DISCOURS LONGS des figurants peuvent être soufflés dans l'oreille par une oreillette (sur lecteur MP3), avec 1-2 secondes d'avance sur la musique, pour éviter tout oubli ; vérifier que le son grave de piano est bien synchronisé, au lancement simultané des 2 bandes son (musique et voix).
 
 
 OUVERTURE DU BUFFET (par l'avatar inventeur)

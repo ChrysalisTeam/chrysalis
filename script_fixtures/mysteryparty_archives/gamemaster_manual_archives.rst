@@ -205,6 +205,12 @@ Rôle spécial : **l'automate de garde**, armé, qui patrouille dans la biblioth
 
 Les automates ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
+{# NOPE NOT FOR NOW
+  Lorsque, bien plus tard, les joueurs arrivent à accéder au {% symbol "Thanatologue" for "book_of_the_dead" %}, il est POSSIBLE de déclencher une bande-son intense lors de la première ouverture de ce grimoire maudit.
+  Les automates de service deviennent alors possédés, et claudiquent vers les joueurs, en battant des bras, et en ressassant "Mort aux hérétiques !".
+  Les joueurs doivent alors les éviter jusqu'à la fin de la bande-son ; à ce moment-là, les automates redeviennent normaux, et reprennent leurs tâches habituelles.
+#}
+
 Le monde divin
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -643,7 +649,7 @@ Un discours du maître de jeu introduit le début du jeu.
 
 Chaque groupe est ensuite amené, par un automate, dans un endroit différent de l’étage du bas de la bibliothèque, avec une musique introductive.
 
-Pour rappel, la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans. Les automates (autrefois conçus par l'inventeur et Octave) commencent à s'activer pour organiser cette fête ; certains peuvent être initialement "désactivés".
+Pour rappel, la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans. Les automates (autrefois conçus par l'inventeur et Octave) commencent à s'activer pour organiser cette fête ; certains peuvent être initialement "désactivés", assis ou au sol, en attendant que l'avatar Inventeur ne les allume.
 
 Les fantômes se déplacent à ce moment tous sous leur forme désincarnée.
 
@@ -764,7 +770,9 @@ L’épilogue musical
 Faire éteindre aux joueurs leurs lanternes, pour augmenter l’ambiance.
 Une bande-son est jouée, pour une scène assez chorégraphiée.
 
-L’Ankou appelle les fantômes enfin libérés (qui ont des petites ailes dans le dos) à le rejoindre.
+L’Ankou appelle les fantômes enfin libérés à le rejoindre.
+
+Ils ont chacun mis des petites ailes dans le dos : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave.
 
 Octave est ravi de retrouver bientôt sa famille, mais se retourne pour distribuer des remerciements, conseils et adieux à chaque groupe de joueurs, avant de partir en courant.
 

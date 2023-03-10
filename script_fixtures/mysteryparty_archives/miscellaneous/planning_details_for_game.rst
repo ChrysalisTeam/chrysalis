@@ -69,7 +69,7 @@ H+X : SEULEMENT SI les joueurs ont bien progressé (voir avec le MJ), le druide 
 
 H+X : [Musique] Se tenir prêt à mettre en scène la cérémonie d'initiation d'Octave en musique
 
-H+X : [Musique] Se tenir prêt à mettre en scène la malédiction des automates (lors de l'ouverture du {% symbol "Thanatologue" for "book_of_the_dead" %})
+H+X : [Musique] NOPE!!! Se tenir prêt à mettre en scène la malédiction des automates (lors de l'ouverture du {% symbol "Thanatologue" for "book_of_the_dead" %})
 
 H+X : [Musique] Se tenir prêt à mettre en scène le démasquage du traître (dispute de la duchesse et du druide)
 
