@@ -83,3 +83,13 @@ Confession de mission
 *Voici le discours à faire, à genoux et sur une musique mystique, devant le joueur Anthropologue, lorsqu'il se sera révélé comme confrère en répondant correctement à votre salutation d'arkonte.*
 
 <{ arkon_mission_report_speech }/>
+
+
+Achever la bataille finale
+=============================
+
+Si le méchant est démasqué, et que les joueurs arrivent à mener à son terme un rituel pour l'expulser, alors ce méchant devient comme blessé.
+
+Vous intervenez alors pour finir la bataille, en musique, avec l'aide les diacres ; la chorégraphie de cette scène finale doit être bien répétée auparavant, avec le maître de jeu.
+
+

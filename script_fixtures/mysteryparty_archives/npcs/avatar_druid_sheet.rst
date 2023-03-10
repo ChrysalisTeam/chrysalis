@@ -40,7 +40,7 @@ Vous avez donc joué le jeu, et investigué en secret pour débloquer l'accès a
 
 Pendant que l'arkonte réalisait son rituel, et refermait une par une les portails interdimensionnelles, vous êtes revenu dans le monde des vivants via le troisième tome de votre roman. Et vous avez attaqué les humains peu avant que ce ne soit le tour de votre portail. Octave et l'archiviste ont été vaporisés par votre élémentaire de feu avant même d'avoir compris ce qui leur arrivait. L'arkonte, lui, s'est révélé être un terrible adversaire, enchainant les attaques et les défenses sur les plans physiques, magiques, et sacrés – ce dernier étant bien sûr sans effet sur vous. Au milieu de ce déferlement de puissance, vous avez réussi à lui décocher en plein front une flèche au curare, ce qui a assuré votre victoire.
 
-Hélas pour vous, dans son dernier souffle, {% symbol "Valerias" for "arkon_name" %} a maudit la bibliothèque afin que nul esprit ne puisse en sortir tant que vous-même serez vivant. Son squelette se révélant par ailleurs indestructible, vous avez dissimulé son crâne entre les pieds des {% symbol "plantes de la bibliothèque" for "arkon_skull_location" %}, afin d'éviter qu'il ne vous compromette. Lorsque les autres avatars encore libres sont venus, plusieurs jours plus tard, s'enquérir de la situation, ils n'ont pu comprendre ce qui s'était passé ici ; et vous avez joué le jeu de la surprise et de l'effroi.
+Hélas pour vous, dans son dernier souffle, {% symbol "Valerias" for "arkon_name" %} a maudit la bibliothèque afin que nul esprit ne puisse en sortir tant que vous-même serez vivant. Son squelette se révélant par ailleurs indestructible, vous avez dissimulé son crâne entre les pieds des {% symbol "plantes de la bibliothèque" for "arkon_skull_location" %}, afin d'éviter qu'il ne vous compromette. Lorsque les autres avatars encore libres sont venus, plusieurs jours plus tard, s'enquérir de la situation, ils n'ont pu comprendre ce qui s'était passé ici ; et vous avez joué le jeu de la surprise et de l'effroi. {% hint 'arkon_skull_hidden_in_jungle_trees' is needed %}
 
 Depuis, vos investigations piétinent ; la fouille de l'étage autorisé n'a rien donné, l'étage interdit reste inaccessible, et vous attendez avec impatience que des sorciers humains rouvrent un jour la bibliothèque, afin de reprendre vos plans de conquête du monde.
 
@@ -69,9 +69,13 @@ Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_
 - que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
 - que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tigers_eye" %}
 
-**Proposez spontanément votre aide à l'alchimiste**, qui aura besoin de reconnaître ces noms dans les recettes qu'elle trouvera.
+**Vous pouvez proposer spontanément votre aide à l'alchimiste**, qui aura besoin de reconnaître ces noms dans les recettes qu'elle trouvera.
 
 Au niveau de l'enquête principale : si les soupçons initiaux de culpabilité se sont éloignés de l'arkonte (devenu crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter temporairement le doute sur le tombeau du Mage, ou sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_magus_or_inventor" %}
+
+Si les joueurs font mine de fouiller la terre de la mini-jungle, vous vous énervez, au motif qu'ils "saccagent toutes ces choses sacrées de la Nature (vous craignez bien sûr qu'ils ne découvrent le crâne de l'arkonte).
+
+Il vous faut prévoir une posture si le Tome 3 de votre roman (qui vous accable) est trouvé trop tôt : dire soit que ce livre est un faux ; soit que vous avez changé de comportement dans un roman suivant de rédemption, et que ces crimes étaient en fin de compte des "erreurs de jeunesse".
 
 
 Le complot anti-arkonte
@@ -95,7 +99,7 @@ La tentative d'assassinat des prophètes
 La bataille finale
 =============================
 
-*Voici le résumé des évènements qui doivent mener à vous démasquer, et la façon dont vous devez réagir.*
+*Voici le résumé des évènements qui doivent mener à vous démasquer, et la façon dont vous devez réagir. Le scène finale doit être bien répétée auparavant, avec l'arkonte.*
 
 <{ quest_to_find_traitor_and_final_battle }/>
 

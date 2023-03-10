@@ -1031,7 +1031,7 @@ Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu
 
 Le druide prévient qu'il ne s'éloignera plus du pentacle du rituel de l'arkonte, afin que personne ne tente de le renvoyer de force dans son monde ; et qu'il sentirait si un autre pentacle similaire était créé dans les environs.
 
-Typiquement, il se met alors à lire des grimoires (dont le Thanatologue), l'air enthousiaste, non loin du pentacle. Il est réellement sur la piste d'un **contre-sortilège** pour annuler la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}. {% fact "druid_reads_near_pentacle_before_game_ending" %}
+Typiquement, il se met alors à **lire des grimoires** (dont le Thanatologue), l'air enthousiaste, non loin du pentacle. Il est réellement sur la piste d'un **contre-sortilège** pour annuler la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}. {% fact "druid_reads_near_pentacle_before_game_ending" %}
 
 Le traître est insensible aux attaques usuelles.
 Si les joueurs l'agressent directement, il en tue un (qui devient un fantôme), puis ordonne aux autres de continuer à chercher comment lever la malédiction.
