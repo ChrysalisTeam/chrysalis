@@ -411,11 +411,15 @@ L’Ankou (le guide des âmes, le “psychopompe”)
 
 - DIVIN (anciennement fantôme humain, mais promu par les dieux)
 
-- Traits : exaspération, franc-parler, langage familier, bonne volonté
+- Traits : exaspération, franc-parler, langage familier, sarcasme, bonne volonté,
 
-- C’est un personnage plutôt comique, ayant peu d’informations à apporter mais permettant de créer du dialogue avec les autres figurants, et de faire le lien avec des ancêtres défunts.
+- C’est un personnage sombre mais plutôt comique, ayant peu d’informations à apporter mais permettant de créer du dialogue avec les autres figurants, et de faire le lien avec des ancêtres défunts.
 
 - Il ne passe que brièvement dans la bibliothèque en faisant sa tournée, puis peut être “invoqué” par les joueurs pour continuer à interagir.
+
+- Il informe les joueurs que les fantômes sont anormalement **prisonniers** de ce lieu, et ne peuvent rejoindre l'au-delà ; et que les joueurs eux-mêmes sont, désormais, enfermés aussi.
+
+- Il manie férocement l'ironie à froid, façon "pince-sans-rire" ; si par exemple un Parcival meurt, il lui redemande quelle était sa mission initiale (sauvez sa petite soeur malade), et s'il se sent satisfait du résultat.
 
 - “Pourquoi vous flippez, là, les humains qui vous cachez derrière les rayons ! Vous croyez que je ne vous vois pas ? Je ne suis pas un psychopathe, vous devriez plutôt me remercier, sans moi vous auriez l’air fin pour rejoindre le royaume des morts ! Allez sortez, tant que vous ne venez pas me tripoter, vous n’avez rien à craindre de moi ! Comme si j’allais me rajouter du travail supplémentaire en butant des humains qui ne m’ont rien fait, dans ce lieu qui est déjà maudit ! Mais qu’est-ce que vous êtes venus faire ici d'ailleurs, comme si c’était pas déjà assez le boxon !”
 
@@ -641,13 +645,13 @@ L’entrée en scène des joueurs
 
 Un discours du maître de jeu introduit le début du jeu.
 
-Puis chaque groupe de joueur
-
 Chaque groupe est ensuite amené, par un automate, dans un endroit différent de l’étage du bas de la bibliothèque, avec une musique introductive.
 
-Les fantômes se déplacent à ce moment tous sous leur forme désincarnée, et les automates sont pour certains désactivés.
+Pour rappel, la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans. Les automates (autrefois conçus par l'inventeur et Octave) commencent à s'activer pour organiser cette fête ; certains peuvent être initialement "désactivés".
 
-Certains avatars peuvent déjà être présents (par exemple la duchesse en prière au cimetière, le druide dans sa mini-jungle, l'inventeur réparant un automate), dans l'attente du moment de l'ouverture du buffet.
+Les fantômes se déplacent à ce moment tous sous leur forme désincarnée.
+
+Certains avatars peuvent déjà être présents (par exemple la duchesse en prière au cimetière, le druide dans sa mini-jungle, l'inventeur réparant un automate), dans l'attente de l'ouverture du buffet.
 
 
 L’ouverture du buffet d'outre-monde

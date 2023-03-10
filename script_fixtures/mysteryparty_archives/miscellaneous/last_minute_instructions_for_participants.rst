@@ -4,13 +4,14 @@ COMPLEMENTS DE BRIEFING POUR LES PARTICIPANTS
 =================================================
 
 
-INSTRUCTIONS COMPLEMENTAIRES DES JOUEURS (déjà envoyées par email) :
+BRIEFING GLOBAL DES JOUEURS+FIGURANTS :
 
 - C'est le moment ou jamais de relire en détail votre fiche de personnage ; si vous ne savez pas clairement qui vous êtes, ce que vous venez faire dans la bibliothèque, et vos différentes compétences spéciales, cela va énormément vous handicaper durant le jeu  ^^
 - Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des étoiles
 autocollantes sur des objets du jeu, ou bien des plumes colorées.
 - Vous allez aussi croiser différents personnages figurants ; prenez là aussi le temps de les découvrir, de discuter avec eux, peut-être que vous pouvez les aider, peut-être aussi qu'ils peuvent vous aider dans vos recherches !
-- Enfin, vous allez croiser des fantômes errants, faites attention, ils sont très dangereux ; ils peuvent vous blesser ou bien pire ; et que faites-vous si vous êtes blessé, déjà ? Oui, vous ne bougez plus et vous appelez à l'aide.
+- Enfin, vous allez croiser des êtres dangereux... Faites attention, ils peuvent vous blesser ou bien pire ; et que faites-vous si vous êtes blessé, déjà ? Oui, vous ne bougez plus et vous appelez à l'aide.
+- En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler: je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoirede pangéa par exemple, ce n'est pas de la triche, çà fait partie du jeu !
 
 
 INSTALLATION DU DECOR :
@@ -21,14 +22,8 @@ INSTALLATION DU DECOR :
 
 FIGURANTS :
 
-- Rappel : la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans, et les automates (autrefois conçus par l'inventeur et Octave) vaquent à leurs occupations pour organiser cette fête, même si depuis tous ces siècles, sa raison d'être a beaucoup disparu.
-
 - Les DISCOURS LONGS des figurants peuvent être soufflés dans l'oreille par une oreillette (sur lecteur MP3), avec 1-2 secondes d'avance sur la musique, pour éviter tout oubli ; vérifier que le son grave de piano est bien synchronisé, au lancement simultané des 2 bandes son (musique et voix)
 
-L'ANKOU :
-
-- Tu informes les joueurs que les fantômes sont PRISONNIERS de ce lieu, et ne peuvent rejoindre l'au-delà
-- Tu préviens que les défunts Maupertuis (la famille d'Octave) vont "tous bien" dans l'au-delà, qu'ils ont bien envie de retrouver Octave, et qu'ils se tiennent à disposition en cas de besoin pour aider les aventuriers
 
 TOUS LES FANTÔMES :
 
