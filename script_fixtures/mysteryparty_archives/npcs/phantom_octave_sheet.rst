@@ -51,6 +51,11 @@ Vous ne vous souvenez plus de l'espèce exacte à laquelle appartenait cette Bê
 
 Dans le temps, vous aviez entendu plusieurs fois les Maupertuis parler d'un **"Livre Yodique des Morts"**, le **{% symbol "Thanatologue" for "book_of_the_dead" %}**, qui serait l'un des grimoires les plus dangereux de la bibliothèque. Il était gardé dans un coffre du domaine interdit, verrouillé par **deux codes secrets**, chacun gardé par l'un des parents Maupertuis. {% fact "octave_and_archivist_know_about_thanatologue_location_and_double_code" %} {% hint 'family_legendary_chest_protected_by_double_code' is needed %}
 
+Vous pouvez être tristes de réaliser, à un moment, que les diacres appartiennent précisément au culte de {% symbol "Bahamoot" for "god_of_diakons" %}, culte qui a fait saccager le manoir des Maupertuis jadis.
+
+Octave avait un vieux livre d'enfance favori avec des animaux qui courent, en illusion d'optique (c'est utile pour l'énigme de la {% symbol "Boîte à Murmure" for "whispering_box" %} de Mérédice).
+
+
 {% endmacro %}
 <{ octave_and_archivist_common_knowledge_for_sheets }/>
 

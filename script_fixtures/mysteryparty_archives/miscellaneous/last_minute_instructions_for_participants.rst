@@ -51,9 +51,8 @@ autocollantes sur des objets du jeu, ou bien des plumes colorées.
 
 OCTAVE et ARCHIVISTE :
 
-- Vous pouvez être tristes de réaliser, à un moment, que les diacres appartiennent précisément au culte de {% symbol "Bahamoot" for "god_of_diakons" %} qui a fait saccager le manoir des Maupertuis jadis
-- Octave avait un vieux livre favori avec des animaux qui courent, en illusion d'optique (utile pour l'énigme de la {% symbol "Boîte à Murmure" for "whispering_box" %} de Mérédice)
-- Octave : bien apprendre et répéter le discours final, en l'adaptant bien sûr à la réalité de l'état du jeu
+
+Vous avez un **discours final**, en l'adaptant bien sûr à la réalité de l'état du jeu
 - L'archiviste sait où est gardé le grimoire maudit appelé {% symbol "Thanatologue" for "book_of_the_dead" %}
 - Bien mémoriser la forme (faux-livre épais en bois marron) et la localisation approximative du {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}, qui murmure le code de la mallette administrative noire des Maupertuis
 

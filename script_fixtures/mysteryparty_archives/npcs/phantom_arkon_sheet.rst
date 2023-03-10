@@ -41,14 +41,6 @@ Vous avez parlementé avec le garçon avec Octave et l'archiviste qui s'était r
 
 #}
 
-Connaissances sur votre culte et les autres
-====================================================
-
-*Pensez à bien apprendre en particulier votre salutation d'arkonte et le fonctionnement de votre {% symbol "confession de mission" for "arkon_mission_confession" %} !*
-
-<{ mystics_knowledge_article }/>
-
-
 Informations et instructions spécifiques
 ========================================
 
@@ -75,3 +67,20 @@ Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votr
 Si l'exorciste tente de **briser les corridors outre-monde** alors que des avatars sont encore présents dans la bibliothèque, vous vous demandez ouvertement si cela ne va pas les mettre en grave danger. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
 Dans le Domaine Interdit, vous demandez aux diacres de ne pas libérer le fantôme du **voleur** de son ancrage ; et vous protégez de votre corps les diverses personnes présentes, si ce défunt se montre agressif. Vous tentez de lui expliquer qu'il est bel et bien mort, que son attrait pour les trésors n'a plus aucun sens ; qu'il ferait mieux de vous révéler tout ce qu'il sait ; il doit finir par se laisser convaincre de son statut de fantôme, mais garder son avidité "pour le bien de sa propre descendance". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
+
+
+Connaissances sur votre culte et les autres
+====================================================
+
+**Voici un extrait de la feuille de personnage d'un des joueurs, avec ses titres mystiques, afin que vous ayez les mêmes connaissances que lui. De votre côté, vous êtes seulement Arkonte yodique. Pensez à bien apprendre en particulier votre salutation d'arkonte.**
+
+
+<{ mystics_knowledge_article }/>
+
+
+Confession de mission
+==================================
+
+*Voici le discours à faire, à genoux et sur une musique mystique, devant le joueur Anthropologue, lorsqu'il se sera révélé comme confrère en répondant correctement à votre salutation d'arkonte.*
+
+<{ arkon_mission_report_speech }/>

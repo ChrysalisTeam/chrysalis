@@ -54,3 +54,9 @@ Naturellement, vous savez **réparer** moult choses, par exemple un détecteur d
 #}
 
 
+Discours d'ouverture du buffet
+====================================================
+
+*Le maître de jeu vous informera quand ce moment arrive, peu après le début du jeu, sur une bande-son trépidante.*
+
+<{ buffet_opening_speech }/>

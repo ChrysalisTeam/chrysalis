@@ -54,6 +54,18 @@ Il faut rester concentré sur ce point : les mondes des fantômes et des avatars
 Les fantômes sont reconnaissables à leur tunique pourpre, les automates à leurs **rubans de dentelle blanche** ; les avatars n'ont pas de signe distinctif particulier, juste un costume conforme à leur personnage de roman.
 
 
+Conseils pour les discours scriptés
+++++++++++++++++++++++++++++++++++++++++
+
+Certains figurants ont des discours préécrits, et accompagnés de musique, pour des évènements importants du jeu.
+
+Il est important d'apprendre et répéter plusieurs fois, à plusieurs jours d'affilée, ces discours, pour en être bien "imbibés" le moment venu, car ces discours sont à déclamer sans feuille.
+
+Le maître de jeu doit vous avoir envoyé, en avance, la musique concernée, voire une démontration de la façon de réaliser le discours.
+
+En complément, lors du jeu, les textes peuvent être soufflés dans l'oreille du figurant par une **oreillette sur lecteur MP3**, avec 1-2 seconde d'avance sur la musique, pour éviter tout oubli. Il faut vérifier, au lancement simultané des 2 bandes-son (musique et voix), que le son grave de piano est bien synchronisé. Mais ce procédé reste fragile, d'où l'importance de bien connaître son discours dans tous les cas.
+
+
 Orienter les joueurs vers les bons interlocuteurs
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 

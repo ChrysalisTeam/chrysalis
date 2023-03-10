@@ -1,11 +1,10 @@
-DISCOURS DES FIGURANTS
-=============================
-
-Ces DISCOURS LONGS des figurants peuvent être soufflés dans l'oreille par une oreillette (sur lecteur MP3), avec 1-2 secondes d'avance sur la musique, pour éviter tout oubli ; vérifier que le son grave de piano est bien synchronisé, au lancement simultané des 2 bandes son (musique et voix).
-
+RECAPITULATIF DES DISCOURS DES FIGURANTS
+==============================================
 
 OUVERTURE DU BUFFET (par l'avatar inventeur)
----------------------------------------------------------
+---------------------------------------------------
+
+{% macro buffet_opening_speech() %}
 
 ::
 
@@ -23,7 +22,7 @@ OUVERTURE DU BUFFET (par l'avatar inventeur)
     Se pourrait-il que nos vœux centenaires aient enfin été exaucés ?
     Mon cœur voudrait tant y croire, mais mon esprit attend de voir...
 
-*<APRÈS LA MUSIQUE>*
+Après la musique :
 
 ::
 
@@ -31,9 +30,14 @@ OUVERTURE DU BUFFET (par l'avatar inventeur)
 
 Si le buffet garni n'est pas déjà apparent, l'inventeur peut le faire apparaître par une formule simple comme **"Mon ventre gargouille, ma gorge se dessèche, ô table comble-moi !"**. {% fact "buffet_table_magically_generates_food" %}
 
+{% endmacro %}
+<{ buffet_opening_speech }/>
+
 
 CONFESSION DE MISSION (par le fantôme arkonte)
 ----------------------------------------------------------
+
+{% macro arkon_mission_report_speech() %}
 
 500 années avant ce jour, alors que je méditais au Monastère de Rochesombre, j'ai senti la présence d'esprits déracinés, près des ruines du manoir des Maupertuis.
 
@@ -43,7 +47,7 @@ J'ai franchi le portail de transplanage, et dans cette bibliothèque enfouie, j'
 
 Je les ai convaincues de retourner à jamais dans leurs univers, pour ne pas renverser l'équilibre de toute chose.
 
-Ils ont accepté. J'ai donc commencé le rituel pour rompre les corridors d'outre-monde.
+Elles ont accepté. J'ai donc commencé le rituel pour rompre les corridors d'outre-monde.
 
 Mais un drame est survenu. J'ai été attaqué par une monstruosité d'apocalypse. Elle résistait à tout, mes armes, ma magie, mes exorcismes. J'ai combattu, j'ai prié, en vain. Lorsqu'elle m'a atteint au front, j'ai su que mon heure était venue.
 
@@ -51,9 +55,12 @@ Alors, dans mon dernier souffle, j'ai osé un sortilège interdit. J'ai déploy�
 
 Et depuis ce jour, j'attends. J'attends que l'humanité envoie de quoi débarrasser le monde de ce démon, et mettre ainsi fin à la malédiction que j'ai moi-même déclenchée.
 
-J'assumerai devant les Y ods le poids de mes erreurs et de mes fautes.
+J'assumerai devant les Yods le poids de mes erreurs et de mes fautes.
 
-Mais aujourd'hui c'est à vous, mon confesseur, que je m'en remets pour achever ce que j'ai commencé...
+Mais aujourd'hui c'est en vous, mon confesseur, que je m'en remets pour achever ce que j'ai commencé...
+
+{% endmacro %}
+<{ arkon_mission_report_speech }/>
 
 
 PROPHETIE DE CASSANDRA (si jouée par une figurante)
