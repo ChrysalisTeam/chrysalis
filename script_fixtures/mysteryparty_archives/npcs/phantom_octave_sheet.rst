@@ -77,3 +77,8 @@ Vous aviez aussi commencé un journal intime, au moment du départ, juste avant 
 
 {# ABORTED FOR NOW Vous aviez, tout petit, reçu de vos parents votre symbole secret personnel, une des clés nécessaire pour accéder au domain interdit des Maupertuis. Ce symbole ne vous a finalement pas servi, mais maintenant que vous êtes mort, il est étrangement apparu sur votre bras. -% fact "octave_has_secret_personal_symbol_on_arm" %- #}
 
+
+Discours d'adieu aux joueurs
+===================================
+
+<{ octave_epilogue_speech }/>

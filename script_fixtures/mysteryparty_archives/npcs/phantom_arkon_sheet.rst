@@ -74,7 +74,6 @@ Connaissances sur votre culte et les autres
 
 **Voici un extrait de la feuille de personnage d'un des joueurs, avec ses titres mystiques, afin que vous ayez les mêmes connaissances que lui. De votre côté, vous êtes seulement Arkonte yodique. Pensez à bien apprendre en particulier votre salutation d'arkonte.**
 
-
 <{ mystics_knowledge_article }/>
 
 

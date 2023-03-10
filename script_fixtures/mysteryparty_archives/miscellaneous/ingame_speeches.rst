@@ -63,14 +63,16 @@ Mais aujourd'hui c'est en vous, mon confesseur, que je m'en remets pour achever 
 <{ arkon_mission_report_speech }/>
 
 
-PROPHETIE DE CASSANDRA (si jouée par une figurante)
-----------------------------------------------------------
+PROPHETIE DE CASSANDRA (par une figurante)
+------------------------------------------------
+
+*Ce discours est habituellement délivré par un hologramme préenregistré.*
 
 Enfants, écoutez-moi.
 
-Je suis Cassandra, arrière petite-fille du Mage Sombre, et prophétesse des divinités tutélaires de Pangéa.
+Je suis Cassandra, lointaine petite-fille du Mage Sombre, et prophétesse des divinités tutélaires de Pangéa.
 
-Depuis mon enfance je n'ai cessé d'avertir des terribles dangers que représentait cette bibliothèque ; moins à cause de ses artefacts ensorcelés, que des auras magiques qui s'y entassent depuis des siècles ; des auras qui, mal dirigées, pourraient éventrer les frontières sacrées séparant les différents univers.
+Depuis mon enfance je n'ai cessé d'avertir des terribles dangers que représentait cette bibliothèque ; moins à cause de ses artefacts ensorcelés, que des auras magiques qui s'y entassent depuis des siècles. Des auras qui, mal dirigées, pourraient éventrer les frontières sacrées séparant les différents univers.
 
 Cependant, par incrédulité, par lâcheté, par flemme, tous ont refusé de m'écouter.
 
@@ -81,7 +83,8 @@ Des catastrophes sont en marche, que plus rien ne peut arrêter.
 Et un jour, enfants, vous vous retrouverez face à la plus grande menace que cette planète ait jamais vu surgir.
 
 Gardez la tête froide, sachez garder en cage une monstruosité que vous ne sauriez vaincre.
-Mais lorsque la dernière bataille sera à l'horizon, devenez des bâtisseurs ; les bâtisseurs du plus inébranlable guerrier qui ait jamais existé. Qu'il ne craigne ni les armes, ni les poisons, ni les sortilèges. Qu'il puisse tenir fermement face la tempête, tandis qu'il guidera l'ultime invocation.
+
+Mais lorsque la dernière bataille sera à l'horizon, devenez des bâtisseurs ; les bâtisseurs du plus inébranlable guerrier qui ait jamais existé. Qu'il ne craigne ni les armes, ni les poisons, ni les sortilèges. Qu'il puisse tenir fermement face la tempête, tandis qu'il guidera l'ultime invocation de délivrance.
 
 Restez sur vos gardes, enfants. On ne trouve de gloire que dans les périls, on ne trouve de succès que dans l'union des forces, mais on ne trouve de traître que parmi ses amis.
 
@@ -89,17 +92,24 @@ Restez sur vos gardes, enfants. On ne trouve de gloire que dans les périls, on 
 ADIEUX AUX JOUEURS (par le fantôme Octave)
 ----------------------------------------------------------
 
-*Au début de la musique d'épilogue, Octave, revêtu de ses ailes, se réjouit ouvertement de pouvoir retrouver bientôt sa famille. Lorsque la voix de la chanteuse commence à 1mn12, il s'élance dans les escaliers, s'arrête net à mi-parcours, fait demi-tour, et fait ses adieux aux différents groupes de joueurs, jusqu'à 1mn39 ; puis alors que la musique s'envole, il s'élance jusqu'en haut des escaliers en appelant ses parents, et disparait ; il est bientôt suivi par les autres fantômes, ailés eux aussi.*
+{% macro octave_epilogue_speech() %}
+
+*L'épilogue a lieu quand, d'une façon ou d'une autre, la clôture de la bibliothèque a été rompue ; les fantômes peuvent alors enfin rejoindre l'au-delà.*
+
+*Au début de la musique d'épilogue, Octave, revêtu de ses ailes, se réjouit ouvertement de pouvoir retrouver bientôt sa famille. Lorsque la voix de la chanteuse commence à 1mn12, il s'élance dans les escaliers, s'arrête net à mi-parcours, fait demi-tour, et fait ses adieux aux différents groupes de joueurs, à toute vitesse, jusqu'à 1mn39 ; puis alors que la musique augmente d'intensité, Octave s'élance jusqu'en haut des escaliers en appelant ses parents, et disparait ; il est bientôt suivi par les autres fantômes, ailés eux aussi.*
 
 *Ci-dessous un exemple de discours d'adieu, à adapter bien sûr si certaines équipes n'ont pas réussi leur quête. Pas de version préenregistrée pour ce discours, car il doit rester très spontané et naturel.*
 
-Mes amis les diacres, je vous remercie pour tout ce que vous avez fait pour nous, et je vous souhaite de toujours bien lutter contre les monstres, de libérer les fantômes égarés, et de ne surtout plus jamais brûler des familles et des manoirs qui ne vous ont rien fait !
+Mes amis les diacres, je vous remercie de tout ce que vous avez fait pour nous, je vous souhaite de toujours bien lutter contre les forces démoniaques, et de ne surtout plus jamais brûler des manoirs qui ne vous ont rien fait !
 
-Mes amis les soldats mirandiens, je suis content que notre moulin magique continue à servir une belle cause, et j'espère qu'avez lui, vous pourrez continuer à vivre en paix et en liberté sur votre île, aussi longtemps que le soleil brillera !
+Mes amis les soldats mirandiens, je suis content que notre moulin magique continue à servir une belle cause, et j'espère qu'avez lui, vous pourrez continuer à vivre en paix sur votre île, aussi longtemps que le soleil brillera !
 
-Mes amis les explorateurs héliossars, je compte sur vous pour contrer les plans insensés des akarites, avec la bague de mon aïeul ; et pour faire en sorte que plus jamais des légions de morts-vivants ne sortent de terre pour embêter les vivants !
+Mes amis les explorateurs héliossars, je compte sur vous pour contrer les plans insensés des akarites, avec la bague de mon aïeul. Les légions de morts-vivants n'ont qu'à bien se tenir !
 
-Enfin, mes tout petits neveux et nièces les Parcival, j'ai eu un honneur et bonheur immense de faire votre connaissance. Occupez-vous bien de votre soeur {% symbol "Philomène" for "parcival_sick_child_name" %}, et perpétuez pour longtemps, pour toujours, la sagesse et le sang de notre noble lignée !
+Enfin, mes tout petits neveux et nièces les Parcival, j'ai eu un bonheur immense de faire votre connaissance. Soignez bien votre soeur {% symbol "Philomène" for "parcival_sick_child_name" %}, et perpétuez pour longtemps, pour toujours, la sagesse de notre noble lignée !
 
+
+{% endmacro %}
+<{ octave_epilogue_speech }/>
 
 
