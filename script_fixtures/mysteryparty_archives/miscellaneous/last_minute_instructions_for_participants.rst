@@ -25,12 +25,10 @@ FIGURANTS :
 - Les DISCOURS LONGS des figurants peuvent être soufflés dans l'oreille par une oreillette (sur lecteur MP3), avec 1-2 secondes d'avance sur la musique, pour éviter tout oubli ; vérifier que le son grave de piano est bien synchronisé, au lancement simultané des 2 bandes son (musique et voix)
 
 
-TOUS LES FANTÔMES :
+FANTÔMES :
 
-- Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés"
-- Vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie spectrale) ; vous repassez en incarné lors du GONG
-
-- Après avoir été libérés de vos points d'attache, vous "réalisez" peu à peu que les murs de la bibliothèque sont eux aussi des prisons, comme l'Ankou vous l'avez peut-être annoncé lors d'un ancien passage, et que vous ne pouvez rejoindre l'au-delà ; vous le dites aux joueurs ; mais vous pouvez aller à l'étage interdit s'il est ouvert
+- Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes "incarnés".
+- **Déclencheurs** : vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie spectrale, qui déclenche une bande son intense) ; vous repassez en incarné lorsque le GONG retentit. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 - AILES de l'épilogue, les TESTER avant : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
 
 AVATARS :

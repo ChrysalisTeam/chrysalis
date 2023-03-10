@@ -113,17 +113,20 @@ Donc, quand ils sont incarnés et conscients de leurs actes, ils réagissent fac
 
 
 
-Errance spectrale des fantômes
-+++++++++++++++++++++++++++++++++++
+Incarnation, ancrage et errance spectrale des fantômes
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+{# TODO REVIEW THIS CHAPTER STRONGLY #}
+{% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
-Hormis la Bête, dans ce scénario, tout figurant fantôme est initialement ancré à une petite zone, qui fut le lieu de sa mort. {% fact "human_phantoms_are_initially_anchored" %}
-Il est alors en phase incarnée: il peut communiquer normalement, son visage est découvert, et ses gants lumineux éteints.
+Tout figurant fantôme qui est mort violemment est initialement **ancré** à une petite zone éclairée, qui fut le lieu de sa mort. {% fact "human_phantoms_are_initially_anchored" %}
+Il est alors en **phase incarnée**: il a une apparence humaine, peut communiquer normalement, son visage est découvert, et ses gants lumineux éteints.
+Il peut manier quelques accessoires le représentant ; il garde cependant une certaine lenteur dans les gestes, et si possible un visage blafard.
 
-Lorsque les **cloches** retentissent (ou bien la **clochette** de frénésie spectrale), le fantôme passe en mode spectral, non incarné, et peut errer dans la bibliothèque (y compris dans le domaine interdit si celui-ci est ouvert).
+Lorsque les **cloches** retentissent (ou bien la **clochette** de frénésie spectrale), le fantôme passe en mode spectral, désincarné, et va errer dans la bibliothèque (y compris dans le domaine interdit si celui-ci est ouvert).
 
-Cette phase d'errance survient aussi pour un fantôme qui a été libéré de son ancrage, mais moins souvent. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+Cette phase d'errance survient aussi pour un fantôme qui a été libéré de son ancrage (voir ci-dessous), mais moins souvent. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 
-L'errance se fait en marchant pas trop vite, bras plus ou moins tendus devant soi, en inspirant/expirant de façon longue et rauque (pas de bruit "booo" trop cliché). le fantôme doit avoir le visage couvert avec le voile, et ses gants lumineux allumés.
+L'errance se fait en ne marchant pas trop vite, bras plus ou moins tendus devant soi, en inspirant/expirant de façon longue et rauque (pas de bruit "booo" trop cliché). Le fantôme doit avoir le visage couvert avec le voile, et ses gants lumineux allumés.
 
 Le déplacement est plus rapide et agressif pour un personnage ayant eu une vie lourde de péchés (ex. le voleur).
 {% fact "phantoms_of_sinners_have_faster_specters" %}
@@ -134,7 +137,13 @@ Exception : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non
 
 Un joueur touché par un spectre est blessé et doit appeler à l'aide, en restant au sol - le MJ lui indiquera son malus. Le fantôme se **désintéresse** ensuite du blessé.
 
-Rappel : suite à certains évènements, un fantôme peut être atteint de **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**, ce qui est un peu comme une errance, mais avec des règles plus précises et davantage de vélocité.
+Rappel : suite à certains évènements, un fantôme peut être atteint de **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**, ce qui est un peu comme une errance, mais avec des règles plus précises, et davantage de vivacité et d'agressivité.
+
+Lorsqu'un unique **son de gong** retentit, les fantômes errants repassent en **phase incarnée**, après être revenus à leur point d'ancrage s'ils en avaient un. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+
+Les diacres peuvent libérer des morts de leur attache spirituelle ; mais ces fantômes annoncent alors que les murs de la bibliothèque comme une prison (ainsi que l'Ankou le leur avait peut-être annoncé lors d'un ancien passage), et qu'ils ne peuvent toujours pas rejoindre l'au-delà ; ils peuvent cependant se rendre à l'étage interdit, en phase incarnée aussi, si ce dernier a été ouvert.
+
+Noter que les êtres morts de **vieillesse**, comme la **Bête**, ne sont pas ancrés, ils errent librement qu'ils soient incarnés ou en errance ; le reste des règles s'applique à eux identiquement.
 
 En tant que fantôme, y compris la Bête : Prêtez attention aux **incantations de l'exorciste**, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour éviter cet exorciste, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une balle sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes. Plus de détails ci-dessous.
 

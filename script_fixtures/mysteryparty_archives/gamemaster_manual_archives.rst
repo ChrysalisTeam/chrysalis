@@ -107,7 +107,7 @@ C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y e
 Le monde des morts
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Il est composé des humains qui sont morts dans la bibliothèque après sa malédiction, et ne peuvent donc rejoindre l’au-delà.
+Il est représenté par les humains ou bêtes qui sont morts dans la bibliothèque après sa malédiction, et ne peuvent donc rejoindre l’au-delà.
 
 - Les morts peuvent se voir et se toucher mutuellement, mais ne peuvent se nuire entre eux. Les fantômes incarnés peuvent “repousser” leurs congénères désincarnés.
 
@@ -115,17 +115,11 @@ Il est composé des humains qui sont morts dans la bibliothèque après sa malé
 
 - À aucun moment les morts ne peuvent interagir avec les objets du monde vivant. Seule exception, le buffet est composé de plats et boissons compatibles avec tous les mondes.
 
-- Seules des attaques sacrées peuvent les atteindre, pas les attaques physiques ni magiques. Mais puisque présentement ils ne peuvent pas s'échapper de la bibliothèque, en cas de "blessures", ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
-
-- Lorsqu’ils sont “désincarnés”, les morts errent au hasard comme des spectres, entièrement recouverts de linceuls. Parfois, pour diverses raisons, ils entrent en “{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}”, et deviennent plus vifs et agressifs.
-
-- Pendant les moments où ils s’incarnent, les morts reprennent une apparence humaine, toujours vêtus de linceuls mais à visage découvert, et potentiellement avec quelques accessoires représentant leur vie entière ; ils gardent une certaine lenteur dans les gestes, et si possible un visage blafard.
-
-- Lorsqu’ils sont en phase incarnée, les fantômes qui sont morts de façon **violente** sont “attachés” spirituellement à une lumière inamovible, **placée à l’endroit où ils sont morts**. Les morts de **vieillesse**, eux, errent librement (dont la Bête).
+- Seules des attaques sacrées peuvent atteindre les morts, pas les attaques physiques ni magiques. Mais puisque présentement ils ne peuvent pas s'échapper de la bibliothèque, s'ils sont blessés, ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
 
 - Lorsqu'il touche un vivant, tout fantôme - incarné ou non - le blesse dangereusement. {% fact "phantom_touch_harms_the_living" %}
 
-- **Déclencheurs** : durant ce jeu, lorsqu'un **son de cloches d'église** est joué, les fantômes doivent passer en mode désincarné, en **errance spectrale*. Lorsqu'un unique **son de gong** retentit, ils repassent au contraire en **phase incarnée**, après être revenus à leur point d'attache s'ils en ont un. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+- Les fantômes sont soumis à des **règles complexes d'errance, d'incarnation et d'ancrage**, voir le chapitre à ce sujet.
 
 - Les fantômes ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
@@ -441,13 +435,15 @@ La Bête (la goule gardienne du Domaine Interdit)
 
 - Engagée par les parents d’Octave pour garder les grimoires les plus dangereux, dans le Domaine interdit
 
+- Le sceau protégeant le Domaine Interdit l'empêchait elle-même de venir dans la zone autorisée de la bibliothèque
+
 - Ne reconnaît personne comme ami (seuls les parents d’Octave et Mérédice avaient pouvoir sur elle, ni le précepteur ni Octave n’auraient été épargnés s’ils avaient pénétré dans le domaine interdit)
 
 - Morte de vieillesse plus d'un siècle après la malédiction de la bibliothèque, et devenue encore plus féroce à force d’errer sans but dans le domaine interdit
 
 - A une véritable **addiction** pour les {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} (galets phosphorescents) {% fact "beast_is_addicted_to_moon_stones" %}
 
-- Son espèce et ses caractéristiques doivent rester un grand mystère pour les joueurs, afin d’augmenter l’angoisse, et de les forcer à réagir vite pour trouver des solutions, lorsqu’elle apparaît.
+- Son espèce et ses caractéristiques doivent rester un peu mystèrieuses pour les joueurs, afin d’augmenter l’angoisse, et de les forcer à réagir vite pour trouver des solutions, lorsqu’elle apparaît.
 
 - **Les parents Maupertuis, interrogés depuis l’au-delà, peuvent donner des indications sur comment la neutraliser**
 
