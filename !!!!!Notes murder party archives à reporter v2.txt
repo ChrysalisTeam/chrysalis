@@ -17,12 +17,11 @@ Ajouter cassandra
 LAST MINUTE PREPARATIONS :
     Donner lanterne cassée aux SPIES qui peuvent recharger luminis NOPE??
 
-
 IMPORTANT pour spy-sounder : "Détecteur de magnétisme : Si les inscriptions sont un code à trois lettres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification"
 IMPORTANT pour parcival-oracle : dire "avoir confiance dans ses prophéties, et dans l'allié que le destin vous enverra"
 IMPORTANT pour DIACRES : bien clamer les formules rituelles, que tout le monde entende bien !
 
-Préciser répartition des gemmes et pièces d'or, et les rendre utiles  l'alchimie
+Préciser répartition des
 
 - nouvelle quete, détruire la bibliothèque ? à ajouter PLANNING GLOBAL
 
@@ -30,13 +29,9 @@ Préciser répartition des gemmes et pièces d'or, et les rendre utiles  l'alchi
 
 mettre des codes d'analyse magique sur les portraits horrifiques DIVERS
 
-mettre code d'analyse sur GLAIVE ARKONTE
-
-normaliser "Arkonte" ?
-
 PROPHETIE DE CASSANDRA   à enregistrer en audio et ajouter à manuel+planning?
 
-PAS besoin des lebels d'étageres dans l'etage interdit ?? no idea
+PAS besoin des labels d'étageres dans l'etage interdit ?? no idea
 
 Pouvoir refabriquer balles et explosifs simplement ??
 
@@ -67,12 +62,14 @@ ARKONT ANALYSIS CODE xep
 
 ******** LATER *******************
 
-- FORCER COOPERATION et présentation des gens dès le début (briefing)
-- donner plus de jeu à désenvouteurs, énigmes à cardinaux
-- Faire oracle MULTIPARTITE orchestré par la duchesse
-- AJOUTER SOUVENIRS ET ANEDCOTES A OCTAVE
-- Enigme avec disques gramophone ?
 - harmoniser le mot "connaît" et "envoutement"  (LATER)
+- normaliser orthographe de "Arkonte" ?
+- rendre gemmes et pièces d'or utiles à l'alchimie en ingrédients ?
+- donner plus de jeu à désenvouteurs, énigmes à cardinaux
+
+- mettre code d'analyse sur GLAIVE ARKONTE  done
+
+
 - mettre QUELQUES POTIONS que alchimiste AUSSI doit vouloir plus tard, dans la sacoche perdue de l'exorciste
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 - TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
@@ -119,6 +116,14 @@ ARKONT ANALYSIS CODE xep
 
 TRASH
 ########################################
+
+
+- Enigme avec disques de gramophone ?  BOF
+- AJOUTER SOUVENIRS ET ANEDCOTES A OCTAVE  BOF
+
+- Faire oracle MULTIPARTITE orchestré par la duchesse BOF
+
+- FORCER COOPERATION et présentation des gens dès le début (briefing)  DONE
 
 
 - Lettres UTILES : À  É

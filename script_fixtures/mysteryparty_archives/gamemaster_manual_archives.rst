@@ -794,7 +794,7 @@ Planification des prophéties et intuitions
 
 **Donner à l'oracle uniquement le contenu en italique, pas le titre ou le contexte de ces prophéties.**
 
-- **Intuition initiale sur les aventuriers** (à la fin de l'introduction ensemble) : *Vous avez une image en tête celle de plusieurs groupes d'agneaux qui fuient des loups, et qui se réfugient, serrés les un contre les autres, au centre de la forêt. Une clameur surgit : "Unis nous resterons debout, divisés nous tomberons".*
+- **Intuition initiale sur les aventuriers** (à la fin de l'introduction commune, peut être directement soufflée par la duchesse à l'oreille de l'oracle) : *Vous avez une image en tête celle de plusieurs groupes d'agneaux qui fuient des loups, et qui se réfugient, serrés les un contre les autres, au centre de la forêt. Une clameur surgit : "Unis nous resterons debout, divisés nous tomberons".*
 
 - **Intuition sur la Bête et le Mage** (lors de la première rencontre de l'oracle avec la duchesse) : *"Vous sentez de multiples présences errantes. L'une d'elles est remplie d'incompréhension et de haine. Vous sentez aussi une vieille ancienne endormie, à la fois fière et vengeresse, qui semble vous appeler à elle."*
 
