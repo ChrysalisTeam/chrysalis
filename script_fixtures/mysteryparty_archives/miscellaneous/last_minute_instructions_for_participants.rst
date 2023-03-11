@@ -60,7 +60,7 @@ BRIEFING FINAL DES JOUEURS+FIGURANTS
 - Expliquer la présence du photographe (redemander à tous si c'est OK pour droit à l'image)
 - Annoncer la présence du terminal Web des indices et des traductions runiques
 - Rappeler l'existence du "seau argenté des objets utilisés" (ex. pour les clés ou potions utilisées) {% hint 'basket_for_precious_items' is needed %}
-- Annoncer : "En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler: je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de pangéa par exemple, ce n'est pas de la triche, çà fait partie du jeu !"
+- Annoncer : "En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler: je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de pangéa par exemple, ce n'est pas de la triche, çà fait partie du jeu ! Toutes mes possessions sont bien sûr HORS-JEU !"
 
 Conseils divers:
 

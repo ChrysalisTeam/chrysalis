@@ -269,7 +269,7 @@ Les diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
 
 Ces 3 moines officient pour le culte du dieu {% symbol "Bahamoot" for "god_of_diakons" %}, très ancré dans la région. L’oracle de leur monastère a senti qu’une âme ivre de haine se trouvait dans les ruines du manoir Maupertuis (il s’agit de la Bête), ainsi que des âmes errantes (les fantômes). Ils s’y rendent donc pour résoudre les problèmes, et protéger l’ordre des choses.
 
-{# **Ils ont aussi ordre de détruire magiquement les 3 livres “maléfiques” que contient le domaine interdit des Maupertuis, de peur qu’ils ne tombent en de mauvaises mains (la bibliothèque ne peut pas juste être brûlée). ??** NOPE #}
+{# **Ils ont aussi ordre de détruire magiquement les 3 livres “maléfiques” que contient le domaine interdit des Maupertuis, de peur qu’ils ne tombent en de mauvaises mains (la bibliothèque ne peut pas juste être brûlée). ?** NOPE #}
 
 Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 
@@ -481,7 +481,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 - Il peut utiliser son **sang bleu comme la mer**, avec l'aide des esprits de la Nature, pour soigner tous types de maux biologiques. {% fact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% hint "blue_blood_for_druid_healings" is needed %}
 
-{# NOPE - **S’y connait en NECROMANCIE??** #}
+{# NOPE - **S’y connait en NECROMANCIE?** #}
 
 {% endmacro %}
 <{ avatar_druid_character_summary }/>
@@ -1105,11 +1105,11 @@ Dans l’issue optimale du jeu, la malédiction de la bibliothèque est automati
 
 {# NOPE TOO MANY MISSIONS ALREADY
 
-    Préserver les grimoires légendaires (bonus des diacres ?????)
+    Préserver les grimoires légendaires (bonus des diacres ?)
 
     La plupart des ouvrages de la bibliothèque sont des copies de livres courants, ou retrouvés depuis dan s d’autres lieux mystiques. Mais le {% symbol "Thanatologue" for "book_of_the_dead" %}, ainsi que deux ouvrages (Necronomicon? Codex Vampiris ?) ne doivent pas tomber dans les mains des impies qui vont probablement finir par trouver, à leur tour, cette bibliothèque.
 
-    Les deux grimoires supplémentaires peuvent être trouvés grâce au *magnétisme sur une carte de la bibliothèque ??????, ou en soudoyant le voleur.
+    Les deux grimoires supplémentaires peuvent être trouvés grâce au *magnétisme sur une carte de la bibliothèque?, ou en soudoyant le voleur.
 
     Ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...
 
@@ -1289,8 +1289,6 @@ Les colliers éthériques
 
 Les légendes parlent de plusieurs colliers magiques forgés par des alchimistes durant cette {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}, et disparus peu après.
 Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux. En particulier, sa diction trainante mais tonitruante lors de toutes ses apparitions publiques a déclenché plus d'une suspicion. {% fact "magus_mos_peratys_often_wore_manaic_aura_necklace" %}
-
-{# FIXME IMPORTER CELA DEPUIS STATIC PAGES ?? #}
 
 **{% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}** (formé de pierres ovales bleutées translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques (contondantes, perçantes ou tranchantes). En contrepartie, il marche et bouge les bras très lentement, tel un golem.
 
