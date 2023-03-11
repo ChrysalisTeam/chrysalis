@@ -35,10 +35,7 @@ PAS besoin des labels d'étageres dans l'etage interdit ?? no idea
 
 Pouvoir refabriquer balles et explosifs simplement ??
 
-Ajouter quelques chromocryptographes
 
-
-Passer en revue last minute hints
 
 
 
@@ -117,6 +114,11 @@ ARKONT ANALYSIS CODE xep
 TRASH
 ########################################
 
+
+Ajouter quelques chromocryptographes   DONE
+
+
+Passer en revue last minute hints  DONE
 
 - Enigme avec disques de gramophone ?  BOF
 - AJOUTER SOUVENIRS ET ANEDCOTES A OCTAVE  BOF

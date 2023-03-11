@@ -18,7 +18,7 @@ Votre détecteur de métaux vous alerte par des vibrations et des sons lorsque v
 Si vous l'allumez près d'objets métalliques, sa sensibilité sera diminuée, ce qui peut être utile pour déceler des agrégats métalliques au milieu d'autres objets qui feraient sonner le détecteur (comme des étagères en métal).
 
 Etrangement, avez déjà vu ce détecteur sonner devant des *tableaux* ; un érudit vous a indiqué qu'il s'agissait probablement de peintures contenant des pygments de métaux précieux, et servant de support à des "sortilèges prophétiques". Manifestement, celles que vous aviez croisé étaient déjà désenvoutées par un spécialiste, ou par le passage du temps.
-{% fact "spy_sounder_knows_about_horror_portraits" %}
+{% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
 
 Manque de hance : il semble que la **batterie cubique de votre détecteur de métaux soit morte** lors de vos récentes démbulations. Vous cherchez donc ardemment de quoi le remettre en marche. {% hint "spy_sounder_metal_detector_initially_broken" is needed %}
 

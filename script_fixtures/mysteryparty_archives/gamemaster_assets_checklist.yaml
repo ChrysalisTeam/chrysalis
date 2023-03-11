@@ -178,7 +178,7 @@
     - "Portrait de la mère des Maupertuis (Isadora) avec message UV : \"Rien qui m'appartienne Sinon la paix du coeur Et la fraîcheur de l'air\""
     - "Portrait de la fille des Maupertuis (Mérédice) avec message UV : \"Adieu soeurette, qui mourra verra (signé Octave)\""
     - "Portrait du fils des Maupertuis (Octave) avec message UV : \"Tu ne retrouveras jamais tes sousous, frérot ! (signé Mérédice)\""
-    - "Grands portraits lenticulaires avec code d'analyse [{% symbol 'vpx' for 'analysis_code_scary_lenticular_painting' %}] en magnétisme IMPORTANT"
+    - "Grands portraits lenticulaires avec code d'analyse [{% symbol 'vpx' for 'analysis_code_scary_lenticular_paintings' %}] en magnétisme IMPORTANT"
     - "Cadre de remerciement (en message magnétique + message UV) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_and_uv_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
     - "@GENERAL Plume de prophétie sur le cadre de remerciement à stéréogramme {% hint 'feather_on_stereogram_board' is provided %}"
 
