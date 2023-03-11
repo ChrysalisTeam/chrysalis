@@ -32,7 +32,6 @@ Vous attendez donc que quelqu'un de la surface, sensible à ces perturbations da
 
 Il faudra à votre salvateur, non pas briser votre {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque - ce qui anéantirait vos efforts - mais traquer et tuer la monstruosité qui s'y terre assurément encore, et rompre pour de bon les corridors d'outre-monde. Qu'il vous tarde de voir cette mission connaitre une fin heureuse, et de pouvoir rejoindre vos pairs dans les banquets célestes.
 
-
 {#
 
 Ou, si vous n'arrivez pas à en trouver un, au moins une personne qui aura juré suffisamment de choses par le "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}" pour que sa bonne volonté soit attestée.
@@ -67,6 +66,9 @@ Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votr
 Si l'exorciste tente de **briser les corridors outre-monde** alors que des avatars sont encore présents dans la bibliothèque, vous vous demandez ouvertement si cela ne va pas les mettre en grave danger. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
 Dans le Domaine Interdit, vous demandez aux diacres de ne pas libérer le fantôme du **voleur** de son ancrage ; et vous protégez de votre corps les diverses personnes présentes, si ce défunt se montre agressif. Vous tentez de lui expliquer qu'il est bel et bien mort, que son attrait pour les trésors n'a plus aucun sens ; qu'il ferait mieux de vous révéler tout ce qu'il sait ; il doit finir par se laisser convaincre de son statut de fantôme, mais garder son avidité "pour le bien de sa propre descendance". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
+
+Si le dénouement approche, vous pouvez aller interroger (voire faire jurer) les différents groupes de joueurs, quant à ce qu'ils feront des portails menant à la bibliothèque s'ils en réchappent. Vous-même n'avez pas forcément d'avis tranché.
+{% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
 
 
 Connaissances sur votre culte et les autres

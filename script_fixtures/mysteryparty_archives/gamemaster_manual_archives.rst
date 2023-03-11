@@ -278,6 +278,8 @@ Le vêtement de reconnaissance des diacres de {% symbol "Bahamoot" for "god_of_d
 
 Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes par les pointes des doigts, les paumes éloignées l'une de l'autre, comme s'ils enserraient un globe entre elles ; c'est leur signe de prière. Lors de leurs déplacements en procession, ils ânonnent un **son "ôôôôhm"** lent et guttural.
 
+Lors des rituels, ils aiment **clamer bien fort** leurs invocations, avec emphase.
+
 Leur devise est **"Le dragon est notre guide"**, à professer les mains jointes en prière, là encore.
 
 {% endmacro %}
@@ -929,7 +931,7 @@ Les joueurs doivent comprendre qu’il s’agit d’un **moulin à café** simpl
 
 Ce moulin, capable de générer des pierres précieuses à partir de rien, nécessite en réalité un chant issu d'un grimoire magique, pour fonctionner.
 Optionnellement, il faut activer un sceau dans l'étage interdit pour faire apparaître ce grimoire magique.
-Cet ouvrage est protégé par un code qui change tous les quelques jours. {% hint "symbolic_cards_enigma_app" is needed %} {# TODO TELL THAT TO FANTOMS #}
+Cet ouvrage est protégé par un code qui change tous les quelques jours. {% hint "symbolic_cards_enigma_app" is needed %} {% fact "treasure_code_changes_magically" %}
 
 Le code est constitué de symboles répartis entre 4 bijoux (indestructibles) des Maupertuis. 3 bijoux seulement suffisent à activer la chanson, car le dernier symbole peut se trouver *relativement* rapidement par essai et erreur sur le code du grimoire chantant.
 
@@ -1010,12 +1012,10 @@ Les soupçons se portent donc ensuite sur les avatars, qui pouvaient aller et ve
 
 Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais **sans le crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
 
-Dans la niche de la Bête, parmi les restes du voleur, se trouve le **{% symbol "glaive" for "arkon_weapon_name" %} ULTRA-LOURD** de l'arkonte. Cette arme est analysable : elle possède des traces de sang bleu à sa surface. Un des romans concernant le druide mentionne qu'il a le sang bleu.
+Dans la niche de la Bête, parmi les restes du voleur, se trouve le **{% symbol "glaive" for "arkon_weapon_name" %} ULTRA-LOURD** de l'arkonte. Cette arme est analysable : elle possède des traces de sang bleu à sa surface. Hors, un des romans concernant le druide mentionne qu'il a le sang bleu.
 {% hint "arkon_heavy_gladius_sword" is needed %}
 {% fact "arkon_heavy_gladius_sword_has_blue_blood_traces" %}
 {% fact "druid_novels_mention_his_blue_blood" %}
-
-{% hint "spy_sounder_metal_detector_initially_broken" is needed %}
 
 Plusieurs **oracles** sont aussi délivrés pour aiguiller les joueurs.
 

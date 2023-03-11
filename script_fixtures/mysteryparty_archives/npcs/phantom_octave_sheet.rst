@@ -70,7 +70,7 @@ Vous savez que votre soeur gardait ses affaires les plus précieuses dans son pe
 
 L'archiviste vous a indiqué qu'il avait retrouvé, et bien classé, certaines vieilles recettes de potion qui avaient été utiles pour sauver votre soeur Mérédice dans son enfance. {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %} {% fact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 
-Si l'on vous parle du **trésor des Maupertuis**, vous savez que la famille disposait d'un artefact générateur de richesses, dans le domaine interdit.
+Si l'on vous parle du **trésor des Maupertuis**, vous savez que la famille disposait d'un artefact générateur de richesses, dans le domaine interdit. Le code magique pour l'utiliser change chaque jour, vous a-t-on dit. {% fact "treasure_code_changes_magically" %}
 
 Si des joueurs cherchent un chaudron enchanté anti-abrasion, les guider finalement vers le chaudron en cuivre à anse, qui porte des marques d'envoûtement, dans l'étage interdit.
 

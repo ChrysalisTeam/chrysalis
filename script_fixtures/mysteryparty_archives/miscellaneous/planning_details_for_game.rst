@@ -59,7 +59,9 @@ H+X : [Musique] Se tenir prêt à mettre en scène le démasquage du traître (d
 
 H+X : [Musique] Se tenir prêt à mettre en scène l'intrusion des joueurs dans le tombeau du mage
 
-H+X : Le druide va s'asseoir près du pentacle, ravi, avec de gros grimoires qu'il proclame être prometteurs pour s'échapper du lieu. L'Ankou va se préparer pour son discours final.
+H+X : L'arkonte peut aller interroger (voire faire jurer) les différents groupes de joueurs, quant à ce qu'ils feront des portails menant à la bibliothèque, s'ils en réchappent. {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
+
+H+X : Donner au druide le grimoire émettant des sons étrange, et le Thanatologue. Le druide va s'asseoir près du pentacle, ravi, avec ses lectures qu'il proclame être prometteuses pour s'échapper du lieu. L'Ankou va se préparer pour son discours final. {% hint "mystic_soundtrack_for_druid_magic_books" is needed %}
 
 H+X : L'arkonte briefe le diacre qui se prépare à affronter le druide en terminant le rituel d'expulsion ; les avatars décident de retourner dans leurs univers pour ne pas être en danger, et font leurs adieux.
 

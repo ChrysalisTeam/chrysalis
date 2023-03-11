@@ -7,7 +7,9 @@ TODO : holographic cassandra prophecy VIDEO!!
 
 IMPORTANT : trouver des {% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %} à donner aux automates !!!
 
+- acheter guètres / surchaussures et gants blancs, et rubans BLANCS pour automates
 
+- ajouter portraitslenticulaires à étage INTERDIT!!
 
 
 /!\ IMMEDIATELY QUICK
@@ -15,17 +17,12 @@ IMPORTANT : trouver des {% symbol "rubans de dentelle blanche" for "automaton_sy
 - Retrouver broches et papiers/romans/étiquettes manquants
 - ENLEVER l'étiquette "Fabre" de la valise
 - Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
-- Annuler le stéthoscope, mettre la boite à murmures en évidence plutot...
+- Donner le stéthoscope, pour la boite à murmures..
 - LIVRES JUMEAUX : détecteurs de magnétisme, et d'UV AUSSI, donnent le code à 3 chiffres
 
 LAST MINUTE PREPARATIONS :
     Donner lanterne cassée aux SPIES qui peuvent recharger luminis NOPE??
 
-IMPORTANT pour spy-sounder : "Détecteur de magnétisme : Si les inscriptions sont un code à trois lettres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification"
-IMPORTANT pour parcival-oracle : dire "avoir confiance dans ses prophéties, et dans l'allié que le destin vous enverra"
-IMPORTANT pour DIACRES : bien clamer les formules rituelles, que tout le monde entende bien !
-
-Préciser répartition des
 
 - nouvelle quete, détruire la bibliothèque ? à ajouter PLANNING GLOBAL
 
@@ -57,17 +54,9 @@ MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rub
 - DONNER GRIMOIRES à lire au druide à la fin
 
 - Inventeur : LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
-- acheter guètres / surchaussures et gants blancs, et rubans BLANCS pour automates
 
-- Cet ouvrage est protégé par un code qui change tous les quelques jours. {# TODO TELL THAT TO FANTOMS #}
-- Simplifier codes symboliques d'evoutement
 
-- SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
 - Supprimer explorer_unveiler_uv_lamp_initially_broken car conflit avec rechargement des luminis ???
-- Mettre prophétie sur bataille finale avec 4 colliers -> done CASSANDRA
-
-- ERRATUM -> pour le code JSB, c'était un code d'analyse PHYSIQUE, je me suis planté de couleur de pastille (comme je m'étais planté de type d'étoile sur l'armure du diacre)
-
 
 - Ce qu'il faut ajouter:
     - Codes via magnétisme !!! <<<<<<<<<<< pour Détecteur de magnétisme, MANQUE!!!
@@ -75,11 +64,32 @@ MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rub
     - CODES SECRETS    <<<< MANQUE un dernier code secret avec hiéroglyphes ??
 
 
+- SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
+
+
 
 
 
 
 ******** LATER *******************
+
+
+
+
+IMPORTANT pour DIACRES : bien clamer les formules rituelles, que tout le monde entende bien !
+
+IMPORTANT pour parcival-oracle : dire "avoir confiance dans ses prophéties, et dans l'allié que le destin vous enverra" DONE
+
+IMPORTANT pour spy-sounder : "Détecteur de magnétisme : Si les inscriptions sont un code à trois lettres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification"  DONE
+
+- Cet ouvrage est protégé par un code qui change tous les quelques jours. {# TODO TELL THAT TO FANTOMS #}  DONE octave
+
+- Simplifier codes symboliques d'evoutement DONE
+
+- Mettre prophétie sur bataille finale avec 4 colliers -> done CASSANDRA
+
+- ERRATUM -> pour le code JSB, c'était un code d'analyse PHYSIQUE, je me suis planté de couleur de pastille (comme je m'étais planté de type d'étoile sur l'armure du diacre)
+
 
 - harmoniser le mot "connaît" et "envoutement"  (LATER)
 - normaliser orthographe de "Arkonte" ?

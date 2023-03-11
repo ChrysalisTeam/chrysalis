@@ -147,7 +147,7 @@
     - "@AUDIOVIDEO Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF) IMPORTANT"
     - "@AUDIOVIDEO Mini-lecteur MP3 désossé (batterie 3.7V attachée) pour la boîte à murmures IMPORTANT"
     - "@GENERAL Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %} IMPORTANT"
-    - "@AUDIOVIDEO Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %} ???"
+    - "@AUDIOVIDEO ???????TODO Application mobile de scanner de balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %} ???"
     - "@GENERAL Plume de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %} IMPORTANT"
     - "Décorations : boite cylindrique en cuir noir contenant peigne-perroquet, loupe, pipe métallique"
     - "Décorations : mini-jumelles dans étui velours violet, miroir décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol"
@@ -215,6 +215,7 @@
   -
     - "@AUDIOVIDEO Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth (batterie / microUSB) => INITIALEMENT EN HAUT DES ESCALIERS AVEC CRIS DE BETES"
     - "@AUDIOVIDEO Digital MP3/FM Player Key noir (pile AAA incluse) pour l'enceinte Jabra"
+    - "Lanterne en argent marquée comme cassée (nécessite 2xLR20D) {% hint 'random_broken_lantern_to_repair' is provided %}"
 
 -
   - "@ALCHIMIE Laboratoire d'Alchimie [P3]"
@@ -412,8 +413,6 @@
     - "@POTIONS Potions respectivement de Focus et de Charme (pour l'alchemist, appartenait à l'exorcist) {% hint 'potion_of_focus_from_exorcist' is provided %} {% hint 'potion_of_charm_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %}"
     - "@EXTERNE 2 lanternes rouges du Clivra (2xLR20D chacune)"
     - "@EXTERNE Lanterne en bronze (2xLR20D incluses)"
-    - "Lanterne en argent prétendument cassée (nécessite 2xLR20D) {% hint 'broken_lantern_to_repair' is provided %} {% hint 'broken_lantern_battery' is needed %}"
-
 -
   - "@COSTUMES-JOUEURS"
   -

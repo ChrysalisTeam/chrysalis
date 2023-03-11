@@ -46,7 +46,11 @@ En temps que maître actuel des automates, vous les dirigez pour le service de t
 Mais vous vous faites du souci pour le devenir de ces fabuleux automates, dans cette bibliothèque où le matériel de réparation commence à manquer. Si vous croisez un joueur lui aussi intéressé par la robotique, et qui le démontre en utilisant un vocabulaire technique évolué (sur lequel vous rebondissez, en improvisant), vous acceptez de lui **affecter et activer** le bracelet (en quelques coups de tournevis), et vous annoncez **à tous** que désormais les automates présents répondront du mieux possible à ses ordres, et non aux vôtre ; du moins tant que ces ordres ne contredisent pas leurs règles innées de non-agression et de survie. {% fact "spy_minesweeper_likes_building_robots" %}
 {% fact "robots_obey_but_refuse_violence_or_sacrifice" %}
 
-Naturellement, vous savez **réparer** moult choses, par exemple un détecteur de métal cassé, ou une lanterne qui n'éclaire plus, si on vous les amène ; cela vous prend évidemment un peu de temps. {% fact "inventor_can_repair_items" %} {% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "broken_lantern_to_repair" is needed %} *Isolez-vous avec l'objet et mettez-y les grosses piles qui manquent (piles cylindriques et rectangulaires que vous devez avoir reçues au début du jeu), quand cela se produit.*
+Naturellement, vous savez **réparer** moult choses, par exemple un détecteur de métal cassé, ou une lampe UV, ou une lanterne qui n'éclaire plus, si on vous les amène ; cela vous prend évidemment un peu de temps. *Isolez-vous avec l'objet et mettez-y les grosses piles qui manquent (piles cylindriques et rectangulaires que vous devez avoir reçues au début du jeu), quand cela se produit.*
+{% fact "inventor_can_repair_items" %}
+{% hint "explorer_unveiler_uv_lamp_initially_broken" is needed %} {% hint "explorer_unveiler_uv_lamp_battery" is needed %}
+{% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "spy_sounder_metal_detector_battery" is needed %}
+{% hint "random_broken_lantern_to_repair" is needed %} {% hint 'random_broken_lantern_battery' is needed %}
 
 {# ABORTED
  IL A UNE CLEF MAGNETIQUE AUSSI, pour cas de DOUBLE SERRURE !!! NOPE jamais vraiment nécessaire...

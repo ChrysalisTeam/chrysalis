@@ -22,7 +22,7 @@ Si vous l'allumez près d'objets métalliques, sa sensibilité sera diminuée, c
 {% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
 {% hint "potion_of_revelation_for_scary_lenticular_paintings" is needed %}
 
-Manque de hance : il semble que la **batterie cubique de votre détecteur de métaux soit morte** lors de vos récentes démbulations. Vous cherchez donc ardemment de quoi le remettre en marche. {% hint "spy_sounder_metal_detector_initially_broken" is needed %}
+Manque de hance : il semble que la **batterie cubique de votre détecteur de métaux soit morte** lors de vos récentes démbulations. Vous cherchez donc ardemment de quoi le remettre en marche. {% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "spy_sounder_metal_detector_battery" is needed %}
 
 
 Détecteur de magnétisme

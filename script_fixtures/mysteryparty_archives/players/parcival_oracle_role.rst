@@ -6,7 +6,7 @@ Vos compétences
 Dès votre prime jeunesse, vous avez réalisé que vous pouviez voir et entendre des choses que personne d'autre ne semblait sentir.
 Bénédiction ou malédiction ? En tout cas, votre grandiose lignée vous a légué ce don de clairvoyance, qui ne vous a jamais quitté.
 
-Vos oracles sont souvent très énigmatiques, mais avec l'aide de vos proches, vous avez réussissez à leur donner sens. Vous avez ainsi, bien avant tout le monde, pressenti la survenue de guerres et de famines dans les pays alentour, les meilleurs moments pour planter les céréales, et même - moment terrible - la maladie de votre petite soeur.
+Vos oracles sont souvent très énigmatiques, mais avec l'aide de vos proches, vous réussissez systématiquement à leur donner sens. Vous avez ainsi, bien avant tout le monde, pressenti la survenue de guerres et de famines dans les pays alentour, les meilleurs moments pour planter les céréales, et même - terrible instant - la maladie de votre petite soeur.
 
 Tandis que vous pénétrez dans la bibliothèque enfouie des Maupertuis, tous vos sens sont en éveil, pour pouvoir prévenir vos proches, par ces révélations mystérieuses, des aubaines et des dangers qu'elle recèle.
 
