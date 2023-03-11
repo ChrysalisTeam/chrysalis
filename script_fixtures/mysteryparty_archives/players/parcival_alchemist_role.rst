@@ -7,7 +7,7 @@ Vous avez passé les soirées de votre enfance à déchiffrer les quelques livre
 
 Vous commencez donc à avoir une certaine habileté à la confection de potions, non pas médicinales - malgré la tradition de vos aïeux - mais plutôt "suprenantes". Il vous reste cependant beaucoup de chemin à parcourir, tant il est difficile de rassembler les ingrédients, les ustensiles, et - surtout - les recettes de cet art mystérieux.
 
-*NOTE hors-jeu : Les ingrédients et ustensiles qui sont faciles à trouver dans notre monde réel sont censés être tout aussi accessibles dans le monde de la soirée mystère.*
+*NOTE hors-jeu : Les ingrédients et ustensiles qui sont faciles à trouver dans notre monde réel sont censés être tout aussi accessibles dans le monde de Pangéa.*
 
 
 Les ingrédients que vous possédez
@@ -27,7 +27,7 @@ Les ingrédients que vous possédez
 - Huile de ricin
 - Filtrat de marée lunaire
 
-*NOTE hors-jeu: Ces ingrédients-là ne sont pas spécifiquement matérialisés en jeu, simulez-les avec des fioles et pots quelconques.*
+*NOTE hors-jeu: Ces ingrédients-là ne sont pas spécifiquement matérialisés en jeu, simulez-les avec des fioles et pots quelconques. Il vous est conseillé d'amener une petite sacoche rétro/steampunk pour stocker vos possessions et trouvailles alchimiques.*
 
 
 Les ustensiles que vous possédez

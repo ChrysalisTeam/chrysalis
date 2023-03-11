@@ -59,16 +59,12 @@ MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rub
 - rendre gemmes et pièces d'or utiles à l'alchimie en ingrédients ?
 - TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
 - Davantage utiliser le symbole {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL (bof)
+- FORCER à valider chaque tentative avec le symbole familial sur tablette ??  (comme pour cards)  bof pas indispensable
 
 
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 
 
-- Dire explicitement aux joueurs que les romans sont non-soulevables par avatars !!!!!!!!!!
-
-- Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout -> pochettes
-
-- FORCER à valider chaque tentative avec le symbole sur tablette ??  (comme pour cards)
 - AJOUTER UN DERNIER TRAP en fil ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 - DONNER GRIMOIRES à lire au druide à la fin
 
@@ -104,6 +100,10 @@ MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rub
 TRASH
 ########################################
 
+- Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout -> pochettes conseillée OK
+
+
+- Dire explicitement aux joueurs que les romans sont non-soulevables par avatars !!!!!!!!!!  nope NPCs know it
 
 - Dire réaction de l'arkonte ou l'ankou devant autres gens ?  DONE
 

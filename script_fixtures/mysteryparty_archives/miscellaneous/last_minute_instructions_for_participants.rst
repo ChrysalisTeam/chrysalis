@@ -7,7 +7,10 @@ COMPLEMENTS DE BRIEFING POUR LES PARTICIPANTS
 BRIEFING DES FIGURANTS
 --------------------------------
 
-Rappeler que le MJ sera lui-même en jeu, et capable de parler à tous
+Rappeler que le MJ, le **Djinn renégat Meujeuh**, sera lui-même en jeu, et capable de parler à tous.
+
+Rappeler que les fantômes (dont la Bête), et les avatars, **ne peuvent pas se voir mutuellement**.
+Mais que tous peuvent voir l'Ankou qui est divin.
 
 POUR LES FANTÔMES :
 
@@ -17,15 +20,16 @@ POUR LES FANTÔMES :
 
 POUR LES AVATARS :
 
+- Vous pouvez interagir avec tout le contenu de la bibliothèque, mais pas porter de romans !
 - Vous avez tous des talents pour guérir tel ou tel type de blessure ; relisez la section sur les blessures des joueurs, dans le document "Compléments des Figurants"
 
 POUR LES AUTOMATES :
 
 - Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **rubans de dentelle blanche** autour du cou et des poignets
-- Juste après le briefing collectif du début, vous devrez accompagner les groupes de joueurs jusqu'à leurs points de départ
+- Juste après le briefing collectif du début, vous devrez accompagner les groupes de joueurs jusqu'à leurs points de départ (voir le plan du jeu)
 - Lorsque le jeu commence vraiment, vous pouvez pour certains être INACTIFS, assis ou au sol, jusqu'à ce que l'inventeur ne vous allume (les avatars doivent évidemment trouver cela normal)
 - Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le MJ dira si le piège reste encore en place ou non.
-- vers la fin du jeu, après la résolution du mystère, vous aiderez à rassembler les joueurs au bas des escaliers en attendant l'épilogue.
+- Vers la fin du jeu, après la résolution du mystère, vous aiderez à rassembler les joueurs au bas des escaliers en attendant l'épilogue.
 - Après l'épilogue et le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails de téléportation vers la surface vont bientôt se refermer.
 - Prenez des photographies durant le jeu, si possible, SVP !
 

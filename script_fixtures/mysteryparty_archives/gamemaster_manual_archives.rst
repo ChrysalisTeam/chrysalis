@@ -136,7 +136,7 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 - Si les avatars meurent dans le monde réel, cela équivaut à une mort dans leur monde imaginaire (une mort soumise à leur propre système de croyances religieuses) ; ils y sont alors reprojetés, et ne deviennent pas des fantômes dans le monde réel.
 
-- Ils peuvent interagir librement avec le monde des vivants, ses humains et animaux, ses objets et grimoires, **sauf avec les "romans"**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% fact "avatars_cannot_carry_novels" %}
+- Ils peuvent interagir librement avec le monde des vivants, ses humains et animaux, ses objets et grimoires ; **sauf avec les "romans"**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% fact "avatars_cannot_carry_novels" %}
 
 - Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher.
 
