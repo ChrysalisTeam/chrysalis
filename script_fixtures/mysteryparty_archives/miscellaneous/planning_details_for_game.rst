@@ -10,8 +10,8 @@ Questions à poser aux joueurs du groupe avant le jeu :
 
 - Qui êtes-vous ? Que venez-vous faire dans les archives secrètes des Maupertuis ? Quelles sont, pour chacun, vos compétences spéciales ? En quelle année de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %} sommes-nous censés être ?
 - Comment faites-vous, tous ensemble, votre devise et votre geste symbolique ?
-- Avez-vous des questions sur vos rôles ou compétences spécifiques ? *(voir avec le MJ quand il passe)*
-- Avez-vous bien vos vêtements et objets fournis par les organisateurs ? *(voir avec le MJ quand il passe)*
+- Avez-vous des questions sur vos rôles ou compétences spécifiques ? *(dans ce cas voir avec le MJ quand il passe)*
+- Avez-vous bien vos vêtements et objets fournis par les organisateurs ? *(sinon voir avec le MJ quand il passe)*
 {% endmacro %}
 <{ group_briefing_questions }/>
 

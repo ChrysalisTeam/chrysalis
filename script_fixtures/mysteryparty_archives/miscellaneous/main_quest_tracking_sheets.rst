@@ -1,5 +1,5 @@
-FICHE DE SUIVI POUR OCTAVE - Quête des Héritiers Parcival
-=============================================================
+FICHE DE SUIVI POUR OCTAVE ET L'ARCHIVISTE - Quête des Héritiers Parcival
+==================================================================================
 
 <{ group_briefing_questions }/>
 
@@ -52,7 +52,7 @@ FICHE DE SUIVI POUR LE DRUIDE - Quête des Explorateurs héliossars
    PageBreak
 
 
-FICHE DE SUIVI POUR L'ARCHIVISTE - Quête des Diacres de Bahamoot
+FICHE DE SUIVI POUR L'ARKONTE - Quête des Diacres de Bahamoot
 ====================================================================
 
 <{ group_briefing_questions }/>
@@ -63,6 +63,4 @@ FICHE DE SUIVI POUR L'ARCHIVISTE - Quête des Diacres de Bahamoot
 
 ---
 
-**Les diacres ont pour principal objectif de restaurer l'ordre des choses dans la bibliothèque : libérer les âmes prisonnières, voire renvoyer les avatars dans leurs propres mondes.**
-
-*C'est l'arkonte qui se chargera de suivre spécifiquement les diacres pendant le jeu, l'archiviste doit uniquement s'occuper de leur briefing d'équipe, avant le jeu.*
+**Les diacres ont pour principal objectif de restaurer l'ordre des choses dans la bibliothèque : neutraliser la Bête, libérer les âmes prisonnières, et renvoyer les avatars dans leurs propres mondes. Voire s'assurer que la bibliothèque ne nuise plus, sur le long terme.**

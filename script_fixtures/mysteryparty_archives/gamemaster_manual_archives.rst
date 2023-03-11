@@ -161,6 +161,8 @@ Le monde des automates
 
 Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% fact "inventor_has_built_androids" %}
 
+Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **{% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %}** autour du cou et des poignets.
+
 Ils obéissent uniquement au personnage (figurant ou joueur) portant un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**. Ils répondent du mieux possible à ses ordres, tant qu'ils ne contredisent pas frontalement leurs règles innées de non-agression et de survie. *En cas de doute sur ce comment réagir à un ordre difficile, simuler l'hésitation, et demander discrètement au maître de jeu.* {% fact "robots_obey_but_refuse_violence_or_sacrifice" %}
 
 Les robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous.
@@ -1310,7 +1312,7 @@ Depuis la chute du manoir familial, même la bibliothèque enfouie, pourtant bar
 Le domaine interdit et la Bête
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des monstres vivants, enchantés pour se passer de nourriture et vivre longtemps. Choyées en échange de leurs bons services, ces créatures étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres. L'identité de ces créatures était volontairement cachée, par sécurité, si bien que seuls les héritiers Maupertuis savaient à **quelle espèce** elles appartenaient.
+Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des **monstres vivants**, enchantés pour se passer de nourriture et vivre longtemps. Choyées en échange de leurs bons services, ces créatures étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres. L'identité de ces créatures était volontairement cachée, par sécurité, si bien que seuls les héritiers Maupertuis savaient à quelle espèce elles appartenaient.
 
 Lors de la malédiction de la bibliothèque, il restait un monstre de garde, surnommé "La Bête", dans le domaine interdit ; il est probable qu'il a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars). Il parait qu'il avait la particularité d'être très myope, **ne voyant pas grand-chose à plus de 3m**. {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 

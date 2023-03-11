@@ -5,6 +5,10 @@ TODO RESTANT MURDER PARTY (PRINTED NOW)
 
 TODO : holographic cassandra prophecy VIDEO!!
 
+IMPORTANT : trouver des {% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %} à donner aux automates !!!
+
+
+
 
 /!\ IMMEDIATELY QUICK
 - recharger Venture Prins sur place et checker les IBEACON
@@ -47,6 +51,29 @@ DIARY  {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
 MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rubbles de octave
 
 
+- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
+
+- AJOUTER UN DERNIER TRAP en fil ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!
+- DONNER GRIMOIRES à lire au druide à la fin
+
+- Inventeur : LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
+- acheter guètres / surchaussures et gants blancs, et rubans BLANCS pour automates
+
+- Cet ouvrage est protégé par un code qui change tous les quelques jours. {# TODO TELL THAT TO FANTOMS #}
+- Simplifier codes symboliques d'evoutement
+
+- SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
+- Supprimer explorer_unveiler_uv_lamp_initially_broken car conflit avec rechargement des luminis ???
+- Mettre prophétie sur bataille finale avec 4 colliers -> done CASSANDRA
+
+- ERRATUM -> pour le code JSB, c'était un code d'analyse PHYSIQUE, je me suis planté de couleur de pastille (comme je m'étais planté de type d'étoile sur l'armure du diacre)
+
+
+- Ce qu'il faut ajouter:
+    - Codes via magnétisme !!! <<<<<<<<<<< pour Détecteur de magnétisme, MANQUE!!!
+
+    - CODES SECRETS    <<<< MANQUE un dernier code secret avec hiéroglyphes ??
+
 
 
 
@@ -60,38 +87,7 @@ MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rub
 - TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
 - Davantage utiliser le symbole {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL (bof)
 - FORCER à valider chaque tentative avec le symbole familial sur tablette ??  (comme pour cards)  bof pas indispensable
-
-
-- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
-
-
-- AJOUTER UN DERNIER TRAP en fil ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!
-- DONNER GRIMOIRES à lire au druide à la fin
-
-- Inventeur : LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
-- acheter guètres / surchaussures et gants blancs, et rubans blancs pour automates
-
 - Statuer sur nom des portails de transplanage/planétaire/magique qui mènent à la surface ("Symbol" needed)
-
-- Cet ouvrage est protégé par un code qui change tous les quelques jours. {# TODO TELL THAT TO FANTOMS #}
-- Simplifier codes symboliques d'evoutement
-
-- SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
-- Supprimer explorer_unveiler_uv_lamp_initially_broken car conflit avec rechargement des luminis ???
-- Mettre prophétie sur bataille finale avec 4 colliers -> done CASSANDRA
-
-- ERRATUM -> pour le code JSB, c'était un code d'analyse PHYSIQUE, je me suis planté de couleur de pastille (comme je m'étais planté de type d'étoile sur l'armure du diacre)
-
-- Ne pas dire "AMI OU ENNEMI" dans intro audio, faire un serment de zarathoustra initial
-
-- Ce qu'il faut ajouter:
-    - Codes via magnétisme !!! <<<<<<<<<<< pour Détecteur de magnétisme, MANQUE!!!
-
-    - CODES SECRETS    <<<< MANQUE un dernier code secret avec hiéroglyphes ??
-
-
-
-
 
 
 
@@ -99,6 +95,10 @@ MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rub
 
 TRASH
 ########################################
+
+
+- Ne pas dire "AMI OU ENNEMI" dans intro audio, DONE
+- faire un serment de zarathoustra initial  nope overkill
 
 - Trouver comment stocker potions etc sans risque de vol, ni de cassures - ne pas les trimbaler partout -> pochettes conseillée OK
 
