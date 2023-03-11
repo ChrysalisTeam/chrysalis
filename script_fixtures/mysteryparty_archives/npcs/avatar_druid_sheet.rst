@@ -81,7 +81,7 @@ Il vous faut prévoir une posture si le Tome 3 de votre roman (qui vous accable)
 Le complot anti-arkonte
 ===========================
 
-Lorsque des joueurs se mettent à suivre les conseils du fantôme de l'arkonte, vous vous dites que le vent pourrait tourner pour vous ; vous décidez donc de le piéger, en laissant traîner une fausse lettre compromettante dans son ancienne sacoche de ceinture (que vous aviez subtilisée juste après la bataille), quelque part dans le domaine interdit. Vous avez imité, en signature de cette fausse lettre, ce qui pourrait ressembler à des armoiries crédibles pour une secte fanatique chez les humains. {% fact "arkon_bag_remained_after_his_death_but_disappeared" %} {% fact "druid_makes_conspiracy_against_arkon" %}
+Dès que des joueurs se mettent à avoir confiance en l'arkonte, vous vous dites que le vent pourrait tourner pour vous. Vous décidez donc de le piéger, en laissant traîner une fausse lettre compromettante dans son ancienne sacoche de ceinture (que vous aviez subtilisée juste après la bataille), quelque part dans le domaine interdit enfin ouvert. Vous avez imité, en signature de cette fausse lettre, ce qui pourrait ressembler à des armoiries crédibles pour une secte fanatique chez les humains. {% fact "arkon_bag_remained_after_his_death_but_disappeared" %} {% fact "druid_makes_conspiracy_against_arkon" %}
 
 Bien entendu, personne ne doit vous voir poser cette sacoche ; non seulement elle laissera entendre que l'arkonte a pénétré de son vivant dans le domaine interdit, mais aussi qu'il a volontairement tué les réfugiés Maupertuis pour ensuite les emprisonner maléfiquement dans la bibliothèque.
 {% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
@@ -91,7 +91,7 @@ Bien entendu, personne ne doit vous voir poser cette sacoche ; non seulement ell
 La tentative d'assassinat des prophètes
 =============================================
 
-*Lorsque la Duchesse et l'Oracle commencent à enchainer des prophéties qui vous désignent subtilement, vous décidez de les éliminer. Voici la fiche de l'automate de garde, donnant aussi des indications sur vos actions possibles.*
+*Lorsque la Duchesse et l'Oracle commencent à enchainer des prophéties qui vous désignent subtilement, vous décidez de les éliminer. Voici la fiche de l'automate de garde, donnant aussi quelques indications sur vos possibles actions.*
 
 <{ automaton_sentinel_instructions }/>
 

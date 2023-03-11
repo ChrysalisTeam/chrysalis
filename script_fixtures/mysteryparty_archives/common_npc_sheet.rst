@@ -151,7 +151,7 @@ Un joueur touché par un spectre est blessé et doit appeler à l'aide, en resta
 
 Rappel : suite à certains évènements, un fantôme peut être atteint de **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**, ce qui est un peu comme une errance, mais avec des règles plus précises, et davantage de vivacité et d'agressivité.
 
-Lorsqu'un unique **son de gong** retentit, les fantômes errants repassent en **phase incarnée**, après être revenus à leur point d'ancrage s'ils en avaient un. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+Lorsqu'un unique **son de gong** retentit, les fantômes errants repassent en **phase incarnée**, après être revenus à leur **point d'ancrage** s'ils en avaient un. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
 Les diacres peuvent détacher les morts de leur ancrage spirituel ; mais les fantômes libérés annoncent alors que les murs de la bibliothèque sont comme une prison (comme l'Ankou le leur avait signalé lors d'un ancien passage), et qu'ils ne peuvent toujours pas rejoindre l'au-delà ; ils peuvent cependant se rendre à l'étage interdit, en phase incarnée désormais, si ce dernier a été ouvert.
 

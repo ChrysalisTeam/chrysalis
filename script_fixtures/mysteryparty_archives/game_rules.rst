@@ -39,12 +39,14 @@ Compétences, objets et pièges
 
 - Les coffrets et valises qui sont posés sur le sol ou sur une table sont considérés **inamovibles**, il ne faut pas les bouger, et encore moins les secouer pour jauger ce qu'ils contiennent (risque d'objets ou mécanismes fragiles, là encore) ; les petits coffrets et boites placés dans d'autres rangements peuvent, eux, être déplacés avec précaution.
 
-- Afin de s'assurer d'une bonne répartition de l'information parmi les joueurs, et éviter de perdre des objets, il vous est demandé de **ne pas prendre les objets dont vous n'avez pas l'utilité immédiate** ; par exemple les livres, les artefacts, les potions, les clefs disposés dans les lieux. Ainsi, les autres joueurs peuvent les étudier aussi, et participer à la résolution des énigmes (c'est un jeu avant tout **coopératif**). En revanche, lorsque vous trouvez un objet utile à vos compétences spéciales ou à la progression des quêtes, vous pouvez l'emporter, mais prenez soin de bien **informer les autres** de ce que vous possédez, et des nouvelles capacités que cela vous offre. Les richesses (pièces de monnaie, diamants...) peuvent être emportées librement.
+- Afin de s'assurer d'une bonne répartition de l'information parmi les joueurs, et éviter de perdre des objets, il vous est fortement conseillé de **ne pas prendre les objets dont vous n'avez pas l'utilité immédiate** ; par exemple les livres, les artefacts, les potions, les clefs disposés dans les lieux. Ainsi, les autres joueurs peuvent les étudier aussi, et participer à la résolution des énigmes (c'est un jeu avant tout **coopératif**). En revanche, lorsque vous trouvez un objet utile à vos compétences spéciales ou à la progression des quêtes, vous pouvez l'emporter, mais prenez soin de bien **informer les autres** de ce que vous possédez, et des nouvelles capacités que cela vous offre. Les richesses (pièces de monnaie, diamants...) peuvent être emportées librement.
 
 - Les objets du jeu sont parfois **fragiles**, on ne les secoue pas et on ne force pas dessus, en particulier s'ils sont équipés d'un système de verrouillage. Ils nécessitent alors soit d'avoir des compétences spéciales pour les ouvrir (ex. systèmes magnétiques), soit de trouver, selon les cas :
 
   - **Leur clef en métal (s'ils s'agit d'une serrure ou d'un cadenas à clef)**
   - **Leur code secret (s'il s'agit de molettes à chiffres)**
+
+- Sauf avis contraire, les fioles de potion représentent une **unique dose**, et sont vides dès qu'elles ont été bues ou versées pour quelque but que ce soit.
 
 - Lorsque vous avez utilisé pour de bon un objet - par exemple une clé de cadenas ou un elixir - SVP mettez-le dans le **seau argenté** sur la table du buffet, cela nous évitera de le perdre d'ici la fin du jeu.
 

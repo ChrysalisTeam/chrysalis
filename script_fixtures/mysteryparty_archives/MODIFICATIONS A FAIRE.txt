@@ -3,6 +3,9 @@
 CLUES
 ------
 
+
+omù est grimoire traceur ???
+
 Mettre pièces et gemmes dans recette potions
 
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
@@ -10,6 +13,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
 
 
+Prévoir musique en fin d'intro pour intuition oracle
 
 
 donner chromocrypto et en rajouter ++ DANS ASSETS
@@ -32,8 +36,16 @@ Passer en revue les "???"
 
 
 
+
+
 ======================= TRASH ====================
 
+
+
+OLDIE
+ ; y transférer les 2 enceintes noires autonomes MuziliSpeaker (cimetière+alchimie et mini-jungle+gemmologie) pour les mettre aux 2 laboratoires de l'étage interdit, avec les bandes son pertinentes
+
+H : Les JOUEURS se présentent les uns aux autres, en un "tour de table", et chaque GROUPE explique ce qu'il est venu chercher ici.
 
 Revoir discours introductif pour encourager COOPERATION entre joueurs
 

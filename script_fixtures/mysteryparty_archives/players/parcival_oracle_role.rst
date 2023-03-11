@@ -22,8 +22,10 @@ Vous pouvez aussi déclencher des révélations en touchant des objets au passé
 
 Vous avez toujours rêvé de croiser une **licorne de nacre, ou une fontaine d'encens, ou un trèfle à cinq feuilles**. De telles rencontres signifient la survenue de prophéties particulièrement vives, venues des tréfonds du monde invisible ; pour peu, du moins, que le voyant sache activer de tels artefacts, qui perdront leur pouvoir sitôt leur rôle rempli. L'alchimiste de votre groupe peut aider à ce sujet. {% fact "incense_fountain_can_deliver_powerful_prophecy" %} {% hint "incense_fountain" is needed %} {% fact "parcival_alchemist_can_create_incense_cone" %}
 
-Certaines prophéties, exceptionnelles, apparaissent et s'adressent par elles-mêmes aux personnes présentes. Vous avez entendu dire que certains vieux tableaux, une fois recouverts d'une dose de **Potion de Révélation**, avaient délivré de tels prodiges.
-{% fact "parcival_oracle_knows_about_scary_lenticular_paintings" %} {% hint "potion_of_revelation_for_scary_lenticular_paintings" is needed %}
+Certaines prophéties, exceptionnelles, apparaissent et s'adressent par elles-mêmes aux personnes présentes. Vous avez entendu dire que certains vieux tableaux, une fois recouverts d'une dose de **Potion de Révélation**, avaient délivré de tels prodiges
+{% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
+{% fact "parcival_oracle_knows_about_scary_lenticular_paintings" %}
+{% hint "potion_of_revelation_for_scary_lenticular_paintings" is needed %}
 
 
 Les révélations de type "visuel"
@@ -63,5 +65,8 @@ Les intuitions
 Il vous arrive par moment d'avoir, non pas des révélations énigmatiques, mais juste de forts attraits ou appréhensions ; ou alors quelques phrases qui s'impriment en vous.
 
 Vous les communiquez alors à vos proches le plus fidèlement possible, sans nécessairement entrer en transe pour cela.
+
+Au moment où vous prenez le portail vers les Archives des Maupertuis, vous recevez d'ailleurs une puissante image en tête : **plusieurs groupes d'agneaux qui fuient des loups, et qui se réfugient, serrés les un contre les autres, au centre de la forêt. Une clameur surgit : "Unis nous resterons debout, divisés nous tomberons".** *(Note hors-jeu : vous aurez l'occasion de déclamer cette intuition devant tous les joueurs, à la fin du discours introductif musical réalisé par le maître de jeu.)*
+{% fact "parcival_oracle_has_initial_intuition_about_adventurers_solidarity" %}
 
 {% hint "parcival_oracle_intuition_hints" is needed %}

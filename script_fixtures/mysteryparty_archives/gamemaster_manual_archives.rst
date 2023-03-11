@@ -715,15 +715,15 @@ Dès le début de l'aventure, cet automate patrouille bien "mécaniquement" avec
 Plus tard, peu après l'ouverture du Domaine Interdit le druide se sent menacé par les différentes prophéties qui le désignent peu à peu. Il prend donc le contrôle de l'automate de garde, par des champignons/lianes s'infiltrant dans le système central de ladite machine (cela est matérialisé en jeu, par exemple, par de faux végétaux autour de son cou ou derrière son masque).
 {% hint "plants_around_head_of_automaton_hitman" is needed %}
 
-Le druide envoie l'automate de garde pour assassiner (par une balle dans le torse) deux personnes :
+Le druide envoie l'automate de garde pour **assassiner** (par une balle dans le torse) deux personnes :
 
-- La joueuse Oracle, qui reçoit les visions
-- La figurante Duchesse, qui l'aide à cela
+- **La joueuse Oracle**, qui reçoit les visions
+- **La figurante Duchesse**, qui l'aide à cela
 
-L'automate tueur cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus ; car le druide compte sur eux pour supprimer la malédiction de la bibliothèque. Il se montre particulièrement prudent envers les précieux diacres.
+L'automate tueur cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus ; car le druide compte sur eux pour supprimer la malédiction de la bibliothèque. Il se donc montre particulièrement prudent envers les précieux diacres.
 
-Il ne peut pas récupérer ses balles, qui se désagrègent naturellement à l'impact.
-Il ne vise évidemment **jamais la tête** des participants.
+L'automate ne peut pas récupérer ses balles, qui se désagrègent naturellement à l'impact.
+Il ne vise évidemment **jamais la tête** des participants, par sécurité.
 
 Face à cet automate :
 
@@ -796,9 +796,9 @@ Planification des prophéties et intuitions
 
 **Donner à l'oracle uniquement le contenu en italique, pas le titre ou le contexte de ces prophéties.**
 
-- **Intuition initiale sur les aventuriers** (à la fin de l'introduction commune, peut être directement soufflée par la duchesse à l'oreille de l'oracle) : *Vous avez une image en tête celle de plusieurs groupes d'agneaux qui fuient des loups, et qui se réfugient, serrés les un contre les autres, au centre de la forêt. Une clameur surgit : "Unis nous resterons debout, divisés nous tomberons".*
+- **Intuition initiale sur les aventuriers** (à la fin de l'introduction commune) : Cette intuition, sur la nécessité de rester solidaires entre joueurs, est déjà dans la fiche de personnage de l'Oracle. {% fact "parcival_oracle_has_initial_intuition_about_adventurers_solidarity" %}
 
-- **Intuition sur la Bête et le Mage** (lors de la première rencontre de l'oracle avec la duchesse) : *"Vous sentez de multiples présences errantes. L'une d'elles est remplie d'incompréhension et de haine. Vous sentez aussi une vieille ancienne endormie, à la fois fière et vengeresse, qui semble vous appeler à elle."*
+- **Intuition sur la Bête et le Mage** (lors de la première rencontre de l'oracle avec la duchesse) : *"Vous sentez de multiples présences errantes. L'une d'elles est remplie d'incompréhension et de haine. Vous sentez aussi une vieille ancienne endormie, à la fois fière et vengeresse, qui semble vous appeler."*
 
 - **Prophétie des livres jumeaux du père Maupertuis** (plume dans le coffre commun des Maupertuis) : Vision simple, musique "One Last Stand". {% hint 'feather_in_common_family_chest' is needed %}
 
@@ -1056,6 +1056,7 @@ Une prophétie holographique détaillant ce procédé de "diacre invulnérable" 
 {% hint "prophecy_soundtrack_for_scary_lenticular_painting" is needed %}
 {% hint "potion_restoration_recipe_for_alchemist" is needed %}
 {% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
+{% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
 
 - Si cette prophétie holographique n'est pas trouvée, une **intuition** de l'Oracle peut évoquer aussi ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% fact "parcival_oracle_has_intuition_about_last_battle" %}
 
@@ -1071,11 +1072,13 @@ Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'e
 
 - Une fois le rituel à son terme, le druide est comme blessé ; l'arkonte intervient alors pour clamer victoire, et appelle tous les diacres autour de lui pour quelques dernières répétitions de l'incantation rituelle. Il peut s'en désolidariser à la fin pour clamer : **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**. Le druide est alors attiré par le pentacle et y meurt (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres).
 
+- Si le diacre abandonne le rituel pour une raison ou une autre, le druide peut "faire un exemple" en tuant un des joueurs, puis réitère ses ordres envers les survivants.
+
 Que le traître soit anéanti d'une manière ou d'une autre (balle maudite ou rituel d'expulsion), la malédiction prend fin, et l’épilogue peut se dérouler. {% fact "traitor_death_ends_cursed_enclosure" %}
 
-Mais si un joueur suit les ordres du druide et lève la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, ou si tous tardent trop à agir et le druide brise finalement lui-même cette malédiction (grâce une formule prétendument trouvée dans un grimoire) alors le druide s'échappe de la bibliothèque.
+Mais si un joueur suit les ordres du druide et lève la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, ou si tous tardent trop à agir et le druide brise finalement lui-même cette malédiction (grâce une formule prétendument trouvée dans un grimoire), alors le druide s'échappe immédiatement de la bibliothèque.
 
-Les joueurs peuvent dans ce cas effectivement rentrer chez eux, mais avec l'amertume de l'échec : avoir lâché un monstre dans leur monde. Et les **avatars restants** peuvent choisir entre être révoqués, ou rester pour essayer d'aider cette planète face au nouveau péril.
+Les joueurs peuvent dans ce cas effectivement rentrer chez eux, mais avec l'amertume de l'échec : avoir lâché un monstre dans leur monde. Et les **avatars restants** (ou revenus en ayant senti le drame) peuvent choisir entre être révoqués, ou rester pour essayer d'aider cette planète face au nouveau péril.
 
 {% endmacro %}
 <{ quest_to_find_traitor_and_final_battle }/>
