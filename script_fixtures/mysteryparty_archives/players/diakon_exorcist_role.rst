@@ -16,10 +16,11 @@ Les rituels d'exorcisme
 
 Vos rituels exigent des artefacts, des gestuelles, des invocations, et parfois l'usage de potions en soutien de votre force psychique.
 
-Vous aviez emporté dans vos poches assez de potions pour vos rituels habituels ; cependant, par mégarde, vous les avez **fait tomber** à un moment - difficile de savoir si c'était avant ou après le saut à travers le portail magique. Mais peut-être trouverez-vous sur place de quoi vous réapprovisionner, de toute façon. {% fact "diakon_exorcist_lost_potions_bag_found_by_lockpicker" %}
-
 *NOTE hors-jeu : n'hésitez pas à simuler l'épuisement que vous procurent les plus exigeants de ces rituels d'exorcisme, quitte à vous effondrer à genoux après l'un d'eux.*
 
+Vous aviez emporté dans vos poches des **Potions de Charme et de Focus** pour vos rituels habituels ; vous possédiez aussi **une dose de Lotion de Révélation**, confiée avec insistance par l'oracle du monastère.
+Cependant, par mégarde, vous les avez **fait tomber** à un moment - difficile de savoir si c'était avant ou après le saut à travers le portail magique. Diantre. Mais peut-être trouverez-vous sur place de quoi vous réapprovisionner, de toute façon.
+{% hint 'potion_of_focus_from_exorcist' is needed %} {% hint 'potion_of_charm_from_exorcist' is needed %} {% hint "potion_of_revelation_for_scary_lenticular_paintings" is needed %} {% fact "diakon_exorcist_lost_potions_bag_found_by_lockpicker" %}
 
 {% macro phantom_related_spells() %}
 
@@ -75,11 +76,11 @@ Rituel :
 
 - Rassembler **3 autres {% symbol "initiés" for "ritualist_kind_name" %}**, en plus de vous, en cercle autour du fantôme incarné
 - Se mettre tous les quatre avec les bras étendus à l'horizontale
-- Clamer tous ensemble **"Esprit égaré, nous libérons les chaines qui te retiennent"**, trois fois d'affilée
+- Clamer tous ensemble **"Esprit errant, nous brisons les chaines qui te retiennent"**, trois fois d'affilée
 
 D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spirituelles passera moins souvent dans sa forme spectrale. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 
-**Annulation** : n'importe lequel des initiés qui ont participé au rituel peut, tant que le fantôme n'est pas passé dans l'au-delà, restaurer la chaine invisible qui l'attachait à un point précis. Il suffit de tendre les paumes ouvertes vers le fantôme incarné, et de clamer **"Esprit égaré, je restaure les chaines qui te retenaient"**. Le fantôme va alors retourner à son emplacement initial d'attache. {% fact "diakons_can_all_anchor_phantoms" %}
+**Annulation** : n'importe lequel des initiés qui ont participé au rituel peut, tant que le fantôme n'est pas passé dans l'au-delà, restaurer la chaine invisible qui l'attachait à un point précis. Il suffit de tendre les paumes ouvertes vers le fantôme incarné, et de clamer **"Esprit errant, je restaure les chaines qui te retenaient"**. Le fantôme va alors retourner à son emplacement initial d'attache. {% fact "diakons_can_all_anchor_phantoms" %}
 
 {% endmacro %}
 <{ phantom_related_spells }/>
@@ -98,10 +99,10 @@ Rituel :
 - Placer au centre de ce pentacle le maximum d'objets attachés aux corridors outre-monde (talismans maudits, livres d'avatars...)
 - la présence d'{% symbol "initiés" for "ritualist_kind_name" %} supplémentaires autour du pentacle est conseillée, mais pas indispensable
 - Tendre le bras droit vers le portail, les doigts bien écartés
-- Clamer cette incantation : **"Par le soleil victorieux, Par le pouvoir des cieux, Portails disparaissez"** pendant au moins **30 secondes**
+- Clamer en boucle cette incantation : **"Par le soleil victorieux, Par le pouvoir des cieux, Portails disparaissez"** pendant au moins **30 secondes**
 - Il est important de rester bien **immobile** pendant l'incantation, sans quoi le pentacle peut être déstabilisé (il s'éteint brièvement) et cela retarde la finalisation du rituel
 
-Attention, cet exorcisme ne fonctionne sans problèmes que si toutes les entités qui sont venues en ce monde par un des corridors présents sont **retournées** dans leur monde, ou à défaut sont placées **dans** le pentacle. Sans cela, le ritualiste rencontrera une résistance mystique, et l'invocation ne sera pas résolue au bout du temps habituel. Si l'officiant continue alors son invocation pendant **30 secondes supplémentaires**, cela forcera la finalisation du rituel, mais avec la conséquence dramatique de **"tuer"** lesdites entités d'outre-monde encore présentes, quoi que cela signifie concrètement.
+Attention, cet exorcisme ne fonctionne sans problèmes que si toutes les entités qui sont venues en ce monde par un des corridors présents sont **retournées** dans leur monde, ou à défaut sont placées **dans** le pentacle. Sans cela, le ritualiste rencontrera une résistance mystique, et l'invocation ne sera pas résolue au bout du temps habituel. Si l'officiant continue alors son invocation pendant **30 secondes supplémentaires**, cela forcera la finalisation du rituel, mais avec la conséquence dramatique de **"tuer"** lesdites entités d'outre-monde encore présentes ; quoi que cela signifie concrètement, tant cette situation est contre-nature.
 {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
 {# WRONG Notez qu'il est possible, en une seule invocation, de briser plusieurs corridors d'outre-monde à la fois, mais il faut pour cela placer les objets liés à chacun de ces corridors dans le pentacle, et surtout avoir autant de diacres participant au gestes rituels et incantations qu'il n'y a de corridors à fermer.

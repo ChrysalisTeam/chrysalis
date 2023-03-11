@@ -97,4 +97,4 @@ Quelques informations supplémentaires
 
 Vous avez entendu que certains laboratoires d'alchimie très ésotériques disposaient d'un grimoire animé permettant de guider vers les recettes dont on connait le nom exact. {% fact "parcival_alchemist_knows_about_frequency_scanner_book" %}
 
-Vous avez encore du mal avec les noms antiques trouvés dans certains grimoires ; vous avez parfois cherché en vain des ingrédients, avant de réaliser que vous les aviez déjà, sous un autre nom. Heureusement, des herboristes ont souvent débloqué vos recherches. {% fact "druid_known_about_plants_and_gems" %}
+Vous avez encore du mal avec les noms antiques trouvés dans certains grimoires ; vous avez parfois cherché en vain des ingrédients, avant de réaliser que vous les aviez déjà, sous un autre nom. Heureusement, des herboristes et gemmologues ont souvent débloqué vos recherches. {% fact "druid_known_about_plants_and_gems" %}

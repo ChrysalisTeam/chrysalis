@@ -33,7 +33,7 @@ Potions trouvées
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous avez trouvé par terre, lors de votre arrivée dans la bibliothèque, quelques **potions** éparpillées.
-Vous les gardez avec vous, même si personne dans votre équipe n'a de grandes connaissances dans ce domaine.
+Vous les avez gardées avec vous, même si personne dans votre équipe n'a de grandes connaissances dans ce domaine.
 {% fact "diakon_exorcist_lost_potions_bag_found_by_lockpicker" %}
 
 

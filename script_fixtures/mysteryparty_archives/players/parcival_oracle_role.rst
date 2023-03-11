@@ -14,7 +14,7 @@ Tandis que vous pénétrez dans la bibliothèque enfouie des Maupertuis, tous vo
 La survenue des révélations
 +++++++++++++++++++++++++++++++++++++++++++
 
-Parfois, les prophéties vous tombent dessus sans prévenir. Mais bien plus souvent, elles se produisent lorsque vous rencontrez des personnes elles aussi habituées aux influences prophétiques. Vos sens entrent alors mutuellement en résonnance, donnant des prophéties soit davantage complètes, soit partagées entre les personnes présentes.
+Parfois, les prophéties vous tombent dessus sans prévenir. Mais bien plus souvent, elles se produisent lorsque vous rencontrez des personnes elles aussi habituées aux influences prophétiques. Vos sens entrent alors mutuellement en résonance, donnant des prophéties soit plus précises, soit juste partagées entre les personnes présentes.
 
 Vous pouvez aussi déclencher des révélations en touchant des objets au passé lourdement chargé.
 
@@ -22,7 +22,9 @@ Vous pouvez aussi déclencher des révélations en touchant des objets au passé
 
 Vous avez toujours rêvé de croiser une **licorne de nacre, ou une fontaine d'encens, ou un trèfle à cinq feuilles**. De telles rencontres signifient la survenue de prophéties particulièrement vives, venues des tréfonds du monde invisible ; pour peu, du moins, que le voyant sache activer de tels artefacts, qui perdront leur pouvoir sitôt leur rôle rempli. L'alchimiste de votre groupe peut aider à ce sujet. {% fact "incense_fountain_can_deliver_powerful_prophecy" %} {% hint "incense_fountain" is needed %} {% fact "parcival_alchemist_can_create_incense_cone" %}
 
-TO UPDATE
+Certaines prophéties, exceptionnelles, apparaissent et s'adressent par elles-mêmes aux personnes présentes. Vous avez entendu dire que certains vieux tableaux, une fois recouverts d'une dose de **Potion de Révélation**, avaient délivré de tels prodiges.
+{% fact "parcival_oracle_knows_about_scary_lenticular_paintings" %} {% hint "potion_of_revelation_for_scary_lenticular_paintings" is needed %}
+
 
 Les révélations de type "visuel"
 +++++++++++++++++++++++++++++++++

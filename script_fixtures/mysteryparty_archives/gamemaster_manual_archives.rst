@@ -1049,13 +1049,13 @@ Mais il existe certaines façons de l'atteindre :
 
 - Soit la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer détruire massivement les corridors d'outre-monde grâce à l'un de ses **rituels**, et murer ainsi les avatars dans leurs mondes respectifs. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
-Une prophétie détaillant ce procédé de "diacre invulnérable" peut être trouvée en activant, par une Lotion de Restauration, un des portraits horrifiques suspendus au mur ; portrait reconnaissable, car il réagit au détecteur de métaux (le joueur possédant cet outil a des informations là-dessus).
+Une prophétie holographique détaillant ce procédé de "diacre invulnérable" et ses limites peut être déclenchée en activant, par une Lotion de Restauration, un des portraits horrifiques suspendus au mur ; portrait reconnaissable, car il réagit au détecteur de métaux (le joueur possédant cet outil a des informations là-dessus).
 {% hint "scary_lenticular_painting_with_metal_in_it" is needed %}
 {% hint "prophecy_soundtrack_for_scary_lenticular_painting" is needed %}
 {% hint "potion_restoration_recipe_for_alchemist" is needed %}
 {% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
 
-- Une **intuition** de l'Oacle évoque aussi ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% fact "parcival_oracle_has_intuition_about_last_battle" %}
+- Si cette prophétie holographique n'est pas trouvée, une **intuition** de l'Oracle peut évoquer aussi ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% fact "parcival_oracle_has_intuition_about_last_battle" %}
 
 Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'expulsion :
 
@@ -1088,7 +1088,7 @@ Le pentacle et les objets du rituel sont toujours en place, le traître n’ayan
 
 C'est uniquement une fois le plan de bataille finale bien établi, ou le méchant déjà supprimé par un quelconque moyen, que les avatars acceptent de retourner chez eux et de laisser le rituel de l'exorciste les renvoyer définitivement dans leurs mondes.  {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
-Si un joueur tente de renvoyer de force les avatars "gentils", cela causera certainement un certain chaos tant parmi les figurants que les joueurs.
+Si un joueur tente de renvoyer par la force les avatars "gentils", cela causera certainement un certain chaos tant parmi les figurants que les joueurs.
 
 
 Supprimer précocement la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque (piège)
