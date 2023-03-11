@@ -74,17 +74,17 @@ Je suis Cassandra, lointaine petite-fille du Mage Sombre, et prophétesse des di
 
 Depuis mon enfance je n'ai cessé d'avertir des terribles dangers que représentait cette bibliothèque ; moins à cause de ses artefacts ensorcelés, que des auras magiques qui s'y entassent depuis des siècles. Des auras qui, mal dirigées, pourraient éventrer les frontières sacrées séparant les différents univers.
 
-Cependant, par incrédulité, par lâcheté, par flemme, tous ont refusé de m'écouter.
+Cependant, par incrédulité, par lâcheté, par paresse, tous ont refusé de m'écouter.
 
-Mais point n'était besoin d'espérer pour entreprendre, ni de réussir pour persévérer.
-Au crépuscule de ma vie, je vous lègue donc, à vous, générations futures, ces derniers présages.
+Mais point n'est besoin d'espérer pour entreprendre, ni de réussir pour persévérer.
+Au crépuscule de ma vie, je vous lègue donc, à vous, générations futures, ces ultimes présages.
 
 Des catastrophes sont en marche, que plus rien ne peut arrêter.
 Et un jour, enfants, vous vous retrouverez face à la plus grande menace que cette planète ait jamais vu surgir.
 
-Gardez la tête froide, sachez garder en cage une monstruosité que vous ne sauriez vaincre.
+Gardez la tête froide, sachez rester à distance d'une monstruosité que vous ne sauriez vaincre.
 
-Mais lorsque la dernière bataille sera à l'horizon, devenez des bâtisseurs ; les bâtisseurs du plus inébranlable guerrier qui ait jamais existé. Qu'il ne craigne ni les armes, ni les poisons, ni les sortilèges. Qu'il puisse tenir fermement face la tempête, tandis qu'il guidera l'ultime invocation de délivrance.
+Mais lorsque la dernière bataille sera à l'horizon, devenez des bâtisseurs ; les bâtisseurs du plus inébranlable guerrier qui ait jamais existé. Qu'il ne craigne ni les armes, ni les poisons, ni les sortilèges. Qu'il puisse tenir ferme face à la tempête, tandis qu'il guidera l'ultime invocation d'expulsion.
 
 Restez sur vos gardes, enfants. On ne trouve de gloire que dans les périls, on ne trouve de succès que dans l'union des forces, mais on ne trouve de traître que parmi ses amis.
 

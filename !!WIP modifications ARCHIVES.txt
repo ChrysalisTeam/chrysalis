@@ -4,6 +4,11 @@ TODO RESTANT MURDER PARTY (PRINTED NOW)
 ==============================================
 
 
+Voix pour prophetie de Cassandra:
+    https://www.readspeaker.com/text-to-speech-demo/
+    French Elise Female Neural
+
+
 POUR ASSETS CHECKLIST
 - Marquer dans assets checklist les diverses images chromocrypto
 - checklist - Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
@@ -18,7 +23,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 - Prévoir musique en fin d'intro pour intuition oracle ?
 
-- TODO : holographic cassandra prophecy VIDEO!!
+- TODO : holographic cassandra prophecy VIDEO!!  besoin de speech de 1mn20 max
 
 - IMPORTANT : trouver des {% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %} à donner aux automates !!!
 
