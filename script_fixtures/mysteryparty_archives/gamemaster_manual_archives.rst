@@ -1054,9 +1054,9 @@ Mais il existe certaines façons de l'atteindre :
 Une prophétie holographique détaillant ce procédé de "diacre invulnérable" et ses limites peut être déclenchée en activant, par une Lotion de Restauration, un des portraits horrifiques suspendus au mur ; portrait reconnaissable, car il réagit au détecteur de métaux (le joueur possédant cet outil a des informations là-dessus).
 {% hint "scary_lenticular_painting_with_metal_in_it" is needed %}
 {% hint "prophecy_soundtrack_for_scary_lenticular_painting" is needed %}
-{% hint "potion_restoration_recipe_for_alchemist" is needed %}
 {% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
 {% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
+{% hint "potion_of_revelation_from_exorcist" is needed %}
 
 - Si cette prophétie holographique n'est pas trouvée, une **intuition** de l'Oracle peut évoquer aussi ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% fact "parcival_oracle_has_intuition_about_last_battle" %}
 

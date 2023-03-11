@@ -25,7 +25,6 @@ Vous avez toujours rêvé de croiser une **licorne de nacre, ou une fontaine d'e
 Certaines prophéties, exceptionnelles, apparaissent et s'adressent par elles-mêmes aux personnes présentes. Vous avez entendu dire que certains vieux tableaux, une fois recouverts d'une dose de **Potion de Révélation**, avaient délivré de tels prodiges
 {% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
 {% fact "parcival_oracle_knows_about_scary_lenticular_paintings" %}
-{% hint "potion_of_revelation_for_scary_lenticular_paintings" is needed %}
 
 
 Les révélations de type "visuel"

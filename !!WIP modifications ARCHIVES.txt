@@ -9,11 +9,6 @@ Voix pour prophetie de Cassandra:
     French Elise Female Neural
 
 
-POUR ASSETS CHECKLIST
-- Marquer dans assets checklist les diverses images chromocrypto
-- checklist - Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
-- ajouter asset list ARKONTE ANALYSIS CODE xep
-
 
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
@@ -21,9 +16,9 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - ajouter portraits lenticulaires à étage INTERDIT!!
 
 
-- Prévoir musique en fin d'intro pour intuition oracle ?
+- Prévoir musique en fin d'intro pour intuition oracle ? nope no need
 
-- TODO : holographic cassandra prophecy VIDEO!!  besoin de speech de 1mn20 max
+- TODO : holographic cassandra prophecy VIDEO!!  besoin de speech de 1mn20 max  WIP
 
 - IMPORTANT : trouver des {% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %} à donner aux automates !!!
 
@@ -39,7 +34,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 - AJOUTER UN DERNIER TRAP en fil ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 
-- Codes autres via magnétisme !!! <<<<<pour Détecteur de magnétisme, MANQUE vraiment ?  bod
+- Codes autres via magnétisme !!! <<<<<pour Détecteur de magnétisme, MANQUE vraiment ?  bof
 
 - CODES SECRETS  <<<< MANQUE un dernier code secret avec hiéroglyphes ??
 
@@ -53,6 +48,37 @@ https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_puzzle/
 https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_cards/
 https://anthropia.prolifik.net/DEMO/anonymous/ability/my_runic_translation_open/
 https://anthropia.prolifik.net/DEMO/anonymous/clues/
+
+
+
+
+POUR ASSETS CHECKLIST
+- Marquer dans assets checklist les diverses images chromocrypto
+- checklist - Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
+- ajouter asset list ARKONTE ANALYSIS CODE xep
+
+
+
+TO FIX :
+{% hint 'XX' is provided %}"
+!!!!! ERROR IN hints registry for key 'abyssal_vortex_coded_tray' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'blue_blood_for_druid_healings' : {'needed'} requires a provided hint ??????
+!!!!! WARNING IN hints registry for key 'broken_lantern_battery' : {'provided'} normally requires a needed hint
+!!!!! WARNING IN hints registry for key 'candle_batteries_for_minesweeper' : {'provided'} normally requires a needed hint
+!!!!! WARNING IN hints registry for key 'candles_without_battery' : {'provided'} normally requires a needed hint
+!!!!! ERROR IN hints registry for key 'miscellaneous_valuable_objects_gathered_by_archivist' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'mystic_soundtrack_for_druid_magic_books' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'plants_around_head_of_automaton_hitman' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'potion_of_revelation_for_scary_lenticular_paintings' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'potion_restoration_recipe_for_alchemist' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'prophecy_soundtrack_for_scary_lenticular_painting' : {'needed'} requires a provided hint >> galeie portraits+pyramide
+!!!!! ERROR IN hints registry for key 'random_broken_lantern_battery' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'red_goggles_for_dispeller' : {'needed'} requires a provided hint  >> % hint "colored_goggles_for_dispeller" is needed %}
+!!!!! ERROR IN hints registry for key 'scary_lenticular_painting_with_metal_in_it' : {'needed'} requires a provided hint!!!!! ERROR IN hints registry for key 'secret_codes_sheet_for_explorer_runologist' : {'needed'} requires a provided hint!!!!! ERROR IN hints registry for key 'spiritual_orb_coded_tray' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'spiritual_orb_key_3_face_pyramid' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'spiritual_orb_key_4_face_pyramid' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'spiritual_orb_key_cube_is_needed' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'spiritual_orb_key_diamond_is_needed' : {'needed'} requires a provided hint
 
 
 

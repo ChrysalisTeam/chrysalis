@@ -12,6 +12,7 @@ Mais votre vocation s'est rapidement imposée à vous : invocateur, c'est-à-dir
 
 {# NOPE NOTE : l'invocateur apprendra aussi au cours de la partie à invoquer des zombies à partir de cadavres, ou à appeler l'Ankou #}
 
+
 Thuriféraire (encenseur)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -43,7 +44,6 @@ Notez que seule la personne ayant dessiné un pentacle ou un sceau peut facileme
 Vous pouvez en revanche facilement **réactiver** un pentacle ou sceau existant, en **l'encensant** (un tour suffit) puis en clamant l'invocation **"Ô pentacle (ou "sceau magique"), réveille-toi et écoute ma voix"**. Le pentacle ou sceau devrait s'illuminer peu après, signe qu'il est désormais actif ; il peut se désactiver de lui-même au bout d'un certain temps sans utilisation. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
 
 
-
 Stase absolue
 +++++++++++++++++++++++
 
@@ -53,7 +53,7 @@ Rituel :
 
 - Utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
 - Amener à l'intérieur l'entité ciblée, quelque soit son état actuel
-- Réciter trois fois à haute voix : **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, reste suspendu."**
+- Réciter trois fois à haute voix : **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, reste immobile."**
 - L'entité peut bouger un peu, mais elle doit rester à l'intérieur du pentacle pendant toute la durée du rituel, sans quoi l'envoûtement échoue.
 
 

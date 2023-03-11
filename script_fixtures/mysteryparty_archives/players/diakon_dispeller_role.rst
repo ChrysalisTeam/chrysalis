@@ -89,9 +89,9 @@ La lecture des significations d'auras magiques
 
 Vous êtes capable de lire directement la **signification de l'aura magique** ancrée dans certains endroits puissamment enchantés ; par exemple des lieux servant à d'anciens rituels familiaux, ou des protections posées pour sceller durablement des lieux.
 
-*NOTES hors-jeu* : Ces noms sont sous forme de *codes polychromatiques*, autrement dit des nuages de lettres de toutes les couleurs, sur un écriteau blanc. Pour lire les lettres réellement pertinentes, il vous suffira de porter des **lunettes rouges** (fournies par les organisateurs avant le jeu), qui masqueront les lettres inutiles.
+*NOTES hors-jeu* : Ces noms sont sous forme de *codes polychromatiques*, autrement dit des nuages de lettres de toutes les couleurs, sur un écriteau blanc. Pour lire les lettres réellement pertinentes, il vous suffira de porter des **lunettes de couleur** (fournies par les organisateurs avant le jeu), qui selon l'oeil fermé, masqueront ou non les lettres inutiles.
 
-{% hint "red_goggles_for_dispeller" is needed %}
+{% hint "colored_goggles_for_dispeller" is needed %}
 
 
 Vos connaissances sur les différents types de blessures

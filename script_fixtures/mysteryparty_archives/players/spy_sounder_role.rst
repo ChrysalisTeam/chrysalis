@@ -20,7 +20,6 @@ Si vous l'allumez près d'objets métalliques, sa sensibilité sera diminuée, c
 Étrangement, avez déjà vu ce détecteur sonner devant des *tableaux* ; un érudit vous a indiqué qu'il s'agissait probablement de peintures contenant des pygments de métaux précieux, et servant de support à de puissants "sortilèges prophétiques". Manifestement, celles que vous aviez croisées étaient déjà désenvoutées par un spécialiste, ou par le passage du temps ; car lorsque l'érudit les a couvertes de **"Lotion de Révélation"**, elles ont à peine réagi.
 {% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
 {% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
-{% hint "potion_of_revelation_for_scary_lenticular_paintings" is needed %}
 
 Manque de hance : il semble que la **batterie cubique de votre détecteur de métaux soit morte** lors de vos récentes démbulations. Vous cherchez donc ardemment de quoi le remettre en marche. {% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "spy_sounder_metal_detector_battery" is needed %}
 
