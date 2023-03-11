@@ -253,7 +253,7 @@ Leurs compétences sont orientées vers la nature et la magie.
 
 {% macro parcival_group_symbols() %}
 
-Le blason de la famille Parcival est un **bâton noueux autour duquel un serpent est enroulé**.
+Le blason de la famille Parcival est un **bâton noueux autour duquel un unique serpent est enroulé**.
 {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %}
 
 Son vêtement de reconnaissance est un **jabot bleu-royal** *(fourni par les organisateurs)*.
@@ -313,7 +313,7 @@ Octave de Maupertuis (l’enfant)
 
 - Octave ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu, ni pourquoi il est ancré à un endroit précis.
 
-- Excité d’apprendre que les joueurs ont croisé son précepteur (l’enfant sait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
+- Excité d’apprendre que les joueurs ont croisé son précepteur (l’enfant savait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
 
 - Passionné de littérature fantastique et autres livres.
 
@@ -346,7 +346,7 @@ Octave de Maupertuis (l’enfant)
 
 - Il a tenu un petit journal de bord pendant leur enfermement, qui doit se trouver quelque part dans la bibliothèque. {% fact "archivist_began_diary_during_confinement" %}
 
-- Excité d’apprendre que les joueurs ont croisé l’enfant (le précepteur sait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
+- Excité d’apprendre que les joueurs ont croisé l’enfant (le précepteur savait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
 
 - Se demande ouvertement si ce n’est pas son oeuvre d’inventaire et rangement complet de la bibliothèque, inachevée, qui le retient dans ce monde.
 

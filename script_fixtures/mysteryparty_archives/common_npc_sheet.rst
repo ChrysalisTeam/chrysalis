@@ -153,7 +153,7 @@ Rappel : suite à certains évènements, un fantôme peut être atteint de **{% 
 
 Lorsqu'un unique **son de gong** retentit, les fantômes errants repassent en **phase incarnée**, après être revenus à leur point d'ancrage s'ils en avaient un. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
-Les diacres peuvent libérer des morts de leur attache spirituelle ; mais ces fantômes annoncent alors que les murs de la bibliothèque comme une prison (ainsi que l'Ankou le leur avait peut-être annoncé lors d'un ancien passage), et qu'ils ne peuvent toujours pas rejoindre l'au-delà ; ils peuvent cependant se rendre à l'étage interdit, en phase incarnée aussi, si ce dernier a été ouvert.
+Les diacres peuvent détacher les morts de leur ancrage spirituel ; mais les fantômes libérés annoncent alors que les murs de la bibliothèque sont comme une prison (comme l'Ankou le leur avait signalé lors d'un ancien passage), et qu'ils ne peuvent toujours pas rejoindre l'au-delà ; ils peuvent cependant se rendre à l'étage interdit, en phase incarnée désormais, si ce dernier a été ouvert.
 
 Noter que les êtres morts de **vieillesse**, comme la **Bête**, ne sont pas ancrés, ils errent librement qu'ils soient incarnés ou en errance ; le reste des règles s'applique à eux identiquement.
 
