@@ -186,6 +186,18 @@ static_pages:
 
             Aucune trace de maladie ou de poison, mais des déformations probablement dues à un alcoolisme persistant.
 
+    arkon_heavy_gladius_analysis:
+        title: "Analyse du glaive de l'arkonte"
+        categories: ["analyse"]
+        clue_code: "xep"
+        keywords: []
+        content: |
+            Ce glaive en airain hyper-condensé date de 500 ans environ. 
+            
+            Les nombreuses traces d'usure et de réparation attestent d'une longue période d'utilisation.
+            
+            La pointe est parsemée de tâches d'un fluide sanguin riche en manganate, qui possède donc une couleur bleutée.
+
     thief_wallet_scroll_analysis:
         title: "Analyse du parchemin du portefeuille du voleur"
         categories: ["analyse"]
@@ -199,7 +211,7 @@ static_pages:
             Par corrélation des signaux faibles, vous identifiez un code ainsi dissimulé : **1 5 9**
 
     scary_lenticular_painting_analysis:
-        title: "Analyse des portraits lenticulaires effrayant"
+        title: "Analyse des portraits lenticulaires effrayants"
         categories: ["analyse"]
         clue_code: "vpx"
         keywords: []

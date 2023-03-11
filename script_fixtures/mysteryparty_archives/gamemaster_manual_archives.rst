@@ -792,21 +792,25 @@ Planification des prophéties et intuitions
 
 {% macro planning_of_prophecies() %}
 
-- **Intuition initiale sur la Bête** (avant l'entrée en jeu) : *"Vous sentez de multiples présences errantes, et parmi elles une remplie d'incompréhension et de haine. Vous sentez aussi une vieille présence endormie, à la fois fière et vindicative, qui semble vous appeler à elle."*
+**Donner à l'oracle uniquement le contenu en italique, pas le titre ou le contexte de ces prophéties.**
+
+- **Intuition initiale sur les aventuriers** (à la fin de l'introduction ensemble) : *Vous avez une image en tête celle de plusieurs groupes d'agneaux qui fuient des loups, et qui se réfugient, serrés les un contre les autres, au centre de la forêt. Une clameur surgit : "Unis nous resterons debout, divisés nous tomberons".*
+
+- **Intuition sur la Bête et le Mage** (lors de la première rencontre de l'oracle avec la duchesse) : *"Vous sentez de multiples présences errantes. L'une d'elles est remplie d'incompréhension et de haine. Vous sentez aussi une vieille ancienne endormie, à la fois fière et vengeresse, qui semble vous appeler à elle."*
 
 - **Prophétie des livres jumeaux du père Maupertuis** (plume dans le coffre commun des Maupertuis) : Vision simple, musique "One Last Stand". {% hint 'feather_in_common_family_chest' is needed %}
 
-- **Intuition sur l'étage interdit** (lorsque l'étage interdit est ouvert) : *"Vous sentez se déverser sur vous le poids de siècles, de millénaires mêmes, de connaissances qui sont sources de vie, mais aussi souvent de mort. Cependant, vous le sentez, le Mal est bien plus ancré dans l'étage autorisé, qu'il ne l'est dans l'étage interdit."*
+- **Intuition sur le domaine interdit** (lorsque les joueurs entrent dans l'étage interdit) : *"Vous sentez se déverser sur vous le poids de siècles, de millénaires de connaissances qui sont sources de vie, mais aussi parfois de mort. Cependant, vous le sentez, le Mal est bien plus ancré dans l'étage autorisé, qu'il ne l'est dans l'étage interdit."*
 
-- **Prophétie sur le moulin générateur de richesses** (plume sur le tableau avec stéréogramme près des portraits) : Vision simple, musique "Here and Now (Seed's Theme)". {% hint 'feather_on_stereogram_board' is needed %}
+- **Prophétie sur le moulin générateur de richesses** (plume sur le tableau avec stéréogramme de moulin près des portraits) : Vision simple, musique "Here and Now (Seed's Theme)". {% hint 'feather_on_stereogram_board' is needed %}
 
-- **Prophétie de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "The Calling". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% hint 'feather_in_thanatologue' is needed %} Si le joueur Oracle ne se sent pas capable de gérer cette prophétie audio, repasser sur une simple vision, avec image.
+- **Prophétie de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "The Calling". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% hint 'feather_in_thanatologue' is needed %} Si le joueur Oracle ne se sent pas capable de gérer cette prophétie audio, repasser sur une simple vision, avec l'image.
 
-- **Prophétie du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte) : Vision simple, musique "Broken Truth light (Delphi's Theme)". {% hint 'feather_in_arkon_bag' is needed %}
+- **Prophétie du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte déposée par le méchant) : Vision simple, musique "Broken Truth light (Delphi's Theme)". {% hint 'feather_in_arkon_bag' is needed %}
 
 - **Prophétie du crâne de l’arkonte et du danger planétaire** (plume puis allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "Broken Truth heavy (Delphi's Theme)".
 
-- **Intuition sur la dernière bataille** (lorsque le méchant est démasqué) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un toureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire le taureau. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."* {% fact "parcival_oracle_has_intuition_about_last_battle" %}
+- **Intuition sur la dernière bataille** (peu après que le méchant est démasqué, mais UNIQUEMENT si la prophétie holographique de Cassandra n'a pas été déclenchée via les portraits lenticulaires effrayants) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un taureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire leur ennemie. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."* {% fact "parcival_oracle_has_intuition_about_last_battle" %}
 
 {% endmacro %}
 <{ planning_of_prophecies }/>

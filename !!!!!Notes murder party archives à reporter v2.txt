@@ -62,11 +62,11 @@ MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rub
 
 ajouter infos sur voleur et ses descendants
 
-
+ARKONT ANALYSIS CODE xep
 
 
 ******** LATER *******************
-- Lettres UTILES : À  É
+
 - FORCER COOPERATION et présentation des gens dès le début (briefing)
 - donner plus de jeu à désenvouteurs, énigmes à cardinaux
 - Faire oracle MULTIPARTITE orchestré par la duchesse
@@ -120,6 +120,8 @@ ajouter infos sur voleur et ses descendants
 TRASH
 ########################################
 
+
+- Lettres UTILES : À  É
 
 DONE :
 - ANALYSES D'OBJETS avec code
