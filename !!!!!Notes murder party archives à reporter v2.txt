@@ -3,35 +3,47 @@
 TODO RESTANT MURDER PARTY (PRINTED NOW)
 ==============================================
 
-TODO : holographic cassandra prophecy VIDEO!!
+- Passer en revue les "???" dans les docs de jeu
 
-IMPORTANT : trouver des {% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %} à donner aux automates !!!
+INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
+- Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
+- Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
+
+- Prévoir musique en fin d'intro pour intuition oracle ?
+
+- Marquer dans assets checklist les diverses images chromcrypto
+
+- TODO : holographic cassandra prophecy VIDEO!!
+
+- IMPORTANT : trouver des {% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %} à donner aux automates !!!
 
 - acheter guètres / surchaussures et gants blancs, et rubans BLANCS pour automates
 
-- ajouter portraitslenticulaires à étage INTERDIT!!
+- ajouter portraits lenticulaires à étage INTERDIT!!
 
+- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 
-/!\ IMMEDIATELY QUICK
-- recharger Venture Prins sur place et checker les IBEACON
-- Retrouver broches et papiers/romans/étiquettes manquants
+- Ajouter grimoire pour les IBEACON POUR DERNIER LIVRET!!!!
+        OMais vous expliquez aux joueurs qu'il existe un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** permettant de suivre les vibrations magiques de ces recettes fondamentales, grimoire qui doit être dans un des coffres de l'étage autorisé. Lorsque les joueurs vous le ramènent, vous leur donnez une phrase magique quelconque à prononcer (par exemple **"Grimoire traceur, dis-moi où sont les recettes qui guérissent"**), et le MJ activera la tablette tactile pour les joueurs. {% hint "radio_frequency_scanner_app_in_chest" is needed %}
+        **Si le grimoire traceur ne fonctionne pas, indiquez que les recettes fondamentales sont aussi trouvables grâce à des flèches blanches marquées au sol.** {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %}
+
 - ENLEVER l'étiquette "Fabre" de la valise
-- Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
-- Donner le stéthoscope, pour la boite à murmures..
-- LIVRES JUMEAUX : détecteurs de magnétisme, et d'UV AUSSI, donnent le code à 3 chiffres
 
-LAST MINUTE PREPARATIONS :
-    Donner lanterne cassée aux SPIES qui peuvent recharger luminis NOPE??
+- checklist - Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
 
+- ajouter asset list ARKONT ANALYSIS CODE xep
 
-- nouvelle quete, détruire la bibliothèque ? à ajouter PLANNING GLOBAL
+- PAS besoin des labels d'étageres dans l'etage interdit Zoologie/Gastronomie ? Ou mettre plan des lieux ?
 
-ARKONT ANALYSIS CODE xep
+- Inventeur : LUI AUSSI A CLEF MAGNETIQUE, pour DOUBLE serrure ???
 
+- AJOUTER UN DERNIER TRAP en fil ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 
-PAS besoin des labels d'étageres dans l'etage interdit ?? no idea
+- Codes via magnétisme !!! <<<<<pour Détecteur de magnétisme, MANQUE vraiment ?  bod
 
-Pouvoir refabriquer balles et explosifs simplement ??
+- CODES SECRETS    <<<< MANQUE un dernier code secret avec hiéroglyphes ??
+
+- SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
 
 
 URLS IMPORTANTES
@@ -41,40 +53,51 @@ https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_cards/
 https://anthropia.prolifik.net/DEMO/anonymous/ability/my_runic_translation_open/
 https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
-{% fact "arkon_heavy_gladius_sword_has_blue_blood_traces" %} <-- analyse à ajouter
-
-DIARY  {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
-
-MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rubbles de octave
 
 
-- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 
-- AJOUTER UN DERNIER TRAP en fil ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!
-- DONNER GRIMOIRES à lire au druide à la fin
-
-- Inventeur : LUI AUSSI A CLEF MAGNETIQUE DOUBLE ???
+******** TODO LATER *******************
 
 
-- Supprimer explorer_unveiler_uv_lamp_initially_broken car conflit avec rechargement des luminis ???
-
-- Ce qu'il faut ajouter:
-    - Codes via magnétisme !!! <<<<<<<<<<< pour Détecteur de magnétisme, MANQUE!!!
-
-    - CODES SECRETS    <<<< MANQUE un dernier code secret avec hiéroglyphes ??
-
-
-- SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
+- Harmoniser le mot "connaît" et "envoutement"  (LATER)
+- Normaliser orthographe de "Arkonte" ?
+- Rendre gemmes et pièces d'or utiles à l'alchimie en ingrédients ?
+- TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
+- Davantage utiliser le symbole {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL (bof)
+- FORCER à valider chaque tentative avec le symbole familial sur tablette ??  (comme pour cards)  bof pas indispensable
+- Statuer sur nom des portails de transplanage/planétaire/magique qui mènent à la surface ("Symbol" needed)
+- Pouvoir refabriquer balles et explosifs simplement ? bod
 
 
 
 
 
 
-******** LATER *******************
+
+
+TRASH
+########################################
 
 
 
+
+
+{% fact "arkon_heavy_gladius_sword_has_blue_blood_traces" %} <-- analyse à ajouter  done
+
+- nouvelle quete, détruire la bibliothèque ? à ajouter PLANNING GLOBAL  done
+
+LAST MINUTE PREPARATIONS :
+    Donner lanterne cassée aux SPIES qui peuvent recharger luminis NOPE??
+
+/!\ IMMEDIATELY QUICK
+- recharger Venture Prins sur place et checker les IBEACON
+
+
+
+- Donner le stéthoscope, pour la boite à murmures..
+- LIVRES JUMEAUX : détecteurs de magnétisme, et d'UV AUSSI, donnent le code à 3 chiffres
+
+- Retrouver broches et papiers/romans/étiquettes manquants
 
 IMPORTANT pour DIACRES : bien clamer les formules rituelles, que tout le monde entende bien !
 
@@ -91,20 +114,13 @@ IMPORTANT pour spy-sounder : "Détecteur de magnétisme : Si les inscriptions so
 - ERRATUM -> pour le code JSB, c'était un code d'analyse PHYSIQUE, je me suis planté de couleur de pastille (comme je m'étais planté de type d'étoile sur l'armure du diacre)
 
 
-- harmoniser le mot "connaît" et "envoutement"  (LATER)
-- normaliser orthographe de "Arkonte" ?
-- rendre gemmes et pièces d'or utiles à l'alchimie en ingrédients ?
-- TOUJOURS générer aussi les fiches SANS DECORATIONS dans le build_xxx !!!
-- Davantage utiliser le symbole {% fact "coat_of_arms_of_parcival_is_partial_caduceus" %} pour PARCIVAL (bof)
-- FORCER à valider chaque tentative avec le symbole familial sur tablette ??  (comme pour cards)  bof pas indispensable
-- Statuer sur nom des portails de transplanage/planétaire/magique qui mènent à la surface ("Symbol" needed)
+DIARY  {% fact "archivist_knows_about_thanatologue_location_and_double_code" %}
 
+MAJ diary de l'archivist en conformité avec travel_bag_with_money_under_far_rubbles de octave  done
 
+- Supprimer explorer_unveiler_uv_lamp_initially_broken car conflit avec rechargement des luminis ???  nope
 
-
-
-TRASH
-########################################
+- DONNER GRIMOIRES à lire au druide à la fin  done
 
 
 - Ne pas dire "AMI OU ENNEMI" dans intro audio, DONE
