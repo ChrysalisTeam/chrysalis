@@ -64,18 +64,8 @@ POUR ASSETS CHECKLIST
 
 TO FIX :
 {% hint 'XX' is provided %}"
-!!!!! ERROR IN hints registry for key 'abyssal_vortex_coded_tray' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'blue_blood_for_druid_healings' : {'needed'} requires a provided hint
-!!!!! WARNING IN hints registry for key 'candles_without_battery' : {'provided'} normally requires a needed hint
-!!!!! ERROR IN hints registry for key 'colored_goggles_for_dispeller' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'mini_candles_for_minesweeper' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'miscellaneous_valuable_objects_gathered_by_archivist' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'mystic_soundtrack_for_druid_magic_books' : {'needed'} requires a provided hint
-!!!!! WARNING IN hints registry for key 'nerf_gun_for_guard_automaton' : {'provided'} normally requires a needed hint
-!!!!! ERROR IN hints registry for key 'prophecy_soundtrack_for_scary_lenticular_painting' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'secret_codes_sheet_for_explorer_runologist' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'spiritual_orb_coded_tray' : {'needed'} requires a provided hint
-
+!!!!! ERROR IN hints registry for key 'prophecy_hologram_for_scary_lenticular_painting' : {'needed'} requires a provided hint
 
 
 ******** TODO LATER *******************

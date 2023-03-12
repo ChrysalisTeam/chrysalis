@@ -161,7 +161,7 @@ Le monde des automates
 
 Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% fact "inventor_has_built_androids" %}
 
-Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **{% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %}** autour du cou et des poignets.
+Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **{% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %}** autour du cou et des poignets. {% hint "white_ribbon_cloth_for_automatons" is needed %}
 
 Ils obéissent uniquement au personnage (figurant ou joueur) portant un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**. Ils répondent du mieux possible à ses ordres, tant qu'ils ne contredisent pas frontalement leurs règles innées de non-agression et de survie. *En cas de doute sur ce comment réagir à un ordre difficile, simuler l'hésitation, et demander discrètement au maître de jeu.* {% fact "robots_obey_but_refuse_violence_or_sacrifice" %}
 
@@ -479,7 +479,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 - Il est très habile, a des pouvoirs magiques, résiste à la magie et aux poisons (ainsi qu’au sacré bien sûr), et régénère très vite son corps en cas de blessure.
 
-- Il peut utiliser son **sang bleu comme la mer**, avec l'aide des esprits de la Nature, pour soigner tous types de maux biologiques (il doit simuler qu'il s'entaille le bras pour soigner). {% fact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% hint "blue_blood_for_druid_healings" is needed %}
+- Il peut utiliser son **sang bleu comme la mer**, avec l'aide des esprits de la Nature, pour soigner tous types de maux biologiques (il doit simuler qu'il s'entaille l'avant-bras pour soigner). {% fact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% hint "blue_blood_for_druid_healings" is needed %}
 
 {# NOPE - **S’y connait en NECROMANCIE?** #}
 
@@ -712,7 +712,7 @@ La folie meutrière de l'automate de garde
 
 {% fact "druid_turns_automaton_sentinel_into_prophet_killer" %}
 
-Dès le début de l'aventure, cet automate patrouille bien "mécaniquement" avec une carabine Nerf, et interpelle les joueurs qu'il croise. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde, en ignorant désormais les joueurs ainsi contrôlés.
+Dès le début de l'aventure, cet automate patrouille bien "mécaniquement" avec une carabine Nerf, et interpelle les joueurs qu'il croise. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde, en ignorant désormais les joueurs ainsi contrôlés. {% hint 'nerf_gun_for_guard_automaton' is needed %}
 
 Plus tard, peu après l'ouverture du Domaine Interdit le druide se sent menacé par les différentes prophéties qui le désignent peu à peu. Il prend donc le contrôle de l'automate de garde, par des champignons/lianes s'infiltrant dans le système central de ladite machine (cela est matérialisé en jeu, par exemple, par de faux végétaux autour de son cou ou derrière son masque).
 {% hint "plants_around_head_of_automaton_hitman" is needed %}
@@ -1053,7 +1053,7 @@ Mais il existe certaines façons de l'atteindre :
 
 Une prophétie holographique détaillant ce procédé de "diacre invulnérable" et ses limites peut être déclenchée en activant, par une Lotion de Restauration, un des portraits horrifiques suspendus au mur ; portrait reconnaissable, car il réagit au détecteur de métaux (le joueur possédant cet outil a des informations là-dessus).
 {% hint "scary_lenticular_painting_with_metal_in_it" is needed %}
-{% hint "prophecy_soundtrack_for_scary_lenticular_painting" is needed %}
+{% hint "prophecy_hologram_for_scary_lenticular_painting" is needed %}
 {% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
 {% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
 {% hint "potion_of_revelation_from_exorcist" is needed %}
@@ -1134,7 +1134,7 @@ Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine 
 {% hint 'spiritual_orb_key_cube_is_needed' is needed %}
 {% hint 'spiritual_orb_key_diamond_is_needed' is needed %}
 
-Il est indiqué, par un écriteau codé en couleur, par un blason (à vouivre blanche) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% hint 'spiritual_orb_coded_tray' is needed %} {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
+Il est indiqué, par un écriteau codé en couleur, par un blason (à vouivre blanche) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
 
 Les avatars ou fantômes Maupertuis ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
 

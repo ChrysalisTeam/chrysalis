@@ -311,7 +311,9 @@ def generate_archives_sheets():
 
     important_marker = " IMPORTANT"
     murder_party_items = []
-    for section, item_titles in murder_party_items_raw:
+    for pair in murder_party_items_raw:
+        assert len(pair) == 2, pair
+        section, item_titles = pair
         section_item_structs = []
         section_is_important = (important_marker in section)
         section = section.replace(important_marker, "")
