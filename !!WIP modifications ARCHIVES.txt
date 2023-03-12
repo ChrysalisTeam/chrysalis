@@ -8,6 +8,8 @@ Voix pour prophetie de Cassandra:
     https://www.readspeaker.com/text-to-speech-demo/
     French Elise Female Neural
 
+TODO : que faire si personne morte avec astrolabe dans tombeau du mage ?
+
 
 
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
@@ -15,6 +17,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
 - ajouter portraits lenticulaires à étage INTERDIT!!
 
+- Faire micro-textes pour microscope !
 
 - Prévoir musique en fin d'intro pour intuition oracle ? nope no need
 
@@ -62,24 +65,21 @@ POUR ASSETS CHECKLIST
 TO FIX :
 {% hint 'XX' is provided %}"
 !!!!! ERROR IN hints registry for key 'abyssal_vortex_coded_tray' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'blue_blood_for_druid_healings' : {'needed'} requires a provided hint ??????
-!!!!! WARNING IN hints registry for key 'broken_lantern_battery' : {'provided'} normally requires a needed hint
-!!!!! WARNING IN hints registry for key 'candle_batteries_for_minesweeper' : {'provided'} normally requires a needed hint
+!!!!! ERROR IN hints registry for key 'blue_blood_for_druid_healings' : {'needed'} requires a provided hint
 !!!!! WARNING IN hints registry for key 'candles_without_battery' : {'provided'} normally requires a needed hint
+!!!!! ERROR IN hints registry for key 'colored_goggles_for_dispeller' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'mini_candles_for_minesweeper' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'miscellaneous_valuable_objects_gathered_by_archivist' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'mystic_soundtrack_for_druid_magic_books' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'plants_around_head_of_automaton_hitman' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'potion_of_revelation_for_scary_lenticular_paintings' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'potion_restoration_recipe_for_alchemist' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'prophecy_soundtrack_for_scary_lenticular_painting' : {'needed'} requires a provided hint >> galeie portraits+pyramide
-!!!!! ERROR IN hints registry for key 'random_broken_lantern_battery' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'red_goggles_for_dispeller' : {'needed'} requires a provided hint  >> % hint "colored_goggles_for_dispeller" is needed %}
-!!!!! ERROR IN hints registry for key 'scary_lenticular_painting_with_metal_in_it' : {'needed'} requires a provided hint!!!!! ERROR IN hints registry for key 'secret_codes_sheet_for_explorer_runologist' : {'needed'} requires a provided hint!!!!! ERROR IN hints registry for key 'spiritual_orb_coded_tray' : {'needed'} requires a provided hint
+!!!!! WARNING IN hints registry for key 'nerf_gun_for_guard_automaton' : {'provided'} normally requires a needed hint
+!!!!! ERROR IN hints registry for key 'prophecy_soundtrack_for_scary_lenticular_painting' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'scary_lenticular_painting_with_metal_in_it' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'secret_codes_sheet_for_explorer_runologist' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'spiritual_orb_coded_tray' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'spiritual_orb_key_3_face_pyramid' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'spiritual_orb_key_4_face_pyramid' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'spiritual_orb_key_cube_is_needed' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'spiritual_orb_key_diamond_is_needed' : {'needed'} requires a provided hint
-
 
 
 
