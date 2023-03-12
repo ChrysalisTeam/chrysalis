@@ -208,7 +208,7 @@
   -
     - "Deux codes de protection sur le coffret légendaire des Maupertuis {% hint 'family_legendary_chest_protected_by_double_code' is provided %} IMPORTANT"
     - "@MALLETTES Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' (nom possiblement inscrit en code magnétique) pour la mallette noire épaisse (coffre légendaire des Maupertuis) ; il contient le sort de zombification, la contre-mesure en UV, le {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, un indice sur le Vortex Abyssal, et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
-
+    - "@??? Diamant géant en résine epoxy {% hint 'spiritual_orb_key_diamond_is_needed' is provided %} IMPORTANT"
 
 -
   - "Coin du fantôme du voleur [F4]"
@@ -243,8 +243,7 @@
     - "@BIJOUX Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %} IMPORTANT"
     - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} IMPORTANT"
     - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %} IMPORTANT"
-    - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %} IMPORTANT"
-    - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis le cimetière après ouverture de l'étage interdit"
+    - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis le cimetière après ouverture de l'étage interdit NOPE!!!!"
     
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie [P4]"
@@ -269,11 +268,20 @@
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis la mini-jungle après ouverture de l'étage interdit"
 
 -
+  - "@????? Laboratoire de de divination [P4]"
+  -
+    - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %} IMPORTANT"
+    - "Petite pyramide en plastique pour hologramme IMPORTANT"
+    - "Boule plasma (orbe spirituel) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
+    - "@??? Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT (????LE PROTEGER DANS COFFRE OU VIA ENIGME???)"
+    - "@???  {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %}""
+-
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac) [P5]"
   -
     - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %} IMPORTANT"
     - "Coffret cubique en bois peint de fruits, avec VERROU MAGNÉTIQUE"
     - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique IMPORTANT"
+    - "@??? Pyramide à 4 faces en résine epoxy {% hint 'spiritual_orb_key_4_face_pyramid' is provided %} IMPORTANT"
 
 -
   - "@CORRIDORS Corridor d'Aura Manaïque (cul-de-sac) [P6]"
@@ -291,7 +299,10 @@
     - "Valisettes ovales rougeâtres imbriquées [un automate doit pouvoir prendre celle intérieure] IMPORTANT"
     - "@EXTERNE La valisette ovale rougeâtre intérieure est protégée par un CADENAS CROCHETABLE TRANSPARENT IMPORTANT"
     - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"
-    - "@POTIONS Plusieurs potions (dont celle de Fungal Bleu) {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %} IMPORTANT"
+    - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"
+    - "@??? Pyramide à 3 faces en résine epoxy {% hint 'spiritual_orb_key_3_face_pyramid' is provided %} IMPORTANT"
+    - "@POTIONS Potion de Fungal Bleu {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %} IMPORTANT"
+    - "@POTIONS Lots de X potions sans importance: YYY, ZZZ etc."
     - "1 grand miroir rectangulaire pour le fond de la petite valisette ovale rougeâtre"
 
 -
@@ -302,7 +313,7 @@
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
     - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'lost_thief_moneybox' is provided %} (envoûtement POSITIF), sous forme d'une quêteuse rouge de magicien IMPORTANT"
     - "@PARCHEMINS Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %} IMPORTANT"
-    - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword' is provided %}"
+    - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword' is provided %} IMPORTANT"
     - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE) IMPORTANT ???LE RENDRE DESAMORCABLE????"
     - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie + batterie miniUSB SIXTHGU)"
     - "@JUNGLE Lianes et feuilles géantes pour la niche de la Bête"

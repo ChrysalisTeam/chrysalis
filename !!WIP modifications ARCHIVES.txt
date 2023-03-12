@@ -4,13 +4,11 @@ TODO RESTANT MURDER PARTY (PRINTED NOW)
 ==============================================
 
 
-Voix pour prophetie de Cassandra:
-    https://www.readspeaker.com/text-to-speech-demo/
-    French Elise Female Neural
+
 
 TODO : que faire si personne morte avec astrolabe dans tombeau du mage ?
 
-
+spiritual_orb_key_4_face_pyramid <--- WRONG c'est 5 faces en tout
 
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
@@ -19,7 +17,6 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 - Faire micro-textes pour microscope !
 
-- Prévoir musique en fin d'intro pour intuition oracle ? nope no need
 
 - TODO : holographic cassandra prophecy VIDEO!!  besoin de speech de 1mn20 max  WIP
 
@@ -75,11 +72,6 @@ TO FIX :
 !!!!! ERROR IN hints registry for key 'prophecy_soundtrack_for_scary_lenticular_painting' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'scary_lenticular_painting_with_metal_in_it' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'secret_codes_sheet_for_explorer_runologist' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'spiritual_orb_coded_tray' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'spiritual_orb_key_3_face_pyramid' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'spiritual_orb_key_4_face_pyramid' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'spiritual_orb_key_cube_is_needed' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'spiritual_orb_key_diamond_is_needed' : {'needed'} requires a provided hint
 
 
 
@@ -104,6 +96,10 @@ TO FIX :
 
 TRASH
 ########################################
+
+
+
+- Prévoir musique en fin d'intro pour intuition oracle ? nope no need, ok just like that
 
 - Ajouter grimoire pour les IBEACON POUR DERNIER LIVRET!!!!
         O
