@@ -10,7 +10,7 @@ BRIEFING GENERAL DES FIGURANTS
 Rappeler que le MJ, le **Djinn renégat Meujeuh**, sera lui-même en jeu, et capable de parler à tous.
 
 Rappeler que les fantômes (dont la Bête), et les avatars, **ne peuvent pas se voir mutuellement**.
-Mais que tous peuvent voir l'Ankou qui est divin.
+Mais que tous peuvent voir l'Ankou qui est divin.p
 
 Affecter à certains le groupe qu'ils **suivront durant le jeu**, avec ou sans la fiche de quête (pleine de *spoilers*).
 
@@ -23,7 +23,7 @@ POUR LES FANTÔMES :
 POUR LES AVATARS :
 
 - Vous pouvez interagir avec tout le contenu de la bibliothèque, mais pas porter de romans !
-- Vous avez tous des talents pour guérir tel ou tel type de blessure ; relisez la section sur les blessures des joueurs, dans le document "Compléments des Figurants"
+- Vous avez tous des talents pour guérir tel ou tel type de blessure ; relisez la section sur les blessures des joueurs, dans le document "Compléments des Figurants" (en particulier le drudie guérit avec son SANG)
 
 POUR LES AUTOMATES :
 

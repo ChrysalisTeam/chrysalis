@@ -15,16 +15,19 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
 - ajouter portraits lenticulaires à étage INTERDIT!!
 
+- Repasser en revue les codes d'analyse et leur contenu
+
 - Faire micro-textes pour microscope !
 
-
-- TODO : holographic cassandra prophecy VIDEO!!  besoin de speech de 1mn20 max  WIP
-
-- IMPORTANT : trouver des {% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %} à donner aux automates !!!
-
-- acheter guètres / surchaussures et gants blancs, et rubans BLANCS pour automates
+- acheter guètres / surchaussures et gants blancs, et rubans de dentelle blanche pour automates
 
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
+
+- Ajouter chromacrypto images pour GRIMOIRE TRACEUR
+
+- mettre tag CLE SPIRITUELLE en chromacrypto ou hieroglyphes sous les 4 epoxys ?
+
+- Trouver PHOTOGRAPHE pour couvrir évènement, VITE
 
 - ENLEVER l'étiquette "Fabre" de la valise
 
@@ -70,8 +73,8 @@ TO FIX :
 !!!!! ERROR IN hints registry for key 'mystic_soundtrack_for_druid_magic_books' : {'needed'} requires a provided hint
 !!!!! WARNING IN hints registry for key 'nerf_gun_for_guard_automaton' : {'provided'} normally requires a needed hint
 !!!!! ERROR IN hints registry for key 'prophecy_soundtrack_for_scary_lenticular_painting' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'scary_lenticular_painting_with_metal_in_it' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'secret_codes_sheet_for_explorer_runologist' : {'needed'} requires a provided hint
+!!!!! ERROR IN hints registry for key 'spiritual_orb_coded_tray' : {'needed'} requires a provided hint
 
 
 
@@ -97,6 +100,8 @@ TO FIX :
 TRASH
 ########################################
 
+
+- TODO : holographic cassandra prophecy VIDEO!!  besoin de speech de 1mn20 max  DONE
 
 
 - Prévoir musique en fin d'intro pour intuition oracle ? nope no need, ok just like that

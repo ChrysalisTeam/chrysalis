@@ -19,35 +19,36 @@
     - "L6 - Mini-jungle de grandes plantes en pot"
     - "L7 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
     - "L8 - Galerie de portraits des Maupertuis"
+    - "L9 - Valise et bibelots de l'archiviste"
 
     - "P1 - Niche de la Bête"
     - "P2 - Coffre légendaire des Maupertuis"
     - "P3 - Etabli d'alchimie"
     - "P4 - Etabli de gemmologie"
-    - "P5 - Corridor de Force Vitale"
-    - "P6 - Corridor d'Aura Manaïque"
-    - "P7 - Corridor de Peau de Pierre"
+    - "P5 - Etabli de divination"
+    - "P6 - Corridor de Force Vitale"
+    - "P7 - Corridor d'Aura Manaïque"
+    - "P8 - Corridor de Peau de Pierre"
 
     - "E1, E2, E3, E4, E5 - Zones d'éboulements réparties sur les 2 étages"
     - "Jetons en métal dans l'éboulis E5 derrière le laboratoire d'alchimie {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
     - "Jetons en métal dans l'éboulis E2 du coin le plus loin du buffet {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
 
-    - "Etiquettes des étagères de l'étage autorisé, montrant les sections zoologie/cuisine {% hint 'authorized_zone_labels_showing_zoology_and_cooking_shelves' is provided %}"
-    - "Etiquettes des étagères du domaine interdit, désignant celle des teintures {% hint 'forbidden_zone_labels_showing_tincture_shelf' is provided %}"
+    - "Etiquettes des étagères de l'étage autorisé, montrant les sections zoologie/gastronomie {% hint 'authorized_zone_labels_showing_zoology_and_cooking_shelves' is provided %}"
+    - "Etiquettes (optionnelles) des étagères du domaine interdit, désignant celle des teintures {% hint 'forbidden_zone_optional_labels_showing_tincture_shelf' is provided %}"
 
 
 -
   - "@OBJETS-DISSEMINES Indices cachés et objets disséminés IMPORTANT"
   -
-    - "I1 - Livre factice bleu à code {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %} (contient la CLEF du livre factice rouge et quelques pierreries), marqué au sol"
-    - "I2 - Livre factice rouge, marqué au sol (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %}"
+
     - "@BIJOUX Broche du père Maupertuis pour le livre factice rouge (envoûtement POSITIF)"
     - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
     - "@AUDIOVIDEO Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse pour le Venture Prins"
     - "I4 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
     - "I5 - Livre fin HACHETTE avec Recette de l'Elixir Flexifiant (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_flex_elixir' is provided %}"
     - "I6 - Livre fin HACHETTE avec Recette de la Lotion de Clairvoyance (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_clarity_lotion' is provided %}"
-    - "I7 - Livre luxe pourpre :  Tome 3 du roman du druide entre les étagères de zoologie et de cuisine (+1 livre luxe pourpre en secours) {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
+    - "I7 - Livre luxe pourpre :  Tome 3 du roman du druide entre les étagères de zoologie et de gastronomie (+1 livre luxe pourpre en secours) {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
     - "@POTIONS I8 - Potion de tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence"
 
     - "@AUDIOVIDEO J1 - SCEAU lumineux OPTIONNEL (1 mini-guirlande LED), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %} (envoûtement POSITIF)"
@@ -274,7 +275,7 @@
     - "Petite pyramide en plastique pour hologramme IMPORTANT"
     - "Boule plasma (orbe spirituel) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
     - "@??? Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT (????LE PROTEGER DANS COFFRE OU VIA ENIGME???)"
-    - "@???  {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %}""
+    - "@???  {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %}"
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac) [P5]"
   -
@@ -477,7 +478,7 @@
     - "L'application de recherche de balises BLUETOOTH doit si possible fonctionner, et ce pour toutes les balises cachées"
     - "Les petits bijoux et clés doivent être attachés à des gros RUBANS, pour ne pas les perdre en jeu"
     - "Le détecteur de métaux doit bien sonner près des éboulis, ou des coffrets d'initiation d'Octave, s'ils contiennnent des valeurs"
-    - "Mettre les étiquettes de classification sur les rayonnages de livres des 2 étages, en faisant attention à celles importantes dans le scénario (zoologie et cuisine sur le même rayonnage, et teintures là où est la teinture Pyrolitis)."
+    - "Mettre les étiquettes de classification sur les rayonnages de livres des 2 étages, en faisant attention à celles importantes dans le scénario (zoologie et gastronomie sur le même rayonnage, et teintures là où est la teinture Pyrolitis)."
     - "Les pierres précieuses et pièces (surtout les trésors comme pour l'énigme chat-lu-mot), les cadenas et clés, les messages UV et magnétiques, les étiquettes de danger (poisons, radiations...), les étoiles autocollantes d'analyse/magie, doivent tous être en place comme le demande la checklist."
     - "Coller des symboles 'UV' et 'aimant' sur les objets respectivement porteurs d'ultraviolets et de codes magnétiques"
     - "Coller le symbole des Maupertuis (Caducée) sur les objets importants de la bibliothèque"
