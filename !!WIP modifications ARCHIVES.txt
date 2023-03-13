@@ -8,12 +8,14 @@ TODO RESTANT MURDER PARTY (PRINTED NOW)
 
 TODO : que faire si personne morte avec astrolabe dans tombeau du mage ?
 
-spiritual_orb_key_4_face_pyramid <--- WRONG c'est 5 faces en tout
+spiritual_orb_key_4_face_pyramid <--- WRONG c'est 5 faces en tout  BASE TRANGULAIRE
 
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
 - ajouter portraits lenticulaires à étage INTERDIT!!
+
+- dire danger des colliers éthériques aux joueurs
 
 - Repasser en revue les codes d'analyse et leur contenu
 
