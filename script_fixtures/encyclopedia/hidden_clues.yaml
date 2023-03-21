@@ -92,7 +92,7 @@ static_pages:
 
             Les dommages de type "sacré" (attaques de fantômes, de démons...) ne sont pas évités par ce collier.
 
-    etheric_benediction_necklace:  # DONE
+    etheric_benediction_necklace:
         title: "Collier éthérique de bénédiction (armure de l'arkonte)"
         categories: ["magie"]
         clue_code: "bst"

@@ -348,7 +348,7 @@ Octave de Maupertuis (l’enfant)
 
 - Le précepteur ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu (soupçonne une trahison de l’arkonte), ni pourquoi il est ancré à un endroit précis.
 
-- Il a tenu un petit journal de bord pendant leur enfermement, qui doit se trouver quelque part dans la bibliothèque. {% fact "archivist_began_diary_during_confinement" %}
+- Il a tenu un petit **journal de bord** pendant leur enfermement, qui doit se trouver quelque part dans la bibliothèque. {% fact "archivist_began_diary_during_confinement" %}
 
 - Excité d’apprendre que les joueurs ont croisé l’enfant (le précepteur savait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
 
@@ -991,6 +991,8 @@ Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conse
 
 - Seul un héritier des Maupertuis peut se téléporter tranquillement dans le tombeau, toute autre personne y déclenche le réveil du mage sous forme zombie, et doit donc le fuir jusqu'à pouvoir se retéléporter à l'extérieur. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
+- Si une personne se rend seule avec l'astrolabe dans le tombeau du mage et est tuée, le seul moyen de rétablir la situation est de la **zombifier** (grâce au {% symbol "Thanatologue" for "book_of_the_dead" %}) pour qu'elle ramène les artefacts et l'astrolabe.
+
 - Dans le tombeau se trouve entre autres, sur la dépouille du mage, la {% symbol "Bague Amplificans" for "ring_amplificans_name" %}. {% hint 'ring_amplificans' is needed %}
 
 - Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, car ils ont quelques invocateurs dans leur armée ; à condition qu’ils puissent quitter les lieux, bien sûr.
@@ -1037,7 +1039,7 @@ Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu
 
 Le druide prévient qu'il ne s'éloignera plus du pentacle du rituel de l'arkonte, afin que personne ne tente de le renvoyer de force dans son monde ; et qu'il sentirait si un autre pentacle similaire était créé dans les environs.
 
-Typiquement, il se met alors à **lire des grimoires** (dont le Thanatologue), l'air enthousiaste, non loin du pentacle. Il est réellement sur la piste d'un **contre-sortilège** pour annuler la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}. {% fact "druid_reads_near_pentacle_before_game_ending" %}
+Typiquement, il se met alors à **lire des grimoires** (dont le {% symbol "Thanatologue" for "book_of_the_dead" %}), l'air enthousiaste, non loin du pentacle. Il est réellement sur la piste d'un **contre-sortilège** pour annuler la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}. {% fact "druid_reads_near_pentacle_before_game_ending" %}
 
 Le traître est insensible aux attaques usuelles.
 Si les joueurs l'agressent directement, il en tue un (qui devient un fantôme), puis ordonne aux autres de continuer à chercher comment lever la malédiction.

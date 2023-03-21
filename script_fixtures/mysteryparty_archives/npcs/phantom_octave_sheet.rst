@@ -39,7 +39,7 @@ Connaissances en commun avec l'Archiviste
 IMPORTANT : La famille Maupertuis gardait quelques "paperasses administratives" dans une mallette noire, dans le domaine autorisé. Vous aviez entendu que le **symbole secret** de la famille, ouvrant l'accès au Domaine Interdit, s'y trouverait aussi dissimulé.
 {% fact "octave_and_archivist_know_about_secret_family_symbol_infamily_briefcase" %}
 
-Le code de cette valisette changeait automatiquement chaque jour, les chiffres actuels étaient **"murmurés par un livre factice {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}"**. *Pensez à bien mémoriser la forme (épaisse en bois marron) et la localisation approximative de ce faux livre.*
+Le code de cette valisette changeait automatiquement chaque jour. Les chiffres actuels étaient **murmurés par un livre factice {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}**. *Pensez à bien mémoriser la forme (épaisse en bois marron) et la localisation approximative de ce faux livre.*
 
 Vous aviez en vain fouillé cette mallette, tous les deux, tout en prenant garde, car elle est **partiellement piégée** contre les intrus. {% fact "octave_and_archivist_know_about_venture_prins_book_location" %} {% fact "octave_and_archivist_have_searched_family_briefcase" %} {% fact "octave_and_archivist_know_about_trap_of_family_briefcase" %} {% hint 'trap_in_family_briefcase' is needed %}
 

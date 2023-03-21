@@ -3,10 +3,10 @@
 TODO RESTANT MURDER PARTY (PRINTED NOW)
 ==============================================
 
+Quete du djinn : reconnecter avec sa tribu !
 
+Vérifier quid de "trap_in_family_briefcase" ?
 
-
-TODO : que faire si personne morte avec astrolabe dans tombeau du mage ?
 
 spiritual_orb_key_4_face_pyramid <--- WRONG c'est 5 faces en tout  BASE TRANGULAIRE
 
@@ -14,8 +14,6 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
 - ajouter portraits lenticulaires à étage INTERDIT!!
-
-- dire danger des colliers éthériques aux joueurs
 
 - Repasser en revue les codes d'analyse et leur contenu
 
@@ -37,7 +35,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 - Inventeur : LUI AUSSI A CLEF MAGNETIQUE, pour DOUBLE serrure ???
 
-- AJOUTER UN DERNIER TRAP en fil ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!
+- AJOUTER UN DERNIER TRAP en fil sur ANTRE DE LA BETE ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 
 - Codes autres via magnétisme !!! <<<<<pour Détecteur de magnétisme, MANQUE vraiment ?  bof
 
@@ -56,7 +54,6 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 
 
-
 POUR ASSETS CHECKLIST
 - Marquer dans assets checklist les diverses images chromocrypto
 - checklist - Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
@@ -68,6 +65,7 @@ TO FIX :
 {% hint 'XX' is provided %}"
 !!!!! ERROR IN hints registry for key 'mystic_soundtrack_for_druid_magic_books' : {'needed'} requires a provided hint
 !!!!! ERROR IN hints registry for key 'prophecy_hologram_for_scary_lenticular_painting' : {'needed'} requires a provided hint
+
 
 
 ******** TODO LATER *******************
@@ -92,6 +90,13 @@ TO FIX :
 TRASH
 ########################################
 
+
+
+
+
+TODO : que faire si personne morte avec astrolabe dans tombeau du mage ?  OK le zombifier
+
+- dire danger des colliers éthériques aux joueurs  DONE via code magique
 
 - TODO : holographic cassandra prophecy VIDEO!!  besoin de speech de 1mn20 max  DONE
 
