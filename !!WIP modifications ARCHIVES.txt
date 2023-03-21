@@ -5,7 +5,6 @@ TODO RESTANT MURDER PARTY (PRINTED NOW)
 
 Quete du djinn : reconnecter avec sa tribu !
 
-
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
@@ -13,27 +12,19 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 - Repasser en revue les codes d'analyse et leur contenu
 
-- Faire micro-textes pour microscope !
-
-- acheter guètres / surchaussures et gants blancs, et rubans de dentelle blanche pour automates
-
-- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
-
-
-
-- mettre tag CLE SPIRITUELLE en chromacrypto ou hieroglyphes sous les 4 epoxys ?
-
-- Trouver PHOTOGRAPHE pour couvrir évènement, VITE
-
-- PAS besoin des labels d'étageres dans l'etage interdit Zoologie/Gastronomie ? Ou mettre plan des lieux ?
-
-- AJOUTER UN DERNIER TRAP en fil sur ANTRE DE LA BETE ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!
-
-- Codes autres via magnétisme !!! <<<<<pour Détecteur de magnétisme, MANQUE vraiment ?  bof
-
-- CODES SECRETS  <<<< MANQUE un dernier code secret avec hiéroglyphes ??
+- Faire micro-textes pour microscope ! CF "Ô étranger, LIRE ENTRE LES LIGNES TODO"
 
 - SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
+
+
+
+
+LOGISTIQUE
+-------------------
+
+- acheter guètres / surchaussures et gants blancs, et rubans de dentelle blanche pour automates
+- Trouver PHOTOGRAPHE pour couvrir évènement, VITE
+- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 
 
 
@@ -50,7 +41,6 @@ POUR ASSETS CHECKLIST
 - Marquer dans assets checklist les diverses images chromocrypto
 - checklist - Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
 - ajouter asset list ARKONTE ANALYSIS CODE xep
-
 
 
 TO FIX :
@@ -72,7 +62,7 @@ TO FIX :
 - Statuer sur nom des portails de transplanage/planétaire/magique qui mènent à la surface ("Symbol" needed)
 - Pouvoir refabriquer balles et explosifs simplement ? bod
 - Inventeur : LUI AUSSI A CLEF MAGNETIQUE, pour DOUBLE serrure ?
-
+- PAS besoin des labels d'étageres dans l'etage interdit Zoologie/Gastronomie ? Ou mettre plan des lieux ? bof
 
 
 
@@ -83,6 +73,13 @@ TRASH
 ########################################
 
 
+- mettre tag CLE SPIRITUELLE en chromacrypto ou hieroglyphes sous les 4 epoxys ? nope useless
+
+- AJOUTER UN DERNIER TRAP en fil sur ANTRE DE LA BETE ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!  DONE
+
+- Codes autres via magnétisme !!! <<<<<pour Détecteur de magnétisme, MANQUE vraiment ?  bof
+
+- CODES SECRETS  <<<< MANQUE un dernier code secret avec hiéroglyphes ??
 
 - Ajouter chromacrypto images pour GRIMOIRE TRACEUR  DONE
 
