@@ -72,7 +72,7 @@ L'archiviste vous a indiqué qu'il avait retrouvé, et bien classé, certaines v
 
 Si l'on vous parle du **trésor des Maupertuis**, vous savez que la famille disposait d'un artefact générateur de richesses, dans le domaine interdit. Le code magique pour l'utiliser change chaque jour, vous a-t-on dit. {% fact "treasure_code_changes_magically" %}
 
-Si des joueurs cherchent un chaudron enchanté anti-abrasion, les guider finalement vers le chaudron en cuivre à anse, qui porte des marques d'envoûtement, dans l'étage interdit.
+Si des joueurs cherchent un chaudron "enchanté bouillonnant", les guider finalement vers le chaudron bombé en cuivre à anse, qui porte des marques d'envoûtement, dans l'étage interdit. {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %}
 
 Lors de vos derniers préparatifs, vous aviez commencé à rassembler dans votre sac de voyage **un peu d'argent**, du moins celui qui n'avait pas été espièglement caché par votre soeur avant le drame. Si ce sac de voyage n'est plus trouvable, c'est soit que quelqu'un l'a volé, soit simplement qu'il a été enseveli sous un des **éboulis** survenus depuis. {% hint 'travel_bag_with_money_under_far_rubbles' is needed %} {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
 

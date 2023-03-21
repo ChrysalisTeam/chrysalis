@@ -907,7 +907,7 @@ Mais les ingrédients et le mode de préparation de cette teinture sont très co
 - Un ingrédient de la Teinture est en évidence à l’étage autorisé ; un autre en évidence sur l'établi de gemmologie ; un autre sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter) ; le dernier dans un **corridor toxique** de l’étage interdit (c'est une protection supplémentaire du lieu). {% fact "one_corridor_is_toxic" %} {# Hint tags for this are in the clues document #}
   Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% hint "androids_command_bracelet_for_inventor" is needed %}
 
-- Enfin, il faut un récipient métallique avec **enchantement d’inabrasion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
+- Enfin, il faut un récipient métallique avec **enchantement bouillonnant**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet bombé en cuivre). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 
 - Une fois tous les ingrédients rassemblés (pas besoin de préparer effectivement les potions), la famille a réussi cette mission, à condition qu’elle puisse quitter les lieux.
 
