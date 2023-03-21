@@ -278,10 +278,11 @@
   - "@DIVINATION Laboratoire de divination [P4]"
   -
     - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %} IMPORTANT"
-    - "Petite pyramide en plastique pour hologramme IMPORTANT"
+    - "Petite pyramide en plastique pour hologramme (avec code secret en hiéroglyphes) IMPORTANT"
     - "Boule plasma (orbe spirituel) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
     - "@BIJOUX Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT (????LE PROTEGER DANS COFFRE OU VIA ENIGME???)"
-    - "6 portraits lenticulaires effrayants {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %}"
+    - "6 portraits lenticulaires effrayants {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
+    - "Petit puits en cuivre (avec code secret en hiéroglyphes)"
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac) [P5]"
   -
