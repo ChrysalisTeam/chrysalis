@@ -166,7 +166,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("book_shelf_labels_for_library2", 1),
     ("maupertuis_caduceus_symbol", 1),
     ("coffee_mill_stereogram", 1),
-    ("miscellaneous_secret_messages", 1),
+    ("miscellaneous_secret_messages", 2),
     ("trap_and_property_markers", 9),  # Bug with layout adds another page
 ]
 
@@ -420,7 +420,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:
+    if False:  # VERY LONG
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,

@@ -50,6 +50,11 @@ Questions à poser aux joueurs du groupe avant le jeu :
 <{ group_briefing_questions }/>
 
 
+.. raw:: pdf
+
+   PageBreak
+
+
 BRIEFING FINAL DES JOUEURS+FIGURANTS
 -----------------------------------------
 
@@ -62,7 +67,7 @@ BRIEFING FINAL DES JOUEURS+FIGURANTS
 - Rappeler l'existence du "seau argenté des objets utilisés" (ex. pour les clés ou potions utilisées) {% hint 'basket_for_precious_items' is needed %}
 - Annoncer : "En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler: je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de pangéa par exemple, ce n'est pas de la triche, çà fait partie du jeu ! Toutes mes possessions sont bien sûr HORS-JEU !"
 
-Conseils divers:
+**Conseils divers:**
 
 - Vous pouvez garder votre fiche de personnage avec vous, en particulier pour les formules alchimiques ou les incantations sacrées ; elle est HORS-JEU.
 - Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des étoiles autocollantes sur des objets du jeu, ou bien des plumes colorées. C'est un jeu plutôt **collaboratif**, pour une raison simple : vous pouvez à tout moment, grâce au serment de Zarathoustra, vérifier si ce que vous disent les autres joueurs est vrai.

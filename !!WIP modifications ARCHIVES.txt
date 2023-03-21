@@ -16,6 +16,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 - SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
 
+- Rajouter un pouvoir au Woodsman ?? Ou une petite quête 
 
 
 
