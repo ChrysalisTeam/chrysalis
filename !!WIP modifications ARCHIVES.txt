@@ -8,8 +8,6 @@ Quete du djinn : reconnecter avec sa tribu !
 Vérifier quid de "trap_in_family_briefcase" ?
 
 
-spiritual_orb_key_4_face_pyramid <--- WRONG c'est 5 faces en tout  BASE TRANGULAIRE
-
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
@@ -29,11 +27,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 - Trouver PHOTOGRAPHE pour couvrir évènement, VITE
 
-- ENLEVER l'étiquette "Fabre" de la valise
-
 - PAS besoin des labels d'étageres dans l'etage interdit Zoologie/Gastronomie ? Ou mettre plan des lieux ?
-
-- Inventeur : LUI AUSSI A CLEF MAGNETIQUE, pour DOUBLE serrure ???
 
 - AJOUTER UN DERNIER TRAP en fil sur ANTRE DE LA BETE ?? TROUVER SCHEMAS DE PIEGE FILAIRE!!!
 
@@ -79,7 +73,7 @@ TO FIX :
 - FORCER à valider chaque tentative avec le symbole familial sur tablette ??  (comme pour cards)  bof pas indispensable
 - Statuer sur nom des portails de transplanage/planétaire/magique qui mènent à la surface ("Symbol" needed)
 - Pouvoir refabriquer balles et explosifs simplement ? bod
-
+- Inventeur : LUI AUSSI A CLEF MAGNETIQUE, pour DOUBLE serrure ?
 
 
 
@@ -92,7 +86,9 @@ TRASH
 
 
 
+- ENLEVER l'étiquette "Fabre" de la valise   OK written in checklist
 
+spiritual_orb_key_4_face_pyramid <--- WRONG c'est 5 faces en tout  BASE TRANGULAIRE   DONE
 
 TODO : que faire si personne morte avec astrolabe dans tombeau du mage ?  OK le zombifier
 

@@ -104,7 +104,7 @@
 -
   - "@RECOINS Coin du fantôme de l’enfant (près de la jungle) [F2] {% fact 'phantom_octave_is_near_jungle' %}"
   -
-    - "@EXTERNE Valise avec quelques vieux vêtements aléatoires"
+    - "@EXTERNE Valise avec quelques vieux vêtements aléatoires (bien enlever l'étiquette FABRE de dedans)"
     - "Livre déchiré avec des animaux en mouvement pour le coin de l'enfant {% hint 'torn_child_book_with_animal_motions' is provided %} IMPORTANT"
     - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 pour l'enfant"
     - "@AUDIOVIDEO Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse"
@@ -288,7 +288,7 @@
     - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %} IMPORTANT"
     - "Coffret cubique en bois peint de fruits, avec VERROU MAGNÉTIQUE"
     - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique IMPORTANT"
-    - "@BIJOUX Pyramide à 4 faces en résine epoxy {% hint 'spiritual_orb_key_4_face_pyramid' is provided %} IMPORTANT"
+    - "@BIJOUX Pyramide à base carrée en résine epoxy {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT"
 
 -
   - "@CORRIDORS Corridor d'Aura Manaïque (cul-de-sac) [P6]"
@@ -307,7 +307,7 @@
     - "@EXTERNE La valisette ovale rougeâtre intérieure est protégée par un CADENAS CROCHETABLE TRANSPARENT IMPORTANT"
     - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"
     - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"
-    - "@BIJOUX Pyramide à 3 faces en résine epoxy {% hint 'spiritual_orb_key_3_face_pyramid' is provided %} IMPORTANT"
+    - "@BIJOUX Pyramide à base triangulaire en résine epoxy {% hint 'spiritual_orb_key_triangle_base_pyramid' is provided %} IMPORTANT"
     - "@POTIONS Potion de Fungal Bleu {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %} IMPORTANT"
     - "@POTIONS Lots de X potions sans importance: YYY, ZZZ etc."
     - "1 grand miroir rectangulaire pour le fond de la petite valisette ovale rougeâtre"

@@ -1127,12 +1127,12 @@ Dans le domaine interdit, les joueurs peuvent trouver un plateau avec une boule 
 
 Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine epoxy :
 
-- un cristal romantique (une rose dans une pyramide à base carré)
+- un cristal romantique (une rose dans une pyramide à base carrée)
 - un cristal marin (un coquillage dans une pyramide à base triangulaire)
 - un cristal piquant (un chardon dans un cube)
 - un cristal innocent (des fleurs blanches dans un diamant)
-{% hint 'spiritual_orb_key_4_face_pyramid' is needed %}
-{% hint 'spiritual_orb_key_3_face_pyramid' is needed %}
+{% hint 'spiritual_orb_key_square_base_pyramid' is needed %}
+{% hint 'spiritual_orb_key_triangle_base_pyramid' is needed %}
 {% hint 'spiritual_orb_key_cube_is_needed' is needed %}
 {% hint 'spiritual_orb_key_diamond_is_needed' is needed %}
 
