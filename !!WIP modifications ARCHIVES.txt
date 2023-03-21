@@ -5,8 +5,6 @@ TODO RESTANT MURDER PARTY (PRINTED NOW)
 
 Quete du djinn : reconnecter avec sa tribu !
 
-Vérifier quid de "trap_in_family_briefcase" ?
-
 
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
@@ -21,7 +19,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 
-- Ajouter chromacrypto images pour GRIMOIRE TRACEUR
+
 
 - mettre tag CLE SPIRITUELLE en chromacrypto ou hieroglyphes sous les 4 epoxys ?
 
@@ -85,6 +83,10 @@ TRASH
 ########################################
 
 
+
+- Ajouter chromacrypto images pour GRIMOIRE TRACEUR  DONE
+
+Vérifier quid de "trap_in_family_briefcase" ?
 
 - ENLEVER l'étiquette "Fabre" de la valise   OK written in checklist
 

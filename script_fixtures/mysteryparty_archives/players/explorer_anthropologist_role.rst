@@ -52,7 +52,7 @@ Par décision de l'Ordre International de la Hiéraldique, il fut pendant longte
 Les symboles ainsi réservés aux oeuvres de l'imaginaire sont : **le hérisson, l'oiseau-grue, la chèvre, le pangolin, la faucille, le fouet, le tabouret et la feuille de houx**. {% fact "sickle_and_holly_emblems_are_banned_in_reality" %}
 
 Un autre blason, enfin, est banni depuis des temps immémoriaux, à l'échelle de la planète enière : la **"vouivre blafarde"**, un dragon bipède (aussi appelé "serpent ailé") de couleur blanche, typiquement sur fond rougeâtre ou orangé.
-Vous avez eu le plus grand mal à briser le tabou entourant ce blason - tous les ouvrages évoquant le sujet avaient été censurés, avec des chapitres entiers arrachés. Un de vos amis, sorcier des montagnes argentées, vous a cependant donné une bribe de réponse : ce blason appartenait à une secte de cultistes de, qui avaient cherché à s'introduire dans une dimension cosmique infernale. Lui aussi vous a conseillé de ne pas creuser ce sujet. {% fact "anthropologist_knows_about_white_wyvern_emblem" %}
+Vous avez eu le plus grand mal à briser le tabou entourant ce blason - tous les ouvrages évoquant le sujet avaient été censurés, avec des chapitres entiers arrachés. Un de vos amis, sorcier des montagnes argentées, vous a cependant donné une bribe de réponse : ce blason appartenait à une secte de cultistes qui avaient cherché à s'introduire dans une dimension cosmique infernale. Lui aussi vous a conseillé de ne pas creuser ce sujet. {% fact "anthropologist_knows_about_white_wyvern_emblem" %}
 
 
 
