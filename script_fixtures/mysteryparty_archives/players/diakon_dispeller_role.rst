@@ -50,7 +50,7 @@ Une malédiction de niveau "simple" demande de solliciter l'aide de n'importe qu
 
 Il faut que vous imposiez tous les deux les mains au dessus de l'objet, et que vous (seul) prononciez bien fort l'incantation : **"Par le souffle sacré de {% symbol "Bahamoot" for "god_of_diakons" %}, ô matière inerte, nous rompons les liens qui te lient aux strates ensorcelées".**
 
-En cas de réussite, le maître de jeu retire la pastille dorée de l'objet.
+En cas de réussite, le maître de jeu retire/masque la pastille dorée de l'objet.
 
 Envoûtement complexe
 -----------------------------
@@ -63,7 +63,7 @@ Il vous faut alors dans l'ordre :
 - Puis vous placer tous en demi-cercle (ou cercle si possible) autour de l'objet
 - Puis que vous (seul) prononciez l'incantation : **"Ouvrez grandes vos oreilles, ouvrez grands vos yeux, car par la puissance pacificatrice de {% symbol "Bahamoot" for "god_of_diakons" %}, voici que nous brisons les chaines impies qui emprisonnent cette matière !"**
 
-En cas de réussite, le maître de jeu retire là encore la pastille dorée de l'objet.
+En cas de réussite, le maître de jeu retire/masque là encore la pastille dorée de l'objet.
 
 Envoûtement légendaire
 -----------------------------

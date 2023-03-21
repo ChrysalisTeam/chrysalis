@@ -73,8 +73,8 @@ Si vous rencontrez un fantôme bloqué dans une petite zone - typiquement le lie
 
 Rituel :
 
-- Rassembler **3 autres {% symbol "initiés" for "ritualist_kind_name" %}**, en plus de vous, en cercle autour du fantôme incarné
-- Se mettre tous les quatre avec les bras étendus à l'horizontale
+- Rassembler **2 autres {% symbol "initiés" for "ritualist_kind_name" %}**, en plus de vous, en cercle autour du fantôme incarné
+- Se mettre tous les trois avec les bras étendus à l'horizontale
 - Clamer tous ensemble **"Esprit errant, nous brisons les chaines qui te retiennent"**, trois fois d'affilée
 
 D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spirituelles passera moins souvent dans sa forme spectrale. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
@@ -96,7 +96,7 @@ Rituel :
 
 - Utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
 - Placer au centre de ce pentacle le maximum d'objets attachés aux corridors outre-monde (talismans maudits, livres d'avatars...)
-- la présence d'{% symbol "initiés" for "ritualist_kind_name" %} supplémentaires autour du pentacle est conseillée, mais pas indispensable
+- La présence d'{% symbol "initiés" for "ritualist_kind_name" %} supplémentaires autour du pentacle est conseillée, mais pas indispensable
 - Tendre le bras droit vers le portail, les doigts bien écartés
 - Clamer en boucle cette incantation : **"Par le soleil victorieux, Par le pouvoir des cieux, Portails disparaissez"** pendant au moins **30 secondes**
 - Il est important de rester bien **immobile** pendant l'incantation, sans quoi le pentacle peut être déstabilisé (il s'éteint brièvement) et cela retarde la finalisation du rituel
