@@ -45,6 +45,16 @@ Estimation des monnaies et gemmes
 <{ treasures_value_summary }/>
 
 
+Réminiscences mystiques
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Vous êtes capable de sentir les émotions et souvenirs humains ancrés dans certains endroits puissamment enchantés ; par exemple des lieux servant à d'anciens rituels familiaux, des tombes, des sanctuaires... voire sur certains artefacts magiques. Ils se manifestent à vos yeux sous forme de **courts messages**.
+
+*NOTES hors-jeu* : Ces mots sont sous forme de *codes polychromatiques*, autrement dit des nuages de lettres de toutes les couleurs, sur un écriteau blanc. Pour lire les lettres réellement pertinentes, il vous suffira de porter des **lunettes de couleur** (fournies par les organisateurs avant le jeu), qui selon l'oeil fermé, masqueront ou non les lettres inutiles.
+
+{% hint "colored_goggles_for_anthropologist" is needed %}
+
+
 Connaissance des blasons
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 

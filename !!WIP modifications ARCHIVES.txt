@@ -16,8 +16,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 
 REDISTRIBUTION DES COMPETENCES:
-- donner "La lecture des significations d’auras magiques" de dispeller à quelqu'un d'autre (ANTHROPOLOGUE ??)
-- donner à alchimiste possibilité de REFAIRE FLECHETTE pour woodsman, au lieu de la trouver en jeu
+- donner à alchimiste possibilité de REFAIRE FLECHETTE pour woodsman, au lieu de la trouver en jeu <- RECETTES TROUVABLES EN JEU ??
 - besoin d'1-2 runes akarites de plus pour le RUNOLOGUE ? <--- LIRE CE QUI EST CACHE microscope
 - PEUT-ETRE un peu plus de jeu necessaire pour minesweeper ?
 
@@ -77,6 +76,8 @@ TO FIX :
 TRASH
 ########################################
 
+
+- donner "La lecture des significations d’auras magiques" de dispeller à quelqu'un d'autre (ANTHROPOLOGUE ??)  DONE
 
 - Quete du djinn : reconnecter avec sa tribu via puits de savoir !  DONE
 
