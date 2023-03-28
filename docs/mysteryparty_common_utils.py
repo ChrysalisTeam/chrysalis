@@ -141,11 +141,12 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachments=Non
 
     attachments = attachments or []
     email_list = [elem.strip() for elem in recipients]
+    del recipients
 
     msg = MIMEMultipart()
     msg['Subject'] = subject
     msg['From'] = msg['Reply-to'] = sender
-    msg['To'] = ", ".join(recipients)
+    msg['To'] = ", ".join(email_list)
 
     msg.preamble = 'Multipart message.\n'
 
@@ -158,7 +159,7 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachments=Non
         msg.attach(part)
 
     print("/!\\ %s SENDING EMAIL '%s' TO %s (attachments: %r)" % (
-    "FAKE" if dry_run else "REALLY", subject, str(recipients), ", ".join(attachments)))
+    "FAKE" if dry_run else "REALLY", subject, str(email_list), ", ".join(attachments)))
 
     if not dry_run:
         print(">>>>>> SMTP SETTINGS: %s" % str(smtp_conf))

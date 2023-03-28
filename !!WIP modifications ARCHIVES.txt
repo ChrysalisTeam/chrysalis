@@ -1,8 +1,7 @@
 
 
-TODO RESTANT MURDER PARTY (PRINTED NOW)
-==============================================
-
+TODO RESTANT MURDER PARTY
+====================================
 
 
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
@@ -10,15 +9,14 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
 - ajouter portraits lenticulaires à étage INTERDIT!!
 
-- Repasser en revue les codes d'analyse et leur contenu, durant INVENTAIRE DU MATOS
 
-- Faire micro-textes pour microscope ! CF "Ô étranger, LIRE ENTRE LES LIGNES TODO" (dans doc assets)
+- Repasser en revue les codes d'analyse et leur contenu, durant INVENTAIRE DU MATOS
 
 
 REDISTRIBUTION DES COMPETENCES:
 - donner à alchimiste possibilité de REFAIRE FLECHETTE pour woodsman, au lieu de la trouver en jeu <- RECETTES TROUVABLES EN JEU ??
-- besoin d'1-2 runes akarites de plus pour le RUNOLOGUE ? <--- LIRE CE QUI EST CACHE microscope
-- PEUT-ETRE un peu plus de jeu necessaire pour minesweeper ?
+- besoin d'1-2 runes akarites de plus pour le RUNOLOGUE ? <--- POUR LIRE CE QUI EST CACHE microscope
+        -> Faire micro-textes pour microscope ! CF "Ô étranger, LIRE ENTRE LES LIGNES TODO" (dans doc assets)
 
 TODO mettre à jour finalement "Survol des compétences spécifiques des participants"
 
@@ -76,6 +74,8 @@ TO FIX :
 TRASH
 ########################################
 
+
+- PEUT-ETRE un peu plus de jeu necessaire pour minesweeper ?  NOPE il a de quoi faire
 
 - donner "La lecture des significations d’auras magiques" de dispeller à quelqu'un d'autre (ANTHROPOLOGUE ??)  DONE
 

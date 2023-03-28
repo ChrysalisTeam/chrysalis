@@ -399,7 +399,7 @@ def generate_archives_sheets():
                                          os.path.join(MAIN_OUTPUT_DIR, "common_npc_information.pdf"),
                                          os.path.join(MAIN_OUTPUT_DIR, "npc_%(player)s_sheet.pdf"),
                                      ]
-        def _send_everything(dry_run):
+        def _send_everything(dry_run):  # FIXME add per-player "document attachments"
             _send_character_sheets_via_email(all_data=all_data, player_names=player_names,
                                           subject='Soirée Mystère Archives - votre fiche de joueur pour %s',
                                           email_template=PLAYER_INITIAL_EMAIl_TEMPLATE,
@@ -416,7 +416,7 @@ def generate_archives_sheets():
             print("----------REAL--------------")
             _send_everything(dry_run=False)  # REALLY send stuffs
 
-        STOP  # only do that
+        STOP  # only do that, always
 
     # -------------
 
