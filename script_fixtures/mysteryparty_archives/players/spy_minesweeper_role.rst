@@ -21,9 +21,9 @@ Vous êtes capable de reconnaître et sécuriser les couloirs dangereux des viei
 
 Les dangers sont simulés par des fils blancs fins (et non des cordelettes de chanvre) tendus en travers du chemin, avec des grelots attachés ; c'est à vous d'annoncer aux autres joueurs si c'est une fragilité naturelle ou un piège artificiel, selon qu'il s'agit d'une zone normalement habitable, ou d'un sanctuaire caché. {% hint "thin_white_wire_and_bells_to_represent_traps" is needed %}
 
-Il est possible de contourner ces fils, ou même de passer au-dessus, mais buter dedans déclenche l'éboulis/piège.
+Il est possible de contourner ces fils, ou même de passer au-dessus ou en-dessous, mais buter dedans déclenche un accident.
 
-Votre but, lors d'une opération de sécurisation/déminage, est de démonter ces fils sans faire tomber au sol de grelot (ce n'est pas grave si les grelots tintent par eux-mêmes, dans ce contexte). Vous devez être supervisé par le maître de jeu, qui vous donnera votre devenir si l'opération échoue. Vous pouvez toucher à tout ce qui constitue le piège (y compris les grelots), mais vous ne pouvez rien couper/casser.
+Votre but, lors d'une opération de sécurisation/déminage, est de démonter ces fils sans faire tomber au sol de grelot (ce n'est pas grave si les grelots tintent par eux-mêmes, dans ce contexte). Vous devez être supervisé par le maître de jeu, à qui vous devez remettre les fils/grelots, et qui vous donnera votre devenir si l'opération échoue. Vous pouvez toucher à tout ce qui constitue le piège (y compris les grelots), mais vous ne pouvez rien couper/casser.
 
 Une fois les fils et grelots enlevés, la zone est considérée comme "structurellement renforcée" ou "déminée", selon les cas.
 

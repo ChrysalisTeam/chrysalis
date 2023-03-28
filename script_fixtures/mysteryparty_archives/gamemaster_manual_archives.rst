@@ -274,7 +274,7 @@ Ces 3 moines officient pour le culte du dieu {% symbol "Bahamoot" for "god_of_di
 Leurs compétences sont orientées vers la théologie et l’ésotérisme.
 
 {% macro diakon_group_symbols() %}
-Le vêtement de reconnaissance des diacres de {% symbol "Bahamoot" for "god_of_diakons" %} est une **étole violette** *(écharpe portée en travers du torse, fournie par les organisateurs)*.
+Le vêtement de reconnaissance des diacres de {% symbol "Bahamoot" for "god_of_diakons" %} est une **étole violette** (écharpe portée en travers du torse).
 
 Sauf instructions spécifiques, lors des rituels et des processions, les diacres gardent les mains jointes par les pointes des doigts, les paumes éloignées l'une de l'autre, comme s'ils enserraient un globe entre elles ; c'est leur signe de prière. Lors de leurs déplacements en procession, ils ânonnent un **son "ôôôôhm"** lent et guttural.
 
@@ -722,9 +722,11 @@ Le druide envoie l'automate de garde pour **assassiner** (par une balle dans le 
 - **La joueuse Oracle**, qui reçoit les visions
 - **La figurante Duchesse**, qui l'aide à cela
 
-L'automate tueur cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus ; car le druide compte sur eux pour supprimer la malédiction de la bibliothèque. Il se donc montre particulièrement prudent envers les précieux diacres.
+L'automate tueur cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus ; car le druide compte sur eux pour supprimer la malédiction de la bibliothèque. Il se montre donc particulièrement prudent envers les précieux diacres.
 
 L'automate ne peut pas récupérer ses balles, qui se désagrègent naturellement à l'impact.
+*Ces balles nerf doivent avoir une couleur différente des "fléchettes" des Parcival ; veiller à ce que des joueurs n'en récupèrent pas, car cela n'aurait pas de sens en jeu.* {% fact "nerf_bullets_and_arrows_need_different_colors" %}
+
 Il ne vise évidemment **jamais la tête** des participants, par sécurité.
 
 Face à cet automate :
@@ -873,7 +875,7 @@ Pour neutraliser la Bête :
 
 - **L’exorciste** peut faire fuir la Bête pendant quelque temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
-- L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la Bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la Bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
+- L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de “tuer” la Bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la Bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_arrows" %}
 
 - La Bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même s'il ne peut plus les manger, il se jette dessus quand il en croise. {% hint "beast_snack_as_moon_stones" is needed %} {% fact "beast_is_addicted_to_moon_stones" %}
 
@@ -1136,7 +1138,7 @@ Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine 
 {% hint 'spiritual_orb_key_cube_is_needed' is needed %}
 {% hint 'spiritual_orb_key_diamond_is_needed' is needed %}
 
-Il est indiqué, par un écriteau codé en couleur, par un blason (à vouivre blanche) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
+Il est indiqué, par un blason (à vouivre blanche) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
 
 Les avatars ou fantômes Maupertuis ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
 
@@ -1150,6 +1152,8 @@ Exemples de gages :
 Cet orbe peut aussi ouvrir des passages vers d'autres strates de la réalité. En particulier, le voleur est le seul à connaître la formule permettant d'ouvrir un passage vers le **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout. {% fact "phantom_thief_uniquely knows_about_link_to_djinn_world" %}
 
 Les joueurs peuvent utiliser ce don comme un moteur de recherche historique, et poser au maître de jeu des questions sur le lore de cette planète, sur les grands aspects de l'histoire des Maupertuis. Les djinns ne savent pas tout, ont des avis divergents, se trompent parfois, mais donnent des informations généralement instructives et utiles.
+
+Le **Djinn renégat**, joué par le maître de jeu, a en réalité été coupé de la communion avec ses congénères par les invocations frénétiques et dangereuses de l'arkonte lors du combat tragique ; il recherche donc aussi **un certain "Puits des Djinns"** pour pouvoir se reconnecter à son monde spirituel, qui n'est autre que ce {% symbol "Puits de Savoir" for "link_to_djinn_world" %}.
 
 
 Survol des compétences spécifiques des participants

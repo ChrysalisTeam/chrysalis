@@ -41,7 +41,7 @@ Attention, même éteint, un sceau peut, lui, conserver une **aura bénéfique o
 
 Notez que seule la personne ayant dessiné un pentacle ou un sceau peut facilement le **révoquer** ; pour des personnes externes, il s'agit d'une opération de désenvoutement longue et ardue, aux effets imprévisiblement dangereux.
 
-Vous pouvez facilement **réactiver un sceau** existant, en **l'encensant** (un tour suffit) puis en clamant l'invocation **"Ô sceau magique, réveille-toi et écoute ma voix"**. Le sceau devrait s'illuminer peu après, signe qu'il est désormais actif. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
+Vous pouvez facilement **réactiver un sceau existant**, seul, en **l'encensant** (un tour suffit) puis en clamant l'invocation **"Ô sceau magique, réveille-toi et écoute ma voix"**. Le sceau devrait s'illuminer peu après, signe qu'il est désormais actif. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
 
 Un **pentacle canonique** peut être activé selon le même processus, mais **attention**, il faut être **au moins 4 initiés** à réaliser le rituel, car cela demande beaucoup d'énergie spirituelle. L'invocation est dans ce cas, évidemment, **"Ô pentacle canonique, réveille-toi et écoute ma voix"**. {% fact "penatacle_activation_requires_4_ritualists" %}
 
@@ -56,8 +56,8 @@ Cette invocation permet d'immobiliser une entité vivante ou morte, pour deux jo
 Rituel :
 
 - Utiliser un {% symbol "pentacle canonique (étoile à 5 branches dans un cercle)" for "standard_pentacle_description" %} activé
-- Amener à l'intérieur l'entité ciblée, quelque soit son état actuel
-- Réciter trois fois à haute voix : **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, reste immobile."**
+- Amener à l'intérieur l'entité ciblée, quel que soit son état actuel (en errance ou incarné)
+- Réciter, seul, trois fois à haute voix : **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, reste immobile."**
 - L'entité peut bouger un peu, mais elle doit rester à l'intérieur du pentacle pendant toute la durée du rituel, sans quoi l'envoûtement échoue.
 
 
@@ -68,7 +68,7 @@ Les dieux empêchent habituellement que les vivants perturbent la quiétude des 
 
 Pour cela, il faut vous mettre en cercle avec 2 autres {% symbol "initiés" for "ritualist_kind_name" %}, mains tendues vers le centre du cercle, et déclamer (seul) cette invocation :
 
-**Ô <nom du dieu>, toi qui résides au <adresse mortuaire>, réponds à notre quémande: <demande>.**
+**Ô <nom du dieu>, toi qui résides au <adresse mortuaire>, réponds à notre quémande : <demande>.**
 
 
 Bénédiction de terrain anti-zombie
@@ -76,7 +76,7 @@ Bénédiction de terrain anti-zombie
 
 Lassés des sottises des nécromanciens, tous les invocateurs de votre ordre ont appris à purifier une tombe, afin d'éviter que la dépouille qu'elle contient ne soit plus tard transformée en un mort-vivant. Cela ne fonctionne pas si le mort-vivant est déjà incarné, que ce soit à cause d'un maléfice nécromant ou de la vie trop maléfique du défunt. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
 
-Pour purifier la tombe, il faut que 2 {% symbol "initiés" for "ritualist_kind_name" %} se placent de part et d'autre à ses extrémités, mains tendues vers le ciel, et que l'invocateur clame cette invocation :
+Pour purifier la tombe, il faut que 2 {% symbol "initiés" for "ritualist_kind_name" %} se placent chacun à une extrémité, mains tendues vers le ciel, et que l'invocateur clame cette formule :
 
 **Par {% symbol "Bahamoot" for "god_of_diakons" %}, qu'un repos sans rêve et sans fin berce cette dépouille mortuaire à tout jamais.**
 

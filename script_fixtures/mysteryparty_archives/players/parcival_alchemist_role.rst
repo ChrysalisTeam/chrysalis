@@ -48,7 +48,7 @@ Potion de pestilence
 En mélangeant de l'essence de soufre avec du jus de Fungal rouge, vous pouvez obtenir un liquide qui répand une odeur pestilentielle sur 10 pas de diamètre. {% hint 'potion_red_mushroom' is needed %}
 
 
-Pierre Anti-Philosophale
+Pierre anti-philosophale
 ------------------------
 
 Recouvrir une gemme de fluorite avec de la lymphe de tarantule. La pierre ainsi créée permet de transformer en plomb, par simple contact, de petits objets d'or. {% hint "gem_fluorine" is needed %}

@@ -15,17 +15,21 @@ Dans l'optique de mieux connaître, de l'intérieur, certaines sociétés tribal
 
 {% macro mystics_knowledge_article() %}
 
-- **Shaman de la jungle de Kamilia** (salutation : *"Par l'oiseau à trois têtes, reçois ma salutation"* ; réponse : *"Par le serpent sans tête, reçois la mienne"*)
+- **Shaman de la jungle de Kamilia**
+
+  Salutation : *"Par l'oiseau à trois têtes, reçois ma salutation"* ; réponse : *"Par le serpent sans tête, reçois la mienne"*
 
   Ce titre atteste de votre résistance aux épreuves du feu, de l'eau, de la terre et du ciel. Il vous permet de réaliser des sacrifices rituels en l'honneur du Grand Sage, de préparer le Kahflu des cérémonies (jus de tubercules alcoolisé des banquet), et de lire la parole des esprits dans les galets des rivières.
 
-- **Arkonte yodique** (salutation : *"J'implore que les Yods vous éclairent"* ; réponse : *"Que je sois pour vous leur miroir"*)
+- **Arkonte yodique**
+
+  Salutation : *"J'implore que les Yods vous éclairent"* ; réponse : *"Que je sois pour vous leur miroir"*
 
   Ce titre correspond à une forme de "chevalerie bénie par les dieux" parmi les fidèles de cette religion ; il vous engage à la droiture morale, à la persévérance et au discernement dans vos actions  ; il vous permet de commenter les textes saints de la religion yodique, de siéger aux conseils ordinaires des arkontes, et de recevoir la **{% symbol "confession de mission" for "arkon_mission_confession" %}** d'un confrère arkonte (pour cela, il se met à genoux devant vous, et vous gardez une main imposée en l'air au dessus de sa tête). {% fact "arkon_means_blessed_knight" %} Vous n'êtes pas peu fier de ce titre, qui vous place dans la lignée de personnages légendaires et pourtant réels comme Zarathoustra, ou {% symbol "Valerias" for "arkon_name" %}.
 
-- **Ritualiste de {% symbol "Bahamoot" for "god_of_diakons" %}** ; vous faites partie des **{% symbol "initiés" for "ritualist_kind_name" %}** de ce culte, et même si cela remonte à loin, vous êtes capable de vous joindre à un rituel mystique pour décupler son effet. D'après vos souvenirs :
+- **Ritualiste de {% symbol "Bahamoot" for "god_of_diakons" %}** ; vous faites partie des **{% symbol "initiés" for "ritualist_kind_name" %}** de ce culte, et même si cela remonte à loin, vous êtes capable de vous joindre à un rituel mystique pour décupler son effet.
 
-{% filter indent(width=8) %}
+{% filter indent(width=2) %}
 
 <{ diakon_group_symbols }/>
 

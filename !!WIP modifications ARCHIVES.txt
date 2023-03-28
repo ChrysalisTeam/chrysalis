@@ -3,21 +3,25 @@
 TODO RESTANT MURDER PARTY (PRINTED NOW)
 ==============================================
 
-Quete du djinn : reconnecter avec sa tribu !
+
 
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
 - ajouter portraits lenticulaires à étage INTERDIT!!
 
-- Repasser en revue les codes d'analyse et leur contenu
+- Repasser en revue les codes d'analyse et leur contenu, durant INVENTAIRE DU MATOS
 
-- Faire micro-textes pour microscope ! CF "Ô étranger, LIRE ENTRE LES LIGNES TODO"
+- Faire micro-textes pour microscope ! CF "Ô étranger, LIRE ENTRE LES LIGNES TODO" (dans doc assets)
 
-- SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)
 
-- Rajouter un pouvoir au Woodsman ?? Ou une petite quête 
+REDISTRIBUTION DES COMPETENCES:
+- donner "La lecture des significations d’auras magiques" de dispeller à quelqu'un d'autre (ANTHROPOLOGUE ??)
+- donner à alchimiste possibilité de REFAIRE FLECHETTE pour woodsman, au lieu de la trouver en jeu
+- besoin d'1-2 runes akarites de plus pour le RUNOLOGUE ? <--- LIRE CE QUI EST CACHE microscope
+- PEUT-ETRE un peu plus de jeu necessaire pour minesweeper ?
 
+TODO mettre à jour finalement "Survol des compétences spécifiques des participants"
 
 
 LOGISTIQUE
@@ -28,14 +32,12 @@ LOGISTIQUE
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 
 
-
 URLS IMPORTANTES
 -------------------------
 https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_puzzle/
 https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_cards/
 https://anthropia.prolifik.net/DEMO/anonymous/ability/my_runic_translation_open/
 https://anthropia.prolifik.net/DEMO/anonymous/clues/
-
 
 
 POUR ASSETS CHECKLIST
@@ -64,7 +66,9 @@ TO FIX :
 - Pouvoir refabriquer balles et explosifs simplement ? bod
 - Inventeur : LUI AUSSI A CLEF MAGNETIQUE, pour DOUBLE serrure ?
 - PAS besoin des labels d'étageres dans l'etage interdit Zoologie/Gastronomie ? Ou mettre plan des lieux ? bof
-
+- Mettre davantage au propre la quête du "Djinn Renégat", expulsé de son lien magique par les invocations désespérées de l'arkonte lors du combat, et cherchant le puist de savoir.
+- Puits inutile vs Puits des djinns, améliorer
+- Rajouter un pouvoir au Woodsman ?? Ou une petite quête ?? -> il peut se BINDER pour protéger qqun des blessure ?
 
 
 
@@ -73,6 +77,10 @@ TO FIX :
 TRASH
 ########################################
 
+
+- Quete du djinn : reconnecter avec sa tribu via puits de savoir !  DONE
+
+- SIMPLIFIER les compétences spéciales, il faut que le MJ puisse les vérifier (ex. invocations des diacres)  DONE
 
 - mettre tag CLE SPIRITUELLE en chromacrypto ou hieroglyphes sous les 4 epoxys ? nope useless
 

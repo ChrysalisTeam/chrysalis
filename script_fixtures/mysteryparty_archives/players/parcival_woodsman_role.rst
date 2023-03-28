@@ -19,19 +19,21 @@ Mini-arbalète
 
 Vous ne vous séparez jamais de votre chère arme de poing, qui vous a déjà sauvé la mise plus d'une fois lorsque la nuit tombait dans les bois.
 
-Ses flèchettes sont en solide {% symbol "Iridium" for "parcival_woodsman_bullets_metal" %}, donc efficaces aussi contre des carapaces animales, ou des armures légères. Mais elles n'ont pas reçu d'enchantements leur permettant de percer des défenses magiques, ou de blesser des entités du monde des morts ; heureusement pour vous, le cas ne s'est jamais présenté. Contre les machines, ces fléchettes précises sont très peu efficaces, des explosifs seraient davantage appropriés.
-{% fact "parcival_woodsman_bullets_only_work_against_living_creatures" %}
+Ses flèchettes sont en solide **{% symbol "Iridium" for "parcival_woodsman_arrows_metal" %}**, donc efficaces aussi contre des carapaces animales, ou des armures légères. Mais elles n'ont pas reçu d'enchantements leur permettant de percer des défenses magiques, ou de blesser des entités du monde des morts. Heureusement pour vous, le cas ne s'est jamais présenté. Contre les machines, ces fléchettes précises sont très peu efficaces, des explosifs seraient davantage appropriés.
+{% fact "parcival_woodsman_arrows_only_work_against_living_creatures" %}
 
 A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres les semaines précédentes, il ne vous reste **qu'une seule munition** dans votre arme. {% hint "single_bullet_left_for_woodsman" is needed %} {% hint "other_iridium_bullet_for_woodsman" is needed %}
 
-*NOTE hors-jeu : Une fléchette qui a raté sa cible peut être récupérée et réutilisée ; mais si elle a touché sa cible, elle est réputée trop abîmée par l'impact pour servir encore.* {% fact "parcival_woodsman_bullets_can_only_succeed_once" %}
+*NOTE hors-jeu : Une fléchette qui a raté sa cible peut être récupérée et réutilisée ; mais si elle a touché sa cible, elle est réputée trop abîmée par l'impact pour servir encore. Les "fléchettes" nerf sont reconnaissables à leur couleur, différente des autres munitions en jeu (ex. balles de fusil) qui elles ne sont jamais réutilisables.* {% fact "parcival_woodsman_arrows_can_only_succeed_once" %} {% fact "nerf_bullets_and_arrows_need_different_colors" %}
 
 
 Stratège Défenseur
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vos parents ne vous l'ont jamais caché : s'il en est un seul qui s'en sortira toujours, dans la famille, c'est vous.
-Mais votre talon d'Achille, ce sont les gens de votre cercle familial et amical. Vous avez donc pris l'habitude d'ouvrir l'oeil face aux potentiels périls, et de repérer les atouts et défauts du terrain où vous vous trouvez. Y a-t-il un cul-de-sac à éviter pour ne pas se retrouver acculé par des ennemis ? Ou au contraire un recoin dans lequel se cacher, voire éviter un encerclement ? Des chemins qui semblent piégés ? Vous savez ne pas pouvoir être partout, mais au minimum vous désirez pouvoir vous interposer entre les dangers et vos proches les plus vulnérables.
+Mais votre talon d'Achille, ce sont les gens de votre cercle familial et amical. Vous avez donc pris l'habitude d'ouvrir l'oeil face aux potentiels périls, et de repérer les atouts et défauts du terrain où vous vous trouvez.
+
+Y a-t-il un cul-de-sac à éviter pour ne pas se retrouver acculé par des ennemis ? Ou au contraire un recoin dans lequel se cacher, voire éviter un encerclement ? Des chemins qui semblent piégés ? Vous savez ne pas pouvoir être partout, mais au minimum vous désirez pouvoir vous interposer entre les dangers et vos proches les plus vulnérables.
 
 
 Connaissance des bêtes dangereuses
@@ -45,9 +47,9 @@ Vous avez en revanche dû fuir plus d'une fois leurs lointains cousins, les goul
 
 Vous n'avez croisé qu'un seul loup-garou, alors qu'il ressortait d'une de ses transformations nocturnes. Les bons soins des shamans du village ont permis de rapidement guérir cette personne, ce qui est heureux car la force d'un lycanthrope pleinement enragé dépasse sans peine la vôtre. Vous les savez heureusement très, trop sensibles aux fortes odeurs (oeufs pourris, charognes...), ce qui peut perturber leur habileté au combat.
 
-Les wendigos, des humanoides émaciés friands de chair humaine, sont très rares sur Pangéa. Vous en avez combattu deux dans votre masure, en plein hiver, et par chance les recettes traditionnelles ont fonctionné : une bonne flèchette en {% symbol "Iridium" for "parcival_woodsman_bullets_metal" %} dans le coeur de l'un, et une bonne plongée dans le feu de la cheminée pour l'autre.
+Les wendigos, des humanoides émaciés friands de chair humaine, sont très rares sur Pangéa. Vous en avez combattu deux dans votre masure, en plein hiver, et par chance les recettes traditionnelles ont fonctionné : une bonne flèchette en {% symbol "Iridium" for "parcival_woodsman_arrows_metal" %} dans le coeur de l'un, et une bonne plongée dans le feu de la cheminée pour l'autre.
 
-Une créature que vous n'avez jamais vue, et que vous souhaitez ne jamais voir, est sens conteste le thestral. Ce monstre hippique, squelettique et ailé, se déplace rapidement entre les arbres, et s'en prendrait violemment aux promeneurs isolés, par pur plaisir sadique. Vous prenez donc toujours soin de vous cachez lorsque vous entendez un jappement suraigu au loin. Surtout qu'il ne lui est connu aucune vulnérabilité particulière, sinon un nombre suffisant de coups de hache dans son corps malingre.
+Une créature que vous n'avez jamais vue, et que vous souhaitez ne jamais voir, est sans conteste le thestral. Ce monstre hippique, squelettique et ailé, se déplace rapidement entre les arbres, et s'en prendrait violemment aux promeneurs isolés, par pur plaisir sadique. Vous prenez donc toujours soin de vous cachez lorsque vous entendez un jappement suraigu au loin. Surtout qu'il ne lui est connu aucune vulnérabilité particulière, sinon un nombre suffisant de coups de hache dans son corps malingre.
 
 Vous avez très peu de savoir en nécromancie, et aucune contre-mesure en la matière ; mais vous savez par exemple que, contrairement aux fantômes - immatériels donc persistants - les zombies et autres morts vivants ne sont que temporaires, et puisent dans la magie de leurs invocateurs, ou de leur tombeau, de quoi animer leur chair de façon temporaire ; fuir puis attendre est donc souvent la meilleure solution. {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
 

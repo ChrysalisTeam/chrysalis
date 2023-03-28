@@ -22,5 +22,8 @@ Vous avez rapidement été rejoint par un **Djinn renégat**, intéressé par vo
 
 <{ diakon_group_symbols }/>
 
+{# PUT THIS HERE SO THAT ANTHROPOLOGIST DOES NOT SEE IT: #}
+*Noter que l'écharpe est fournie par les organisateurs du jeu.*
+
 {% endmacro %}
 <{ diakon_group_sheet }/>

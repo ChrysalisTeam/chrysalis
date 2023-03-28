@@ -28,7 +28,7 @@ Bénédiction d'arme
 -----------------------------------------
 
 Vous êtes capable de bénir une arme de poing, ou une munition (flèche, balle...), pour quelle ait prise sur les entités du monde des morts.
-Les armes ainsi sacrées ne peuvent bien sûr pas réellement blesser ou tuer des êtres qui sont déjà morts ; mais par les impacts mystiques qu'ils infligent, elles peuvent chasser des fantômes agressifs, et atténuer leur lien au monde des vivants ; ce dernier effet les condamne à passer une plus grande proportion de temps sous forme spectrale, entre deux incarnations. {% fact "diakon_exorcist_can_bless_parcival_woodsman_bullets" %}
+Les armes ainsi sacrées ne peuvent bien sûr pas réellement blesser ou tuer des êtres qui sont déjà morts ; mais par les impacts mystiques qu'ils infligent, elles peuvent chasser des fantômes agressifs, et atténuer leur lien au monde des vivants ; ce dernier effet les condamne à passer une plus grande proportion de temps sous forme spectrale, entre deux incarnations. {% fact "diakon_exorcist_can_bless_parcival_woodsman_arrows" %}
 
 Cette bénédiction ne fonctionne que sur les métaux nobles : **Paladium, Iridium, Platine, ou Mithril**.
 
@@ -63,7 +63,7 @@ Rituel :
 
 - Prendre une gorgée de Potion de Charme {% hint "potion_of_charm_from_exorcist" is needed %}
 - Mettre les bras croisés sur votre coeur
-- Crier **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, accours vers moi, esprit errant"** {# (ou bien la version latine : "Venite ad me errantes spiritu") #}
+- Crier **"Par {% symbol "Bahamoot" for "god_of_diakons" %}, lambine vers moi, esprit errant"** {# (ou bien la version latine : "Venite ad me errantes spiritu") #}
 
 
 Libération d'ancrage spirituel

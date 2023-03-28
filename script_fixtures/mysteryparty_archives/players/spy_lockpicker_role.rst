@@ -29,7 +29,7 @@ Trouver les emplacements exacts de ces mécanismes n'est pas toujours facile, ma
 *NOTE hors-jeu* : la présence de systèmes magnétiques peut être dénotée par des petits **oeillets de classeur blancs**. Le logo "aimant magnétique" que vous pourriez voir ailleurs ne vous concerne pas.
 
 
-Potions trouvées
+Potions dénichées
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous avez trouvé par terre, lors de votre arrivée dans la bibliothèque, quelques **potions** éparpillées.
