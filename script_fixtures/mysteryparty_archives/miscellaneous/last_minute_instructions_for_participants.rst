@@ -8,9 +8,12 @@ BRIEFING GENERAL DES FIGURANTS
 --------------------------------
 
 Rappeler que le MJ, le **Djinn renégat Meujeuh**, sera lui-même en jeu, et capable de parler à tous.
+Les figurants devront s'interroger AUSSI sur sa présence en ces lieux.
 
 Rappeler que les fantômes (dont la Bête), et les avatars, **ne peuvent pas se voir mutuellement**.
-Mais que tous peuvent voir l'Ankou qui est divin.p
+Mais que tous peuvent voir l'Ankou qui est divin.
+
+Rappeler que les avatars ne peuvent pas manipuler de romans, ni les leurs ni ceux des autres ; les autres livres et grimoires leur restent cependant accessibles. {% fact "avatars_cannot_carry_novels" %}
 
 Affecter à certains le groupe qu'ils **suivront durant le jeu**, avec ou sans la fiche de quête (pleine de *spoilers*).
 

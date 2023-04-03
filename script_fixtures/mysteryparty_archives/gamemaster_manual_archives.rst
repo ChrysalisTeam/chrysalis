@@ -218,7 +218,7 @@ Le monde divin
 
 Les entités faisant partie du “\ **divin**\ ” - le figurant **l’Ankou**, et le maître de jeu en **Djinn renégat** - peuvent voir tout le monde et être vues de tous, et sont par défaut sans danger pour les différents personnages.
 
-Ils sont également insensibles aux armes et aux sortilèges (dont la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}). {% fact "ankou_sees_all_and_is_harmless_for_all" %}
+Ils sont également insensibles aux armes et aux sortilèges (dont la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}) entourant la bibliothèque. {% fact "ankou_sees_all_and_is_harmless_for_all" %}
 
 Ils ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
@@ -685,7 +685,7 @@ Les autres fantômes s'incarnent aussi (de préférence un peu après), chacun �
 La frénésie de la clochette spectrale
 +++++++++++++++++++++++++++++++++++++++++++
 
-Un joueur sonnera probablement la clochette de service, par curiosité, en début de jeu ; en tant que fantôme, il faudra réagir conformément à la description de cet artefact mystique, en passant en mode "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}".
+Un joueur sonnera probablement la clochette de service, par curiosité, en début de jeu ; en tant que fantôme, il faudra réagir conformément à la description de cet artefact mystique, en passant en mode "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}", y compris si l'on est déjà en errance normale.
 
 {% endmacro %}
 <{ early_game_events }/>
@@ -1267,7 +1267,7 @@ Carte du monde de Pangéa
 Connaissances des personnages de l'ère Maupertuis
 ============================================================
 
-*Voici ce que savent tous les avatars et les fantômes, sauf le voleur ; celui-ci connait un peu les vieilles légendes et le contexte du saccage du manoir, mais c'est tout. Délivrez ces informations aux joueurs, lorsqu'ils vous questionnent d'eux-mêmes à ce sujet.*
+*Voici ce que savent tous les avatars et les fantômes, sauf le voleur ; celui-ci connait un peu les vieilles légendes et le contexte du saccage du manoir, mais c'est tout. Délivrez ces informations aux joueurs, lorsqu'ils vous questionnent par eux-mêmes à ce sujet.*
 
 
 Le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}
@@ -1287,7 +1287,7 @@ Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèqu
 
 Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul **étranger** ne viole jamais la sépulture de ce vénérable aïeul, ni aucun des dangereux mystères qu'il a emportés dans la tombe. À ce jour, aucune guilde de mages sur la planète ne serait probablement capable de briser autant d'envoutements accumulés. Mais peut-être qu'il est possible d'y entrer par des moyens détournés, qui sait ? {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}
 
-*Note : une fois libérés de leur ancrage, en revanche, les fantômes PEUVENT entrer dans le tombeau en passant par les murs l'entourant, qui ne sont eux pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Il peuvent donc ramener quelques informations sur le contenu du tombeau.* {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
+*Note : une fois libérés de leur ancrage, les fantômes PEUVENT entrer dans le tombeau en passant par les murs l'entourant, qui ne sont eux pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Il peuvent donc ramener quelques informations sur le contenu du tombeau.* {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
 
 
 Les colliers éthériques

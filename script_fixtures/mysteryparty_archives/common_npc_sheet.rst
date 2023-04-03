@@ -24,10 +24,6 @@ Ce comportements des différents mondes est une surprise pour tous les figurants
 
 A l'occasion, les figurants peuvent communiquer d'un monde à l'autre par l'intercession des joueurs, pour se saluer, se transmettre des informations etc.
 
-Notez que l'Ankou n'est pas régi par ces règles (ni même soumis à la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque), car il est d'essence divine, bien que lié au monde des morts. {% fact "ankou_sees_all_and_is_harmless_for_all" %}
-
-Attention en outre au fait que **les avatars ne peuvent pas manipuler de romans**, ni les leurs ni les autres ; les autres livres et grimoires leur restent cependant accessibles. {% fact "avatars_cannot_carry_novels" %}
-
 <{ explanation_of_different_worlds }/>
 
 
@@ -49,7 +45,7 @@ Conseils pour les figurants
 Rappel du principe fondamental
 ++++++++++++++++++++++++++++++++++++++++
 
-Il faut rester concentré sur ce point : les mondes des fantômes et des avatars sont hermétiquement séparés. Les avatars ne peuvent pas voir/entendre/sentir les fantômes (ni la Bête) ; et vice-versa. En revanche, tous peuvent voir/entendre les vivants et les automates (ces derniers ne peuvent pas voir les fantômes) ; et tous peuvent voir/entendre l'Ankou (qui est du monde "divin"), ainsi que le Djinn renégat (maître de jeu) qui a été matérialisé par les diacres. {% fact "phantom_and_avatar_worlds_are_disjoint" %}
+Il faut rester concentré sur ce point : les mondes des fantômes et des avatars sont hermétiquement séparés. Les avatars ne peuvent pas voir/entendre/sentir les fantômes (ni la Bête) ; et vice-versa. En revanche, tous peuvent voir/entendre les vivants et les automates ; ces derniers, mécaniques, ne peuvent pas voir les fantômes. Et tous peuvent voir/entendre l'Ankou (qui est du monde "divin"), ainsi que le Djinn renégat (maître de jeu) qui a été rendu visible (mais immatériel) par les diacres. {% fact "phantom_and_avatar_worlds_are_disjoint" %}
 
 Les fantômes sont reconnaissables à leur tunique pourpre, les automates à leurs **{% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %}** ; les avatars n'ont pas de signe distinctif particulier, juste un costume conforme à leur personnage de roman.
 
