@@ -397,7 +397,7 @@ Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 
 - Traits : convoitise, roublardise, bagout, incrédulité, défiance, alcoolisme, vanité
 
-- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets ; en particulier le légendaire **trésor des Maupertuis**, et le mystérieux **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille). Mais il s’est fait tuer par surprise par la Bête - toujours vivante à ce moment-là - qui gardait les lieux.
+- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets ; en particulier le légendaire **trésor des Maupertuis**, et le mystérieux **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Il a ramassé au passage **uniquement le glaive** de l'arkonte. {% fact "arkon_bag_disappeared_just_after_his_death" %} Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille). Mais il s’est fait tuer par surprise par la Bête - toujours vivante à ce moment-là - qui gardait les lieux. {% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
 
 - Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste **piégé** dans son (petit) périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles, qu'il ne peut hélas plus prendre en main ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, il est dubitatif (peut-être ces personnes ont-elles une immunité contre les effets de ce serment ?).
 
@@ -738,7 +738,7 @@ Face à cet automate :
 - Si un protagoniste possède le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}', le bracelet de commandement des automates, il peut donner des ordres à l'automate tueur, et ainsi créer un conflit qui va le confondre et le ralentir (car le robot oscillera entre l'ordre de tuer, et celui de ne pas le faire).
 - Les meilleures armes pour détruire l'automate tueur sont le {% symbol "glaive" for "arkon_weapon_name" %} ULTRA-LOURD de l'arkonte, et les explosifs.
 
-{% hint "arkon_heavy_gladius_sword" is needed %}
+{% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
 {% hint "2_explosives_for_minesweeper" is needed %}
 
 Une fois que l'automate tueur a été neutralisé, ou (en pire cas) n'a plus de balles et s'autodétruit, les joueurs peuvent récolter dessus les indices de son étrange contamination.
@@ -762,6 +762,7 @@ Le cadavre du mage git allongé là, dans l'aube papale dorée.
 Si un non-Parcival fait partie du groupe des téléportés (voir leurs habits de reconnaissance), cela déclenche une malédiction : la momie du mage se lève, et pourchasse (en marchant lentement, comme un zombie) l'intrus, qui doit l'esquiver jusqu'à ce que le téléporteur lui permette de sortir, sous peine de mourir. La momie retourne ensuite à sa place. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %} {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
 
 Lorsqu'il n'y pas de non-Parcival dans le tombeau, la momie ne bouge absolument pas, mais sa simple présence suffit à stresser les joueurs, tandis qu'ils lui piquent ses ornements légendaires.
+
 {% endmacro %}
 <{ magus_zombie_instructions }/>
 
@@ -1017,7 +1018,7 @@ Les soupçons se portent donc ensuite sur les avatars, qui pouvaient aller et ve
 Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais **sans le crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
 
 Dans la niche de la Bête, parmi les restes du voleur, se trouve le **{% symbol "glaive" for "arkon_weapon_name" %} ULTRA-LOURD** de l'arkonte. Cette arme est analysable : elle possède des traces de sang bleu à sa surface. Hors, un des romans concernant le druide mentionne qu'il a le sang bleu.
-{% hint "arkon_heavy_gladius_sword" is needed %}
+{% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
 {% fact "arkon_heavy_gladius_sword_has_blue_blood_traces" %}
 {% fact "druid_novels_mention_his_blue_blood" %}
 
@@ -1326,6 +1327,8 @@ Lors de la malédiction de la bibliothèque, il restait un monstre de garde, sur
 L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de la Bête errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %}
 
 Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le **symbole secret des Maupertuis**, transmis de génération en génération ; l'accès est alors débloqué **pour 12 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "npcs_know_about_secret_family_symbol_system" %}
+
+En définitive, parmi les protagonistes du drame, **seul Octave était déjà entré** (accompagné de ses parents) dans ce domaine interdit. {% fact "only_octave_had_been_in_forbidden_domain" %}
 
 
 La derrière maisonnée des Maupertuis

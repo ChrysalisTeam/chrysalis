@@ -45,23 +45,25 @@ Informations et instructions spécifiques
 
 Au tout début de votre parcours initiatique d'arkonte, vous avez retrouvé le légendaire **{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}**. Vous avez décidé de le fondre dans votre {% symbol 'Armure de Mithril' for 'arkon_armor_name' %}, ce qui l'a rendue ULTRA-LOURDE mais vous a protégé intégralement, lorsque vous la portiez, contre les attaques des entités du monde des morts. Attention, cette armure enchantée bloque aussi les **attaques physiques et sortilèges offensifs**, mais **uniquement au niveau du torse** (donc le reste du corps reste susceptible d'être blessé). Vous ne savez pas ce qu'est devenue votre armure après votre mort. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
 
-Vous ne savez pas non plus ce qu'est devenu votre {% symbol "glaive" for "arkon_weapon_name" %}, arme rustique mais très ULTRA-LOURDE et très solide avec laquelle vous aviez réussi à porter quelques braves coups à votre funeste agresseur.
-{% hint "arkon_heavy_gladius_sword" is needed %}
+Vous ne savez pas non plus ce qu'est devenu votre {% symbol "glaive" for "arkon_weapon_name" %}, arme rustique mais très ULTRA-LOURDE et très solide, avec laquelle vous aviez réussi à porter quelques braves coups à votre funeste agresseur.
+{% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
 
-Vous connaissez d'autres légendes remontant à l'ère du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}. L'une d'elle parle de divers artefacts (bijoux, sceptres, armes) créés par une petite secte, et appelés les **"Amplificans"**, qui avaient pour particularité d'étendre la portée spatiale des sortilèges de leur porteur. Avec cet effet démultiplicateur, un rituel créant habituellement un petit mur de flamme sur quelques pas pouvait se retrouver à embraser une plaine entière. Le symbole commun à ces artefacts était un **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. D'après vous, clairement, le mage a utilisé de telles sources de pouvoir. {% fact "arkon_has_hints_about_ring_amplificans" %}
+Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votre **sacoche de ceinture** contenant quelques valeurs, afin qu'elle n'interfère pas ; si on la retrouvait, son contenu pourrait aider les vivants en manque d'argent. Vous le leur indiquez si l'occasion se présente. {% fact "arkon_bag_disappeared_just_after_his_death" %} {% hint "arkon_bag_containing_money" is needed %}
+{% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
+
+Vous seriez extrêmement surpris si des affaires vous appartenant étaient retrouvées dans le domaine interdit, étant donné que vous n'y avez jamais mis les pieds. {% fact "only_octave_had_been_in_forbidden_domain" %}
 
 Vous aviez, longtemps avant votre mort, rendu votre **squelette indestructible**, tout autant pour renforcer votre corps, que pour éviter que votre possible disparition dans les griffes de quelque ennemi ne demeure à jamais un mystère. C'est aussi ça, l'esprit de prévoyance.
+
+Vous connaissez différentes légendes remontant à l'ère du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}. L'une d'elle parle de divers artefacts (bijoux, sceptres, armes) créés par une petite secte, et appelés les **"Amplificans"**, qui avaient pour particularité d'étendre la portée spatiale des sortilèges de leur porteur. Avec cet effet démultiplicateur, un rituel créant habituellement un petit mur de flamme sur quelques pas pouvait se retrouver à embraser une plaine entière. Le symbole commun à ces artefacts était un **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. D'après vous, clairement, le mage a utilisé de telles sources de pouvoir. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
 Vous pouvez être assez frustré de découvrir que votre ancien monastère héberge désormais un culte concurrent, celui des diacres de {% symbol "Bahamoot" for "god_of_diakons" %}. Mais enfin, c'est la lutte éternelle entre orthodoxie et hérésies.
 
 Si l'on vous interroge : vous ne connaissez pas de solution miracle à une **légion de zombies** - à part les combattre un à un avec des armes de préférence bénites. Mais vous avez entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
-En cas de question : vous ne savez pas ce qu'est un **"{% symbol "Vortex Abyssal" for "link_to_demonic_space" %}"** ni un **"{% symbol "Puits de Savoir" for "link_to_djinn_world" %}"**. Mais vous êtes plutôt opposé à utiliser des sortilèges sans bien comprendre ce qu'ils impliquent. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
+En cas de question : vous ne savez pas ce qu'est un **"{% symbol "Vortex Abyssal" for "link_to_demonic_space" %}"** ni un **"{% symbol "Puits de Savoir" for "link_to_djinn_world" %}"**. Mais vous êtes plutôt réfractaire à utiliser des sortilèges sans bien comprendre ce qu'ils impliquent. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
 
 Si un vivant meurt, vous incitez les autres à trouver comment le **ressusciter** temporairement, afin qu'il puisse encore aider ; vous savez que ce genre de subterfuge a souvent débloqué, par le passé, des situations jugées désespérées.
-
-Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votre **sacoche de ceinture** contenant quelques valeurs, afin qu'elle n'interfère pas ; vous ne savez pas ce qu'elle est devenue, mais son contenu pourrait aider les vivants en manque d'argent, vous le leur indiquez si l'occasion se présente. {% fact "arkon_bag_disappeared_just_after_his_death" %} {% hint "arkon_bag_containing_money" is needed %}
-{% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
 
 Si l'exorciste tente de **briser les corridors outre-monde** alors que des avatars sont encore présents dans la bibliothèque, vous vous demandez ouvertement si cela ne va pas les mettre en grave danger. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
