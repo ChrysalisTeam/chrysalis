@@ -81,7 +81,7 @@ Il vous faut prévoir une posture si le Tome 3 de votre roman (qui vous accable)
 Le complot anti-arkonte
 ===========================
 
-Dès que des joueurs se mettent à avoir confiance en l'arkonte, vous vous dites que le vent pourrait tourner pour vous. Vous décidez donc de le piéger, en laissant traîner une fausse lettre compromettante dans son ancienne sacoche de ceinture (que vous aviez subtilisée juste après la bataille), quelque part dans le domaine interdit enfin ouvert. Vous avez imité, en signature de cette fausse lettre, ce qui pourrait ressembler à des armoiries crédibles pour une secte fanatique chez les humains. {% fact "arkon_bag_remained_after_his_death_but_disappeared" %} {% fact "druid_makes_conspiracy_against_arkon" %}
+Dès que des joueurs se mettent à avoir confiance en l'arkonte, vous vous dites que le vent pourrait tourner pour vous. Vous décidez donc de le piéger, en laissant traîner une fausse lettre compromettante dans son ancienne sacoche de ceinture (que vous aviez subtilisée juste après la bataille), quelque part dans le domaine interdit enfin ouvert. Vous avez imité, en signature de cette fausse lettre, ce qui pourrait ressembler à des armoiries crédibles pour une secte fanatique chez les humains. {% fact "arkon_bag_disappeared_just_after_his_death" %} {% fact "druid_makes_conspiracy_against_arkon" %}
 
 Bien entendu, personne ne doit vous voir poser cette sacoche ; non seulement elle laissera entendre que l'arkonte a pénétré de son vivant dans le domaine interdit, mais aussi qu'il a volontairement tué les réfugiés Maupertuis pour ensuite les emprisonner maléfiquement dans la bibliothèque.
 {% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}

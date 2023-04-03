@@ -407,7 +407,7 @@
     - "@ENORMES Grand bâton noueux (pour le druide)"
     - "Sarbacane-flûte (pour le druide) {% hint 'blowpipe_flute_for_druid' is provided %}"
     - "Balle avec rubans multicolores (pour le druide) pour simuler un sortilège offensif"
-    - "@EXTERNE Sacoche de ceinture de l'arkonte (pour le druide), avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% fact 'druid_makes_conspiracy_against_arkon' %} {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'feather_in_arkon_bag' is provided %}"
+    - "@EXTERNE Sacoche de ceinture de l'arkonte (pour le druide), avec une fausse lettre compromettante au blason de faucille et houx, de l'argent, et une plume de prophétie {% fact 'druid_makes_conspiracy_against_arkon' %} {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'arkon_bag_containing_money' is provided %} {% hint 'feather_in_arkon_bag' is provided %}"
     - "Trace de coupure suintante bleue sur l'avant-bras (ex. au crayon UV) {% hint 'blue_blood_for_druid_healings' is provided %}"
 
 -
