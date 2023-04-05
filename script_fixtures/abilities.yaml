@@ -364,6 +364,15 @@ abilities:
                         des Maupertuis  |
                         passera sans encombre
 
+                cryptex_rune:
+                    decoding: >
+                        su ki | ki to | ko ka ta
+                    translation: >
+                        ô prodiges de sagesse |
+                        et de curiosité, venez répondre |
+                        à ma soif d'érudition
+                     
+
             middlewares: {}
 
     mercenaries_hiring:

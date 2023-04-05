@@ -4,6 +4,8 @@ TODO RESTANT MURDER PARTY
 ====================================
 
 
+TESTER LES RUNES dont cryptex_rune
+
 Faire étiquettes fragile, ne pas toucher, ou au contraire "à prendre"
 
 Dire DELICATESSE
