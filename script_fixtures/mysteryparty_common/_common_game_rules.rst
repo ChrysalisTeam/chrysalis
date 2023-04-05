@@ -27,7 +27,7 @@ Respect de l'immersion
 
 Le jeu est pensé pour se jouer en immersion complète. Pour en profiter pleinement, et par respect pour les organisateurs et les autres joueurs :
 
-- On **prend ses dispositions en termes d'horaires** pour ne pas arriver en retard et risquer de perturber la planification du jeu, surtout si l'on prend des transports en commun.
+- On prend ses dispositions en termes d'horaires pour ne pas arriver en retard et risquer de perturber la planification du jeu, surtout si l'on utilise des transports en commun.
 - On ne prévoit pas d'impératifs horaires juste après le jeu, car il est possible que celui-ci déborde un peu en cas d'imprévu.
 - On se garde de toute discussion sans rapport avec le jeu, même (et surtout) en cas de période de flottement.
 - On reste discret lorsque l'on demande des informations en hors-jeu, par exemple au maître de jeu.
@@ -40,6 +40,13 @@ Le jeu est pensé pour se jouer en immersion complète. Pour en profiter pleinem
 Il est vivement encouragé d'ajouter un peu de jeu d'acteur aux différentes situations, en simulant les émotions, les travaux de force physique ou de concentration mentale, la réalisation des diverses opérations que l'on peut avoir à mener, les blessures potentiellement reçues...
 
 Si vous vous sentez à l'aise, vous pouvez aussi travailler plus profondément votre personnage, pour lui donner un caractère bien tranché, des manies, un accent, etc.
+
+Si un participant (joueur ou figurant) passe avec le **poing levé**, c'est qu'il est hors-jeu, ignorez-le.
+
+
+.. raw:: pdf
+
+    PageBreak
 
 
 Sécurité physique et émotionnelle

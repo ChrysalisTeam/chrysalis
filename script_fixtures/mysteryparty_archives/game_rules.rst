@@ -15,26 +15,28 @@ Apprentissage et suivi du scénario
 - Par souci de simplicité, les feuilles de personnage sont par défaut accordées au masculin, mais la plupart des rôles sont non genrés ; voyez avec les organisateurs si vous avez des préférences à ce niveau.
 
 
-Distinction des objets en-jeu/hors-jeu (RP/HRP)
+Objets en-jeu et hors-jeu (RP/HRP)
 +++++++++++++++++++++++++++++++++++++++++++++++
 
+- Beaucoup d'objets sont présents en jeu, ils sont là pour être inspectés et manipulés, mais avec **délicatesse** car certains sont fragiles (en particulier les verreries).
+- Si un objet a une étiquette "ne pas toucher" (main barrée), c'est qu'il est fragile et uniquement décoratif.
 - **La nourriture et les boissons du buffet sont hors-roleplay**, vous ne risquez donc rien à vous en délecter gaiement.
-- Certains papiers (documents du MJ, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels ; **en particulier, ne pas montrer sa feuille de personnage aux autres joueurs, même alliés**.
+- Certains papiers (documents du MJ, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels.
 - Lorsque des **meubles ou objets sont recouverts d'un tissu entièrement noir**, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu. Similairement, lorsque des objets sont dans une **sacoche noire unie**, c'est qu'ils ne sont pas (encore) matérialisés dans le monde du jeu, il ne faut pas y toucher.
 - Du **scotch noir** peut aussi être utilisé pour désigner des objets soudés ensemble, ou scellés, ou attachés au sol ; dans ce cas, ne pas les déplacer, sauf compétences particulières qui permettent d'altérer ces objets.
 - De la **cordelette épaisse de chanvre** peut servir à matérialiser les passages bloqués, soit à cause d'un mur infranchissable, soit d'un sortilège qui doit d'abord être dissipé.
 - Des marqueurs tels **des étoiles autocollantes, plumes colorées, ou perles plates en verre** peuvent être utilisés pour désigner des points d'action, ou pour annoter des objets du jeu. **Ne les enlevez pas.** Si vous ne connaissez pas leur signification, vous ne pouvez pas les décrire à un autre joueur (car ces marqueurs sont hors-jeu), mais vous pouvez lui demander de *"jeter un oeil, car cette objet vous semble étrange/piégé/magique"*. Les méthodes de déchiffrement de ces marqueurs ne peuvent pas être transmises entre joueurs, car elles représentent des compétences longues à acquérir dans l'univers du jeu. En revanche, ignorez toutes les **pastilles rondes colorées**, car elles servent uniquement au rangement des objets.
-- Les livres modernes sont à considérer comme des grimoires écrits dans des langues que vous ne pouvez comprendre.
+- Les livres modernes (ex. ceux habituels de la bibliothèque) sont à considérer comme des grimoires écrits dans des langues que vous ne pouvez comprendre.
 - Les objets contemporains (lampes LED...) sont traités comme leurs équivalents dans un monde rétrofuturiste "steampunk", ou ignorés s'ils sont high-tech (ordinateurs...). Les systèmes modernes de sonorisation et d'éclairage d'ambiance sont hors-jeu et à ignorer.
 - En cas de doute sur ce qui est en jeu ou non, demander au MJ ou aux figurants.
-- si un participant (joueur ou figurant) traverse la salle avec le **poing levé**, c'est qu'il est hors-jeu, ignorez-le.
 
 Compétences, objets et pièges
 +++++++++++++++++++++++++++++++++++++
 
 - Les compétences spéciales de votre personnage ne sont pas vos seuls atouts. Beaucoup d'actions nécessaires pour avancer dans le jeu sont accessibles à tous : chercher des objets et indices, discuter avec des figurants, résoudre des énigmes...
 
-- Le maître du jeu doit être **tenu informé** des compétences spéciales que vous mettez en œuvre, et y assister s'il s'agit de compétences interactives entre protagonistes (comme des serments), ou de manoeuvres qui modifient l'état des objets du jeu.
+- Le maître du jeu doit être tenu informé des compétences spéciales que vous mettez en œuvre, et y assister s'il s'agit de compétences interactives entre protagonistes (comme des serments), ou de manoeuvres qui modifient l'état des objets du jeu.
+
 - N'hésitez pas à prendre à part le maître de jeu durant la partie, si une règle n'est pas claire, ou pour demander si ceci ou cela est possible dans cet univers.
 
 - Les coffrets et valises qui sont posés sur le sol ou sur une table sont considérés **inamovibles**, il ne faut pas les bouger, et encore moins les secouer pour jauger ce qu'ils contiennent (risque d'objets ou mécanismes fragiles, là encore) ; les petits coffrets et boites placés dans d'autres rangements peuvent, eux, être déplacés avec précaution.
