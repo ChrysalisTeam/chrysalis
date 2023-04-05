@@ -1139,7 +1139,7 @@ Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine 
 {% hint 'spiritual_orb_key_cube_is_needed' is needed %}
 {% hint 'spiritual_orb_key_diamond_is_needed' is needed %}
 
-Il est indiqué, par un blason (à vouivre blanche) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% fact "anthropologist_knows_about_white_wyvern_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
+Il est indiqué, par un blason (à triade de flammes) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% fact "anthropologist_knows_about_fire_triad_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
 
 Les avatars ou fantômes Maupertuis ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
 
