@@ -34,7 +34,7 @@ Cette bénédiction ne fonctionne que sur les métaux nobles : **Paladium, Iridi
 
 Rituel :
 
-- Prendre une gorgée de Potion de Focus {% hint "potion_of_focus_from_exorcist" is needed %}
+- Prendre une gorgée de Philtre de Focus {% hint "potion_of_focus_from_exorcist" is needed %}
 - Imposer les mains sur l'arme de poing ou la munition présentée
 - Clamer **"Armement qui blesses la chair, blesse aussi l'âme"** {# (ou bien la version latine : "Tu et caro dolet, et anima nocere") #}
 

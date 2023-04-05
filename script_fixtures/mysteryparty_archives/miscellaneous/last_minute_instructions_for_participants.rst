@@ -15,7 +15,9 @@ Mais que tous peuvent voir l'Ankou qui est divin.
 
 Rappeler que les avatars ne peuvent pas manipuler de romans, ni les leurs ni ceux des autres ; les autres livres et grimoires leur restent cependant accessibles. {% fact "avatars_cannot_carry_novels" %}
 
-Affecter à certains le groupe qu'ils **suivront durant le jeu**, avec ou sans la fiche de quête (pleine de *spoilers*).
+Rappeler la présence bien connue et assumée de l'automate de garde, armé d'un fusil nerf.
+
+Affecter à certains figurants le groupe qu'ils **suivront durant le jeu**, avec ou sans la fiche de quête (pleine de *spoilers*).
 
 POUR LES FANTÔMES :
 
@@ -62,13 +64,13 @@ BRIEFING FINAL DES JOUEURS+FIGURANTS
 -----------------------------------------
 
 - Redonner le planning global du jeu
-- Redonner les principales règles (en particulier la sécurité physique et psychologique)
+- Redonner les principales règles : délicatesse envers les objets, objets hors-jeu, sécurité physique et psychologique
 - Détailler la zone de jeu, en particulier les salles hors-jeu
 - Détailler la présence des toilettes, HORS-JEU
 - Expliquer la présence du photographe (redemander à tous si c'est OK pour droit à l'image)
 - Annoncer la présence du terminal Web des indices et des traductions runiques
 - Rappeler l'existence du "seau argenté des objets utilisés" (ex. pour les clés ou potions utilisées) {% hint 'basket_for_precious_items' is needed %}
-- Annoncer : "En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler: je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de pangéa par exemple, ce n'est pas de la triche, çà fait partie du jeu ! Toutes mes possessions sont bien sûr HORS-JEU !"
+- Annoncer : "En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler: je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de pangéa par exemple, ce n'est pas de la triche, çà fait partie du jeu ! Toutes mes possessions sont cependant HORS-JEU !"
 
 **Conseils divers:**
 
