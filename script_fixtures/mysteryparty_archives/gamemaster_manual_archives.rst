@@ -161,7 +161,7 @@ Le monde des automates
 
 Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% fact "inventor_has_built_androids" %}
 
-Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **{% symbol "rubans de dentelle blanche" for "automaton_symbolic_cloth" %}** autour du cou et des poignets. {% hint "white_ribbon_cloth_for_automatons" is needed %}
+Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **{% symbol "rubans blancs" for "automaton_symbolic_cloth" %}** autour du cou et des poignets. {% hint "white_ribbon_cloth_for_automatons" is needed %}
 
 Ils obéissent uniquement au personnage (figurant ou joueur) portant un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**. Ils répondent du mieux possible à ses ordres, tant qu'ils ne contredisent pas frontalement leurs règles innées de non-agression et de survie. *En cas de doute sur ce comment réagir à un ordre difficile, simuler l'hésitation, et demander discrètement au maître de jeu.* {% fact "robots_obey_but_refuse_violence_or_sacrifice" %}
 

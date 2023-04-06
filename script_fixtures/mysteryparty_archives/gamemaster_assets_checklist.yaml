@@ -465,7 +465,7 @@
 -
   - "@COSTUMES-AUTOMATES"
   -
-    - "Rubans de dentelle blanche pour les automates {% hint 'white_ribbon_cloth_for_automatons' is provided %}"
+    - "{% symbol 'Rubans blancs' for 'automaton_symbolic_cloth' %} pour les automates {% hint 'white_ribbon_cloth_for_automatons' is provided %}"
     - "Fusil nerf et à lianes à mettre sous le masque quand piraté, pour l'automate de garde {% hint 'nerf_gun_for_guard_automaton' is provided %} {% hint 'plants_around_head_of_automaton_hitman' is provided %}"
 
 -

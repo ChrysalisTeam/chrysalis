@@ -32,7 +32,7 @@ POUR LES AVATARS :
 
 POUR LES AUTOMATES :
 
-- Donner leurs {% symbol 'rubans de dentelle blanche' for 'automaton_symbolic_cloth' %} aux automates
+- Donner leurs {% symbol 'rubans blancs' for 'automaton_symbolic_cloth' %} aux automates
 - Juste après le discours introductif du début de jeu, vous devrez **accompagner les groupes de joueurs** jusqu'à leurs points de départ (voir le plan du jeu)
 - Lorsque le jeu commence vraiment, vous pouvez pour certains être INACTIFS, assis ou au sol, jusqu'à ce que l'inventeur ne vous allume (les avatars doivent évidemment trouver cela normal)
 - Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le MJ dira si le piège reste encore en place ou non.

@@ -21,8 +21,6 @@ URGENT donner 1 artefact magique par personnage.
 - oracle : chaudron bouillonannt ? bofpp
 
 
-REMPLACER DENTELLE par ruban blanc!!!!!
-
 
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
@@ -94,6 +92,8 @@ TO FIX :
 TRASH
 ########################################
 
+
+- REMPLACER DENTELLE par ruban blanc!!!!! DONE
 
 - PEUT-ETRE un peu plus de jeu necessaire pour minesweeper ?  NOPE il a de quoi faire
 
