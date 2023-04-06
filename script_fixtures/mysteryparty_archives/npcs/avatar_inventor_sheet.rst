@@ -37,7 +37,7 @@ Informations et instructions spécifiques
 
 Personnellement très affecté par le triste sort de vos amis, vous mettez tous vos espoirs dans les affinités surnaturelles de vos compères d'outre monde, pour peut-être obtenir justice, et surtout libérer les âmes errantes de la maisonnée Maupertuis.
 
-Durant vos temps heureux dans la bibliothèque, vous aviez fouillé l'étage autorisé avec votre nouvel ami Octave, et rassemblé de quoi construire plusieurs **automates grandeur-nature** pour faire le service. Dopés par quelques sortilège de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les ramener dans votre propre univers pour les montrer à vos proches. {% fact "inventor_has_built_androids" %}
+Durant vos temps heureux dans la bibliothèque, vous aviez fouillé l'étage autorisé avec Octave, et rassemblé de quoi construire plusieurs **automates grandeur-nature** pour faire le service. Dopés par quelques sortilège de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les ramener dans votre propre univers pour les montrer à vos proches. {% fact "inventor_has_built_androids" %}
 
 Vous aviez donné à Octave un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**, conçu par vos soins et permettant de commander avec fermeté les automates. Ce bracelet est désormais revenu à votre **poignet**. {% hint 'androids_command_bracelet_for_inventor' is needed %}
 

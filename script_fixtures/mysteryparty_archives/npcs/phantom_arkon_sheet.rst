@@ -36,7 +36,7 @@ Il faudra à votre salvateur, non pas briser votre {% symbol "Clôture Absolue" 
 
 Ou, si vous n'arrivez pas à en trouver un, au moins une personne qui aura juré suffisamment de choses par le "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}" pour que sa bonne volonté soit attestée.
 
-Vous avez parlementé avec le garçon avec Octave et l'archiviste qui s'était réfugié dans ces lieux pleins de savoir et de magie, et vous les avez convaincus de refermer les portails interdits mentionnait-elle, en retour de votre aide pour les sortir d'ici et les mettre à l'abri. Les personnages d'outre monde étaient plus ou moins étés globalement très remontés contre vous, mais ils ont bien du accepté la décision. Vous avez donc il mise en place avantage du rituel, et commencer à refermer les portes une par une.
+Vous avez parlementé avec Octave et l'archiviste qui s'étaient réfugiés dans ces lieux pleins de savoir et de magie, et vous les avez convaincus de refermer les portails interdits mentionnait-elle, en retour de votre aide pour les sortir d'ici et les mettre à l'abri. Les personnages d'outre monde étaient plus ou moins étés globalement très remontés contre vous, mais ils ont bien du accepté la décision. Vous avez donc il mise en place avantage du rituel, et commencer à refermer les portes une par une.
 
 #}
 

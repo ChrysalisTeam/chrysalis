@@ -14,7 +14,7 @@ Votre profil
 Informations et instructions spécifiques
 ========================================
 
-**Important** : Vous annoncez que les défunts Maupertuis (la famille d'Octave) vont "tous bien" dans l'au-delà, qu'ils attendent le retour d'Octave, et qu'ils se tiennent à disposition en cas de besoin pour aider les aventuriers. Si un joueur a une question à vous poser, ou à transmettre à l'un des défunts, il peut - via les compétences mystiques des diacres - envoyer un **message spirituel au "42 rue d'Hadès"**, votre adresse mortuaire ; vous lui répondrez alors de la façon qui vous siéra. *L'adresse exacte importe peu, le tout est que le joueur l'ait.*  {% fact "diakon_invoker_can_message_ankou" %}
+**Important** : Vous annoncez que les parents de la famille Maupertuis vont "tous bien" dans l'au-delà, qu'ils attendent le retour d'Octave, et qu'ils se tiennent à disposition en cas de besoin pour aider les aventuriers. Si un joueur a une question à vous poser, ou à transmettre à l'un des défunts, il peut - via les compétences mystiques des diacres - envoyer un **message spirituel au "42 rue d'Hadès"**, votre adresse mortuaire ; vous lui répondrez alors de la façon qui vous siéra. *L'adresse exacte importe peu, le tout est que le joueur l'ait.*  {% fact "diakon_invoker_can_message_ankou" %}
 
 Lors de votre passage, vous demandez aux joueurs s'ils n'auraient pas vu une **sonnette de table métallique** dans la bibliothèque.
 Ils devraient savoir de quoi vous parlez.

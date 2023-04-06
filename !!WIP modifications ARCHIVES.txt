@@ -3,6 +3,13 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
+Réenregistrer l'énigme des sousous avec "OCTAVE" en nom
+
+Vérifier que les feuilles d'octave sont BIGENRE
+
+ENLEVER SPOILER ICI :
+Dans le Domaine Interdit, vous demandez aux diacres de ne pas libérer le fantôme du **voleur** de son ancrage ; et vous protégez de votre corps les diverses personnes présentes, si ce défunt se montre agressif. Vous tentez de lui expliquer qu'il est bel et bien mort, que son attrait pour les trésors n'a plus aucun sens ; qu'il ferait mieux de vous révéler tout ce qu'il sait ; il doit finir par se laisser convaincre de son statut de fantôme, mais garder son avidité "pour le bien de sa propre descendance". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
+
 
 TESTER LES RUNES dont cryptex_rune
 

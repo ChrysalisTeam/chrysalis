@@ -354,7 +354,7 @@ Octave de Maupertuis (l’enfant)
 
 - Se demande ouvertement si ce n’est pas son oeuvre d’inventaire et rangement complet de la bibliothèque, inachevée, qui le retient dans ce monde.
 
-- S’assure de la bonne volonté initiale des joueurs grâce au “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”, puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
+- S’assure de la bonne volonté initiale des joueurs (potentiellement grâce au “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”), puis les aide en leur prodiguant énormément de conseils, et d’informations sur les lieux.
 
 {% endmacro %}
 <{ phantom_archivist_character_summary }/>
