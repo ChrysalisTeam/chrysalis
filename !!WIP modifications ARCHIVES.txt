@@ -3,23 +3,18 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
+- Les fantômes ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+
 Réenregistrer l'énigme des sousous avec "OCTAVE" en nom
 
-Vérifier que les feuilles d'octave sont BIGENRE
+Donner un moyen au voleur d'être libéré de son attache, contre promesse ou autre ?
 
-ENLEVER SPOILER ICI :
-Dans le Domaine Interdit, vous demandez aux diacres de ne pas libérer le fantôme du **voleur** de son ancrage ; et vous protégez de votre corps les diverses personnes présentes, si ce défunt se montre agressif. Vous tentez de lui expliquer qu'il est bel et bien mort, que son attrait pour les trésors n'a plus aucun sens ; qu'il ferait mieux de vous révéler tout ce qu'il sait ; il doit finir par se laisser convaincre de son statut de fantôme, mais garder son avidité "pour le bien de sa propre descendance". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
+Re-vérifier que les feuilles d'octave sont BIGENRES
 
-
-TESTER LES RUNES dont cryptex_rune
-
-Faire étiquettes fragile, ne pas toucher, ou au contraire "à prendre"
-
-Dire DELICATESSE
+TESTER LES RUNES dont cryptex_rune sur le portail web
 
 URGENT donner 1 artefact magique par personnage.
-- oracle : chaudron bouillonannt ? bofpp
-
+- oracle : chaudron bouillonannt ? bof
 
 
 INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
@@ -33,8 +28,7 @@ INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
 
 REDISTRIBUTION DES COMPETENCES:
 - donner à alchimiste possibilité de REFAIRE FLECHETTE pour woodsman, au lieu de la trouver en jeu <- RECETTES TROUVABLES EN JEU ??
-- besoin d'1-2 runes akarites de plus pour le RUNOLOGUE ? <--- POUR LIRE CE QUI EST CACHE microscope
-        -> Faire micro-textes pour microscope ! CF "Ô étranger, LIRE ENTRE LES LIGNES TODO" (dans doc assets)
+
 
 TODO mettre à jour finalement "Survol des compétences spécifiques des participants"
 
@@ -92,6 +86,12 @@ TO FIX :
 TRASH
 ########################################
 
+- besoin d'1-2 runes akarites de plus pour le RUNOLOGUE ? <--- POUR LIRE CE QUI EST CACHE microscope
+        -> Faire micro-textes pour microscope ! CF "Ô étranger, LIRE ENTRE LES LIGNES TODO"     DONE
+
+- Faire étiquettes fragile, ne pas toucher, ou au contraire "à prendre"  DONE bof
+
+- Dire DELICATESSE   done
 
 - REMPLACER DENTELLE par ruban blanc!!!!! DONE
 
