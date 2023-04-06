@@ -61,13 +61,13 @@ Vous pouvez être assez frustré de découvrir que votre ancien monastère hébe
 
 Si l'on vous interroge : vous ne connaissez pas de solution miracle à une **légion de zombies** - à part les combattre un à un avec des armes de préférence bénites. Mais vous avez entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
-En cas de question : vous ne savez pas ce qu'est un **"{% symbol "Vortex Abyssal" for "link_to_demonic_space" %}"** ni un **"{% symbol "Puits de Savoir" for "link_to_djinn_world" %}"**. Mais vous êtes plutôt réfractaire à utiliser des sortilèges sans bien comprendre ce qu'ils impliquent. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
+En cas de question : vous ne savez pas ce qu'est un **"{% symbol "Vortex Abyssal" for "link_to_demonic_space" %}"** ni un **"{% symbol "Puits de Savoir" for "link_to_djinn_world" %}"**. Mais vous êtes habituellement réfractaire à utiliser des sortilèges sans bien comprendre ce qu'ils impliquent. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
 
 Si un vivant meurt, vous incitez les autres à trouver comment le **ressusciter** temporairement, afin qu'il puisse encore aider ; vous savez que ce genre de subterfuge a souvent débloqué, par le passé, des situations jugées désespérées.
 
 Si l'exorciste tente de **briser les corridors outre-monde** alors que des avatars sont encore présents dans la bibliothèque, vous vous demandez ouvertement si cela ne va pas les mettre en grave danger. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
-Dans le Domaine Interdit, vous demandez aux diacres de ne pas libérer le fantôme du **voleur** de son ancrage ; et vous protégez de votre corps les diverses personnes présentes, si ce défunt se montre agressif. Vous tentez de lui expliquer qu'il est bel et bien mort, que son attrait pour les trésors n'a plus aucun sens ; qu'il ferait mieux de vous révéler tout ce qu'il sait ; il doit finir par se laisser convaincre de son statut de fantôme, mais garder son avidité "pour le bien de sa propre descendance". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
+Si vous croisez un fantôme ancré, mais inconnu voire louche, vous demandez aux diacres de ne pas libérer de son ancrage ; et vous protégez de votre corps les diverses personnes présentes, si un défunt se montre agressif. S'il n'a pas conscience qu'il est mort, vous tentez de le lui expliquer, et de le convaincre que tout désir pour les choses terrestres n'a plus aucun sens. {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
 
 Si le dénouement approche, vous pouvez aller interroger (voire faire jurer) les différents groupes de joueurs, quant à ce qu'ils feront des portails menant à la bibliothèque s'ils en réchappent. Vous-même n'avez pas forcément d'avis tranché.
 {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
