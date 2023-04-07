@@ -732,7 +732,7 @@ Il ne vise évidemment **jamais la tête** des participants, par sécurité.
 Face à cet automate :
 
 - Tous les protagonistes sont vulnérables
-- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte ; ses fléchettes peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal ; il a déjà entendu parler de ce genre de chimères mécaniques. {% fact "parcival_woodsman_knows_about_parasited_automatons" %}
+- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte ; ses fléchettes d'{% symbol "Iridium" for "parcival_woodsman_arrows_metal" %} peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal ; il a déjà entendu parler de ce genre de chimères mécaniques. {% fact "parcival_woodsman_knows_about_parasited_automatons" %}
 - Aller à l'empoignade est proscrit par sécurité, mais serait de toute façon suicidaire étant donnée la force physique des automates.
 - Les sortilèges des diacres sont en théorie inutilisables, car l'automate bouge trop, par exemple, pour être mis en stase dans un pentacle.
 - Si un protagoniste possède le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}', le bracelet de commandement des automates, il peut donner des ordres à l'automate tueur, et ainsi créer un conflit qui va le confondre et le ralentir (car le robot oscillera entre l'ordre de tuer, et celui de ne pas le faire).
@@ -1052,7 +1052,8 @@ Mais il existe certaines façons de l'atteindre :
 {# NOPE for now - Soit confectionner et lui faire boire une **potion magique d’autocombustion**, qui va retourner sa puissance magique contre lui ; cette potion doit impérativement lui être apportée suffisamment tôt, et par l’automate, pour qu’il ne soit pas soupçonneux. #}
 {# NOPE for now - Soit reconstituer un pentacle de renvoi ailleurs TOO HARD, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).  #}
 
-- Soit ensorceler la balle du joueur au pistolet, pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de **trois joueurs** pour créer “la balle qui ne pardonne pas”. {% hint "unavoidable_bullet_spell_from_thanatologue" is needed %}
+- Soit ensorceler une fléchette d'arbalète pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanathologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de **trois joueurs** pour créer une "arme qui ne pardonne pas". {% hint "unavoidable_bullet_spell_from_thanatologue" is needed %}
+  L'alchimiste peut recréer des fléchettes grâce à une recette trouvée dans le domaine interdit. {% fact "parcival_alchemist_can_create_iridium_arrows" %} {% hint "arrow_recipe_for_alchemist" is needed %}
 
 - Soit la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer détruire massivement les corridors d'outre-monde grâce à l'un de ses **rituels**, et murer ainsi les avatars dans leurs mondes respectifs. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
@@ -1232,7 +1233,7 @@ Concrètement, tout parjure sera rapidement sanctionné par un douloureux châti
 
 Si certaines personnes jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risquerait à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand-chose.
 
-Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux pangéens vivants ; les défunts et les entités d'outre-monde s'en serviraient donc parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux pangéens *vivants* ; les défunts et les entités d'outre-monde s'en serviraient donc parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 
 Divinités et mondes alternatifs
@@ -1437,7 +1438,7 @@ Valeur des objets précieux
 
 Vous connaissez bien les valeurs des pièces et pierreries.
 
-Voici par exemple comment s'écoulaient, au meilleur prix, les éléments précieux du temps des Maupertuis (leur valeur en kashes est restée globalement constante dans toute l'Histoire de Pangea, jusqu'à nos jours). {% fact "precious_objects_have_kept_same_kash_value_along_history" %}
+Voici par exemple comment s'écoulaient, au meilleur prix, les éléments précieux du temps des Maupertuis.
 
 - 1 pièce de monnaie couleur argent ou bronze vaut 1 kash (quelle que soit sa taille)
 - 1 pièce en or vaut 10 kashes dans les grandes villes
@@ -1445,7 +1446,11 @@ Voici par exemple comment s'écoulaient, au meilleur prix, les éléments préci
 - 1 moyen diamant rectangulaire vaut 10 kashes sur le marché de Nimouk
 - 1 grand diamant rond ou rectangulaire vaut jusqu'à 20 kashes dans les pays Axoliens
 - La couleur (fumée ou non) des diamants est sans impact sur leur valeur
-- Pour les bijoux, leur valeur estimée est marquée sous forme d'étiquette hors-jeu
+
+Noter que ces valeurs en kashes sont restées globalement constantes dans toute l'Histoire de Pangéa, jusqu'à nos jours.
+{% fact "precious_objects_have_kept_same_kash_value_along_history" %}
+
+*NOTE hors-jeu* : Pour ce qui est des bijoux précieux, leur valeur estimée est marquée sur une étiquette blanche.
 
 {% endmacro %}
 <{ treasures_value_summary }/>

@@ -3,11 +3,15 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
-- Les fantômes ne sont PAS soumis aux règles du “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}”. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+A changer dans inventaire
+     2 grandes gourdes cylindriques en cuivre
+     chercher un pilon pour alchimie
+    - ajouter dome poulpi et lanternes vintage aux Assets
+    chercher balance vintage en bois/cuivre
 
 Réenregistrer l'énigme des sousous avec "OCTAVE" en nom
 
-Donner un moyen au voleur d'être libéré de son attache, contre promesse ou autre ?
+Donner un moyen au voleur d'être libéré de son attache, contre promesse ou autre ? <<<<<<<<<
 
 Re-vérifier que les feuilles d'octave sont BIGENRES
 
@@ -78,7 +82,7 @@ TO FIX :
 - Mettre davantage au propre la quête du "Djinn Renégat", expulsé de son lien magique par les invocations désespérées de l'arkonte lors du combat, et cherchant le puist de savoir.
 - Puits inutile vs Puits des djinns, améliorer
 - Rajouter un pouvoir au Woodsman ?? Ou une petite quête ?? -> il peut se BINDER pour protéger qqun des blessure ?
-
+- Ajouter aux "hints" les potions/objets de l'alchimiste déjà possédés (ex. Lymphe de tarantule {% hint "potion_of_tarantula_lymph" is provided %})
 
 
 

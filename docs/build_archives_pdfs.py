@@ -142,6 +142,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("recipe_flex_elixir_and_clarity_lotion", 1),
     ("recipe_pyrolitis_tincture", 1),
     ("recipe_rejuvenation_cocktail", 1),
+    ("extra_alchemy_recipes", 1),
     ("thanatologue_extract", 4),
     ("meredice_diary_extract", 1),
     ("chromacryptographic_messages", 2),

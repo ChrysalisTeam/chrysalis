@@ -23,7 +23,7 @@ Les ingrédients que vous possédez
 - Jus de chrysanthrope
 - Essence de soufre
 - Poudre de carapace de tortue
-- Lymphe de tarantule
+- Lymphe de tarantule  {% hint "potion_of_tarantula_lymph" is provided %}
 - Huile de ricin
 - Filtrat de marée lunaire
 
