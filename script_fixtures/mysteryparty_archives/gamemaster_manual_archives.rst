@@ -770,7 +770,7 @@ Lorsqu'il n'y pas de non-Parcival dans le tombeau, la momie ne bouge absolument 
 La bataille finale
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Voir la quête `Neutraliser le méchant`_ pour un aperçu des déroulements possibles de cet épisode final.
+Voir la quête `Démasquer et neutraliser le méchant`_ pour un aperçu des déroulements possibles de cet épisode final.
 
 
 L’épilogue musical

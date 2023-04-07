@@ -3,6 +3,8 @@ from __future__ import print_function, unicode_literals
 
 import os
 import re
+from pprint import pprint
+
 import rpg_sheet_generator as rpg
 import sys
 import textwrap
@@ -330,6 +332,8 @@ def generate_archives_sheets():
 
     all_data["murder_party_items"] = murder_party_items
 
+    #pprint(murder_party_items)
+
     # Sort items between crates dependong on @CRATE start markers
     murder_party_items_per_crate = OrderedDict()
 
@@ -349,16 +353,18 @@ def generate_archives_sheets():
         if len(murder_party_item) != 2:
             raise ValueError("Value should be a PAIR: %s" % murder_party_items)
 
-        section, item_titles = murder_party_item
+        section, item_details_list = murder_party_item
         crate, section = _extract_crate(section)
         default_create = crate or section
-        for section_item_struct in section_item_structs:
-            item_title = section_item_struct["item_label"]
-            crate, item_title = _extract_crate(item_title)
-            crate = crate or default_create
-            assert crate, repr(crate)
-            murder_party_items_per_crate.setdefault(crate, [])
-            murder_party_items_per_crate[crate].append(item_title)
+        for item_details in item_details_list:
+            item_label = item_details["item_label"]
+            item_crate, item_label = _extract_crate(item_label)
+            item_crate = item_crate or default_create
+            assert item_crate, repr(item_crate)
+            murder_party_items_per_crate.setdefault(item_crate, [])
+            murder_party_items_per_crate[item_crate].append(item_label)
+
+    #pprint(murder_party_items_per_crate)
     all_data["murder_party_items_per_crate"] = murder_party_items_per_crate.items()
 
     # BEWARE - sensitive data specific to a murder party game
