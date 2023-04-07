@@ -41,21 +41,21 @@
   -
 
     - "@BIJOUX Broche du père Maupertuis pour le livre factice rouge (envoûtement POSITIF)"
-    - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
+    - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF) OK"
     - "@AUDIOVIDEO Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse pour le Venture Prins"
-    - "I4 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} "
+    - "I4 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} WIP"
     - "I5 - Livre fin HACHETTE avec Recette de l'Elixir Flexifiant (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_flex_elixir' is provided %}"
     - "I6 - Livre fin HACHETTE avec Recette de la Lotion de Clairvoyance (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_clarity_lotion' is provided %}"
-    - "I7 - Livre luxe pourpre :  Tome 3 du roman du druide entre les étagères de zoologie et de gastronomie (+1 livre luxe pourpre en secours) {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
+    - "I7 - Livre luxe pourpre :  Tome 3 du roman du druide entre les étagères de zoologie et de gastronomie (+1 livre luxe pourpre en secours) {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %} WIP"
     - "@POTIONS I8 - Potion de tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence"
 
     - "@AUDIOVIDEO J1 - SCEAU lumineux OPTIONNEL (1 mini-guirlande LED), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %} (envoûtement POSITIF)"
     - "J2 - Livre fin HACHETTE avec Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
-    - "6 grosses bougies allumées (3xAAA chacune) à disséminer dans l'étage autorisé}"
+    - "6 grosses bougies allumées (3xAAA chacune) à disséminer dans l'étage autorisé OK"
 
-    - "Boite noire plate à motifs avec antivols magnétiques <WHAT-FOR?>"
-    - "Boite carton à couverture marron avec antivols magnétiques <WHAT-FOR?>"
+    - "Boite noire plate à motifs avec antivols magnétiques <WHAT-FOR?> OK"
+    - "Boite carton à couverture marron avec antivols magnétiques <WHAT-FOR?> OK"
 
     - "2 gros grimoires (1 rouge et 1 vert-gris foncé) creusés pour accueillir tablette/papiers"
 
@@ -72,17 +72,17 @@
 -
   - "@BUFFET Buffet d'outre-monde [L1]"
   -
-    - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}]) IMPORTANT"
+    - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}]) IMPORTANT OK"
     - "@EXTERNE Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %} IMPORTANT"
-    - "Lampe à fibres Blue ice Lunartec (3xAAA)"
+    - "Lampe à fibres Blue ice Lunartec (3xAAA) OK"
     - "@ENORMES Gramophone (alimentation: 12V)"
-    - "4 bougies LED soufflables (chacune 1xCR2032 incluse)"
-    - "2 bougies sur chandelier (chacun 2xAA)"
-    - "Petit plateau de service rectangulaire en bois doré"
-    - "2 nappes blanche nacrées, 1 nappe pourpre brillante, et 1 chemin de table brodé blanc cassé"
-    - "Petite sphère armillaire en laiton sur pied en bois"
-    - "Globe à LED Atmosphera (2xAAA)"
-    - "Station web sur PC (avec écran steampunk si possible) {% hint 'hint_website_device' is provided %}"
+    - "4 bougies LED soufflables (chacune 1xCR2032 incluse) OK"
+    - "2 bougies sur chandelier (chacun 2xAA) ???"
+    - "Petit plateau de service rectangulaire en bois doré OK"
+    - "2 nappes blanche nacrées, 1 nappe pourpre brillante, et 1 chemin de table brodé blanc cassé OK"
+    - "Petite sphère armillaire en laiton sur pied en bois OK"
+    - "Globe à LED Atmosphera (2xAAA) OK"
+    - "@EXTERNE Station web sur PC (avec écran steampunk si possible) {% hint 'hint_website_device' is provided %}"
 
 -
   - "@RECOINS Pentacle du rituel inachevé de l’arkonte [L2]"
@@ -98,27 +98,27 @@
   - "@RECOINS Coin du fantôme de l’arkonte [F3]"
   -
     - "@ENORMES Mini-meuble boîte-aux-lettres à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT, avec dedans les 2 lettres aux parents Maupertuis (sur risques des avatars et des artefacts maudits) IMPORTANT {% hint 'two_letters_for_maupertuis_parents_in_postbox' is provided %}"
-    - "Projecteur globe Aurore Boréale Lunartec (secteur/12V) pour l'arkonte"
+    - "Projecteur globe Aurore Boréale Lunartec (secteur/12V) pour l'arkonte OK"
     - "@AUDIOVIDEO Mini-lecteur MP3 clip argenté (batterie faible) avec écouteurs (+ batterie miniUSB solaire ClipSonic)"
 
 -
   - "@RECOINS Coin du fantôme de l’enfant (près de la jungle) [F2] {% fact 'phantom_octave_is_near_jungle' %}"
   -
     - "@EXTERNE Valise avec quelques vieux vêtements aléatoires (bien enlever l'étiquette FABRE de dedans)"
-    - "Livre déchiré avec des animaux en mouvement pour le coin de l'enfant {% hint 'torn_child_book_with_animal_motions' is provided %} IMPORTANT"
-    - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 pour l'enfant"
+    - "Livre déchiré avec des animaux en mouvement pour le coin de l'enfant {% hint 'torn_child_book_with_animal_motions' is provided %} IMPORTANT OK"
+    - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 pour l'enfant OK"
     - "@AUDIOVIDEO Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse"
-    - "@PARCHEMINS Lettre des parents d'Octave avec des instructions pour son adoubement"
-    - "2 livres anciens beige/marbré dans la valise de l'enfant"
-    - "2 bandes dessinées anciennes 'Gédéon'"
-    - "Livre factice rouge, marqué au sol (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %}"
+    - "@PARCHEMINS Lettre des parents d'Octave avec des instructions pour son adoubement ???"
+    - "2 livres anciens beige/marbré dans la valise de l'enfant OK"
+    - "2 bandes dessinées anciennes 'Gédéon' OK"
+    - "Livre factice rouge, marqué au sol (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} ???"
 
 -
   - "@RECOINS Coin du fantôme de l’archiviste [F1]"
   -
-    - "Livre factice bleu à code {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %} (contient la CLEF du livre factice rouge et quelques pierreries), marqué au sol IMPORTANT"
-    - "2 chalumeaux anciens"
-    - "Boite à secrets en bois léger (fragile) caché près des chalumeaux, avec trésor dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %} IMPORTANT"
+    - "Livre factice bleu à code {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %} (contient la CLEF du livre factice rouge et quelques pierreries), marqué au sol IMPORTANT OK"
+    - "2 chalumeaux anciens ??"
+    - "Boite à secrets en bois léger (fragile) caché près des chalumeaux, avec trésor d'Octave dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %} IMPORTANT"
     - "@GENERAL Jarre lumineuse NewYang (batterie solaire incluse)"
 
 -
@@ -133,16 +133,16 @@
 -
   - "@JUNGLE Mini-jungle du druide [L6]"
   -
-    - "Crâne empoisonné de l'arkonte caché entre les pots{% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %} IMPORTANT"
+    - "Crâne empoisonné de l'arkonte caché entre les pots{% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %} IMPORTANT OK A AMELIORER"
     - "Lianes et feuilles géantes pour la mini-jungle"
     - "@ENORMES Emballages bruns pour faire la 'terre' de la jungle"
     - "@EXTERNE 1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
     - "@AUDIOVIDEO Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)"
-    - "Gourde large peu haute en cuivre"
+    - "Gourde large peu haute en cuivre OK"
 
 -
   - "@MALLETTES Mallette administrative noire des Maupertuis [L5]"
-  - 
+  -
     - "Sur la mallette administrative noire, code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %} IMPORTANT"
     - "Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %} IMPORTANT"
     - "Classeur vert-foncé CLIVRA, avec message UV indiquant qu'il n'est PAS le Thanatologue"
@@ -158,15 +158,16 @@
     - "@GENERAL Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %} IMPORTANT"
     - "@AUDIOVIDEO ???????TODO Smartphone avec application android \"Beacon Locator\" par Samebits (logo orange) pour trouver les balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %} ???"
     - "@GENERAL Plume de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %} IMPORTANT"
-    - "Décorations : boite cylindrique en cuir noir contenant peigne-perroquet, loupe, pipe métallique"
-    - "Décorations : mini-jumelles dans étui velours violet, miroir décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol"
-    - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc"
-    - "2 grands tissus-nappes noirs ???"
+    - "Décorations : boite cylindrique en cuir noir contenant peigne-perroquet, loupe, pipe métallique OK"
+    - "Décorations : mini-jumelles dans étui velours violet, miroir ovale décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol OK"
+    - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc OK"
+    - "Décoration : mini-choppe en verre, petite cruche en laiton OK"
+    - "2 grands tissus-nappes noirs OK"
 
 -
   - "@CIMETIERE Cimetière [L4]"
   -
-    - "3 pierres tombales noires avec code d'analyse [{% symbol 'ltx' for 'analysis_code_three_tombs' %}] IMPORTANT"
+    - "3 pierres tombales noires avec code d'analyse [{% symbol 'ltx' for 'analysis_code_three_tombs' %}] IMPORTANT OK"
     - "Livret à couverture marron avec dragon doré pour la Tombe 1"
     - "@PARCHEMINS Tombe 1 : Journal intime d'Octave à peine entamé, évoquant juste sa nouvelle qui commence 'dehors' {% hint 'octave_private_diary_on_his_tomb' is provided %} IMPORTANT"
     - "@BIJOUX Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF) IMPORTANT"
@@ -227,49 +228,52 @@
 -
   - "@ALCHIMIE Laboratoire d'Alchimie [P3]"
   -
-    - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF ??LEGENDAIRE [{% symbol 'ecz' for 'magic_code_grinding_mill' %}])"
-    - "Chaudron bombé en cuivre à anse, avec enchantement anti-explosion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF?????)"
-    - "Nappe-drap noir "
-    - "Bouteille-bougeoir en laiton et verre bleu"
-    - "Bouteille verdâtre à liqueur en tête de mort"
-    - "Tapis en paille présentoir"
-    - "2 pots cylindrique, 1 en aluminium et 1 en doré, avec couvercles"
-    - "Passoire cylindrique en métal brûlé/troué"
-    - "Pot africain en bois avec couvercle"
-    - "Vase hexagonal en verre transparent"
-    - "Boule plasma Pearl (USB ou 4xAAA)"
+    - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF ??LEGENDAIRE [{% symbol 'ecz' for 'magic_code_grinding_mill' %}]) OK"
+    - "Chaudronnet rond en cuivre à 3 pieds et anse, avec enchantement bouillonnant {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
+    - "Chaudron bombé dessous en cuivre à anse, avec enchantement anti-explosion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF?????)"
+    - "Système électrique pour fumée du chaudron"
+    - "Nappe-drap noir OK"
+    - "Bouteille-bougeoir en laiton et verre bleu OK"
+    - "Bouteille verdâtre à liqueur en tête de mort OK"
+    - "Tapis en paille présentoir OK"
+    - "2 pots cylindrique, 1 en aluminium et 1 en doré, avec couvercles OK"
+    - "Passoire cylindrique en métal brûlé/troué OK"
+    - "Pot africain en bois avec couvercle OK"
+    - "Vase hexagonal en verre foncé transparent OK"
+    - "Boule plasma Pearl (USB ou 4xAAA)<-----?????"
     - "Soufflet à feu en bois et cuir"
-    - "Objets décoratifs : 2 grandes gourdes cylindriques en cuivre, théière en cuivre, pichet en zinc, petit vase large en verre fumé noir"
+    - "Objets décoratifs : théière en cuivre???????, pichet en zinc, petit vase large en verre fumé noir OK"
     - "@BOUTEILLES Grand lot de petites bouteilles diverses et de condiments"
     - "Support cylindrique éclairant à LEDs (3xAAA) @Véro"
-    - "@BOUTEILLES 7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence"
-    - "Grande bouteille verte de Champagne et grande bouteillee bleue Elixir de Sorcière"
-    - "@BOUTEILLES 2 flacons-bouteilles de condiments : Curcuma et Coriandre"
+    - "@BOUTEILLES 7 flacons cylindriques de condiments : Thym, Curry Madras, Piment d'espelette, Echalote, Ail, Paprika doux, Herbes de Provence OBSOLETE"
+    - "Grande bouteille verte de Champagne et grande bouteille bleue Elixir de Sorcière OK"
+    - "@BOUTEILLES 2 flacons-bouteilles de condiments : Curcuma et Coriandre???"
     - "2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
+    - "2 spatules en bois OK"
     - "@POTIONS Potion de vapeur de Thorium dans un des tiroirs rouges {% hint 'potion_thorium_steam_on_alchemy_table_lockpickable_chest' is provided %} IMPORTANT"
     - "@BIJOUX Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %} IMPORTANT"
     - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} IMPORTANT"
     - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %} IMPORTANT"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis le cimetière après ouverture de l'étage interdit NOPE!!!!"
-    
+
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie [P4]"
   -
-    - "1 drap-nappe-rideau gris"
-    - "Lampe à sel (USB normal)"
-    - "3 faux-galets creux (pierreries dedans)"
-    - "Mini-globe terrestre"
-    - "@EXTERNE Guirlande multicolore SilverWireLights (3xAA) @Cat"
+    - "1 drap-nappe-rideau gris OK"
+    - "Lampe à sel (USB normal) OK"
+    - "3 faux-galets creux (pierreries dedans) OK"
+    - "Mini-globe terrestre OK"
+    - "@EXTERNE Guirlande multicolore SilverWireLights (3xAA) @Cat????"
     - "@BIJOUX Lot d'autres petites pierres du monde avec étiquettes"
     - "@BIJOUX Cristaux, gemmes et coquillages divers"
     - "Coffret en bois clair et jointures laiton"
-    - "Lampe-sculpture à gemme surmontée d'un dragon"
-    - "4 luminaires à pétales colorés en nacre, avec mini-diodes dedans"
-    - "Arbre à micro-cristaux colorés avec guirlande d'illumination"
-    - "7 flacons de cristaux colorés"
-    - "Boîte-présentoir très plate en bois pour exposer les gemmes"
-    - "@EXTERNE Fléchette de nerf cachée {% hint 'other_iridium_bullet_for_woodsman' is provided %} IMPORTANT"
-    - "Lanterne cubique à flamme (3xAA) (marque d'envoûtement POSITIF ?????)"
+    - "Lampe-sculpture à gemme surmontée d'un dragon OK"
+    - "4 luminaires à pétales colorés en nacre, avec mini-diodes dedans OK"
+    - "Arbre à micro-cristaux colorés avec guirlande d'illumination (2xCR2032 incluses) OK"
+    - "7 flacons de cristaux colorés OK"
+    - "Boîte-présentoir très plate en bois léger pour exposer les gemmes OK"
+    - "@EXTERNE Fléchette de nerf cachée {% hint 'other_iridium_bullet_for_woodsman' is provided %} IMPORTANT ??? NON"
+    - "Lanterne cubique à flamme (3xAA) (marque d'envoûtement POSITIF) OK"
     - "@BIJOUX Gemme de Cristal de Roche {% hint 'gem_rock_crystal_on_gemmology_table' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et Fluorite {% hint 'gem_fluorine' is provided %} IMPORTANT"
     - "@BIJOUX Gemme d'Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %} IMPORTANT"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis la mini-jungle après ouverture de l'étage interdit"
@@ -277,12 +281,13 @@
 -
   - "@DIVINATION Laboratoire de divination [P4]"
   -
-    - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie {% hint 'incense_fountain' is provided %} IMPORTANT"
-    - "Petite pyramide en plastique pour hologramme (avec code secret en hiéroglyphes) IMPORTANT"
-    - "Boule plasma (orbe spirituel) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
-    - "@BIJOUX Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT (????LE PROTEGER DANS COFFRE OU VIA ENIGME???)"
-    - "6 portraits lenticulaires effrayants {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
-    - "Petit puits en cuivre (avec code secret en hiéroglyphes)"
+    - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie (2xCR2032 incluses){% hint 'incense_fountain' is provided %} IMPORTANT OK"
+    - "Petite pyramide en plastique pour hologramme (avec code secret en hiéroglyphes) IMPORTANT OK"
+    - "Boule plasma (orbe spirituel) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT OK"
+    - "Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT (????LE PROTEGER DANS COFFRE OU VIA ENIGME???) OK"
+    - "6 portraits lenticulaires effrayants {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT OK"
+    - "Petit puits en cuivre (avec code secret en hiéroglyphes) OK"
+    - "Trône en bois avec cachettte coulissante (TODO??? rajouter dedans mini crane) OK"
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac) [P5]"
   -
@@ -316,19 +321,19 @@
 -
   - "@NICHE Niche de la Bête [P1]"
   -
-    - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton dans une boîte en bois avec symbole d'ancre {% hint 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT"
-    - "Portefeuille vert du voleur, avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT"
+    - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton dans une boîte en bois avec symbole d'ancre {% hint 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT OK ???? REQUIRES ENCHANTEMENT"
+    - "Portefeuille vert du voleur, avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT OK"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
-    - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'lost_thief_moneybox' is provided %} (envoûtement POSITIF), sous forme d'une quêteuse rouge de magicien IMPORTANT"
+    - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'lost_thief_moneybox' is provided %} (envoûtement POSITIF), sous forme d'une quêteuse rouge de magicien IMPORTANT OK"
     - "@PARCHEMINS Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %} IMPORTANT"
-    - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword_stolen_by_thief' is provided %} marqué ULTRA-LOURD IMPORTANT"
-    - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE) IMPORTANT"
+    - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword_stolen_by_thief' is provided %} OK marqué ULTRA-LOURD IMPORTANT MANQUE CODE"
+    - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE) IMPORTANT OK"
     - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie + batterie miniUSB SIXTHGU)"
     - "@JUNGLE Lianes et feuilles géantes pour la niche de la Bête"
     - "@GENERAL CIGALE pour le mini-coffret en bois marron foncé noueux"
-    - "Mini-lanterne noire à bougie avec vitre mauve"
-    - "Boite en forme de dé 6 faces, en bois et cuir marron"
-    - "Lanterne noire sale (non fonctionnelle)"
+    - "Mini-lanterne noire à bougie avec vitre mauve OK"
+    - "Boite en forme de dé 6 faces, en bois et cuir marron OK"
+    - "Lanterne noire sale (non fonctionnelle) OK"
     - "Piège à fil+grelots à hauteur de cheville et de tête {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %}"
 
 # DIVERS AUTRES #
@@ -378,15 +383,15 @@
 -
   - "@COSTUMES-FIGURANTS Fantômes humains IMPORTANT"
   -
-    - "5 sacs fins en toile noir pour stocker les affaires des fantômes"
-    - "5 tuniques en velours pourpre pour fantômes"
-    - "4 paires gants blancs à diodes (3 à lumière blanche et 1 à lumière bleue)"
+    - "5 sacs fins en toile noir pour stocker les affaires des fantômes OK"
+    - "5 tuniques en velours pourpre pour fantômes OK"
+    - "4 paires gants blancs à diodes (3 à lumière blanche et 1 à lumière bleue) OK"
     - "@ENORMES 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes"
     - "@AUDIOVIDEO Masque à LEDs ShiningApp pour le voleur"
-    - "@BIJOUX Gros collier en or pour l'arkonte, potentiellement"
+    - "@BIJOUX Gros collier en or pour l'arkonte, potentiellement????"
 
 -
-  - "@COSTUMES-FIGURANTS La Bête IMPORTANT"
+  - "@COSTUMES-FIGURANTS La Bête IMPORTANT OK"
   -
     - "Robe noire (peut aussi servir à l'Ankou)"
     - "Masque latex de monstre"
@@ -421,23 +426,23 @@
   - "@PERSONNES Matériel de l'avatar INVENTEUR"
   -
     - "@AUDIOVIDEO Mégaphone Bontempi à écho (batterie / microUSB) avec Jack3.5 et Bluetooth (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
-    - "Outils anciens d'ambiance : tournevis, petit marteau, pince spéciale (pour l'inventeur)"
+    - "Outils anciens d'ambiance : 3 tournevis, petit marteau, pince spéciale (pour l'inventeur) OK"
     - "@ELECTRICITE Piles format (cylindre + rectangle) pour lanterne en argent, lampe UV, et détecteur de métal cassés (pour l'inventeur) IMPORTANT {% hint 'random_broken_lantern_battery' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %}"
     - "Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_bracelet_for_inventor' is provided %} IMPORTANT"
 
 -
   - "@PERSONNES Matériel des DIACRES"
   -
-    - "@COSTUMES-JOUEURS 4 étoles violette pour les diacres IMPORTANT"
+    - "@COSTUMES-JOUEURS 4 étoles violette pour les diacres IMPORTANT OK"
     - "Encensoir en argent plaqué avec chainettes (pour l'invoker) {% hint 'incense_burner_for_invoker' is provided %}"
     - "@EXTERNE Lanterne en bronze (2xLR20D incluses)"
 
 -
   - "@PERSONNES Matériel des PARCIVAL"
   -
-    - "@COSTUMES-JOUEURS 4 jabots bleux pour les Parcival IMPORTANT"
-    - "Arbalète bois et UNIQUE fléchette (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %}"
-    - "@EXTERNE Fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %}"
+    - "@COSTUMES-JOUEURS 4 jabots bleux pour les Parcival IMPORTANT OK"
+    - "Arbalète bois et UNIQUE fléchette ORANGE (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %} OK"
+    - "@EXTERNE Fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %} ???"
     - "@EXTERNE première lanterne rouge du Clivra (2xLR20D chacune)"
 
 -
@@ -445,8 +450,8 @@
   -
     - "@COSTUMES-JOUEURS 4 ceintures beiges pour les explorateurs heliossars IMPORTANT"
     -  "Lunettes d'aviateur à lentilles bleu+rouge (pour l'anthropologist) {% hint 'colored_goggles_for_anthropologist' is provided %}"
-    - "@EXTERNE Grand loupe (pour runologist) {% hint 'stethoscope_and_magnifying_glass_for_runologist' is provided %}"
-    - "@AUDIOVIDEO Lampe-torche UV (nécessite 3xAAA) (pour l'unveiler) initialement SANS SES PILES {% hint 'explorer_unveiler_uv_lamp_initially_broken' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is needed %}"
+    - "@EXTERNE Grande loupe (pour runologist) {% hint 'stethoscope_and_magnifying_glass_for_runologist' is provided %} ????"
+    - "@AUDIOVIDEO Lampe-torche UV (nécessite 3xAAA) (pour l'unveiler) initialement SANS SES PILES {% hint 'explorer_unveiler_uv_lamp_initially_broken' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is needed %} ???"
     - "@PARCHEMINS Feuilles mémo des codes secrets et des runes (pour runologist) {% hint 'secret_codes_sheet_for_runologist' is provided %} {% hint 'runic_transcription_sheet_for_runologist' is provided %}"
     - "@EXTERNE deuxième lanterne rouge du Clivra (2xLR20D chacune)"
 
@@ -455,12 +460,12 @@
   -
     - "@COSTUMES-JOUEURS 4 brassards verts pour les agents secrets mirandiens IMPORTANT"
     - "@CADENAS Kit de crochetage de serrure (pour le lockpicker) {% hint 'lock_picking_kit_for_lockpicker' is provided %}"
-    - "2 bâtons de dynamite (pour minesweeper) {% hint '2_explosives_for_minesweeper' is provided %}"
+    - "2 bâtons de dynamite (pour minesweeper) {% hint '2_explosives_for_minesweeper' is provided %} OK"
     - "Sac avec 9 moyennes bougies (1xCR2032 chacune incluse) à LED en cire (pour le minesweeper) {% hint 'mini_candles_for_minesweeper' is provided %}"
-    - "Détecteur de métal Longruner (nécessite pile RECTANGLE 9V) (pour le sounder) initialement SANS SA PILE {% hint 'spy_sounder_metal_detector_initially_broken' is provided %} {% hint 'spy_sounder_metal_detector_battery' is needed %}"
-    - "Couverture marron fine avec croix, contenant le journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %}"
-    - "@POTIONS Potions de Focus, de Charme et de Révélation (pour le lockpicker, appartenait à l'exorcist) {% hint 'potion_of_focus_from_exorcist' is provided %} {% hint 'potion_of_charm_from_exorcist' is provided %} {% hint 'potion_of_revelation_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %}"
-    - "Lanterne en argent marquée comme cassée (nécessite 2xLR20D) {% hint 'random_broken_lantern_to_repair' is provided %}"
+    - "Détecteur de métal Longruner (nécessite pile RECTANGLE 9V) (pour le sounder) initialement SANS SA PILE {% hint 'spy_sounder_metal_detector_initially_broken' is provided %} {% hint 'spy_sounder_metal_detector_battery' is needed %} OK"
+    - "Couverture marron fine avec croix, contenant le journal de Mérédice à propos du trésor familial (pour spy-group) {% hint 'meredice_diary_about_treasure_for_spy_group' is provided %} ?????"
+    - "@POTIONS Potions de Focus, de Charme et de Révélation (pour le lockpicker, appartenait à l'exorcist) {% hint 'potion_of_focus_from_exorcist' is provided %} {% hint 'potion_of_charm_from_exorcist' is provided %} {% hint 'potion_of_revelation_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %} ?????"
+    - "Lanterne en argent marquée comme cassée?????? (nécessite 2xLR20D) {% hint 'random_broken_lantern_to_repair' is provided %} OK"
 
 -
   - "@COSTUMES-AUTOMATES"
