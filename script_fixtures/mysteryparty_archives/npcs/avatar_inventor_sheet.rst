@@ -39,7 +39,7 @@ Personnellement très affecté par le triste sort de vos amis, vous mettez tous 
 
 Durant vos temps heureux dans la bibliothèque, vous aviez fouillé l'étage autorisé avec Octave, et rassemblé de quoi construire plusieurs **automates grandeur-nature** pour faire le service. Dopés par quelques sortilège de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les ramener dans votre propre univers pour les montrer à vos proches. {% fact "inventor_has_built_androids" %}
 
-Vous aviez donné à Octave un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**, conçu par vos soins et permettant de commander avec fermeté les automates. Ce bracelet est désormais revenu à votre **poignet**. {% hint 'androids_command_bracelet_for_inventor' is needed %}
+Vous aviez donné à Octave un **bracelet large argenté avec rubans blancs appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**, conçu par vos soins et permettant de commander avec fermeté les automates. Ce bracelet est désormais revenu à votre **poignet**. {% hint 'androids_command_silver_white_ribbon_bracelet_for_inventor' is needed %}
 
 En temps que maître actuel des automates, vous les dirigez pour le service de table, vous les réglez/huilez lorsqu'ils dysfonctionnent, voire vous testez de nouvelles interactions avec eux - qu'ils peuvent ou non comprendre. Vous disposez d'un **porte-voix à écho** pour les rameuter, dont vous vous servez aussi de façon fantaisiste pour vos envolées enthousiastes sur n'importe quel sujet. {% hint "echo_megaphone" is needed %}
 

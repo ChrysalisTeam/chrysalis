@@ -163,7 +163,7 @@ Avec l'aide d'Octave, l'avatar "inventeur" avait conçu des automates pouvant, p
 
 Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **{% symbol "rubans blancs" for "automaton_symbolic_cloth" %}** autour du cou et des poignets. {% hint "white_ribbon_cloth_for_automatons" is needed %}
 
-Ils obéissent uniquement au personnage (figurant ou joueur) portant un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**. Ils répondent du mieux possible à ses ordres, tant qu'ils ne contredisent pas frontalement leurs règles innées de non-agression et de survie. *En cas de doute sur ce comment réagir à un ordre difficile, simuler l'hésitation, et demander discrètement au maître de jeu.* {% fact "robots_obey_but_refuse_violence_or_sacrifice" %}
+Ils obéissent uniquement au personnage (figurant ou joueur) portant un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**. Ils répondent du mieux possible à ses ordres, tant qu'ils sont dans leurs compétences, et ne contredisent pas frontalement leurs règles innées de non-agression et de survie. *En cas de doute sur comment réagir à un ordre difficile, simuler l'hésitation ou l'incompréhension de l'automate, et demander discrètement au maître de jeu.* {% fact "robots_obey_but_refuse_violence_or_sacrifice" %}
 
 Les robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous.
 
@@ -908,7 +908,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis.
 
 - Un ingrédient de la Teinture est en évidence à l’étage autorisé ; un autre en évidence sur l'établi de gemmologie ; un autre sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter) ; le dernier dans un **corridor toxique** de l’étage interdit (c'est une protection supplémentaire du lieu). {% fact "one_corridor_is_toxic" %} {# Hint tags for this are in the clues document #}
-  Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% hint "androids_command_bracelet_for_inventor" is needed %}
+  Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% hint "androids_command_silver_white_ribbon_bracelet_for_inventor" is needed %}
 
 - Enfin, il faut un récipient métallique avec **enchantement anti-explosion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet cylindrique en cuivre avec anse). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 

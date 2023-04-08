@@ -428,7 +428,7 @@
     - "@AUDIOVIDEO Mégaphone Bontempi à écho (batterie / microUSB) avec Jack3.5 et Bluetooth (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
     - "Outils anciens d'ambiance : 3 tournevis, petit marteau, pince spéciale (pour l'inventeur) OK"
     - "@ELECTRICITE Piles format (cylindre + rectangle) pour lanterne en argent, lampe UV, et détecteur de métal cassés (pour l'inventeur) IMPORTANT {% hint 'random_broken_lantern_battery' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %}"
-    - "Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_bracelet_for_inventor' is provided %} IMPORTANT"
+    - "Bracelet large argenté avec ruban blanc '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_silver_white_ribbon_bracelet_for_inventor' is provided %} IMPORTANT"
 
 -
   - "@PERSONNES Matériel des DIACRES"
