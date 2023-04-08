@@ -386,9 +386,8 @@
     - "5 sacs fins en toile noir pour stocker les affaires des fantômes OK"
     - "5 tuniques en velours pourpre pour fantômes OK"
     - "4 paires gants blancs à diodes (3 à lumière blanche et 1 à lumière bleue) OK"
-    - "@ENORMES 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes"
+    - "@ENORMES 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes (nécessite PILES????)"
     - "@AUDIOVIDEO Masque à LEDs ShiningApp pour le voleur"
-    - "@BIJOUX Gros collier en or pour l'arkonte, potentiellement????"
 
 -
   - "@COSTUMES-FIGURANTS La Bête IMPORTANT OK"
@@ -440,7 +439,7 @@
   -
     - "@COSTUMES-JOUEURS 4 jabots bleux pour les Parcival IMPORTANT"
     - "Arbalète bois et UNIQUE fléchette ORANGE (pour woodsman) {% hint 'single_bullet_left_for_woodsman' is provided %} IMPORTANT"
-    - Ceinture et porte-fioles en cuir marron, avec 3 fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %}"
+    - "Ceinture et porte-fioles en cuir marron, avec 3 fioles vides (pour l'alchemist) {% hint 'empty_flasks_for_alchemist' is provided %}"
     - "Lanterne aspect bronze Lunartec (2xLR20D incluses) IMPORTANT"
 
 -
