@@ -53,7 +53,7 @@ Dans le temps, vous aviez entendu plusieurs fois les Maupertuis parler d'un **"L
 
 Vous pouvez être tristes de réaliser, à un moment, que les diacres appartiennent précisément au culte de {% symbol "Bahamoot" for "god_of_diakons" %}, culte qui a fait saccager le manoir des Maupertuis jadis.
 
-Octave avait un vieux livre d'enfance favori avec des animaux qui courent, en illusion d'optique (c'est utile pour l'énigme de la {% symbol "Boîte à Murmure" for "whispering_box" %} de Mérédice).
+Octave avait un vieux livre d'enfance favori avec des animaux qui courent, en illusion d'optique (c'est utile pour l'énigme de la {% symbol "Boîte à Murmures" for "whispering_box" %} de Mérédice).
 
 {% endmacro %}
 <{ octave_and_archivist_common_knowledge_for_sheets }/>
