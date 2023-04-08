@@ -96,9 +96,9 @@ Le monde des vivants
 
 C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y est identique au nôtre, puis s’est produit un “grand marasme” tectonique et climatique qui a tout chamboulé pendant des siècles. Les lois scientifiques, la psychologie des humains, sont identiques à notre monde, avec en plus la présence de “magie”.
 
-- Les vivants peuvent voir et entendre aussi bien les personnages du monde des morts que des livres, et peuvent toucher les personnages des livres.
+- Les vivants peuvent voir et entendre aussi bien les personnages du monde des morts que des livres, et peuvent toucher les personnages du monde des livres.
 
-- Pour un vivant, tout contact avec un fantôme - incarné ou non - est très dangereux. {% fact "phantom_touch_harms_the_living" %}
+- Pour un vivant, tout contact avec un fantôme désincarné, en errance, est très dangereux. Un fantôme incarné, en revanche, est sans danger, et passe à travers les vivants sans les impacter. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
 - Les vivants sont par défaut sensibles aux attaques physiques, magiques et sacrées.
 
@@ -115,9 +115,9 @@ Il est représenté par les humains ou bêtes qui sont morts dans la bibliothèq
 
 - À aucun moment les morts ne peuvent interagir avec les objets du monde vivant. Seule exception, le buffet est composé de plats et boissons compatibles avec tous les mondes.
 
-- Seules des attaques sacrées peuvent atteindre les morts, pas les attaques physiques ni magiques. Mais puisque présentement ils ne peuvent pas s'échapper de la bibliothèque, s'ils sont blessés, ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
+- Lorsqu'il touche un vivant, tout fantôme désincarné, en errance, le blesse dangereusement. Un fantôme incarné, en revanche, est sans danger, et passe à travers les vivants sans les impacter. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
-- Lorsqu'il touche un vivant, tout fantôme - incarné ou non - le blesse dangereusement. {% fact "phantom_touch_harms_the_living" %}
+- Seules des attaques sacrées peuvent atteindre les morts, pas les attaques physiques ni magiques. Mais puisque présentement ils ne peuvent pas s'échapper de la bibliothèque, s'ils sont blessés, ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
 
 - Les fantômes sont soumis à des **règles complexes d'errance, d'incarnation et d'ancrage**, voir le chapitre à ce sujet.
 
@@ -138,11 +138,11 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 - Ils peuvent interagir librement avec le monde des vivants, ses humains et animaux, ses objets et grimoires ; **sauf avec les "romans"**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% fact "avatars_cannot_carry_novels" %}
 
-- Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher.
+- Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher (en phase incarnée ou non).
 
 - Ces avatars portent leurs costumes et accessoires “typiques” de leurs romans, ceux qu'ils avaient quand Octave les a, involontairement, invoqués.
 
-- Ils ne peuvent ramener aucun autre objet ou individu depuis/vers leur monde d’origine (pas mêmes des accessoires décoratifs). Ils sont donc, en toutes choses, limités à ce que contient la bibliothèque des Maupertuis.
+- Ils ne peuvent ramener aucun autre objet ou individu depuis/vers leur monde d’origine (pas mêmes des accessoires décoratifs). Ils sont donc, en toutes choses, limités à ce que la bibliothèque des Maupertuis contient.
 
 - Ils ne peuvent pas aller dans le monde d'autres avatars, ni accueillir dans leur propre monde des vivants ou des fantômes.
 
@@ -401,11 +401,11 @@ Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 
 - Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste **piégé** dans son (petit) périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles, qu'il ne peut hélas plus prendre en main ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, il est dubitatif (peut-être ces personnes ont-elles une immunité contre les effets de ce serment ?).
 
-- Suite aux harangues de l'arkonte, voire aux visites de l’Ankou, il finit par réaliser qu'il est mort. Mais cela ne change rien : après discussions avec les joueurs (certains ont des informations), il exulte que le **"{% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}"** reste depuis toujours dans sa famille. Il se glorifie donc de pouvoir encore alimenter cet amoncellement de richesse, même une fois mort, via sa magique "{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %} {% fact "thief_heirs_still_benefit_from_his_treasure" %}
+- Suite aux harangues de l'arkonte, voire aux visites de l’Ankou, il finit par réaliser qu'il est mort. Mais cela ne change rien : après discussions avec les joueurs (certains ont des informations), il exulte que le **"{% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}"** soit resté depuis toujours dans sa famille. Il se glorifie donc de pouvoir encore alimenter cet amoncellement de richesse, même une fois mort, via sa magique "{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %} {% fact "thief_heirs_still_benefit_from_his_treasure" %}
 
 - Il monnaie chèrement ses informations sur les lieux aux autres explorateurs de cette bibliothèque, contre de l’or et des pierreries.
 
-- Il doit de préférence être ancré à proximité de la niche de la Bête.
+- Il doit de préférence être initialement ancré à proximité de la niche de la Bête, mais cherche bien sûr à se libérer de cet ancrage avec l'aide des vivants. Cela peut donner lieu à une négociation, donnant-donnant, sur les prix.
 
 {% endmacro %}
 <{ phantom_thief_character_summary }/>
@@ -597,7 +597,7 @@ Concrètement : les cas possibles durant le jeu
 
 Un joueur peut être atteint dans les cas suivants :
 
-- S’il se fait toucher par un fantôme (incarné ou non) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer. {% fact "phantom_touch_harms_the_living" %}
+- S’il se fait toucher par un fantôme en phase désincarnée (en errance spectrale) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête fantôme, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
 - S’il touche un objet maudit, comme un crâne sonore ou les ossements qui sont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure biologique**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
@@ -1325,7 +1325,7 @@ Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dang
 
 Lors de la malédiction de la bibliothèque, il restait un monstre de garde, surnommé "La Bête", dans le domaine interdit ; il est probable qu'il a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars). Il parait qu'il avait la particularité d'être très myope, **ne voyant pas grand-chose à plus de 3m**. {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 
-L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de la Bête errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %}
+L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de la Bête errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %} {% fact "phantoms_cannot_cross_some_fence_enchantments" %}
 
 Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le **symbole secret des Maupertuis**, transmis de génération en génération ; l'accès est alors débloqué **pour 12 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "npcs_know_about_secret_family_symbol_system" %}
 
@@ -1382,20 +1382,23 @@ Il existe bien peu de connaissances fiables sur le monde des morts. De nombreux 
 Des deux formes fantomatiques
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Il est possible de communiquer avec un fantôme lorsque celui-ci est dans une phase "incarnée". Il s'agit bien sûr d'un abus de langage, car le défunt reste incapable d'interagir normalement avec le monde de chair et de matière ; il n'en est pas moins capable de dialoguer, de raisonner, et de se souvenir de sa vie passée, même si la conscience qu'il a de sa situation peut être très variable. Ces moments privilégiés sont le meilleur moyen pour un exorciste de comprendre ce qui retient un fantôme sur terre, afin de prendre des mesures correctives. Ils ont lieu principalement la nuit, ou à défaut, dans l'obscurité.
+Il est possible de communiquer avec un fantôme lorsque celui-ci est dans une phase "incarnée". Il s'agit bien sûr d'un abus de langage, car le défunt reste incapable d'interagir normalement avec le monde de chair et de matière ; il n'en est pas moins capable de dialoguer, de raisonner, et de se souvenir de sa vie passée, même si la conscience qu'il a de sa situation peut être très variable. Ces moments privilégiés sont le meilleur moyen pour un exorciste de comprendre ce qui retient un fantôme sur terre, afin de prendre des mesures correctives. Ces phases d'incarnation sont plus fréquentes et longues lorsque des vivants sont dans les parages.
 
-Mais bien souvent, les fantômes errent comme des "spectres" sans but, privés de la plupart de leurs sens et de leurs pensées, et uniquement attirés par les vivants lorsqu'ils les croisent de près. Le degré d'agitation de ces fantômes éthérés dépend alors en partie du poids de leurs péchés terrestres {% fact "phantoms_of_sinners_have_faster_specters" %}; mais tous peuvent entrer dans une intense "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}", lorsqu'ils sont touchés par les ondes de quelque rituel magique ou sacré, ou bien à certains moments significatifs de la journée ; leurs déplacements sont alors plus rapides, et ils semblent rechercher à tout prix le contact des vivants ou d'un artefact spécifique.
+Le reste du temps, les fantômes errent comme des "spectres" sans but, privés de la plupart de leurs sens et de leurs pensées, et uniquement attirés par les vivants lorsqu'ils les croisent de près. Le degré d'agitation de ces fantômes éthérés, désincarnés, dépend alors en partie du poids de leurs péchés terrestres {% fact "phantoms_of_sinners_have_faster_specters" %}; mais tous peuvent entrer dans une intense "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}", lorsqu'ils sont touchés par les ondes de quelque rituel magique ou sacré, ou bien à certains moments significatifs de la journée ; leurs déplacements sont alors plus rapides, et ils semblent rechercher à tout prix le contact des vivants ou d'un artefact spécifique.
 
-Il est largement établi que les fantômes peuvent passer à travers les murs et les objets ; cependant, n'étant pas entièrement dématérialisés, cela leur demande des efforts supplémentaires, aggravés lorsque les lieux ont été protégés par des envoûtements magiques ou des bénédictions sacrées. Dans les faits, les fantômes suivent donc souvent les mêmes parcours que les humains.
+Il est établi que les fantômes peuvent le plus souvent passer à travers les murs et les objets ; cependant, n'étant pas entièrement dématérialisés, cela leur demande des efforts supplémentaires, aggravés lorsque les lieux ont été protégés par des envoûtements magiques ou des bénédictions sacrées. Dans les faits, les fantômes suivent donc souvent les mêmes parcours que les humains. Noter que certains enchantements puissants peuvent ériger des murs dans le monde des vivants ET des morts, empêchant donc aussi le passage des fantômes incarnés comme désincarnés. {% fact "phantoms_cannot_cross_some_fence_enchantments" %}
 
 
-De la dangerosité des revenants
+De la dangerosité des revenants errants
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-La littérature ésotérique ne cesse de mettre en garde contre la dangerosité des fantômes, même si ceux-ci ne sont que rarement malveillants.
-Toucher un de ces êtres, écartelés entre le monde des vivants et celui des morts, inflige en effet de graves blessures au corps et à l'esprit, atteintes qui peuvent facilement mener à la mort. {% fact "phantom_touch_harms_the_living" %}
+La littérature ésotérique ne cesse de mettre en garde contre la dangerosité des fantômes lorsqu'il sont en phase "spectrale".
 
-Il est donc indispensable de ne pas toucher (ou se laisser toucher par) un fantôme, qu'il soit sous forme incarnée ou spectrale, sauf si l'on porte des protections dûment bénites.
+Toucher un de ces êtres errants, écartelé psychiquement entre le monde des vivants et celui des morts, inflige en effet de graves blessures au corps et à l'esprit ; des atteintes qui peuvent facilement mener à la mort. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
+
+Il est donc indispensable de ne pas toucher (ou se laisser toucher par) un fantôme "désincarné", sauf si l'on porte des protections dûment bénites.
+
+En revanche, les fantômes incarnés, doués de raison, sont entièrement inoffensifs, et passent à travers les êtres sans les affecter.
 
 
 Des chaines spirituelles
@@ -1403,11 +1406,11 @@ Des chaines spirituelles
 
 les fantômes, d'une manière générale, s'éloignent peu de leur lieu de vie passé.
 
-Mais les personnes mortes violemment peuvent se retrouver comme ancrées, emprisonnées près du lieu de leur chute, dans l'aura d'une étrange lumière sacrée. Elles ne peuvent s'incarner que près de cette lueur, bien que sous forme spectrale elles gardent une plus grande liberté (si l'on peut appeler cela ainsi).
+Mais les personnes mortes violemment peuvent se retrouver comme ancrées, emprisonnées près du lieu de leur chute, dans l'aura d'une étrange lumière sacrée. Elles ne peuvent s'incarner que près de cette lueur, bien que sous forme spectrale elles gardent une plus grande liberté - si l'on peut appeler cela ainsi.
 
-Les personnes - ou même les bêtes - mortes naturellement, ne semblent pas avoir ce type de lien très localisé, et ce sont davantage des tâches inachevées ou des malédictions qui peuvent les attacher au monde des vivants.
+Les personnes - ou même les bêtes - mortes naturellement, ne semblent pas avoir ce type de lien très localisé, et ce sont davantage des tâches inachevées ou des malédictions qui peuvent les retenir dans le monde des vivants.
 
-Notons qu'un fantôme ancré passera plus souvent sous forme spectrale errante qu'un fantôme libre de ses mouvements. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+Notons qu'un fantôme ancré restera plus souvent sous forme spectrale, errante, qu'un fantôme libre de ses mouvements. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 
 
 Des rituels de libération
@@ -1415,16 +1418,15 @@ Des rituels de libération
 
 De nombreux rituels sacrés permettent de chasser les fantômes, mais il est déconseillé de les utiliser sans avoir d'abord analysé la situation, car il est rare qu'un fantôme ainsi expulsé retrouve, par chance, la voie vers l'au-delà. Il en est de même des armes sacrées, qui ne sont que des formes primitives d'exorcisme, malgré leur grande utilité dans certaines situations délicates. Ne pas oublier qu'un fantôme ainsi malmené, une fois revenu, sera encore plus perturbé et désincarné qu'auparavant.
 
-De nombreux voyants du monde spirituel évoquent le rôle d'un "psychopompe", d'un guide des âmes, qui parcourrait la Terre pour ramener les fantômes vers les voies célestes. Cela expliquerait la soudaine disparition de défunts, en des lieux pourtant hantés sans relâche depuis des années. Mais cette figure énigmatique reste un sujet de vive controverse théologique.
+De nombreux voyants du monde spirituel évoquent le rôle d'un "psychopompe", d'un guide des âmes, qui parcourt la Terre pour ramener les fantômes vers les voies célestes. Cela expliquerait la soudaine disparition de défunts, en des lieux pourtant hantés sans relâche depuis des années. Mais cette figure énigmatique reste un sujet de vive controverse théologique.
 
 
 Des périls des restes corporels
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun, car elle inflige des blessures sacrées, s'il touche directement le crâne ou les ossements du défunt. {% fact "cursed_skull_and_bones_give_sacred_injuries" %}
+Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun ; car elle inflige des blessures sacrées, s'il touche directement le crâne ou les ossements du défunt. {% fact "cursed_skull_and_bones_give_sacred_injuries" %}
 
 Notons que ce sortilège peut perdurer jusque bien après le retour du fantôme au royaume des morts, exigeant ainsi l'intervention d'un désenvouteur en bonne et due forme.
-
 
 {% endmacro %}
 <{ phantom_knowledge_article }/>

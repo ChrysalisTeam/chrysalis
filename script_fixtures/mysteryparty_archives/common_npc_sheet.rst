@@ -132,7 +132,7 @@ Il peut manier quelques accessoires le représentant ; il garde cependant une ce
 
 Lorsque les **cloches** retentissent (ou bien la **clochette** de frénésie spectrale), le fantôme passe en mode spectral, désincarné, et va errer dans la bibliothèque (y compris dans le domaine interdit si celui-ci est ouvert).
 
-Cette phase d'errance survient aussi pour un fantôme qui a été libéré de son ancrage (voir ci-dessous), mais moins souvent. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+Cette phase d'errance survient aussi pour un fantôme qui a été libéré de son ancrage (voir ci-dessous), mais bien moins souvent. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 
 L'errance se fait en ne marchant pas trop vite, bras plus ou moins tendus devant soi, en inspirant/expirant de façon longue et rauque (pas de bruit "booo" trop cliché). Le fantôme doit avoir le visage couvert avec le voile, et ses gants lumineux allumés.
 

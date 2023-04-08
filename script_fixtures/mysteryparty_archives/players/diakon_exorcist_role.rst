@@ -69,7 +69,7 @@ Rituel :
 Libération d'ancrage spirituel
 -----------------------------------------
 
-Si vous rencontrez un fantôme bloqué dans une petite zone - typiquement le lieu de sa mort violente - lorsqu'il est sous forme incarnée, ce rituel vous permet de le libérer de cette chaine invisible. Comme tous les fantômes, il restera néanmoins par la suite soumis aux contraintes d'un possible {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}, ou autre sortilège contraignant, dressé sur sa route.
+Si vous rencontrez un fantôme bloqué dans une petite zone - typiquement le lieu de sa mort violente - lorsqu'il est sous forme incarnée, ce rituel vous permet de le libérer de cette chaine invisible. Comme tous les fantômes, il restera néanmoins par la suite soumis aux contraintes d'un possible {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}, ou autre mur magique, dressé sur sa route. {% fact "phantoms_cannot_cross_some_fence_enchantments" %}
 
 Rituel :
 
@@ -77,9 +77,9 @@ Rituel :
 - Se mettre tous les trois avec les bras étendus à l'horizontale
 - Clamer tous ensemble **"Esprit errant, nous brisons les chaines qui te retiennent"**, trois fois d'affilée
 
-D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spirituelles passera moins souvent dans sa forme spectrale. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+D'après la littérature mystique, un fantôme ainsi libéré de ses chaines spirituelles passera bien moins souvent dans sa forme spectrale. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 
-**Annulation** : n'importe lequel des initiés qui ont participé au rituel peut, tant que le fantôme n'est pas passé dans l'au-delà, restaurer la chaine invisible qui l'attachait à un point précis. Il suffit de tendre les paumes ouvertes vers le fantôme incarné, et de clamer **"Esprit errant, je restaure les chaines qui te retenaient"**. Le fantôme va alors retourner à son emplacement initial d'attache. {% fact "diakons_can_all_anchor_phantoms" %}
+**Annulation** : n'importe lequel des initiés qui ont participé au rituel peut, tant que le fantôme n'est pas passé dans l'au-delà, restaurer la chaine invisible qui l'attachait à un point précis. Il suffit de tendre les paumes ouvertes vers le fantôme incarné, et de clamer **"Esprit errant, je restaure les chaines qui te retenaient"**. Le fantôme va alors retourner à son emplacement initial d'attache. Cette annulation a servi par le passé pour juguler des fantômes devenus trop bavards ou indiscrets. {% fact "diakons_can_all_anchor_phantoms" %}
 
 {% endmacro %}
 <{ phantom_related_spells }/>

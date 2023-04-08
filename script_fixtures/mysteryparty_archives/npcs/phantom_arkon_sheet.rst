@@ -67,7 +67,7 @@ Si un vivant meurt, vous incitez les autres à trouver comment le **ressusciter*
 
 Si l'exorciste tente de **briser les corridors outre-monde** alors que des avatars sont encore présents dans la bibliothèque, vous vous demandez ouvertement si cela ne va pas les mettre en grave danger. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
-Si vous croisez un fantôme ancré, mais inconnu voire louche, vous demandez aux diacres de ne pas libérer de son ancrage ; et vous protégez de votre corps les diverses personnes présentes, si un défunt se montre agressif. S'il n'a pas conscience qu'il est mort, vous tentez de le lui expliquer, et de le convaincre que tout désir pour les choses terrestres n'a plus aucun sens. {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
+Si vous croisez un fantôme en errance spectral, donc dangereux, vous pouvez protéger de votre corps les divers vivants présents. Si, une fois repassé en phase incarnée (donc inoffensive), ce fantôme n'a pas conscience qu'il est mort, vous tentez de le lui expliquer, et de le convaincre que tout désir pour les choses terrestres n'a plus aucun sens. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %} {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
 
 Si le dénouement approche, vous pouvez aller interroger (voire faire jurer) les différents groupes de joueurs, quant à ce qu'ils feront des portails menant à la bibliothèque s'ils en réchappent. Vous-même n'avez pas forcément d'avis tranché.
 {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
