@@ -1408,9 +1408,9 @@ Des chaines spirituelles
 
 les fantômes, d'une manière générale, s'éloignent peu de leur lieu de vie passé.
 
-Mais les personnes mortes violemment peuvent se retrouver comme ancrées, emprisonnées près du lieu de leur chute, dans l'aura d'une étrange lumière sacrée. Elles ne peuvent s'incarner que près de cette lueur, bien que sous forme spectrale elles gardent une plus grande liberté - si l'on peut appeler cela ainsi.
+Mais les personnes mortes violemment peuvent se retrouver comme ancrées, emprisonnées près du lieu de leur chute, dans l'aura d'une étrange lumière sacrée. Elles ne peuvent s'incarner que près de cette lueur, bien que sous forme spectrale elles gardent une plus grande liberté - si l'on peut appeler cela ainsi. {% fact "beings_dead_violently_are_anchored" %}
 
-Les personnes - ou même les bêtes - mortes naturellement, ne semblent pas avoir ce type de lien très localisé, et ce sont davantage des tâches inachevées ou des malédictions qui peuvent les retenir dans le monde des vivants.
+Les personnes - ou même les bêtes - mortes naturellement, ne semblent pas avoir ce type de lien très localisé, et ce sont davantage des tâches inachevées ou des malédictions qui peuvent les retenir dans le monde des vivants. {% fact "beings_dead_naturally_are_not_anchored" %}
 
 Notons qu'un fantôme ancré restera plus souvent sous forme spectrale, errante, qu'un fantôme libre de ses mouvements. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 

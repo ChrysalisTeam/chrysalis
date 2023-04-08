@@ -47,7 +47,7 @@ Rappel du principe fondamental
 
 Il faut rester concentré sur ce point : les mondes des fantômes et des avatars sont hermétiquement séparés. Les avatars ne peuvent pas voir/entendre/sentir les fantômes (ni la Bête) ; et vice-versa. En revanche, tous peuvent voir/entendre les vivants et les automates ; ces derniers, mécaniques, ne peuvent pas voir les fantômes. Et tous peuvent voir/entendre l'Ankou (qui est du monde "divin"), ainsi que le Djinn renégat (maître de jeu) qui a été rendu visible (mais immatériel) par les diacres. {% fact "phantom_and_avatar_worlds_are_disjoint" %}
 
-Les fantômes sont reconnaissables à leur tunique pourpre, les automates à leurs **{% symbol "rubans blancs" for "automaton_symbolic_cloth" %}** ; les avatars n'ont pas de signe distinctif particulier, juste un costume conforme à leur personnage de roman.
+Les fantômes sont reconnaissables à leur tunique pourpre, et les automates à leurs **{% symbol "rubans blancs" for "automaton_symbolic_cloth" %}**. Les avatars n'ont pas de signe distinctif particulier, juste un costume conforme à leur personnage de roman.
 
 
 Conseils pour les discours scriptés
@@ -80,16 +80,15 @@ Tous les figurants ont une histoire, et un passif vis-à-vis des autres figurant
 
 - Lorsque les avatars se retrouvent pour le banquet : plaisir, échange de "nouvelles" peu surprenantes (car leurs univers romanesques évoluent très peu)
 - Lorsque les avatars ou fantômes croisent les joueurs : selon leur passif, ils manifestent surprise, méfiance, espérance d'avoir là une solution à la malédiction de la bibliothèque. Aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans ce monde des vivants.
-- Les fantômes qui ne sont pas conscients de leur dangerosité peuvent être tentés de donner une **accolade** aux joueurs (ex. Octave envers ses lointains héritiers Parcival). {% fact "parcival_family_is_heir_of_maupertuis" %} À charge pour les joueurs de les éviter, sans cela il y aura des blessures, et un grand désarroi parmi les fantômes "agresseurs involontaires".
 - Les avatars et fantômes sont soulagés de se "retrouver" mutuellement par l'intermédiaire des joueurs ; ils se questionnent alors, indirectement encore, sur ce qui s'est passé il y a 500 ans lors du drame.
 - Lorsqu'Octave et l'archiviste se retrouvent : effusions de joie, questionnements mutuels sur le "pourquoi" de la situation
 - Lorsqu'Octave et l'archiviste retrouvent l'arkonte : surprise, méfiance, questionnements accusateurs
 - Lorsqu'Octave et l'archiviste voient la Bête : surprise, tentative de l'amadouer au nom des Maupertuis
-- Les avatars sont désemparés en essayant de protéger les joueurs des dangers "invisibles" comme la Bête
+- Les avatars sont désemparés en essayant de protéger les joueurs des dangers "invisibles" comme la Bête errante
 - Lorsque les avatars ou fantômes croisent le voleur : surprise, indignation, condamnation (lui reste moqueur)
 - Lorsque les avatars ou fantômes croisent l'Ankou : respect, espérance, questions sur les défunts Maupertuis ; les fantômes l'ont déjà croisé quelques fois
 - Ne pas hésiter à solliciter les joueurs, les questionner, s'ils sont peu proactifs vis-à-vis des figurants.
-- Avatars ou fantômes, l'on veut vous faire jurer quelque chose "par Zarathoustra", vous pouvez dire ce que vous voulez, et même vous moquer des joueurs, car ce serment ne s'applique pas à vous, vous ne risquez rien en parjurant avec.
+- Avatars ou fantômes, si l'on veut vous faire jurer quelque chose "par Zarathoustra" : vous pouvez dire ce que vous voulez, et même vous moquer des joueurs, car ce serment ne s'applique pas à vous, vous ne risquez rien en parjurant avec.
 
 
 Improviser des anecdotes, débats, et bogues
@@ -97,7 +96,7 @@ Improviser des anecdotes, débats, et bogues
 
 Le scénario laisse une grande marge quant aux évènements survenus avant la malédiction - que ce soit avant ou après le saccage du manoir des Maupertuis, ou dans les univers alternatifs des avatars.
 
-Vous êtes donc libre de faire "revivre" la **nostalgie de ces époques révolues**, en improvisant des récits, des anecdotes, des taquineries, sur tout ce que vos personnages (avatars ou fantômes) ont pu vivre de leur côté, ou bien les uns avec les autres. En particulier, Octave peut narrer aux descendants Parcival quelques bribes de l'histoire de leurs ancètres. Saisissez les perches tendues par les autres figurants, en prenant juste soin de respecter le caractère fondamental de votre personnage. Evitez cependant que cela ressemble à des indices pour les missions des joueurs, en restant assez loin de ces sujets précis.
+Vous êtes donc libre de faire "revivre" la **nostalgie de ces époques révolues**, en improvisant des récits, des anecdotes, des taquineries, sur tout ce que vos personnages (avatars ou fantômes) ont pu vivre de leur côté, ou bien les uns avec les autres. En particulier, Octave peut narrer aux descendants Parcival quelques bribes de l'histoire de leurs ancêtres. Saisissez les perches tendues par les autres figurants, en prenant juste soin de respecter le caractère fondamental de votre personnage. Evitez cependant que cela ressemble à des indices pour les missions des joueurs, en restant assez loin de ces sujets précis.
 
 Quelques exemples de **courtes controverses** qui peuvent surgir de façon inopinée entre les avatars, en particulier lors d'un possible ralentissement du rythme du jeu :
 
@@ -114,10 +113,10 @@ Interactions entre fantômes incarnés
 
 Les fantômes ne peuvent PAS se nuire mutuellement, mais ils ne sont pas initialement conscients de cette invulnérabilité.
 
-Donc, quand ils sont incarnés et conscients de leurs actes, ils réagissent face au danger comme s'ils étaient vivants :
+Donc, quand ils sont incarnés et conscients de leurs actes, ils réagissent face aux autres fantômes comme s'ils étaient vivants :
 
-- Tous les fantômes humains craignent d'approcher la Bête fantomatique, même si l'arkonte est plus courageux que les autres à ce sujet.
-- Si le voleur est libéré et devient menaçant, les autres fantômes tentent de s'interposer entre lui et les joueurs.
+- Tous les fantômes humains craignent d'approcher la Bête fantomatique errante, même si l'arkonte est plus courageux que les autres à ce sujet.
+- Si le voleur du voleur est libéré de son ancrage et devient menaçant, certains autres fantômes tentent de s'interposer entre lui et les joueurs même s'il est incarné et donc inoffensif.
 
 
 
@@ -126,7 +125,7 @@ Incarnation, ancrage et errance spectrale des fantômes
 {# TODO REVIEW THIS CHAPTER STRONGLY #}
 {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
-Tout figurant fantôme qui est mort violemment est initialement **ancré** à une petite zone éclairée, qui fut le lieu de sa mort. {% fact "human_phantoms_are_initially_anchored" %}
+Tout figurant fantôme qui est mort violemment est initialement **ancré** à une petite zone éclairée, qui fut le lieu de sa mort violente. {% fact "beings_dead_violently_are_anchored" %}
 Il est alors en **phase incarnée**: il a une apparence humaine, peut communiquer normalement, son visage est découvert, et ses gants lumineux éteints.
 Il peut manier quelques accessoires le représentant ; il garde cependant une certaine lenteur dans les gestes, et si possible un visage blafard.
 
@@ -149,11 +148,11 @@ Rappel : suite à certains évènements, un fantôme peut être atteint de **{% 
 
 Lorsqu'un unique **son de gong** retentit, les fantômes errants repassent en **phase incarnée**, après être revenus à leur **point d'ancrage** s'ils en avaient un. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
-Les diacres peuvent détacher les morts de leur ancrage spirituel ; mais les fantômes libérés annoncent alors que les murs de la bibliothèque sont comme une prison (comme l'Ankou le leur avait signalé lors d'un ancien passage), et qu'ils ne peuvent toujours pas rejoindre l'au-delà ; ils peuvent cependant se rendre à l'étage interdit, en phase incarnée désormais, si ce dernier a été ouvert.
+Les diacres peuvent détacher les morts de leur ancrage spirituel ; mais les fantômes libérés annoncent alors que les murs de la bibliothèque sont comme une prison (comme l'Ankou le leur avait signalé lors d'un ancien passage), et qu'ils ne peuvent toujours pas rejoindre l'au-delà ; ils peuvent cependant se rendre à l'étage interdit, sous forme incarnée ou non, si ce dernier a été ouvert.
 
-Noter que les êtres morts de **vieillesse**, comme la **Bête**, ne sont pas ancrés, ils errent librement qu'ils soient incarnés ou en errance ; le reste des règles s'applique à eux identiquement.
+Noter que les êtres morts de **vieillesse**, comme la **Bête**, ne sont pas ancrés, ils errent librement qu'ils soient incarnés ou en errance ; le reste des règles s'applique à eux identiquement. {% fact "beings_dead_naturally_are_not_anchored" %}
 
-En tant que fantôme, y compris la Bête : Prêtez attention aux **incantations de l'exorciste**, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour éviter cet exorciste, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une balle sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes. Plus de détails ci-dessous.
+En tant que fantôme, y compris la Bête : Prêtez attention aux **incantations de l'exorciste**, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour éviter cet exorciste, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une balle sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes, puis vous allez voir le MJ discrètement. Plus de détails ci-dessous. {% fact "beast_does_not_fear_rituals" %}
 
 
 Les sorts d'exorcisme affectant les fantômes
