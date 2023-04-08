@@ -50,7 +50,6 @@ Naturellement, vous savez **réparer** moult choses, par exemple un détecteur d
 {% fact "inventor_can_repair_items" %}
 {% hint "explorer_unveiler_uv_lamp_initially_broken" is needed %} {% hint "explorer_unveiler_uv_lamp_battery" is needed %}
 {% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "spy_sounder_metal_detector_battery" is needed %}
-{% hint "random_broken_lantern_to_repair" is needed %} {% hint 'random_broken_lantern_battery' is needed %}
 
 {# ABORTED
  IL A UNE CLEF MAGNETIQUE AUSSI, pour cas de DOUBLE SERRURE !!! NOPE jamais vraiment nécessaire...
