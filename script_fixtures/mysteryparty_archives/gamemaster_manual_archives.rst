@@ -815,7 +815,7 @@ Planification des prophéties et intuitions
 
 - **Prophétie du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte déposée par le méchant) : Vision simple, musique "Broken Truth light (Delphi's Theme)". {% hint 'feather_in_arkon_bag' is needed %}
 
-- **Prophétie du crâne de l’arkonte et du danger planétaire** (plume puis allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "Broken Truth heavy (Delphi's Theme)".
+- **Prophétie du crâne de l’arkonte et du danger planétaire** (allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "Broken Truth heavy (Delphi's Theme)".
 
 - **Intuition sur la dernière bataille** (peu après que le méchant est démasqué, mais UNIQUEMENT si la prophétie holographique de Cassandra n'a pas été déclenchée via les portraits lenticulaires effrayants) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un taureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire leur ennemie. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."* {% fact "parcival_oracle_has_fallback_intuition_about_last_battle" %}
 
