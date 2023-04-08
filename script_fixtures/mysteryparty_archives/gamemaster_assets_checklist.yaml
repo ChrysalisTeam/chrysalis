@@ -111,18 +111,19 @@
     - "@PARCHEMINS Lettre des parents d'Octave avec des instructions pour son adoubement ???"
     - "2 livres anciens beige/marbré dans la valise de l'enfant OK"
     - "2 bandes dessinées anciennes 'Gédéon' OK"
-    - "Livre factice rouge, marqué au sol (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} ???"
+    - "Livre factice rouge (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} ???"
 
 -
-  - "@RECOINS Coin du fantôme de l’archiviste [F1]"
+  - "@VALISE-ROUGE Coin du fantôme de l’archiviste [F1] OK"
   -
-    - "Livre factice bleu à code {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %} (contient la CLEF du livre factice rouge et quelques pierreries), marqué au sol IMPORTANT OK"
-    - "2 chalumeaux anciens ?? NOPE"
+    - "Livre factice bleu à code {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %} (contient la CLEF du livre factice rouge et quelques pierreries) IMPORTANT OK"
+    - "2 chalumeaux anciens"
+    - "2 grands tournevis anciens"
     - "Boite à secrets en bois léger (fragile) caché près des chalumeaux, avec trésor d'Octave dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %} IMPORTANT NOPE"
     - "@GENERAL Jarre lumineuse NewYang (batterie solaire incluse)"
 
 -
-  - "@VALISE-ROUGE Valise rouge près de l'archiviste {% hint 'miscellaneous_valuable_objects_gathered_by_archivist' is provided %}"
+  - "@VALISE-ROUGE Valise rouge près de l'archiviste {% hint 'miscellaneous_valuable_objects_gathered_by_archivist' is provided %} OK"
   -
     - "Lampe multicolore à angelot en cuivre"
     - "Chauffe-lit à manche en cuivre"
@@ -184,37 +185,34 @@
 -
   - "@TOMBEAU Galerie de portraits des Maupertuis [L8]"
   -
-    - "Portrait du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} avec message UV : \"Il a vécu par les ethers, les amplificans, et les grimoires maudits, mais il est mort par un simple fruit.\""
-    - "Portrait du père des Maupertuis (Quirinius) avec message UV : \"Si oubli, penser Venture Prins !\" IMPORTANT"
-    - "Portrait de la mère des Maupertuis (Isadora) avec message UV : \"Rien qui m'appartienne Sinon la paix du coeur Et la fraîcheur de l'air\""
-    - "Portrait de la fille des Maupertuis (Mérédice) avec message UV : \"Adieu soeurette, qui mourra verra (signé Octave)\""
-    - "Portrait du fils des Maupertuis (Octave) avec message UV : \"Tu ne retrouveras jamais tes sousous, frérot ! (signé Mérédice)\""
-    - "Grands portraits lenticulaires avec code d'analyse [{% symbol 'vpx' for 'analysis_code_scary_lenticular_paintings' %}] en magnétisme IMPORTANT"
+    - "Portrait du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} avec optionnellement message UV : \"Il a vécu par les ethers, les amplificans, et les grimoires maudits, mais il est mort par un simple fruit.\""
+    - "Portrait du père des Maupertuis (Quirinius) avec optionnellement message UV : \"Si oubli, penser Venture Prins !\""
+    - "Portrait de la mère des Maupertuis (Isadora) avec optionnellement message UV : \"Rien qui m'appartienne Sinon la paix du coeur Et la fraîcheur de l'air\""
+    - "Portrait de la fille des Maupertuis (Mérédice) avec optionnellement message UV : \"Adieu soeurette, qui mourra verra (signé Octave)\""
+    - "Portrait du fils des Maupertuis (Octave) avec optionnellement message UV : \"Tu ne retrouveras jamais tes sousous, frérot ! (signé Mérédice)\""
     - "Cadre de remerciement (en message magnétique + message UV) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_and_uv_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
     - "@GENERAL Plume de prophétie sur le cadre de remerciement à stéréogramme {% hint 'feather_on_stereogram_board' is provided %}"
 
 -
   - "@TOMBEAU Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} [L7]"
   -
-    - "@PARCHEMINS Code d'envoûtement NEGATIF [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] sur l'affichette de la porte du tombeau IMPORTANT"
+    - "@PARCHEMINS Code d'envoûtement légendaire NEGATIF [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] sur l'affichette de la porte du tombeau IMPORTANT"
     - "@PARCHEMINS MESSAGE RUNIQUE 'Seul le sang des Maupertuis passera sans encombre' sur la porte du tombeau {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %} IMPORTANT"
     - "Blason emblème plastique du mage avec dragon doré {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
     - "1 pierre tombale verte"
-    - "3 grosses bougies (3xAAA chacune)"
+    - "3 grosses bougies (nécessite 3xAAA chacune)"
     - "Aube de pape dorée"
     - "Masque 'anonymous' doré devant le crâne"
-    - "@EXTERNE Capuchon noir médiéval en feutre"
     - "Calotte/tiare noir&or"
-    - "@BIJOUX {% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}]) IMPORTANT"
+    - "@BIJOUX {% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}]) IMPORTANT"
     - "@BIJOUX {% symbol 'Bague Amplificans' for 'ring_amplificans_name' %} (code d'envoûtement POSITIF [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} IMPORTANT"
-
-    - "Projecteur LED Blanche RX-7732 (4xAA incluses) @Véro"
+    - "Projecteur LED Blanche RX-7732 (nécessite 4xAA)"
 
 
 # ETAGE INTERDIT #
 
 -
-  - "@EXTERNE Coffre légendaire (valise noire épaisse) des Maupertuis [P2]"
+  - "@EXTERNE Coffre légendaire (valise noire épaisse) des Maupertuis [P2] OK"
   -
     - "Deux codes de protection sur le coffret légendaire des Maupertuis {% hint 'family_legendary_chest_protected_by_double_code' is provided %} IMPORTANT"
     - "@MALLETTES Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' pour la mallette noire épaisse (coffre légendaire des Maupertuis) ; il contient le sort de zombification et un indice de contre-mesure en UV, le {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, un indice sur le Vortex Abyssal, la recette alchimique des flèchettes d'Iridium et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'arrow_recipe_for_alchemist' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
@@ -284,36 +282,36 @@
     - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie (2xCR2032 incluses){% hint 'incense_fountain' is provided %} IMPORTANT OK"
     - "Petite pyramide en plastique pour hologramme, avec un message secret en hiéroglyphes IMPORTANT OK"
     - "Boule plasma (orbe spirituel) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT OK"
-    - "Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT (????LE PROTEGER DANS COFFRE OU VIA ENIGME???) OK"
-    - "6 portraits lenticulaires effrayants {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT OK"
+    - "6 grands portraits lenticulaires effrayants {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT OK"
     - "Petit puits en cuivre (avec code secret en hiéroglyphes) OK"
-    - "Trône en bois avec cachettte coulissante contenant des richesses, et mini-crâne illuminé LED (3xLR44 incluses) OOK"
+    - "Trône en bois avec cachettte coulissante, avec dessus un mini-crâne illuminé LED (3xLR44 incluses) OOK"
+    - "Pyramide à base carrée en résine epoxy dans le trône en bois {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT OK"
+
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac) [P5]"
   -
     - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %} IMPORTANT"
-    - "Coffret cubique en bois peint de fruits, avec VERROU MAGNÉTIQUE"
-    - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique IMPORTANT"
-    - "@BIJOUX Pyramide à base carrée en résine epoxy {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT"
+    - "Coffret cubique en bois peint avec des fruits, FRAGILE, avec VERROU MAGNÉTIQUE OK"
+    - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique IMPORTANT OK"
+    - "Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT OK"
 
 -
   - "@CORRIDORS Corridor d'Aura Manaïque (cul-de-sac) [P6]"
   -
     - "@ENORMES Accès corridor bloqué par une porte en bronze de type 'ULTRA-LOURD"
-    - "@EXTERNE SCEAU d'initiation (avec guirlande) IMPORTANT"
-    - "Boîtes-gigognes beiges tressées (recouvertes d'un DRAP NOIR) de l'initiation d'Octave IMPORTANT"
-    - "@BIJOUX Broche d'Octave dans une des boîtes-gigognes (envoûtement POSITIF) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %} {% hint 'maupertuis_initiation_seal' is provided %} IMPORTANT"
+    - "@EXTERNE SCEAU d'initiation (avec guirlande) IMPORTANT OK"
+    - "Boîtes-gigognes beiges tressées (recouvertes d'un DRAP NOIR) de l'initiation d'Octave IMPORTANT OK"
+    - "@BIJOUX Broche d'Octave dans une des boîtes-gigognes (envoûtement POSITIF) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %} {% hint 'maupertuis_initiation_seal' is provided %} IMPORTANT OK"
     - "@EXTERNE Note: le collier d'aura manaïque n'était plus dans le corridor depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
 
 -
   - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac) [P7]"
   -
     - "@EXTERNE Affichette de présence de Rayonnements Ionisants"
-    - "Valisettes ovales rougeâtres imbriquées [un automate doit pouvoir prendre celle intérieure] IMPORTANT"
-    - "@EXTERNE La valisette ovale rougeâtre intérieure est protégée par un CADENAS CROCHETABLE TRANSPARENT IMPORTANT"
-    - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"
-    - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"
-    - "@BIJOUX Pyramide à base triangulaire en résine epoxy {% hint 'spiritual_orb_key_triangle_base_pyramid' is provided %} IMPORTANT"
+    - "Valisettes ovales rougeâtres imbriquées [un automate doit pouvoir prendre celle intérieure] IMPORTANT OK"
+    - "@EXTERNE La valisette ovale rougeâtre *intérieure* est protégée par un CADENAS CROCHETABLE TRANSPARENT IMPORTANT"
+    - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT OK"
+    - "@BIJOUX Pyramide à base triangulaire en résine epoxy {% hint 'spiritual_orb_key_triangle_base_pyramid' is provided %} IMPORTANT OK"
     - "@POTIONS Potion de Fungal Bleu {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %} IMPORTANT"
     - "@POTIONS Lots de X potions sans importance: YYY, ZZZ etc."
     - "1 grand miroir rectangulaire pour le fond de la petite valisette ovale rougeâtre"
@@ -322,7 +320,7 @@
   - "@NICHE Niche de la Bête [P1]"
   -
     - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton dans une boîte en bois avec symbole d'ancre {% hint 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT OK ???? REQUIRES ENCHANTEMENT"
-    - "Portefeuille vert du voleur, avec microtextes donnant le code du cryptex, formule chiffrée de l'astrolabe, et papier avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme (donnant le code d'Isadora) {% hint 'thief_paper_with_cryptex_code_as_microtext' is provided %} {% hint 'thief_teleportation_device_encrypted_formula' is provided %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT OK"
+    - "Portefeuille vert du voleur, avec microtextes donnant le code du cryptex, formule chiffrée de l'astrolabe, et papier avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme (donnant le code d'Isadora pour le coffre légendaire) {% hint 'thief_paper_with_cryptex_code_as_microtext' is provided %} {% hint 'thief_teleportation_device_encrypted_formula' is provided %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT OK"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
     - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'lost_thief_moneybox' is provided %} (envoûtement POSITIF), sous forme d'une quêteuse rouge de magicien IMPORTANT OK"
     - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword_stolen_by_thief' is provided %} OK marqué ULTRA-LOURD IMPORTANT MANQUE CODE"
@@ -368,6 +366,7 @@
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_ring_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %}"
     - "Bande-son de la prophétie auditive sur la bague Amplificans anti-zombie {% hint 'parcival_oracle_audio_about_necromancers_and_ring_amplificans' is provided %}"
     - "Vidéo de la prophétie de Cassandra pour la pyramide hologramme {% hint 'prophecy_hologram_for_scary_lenticular_painting' is provided %}"
+    - "Bande-son pour les lectures mystiques finales du druide {% hint 'mystic_soundtrack_for_druid_magic_books' is needed %}"
     - "Le code de la mallette administrative noire ({% symbol '625-993' for 'family_briefcase_code' %}) si les joueurs le demandent aux défunts via l'Ankou"
     - "Un des codes du coffret légendaire des Maupertuis, celui de la mère des Maupertuis, pour quand elle sera logiquement interrogée depuis l'au-delà : {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} {% hint 'defunct_isadora_code_for_thanatologue_chest_code' is provided %}"
     - "@BIJOUX Broche de Mérédice, trouvée par les joueurs si le bon éboulement derrière l'atelier d'alchimie est dynamité (envoûtement POSITIF) {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
@@ -424,7 +423,7 @@
   - "@PERSONNES Matériel de l'avatar INVENTEUR"
   -
     - "@AUDIOVIDEO Mégaphone Bontempi à écho (batterie / microUSB) avec Jack3.5 et Bluetooth (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
-    - "Outils anciens d'ambiance : 3 tournevis, petit marteau, pince spéciale (pour l'inventeur) OK"
+    - "Outils anciens d'ambiance : 1 petit tournevis, petit marteau, pince spéciale (pour l'inventeur) OK"
     - "@ELECTRICITE Piles format (cylindre + rectangle) pour lampe UV ou détecteur de métal cassé (pour l'inventeur) {% hint 'explorer_unveiler_uv_lamp_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %} IMPORTANT"
     - "Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_silver_white_ribbon_bracelet_for_inventor' is provided %} IMPORTANT"
 

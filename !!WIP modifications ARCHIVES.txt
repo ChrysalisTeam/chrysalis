@@ -3,6 +3,10 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
+
+ACHETER GRELOTS
+
+
 Prevenir que broche est à isadora sur cimetiere
 
 Dire où faire prophéties !!
@@ -10,13 +14,13 @@ Dire où faire prophéties !!
 QUI A DETRUIT MANOIR, yodsou bahamoot ?
 
 Changer description sacoche arkonte : "fine marron foncé"!!
-N pas mettre plume sur fontaine encens
+Ne pas mettre plume sur fontaine à encens
 
 A changer dans inventaire
      2 grandes gourdes cylindriques en cuivre
      chercher un pilon pour alchimie
     - ajouter dome poulpi et lanternes vintage aux Assets
-    chercher balance vintage en bois/cuivre
+    chercher balance vintage en bois/cuivre sur leboncoin
 
 Réenregistrer l'énigme des sousous avec "OCTAVE" en nom
 
