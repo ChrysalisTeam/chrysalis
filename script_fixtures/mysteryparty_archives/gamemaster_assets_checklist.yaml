@@ -49,7 +49,7 @@
     - "I7 - Livre luxe pourpre :  Tome 3 du roman du druide entre les étagères de zoologie et de gastronomie (+1 livre luxe pourpre en secours) {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %} WIP"
     - "@POTIONS I8 - Potion de tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence"
 
-    - "@AUDIOVIDEO J1 - SCEAU lumineux OPTIONNEL (1 mini-guirlande LED), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %} (envoûtement POSITIF)"
+    - "J1 - NOTHING"
     - "J2 - Livre fin HACHETTE avec Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
     - "6 grosses bougies allumées (3xAAA chacune) à disséminer dans l'étage autorisé OK"
@@ -66,7 +66,7 @@
   - "@GENERAL Barrières magiques en cordelette devant les escaliers du domaine interdit [L3]"
   -
     - "Obstacle en cordelette bloquant les escaliers (code d'envoûtement NEGATIF [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}]) IMPORTANT"
-    - "@AUDIOVIDEO SCEAU lumineux (1 MOYENNE Guirlande de Noël multicolore réglable @Pascal) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %} IMPORTANT"
+    - "SCEAU lumineux éteint (1 mini-guirlande LED 1xAAA incluse) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %} IMPORTANT"
     - "Projecteur directionnel en haut des escaliers?"
 
 -
@@ -228,6 +228,7 @@
   - "@ALCHIMIE Laboratoire d'Alchimie [P3]"
   -
     - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF ??LEGENDAIRE [{% symbol 'ecz' for 'magic_code_grinding_mill' %}]) OK"
+    - "SCEAU lumineux éteint (1 mini-guirlande LED, nécessite 2xAA), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %}"
     - "Chaudronnet rond en cuivre à 3 pieds et anse, avec enchantement bouillonnant {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF)"
     - "Chaudron bombé dessous en cuivre à anse, avec enchantement anti-explosion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement POSITIF?????)"
     - "Système électrique pour fumée du chaudron"
@@ -299,7 +300,7 @@
   - "@CORRIDORS Corridor d'Aura Manaïque (cul-de-sac) [P6]"
   -
     - "@ENORMES Accès corridor bloqué par une porte en bronze de type 'ULTRA-LOURD"
-    - "@EXTERNE SCEAU d'initiation (avec guirlande) IMPORTANT OK"
+    - "SCEAU lumineux éteint, pour déclencher l'initiation dynastique (avec mini-guirlande LED double, 2xCR2032 incluses chacune) IMPORTANT OK"
     - "Boîtes-gigognes beiges tressées (recouvertes d'un DRAP NOIR) de l'initiation d'Octave IMPORTANT OK"
     - "@BIJOUX Broche d'Octave dans une des boîtes-gigognes (envoûtement POSITIF) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %} {% hint 'maupertuis_initiation_seal' is provided %} IMPORTANT OK"
     - "@EXTERNE Note: le collier d'aura manaïque n'était plus dans le corridor depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
