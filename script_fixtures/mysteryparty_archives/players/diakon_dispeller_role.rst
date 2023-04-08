@@ -41,7 +41,12 @@ La suppression des envoûtements négatifs
 
 **Signalez au maitre de jeu les désenvoûtements que vous souhaitez mener à bien.**
 
-Si l'envoûtement reconnu est "négatif", vous pouvez vouloir le dissiper par un rituel ; les enchantements neutres/positifs ne sont pas supprimables de cette façon.
+Si l'envoûtement reconnu est "négatif", il est susceptible de blesser, non pas sur le plan spirituel mais biologique, la personne qui le touche. {% fact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
+
+Vous pouvez donc vouloir dissiper cet envoûtement par un rituel.
+
+Les enchantements neutres/positifs ne sont, eux, pas supprimables de cette façon.
+
 
 Envoûtement simple
 -----------------------------

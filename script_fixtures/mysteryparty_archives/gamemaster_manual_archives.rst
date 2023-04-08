@@ -159,7 +159,7 @@ Le monde des automates
 
 *Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde-là pour un surcroît d'ambiance et une bonne liberté d'action.*
 
-Avec l'avatar "inventeur", Octave avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples, comme les automates joués par les maîtres de jeu ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% fact "inventor_has_built_androids" %}
+Avec l'aide d'Octave, l'avatar "inventeur" avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% fact "inventor_has_built_androids" %}
 
 Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **{% symbol "rubans blancs" for "automaton_symbolic_cloth" %}** autour du cou et des poignets. {% hint "white_ribbon_cloth_for_automatons" is needed %}
 
@@ -577,9 +577,9 @@ Les différents types de blessures
 
 Les agressions qu'un aventurier malchanceux est susceptible de subir se classent en trois catégories : **attaques physiques, magiques et sacrées**.
 
-Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, ou autres, mais aussi blessures résultant d'objets envoûtés par des malédictions...) doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : **biologique**. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.  {% fact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
+Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, ou autres, mais aussi blessures résultant d'objets magiquement envoûtés...) doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : **biologique**. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.  {% fact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
 
-En revanche, les attaques sacrées, typiquement issues de contacts avec des fantômes ou démons, causent des blessures de nature **spirituelle**. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité, membre inutilisable...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions aussi peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction. {% fact "potions_cannot_heal_spiritual_injuries" %}
+En revanche, les attaques sacrées, typiquement issues de contacts avec des fantômes ou démons, ou avec leurs dépouilles maudites, causent des blessures de nature **spirituelle**. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité, membre inutilisable...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions aussi peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction. {% fact "potions_cannot_heal_spiritual_injuries" %} {% fact "cursed_skull_and_bones_give_sacred_injuries" %}
 
 La distinction entre ces différents types de blessures n'est pas toujours évidente ; par exemple, la paralysie d'un membre peut être due à des lésions internes tout comme à l'attaque d'un spectre. D'où la nécessité d'investiguer les circonstances ayant mené aux troubles constatés, afin de fournir un remède approprié.
 
@@ -817,7 +817,7 @@ Planification des prophéties et intuitions
 
 - **Prophétie du crâne de l’arkonte et du danger planétaire** (plume puis allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "Broken Truth heavy (Delphi's Theme)".
 
-- **Intuition sur la dernière bataille** (peu après que le méchant est démasqué, mais UNIQUEMENT si la prophétie holographique de Cassandra n'a pas été déclenchée via les portraits lenticulaires effrayants) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un taureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire leur ennemie. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."* {% fact "parcival_oracle_has_intuition_about_last_battle" %}
+- **Intuition sur la dernière bataille** (peu après que le méchant est démasqué, mais UNIQUEMENT si la prophétie holographique de Cassandra n'a pas été déclenchée via les portraits lenticulaires effrayants) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un taureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire leur ennemie. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."* {% fact "parcival_oracle_has_fallback_intuition_about_last_battle" %}
 
 {% endmacro %}
 <{ planning_of_prophecies }/>
@@ -1064,7 +1064,7 @@ Une prophétie holographique détaillant ce procédé de "diacre invulnérable" 
 {% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
 {% hint "potion_of_revelation_from_exorcist" is needed %}
 
-- Si cette prophétie holographique n'est pas trouvée, une **intuition** de l'Oracle peut évoquer aussi ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% fact "parcival_oracle_has_intuition_about_last_battle" %}
+- Si cette prophétie holographique n'est pas trouvée, une **intuition** de l'Oracle peut évoquer aussi ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% fact "parcival_oracle_has_fallback_intuition_about_last_battle" %}
 
 Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'expulsion :
 
@@ -1074,7 +1074,7 @@ Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'e
 
 - Lorsque l'exorciste commence son rituel, le druide est d'abord confus, puis, comprenant ce qui se passe, il l'attaque par différents moyens, mais en vain.
 
-- En désespoir de cause, le druide va utiliser la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte (qui contient le {% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}), et se protéger ainsi des spectres. {% fact "druid_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} À charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...), sans se faire eux-mêmes attaquer par le druide.
+- En désespoir de cause, le druide va utiliser la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte (qui contient le {% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}), et se protéger ainsi des spectres. {% fact "druid_finally_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} À charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...), sans se faire eux-mêmes attaquer par le druide.
 
 - Une fois le rituel à son terme, le druide est comme blessé ; l'arkonte intervient alors pour clamer victoire, et appelle tous les diacres autour de lui pour quelques dernières répétitions de l'incantation rituelle. Il peut s'en désolidariser à la fin pour clamer : **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**. Le druide est alors attiré par le pentacle et y meurt (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres).
 

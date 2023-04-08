@@ -58,7 +58,7 @@ Informations et instructions spécifiques
 
 Vous vous posez des questions sur la clochette métallique laissée en évidence, qui, lorsque vous l'essayez, sonne mais ne déclenche rien (car vous ne voyez pas les spectres s'agitant à ce moment là) ; ce n'est pas, en tout cas, une trouvaille de l'inventeur et de ses automates.
 En discutant avec les joueurs, ils finiront bien par vous expliquer ce qui se passe lorsqu'elle est utilisée.
-Une fois que vous savez qu'il s'agit d'un signal de rappel pour les fantômes, **vous la volez discrètement**, et vous la cachez dans votre besace. Ni avatars ni joueurs ne doivent savoir que c'est vous qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% fact "druid_must_steal_table_bell_when_usage_understood" %} {% fact "druid_uses_table_bell_as_weapon" %}
+Une fois que vous savez qu'il s'agit d'un signal de rappel pour les fantômes, **vous la volez discrètement**, et vous la cachez dans votre besace. Ni avatars ni joueurs ne doivent savoir que c'est vous qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% fact "druid_must_steal_table_bell_when_usage_understood" %} {% fact "druid_finally_uses_table_bell_as_weapon" %}
 
 Vous êtes un érudit des animaux, des plantes et des minéraux, et le vocabulaire de votre univers est le même que le vocabulaire très ancien de l'univers des vivants.
 Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_about_plants_and_gems" %}
@@ -67,7 +67,7 @@ Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_
 - que le "gant-de-renard" est simplement un nom alternatif de la digitale {% fact "druid_knows_that_foxglove_is_digitalis" %}
 - que le "clairvoyant minéral" est ce que l'on nomme ici du cristal de roche {% fact "druid_knows_about_gem_rock_crystal" %}
 - que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
-- que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tigers_eye" %}
+- que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tiger_eye" %}
 
 **Vous pouvez proposer spontanément votre aide à l'alchimiste**, qui aura besoin de reconnaître ces noms dans les recettes qu'elle trouvera.
 

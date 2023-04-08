@@ -508,7 +508,7 @@ BOF DONNER A DRUIDE LA CHARGE DE SUIVRE LE DESENVOUTEUR !!??? Ou le démineur ??
 
 A EXPLOITER en jeu pour encens :
 - que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
-- que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tigers_eye" %}
+- que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tiger_eye" %}
 
 IMPORTANT - donner du jeu au runologue et unveiler !!!  moins au lockpicker !!
 
