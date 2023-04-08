@@ -171,7 +171,7 @@
     - "3 pierres tombales noires avec code d'analyse [{% symbol 'ltx' for 'analysis_code_three_tombs' %}] IMPORTANT OK"
     - "Livret à couverture marron avec dragon doré pour la Tombe 1"
     - "@PARCHEMINS Tombe 1 : Journal intime d'Octave à peine entamé, évoquant juste sa nouvelle qui commence 'dehors' {% hint 'octave_private_diary_on_his_tomb' is provided %} IMPORTANT"
-    - "@BIJOUX Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF) IMPORTANT"
+    - "@BIJOUX Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF) IMPORTANT OK"
 
     - "@GENERAL Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided %} IMPORTANT"
 
@@ -282,7 +282,7 @@
   - "@DIVINATION Laboratoire de divination [P4]"
   -
     - "Fontaine d'encens à LED (éteinte et sans cône d'encens) avec plume de prophétie (2xCR2032 incluses){% hint 'incense_fountain' is provided %} IMPORTANT OK"
-    - "Petite pyramide en plastique pour hologramme (avec code secret en hiéroglyphes) IMPORTANT OK"
+    - "Petite pyramide en plastique pour hologramme, avec un message secret en hiéroglyphes IMPORTANT OK"
     - "Boule plasma (orbe spirituel) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT OK"
     - "Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT (????LE PROTEGER DANS COFFRE OU VIA ENIGME???) OK"
     - "6 portraits lenticulaires effrayants {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT OK"
