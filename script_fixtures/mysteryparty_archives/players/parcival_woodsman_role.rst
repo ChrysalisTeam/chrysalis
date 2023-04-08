@@ -22,7 +22,7 @@ Vous ne vous séparez jamais de votre chère arme de poing, qui vous a déjà sa
 Ses flèchettes sont en solide **{% symbol "Iridium" for "parcival_woodsman_arrows_metal" %}**, donc efficaces aussi contre des carapaces animales, ou des armures légères. Mais elles n'ont pas reçu d'enchantements leur permettant de percer des défenses magiques, ou de blesser des entités du monde des morts. Heureusement pour vous, le cas ne s'est jamais présenté. Contre les machines, ces fléchettes précises sont très peu efficaces, sauf à toucher leurs systèmes vitaux ; des explosifs seraient davantage appropriés.
 {% fact "parcival_woodsman_arrows_normally_only_work_against_living_creatures" %}
 
-A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres les semaines précédentes, il ne vous reste **qu'une seule munition** dans votre arme. {% hint "single_bullet_left_for_woodsman" is needed %} {% hint "other_iridium_bullet_for_woodsman" is needed %}
+A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres les semaines précédentes, il ne vous reste **qu'une seule munition** dans votre arme. {% hint "single_bullet_left_for_woodsman" is needed %}
 
 *NOTE hors-jeu : Une fléchette qui a raté sa cible peut être récupérée et réutilisée ; mais si elle a touché sa cible, elle est réputée trop abîmée par l'impact pour servir encore. Les "fléchettes" nerf sont reconnaissables à leur couleur, différente des autres munitions en jeu (ex. balles de fusil) qui elles ne sont jamais réutilisables.* {% fact "parcival_woodsman_arrows_can_only_succeed_once" %} {% fact "nerf_bullets_and_arrows_need_different_colors" %}
 

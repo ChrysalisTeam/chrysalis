@@ -217,7 +217,7 @@
   - "@EXTERNE Coffre légendaire (valise noire épaisse) des Maupertuis [P2]"
   -
     - "Deux codes de protection sur le coffret légendaire des Maupertuis {% hint 'family_legendary_chest_protected_by_double_code' is provided %} IMPORTANT"
-    - "@MALLETTES Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' (nom possiblement inscrit en code magnétique) pour la mallette noire épaisse (coffre légendaire des Maupertuis) ; il contient le sort de zombification, la contre-mesure en UV, le {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, un indice sur le Vortex Abyssal, et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
+    - "@MALLETTES Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' pour la mallette noire épaisse (coffre légendaire des Maupertuis) ; il contient le sort de zombification et un indice de contre-mesure en UV, le {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, un indice sur le Vortex Abyssal, la recette alchimique des flèchettes d'Iridium et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'arrow_recipe_for_alchemist' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
     - "@BIJOUX Diamant géant en résine epoxy {% hint 'spiritual_orb_key_diamond_is_needed' is provided %} IMPORTANT"
 
 -
@@ -322,10 +322,9 @@
   - "@NICHE Niche de la Bête [P1]"
   -
     - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton dans une boîte en bois avec symbole d'ancre {% hint 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT OK ???? REQUIRES ENCHANTEMENT"
-    - "Portefeuille vert du voleur, avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT OK"
+    - "Portefeuille vert du voleur, avec microtextes donnant le code du cryptex, formule chiffrée de l'astrolabe, et papier avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme (donnant le code d'Isadora) {% hint 'thief_paper_with_cryptex_code_as_microtext' is provided %} {% hint 'thief_teleportation_device_encrypted_formula' is provided %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT OK"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
     - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'lost_thief_moneybox' is provided %} (envoûtement POSITIF), sous forme d'une quêteuse rouge de magicien IMPORTANT OK"
-    - "@PARCHEMINS Papier avec la formule chiffrée de l'astrolabe {% hint 'thief_teleportation_device_encrypted_formula' is provided %} IMPORTANT"
     - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword_stolen_by_thief' is provided %} OK marqué ULTRA-LOURD IMPORTANT MANQUE CODE"
     - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE) IMPORTANT OK"
     - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie + batterie miniUSB SIXTHGU)"
@@ -344,7 +343,7 @@
     - "40 pièces normales (= 40 kashes)"
     - "6 pièces d'or (= 60 kashes)"
     - "10 petits diamants ronds (= 50 kashes)"
-    - "10 diamants moyens rectangulaire (= 100 kashes)"
+    - "10 diamants moyens rectangulaire (= 100 kashes) {% hint 'diamonds_for_alchemy_recipes' is provided %}"
     - "5 grands diamants ronds (= 100 kashes)"
     - "Bracelet doré à gros diamant bleu (marqué non magique) valant environ 100 kashes [ETIQUETTE]"
     - "Collier en bande dorée (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
@@ -368,6 +367,7 @@
     - "@AUDIOVIDEO Lecteur Kingbox DigitalMusicPlayer (batterie / microUSB) avec mémoire 16go, SDCARD, Jack3.5, et Bluetooth pour EVENEMENTS"
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_ring_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %}"
     - "Bande-son de la prophétie auditive sur la bague Amplificans anti-zombie {% hint 'parcival_oracle_audio_about_necromancers_and_ring_amplificans' is provided %}"
+    - "Vidéo de la prophétie de Cassandra pour la pyramide hologramme {% hint 'prophecy_hologram_for_scary_lenticular_painting' is provided %}"
     - "Le code de la mallette administrative noire ({% symbol '625-993' for 'family_briefcase_code' %}) si les joueurs le demandent aux défunts via l'Ankou"
     - "Un des codes du coffret légendaire des Maupertuis, celui de la mère des Maupertuis, pour quand elle sera logiquement interrogée depuis l'au-delà : {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} {% hint 'defunct_isadora_code_for_thanatologue_chest_code' is provided %}"
     - "@BIJOUX Broche de Mérédice, trouvée par les joueurs si le bon éboulement derrière l'atelier d'alchimie est dynamité (envoûtement POSITIF) {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
@@ -425,8 +425,8 @@
   -
     - "@AUDIOVIDEO Mégaphone Bontempi à écho (batterie / microUSB) avec Jack3.5 et Bluetooth (pour l'inventeur) {% hint 'echo_megaphone' is provided %}"
     - "Outils anciens d'ambiance : 3 tournevis, petit marteau, pince spéciale (pour l'inventeur) OK"
-    - "@ELECTRICITE Piles format (cylindre + rectangle) pour lanterne en argent, lampe UV, et détecteur de métal cassés (pour l'inventeur) IMPORTANT {% hint 'random_broken_lantern_battery' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %}"
-    - "Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_bracelet_for_inventor' is provided %} IMPORTANT"
+    - "@ELECTRICITE Piles format (cylindre + rectangle) pour lampe UV ou détecteur de métal cassé (pour l'inventeur) {% hint 'explorer_unveiler_uv_lamp_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %} IMPORTANT"
+    - "Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_silver_white_ribbon_bracelet_for_inventor' is provided %} IMPORTANT"
 
 -
   - "@PERSONNES Matériel des DIACRES"
