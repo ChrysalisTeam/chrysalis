@@ -278,53 +278,53 @@
     - "Pyramide à base carrée en résine epoxy dans le trône en bois {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT"
 
 -
-  - "@CORRIDORS Corridor de Force Vitale (cul-de-sac) [P5]"
+  - "@CORRIDORS Corridor de Force Vitale (cul-de-sac)"
   -
-    - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %} IMPORTANT"
-    - "Coffret cubique en bois peint avec des fruits, FRAGILE, avec VERROU MAGNÉTIQUE OK"
-    - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique IMPORTANT OK"
-    - "Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT OK"
+    - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %} IMPORTANT ?????"
+    - "Coffret cubique en bois peint avec des fruits, FRAGILE, avec VERROU MAGNÉTIQUE"
+    - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique IMPORTANT"
+    - "Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT"
 
 -
-  - "@CORRIDORS Corridor d'Aura Manaïque (cul-de-sac) [P6]"
+  - "@CORRIDORS Corridor d'Aura Manaïque (cul-de-sac)"
   -
-    - "@ENORMES Accès corridor bloqué par une porte en bronze de type 'ULTRA-LOURD"
-    - "SCEAU lumineux éteint, pour déclencher l'initiation dynastique (avec mini-guirlande LED double, 2xCR2032 incluses chacune) IMPORTANT OK"
-    - "Boîtes-gigognes beiges tressées (recouvertes d'un DRAP NOIR) de l'initiation d'Octave IMPORTANT OK"
-    - "@BIJOUX Broche d'Octave dans une des boîtes-gigognes (envoûtement POSITIF) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %} {% hint 'maupertuis_initiation_seal' is provided %} IMPORTANT OK"
-    - "@EXTERNE Note: le collier d'aura manaïque n'était plus dans le corridor depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
+    - "@ENORMES Corridor bloqué par une porte en bronze de type 'ULTRA-LOURD"
+    - "SCEAU lumineux éteint, pour déclencher l'initiation dynastique (avec mini-guirlande LED double, 2xCR2032 incluses chacune) IMPORTANT"
+    - "Boîtes-gigognes beiges tressées (recouvertes d'un DRAP NOIR) de l'initiation d'Octave IMPORTANT"
+    - "@BIJOUX Broche d'Octave dans une des boîtes-gigognes (envoûtement POSITIF) {% hint 'maupertuis_son_jewel_in_nonmetal_tiny_chests' is provided %} {% hint 'maupertuis_initiation_seal' is provided %} IMPORTANT"
+    - "Note: le collier d'aura manaïque n'était plus dans le corridor depuis longtemps, mais dans le tombeau du mage {% hint 'etheric_manaic_aura_necklace' is needed %}"
 
 -
-  - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac) [P7]"
+  - "@CORRIDORS Corridor de Peau de Pierre (cul-de-sac)"
   -
-    - "@EXTERNE Affichette de présence de Rayonnements Ionisants"
-    - "Valisettes ovales rougeâtres imbriquées [un automate doit pouvoir prendre celle intérieure] IMPORTANT OK"
-    - "@EXTERNE La valisette ovale rougeâtre *intérieure* est protégée par un CADENAS CROCHETABLE TRANSPARENT IMPORTANT"
-    - "@BIJOUX {% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT OK"
-    - "@BIJOUX Pyramide à base triangulaire en résine epoxy {% hint 'spiritual_orb_key_triangle_base_pyramid' is provided %} IMPORTANT OK"
+    - "@PAPIERS Affichette de présence de Rayonnements Ionisants"
+    - "Valisettes ovales rougeâtres imbriquées [un automate doit pouvoir prendre celle intérieure] IMPORTANT"
+    - "@CADENAS La valisette ovale rougeâtre *intérieure* est protégée par un CADENAS CROCHETABLE TRANSPARENT IMPORTANT"
+    - "1 grand miroir rectangulaire collé dans le fond de la petite valisette ovale rougeâtre"
+    - "{% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"
+    - "Pyramide à base triangulaire en résine epoxy {% hint 'spiritual_orb_key_triangle_base_pyramid' is provided %} IMPORTANT"
     - "@POTIONS Potion de Fungal Bleu {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %} IMPORTANT"
-    - "@POTIONS Lots de X potions sans importance: YYY, ZZZ etc."
-    - "1 grand miroir rectangulaire pour le fond de la petite valisette ovale rougeâtre"
+    - "@POTIONS Lot de plusieurs potions sans importance: YYY, ZZZ etc."
 
 -
-  - "@NICHE Niche de la Bête [P1]"
+  - "@NICHE Niche de la Bête"
   -
-    - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton dans une boîte en bois avec symbole d'ancre {% hint 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT OK ???? REQUIRES ENCHANTEMENT"
-    - "Portefeuille vert du voleur, avec microtextes donnant le code du cryptex, formule chiffrée de l'astrolabe, et papier avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme (donnant le code d'Isadora pour le coffre légendaire) {% hint 'thief_paper_with_cryptex_code_as_microtext' is provided %} {% hint 'thief_teleportation_device_encrypted_formula' is provided %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT OK"
-    - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
-    - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'lost_thief_moneybox' is provided %} (envoûtement POSITIF), sous forme d'une quêteuse rouge de magicien IMPORTANT OK"
-    - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword_stolen_by_thief' is provided %} OK marqué ULTRA-LOURD IMPORTANT MANQUE CODE"
-    - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE) IMPORTANT OK"
-    - "@JUNGLE Lianes et feuilles géantes pour la niche de la Bête"
-    - "@GENERAL CIGALE pour le mini-coffret en bois marron foncé noueux"
-    - "Mini-lanterne noire à bougie avec vitre mauve OK"
-    - "Boite en forme de dé 6 faces, en bois et cuir marron OK"
-    - "Piège à fil+grelots à hauteur de cheville et de tête {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %}"
+    - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton dans une boîte en bois avec symbole d'ancre (envoûtement POSITIF) {% hint 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT"
+    - "Portefeuille vert du voleur, avec microtextes donnant le code du cryptex, formule chiffrée de l'astrolabe, et papier avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme (donnant le code d'Isadora pour le coffre légendaire) {% hint 'thief_paper_with_cryptex_code_as_microtext' is provided %} {% hint 'thief_teleportation_device_encrypted_formula' is provided %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT"
+    - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement complexe NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
+    - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'lost_thief_moneybox' is provided %} (envoûtement POSITIF) marquée ULTRA-LOURDE IMPORTANT"
+    - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword_stolen_by_thief' is provided %} avec code d'analyse [{% symbol 'xep' for 'analysis_code_arkon_gladius' %}] marqué ULTRA-LOURD IMPORTANT"
+    - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE) IMPORTANT ???CHANGER EN COMPLEXE NEGATIF?????"
+    - "@JUNGLE Quelques lianes et feuilles géantes pour la niche de la Bête"
+    - "@ELECTRONIQUE CIGALE pour le mini-coffret en bois marron foncé noueux"
+    - "Mini-lanterne noire à bougie avec vitre mauve"
+    - "Boite en forme de dé 6 faces, en bois et cuir marron"
+    - "@GENERAL Piège à fil+grelots à hauteur de cheville et de tête {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %}"
 
 # DIVERS AUTRES #
 
 -
-  - "@RICHESSES Richesses totales à collecter"
+  - "@RICHESSES Richesses totales à collecter ??????"
   -
     - "40 pièces normales (= 40 kashes)"
     - "6 pièces d'or (= 60 kashes)"
@@ -336,7 +336,7 @@
     - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
 
 -
-  - "@RICHESSES Localisation de ces richesses diverses à collecter (570 kashes en jeu)"
+  - "@RICHESSES Localisation de ces richesses diverses à collecter (???570 kashes en jeu)"
   -
     - "Placer : 140 kashes répartis entre les coffres et emplacements dans l'étage autorisé"
     - "Placer : 140 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors dans l'étage interdit"
