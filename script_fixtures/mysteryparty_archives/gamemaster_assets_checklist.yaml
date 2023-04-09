@@ -147,28 +147,28 @@
   -
     - "@CADENAS Sur le coffret, un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %} IMPORTANT"
     - "@ELECTRONIQUE Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF) IMPORTANT ???"
-    - "Réserve de 9 galets phosphorescents étalés {% hint 'beast_snack_as_moon_stones' is provided %} IMPORTANT"
+    - "Réserve de 9 galets phosphorescents étalés depuis une bourse mauve {% hint 'beast_snack_as_moon_stones' is provided %} IMPORTANT"
     - "Plume de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %} IMPORTANT"
     - "Décorations : boite cylindrique en cuir noir contenant peigne-perroquet, loupe, pipe métallique"
     - "Décorations : mini-jumelles dans étui velours violet, miroir ovale décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol"
     - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc"
     - "Décoration : mini-choppe en verre, petite cruche en laiton"
-    - "@AUDIOVIDEO ???????TODO Smartphone avec application android \"Beacon Locator\" par Samebits (logo orange) pour trouver les balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %} ???"
+    - "@ELECTRONIQUE ???????TODO Smartphone avec application android \"Beacon Locator\" par Samebits (logo orange) pour trouver les balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
 
 -
   - "@CIMETIERE Cimetière [L4]"
   -
     - "3 pierres tombales noires avec code d'analyse [{% symbol 'ltx' for 'analysis_code_three_tombs' %}] IMPORTANT OK"
-    - "Livret à couverture marron avec dragon doré pour la Tombe 1"
-    - "@PARCHEMINS Tombe 1 : Journal intime d'Octave à peine entamé, évoquant juste sa nouvelle qui commence 'dehors' {% hint 'octave_private_diary_on_his_tomb' is provided %} IMPORTANT"
-    - "@BIJOUX Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF) IMPORTANT OK"
 
-    - "@GENERAL Tombe 2 : CLEF de l'archiviste (pour le coffre marron) {% hint 'archivist_key' is provided %} IMPORTANT"
+    - "Tombe 1 : Chemise à papier A4 beige avec le journal intime d'Octave à peine entamé {% hint 'octave_private_diary_on_his_tomb' is provided %} IMPORTANT"
+    - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF) IMPORTANT OK"
+
+    - "@GENERAL Tombe 2 : CLEF de l'archiviste (pour le coffre familial marron) {% hint 'archivist_key' is provided %} IMPORTANT"
 
     - "Tombe 3 : Squelette de 28 os (SANS crâne) de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %} (envoûtement POSITIF) IMPORTANT"
-    - "@EXTERNE Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %} (code d'envoûtement POSITIF [{% symbol 'bst' for 'magic_code_etheric_benediction_necklace' %}]) marquée ULTRA-LOURDE IMPORTANT"
+    - "@ENORMES Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %} (code d'envoûtement POSITIF [{% symbol 'bst' for 'magic_code_etheric_benediction_necklace' %}]) marquée ULTRA-LOURDE IMPORTANT"
 
-    - "@AUDIOVIDEO Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)"
+    - "Mini-enceinte cubique Auvisio récente PX-1564 noire (batterie moyenne autonomie)"
 
 -
   - "@TOMBEAU Galerie de portraits des Maupertuis [L8]"
