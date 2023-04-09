@@ -150,6 +150,8 @@
     - "Gourde large peu haute en cuivre OK"
     - "Projecteur ovale sonore LuckyStone (microUSB sans batterie) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) pour les ORACLES"
     - "@AUDIOVIDEO Lecteur audio CarWirelessAudioAdapter noir pour l'enceinte LuckyStone (avec les musiques des prophéties, pour la duchesse)"
+    - "Lanterne noire sale en métal (non fonctionnelle) OK"
+
 -
   - "@MALLETTES Mallette administrative noire des Maupertuis [L5]"
   -
@@ -188,7 +190,6 @@
     - "@EXTERNE Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %} (code d'envoûtement POSITIF [{% symbol 'bst' for 'magic_code_etheric_benediction_necklace' %}]) marquée ULTRA-LOURDE IMPORTANT"
 
     - "@AUDIOVIDEO Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)"
-    - "Lanterne rectangulaire en laiton à vitre rouge"
 
 -
   - "@TOMBEAU Galerie de portraits des Maupertuis [L8]"
@@ -287,6 +288,7 @@
     - "@BIJOUX Gemme d'Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %} IMPORTANT"
     - "@AUDIOVIDEO Enceinte MuziliSpeaker à ramener depuis la mini-jungle après ouverture de l'étage interdit"
     - "Deux livres beiges épais \"Itinéraire de la France\""
+    - "Lanterne rectangulaire en laiton à vitre rouge (avec optionnellement diode LED dedans)"
 
 -
   - "@DIVINATION Laboratoire de divination [P4]"
@@ -342,7 +344,6 @@
     - "@GENERAL CIGALE pour le mini-coffret en bois marron foncé noueux"
     - "Mini-lanterne noire à bougie avec vitre mauve OK"
     - "Boite en forme de dé 6 faces, en bois et cuir marron OK"
-    - "Lanterne noire sale (non fonctionnelle) OK"
     - "Piège à fil+grelots à hauteur de cheville et de tête {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %}"
 
 # DIVERS AUTRES #
