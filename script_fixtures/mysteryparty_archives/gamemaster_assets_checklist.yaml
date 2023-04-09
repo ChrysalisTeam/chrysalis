@@ -36,7 +36,7 @@
   - "@OBJETS-DISSEMINES Indices cachés et objets disséminés IMPORTANT"
   -
     - "I1 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
-    - "@AUDIOVIDEO Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse pour le Venture Prins"
+    - "@ELECTRONIQUE Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse pour le Venture Prins ???"
     - "I2 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (exigeant les 3 autres Recettes), marqué au sol avec UV {% hint 'recipe_rejuvenation_cocktail' is provided %}"
     - "I3 - Livre fin HACHETTE avec Recette de l'Elixir Flexifiant, marqué au sol avec UV {% hint 'recipe_flex_elixir' is provided %}"
     - "I4 - Livre fin HACHETTE avec Recette de la Lotion de Clairvoyance, marqué au sol avec UV {% hint 'recipe_clarity_lotion' is provided %}"
@@ -92,32 +92,32 @@
     - "@ENORMES Mini-meuble boîte-aux-lettres en bois à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT"
     - "@PAPIERS Deux lettres aux parents Maupertuis à placer dans le mini-meuble en bois IMPORTANT {% hint 'two_letters_for_maupertuis_parents_in_postbox' is provided %}"
     - "Projecteur globe Aurore Boréale Lunartec (secteur/12V) pour l'arkonte"
-    - "@AUDIOVIDEO Mini-lecteur MP3 clip argenté (batterie faible) avec écouteurs (+ batterie miniUSB solaire ClipSonic)"
+    - "Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie)"
 
 -
-  - "@RECOINS Coin du fantôme de l’enfant (près de la jungle) [F2] {% fact 'phantom_octave_is_near_jungle' %}"
+  - "@RECOINS Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
   -
     - "@EXTERNE Valise avec quelques vieux vêtements aléatoires (bien enlever l'étiquette FABRE de dedans)"
-    - "Livre déchiré avec des animaux en mouvement pour le coin de l'enfant {% hint 'torn_child_book_with_animal_motions' is provided %} IMPORTANT OK"
+    - "Livre déchiré avec des animaux en mouvement pour le coin de l'enfant {% hint 'torn_child_book_with_animal_motions' is provided %} IMPORTANT"
+    - "@PAPIERS Lettre des parents d'Octave avec des instructions pour son adoubement IMPORTANT"
     - "Livre jeunesse avec couverture cuir cloutée \"Extraterrestre appelle CM1\""
-    - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 pour l'enfant OK"
-    - "@AUDIOVIDEO Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse"
-    - "@PARCHEMINS Lettre des parents d'Octave avec des instructions pour son adoubement ???"
-    - "2 livres anciens beige/marbré dans la valise de l'enfant OK"
-    - "2 bandes dessinées anciennes 'Gédéon' OK"
-    - "Livre factice rouge (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} ???"
+    - "2 livres anciens beige/marbré dans la valise de l'enfant"
+    - "2 bandes dessinées anciennes 'Gédéon'"
+    - "Livre factice rouge (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} IMPORTANT"
+    - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 pour l'enfant"
+    - "Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse"
 
 -
-  - "@VALISE-ROUGE Coin du fantôme de l’archiviste [F1] OK"
+  - "@VALISE-ROUGE Coin du fantôme de l’archiviste"
   -
-    - "Livre factice bleu à code {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %} (contient la CLEF du livre factice rouge et quelques pierreries) IMPORTANT OK"
+    - "Livre factice bleu à code {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %} (contient la CLEF du livre factice rouge et quelques pierreries) IMPORTANT"
     - "2 chalumeaux anciens"
     - "2 grands tournevis anciens"
-    - "Boite à secrets en bois léger (fragile) caché près des chalumeaux, avec trésor d'Octave dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %} IMPORTANT NOPE"
-    - "@GENERAL Jarre lumineuse NewYang (batterie solaire incluse)"
+    - "Boite à secrets en bois léger (fragile) cachée près des chalumeaux, avec trésor d'Octave dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %} IMPORTANT"
+    - "@DECORATIONS Jarre lumineuse NewYang (batterie solaire incluse)"
 
 -
-  - "@VALISE-ROUGE Valise rouge près de l'archiviste {% hint 'miscellaneous_valuable_objects_gathered_by_archivist' is provided %} OK"
+  - "@VALISE-ROUGE Valise rouge près de l'archiviste {% hint 'miscellaneous_valuable_objects_gathered_by_archivist' is provided %}"
   -
     - "Lampe multicolore à angelot en cuivre"
     - "Chauffe-lit à manche en cuivre"
@@ -126,41 +126,34 @@
     - "Micro-meuble vernis à tiroirs pour bijoux"
 
 -
-  - "@JUNGLE Mini-jungle du druide [L6]"
+  - "@JUNGLE Mini-jungle du druide"
   -
-    - "Crâne empoisonné de l'arkonte caché entre les pots{% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %} IMPORTANT OK A AMELIORER"
+    - "Crâne empoisonné de l'arkonte caché entre les pots{% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %} IMPORTANT"
     - "Lianes et feuilles géantes pour la mini-jungle"
     - "@ENORMES Emballages bruns pour faire la 'terre' de la jungle"
-    - "@EXTERNE 1 Guirlande lumineuse avec lierre vert 2m (2xAA) INAMOVIBLE"
-    - "@AUDIOVIDEO Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)????"
-    - "Gourde large peu haute en cuivre OK"
-    - "Projecteur ovale sonore LuckyStone (microUSB sans batterie) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01 et télécommande (2xAAA) pour les ORACLES"
-    - "@AUDIOVIDEO Lecteur audio CarWirelessAudioAdapter noir pour l'enceinte LuckyStone (avec les musiques des prophéties, pour la duchesse)"
-    - "Lanterne noire sale en métal (non fonctionnelle) OK"
-
+    - "Gourde large peu haute en cuivre"
+    - "Lanterne noire sale en métal (non fonctionnelle)"
+    - "Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)????"
 -
   - "@MALLETTES Mallette administrative noire des Maupertuis [L5]"
   -
     - "Sur la mallette administrative noire, code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %} IMPORTANT"
     - "Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %} IMPORTANT"
-    - "Classeur vert-foncé CLIVRA, avec message UV indiquant qu'il n'est PAS le Thanatologue"
-    - "@EXTERNE Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %}"
-    - "@GENERAL CIGALE pour le mini-coffret en bois rouge&or"
+    - "Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %} ????"
+    - "@ELECTRONIQUE Mécanisme de CIGALE pour le mini-coffret en bois rouge&or (nécessite 2xAAA)"
 
 -
-  - "@COFFRE-MARRON Coffre familial commun en bois marron des Maupertuis [L5]"
+  - "@COFFRE-MARRON Coffre familial commun en bois marron des Maupertui"
   -
-    - "@GENERAL Sur le coffret, un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %} IMPORTANT"
-    - "@AUDIOVIDEO Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF) IMPORTANT"
-    - "@AUDIOVIDEO Mini-lecteur MP3 désossé (batterie 3.7V attachée) pour la boîte à murmures IMPORTANT"
-    - "@GENERAL Petite réserve de galets phosphorescents {% hint 'beast_snack_as_moon_stones' is provided %} IMPORTANT"
+    - "@CADENAS Sur le coffret, un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %} IMPORTANT"
+    - "@ELECTRONIQUE Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF) IMPORTANT ???"
+    - "Réserve de 9 galets phosphorescents étalés {% hint 'beast_snack_as_moon_stones' is provided %} IMPORTANT"
+    - "Plume de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %} IMPORTANT"
+    - "Décorations : boite cylindrique en cuir noir contenant peigne-perroquet, loupe, pipe métallique"
+    - "Décorations : mini-jumelles dans étui velours violet, miroir ovale décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol"
+    - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc"
+    - "Décoration : mini-choppe en verre, petite cruche en laiton"
     - "@AUDIOVIDEO ???????TODO Smartphone avec application android \"Beacon Locator\" par Samebits (logo orange) pour trouver les balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %} ???"
-    - "@GENERAL Plume de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %} IMPORTANT"
-    - "Décorations : boite cylindrique en cuir noir contenant peigne-perroquet, loupe, pipe métallique OK"
-    - "Décorations : mini-jumelles dans étui velours violet, miroir ovale décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol OK"
-    - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc OK"
-    - "Décoration : mini-choppe en verre, petite cruche en laiton OK"
-    - "2 grands tissus-nappes noirs OK"
 
 -
   - "@CIMETIERE Cimetière [L4]"
@@ -325,7 +318,6 @@
     - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'lost_thief_moneybox' is provided %} (envoûtement POSITIF), sous forme d'une quêteuse rouge de magicien IMPORTANT OK"
     - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword_stolen_by_thief' is provided %} OK marqué ULTRA-LOURD IMPORTANT MANQUE CODE"
     - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE) IMPORTANT OK"
-    - "@AUDIOVIDEO Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie + batterie miniUSB SIXTHGU)"
     - "@JUNGLE Lianes et feuilles géantes pour la niche de la Bête"
     - "@GENERAL CIGALE pour le mini-coffret en bois marron foncé noueux"
     - "Mini-lanterne noire à bougie avec vitre mauve OK"

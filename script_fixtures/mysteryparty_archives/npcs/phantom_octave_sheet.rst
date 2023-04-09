@@ -72,7 +72,7 @@ L'archiviste vous a indiqué qu'il avait retrouvé, et bien classé, certaines v
 
 Si l'on vous parle du **trésor des Maupertuis**, vous savez que la famille disposait d'un artefact générateur de richesses, dans le domaine interdit. Le code magique pour l'utiliser change chaque jour, vous a-t-on dit. {% fact "treasure_code_changes_magically" %}
 
-Lors de vos derniers préparatifs, vous aviez commencé à rassembler dans votre sac de voyage **un peu d'argent**, du moins celui qui n'avait pas été espièglement caché par votre soeur avant le drame. Si ce sac de voyage n'est plus trouvable, c'est soit que quelqu'un l'a volé, soit simplement qu'il a été enseveli sous un des **éboulis** survenus depuis. {% hint 'travel_bag_with_money_under_far_rubbles' is needed %} {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
+Lors de vos derniers préparatifs, vous aviez commencé à rassembler dans votre sac de voyage **un peu d'argent**, du moins celui qui n'avait pas été espièglement caché par votre soeur avant le sac du manoir des Maupertuis. Si ce sac de voyage n'est plus trouvable, c'est soit que quelqu'un l'a volé, soit simplement qu'il a été enseveli sous un des **éboulis** survenus depuis, vous ne savez pas où. {% hint 'travel_bag_with_money_under_far_rubbles' is needed %} {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
 
 Vous aviez aussi commencé un journal intime, au moment du départ, juste avant votre mort. {% hint 'octave_private_diary_on_his_tomb' is needed %}
 
