@@ -15,6 +15,7 @@
     - "L6 - Coffre familial des Maupertuis"
     - "L7 - Jungle de grandes plantes en pot"
     - "L8 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
+    - "L9 - Galerie de portraits des Maupertuis (près du tombeau du mage)"
 
     - "P1 - Niche de la Bête"
     - "P2 - Coffre légendaire des Maupertuis"
@@ -143,7 +144,7 @@
     - "@ELECTRONIQUE Mécanisme de CIGALE pour le mini-coffret en bois rouge&or (nécessite 2xAAA)"
 
 -
-  - "@COFFRE-MARRON Coffre familial commun en bois marron des Maupertui"
+  - "@COFFRE-MARRON Coffre familial commun en bois marron des Maupertuis"
   -
     - "@CADENAS Sur le coffret, un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %} IMPORTANT"
     - "@ELECTRONIQUE Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF) IMPORTANT ???"
@@ -156,12 +157,12 @@
     - "@ELECTRONIQUE ???????TODO Smartphone avec application android \"Beacon Locator\" par Samebits (logo orange) pour trouver les balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
 
 -
-  - "@CIMETIERE Cimetière [L4]"
+  - "@CIMETIERE Cimetière"
   -
     - "3 pierres tombales noires avec code d'analyse [{% symbol 'ltx' for 'analysis_code_three_tombs' %}] IMPORTANT OK"
 
     - "Tombe 1 : Chemise à papier A4 beige avec le journal intime d'Octave à peine entamé {% hint 'octave_private_diary_on_his_tomb' is provided %} IMPORTANT"
-    - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF) IMPORTANT OK"
+    - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF) IMPORTANT"
 
     - "@GENERAL Tombe 2 : CLEF de l'archiviste (pour le coffre familial marron) {% hint 'archivist_key' is provided %} IMPORTANT"
 
@@ -171,29 +172,29 @@
     - "Mini-enceinte cubique Auvisio récente PX-1564 noire (batterie moyenne autonomie)"
 
 -
-  - "@TOMBEAU Galerie de portraits des Maupertuis [L8]"
+  - "@TOMBEAU Galerie de portraits des Maupertuis"
   -
+    - "Cadre de remerciement (en message magnétique + message UV) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_and_uv_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %} IMPORTANT"
+    - "@GENERAL Plume de prophétie sur le cadre de remerciement à stéréogramme {% hint 'feather_on_stereogram_board' is provided %} IMPORTANT"
     - "Portrait du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} avec optionnellement message UV : \"Il a vécu par les ethers, les amplificans, et les grimoires maudits, mais il est mort par un simple fruit.\""
     - "Portrait du père des Maupertuis (Quirinius) avec optionnellement message UV : \"Si oubli, penser Venture Prins !\""
     - "Portrait de la mère des Maupertuis (Isadora) avec optionnellement message UV : \"Rien qui m'appartienne Sinon la paix du coeur Et la fraîcheur de l'air\""
     - "Portrait de la fille des Maupertuis (Mérédice) avec optionnellement message UV : \"Adieu soeurette, qui mourra verra (signé Octave)\""
     - "Portrait du fils des Maupertuis (Octave) avec optionnellement message UV : \"Tu ne retrouveras jamais tes sousous, frérot ! (signé Mérédice)\""
-    - "Cadre de remerciement (en message magnétique + message UV) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_and_uv_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %}"
-    - "@GENERAL Plume de prophétie sur le cadre de remerciement à stéréogramme {% hint 'feather_on_stereogram_board' is provided %}"
 
 -
-  - "@TOMBEAU Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} [L7]"
+  - "@TOMBEAU Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
   -
     - "@PARCHEMINS Code d'envoûtement légendaire NEGATIF [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] sur l'affichette de la porte du tombeau IMPORTANT"
     - "@PARCHEMINS MESSAGE RUNIQUE 'Seul le sang des Maupertuis passera sans encombre' sur la porte du tombeau {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %} IMPORTANT"
+    - "@BIJOUX {% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}]) IMPORTANT"
+    - "@BIJOUX {% symbol 'Bague Amplificans' for 'ring_amplificans_name' %} (code d'envoûtement POSITIF [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} IMPORTANT"
     - "Blason emblème plastique du mage avec dragon doré {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
     - "1 pierre tombale verte"
     - "3 grosses bougies (nécessite 3xAAA chacune)"
     - "Aube de pape dorée"
     - "Masque 'anonymous' doré devant le crâne"
     - "Calotte/tiare noir&or"
-    - "@BIJOUX {% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}]) IMPORTANT"
-    - "@BIJOUX {% symbol 'Bague Amplificans' for 'ring_amplificans_name' %} (code d'envoûtement POSITIF [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} IMPORTANT"
     - "Projecteur LED Blanche RX-7732 (nécessite 4xAA)"
 
 
