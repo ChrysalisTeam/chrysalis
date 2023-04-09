@@ -1,12 +1,9 @@
 
-
-### Vero reparera bracelet doré ayant perdu pierre  DOOOONE!!!
-
 -
   - "@PLAN-DES-LIEUX Emplacements décorés voire illuminés aux 2 étages IMPORTANT"
   -
     - "F1 - Coin du fantôme de l’archiviste, et valise rouge"
-    - "F2 - Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
+    - "F2 - Coin du fantôme de l’enfant, et valise marron (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
     - "F3 - Coin du fantôme de l’arkonte"
     - "F4 - Coin du fantôme du voleur"
 
@@ -15,9 +12,9 @@
     - "L3 - Barrières magiques devant les escaliers du domaine interdit"
     - "L4 - Cimetière (tombes de l’enfant, de l’archiviste et de l’arkonte)"
     - "L5 - Mallette administrative noire des Maupertuis"
-    - "L6 - Mini-jungle de grandes plantes en pot"
-    - "L7 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
-    - "L8 - Galerie de portraits des Maupertuis"
+    - "L6 - Coffre familial des Maupertuis"
+    - "L7 - Jungle de grandes plantes en pot"
+    - "L8 - Tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}"
 
     - "P1 - Niche de la Bête"
     - "P2 - Coffre légendaire des Maupertuis"
@@ -29,83 +26,72 @@
     - "P8 - Corridor de Peau de Pierre"
 
     - "E1, E2, E3, E4, E5 - Zones d'éboulements réparties sur les 2 étages"
-    - "Jetons en métal dans l'éboulis E5 derrière le laboratoire d'alchimie {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
     - "Jetons en métal dans l'éboulis E2 du coin le plus loin du buffet {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
+    - "Jetons en métal dans l'éboulis E5 derrière le laboratoire d'alchimie {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
 
     - "Etiquettes des étagères de l'étage autorisé, montrant les sections zoologie/gastronomie {% hint 'authorized_zone_labels_showing_zoology_and_cooking_shelves' is provided %}"
     - "Etiquettes (optionnelles) des étagères du domaine interdit, désignant celle des teintures {% hint 'forbidden_zone_optional_labels_showing_tincture_shelf' is provided %}"
 
-
 -
   - "@OBJETS-DISSEMINES Indices cachés et objets disséminés IMPORTANT"
   -
-
-    - "@BIJOUX Broche du père Maupertuis pour le livre factice rouge (envoûtement POSITIF)"
-    - "I3 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF) OK"
+    - "I1 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
     - "@AUDIOVIDEO Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse pour le Venture Prins"
-    - "I4 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (avec balise Bluetooth à 1 pile CR2032, exigeant les 3 autres potions) {% hint 'recipe_rejuvenation_cocktail' is provided %} WIP"
-    - "I5 - Livre fin HACHETTE avec Recette de l'Elixir Flexifiant (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_flex_elixir' is provided %}"
-    - "I6 - Livre fin HACHETTE avec Recette de la Lotion de Clairvoyance (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_clarity_lotion' is provided %}"
-    - "I7 - Livre luxe pourpre :  Tome 3 du roman du druide entre les étagères de zoologie et de gastronomie (+1 livre luxe pourpre en secours) {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %} WIP"
-    - "@POTIONS I8 - Potion de tentacule de poulpe Polypus Fluidum {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} mise en évidence"
+    - "I2 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (exigeant les 3 autres Recettes), marqué au sol avec UV {% hint 'recipe_rejuvenation_cocktail' is provided %}"
+    - "I3 - Livre fin HACHETTE avec Recette de l'Elixir Flexifiant, marqué au sol avec UV {% hint 'recipe_flex_elixir' is provided %}"
+    - "I4 - Livre fin HACHETTE avec Recette de la Lotion de Clairvoyance, marqué au sol avec UV {% hint 'recipe_clarity_lotion' is provided %}"
+    - "I5 - Livre luxe pourpre du Tome 3 du roman du druide entre les sections de Zoologie et de Gastronomie {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
 
-    - "J1 - NOTHING"
-    - "J2 - Livre fin HACHETTE avec Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
+    - "I2 - Livre fin HACHETTE avec Recette de la Teinture Pyrolitis (avec balise Bluetooth à 1 pile CR2032) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
-    - "6 grosses bougies LED (nécessite 3xAAA chacune) à disséminer dans l'étage autorisé OK"
-    - "2 lanternes en faux-bronze \"Flame Vintage\" (3xAA incluses chacune)"
-    - "1 petit casier en métal noir avec 1 étagère dedans"
-    - "6 étendards carrés en tissu orange avec symboles peints"
-    - "Nappe couleur ocre 2x2m"
-    - "Nappe blanche à frange bleue 1.5x1.5m"
-
-    - "Boite noire plate à motifs avec antivols magnétiques <WHAT-FOR?> OK"
-    - "Boite carton à couverture marron avec antivols magnétiques <WHAT-FOR?> OK"
-
-    - "2 gros grimoires (1 rouge et 1 vert-gris foncé) creusés pour accueillir tablette/papiers"
+    - "@DECORATIONS 6 grosses bougies LED (nécessite 3xAAA chacune) à disséminer"
+    - "@DECORATIONS 2 lanternes en faux-bronze \"Flame Vintage\" (3xAA incluses chacune) à disséminer"
+    - "@DECORATIONS 1 petit casier en métal noir avec 1 étagère dedans"
+    - "@DECORATIONS 6 étendards carrés en tissu orange avec symboles peints"
 
 
 # ETAGE AUTORISÉ #
 
 -
-  - "@GENERAL Barrières magiques en cordelette devant les escaliers du domaine interdit [L3]"
+  - "@RECOINS Barrière magique en cordelette devant les escaliers du domaine interdit"
   -
     - "Obstacle en cordelette bloquant les escaliers (code d'envoûtement NEGATIF [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}]) IMPORTANT"
     - "SCEAU lumineux éteint (1 mini-guirlande LED 1xAAA incluse) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %} IMPORTANT"
-    - "Projecteur directionnel en haut des escaliers?"
+    - "@EXTERNE Gros projecteur directionnel en haut des escaliers, optionnellement"
 
 -
-  - "@BUFFET Buffet d'outre-monde [L1]"
+  - "@BUFFET Buffet d'outremonde"
   -
-    - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}]) IMPORTANT OK"
-    - "@EXTERNE Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %} IMPORTANT"
-    - "Lampe à fibres Blue ice Lunartec (3xAAA) OK"
     - "@ENORMES Gramophone (alimentation: 12V)"
-    - "4 bougies LED soufflables (1xCR2032 incluse chacune) OK"
-    - "2 bougies sur chandelier (nécessite 2xAA chacun) ???"
-    - "Petit plateau de service rectangulaire en bois doré OK"
-    - "2 nappes blanche nacrées, 1 nappe pourpre brillante, et 1 chemin de table brodé blanc cassé OK"
-    - "Petite sphère armillaire en laiton sur pied en bois OK"
-    - "Globe à LED Atmosphera (2xAAA) OK"
-    - "Grande bouteille verte de Champagne Lafitte OK"
-    - "Petit instrument combiné horloge et baromètre en métal OK"
+    - "@EXTERNE Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %} IMPORTANT"
+    - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}]) IMPORTANT"
+    - "Lampe à fibres Blue ice Lunartec (3xAAA incluses)"
+    - "4 bougies LED soufflables (1xCR2032 incluse chacune)"
+    - "2 bougies sur chandelier (nécessite 2xAA chacune)"
+    - "Petit plateau de service rectangulaire en bois doré"
+    - "2 nappes blanche nacrées, et 1 chemin de table brodé blanc cassé"
+    - "Petite sphère armillaire en laiton sur pied en bois"
+    - "Globe à LED Atmosphera (nécessite 2xAAA)"
+    - "Grande bouteille verte de Champagne 'Lafitte'"
+    - "Instrument combiné horloge+baromètre en métal"
     - "@EXTERNE Station web sur PC (avec écran steampunk si possible) {% hint 'hint_website_device' is provided %}"
 
 -
-  - "@RECOINS Pentacle du rituel inachevé de l’arkonte [L2]"
+  - "@RECOINS Pentacle du rituel inachevé de l’arkonte"
   -
     - "2 Livres luxe pourpre : Tomes 1&2 du roman du druide sur le pentacle IMPORTANT"
     - "Livre bleu à tranche rouge : Tome unique du roman de la duchesse sur le pentacle IMPORTANT"
     - "Livre marron tacheté : Tome unique du roman de l'inventeur sur le pentacle IMPORTANT"
-    - "@EXTERNE 1 LONGUE Guirlande de Noël multicolore réglable @Pascal IMPORTANT"
-    - "@AUDIOVIDEO 10 cylindres LEDs Kitosun (nécessite 2xCR2450 chacune) + télécommande"
-    - "4 néons LED Black Light (USB) près du pentacle ????"
+    - "1 LONGUE Guirlande de Noël multicolore réglable en forme de pentacle (alimentation secteur) IMPORTANT"
+    - "10 cylindres LEDs Kitosun (nécessite 2xCR2450 chacun inclus) avec télécommande"
+    - "@DECORATIONS 4 néons LED Black Light (alimentation USB) éclairant le pentacle"
 
 -
-  - "@RECOINS Coin du fantôme de l’arkonte [F3]"
+  - "@RECOINS Coin du fantôme de l’arkonte "
   -
-    - "@ENORMES Mini-meuble boîte-aux-lettres à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT, avec dedans les 2 lettres aux parents Maupertuis (sur risques des avatars et des artefacts maudits) IMPORTANT {% hint 'two_letters_for_maupertuis_parents_in_postbox' is provided %}"
-    - "Projecteur globe Aurore Boréale Lunartec (secteur/12V) pour l'arkonte OK"
+    - "@ENORMES Mini-meuble boîte-aux-lettres en bois à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT"
+    - "@PAPIERS Deux lettres aux parents Maupertuis à placer dans le mini-meuble en bois IMPORTANT {% hint 'two_letters_for_maupertuis_parents_in_postbox' is provided %}"
+    - "Projecteur globe Aurore Boréale Lunartec (secteur/12V) pour l'arkonte"
     - "@AUDIOVIDEO Mini-lecteur MP3 clip argenté (batterie faible) avec écouteurs (+ batterie miniUSB solaire ClipSonic)"
 
 -
