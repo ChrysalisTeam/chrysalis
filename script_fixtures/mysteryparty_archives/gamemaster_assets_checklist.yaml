@@ -187,8 +187,8 @@
   -
     - "@PARCHEMINS Code d'envoûtement légendaire NEGATIF [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] sur l'affichette de la porte du tombeau IMPORTANT"
     - "@PARCHEMINS MESSAGE RUNIQUE 'Seul le sang des Maupertuis passera sans encombre' sur la porte du tombeau {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %} IMPORTANT"
-    - "@BIJOUX {% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}]) IMPORTANT"
-    - "@BIJOUX {% symbol 'Bague Amplificans' for 'ring_amplificans_name' %} (code d'envoûtement POSITIF [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} IMPORTANT"
+    - "{% symbol 'Collier éthérique d\\'aura manaïque' for 'etheric_manaic_aura_necklace_name' %} doré à pendentif de quartz {% hint 'etheric_manaic_aura_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}]) IMPORTANT"
+    - "{% symbol 'Bague Amplificans' for 'ring_amplificans_name' %} (code d'envoûtement POSITIF [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} IMPORTANT"
     - "Blason emblème plastique du mage avec dragon doré {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
     - "1 pierre tombale verte"
     - "3 grosses bougies (nécessite 3xAAA chacune)"
@@ -282,7 +282,7 @@
   -
     - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %} IMPORTANT ?????"
     - "Coffret cubique en bois peint avec des fruits, FRAGILE, avec VERROU MAGNÉTIQUE"
-    - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique IMPORTANT"
+    - "@BIJOUX {% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} en perles de bois {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique IMPORTANT"
     - "Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT"
 
 -
@@ -302,7 +302,7 @@
     - "Valisettes ovales rougeâtres imbriquées [un automate doit pouvoir prendre celle intérieure] IMPORTANT"
     - "@CADENAS La valisette ovale rougeâtre *intérieure* est protégée par un CADENAS CROCHETABLE TRANSPARENT IMPORTANT"
     - "1 grand miroir rectangulaire collé dans le fond de la petite valisette ovale rougeâtre"
-    - "{% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"
+    - "{% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} en perles plates bleues {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"
     - "Pyramide à base triangulaire en résine epoxy {% hint 'spiritual_orb_key_triangle_base_pyramid' is provided %} IMPORTANT"
     - "@POTIONS Potion de Fungal Bleu {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %} IMPORTANT"
     - "@POTIONS Lot de plusieurs potions sans importance: YYY, ZZZ etc."
