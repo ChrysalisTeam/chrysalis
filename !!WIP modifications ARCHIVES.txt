@@ -34,7 +34,7 @@ INSTALLATION DU DECOR :
 
 RELECTURES
 - Re-vérifier que les feuilles d'octave sont BIGENRES
-- Révérifier queles fantomes "incarnés" sont SANS DANGER
+- Révérifier que les fantomes "incarnés" sont SANS DANGER
 - TESTER LES RUNES dont cryptex_rune sur le portail web
 - Repasser en revue les codes d'analyse et leur contenu
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
