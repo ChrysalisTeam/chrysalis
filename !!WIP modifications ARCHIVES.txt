@@ -3,6 +3,66 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
+
+CRAFTING RESTANT
+- Faire un écriteau pour le voleur
+- Ajouter les marquages des 4 "clés epoxy" sur le plateau de l'orbe spirituel
+-METTRE odeurs
+
+Voleur veut récupérer affaires volées
+
+Faire pause révision durant jeu pour AVATARS
+
+Mettre plume aussi sur fontaine encens et portraits effrayants !!!
+
+Dire aux joueursd'accourirs si musique discours
+
+Parler des labels fragiels etc.
+
+Mettre révélatio ndu MJ renagét auxdiacres dans planning
+
+
+
+Voleur s'énerve quand on le bypasse
+
+Dire aux joueurs répartis dans différentes équipes de d'inventer un lien de sang ou autre en jeu
+
+Ramener détecteur de présence LED depuis la cave.
+
+
+Puits de longévité = 8 pièces d'or
+
+Renommer puist de savoir -> source
+
+Dire que les avatsr ont tenté de rejoindre la surface, mais en vain
+
+Rajouter un moye nde trouver le code de QUirinius
+
+Mettre diode dans encensoir
+
+Revoir explications de quête des potions trouvées par terre
+
+"Belt touche pochette centrée"
+
+
+Prévenir alchimiste qu'on lui donne potion à la ceinture
+
+URGENT MAIL FRED HELOSIE D
+
+DMANDER RIVE DE GIER SI ON LANCE INSCRIPTIOSN PUBLIQUES
+Quelques derniers trucs qui nous manquent :
+- des grelots pour les pièges (quelqu'un a ?) <<<<<<<<<<
+- une balance vintage laiton/bois
+- 1 ou 2 petits coffres verrouillables
+- 1 ou 2 petits globes pour des objets exposés
+- quelques potions en plus (on peut en crafter chez moi ou en piquer dans vos stocks)
+- la jungle à pimper
+
+
+Faire affiche porte infranchissable, mur infranchissable, etc.
+
+Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS
+
 Prévenir ce qu'on prete comme choses à alchimiste, woosdman etc.
 
 
@@ -26,9 +86,6 @@ Bete doit utiliser gants bleus commele voleur
 Enlever interactins où le fantomes blesent humains par erreur.
 
 Ecrire fiche de deroulement de l'installation et démontage
-
-
-ACHETER GRELOTS et balance retro et petits coffres et globes
 
 
 Prevenir que broche est à isadora sur cimetiere

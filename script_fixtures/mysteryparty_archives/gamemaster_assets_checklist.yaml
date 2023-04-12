@@ -259,7 +259,6 @@
     - "Arbre à micro-cristaux colorés avec guirlande d'illumination (2xCR2032 incluses)"
     - "7 flacons de cristaux colorés"
     - "Boîte-présentoir très plate en bois léger pour exposer les gemmes"
-    - "Deux livres beiges épais \"Itinéraire de la France\""
     - "Lanterne rectangulaire en laiton à vitre rouge (avec optionnellement diode LED dedans)"
     - "Lanterne cubique à flamme (3xAA) (marque d'envoûtement POSITIF)"
     - "Lot de petites pierres du monde avec étiquettes"
@@ -276,7 +275,8 @@
     - "Petit puits en cuivre avec un message secret en hiéroglyphes"
     - "Trône en bois à cachette coulissante, avec dessus un mini-crâne illuminé LED (3xLR44 incluses)"
     - "Pyramide à base carrée en résine epoxy dans le trône en bois {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT"
-
+    - "Deux livres beiges épais \"Itinéraire de la France\""
+    -
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac)"
   -

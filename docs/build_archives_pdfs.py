@@ -348,12 +348,13 @@ def generate_archives_sheets():
             new_title = new_title.replace(crate, "")
         return crate, new_title
 
-    for murder_party_item in murder_party_items:
+    total_item_entry_count = 0
+    for murder_party_item_group in murder_party_items:
 
-        if len(murder_party_item) != 2:
+        if len(murder_party_item_group) != 2:
             raise ValueError("Value should be a PAIR: %s" % murder_party_items)
 
-        section, item_details_list = murder_party_item
+        section, item_details_list = murder_party_item_group
         crate, section = _extract_crate(section)
         default_create = crate or section
         for item_details in item_details_list:
@@ -363,6 +364,10 @@ def generate_archives_sheets():
             assert item_crate, repr(item_crate)
             murder_party_items_per_crate.setdefault(item_crate, [])
             murder_party_items_per_crate[item_crate].append(item_label)
+            print(item_label)
+            total_item_entry_count += 1
+
+    print(">>>> COUNT OF GAME ASSET ITEMS SEEN:", total_item_entry_count)
 
     #pprint(murder_party_items_per_crate)
     all_data["murder_party_items_per_crate"] = murder_party_items_per_crate.items()
