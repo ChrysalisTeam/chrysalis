@@ -75,10 +75,6 @@ Mettre révélation du MJ renegat aux diacres dans planning
 
 Dire aux joueurs répartis dans différentes équipes de d'inventer un lien de sang ou autre en jeu
 
-Renommer puits de savoir -> source
-
-Dire que les avatars ont tenté de rejoindre la surface, mais en vain
-
 Rajouter un moyen de trouver le code de Quirinius
 
 Mettre diode dans encensoir + chandelle
@@ -128,6 +124,10 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TRASH
 ########################################
 
+
+Renommer puits de savoir -> source  DONE
+
+Dire que les avatars ont tenté de rejoindre la surface, mais en vain  DONE
 
 QUI A DETRUIT MANOIR, yods ou bahamoot ?   BAHAMOOT
 
