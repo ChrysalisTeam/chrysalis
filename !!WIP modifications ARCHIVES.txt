@@ -87,7 +87,7 @@ Mettre diode dans encensoir + chandelle
 
 Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool
 
-QUI A DETRUIT MANOIR, yods ou bahamoot ?
+
 
 
 
@@ -117,7 +117,7 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - Pouvoir refabriquer balles et explosifs simplement ? bod
 - Inventeur : LUI AUSSI A CLEF MAGNETIQUE, pour DOUBLE serrure ?
 - PAS besoin des labels d'étageres dans l'etage interdit Zoologie/Gastronomie ? Ou mettre plan des lieux ? bof
-- Mettre davantage au propre la quête du "Djinn Renégat", expulsé de son lien magique par les invocations désespérées de l'arkonte lors du combat, et cherchant le puist de savoir.
+- Mettre davantage au propre la quête du "Djinn Renégat", expulsé de son lien magique par les invocations désespérées de l'arkonte lors du combat, et cherchant la source de savoir.
 - Puits inutile vs Puits des djinns, améliorer
 - Rajouter un pouvoir au Woodsman ?? Ou une petite quête ?? -> il peut se BINDER pour protéger qqun des blessure ?
 - Ajouter aux "hints" les potions/objets de l'alchimiste déjà possédés (ex. Lymphe de tarantule {% hint "potion_of_tarantula_lymph" is provided %})
@@ -128,6 +128,8 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TRASH
 ########################################
 
+
+QUI A DETRUIT MANOIR, yods ou bahamoot ?   BAHAMOOT
 
 REDISTRIBUTION DES COMPETENCES:
 - donner à alchimiste possibilité de REFAIRE FLECHETTE pour woodsman, au lieu de la trouver en jeu <- RECETTES TROUVABLES EN JEU ??  DONE

@@ -397,7 +397,7 @@ Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 
 - Traits : convoitise, roublardise, bagout, incrédulité, défiance, alcoolisme, vanité
 
-- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets ; en particulier le légendaire **trésor des Maupertuis**, et le mystérieux **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Il a ramassé au passage **uniquement le glaive** de l'arkonte. {% fact "arkon_bag_disappeared_just_after_his_death" %} Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille). Mais il s’est fait tuer par surprise par la Bête - toujours vivante à ce moment-là - qui gardait les lieux. {% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
+- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets ; en particulier le légendaire **trésor des Maupertuis**, et la mystérieuse **{% symbol "Source de Savoir" for "link_to_djinn_world" %}**. Il a ramassé au passage **uniquement le glaive** de l'arkonte. {% fact "arkon_bag_disappeared_just_after_his_death" %} Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille). Mais il s’est fait tuer par surprise par la Bête - toujours vivante à ce moment-là - qui gardait les lieux. {% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
 
 - Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste **piégé** dans son (petit) périmètre par les maîtres des lieux, et continue à ne désirer que les richesses matérielles, qu'il ne peut hélas plus prendre en main ; même si les joueurs font un “{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}” pour le convaincre, il est dubitatif (peut-être ces personnes ont-elles une immunité contre les effets de ce serment ?).
 
@@ -1122,7 +1122,7 @@ Dans l’issue optimale du jeu, la malédiction de la bibliothèque est automati
 #}
 
 
-L'orbe spirituel, le vortex abyssal (piége) et le puits de savoir (don)
+L'orbe spirituel, le vortex abyssal (piége) et la source de savoir (don)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 *Ceci est une quête facultative.*
@@ -1151,11 +1151,11 @@ Exemples de gages :
 - l'alchimiste boit une de ses potions (non létale)
 - d'autres se mettent à utiliser en vain leur détecteur de métaux, leur lampe UV, sans but...
 
-Cet orbe peut aussi ouvrir des passages vers d'autres strates de la réalité. En particulier, le voleur est le seul à connaître la formule permettant d'ouvrir un passage vers le **{% symbol "Puits de Savoir" for "link_to_djinn_world" %}**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout. {% fact "phantom_thief_uniquely knows_about_link_to_djinn_world" %}
+Cet orbe peut aussi ouvrir des passages vers d'autres strates de la réalité. En particulier, le voleur connait la formule permettant d'ouvrir un passage vers la **{% symbol "Source de Savoir" for "link_to_djinn_world" %}**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout. {% fact "phantom_thief_knows_formula_of_link_to_djinn_world" %}
 
 Les joueurs peuvent utiliser ce don comme un moteur de recherche historique, et poser au maître de jeu des questions sur le lore de cette planète, sur les grands aspects de l'histoire des Maupertuis. Les djinns ne savent pas tout, ont des avis divergents, se trompent parfois, mais donnent des informations généralement instructives et utiles.
 
-Le **Djinn renégat**, joué par le maître de jeu, a en réalité été coupé de la communion avec ses congénères par les invocations frénétiques et dangereuses de l'arkonte lors du combat tragique ; il recherche donc aussi **un certain "Puits des Djinns"** pour pouvoir se reconnecter à son monde spirituel, qui n'est autre que ce {% symbol "Puits de Savoir" for "link_to_djinn_world" %}.
+Le **Djinn renégat**, joué par le maître de jeu, a en réalité été coupé de la communion avec ses congénères par les invocations frénétiques et dangereuses de l'arkonte lors du combat tragique ; il recherche donc un artefact magique pour pouvoir se reconnecter à son monde spirituel, qui n'est autre que la {% symbol "Source de Savoir" for "link_to_djinn_world" %}.
 
 
 Survol des compétences spécifiques des participants
