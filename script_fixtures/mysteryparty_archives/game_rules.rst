@@ -9,7 +9,7 @@
 Apprentissage et suivi du scénario
 ++++++++++++++++++++++++++++++++++++++
 
-- **Lisez attentivement vos fiches de personnage** et tout autre document utile ; n'hésitez pas à surligner les passages qui vous semblent importants, et à les imprimer - ces papiers seront considérés comme hors-roleplay sur place.
+- **Lisez attentivement vos fiches de personnage** et tout autre document utile ; n'hésitez pas à surligner les passages qui vous semblent importants, et à les imprimer - ces papiers seront considérés comme hors-roleplay sur place. Vous pouvez faire une petite **pause durant le jeu** pour les relire, et vérifier qu'il n'y a pas des informations ou compétences qui seraient désormais utiles.
 - Les **objets ou portails informatiques** propres à vos rôles vous seront fournis le jour J
 - Prévoyez de quoi prendre des notes en cours de jeu (stylo et calepin), si vous le désirez.
 - Par souci de simplicité, les feuilles de personnage sont par défaut accordées au masculin, mais la plupart des rôles sont non genrés ; voyez avec les organisateurs si vous avez des préférences à ce niveau.
@@ -19,7 +19,7 @@ Objets en-jeu et hors-jeu (RP/HRP)
 +++++++++++++++++++++++++++++++++++++++++++++++
 
 - Beaucoup d'objets sont présents en jeu, ils sont là pour être inspectés et manipulés, mais avec **délicatesse** car certains sont fragiles (en particulier les verreries).
-- Si un objet a une étiquette "ne pas toucher" (main barrée), c'est qu'il est trop fragile et uniquement décoratif.
+- Si un objet a une étiquette avec un symbole "ne pas toucher" (main barrée), c'est qu'il est trop cassant et uniquement décoratif.
 - **La nourriture et les boissons du buffet sont hors-roleplay**, vous ne risquez donc rien à en profiter gaiement.
 - Certains papiers (documents du maître de jeu, feuilles de personnages) sont automatiquement hors-roleplay et confidentiels.
 - Lorsque des meubles ou objets sont recouverts d'un tissu entièrement noir, c'est qu'ils sont explicitement HRP et ne contiennent donc rien d'intéressant pour le jeu. Similairement, lorsque des objets sont dans une sacoche noire unie, c'est qu'ils ne sont pas (encore) matérialisés dans le monde du jeu, il ne faut pas y toucher.

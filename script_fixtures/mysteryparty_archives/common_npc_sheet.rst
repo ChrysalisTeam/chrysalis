@@ -57,7 +57,7 @@ Certains figurants ont des discours préécrits, et accompagnés de musique, pou
 
 Il est important d'apprendre et répéter plusieurs fois, à plusieurs jours d'affilée, ces discours, pour en être bien "imbibés" le moment venu, car ces discours sont à déclamer sans feuille.
 
-Le maître de jeu doit vous avoir envoyé, en avance, la musique concernée, voire une démontration de la façon de réaliser le discours.
+Le maître de jeu doit vous avoir envoyé, en avance, la musique concernée, voire une démonstration de la façon de réaliser le discours.
 
 En complément, lors du jeu, les textes peuvent être soufflés dans l'oreille du figurant par une **oreillette sur lecteur MP3**, avec 1-2 seconde d'avance sur la musique, pour éviter tout oubli. Il faut vérifier, au lancement simultané des 2 bandes-son (musique et voix), que le son grave de piano est bien synchronisé. Mais ce procédé reste fragile, d'où l'importance de bien connaître son discours dans tous les cas.
 
@@ -79,7 +79,7 @@ Orienter les joueurs vers les bons interlocuteurs
 Tous les figurants ont une histoire, et un passif vis-à-vis des autres figurants, il faut en tenir compte lors de chaque interaction.
 
 - Lorsque les avatars se retrouvent pour le banquet : plaisir, échange de "nouvelles" peu surprenantes (car leurs univers romanesques évoluent très peu)
-- Lorsque les avatars ou fantômes croisent les joueurs : selon leur passif, ils manifestent surprise, méfiance, espérance d'avoir là une solution à la malédiction de la bibliothèque. Aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans ce monde des vivants.
+- Lorsque les avatars ou fantômes croisent les joueurs : selon leur passif, ils manifestent surprise, méfiance, espérance d'avoir là une solution à la malédiction de la bibliothèque. Aussi bien les avatars que les fantômes se demandent **quelle année** on est actuellement, dans le monde des vivants.
 - Les avatars et fantômes sont soulagés de se "retrouver" mutuellement par l'intermédiaire des joueurs ; ils se questionnent alors, indirectement encore, sur ce qui s'est passé il y a 500 ans lors du drame.
 - Lorsqu'Octave et l'archiviste se retrouvent : effusions de joie, questionnements mutuels sur le "pourquoi" de la situation
 - Lorsqu'Octave et l'archiviste retrouvent l'arkonte : surprise, méfiance, questionnements accusateurs
@@ -138,7 +138,7 @@ L'errance se fait en ne marchant pas trop vite, bras plus ou moins tendus devant
 Le déplacement est plus rapide et agressif pour un personnage ayant eu une vie lourde de péchés (ex. le voleur).
 {% fact "phantoms_of_sinners_have_faster_specters" %}
 
-Pour être fair-play, un spectre devrait planifier chacun de ses tours (en cercle, en huit, en passant dans certains culs-de-sac ou non), et ne pas trop démordre de ce trajet, même si les joueurs se sont entretemps rassemblés à un autre endroit.
+Pour être fair-play, un spectre devrait planifier un peu à l'avance ses tours (en cercle, en huit, en passant dans certains culs-de-sac ou non), et ne pas trop démordre de ce trajet, même si les joueurs se sont entretemps rassemblés à un autre endroit. Mais ne pas hésiter à mettre un peu plus de pression aux joueurs s'ils sont trop tranquilles.
 
 Exception : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélère le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% fact "phantoms_feel_humans_closer_than_3m" %}
 

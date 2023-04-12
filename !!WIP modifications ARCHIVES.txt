@@ -53,9 +53,8 @@ Nouvelles quêtes
 - Puits de longévité = 8 pièces d'or
 
 Livre de règles :
-- Dire aux joueurs d'accourir si musique discours
-- Parler des labels fragiles etc.
-- Faire pause révision durant jeu pour AVATARS
+- Dire aux joueurs d'accourir si musique discours   DONE
+- Faire pause révision durant jeu pour AVATARS ET JOUEURS DONE
 - A CHANGER : Pour être fair-play, un spectre devrait planifier chacun de ses tours (en cercle, en huit, en passant dans certains culs-de-sac ou non), et ne pas trop démordre de ce trajet, même si les joueurs se sont entretemps rassemblés à un autre endroit.
 
 
@@ -125,6 +124,7 @@ TRASH
 ########################################
 
 
+- Parler des labels fragiles etc.   DONE (pas fragile, uniquement cassant)
 Renommer puits de savoir -> source  DONE
 
 Dire que les avatars ont tenté de rejoindre la surface, mais en vain  DONE
