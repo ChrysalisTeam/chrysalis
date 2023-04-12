@@ -4,141 +4,96 @@ TODO RESTANT MURDER PARTY
 ====================================
 
 
-CRAFTING RESTANT
-- Faire un écriteau pour le voleur
-- Ajouter les marquages des 4 "clés epoxy" sur le plateau de l'orbe spirituel
--METTRE odeurs
-
-Voleur veut récupérer affaires volées
-
-Faire pause révision durant jeu pour AVATARS
-
-Mettre plume aussi sur fontaine encens et portraits effrayants !!!
-
-Dire aux joueursd'accourirs si musique discours
-
-Parler des labels fragiels etc.
-
-Mettre révélatio ndu MJ renagét auxdiacres dans planning
-
-
-
-Voleur s'énerve quand on le bypasse
-
-Dire aux joueurs répartis dans différentes équipes de d'inventer un lien de sang ou autre en jeu
-
-Ramener détecteur de présence LED depuis la cave.
-
-
-Puits de longévité = 8 pièces d'or
-
-Renommer puist de savoir -> source
-
-Dire que les avatsr ont tenté de rejoindre la surface, mais en vain
-
-Rajouter un moye nde trouver le code de QUirinius
-
-Mettre diode dans encensoir
-
-Revoir explications de quête des potions trouvées par terre
-
-"Belt touche pochette centrée"
-
-
-Prévenir alchimiste qu'on lui donne potion à la ceinture
-
-URGENT MAIL FRED HELOSIE D
-
-DMANDER RIVE DE GIER SI ON LANCE INSCRIPTIOSN PUBLIQUES
 Quelques derniers trucs qui nous manquent :
 - des grelots pour les pièges (quelqu'un a ?) <<<<<<<<<<
 - une balance vintage laiton/bois
 - 1 ou 2 petits coffres verrouillables
 - 1 ou 2 petits globes pour des objets exposés
+- pilon pour labo alchimie ?
 - quelques potions en plus (on peut en crafter chez moi ou en piquer dans vos stocks)
 - la jungle à pimper
+- Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS
+- Musiques manquantes à configurer : Fantôme de l'Archiviste et Banquet des mondes + Grimoire maudit du druide
+- acheter guètres / surchaussures et gants blancs
 
 
-Faire affiche porte infranchissable, mur infranchissable, etc.
-
-Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS
-
-Prévenir ce qu'on prete comme choses à alchimiste, woosdman etc.
-
-
-Revérifier toutes les PLUMES de prophétie (même sur fontaine encense et tableaux effrayants)
-
-Musiques manquantes : Fantôme de l'Archiviste et Banquet des mondes + Grimoire maudit du druide
-
-Dire que étoiles ont étiquettes souvent
-
-Informer parcival de la quéteuse (s'entrainer)
-
-! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
-
-Améliorer la décoration du crane blessé de l'arkonte
-
-A CHANGER :
-Pour être fair-play, un spectre devrait planifier chacun de ses tours (en cercle, en huit, en passant dans certains culs-de-sac ou non), et ne pas trop démordre de ce trajet, même si les joueurs se sont entretemps rassemblés à un autre endroit.
-
-Bete doit utiliser gants bleus commele voleur
-
-Enlever interactins où le fantomes blesent humains par erreur.
-
-Ecrire fiche de deroulement de l'installation et démontage
+CRAFTING RESTANT
+- Faire un écriteau pour le voleur
+- Ajouter les marquages des 4 "clés epoxy" sur le plateau de l'orbe spirituel
+- Mettre huiles essentielles ? Odeurs ?
+- Faire affiche porte infranchissable, mur infranchissable, etc.
+- Améliorer la décoration du crane blessé de l'arkonte
+- Réenregistrer l'énigme des sousous avec "OCTAVE" en nom
 
 
-Prevenir que broche est à isadora sur cimetiere
-
-Dire où faire prophéties !!
-
-Donner signe de reconnaissance aux AVATARS ?????
-
-QUI A DETRUIT MANOIR, yodsou bahamoot ?
-
-Changer description sacoche arkonte : "fine marron foncé"!!
-Ne pas mettre plume sur fontaine à encens
-
-A changer dans inventaire
-     2 grandes gourdes cylindriques en cuivre
-     chercher un pilon pour alchimie
-    - ajouter dome poulpi et lanternes vintage aux Assets
-    chercher balance vintage en bois/cuivre sur leboncoin
-
-Réenregistrer l'énigme des sousous avec "OCTAVE" en nom
-
-Donner un moyen au voleur d'être libéré de son attache, contre promesse ou autre ? <<<<<<<<<
-
-Re-vérifier que les feuilles d'octave sont BIGENRES
-
-TESTER LES RUNES dont cryptex_rune sur le portail web
-
-URGENT donner 1 artefact magique par personnage.
-- oracle : chaudron bouillonannt ? bof
-
-
-INSTALLATION DU DECOR : -> A AJOUTER CHECKLIST
+INSTALLATION DU DECOR :
+- Ecrire fiche de deroulement de l'installation et démontage
 - Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
 - Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
-- ajouter portraits lenticulaires à étage INTERDIT!!
 
 
-- Repasser en revue les codes d'analyse et leur contenu, durant INVENTAIRE DU MATOS
+RELECTURES
+- Re-vérifier que les feuilles d'octave sont BIGENRES
+- Révérifier queles fantomes "incarnés" sont SANS DANGER
+- TESTER LES RUNES dont cryptex_rune sur le portail web
+- Repasser en revue les codes d'analyse et leur contenu
+- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
+
+Derniers assortiments
+- Mettre plume aussi sur fontaine encens et portraits effrayants !!!
+- Mettre les bijoux et l'argent
+- Ramener détecteur de présence LED depuis la cave, pour piège devant antichambre du tombeau du mage ?
+- Revérifier toutes les PLUMES de prophétie (même sur fontaine encense et tableaux effrayants)
+- Bete doit utiliser gants bleus comme le voleur
+- ajouter dome poulpi et lanternes vintage aux Assets
+- Marquer dans assets checklist les diverses images chromocrypto
+- ajouter asset list ARKONTE ANALYSIS CODE xep
+
+Nouvelles quêtes
+- Puits de longévité = 8 pièces d'or
+
+Livre de règles :
+- Dire aux joueurs d'accourir si musique discours
+- Parler des labels fragiles etc.
+- Faire pause révision durant jeu pour AVATARS
+- A CHANGER : Pour être fair-play, un spectre devrait planifier chacun de ses tours (en cercle, en huit, en passant dans certains culs-de-sac ou non), et ne pas trop démordre de ce trajet, même si les joueurs se sont entretemps rassemblés à un autre endroit.
 
 
-REDISTRIBUTION DES COMPETENCES:
-- donner à alchimiste possibilité de REFAIRE FLECHETTE pour woodsman, au lieu de la trouver en jeu <- RECETTES TROUVABLES EN JEU ??
+Scénario
+- ! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
+- Revoir explications de quête des potions trouvées par terre
+- Dire que étoiles ont étiquettes souvent
+- Informer parcival de la quéteuse (s'entrainer)
+- Prevenir que broche est à isadora sur cimetiere
+- Changer description sacoche arkonte : "fine marron foncé"!!
+
+Voleur veut récupérer affaires volées
+Voleur s'énerve quand on le bypasse
+Donner un moyen au voleur d'être libéré de son attache, contre promesse ou autre ?
+
+Mettre révélation du MJ renegat aux diacres dans planning
+
+Dire aux joueurs répartis dans différentes équipes de d'inventer un lien de sang ou autre en jeu
+
+Renommer puits de savoir -> source
+
+Dire que les avatars ont tenté de rejoindre la surface, mais en vain
+
+Rajouter un moyen de trouver le code de Quirinius
+
+Mettre diode dans encensoir + chandelle
+
+"Belt touche pochette centrée"
+
+Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool
+
+QUI A DETRUIT MANOIR, yods ou bahamoot ?
+
 
 
 TODO mettre à jour finalement "Survol des compétences spécifiques des participants"
 
 
-LOGISTIQUE
--------------------
-
-- acheter guètres / surchaussures et gants blancs, et rubans de dentelle blanche pour automates
-- Trouver PHOTOGRAPHE pour couvrir évènement, VITE
-- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 
 
 URLS IMPORTANTES
@@ -147,19 +102,6 @@ https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_puzzle/
 https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_cards/
 https://anthropia.prolifik.net/DEMO/anonymous/ability/my_runic_translation_open/
 https://anthropia.prolifik.net/DEMO/anonymous/clues/
-
-
-POUR ASSETS CHECKLIST
-- Marquer dans assets checklist les diverses images chromocrypto
-- checklist - Mettre PAPIER ARMENIE + LED dans ENCENSOIR !!!
-- ajouter asset list ARKONTE ANALYSIS CODE xep
-
-
-TO FIX :
-{% hint 'XX' is provided %}"
-!!!!! ERROR IN hints registry for key 'mystic_soundtrack_for_druid_magic_books' : {'needed'} requires a provided hint
-!!!!! ERROR IN hints registry for key 'prophecy_hologram_for_scary_lenticular_painting' : {'needed'} requires a provided hint
-
 
 
 ******** TODO LATER *******************
@@ -179,15 +121,21 @@ TO FIX :
 - Puits inutile vs Puits des djinns, améliorer
 - Rajouter un pouvoir au Woodsman ?? Ou une petite quête ?? -> il peut se BINDER pour protéger qqun des blessure ?
 - Ajouter aux "hints" les potions/objets de l'alchimiste déjà possédés (ex. Lymphe de tarantule {% hint "potion_of_tarantula_lymph" is provided %})
-
+- Donner 1 artefact magique personnel à trouver par personnage
 
 
 
 TRASH
 ########################################
 
+
+REDISTRIBUTION DES COMPETENCES:
+- donner à alchimiste possibilité de REFAIRE FLECHETTE pour woodsman, au lieu de la trouver en jeu <- RECETTES TROUVABLES EN JEU ??  DONE
+
+Enlever interactins où le fantomes blesent humains par erreur. DONE
+
 - besoin d'1-2 runes akarites de plus pour le RUNOLOGUE ? <--- POUR LIRE CE QUI EST CACHE microscope
-        -> Faire micro-textes pour microscope ! CF "Ô étranger, LIRE ENTRE LES LIGNES TODO"     DONE
+        -> Faire micro-textes pour microscope ! CF "Ô étranger, LIRE ENTRE LES LIGNES TODO     DONE
 
 - Faire étiquettes fragile, ne pas toucher, ou au contraire "à prendre"  DONE bof
 
