@@ -25,17 +25,19 @@ Voici donc un récapitulatif des (nombreux) points d'attention et cas particulie
 Respect de l'immersion
 +++++++++++++++++++++++++++++++++
 
-Le jeu est pensé pour se jouer en immersion complète. Pour en profiter pleinement, et par respect pour les organisateurs et les autres joueurs :
+Le jeu est pensé pour se jouer en immersion complète. Pour en profiter pleinement, et par respect pour les autres joueurs et les organisateurs :
 
-- On prend ses dispositions en termes d'horaires pour ne pas arriver en retard et risquer de perturber la planification du jeu, surtout si l'on utilise des transports en commun.
-- On ne prévoit pas d'impératifs horaires juste après le jeu, car il est possible que celui-ci déborde un peu en cas d'imprévu.
-- On se garde de toute discussion sans rapport avec le jeu, même (et surtout) en cas de période de flottement.
-- On reste discret lorsque l'on demande des informations en hors-jeu, par exemple au maître de jeu.
-- Les potentiels appareils technologiques sont eux aussi dédiés au jeu, donc on ne répond pas à ses appels/sms/emails personnels durant la partie.
+- Prendre ses dispositions en termes d'horaires pour ne pas arriver en retard et risquer de perturber la planification du jeu, surtout si l'on utilise des transports en commun.
+- Ne pas prévoir d'impératifs horaires juste après le jeu, car il est possible que celui-ci déborde un peu en cas d'imprévu.
+- Se garder de toute discussion sans rapport avec le jeu, même (et surtout) en cas de période de flottement.
+- Rester discret lorsque l'on demande des informations en hors-jeu, par exemple au maître de jeu.
+- Les potentiels appareils technologiques sont eux aussi dédiés au jeu, donc ne pas répondre pas à ses appels/sms/emails personnels durant la partie.
 - Les vêtements ont leur importance ; des costumes et robes sobres suffisent pour la plupart des personnages, mais des accessoires steampunk/renaissance/victorien (dans des boutiques de déguisements, aux puces, sur leboncoin, sur ebay...) peuvent ajouter à l'ambiance.
 
   - Exemples d'accessoires: chapeau melon ou haut-de-forme, jabot, canne, robe à crinoline, éventail...
   - Il est possible de se changer sur place.
+
+Les joueurs qui se connaissent hors-jeu, et sont dans différentes équipes, peuvent très bien s'inventer un lien de connivence en jeu (être cousins, anciens fiancés, anciens compagnons de prison...) qui justifie leur proximité.
 
 Il est conseillé d'ajouter un peu de jeu d'acteur aux différentes situations, en simulant les émotions, les travaux de force physique ou de concentration mentale, la réalisation des diverses opérations que l'on peut avoir à mener, les blessures potentiellement reçues...
 

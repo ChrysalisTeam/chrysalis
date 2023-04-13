@@ -140,7 +140,7 @@ Le déplacement est plus rapide et agressif pour un personnage ayant eu une vie 
 
 Pour être fair-play, un spectre devrait planifier un peu à l'avance ses tours (en cercle, en huit, en passant dans certains culs-de-sac ou non), et ne pas trop démordre de ce trajet, même si les joueurs se sont entretemps rassemblés à un autre endroit. Mais ne pas hésiter à mettre un peu plus de pression aux joueurs s'ils sont trop tranquilles.
 
-Exception : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélère le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% fact "phantoms_feel_humans_closer_than_3m" %}
+Attention : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélère le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% fact "phantoms_feel_humans_closer_than_3m" %}
 
 Un joueur touché par un spectre est blessé et doit appeler à l'aide, en restant au sol - le MJ lui indiquera son malus. Le fantôme se **désintéresse** ensuite du blessé.
 

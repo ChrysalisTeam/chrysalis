@@ -27,6 +27,8 @@ H+15mn : [Gong] Les fantômes s'incarnent chacun à leur emplacement, et interpe
 
 H+20mn : [Musique] Se tenir prêt à mettre en scène une Confession de l'Arkonte (discours agenouillé).
 
+H+25mn : Le MJ "Djinn renégat" peut confier aux diacres sa quête pour redevenir lié à sa communauté.
+
 H+30mn : Le druide doit discrètement voler la clochette spectrale de préférence AVANT l'arrivée de l'Ankou. {% fact "druid_must_steal_table_bell_when_usage_understood" %}
 
 H+35mn : [Choeur] Discours de l'Ankou en haut des escaliers ; ALLUMER le projecteur pendant sa présence, et l'éteindre après.

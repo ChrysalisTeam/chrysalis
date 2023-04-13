@@ -5,8 +5,8 @@ TODO RESTANT MURDER PARTY
 
 
 Quelques derniers trucs qui nous manquent :
-- des grelots pour les pièges (quelqu'un a ?) <<<<<<<<<<
-- une balance vintage laiton/bois
+- des grelots pour les pièges (quelqu'un a ?) <<<<<<<<<< commandé
+- une balance vintage laiton/bois <<<<<<<<<< commandé
 - 1 ou 2 petits coffres verrouillables
 - 1 ou 2 petits globes pour des objets exposés
 - pilon pour labo alchimie ?
@@ -48,15 +48,10 @@ Derniers assortiments
 - ajouter dome poulpi et lanternes vintage aux Assets
 - Marquer dans assets checklist les diverses images chromocrypto
 - ajouter asset list ARKONTE ANALYSIS CODE xep
+- IMPRIMER le diary de l'archiviste ?
 
 Nouvelles quêtes
 - Puits de longévité = 8 pièces d'or
-
-Livre de règles :
-- Dire aux joueurs d'accourir si musique discours   DONE
-- Faire pause révision durant jeu pour AVATARS ET JOUEURS DONE
-- A CHANGER : Pour être fair-play, un spectre devrait planifier chacun de ses tours (en cercle, en huit, en passant dans certains culs-de-sac ou non), et ne pas trop démordre de ce trajet, même si les joueurs se sont entretemps rassemblés à un autre endroit.
-
 
 Scénario
 - ! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
@@ -65,14 +60,14 @@ Scénario
 - Informer parcival de la quéteuse (s'entrainer)
 - Prevenir que broche est à isadora sur cimetiere
 - Changer description sacoche arkonte : "fine marron foncé"!!
+- Dire que djinns / divin pas concernés par Zaratoushtra
 
 Voleur veut récupérer affaires volées
 Voleur s'énerve quand on le bypasse
 Donner un moyen au voleur d'être libéré de son attache, contre promesse ou autre ?
 
-Mettre révélation du MJ renegat aux diacres dans planning
 
-Dire aux joueurs répartis dans différentes équipes de d'inventer un lien de sang ou autre en jeu
+Dire aux joueurs répartis dans différentes équipes de s'inventer un lien de sang ou autre en jeu
 
 Rajouter un moyen de trouver le code de Quirinius
 
@@ -81,8 +76,6 @@ Mettre diode dans encensoir + chandelle
 "Belt touche pochette centrée"
 
 Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool
-
-
 
 
 
@@ -122,6 +115,14 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 TRASH
 ########################################
+
+
+Mettre révélation du MJ renegat aux diacres dans planning  DONE
+
+Livre de règles :
+- Dire aux joueurs d'accourir si musique discours   DONE
+- Faire pause révision durant jeu pour AVATARS ET JOUEURS DONE
+- A CHANGER : Pour être fair-play, un spectre devrait planifier chacun de ses tours (en cercle, en huit, en passant dans certains culs-de-sac ou non), et ne pas trop démordre de ce trajet, même si les joueurs se sont entretemps rassemblés à un autre endroit.  DONE
 
 
 - Parler des labels fragiles etc.   DONE (pas fragile, uniquement cassant)
