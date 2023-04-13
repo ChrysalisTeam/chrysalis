@@ -55,8 +55,6 @@ Nouvelles quêtes
 
 Scénario
 - ! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
-
-- Informer parcival de la quéteuse (s'entrainer)
 - Prevenir que broche est à isadora sur cimetiere
 - Changer description sacoche arkonte : "fine marron foncé"!!
 - Dire que djinns / divin pas concernés par Zaratoushtra
@@ -116,6 +114,9 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 TRASH
 ########################################
+
+
+- Informer parcival de la quéteuse (s'entrainer nope)  DONE
 
 - Revoir explications de quête des potions trouvées par terre   DONE
 - Dire que étoiles ont étiquettes souvent   DONE

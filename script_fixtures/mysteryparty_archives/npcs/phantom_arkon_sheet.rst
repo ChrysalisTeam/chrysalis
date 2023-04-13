@@ -48,7 +48,7 @@ Au tout début de votre parcours initiatique d'arkonte, vous avez retrouvé le l
 Vous ne savez pas non plus ce qu'est devenu votre {% symbol "glaive" for "arkon_weapon_name" %}, arme rustique mais très ULTRA-LOURDE et très solide, avec laquelle vous aviez réussi à porter quelques braves coups à votre funeste agresseur.
 {% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
 
-Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votre **sacoche de ceinture** contenant quelques valeurs, afin qu'elle n'interfère pas ; si on la retrouvait, son contenu pourrait aider les vivants en manque d'argent. Vous le leur indiquez si l'occasion se présente. {% fact "arkon_bag_disappeared_just_after_his_death" %} {% hint "arkon_bag_containing_money" is needed %}
+Peu avant la réalisation du rituel de renvoi, vous aviez posé à distance votre **sacoche porte-document** contenant quelques valeurs, afin qu'elle n'interfère pas ; si on la retrouvait, son contenu pourrait aider les vivants en manque d'argent. Vous le leur indiquez si l'occasion se présente. {% fact "arkon_bag_disappeared_just_after_his_death" %} {% hint "arkon_bag_containing_money" is needed %}
 {% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
 
 Vous seriez extrêmement surpris si des affaires vous appartenant étaient retrouvées dans le domaine interdit, étant donné que vous n'y avez jamais mis les pieds. {% fact "only_octave_had_been_in_forbidden_domain" %}

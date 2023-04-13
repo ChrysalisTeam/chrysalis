@@ -25,7 +25,7 @@ Informations et instructions spécifiques
 
 Personnellement très affectée par le triste sort de vos amis, vous attendez avec impatience la résolution de cette situation, pour peut-être obtenir justice, et surtout libérer les âmes errantes de la maisonnée Maupertuis.
 
-Vous vous souvenez bien que l'arkonte avait une **sacoche de ceinture** avec lui, de son vivant. Mais elle n'a, de mémoire, pas été retrouvée suite à la tragique bataille.
+Vous vous souvenez bien que l'arkonte avait une **sacoche porte-document** avec lui, de son vivant. Mais elle n'a, de mémoire, pas été retrouvée suite à la tragique bataille.
 {% fact "arkon_bag_disappeared_just_after_his_death" %}
 
 Lorsque les joueurs démasquent le méchant, il est préférable que vous alliez le **confronter** vous-même, sur une musique intense ; une scène à répéter auparavant, avec le maître de jeu.

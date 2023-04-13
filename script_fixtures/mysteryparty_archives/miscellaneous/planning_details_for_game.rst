@@ -53,7 +53,7 @@ H+X : [Musique] Se tenir prêt à mettre en scène la cérémonie d'initiation d
 
 H+X : [Musique] Se tenir prêt à mettre en scène la prophétie holographique de Cassandra (énigme des tableaux lenticulaires effrayants).
 
-H+X : Pour piéger l'arkonte, le druide pose la sacoche de ceinture faussement compromettante, dans l'étage interdit {% fact "druid_makes_conspiracy_against_arkon" %}.
+H+X : Pour piéger l'arkonte, le druide pose la sacoche porte-document faussement compromettante, dans l'étage interdit {% fact "druid_makes_conspiracy_against_arkon" %}.
 
 H+X : [Musique] Mettre en scène l'attaque de l'automate de garde.
 
