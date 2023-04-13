@@ -44,7 +44,6 @@ Derniers assortiments
 - Marquer dans assets checklist les diverses images chromocrypto
 - Mettre diode dans encensoir + chandelle
 - retrouver gemmes et potions nécessaires aux quêtes
-
 - IMPRIMER le diary de l'archiviste ?
 
 Nouvelles quêtes
@@ -56,9 +55,6 @@ Scénario
 - Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool
 - Rajouter un moyen de trouver le code de Quirinius ?
 
-Voleur veut récupérer affaires volées
-Voleur s'énerve quand on le bypasse
-Donner un moyen au voleur d'être libéré de son attache, contre promesse ou autre ?
 
 
 TODO mettre à jour finalement "Survol des compétences spécifiques des participants"
@@ -99,6 +95,9 @@ TRASH
 ########################################
 
 
+Voleur veut récupérer affaires volées  ALL DONE
+Voleur s'énerve quand on le bypasse
+Donner un moyen au voleur d'être libéré de son attache, contre promesse ou autre ?
 
 Dire aux joueurs répartis dans différentes équipes de s'inventer un lien de sang ou autre en jeu   DONE
 

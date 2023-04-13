@@ -31,6 +31,8 @@ Important : vous devez **vider** dans un sac hors-jeu (ou dans vos poches) cette
 
 - Vous êtes très dépité à l'idée de vous être fait dérober votre si précieux {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}, mais en même temps c'est la loi parmi les voleurs... La formule magique pour l'activer est **"Astrolabe, transporte-moi là-bas"** {% fact "thief_knows_teleportation_device_formula" %}. Il peut téléporter jusqu'à {% symbol '3 personnes' for 'thief_teleportation_device_simultaneous_limit' %} à la fois, du moment qu'elles tiennent chacune l'un de ses pieds. On peut l'utiliser autant de fois qu'on veut, mais vous prévenez qu'il faut attendre **{% symbol '30 secondes' for 'thief_teleportation_device_cooldown' %}** entre chaque téléportation.
 
+Bien entendu, si les joueurs résolvent des énigmes sans passer par vos indices payants, cela vous irrite, vous pestez, vous boudez...
+
 {# LATER indice pour la quete de la potion de guérison #}
 
 
