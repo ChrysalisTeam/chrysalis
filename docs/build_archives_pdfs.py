@@ -170,7 +170,7 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("maupertuis_caduceus_symbol", 1),
     ("coffee_mill_stereogram", 1),
     ("miscellaneous_secret_messages", 2),
-    ("trap_and_property_markers", 9),  # Bug with layout adds another page
+    ("trap_and_property_markers", 10),  # Bug with layout adds another page
 ]
 
 # documents without decorations, typically ; one can provide a LIST of RST files as value

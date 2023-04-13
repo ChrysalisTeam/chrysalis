@@ -61,6 +61,9 @@ Scénario
 - Prevenir que broche est à isadora sur cimetiere
 - Changer description sacoche arkonte : "fine marron foncé"!!
 - Dire que djinns / divin pas concernés par Zaratoushtra
+- Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool
+
+
 
 Voleur veut récupérer affaires volées
 Voleur s'énerve quand on le bypasse
@@ -75,7 +78,6 @@ Mettre diode dans encensoir + chandelle
 
 "Belt touche pochette centrée"
 
-Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool
 
 
 

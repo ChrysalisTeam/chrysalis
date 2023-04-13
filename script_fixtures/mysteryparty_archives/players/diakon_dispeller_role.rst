@@ -23,15 +23,16 @@ En imposant les mains sur un objet et en fermant les yeux, vous pouvez sentir s'
 
 *NOTES hors-jeu* : Un élément analysable par votre sensibilité porte une **étoile autocollante de couleur dorée**.  {% fact "sticker_gold_star_means_magical_analysis" %}
 
-Cette pastille peut porter divers symboles géométriques.
+Cette pastille peut être accompagnée de divers symboles géométriques, typiquement sur une étiquette blanche à côté.
 
-Si elle contient un **triangle**, alors l'objet est maudit et nocif ; sinon, il est envouté mais de façon neutre voire bénéfique (en particulier, c'est le cas si aucun symbole géométrique n'est présent). Attention, un objet envouté de façon neutre/bénéfique peut quand même se révéler **dangereux** (ex. si c'est une arme bénie), mais il ne sera pas "piégé" pour celui qui y touchera.
+Si elle contient un **triangle**, alors l'objet est maudit et nocif ; sinon, il est envouté aussi, mais de façon neutre voire bénéfique (en particulier, c'est le cas si aucun symbole géométrique n'est présent). Attention, un objet envouté de façon neutre/bénéfique peut quand même se révéler **dangereux** (ex. si c'est une arme bénie), mais il ne sera pas "piégé" pour celui qui y touchera.
 
 Par défaut, un envoûtement présent est de niveau "simple".
 S'il existe un petit **cercle** où que ce soit dans la pastille, alors l'envoûtement est de niveau "complexe".
 Si ce cercle contient en plus un **unique point**, alors l'envoûtement passe au niveau "légendaire".
+En l'absence de symboles géométriques, vous ne savez pas déterminer de quelle puissance d'envoûtement il s'agit.
 
-Une étoile dorée peut aussi porter, au lieu d'éléments géométriques, un **code** à 3 lettres ; rentrez ce code dans le **{% symbol "portail de connaissances" for "hint_website_name" %}**, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.  {% hint "hint_website_device" is needed %}
+Une étoile dorée peut aussi être accompagnée d'un **code** à 3 lettres ; rentrez ce code dans le **{% symbol "portail de connaissances" for "hint_website_name" %}**, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.  {% hint "hint_website_device" is needed %}
 
 Vous devez bien sûr jouer théâtralement votre imposition des mains, et ne pas détailler à quiconque cette signalétique hors-jeu avec la pastille dorée.
 
