@@ -9,8 +9,8 @@ Quelques derniers trucs qui nous manquent :
 - une balance vintage laiton/bois <<<<<<<<<< commandé
 - 1 ou 2 petits coffres verrouillables
 - 1 ou 2 petits globes pour des objets exposés
-- pilon pour labo alchimie ?
-- quelques potions en plus (on peut en crafter chez moi ou en piquer dans vos stocks)
+- pilon pour labo alchimie ? bof
+- quelques potions en plus et pots avec trucs végétaux (on peut en crafter chez moi ou en piquer dans vos stocks)
 - la jungle à pimper
 - Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS
 - Musiques manquantes à configurer : Fantôme de l'Archiviste et Banquet des mondes + Grimoire maudit du druide
@@ -18,36 +18,33 @@ Quelques derniers trucs qui nous manquent :
 
 
 CRAFTING RESTANT
-- Faire un écriteau pour le voleur
+- Faire un écriteau pour le voleur avec ses offres
 - Ajouter les marquages des 4 "clés epoxy" sur le plateau de l'orbe spirituel
 - Mettre huiles essentielles ? Odeurs ?
-- Faire affiche porte infranchissable, mur infranchissable, etc.
 - Améliorer la décoration du crane blessé de l'arkonte
 - Réenregistrer l'énigme des sousous avec "OCTAVE" en nom
 
-
 INSTALLATION DU DECOR :
 - Ecrire fiche de deroulement de l'installation et démontage
-- Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.
-- Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED
-
 
 RELECTURES
 - Re-vérifier que les feuilles d'octave sont BIGENRES
 - Révérifier que les fantomes "incarnés" sont SANS DANGER
-- TESTER LES RUNES dont cryptex_rune sur le portail web
+- TESTER LES RUNES hiéroglyphes dont cryptex_rune sur le portail web
 - Repasser en revue les codes d'analyse et leur contenu
 - Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
 
 Derniers assortiments
 - Mettre plume aussi sur fontaine encens et portraits effrayants !!!
-- Mettre les bijoux et l'argent
+- Mettre les bijoux et l'argent et les cadenas
 - Ramener détecteur de présence LED depuis la cave, pour piège devant antichambre du tombeau du mage ?
 - Revérifier toutes les PLUMES de prophétie (même sur fontaine encense et tableaux effrayants)
-- Bete doit utiliser gants bleus comme le voleur
+- Bête doit utiliser gants bleus comme le voleur
 - ajouter dome poulpi et lanternes vintage aux Assets
 - Marquer dans assets checklist les diverses images chromocrypto
-- ajouter asset list ARKONTE ANALYSIS CODE xep
+- Mettre diode dans encensoir + chandelle
+- retrouver gemmes et potions nécessaires aux quêtes
+
 - IMPRIMER le diary de l'archiviste ?
 
 Nouvelles quêtes
@@ -55,27 +52,13 @@ Nouvelles quêtes
 
 Scénario
 - ! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
-- Prevenir que broche est à isadora sur cimetiere
-- Changer description sacoche arkonte : "fine marron foncé"!!
 - Dire que djinns / divin pas concernés par Zaratoushtra
 - Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool
-
-
+- Rajouter un moyen de trouver le code de Quirinius ?
 
 Voleur veut récupérer affaires volées
 Voleur s'énerve quand on le bypasse
 Donner un moyen au voleur d'être libéré de son attache, contre promesse ou autre ?
-
-
-Dire aux joueurs répartis dans différentes équipes de s'inventer un lien de sang ou autre en jeu
-
-Rajouter un moyen de trouver le code de Quirinius
-
-Mettre diode dans encensoir + chandelle
-
-"Belt touche pochette centrée"
-
-
 
 
 TODO mettre à jour finalement "Survol des compétences spécifiques des participants"
@@ -115,6 +98,22 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TRASH
 ########################################
 
+
+
+Dire aux joueurs répartis dans différentes équipes de s'inventer un lien de sang ou autre en jeu   DONE
+
+"Belt touche pochette centrée"  PAS COMPRIS
+
+- Mettre 2 étoiles métallisées pour chaque marquage d'objet (analyse physique ou analyse magique), vu qu'elles sont toutes petites ; les faire ressortir sur une étiquette blanche, au besoin.  DONE
+- Précision : les SCEAUX sont de lointaines variantes des pentacles ; ils se présentent sous la forme de tracés aux formes variées, mais toujours entourés d'un cercle, donc il faudra les faire comme cela en guirlandes LED  -OK pre-made
+
+
+- ajouter asset list ARKONTE ANALYSIS CODE xep  WAS OK
+
+- Faire affiche porte infranchissable, mur infranchissable, etc.  DONE
+- Prevenir que broche est à isadora sur cimetiere   DONE
+
+- Changer description sacoche arkonte !!  DONE
 
 - Informer parcival de la quéteuse (s'entrainer nope)  DONE
 

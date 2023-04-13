@@ -19,10 +19,6 @@ Pour continuer à alimenter sans danger votre immense Trésor du {% symbol "Donj
 
 Important : vous devez **vider** dans un sac hors-jeu (ou dans vos poches) cette pochette, chaque fois que vous allez repasser en spectre, pour que l'argent dépensé soit bien sorti du jeu.
 
-Si les joueurs vous libèrent suite à vos demandes, avant que vous n'ayez réalisé être mort, vous errez en essayant en vain d'attraper des richesses du lieu ; vous commencez à devenir menaçant pour les joueurs et avatars, en les sommant de vous libérer aussi de cette étrange malédiction qui vous rend le monde impalpable (l'arkonte est alors censé s'interposer). Il est probable que les diacres vous ancreront alors rapidement à un endroit. Sinon, en pire cas, vous pouvez aller jusqu'à l'agression et le meurtre d'un des joueurs. {% fact "diakons_can_all_anchor_phantoms" %}
-Mais une fois conscient de votre mort, vous n'avez plus de raisons d'être violent : mieux vaut maximiser les gains de votre lignée encore existante.
-
-
 **Informations à bien mémoriser et à revendre**
 
 - IMPORTANT : Vous savez qu'il existe un artefact dans le domaine interdit, **l'{% symbol "orbe spirituel" for "spiritual_orb_name" %}**, permettant d'ouvrir des liens spirituels vers d'autres strates de ce monde. Et vous êtes *presque* certain d'être le seul à connaître la formule menant plus spécifiquement à la **{% symbol "Source de Savoir" for "link_to_djinn_world" %}**, une puissante source de connaissance ; car vous aviez détruit le rarissime "cryptex" (cylindre verrouillé) antique qui donnait des indications dessus. La formule est : **"ô prodiges de sagesse et de curiosité, venez répondre à ma soif d'érudition"**.  {% fact "phantom_thief_knows_formula_of_link_to_djinn_world" %} {% hint "cryptex_provides_formula_of_link_to_djinn_world" is needed %}
