@@ -45,7 +45,7 @@ Les recettes que vous connaissez
 Potion de pestilence
 --------------------------
 
-En mélangeant de l'essence de soufre avec du jus de Fungal rouge, vous pouvez obtenir un liquide qui répand une odeur pestilentielle sur 10 pas de diamètre. {% hint 'potion_red_mushroom' is needed %}
+En mélangeant de l'essence de soufre avec du jus de Fungal rouge, vous pouvez obtenir un liquide qui répand une odeur pestilentielle sur 10 pas de diamètre. {% hint 'potion_red_fungal' is needed %}
 
 
 Pierre anti-philosophale

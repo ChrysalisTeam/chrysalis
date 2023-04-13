@@ -23,6 +23,7 @@ CRAFTING RESTANT
 - Mettre huiles essentielles ? Odeurs ?
 - Améliorer la décoration du crane blessé de l'arkonte
 - Réenregistrer l'énigme des sousous avec "OCTAVE" en nom
+- POTIONS que l'alchimiste peut CREER, à lui donner sur le moment !!
 
 INSTALLATION DU DECOR :
 - Ecrire fiche de deroulement de l'installation et démontage

@@ -104,7 +104,8 @@
     - "Livre jeunesse avec couverture cuir cloutée \"Extraterrestre appelle CM1\""
     - "2 livres anciens beige/marbré dans la valise de l'enfant"
     - "2 bandes dessinées anciennes 'Gédéon'"
-    - "Livre factice rouge (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} IMPORTANT"
+    - "Livre factice rouge (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} IMPORTANT"
+    - "Broche du père Maupertuis pour le livre factice rouge (envoûtement POSITIF) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} IMPORTANT"
     - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 pour l'enfant"
     - "Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse"
 
@@ -141,6 +142,7 @@
     - "Sur la mallette administrative noire, code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %} IMPORTANT"
     - "Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %} IMPORTANT"
     - "Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %} ????"
+    - "Potion de tentacule de poulpe Polypus Fluidum et potion de Chance dans une boite-présentoir en paille {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} IMPORTANT"
     - "@ELECTRONIQUE Mécanisme de CIGALE pour le mini-coffret en bois rouge&or (nécessite 2xAAA)"
     - "@ELECTRONIQUE ???????TODO Smartphone avec application android \"Beacon Locator\" par Samebits (logo orange) pour trouver les balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
 
@@ -155,6 +157,7 @@
     - "Décorations : mini-jumelles dans étui velours violet, miroir ovale décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol"
     - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc"
     - "Décoration : mini-choppe en verre, petite cruche en laiton"
+    - "2 grands tissus-nappes noirs pour usage libre dans la bibliothèque"
 
 -
   - "@CIMETIERE Cimetière"
@@ -238,10 +241,11 @@
     - "Grande bouteille bleue Elixir de Sorcière"
     - "2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
     - "2 spatules en bois OK"
-    - "@POTIONS Potion de vapeur de Thorium dans un des tiroirs rouges {% hint 'potion_thorium_steam_on_alchemy_table' is provided %} IMPORTANT"
-    - "@BIJOUX Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %} IMPORTANT"
-    - "@POTIONS 1 potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} IMPORTANT"
-    - "@POTIONS 1 potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %} IMPORTANT"
+    - "Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %} IMPORTANT"
+    - "Potion de vapeur de Thorium dans un des tiroirs rouges {% hint 'potion_thorium_steam_on_alchemy_table' is provided %} IMPORTANT"
+    - "Potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} IMPORTANT"
+    - "Potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %} IMPORTANT"
+    - "Lot de 7 grandes potions cylindriques, dont celles de Focus et de Charme, et surtout une \"Potio Unicornis\" {% hint 'potion_of_unicorn' is provided %} "
     - "Enceinte MuziliSpeaker (longue autonomie)"
 
 -
@@ -270,7 +274,7 @@
   -
     - "Fontaine d'encens à LED (éteinte et SANS cône d'encens) avec plume de prophétie (2xCR2032 incluses) {% hint 'incense_fountain' is provided %} IMPORTANT"
     - "Petite pyramide en plastique pour hologramme, avec un message secret en hiéroglyphes IMPORTANT"
-    - "Boule plasma (orbe spirituel) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
+    - "Boule plasma représentant l'orbe spirituel (nécessite 4xAAA ou USB) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
     - "6 grands portraits lenticulaires effrayants {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
     - "Petit puits en cuivre avec un message secret en hiéroglyphes"
     - "Trône en bois à cachette coulissante, avec dessus un mini-crâne illuminé LED (3xLR44 incluses)"
@@ -304,8 +308,10 @@
     - "1 grand miroir rectangulaire collé dans le fond de la petite valisette ovale rougeâtre"
     - "{% symbol 'Collier éthérique de peau de pierre' for 'etheric_stone_skin_necklace_name' %} en perles plates bleues {% hint 'etheric_stone_skin_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'arx' for 'magic_code_etheric_stone_skin_necklace' %}]) dans la valisette ovale rougeâtre intérieure IMPORTANT"
     - "Pyramide à base triangulaire en résine epoxy {% hint 'spiritual_orb_key_triangle_base_pyramid' is provided %} IMPORTANT"
-    - "@POTIONS Potion de Fungal Bleu {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %} IMPORTANT"
-    - "@POTIONS Lot de plusieurs potions sans importance: YYY, ZZZ etc."
+    - "Potion de Fungal Bleu (orangée) {% hint 'potion_blue_fungal_in_toxic_corridor' is provided %} IMPORTANT"
+    - "Potion de Fungal Rouge (rouge foncé) {% hint 'potion_red_fungal' is provided %} IMPORTANT"
+    - "Potion Délieur de Langue {% hint 'potion_tongue_untier' is provided %} IMPORTANT"
+    - "Optionnellement, lot de plusieurs potions sans importance: YYY, ZZZ etc."
 
 -
   - "@NICHE Niche de la Bête"
@@ -363,6 +369,7 @@
     - "Papier d'Arménie et briquet pour l'encensoir des diacres"
     - "Clés des cadenas crochetables transparents, au cas où ils sont bloqués"
     - "@ELECTRONIQUE 2 paires de pouces à LED (verte et rouge) A DISTRIBUER !"
+    - "@CORRIDORS 2 gros grimoires (1 rouge et 1 vert-gris foncé) creusés pour accueillir tablette/papiers"
 
 -
   - "@COSTUMES-FIGURANTS Fantômes humains IMPORTANT"
@@ -402,6 +409,7 @@
     - "Protège-livre rouge doré avec la fiche de planification, et les images des prophéties et intuitions (pour la duchesse) {% hint 'npc_responsible_for_prophecies_monitoring' is provided %}{% hint 'parcival_oracle_intuition_hints' is provided %}"
     - "5 images de vision pour l'Oracle des Parcival {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_ring_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %} IMPORTANT"
     - "Bande-son de la prophétie auditive sur la bague Amplificans anti-zombie {% hint 'parcival_oracle_audio_about_necromancers_and_ring_amplificans' is provided %}"
+    - "Stroboscope LED (nécessite 4xAA) pour les moments-clés des prophéties"
 
 -
   - "@PERSONNES Matériel de l'avatar INVENTEUR"
@@ -510,11 +518,6 @@
     - "@AUDIOVIDEO Lampe tube blanche autonome à détection de mouvement (batterie incluse)"
 
     - "6 papillons volants à élastique, à disséminer dans des grimoires et boites pour frayeurs"
-
-    - "@POTIONS Boite beige plate en bois avec toutes les potions importantes du jeu"
-    - "@POTIONS 1 potion (rouge foncé) de Fungal Rouge {% hint 'potion_red_mushroom' is provided %}"
-    - "@POTIONS 1 potion Délieur de Langue {% hint 'potion_tongue_untier' is provided %}"
-    - "@POTIONS Autres mini-potions achetées depuis, ou craftées, à caser!"
 
     - "@AUDIOVIDEO Machine électrique à fumée pour le seau argenté ??? TODO"
 
