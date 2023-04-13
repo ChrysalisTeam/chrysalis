@@ -16,10 +16,8 @@ Quelques derniers trucs qui nous manquent :
 - Musiques manquantes à configurer : Fantôme de l'Archiviste et Banquet des mondes + Grimoire maudit du druide
 - acheter guètres / surchaussures et gants blancs
 
-
 CRAFTING RESTANT
 - Faire un écriteau pour le voleur avec ses offres
-- Ajouter les marquages des 4 "clés epoxy" sur le plateau de l'orbe spirituel
 - Mettre huiles essentielles ? Odeurs ?
 - Améliorer la décoration du crane blessé de l'arkonte
 - Réenregistrer l'énigme des sousous avec "OCTAVE" en nom
@@ -57,7 +55,6 @@ Scénario
 - Rajouter un moyen de trouver le code de Quirinius ?
 
 
-
 TODO mettre à jour finalement "Survol des compétences spécifiques des participants"
 
 
@@ -92,9 +89,14 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 
 
+
+
 TRASH
 ########################################
 
+
+
+- Ajouter les marquages des 4 "clés epoxy" sur le plateau de l'orbe spirituel  DONE
 
 Voleur veut récupérer affaires volées  ALL DONE
 Voleur s'énerve quand on le bypasse

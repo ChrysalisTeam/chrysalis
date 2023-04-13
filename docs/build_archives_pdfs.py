@@ -367,6 +367,8 @@ def generate_archives_sheets():
             print(item_label)
             total_item_entry_count += 1
 
+
+    murder_party_items_per_crate = OrderedDict(sorted(murder_party_items_per_crate.items()))
     print(">>>> COUNT OF GAME ASSET ITEMS SEEN:", total_item_entry_count)
 
     #pprint(murder_party_items_per_crate)
