@@ -313,7 +313,7 @@
     - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton dans une boîte en bois avec symbole d'ancre (envoûtement POSITIF) {% hint 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT"
     - "Portefeuille vert du voleur, avec microtextes donnant le code du cryptex, formule chiffrée de l'astrolabe, et papier avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme (donnant le code d'Isadora pour le coffre légendaire) {% hint 'thief_paper_with_cryptex_code_as_microtext' is provided %} {% hint 'thief_teleportation_device_encrypted_formula' is provided %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement complexe NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
-    - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'lost_thief_moneybox' is provided %} (envoûtement POSITIF) marquée ULTRA-LOURDE IMPORTANT"
+    - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_heavy_lost_moneybox' is provided %} (envoûtement POSITIF) marquée ULTRA-LOURDE IMPORTANT"
     - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword_stolen_by_thief' is provided %} avec code d'analyse [{% symbol 'xep' for 'analysis_code_arkon_gladius' %}] marqué ULTRA-LOURD IMPORTANT"
     - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE) IMPORTANT ???CHANGER EN COMPLEXE NEGATIF?????"
     - "@JUNGLE Quelques lianes et feuilles géantes pour la niche de la Bête"

@@ -13,6 +13,10 @@ Vous êtes costaud. Mais vraiment, vraiment costaud. Cela vous permet de souleve
 
 *NOTE hors-jeu : De tels objets seront signalés en jeu par une étiquette, leur poids réel restant bien sûr faible. Simulez vos efforts et votre essoufflement lorsque vous déplacez des objets "ultra-lourds".*
 
+Certains de ces objets sont relativement petits en taille, mais sont alourdis par leur lien magique avec d'autres lieux.
+
+*NOTE hors-jeu : Si vous trouvez une "quêteuse" en bois et tissu rouge, ultra-lourde elle aussi, apportez-là au maître de jeu pour qu'il vous montre comment l'utiliser.*  {% hint 'thief_heavy_lost_moneybox' is provided %}
+
 
 Mini-arbalète
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

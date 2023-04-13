@@ -55,8 +55,7 @@ Nouvelles quêtes
 
 Scénario
 - ! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
-- Revoir explications de quête des potions trouvées par terre
-- Dire que étoiles ont étiquettes souvent
+
 - Informer parcival de la quéteuse (s'entrainer)
 - Prevenir que broche est à isadora sur cimetiere
 - Changer description sacoche arkonte : "fine marron foncé"!!
@@ -118,6 +117,8 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TRASH
 ########################################
 
+- Revoir explications de quête des potions trouvées par terre   DONE
+- Dire que étoiles ont étiquettes souvent   DONE
 
 Mettre révélation du MJ renegat aux diacres dans planning  DONE
 

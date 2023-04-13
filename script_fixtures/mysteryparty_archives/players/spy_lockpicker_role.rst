@@ -32,8 +32,9 @@ Trouver les emplacements exacts de ces mécanismes n'est pas toujours facile, ma
 Potions dénichées
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous avez trouvé par terre, lors de votre arrivée dans la bibliothèque, quelques **potions** éparpillées.
-Vous les avez gardées avec vous, même si personne dans votre équipe n'a de grandes connaissances dans ce domaine.
+Vous avez trouvé par terre, avant d'entrer dans le portail de téléportation, une sacoche avec quelques **potions**, en assez bon état.
+
+Vous avez gardé ces potions avec vous, même si personne dans votre équipe n'a de grandes connaissances dans ce domaine.
 {% fact "diakon_exorcist_lost_potions_bag_found_by_lockpicker" %}
 
 

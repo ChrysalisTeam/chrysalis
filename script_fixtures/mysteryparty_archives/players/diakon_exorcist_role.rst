@@ -19,7 +19,7 @@ Vos rituels exigent des artefacts, des gestuelles, des invocations, et parfois l
 *NOTE hors-jeu : n'hésitez pas à simuler l'épuisement que vous procurent les plus exigeants de ces rituels d'exorcisme, quitte à vous effondrer à genoux après l'un d'eux.*
 
 Vous aviez emporté dans vos poches des **Potions de Charme et de Focus** pour vos rituels habituels ; vous possédiez aussi **une dose de Lotion de Révélation**, confiée avec une mystérieuse insistance par l'oracle du monastère.
-Cependant, par mégarde, vous les avez **fait tomber** à un moment - difficile de savoir si c'était avant ou après le saut à travers le portail magique. Diantre. Mais peut-être trouverez-vous sur place de quoi vous réapprovisionner, de toute façon.
+Cependant, par mégarde, vous les avez **fait tomber** à un moment - difficile de savoir si c'était avant ou après le saut à travers le portail de téléportation. Diantre. Mais peut-être trouverez-vous sur place de quoi vous réapprovisionner, de toute façon.
 {% hint 'potion_of_focus_from_exorcist' is needed %} {% hint 'potion_of_charm_from_exorcist' is needed %} {% hint "potion_of_revelation_from_exorcist" is needed %} {% fact "diakon_exorcist_lost_potions_bag_found_by_lockpicker" %}
 {% macro phantom_related_spells() %}
 

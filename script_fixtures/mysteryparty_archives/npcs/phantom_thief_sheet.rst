@@ -15,7 +15,7 @@ Votre profil
 Informations et instructions spécifiques
 ========================================
 
-Pour continuer à alimenter sans danger votre immense Trésor du {% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}, vous exigez que les paiements soient faits directement dans votre **{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}**, une sorte de tirelire magique qui téléporte les biens dans votre chateau familial ; cette tirelire, les joueurs doivent d'abord la retrouver pour vous. {% hint "lost_thief_moneybox" is needed %}
+Pour continuer à alimenter sans danger votre immense Trésor du {% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}, vous exigez que les paiements soient faits directement dans votre **{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}**, une sorte de tirelire magique qui téléporte les biens dans votre chateau familial ; cette tirelire, les joueurs doivent d'abord la retrouver pour vous. {% hint "thief_heavy_lost_moneybox" is needed %}
 
 Important : vous devez **vider** dans un sac hors-jeu (ou dans vos poches) cette pochette, chaque fois que vous allez repasser en spectre, pour que l'argent dépensé soit bien sorti du jeu.
 
