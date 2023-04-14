@@ -9,19 +9,19 @@ Quelques derniers trucs qui nous manquent :
 - une balance vintage laiton/bois <<<<<<<<<< commandé
 - 1 ou 2 petits coffres verrouillables
 - 1 ou 2 petits globes pour des objets exposés
-- pilon pour labo alchimie ? bof
 - quelques potions en plus et pots avec trucs végétaux (on peut en crafter chez moi ou en piquer dans vos stocks)
 - la jungle à pimper
-- Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS
-- Musiques manquantes à configurer : Fantôme de l'Archiviste et Banquet des mondes + Grimoire maudit du druide
+- Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS !!
+- Musiques manquantes à configurer : Banquet des mondes + Grimoire maudit du druide
 - acheter guètres / surchaussures et gants blancs
 
 CRAFTING RESTANT
+- /!\ Intégrer tube néon dans coffre familial
 - Faire un écriteau pour le voleur avec ses offres
 - Mettre huiles essentielles ? Odeurs ?
 - Améliorer la décoration du crane blessé de l'arkonte
-- Réenregistrer l'énigme des sousous avec "OCTAVE" en nom
-- POTIONS que l'alchimiste peut CREER, à lui donner sur le moment !!
+- Réenregistrer l'énigme des sousous avec "OCTAVE" en nom <<<<
+- Prévoir étiquettes des POTIONS que l'alchimiste peut CREER, à lui donner sur le moment !!
 
 INSTALLATION DU DECOR :
 - Ecrire fiche de deroulement de l'installation et démontage
@@ -35,7 +35,7 @@ RELECTURES
 
 Derniers assortiments
 - Mettre plume aussi sur fontaine encens et portraits effrayants !!!
-- Mettre les bijoux et l'argent et les cadenas
+- Mettre les bijoux précieux et l'argent et les cadenas
 - Ramener détecteur de présence LED depuis la cave, pour piège devant antichambre du tombeau du mage ?
 - Revérifier toutes les PLUMES de prophétie (même sur fontaine encense et tableaux effrayants)
 - Bête doit utiliser gants bleus comme le voleur
@@ -86,7 +86,7 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - Rajouter un pouvoir au Woodsman ?? Ou une petite quête ?? -> il peut se BINDER pour protéger qqun des blessure ?
 - Ajouter aux "hints" les potions/objets de l'alchimiste déjà possédés (ex. Lymphe de tarantule {% hint "potion_of_tarantula_lymph" is provided %})
 - Donner 1 artefact magique personnel à trouver par personnage
-
+- pilon pour labo alchimie ? bof
 
 
 
