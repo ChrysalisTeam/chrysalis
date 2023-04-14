@@ -145,6 +145,7 @@
     - "Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %} IMPORTANT"
     - "Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %} ????"
     - "Potion de tentacule de poulpe Polypus Fluidum et potion de Chance dans une boite-présentoir en paille {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} IMPORTANT"
+    - "Miroir et peigne en métal doré finement décorés dans un écrin plat bleu"
     - "@ELECTRONIQUE Mécanisme de CIGALE pour le mini-coffret en bois rouge&or (nécessite 2xAAA)"
     - "@ELECTRONIQUE ???????TODO Smartphone avec application android \"Beacon Locator\" par Samebits (logo orange) pour trouver les balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
 
@@ -159,7 +160,6 @@
     - "Décorations : mini-jumelles dans étui velours violet, miroir ovale décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol"
     - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc"
     - "Décoration : mini-choppe en verre, petite cruche en laiton"
-    - "2 grands tissus-nappes noirs pour usage libre dans la bibliothèque"
 
 -
   - "@CIMETIERE Cimetière"
@@ -523,6 +523,8 @@
     - "6 papillons volants à élastique, à disséminer dans des grimoires et boites pour frayeurs"
 
     - "Machine électrique à fumée pour le seau argenté ??? TODO"
+
+    - "@COFFRE-MARRON 2 grands tissus-nappes noirs pour usage libre dans la bibliothèque"
 
 -
   - "@ELECTRICITE Batteries, piles, câbles électriques ???????????"
