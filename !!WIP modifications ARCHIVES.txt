@@ -14,6 +14,8 @@ Quelques derniers trucs qui nous manquent :
 - Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS !!
 - Musiques manquantes à configurer : Banquet des mondes + Grimoire maudit du druide
 - acheter guètres / surchaussures et gants blancs
+- Retrouver "2 bougies sur chandelier (nécessite 2xAA chacune)"
+
 
 CRAFTING RESTANT
 - /!\ Intégrer tube néon dans coffre familial

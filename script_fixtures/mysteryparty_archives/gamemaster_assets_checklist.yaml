@@ -53,7 +53,7 @@
 # ETAGE AUTORISÉ #
 
 -
-  - "@RECOINS Barrière magique en cordelette devant les escaliers du domaine interdit"
+  - "@RECOINS-BUFFET-PENTACLE Barrière magique en cordelette devant les escaliers du domaine interdit"
   -
     - "Obstacle en cordelette bloquant les escaliers (code d'envoûtement NEGATIF [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}]) IMPORTANT"
     - "SCEAU lumineux éteint (1 mini-guirlande LED 1xAAA incluse) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %} IMPORTANT"
@@ -65,29 +65,29 @@
     - "@ENORMES Gramophone (alimentation: 12V)"
     - "@ENORMES Seau argenté à champagne pour récolter les OBJETS UTILISÉS {% hint 'basket_for_precious_items' is provided %} IMPORTANT"
     - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}]) IMPORTANT"
-    - "Lampe à fibres Blue ice Lunartec (3xAAA incluses)"
     - "4 bougies LED soufflables (1xCR2032 incluse chacune)"
-    - "2 bougies sur chandelier (nécessite 2xAA chacune)"
+    - "Lampe à fibres Blue ice Lunartec (3xAAA incluses)"
+    - "2 bougies sur chandelier (nécessite 2xAA chacune) NOPE PERDUS"
     - "Petit plateau de service rectangulaire en bois doré"
     - "2 nappes blanche nacrées, et 1 chemin de table brodé blanc cassé"
     - "Petite sphère armillaire en laiton sur pied en bois"
-    - "Globe à LED Atmosphera (nécessite 2xAAA)"
-    - "Grande bouteille verte de Champagne 'Lafitte'"
+    - "Globe transparent à LED Atmosphera (nécessite 2xAAA)"
     - "Instrument combiné horloge+baromètre en métal"
+    - "Grande bouteille verte de Champagne 'Lafitte' NOPE TOO BIG"
     - "@ENORMES Station web sur PC (avec écran steampunk si possible) {% hint 'hint_website_device' is provided %}"
 
 -
-  - "@RECOINS Pentacle du rituel inachevé de l’arkonte"
+  - "@RECOINS-BUFFET-PENTACLE Pentacle du rituel inachevé de l’arkonte"
   -
     - "2 Livres luxe pourpre : Tomes 1&2 du roman du druide sur le pentacle IMPORTANT"
     - "Livre bleu à tranche rouge : Tome unique du roman de la duchesse sur le pentacle IMPORTANT"
     - "Livre marron tacheté : Tome unique du roman de l'inventeur sur le pentacle IMPORTANT"
     - "1 LONGUE Guirlande de Noël multicolore réglable en forme de pentacle (alimentation secteur) IMPORTANT"
     - "10 cylindres LEDs Kitosun (nécessite 2xCR2450 chacun inclus) avec télécommande"
-    - "@DECORATIONS 4 néons LED Black Light (alimentation USB) éclairant le pentacle"
+    - "@DECORATIONS 3 néons LED Black Light (alimentation USB) éclairant le pentacle"
 
 -
-  - "@RECOINS Coin du fantôme de l’arkonte "
+  - "@RECOINS-BUFFET-PENTACLE Coin du fantôme de l’arkonte "
   -
     - "@ENORMES Mini-meuble boîte-aux-lettres en bois à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT"
     - "@PAPIERS Deux lettres aux parents Maupertuis à placer dans le mini-meuble en bois IMPORTANT {% hint 'two_letters_for_maupertuis_parents_in_postbox' is provided %}"
@@ -95,7 +95,7 @@
     - "Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie) pour l'arkonte"
 
 -
-  - "@RECOINS Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
+  - "@RECOINS-BUFFET-PENTACLE Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
   -
     - "@ENORMES Valise avec quelques vieux vêtements aléatoires (bien enlever l'étiquette FABRE de dedans)"
     - "Livre déchiré avec des animaux en mouvement pour le coin de l'enfant {% hint 'torn_child_book_with_animal_motions' is provided %} IMPORTANT"
@@ -211,6 +211,7 @@
     - "Deux codes de protection sur le coffret légendaire des Maupertuis {% hint 'family_legendary_chest_protected_by_double_code' is provided %} IMPORTANT"
     - "Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' pour la mallette noire épaisse (coffre légendaire des Maupertuis) ; il contient le sort de zombification et un indice de contre-mesure en UV, le {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, un indice sur le Vortex Abyssal, la recette alchimique des flèchettes d'Iridium et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'arrow_recipe_for_alchemist' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
     - "Diamant géant en résine epoxy {% hint 'spiritual_orb_key_diamond_is_needed' is provided %} IMPORTANT"
+    - "Cryptex en metal (code: 'GENIAL'), contenant un papier runique qui donne la formule vers la Source de Savoir des Djinns {% hint 'cryptex_providing_formula_of_link_to_djinn_world' is provided %}"
     - "Étendard noir rectangulaire avec scorpion rouge peint"
     - "Petite nappe carrée pourpre brillante"
 
