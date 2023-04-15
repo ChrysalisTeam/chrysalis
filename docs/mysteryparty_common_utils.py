@@ -190,6 +190,7 @@ def _send_character_sheets_via_email(all_data, player_names, subject, email_temp
 
     for player in sorted(player_names):
         player_data = all_data["character_properties"][player]
+        player_data["mystery_party_date"] = all_data["mystery_party_date"]  # Especially interesting field
         #real_life_identity = player_data["real_life_identity"]
         real_life_email = forced_recipient_email if forced_recipient_email else player_data["real_life_email"]
         assert real_life_email, repr(real_life_email)

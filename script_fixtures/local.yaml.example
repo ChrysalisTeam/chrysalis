@@ -4,6 +4,8 @@ telephone_exchange_number: "XXXXXXXXXXX"
 
 anthropia_portal_url: "XXXXXXXXXXX"
 
+mystery_party_date: "YYYYYYYYYYYYYY"
+
 smtp_conf:
   host: "example.com:26"
   login: ""
