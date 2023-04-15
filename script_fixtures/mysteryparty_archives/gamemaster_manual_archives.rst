@@ -1233,7 +1233,7 @@ Concrètement, tout parjure sera rapidement sanctionné par un douloureux châti
 
 Si certaines personnes jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risquerait à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand-chose.
 
-Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux pangéens *vivants* ; les défunts et les entités d'outre-monde s'en serviraient donc parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux pangéens *vivants* ; les défunts, les divinités et des entités d'outre-monde s'en serviraient donc parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 
 Divinités et mondes alternatifs

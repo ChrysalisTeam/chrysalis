@@ -24,9 +24,9 @@ Déverrouilleur magnétique
 
 Vous disposez d'une **clé magnétique**, qui permet d'ouvrir des serrures dissimulées à l'intérieur de tiroirs, coffrets, et autres rangements. Cette clé magnétique s'est parfois aussi révélée utile pour désactiver d'étranges antivols mis sur des livres ou autres objets.
 
-Trouver les emplacements exacts de ces mécanismes n'est pas toujours facile, mais votre collègue Sondeur pourrait vous y aider un peu. {% fact "spy_sounder_can_help_spy_lockpicker_regarding_magnetic_unlocker" %}
+Trouver les emplacements exacts de ces mécanismes n'est pas toujours facile, mais votre collègue Sondeur pourrait vous aider un peu en cela. {% fact "spy_sounder_can_help_spy_lockpicker_regarding_magnetic_unlocker" %}
 
-*NOTE hors-jeu* : la présence de systèmes magnétiques peut être dénotée par des petits **oeillets de classeur blancs**. Le logo "aimant magnétique" que vous pourriez voir ailleurs ne vous concerne pas.
+*NOTE hors-jeu* : la présence de systèmes magnétiques peut être dénotée par des petits **oeillets de classeur blancs**. Le logo "aimant magnétique" que vous pourriez voir ailleurs ne vous concerne pas. Certains systèmes demandent de pousser un peu le verrou vers la position "fermée", afin qu'ils aient assez de latitude pour se déverrouiller et permettre l'ouverture de la boite.
 
 
 Potions dénichées

@@ -51,8 +51,7 @@ Nouvelles quêtes
 - Puits de longévité = 8 pièces d'or
 
 Scénario
-- ! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
-- Dire que djinns / divin pas concernés par Zaratoushtra
+- !!!!!!!!! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
 - Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool
 - Rajouter un moyen de trouver le code de Quirinius ?
 
@@ -97,6 +96,7 @@ TRASH
 ########################################
 
 
+- Dire que djinns / divin pas concernés par Zaratoushtra  DONE
 
 - Ajouter les marquages des 4 "clés epoxy" sur le plateau de l'orbe spirituel  DONE
 
