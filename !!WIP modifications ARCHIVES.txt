@@ -16,7 +16,6 @@ Quelques derniers trucs qui nous manquent :
 - acheter guètres / surchaussures et gants blancs
 - Retrouver "2 bougies sur chandelier (nécessite 2xAA chacune)"
 
-
 CRAFTING RESTANT
 - /!\ Intégrer tube néon dans coffre familial
 - Faire un écriteau pour le voleur avec ses offres
@@ -26,7 +25,7 @@ CRAFTING RESTANT
 - Prévoir étiquettes des POTIONS que l'alchimiste peut CREER, à lui donner sur le moment !!
 
 INSTALLATION DU DECOR :
-- Ecrire fiche de deroulement de l'installation et démontage
+- Ecrire fiche de deroulement de l'installation et démontage  !!!
 
 RELECTURES
 - Re-vérifier que les feuilles d'octave sont BIGENRES
@@ -45,19 +44,17 @@ Derniers assortiments
 - Marquer dans assets checklist les diverses images chromocrypto
 - Mettre diode dans encensoir + chandelle
 - retrouver gemmes et potions nécessaires aux quêtes
-- IMPRIMER le diary de l'archiviste ?
+- !!!!!!!!! IMPRIMER le diary de l'archiviste ?
 
 Nouvelles quêtes
 - Puits de longévité = 8 pièces d'or
 
 Scénario
 - !!!!!!!!! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
-- Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool
 - Rajouter un moyen de trouver le code de Quirinius ?
 
 
 TODO mettre à jour finalement "Survol des compétences spécifiques des participants"
-
 
 
 
@@ -67,6 +64,7 @@ https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_puzzle/
 https://anthropia.prolifik.net/DEMO/anonymous/enigma_runes_cards/
 https://anthropia.prolifik.net/DEMO/anonymous/ability/my_runic_translation_open/
 https://anthropia.prolifik.net/DEMO/anonymous/clues/
+
 
 
 ******** TODO LATER *******************
@@ -92,9 +90,14 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 
 
+
+
 TRASH
 ########################################
 
+
+
+- Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool  DONE ONLY ALCHEMIST
 
 - Dire que djinns / divin pas concernés par Zaratoushtra  DONE
 

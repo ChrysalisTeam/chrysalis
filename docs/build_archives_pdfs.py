@@ -414,14 +414,16 @@ def generate_archives_sheets():
                                          os.path.join(MAIN_OUTPUT_DIR, "npc_%(player)s_sheet.pdf"),
                                      ]
         def _send_everything(dry_run):  # FIXME add per-player "document attachments"
-            _send_character_sheets_via_email(all_data=all_data, player_names=player_names,
+
+            forced_recipient_email = None
+            _send_character_sheets_via_email(all_data=all_data, player_names=player_names, forced_recipient_email=forced_recipient_email,
                                           subject='Soirée Mystère Archives - votre fiche de joueur pour %s',
                                           email_template=PLAYER_INITIAL_EMAIl_TEMPLATE,
-                                          default_player_attachments=default_player_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
-            _send_character_sheets_via_email(all_data=all_data, player_names=npc_names,
+                                          default_email_attachments=default_player_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
+            _send_character_sheets_via_email(all_data=all_data, player_names=npc_names, forced_recipient_email=forced_recipient_email,
                                           subject='Soirée Mystère Archives - votre fiche de figurant pour %s',
                                           email_template=PLAYER_INITIAL_EMAIl_TEMPLATE,
-                                          default_player_attachments=default_npc_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
+                                          default_email_attachments=default_npc_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
 
         print("----------FAKE--------------")
         _send_everything(dry_run=True)

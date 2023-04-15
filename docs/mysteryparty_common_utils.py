@@ -140,6 +140,7 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachments=Non
     assert len(recipients) <= 2, recipients  # safety
 
     attachments = attachments or []
+    assert isinstance(attachments, list), attachments
     email_list = [elem.strip() for elem in recipients]
     del recipients
 
@@ -174,7 +175,7 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachments=Non
     return None
 
 
-def _send_character_sheets_via_email(all_data, player_names, subject, email_template, default_player_attachments, dry_run, allow_duplicate_emails=False):
+def _send_character_sheets_via_email(all_data, player_names, subject, email_template, default_email_attachments, dry_run, allow_duplicate_emails=False, forced_recipient_email=None):
     # FIXME player_names is actually character_names !!!!!!!!!!!!!!
 
     # send already generated docs to players
@@ -190,7 +191,7 @@ def _send_character_sheets_via_email(all_data, player_names, subject, email_temp
     for player in sorted(player_names):
         player_data = all_data["character_properties"][player]
         #real_life_identity = player_data["real_life_identity"]
-        real_life_email = player_data["real_life_email"]
+        real_life_email = forced_recipient_email if forced_recipient_email else player_data["real_life_email"]
         official_name = player_data["official_name"]
 
         if not allow_duplicate_emails and (real_life_email in already_processed_recipients):
@@ -198,12 +199,12 @@ def _send_character_sheets_via_email(all_data, player_names, subject, email_temp
             raise ValueError('Duplicated specific recipient %s' % real_life_email)
         already_processed_recipients.add(real_life_email)
 
-        player_attachments = [filename % dict(player=player) for filename in default_player_attachments]
-        player_attachments += player_data["email_attachments"]
+        email_attachments = [filename % dict(player=player) for filename in default_email_attachments]
+        email_attachments += player_data["email_attachments"]
 
-        for player_attachment in player_attachments:
-            assert player in player_attachment or "common" in player_attachment, player_attachment  # do not mixup specific files
-            assert os.path.exists(player_attachment), player_attachment
+        for email_attachment in email_attachments:
+            assert player in email_attachment or "common" in email_attachment, email_attachment  # Do not mixup specific files
+            assert os.path.exists(email_attachment), email_attachment
 
         text = email_template % player_data
 
@@ -211,7 +212,7 @@ def _send_character_sheets_via_email(all_data, player_names, subject, email_temp
                                   recipients=[gamemaster_email],  # COPY to gamemaster!  ##### real_life_email,
                                   text=text,
                                   subject=subject % official_name,
-                                  attachments=player_attachments,
+                                  attachments=email_attachments,
                                   dry_run=dry_run,
                                   smtp_conf=smtp_conf)
 
