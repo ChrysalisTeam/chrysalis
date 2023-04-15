@@ -36,7 +36,6 @@ if not os.path.exists(DOCUMENTS_OUTPUT_DIR):
     os.mkdir(DOCUMENTS_OUTPUT_DIR)
 
 
-
 jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True)
 
 _asset_path = lambda x: os.path.join(DOCUMENTS_OUTPUT_DIR, x)
@@ -49,7 +48,9 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
 
     explorer_unveiler=dict(official_name="Le dévoileur", email_attachments=[]),
     explorer_anthropologist=dict(official_name="L'anthropologue", email_attachments=[]),
-    explorer_runologist=dict(official_name="Le runologue", email_attachments=[]),
+    explorer_runologist=dict(official_name="Le runologue",
+                             email_attachments=[_asset_path("antic_akarith_runes.pdf"),
+                                                _asset_path("secret_codes_converters.pdf")]),
 
     parcival_alchemist=dict(official_name="L'alchimiste", email_attachments=[]),
     parcival_woodsman=dict(official_name="Le gardien des bois", email_attachments=[]),
@@ -60,7 +61,7 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     spy_sounder=dict(official_name="Le sondeur", email_attachments=[]),
 )
 
-NPC_OVERRIDES = dict(
+NPC_OVERRIDES = dict(  # FIXME useless ?
     avatar_druid=dict(official_name="Le druide", email_attachments=[]),
     avatar_duchess=dict(official_name="La duchesse", email_attachments=[]),
     avatar_inventor=dict(official_name="L'inventeur", email_attachments=[]),
@@ -364,7 +365,7 @@ def generate_archives_sheets():
             assert item_crate, repr(item_crate)
             murder_party_items_per_crate.setdefault(item_crate, [])
             murder_party_items_per_crate[item_crate].append(item_label)
-            print(item_label)
+            ##print(item_label)
             total_item_entry_count += 1
 
 
@@ -402,7 +403,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:  # BEWARE DANGEROUS
+    if False:  # BEWARE DANGEROUS EMAIL SENDING
 
         default_player_attachments = [
                                          os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
@@ -432,7 +433,8 @@ def generate_archives_sheets():
             print("----------REAL--------------")
             _send_everything(dry_run=False)  # REALLY send stuffs
 
-        STOP  # only do that, always
+        print(">> STOPPING AFTER SUCCESSFUL EMAIL TREATMENT <<")
+        sys.exit()  # only do that, always
 
     # -------------
 
