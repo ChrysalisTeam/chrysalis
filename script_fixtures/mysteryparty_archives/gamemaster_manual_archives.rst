@@ -1191,7 +1191,7 @@ Explorateurs-archéologues héliossars
 
 - Runologue : sait traduire des runes akarites et reconnaître divers codes secrets ; possède une loupe et un stéthoscope
 - Dévoileur : sait lire les encres UV invisibles, et analyser scientifiquement (avec un code) des objets
-- Anthropologue : érudit en traditions humaines, blasons, et valeurs marchandes ; ritualiste de Bahomoot ; connait les fantômes et les types de blessures
+- Anthropologue : érudit en traditions humaines, blasons, et valeurs marchandes ; ritualiste de Bahamoot ; sait lire les anaglyphes rouge/bleu ; connait les fantômes et les types de blessures
 
 
 .. raw:: pdf
