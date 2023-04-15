@@ -159,7 +159,7 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachments=Non
         part.add_header('Content-Disposition', 'attachment', filename=os.path.basename(attachement))
         msg.attach(part)
 
-    print("/!\\ %s SENDING EMAIL '%s' TO %s (attachments: %r)" % (
+    print("/!\\ %s SENDING EMAIL '%s' TO %s (attachments: %r)\n" % (
     "FAKE" if dry_run else "REALLY", subject, str(email_list), ", ".join(attachments)))
 
     if not dry_run:
