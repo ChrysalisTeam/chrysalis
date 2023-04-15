@@ -192,6 +192,7 @@ def _send_character_sheets_via_email(all_data, player_names, subject, email_temp
         player_data = all_data["character_properties"][player]
         #real_life_identity = player_data["real_life_identity"]
         real_life_email = forced_recipient_email if forced_recipient_email else player_data["real_life_email"]
+        assert real_life_email, repr(real_life_email)
         official_name = player_data["official_name"]
 
         if not allow_duplicate_emails and (real_life_email in already_processed_recipients):
@@ -201,15 +202,16 @@ def _send_character_sheets_via_email(all_data, player_names, subject, email_temp
 
         email_attachments = [filename % dict(player=player) for filename in default_email_attachments]
         email_attachments += player_data["email_attachments"]
+        email_attachments = [os.path.abspath(x) for x in email_attachments]
 
         for email_attachment in email_attachments:
-            assert player in email_attachment or "common" in email_attachment, email_attachment  # Do not mixup specific files
-            assert os.path.exists(email_attachment), email_attachment
+            assert player in email_attachment or "common" in email_attachment or "documents" in email_attachment, email_attachment  # Do not mixup specific files
+            assert os.path.isfile(email_attachment), email_attachment
 
         text = email_template % player_data
 
         _send_email_to_recipients(sender=gamemaster_email,
-                                  recipients=[gamemaster_email],  # COPY to gamemaster!  ##### real_life_email,
+                                  recipients=[gamemaster_email, real_life_email],
                                   text=text,
                                   subject=subject % official_name,
                                   attachments=email_attachments,
