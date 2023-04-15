@@ -347,6 +347,7 @@ def generate_archives_sheets():
         if match:
             crate = match.group(0)
             new_title = new_title.replace(crate, "")
+            crate = crate.strip()  # Remove trailing spaces
         return crate, new_title
 
     total_item_entry_count = 0
@@ -367,7 +368,6 @@ def generate_archives_sheets():
             murder_party_items_per_crate[item_crate].append(item_label)
             ##print(item_label)
             total_item_entry_count += 1
-
 
     murder_party_items_per_crate = OrderedDict(sorted(murder_party_items_per_crate.items()))
     print(">>>> COUNT OF GAME ASSET ITEMS SEEN:", total_item_entry_count)
@@ -403,7 +403,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:  # BEWARE DANGEROUS EMAIL SENDING
+    if True:  # BEWARE DANGEROUS EMAIL SENDING
 
         default_player_attachments = [
                                          os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
