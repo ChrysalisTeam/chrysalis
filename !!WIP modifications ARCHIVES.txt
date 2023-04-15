@@ -54,7 +54,7 @@ Scénario
 - Rajouter un moyen de trouver le code de Quirinius ?
 
 
-TODO mettre à jour finalement "Survol des compétences spécifiques des participants"
+
 
 
 
@@ -96,6 +96,7 @@ TRASH
 ########################################
 
 
+TODO mettre à jour finalement "Survol des compétences spécifiques des participants"  DONE
 
 - Prévenir alchimiste qu'on lui donne potion à la ceinture, et woodsman/autres aussi de ce qu'on leur donne de cool  DONE ONLY ALCHEMIST
 

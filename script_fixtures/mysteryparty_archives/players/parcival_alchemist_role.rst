@@ -27,7 +27,7 @@ Les ingrédients que vous possédez
 - Huile de ricin
 - Filtrat de marée lunaire
 
-*NOTE hors-jeu: Ces ingrédients-là ne sont pas spécifiquement matérialisés en jeu, simulez-les avec des fioles et pots quelconques. Il vous est conseillé d'amener une petite sacoche rétro/steampunk pour stocker vos possessions et trouvailles alchimiques.*
+*NOTE hors-jeu: Ces ingrédients-là ne sont pas spécifiquement matérialisés en jeu, simulez-les avec des fioles et pots génériques au besoin.*
 
 
 Les ustensiles que vous possédez

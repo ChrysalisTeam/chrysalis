@@ -1168,30 +1168,30 @@ IMPORTANT : chaque rôle doit avoir son **“moment de gloire”** prévu dans l
 Famille Parcival
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Gardien des bois : armé d'une arbalète, fort et protecteur, connait les monstres
-- Alchimiste : sait fabriquer des potions pour divers usages
-- Oracle : reçoit ponctuellement des révélations visuelles ou auditives
+- Gardien des bois : armé d'une arbalète, avec une force herculéenne ; il a un fort instinct de protection, et connait divers monstres
+- Alchimiste : sait fabriquer des potions pour divers usages ; possède divers ingrédients (non matérialisés), et une sacoche avec des fioles vides
+- Oracle : reçoit ponctuellement de grandes révélations visuelles ou auditives, ainsi que des intuitions
 
 Agents secrets mirandiens
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Démineur : sait sécuriser des pièges/éboulements, possède des explosifs et des bougies LED
-- Sondeur : sait détecter les métaux et le magnétisme, et reconnaître la nature anormale des artefacts
-- Crocheteur : sait forcer certains cadenas, et ouvrir des serrures magnétiques
+- Démineur : sait sécuriser des pièges/éboulements, possède des explosifs et des bougies LED ; connait bien la mécanique
+- Sondeur : sait détecter les métaux et les champs magnétiques de surface ; reconnaît la nature anormale (archéologique, magique ou divinatoire) des artefacts
+- Crocheteur : sait forcer certains cadenas, et ouvrir des serrures/antivols magnétiques ; a trouvé les potions des diacres
 
 Diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Désenvouteur : reconnait et supprime les envoûtements d'objets, lit la signification des fortes auras magiques, et connait les types de blessures
-- Exorciste : sait bannir des esprits et bénir des armes ; connait les fantômes
-- Invocateur : sait réaliser des rituels magiques complexes
+- Désenvouteur : reconnait les envoûtements d'objets (par symboles ou code), supprime ceux négatifs, et connait les types de blessures
+- Exorciste : sait attirer ou bannir des esprits, et bénir des armes ; connait les fantômes
+- Invocateur : sait réaliser des rituels magiques complexes à l'aide de pentacles ou sceaux ; possède un encensoir
 
 Explorateurs-archéologues héliossars
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Runologue : sait traduire des runes et reconnaître divers codes secrets, possède une loupe et un stéthoscope
-- Dévoileur : sait lire les encres UV invisibles, et analyser scientifiquement des objets
-- Anthropologue : érudit en traditions humaines, blasons, et valeurs marchandes ; connait les fantômes et les types de blessures
+- Runologue : sait traduire des runes akarites et reconnaître divers codes secrets ; possède une loupe et un stéthoscope
+- Dévoileur : sait lire les encres UV invisibles, et analyser scientifiquement (avec un code) des objets
+- Anthropologue : érudit en traditions humaines, blasons, et valeurs marchandes ; ritualiste de Bahomoot ; connait les fantômes et les types de blessures
 
 
 .. raw:: pdf
