@@ -32,7 +32,7 @@ S'il existe un petit **cercle** où que ce soit dans la pastille, alors l'envoû
 Si ce cercle contient en plus un **unique point**, alors l'envoûtement passe au niveau "légendaire".
 En l'absence de symboles géométriques, vous ne savez pas déterminer de quelle puissance d'envoûtement il s'agit.
 
-Une étoile dorée peut aussi être accompagnée d'un **code** à 3 lettres ; rentrez ce code dans le **{% symbol "portail de connaissances" for "hint_website_name" %}**, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.  {% hint "hint_website_device" is needed %}
+Une étoile dorée peut aussi être accompagnée d'un **code à 3 lettres** ; rentrez ce code dans le {% symbol "portail de connaissances (présent sur place)" for "hint_website_name" %}, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.  {% hint "hint_website_device" is needed %}
 
 Vous devez bien sûr jouer théâtralement votre imposition des mains, et ne pas détailler à quiconque cette signalétique hors-jeu avec la pastille dorée.
 

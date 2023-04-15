@@ -16,10 +16,10 @@ Traducteur runique
 
 Vous ne vous séparez jamais de votre **traducteur portable** de runes akarites, votre plus belle invention.
 
-La première étape est de déterminer la transcription, en syllabes, de ces étranges symboles - vous obtiendrez une feuille pour cela.
+La première étape est de déterminer la transcription, en syllabes, de ces étranges symboles, avec un tableau de correspondance.
 {% hint "runic_transcription_sheet_for_runologist" is needed %}
 
-Puis vous rentrez ce texte dans votre intelligence artificielle, qui va en trouver la signification.
+Puis vous rentrez ce texte dans votre système d'intelligence artificielle (présent sur place), qui va en trouver la signification.
 
 Attention, si l'une des runes est mal transcrite, cela peut fausser en grande partie la traduction.
 
