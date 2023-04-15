@@ -40,5 +40,6 @@ _NPC_OVERRIDES_:
 
   phantom_beast: {"real_life_email": "", "real_life_identity": ""}
   phantom_thief: {"real_life_email": "", "real_life_identity": ""}
+  phantom_magus: {"real_life_email": "", "real_life_identity": ""}
   automaton_sentinel: {"real_life_email": "", "real_life_identity": ""}
   god_ankou: {"real_life_email": "", "real_life_identity": ""}

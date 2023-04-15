@@ -69,11 +69,12 @@ NPC_OVERRIDES = dict(  # FIXME useless ?
     phantom_archivist=dict(official_name="L'archiviste", email_attachments=[]),
     phantom_arkon=dict(official_name="L'arkonte", email_attachments=[]),
     phantom_octave=dict(official_name="Octave", email_attachments=[]),
-    #phantom_magus=dict(official_name="Défunt Mage Mos Peratys", email_attachments=[]),
-    #phantom_beast=dict(official_name="La Bête", email_attachments=[]),
-    #phantom_thief=dict(official_name="Le voleur", email_attachments=[]),
 
-    #god_ankou=dict(official_name="L'Ankou", email_attachments=[]),
+    phantom_magus=dict(official_name="Le Mage Mos Peratys", email_attachments=[]),
+    phantom_beast=dict(official_name="La Bête", email_attachments=[]),
+    phantom_thief=dict(official_name="Le voleur", email_attachments=[]),
+    god_ankou=dict(official_name="L'Ankou", email_attachments=[]),
+    automaton_sentinel=dict(official_name="L'automate de garde", email_attachments=[]),
 )
 
 # FIXME rename to "character"
@@ -193,7 +194,7 @@ ISOLATED_DOCS = {
     "npc_phantom_thief_sheet": ("npcs/phantom_thief_sheet.rst", "phantom_thief"),
     "npc_phantom_beast_sheet": ("npcs/phantom_beast_sheet.rst", "phantom_beast"),
     "npc_phantom_magus_sheet": ("npcs/phantom_magus_sheet.rst", "phantom_magus"),
-    "npc_automaton_sentinel_sheet.rst": ("npcs/automaton_sentinel_sheet.rst", "automaton_sentinel"),
+    "npc_automaton_sentinel_sheet": ("npcs/automaton_sentinel_sheet.rst", "automaton_sentinel"),
 
     # SPECIFIC INSTRUCTIONS
     "planning_details_for_game": ("miscellaneous/planning_details_for_game.rst", "anyone"),
