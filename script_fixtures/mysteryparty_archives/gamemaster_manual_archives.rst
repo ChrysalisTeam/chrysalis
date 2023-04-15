@@ -67,7 +67,7 @@ Certains des avatars ont effectivement vu le passage interdimensionnel se referm
 
 Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils ont trouvé le pentacle toujours en place, quelques traces de sortilèges et de combat (atténuées par les protections magiques du mobilier) ; horreur, le **squelette sans crâne** de l'arkonte gisait dans un coin au milieu de ses armes ; ainsi que quelques cendres - probablement de l'enfant et de son précepteur - à d'autres endroits.
 
-Éplorés, ces avatars subsistants ont créé un **cimetière improvisé** pour les restes défunts. Ils ont **vivement débattu** de la place à accorder aux ossements de l'arkonte, car **autant le druide le tenait pour responsable du massacre, autant la duchesse et l'inventeur pensaient que cela pouvait être un accident, ou l'action d'une autre entité**. Au bénéfice du doute, ils ont finalement laissé toutes les dépouilles ensemble au cimetière.
+Éplorés, ces avatars subsistants ont créé un **cimetière improvisé** pour les restes défunts. Ils ont **vivement débattu** de la place à accorder aux ossements de l'arkonte, car autant le druide le tenait pour responsable du massacre, autant la duchesse et l'inventeur pensaient que cela pouvait être un accident, ou l'action d'une autre entité. Au bénéfice du doute, ils ont finalement laissé toutes les dépouilles ensemble au cimetière.
 
 Les avatars ont ensuite investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain, les connaissances en magie de ce monde leur manquant trop. Ils n'ont trouvé que quelques livres factices et coffrets verrouillés, qu'ils n'étaient pas capables d'ouvrir. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis. Et impossible de rejoindre la surface, même lors d'un {% symbol "solstice d'hiver" for "astral_opening_date" %} suivant. {% hint "beast_snack_as_moon_stones" is needed %}
 
@@ -1363,9 +1363,7 @@ Si quelqu'un appuie sur la clochette pour la première fois, le MJ doit déclenc
 
 Par la suite, la clochette est censée être **temporairement déchargée** de sa magie, les avatars et fantômes peuvent le sentir et le disent aux joueurs s'ils appuient encore sur la clochette. *Mettre un scotch noir dessus pour matérialiser cela.* {% fact "table_bell_is_only_usable_once" %}
 
-*Spoiler : Il s'agit en réalité juste d'un signal de rappel oublié par l'Ankou lors d'un précédent passage, mais seul l'Ankou le sait.* {% fact "table_bell_belongs_to_ankou" %}
-
-*Le druide doit discrètement voler cette clochette, après avoir compris son usage en discutant avec les joueurs.* {% fact "druid_must_steal_table_bell_when_usage_understood" %}
+*Mini-spoiler : Il s'agit en réalité juste d'un signal de rappel oublié par l'Ankou lors d'un précédent passage, mais seul l'Ankou le sait.* {% fact "table_bell_belongs_to_ankou" %}
 
 {% endmacro %}
 <{ common_npc_lore_knowledge}/>

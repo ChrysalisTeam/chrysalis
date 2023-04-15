@@ -47,7 +47,7 @@ Rappel du principe fondamental
 
 Il faut rester concentré sur ce point : les mondes des fantômes et des avatars sont hermétiquement séparés. Les avatars ne peuvent pas voir/entendre/sentir les fantômes (ni la Bête) ; et vice-versa. En revanche, tous peuvent voir/entendre les vivants et les automates ; ces derniers, mécaniques, ne peuvent pas voir les fantômes. Et tous peuvent voir/entendre l'Ankou (qui est du monde "divin"), ainsi que le Djinn renégat (maître de jeu) qui a été rendu visible (mais immatériel) par les diacres. {% fact "phantom_and_avatar_worlds_are_disjoint" %}
 
-Les fantômes sont reconnaissables à leur tunique pourpre, et les automates à leurs **{% symbol "rubans blancs" for "automaton_symbolic_cloth" %}**. Les avatars n'ont pas de signe distinctif particulier, juste un costume conforme à leur personnage de roman.
+Les fantômes sont reconnaissables à leur **tunique pourpre**, et les automates à leurs **{% symbol "rubans blancs" for "automaton_symbolic_cloth" %}**. Les avatars n'ont pas de signe distinctif particulier, juste un costume conforme à leur personnage de roman.
 
 
 Conseils pour les discours scriptés
