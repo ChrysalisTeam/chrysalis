@@ -78,20 +78,20 @@ NPC_OVERRIDES = dict(  # FIXME useless ?
 )
 
 # FIXME rename to "character"
-PLAYER_INITIAL_EMAIl_TEMPLATE = """\
+PLAYER_INITIAL_EMAIL_TEMPLATE = """\
 ## Message exclusivement destiné à %(real_life_identity)s (%(real_life_email)s) ##
 
 Bonjour,
 
-Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis".
+Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis" du *%(mystery_party_date)s*.
 
 Un document à lire et relire sans modération !
 
-Des informations sur l'univers du jeu et les règles, cruciales, sont aussi incluses !
+Des informations sur l'univers du jeu et les règles sont aussi incluses.
 
-IMPORTANT - Nous vous remercions de bien vouloir :
-- acquitter bonne réception de cet email
-- signaler toute incohérence ou lacune que vous verriez dans ces documents
+Pourriez-vous s'il vous plait :
+- acquitter bonne réception de cet email ?
+- signaler toute incohérence ou lacune que vous verriez dans ces documents ?
 
 Bonne lecture !
 
@@ -418,13 +418,13 @@ def generate_archives_sheets():
         def _send_everything(dry_run):  # FIXME add per-player "document attachments"
 
             forced_recipient_email = None
-            _send_character_sheets_via_email(all_data=all_data, player_names=player_names, forced_recipient_email=forced_recipient_email,
-                                          subject='Soirée Mystère Archives - votre fiche de joueur pour %s',
-                                          email_template=PLAYER_INITIAL_EMAIl_TEMPLATE,
-                                          default_email_attachments=default_player_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
+            #_send_character_sheets_via_email(all_data=all_data, player_names=player_names, forced_recipient_email=forced_recipient_email,
+            #                              subject='Soirée Mystère Archives - votre fiche de joueur pour %s',
+            #                              email_template=PLAYER_INITIAL_EMAIL_TEMPLATE,
+            #                              default_email_attachments=default_player_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
             _send_character_sheets_via_email(all_data=all_data, player_names=npc_names, forced_recipient_email=forced_recipient_email,
                                           subject='Soirée Mystère Archives - votre fiche de figurant pour %s',
-                                          email_template=PLAYER_INITIAL_EMAIl_TEMPLATE,
+                                          email_template=PLAYER_INITIAL_EMAIL_TEMPLATE,
                                           default_email_attachments=default_npc_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
 
         print("----------FAKE--------------")
