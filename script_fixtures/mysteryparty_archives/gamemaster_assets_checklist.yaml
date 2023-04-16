@@ -378,7 +378,7 @@
   -
     - "FANTÔMES : 4 sacs fins en toile noir pour stocker les affaires hors-jeu"
     - "FANTÔMES : 5 tuniques en velours pourpre"
-    - "FANTÔMES : 4 paires gants blancs à diodes (3 à lumière blanche, et 1 à lumière bleue pour bête+voleur)"
+    - "FANTÔMES : 4 paires gants blancs à diodes (3 à lumière blanche, et 1 à lumière bleue pour voleur)"
     - "@ELECTRONIQUE FANTÔME VOLEUR : Masque à grille de LEDs ShiningApp pour le voleur ?????"
     - "@ENORMES FANTÔMES : 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes (nécessite PILES????)"
 
@@ -387,6 +387,7 @@
   -
     - "BÊTE : Robe noire (peut aussi servir à l'Ankou)"
     - "BÊTE : Guètres latex griffues"
+    - "BÊTE : Gants latex griffus avec LEDs (2xCR2032 incluses chacun)"
     - "BÊTE : Masque latex de monstre"
 
 -
