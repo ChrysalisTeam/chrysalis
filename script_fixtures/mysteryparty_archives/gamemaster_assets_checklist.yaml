@@ -44,11 +44,6 @@
     - "I5 - Livre luxe pourpre du Tome 3 du roman du druide entre les sections de Zoologie et de Gastronomie (non marqué au sol) {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
     - "I6 - Livre fin HACHETTE avec Recette de la Teinture Pyrolitis (non marqué au sol, mais avec plusieurs balises Bluetooth à 1 pile CR2032 incluse chacune) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
-    - "@DECORATIONS 6 grosses bougies LED (nécessite 3xAAA chacune) à disséminer"
-    - "@DECORATIONS 2 lanternes en faux-bronze \"Flame Vintage\" (3xAA incluses chacune) à disséminer"
-    - "@DECORATIONS 1 petit casier en métal noir avec 1 étagère dedans"
-    - "@DECORATIONS 6 étendards carrés en tissu orange avec symboles peints"
-
 
 # ETAGE AUTORISÉ #
 
@@ -84,7 +79,7 @@
     - "Livre marron tacheté : Tome unique du roman de l'inventeur sur le pentacle IMPORTANT"
     - "1 LONGUE Guirlande de Noël multicolore réglable en forme de pentacle (alimentation secteur) IMPORTANT"
     - "10 cylindres LEDs Kitosun (nécessite 2xCR2450 chacun inclus) avec télécommande"
-    - "@DECORATIONS 3 néons LED Black Light (alimentation USB) éclairant le pentacle"
+    - "@DECORATIONS 3 néons UV Black Light (alimentation USB) éclairant le pentacle"
 
 -
   - "@RECOINS-BUFFET-PENTACLE Coin du fantôme de l’arkonte "
@@ -92,7 +87,7 @@
     - "@ENORMES Mini-meuble boîte-aux-lettres en bois à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT"
     - "@PAPIERS Deux lettres aux parents Maupertuis à placer dans le mini-meuble en bois IMPORTANT {% hint 'two_letters_for_maupertuis_parents_in_postbox' is provided %}"
     - "Projecteur globe Aurore Boréale Lunartec (secteur/12V) pour l'arkonte"
-    - "Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie) pour l'arkonte"
+    - "@ELECTRONIQUE Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie) pour l'arkonte"
 
 -
   - "@RECOINS-BUFFET-PENTACLE Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
@@ -106,7 +101,7 @@
     - "Livre factice rouge (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} IMPORTANT"
     - "Broche du père Maupertuis pour le livre factice rouge (envoûtement POSITIF) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} IMPORTANT"
     - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 pour l'enfant"
-    - "Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse"
+    - "@ELECTRONIQUE Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse pour l'enfant"
 
 -
   - "@VALISE-ROUGE Coin du fantôme de l’archiviste"
@@ -117,7 +112,7 @@
     - "Boite à secrets en bois léger (fragile) cachée près des chalumeaux, avec trésor d'Octave dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %} IMPORTANT"
     - "@GENERAL Jarre lumineuse NewYang (batterie solaire incluse)"
     - "Projecteur-enceinte ovale sonore LuckyStone (microUSB sans batterie) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01, et télécommande (2xAAA)"
-    - "Lecteur MP3 D-Jix (batterie) pour l'enceinte LuckyStone"
+    - "@ELECTRONIQUE Lecteur MP3 D-Jix (batterie) pour l'enceinte LuckyStone, pour l'archiviste"
 
 -
   - "@VALISE-ROUGE Valise rouge près de l'archiviste {% hint 'miscellaneous_valuable_objects_gathered_by_archivist' is provided %}"
@@ -136,7 +131,7 @@
     - "@ENORMES Emballages bruns pour faire la 'terre' de la jungle"
     - "Gourde large peu haute en cuivre"
     - "Lanterne noire sale en métal (non fonctionnelle)"
-    - "Enceinte bluetooth/SD/jack MuziliSpeaker (batterie longue autonomie)????"
+    - "@ELECTRONIQUE Mini-enceinte cubique Auvisio bleue (batterie longue autonomie) pour la jungle"
 
 -
   - "Mallette administrative noire des Maupertuis"
@@ -153,13 +148,14 @@
   - "@COFFRE-MARRON Coffre familial commun en bois marron des Maupertuis"
   -
     - "@CADENAS Sur le coffret, un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %} IMPORTANT"
-    - "@ELECTRONIQUE Boîte à murmures avec énigme 'Chat-lu-mot' pour Octave {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF) IMPORTANT ???"
     - "Réserve de 9 galets phosphorescents étalés depuis une bourse mauve {% hint 'beast_snack_as_moon_stones' is provided %} IMPORTANT"
     - "Plume de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %} IMPORTANT"
     - "Décorations : boite cylindrique en cuir noir contenant peigne-perroquet, loupe, pipe métallique"
     - "Décorations : mini-jumelles dans étui velours violet, miroir ovale décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol"
     - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc"
     - "Décoration : mini-choppe en verre, petite cruche en laiton"
+    - "Tube néon UV Black Light fixé à l'intérieur du capot"
+    - "@ELECTRONIQUE Boîte à murmures avec énigme 'Chat-lu-mot', pour le coffre marron {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF) IMPORTANT ???"
 
 -
   - "@CIMETIERE Cimetière"
@@ -175,7 +171,7 @@
     - "Tombe 3 : Squelette de 28 os (SANS crâne) de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %} (envoûtement POSITIF) IMPORTANT"
     - "@ENORMES Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %} (code d'envoûtement POSITIF [{% symbol 'bst' for 'magic_code_etheric_benediction_necklace' %}]) marquée ULTRA-LOURDE IMPORTANT"
 
-    - "Mini-enceinte cubique Auvisio récente PX-1564 noire (batterie moyenne autonomie)"
+    - "@ELECTRONIQUE Mini-enceinte cubique Auvisio récente PX-1564 noire (batterie moyenne autonomie) pour le cimetière"
 
 -
   - "@TOMBEAU-MAGE Galerie de portraits des Maupertuis"
@@ -221,7 +217,7 @@
   -
     - "@ENORMES gros accordéon ancien désaccordé"
     - "@ELECTRONIQUE Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth (batterie / microUSB) - INITIALEMENT SUR LES CRIS DE BETE, PUIS PLUS TARD SUR LES MUSIQUES DE VOLEUR"
-    - "@ELECTRONIQUE Digital MP3/FM Player Key noir (pile AAA incluse) pour l'enceinte Jabra"
+    - "@ELECTRONIQUE Digital MP3/FM Player Key noir (pile AAA incluse) pour l'enceinte Jabra (pour les cris de bête puis fantôme du voleur)"
 
 -
   - "@ALCHIMIE Laboratoire d'Alchimie"
@@ -251,7 +247,7 @@
     - "Potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} IMPORTANT"
     - "Potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %} IMPORTANT"
     - "Lot de 7 grandes potions cylindriques, dont celles de Focus et de Charme, et surtout une \"Potio Unicornis\" {% hint 'potion_of_unicorn' is provided %} "
-    - "Enceinte MuziliSpeaker (longue autonomie)"
+    - "@ELECTRONIQUE Enceinte MuziliSpeaker (longue autonomie) pour l'alchimie"
 
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie"
@@ -272,7 +268,7 @@
     - "Lanterne cubique à flamme (3xAA) (marque d'envoûtement POSITIF)"
     - "Lot de petites pierres du monde avec étiquettes"
     - "Lot de Cristaux, gemmes et coquillages divers"
-    - "Enceinte MuziliSpeaker (longue autonomie)"
+    - "@ELECTRONIQUE Enceinte MuziliSpeaker (longue autonomie) pour la gemmologie"
 
 -
   - "@DIVINATION Laboratoire de divination"
@@ -285,6 +281,7 @@
     - "Trône en bois à cachette coulissante, avec dessus un mini-crâne illuminé LED (3xLR44 incluses)"
     - "Pyramide à base carrée en résine epoxy dans le trône en bois {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT"
     - "Deux livres beiges épais \"Itinéraire de la France\""
+    - "@ELECTRONIQUE Enceinte XooparBoy + lecteur Clip noir récepteur bluetooth (batterie) pour la divination"
 
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac)"
@@ -373,7 +370,7 @@
     - "Cônes d'encens pour la fontaine magique"
     - "Papier d'Arménie et briquet pour l'encensoir des diacres"
     - "Clés des cadenas crochetables transparents, au cas où ils sont bloqués"
-    - "@ELECTRONIQUE 2 paires de pouces à LED (verte et rouge) A DISTRIBUER ! ???????"
+    - "@ELECTRONIQUE 2 paires de pouces à LED (verte et rouge) A DISTRIBUER"
     - "@CORRIDORS 2 gros grimoires (1 rouge et 1 vert-gris foncé) creusés pour accueillir tablette/papiers"
 
 -
@@ -381,8 +378,8 @@
   -
     - "FANTÔMES : 4 sacs fins en toile noir pour stocker les affaires hors-jeu"
     - "FANTÔMES : 5 tuniques en velours pourpre"
-    - "FANTÔMES : 4 paires gants blancs à diodes (3 à lumière blanche, et 1 à lumière bleue pour Bête+Voleur)"
-    - "@ELECTRONIQUE FANTÔME VOLEUR : Masque à grille de LEDs ShiningApp pour le Voleur ?????"
+    - "FANTÔMES : 4 paires gants blancs à diodes (3 à lumière blanche, et 1 à lumière bleue pour bête+voleur)"
+    - "@ELECTRONIQUE FANTÔME VOLEUR : Masque à grille de LEDs ShiningApp pour le voleur ?????"
     - "@ENORMES FANTÔMES : 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes (nécessite PILES????)"
 
 -
@@ -402,7 +399,7 @@
   - "@ACCESSOIRES-FIGURANTS Matériel de l'avatar DRUIDE"
   -
     - "@ENORMES DRUIDE : Grand bâton noueux"
-    - "@GENERAL DRUIDE : Pendentifs de queues de vison pour le bâton"
+    - "DRUIDE : 5 pendentifs dont 2 avec queues de vison"
     - "DRUIDE : Sarbacane-flûte {% hint 'blowpipe_flute_for_druid' is provided %} IMPORTANT"
     - "DRUIDE : Balle unique avec rubans multicolores pour simuler un sortilège offensif"
     - "DRUIDE : Sacoche porte-document de l'arkonte, avec une fausse lettre compromettante au blason de faucille et de houx, de l'argent, et une plume de prophétie {% fact 'druid_makes_conspiracy_against_arkon' %} {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'arkon_bag_containing_money' is provided %} {% hint 'feather_in_arkon_bag' is provided %} IMPORTANT"
@@ -420,7 +417,7 @@
   -
     - "INVENTEUR : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_silver_white_ribbon_bracelet_for_inventor' is provided %} IMPORTANT"
     - "@ELECTRICITE INVENTEUR : Piles format (cylindre + rectangle) pour lampe UV ou détecteur de métal cassé {% hint 'explorer_unveiler_uv_lamp_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %} IMPORTANT"
-    - "@ELECTRONIQUE INVENTEUR : Mégaphone Bontempi à écho (batterie / microUSB) avec Jack3.5 et Bluetooth  {% hint 'echo_megaphone' is provided %}"
+    - "@ELECTRONIQUE INVENTEUR : Mégaphone Bontempi à écho (batterie / microUSB) avec Jack3.5 et Bluetooth, pour l'inventeur {% hint 'echo_megaphone' is provided %}"
     - "INVENTEUR : Outils anciens d'ambiance : 1 petit tournevis, petit marteau, pince spéciale"
     - "INVENTEUR : Petite lanterne de camping à effet flamme (nécessite 3xAA)"
 
@@ -466,7 +463,7 @@
   -
     - "AUTOMATES : {% symbol 'Rubans blancs' for 'automaton_symbolic_cloth' %} de reconnaissance {% hint 'white_ribbon_cloth_for_automatons' is provided %}"
     - "AUTOMATE DE GARDE : Fusil nerf avec 6 munitions BLEUES, et liane à mettre sous le masque quand piraté, pour l'automate de garde {% hint 'nerf_gun_for_guard_automaton' is provided %} {% hint 'plants_around_head_of_automaton_hitman' is provided %}"
-    - "AUTOMATE DE GARDE : Lecteur Digital MP3/FM Player Key noir (pile AAA incluse) pour l'enceinte Jabra"
+    - "@ELECTRONIQUE AUTOMATE DE GARDE : Mini-enceinte i-Dog clip blanche (2 piles AAA incluses) + lecteur Digital MP3/FM Player Key noir (pile AAA incluse)"
 
 -
   - "@CADENAS Cadenas et leurs clefs"
@@ -502,6 +499,19 @@
     - "Mettre les étiquettes de classification devant les rayonnages de livres des 2 étages, en faisant attention à celles importantes dans le scénario (Zoologie et Gastronomie sur le même rayonnage, et optionnellement Teintures là où est la recette de Pyrolitis)."
     - "Coller optionnellement le symbole des Maupertuis (Caducée) sur les objets dynastiques notables de la bibliothèque"
     - "Les munitions nerf du Woosdman et des automates doivent être de COULEURS différentes"
+    - "Le néon UV Black Light du coffre-marron doit être alimenté par batterie USB"
+
+
+-
+  - "@DECORATIONS Logistique et décorations diverses  ????????"
+  -
+    - "6 grosses bougies LED (nécessite 3xAAA chacune) à disséminer"
+    - "2 lanternes en faux-bronze \"Flame Vintage\" (3xAA incluses chacune) à disséminer"
+    - "1 petit casier en métal noir avec 1 étagère dedans"
+    - "6 étendards carrés en tissu orange avec symboles peints"
+    - "Nappe couleur ocre terne 2x2m"
+    - "Nappe blanche à frange bleue 1.5x1.5m"
+    - "@COFFRE-MARRON 2 grands tissus-nappes noirs pour usage libre dans la bibliothèque"
 
 -
   - "@GENERAL Logistique et décorations diverses  ????????"
@@ -518,16 +528,14 @@
 
     - "Mini-lampe cylindrique tactile multi-couleurs"
 
-    - "4 Guirlandes lumineuses LED BXROIU 2m (2xCR2032 incluses chacune)"
+    - "4 Guirlandes lumineuses LED BXROIU 2m (2xCR2032 incluses chacune) ????"
 
     - "Lampe tube blanche autonome à détection de mouvement (batterie incluse)"
 
     - "6 papillons volants à élastique, à disséminer dans des grimoires et boites pour frayeurs"
 
-    - "@COFFRE-MARRON 2 grands tissus-nappes noirs pour usage libre dans la bibliothèque"
-
 -
-  - "@ELECTRICITE Batteries, piles, câbles électriques ???????????"
+  - "@ELECTRICITE Batteries, piles, câbles électriques ?????A REVOIR??????"
   -
     - "Batterie plate blanche LifeDom 18Wh"
     - "Batterie USB Duracell PB2 24.3Wh"
