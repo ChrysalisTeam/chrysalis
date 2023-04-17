@@ -3,6 +3,7 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
+IMPORTANT - remettre adresse et heure dans mails envoyés aux joueurs pour SAVE THE DATE
 
 Quelques derniers trucs qui nous manquent :
 - des grelots pour les pièges (quelqu'un a ?) <<<<<<<<<< commandé
@@ -17,7 +18,7 @@ Quelques derniers trucs qui nous manquent :
 - Retrouver "2 bougies sur chandelier (nécessite 2xAA chacune)"
 
 CRAFTING RESTANT
-- /!\ Intégrer tube néon dans coffre familial
+- /!\ Intégrer tube néon dans coffre familial   DONE
 - Faire un écriteau pour le voleur avec ses offres
 - Mettre huiles essentielles ? Odeurs ?
 - Améliorer la décoration du crane blessé de l'arkonte
@@ -26,6 +27,7 @@ CRAFTING RESTANT
 
 INSTALLATION DU DECOR :
 - Ecrire fiche de deroulement de l'installation et démontage  !!!
+- Marquer dans CRATES qu'il faut suivre cette fiche montage/démontage
 
 RELECTURES
 - Re-vérifier que les feuilles d'octave sont BIGENRES
@@ -39,18 +41,19 @@ Derniers assortiments
 - Mettre les bijoux précieux et l'argent et les cadenas
 - Ramener détecteur de présence LED depuis la cave, pour piège devant antichambre du tombeau du mage ?
 - Revérifier toutes les PLUMES de prophétie (même sur fontaine encense et tableaux effrayants)
-- Bête doit utiliser gants bleus comme le voleur
+- Bête doit utiliser gants bleus comme le voleur  NOPE GANTS LATEX AVEC LEDs   DONE
 - ajouter dome poulpi et lanternes vintage aux Assets
 - Marquer dans assets checklist les diverses images chromocrypto
 - Mettre diode dans encensoir + chandelle
 - retrouver gemmes et potions nécessaires aux quêtes
 - !!!!!!!!! IMPRIMER le diary de l'archiviste ?
+- intervertir Enceinte de la jungle avec générateur de bruit blanc, et la mettre pour la niche de la bête  DONE
 
 Nouvelles quêtes
 - Puits de longévité = 8 pièces d'or
 
 Scénario
-- !!!!!!!!! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
+- !!!!!!!!! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !! <<<<
 - Rajouter un moyen de trouver le code de Quirinius ?
 
 
@@ -86,7 +89,7 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - Ajouter aux "hints" les potions/objets de l'alchimiste déjà possédés (ex. Lymphe de tarantule {% hint "potion_of_tarantula_lymph" is provided %})
 - Donner 1 artefact magique personnel à trouver par personnage
 - pilon pour labo alchimie ? bof
-
+- dire dans forms d'inscription que les murder parties sont GRATUITES
 
 
 

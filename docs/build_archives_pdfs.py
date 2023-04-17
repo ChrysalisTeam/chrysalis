@@ -61,7 +61,7 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     spy_sounder=dict(official_name="Le sondeur", email_attachments=[]),
 )
 
-NPC_OVERRIDES = dict(  # FIXME useless ?
+NPC_OVERRIDES = dict(
     avatar_druid=dict(official_name="Le druide", email_attachments=[]),
     avatar_duchess=dict(official_name="La duchesse", email_attachments=[]),
     avatar_inventor=dict(official_name="L'inventeur", email_attachments=[]),
@@ -77,21 +77,21 @@ NPC_OVERRIDES = dict(  # FIXME useless ?
     automaton_sentinel=dict(official_name="L'automate de garde", email_attachments=[]),
 )
 
-# FIXME rename to "character"
+# FIXME rename to "character" template
 PLAYER_INITIAL_EMAIL_TEMPLATE = """\
 ## Message exclusivement destiné à %(real_life_identity)s (%(real_life_email)s) ##
 
 Bonjour,
 
-Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis" du *%(mystery_party_date)s*.
+Voici des informations sur l'univers du jeu et les règles, pour une des sessions de soirée mystère à venir.
 
-Un document à lire et relire sans modération !
+En tant que figurants automates, vous n'avez pas de fiche de personnage avec un rôle spécifique. L'idée est plutôt que vous fabriquiez votre propre rôle simple à partir des conseils de la fiche d'informations Figurants ci-jointe, et que vous puissiez suivre les joueurs dans leurs aventures.
 
-Des informations sur l'univers du jeu et les règles sont aussi incluses.
+Seule la section "Fonctionnement des différents mondes" (en particulier la partie "Automates") est importante pour vous, le reste du document est uniquement là à titre informatif.
 
-Pourriez-vous s'il vous plait :
-- acquitter bonne réception de cet email ?
-- signaler toute incohérence ou lacune que vous verriez dans ces documents ?
+Nous vous remercions de bien vouloir :
+- acquitter bonne réception de cet email
+- signaler toute incohérence ou lacune que vous verriez dans ces documents
 
 Bonne lecture !
 
@@ -404,7 +404,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if True:  # BEWARE DANGEROUS EMAIL SENDING
+    if False:  # BEWARE DANGEROUS EMAIL SENDING
 
         default_player_attachments = [
                                          os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
@@ -415,9 +415,11 @@ def generate_archives_sheets():
                                          os.path.join(MAIN_OUTPUT_DIR, "common_npc_information.pdf"),
                                          os.path.join(MAIN_OUTPUT_DIR, "npc_%(player)s_sheet.pdf"),
                                      ]
-        def _send_everything(dry_run):  # FIXME add per-player "document attachments"
+        def _send_everything(dry_run):
 
-            forced_recipient_email = None
+            ###### SECOND SESSION : npc_names = ["phantom_arkon", "phantom_archivist", "phantom_octave", "avatar_inventor"]
+
+            forced_recipient_email = "chambon.pascal@gmail.com"
             #_send_character_sheets_via_email(all_data=all_data, player_names=player_names, forced_recipient_email=forced_recipient_email,
             #                              subject='Soirée Mystère Archives - votre fiche de joueur pour %s',
             #                              email_template=PLAYER_INITIAL_EMAIL_TEMPLATE,

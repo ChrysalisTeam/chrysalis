@@ -62,7 +62,7 @@
     - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}]) IMPORTANT"
     - "4 bougies LED soufflables (1xCR2032 incluse chacune)"
     - "Lampe à fibres Blue ice Lunartec (3xAAA incluses)"
-    - "2 bougies sur chandelier (nécessite 2xAA chacune) NOPE PERDUS"
+    - "2 bougies sur chandelier (nécessite 2xAA chacune) NOPE PERDUS???????"
     - "Petit plateau de service rectangulaire en bois doré"
     - "2 nappes blanche nacrées, et 1 chemin de table brodé blanc cassé"
     - "Petite sphère armillaire en laiton sur pied en bois"
@@ -112,7 +112,6 @@
     - "Boite à secrets en bois léger (fragile) cachée près des chalumeaux, avec trésor d'Octave dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %} IMPORTANT"
     - "@GENERAL Jarre lumineuse NewYang (batterie solaire incluse)"
     - "Projecteur-enceinte ovale sonore LuckyStone (microUSB sans batterie) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01, et télécommande (2xAAA)"
-    - "@ELECTRONIQUE Lecteur MP3 D-Jix (batterie) pour l'enceinte LuckyStone, pour l'archiviste"
 
 -
   - "@VALISE-ROUGE Valise rouge près de l'archiviste {% hint 'miscellaneous_valuable_objects_gathered_by_archivist' is provided %}"
@@ -131,7 +130,7 @@
     - "@ENORMES Emballages bruns pour faire la 'terre' de la jungle"
     - "Gourde large peu haute en cuivre"
     - "Lanterne noire sale en métal (non fonctionnelle)"
-    - "@ELECTRONIQUE Mini-enceinte cubique Auvisio bleue (batterie longue autonomie) pour la jungle"
+    - "Générateur gris de bruits de forêt Naturcare"
 
 -
   - "Mallette administrative noire des Maupertuis"
@@ -281,6 +280,7 @@
     - "Trône en bois à cachette coulissante, avec dessus un mini-crâne illuminé LED (3xLR44 incluses)"
     - "Pyramide à base carrée en résine epoxy dans le trône en bois {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT"
     - "Deux livres beiges épais \"Itinéraire de la France\""
+    - "Cadre photo numérique Kodak Easyshare avec images occultes (alimentation secteur)"
     - "@ELECTRONIQUE Enceinte XooparBoy + lecteur Clip noir récepteur bluetooth (batterie) pour la divination"
 
 -
@@ -329,6 +329,7 @@
     - "Mini-lanterne noire à bougie avec vitre mauve"
     - "Boite en forme de dé 6 faces, en bois et cuir marron"
     - "@GENERAL Piège à fil+grelots à hauteur de cheville et de tête pour la niche de la bête {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %}"
+    - "@ELECTRONIQUE Mini-enceinte cubique Auvisio bleue (batterie longue autonomie) pour la niche de la bête"
 
 # DIVERS AUTRES #
 
@@ -349,7 +350,7 @@
   -
     - "Placer : 140 kashes répartis entre les coffres et emplacements dans l'étage autorisé"
     - "Placer : 140 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors dans l'étage interdit"
-    - "Placer : 20 kashes dans les poches des avatars"
+    - "Placer : 20 kashes dans les poches des avatars ???? NOPE"
     - "Placer : 100 kashes dans le trésor d'Octave (jeu de piste monté par Mérédice)"
     - "Placer : 70 kashes dans le sac de voyage d'Octave enfoui sous les éboulis de l'étage autorisé {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
     - "Placer : 100 kashes dans le moulin magique APRES activation {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}"
@@ -370,7 +371,7 @@
     - "Cônes d'encens pour la fontaine magique"
     - "Papier d'Arménie et briquet pour l'encensoir des diacres"
     - "Clés des cadenas crochetables transparents, au cas où ils sont bloqués"
-    - "@ELECTRONIQUE 2 paires de pouces à LED (verte et rouge) A DISTRIBUER"
+    - "@ELECTRONIQUE 2 paires de pouces à LED (verte et rouge) A DISTRIBUER (quelles piles ???)"
     - "@CORRIDORS 2 gros grimoires (1 rouge et 1 vert-gris foncé) creusés pour accueillir tablette/papiers"
 
 -
@@ -379,7 +380,7 @@
     - "FANTÔMES : 4 sacs fins en toile noir pour stocker les affaires hors-jeu"
     - "FANTÔMES : 5 tuniques en velours pourpre"
     - "FANTÔMES : 4 paires gants blancs à diodes (3 à lumière blanche, et 1 à lumière bleue pour voleur)"
-    - "@ELECTRONIQUE FANTÔME VOLEUR : Masque à grille de LEDs ShiningApp pour le voleur ?????"
+    - "@ELECTRONIQUE FANTÔME VOLEUR : Masque à grille de LEDs ShiningApp (batterie longue autonomie) pour le voleur ?????"
     - "@ENORMES FANTÔMES : 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes (nécessite PILES????)"
 
 -
@@ -534,6 +535,7 @@
     - "Lampe tube blanche autonome à détection de mouvement (batterie incluse)"
 
     - "6 papillons volants à élastique, à disséminer dans des grimoires et boites pour frayeurs"
+    - "@ELECTRONIQUE Lecteur MP3 D-Jix (batterie) en plus"
 
 -
   - "@ELECTRICITE Batteries, piles, câbles électriques ?????A REVOIR??????"
@@ -563,12 +565,11 @@
     - "Canne bois argentée droite"
 
 
-
-# IMPORTANT ?????? A RECALCULER
+# IMPORTANT
 # BESOINS EN PILES #
-# AAA : 3 + 6 + 3 + 4 + 2 + 3 + 21 = 42
-# AA : 2 + 4 + 4 + 2 + 4 + 3 + 3 + 2 + 4 + 3 = 31
-# LR20D : 8 en tout
-# Pile rectangle 9V : 1  (+1 en secours)
-# CR2032 : 4 + 4 + 9 + 2*6   (incluses: 4 + 9 + 2*6)
-# CR2016 : 4 pour gants LED bleus
+# AAA : 2 + 2 + 9 + 3 + 4 + 3 + 3*6 = 41  MOINS   9 (3 grosses  bougies)
+# AA : 4 + 4 + 3 + 2 + 4 + 3 + 4 = 24   MOINS   2 (télécommande) +  4 (lunartec bleu) + 4 (spot du tombeau)
+# LR20D : 4 incluses
+# Pile rectangle 9V : 1 pour inventeur (+1 en sécurité ?)
+# CR2032 : 27 incluses
+# CR2016 : 4 includes (gants LED bleus)
