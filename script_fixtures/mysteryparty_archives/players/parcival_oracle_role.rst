@@ -30,7 +30,7 @@ Certaines prophéties, exceptionnelles, apparaissent et s'adressent par elles-m�
 Les révélations de type "visuel"
 +++++++++++++++++++++++++++++++++
 
-Dans ce cas de figure, vous avez des images qui s'affichent plusieurs secondes devant vos yeux ; il vous faut alors en saisir un maximum de détails, avant que cette vision ne disparaisse à jamais ; puis vous entrez en transe, pour décrire tout cela à vos proches .
+Dans ce cas de figure, vous avez des images qui s'affichent plusieurs secondes devant vos yeux. Il vous faut alors en saisir un maximum de détails, avant que cette vision ne disparaisse à jamais. Puis vous entrez en transe, pour décrire tout cela à vos proches .
 
 
 Les révélations de type "auditif"
@@ -44,15 +44,15 @@ Notes hors-jeu : le déroulement des révélations
 
 {% macro prophecy_workflow_instructions() %}
 
-L'objectif est de profiter de jeux de lumières et de bandes sonores pour créer une belle ambiance mystique autour de ces révélations.
+L'objectif est de profiter du décor, de jeux de lumières et de bandes sonores pour créer une belle ambiance mystique autour de ces révélations (vous trouverez des plantes et des projecteurs sonores et musicaux sur les lieux).
 
-Vous aurez à votre disposition un petit **projecteur d'aurores boréales**, diffusant aussi du son.
-Il faudrait que vous restiez dans ce halo lumineux et sonore pendant vos révélations, en jouant de façon un peu théâtrale les prophéties qui vous arrivent, à la façon des Oracles de l'antique "Pythie de Delphes".
-Les différentes bandes-son disponibles doivent vous avoir été communiquées en même temps que votre fiche de personnage, pour que vous vous entrainiez à placer vos exclamations entre les éclats de percussions.
+Ainsi mis en valeur, vous pourrez jouer de façon un peu théâtrale les prophéties qui vous arrivent - à la façon des Oracles de l'antique "Pythie de Delphes".
 
-Pour les **révélations imagées** : un figurant vous montrera une image, qu'il vous faudra ensuite décrire devant les autres personnages comme si elle vous apparaissait subitement. Vous pouvez solliciter l'assistance pour qu'ils vous demandent des précisions les points qui les interpellent, et y répondre au fil de la vision.
+Les différentes **bandes-son disponibles** doivent vous avoir été communiquées en même temps que votre fiche de personnage, pour que vous vous entrainiez à placer vos exclamations entre les éclats de percussions.
 
-Pour les **révélations auditives** : un figurant vous fera écouter une ou deux fois la bande-son, puis vous pourrez simuler devant les autres personnages le fait de la recevoir, tout en gardant une oreillette rejouant la bande-son. Placez-vous de profil afin que l'assistance ne voie pas l'oreillette. N'écoutez pas les possibles questions de l'assistance, afin de ne pas avoir de distractions.
+Pour les **révélations imagées** : un figurant vous montrera une image, qu'il vous faudra ensuite décrire devant les autres personnages comme si elle vous apparaissait subitement. Vous pouvez solliciter les témoins de la scène pour qu'ils vous demandent des précisions les points qui les interpellent, et y répondre au fil de la vision.
+
+Pour les **révélations auditives** : un figurant vous fera écouter une ou deux fois la bande-son, puis vous pourrez simuler devant les autres personnages le fait de la recevoir, possiblement tout en gardant une oreillette rejouant la bande-son. Placez-vous dans ce cas de profil afin que l'assistance ne voie pas l'oreillette. N'écoutez pas les potentielles questions de l'assistance, afin de ne pas avoir de distractions.
 
 {% endmacro %}
 <{ prophecy_workflow_instructions }/>
@@ -65,7 +65,7 @@ Il vous arrive par moment d'avoir, non pas des révélations énigmatiques, mais
 
 Vous les communiquez alors à vos proches le plus fidèlement possible, sans nécessairement entrer en transe pour cela.
 
-Au moment où vous prenez le portail vers les Archives des Maupertuis, vous recevez d'ailleurs une puissante image en tête : **plusieurs groupes d'agneaux qui fuient des loups, et qui se réfugient, serrés les un contre les autres, au centre de la forêt. Une clameur surgit : "Unis nous resterons debout, divisés nous tomberons".** *(Note hors-jeu : vous aurez l'occasion de déclamer cette intuition devant tous les joueurs, à la fin du discours introductif musical réalisé par le maître de jeu.)*
+Au moment où vous prenez le portail vers les Archives des Maupertuis, vous recevez d'ailleurs une puissante image en tête : **plusieurs groupes d'agneaux qui fuient des loups, et qui se réfugient, serrés les un contre les autres, au centre de la forêt. Une clameur surgit : "Unis nous resterons debout, divisés nous tomberons".** *(Note hors-jeu : vous aurez l'occasion de déclamer cette intuition devant tous les joueurs, à la fin du discours musical d'introduction réalisé par le maître de jeu.)*
 {% fact "parcival_oracle_has_initial_intuition_about_adventurers_solidarity" %}
 
 {% hint "parcival_oracle_intuition_hints" is needed %}
