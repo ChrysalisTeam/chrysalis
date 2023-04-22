@@ -39,7 +39,7 @@ Bien entendu, si les joueurs résolvent des énigmes sans passer par vos indices
 Prix de vos "bons tuyaux de voleur"
 ++++++++++++++++++++++++++++++++++++++
 
-- Formule magique menant au monde des djins : **280 kashes**
+- Formule magique menant au monde des djinns : **280 kashes**
 - Code secret préféré d'Isadora de Maupertuis : **150 kashes**
 - Localisation du bureau de Mérédice : **150 kashes**
 - Formule magique de votre astrolabe de téléporation : **150 kashes**

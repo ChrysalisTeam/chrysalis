@@ -950,9 +950,9 @@ Les différents bijoux :
 - La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est **effondré**. Il vend donc cette information chèrement et à contrecoeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. Octave a aussi quelques indices, moins précis, sur l'endroit où sa soeur gardait ses biens les plus précieux. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %} {% fact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}
 
-Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité par jour (un lot toutes les X heures), mais suffisant pour la quête des agents secrets. {% hint 'jewels_set_for_grinding_mill_success' is needed %}
+Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité par jour (un lot toutes les X heures), mais suffisant pour la quête des agents secrets. {% hint 'jewels_set_for_grinding_mill_success' is needed %} {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
 
-Avec le moulin magique et le grimoire chantant, les exZplorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
+Avec le moulin magique et le grimoire chantant, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
 {% endmacro %}
 <{ spy_group_main_quest }/>
@@ -1341,12 +1341,13 @@ Au moment de l'attaque du manoir, Mérédice de Maupertuis avait déjà beaucoup
 
 Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il était distrait par ses lectures romanesques et fantastiques. Il n'était donc jamais allé seul dans l'étage interdit (la Bête l'aurait d'ailleurs attaqué dans ce cas). {% fact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
 
-Il devait tout bientôt passer son **initiation appelée "adoubement"**, une cérémonie ne fonctionnant que pour les héritiers de la lignée Maupertuis : {% fact "only_maupertuis_heirs_can_take_initiation" %}
+Il devait tout bientôt passer son **initiation appelée "adoubement"**, une cérémonie ne fonctionnant que pour les héritiers de la lignée Maupertuis : {% fact "only_maupertuis_heirs_can_take_initiation" %} {% fact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
 
+{% hint "maupertuis_initiation_instructions_for_octave" is needed %}
 - Réussir à activer le **Sceau d'initiation** présent sur place
 - Tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petite boite, parmi un ensemble, contenait sa **broche personnelle**, et obtenir ainsi cet artefact dynastique {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %}
 - En cas de réussite, **recevoir le symbole secret** de la famille Maupertuis ; être présenté à la Bête du domaine interdit, et recevoir d'elle un serment d'allégeance
-- En cas d'échec, réessayer cette cérémonie dans 6 mois.
+- En cas d'échec, réessayer cette cérémonie dans X mois.
 
 Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvée sur place. {% fact "octave_carried_mother_jewel_after_her_death" %} {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
 

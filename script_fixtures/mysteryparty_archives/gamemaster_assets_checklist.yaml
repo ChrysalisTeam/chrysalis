@@ -137,10 +137,12 @@
   -
     - "Sur la mallette administrative noire, code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %} IMPORTANT"
     - "Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %} IMPORTANT"
-    - "Mini-coffret en bois rouge&or avec envoûtement NEGATIF LEGENDAIRE (piégé par cigale) {% hint 'trap_in_family_briefcase' is provided %} ????"
     - "Potion de tentacule de poulpe Polypus Fluidum et potion de Chance dans une boite-présentoir en paille {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} IMPORTANT"
     - "Miroir et peigne en métal doré finement décorés dans un écrin plat bleu"
-    - "@ELECTRONIQUE Mécanisme de CIGALE pour le mini-coffret en bois rouge&or (nécessite 2xAAA)"
+    - "Mini-coffret en bois rouge&or avec marque d'envoûtement NEGATIF LEGENDAIRE {% hint 'trap_in_family_briefcase' is provided %} ????"
+    - "Feuille d'instructions pour l'initiation dynastique d'Octave {% hint 'maupertuis_initiation_instructions_for_octave' is provided %}"
+    - "Classeur en tissu gris CLIVRA avec des photographies anciennes"
+    - "@ELECTRONIQUE Mécanisme d'alarme à son de cigale pour le mini-coffret en bois rouge&or (nécessite 2xAAA)"
     - "@ELECTRONIQUE ???????TODO Smartphone avec application android \"Beacon Locator\" par Samebits (logo orange) pour trouver les balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
 
 -
@@ -154,7 +156,7 @@
     - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc"
     - "Décoration : mini-choppe en verre, petite cruche en laiton"
     - "Tube néon UV Black Light fixé à l'intérieur du capot"
-    - "@ELECTRONIQUE Boîte à murmures avec énigme 'Chat-lu-mot', pour le coffre marron {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF) IMPORTANT ???"
+    - "@ELECTRONIQUE Boîte à murmures fixée au fond du coffre marron, avec énigme 'Chat-lu-mot' via un lecteur MP3 Clip vert et batterie externe {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (envoûtement POSITIF) IMPORTANT"
 
 -
   - "@CIMETIERE Cimetière"
@@ -241,6 +243,7 @@
     - "Grande bouteille bleue Elixir de Sorcière"
     - "2 tiroirs rouges protégés par VERROU MAGNÉTIQUE"
     - "2 spatules en bois"
+    - "Support en plastique noir éclairant à LED RGB (3xAA incluses)"
     - "Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %} IMPORTANT"
     - "Potion de vapeur de Thorium dans un des tiroirs rouges {% hint 'potion_thorium_steam_on_alchemy_table' is provided %} IMPORTANT"
     - "Potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} IMPORTANT"
@@ -281,6 +284,8 @@
     - "Pyramide à base carrée en résine epoxy dans le trône en bois {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT"
     - "Deux livres beiges épais \"Itinéraire de la France\""
     - "Cadre photo numérique Kodak Easyshare avec images occultes (alimentation secteur)"
+    - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE, contenant quelques richesses (marque d'envoûtement complexe NEGATIF)"
+    - "@ELECTRONIQUE Mécanisme d'alarme à son de cigale pour le mini-coffret en bois marron foncé noueux (nécessite 2xAAA)"
     - "@ELECTRONIQUE Enceinte XooparBoy + lecteur Clip noir récepteur bluetooth (batterie) pour la divination"
 
 -
@@ -323,37 +328,13 @@
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement complexe NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
     - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_heavy_lost_moneybox' is provided %} (envoûtement POSITIF) marquée ULTRA-LOURDE IMPORTANT"
     - "Glaive de l'arkonte {% hint 'arkon_heavy_gladius_sword_stolen_by_thief' is provided %} avec code d'analyse [{% symbol 'xep' for 'analysis_code_arkon_gladius' %}] marqué ULTRA-LOURD IMPORTANT"
-    - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE (marque d'envoûtement NEGATIF LEGENDAIRE) IMPORTANT ???CHANGER EN COMPLEXE NEGATIF?????"
     - "@JUNGLE Quelques lianes et feuilles géantes pour la niche de la Bête"
-    - "@ELECTRONIQUE CIGALE pour le mini-coffret en bois marron foncé noueux"
     - "Mini-lanterne noire à bougie avec vitre mauve"
     - "Boite en forme de dé 6 faces, en bois et cuir marron"
     - "@GENERAL Piège à fil+grelots à hauteur de cheville et de tête pour la niche de la bête {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %}"
     - "@ELECTRONIQUE Mini-enceinte cubique Auvisio bleue (batterie longue autonomie) pour la niche de la bête"
 
 # DIVERS AUTRES #
-
--
-  - "@RICHESSES Richesses totales à collecter ??????"
-  -
-    - "40 pièces normales (= 40 kashes)"
-    - "6 pièces d'or (= 60 kashes)"
-    - "10 petits diamants ronds (= 50 kashes)"
-    - "10 diamants moyens rectangulaire (= 100 kashes) {% hint 'diamonds_for_alchemy_recipes' is provided %}"
-    - "5 grands diamants ronds (= 100 kashes)"
-    - "Bracelet doré à gros diamant bleu (marqué non magique) valant environ 100 kashes [ETIQUETTE]"
-    - "Collier en bande dorée (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
-    - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
-
--
-  - "@RICHESSES Localisation de ces richesses diverses à collecter (???570 kashes en jeu)"
-  -
-    - "Placer : 140 kashes répartis entre les coffres et emplacements dans l'étage autorisé"
-    - "Placer : 140 kashes répartis entre les coffres, l'établi d'alchimie, celui de gemmologie, la dépouille du voleur, et les corridors dans l'étage interdit"
-    - "Placer : 20 kashes dans les poches des avatars ???? NOPE"
-    - "Placer : 100 kashes dans le trésor d'Octave (jeu de piste monté par Mérédice)"
-    - "Placer : 70 kashes dans le sac de voyage d'Octave enfoui sous les éboulis de l'étage autorisé {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
-    - "Placer : 100 kashes dans le moulin magique APRES activation {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}"
 
 -
   - "Matériel du Maître de Jeu IMPORTANT ????????"
@@ -564,6 +545,26 @@
     - "Canne bois marron recourbée"
     - "Canne bois argentée droite"
 
+-
+  - "@RICHESSES Richesses totales à collecter ??????"
+  -
+    - "50 pièces anciennes de 10 centimes trouées (= 50 kashes)"
+    - "8 pièces d'or (= 80 kashes)"
+    - "10 petits diamants ronds (= 50 kashes)"
+    - "10 diamants moyens rectangulaire (= 100 kashes) {% hint 'diamonds_for_alchemy_recipes' is provided %}"
+    - "5 grands diamants ronds (= 100 kashes)"
+    - "Bracelet doré à gros diamant bleu (marqué non magique) valant environ 100 kashes [ETIQUETTE]"
+    - "Collier en bande dorée (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
+    - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
+    # Soit 50 + 80 + 50 + 100 + 100 + 100 + 60 + 60 = 600 kashes en jeu
+-
+  - "@RICHESSES Localisation de ces richesses diverses à collecter)"
+  -
+    - "Placer : 140 kashes répartis entre les coffres et emplacements de l'étage autorisé"
+    - "Placer : 190 kashes répartis entre les ateliers et les corridors de l'étage interdit"
+    - "Placer : 100 kashes dans les économies d'Octave (chasse au trésor montée par Mérédice)"
+    - "Placer : 70 kashes au MJ, représentant le sac de voyage d'Octave enfoui sous les éboulis de l'étage autorisé {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
+    - "Placer : 100 kashes au MAJ, pour la production du moulin magique APRES activation {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}"
 
 # IMPORTANT
 # BESOINS EN PILES #

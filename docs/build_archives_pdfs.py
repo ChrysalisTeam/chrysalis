@@ -83,7 +83,7 @@ PLAYER_INITIAL_EMAIL_TEMPLATE = """\
 
 Bonjour,
 
-Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis".
+Voici votre feuille de personnage pour la soirée mystère "Les archives secrètes des Maupertuis" du *%(mystery_party_date)s*.
 
 Un document à lire et relire sans modération !
 
@@ -404,7 +404,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if True:  # BEWARE DANGEROUS EMAIL SENDING
+    if False:  # BEWARE DANGEROUS EMAIL SENDING
 
         default_player_attachments = [
                                          os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
@@ -432,7 +432,7 @@ def generate_archives_sheets():
         print("----------FAKE--------------")
         _send_everything(dry_run=True)
 
-        if True:
+        if False:
             print("----------REAL--------------")
             _send_everything(dry_run=False)  # REALLY send stuffs
 
