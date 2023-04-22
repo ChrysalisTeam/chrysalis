@@ -37,7 +37,7 @@
   - "@RECOINS-BUFFET-PENTACLE Indices cachés et objets disséminés IMPORTANT"
   -
     - "I1 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
-    - "@ELECTRONIQUE Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse pour le Venture Prins ???"
+    - "@ELECTRONIQUE Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse pour le Venture Prins"
     - "I2 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (exigeant les 3 autres Recettes), marqué au sol en scotch blanc {% hint 'recipe_rejuvenation_cocktail' is provided %}"
     - "I3 - Livre fin HACHETTE avec Recette de l'Elixir Flexifiant, marqué au sol en scotch blanc {% hint 'recipe_flex_elixir' is provided %}"
     - "I4 - Livre fin HACHETTE avec Recette de la Lotion de Clairvoyance, marqué au sol en scotch blanc {% hint 'recipe_clarity_lotion' is provided %}"
@@ -111,6 +111,7 @@
     - "2 grands tournevis anciens"
     - "Boite à secrets en bois léger (fragile) cachée près des chalumeaux, avec trésor d'Octave dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %} IMPORTANT"
     - "@GENERAL Jarre lumineuse NewYang (batterie solaire incluse)"
+    - "Verbeux journal intime de l'archiviste dans une couverture A4 en cuir rouge {% hint 'archivist_diary_book' is probided %}"
     - "Projecteur-enceinte ovale sonore LuckyStone (microUSB sans batterie) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01, et télécommande (2xAAA)"
 
 -
@@ -139,7 +140,7 @@
     - "Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %} IMPORTANT"
     - "Potion de tentacule de poulpe Polypus Fluidum et potion de Chance dans une boite-présentoir en paille {% hint 'potion_octopus_tentacle_in_authorized_zone' is provided %} IMPORTANT"
     - "Miroir et peigne en métal doré finement décorés dans un écrin plat bleu"
-    - "Mini-coffret en bois rouge&or avec marque d'envoûtement NEGATIF LEGENDAIRE {% hint 'trap_in_family_briefcase' is provided %} ????"
+    - "Mini-coffret en bois rouge&or avec marque d'envoûtement NEGATIF LEGENDAIRE {% hint 'trap_in_family_briefcase' is provided %}"
     - "Feuille d'instructions pour l'initiation dynastique d'Octave {% hint 'maupertuis_initiation_instructions_for_octave' is provided %}"
     - "Classeur en tissu gris CLIVRA avec des photographies anciennes"
     - "@ELECTRONIQUE Mécanisme d'alarme à son de cigale pour le mini-coffret en bois rouge&or (nécessite 2xAAA)"
@@ -228,7 +229,7 @@
     - "SCEAU lumineux éteint (1 mini-guirlande LED, nécessite 2xAA), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %}"
     - "Chaudronnet rond en cuivre à 3 pieds et anse (marque d'envoûtement POSITIF)"
     - "Machine électrique à fumée pour le chaudronnet rond (alimentation secteur)"
-    - "Chaudron bombé dessous en cuivre à anse, avec enchantement anti-explosion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement complexe POSITIF [{% symbol 'adp' for 'magic_code_enchanted_cauldron' %}])????????A CREER"
+    - "Chaudron bombé dessous en cuivre à anse, avec enchantement anti-explosion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement complexe POSITIF [{% symbol 'adp' for 'magic_code_enchanted_cauldron' %}])"
     - "Petite cocotte avec extérieur cuivré et intérieur étamé"
     - "Bouteille-bougeoir en laiton et verre bleu"
     - "Bouteille verdâtre à liqueur en tête de mort"
@@ -291,7 +292,7 @@
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac)"
   -
-    - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %} IMPORTANT ?????"
+    - "@GENERAL Corridor bloqué par un piège à fil+grelots {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %} IMPORTANT"
     - "Coffret cubique en bois peint avec des fruits, FRAGILE, avec VERROU MAGNÉTIQUE"
     - "{% symbol 'Collier éthérique de force vitale' for 'etheric_vital_force_necklace_name' %} en perles de bois {% hint 'etheric_vital_force_necklace' is provided %} (code d'envoûtement légendaire POSITIF [{% symbol 'hfv' for 'magic_code_etheric_vital_force_necklace' %}]) dans le coffret cubique IMPORTANT"
     - "Cube massif en résine epoxy {% hint 'spiritual_orb_key_cube_is_needed' is provided %} IMPORTANT"
@@ -337,7 +338,7 @@
 # DIVERS AUTRES #
 
 -
-  - "Matériel du Maître de Jeu IMPORTANT ????????"
+  - "@MAITRE-DE-JEU Matériel du Maître de Jeu IMPORTANT ????????"
   -
     - "@ELECTRONIQUE Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone en mode avion) si problème"
     - "@ENORMES Grande enceinte noir/gris Vintage avec Jack3.5/Bluetooth pour EVENEMENTS"
@@ -348,11 +349,11 @@
     - "Un des codes du coffret légendaire des Maupertuis, celui de la mère des Maupertuis, pour quand elle sera logiquement interrogée depuis l'au-delà : {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} {% hint 'defunct_isadora_code_for_thanatologue_chest_code' is provided %}"
     - "Broche de Mérédice, trouvée par les joueurs si le bon éboulement derrière l'atelier d'alchimie est dynamité (envoûtement POSITIF) {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
     - "Lot de gemmes pour simuler la possible réussite du moulin magique des Maupertuis {% hint 'jewels_set_for_grinding_mill_success' is provided %}"
-    - "Lot de gemmes dans un sac de voyage, à exhumer à l'explosif depuis des éboulis {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
-    - "Cônes d'encens pour la fontaine magique"
-    - "Papier d'Arménie et briquet pour l'encensoir des diacres"
+    - "Lot de gemmes dans un sac de voyage, à exhumer à l'explosif depuis des éboulis de l'étage interdit {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
+    - "Cônes d'encens pour la fontaine magique (optionnel)"
+    - "Papier d'Arménie et briquet pour l'encensoir des diacres (optionnel)"
     - "Clés des cadenas crochetables transparents, au cas où ils sont bloqués"
-    - "@ELECTRONIQUE 2 paires de pouces à LED (verte et rouge) A DISTRIBUER (quelles piles ???)"
+    - "@ELECTRONIQUE 2 paires de pouces à LED (verte et rouge) A DISTRIBUER (quelles piles)"
     - "@CORRIDORS 2 gros grimoires (1 rouge et 1 vert-gris foncé) creusés pour accueillir tablette/papiers"
 
 -
@@ -361,8 +362,8 @@
     - "FANTÔMES : 4 sacs fins en toile noir pour stocker les affaires hors-jeu"
     - "FANTÔMES : 5 tuniques en velours pourpre"
     - "FANTÔMES : 4 paires gants blancs à diodes (3 à lumière blanche, et 1 à lumière bleue pour voleur)"
-    - "@ELECTRONIQUE FANTÔME VOLEUR : Masque à grille de LEDs ShiningApp (batterie longue autonomie) pour le voleur ?????"
-    - "@ENORMES FANTÔMES : 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes (nécessite PILES????)"
+    - "@ELECTRONIQUE FANTÔME VOLEUR : Masque à grille de LEDs ShiningApp (batterie longue autonomie) pour le voleur"
+    - "@ENORMES FANTÔMES : 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes (3xAA incluses)"
 
 -
   - "@COSTUMES-FIGURANTS La Bête IMPORTANT"
@@ -437,7 +438,8 @@
     - "ESPION DÉMINEUR : 2 bâtons de dynamite (pour minesweeper) {% hint '2_explosives_for_minesweeper' is provided %}"
     - "ESPION DÉMINEUR : Sac avec 9 moyennes bougies (1xCR2032 incluse chacune) à LED en cire {% hint 'mini_candles_for_minesweeper' is provided %}"
     - "ESPION SONDEUR : Détecteur de métal Longruner initialement SANS SA PILE (nécessite une pile RECTANGLE 9V) {% hint 'spy_sounder_metal_detector_initially_broken' is provided %} {% hint 'spy_sounder_metal_detector_battery' is needed %}"
-    - "ESPION CROCHETEUR : Kit de crochetage de serrure {% hint 'lock_picking_kit_for_lockpicker' is provided %} ???"
+    - "ESPION CROCHETEUR : Kit de crochetage de serrure dans une mini-pochette de cuir{% hint 'lock_picking_kit_for_lockpicker' is provided %} ???"
+    - "ESPION CROCHETEUR : Déverrouilleur aimanté avec ruban {% hint 'magnetic_unlocker_for_lockpicker' is provided %}"
     - "ESPION CROCHETEUR : Ceinture et porte-fioles en cuir avec petites potions de Focus, de Charme et de Révélation (appartenait aux diacres) {% hint 'potion_of_focus_from_exorcist' is provided %} {% hint 'potion_of_charm_from_exorcist' is provided %} {% hint 'potion_of_revelation_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %}"
     - "ESPIONS : Lanterne en argent Lunartec (nécessite 2xLR20D)"
 
@@ -463,20 +465,20 @@
   -
     - "Les 4 broches des Maupertuis doivent avoir les symboles [moon, heart, arrow, circle]"
     - "Sur la tablette tactile, la page web des cartes symboliques du grimoire chantant doit fonctionner avec les symboles de ces 4 broches des Maupertuis"
-    - "Sur la tablette tactile, la page web du puzzle des symboles familiaux doit fonctionner avec le symbole familial secret des Maupertuis (voir signe UV de la mallette administrative)"
+    - "Sur la tablette tactile, la page web du puzzle des symboles familiaux doit fonctionner avec le symbole familial secret des Maupertuis (voir le signe UV dans la mallette administrative)"
     - "Les 3 recettes de potions de guérison de l'étage autorisé (quête des Parcival) doivent être pointées par des flèches blanches au sol {% hint 'white_arrows_on_floor_towards_cure_recipes' is provided %}"
-    - "La recette de la Teinture Pyrolitis cachée à l'étage interdit doit avoir ses 2 balises Bluetooth bien activées (leur led clignote 3 fois quand on les allume, 1 fois quand on les éteint)"
     - "La mallette administrative noire de l'étage autorisé doit avoir le code {% symbol '625-993' for 'family_briefcase_code' %}"
     - "Le livre creux en bois {% symbol 'Venture Prins' for 'small_wooden_fake_book_name' %} doit bien murmurer ce code de la mallette administrative noire"
     - "Les livres factices rouges et bleus de l'étage autorisés doivent être mutuellement entreliés (vraie clé VS code en UV {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %})"
     - "La grosse mallette noire de l'étage interdit, contenant le Thanatologue, doit avoir le code {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} (père) - {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} (mère)"
+    - "Le grimoire traceur du coffre familial (application mobile de recherche de balises BLUETOOTH) doit fonctionner"
+    - "La recette de la Teinture Pyrolitis cachée à l'étage interdit doit avoir ses 2 balises Bluetooth bien activées (leur led clignote 3 fois quand on les allume, 1 fois quand on les éteint)"
     - "Sur la station web, la page web de requêtage des indices divers physiques ou magiques (chacun identifié par un code unique) doit fonctionner"
     - "Sur la station web, La page web de traduction runique doit fonctionner, et expliquer comment bien transcrire des runes"
-    - "Le grimoire traceur du coffre familial (application mobile de recherche de balises BLUETOOTH) doit fonctionner"
     - "Les petits bijoux et clés doivent tous être attachés à des gros RUBANS, pour ne pas les perdre en jeu"
-    - "Le détecteur de métaux doit bien sonner près des éboulis rocheux, des coffrets d'initiation d'Octave, et des portraits effrayants lenticulaires, qui sont CRUCIAUX (mais PAS sur les autres objets de ces lots)"
+    - "Le détecteur de métaux doit bien sonner près des 2 éboulis rocheux, du coffret d'initiation d'Octave, et du portrait effrayant lenticulaire, qui sont CRUCIAUX (mais PAS sur les autres objets de ces lots)"
     - "Tous les emplacements des PLUMES de prophétie doivent en avoir une, bien attachée avec du scotch noir"
-    - "Les pierres précieuses et pièces (surtout les trésors comme pour l'énigme chat-lu-mot), les cadenas et clés, les messages UV et magnétiques, les étiquettes de danger (poisons, radiations...), les étoiles autocollantes d'analyse/magie, doivent tous être en place comme le demande la checklist."
+    - "Les pierres précieuses et pièces (surtout les trésors comme pour l'énigme chat-lu-mot), les cadenas et clés, les messages UV et magnétiques, les étiquettes de danger (poisons, radiations...), les pancartes 'éboulis', les étoiles autocollantes d'analyse/magie, doivent tous être en place comme le demande la checklist."
     - "Vérifier la présence des symboles 'UV' et 'aimant' sur les objets respectivement porteurs d'ultraviolets et de codes magnétiques"
     - "Vérifier la présence des étiquettes/écriteaux dédiés sur les TOMBES du cimetière (dont l'hommage funèbre des avatars), sur le TOMBEAU du mage, et sur les COFFRES/BOÎTES"
     - "Mettre les étiquettes de classification devant les rayonnages de livres des 2 étages, en faisant attention à celles importantes dans le scénario (Zoologie et Gastronomie sur le même rayonnage, et optionnellement Teintures là où est la recette de Pyrolitis)."
@@ -546,7 +548,7 @@
     - "Canne bois argentée droite"
 
 -
-  - "@RICHESSES Richesses totales à collecter ??????"
+  - "@RICHESSES Richesses totales à collecter"
   -
     - "50 pièces anciennes de 10 centimes trouées (= 50 kashes)"
     - "8 pièces d'or (= 80 kashes)"
@@ -565,6 +567,7 @@
     - "Placer : 100 kashes dans les économies d'Octave (chasse au trésor montée par Mérédice)"
     - "Placer : 70 kashes au MJ, représentant le sac de voyage d'Octave enfoui sous les éboulis de l'étage autorisé {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
     - "Placer : 100 kashes au MAJ, pour la production du moulin magique APRES activation {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}"
+
 
 # IMPORTANT
 # BESOINS EN PILES #

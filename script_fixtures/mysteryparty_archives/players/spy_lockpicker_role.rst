@@ -22,7 +22,7 @@ Mais si vous trouvez un **cadenas transparent**, vous pouvez tenter de l'ouvrir 
 Déverrouilleur magnétique
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous disposez d'une **clé magnétique**, qui permet d'ouvrir des serrures dissimulées à l'intérieur de tiroirs, coffrets, et autres rangements. Cette clé magnétique s'est parfois aussi révélée utile pour désactiver d'étranges antivols mis sur des livres ou autres objets.
+Vous disposez d'une **clé magnétique**, qui permet d'ouvrir des serrures dissimulées à l'intérieur de tiroirs, coffrets, et autres rangements. Cette clé magnétique s'est parfois aussi révélée utile pour désactiver d'étranges antivols mis sur des livres ou autres objets. {% hint "magnetic_unlocker_for_lockpicker" is needed %}
 
 Trouver les emplacements exacts de ces mécanismes n'est pas toujours facile, mais votre collègue Sondeur pourrait vous aider un peu en cela. {% fact "spy_sounder_can_help_spy_lockpicker_regarding_magnetic_unlocker" %}
 

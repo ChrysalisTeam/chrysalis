@@ -51,6 +51,16 @@ static_pages:
 
             De tels sceau sont souvent utilisés par les sorciers qui désirent bloquer l'accès à leurs laboratoires ou appartements privés.
 
+    anti_explosion_cauldron:
+        title: "Chaudron avec enchantement anti-explosion"
+        categories: ["magie"]
+        clue_code: "adp"
+        keywords: []
+        content: |
+
+            Ce chaudronnet est enrobé de puissants enchantements stabilisateurs,
+            afin d'éviter toute déflagration si sa mixture surchauffe ou change inopinément de propriétés magiques.
+
     etheric_stone_skin_necklace:
         title: "Collier éthérique de peau de pierre (pierres ovales bleutées translucides)"
         categories: ["magie"]
