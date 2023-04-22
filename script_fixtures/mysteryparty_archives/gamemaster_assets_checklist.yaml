@@ -111,7 +111,7 @@
     - "2 grands tournevis anciens"
     - "Boite à secrets en bois léger (fragile) cachée près des chalumeaux, avec trésor d'Octave dedans {% hint 'children_enigma_treasure_near_blowtorch' is provided %} IMPORTANT"
     - "@GENERAL Jarre lumineuse NewYang (batterie solaire incluse)"
-    - "Verbeux journal intime de l'archiviste dans une couverture A4 en cuir rouge {% hint 'archivist_diary_book' is probided %}"
+    - "Verbeux journal intime de l'archiviste dans une couverture A4 en cuir rouge {% hint 'archivist_diary_book' is provided %}"
     - "Projecteur-enceinte ovale sonore LuckyStone (microUSB sans batterie) avec Jack3.5 ou SDCARD ou Bluetooth HMT-01, et télécommande (2xAAA)"
 
 -
@@ -438,7 +438,7 @@
     - "ESPION DÉMINEUR : 2 bâtons de dynamite (pour minesweeper) {% hint '2_explosives_for_minesweeper' is provided %}"
     - "ESPION DÉMINEUR : Sac avec 9 moyennes bougies (1xCR2032 incluse chacune) à LED en cire {% hint 'mini_candles_for_minesweeper' is provided %}"
     - "ESPION SONDEUR : Détecteur de métal Longruner initialement SANS SA PILE (nécessite une pile RECTANGLE 9V) {% hint 'spy_sounder_metal_detector_initially_broken' is provided %} {% hint 'spy_sounder_metal_detector_battery' is needed %}"
-    - "ESPION CROCHETEUR : Kit de crochetage de serrure dans une mini-pochette de cuir{% hint 'lock_picking_kit_for_lockpicker' is provided %} ???"
+    - "ESPION CROCHETEUR : Kit de crochetage de serrure dans une mini-pochette de cuir{% hint 'lock_picking_kit_for_lockpicker' is provided %}"
     - "ESPION CROCHETEUR : Déverrouilleur aimanté avec ruban {% hint 'magnetic_unlocker_for_lockpicker' is provided %}"
     - "ESPION CROCHETEUR : Ceinture et porte-fioles en cuir avec petites potions de Focus, de Charme et de Révélation (appartenait aux diacres) {% hint 'potion_of_focus_from_exorcist' is provided %} {% hint 'potion_of_charm_from_exorcist' is provided %} {% hint 'potion_of_revelation_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %}"
     - "ESPIONS : Lanterne en argent Lunartec (nécessite 2xLR20D)"
@@ -488,7 +488,7 @@
 
 
 -
-  - "@DECORATIONS Logistique et décorations diverses  ????????"
+  - "@DECORATIONS Décorations diverses  ????????"
   -
     - "6 grosses bougies LED (nécessite 3xAAA chacune) à disséminer"
     - "2 lanternes en faux-bronze \"Flame Vintage\" (3xAA incluses chacune) à disséminer"
@@ -499,7 +499,7 @@
     - "@COFFRE-MARRON 2 grands tissus-nappes noirs pour usage libre dans la bibliothèque"
 
 -
-  - "@GENERAL Logistique et décorations diverses  ????????"
+  - "@GENERAL Logistique diverse  ????????"
   -
     - "Boite de maquillage spécial UV"
 
