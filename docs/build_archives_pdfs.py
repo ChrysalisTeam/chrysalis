@@ -324,7 +324,7 @@ def generate_archives_sheets():
         section = section.replace(important_marker, "")
         for item_title in item_titles:
             title_is_important = (important_marker in item_title)
-            item_title = item_title.replace(important_marker, "")
+            item_title = item_title.replace(important_marker, "").strip()
             section_item_struct = {
                 "item_is_important": section_is_important or title_is_important,
                 "item_label": item_title
@@ -362,11 +362,15 @@ def generate_archives_sheets():
         default_create = crate or section
         for item_details in item_details_list:
             item_label = item_details["item_label"]
+            item_is_important = item_details["item_is_important"]
+            #if item_details["item_is_important"]:
+                #print(repr(item_label))
+                #item_label = "*%s*" % item_label
             item_crate, item_label = _extract_crate(item_label)
             item_crate = item_crate or default_create
             assert item_crate, repr(item_crate)
             murder_party_items_per_crate.setdefault(item_crate, [])
-            murder_party_items_per_crate[item_crate].append(item_label)
+            murder_party_items_per_crate[item_crate].append((item_label, item_is_important))
             ##print(item_label)
             total_item_entry_count += 1
 

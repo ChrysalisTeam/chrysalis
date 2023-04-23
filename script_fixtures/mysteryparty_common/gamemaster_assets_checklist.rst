@@ -1,7 +1,7 @@
 Checklist des Objets du Jeu
 ================================
 
-*Marquer avec des ronds les objets préparés au début du jeu, et cocher ces ronds lorsque les objets sont récupérés à la fin du jeu. Les objets importants pour le scénario sont mis en emphase ci-dessous.*
+*Les objets non cruciaux pour le scénario sont marqués en italique.*
 
 {% for section, section_item_structs in murder_party_items %}
 
