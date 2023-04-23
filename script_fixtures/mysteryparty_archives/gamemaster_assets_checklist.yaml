@@ -37,7 +37,7 @@
   - "@RECOINS-BUFFET-PENTACLE Indices cachés et objets disséminés IMPORTANT"
   -
     - "I1 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
-    - "@ELECTRONIQUE Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse pour le Venture Prins"
+    - "@ELECTRONIQUE VENTURE PRINS : Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse"
     - "I2 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (exigeant les 3 autres Recettes), marqué au sol en scotch blanc {% hint 'recipe_rejuvenation_cocktail' is provided %}"
     - "I3 - Livre fin HACHETTE avec Recette de l'Elixir Flexifiant, marqué au sol en scotch blanc {% hint 'recipe_flex_elixir' is provided %}"
     - "I4 - Livre fin HACHETTE avec Recette de la Lotion de Clairvoyance, marqué au sol en scotch blanc {% hint 'recipe_clarity_lotion' is provided %}"
@@ -62,7 +62,7 @@
     - "Clochette de table argentée d'appel aux spectres, avec plaquette d'INSTRUCTIONS RUNIQUES (code d'envoûtement DIVIN [{% symbol 'vbr' for 'magic_code_spectral_table_bell' %}]) IMPORTANT"
     - "4 bougies LED soufflables (1xCR2032 incluse chacune)"
     - "Lampe à fibres Blue ice Lunartec (3xAAA incluses)"
-    - "2 bougies sur chandelier (nécessite 2xAA chacune) NOPE PERDUS???????"
+    ##- "2 bougies sur chandelier (nécessite 2xAA chacune) NOPE PERDUS???????"
     - "Petit plateau de service rectangulaire en bois doré"
     - "2 nappes blanche nacrées, et 1 chemin de table brodé blanc cassé"
     - "Petite sphère armillaire en laiton sur pied en bois"
@@ -87,7 +87,7 @@
     - "@ENORMES Mini-meuble boîte-aux-lettres en bois à double porte vitrée, protégé par un CADENAS CROCHETABLE TRANSPARENT"
     - "@PAPIERS Deux lettres aux parents Maupertuis à placer dans le mini-meuble en bois IMPORTANT {% hint 'two_letters_for_maupertuis_parents_in_postbox' is provided %}"
     - "Projecteur globe Aurore Boréale Lunartec (secteur/12V) pour l'arkonte"
-    - "@ELECTRONIQUE Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie) pour l'arkonte"
+    - "@ELECTRONIQUE ARKONTE : Mini-enceinte cube TD-V26 à batterie avec Jack3.5/USBKEY et SDCARD 16Go incluse (batterie interne 1h15 autonomie)"
 
 -
   - "@RECOINS-BUFFET-PENTACLE Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
@@ -101,7 +101,7 @@
     - "Livre factice rouge (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} IMPORTANT"
     - "Broche du père Maupertuis pour le livre factice rouge (envoûtement POSITIF) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} IMPORTANT"
     - "Projecteur aquatique sonore Lunartec (USB/secteur ou 4xAA) avec Jack3.5 pour l'enfant"
-    - "@ELECTRONIQUE Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse pour l'enfant"
+    - "@ELECTRONIQUE ENFANT : Mini-lecteur MP3 étanche bleu AGPTEK Go2 Small (batterie / microUSB) avec mémoire interne 8Go incluse"
 
 -
   - "@VALISE-ROUGE Coin du fantôme de l’archiviste"
@@ -143,7 +143,7 @@
     - "Mini-coffret en bois rouge&or avec marque d'envoûtement NEGATIF LEGENDAIRE {% hint 'trap_in_family_briefcase' is provided %}"
     - "Feuille d'instructions pour l'initiation dynastique d'Octave {% hint 'maupertuis_initiation_instructions_for_octave' is provided %}"
     - "Classeur en tissu gris CLIVRA avec des photographies anciennes"
-    - "@ELECTRONIQUE Mécanisme d'alarme à son de cigale pour le mini-coffret en bois rouge&or (nécessite 2xAAA)"
+    - "@ELECTRONIQUE Mécanisme d'alarme à son de cigale pour le mini-coffret en bois rouge&or de la mallette administrative noire (nécessite 2xAAA)"
     - "@ELECTRONIQUE ???????TODO Smartphone avec application android \"Beacon Locator\" par Samebits (logo orange) pour trouver les balises Bluetooth (pour les Parcival et leurs recettes de potions) {% hint 'radio_frequency_scanner_app_in_chest' is provided %}"
 
 -
@@ -173,7 +173,7 @@
     - "Tombe 3 : Squelette de 28 os (SANS crâne) de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %} (envoûtement POSITIF) IMPORTANT"
     - "@ENORMES Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %} (code d'envoûtement POSITIF [{% symbol 'bst' for 'magic_code_etheric_benediction_necklace' %}]) marquée ULTRA-LOURDE IMPORTANT"
 
-    - "@ELECTRONIQUE Mini-enceinte cubique Auvisio récente PX-1564 noire (batterie moyenne autonomie) pour le cimetière"
+    - "@ELECTRONIQUE CIMETIERE : Mini-enceinte cubique Auvisio récente PX-1564 noire (batterie moyenne autonomie)"
 
 -
   - "@TOMBEAU-MAGE Galerie de portraits des Maupertuis"
@@ -218,8 +218,8 @@
   - "Coin du fantôme du voleur"
   -
     - "@ENORMES gros accordéon ancien désaccordé"
-    - "@ELECTRONIQUE Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth (batterie / microUSB) - INITIALEMENT SUR LES CRIS DE BETE, PUIS PLUS TARD SUR LES MUSIQUES DE VOLEUR"
-    - "@ELECTRONIQUE Digital MP3/FM Player Key noir (pile AAA incluse) pour l'enceinte Jabra (pour les cris de bête puis fantôme du voleur)"
+    - "@ELECTRONIQUE VOLEUR : Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth (batterie / microUSB)"
+    - "@ELECTRONIQUE VOLEUR : Digital MP3/FM Player Key noir (pile AAA incluse) pour l'enceinte Jabra (pour les cris de bête, puis le fantôme du voleur)"
 
 -
   - "@ALCHIMIE Laboratoire d'Alchimie"
@@ -250,7 +250,7 @@
     - "Potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} IMPORTANT"
     - "Potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %} IMPORTANT"
     - "Lot de 7 grandes potions cylindriques, dont celles de Focus et de Charme, et surtout une \"Potio Unicornis\" {% hint 'potion_of_unicorn' is provided %} IMPORTANT"
-    - "@ELECTRONIQUE Enceinte MuziliSpeaker (longue autonomie) pour l'alchimie"
+    - "@ELECTRONIQUE ALCHIMIE : Enceinte MuziliSpeaker (longue autonomie)"
 
 -
   - "@GEMMOLOGIE Laboratoire de gemmologie"
@@ -271,7 +271,7 @@
     - "Lanterne cubique à flamme (3xAA) (marque d'envoûtement POSITIF)"
     - "Lot de petites pierres du monde avec étiquettes"
     - "Lot de Cristaux, gemmes et coquillages divers"
-    - "@ELECTRONIQUE Enceinte MuziliSpeaker (longue autonomie) pour la gemmologie"
+    - "@ELECTRONIQUE GEMMOLOGIE : Enceinte MuziliSpeaker (longue autonomie)"
 
 -
   - "@DIVINATION Laboratoire de divination"
@@ -286,8 +286,8 @@
     - "Deux livres beiges épais \"Itinéraire de la France\""
     - "Cadre photo numérique Kodak Easyshare avec images occultes (alimentation secteur)"
     - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE, contenant quelques richesses (marque d'envoûtement complexe NEGATIF)"
-    - "@ELECTRONIQUE Mécanisme d'alarme à son de cigale pour le mini-coffret en bois marron foncé noueux (nécessite 2xAAA)"
-    - "@ELECTRONIQUE Enceinte XooparBoy + lecteur Clip noir récepteur bluetooth (batterie) pour la divination"
+    - "Mécanisme d'alarme à son de cigale pour le mini-coffret en bois marron foncé noueux (nécessite 2xAAA)"
+    - "@ELECTRONIQUE DIVINATION : Enceinte XooparBoy + lecteur Clip noir récepteur bluetooth (batterie)"
 
 -
   - "@CORRIDORS Corridor de Force Vitale (cul-de-sac)"
@@ -333,7 +333,7 @@
     - "Mini-lanterne noire à bougie avec vitre mauve"
     - "Boite en forme de dé 6 faces, en bois et cuir marron"
     - "@GENERAL Piège à fil+grelots à hauteur de cheville et de tête pour la niche de la bête {% hint 'thin_white_wire_and_bells_to_represent_traps' is provided %}"
-    - "@ELECTRONIQUE Mini-enceinte cubique Auvisio bleue (batterie longue autonomie) pour la niche de la bête"
+    - "@ELECTRONIQUE BÊTE : Mini-enceinte cubique Auvisio bleue (batterie longue autonomie) pour la niche de la bête"
 
 # DIVERS AUTRES #
 
@@ -362,7 +362,7 @@
     - "FANTÔMES : 4 sacs fins en toile noir pour stocker les affaires hors-jeu"
     - "FANTÔMES : 5 tuniques en velours pourpre"
     - "FANTÔMES : 4 paires gants blancs à diodes (3 à lumière blanche, et 1 à lumière bleue pour voleur)"
-    - "@ELECTRONIQUE FANTÔME VOLEUR : Masque à grille de LEDs ShiningApp (batterie longue autonomie) pour le voleur"
+    - "@ELECTRONIQUE FANTÔME VOLEUR : Masque à grille de LEDs ShiningApp (batterie longue autonomie)"
     - "@ENORMES FANTÔMES : 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes (3xAA incluses)"
 
 -
