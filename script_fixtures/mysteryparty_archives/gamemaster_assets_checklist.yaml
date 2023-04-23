@@ -553,17 +553,17 @@
     - "50 pièces anciennes de 10 centimes trouées (= 50 kashes)"
     - "8 pièces d'or (= 80 kashes)"
     - "10 petits diamants ronds (= 50 kashes)"
-    - "10 diamants moyens rectangulaire (= 100 kashes) {% hint 'diamonds_for_alchemy_recipes' is provided %}"
+    - "13 diamants moyens rectangulaire (= 130 kashes) {% hint 'diamonds_for_alchemy_recipes' is provided %}"
     - "5 grands diamants ronds (= 100 kashes)"
     - "Bracelet doré à gros diamant bleu (marqué non magique) valant environ 100 kashes [ETIQUETTE]"
     - "Collier en bande dorée (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
     - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
-    # Soit 50 + 80 + 50 + 100 + 100 + 100 + 60 + 60 = 600 kashes en jeu
+    # Soit 50 + 80 + 50 + 130 + 100 + 100 + 60 + 60 = 630 kashes en jeu
 -
   - "@RICHESSES Localisation de ces richesses diverses à collecter)"
   -
     - "Placer : 140 kashes répartis entre les coffres et emplacements de l'étage autorisé"
-    - "Placer : 190 kashes répartis entre les ateliers et les corridors de l'étage interdit"
+    - "Placer : 220 kashes répartis entre les ateliers et les corridors de l'étage interdit"
     - "Placer : 100 kashes dans les économies d'Octave (chasse au trésor montée par Mérédice)"
     - "Placer : 70 kashes au MJ, représentant le sac de voyage d'Octave enfoui sous les éboulis de l'étage autorisé {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
     - "Placer : 100 kashes au MAJ, pour la production du moulin magique APRES activation {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}"
