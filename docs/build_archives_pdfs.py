@@ -59,6 +59,8 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     spy_lockpicker=dict(official_name="Le crocheteur", email_attachments=[]),
     spy_minesweeper=dict(official_name="Le démineur", email_attachments=[]),
     spy_sounder=dict(official_name="Le sondeur", email_attachments=[]),
+
+    dragons=dict(official_name="Les déchus", email_attachments=[]),
 )
 
 NPC_OVERRIDES = dict(
