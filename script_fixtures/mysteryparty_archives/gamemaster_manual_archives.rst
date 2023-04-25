@@ -1165,33 +1165,40 @@ Ces rôles peuvent être facilement réaffectés ou cumulés à l’intérieur d
 
 IMPORTANT : chaque rôle doit avoir son **“moment de gloire”** prévu dans le scénario - à charge pour le joueur de savoir s’en saisir.
 
+{% macro summary_of_player_abilities() %}
+
+{# ATTENTION NE RIEN METTRE DE SPOILER ICI, CAR LES DRAGONS ONT CES INFORMATIONS AUSSI #}
+
+Diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- Désenvouteur : reconnait les envoûtements d'objets, supprime ceux négatifs, et connait les types de blessures
+- Exorciste : sait attirer ou bannir des esprits, et bénir des armes ; connait les fantômes
+- Invocateur : sait réaliser des rituels magiques complexes à l'aide de pentacles ou sceaux ; possède un encensoir
+
 Famille Parcival
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Gardien des bois : armé d'une arbalète, avec une force herculéenne ; il a un fort instinct de protection, et connait divers monstres
-- Alchimiste : sait fabriquer des potions pour divers usages ; possède divers ingrédients (non matérialisés), et une sacoche avec des fioles vides
+- Gardien des bois : possède une arbalète et une force herculéenne ; a un fort instinct de protection, et connait divers monstres
+- Alchimiste : sait fabriquer des potions pour divers usages ; possède divers ingrédients et matériels
 - Oracle : reçoit ponctuellement de grandes révélations visuelles ou auditives, ainsi que des intuitions
 
 Agents secrets mirandiens
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Démineur : sait sécuriser des pièges/éboulements, possède des explosifs et des bougies LED ; connait bien la mécanique
-- Sondeur : sait détecter les métaux et les champs magnétiques de surface ; reconnaît la nature anormale (archéologique, magique ou divinatoire) des artefacts
-- Crocheteur : sait forcer certains cadenas, et ouvrir des serrures/antivols magnétiques ; a trouvé les potions des diacres
-
-Diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-- Désenvouteur : reconnait les envoûtements d'objets (par symboles ou code), supprime ceux négatifs, et connait les types de blessures
-- Exorciste : sait attirer ou bannir des esprits, et bénir des armes ; connait les fantômes
-- Invocateur : sait réaliser des rituels magiques complexes à l'aide de pentacles ou sceaux ; possède un encensoir
+- Démineur : sait sécuriser des pièges/éboulements, possède des explosifs et des bougies ; connait bien la mécanique
+- Sondeur : sait détecter les métaux et les champs magnétiques de surface ; pressent la nature anormale (archéologique, magique ou divinatoire) des artefacts
+- Crocheteur : sait forcer certains cadenas, et ouvrir des serrures/antivols magnétiques ; porte des potions rituelles
 
 Explorateurs-archéologues héliossars
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Runologue : sait traduire des runes akarites et reconnaître divers codes secrets ; possède une loupe et un stéthoscope
-- Dévoileur : sait lire les encres UV invisibles, et analyser scientifiquement (avec un code) des objets
-- Anthropologue : érudit en traditions humaines, blasons, et valeurs marchandes ; ritualiste de Bahamoot ; sait lire les anaglyphes rouge/bleu ; connait les fantômes et les types de blessures
+- Runologue : sait traduire des runes akarites et reconnaître divers codes secrets ; possède une loupe et un stéthoscope
+- Dévoileur : sait lire les encres invisibles, et analyser scientifiquement des objets
+- Anthropologue : érudit en traditions humaines, théologies, blasons, et valeurs marchandes ; sait sentir le passé de certains artefacts ou lieux ; connait les fantômes et les types de blessures
+
+{% endmacro %}
+<{ summary_of_player_abilities }/>
 
 
 .. raw:: pdf

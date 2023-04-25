@@ -63,8 +63,21 @@ La chance, parait-il, sourit aux audacieux, donc peut-être aura-t-elle pitié d
 
 
 
-Votre sagesse
-====================
+Votre clairvoyance draconique
+=======================================
+
+Vous avez gardé une partie de votre capacité à sonder les âmes.
+Dès que vous les croisez, vous devinez ainsi les spécialités et possessions des autres visiteurs de ce sanctuaire.
+
+<{ summary_of_player_abilities }/>
+
+
+Votre sagesse draconique
+========================================
+
+La sagesse, la justesse, la générosité des dragons sont légendaires.
+Vous êtes donc toujours prêts à aider autrui.
+Et vous aimez, quand l'occasion s'y prête, rappeler aux humains quelques-uns de vos préceptes de bon sens.
 
 « Il est mille fois meilleur d'avoir du sens commun sans éducation, que de l'éducation sans sens commun »
 
