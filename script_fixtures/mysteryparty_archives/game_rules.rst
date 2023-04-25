@@ -64,7 +64,7 @@ Blessures et morts fictifs, "en jeu"
 
 Il peut arriver que votre personnage soit **blessé** durant le jeu. Vous devez alors vous arrêter, si possible vous mettre au sol, et appeler à l'aide. Le maître de jeu vous donnera alors le malus que vous subissez.
 
-Si vous déclenchez un **son de cigale**, ou faites sonner des **grelots**, cela signifie probablement un piège, faites là aussi appel au maître de jeu pour savoir quoi faire. {% fact "cicada_or_minibell_sound_mean_injury" %}
+Si vous déclenchez un **flash lumineux**, un **son de cigale**, ou faites tinter des **grelots**, cela signifie probablement un piège. Faites là aussi appel au maître de jeu pour savoir quoi faire. {% fact "cicada_or_minibell_sound_mean_injury" %}
 
 Il peut aussi arriver, plus rarement, que votre personnage soit tué. Mais pas de panique, cela ne signifie pas la fin de la partie pour vous, car dans l'univers de ce jeu, le monde des morts offre lui aussi de multiples possibilités.
 

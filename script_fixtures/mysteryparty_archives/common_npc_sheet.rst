@@ -126,7 +126,7 @@ Incarnation, ancrage et errance spectrale des fantômes
 {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
 Tout figurant fantôme qui est mort violemment est initialement **ancré** à une petite zone éclairée, qui fut le lieu de sa mort violente. {% fact "beings_dead_violently_are_anchored" %}
-Il est alors en **phase incarnée**: il a une apparence humaine, peut communiquer normalement, son visage est découvert, et ses gants lumineux éteints.
+Il est alors en **phase incarnée** : il a une apparence humaine, peut communiquer normalement, son visage est découvert, et ses gants lumineux éteints.
 Il peut manier quelques accessoires le représentant ; il garde cependant une certaine lenteur dans les gestes, et si possible un visage blafard.
 
 Lorsque les **cloches** retentissent (ou bien la **clochette** de frénésie spectrale), le fantôme passe en mode spectral, désincarné, et va errer dans la bibliothèque (y compris dans le domaine interdit si celui-ci est ouvert).
