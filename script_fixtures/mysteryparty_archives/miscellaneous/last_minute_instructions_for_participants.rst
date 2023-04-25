@@ -8,7 +8,8 @@ BRIEFING GENERAL DES FIGURANTS
 --------------------------------
 
 Rappeler que le MJ, le **Djinn renégat Meujeuh**, sera lui-même en jeu, et capable de parler à tous.
-Les figurants devront s'interroger AUSSI sur sa présence en ces lieux.
+
+Les figurants devront s'interroger avec curiosité sur la présence des joueurs, mais AUSSI du djinn renégat en ces lieux.
 
 Rappeler que les fantômes (dont la Bête), et les avatars, **ne peuvent pas se voir mutuellement**.
 Mais que tous peuvent voir l'Ankou qui est divin.

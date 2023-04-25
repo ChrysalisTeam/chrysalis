@@ -3,80 +3,35 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
-
-CAMION MATERIEL <<<<<<<<<<<<>>>>>>>>>>>>
-
-Dire que figurants reviennent chaque année seulement
-Préciser sceau de l'étage interdit
-Cet envoutement légendaire
-
-Grand baton : pour l'ankou
-
 Envoyer messages à farcis.claire@gmail.com
-
-Dire aux figurants d'être CURIEUX de ce que viennent faire les joueurs ici !!
-
-IMPORTANT - remettre adresse et heure dans mails envoyés aux joueurs pour SAVE THE DATE
-
 URGENT envoyer bandes son aux Oracles  !!! Et mailer ceux qui ont plusieurs rôles à donner.
 
-Utiliser Haunted Castle Horror Ambience 1 Hour #dnd.mp3  pour tombeau du mage ???
-
-Dire que automate de garde est BIEN CONNU des figurants
 
 Quelques derniers trucs qui nous manquent :
-- des grelots pour les pièges (quelqu'un a ?) <<<<<<<<<< commandé
-- une balance vintage laiton/bois <<<<<<<<<< commandé
-- 1 ou 2 petits coffres verrouillables
-- 1 ou 2 petits globes pour des objets exposés
-- quelques potions en plus et pots avec trucs végétaux (on peut en crafter chez moi ou en piquer dans vos stocks)
 - la jungle à pimper
-- Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS !!
+- le GRAMOPHONE
+- Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS !! -> FEUILLES DE LIVRES
 - Musiques manquantes à configurer : Banquet des mondes + Grimoire maudit du druide
-- acheter guètres / surchaussures et gants blancs
-- Retrouver "2 bougies sur chandelier (nécessite 2xAA chacune)"
+- Grand baton de la cave : pour l'ankou  !!!
+- Ramener petit meuble B.A.L, et fleurs en plastiques de la cave
 
 CRAFTING RESTANT
-- /!\ Intégrer tube néon dans coffre familial   DONE
 - Faire un écriteau pour le voleur avec ses offres
-- Mettre huiles essentielles ? Odeurs ?
-- Améliorer la décoration du crane blessé de l'arkonte
-- Réenregistrer l'énigme des sousous avec "OCTAVE" en nom <<<<
+- Améliorer la décoration du crâne blessé de l'arkonte
+- Réenregistrer l'énigme des sousous avec "OCTAVE" en nom, et prophétie de CASSANDRA  -   WIP
 - Prévoir étiquettes des POTIONS que l'alchimiste peut CREER, à lui donner sur le moment !!
 
 INSTALLATION DU DECOR :
-- Ecrire fiche de deroulement de l'installation et démontage  !!!
-- Marquer dans CRATES qu'il faut suivre cette fiche montage/démontage
+- Ecrire fiche de deroulement de l'installation et démontage  !!!  WIP
+- Marquer dans CRATES qu'il faut suivre cette fiche montage/démontage  Nope
+- Revérifier toutes les PLUMES de prophétie (même sur fontaine encense et tableaux effrayants)
 
-RELECTURES
-- Re-vérifier que les feuilles d'octave sont BIGENRES
-- Révérifier que les fantomes "incarnés" sont SANS DANGER
+RELECTURES Scénario :
 - TESTER LES RUNES hiéroglyphes dont cryptex_rune sur le portail web
 - Repasser en revue les codes d'analyse et leur contenu
-- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE !!
-
-Derniers assortiments
-- Mettre plume aussi sur fontaine encens et portraits effrayants !!!
-- Mettre les bijoux précieux et l'argent et les cadenas
-- Ramener détecteur de présence LED depuis la cave, pour piège devant antichambre du tombeau du mage ?
-- Revérifier toutes les PLUMES de prophétie (même sur fontaine encense et tableaux effrayants)
-- Bête doit utiliser gants bleus comme le voleur  NOPE GANTS LATEX AVEC LEDs   DONE
-- ajouter dome poulpi et lanternes vintage aux Assets
-- Marquer dans assets checklist les diverses images chromocrypto
-- Mettre diode dans encensoir + chandelle
-- retrouver gemmes et potions nécessaires aux quêtes
-- !!!!!!!!! IMPRIMER le diary de l'archiviste ?
-- intervertir Enceinte de la jungle avec générateur de bruit blanc, et la mettre pour la niche de la bête  DONE
-
-Nouvelles quêtes
-- Puits de longévité = 8 pièces d'or
-
-Scénario
 - !!!!!!!!! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !! <<<<
 - Rajouter un moyen de trouver le code de Quirinius ?
-
-
-
+- Marquer dans assets checklist les diverses images chromocrypto
 
 
 
@@ -110,6 +65,19 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - pilon pour labo alchimie ? bof
 - dire dans forms d'inscription que les murder parties sont GRATUITES
 - EXPLIQUER "En tant qu'Arkonte, j'ai jeté avant ma mort un sort de "clôture absolue" autour de la bibliothèque, pour les morts, comme pour les vivants : comme les joueurs pourront pénétrer dans la bibliothèque, la clôture ne fonctionne que pour en repartir et pas pour y entrer, c'est cela ?"
+- Puits de longévité = 8 pièces d'or pour vivre bien plus longtemps (1 seule utilisation/an)
+- Ajouter bandes son aux fichiers auto-envoyés pour ORACLE, PNJs (fantômes, inventeur, duchesse...)
+- Révérifier que les fantomes "incarnés" sont SANS DANGER dans les fiches d'instructions et le manuel du gamemaster
+- Mettre huiles essentielles ? Odeurs de forêt ?
+- Quelques derniers trucs qui nous manquent pour LATER:
+  - 1 ou 2 petits coffres verrouillables
+  - 1 ou 2 petits globes d'exposition pour des objets exposés
+  - acheter guètres / surchaussures et gants blancs
+  - Retrouver "2 bougies sur chandelier (nécessite 2xAA chacune)"
+- Dire aux figurants d'être CURIEUX de ce que viennent faire les joueurs ici !!
+- Dire que figurants reviennent chaque année seulement, et passent le reste du temps dans LEUR monde
+- Utiliser Haunted Castle Horror Ambience 1 Hour #dnd.mp3  pour tombeau du mage ???  NON DEJA BANDE SON PRETE, mais ailleurs ptet
+
 
 
 
@@ -117,6 +85,29 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 TRASH
 ########################################
 
+
+- quelques potions en plus et pots avec trucs végétaux (on peut en crafter chez moi ou en piquer dans vos stocks)   DONE
+
+IMPORTANT - remettre adresse et heure dans mails envoyés aux joueurs pour SAVE THE DATE
+
+- des grelots pour les pièges (quelqu'un a ?) <<<<<<<<<< commandé
+- une balance vintage laiton/bois <<<<<<<<<< commandé
+
+- /!\ Intégrer tube néon dans coffre familial   DONE
+
+- Mettre plume aussi sur fontaine encens et portraits effrayants !!!???  DUPLICATED
+
+- Re-vérifier que les feuilles d'octave sont BIGENRES   DONE
+
+- Retrouver gemmes et potions nécessaires aux quêtes   DONE
+- !!!!!!!!! IMPRIMER le diary de l'archiviste ?   DONE
+- intervertir Enceinte de la jungle avec générateur de bruit blanc, et la mettre pour la niche de la bête  DONE
+
+- Bête doit utiliser gants bleus comme le voleur  NOPE GANTS LATEX AVEC LEDs   DONE
+- ajouter dome poulpi et lanternes vintage aux Assets   DONE
+
+- Mettre les bijoux précieux et l'argent et les cadenas   DONE
+- Ramener détecteur de présence LED depuis la cave, pour piège devant antichambre du tombeau du mage ?   DONE
 
 TODO mettre à jour finalement "Survol des compétences spécifiques des participants"  DONE
 
