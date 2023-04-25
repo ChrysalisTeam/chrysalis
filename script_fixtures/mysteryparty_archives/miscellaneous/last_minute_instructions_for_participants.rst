@@ -63,18 +63,18 @@ Questions à poser aux joueurs du groupe avant le jeu :
 BRIEFING FINAL DES JOUEURS+FIGURANTS
 -----------------------------------------
 
-- Redonner le planning global du jeu
-- Redonner les principales règles : délicatesse envers les objets, objets hors-jeu, sécurité physique et psychologique
-- Détailler la zone de jeu, en particulier les salles hors-jeu
-- Détailler la présence des toilettes, HORS-JEU
-- Expliquer la présence du photographe (redemander à tous si c'est OK pour droit à l'image)
-- Annoncer la présence du terminal Web des indices et des traductions runiques
-- Rappeler l'existence du "seau argenté des objets utilisés" (ex. pour les clés ou potions utilisées) {% hint 'basket_for_precious_items' is needed %}
-- Annoncer : "En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler: je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de pangéa par exemple, ce n'est pas de la triche, çà fait partie du jeu ! Toutes mes possessions sont cependant HORS-JEU !"
+- Planning global du jeu
+- Principales règles : délicatesse et non-possessivité envers les objets, objets en-jeu et hors-jeu, sécurité physique et psychologique
+- Zone de jeu, en particulier les bureaux hors-jeu
+- Toilettes, qui sont HORS-JEU
+- Photographies : redemander à tous qui est OK pour droit à l'image
+- Terminal Web des indices et des traductions runiques
+- Seau argenté des objets utilisés (ex. pour les cadenas, clés ou potions utilisées) {% hint 'basket_for_precious_items' is needed %}
+- Annoncer : "En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler: je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de Pangéa par exemple, ce n'est pas de la triche, çà fait partie du jeu ! Toutes mes possessions sont cependant HORS-JEU !"
 
-**Conseils divers:**
+**Conseils divers :**
 
 - Vous pouvez garder votre fiche de personnage avec vous, en particulier pour les formules alchimiques ou les incantations sacrées ; elle est HORS-JEU.
-- Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des étoiles autocollantes sur des objets du jeu, ou bien des plumes colorées. C'est un jeu plutôt **collaboratif**, pour une raison simple : vous pouvez à tout moment, grâce au serment de Zarathoustra, vérifier si ce que vous disent les autres joueurs est vrai.
+- Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des étoiles autocollantes ou des plumes colorées. C'est un jeu plutôt **collaboratif**, grâce au serment de Zarathoustra.
 - Vous allez aussi croiser différents personnages figurants ; prenez là aussi le temps de les découvrir, de discuter avec eux, peut-être que vous pouvez les aider, peut-être aussi qu'ils peuvent vous aider dans vos recherches !
-- Enfin, vous allez croiser des mécanismes, des sortilèges, et des êtres dangereux pour votre personage... Faites attention, ils peuvent vous blesser ou bien pire ; et que faites-vous si vous êtes blessé, déjà ? Oui, vous ne bougez plus et vous appelez à l'aide.
+- Enfin, vous allez croiser des mécanismes, des sortilèges (FLASH LUMINEUX, son de cigale, grelots), et des êtres dangereux pour votre personnage... Faites attention, ils peuvent vous blesser ou bien pire ; et que faites-vous si vous êtes blessé, déjà ? Oui, vous ne bougez plus et vous appelez à l'aide.
