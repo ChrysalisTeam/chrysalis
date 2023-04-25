@@ -523,12 +523,16 @@
 -
   - "@ELECTRICITE Batteries, piles, câbles électriques ?????A REVOIR??????"
   -
-    - "Batterie plate blanche LifeDom 18Wh"
-    - "Batterie USB Duracell PB2 24.3Wh"
-    - "Batterie solaire rouge @Valentin"
-    - "2 batteries haute capacité Maxoak K2"
-    - "Dérouleur électrique gris"
-    - "Rallonge électrique + tripleur de prise, tous deux blancs"
+    - "Batterie plate blanche LifeDom 18Wh à embout USB"
+    - "Batterie cylindrique Duracell PB2 24.3Wh"
+    - "Batterie plate grise SIXTHGU 5000mAh"
+    - "Batterie noire plate Lil Kleine 5000mAh"
+    - "Batterie ReVolt noire fine 5000mAh"
+    - "Batterie ReVolt noire épaisse 10000mAh"
+    - "2 batteries très haute capacité Maxoak K2"
+
+    #- "Dérouleur électrique gris"
+    #- "Rallonge électrique + tripleur de prise, tous deux blancs"
 
 -
   - "@EXTRA-VETEMENTS ??????"
