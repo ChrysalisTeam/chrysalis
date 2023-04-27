@@ -55,6 +55,10 @@ Questions à poser aux joueurs du groupe avant le jeu :
 {% endmacro %}
 <{ group_briefing_questions }/>
 
+**INSTRUCTIONS SPECIALES**
+
+Explorateur anthropologue : les affichettes de nuages de lettres en couleur BLEUE sont indéchiffrables, faire semblant que ce sont des runes trop anciennes.
+
 
 .. raw:: pdf
 

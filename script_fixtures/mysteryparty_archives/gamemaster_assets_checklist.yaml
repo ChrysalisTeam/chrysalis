@@ -429,7 +429,7 @@
   - "@ACCESSOIRES-JOUEURS Matériel des EXPLORATEURS HÉLIOSSARS IMPORTANT"
   -
     - "EXPLORATEURS : 4 ceintures beiges"
-    - "EXPLORATEUR ANTHROPOLOGUE : Lunettes d'aviateur à lentilles bleu+rouge (pour l'anthropologist) {% hint 'colored_goggles_for_anthropologist' is provided %} ???"
+    - "EXPLORATEUR ANTHROPOLOGUE : Lunettes d'aviateur à lentilles bleu+rouge (pour l'anthropologist) {% hint 'colored_goggles_for_anthropologist' is provided %}"
     - "EXPLORATEUR RUNOLOGUE : Grande loupe et sthétoscope {% hint 'stethoscope_and_magnifying_glass_for_runologist' is provided %}"
     - "EXPLORATEUR RUNOLOGUE : Feuille mémo des codes secrets et des runes {% hint 'secret_codes_sheet_for_runologist' is provided %} {% hint 'runic_transcription_sheet_for_runologist' is provided %}"
     - "EXPLORATEUR DEVOILEUR : Lampe-torche UV initialement SANS SES PILES (nécessite 3xAAA) {% hint 'explorer_unveiler_uv_lamp_initially_broken' is provided %} {% hint 'explorer_unveiler_uv_lamp_battery' is needed %}"

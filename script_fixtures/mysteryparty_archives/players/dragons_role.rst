@@ -1,4 +1,4 @@
-Les Déchus
+Les déchus
 #########################
 
 *Des dieux-dragons transformés en souris, mais aux commandes d'androïdes mécaniques.*
