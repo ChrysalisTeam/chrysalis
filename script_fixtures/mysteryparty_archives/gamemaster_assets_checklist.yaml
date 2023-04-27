@@ -51,7 +51,7 @@
 -
   - "@RECOINS-BUFFET-PENTACLE Barrière magique en cordelette devant les escaliers du domaine interdit"
   -
-    - "Obstacle en cordelette bloquant les escaliers (code d'envoûtement NEGATIF [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}]) IMPORTANT"
+    - "Obstacle en cordelette bloquant les escaliers (code d'envoûtement NEGATIF LEGENDAIRE [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}]) IMPORTANT"
     - "SCEAU lumineux éteint (1 mini-guirlande LED 1xAAA incluse) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %} IMPORTANT"
     - "@ENORMES Gros projecteur directionnel en haut des escaliers, optionnellement"
 
@@ -329,7 +329,7 @@
 -
   - "@NICHE-BÊTE Niche de la Bête"
   -
-    - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton dans une boîte en bois avec symbole d'ancre (envoûtement POSITIF) {% hint 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT"
+    - "{% symbol 'Astrolabe de téléportation' for 'thief_teleportation_device_name' %} en laiton dans une boîte carrée en bois avec symbole d'ancre (envoûtement POSITIF) {% hint 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT"
     - "Portefeuille vert du voleur, avec microtextes donnant le code du cryptex, formule chiffrée de l'astrolabe, et papier avec code d'analyse [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] en magnétisme (donnant le code d'Isadora pour le coffre légendaire) {% hint 'thief_paper_with_cryptex_code_as_microtext' is provided %} {% hint 'thief_teleportation_device_encrypted_formula' is provided %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT"
     - "Crâne sonore (2xAA) et 18 ossements du voleur {% hint 'thief_cursed_skeleton' is provided %} (envoûtement complexe NEGATIF) avec code d'analyse [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
     - "{% symbol 'Quêteuse sans fond' for 'thief_moneybox_name' %} du voleur {% hint 'thief_heavy_lost_moneybox' is provided %} (envoûtement POSITIF) marquée ULTRA-LOURDE IMPORTANT"

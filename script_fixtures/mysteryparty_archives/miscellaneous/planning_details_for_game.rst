@@ -21,7 +21,9 @@ H+2mn : [Frénésie] Se tenir prêt à déclencher la musique de la frénésie s
 
 H+4mn : [Cris] Grognements de la Bête à l'étage, par un figurant, à plusieurs reprises (optionnel).
 
-H+8mn : [Musique] L'avatar inventeur ouvre le buffet, avec les automates (discours dansant).
+H+10mn : Les automates invitent les visiteurs à s'approcher du buffet.
+
+H+11mn : [Musique] L'avatar inventeur ouvre le buffet, avec les automates (discours dansant).
 
 H+15mn : [Gong] Les fantômes s'incarnent chacun à leur emplacement, et interpellent les joueurs qu'ils voient passer.
 
