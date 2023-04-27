@@ -383,9 +383,10 @@ def _display_and_check_story_facts(jinja_env, masked_user_names):
 
 
 def display_and_check_story_tags(jinja_env, masked_user_names):
-    has_coherence_errors1 = _display_and_check_story_hints(jinja_env)
+
+    has_coherence_errors1, facts_summary = _display_and_check_story_facts(jinja_env, masked_user_names=masked_user_names)
     has_coherence_errors2 = _display_and_check_story_symbols(jinja_env)
-    has_coherence_errors3, facts_summary = _display_and_check_story_facts(jinja_env, masked_user_names=masked_user_names)
+    has_coherence_errors3 = _display_and_check_story_hints(jinja_env)
 
     has_any_coherence_error = has_coherence_errors1 or has_coherence_errors2 or has_coherence_errors3
 
