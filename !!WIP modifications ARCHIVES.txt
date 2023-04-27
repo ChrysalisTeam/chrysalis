@@ -25,6 +25,7 @@ INSTALLATION DU DECOR :
 - Ecrire fiche de deroulement de l'installation et démontage  !!!  WIP
 - Marquer dans CRATES qu'il faut suivre cette fiche montage/démontage  Nope
 - Revérifier toutes les PLUMES de prophétie (même sur fontaine encense et tableaux effrayants)
+- NUMEROTER LES CAISSES
 
 RELECTURES Scénario :
 - TESTER LES RUNES hiéroglyphes dont cryptex_rune sur le portail web

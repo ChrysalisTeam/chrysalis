@@ -38,6 +38,7 @@
   -
     - "I1 - Livre 'Venture Prins' murmurant le code {% symbol '625-993' for 'family_briefcase_code' %} de la mallette administrative des Maupertuis {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (envoûtement POSITIF)"
     - "@ELECTRONIQUE VENTURE PRINS : Lecteur Digital MP4 Player/ZY (batterie / microUSB) avec SDCARD 8Go incluse"
+    - "@ELECTRONIQUE VENTURE PRINS : Mini-batterie INTER noire 2600mAh"
     - "I2 - Livre fin HACHETTE avec Recette du {% symbol 'Cocktail de Réjuvénation' for 'parcival_disease_main_remedy_name' %} (exigeant les 3 autres Recettes), marqué au sol en scotch blanc {% hint 'recipe_rejuvenation_cocktail' is provided %}"
     - "I3 - Livre fin HACHETTE avec Recette de l'Elixir Flexifiant, marqué au sol en scotch blanc {% hint 'recipe_flex_elixir' is provided %}"
     - "I4 - Livre fin HACHETTE avec Recette de la Lotion de Clairvoyance, marqué au sol en scotch blanc {% hint 'recipe_clarity_lotion' is provided %}"
@@ -68,7 +69,7 @@
     - "Petite sphère armillaire en laiton sur pied en bois"
     - "Globe transparent à LED Atmosphera (nécessite 2xAAA)"
     - "Instrument combiné horloge+baromètre en métal"
-    - "Grande bouteille verte de Champagne 'Lafitte' NOPE TOO BIG"
+    - "Lampe de bureau disque LED à sable mouvant Interstellar (nécessite 3xAA)"
     - "@ENORMES Station web sur PC (avec écran steampunk si possible) {% hint 'hint_website_device' is provided %}"
 
 -
@@ -251,6 +252,7 @@
     - "Potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} IMPORTANT"
     - "Potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %} IMPORTANT"
     - "Lot de 7 grandes potions cylindriques, dont celles de Focus et de Charme, et surtout une \"Potio Unicornis\" {% hint 'potion_of_unicorn' is provided %} IMPORTANT"
+    - "Lot de 7 pots en verre avec fleurs séchées, dont une en forme de clochettes pourpres effilées {% hint 'purple_bell_plant_in_vial' is provided %} IMPORTANT"
     - "@ELECTRONIQUE ALCHIMIE : Enceinte MuziliSpeaker (longue autonomie)"
 
 -
@@ -281,11 +283,13 @@
     - "Petite pyramide en plastique pour hologramme, avec un message secret en hiéroglyphes IMPORTANT"
     - "Boule plasma représentant l'orbe spirituel (nécessite 4xAAA ou USB) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
     - "6 grands portraits lenticulaires effrayants {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
-    - "Petit puits en cuivre avec un message secret en hiéroglyphes"
+    - "Petit puits en cuivre  avec un message secret 'puits inutile' en hiéroglyphes {% hint 'longevity_metal_well' is provided %}"
     - "Trône en bois à cachette coulissante, avec dessus un mini-crâne illuminé LED (3xLR44 incluses)"
     - "Pyramide à base carrée en résine epoxy dans le trône en bois {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT"
+    - "Petite balance à plateaux en bois et laiton{% hint 'tiny_metal_scale' is provided %} IMPORTANT"
     - "Deux livres beiges épais \"Itinéraire de la France\""
     - "Cadre photo numérique Kodak Easyshare avec images occultes (alimentation secteur)"
+    - "Grande bouteille verte de Champagne 'Lafitte'"
     - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE, contenant quelques richesses (marque d'envoûtement complexe NEGATIF)"
     - "Mécanisme d'alarme à son de cigale pour le mini-coffret en bois marron foncé noueux (nécessite 2xAAA)"
     - "@ELECTRONIQUE DIVINATION : Enceinte XooparBoy + lecteur Clip noir récepteur bluetooth (batterie)"
@@ -506,7 +510,7 @@
     - "Boite de maquillage spécial UV"
 
     - "2 sachets de fausses toiles d'araignées (pour étage interdit)"
-    - "Fils blancs fins ????"
+    - "Fils blancs fins"
     - "Cordelette fine"
     - "Cordelette épaisse"
     - "7 gros grelots blancs pour pièges"
@@ -515,7 +519,7 @@
 
     - "Mini-lampe cylindrique tactile multi-couleurs"
 
-    - "4 Guirlandes lumineuses LED BXROIU 2m (2xCR2032 incluses chacune) ????"
+    - "4 Guirlandes lumineuses LED BXROIU 2m (2xCR2032 incluses chacune)"
 
     - "Lampe tube blanche autonome à détection de mouvement (batterie incluse)"
 
@@ -523,7 +527,7 @@
     - "@ELECTRONIQUE Lecteur MP3 D-Jix (batterie) en plus"
 
 -
-  - "@ELECTRICITE Batteries, piles, câbles électriques ?????A REVOIR??????"
+  - "@ELECTRICITE Batteries, piles, câbles électriques"
   -
     - "Batterie plate blanche LifeDom 18Wh à embout USB"
     - "Batterie cylindrique Duracell PB2 24.3Wh"
@@ -578,7 +582,7 @@
 # IMPORTANT
 # BESOINS EN PILES #
 # AAA : 2 + 2 + 9 + 3 + 4 + 3 + 3*6 = 41  MOINS   9 (3 grosses  bougies)
-# AA : 4 + 4 + 3 + 2 + 4 + 3 + 4 = 24   MOINS   2 (télécommande) +  4 (lunartec bleu) + 4 (spot du tombeau)
+# AA : 4 + 4 + 3 + 2 + 4 + 3 + 4 + 3 = 27   MOINS   2 (télécommande) +  4 (lunartec bleu) + 4 (spot du tombeau)
 # LR20D : 4 incluses
 # Pile rectangle 9V : 1 pour inventeur (+1 en sécurité ?)
 # CR2032 : 27 incluses
