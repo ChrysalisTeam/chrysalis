@@ -3,41 +3,20 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
-Envoyer messages à farcis.claire@gmail.com
-URGENT envoyer bandes son aux Oracles  !!! Et mailer ceux qui ont plusieurs rôles à donner.
 
 LAST MINUTE STUFFS
-- Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS !! -> FEUILLES DE LIVRES
-- ajouter Haunted Castle Horror Ambience 1 Hour #dnd
-
-Quelques derniers trucs qui nous manquent :
-- la jungle à pimper
-- le GRAMOPHONE
-
-- Musiques manquantes à configurer : Banquet des mondes DONE + Grimoire maudit du druide
 - ALLER CHERCHER Grand baton de la cave : pour l'ankou  !!!
-- Ramener petit meuble B.A.L, et fleurs en plastiques de la cave  DONE
-- explosions  DONE
-
+- Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS !! -> FEUILLES DE LIVRES
 
 CRAFTING RESTANT
-- Faire un écriteau pour le voleur avec ses offres
+- !!!!!!!!! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !! <<<<<<<<<<<<<<<<
 - Améliorer la décoration du crâne blessé de l'arkonte
 - Réenregistrer l'énigme des sousous avec "OCTAVE" en nom, et prophétie de CASSANDRA  -   WIP
 - Prévoir étiquettes des POTIONS que l'alchimiste peut CREER, à lui donner sur le moment !!
-
-INSTALLATION DU DECOR :
 - Ecrire fiche de deroulement de l'installation et démontage  !!!  WIP
-- Marquer dans CRATES qu'il faut suivre cette fiche montage/démontage  Nope
-- Revérifier toutes les PLUMES de prophétie (même sur fontaine encense et tableaux effrayants)
+- IMPRIMER les crates, briefings, inventaire total, et les fiches montage/démontage
 - NUMEROTER LES CAISSES
 
-RELECTURES Scénario :
-- TESTER LES RUNES hiéroglyphes dont cryptex_rune sur le portail web
-- Repasser en revue les codes d'analyse et leur contenu
-- !!!!!!!!! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !! <<<<
-- Rajouter un moyen de trouver le code de Quirinius ?
-- Marquer dans assets checklist les diverses images chromocrypto
 
 
 
@@ -52,6 +31,8 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 ******** TODO LATER *******************
 
+
+- Marquer dans CRATES qu'il faut suivre cette fiche montage/démontage  Nope
 
 - Harmoniser le mot "connaît" et "envoutement"  (LATER)
 - Normaliser orthographe de "Arkonte" ?
@@ -83,14 +64,34 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - Dire aux figurants d'être CURIEUX de ce que viennent faire les joueurs ici !!
 - Dire que figurants reviennent chaque année seulement, et passent le reste du temps dans LEUR monde
 - Utiliser Haunted Castle Horror Ambience 1 Hour #dnd.mp3  pour tombeau du mage ???  NON DEJA BANDE SON PRETE, mais ailleurs ptet
-
-
+- Rajouter un moyen de trouver le code de Quirinius ?
+- Marquer dans assets checklist les diverses images chromocrypto/anaglyphs
+- Faire un écriteau pour le voleur avec ses offres ?
 
 
 
 TRASH
 ########################################
 
+
+- TESTER LES RUNES hiéroglyphes dont cryptex_rune sur le portail web   DONE
+
+URGENT envoyer bandes son aux Oracles  !!! Et mailer ceux qui ont plusieurs rôles.  DONE
+
+- Revérifier toutes les PLUMES de prophétie (même sur fontaine encense et tableaux effrayants)  LATER
+
+- Musiques manquantes à configurer : Banquet des mondes DONE + Grimoire maudit du druide  DONE
+
+- Repasser en revue les codes d'analyse et leur contenu  DONE
+
+
+Quelques derniers trucs qui nous manquent :
+- la jungle à pimper
+- le GRAMOPHONE  DONE
+
+- ajouter Haunted Castle Horror Ambience 1 Hour #dnd  DONE
+- Ramener petit meuble B.A.L, et fleurs en plastiques de la cave  DONE
+- Add explosions sounds  DONE
 
 - quelques potions en plus et pots avec trucs végétaux (on peut en crafter chez moi ou en piquer dans vos stocks)   DONE
 
