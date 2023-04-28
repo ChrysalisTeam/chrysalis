@@ -13,6 +13,7 @@ LAST MINUTE STUFFS
 - mettre faux signes danger sur artefacts bénéfiques
 
 CRAFTING RESTANT
+- IMPORTANT - ajouter silence au début de toutes musiques, et réhausser OUVERTUER BUFFET volume sonore
 - !!!!!!!!! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !! <<<<<<<<<<<<<<<<
    - simple devant l'antichambre du tombeau du mage
    - simple sur les tiroirs rouges de l'alchimie

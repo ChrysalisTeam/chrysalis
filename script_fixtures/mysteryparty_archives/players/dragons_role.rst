@@ -160,6 +160,8 @@ Lorsque vous rencontrez les diacres de {% symbol "Bahamoot" for "god_of_diakons"
 
 Dès lors, vous faites partie du monde des vivants de Pangéa, donc vous devenez sensibles à tout ce qu'un humain craindrait (en particulier les fantômes errants), et vous êtes soumis aux règles du {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}. Vous gardez une attitude un peu mécanique, car votre corps est fait ainsi.
 
-C'est à vous de voir à quel moment vous auriez envie de révéler votre origine draconique aux diacres, voire à l'ensemble des personnes présentes.
+la suite du jeu se déroule normalement pour vous, en tant que joueur ; à vous de prendre contact avec les différents joueurs et figurants du jeu, de voir comment les aider dans leurs quêtes, et comment obtenir leur secours pour la vôtre.
+
+C'est à vous de décider à quel moment vous auriez envie de révéler votre origine draconique aux diacres, voire à l'ensemble des personnes présentes - ou pas.
 
 
