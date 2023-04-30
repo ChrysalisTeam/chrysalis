@@ -53,7 +53,7 @@
   -
     - "Obstacle en cordelette bloquant les escaliers (code d'envoûtement NEGATIF LEGENDAIRE [{% symbol 'bte' for 'magic_code_forbidden_domain_seal' %}]) IMPORTANT"
     - "SCEAU lumineux éteint (1 mini-guirlande LED 1xAAA incluse) pour faire apparaître le Grimoire d'énigme du Puzzle Symbolique {% hint 'symbolic_enigma_puzzle_app' is provided %} IMPORTANT"
-    - "@ENORMES Gros projecteur directionnel en haut des escaliers, optionnellement"
+    - "@ENORMES Gros projecteur directionnel en haut des escaliers (optionnel)"
 
 -
   - "@BUFFET Buffet d'outremonde"
@@ -94,10 +94,10 @@
 -
   - "@RECOINS-BUFFET-PENTACLE Coin du fantôme de l’enfant (près de la jungle) {% fact 'phantom_octave_is_near_jungle' %}"
   -
-    - "@EXTERNE-VALISETTE-CUIR Valise avec quelques vieux vêtements aléatoires (bien enlever l'étiquette FABRE de dedans)"
+    - "@EXTERNE-VALISETTE-CUIR Valise avec quelques vieux vêtements aléatoires (bien enlever l'étiquette FABRE de dedans) ????"
     - "Livre déchiré avec des animaux en mouvement pour le coin de l'enfant {% hint 'torn_child_book_with_animal_motions' is provided %} IMPORTANT"
     - "Livre jeunesse avec couverture cuir cloutée \"Extraterrestre appelle CM1\" pour le coin de l'enfant"
-    - "@PAPIERS Lettre des parents d'Octave avec des instructions pour son adoubement IMPORTANT"
+    - "@PAPIERS Lettre des parents d'Octave avec des instructions pour son adoubement IMPORTANT (mis où ???)"
     - "2 livres anciens beige/marbré dans la valise de l'enfant"
     - "2 bandes dessinées anciennes 'Gédéon' dans la valise de l'enfant"
     - "Livre factice rouge (montre en magnétisme le CODE du livre factice bleu, contient la broche du père Maupertuis et son carnet de notes avec un des codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} du coffret légendaire en anamorphose) {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} IMPORTANT"
@@ -136,7 +136,7 @@
     - "@ELECTRONIQUE-CAISSE Générateur gris de bruits de forêt Naturcare"
 
 -
-  - "Mallette administrative noire des Maupertuis"
+  - "@MALLETTE-ADMINISTRATIVE Mallette administrative noire fine des Maupertuis"
   -
     - "Sur la mallette administrative noire, code {% symbol '625-993' for 'family_briefcase_code' %} {% hint 'family_briefcase_protected_by_code' is provided %} IMPORTANT"
     - "Livret fin long marron : Généalogie des Maupertuis avec leur symbole familial secret en UV {% hint 'genealogy_book_with_uv_family_symbol' is provided %} IMPORTANT"
@@ -170,7 +170,7 @@
     - "Tombe 1 : Journal intime d'Octave coincé dans les verrous magnétiques de la boite noire plate à motifs {% hint 'octave_private_diary_on_his_tomb' is provided %} IMPORTANT"
     - "Tombe 1 : Broche de la mère Maupertuis {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %} (envoûtement POSITIF) IMPORTANT"
 
-    - "@GENERAL Tombe 2 : CLEF de l'archiviste (pour le coffre familial marron) {% hint 'archivist_key' is provided %} IMPORTANT"
+    - "@PIEGES-ET-CADENAS Tombe 2 : CLEF de l'archiviste (pour le coffre familial marron) {% hint 'archivist_key' is provided %} IMPORTANT"
 
     - "Tombe 3 : Squelette de 28 os (SANS crâne) de l'arkonte {% hint 'arkon_bones_having_traces_of_burning' is provided %} (envoûtement POSITIF) IMPORTANT"
     - "@EXTERNE-SAC-GEANT Tombe 3 : {% symbol 'Armure de Mithril' for 'arkon_armor_name' %} de l'arkonte {% hint 'arkon_sacred_armor' is provided %} (code d'envoûtement POSITIF [{% symbol 'bst' for 'magic_code_etheric_benediction_necklace' %}]) marquée ULTRA-LOURDE IMPORTANT"
@@ -208,7 +208,7 @@
 # ETAGE INTERDIT #
 
 -
-  - "Coffre légendaire (mallette noire épaisse) des Maupertuis"
+  - "@COFFFRE-LEGENDAIRE Coffre légendaire (mallette noire épaisse) des Maupertuis"
   -
     - "Deux codes de protection sur le coffret légendaire des Maupertuis {% hint 'family_legendary_chest_protected_by_double_code' is provided %} IMPORTANT"
     - "Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' pour la mallette noire épaisse (coffre légendaire des Maupertuis) ; il contient le sort de zombification et un indice de contre-mesure en UV, le {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, un indice sur le Vortex Abyssal, la recette alchimique des flèchettes d'Iridium et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'arrow_recipe_for_alchemist' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
@@ -220,23 +220,22 @@
 -
   - "Coin du fantôme du voleur"
   -
-    - "@ENORMES gros accordéon ancien désaccordé"
+    - "@ENORMES Gros accordéon ancien désaccordé (prêt de Maëlibé)"
     - "@ELECTRONIQUE VOLEUR : Enceinte Jabra Solemate Mini avec Jack3.5/Bluetooth (batterie / microUSB)"
     - "@ELECTRONIQUE VOLEUR : Digital MP3/FM Player Key noir (pile AAA incluse) pour l'enceinte Jabra (pour les cris de bête, puis le fantôme du voleur)"
 
 -
   - "@ALCHIMIE Laboratoire d'Alchimie"
   -
-    - "Nappe-drap noir"
+    - "Nappe-drap noir, et tapis en paille présentoir"
     - "Moulin à café enchanté {% hint 'grinding_mill_with_enchantment' is provided %} (code d'envoûtement POSITIF [{% symbol 'ecz' for 'magic_code_grinding_mill' %}]) IMPORTANT"
     - "SCEAU lumineux éteint (1 mini-guirlande LED, nécessite 2xAA), pour faire apparaître le Grimoire chantant du trésor des Maupertuis {% hint 'symbolic_cards_enigma_app' is provided %} IMPORTANT"
     - "Chaudronnet rond en cuivre à 3 pieds et anse (marque d'envoûtement POSITIF)"
-    - "Machine électrique à fumée pour le chaudronnet rond (alimentation secteur)"
+    - "Machine à fumée pour le chaudronnet rond (alimentation secteur)"
     - "Chaudron bombé dessous en cuivre à anse, avec enchantement anti-explosion {% hint 'enchanted_copper_cauldron_on_alchemy_table' is provided %} (code d'envoûtement complexe POSITIF [{% symbol 'adp' for 'magic_code_enchanted_cauldron' %}]) IMPORTANT"
     - "Petite cocotte avec extérieur cuivré et intérieur étamé"
     - "Bouteille-bougeoir en laiton et verre bleu"
     - "Bouteille verdâtre à liqueur en tête de mort"
-    - "Tapis en paille présentoir"
     - "2 pots cylindrique, 1 en aluminium et 1 en doré, avec couvercles"
     - "Passoire cylindrique en métal brûlé/troué"
     - "Pot africain en bois avec couvercle"
@@ -266,7 +265,7 @@
     - "3 faux-galets creux (avec pierreries dedans)"
     - "Mini-globe terrestre"
     - "Coffret en bois clair et jointures laiton"
-    - "@PIEGES-ET-CADENAS le coffre clair de la gemmologie est protégé par un CADENAS dont la clef est dissimulée tout près"
+    - "@PIEGES-ET-CADENAS Le coffre clair de la gemmologie est protégé par un CADENAS dont la clef est dissimulée tout près"
     - "Lampe-sculpture à gemme surmontée d'un dragon"
     - "4 luminaires à pétales colorés en nacre, avec optionnellement des diodes LED dedans"
     - "Arbre à micro-cristaux colorés avec guirlande d'illumination (2xCR2032 incluses)"
@@ -295,7 +294,7 @@
     - "Coffret en bois marron foncé noueux PIÉGÉ avec CIGALE, contenant quelques richesses (marque d'envoûtement complexe NEGATIF)"
     - "Mécanisme d'alarme à son de cigale pour le mini-coffret en bois marron foncé noueux (nécessite 2xAAA)"
     - "@EXTERNE-VALISE-MARRON Gros microscope ancien dans caisson en bois (appartient à Brice)"
-    - "@EXTERNE-SAC-GEANT Petit tapis brodé tons chauds pour mettre en valeur les artefacts"
+    - "@EXTERNE-SAC-GEANT Petit tapis brodé en tons chauds pour mettre en valeur les artefacts du laboratoire de divination"
     - "@ELECTRONIQUE-CAISSE DIVINATION : Enceinte XooparBoy + lecteur Clip noir récepteur bluetooth (batterie)"
 
 -
@@ -347,7 +346,7 @@
 # DIVERS AUTRES #
 
 -
-  - "@MAITRE-DE-JEU Matériel du Maître de Jeu IMPORTANT ????????"
+  - "@MAITRE-DE-JEU Matériel du Maître de Jeu IMPORTANT"
   -
     - "@ELECTRONIQUE Backup : Smartphone Samsung Galaxy A52 5G de secours"
     - "@ELECTRONIQUE Backup : Mini-enceinte cylindre étanche bluetooth EWA-A106Pro (à manier via smartphone en mode avion)"
@@ -366,8 +365,15 @@
     - "Lot de gemmes dans un sac de voyage, à exhumer à l'explosif depuis des éboulis de l'étage interdit {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
     - "Cônes d'encens pour la fontaine magique (optionnel)"
     - "Papier d'Arménie et briquet pour l'encensoir des diacres (optionnel)"
-    - "Clés des cadenas crochetables transparents, au cas où ils sont bloqués"
+    - "Clés des cadenas crochetables transparents"
     - "Clés en doublon des cadenas à clef"
+    - "Kit de crochetage de secours"
+    - "Déverrouilleur magnétique de secours (noir large et plat)"
+    - "Stylo UV de secours"
+    - "Outils divers : stylos, scotch noir, scotch transparent, scotch double-face, patafix, fils blanc, cordelette"
+    - "Consommables : papier parchemin, papier aimanté, feuilles colorées pour spots lumineux"
+    - "réserve de piles tous formats (AAA, AA, CR2032, rectangulaires...)"
+    - "Feuilles de journal ancien avec épingles dorées, pour mieux reconnaître les avatars (optionnel)"
     - "@ELECTRONIQUE 2 paires de pouces à LED (verte et rouge) A DISTRIBUER (quelles piles ?)"
     - "@CORRIDORS 1 gros grimoire rouge creusé pour accueillir tablette/papiers"
     - "@ELECTRONIQUE Tablette tactile Logicom Mbot tab 71 pour sceaux d'énigmes, et méditations finales du méchant"
@@ -416,7 +422,7 @@
   - "@ACCESSOIRES-FIGURANTS Matériel de l'avatar INVENTEUR"
   -
     - "INVENTEUR : Bracelet large argenté '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_silver_white_ribbon_bracelet_for_inventor' is provided %} IMPORTANT"
-    - "@ELECTRICITE INVENTEUR : Piles format (cylindre + rectangle) pour lampe UV ou détecteur de métal cassé {% hint 'explorer_unveiler_uv_lamp_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %} IMPORTANT"
+    - "@ELECTRONIQUE INVENTEUR : Piles format (cylindre + rectangle) pour lampe UV ou détecteur de métal cassé {% hint 'explorer_unveiler_uv_lamp_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %} IMPORTANT ???"
     - "@ELECTRONIQUE INVENTEUR : Mégaphone Bontempi à écho (batterie / microUSB) avec Jack3.5 et Bluetooth, pour l'inventeur {% hint 'echo_megaphone' is provided %}"
     - "INVENTEUR : Outils anciens d'ambiance : 1 petit tournevis, petit marteau, pince spéciale"
     - "INVENTEUR : Petite lanterne de camping à effet flamme (nécessite 3xAA)"
@@ -477,7 +483,7 @@
 #    - "Cadenas à 3 chiffres DavidJones"
 
 -
-  - "Vérifications préalables IMPORTANT"
+  - "Vérifications préalables au jeu IMPORTANT"
   -
     - "Les 4 broches des Maupertuis doivent avoir les symboles [moon, heart, arrow, circle]"
     - "Sur la tablette tactile, la page web des cartes symboliques du grimoire chantant doit fonctionner avec les symboles de ces 4 broches des Maupertuis"
@@ -503,7 +509,6 @@
     - "Le néon UV Black Light du coffre-marron doit être alimenté par batterie USB"
     - "Il doit y avoir des diodes LED prêtes pour l'encensoir, la lanterne à vitre rouge etc."
 
-
 -
   - "@DECORATIONS-CARTON Décorations diverses"
   -
@@ -516,7 +521,6 @@
     - "Sachet de fausses toiles d'araignées, pour l'étage interdit"
     - "@COFFRE-MARRON 2 grands tissus-nappes noirs pour usage libre dans la bibliothèque"
 
-
 -
   - "@ELECTRONIQUE-CAISSE"
   -
@@ -524,6 +528,7 @@
     - "Mini-hélicoptère LED Simulus/pearl (batterie, recharge microUSB)"
     - "2 spots LED lumière blanche puissants MultifunctionalWorkingLamp (batterie, recharge microUSB)"
     - "2 spotlights LED RGB (3xAA chacun)"
+    - "Guirlande lumineuse décofête en fibre optique (nécesite 3xAA)"
     - "Rallonge électrique déroulable grise 5m avec 4 prises"
     - "Rallonge électrique déroulable verte 10m avec 4 prises"
 
@@ -533,7 +538,12 @@
     - "6 papillons volants à élastique, à disséminer dans des grimoires et boites pour frayeurs"
 
 -
-  - "@ELECTRICITE Batteries, piles, câbles électriques"
+  - "@EXTERNE-VALISETTE-CUIR"
+  -
+    - "Papier craft brun en quantité, pour simuler les éboulis"
+
+-
+  - "@ELECTRONIQUE Systèmes à LED et batteries"
   -
     - "Batterie plate blanche LifeDom 18Wh à embout USB"
     - "Batterie cylindrique Duracell PB2 24.3Wh"
@@ -542,10 +552,12 @@
     - "Batterie ReVolt noire fine 5000mAh"
     - "Batterie ReVolt noire épaisse 10000mAh"
     - "@EXTERNE-VALISE-MARRON 2 batteries très haute capacité Maxoak K2"
-
-    #- "Dérouleur électrique gris"
-    #- "Rallonge électrique + tripleur de prise, tous deux blancs"
-
+    - "3 mini-guirlandes LED à boitier blanc plat (2xCR2032 incluses)"
+    - "2 mini-guirlandes LED à bouchon beige (nécessite 1xAAA)"
+    - "Guirlande LED à embouts diamants (nécessite 2xAA)"
+    - "Guirlande multicolore LED SilverWireLights (3xAA) (prêt de Catherine)"
+    - "Mini-leds autonomes clignotantes RGB avec bouton ON/OFF"
+    - "Mini-leds autonomes clignotantes lumière jaune sans bouton"
 
 -
   - "@EXTERNE-VALISE-MARRON Objets prêtés ou gros objets PC/SONO"
@@ -584,6 +596,7 @@
     - "Collier en bande dorée (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
     - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
     # Soit 50 + 80 + 50 + 130 + 100 + 100 + 60 + 60 = 630 kashes en jeu
+
 -
   - "@RICHESSES Localisation de ces richesses diverses à collecter)"
   -
