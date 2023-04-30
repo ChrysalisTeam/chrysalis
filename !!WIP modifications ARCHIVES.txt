@@ -12,6 +12,8 @@ LAST MINUTE STUFFS
 - faire encarts "vous avez été maudit" sur papier pour aller avec envoutements négatifs sans son/flash
 - mettre faux signes danger sur artefacts bénéfiques
 
+- PREPARER FUMEE A DOIGTS
+
 CRAFTING RESTANT
 - IMPORTANT - ajouter silence au début de toutes musiques, et réhausser OUVERTUER BUFFET volume sonore
 - !!!!!!!!! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !! <<<<<<<<<<<<<<<<
@@ -24,7 +26,7 @@ CRAFTING RESTANT
 - Réenregistrer l'énigme des sousous avec "OCTAVE" en nom, et prophétie de CASSANDRA  -   WIP
 - Prévoir étiquettes des POTIONS que l'alchimiste peut CREER, à lui donner sur le moment !!
 - Ecrire fiche de deroulement de l'installation et démontage  !!!  WIP
-- IMPRIMER les crates, briefings, inventaire total, et les fiches montage/démontage
+- IMPRIMER le plan des lieux, les crates, briefings, inventaire total, et les fiches montage/démontage
 - NUMEROTER LES CAISSES
 
 
@@ -77,7 +79,7 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - Rajouter un moyen de trouver le code de Quirinius ?
 - Marquer dans assets checklist les diverses images chromocrypto/anaglyphs
 - Faire un écriteau pour le voleur avec ses offres ?
-
+- Ajouter spot à lumière LED pour scènes avec maquillage ?
 
 
 TRASH
