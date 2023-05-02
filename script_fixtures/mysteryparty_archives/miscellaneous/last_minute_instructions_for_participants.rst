@@ -58,6 +58,8 @@ Questions à poser aux joueurs du groupe avant le jeu :
 **INSTRUCTIONS SPECIALES**
 
 Explorateur anthropologue : les affichettes de nuages de lettres en couleur BLEUE sont indéchiffrables, faire semblant que ce sont des runes trop anciennes.
+Diacre désenvoûteur : les petites pancartes à tête de mort sont des indices faibles, seule la signalétique symbolique est fiable
+Diacres : vous avez possibilité d'enseigner un de vos rites à un autre initié, mais cela prend du temps et a moins de chances de réussir
 
 
 .. raw:: pdf

@@ -4,31 +4,32 @@ TODO RESTANT MURDER PARTY
 ====================================
 
 
+Angeline : redonner son rôle de runologue à autrui !!!
+
 LAST MINUTE STUFFS
+- AMENER gros dé !!!
 - ALLER CHERCHER Grand baton de la cave : pour l'ankou  !!!
-- Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS !! -> FEUILLES DE LIVRES
-- le MJ doit avoir des étiquettes neutres "coeur d'or" pour masquer les étiquettes dangereuses
 - récupérer lecteur mp3 de la gym et y mettre bandes son
-- faire encarts "vous avez été maudit" sur papier pour aller avec envoutements négatifs sans son/flash
-- mettre faux signes danger sur artefacts bénéfiques
 
-- PREPARER FUMEE A DOIGTS
-
-CRAFTING RESTANT
-- IMPORTANT - ajouter silence au début de toutes musiques, et réhausser OUVERTUER BUFFET volume sonore
-- !!!!!!!!! IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !! <<<<<<<<<<<<<<<<
+- IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
    - simple devant l'antichambre du tombeau du mage
    - simple sur les tiroirs rouges de l'alchimie
    - complexe sur le coffret légendaire du thanatologue
-- Vérifier que les musiques ne saturent pas sur enceinte
-- INSTALLER site web sur mini pc !!!
+
+- mettre faux signes danger supplémentaire, sur artefacts bénéfiques
+
+- demander code wifi à la bibliothèque
+
+- PREPARER FUMEE A DOIGTS
+
+
+CRAFTING RESTANT
 - Améliorer la décoration du crâne blessé de l'arkonte
 - Réenregistrer l'énigme des sousous avec "OCTAVE" en nom, et prophétie de CASSANDRA  -   WIP
-- Prévoir étiquettes des POTIONS que l'alchimiste peut CREER, à lui donner sur le moment !!
 - Ecrire fiche de deroulement de l'installation et démontage  !!!  WIP
 - IMPRIMER le plan des lieux, les crates, briefings, inventaire total, et les fiches montage/démontage
 - NUMEROTER LES CAISSES
-
+- Mettre tous docs PDF importants sur smartphone et mini pc noir !!!!!
 
 
 
@@ -80,11 +81,26 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - Marquer dans assets checklist les diverses images chromocrypto/anaglyphs
 - Faire un écriteau pour le voleur avec ses offres ?
 - Ajouter spot à lumière LED pour scènes avec maquillage ?
+- Clarifier : "je dois faire ma salutation d'Arkonte à toutes les joueurs que je rencontre, ou uniquement si je pense avoir en face de moi un confrère ?"
+- Dire aux fantômes : "Au fait, il y aura une longue phase d'errance en début de jeu (probablement 10-15mn), pour installer l'ambiance et focaliser l'attention des joueurs sur les autres figurants, mais par la suite, ce ne sera qu'exceptionnel et court, vous serez quasiment tout le temps incarnés à interagir avec les joueurs."
+- Donner identificateur visuel aux AVATARS mais aussi à ceux qui ne veulent pas être pris en PHOTOS !! -> FEUILLES DE LIVRES
+- Que se passe-t-il sur exorciste meurt ? Il doit ENSEIGNER aux autres le sortilège, avec l'aide de l'arkonte.
+  Rupture globale de corridor d'outre-monde PEUT ETRE DONNE à l'invocateur <<<
+- Inciter Parcival gardien des bois à bloquer préventivement les fantômes avant scène finale !! Djinn et arkonte parlent de la clochette maudite !!
+- Revoir crate listing de @PIEGES-ET-CADENAS
+- Revoir @BUFFET redondant avec @recoins-buffet-pentacle ?
 
 
 TRASH
 ########################################
 
+- IMPORTANT - ajouter silence au début de toutes musiques, et réhausser OUVERTURE BUFFET volume sonore   DONE
+
+- le MJ doit avoir des étiquettes neutres "coeur d'or" pour masquer les étiquettes dangereuses
+- Prévoir étiquettes des POTIONS que l'alchimiste peut CREER, à lui donner sur le moment !!   DONE
+
+- Vérifier que les musiques ne saturent pas sur enceinte  DONE
+- INSTALLER site web sur mini pc !!!   DONE
 
 - TESTER LES RUNES hiéroglyphes dont cryptex_rune sur le portail web   DONE
 
@@ -96,6 +112,7 @@ URGENT envoyer bandes son aux Oracles  !!! Et mailer ceux qui ont plusieurs rôl
 
 - Repasser en revue les codes d'analyse et leur contenu  DONE
 
+- faire encarts "vous avez été maudit" sur papier pour aller avec envoutements négatifs sans son/flash  DONE
 
 Quelques derniers trucs qui nous manquent :
 - la jungle à pimper
