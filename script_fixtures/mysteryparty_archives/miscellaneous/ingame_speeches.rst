@@ -62,6 +62,9 @@ Mais aujourd'hui c'est en vous, mon confesseur, que je m'en remets pour achever 
 {% endmacro %}
 <{ arkon_mission_report_speech }/>
 
+.. raw:: pdf
+
+   PageBreak
 
 PROPHETIE DE CASSANDRA (par une figurante)
 ------------------------------------------------

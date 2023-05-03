@@ -5,19 +5,19 @@ PLANNING DETAILLÉ DU JEU
 
 H-45mn : Briefing général des **figurants** (voir fiche).
 
-H-30mn : Briefing de chaque **groupe de joueur**  (voir fiche), effectué respectivement par chaque figurant qui en a la charge. le MJ passe pour distribuer les objets manquants et répondre aux questions.
+H-30mn : Briefing de chaque **groupe de joueur**  (voir fiche), effectué respectivement par chaque figurant qui en a la charge. Le MJ passe pour distribuer les objets manquants et répondre aux questions.
 
-H-15mn : Vérifier que tous les **systèmes audio/vidéo** sont activés dans les deux zones, autorisée et interdite, sauf si problèmes d'autonomie de batterie. Attention à bien allumer à chaque fois enceinte, lecture MP3 (sur la bonne piste pour les MuziliSpeaker noirs), voire batterie externe, le cas échéant. Régler les **volumes sonores** pour que chaque ambiance n'empiète pas sur le reste de la salle. Les **bougies** déjà présentes doivent être allumées aussi au moins dans l'étage autorisé, en particulier dans le tombeau du mage. Laisser le **projecteur** en haut de l'escalier éteint.
+H-15mn : Vérifier que tous les **systèmes audio/vidéo** sont activés au moins dans l'étage autorisé (pour l'étage interdit, voire selon l'autonomie des batterie). Attention à bien allumer à chaque fois enceinte, lecteur MP3 sur la bonne piste, voire batterie externe le cas échéant. Régler les **volumes sonores** pour que les boites à murmure soient audibles, et que chaque ambiance n'empiète pas sur le reste de la salle. Les **bougies** déjà présentes doivent être aussi allumées au moins dans l'étage autorisé, en particulier dans le tombeau du mage. Laisser le **projecteur** en haut de l'escalier éteint, si présent.
 
 H-10mn : Les avatars doivent être prêts à se disperser dans la bibliothèque, et les fantômes à errer spectralement ; mais tous ces figurants peuvent écouter le discours introductif de loin ; certains automates peuvent déjà être dispersés dans les lieux, activés ou non.
 
 H-10mn : Briefing commun des **joueurs** (voir fiche).
 
-H-5mn : [Musique] Discours introductif du maitre de jeu, tous ensemble. À la fin, bien donner la parole au joueur Parcival Oracle pour sa **première intuition**.
+H-5mn : [Musique] Discours introductif du maitre de jeu, tous ensemble. À la fin, bien donner la parole au joueur **Parcival Oracle** pour sa **première intuition**.
 
-H : [Musique] Les automates amènent les groupes de joueurs respectivement aux 4 coins de l'étage autorisé, puis vaquent à leurs occupations.
+H : [Musique] Les automates de service amènent les groupes de joueurs respectivement aux 4 coins de l'étage autorisé, puis vaquent à leurs occupations. **L'automate de garde** fait une patrouille, et fait jurer aux joueurs rencontrés, par Zarathoustra, qu'ils viennent ici en paix.
 
-H+2mn : [Frénésie] Se tenir prêt à déclencher la musique de la frénésie spectrale lorsqu'un joueur appuie sur la clochette argentée.
+H+2mn : [Frénésie] Se tenir prêt à déclencher la musique de la **frénésie spectrale** lorsqu'un joueur appuie sur la clochette argentée.
 
 H+4mn : [Cris] Grognements de la Bête à l'étage, par un figurant, à plusieurs reprises (optionnel).
 
@@ -33,7 +33,7 @@ H+25mn : Le MJ "Djinn renégat" peut confier aux diacres sa quête pour redeveni
 
 H+30mn : Le druide doit discrètement voler la clochette spectrale de préférence AVANT l'arrivée de l'Ankou. {% fact "druid_must_steal_table_bell_when_usage_understood" %}
 
-H+35mn : [Choeur] Discours de l'Ankou en haut des escaliers ; ALLUMER le projecteur pendant sa présence, et l'éteindre après.
+H+35mn : [Musique] Discours de l'Ankou en haut des escaliers ; ALLUMER le projecteur pendant sa présence, et l'éteindre après.
 
 H+40mn : IMPORTANT - Aller vérifier toutes les ambiances sonores, lumières, et bougies (allumées car magiques) de l'étage interdit (SAUF la fontaine à encens).
 
@@ -45,7 +45,7 @@ H+50mn : [Musique] Se tenir prêt à mettre une bande-son instrumentale lorsque 
 
 H+50mn : [Gong] Le voleur s'incarne à son tour, à son point d'ancrage, et interpelle les joueurs présents.
 
-H+1h20 : [Choeur] Si les joueurs n'ont toujours pas ouvert l'étage interdit, l'Ankou vient leur donner des indices sur la façon d'accéder au symbole nécessaire (symbole en ultraviolets dans la mallette administrative noir, dont le code est murmuré par le {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}).
+H+1h20 : [Musique] Si les joueurs n'ont toujours pas ouvert l'étage interdit, l'Ankou vient leur donner des indices sur la façon d'accéder au symbole nécessaire (symbole en ultraviolets dans la mallette administrative noir, dont le code est murmuré par le {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}).
 
 H+1h20 : [Cloches] Les fantômes repassent en spectre pour 2-3 minutes, puis [Gong].
 
@@ -65,7 +65,7 @@ H+X : [Musique] Se tenir prêt à mettre en scène l'intrusion des joueurs dans 
 
 H+X : L'arkonte peut aller interroger (voire faire jurer) les différents groupes de joueurs, quant à ce qu'ils feront des portails menant à la bibliothèque, s'ils en réchappent. {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
 
-H+X : Donner au druide le grimoire émettant des sons étrange, et le Thanatologue. Le druide va s'asseoir près du pentacle, ravi, avec ses lectures qu'il proclame être prometteuses pour s'échapper du lieu. L'Ankou va se préparer pour son discours final. {% hint "mystic_soundtrack_for_druid_magic_books" is needed %}
+H+X : Donner au druide le grimoire émettant des sons occultes, et le Thanatologue. Le druide va s'asseoir près du pentacle, ravi, avec ses lectures qu'il proclame être prometteuses pour s'échapper du lieu. L'Ankou va se préparer pour son discours final. {% hint "mystic_soundtrack_for_druid_magic_books" is needed %}
 
 H+X : L'arkonte briefe le diacre qui se prépare à affronter le druide en terminant le rituel d'expulsion ; les avatars décident de retourner dans leurs univers pour ne pas être en danger, et font leurs adieux.
 
@@ -75,14 +75,15 @@ H+X : [Musique] Quelques minutes après la suppression de la Clôture Absolue (c
 
 H+X : [Musique] **Debriefing** avec les joueurs et figurants :
 
-- Résumer le dénouement du jeu.
+- Résumer EN MUSIQUE le dénouement du jeu.
 - Résumer le scénario et les quêtes réussies ou non.
-- Remercier tous pour leur participation : FIGURANTS, AUTOMATES, JOUEURS.
+- Remercier tous pour leur participation : JOUEURS, FIGURANTS, ORGAS, BIBLIOTHEQUE.
 - Présenter le CLIVRA et CHRYSALIS et distribuer des FLYERS.
+- Rappeler la nécessité du LIVRE d'OR (commentaires à faire en ligne)
 - Faire des **photographies** ensemble.
 
 **Avant rangement :**
 
-- Récupérer les **accessoires et symboles des joueurs**.
+- Récupérer les **accessoires et vêtements des joueurs**.
 - IMPORTANT - vérifier que les joueurs ne gardent pas de **clés ou bijoux** sur eux.
 
