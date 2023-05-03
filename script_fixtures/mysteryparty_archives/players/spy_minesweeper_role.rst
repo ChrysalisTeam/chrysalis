@@ -46,7 +46,7 @@ Vous avez emporté avec vous un sac de "luminis", des petites éclairages autono
 Ils peuvent éclairer (faiblement) une zone de la bibliothèque. Mais ils peuvent aussi vous servir à baliser les chemins sûrs, à mettre en évidence des points d'intérêt ou de dangers, ou à tout autre usage - à votre convenance.
 {% hint 'mini_candles_for_minesweeper' is needed %}
 
-*NOTE hors-jeu : Ces bougies LED doivent vous être fournies avant le jeu par les organisateurs*
+*NOTE hors-jeu : Ces bougies LED doivent vous être fournies avant le jeu par les organisateurs.*
 
 
 Connaissance des mécaniques et des automates
