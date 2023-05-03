@@ -7,22 +7,23 @@ COMPLEMENTS DE BRIEFING POUR LES PARTICIPANTS
 BRIEFING GENERAL DES FIGURANTS
 --------------------------------
 
+
 INFORMATIONS POUR TOUS :
 
-Le maître de jeu, le **Djinn renégat Meujeuh**, sera lui-même en jeu, et capable de parler à tous.
+- Le maître de jeu, le **Djinn renégat Meujeuh**, sera lui-même en jeu, et capable de parler à tous.
 
-Les figurants devront s'interroger avec curiosité sur la présence des joueurs, mais AUSSI du djinn renégat en ces lieux.
+- Les figurants devront s'interroger avec curiosité sur la présence des joueurs, mais AUSSI du djinn renégat en ces lieux.
 
-Les fantômes (dont la Bête), et les avatars, **ne peuvent pas se voir mutuellement**.
-Mais tous peuvent voir l'Ankou qui est divin.
+- Les fantômes (dont la Bête), et les avatars, **ne peuvent pas se voir mutuellement**. Mais tous peuvent voir l'Ankou qui est divin.
 
-Les avatars ne peuvent pas manipuler de romans, ni les leurs ni ceux des autres ; les autres livres et grimoires leur restent cependant accessibles. {% fact "avatars_cannot_carry_novels" %}
+- Les avatars ne peuvent pas manipuler de romans, ni les leurs ni ceux des autres ; les autres livres et grimoires leur restent cependant accessibles. {% fact "avatars_cannot_carry_novels" %}
 
-Noter la présence bien connue et assumée d'un **automate de garde**, armé d'un fusil nerf.
+- Noter la présence bien connue et assumée d'un **automate de garde**, armé d'un fusil nerf.
 
-Une cinquième équipe a été ajoutée au jeu, vous la découvrirez sur le moment.
+- Une cinquième équipe fait partie du jeu, vous la découvrirez sur le moment.
 
-Certains figurants suivront plus spécifiquement un groupe durant le jeu, avec ou sans la fiche de déroulement de quête de ce groupe (qui est pleine de *spoilers*).
+- Certains figurants suivront plus spécifiquement un groupe durant le jeu, avec ou sans la fiche de déroulement de quête de ce groupe (qui est pleine de *spoilers*).
+
 
 POUR LES FANTÔMES :
 
@@ -30,10 +31,12 @@ POUR LES FANTÔMES :
 - **Déclencheurs** : vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie spectrale, qui déclenche une bande son intense) ; vous repassez en incarné (potentiellement ANCRÉ) lorsque le GONG retentit. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 - Il nous faudra tester les AILES des fantômes qui serviront à l'épilogue : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
 
+
 POUR LES AVATARS :
 
 - Vous pouvez interagir avec tout le contenu de la bibliothèque, mais pas porter de romans !
 - Vous avez tous des talents pour guérir tel ou tel type de blessure ; relisez la section sur les blessures des joueurs, dans le document "Compléments des Figurants" (en particulier le druide guérit avec son sang)
+
 
 POUR LES AUTOMATES :
 
