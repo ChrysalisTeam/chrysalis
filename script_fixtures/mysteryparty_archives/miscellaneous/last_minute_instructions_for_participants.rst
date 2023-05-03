@@ -80,6 +80,7 @@ BRIEFING FINAL DES JOUEURS+FIGURANTS
 - Principales règles : délicatesse et non-possessivité envers les objets, objets en-jeu et hors-jeu, sécurité physique et psychologique
 - Zone de jeu, en particulier les bureaux hors-jeu
 - Toilettes, qui sont HORS-JEU
+- Qui aurait un risque d'épilepsie si effet stroboscopique ?
 - Photographies : redemander à tous qui est OK pour droit à l'image
 - Terminal Web des indices et des traductions runiques
 - Seau argenté des objets utilisés (ex. pour les cadenas, clés ou potions utilisées) {% hint 'basket_for_precious_items' is needed %}
