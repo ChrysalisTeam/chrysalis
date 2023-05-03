@@ -13,7 +13,7 @@ Ceux-ci pourraient en particulier aider à trouver les serrures magnétiques qui
 Détecteur de métaux
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Votre détecteur de métaux vous alerte par des vibrations et des sons lorsque vous l'approchez de bijoux, monnaies, et divers matériaux sensibles au magnétisme (fer, aluminium, or, argent, cuivre etc.). Pour l'utiliser, il vous suffit de l'allumer *loin de tout métal*, puis de passer sa pointe ou sa tranche près de la zone de recherche (meubles, coffres, éboulis etc.).
+Votre détecteur de métaux (*fourni par les organisateurs*) vous alerte par des vibrations et des sons lorsque vous l'approchez de bijoux, monnaies, et divers matériaux sensibles au magnétisme (fer, aluminium, or, argent, cuivre etc.). Pour l'utiliser, il vous suffit de l'allumer *loin de tout métal*, puis de passer sa pointe ou sa tranche près de la zone de recherche (meubles, coffres, éboulis etc.).
 
 Si vous l'allumez près d'objets métalliques, sa sensibilité sera diminuée, ce qui peut être utile pour déceler des agrégats métalliques au milieu d'autres objets qui feraient sonner le détecteur (comme des étagères en métal).
 
@@ -29,7 +29,7 @@ Détecteur de magnétisme
 
 Vous disposez d'une petite feuille qui réagit aux champs magnétiques. Initialement destinée à comprendre la structure interne de certaines serrures originales, elle s'est révélée encore plus utile pour déchiffrer d'étranges inscriptions de la lignée Maupertuis. Visiblement, leur magie runique a laissé une trace magnétique dans **certains papiers, tableaux, ou livres**. Bonne nouvelle pour vous.
 
-*NOTE hors-jeu* : En posant ou en faisant coulisser la feuille de détection sur certaines surfaces, vous pourrez y voir des lignes de champ magnétique, révélant soit des inscriptions, soit plus subtilement la présence de systèmes d'ouverture magnétiques. Si les inscriptions sont un code à trois lettres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification. Des étiquettes avec un symbole "aimant magnétique" peuvent vous aider à trouver les objets pertinents.
+*NOTE hors-jeu* : En posant ou en faisant coulisser la feuille de détection (fournie par les organisateurs) sur certaines surfaces, vous pourrez y voir des lignes de champ magnétique, révélant soit des inscriptions, soit plus subtilement la présence de systèmes d'ouverture magnétiques. Si les inscriptions sont un code à trois lettres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification. Des étiquettes avec un symbole "aimant magnétique" peuvent vous aider à trouver les objets pertinents.
 
 
 Sensibilité au surnaturel

@@ -27,7 +27,7 @@ Attention, si l'une des runes est mal transcrite, cela peut fausser en grande pa
 Connaissance des codes secrets
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous avez appris à décoder quelques systèmes de chiffrement, et gardez sur vous une **feuille de mémo** à ce sujet.
+Vous avez appris à décoder quelques systèmes de chiffrement, et gardez sur vous une **feuille de mémo** à ce sujet (*version imprimée fournie par les organisateurs*).
 {% hint "secret_codes_sheet_for_runologist" is needed %}
 
 Vous savez aussi que certains messages peuvent se dissimuler dans de simples dessins, soit sous forme de stéréogrammes, soit d'anamorphoses. Un peu de lecture à ce sujet :
@@ -46,7 +46,7 @@ Vous savez aussi que certains messages peuvent se dissimuler dans de simples des
 Kit d'observation-écoute
 ++++++++++++++++++++++++++++++++++
 
-Vous savez, d'expérience, que les vieilles familles lèguent souvent à leurs héritiers des conseils et indices sous des formes très petitement écrites ou très faiblement audibles, donc vous avez emporté **une loupe et un stéthoscope** (*fournis par les organisateurs avant le jeu*).
+Vous savez, d'expérience, que les vieilles familles lèguent souvent à leurs héritiers des conseils et indices sous des formes très petitement écrites ou très faiblement audibles, donc vous avez emporté **une loupe et un stéthoscope** (*fournis par les organisateurs*).
 {% hint "stethoscope_and_magnifying_glass_for_runologist" is needed %}
 
 

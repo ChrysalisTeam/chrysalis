@@ -11,7 +11,7 @@ Mais la spécialité qui vous parle le plus, c'est l'analyse des surfaces, des o
 Lampe à ultraviolets
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous gardez sur vous cette antique lampe-torche, très pratique pour faire ressortir des traces animales, ou des écritures utilisant des encres invisibles.
+Vous gardez sur vous cette antique lampe-torche (*fournie par les organisateurs*), très pratique pour faire ressortir des traces animales, ou des écritures utilisant des encres invisibles.
 
 Il semblerait que les vieilles lignées de mages utilisaient beaucoup de telles encres pour laisser des messages à leurs successeurs, même s'ils utilisaient souvent, hélas, des langages codés pour cet usage.
 
