@@ -7,39 +7,44 @@ COMPLEMENTS DE BRIEFING POUR LES PARTICIPANTS
 BRIEFING GENERAL DES FIGURANTS
 --------------------------------
 
-Rappeler que le MJ, le **Djinn renégat Meujeuh**, sera lui-même en jeu, et capable de parler à tous.
+INFORMATIONS POUR TOUS :
+
+Le maître de jeu, le **Djinn renégat Meujeuh**, sera lui-même en jeu, et capable de parler à tous.
 
 Les figurants devront s'interroger avec curiosité sur la présence des joueurs, mais AUSSI du djinn renégat en ces lieux.
 
-Rappeler que les fantômes (dont la Bête), et les avatars, **ne peuvent pas se voir mutuellement**.
-Mais que tous peuvent voir l'Ankou qui est divin.
+Les fantômes (dont la Bête), et les avatars, **ne peuvent pas se voir mutuellement**.
+Mais tous peuvent voir l'Ankou qui est divin.
 
-Rappeler que les avatars ne peuvent pas manipuler de romans, ni les leurs ni ceux des autres ; les autres livres et grimoires leur restent cependant accessibles. {% fact "avatars_cannot_carry_novels" %}
+Les avatars ne peuvent pas manipuler de romans, ni les leurs ni ceux des autres ; les autres livres et grimoires leur restent cependant accessibles. {% fact "avatars_cannot_carry_novels" %}
 
-Rappeler la présence bien connue et assumée de l'automate de garde, armé d'un fusil nerf.
+Noter la présence bien connue et assumée d'un **automate de garde**, armé d'un fusil nerf.
 
-Affecter à certains figurants le groupe qu'ils **suivront durant le jeu**, avec ou sans la fiche de quête (pleine de *spoilers*).
+Une cinquième équipe a été ajoutée au jeu, vous la découvrirez sur le moment.
+
+Certains figurants suivront plus spécifiquement un groupe durant le jeu, avec ou sans la fiche de déroulement de quête de ce groupe (qui est pleine de *spoilers*).
 
 POUR LES FANTÔMES :
 
-- Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes en "phase incarné".
+- Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes en "phase incarnée".
 - **Déclencheurs** : vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie spectrale, qui déclenche une bande son intense) ; vous repassez en incarné (potentiellement ANCRÉ) lorsque le GONG retentit. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
-- Tester les AILES de l'épilogue avant : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
+- Il nous faudra tester les AILES des fantômes qui serviront à l'épilogue : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
 
 POUR LES AVATARS :
 
 - Vous pouvez interagir avec tout le contenu de la bibliothèque, mais pas porter de romans !
-- Vous avez tous des talents pour guérir tel ou tel type de blessure ; relisez la section sur les blessures des joueurs, dans le document "Compléments des Figurants" (en particulier le drudie guérit avec son SANG)
+- Vous avez tous des talents pour guérir tel ou tel type de blessure ; relisez la section sur les blessures des joueurs, dans le document "Compléments des Figurants" (en particulier le druide guérit avec son sang)
 
 POUR LES AUTOMATES :
 
 - Donner leurs {% symbol 'rubans blancs' for 'automaton_symbolic_cloth' %} aux automates
-- Juste après le discours introductif du début de jeu, vous devrez **accompagner les groupes de joueurs** jusqu'à leurs points de départ (voir le plan du jeu)
-- Lorsque le jeu commence vraiment, vous pouvez pour certains être INACTIFS, assis ou au sol, jusqu'à ce que l'inventeur ne vous allume (les avatars doivent évidemment trouver cela normal)
+- Juste après le discours introductif du début de jeu, vous devrez **accompagner les groupes de joueurs** jusqu'à leurs points de départ (s'entendre lors du briefing sur qui fait quoi)
+- Lorsque le jeu commence vraiment, vous pouvez pour certains être INACTIFS, assis ou au sol, jusqu'à ce que l'inventeur vous allume
 - Si on vous envoie dans une zone empoisonnée, pas de problème ; mais si c'est un piège mécanique ou magique (fil, grelots...), vous êtes cassé et tombez au sol, l'inventeur doit vous réparer ; le MJ dira si le piège reste encore en place ou non.
-- Vers la fin du jeu, après la résolution du mystère, vous aiderez à rassembler les joueurs au bas des escaliers en attendant l'épilogue.
+- Vers la fin du jeu, après la résolution du mystère, vous aidez à rassembler les joueurs au bas des escaliers en attendant l'épilogue.
 - Après l'épilogue et le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails de téléportation vers la surface vont bientôt se refermer.
 - Prenez des photographies durant le jeu, si possible, SVP !
+
 
 .. raw:: pdf
 
@@ -63,11 +68,6 @@ Questions à poser aux joueurs du groupe avant le jeu :
 - Explorateur anthropologue : les affichettes de nuages de lettres en couleur BLEUE sont indéchiffrables, faire semblant que ce sont des runes trop anciennes.
 - Diacre désenvoûteur : les petites pancartes à tête de mort sont des indices faibles, seule la signalétique symbolique est fiable
 - Diacres : vous avez possibilité d'enseigner un de vos rites à un autre initié, mais cela prend du temps et a moins de chances de réussir
-
-
-.. raw:: pdf
-
-   PageBreak
 
 
 BRIEFING FINAL DES JOUEURS+FIGURANTS
