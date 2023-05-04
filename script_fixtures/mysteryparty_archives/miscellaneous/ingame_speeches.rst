@@ -1,6 +1,31 @@
 RECAPITULATIF DES DISCOURS DES FIGURANTS
 ==============================================
 
+INTRODUCTION DU JEU (par le maître de jeu)
+---------------------------------------------------
+
+**Je vous invite à fermer les yeux**
+
+Vous en avez fait du chemin, vous en avez franchi des obstacles,
+pour arriver jusqu'au portail menant aux archives secrètes des Maupertuis.
+
+Là, vous avez réveillé une magie présente depuis des temps immémoriaux.
+Vous voici en apesanteur, aspirés par un tourbillon, vers les profondeurs de la terre.
+
+Mais au milieu de ce tumulte, vous apercevez d'autres silhouettes autour de vous, **ouvrez grand vos yeux** !
+Vous ne savez pas ce qui amène ces personnes ici, mais une chose est sûre : aujourd'hui, la destinée vous a rassemblés.
+
+Vous reconnaissez des diacres, à leur étole violette
+Vous reconnaissez des archéologues, à leur ceinture beige
+Vous reconnaissez des militaires, à leur brassard vert
+Et enfin, la fameuse lignée des Parcival, à leur jabot bleu
+
+Mais soudain, l'une d'entre vous a une profonde intuition !
+
+Vous sentez une secousse, tout se brouille... vous voilà arrivés dans le sanctuaire des Maupertuis.
+
+
+
 OUVERTURE DU BUFFET (par l'avatar inventeur)
 ---------------------------------------------------
 
