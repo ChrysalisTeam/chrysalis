@@ -3,16 +3,33 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
-LAST MINUTE STUFFS
+
+=== URGENCES - INSTRUCTIONS SUPPLEMENTAIRES ===
+
+AVANT DEPART
 - ALLER CHERCHER Grand baton de la cave et papier craft supplémentaire : pour l'ankou et éboulis !!!
+
+DURANT MONTAGE
 - Demander code WIFI à la bibliothèque
 - Mettre faux signes danger supplémentaire, sur artefacts bénéfiques
-- Bien vérifier au rangement que les alarmes à grillons sont éteintes !!!
-- Dire à l'arkonte qu'il DESIGNE autoritairement le pentacle à la fin de la mélodie de boss battle
-- Prévenir les joueurs qu'il ne faut PAS tripoter la momie !
 - Mettre du PARFUM sur certains livres ou tiroirs
 
-DONE - OBJETS A REPORTER DANS CHECKLIST :
+DURANT BRIEFINGS
+- Dire à l'arkonte qu'il DESIGNE autoritairement le pentacle à la fin de la mélodie de boss battle
+- Prévenir les AUTOMATES qu'ils ne peuvent pas déplacer objets ULTRA LOURDS !!!
+- Prevenir les DIACRES des 2 souriceaux !!!
+
+DURANT LE JEU
+- Donner intuition automate tueur à oracle
+- Prévenir, durant le jeu, les joueurs qu'il ne faut PAS tripoter la momie !
+- Enlever rubans blancs aux automates déchus quand opérationnels, leur dire d'être très maladroits
+
+APRES LE JEU
+- Bien vérifier au rangement que les alarmes à grillons sont éteintes !!!
+
+
+DONE - OBJETS A DOUBLE-VERIFIER ET A REPORTER DANS CHECKLIST :
+- Nouvel objet : 3 ceintures larges cloutées en cuir noir
 - Grand baton de la cave : pour l'ankou  !!!
 - Gros accordéon ancien désaccordé (prêt de Maëlibé)
 - PC portable gris, clavier et souris sans fil !!
@@ -21,7 +38,7 @@ DONE - OBJETS A REPORTER DANS CHECKLIST :
 - récupérer lecteur mp3 de la gym, avec bandes son totales
 - Mini-lampe touch cylindrique sur batterie
 - 3 gros morceaux rocheux en mousse (dans sac bleu)
-- Balles nerfs blues pour SORTS du druide !
+- Balles nerfs bleues pour SORTS du druide !
 - Tombe 3 : Armure de Mithril de l’arkonte (code d’envoûtement
 POSITIF [bst]) marquée ULTRA-LOURDE
 - Petit tapis brodé en tons chauds pour mettre en valeur les artefacts
@@ -37,19 +54,15 @@ plumes, et en tringlerie avec diodes (3xAA incluses)
 - Fausse chope à bière transparente
 - voiles légers rouge/orange pour protéger les lieux
 - Lunettes steampunk à verres rouges pour le MJ
-
 - IMPORTANT mettre plus d'objets envoutés néfastes désenvoutables !!
    - simple devant l'antichambre du tombeau du mage
    - simple sur les tiroirs rouges de l'alchimie
    - complexe sur le coffret du thanatologue
-
 - PREPARER FUMEE A DOIGTS !! <<<<<<<<<<<<<<
 
 
-CRAFTING RESTANT
-- IMPRIMER le PLANNING, plan des lieux, les crates, briefings, inventaire total, et les fiches montage/démontage
-- NUMEROTER LES CAISSES
-- Mettre tous docs PDF importants sur smartphone et mini pc noir !!!!!
+
+
 
 
 
@@ -119,11 +132,20 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - On doit prévenir les joueurs : ne pas tripoter la momie, sinon, même en Parcival, on peut la réveiller.
    La momie fixe d'un oeil blafard les joueurs qui entrent, et respire difficilement
 - "Avatar Duchesse : Gestion des prophéties et intuitions" : êre plsu précis sur ce qui se passe exactement !!! C'est bien al duchesse qui a toute les images !
+- ENLEVER AUX AUTOMATES : "Vous pouvez déplacer des objets ULTRA-LOURDS" (dangereux pour les jhoueusr déchus)
+- Prevenir les DIACRES des 2 souriceaux donnés par oracle de leur monasète (les déchus) !!!
+- "Les joueurs doivent comprendre qu’il s’agit d’un moulin à café simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit."
+  ==> Comment le cacher s'il y a SCEAU de toute façon ? Donner pouvoir pour CA, faire apparaitre le sceau !
 
 
 TRASH
 ########################################
 
+
+CRAFTING RESTANT
+- IMPRIMER le PLANNING, plan des lieux, les crates, briefings, inventaire total, et les fiches montage/démontage  DONE
+- NUMEROTER LES CAISSES  bof
+- Mettre tous docs PDF importants sur smartphone et mini pc noir !!!!!  DONE
 
 - récupérer lecteur mp3 de la gym et y mettre bandes son  DONE
 
