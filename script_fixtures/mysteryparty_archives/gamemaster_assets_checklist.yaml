@@ -154,7 +154,7 @@
   -
     - "@PIEGES-ET-CADENAS Sur le coffret, un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %} IMPORTANT"
     - "Réserve de 9 galets phosphorescents étalés depuis une bourse mauve {% hint 'beast_snack_as_moon_stones' is provided %} IMPORTANT"
-    - "Plume de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %} IMPORTANT"
+    - "PLUME de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %} IMPORTANT"
     - "Décorations : boite cylindrique en cuir noir contenant peigne-perroquet, loupe, pipe métallique"
     - "Décorations : mini-jumelles dans étui velours violet, miroir ovale décoré, clochette en laiton, lunettes dans étui fin noir, gobelet en argent, boite en métal jaune Neurotrophol"
     - "Decorations : 3 petits livres très anciens avec reliure cuir, tube kaléidoscope, mini-cafetière en zinc"
@@ -182,7 +182,7 @@
   - "@TOMBEAU-MAGE Galerie de portraits des Maupertuis"
   -
     - "Cadre de remerciement (en message magnétique + message UV) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_and_uv_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %} IMPORTANT"
-    - "Plume de prophétie sur le cadre de remerciement à stéréogramme {% hint 'feather_on_stereogram_board' is provided %} IMPORTANT"
+    - "Optionnellement, PLUME de prophétie sur le cadre de remerciement à stéréogramme {% hint 'optional_feather_on_stereogram_board' is provided %} IMPORTANT"
     - "Portrait du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} avec optionnellement message UV : \"Il a vécu par les ethers, les amplificans, et les grimoires maudits, mais il est mort par un simple fruit.\""
     - "Portrait du père des Maupertuis (Quirinius) avec optionnellement message UV : \"Si oubli, penser Venture Prins !\""
     - "Portrait de la mère des Maupertuis (Isadora) avec optionnellement message UV : \"Rien qui m'appartienne Sinon la paix du coeur Et la fraîcheur de l'air\""
@@ -212,7 +212,7 @@
   - "@COFFFRE-LEGENDAIRE Coffre légendaire (mallette noire épaisse) des Maupertuis"
   -
     - "Deux codes de protection sur le coffret légendaire des Maupertuis {% hint 'family_legendary_chest_protected_by_double_code' is provided %} IMPORTANT"
-    - "Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' pour la mallette noire épaisse (coffre légendaire des Maupertuis) ; il contient le sort de zombification et un indice de contre-mesure en UV, le {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, un indice sur le Vortex Abyssal, la recette alchimique des flèchettes d'Iridium et une plume de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'arrow_recipe_for_alchemist' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
+    - "Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' pour la mallette noire épaisse (coffre légendaire des Maupertuis) ; il contient le sort de zombification et un indice de contre-mesure en UV, le {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, un indice sur le Vortex Abyssal, la recette alchimique des flèchettes d'Iridium et une PLUME de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'arrow_recipe_for_alchemist' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
     - "Diamant géant en résine epoxy {% hint 'spiritual_orb_key_diamond_is_needed' is provided %} IMPORTANT"
     - "Cryptex en metal (code: 'GENIAL'), contenant un papier runique qui donne la formule vers la Source de Savoir des Djinns {% hint 'cryptex_providing_formula_of_link_to_djinn_world' is provided %} IMPORTANT"
     - "Étendard noir rectangulaire avec scorpion rouge peint"
@@ -281,11 +281,11 @@
 -
   - "@DIVINATION Laboratoire de divination"
   -
-    - "Fontaine d'encens à LED (éteinte et SANS cône d'encens) avec plume de prophétie (2xCR2032 incluses) {% hint 'incense_fountain' is provided %} IMPORTANT"
+    - "Fontaine d'encens à LED (éteinte et SANS cône d'encens) avec PLUME de prophétie (2xCR2032 incluses) {% hint 'incense_fountain' is provided %} IMPORTANT"
     - "Plateau en bois avec cristaux 3D illuminés par une guirlande LED (2xCR2032 incluses)"
     - "Petite pyramide en plastique pour hologramme, avec un message secret en hiéroglyphes IMPORTANT"
-    - "Boule plasma représentant l'orbe spirituel (nécessite 4xAAA ou USB) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
-    - "6 grands portraits lenticulaires effrayants {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
+    - "Boule plasma représentant l'orbe spirituel ( nécessite 4xAAA ou USB) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
+    - "6 grands portraits lenticulaires effrayants avec une PLUME de prophétie {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
     - "Petit puits en cuivre  avec un message secret 'puits inutile' en hiéroglyphes {% hint 'longevity_metal_well' is provided %}"
     - "Trône en bois à cachette coulissante, avec dessus un mini-crâne illuminé LED (3xLR44 incluses)"
     - "Pyramide à base carrée en résine epoxy dans le trône en bois {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT ??? CHANGE"
@@ -390,7 +390,7 @@
     - "FANTÔMES : 5 tuniques en velours pourpre"
     - "FANTÔMES : 4 paires gants blancs à diodes (3 à lumière blanche, et 1 à lumière bleue pour voleur)"
     - "@ELECTRONIQUE-CAISSE FANTÔME VOLEUR : Masque à grille de LEDs ShiningApp (batterie longue autonomie)"
-    - "@EXTERNE-SACS-GEANTS FANTÔMES : 3 paires d'ailes : en tissu (look métallique), en plumes, et en tringlerie avec diodes (3xAA incluses)"
+    - "@EXTERNE-SACS-GEANTS FANTÔMES : 3 paires d'ailes : en tissu (look métallique), en plumes blanches, et en tringlerie avec diodes (3xAA incluses)"
 
 -
   - "@COSTUMES-FIGURANTS La Bête IMPORTANT"
@@ -413,7 +413,7 @@
     - "@ENORMES DRUIDE : Grand bâton noueux"
     - "DRUIDE : Sarbacane-flûte {% hint 'blowpipe_flute_for_druid' is provided %} IMPORTANT"
     - "DRUIDE : Balle unique avec rubans multicolores pour simuler un sortilège offensif"
-    - "DRUIDE : Sacoche porte-document de l'arkonte, avec une fausse lettre compromettante au blason de faucille et de houx, de l'argent, et une plume de prophétie {% fact 'druid_makes_conspiracy_against_arkon' %} {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'arkon_bag_containing_money' is provided %} {% hint 'feather_in_arkon_bag' is provided %} IMPORTANT"
+    - "DRUIDE : Sacoche porte-document de l'arkonte, avec une fausse lettre compromettante au blason de faucille et de houx, de l'argent, et une PLUME de prophétie {% fact 'druid_makes_conspiracy_against_arkon' %} {% hint 'arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter' is provided %} {% hint 'arkon_bag_containing_money' is provided %} {% hint 'feather_in_arkon_bag' is provided %} IMPORTANT"
 
 -
   - "@ACCESSOIRES-FIGURANTS Matériel de l'avatar DUCHESSE IMPORTANT"

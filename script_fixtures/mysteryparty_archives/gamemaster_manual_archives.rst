@@ -795,7 +795,7 @@ Selon que les groupes de joueurs ont, ou non, pris l'engagement auprès de l'ark
 
 
 Planification des prophéties et intuitions
-+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro planning_of_prophecies() %}
 
@@ -809,9 +809,11 @@ Planification des prophéties et intuitions
 
 - **Intuition sur le domaine interdit** (lorsque les joueurs entrent dans l'étage interdit) : *"Vous sentez se déverser sur vous le poids de siècles, de millénaires de connaissances qui sont sources de vie, mais aussi parfois de mort. Cependant, vous le sentez, le Mal est bien plus ancré dans l'étage autorisé, qu'il ne l'est dans l'étage interdit."*
 
-- **Prophétie sur le moulin générateur de richesses** (plume sur le tableau avec stéréogramme de moulin près des portraits) : Vision simple, musique "Here and Now (Seed's Theme)". {% hint 'feather_on_stereogram_board' is needed %}
+- [FACULTATIF] **Prophétie sur le moulin générateur de richesses** (plume sur le tableau avec stéréogramme de moulin près des portraits) : Vision simple, musique "Here and Now (Seed's Theme)". {% hint 'optional_feather_on_stereogram_board' is needed %}
 
 - **Prophétie de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "The Calling". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% hint 'feather_in_thanatologue' is needed %} Si le joueur Oracle ne se sent pas capable de gérer cette prophétie audio, repasser sur une simple vision, avec l'image.
+
+- **Prophétie de Cassandra**, en vidéo sur la pyramide hologramme, déclenchée en versant la bonne potion sur le bon tableau lenticulaire effrayant. {% hint "prophecy_hologram_for_scary_lenticular_painting" is needed %}
 
 - **Prophétie du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte déposée par le méchant) : Vision simple, musique "Broken Truth light (Delphi's Theme)". {% hint 'feather_in_arkon_bag' is needed %}
 
@@ -1142,7 +1144,7 @@ Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine 
 
 Il est indiqué, par un blason (à triade de flammes) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% fact "anthropologist_knows_about_fire_triad_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
 
-Les avatars ou fantômes Maupertuis ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. {% fact "arkon_is_worried_about_spiritual_orb_magic" %}
+Les avatars ou fantômes Maupertuis ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. {% fact "arkon_does_not_know_about_spiritual_orb_magic" %}
 
 il s'agit en réalité d'un canal de communication vers une dimension démoniaque. Une fois ce canal ouvert (donc une fois la boule à plasma allumée), les joueurs qui posent le doigt dessus sont contaminés par des influences néfastes trop puissantes pour eux. En fonction de leur personnage, ils vont avoir des gages montrant que leur santé mentale a été blessée ; avec toujours beaucoup d'agitation et de paroles incohérentes.
 
