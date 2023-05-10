@@ -22,7 +22,7 @@ L'un de vous est ainsi spécialisé dans les arts alchimiques ; l'autre reçoit 
 
 Récemment, votre petite sœur **{% symbol "Philomène" for "parcival_sick_child_name" %}** est tombée gravement malade. La **{% symbol "dégénérescence marbrée" for "legacy_disease" %}**, un mal qui avait moult fois frappé vos ancêtres au fil des siècles. Mais un espoir subsistait : il est connu que votre aïeule, Mérédice de Maupertuis, en avait été guérie par ses parents dans sa tendre enfance. Ce savoir médicinal, engrangé par sa dynastie de mages-guérisseurs, est hélas largement tombé dans l'oubli : leur manoir de {% symbol "Thelassar" for "events_region_name" %} a été saccagé par des fanatiques, un drame dont Mérédice fut visiblement la seule rescapée. Traumatisée, elle avait entièrement refait sa vie à l'étranger, en ne cherchant jamais à récupérer le domaine qui lui revenait de droit.{% fact "parcival_family_is_heir_of_maupertuis" %}
 
-Vous êtes donc partis sur les traces du passé, pour retrouver cette fabuleuse "Potion de Réjuvénation" qui avait sauvé votre lignée.
+Vous êtes donc partis sur les traces du passé, pour retrouver ce fabuleux **{% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}** qui avait sauvé votre lignée.
 
 Les ruines du manoir des Maupertuis n'ont, sans surprise, livré aucun secret. Et le temps commençait à manquer ; {% symbol "Philomène" for "parcival_sick_child_name" %} n'en avait plus que pour quelques mois à vivre.
 
