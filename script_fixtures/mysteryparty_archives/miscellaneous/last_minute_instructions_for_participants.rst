@@ -104,3 +104,55 @@ BRIEFING FINAL DES JOUEURS+FIGURANTS
 - Vous allez croiser d'autres joueurs : prenez le temps de faire un peu connaissance, et de voir les compétences de chacun, car elles pourraient vous être utiles. Sachez par exemple qui interpeller si vous voyez des étoiles autocollantes ou des plumes colorées. C'est un jeu plutôt **collaboratif**, grâce au serment de Zarathoustra.
 - Vous allez aussi croiser différents personnages figurants ; prenez là aussi le temps de les découvrir, de discuter avec eux, peut-être que vous pouvez les aider, peut-être aussi qu'ils peuvent vous aider dans vos recherches !
 - Enfin, vous allez croiser des mécanismes, des sortilèges (FLASH LUMINEUX, son de cigale, grelots), et des êtres dangereux pour votre personnage... Faites attention, ils peuvent vous blesser ou bien pire ; et que faites-vous si vous êtes blessé, déjà ? Oui, vous ne bougez plus et vous appelez à l'aide.
+
+
+
+.. raw:: pdf
+
+   PageBreak
+
+COMPLEMENT D'INSTRUCTIONS - DRUIDES
+-----------------------------------------
+
+{% macro maupertuis_archives_quick_tour() %}
+
+Visite des archives secrètes des maupertuis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Un des rares visiteurs de ce sanctuaire, du temps de sa grandeur, l'a narré ainsi :
+
+"C'est un endroit rempli de mystère. À l'étage autorisé, il s'agit principalement d'une immense bibliothèque regorgeant de Savoir.
+On y trouve un buffet enchanté qui se remplit tout seul ; un amas de végétation, dans un coin ; et quelques coffres et mallettes précieux de la famille Maupertuis. Sans oublier le tombeau maudit du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, fondateur de la dynastie.
+
+Mais ce qui vaut réellement le détour, c'est l'étage interdit, protégé par un puissant Sceau magique.
+La Bête y a sa puante niche, et protège cet endroit où s'empilent les plus sombres grimoires de sorcellerie et de nécromancie.
+Et des "corridors manaïques", des culs-de-sac probablement piégés, abritent certains bijoux légendaires de la famille.
+Tout n'y est pas glauque, cependant : certains membres de la famille y ont leur petit bureau d'études, et on y trouve aussi de jolis établis d'alchimie, de gemmologie et de divination. Mais la présence du Thanatologue, livre tabou entre tous, dans son coffre, suffit à jeter un voile lugubre sur toute cette zone."
+
+{% endmacro %}
+<{ maupertuis_archives_quick_tour }/>
+
+Votre plan de bataille
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il est simple. Fouiller ce lieu de fond en comble, et renvoyer dans son au-delà ou outre-monde toute entité qui n'aurait rien à faire en ce lieu.
+
+Mais il vous faut rester prudent : toute anomalie de ce genre a une cause, qu'il convient d'investiguer et de comprendre, afin de ne pas causer des maux encore plus grands en tentant de rétablir par la force l'ordre naturel des êtres.
+
+
+
+.. raw:: pdf
+
+   PageBreak
+
+COMPLEMENT D'INSTRUCTIONS - PARCIVAL
+-----------------------------------------
+
+<{ maupertuis_archives_quick_tour }/>
+
+Votre plan de bataille
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il est simple. Fouiller ce lieu de fond en comble, et renvoyer dans son au-delà ou outre-monde toute entité qui n'aurait rien à faire en ce lieu.
+
+Mais il vous faut rester prudent : toute anomalie de ce genre a une cause, qu'il convient d'investiguer et de comprendre, afin de ne pas causer des maux encore plus grands en tentant de rétablir par la force l'ordre naturel des êtres.
