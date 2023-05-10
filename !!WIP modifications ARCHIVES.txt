@@ -5,13 +5,13 @@ TODO RESTANT MURDER PARTY
 
 RAJOUTER JEU AU WOODSMAN
 
-Rassembler coffre commun marron avec mallette noire
+Rassembler coffre commun marron avec mallette noire   DONE
 
 Attention à ne pas décourager les initiatives par des dénégations/doutes en JEU (ex. fouille du cimetière) ++
 
 Donner indices de lecture des envoutements!!
 
-Fiches de mission pour chaque équipe
+Fiches de mission pour chaque équipe à donner aux figurants
 
 Donner indications de plan de la bibliothèque à l'avance
 
@@ -20,17 +20,17 @@ Simplifier
 - localisation cristaux epoxy
 - ouvertures magnétiques avec oeillets
 
-Beware, cable hdmi manquant  !!!
+Beware, cable hdmi manquant  !!!  DONE
 
 - Enlever rubans blancs aux automates déchus quand opérationnels, leur dire d'être très maladroits
 - Donner intuition automate tueur à oracle
 - Nouvel objet : 3 ceintures larges cloutées en cuir noir
 
-AJOUTER PLUME SUR PYRAMIDE CASSANDRA et fontaine etc.
+AJOUTER PLUME SUR PYRAMIDE CASSANDRA et fontaine encens etc.
 
 L'oracle doit DECRIRE ses visions, uniquement
 
-Mettre crane arkonte sous tas de lianes.
+Mettre crane arkonte sous tas de lianes seulement.
 
 
 
