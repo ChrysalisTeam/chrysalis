@@ -26,7 +26,7 @@ INFORMATIONS POUR TOUS :
 
     - OCTAVE ET L'ARCHIVISTE suivent les Héritiers Parcival (la Duchesse suit l'Oracle plus spécifiquement)
     - L'INVENTEUR suit les Espions mirandiens
-    - LE RUIDE suit les Explorateurs héliossars
+    - LE DRUIDE suit les Explorateurs héliossars
     - L'ARKONTE suit les Diacres de Bahamoot
 
 - Les joueurs ne peuvent pas différencier facilement le en-jeu et le hors-jeu, donc évitez de les décourager de réaliser certaines choses (aller à l'étage interdit ou dans le tombeau du mage, profaner le cimetière, utiliser l'orbe spirituel...) même si votre *personnage* réagirait naturellement ainsi. Mieux vaut toujours les encourager à avoir de l'initiative, mais en leur rappelant les règles de prudence : faire attention aux marquages sur les artefacts, aux pancartes sur le sol, etc.
@@ -35,8 +35,8 @@ INFORMATIONS POUR TOUS :
 POUR LES FANTÔMES :
 
 - Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes en "phase incarnée".
-- **Déclencheurs** : vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie spectrale, qui déclenche une bande son intense) ; vous repassez en incarné (potentiellement ANCRÉ) lorsque le GONG retentit. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
-- IMPORTANT : au tout début du jeu, en revanche, vous serez déjà en phase d'errance !
+- Déclencheurs : vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie spectrale, qui déclenche une bande son intense) ; vous repassez en incarné (potentiellement ANCRÉ) lorsque le GONG retentit. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+- IMPORTANT : au tout début du jeu, en revanche, quand les joueurs arrivent, vous serez déjà en phase d'errance !
 - Il nous faudra tester les AILES des fantômes qui serviront à l'épilogue, par exemple : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
 
 
@@ -89,7 +89,7 @@ BRIEFING FINAL DES JOUEURS+FIGURANTS
 -----------------------------------------
 
 - Planning global du jeu
-- Principales règles : délicatesse et non-possessivité envers les objets, objets en-jeu et hors-jeu, sécurité physique et psychologique
+- Principales règles : DÉLICATESSE et non-ACCAPAREMENT envers les objets, objets en-jeu et hors-jeu, sécurité physique et psychologique
 - Zone de jeu, en particulier les bureaux hors-jeu
 - Toilettes, qui sont HORS-JEU
 - Qui aurait un risque d'épilepsie si effet stroboscopique ?
