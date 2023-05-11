@@ -148,7 +148,7 @@ Maintenant que vous êtes incarnés en souris, votre espérance de vie est très
 
 
 Votre arrivée en jeu
-++++++++++++++++++++++++++++++++++++++++++++++
+========================================
 
 *NOTES hors-jeu*
 
@@ -165,5 +165,17 @@ La suite du jeu se déroule normalement pour vous, en tant que joueur ; à vous 
 C'est à vous de décider à quel moment vous auriez envie de révéler votre origine draconique aux diacres, voire à l'ensemble des personnes présentes - ou pas.
 
 
-<{ maupertuis_archives_quick_tour }/>
+{# DUPLICATA FIXME of maupertuis_archives_quick_tour #}
+Aperçu des archives secrètes des Maupertuis
+====================================================
 
+Un des rares visiteurs de ce sanctuaire, du temps de sa grandeur, l'a narré ainsi :
+
+    C'est un endroit rempli de mystère. Concernant le "domaine autorisé", il s'agit principalement d'une immense bibliothèque regorgeant de Savoir.
+    On y trouve un buffet enchanté qui se remplit tout seul ; un amas de végétation, dans un coin ; et quelques coffres et mallettes précieux de la famille Maupertuis. Sans oublier le tombeau maudit du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, fondateur de la dynastie.
+
+    Mais ce qui vaut réellement le détour, c'est le "domaine interdit", protégé par un puissant Sceau magique.
+    La Bête y a sa puante niche, et protège cet endroit où s'empilent les plus sombres grimoires de sorcellerie et de nécromancie.
+    Et des "corridors manaïques", des culs-de-sac probablement piégés, abritent certains bijoux légendaires de la famille.
+
+    Tout n'y est pas glauque, cependant : certains membres de la famille y ont leur petit bureau de travail, et on y trouve aussi de jolis établis d'alchimie, de gemmologie et de divination. Mais la présence du Thanatologue, livre tabou entre tous, dans son coffre, suffit à jeter un voile lugubre sur toute cette zone.

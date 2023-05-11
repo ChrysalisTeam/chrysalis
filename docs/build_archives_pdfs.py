@@ -204,6 +204,10 @@ ISOLATED_DOCS = {
     "ingame_speeches": ("miscellaneous/ingame_speeches.rst", "anyone"),
     "enigma_solutions": ("miscellaneous/enigma_solutions.rst", "anyone"),
     "last_minute_instructions_for_participants": ("miscellaneous/last_minute_instructions_for_participants.rst", "anyone"),
+    "complement_for_diakons": ("miscellaneous/complement_for_diakons.rst", "anyone"),
+    "complement_for_explorers": ("miscellaneous/complement_for_explorers.rst", "anyone"),
+    "complement_for_parcival": ("miscellaneous/complement_for_parcival.rst", "anyone"),
+    "complement_for_spies": ("miscellaneous/complement_for_spies.rst", "anyone"),
     "main_quest_tracking_sheets": ("miscellaneous/main_quest_tracking_sheets.rst", "anyone"),
 }
 
