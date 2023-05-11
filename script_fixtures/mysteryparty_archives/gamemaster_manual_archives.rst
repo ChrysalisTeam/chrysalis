@@ -1174,12 +1174,16 @@ IMPORTANT : chaque rôle doit avoir son **“moment de gloire”** prévu dans l
 Diacres de {% symbol "Bahamoot" for "god_of_diakons" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Ils viennent rétablir l'ordre naturel des choses dans les archives secrètes des Maupertuis.
+
 - Désenvouteur : reconnait les envoûtements d'objets, supprime ceux négatifs, et connait les types de blessures
 - Exorciste : sait attirer ou bannir des esprits, et bénir des armes ; connait les fantômes
 - Invocateur : sait réaliser des rituels magiques complexes à l'aide de pentacles ou sceaux ; possède un encensoir
 
 Famille Parcival
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ils sont à la recherche d'un remède pour sauver leur soeur.
 
 - Gardien des bois : possède une arbalète et une force herculéenne ; a un fort instinct de protection, et connait divers monstres
 - Alchimiste : sait fabriquer des potions pour divers usages ; possède divers ingrédients et matériels
@@ -1188,12 +1192,16 @@ Famille Parcival
 Agents secrets mirandiens
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Ils doivent impérativement trouver une source de richesses pour sauver leur pays de la faillite.
+
 - Démineur : sait sécuriser des pièges/éboulements, possède des explosifs et des bougies ; connait bien la mécanique
 - Sondeur : sait détecter les métaux et les champs magnétiques de surface ; pressent la nature anormale (archéologique, magique ou divinatoire) des artefacts
 - Crocheteur : sait forcer certains cadenas, et ouvrir des serrures/antivols magnétiques ; porte des potions rituelles
 
 Explorateurs-archéologues héliossars
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ils cherchent un grimoire maudit, afin de percer à jour et contrer une horde d'envahisseurs.
 
 - Runologue : sait traduire des runes akarites et reconnaître divers codes secrets ; possède une loupe et un stéthoscope
 - Dévoileur : sait lire les encres invisibles, et analyser scientifiquement des objets

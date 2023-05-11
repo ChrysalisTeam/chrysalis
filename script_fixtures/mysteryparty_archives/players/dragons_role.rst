@@ -60,7 +60,7 @@ Votre clairvoyance draconique
 =======================================
 
 Vous avez gardé une partie de votre capacité à sonder les âmes.
-Dès que vous les croisez, vous devinez ainsi les spécialités et possessions des autres visiteurs de ce sanctuaire.
+Dès que vous les croisez, vous devinez ainsi les souhaits, spécialités et possessions des autres visiteurs de ce sanctuaire.
 
 <{ summary_of_player_abilities }/>
 
@@ -144,7 +144,7 @@ Maintenant que vous êtes incarnés en souris, votre espérance de vie est très
 
 **Salvation** : Si un être humain est mourant, deux dragons déchus peuvent ensemble, en mobilisant ce qu'il leur reste d'énergie draconique, le restaurer dans son âme et son corps. *NOTE hors-jeu : cette compétence ne peut être utilisée qu'une seule fois en tout durant le jeu ; improvisez le rituel avec des gestes et des chants.*
 
-**Herboristerie** : Vous avez entendu parler d'une plante appelée "Holistix", qui se présente sous forme de clochettes pourpres aux arrêtes effilée et aux bouts pointus. Elle aurait la propriété d'étendre immensément la quiétude mentale d'un être, et pourrait donc vous aider dans votre plan de "piège psychique à démons". {% hint "purple_bell_plant_in_vial" is needed %}
+**Herboristerie** : Vous avez entendu parler d'une plante appelée "Holistix", qui se présente sous forme de clochettes pourpres aux arrêtes effilée et aux bouts pointus. Elle aurait la propriété d'étendre immensément la quiétude mentale d'un être, et pourrait grandement donc vous aider dans votre plan de "piège psychique à démons". {% hint "purple_bell_plant_in_vial" is needed %}
 
 
 Votre arrivée en jeu
@@ -164,4 +164,6 @@ La suite du jeu se déroule normalement pour vous, en tant que joueur ; à vous 
 
 C'est à vous de décider à quel moment vous auriez envie de révéler votre origine draconique aux diacres, voire à l'ensemble des personnes présentes - ou pas.
 
+
+<{ maupertuis_archives_quick_tour }/>
 

@@ -64,6 +64,7 @@ POUR LES AUTOMATES :
 .. raw:: pdf
 
    PageBreak
+   
 
 BRIEFING PAR ÉQUIPE DES JOUEURS
 -----------------------------------------
@@ -116,7 +117,7 @@ COMPLEMENT D'INSTRUCTIONS - DRUIDES
 
 {% macro maupertuis_archives_quick_tour() %}
 
-Visite des archives secrètes des maupertuis
+Aperçu des archives secrètes des maupertuis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Un des rares visiteurs de ce sanctuaire, du temps de sa grandeur, l'a narré ainsi :
@@ -141,6 +142,21 @@ Votre stratégie est simple. Fouiller ce lieu de fond en comble, et renvoyer dan
 Mais il vous faut rester prudent : toute anomalie de ce genre a une cause, qu'il convient d'investiguer et de comprendre ; afin de ne pas causer des maux encore plus grands en tentant de rétablir par la force l'ordre naturel des choses.
 
 
+{% macro section_with_summary_of_player_abilities() %}
+
+Votre préconnaissance des alliés
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Quelques jours avant de pénétrer dans le sanctuaire des Maupertuis, vous avez reçu, en rêve, une étrange vision.
+
+Vous étiez avec vos compatriotes, mais aussi des inconnus. Chacun à son tour, vous vous êtes présentés. Voici ce qui en est ressorti.
+
+<{ summary_of_player_abilities }/>
+
+{% endmacro %}
+<{ section_with_summary_of_player_abilities }/>
+
+
 .. raw:: pdf
 
    PageBreak
@@ -158,6 +174,8 @@ Vous n'avez qu'une idée en tête : trouver le salvateur {% symbol "Cocktail de 
 
 Il est probable que cette préparation nécessitera des ingrédients méconnus ; le temps étant compté, vous devrez soit les récupérer sur place, soit les identifier assez précisément pour pouvoir les rassembler en quelques jours à votre retour. Les petits laboratoires présents dans le sanctuaire des Maupertuis seront de bons endroits pour entamer les recherches.
 
+
+<{ section_with_summary_of_player_abilities }/>
 
 
 .. raw:: pdf
@@ -180,6 +198,9 @@ Une fois ce grimoire maudit trouvé, il vous faudra l'étudier pour comprendre c
 Et trouver, potentiellement directement dans ces lieux chargés de secrets, un moyen de contrer leur attaque.
 
 
+<{ section_with_summary_of_player_abilities }/>
+
+
 .. raw:: pdf
 
    PageBreak
@@ -197,3 +218,6 @@ Vous n'avez qu'une idée en tête : trouver le "moulin boisé" dont parle l'extr
 Au vu de son importance, il est probablement dans le domaine interdit de ces Archives, ce qui ne vous facilitera pas la tâche.
 
 Il vous faudra ensuite retrouver le code magique de cette source de richesses, à travers les "broches" que se répartissaient les différents membres de la famille Maupertuis. Cette recherche s'annonce ardue, car ces broches peuvent être n'importe où, dans des coffres, des cachettes, des éboulis... en espérant qu'ils n'ont pas brûlé avec le manoir des Maupertuis. Peut-être même qu'une d'entre elles est toujours bloquée dans un envoûtement dynastique, si Octave ne l'avait pas finalement obtenue en réussissant son initiation dynastique.
+
+
+<{ section_with_summary_of_player_abilities }/>
