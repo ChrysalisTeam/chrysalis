@@ -22,7 +22,7 @@ INFORMATIONS POUR TOUS :
 
 - Une cinquième équipe fait partie du jeu, vous la découvrirez sur le moment.
 
-- Les figurants suivront chacun plus spécifiquement un groupe durant le jeu, de préférence avec la fiche de déroulement de quête de ce groupe (à récupérer juste avant le début du jeu). L'idée est de les orienter subtilement, s'ils galèrent à avancer.
+- Les figurants suivront chacun plus spécifiquement un groupe durant le jeu, de préférence avec la fiche de déroulement de quête de ce groupe. L'idée est de pouvoir les orienter subtilement, s'ils ont du mal à avancer.
 
     - OCTAVE ET L'ARCHIVISTE suivent les Héritiers Parcival (la Duchesse suit l'Oracle plus spécifiquement)
     - L'INVENTEUR suit les Espions mirandiens
@@ -82,8 +82,9 @@ Questions à poser aux joueurs du groupe avant le jeu :
 **INSTRUCTIONS SPECIALES**
 
 - Explorateur anthropologue : les affichettes de nuages de lettres en couleur BLEUE sont indéchiffrables, faire semblant que ce sont des runes trop anciennes.
-- Diacre désenvoûteur : les petites pancartes à tête de mort sont des indices faibles, seule la signalétique symbolique est fiable
-- Diacres : vous avez possibilité d'enseigner un de vos rites à un autre initié, mais cela prend du temps et a moins de chances de réussir
+- Diacre désenvoûteur : Les petites pancartes à tête de mort sont des indices faibles, seule la signalétique symbolique est fiable
+- Diacre invocateur : Prévenez le maître de jeu quand vous voulez activer un sceau ou un pentacle
+- Diacres : Vous avez possibilité d'enseigner un de vos rites à un autre initié, mais cela prend du temps et a moins de chances de réussir
 - Parcival oracle : Ne cherchez pas à interpréter les prophéties (images ou sons) que vous recevez, transmettez-lez fidèlement possibles à la plus large audience possible
 - Espion démineur : Changement du mode de déminage => main électrique
 
@@ -93,6 +94,7 @@ BRIEFING FINAL DES JOUEURS+FIGURANTS
 
 - Planning global du jeu
 - Principales règles : DÉLICATESSE et non-ACCAPAREMENT envers les objets, objets en-jeu et hors-jeu, sécurité physique et psychologique
+- Vos compétences spécifiques ne sont qu'un BONUS!
 - Zone de jeu, en particulier les bureaux hors-jeu
 - Toilettes, qui sont HORS-JEU
 - Qui aurait un risque d'épilepsie si effet stroboscopique ?

@@ -14,7 +14,7 @@ Un des rares visiteurs de ce sanctuaire, du temps de sa grandeur, l'a narré ain
 
     Mais ce qui vaut réellement le détour, c'est le "domaine interdit", protégé par un puissant Sceau magique.
     La Bête y a sa puante niche, et protège cet endroit où s'empilent les plus sombres grimoires de sorcellerie et de nécromancie.
-    Et des "corridors manaïques", des culs-de-sac probablement piégés, abritent certains bijoux légendaires de la famille.
+    Et des "corridors éthériques", des culs-de-sac probablement piégés, abritent certains bijoux légendaires de la famille.
 
     Tout n'y est pas glauque, cependant : certains membres de la famille y ont leur petit bureau de travail, et on y trouve aussi de jolis établis d'alchimie, de gemmologie et de divination. Mais la présence du Thanatologue, livre tabou entre tous, dans son coffre, suffit à jeter un voile lugubre sur toute cette zone.
 

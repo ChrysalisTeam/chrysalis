@@ -44,7 +44,7 @@ Heureusement, même en tant que souriceaux, vous avez un plan. Ou du moins une �
 
 - Réaliser sur place un élixir de renforcement mental suffisamment puissant pour vous permettre d'encaisser une immense invasion démoniaque (une goutte de ce breuvage suffirait, puisque vous êtes des souris).
 
-- Ensuite, trouver l'Orbe Spirituel, un artefact légendaire capable d'entrouvrir des tunnels vers des dimensions d'outre-monde.
+- Ensuite, trouver l'Orbe Spirituel, un artefact légendaire capable d'entrouvrir des tunnels vers des dimensions d'outre-monde ; il se trouve très probablement dans le domaine interdit de la bibliothèque.
 
 - Vous connecter, grâce à lui, au Vortex Abyssal, et attirer toutes les légions démoniaques dans votre esprit par l'intercession des diacres.
 
@@ -140,9 +140,9 @@ Maintenant que vous êtes incarnés en souris, votre espérance de vie est très
 
 **Innovation rituelle** : Vous le savez depuis toujours, ce qui donne leur pouvoir aux cérémonies, ce n'est pas la succession des paroles et des gestes, c'est la foi immense que les initiés ont dans leur réalisation, foi anoblie par votre bénédiction. Vous êtes donc en mesure d'enseigner de nouveaux rituels de votre invention, qui réussiront tant qu'ils sont conformes au fonctionnement interne de l'univers, et que les initiés qui les réalisent ont assez de force psychique (potentiellement aidée par des potions). *NOTE hors-jeu : cette compétence ne peut être utilisée qu'une seule fois en tout durant le jeu ; voyez avec le maître de jeu si vous avez l'idée d'un nouveau rituel, afin qu'il valide et suive sa mise en place.*
 
-**Récompense** : Si un être humain a fait preuve de belles qualités, vous pouvez le récompenser en lui dévoilant un secret du lieu. Le voici : dans le domaine interdit des archives secrètes des Maupertuis, se trouve un petit puits en métal appelé "inutile". Il est en réalité fort utile, car si un humain descend dedans, avec le seau attaché, **5 grammes de diamants**, il reçoit la bénédiction des *leprechauns* . Il gagne alors une **triple longévité** : cela ne le rend pas plus résistant aux épidémies ou aux blessures, mais il vieillit trois fois moins vite que ses congénères. {% hint "longevity_metal_well" is needed %} {% hint "tiny_metal_scale" is needed %}
+**Récompense** : Si un être humain fait preuve de belles qualités, vous pouvez le récompenser en lui dévoilant un secret du lieu. Le voici : dans le domaine interdit des archives secrètes des Maupertuis, se trouve un petit puits en métal appelé "inutile". Il est en réalité fort utile, car si un humain descend dedans, avec le seau attaché, **5 grammes de diamants**, il reçoit la bénédiction des *leprechauns* . Cette personne gagne alors une **triple longévité** : cela ne la rend pas plus résistante aux épidémies ou aux blessures, mais elle vieillit trois fois moins vite que ses congénères. {% hint "longevity_metal_well" is needed %} {% hint "tiny_metal_scale" is needed %}
 
-**Salvation** : Si un être humain est mourant, deux dragons déchus peuvent ensemble, en mobilisant ce qu'il leur reste d'énergie draconique, le restaurer dans son âme et son corps. *NOTE hors-jeu : cette compétence ne peut être utilisée qu'une seule fois en tout durant le jeu ; improvisez le rituel avec des gestes et des chants.*
+**Salvation** : Si un être humain est mourant, tous les dragons déchus peuvent ensemble, en mobilisant ce qu'il leur reste d'énergie draconique, le restaurer dans son âme et son corps. *NOTE hors-jeu : cette compétence ne peut être utilisée qu'une seule fois en tout durant le jeu ; improvisez le rituel avec des gestes et des chants.*
 
 **Herboristerie** : Vous avez entendu parler d'une plante appelée "Holistix", qui se présente sous forme de clochettes pourpres aux arrêtes effilée et aux bouts pointus. Elle aurait la propriété d'étendre immensément la quiétude mentale d'un être, et pourrait grandement donc vous aider dans votre plan de "piège psychique à démons". {% hint "purple_bell_plant_in_vial" is needed %}
 
@@ -152,15 +152,17 @@ Votre arrivée en jeu
 
 *NOTES hors-jeu*
 
-Au début de la soirée, vous jouerez réellement des automates, comme si vous étiez figurants. Des habits très sobres et vieillots peuvent faire l'affaire, un peu de maquillage sur le visage sera bienvenu.
+Durant les briefings, présentez vous aux autres joueurs comme des "automates", mieux vaut qu'ils pensent que vous êtes simples figurants.
+
+Au début de la soirée, vous jouerez réellement des automates. Des habits très sobres et vieillots peuvent faire l'affaire, un peu de maquillage sur le visage sera bienvenu.
 
 Vous pouvez assister de loin à l'introduction du jeu, puis vous irez vaquer à des occupations d'automates dans la bibliothèque (faire la poussière, faire le service, saluer les visiteurs arrivant dans les lieux...), en gardant une démarche et une voix très mécaniques. Ne vous préoccupez pas des personnages déjà présents sur place, ni des fantômes.
 
-Lorsque vous rencontrez les diacres de {% symbol "Bahamoot" for "god_of_diakons" %} (qui portent une étole violette), on présume que les souris s'enfuient de leur besace, et vont chacune prendre le contrôle d'un automate, le dotant ainsi d'une personnalité quasi-humaine.
+Lorsque vous rencontrez les diacres de {% symbol "Bahamoot" for "god_of_diakons" %} (qui portent une étole violette), on présume que les souris s'enfuient de leur besace, et vont chacune prendre le contrôle d'un automate, le dotant ainsi d'une personnalité quasi humaine.
 
 Dès lors, vous faites partie du monde des vivants de Pangéa, donc vous devenez sensibles à tout ce qu'un humain craindrait (en particulier les fantômes errants), et vous êtes soumis aux règles du {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}. Vous gardez une attitude un peu mécanique, car votre corps est fait ainsi.
 
-La suite du jeu se déroule normalement pour vous, en tant que joueur ; à vous de prendre contact avec les différents joueurs et figurants du jeu, de voir comment les aider dans leurs quêtes, et comment obtenir leur secours pour la vôtre.
+La suite du jeu se déroule normalement pour vous, en tant que joueur ; à vous de prendre contact avec les différents joueurs et figurants du jeu, de voir comment les aider dans leurs quêtes, et comment obtenir leur aide pour la vôtre.
 
 C'est à vous de décider à quel moment vous auriez envie de révéler votre origine draconique aux diacres, voire à l'ensemble des personnes présentes - ou pas.
 
@@ -176,6 +178,6 @@ Un des rares visiteurs de ce sanctuaire, du temps de sa grandeur, l'a narré ain
 
     Mais ce qui vaut réellement le détour, c'est le "domaine interdit", protégé par un puissant Sceau magique.
     La Bête y a sa puante niche, et protège cet endroit où s'empilent les plus sombres grimoires de sorcellerie et de nécromancie.
-    Et des "corridors manaïques", des culs-de-sac probablement piégés, abritent certains bijoux légendaires de la famille.
+    Et des "corridors éthériques", des culs-de-sac probablement piégés, abritent certains bijoux légendaires de la famille.
 
     Tout n'y est pas glauque, cependant : certains membres de la famille y ont leur petit bureau de travail, et on y trouve aussi de jolis établis d'alchimie, de gemmologie et de divination. Mais la présence du Thanatologue, livre tabou entre tous, dans son coffre, suffit à jeter un voile lugubre sur toute cette zone.

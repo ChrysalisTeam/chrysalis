@@ -128,7 +128,7 @@
 -
   - "@JUNGLE Mini-jungle du druide"
   -
-    - "Crâne empoisonné de l'arkonte caché entre les pots{% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %} IMPORTANT"
+    - "Crâne empoisonné de l'arkonte bien caché entre les pots{% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, avec code d'analyse [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %} IMPORTANT"
     - "Lianes et feuilles géantes pour la mini-jungle"
     - "@EXTERNE-VALISETTE-CUIR Emballages bruns pour faire la 'terre' de la jungle"
     - "Gourde large peu haute en cuivre"
@@ -363,7 +363,7 @@
     - "Bande-son pour les lectures mystiques finales du druide {% hint 'mystic_soundtrack_for_druid_magic_books' is provided %}"
     - "Code de la mallette administrative noire ({% symbol '625-993' for 'family_briefcase_code' %}) si les joueurs le demandent aux défunts via l'Ankou"
     - "Code de la mère des Maupertuis pour le coffret légendaire des Maupertuis, si elle est correctement interrogée depuis l'au-delà : {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} {% hint 'defunct_isadora_code_for_thanatologue_chest_code' is provided %}"
-    - "Code du père Maupertuis au cas où pour dépanner les joueurs : {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %}"
+    - "Code du père Maupertuis pour ce coffret légendaire, au cas où il faut dépanner les joueurs : {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %}"
     - "Broche de Mérédice, trouvée par les joueurs si le bon éboulement derrière l'atelier d'alchimie est dynamité (envoûtement POSITIF) {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
     - "Lot de gemmes pour simuler la possible réussite du moulin magique des Maupertuis {% hint 'jewels_set_for_grinding_mill_success' is provided %}"
     - "Lot de gemmes dans un sac de voyage, à exhumer à l'explosif depuis des éboulis de l'étage interdit {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"

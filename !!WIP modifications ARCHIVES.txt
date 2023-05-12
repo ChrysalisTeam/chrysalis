@@ -4,49 +4,33 @@ TODO RESTANT MURDER PARTY
 ====================================
 
 
-Mettre en contact les gens de chaque grouoe pour qu'ils se synchronisent (ex. dress code)
-
-MULTI NPC
-- super cool
-- marquer que la bete descend de sa niche
-- avoir intermédiaire ou talkiewalkie/téléphone
-
 Faire fiches instructions LUMIERES à allumer ou pas!!!
   => LISTER ce qui doit etre allumé ou eteint à la mi-temps
 
-
-URGENT - nouvelle façon de désamorcer piège  !!  MAIN ELECTRIQUE DU CLIVRA
-
-FAIRE ETIQUETTES
-
-REIMPRIMER "Extrait de journal intime de Mérédice de Maupertuis" mise à jout
-
-RAJOUTER JEU AU WOODSMAN
-
-Rassembler coffre commun marron avec mallette noire   DONE
-
-Attention à ne pas décourager les initiatives par des dénégations/doutes en JEU (ex. fouille du cimetière) ++
-
-Donner indices de lecture des envoutements!!
-
-Fiches de mission pour chaque équipe à donner aux figurants
-
-Donner indications de plan de la bibliothèque à l'avance
 
 Simplifier
 - localisation potions
 - localisation cristaux epoxy
 - ouvertures magnétiques avec oeillets
 
-Beware, cable hdmi manquant  !!!  DONE
+PREPARATIFS
+    Placer sur les objets les étiquettes de livre, et le journal de mérédice mis à jour  !!!
+    Prendre la MAIN ELECTRIQUE DU CLIVRA
+
+
+
+
+
+
+
+
+
 
 - Enlever rubans blancs aux automates déchus quand opérationnels, leur dire d'être très maladroits
 - Donner intuition automate tueur à oracle
 - Nouvel objet : 3 ceintures larges cloutées en cuir noir
 
 AJOUTER PLUME SUR PYRAMIDE CASSANDRA et fontaine encens etc.
-
-L'oracle doit DECRIRE ses visions, uniquement
 
 Mettre crane arkonte sous tas de lianes seulement.
 
@@ -107,10 +91,12 @@ plumes, et en tringlerie avec diodes (3xAA incluses)
    - simple sur les tiroirs rouges de l'alchimie
    - complexe sur le coffret du thanatologue
 - PREPARER FUMEE A DOIGTS !! <<<<<<<<<<<<<<
-
-
-
-
+- Cable hdmi manquant à mettre dans inventaire
+- Nouvelle façon de désamorcer piège à écrire !!
+- marquer que la bete descend de sa niche dans l'escalier, pas que les joueurs montent la chercher
+- avoir talkiewalkie/téléphone pour figurant multiple ?
+- Fiches de mission pour chaque équipe à donner aux figurants
+- RAJOUTER DU JEU AU WOODSMAN ??
 
 
 
@@ -123,8 +109,8 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 
 
-******** TODO LATER *******************
 
+******** TODO LATER *******************
 
 - Marquer dans CRATES qu'il faut suivre cette fiche montage/démontage  Nope
 
@@ -186,9 +172,28 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
   ==> Comment le cacher s'il y a SCEAU de toute façon ? Donner pouvoir pour CA, faire apparaitre le sceau !
 
 
+
+
 TRASH
 ########################################
 
+
+
+Beware, cable hdmi manquant  !!!  DONE
+L'oracle doit DECRIRE ses visions, uniquement  DONE
+
+REIMPRIMER "Extrait de journal intime de Mérédice de Maupertuis" mise à jour  DONE
+Mettre en contact les gens de chaque groupe pour qu'ils se synchronisent (ex. dress code)  DONE
+FAIRE ETIQUETTES   DONE
+
+
+Rassembler coffre commun marron avec mallette noire     DONE
+
+Attention à ne pas décourager les initiatives par des dénégations/doutes en JEU (ex. fouille du cimetière) ++  DONE
+
+Donner indices de lecture des envoutements!!  DONE
+
+Donner indications de plan de la bibliothèque à l'avance   DONE
 
 CRAFTING RESTANT
 - IMPRIMER le PLANNING, plan des lieux, les crates, briefings, inventaire total, et les fiches montage/démontage  DONE
