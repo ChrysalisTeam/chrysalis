@@ -84,6 +84,8 @@ Questions à poser aux joueurs du groupe avant le jeu :
 - Explorateur anthropologue : les affichettes de nuages de lettres en couleur BLEUE sont indéchiffrables, faire semblant que ce sont des runes trop anciennes.
 - Diacre désenvoûteur : les petites pancartes à tête de mort sont des indices faibles, seule la signalétique symbolique est fiable
 - Diacres : vous avez possibilité d'enseigner un de vos rites à un autre initié, mais cela prend du temps et a moins de chances de réussir
+- Parcival oracle : Ne cherchez pas à interpréter les prophéties (images ou sons) que vous recevez, transmettez-lez fidèlement possibles à la plus large audience possible
+- Espion démineur : Changement du mode de déminage => main électrique
 
 
 BRIEFING FINAL DES JOUEURS+FIGURANTS
