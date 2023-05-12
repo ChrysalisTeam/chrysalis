@@ -9,7 +9,7 @@ Au long de votre périple initiatique avec vos condisciples, d'un temple à l'au
 {% endmacro %}
 <{ diakon_sheet_intro }/>
 
-Mais votre vocation s'est rapidement imposée à vous : désenvouteur, c'est-à-dire celui qui reconnaît les éléments sacrés ou ensorcelés, et supprime les envoûtements malfaisants (signes cabalistiques sur le sol, objets piégés…).
+Mais votre vocation s'est rapidement imposée à vous : désenvoûteur, c'est-à-dire celui qui reconnaît les éléments sacrés ou ensorcelés, et supprime les envoûtements malfaisants (signes cabalistiques sur le sol, objets piégés…).
 
 {# NOPE not yet - Un chemin qui vous a amené aussi à la guérison de certaines blessures spirituelles, tant elles sont proches dans leurs symptômes de certains envoûtements. #}
 
@@ -61,7 +61,7 @@ En cas de réussite, le maître de jeu retire/masque la pastille dorée de l'obj
 Envoûtement complexe
 -----------------------------
 
-Si l'envoûtement est de niveau "complexe", alors il faut être au moins **trois {% symbol "initiés" for "ritualist_kind_name" %}** pour réaliser le désenvoutement.
+Si l'envoûtement est de niveau "complexe", alors il faut être au moins **trois {% symbol "initiés" for "ritualist_kind_name" %}** pour réaliser le désenvoûtement.
 
 Il vous faut alors dans l'ordre :
 

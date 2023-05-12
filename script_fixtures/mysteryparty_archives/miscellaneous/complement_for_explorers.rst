@@ -17,3 +17,6 @@ Et trouver, potentiellement directement dans ces lieux chargés de secrets, un m
 
 
 <{ section_with_summary_of_player_abilities }/>
+
+
+<{ section_with_recognition_of_artefacts }/>

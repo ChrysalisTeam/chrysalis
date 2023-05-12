@@ -17,7 +17,7 @@ Votre détecteur de métaux (*fourni par les organisateurs*) vous alerte par des
 
 Si vous l'allumez près d'objets métalliques, sa sensibilité sera diminuée, ce qui peut être utile pour déceler des agrégats métalliques au milieu d'autres objets qui feraient sonner le détecteur (comme des étagères en métal).
 
-Étrangement, avez déjà vu ce détecteur sonner devant des *tableaux* ; un érudit vous a indiqué qu'il s'agissait probablement de peintures contenant des pygments de métaux précieux, et servant de support à de puissants "sortilèges prophétiques". Manifestement, celles que vous aviez croisées étaient déjà désenvoutées par un spécialiste, ou par le passage du temps ; car lorsque l'érudit les a couvertes de **"Lotion de Révélation"**, elles ont à peine réagi.
+Étrangement, avez déjà vu ce détecteur sonner devant des *tableaux* ; un érudit vous a indiqué qu'il s'agissait probablement de peintures contenant des pygments de métaux précieux, et servant de support à de puissants "sortilèges prophétiques". Manifestement, celles que vous aviez croisées étaient déjà désenvoûtées par un spécialiste, ou par le passage du temps ; car lorsque l'érudit les a couvertes de **"Lotion de Révélation"**, elles ont à peine réagi.
 {% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
 {% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
 
@@ -32,13 +32,3 @@ Vous disposez d'une petite feuille qui réagit aux champs magnétiques. Initiale
 *NOTE hors-jeu* : En posant ou en faisant coulisser la feuille de détection (fournie par les organisateurs) sur certaines surfaces, vous pourrez y voir des lignes de champ magnétique, révélant soit des inscriptions, soit plus subtilement la présence de systèmes d'ouverture magnétiques. Si les inscriptions sont un code à trois lettres, alors il vous faudra l'aide d'un scientifique-dévoileur pour comprendre leur signification. Des étiquettes avec un symbole "aimant magnétique" peuvent vous aider à trouver les objets pertinents.
 
 
-Sensibilité au surnaturel
-+++++++++++++++++++++++++++++++++++++
-
-A force de croiser des artefacts teintés d'auras mystérieuses, vous commencez à savoir reconnaître leur nature.
-Il vous faut cependant vous adresser à la bonne personne experte pour en savoir davantage sur les objets qui vous semblent étranges.
-
-*Explications hors-jeu* : Si vous croisez une **étoile dorée** sur un objet, cela signifie qu'il a probablement des propriétés magiques ; tandis qu'une **étoile argentée** indique simplement un objet intéressant d'un point de vue scientifique. Si vous voyez une **plume colorée**, cela peut indiquer une énergie liée aux dons de prophétie.
- {% fact "sticker_silver_star_means_physical_analysis" %}
- {% fact "sticker_gold_star_means_magical_analysis" %}
- {% fact "oracle_revelations_are_triggered_by_colored_feathers" %}

@@ -42,7 +42,7 @@ _asset_path = lambda x: os.path.join(DOCUMENTS_OUTPUT_DIR, x)
 
 
 CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
-    diakon_dispeller=dict(official_name="Le désenvouteur", email_attachments=[]),
+    diakon_dispeller=dict(official_name="Le désenvoûteur", email_attachments=[]),
     diakon_exorcist=dict(official_name="L'exorciste", email_attachments=[]),
     diakon_invoker=dict(official_name="L'invocateur", email_attachments=[]),
 

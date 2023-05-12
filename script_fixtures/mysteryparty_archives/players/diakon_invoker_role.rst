@@ -39,7 +39,7 @@ Les **sceaux magiques sont de lointaines variantes des pentacles** ; ils se pré
 
 Attention, même éteint, un sceau peut, lui, conserver une **aura bénéfique ou dangereuse** ; l'activer sert principalement à modifier son état ou lire les informations qu'il recèle.
 
-Notez que seule la personne ayant dessiné un pentacle ou un sceau peut facilement le **révoquer** ; pour des personnes externes, il s'agit d'une opération de désenvoutement longue et ardue, aux effets imprévisiblement dangereux.
+Notez que seule la personne ayant dessiné un pentacle ou un sceau peut facilement le **révoquer** ; pour des personnes externes, il s'agit d'une opération de désenvoûtement longue et ardue, aux effets imprévisiblement dangereux.
 
 Vous pouvez facilement **réactiver un sceau existant**, seul, en **l'encensant** (un tour suffit) puis en clamant l'invocation **"Ô sceau magique, réveille-toi et écoute ma voix"**. Le sceau devrait s'illuminer peu après, signe qu'il est désormais actif. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
 

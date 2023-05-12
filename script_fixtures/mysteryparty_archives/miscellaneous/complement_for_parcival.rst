@@ -15,3 +15,6 @@ Il est probable que cette préparation nécessitera des ingrédients méconnus ;
 
 
 <{ section_with_summary_of_player_abilities }/>
+
+
+<{ section_with_recognition_of_artefacts }/>
