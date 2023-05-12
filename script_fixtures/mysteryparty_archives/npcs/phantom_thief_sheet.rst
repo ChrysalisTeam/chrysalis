@@ -15,6 +15,8 @@ Votre profil
 Informations et instructions spécifiques
 ========================================
 
+Lorsque les joueurs arrivent dans l'étage interdit, vous êtes déjà en errance, dangereux. Lorsque vous vous incarnez, ça doit être à votre point d'ancrage. Allumez alors la bande-son "pirate" qui va avec votre rôle. Contrairement aux autres fantômes, vos passages en errance et en incarnation ne dépendent pas des sons de gong et cloche, car vous êtes bien plus souvent errant qu'eux - il faut donc voir cela avec le maître de jeu.
+
 Pour continuer à alimenter sans danger votre immense Trésor du {% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}, vous exigez que les paiements soient faits directement dans votre **{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}**, une sorte de tirelire magique qui téléporte les biens dans votre chateau familial ; cette tirelire, les joueurs doivent d'abord la retrouver pour vous. {% hint "thief_heavy_lost_moneybox" is needed %}
 
 Important : vous devez **vider** dans un sac hors-jeu (ou dans vos poches) cette pochette, chaque fois que vous allez repasser en spectre, pour que l'argent dépensé soit bien sorti du jeu.

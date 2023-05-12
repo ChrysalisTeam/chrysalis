@@ -3,38 +3,24 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
-
 Faire fiches instructions LUMIERES à allumer ou pas!!!
   => LISTER ce qui doit etre allumé ou eteint à la mi-temps
 
+A DIRE AUX DRAGONS : Si une personne de votre groupe est motivée, il y a une prophétie qu'elle pourrait mémoriser pour la délivrer durant le jeu.
 
-Simplifier
-- localisation potions
-- localisation cristaux epoxy
-- ouvertures magnétiques avec oeillets
+A changer : l'automate tueur PEUT bien être très blessé par une flechettes du gardien des bois !
+
+Trouver AUTRE endroit pour la clochette spectrale !!!
+
 
 PREPARATIFS
     Placer sur les objets les étiquettes de livre, et le journal de mérédice mis à jour  !!!
     Prendre la MAIN ELECTRIQUE DU CLIVRA
-
-
-
-
-
-
-
-
-
-
-- Enlever rubans blancs aux automates déchus quand opérationnels, leur dire d'être très maladroits
-- Donner intuition automate tueur à oracle
-- Nouvel objet : 3 ceintures larges cloutées en cuir noir
-
-AJOUTER PLUME SUR PYRAMIDE CASSANDRA et fontaine encens etc.
-
-Mettre crane arkonte sous tas de lianes seulement.
-
-
+    Mettre crane arkonte sous tas de lianes seulement.
+    AJOUTER PLUME SUR PYRAMIDE CASSANDRA et fontaine encens etc.
+    Simplifier ouvertures magnétiques avec oeillets  OUI!!!
+    Vérifier que tout objet maudit a bien un papier d'explication dedans (si pas de grillon)
+    Ajouter des scotches noirs sur livre port-tablette, sur clochette, sur tout ce qui pourrait être mal déplacé
 
 === URGENCES - INSTRUCTIONS SUPPLEMENTAIRES ===
 
@@ -49,12 +35,11 @@ DURANT MONTAGE
 DURANT BRIEFINGS
 - Dire à l'arkonte qu'il DESIGNE autoritairement le pentacle à la fin de la mélodie de boss battle
 - Prévenir les AUTOMATES qu'ils ne peuvent pas déplacer objets ULTRA LOURDS !!!
-- Prevenir les DIACRES des 2 souriceaux !!!
+- Donner RUBANS BLANCS aux automates !!  (duplicata)
 
 DURANT LE JEU
-- Donner intuition automate tueur à oracle
 - Prévenir, durant le jeu, les joueurs qu'il ne faut PAS tripoter la momie !
-- Enlever rubans blancs aux automates déchus quand opérationnels, leur dire d'être très maladroits
+- Enlever rubans blancs aux automates déchus quand opérationnels
 
 APRES LE JEU
 - Bien vérifier au rangement que les alarmes à grillons sont éteintes !!!
@@ -97,7 +82,10 @@ plumes, et en tringlerie avec diodes (3xAA incluses)
 - avoir talkiewalkie/téléphone pour figurant multiple ?
 - Fiches de mission pour chaque équipe à donner aux figurants
 - RAJOUTER DU JEU AU WOODSMAN ??
-
+- Donner intuition automate tueur à oracle  ??
+- Simplifier:
+    - localisation potions ? bof
+    - localisation cristaux epoxy ? box
 
 
 URLS IMPORTANTES

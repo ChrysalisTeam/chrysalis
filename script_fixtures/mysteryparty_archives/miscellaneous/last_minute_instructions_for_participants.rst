@@ -38,6 +38,7 @@ POUR LES FANTÔMES :
 - Déclencheurs : vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie spectrale, qui déclenche une bande son intense) ; vous repassez en incarné (potentiellement ANCRÉ) lorsque le GONG retentit. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 - IMPORTANT : au tout début du jeu, en revanche, quand les joueurs arrivent, vous serez déjà en phase d'errance !
 - Il nous faudra tester les AILES des fantômes qui serviront à l'épilogue, par exemple : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
+- VOLEUR : Lorsque les joueurs arrivent dans l'étage interdit, vous êtes déjà en errance, dangereux. Lorsque vous vous incarnez, ça doit être à votre point d'ancrage. Allumez alors la bande-son "pirate" qui va avec votre rôle. Contrairement aux autres fantômes, vos passages en errance et en incarnation ne dépendent pas des sons de gong et cloche, car vous êtes bien plus souvent errant qu'eux - il faut donc voir cela avec le maître de jeu.
 
 
 POUR LES AVATARS :
@@ -59,7 +60,7 @@ POUR LES AUTOMATES :
 - Vers la fin du jeu, après la résolution du mystère, vous aidez à rassembler les joueurs au bas des escaliers en attendant l'épilogue.
 - Après l'épilogue et le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails de téléportation vers la surface vont bientôt se refermer.
 - Prenez des photographies durant le jeu, si possible, SVP !
-
+- Automate de garde : tu es vulnérables aux FLECHETTES finalement
 
 .. raw:: pdf
 
@@ -85,8 +86,10 @@ Questions à poser aux joueurs du groupe avant le jeu :
 - Diacre désenvoûteur : Les petites pancartes à tête de mort sont des indices faibles, seule la signalétique symbolique est fiable
 - Diacre invocateur : Prévenez le maître de jeu quand vous voulez activer un sceau ou un pentacle
 - Diacres : Vous avez possibilité d'enseigner un de vos rites à un autre initié, mais cela prend du temps et a moins de chances de réussir
+- Diacres : Vous avez reçu en cadeaux quelques souris grises...
 - Parcival oracle : Ne cherchez pas à interpréter les prophéties (images ou sons) que vous recevez, transmettez-lez fidèlement possibles à la plus large audience possible
 - Espion démineur : Changement du mode de déminage => main électrique
+- Déchus : Enlever rubans blancs aux automates déchus quand opérationnels
 
 
 BRIEFING FINAL DES JOUEURS+FIGURANTS

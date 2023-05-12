@@ -3,11 +3,11 @@ PLANNING DETAILLÉ DU JEU
 
 *Planning théorique des évènements, à revalider au fur et à mesure avec le maître de jeu, suivant l'état d'avancement des joueurs dans les quêtes. Les prophéties ont leur propre planning, géré par la duchesse qui encadre le joueur Oracle.*
 
-H-45mn : Briefing général des **figurants** (voir fiche).
+H-45mn : Briefing général des **figurants** (voir fiche). Visite de la bibliothèque ensemble, si possible.
 
-H-30mn : Briefing de chaque **groupe de joueur**  (voir fiche), effectué respectivement par chaque figurant qui en a la charge. Le MJ passe pour distribuer les objets manquants et répondre aux questions.
+H-30mn : Briefing de chaque **groupe de joueur** (voir fiche), effectué respectivement par chaque figurant qui en a la charge. Le MJ passe pour distribuer les objets manquants et répondre aux questions. Les joueurs embraient ensuite sur un **tour de présentation** de chacun, à l'image du rêve commun qu'ils ont fait d'après leurs fiches de personnage.
 
-H-15mn : Vérifier que tous les **systèmes audio/vidéo** sont activés au moins dans l'étage autorisé (pour l'étage interdit, voire selon l'autonomie des batterie). Attention à bien allumer à chaque fois enceinte, lecteur MP3 sur la bonne piste, voire batterie externe le cas échéant. Régler les **volumes sonores** pour que les boites à murmure soient audibles, et que chaque ambiance n'empiète pas sur le reste de la salle. Les **bougies** déjà présentes doivent être aussi allumées au moins dans l'étage autorisé, en particulier dans le tombeau du mage. Laisser le **projecteur** en haut de l'escalier éteint, si présent.
+**-15mn : PREPARATION DES LIEUX - Vérifier que tous les systèmes audio/vidéo sont activés au moins dans l'étage autorisé (pour l'étage interdit, voir selon l'autonomie des batterie). Attention à bien allumer à chaque fois enceinte, lecteur MP3 sur la bonne piste, voire batterie externe le cas échéant. Régler au max les volumes sonores des boites à murmure pour qu'elles soient audibles. Pour les autres sources de son, régler les volumes pour que chaque ambiance n'empiète pas sur le reste de la salle. Les bougies déjà présentes doivent être aussi allumées au moins dans l'étage autorisé, en particulier dans le tombeau du mage. Laisser le projecteur en haut de l'escalier éteint, si présent. Les pentacles et sceaux lumineux (guirlandes LED tressées) doivent rester éteints. La bande son de la Bête (uue des 2 pistes audio à l'emplacement du voleur) doit être allumée, à volume maximum.**
 
 H-10mn : Les avatars doivent être prêts à se disperser dans la bibliothèque, et les fantômes à errer spectralement ; mais tous ces figurants peuvent écouter le discours introductif de loin ; certains automates peuvent déjà être dispersés dans les lieux, activés ou non.
 
@@ -35,7 +35,7 @@ H+30mn : Le druide doit discrètement voler la clochette spectrale de préféren
 
 H+35mn : [Musique] Discours de l'Ankou en haut des escaliers ; ALLUMER le projecteur pendant sa présence, et l'éteindre après.
 
-H+40mn : IMPORTANT - Aller vérifier toutes les ambiances sonores, lumières, et bougies (allumées car magiques) de l'étage interdit (SAUF la fontaine à encens).
+**H+40mn : PREPARATION DES LIEUX - Aller vérifier/allumer toutes les ambiances sonores de laboratoires/niche, spots/lumières, et bougies (allumées car magiques) de l'étage interdit. Laisser les sceaux lumineux, la fontaine d'encens, et la boule plasma éteints. Mais allumer le plateau de bois avec les cristaux géants. Éteindre l'enceinte du coin du voleur, il l'allumera lui-même en s'incarnant.**
 
 H+40mn : [Cloches] Les fantômes repassent en spectre pour 2-3 minutes, puis [Gong].
 
