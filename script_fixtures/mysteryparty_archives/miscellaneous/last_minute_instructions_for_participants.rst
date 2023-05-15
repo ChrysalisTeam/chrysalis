@@ -88,6 +88,8 @@ Questions à poser aux joueurs du groupe avant le jeu :
 - Diacres : Vous avez possibilité d'enseigner un de vos rites à un autre initié, mais cela prend du temps et a moins de chances de réussir
 - Diacres : Vous avez reçu en cadeaux quelques souris grises...
 - Parcival oracle : Ne cherchez pas à interpréter les prophéties (images ou sons) que vous recevez, transmettez-lez fidèlement possibles à la plus large audience possible
+- Parcival alchimiste : Vous pouvez prendre/stocker toutes les potions, mais communiquez car les diacres peuvent en avoir besoin !
+- Espions : N'accaparez pas les richesses (pièces, diamants...), c'est inutile et gâche le jeu
 - Espion démineur : Changement du mode de déminage => main électrique
 - Déchus : Enlever rubans blancs aux automates déchus quand opérationnels
 

@@ -85,7 +85,7 @@ Donner les **instructions complémentaires** ci-dessous à l'oral.
 
     Un **guetteur** sera laissé au sommet de la colline, pour surveiller les environs. Loyd Georges restera au camion avec l'opérateur télécom. Vous devrez effectuer un **point radio toutes les 20 minutes** pour indiquer votre situation.
 
-    **Deux fidèles serviteurs** de Loyd Georges (quintagénaires dévoués, mais pas peu autonomes), vous accompagneront dans la grotte, principalement pour remonter, **au fur et à mesure**, les trouvailles sur un brancard (grâce au **puissant treuil multi-filins** installé en haut du puits); ils sont aux ordres du majordome (qui peut **choisir leurs noms**).
+    **Deux fidèles serviteurs** de Loyd Georges (quinquagénaires dévoués, mais peu autonomes), vous accompagneront dans la grotte, principalement pour remonter, **au fur et à mesure**, les trouvailles sur un brancard (grâce au **puissant treuil multi-filins** installé en haut du puits); ils sont aux ordres du majordome (qui peut **choisir leurs noms**).
 
     Votre équipe est censée être **très communicante** ; donc à partir du moment où ils sont dans la même salle, sauf instructions contraires, les personnages savent ce que les uns et les autres découvrent *(cela permet de résoudre les énigmes à plusieurs, en évitant le méta-jeu et les situations de blocage absurdes)*.
 
@@ -185,7 +185,7 @@ Caverne aquifère
 - larges graffitis très anciens sur les diverses parois, malédictions assez typiques des akarites : **"Hérétiques, faites demi-tour avant que les Yods ne vous noient dans le feu"**, **"Souffrance et mort aux impies"**...
 - des **champignons rosés** poussent sur les buttes au nord-ouest ; ils ont muté par rapport à leurs homologues, blancs et comestibles, de la surface, et sont donc de **légers somnifères**.
 - au milieu des buttes se trouve un **vieux coffre en bois** ; il contient un **calice d'argent**, relié à un dispositif de mise à feu **(1 kilo de poudre noire)** ; possibilité de le désamorcer en éventrant le côté du coffre.
-- des **champignons aquatiques** poussent dans les crevasses du sud-ouest ; c'est une **espèce inconnue** (mais comestible)
+- des **champignons aquatiques bleus** poussent dans les crevasses du sud-ouest ; c'est une **espèce inconnue** (mais comestible)
 - le canal est en contrebas du reste de la caverne, bordé par **3m de pente forte** (mais escaladable) ; deux conduits y débouchent depuis l'est, sous la surface (il est possible d'y explorer, en plongée, le système de vannes décrit ci-dessous).
 - le canal est rempli de **Chlamydes, ou serpents-requins**, mais ceux-ci ont peur des lumières qui bougent ; amphibies, ils peuvent se glisser hors du canal pour chasser ; ils ont un nid (trous dans le rocher) au niveau de la face nord du canal.
 - le **pont est couvert de poix**, ; la moindre étincelle y déclenche **10 minutes** d'incendie et de fumée, bloquant l'accès, et alertant la contrée environnante ; une vieille mèche semi-enterrée part de la poix, et file en direction du nord-est.
@@ -243,7 +243,7 @@ Tunnel vers l'extérieur
 
 - [archéologue] en utilisant le sonar : il y a environ **3m de roche** qui bloquent
 
-- [majordome] sait alors que l'équivalent de **3 bâtons de dynamite** est nécessaire pour ouvrir le passage, sinon il faudra longuement finir à la pioche
+- [majordome] sait alors que l'équivalent de **2 bâtons de dynamite** est nécessaire pour ouvrir le passage, sinon il faudra longuement finir à la pioche
 
 
 
@@ -251,7 +251,7 @@ Caverne du temple yodique
 ---------------------------
 
 - cavité assez sèche, mais plus fraiche que la caverne aquifère
-- quelques racines d'arbres visibles au plafond  [TROUVER SYNONYME POUR PLAFOND]
+- quelques racines d'arbres visibles sur la voûte
 - bâtiment en bon état, colonnes solides, charpente épaisse, mais tuiles instables sur le toit, et fenêtres bouchées par du torchis
 - l'archéologue voit que c'est une architecture typique des temples d'une civilisation éteinte il y a mille ans
 - l'archéologue sait que le renfoncement à côté du temple est juste un ancien **socle pour des feux rituels**
