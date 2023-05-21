@@ -3,12 +3,46 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
+
+IMPRIMER liste des JOUEURS pour faire APPEL le jour J !!
+
+IMPRIMER "Compléments fiches memo et pancarte PNJ multiple.pdf" pour Maelibé
+
+REIMPRIMER codes secrets en jeu pour runologist  NOPE IZ OK
+
+
+INVENTAIRE DU 17 MAI, ce qui manque :
+
+    2 écharpes jaunes pour apprentis diacres  OK
+
+    Duchesse : ne peut soigner que si 3 diacres. Blessure psycho ?
+
+    Alchimie :
+        Gemme d'aventurine
+
+    Tombeau du mage
+        Collier d'aura manaïque (pendentif en quartz)
+
+    Coffre Maupertuis marron :
+        1 galets de lune
+
+    Annuler bougies de marquage ? Nope proposer pour marquer trucs dangereux plutôt
+
+    2/6 Tentures orange pétante manquent
+
+    Potion tentacule + chance sont dans le coffre corridor ?
+
+    Pour faire fonctionner stéthoscope : boucher trou DERRIERE (scotch ?)
+
+    Cordon jack + écriteau tombeau mage, à récupérer dans bureau de Flavien
+
+
 Faire fiches instructions LUMIERES à allumer ou pas!!!
   => LISTER ce qui doit etre allumé ou eteint à la mi-temps
 
-A DIRE AUX DRAGONS : Si une personne de votre groupe est motivée, il y a une prophétie qu'elle pourrait mémoriser pour la délivrer durant le jeu.
+A DIRE AUX DRAGONS : Si une personne de votre groupe est motivée, il y a une prophétie qu'elle pourrait mémoriser, pour la narrer durant le jeu.
 
-A changer : l'automate tueur PEUT bien être très blessé par une flechettes du gardien des bois !
+A changer : l'automate tueur PEUT bien être très blessé par une flechette du gardien des bois !
 
 Trouver AUTRE endroit pour la clochette spectrale !!!
 
@@ -22,6 +56,7 @@ PREPARATIFS
     Simplifier ouvertures magnétiques avec oeillets  OUI!!!
     Vérifier que tout objet maudit a bien un papier d'explication dedans (si pas de grillon)
     Ajouter des scotches noirs sur livre port-tablette, sur clochette, sur tout ce qui pourrait être mal déplacé
+
 
 === URGENCES - INSTRUCTIONS SUPPLEMENTAIRES ===
 
@@ -167,6 +202,15 @@ TRASH
 ########################################
 
 
+    2xCX2016   DONE
+
+Valisette enfant : (Vérifier MP3 bleu étanche)  DONE
+
+ASAP Envoyer à Flavien   DONE
+- pb de rembourrage enceinte laissé
+- 2 tentures manquantes + collier quartz
+- Plan des lieux JEUX
+- Liste des joueurs à JOUR
 
 Beware, cable hdmi manquant  !!!  DONE
 L'oracle doit DECRIRE ses visions, uniquement  DONE
