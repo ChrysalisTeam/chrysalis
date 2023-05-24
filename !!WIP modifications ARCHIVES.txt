@@ -3,82 +3,47 @@
 TODO RESTANT MURDER PARTY
 ====================================
 
-
-IMPRIMER liste des JOUEURS pour faire APPEL le jour J !!
-
-IMPRIMER "Compléments fiches memo et pancarte PNJ multiple.pdf" pour Maelibé
-
-REIMPRIMER codes secrets en jeu pour runologist  NOPE IZ OK
-
-
-INVENTAIRE DU 17 MAI, ce qui manque :
-
-    2 écharpes jaunes pour apprentis diacres  OK
-
-    Duchesse : ne peut soigner que si 3 diacres. Blessure psycho ?
-
-    Alchimie :
-        Gemme d'aventurine
-
-    Tombeau du mage
-        Collier d'aura manaïque (pendentif en quartz)
-
-    Coffre Maupertuis marron :
-        1 galets de lune
-
-    Annuler bougies de marquage ? Nope proposer pour marquer trucs dangereux plutôt
-
-    2/6 Tentures orange pétante manquent
-
-    Potion tentacule + chance sont dans le coffre corridor ?
-
-    Pour faire fonctionner stéthoscope : boucher trou DERRIERE (scotch ?)
-
-    Cordon jack + écriteau tombeau mage, à récupérer dans bureau de Flavien
-
-
-Faire fiches instructions LUMIERES à allumer ou pas!!!
-  => LISTER ce qui doit etre allumé ou eteint à la mi-temps
-
-A DIRE AUX DRAGONS : Si une personne de votre groupe est motivée, il y a une prophétie qu'elle pourrait mémoriser, pour la narrer durant le jeu.
-
-A changer : l'automate tueur PEUT bien être très blessé par une flechette du gardien des bois !
-
-Trouver AUTRE endroit pour la clochette spectrale !!!
-
-Dire à voleur : pas cloche ou gong pour toi
-
-PREPARATIFS
-    Placer sur les objets les étiquettes de livre, et le journal de mérédice mis à jour  !!!
-    Prendre la MAIN ELECTRIQUE DU CLIVRA
-    Mettre crane arkonte sous tas de lianes seulement.
-    AJOUTER PLUME SUR PYRAMIDE CASSANDRA et fontaine encens etc.
-    Simplifier ouvertures magnétiques avec oeillets  OUI!!!
-    Vérifier que tout objet maudit a bien un papier d'explication dedans (si pas de grillon)
-    Ajouter des scotches noirs sur livre port-tablette, sur clochette, sur tout ce qui pourrait être mal déplacé
-
-
 === URGENCES - INSTRUCTIONS SUPPLEMENTAIRES ===
 
-AVANT DEPART
-- ALLER CHERCHER Grand baton de la cave et papier craft supplémentaire : pour l'ankou et éboulis !!!
-
 DURANT MONTAGE
-- Demander code WIFI à la bibliothèque
 - Mettre faux signes danger supplémentaire, sur artefacts bénéfiques
-- Mettre du PARFUM sur certains livres ou tiroirs
+- Placer sur les objets les étiquettes de livre  !!!
+- Mettre du PARFUM sur certains livres ou tiroirs, et PAPILLONS dans livres neutres !
+- Trouver AUTRE endroit pour la clochette spectrale !!!
+- AMENER la MAIN ELECTRIQUE DU CLIVRA
+- Mettre crane arkonte sous tas de lianes seulement.
+- AJOUTER PLUME SUR PYRAMIDE CASSANDRA et fontaine encens etc.
+- Simplifier ouvertures magnétiques avec oeillets - OUI à vérifier
+- Vérifier que tout objet maudit a bien un papier d'explication dedans (si pas de grillon)
+- Ajouter scotchs noirs sur livre porte-tablette, sur clochette, sur tout ce qui pourrait être mal déplacé
+- Vérifier si choses oubliées dans sacoche sans fond du voleur ?
+- Potion tentacule + chance sont dans le coffre corridor ?
+- Pour faire fonctionner stéthoscope : boucher trou DERRIERE (scotch ?)
+
+- Manquent au 17 mai:
+
+    - Alchimie : Gemme d'aventurine
+    - Tombeau du mage : Collier d'aura manaïque (pendentif en quartz)
+    - Coffre Maupertuis marron : 1 galets de lune
+    - Richesse simple : collier-ruban doré aussi
+    - 2/6 Tentures orange pétante manquent
+    - Cordon jack + écriteau tombeau mage, à récupérer dans bureau de Flavien
 
 DURANT BRIEFINGS
-- Dire à l'arkonte qu'il DESIGNE autoritairement le pentacle à la fin de la mélodie de boss battle
 - Prévenir les AUTOMATES qu'ils ne peuvent pas déplacer objets ULTRA LOURDS !!!
 - Donner RUBANS BLANCS aux automates !!  (duplicata)
+- Duchesse et druide : changer fonctionnement des SOINS
+- Dire à l'arkonte qu'il DESIGNE autoritairement le pentacle à la fin de la mélodie de boss battle
+- 2 écharpes jaunes pour apprentis diacres  OK
 
 DURANT LE JEU
 - Prévenir, durant le jeu, les joueurs qu'il ne faut PAS tripoter la momie !
 - Enlever rubans blancs aux automates déchus quand opérationnels
+- L'automate tueur PEUT bien être très blessé par une fléchette du gardien des bois !
 
 APRES LE JEU
-- Bien vérifier au rangement que les alarmes à grillons sont éteintes !!!
+- Bien vérifier au rangement que les alarmes à grillons et livres-murmures sont éteints !!!
+
 
 
 DONE - OBJETS A DOUBLE-VERIFIER ET A REPORTER DANS CHECKLIST :
@@ -135,6 +100,13 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 
 
 ******** TODO LATER *******************
+
+
+IMPRIMER liste des JOUEURS pour faire APPEL le jour J !!   DONE
+
+IMPRIMER "Compléments fiches memo et pancarte PNJ multiple.pdf" pour Maelibé   DONE
+
+REIMPRIMER codes secrets en jeu pour runologist     DONE
 
 - Marquer dans CRATES qu'il faut suivre cette fiche montage/démontage  Nope
 
@@ -194,12 +166,23 @@ https://anthropia.prolifik.net/DEMO/anonymous/clues/
 - Prevenir les DIACRES des 2 souriceaux donnés par oracle de leur monasète (les déchus) !!!
 - "Les joueurs doivent comprendre qu’il s’agit d’un moulin à café simplement “caché à la vue de tous”, sur l’établi d’alchimiste de l’étage interdit."
   ==> Comment le cacher s'il y a SCEAU de toute façon ? Donner pouvoir pour CA, faire apparaitre le sceau !
-
-
+- A DIRE AUX DRAGONS : Si une personne de votre groupe est motivée, il y a une prophétie qu'elle pourrait mémoriser, pour la narrer durant le jeu.
+- Demander code WIFI à la bibliothèque (bof)
+- Dire à voleur : pas cloche ou gong pour toi
+- Duchesse : ne peut soigner que si 3 diacres???? Blessure psycho ?
+- Annuler bougies de marquage ? Nope proposer pour marquer trucs cools/dangereux plutôt
 
 
 TRASH
 ########################################
+
+
+AVANT DEPART
+- ALLER CHERCHER Grand baton de la cave et papier craft supplémentaire : pour l'ankou et éboulis !!!
+
+
+Faire fiches instructions LUMIERES à allumer ou pas!!!
+  => LISTER ce qui doit etre allumé ou eteint à la mi-temps  DONE
 
 
     2xCX2016   DONE
