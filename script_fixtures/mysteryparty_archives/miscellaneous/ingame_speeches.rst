@@ -47,6 +47,27 @@ OUVERTURE DU BUFFET (par l'avatar inventeur)
     Se pourrait-il que nos vœux centenaires aient enfin été exaucés ?
     Mon cœur voudrait tant y croire, mais mon esprit attend de voir...
 
+
+Version alternative en alexandrins (par Cyck du Clivra) :
+
+::
+
+    Mes très chers automates, préparez, faites briller !
+    Que poussent vos pistons et engrenages cette année
+    Ce buffet de plats et de vins nous est offert
+    Fêtons le plus solennel des anniversaires
+
+    Accourons, festoyons, dansons pour l'outre-monde
+    Ne restons pas plus longtemps auprès de ces tombes
+    Mes compagnons, j’aimerais qu’aujourd’hui prenne fin
+    Larme et désespoir face à un cruel destin
+
+    Eccueillons sans plus attendrE nos invités,
+    Que par leur grand talent nos vœux soit exaucés
+    Mon cœur voudrait y croire mais mon esprit attend
+    Que nos pauvres âmes soient libérées du tourment
+
+
 Après la musique :
 
 ::

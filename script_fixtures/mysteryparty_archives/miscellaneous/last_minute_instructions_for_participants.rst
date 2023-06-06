@@ -36,7 +36,7 @@ POUR LES FANTÔMES :
 
 - Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes en "phase incarnée".
 - Déclencheurs : vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie spectrale, qui déclenche une bande son intense) ; vous repassez en incarné (potentiellement ANCRÉ) lorsque le GONG retentit. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
-- IMPORTANT : au tout début du jeu, en revanche, quand les joueurs arrivent, vous serez déjà en phase d'errance !
+- **IMPORTANT CHANGEMENT** : au tout début du jeu, vous ne serez pas tout de suite là, et apparaitrez en phase d'errance !
 - Il nous faudra tester les AILES des fantômes qui serviront à l'épilogue, par exemple : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
 - VOLEUR : Lorsque les joueurs arrivent dans l'étage interdit, vous êtes déjà en errance, dangereux. Lorsque vous vous incarnez, ça doit être à votre point d'ancrage. Allumez alors la bande-son "pirate" qui va avec votre rôle. Contrairement aux autres fantômes, vos passages en errance et en incarnation ne dépendent pas des sons de gong et cloche, car vous êtes bien plus souvent errant qu'eux - il faut donc voir cela avec le maître de jeu.
 
@@ -48,12 +48,13 @@ POUR LES AVATARS :
 
     - La duchesse peut invoquer ses propres dieux, avec l’aide des initiés présents, pour réparer une blessure sacrée (touchant l’âme).
     - Le druide peut utiliser son sang bleu comme la mer, avec l’aide des esprits de la Nature, pour soigner tous types de maux biologiques.
-    - **PLAN ALTERNATIF** : druide et duchesse peuvent soigner soigner tous types de blessures (sauf membre arraché)
+    - **PLAN ALTERNATIF** : druide et duchesse peuvent soigner soigner TOUS types de blessures (sauf membre arraché)
     - L’inventeur peut bricoler une prothèse mécanique pour remplacer un membre perdu.
 
 
 POUR LES AUTOMATES :
 
+- Ils ne peuvent pas déplacer objets ULTRA LOURDS !!!
 - Donner leurs {% symbol 'rubans blancs' for 'automaton_symbolic_cloth' %} aux automates avant le jeu
 - Juste après le discours introductif du début de jeu, vous devrez **accompagner les groupes de joueurs** jusqu'à leurs points de départ (s'entendre lors du briefing sur qui fait quoi)
 - Lorsque le jeu commence vraiment, vous pouvez pour certains être INACTIFS, assis ou au sol, jusqu'à ce que l'inventeur vous allume
@@ -61,7 +62,7 @@ POUR LES AUTOMATES :
 - Vers la fin du jeu, après la résolution du mystère, vous aidez à rassembler les joueurs au bas des escaliers en attendant l'épilogue.
 - Après l'épilogue et le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails de téléportation vers la surface vont bientôt se refermer.
 - Prenez des photographies durant le jeu, si possible, SVP !
-- Automate de garde : tu es vulnérables aux FLECHETTES finalement
+- Automate de garde : tu es vulnérables aux FLECHETTES, finalement
 
 .. raw:: pdf
 

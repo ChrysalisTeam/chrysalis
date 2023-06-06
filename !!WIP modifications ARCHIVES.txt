@@ -5,6 +5,14 @@ TODO RESTANT MURDER PARTY
 
 === URGENCES - INSTRUCTIONS SUPPLEMENTAIRES ===
 
+
+A changer CAMP PARCIVAL
+- noter details comment obtenir prophetie cassandra dans planning prophetie
+- remanier fontaine encens pour qu'elle arrive plus facilement
+- alleger travail de l'alchimiste+oracle, rajouter boulot au woodsman à la place ?
+- simplifier bandes son pour orale, 2 seulement sur enceinet FORTE ?
+
+
 DURANT MONTAGE
 - Mettre faux signes danger supplémentaire, sur artefacts bénéfiques
 - Placer sur les objets les étiquettes de livre  !!!
