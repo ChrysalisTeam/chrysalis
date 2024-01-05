@@ -248,7 +248,6 @@
     - "Grande bouteille bleue 'Elixir de Sorcière'"
     - "2 tiroirs rouges protégés par VERROU MAGNÉTIQUE IMPORTANT"
     - "2 spatules en bois"
-    - "Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %} IMPORTANT"
     - "Potion de vapeur de Thorium dans un des tiroirs rouges {% hint 'potion_thorium_steam_on_alchemy_table' is provided %} IMPORTANT"
     - "Potion de vieillissement accéléré {% hint 'potion_accelerated_aging' is provided %} IMPORTANT"
     - "Potion de venin de Najah Royal {% hint 'potion_snake_venom' is provided %} IMPORTANT"
@@ -261,6 +260,7 @@
   -
     - "1 drap-nappe-rideau gris"
     - "Gemmes de Cristal de Roche{% hint 'gem_rock_crystal_on_gemmology_table' is provided %}, Chrysocolle {% hint 'gem_chrysocolle' is provided %} et Fluorite {% hint 'gem_fluorine' is provided %} IMPORTANT"
+    - "Gemme d'Aventurine dans mini-meuble {% hint 'aventurine_for_incense' is provided %} IMPORTANT"
     - "Gemme d'Oeil-de-tigre {% hint 'tigers_eye_for_incense' is provided %} IMPORTANT"
     - "Lampe à sel (alimentation USB normale)"
     - "3 faux-galets creux (avec pierreries dedans)"
