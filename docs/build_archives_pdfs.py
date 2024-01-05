@@ -14,8 +14,6 @@ from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_gam
     _extract_ingame_clues_text_from_odt, _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email
 from rpg_sheet_generator import display_and_check_story_tags
 
-IS_STANDALONE = True
-
 INITIAL_GAME_DATA_DUMP = os.path.join(os.path.dirname(__file__), "_initial_game_data_dump.yaml")
 
 DISABLE_DECORATIONS = False
@@ -451,7 +449,7 @@ def generate_archives_sheets():
 
     # -------------
 
-    if False:  # VERY LONG
+    if True:  # VERY LONG
         # export clues into a myriad of small PDFs
         _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
                                                     clues_parts=INGAME_CLUES_PARTS,
@@ -569,7 +567,7 @@ def generate_archives_sheets():
         print(">>>>>>>>>> PROBLEMS WITH SCRIPT COHERENCE, SEE OUTPUTS <<<<<<<<<<")
         sys.exit(1)
     else:
-        print("Script Over")
+        print("Script over, all is coherent")
 
 
 
