@@ -1,0 +1,20 @@
+
+
+{% macro faction_presentation(faction_name) %}
+
+Your faction is: {{ faction_name }}!
+
+{% endmacro %}
+
+
+
+{% macro display_scenario_errors(has_serious_errors, error_messages) %}
+
+{%if has_serious_errors %}**Some errors were detected**{% elif error_messages %}Some warnings were detected{% endif %}
+
+{% for error_message in error_messages %}
+- {{ error_message[0] }}: {{ error_message[1] }}
+{% endfor %}
+{%if error_messages %}[BR]{% endif %}
+
+{% endmacro %}

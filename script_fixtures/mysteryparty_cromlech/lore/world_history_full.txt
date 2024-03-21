@@ -1,0 +1,7 @@
+
+World History for {{ world_name }}
+####################################
+
+**This world is very old and very magic, below we explain it all!**  {% fact "World is old and magic" %}
+
+{{ lipsum(html=False) }}

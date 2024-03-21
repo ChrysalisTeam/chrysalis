@@ -1,0 +1,67 @@
+
+summary_generation:
+  "game_facts_template": "summaries/game_facts_summary.txt"
+  "game_facts_destination": "summaries/game_facts_summary"
+
+  "game_symbols_template": "summaries/game_symbols_summary.txt"
+  "game_symbols_destination": "summaries/game_symbols_summary"
+
+  "game_items_template": "summaries/game_items_summary.txt"
+  "game_items_destination": "summaries/game_items_summary"
+
+"inventory_generation":
+  "main_inventory":
+    "inventory_data": "inventories/game_inventory_data.yaml"
+
+    "inventory_per_section_template": "inventories/game_inventory_per_section.txt"
+    "inventory_per_section_destination": "inventories/main_inventory_per_section"
+
+    "inventory_per_crate_template": "inventories/game_inventory_per_crate.txt"
+    "inventory_per_crate_destination": "inventories/main_inventory_per_crate"
+
+"document_generation":
+  "game_paper_clues":
+    "document_source": "documents/clues_for_game.odt"
+    "document_splitting":
+      - ["recipes_of_potions", 2]
+      - ["useless_secret_messages", 1]
+
+"sheet_generation":
+
+  "variables":
+    "intro_message": "This is a default introduction message for all sheets !"
+    "game_story_date": "March 13th, 1905"
+
+  "sheets":
+    "world_history":
+      "variables":
+        "world_name": "Pangea"
+      "full_sheet": "lore/world_history_full.txt"
+      "cheat_sheet": "lore/world_history_summary.txt"
+
+  "groups":
+
+    "playable_characters":
+      "variables":
+        "intro_message": "This is an introduction message visible to all PLAYABLE character sheets !"
+      "sheets":
+        "hero":
+          "full_sheet":
+            - "characters/_common_character_introduction.txt"
+            - "characters/hero_sheet.txt"
+            - "characters/_common_character_conclusion.txt"
+        "enemy":
+          "full_sheet":
+            - "characters/_common_character_introduction.txt"
+            - "characters/enemy_sheet.txt"
+            - "characters/_common_character_conclusion.txt"
+
+    "non_playable_characters":
+      "variables":
+        "intro_message": "This is an introduction message visible to all NON-PLAYABLE character sheets !"
+      "sheets":
+        "goblin":
+          "full_sheet":
+            - "characters/_common_character_introduction.txt"
+            - "characters/goblin_sheet.txt"
+            - "characters/_common_character_conclusion.txt"

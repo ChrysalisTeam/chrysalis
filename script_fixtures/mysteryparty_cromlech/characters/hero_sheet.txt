@@ -1,0 +1,6 @@
+
+
+This is the character sheet for the Hero!
+
+The enemy has been defated by this hero in year {% symbol "1256" for "final_battle_year" %}.
+{% fact "Hero has defeated the enemy in the past" as author %}

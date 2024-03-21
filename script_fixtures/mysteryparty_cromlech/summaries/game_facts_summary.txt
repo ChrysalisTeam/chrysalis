@@ -1,0 +1,28 @@
+Facts and involved characters
+====================================
+
+{% macro display_fact_names(listing) %}{% for name, data in listing.items()|sort %}{% if not loop.first %}, {% endif %}{% if data["is_author"] %}**{% endif %}{{name}}{% if data["is_author"] %}**{% endif %}{% if data["in_cheat_sheet"] %}\*{% endif %}{% endfor %}{% endmacro %}
+
+<{ display_scenario_errors has_serious_errors=has_serious_errors error_messages=error_messages }/>
+
+{% if facts_registry %}
+
+*Characters who are author of a fact are marked in bold; if this fact is in their cheat sheet too, their name is followed by an asterisk.*
+
+.. list-table::
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Fact name
+     - Fact knower(s)
+
+{% for fact, knowers in facts_registry.items()|sort %}
+   * - {{ fact }}
+     - {{ display_fact_names(knowers) }}
+{% endfor %}
+
+{% else %}
+
+*No game facts have been found in scenario documents.*
+
+{% endif %}

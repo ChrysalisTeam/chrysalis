@@ -1,0 +1,26 @@
+Scenario items
+==================
+
+{% macro display_item_statuses(values) %}{% for value in values|sort %}{% if not loop.first %}, {% endif %}{{value}}{% endfor %}{% endmacro %}
+
+<{ display_scenario_errors has_serious_errors=has_serious_errors error_messages=error_messages }/>
+
+{% if items_registry %}
+
+.. list-table::
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Item name
+     - Item status
+
+{% for item_name, item_statuses in items_registry.items()|sort %}
+   * - {{ item_name }}
+     - {{ display_item_statuses(item_statuses) }}
+{% endfor %}
+
+{% else %}
+
+*No game items have been found in scenario documents.*
+
+{% endif %}
