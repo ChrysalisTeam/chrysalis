@@ -54,3 +54,6 @@ summary_generation:
         "reporter":
           "full_sheet":
             - "characters/reporter.rst"
+        "druid_phantom":
+          "full_sheet":
+            - "characters/druid_phantom.rst"
