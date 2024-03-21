@@ -6,10 +6,29 @@ import rpg_sheet_generator as rpg
 
 
 
+def analyze_and_normalize_game_items(game_items_raw, important_marker: str):
+    """Detect game items as normal or important, and buidl a data tree including this information"""
+    game_items = []
+    for pair in game_items_raw:
+        assert len(pair) == 2, pair
+        section, item_titles = pair
+        section_item_structs = []
+        section_is_important = (important_marker in section)
+        section = section.replace(important_marker, "")
+        for item_title in item_titles:
+            title_is_important = (important_marker in item_title)
+            item_title = item_title.replace(important_marker, "").strip()
+            section_item_struct = {
+                "item_is_important": section_is_important or title_is_important,
+                "item_label": item_title
+            }
+            section_item_structs.append(section_item_struct)
+        game_items.append((section, section_item_structs))
+    return game_items
 
 
 
-def page_breaker(jinja_context):
+def page_breaker(jinja_context):  # FIXME unused?
     return textwrap.dedent(
         """
         
@@ -20,7 +39,7 @@ def page_breaker(jinja_context):
         """)
 
 
-def spacer(jinja_context):
+def spacer(jinja_context):  # FIXME unused?
     return textwrap.dedent(
         """
         

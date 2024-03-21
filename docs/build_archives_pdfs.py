@@ -11,7 +11,8 @@ import textwrap
 from collections import OrderedDict
 
 from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_game_data_dump_is_present, \
-    _extract_ingame_clues_text_from_odt, _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email
+    _extract_ingame_clues_text_from_odt, _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email, \
+    analyze_and_normalize_game_items
 from rpg_sheet_generator import display_and_check_story_tags
 
 INITIAL_GAME_DATA_DUMP = os.path.join(os.path.dirname(__file__), "_initial_game_data_dump.yaml")
@@ -33,11 +34,9 @@ DOCUMENTS_OUTPUT_DIR = os.path.join(MAIN_OUTPUT_DIR, "documents")
 if not os.path.exists(DOCUMENTS_OUTPUT_DIR):
     os.mkdir(DOCUMENTS_OUTPUT_DIR)
 
-
 jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True)
 
 _asset_path = lambda x: os.path.join(DOCUMENTS_OUTPUT_DIR, x)
-
 
 CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     diakon_dispeller=dict(official_name="Le désenvoûteur", email_attachments=[]),
@@ -99,7 +98,6 @@ Amicalement,
 Les Organisateurs
 """
 
-
 AUTOMATA_INITIAL_EMAIl_TEMPLATE = """
 Bonjour,
 
@@ -118,7 +116,6 @@ Bonne lecture !
 Amicalement,
 Les Organisateurs
 """
-
 
 player_names = set(CHARACTER_OVERRIDES.keys())
 npc_names = set(NPC_OVERRIDES.keys())
@@ -201,7 +198,8 @@ ISOLATED_DOCS = {
     "planning_of_prophecies": ("miscellaneous/planning_of_prophecies.rst", "anyone"),
     "ingame_speeches": ("miscellaneous/ingame_speeches.rst", "anyone"),
     "enigma_solutions": ("miscellaneous/enigma_solutions.rst", "anyone"),
-    "last_minute_instructions_for_participants": ("miscellaneous/last_minute_instructions_for_participants.rst", "anyone"),
+    "last_minute_instructions_for_participants": (
+    "miscellaneous/last_minute_instructions_for_participants.rst", "anyone"),
     "complement_for_diakons": ("miscellaneous/complement_for_diakons.rst", "anyone"),
     "complement_for_explorers": ("miscellaneous/complement_for_explorers.rst", "anyone"),
     "complement_for_parcival": ("miscellaneous/complement_for_parcival.rst", "anyone"),
@@ -218,9 +216,9 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
 
     # define here specific RST structures, like custom roles
     full_data = textwrap.dedent("""
-    
+
     .. CUSTOM ROLES HERE
-    
+
     """)
 
     if title:
@@ -234,12 +232,12 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
 
 
     .. raw:: pdf
-   
+
        PageBreak standardPage
-       
+
     .. XXX contents:: Table des Matières
     ..    :depth: %s
-       
+
     """) % (title, toc_depth)
 
     for part in parts:
@@ -260,11 +258,11 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
     if with_decorations:
         full_data += textwrap.dedent("""
             .. raw:: pdf
-            
+
                PageBreak
-               
+
                Spacer 0 80
-               
+
             .. image:: ../assets/some_image.png
                 :align: center
                 :width: 80%
@@ -275,12 +273,11 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
 
 
 def build_archives_pdf(parts, filename_base, title,
-                        with_decorations=True,
-                        add_page_breaks=False,
-                        jinja_context=None,
-                        skip_pdf_output=False,
-                        toc_depth=1):
-
+                       with_decorations=True,
+                       add_page_breaks=False,
+                       jinja_context=None,
+                       skip_pdf_output=False,
+                       toc_depth=1):
     with_decorations = with_decorations and not DISABLE_DECORATIONS
 
     big_font = filename_base.endswith("_big")
@@ -288,7 +285,7 @@ def build_archives_pdf(parts, filename_base, title,
         # Ignore with_decoration!
         extra_args = BIG_FONT_EXTRA_PARAMS
     else:
-        extra_args = extra_args=DECORATIONS_EXTRA_ARGS if with_decorations else STANDARD_EXTRA_ARGS
+        extra_args = extra_args = DECORATIONS_EXTRA_ARGS if with_decorations else STANDARD_EXTRA_ARGS
 
     return build_mysteryparty_pdf(
         parts=parts,
@@ -306,8 +303,6 @@ def build_archives_pdf(parts, filename_base, title,
     )
 
 
-
-
 def generate_archives_sheets():
     _ensure_intial_game_data_dump_is_present(INITIAL_GAME_DATA_DUMP)  # IMPORTANT
 
@@ -319,26 +314,11 @@ def generate_archives_sheets():
     murder_party_items_raw = rpg.load_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"))
 
     important_marker = " IMPORTANT"
-    murder_party_items = []
-    for pair in murder_party_items_raw:
-        assert len(pair) == 2, pair
-        section, item_titles = pair
-        section_item_structs = []
-        section_is_important = (important_marker in section)
-        section = section.replace(important_marker, "")
-        for item_title in item_titles:
-            title_is_important = (important_marker in item_title)
-            item_title = item_title.replace(important_marker, "").strip()
-            section_item_struct = {
-                "item_is_important": section_is_important or title_is_important,
-                "item_label": item_title
-            }
-            section_item_structs.append(section_item_struct)
-        murder_party_items.append((section, section_item_structs))
+    murder_party_items = analyze_and_normalize_game_items(murder_party_items_raw, important_marker=important_marker)
 
     all_data["murder_party_items"] = murder_party_items
 
-    #pprint(murder_party_items)
+    # pprint(murder_party_items)
 
     # Sort items between crates dependong on @CRATE start markers
     murder_party_items_per_crate = OrderedDict()
@@ -347,7 +327,7 @@ def generate_archives_sheets():
         crate = None
         new_title = _title
         assert new_title, repr(new_title)
-        #print(">>>>> SEARCHING CRATE IN TITLE", _title)
+        # print(">>>>> SEARCHING CRATE IN TITLE", _title)
         match = re.search(r"^@\S+\s", _title)
         if match:
             crate = match.group(0)
@@ -367,9 +347,9 @@ def generate_archives_sheets():
         for item_details in item_details_list:
             item_label = item_details["item_label"]
             item_is_important = item_details["item_is_important"]
-            #if item_details["item_is_important"]:
-                #print(repr(item_label))
-                #item_label = "*%s*" % item_label
+            # if item_details["item_is_important"]:
+            # print(repr(item_label))
+            # item_label = "*%s*" % item_label
             item_crate, item_label = _extract_crate(item_label)
             item_crate = item_crate or default_create
             assert item_crate, repr(item_crate)
@@ -381,7 +361,7 @@ def generate_archives_sheets():
     murder_party_items_per_crate = OrderedDict(sorted(murder_party_items_per_crate.items()))
     print(">>>> COUNT OF GAME ASSET ITEMS SEEN:", total_item_entry_count)
 
-    #pprint(murder_party_items_per_crate)
+    # pprint(murder_party_items_per_crate)
     all_data["murder_party_items_per_crate"] = murder_party_items_per_crate.items()
 
     # BEWARE - sensitive data specific to a murder party game
@@ -391,7 +371,7 @@ def generate_archives_sheets():
     all_data.update(data)
 
     all_data["player_names"] = player_names
-    #print("-------->", player_names)
+    # print("-------->", player_names)
 
     master_login = all_data["global_parameters"]["master_login"]
 
@@ -405,7 +385,6 @@ def generate_archives_sheets():
         all_data["character_properties"][k].update(v)  # We override official names mainly
         all_data["character_properties"][k].update(local_npc_overrides[k])  # Override real names and emails
 
-
     # for standalone docs
     isolated_data = all_data.copy()
     isolated_data["current_player_id"] = None
@@ -415,24 +394,28 @@ def generate_archives_sheets():
     if False:  # BEWARE DANGEROUS EMAIL SENDING
 
         default_player_attachments = [
-                                         os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
-                                         os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_sheet_full.pdf"),
-                                     ]
+            os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
+            os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_sheet_full.pdf"),
+        ]
         default_npc_attachments = [
-                                         os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
-                                         os.path.join(MAIN_OUTPUT_DIR, "common_npc_information.pdf"),
-                                         os.path.join(MAIN_OUTPUT_DIR, "npc_%(player)s_sheet.pdf"),
-                                     ]
+            os.path.join(MAIN_OUTPUT_DIR, "common_lore_and_game_rules.pdf"),
+            os.path.join(MAIN_OUTPUT_DIR, "common_npc_information.pdf"),
+            os.path.join(MAIN_OUTPUT_DIR, "npc_%(player)s_sheet.pdf"),
+        ]
+
         def _send_everything(dry_run):
 
             ###### SECOND SESSION : npc_names = ["phantom_arkon", "phantom_archivist", "phantom_octave", "avatar_inventor"]
 
             forced_recipient_email = "chambon.pascal@gmail.com"
-            _send_character_sheets_via_email(all_data=all_data, player_names=player_names, forced_recipient_email=forced_recipient_email,
-                                          subject='Soirée Mystère Archives - votre fiche de joueur pour %s',
-                                          email_template=PLAYER_INITIAL_EMAIL_TEMPLATE,
-                                          default_email_attachments=default_player_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
-            #_send_character_sheets_via_email(all_data=all_data, player_names=npc_names, forced_recipient_email=forced_recipient_email,
+            _send_character_sheets_via_email(all_data=all_data, player_names=player_names,
+                                             forced_recipient_email=forced_recipient_email,
+                                             subject='Soirée Mystère Archives - votre fiche de joueur pour %s',
+                                             email_template=PLAYER_INITIAL_EMAIL_TEMPLATE,
+                                             default_email_attachments=default_player_attachments,
+                                             allow_duplicate_emails=True,
+                                             dry_run=dry_run)  # ensure everything seems in place
+            # _send_character_sheets_via_email(all_data=all_data, player_names=npc_names, forced_recipient_email=forced_recipient_email,
             #                              subject='Soirée Mystère Archives - votre fiche de figurant pour %s',
             #                              email_template=PLAYER_INITIAL_EMAIL_TEMPLATE,
             #                              default_email_attachments=default_npc_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
@@ -462,23 +445,22 @@ def generate_archives_sheets():
         gm_data = all_data.copy()
         gm_data["current_player_id"] = master_login  # silent
         build_archives_pdf(GAMEMASTER_MANUAL_PARTS,
-                            filename_base="chrysalis_archives_gamemaster_manual", title=None,
-                            add_page_breaks=True, jinja_context=gm_data, toc_depth=2, with_decorations=False)
+                           filename_base="chrysalis_archives_gamemaster_manual", title=None,
+                           add_page_breaks=True, jinja_context=gm_data, toc_depth=2, with_decorations=False)
 
     # -------------
 
     # then the common DOCS for participants
     if True:
-
         isolated_data["current_player_id"] = "everyone"
         build_archives_pdf(COMMON_LORE_AND_RULES,
-                            filename_base="common_lore_and_game_rules", title="Univers et Règles du Jeu ",
-                            add_page_breaks=True, jinja_context=isolated_data)
+                           filename_base="common_lore_and_game_rules", title="Univers et Règles du Jeu ",
+                           add_page_breaks=True, jinja_context=isolated_data)
 
         isolated_data["current_player_id"] = "npcs"
         build_archives_pdf(COMMON_NPC_DOCS,
-                            filename_base="common_npc_information", title="Compléments des Figurants",
-                            add_page_breaks=True, jinja_context=isolated_data)
+                           filename_base="common_npc_information", title="Compléments des Figurants",
+                           add_page_breaks=True, jinja_context=isolated_data)
 
         isolated_data["current_player_id"] = None  # Restore this!
 
@@ -490,10 +472,10 @@ def generate_archives_sheets():
             doc, player_id = docs_and_player_id
             isolated_data["current_player_id"] = player_id
             build_archives_pdf([doc] if not isinstance(doc, (list, tuple)) else doc,
-                                filename_base=filename_base,
-                                title=None,
-                                with_decorations=False,
-                                jinja_context=isolated_data)
+                               filename_base=filename_base,
+                               title=None,
+                               with_decorations=False,
+                               jinja_context=isolated_data)
             isolated_data["current_player_id"] = None
 
     # -------------
@@ -501,7 +483,7 @@ def generate_archives_sheets():
     def _get_player_context(_player_name):
         player_data = all_data.copy()
         player_data["current_player_id"] = _player_name
-        #_character_properties = all_data["character_properties"][_player_name]
+        # _character_properties = all_data["character_properties"][_player_name]
         return player_data
 
     # then character full sheets
@@ -509,13 +491,13 @@ def generate_archives_sheets():
         for player in player_names:
             parts = [(part % dict(player_name=player) if not callable(part) else part)
                      for part in PLAYER_MANUAL_PARTS]
-            #print("COMPILING", player, parts)
+            # print("COMPILING", player, parts)
             character_displayed_name = (all_data["character_properties"][player].get("official_name", player)
                                         if player in all_data["character_properties"]
                                         else player)
             player_data = _get_player_context(player)
             build_archives_pdf(parts, filename_base="player_%s_sheet_full" % player,
-                                title="%s" % character_displayed_name, jinja_context=player_data)
+                               title="%s" % character_displayed_name, jinja_context=player_data)
 
     # then character cheat sheets - USELESS HERE????
     if False:
@@ -528,17 +510,17 @@ def generate_archives_sheets():
             player_data = _get_player_context(player)
             player_data["is_cheat_sheet"] = True
             build_archives_pdf(parts,
-                                filename_base="player_%s_cheat_sheet" % player,
-                                title=None,
-                                with_decorations=False,
-                                jinja_context=player_data)
+                               filename_base="player_%s_cheat_sheet" % player,
+                               title=None,
+                               with_decorations=False,
+                               jinja_context=player_data)
     # -------------
 
     # then resolve fact/hint tags from the ODT clues file
     if True:
         print("Extracting ingame clues text from ODT file")
         content = _extract_ingame_clues_text_from_odt(ALL_CLUES_DOCUMENT)
-        #print(content[:10000].encode('ascii', 'ignore'))
+        # print(content[:10000].encode('ascii', 'ignore'))
         assert "petite sœur des Parcival" in content  # comments are well included
 
         # no need for variables nor rendered output, we just fill fact-check registries
@@ -555,20 +537,18 @@ def generate_archives_sheets():
     if facts_summary:
         aggregated_facts_summary = [(fact, sorted(authors + viewers)) for (fact, authors, viewers) in facts_summary]
         build_archives_pdf(["gamemaster_facts_summary.rst"],
-                            filename_base="gamemaster_facts_summary",
-                            title=None,
-                            with_decorations=False,
-                            jinja_context=dict(aggregated_facts_summary=aggregated_facts_summary))
+                           filename_base="gamemaster_facts_summary",
+                           title=None,
+                           with_decorations=False,
+                           jinja_context=dict(aggregated_facts_summary=aggregated_facts_summary))
     else:
         print("!!! Aborting generation of gamemaster_facts_summary, since NO FACTS have been detected")
-
 
     if has_any_coherence_error:
         print(">>>>>>>>>> PROBLEMS WITH SCRIPT COHERENCE, SEE OUTPUTS <<<<<<<<<<")
         sys.exit(1)
     else:
         print("Script over, all is coherent")
-
 
 
 def test_generation():

@@ -11,7 +11,8 @@ from collections import OrderedDict
 from pprint import pprint
 
 from mysteryparty_common_utils import _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email, \
-    _extract_ingame_clues_text_from_odt, _ensure_intial_game_data_dump_is_present, build_mysteryparty_pdf, spacer
+    _extract_ingame_clues_text_from_odt, _ensure_intial_game_data_dump_is_present, build_mysteryparty_pdf, spacer, \
+    analyze_and_normalize_game_items
 from rpg_sheet_generator import display_and_check_story_tags
 
 IS_STANDALONE = True
@@ -348,7 +349,11 @@ def generate_mindstorm_sheets():
 
     all_data["available_anthropia_abilities"] = AVAILABLE_ANTHROPIA_ABILITIES
 
-    murder_party_items = rpg.load_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"))
+    murder_party_items_raw = rpg.load_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"))
+
+    important_marker = " IMPORTANT"
+    murder_party_items = analyze_and_normalize_game_items(murder_party_items_raw, important_marker=important_marker)
+
     all_data["murder_party_items"] = murder_party_items
 
     # BEWARE - sensitive data specific to a murder party game

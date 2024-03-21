@@ -10,13 +10,13 @@ Des occasions inespérées à un prix qui l'est tout autant...
 
     Spacer 0 20
 
-{% for section, item_titles in murder_party_items %}
+{% for section, section_item_structs in murder_party_items %}
 {% if section == "Ventes Privées d'Alphonse" %}
 
 .. container:: large-font
 
-    {% for item_title in item_titles %}
-    {{item_title|dangerous_render}}
+    {% for section_item_struct in section_item_structs %}
+    {{section_item_struct.item_label|dangerous_render}}
 
     .. raw:: pdf
 

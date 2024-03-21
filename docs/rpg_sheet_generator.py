@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 from __future__ import print_function, unicode_literals
 
+import logging
+
 import copy
 import functools
 import jinja2
@@ -336,7 +338,7 @@ def _display_and_check_story_facts(jinja_env, masked_user_names):
     from pprint import pprint
     assert isinstance(masked_user_names, (set, tuple, list)), repr(masked_user_names)
 
-    __masked_user_names = list(masked_user_names) + [StoryChecksExtension.DUMMY_GAMEMASTER_NAME]
+    __masked_user_names = list(masked_user_names) + [StoryChecksExtension.DUMMY_GAMEMASTER_NAME]  # FIXME UNUSED
 
     facts_registry_stripped = [(k, sorted(v)) for (k, v) in jinja_env.facts_registry.items()]
 
@@ -421,7 +423,7 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
     command = r'''python -m rst2pdf.createpdf "%(rst_file)s" -o "%(pdf_file)s" --config=%(conf_file)s --fit-background-mode=scale --first-page-on-right --smart-quotes=2 --break-side=any  -e dotted_toc --fit-literal-mode=shrink %(extra_args)s''' % vars
 
     #print("Current directory: %s" % os.getcwd())
-    print("Executing command: %s" % command)
+    logging.debug("Executing command: %s" % command)
 
     res = os.system(command)
 

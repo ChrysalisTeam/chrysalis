@@ -13,8 +13,6 @@ RST2PDF_CONF_FILE = "./rst2pdf.conf"
 EXTRA_ARGS_FOR_MASTER_SCRIPT = "--stylesheets=simple_tight"
 EXTRA_ARGS_FOR_PLAYER_SHEETS = "--stylesheets=simple_large,dark_background"
 
-PDFTK_EXE = r'''C:\Program Files (x86)\pdftk4all\pdftk.exe'''
-
 jinja_env = rpg.load_jinja_environment(TEMPLATES_ROOT, use_macro_tags=True)
 
 
