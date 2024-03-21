@@ -41,27 +41,10 @@ summary_generation:
 
   "groups":
 
-    "playable_characters":
-      "variables":
-        "intro_message": "This is an introduction message visible to all PLAYABLE character sheets !"
-      "sheets":
-        "hero":
-          "full_sheet":
-            - "characters/_common_character_introduction.txt"
-            - "characters/hero_sheet.txt"
-            - "characters/_common_character_conclusion.txt"
-        "enemy":
-          "full_sheet":
-            - "characters/_common_character_introduction.txt"
-            - "characters/enemy_sheet.txt"
-            - "characters/_common_character_conclusion.txt"
-
     "non_playable_characters":
       "variables":
         "intro_message": "This is an introduction message visible to all NON-PLAYABLE character sheets !"
       "sheets":
-        "goblin":
+        "conservateur_du_musee":
           "full_sheet":
-            - "characters/_common_character_introduction.txt"
-            - "characters/goblin_sheet.txt"
-            - "characters/_common_character_conclusion.txt"
+            - "characters/conservateur_du_musee.rst"
