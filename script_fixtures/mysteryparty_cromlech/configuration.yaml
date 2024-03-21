@@ -51,3 +51,6 @@ summary_generation:
         "guide_du_musee":
           "full_sheet":
             - "characters/guide_du_musee.rst"
+        "reporter":
+          "full_sheet":
+            - "characters/reporter.rst"
