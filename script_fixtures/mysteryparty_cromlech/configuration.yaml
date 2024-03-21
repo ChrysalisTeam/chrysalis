@@ -54,6 +54,13 @@ summary_generation:
         "reporter":
           "full_sheet":
             - "characters/reporter.rst"
-        "druid_phantom":
+        "spectre_du_druide":
           "full_sheet":
-            - "characters/druid_phantom.rst"
+            - "characters/spectre_du_druide.rst"
+
+    "ingame_clues":
+      "variables": {}
+      "sheets":
+        "rapports_de_police":
+          "full_sheet":
+            - "documents/rapports_de_police.rst"
