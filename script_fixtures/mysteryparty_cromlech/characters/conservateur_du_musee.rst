@@ -25,7 +25,7 @@ La réussite de ce projet est en grande partie due au guide-bibliothécaire que 
 Il persiste à vous appeler "Conservateur" devant les gens, mais vous clarifiez bien, si on vous questionne à ce sujet, que vous êtes juste "Gérant" sans aucun diplôme lié à l'Histoire – nul besoin d'avoir des ennuis juridiques avec cette corporation très élitiste.
 Cela ne vous empêche pas de rejeter avec condescendance les étudiant(e)s en Histoire qui feraient mine de "vous apprendre votre métier" - bien qu'ils aient, au fond, raison.
 
-Les affaires commençaient à magnifiquement se tasser. Vous procédiez chaque mois à des **ablutions rituelles** sur les artefacts, et à la récitation de quelques formules druidiques, afin de "panser les plaies" (dixit Olloudios) du passé ; en contrepartie, ce spectre ne vous apparaissait quasiment plus. Vous entamiez les démarches pour reprendre votre carrière d'avocat là où vous l'aviez interrompue, quand une nouvelle épine s'est plantée dans votre pied, il y a **{% symbol "trois mois" for "délai_arrivee_du_héros" %}** de cela. {% fact "le conservateur souhaiterait reprendre sa carrière d'avocat" %}
+Les affaires commençaient à magnifiquement se tasser. Vous procédiez chaque mois à des **ablutions rituelles** sur les artefacts, et à la récitation de quelques formules druidiques, afin de "panser les plaies" (dixit Olloudios) du passé ; en contrepartie, ce spectre ne vous apparaissait quasiment plus. Vous entamiez les démarches pour reprendre votre carrière d'avocat là où vous l'aviez interrompue, quand une nouvelle épine s'est plantée dans votre pied, il y a **{% symbol "trois mois" for "délai_arrivee_du_héros" %}** de cela. {% fact "le conservateur souhaiterait reprendre sa carrière d'avocat" as author %}
 
 **{% symbol "Andrea di Revel" for "nom_du_héros" %}, fils de l'ambassadeur d'Italie auprès de la France**. Un étudiant en Histoire qui n'a pas lâché prise face à vos sornettes, et s'est mis à fréquenter régulièrement la bibliothèque ; à tourner autour des artefacts, surtout le **Grimoire Celte** dont vous avez interdit la lecture. Le spectre vous a incité à vous méfier de lui ; et s'est alarmé encore davantage quand cet étudiant a "disparu de son domaine de perception", il y a quelques semaines ; mais que faire sans attirer davantage l'attention ? Vous avez donc fait profil bas.
 {% fact "le héros est devenu indétectable par le spectre il ya quelques semaines" %}
@@ -61,7 +61,7 @@ S'il n'y avait eu la tache de sang sombre au sol, dissimulée sous un fauteuil d
 
 Olloudios avait-il changé de plan ?
 Avait-il, en fait, le pouvoir de modifier la réalité ?
-Était-ce lui qui avait fait disparaître - vous l'avez noté avec surprise - le glaive de son fourreau ?
+Était-ce lui qui avait fait disparaître - vous l'avez noté avec surprise - le glaive de son fourreau ? {% fact "le glaive antique a disparu le jour j" %}
 
 Mais alors que l'espoir vous revenait, des gendarmes sont arrivés, avec une flopée d'enquêteurs privés.
 Manifestement, quelqu'un avait levé l'alerte à votre insu.
@@ -84,5 +84,12 @@ Au vu des récents événements, vous vous dites qu'il faudra peut-être en fair
 Ce que vous savez sur le Reporter
 ========================================
 
-Très peu de choses en vérité. **{% symbol "Ryan Parker" for "nom_du_reporter" %} est un étudiant anglais dans le domaine du journalisme**, arrivé depuis {% symbol "6 mois" for "délai_arrivée_du_reporter_au_cromlech" %}. Vous l'aviez vu quelques fois discuter intensément avec Andrea, lors de vos passages en journée. Mais la plupart du temps, leurs horaires de travail à la bibliothèque ne se chevauchaient pas.
+{% macro knowledge_of_cromlech_people_about_reporter() %}
 
+Très peu de choses en vérité. **{% symbol "Ryan Parker" for "nom_du_reporter" %} est un étudiant anglais dans le domaine du journalisme**, arrivé depuis **{% symbol "6 mois" for "délai_arrivée_du_reporter_au_cromlech" %}**. Il est bien élevé et studieux.
+
+Vous l'aviez vu quelques fois discuter intensément avec Andrea, en journée. Mais la plupart du temps, leurs horaires de travail à la bibliothèque ne se chevauchaient pas.
+
+{% endmacro %}
+
+<{ knowledge_of_cromlech_people_about_reporter }/>

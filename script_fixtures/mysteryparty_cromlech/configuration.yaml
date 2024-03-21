@@ -48,3 +48,6 @@ summary_generation:
         "conservateur_du_musee":
           "full_sheet":
             - "characters/conservateur_du_musee.rst"
+        "guide_du_musee":
+          "full_sheet":
+            - "characters/guide_du_musee.rst"
