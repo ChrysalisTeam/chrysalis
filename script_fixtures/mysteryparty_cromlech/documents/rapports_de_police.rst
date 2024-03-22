@@ -1,5 +1,7 @@
-Fiches d'Identité
-#########################
+Fiches d'Identité des Personnes Impliquées
+############################################
+
+[BR]
 
 Disparu : Andrea di Revel
 =============================
@@ -51,33 +53,47 @@ Suspect #3 : Ryan Parker
 
 [PAGEBREAK]
 
+
 Rapport d'enquête initial
+################################
 
 Aucune trace d'effraction sur les portes ou fenêtres du bâtiment.
+
 Toutes les portes sont contrôlées par la même clef.
+
 Aucune possibilité de passer par d’autres accès.
 
 Flaque de sang séché au sol dans la Salle des Antiquités.
+
 1 litre répandu environ.
+
 Perte de sang dangereuse mais non nécessairement létale.
 
 Un glaive antique a disparu.
+
 Aucune autre propriété du musée n'a été signalée comme manquante.
+
+[PAGEBREAK]
 
 
 Complément d'enquête #1
+################################
 
 La clef du Cromlech n’est en principe possédée que par le Conservateur et le Guide du musée.
 Mais son numéro de série est apparu dans une demande de duplication effectuée chez le cordonnier du centre-ville, il y a 32 jours. Une 3e clef doit donc être en circulation désormais.
 
 Un de nos indic’ a lâché une piste : un glaive très ancien a été laissé, le temps d’une nuit, à un faussaire de banlieue, afin qu’il en effectue une rapide analyse et datation. Cela s’est passé il y a 27 jours. Le demandeur avait une corpulence semblable à celle d'Andrea di Revel. Nous faisons pression pour obtenir une copie des résultats de cette étude nocturne.
+
 Camille du Guesclin a bien été vu ce matin vers 10h30 par les journalistes du Gramophone Lettré, en train de discuter avec le Bourgmestre, lors du cocktail suivant la cérémonie de remise des prix littéraires Maurice Genevoix. La cérémonie elle-même, débutée à 9h, a rapidement été marquée par un esclandre quand l'auteur Eloi de Frontignan, furieux d'avoir perdu le concours romanesque, a tenté d'arracher la gerbe de fleurs des mains de la lauréate Lilie Dupain. Mais la suite de l'évènement s'est déroulée sans encombre.
 
 Le sang épandu en salle des artefacts a été identifié comme étant de groupe sanguin A+.
 Il date de moins de 24h.
 
+[PAGEBREAK]
+
 
 Complément d'enquête #2
+################################
 
 Nous avons obtenu le rapport d'analyse du glaive, réalisé il y a un mois par un faussaire.
 Il atteste que cette pièce a été authentiquement forgée selon des techniques datant d'environ 2 millénaires, et propres aux légions romaines.
@@ -88,8 +104,11 @@ Les empreintes digitales d'Andrea di Revel ont été retrouvées sur la poignée
 
 Une "lettre d'adieux" d'Andrea avait été mise aux "objets trouvés" par Eden Schmitt, ce matin. Nous sommes en train de l'expertiser, et de tenter de déchiffrer le message codé qui est gribouillé sur son enveloppe.
 
+[PAGEBREAK]
+
 
 Complément d'enquête #3
+################################
 
 Du matériel liturgique très ancien a été trouvé caché dans le bureau de Camille du Guesclin : toge en lin avec quelques traces de sang (groupe : AB-), coupe à ablutions rituelles (encore humide), encensoir, branche de houx…
 
