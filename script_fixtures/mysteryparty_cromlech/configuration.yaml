@@ -64,3 +64,9 @@ summary_generation:
         "rapports_de_police":
           "full_sheet":
             - "documents/rapports_de_police.rst"
+        "derniere_bataille_des_gaulois":
+          "full_sheet":
+            - "documents/derniere_bataille_des_gaulois.rst"
+        "article_sur_le_cromlech_lyonnais":
+          "full_sheet":
+            - "documents/article_sur_le_cromlech_lyonnais.rst"
