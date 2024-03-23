@@ -1,5 +1,14 @@
 
-summary_generation:
+# Hierarchical settings, can be extended/overridden at various level
+"settings":
+  "rst2pdf_conf_file": "themes/rst2pdf.conf"
+  "rst2pdf_extra_args": "--stylesheets=layout_large_fonts"  # E.g. --stylesheets=with_cover_and_background
+
+# Hierarchical jinja2 variables, can be extended/overridden at various level
+"variables":
+  "game_title": "Le dernier vœu des druides"
+
+"summary_generation":
   "game_facts_template": "summaries/game_facts_summary.txt"
   "game_facts_destination": "summaries/game_facts_summary"
 
