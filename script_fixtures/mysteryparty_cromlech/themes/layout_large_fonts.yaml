@@ -1,0 +1,22 @@
+---
+embeddedFonts:
+- [OpenSans-Regular.ttf, OpenSans-Bold.ttf, OpenSans-Italic.ttf, OpenSans-BoldItalic.ttf]
+pageSetup: {firstTemplate: standardPage, margin-bottom: 1.4cm, margin-left: 1.8cm,
+  margin-right: 1.8cm, margin-top: 1.4cm}
+pageTemplates:
+  standardPage:
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showFooter: true
+    showHeader: false
+styles:
+  admonition: {backColor: transparent}
+  base: {fontName: opensans, fontSize: 10, leading: 13}
+  bullet-list: {spaceAfter: 4, spaceBefore: -3}
+  bullet-list-item: {firstLineIndent: 0, spaceAfter: 1, spaceBefore: 1}
+  gamemaster-hints: {fontName: opensans-italic, spaceBefore: 4}
+  heading1: {fontSize: 19, spaceBefore: 19}
+  heading2: {fontSize: 16, spaceBefore: 16}
+  subtitle: {alignment: right, fontSize: 17, textColor: black}
+  title: {alignment: right, fontSize: 20, textColor: black}
+  transient-clue: {textColor: black}

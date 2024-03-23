@@ -1,0 +1,21 @@
+---
+pageSetup: {firstTemplate: coverPage}
+pageTemplates:
+  coverPage:
+    background: ./themes/scroll_background_medium.jpg
+    frames:
+    - [36%, 38%, 33%, 30%]
+    showFooter: false
+    showHeader: false
+  standardPage:
+    background: ./themes/scroll_background_light.jpg
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showFooter: true
+    showHeader: false
+
+# To end cover page and switch to normal pages, use this tag in source files:
+#
+#  .. raw:: pdf
+#
+#     PageBreak standardPage

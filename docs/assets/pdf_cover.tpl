@@ -1,3 +1,5 @@
+.. UNUSED TEMPLATE!
+
 <?py if title: ?>
 
 .. class:: title
