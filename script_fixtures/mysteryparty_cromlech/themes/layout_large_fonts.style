@@ -1,0 +1,63 @@
+
+embeddedFonts : [ ["OpenSans-Regular.ttf","OpenSans-Bold.ttf","OpenSans-Italic.ttf","OpenSans-BoldItalic.ttf"] ]
+
+pageSetup:
+    firstTemplate: standardPage
+    margin-top: 1.4cm
+    margin-bottom: 1.4cm
+    margin-left: 1.8cm
+    margin-right: 1.8cm
+
+pageTemplates:
+
+    standardPage:
+        frames: []
+            [0cm, 0cm, 100%, 100%]
+        showHeader: false
+        showFooter: true
+
+styles:
+
+    base:
+        #kerning: true  BUGGY
+        #firstLineIndent: 10
+        fontSize: 10
+        leading: 13
+        fontName: "opensans"
+
+    title:
+        fontSize: 20
+        textColor: black
+        alignment: right
+
+    subtitle:
+        fontSize: 17
+        textColor: black
+        alignment: right
+
+    heading1:
+        fontSize: 19
+        spaceBefore: 19
+
+    heading2:
+        fontSize: 16
+        spaceBefore: 16
+
+    admonition:
+        backColor: transparent
+
+    bullet-list:
+        spaceBefore: -3
+        spaceAfter: 4
+
+    bullet-list-item:
+        firstLineIndent: 0
+        spaceBefore: 1
+        spaceAfter: 1
+
+    transient-clue:
+        textColor: black
+
+    gamemaster-hints:
+        spaceBefore: 4
+        fontName: "opensans-italic"
