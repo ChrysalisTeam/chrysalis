@@ -67,6 +67,18 @@ Il existe deux fins différentes, suivant que les joueurs prennent majoritaireme
 - Soit le héros terrasse la bête en gestation et revient dans le monde des vivants
 - Soit le Héros échoue et s'enfuit, des catastrophes naturelles (d'oigine démoniaque) se déversent alors sur Rome et le reste de l'Italie.
 
+**Important :**
+
+Il y a volontairement une certaine ambiguïté dans ce qui est le "bon" choix final pour les joueurs.
+Mais ils disposent de quelques indices pour les aider à trancher :
+
+**TODO A VERIFIER ?????**
+
+- Leur fiche de personnage indique que les phénomènes volcaniques anormaux en Italie ont commencé depuis longtemps
+- L'attitude du Héros laisse entendre qu'il se sentait réellement en danger
+- L'analyse des artefacts indique un lien avec Dis Pater, le dieu infernal des gaulois
+
+
 
 Descriptions des principaux figurants
 ===========================================
