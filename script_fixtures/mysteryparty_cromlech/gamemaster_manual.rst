@@ -121,7 +121,14 @@ Rapport d'enquête initial
 
 - Fiches d'identification des témoins de l'affaire
 - Premiers relevés faits sur les lieux (disparition du glaive, accès disponibles sur les lieux, présence possible de sang, lettre d'adieux du Héros dans la cachette commune avec le Reporter ??????)
-- Quoi d'autre ???
+- **Quoi d'autre ???**
+
+Le "trésor" du musée
+----------------------
+
+Cette étape est la même pour tous les groupes : lorsque c'est leur tour, au lieu d'interroger un des témoins, ils vont inspecter les artefacts antiques du Cromlech.
+
+Un expert en archéologie peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents.
 
 Premier entretien simultané
 ----------------------------------
@@ -174,7 +181,7 @@ Conservateur : coincé, il avoue tout, mais s'insurge sur le fait que les enjeux
 Intervention de l'inspecteur de police à la moitié de l'entretien :
 
 - Contre le Conservateur : **QUID ????**
-- Accuse le Guide d'avoir fait de faux diplômes ??
+- Accuse le Guide d'avoir fait de faux diplômes ?? De ne pas avoir remarqué absence du glaive ??
 
 Troisième et dernier complément d'enquête
 ------------------------------------------------
