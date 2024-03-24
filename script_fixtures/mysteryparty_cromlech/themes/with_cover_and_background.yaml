@@ -4,7 +4,7 @@ pageTemplates:
   coverPage:
     background: ./themes/scroll_background_medium.jpg
     frames:
-    - [36%, 38%, 33%, 30%]
+    - [10%, 40%, 80%, 50%]
     showFooter: false
     showHeader: false
   standardPage:

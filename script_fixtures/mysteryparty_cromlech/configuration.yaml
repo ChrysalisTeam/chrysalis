@@ -7,6 +7,7 @@
 # Hierarchical jinja2 variables, can be extended/overridden at various level
 "variables":
   "game_title": "Le dernier vœu des druides"
+  "game_subtitle": "Un jeu-mystère pour tout public"
 
 "summary_generation":
   "game_facts_template": "summaries/game_facts_summary.txt"
@@ -42,11 +43,13 @@
     "game_story_date": "March 13th, 1905"
 
   "sheets":
-    "world_history":
+    "gamemaster_manual":
       "variables":
         "world_name": "Pangea"
-      "full_sheet": "lore/world_history_full.txt"
-      "cheat_sheet": "lore/world_history_summary.txt"
+      "settings":
+        "rst2pdf_extra_args": "--stylesheets=layout_large_fonts,with_cover_and_background"
+      "full_sheet": "gamemaster_manual.rst"
+      #"cheat_sheet": "lore/world_history_summary.txt"
 
   "groups":
 

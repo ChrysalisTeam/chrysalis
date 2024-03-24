@@ -10,13 +10,17 @@ pageTemplates:
     showFooter: true
     showHeader: false
 styles:
-  admonition: {backColor: transparent}
-  base: {fontName: opensans, fontSize: 10, leading: 13}
+  base: {fontName: opensans, fontSize: 13, leading: 20}
+
+  title: {alignment: left, fontSize: 34, textColor: black}
+  subtitle: {alignment: left, fontSize: 25, textColor: black}
+
+  heading1: {fontSize: 22, spaceBefore: 19}
+  heading2: {fontSize: 18, spaceBefore: 16}
+
   bullet-list: {spaceAfter: 4, spaceBefore: -3}
   bullet-list-item: {firstLineIndent: 0, spaceAfter: 1, spaceBefore: 1}
+
   gamemaster-hints: {fontName: opensans-italic, spaceBefore: 4}
-  heading1: {fontSize: 19, spaceBefore: 19}
-  heading2: {fontSize: 16, spaceBefore: 16}
-  subtitle: {alignment: right, fontSize: 17, textColor: black}
-  title: {alignment: right, fontSize: 20, textColor: black}
-  transient-clue: {textColor: black}
+  transient-clue: { textColor: black }
+  admonition: { backColor: transparent }
