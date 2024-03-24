@@ -88,3 +88,6 @@
         "article_sur_le_cromlech_lyonnais":
           "full_sheet":
             - "documents/article_sur_le_cromlech_lyonnais.rst"
+        "description_des_artefacts_antiques":
+          "full_sheet":
+            - "documents/description_des_artefacts_antiques.rst"
