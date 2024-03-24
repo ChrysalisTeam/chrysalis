@@ -70,6 +70,12 @@
           "full_sheet":
             - "characters/spectre_du_druide.rst"
 
+    "playable_characters":
+      "sheets":
+        "detectives_du_paranormal":
+          "full_sheet":
+            - "characters/detectives_du_paranormal.rst"
+
     "ingame_clues":
       "variables": {}
       "sheets":

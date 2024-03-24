@@ -12,7 +12,7 @@ pageTemplates:
 styles:
   base: {fontName: opensans, fontSize: 13, leading: 20}
 
-  title: {alignment: left, fontSize: 34, textColor: black}
+  title: {alignment: left, fontSize: 30, textColor: black}
   subtitle: {alignment: left, fontSize: 25, textColor: black}
 
   heading1: {fontSize: 22, spaceBefore: 19}
