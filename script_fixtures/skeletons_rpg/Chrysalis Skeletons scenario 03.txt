@@ -1,0 +1,495 @@
+CARCASSES
+############
+
+
+Bataille
+===============
+
+Les personnages ont 100 points de vie chacun.
+Initiative par jet de Dé6 si besoin.
+Réactions à une attaque : esquiver, bloquer, contre-attaquer (dangereux)
+
+
+Les personnages
+=====================
+
+Les héros sont des **"carcasses"**, squelettes animés magiquement par un nécromancien.
+
+Ils portent un très **épais haume** gravé de runes, couvrant entièrement leur tête ; son enchantement leur permet de voir le monde (en nuances pastel), de sentir les odeurs, de toucher les objets, et d'entendre les sons presque normalement.
+
+Un **emplacement vide**, en forme de losange, est visible en haut du heaume.
+Si serti avec une gemme en losange dite **vibraphone**, les squelettes deviennent capables de parler normalement.
+
+Les squelettes se parlent entre eux par **quasi-télépathie longue distance** (vibrations de leur crâne), mais ne peuvent, par défaut, **PAS parler**.
+
+Les autres protagonistes du donjon les appellent **"l'avant-garde" ou "la fine équipe"**.
+
+**IMPORTANT** : initialement les personnages ne connaissent pas leurs "noms" !
+
+- ALPHA (ossements très cassés/ressoudés) 
+
+  - En réalité "Brunissende", lointaine nièce du roi (défunt) du pays de Listenland
+  - Manie très bien l'arc et la lance
+  - Baroudeuse : sait fabriquer des cordages à partir de vêtements, faire du feu en frottant des cailloux, recoudre une blessure...
+  - Sait crocheter des serrures
+  - De taille moyenne, a une ossature féminine (bassin élargi, etc.)
+
+- GAMMA (ossements moyennement abîmés)
+
+  - En réalité "le mage Childeric", nécromancien, devenu ami du mage Parcival (et quasi-oncle de SAPHIR)
+  - Avait mis en place les défenses du donjon
+  - Sait bien se battre avec un gantelet magique (initialement, sait faire uniquement un jet de flamme)
+  - Ressent les artefacts magiques ou envoûtés
+  - Plutôt grand et mince (ossements masculins)
+
+- OMEGA (ossements presque intacts)
+
+  - En réalité "le mage Parcival", médium, qui avait racheté ce donjon abandonné
+  - Père adoptif de SAPHIR
+  - Peut "voir et entendre très loin", en projetant son esprit
+  - Peut avoir des intuitions prophétiques
+  - Ne sait pas bien se battre, mais manie le bouclier et l'épée courte
+  - Il lui manque des dents (dont une à l'emplacement de son ex-dent en or)
+  - Plutôt petit et trapu (ossements masculins)
+
+
+.. raw:: pdf
+
+   PageBreak
+
+
+Les lieux
+==============
+
+L'action se passe dans un recoin du pays de **Listenland** (dont la capitale est **Listenbourg**), gouverné par la famille royale des **Listenirs**.
+
+La situation politique est confuse depuis la mort du dernier roi - le trône est vacant depuis plus d'un an, et les nobliaux intriguent pour le revendiquer.
+
+Le donjon est sur une petite presqu’île en hauteur, bordée par des falaises escarpées, sur un lac regorgeant de bêtes aquatiques très dangereuses.
+
+Des aventuriers s'y attaquent ponctuellement, dans des buts variés.
+
+
+La forêt bubonique
+---------------------
+
+- Une mince plage en bas de la falaise (difficilement accessible), où se trouve un **petit voilier** (appartenant au donjon)
+- Forêt dense et dangereuse, une seule piste, passant par un **nid de rats musqués** à 200m de la garnison
+- Des rats guetteurs surveillent la forêt et le donjon, ils communiquent de proche en proche par piaillements
+- Ils sonnent un **olifant** pour avertir le donjon des dangers (1, 2 ou 3 coups selon la gravité)
+- Ils vont chercher leur Marquis si les squelettes arrivent
+- Des rats vont se coller contre les tibias des squelettes pour transmettre leurs vibrations (s'ils n'ont pas de vibraphone)
+- **Rat Marquis** (a un **vibraphone** sur le font) : il dit envoyer quelques dizaines de rats sur chaque aventurier qui arrive, pour les "fatiguer", contre une partie du butin et de la viande du donjon ; la population de rats musqués est au beau fixe, certains hibernent pour limiter la consommation.
+- **PANCARTES** un peu partout, clamant **Ce château et son domaine sont des propriétés privées dûment enregistrées au greffe de Kilandar. Nous n'avons ni trésor, ni maléfices secrets, ni intention de conquérir le monde. Sur vos vies, passez votre chemin.**
+- Si les carcasses dépassent le nid des rats musqués, ils se désagrègent, car trop loin de leur "arbre de vie" ; en pire cas, les rats musqués les ramènent en pièces détachées au donjon.
+
+
+La garnison (à l'entrée de la presqu'île)
+-----------------------------------------------
+
+- Simple cour entourée par une enceinte, avec une caserne effondrée, et une tour de guet encore en état
+- Sur la table centrale, quelques armes de poing rouillées (haches, sabres et boucliers uniquement)
+- Dans les décombres : canons en métal un peu rouillés, sans leurs supports en bois ; bouteilles vides ; sacs de jute déchirés
+
+- Côté forêt : un **pont-levis** par-dessus un petit ravin, sans chaines (ne peut être remonté, mais peut être détruit)
+
+  - PANCARTE sur la lourde porte : **Dernier avertissement, vous ne trouverez ici que la défaite et la mort**
+  - OMEGA (mage Parcival) voit des reflets de lumière et des tentes vertes sur une **colline lointaine** (un campement d'observation de l'armée)
+
+- Côté presqu’île : un chemin escarpé menant au donjon, avec un précipice de chaque côté
+
+MAGE FOULQUES :
+
+- Jeune, malgré des favoris
+- Vêtu d'une robe de lin un peu sale, teinte en bleu
+- Beaucoup de poches à son ceinturon, et une besace au côté
+- Possède un long bâton de magicien, qui devient fugitivement incandescent par moments
+
+
+Montée de la presqu'île
+------------------------------
+
+- Rien de dangereux sur ce chemin, hormis son étroitesse
+- Montre des traces d'anciens pièges et barrières arrachés
+- Le mur d'enceinte du donjon est abîmé par endroit, mais semble encore solide
+- Une haute tour dépasse du milieu de l'enceinte
+- Il y a comme une maisonnette cylindrique posée sur le sommet de la tour, et entourée d'un petit chemin de ronde ; ses fenêtres sont fermées
+- **IMPORTANT** : une mince **fumée turquoise** s'élève d'une cheminée de la maisonnette
+
+
+Salle de garde
+--------------------------
+
+- **4 "abominations"**, imposants "monstres de Frankenstein" tout recousus et à peine habillés, se détendent dans cette salle.
+- Note : ce sont d'anciens assaillants du donjon, depuis ralliés à sa cause
+- Ils se font appeler **"garde rapprochée" ou "l'équipe de blocus"**
+- Initialement, un **lapereau, Loulou**, erre et attaque les pieds des chaises
+- Une grosse **chouette déplumée** regarde alentour
+- Autres objets : quelques tonnelets de mauvaise bière, un mobilier minimal, un établi de peinture
+- Caché : une grosse **trace de sang** en hauteur sur le mur, que tous se lamentent de ne pas avoir vu avant ("il ne faut pas que la princesse voie ce genre de choses")
+- Caché : une des tables est en réalité le **hachoir géant** de CONRAD recouvert d'une nappe, posé sur des tréteaux
+- Caché : des artefacts et armes de qualité pour tous sont dans une petite **cave sous un tapis** ; en les saisissant, les carcasses se souviennent de leurs compétences de combat
+
+CONRAD :
+
+- Le plus énorme de tous (3m de haut, 1m50 de large)
+- Ne peut pas entrer dans les autres bâtiments, ou monter à l'étage, car trop large
+- Initialement, joue de l'accordéon
+- À une **dague plantée** dans le côté et ne s'en rend pas compte (les autres en rient), il se plaint que çà peut rouiller et puruler
+- Sait dessiner au fusain, en couleur
+- Très amical et conciliant
+- Défend le bilan du "MAGE" (et non plus "apprenti") FOULQUES : nécromancie apprise en 6 mois seulement, dépeçoir mécanisé, pièges de la salle du trône, recettes de viande aux épices ; **"un véritable polymathe"**
+- Gueule "Loulou, touche pas à çà" violemment au milieu de confidences, faisant sursauter tout le monde
+
+EULALIE :
+
+- Corpulence importante (2m50 de haut, 1m de large)
+- Ne peut juste pas monter tout en haut de la tour (jusqu'à la maisonnette), car dernier escalier en colimaçon trop étroit
+- Initialement, aiguise des armes sur une meule
+- Est ronchonne, pince-sans-rire, mais pas méchante
+- À une certaine aptitude à déceler les auras magiques
+- A récupéré les squelettes complets de GAMMA et OMEGA dans l'ossuaire, pour remplacer respectivement **Brolok** (pulvérisé par un pyromancien) et **Karnine** (qui était fatiguée de rester en vie, et trop abîmée)
+- Se plaint que les carcasses sont mal entretenues par l'apprenti FOULQUES, d'où leurs **pertes de mémoire** préoccupantes
+- "Mais Conrad ton hachoir çà n'a aucun impact qu'il soit aiguisé ou non, c'est justement l'impact qui fait tout !"
+
+GAUBERT et HERBERT :
+
+- Corpulence quasi-humaine (2m de haut, 70cm de large)
+- Initialement, épluchent des patates sur la table-hachoir
+- Avaient l'habitude de **jouer aux dés** avec ALPHA (Brunissende), entre les attaques
+- Appellent les carcasses "chair à canon", ou autres jeux de mots, et leur offrent à boire de la bière (qui se disperse à terre)
+- Servent de gardes du corps à la "princesse" lors des escapades en extérieur
+- Rappellent que depuis que les pancartes ont été mises un peu partout, le nombre d'attaques d'aventuriers a plutôt **doublé**
+
+
+Salle du trône
+---------------------
+
+- Le corridor menant à la salle du trône est couvert de **vieilles tentures**, derrière lesquelles se trouve un piège fait de pieux acérés sur ressorts (le levier qui les commande est près du trône).
+- Si un test du piège est effectué, les abominations enlèvent d'abord les tentures pour les préserver, puis, après, passent du temps à réarmer le dispositif
+- La salle du trône en elle-même est assez sobre, à part un lourd **trône en bois, un grand miroir sur pied,** des manuels scolaires, et quelques jeux anciens
+- Un gros coffre contient le **butin récent**, à écouler (armes, armures, quelques bijoux et vêtements)
+
+SAPHIR (semi-atlante) :
+
+- Adolescente (14 ans ?) aux cheveux couleur de cendre et aux yeux verts, à la peau un peu brillante
+- Les carcasses reconnaissent intuitivement qu'elle est la "Perle de Sylvorann", et brûlent de la protéger
+- Initialement habillée de velours vert classieux
+- Fille (adoptive) du mage Parcival ; la garde rapprochée dit qu'elle a été trouvée dans un "couffin de soie, gardé par une meute de loups"
+- Était auparavant instruite par le mage Childeric
+- Initialement, révise sa géographie, via le **miroir magique**, avec le **Druide Galien**, un lointain ami de son père
+- Adore recueillir les animaux abandonnés, blessés, ou vieillissants de la forêt
+- Porte au cou un épais **collier d'argent avec un médaillon nacré en forme de coquille Saint-Jacques** au bout (les autres lui interdisent de l'enlever)
+- Impose aux autres de ne plus faire de mal aux espèces qu'elle a déjà recueillies (les forçant peu à peu vers le végétarisme, à leur grand dam)
+- Aimait se faire appeler "princesse" par la garde, mais plus maintenant
+- Se plaint que le mage Childeric parlait depuis longtemps de reprendre son errance initiatique, mais qu'il a quitté le donjon trop brutalement, sans même dire au revoir, et que çà la blesse ; il était comme un oncle pour elle ; il ne répond même pas à ses messages envoyés par la **"boîte messagère"** *(FOULQUES entend cela à un moment)*.
+- Si quelqu'un évoque auprès d'elle un **purinoir** (voir "le fond de l'affaire") : cela la choque, elle se referme durablement sur elle-même, meurtrie et terrifiée que son père ait pu divulguer leur secret
+
+
+Jardins et potager
+--------------------------------
+
+Quelques tas de rochers éboulés le long du mur extérieur.
+
+Deux **chiens-loups**, véritables molosses, rôdent librement ; ils reniflent avec intérêt les os de squelettes...
+
+Un **grand âne**, d'apparence solide, est attaché près de la salle de garde, avec une grande longe qui lui permet de bouger, mais pas d'atteindre le potager.
+
+Le potager est en période de semis. Il y a un petit enclos en planches de bois à côté, initialement vide (pour le lapin).
+
+Caché : deux petites pierres tombales au fond devant un arbrisseau, marquées **Brolok** et **Karnine**
+
+
+Laboratoire de nécromancie
+--------------------------------
+
+*Si FOULQUES y reste trop longtemps, les carcasses peuvent envoyer l'une d'elles pour l'attirer et l'occuper à l'extérieur.*
+
+Beaucoup d'inventions en cours, de livres entrouverts, d'outils dispersés, d'alambics fumants, dans ce laboratoire.
+
+Un lit et une petite commode sont les seuls mobiliers "normaux".
+
+L'ancien matériel (dont livres) du mage Childéric est repoussé dans des coffres au fond.
+
+Artefacts intéressants HORS des coffres:
+
+- **Arbre de vie** en gemmes noires de toutes tailles, avec 3 branches principales
+- **Manuel de nécromancie**, expliquant comment invoquer des abominations et des carcasses. Points importants : cette réanimation n'est possible que lors de morts violentes, pendant quelques jours maximum ; l'arbre de vie est la source du maintien en vie des carcasses, il a une portée limitée, et une "capacité" qui dépend de son nombre de branches principales ; il nécessite peu d'entretien, hormis quelques gouttes du sang du nécromancien à chaque lune ; les abominations, elles, peuvent rester en vie très longtemps, tant qu'elles se nourrissent ; tous ont un **contrat moral** : ne jamais chercher à nuire à leur créateur.
+
+Artefacts intéressants DANS les coffres:
+
+- **Grimoire des sortilèges élémentaires**, permettant à GAMMA (Childeric) de se souvenir de meilleurs sorts avec son gantelet : arc électrique, onde de choc, éclat de lumière...
+- **Boîte messagère** en ébène, contenant potentiellement un courrier de demande de nouvelles, envoyé par SAPHIR
+- En cherchant bien : **robe d'invocation et bijoux du mage Childéric**
+
+
+Dépècerie
+--------------------------------
+
+Ce bâtiment est fermé à clé. **Seul FOULQUES en a la clé.**
+
+Mauvaise odeur, légèrement putride, à proximité.
+
+**IMPORTANT** : cette odeur donne une **réminiscence incomplète** à OMEGA (mage Parcival) : une grande cuve semi-enterrée, des mouches, un bruit grinçant qui résonne, et une odeur effroyable... *(c'est un "purinoir")*
+
+Dedans : grande machinerie qui tourne lentement, mais bruyamment, en continu, grâce à une éolienne.
+
+Les cadavres des aventuriers y sont séparés entre les os qui terminent à l'ossuaire, la viande qui finit au glacier autoréfrigéré, et la peau qui est d'abord séchée avant d'être stockée pour servir de snacks aux chiens (mais il manque un revendeur pour écouler le surplus).
+
+
+Tour - Chambres
+------------------
+
+Devant les chambres, une petite **galerie de portraits** réalisés au fusain par CONRAD : le mage Childéric (grand et mince, long visage très fin), le mage Parcival (petit et trapu, a une **dent en or**), et plusieurs, évolutives, de SAPHIR.
+
+**Détail supplémentaire : TATOUAGE** de forme ronde qui apparait sur l'épaule de SAPHIR au début de l'adolescence, et qui bout de tatouage arrondi sur l'avant-bras du mage Parcival. Le mage Childéric est trop couvert pour voir s'il a des tatouages.
+
+Les chambres sont ouvertes, en train d'être aérées.
+
+Chambre du mage Parcival : mobilier simple, quelques vêtements, quelques journaux empilés, correspondance avec quelques amis distants, dessins d'enfant faits par SAPHIR. Dans la table de nuit : **notes sur l'éducation des semi-atlantes**, expliquant que ces enfants "révèlent" leur potentiel hérité en milieu d'adolescence, et que s'ils apprennent à contrôler leurs pouvoirs, tout se passe très bien.
+
+Chambre de SAPHIR : planche en bois bloquant le bas de la porte ; mobilier simple, quelques vêtements (EULALIE surgit avec lessive propre et engueule les carcasses s'ils fouillent les sous-vêtements), **manuel de clairvoyance** très abîmé (prêté par son père), graines de légumes et autres plantes, **boîte messagère** en ébène (avec potentiellement un faux message de nouvelles du mage Childéric) ; petit terrarium ouvert sous le lit (pour la mygale)
+
+Ce que dit le manuel de clairvoyance :
+
+- C'est un art magique très rare, qui ouvre les sens, permet de mieux percevoir son environnement, mais aussi de voyager en esprit, explorer des lieux lointains, et discuter avec d'autres clairvoyants
+- Des rituels, symboles, potions et **encens** sont nécessaires pour exploiter entièrement ce potentiel
+- Historiquement, les plus grands médiums ont tenu jusqu'à **3 jours** durant leur voyage médiumnique
+- Il est psychologiquement mauvais (pour lui) de tirer un médium de sa transe, mais il s'en remet toujours en quelques jours
+
+ 
+Tour - maisonnette
+-------------------
+
+Accessible uniquement par un mince escalier en colimaçon.
+
+Le long du créneau : un stock de poix et de roches, une baliste en cours de fabrication.
+
+Toutes les issues sont fermées. Des **protections magiques** empêchent d'ouvrir la porte, GAMMA (Childeric) peut les faire laborieusement sauter.
+
+C'est un laboratoire improvisé, plein de sceaux magiques, de grimoires, d'ustensiles et potions liés à la voyance.
+
+L'intérieur est rempli de fumée âcre, turquoise, qui vient d'un gros encensoir ; il a été rechargé récemment en cubes d'encens solide.
+
+
+Un énorme globe terrestre avec des reliefs, des annotations agrafées sur des petits papiers, et quelques épingles dorées. **Une île prometteuse est marquée par une de ces épingles dorées.**
+
+Un fauteuil vide fait face à ce globe terrestre. Aucune trace du mage Parcival.
+
+**IMPORTANT** : Sous le fauteuil, des vêtements de nourrisson, enfermés dans une **petite châsse couverte de runes**, donnent une **réminiscence complète** à OMEGA (mage Parcival) : une grande cuve semi-enterrée, des mouches, un bruit grinçant qui résonne, une odeur effroyable, et une boite en bois d'où s'échappent des pleurs d'enfant... *(c'est le purinoir dans lequel SAPHIR a été trouvée par l'apothicaire Parcival)*
+
+
+.. raw:: pdf
+
+   PageBreak
+
+
+Les évènements
+====================
+
+Jour 1
+----------
+
+Les carcasses se font "réveiller" en sursaut par FOULQUES, qui repart sur un âne vers le donjon. 
+Elles se font immédiatement massacrer par un groupe de chevaliers venus trop rapidement à cheval.
+
+Jour 2
+----------
+
+- FOULQUES réveille une à une les carcasses (amnésique), leur demande leur prénom en touchant leur casque pour les entendre (mais elles n'en savent rien), et leur en assigne un tiré de l'alphabet grec
+- Il leur crie de protéger la **Perle de Sylvorann", ce qui les électrise, puis il repart vers le donjon.
+- Un olifant résonne
+- Un rat musqué arrive, avec un parchemin : "1 épée à deux mains, un archer, et un diacre"
+- Ces 3 assaillants arrivent quelques minutes plus tard
+- Défaite quasiment inévitable des carcasses, surtout à cause du diacre
+
+Jour 3 - matin
+---------------------
+
+- FOULQUES réveille les carcasses bien à l'avance, il leur ordonne de garder le fort, et part chercher des ingrédients en forêt, armé de son **bâton de magicien**.
+
+- Les carcasses peuvent sans problème aller voir ce qui se passe du côté du village des rats musqués
+
+- S'ils tentent d'entrer dans le donjon, ils se font rabrouer par l'abomination EULALIE qui passe son gros oeil par le judas de la porte.
+
+- Un gobelin (annonçant être **"Winkle"**) arrive sur la plage via un petit bateau à vapeur, en toute discrétion, avec une grande cape grise sur les épaules
+
+- Interactions :
+
+  - Il remonte la falaise à travers des galeries souterraines
+  - Il appelle les carcasses avec un **sifflet** depuis la forêt, puis seulement si nécessaire va jusqu'à la garnison lui-même (à contrecoeur)
+  - À transmettre au donjon : un petit campement militaire et une tourelle d'observation ont été dressés sur une colline de l'autre côté de la forêt, donc le donjon est désormais espionné, il ne veut plus y être vu; il a laissé son **Zeppelin** bien loin, au port, pour ne pas éveiller de soupçons ; il suggère d'aller négocier avec ces militaires au cas où.
+  - Il délivre un chargement de 2 tonnelets de **poudre noire**, un bidon de poix liquide, un caisson de pièces métalliques biscornues, des lentilles de longue-vue (fragiles).
+  - À transmettre aux rats musqués : une **poche de graines multicéréales**
+  - Il redonne une **chevalière en or blanc** dans un écrin en verre, en indiquant qu'il n'a pas eu l'occasion de supprimer sa **malédiction** (donc ne pas la mettre au doigt) ; en effet, cette bague appartient à la lignée royale du pays, dont tout le monde recherche les lointains cousins, car le trône est vacant ; il dit qu'il a peut-être trop divulgué d'informations, par ivresse, dans le milieu de la pègre, et qu'il est possible que le donjon se retrouve ciblé à cause de cela. *La chevalière est en réalité à Brunissende, qui a une réminiscence si elle la touche directement ; si quelqu'un d'autre la met au doigt, cela lui paralyse le bras pour plusieurs jours*.
+  - Il donne un journal de "La voix du Listenland". Gros titres : "déjà plus de 400 jours sans roi ; encore des aventuriers disparus en forêt bubonique, qui abriterait une secte d'invocateurs des dieux obscurs ; séisme de faible ampleur à 30km de la capitale".
+  - Il demande à ce que "l'intendant" vienne le voir (c'est FOULQUES) ; celui-ci étant absent, il dit qu'on verra plus tard pour les paiements et les autres négoces, il a une journée chargée ; ils feront un **point par télémiroir** ; puis il s'en va.
+
+- Un olifant résonne
+- **IMPORTANT** : que font les squelettes du chargement de biens
+- Un rat musqué arrive, avec un parchemin : "deux archers, un barde, et un marchand"
+- Ces 3 assaillants arrivent quelques minutes plus tard
+
+  - Ils sont censés être vaincus par les carcasses (qui peuvent aussi se cacher, faire les mortes, etc...)
+  - Sinon, FOULQUES réveille les carcasses à son retour de cueillette, le même matin, et une micro-attaque a lieu, 3 nains ivres morts et hémophiles contre lesquels les carcasses ne peuvent pas perdre
+
+
+Jour 3 - après-midi
+---------------------
+
+Les carcasses sont censées explorer la salle de garde et le reste du donjon.
+
+Dans la salle de garde :
+
+- Accueil cordial par les abominations, *"çà faisait longtemps !"*
+- Questions sur le chargement de biens (si apporté)
+- GAUBERT et HERBERT invitent ALPHA (Brunissende) à jouer aux dés et trinquer
+- Voyant les squelettes muets, l'une des abominations va chercher dans la petite cave cachée les gemmes **vibraphones** de casque, qui leur permettent de parler ; cela dévoile au passage les **ARMES disponibles**, que les carcasses peuvent obtenir après négociation (explication : il y avait la crainte de se faire dérober des armes trop intéressantes sur les squelettes, par des aventuriers qui rebrousseraient chemin)
+- La garde rapprochée rappelle que le mage Parcival est en **voyage médiumnique** dans sa salle d'oracle, en haut de la tour, depuis bientôt **5 jours** ; c'est exceptionnel, et plutôt bon signe d'après eux ; la fumée turquoise qui s'en échappe est un encens, qui l'aide à rester concentré dans ses visions et ses dialogues distants avec d'autres initiés
+- CONRAD peut réaliser un nouveau briefing sur la **stratégie de défense** : avant-garde, garde rapprochée, pièges, puis "le tout pour le tout" : chiens, potions défensives de FOULQUES, poix brûlante et rochers dans l'escalier, en dernier recours SAPHIR peut se téléporter à quelques kilomètres, avec son père, via son **médaillon** (100kg téléportables au maximum)...
+
+Dans la salle du trône :
+
+- Saphir interrompt sa leçon scolaire en télémiroir, et les salue avec enthousiasme, sautant dans les bras de ALPHA (Brunissende)
+
+  - Les squelettes ont immédiatement un immense **instinct de protection** envers elle
+  - Elle était déjà passée à la garnison deux fois, mais ils étaient "endormis"
+  - Elle commence à leur raconter le bivouac dont elle revient, mais s'interrompt, car elle attendra que son père revienne pour tout raconter
+  - Elle demande à ALPHA (Brunissende) quand est-ce que celle-ci pourra lui raconter d'autres histoires de sa vie passée à la cour du roi, ou dans les steppes méridionales
+  - Elle demande aux autres squelettes qui ils sont, s'ils n'ont pas des anecdotes, ou des contes, issus de leur vie passée (réponse : NON)
+  - Elle est (optionnellement) ravie de récupérer le lapin Loulou, et demande s'il a été sage
+  - Elle va se changer en tenue de lin et de cuir, plus pratique
+  - En revenant, elle offre une **mygale domestiquée** à ALPHA (Brunissende), qui en effet adore cela
+  - Elle file ensuite au potager avec CONRAD (qui s'arme de son hachoir pour servir de bêche)
+  - Elle propose aux squelettes de venir jardiner aussi quand ils sont reposés
+
+- À un moment, FOULQUES revient de son laboratoire, fébrile, les bras chargés d'outils et pièces de métal, et l'esprit très occupé ; il parle de la **baliste inachevée** de la tour, une des pièces n'a toujours pas été livrée : des **cordages** très solides *(que Brunissende saurait créer)*
+- S'il voit les carcasses, il est surpris, et s'alarme quant à la garnison laissée vide ; les abominations le rassurent là-dessus, "ils ont toujours fait comme çà"
+- CONRAD, GAUBERT ou HERBERT revigore FOULQUES, en lui disant que tout le monde admire sa polyvalence et son efficacité, et qu'il ne doit pas se sentir dépassé même s'il met ses pas dans celui d'un géant, le mage Childéric ; FOULQUES remercie, mais reste anxieux.
+- GAUBERT et HERBERT demandent à parler à FOULQUES au sujet de la **"Révélation de SAPHIR"** ; ils s'isolent dans le laboratoire de nécromancie, pour que la jeune fille n'entende pas ; ils disent que SAPHIR a montré des signes avant-coureurs au niveau des yeux, mais malgré les émotions et dangers de cette excursion, elle n'a pas encre révélé son potentiel, qui sera cependant très probablement **athlétique**. 
+
+- Dans le potager, SAPHIR et CONRAD discutent en travaillant la terre
+
+  - SAPHIR propose des herbes aromatiques pour protéger le potager des vermines ; puis évoque les attaques incessantes
+  - CONRAD admet que les attaques ne font qu'empirer, et qu'il leur faudra peut-être partir ; le mage Parcival avait justement parlé d'une sérieuse piste de repli, sur une île très loin ; sans doute est-il justement en train de préparer cette possibilité ?
+  - SAPHIR se demande si cela a du sens, dans ce cas, de travailler la terre ainsi... et dit qu'elle veut que tout reste pareil
+  - CONRAD la rassure : ils sont une tribu, presque une famille désormais, donc tous (abominations et carcasses comprises) seraient du voyage ; et dans le doute, cela vaut le coup de miser sur un beau potager !
+  - SAPHIR est un peu maussade que "tout cela soit à cause d'elle" ; CONRAD lui assène que les aventuriers ont été maintes fois prévenus ; et que son père a fait ses choix en toute conscience, et jamais il n'a semblé les regretter !
+  - SAPHIR réalise qu'elle n'a pas pris les **graines à planter**, et demande à une carcasse de les lui rapporter depuis sa chambre !
+  - Les chiens-loups font les foufous, alors tous partent dans un "jam" musical à l'accordéon et aux bâtons de bois frappés
+  - Optionnellement, une des abominations attrape un squelette pour jouer du Xylophone dessus
+  - EULALIE ironise sur la "vie presque normale" que le mage Parcival voulait donner à sa fille - et voici le résultat !
+
+- À un moment, le mage FOULQUES passe et fait un **rituel impressionnant** pour remettre un muret d'aplomb, avec son bâton incandescent toujours.
+
+- C'est l'heure du dîner
+
+  - SAPHIR revient toute joyeuse de sa chambre, où elle était allée se changer : elle a reçu des nouvelles de Childéric. Il va bien, s'excuse d'être parti si vite, mais dit être sur la piste d'anciennes magies runiques très intéressantes *(c'est un faux mot envoyé par FOULQUES)*
+  - À table, la première moitié du repas se déroule tranquillement
+  - Soudain, 5 sons d'olifant : attaque gravissime, c'est le branle-bas de combat !
+
+
+Jour 3 - soir
+---------------------
+
+- **Cinq hussards ailés**, mercenaires d'élite, volent vers le donjon, armés d'arbalètes.
+- FOULQUES dit qu'il ne faut pas interrompre le voyage médiumnique du mage Parcival, contre l'avis des abominations
+- Les carcasses montent au créneau avec GAUBERT et HERBERT pour défendre la maisonnette
+- Défenses possibles : baliste (si déjà finalisée avec cordages voire lunette de visée), puis arc, puis corps-à-corps
+- CONRAD et EULALIE protègent SAPHIR en bas, et canardent le ciel avec des rochers, depuis les jardins
+- Cri de ralliement de tous : **Pour la Perle de Sylvorann**
+- FOULQUES tente un nouveau sortilège, avec son bâton incandescent toujours, quand les mercenaires approchent : **Tornade**, qui a peu de chances de succès ; puis il redescend en salle du trône
+- En pire cas, les hussards arrivent à neutraliser les défenses hautes, et à entrer dans la maisonnette ; CONRAD escalade alors la tour par l'extérieur, ouvre de force la maisonnette, et fait la peau aux hussards
+
+
+Jour 3 - nuit tombée
+---------------------
+
+- Un rat musqué arrive au château, et indique qu'un **détachement de militaires** se prépare à traverser la jungle **avec des canons**, ils seront probablement là au matin
+- À un moment, les joueurs finissent par découvrir que le mage Parcival n'est pas dans la maisonnette (ex. indice déclencheur : la fumée ne s'en échappe plus)
+- SAPHIR court partout, les larmes aux yeux, haletante, à la recherche de son papa
+- Elle fracture le dépeçoir, et en ramène deux plaques de peau portant le **tatouage** qu'elle-même a sur l'épaule : un **loup roulé en boule**
+- Elle confronte alors l'ensemble des gens présents, mais le mage FOULQUES ne peut dissimuler sa panique
+- CONRAD confisque préventivement le **bâton incandescent** de FOULQUES
+- FOULQUES avoue tout, mais dit que ce sont des "accidents"
+- SAPHIR, les yeux noirs comme du charbon, se dirige vers le trône, le saisit, bondit au plafond, et le lance sur FOULQUES (qui est potentiellement aplati)
+- SAPHIR redevient normale et éclate en sanglots, roulée en boule au sol
+- Si FOULQUES est mort CONRAD demande aux carcasses de "trouver une solution pour rester en vie", car il ne veut pas que SAPHIR porte cette culpabilité en plus
+- CONRAD amène SAPHIR se remettre de son désespoir au potager, avec chiens-loups, lapin etc.
+
+
+.. raw:: pdf
+
+   PageBreak
+   
+
+Dénouements possibles
+========================
+
+- Transformer FOULQUES en abomination, ou partir en recherche d'un autre nécromancien ?
+- Aller négocier avec ALPHA (Brunissende) en tant qu'héritière légitime du trône vacant ?
+- Partir tous en voilier, avant que les militaires n'arrivent au bord de la falaise ? Possiblement vers l'île des semi-atlantes trouvée par le mage Parcival ?
+- Laisser uniquement SAPHIR et les carcasses se téléporter dans la forêt et fuir ?
+- Contacter par télémiroir le gobelin pour qu'il vienne les secourir par Zeppelin (mais négociation très difficile) ?
+
+
+
+Le fond de l'affaire
+========================
+
+Le passé des mages
+--------------------------
+
+Monsieur Colbert était apothicaire dans le village de Sylvorann, dans un recoin du Listenland.
+Il a assisté, démuni, au triste sort de son amie ermite l'alchimiste Séléné, assassinée suite à un complot de villageois.
+
+Un jour, il a reçu une intuition l'appelant au **purinoir**, à l'écart du village.
+Dans cette cuve où s'entassaient les déjections mais aussi les animaux morts, avec un lent mécanisme de broyage mécanisé au bout, il a trouvé un nourrisson abandonné, qu'il a recueilli, sauvé de justesse, et appelé SAPHIR.
+Il avait bien sa petite idée sur la villageoise qui n'assumait pas d'avoir une enfant différente, une **semi-atlante**.
+
+Cette lointaine civilisation avait encore quelques gènes qui trainaient dans la population, et ressurgissaient parfois, avec des caractéristiques physiques assez visibles : cheveux de cendre et peau brillante.
+À l'adolescence, un semi-atlante pouvait révéler quelques pouvoirs surnaturels, sans gravité tant qu'ils étaient bien maitrisés. Mais de multiples rumeurs atroces couraient sur cette engeance.
+
+La jeune SAPHIR a donc vite été rejetée par le reste du village, et constamment moquée pour avoir été trouvée dans un purinoir.
+
+Alors Colbert a tout vendu et quitté le village.
+Il a changé de nom pour s'appeler désormais "Parcival" comme sa grand-mère.
+Il a inventé avec SAPHIR l'histoire d'un "couffin de soie, gardé par une meute de loups"
+Mais nulle part, lui et sa fille n'étaient les bienvenus.
+
+Le nouveau Parcival a développé ses dons médiumniques pour guider leur route, devenant ainsi un mage.
+
+Il est ainsi allé trouver le mage Childéric, lui aussi ostracisé pour ses travaux sur la nécromancie.
+
+Alliés de circonstance, ils ont acheté un donjon en ruine sur une presqu’île, afin de mener leurs vies en paix. 
+Les deux mages ont enseigné à SAPHIR ce qui convenait à une enfant de son âge.
+
+Mais des gredins mercenaires étaient sur la trace du mage Childéric, en vue de lui voler ses secrets. Vaincus puis zombifiés, ils sont devenus les premières "abominations" du lieu.
+
+Très vite la rumeur a enflé sur ce qui se passait au donjon, sur les trésors et les mystères qu'il renfermait, et les aventuriers en quête de gloire ont commencé à y converger.
+Les rats musqués et les carcasses ont alors été ajoutés en défense.
+
+Le mage Childéric se languissait d'être ainsi assiégé, et voulait reprendre son chemin dès que possible. Le mage Parcival, lui, voyageait spirituellement pour trouver un meilleur endroit pour SAPHIR ; et il était sur la piste d'une île prometteuse, devenue le refuge des semi-atlantes persécutés.
+
+Les mages ont donc déniché et fait venir au donjon un jeune génie incompris et malchanceux, Foulques, et celui-ci a pu se former à la nécromancie et à la magie élémentaire, tout en continuant ses inventions physico-chimiques. L'apprenti Foulques a rapidement conçu le dépeçoir et ses dépendances, de multiples pièges, commencé à construire une baliste, etc.
+
+
+Le moment du drame
+-------------------------------
+
+À l'approche de son départ, le mage Childéric a commencé à inspecter tout ce que son apprenti avait mis en place.
+Hélas, lors de la visite du dépeçoir, il a mis par mégarde sa manche de tunique dans une roue crantée, et a été aspiré par la machine.
+Paniqué, FOULQUES a prétendu que le mage était parti sur un coup de tête.
+Mais EULALIE a récupéré ces ossements "robustes et nantis d'auras magiques" dans l'ossuaire, pour remplacer une des carcasses.
+FOULQUES a donc joué le jeu, mais en lançant un sort d'amnésie et en limitant le temps d'animation des carcasses, pour ne pas être démasqué.
+
+SAPHIR est partie ensuite avec des abominations en bivouac initiatique autour du lac.
+C'était au tour de FOULQUES de préparer le dîner, et par mégarde il a laissé un morceau de poisson-globe dans le plat.
+Le mage Parcival a été très malade le soir à cause de cela, et hallucinait, au point de perdre ses notions d'apothicaire. 
+FOULQUES lui a donné des calmants en pensant à une banale indigestion, mais son patient est décédé.
+Paniqué, FOULQUES a mis le corps du mage dans le dépeçoir, et prétendu qu'il s'était lancé dans un grand voyage médiumnique (c'est donc FOULQUES qui rechargeait ponctuellement l'encens de la maisonnette).
+Mais là aussi EULALIE a récupéré ces ossements "robustes et doués de pouvoirs de vision lointaine" dans l'ossuaire, pour remplacer une autre carcasse.
+SAPHIR est rentrée à ce moment-là de son bivouac.
+
+FOULQUES a cherché un moyen de s'en tirer, achetant même des explosifs et autres équipements en vue d'une mise en scène... et c'est à ce moment que l'histoire du jeu a commencé.
+

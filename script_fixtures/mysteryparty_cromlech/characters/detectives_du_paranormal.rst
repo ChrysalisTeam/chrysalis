@@ -23,12 +23,11 @@ Trois personnages de votre groupe peuvent disposer d'un petit pouvoir (et donc d
 
 Les autres détectives sont en revanche prioritaires pour mener les entretiens et poser les questions aux témoins de l'affaire.
 
-
 PSYKER
     Le/la psyker possède des dons de spiritisme avancés, qui lui permettent de communiquer, par la pensée, avec des fantômes. Ce sont les fantômes qui contactent les psykers le moment venu.
 
 GREFFE
-    Le/la greffier.ère est responsable de la prise de notes au cours de l'enquête. C'est cette personne qui va, en outre, partager ses résultats avec les greffiers des autres groupes de détectives, puis les rapporter aux autorités judiciaires.
+    Le/la greffier.ère est responsable de la prise de notes au cours de l'enquête. C'est cette personne qui va, en outre, partager ses résultats avec les autres groupes de détectives ainsi que les autorités judiciaires.
 
 INTIMIDATION
     L'intimidateur.trice est capable, une fois par entretien avec un.e témoin, de prendre une posture de menace, en prenant un air sombre et en tapant du point sur la table. Il va alors poser une SEULE question, à laquelle l'interlocuteur sera, psychologiquement, obligé de répondre la vérité ; mais il/elle ne pourra répondre que par OUI, NON, ou JE NE SAIS PAS ; il faut donc une question fermée.
