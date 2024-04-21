@@ -1,8 +1,8 @@
 ---
 embeddedFonts:
 - [OpenSans-Regular.ttf, OpenSans-Bold.ttf, OpenSans-Italic.ttf, OpenSans-BoldItalic.ttf]
-pageSetup: {firstTemplate: standardPage, margin-bottom: 1.4cm, margin-left: 1.8cm,
-  margin-right: 1.8cm, margin-top: 1.4cm}
+pageSetup: {firstTemplate: standardPage, margin-bottom: 1.2cm, margin-left: 1.8cm,
+  margin-right: 1.8cm, margin-top: 1.2cm}
 pageTemplates:
   standardPage:
     frames:
@@ -10,12 +10,12 @@ pageTemplates:
     showFooter: true
     showHeader: false
 styles:
-  base: {fontName: opensans, fontSize: 13, leading: 20}
+  base: {fontName: opensans, fontSize: 13, leading: 18}
 
   title: {alignment: left, fontSize: 30, textColor: black}
   subtitle: {alignment: left, fontSize: 25, textColor: black}
 
-  heading1: {fontSize: 22, spaceBefore: 19}
+  heading1: {fontSize: 22, spaceBefore: 19, spaceAfter: 10}
   heading2: {fontSize: 18, spaceBefore: 16}
 
   bullet-list: {spaceAfter: 4, spaceBefore: -3}

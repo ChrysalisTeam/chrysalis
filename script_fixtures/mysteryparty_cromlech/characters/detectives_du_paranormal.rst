@@ -10,7 +10,7 @@ Vous appartenez à une grande agence de détectives spécialisée dans le surnat
 
 Contrairement aux humains "normaux", vous possédez donc tous la capacité de voir, entendre, sentir, des phénomènes tels les fantômes, les malédictions, etc.
 
-Récemment, vous vous prépariez à partir pour la ville de Rome, car les scientifiques italiens recensaient **depuis près d'un an ???????????** de nombreux évènements (secousses sismiques, remontées de lave…) que leurs modèles physiques n'arrivaient plus à expliquer. Ils craignaient le réveil d'une vieille malédiction.
+Récemment, vous vous prépariez à partir pour la ville de Rome, car les scientifiques italiens recensaient **depuis près d'un an ???????TODO????** de nombreux évènements (secousses sismiques, remontées de lave…) que leurs modèles physiques n'arrivaient plus à expliquer. Ils craignaient le réveil d'une vieille malédiction.
 
 Mais vous avez dû annuler votre départ, car le président Émile Loubet lui-même, suite à la supplique d'un diplomate italien, vous a sommé de vous rendre au "Cromlech" - une sorte de bibliothèque-musée servant d'espace de travail aux étudiants de la ville.
 
