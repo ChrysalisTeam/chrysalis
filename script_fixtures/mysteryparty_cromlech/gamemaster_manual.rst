@@ -99,6 +99,26 @@ L'inspecteur.trice de police
     À la façon de "Sherlock Holmes", il intervient ponctuellement pour partager aux joueurs quelques géniales observations et intuitions.
 
 
+Description du "trésor" du musée
+---------------------------------
+
+Lorsque c'est leur tour, au lieu d'interroger un des témoins, les joueurs vont inspecter les artefacts antiques du Cromlech.
+
+Un **expert en archéologie** peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents.
+
+Les différents artefacts présents pour les joueurs :
+
+- La maquette de Cromlech est le center névralgique de la malédiction ; il contient un autel diffusant des écliars, et un portail magique menant au monde parallèle. Les symboles de 3 divinités gauloises bénéfiques sont gravés sur le cercle de pierres. {% item "maquette de Cromlech et de portail magique" is needed %}
+- L'armure, le casque et le bouclier romain sont en réalité des offrandes pour l'invocation des druides. Le glaive, lui, a été emporté par le Héros dans le monde parallèle. Le casque peut contenir un crâne (encorcelé ?), si le public est assez mature. {% item "armure, casque et bouclier romains" is needed %} {% item "crâne optionnel pour le trésor" is needed %}
+- Le grimoire est réputé impossible à ouvrir, comme "collé" ; il est là principalement pour l'ambiance. {% item "grimoire à couverture de bois, scellé" is needed %} {% item "crâne optionnel pour le casque romain" is needed %}
+- Un coffre en bois, avec un cadenas à 4 chiffres, est présent. Il contient les éléments suivants. {% item "Coffre en bois avec cadenas à 4 chiffres" is needed %}
+
+    - Une tablette de défixion (= de sortilège) avec le sigle du dieu gaulois de la guerre et de la mort.  {% item "tablette de défixion" is needed %}
+    - Un papier moderne décrivant le rituel d'ablution.  {% item "papier résumant le rituel d'ablution" is needed %}
+    - Un cryptex contenant le parchemin médiéval des sigles gaulois.  {% item "cryptex contenant le parchemin médiéval des sigles gaulois" is needed %}
+
+
+
 Résumé du déroulement du jeu
 ==================================
 
@@ -131,86 +151,86 @@ Lorsque les phénomènes paranormaux s'amplifient, les deux camps en présence h
 Rapport d'enquête initial
 --------------------------
 
-- Fiches d'identification des témoins de l'affaire
-- Premiers relevés faits sur les lieux (disparition du glaive, accès disponibles sur les lieux, présence possible de sang, lettre d'adieux du Héros dans la cachette commune avec le Reporter ??????)
-- **Quoi d'autre ???**
-
-Le "trésor" du musée
-----------------------
-
-Cette étape est la même pour tous les groupes : lorsque c'est leur tour, au lieu d'interroger un des témoins, ils vont inspecter les artefacts antiques du Cromlech.
-
-Un expert en archéologie peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents.
+- Fiches d'identification des témoins de l'affaire.
+- Premiers relevés faits sur les lieux (disparition du glaive, accès disponibles sur les lieux, présence possible de sang, lettre d'adieux du Héros dans la cachette commune avec le Reporter ??????).
+- **Quoi d'autre ????????**
 
 Premier entretien simultané
 ----------------------------------
 
-Guide : détendu et jovial car il s'imagine qu'il s'agit juste d'un vol de la réplique de glaive ; raconte ses passions et découvertes récentes quant à l'antiquité gallo-romaine
+Guide : détendu et jovial car il s'imagine qu'il s'agit juste d'un vol de la réplique de glaive ; raconte ses passions et découvertes récentes quant à l'antiquité gallo-romaine.
 
-Reporter : raconte sa rencontre avec le Héros, et les indices troublants de la matinée (glaive antique disparu, trace rougeâtre au sol, absence de son ami au rendez-vous...)
+Reporter : raconte sa rencontre avec le Héros, et les indices troublants de la matinée (glaive antique disparu, trace rougeâtre au sol, absence de son ami au rendez-vous...).
 
-Conservateur : prétend avoir passé la matinée à une cérémonie publique et ne rien comprendre à toute cette affaire
+Conservateur : prétend avoir passé la matinée à une cérémonie publique et ne rien comprendre à toute cette affaire.
+
+Trésor : découverte des artefacts du musée, et de la {% symbol "potion de régénération" for "potion_de_soin" %} (utilisée par le Héros).
 
 Premier complément d'enquête
 ----------------------------------
 
-- Informations sur une duplication de clef douteuse effectuée en ville, clef identique à celle du Guide et du Conservateur
-- Informations sur l'analyse illicite d'un glaive antique par une personne semblable au Reporter (sans preuve)
-- Informations sur le déroulement chaotique de la cérémonie publique où le Conservateur prétend avoir passé la matinée
-- Analyse du sang (groupe sanguin, âge, volume…) de la salle au Trésor, montrant qu'il appartient au Héros
+- Informations sur une duplication de clef douteuse effectuée en ville, clef identique à celle du Guide et du Conservateur.
+- Informations sur l'analyse illicite d'un glaive antique par une personne semblable au Reporter (sans preuve).
+- Informations sur le déroulement chaotique de la cérémonie publique où le Conservateur prétend avoir passé la matinée.
+- Analyse du sang (groupe sanguin, âge, volume…) de la salle au Trésor, montrant qu'il appartient au Héros.
 
 Deuxième entretien simultané
 ---------------------------------------
 
-Guide : choqué par l'annonce du sang, un peu éperdu ; avoue candidement, sans honte, qu'il a dupliqué la clef pour aider le Héros à réussir ses études et son examen
+Guide : choqué par l'annonce du sang, un peu éperdu ; avoue candidement, sans honte, qu'il a dupliqué la clef pour aider le Héros à réussir ses études et son examen.
 
-Reporter : mis en difficulté sur l'analyse illicite du glaive, mais pas décontenancé, avoue qu'il a aidé le Héros à réaliser cela, mais insiste sur le fait que ce n'est pas la priorité du moment
+Reporter : mis en difficulté sur l'analyse illicite du glaive, mais pas décontenancé, avoue qu'il a aidé le Héros à réaliser cela, mais insiste sur le fait que ce n'est pas la priorité du moment.
 
-Conservateur : mis en difficulté par les révélations sur son emploi du temps, décontenancé, si coincé il peut se rabattre sur la thèse d'un "suicide du héros" dont il aurait été le témoin impromptu
+Conservateur : mis en difficulté par les révélations sur son emploi du temps, décontenancé, si coincé il peut se rabattre sur la thèse d'un "suicide du héros" dont il aurait été le témoin impromptu.
+
+Trésor : ouverture probable du cadenas du coffre, et étude de son contenu.
 
 Intervention de l'inspecteur de police à la moitié de l'entretien :
 
-- Met en évidence la blessure à la main gauche du Conservateur
-- Met en évidence l'amulette mystérieuse constamment portée par le Guide (cadeau de gratitude du Héros, censé "porter chance")
+- Met en évidence la blessure à la main gauche du Conservateur.
+- Met en évidence l'amulette mystérieuse constamment portée par le Guide (cadeau de gratitude du Héros, censé "porter chance").
 
 Deuxième complément d'enquête
 ----------------------------------
 
 - Le contenu de la cachette des Héros & Reporter, ainsi que le pistolet (où il manque une balle), ont été trouvés derrière un tas de vieux livres par des inspecteurs.
 - Les empreintes du Héros, et dessous celles du Conservateur, ont été relevées sur le pistolet.
-- Récupération au passage du rapport d'analyse qui avait été demandé par le Reporter
-- Le contenu de la cachette comporte un journal de bord, et un message codé griffonné par le Héros
+- Récupération au passage du rapport d'analyse qui avait été demandé par le Reporter.
+- Le contenu de la cachette comporte un journal de bord, et un message codé griffonné par le Héros.
 
 Troisième entretien simultané
 ----------------------------------
 
-Guide : parle des mesures étranges qui lui étaient imposées par le Conservateur, quant aux artefacts
+Guide : parle des mesures étranges qui lui étaient imposées par le Conservateur, quant aux artefacts.
 
-Reporter : il peut déchiffrer le message codé laissé par le Héros, et **???**
+Reporter : il peut déchiffrer le message codé laissé par le Héros, et **???**.
 
-Conservateur : coincé, il avoue tout, mais s'insurge sur le fait que les enjeux sont bien plus importants que lui VS héros
+Conservateur : coincé, il avoue tout, mais s'insurge sur le fait que les enjeux sont bien plus importants que "lui contre le héros".
+
+Trésor : ouverture probable du cryptex, et étude de son contenu.
 
 Intervention de l'inspecteur de police à la moitié de l'entretien :
 
-- Contre le Conservateur : **QUID ????**
-- Accuse le Guide d'avoir fait de faux diplômes ?? De ne pas avoir remarqué absence du glaive ??
+- Contre le Conservateur : **QUID ????**.
+- Accuse le Guide d'avoir fait de faux diplômes ?? De ne pas avoir remarqué absence du glaive?????.
 
 Troisième et dernier complément d'enquête
 ------------------------------------------------
 
-- Matériel à ablutions rituelles, encore mouillé, trouvé dans le bureau du Conservateur
-- Le dolmen émet des rayonnements vibratoires anormaux ?????
+- Matériel à ablutions rituelles, encore mouillé, trouvé dans le bureau du Conservateur ???.
+- Le dolmen émet des rayonnements vibratoires anormaux ?????.
 - Résultat d'une enquête sur les habitués de la bibliothèque : rêves étranges, etc.
-- Appels du Héros aux vivants, par un moyen détourné ??
+- Appels du Héros aux vivants, par un moyen détourné???.
 
 Quatrième entretien simultané
 --------------------------------------
 
 Tous les témoins commencent à divaguer à la moitié de l'entretien !
 
-Guide : sort une traduction qu'il avait faite des runes sur le grimoire, et qu'il prenait pour des foutaises (elles évoquent le monde parallèle du monstre, et des prophéties) ; brainstorme pour réconcilier ses connaissances historiques avec les derniers éléments d'enquête
+Guide : sort une traduction qu'il avait faite des runes sur le grimoire, et qu'il prenait pour des foutaises (elles évoquent le monde parallèle du monstre, et des prophéties) ; brainstorme pour réconcilier ses connaissances historiques avec les derniers éléments d'enquête.
 
-Reporter : lance l'alerte, "le Héros est en danger dans un autre monde, il faut l'aider"
+Reporter : lance l'alerte, "le Héros est en danger dans un autre monde, il faut l'aider".
 
-Conservateur : lance l'alerte, "il faut laisser les artefacts tranquilles et empêcher le Héros de les détourner à son propre profit !"
+Conservateur : lance l'alerte, "il faut laisser les artefacts tranquilles et empêcher le Héros de les détourner à son propre profit !".
 
+Trésor : étude des artefacts et messages présentés, rien de nouveau n'est attendu.

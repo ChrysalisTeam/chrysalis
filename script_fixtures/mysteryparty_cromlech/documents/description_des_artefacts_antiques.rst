@@ -6,7 +6,7 @@ Le Trésor du Cromlech
 Équipement de légionnaire
 ----------------------------
 
-L'armure, le casque et le bouclier
+L'armure, le casque et le bouclier appartiennent manifestement
 
 Grimoire
 ------------------

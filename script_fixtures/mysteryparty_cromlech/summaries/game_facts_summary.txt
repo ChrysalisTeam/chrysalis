@@ -17,7 +17,7 @@ Facts and involved characters
      - Fact knower(s)
 
 {% for fact, knowers in facts_registry.items()|sort %}
-   * - {{ fact }}
+   * - {{ fact[0]|title }}{{ fact[1:] }}
      - {{ display_fact_names(knowers) }}
 {% endfor %}
 

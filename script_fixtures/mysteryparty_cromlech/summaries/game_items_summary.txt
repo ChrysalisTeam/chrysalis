@@ -15,7 +15,7 @@ Scenario items
      - Item status
 
 {% for item_name, item_statuses in items_registry.items()|sort %}
-   * - {{ item_name }}
+   * - {{ item_name[0]|title }}{{ item_name[1:] }}
      - {{ display_item_statuses(item_statuses) }}
 {% endfor %}
 
