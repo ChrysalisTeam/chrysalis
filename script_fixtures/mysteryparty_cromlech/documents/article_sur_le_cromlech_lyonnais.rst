@@ -23,6 +23,6 @@ Avis des lecteurs
 
 **Note : 3/5**
     Après une semaine seulement à y travailler avec des camarades de classe, nous avons tous les 3 multiplié les cauchemars étranges, à la fois mythologiques et d'un réalisme surprenant. L'endroit dégage de mauvaises ondes, ou manque juste de lumière... dommage car il a du charme.
-
+Cryptexe
 **Note : 1/5**
     Entre deux visites à deux mois d'intervalle, notre guide avait totalement changé de version quant aux origines et usages de certaines antiquités. Et j’ai appris qu’il ne s’agissait que de répliques, alors qu’elles semblaient plus vrai que nature. Que d'incompétence ou charlatanisme, ce n'est pas sérieux, fuyez !
