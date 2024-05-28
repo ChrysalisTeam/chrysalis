@@ -82,9 +82,9 @@ Complément d'enquête #1
 La clef du Cromlech n’est en principe possédée que par le Conservateur et le Guide du musée.
 Mais son numéro de série est apparu dans une demande de duplication effectuée chez le cordonnier du centre-ville, il y a 32 jours. Une 3e clef doit donc être en circulation désormais.
 
-Un de nos indic’ a lâché une piste : un glaive très ancien a été laissé, le temps d’une nuit, à un faussaire de banlieue, afin qu’il en effectue une rapide analyse et datation. Cela s’est passé il y a 27 jours. Le demandeur avait une corpulence semblable à celle d'Andrea di Revel. Nous faisons pression pour obtenir une copie des résultats de cette étude nocturne.
+Un de nos indics a lâché une piste : un glaive très ancien a été laissé, le temps d’une nuit, à un faussaire de banlieue, afin qu’il en effectue une rapide analyse et datation. Cela s’est passé il y a 27 jours. Le demandeur avait une corpulence semblable à celle d'Andrea di Revel. Nous faisons pression pour obtenir une copie des résultats de cette étude nocturne.
 
-Camille du Guesclin a bien été vu ce matin vers 10h30 par les journalistes du Gramophone Lettré, en train de discuter avec le Bourgmestre, lors du cocktail suivant la cérémonie de remise des prix littéraires Maurice Genevoix. La cérémonie elle-même, débutée à 9h, a rapidement été marquée par un esclandre quand l'auteur Eloi de Frontignan, furieux d'avoir perdu le concours romanesque, a tenté d'arracher la gerbe de fleurs des mains de la lauréate Lilie Dupain. Mais la suite de l'évènement s'est déroulée sans encombre.
+Camille du Guesclin a bien été vu ce matin vers 10h30 par les journalistes du Gramophone Lettré, en train de discuter avec le Bourgmestre, lors du cocktail suivant la cérémonie de remise des prix littéraires Maurice Genevoix. La cérémonie elle-même, débutée à 9h, a rapidement été marquée par un esclandre quand l'auteur Eloi de Frontignan, furieux d'avoir perdu le concours romanesque, a tenté d'arracher la gerbe de fleurs des mains de la lauréate Lilie Dupain. Mais la suite des festivitée s'est déroulée sans encombre.
 
 Le sang épandu en salle des artefacts a été identifié comme étant de groupe sanguin A+.
 Il date de moins de 24h.
@@ -95,7 +95,7 @@ Il date de moins de 24h.
 Complément d'enquête #2
 ################################
 
-Nous avons obtenu le rapport d'analyse du glaive, réalisé il y a un mois par un faussaire.
+Nous avons obtenu le rapport de l'analyse du glaive, réalisée il y a un mois par un faussaire.
 Il atteste que cette pièce a été authentiquement forgée selon des techniques datant d'environ 2 millénaires, et propres aux légions romaines.
 
 Un revolver a été retrouvé dans la salle des artefacts, derrière un tas de livres.
@@ -112,8 +112,8 @@ Complément d'enquête #3
 
 Du matériel liturgique très ancien a été trouvé caché dans le bureau de Camille du Guesclin : toge en lin avec quelques traces de sang (groupe : AB-), coupe à ablutions rituelles (encore humide), encensoir, branche de houx…
 
-Le grimoire de la salle des artefacts émet des vibrations de plus en plus sensibles, et nous n'arrivons toujours pas à l'ouvrir.
+Le faux grimoire de la salle des artefacts émet depuis peu des vibrations, de plus en plus sensibles.
 
-Nous avons interrogé divers habitués du Cromlech, ils disent ne rien avoir remarqué d'anormal ; mais plusieurs se plaignent d'avoir un sommeil agité depuis qu'ils y viennent régulièrement, avec des rêves chargés de symboles antiques.
+Nous avons interrogé divers habitués du Cromlech, ils disent n'y rien avoir remarqué d'anormal ; mais plusieurs se plaignent d'avoir un sommeil agité depuis qu'ils y viennent régulièrement, avec des rêves chargés de symboles antiques.
 
 Le message codé gribouillé sur l'enveloppe a été déchiffré : "Ryan, le temps presse, la bête vengeresse va naître bientôt, j'aurai besoin d'aide, rassemble des bonnes volontés, et quand le combat commencera, faites ensemble le signe des centurions !"

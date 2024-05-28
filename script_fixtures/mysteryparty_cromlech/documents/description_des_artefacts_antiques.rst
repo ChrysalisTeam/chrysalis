@@ -21,9 +21,9 @@ Un artefact assez unique ; c'est un faux livre, creusé dans du bois plein.
 
 Après étude par résonance, il ne contient pas de cavité.
 
-C'est un objet incroyable car les livres n'existaient pas à cette époque, on utilisait des rouleurs de papyrus à la place ; il est comme une "prophétie scientifique".
+C'est un objet incroyable car les livres n'existaient pas à cette époque, on utilisait des rouleurs de papyrus à la place ; il ressemble donc à une "prophétie scientifique".
 
-Cet objet semble représenter la connaissance entière du peuple gaulois.
+Symboliquement, on peut voir en lui la connaissance entière du peuple gaulois.
 
 Datation approximative : 50 av. J.-C.
 
