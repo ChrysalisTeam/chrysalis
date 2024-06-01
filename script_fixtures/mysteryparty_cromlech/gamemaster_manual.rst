@@ -43,13 +43,13 @@ Cependant, la gestation de cette entité s'est avérée plus longue et complexe 
 
 Si bien qu'au 21e siècle, cette créature légendaire ne s'est toujours pas incarnée. Les artefacts portant l'envoûtement (grimoire, glaive, maquette de cromlech…) sont désormais "cachés en plein jour", dans une insolite bibliothèque-musée servant surtout d'espace de travail aux étudiants du coin. Afin d'éviter les ennuis juridiques, le gérant des lieux, le "Conservateur", fait passer ces pièces de musée pour de simples répliques.
 
-Mais un jeune "Héros", enfant d'un diplomate italien et passionné par l'ésotérisme antique, est sur la piste de cette invocation. Il espionne discrètement le musée, cherchant à savoir qui est au courant de ce phénomène, et qui est ami ou ennemi. Au passage, il se lie d'amitié avec un étudiant reporter, qu'il met en partie dans le secret.
+Mais un jeune "Héros", enfant d'une diplomate italienne et passionné par l'ésotérisme antique, est sur la piste de cette invocation. Il espionne discrètement le musée, cherchant à savoir qui est au courant de ce phénomène, et qui est ami ou ennemi. Au passage, il se lie d'amitié avec un étudiant reporter, qu'il met en partie dans le secret.
 
 Le jour J, à l'aube, le Héros surprend le Conservateur du musée qui pratique des rituels magiques sur les artefacts. La confrontation tourne à la bagarre. Le héros se défend avec le glaive gaulois, blessant son adversaire à la main gauche. Excédé, le Conservateur lui tire en plein ventre ; puis il le laisse gisant près des artefacts, le pistolet en main - pour faire croire à un suicide - avant de s'enfuir pour s'afficher en public à un évènement mondain. {% fact "le conservateur a été blessé à la main gauche par le héros" %} {% fact "le conservateur a tiré au pistolet sur le héros" %}
 
 Lorsque la bibliothèque-musée ouvre à l'heure habituelle, rien d'anormal n'est remarqué. Le Guide-bibliothécaire qui gère les lieux s'émeut juste d'une énorme "tache d'encre" près des artefacts.
 
-Mais le Reporter, qui avait rendez-vous avec le Héros, s'inquiète. Il remarque que le glaive n'est plus dans son fourreau, et que la tache est faite de sang séché. Il sonne donc l'alerte, informant au passage le puissant diplomate italien de la disparition probable de son fils.
+Mais le Reporter, qui avait rendez-vous avec le Héros, s'inquiète. Il remarque que le glaive n'est plus dans son fourreau, et que la tache est faite de sang séché. Il sonne donc l'alerte, informant au passage la diplomate italienne de la disparition probable de son enfant.
 
 Cela fait que toute une population débarque sur les lieux : l'inspecteur de police de la ville, et plusieurs équipes de détectives privés "spécialisés dans le paranormal" (les joueurs).
 

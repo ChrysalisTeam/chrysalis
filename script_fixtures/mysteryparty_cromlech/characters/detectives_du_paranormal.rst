@@ -12,7 +12,7 @@ Contrairement aux humains "normaux", vous possédez donc tous la capacité de vo
 
 Récemment, vous vous prépariez à partir pour la ville de Rome, car les scientifiques italiens recensaient depuis environ **{% symbol "1 an" for "délai_début_secousses_sismiques_italiennes" %}** de nombreux évènements (secousses sismiques, remontées de lave…) que leurs modèles physiques n'arrivaient plus à expliquer. Ils craignaient le réveil d'une vieille malédiction.
 
-Mais vous avez dû annuler votre départ, car le président français Émile Loubet lui-même, suite à la supplique d'un diplomate italien, vous a sommé de vous rendre au "Cromlech" - une sorte de bibliothèque-musée servant d'espace de travail aux étudiants de la ville.
+Mais vous avez dû annuler votre départ, car le président français Émile Loubet lui-même, suite à la supplique d'une diplomate italienne, vous a sommé de vous rendre au "Cromlech" - une sorte de bibliothèque-musée servant d'espace de travail aux étudiants de la ville.
 
 Il était question d'une personne disparue, et d'un glaive antique volé.
 
