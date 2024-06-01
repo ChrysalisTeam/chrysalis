@@ -46,7 +46,7 @@ Suspect #3 : Ryan Parker
 - Age : Inconnu
 - Adresse : Résidence Jehan Louzack, Lyon
 - Profession : Etudiant en journalisme à la Faculté
-- Groupe sanguin : A+
+- Groupe sanguin : A-
 - Particularités : aucune
 
 [BR]
@@ -69,7 +69,7 @@ Flaque de sang séché au sol dans la Salle des Antiquités.
 
 Perte de sang dangereuse mais non nécessairement létale.
 
-Un glaive antique a disparu.
+Un glaive antique du musée a disparu.
 
 Aucune autre propriété du musée n'a été signalée comme manquante.
 
@@ -102,7 +102,7 @@ Un revolver a été retrouvé dans la salle des artefacts, derrière un tas de l
 Il manque une balle dans le barillet.
 Les empreintes digitales d'Andrea di Revel ont été retrouvées sur la poignée, au-dessus d'autres empreintes qui semblent, elles, appartenir à Camille du Guesclin.
 
-Une "lettre d'adieux" d'Andrea avait été mise aux "objets trouvés" par Eden Schmitt, ce matin. Nous sommes en train de l'expertiser, et de tenter de déchiffrer le message codé qui est gribouillé sur son enveloppe.
+Une "lettre d'adieux" d'Andrea avait été mise aux Objets Trouvés du musée par Eden Schmitt, ce matin. Nous sommes en train de l'expertiser, et de tenter de déchiffrer le message codé qui est gribouillé sur son enveloppe.
 
 [PAGEBREAK]
 
@@ -110,10 +110,10 @@ Une "lettre d'adieux" d'Andrea avait été mise aux "objets trouvés" par Eden S
 Complément d'enquête #3
 ################################
 
-Du matériel liturgique très ancien a été trouvé caché dans le bureau de Camille du Guesclin : toge en lin avec quelques traces de sang (groupe : AB-), coupe à ablutions rituelles (encore humide), encensoir, branche de houx…
+Du matériel liturgique très ancien a été trouvé caché dans le bureau de Camille du Guesclin : toge en lin avec quelques traces de sang (groupe : AB-), coupe en argile à ablutions rituelles (encore humide), encensoir, branche de houx…
 
-Le faux grimoire de la salle des artefacts émet depuis peu des vibrations, de plus en plus sensibles.
+Le grimoire factice de la salle des artefacts émet depuis peu des vibrations, de plus en plus sensibles.
 
 Nous avons interrogé divers habitués du Cromlech, ils disent n'y rien avoir remarqué d'anormal ; mais plusieurs se plaignent d'avoir un sommeil agité depuis qu'ils y viennent régulièrement, avec des rêves chargés de symboles antiques.
 
-Le message codé gribouillé sur l'enveloppe a été déchiffré : "Ryan, le temps presse, la bête vengeresse va naître bientôt, j'aurai besoin d'aide, rassemble des bonnes volontés, et quand le combat commencera, faites ensemble le signe des centurions !"
+Le message codé, gribouillé sur l'enveloppe trouvée au sol, a été déchiffré : "Ryan, le temps presse, la bête vengeresse va naître bientôt, j'aurai besoin d'aide, rassemble des bonnes volontés, et quand le combat commencera, faites ensemble le signe des centurions !"

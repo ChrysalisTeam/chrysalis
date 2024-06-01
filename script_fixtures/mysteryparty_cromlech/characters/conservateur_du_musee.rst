@@ -4,7 +4,7 @@ CONSERVATEUR DU MUSÉE
 Votre passé
 ==============
 
-Vous êtes **M./Mme {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}**, descendant(e) direct du noble chevalier breton du même nom. Vous aviez entamé une belle **carrière d'avocat**, quand le décès de votre **père {% symbol "Philippe du Guesclin" for "pere_du_conservateur" %}** - devenu fou avec l'âge - a tout bouleversé.
+Vous êtes **M./Mme {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}**, descendant(e) direct du noble chevalier breton du même nom. Vous aviez entamé une belle **carrière d'avocat**, quand le décès de votre **père {% symbol "Philippe du Guesclin" for "pere_du_conservateur" %}** - devenu fou avec l'âge - a tout bouleversé, il y a **{% symbol "15 mois" for "délai_mort_père_du_conservateur" %}** de cela.
 
 Son superbe manoir, trop coûteux à entretenir, devait être vendu ; vous avez donc inventorié l'amoncellement d'objets bizarres qu'il contenait.
 
@@ -12,7 +12,7 @@ Vous êtes alors tombé, dans les profondeurs de ses caves, sur des artefacts de
 
 Lui, l'étrange personnage qui savait tout de vos rêves et de vos projets, de vos journées et de vos nuits. Au début, il s'est fait passer pour un lointain oncle. Puis il a révélé sa vraie nature : **{% symbol "Olloudios" for "nom_du_spectre" %}**, druide devenu messager des dieux celtes. Un spectre que vous seul pouvez, à votre connaissance, voir et entendre.
 
-Et Olloudios vous a délivré une terrible nouvelle : votre dynastie était chargée de protéger et entretenir des reliques antiques, mais elle avait durant des siècles failli à sa tâche. Votre propre père avait toujours refusé de remplir ce devoir… jusqu'à sombrer dans la folie.
+Et Olloudios vous a délivré une terrible nouvelle : votre dynastie était chargée de protéger et entretenir des reliques antiques, mais elle avait durant des siècles failli à sa tâche. Votre propre père avait toujours refusé de remplir ce devoir... jusqu'à sombrer dans la folie.
 
 Il était encore temps d'éviter un cataclysme, en remettant ces antiquités au centre de la société, afin qu'elles puissent se nourrir de l'essence vitale et de l'énergie psychique des humains. À l'écouter, c'était de l'ordre universel tout entier dont il était question, à travers l'immémoriale magie des druides. {% fact "les artefacts doivent rester au contact des humains" %}
 
@@ -20,7 +20,7 @@ Pris au piège de cette responsabilité inattendue, vous avez suspendu votre car
 
 Une équation compliquée, que vous n'avez résolue qu'en montant un petit musée-bibliothèque unique en son genre : le **{% symbol "Cromlech" for "nom_du_musee" %}**. Un lieu d'étude assez connu pour brasser du monde et être viable économiquement, mais assez discret pour ne pas attirer l'attention. Vous avez fait passer les artefacts antiques pour des "répliques fidèles", afin de justifier leur intérêt académique tout en permettant aux passants de les manipuler.
 
-La réussite de ce projet est en grande partie due au guide-bibliothécaire que vous avez embauché il y a {% symbol "un an" for "délai_embauche_du_guide" %}, **{% symbol "Eden Schmitt" for "nom_du_guide" %}**. Il a su fidéliser la clientèle par sa jovialité, sa serviabilité, et ses récits hauts en couleur sur les artefacts du musée.
+La réussite de ce projet est en grande partie due au guide-bibliothécaire que vous avez embauché il y a {% symbol "1 an" for "délai_arrivée_du_guide_au_cromlech" %}, **{% symbol "Eden Schmitt" for "nom_du_guide" %}**. Il a su fidéliser la clientèle par sa jovialité, sa serviabilité, et ses récits hauts en couleur sur les artefacts du musée.
 
 Il persiste à vous appeler "Conservateur" devant les gens, mais vous clarifiez bien, si on vous questionne à ce sujet, que vous êtes juste "Gérant" sans aucun diplôme lié à l'Histoire – nul besoin d'avoir des ennuis juridiques avec cette corporation très élitiste.
 Cela ne vous empêche pas de rejeter avec condescendance les étudiant(e)s en Histoire qui feraient mine de "vous apprendre votre métier" - bien qu'ils aient, au fond, raison.
@@ -30,9 +30,9 @@ Les affaires commençaient à magnifiquement se tasser. Vous procédiez chaque m
 **{% symbol "Andrea di Revel" for "nom_du_héros" %}, fils de l'ambassadeur d'Italie auprès de la France**. Un étudiant en Histoire qui n'a pas lâché prise face à vos sornettes, et s'est mis à fréquenter régulièrement la bibliothèque ; à tourner autour des artefacts, surtout le **Grimoire Celte** dont vous avez interdit la lecture. Le spectre vous a incité à vous méfier de lui ; et s'est alarmé encore davantage quand cet étudiant a "disparu de son domaine de perception", il y a quelques semaines ; mais que faire sans attirer davantage l'attention ? Vous avez donc fait profil bas.
 {% fact "le héros est devenu indétectable par le spectre il ya quelques semaines" %}
 
-En espionnant Andrea et ses recherches historico-ésotériques, de vieilles craintes vous ont repris. Il était question d'une ancestrale **vengeance des peuples armoricains vaincus**, envers l'envahisseur romain ; de **{% symbol "Dis Pater" for "nom_du_dieu_infernal" %}**, l'antique Dieu de la mort des Celtes ; d'un guerrier titanesque en gestation dans un oeuf mystique ; et d'horribles conséquences si les rites d'accompagnement n'étaient pas respectés...
+En espionnant Andrea et ses recherches historico-ésotériques, de vieilles craintes vous ont repris. Il était question d'une ancestrale **vengeance des peuples armoricains vaincus**, envers l'envahisseur romain ; de **{% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}**, dieu celtique sanguinaire ; d'un guerrier titanesque en gestation dans un oeuf mystique ; et d'horribles conséquences si les rites d'accompagnement n'étaient pas respectés...
 
-Quelle abominable prophétie était donc en cours de réalisation ? Votre grand espoir, en réalité, c'était que ce processus initié il y a 2 millénaires ne se termine qu'après votre propre génération. À chacun ses problèmes, quoi.
+Quelle abominable prophétie était donc en cours de réalisation ? Votre grand espoir, en réalité, c'était que ce processus, initié il y a 2 millénaires, ne se termine qu'après votre propre génération. À chacun ses problèmes, quoi.
 
 Le jour du drame
 ==================
@@ -54,7 +54,7 @@ Quand vous avez repris vos esprits, le jeune homme gisait devant les artefacts, 
 
 [BR]
 
-Vous avez suivi ces instructions à la lettre, et êtes parti vous mêler aux notables, dans une cérémonie de remise de prix littéraires, le **concours Maurice Genevoix**, à l'autre bout de la ville ; vous êtes arrivé discrètement vers **{% symbol "10h" for "arrivée_conservateur_à_cérémonie_le_jour_j" %}, plus d'une heure après qu'elle ait commencé**, mais vous avez caché ce détail lors du cocktail qui a suivi. Malgré votre cerveau sens dessus dessous, vous avez à peu près réussi à donner le change **auprès du bourgmestre, du grand-maître du conservatoire, de l'autrice dramatique Jeanne Lubeck…** en théorie.
+Vous avez suivi ces instructions à la lettre, et êtes parti vous mêler aux notables, dans une cérémonie de remise de prix littéraires, le **concours Maurice Genevoix**, à l'autre bout de la ville ; vous êtes arrivé discrètement vers **{% symbol "10h" for "arrivée_conservateur_à_cérémonie_le_jour_j" %}, plus d'une heure après qu'elle ait commencé**, mais vous avez caché ce détail lors du cocktail qui a suivi. Malgré votre cerveau sens dessus dessous, vous avez à peu près réussi à donner le change **auprès du bourgmestre, du grand-maître du conservatoire, de l'autrice dramatique Jeanne Lubeck**... en théorie.
 
 Lorsque vous êtes revenu à la bibliothèque, peu avant midi, aucun gendarme n'était en vue. Le guide et les habitués vaquaient à leurs occupations. Aucun corps dans la salle des artefacts.
 S'il n'y avait eu la tache de sang sombre au sol, dissimulée sous un fauteuil déplacé, vous auriez juré avoir rêvé.

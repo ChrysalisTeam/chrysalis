@@ -13,12 +13,12 @@ Le légat divise alors ses deux légions en trois camps, largement espacés, dan
 
 Les Gaulois piégés à l'intérieur de l'oppidum, ayant pour certains connu la rudesse de la famine du désastreux siège d'Alesia (où Lucterios avait été présent), entreprennent alors de sortir pour se procurer de la nourriture et des provisions. Lucterios et Drappès laissent en sécurité une garnison d'environ 2 000 hommes à l'intérieur d'Uxellodunum, en prenant le reste de leur force (quelques milliers d'hommes) pour se ravitailler. En plusieurs jours, ils réussissent à rassembler une grande quantité de vivres dans le pays cadurque environnant, en s'attelant à attaquer régulièrement les positions fortifiées romaines pour couvrir leur sortie.
 
-Caninius Rebilus, apprenant la tentative, déploie alors une partie de ses forces contre le convoi, et le disperse en faisant de nombreuses victimes et captifs. Dans la lutte, Lucterios prend la fuite, et Drappès qui avait son camp non loin, est capturé.
-Revenant à ses positions d'encerclement, Caninius Rebilus fait alors intensifier les travaux de siège autour de la place forte. Avec les renforts arrivés entretemps, les forces romaines s'élèvent alors à un peu plus de quatre légions, assez pour encercler complètement.
+Caninius Rebilus, apprenant la tentative, déploie alors une partie de ses forces contre le convoi, et le disperse en faisant de nombreuses victimes et captifs. Dans la lutte, Lucterios prend la fuite, et Drappès qui avait son camp non loin est capturé.
+Revenant à ses positions d'encerclement, Caninius Rebilus fait alors intensifier les travaux de siège autour de la place forte. Avec les renforts arrivés entretemps, les forces romaines s'élèvent alors à un peu plus de quatre légions, assez l'pour encercler complètement.
 
 César apprend, pendant ce temps, que Caninius Rebilus fait face à la révolte des Cadurques et des Sénons. Il se met en route pour châtier en personne la rébellion, afin de briser toutes velléités de rébellion ultérieures. Traversant à une vitesse éclair la région, à la tête de sa cavalerie, et suivi plus loin par deux légions à pied, il arrive à Uxellodunum.
 
-La place est alors totalement encerclée. Mais face à l'aspect inexpugnable des murailles naturelles de la place, et face aux réserves importantes des assiégés, César décide de ne pas mener d'assaut frontal. Il entreprend de couper les assiégés de leur approvisionnement en eau ; et fait réaliser des galeries pour se rapprocher, par le sous-sol, de la principale source.
+Face aux murailles naturelles de la place, et face aux réserves importantes des assiégés, César décide de ne pas mener d'assaut frontal. Il entreprend de couper les rebelles de leur approvisionnement en eau ; et fait réaliser des galeries pour se rapprocher, par le sous-sol, de la principale source.
 
 Les assiégés réagissent en tentant d'incendier l'ensemble de l'édifice de siège romain : ils remplissent des tonneaux de suif, de poix et de bois sec, les enflamment et les font rouler sur les structures terrassées des Romains. Mais cela ne suffit pas. Bientôt, l'armée romaine tarit la source, et les assiégés, contraints par la soif, se rendent.
 
@@ -42,7 +42,7 @@ Parmi eux se trouvaient une poignée de druides, qui usèrent de leurs pouvoirs 
 
 Lorsque la citadelle naturelle tomba, ces druides s'enfuirent dans une grotte non loin, avec quelques rescapés. Et de désespoir, ils usèrent d'une magie interdite, sacrifiant leur vie afin que l'âme du peuple gaulois puisse survivre à l'inexorable avancée des légions romaines.
 
-Beaucoup de versions existent et se contredisent sur le contenu de cette invocation. Mais toutes mentionnent Dis Pater, un dieu des Enfers antiques ; ainsi qu'un ensemble d'artefacts - parmi lesquels des armes romaines et un grimoire - qui auraient servi de réceptacle, de conteneur, à ce rituel.
+Beaucoup de versions existent et se contredisent sur le contenu de cette invocation. Mais toutes mentionnent {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, dieu guerrier et père du peuple gaulois ; ainsi qu'un ensemble d'artefacts - parmi lesquels des armes romaines et un grimoire - qui auraient servi de réceptacles, de conteneurs, à ce rituel.
 
 Un descendant du chevalier Bertrand du Guesclin (14e siècle) s'est vanté, dans ses mémoires, d'avoir eu la garde de ce qu'il appelle le **"Dernier Voeu des Druides"**.
 

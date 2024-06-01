@@ -1,13 +1,21 @@
 
+"Joueurs":
+  - "Papiers et stylos pour les greffiers"
+  - "Accessoires-marqueurs pour les psykers"
+
+"Figurants":
+  - "Chevalière pour le guide"
+  - "Bandage sanglant au poignet pour le conservateur"
+
 "Trésor du musée":
-  - 'maquette de Cromlech et de portail magique {% item "maquette de Cromlech et de portail magique " is provided %}'
-  - 'tablette de défixion {% item "tablette de défixion" is provided %}'
-  - 'grimoire scellé à couverture de bois {% item "grimoire scellé à couverture de bois" is provided %}'
-  - 'armure, casque et bouclier romains {% item "armure, casque et bouclier romains" is provided %}'
-  - 'crâne optionnel pour le casque romain {% item "crâne optionnel pour le casque romain" is provided %}'
-  - 'Coffre en bois avec cadenas à 4 chiffres {% item "Coffre en bois avec cadenas à 4 chiffres" is provided %}'
-  - 'cryptex contenant le parchemin médiéval des sigles gaulois {% item "cryptex contenant le parchemin médiéval des sigles gaulois" is provided %}'
-  - 'papier résumant le rituel d''ablution {% item "papier résumant le rituel d''ablution" is provided %}'
-  - 'papier avec les symboles de la mythologie gauloise {% item "symboles de mythologie gauloise" is provided %}'
-  - 'lettre medievale sur les runes du cromlech {% item "lettre medievale sur les runes du cromlech" is provided %}'
+  - 'Maquette de Cromlech et de portail magique {% item "maquette de Cromlech et de portail magique " is provided %} IMPORTANT'
+  - 'Tablette de défixion {% item "tablette de défixion" is provided %} IMPORTANT'
+  - 'Grimoire scellé à couverture de bois {% item "grimoire scellé à couverture de bois" is provided %} IMPORTANT'
+  - 'Armure, casque et bouclier romains {% item "armure, casque et bouclier romains" is provided %}'
+  - 'Crâne optionnel pour le casque romain {% item "crâne optionnel pour le casque romain" is provided %}'
+  - 'Coffre en bois avec cadenas à 4 chiffres {% item "Coffre en bois avec cadenas à 4 chiffres" is provided %} IMPORTANT'
+  - '??????? Papier résumant le rituel d''ablution {% item "papier résumant le rituel d''ablution" is provided %} IMPORTANT'
+  - 'Cryptex contenant le parchemin médiéval des sigles gaulois {% item "cryptex contenant le parchemin médiéval des sigles gaulois" is provided %} IMPORTANT'
+  - 'Papier avec les symboles de la mythologie gauloise {% item "symboles de mythologie gauloise" is provided %} IMPORTANT'
+  - 'Lettre médiévale expliquant les runes du cromlech {% item "lettre medievale expliquant les runes du cromlech" is provided %} IMPORTANT'
 

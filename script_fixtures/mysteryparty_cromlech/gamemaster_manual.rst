@@ -33,19 +33,19 @@ Histoire complète (SPOILERS)
 ===================================
 
 *Ce jeu reprend l'ambiance (mais pas le lore) de Lovecraft et du Mythe de Cthulhu.
-L'action des joueurs se déroule dans bibliothèque à première vue banale, mais qui renferme des artefacts de la civilisation gallo-romaine.*
+L'action des joueurs se déroule dans bibliothèque à première vue banale, mais qui renferme des artefacts maudits issus de la civilisation gallo-romaine.*
 
 Dans l'antiquité, suite à la défaite d'Alésia (52 av. J.-C), les Gaulois ont été conquis par Jules César. Mais pas tous. Des tribus rebelles ont continué le combat, et se sont réfugiées dans l'oppidum d'Uxellodunum (dans les massifs du Quercy). Affamés par le siège des Romains, ils ont fini par se rendre à leur tour.
 
-Mais quelques druides, venus d'Armorique, ont mis en place une ultime vengeance. Réfugiés avec des fuyards dans une grotte, ils ont invoqué par de sombres maléfices leur dieu de la mort pour faire naître un guerrier mythique, qui renverserait le cours des choses et leur apporterait la victoire.
+Mais quelques druides, venus d'Armorique, ont mis en place une ultime vengeance. Réfugiés avec des fuyards dans une grotte, ils ont invoqué par de sombres maléfices leur dieu tutélaire ; avec pour objectifs de faire naître un guerrier mythique, qui renverserait le cours des choses et leur apporterait la victoire.
 
-Cependant, la gestation de cette entité s'est avérée plus longue et complexe que prévu. Les conditions, ablutions et rituels - nécessaires au bon déroulement de l'opération - ont été maintes fois interrompus au long de l'Histoire.
+Cependant, la gestation de cette entité s'est avérée plus longue et complexe que prévue. Les ablutions et rituels - nécessaires au bon déroulement de l'opération - ont été maintes fois interrompus au long de l'Histoire.
 
-Si bien qu'au 21e siècle, cette créature légendaire ne s'est toujours pas incarnée. Les artefacts portant l'envoûtement (grimoire, glaive, mini-dolmen…) sont désormais "cachés en plein jour", dans une insolite bibliothèque-musée servant surtout d'espace de travail aux étudiants du coin. Afin d'éviter les ennuis juridiques, le gérant des lieux, le "Conservateur", fait passer ces pièces de musée pour de simples répliques.
+Si bien qu'au 21e siècle, cette créature légendaire ne s'est toujours pas incarnée. Les artefacts portant l'envoûtement (grimoire, glaive, maquette de cromlech…) sont désormais "cachés en plein jour", dans une insolite bibliothèque-musée servant surtout d'espace de travail aux étudiants du coin. Afin d'éviter les ennuis juridiques, le gérant des lieux, le "Conservateur", fait passer ces pièces de musée pour de simples répliques.
 
-Mais un jeune "Héros", enfant d'un diplomate italien et passionné par l'ésotérisme antique, est sur la piste de cette invocation. Il espionne discrètement le musée, cherchant à savoir qui est au courant de ce phénomène, et qui est ami ou ennemi. Au passage, il se lie d'amitié avec un jeune étudiant reporter, qu'il met en partie dans le secret.
+Mais un jeune "Héros", enfant d'un diplomate italien et passionné par l'ésotérisme antique, est sur la piste de cette invocation. Il espionne discrètement le musée, cherchant à savoir qui est au courant de ce phénomène, et qui est ami ou ennemi. Au passage, il se lie d'amitié avec un étudiant reporter, qu'il met en partie dans le secret.
 
-Le jour J, à l'aube, ce Héros surprend le Conservateur du musée qui pratique des rituels magiques sur les artefacts. La confrontation tourne à la bagarre. Le héros se défend avec le glaive gaulois, blessant son adversaire à la main gauche. Excédé, le Conservateur lui tire en plein ventre ; puis il le laisse gisant près des artefacts, le pistolet en main - pour faire croire à un suicide - avant de s'enfuir pour s'afficher en public à un évènement mondain.
+Le jour J, à l'aube, le Héros surprend le Conservateur du musée qui pratique des rituels magiques sur les artefacts. La confrontation tourne à la bagarre. Le héros se défend avec le glaive gaulois, blessant son adversaire à la main gauche. Excédé, le Conservateur lui tire en plein ventre ; puis il le laisse gisant près des artefacts, le pistolet en main - pour faire croire à un suicide - avant de s'enfuir pour s'afficher en public à un évènement mondain. {% fact "le conservateur a été blessé à la main gauche par le héros" %} {% fact "le conservateur a tiré au pistolet sur le héros" %}
 
 Lorsque la bibliothèque-musée ouvre à l'heure habituelle, rien d'anormal n'est remarqué. Le Guide-bibliothécaire qui gère les lieux s'émeut juste d'une énorme "tache d'encre" près des artefacts.
 
@@ -59,24 +59,22 @@ Ils reçoivent des points de vue très différents, contradictoires, sur la bibl
 Plus ils sont loin dans cette rotation des interrogatoires, plus les indices ont afflué entretemps, et donc plus ils sont à même de "coincer" un témoin. Chaque groupe aura donc un accès différent aux informations cruciales et aux révélations fracassantes.
 L'inspecteur de police intervient ponctuellement, pour pointer du doigt un détail troublant ou une contradiction.
 
-Pendant tout ce temps, des phénomènes inquiétants commencent à se manifester (sonores, lumineux…). Car le héros s'est en réalité soigné grâce à un **potion/parchemin(?) magique??????**, et est parti affronter le Monstre naissant avant qu'il ne soit trop tard, dans une réalité parallèle accessible via le mini-dolmen.
-Un spectre de Druide se manifeste auprès de certains joueurs (les psykers) pour les affaiblir psychiquement, ou pour les monter contre le Héros, en mentant sur la gestation en cours - qui est en réalité devenue irrémédiablement incontrôlable et démoniaque.
+Pendant tout ce temps, des phénomènes inquiétants commencent à se manifester (sonores, lumineux…). Car le héros s'est en réalité soigné grâce à un **potion/parchemin(?) magique TODO??????**, et est parti affronter le Monstre naissant avant qu'il ne soit trop tard, dans une réalité parallèle accessible via le mini-dolmen.
+Un spectre de Druide se manifeste auprès de certains joueurs (les psykers) pour les monter contre le Héros, en mentant sur la gestation en cours - qui est en réalité devenue irrémédiablement incontrôlable et démoniaque.
 
 Il existe deux fins différentes, suivant que les joueurs prennent majoritairement parti pour le Reporter (en faveur du Héros), ou pour le Conservateur (en faveur du Druide et du Monstre) :
 
-- Soit le héros terrasse la bête en gestation et revient dans le monde des vivants
-- Soit le Héros échoue et s'enfuit, des catastrophes naturelles (d'oigine démoniaque) se déversent alors sur Rome et le reste de l'Italie.
+- Soit le héros terrasse la bête en gestation et revient dans le monde des vivants ; le monde est alors sauvé.
+- Soit le Héros échoue, s'enfuit, des catastrophes naturelles (d'oigine démoniaque) se déversent alors sur Rome et le reste de l'Italie.
 
 **Important :**
 
 Il y a volontairement une certaine ambiguïté dans ce qui est le "bon" choix final pour les joueurs.
 Mais ils disposent de quelques indices pour les aider à trancher :
 
-**TODO A VERIFIER ?????**
-
-- Leur fiche de personnage indique que les phénomènes volcaniques anormaux en Italie ont commencé depuis longtemps
-- L'attitude du Héros laisse entendre qu'il se sentait réellement en danger
-- L'analyse des artefacts indique un lien avec Dis Pater, le dieu infernal des gaulois
+- Leur fiche de personnage indique que les phénomènes volcaniques anormaux en Italie ont commencé depuis longtemps, à peu près au moment où le conservateur a récupéré les artefacts ;
+- L'attitude du Héros laisse entendre qu'il se sentait réellement en danger depuis le début de son enquête ;
+- L'étude des artefacts indique un lien avec {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, le dieu-guerrier sanguinaire des gaulois, et une répulsion envers les dieux plus pacifiques du panthéon celtique.
 
 
 
@@ -102,18 +100,18 @@ L'inspecteur.trice de police
 Description du "trésor" du musée
 ---------------------------------
 
-Lorsque c'est leur tour, au lieu d'interroger un des témoins, les joueurs vont inspecter les artefacts antiques du Cromlech.
+Lorsque c'est leur tour, au lieu d'interroger un des témoins, les joueurs vont inspecter les artefacts antiques du musée.
 
 Un **expert en archéologie** peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents.
 
-Les différents artefacts présents pour les joueurs :
+En réalité :
 
-- La maquette de Cromlech est le center névralgique de la malédiction ; il contient un autel diffusant des écliars, et un portail magique menant au monde parallèle. Les symboles de 3 divinités gauloises bénéfiques sont gravés sur le cercle de pierres. {% item "maquette de Cromlech et de portail magique" is needed %}
-- L'armure, le casque et le bouclier romain sont en réalité des offrandes pour l'invocation des druides. Le glaive, lui, a été emporté par le Héros dans le monde parallèle. Le casque peut contenir un crâne (encorcelé ?), si le public est assez mature. {% item "armure, casque et bouclier romains" is needed %} {% item "crâne optionnel pour le casque romain" is needed %}
-- Le grimoire est en fait impossible à ouvrir, comme "collé" ; il est là principalement pour l'ambiance. {% item "grimoire scellé à couverture de bois" is needed %}
+- La maquette de Cromlech est le centre névralgique de la malédiction ; il contient un autel diffusant des éclairs, et un portail magique menant au monde parallèle dan lequel l'entité divine se développe. Les symboles de 3 divinités gauloises bénéfiques sont gravés sur le cercle de pierres. {% item "maquette de Cromlech et de portail magique" is needed %}
+- L'armure, le casque et le bouclier romain sont en réalité des offrandes pour l'invocation des druides. Le glaive, lui, a été emporté par le Héros dans le monde parallèle. Le casque peut contenir un crâne (ensorcelé ?), si le public est assez mature. {% item "armure, casque et bouclier romains" is needed %} {% item "crâne optionnel pour le casque romain" is needed %}
+- Le grimoire est en fait factice, impossible à ouvrir ; il est là principalement pour l'ambiance. {% item "grimoire scellé à couverture de bois" is needed %}
 - Un coffre en bois, avec un cadenas à 4 chiffres, est présent. Il contient les éléments suivants. {% item "Coffre en bois avec cadenas à 4 chiffres" is needed %}
 
-    - Une tablette de défixion (= de sortilège) avec le sigle du dieu gaulois de la guerre et de la mort.  {% item "tablette de défixion" is needed %}
+    - Une tablette noire de défixion (= de sortilège) avec le sigle du dieu gaulois de la guerre.  {% item "tablette de défixion" is needed %}
     - Un papier moderne décrivant le rituel d'ablution.  {% item "papier résumant le rituel d'ablution" is needed %}
     - Un cryptex contenant le parchemin médiéval des sigles gaulois.  {% item "cryptex contenant le parchemin médiéval des sigles gaulois" is needed %}
 
@@ -130,19 +128,19 @@ Les principaux sujets d'enquête sont :
 
 Les interrogatoires en rotation se déroulent ainsi :
 
-- Le commissaire de police briefe les joueurs sur la situation et leur rôle, et leur donne un rapport d'enquête initial
-- Les 4 groupes de joueurs tournent, dans l'ordre, entre les 4 points d'intérêt, à raison de 15 minutes sur chacun : Guide, Reporter, Conservateur, et Trésor du musée
-- Au moment de chaque rotation, les rapports reçoivent un complément d'enquête, permettant d'être davantage en position de force lors de la rencontre suivante
-- L'inspecteur de police tourne entre les points d'intérêts et y fait des interventions scriptées durant ces interrogatoires, afin d'ajouter du roleplay et des indices.
-- Le spectre de druide intervient aussi ponctuellement.
+- Le commissaire de police briefe les joueurs sur la situation et leur rôle, et leur donne un rapport d'enquête initial ;
+- Les 4 groupes de joueurs tournent, dans l'ordre, entre les 4 points d'intérêt, à raison de 15 minutes sur chacun : Guide, Reporter, Conservateur, et Trésor du musée ;
+- Au moment de chaque rotation, les rapports reçoivent un complément d'enquête, permettant d'être davantage en position de force lors de la rencontre suivante ;
+- L'inspecteur de police tourne entre les points d'intérêts et y fait des interventions scriptées durant les interrogatoires, afin d'ajouter du roleplay et des indices;
+- Le spectre de druide intervient aussi ponctuellement ;
 
 Une fois la rotation complète finie, les joueurs sont dispersés en fonction de leur "rôle" :
 
 - Les "greffiers" sont rassemblés par le Commissaire pour échanger sur les résultats de leurs investigations
--  Les "psykers" sont briefés par le Druide qui les rend complices de la scène finale (avec des maquillages rapides simulant une possession démoniaque)
--  Le reste des joueurs se regroupe avec l'inspecteur de police auprès du Trésor, reçoit quelques indices supplémentaires, et voit les premières manifestations paranormales du dénouement qui approche.
+- Les "psykers" sont briefés par le Druide qui les rend complices de la scène finale (avec des maquillages rapides simulant une possession démoniaque)
+- Le reste des joueurs se regroupe avec l'inspecteur de police auprès du Trésor, reçoit quelques indices supplémentaires (??? TODO), et voit les premières manifestations paranormales du dénouement qui approche.
 
-Lorsque les phénomènes paranormaux s'amplifient, les deux camps en présence hèlent les joueurs, qui doivent choisir entre l'un ou l'autre, et faire basculer la fin vers un dénouement heureux ou malheureux.
+Lorsque les phénomènes paranormaux s'amplifient, les deux camps en présence hèlent les joueurs, qui doivent choisir l'un ou l'autre, et ainsi faire basculer la fin du jeu vers un dénouement heureux ou malheureux.
 
 
 Étapes de l'enquête

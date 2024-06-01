@@ -32,9 +32,9 @@ Sculpture de Cromlech
 
 Cette maquette a été sculptée dans de la pierre et du bois.
 
-Elle comporte une sorte de porte en bois, et un autel en pierre noire.
+Elle comporte en son centre une sorte de porte en bois, et un autel en pierre noire.
 
-6 ruens sont gravées sur les pierres du niveau supérieur.
+6 runes sont gravées sur les portants en pierre de l'enceinte.
 
 Datation approximative : 50 av. J.-C.
 
@@ -45,27 +45,15 @@ Ce coffret est de construction bien plus récentes.
 
 Deux pinces ont été cassées en tentant de couper son cadenas, c'est du jamais vu.
 
-Datation approximative : An 1900 ?????????????????????????
+Datation approximative : il y a 10 ans de cela.
 
 
 Artefacts cachés
 --------------------
 
-*Voici les indications à donner, après simulation de l'étude de ces objets, une fois que les joueurs les ont trouvés.*
+*Voici les indications à donner, après avoir simulé l'étude de ces objets, une fois que les joueurs les ont trouvés.*
 
-Le cryptex : semble dater de l'époque médiévale. Son "mot" de passe" est inconnu.
+Le cryptex cylindrique en métal : semble dater de l'époque médiévale. Son "mot de passe" est inconnu.
 
 Le parchemin contenu dans le cryptex : lui aussi médiéval, il semble faire référence à Bertrand du Guesclin, né vers 1320 et mort en 1380. C'était un noble breton, connétable de France et de Castille, personnage majeur de la première partie de la guerre de Cent Ans.
-
-
-
-
-WIP OLDIES :
-
-Le grimoire contient une écriture runique inconnue, mais de nombreux symboles sont issus des religions druidiques de l'antiquité.
-Les rares illustrations évoquent l'histoire d'un "oeuf divin" qui grossirait constamment sous l'influence du "souffle des vivants", et d'un guerrier chimérique qui menerait une "froide vengeance contre les envahisseurs".
-
-Le fourreau du glaive est gravé de symboles laissant penser qu'il était plutôt destiné à des sacrifices rituel, mais son intérieur intact de toute contamination extérieure indique qu'il n'a quasiment jamais servi.
-
-Le dolmen est fondu dans une matière inconnue, similaire à un cristal de nacre mais d'une densité exceptionnelle. Les éléments végétaux qui le composent sont de la pharmacopée sacrée des druides (guis....)
 

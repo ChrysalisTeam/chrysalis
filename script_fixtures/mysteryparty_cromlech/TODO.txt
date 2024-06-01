@@ -1,11 +1,25 @@
 
 
-Remplacer "Olloudios" etc par SYMBOL tags!!
 
-Enlever Thaon partout
 
 Remplacer père de Andrea par mère, diplomate italienne !!
 
-Manque decription de la chevaliere magique
+Manque description/usage de la chevaliere magique ???
 
-Manque la description archéologique du trésor du musée
+dolmen ?? dis pater ? mort ? père ?
+
+**potion/parchemin(?) magique TODO??????**,
+
+Les “psykers” sont briefés par le Druide qui les rend complices de la scène
+finale <<< à écrire
+
+Code du coffre et du cryptex ???
+
+
+TRASH
+=================
+
+Remplacer "Olloudios" etc par SYMBOL tags!!  bof
+
+Enlever Thaon partout  DONE
+Manque la description archéologique du trésor du musée ?  DONE

@@ -1,25 +1,25 @@
 SPECTRE DU DRUIDE
 ######################
 
-*Lisez les fiches des autres figurants afin d'avoir une bonne vision de ce qui s'est passé récemment autour de la bibliothèque-musée appelée "Cromlech".*
+**Lisez d'abord les fiches des autres figurants afin d'avoir une bonne vision de ce qui s'est passé récemment autour de la bibliothèque-musée appelée "Cromlech".**
 
 Votre histoire
 =====================
 
 Vous êtes Olloudios. Vous faisiez partie des druides qui ont mis en marche, il y a 2 millénaires, la gestation d'un **guerrier divin** capable de sauver les peuples gaulois contre l'invasion romaine.
 
-Puis vous êtes volontairement devenu un fantôme, afin de veiller sur cette gestation. Vous conseillez, de génération en génération, la dynastie chargée de protéger les artefacts antiques renfermant l'entité divine.
+Puis vous êtes volontairement devenu un fantôme, afin de veiller sur cette gestation. Vous conseillez, de génération en génération, la dynastie chargée de protéger les artefacts antiques qui renferment l'entité divine.
 
 Mais cette gestation a été chaotique, irrégulière, au long de siècles ; et aujourd'hui les artefacts sont mis en danger à cause de la curiosité de ce maudit **Andréa di Revel**.
 
 Vos actions au long de l'enquête
 ====================================
 
-Vous avez aidé le Conservateur à agir au mieux suite à sa bavure (voir sa feuille de personnage).
+Vous avez aidé le Conservateur à agir au mieux suite à sa bavure envers Andréa (voir sa feuille de personnage).
 
 Vous vous êtes absenté pour vous ressourcer dans vos "limbes" spirituelles, mais à votre retour le corps d'Andréa avait disparu… tout comme le glaive. {% fact "le glaive antique a disparu le jour j" %}
 
-Depuis, vous le cherchez un peu partout, craignant qu'il ne soit passé dans le **domaine inter-monde** où l'entité se développe ; mais ce domaine est vaste, et Andréa sait déjouer votre flair.
+Depuis, vous les cherchez un peu partout, craignant qu'ils ne soit passés dans le **domaine inter-monde** où l'entité se développe ; mais ce domaine est vaste, et Andréa sait déjouer votre flair.
 
 Dans le monde réel, des détectives privés sont arrivés sur les lieux ; mais à votre grand étonnement, vous allez découvrir qu'eux aussi vous voient, et vous entendent (mais dans votre langue d'origine, voir https://www.youtube.com/watch?v=Wc22W3bos64 pour des exemples de sonorité).
 
@@ -32,7 +32,7 @@ Votre objectif est de monter les joueurs contre Andréa et ses alliés, en menta
 
 Lors de la scène finale, vous haranguez les joueurs (en langue celte, avec de grands gestes) pour qu'ils fassent avec vous le **"signe des druides"** face aux artefacts : une forme de menhir avec les bras et les mains, devant soi.
 
-Ce sera une façon de donner leur énergie à l'entité divine, afin qu'elle puisse terrasser le Héros venu la combattre avec le glaive antique.
+Ce sera une façon pour eux de donner leur énergie à l'entité divine, afin qu'elle puisse terrasser le Héros venu la combattre avec le glaive antique.
 {% fact "le druide connait le signe des druides" %}
 
 @@@ **TODO A CONTINUER** @@@

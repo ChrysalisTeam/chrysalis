@@ -6,8 +6,8 @@
 
 # Hierarchical jinja2 variables, can be extended/overridden at various level
 "variables":
-  "game_title": "Le dernier vœu des druides"
-  "game_subtitle": "Un jeu-mystère pour tout public"
+  "game_title": "Le Dernier Vœu des Druides"
+  "game_subtitle": "Un jeu-mystère en 2h pour tout public"
 
 "summary_generation":
   "game_facts_template": "summaries/game_facts_summary.txt"
