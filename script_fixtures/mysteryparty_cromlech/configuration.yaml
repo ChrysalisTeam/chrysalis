@@ -33,19 +33,16 @@
   "game_paper_clues":
     "document_source": "documents/clues_for_game.odt"
     "document_splitting":
-      - ["symboles_mythologie_gauloise", 1]
+      - ["symboles_de_mythologie_gauloise", 1]
       - ["lettre_medievale_sur_runes_du_cromlech", 1]
 
 "sheet_generation":
 
   "variables":
-    "intro_message": "This is a default introduction message for all sheets !"
-    "game_story_date": "March 13th, 1905"
 
   "sheets":
     "gamemaster_manual":
       "variables":
-        "world_name": "Pangea"
       "settings":
         "rst2pdf_extra_args": "--stylesheets=layout_large_fonts,with_cover_and_background"
       "full_sheet": "gamemaster_manual.rst"
@@ -55,7 +52,7 @@
 
     "non_playable_characters":
       "variables":
-        "intro_message": "This is an introduction message visible to all NON-PLAYABLE character sheets !"
+
       "sheets":
         "conservateur_du_musee":
           "full_sheet":
@@ -65,7 +62,7 @@
             - "characters/guide_du_musee.rst"
         "reporter":
           "full_sheet":
-            - "characters/reporter.rst"
+            - "characters/etudiant_reporter.rst"
         "spectre_du_druide":
           "full_sheet":
             - "characters/spectre_du_druide.rst"
