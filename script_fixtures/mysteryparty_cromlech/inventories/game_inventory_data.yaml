@@ -14,3 +14,12 @@
 "Abandoned house":
   - "@WEAPONS Old long bow"
   - "@POTIONS-AND-SCROLLS Old potion of health"
+
+"Trésor du musée":
+  - 'maquette de Cromlech et de portail magique {% item "maquette de Cromlech et de portail magique " is provided %}'
+  - 'grimoire scellé à couverture de bois {% item "grimoire scellé à couverture de bois" is provided %}'
+  - 'armure, casque et bouclier romains {% item "armure, casque et bouclier romains" is provided %}'
+  - 'crâne optionnel pour le casque romain {% item "grimoire scellé à couverture de bois" is provided %}'
+  - 'Coffre en bois avec cadenas à 4 chiffres {% item "Coffre en bois avec cadenas à 4 chiffres" is provided %}'
+  - 'cryptex contenant le parchemin médiéval des sigles gaulois {% item "cryptex contenant le parchemin médiéval des sigles gaulois" is provided %}'
+  - 'papier résumant le rituel d''ablution {% item "papier résumant le rituel d''ablution" is provided %}'

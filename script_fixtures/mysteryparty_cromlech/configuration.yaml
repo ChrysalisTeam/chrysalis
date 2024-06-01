@@ -33,8 +33,8 @@
   "game_paper_clues":
     "document_source": "documents/clues_for_game.odt"
     "document_splitting":
-      - ["recipes_of_potions", 2]
-      - ["useless_secret_messages", 1]
+      - ["symboles_mythologie_gauloise", 1]
+      - ["lettre_medievale_sur_runes_du_cromlech", 1]
 
 "sheet_generation":
 

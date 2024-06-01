@@ -110,7 +110,7 @@ Les différents artefacts présents pour les joueurs :
 
 - La maquette de Cromlech est le center névralgique de la malédiction ; il contient un autel diffusant des écliars, et un portail magique menant au monde parallèle. Les symboles de 3 divinités gauloises bénéfiques sont gravés sur le cercle de pierres. {% item "maquette de Cromlech et de portail magique" is needed %}
 - L'armure, le casque et le bouclier romain sont en réalité des offrandes pour l'invocation des druides. Le glaive, lui, a été emporté par le Héros dans le monde parallèle. Le casque peut contenir un crâne (encorcelé ?), si le public est assez mature. {% item "armure, casque et bouclier romains" is needed %} {% item "crâne optionnel pour le trésor" is needed %}
-- Le grimoire est réputé impossible à ouvrir, comme "collé" ; il est là principalement pour l'ambiance. {% item "grimoire à couverture de bois, scellé" is needed %} {% item "crâne optionnel pour le casque romain" is needed %}
+- Le grimoire est réputé impossible à ouvrir, comme "collé" ; il est là principalement pour l'ambiance. {% item "grimoire scellé à couverture de bois" is needed %} {% item "crâne optionnel pour le casque romain" is needed %}
 - Un coffre en bois, avec un cadenas à 4 chiffres, est présent. Il contient les éléments suivants. {% item "Coffre en bois avec cadenas à 4 chiffres" is needed %}
 
     - Une tablette de défixion (= de sortilège) avec le sigle du dieu gaulois de la guerre et de la mort.  {% item "tablette de défixion" is needed %}
