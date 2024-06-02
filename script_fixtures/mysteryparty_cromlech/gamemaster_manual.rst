@@ -196,7 +196,7 @@ Deuxième complément d'enquête
 - Le contenu de la cachette des Héros & Reporter, ainsi que le pistolet (où il manque une balle), ont été trouvés derrière un tas de vieux livres par des inspecteurs.
 - Les empreintes du Héros, et dessous celles du Conservateur, ont été relevées sur le pistolet.
 - Récupération au passage du rapport d'analyse qui avait été demandé par le Reporter.
-- Le contenu de la cachette comporte un journal de bord, et un message codé griffonné par le Héros.
+- Le contenu de la cachette comporte un journal de bord, et un message codé griffonné par le Héros. ?????
 
 Troisième entretien simultané
 ----------------------------------

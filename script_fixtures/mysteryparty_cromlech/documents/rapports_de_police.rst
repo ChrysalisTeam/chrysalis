@@ -7,7 +7,7 @@ Disparu : Andrea di Revel
 =============================
 
 - Nationalité : Italienne
-- Age : Inconnu
+- Année de naissance : 1880
 - Adresse : 13 impasse Dutabor, Lyon
 - Profession : Inconnue
 - Groupe sanguin : A+
@@ -19,7 +19,7 @@ Suspect #1 : Camille du Guesclin
 ====================================
 
 - Nationalité : Française
-- Age : Inconnu
+- Année de naissance : 1862
 - Adresse : 165 rue de la Boustifaille, Lyon
 - Profession : Avocat
 - Groupe sanguin : AB-
@@ -31,7 +31,7 @@ Suspect #2 : Eden Schmitt
 =============================
 
 - Nationalité : Française
-- Age : Inconnu
+- Année de naissance : 1873
 - Adresse : 45 bis avenue du Grand Pré, Lyon
 - Profession : Agent d’accueil
 - Groupe sanguin : O+
@@ -43,7 +43,7 @@ Suspect #3 : Ryan Parker
 =============================
 
 - Nationalité : Anglaise
-- Age : Inconnu
+- Année de naissance : 1881
 - Adresse : Résidence Jehan Louzack, Lyon
 - Profession : Etudiant en journalisme à la Faculté
 - Groupe sanguin : A-
@@ -86,6 +86,8 @@ Un de nos indics a lâché une piste : un glaive très ancien a été laissé, l
 
 Camille du Guesclin a bien été vu ce matin vers 10h30 par les journalistes du Gramophone Lettré, en train de discuter avec le Bourgmestre, lors du cocktail suivant la cérémonie de remise des prix littéraires Maurice Genevoix. La cérémonie elle-même, débutée à 9h, a rapidement été marquée par un esclandre quand l'auteur Eloi de Frontignan, furieux d'avoir perdu le concours romanesque, a tenté d'arracher la gerbe de fleurs des mains de la lauréate Lilie Dupain. Mais la suite des festivitée s'est déroulée sans encombre.
 
+Nous avons trouvé un papier caché dans la doublure du portefeuille de Camille du Guesclin. Il y est griffonné : *"indice : année de naissance renversée"*.
+
 Le sang épandu en salle des artefacts a été identifié comme étant de groupe sanguin A+.
 Il date de moins de 24h.
 
@@ -98,11 +100,9 @@ Complément d'enquête #2
 Nous avons obtenu le rapport de l'analyse du glaive, réalisée il y a un mois par un faussaire.
 Il atteste que cette pièce a été authentiquement forgée selon des techniques datant d'environ 2 millénaires, et propres aux légions romaines.
 
-Un revolver a été retrouvé dans la salle des artefacts, derrière un tas de livres.
-Il manque une balle dans le barillet.
-Les empreintes digitales d'Andrea di Revel ont été retrouvées sur la poignée, au-dessus d'autres empreintes qui semblent, elles, appartenir à Camille du Guesclin.
+Du matériel liturgique très ancien a été trouvé caché dans le bureau de Camille du Guesclin : toge en lin avec quelques traces de sang (groupe : AB-), coupe en argile à ablutions rituelles (encore humide), encensoir, branche de houx. Gravé sur l'encensoir, il est marqué : "le code du cryptex est {% symbol "secret" for "code du cryptex" %}".
 
-Une "lettre d'adieux" d'Andrea avait été mise aux Objets Trouvés du musée par Eden Schmitt, ce matin. Nous sommes en train de l'expertiser, et de tenter de déchiffrer le message codé qui est gribouillé sur son enveloppe.
+Une enveloppe égarée avait été mise aux Objets Trouvés du musée par Eden Schmitt, ce matin. Il s'agit d'une "lettre d'adieux" d'Andrea, où il annonce vouloir quitter ce monde. Nous sommes d'expertiser cette missive, et de déchiffrer le message codé qui est gribouillé sur son enveloppe.
 
 [PAGEBREAK]
 
@@ -110,7 +110,9 @@ Une "lettre d'adieux" d'Andrea avait été mise aux Objets Trouvés du musée pa
 Complément d'enquête #3
 ################################
 
-Du matériel liturgique très ancien a été trouvé caché dans le bureau de Camille du Guesclin : toge en lin avec quelques traces de sang (groupe : AB-), coupe en argile à ablutions rituelles (encore humide), encensoir, branche de houx…
+Un revolver a été retrouvé dans la salle des artefacts, derrière un tas de livres.
+Il manque une balle dans le barillet.
+Les empreintes digitales d'Andrea di Revel ont été retrouvées sur la poignée, au-dessus d'autres empreintes qui semblent, elles, appartenir à Camille du Guesclin.
 
 Le grimoire factice de la salle des artefacts émet depuis peu des vibrations, de plus en plus sensibles.
 
