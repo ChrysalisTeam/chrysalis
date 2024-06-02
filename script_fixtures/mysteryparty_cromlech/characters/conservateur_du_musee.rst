@@ -34,6 +34,9 @@ En espionnant Andrea et ses recherches historico-ésotériques, de vieilles crai
 
 Quelle abominable prophétie était donc en cours de réalisation ? Votre grand espoir, en réalité, c'était que ce processus, initié il y a 2 millénaires, ne se termine qu'après votre propre génération. À chacun ses problèmes, quoi.
 
+Note : certains indices-clés relatifs à cette malédiction sont dans de vieux coffrets imbriqués de la salle du Trésor ; ces objets sont, avec le temps, aussi devenus liés au rituel magique, vous n'avez donc pu les enlever ; mais vous avez caché leurs codes dans votre bureau. {% xfact "le conservateur connait les codes des coffrets de la salle au trésor" as author %}
+
+
 Le jour du drame
 ==================
 

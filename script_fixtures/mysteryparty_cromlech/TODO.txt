@@ -1,23 +1,30 @@
 
 
-Dire à conservateur les codes qu'il doit connaitre
+
+
 
 Manque description/usage de la chevaliere magique ???
-
-**potion/parchemin(?) magique TODO??????**,
 
 Les “psykers” sont briefés par le Druide qui les rend complices de la scène
 finale <<< à écrire
 
 Code du coffre et du cryptex ???  WIP
 
-Parchemin decrivant ablutions ou pas ???
+
 
 Mettre ETIQUETTES sur artefacts MAGIQUES, pour joueurs
 
 
 TRASH
 =================
+
+
+Dire à conservateur les codes qu'il doit connaitre
+ {% xfact "le conservateur connait les codes des coffrets de la salle au trésor" as author %}
+
+**potion/parchemin(?) magique ??????**,
+
+Parchemin decrivant ablutions ou pas ???  NOPE
 
 Remplacer père de Andrea par mère, diplomate italienne !!   DONE
 

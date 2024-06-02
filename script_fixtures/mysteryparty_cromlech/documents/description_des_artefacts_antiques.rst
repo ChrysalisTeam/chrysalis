@@ -41,11 +41,11 @@ Datation approximative : 50 av. J.-C.
 Coffret de bois
 ------------------------
 
-Ce coffret est de construction bien plus récentes.
+Ce coffret semble contenir des objets.
 
 Deux pinces ont été cassées en tentant de couper son cadenas, c'est du jamais vu.
 
-Datation approximative : il y a 10 ans de cela.
+Datation approximative : il y a 150 ans de cela.
 
 
 Artefacts cachés
