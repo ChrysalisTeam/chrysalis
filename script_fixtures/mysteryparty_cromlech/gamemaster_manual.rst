@@ -111,9 +111,8 @@ En réalité :
 - Le grimoire est en fait factice, impossible à ouvrir ; il est là principalement pour l'ambiance. {% xitem "grimoire scellé à couverture de bois" is needed %}
 - Un coffre en bois, avec un cadenas à 4 chiffres, est présent. Il contient les éléments suivants. {% xitem "Coffre en bois avec cadenas à 4 chiffres" is needed %}
 
-    - Une tablette noire de défixion (= de sortilège) avec le sigle du dieu gaulois de la guerre.  {% xitem "tablette de défixion" is needed %}
-    - Un papier moderne décrivant le rituel d'ablution.  {% xitem "papier résumant le rituel d'ablution" is needed %}
-    - Un cryptex contenant le parchemin médiéval des sigles gaulois.  {% xitem "cryptex contenant le parchemin médiéval des sigles gaulois" is needed %}
+    - Une {% item "tablette noire de défixion" is needed %} (= de sortilège) avec le sigle du dieu gaulois de la guerre.
+    - Un {% item "cryptex contenant le parchemin médiéval des symboles gaulois" is needed %}.
 
 
 

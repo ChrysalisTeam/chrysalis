@@ -9,7 +9,7 @@ Manque description/usage de la chevaliere magique ???
 Les “psykers” sont briefés par le Druide qui les rend complices de la scène
 finale <<< à écrire
 
-Code du coffre et du cryptex ???
+Code du coffre et du cryptex ???  WIP
 
 Parchemin decrivant ablutions ou pas ???
 

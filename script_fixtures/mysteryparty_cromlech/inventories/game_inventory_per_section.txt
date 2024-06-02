@@ -3,7 +3,7 @@ ALL GAME ITEMS
 
 {% for section_title, section_items in items_per_section.items() %}
 
-PLACE: {{section_title|dangerous_render|trim}}
+SECTION: {{section_title|dangerous_render|trim}}
 ===================================================================================================================
 
 {% for section_item in section_items %}
