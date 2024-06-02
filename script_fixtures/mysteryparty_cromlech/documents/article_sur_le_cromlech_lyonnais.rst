@@ -7,7 +7,7 @@ Découvrez le Cromlech de Lyon
 
 Le musée-blibliothèque appelé “Cromlech” est un lieu méconnu, mais intéressant à plus d'un titre.
 
-À la mort du vénérable {% symbol "Philippe du Guesclin" for "pere_du_conservateur" %}, son fils unique, Camille du Guesclin, s'est empressé de vider la cave du chateau familial.
+À la mort du vénérable {% symbol "Philippe du Guesclin" for "pere_du_conservateur" %}, son fils unique, {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}, s'est empressé de vider la cave du chateau familial.
 
 Il y a récolté assez de vieux livres et d'antiquités de diverses époques pour créer une sorte de grand "cabinet de curiosités", auquel il s'est consacré corps et âmes - en délaissant pour ce faire une prometteuse carrière d’avocat.
 

@@ -75,7 +75,7 @@ Décidément, la journée n'en finissait pas de mal commencer...
 Ce que vous savez sur le Guide
 ===================================
 
-**Eden Schmitt** est une jeune personne qui a arrêté les études après le bac, et tenté de nombreux petits boulots sans jamais les approfondir. Il a bricolé un faux CV pour décrocher un entretien avec vous ; vous l'avez immédiatement percé au jour, car le cursus qu'il décrit n'a jamais existé dans  l'Université citée. Mais il avait une certaine culture générale, de l'imagination, et un grand sens du service ; c'était ce qu'il vous fallait pour le job. {% xfact "Le guide avait menti dans son CV pour être embauché" %}
+**{% symbol "Eden Schmitt" for "nom_du_guide" %}** est une jeune personne qui a arrêté les études après le bac, et tenté de nombreux petits boulots sans jamais les approfondir. Il a bricolé un faux CV pour décrocher un entretien avec vous ; vous l'avez immédiatement percé au jour, car le cursus qu'il décrit n'a jamais existé dans  l'Université citée. Mais il avait une certaine culture générale, de l'imagination, et un grand sens du service ; c'était ce qu'il vous fallait pour le job. {% xfact "Le guide avait menti dans son CV pour être embauché" %}
 
 Ses visites du musée étaient initialement brodées au fil de l'eau, car il n'avait manifestement que peu de connaissances sur le sujet; mais il s'est rapidement amélioré, en apprenant en autodidacte l'Histoire antique.
 Il est charmant avec le public, cuisine bien (ses pâtisseries sont d'un grand secours pour votre moral), et fait preuve d'une rigueur tout juste suffisante dans le rangement des livres.

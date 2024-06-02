@@ -145,28 +145,25 @@ Lorsque les phénomènes paranormaux s'amplifient, les deux camps en présence h
 Rapport d'enquête initial
 --------------------------
 
-????? FIXME DEDUPLICATE THIS
-
 - Fiches d'identification des témoins de l'affaire.
-- Premiers relevés faits sur les lieux (disparition du glaive, accès disponibles sur les lieux, présence possible de sang, lettre d'adieux du Héros dans la cachette commune avec le Reporter ??????).
-- **Quoi d'autre ????????**
+- Premiers relevés faits sur les lieux : voies d'accès disponibles, tache de sang, disparition du glaive antique.
 
 Premier entretien simultané
 ----------------------------------
 
-Guide : détendu et jovial car il s'imagine qu'il s'agit juste d'un vol de la réplique de glaive ; raconte ses passions et découvertes récentes quant à l'antiquité gallo-romaine.
+Guide : relativement détendu et jovial, car il s'imagine qu'il s'agit juste d'un vol d'une réplique de glaive ; raconte ses passions et découvertes récentes quant à l'antiquité gallo-romaine.
 
-Reporter : raconte sa rencontre avec le Héros, et les indices troublants de la matinée (glaive antique disparu, trace rougeâtre au sol, absence de son ami au rendez-vous...).
+Reporter : raconte sa rencontre avec le Héros, et les indices troublants de la matinée (absence de son ami au rendez-vous, glaive antique disparu, trace rougeâtre au sol...).
 
 Conservateur : prétend avoir passé la matinée à une cérémonie publique et ne rien comprendre à toute cette affaire.
 
-Trésor : découverte des artefacts du musée, et de la {% symbol "potion de régénération" for "potion_de_guerison" %} (utilisée par le Héros).
+Trésor : découverte des artefacts du musée, et de la {% symbol "potion de régénération" for "potion_de_guerison" %} au sol (utilisée par le Héros).
 
 Premier complément d'enquête
 ----------------------------------
 
-- Informations sur une duplication de clef douteuse effectuée en ville, clef identique à celle du Guide et du Conservateur.
-- Informations sur l'analyse illicite d'un glaive antique par une personne semblable au Reporter (sans preuve).
+- Informations sur une duplication de clef douteuse effectuée en ville, clef identique à celle du Conservateur et du Guide.
+- Informations sur l'analyse illicite d'un glaive antique par une personne semblable à Andrea (sans preuve).
 - Informations sur le déroulement chaotique de la cérémonie publique où le Conservateur prétend avoir passé la matinée.
 - Analyse du sang (groupe sanguin, âge, volume…) de la salle au Trésor, montrant qu'il appartient au Héros.
 

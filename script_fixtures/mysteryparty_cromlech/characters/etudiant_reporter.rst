@@ -4,15 +4,15 @@ REPORTER
 Votre histoire
 =================
 
-Vous êtes **Ryan Parker, un(e) étudiant(e) anglais en journalisme** au parcours – jusqu'ici – sans tache. Vous êtes arrivé en France depuis **{% symbol "6 mois" for "délai_arrivée_du_reporter_au_cromlech" %}** déjà.
+Vous êtes **{% symbol "Ryan Parker" for "nom_du_reporter" %}, un(e) étudiant(e) anglais en journalisme** au parcours – jusqu'ici – sans tache. Vous êtes arrivé en France depuis **{% symbol "6 mois" for "délai_arrivée_du_reporter_au_cromlech" %}** déjà.
 
-Vous êtes immédiatement devenu adepte de la **bibliothèque-musée appelée Cromlech**, pour vos travaux de recherche documentaire et d'écriture. Un lieu à l'ambiance accueillante et studieuse, notamment grâce aux bons soins du guide et bibliothécaire, **Eden Schmitt**.
+Vous êtes immédiatement devenu adepte de la **bibliothèque-musée appelée Cromlech**, pour vos travaux de recherche documentaire et d'écriture. Un lieu à l'ambiance accueillante et studieuse, notamment grâce aux bons soins du guide et bibliothécaire, **{% symbol "Eden Schmitt" for "nom_du_guide" %}**.
 
 Là, vous vous êtes lié d'amitié avec un autre étudiant, **Andrea, arrivé il y a {% symbol "trois mois" for "délai_arrivee_du_héros" %}**. Officiellement, il était ici pour préparer sa soutenance de thèse en Histoire gréco-romaine. Mais il vous a rapidement avoué qu'il avait en réalité interrompu ses études de droit international pour investiguer une antique énigme historique, concernant les derniers rebelles gaulois cernés par les armées conquérantes de Jules César. Ce choix de sa part avait d'ailleurs déclenché une persistante fureur chez son mère, **diplomate italienne** auprès de la France.
 
 Vous vous êtes pris au jeu, et avez suivi, conseillé, aidé Andrea tandis qu'il enquêtait sur les origines et les artefacts du Cromlech. Il vous a appris un **langage codé simple** pour que vous puissiez vous transmettre des messages via la bibliothèque, au besoin. Il vous a aussi montré le **"signe des centurions", les bras croisés sur la poitrine**, en assurant que cela pour vous servir le moment venu. {% xfact "le héros et le reporter ont un langage codé commun" %} {% xfact "le reporter connait le signe des centurions" as author %}
 
-Outrepassant toute prudence, vous avez joué de vos contacts pour faire analyser en pleine nuit, **il y a {% symbol "un mois" for "délai_analyse_du_glaive_antique" %}** de cela, un **glaive** de la collection du Cromlech, "emprunté" par Andrea. Mais le jeu en valait la chandelle : non seulement le musée ne s'est aperçu de rien, mais le glaive s'est révélé être une pièce exceptionnelle, et pas une "réplique" comme le prétend ce cuistre de Conservateur du Cromlech.
+Outrepassant toute prudence, vous avez joué de vos contacts pour aller faire analyser en pleine nuit, **il y a {% symbol "un mois" for "délai_analyse_du_glaive_antique" %}** de cela, un **glaive** de la collection du Cromlech, "emprunté" par Andrea. Mais le jeu en valait la chandelle : non seulement le musée ne s'est aperçu de rien, mais le glaive s'est révélé être une pièce exceptionnelle, et pas une "réplique" comme le prétend ce cuistre de Conservateur du Cromlech.
 
 Andrea vous a alors glissé quelques informations troublantes : il ne s'agissait pas que d'archéologie, mais aussi de magie druidique, d'une ancienne malédiction qui engloberait tant la France que l'Italie. Ce genre de vocabulaire parle très peu à votre esprit réaliste, et vous avez commencé à craindre pour la santé psychique de votre camarade – commençait-il à divaguer, à force de se focaliser sur le Cromlech et ses artefacts ?
 
@@ -30,7 +30,7 @@ Horrifié, vous avez alors interpellé, via un coursier, les personnes désigné
 Ce que vous savez sur le Conservateur
 ========================================
 
-**Camille du Guesclin** s'est démené pour mettre en place le Cromlech, et cela, vous lui en êtes reconnaissant.
+**{% symbol "Camille du Guesclin" for "nom_du_conservateur" %}** s'est démené pour mettre en place le Cromlech, et cela, vous lui en êtes reconnaissant.
 Mais depuis un mois, il semble bien plus intéressé par la reprise de sa carrière d'avocat que par le Cromlech, d'après des bribes de conversation entendues. En journée, on le voit de moins en moins. Et en matière de connaissances historiques, il est proche du niveau zéro.
 
 Il vous a avoué facilement que "Conservateur" n'était qu'un surnom, et qu'il n'avait pas de diplômes en ce sens ; c'est déjà çà. Mais il persiste à prétendre que les artefacts exposés sont de simples répliques, alors que tout laisse à penser le contraire. C'est incompréhensible.
@@ -38,7 +38,7 @@ Il vous a avoué facilement que "Conservateur" n'était qu'un surnom, et qu'il n
 Ce que vous savez sur le Guide
 ==================================
 
-**Eden Schmitt** est typiquement quelqu'un qui semblerait au-dessus de tout soupçon : serviable, jovial voire bavard… mais vous avez récemment appris à vous méfier des apparences.
+**{% symbol "Eden Schmitt" for "nom_du_guide" %}** est typiquement quelqu'un qui semblerait au-dessus de tout soupçon : serviable, jovial voire bavard… mais vous avez récemment appris à vous méfier des apparences.
 A votre arrivée, il débitait des âneries sans nom sur l'antiquité gallo-romaine, à des visiteurs conquis par son éloquence. Mais il s'est rapidement amélioré sur la question, fort heureusement pour la vérité historique.
 
 Récemment, il s'est mis à porter une **chevalière** avec de vieux symboles celtes. Vous aviez déjà vu ces symboles sur un bracelet d'Andrea ; celui-ci vous a finalement avoué que cette parure était un "senseur télépathique", qui lui permettait de sentir lorsque le guide s'approchait à moins de 100m de lui.
