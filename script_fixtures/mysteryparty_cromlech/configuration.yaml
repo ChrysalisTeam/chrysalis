@@ -42,11 +42,11 @@
 
   "sheets":
     "gamemaster_manual":
-      "variables":
       "settings":
         "rst2pdf_extra_args": "--stylesheets=layout_large_fonts,with_cover_and_background"
       "full_sheet": "gamemaster_manual.rst"
-      #"cheat_sheet": "lore/world_history_summary.txt"
+    "déroulement_du_jeu":
+      "full_sheet": "déroulement_du_jeu.rst"
 
   "groups":
 

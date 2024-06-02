@@ -1,7 +1,8 @@
 
-Costume du druide spectrale
-
-Mettre ETIQUETTES sur artefacts MAGIQUES, pour joueurs
+MATOS:
+    Costume du druide spectrale
+    Tatouages-éclair
+    Mettre ETIQUETTES sur artefacts MAGIQUES, pour joueurs
 
 
 TRASH

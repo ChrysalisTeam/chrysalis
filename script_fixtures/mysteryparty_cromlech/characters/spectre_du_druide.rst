@@ -33,7 +33,7 @@ Votre objectif est de monter les joueurs contre Andréa et ses alliés, en menta
 Votre rôle dans le dénouement
 ================================
 
-Après la 4e et dernière rotation d'interrogatoire, vous rassemblez les psykers dans un coin, et vous leur annoncez hors-jeu qu'ils sont désormais sous votre contrôle ; ils devront donc se comporter comme des zombies, et suivre vos ordres durant la scène finalement. Vous pouvez leur faire des tatouages-éclair sur le visage et le bras pour expliciter cette maldédiction.
+Après la 4e et dernière rotation d'interrogatoire, vous rassemblez les psykers dans un coin, et vous leur annoncez hors-jeu qu'ils sont désormais sous votre contrôle ; ils devront donc se comporter comme des zombies, et suivre vos ordres durant la scène finalement. Vous pouvez leur faire des tatouages-éclair sur le visage et le bras pour expliciter cette maldédiction. {% xfact "le druide envoûte les psykers à la fin du jeu" as author %}
 
 Lors de la scène finale, vous haranguez tous les joueurs (en langue celte, avec de grands gestes) pour qu'ils fassent avec vous le **"signe des druides"** face aux artefacts : réaliser une forme de menhir, avec les bras et les mains, devant soi.
 
