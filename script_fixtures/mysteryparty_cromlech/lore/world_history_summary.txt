@@ -1,8 +1,0 @@
-
-World History Summary for {{ world_name }}
-#############################################
-
-TLDR: this world is very old and very magic... {% fact "World is old and magic" %}
-
-
-{# {% fact "Some world fact" %}  {% fact "Some world fact" as author %} TODO ERASE THIS #}

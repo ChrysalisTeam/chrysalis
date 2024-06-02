@@ -93,3 +93,6 @@ Vous l'aviez vu quelques fois discuter intensément avec Andrea, en journée. Ma
 {% endmacro %}
 
 <{ knowledge_of_cromlech_people_about_reporter }/>
+
+
+{% include "characters/_instructions_pour_les_figurants.txt" %}

@@ -35,4 +35,5 @@ Lors de la scène finale, vous haranguez les joueurs (en langue celte, avec de g
 Ce sera une façon pour eux de donner leur énergie à l'entité divine, afin qu'elle puisse terrasser le Héros venu la combattre avec le glaive antique.
 {% fact "le druide connait le signe des druides" %}
 
-@@@ **TODO A CONTINUER** @@@
+
+{% include "characters/_instructions_pour_les_figurants.txt" %}

@@ -1,12 +1,7 @@
 
 
 
-
-Remplacer père de Andrea par mère, diplomate italienne !!   DONE
-
 Manque description/usage de la chevaliere magique ???
-
-dolmen ?? dis pater ? mort ? père ?
 
 **potion/parchemin(?) magique TODO??????**,
 
@@ -15,9 +10,17 @@ finale <<< à écrire
 
 Code du coffre et du cryptex ???
 
+Parchemin decrivant ablutions ou pas ???
+
+Mettre ETIQUETTES sur artefacts MAGIQUES, pour joueurs
+
 
 TRASH
 =================
+
+Remplacer père de Andrea par mère, diplomate italienne !!   DONE
+
+dolmen ?? dis pater ? mort ? père ?  DONE
 
 Remplacer "Olloudios" etc par SYMBOL tags!!  bof
 
