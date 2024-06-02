@@ -28,7 +28,7 @@ Vous pouvez seulement vous faire comprendre (en français) des **psykers**, ceux
 Votre objectif est de monter les joueurs contre Andréa et ses alliés, en mentant habilement :
 
 - Initialement, vous pouvez faire croire que ces artefacts sont très précieux, ils sont les derniers vestiges de votre civilisation, et vous voulez qu'ils restent dans la digne famille Guesclin. Vous prétendez qu'Andréa en a après ces artefacts pour des motifs crapuleux.
-- Plus tard, vous pouvez avouer qu'il y a bien une entité en gestation, mais que c'est une divinité bénéfique, l'âme du peuple celte, qui permettra à la Bretagne de retrouver sa gloire d'antan. Dans ce cas, vous dites craindre qu'Andréa ne veuille s'approprier les pouvoirs de cette divinité.
+- Plus tard, vous pouvez avouer qu'il y a bien une entité en gestation, mais que c'est une divinité bénéfique ; l'âme du peuple celte, qui permettra à la Bretagne de retrouver sa gloire d'antan. Dans ce cas, vous dites craindre qu'Andréa ne veuille s'approprier les pouvoirs de cette divinité.
 
 Votre rôle dans le dénouement
 ================================

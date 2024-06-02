@@ -112,7 +112,6 @@ En réalité :
   - Un {% item "cryptex contenant le parchemin médiéval des symboles gaulois" is needed %}.
 
 
-
 Résumé du déroulement du jeu
 ==================================
 
@@ -127,14 +126,14 @@ Les interrogatoires en rotation se déroulent ainsi :
 - Le commissaire de police briefe les joueurs sur la situation et leur rôle, et leur donne un rapport d'enquête initial ;
 - Les 4 groupes de joueurs tournent, dans l'ordre, entre les 4 points d'intérêt, à raison de 15 minutes sur chacun : **Guide, Reporter, Conservateur, et Trésor du musée** ;
 - Au moment de chaque rotation, les rapports reçoivent un complément d'enquête, permettant d'être davantage en position de force lors de la rencontre suivante ;
-- L'inspecteur de police tourne entre les points d'intérêts et y fait des interventions scriptées durant les interrogatoires, afin d'ajouter du roleplay et des indices;
-- Le spectre de druide intervient aussi ponctuellement ;
+- L'inspecteur de police tourne entre les points d'intérêts et y fait des interventions scriptées durant les interrogatoires, afin d'ajouter du roleplay et des indices ;
+- Le spectre de druide intervient aussi ponctuellement, pour héler le Conservateur, ou faire des apartés illuminés avec l'un ou l'autre psyker ;
 
 Une fois la rotation complète finie, les joueurs sont dispersés en fonction de leur "rôle" :
 
 - Les "greffiers" sont rassemblés par le Commissaire pour échanger sur les résultats de leurs investigations
-- Les "psykers" sont briefés par le Druide qui les rend complices de la scène finale (avec des maquillages rapides simulant une possession démoniaque) {% fact "le druide envoûte les pyskers à la fin du jeu" %}
-- Le reste des joueurs se regroupe avec l'inspecteur de police auprès du Trésor, reçoit quelques indices supplémentaires (??? TODO), et voit les premières manifestations paranormales du dénouement qui approche.
+- Les "psykers" sont briefés par le Druide qui les rend complices de la scène finale (avec des maquillages rapides simulant une possession démoniaque) {% fact "le druide envoûte les psykers à la fin du jeu" %}
+- Le reste des joueurs se regroupe avec l'inspecteur de police auprès du Trésor, et voit les premières manifestations paranormales du dénouement qui approche.
 
 Lorsque les phénomènes paranormaux s'amplifient, les deux camps en présence hèlent les joueurs, qui doivent choisir l'un ou l'autre, et ainsi faire basculer la fin du jeu vers un dénouement heureux ou malheureux.
 
@@ -163,67 +162,67 @@ Premier complément d'enquête
 ----------------------------------
 
 - Informations sur une duplication de clef douteuse effectuée en ville, clef identique à celle du Conservateur et du Guide.
-- Informations sur l'analyse illicite d'un glaive antique par une personne semblable à Andrea (sans preuve).
+- Informations sur l'analyse illicite d'un glaive antique par une personne semblable au reporter (sans preuve).
 - Informations sur le déroulement chaotique de la cérémonie publique où le Conservateur prétend avoir passé la matinée.
-- Analyse du sang (groupe sanguin, âge, volume…) de la salle au Trésor, montrant qu'il appartient au Héros.
+- Indice sur le code du coffret de la salle au Trésor.
+- Analyse du sang (groupe sanguin, âge…) de la salle au Trésor, montrant qu'il appartient à Andrea.
 
 Deuxième entretien simultané
 ---------------------------------------
 
-Guide : choqué par l'annonce du sang, un peu éperdu ; avoue candidement, sans honte, qu'il a dupliqué la clef pour aider le Héros à réussir ses études et son examen.
+Guide : choqué par l'annonce du sang répandu, un peu éperdu ; avoue candidement, sans honte, qu'il a dupliqué la clef pour aider Andrea à réussir ses études.
 
-Reporter : mis en difficulté sur l'analyse illicite du glaive, mais pas décontenancé, avoue qu'il a aidé le Héros à réaliser cela, mais insiste sur le fait que ce n'est pas la priorité du moment.
+Reporter : mis en difficulté sur l'analyse illicite du glaive, mais pas décontenancé, avoue qu'il a aidé Andrea à réaliser cela, mais insiste sur le fait que ce n'est pas la priorité du moment.
 
 Conservateur : mis en difficulté par les révélations sur son emploi du temps, décontenancé, si coincé il peut se rabattre sur la thèse d'un "suicide du héros" dont il aurait été le témoin impromptu.
 
-Trésor : ouverture probable du cadenas du coffre, et étude de son contenu.
+Trésor : ouverture probable du cadenas du coffret, et observation de son contenu.
 
 Intervention de l'inspecteur de police à la moitié de l'entretien :
 
 - Met en évidence la blessure à la main gauche du Conservateur.
-- Met en évidence la chevalière mystérieuse portée par le Guide (cadeau de gratitude du Héros, censé "porter chance").
+- Met en évidence la chevalière mystérieuse portée par le Guide (offerte par Andréa).
 
 Deuxième complément d'enquête
 ----------------------------------
 
-- Le contenu de la cachette des Héros & Reporter, ainsi que le pistolet (où il manque une balle), ont été trouvés derrière un tas de vieux livres par des inspecteurs.
-- Les empreintes du Héros, et dessous celles du Conservateur, ont été relevées sur le pistolet.
-- Récupération au passage du rapport d'analyse qui avait été demandé par le Reporter.
-- Le contenu de la cachette comporte un journal de bord, et un message codé griffonné par le Héros. ?????
+- Rapport d'analyse obtenu par Andrea et le Reporter, attestant que le glaive était un vraie antiquité.
+- Découverte du matériel liturgique du Conservateur, et d'un indice sur le code du cryptex.
+- Découverte de la lettre d'adieux (factice) mise par erreur aux Objets Trouvés par le guide.
 
 Troisième entretien simultané
 ----------------------------------
 
-Guide : parle des mesures étranges qui lui étaient imposées par le Conservateur, quant aux artefacts.
+Guide : parle des mesures étranges qui lui étaient imposées par le Conservateur, quant à la gestion des artefacts.
 
-Reporter : il peut déchiffrer le message codé laissé par le Héros, et **???**.
+Reporter : ne croit pas un instant à la véracité de la lettre d'adieux d'Andrea.
 
-Conservateur : coincé, il avoue tout, mais s'insurge sur le fait que les enjeux sont bien plus importants que "lui contre le héros".
+Conservateur : si coincé, il avoue tout, mais s'insurge sur le fait que les enjeux sont bien plus importants que "lui contre le héros", et que certaines vérités doivent rester cachées.
 
 Trésor : ouverture probable du cryptex, et étude de son contenu.
 
 Intervention de l'inspecteur de police à la moitié de l'entretien :
 
-- Contre le Conservateur : **QUID ????**.
-- Accuse le Guide d'avoir fait de faux diplômes ?? De ne pas avoir remarqué absence du glaive?????.
+- Vient challenger le conservateur sur le fait que la lettre a été écrite d'une main tremblante, donc peut-être "blessée".
+- Accuse le Guide d'avoir fait de faux diplômes.
 
 Troisième et dernier complément d'enquête
 ------------------------------------------------
 
-- Matériel à ablutions rituelles, encore mouillé, trouvé dans le bureau du Conservateur ???.
-- Le mini-cromlech émet des rayonnements vibratoires anormaux ?????.
-- Résultat d'une enquête sur les habitués de la bibliothèque : rêves étranges, etc.
-- Appels du Héros aux vivants, par un moyen détourné???.
+- Découverte d'un pistolet (où il manque une balle), avec empreintes digitales, dans la salle du trésor.
+- Déclenchement de vibrations sur le grimoire factice du musée.
+- Retours des habitués du Cromlech sur leurs cauchemars.
+- Appel d'Andrea à ses alliés, via un message griffonné sur l'enveloppe trouvée au sol.
 
 Quatrième entretien simultané
 --------------------------------------
 
-Tous les témoins commencent à divaguer à la moitié de l'entretien ! <<< TODO??????
+Tous les témoins commencent à **divaguer** à la moitié de l'entretien !
 
-Guide : sort une traduction qu'il avait faite des runes sur le grimoire, et qu'il prenait pour des foutaises (elles évoquent le monde parallèle du monstre, et des prophéties) ; brainstorme pour réconcilier ses connaissances historiques avec les derniers éléments d'enquête.
+Guide : tente d'apporter ses connaissances historiques et mythologiques pour aider les joueurs.
 
-Reporter : lance l'alerte, "le Héros est en danger dans un autre monde, il faut l'aider".
+Reporter : lance l'alerte, "Andréa est en danger dans un autre monde, il faut l'aider".
 
-Conservateur : lance l'alerte, "il faut laisser les artefacts tranquilles et empêcher le Héros de les détourner à son propre profit !".
+Conservateur : lance l'alerte, "il faut laisser les artefacts tranquilles et empêcher Andréa de les détourner à son propre profit !".
 
-Trésor : étude des artefacts et messages présentés, rien de nouveau n'est attendu.
+Trésor : étude des artefacts et messages découverts, rien de nouveau n'est attendu.

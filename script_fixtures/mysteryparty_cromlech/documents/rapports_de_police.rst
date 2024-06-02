@@ -23,7 +23,7 @@ Suspect #1 : {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}
 - Adresse : 165 rue de la Boustifaille, Lyon
 - Profession : Avocat
 - Groupe sanguin : AB-
-- Particularités : gaucher, arachnophobe
+- Particularités : aucune
 
 [BR]
 
@@ -102,7 +102,7 @@ Il atteste que cette pièce a été authentiquement forgée selon des techniques
 
 Du matériel liturgique très ancien a été trouvé caché dans le bureau de {% symbol "Camille du Guesclin" for "nom_du_conservateur" %} : toge en lin avec quelques traces de sang (groupe : AB-), coupe en argile à ablutions rituelles (encore humide), encensoir, branche de houx. Gravé sur l'encensoir, il est marqué : "le code du cryptex est {% symbol "secret" for "code_du_cryptex" %}".
 
-Une enveloppe égarée avait été mise aux Objets Trouvés du musée par {% symbol "Eden Schmitt" for "nom_du_guide" %}, ce matin. Il s'agit d'une "lettre d'adieux" d'Andrea, où il annonce vouloir quitter ce monde. Nous sommes d'expertiser cette missive, et de déchiffrer le message codé qui est gribouillé sur son enveloppe.
+Une enveloppe égarée, non timbrée, avait été mise aux Objets Trouvés du musée par {% symbol "Eden Schmitt" for "nom_du_guide" %}, ce matin. Il s'agit d'une "lettre d'adieux", écrite de la main gauche, où Andrea annonce vouloir quitter ce monde cruel. Nous sommes en train d'expertiser cette missive, et de déchiffrer le message codé qui est gribouillé sur son enveloppe.
 
 [PAGEBREAK]
 
@@ -110,11 +110,10 @@ Une enveloppe égarée avait été mise aux Objets Trouvés du musée par {% sym
 Complément d'enquête #3
 ################################
 
-Un revolver a été retrouvé dans la salle des artefacts, derrière un tas de livres.
-Il manque une balle dans le barillet.
+Un revolver a été retrouvé dans la salle du trésor, derrière un tas de livres. Il manque une balle dans le barillet.
 Les empreintes digitales d'{% symbol "Andrea di Revel" for "nom_du_héros" %} ont été retrouvées sur la poignée, au-dessus d'autres empreintes qui semblent, elles, appartenir à {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}.
 
-Le grimoire factice de la salle des artefacts émet depuis peu des vibrations, de plus en plus sensibles.
+Le grimoire factice de la salle du trésor émet depuis peu des vibrations que tous peuvent ressentir.
 
 Nous avons interrogé divers habitués du Cromlech, ils disent n'y rien avoir remarqué d'anormal ; mais plusieurs se plaignent d'avoir un sommeil agité depuis qu'ils y viennent régulièrement, avec des rêves chargés de symboles antiques.
 

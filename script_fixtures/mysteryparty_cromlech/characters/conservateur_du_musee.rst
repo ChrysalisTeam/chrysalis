@@ -48,7 +48,7 @@ Son intrusion, son culot, son agression verbale vous ont fait perdre votre sang-
 
 Quand vous avez repris vos esprits, le jeune homme gisait devant les artefacts, dans une mare de sang. {% symbol "Olloudios" for "nom_du_spectre" %} vous est apparu, et vous a dicté la marche à suivre :
 
-- Bander votre poignet ensanglanté, et le dissimuler sous un gant noir
+- Bander votre poignet gauche ensanglanté, et le dissimuler sous un gant noir
 - Nettoyer et remettre le glaive à sa place
 - Placer le revolver dans la main d'Andrea
 - Écrire une fausse lettre d'adieux en son nom (et de la main gauche - aïe - car Andrea était gaucher !)
