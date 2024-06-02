@@ -1,12 +1,12 @@
 
+
+TRASH
+=================
+
 MATOS:
     Costume du druide spectrale
     Tatouages-éclair
     Mettre ETIQUETTES sur artefacts MAGIQUES, pour joueurs
-
-
-TRASH
-=================
 
 Met en évidence la blessure à la main gauche du Conservateur.  DONE
 

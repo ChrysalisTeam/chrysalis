@@ -1,9 +1,12 @@
 
 "Joueurs":
   - "Papiers et stylos pour les greffiers"
-  - "Accessoires-marqueurs pour les psykers"
+  - "Brassards pour les psykers"
 
 "Figurants":
+  - 'Costume du spectre de druide'
+  - 'Tatouages-éclair pour maquiller les psykers en fin de jeu'
+  - 'Nppes et lanternes pour l''ambiance'
   - '{% item "Chevalière pour le guide" is provided %} IMPORTANT'
   - '{% item "Bandage sanglant au poignet pour le conservateur" is provided %} IMPORTANT'
 
@@ -18,4 +21,3 @@
   - '{% item "Cryptex contenant le parchemin médiéval des symboles gaulois" is provided %}, et ayant pour code "{% symbol "secret" for "code_du_cryptex" %}" IMPORTANT'
   - '{% item "Papier avec les symboles de la mythologie gauloise" is provided %} IMPORTANT'
   - '{% item "Lettre médiévale expliquant les runes du cromlech" is provided %} IMPORTANT'
-
