@@ -30,7 +30,12 @@ Votre objectif est de monter les joueurs contre Andréa et ses alliés, en menta
 - Initialement, vous pouvez faire croire que ces artefacts sont très précieux, ils sont les derniers vestiges de votre civilisation, et vous voulez qu'ils restent dans la digne famille Guesclin. Vous prétendez qu'Andréa en a après ces artefacts pour des motifs crapuleux.
 - Plus tard, vous pouvez avouer qu'il y a bien une entité en gestation, mais que c'est une divinité bénéfique, l'âme du peuple celte, qui permettra à la Bretagne de retrouver sa gloire d'antan. Dans ce cas, vous dites craindre qu'Andréa ne veuille s'approprier les pouvoirs de cette divinité.
 
-Lors de la scène finale, vous haranguez les joueurs (en langue celte, avec de grands gestes) pour qu'ils fassent avec vous le **"signe des druides"** face aux artefacts : réaliser une forme de menhir, avec les bras et les mains, devant soi.
+Votre rôle dans le dénouement
+================================
+
+Après la 4e et dernière rotation d'interrogatoire, vous rassemblez les psykers dans un coin, et vous leur annoncez hors-jeu qu'ils sont désormais sous votre contrôle ; ils devront donc se comporter comme des zombies, et suivre vos ordres durant la scène finalement. Vous pouvez leur faire des tatouages-éclair sur le visage et le bras pour expliciter cette maldédiction.
+
+Lors de la scène finale, vous haranguez tous les joueurs (en langue celte, avec de grands gestes) pour qu'ils fassent avec vous le **"signe des druides"** face aux artefacts : réaliser une forme de menhir, avec les bras et les mains, devant soi.
 
 Ce sera une façon pour eux de donner leur énergie à l'entité divine, afin qu'elle puisse terrasser le Héros venu la combattre avec le glaive antique.
 {% xfact "le druide connait le signe des druides" as author %}

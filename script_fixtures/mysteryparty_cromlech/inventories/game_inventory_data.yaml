@@ -12,7 +12,7 @@
   - '{% item "Tablette noire de défixion" is provided %} IMPORTANT'
   - '{% item "grimoire scellé à couverture de bois" is provided %} IMPORTANT'
   - '{% item "Armure, casque et bouclier romains" is provided %}'
-  - '{% item "Crâne optionnel pour le casque romain" is provided %}'
+  - '{% item "Crâne électronique et/ou normal, en option, pour mettre dans le casque romain" is provided %}'
   - '{% item "Potion de guérison utilisée" is provided %} (avec étiquette) IMPORTANT'
   - '{% item "Coffre en bois avec cadenas à 4 chiffres" is provided %} (code : {% symbol "2681" for "code_du_coffre_en_bois" %}) IMPORTANT'
   - '{% item "Cryptex contenant le parchemin médiéval des symboles gaulois" is provided %}, et ayant pour code "{% symbol "secret" for "code_du_cryptex" %}" IMPORTANT'

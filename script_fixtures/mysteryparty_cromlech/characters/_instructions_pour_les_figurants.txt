@@ -1,10 +1,13 @@
-Instructions pour les Figurants
-================================
+Instructions pour tous les figurants
+====================================
 
 Seul le Conservateur et le Druide peuvent voir/entendre les manifestations du surnaturel. Ces manifestations sont le spectre du druide lui-même ; les phénomènes de phosphorescence, éclairs et bruit dans la salle du trésor ; les étiquettes d'indices sur certains objets...
 
 Les forces de police et les autres témoins de l'affaire ne sentent rien de tout cela, et manifestent leur incompréhension quand les joueurs les sollicitent à ce sujet.
 
 Si les joueurs vous posent des questions sur des sujets qui ne sont pas traités dans vos fiches de personnages, libre à vous d'improviser. Soit en indiquant que vous ne savez pas, soit en inventant des faits en ce qui concerne votre propre histoire ; mais prenez soin de mémoriser (voire noter) vos réponses, afin de ne pas vous contredire lors d'un interrogatoire suivant.
+
+Lors de la scène finale près du Cromlech, le Reporter, suivi par le Guide, doit appeler les joueurs à réaliser le "signe des centurions" avec eux pour aider le Héros ; tandis que le Druide, suivi par le Conservateur, doit les exhorter à réaliser le "signe des druides" avec eux pour aider l'entité divine en gestation. La fin du jeu dépend du choix majoritaire des joueurs.
+
 
 {% include "characters/_instructions_pour_tous.txt" %}

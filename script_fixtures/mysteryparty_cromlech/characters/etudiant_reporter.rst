@@ -41,7 +41,8 @@ Ce que vous savez sur le Guide
 **Eden Schmitt** est typiquement quelqu'un qui semblerait au-dessus de tout soupçon : serviable, jovial voire bavard… mais vous avez récemment appris à vous méfier des apparences.
 A votre arrivée, il débitait des âneries sans nom sur l'antiquité gallo-romaine, à des visiteurs conquis par son éloquence. Mais il s'est rapidement amélioré sur la question, fort heureusement pour la vérité historique.
 
-Récemment, il s'est mis à porter une **chevalière** avec de vieux symboles celtes. Vous aviez déjà vu ce symbole sur un bracelet d'Andrea, qui vous a glissé que cette chevalière était juste un "cadeau de gratitude". {% xfact "le guide a désormais une chevalière à la main" %}
+Récemment, il s'est mis à porter une **chevalière** avec de vieux symboles celtes. Vous aviez déjà vu ces symboles sur un bracelet d'Andrea ; celui-ci vous a finalement avoué que cette parure était un "senseur télépathique", qui lui permettait de sentir lorsque le guide s'approchait à moins de 100m de lui.
+{% xfact "le guide a désormais une chevalière à la main" %} {% xfact "le reporter sait à quoi sert la chevalière du guide" as author %}
 
 
 {% include "characters/_instructions_pour_les_figurants.txt" %}

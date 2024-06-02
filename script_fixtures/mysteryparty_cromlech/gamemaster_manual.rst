@@ -26,14 +26,11 @@ Vous êtes une agence de détectives privés spécialisés dans le paranormal, a
 
 Il va falloir mener l'enquête, et vite, car l'affaire risque de rapidement devenir hors de contrôle...
 
-.. OLDIE des phénomènes étranges se manifestent peu à peu, et l'affaire prend vite des proportions internationales…
-
 
 Histoire complète (SPOILERS)
 ===================================
 
-*Ce jeu reprend l'ambiance (mais pas le lore) de Lovecraft et du Mythe de Cthulhu.
-L'action des joueurs se déroule dans bibliothèque à première vue banale, mais qui renferme des artefacts maudits issus de la civilisation gallo-romaine.*
+*Ce jeu reprend l'ambiance (mais pas le lore) de Lovecraft et du Mythe de Cthulhu. L'action des joueurs se déroule dans bibliothèque à première vue banale, mais qui renferme des artefacts maudits issus de la civilisation gallo-romaine.*
 
 Dans l'antiquité, suite à la défaite d'Alésia (52 av. J.-C), les Gaulois ont été conquis par Jules César. Mais pas tous. Des tribus rebelles ont continué le combat, et se sont réfugiées dans l'oppidum d'Uxellodunum (dans les massifs du Quercy). Affamés par le siège des Romains, ils ont fini par se rendre à leur tour.
 
@@ -41,7 +38,7 @@ Mais quelques druides, venus d'Armorique, ont mis en place une ultime vengeance.
 
 Cependant, la gestation de cette entité s'est avérée plus longue et complexe que prévue. Les ablutions et rituels - nécessaires au bon déroulement de l'opération - ont été maintes fois interrompus au long de l'Histoire.
 
-Si bien qu'au 21e siècle, cette créature légendaire ne s'est toujours pas incarnée. Les artefacts portant l'envoûtement (grimoire, glaive, maquette de cromlech…) sont désormais "cachés en plein jour", dans une insolite bibliothèque-musée servant surtout d'espace de travail aux étudiants du coin. Afin d'éviter les ennuis juridiques, le gérant des lieux, le "Conservateur", fait passer ces pièces de musée pour de simples répliques.
+Si bien qu'au tout début du 20e siècle, cette créature légendaire ne s'est toujours pas incarnée. Les artefacts portant l'envoûtement (grimoire, glaive, maquette de cromlech…) sont désormais "cachés en plein jour", dans une insolite bibliothèque-musée servant surtout d'espace de travail aux étudiants du coin. Afin d'éviter les ennuis juridiques, le gérant des lieux, le "Conservateur", fait passer ces pièces de musée pour de simples répliques.
 
 Mais un jeune "Héros", enfant d'une diplomate italienne et passionné par l'ésotérisme antique, est sur la piste de cette invocation. Il espionne discrètement le musée, cherchant à savoir qui est au courant de ce phénomène, et qui est ami ou ennemi. Au passage, il se lie d'amitié avec un étudiant reporter, qu'il met en partie dans le secret.
 
@@ -74,7 +71,7 @@ Mais ils disposent de quelques indices pour les aider à trancher :
 
 - Leur fiche de personnage indique que les phénomènes volcaniques anormaux en Italie ont commencé depuis longtemps, à peu près au moment où le conservateur a récupéré les artefacts ;
 - L'attitude du Héros laisse entendre qu'il se sentait réellement en danger depuis le début de son enquête ;
-- L'étude des artefacts indique un lien avec {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, le dieu-guerrier sanguinaire des gaulois, et une répulsion envers les dieux plus pacifiques du panthéon celtique.
+- L'étude des artefacts indique un lien avec {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, le dieu-guerrier sanguinaire des gaulois, et un rejet des dieux et déesses plus pacifiques du panthéon celtique.
 
 
 
@@ -94,7 +91,7 @@ Le/la druide qui hante le Cromlech
     Silencieux, mystérieux, hautain ; se dévoile soudain à un joueur (psyker) en montrant de grand yeux fous et en haletant des phrases extravagantes, angoissantes ou incompréhensibles.
 
 L'inspecteur.trice de police
-    À la façon de "Sherlock Holmes", il intervient ponctuellement pour partager aux joueurs quelques géniales observations et intuitions.
+    Il supervise les opérations. À la façon de "Sherlock Holmes", il intervient ponctuellement pour partager aux joueurs quelques géniales observations et intuitions.
 
 
 Description du "trésor" du musée
@@ -102,17 +99,17 @@ Description du "trésor" du musée
 
 Lorsque c'est leur tour, au lieu d'interroger un des témoins, les joueurs vont inspecter les artefacts antiques du musée.
 
-Un **expert en archéologie** peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents.
+Un **expert en archéologie** peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents, ou bien ils ont accès directement au document **Le Trésor du Cromlech**.
 
 En réalité :
 
 - La maquette de Cromlech est le centre névralgique de la malédiction ; il contient un autel diffusant des éclairs, et un portail magique menant au monde parallèle dan lequel l'entité divine se développe. Les symboles de 3 divinités gauloises bénéfiques sont gravés sur le cercle de pierres. {% xitem "maquette de Cromlech et de portail magique" is needed %}
-- L'armure, le casque et le bouclier romain sont en réalité des offrandes pour l'invocation des druides. Le glaive, lui, a été emporté par le Héros dans le monde parallèle. Le casque peut contenir un crâne (ensorcelé ?), si le public est assez mature. {% xitem "armure, casque et bouclier romains" is needed %} {% xitem "crâne optionnel pour le casque romain" is needed %}
+- L'armure, le casque et le bouclier romain sont des offrandes en soutien à l'invocation des druides. Le glaive, lui, a été emporté par le Héros dans le monde parallèle. Le casque peut contenir un crâne (normal puis ensorcelé ?), si le public est assez mature. {% xitem "armure, casque et bouclier romains" is needed %} {% xitem "crâne électronique et/ou normal, en option, pour mettre dans le casque romain" is needed %}
 - Le grimoire est en fait factice, impossible à ouvrir ; il est là principalement pour l'ambiance. {% xitem "grimoire scellé à couverture de bois" is needed %}
 - Un coffre en bois, avec un cadenas à 4 chiffres, est présent. Il contient les éléments suivants. {% xitem "Coffre en bois avec cadenas à 4 chiffres" is needed %}
 
-    - Une {% item "tablette noire de défixion" is needed %} (= de sortilège) avec le sigle du dieu gaulois de la guerre.
-    - Un {% item "cryptex contenant le parchemin médiéval des symboles gaulois" is needed %}.
+  - Une {% item "tablette noire de défixion" is needed %} (= de sortilège) avec le sigle du dieu gaulois de la guerre.
+  - Un {% item "cryptex contenant le parchemin médiéval des symboles gaulois" is needed %}.
 
 
 
@@ -128,7 +125,7 @@ Les principaux sujets d'enquête sont :
 Les interrogatoires en rotation se déroulent ainsi :
 
 - Le commissaire de police briefe les joueurs sur la situation et leur rôle, et leur donne un rapport d'enquête initial ;
-- Les 4 groupes de joueurs tournent, dans l'ordre, entre les 4 points d'intérêt, à raison de 15 minutes sur chacun : Guide, Reporter, Conservateur, et Trésor du musée ;
+- Les 4 groupes de joueurs tournent, dans l'ordre, entre les 4 points d'intérêt, à raison de 15 minutes sur chacun : **Guide, Reporter, Conservateur, et Trésor du musée** ;
 - Au moment de chaque rotation, les rapports reçoivent un complément d'enquête, permettant d'être davantage en position de force lors de la rencontre suivante ;
 - L'inspecteur de police tourne entre les points d'intérêts et y fait des interventions scriptées durant les interrogatoires, afin d'ajouter du roleplay et des indices;
 - Le spectre de druide intervient aussi ponctuellement ;
@@ -136,7 +133,7 @@ Les interrogatoires en rotation se déroulent ainsi :
 Une fois la rotation complète finie, les joueurs sont dispersés en fonction de leur "rôle" :
 
 - Les "greffiers" sont rassemblés par le Commissaire pour échanger sur les résultats de leurs investigations
-- Les "psykers" sont briefés par le Druide qui les rend complices de la scène finale (avec des maquillages rapides simulant une possession démoniaque)
+- Les "psykers" sont briefés par le Druide qui les rend complices de la scène finale (avec des maquillages rapides simulant une possession démoniaque) {% fact "le druide envoûte les pyskers à la fin du jeu" %}
 - Le reste des joueurs se regroupe avec l'inspecteur de police auprès du Trésor, reçoit quelques indices supplémentaires (??? TODO), et voit les premières manifestations paranormales du dénouement qui approche.
 
 Lorsque les phénomènes paranormaux s'amplifient, les deux camps en présence hèlent les joueurs, qui doivent choisir l'un ou l'autre, et ainsi faire basculer la fin du jeu vers un dénouement heureux ou malheureux.

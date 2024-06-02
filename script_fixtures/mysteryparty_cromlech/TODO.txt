@@ -1,16 +1,10 @@
 
 
 
-
-
 Manque description/usage de la chevaliere magique ???
 
 Les “psykers” sont briefés par le Druide qui les rend complices de la scène
 finale <<< à écrire
-
-Code du coffre et du cryptex ???  WIP
-
-
 
 Mettre ETIQUETTES sur artefacts MAGIQUES, pour joueurs
 
@@ -18,6 +12,7 @@ Mettre ETIQUETTES sur artefacts MAGIQUES, pour joueurs
 TRASH
 =================
 
+Code du coffre et du cryptex ???  WIP
 
 Dire à conservateur les codes qu'il doit connaitre
  {% xfact "le conservateur connait les codes des coffrets de la salle au trésor" as author %}
