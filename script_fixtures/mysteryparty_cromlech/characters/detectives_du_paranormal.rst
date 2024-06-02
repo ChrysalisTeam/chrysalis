@@ -23,6 +23,8 @@ Trois personnages de votre groupe peuvent disposer d'un petit pouvoir (et donc d
 
 Les autres détectives sont en revanche prioritaires pour mener les entretiens et poser les questions aux témoins de l'affaire.
 
+[BR]
+
 PSYKISME
     Le/la psyker possède des dons de spiritisme avancés, qui lui permettent de communiquer, par la pensée, avec des fantômes. Ce sont les fantômes qui contactent les psykers le moment venu.
 

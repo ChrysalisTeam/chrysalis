@@ -60,7 +60,7 @@
         "guide_du_musee":
           "full_sheet":
             - "characters/guide_du_musee.rst"
-        "reporter":
+        "etudiant_reporter":
           "full_sheet":
             - "characters/etudiant_reporter.rst"
         "spectre_du_druide":

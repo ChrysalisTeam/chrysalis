@@ -12,11 +12,11 @@ Vous êtes alors tombé, dans les profondeurs de ses caves, sur des artefacts de
 
 Lui, l'étrange personnage qui savait tout de vos rêves et de vos projets, de vos journées et de vos nuits. Au début, il s'est fait passer pour un lointain oncle. Puis il a révélé sa vraie nature : **{% symbol "Olloudios" for "nom_du_spectre" %}**, druide devenu messager des dieux celtes. Un spectre que vous seul pouvez, à votre connaissance, voir et entendre.
 
-Et Olloudios vous a délivré une terrible nouvelle : votre dynastie était chargée de protéger et entretenir des reliques antiques, mais elle avait durant des siècles failli à sa tâche. Votre propre père avait toujours refusé de remplir ce devoir... jusqu'à sombrer dans la folie.
+Et {% symbol "Olloudios" for "nom_du_spectre" %} vous a délivré une terrible nouvelle : votre dynastie était chargée de protéger et entretenir des reliques antiques, mais elle avait durant des siècles failli à sa tâche. Votre propre père avait toujours refusé de remplir ce devoir... jusqu'à sombrer dans la folie.
 
-Il était encore temps d'éviter un cataclysme, en remettant ces antiquités au centre de la société, afin qu'elles puissent se nourrir de l'essence vitale et de l'énergie psychique des humains. À l'écouter, c'était de l'ordre universel tout entier dont il était question, à travers l'immémoriale magie des druides. {% fact "les artefacts doivent rester au contact des humains" %}
+Il était encore temps d'éviter un cataclysme, en remettant ces antiquités au centre de la société, afin qu'elles puissent se nourrir de l'essence vitale et de l'énergie psychique des humains. À l'écouter, c'était de l'ordre universel tout entier dont il était question, à travers l'immémoriale magie des druides. {% xfact "les artefacts doivent rester au contact des humains" %}
 
-Pris au piège de cette responsabilité inattendue, vous avez suspendu votre carrière pour suivre les étranges instructions d'Olloudios : les artefacts gallo-romains devaient à tout moment rester ensemble, à l'air libre, dans un lieu où passeraient beaucoup de personnes... être touchés par elles si possible... sans toutefois éveiller l'attention des archéologues.
+Pris au piège de cette responsabilité inattendue, vous avez suspendu votre carrière pour suivre les étranges instructions d'{% symbol "Olloudios" for "nom_du_spectre" %} : les artefacts gallo-romains devaient à tout moment rester ensemble, à l'air libre, dans un lieu où passeraient beaucoup de personnes... être touchés par elles si possible... sans toutefois éveiller l'attention des archéologues.
 
 Une équation compliquée, que vous n'avez résolue qu'en montant un petit musée-bibliothèque unique en son genre : le **{% symbol "Cromlech" for "nom_du_musee" %}**. Un lieu d'étude assez connu pour brasser du monde et être viable économiquement, mais assez discret pour ne pas attirer l'attention. Vous avez fait passer les artefacts antiques pour des "répliques fidèles", afin de justifier leur intérêt académique tout en permettant aux passants de les manipuler.
 
@@ -25,10 +25,10 @@ La réussite de ce projet est en grande partie due au guide-bibliothécaire que 
 Il persiste à vous appeler "Conservateur" devant les gens, mais vous clarifiez bien, si on vous questionne à ce sujet, que vous êtes juste "Gérant" sans aucun diplôme lié à l'Histoire – nul besoin d'avoir des ennuis juridiques avec cette corporation très élitiste.
 Cela ne vous empêche pas de rejeter avec condescendance les étudiant(e)s en Histoire qui feraient mine de "vous apprendre votre métier" - bien qu'ils aient, au fond, raison.
 
-Les affaires commençaient à magnifiquement se tasser. Vous procédiez chaque mois à des **ablutions rituelles** sur les artefacts, et à la récitation de quelques formules druidiques, afin de "panser les plaies" (dixit Olloudios) du passé ; en contrepartie, ce spectre ne vous apparaissait quasiment plus. Vous entamiez les démarches pour reprendre votre carrière d'avocat là où vous l'aviez interrompue, quand une nouvelle épine s'est plantée dans votre pied, il y a **{% symbol "trois mois" for "délai_arrivee_du_héros" %}** de cela. {% fact "le conservateur souhaiterait reprendre sa carrière d'avocat" as author %}
+Les affaires commençaient à magnifiquement se tasser. Vous procédiez chaque mois à des **ablutions rituelles** sur les artefacts, et à la récitation de quelques formules druidiques, afin de "panser les plaies" (dixit {% symbol "Olloudios" for "nom_du_spectre" %}) du passé ; en contrepartie, ce spectre ne vous apparaissait quasiment plus. Vous entamiez les démarches pour reprendre votre carrière d'avocat là où vous l'aviez interrompue, quand une nouvelle épine s'est plantée dans votre pied, il y a **{% symbol "trois mois" for "délai_arrivee_du_héros" %}** de cela. {% xfact "le conservateur souhaiterait reprendre sa carrière d'avocat" as author %}
 
 **{% symbol "Andrea di Revel" for "nom_du_héros" %}, fils de l'ambassadeur d'Italie auprès de la France**. Un étudiant en Histoire qui n'a pas lâché prise face à vos sornettes, et s'est mis à fréquenter régulièrement la bibliothèque ; à tourner autour des artefacts, surtout le **Grimoire Celte** dont vous avez interdit la lecture. Le spectre vous a incité à vous méfier de lui ; et s'est alarmé encore davantage quand cet étudiant a "disparu de son domaine de perception", il y a quelques semaines ; mais que faire sans attirer davantage l'attention ? Vous avez donc fait profil bas.
-{% fact "le héros est devenu indétectable par le spectre il ya quelques semaines" %}
+{% xfact "le héros est devenu indétectable par le spectre il ya quelques semaines" %}
 
 En espionnant Andrea et ses recherches historico-ésotériques, de vieilles craintes vous ont repris. Il était question d'une ancestrale **vengeance des peuples armoricains vaincus**, envers l'envahisseur romain ; de **{% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}**, dieu celtique sanguinaire ; d'un guerrier titanesque en gestation dans un oeuf mystique ; et d'horribles conséquences si les rites d'accompagnement n'étaient pas respectés...
 
@@ -41,9 +41,9 @@ Aujourd'hui, vous êtes venu tôt le matin, vers **{% symbol "7h" for "arrivée_
 
 Mais alors que vous entamiez la cérémonie, vêtu de la traditionnelle **toge en lin**, Andrea a surgi dans la pièce, en fureur. Il vous a accusé de mettre en danger la vie de millions d'innocents avec des "rituels d'essence démoniaque".
 
-Son intrusion, son culot, son agression verbale vous ont fait perdre votre sang-froid. Vous avez commencé à vous bagarrer. L'intrus s'est saisi du glaive antique pour vous repousser, et vous a **blessé à la main gauche**. Comme possédé, vous avez alors foncé dans votre bureau attenant, pour prendre le vieux **pistolet** de votre père, et vous avez tiré sur Andrea en plein ventre. {% fact "le conservateur a été blessé à la main gauche par le héros" %} {% fact "le conservateur a tiré au pistolet sur le héros" %}
+Son intrusion, son culot, son agression verbale vous ont fait perdre votre sang-froid. Vous avez commencé à vous bagarrer. L'intrus s'est saisi du glaive antique pour vous repousser, et vous a **blessé à la main gauche**. Comme possédé, vous avez alors foncé dans votre bureau attenant, pour prendre le vieux **pistolet** de votre père, et vous avez tiré sur Andrea en plein ventre. {% xfact "le conservateur a été blessé à la main gauche par le héros" %} {% xfact "le conservateur a tiré au pistolet sur le héros" as author %}
 
-Quand vous avez repris vos esprits, le jeune homme gisait devant les artefacts, dans une mare de sang. Olloudios vous est apparu, et vous a dicté la marche à suivre :
+Quand vous avez repris vos esprits, le jeune homme gisait devant les artefacts, dans une mare de sang. {% symbol "Olloudios" for "nom_du_spectre" %} vous est apparu, et vous a dicté la marche à suivre :
 
 - Bander votre poignet ensanglanté, et le dissimuler sous un gant noir
 - Nettoyer et remettre le glaive à sa place
@@ -59,9 +59,9 @@ Vous avez suivi ces instructions à la lettre, et êtes parti vous mêler aux no
 Lorsque vous êtes revenu à la bibliothèque, peu avant midi, aucun gendarme n'était en vue. Le guide et les habitués vaquaient à leurs occupations. Aucun corps dans la salle des artefacts.
 S'il n'y avait eu la tache de sang sombre au sol, dissimulée sous un fauteuil déplacé, vous auriez juré avoir rêvé.
 
-Olloudios avait-il changé de plan ?
+{% symbol "Olloudios" for "nom_du_spectre" %} avait-il changé de plan ?
 Avait-il, en fait, le pouvoir de modifier la réalité ?
-Était-ce lui qui avait fait disparaître - vous l'avez noté avec surprise - le glaive de son fourreau ? {% fact "le glaive antique a disparu le jour j" %}
+Était-ce lui qui avait fait disparaître - vous l'avez noté avec surprise - le glaive de son fourreau ? {% xfact "le glaive antique a disparu le jour j" %}
 
 Mais alors que l'espoir vous revenait, des gendarmes sont arrivés, avec une flopée d'enquêteurs privés.
 Manifestement, quelqu'un avait levé l'alerte à votre insu.
@@ -72,12 +72,12 @@ Décidément, la journée n'en finissait pas de mal commencer...
 Ce que vous savez sur le Guide
 ===================================
 
-**Eden Schmitt** est une jeune personne qui a arrêté les études après le bac, et tenté de nombreux petits boulots sans jamais les approfondir. Il a bricolé un faux CV pour décrocher un entretien avec vous ; vous l'avez immédiatement percé au jour, car le cursus qu'il décrit n'a jamais existé dans  l'Université citée. Mais il avait une certaine culture générale, de l'imagination, et un grand sens du service ; c'était ce qu'il vous fallait pour le job. {% fact "Le guide avait menti dans son CV pour être embauché" %}
+**Eden Schmitt** est une jeune personne qui a arrêté les études après le bac, et tenté de nombreux petits boulots sans jamais les approfondir. Il a bricolé un faux CV pour décrocher un entretien avec vous ; vous l'avez immédiatement percé au jour, car le cursus qu'il décrit n'a jamais existé dans  l'Université citée. Mais il avait une certaine culture générale, de l'imagination, et un grand sens du service ; c'était ce qu'il vous fallait pour le job. {% xfact "Le guide avait menti dans son CV pour être embauché" %}
 
 Ses visites du musée étaient initialement brodées au fil de l'eau, car il n'avait manifestement que peu de connaissances sur le sujet; mais il s'est rapidement amélioré, en apprenant en autodidacte l'Histoire antique.
 Il est charmant avec le public, cuisine bien (ses pâtisseries sont d'un grand secours pour votre moral), et fait preuve d'une rigueur tout juste suffisante dans le rangement des livres.
 
-Vous vous demandez s'il ne s'est pas fait embobiner par Andrea, avec qui il discutait souvent lors de ses passages. Depuis peu, il porte au doigt une **chevalière** qui semble ancienne ; un "cadeau d'admirateur", a-t-il simplement expliqué. {% fact "le guide a désormais une chevalière à la main" %}
+Vous vous demandez s'il ne s'est pas fait embobiner par Andrea, avec qui il discutait souvent lors de ses passages. Depuis peu, il porte au doigt une **chevalière** qui semble ancienne ; un "cadeau d'admirateur", a-t-il simplement expliqué. {% xfact "le guide a désormais une chevalière à la main" %}
 
 Au vu des récents événements, vous vous dites qu'il faudra peut-être en faire un bouc émissaire, si les choses se corsent plus encore. Il était après tout le seul, avec vous, à avoir les clefs de la bibliothèque... d'ailleurs, peut-être a-t-il vraiment un lien avec cette intrusion du **jeune italien** ?
 

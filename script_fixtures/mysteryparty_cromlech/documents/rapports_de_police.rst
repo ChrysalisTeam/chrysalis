@@ -100,7 +100,7 @@ Complément d'enquête #2
 Nous avons obtenu le rapport de l'analyse du glaive, réalisée il y a un mois par un faussaire.
 Il atteste que cette pièce a été authentiquement forgée selon des techniques datant d'environ 2 millénaires, et propres aux légions romaines.
 
-Du matériel liturgique très ancien a été trouvé caché dans le bureau de Camille du Guesclin : toge en lin avec quelques traces de sang (groupe : AB-), coupe en argile à ablutions rituelles (encore humide), encensoir, branche de houx. Gravé sur l'encensoir, il est marqué : "le code du cryptex est {% symbol "secret" for "code du cryptex" %}".
+Du matériel liturgique très ancien a été trouvé caché dans le bureau de Camille du Guesclin : toge en lin avec quelques traces de sang (groupe : AB-), coupe en argile à ablutions rituelles (encore humide), encensoir, branche de houx. Gravé sur l'encensoir, il est marqué : "le code du cryptex est {% symbol "secret" for "code_du_cryptex" %}".
 
 Une enveloppe égarée avait été mise aux Objets Trouvés du musée par Eden Schmitt, ce matin. Il s'agit d'une "lettre d'adieux" d'Andrea, où il annonce vouloir quitter ce monde. Nous sommes d'expertiser cette missive, et de déchiffrer le message codé qui est gribouillé sur son enveloppe.
 

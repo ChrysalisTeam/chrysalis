@@ -45,7 +45,7 @@ Si bien qu'au 21e siècle, cette créature légendaire ne s'est toujours pas inc
 
 Mais un jeune "Héros", enfant d'une diplomate italienne et passionné par l'ésotérisme antique, est sur la piste de cette invocation. Il espionne discrètement le musée, cherchant à savoir qui est au courant de ce phénomène, et qui est ami ou ennemi. Au passage, il se lie d'amitié avec un étudiant reporter, qu'il met en partie dans le secret.
 
-Le jour J, à l'aube, le Héros surprend le Conservateur du musée qui pratique des rituels magiques sur les artefacts. La confrontation tourne à la bagarre. Le héros se défend avec le glaive gaulois, blessant son adversaire à la main gauche. Excédé, le Conservateur lui tire en plein ventre ; puis il le laisse gisant près des artefacts, le pistolet en main - pour faire croire à un suicide - avant de s'enfuir pour s'afficher en public à un évènement mondain. {% fact "le conservateur a été blessé à la main gauche par le héros" %} {% fact "le conservateur a tiré au pistolet sur le héros" %}
+Le jour J, à l'aube, le Héros surprend le Conservateur du musée qui pratique des rituels magiques sur les artefacts. La confrontation tourne à la bagarre. Le héros se défend avec le glaive gaulois, blessant son adversaire à la main gauche. Excédé, le Conservateur lui tire en plein ventre ; puis il le laisse gisant près des artefacts, le pistolet en main - pour faire croire à un suicide - avant de s'enfuir pour s'afficher en public à un évènement mondain. {% xfact "le conservateur a été blessé à la main gauche par le héros" %} {% xfact "le conservateur a tiré au pistolet sur le héros" %}
 
 Lorsque la bibliothèque-musée ouvre à l'heure habituelle, rien d'anormal n'est remarqué. Le Guide-bibliothécaire qui gère les lieux s'émeut juste d'une énorme "tache d'encre" près des artefacts.
 
@@ -59,7 +59,7 @@ Ils reçoivent des points de vue très différents, contradictoires, sur la bibl
 Plus ils sont loin dans cette rotation des interrogatoires, plus les indices ont afflué entretemps, et donc plus ils sont à même de "coincer" un témoin. Chaque groupe aura donc un accès différent aux informations cruciales et aux révélations fracassantes.
 L'inspecteur de police intervient ponctuellement, pour pointer du doigt un détail troublant ou une contradiction.
 
-Pendant tout ce temps, des phénomènes inquiétants commencent à se manifester (sonores, lumineux…). Car le héros s'est en réalité soigné grâce à une potion de guérison, et est parti affronter le Monstre naissant avant qu'il ne soit trop tard, dans une réalité parallèle accessible via le mini-cromlech. {% item "potion de guérison utilisée" is needed %}
+Pendant tout ce temps, des phénomènes inquiétants commencent à se manifester (sonores, lumineux…). Car le héros s'est en réalité soigné grâce à une potion de guérison, et est parti affronter le Monstre naissant avant qu'il ne soit trop tard, dans une réalité parallèle accessible via le mini-cromlech. {% xitem "potion de guérison utilisée" is needed %}
 Un spectre de Druide se manifeste auprès de certains joueurs (les psykers) pour les monter contre le Héros, en mentant sur la gestation en cours - qui est en réalité devenue irrémédiablement incontrôlable et démoniaque.
 
 Il existe deux fins différentes, suivant que les joueurs prennent majoritairement parti pour le Reporter (en faveur du Héros), ou pour le Conservateur (en faveur du Druide et du Monstre) :
@@ -106,14 +106,14 @@ Un **expert en archéologie** peut être présent sur les lieux pour leur détai
 
 En réalité :
 
-- La maquette de Cromlech est le centre névralgique de la malédiction ; il contient un autel diffusant des éclairs, et un portail magique menant au monde parallèle dan lequel l'entité divine se développe. Les symboles de 3 divinités gauloises bénéfiques sont gravés sur le cercle de pierres. {% item "maquette de Cromlech et de portail magique" is needed %}
-- L'armure, le casque et le bouclier romain sont en réalité des offrandes pour l'invocation des druides. Le glaive, lui, a été emporté par le Héros dans le monde parallèle. Le casque peut contenir un crâne (ensorcelé ?), si le public est assez mature. {% item "armure, casque et bouclier romains" is needed %} {% item "crâne optionnel pour le casque romain" is needed %}
-- Le grimoire est en fait factice, impossible à ouvrir ; il est là principalement pour l'ambiance. {% item "grimoire scellé à couverture de bois" is needed %}
-- Un coffre en bois, avec un cadenas à 4 chiffres, est présent. Il contient les éléments suivants. {% item "Coffre en bois avec cadenas à 4 chiffres" is needed %}
+- La maquette de Cromlech est le centre névralgique de la malédiction ; il contient un autel diffusant des éclairs, et un portail magique menant au monde parallèle dan lequel l'entité divine se développe. Les symboles de 3 divinités gauloises bénéfiques sont gravés sur le cercle de pierres. {% xitem "maquette de Cromlech et de portail magique" is needed %}
+- L'armure, le casque et le bouclier romain sont en réalité des offrandes pour l'invocation des druides. Le glaive, lui, a été emporté par le Héros dans le monde parallèle. Le casque peut contenir un crâne (ensorcelé ?), si le public est assez mature. {% xitem "armure, casque et bouclier romains" is needed %} {% xitem "crâne optionnel pour le casque romain" is needed %}
+- Le grimoire est en fait factice, impossible à ouvrir ; il est là principalement pour l'ambiance. {% xitem "grimoire scellé à couverture de bois" is needed %}
+- Un coffre en bois, avec un cadenas à 4 chiffres, est présent. Il contient les éléments suivants. {% xitem "Coffre en bois avec cadenas à 4 chiffres" is needed %}
 
-    - Une tablette noire de défixion (= de sortilège) avec le sigle du dieu gaulois de la guerre.  {% item "tablette de défixion" is needed %}
-    - Un papier moderne décrivant le rituel d'ablution.  {% item "papier résumant le rituel d'ablution" is needed %}
-    - Un cryptex contenant le parchemin médiéval des sigles gaulois.  {% item "cryptex contenant le parchemin médiéval des sigles gaulois" is needed %}
+    - Une tablette noire de défixion (= de sortilège) avec le sigle du dieu gaulois de la guerre.  {% xitem "tablette de défixion" is needed %}
+    - Un papier moderne décrivant le rituel d'ablution.  {% xitem "papier résumant le rituel d'ablution" is needed %}
+    - Un cryptex contenant le parchemin médiéval des sigles gaulois.  {% xitem "cryptex contenant le parchemin médiéval des sigles gaulois" is needed %}
 
 
 
@@ -164,7 +164,7 @@ Reporter : raconte sa rencontre avec le Héros, et les indices troublants de la 
 
 Conservateur : prétend avoir passé la matinée à une cérémonie publique et ne rien comprendre à toute cette affaire.
 
-Trésor : découverte des artefacts du musée, et de la {% symbol "potion de régénération" for "potion_de_soin" %} (utilisée par le Héros).
+Trésor : découverte des artefacts du musée, et de la {% symbol "potion de régénération" for "potion_de_guerison" %} (utilisée par le Héros).
 
 Premier complément d'enquête
 ----------------------------------

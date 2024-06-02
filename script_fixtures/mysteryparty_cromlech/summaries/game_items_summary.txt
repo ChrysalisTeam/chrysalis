@@ -8,7 +8,7 @@ Scenario items
 {% if items_registry %}
 
 .. list-table::
-   :widths: 50 50
+   :widths: 70 30
    :header-rows: 1
 
    * - Item name

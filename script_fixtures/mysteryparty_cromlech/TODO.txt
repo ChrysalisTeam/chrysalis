@@ -23,7 +23,7 @@ Remplacer père de Andrea par mère, diplomate italienne !!   DONE
 
 dolmen ?? dis pater ? mort ? père ?  DONE
 
-Remplacer "Olloudios" etc par SYMBOL tags!!  bof
+Remplacer "Olloudios" etc par SYMBOL tags!!  DONE
 
 Enlever Thaon partout  DONE
 Manque la description archéologique du trésor du musée ?  DONE

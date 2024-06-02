@@ -10,7 +10,7 @@ Vous êtes immédiatement devenu adepte de la **bibliothèque-musée appelée Cr
 
 Là, vous vous êtes lié d'amitié avec un autre étudiant, **Andrea, arrivé il y a {% symbol "trois mois" for "délai_arrivee_du_héros" %}**. Officiellement, il était ici pour préparer sa soutenance de thèse en Histoire gréco-romaine. Mais il vous a rapidement avoué qu'il avait en réalité interrompu ses études de droit international pour investiguer une antique énigme historique, concernant les derniers rebelles gaulois cernés par les armées conquérantes de Jules César. Ce choix de sa part avait d'ailleurs déclenché une persistante fureur chez son mère, **diplomate italienne** auprès de la France.
 
-Vous vous êtes pris au jeu, et avez suivi, conseillé, aidé Andrea tandis qu'il enquêtait sur les origines et les artefacts du Cromlech. Il vous a appris un **langage codé simple** pour que vous puissiez vous transmettre des messages via la bibliothèque, au besoin. Il vous a aussi montré le **"signe des centurions", les bras croisés sur la poitrine**, en assurant que cela pour vous servir le moment venu. {% fact "le héros et le reporter ont un langage codé commun" %} {% fact "le reporter connait le signe des centurions" %}
+Vous vous êtes pris au jeu, et avez suivi, conseillé, aidé Andrea tandis qu'il enquêtait sur les origines et les artefacts du Cromlech. Il vous a appris un **langage codé simple** pour que vous puissiez vous transmettre des messages via la bibliothèque, au besoin. Il vous a aussi montré le **"signe des centurions", les bras croisés sur la poitrine**, en assurant que cela pour vous servir le moment venu. {% xfact "le héros et le reporter ont un langage codé commun" %} {% xfact "le reporter connait le signe des centurions" as author %}
 
 Outrepassant toute prudence, vous avez joué de vos contacts pour faire analyser en pleine nuit, **il y a {% symbol "un mois" for "délai_analyse_du_glaive_antique" %}** de cela, un **glaive** de la collection du Cromlech, "emprunté" par Andrea. Mais le jeu en valait la chandelle : non seulement le musée ne s'est aperçu de rien, mais le glaive s'est révélé être une pièce exceptionnelle, et pas une "réplique" comme le prétend ce cuistre de Conservateur du Cromlech.
 
@@ -21,7 +21,7 @@ Pire encore, Andrea vous a confié craindre pour sa vie, et vous a donné une li
 Le jour du drame
 =====================
 
-Aujourd'hui, vous aviez rendez-vous pour un point hebdomadaire avec Andrea à l'ouverture du Cromlech, à **{% symbol "10h du matin" for "heure_ouverture_du_cromlech_le_jour_j" %}**. Le guide est arrivé sur les lieux à l'heure prévue, et les étudiants ont afflué. Mais Andrea, habituellement si ponctuel, ne s'est pas manifesté. Après **{% symbol "une bonne heure" for "délai_attente_heros_par_reporter_le_jour_j" %}**, vous avez déambulé entre les rayons ; et soudain, constaté que le glaive antique n'était plus dans son fourreau. Vous n'avez pas alerté le guide, au cas où il s'agissait d'une nouvelle initiative d'Andrea. Mais un fauteuil avait été déplacé près des artefacts. Et dessous, vous avez découvert une large tache sombre ; du sang, à peine séché... {% fact "le glaive antique a disparu le jour j" %}
+Aujourd'hui, vous aviez rendez-vous pour un point hebdomadaire avec Andrea à l'ouverture du Cromlech, à **{% symbol "10h du matin" for "heure_ouverture_du_cromlech_le_jour_j" %}**. Le guide est arrivé sur les lieux à l'heure prévue, et les étudiants ont afflué. Mais Andrea, habituellement si ponctuel, ne s'est pas manifesté. Après **{% symbol "une bonne heure" for "délai_attente_heros_par_reporter_le_jour_j" %}**, vous avez déambulé entre les rayons ; et soudain, constaté que le glaive antique n'était plus dans son fourreau. Vous n'avez pas alerté le guide, au cas où il s'agissait d'une nouvelle initiative d'Andrea. Mais un fauteuil avait été déplacé près des artefacts. Et dessous, vous avez découvert une large tache sombre ; du sang, à peine séché... {% xfact "le glaive antique a disparu le jour j" %}
 
 Horrifié, vous avez alors interpellé, via un coursier, les personnes désignées par Andrea ; parmi lesquelles **sa mère, diplomate italienne**. Et en {% symbol "1h" for "délai_attente_police_par_reporter_le_jour_j" %}, les lieux étaient quadrillés par une armée de gendarmes et d'enquêteurs.
 
@@ -41,7 +41,7 @@ Ce que vous savez sur le Guide
 **Eden Schmitt** est typiquement quelqu'un qui semblerait au-dessus de tout soupçon : serviable, jovial voire bavard… mais vous avez récemment appris à vous méfier des apparences.
 A votre arrivée, il débitait des âneries sans nom sur l'antiquité gallo-romaine, à des visiteurs conquis par son éloquence. Mais il s'est rapidement amélioré sur la question, fort heureusement pour la vérité historique.
 
-Récemment, il s'est mis à porter une **chevalière** avec de vieux symboles celtes. Vous aviez déjà vu ce symbole sur un bracelet d'Andrea, qui vous a glissé que cette chevalière était juste un "cadeau de gratitude". {% fact "le guide a désormais une chevalière à la main" %}
+Récemment, il s'est mis à porter une **chevalière** avec de vieux symboles celtes. Vous aviez déjà vu ce symbole sur un bracelet d'Andrea, qui vous a glissé que cette chevalière était juste un "cadeau de gratitude". {% xfact "le guide a désormais une chevalière à la main" %}
 
 
 {% include "characters/_instructions_pour_les_figurants.txt" %}
