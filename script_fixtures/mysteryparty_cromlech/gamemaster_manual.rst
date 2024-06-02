@@ -132,7 +132,7 @@ Les interrogatoires en rotation se déroulent ainsi :
 Une fois la rotation complète finie, les joueurs sont dispersés en fonction de leur "rôle" :
 
 - Les "greffiers" sont rassemblés par le Commissaire pour échanger sur les résultats de leurs investigations
-- Les "psykers" sont briefés par le Druide qui les rend complices de la scène finale (avec des maquillages rapides simulant une possession démoniaque) {% fact "le druide envoûte les psykers à la fin du jeu" %}
+- Les "psykers" sont briefés par le Druide qui les rend complices de la scène finale (avec des maquillages rapides simulant une possession démoniaque) {% xfact "le druide envoûte les psykers à la fin du jeu" %}
 - Le reste des joueurs se regroupe avec l'inspecteur de police auprès du Trésor, et voit les premières manifestations paranormales du dénouement qui approche.
 
 Lorsque les phénomènes paranormaux s'amplifient, les deux camps en présence hèlent les joueurs, qui doivent choisir l'un ou l'autre, et ainsi faire basculer la fin du jeu vers un dénouement heureux ou malheureux.
@@ -180,7 +180,7 @@ Trésor : ouverture probable du cadenas du coffret, et observation de son conten
 
 Intervention de l'inspecteur de police à la moitié de l'entretien :
 
-- Met en évidence la blessure à la main gauche du Conservateur.
+- Met en évidence la blessure à la main gauche du Conservateur. {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
 - Met en évidence la chevalière mystérieuse portée par le Guide (offerte par Andréa).
 
 Deuxième complément d'enquête

@@ -48,12 +48,12 @@ Son intrusion, son culot, son agression verbale vous ont fait perdre votre sang-
 
 Quand vous avez repris vos esprits, le jeune homme gisait devant les artefacts, dans une mare de sang. {% symbol "Olloudios" for "nom_du_spectre" %} vous est apparu, et vous a dicté la marche à suivre :
 
-- Bander votre poignet gauche ensanglanté, et le dissimuler sous un gant noir
-- Nettoyer et remettre le glaive à sa place
-- Placer le revolver dans la main d'Andrea
-- Écrire une fausse lettre d'adieux en son nom (et de la main gauche - aïe - car Andrea était gaucher !)
-- Placer cette lettre bien en évidence près de son corps
-- Aller passer le reste de la matinée dans un événement public, au vu de tous
+- Bander votre poignet gauche ensanglanté, et le dissimuler sous un gant noir ; {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
+- Nettoyer et remettre le glaive à sa place ;
+- Placer le revolver dans la main d'Andrea ;
+- Écrire une fausse lettre d'adieux en son nom (et de la main gauche - aïe - car Andrea était gaucher !) ;
+- Placer cette lettre bien en évidence près de son corps ;
+- Aller passer le reste de la matinée dans un événement public, au vu de tous ;
 
 [BR]
 
@@ -80,7 +80,7 @@ Ce que vous savez sur le Guide
 Ses visites du musée étaient initialement brodées au fil de l'eau, car il n'avait manifestement que peu de connaissances sur le sujet; mais il s'est rapidement amélioré, en apprenant en autodidacte l'Histoire antique.
 Il est charmant avec le public, cuisine bien (ses pâtisseries sont d'un grand secours pour votre moral), et fait preuve d'une rigueur tout juste suffisante dans le rangement des livres.
 
-Vous vous demandez s'il ne s'est pas fait embobiner par Andrea, avec qui il discutait souvent lors de ses passages. Depuis peu, il porte au doigt une **chevalière** qui semble ancienne ; un "cadeau d'admirateur", a-t-il simplement expliqué. {% xfact "le guide a désormais une chevalière à la main" %}
+Vous vous demandez s'il ne s'est pas fait embobiner par Andrea, avec qui il discutait souvent lors de ses passages. Depuis peu, il porte au doigt une **chevalière** qui semble ancienne ; un "cadeau d'admirateur", a-t-il simplement expliqué. {% xfact "le guide a désormais une chevalière à la main" %} {% xitem "chevalière pour le guide" is needed %}
 
 Au vu des récents événements, vous vous dites qu'il faudra peut-être en faire un bouc émissaire, si les choses se corsent plus encore. Il était après tout le seul, avec vous, à avoir les clefs de la bibliothèque... d'ailleurs, peut-être a-t-il vraiment un lien avec cette intrusion du **jeune italien** ?
 

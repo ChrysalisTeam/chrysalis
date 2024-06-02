@@ -4,8 +4,8 @@
   - "Accessoires-marqueurs pour les psykers"
 
 "Figurants":
-  - "Chevalière pour le guide"
-  - "Bandage sanglant au poignet pour le conservateur"
+  - '{% item "Chevalière pour le guide" is provided %} IMPORTANT'
+  - '{% item "Bandage sanglant au poignet pour le conservateur" is provided %} IMPORTANT'
 
 "Trésor du musée":
   - '{% item "Maquette de Cromlech et de portail magique " is provided %} IMPORTANT'

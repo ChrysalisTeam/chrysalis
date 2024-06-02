@@ -1,18 +1,18 @@
 
 Costume du druide spectrale
 
-Met en évidence la blessure à la main gauche du Conservateur.
-
-Manque description/usage de la chevaliere magique ???
-
-Les “psykers” sont briefés par le Druide qui les rend complices de la scène
-finale <<< à écrire
-
 Mettre ETIQUETTES sur artefacts MAGIQUES, pour joueurs
 
 
 TRASH
 =================
+
+Met en évidence la blessure à la main gauche du Conservateur.  DONE
+
+Manque description/usage de la chevaliere magique ???  DONE
+
+Les “psykers” sont briefés par le Druide qui les rend complices de la scène
+finale <<< à écrire   DONE
 
 Code du coffre et du cryptex ???  WIP
 
