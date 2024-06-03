@@ -30,8 +30,8 @@
     "inventory_per_crate_destination": "inventories/main_inventory_per_crate"
 
 "document_generation":
-  "game_paper_clues":
-    "document_source": "documents/clues_for_game.odt"
+  "indices_du_jeu":
+    "document_source": "documents/indices_du_jeu.odt"
     "document_splitting":
       - ["symboles_de_mythologie_gauloise", 1]
       - ["lettre_medievale_sur_runes_du_cromlech", 1]
@@ -41,7 +41,7 @@
   "variables":
 
   "sheets":
-    "gamemaster_manual":
+    "manuel_du_maitre_de_jeu":
       "settings":
         "rst2pdf_extra_args": "--stylesheets=layout_large_fonts,with_cover_and_background"
       "full_sheet": "gamemaster_manual.rst"
@@ -73,7 +73,7 @@
           "full_sheet":
             - "characters/detectives_du_paranormal.rst"
 
-    "ingame_clues":
+    "informations":
       "variables": {}
       "sheets":
         "rapports_de_police":

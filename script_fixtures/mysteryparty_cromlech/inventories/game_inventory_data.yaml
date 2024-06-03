@@ -4,16 +4,16 @@
   - "Brassards pour les psykers"
 
 "Figurants":
-  - 'Costume du spectre de druide'
-  - 'Tatouages-éclair pour maquiller les psykers en fin de jeu'
-  - 'Nppes et lanternes pour l''ambiance'
   - '{% item "Chevalière pour le guide" is provided %} IMPORTANT'
   - '{% item "Bandage sanglant au poignet pour le conservateur" is provided %} IMPORTANT'
+  - 'Costume du spectre de druide'
+  - 'Tatouages-éclair pour maquiller les psykers en fin de jeu'
+  - 'Nappes et lanternes pour l''ambiance'
 
 "Trésor du musée":
   - '{% item "Maquette de Cromlech et de portail magique " is provided %} IMPORTANT'
   - '{% item "Tablette noire de défixion" is provided %} IMPORTANT'
-  - '{% item "grimoire scellé à couverture de bois" is provided %} IMPORTANT'
+  - '{% item "Grimoire scellé à couverture de bois" is provided %} IMPORTANT'
   - '{% item "Armure, casque et bouclier romains" is provided %}'
   - '{% item "Crâne électronique et/ou normal, en option, pour mettre dans le casque romain" is provided %}'
   - '{% item "Potion de guérison utilisée" is provided %} (avec étiquette) IMPORTANT'

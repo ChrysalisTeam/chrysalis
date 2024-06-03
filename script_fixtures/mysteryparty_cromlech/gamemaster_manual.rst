@@ -75,7 +75,7 @@ Mais ils disposent de quelques indices pour les aider à trancher :
 - L'étude des artefacts indique un lien avec {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, le dieu-guerrier sanguinaire des gaulois, et un rejet des dieux et déesses plus pacifiques du panthéon celtique.
 
 
-Descriptions des principaux figurants
+Descriptions des figurants
 ===========================================
 
 Le/la conservateur.trice du Cromlech
@@ -94,12 +94,12 @@ L'inspecteur.trice de police
     Il supervise les opérations. À la façon de "Sherlock Holmes", il intervient ponctuellement pour partager aux joueurs quelques géniales observations et intuitions.
 
 
-Description du "trésor" du musée
----------------------------------
+Description du trésor du musée
+===========================================
 
 Lorsque c'est leur tour, au lieu d'interroger un des témoins, les joueurs vont inspecter les artefacts antiques du musée.
 
-Un **expert en archéologie** peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents, ou bien ils ont accès directement au document **Le Trésor du Cromlech**.
+Un **expert en archéologie** peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents ; ou bien ils ont accès directement au document **Le Trésor du Cromlech**.
 
 En réalité :
 

@@ -12,7 +12,7 @@ Les principaux sujets d'enquête sont :
 
 Les interrogatoires en rotation se déroulent ainsi :
 
-- L'inspecteur de police briefe les joueurs sur la situation et leur rôle, et leur donne un rapport d'enquête initial ;
+- L'inspecteur de police briefe les joueurs sur la situation et leur rôle, leur fournit **l'article de journal** sur le Cromlech, et leur donne le rapport d'enquête initial ;
 - Les 4 groupes de joueurs tournent, dans l'ordre, entre les 4 points d'intérêt, à raison de 15 minutes sur chacun : **Guide, Reporter, Conservateur, et Trésor du musée** ;
 - Au moment de chaque rotation, les joueurs reçoivent un complément d'enquête, permettant d'être davantage en position de force lors de la rencontre suivante ;
 - L'inspecteur de police tourne entre les points d'intérêts et y fait des interventions scriptées durant les interrogatoires, afin d'ajouter du roleplay et des indices ;

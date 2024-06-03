@@ -21,9 +21,11 @@ Vos premières prestations en tant que guide étaient tout sauf rigoureuses, car
 
 **Voir le document "Le Siège d'Uxellodunum" à ce sujet.**
 
-**Il y a {% symbol "un mois" for "délai_guide_a_donné_double_des_clefs_au_héros" %}**, vous vous êtes retrouvé face à un cas de conscience : un jeune étudiant italien fréquentant depuis peu le Cromlech, **{% symbol "Andrea di Revel" for "nom_du_héros" %}**, insistait pour avoir accès plus tôt chaque jour à ce lieu d'études, sous peine de rater ses examens - car sa colocation était trop bruyante.
+**Il y a {% symbol "un mois" for "délai_guide_a_donné_clefs_au_héros" %}**, vous vous êtes retrouvé face à un cas de conscience : un jeune étudiant italien fréquentant depuis peu le Cromlech, **{% symbol "Andrea di Revel" for "nom_du_héros" %}**, insistait pour avoir accès plus tôt chaque jour à ce lieu d'études, sous peine de rater ses examens - car sa colocation était trop bruyante.
 
-Votre bonne âme a fini par avoir raison de votre éthique professionnelle, et vous lui avez donné un double des clefs ; après tout, il est de bonne famille, ce n'est que pour quelques semaines, il n'y a pas d'objets de valeur sur place, et c'est toujours vous qui ouvrez les lieux le matin, donc les risques d'une rencontre impromptue avec le Conservateur sont infimes... en remerciement, il vous a offert une jolie **chevalière** d'inspiration romaine, censée "porter chance", que vous gardez désormais fièrement au doigt. {% xfact "le guide a désormais une chevalière à la main" as author %} {% xitem "chevalière pour le guide" is needed %}
+Votre bonne âme a fini par avoir raison de votre éthique professionnelle, et vous lui avez donné un double des clefs ; après tout, il est de bonne famille, ce n'est que pour quelques semaines, il n'y a pas d'objets de valeur sur place, et c'est toujours vous qui ouvrez les lieux le matin, donc les risques d'une rencontre impromptue avec le Conservateur sont infimes...
+
+En remerciement, il vous a offert une jolie **chevalière** d'inspiration romaine, censée "porter chance", que vous gardez désormais fièrement au doigt. {% xfact "le guide a désormais une chevalière à la main" as author %} {% xitem "chevalière pour le guide" is needed %}
 
 Le jour du drame
 ===================
