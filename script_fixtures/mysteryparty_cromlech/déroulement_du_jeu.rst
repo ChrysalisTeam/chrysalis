@@ -7,7 +7,7 @@ Résumé bout-en-bout
 Les principaux sujets d'enquête sont :
 
 - Que s'est-il passé ce matin ? Témoin principal : le Conservateur.
-- D'où viennent les artefacts gallo-romain en réalité ? Témoin principal : le Guide.
+- D'où viennent les artefacts antiques en réalité ? Témoin principal : le Guide.
 - Quel secret renferment ces artefacts ? Témoin principal : le Reporter.
 
 Les interrogatoires en rotation se déroulent ainsi :

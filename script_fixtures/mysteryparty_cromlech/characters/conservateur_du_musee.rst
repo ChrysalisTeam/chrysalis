@@ -16,7 +16,7 @@ Et {% symbol "Olloudios" for "nom_du_spectre" %} vous a délivré une terrible n
 
 Il était encore temps d'éviter un cataclysme, en remettant ces antiquités au centre de la société, afin qu'elles puissent se nourrir de l'essence vitale et de l'énergie psychique des humains. À l'écouter, c'était de l'ordre universel tout entier dont il était question, à travers l'immémoriale magie des druides. {% xfact "les artefacts doivent rester au contact des humains" %}
 
-Pris au piège de cette responsabilité inattendue, vous avez suspendu votre carrière pour suivre les étranges instructions d'{% symbol "Olloudios" for "nom_du_spectre" %} : les artefacts gallo-romains devaient à tout moment rester ensemble, à l'air libre, dans un lieu où passeraient beaucoup de personnes... être touchés par elles si possible... sans toutefois éveiller l'attention des archéologues.
+Pris au piège de cette responsabilité inattendue, vous avez suspendu votre carrière pour suivre les étranges instructions d'{% symbol "Olloudios" for "nom_du_spectre" %} : les artefacts gaulois et romains devaient à tout moment rester ensemble, à l'air libre, dans un lieu où passeraient beaucoup de personnes... être touchés par elles si possible... sans toutefois éveiller l'attention des archéologues.
 
 Une équation compliquée, que vous n'avez résolue qu'en montant un petit musée-bibliothèque unique en son genre : le **{% symbol "Cromlech" for "nom_du_musee" %}**. Un lieu d'étude assez connu pour brasser du monde et être viable économiquement, mais assez discret pour ne pas attirer l'attention. Vous avez fait passer les artefacts antiques pour des "répliques fidèles", afin de justifier leur intérêt académique tout en permettant aux passants de les manipuler.
 

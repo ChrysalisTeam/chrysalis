@@ -20,7 +20,7 @@ Synopsis
 
 Le Cromlech est un bâtiment inclassable, mi-bibliothèque mi-musée, qui est devenu le repaire des étudiants du quartier.
 
-Mais la police y débarque en force un beau matin : un habitué des lieux a disparu, en même tempe que le glaive antique du Trésor Gallo-romain.
+Mais la police y débarque en force un beau matin : un habitué des lieux a disparu, en même tempe que le glaive du Trésor antique.
 
 Il va falloir mener l'enquête, et vite, car l'affaire risque de rapidement devenir hors de contrôle...
 
@@ -28,7 +28,7 @@ Il va falloir mener l'enquête, et vite, car l'affaire risque de rapidement deve
 Histoire complète (SPOILERS)
 ===================================
 
-*Ce jeu reprend l'ambiance (mais pas le lore) de Lovecraft et du Mythe de Cthulhu. L'action des joueurs se déroule dans bibliothèque à première vue banale, mais qui renferme des artefacts maudits issus de la civilisation gallo-romaine.*
+*Ce jeu reprend l'ambiance (mais pas le lore) de Lovecraft et du Mythe de Cthulhu. L'action des joueurs se déroule dans bibliothèque à première vue banale, mais qui renferme des artefacts maudits issus de l'ère pré-gallo-romaine.*
 
 Dans l'antiquité, suite à la défaite d'Alésia (52 av. J.-C), les Gaulois ont été conquis par Jules César. Mais pas tous. Des tribus rebelles ont continué le combat, et se sont réfugiées dans l'oppidum d'Uxellodunum (dans les massifs du Quercy). Affamés par le siège des Romains, ils ont fini par se rendre à leur tour.
 
