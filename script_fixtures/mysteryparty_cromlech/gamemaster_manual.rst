@@ -22,8 +22,6 @@ Le Cromlech est un bâtiment inclassable, mi-bibliothèque mi-musée, qui est de
 
 Mais la police y débarque en force un beau matin : un habitué des lieux a disparu, en même tempe que le glaive antique du Trésor Gallo-romain.
 
-Vous êtes une agence de détectives privés spécialisés dans le paranormal, appelée en renfort.
-
 Il va falloir mener l'enquête, et vite, car l'affaire risque de rapidement devenir hors de contrôle...
 
 
