@@ -20,7 +20,7 @@ Pris au piège de cette responsabilité inattendue, vous avez suspendu votre car
 
 Une équation compliquée, que vous n'avez résolue qu'en montant un petit musée-bibliothèque unique en son genre : le **{% symbol "Cromlech" for "nom_du_musee" %}**. Un lieu d'étude assez connu pour brasser du monde et être viable économiquement, mais assez discret pour ne pas attirer l'attention. Vous avez fait passer les artefacts antiques pour des "répliques fidèles", afin de justifier leur intérêt académique tout en permettant aux passants de les manipuler.
 
-La réussite de ce projet est en grande partie due au guide-bibliothécaire que vous avez embauché il y a {% symbol "1 an" for "délai_arrivée_du_guide_au_cromlech" %}, **{% symbol "Eden Schmitt" for "nom_du_guide" %}**. Il a su fidéliser la clientèle par sa jovialité, sa serviabilité, et ses récits hauts en couleur sur les artefacts du musée.
+La réussite de ce projet est en grande partie due au guide-bibliothécaire que vous avez embauché **il y a {% symbol "1 an" for "délai_arrivée_du_guide_au_cromlech" %}, {% symbol "Eden Schmitt" for "nom_du_guide" %}**. Il a su fidéliser la clientèle par sa jovialité, sa serviabilité, et ses récits hauts en couleur sur les artefacts du musée.
 
 Il persiste à vous appeler "Conservateur" devant les gens, mais vous clarifiez bien, si on vous questionne à ce sujet, que vous êtes juste "Gérant" sans aucun diplôme lié à l'Histoire – nul besoin d'avoir des ennuis juridiques avec cette corporation très élitiste.
 Cela ne vous empêche pas de rejeter avec condescendance les étudiant(e)s en Histoire qui feraient mine de "vous apprendre votre métier" - bien qu'ils aient, au fond, raison.
@@ -50,16 +50,16 @@ Quand vous avez repris vos esprits, le jeune homme gisait devant les artefacts, 
 
 - Bander votre poignet gauche ensanglanté, et le dissimuler sous un gant noir ; {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
 - Nettoyer et remettre le glaive à sa place ;
-- Placer le revolver dans la main d'Andrea ;
-- Écrire une fausse lettre d'adieux en son nom (et de la main gauche - aïe - car Andrea était gaucher !) ;
+- Placer le revolver dans la main gauche d'Andrea (car Andrea était gaucher !) ;
+- Écrire une fausse lettre d'adieux en son nom (de la main gauche - aïe - toujours) ;
 - Placer cette lettre bien en évidence près de son corps ;
-- Aller passer le reste de la matinée dans un événement public, au vu de tous ;
+- Aller passer le reste de la matinée dans un événement public, au vu de tous.
 
 [BR]
 
 Vous avez suivi ces instructions à la lettre, et êtes parti vous mêler aux notables, dans une cérémonie de remise de prix littéraires, le **concours Maurice Genevoix**, à l'autre bout de la ville ; vous êtes arrivé discrètement vers **{% symbol "10h" for "arrivée_conservateur_à_cérémonie_le_jour_j" %}, plus d'une heure après qu'elle ait commencé**, mais vous avez caché ce détail lors du cocktail qui a suivi. Malgré votre cerveau sens dessus dessous, vous avez à peu près réussi à donner le change **auprès du bourgmestre, du grand-maître du conservatoire, de l'autrice dramatique Jeanne Lubeck**... en théorie.
 
-Lorsque vous êtes revenu à la bibliothèque, peu avant midi, aucun gendarme n'était en vue. Le guide et les habitués vaquaient à leurs occupations. Aucun corps dans la salle des artefacts.
+Lorsque vous êtes revenu à la bibliothèque, **peu avant midi**, aucun gendarme n'était en vue. Le guide et les habitués vaquaient à leurs occupations. Aucun corps dans la salle des artefacts.
 S'il n'y avait eu la tache de sang sombre au sol, dissimulée sous un fauteuil déplacé, vous auriez juré avoir rêvé.
 
 {% symbol "Olloudios" for "nom_du_spectre" %} avait-il changé de plan ?

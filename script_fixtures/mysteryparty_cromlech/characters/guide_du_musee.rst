@@ -13,7 +13,7 @@ Lorsque vous avez vu passer une annonce pour un travail idéal, mêlant accueil 
 
 Le **"Conservateur" du Cromlech, {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}**, vous a donné carte blanche pour créer un espace de travail agréable pour les étudiants du quartier, structurer la collection de livres, et présenter les pièces de musée à qui le désire.
 
-Ce "musée" est sans doute le point le plus étrange des lieux. Vous aviez trouvé un beau présentoir en verre pour exposer les quelques artefacts antiques tout en les protégeant, mais le Conservateur a catégoriquement refusé. Il a argué que, par pédagogie, les visiteurs devaient pouvoir manipuler les pièces exposées, d'autant qu'il ne s'agissait que de "répliques fidèles". Il fallait juste vérifier de temps en temps qu'elles étaient toutes bien en place – ce que vous oubliez souvent de faire, admettons-le.
+Ce "musée" est sans doute le point le plus **étrange** des lieux. Vous aviez trouvé un beau présentoir en verre pour exposer les quelques artefacts antiques tout en les protégeant, mais le Conservateur a catégoriquement refusé. Il a argué que, par pédagogie, les visiteurs devaient pouvoir manipuler les pièces exposées, d'autant qu'il ne s'agissait que de "répliques fidèles". Il fallait juste vérifier de temps en temps qu'elles étaient toutes bien en place – ce que vous oubliez souvent de faire, admettons-le.
 
 Il a aussi insisté pour que les pièces soient à un endroit de fort passage, alors qu'une petite pièce isolée et bien décorée leur aurait donné plus de cachet... mais enfin bon.
 
@@ -23,7 +23,7 @@ Vos premières prestations en tant que guide étaient tout sauf rigoureuses, car
 
 **Il y a {% symbol "un mois" for "délai_guide_a_donné_clefs_au_héros" %}**, vous vous êtes retrouvé face à un cas de conscience : un jeune étudiant italien fréquentant depuis peu le Cromlech, **{% symbol "Andrea di Revel" for "nom_du_héros" %}**, insistait pour avoir accès plus tôt chaque jour à ce lieu d'études, sous peine de rater ses examens - car sa colocation était trop bruyante.
 
-Votre bonne âme a fini par avoir raison de votre éthique professionnelle, et vous lui avez donné un double des clefs ; après tout, il est de bonne famille, ce n'est que pour quelques semaines, il n'y a pas d'objets de valeur sur place, et c'est toujours vous qui ouvrez les lieux le matin, donc les risques d'une rencontre impromptue avec le Conservateur sont infimes...
+Votre bonne âme a fini par avoir raison de votre éthique professionnelle, et vous lui avez donné un **double des clefs** ; après tout, il est de bonne famille, ce n'est que pour quelques semaines, il n'y a pas d'objets de valeur sur place, et c'est toujours vous qui ouvrez les lieux le matin, donc les risques d'une rencontre impromptue avec le Conservateur sont infimes...
 
 En remerciement, il vous a offert une jolie **chevalière** d'inspiration romaine, censée "porter chance", que vous gardez désormais fièrement au doigt. {% xfact "le guide a désormais une chevalière à la main" as author %} {% xitem "chevalière pour le guide" is needed %}
 
