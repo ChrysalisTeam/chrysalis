@@ -73,7 +73,7 @@ Trésor : ouverture probable du cadenas du coffret, et observation de son conten
 Intervention de l'inspecteur de police à la moitié de l'entretien :
 
 - Met en évidence la blessure à la main gauche du Conservateur. {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
-- Met en évidence la chevalière mystérieuse portée par le Guide (offerte par Andréa).
+- Accuse le Guide d'avoir fabriqué de faux diplômes.
 
 Deuxième complément d'enquête
 ----------------------------------
@@ -96,7 +96,7 @@ Trésor : ouverture probable du cryptex, et étude de son contenu.
 Intervention de l'inspecteur de police à la moitié de l'entretien :
 
 - Vient challenger le conservateur sur le fait que la lettre a été écrite d'une main tremblante, donc peut-être "blessée".
-- Accuse le Guide d'avoir fait de faux diplômes.
+- Met en évidence la chevalière mystérieuse portée par le Guide (offerte par Andréa).
 
 Troisième et dernier complément d'enquête
 ------------------------------------------------

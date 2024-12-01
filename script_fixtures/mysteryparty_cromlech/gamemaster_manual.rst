@@ -32,7 +32,7 @@ Histoire complète (SPOILERS)
 
 Dans l'antiquité, suite à la défaite d'Alésia (52 av. J.-C), les Gaulois ont été conquis par Jules César. Mais pas tous. Des tribus rebelles ont continué le combat, et se sont réfugiées dans l'oppidum d'Uxellodunum (dans les massifs du Quercy). Affamés par le siège des Romains, ils ont fini par se rendre à leur tour.
 
-Mais quelques druides, venus d'Armorique, ont mis en place une ultime vengeance. Réfugiés avec des fuyards dans une grotte, ils ont invoqué par de sombres maléfices leur dieu tutélaire ; avec pour objectifs de faire naître un guerrier mythique, qui renverserait le cours des choses et leur apporterait la victoire.
+Mais quelques druides, venus d'Armorique, ont mis en place une ultime vengeance. Réfugiés avec des fuyards dans une grotte, ils ont invoqué par de sombres maléfices leur dieu tutélaire, {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %} ; avec pour objectifs de faire naître un guerrier mythique, qui renverserait le cours des choses et leur apporterait la victoire.
 
 Cependant, la gestation de cette entité s'est avérée plus longue et complexe que prévue. Les ablutions et rituels - nécessaires au bon déroulement de l'opération - ont été maintes fois interrompus au long de l'Histoire.
 
@@ -51,7 +51,7 @@ Cela fait que toute une population débarque sur les lieux : l'inspecteur de pol
 Les joueurs-détectives investiguent donc dans les lieux, en interrogeant par groupes, en parallèle, les divers témoins de cette affaire.
 Ils reçoivent des points de vue très différents, contradictoires, sur la bibliothèque-musée, le Héros, et les différents témoins. Ils doivent démêler le vrai du faux.
 
-Plus ils sont loin dans cette rotation des interrogatoires, plus les indices ont afflué entretemps, et donc plus ils sont à même de "coincer" un témoin. Chaque groupe aura donc un accès différent aux informations cruciales et aux révélations fracassantes.
+Plus ils avancent dans cette rotation des interrogatoires, plus les indices ont afflué entretemps, et donc plus les joueurs sont à même de "coincer" un témoin. Chaque groupe aura donc un accès différent aux informations cruciales et aux révélations fracassantes.
 L'inspecteur de police intervient ponctuellement, pour pointer du doigt un détail troublant ou une contradiction.
 
 Pendant tout ce temps, des phénomènes inquiétants commencent à se manifester (sonores, lumineux…). Car le héros s'est en réalité soigné grâce à une potion de guérison, et est parti affronter le Monstre naissant avant qu'il ne soit trop tard, dans une réalité parallèle accessible via le mini-cromlech. {% xitem "potion de guérison utilisée" is needed %}
@@ -61,7 +61,7 @@ Un spectre de Druide se manifeste auprès de certains joueurs (les psykers) pour
 Il existe deux fins différentes, suivant que les joueurs prennent majoritairement parti pour le Reporter (en faveur du Héros), ou pour le Conservateur (en faveur du Druide et du Monstre) :
 
 - Soit le héros terrasse la bête en gestation et revient dans le monde des vivants ; le monde est alors sauvé.
-- Soit le Héros échoue, s'enfuit, des catastrophes naturelles (d'oigine démoniaque) se déversent alors sur Rome et le reste de l'Italie.
+- Soit le Héros échoue, s'enfuit, et des catastrophes naturelles (d'origine démoniaque) se déversent alors sur Rome et le reste de l'Italie.
 
 **Important :**
 
@@ -107,5 +107,5 @@ En réalité :
 - Un coffre en bois, avec un cadenas à 4 chiffres, est présent. Il contient les éléments suivants. {% xitem "Coffre en bois avec cadenas à 4 chiffres" is needed %}
 
   - Une {% item "tablette noire de défixion" is needed %} (= de sortilège) avec le sigle du dieu gaulois de la guerre.
-  - Un {% item "cryptex contenant le parchemin médiéval des symboles gaulois" is needed %}.
+  - Un {% item "cryptex contenant le parchemin médiéval" is needed %}.
 

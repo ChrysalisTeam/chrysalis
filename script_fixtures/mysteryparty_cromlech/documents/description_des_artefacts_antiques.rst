@@ -53,7 +53,7 @@ Artefacts cachés
 
 *Voici les indications à donner, après avoir simulé l'étude de ces objets, une fois que les joueurs les ont trouvés.*
 
-Le cryptex cylindrique en métal : semble dater de l'époque médiévale. Son "mot de passe" est inconnu.
+Le **cryptex cylindrique** en métal : semble dater de l'époque médiévale. Son "mot de passe" est inconnu.
 
-Le parchemin contenu dans le cryptex : lui aussi médiéval, il semble faire référence à Bertrand du Guesclin, né vers 1320 et mort en 1380. C'était un noble breton, connétable de France et de Castille, personnage majeur de la première partie de la guerre de Cent Ans.
+Le **parchemin** contenu dans le cryptex : lui aussi médiéval, il semble faire référence à Bertrand du Guesclin, né vers 1320 et mort en 1380. C'était un noble breton, connétable de France et de Castille, personnage majeur de la première partie de la guerre de Cent Ans.
 
