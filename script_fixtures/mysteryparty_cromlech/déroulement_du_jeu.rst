@@ -179,7 +179,7 @@ Conciliabules finaux
 Tout le monde se rassemble **HORS DE la salle du trésor**.
 
 - Tous les "greffiers" sont rassemblés par l'inspecteur de police pour échanger sur les résultats de leurs investigations.
-- Tous les "psykers" sont rassemblés et briefés par le Druide : ils sont désormais comme des zombies, soumis à sa volonté de druide, et vont être ses complices dans la scène finale (avec des maquillages rapides simulant une possession démoniaque). Ils doivent désormais marcher lentement, parfois bégayer des choses incompréhensibles, et suivre les ordres du druide. {% xfact "le druide envoûte les psykers à la fin du jeu" %}
+- Tous les "psykers" sont rassemblés et briefés par le Druide : ils sont désormais comme des zombies, soumis à sa volonté de druide, et vont être ses complices dans la scène finale (avec des **maquillages rapides** simulant une possession démoniaque). Ils doivent désormais marcher lentement, parfois bégayer des choses incompréhensibles, et suivre les ordres du druide. {% xfact "le druide envoûte les psykers à la fin du jeu" %}
 - Le reste des joueurs reste à discuter ensemble.
 
 **LOGISTIQUE : Enlever le smartphone de la porte du Cromlech miniature (sécurité) et mettre l'aiguille de la bobine Tesla.**
@@ -189,13 +189,14 @@ Scène finale
 ---------------------------------
 
 - Les joueurs sont appelés à revenir auprès du **Trésor**.
-- Le druide pousse en parallèle les psykers à retourner, plutôt discrètement, auprès de leurs groupes.
-- La bande son finale est lancée, le Cromlech se met à crépiter ponctuellement.
-- 30s après le début, la bobine Tesla du Cromlech se met à faire le "Dies Irae" en musique ; le **Reporter**, suivi par le **Guide**, appelle alors les joueurs à le rejoindre à **gauche** du Cromlech, et à réaliser le "signe des centurions" avec lui pour aider Andrea (bras croisés sur la poitrine). **Slogan à répéter : "Par la Gloire de Jupiter".**
-- 12s plus tard, à la reprise du "Dies Irae", c'est au tour du **Druide** (en français approximatif désormais), suivi par le **Conservateur**, à exhorter les joueurs à le rejoindre à **droite** du Cromlech, et à réaliser le "signe des druides" avec lui (réaliser une forme de menhir avec les bras et les mains) pour sauver le dernier voeu des druides. Les psyckers zombies suivent ses ordres. **Slogan à répéter : "Par la Force de Toutatis".**
+- Le druide pousse en parallèle les **psykers zombies** à retourner, plutôt discrètement, auprès de leurs groupes.
+- La bande son finale est lancée, le Cromlech se met à **crépiter** ponctuellement.
+- 30s après le début, la bobine Tesla du Cromlech se met aussi à faire le "Dies Irae" en musique ; le **Reporter**, suivi par le **Guide**, appelle alors les joueurs à le rejoindre à **gauche** du Cromlech, et à réaliser le "signe des centurions" avec lui pour aider Andrea (bras croisés sur la poitrine). **Slogan à répéter : "Par la Gloire de Jupiter".**
+- 12s plus tard, à la reprise du "Dies Irae" par la bobine Tesla, c'est au tour du **Druide** (en français approximatif désormais), suivi par le **Conservateur**, à exhorter les joueurs à le rejoindre à **droite** du Cromlech, et à réaliser le "signe des druides" avec lui (réaliser une forme de menhir avec les bras et les mains) pour sauver le dernier voeu des druides. Les psyckers zombies suivent ses ordres. **Slogan à répéter : "Par la Force de Toutatis".**
 - Le Cromlech se calme mais la musique continue, les deux camps doivent continuer leurs slogans.
 - L'inspecteur exhorte les joueurs indécis à choisir leur camp, car **"rester impassible en de telles situations de danger est un crime"**.
 - À la fin de la musique, Andrea apparait, il explique le **dénouement (sa victoire ou sa défaite)** et ce que cela signifie pour le Monde.
+- Annonce de la FIN DU JEU !
 
 
 Debriefing
