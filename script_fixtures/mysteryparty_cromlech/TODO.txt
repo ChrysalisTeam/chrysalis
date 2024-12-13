@@ -1,30 +1,55 @@
 A AJOUTER POUR LES JOUEURS :
 (pour aider l'enquête)
 
+
+Ajouter MOT apparu dans grimoire
+
+
 Les point d l'affaire sur lesquels il nous faut au plus vite investiguer :
 
 - L'historique du témoin interrogé, en particulier vis à vis de la bibliothèque-musée appelée "Cromlech", de la personne disparue, et des autres témoins de l'affaire
 - Toute information utile sur la personne disparu
 - Quelle est l'origine des artefects du musée, en particulier celui volé ?
 
-BIEN DIRE Qu'on est en l'an 1900 !!
+
+- AJouter en INVENTAIRE le parchemin supplémentaire (message d'Andréa) et portable avec VORTEX
+
 
 TODO FICHES:
+Ajouter des insctructions pour le druide, ses interactions avec le Conservateur au début du jeu, sa surprise d'être visible des joueurs !!! done
+
+
+gant noir !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+faire timeline!!!!
+
+ancrer temporailite du jeu en decembre 1900 à 12h30
+on est dans vieux lyon <<<<<<<<<<<<<<<
+
+CREER LECON HISTOIRE PROFESSEUR
+
+!!! mettre à quelle heure le jour j le guide a vu le conservateur  (peu avant midi) !!!!! <<<<<<<<<<
+
+
+joueurs peuvent investiguer dires des figurants !  done
 
 briefer joueurs sur fin du jeu
 
-briefer conservateur sur olodousios
+briefer conservateur sur olloudios
 
 lire sur du guesclin
 
-dire que c'est copies
+dire que c'est copies, les artefacts (done)
 
-on est dans vieux lyon
 
 faitre timeline des posture du conservateur
 
 Harmoniser salle des antiquité ou du trésor ?? Naming
 
+; il leur donne **l'article de journal** sur le Cromlech, et llele rapport d'enquête initial ;
+
+Plus précisément, le Reporter, suivi par le Guide, doit appeler les joueurs à réaliser le "signe des centurions" avec eux pour aider le Andrea ; tandis que le Druide, suivi par le Conservateur, doit les exhorter à réaliser le "signe des druides" avec eux pour aider l'entité divine en gestation.
 
 
 TRASH

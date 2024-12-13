@@ -103,7 +103,7 @@ En réalité :
 
 - La maquette de Cromlech est le centre névralgique de la malédiction ; il contient un autel diffusant des éclairs, et un portail magique menant au monde parallèle dan lequel l'entité divine se développe. Les symboles de 3 divinités gauloises bénéfiques sont gravés sur le cercle de pierres. {% xitem "maquette de Cromlech et de portail magique" is needed %}
 - L'armure, le casque et le bouclier romain sont des offrandes en soutien à l'invocation des druides. Le glaive, lui, a été emporté par le Héros dans le monde parallèle. Le casque peut contenir un crâne (normal puis ensorcelé ?), si le public est assez mature. {% xitem "armure, casque et bouclier romains" is needed %} {% xitem "crâne électronique et/ou normal, en option, pour mettre dans le casque romain" is needed %}
-- Le grimoire est en fait factice, impossible à ouvrir ; il est là principalement pour l'ambiance. {% xitem "grimoire scellé à couverture de bois" is needed %}
+- Le grimoire est en fait factice, il est là principalement pour l'ambiance, mais peut faire apparaître en son sein un indice supplémentaire en milieu de partie. {% xitem "grimoire scellé à couverture de bois" is needed %}
 - Un coffre en bois, avec un cadenas à 4 chiffres, est présent. Il contient les éléments suivants. {% xitem "Coffre en bois avec cadenas à 4 chiffres" is needed %}
 
   - Une {% item "tablette noire de défixion" is needed %} (= de sortilège) avec le sigle du dieu gaulois de la guerre.

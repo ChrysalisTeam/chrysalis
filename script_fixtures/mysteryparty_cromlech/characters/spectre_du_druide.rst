@@ -15,7 +15,7 @@ Mais cette gestation a été chaotique, irrégulière, au long de siècles ; et 
 Vos actions au long de l'enquête
 ====================================
 
-Vous avez aidé le Conservateur à agir au mieux suite à sa bavure envers Andréa (voir sa feuille de personnage).
+Vous avez aidé le Conservateur à agir au mieux suite à sa bavure envers Andréa *(voir sa feuille de personnage)*.
 
 Vous vous êtes absenté pour vous ressourcer dans vos "limbes" spirituelles, mais à votre retour le corps d'Andréa avait disparu… tout comme le glaive. {% xfact "le glaive antique a disparu le jour j" %}
 

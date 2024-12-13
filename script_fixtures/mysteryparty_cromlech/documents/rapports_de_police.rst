@@ -73,8 +73,7 @@ Un glaive antique du musée a disparu.
 
 Aucune autre propriété du musée n'a été signalée comme manquante.
 
-[PAGEBREAK]
-
+[BR][BR][BR][BR]
 
 Complément d'enquête #1
 ################################
@@ -104,8 +103,7 @@ Du matériel liturgique très ancien a été trouvé caché dans le bureau de {%
 
 Une enveloppe égarée, non timbrée, avait été mise aux Objets Trouvés du musée par {% symbol "Eden Schmitt" for "nom_du_guide" %}, ce matin. Il s'agit d'une "lettre d'adieux", écrite de la main gauche, où Andrea annonce vouloir quitter ce monde cruel. Nous sommes en train d'expertiser cette missive, et de déchiffrer le message codé qui est gribouillé sur son enveloppe.
 
-[PAGEBREAK]
-
+[BR][BR][BR][BR][BR][BR][BR]
 
 Complément d'enquête #3
 ################################
