@@ -15,8 +15,8 @@ Les interrogatoires en rotation se déroulent ainsi :
 
 - L'inspecteur de police briefe les joueurs sur la situation et leur rôle, sur les services qu'il peut leur apporter, et leur fournit des documents initiaux.
 - Les 4 groupes de joueurs tournent, dans l'ordre, entre les 4 points d'intérêt, à raison de 15 minutes sur chacun ;
-- Au moment de chaque rotation, les joueurs reçoivent un complément d'enquête, permettant d'être davantage en position de force lors de la rencontre suivante ;
-- L'inspecteur de police tourne entre les points d'intérêts et y fait des interventions scriptées durant les interrogatoires, afin d'ajouter du roleplay et des indices ;
+- À chaque rotation, les joueurs reçoivent un complément d'enquête, permettant d'être en position de force lors de la rencontre suivante ;
+- L'inspecteur de police tourne entre les interrogatoires et y fait des interventions scriptées, afin d'ajouter du roleplay et des indices ;
 - Le spectre de druide intervient aussi ponctuellement, pour interpeller le Conservateur, ou faire des apartés illuminés avec l'un ou l'autre psyker ;
 
 Une fois la rotation complète finie, les joueurs sont dispersés en fonction de leur "rôle", auprès de différents figurants, pour concertation.
@@ -24,7 +24,6 @@ Une fois la rotation complète finie, les joueurs sont dispersés en fonction de
 Lorsque les phénomènes paranormaux s'amplifient, les deux camps en présence hèlent les joueurs, qui doivent choisir l'un ou l'autre.
 La fin du jeu, heureuse ou malheureuse, dépend du choix majoritaire des joueurs.
 
-[PAGEBREAK]
 
 
 Déroulement détaillé du jeu
@@ -35,27 +34,27 @@ Briefing hors-jeu
 
 **Mise en place des groupes de joueurs, par affinité.**
 
-**Rappel et distribution des rôles : greffier/psyker/intimidateur.**
+**Rappel et distribution des rôles : greffier/psyker/intimidateur. Insister sur le pouvoir exact de l'intimidateur !**
 
 Le maître de jeu énonce les points importants :
 
 - En jeu, nous serons en **un jour de décembre 1900, à 12h30, dans un petit bâtiment du Vieux Lyon.**
 - **Règles de sécurité** : pas de violence physique, on arrête une scène si elle devient intenable, et on prend soin du matériel (pas touche au CROMLECH).
+- **FAIRE DES PHOTOS**
 
-**FAIRE DES PHOTOS**
 
 Accueil par l'inspecteur de police
 ---------------------------------------
 
 - "Le cabinet de notre président **Émile Loubet** a fait annoncer votre venue."
-- "Je suis honoré d'accueillir votre agence de détectives du paranormal, dont les mérites ne sont plus à démontrer."
+- "Je suis honoré d'accueillir votre agence de **détectives du paranormal**, dont les mérites ne sont plus à démontrer."
 - "Cette affaire est nébuleuse, pour l'instant nous avons eu bruit de la **disparition d'un étudiant et d'une pièce de musée**, mais nous n'en savons pas plus."
 - "Nous allons donc vous laisser **interroger** à tour de rôle les témoins de cette affaire, et inspecter le trésor du musée"
 - "Je me tiens à votre disposition, entre chaque interrogatoire, si vous avez besoin de faire **vérifier des faits** par mes forces de police."
 - "Nous vous fournirons aussi des informations, au fur et à mesure, sur nos propres investigations."
 - "Voici un **article de journal** sur cette étrange institution qu'est le Cromlech de Lyon."
 
-ORDRE DE ROTATION : : **Guide, Reporter, Conservateur, puis enfin Trésor du musée**
+**ORDRE DE ROTATION : Guide, Reporter, Conservateur, puis enfin Trésor du musée**
 
 
 Rapport d'enquête initial
@@ -125,7 +124,9 @@ INTERLUDE : Leçon d'Histoire du professeur Gustave Bloch
 
 **FAIRE DES PHOTOS**
 
-Le professeur, excentrique et agité, récapitule l'histoire de la conquête de la Gaule, de la bataille d'Uxellodunum, puis évoque avec scepticisme qeulques légendes l'entourant.
+On rassemble les joueurs dans la plus grande salle.
+
+Le professeur arrive, excentrique et agité, et récapitule l'histoire de la conquête de la Gaule, de la bataille d'Uxellodunum, puis évoque avec scepticisme quelques légendes l'entourant.
 
 
 Troisième entretien simultané
@@ -203,8 +204,10 @@ Debriefing
 - Remercier les joueurs
 - Remercier les figurants
 - Remercier l'organisme qui nous accueille et son staff
+- Présenter l'association Chrysalis Forge et distribuer des **flyers**
+- Rappeler l'importance du LIVRE d'OR (commentaires à faire en ligne)
+- **FAIRE DES PHOTOS**
 
-**FAIRE DES PHOTOS**
 
 
 
