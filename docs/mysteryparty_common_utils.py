@@ -92,7 +92,8 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
         page_range = '%s-%s' % (current_page, current_page + pages_count - 1)
         cmd = [sys.executable, "unoconv.py", "-f", "pdf", "-o", output_pdf, "-e", "PageRange=" + page_range, input_doc]
         print(cmd)
-        subprocess.call(cmd)
+        res = subprocess.call(cmd)
+        assert res == 0, "Error when calling unoconv"
 
         # IMPORTANT - remove GAMEMASTER ANNOTATIONS from PDF file
         # BEWARE, this seems to CORRUPT a bit the PDF, find a better REGEX someday
