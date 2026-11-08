@@ -9,7 +9,7 @@ import sys
 
 import docutils.core
 
-LANGUAGE = rpg.get_build_language()  # use "--lang en" on command line for English documents
+LANGUAGE = rpg.parse_build_arguments().lang  # use "--lang en" on command line for English documents
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 # The French manual is also loaded by the Pychronia game, so it keeps its unsuffixed name

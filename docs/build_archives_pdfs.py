@@ -15,7 +15,8 @@ from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_gam
     analyze_and_normalize_game_items
 from rpg_sheet_generator import display_and_check_story_tags
 
-LANGUAGE = rpg.get_build_language()  # use "--lang en" on command line for English documents
+BUILD_ARGUMENTS = rpg.parse_build_arguments(with_clues_option=True)  # eg. "--lang en --with-clues" on command line
+LANGUAGE = BUILD_ARGUMENTS.lang
 
 INITIAL_GAME_DATA_DUMP = os.path.join(os.path.dirname(__file__), "_initial_game_data_dump.yaml")
 
@@ -523,8 +524,8 @@ def generate_archives_sheets():
 
     # -------------
 
-    if True:  # VERY LONG
-        # export clues into a myriad of small PDFs
+    if BUILD_ARGUMENTS.with_clues:
+        # SLOW - export clues into a myriad of small PDFs
         if os.path.exists(LOCALIZED_CLUES_DOCUMENT):
             _generate_clues_pdfs_from_main_odt_document(input_doc=LOCALIZED_CLUES_DOCUMENT,
                                                         clues_parts=INGAME_CLUES_PARTS,

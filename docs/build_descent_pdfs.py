@@ -5,7 +5,7 @@ import os
 import rpg_sheet_generator as rpg
 import sys
 
-LANGUAGE = rpg.get_build_language()  # use "--lang en" on command line for English documents
+LANGUAGE = rpg.parse_build_arguments().lang  # use "--lang en" on command line for English documents
 
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/descent_rpg")
 YAML_FILE = os.path.abspath("../script_fixtures/descent_rpg/descent_rpg_data.yaml")

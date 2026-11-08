@@ -15,7 +15,8 @@ from mysteryparty_common_utils import _generate_clues_pdfs_from_main_odt_documen
     analyze_and_normalize_game_items
 from rpg_sheet_generator import display_and_check_story_tags
 
-LANGUAGE = rpg.get_build_language()  # use "--lang en" on command line for English documents
+BUILD_ARGUMENTS = rpg.parse_build_arguments(with_clues_option=True)  # eg. "--lang en --with-clues" on command line
+LANGUAGE = BUILD_ARGUMENTS.lang
 
 IS_STANDALONE = True
 
@@ -432,8 +433,8 @@ def generate_mindstorm_sheets():
 
     # -------------
 
-    if True:
-        # HEAVY - export clues into a myriad of small PDFs
+    if BUILD_ARGUMENTS.with_clues:
+        # SLOW - export clues into a myriad of small PDFs
         if os.path.exists(LOCALIZED_CLUES_DOCUMENT):
             _generate_clues_pdfs_from_main_odt_document(input_doc=LOCALIZED_CLUES_DOCUMENT,
                                                         clues_parts=INGAME_CLUES_PARTS,

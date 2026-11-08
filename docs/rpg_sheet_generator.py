@@ -29,18 +29,21 @@ DEFAULT_LANGUAGE = "fr"
 LANGUAGE_SUFFIX_REGEX = r"_(%s)\.\w+$" % "|".join(SUPPORTED_LANGUAGES)
 
 
-def get_build_language():
+def parse_build_arguments(with_clues_option=False):
     """
-    Read the "--lang" option of the build script command line.
+    Read the options of the build script command line.
 
     Unknown arguments are only tolerated under pytest, which has its own command line.
     """
     parser = argparse.ArgumentParser()
     parser.add_argument("--lang", choices=SUPPORTED_LANGUAGES, default=DEFAULT_LANGUAGE,
                         help="Language of the script fixtures to use, and of the generated documents")
+    if with_clues_option:
+        parser.add_argument("--with-clues", action="store_true",
+                            help="Also export the ingame clues ODT document into one PDF per clue (slow, requires LibreOffice)")
     if "pytest" in sys.modules:
-        return parser.parse_known_args()[0].lang
-    return parser.parse_args().lang
+        return parser.parse_known_args()[0]
+    return parser.parse_args()
 
 
 def localize_filename(filename, language):
