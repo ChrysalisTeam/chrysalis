@@ -11,7 +11,7 @@ import textwrap
 from collections import OrderedDict
 
 from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_game_data_dump_is_present, \
-    _extract_ingame_clues_text_from_odt, _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email, \
+    _register_story_tags_from_clues_document, _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email, \
     analyze_and_normalize_game_items
 from rpg_sheet_generator import display_and_check_story_tags
 
@@ -23,7 +23,7 @@ DISABLE_DECORATIONS = False
 
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_archives")
 TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
-ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_archives.odt")  # French, also source of fact tags
+ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_archives.odt")  # French
 LOCALIZED_CLUES_DOCUMENT = rpg.localize_source_filename(ALL_CLUES_DOCUMENT, LANGUAGE)
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -611,17 +611,8 @@ def generate_archives_sheets():
 
     # then resolve fact/hint tags from the ODT clues file
     if True:
-        print("Extracting ingame clues text from ODT file")
-        content = _extract_ingame_clues_text_from_odt(ALL_CLUES_DOCUMENT)
-        # print(content[:10000].encode('ascii', 'ignore'))
-        assert "petite sœur des Parcival" in content  # comments are well included
-
-        # no need for variables nor rendered output, we just fill fact-check registries
-        # (symbol values of this French document would clash with those of other languages)
-        rpg.render_with_jinja_and_fact_tags(
-            content=content,
-            jinja_env=jinja_env,
-            jinja_context=dict(register_symbols=(LANGUAGE == rpg.DEFAULT_LANGUAGE)))
+        _register_story_tags_from_clues_document(ALL_CLUES_DOCUMENT, jinja_env=jinja_env, language=LANGUAGE,
+                                                 comment_sample="petite sœur des Parcival")
 
     # -------------
 
