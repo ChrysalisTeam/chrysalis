@@ -32,13 +32,14 @@ def get_build_language():
     """
     Read the "--lang" option of the build script command line.
 
-    Unknown arguments are ignored, so that builders can still be run via pytest.
+    Unknown arguments are only tolerated under pytest, which has its own command line.
     """
-    parser = argparse.ArgumentParser(add_help=False)
+    parser = argparse.ArgumentParser()
     parser.add_argument("--lang", choices=SUPPORTED_LANGUAGES, default=DEFAULT_LANGUAGE,
                         help="Language of the script fixtures to use, and of the generated documents")
-    args, _unknown_args = parser.parse_known_args()
-    return args.lang
+    if "pytest" in sys.modules:
+        return parser.parse_known_args()[0].lang
+    return parser.parse_args().lang
 
 
 def localize_filename(filename, language):
