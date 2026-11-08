@@ -141,9 +141,6 @@ def build_mysteryparty_pdf(output_dir, filename_base,
             jinja_env=jinja_env,
             jinja_context=jinja_context)
 
-    # image paths of templates are relative to "output_xxx/", but we output into "output_xxx/<language>/"
-    rst_content = rpg.rebase_relative_image_paths(rst_content)
-
     if not skip_pdf_output:
         filepath_base = os.path.join(output_dir, filename_base)
         rpg.convert_rst_content_to_pdf(filepath_base=filepath_base,

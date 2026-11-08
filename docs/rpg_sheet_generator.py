@@ -116,6 +116,8 @@ def load_rst_file(rst_file):
 def write_rst_file(rst_file, data, language=DEFAULT_LANGUAGE):
     """
     Also converts [BR] to pdf spacings, on the fly.
+
+    Image paths of templates are relative to "output_xxx/", but RST files are written into "output_xxx/<language>/".
     """
 
     if isinstance(data, (tuple, list)):
@@ -132,6 +134,8 @@ def write_rst_file(rst_file, data, language=DEFAULT_LANGUAGE):
                                            Spacer 0 15
 
                                            """))
+
+    full_rst = rebase_relative_image_paths(full_rst)
 
     if language == "fr":
         # basic fixing of orphan punctuation marks for FR language...
