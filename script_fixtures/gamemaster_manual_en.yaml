@@ -1,0 +1,1905 @@
+---
+
+gamemaster_manual:
+
+    version: 1.2
+
+    pdf_prefix: |
+
+        ##############################
+        Chrysalis - Auction
+        ##############################
+
+        Game Master Manual
+        #############################
+
+        .. header::
+
+           .. NOTHING ATM
+
+        .. footer::
+
+           ###Page###
+
+        .. raw:: pdf
+
+            PageBreak standardPage
+
+            SetPageCounter 1 arabic
+
+        .. contents:: Contents
+           :depth: 2
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+    html_prefix: |
+
+        .. contents:: Contents
+           :depth: 2
+
+
+    truncation_message: |
+
+        .. warning::
+
+          The rest of this manual contains *spoilers* and other sensitive information about the various quests of the game, so it is not available to the public.
+
+          To access the whole manual, create your own Chrysalis game (as Game Master, therefore), and go to the dedicated section of your dashboard.
+
+        To be continued in the real manual...........
+
+
+    public_content: |
+
+        Introduction
+        ===============
+
+        **Chrysalis:Auction** is an unusual multiplayer game, at the crossroads of role-playing games, alternate reality games and video games.
+
+        The idea is to take a group of players through a great adventure, over a set period of time (from a few days to several weeks), under the guidance of one (or even several) Game Masters who pull the strings of the story behind the scenes. Chrysalis is therefore not a persistent world game like an *MMORPG*: each Game Master creates their own instance, and the story unfolds there from beginning to end, for the duration of the game.
+
+        Most interactions take place on a dedicated website, where each player has a varying arsenal of tools (encyclopedia, email messaging, chat, radio, special abilities...) to gather information and act.
+
+        In a "long-running" game, each player only needs to spend a little time each day on this portal to advance their quests, and to ponder the strategy to adopt the rest of the time (somewhat like a *casual game*); whereas in shorter and more intense games, players will need to interact with this portal constantly.
+
+        Other means of communication can be used for interactions between players (telephone, text messages...), and it is strongly advised to gather in real life (LARP-style) for some phases, such as the auctions, or the *Mindstorm* closed-door evening meant to serve as the epilogue of the game.
+
+
+        .. warning::
+            To prevent any cheating by your players (you never know...), and any untimely *spoiler*, you are advised not to use the term **Chryalis**, or any other official reference to the game, until the game is over.
+
+            That is why the fictional website deliberately has a more "neutral" name, Anthropia; you can use this name (or one of your own invention) to refer to the game for as long as necessary.
+
+            .. FIXME BEWARE - remove chrysalis from youtube account....
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+        Glossary
+        ==================
+
+        Chrysalis
+            The role-playing game comprising both the alternate reality game **Chrysalis:Auction** and the mystery party **Chrysalis:Mindstorm**. As a shorthand, "Chrysalis" here only refers to the alternate reality game phase, since the mystery party has its own dedicated manual.
+
+        Anthropia
+            The name of the web portal (supposedly lent to Loyd Georges by the Alifir Academy) on which most of the game takes place. Also sometimes called the "fictional portal" or "pychronia" (its development code name).
+
+        Tooltip
+            A contextual help box that appears when the mouse hovers over a specific area of a web page of the game. Some coloured tooltips also appear spontaneously at the top right of the page, to report the success or failure of operations taking place in the background (e.g. if the chat system runs into connectivity problems).
+
+        LARP
+            Live-action role-playing game, in which people each play their role theatrically, at full scale, with or without costumes.
+
+        OOC
+            Out-of-character - any action or discussion outside the fictional context of the game, for example to ask for clarifications about the rules.
+
+        LG
+            Loyd Georges, the main non-player character of Chrysalis, and master of the "Forgotten Treasures of Midolia" auctions.
+
+        Mystery party or murder party
+            A LARP usually played in one evening, with a plot to unravel (typically a murder investigation).
+
+        GM
+            Game Master, the person who manages the course of the game from the shadows, as well as the actions of the fictional characters (NPCs).
+
+        Pangea
+            The other name of "Planet Earth", in the alternate history where Chrysalis takes place.
+
+        NPC
+            Non-player character, any participant in the plot who is not played by a real person, but by the Game Master (e.g. Loyd Georges, his servant Rydji, the mercenaries...).
+
+        Midolia/Alifir/Salima/Akaris...
+            See the world map of Pangea
+
+        IC
+            In-character - any action or discussion that takes place in the fictional context of the game, with everyone playing their role.
+
+        Yods
+            The gods of the Akarith religion; entities without any particular characteristics, all identical, all united, but who (so it is said) loathe it when their faithful or their prophecies are not respected.
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+        Overview
+        ===============
+
+        Game duration
+        +++++++++++++++
+
+        There are different formats for a game of Chrysalis, and it is not yet possible to say which one is the most fruitful. The Game Master must therefore decide on the schedule of the game according to the availability of the players, their *roleplay* experience, but also their own ability to handle the many interactions of the game and to answer everyone's requests (since by default they must play all the NPCs of Chrysalis, which is no small task). It is very worthwhile to get help from other GMs, or from dedicated NPC actors, to lighten the load.
+
+        In any case, the various components of Chrysalis work in "relative time", so the Game Master can set the timing systems to match the pace they want (see the appendix `Normalise timings`_).
+
+
+        "Casual game" format
+            Recommended for beginners, and for players caught up in the daily grind of school or work life. The game takes place over several weeks, with for example a series of auctions every weekend. Everyone can thus get to grips with the game universe at their own pace, and tackle the various quests. In this case, beware of students' exam periods, or professionals' "deadlines", which are deadly for roleplay immersion.
+
+        "Continuous game" format
+            Meant for players with a good amount of time and motivation (ideally, during the holidays), this format runs the game over about one or two weeks, with closely spaced auctions and constant *pressure* on the players. A potentially very entertaining formula, provided that the players have no major commitments during this long period, which could make them miss events and scuttle their carefully thought-out plans.
+
+        "Hard core gamer" format
+            Ideal for seasoned role-players, fans of LARPs or of LAN parties that go on late into the night, this format plays everything over one weekend, chaining auctions, diplomatic meetings and frantic tapping on the fictional portal.
+            Potentially very thrilling, provided that the schedule does not slip, or simply that the players (and the Game Master) are not overwhelmed by the scale of the task. In this game format, it is therefore wise to:
+
+            - let the players visit their intranet at length, during the week before the game, so that they find their bearings;
+            - check, on a case-by-case basis, that they have properly understood the context of the game and their personal objectives;
+            - be ready to drop some secondary elements of the scenario, so that the essentials (the sacred orbs) are properly carried through from start to finish;
+
+        .. note::
+            The faster-paced the chosen format, the more useful, even necessary, it becomes for the Game Master to get help from a second person. All the more so as this "Game Master's assistant" will be precious as an NPC actor for the final *mystery party*, "Mindstorm", if it is on the menu.
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+
+        Initial Context
+        +++++++++++++++++
+
+        Chrysalis depicts a world fairly similar to our human 21st century, on a planet called Pangea. It is in fact an alternate history, a universe which "branched off" from ours at the very beginning of the 20th century, because of a very long seismic and climatic period (the Tectonic Era) which severely disrupted the development of humanity. Pangea therefore contains references to antiquity, to the Middle Ages, to the Renaissance, but not to the great conflicts of our real 20th century.
+
+        The story of Chrysalis follows the geo-politico-religious unrest shaking one of the continents: Midolia. Akaris, a Midolian country which has long been riding a wave of religious fanaticism, is indeed once again dreaming of building a theocratic empire covering the whole continent (or even more).
+
+        Events speed up when an old self-taught archaeologist, Sir Loyd Georges, returns from an archaeological expedition in Midolia, with in his luggage a multitude of gems and artefacts unearthed in an ancient underground Akarith temple.
+
+        Rumour has it that, not content with having desecrated a holy place, Loyd discovered artefacts linked to one of the oldest Midolian legends, that of the **Three Divine Orbs**. Sacred relics potentially bearing unimaginable powers.
+
+        Immediately, the secret services of several neighbouring states seize upon the matter, and send their best agents to take part in the auctions that Loyd Georges is organising to replenish his finances. These spies are the ones the players of Chrysalis will play, in a series of quests full of twists and turns, as well as (we hope) of tension and fun.
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+
+        Course of the game
+        +++++++++++++++++++++++++++++++++++++++++
+
+        The players enjoy a fairly wide freedom of action within the storyline of Chrysalis. This freedom is mainly framed by the decisions of the Game Master, who simulates all the non-player characters (by sending messages on their behalf). It is thus the Game Master who decides on the success - or not - of uncertain actions, using criteria provided by this manual.
+
+        The Game Master may freely ignore some of the suggested sub-quests, or invent their own, as long as they stay within the spirit of the game, and respect as much as possible the major milestones planned in the original scenario.
+
+
+        Initial status of the players
+        -------------------------------
+
+        By default, the players are supposed to introduce themselves under their "official" identity (often usurped), as guests of Loyd Georges' auctions. But if the players know each other IRL, the GM may decide to keep these respective identities secret at the beginning of the game. This can be done for example if the auctions take place by teleconference, with everyone wearing a mask and distorting their voice (possibly with dedicated software). This initial uncertainty about who is who "officially" can spice up the plot, on top of the quest for everyone's true (spy) identity.
+
+        If they wish, the GM can ask the players for a summary sheet of their *background*: main motivations, youth and career, possessions, particular knowledge and skills, relationships with their superiors and colleagues... a sheet to be moderated and corrected, of course. But this step is optional; some players prefer to flesh out their character (and reveal their past) over the course of their discussions and actions. In any case, make sure that everyone has enough "landmarks" to take their role in hand; and if the aim is to lead them down a specific path (e.g. betraying their side), that they have a context that lends itself to it (e.g. poor salary, bad working atmosphere, attraction to another life...).
+
+        Most players (non-NPCs) work at least in pairs. Some particularly "disruptive" roles (Inspector Shark, the wealthy Magnus...), who initially have no colleagues, can be given either to NPC actors or to players. But keep in mind that they are much harder to play, and that the risk of getting lost or demotivated is much greater when acting solo like this. These roles should only be given to experienced players who are aware of what is at stake.
+
+
+        Getting started with the game
+        ------------------------------
+
+        The players are initially *on rails*: they automatically share their data with their partners (thanks to the *digital friendship* system), and are closely supervised by their superiors in the secret services. They will then become familiar with the universe and the forces at play by reading their messages, a few encyclopedia articles, and by browsing the sections already accessible in their web account (auction programme, list of participants, web radio...).
+
+        Help panels can be displayed on some pages of the site, to explain how they work. For the rest, the players are encouraged to contact the NPCs: the "webmaster" for purely technical misunderstandings, and their hierarchical superiors for doubts about their objectives or other questions.
+
+        .. warning::
+            Chrysalis is still a young game, so make sure you have carefully read the appendices of this manual, in particular `Appendix - Feedback from the Chrysalis Beta-Test`_, to ensure a smooth start of the game for your players.
+
+
+        Gathering information
+        -------------------------------
+
+        The players will then start gathering information about the mysterious relics brought back by Loyd Georges. They will do so through various means which - most often - will cost them virtual money or precious stones.
+
+        Examples of means of investigation:
+
+        - various exchanges with the other players, or email communications with fictional characters (played by the Game Master)
+        - wiretapping the messaging of other characters, players or non-players (one can protect oneself by buying cryptographic protection)
+        - hiring mercenaries in the key cities of the plot (e.g. mentioned in emails or radio spots), and managing these mercenaries by email
+        - hacking some NPC accounts, thanks to information gleaned elsewhere (later in the game)
+        - following the news via the radio spots
+        - searching the academy's digital encyclopedia
+        - calling on their hierarchy, so that it investigates some specific points (whose importance must be justified, of course)
+
+        The Game Master can edit the encyclopedia pages, radio spots, email contacts etc., so they have an important role to play in tailoring the content of the site to the needs of the game in progress.
+
+
+        Games of alliances
+        -------------------
+
+        Soon, the players will find themselves in contact with other factions, more or less clearly identified and more or less benevolent, some even coming to woo them with fine rhetoric and tempting offers. Pushed by their own superiors to "play along" in order to learn more, the players will thus find themselves in the position of double agents, and will gain or lose "rank" in each camp, depending on the actions they carry out.
+
+        Having the trust of one of these entities will give the player access to a growing range of the information, as well as the technological and human resources, at its disposal: "informants" (simulated by artificial intelligences), translators of ancient runes, planetary radars, teleported intervention forces, apocalyptic weapons...
+
+        Conversely, being considered an adversary (or worse, a traitor) by a camp will close many doors, and may bring serious trouble.
+
+        But in Chrysalis as elsewhere, it is not possible to please everyone, so the players will sometimes be forced to make agonising choices, if they want to achieve their highest-priority objectives.
+
+
+        The Three Divine Orbs and the Midolian tension
+        ----------------------------------------------------
+
+        The players will have to follow the trail of the famous "Three Divine Orbs" (yes, it is masculine in French...), giant gems that are the target of all passions. They will then have to travel a path strewn with pitfalls and riddles to locate them as fast as possible, then make wise use of this information according to the camp they will, in the end, have chosen to serve.
+
+        In the background, the conflict between the Midolian states will inexorably escalate, as the progress towards the orbs goes on. "Diplomatic" quests will allow the players to influence the geo-politico-religious situation, either as peacemaking ambassadors or - on the contrary - as troublemakers. Lastly, small side quests will make it possible to earn money, or to win additional support.
+
+        In addition to the reports coming from their various fictional contacts, the players will be informed of how the situation evolves, and of the success (or not) of their missions, by the radio spots that the Game Master will broadcast periodically.
+
+
+        The auctions
+        --------------------
+
+        Loyd Georges' successive auctions will punctuate each major phase of the game. The gems that can be acquired there will be of great help to negotiate some services (or to get better rates). As for the artefacts put up for sale (supposedly minor from an archaeological point of view), they will in reality be crucial clues to track down the Divine Orbs.
+
+        Since the items on display are very diverse, in number, type and (estimated) value, it will be up to the players to target their purchases carefully, according to how they intend to use them; or even to pool their money with their allies of the moment, to make "fine catches". Note in particular that gems cannot be split, so the players will have to make sure they do not overpay for some goods and services, for lack of stones of a suitable value.
+
+        Players disappointed by their results at the auctions will still have a chance to reach their goals, if they know how to skilfully negotiate various exchanges and purchases with the players who snatched their favourite lots, or else buy what they lack on the black market.
+
+        Various types of auctions are possible (ascending, descending, sealed or not...); refer to the help of the web page presenting the auctions for more details.
+
+        Periodically, the Game Master will top up the players' bank accounts a little with a pay, which will depend on their factions of allegiance, and on their results so far.
+
+
+
+
+    spoiler_content: |
+
+        The finale
+        ------------
+
+        Once the last orb has been found, the Game Master may, at their discretion, end the game with a small LARP evening closing the auctions, or simply by broadcasting the closing media (radio spots, emails...) on the Anthropia portal (with the whole portal switched to "read-only" mode, to signify that the game is over).
+
+        The game will inevitably end with the explosion of the latent Midolian conflict; indeed, whatever happened during the game, the idea is that the Judicators will try to trigger the invasion of the whole of Midolia; the Paladium will then send its elite warriors to capture the Judicators and their allies, and thus nip the conflict in the bud.
+
+        But despite this "status quo" on which Chrysalis:Auction will end, the balance of power (and thus the prospects for the evolution of the conflict) will be very different depending on the results of the players' various quests, and on the alliances they will have encouraged or broken...
+
+        In the most explosive case, the Paladium will find itself opposed to almost the entire Akarith people as well as to the Dorian state; in the case most favourable to peace, the Paladium will only have to muzzle the few troops fanatically devoted to the Judicators, the rest of Akaris preferring to postpone for a long time the fulfilment of the "prophecy of the three orbs".
+
+        Indeed, the Akarith believers are initially very divided about the Judicators' calls for holy war. A minority sees in them the chosen ones who will gather the lost Orbs and restore Universal Harmony; others, on the contrary, consider them impostors, who will only sow chaos by appropriating a mission that is not theirs.
+
+        Consequently, the more orbs the Akarith Judicators possess, the more they will manage to rally the various communities of the faithful through faith, and the neighbouring peoples through fear (in particular, the Dorians). All this being of course modulated by the alliances and rivalries that the players will have created, in their possible roles as diplomatic intermediaries.
+
+        More precisely, there are 7 clans in Akaris, which are more or less in tune with the warmongering strategy of the Judicators. Schematically, one can thus "calculate" the number of clans ready to follow the Judicators in their war of conquest:
+
+        - the clan the Judicators come from will support them whatever happens;
+        - for each orb recovered by the Judicators, 2 more clans will be won over to the idea that the prophecy is about to come true (and will therefore join the war effort);
+        - if the Dorian Dukedom has managed to rally the Akariths without a hitch (whether by "religious naturalisation", or through a subjugated status), then in addition to being able to count on that country's army, the Judicators will have the loyalty of one more Akarith clan; on the other hand, if doctrinal controversies arise during the negotiations (i.e. if the agents are not skilful enough in their theological rhetoric), this can on the contrary set the clan chiefs at odds, and make the Judicators lose 1 or 2 clans;
+        - if the Heliossarian plot to assassinate the Judicators has been included in the scenario, then its outcome obviously affects geopolitics. For example, if the plot is exposed by the Judicators (whether the blame falls on Heliossar, or - through manipulation - on the Dorian Dukedom), up to 2 clans become warmongering; if the blame is deceitfully laid on one of the Akarith clans, the discord sown makes the Judicators lose up to 2 clans.
+        - if good publicity is given to the ancient battle of Wigwir, where the Razulites were crushed despite possessing the three orbs, this may make the Judicators lose up to 2 clans (the Akariths not wishing to see such an imposture happen again);
+        - any other diplomatic activities included by the Game Master must likewise be taken into account to modulate the result;
+
+        The states of Heliossar and Masslavia, for their part, will on principle be firmly opposed to any annexation by the Akariths. As for the Lordanians, their position will depend on what their agents have told them about the situation in Akaris (they will logistically support the weaker side, so as to prevent the emergence of a superpower); unless overly cynical actions of the Lordanian services have been revealed to the general public of that country, in which case the domestic scandal will already keep the Lordanian state busy enough.
+
+        The state of this complex balance of power will be summarised in the final information of the game, and will complement the more personal victories and defeats of each player throughout the game.
+
+        The degree of success of each participant in Chrysalis will be measured by the influence they had on the course of the game (especially regarding the discovery of the Orbs), as well as by the fulfilment of their *personal* objectives - which may be very different from those of their initial camp. In particular, their ability to be in a good position in the camp(s) they chose to serve, and not to be in the sights of a faction with the means to harm them, will be judged.
+
+
+
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+
+        Main Factions
+        =======================
+
+        Several groups, with diverging interests, clash in the shadow of Loyd Georges' auctions. While all are on the alert in the face of the prospect of a Midolian conflict, and eager to learn more about the alleged "relics of mass destruction" that the Orbs are, they differ sharply in their wishes regarding the resolution of the matter, and the means to be used to achieve their ends.
+
+        Each of these factions offers its "affiliated" players various facilities (it is up to the Game Master to use their imagination and common sense), as well as some abilities specific to Chrysalis, summarised further on.
+
+
+        Initial factions
+        +++++++++++++++++++++
+
+        These "patriotic" factions serve as nests for the players at the beginning of the game, surrounding them with information and various tools.
+
+        They have very similar means of action (except for their extra room for manoeuvre when acting in their own country), but different goals. A player may therefore not only want to help/hinder the other initial factions, but also openly betray their own, if its objectives do not suit them; note that typically, this last case will occur when a player wants to join one of the two super-factions of the game for good (rather than simply moving to the secret services of another country).
+
+
+        Masslavian secret services
+        ------------------------------------
+
+        **1-2 initial players**. Their goal is to prevent their country from being crushed, once again, by an Akarith aggression. To do so, they must defuse the "pretext" offered by Loyd Georges' expedition, forge and strengthen their alliances with the other Midolian countries, and of course get to the bottom of this business of *sacred relics*.
+
+        Diplomatically, the agents of this camp will therefore have their work cut out to discover and then influence the political strategies of the surrounding countries, without giving the Akariths additional reasons to crush them like cockroaches.
+
+
+        Dorian secret services
+        ----------------------------------
+
+        **1-2 initial players**. The people of the Dorian Dukedom share the Masslavians' fear of a new Akarith war of conquest. However, yielding to a certain cynical realism, its ruler is moving towards negotiations with the Akariths to join their armed forces, and meekly become part of their empire, in the event of a regional conflict.
+
+        The agents loyal to this camp will therefore have to win over the Akarith religious leaders little by little, while avoiding alienating the rest of the Midolian states too early; and they will also have to handle the subtleties of the various Akarith denominations, since some groups of the faithful take a very dim view of this possible "incorporation" of the Dorians into their race chosen by the Yods.
+
+
+        Lordanian secret services
+        ---------------------------------
+
+        **1-2 initial players**. The island-continent of the Lordanian Federation has diversified its political and commercial relations enough not to be directly concerned by the distant Midolian unrest and its possible outcomes.
+        However, faithful to their unofficial doctrine of "divide and prosper", its agents work to make sure that no rival power can emerge, in Midolia as well as in the rest of Pangea.
+
+        With this in mind, should a military conflict in Midolia be encouraged, so that these states torpedo each other? Or does this risk, on the contrary, giving rise to a dangerously powerful Akarith empire? Hence the need for a thorough investigation in Midolia, and for an immediate intrusion into *the Loyd Georges affair*.
+
+
+        Recruiting super-factions
+        ++++++++++++++++++++++++++++
+
+        These two factions (initially NPCs) act like magnets attracting the players to them, through their speeches, but even more through the additional means of action they offer.
+
+        Depending on their initial factions (and the orders their hierarchy gives them), the players are pushed more towards one or the other of these factions; however, everything must be done so that they keep some freedom of choice, with the help of varied and well-balanced incentives.
+
+        A simple agreement is not enough to fully join one of these super-factions; one must also demonstrate one's real attachment to its doctrine. This can involve disclosing critical information, disowning (through actions) one's former faction, giving a decisive hand in obtaining an Orb...
+
+        But following the first proofs of loyalty, each of these super-factions has its own means of determining whether a player deserves to climb the next rungs, and become an officer in its ranks. Failing these advanced tests risks a sharp demotion, down to the status of a mere "informant" of the faction in question.
+
+
+        The Akarith Judicators
+        -------------------------------
+
+        This is the darkest side of spirituality. Populist, fundamentalist, propagandist, these religious leaders have revived the oldest Akarith legends to turn their people against the rest of Pangea. No one knows whether they really believe in their theocratic prophecies, but by predestining them to take control of the planet, these prophecies undeniably flatter them.
+
+        The discovery of the Three Divine Orbs would be an unhoped-for pretext to trigger the long-awaited conflict. However, having failed to get their spies into Loyd Georges' auctions, the Judicators find themselves forced to court the other participants to obtain information - while suspecting that some buyers are already affiliated with their adversaries. They initially step in by passing themselves off as a simple "community of Akarith faithful", so as not to scare off their targets.
+
+        Pledging allegiance to this camp, and rising through its ranks, is relatively easy as long as one is not too fussy about ethics. On the other hand, it may earn one a certain hatred from the rest of Pangea, which is not completely negligible.
+
+        Loyalty Test:
+            To make sure that a player is fit to fully join their "chosen race" - an extremely rare process in Akarith spirituality - the Judicators make them take a test in the form of a theological questionnaire. This test is proverbially difficult, and requires a good deal of encyclopedic research and luck to be filled in correctly. But in the unlikely event that they achieve a near-perfect score, the player will earn the title of "Pious", and the right to directly lead riots of the Akarith faithful, without going through the Judicators; otherwise, they will be invited to continue their study of the religion in order to get rid of their "heretical superstitions".
+
+
+        The Paladium
+        -------------------
+
+        This is the bright side of power. A small militia of paladins, keen on high technology and on a nascent science called "technomagic", which has given itself the sacred mission of being the "twilight of tyrants". Unknown to the general public, entrenched in a few island fortresses, they have been growing in power for several years, and are watching for the right moment to come out into the open. The megalomaniac surge of the Akarith Judicators will hasten the end of this "chrysalis" state.
+
+        Having detected too late what was brewing in Midolia, the paladins try to get in touch with Loyd Georges and the scientists of Alifir, but the latter, burnt by the Judicators' schemes, are wary and slam the door in their faces.
+
+        From then on, the paladins therefore try to obtain the help of the auction participants, while knowing full well, thanks to their computerised means of spying on messaging, which of them already belong to which secret services. Their primary goal is to prevent the situation from degenerating in Akaris, and this involves recovering and hiding the Orbs, as well as bringing the troublemakers into line.
+
+        Pledging allegiance to this camp is difficult in more ways than one. It seems too "utopian" to inspire trust, and the murkiness surrounding its origins (its founder is a former Axiolian warlord) does not help at all. Moreover, the Paladium is extremely particular about the means used, which can lead to steep falls in its small hierarchy.
+
+        On the other hand, rising through the ranks of this group will give access to exceptional means and - let us not neglect it - to a fine surge of pride, as a "Super Hero of Justice" of Pangea.
+
+        Loyalty test:
+            Before granting a player the title of Paladin, and giving them privileged access to the triggering of teleported special operations, the Paladium checks their moral rectitude through a staged scenario. The player is ordered to detonate a photon bomb in a remote town, on the grounds that it supposedly houses a secret Akarith centre developing chemical weapons which could put Midolia to fire and sword.
+            If the player complies (which is likely), and sends their mercenaries to do the dirty work, they will wait in vain to hear the announcement of the tragedy on the radio; then they will be sharply reprimanded by the Paladium for having agreed to commit a war crime. Otherwise, they will become an integral part of the Paladium.
+
+
+
+        Secondary factions
+        ++++++++++++++++++++
+
+        These NPC factions are not supposed to be joined by the players - unless the Game Master takes a bold initiative. On the other hand, it is possible to interact with them, and to make them allies or enemies.
+
+
+        State of Heliossar
+        ----------------------
+
+        Heliossar is a republic suffering the setbacks of a slightly too balanced multi-party system. Constantly changing governments, and plagued by sex and financial scandals, it seems to pay very little attention to the growing agitation of Akarith minds.
+
+        Publicly, at least. For in the secrecy of its intelligence centre, its agents understood long ago that their country was living on borrowed time. And they are busy finding a way to break Akarith power, without it backfiring on them. Assassinating the Judicators, then setting the Akarith denominations against one another: that would ensure peace for a few decades... The catch is that the Judicators have got wind of this plot, and could not dream of a finer gift from their enemies.
+
+
+        The other Midolian countries
+        ------------------------------
+
+        The rest of the states revel in neutrality, secretly hoping that the Akarith wave will run out of steam before reaching their borders. Including Thelassar, which counts on its rugged terrain to discourage invaders.
+
+        Nothing special is planned in the game regarding diplomatic relations with these other states; however, nothing prevents an enterprising Game Master from including them in the great dance of the balance of power, in order to create new interactions.
+
+
+
+        The Alifir Academy
+        -------------------------
+
+        Located in Sabarim, this scientific centre is a rising star of Pangean science, and it is beginning to shine well beyond the borders of its country. It is involved in the story of Chrysalis in many forms:
+
+        - it graciously provided Sir Loyd Georges with an extension of its web portal (Anthropia) to promote and run the gentleman's auctions (despite the reluctance of some of the academy's leaders).
+        - it hosts the rune translator on which Loyd Georges' friend, Professor Emilos Loakim - a doctor of archaeology by trade - is working.
+        - it is under its aegis that Doctor Waden Shaw works, a physics researcher, who should soon become the son-in-law of the aforementioned Prof. Loakim.
+        - various mini-games and puzzles (nightmarish captchas, chess challenge...) are linked to its activities, and to its interactions, tinged with rivalry, with other scientific centres.
+        - finally, Sir Loyd Georges dreams of becoming an honorary doctor of this institution; this fantasy of academic recognition will be a strong negotiating tool for the players.
+
+        The Alifir Academy is therefore not a faction that the players of Chrysalis can join, but rather a "horn of plenty" of information and technical means, which they will have to know how to exploit as best they can to progress in the game.
+
+
+        Loyd Georges
+        -------------------
+
+        Yes indeed! Even if it will not be obvious at first - and some players will learn it at their own expense - Loyd Georges too can be seen as a "faction" in Chrysalis. Let us not forget that he is the master of the auctions; he can freely decide on the discounts granted, as well as on penalties targeting those he cannot stand (we will assume that the local commercial law gives him great latitude).
+
+        The Game Master must therefore get into the character's skin, and assess, over the course of the exchanges they have with each player, what place each of them takes in Loyd Georges' heart.
+
+        Subtlety is obviously required. Loyd Georges is receptive to positive comments about his archaeological "exploits", but not to self-interested, even obsequious, flattery that some will attempt. Likewise, while - like everyone - he does not like to be humiliated, he is not hurt by negative comments, as long as they remain frank and constructive.
+
+        But far more than rhetoric, it is action that will allow the players to win Loyd Georges' favour. He indeed has his own *side quests*, the main one being to obtain recognition from the scientific world for his archaeological contributions. Consequently, any action aimed at influencing the Alifir Academy, so that it grants an honorary title to the said gentleman, is likely to be rewarded by Loyd Georges - and thus to offer a good boost in the quest for the orbs.
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+        Generic abilities
+        =============================
+
+        **Do not forget to read the help pages present on the fictional portal, to learn more about both generic and special abilities.**
+
+
+
+        Personal documents
+        ++++++++++++++++++++++++++++
+
+        These files are mostly information meant to put the player in context at the beginning of the game, or media as crazy as they are useless, just for fun.
+
+        The really interesting documents are in fact in the Anthropia accounts of the NPCs (Loyd Georges, Emilos Loakim...), and are accessible by hacking said accounts.
+
+        A player cannot manually add or delete documents. They can however share them, by giving the secret link of a document to third parties (typically, this is done via the dedicated field of the email sending form).
+
+        The Game Master cannot edit these contents either, but this is a possible improvement if there is demand from GMs for it.
+
+
+        Money
+        +++++++++++++
+
+        The game money could be used for the auctions as well as to pay for special abilities or items on the black market. The problem with such freedom of action is that it might discourage the player from getting involved in auctions with uncertain outcomes, whose lots are not always obviously useful. The player would then be tempted to keep a lot of money in reserve, in case new opportunities arose.
+
+        This is why it is advisable to split money into two categories: current money (in "kashes"), used to pay (often automatically) for the various services on the Anthropia site, and the "Sabarith Pounds", modified manually by the Game Master in the character sheet ("extra goods" field), which are only used for Loyd Georges' archaeological sales.
+
+        It is possible to create a small porosity between these two types of money (e.g. a "currency broker" contact, via the black market...), but the idea is that these conversions remain costly, so that the players are forced to manage each of these two treasuries - which can be likened to "action points" - separately and as best they can.
+
+        To prevent the players from ruining themselves on a few activities (e.g. by hiring mercenaries everywhere) to the detriment of the special abilities arriving later, it is important to spread the income over the course of the game, through "pay" paid for example weekly. Also consider giving bonuses/penalties according to results.
+
+
+        Precious stones
+        ++++++++++++++++++++++++++++++
+
+        The lots of gems, which can be obtained by taking part in the auctions or through side quests, have no particular properties apart from their market value.
+
+        Thus, as soon as they are bought, they are split into gems of identical value, usable one by one to pay for goods and services. Gems therefore cannot be analysed via the various `special abilities`_, and their description sheets, which remain in the buyer's account, only serve as a "memo".
+
+        The "lot of gems" item which appears in the player's items can only be transferred as such (e.g. to another player) if its owner has not yet used a single gem of said lot (it is however possible to transfer gems one by one).
+
+        .. note::
+            For the time being, it is not possible to modify the nature (raw or cut), or the weight of the gems (e.g. by recutting them).
+
+        - The small gems are mainly meant to pay mercenaries, at the best price, to do espionage and carry out special operations.
+        - The exceptional gems, and other gems that are expensive per unit, are meant to unlock a few abilities whose providers are very demanding about quality: Djinns of Sedes Sancta (coming soon), guides and informants present in sensitive places (jungle, polar zone...).
+        - Some genuinely commercial contacts demand raw (uncut) gems, with a large profit for the player who thus acts as an intermediary.
+        - A few gems are "traps", in that they are not exceptional enough to interest the best sources of information, but not common enough to pay exactly for mercenaries and other basic abilities. The best thing will thus be to resell them on the black market, which will only be profitable if they were undervalued during the auctions.
+
+
+
+        Items
+        +++++++++++++++++
+
+        Unlike gems, artefacts such as antiques and stolen items are gold mines of information, for those who know how to analyse them. It is possible to study their runes (when they have any), their physical properties, to look for where similar specimens are located on Pangea... so many ways to gather clues to progress in the quests.
+
+        The corollary is that most of these items are rare and well identified, so holding them illegally may bring a lot of trouble to their receiver.
+
+        Note that items can be exchanged between players, or resold on the black market.
+
+
+        The escrow agent
+        +++++++++++++++++++++++
+
+        The players can include this special contact (an NPC) in their various bargaining, in order to get guarantees that the clauses of the transaction (transfers of money, goods...) are properly respected.
+
+        The escrow agent does not care in the least about the legality of the transaction; he is only there to make sure (within the limits of his means, which are those of the Game Master) that everyone keeps their word.
+
+
+        The black market
+        +++++++++++++++++++
+
+        This system, which technically works through exchanges of text messages and money transfers, allows a player to get rid of an item they no longer have any use for, at the "estimated" price. It is also a good way for the Game Master to put said item back into circulation, by canvassing the other players to resell them the item at a high price.
+
+        `The escrow agent`_ will be a valuable complement to this system, so that the players are not afraid of being swindled when they enter into a transaction with a stranger.
+
+
+        Hacking Anthropia Accounts
+        +++++++++++++++++++++++++++++++++
+
+        The players will gradually be encouraged to "hack" the Anthropia accounts of a few NPCs (Loyd Georges, his friend the archaeologist Loakim...). This computer hacking will typically be done in a fairly simple way, by cracking the "secret question" of the password recovery system for the account in question.
+
+        Once the password has been recovered, the player will be able to snoop around as they please in the emails and other documents of the hacked account. But they will have to be careful not to leave any traces (which will be the case if they send emails from the hacked account, or change its password); otherwise, the hacked NPC will notice the problem, and the Game Master can take advantage of it to put the apprentice hacker in danger, according to their inspiration of the moment.
+
+
+
+        Special abilities
+        ============================
+
+
+        Mercenaries
+        ++++++++++++++++++
+
+        The players have the possibility of using their network of contacts in a few major cities of Pangea, and of paying mercenaries there to spy or carry out "strike" operations. These subordinates are managed almost entirely by email messaging (for management by voice, see `The telephone switchboard`_).
+
+        If several players hire mercenaries in the same place, these different gangs must automatically report to their sponsor what is going on, in a mutual espionage. They will however refuse, because of a certain idea of solidarity between crooks, to fight each other; in case of dispute, the players giving the orders will therefore be invited to settle their differences themselves.
+
+        Players who are shrewd strategists can ask the mercenaries of a city to move to another place; this will require money, but also time. The Game Master will then have to estimate the progress of each gang of mercenaries on the world map, to determine the actions really feasible, at each moment, in each place of the world.
+
+
+        Wiretapping & Protection
+        +++++++++++++++++++++++++++++++++++
+
+        The most useful source of information, at the beginning of the game, is spying on the messaging of important characters (such as Loyd Georges), thanks to the "wiretapping" ability.
+
+        It is also possible to spy on the other players. But on the one hand, the NPC allies of the spied-on players (e.g. their superiors) will have to warn them, after a while, of the presence of anomalies in the network flow; on the other hand, it will be possible to buy an SSL/TLS confidentiality pack, to make one's messaging theoretically inviolable (which will not prevent the other participants in the email conversations from being spied on themselves).
+
+
+        Spying on bank vaults
+        ++++++++++++++++++++++++++++++++++++
+
+        The players can obtain, for example via the black market, a bank espionage kit.
+
+        The Game Master then activates a personal permission for them, allowing them to see the goods (money, gems, items...) owned by the other bidders, from the table of the Characters/Bidders page.
+
+
+        Telecom Analysis
+        ++++++++++++++++++++++
+
+        This ability is similar to wiretapping, but it acts after the fact, and cannot be blocked.
+
+        It makes it possible to retrieve a summary of the various conversations in which a "character" (not a mere email contact) took part. The targeted character must be "known" to the player (must have had an email exchange with them).
+
+        The bodies of the messages are not included in this report, unlike wiretapping; on the other hand, it is not possible for a player to protect themselves against such a telecom analysis.
+
+
+        GeoIP Location
+        +++++++++++++++++++++++++
+
+        The GeoIP system of the Alifir Academy makes it possible to locate, with variable precision, the senders of the emails received by the players (external emails only, not those coming from addresses internal to Anthropia). This is precious to trace dubious contacts: swindlers, anonymous blackmailers...
+
+        But in many cases (in particular, during attempts to locate and attack the other players), this system will not return anything convincing, on the grounds that overly public web access points, or on the contrary special gateways, were used.
+
+        .. TODO UPDATE THIS WHEN AUTORESPONSE IS READY
+
+        In the current state of the game, this system is still entirely manual: the player must forward a received email to a dedicated messaging address, and the Game Master must then debit the cost of the operation, and reply with the appropriate information about the sender of the analysed email.
+
+
+        Runic translation
+        +++++++++++++++++++++++++++
+
+        The sacred Akarith runes have long been a subject of study at the Alifir Academy, in the department of Prof. Emilos Loakim. These scientists have gradually integrated the known vocabulary and rules into a computer tool, currently being finalised. Thanks to this software, the players will be able to decipher the runes adorning many artefacts; to do so, they will have to transcribe the runes phonetically using a correspondence table (one rune gives one syllable), then submit this transcription on the runic translation page.
+
+        Note that the Game Master can make the results of the automatic decoder "leak" (since the scientists probably keep traces of what goes on in it); this mainly so that other factions get hold, even late and partially, of the results of the translations carried out; or so that Prof. Loakim raises the alarm, if he sees the runes of a recently stolen artefact go through his tool.
+
+
+        Biophysical appraisal
+        +++++++++++++++++++++++++
+
+        This system, made available by the scientific department of another academy of Salima (that of Belez), makes it possible to obtain the detailed composition of an item, as well as potentially information about its age, its origin, its history.
+
+        For some illicit items (such as the cane stolen from Loyd Georges), it is conceivable to complicate the situation, by having the Belez Academy realise the offence afterwards, and raise the alarm. This would be an opportunity for the other players to be informed of what is going on, and to put a little pressure on the player behind the illicit receiving.
+
+
+        World Scanner
+        ++++++++++++++++++++++++
+
+        This revolutionary system, belonging to the Paladium, makes it possible to scan the entire globe (surface and depths), looking for items having the same "technomagical imprint" as those provided. This is of course only of interest if the items in question are original enough.
+
+        The precision of this tool is not surgical (from a few tens of metres to a few kilometres, depending on the distance from the scanner), but it is enough to direct the searches towards ancient Yodic sanctuaries, or towards the area of the Bank of Salima which contains Loyd Georges' treasure.
+
+        On the other hand, because of their very particular nature, the orbs cannot be analysed this way (otherwise, finding one would amount to finding them all).
+
+
+        Call to the faithful
+        ++++++++++++++++++++++
+
+        This system is the Akarith equivalent of the "World Scanner". Instead of relying on science, it relies on the large diaspora of the faithful of Yodism, who are called upon to answer a precise question, for example identifying an item, a name...
+
+        Unlike the World Scanner, this system is managed manually by the Game Master, who must regulate the use of this system (only on an exceptional basis), and write the result of each request consistently with the rest of the information scattered throughout the game.
+
+
+
+        Assaults
+        ++++++++++++
+
+        Besides the mercenaries, whose means of action remain rather limited, the players can call on their allies of the moment to carry out strike operations, as soon as they demonstrate the need to commit such means.
+
+        If the player is still part of their country's secret services, they can ask them for a commando operation. This will amount to having "super mercenaries", armed but few in number, and whose movements will remain relatively slow.
+
+        If they have gained the trust of the Akariths, they can ask them to organise a "fanatical riot", which will take time to converge on the targeted place, but will have effects powerful enough for almost any goal (theft, kidnapping, destruction...) to be achieved.
+
+        Finally, if they have gained the trust of the Paladium, they can request the intervention of a *Seraph* (an overtrained technomagical warrior); this will amount to a teleported operation carried out as discreetly as possible, and very localised.
+
+
+
+        LG's Manor Security
+        ++++++++++++++++++++++++++++++++
+
+        By default, this ability is only accessible from Loyd Georges' Anthropia account. It allows a player (who has hacked this account) to unlock the manor's alarm system, and thus make a fruitful burglary possible. But first of all, of course, the keypad code of this security system must be found...
+
+        If it unblocks the situation, the Game Master can also make this ability available to all the players, on the grounds that their secret services have managed to connect remotely to the manor's security system.
+
+
+        LG's Manor Surveillance Recordings
+        ++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+        This ability is meant to be used as part of a murder party: it makes it possible to retrieve transcripts, by time slot, of what happened in the manor the day before.
+
+        Typically, these transcripts are made from video camera recordings only, without sound.
+
+
+
+        Protected archives
+        ++++++++++++++++++++++++++++
+
+        During the game, the players may come across confidential files that the NPCs have exchanged among themselves. There are two types:
+
+        - genuine encrypted archives, which typically come as password-protected ZIP files. In this case, the player can either ask a friendly faction for help to "crack" the password, or use software dedicated to this kind of operation themselves ("zip password recovery" or others). Once its password has been guessed, the archive will then reveal files containing (more or less) precious information.
+        - encrypted web pages, which ask for a password via a web form to display their content. In this case, it is not possible to find the password by brute force (since the website would detect too many access attempts), so one must investigate to obtain it. An unusual feature of this system is the "secret compartment": such a protected page can have several different passwords, which give access to as many different sets of files.
+
+        Note that each password found by the player will be a double win, since, as in real life, the NPCs of Chrysalis tend to reuse the same passwords for several purposes.
+
+        .. note:: these protected archives are currently left to the GM's initiative; check with the Chrysalis team to integrate new ones (as well as the clues leading to them).
+
+
+
+        Brotherhood of the Djinns of Sedes Sancta
+        +++++++++++++++++++++++++++++++++++++++++++++
+
+        This strange brotherhood devotes its existence to Knowledge, a knowledge initially acquired thanks to the discovery of an immense secret library called the "Vaticane", and since maintained thanks to an imposing network of informants.
+
+        These "Djinns" charge dearly for the data gathered across the world, and are extremely demanding about means of payment - exceptional gems and artefacts having far more value in their eyes than money and its highly fluctuating rate.
+
+        In Chrysalis, the players actually chat with artificial intelligences representing these Djinns. They must therefore find the right questions, not too complex, in order to obtain useful anecdotes for their journey towards the Orbs.
+
+        The Djinns are in no way essential to succeed in the various quests of the game, but they can serve as a "catch-up" for players who have missed too many clues and too much historical information about the orbs.
+
+        .. warning::
+
+            These bots are currently very poorly trained, so what you can do is let the players chat with them in vain (for a fee), then give them really relevant answers to their questions via a follow-up email (e.g. arguing that the Djinn in question was inexperienced etc.).
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+
+        Major quests: the search for the Orbs
+        ========================================
+
+
+        These three enormous mythical globes, which appeared after the fall of the comet at Tunguska, aroused many passions; they thus went through an endless journey, passing from hand to hand, from one side of the planet to the other. One of the most important "Yodic" denominations devoted to their search, the Razulite order, finally managed to impose its hegemony over Midolia, and to seize the three orbs. Galvanised by this feat - which was for them nothing less than the fulfilment of a prophecy - the Razulite phalanxes then crossed the Diorian Ocean with the orbs, in order to give a final thrashing to their sworn enemies (the "Taranites") exiled in Keroskia.
+
+        But they came to regret it. The three orbs failed to make the Razulites immortal, and on the contrary they were torn to pieces by a few Taranite warriors endowed with unsuspected powers. The Razulite survivors retreated in all directions, and expecting to see their empire reduced to pieces, they decided to scatter and hide the orbs. One of them was taken deep into the jungle, another far into the polar lands; as for the last one, it was simply hidden in a sanctuary of Midolia.
+
+        Now that Loyd Georges has brought this forgotten sanctuary back to light, the quest for the orbs has well and truly resumed. This time, will they finally reveal their powers? Or will they merely put the continent to fire and sword by their mere existence?
+
+
+        The quest for the Alpha Orb (red)
+        +++++++++++++++++++++++++++++++++++++
+
+        This enormous crystalline globe, glowing mainly in red, was found by Loyd Georges in the underground temple of Nazur. Intrigued by its strange optical and acoustic properties (the orb glows and sings in the presence of heat), Loyd entrusted it to Waden Shaw - a young physicist who is also the future son-in-law of his friend, the archaeologist Emilos Loakim of the Alifir Academy. Waden then put the orb in safety in his private laboratory, near Faeran, to study it in complete serenity during his weekends.
+
+        Finding this orb is a long-haul quest, since the only other person who knows about said laboratory is Cynthia Loakim, the fiancée of the physicist Waden Shaw (and - at the risk of repeating ourselves - the daughter of the old archaeologist Emilos Loakim). This international reporter is covering, during the auctions, the gathering of the Nalavutian clan chiefs in Kitiika. Around the middle of the game, the Akariths capture her there with a sleeping gas attack (very long-lasting sleep), and try to bring her back to Akaris.
+
+        The players must therefore track her down, then, depending on their allegiances, take her back from the Akariths, or on the contrary cover her repatriation to the Judicators. Since Cynthia readily gives away the location of the laboratory when she wakes up (truth serum), it will then be a race to burgle Waden Shaw's laboratory as quickly as possible. Throughout this time, the latter will, on the advice of his friends, be holed up at the Alifir Academy (which the mercenaries will confirm). The first camp to storm Waden's laboratory will lay their hands on the orb and on the physicist's preliminary analyses.
+
+        Some players may try to play "fair" with the NPCs, and win their trust directly instead of extracting information from them by roundabout means. It is up to the Game Master to choose whether they want to cut these negotiations short immediately, or give a chance to enterprising players (while not disqualifying, in parallel, the players who attempt a more discreet approach).
+
+
+        **Main paths to discover the Alpha Orb**
+
+
+        - it must be clearly told to the players, at the very beginning of the game, that their special services can "crack" the passwords of protected files, but that they cannot do the same with Anthropia user accounts, since these get locked after 10 failed attempts, which would compromise the whole operation.
+        - mentored by their superiors, the players should wiretap Loyd Georges; however, their attempts to hack his account run into a snag: they must find the answer to the secret question (the name of LG's first cat); but trying to question the gentleman's entourage about it, besides arousing suspicion, should give nothing.
+        - the investigation is unblocked by the interception of a message from Emilos Loakim to Loyd Georges, in which the old scientist announces that the "marvel" is being studied in a safe place; from then on, the players' superiors urge them to spy on and hack Professor Emilos Loakim; the "secret question" of the professor's account is the maiden name of his late wife, which by default the players do not know.
+        - several ways to find this maiden name (non-exhaustive list):
+
+          - the encyclopedia article about Prof. Loakim only gives his wife's first name, but mentions in passing that they were married in the village of Dibel, just south of the city of Cazoar (in the same country of Sabarim). The players can then hire mercenaries in Cazoar, and ask them to investigate in this village. Either in a discreet and safe way (e.g. going to the cemetery to look at the epitaph, which should give the missing information), or in a riskier way (going to question people at/burgle the town hall to read the register of marriages or burials). It is up to the Game Master to react according to the subtlety shown by the players.
+          - a patient phase of *social engineering* (manipulative dialogue) with Loyd Georges, Professor Loakim, or any other NPC of the Alifir Academy, can make it possible to retrieve this information. But here again, too direct an approach can arouse suspicion - if not at the time, at least after the hacking of the professor's account (if this intrusion is detected).
+          - as a last resort, the Game Master can deliver this clue to the players who have wiretapped the professor, for example via an email from his in-laws (bearing his wife's family name, therefore) making a distant allusion to a memorial meal for the deceased.
+
+        - once the maiden name ("Begalatr") has been found, the players can calmly wander around Professor Loakim's Anthropia account, and in particular read his personal documents there, as well as his few exchanges with Waden Shaw; all of which indicates that the latter has the orb (but the professor himself does not know where exactly, as he fears making a blunder).
+        - Waden's account, too recent, has no "secret question" activated, so the players must not hope to hack it like Professor Loakim's; it is moreover made explicit that the physicist very rarely uses his Anthropia account and his messaging. But various clues present in the game (in particular in the account of the professor, or of Loyd Georges, or as a last resort, during a long wiretap of Waden Shaw) will allude to the engagement between the physicist and Cynthia Loakim, the professor's daughter.
+        - the players must then focus their efforts on Cynthia to learn more about the physicist. Various scattered clues should refer to this young "international reporter": encyclopedia articles and sketches she made about the "heads of state of Pangea", a radio spot revealing that she is currently covering the summit of the Nalavutian clan chiefs... Her secret question is virtually unbreakable ("Where did she kiss Waden for the first time?"); however, one of her messages to her father betrays the location of the little studio flat which serves as her base between each mission abroad: the Wetfeet Peninsulas near Alifir.
+        - the players' mercenaries or superiors easily find them a black-and-white drawing showing the neighbourhood. The players must then determine which one exactly is her studio flat, by cross-checking the information scattered in the various messages of the various email accounts: not on stilts, but on dry land, no immediate risk of flooding (so not on the ground floor), with (noisy) neighbours above, (uneventful) neighbours on each side of the studio, and a pleasant view (not of the industrial complex). This leaves only one possibility on the picture: this is where the player is supposed to "investigate".
+        - it is noted that the studio has an alarm system, so a "break-in" approach will be very brief, will put the player in danger in case of an investigation, and will only bring them a little data (including notes detailing her mission in Nalavut). If on the contrary the player finds one of the clues saying that Cynthia left a spare set of keys "in the second [post] from the entrance", and informs the mercenaries of it, the operation can be stealthy, and bring them back plenty of interesting information, including her password memo (slightly enigmatic all the same). It is up to the Game Master to modulate the success of the operation according to the accuracy of the location of the studio, and according to the earlier "visits" by other groups of mercenaries.
+
+          - if a player has succeeded in this operation well enough to crack Cynthia's password, they will discover in this Anthropia account a good amount of additional information, but no "critical" element about the location of the physicist's secret laboratory. They will then have to think of sending a "friendship request" to the physicist, in Cynthia's name. After a variable delay (allowing the Game Master to regulate the action), Waden will accept, and the hacker player will then be able to read the whole of Waden's account without having cracked his password. In this account will be a few details about the analyses of the orb, and above all an "order confirmation" from a scientific equipment supplier, announcing the upcoming arrival of an invoice, after shipment of the product, for example at **another** email address of Waden's (which the players will then do well to wiretap).
+          - the players who have partially or completely failed the "Cynthia burglary" step must have a second chance, when Cynthia sends Waden by (interceptable) message an encrypted archive "with the usual password again", supposed to contain a preview of results from the Nalavutian congress. If the players think of passing this archive on to their superiors, the latter will be able to decrypt it by "brute force" (by trying all possible passwords), and thus find Cynthia's favourite password: "globetrotter". This then leads back to the previous case (sending a deceitful friendship request to Waden Shaw in Cynthia's name, etc.).
+          - be careful not to let one player close the door to the others for good, for example if they change the password of Cynthia's account (e.g. then disclose the answer to the secret question to the wronged players, via interceptable email exchanges).
+
+        - from the moment the players know that Cynthia is in Nalavut (which they will probably report to one faction or another), and if possible when 1-2 players have gained read access to Waden's account, it becomes time to trigger the operation of Cynthia's kidnapping by Akariths (operations in which some players could have become accomplices). This kidnapping is presented by the kidnappers as a "hostage-taking for political purposes", and the media will focus on the case of a few tribal chiefs held prisoner, while Cynthia is discreetly repatriated by boat to Akaris.
+        - this kidnapping gives rise to a first clash between the factions: the Paladium can locate Cynthia if it is given the technomagical imprint of a very particular item she wears (e.g. the engagement jewel they both have); the mercenaries have a chance of spotting the kidnappers' temporary landing in Aklarvik; and if nothing bars their way, the Akariths have time to wake Cynthia up and question her to get the location of the laboratory.
+        - in parallel with all this action, the invoice for the scientific equipment arrives at the physicist's "contact" email, revealing the place of delivery and therefore that of the orb.
+        - depending on everyone's speed in finding the exact address of the secret laboratory, and above all on the means used to burgle it (an Akarith crowd come from afar, or better the secret services of a faction, or better still a Paladium teleportation... since we assume that sending mercenaries for such an important mission would be too risky - it is the orb, after all!), the Game Master will have to determine which faction or super-faction has seized this famous orb (by default, we will assume that no camp has particular problems bringing it back to a safe place once found).
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+        The quest for the Beta Orb (purple)
+        +++++++++++++++++++++++++++++++++++++++
+
+
+        This quest has its origin in the most troubled times of Midolia, shortly before the Yodic denomination known as "Razulite" (which built the underground temple of Nazur) was crushed by the "Taranite" Yodic denomination (mainly based in Keroskia). A legendary Razulite warrior, Bartzar, carried off one of the orbs (glowing in purple) to hide it at the far end of the icy lands of what was, at the time, the magnetic "South". The magnetic poles of the planet are now reversed, but the orb remains where it was buried, near Blassow.
+
+        The starting point to find this Orb is the deciphering of the runes covering the artefacts recovered by Loyd Georges. They put one on the trail of Bartzar's legendary mission, but it will then be necessary to cross-check this information with several historical and scientific sources, as well as with on-site investigations, to finally unearth the Orb.
+
+
+
+        **Main paths to discover the Beta Orb**
+
+
+        - the starting point of this quest is the statue of Bartzar (which was in fact on his tomb in the temple of Nazur). The runes of this statue indicate that Bartzar went to hide an orb out of the reach of the ungodly (but no one knows where exactly). This statue is mentioned as important in exchanges between Professor Loakim and Loyd Georges, but to see the runes in question, one must have access to the professor's account (and to the 3D view of the statue which is among his personal items) or to Loyd Georges' (one of his documents contains the transcription of the runes).
+        - the hacking of Prof. Loakim's account is detailed in the path for the Alpha orb. But the players can independently access Loyd Georges' account, thanks to exchanges about the death of his old dog Anubis. It is up to the players to deduce that LG systematically gave his pets the names of Egyptian animal gods, and to try the different possibilities to crack his account (the right answer to the question "the name of my first pet" being "Bastet", the cat goddess).
+        - the runic translation service then provides, for a fee, the meaning of the inscriptions on the statue. From then on, several paths open up to find the place where Bartzar hid the orb:
+
+          - **by correlation between the "foreign artefacts"**
+
+            - the exchanges between Loyd Georges and the scientists attest that some of the artefacts (to be chosen by the GM) brought back from the temple are of distant origin (similar to spoils or souvenirs), which is strange; the players must therefore be encouraged to recover as many of them as possible (via the auctions for the "minor" pieces, or from the NPCs for the "major" pieces), in order to learn more about Bartzar's journey.
+            - submitted to runic translations, biophysical appraisals, or better to the worldwide investigations of the Paladium or of the Judicators, the various foreign artefacts make it possible to gradually narrow down the searches, and to bring out a trail between Akaris and the town of Blassow, passing through Kosalam, Vidastrit and Otzig (it is in fact Bartzar's return journey towards Akaris).
+            - with the help of local mercenaries, who report the legends and historical facts of the place, as well as various clues gleaned from the runes of the artefacts, the player must come to the conclusion that Bartzar buried the orb in the salt sea near Blassow (where the low temperatures silence the orb).
+
+          - **by solving the riddle of the "filter of the doctrine"**
+
+            - the sacred book found in the temple, which the archaeologist deciphered, indicates that Bartzar's secret will only be uncovered when the light of the Faith passes through the filter of the Doctrine. The players will then have to understand that, among the "minor" items put up for auction, the lantern (nicknamed "Light of the faithful") and the metal grid (nicknamed "Protector of orthodoxy") play a special role.
+            - A cunning player must therefore manage to acquire both, and from Loyd Georges' exploration notes, reconstruct exactly where in the temple these elements were to be positioned (the lantern in the fountain, and the grid over it). They will then have to fund a commando operation to return to the temple of Nazur (flooded in the meantime by somewhat overzealous faithful), and see what the projection of the grid's patterns onto the ceiling of the temple gives. This operation will point to runes engraved in the wall, and the translation of these runes will rather directly reveal the presence of the orb in the salt sea of Blassow.
+
+        - whatever the path taken to reach the salt sea of Blassow, there will remain the laborious task of finding where exactly, in this vast expanse, the buried purple orb lies. There will potentially be stiff competition between secret service commandos, crowds of Akarith faithful, and a teleported Paladium operation. The commandos would take a very long time to sweep the area with a hand-held detector, the Akariths would take much less time to comb it thanks to their numbers; as for the Paladium, it would only act at a specific point, if its World Scanner (run on a very typical Akarith religious item) has revealed a particular "resonance point" in this area (thus indicating the pile of artefacts buried with the orb).
+        - it is up to the Game Master to decide, according to the order of arrival and the respective size of the forces, who has managed to dig up the orb and flee with it (e.g. the secret service commandos will not be able to do much if the area is taken over by many Akariths; on the other hand, a teleported Paladium commando could snatch the orb from right under their noses...). A dice roll can help, in case of fierce competition.
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+        The quest for the Gamma Orb (blue)
+        ++++++++++++++++++++++++++++++++++++++
+
+        The fate of the gamma orb, glowing in blue, is somewhat peculiar. After the defeat of the Razulite faithful (those of the temple of Nazur) against the Taranites, in Keroskia, a small troop of Razulite survivors made their way into the deepest part of the jungle of present-day Tieros Olim, to try to bury the orb where - they thought - no human would ever go.
+
+        But the protective aura that the orb was supposed to grant them must once again have suffered a few hiccups, since these travellers were quickly wiped out by the countless nuisances of Mother Nature, as well as by the Taranites sent after them (who did not survive the journey either). The tribe of the Tonkili pygmies was therefore surprised to discover, years later, a glittering orb at the edge of its hunting grounds.
+
+        Revering only animal species, these good natives were not unduly moved by their discovery, but found it a very useful function, as an "ambient sound and light diffuser" in the small temple of their tutelary deity, the iguana Tuki Tonka.
+
+        The gamma orb will be hard both to locate and to recover. The player will need a long investigation to unravel the tangled skein of History, and find the small pygmy temple housing this jewel.
+
+
+
+        **Main paths to discover the Gamma Orb**
+
+        - this quest is only launched later in the game, when the scientists of Alifir - Professor Loakim at their head - make major breakthroughs in deciphering the sacred book of Nazur.
+        - the scholars of Alifir temporarily stumble over a few enigmatic sentences about a battle, and the players can then unblock them (and thus rise in their favour) thanks to the clarifications brought by the artefacts put up for auction, and the various analyses to which **only the players have access** (this because of the rivalries between academies)
+        - in any case, in the end, the scientists find the exact location of the mythical battle in which the Razulites were decimated by the Taranites: near Wigwir, in Keroskia. On an expedition there, Prof. Loakim and his colleagues start vigorous excavations, and soon lay their hands on Taranite writings recounting the battle in question, as well as the pursuit of the Razulite survivors and their orb.
+        - the players can intercept the runic transcriptions (then later, translations, to help those who could not use the "runic translation" ability) by the usual means: mercenaries, wiretaps, hacking of the Anthropia accounts of the main NPCs, *social engineering* with the archaeologists if the player's official identity lends itself well to it...
+        - these writings give a few clues about the return of the Alpha orb to Akaris, as well as about the great detour made by Bartzar to hide the Beta orb. But they are above all important for the account they give of the pursuit of a small group of Razulites carrying an orb, a manhunt which ended in the deadly jungle of present-day Tieros Olim (the various messages received by the Taranites, by carrier pigeons, attest to it).
+        - while the scientists keep excavating the ruins near Wigwir, the players must send their mercenaries to investigate the trail of the Gamma orb, as far as the last village before the jungle, a village where this episode is still remembered.
+        - the mercenaries will refuse to go into this "jungle of the singing naiads", but the players have other means to progress:
+
+          - by running with the Paladium a World Scanner search on weapons typical of the Razulites or Taranites, they will find the traces of the last camp mentioned, where the Taranites' assault put an end to the pursuit.
+          - by handing over their knowledge to the Akarith Judicators, they will allow them to organise a great search (treasure-hunt style) in the jungle, to follow the clues up to the last camp of the Taranite pursuers.
+          - a "normal" national faction will also be able to organise its own expedition, but it will inevitably be slower to get results than the two super-factions
+
+        - in the abandoned Taranite camp, besides the customary few bones/weapons, lie the last notes of the Taranite chief; they mention that the orb was indeed recovered by them, but that all the warriors are too wounded to turn back, so a rescue team must be sent to them as soon as possible. The last carrier pigeon unfortunately flew off without its message, it seems, and since then, the orb has disappeared.
+        - from that moment on, the player should suspect that a local tribe recovered the orb (Taranites or Razulites would at least have buried their warriors fallen in battle). The natives avoid encounters like the plague, and their villages are very hard to reach; fortunately the local mercenaries quickly tell the players about the possibility of renting flying drones to grid-search specific areas of the jungle, and record all visual or acoustic anomalies there.
+        - if it flies over the right area, the drone will bring back pictures of the place where strange sounds come from (a sacred cave under a waterfall); but finding this area by "trial and error" would cost the players a fortune, so there are smarter ways to determine where to send the drone:
+
+          - an advert mentions an audio work mixing ordinary instruments and forest sounds. A good idea is to listen to its "demo tape", to spot the few passages containing strangely crystalline sounds, to work out where they were recorded thanks to the description of the work, then to send the drones only to these 2-3 places.
+          - the Djinns of Sedes Sancta give a few clues about the strange sounds of the jungle waterfalls
+          - as a last resort, a villager from the outskirts of the jungle can sell what he knows about the local pygmy tribes, and talk in particular about the iguana god they go to worship by canoe, a day's paddling downstream from the "black mountain".
+
+        - once the pictures of the waterfall have been obtained, all that finally remains is to recover the orb; the players must tell the commando forces (whether those of their initial factions, or of a super-faction) exactly how to proceed, and if they make the mistake of not warning about the nocturnal religious celebrations, the men sent will run into fierce resistance with poisoned darts, which will make the operation fail (even for the Paladium, which refuses to traumatise the pygmies by desecrating their temple under their noses).
+        - if an operation fails, the pygmies will become very protective of their small cave temple. The idea is then to negotiate with them, to finally exchange the orb for another light and sound system (given that, after all, their true idol is an iguana statue, and not the orb).
+        - as for the two other orbs, the Game Master will handle the possible conflicts between factions, to determine who has managed to recover this third orb from the pygmies.
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+        Side Quests
+        ==========================
+
+        While the unfolding of the overall scenario of Chrysalis is firmly tied to the progress of the various camps towards the Three Divine Orbs, there is also a multitude of optional quests, sometimes completely unrelated to the main quests. These quests allow the players to rise in rank in a faction, to earn goods, or just to discover the game universe more deeply.
+
+
+        The Honorary Doctorate
+        +++++++++++++++++++++++++++++++
+
+        Loyd Georges has always been passionate about archaeology, but while his ample inheritance allowed him to indulge in it freely as an amateur, the scientific world and its laurels have always remained foreign to him. Not that the good man was lazy; but at his fourth unsuccessful attempt to pass his first university year, he had to face the facts: memorising dates was infinitely beyond his abilities, and he should not confuse tenacity with stubbornness.
+
+        However, at sixty, Loyd Georges finally glimpses a way into the academic world, via the title of Doctor *Honoris Causa* which universities award every year to whomever they please.
+        Loyd has always been very generous towards the Alifir Academy, and on top of his financial subsidies came, this year, the donation of the most exceptional artefacts brought back from Midolia. It is therefore not without reason that Loyd Georges hopes to see his devotion to Science finally recognised and rewarded.
+
+        But the matter looks bad. The three deans of the academy, who decide on the awarding of this title, are more than divided about Loyd Georges' candidacy; and his lack of scientific expertise puts him in difficulty against his competitors. Among them, Syghmon Banor (who studies only the sexual organs of tapirs) and Prof. Losslass (a crooked archaeologist).
+
+        The players will therefore have the opportunity, over the first half of the game, to learn about this quest which so preoccupies their host; and to meddle in the matter, to alter its outcome (which is the award ceremony at the Alifir Academy). The main attraction of this quest will be the possibility of winning Loyd Georges' favour by helping him (with all that this can mean in financial and informational terms). But other purposes will be possible: "sinking" another player by making them responsible for Loyd Georges' failure, or blackmailing an NPC candidate for this honorary title, whose dishonesty was discovered along the way...
+
+
+        Collecting information
+        ----------------------------
+
+        The players are initially not concerned by this issue of the Honorary Doctorate; the clues about it will therefore have to be recurrent.
+
+        - message from Loyd Georges to Emilos Loakim, mentioning the two cronies' schemes to influence the state of mind of the 3 deans; afterwards, the exchanges between the various NPCs about this matter will not stop until the ceremony;
+        - announcements on the web radio about the upcoming ceremony;
+
+        Then, as things go on, the players will have to be proactive in their search for information:
+
+        - reading the NPCs' emails, after hacking their accounts
+        - hiring mercenaries to investigate the deans or the candidates in the running
+        - asking their hierarchy for additional investigations, once the interest of this quest has been demonstrated
+
+
+        Meddling in the matter
+        ----------------------------
+
+        For their intervention to be recognised, the players will do well to show Loyd Georges their intention to help him as soon as possible; and better still, give him a few hints about their strategy for doing so - without revealing everything (since other people will inevitably spy on these conversations). This will then be the right time to negotiate with the gentleman the expected rewards in case of decisive help (without appearing venal either...).
+
+        Examples of possible interventions in the matter:
+
+        - lobbying/negotiation/blackmail with the deans;
+        - disqualification of the competitors, by exposing their dark sides, or by "spoofing" their emails;
+        - disclosure of "archaeological scoops" (Bartzar's adventure, the fugitives in the jungle, the drama of the mummy of the buried temple...) to Loyd Georges, so that he can shine before the scientists and the Press, and truly deserve honours;
+
+
+
+        Outcome
+        ------------------
+
+        A radio spot (or other medium) will give the result of the annual Alifir ceremony. The outcomes can be:
+
+        - award of the doctorate to Loyd Georges, who will be delighted
+        - award of an "alternative" title (for patronage), which will leave him a little bitter
+        - no prize for LG.
+
+        If he is victorious, Loyd Georges' gratitude towards his allies will take the form of significant discounts on the auctions, and access to "off-auction" items. Conversely, in the rare case where he detects a dirty trick, Loyd Georges will not be able to exclude a player from the auctions (we will assume a legal prohibition), but he will be able to impose a surcharge on them.
+
+
+
+        Magnus and the sect of Yodic assassins
+        +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+        It is possible to give the character with the username "Opal" a special status, by making him a genuine wealthy Lordanian, known worldwide under the nickname of "Magnus". A former schemer and adventure companion of Sir Loyd Georges, he has now settled down, and is travelling with his wife and child to Sabarim to take part in these auctions tinged with Akarith danger. This character has large sums of money, and devoted employees, in Lordania. Potentially, give him an allied player as reinforcement (his wife?) so that he does not play solo.
+
+        Magnus' health, which was dangerously declining, stabilises during this business trip to Salima. By investigating all this (medical analyses, etc.), he can discover that he was in fact the target of a poisoning attempt, coming from a fanatical Akarith sect (the "Purifiers") which hunts down former desecrators of Yodic holy places.
+
+        His investigations can show that most of his former cronies have suffered premature and dubious deaths, and uncover the cell of assassins which has set up in Akaris. Enough to bring him closer to Loyd Georges, if only the past does not resurface unexpectedly (since a statuette he had stolen from LG reappears on the black market).
+
+        Example of a path: the analysis of Magnus' antihistamine capsules shows that they contain dangerous myotoxins; his pharmacist in Baynon is in on it; intercepted messages make it possible to find and launch the assault on a hideout of these fanatics in Lordania; confidential documents from Akaris are then seized, etc.
+
+        See the Chrysalis:Mindstorm character sheet, which can serve as an in-depth introduction to this rather special character of the game.
+
+
+
+        The Chess Challenge
+        ++++++++++++++++++++++++
+
+        On top of the politico-religious struggles plaguing Pangea come those, more discreet but no less intense, that the various scientific universities wage to establish their hegemony.
+
+        One of the battlefields of this cold war is the field of artificial intelligence. And the Alifir Academy is under pressure, since its great rival, the very hegemonic Faculty of Imuo, has just shown off a neural system (named WireMind) which it claims is impossible to beat at chess. This is a snub for the Alifir Academy, which had been at the forefront of these technologies for several years. It therefore hopes, to save its honour, to obtain a defeat of WireMind, and for this it is combing its entire network of acquaintances - including Loyd Georges' guests.
+
+        This quest is interesting on two levels: pocketing the reward promised by the Faculty of Imuo of course, but also winning the favours of the Alifir Academy; all the more so if the player takes care to negotiate their help with the academy in advance (since afterwards, it will be difficult to obtain more than gratitude...). A good player could for example intercede in favour of Loyd Georges' honorary title, or obtain access to some resources of the Alifir Academy, in exchange for a victory against WireMind.
+
+        In concrete terms, to achieve their ends, the player can choose to:
+
+        - beat WireMind directly (excellent chess level required);
+        - call on their mercenaries to find a way to weaken WireMind (e.g. running a virus in the network of the Faculty of Imuo, to monopolise its computing resources). This will have to be paid for, and the player will then have the title of champion snatched from them by other (fictional) competitors, but they will come out on top if their "intervention" has been well negotiated with the academy. Beware, the contacts in the Alifir Academy may be wary of a possible hoax or trap, and will only "go along" if the exchanges are secure enough (messaging protected by TLS, or other means of communication). The Game Master can give an opposing player a chance to expose this unfair tactic, and to take advantage of this information;
+        - investigate the "industrial espionage" lead, in order to demonstrate that the code running WireMind was largely stolen from Alifir; this will then be a disaster for the reputation of the Faculty of Imuo, and a double victory for Alifir;
+        - win by cunning, by noticing the clue saying that *"the only worthy opponent for WireMind is itself"*; then, it will be enough for two players to team up, open two concurrent games against WireMind, and copy the moves of one into the other. This way, necessarily, one of the games will end with the victory of the "supposedly human" chess player against WireMind;
+
+        .. note::
+            A mischievous Game Master could continue the plot by exposing the trickery, or by pushing an opposing player to guess it, in order to then set up blackmail, or simply a great scandal between universities, possibly with a dash of lawsuits...
+
+        Note that some players could also win by using present-day chess software (thus non-existent in the Chrysalis universe) to beat WireMind. This would not be very *roleplay*, but it would ultimately amount to the same thing as the *cunning strategy* described above.
+
+
+
+        Anti-Phishing Mission
+        +++++++++++++++++++++++++++
+
+        The players will receive a few absolutely typical phishing emails (Nigerian scam, fake bank alert, request for Anthropia authentication information...), and they will then have to think of:
+
+        - locating the origin of these emails via the academy's "GeoIP" system;
+        - stringing the swindler along, in order to extract missing identification information;
+        - dispatching their mercenaries to corner him (e.g. by calling the local police);
+
+        This will then trigger financial rewards, from the police forces (whose haul will be even bigger than expected), and/or from the firm whose customers were harmed by this type of "phishing" spam.
+
+        In the unlikely case where the players fall for it (by giving money, or their password...), it is up to the GM to have a field day, robbing them, doing lots of actions in their place, until the players get their password reset directly by the IT services of Alifir.
+
+
+        Anti-Spamming Mission
+        ++++++++++++++++++++++++++
+
+        In a variant of the previous mission, the task will be to identify the authors of advertising spam, whose servers are located in a lawless zone (an ocean platform à la "Sealand"), and to send mercenaries to destroy said servers.
+
+        The operation will then be a double-edged sword, since depending on how well the operation is prepared (reconnaissance, assault strategy based on the plans of the platform...), there could be collateral damage, and therefore a scathing condemnation from the Paladium.
+
+        If the operation is well conducted, the benefit will be, besides moral, financial, thanks to the plundering of the resources of the "mafia micro-country" hosting these servers.
+
+
+        The stolen paintings
+        ++++++++++++++++++++++++++
+
+        Three priceless paintings dating from the pre-Tectonic era have just been stolen from a museum in Sabarim. This triggers much tighter controls at the country's borders.
+
+        The players can set off on the trail of these works, mainly to acquire riches or fame:
+
+        - one painting can be recovered via a strike operation at a collector's in Faeran (based on clues from the Oberons)
+        - one painting can be found by cornering the museum's shady curator, who retired to Cazoar after his dismissal (e.g. carrying out an interrogation under truth elixir, where he can only answer "yes" or "no")
+        - finally, one painting discreetly reappears much later on the black market, and the players must jump at the opportunity
+
+        It is up to the players to decide whether they intend to simply return these paintings, and collect the reward, or use them in another way.
+
+
+        Loyd Georges' Cane
+        +++++++++++++++++++++++++++++
+
+        At some point, Loyd Georges will send an email to a certain Sir Zenon de Salim, mentioning the cane he forgot at his home at their last evening together, and announcing that he will tell one of his couriers to pick it up in the following days.
+
+        It is up to the players to seize the opportunity to locate this friend of LG via the mercenaries, and send a fake courier to retrieve the cane smoothly.
+
+        Said cane contains, in a cleverly locked compartment, the electronic key of the Salima safe, as well as a mysterious scribbled note. It will give up these items mainly in two cases:
+
+        - if it is submitted to the "physical analysis" ability; it will then be opened cleanly, and can be resold on the black market at a good price.
+        - if the player asks their mercenaries to break it (a few clues in its description or its image may suggest that it has things to reveal). In this case, the cane will be in pieces, and the player will lose it.
+
+        The safe key will mainly have informational value, through the safe number it bears (see `Burglary of the Bank of Salima`_). As for the scribbled note, it will be a memo from Loyd Georges, mentioning in enigmatic form the security keypad code of the manor.
+
+        The thief will have to make good use of this information before LG realises the theft, and fixes the security loopholes created by this "leak". But the Game Master can leave the players plenty of time; for example LG will only contact Zenon again a week later, to tell him that he still has not had time to send him a courier, and Zenon will then be surprised to have already handed over the cane; the two cronies will still have a few puzzled exchanges before realising that it is indeed a theft, a time during which the thief will be doubly pressed to act.
+
+
+
+        Burglary of Loyd Georges' Manor
+        ++++++++++++++++++++++++++++++++++++++++
+
+        In their initial groping around, the players will obviously be tempted to use the mercenaries to go and "investigate" at their host's home. However, on his return from Akaris, Loyd Georges fully understood that his fruitful "sacrilege" would earn him as many envious people as haters. He has therefore turned his manor into a veritable blockhouse, and has taken care to put his loot in safety in the safes of the Bank of Salima.
+
+        In case of a burglary request, the mercenaries will be able to give a few pieces of information about this state of play, following their preliminary "reconnaissance".
+
+        If the burglary is maintained, and the manor's security has not been deactivated by keypad code, the mercenaries will be trapped by the manor's security, and will therefore have to be considered lost until the end of the game (it is up to the Game Master to remember it). But the player will still be able to pay for and move mercenaries from other cities.
+
+        Likewise, if a burglary has succeeded (and the players have therefore been told about it by a radio spot), we will imagine that security has been reinforced even further, and that any new attempt to burgle LG's manor will be doomed to failure.
+
+        If a burglary is properly conducted, the mercenaries will bring back at least money, LG's notes about his expedition and the discovery of the temple, and various clues for the major quests. It is then up to the GM to spread the news of this burglary through the various media.
+
+
+
+
+        Burglary of the Bank of Salima
+        +++++++++++++++++++++++++++++++++++++++
+
+        Many clues will attest to the fact that Loyd Georges' possessions are kept in the famous Bank of Salima. It will therefore be expected (and encouraged by the Game Master) that the players consider expeditious tactics to get hold of the auction items.
+
+        However, as the mercenaries hired on the spot will point out, the safes of this bank are particularly resistant to break-ins (eye recognition, identity card required...). Any simple burglary attempt - even with the safe key stolen from LG - will therefore end in a resounding failure (and the loss of the mercenaries involved).
+
+        The players will only have a chance to steal an item from Loyd Georges if they have the most advanced means lent by one of the two "special" factions: a discreet teleported burglary conducted by the Paladium, or a violent "fanatical riot" dispatched by the Akarith Judicators.
+
+        The success of these special assaults will depend on the accuracy of the location of LG's items. If the player knows the exact coordinates of the safe (e.g. because they found the key which was in LG's cane), success will be maximal. If they have located the items approximately, using the World Scanner, it will be a little lower. And if they have no idea of their location in the bank, the Akarith riot will only recover fancy trinkets, and the Paladium will refuse to intervene.
+
+        The various items gleaned are, for now, left entirely to the GM's discretion.
+
+
+
+
+        Secret Plot of Heliossar
+        +++++++++++++++++++++++++++++++
+
+        *The details of this optional mission are for now left to the Game Master's invention.*
+
+        To the requests of their neighbours, the Heliossarian ambassadors (non-player characters) will oppose a surprising denial of reality, playing down both the bellicosity of the Judicators and the size of the Akarith military forces. But this will be a clever bluff, meant to cover the fact that, for many years already, they have been secretly preparing for the next Akarith aggression.
+
+        Instead of betting on military one-upmanship - a competition they know is lost in advance - the Heliossarians are gradually infiltrating the Akarith state, in order to decapitate it and sow chaos in Akaris when the time comes (typically, by pinning the blame for an attack on one Akarith denomination or another).
+
+        The flaw in this Machiavellian plan is that the Judicators detected these infiltrations long ago, took protective measures (such as using body doubles for all their public appearances), and are delighted at being able to turn the future bloodbath back against the Heliossarians - a more than perfect pretext to invade them.
+
+        Depending on their initiative, the players will see more or less far into this fool's game, which will give more or less relevance to their reactions (well- or ill-intentioned), and will lead this affair to one of its many possible outcomes:
+
+        - cancellation of the attack attempt by the Heliossarians
+        - a failed attack which backfires on the Heliossarians
+        - refinement of the attack so that it truly sows chaos in Akaris
+        - etc.
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+        Extensions and Twists
+        =================================
+
+        This section analyses a few possible *gameplays* and twists of the game. This is so that, on the one hand, the Game Master can push the players towards these situations (if they seem interesting to them), and on the other hand, they can anticipate some complex cases, and react to them in the most beneficial way possible.
+
+        Experienced Game Masters will no doubt find much richer ideas in terms of gaming experience, which is why the following paths are to be considered as mere suggestions, hardly more.
+
+
+
+        The progress report
+        +++++++++++++++++++++++++
+
+        At least before each new auction, it would be good for each pair of secret agents to be asked by their hierarchical superiors for a progress report on their investigation; this would be an opportunity for the Game Master to check that they properly understand what is going on, as well as to slip a few clues and new instructions to the players (in particular about the lots to target at the auctions).
+
+        This review can be done orally (e.g. through a phone call from the superior), or by email. But if the report can be intercepted (e.g. by wiretapping a player's messaging), the players must be encouraged to keep their writings somewhat vague, without mentioning "critical" data, so that prying ears can grasp their progress, but not the secrets discovered (passwords, names of characters and places...). Systems such as the cryptographic security of messaging of course remove this problem.
+
+
+        The telephone switchboard
+        ++++++++++++++++++++++++++++
+
+
+        Besides the tools of the fictional portal (messaging, chat), the players obviously have the possibility of using their usual means (real email, telephone, meeting "in real life") to communicate.
+
+        In order to also extend their possibilities of communication with the non-player characters (NPCs), the Game Master is advised to set up a global "telephone switchboard" ability.
+
+        The principle is simple: to contact NPCs by phone, the players must call the number provided by the Game Master (which will, in all likelihood, be their mobile phone), then give the name of the person they want to reach to the robotic switchboard that answers them. In short, it is exactly the principle of the telephone switchboards of yesteryear, or of today's voice recognition assistants (Siri, Vlingo...).
+
+        This additional gameplay obviously requires a certain mental agility from the Game Master: remembering to systematically answer their players' calls with a robotic voice (and not those of their parents or bosses), and to quickly get back into the corresponding game context (in particular to mimic the NPCs "to be activated", such as the mercenaries).
+
+        However, the NPCs are not supposed to be infallible either, so their possible memory lapses, as well as their ignorance of the messages that have only just been sent to them, are perfectly justifiable in the context of this roleplay.
+
+        A Game Master well equipped on the *smartphone* side could install a call recorder, in order to extend the "wiretapping" ability to real telephony. This will of course require first sending a "newsletter" to all the players, announcing the addition of this feature to the wiretapping system, and detailing how it works (systematic success or not...). It is then up to the Game Master to convert these recordings into a standard format (mp3...), then to pass them on, by one means or another, to the sponsoring players.
+
+
+
+
+        Betrayals
+        +++++++++++++++
+
+        If the super-factions have done their canvassing work well, it is expected that at least a few players will find themselves at odds with their initial faction, and will start playing against their camp.
+
+        But remember that from the very beginning of the game, a player's hierarchical superiors have access to their Anthropia account; the player can "play along" for a while, and respond positively to the super-factions (their superiors will actually encourage them to do so), but there will come a time when their actions reveal their true allegiance.
+
+        The betrayal can be explicit: the player reveals a crucial piece of information to another faction, under the nose of their superiors. It can also be implicit: a player hides their game by changing their password, and after an inquiring reminder, their superiors suspect that they have switched sides.
+
+        We assume that the players, who are travelling in Sabarim for the duration of their mission, are not physically threatened by their former secret services. However, the latter must react credibly by:
+
+        - threatening the player with the worst reprisals if they do not immediately back down
+        - cutting off the player's access to all their special abilities (note that this will have no effect if the player has been taken under the wing of another faction which has the same abilities)
+        - warning the other agents of this betrayal
+        - removing (potentially with a delay) the player from their role as ambassador to the other factions
+        - having the traitor wiretapped, preferably by another agent (which will be useless if a TLS protection has been installed by the defector)
+
+        The game must then continue normally, but keeping this betrayal and its possible impacts in mind at each stage of the scenario.
+
+
+        Hacking web accounts
+        +++++++++++++++++++++++++++++
+
+        When they have access to the account of one of the NPCs, many players will not be content with discreetly reading information there. Hence an avalanche of possibilities.
+
+        - if the player sends emails impersonating the NPC, the latter must notice it after a delay, and then change their password (while alerting the fictional webmaster about this intrusion, and denouncing the fake emails to their recipients). Most of the time, this will not prevent the players from hacking them again, still via "password recovery"; if the latter is not in place for the targeted account, it is up to the Game Master to add the clues making it possible to hack the NPC again.
+        - if the player changes the NPC's password, this will probably trigger a mini-scandal, which will end with the reset of this password to its previous state (thanks to the secret question system, or to the supposed intervention of the administrators of the Anthropia portal).
+
+
+
+
+        A player leaving
+        ++++++++++++++++++++++++
+
+        The most critical event that can happen during a game of Chrysalis is the desertion of a player, whatever the reason (unavailability, demotivation, *rage quit*...).
+
+        If badly handled, this situation can block some riddles, unbalance the balance of power, and above all, scuttle the unfortunate spy who would thereby lose their ally. It is therefore up to the Game Master to react to this incident, to compensate for it or - better - to turn it into a gameplay element. Examples.
+
+
+        Continuity
+        -------------------------------
+
+        In this case, the Game Master takes the place of the missing player (their character therefore becomes an NPC), and continues their game in the most plausible way possible.
+
+        In this case, the "insight" of this NPC spy should be adjusted to that of the other players, so that their allies are neither advantaged nor disadvantaged. And for this purpose, any "critical" action (auctions, attacks, recovery of artefacts...) must be left to the initiative of the real players.
+
+
+        Disappearance
+        ---------------------
+
+        In this case, the GM decides that the missing player's character also disappears, in the game. The players will be given a glimpse that they had made crucial discoveries on their own, and that they were therefore either kidnapped or murdered by an enemy camp (typically, the Akarith Judicators).
+
+        From then on, a parallel quest opens up for the players, which consists of solving the mystery of this disappearance, and recovering the information the spy in question had gleaned. Knowing that, in the case of a kidnapping, the kidnapped person may also manage to get a few messages to their colleagues, by exotic means.
+
+        In such a scenario, the Game Master will have to give extra information to the allies of the missing person (via their common "superiors"), and gather various clues of the game (mainly related to the orbs) so that they are found by the players following the trail of the unfortunate agent.
+
+        .. tip::
+
+            Needless to say, a good deal of imagination and writing work (emails, radio spots...) will be necessary for the Game Master to turn this disappearance into a true gameplay element. But a future version of Chrysalis could integrate these elements as standard, to make the Game Master's work easier.
+
+
+
+
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+        Diplomacy
+        ++++++++++++++++++++
+
+        .. note::
+
+            This aspect of the game can be totally left out by the Game Master, if the conditions of the game (in particular, the time available to everyone) do not lend themselves to it.
+
+            However, diplomacy offers a practical way to enrich the interactions between players, multiply their fun, and help them determine who is in which camp; it is therefore strongly advised to include it.
+
+            For now, the organisation of the various diplomatic meetings, and the definition of their agenda, are left to the discretion of the Game Master (thanks to the context information below).
+
+
+        The political alignment of the various countries will strongly depend on the recovery of the orbs by the two great adversaries (Akaris and the Paladium), but the players will also be able to influence it more directly, thanks to their roles as informant and ambassador.
+
+        In each initial faction, the two players will indeed be assigned different negotiation missions, which will lead them to get in touch both with other players (also mandated by their factions) and with NPCs. As far as possible, these meetings should be played LARP-style, even in costume.
+
+        To avoid revealing too easily who is with whom, two players of the same faction should preferably not take part in the same diplomatic mission.
+
+        The situation will get more complicated when some players betray their camp (mainly to join one of the two great rival factions, the Akarith Judicators and the Paladium). At that point, the betrayed factions will do their best to find alternative contacts (e.g. the other player of the faction, if they have not betrayed too); but the player who has switched sides will still enjoy their prerogatives as ambassador for some time, since the opposing factions will not immediately be aware of their disgrace.
+
+
+        The Masslavian search for alliances
+        -----------------------------------------
+
+        The Masslavians will be in a situation as simple as it is oppressive: managing to obtain weighty support in case of Akarith aggression.
+
+        They will therefore spontaneously go and canvass the Dorians and the Heliossarians, and will lend an attentive ear to the unexpected proposals of the distant Lordanian Federation.
+
+        In parallel, they will try - without much hope - to negotiate an easing of relations with Akaris.
+
+        When they discover the duplicity of the Dorians (whose ruler seeks to join the future Akarith empire), the Masslavians may be tempted to sow discord between the Dorian Duke and the Akarith Judicators, so that they tear each other apart. For example, if they are aware of the secret plans of the Heliossarians (aiming to assassinate the Judicators and to pin the blame on someone else), they may be tempted to inform them of the Duke's cowardice, so that the Heliossarians make the Dorians the scapegoats of their scheme (but this will be a double-edged sword, since it will also raise the Akariths' paranoia against the "outside enemy", whoever it may be).
+
+
+        The false Dorian piety
+        ------------------------------
+
+        As the race for the Orbs gains in intensity, and the Judicators tighten their grip on the various Akarith clans, the Dorian state puts increasing pressure on its ambassadors, so that they find a way to join the future Akarith empire without a hitch - should it come to pass.
+
+        The main obstacle to this voluntary subjugation is theological - the various Akarith denominations have more or less harsh views on the "purity" of their race "chosen by the Yods", depending on the sacred texts they focus on. Consequently, the Judicators are torn between the windfall of an easy annexation, and the need to spare the sensitivities of their flock.
+
+        The players wishing to carry out this strange mediation mission to the end will therefore have to find the right rhetoric and the right "exegesis" of the sacred texts, to convince as many Akariths as possible of the need to integrate the Dorian people. Even if it means settling for a debased status (dhimmitude) for the Dorian people, a position which resembles a mix of occupation and racketeering, but which remains preferable to pure and simple annihilation.
+
+        At the same time, the Dorian services will be called upon to lead the other Midolian peoples up the garden path (or onto the rocks, one might say), alternating between denial of the Akarith threat and promises of alliance with no future.
+
+
+        The indecisive Lordanian conspiracies
+        -------------------------------------------------
+
+        The Lordanian secret services intervene in the geopolitics of Midolia mainly out of zeal, to make sure that no power capable of rivalling theirs emerges there, in any timeframe whatsoever; and if it is an opportunity to land juicy arms contracts, it would be a pity to refuse them.
+
+        Consequently, they will offer their support to each of the factions in play, try to glean as much information as possible about the forces at play, then balance the scales through arms sales. All this while pondering which outcome would be most likely to weaken the Midolian peoples - declared war (at the risk of seeing an empire emerge), or the balance of terror (at the risk of one day seeing these peoples grow weary, then ally).
+
+        The main fear of the Lordanian leaders is that their excessively pragmatic approach to the Midolian question might be exposed; and that this might earn them some trouble from the various Midolian peoples, or from their own civil society (which, on the whole, takes a dim view of military escalation in Midolia). Extreme discretion will therefore be required during these dubious manipulations.
+
+
+
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+
+        Technical Summaries
+        =================================
+
+        This section details features and settings of the Anthropia extranet, which are likely to change quickly from one version of the game to the next.
+
+
+        Contextual help
+        ++++++++++++++++++++++++++++++++++
+
+        The participants are helped, in getting to grips with the fictional portal, by the explanations given on each page. This is done via the help pages (which open when clicking on the golden "?" button), as well as via the tooltips which appear when hovering the mouse over some controls (buttons, icons, contacts, form fields...).
+
+        For GMs, specific help and tips are sometimes necessary. When a page is accessible both to the players and to the Game Master (e.g. the slideshows of auction items), the information specific to the GM is then recognisable by its dotted golden border. And in the case of "GM-only" tooltips, their contents are framed by square brackets.
+
+        Note that some of these "GM-only" haloed boxes are also visible when the Game Master impersonates a player (via the controls in the site header); this allows the GM to also have specific information on the pages reserved for players, for example.
+
+        Currently, "GM-only" boxes are attached to the following elements: characters, external contacts, email templates, radio spots, items, and static content blocks (encyclopedia, help page, introduction or conclusion text of a page...).
+
+        To display a page as a character would really see it, without the "GM-only" notes, one must log in normally on the portal, with the username and password of this player or NPC. This can be used for debugging purposes, or to share a screen (e.g. during the auctions, by logging into Loyd Georges' account) without risking disclosing sensitive information.
+
+
+        Access to special abilities
+        +++++++++++++++++++++++++++++++++++++++++
+
+        Here is the summary of the main "privileged pages" of the game, with the entities able to provide them (but the GM is of course free to change these rules). Knowing that these abilities can be introduced gradually, even if they are open to all.
+
+        The abilities marked "any faction" require the player to have the trust of at least one initial faction or super-faction, which - barring an incredible failure - should always be the case.
+
+        Likewise, except in the very rare case of a player who has made very big blunders, the abilities offered by the scientific centres are accessible to all, without distinction.
+
+        - Hacking: always
+        - Mercenaries: always
+        - Wiretapping and Protection: always
+
+        - GeoIP Location: any faction
+        - Telecom Analysis: any faction
+
+        - Runic translation: Alifir Academy
+        - Biophysical appraisal: Belez Academy
+        - Chess Challenge: Faculty of Imuo
+
+        - World Scanner: Paladium
+        - Call to the faithful: Akarith Judicators
+        - Assaults: any faction (but more or less effective)
+
+        - Opening of LG's manor: only LG has access to it
+
+        - Video recordings of the manor: reserved for the murder party
+
+        .. TODO - add DJINNS later
+
+
+        Rich texts
+        +++++++++++++++++++++++++++++++++++++++++
+
+        The multimedia contents of the website (exchanged emails, encyclopedia articles, help pages...) are written in the RestructuredText format: http://docutils.sourceforge.net/docs/user/rst/quickref.html
+
+        It is a powerful and intuitive mini-language, provided that one learns a few rules:
+
+        - indentation (number of spaces at the beginning of a line) is essential to delimit the blocks of text that go together;
+        - in most cases, single line breaks are ignored (so an empty line must be left to start a new paragraph);
+
+        In addition to the RestructuredText format, the game offers a few specific mechanisms and tags to enrich and control these contents:
+
+        - memo tags (e.g. ``{{ USER NAME HERE }}``), normally present only in email templates, are markers which must be replaced by the relevant content, otherwise the message will not be validated and sent;
+        - email addresses are automatically converted into "New Message" links of the Anthropia portal, but beware, for this the at sign must be escaped with a "backslash", so that this address is not mistaken for a real email: write `garnet\\@anthropia.pg`;
+        - "keywords" are automatically turned into links to the corresponding encyclopedia articles (except when they are in the body of the article in question);
+        - you can use the ``BR`` tags (between square brackets) to insert a forced line break, and ``NBSP`` (between square brackets) to insert a non-breaking space;
+        - the full url of a game file (image, video, document...) can be obtained (and inserted, for example, in a RestructuredText "image" tag) with special tags; see the details in the next section;
+        - a ``GAME_PAGE_LINK`` tag makes it possible to create a link to a page of the site, but its use is complex; to be reserved for developers;
+
+
+
+        Embeddable media
+        +++++++++++++++++++++++++++++
+
+        Chrysalis V1 contains many prefabricated contents (message templates, encyclopedia articles, radio spots, NPCs...), but they are obviously not enough to cover all the possible courses of the quests; it is therefore up to the Game Master to produce, over the course of the game, the missing context information and clues. To do so, they can draw on a wide choice of artistic works, which are summarised below.
+
+        For security reasons (anti-spoiler), these media are not directly accessible from the browser; their relative path must therefore be entered in dedicated form fields, or in specific GAME_FILE_URL/GAME_THUMBNAIL_URL tags (which can be used in most multi-line text fields), so that the game engine computes their full URL.
+
+        If on the other hand you have your own media, whose full URL you know, then it is possible to enter them directly in the forms or in the rich texts, without using these media tags.
+
+        .. warning::
+            If the music or videos embedded in the pages of the fictional portal do not work (e.g. "FILE NOT FOUND" error), check that you do not have AdBlock, or a similar ad-blocking extension, enabled.
+
+
+        Images
+        -------------
+
+        To view the available game images, go to the image gallery:
+
+        http://pangeaweb.org/static/gallery/ (login "chrysalis", password "chryscom")
+
+        *Note that the thumbnails of this gallery may have graphical bugs, but the actual game files do not.*
+
+        If one of these files interests you, press its "GET FILEPATH" link and copy the relative file path which appears.
+
+        Example of direct embedding, with a standard restructuredtext directive ::
+
+            .. image:: [GAME_FILE_URL "images/emblems/auction_logo_rounded.png"]
+                :align: right
+                :width: 200px
+
+        To embed a thumbnail and not the whole image, use GAME_THUMBNAIL_URL ::
+
+            .. image:: [GAME_THUMBNAIL_URL "images/emblems/crossentar_symbol.png" "default"]
+                :align: left
+                :height: 100px
+
+        Here "default" is an *alias*, which defines the thumbnail format to use; see its various possible values in the initial content of the game.
+
+        A specific tag makes it possible to generate a clickable thumbnail, which points to the original image. This tag only works for local images, not external URLS ::
+
+            .. embed_image:: [GAME_FILE_URL "images/emblems/auction_logo_rounded.png"]
+                :alias: default
+                :align: center
+
+
+
+
+        Audio
+        --------------
+
+        Example of embedding::
+
+            .. embed_audio:: [GAME_FILE_URL  "audio/radio_spots/jingles/advert_guitar_long_107.mp3"]
+
+        Note that the sounds of the "radio_spots/jingles/" folder can also be called from the radio spot voice synthesiser (which has its own tag language); refer to the help page of this system.
+
+        The "Epilogue" soundtrack below can be narrated freely; here is an example of breakdown for it:
+
+            - start: live report on the troops of the various Midolian countries massing at the borders
+            - 1:08: sermon of the Akarith High Judicator, who calls on all the neighbouring countries to submit to his theocratic empire
+            - 2:14: controversy with the surrounding heads of state, who threaten him and refuse his yoke
+            - 2:57: irruption of a 3rd faction (the Paladium), which unilaterally declares a ceasefire and the opening of a new era
+            - 3:37: technomagical portals open in the Akarith sky, and paladins render the High Judicator and his praetorian guard powerless
+            - 4:15: final statements of the Paladium
+
+
+        **musics/**::
+
+            A heart full of sadness.mp3
+            Delights of a sophisticated world (Alifir academy's theme).mp3
+            Epilogue - A new dawn on Pangea.mp3
+            Journey in Keroskian Jungle.mp3
+            Light and heavy feelings meet.mp3
+            Marching to the future (Masslavia's hymn).mp3
+            Mystically joyful jingle.mp3
+            Peaceful tribes (Nalavut's hymn).mp3
+            Seeking light in a doubtful world.mp3
+            Sweet smell of liberty (Heliossar's hymn).mp3
+            Symphony of the long awaited achievement.mp3
+            The dark temple exploration.mp3
+            The glorious people (Dorian dukedom's hymn).mp3
+            The long wait for dawn (Akaris' hymn).mp3
+            The proud island (Lordania's hymn).mp3
+            Under the bliss of Yods (Sedes Sancta's theme).mp3
+
+
+        **radio_spots/animal_sounds/**::
+
+            sound_cat.mp3
+            sound_cicada.mp3
+            sound_cow.mp3
+            sound_dog.mp3
+            sound_donkey.mp3
+            sound_duck.mp3
+            sound_monkey.mp3
+            sound_sheep.mp3
+
+
+        **radio_spots/personal_messages/**::
+
+            A_background_noise.mp3
+            A_intro_messages.mp3
+            amelie.mp3
+            andromaque.mp3
+            atalie.mp3
+            berce.mp3
+            bonbons.mp3
+            cheval.mp3
+            clementine.mp3
+            crepes.mp3
+            elephant.mp3
+            facteur.mp3
+            girafes.mp3
+            louis.mp3
+            pierrot.mp3
+            sanglots.mp3
+            tabac.mp3
+            tomates.mp3
+
+
+        **radio_spots/jingles/**::
+
+            advert_guitar_long_107.mp3
+            advert_guitar_short_015.wav
+            advert_synth_209.mp3
+            advert_xylophone_loop.mp3
+            entertainment_light_loop_016.mp3
+            entertainment_oboe_203.wav
+            entertainment_piano_loop_021.mp3
+            entertainment_rock_237.mp3
+            entertainment_strings_155.mp3
+            entertainment_synth_jingle_012.wav
+            entertainment_techno_loop_016.mp3
+            entertainment_transe_loop_016.mp3
+            jingle_chimes_004.wav
+            jingle_chimes_006.mp3
+            jingle_xylophone.wav
+            new_hits_intro_loop_014.mp3
+            new_loud_strings_intro_013.mp3
+            new_orchestra_hits_A_full_308.mp3
+            new_orchestra_hits_C_intro_010.wav
+            new_orchestra_hits_M_background1_loop_014.wav
+            new_orchestra_hits_N_background2_loop_014.wav
+            new_orchestra_hits_O_background3_loop_014.wav
+            new_orchestra_hits_X_ending_008.wav
+            news_aggressive_intro_012.mp3
+            news_bass_full_042.wav
+            news_drums_intro_021.wav
+            news_intense_full_loop_014.mp3
+            news_military_full_147.mp3
+            news_strings_background_loop_016.mp3
+            news_strings_ending_030.mp3
+            news_transition_010.mp3
+
+
+
+        Video
+        ------------------
+
+        The various videos of the game are available in the email templates, mainly as Youtube links.
+
+        Example of embedding an external video file ::
+
+            .. embed_video:: https://hi.com/ab.flv
+                :width: 219px
+                :height: 121px
+                :image: https://hi.com/ab.jpg
+
+        If it is a file internal to the game, the first line becomes ::
+
+            .. embed_video:: [ GAME_FILE_URL "video/my_video_name.flv" ]
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+        Appendix - Introductory Email Templates
+        ===========================================
+
+        Below are a few examples of messages to send to the players' real email addresses, to set up the game.
+        The tags (words between curly brackets) must of course be replaced by the appropriate contents.
+
+
+        Welcome and Game Rules
+        ++++++++++++++++++++++++++++++++
+
+        ..
+
+            Welcome everyone,
+
+            to this new game of the alternate reality game "Chrysalis"!
+
+            We have here, as players: {{ PLAYERS }}
+
+            And on the "game master(s)" side: {{ GAME_MASTERS }}
+
+            You are going to play secret agents, in the service of one of the governments of the planet "Pangea".
+
+            You will soon receive your personal instructions, as well as your access codes to the game portal ( {{ GAME_URL }} ); it is an intranet which will centralise many interactions, between players, but also with fictional characters (the famous NPCs).
+
+            Meanwhile, here are a few pieces of information and various rules!
+
+
+            ### The universe of Pangea ###
+
+            You will gradually discover the universe of Chrysalis, through the various media, and the various quests, of the game.
+
+            From the Big Bang until the very beginning of the 20th century, this universe was the same as ours. Then something happened, and our universes branched off (it is therefore an *alternate history*).
+
+            The world of Pangea emerged, barely a few centuries ago, from a period of intense meteorological and seismic cataclysms, called the Tectonic Era. It now looks a bit like what our human 20th century was, except that the planet is still very wild overall, and that humans remain concentrated in a constellation of scattered megacities.
+
+            Urban atmospheres range mainly from the Renaissance to the futuristic, with strong steampunk overtones (think "Victorian era, copper machines, classy but outdated costumes..."). The most advanced civilisations master combustion engines, the various fossil fuels, solar/wind power, wireless communications... but there are strong disparities in development, and some places still border on prehistory.
+
+            Unsurprisingly, very sharp geopolitical and religious tensions exist between the giant states which divide up the planet (in particular, in a region called Midolia, where the "Yod" deities and their faithful are stirring up quite a mess).
+
+            A few sects and isolated individuals claim to be able to do "magic", but very few scientists would venture to take them seriously; especially since there is already plenty to do with the recently discovered powers of the atom: X-rays, cosmetic creams, collective water heaters with unbeatable efficiency...
+
+
+            ### IC/OOC distinction ###
+
+            As in any role-playing game, one must distinguish what is in the game ("In-Character") from what is not ("Out-of-Character"):
+
+            - the "pangeaweb" portal is dedicated to the game; the rest of the web is considered as non-existent in Pangea, except for what is shared with our reality (scientific data, History before 1900...)
+            - it is possible to communicate by means external to the "pangeaweb" portal (face to face, by phone, by text message, by Skype and its chat...), but PLEASE **use the portal's messaging instead of your "real" emails**, so that the game master can follow along
+            - any action credible in the context of the world of Pangea is in principle possible (e.g. intrusion into other people's Pangeaweb accounts...); however, if you think you have come across not a feature but a bug, please report it
+            - the ".pg" addresses are specific to the messaging of the game portal, there is no point trying to send them a message from your real email client (gmail, thunderbird...); likewise, you cannot send a message to a real email address from the internal messaging of the "pangeaweb" portal
+            - during possible "live-action" sequences, real objects are out-of-game by default, unless they are marked with {{ MARKER }}; in particular, the game master's equipment store (various sheets, disguises, stock of banknotes...) is off-limits
+            - of course, you do not attack the other players *physically*
+            - it is normal that many contents initially seem missing or blocked; it is up to you to discover for example new encyclopedia articles, or to gain access to the inactive special abilities of the menu
+            - if in doubt about how the portal or the game works, or about what is allowed or not, contact the game master(s)
+
+
+            ### Flexible time ###
+
+            In order to take everyone's constraints into account, the game runs in "flexible time": the actions of the various players are considered simultaneous as long as they take place within a certain time window (typically, 24 hours); thus the one who plays in the morning will not be favoured, in their initiatives, over the one who can only log into the portal in the evening.
+
+            Overall, the game should last {{ TOTAL_GAME_LENGTH }} weeks, with a series of auctions which will take place - unless otherwise instructed - every {{ AUCTION_TIME }}.
+
+
+            ### Currencies ###
+
+            The main currency of exchange used on Pangea is the *kash*, written '¤' (note that 1¤ is worth about €100 in our reality); this dematerialised currency, poorly regulated and easy to conceal, lends itself to not-so-lawful operations, hence its controversial reputation.
+
+            Each country also has its own national currency; thus, the country of Sabarim closely watches the rate of its precious Sabarith Pound, the only currency officially authorised for major purchases (*note that one Sabarith Pound is, by chance, worth exactly 1¤*).
+
+            The exchange rates of Pangea, and national regulations, make conversion between these currencies costly and complex; but it is always possible to try...
+
+            Your superiors will pay you *a pay in kashes* every week, whose amount may vary according to your performance, and to the relevance of the needs you express. You will also have a capital of Sabarith Pounds at your disposal, to be used primarily for the auctions, and which will be very difficult to increase. Do not hesitate to ask your superiors, if you lack visibility on your income.
+
+
+            ### Various Tips ###
+
+            Some information is public, such as your logins on the Anthropia portal ("Amethyst", "Garnet"...), or your official identities as bidders. Other information is secret, such as your allegiances, and your true missions.
+
+            Pay attention to the information and instructions coming from your allies and your hierarchical superiors, and coordinate your actions with them, in order to have more weight on events.
+
+            Dare to ask the NPCs for help, and to question them about the cultural elements you do not know, since your character is not omniscient in the game either.
+
+            Be proactive, test the waters, for as an old Sabarith maxim says, "all things come to those who dare".
+
+            Stay attentive even to media and messages which seem trivial, since interesting leads, or crucial clues, may be scattered where you do not expect them. And take an interest in geopolitics, even distant, since you do not know in advance where your quests will lead you, nor what influence you might have, right up to the highest spheres.
+
+            Do not be surprised to find yourselves, at times, "stuck" in your progress on the game portal. You have to give your contacts time to answer, your superiors time to renew your finances, the auctions time to deliver new jewels and artefacts, world geopolitics time to evolve... in this case, calmly go about your other business, even if it means quietly mulling over your game strategy while waiting to be called upon again.
+
+            See you soon,
+
+            {{ SIGNATURE }}
+
+
+        Sending a Player their Credentials
+        ++++++++++++++++++++++++++++++++++++++++
+
+        ..
+
+          SUBJECT: Welcome to Anthropia
+
+          <<this is an automatic message, please do not reply>>
+
+          Dear Sir {{ FICTIONAL_NAME }},
+
+          I have the pleasure and the honour to hereby inform you that you have been selected to take part in the prestigious "Lost Treasures of Midolia" auctions, organised by Sir Loyd Georges in his city of Salima.
+
+          I am therefore sending you, below, the authentication information which will allow you to log into your personal space, on the web portal dedicated to this grandiose event.
+
+          Note that following new regulations, only *Certified Sabarith Pounds* will be accepted as payment for the auctions.
+
+          - Web address: {{ GAME_INSTANCE_URL }}
+          - Username: {{ LOGIN }}
+          - Password: {{ PASSWORD }}
+
+          Take the time to discover this sublime techno-digital portal, while waiting for more details about the course of the sales to be revealed to you.
+
+          kind regards,
+
+          *The Anthropia Portal*
+
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+
+        Appendix - Game Checklists
+        =============================
+
+        *If only one part of the manual deserves to be printed and kept preciously with you, it is probably this one.*
+
+        Initial checklist
+        ++++++++++++++++++++
+
+        - read the whole Game Master manual, to have a good "overall vision" of the game
+        - go through all the sections of the Anthropia portal (including those reserved for "characters", thanks to the specially dedicated NPC); read the help (the "?" buttons) of each page, especially the haloed boxes reserved for the Game Master
+        - configure the characters: turn the surplus characters into NPCs, give the players an "official name" derived from their real name (for ease of use), decide on the initial money of each...
+        - check the settings of the special abilities (prices, usage limits...); they cannot be modified directly from the portal, but it is possible to ask the Chrysalis webmaster, if specific needs arise
+
+        Checklist for the auctions
+        ++++++++++++++++++++++++++++++++
+
+        - decide on the type of auction wanted for each instance, and whether or not the players should be informed in advance
+        - in the case of remote auctions, video multiplexing software (e.g. "ManyCam") can make it possible to juggle between screen sharing and the webcam, with nice special effects on top
+        - to present the auction items one by one, for example with the portal's "slideshow", remember to **log in as Loyd Georges** (e.g. in a different browser from the usual one), so as not to disclose sensitive information on screen
+        - during the auctions, above all keep a notepad to write down the **sale price and the highest bidder** of each lot
+
+
+        Daily checklist
+        ++++++++++++++++++++++++++++
+
+        - check the recent "system events"
+        - answer the emails addressed to the NPCs (including those automatically sent by the special abilities)
+        - monitor the exchanges between players, and step in as "hierarchical superior" if needed (at least as long as the superiors in question have not been blocked by the players concerned)
+        - go through the "dashboard" to see whether there are abilities or pages which would deserve to be activated; same thing, more rarely, for the players' "personal permissions"; remember to notify the players of any new opportunity activated on the portal
+        - open the "information tap" from time to time: new encyclopedia articles (via their first keyword slipped in here and there), radio spots, articles of the Sabarim Gazette, various exchanges between NPCs (often taken from the email templates)...
+        - prompt the players who seem to be wandering aimlessly, e.g. by "calling them in to report" by phone, on behalf of their hierarchical superiors
+        - keep an eye on the overall course of the game, and especially on the "fixed" events of the game (distributions of money, auctions...), with the help of the summary timeline below
+
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+        Summary timeline of the game
+        ++++++++++++++++++++++++++++++++++++++++
+
+        Here is an example of an overall timeline for a game of Chrysalis. Most quests will require the Game Master to simulate incessant exchanges of emails between NPCs, and from NPCs to players (with emails found in the templates available on the portal, or left to the GM's invention).  Same thing for the radio spots, which will have to be renewed regularly, and broadcast many complementary mini-clues in order to guide the players towards the "hot spots" of the game.
+
+        The texts in bold correspond to the major deadlines which set the pace of the game. The texts in italics correspond to "bonuses", optional activities. The identifiers between square brackets refer to the "quest" concerned by the event.
+
+        .. note::
+
+            The "chiefs" here designate the hierarchical superiors of the players, whether those of the secret services (to which the players belong at the beginning of the game), or those of the super-factions which the players will potentially have joined.
+
+
+        - initial state: send the summary reports of the LG affair, from the chiefs of the secret services to their agents
+
+        - **initial abilities: wiretapping, and hiring of mercenaries**
+
+        - **INVITATION of the players, everyone gets to grips with the Anthropia portal**
+
+        - sending of the death threats (spam), and of the mission letters by the chiefs to the pairs of agents
+
+        - *OPTIONAL: LARP evening opening the auctions, where Loyd Georges gets acquainted with each participant, and unveils the lots which will be put up for sale*
+
+        - [doctorate] radio spot announcing the great upcoming ceremony at the Alifir Academy
+
+        - the chiefs ask the players for a report on their strategy as the first auctions approach
+
+        ------------
+
+        - **FIRST series of auctions (gems only)**
+
+        - LG broadcasts the video introduction narrating his expedition in Midolia
+
+        - the chiefs ask the players to hack LG, so that they stumble over the "secret question" of his Anthropia account.
+
+        - [doctorate] if necessary, push the players to canvass the NPCs *before* acting to influence the course of the Alifir ceremony
+
+        - [phishing] broadcast of phishing emails to the players
+
+        - **abilities added: messaging confidentiality, web geolocation**
+
+        - [alpha] sending of the message from Emilos Loakim to LG, mentioning the "marvel" being studied in a safe place
+        - [alpha] if necessary, the chiefs push the players to monitor/hack Loakim
+        - [alpha] if necessary, sending of the email from Loakim's in-laws, thus giving away the answer to this professor's secret question
+
+        - [universe] announce the series of articles on Pangean geopolitics (via the Sabarim Gazette)
+
+        - [alpha] broadcast the radio spots and articles mentioning Cynthia and the summit of the Nalavutian clan chiefs
+
+        - **abilities added: black market, escrow agent**
+
+        - give the possibility of buying a bank espionage kit, to see the possessions of the other bidders
+
+        - [phishing] if necessary, exchanges between NPCs about this phishing problem, and possible solutions (to push the players to use IP geolocation on it)
+
+        - **abilities added: LG's manor security**
+
+        ------------
+
+        - **SECOND series of auctions**
+
+        - [super-factions] approaches by the Akarith Judicators (Baazel, who shows the video of the myth of the orbs) and the Paladium; they then put the players who show interest through the "tests"
+
+        - arrival of Inspector Shark to investigate the thefts suffered by LG (especially if his manor has already been burgled)
+
+        - **abilities added: runic translation, biophysical appraisal**
+
+        - [beta] send the email from LG in which he gives a clue about the names of his pets
+
+        - [beta] send an email from Loakim mentioning the iron grid "filter of the doctrine"
+
+        - [salima] message from Loyd Georges to Sir Zenon de Salim, about his cane forgotten at his home
+
+        - [alpha] make sure that the burglary of Cynthia's home has taken place, or failing that give more clues to hack this reporter's account, then make her request Waden's "digital friendship"
+
+        - **abilities added: telecom analysis**
+
+        - [alpha] trigger the kidnapping of Cynthia, if the players are stuck in this quest for the alpha orb
+
+        - broadcast of the scientific video about Tunguska, by the Alifir Academy
+
+        - [beta] if necessary, exchanges between LG and scientists revealing a little of the meaning of the "filter of the doctrine"
+
+        - [doctorate] keep broadcasting exchanges between NPCs (in particular the deans) about the honorary doctorate
+
+        - [doctorate] message from Loakim to LG, in which he voices suspicions about his colleague (a candidate for the honorary doctorate), Prof. Losslass
+
+        - [wiremind] opening of the chess game page, and broadcast (radio, email...) of the context of this challenge between rival academies
+        - **abilities added: chess challenge**
+
+        ------------
+
+        - **THIRD series of auctions**
+
+        - if LG's manor and/or the Alifir Academy have not yet been burgled, give clues in this direction
+
+        - [doctorate] defamation against LG, by Prof. Losslass, and LG<->Loakim exchanges about it;
+
+        - [gamma] Loakim leaves for Keroskia on the trail of the gamma orb (broadcast information about the "battle of Wigwir")
+
+        - [salima] if relevant, exchanges between LG and Zenon de Salim, gradually bringing to light the theft of LG's cane
+
+        - [gamma] broadcast the advert targeting the musical work "jungle harmonies"
+
+        - **abilities added: World Scanner, optionally the Djinns of Sedes Sancta**
+
+        - [gamma] if necessary, have the mercenaries report the existence of a wise man near the jungle, from whom information about the pygmy tribes can be bought
+
+        - [wiremind] if necessary, email exchanges between NPCs to give the players strategies to beat WireMind (suspicions of code theft, turning this A.I. against itself), and to reap benefits from it with the Alifir Academy
+
+        ------------
+
+        - **FOURTH series of auctions**
+
+        - [gamma] if necessary, help the players progress to the abandoned camp in the jungle of Keroskia
+
+        - [beta] if necessary, broadcast additional clues to find the trail of Bartzar (from the finds of the Wigwir excavation site)
+
+        ------------
+
+        - **[doctorate] award CEREMONY at Alifir, and outcome of this quest for the honorary doctorate**
+
+        - *OPTIONAL: Chrysalis:Mindstorm mystery evening to close the adventure, otherwise end of the game revealed in the form of radio spots or a teleconference*
+
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+
+        Appendix - Feedback from the Chrysalis Beta-Test
+        =====================================================
+
+        The launch of the game is a high-risk stage, since the players find themselves parachuted into a universe they do not know, and given the "alternate reality" nature of the game, they only have a vague idea of the initiatives which are allowed or desirable. Here are therefore a few leads to ease their immersion.
+
+        - complete the information of the introductory emails with "live-action" briefings:
+
+          - a collective briefing in "out-of-game" mode, to recall the rules, the context of the story, and present in more detail the particular traits of the countries concerned (freely invented by the GM); the major geopolitical stakes must be clear to the players
+          - team-by-team briefings in "roleplay" mode: the GM plays for example a hierarchical superior, to repeat the common objectives, and above all give everyone their priority tasks (spying on Loyd Georges, infiltrating the Alifir Academy...); it is important that the players understand their degree of "strength" compared to their enemies, and what they are already supposed to know about the country of Sabarim and the main NPCs (that is to say, not much)
+          - potentially, plan meetings between some players, others, and some important NPCs
+
+        - help the players to look far ahead, by summarising the various abilities they will eventually be able to unlock, as well as the type of payment expected by each (small gems, large gems, money only...)
+        - clarify from the start the terms of the pay: frequency, amount, variability... the players must know precisely when their bank account will be topped up; also insist on the difference between auction money and current account (dedicated to special abilities)
+        - give the players a printed world map, and remind them of the regions important for the beginning of the scenario
+        - stress that "this game requires personal investment and regular participation" to be truly enjoyed
+        - recall the "lifebuoys" that the hierarchical superiors (or "Magnus"' manager) are: the players should not hesitate to send them questions when in doubt
+        - find a good balance in the presentation of the various special abilities: the most important ones must be anticipated by the players (so visible greyed out in the menu), but some must remain "pleasant surprises" for the players who will have developed their relationships with the NPCs well
+
+        And once the game has started:
+
+        - preferably run the first series of auctions as a live-action event, to give atmosphere and momentum to the game
+        - do not wait long before giving items, clues, precise directives to the players, so that they do not wander aimlessly on the game interface
+        - do not wait to distil the messages and media giving more information about the universe of Chrysalis
+        - highlight the "black market" and the "escrow agent", abilities underused by the players
+        - if the players start using their own encryption in their messages (Vigenère, Caesar type...), make sure you keep track of what they are saying to each other, or else forbid it (in the name of their "superiors" who do not want to complicate their lives)
+        - if necessary, help recognise the important items put up for sale (e.g. during a strategy meeting before each series of auctions)
+        - later on, do not hesitate to give small side quests to those who stagnate, or to reintroduce clues for those who have lost track of the main quests
+        - above all make sure that the players do not forget the game; if you fill in their emails in their character sheets, and this option is enabled in the Admin Dashboard, the players will receive a notification email when new messages or radio spots have appeared since their last visit (max 1/day, sent at night); the Game Master will receive a message summarising these nightly notifications (contact Chrysalis support if problems arise on this point)
+        - more generally, it is of course up to the GM to make sure, through their running of the quests and the organisation of live-action events, that the players do not let themselves be lastingly diverted from their game by their IRL concerns
+
+
+
+        .. raw:: pdf
+
+            PageBreak
+
+
+
+        Appendix - Advice to the Game Master
+        ======================================
+
+        Your goal, as Game Master, is to fill your players with emotions and gaming pleasures, to make them experience something they do not have in their everyday lives.
+
+        While everything should not fall into the players' laps - to conquer without challenge is to triumph without glory - you must in particular prevent them from getting locked into a feeling of failure, disorientation or uselessness.
+
+        A few dos and don'ts to better succeed in this noble task.
+
+
+
+        Rescue the lost sheep
+        +++++++++++++++++++++++++++++++++++
+
+        If a player struggles to find their bearings, and a strategy to get into the action, do not hesitate to help them, by means of the countless NPCs and systems of the game. Giving them a few clues, or simply explaining their objectives to them again, will keep them from falling into passivity.
+
+
+        Reward initiative
+        +++++++++++++++++++++++++++++
+
+        It will often happen that, in their groping around, players spend time and (fictional) money on endeavours from which, scenario-wise, nothing is supposed to emerge. It is then up to the Game Master to complete the scenario, so that the player's investigations are not a waste of effort: broadcasting a few clues putting them back on the right track, creating a small side quest allowing them some gains...
+
+        Thus, if a player wiretaps very secondary NPCs, the Game Master would do well, at one time or another, to have them exchange messages with other NPCs (potentially invented for the occasion); messages in which the player will be able to find scraps of information, or new ideas to progress.
+
+
+        Limit randomness
+        +++++++++++++++++++++++++
+
+        It is natural to add a little randomness to a role-playing game, in order to break the possibly "mechanical" side of the gameplay. Thus, the timed actions of Chrysalis (when using various special abilities) are not executed after a fixed delay: the delay is drawn at random within a predetermined time window.
+
+        Be careful, however, not to take the easy way out by drawing lots for every undecided situation (dangerous missions of the mercenaries, competition between the actions of several players...). Even if the player does not realise it immediately, this can disgust them afterwards, during the retrospective of the game. It is more tiring, but also much fairer, for the Game Master to weigh each decision according to less volatile criteria:
+
+        - temporal order of the various actions
+        - initiative and boldness of the players
+        - precision and relevance of the orders they give to their intermediaries
+        - relative power of the forces at play
+        - "catch-up bonus" for the players who have so far succeeded much less than the others
+        - etc. etc.
+
+        But beware, the "temporal order" factor can also be a source of injustice, which brings us to the next point...
+
+
+        Normalise timings
+        +++++++++++++++++++++++++
+
+        If Chrysalis is played in "casual game" mode, over several consecutive weeks, the Game Master must be fair to the players, by taking their time constraints into account when assessing competing actions.
+
+        Thus, if several players send their mercenaries to carry out the same mission, it would be unfair (and thus frustrating and discouraging) for those who have time to play in the morning to be advantaged over those who can only do so in the evening, after their classes or their work.
+
+        Actions taking place within the same time window (typically, 24 hours) must therefore be given similar chances of winning, and it is according to other criteria (precision of the player's directives and information, size of the forces at play, as a last resort a random draw) that successes and failures must be decided. Knowing that it is sometimes possible to share the gains and losses, "pro rata" to the efficiency of the players.
+
+        This constraint is obviously much less important in more continuous game modes (non-stop weekend, holiday week...), in which the adage "first come, first served" will be fully relevant.
+
+
+
+        Banish the "Smoke Without Fire" effect
+        ++++++++++++++++++++++++++++++++++++++++++++++++++
+
+        More than one Game Master has thought themselves well inspired by taking their players through an adventure full of clues and mysteries, only to finally reveal to them, through a clever plot twist, that in fact there was nothing special to discover - no plot, no monster, no momentous event...
+
+        **To be avoided at all costs.** Twists are welcome, but only if the players see their efforts lead to situations worthy of interest. Everything else is only frustration, and thus demotivation.
+
+
+        Banish the "Greek Tragedy" effect
+        ++++++++++++++++++++++++++++++++++++++++++++++++++
+
+        The great interest of a game, compared to a film, is being able to interact with the story, and to have a real impact on it. So if there is one annoying thing, it is when the efforts and choices of the players are powerless before a relentless destiny (often very sad) awaiting them.
+
+        Some video games have been slated by critics for following this type of scenario. Chrysalis is partly protected from it by the major milestones of its scenario, which by default offer several alternatives depending on the players' actions; but even on smaller scales, that of a side quest for example, it is good that a player's success depends on their perseverance and the soundness of their decisions, not on what the Game Master has decided in advance.
+
+
+
+        Personalise the plot
+        +++++++++++++++++++++++++++++++
+
+        Chrysalis does much of the Game Master's work by providing, in advance, a large amount of content: images, sounds, encyclopedia articles, but also and above all messaging texts and radio spots.
+
+        In order to add humour and immersion, the Game Master is invited to modify these media before broadcasting them, to incorporate nods, personal details and other *private jokes*.
+
+        Unsurprisingly, this will only work if the game universe (similar to ours except for post-1900 events), as well as the bare minimum of grammatical correctness, are respected.
+
+
+
+        Free up ethical choices
+        ++++++++++++++++++++++++++++++
+
+        This is probably an area in which Chrysalis stands out from many other role-playing games: dishonesty is not encouraged at the expense of righteousness. Indeed, while theft and aggression are - as often - the fastest ways to get what one wants, in Chrysalis the Game Master is strongly encouraged to develop, in the medium and long term, the negative consequences of this type of action.
+
+        Thus, burglaries and sabotage will give rise to investigations dangerous for the players, and unduly harming "neutral" NPCs will push them to take revenge in one way or another.
+
+        Even the most complex and secret schemes, if they are not legitimised both by their goal and by the means used, may bring serious backlashes from the Paladium - the secret hyperpower of the game which, for once, is not a force devoted to the destruction of humanity.
+
+        Conversely, the players who find ingenious and fair solutions to achieve their ends will potentially win the goodwill of the various NPCs, which will only make their progress easier and easier.
+
+        So that, despite the rather "illegal" context of the scenario (struggles between secret services to recover information and items), the players can achieve their ends without having to trample on ethics, many situations have been deliberately "blackened": the code of WireMind was for the most part stolen from the Alifir Academy, Loyd Georges' competitors for the title of Doctor Honoris Causa have shameful secrets apt to disqualify them...
+
+        These devices, artificial as they may be, allow clever players to oust troublemakers while remaining within their rights; and the Game Master is invited to add some where a "fair solution" would be missing. Since the players in any case only have a very partial knowledge of all these situations, it is a safe bet that they will not be taken aback by the number of injustices-to-be-righted that Chrysalis contains.
+
+        Ultimately, as in real life, the players must be able to choose between the ease of Machiavellianism and the complexity of justice. And as in real life, their good or bad actions should have lasting repercussions, in order to push them to look beyond their immediate gain.
+
+
+
+        .. raw:: pdf
+
+            PageBreak coverPage
+
+
+        .. class:: title
+
+            End Of The Manual
+
+
+...
