@@ -44,10 +44,12 @@ jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_m
 DOCUMENT_TITLES = dict(
     fr=dict(game_title="Les archives secrètes des Maupertuis",
             common_lore_and_game_rules="Univers et Règles du Jeu ",
-            common_npc_information="Compléments des Figurants"),
+            common_npc_information="Compléments des Figurants",
+            table_of_contents="Table des Matières"),
     en=dict(game_title="The Secret Archives of the Maupertuis",
             common_lore_and_game_rules="Game Universe and Rules",
-            common_npc_information="NPC Actors' Supplements"),
+            common_npc_information="NPC Actors' Supplements",
+            table_of_contents="Table of Contents"),
 )[LANGUAGE]
 
 OFFICIAL_NAMES = dict(
@@ -326,10 +328,10 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
 
        PageBreak standardPage
 
-    .. XXX contents:: Table des Matières
+    .. XXX contents:: %s
     ..    :depth: %s
 
-    """) % (DOCUMENT_TITLES["game_title"], title, toc_depth)
+    """) % (DOCUMENT_TITLES["game_title"], title, DOCUMENT_TITLES["table_of_contents"], toc_depth)
 
     for part in parts:
         if callable(part):

@@ -47,8 +47,8 @@ if not os.path.exists(DOCUMENTS_OUTPUT_DIR):
 jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True, language=LANGUAGE)
 
 DOCUMENT_TITLES = dict(
-    fr=dict(gamemaster_manual="Maître de Jeu", common_lore="Univers du Jeu"),
-    en=dict(gamemaster_manual="Game Master", common_lore="The Game Universe"),
+    fr=dict(gamemaster_manual="Maître de Jeu", common_lore="Univers du Jeu", table_of_contents="Table des Matières"),
+    en=dict(gamemaster_manual="Game Master", common_lore="The Game Universe", table_of_contents="Table of Contents"),
 )[LANGUAGE]
 
 EXCLUDED_CHARACTERS = []  # mystery-party has no sheet for these characters, for now
@@ -320,10 +320,10 @@ def generate_mindstorm_rst_from_parts(parts, title, add_page_breaks, with_decora
    
        PageBreak standardPage
        
-    .. contents:: Table of Contents
+    .. contents:: %s
        :depth: %s
        
-    """) % (title, toc_depth)
+    """) % (title, DOCUMENT_TITLES["table_of_contents"], toc_depth)
 
     for part in parts:
         if callable(part):
