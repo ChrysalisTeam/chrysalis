@@ -208,10 +208,7 @@ def load_jinja_environment(templates_root: list, use_macro_tags: bool, language:
         configure_environment(jinja_env)
 
         # we do similarly to jinja_env.macros.register_from_environment(), but for RST files!
-        try:
-            templates = jinja_env.macros.environment.list_templates(extensions=("rst",))
-        except TypeError:
-            pass
+        templates = jinja_env.macros.environment.list_templates(extensions=("rst",))
         for tpl in templates:
             match = re.search(LANGUAGE_SUFFIX_REGEX, tpl)
             if match and match.group(1) != language:
