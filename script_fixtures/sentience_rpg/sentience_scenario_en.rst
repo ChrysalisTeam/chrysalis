@@ -29,7 +29,7 @@ Chrysalis: Sentience - The Alchemist Is Dead
 - sees in the dark (night vision)
 - keen eye and sharp talons
 - speaks human language
-- has observed a little the ways of the humans of the village
+- has observed the ways of the village humans a little
 - inception: knows how to insert an idea, a desire, a topic of conversation, into a human's head
 
 °
@@ -105,7 +105,7 @@ Since the alchemist only writes her rare missives with a very specific **typewri
 
 Once the letter has been skilfully forged by Fénelon the notary, the plot unfolds as planned: the burgomaster claims to have received the letter from a green-billed toucan, stirs up the grieving village against Séléné, then dispatches his daughter to the big city to fetch a specialist in the fight against black magic.
 
-10 days later, Joséphine returns with **Abélard the witcher**, of whom she had reportedly heard many exploits recounted.
+10 days later, Joséphine returns with **Abélard the witcher**, whose many exploits she had supposedly heard tell of.
 After a single day spent in the village, the witcher sets off with his black stallion, his light armour, and his combat gear, towards the centre of the forest.
 
 There, Abélard breaks down the door of Séléné's tower, and murders her. This is the moment when the story of the game begins.
@@ -119,7 +119,7 @@ She therefore guides the Minéralys Company, by telegraph, so that one of their 
 The alchemist Séléné notices the intrusion, decently **buries on the spot** what little remains of the explorers, and retrieves their few **papers and logbooks** with a view to returning them to the village. She sends an angry letter to the village burgomaster, asking him to crack down so that these illicit explorations cease immediately.
 The alchemist has this missive delivered to the mailbox by her **messenger raven**, but it is intercepted and concealed by Joséphine, who does not want her mining schemes to be discovered.
 
-The burgomaster's daughter immediately seizes on this rockfall catastrophe by encouraging her father to eliminate Séléné (who remains an obstacle for everyone, among other things as guardian of the Blood Pact), while pushing him into error: the sample of the Enchantress Dorina's handwriting that she provides to her father is **deliberately fake**, and she knows full well that the Enchantress's green-billed toucan **died more than a year ago**.
+The burgomaster's daughter immediately seizes on this rockfall catastrophe by encouraging her father to eliminate Séléné (who remains an obstacle for everyone, among other things as guardian of the Blood Pact), while setting him up to slip up: the sample of the Enchantress Dorina's handwriting that she provides to her father is **deliberately fake**, and she knows full well that the Enchantress's green-billed toucan **died more than a year ago**.
 
 In the process, Joséphine brings back from the city a faithful ally from the start of her career, the witcher Abélard. He has a well-oiled plan to follow:
 
@@ -146,7 +146,7 @@ The Ancestral Tortoise, a close friend of Séléné, calls through her powerful 
 Many are the animals, tamed by the alchemist, that come running.
 In particular the 3 other sapients - the owl, the marmoset and the wombat.
 
-The tortoise, distraught, orders them to go and bring justice, and to teach the humans a lesson, by eliminating the murderous mercenary.
+The Tortoise, distraught, orders them to go and bring justice, and to teach the humans a lesson, by eliminating the murderous mercenary.
 
 For her part, she takes care of preparing a dignified burial for Séléné, by contacting her 2 magician friends.
 
@@ -191,9 +191,9 @@ Swept along by the crowd, Abélard leaves his horse to be taken to the stable, w
 Joséphine insists on carrying out this task, and sends **Rose** - daughter of **Hannibal Monir the innkeeper** - back to look after the guests.
 
 Abélard goes for a drink at the inn with the villagers, humbly recounts his adventure, admits that he did not destroy the tower straight away for fear of the reaction of the nocturnal animals, and courteously flirts with the innkeeper's daughter.
-The latter takes a very dim view of this, and pulls his daughter aside to scold her, saying that she had better not fall for an adventurer who will toy with her and get her pregnant before abandoning her.
+The innkeeper takes a very dim view of this, and pulls his daughter aside to scold her, saying that she had better not fall for an adventurer who will toy with her and get her pregnant before abandoning her.
 
-Meanwhile, Joséphine discreetly goes to retrieve the **Grimoire of Life** from the horse's saddlebags, and either spirits it away entirely, or takes only its last pages and the notebooks inserted in it. She stops by the town hall to deposit her loot in her personal safe.
+Meanwhile, Joséphine discreetly goes to retrieve the **Grimoire of Life** from the horse's saddlebags, and either spirits it away entirely, or takes only its last pages and the notebooks inserted in it. She stops by the Town Hall to deposit her loot in her personal safe.
 
 Abélard pulls out of his own satchel various **precious crystals and metals** brought back from the alchemist's tower, recalls that he had only been promised half a pound of gold for his good services, and helps himself by cutting off a piece of one of the ingots thus plundered. He returns the rest of the loot to the village, "to which it rightfully belongs", thereby demonstrating his probity.
 
@@ -215,7 +215,7 @@ The witcher reveals his plans for what comes next: after a decade of roaming the
 The burgomaster, outraged by events, briefly summons the notary and his daughter upstairs, to humiliate the latter and demand a solution.
 Joséphine, very cold, tells him that she has a plan, but that they must keep up appearances for now, and both wait for her discreetly after nightfall, with handguns, in the **old stable** of the village. In the meantime, she reminds them that as many traces of the alchemist as possible (including her dwelling) must be made to disappear, to cover the trail.
 
-Abélard, who has gone out for some air, is timidly joined by Rose, the innkeeper's daughter. He then puts a temporary end to his courtship, arguing that he does not want his advances to be misinterpreted by the village, that this is already earning him the enmity of the innkeeper and of a few young men, and that he prefers to let "water flow under the bridge" before the two of them see each other again. Understanding, but with tears in her eyes, Rose goes back to serving.
+Abélard, who has gone out for some air, is timidly joined by Rose, the innkeeper's daughter. He then puts a temporary end to his courtship, arguing that he does not want his advances to be misinterpreted by the village, that this is already earning him the enmity of the innkeeper and of a few young men, and that he prefers to "let the dust settle" before the two of them see each other again. Understanding, but with tears in her eyes, Rose goes back to serving.
 
 The burgomaster brings up again the subject of the alchemist's **undestroyed tower**. Abélard agrees to set off again at once, with whichever villagers are willing, to destroy what remains of the alchemist's den. Galvanised, a dozen villagers take up pitchforks and scythes and follow him, including the notary (on the burgomaster's orders).
 
@@ -253,7 +253,7 @@ If, at some point, Abélard is confronted with the fact that the handwriting of 
 
 Depending on the various pieces of information the apothecary may bring back, the first level of **conspiracy** is, or is not, exposed; if it is, both Joséphine and Abélard *officially* distance themselves from the burgomaster, without accusing him either. Joséphine can point out that the green-billed **toucan** supposedly belongs to the Enchantress Dorina.
 
-Joséphine reassures her father - who is nonetheless badly shaken - as best she can, and confirms to him that their evening **rendezvous** still stands.
+Joséphine reassures her father - who is nonetheless far from at ease - as best she can, and confirms to him that their evening **rendezvous** still stands.
 
 At some point, Abélard announces that he needs to think alone, and that he is going to bathe at the **hot spring** near the forest - let no one follow him!
 

@@ -11,7 +11,7 @@ And you thus have small areas of expertise in a whole range of fields, from huma
 Ritual initiations
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-With a view to getting to know certain tribal societies and certain cults better, from the inside, you have diligently followed their initiatory paths. This makes you the only person in the world to hold such diverse titles:
+With a view to getting to know certain tribal societies and certain faiths better, from the inside, you have diligently followed their initiatory paths. This makes you the only person in the world to hold such diverse titles:
 
 {% macro mystics_knowledge_article() %}
 
@@ -27,7 +27,7 @@ With a view to getting to know certain tribal societies and certain cults better
 
   This title corresponds to a form of "knighthood blessed by the gods" among the faithful of this religion; it binds you to moral righteousness, perseverance and discernment in your actions; it allows you to comment on the holy texts of the Yodic religion, to sit on the ordinary councils of the Arkons, and to receive the **{% symbol "mission confession" for "arkon_mission_confession" %}** of a fellow Arkon (to do so, he kneels before you, and you keep one hand held in the air above his head). {% fact "arkon_means_blessed_knight" %} You are very proud of this title, which places you in the line of legendary yet real figures such as Zarathustra, or {% symbol "Valerias" for "arkon_name" %}.
 
-- **Ritualist of {% symbol "Bahamoot" for "god_of_diakons" %}**; you are one of the **{% symbol "initiates" for "ritualist_kind_name" %}** of this cult, and even though it was a long time ago, you are able to join a mystical ritual to multiply its effect.
+- **Ritualist of {% symbol "Bahamoot" for "god_of_diakons" %}**; you are one of the **{% symbol "initiates" for "ritualist_kind_name" %}** of this faith, and even though it was a long time ago, you are able to join a mystical ritual to multiply its effect.
 
 {% filter indent(width=2) %}
 

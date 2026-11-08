@@ -76,7 +76,7 @@ Briefings in roleplay mode:
 
 - Inspector Shark: only the booths of the neighbouring hamlet are decently usable to call Akaris, the manor's secure fax-phone would be too risky; you exchanged letters with your sister, before and during your conversion to the Akarith religion; the interrogations must be SHORT (10-15 min) but intense; Boolean Interrogation under Trance: **only once** at most from now on!
 
-- Akarith Ambassador: you offer delicacies in a ciborium (closed chalice), to freak people out, and Alphonse gives in to them; if during a hearing the person being questioned takes out their theological paper to read it, this strikes you as suspicious and you make it known; we DROP the olive allergy story, it would be in poor taste given that some players are really very allergic; to push Lydia into signing the negotiation contract, make her understand that if the Dorians drop the purchase she will be in a fix, and insinuate that Akaris could go up to 30 megakashes.
+- Akarith Ambassador: you offer delicacies in a ciborium (closed chalice), to freak people out, and Alphonse gives in to them; if during a hearing the person being questioned takes out their theological paper to read it, this catches your attention and you make it known; we DROP the olive allergy story, it would be in poor taste given that some players are really very allergic; to push Lydia into signing the negotiation contract, make her understand that if the Dorians drop the purchase she will be in a fix, and insinuate that Akaris could go up to 30 megakashes.
 
 - Cook Robb Barrow: you have all your wits about you, but your senses are in steep decline with age: short-sightedness, deafness, loss of smell...
 
@@ -119,7 +119,7 @@ HOUR 0:00
 
 - as the secret agent players enter, the Oberon invites all the guests to introduce themselves (again) to one another (surname/first name/capacity)
 
-- Alphonse and Rydji arrive, and seem flabbergasted to see Waden and Cynthia here: they were not initially planned by Loyd Georges
+- Alphonse and Rydji arrive, and seem flabbergasted to see Waden and Cynthia here: Loyd Georges had not initially planned for them
 
 - take photos and videos!
 
@@ -268,7 +268,7 @@ HOUR 2:00
 
 - SHARK: entrusts Obsidian with questioning **the Lordanian agent Amethyst**, and begins a "prisoner's dilemma" interview with the **Masslavian agent Malachite and Dorian agent Topaz** (leaving them 5 MINUTES to prepare mentally, or even agree on a strategy)
 
-- the consul {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} calls Lydia back to get her answer, and if she refuses, he tells her that Inspector Shark will soon receive evidence capable of destroying their family
+- Consul {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} calls Lydia back to get her answer, and if she refuses, he tells her that Inspector Shark will soon receive evidence capable of destroying their family
 
 - medical report 5: LG is in remission, but will remain bedridden for life
 
@@ -300,7 +300,7 @@ HOUR 2:30
 
 - RADIO SPOTS: "Suspicious disappearance in South Alifir", "Final decision of the Akarith council"
 
-- Following this last radio spot, the Akarith Ambassador meets the Dorians, either to confirm that the Transfiliation is validated, or to negotiate a debased status for Doria ("Dhimmitude": taxes, no right to vote, a voice worth half in court...)
+- Following this last radio spot, the Akarith Ambassador meets the Dorians, either to confirm that the transfiliation is validated, or to negotiate a debased status for Doria ("Dhimmitude": taxes, no right to vote, a voice worth half in court...)
 
 - [if the Panorbium Fortuna has not been found yet] have the servants leak the presence of the glyphs on the roof of the garden shed
 

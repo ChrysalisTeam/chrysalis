@@ -17,17 +17,17 @@ But unlike those pure spirits of knowledge, you decided to interfere with this r
 That is how you became spiritual guides. Then, unbeknownst to you, deities, **{% symbol "Bahamoot" for "god_of_diakons" %} and Behemoth**.
 You counselled bewildered souls, healed the suffering, sometimes brought back to life the sick who were dying; "prophesied", too, whatever your keenness of mind allowed you to foresee about human destiny.
 Above all, you taught the ways of righteousness, of fair measure, of harmonious life within a living web where everything is interconnected.
-But your work soon outgrew you; your initiates went on performing wonders with their own magical power, without realising that they no longer depended on you; and unscrupulous tyrants tarnished your name in their crusades against other cults.
+But your work soon outgrew you; your initiates went on performing wonders with their own magical power, without realising that they no longer depended on you; and unscrupulous tyrants tarnished your name in their crusades against other faiths.
 
 One event, however, hastened your withdrawal. You discovered that your native world had been corrupted. Chaotic spirits, "demonic" entities, to use human terms, had found fertile ground in the delicate minds of the dragons. And your wonderful universe, thus entirely manipulated by dark forces, became an unfathomable poison; for itself, but also for any other traveller of the otherworlds who came into contact with it. The mystics gave it a new name: the Abyssal Vortex. And a new coat of arms, instantly taboo: three flames arranged in a triangle.
 
-Your duty imposed itself on you: use your rear base in the world of Pangea to reconquer the Abyssal Vortex, and free your deranged kin. A difficult and dangerous task, but the humans and beasts of this world are, luckily for you, fairly resistant to demonic intrusions; the gesticulations and vociferations of "possessed" beings very quickly get them noticed by exorcist priests.
+Your duty became clear to you: to use your rear base in the world of Pangea to reconquer the Abyssal Vortex, and to free your deranged kin. A difficult and dangerous task, but the humans and beasts of this world are, luckily for you, fairly resistant to demonic intrusions; the gesticulations and vociferations of "possessed" beings very quickly get them noticed by exorcist priests.
 
 For several centuries now you have been turning Pangea upside down in search of a solution. Djinns, prophets and spiritualists find themselves quite helpless in the face of your questions. But your most serious leads now point to the Secret Archives of the Maupertuis family. A place buried so deep underground, so mobile, so surrounded by protections, that it takes an inter-world spirit years of wandering each time to find it again.
 
-However, things sped up when the oracle of {% symbol "Rochesombre Monastery" for "common_monastery_name" %}, devoted to your cult, sent you powerful prayers: archaeologists had found traces of the magic portals which, once a year, open the door to the Maupertuis sanctuary. She could feel it: momentous events were soon to take place, which would affect the world of humans as much as that of dragons. And in your current, highly spiritual form, you would be easy prey for the demonic forces.
+However, things sped up when the oracle of {% symbol "Rochesombre Monastery" for "common_monastery_name" %}, devoted to your worship, sent you powerful prayers: archaeologists had found traces of the magic portals which, once a year, open the door to the Maupertuis sanctuary. She could feel it: momentous events were soon to take place, which would affect the world of humans as much as that of dragons. And in your current, highly spiritual form, you would be easy prey for the demonic forces.
 
-You then made the most profound decision of your long existence: to **incarnate**.
+You then made the most profound decision of your long existence: to **become incarnate**.
 To give up your majesty, your power, and your eternity.
 And thereby to bind your soul to the psychic robustness of this world, but also to its system of life and death, of flesh and of the divine.
 
@@ -52,7 +52,7 @@ Fortunately, even as baby mice, you have a plan. Or at least the outline of a pl
 
 **You have no grimoire, no alchemical recipe, no precise accounts of such mystical operations. This is an unprecedented mission.**
 
-So you will have to intuit, improvise, try with your fingers crossed. And avoid creating a pandemonium in this world while trying to repair your own.
+So you will have to intuit, improvise, try with your fingers crossed. And avoid creating pandemonium in this world while trying to repair your own.
 Fortune, it is said, favours the bold, so perhaps it will take pity on your rather suicidal mission.
 
 
@@ -160,7 +160,7 @@ You may watch the game's introduction from a distance, then you will go about au
 
 When you meet the Diakons of {% symbol "Bahamoot" for "god_of_diakons" %} (who wear a purple stole), it is assumed that the mice escape from their satchel, and each go and take control of an automaton, thereby endowing it with an almost human personality.
 
-From then on, you are part of the world of the living of Pangea, so you become sensitive to everything a human would fear (in particular wandering phantoms), and you are subject to the rules of the {% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}. You keep a somewhat mechanical demeanour, since your body is made that way.
+From then on, you are part of the world of the living of Pangea, so you become vulnerable to everything a human would fear (in particular wandering phantoms), and you are subject to the rules of the {% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}. You keep a somewhat mechanical demeanour, since your body is made that way.
 
 The rest of the game unfolds normally for you, as a player; it is up to you to make contact with the various players and NPC actors of the game, to see how to help them in their quests, and how to obtain their help for yours.
 

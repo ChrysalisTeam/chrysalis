@@ -79,7 +79,7 @@ Being credible in your character
 All the NPC actors have a story, and a history with the other NPC actors, which must be taken into account in every interaction.
 
 - When the avatars gather for the banquet: pleasure, exchange of rather unsurprising "news" (since their novel universes change very little)
-- When the avatars or phantoms meet the players: depending on their history, they show surprise, suspicion, hope of finding there a solution to the library curse. Both avatars and phantoms wonder **what year** it currently is, in the world of the living.
+- When the avatars or phantoms meet the players: depending on their history, they show surprise, suspicion, or hope that here at last is a solution to the library curse. Both avatars and phantoms wonder **what year** it currently is, in the world of the living.
 - The avatars and phantoms are relieved to "find each other again" through the players; they then question each other, again indirectly, about what happened 500 years ago during the tragedy.
 - When Octave and the Archivist are reunited: outpourings of joy, mutual questioning about the "why" of the situation
 - When Octave and the Archivist find the Arkon again: surprise, suspicion, accusatory questions

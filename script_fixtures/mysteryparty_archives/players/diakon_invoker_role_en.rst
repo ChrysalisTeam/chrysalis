@@ -6,7 +6,7 @@ Your abilities
 
 <{ diakon_sheet_intro }/>
 
-But your vocation soon imposed itself on you: Invoker, that is, one who is able to invoke certain beings from the afterlife, or to draw on the spiritual strength of one's fellows to perform sacred rituals of great power.
+But your calling soon became clear to you: Invoker, that is, one who is able to invoke certain beings from the afterlife, or to draw on the spiritual strength of one's fellows to perform sacred rituals of great power.
 
 *Out-of-game note:* feel free to simulate the wonder that the most solemn of these Invoker rituals cause you, even remaining in ecstasy for a little while after one of them.
 
@@ -106,7 +106,7 @@ To do so, at least {% symbol "3 / 5 of the living" for "library_cursed_enclosure
 
 Then the Invoker - whether inside or outside the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} - must mix the "Accelerated Ageing Potion" and the "Snake Venom Potion" (of any snake) in equal parts in half a glass, and swallow them in a single gulp. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
 
-The Invoker must then, with their dying breath, proclaim:
+The Invoker must then, with his dying breath, proclaim:
 
 **By {% symbol "Bahamoot" for "god_of_diakons" %}, may I, as I cross the threshold of eternity, take with me this unnatural rampart.**
 

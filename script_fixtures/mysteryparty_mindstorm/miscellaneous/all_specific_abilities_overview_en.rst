@@ -6,7 +6,7 @@ Overview of Special Abilities on Pangea
 
     Here are the advanced abilities you have already heard of, or even already encountered, over the course of your career; some of them are discussed in more detail in the chapter on the "Anthropia Portal".
 
-    **Unless otherwise stated, by default, you do not master these abilities.**
+    **Unless otherwise stated, by default, you have not mastered these abilities.**
 
     But who knows, among the various protagonists of this evening, you may well be dealing with experts in one or another of these fields, or with initiates mastering hitherto unknown techniques...
 

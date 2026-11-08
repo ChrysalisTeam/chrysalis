@@ -80,7 +80,7 @@ You go to bed very early, in your little room on the {% symbol "8th floor of the
 {% fact "amethyst_alibi_is_void" as author %}
 
 {% macro no_partner_communication_occurred_and_gala_planned() %}
-The next day, you are taken up by a multitude of small matters to settle, and so you have no time to take stock with your partner. A grand gala evening is planned for the night, to relaunch this series of auctions.
+The next day, you are taken up by a multitude of small matters to settle, and so you have no time to take stock with your partner. A grand gala evening is planned for that evening, to relaunch this series of auctions.
 {% endmacro %}
 
 {% macro pantry_spies_ending() %}

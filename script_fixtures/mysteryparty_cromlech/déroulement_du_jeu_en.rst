@@ -185,10 +185,10 @@ Final Scene
 
 - The players are called back to the **Treasure**.
 - Meanwhile the Druid nudges the **zombie psykers** to return, rather discreetly, to their groups.
-- The final soundtrack is started, the Cromlech begins to **crackle** from time to time.
-- 30 s after the start, the Cromlech's Tesla coil also starts playing the "Dies Irae"; the **Reporter**, followed by the **Guide**, then calls on the players to join him on the **left** of the Cromlech, and to make the "Centurions' Sign" with him to help Andrea (arms crossed over the chest). **Slogan to repeat: "By the Glory of Jupiter".**
-- 12 s later, when the Tesla coil takes up the "Dies Irae" again, it is the turn of the **Druid** (now in broken French), followed by the **Curator**, to urge the players to join him on the **right** of the Cromlech, and to make the "Druids' Sign" with him (forming a menhir shape with the arms and hands) to save the druids' last wish. The zombie psykers follow his orders. **Slogan to repeat: "By the Might of Toutatis".**
-- The Cromlech calms down but the music goes on; both camps must keep up their slogans.
+- The final soundtrack is started, the cromlech begins to **crackle** from time to time.
+- 30 s after the start, the cromlech's Tesla coil also starts playing the "Dies Irae"; the **Reporter**, followed by the **Guide**, then calls on the players to join him on the **left** of the cromlech, and to make the "Centurions' Sign" with him to help Andrea (arms crossed over the chest). **Slogan to repeat: "By the Glory of Jupiter".**
+- 12 s later, when the Tesla coil takes up the "Dies Irae" again, it is the turn of the **Druid** (now in broken French), followed by the **Curator**, to urge the players to join him on the **right** of the cromlech, and to make the "Druids' Sign" with him (forming a menhir shape with the arms and hands) to save the druids' last wish. The zombie psykers follow his orders. **Slogan to repeat: "By the Might of Toutatis".**
+- The cromlech calms down but the music goes on; both camps must keep up their slogans.
 - The Inspector urges the undecided players to choose their side, because **"remaining impassive in such situations of danger is a crime"**.
 - At the end of the music, Andrea appears; he explains the **ending (his victory or his defeat)** and what it means for the World.
 - Announce the END OF GAME!

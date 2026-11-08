@@ -2,7 +2,7 @@ Guests' phone check-ins with their mentors
 ##############################################################
 
 
-*Keep the summary sheets of the characters concerned at hand, in order to have a clear picture of their records, their missions and their means of action.*
+*Keep the summary sheets of the characters concerned at hand, in order to have a clear picture of their backgrounds, their missions and their means of action.*
 
 
 Initial briefing (before the game starts)

@@ -22,7 +22,7 @@ And finally, the famous Parcival lineage, by their blue jabot
 
 But suddenly, one of you has a deep intuition!
 
-You feel a jolt, everything blurs... here you are, arrived in the Maupertuis sanctuary.
+You feel a jolt, everything blurs... and here you are in the Maupertuis sanctuary.
 
 
 

@@ -51,7 +51,7 @@ You no longer remember the exact species this Beast belonged to. Just that it wa
 
 Back in the day, you had heard the Maupertuis speak several times of a **"Yodic Book of the Dead"**, the **{% symbol "Thanatologue" for "book_of_the_dead" %}**, said to be one of the most dangerous grimoires in the library. It was kept in a chest in the Forbidden Domain, locked by **two secret codes**, each kept by one of the Maupertuis parents. {% fact "octave_and_archivist_know_about_thanatologue_location_and_double_code" %} {% hint 'family_legendary_chest_protected_by_double_code' is needed %}
 
-You may be sad to realise, at some point, that the Diakons belong precisely to the cult of {% symbol "Bahamoot" for "god_of_diakons" %}, the cult that had the Maupertuis manor sacked long ago.
+You may be sad to realise, at some point, that the Diakons belong precisely to the faith of {% symbol "Bahamoot" for "god_of_diakons" %}, the faith that had the Maupertuis manor sacked long ago.
 
 Octave had an old favourite childhood book with running animals, as an optical illusion (this is useful for the puzzle of Mérédice's {% symbol "Whispering Box" for "whispering_box" %}).
 
@@ -63,7 +63,7 @@ Specific information and instructions
 
 You have kept a childlike spirit, and you sometimes accost the players in unlikely ways, telling them anecdotes about your close childhood relationship with your sister, asking them what their favourite book or reptile is, asking them what it is like "outside" now...
 
-If you are told that your sister Mérédice actually survived the persecutions that destroyed the manor, you are filled with enthusiasm; better still, if you meet her distant descendants (your great-great-great...grandnephews and nieces), you overflow with affection and gratitude towards them.
+If you are told that your sister Mérédice actually survived the persecutions that destroyed the manor, you are filled with enthusiasm; better still, if you meet her distant descendants (your great-great-great...grandnephews and grandnieces), you overflow with affection and gratitude towards them.
 
 You know that your sister kept her most precious belongings in her small occult-studies study, in the Forbidden Domain. You have never seen this study with your own eyes. And when visiting the domain in question, you see nothing resembling such a thing; perhaps behind some rubble?
 {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %} {% fact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}

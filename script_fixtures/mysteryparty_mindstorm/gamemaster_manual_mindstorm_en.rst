@@ -56,7 +56,7 @@ The "secret agent" type players share a few common objectives:
 
 - carry out their mission of investigating and recovering Loyd Georges' orb
 - protect the geopolitical interests of their side
-- avoid being unmasked, or falling short of their side's expectations (for example by giving too much information to a third party)
+- avoid being unmasked, or putting themselves in the wrong with their own side (for example by giving too much information to a third party)
 - escape the formidable local justice system, regarding their potential larcenies
 
 The civilians, for their part, may also have the local justice system to fear, for more personal reasons, but generally speaking they are above all under pressure from the secret agents' intrigues.
@@ -267,7 +267,7 @@ The great council's decision
 ------------------------------------
 
 
-During the evening, a great council takes place in Akaris, the results of which will seal the fate of Doria, depending on the evolution of the "Transfiliation" doctrine: an integration into Akaris on an equal footing, a debased status (temporary or not) for its inhabitants, or a merciless conquest (e.g. enslavement or annihilation).
+During the evening, a great council takes place in Akaris, the results of which will seal the fate of Doria, depending on the evolution of the "transfiliation" doctrine: an integration into Akaris on an equal footing, a debased status (temporary or not) for its inhabitants, or a merciless conquest (e.g. enslavement or annihilation).
 
 Two hearings are held for this purpose:
 
@@ -423,7 +423,7 @@ Bailing out the family (including the mining sale negotiation)
 
 Opal's business is going downhill, and he needs an enormous amount of money to get it back on its feet.
 
-This can be done by setting up a scam around the "Hydroland" Platform, put up for sale by Opal.
+This can be done by setting up a scam around the "Hydroland" offshore platform, put up for sale by Opal.
 Indeed, if Waden Shaw asserts that the Hydroland rock samples taken by {% symbol "Balberith" for "waden_blackmailer_lady_country" %} are the ones containing good Uranium, then Opal will be able to sell this platform at a very good price to said country.
 
 But the simplest way is to sell Lydia's tar sands deposit at a sufficient price (while paying attention, however, to the geopolitical fallout, depending on the winning buyer).
@@ -481,7 +481,7 @@ The various medical reports, and the accounts of the previous day (including the
 
 Alphonse finds, on request, the recipe used for the veal blanquette, then the packaging of the bay leaves. The latter contains, hidden behind a few sprigs, a small advertising flyer for the shop of the apothecary Master Bibine.
 
-If the inspector (when an NPC) is informed of this discovery, he confiscates the papers and may even assault LG's servants for having shared this information with the guests.
+If the inspector (when an NPC) is informed of this discovery, he confiscates the papers and may assault LG's servants for having shared this information with the guests.
 
 If asked, one of the servants can go and enquire about Master Bibine's sales, and thus find the P.O. box (also serving as a mini safe) through which the parcel was delivered; a box located in the {% symbol "Hamlet of Wiskons" for "hamlet_near_mlg_manor" %} not far from the manor; it is through this box that Shark received his orders and supplies from the Akariths, as well as through the adjoining international telecom booth.
 

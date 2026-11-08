@@ -267,7 +267,7 @@ Its motto is **"Noble of heart as of blood"**, with the fist clenched over the h
 The Diakons of {% symbol "Bahamoot" for "god_of_diakons" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-These 3 monks officiate for the cult of the god {% symbol "Bahamoot" for "god_of_diakons" %}, which is deeply rooted in the region. The oracle of their monastery sensed that a soul drunk with hatred was in the ruins of the Maupertuis manor (this is the Beast), as well as wandering souls (the phantoms). They therefore go there to solve the problems, and protect the order of things.
+These 3 monks officiate in the worship of the god {% symbol "Bahamoot" for "god_of_diakons" %}, which is deeply rooted in the region. The oracle of their monastery sensed that a soul drunk with hatred was in the ruins of the Maupertuis manor (this is the Beast), as well as wandering souls (the phantoms). They therefore go there to solve the problems, and protect the order of things.
 
 {# **They also have orders to magically destroy the 3 "malefic" books contained in the Maupertuis Forbidden Domain, for fear that they fall into the wrong hands (the library cannot simply be burnt)?** NOPE #}
 
@@ -380,7 +380,7 @@ The Arkon {% symbol "Valerias" for "arkon_name" %} (the legendary paladin-exorci
 
 - Both full of hope at seeing adventurers here, and at the same time worried that they will all end up, through his fault, dead and locked in like the others.
 
-- Somewhat disillusioned to see that the pagan cult of the god {% symbol "Bahamoot" for "god_of_diakons" %} has ended up replacing his own (the Yodic cult of the Mithraite denomination), in the monastery on the surface
+- Somewhat disillusioned to see that the pagan worship of the god {% symbol "Bahamoot" for "god_of_diakons" %} has ended up replacing his own (the Yodic faith of the Mithraite denomination), in the monastery on the surface
 
 - Demands to be able to make his "{% symbol "mission confession" for "arkon_mission_confession" %}" to a prelate of the Yodic religion, and only in that case does he reveal everything he knows about the situation; only helps the players he trusts to carry out his mission of protecting humanity (and who are not simply going to lift the library's confinement, thereby destroying his efforts)
 
@@ -618,7 +618,7 @@ The players are supposed to look among themselves for ways to heal, thanks to ma
 
 The players are, by themselves, very helpless in the face of the various injuries; they have NO abilities in this respect. {% fact "players_have_no_medecine_abilites" %}
 
-**Healing by Avatars**: Depending on their type, injuries can be healed by some of the Avatars present. The Avatars must first leave the player with his injuries for a few minutes, long enough to "gather what is needed to heal him". Then they proceed with an operation or a ritual - **to be invented for the occasion**.
+**Healing by Avatars**: Depending on their type, injuries can be healed by some of the Avatars present. The Avatars must first leave the player with their injuries for a few minutes, long enough to "gather what is needed to heal them". Then they proceed with an operation or a ritual - **to be invented for the occasion**.
 
 {# NOPE FORGET THAT FOR NOW
 but beware, these interventions have **a 1 in 6 chance of failing dramatically** (then leading to the player's death - roll a die for it with the Game Master){ % fact "avatar_abilities_are_randomly_hazardous" % }.
@@ -628,9 +628,9 @@ but beware, these interventions have **a 1 in 6 chance of failing dramatically**
 - The **Druid** can use his **sea-blue blood**, with the help of the spirits of Nature, to heal all kinds of biological ailments. {% fact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% hint "blue_blood_for_druid_healings" is needed %}
 - The **Inventor** can cobble together a mechanical prosthesis to replace a lost limb. {% fact "inventor_can_well_heal_missing_limbs" %}
 
-**If a player dies, he becomes a phantom**; he is however constantly embodied, and immediately free to move about, unlike the NPC phantoms. He nonetheless remains subject to the same barriers as all the protagonists ({% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} encircling the library, {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %} blocking access to the Forbidden Domain...). He can no longer handle objects (not even an abilities touch tablet), but he keeps the knowledge he has acquired. His phantom status allows him to access the trapped corridors and other places dangerous to the living without any problem.
+**If a player dies, they become a phantom**; they are however constantly embodied, and immediately free to move about, unlike the NPC phantoms. They nonetheless remain subject to the same barriers as all the protagonists ({% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} encircling the library, {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %} blocking access to the Forbidden Domain...). They can no longer handle objects (not even an abilities touch tablet), but they keep the knowledge they have acquired. Their phantom status allows them to access the trapped corridors and other places dangerous to the living without any problem.
 
-With the right ritual from the {% symbol "Thanatologue" for "book_of_the_dead" %} grimoire, it is possible to **resurrect a player** as a **zombie** for a few hours; the player then recovers all his capabilities, but he must adopt the posture and speech of an "old-fashioned zombie" (e.g. he speaks oddly, may stagger while walking, but cannot run...). {% fact "players_have_thanatologue_spell_to_summon_zombies" %}
+With the right ritual from the {% symbol "Thanatologue" for "book_of_the_dead" %} grimoire, it is possible to **resurrect a player** as a **zombie** for a few hours; the player then recovers all their capabilities, but they must adopt the posture and speech of an "old-fashioned zombie" (e.g. they speak oddly, may stagger while walking, but cannot run...). {% fact "players_have_thanatologue_spell_to_summon_zombies" %}
 
 {% endmacro %}
 <{ injury_cases_and_remedies }/>
@@ -714,7 +714,7 @@ The sentinel automaton's murderous madness
 
 From the very start of the adventure, this automaton patrols quite "mechanically" with a Nerf rifle, and challenges the players it comes across. It orders them to state their identity, and to swear (by Zarathustra) that they have no intention of harming the Maupertuis lineage. Then it continues its rounds, henceforth ignoring the players thus checked. {% hint 'nerf_gun_for_guard_automaton' is needed %}
 
-Later, shortly after the opening of the Forbidden Domain, the Druid feels threatened by the various prophecies that gradually point to him. He therefore takes control of the sentinel automaton, through mushrooms/creepers infiltrating the central system of said machine (this is materialised in game, for instance, by fake plants around its neck or behind its mask).
+Later, shortly after the opening of the Forbidden Domain, the Druid feels threatened by the various prophecies that gradually point to him. He therefore takes control of the sentinel automaton, through mushrooms/creepers infiltrating the central system of said machine (this is materialised in-game, for instance, by fake plants around its neck or behind its mask).
 {% hint "plants_around_head_of_automaton_hitman" is needed %}
 
 The Druid sends the sentinel automaton to **assassinate** (with a bullet to the torso) two people:
@@ -725,7 +725,7 @@ The Druid sends the sentinel automaton to **assassinate** (with a bullet to the 
 The killer automaton seeks to frighten, or at most wound in the legs, the other protagonists, but no more; for the Druid is counting on them to remove the library curse. It is therefore particularly careful with the precious Diakons.
 
 The automaton cannot retrieve its bullets, which naturally disintegrate on impact.
-*These Nerf bullets must be of a different colour from the Parcivals' "darts"; make sure players do not pick them up, as that would make no sense in game.* {% fact "nerf_bullets_and_arrows_need_different_colors" %}
+*These Nerf bullets must be of a different colour from the Parcivals' "darts"; make sure players do not pick them up, as that would make no sense in-game.* {% fact "nerf_bullets_and_arrows_need_different_colors" %}
 
 Obviously, it **never aims at the head** of participants, for safety.
 
@@ -1366,7 +1366,7 @@ He was very soon due to undergo his **initiation called "dubbing"**, a ceremony 
 - If successful, **receive the secret symbol** of the Maupertuis family; be presented to the Beast of the Forbidden Domain, and receive from it an oath of allegiance
 - If unsuccessful, retry this ceremony in X months.
 
-During his confinement in the library, Octave wore his **mother's brooch** as a keepsake, which he had found on site. {% fact "octave_carried_mother_jewel_after_her_death" %} {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
+During his confinement in the library, Octave wore as a keepsake his **mother's brooch**, which he had found on site. {% fact "octave_carried_mother_jewel_after_her_death" %} {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
 
 In their childhood, Octave and his sister used to create treasure hunts - and other puzzles - for each other. Mérédice had created a particularly mischievous one to celebrate Octave's upcoming dubbing, by pinching his piggy bank full of savings. And she had placed the final riddle leading to this little treasure in the **{% symbol "Whispering Box" for "whispering_box" %} found at the bottom of a wooden chest.** {% hint "whispering_box_with_children_enigma_in_common_brown_chest" is needed %}; the family members used this magic box to leave each other messages, which they listened to by placing a finger on it. {# The players must use a stethoscope to read these messages #} Octave was never able to find his piggy bank, probably because it was hidden in the Forbidden Domain. {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
 
@@ -1374,7 +1374,7 @@ In their childhood, Octave and his sister used to create treasure hunts - and ot
 The {% symbol "Spectral Bell" for "table_bell_name" %} and the {% symbol "spectral frenzy" for "phantom_frenzy_name" %}
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-If someone mentions a **table bell** (small, round and metallic) to you, you know nothing about it; you only know that it was **not visible** in the library during your lifetime (even for the Thief), so someone must have brought it or taken it out of a hiding place.
+If someone mentions a **table bell** (small, round and metallic) to you, you know nothing about it; you only know that it was **not visible** in the library during your lifetime (not even to the Thief), so someone must have brought it or taken it out of a hiding place.
 The automatons, strangely, ignore the sound of this bell.
 
 If someone presses the bell for the first time, the GM must trigger the unsettling soundtrack of the **{% symbol "spectral frenzy" for "phantom_frenzy_name" %}**. The phantoms then switch to their disembodied form, and rush towards the sound of the bell. Once near it, they wander left and right, not far off, distraught, until the end of the soundtrack, then go back to what they were doing before. {% fact "table_bell_triggers_spectral_frenzy" %}

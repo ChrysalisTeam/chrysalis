@@ -6,7 +6,7 @@ Your abilities
 
 <{ diakon_sheet_intro }/>
 
-But your vocation soon imposed itself on you: Exorcist, that is, one who knows the world of spirits and its rules, and has various rituals for countering it.
+But your calling soon became clear to you: Exorcist, that is, one who knows the world of spirits and its rules, and has various rituals for countering it.
 
 Refer to **the article in the appendix** for a detailed description of the world of the dead; knowledge that you will be able to teach theatrically to your allies during the game, when the subject comes up.
 
@@ -112,7 +112,7 @@ Beware, this exorcism only works smoothly if all the entities that came into thi
 Your knowledge of the different types of injuries
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-You know that there are different types of injuries, sometimes natural, sometimes supernatural, but the teaching you were supposed to attend on this subject was postponed time and again... so much so that for now you are reduced to calling upon your fellow Diakons whenever someone around you gets injured by a wandering spirit. The height of irony for an exorcist!
+You know that there are different types of injuries, sometimes natural, sometimes supernatural, but the teaching you were supposed to attend on this subject was postponed time and again... so much so that for now you are reduced to calling upon your fellow Diakons whenever someone around you gets injured by a wandering spirit. The height of irony for an Exorcist!
 
 
 

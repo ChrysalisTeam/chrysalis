@@ -9,7 +9,7 @@ Throughout your initiatory journey with your fellow disciples, from one temple t
 {% endmacro %}
 <{ diakon_sheet_intro }/>
 
-But your vocation soon imposed itself on you: Dispeller, that is, one who recognises sacred or bewitched elements, and removes malevolent bewitchments (cabalistic signs on the floor, booby-trapped objects…).
+But your calling soon became clear to you: Dispeller, that is, one who recognises sacred or bewitched elements, and removes malevolent bewitchments (cabalistic signs on the floor, booby-trapped objects…).
 
 {# NOPE not yet - A path that also led you to the healing of certain spiritual injuries, so close are their symptoms to those of certain bewitchments. #}
 

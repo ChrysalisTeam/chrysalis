@@ -26,7 +26,7 @@ If other users are in **digital friendship** with you, you will also be able to 
 Do not forget to **log out** after using Anthropia from a public web terminal (there are some in Loyd Georges' manor).
 This web portal is compatible with **mobile devices**.
 Email messages sent from Anthropia are deemed **impossible to intercept**.
-As a reminder, most inhabitants of Pangea do not yet have an Anthropia account, and must therefore be contacted by other means, such as the telephone or the Post.
+As a reminder, most inhabitants of Pangea do not yet have an Anthropia account, and must therefore be contacted by other means, such as the telephone or the post.
 
 .. raw:: pdf
 

@@ -6,7 +6,7 @@ CHRYSALIS: DESCENT RPG MANUAL 1.0
     This role-playing scenario, and the artistic works it contains, are part of the `Chrysalis Project <http://chrysalis-game.com>`_. They are licensed under `Creative Commons: Attribution, Non-Commercial, Derivatives Allowed <http://creativecommons.org/licenses/by-nc/3.0/>`_, except for the photographs, which are the property of their respective authors, and are reproduced with their permission. Any criticism or suggestions are welcome, with a view to improving this game.
 
 
-.. TODO: accounts of a previous exploration, whose traces/dictaphones are found on the way back up towards the temple (killed by the monitor)
+.. TODO: accounts of a previous exploration, whose traces/dictaphones are found on the way back up towards the temple (killed by the monitor lizard)
 .. TODO: traps, clues, puzzles, to be added here and there, depending on the players' experience (in particular, relating to *geology and concretions?*)
 
 
@@ -325,7 +325,7 @@ Holy of Holies of the Yodic Temple
 
 **The Light Puzzle**: if the stone lantern is wedged into the hollow at the bottom of the well, any light source is placed in it, and the grate is then put on top, the interference effects highlight certain sacred runes on the ceiling, which actually form a **Razulite prophecy dating from after the fall of Nazur**; this prophecy will only be decipherable by the Alifir Academy, but at the very least the ideogram of the **Divine Orbs** can be recognised in it.
 
-After a while (sooner, if mini-geodes have been placed everywhere), a **strange whistling** is heard (see dedicated soundtrack): the **orb's song**. Its source is very hard to locate by ear. The walls must be sounded with the sonar, or the microphone kit used, to find out which wall to dig into with an ice axe. The Orb sits in plain view in its hiding place, resting on a **gold ingot**. It reacts violently (light and vibration) when someone tries to take it. It can be put in ice-cold water to calm it down and carry it away without it attracting Akarith zealots.
+After a while (sooner, if mini-geodes have been placed everywhere), a **strange whistling** is heard (see dedicated soundtrack): the **orb's song**. Its source is very hard to locate by ear. The walls must be sounded with the sonar, or the microphone kit used, to find out which wall to dig into with an ice axe. The orb sits in plain view in its hiding place, resting on a **gold ingot**. It reacts violently (light and vibration) when someone tries to take it. It can be put in ice-cold water to calm it down and carry it away without it attracting Akarith zealots.
 Possible locations of the hiding place: behind the small pagoda, or behind the wall fresco, or under the floor in the middle of the room...
 
 
@@ -363,7 +363,7 @@ Resaleable or Exceptional Finds
 In case the butler does not gather enough loot: the **exceptional artefacts** can be sold **for 20 to 30 kashes** on the black market, but this is a big risk of scandal (and legal trouble), as well as heartbreak for the scientists.
 A poor stopgap: the players can agree to first have the exceptional artefact analysed by the Alifir Academy, then fake its theft to pay off Loyd Georges' debts.
 
-The **wild beasts** (yeti, Chlamydes, monitor...) can be captured and resold **for 10 to 20 kashes** to a zoo, but the naturalist will have to be convinced.
+The **wild beasts** (yeti, Chlamydes, monitor lizard...) can be captured and resold **for 10 to 20 kashes** to a zoo, but the naturalist will have to be convinced.
 
 - silver chalice: 5 kashes
 - pierced coins: 5 kashes

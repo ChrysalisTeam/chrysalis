@@ -22,13 +22,13 @@ The library curse
 
 As you were carrying out, in a magical tumult, the successive rituals for closing the interdimensional portals, a malefic power shrouded in darkness intervened. You fought it relentlessly, for interminable minutes, with blows of your {% symbol "gladius" for "arkon_weapon_name" %}, with spells and with exorcism. It painfully took your attacks (except the sacred ones, which evidently did nothing to it)... but it regenerated in the blink of an eye.
 
-When you received a projectile right in the forehead, you understood that the game was lost; but with your dying breath, you cast an immemorial spell, magnified tenfold by the power of your sacrifice: the **{% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %}**, a curse locking the entire library inside a sacred vortex, a spiritual "black hole", which would only cease when your attacker was wiped from this world. {% fact "traitor_death_ends_cursed_enclosure" %}
+When you received a projectile right in the forehead, you understood that the battle was lost; but with your dying breath, you cast an immemorial spell, magnified tenfold by the power of your sacrifice: the **{% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %}**, a curse locking the entire library inside a sacred vortex, a spiritual "black hole", which would only cease when your attacker was wiped from this world. {% fact "traitor_death_ends_cursed_enclosure" %}
 
 Since then, as you had foreseen in your ultimate sacrifice, your phantom soul has remained a prisoner of the library; less because of the spell of your death - you know that this can temporarily "bind" a soul to a place - than because of your own curse.
 
 You have seen wandering spectres pass by, no doubt those of the child and the Archivist. What exactly did they die of? Of the monster that attacked you? You do not even know what it was. The Beast that guarded the floor above - probably a **cave ghoul**, judging by its anti-magic aura - a creature that nevertheless seemed quite harmless to a mage such as you? Another monstrosity lurking in the premises, awakened by your presence? One of the otherworldly characters gone mad, and surreptitiously returned to this human dimension? You have fleetingly seen a few of these "avatars" (as the mystics call them) pass by, whom you had not been able to seal back in their own universes. They seemed to be searching the library in vain, looking for answers. {% fact "only_arkon_knows_things_about_beast_species" %}
 
-So you are waiting for someone from the surface, sensitive to these disturbances in the strata of existence, to come to your rescue... Preferably an Arkon of the same cult as you, whom you could trust enough to make your "{% symbol "mission confession" for "arkon_mission_confession" %}" to him and let him solve the problem properly. Indeed, even the {% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %} is not a sufficient guarantee, for more than one fanatic has preferred to break it, and be mortally punished shortly afterwards, rather than do what was truly just and sworn.
+So you are waiting for someone from the surface, sensitive to these disturbances in the strata of existence, to come to your rescue... Preferably an Arkon of the same faith as you, whom you could trust enough to make your "{% symbol "mission confession" for "arkon_mission_confession" %}" to him and let him solve the problem properly. Indeed, even the {% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %} is not a sufficient guarantee, for more than one fanatic has preferred to break it, and be mortally punished shortly afterwards, rather than do what was truly just and sworn.
 
 Your saviour will need, not to break your {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} of the library - which would annihilate your efforts - but to hunt down and kill the monstrosity that is surely still lurking there, and to rupture the otherworld corridors for good. How you long to see this mission come to a happy end, and to be able to join your peers at the celestial banquets.
 
@@ -57,7 +57,7 @@ Long before your death, you had made your **skeleton indestructible**, as much t
 
 You know various legends dating back to the era of the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}. One of them speaks of various artefacts (jewels, sceptres, weapons) created by a small sect, and called the **"Amplificans"**, whose particularity was to extend the spatial range of their bearer's spells. With this multiplying effect, a ritual that usually created a small wall of flame over a few paces could end up setting an entire plain ablaze. The symbol common to these artefacts was a **{% symbol "sun with a black whirl at its centre" for "amplificans_artefacts_symbol" %}**. In your opinion, clearly, the Magus used such sources of power. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
-You may be rather frustrated to discover that your former monastery now hosts a rival cult, that of the Diakons of {% symbol "Bahamoot" for "god_of_diakons" %}. But then, it is the eternal struggle between orthodoxy and heresies. {% fact "bahamoot_monastery_belonged_to_yodic_order_in_the_past" %}
+You may be rather frustrated to discover that your former monastery now hosts a rival faith, that of the Diakons of {% symbol "Bahamoot" for "god_of_diakons" %}. But then, it is the eternal struggle between orthodoxy and heresies. {% fact "bahamoot_monastery_belonged_to_yodic_order_in_the_past" %}
 
 If asked: you know of no miracle solution to a **legion of zombies** - other than fighting them one by one with weapons, preferably blessed ones. But you have heard of powerful ground enchantments, capable of preventing their initial "reanimation" from corpses. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
@@ -73,7 +73,7 @@ If the denouement is approaching, you can go and question (or even make them swe
 {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
 
 
-Knowledge of your cult and the others
+Knowledge of your faith and the others
 ====================================================
 
 **Here is an extract from the character sheet of one of the players, with his mystical titles, so that you have the same knowledge as him. For your part, you are only a Yodic Arkon. Remember in particular to learn your Arkon's salutation well.**
@@ -84,7 +84,7 @@ Knowledge of your cult and the others
 Mission confession
 ==================================
 
-*Here is the speech to deliver, kneeling and to mystical music, before the Anthropologist player, once he has revealed himself as a fellow brother by correctly answering your Arkon's salutation.*
+*Here is the speech to deliver, kneeling and to mystical music, before the Anthropologist player, once he has revealed himself as a brother in the faith by correctly answering your Arkon's salutation.*
 
 <{ arkon_mission_report_speech }/>
 

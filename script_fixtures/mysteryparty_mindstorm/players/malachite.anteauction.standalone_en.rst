@@ -19,7 +19,7 @@ Thanks to your connections in the underworld, you have set up surveillance of Lo
 
 Your colleague then wanted to burgle Loyd Georges' manor, but the security systems had become too sophisticated, and he was nearly arrested. {% fact 'spinel_robs_lg_manor_fail' %}
 
-Following these fruitless attempts, you decided, on your own, to manipulate a few Akarith faithful in order to trigger a riot in the capital of the Dukedom of Doria; relations between the Dorian government and the order of Akarith Judicators cooled somewhat after that. {% fact 'malachite_triggers_akarith_riot_in_dorian_dukedom' as author %}
+Following these fruitless attempts, you decided, on your own, to manipulate a few Akarith faithful in order to trigger a riot in the capital of the Dukedom of Doria; relations between the Dorian government and the Order of the Akarith Judicators cooled somewhat after that. {% fact 'malachite_triggers_akarith_riot_in_dorian_dukedom' as author %}
 
 
 {% macro masslavia_investigation_conclusion() %}
@@ -43,5 +43,5 @@ By hacking into the electronic mailboxes of other auction participants, you disc
 
 You remember rumours that went around the secret services: a Lordanian agent called "Emerald" is said to have been turned by the Akariths, and tasked with poisoning, on their behalf, a rich desecrator who also hailed from Lordania. But the affair is said to have ended with this "Emerald" poisoning himself, during an evening at a Dorian embassy. The Lordanians seem to want to avenge the death of this agent, without knowing the truth about this event. Life is decidedly ironic. {% fact 'opal_killed_emerald_agent' %}
 
-The Masslavian services infiltrated in Sabarim are not really a match for their adversaries. So when they discovered that the cellar of the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %} served as a base for a small band of Akarith assassins, the "Purifiers", they did not attempt to attack it. At most they issued "safety advisories", because these fanatics only go after people who have desecrated Yodic sacred objects; and your superiors decided to wait for the end of the Loyd Georges operation, before mentioning it to the Sabarith State. {% fact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
+The Masslavian services operating undercover in Sabarim are not really a match for their adversaries. So when they discovered that the cellar of the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %} served as a base for a small band of Akarith assassins, the "Purifiers", they did not attempt to attack it. At most they issued "safety advisories", because these fanatics only go after people who have desecrated Yodic sacred objects; and your superiors decided to wait for the end of the Loyd Georges operation, before mentioning it to the Sabarith State. {% fact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
 

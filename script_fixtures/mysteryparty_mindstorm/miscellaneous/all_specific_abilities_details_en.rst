@@ -114,7 +114,7 @@ Fresh Start
 
 {% macro djinn_interview() %}
 Consulting the Djinns
-    Your wealth has allowed you to prepay **three questions** to the Djinns of Sedes Sancta, who are a kind of independent sect, dedicated to the accumulation of knowledge (about ancient facts, or recent news). You must ask all your questions during a single telephone call to their headquarters. Results not guaranteed, but usually very satisfactory.
+    Your wealth has allowed you to prepay for **three questions** to the Djinns of Sedes Sancta, who are a kind of independent sect, dedicated to the accumulation of knowledge (about ancient facts, or recent news). You must ask all your questions during a single telephone call to their headquarters. Results not guaranteed, but usually very satisfactory.
 {% endmacro %}
 
 
@@ -199,7 +199,7 @@ Manaic Retrocamera
 
 {% macro akarith_riot() %}
 Akarith Riot
-    A trump card. Hundreds of Akarith fanatics, infiltrated in Sabarim, have been placed under your command. They are only waiting for a sign from you to throw themselves body and soul into a suicide mission that may serve the cause of the Yods. They are not good fighters, but used well, they can carry out a very effective lightning raid. To contact these troops, however, you must leave the manor, and go and call them from the telephone booth of the neighbouring hamlet.
+    A trump card. Hundreds of Akarith fanatics, undercover in Sabarim, have been placed under your command. They are only waiting for a sign from you to throw themselves body and soul into a suicide mission that may serve the cause of the Yods. They are not good fighters, but used well, they can carry out a very effective lightning raid. To contact these troops, however, you must leave the manor, and go and call them from the telephone booth of the neighbouring hamlet.
 {% endmacro %}
 
 

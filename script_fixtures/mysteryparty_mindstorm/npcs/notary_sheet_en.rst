@@ -9,7 +9,7 @@ This prestigious post, peculiar to Sabarim, demands extreme probity of you (you 
 
 You had to fight hard, and spend a great deal of money, to make such a fine career, coming as you did from a family of petty bourgeois who had never held any political role. You are therefore very attached to this professional success and to its rewards.
 
-Loyd Georges had recently become a major client, and almost a friend. Not only had he called upon you to conduct his auctions, but he had also let you in on the secret of his finances, which were in the middle of being put back afloat.
+Loyd Georges had recently become a major client, and almost a friend. Not only had he called upon you to conduct his auctions, but he had also let you in on the secret of his finances, which he was in the midst of putting back on an even keel.
 
 After the first series of sales (fairly ordinary artefacts and gems to begin with), he invited you to his "very special evening", entrusting you with several missions.
 
@@ -100,16 +100,16 @@ Shark should remain aggressive towards you all evening, because of your interfer
 
 
 
-Interactions with the Akarith ambassador
+Interactions with the Akarith Ambassador
 ++++++++++++++++++++++++++++++++++++++++++++++
 
-In the name of Sabarim's "neutrality", Consul {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} has just decreed that the Akarith ambassador to Sabarim, Archdeacon Menelas, be allowed to take part in Sir Loyd Georges' auctions. Given the hate campaign launched against Loyd Georges by the Akarith politico-religious leaders (the Judicators), and the growing tension in Midolia, you found this decision absurd, but you had to comply.
+In the name of Sabarim's "neutrality", Consul {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} has just decreed that the Akarith Ambassador to Sabarim, Archdeacon Menelas, be allowed to take part in Sir Loyd Georges' auctions. Given the hate campaign launched against Loyd Georges by the Akarith politico-religious leaders (the Judicators), and the growing tension in Midolia, you found this decision absurd, but you had to comply.
 
 Since Menelas was not present at the start of the evening, and is certainly aware of the attack suffered by Loyd Georges (perhaps he is even involved in it), you assume he will have had the good taste to refrain from coming tonight. But when he turns up, looking jovial and innocent, you nearly explode with fury; you express your disapproval, but without being able to do much about it.
 
 When Menelas tries to gatecrash the private sale of {{character_properties.lydia.official_name}} (for the tar sands deposit), all you can do is warn the potential future consul against the schemes of this Akarith; ultimately it is up to her to decide whom she accepts at her table.
 
-The ambassador is protected by diplomatic immunity, and therefore beyond the reach of Inspector Shark's judicial requisition; but as sharply as the inspector criticised your own immunity as a tabellion, he seems to readily accept that of the ambassador; you take public offence at this.
+The Ambassador is protected by diplomatic immunity, and therefore beyond the reach of Inspector Shark's judicial requisition; but as sharply as the inspector criticised your own immunity as a tabellion, he seems to readily accept that of the Ambassador; you take public offence at this.
 
 
 

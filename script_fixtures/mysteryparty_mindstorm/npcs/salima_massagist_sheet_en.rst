@@ -14,4 +14,4 @@ Miscellaneous interactions:
 - Loyd Georges had confided to you that he had unearthed extraordinary artefacts - far better than those put up for auction - and that he had entrusted them to "a trusted person", "for study".
 - The bars of Sabarim, and especially of the city of Salima, are becoming more and more disreputable, with shady types with a Midolian accent going there in gangs on certain evenings.
 
-- if one of the protagonists entrusts you with **an item to smuggle out of the manor, charge 50 kashes for it**.
+- if one of the protagonists entrusts you with **an item to take out of the manor, charge 50 kashes for it**.

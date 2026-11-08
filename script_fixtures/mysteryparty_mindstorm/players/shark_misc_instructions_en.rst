@@ -33,7 +33,7 @@ The evening is thus launched, and it will be punctuated by multiple incidents, f
 Example of the inspector's introductory speech
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
-*The inspector's entry into the game is crucial: the players must understand that their initial missions have been turned upside down, that they must now protect themselves against any testimony and material evidence against them, and in particular prevent their secrets from being searched out.*
+*The inspector's entry into the game is crucial: the players must understand that their initial missions have been turned upside down, that they must now protect themselves against any testimony and material evidence against them, and in particular prevent their secrets from being uncovered by a search.*
 
     Ladies and Gentlemen, good evening. Loyd Georges would have liked to welcome you. Unfortunately, he will not do so tonight. He will not do so, because you do not deserve it. He will not do so... because he is dying. Tonight it is I, **Inspector Shark of the Sabarim police**, who will be your host.
 

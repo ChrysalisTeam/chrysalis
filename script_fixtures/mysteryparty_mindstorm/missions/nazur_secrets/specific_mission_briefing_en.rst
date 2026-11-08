@@ -8,7 +8,7 @@ MISSION - The Secret of Nazur
 While this ill-fated day passes rather quietly, you recall your last conversations with Loyd Georges.
 And in particular, the dissatisfaction he confided to you at still not having managed to understand what had really happened in the buried Temple of Nazur.
 
-Why that vandalism on the walls and ceiling, when the holy of holies was sealed, and the gems were still there?
+Why that vandalism on the walls and ceiling, when the Holy of Holies was sealed, and the gems were still there?
 Why that mummy right in the middle of the room?
 
 To make matters worse, the biophysics laboratory of Belez had stated that they had sent the results of the analysis of said mummy by express mail, 4 days ago.

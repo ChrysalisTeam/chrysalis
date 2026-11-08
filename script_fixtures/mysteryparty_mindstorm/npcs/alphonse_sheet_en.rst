@@ -3,7 +3,7 @@
 Sheet of the servant Alphonse
 ===============================
 
-*This NPC is very important to the game, not only because of the information and items he constantly hands out, but also because of the big touch of humour and absurdity he brings to the evening, to the players' great delight.*
+*This NPC is very important to the game, not only because of the information and items he constantly hands out, but also because of the strong dose of humour and absurdity he brings to the evening, to the players' great delight.*
 
 
 Your background
@@ -11,7 +11,7 @@ Your background
 
 You are Alphonse, the ageing but larger-than-life servant of Sir Loyd Georges.
 
-You have followed your master and friend throughout his adventurer's life (while keeping away from the dangerous operations), right up to his recent expedition to Akaris.
+You have followed your master and friend throughout his globetrotting life (while keeping away from the dangerous operations), right up to his recent expedition to Akaris.
 You did not take part in the tumultuous excavation of the buried temple, but you were able to see that the crates of artefacts brought up from it contained magnificent gems and artefacts. Not to mention a "strange orb" that Loyd Georges has kept under wraps.
 
 Since then, the household has suffered numerous attacks, most of which you only noticed when it was too late to do anything about them. That is the advantage of being often distracted: you spare yourself moments of great anguish.
@@ -62,7 +62,7 @@ Like most people, you are a little afraid of Inspector Shark, so you always go t
 
 Towards the Tabellion of Salima, you are rather indifferent; you think that "this kind of upstart notable cannot hold a candle to true nobility like that of Loyd Georges".
 
-When the Akarith ambassador turns up at the manor, like the whole household, you do not hide your indignation. However you have an *irrepressible* attraction to the dishes he brings, which poses you a crisis of conscience; until you crack and stuff yourself with them.
+When the Akarith Ambassador turns up at the manor, like the whole household, you do not hide your indignation. However you have an *irrepressible* attraction to the dishes he brings, which poses you a crisis of conscience; until you crack and stuff yourself with them.
 
 You are the only one who knows how to operate an **antique landline fax-phone (with blurry video)** present in the manor. You take advantage of this to charge for its use: **50 kashes per call, or 150 kashes for unlimited use by one person**.
 {% fact "manor_has_wireline_phone_through_alphonse" as author %}
@@ -79,7 +79,7 @@ You conduct this sale with the patter of a fairground hawker, extolling each lot
 
 This is not an auction: the first buyer to come forward gets the lot at the price fixed in advance, unless two buyers fight over it (in which case you take the highest bidder).
 
-You do not discriminate between buyers, except for the Akarith ambassador, to whom you refuse - as far as possible - to speak.
+You do not discriminate between buyers, except for the Akarith Ambassador, to whom you refuse - as far as possible - to speak.
 
 Cynthia (and she alone) can get a **50% discount**, on 1 single lot that you sell, if she begs you for it.
 

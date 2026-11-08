@@ -77,8 +77,8 @@ Questions to ask the players of the group before the game:
 
 - Who are you? What have you come to do in the Maupertuis secret archives? What are your special abilities, for each of you? What year of the {% symbol "Era of the Great Appeasement" for "current_era_name" %} are we supposed to be in?
 - How do you perform, all together, your motto and your symbolic gesture?
-- Do you have any questions about your specific roles or abilities? *(if so, check with the GM when he comes round)*
-- Do you have all your garments and objects provided by the organisers? *(if not, check with the GM when he comes round)*
+- Do you have any questions about your specific roles or abilities? *(if so, check with the GM when they come round)*
+- Do you have all your garments and objects provided by the organisers? *(if not, check with the GM when they come round)*
 {% endmacro %}
 <{ group_briefing_questions }/>
 

@@ -20,7 +20,7 @@ Until now we knew of only one copy of this grimoire, lost for centuries before b
 You will therefore take advantage of being admitted into Loyd Georges' manor, during this evening, to investigate, and try to get your hands on this wretched book, or failing that, on its contents.
 
 It is impossible to know, as things stand, what the various inhabitants of the manor know about this spiriting-away operation, or whether Inspector Shark is in on the secret.
-But what is certain is that other factions have surely not missed all these goings-on, so you will have to play it close.
+But what is certain is that other factions have surely not missed all these goings-on, so you will have to play a tight game.
 
 
 {% include "missions/panorbium_fortuna_search/mercenaries_clues_en.rst" %}

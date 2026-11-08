@@ -18,11 +18,11 @@ However, in order to bring out constructive synergies, we have decided to place 
 
 - carrying out on your behalf a simple action on the Anthropia web portal: transferring money or an item, activating a special ability (analysis of an item, wiretapping...) etc.
 
-- fetching from another room of the manor, or placing there, the item of your choice, provided that room is not specifically secured. This service is charged at 50 kashes per act. In case of failure, the client receives a credit for a new service.
+- fetching from another room of the manor, or placing there, the item of your choice, provided that room is not specifically secured. This service is charged at 50 kashes per task. In case of failure, the client receives a credit for a new service.
 
 - for any other service, feasibility and price are to be negotiated case by case with the Oberon.
 
-Recognising an Oberon mediator is very simple, use our password: tell him **"you have a mighty pretty nose"**; if he answers **"your eyebrows are just as pretty"**, then he is one of ours.
+Recognising an Oberon mediator is very simple: use our password, and tell him **"you have a mighty pretty nose"**; if he answers **"your eyebrows are just as pretty"**, then he is one of ours.
 
 Of course, our agents will never take an action they know is likely to harm them, or to harm another of our clients. We count on your cooperation, so that this call for mutual collaboration goes as smoothly as possible. The only exception to this rule is the Akariths: these fanatics respect nothing and violently meddle even in our Oberon affairs in Sabarim, so we will be rather cooperative if you seek to harm one of them.
 

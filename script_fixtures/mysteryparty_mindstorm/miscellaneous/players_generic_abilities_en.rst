@@ -22,7 +22,7 @@ Oberon Mediation
 
 {% if not standalone %}
 Flash mob of Akarith fanatics
-  ONLY if you have control of a small troop (10-12 people) of Akarith zealots, infiltrated in the big cities of Sabarim.
+  ONLY if you have control of a small troop (10-12 people) of Akarith zealots, undercover in the big cities of Sabarim.
   You know all their contact details, if you have a means at your disposal to contact them.
   Thanks to the wonderful Sabarith transport system, they can be gathered **in under 60 min** on the target of your choice to ransack/loot it, or carry out any other large-scale action (blocking a road, setting fire to a forest, dancing naked in a public square...). But do not expect to see them again after that.
 {% endif %}

@@ -4,7 +4,7 @@ Your abilities
 ====================================
 
 {% macro spy_sheet_intro() %}
-In the decades you have spent roaming about in your homeland's secret services, with your crack team, you have had time to work out what you enjoy most.
+In the decades you have spent roaming about in your homeland's secret services, with your crack team, you have had time to find out what you like.
 {% endmacro %}
 
 <{ spy_sheet_intro }/>

@@ -12,7 +12,7 @@
     Additional information - Malachite
     ==========================================
 
-    Something close to your heart is, of course, finding out what this business of Paladium and Spinel's betrayal is all about. It must be cleared up.
+    Something close to your heart is, of course, finding out what this business of the Paladium and Spinel's betrayal is all about. It must be cleared up.
 
     An informant of the Masslavian secret services in Akaris reported that a liturgical candle and a canister had been ritually burned during a ceremony, at the Akarith border, as they were considered "impious".
     You had no difficulty connecting this with artefacts that Amethyst had bought. And you have several conclusive photographs of the event [draw these photos freestyle].

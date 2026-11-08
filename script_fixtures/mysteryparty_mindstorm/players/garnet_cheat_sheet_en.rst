@@ -47,7 +47,7 @@
 ============================================
 
 - you think you came across {{character_properties.opal.official_name}} at the ill-fated Akarith embassy in Doria {% fact 'opal_was_in_emerald_deadly_embassy' %}
-- the journalist {{character_properties.cynthia.official_name}} most likely has compromising evidence on high-ranking Lordanian personalities at her home {% fact 'cynthia_as_proofs_against_lordanian_personalities' %}
+- the journalist {{character_properties.cynthia.official_name}} most likely has compromising evidence on prominent Lordanian public figures at her home {% fact 'cynthia_as_proofs_against_lordanian_personalities' %}
 
 
 

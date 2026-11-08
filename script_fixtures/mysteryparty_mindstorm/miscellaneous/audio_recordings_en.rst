@@ -49,7 +49,7 @@ Recording transcript - Spy dictaphone
 - Yes, he spoke to me about the "Keroskian parcel" while the inspector was right behind him. {% fact "alphonse_blunder_revealed_panorbium_fortuna_arrival" %}
 - No matter. I have hidden it where the demons of the abyss themselves would not think of looking for it.
 - Karak. I imagine your father said the same thing when he hid his "Precious Cauldron". Don't pull the same trick as he did!
-- Quite true. Damned father, far too cautious... we would not have had so many financial troubles if that inheritance had been passed on to me as planned. How sad, we will never have managed to decipher his message. But between the auctions and the series of lectures I will be giving all over Pangea, the manor's financial future is saved!
+- Quite true. Damned father, far too cautious... we would not have had so many financial troubles if that inheritance had been passed on to me as planned. How sad that we never managed to decipher his message. But between the auctions and the series of lectures I will be giving all over Pangea, the manor's financial future is saved!
 - I know someone who won't be pleased about that.
 - You mean {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}?  {% fact "lord_mac_jolt_wants_to_own_lg_manor" %}
 - Yes. He has been dreaming of driving us out of here for so long... even though this manor hasn't belonged to his family for 4 centuries!

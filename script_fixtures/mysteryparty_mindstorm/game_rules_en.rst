@@ -18,7 +18,7 @@ Telling IC and OOC objects apart
 - Unless very explicitly stated otherwise, **the food and drinks of the buffet are out-of-game**, so you risk nothing by cheerfully enjoying them
 - The GM may have decided to mark the "non-trivial" objects and documents that are part of the game, by whatever means they choose; check with them at the start of the game
 - Some elements (GM documents, GM cash reserves, character sheets) are automatically out-of-game and confidential; **in particular, do not show your character sheet to the other players, even allies**
-- **Photo cameras are out-of-game**, they cannot be used to obtain incriminating evidence against you; the same goes for the **surveillance cameras**, which, in the scenario, are assumed to be deactivated throughout the manor during the evening
+- **Cameras are out-of-game**, they cannot be used to obtain incriminating evidence against you; the same goes for the **surveillance cameras**, which, in the scenario, are assumed to be deactivated throughout the manor during the evening
 - when **pieces of furniture are covered with a cloth, or sealed with a piece of tape**, this means they are explicitly OOC and thus contain nothing of interest for the game
 - if a participant walks across the room with a **raised fist**, they are out-of-game: ignore them
 - If in doubt about what is in-game or not, ask the GM or the NPCs

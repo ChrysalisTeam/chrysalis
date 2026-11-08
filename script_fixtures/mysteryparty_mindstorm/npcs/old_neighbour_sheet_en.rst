@@ -13,7 +13,7 @@ Fortunately, you were rescued by one of the guests on his way to the manor *(to 
 
 You know plenty about the region and past events; here is the information to give to the players for free, if they question you on these subjects.
 
-If you no longer remember a detail, simply tell the player ("my memory is full of holes at the moment, I'll think about it, it will come back to me later"), then discreetly reread this sheet, and a few minutes later seek out the player to give him the information.
+If you no longer remember a detail, simply tell the player ("my memory is full of holes at the moment, I'll think about it, it will come back to me later"), then discreetly reread this sheet, and a few minutes later seek out the player to give them the information.
 
 
 

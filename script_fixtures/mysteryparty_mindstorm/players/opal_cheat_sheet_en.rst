@@ -11,7 +11,7 @@
 =========================================================
 
 - for 2 years now, you have been running a massive operation to turn your taverns into upmarket establishments, entrusted to the {% symbol "LordaBild" for "opal_construction_contractor" %} construction company  {% fact 'opal_transform_taverns_into_classy_restaurants' as author %}
-- your strength has been declining abnormally for 1 year  {% fact 'opal_has_become_ill_for_1_year' as author %}
+- your strength has been declining abnormally for the past year  {% fact 'opal_has_become_ill_for_1_year' as author %}
 - 6 months ago, you moved near Alifir, while Lydia entered the race for the Consulate of Alifir {% fact 'opal_lydia_moved_to_alifir_villa_6_months_ago' as author %} {% fact 'lydia_runs_for_alifir_consul_election' %}
 
 - from the very start of the auctions, you received threatening letters {% fact 'opal_receives_akarith_threat_letters' as author %}
@@ -37,7 +37,7 @@
 
 - you still have your "Red Wolves" tattoo on your hand  {% fact 'opal_has_red_fir_tattoo' as author %}
 
-- you have decided to sell your "Hydroland" offshore platform to the highest bidder; strangely, the country of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, although lagging behind technologically, recently sent a survey ship there to inspect its shallows  {% fact "opal_owns_hydroland" as author %} {% hint "hydroland_sale_poster" is needed %} {% fact "balberith_has_poor_atom_analysis_technology" %}
+- you have decided to sell your "Hydroland" offshore platform to the highest bidder; strangely, the land of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, although lagging behind technologically, recently sent a survey ship there to inspect its shallows  {% fact "opal_owns_hydroland" as author %} {% hint "hydroland_sale_poster" is needed %} {% fact "balberith_has_poor_atom_analysis_technology" %}
 
 
 <{ title_past_infractions }/>

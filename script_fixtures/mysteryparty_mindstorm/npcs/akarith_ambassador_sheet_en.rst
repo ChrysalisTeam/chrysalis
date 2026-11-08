@@ -23,7 +23,7 @@ If you are led to speak on these subjects:
 - you announce that you are here to buy back, in all legality, the artefacts that were nonetheless "stolen" by Loyd Georges from an Akarith temple; you gloss over the fact that it was a heretic temple, and on the contrary claim a "spiritual filiation" with the ancient Yodic denomination that used this buried temple.
 - you claim to be learning only this very moment that Loyd Georges has been attacked, "otherwise you would of course not have come, but now that you are here..."
 - it is absolutely normal, in your eyes, that you enjoy your ambassadorial prerogatives, such as being exempt from security searches, diplomatic immunity, etc.
-- you assert that the unrest in Midolia is merely the expression of the latent desire of neighbouring peoples to join the glory of the Holy Akarith Empire; you are a fervent advocate of Transfiliation, i.e. the idea (controversial among Akariths) that the unbelieving peoples may join the chosen people of the Yods, the Akarith people, instead of having to be destroyed or enslaved.
+- you assert that the unrest in Midolia is merely the expression of the latent desire of neighbouring peoples to join the glory of the Holy Akarith Empire; you are a fervent advocate of transfiliation, i.e. the idea (controversial among Akariths) that the unbelieving peoples may join the chosen people of the Yods, the Akarith people, instead of having to be destroyed or enslaved.
 - you say that the death threats uttered by Akariths against Loyd Georges have been exaggerated, or badly translated, and are merely the expression of legitimate indignation (and you repeat that foreign journalists constantly lie about Akaris)
 
 
@@ -62,7 +62,7 @@ You show a certain irritation when a bidder thwarts your purchasing plans during
 You also become inquisitive when a bidder seems interested in a lot that is not naturally within his remit (especially if he is a Sabarith citizen).
 
 **YOUR GOAL**: with only **600 Sabarith Pounds**, manage to buy ONE of the lots put up for auction,
-{# .. either bearing runic inscriptions (messages the players can intercept), or being "atypical but not unique" and therefore able to help geolocate the hiding place of Loyd Georges' orb (thanks to the World Scanner) #}
+{# .. either bearing runic inscriptions (messages the players can intercept), or being "atypical but not unique" and therefore able to help geolocate the hiding place of Loyd Georges' Orb (thanks to the World Scanner) #}
 
 
 

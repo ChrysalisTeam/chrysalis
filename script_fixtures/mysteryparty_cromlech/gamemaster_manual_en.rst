@@ -20,7 +20,7 @@ Synopsis
 
 The Cromlech is an unclassifiable building, half library, half museum, which has become the haunt of the neighbourhood's students.
 
-But one fine morning the police turn up in force: one of the regulars has disappeared, along with the gladius from the ancient Treasure.
+But one fine morning the police turn up in force: one of the regulars has disappeared, along with the gladius from the ancient treasure.
 
 An investigation is needed, and fast, for the case could soon spin out of control...
 
@@ -36,7 +36,7 @@ But a few druids, who had come from Armorica, set up one last act of vengeance. 
 
 However, the gestation of this entity proved longer and more complex than expected. The ablutions and rituals - necessary for the operation to run smoothly - were interrupted many times throughout History.
 
-So much so that at the very beginning of the 20th century, this legendary creature has still not become incarnate. The artefacts bearing the enchantment (grimoire, gladius, cromlech model...) are now "hidden in plain sight", in an unusual library-museum that mainly serves as a workspace for the local students. To avoid legal trouble, the manager of the place, the "Curator", passes these museum pieces off as mere replicas.
+So much so that at the very beginning of the 20th century, this legendary creature has still not become embodied. The artefacts bearing the enchantment (grimoire, gladius, cromlech model...) are now "hidden in plain sight", in an unusual library-museum that mainly serves as a workspace for the local students. To avoid legal trouble, the manager of the place, the "Curator", passes these museum pieces off as mere replicas.
 
 But a young "Hero", the child of an Italian diplomat and passionate about ancient esotericism, is on the trail of this invocation. He discreetly spies on the museum, trying to find out who knows about this phenomenon, and who is friend or foe. Along the way, he befriends a student reporter, whom he partly lets in on the secret.
 

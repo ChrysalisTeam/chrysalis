@@ -5,7 +5,7 @@ The Politics of Sabarim
 
 The political regime of Sabarim is rather peculiar.
 The country is divided into **three great consulates**, those of the **metropolises of Sablima, Alifir, and Cazoar**.
-Each of these regions elects its Consul every 7 years, by direct universal suffrage. And it is this trio, the "Triumvirate of Consuls", which actually runs the life of the country.
+Each of these regions elects its consul every 7 years, by direct universal suffrage. And it is this trio, the "Triumvirate of Consuls", which actually runs the life of the country.
 
 About a hundred senators, each elected by a constituency, debate the laws and exercise oversight over the consuls' policy, but without being able to oppose them head-on.
 

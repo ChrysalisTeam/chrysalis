@@ -12,7 +12,7 @@ Main objectives for the evening
 
 - Make a decision about this strange letter from the University of Omrh (land of Nalavut)
 
-- Ask for Cynthia's hand in marriage, after having "proved yourself" and obtained the agreement of her father Emilos Loakim {% fact "emilos_loakim_wants_waden_to_prove_valor" %}
+- Propose to Cynthia, after having "proved yourself" and obtained the agreement of her father Emilos Loakim {% fact "emilos_loakim_wants_waden_to_prove_valor" %}
 
 So far you have tried to untangle yourself from your problems on your own, without exposing your loved ones to them.
 But things are taking a nasty turn, and you will have to find some support.

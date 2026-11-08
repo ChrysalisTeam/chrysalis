@@ -38,7 +38,7 @@ Your electoral campaign was built around three themes:
 <{ lydia_campaign_themes }/>
 
 
-Thanks to this campaign, and to your dynamic feminine image as a "conqueror returned to her homeland", the seemingly unshakeable Consul of Alifir, {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}, really does seem to be on the verge of stepping aside for you. You have given particularly strict instructions to your activists to keep their noses clean during the campaign (no wild fly-posting, no unauthorised demonstrations, respect for the voting process...), so as not to take the slightest risk of the vote being contested.
+Thanks to this campaign, and to your dynamic feminine image as a "conqueror returned to her homeland", the unshakeable Consul of Alifir, {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}, really does seem to be on the verge of stepping aside for you. You have given particularly strict instructions to your activists to keep their noses clean during the campaign (no wild fly-posting, no unauthorised demonstrations, respect for the voting process...), so as not to take the slightest risk of the vote being contested.
 
 However, your opponent {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} has threatened to reveal "illicit things" about your husband if you refused to withdraw from the race. You hope it is a bluff, fingers crossed; but you are also moving heaven and earth to find compromising files on this sorry gentleman, and establish at the very least a "balance of terror".
 {% fact 'lydia_threatened_by_opponent_mundlish_odalisc' as author %}

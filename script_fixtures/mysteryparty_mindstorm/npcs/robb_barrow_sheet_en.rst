@@ -26,7 +26,7 @@ If you are asked for the recipe of one of the 2 dishes of the previous day, you 
 
 **If someone proves to you that you mistakenly put oleander in a dish, instead of bay leaf, you are appalled, desperate, and ask to be imprisoned.**
 
-If you are asked to make a (fake) cocktail, with various ingredients brought by a player, go and see the Game Master so that he gives you the result of this mixture.
+If you are asked to make a (fake) cocktail, with various ingredients brought by a player, go and see the Game Master so that they can give you the result of this mixture.
 
 All these game actions, you do for free (no need to ask for "kash" notes, the game's fictional money).
 

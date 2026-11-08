@@ -32,7 +32,7 @@ The game is designed to be played in full immersion. To enjoy it to the full, an
 - Refrain from any discussion unrelated to the game, even (and especially) during a lull.
 - Be discreet when asking for out-of-game information, for instance from the Game Master.
 - Any technological devices are also dedicated to the game, so do not answer your personal calls/texts/emails during the game.
-- Clothing matters; sober costumes and dresses are enough for most characters, but steampunk/Renaissance/Victorian accessories (from fancy-dress shops, flea markets, leboncoin, eBay...) can add to the atmosphere.
+- Clothing matters; sober suits and dresses are enough for most characters, but steampunk/Renaissance/Victorian accessories (from fancy-dress shops, flea markets, leboncoin, eBay...) can add to the atmosphere.
 
   - Examples of accessories: bowler hat or top hat, jabot, cane, crinoline dress, fan...
   - It is possible to get changed on site.

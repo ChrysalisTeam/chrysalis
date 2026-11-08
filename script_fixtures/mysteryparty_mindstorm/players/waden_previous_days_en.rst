@@ -12,7 +12,7 @@ You know this Sun of Atoms at close quarters.
 And not only because of radioactive dating.
 You were indeed commissioned, {% symbol "8 months" for "waden_voluto_cooperation_start_ago" %} ago, to assist Professor Voluto in his research in atomic physics.
 
-The venerable scientist did not have an easy character, especially after being sidelined in this sulphurous field of study. This collaboration was nonetheless fruitful; very fruitful; too fruitful. By delving deeper into the fundamental equations, you stumbled upon a formidable, deadly, apocalyptic energy: the **atomic supernova**.
+The venerable scientist did not have an easy character, especially after being sidelined into this sulphurous field of study. This collaboration was nonetheless fruitful; very fruitful; too fruitful. By delving deeper into the fundamental equations, you stumbled upon a formidable, deadly, apocalyptic energy: the **atomic supernova**.
 
 That moment was bitterly ironic: you who had only been able to make your ascent thanks to the grimoires inherited from your forebears, you who had always secretly hoped for Science to be opened up to the greatest number, there you were holding in your hands a discovery far too dangerous to be disseminated, or even studied.
 
@@ -62,7 +62,7 @@ The Balberith blackmail
 
 {% symbol "15 days" for "waden_blackmailing_start_ago" %} ago, as you were off to recharge your batteries in a park not far from the Alifir Academy, a smiling young lady approached you, and dragged you to a nearby café, on the pretext of "an offer you won't have the heart to refuse". {% fact "waden_has_met_unknown_girl" as author %}
 
-**"Call me {% symbol "Elezie" for "waden_blackmailer_lady_name" %}"**, that is all she told you about herself, in her strong accent typical of the land of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}. Then she asked you to provide her with the results of all your work with Professor Voluto. You asked her on what grounds. "We have recovered the only copy of the Alifir Academy's video recordings, in which you can clearly be seen assaulting the late Professor Voluto; that could reopen an investigation, involve lots of people in the affair... let's keep this between us. We can bring you a great deal. But let's start with simple things." {% fact "voluto_death_day_academy_recordings_disappeared" %}
+**"Call me {% symbol "Elezie" for "waden_blackmailer_lady_name" %}"**, that is all she told you about herself, in her strong accent typical of the land of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}. Then she asked you to provide her with the results of all your work with Professor Voluto. You asked her on whose behalf. "We have recovered the only copy of the Alifir Academy's video recordings, in which you can clearly be seen assaulting the late Professor Voluto; that could reopen an investigation, involve lots of people in the affair... let's keep this between us. We can bring you a great deal. But let's start with simple things." {% fact "voluto_death_day_academy_recordings_disappeared" %}
 
 She then gave you **three pieces of black rock**, labelled A, B, and C, in a small green satin box. "I want a complete physico-chemical analysis of these samples, radioactive elements included; you have the skills and the equipment; it is strictly confidential; I will contact you again in a few weeks to take stock; 100 kashes for you now, the rest on delivery".
 
