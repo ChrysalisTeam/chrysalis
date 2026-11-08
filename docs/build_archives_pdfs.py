@@ -117,7 +117,8 @@ for _name, _overrides in list(CHARACTER_OVERRIDES.items()) + list(NPC_OVERRIDES.
     _overrides["official_name"] = OFFICIAL_NAMES[_name]
 
 # FIXME rename to "character" template
-PLAYER_INITIAL_EMAIL_TEMPLATE = """\
+PLAYER_INITIAL_EMAIL_TEMPLATE = dict(
+fr="""\
 ## Message exclusivement destiné à %(real_life_identity)s (%(real_life_email)s) ##
 
 Bonjour,
@@ -136,9 +137,31 @@ Bonne lecture !
 
 Amicalement,
 Les Organisateurs
-"""
+""",
+en="""\
+## Message exclusively intended for %(real_life_identity)s (%(real_life_email)s) ##
 
-AUTOMATA_INITIAL_EMAIl_TEMPLATE = """
+Hello,
+
+Here is your character sheet for the mystery evening "The Secret Archives of the Maupertuis" of *%(mystery_party_date)s*.
+
+A document to read and reread without moderation!
+
+Important information about the game universe and the rules is also included.
+
+Please kindly:
+- acknowledge receipt of this email
+- report any inconsistency or omission you might notice in these documents
+
+Enjoy your reading!
+
+Best regards,
+The Organisers
+""",
+)[LANGUAGE]
+
+AUTOMATA_INITIAL_EMAIl_TEMPLATE = dict(
+fr="""
 Bonjour,
 
 Voici des informations sur l'univers du jeu et les règles, pour la soirée mystère "Les archives secrètes des Maupertuis"
@@ -155,7 +178,33 @@ Bonne lecture !
 
 Amicalement,
 Les Organisateurs
-"""
+""",
+en="""
+Hello,
+
+Here is some information about the game universe and the rules, for the mystery evening "The Secret Archives of the Maupertuis".
+
+As automaton NPC actors, you don't have a character sheet with a specific role, but you will be able to follow the players in their adventures.
+
+Only the section "How the different worlds work" of the "NPC Actors' Supplements" is important for you, the rest is only there for information.
+
+IMPORTANT - Please kindly:
+- acknowledge receipt of this email
+- report any inconsistency or gap you might notice in these documents
+
+Enjoy your reading!
+
+Best regards,
+The Organisers
+""",
+)[LANGUAGE]
+
+EMAIL_SUBJECTS = dict(
+    fr=dict(player="Soirée Mystère Archives - votre fiche de joueur pour %s",
+            npc="Soirée Mystère Archives - votre fiche de figurant pour %s"),
+    en=dict(player="Archives Mystery Evening - your player sheet for %s",
+            npc="Archives Mystery Evening - your NPC actor sheet for %s"),
+)[LANGUAGE]
 
 player_names = set(CHARACTER_OVERRIDES.keys())
 npc_names = set(NPC_OVERRIDES.keys())
@@ -452,13 +501,13 @@ def generate_archives_sheets():
             forced_recipient_email = "chambon.pascal@gmail.com"
             _send_character_sheets_via_email(all_data=all_data, player_names=player_names,
                                              forced_recipient_email=forced_recipient_email,
-                                             subject='Soirée Mystère Archives - votre fiche de joueur pour %s',
+                                             subject=EMAIL_SUBJECTS["player"],
                                              email_template=PLAYER_INITIAL_EMAIL_TEMPLATE,
                                              default_email_attachments=default_player_attachments,
                                              allow_duplicate_emails=True,
                                              dry_run=dry_run)  # ensure everything seems in place
             # _send_character_sheets_via_email(all_data=all_data, player_names=npc_names, forced_recipient_email=forced_recipient_email,
-            #                              subject='Soirée Mystère Archives - votre fiche de figurant pour %s',
+            #                              subject=EMAIL_SUBJECTS["npc"],
             #                              email_template=PLAYER_INITIAL_EMAIL_TEMPLATE,
             #                              default_email_attachments=default_npc_attachments, allow_duplicate_emails=True, dry_run=dry_run)  # ensure everything seems in place
 

@@ -28,7 +28,9 @@ DISABLE_DECORATIONS = False
 
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_mindstorm")
 TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
-ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_mindstorm.odt")
+ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_mindstorm.odt")  # French, also source of fact tags
+LOCALIZED_CLUES_DOCUMENT = (ALL_CLUES_DOCUMENT if LANGUAGE == "fr" else
+                            os.path.join(TEMPLATES_ROOT, "miscellaneous", rpg.localize_filename("ingame_clues_mindstorm.odt", LANGUAGE)))
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
@@ -74,7 +76,8 @@ CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
     obsidian=dict(email_attachments=[_asset_path("sabarith_law_summary_for_obsidian.pdf")]),
 )
 
-PLAYER_INITIAL_EMAIL_TEXT = """\
+PLAYER_INITIAL_EMAIL_TEXT = dict(
+fr="""\
 ## Message exclusivement destiné à %(real_life_identity)s (%(real_life_email)s) ##
 
 Bonjour,
@@ -94,7 +97,29 @@ Bonne lecture !
 
 Bien amicalement,
 Les Organisateurs
-"""
+""",
+en="""\
+## Message exclusively intended for %(real_life_identity)s (%(real_life_email)s) ##
+
+Hello,
+
+Here is your complete character sheet for this mystery evening, to read and reread without moderation!
+
+Some of you have specific documents attached, with legal, scientific, epistolary... information, depending on what is mentioned in their character sheet.
+
+The document about the Game Universe and Rules is also included!
+
+IMPORTANT - Please:
+- acknowledge receipt of this email
+- report any inconsistency or gap you might later notice in these documents
+- PRINT the specific documents, to have them with you on the day of the game
+
+Enjoy your reading!
+
+Best regards,
+The Organisers
+""",
+)[LANGUAGE]
 
 GAMEMASTER_MANUAL_PARTS = [
     "gamemaster_manual_mindstorm.rst",
@@ -408,11 +433,14 @@ def generate_mindstorm_sheets():
 
     # -------------
 
-    if False:
+    if True:
         # HEAVY - export clues into a myriad of small PDFs
-        _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
-                                                    clues_parts=INGAME_CLUES_PARTS,
-                                                    output_dir=DOCUMENTS_OUTPUT_DIR)
+        if os.path.exists(LOCALIZED_CLUES_DOCUMENT):
+            _generate_clues_pdfs_from_main_odt_document(input_doc=LOCALIZED_CLUES_DOCUMENT,
+                                                        clues_parts=INGAME_CLUES_PARTS,
+                                                        output_dir=DOCUMENTS_OUTPUT_DIR)
+        else:
+            print("!!! Skipping export of ingame clues, since no translated document %s exists" % LOCALIZED_CLUES_DOCUMENT)
 
     # -------------
 
