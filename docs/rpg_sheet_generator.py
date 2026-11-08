@@ -8,10 +8,11 @@ import functools
 import jinja2
 import os
 import re
+import subprocess
 import sys
 import textwrap
 import yaml
-from jinja2 import nodes, lexer, contextfilter, Template
+from jinja2 import nodes, lexer, pass_context, Template
 from jinja2.ext import Extension
 from jinja2.runtime import Context
 from markupsafe import Markup
@@ -82,7 +83,7 @@ def load_jinja_environment(templates_root: list, use_macro_tags: bool):
                                    lstrip_blocks=False,
                                    extensions=[StoryChecksExtension])
 
-    @contextfilter
+    @pass_context
     def dangerous_render(context, value):
         return render_with_jinja_and_fact_tags(content=value, jinja_env=jinja_env, jinja_context=context)
 
@@ -99,6 +100,8 @@ def load_jinja_environment(templates_root: list, use_macro_tags: bool):
         except TypeError:
             pass
         for tpl in templates:
+            if tpl.endswith("_en.rst"):
+                continue  # English twins of FR templates declare the same macro names
             #print("jinja_env.macros.register_from_template -->", tpl)
             jinja_env.macros.register_from_template(tpl)
 
@@ -413,19 +416,20 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
 
     extra_args = extra_args or ""
 
-    vars = dict(rst_file=rst_file,
+    vars = dict(python_exe=sys.executable,
+                rst_file=rst_file,
                 pdf_file=pdf_file,
                 conf_file=conf_file,
                 extra_args=extra_args)
 
     # fit-background-mode=scale doesn't work in config file, at the moment...
     # other options: --very-verbose --show-frame-boundary or just "-v"
-    command = r'''python -m rst2pdf.createpdf "%(rst_file)s" -o "%(pdf_file)s" --config=%(conf_file)s --fit-background-mode=scale --first-page-on-right --smart-quotes=2 --break-side=any  -e dotted_toc --fit-literal-mode=shrink %(extra_args)s''' % vars
+    command = r'''"%(python_exe)s" -m rst2pdf.createpdf "%(rst_file)s" -o "%(pdf_file)s" --config=%(conf_file)s --fit-background-mode=scale --first-page-on-right --smart-quotes=2 --break-side=any  -e dotted_toc_compat --fit-literal-mode=shrink %(extra_args)s''' % vars
 
     #print("Current directory: %s" % os.getcwd())
     logging.debug("Executing command: %s" % command)
 
-    res = os.system(command)
+    res = subprocess.call(command)  # no shell, so that quoted interpreter path works on Windows
 
     assert res == 0, "Error when calling rst2pdf"
 

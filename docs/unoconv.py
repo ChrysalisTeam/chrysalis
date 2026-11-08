@@ -16,14 +16,19 @@
 
 from __future__ import print_function
 
-from distutils.version import LooseVersion
 import getopt
 import glob
 import os
+import re
 import signal
 import subprocess
 import sys
 import time
+
+
+def version_tuple(version):
+    ### Replacement for distutils' LooseVersion (distutils is gone since python 3.12)
+    return tuple(int(part) for part in re.findall(r'\d+', version))
 
 __version__ = '0.8.2'
 
@@ -81,17 +86,17 @@ def find_offices():
         if os.name in ( 'nt', 'os2' ):
             if 'PROGRAMFILES' in list(os.environ.keys()):
                 extrapaths += glob.glob(os.environ['PROGRAMFILES']+'\\LibreOffice*') + \
-                              glob.glob(os.environ['PROGRAMFILES']+'\\LibreOffice\program') + \
+                              glob.glob(os.environ['PROGRAMFILES']+'\\LibreOffice\\program') + \
                               glob.glob(os.environ['PROGRAMFILES']+'\\OpenOffice.org*')
 
             if 'PROGRAMFILES(X86)' in list(os.environ.keys()):
                 extrapaths += glob.glob(os.environ['PROGRAMFILES(X86)']+'\\LibreOffice*') + \
-                              glob.glob(os.environ['PROGRAMFILES(X86)']+'\\LibreOffice\program') + \
+                              glob.glob(os.environ['PROGRAMFILES(X86)']+'\\LibreOffice\\program') + \
                               glob.glob(os.environ['PROGRAMFILES(X86)']+'\\OpenOffice.org*')
 
             if 'PROGRAMW6432' in list(os.environ.keys()):
                 extrapaths += glob.glob(os.environ['PROGRAMW6432']+'\\LibreOffice*') + \
-                              glob.glob(os.environ['PROGRAMW6432']+'\\LibreOffice\program') + \
+                              glob.glob(os.environ['PROGRAMW6432']+'\\LibreOffice\\program') + \
                               glob.glob(os.environ['PROGRAMW6432']+'\\OpenOffice.org*')
 
         elif os.name in ( 'mac', ) or sys.platform in ( 'darwin', ):
@@ -831,7 +836,7 @@ class Convertor:
             info(3, "Launching our own listener using %s." % office.binary)
             try:
                 product = self.svcmgr.createInstance("com.sun.star.configuration.ConfigurationProvider").createInstanceWithArguments("com.sun.star.configuration.ConfigurationAccess", UnoProps(nodepath="/org.openoffice.Setup/Product"))
-                if product.ooName not in ('LibreOffice', 'LOdev') or LooseVersion(product.ooSetupVersion) <= LooseVersion('3.3'):
+                if product.ooName not in ('LibreOffice', 'LOdev') or version_tuple(product.ooSetupVersion) <= version_tuple('3.3'):
                     args = [office.binary, "-headless", "-invisible", "-nocrashreport", "-nodefault", "-nofirststartwizard", "-nologo", "-norestore", "-accept=%s" % op.connection]
                 else:
                     args = [office.binary, "--headless", "--invisible", "--nocrashreport", "--nodefault", "--nofirststartwizard", "--nologo", "--norestore", "--accept=%s" % op.connection]
@@ -974,7 +979,7 @@ class Convertor:
                 inputurl = 'private:stream'
             else:
                 if os.path.exists(inputfn):
-                    inputurl = unohelper.absolutize(self.cwd, unohelper.systemPathToFileUrl(inputfn))
+                    inputurl = unohelper.systemPathToFileUrl(os.path.abspath(inputfn))
                 else:
                     inputurl = inputfn
             document = self.desktop.loadComponentFromURL( inputurl , "_blank", 0, inputprops )
@@ -988,7 +993,7 @@ class Convertor:
                 if os.path.exists(op.template):
                     info(1, "Template file: %s" % op.template)
                     templateprops = UnoProps(OverwriteStyles=True)
-                    templateurl = unohelper.absolutize(self.cwd, unohelper.systemPathToFileUrl(op.template))
+                    templateurl = unohelper.systemPathToFileUrl(os.path.abspath(op.template))
                     document.StyleFamilies.loadStylesFromURL(templateurl, templateprops)
                 else:
                     print('unoconv: template file `%s\' does not exist.' % op.template, file=sys.stderr)
@@ -1128,7 +1133,7 @@ class Convertor:
                 else:
                     outputfn = realpath(inbase + os.extsep + outputfmt.extension)
 
-                outputurl = unohelper.absolutize( self.cwd, unohelper.systemPathToFileUrl(outputfn) )
+                outputurl = unohelper.systemPathToFileUrl(os.path.abspath(outputfn))
 
             info(1, "Output file: %s" % outputurl)
 
@@ -1199,7 +1204,7 @@ class Listener:
             else:
                 info(1, "Existing %s listener found, nothing to do." % product.ooName)
                 return
-            if product.ooName != "LibreOffice" or LooseVersion(product.ooSetupVersion) <= LooseVersion('3.3'):
+            if product.ooName != "LibreOffice" or version_tuple(product.ooSetupVersion) <= version_tuple('3.3'):
                 cmd = [office.binary, "-headless", "-invisible", "-nocrashreport", "-nodefault", "-nologo", "-nofirststartwizard", "-norestore", "-accept=%s" % op.connection]
             else:
                 cmd = [office.binary, "--headless", "--invisible", "--nocrashreport", "--nodefault", "--nologo", "--nofirststartwizard", "--norestore", "--accept=%s" % op.connection]

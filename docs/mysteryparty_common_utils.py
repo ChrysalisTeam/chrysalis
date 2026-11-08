@@ -1,4 +1,4 @@
-import textwrap, os, re
+import textwrap, os, re, subprocess, sys
 import time
 
 
@@ -89,12 +89,13 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
     for idx, (basename, pages_count) in enumerate(clues_parts):
         prefix = ""  # or ("%02d_" % idx) if debugging needed
         output_pdf = os.path.join(output_dir, prefix + basename + ".pdf")
-        variables = dict(input=input_doc,
+        variables = dict(python_exe=sys.executable,
+                         input=input_doc,
                          output=output_pdf,
                          page_range='%s-%s' % (current_page, current_page + pages_count - 1))
-        cmd = 'python unoconv.py -f pdf -o "%(output)s" -e PageRange=%(page_range)s "%(input)s"' % variables
+        cmd = '"%(python_exe)s" unoconv.py -f pdf -o "%(output)s" -e PageRange=%(page_range)s "%(input)s"' % variables
         print(cmd)
-        os.system(cmd)
+        subprocess.call(cmd)
 
         # IMPORTANT - remove GAMEMASTER ANNOTATIONS from PDF file
         # BEWARE, this seems to CORRUPT a bit the PDF, find a better REGEX someday

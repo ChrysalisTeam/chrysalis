@@ -10,12 +10,12 @@ Rapports de Surveillance du Manoir
 
 {{ report_time }}
 
-{{ report_data.surveillance_analysis|indent(width=4, indentfirst=True) }}
+{{ report_data.surveillance_analysis|indent(width=4, first=True) }}
 
 {% if report_data.gamemaster_hints %}
     .. container:: gamemaster-hints
 
-{{ report_data.gamemaster_hints|indent(width=8, indentfirst=True) }}
+{{ report_data.gamemaster_hints|indent(width=8, first=True) }}
 {% endif %}
 
 {% endfor %}
