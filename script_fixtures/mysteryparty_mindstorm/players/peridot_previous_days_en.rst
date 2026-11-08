@@ -5,7 +5,7 @@
 
 {% macro peridot_and_topaz_lg_encounter() %}
 
-Your investigation had been stalling for a few days, and you were about to go for a drink at the local pub to see whether inspiration would strike, when Loyd Georges offers you a one-to-one interview, announcing that he has "important information" to share with you. That is beyond your hopes.
+Your investigation had been stalling for a few days, and you were about to go for a drink at the local pub to see whether inspiration would strike, when Loyd Georges offers you a one-to-one interview, announcing that he has "important information" to share with you. This is more than you could have hoped for.
 
 As your colleague – or rather, his cover – has also been invited to an interview on his side, you decide to show up together, building a story of friendship "à la Orestes and Pylades" between you; these ancient mythologies are, after all, very fashionable among the elites of Sabarim. **You therefore go to your host's for {% symbol "15:00" for "lg_meeting_time_for_peridot_topaz" %}.**
 

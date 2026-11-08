@@ -6,7 +6,7 @@ Your abilities
 
 <{ diakon_sheet_intro }/>
 
-But your vocation soon imposed itself on you: Exorcist, that is, the one who knows the world of spirits and its rules, and has various rituals at his disposal to counter it.
+But your vocation soon imposed itself on you: Exorcist, that is, one who knows the world of spirits and its rules, and has various rituals for countering it.
 
 Refer to **the article in the appendix** for a detailed description of the world of the dead; knowledge that you will be able to teach theatrically to your allies during the game, when the subject comes up.
 
@@ -101,7 +101,7 @@ Ritual:
 - Proclaim this incantation on a loop: **"By the victorious sun, By the power of the heavens, Portals, vanish"** for at least **30 seconds**
 - It is important to remain perfectly **still** during the incantation, otherwise the pentacle may be destabilised (it briefly goes out) and this delays the completion of the ritual
 
-Beware, this exorcism only works smoothly if all the entities that came into this world through one of the corridors present have **returned** to their world, or failing that are placed **inside** the pentacle. Otherwise, the ritualist will meet with mystical resistance, and the invocation will not be resolved after the usual time. If the officiant then continues his invocation for **a further 30 seconds**, this will force the completion of the ritual, but with the dramatic consequence of **"killing"** the said otherworld entities still present; whatever that means in concrete terms, so unnatural is this situation.
+Beware, this exorcism only works smoothly if all the entities that came into this world through one of the corridors present have **returned** to their world, or failing that are placed **inside** the pentacle. Otherwise, the ritualist will meet with mystical resistance, and the invocation will not be resolved after the usual time. If the officiant then continues the invocation for **a further 30 seconds**, this will force the completion of the ritual, but with the dramatic consequence of **"killing"** the said otherworld entities still present; whatever that means in concrete terms, so unnatural is this situation.
 {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
 {# WRONG Note that it is possible, in a single invocation, to break several otherworld corridors at once, but to do so the objects linked to each of these corridors must be placed in the pentacle, and above all there must be as many Diakons taking part in the ritual gestures and incantations as there are corridors to close.

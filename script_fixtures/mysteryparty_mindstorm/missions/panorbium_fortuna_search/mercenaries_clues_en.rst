@@ -14,7 +14,7 @@ Then he took an airship from the aerodrome of the private company *Septième Cie
 
 **Report from your informants in Alifir**
 
-No trace seen of this "Ernest De Villeneuve" for months, at the Alifir Academy.
+No sign of this "Ernest De Villeneuve" at the Alifir Academy for months.
 
 
 **Report from your informants in Salima**

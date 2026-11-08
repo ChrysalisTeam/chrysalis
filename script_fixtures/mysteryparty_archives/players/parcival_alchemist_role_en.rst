@@ -15,10 +15,10 @@ The ingredients you own
 
 {# see https://harrypotter.fandom.com/fr/wiki/Cat%C3%A9gorie:Ingr%C3%A9dients_de_potions and https://sain-et-naturel.ouest-france.fr/voici-liste-plantes-medicinales.html#}
 
-**At the family home**: Lady's mantle, Armadillo bile, Lacewing, Scarlet mushroom, Foxglove, Essence of hemlock, Ether, Bat liver, Houseleek, Lovage, Mandrake, Newt's eye, Moonstone, Polygonum, Lightning dew, Salamander blood, Poison sumac, Barbaquin rye, Tarantula venom.
+**At the family home**: Lady's mantle, Armadillo bile, Lacewing, Scarlet mushroom, Foxglove, Essence of hemlock, Ether, Bat liver, Houseleek, Lovage, Mandrake, Eye of newt, Moonstone, Polygonum, Lightning dew, Salamander blood, Poison sumac, Barbaquin rye, Tarantula venom.
 {% fact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredients_for_clarity_lotion_recipe" %}
 
-**On you during your expedition**, enough vials for all purposes of:
+**On you during your expedition**, vials of the following, in sufficient quantity for any use:
 
 - Chrysanthrope juice
 - Essence of sulphur
@@ -97,4 +97,4 @@ Some additional information
 
 You have heard that certain very esoteric alchemy laboratories had an animated grimoire that could guide one towards recipes whose exact name is known. {% fact "parcival_alchemist_knows_about_frequency_scanner_book" %}
 
-You still struggle with the ancient names found in certain grimoires; you have sometimes searched in vain for ingredients, before realising that you already had them, under another name. Fortunately, herbalists and gemmologists have often unblocked your research. {% fact "druid_known_about_plants_and_gems" %}
+You still struggle with the ancient names found in certain grimoires; you have sometimes searched in vain for ingredients, before realising that you already had them, under another name. Fortunately, herbalists and gemmologists have often got your research unstuck. {% fact "druid_known_about_plants_and_gems" %}

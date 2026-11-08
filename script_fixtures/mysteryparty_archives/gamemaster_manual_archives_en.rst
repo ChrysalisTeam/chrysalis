@@ -19,7 +19,7 @@ Plunge into this den of art and magic, and break the curse that holds souls pris
 Detailed concept
 =====================
 
-Several groups of adventurers have infiltrated an abandoned underground library, and find themselves trapped there by a mysterious power. At nightfall, the place comes to life, and fills with a multitude of beings, more or less benevolent, more or less enigmatic. Who are these strange characters, captives of the place as well - some ghostly, others on the contrary far too alive?
+Several groups of adventurers have infiltrated an abandoned underground library, and find themselves trapped there by a mysterious power. At nightfall, the place comes to life, and fills with a multitude of beings, more or less benevolent, more or less enigmatic. Who are these strange characters, captives of the place as well - some phantom-like, others on the contrary far too alive?
 
 This mystery evening puts the emphasis on a slightly unsettling, but above all bewitching atmosphere, in the manner of Pan's Labyrinth, Spirited Away, or Alice in Wonderland. Other possible references: Night at the Museum, the Vatican secret archives, the Cthulhu mythos... For costumes, the aesthetic is mainly somewhere between steampunk and occultism.
 
@@ -51,7 +51,7 @@ Under the influence of the magic saturating the place, and of Octave's insistent
 The child and his new friends met at least one day each week in the library, to feast, play, build automatons, and learn a great many things about the rules governing each of the universes represented.
 The Archivist soon discovered them, but had little choice but to accept the situation, while forbidding the Avatars to leave the library.
 
-A few months later came the next **{% symbol "winter solstice" for "astral_opening_date" %}**. **The Arkon (paladin-exorcist) {% symbol "Valerias" for "arkon_name" %}**, of the Yodic religion (and more specifically of the Mithraite confession), who resided in the **{% symbol "Rochesombre Monastery" for "common_monastery_name" %}**, sensed the presence of non-human souls. He infiltrated the secret library, and confronted the Archivist and the child, who were preparing to leave it.
+A few months later came the next **{% symbol "winter solstice" for "astral_opening_date" %}**. **The Arkon (paladin-exorcist) {% symbol "Valerias" for "arkon_name" %}**, of the Yodic religion (and more specifically of the Mithraite denomination), who resided in the **{% symbol "Rochesombre Monastery" for "common_monastery_name" %}**, sensed the presence of non-human souls. He infiltrated the secret library, and confronted the Archivist and the child, who were preparing to leave it.
 
 These two finally agreed to stop putting humanity at risk with an unnatural mixing of the worlds, and to let the Arkon banish the Avatars from Earth for good; in return, the Arkon would take {% symbol "Octave" for "maupertuis_son" %} and the Archivist with him, to safety, in a welcoming country.
 
@@ -69,7 +69,7 @@ When they came back to the library to find out what had happened, they found the
 
 Grief-stricken, these remaining Avatars created a makeshift **graveyard** for the remains of the deceased. They **argued fiercely** over what place to give the Arkon's bones, for while the Druid held him responsible for the massacre, the Duchess and the Inventor thought it could have been an accident, or the doing of some other entity. Giving the benefit of the doubt, they finally left all the remains together in the graveyard.
 
-The Avatars then investigated the whole of the library's authorised floor, but in vain, as they lacked too much knowledge of this world's magic. They found only a few fake books and locked caskets, which they were unable to open. The passage to the Forbidden Domain, for its part, was still blocked by the age-old spell of the Maupertuis. And there was no way to reach the surface, even at a following {% symbol "winter solstice" for "astral_opening_date" %}. {% hint "beast_snack_as_moon_stones" is needed %}
+The Avatars then investigated the whole of the library's authorised floor, but in vain, as they knew far too little about this world's magic. They found only a few fake books and locked caskets, which they were unable to open. The passage to the Forbidden Domain, for its part, was still blocked by the age-old spell of the Maupertuis. And there was no way to reach the surface, even at a later {% symbol "winter solstice" for "astral_opening_date" %}. {% hint "beast_snack_as_moon_stones" is needed %}
 
 The Duchess, in her own world, received from a soothsayer the revelation that the recently deceased were still prisoners of the library in the form of phantoms, but that on a forthcoming anniversary of the tragic event, this curse would be broken. Since then, every year, the Avatars gather for an **{% symbol "Otherworld Banquet" for "banquet_name" %}** in honour of the Maupertuis, awaiting the fulfilment of this crucial prophecy.
 
@@ -82,7 +82,7 @@ Plot background (SPOILER)
 
 One of the Avatars, the Druid with superhuman powers, had in fact become the great villain in his own universe; the child did not know this, having never found the last volume of the series. This former hero, wishing to take control of this universe as well, came back through said Volume, murdered the living during the ritual, then feigned surprise before the remaining imaginary characters, who came back later to find out what had happened.
 
-Realising the scourge that threatened the world of humans, the Arkon had nevertheless managed, with his dying breath, to cast a spell on the traitor; a spell that trapped the entire library in a "black hole" of the spirit world: whether one is a real human or an imaginary character, one could henceforth enter it, but not leave, for as long as the traitor remained "alive". The three humans thus remained trapped as phantoms (spectres embodying themselves at times) in this place; as did the novel characters, who can however still come and go between the underground library and their own literary world.
+Realising the scourge that threatened the world of humans, the Arkon had nevertheless managed, with his dying breath, to cast a spell on the traitor; a spell that trapped the entire library in a "black hole" of the spirit world: whether one is a real human or an imaginary character, one could henceforth enter it, but not leave, for as long as the traitor remained "alive". The three humans thus remained trapped as phantoms (spectres becoming embodied at times) in this place; as did the novel characters, who can however still come and go between the underground library and their own literary world.
 
 Besides their own objectives, the players must therefore learn the difference between these various types of protagonists, and find a way to unmask and destroy the traitor, in order to bring the curse to completion and free the wandering souls.
 
@@ -170,7 +170,7 @@ The robots see the living and the Avatars, but NOT the phantoms. They are visibl
 They are generally slow and rigid in their movements. But they have **immense physical strength**, and can therefore move ULTRA-HEAVY objects on request. In a brawl, they would easily win against a human.
 
 They are vulnerable to physical and magical attacks (except poisons, of course), but not to sacred attacks (e.g. from phantoms).
-More precisely, they fear explosives and sword blows, but projectiles (bullets or arrows) only a little.
+More precisely, they fear explosives and sword blows, but have little to fear from projectiles (bullets or arrows).
 
 Possible typical roles (an automaton may switch roles during the game):
 
@@ -249,7 +249,7 @@ The Parcival family
 
 These 3 brothers and sisters are the distant descendants of Mérédice de Maupertuis, Octave's sister, whom everyone believed to have died with her family, but who had in fact managed to escape and rebuild her life.
 
-These Parcivals read in the autobiography of their ancestor Mérédice how her parents, healer-mages, had cured her of a great hereditary illness, marbled degeneration, thanks to a "{% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %}". When their shared little sister fell ill in turn (she has only a few weeks left to live), they set out in search of the remedy, and their investigation led them to the buried archives of the former family estate.
+These Parcivals read in the autobiography of their ancestor Mérédice how her parents, healer-mages, had cured her of a great hereditary illness, marbled degeneration, thanks to a "{% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %}". When their little sister fell ill in turn (she has only a few weeks left to live), they set out in search of the remedy, and their investigation led them to the buried archives of the former family estate.
 
 Their abilities are oriented towards nature and magic.
 
@@ -269,7 +269,7 @@ The Diakons of {% symbol "Bahamoot" for "god_of_diakons" %}
 
 These 3 monks officiate for the cult of the god {% symbol "Bahamoot" for "god_of_diakons" %}, which is deeply rooted in the region. The oracle of their monastery sensed that a soul drunk with hatred was in the ruins of the Maupertuis manor (this is the Beast), as well as wandering souls (the phantoms). They therefore go there to solve the problems, and protect the order of things.
 
-{# **They also have orders to magically destroy the 3 "malefic" books contained in the Maupertuis Forbidden Domain, for fear that they fall into the wrong hands (the library cannot simply be burnt). ?** NOPE #}
+{# **They also have orders to magically destroy the 3 "malefic" books contained in the Maupertuis Forbidden Domain, for fear that they fall into the wrong hands (the library cannot simply be burnt)?** NOPE #}
 
 Their abilities are oriented towards theology and esotericism.
 
@@ -280,7 +280,7 @@ Unless specifically instructed otherwise, during rituals and processions, the Di
 
 During rituals, they like to **proclaim their invocations loudly**, with emphasis.
 
-Their motto is **"The dragon is our guide"**, to be professed with hands joined in prayer, here again.
+Their motto is **"The dragon is our guide"**, to be professed with hands joined in prayer, once again.
 
 {% endmacro %}
 <{ diakon_group_symbols }/>
@@ -288,7 +288,7 @@ Their motto is **"The dragon is our guide"**, to be professed with hands joined 
 The Mirandian secret agents
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The autonomous island of Mirandia, and its strategic position at the centre of the Diorian Ocean, have attracted the covetousness of its neighbours. Trapped by economic plots, hopelessly in debt, the island is about to be annexed and sold to the highest bidder.
+The autonomous island of Mirandia, and its strategic position at the centre of the Diorian Ocean, have aroused the greed of its neighbours. Trapped by economic plots, hopelessly in debt, the island is about to be annexed and sold to the highest bidder.
 
 These 3 state agents have therefore moved heaven and earth to find the mythical (and "dangerous") treasure of the Maupertuis family, and thus save their homeland from bankruptcy.
 
@@ -342,7 +342,7 @@ Octave de Maupertuis (the child)
 
 - Wise and somewhat learned, but has very little knowledge of magic.
 
-- He mainly taught Octave his humanities (sciences, letters...), leaving it to the parents to pass on their heritage as mages.
+- He mainly taught Octave the humanities (sciences, letters...), leaving it to the parents to pass on their heritage as mages.
 
 - He took advantage of their initial confinement in the library, following the sacking of the manor, to take on the role of archivist, and begin sorting the authorised floor. He simply took care not to handle the suspicious-looking grimoires. {% fact "archivist_began_cataloging_books" %}
 
@@ -360,7 +360,7 @@ Octave de Maupertuis (the child)
 <{ phantom_archivist_character_summary }/>
 
 {# MEH
-**Weakness towards villains: adores books: will do anything asked of him if a book is threatened**
+**Weakness when facing villains: adores books: will do anything asked of him if a book is threatened**
 **No longer knows how the library is arranged,**
 **Can find the boy's borrowing record: this record lists the NPCs' books, in particular the volumes the villain comes from.**
 #}
@@ -380,7 +380,7 @@ The Arkon {% symbol "Valerias" for "arkon_name" %} (the legendary paladin-exorci
 
 - Both full of hope at seeing adventurers here, and at the same time worried that they will all end up, through his fault, dead and locked in like the others.
 
-- Somewhat disillusioned to see that the pagan cult of the god {% symbol "Bahamoot" for "god_of_diakons" %} has finally replaced his own (the Yodic cult of the Mithraite confession), in the monastery on the surface
+- Somewhat disillusioned to see that the pagan cult of the god {% symbol "Bahamoot" for "god_of_diakons" %} has ended up replacing his own (the Yodic cult of the Mithraite denomination), in the monastery on the surface
 
 - Demands to be able to make his "{% symbol "mission confession" for "arkon_mission_confession" %}" to a prelate of the Yodic religion, and only in that case does he reveal everything he knows about the situation; only helps the players he trusts to carry out his mission of protecting humanity (and who are not simply going to lift the library's confinement, thereby destroying his efforts)
 
@@ -395,13 +395,13 @@ The Thief {% symbol "Fedore Pass'muraille" for "thief_name" %}
 
 - PHANTOM
 
-- Traits: greed, cunning, glibness, incredulity, defiance, alcoholism, vanity
+- Traits: greed, cunning, glibness, incredulity, distrust, alcoholism, vanity
 
-- Story: 60 years after the curse fell upon the library, he infiltrated it, hoping to plunder its secrets; in particular the legendary **Maupertuis treasure**, and the mysterious **{% symbol "Fount of Knowledge" for "link_to_djinn_world" %}**. On the way, he picked up **only the gladius** of the Arkon. {% fact "arkon_bag_disappeared_just_after_his_death" %} He managed to bypass the magic barrier blocking access to the Forbidden Domain, thanks to a **{% symbol 'teleportation astrolabe' for 'thief_teleportation_device_name' %}** (retrievable from his remains). But he was killed by surprise by the Beast - still alive at that time - which guarded the place. {% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
+- Story: 60 years after the curse fell upon the library, he infiltrated it, hoping to plunder its secrets; in particular the legendary **Maupertuis treasure**, and the mysterious **{% symbol "Fount of Knowledge" for "link_to_djinn_world" %}**. On the way, he picked up **only the Arkon's gladius**. {% fact "arkon_bag_disappeared_just_after_his_death" %} He managed to bypass the magic barrier blocking access to the Forbidden Domain, thanks to a **{% symbol 'teleportation astrolabe' for 'thief_teleportation_device_name' %}** (retrievable from his remains). But he was taken by surprise and killed by the Beast - still alive at that time - which guarded the place. {% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
 
-- The Thief is initially unaware that he is dead; he merely believes himself **trapped** in his little area (near the Beast's den) by the masters of the place. He therefore calls out to the players to **free** him from his anchoring, and to help him recover the equipment that someone *odiously* stole from him. This can give rise to a negotiation, quid pro quo.
+- The Thief is initially unaware that he is dead; he merely believes himself **trapped** in his little area (near the Beast's den) by the masters of the place. He therefore calls out to the players to **free** him from his anchoring, and to help him recover the equipment that someone *odiously* stole from him. This can give rise to a give-and-take negotiation.
 
-- He continues to desire only material riches, which he can alas no longer take in hand despite his attempts. Even if the players swear a "{% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}" to convince him that he is dead and that his priorities are illogical, he still shows doubts (perhaps these people have an immunity against the effects of this oath?).
+- He continues to desire only material riches, which, alas, he can no longer pick up despite his attempts. Even if the players swear a "{% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}" to convince him that he is dead and that his priorities are illogical, he still shows doubts (perhaps these people have an immunity against the effects of this oath?).
 
 - Following the Arkon's harangues, or even the Ankou's visits, he eventually realises that he is dead. But that changes nothing: after discussions with the players (some have information), he exults that the **"{% symbol "Pass'muraille Keep" for "thief_castle_name" %}"** has remained in his family ever since. He therefore glories in still being able to feed this pile of riches, even once dead, through his magic "{% symbol 'bottomless collection pouch' for 'thief_moneybox_name' %}". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %} {% fact "thief_heirs_still_benefit_from_his_treasure" %}
 
@@ -457,7 +457,7 @@ The Beast (the guardian ghoul of the Forbidden Domain)
 
 - Its species and characteristics must remain somewhat mysterious to the players, in order to heighten the anxiety, and force them to react quickly to find solutions when it appears.
 
-- **The Maupertuis parents, questioned from the afterlife, can give indications on how to neutralise it**
+- **The Maupertuis parents, questioned from the afterlife, can give pointers on how to neutralise it**
 
 {% endmacro %}
 <{ phantom_beast_character_summary }/>
@@ -583,7 +583,7 @@ Sacred attacks, on the other hand, typically arising from contact with phantoms 
 
 The distinction between these different types of injuries is not always obvious; for instance, the paralysis of a limb may be due to internal lesions just as much as to the attack of a spectre. Hence the need to investigate the circumstances that led to the observed disorders, in order to provide an appropriate remedy.
 
-A point of attention: just as "biological" injuries, even when healed, leave after-effects in the body, so "spiritual" injuries weaken the foundations of the soul.
+One point to note: just as "biological" injuries, even when healed, leave after-effects in the body, so "spiritual" injuries weaken the foundations of the soul.
 
 **Suffering two injuries in a row, of whatever nature, therefore almost certainly leads to death.** {% fact "second_injury_sustained_is_always_fatal" %}
 
@@ -618,17 +618,17 @@ The players are supposed to look among themselves for ways to heal, thanks to ma
 
 The players are, by themselves, very helpless in the face of the various injuries; they have NO abilities in this respect. {% fact "players_have_no_medecine_abilites" %}
 
-**Healing by Avatars**: Depending on their type, injuries can be healed by some of the Avatars present. The Avatars must first leave the player with his injuries for a few minutes, the time to "gather what is needed to heal him". Then they proceed with an operation or a ritual - **to be invented for the occasion**.
+**Healing by Avatars**: Depending on their type, injuries can be healed by some of the Avatars present. The Avatars must first leave the player with his injuries for a few minutes, long enough to "gather what is needed to heal him". Then they proceed with an operation or a ritual - **to be invented for the occasion**.
 
 {# NOPE FORGET THAT FOR NOW
-but beware, these interventions have **a 1 in 6 chance of failing dramatically** (then leading to the player's death - roll this with a die with the Game Master){ % fact "avatar_abilities_are_randomly_hazardous" % }.
+but beware, these interventions have **a 1 in 6 chance of failing dramatically** (then leading to the player's death - roll a die for it with the Game Master){ % fact "avatar_abilities_are_randomly_hazardous" % }.
 #}
 
 - The **Duchess** can invoke her own gods, with the help of the {% symbol "initiates" for "ritualist_kind_name" %} present, to repair a sacred injury (affecting the soul). {% fact "duchess_can_well_heal_sacred_injuries" %}
 - The **Druid** can use his **sea-blue blood**, with the help of the spirits of Nature, to heal all kinds of biological ailments. {% fact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% hint "blue_blood_for_druid_healings" is needed %}
 - The **Inventor** can cobble together a mechanical prosthesis to replace a lost limb. {% fact "inventor_can_well_heal_missing_limbs" %}
 
-**If a player dies, he becomes a phantom**; he is however constantly embodied, and immediately free in his movements, unlike the NPC phantoms. He nonetheless remains subject to the same barriers as all the protagonists ({% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} encircling the library, {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %} blocking access to the Forbidden Domain...). He can no longer handle objects (not even an abilities touch tablet), but he keeps the knowledge he has acquired. His phantom status allows him to access the trapped corridors and other places dangerous to the living without any problem.
+**If a player dies, he becomes a phantom**; he is however constantly embodied, and immediately free to move about, unlike the NPC phantoms. He nonetheless remains subject to the same barriers as all the protagonists ({% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} encircling the library, {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %} blocking access to the Forbidden Domain...). He can no longer handle objects (not even an abilities touch tablet), but he keeps the knowledge he has acquired. His phantom status allows him to access the trapped corridors and other places dangerous to the living without any problem.
 
 With the right ritual from the {% symbol "Thanatologue" for "book_of_the_dead" %} grimoire, it is possible to **resurrect a player** as a **zombie** for a few hours; the player then recovers all his capabilities, but he must adopt the posture and speech of an "old-fashioned zombie" (e.g. he speaks oddly, may stagger while walking, but cannot run...). {% fact "players_have_thanatologue_spell_to_summon_zombies" %}
 
@@ -644,7 +644,7 @@ Events that pace the game
 Briefings
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Before the game, briefings by group and then collective ones take place with the players.
+Before the game, group briefings and then a collective briefing take place with the players.
 *See the detailed schedule sheet on this subject.*
 
 
@@ -655,7 +655,7 @@ A speech by the Game Master introduces the start of the game.
 
 Each group is then led, by an automaton, to a different spot on the lower floor of the library, with introductory music.
 
-As a reminder, the library is holding its annual celebration today, as it has every year for 1000 years. The automatons (once designed by the Inventor and Octave) start to activate to organise this celebration; some may initially be "switched off", seated or on the floor, waiting for the Inventor Avatar to turn them on.
+As a reminder, the library is holding its annual celebration today, as it has every year for 1000 years. The automatons (once designed by the Inventor and Octave) start bustling about to organise this celebration; some may initially be "switched off", seated or on the floor, waiting for the Inventor Avatar to turn them on.
 
 At this point, the phantoms all move about in their disembodied form.
 
@@ -677,9 +677,9 @@ Once the music is over, players and heroes get better acquainted around the buff
 The first embodiment of the phantoms
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-After a while, the gong sounds; the tutor-archivist embodies himself, and calls the players to come to him. He is delighted to have visitors in this place - and perhaps, with them, a hope of resolving the curse. He answers the players' questions, and **tests their good intentions** with the "{% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}". He points out to them (again) the presence of the buffet, which for him **"activated on its own"** (as he cannot see the Avatars), on this anniversary date of the tragedy, as it does every 100 years
+After a while, the gong sounds; the tutor-archivist becomes embodied, and calls the players to come to him. He is delighted to have visitors in this place - and perhaps, with them, a hope of resolving the curse. He answers the players' questions, and **tests their good intentions** with the "{% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}". He points out to them (again) the presence of the buffet, which for him **"activated on its own"** (as he cannot see the Avatars), on this anniversary date of the tragedy, as it does every 100 years
 
-The other phantoms also embody themselves (preferably a little later), each at their anchor point further away from the banquet.
+The other phantoms also become embodied (preferably a little later), each at their anchor point further away from the banquet.
 
 
 The Spectral Bell frenzy
@@ -697,7 +697,7 @@ A player will probably ring the service bell, out of curiosity, early in the gam
 The Ankou's passage through the library
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The Ankou arrives by the stairs, and calls out to the players about the fact that they have no business being here, that he is not "the Beast", that he means them no harm, and finally that he is counting on them to help him solve the problem of these souls imprisoned in the place. He asks after his Spectral Bell, which must already have been stolen by the villain. Then he leaves.
+The Ankou arrives by the stairs, and calls out to the players, telling them that they have no business being here, that he is not "the Beast", that he means them no harm, and finally that he is counting on them to help him solve the problem of these souls imprisoned in the place. He asks after his Spectral Bell, which must already have been stolen by the villain. Then he leaves.
 
 {% endmacro %}
 <{ ankou_introduction_event }/>
@@ -741,7 +741,7 @@ Faced with this automaton:
 {% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
 {% hint "2_explosives_for_minesweeper" is needed %}
 
-Once the killer automaton has been neutralised, or (in the worst case) has run out of bullets and self-destructs, the players can gather from it the clues of its strange contamination.
+Once the killer automaton has been neutralised, or (in the worst case) has run out of bullets and self-destructs, the players can gather from it the clues to its strange contamination.
 {% hint "plants_around_head_of_automaton_hitman" is needed %}
 
 If the Druid is called upon to heal one of the automaton's two targets, he will naturally be **reluctant** to do so; but he will then have to choose between keeping a low profile and healing with his usual talent, or deliberately failing in his care, and then trying to justify it so as not to arouse too much suspicion.
@@ -761,7 +761,7 @@ The Magus's corpse lies stretched out there, in his golden papal alb.
 
 If a non-Parcival is part of the teleported group (see their identifying garments), this triggers a curse: the Magus's mummy rises, and chases (walking slowly, like a zombie) the intruder, who must dodge it until the teleporter lets him out, on pain of death. The mummy then returns to its place. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %} {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
 
-When there is no non-Parcival in the tomb, the mummy does not move at all, but its mere presence is enough to stress the players, while they pinch its legendary ornaments.
+When there is no non-Parcival in the tomb, the mummy does not move at all, but its mere presence is enough to unnerve the players, while they pinch its legendary ornaments.
 
 {% endmacro %}
 <{ magus_zombie_instructions }/>
@@ -789,7 +789,7 @@ The Archivist and the Arkon follow him solemnly.
 
 The Beast may potentially reappear just to escape too, in a comical way, as may the Thief.
 
-The automatons then guide the players to the library exit, before the apparition portals close until the next {% symbol "winter solstice" for "astral_opening_date" %}.
+The automatons then guide the players to the library exit, before the teleportation portals close until the next {% symbol "winter solstice" for "astral_opening_date" %}.
 
 Depending on whether or not the groups of players have made a commitment to the Arkon to protect/destroy the portals leading to this place, **this library will survive, or will self-destruct into the magma**, for lack of a magical link with the surface (it needs 2 of the 4 links so as not to collapse). {% fact "arkon_questions_groups_about_the future_of_maupertuis_archives" %}
 
@@ -832,7 +832,7 @@ Quests and puzzle trails
 OTHER IDEAS FOR ABILITIES AND PUZZLES
 
 - Add textual riddles to find words (see Enigma Battle on the Clivra forum)
-- Survival? Microfilms? QR Codes? Call to the knowledge exchange?
+- Survival? Microfilms? QR Codes? Call to the knowledge switchboard?
 - Restorer of erased texts (or that's redundant)? + gemmological analysis kit (meh)?
 - Various fairly distinctive caskets and books are scattered among the normal books of the library; they must be found and then, for each, the corresponding key or code must be found. TO BE SPECIFIED
 
@@ -863,18 +863,18 @@ Once the family symbol has been reproduced on the grimoire, a powerful sound is 
 Neutralise the Maupertuis Beast (useful to all)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-When the library was cursed, the Beast that guarded the Forbidden Domain was trapped there, even after dying of old age. Having become ghostly and embittered, it is more dangerous than ever.
+When the library was cursed, the Beast that guarded the Forbidden Domain was trapped there, even after dying of old age. Having turned into an embittered phantom, it is more dangerous than ever.
 
 The Beast attacks any living creature, and its attacks (hand-to-hand but "sacred") are quickly crippling and then lethal. It cannot see the characters from the books, and mostly ignores the phantoms, somewhat like a skittish dog. {% fact "beast_ignores_or_fears_other_phantoms" %}
 
-Once access to the Forbidden Domain (usually protected by a powerful {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %}) is open, the Beast is free to come out of it, and burst in among the players, if they do not take the initiative. Octave and the Archivist therefore encourage them to plan how to put it out of harm's way for good. {% fact "octave_and_archivist_warn_players_about_beast_dangerousness" %}
+Once access to the Forbidden Domain (usually protected by a powerful {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %}) is open, the Beast is free to come out of it, and burst in among the players, if they do not take the initiative. Octave and the Archivist therefore encourage them to plan how to render it harmless for good. {% fact "octave_and_archivist_warn_players_about_beast_dangerousness" %}
 
 To neutralise the Beast:
 
 - The Beast detects the living who are within 3 m, but sees very poorly beyond that. It is therefore possible to walk around the Forbidden Domain while carefully avoiding it, but this remains very dangerous.
    {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 
-- The Arkon had a {% symbol "Mithril armour" for "arkon_armor_name" %} fully protecting the wearer from "sacred" attacks, that is to say those of creatures belonging to the kingdom of the dead. The players can find it in the graveyard, and the **sturdiest** of them all can put it on, to stand up to the Beast's attacks. {% hint "arkon_sacred_armor" is needed %}
+- The Arkon had a suit of {% symbol "Mithril armour" for "arkon_armor_name" %} fully protecting the wearer from "sacred" attacks, that is to say those of creatures belonging to the kingdom of the dead. The players can find it in the graveyard, and the **sturdiest** of them all can put it on, to stand up to the Beast's attacks. {% hint "arkon_sacred_armor" is needed %}
 
 - **The Exorcist** can drive the Beast away for a while with one of his incantations, or on the contrary draw it towards him at a slow pace. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
@@ -885,7 +885,7 @@ To neutralise the Beast:
 - **The Invoker** knows a ritual capable of "freezing" an entity from the world of the dead for several days. He must draw the right pentacle, and make sure the Beast is lured onto it. Once this is done, the players are rid of it until the end of the game. {% fact "diakon_invoker_can_freeze_beast_for_days" %}
 
 {# NOT YET - movable walls could be shifted to cage the Beast #}
-{# NOPE - **The Alchemist** can find a potion capable of creating a {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %} for one day on a #}
+{# NOPE - **The Alchemist** can find a potion capable of creating an {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %} for one day on a #}
 
 
 
@@ -905,7 +905,7 @@ The remedy for marbled degeneration (Parcival family)
 
 - These first two potions only call for ingredients that are easily accessible in the Parcival family's country, so they do not need to be made on site. But the help of the **Druid** is needed to recognise the obsolete names that designate certain ingredients in these recipes (or else question the Maupertuis parents from the afterlife). {% fact "druid_known_about_plants_and_gems" %} {% fact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredients_for_clarity_lotion_recipe" %}
 
-- The last potion, the Pyrolitis Tincture, which can also be used for hexes, has its recipe in the **Forbidden Domain**, which must therefore first be unlocked. A **{% symbol "Tracker Grimoire" for "frequency_scanner_book_name" %}** (a bluetooth beacon scanner mobile app), which can be found on site in a chest, is used to locate recipes whose name is known, in this strange place (in addition, optionally, to the labels on the shelves). The Alchemist has heard of it. {% hint "radio_frequency_scanner_app_in_chest" is needed %} {% fact "parcival_alchemist_knows_about_frequency_scanner_book" %} {% hint "forbidden_zone_optional_labels_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
+- The last potion, the Pyrolitis Tincture, which can also be used for hexes, has its recipe in the **Forbidden Domain**, which must therefore first be unlocked. A **{% symbol "Tracker Grimoire" for "frequency_scanner_book_name" %}** (a Bluetooth beacon scanner mobile app), which can be found on site in a chest, is used to locate recipes whose name is known, in this strange place (in addition, optionally, to the labels on the shelves). The Alchemist has heard of it. {% hint "radio_frequency_scanner_app_in_chest" is needed %} {% fact "parcival_alchemist_knows_about_frequency_scanner_book" %} {% hint "forbidden_zone_optional_labels_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
 
 But the ingredients and the preparation method of this tincture are very complex, so one must make use of what had already been gathered by the Maupertuis family.
 
@@ -942,9 +942,9 @@ The code is made up of symbols spread across 4 (indestructible) Maupertuis jewel
 
 The various jewels:
 
-- The brooch of the mother of the family is on **Octave's grave**; he had worn it as a keepsake after finding it in the library; this brooch was almost all that remained in the child's ashes after the betrayal, so the Avatars laid it there as a sign of mourning. This object must guide the players in understanding the overall puzzle. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %} {% fact "octave_carried_mother_jewel_after_her_death" %}
+- The mother's brooch is on **Octave's grave**; he had worn it as a keepsake after finding it in the library; this brooch was almost all that remained in the child's ashes after the betrayal, so the Avatars laid it there as a sign of mourning. This object must guide the players in understanding the overall puzzle. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %} {% fact "octave_carried_mother_jewel_after_her_death" %}
 
-- The brooch of the father of the family is hidden in his key-protected magic book; this book was found by the heroes (who left a mark on the floor to point it out), but they did not know how to open it. The **magnetism and UV detectors** give a code, which is used to open ANOTHER magic book with a numeric code (also marked on the floor), which in turn contains the key to the first.
+- The father's brooch is hidden in his key-protected magic book; this book was found by the heroes (who left a mark on the floor to point it out), but they did not know how to open it. The **magnetism and UV detectors** give a code, which is used to open ANOTHER magic book with a numeric code (also marked on the floor), which in turn contains the key to the first.
   {% hint "maupertuis_father_jewel_in_twin_books" is needed %} {% hint "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
 
 - The brooch that was initially intended for Octave is in one of the N sealed mini-caskets, which are hidden in an initiation SEAL. This was a trial for Octave, who had to be able to "sense" the presence of the magic object before being entitled to it. The players must activate the seal, listen to the pre-recorded message of an automaton summarising the trial for them, then use the **metal detector** to guess which casket holds the object. Only a Maupertuis heir can actually trigger the resolution of this initiation. {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% fact "only_maupertuis_heirs_can_take_initiation" %} {% hint 'maupertuis_initiation_seal' is needed %} {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}  {# FIXME no more recorded message here, a letter instead!!! #}
@@ -969,7 +969,7 @@ The {% symbol "Thanatologue" for "book_of_the_dead" %} (Heliossarian explorers)
 
 One of the rare copies of this mythical (and controversial) work has been kept by the Maupertuis lineage, in the "legendary chest" located in the **Forbidden Domain** - which Octave or the Archivist should point out to the explorer-archaeologists after checking their good will. For the safety of the world, both Maupertuis parents had to contribute their secret code to unlock this chest. {% hint "family_legendary_chest_protected_by_double_code" is needed %} {% fact "octave_and_archivist_know_about_thanatologue_location_and_double_code" %}
 
-- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis had a poor memory**, he kept his codes in his personal notebook. This is in one of his fake books (see above for how to open it). The secret code sought is in the form of a **square anamorphosis**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book" is needed %}
+- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis had a poor memory**, he kept his codes in his personal notebook. The notebook is in one of his fake books (see above for how to open it). The secret code sought is in the form of a **square anamorphosis**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book" is needed %}
   It is **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**. {% fact "dead_quirinius_does_not_remember_thanatologue_chest_code" %}
 
 - **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis hardly ever wrote anything down and memorised everything**, so she must be questioned from the afterlife to obtain her code. This is done by sending a message through the Ankou (and therefore through the **Invoker**). Alternatively, the **Thief** knows this code (which Octave's mother had also used for other caskets), and sells it very dearly; it can also be found in the Thief's wallet (lying in the Beast's den). {% fact "dead_isadora_remembers_thanatologue_chest_code" %} {% hint 'defunct_isadora_code_for_thanatologue_chest_code' is needed %} {% fact "diakon_invoker_can_message_ankou" %} {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
@@ -988,7 +988,7 @@ One of the rare copies of this mythical (and controversial) work has been kept b
 
 - The Arkon remembers this symbol, which is among other things that of the legendary **{% symbol "Amplificans Ring" for "ring_amplificans_name" %}**, which is said to have belonged to the founder of the Maupertuis lineage, the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}, but disappeared upon his death. He advises looking for traces of this in said Magus's tomb. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
-- An ultra-powerful magic barrier blocks access to the Magus's Tomb, even though phantoms can bypass it; the only way to get in as a living person is clearly to teleport there. {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %} {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
+- An ultra-powerful magic barrier blocks access to the Magus's tomb, even though phantoms can bypass it; the only way to get in as a living person is clearly to teleport there. {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %} {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
 
 - The powerful {% symbol 'teleportation astrolabe' for 'thief_teleportation_device_name' %} belonging to the Thief is on his remains, which are cursed because he "died in vice". {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device_in_beast_nest' is needed %}
 
@@ -1040,7 +1040,7 @@ Typically, the Duchess will then go and confront the Druid, to intense music. {%
 
 He then changes his stance, owns up to his crime in the name of the Salvation of Pangea, and reminds everyone that he is far more powerful than all the participants put together. He therefore demands that everyone help him break the library curse, in exchange for their lives being spared in his future Haven of Nature.
 
-He urges the players to hurry: he has all the time in the world, and now that he has access to the grimoires of the Forbidden Domain, he will eventually discover how to use this world's magic and break the library curse; but they have urgent missions to accomplish and must get out before the apparition portals close, in a few hours' time.
+He urges the players to hurry: he has all the time in the world, and now that he has access to the grimoires of the Forbidden Domain, he will eventually discover how to use this world's magic and break the library curse; but they have urgent missions to accomplish and must get out before the teleportation portals close, in a few hours' time.
 
 The Druid warns that he will no longer move away from the pentacle of the Arkon's ritual, so that no one attempts to forcibly send him back to his world; and that he would sense it if another similar pentacle were created in the vicinity.
 
@@ -1057,7 +1057,7 @@ But there are certain ways of getting at him:
 - Either bewitch a crossbow dart so that it becomes **unavoidably lethal**; this is a dark spell from the Thanatologue, the {% symbol "Sacrifice of Zarathustra" for "unavoidable_bullet_spell_name" %}, which requires the voluntary death of **three players** to create a "weapon that does not forgive". {% hint "unavoidable_bullet_spell_from_thanatologue" is needed %}
   The Alchemist can recreate darts thanks to a recipe found in the Forbidden Domain. {% fact "parcival_alchemist_can_create_iridium_arrows" %} {% hint "arrow_recipe_for_alchemist" is needed %}
 
-- Or the most effective way: make a ritualist invulnerable to physical, toxic and magical attacks, then send him to massively destroy the otherworld corridors thanks to one of his **rituals**, thereby walling the Avatars up in their respective worlds. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
+- Or the most effective way: make a ritualist invulnerable to physical, toxic and magical attacks, then send him to destroy the otherworld corridors en masse thanks to one of his **rituals**, thereby walling the Avatars up in their respective worlds. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
 A holographic prophecy detailing this "invulnerable Diakon" procedure and its limits can be triggered by activating, with a Lotion of Revelation, one of the horrific portraits hanging on the wall; a recognisable portrait, as it reacts to the metal detector (the player who owns this tool has information about this).
 {% hint "scary_lenticular_painting_with_metal_in_it" is needed %}
@@ -1076,9 +1076,9 @@ Here is the "optimal" course of this final battle using an expulsion ritual:
 
 - When the Exorcist begins his ritual, the Druid is at first confused, then, understanding what is happening, he attacks him by various means, but in vain.
 
-- In desperation, the Druid will use the {% symbol "Spectral Bell" for "table_bell_name" %} to rally the spectres and thus endanger the ritualist; the latter does not have the build to don the Arkon's {% symbol "Mithril armour" for "arkon_armor_name" %} (which contains the {% symbol "Etheric Necklace of Blessing" for "etheric_benediction_necklace_name" %}), and thus protect himself from the spectres. {% fact "druid_finally_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} It is up to the other players to push back the spectres (with said Arkon's armour, with exorcisms...), without getting attacked by the Druid themselves.
+- In desperation, the Druid will use the {% symbol "Spectral Bell" for "table_bell_name" %} to rally the spectres and thus endanger the ritualist; the latter does not have the build to don the Arkon's {% symbol "Mithril armour" for "arkon_armor_name" %} (which contains the {% symbol "Etheric Necklace of Blessing" for "etheric_benediction_necklace_name" %}), and thus protect himself from the spectres. {% fact "druid_finally_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} It is up to the other players to push back the spectres (with said Arkon's armour, with exorcisms...), without themselves getting attacked by the Druid.
 
-- Once the ritual is complete, the Druid is as if wounded; the Arkon then steps in to proclaim victory, and calls all the Diakons around him for a few final repetitions of the ritual incantation. He can break away from them at the end to proclaim: **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**, authoritatively pointing out the centre of the pentacle to his adversary. The Druid is then drawn to the pentacle and dies there (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres).
+- Once the ritual is complete, the Druid appears wounded; the Arkon then steps in to proclaim victory, and calls all the Diakons around him for a few final repetitions of the ritual incantation. He can break away from them at the end to proclaim: **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**, authoritatively pointing out the centre of the pentacle to his adversary. The Druid is then drawn to the pentacle and dies there (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres).
 
 - If the Diakon abandons the ritual for any reason, the Druid may "make an example" by killing one of the players, then repeats his orders to the survivors.
 
@@ -1104,7 +1104,7 @@ It is only once the final battle plan is well established, or the villain alread
 If a player attempts to forcibly send back the "good" Avatars, this will certainly cause a fair amount of chaos among the NPC actors as well as the players.
 
 
-Prematurely removing the library's {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} (trap)
+Remove the library's {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} prematurely (trap)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 The library's Enclosure can be removed prematurely by a ritual known to the Diakons, which requires the cooperation of at least **{% symbol "3 / 5 of the living" for "library_cursed_enclosure_opening_quota" %}** present, as well as **ingredients** easily accessible in the alchemist's workshop of the Forbidden Domain. {% fact "diakon_invoker_can_break_cursed_enclosure" %} But if this curse is destroyed in this way, the traitor escapes from the library, and it is a failure for everyone, as described above.
@@ -1201,7 +1201,7 @@ They absolutely must find a source of wealth to save their country from bankrupt
 Heliossarian explorer-archaeologists
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-They are seeking a cursed grimoire, in order to see through and counter a horde of invaders.
+They are seeking a cursed grimoire, in order to see through the schemes of a horde of invaders and counter them.
 
 - Runologist: knows how to translate Akarith runes and recognise various secret codes; owns a magnifying glass and a stethoscope
 - Unveiler: knows how to read invisible inks, and scientifically analyse objects
@@ -1246,7 +1246,7 @@ The Arkon Zarathustra is said to be at the origin of this very powerful planetar
 
 On Pangea, anyone who swears something **"By the {% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}"** is bound by the Heavens to honour their commitment, whatever their own beliefs.
 
-In practice, any perjury will quickly be sanctioned by a painful punishment, ranging from infirmity to death, depending on the gravity of the lie. Furthermore, the forces of destiny would combine to fulfil the betrayed promise, in place of its author. Thus, when an eastern knight swore by Zarathustra that he would destroy a malefic well, but went back on his promise, legend has it that not only did he lose an arm in the following battle, but also that oxen left their path to dismantle the well themselves.
+In practice, any perjury will quickly be met with a painful punishment, ranging from infirmity to death, depending on the gravity of the lie. Furthermore, the forces of destiny would combine to fulfil the betrayed promise, in place of its author. Thus, when an eastern knight swore by Zarathustra that he would destroy a malefic well, but went back on his promise, legend has it that not only did he lose an arm in the following battle, but also that oxen left their path to dismantle the well themselves.
 
 Though some people still play the sceptic on this subject, in practice there is no longer a single person who would risk abusing this oath; and except in a few serious cases, people usually prefer to swear on someone's head or on their own honour, which does not commit them to much.
 
@@ -1294,19 +1294,19 @@ The {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}
 
 This Magus lived {% symbol "3 centuries" for "mages_war_before_curse_timedelta" %} before the library curse, during the {% symbol "War of the Thirty Sorcerers" for "mages_war_name" %}.
 
-A formidable mage, alchemist and duellist, he defeated all his adversaries. Legend has it that he was invulnerable to magic spells, and could make rain or hail fall on entire cities, when his invoker adversaries never affected more than a few ares of ground at a time.
+A formidable mage, alchemist and duellist, he defeated all his adversaries. Legend has it that he was invulnerable to magic spells, and could make rain or hail fall on entire cities, whereas his invoker adversaries never affected more than a few ares of ground at a time.
 
-To avoid any poisoning, he had learnt to generate food himself from mere rocks; a knowledge that has remained among his descendants in the form of a magic banquet table, located in the library, which transmutes food on its own from the surrounding rocks. {% fact "buffet_table_magically_generates_food" %}
+To avoid any poisoning, he had learnt to generate food himself from mere rocks; knowledge that has survived among his descendants in the form of a magic banquet table, located in the library, which transmutes food on its own from the surrounding rocks. {% fact "buffet_table_magically_generates_food" %}
 
-He created the Maupertuis family castle, the buried library, as well as the network of apparition portals linking it to the domains of his vassals.
+He created the Maupertuis family castle, the buried library, as well as the network of teleportation portals linking it to the domains of his vassals.
 
 He died suddenly during great festivities, as he approached the age of 50, choking on a peach stone. He had not yet passed on his most important secrets to his heirs.
 
 His relatives buried him hastily in a room adjoining the library, in his festive robe, without daring to risk triggering some curse by laying out his body. In particular, as proud as he was of his lineage, the Magus was equally **hateful** towards the "rabble" uninitiated in the magical arts, and legend has it that his grave still resonates with this feeling. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
-Since then, each generation of Maupertuis adds its own layer of protections to his tomb, so that no **stranger** ever violates the burial place of this venerable forefather, nor any of the dangerous mysteries he took with him to the grave. To this day, no guild of mages on the planet would probably be capable of breaking so many accumulated bewitchments. But perhaps it is possible to get in by roundabout means, who knows? {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}
+Since then, each generation of Maupertuis has added its own layer of protections to his tomb, so that no **stranger** ever violates the burial place of this venerable forefather, nor any of the dangerous mysteries he took with him to the grave. To this day, no guild of mages on the planet would probably be capable of breaking so many accumulated bewitchments. But perhaps it is possible to get in by roundabout means, who knows? {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}
 
-*Note: once freed from their anchoring, the phantoms CAN enter the tomb by passing through the walls surrounding it, which are not themselves protected by a {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %} nor excluded from the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} surrounding the entire library. They can therefore bring back some information about the contents of the tomb.* {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
+*Note: once freed from their anchoring, the phantoms CAN enter the tomb by passing through the walls surrounding it, which are not themselves protected by an {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %} nor excluded from the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} surrounding the entire library. They can therefore bring back some information about the contents of the tomb.* {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
 
 
 The etheric necklaces
@@ -1342,7 +1342,7 @@ The Maupertuis Forbidden Domain, a floor of the library filled with dangerous se
 
 At the time of the library curse, one guard monster remained, nicknamed "the Beast", in the Forbidden Domain; it probably met a grim fate (the phantoms sometimes hear its mournful cry, but the Avatars do not). It is said to have had the peculiarity of being very short-sighted, **not seeing much beyond 3 m**. {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 
-The entrance to the Forbidden Domain has been protected, since the founding of the library, by a **{% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %}**. This legendary bewitchment spectacularly resists **physical and magical attacks, and can even block phantoms**; this last point is usually anecdotal, as spirits can usually bypass this blockade and pass through the walls (however, the phantoms have not seen any spectre of the Beast wandering on their side of the library). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %} {% fact "phantoms_cannot_cross_some_fence_enchantments" %}
+The entrance to the Forbidden Domain has been protected, since the founding of the library, by an **{% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %}**. This legendary bewitchment spectacularly resists **physical and magical attacks, and can even block phantoms**; this last point is usually anecdotal, as spirits can usually bypass this blockade and pass through the walls (however, the phantoms have not seen any spectre of the Beast wandering on their side of the library). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %} {% fact "phantoms_cannot_cross_some_fence_enchantments" %}
 
 To temporarily open access to the Forbidden Domain, the **secret symbol of the Maupertuis**, passed down from generation to generation, must be reconstituted on a magic grimoire; access is then unlocked **for 12 hours**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "npcs_know_about_secret_family_symbol_system" %}
 
@@ -1356,7 +1356,7 @@ The Maupertuis parents were very different and complementary; for instance, whil
 
 At the time of the attack on the manor, Mérédice de Maupertuis had already made great progress in the magical arts, and in particular - like her predecessors - in healing potions and gems. She regularly worked in the **alchemy and gemmology studies of the Forbidden Domain**. She in fact left most of her belongings in the library, for fear of losing them during her herbalism excursions in the surrounding area, or in case the manor was burgled.
 
-Octave, for his part, had barely begun his apprenticeship, all the more so as he was distracted by his novelistic and fantasy reading. He had therefore never gone alone into the forbidden floor (the Beast would in fact have attacked him in that case). {% fact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
+Octave, for his part, had barely begun his apprenticeship, not least because he was distracted by his reading of novels and fantasy. He had therefore never gone alone into the forbidden floor (the Beast would in fact have attacked him in that case). {% fact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
 
 He was very soon due to undergo his **initiation called "dubbing"**, a ceremony that only works for heirs of the Maupertuis lineage: {% fact "only_maupertuis_heirs_can_take_initiation" %} {% fact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
 
@@ -1368,7 +1368,7 @@ He was very soon due to undergo his **initiation called "dubbing"**, a ceremony 
 
 During his confinement in the library, Octave wore his **mother's brooch** as a keepsake, which he had found on site. {% fact "octave_carried_mother_jewel_after_her_death" %} {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
 
-In their childhood, Octave and his sister used to create treasure hunts - and other puzzles - for each other. Mérédice had created a particularly mischievous one to celebrate Octave's upcoming dubbing, by pinching his piggy bank full of savings. And she had placed the last clue leading to this little treasure in the **{% symbol "Whispering Box" for "whispering_box" %} found at the bottom of a wooden chest.** {% hint "whispering_box_with_children_enigma_in_common_brown_chest" is needed %}; the family members used this magic box to leave each other messages, which they listened to by placing a finger on it. {# The players must use a stethoscope to read these messages #} Octave was never able to find his piggy bank, probably because it was hidden in the Forbidden Domain. {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
+In their childhood, Octave and his sister used to create treasure hunts - and other puzzles - for each other. Mérédice had created a particularly mischievous one to celebrate Octave's upcoming dubbing, by pinching his piggy bank full of savings. And she had placed the final riddle leading to this little treasure in the **{% symbol "Whispering Box" for "whispering_box" %} found at the bottom of a wooden chest.** {% hint "whispering_box_with_children_enigma_in_common_brown_chest" is needed %}; the family members used this magic box to leave each other messages, which they listened to by placing a finger on it. {# The players must use a stethoscope to read these messages #} Octave was never able to find his piggy bank, probably because it was hidden in the Forbidden Domain. {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
 
 
 The {% symbol "Spectral Bell" for "table_bell_name" %} and the {% symbol "spectral frenzy" for "phantom_frenzy_name" %}
@@ -1424,11 +1424,11 @@ Of spiritual chains
 
 Phantoms, generally speaking, do not stray far from the place where they once lived.
 
-But people who died violently can find themselves as if anchored, imprisoned near the place of their fall, in the aura of a strange sacred light. They can only embody themselves near this glow, although in spectral form they retain greater freedom - if one can call it that. {% fact "beings_dead_violently_are_anchored" %}
+But people who died violently can find themselves as if anchored, imprisoned near the place of their fall, in the aura of a strange sacred light. They can only become embodied near this glow, although in spectral form they retain greater freedom - if one can call it that. {% fact "beings_dead_violently_are_anchored" %}
 
 People - or even beasts - who died naturally do not seem to have this type of very localised bond, and it is rather unfinished tasks or curses that can hold them in the world of the living. {% fact "beings_dead_naturally_are_not_anchored" %}
 
-Note that an anchored phantom will more often remain in spectral, wandering form than a phantom free in its movements. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+Note that an anchored phantom will more often remain in spectral, wandering form than a phantom that is free to move about. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 
 
 Of liberation rituals

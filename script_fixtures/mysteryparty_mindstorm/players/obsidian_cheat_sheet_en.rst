@@ -4,7 +4,7 @@
 <{ title_main_missions }/>
 =============================================================
 
-Your main task is to preserve Sabarim against the many external and internal threats:
+Your main task is to protect Sabarim from the many external and internal threats:
 
 <{ obsidian_main_objectives_to_defend_sabarim }/>
 

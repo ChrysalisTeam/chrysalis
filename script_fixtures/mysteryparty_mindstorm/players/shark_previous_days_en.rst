@@ -12,7 +12,7 @@ Numerous incidents have punctuated these last few weeks, and even though you str
 
 - There was thus the burglary of a private warehouse in Alifir, rented by Loyd Georges; the artefacts it contained, however, had already been transferred to the Alifir Academy. {% fact 'malachite&spinel_rob_alifir_warehouse' as author %}
 - Then two successive attempts to burgle Loyd Georges' manor, both foiled by the security systems. {% fact 'spinel_robs_lg_manor_fail' %} {% fact 'peridot_robs_lg_manor_fail' %}
-- The fact that several of the sir's close acquaintances, for instance the scholars of Alifir, grew worried about abnormal phenomena on their telephone line, or their personal online account.
+- The fact that several of the gentleman's close acquaintances, for instance the scholars of Alifir, grew worried about abnormal phenomena on their telephone line, or their personal online account.
 - Prof. Loakim of the Alifir Academy, a friend of Loyd Georges, was nearly kidnapped in broad daylight.
 
 Your intuition tells you that, during this coming evening, the culprits of these various crimes will not be far away.
@@ -51,7 +51,7 @@ Miscellaneous information
 ++++++++++++++++++++++++++++
 
 On the morning of the day of the interviews, before your arrival at the manor, a man came to bring a thin parcel to Loyd Georges (you heard Alphonse mention it to Rydji). {% fact "alphonse_blunder_revealed_panorbium_fortuna_arrival" %}
-But contrary to procedures, the sir did not wait for you to inspect it for safety, and hid it after temporarily disabling the security cameras; you argued with him about it during the day. The next day, you learned, through Akarith informants, that there had been unusual literary discoveries - immediately hushed up - at one of the archaeological digs of Prof. Loakim, Loyd Georges' friend, in Keroskia. You think you have missed something important, but your efforts to track down this parcel have come to nothing. Perhaps Loyd Georges' servants will talk more, now that their master is out of the picture.
+But contrary to procedures, the gentleman did not wait for you to inspect it for safety, and hid it after temporarily disabling the security cameras; you argued with him about it during the day. The next day, you learned, through Akarith informants, that there had been unusual literary discoveries - immediately hushed up - at one of the archaeological digs of Prof. Loakim, Loyd Georges' friend, in Keroskia. You think you have missed something important, but your efforts to track down this parcel have come to nothing. Perhaps Loyd Georges' servants will talk more, now that their master is out of the picture.
 {% fact 'misc_panorbium_fortuna_brought_to_manor_in_bag' %}
 
 During the midday meal with LG and you, on the day of the interviews, {{character_properties.opal.official_name}} revealed that an anti-desecrator Akarith sect was probably behind the poisoning of his antihistamine medication, which nearly killed him through muscular intoxication. He revealed that many former adventuring companions, of Loyd Georges and of himself, had died in mysterious circumstances. You took notes on what he was saying, and wrote down the names of the "survivors". This could be of interest to the **"Purifiers"**; this brotherhood, under the control of your Akarith religious leaders, hunts down the impious, and may well be behind all this. {% fact 'opal_and_others_were_targeted_by_sect' %}

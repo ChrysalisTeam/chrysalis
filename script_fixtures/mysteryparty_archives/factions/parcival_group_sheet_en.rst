@@ -4,7 +4,7 @@ Fortunately, at that very moment, Heliossarian archaeologists unearthed immemori
 
 
 {% macro portal_to_library_opened() %}
-A few days later, as every year for centuries, a magic portal was primed on the **{% symbol "winter solstice" for "astral_opening_date" %}**, in the cellar of an old neighbouring castle; a passage allowing one to reach, for a single day only, the Maupertuis secret archives. It was evidently through this spell that this family invited its magician vassals from all over the world to celebrate the new year, even though this tradition had clearly long been forgotten by the time the Maupertuis manor was burned.
+A few days later, as every year for centuries, a magic portal began to stir on the **{% symbol "winter solstice" for "astral_opening_date" %}**, in the cellar of an old neighbouring castle; a passage allowing one to reach, for a single day only, the Maupertuis secret archives. It was evidently through this spell that this family invited its magician vassals from all over the world to celebrate the new year, even though this tradition had clearly long been forgotten by the time the Maupertuis manor was burned.
 
 It took you more than half a day to work out how this portal functions and to awaken it fully; you have less than **{% symbol "3½ h" for "library_outside_portal_remaining_time" %}** left to explore the premises when you materialise there. But to rummage through an old pile of books, that should be enough, shouldn't it?
 {% endmacro %}

@@ -4,7 +4,7 @@ Your abilities
 ====================================
 
 {% macro spy_sheet_intro() %}
-In the decades you have spent roaming about in your homeland's secret services, with your crack team, you have had time to see what you liked.
+In the decades you have spent roaming about in your homeland's secret services, with your crack team, you have had time to work out what you enjoy most.
 {% endmacro %}
 
 <{ spy_sheet_intro }/>
@@ -28,7 +28,7 @@ Your goal, during a securing/minesweeping operation, is to dismantle these threa
 
 Once the threads and bells have been removed, the area is considered "structurally reinforced" or "swept", as the case may be.
 
-Feel free to add to the theatrics, to set up a safety perimeter for your intervention, etc.
+Feel free to lay on the theatrics, to set up a safety perimeter for your intervention, etc.
 
 
 Sticks of explosives

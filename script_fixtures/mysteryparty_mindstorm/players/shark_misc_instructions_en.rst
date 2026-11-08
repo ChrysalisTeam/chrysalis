@@ -113,6 +113,6 @@ You are the type to verbally assault any protagonist who might behave "suspiciou
 
 Expected behaviour with the servants: the inspector is at first "very professional" with them, but when they start helping the players in their own investigations, he quickly gets irritated, to the point of uttering strange Akarith religious interjections... and he does not fail to lose his temper if the old servant Alphonse, through his blunders, hampers his manoeuvres.
 
-You have a document, the "Elements of Sabarith Law", which you keep with you, even though you are ready to try to circumvent them for the needs of this very special investigation.
+You have a document, the "Elements of Sabarith Law", which you keep with you, even though you are ready to try to circumvent its provisions for the needs of this very special investigation.
 
 

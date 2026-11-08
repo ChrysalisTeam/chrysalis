@@ -16,7 +16,7 @@ Become Consul of Alifir
 Prepare the future of Sabarim
     Fire is smouldering among the Sabarith population, as much because of glaring inequalities as because of Akarith interference. No point in waiting until you take office to act, in order to prevent the situation from degenerating.
 
-Lend a hand to your husband
+Lend your husband a hand
     He may be physically diminished, but he fully intends to fight it out, so your help will be precious to him.
 
 {% endmacro %}

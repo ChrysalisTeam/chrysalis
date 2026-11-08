@@ -27,7 +27,7 @@ Analysis of artefacts and burials
 Somewhere between forensic medicine and archaeological knowledge, you have acquired a certain finesse in examining these elements.
 You will therefore be able, thanks to your high-tech notebook, to find clues by examining the objects and bones you come across.
 
-*Out-of-game explanation*: An element that can be analysed by your science bears a **silver sticker star**. This sticker dot is accompanied by a **3-letter code**, typically on a white label next to it. Type this code into the {% symbol "knowledge portal (available on site)" for "hint_website_name" %}, selecting the **"{% symbol "analysis" for "analysis_portal_hint_category" %}" category**, to obtain information about the element in question. {% hint "hint_website_device" is needed %}
+*Out-of-game explanation*: An element that can be analysed by your science bears a **silver sticker star**. This sticker is accompanied by a **3-letter code**, typically on a white label next to it. Type this code into the {% symbol "knowledge portal (available on site)" for "hint_website_name" %}, selecting the **"{% symbol "analysis" for "analysis_portal_hint_category" %}" category**, to obtain information about the element in question. {% hint "hint_website_device" is needed %}
  {% fact "sticker_silver_star_means_physical_analysis" %}
 
 

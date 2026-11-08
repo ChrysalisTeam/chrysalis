@@ -14,7 +14,7 @@ Him, the strange character who knew everything about your dreams and your plans,
 
 And {% symbol "Olloudios" for "nom_du_spectre" %} delivered terrible news to you: your dynasty was charged with protecting and maintaining ancient relics, but for centuries it had failed in its task. Your own father had always refused to fulfil this duty... until he sank into madness.
 
-There was still time to avert a cataclysm, by putting these antiquities back at the heart of society, so that they could feed on the vital essence and psychic energy of humans. To hear him, the whole universal order was at stake, through the immemorial magic of the druids. {% xfact "les artefacts doivent rester au contact des humains" %}
+There was still time to avert a cataclysm, by putting these antiquities back at the heart of society, so that they could feed on the vital essence and psychic energy of humans. To hear him tell it, the whole universal order was at stake, through the immemorial magic of the druids. {% xfact "les artefacts doivent rester au contact des humains" %}
 
 Trapped by this unexpected responsibility, you suspended your career to follow the strange instructions of {% symbol "Olloudios" for "nom_du_spectre" %}: the Gaulish and Roman artefacts had to remain together at all times, out in the open, in a place frequented by many people... touched by them if possible... without, however, attracting the attention of archaeologists.
 
@@ -30,9 +30,9 @@ Business was beginning to settle down magnificently. Each month you performed **
 **{% symbol "Andrea di Revel" for "nom_du_héros" %}, son of the Italian ambassador to France**. A History student who would not be fobbed off by your nonsense, and started frequenting the library regularly; hovering around the artefacts, especially the **Celtic Grimoire**, which you forbade anyone to read. The spectre urged you to be wary of him; and grew even more alarmed when this student "vanished from his field of perception", a few weeks ago; but what could be done without drawing further attention? So you kept a low profile.
 {% xfact "le héros est devenu indétectable par le spectre il ya quelques semaines" %}
 
-As you spied on Andrea and his historical-esoteric research, old fears gripped you again. It was a matter of an ancestral **vengeance of the vanquished Armorican peoples** against the Roman invader; of **{% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}**, bloodthirsty Celtic god; of a titanic warrior gestating in a mystic egg; and of horrible consequences if the accompanying rites were not observed...
+As you spied on Andrea and his historical-esoteric research, old fears gripped you again. There was talk of an ancestral **vengeance of the vanquished Armorican peoples** against the Roman invader; of **{% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}**, the bloodthirsty Celtic god; of a titanic warrior gestating in a mystic egg; and of horrible consequences if the accompanying rites were not observed...
 
-What abominable prophecy was thus in the process of coming true? Your great hope, in truth, was that this process, initiated 2 millennia ago, would only come to an end after your own generation. To each their own problems, after all.
+What abominable prophecy, then, was in the process of coming true? Your great hope, in truth, was that this process, initiated 2 millennia ago, would only come to an end after your own generation. To each their own problems, after all.
 
 Note: some key clues relating to this curse are in old nested chests in the Treasure Room; over time, these objects have also become bound to the magic ritual, so you could not remove them; but you have hidden their codes in your office. {% xfact "le conservateur connait les codes des coffrets de la salle au trésor" as author %}
 
@@ -59,7 +59,7 @@ When you came to your senses, the young man lay in front of the artefacts, in a 
 
 You followed these instructions to the letter, and went off to mingle with the notables at a literary prize-giving ceremony, the **Maurice Genevoix prize**, on the other side of town; you arrived discreetly at around **{% symbol "10:00" for "arrivée_conservateur_à_cérémonie_le_jour_j" %}, more than an hour after it had begun**, but you concealed this detail during the cocktail reception that followed. Despite your brain being in utter turmoil, you more or less managed to keep up appearances **with the Burgomaster, the grand master of the conservatoire, the playwright Jeanne Lubeck**... in theory.
 
-When you returned to the library, **shortly before noon**, no gendarme was in sight. The guide and the regulars were going about their business. No body in the artefacts room.
+When you returned to the library, **shortly before noon**, no gendarme was in sight. The Guide and the regulars were going about their business. No body in the artefacts room.
 Had it not been for the dark bloodstain on the floor, hidden under a chair that had been moved, you would have sworn you had dreamt it all.
 
 Had {% symbol "Olloudios" for "nom_du_spectre" %} changed his plan?
@@ -68,14 +68,14 @@ Was it he who had made the gladius vanish from its scabbard - as you noted with 
 
 But just as hope was returning to you, gendarmes arrived, with a flock of private investigators.
 Clearly, someone had raised the alarm without your knowledge.
-Clearly, this day was not done getting off to a bad start...
+Really, this day just would not stop getting off to a bad start...
 
 **The police must absolutely not suspect that you were on the premises early this morning, let alone performing a druidic ritual... they would surely pin Andrea's disappearance on you!**
 
 What you know about the Guide
 ===================================
 
-**{% symbol "Eden Schmitt" for "nom_du_guide" %}** is a young person who left school after the baccalauréat, and tried many odd jobs without ever sticking with any of them. He cobbled together a fake CV to land an interview with you; you saw through him immediately, as the course he described never existed at the University cited. But he had a certain general culture, imagination, and a great sense of service; that was what you needed for the job. {% xfact "Le guide avait menti dans son CV pour être embauché" %}
+**{% symbol "Eden Schmitt" for "nom_du_guide" %}** is a young person who left school after the baccalauréat, and tried many odd jobs without ever sticking with any of them. He cobbled together a fake CV to land an interview with you; you saw through him immediately, as the course he described never existed at the University cited. But he had a fair amount of general knowledge, imagination, and a great sense of service; that was what you needed for the job. {% xfact "Le guide avait menti dans son CV pour être embauché" %}
 
 His museum tours were initially embroidered on the fly, as he clearly had little knowledge of the subject; but he quickly improved, teaching himself ancient History.
 He is charming with the public, cooks well (his pastries are a great boost to your morale), and shows just enough rigour in shelving the books.

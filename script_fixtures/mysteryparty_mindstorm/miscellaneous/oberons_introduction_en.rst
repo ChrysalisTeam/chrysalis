@@ -6,7 +6,7 @@ Oberon Mediation
 
 *The Oberons are an international brotherhood of high-end mercenaries, used for all kinds of more or less legal missions. They are known as much for their discretion as for their loyalty. The Oberon hub of the city of Salima has just sent this circular to all its contacts.*
 
-Dear clients, many of you have requested our services in connection with the famous Private Evening of Loyd Georges.
+Dear clients, many of you have requested our services in connection with Loyd Georges' famous Private Evening.
 
 You are certainly familiar with our policy in the event of conflicts of interest between our clients: ABSTENTION.
 
@@ -18,7 +18,7 @@ However, in order to bring out constructive synergies, we have decided to place 
 
 - carrying out on your behalf a simple action on the Anthropia web portal: transferring money or an item, activating a special ability (analysis of an item, wiretapping...) etc.
 
-- fetching from another room of the manor, or placing there, the item of your choice, provided that room is not specifically secured. This service is charged, per act, 50 kashes. In case of failure, the client receives a credit for a new service.
+- fetching from another room of the manor, or placing there, the item of your choice, provided that room is not specifically secured. This service is charged at 50 kashes per act. In case of failure, the client receives a credit for a new service.
 
 - for any other service, feasibility and price are to be negotiated case by case with the Oberon.
 

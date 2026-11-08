@@ -35,7 +35,7 @@ When the players unmask the villain, it is preferable that you go and **confront
 The prophetic revelations
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-You have always had great affinities with prophecies. But they never reach you fully and directly; they pass through you to reach even more "clairvoyant" people; such as one of the members of the Parcival family, called the "Oracle".
+You have always had a great affinity for prophecies. But they never reach you fully and directly; they pass through you to reach even more "clairvoyant" people; such as one of the members of the Parcival family, called the "Oracle".
 
 You will therefore be in charge of passing on these visions to that player at the planned moments (following certain events, or when the player finds a coloured feather). {% fact "duchess_knowns_about_prophecies" %} {% fact "oracle_revelations_are_triggered_by_colored_feathers" %}
 

@@ -19,9 +19,9 @@ Grimoire
 
 A rather unique artefact; it is a fake book, hollowed out of wood.
 
-After examination by resonance, it contains no hidden cavity.
+Resonance testing shows that it contains no hidden cavity.
 
-It is an incredible object, since books did not exist at that time; papyrus scrolls were used instead; so it looks like a "scientific prophecy".
+It is an incredible object, since books did not exist at that time (papyrus scrolls were used instead); so it looks like a "scientific prophecy".
 
 Symbolically, one may see in it the entire knowledge of the Gaulish people.
 
@@ -38,7 +38,7 @@ Six runes are carved on the standing stones of the enclosure.
 
 Approximate dating: 50 BC.
 
-Wooden chest
+Wooden Chest
 ------------------------
 
 This chest seems to contain objects.
@@ -48,7 +48,7 @@ Two pairs of bolt cutters broke while trying to cut its padlock; this is unheard
 Approximate dating: 150 years ago.
 
 
-Hidden artefacts
+Hidden Artefacts
 --------------------
 
 *Once the players have found these objects, pretend to study them, then give the following information.*
@@ -57,5 +57,5 @@ The **black tablet** is scientifically incomprehensible.
 
 The metal **cylindrical cryptex**: It seems to date from medieval times. Its "password" is unknown.
 
-The **parchment** contained in the cryptex: It too is medieval; it seems to refer to Bertrand du Guesclin, born around 1320 and died in 1380. He was a Breton nobleman, Constable of France and of Castile, a major figure of the first part of the Hundred Years' War.
+The **parchment** contained in the cryptex: It too is medieval; it seems to refer to Bertrand du Guesclin, who was born around 1320 and died in 1380. He was a Breton nobleman, Constable of France and of Castile, a major figure of the first part of the Hundred Years' War.
 

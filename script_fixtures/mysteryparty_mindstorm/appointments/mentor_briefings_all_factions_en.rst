@@ -10,7 +10,7 @@ Initial briefing (before the game starts)
 
 The secret agents get called by their respective superiors (in pairs, except Obsidian):
 
-- ask them whether they have all their "missions" clearly in mind, and whether these are clear (list them)
+- ask them whether they have all their "missions" in mind, and whether these are clear (list them)
 - ask them what their plans are for the beginning of the evening
 - remind them that they must play it "united", and not fall into the hands of Sabarith justice
 

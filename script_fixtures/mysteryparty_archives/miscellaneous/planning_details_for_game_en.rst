@@ -21,9 +21,9 @@ H+2 min: [Frenzy] Be ready to trigger the **spectral frenzy** music if a player 
 
 H+8 min: [Bell] Entry of the phantoms into the game, if not already done
 
-H+15 min: [Gong] The phantoms each embody themselves at their location, and accost the players they see passing by.
+H+15 min: [Gong] The phantoms each become embodied at their location, and accost the players they see passing by.
 
-H+17 min: [Music] Anticipate the Arkon's Confession (kneeling speech).
+H+17 min: [Music] Prepare for the Arkon's Confession (kneeling speech).
 
 H+20 min: The automatons invite the visitors to approach the buffet.
 
@@ -35,15 +35,15 @@ H+30 min: The Druid discreetly steals the Spectral Bell, BEFORE the Ankou's arri
 
 H+35 min: [Music] The Ankou's speech at the top of the stairs; SWITCH ON the projector during his presence, and switch it off afterwards.
 
-**H+40 min: PREPARATION OF THE PREMISES - Go and check/switch on all the sound ambiences of the laboratories/den, spots/lights, and candles (lit because magical) of the forbidden floor. Leave the luminous seals, the incense fountain, and the plasma ball switched off. But switch on the wooden board with the giant LED crystals. Switch off the speaker in the Thief's nook; he will switch it on himself when he embodies.**
+**H+40 min: PREPARATION OF THE PREMISES - Go and check/switch on all the sound ambiences of the laboratories/den, spots/lights, and candles (lit because magical) of the forbidden floor. Leave the luminous seals, the incense fountain, and the plasma ball switched off. But switch on the wooden board with the giant LED crystals. Switch off the speaker in the Thief's nook; he will switch it on himself when he becomes embodied.**
 
 H+40 min: [Bells] The phantoms switch back to spectres for 2-3 minutes, then [Gong].
 
-H+45 min: [Music] Anticipate the arrival of the Beast, when the forbidden floor is opened.
+H+45 min: [Music] Prepare for the arrival of the Beast, when the forbidden floor is opened.
 
 H+50 min: [Music] Be ready to put on an instrumental soundtrack when the players enter the forbidden floor. The Thief's phantom then begins his wandering there, with the blue gloves and the LED mask.
 
-H+55 min: [Gong] The Thief embodies himself in turn, at his anchor point, and accosts the players.
+H+55 min: [Gong] The Thief becomes embodied in turn, at his anchor point, and accosts the players.
 
 H+1:20: [Music] If the players have still not opened the forbidden floor, the Ankou comes to give them clues on how to access the necessary symbol (ultraviolet symbol in the black administrative briefcase, whose code is whispered by the {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}).
 
@@ -51,19 +51,19 @@ H+1:20: [Bells] The phantoms switch back to spectres for 2-3 minutes, then [Gong
 
 H+2:00: [Bells] The phantoms switch back to spectres for 2-3 minutes, then [Gong].
 
-H+X: [Music] Anticipate Octave's initiation ceremony, to music.
+H+X: [Music] Prepare for Octave's initiation ceremony, to music.
 
-H+X: [Music] Anticipate Cassandra's holographic prophecy (puzzle of the scary lenticular paintings).
+H+X: [Music] Prepare for Cassandra's holographic prophecy (puzzle of the scary lenticular paintings).
 
 H+X: To frame the Arkon, the Druid plants the falsely compromising document satchel, on the forbidden floor {% fact "druid_makes_conspiracy_against_arkon" %}.
 
 H+X: [Music] Stage the attack of the sentinel automaton.
 
-H+X: [Music] Anticipate the unmasking of the traitor (quarrel between the Duchess and the Druid)
+H+X: [Music] Prepare for the unmasking of the traitor (quarrel between the Duchess and the Druid)
 
-H+X: [Music] Anticipate the players' intrusion into the Magus's tomb
+H+X: [Music] Prepare for the players' intrusion into the Magus's tomb
 
-H+X: The Arkon can go and question (or even make swear) the various groups of players, as to what they will do with the portals leading to the library, if they come out of it alive. {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
+H+X: The Arkon can go and question (or even make them swear) the various groups of players, as to what they will do with the portals leading to the library, if they come out of it alive. {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
 
 H+X: Give the Druid the grimoire emitting occult sounds, and the Thanatologue. The Druid goes and sits near the pentacle, delighted, with his readings which he proclaims to be promising for escaping from the place. The Ankou goes to prepare for his final speech. {% hint "mystic_soundtrack_for_druid_magic_books" is needed %}
 
@@ -76,7 +76,7 @@ H+X: [Music] A few minutes after the removal of the Absolute Enclosure (caused b
 H+X: [Music] **Debriefing** with the players and NPC actors:
 
 - Summarise TO MUSIC the outcome of the game.
-- Summarise the scenario and the quests succeeded or not.
+- Summarise the scenario and which quests succeeded or failed.
 - Thank everyone for their participation: PLAYERS, NPC ACTORS, ORGANISERS, LIBRARY.
 - Present the CLIVRA and CHRYSALIS and hand out FLYERS.
 - Remind everyone of the need for the GUEST BOOK (comments to be made online)

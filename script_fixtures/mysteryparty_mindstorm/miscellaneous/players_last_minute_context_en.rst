@@ -6,7 +6,7 @@
    Spacer 0 5
 
 
-On the stroke of 18:00, on this day of Loyd Georges' grand evening, the cab comes to pick you up outside your home. Not a motorised cab; a proper old-fashioned cab, with horses and decorations, enough to soften Loyd Georges and his nostalgia for a bygone era.
+On the stroke of 18:00, on this day of Loyd Georges' grand evening, the cab comes to pick you up outside your home. Not a motorised cab; a proper old-fashioned cab, with horses and decorations, just the thing to charm Loyd Georges, with his nostalgia for a bygone era.
 
 The manor you know well emerges from the mist, under pouring rain. An imposing, majestic edifice, certainly, but one that bears the scars of recent events: bars on the windows, high-voltage fences around the courtyard, and a veritable armed checkpoint at the entrance.
 

@@ -2,25 +2,8 @@ Game Flow - GM SHEET
 #######################################
 
 
-
 NPC ACTORS' Briefing
 ----------------------------
-
-THIERRY: REPORTER 1  (backup)
-
-ISABELLE: GUIDE 1
-
-MARC: CURATOR 1
-
-LÉANDRE: REPORTER 2
-
-GUILLAUME: GUIDE 2
-
-PASCAL: CURATOR 2
-
-AN-CÉ: DRUID
-
-SOPHIE: Ambience extra
 
 **IMPORTANT:**
 
@@ -28,7 +11,6 @@ SOPHIE: Ambience extra
 - Explain the rotation order of the player groups
 - Explain the end-of-interview GONG
 - Explain where to take them between each session
-
 
 
 Out-of-game PLAYERS' Briefing
@@ -40,7 +22,7 @@ Out-of-game PLAYERS' Briefing
 
 The Game Master states the key points:
 
-- In-game, we will be on **a day in December 1900, at 12:30, in a small building in Old Lyon.**
+- In-game, we will be on **a day in December 1900, at 12:30, in a small building in Vieux Lyon.**
 - Show the forced OUT-OF-GAME signal with the **raised fist**
 - Tell them not to touch the **GM/NPC SHEETS** out-of-game!!
 - **Safety rules**: no physical violence, we stop a scene if it becomes unbearable, and we take care of the props (hands off the CROMLECH).
@@ -77,11 +59,11 @@ Initial Investigation Report
 First Simultaneous Interview
 ----------------------------------
 
-Guide: relatively relaxed and jovial, as he imagines it is merely the theft of a replica gladius; talks about his passions and his recent discoveries regarding Gallo-Roman antiquity (but without details). He momentarily loses his train of thought if the druid "casts a spell" on him.
+Guide: relatively relaxed and jovial, as he imagines it is merely the theft of a replica gladius; talks about his passions and his recent discoveries regarding Gallo-Roman antiquity (but without details). He momentarily loses his train of thought if the Druid "casts a spell" on him.
 
 Reporter: recounts his meeting with Andrea, and the troubling clues of the morning (his friend's absence at the appointment, ancient gladius missing, reddish mark on the floor...).
 
-Curator: claims to have spent the morning at a public ceremony and to understand nothing of all this fuss over a simple act of vandalism. Is visibly irritated, embarrassed, if the druid's ghost distracts him by speaking to him.
+Curator: claims to have spent the morning at a public ceremony and to understand nothing of all this fuss over a simple act of vandalism. Is visibly irritated, embarrassed, if the Druid's ghost distracts him by speaking to him.
 
 Treasure: discovery of the museum's artefacts, and of the {% symbol "regeneration potion" for "potion_de_guerison" %} on the floor (used by Andrea).
 
@@ -109,14 +91,14 @@ Guide: shocked by the news of the spilled blood, somewhat distraught; candidly a
 
 Reporter: put on the spot over the illicit analysis of the gladius, but not thrown off balance; admits he helped Andrea carry out this operation, but insists that this is not the priority right now.
 
-Curator: put on the spot by the revelations about his timetable, thrown off balance; if cornered he can fall back on the theory of an "Andrea suicide" which he supposedly witnessed by chance.
+Curator: put on the spot by the revelations about his timetable, thrown off balance; if cornered he can fall back on the theory that "Andrea committed suicide", which he supposedly witnessed by chance.
 
 Treasure: probable opening of the chest's padlock, and examination of its contents (curse tablet and cryptex).
 
 Police Inspector's intervention halfway through the interview:
 
 - Points out the wound on the Curator's left hand. {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
-- Accuses the Guide of having forged his diplomas.
+- Accuses the Guide of having forged diplomas.
 
 Druid's intervention: He goes to see the player groups currently with the Guide and the Curator; each time, he beckons the group's Psyker over to him; he introduces himself, then tells him (in French) a tall tale, to the effect that these artefacts are sacred relics of the Gaulish people, and that Andrea must have stolen the gladius out of greed.
 
@@ -144,7 +126,7 @@ Third Simultaneous Interview
 
 Guide: talks about the strange measures imposed on him by the Curator regarding the handling of the artefacts.
 
-Reporter: does not believe for a moment in the genuineness of Andrea's farewell letter.
+Reporter: does not believe for a moment that Andrea's farewell letter is genuine.
 
 Curator: if cornered, he confesses everything, but protests that the stakes are far greater than "him versus Andrea", and that certain truths must remain hidden.
 
@@ -192,7 +174,7 @@ Final Huddles
 Everyone gathers **OUTSIDE the Treasure Room**.
 
 - All the "clerks" are gathered by the Police Inspector to share the results of their investigations.
-- All the "psykers" are gathered and briefed by the Druid: they are now like zombies, subjected to his druidic will, and will be his accomplices in the final scene (with **quick make-up** simulating demonic possession). From now on they must walk slowly, occasionally stammer unintelligible things, and follow the druid's orders. {% xfact "le druide envoûte les psykers à la fin du jeu" %}
+- All the "psykers" are gathered and briefed by the Druid: they are now like zombies, subjected to his druidic will, and will be his accomplices in the final scene (with **quick make-up** simulating demonic possession). From now on they must walk slowly, occasionally stammer unintelligible things, and follow the Druid's orders. {% xfact "le druide envoûte les psykers à la fin du jeu" %}
 - The rest of the players stay and talk among themselves.
 
 **LOGISTICS: Remove the smartphone from the door of the miniature cromlech (safety) and fit the needle of the Tesla coil.**
@@ -202,10 +184,10 @@ Final Scene
 ---------------------------------
 
 - The players are called back to the **Treasure**.
-- Meanwhile the druid nudges the **zombie psykers** to return, rather discreetly, to their groups.
+- Meanwhile the Druid nudges the **zombie psykers** to return, rather discreetly, to their groups.
 - The final soundtrack is started, the Cromlech begins to **crackle** from time to time.
-- 30 s after the start, the Cromlech's Tesla coil also starts playing the "Dies Irae" in music; the **Reporter**, followed by the **Guide**, then calls on the players to join him to the **left** of the Cromlech, and to make the "Centurions' Sign" with him to help Andrea (arms crossed over the chest). **Slogan to repeat: "By the Glory of Jupiter".**
-- 12 s later, when the Tesla coil takes up the "Dies Irae" again, it is the turn of the **Druid** (now in broken French), followed by the **Curator**, to urge the players to join him to the **right** of the Cromlech, and to make the "Druids' Sign" with him (forming a menhir shape with the arms and hands) to save the druids' last wish. The zombie psykers follow his orders. **Slogan to repeat: "By the Might of Toutatis".**
+- 30 s after the start, the Cromlech's Tesla coil also starts playing the "Dies Irae"; the **Reporter**, followed by the **Guide**, then calls on the players to join him on the **left** of the Cromlech, and to make the "Centurions' Sign" with him to help Andrea (arms crossed over the chest). **Slogan to repeat: "By the Glory of Jupiter".**
+- 12 s later, when the Tesla coil takes up the "Dies Irae" again, it is the turn of the **Druid** (now in broken French), followed by the **Curator**, to urge the players to join him on the **right** of the Cromlech, and to make the "Druids' Sign" with him (forming a menhir shape with the arms and hands) to save the druids' last wish. The zombie psykers follow his orders. **Slogan to repeat: "By the Might of Toutatis".**
 - The Cromlech calms down but the music goes on; both camps must keep up their slogans.
 - The Inspector urges the undecided players to choose their side, because **"remaining impassive in such situations of danger is a crime"**.
 - At the end of the music, Andrea appears; he explains the **ending (his victory or his defeat)** and what it means for the World.
@@ -220,7 +202,7 @@ Debriefing
 - Thank **Flavien** for the poster and the manual's illustrations
 - Thank the organisation hosting us and its staff
 - Present the Chrysalis Forge association and hand out **flyers**
-- Remind everyone of the importance of the GUESTBOOK (comments to be posted online)
+- Remind everyone of the importance of the GUEST BOOK (comments to be posted online)
 - **TAKE PHOTOS**
 
 

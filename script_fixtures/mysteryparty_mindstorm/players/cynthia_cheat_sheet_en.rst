@@ -13,7 +13,7 @@
 - you recently took up residence at {% symbol "studio flat number 827 in the Wetfeet Peninsulas (a locality near Alifir)" for "cynthia_sabarim_home_address" %}
 - you have hidden at this home, in a {% symbol "lead casket under a floorboard" for "cynthia_proofs_hiding_place" %}, compromising material on: the Dorian Duke's youthful blasphemies, the past theft committed by {{character_properties.opal.official_name}} against Loyd Georges, and the Lordanian-Sabarith drug trafficking covered up by the three Sabarith consuls  {% fact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %} {% fact "cynthia_has_proofs_about_opal_past_lg_theft" as author %} {% fact "cynthia_has_proofs_about_consuls_drug_traffic" as author %}
 - your friend {% symbol "Sylwie Lescusa" for "cynthia_friend_name" %} warned you that your fiancé had received a green satin box from the hands of a beautiful stranger, with whom he was chatting near the Alifir Academy; you have also spotted Alifir-Faeran rail tickets at his place {% fact "waden_has_met_unknown_girl" %} {% fact "waden_has_tickets_for_faeran" %}
-- the day before the special evening, you work until late at the newspaper {% fact "cynthia_alibi_is_strong" as author %}
+- the day before the special evening, you worked until late at the newspaper {% fact "cynthia_alibi_is_strong" as author %}
 
 
 <{ title_last_minute_information }/>

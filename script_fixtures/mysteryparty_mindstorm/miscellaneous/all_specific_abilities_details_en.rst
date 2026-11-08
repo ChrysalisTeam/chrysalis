@@ -57,7 +57,7 @@ World Press Dispatch
 
 {% macro firewall_news() %}
 Media Firewall
-    When your investigation into the wrongdoings of a notable of Faeran began to bear fruit, he immediately asked his friends in the Press to run headlines about "Smear campaigns allegedly being orchestrated by envious rivals"; this vague but contradictory information cut the ground from under your feet, and considerably reduced the impact of your article. You are thinking of using this technique should a genuinely malicious media assault be brewing against you or one of your loved ones.
+    When your investigation into the wrongdoings of a notable of Faeran began to bear fruit, he immediately asked his friends in the Press to run headlines about "Smear campaigns allegedly being orchestrated by envious rivals"; this vague counter-information cut the ground from under your feet, and considerably reduced the impact of your article. You are thinking of using this technique should a genuinely malicious media assault be brewing against you or one of your loved ones.
 
 
 {% endmacro %}
@@ -113,7 +113,7 @@ Fresh Start
 
 
 {% macro djinn_interview() %}
-Summoning of the Djinns
+Consulting the Djinns
     Your wealth has allowed you to prepay **three questions** to the Djinns of Sedes Sancta, who are a kind of independent sect, dedicated to the accumulation of knowledge (about ancient facts, or recent news). You must ask all your questions during a single telephone call to their headquarters. Results not guaranteed, but usually very satisfactory.
 {% endmacro %}
 
@@ -152,7 +152,7 @@ Manor search
 
 {% macro pneumatic_tubes() %}
 Pneumatic Tubes
-    During a previous visit to Loyd Georges' home, you noticed a pneumatic tube communication hub which, although obsolete, still seems to be in working order. Intuitively, you therefore decided to buy and keep *ONE* tube on you, just in case. This tube will allow you to send, at any time, a paper message or a small object to an equipped recipient (police, hospital, town hall, fire brigade, press, nobles of the surrounding area...). *If there is a reply (of which you will be notified), the tube can be used again.*
+    During a previous visit to Loyd Georges' home, you noticed a pneumatic tube communication hub which, although obsolete, still seems to be in working order. On a hunch, you therefore decided to buy and keep *ONE* tube on you, just in case. This tube will allow you to send, at any time, a paper message or a small object to an equipped recipient (police, hospital, town hall, fire brigade, press, nobles of the surrounding area...). *If there is a reply (of which you will be notified), the tube can be used again.*
 {% endmacro %}
 
 
@@ -180,14 +180,14 @@ Document Authentication
 
 
 {% macro wireline_fax() %}
-Secure Wireline Fax-Phone
+Secure Landline Fax-Phone
     The Sabarim police department has installed a secure fax-phone in the manor, which only its members can use. This phone is not affected by the mobile phone signal jammer, of course. The callers see each other on video, rather blurrily.
 {% endmacro %}
 
 
 {% macro __OLDIE_phone_redirection() %}
 Call Forwarding
-    Even though it is illegal, more than once during your career you have intercepted the communications of an individual you suspected without proof. And your interception system is still operational, even if it does not work with the new so-called "mobile" phones, even if it can only divert a single line at any given time, and even if it can only be configured once a day. [Tell the Game Master, during the game, which wireline phone you want to divert, if you know of one that interests you]
+    Even though it is illegal, more than once during your career you have intercepted the communications of an individual you suspected without proof. And your interception system is still operational, even if it does not work with the new so-called "mobile" phones, even if it can only divert a single line at any given time, and even if it can only be configured once a day. [Tell the Game Master, during the game, which landline phone you want to divert, if you know of one that interests you]
 {% endmacro %}
 
 

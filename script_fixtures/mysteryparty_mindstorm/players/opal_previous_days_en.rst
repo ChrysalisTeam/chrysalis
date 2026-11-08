@@ -20,7 +20,7 @@ But Loyd Georges must be informed of this peril; a peril that existed well befor
 ==============================
 
 
-After an involuntary lie-in (the hazards of the sleeping pills you have been taking for months to calm your anxieties), you come downstairs at around {% symbol "10:45" for "morning_opal_wake_up_time" %}. You ask Rydji, the butler, for a meeting with Loyd Georges. But as bad luck would have it, the sir is about to begin a marathon of interviews, with each of the auction participants; this evidently at the instigation of Inspector Shark, now a regular at the manor. You will therefore have to wait until lunch. You spend your morning studying a few poisons and their antidotes on the web, from the library terminal, and trying to track down your last adventuring comrades.
+After an involuntary lie-in (the hazards of the sleeping pills you have been taking for months to calm your anxieties), you come downstairs at around {% symbol "10:45" for "morning_opal_wake_up_time" %}. You ask Rydji, the butler, for a meeting with Loyd Georges. But as bad luck would have it, the gentleman is about to begin a marathon of interviews, with each of the auction participants; this evidently at the instigation of Inspector Shark, now a regular at the manor. You will therefore have to wait until lunch. You spend your morning studying a few poisons and their antidotes on the web, from the library terminal, and trying to track down your last adventuring comrades.
 
 At around {% symbol "12:30" for "noon_opal_lydia_call_time" %}, you receive a call from Lydia, and withdraw to your bedroom to answer it. Your wife informs you that she will after all be attending Loyd Georges' evening, to "sell one of her old plots of land" there. All this catches you off guard, but you promise to ask Loyd Georges' permission, as is proper.
 
@@ -40,7 +40,7 @@ The day everything goes off the rails
 
 The next morning, getting up at around **10:00**, you come face to face with Salimian police officers in the small hall. They tell you that Loyd Georges was taken ill the previous evening, very late, and that he is currently in intensive care at the Salima Central Hospice. You have not yet fully taken in the news when Inspector Shark arrives behind you, and declares the premises a "crime scene".
 
-There you are, confined to the manor under house arrest, and forbidden to communicate with the outside world, without further explanation. The poor sir's study and bedroom are placed under seal.
+There you are, confined to the manor under house arrest, and forbidden to communicate with the outside world, without further explanation. The poor gentleman's study and bedroom are placed under seal.
 
 When Inspector Shark tosses you a meagre filled sandwich at around **13:00**, you ask him for more information. He mentions a {% symbol "scene of a brawl in Loyd Georges' bedroom" for "shark_vague_explanations_to_opal" %}, but keeps the rest under the seal of "investigative secrecy". He does not seem to have you in his sights, but does not seem to trust you either.
 

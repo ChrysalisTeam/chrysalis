@@ -4,8 +4,8 @@
 Sir Loyd Georges' Household
 ===================================
 
-Following all the attacks of which Sir Loyd Georges has been the target, most of his servants have chosen to resign.
-The poor sir, for his part, has stepped up his protection: on the one hand thanks to the services of Inspector Shark, sent by the State, and on the other hand by fitting the manor with **sophisticated security systems: an electrified outer fence, surveillance cameras in the main rooms**... Unfortunately for him, neither has always proved very effective.
+Following all the attacks targeting Sir Loyd Georges, most of his servants have chosen to resign.
+The poor gentleman, for his part, has stepped up his protection: on the one hand thanks to the services of Inspector Shark, sent by the State, and on the other hand by fitting the manor with **sophisticated security systems: an electrified outer fence, surveillance cameras in the main rooms**... Unfortunately for him, neither has always proved very effective.
 
 {# .. Meanwhile, you have been mixing with high society, which will also, you have no doubt, be present at this famous evening. #}
 
@@ -28,7 +28,7 @@ Robb Barrow
 
 The dogs
     **Bedou** is an ageing angora sheepdog, who mostly wanders around inside the buildings.
-    But Loyd Georges' new guard dog, **Oupaout**, a touchy mastiff, is of an altogether different mettle.
+    But Loyd Georges' new guard dog, **Oupaout**, a temperamental mastiff, is of an altogether different mettle.
     Both usually sleep in the kennel adjoining the manor.
 
 

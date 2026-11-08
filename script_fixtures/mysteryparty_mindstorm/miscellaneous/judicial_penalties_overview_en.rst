@@ -4,7 +4,7 @@ Sabarim Justice
 
 The Sabarith judicial system is known for its **proverbial severity**.
 
-Indeed, it is rare for the sentence handed down to be lower than the maximum penalty provided for by the Penal Code. And penalties can be cumulated without limit, when several offences are committed.
+Indeed, it is rare for the sentence handed down to be lower than the maximum penalty provided for by the Penal Code. And penalties can be combined without limit when several offences are committed.
 
 Moreover, Sabarith Law has no notion of **"fairness of evidence"** as other countries do. Admittedly, investigators, witnesses, or victims who use illegal means to obtain evidence risk being prosecuted for it; but this does not invalidate the incriminating elements they may have against others, as long as these elements are authentic.
 
@@ -13,9 +13,9 @@ As an accused, it is possible to remain free until the trial, if one pays **bail
 .. raw:: pdf
 
    Spacer 0 10
-
-
-**For information, an excerpt from the Sabarith scale of penalties, in years of prison:**
+   
+   
+**For information, an excerpt from the Sabarith scale of penalties, in years of imprisonment:**
 
 - Dumping rubbish on the public highway: 1 year
 - Identity theft: 10 years

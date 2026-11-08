@@ -14,6 +14,6 @@ As for Loyd Georges, he unfortunately had little time to devote to you, but you 
 
 Unexpectedly, you received an invitation to his "private auction evening"; this fitted in well with your schedule, so you planned to attend, with your fiancé who was also invited.
 
-The day before this special evening, you work until late in the newspaper's offices, to plan the next trips to be made: the Yumeimatchi music festivals, the Balberith athletic tournament... {% fact "cynthia_alibi_is_strong" as author %}
-You spend the following day shopping in the city of Salima, then meet Waden there, to go up together to Loyd Georges' manor.
+The day before this special evening, you worked until late in the newspaper's offices, to plan the next trips to be made: the Yumeimatchi music festivals, the Balberith athletic tournament... {% fact "cynthia_alibi_is_strong" as author %}
+You spent the following day shopping in the city of Salima, then met Waden there, to go up together to Loyd Georges' manor.
 

@@ -21,7 +21,7 @@ Instructions for the attack
 - Talk with the Game Master, before the encounter, to recap the countermeasures the players already have.
 - You cannot, of course, see the avatars, nor they you.
 - You behave like a slightly frightened dog towards the other phantoms, yapping when you meet them, but without approaching them. {% fact "beast_ignores_or_fears_other_phantoms" %}
-- If the opportunity arises, you can decide to go down by a passage where the players are not expecting you, to take them from behind.
+- If the opportunity arises, you can decide to go down by a passage where the players are not expecting you, to catch them from the rear.
 - You can only walk, but with long strides if necessary.
 - You attack the nearest players (you see very poorly beyond 3 m). {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 - If a player is invulnerable (because wearing the Arkon's {% symbol "Mithril armour" for "arkon_armor_name" %}, for example), you attack them a few times in vain, then choose another target.

@@ -7,7 +7,7 @@
 
 
 - get hold of Loyd Georges' Orb {% fact 'agent_mission_seek_lg_orb' %}
-- keep an ear out for the events of the Akarith Council, so as to discourage it, if possible, from peacefully integrating the Dorians {% fact 'agent_mission_transfiliation_attempt' %}
+- keep an ear out for the events of the Akarith council, so as to discourage it, if possible, from peacefully integrating the Dorians {% fact 'agent_mission_transfiliation_attempt' %}
 
 - support, then form a military alliance with, the new Sabarith consular trio (by obtaining access to their air bases) {% fact 'agent_mission_lordania_sabarim_alliance' %}
 
@@ -32,7 +32,7 @@
 - the day before:
 
   - you arrived early, and finally met Loyd Georges at {% symbol "17:00" for "lg_meeting_time_for_garnet" %}
-  - the sir had quarrelled with someone in his study {% fact 'loyd_georges_quarrelled_with_someone' %}
+  - the gentleman had quarrelled with someone in his study {% fact 'loyd_georges_quarrelled_with_someone' %}
   - he took digoxin to treat his heart problems {% fact 'loyd_georges_takes_medicine' %}
   - under the pretext of having forgotten your pocket watch, you slipped away long enough to sabotage the alarm system {% fact 'garnet_breaks_alarm_for_evening' %}
   - you came back to the manor at {% symbol "22:00" for "evening_intrusion_time_garnet" %}, to get inside by blinding the security cameras {% fact 'garnet_breaks_into_manor_in_the_evening' %}
@@ -46,7 +46,7 @@
 <{ title_last_minute_information }/>
 ============================================
 
-- you seem to have come across {{character_properties.opal.official_name}} at the ill-fated Akarith embassy in Doria {% fact 'opal_was_in_emerald_deadly_embassy' %}
+- you think you came across {{character_properties.opal.official_name}} at the ill-fated Akarith embassy in Doria {% fact 'opal_was_in_emerald_deadly_embassy' %}
 - the journalist {{character_properties.cynthia.official_name}} most likely has compromising evidence on high-ranking Lordanian personalities at her home {% fact 'cynthia_as_proofs_against_lordanian_personalities' %}
 
 

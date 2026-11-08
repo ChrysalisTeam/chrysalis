@@ -4,7 +4,7 @@ Sheet of the butler Rydji
 Your story
 +++++++++++++++++++
 
-You are a very faithful servant of Loyd Georges, who took part in the archaeological expedition to Akaris. You are aware of the discovery of one of the orbs, which Loyd Georges has since hidden, you know not where.
+You are a very faithful servant of Loyd Georges, and you took part in the archaeological expedition to Akaris. You are aware of the discovery of one of the orbs, which Loyd Georges has since hidden, you know not where.
 
 Since your return to Sabarim, and the announcement of the auctions, the threats and attacks against your household have not ceased, despite your work to "fortify" the manor. The director of the Sabarim security services therefore offered Loyd Georges protection; Inspector Shark (the best of his generation) volunteered to come out of his recent retirement, and carry out this mission. That has not stemmed the flood of misdeeds, alas.
 
@@ -30,11 +30,11 @@ Miscellaneous interactions
 
 You consider that Inspector Shark has become incompetent with age, and are therefore ready to override his instructions, if this allows you to find the culprit, and to serve the interests of the household.
 
-The tabellion is, in your eyes, an upstart, but a guarantor of a certain respect for the law in the face of Inspector Shark's excesses, so you remain respectful towards him.
+The Tabellion is, in your eyes, an upstart, but a guarantor of a certain respect for the law in the face of Inspector Shark's excesses, so you remain respectful towards him.
 
 When the Akarith ambassador turns up at the manor, you do not hide your indignation, like the whole household.
 
-You know that an **antique wireline telephone** still exists in the manor, but if it still works, only old Alphonse knows how to use it. {% fact "manor_has_wireline_phone_through_alphonse" %}
+You know that an **antique landline telephone** still exists in the manor, but if it still works, only old Alphonse knows how to use it. {% fact "manor_has_wireline_phone_through_alphonse" %}
 
 Speaking of Alphonse... you are very fond of your dear senior colleague, but you do not hesitate to scold him when he piles up blunders, or launches into initiatives completely out of step with what matters.
 

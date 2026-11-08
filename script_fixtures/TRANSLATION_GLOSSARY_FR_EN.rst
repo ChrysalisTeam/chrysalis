@@ -11,11 +11,19 @@ Translation Glossary - French to English
 Conventions
 ===========
 
+**Precedence**: a table row beats these general rules; the generated
+"Jinja symbol display values" table at the end beats everything (see
+**Symbol values** below). When a row lists several FR variants separated by
+"/", the EN variants map to them in order.
+
 **Spelling**: British English throughout (artefact, armour, colour, defence,
-centre, mould, sulphur, grey, spectre, organiser, -ise/-isation verb endings).
-Exception: keep US spellings that already exist in file names or data keys
-(e.g. ``duel_of_honor_rules.rst`` stays as a path, but the prose says
-"duel of honour").
+centre, mould, sulphur, grey, spectre, organiser, haemorrhage, ageing,
+jewellery, tranquiliser, -ise/-isation verb endings, also in comments:
+"CUSTOMISE"). "encyclopedia" and "program" (software) are acceptable British
+forms. Exception: keep US spellings that already exist in file names or data
+keys (e.g. ``duel_of_honor_rules.rst`` stays as a path, but the prose says
+"duel of honour"; the macro ``wireline_fax`` stays although the prose says
+"landline").
 
 **Proper nouns**: invented names (Loyd Georges, Maupertuis, Rydji, Nazur,
 Olloudios...) stay verbatim, including accents (Mérédice, Joséphine, Séléné).
@@ -40,16 +48,86 @@ genre and "mystery game" / "mystery evening" for the subtitle wording;
 
 **Puzzles**: "puzzle" for mechanical or visual enigmas, "riddle" for verbal ones.
 
+**Capitalisation policy**:
+
+- Capitalised: proper names of unique artefacts, places, institutions, events
+  and named abilities/rituals (Divine Orb(s), Divine Tear(s), Sun of Atoms,
+  Forbidden Domain, Otherworld Banquet / Otherworld Buffet, Yodic Book of the
+  Dead, Thanatologue, Order of Tabellions, Bank of Salima, Weapon Blessing,
+  Lightning Investigation); named orders, sects and factions (the Judicators,
+  the Purifiers, the Red Wolves, the Diakons); role names (Dispeller,
+  Lockpicker...); and character titles that stand in for a name when they
+  designate that character (the Tabellion, the Beast, the Druid, the Arkon,
+  the Archivist, the Curator, the Guide, the Reporter, the Hero, the Ancestral
+  Tortoise); nicknames keep a capitalised article ("The Docker"); named items
+  and abilities stay capitalised in running text (the Leather Purse, the World
+  Scanner).
+- Ranks and offices take a capital before a personal name (Archdeacon Menelas,
+  Judicator Praeves, Captain Rodimir, Prof. Voluto) and are lowercase when
+  generic or descriptive (the patriarch of Ghek, a consul, tabellions as a
+  profession, an archdeacon).
+- Descriptive epithets and one-off bodies stay lowercase even where a FR line
+  capitalises them: sacred orb (orbe sacré / saint orbe), the Akarith council /
+  the great council, the misty mountains, cromlech (the stone circle or model;
+  "the Cromlech" is the library-museum), the Magus's tomb, the museum's treasure
+  in prose (only the rotation station is "the Treasure").
+- Headings keep the case style of the matching row (Cromlech, Descent and
+  Sentience headings are mostly Title Case, Archives and Mindstorm headings
+  sentence case); ALL-CAPS FR headings stay all caps. Descent location names
+  (Aquifer Cavern, Yodic Temple Cavern, Pagan Temple, Main Hall of the
+  Pre-Yodic Temple...) are Title Case in headings and on the map but lowercase
+  in running text ("the aquifer cavern"); "the Holy of Holies" keeps its
+  capitals everywhere.
+- Pronouns follow the French source (gendered "he" / "she" for roles and NPCs as
+  the FR writes them); no neutralisation in translation.
+
+**Recurring renderings and false friends** (each has a row below): religious
+"confession" = "denomination" (Mithraite denomination, Razulite denomination),
+never "confession" (except the Arkon's "mission confession", which is an act);
+"portail de transplanage / téléportation" = "teleportation portal", never
+"apparition portal"; "le sir / le sieur" = "the gentleman", never "the sir"
+("ce triste sir" = "this sorry gentleman");
+"pastille" (sticker star) = "sticker"; "téléphone filaire" = "landline";
+"disparition inquiétante" = "suspicious disappearance"; "Etat des lieux" =
+"State of play"; "livre d'or" = "guest book"; "glaive" = "gladius"; "donjon" =
+"keep"; "diacre" = "Diakon"; "hors-jeu / hors-roleplay" = "out-of-game";
+"s'incarner" = "to become embodied"; "fantomatique" = "phantom-like" (never
+"ghostly"); "défiance" = "distrust"; "culte" (of a faith) = "worship" / "faith",
+never "cult"; "Anticiper" (GM schedule cue) = "Prepare for". See also the translator checklist (actuellement,
+éventuellement, important, assister, déception, librairie...).
+
+**Clock times and durations**: clock times use the 24-hour clock with a colon,
+H:MM before 10:00 and HH:MM from 10:00 (no leading zero; this is what "HH:MM" in
+the generated symbol table means), in prose and in symbol values alike (7:00,
+9:00 and 10:00, 14:45, 20:00; ranges "8:00-10:00"); never "8 pm", "8am", "08:00"
+or "20h". The idiom "12h sonne à l'horloge" may stay idiomatic: "The clock
+strikes twelve" (or "12"). The only
+exception is a time the FR source itself spells out in words ("10:00 in the
+morning" for ``heure_ouverture_du_cromlech_le_jour_j``). Durations are written
+"3 hours", "a good hour", "15 min" (abbreviated "min", never "mn"); schedule
+notation "H-45 min", "H+1:20"; "3h30" as a duration in tables = "3½ h".
+
 **Typography**: French guillemets « » become straight double quotes "..."; no
-space before : ; ? ! ; "n°" becomes "no."; "5mn" becomes "5 min"; "3h30"
-becomes "3:30" or "3½ h" depending on context (duration vs. clock time);
-decimal commas become decimal points; thousands use a comma (2,000 kashes).
+space before : ; ? ! ; "n°" becomes "no."; "5mn" becomes "5 min"; "1er" becomes
+"1st"; decimal commas become decimal points; thousands use a comma (2,000
+kashes).
 
 **Templating rules** (see also the translator checklist): Jinja tags, variable
 names, filters, macros, lazy includes ``<{ name }/>`` and string literals that
-are compared with data keys stay untouched. ``{% include "x.rst" %}`` becomes
-``{% include "x_en.rst" %}``. RST heading underlines are re-sized to the
-translated title. Indentation is preserved exactly.
+are compared with data keys (``{% fact %}``, ``{% hint %}``, ``{% item %}``,
+``{% xfact %}``, ``{% xitem %}``, ``{% if x == "..." %}``) stay untouched.
+``{% include "x.rst" %}`` becomes ``{% include "x_en.rst" %}``. RST heading
+underlines are re-sized to the translated title (titles containing a
+``{% symbol %}`` tag are measured on the rendered text). Indentation, BOM and
+line endings are preserved exactly.
+
+**Symbol values**: ``{% symbol "value" for "key" %}`` prints "value" as prose,
+and the sheet generator aborts if one key receives two different values
+(compared after strip().lower()) across ALL rendered templates. The English
+value of every key is therefore fixed by the generated table at the end of this
+file: never edit a symbol value by hand; rewrite the sentence around the tag
+instead. A value change goes through the ``CANON`` dict of
+``normalize_symbols.py``, which rewrites every ``*_en.rst`` file at once.
 
 Shared Pangea universe terms
 =============================
@@ -79,6 +157,9 @@ Shared Pangea universe terms
    * - crossentar
      - crossentar
      - Yodic religious insignia; lowercase common noun, capitalised only in item titles.
+   * - disparition inquiétante / signalement pour disparition inquiétante
+     - suspicious disappearance / missing person report
+     - Police term (Mindstorm radio spot and GM manual, Cromlech Reporter); never "worrying disappearance".
    * - Elixir Berserk
      - Berserk Elixir
      - Combat drug appearing in several games.
@@ -93,7 +174,10 @@ Shared Pangea universe terms
      - Country / adjective.
    * - hors-jeu / HRP ; en jeu / RP
      - out-of-game / OOC ; in-game / IC
-     - Meta.
+     - Meta. "hors-roleplay" (Archives and Mindstorm rules) is also "out-of-game" (row "hors-roleplay"); "OOC" / "IC" only as abbreviations.
+   * - hors-roleplay
+     - out-of-game
+     - Meta (Archives and Mindstorm game rules, GM planning): same as "hors-jeu"; never "out-of-roleplay".
    * - indice
      - clue
      - Meta.
@@ -192,9 +276,12 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - ailes (des fantômes)
      - wings (of the phantoms)
      - Epilogue costume (feathers / LEDs / steampunk).
+   * - aimant magnétique (logo / symbole / étiquette)
+     - "magnet" logo / "magnet" symbol / "magnet" label
+     - Out-of-game marker of magnetic locks (Lockpicker, Sounder sheets).
    * - Alchémille / Chrysope / Joubarbe / Livèche / Sumac vénéneux / Digitale / Œil de triton
-     - Lady's mantle / Lacewing / Houseleek / Lovage / Poison sumac / Foxglove / Newt's eye
-     - Alchemist home ingredients.
+     - Lady's mantle / Lacewing / Houseleek / Lovage / Poison sumac / Foxglove / Eye of newt
+     - Alchemist home ingredients. "Œil de triton" = the traditional "Eye of newt" (Macbeth), never "Newt's eye".
    * - alchimiste
      - Alchemist
      - Parcival role (canonical, parcival_alchemist).
@@ -213,6 +300,9 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - anthropologue
      - Anthropologist
      - Explorer role (canonical).
+   * - Anticiper (consigne de planning MJ)
+     - Prepare for
+     - GM schedule cue ("[Musique] Anticiper la Confession..." = "[Music] Prepare for the Confession..."); never "Anticipate".
    * - Aperçu des archives secrètes des Maupertuis
      - Overview of the Maupertuis secret archives
      - Section heading.
@@ -439,8 +529,8 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - mission confession
      - Arkon ritual/speech.
    * - confession mithraïte / mithraïque
-     - Mithraite confession
-     - Religion branch.
+     - Mithraite denomination
+     - Yodic religion branch. Both FR adjectives give "Mithraite"; a religious "confession" is a "denomination" (false friend), cf. "confession (razulite / taranite)".
    * - confrère (arkonte)
      - fellow brother (Arkon)
      - Anthropologist recognised by the Arkon.
@@ -504,6 +594,9 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - déchus (Les) / dragons déchus
      - The Fallen / fallen dragons
      - 5th team sheet title (dragons_role).
+   * - défiance
+     - distrust
+     - Character traits; false friend, never "defiance".
    * - dégénérescence marbrée
      - marbled degeneration
      - Parcival hereditary disease.
@@ -634,8 +727,8 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - "do not touch" label (crossed-out hand)
      - Fragile decorative items.
    * - étoile autocollante dorée / argentée ; pastille
-     - gold sticker star / silver sticker star; sticker dot
-     - Out-of-game markers.
+     - gold sticker star / silver sticker star; sticker
+     - Out-of-game markers. "pastille" referring back to a sticker star = "sticker" (never "sticker dot"); only the round coloured tidying dots of game_rules are "round coloured sticker dots".
    * - étole violette
      - purple stole
      - Diakons' identifying garment.
@@ -654,12 +747,15 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - Faction - …
      - Faction - …
      - Sheet title prefix.
+   * - fantomatique
+     - phantom-like / phantom (attributive)
+     - GM manual, NPC sheets ("la Bête fantomatique" = "the phantom Beast", "âme fantomatique" = "phantom soul"); never "ghostly".
    * - fantôme / Fantôme - …
      - phantom / Phantom - …
      - Canonical (``phantom_*`` files), not "ghost".
    * - fantôme incarné / désincarné ; phase incarnée ; s'incarner
-     - embodied / disembodied phantom; embodied phase; to embody
-     - Phantom mechanic. For Avatars/dragons use "incarnation".
+     - embodied / disembodied phantom; embodied phase; to become embodied
+     - Phantom mechanic. "s'incarner" = "to become embodied" ("he becomes embodied", "they become embodied"), never "embody oneself". For Avatars/dragons use "incarnation".
    * - Fédore Pass'muraille
      - Fedore Pass'muraille
      - Thief's name; kept as proper noun.
@@ -732,12 +828,9 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - grimoire / grimoire maudit
      - grimoire / cursed grimoire
      - Generic.
-   * - grimoire chantant
-     - singing grimoire
-     - Treasure-mill activator.
    * - grimoire chantant / moulin à aube
      - singing grimoire / paddle mill
-     - Treasure quest vision.
+     - Treasure-mill activator (treasure quest vision).
    * - Grimoire Traceur
      - Tracker Grimoire
      - In-world name of the beacon-scanner app.
@@ -816,9 +909,9 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - Jacko
      - Jacko
      - Inventor's nickname.
-   * - Jinja symbol values used (key => EN value, must stay identical in every _en file)
-     - hint_website_name => "knowledge portal (available on site)"; standard_pentacle_description => "canonical pentacle (5-pointed star in a circle)"; library_cursed_enclosure_opening_quota => "3 / 5 of the living"; phantom_eviction_cooldown / phantom_charm_cooldown => "10 minutes"; catastrophic_period => "Planetary Cataclysm"; maupertuis_dynasty_founder => "Magus Mos Peratys"; common_monastery_name => "Rochesombre Monastery"; ritualist_kind_name => "initiates"; bewitchment_portal_hint_category => "magic"; analysis_portal_hint_category => "analysis"; candle_batteries_name => "pressurised wax vapour cartridges"; phosphorescent_pebbles_name => "moon stones"; thief_name => "Fedore Pass'muraille"; thief_castle_name => "Pass'muraille Keep"; arkon_mission_confession => "mission confession"; ultimate_seal_name => "Absolute Barrier Seal"; library_cursed_enclosure_name => "Absolute Enclosure"; unbreakable_oath_name => "Oath of Zarathustra"
-     - The sheet generator checks that each symbol key has a single (case-insensitive) value across all rendered templates.
+   * - jeu de piste
+     - treasure hunt
+     - Maupertuis family backstory (GM manual).
    * - journal de bord / journal intime
      - logbook / diary
      - Archivist's / Octave's items.
@@ -884,7 +977,7 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - Lore.
    * - livre d'or
      - guest book
-     - Debriefing reminder (online comments).
+     - Debriefing reminder (online comments). Two words in every game ("GUEST BOOK" in capitals).
    * - livre factice
      - fake book
      - Puzzle item.
@@ -896,13 +989,10 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - Treasure puzzle.
    * - Lotion / Potion de Révélation (aussi « Lotion de Restauration »)
      - Lotion of Revelation
-     - Unify the three FR variants.
+     - Unify the three FR variants (Lotion / Potion de Révélation, Lotion de Restauration) as "Lotion of Revelation".
    * - Lotion de Clairvoyance
      - Clairvoyance Lotion
      - Sub-recipe.
-   * - Lotion de Restauration (variante FR)
-     - Lotion of Revelation
-     - Unified per glossary.
    * - loupe et stéthoscope
      - magnifying glass and stethoscope
      - Runologist props.
@@ -914,7 +1004,7 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - Anthropologist device.
    * - Mage Mos Peratys / mage / Mage Sombre / tombeau du mage
      - the Magus Mos Peratys / mage / the Dark Magus / the Magus's tomb
-     - Founder NPC (phantom_magus).
+     - Founder NPC (phantom_magus). "the Magus's tomb" stays lowercase "tomb" (descriptive, not a place name).
    * - magiciens-guérisseurs / mages-guérisseurs
      - healer-mages
      - Maupertuis lineage.
@@ -963,6 +1053,9 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - Message à un défunt / message spirituel
      - Message to a Deceased / spiritual message
      - Invoker ritual (heading).
+   * - mettre hors d'état de nuire
+     - render harmless / neutralise
+     - Beast and villain quests.
    * - Meujeuh (Djinn renégat)
      - Geeyem
      - Pun on "MJ" pronounced; render as "G-M" pun.
@@ -1009,8 +1102,8 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - Nimouk / Slavinka / Thelassar
      - Places.
    * - NOTE hors-jeu / hors-roleplay
-     - Out-of-game note / out-of-roleplay
-     - Meta.
+     - Out-of-game note / out-of-game
+     - Meta. "hors-roleplay" = "out-of-game" project-wide (Shared row "hors-roleplay"); never "out-of-roleplay".
    * - Notes hors-jeu : le déroulement des révélations
      - Out-of-game notes: how revelations unfold
      - Oracle sheet heading (macro prophecy_workflow_instructions).
@@ -1135,8 +1228,8 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - knowledge portal / "magic" / "analysis" category
      - Hint website.
    * - portail de transplanage / transplanage / portail de téléportation
-     - apparition portal / apparition / teleportation portal
-     - Harry Potter borrowing kept.
+     - teleportation portal / teleportation / teleportation portal
+     - Both FR words name the same portal network: always "teleportation portal". Never "apparition" (in English an apparition is a ghost: false friend in a game full of phantoms).
    * - porte-voix à écho
      - echo megaphone
      - Inventor item.
@@ -1356,6 +1449,9 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - tour de présentation
      - round of introductions
      - Pre-game ritual of the players.
+   * - tout petits neveux / piti-piti-fillots
+     - great-great-great-grandnephews and grandnieces
+     - Ankou speech and Octave sheet; the childish "piti-piti-...fillots" keeps the same rendering.
    * - traître / méchant / Démasquer et neutraliser le méchant
      - traitor / villain / Unmask and neutralise the villain
      - Quest heading.
@@ -1413,9 +1509,6 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - Vortex Abyssal
      - Abyssal Vortex
      - Demonic dimension.
-   * - Vos compétences
-     - Your abilities
-     - Top heading of every player sheet (already implied by glossary "compétences spéciales").
    * - Vos connaissances sur les différents types de blessures
      - Your knowledge of the different types of injuries
      - Recurrent heading.
@@ -1462,7 +1555,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Voluto's secret lab address (symbol "voluto_secret_lab_address").
    * - 15h / 16h20 / 10h45 (heures)
      - 15:00 / 16:20 / 10:45
-     - Clock times in 24-hour HH:MM format, both in symbols and in prose (harmonised across player sheets).
+     - Clock times on the 24-hour clock (H:MM / HH:MM, no leading zero, see Conventions), both in symbols and in prose (harmonised across player sheets).
    * - 18 mégakashes (opal_lydia_financial_needs)
      - 18 megakashes
      - Symbol value.
@@ -1524,8 +1617,8 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Anthropia (the Anthropia web portal)
      - Verbatim.
    * - antique téléphone-fax filaire (avec vidéo floue)
-     - antique wireline fax-phone (with blurry video)
-     - Alphonse's paid service.
+     - antique landline fax-phone (with blurry video)
+     - Alphonse's paid service. "filaire" = "landline" (never "wireline"); the data keys ``wireline_fax`` and ``manor_has_wireline_phone_through_alphonse`` stay untouched.
    * - Apothicaire
      - Apothecary
      - Master Bibine's trade.
@@ -1592,12 +1685,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Banque de Salima / Votre compte à la banque de Salima
      - Bank of Salima / Your account at the Bank of Salima
      - Institution.
-   * - Bar du Purineur
-     - the Purineur Bar
-     - Short form of "Bar/Brasserie du Purineur".
    * - Bar/Brasserie du Purineur
      - The Purineur Bar/Brasserie
-     - Place.
+     - Place; short form "Bar du Purineur" = "the Purineur Bar".
    * - Baroudeur (Rodok)
      - globetrotter (Rodok)
      - Loyd Georges' adventuring friend; name verbatim.
@@ -1642,7 +1732,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Tabellion's analogy for grandfathered privileges.
    * - Bourse de cuir
      - Leather Purse
-     - game_items.yaml item.
+     - game_items.yaml item. Capitalised in running text too ("the Leather Purse"), including the GM manual's FR typo "bourse de cuire".
    * - Bourses d'étude
      - Study grants
      - Rodimir negotiation demand.
@@ -1678,13 +1768,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Clue prop (Bastet).
    * - Café Bargarac d'Alifir
      - Café Bargarac in Alifir
-     - Place.
-   * - Café Bargarac d'Alifir (akarith_sect_den_bar)
-     - Café Bargarac in Alifir
-     - Symbol value (as glossary).
-   * - Café Bargarac d'Alifir (symbol akarith_sect_den_bar)
-     - Café Bargarac in Alifir
-     - Displayed text of a ``{% symbol %}`` tag; translated per glossary.
+     - Place; also the display value of symbol ``akarith_sect_den_bar``.
    * - caisse hors-jeu
      - out-of-game cash box
      - Tabellion deposit rule.
@@ -1803,11 +1887,11 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Count Adamor / Count Blispin
      - NPCs.
    * - Concept de la soirée mystère / Détails des gameplays de la soirée / Les forces en présence / Le déroulement de la soirée
-     - Concept of the mystery evening / Details of the evening's gameplays / The forces at play / The course of the evening
-     - GM manual headings.
+     - Concept of the mystery evening / Details of the evening's gameplay / The forces at play / The course of the evening
+     - GM manual headings; "gameplay" is uncountable (no "gameplays").
    * - Concile akarite (Grand Concile)
-     - Akarith Council (Great Council)
-     - Institution.
+     - Akarith council (great council)
+     - A one-off religious council, not a standing institution: lowercase in running text ("the Akarith council", "the great council", "this council"); capitals only where the FR title capitalises (appointment title "Hearings of the Akarith Great Council").
    * - Confrérie des Obérons / Obéron / obéron (adj.)
      - Brotherhood of the Oberons / Oberon / Oberon (adj.)
      - Faction.
@@ -1828,10 +1912,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - GM instruction label.
    * - contrat / pacte de négociation (non-exclusif)
      - (non-exclusive) negotiation contract / commercial negotiation pact
-     - Akarith Ambassador's offer to Lydia.
-   * - contrat de négociation (non exclusif)
-     - (non-exclusive) negotiating contract
-     - Ambassador Mission 1.
+     - Akarith Ambassador's offer to Lydia (Mission 1). "contrat de négociation" = "negotiation contract" (never "negotiating contract"); "pacte de négociation commerciale" = "commercial negotiation pact".
    * - Conversion monétaire et dépôt
      - Currency conversion and deposit
      - Section heading.
@@ -1853,6 +1934,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Cuisinier
      - Cook
      - Robb Barrow NPC.
+   * - culte akarite
+     - Akarith worship / the Akarith faith
+     - Dorian mission. FR "culte" is neutral; never "cult" (pejorative in English).
    * - Culture Médicale
      - Medical Knowledge
      - Specific ability.
@@ -1873,10 +1957,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Duel of honour.
    * - Département de la Défense Sabarite
      - Sabarith Department of Defence
-     - Institution.
-   * - Département de la Defense Sabarite (obsidian_employer_name)
-     - Sabarith Department of Defence
-     - Symbol value (as glossary).
+     - Institution; also symbol ``obsidian_employer_name`` (FR tag spells it "Defense").
    * - Dépêche Presse Mondiale
      - World Press Dispatch
      - Specific ability.
@@ -1908,11 +1989,8 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Telling IC and OOC objects apart / Learning and following the scenario / Gameplay Advice
      - game_rules headings.
    * - Djinns de Sedes Sancta (Sollicitation des Djinns)
-     - Djinns of Sedes Sancta (Summoning of the Djinns)
-     - Specific ability.
-   * - Docker (Le)
-     - The Docker
-     - NPC nickname.
+     - Djinns of Sedes Sancta (Consulting the Djinns)
+     - Specific ability: a prepaid call putting three questions to a knowledge sect. "Sollicitation" = "Consulting", never "Summoning" (nothing is conjured).
    * - Dorien / dorienne; Duché dorien; Duc dorien; Dorie
      - Dorian; Dorian Dukedom; Dorian Duke; Doria
      - Faction.
@@ -1948,10 +2026,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Religious title.
    * - Emerald (agent lordanien)
      - Emerald
-     - Dead Lordanian double agent; code name verbatim.
-   * - Emerald (agent)
-     - Emerald
-     - Garnet's dead partner; code name verbatim.
+     - Dead Lordanian double agent, Garnet's former partner; code name verbatim.
    * - Emeute Akarite
      - Akarith Riot
      - Specific ability.
@@ -1993,10 +2068,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Obsidian ability.
    * - Etat des lieux
      - State of play
-     - Heading inside the commented-out post-auction sections (``*.postauction.custom``).
-   * - Etat des lieux / Informations complémentaires - X
-     - State of play / Additional information - X
-     - postauction.custom comment headings.
+     - Heading inside the commented-out post-auction sections (``*.postauction.custom``); never "State of affairs". Its companion heading "Informations complémentaires - <Agent>" has its own row.
    * - Evènements et faits récents
      - Recent events and facts
      - Section heading.
@@ -2027,9 +2099,6 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Fiche PNJ / fiche récapitulative
      - NPC sheet / summary sheet
      - GM meta.
-   * - Fils Elu des Yods
-     - Chosen Son of the Yods
-     - Already in glossary; confirmed.
    * - Flash-mob de fanatiques akarites
      - Flash mob of Akarith fanatics
      - Generic ability.
@@ -2059,10 +2128,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Sabarith political title.
    * - Gazette de Sabarim
      - Sabarim Gazette
-     - Newspaper.
-   * - Gazette de Sabarim (cynthia_employer_name)
-     - Sabarim Gazette
-     - Symbol value (as glossary).
+     - Newspaper; also symbol ``cynthia_employer_name``.
    * - Gemmes
      - Gems
      - Valuables.
@@ -2089,10 +2155,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Mining negotiation sides.
    * - Gîte Les Myrtilles
      - Les Myrtilles guesthouse
-     - Place.
-   * - gîte Les Myrtilles (garnet_rental_location)
-     - Les Myrtilles guesthouse
-     - Symbol value (matches glossary "Gîte Les Myrtilles").
+     - Place; also symbol ``garnet_rental_location``.
    * - glyphes sur le toit de la cabane de jardin
      - glyphs on the roof of the garden shed
      - Panorbium clue.
@@ -2100,14 +2163,11 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Palm-greasing (bribe)
      - Generic ability.
    * - Grand concile / La décision du grand concile / haut-gradé du concile
-     - Great Council / The Great Council's decision / high-ranking member of the council
-     - Akarith institution.
-   * - Grand Hall
-     - Great Hall
-     - Manor room.
+     - great council / The great council's decision / high-ranking member of the council
+     - Lowercase, see "Concile akarite".
    * - Grand Hall / petit hall / vestibule / réduit sous l'escalier en colimaçon
      - Great Hall / small hall / vestibule / cubbyhole under the spiral staircase
-     - Manor rooms (previous_days files).
+     - Manor rooms; capitalise "Great Hall" as a room name.
    * - grand hall, bureau, bibliothèque, salle à manger, cuisine (videosurveillance_cameras_locations)
      - great hall, study, library, dining room, kitchen
      - Symbol value.
@@ -2132,6 +2192,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - haut-préfet salimien
      - Salimian high prefect
      - Malachite's bribery attempt.
+   * - haute personnalité
+     - prominent public figure
+     - Notary sheet; see also "personnalité (de Sabarim)".
    * - hauteurs de Kéroskia
      - Keroskia highlands
      - Origin of the Ambassador's skull ring (symbol tag text).
@@ -2233,7 +2296,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Rydji/LG sofa talk (refers to Waden).
    * - Joute
      - Joust
-     - Duel of honour word game.
+     - Duel of honour word game. The rules check words against larousse.fr (a French dictionary): kept as is in EN, whether to cite an English dictionary is an author decision.
    * - Joute (annonce d'une lettre : "Je vous donne un F")
      - joust ("I give you an F")
      - Duel of honour word game; example word adapted "abcès" -> "abscess".
@@ -2250,8 +2313,8 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Sabarim Justice
      - Document heading.
    * - Khaal (fils Magnus) / thalassothérapie du mont brumeux
-     - Khaal / the thalassotherapy centre of the misty mountain
-     - Magnus son's location.
+     - Khaal / the thalassotherapy centre of the misty mountains
+     - Magnus son's location; FR singular "mont brumeux" also = "misty mountains" (see "monts brumeux").
    * - Khaal Magnus
      - Khaal Magnus
      - NPC; verbatim.
@@ -2288,6 +2351,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - « La renaissance de Sabarim » (lydia_sheet_motto)
      - "The rebirth of Sabarim"
      - Symbol value.
+   * - laborantin
+     - lab technician
+     - Cynthia and Waden files ("laboratory assistant" is an acceptable variant).
    * - Laboratoire de biophysique de Belez
      - biophysics laboratory of Belez
      - Mummy analysis.
@@ -2314,7 +2380,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - vs. "laurier rose" = oleander.
    * - Le Docker (de Le Docker)
      - The Docker (from The Docker)
-     - Keep the article capitalised as part of the nickname.
+     - NPC nickname. Keep the article capitalised as part of the nickname ("The Docker", "from The Docker"), even where the FR has a lowercase article ("le Docker").
    * - le docteur Marloff du département d'optique appliquée, le jeune physicien Waden Shaw, et le professeur Idn Gark du pôle Energies Nouvelles (voluto_suspicious_colleagues)
      - Doctor Marloff of the applied optics department, the young physicist Waden Shaw, and Professor Idn Gark of the New Energies division
      - Symbol value.
@@ -2334,8 +2400,8 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - The secret of the atoms / Loyd Georges' find / The Balberith blackmail / These last few days...
      - Waden sheet headings.
    * - le sir / le sieur (Loyd Georges)
-     - the sir / the gentleman
-     - Author's idiom for Loyd Georges kept as "the sir" (lowercase) in narrative.
+     - the gentleman
+     - Author's playful idiom for Loyd Georges (and "le sieur X" for other men): always "the gentleman" ("le pauvre sir" = "the poor gentleman", "le sir de Salima" = "the gentleman of Salima"). Also for other men, ironic or pejorative ("ce triste sir" = "this sorry gentleman", e.g. Mundlish Odalisc, Malachite's official identity). Never "the sir" (not English). "Sir Loyd Georges" as a title keeps its capital.
    * - les bras croisés sur la poitrine
      - arms crossed over the chest
      - Symbol "dorian_akarith_alliance_sign".
@@ -2458,10 +2524,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Place.
    * - monts brumeux
      - misty mountains
-     - Lowercase, harmonised with lydia sheets.
-   * - Monts brumeux (thalassothérapie des)
-     - Misty Mountains (thalassotherapy centre of the)
-     - Audio recording lore.
+     - Lowercase plural everywhere, including FR singular "mont brumeux"; "thalassothérapie des monts brumeux" = "thalassotherapy centre of the misty mountains"; same words in symbol ``khaal_isildis_location``.
    * - mot de passe de reconnaissance
      - recognition password
      - Oberon first-contact rule.
@@ -2508,8 +2571,8 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Banking operations
      - Anthropia mechanic.
    * - Orbe (Orbes Divins, saint orbe, orbe sacré) / L'orbe de Loyd Georges
-     - Orb (Divine Orbs, holy orb, Sacred Orb) / Loyd Georges' Orb
-     - Core lore.
+     - Orb (Divine Orbs, sacred orb) / Loyd Georges' Orb
+     - Core lore. Only "Divine Orb(s)" is a capitalised proper name; "saint orbe" and "orbe sacré" are both "sacred orb", lowercase (even FR "Orbe Sacré Akarite" = "Akarith sacred orb"). Never "holy orb".
    * - Ordre des Tabellions
      - Order of Tabellions
      - Institution.
@@ -2556,11 +2619,8 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Your criminal record
      - Sheet title.
    * - patriarche akarite de Gheck / Ghek
-     - Akarith patriarch of Gheck / Ghek
-     - FR source spells it both ways; kept as in each source line.
-   * - patriarche de Ghek
-     - Patriarch of Ghek
-     - Topaz/Amethyst lore.
+     - Akarith patriarch of Ghek
+     - Generic office: lowercase "the patriarch of Ghek". FR source spells it "Gheck" once (amethyst standalone); normalised to "Ghek" as in the data key ``amethyst_wiretaps_ghek_patriarch``.
    * - Pénalités (judiciaires)
      - (Judicial) penalties
      - Mechanic.
@@ -2573,6 +2633,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Perroquet Baveur
      - The Drooling Parrot
      - Tavern name.
+   * - personnalité (de Sabarim)
+     - (Sabarim) public figure
+     - Mining-lease mission briefings ("Une personnalité de Sabarim propose...") and planning labels ("Attack on a Salima public figure"); not "personality". "haute personnalité" has its own row.
    * - petite boite à mouchoir
      - small tissue box
      - Hiding place of the safe code (symbol tag text).
@@ -2714,6 +2777,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Royaume de Subael
      - Kingdom of Suabel
      - locations.yaml key is Kingdom_of_Suabel; use "Suabel".
+   * - rubrique des chiens écrasés
+     - miscellaneous news pages
+     - Topaz standalone; the idiom, not "crushed dogs".
    * - Rue de l'Arsenic
      - Arsenic Street
      - Place.
@@ -2740,7 +2806,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Temple of Nazur.
    * - Salima / salimien / Voisine Salimienne
      - Salima / Salimian / Salimian Neighbour
-     - City.
+     - City. The FR "Sablima" in sabarith_triumvirate is a source typo (author decision): the EN keeps "Sablima" as long as the FR does.
    * - Sas / détecteur de haute technologie
      - airlock / high-tech detector
      - Manor entrance.
@@ -2752,7 +2818,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Voluto's official research.
    * - Scanner Mondial (Recherche par scanner mondial des clones d'un objet)
      - World Scanner (World-scanner search for clones of an object)
-     - Anthropia ability.
+     - Anthropia ability. Capitalised in running text too ("the World Scanner", "geolocation by the World Scanner").
    * - Sceau du secret (sous le)
      - under the seal of secrecy
      - Spy officialese.
@@ -2801,18 +2867,18 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Soirée / soirée spéciale / La journée de la soirée spéciale
      - Evening / special evening / The day of the special evening
      - Setting.
-   * - Soleil des atomes
-     - Sun of Atoms
-     - Already in glossary; used as such in waden_previous_days.
    * - Soleil des atomes / supernova atomique
      - Sun of Atoms / atomic supernova
-     - Lore weapon.
+     - Lore weapon; "Sun of Atoms" always capitalised (named device).
    * - sonnette d'appel des domestiques
      - servants' call bell
      - Garnet's evening intrusion.
    * - Soulèvement populaire
      - popular uprising
      - Rodimir appointment.
+   * - soupirail
+     - basement window
+     - Peridot files.
    * - Soutiens extérieurs
      - External supporters
      - Mentors rule.
@@ -2821,10 +2887,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - GM planning labels.
    * - Square Fleuri de Salima
      - Salima Flower Square
-     - Place.
-   * - Square Fleuri de Salima (malachite_alibi_location)
-     - Salima Flower Square
-     - Symbol value (as glossary).
+     - Place; also symbol ``malachite_alibi_location``.
    * - statuette kéroskienne à trois yeux
      - three-eyed Keroskian statuette
      - Cynthia's investigation (cf. Three-eyed Bust).
@@ -2851,7 +2914,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Voluto's experiment (waden).
    * - Tabellion (Tabellion de Salima; Maestre Ramye Leydelass)
      - Tabellion (Tabellion of Salima; Maestre Ramye Leydelass)
-     - NPC title verbatim; gloss "notary" on first use.
+     - NPC title verbatim: "the Tabellion" (capital T) whenever it designates the NPC; lowercase "tabellion(s)" only for the profession in general ("the privileges of tabellions"). Gloss "notary" on first use.
    * - tableaux des 4 saisons d'Arcimboldo / buste automnal
      - Arcimboldo's Four Seasons paintings / autumnal bust
      - Treasure clue.
@@ -2865,8 +2928,8 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Low-Frequency Telephone
      - Specific ability.
    * - Téléphone-fax Filaire Sécurisé
-     - Secure Wireline Fax-Phone
-     - Specific ability.
+     - Secure Landline Fax-Phone
+     - Specific ability (macro ``wireline_fax``, name unchanged).
    * - Teneur (d'un interrogatoire)
      - Gist
      - Planning label for Shark's interrogation content.
@@ -2951,6 +3014,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Venture Prins (livre factice)
      - "Venture Prins" (fake book)
      - Verbatim in-game title.
+   * - vidéographie
+     - videograph
+     - Pangea recording medium (Cynthia standalone).
    * - Vieille Voisine / vieille dame de Salima / doyenne du hameau
      - Old Neighbour / old lady of Salima / the hamlet's eldest resident
      - Multi-role NPC; glossary only has "Voisine Salimienne".
@@ -3062,8 +3128,8 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
      - ancient artefacts
      - British spelling "artefact".
    * - Artefacts cachés
-     - Hidden artefacts
-     - Treasure document heading.
+     - Hidden Artefacts
+     - Treasure document heading; Title Case like its siblings (Legionary's Equipment, Wooden Chest).
    * - article de journal
      - newspaper article
      - Handout given at game start.
@@ -3178,6 +3244,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - coffret (de bois) / coffrets imbriqués
      - (small) wooden chest / nested chests
      - Harmonise coffre/coffret to "chest".
+   * - Coffret de bois
+     - Wooden Chest
+     - Treasure document heading (Title Case like its siblings); "chest" in prose, see "coffret (de bois) / coffrets imbriqués".
    * - Complément d'enquête #1 / #2 / #3
      - Investigation Update #1 / #2 / #3
      - Police report headings.
@@ -3240,7 +3309,7 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
      - Sheet title.
    * - Description du trésor du musée
      - Description of the Museum Treasure
-     - GM manual heading.
+     - GM manual heading. In prose "le trésor du musée" stays lowercase ("the museum's treasure", "around the treasure"); only the rotation station is "the Treasure" / "the Museum Treasure".
    * - Descriptions des figurants
      - NPC Actor Descriptions
      - GM manual heading.
@@ -3377,8 +3446,8 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
      - grand master of the conservatoire / the playwright Jeanne Lubeck
      - Curator's alibi guests; names verbatim.
    * - GREFFE / greffier.ère
-     - CLERKING / clerk
-     - Player role (note-taker).
+     - CLERK'S OFFICE / clerk
+     - Player role (note-taker); ALL-CAPS skill term like PSYCHISM and INTIMIDATION; never "CLERKING".
    * - grimoire (factice / scellé à couverture de bois / Celte)
      - grimoire (fake / sealed with wooden cover / Celtic)
      - Canonical item: "sealed grimoire with wooden cover".
@@ -3473,8 +3542,8 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
      - limbo
      - Druid's spiritual retreat.
    * - livre d'or
-     - guestbook
-     - Debriefing.
+     - guest book
+     - Debriefing reminder. Two words, as in the Archives table.
    * - LOGISTIQUE
      - LOGISTICS
      - Game-flow label.
@@ -3696,7 +3765,7 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
      - God's name, verbatim.
    * - Trésor (du musée / antique)
      - (Museum / ancient) Treasure
-     - Capital T as the 4th rotation station.
+     - Capital T only as the 4th rotation station ("the Treasure", "the Museum Treasure"); lowercase in running prose ("the museum's treasure").
    * - Uxellodunum
      - Uxellodunum
      - Verbatim.
@@ -3707,8 +3776,8 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
      - to check facts
      - Inspector's offer.
    * - Vieux Lyon
-     - Old Lyon
-     - Setting, December 1900.
+     - Vieux Lyon
+     - Setting, December 1900. Keep the French district name (usual in English guidebooks and the UNESCO listing); never "Old Lyon".
    * - Vocabulaire
      - Vocabulary
      - Common rules heading.
@@ -3887,10 +3956,10 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - Science lore.
    * - caverne aquifère
      - Aquifer Cavern
-     - Location heading; "Cavern" for the big rooms, "cave" generically. "sous-caverne" = "sub-cavern".
+     - Location heading; "Cavern" for the big rooms, "cave" generically. "sous-caverne" = "sub-cavern". Descent location names are Title Case in headings and on the map, lowercase in running text ("the aquifer cavern").
    * - caverne du temple yodique
      - Yodic Temple Cavern
-     - Location heading.
+     - Location heading (Title Case); lowercase in running text ("the Yodic temple cavern").
    * - cérémonie de crémation / obsèques
      - cremation ceremony / funeral
      - Sentience scene 3.
@@ -3926,7 +3995,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - Thunder, per locals. Plural "Yods".
    * - colline extérieure
      - The Hill Outside
-     - Location heading.
+     - Location heading (Title Case); lowercase in running text ("the hill outside").
    * - combat / Combats possibles
      - fight / Possible Fights
      - Section heading.
@@ -4396,8 +4465,8 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - Holy of Holies of the Yodic Temple
      - Location heading.
    * - Salle principale du temple (pré-)yodique
-     - Main Hall of the Yodic Temple
-     - Heading.
+     - Main Hall of the Pre-Yodic Temple
+     - Heading; keep "Pre-" (the building predates Yodism and was only later taken over by the Razulites). Lowercase in running text.
    * - scoop archéologique
      - archaeological scoop
      - Archaeologist mission.
@@ -4445,7 +4514,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - Sapient abilities.
    * - temple païen
      - Pagan Temple
-     - Location heading.
+     - Location heading (Title Case); lowercase in running text ("the pagan temple").
    * - théocratie yodique fanatisée
      - fanatical Yodic theocracy
      - Akaris description.
@@ -4454,7 +4523,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - Temple windows.
    * - Tortue ancestrale (PNJ)
      - Ancestral Tortoise (NPC)
-     - "tortoise", not "turtle".
+     - "tortoise", not "turtle". A named NPC: always capitalised, "the Ancestral Tortoise", also in running text.
    * - tour / chaumière de l'alchimiste
      - the alchemist's tower / cottage
      - Same dwelling, two words.
@@ -4469,7 +4538,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - Heading.
    * - tunnel vers l'extérieur
      - Tunnel to the Outside
-     - Heading.
+     - Heading (Title Case); lowercase in running text.
    * - varan impérial / varan royal
      - imperial monitor (lizard)
      - Unify "imperial monitor".

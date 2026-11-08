@@ -64,7 +64,7 @@ Towards the Tabellion of Salima, you are rather indifferent; you think that "thi
 
 When the Akarith ambassador turns up at the manor, like the whole household, you do not hide your indignation. However you have an *irrepressible* attraction to the dishes he brings, which poses you a crisis of conscience; until you crack and stuff yourself with them.
 
-You are the only one who knows how to operate an **antique wireline fax-phone (with blurry video)** present in the manor. You take advantage of this to charge for its use: **50 kashes per call, or 150 kashes for unlimited use by one person**.
+You are the only one who knows how to operate an **antique landline fax-phone (with blurry video)** present in the manor. You take advantage of this to charge for its use: **50 kashes per call, or 150 kashes for unlimited use by one person**.
 {% fact "manor_has_wireline_phone_through_alphonse" as author %}
 
 From time to time you lament the fact that the manor is going to be seized by Loyd Georges' creditors or bought by his adversary {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, that the servants will be driven out of it, that nobody will want to hire an old fossil like you...  {% fact "lord_mac_jolt_wants_to_own_lg_manor" %}

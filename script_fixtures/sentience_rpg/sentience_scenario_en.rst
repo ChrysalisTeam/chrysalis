@@ -99,7 +99,7 @@ For some years now, the industrialisation of the world has been accelerating, an
 
 This close circle is made up of 2 people: **Fénelon, the notary** of the village and partner in all dirty tricks. And **Joséphine des Hautvents, his only daughter**, who came back to the village to recharge her batteries a few months ago, after a fine start to her career in the administration of a railway transport company.
 
-One fine day, an explosion rings out in the forest, and rocky debris lands on the village; a certain **Émile the tanner** thus ends up buried under a rock, in his house. Other dwellings are hit, forcing their inhabitants to **relocate temporarily to the inn**. Hypotheses abound about the origin of this catastrophe. Joséphine then pushes her father to see his ideas through: to write a letter purportedly signed by the alchemist's hand, and claiming this rain of rock as a curse intended to drive the "stinking hairless apes" (meaning the humans) out of the land.
+One fine day, an explosion rings out in the forest, and rocky debris lands on the village; a certain **Émile the tanner** thus ends up buried under a rock, in his house. Other dwellings are hit, forcing their inhabitants to **relocate temporarily to the inn**. Hypotheses abound about the origin of this catastrophe. Joséphine then pushes her father to see his ideas through: to write a letter purportedly signed by the alchemist herself, and claiming this rain of rock as a curse intended to drive the "stinking hairless apes" (meaning the humans) out of the land.
 
 Since the alchemist only writes her rare missives with a very specific **typewriter**, Joséphine advises her father to take the plot even further: to write this forged letter imitating the handwriting of **the Enchantress Dorina** (of which Joséphine has obtained a sample), and to claim that this letter was dropped by an extremely rare **green-billed toucan** - known to be the Enchantress's familiar. Thus, in the event of a future investigation, it is the Enchantress who would find herself accused of conspiracy; all the more so as she has a perfect motive, having often been Séléné's **unsuccessful rival** at the famous Triennial Congress of Wonders.
 
@@ -141,7 +141,7 @@ How the game unfolds
 0 - Prelude
 ------------------
 
-The ancestral tortoise, a close friend of Séléné, calls through her powerful telepathic aura upon the beasts of the forest to come and mourn: the alchemist was murdered while reading in her bed. She has a crossbow bolt planted in her heart. Her head, with its **long red hair**, has disappeared.
+The Ancestral Tortoise, a close friend of Séléné, calls through her powerful telepathic aura upon the beasts of the forest to come and mourn: the alchemist was murdered while reading in her bed. She has a crossbow bolt planted in her heart. Her head, with its **long red hair**, has disappeared.
 
 Many are the animals, tamed by the alchemist, that come running.
 In particular the 3 other sapients - the owl, the marmoset and the wombat.
@@ -156,7 +156,7 @@ For her part, she takes care of preparing a dignified burial for Séléné, by c
 - Various tools and ingredients (including poisons) can be found in the alchemist's cottage.
 - Her enormous **Grimoire of Life** is missing, where she kept all her writings and precious documents, as well as her diary.
 - A few pieces of rock, metal and crystal have also disappeared from the shelves.
-- The ancestral tortoise can recount the events surrounding the mining explosion, from the alchemist's point of view.
+- The Ancestral Tortoise can recount the events surrounding the mining explosion, from the alchemist's point of view.
 
 
 1 - The witcher is on his way to the village
@@ -165,7 +165,7 @@ For her part, she takes care of preparing a dignified burial for Séléné, by c
 Tracking shows that the rider left directly in the direction of the village, which is **12 kilometres** away.
 
 An exploration of the rock massifs reveals the small mining diggings ravaged by the explosion, with the 3 graves of the explorers.
-If the graves are dug up, the papers of these explorers have disappeared.
+If the graves are dug up, the explorers' papers turn out to be missing.
 
 The witcher takes a nap at the hunting camp.
 He sleeps, protected by a small **alarm automaton** which detects animal presences in the vicinity.
@@ -224,12 +224,12 @@ The burgomaster brings up again the subject of the alchemist's **undestroyed tow
 3 - The villagers interrupt the alchemist's funeral
 --------------------------------------------------------------
 
-The ancestral tortoise warns the sapient animals that the Enchantress and the Druid have arrived, and that they are holding a cremation ceremony with many animals that have come running.
+The Ancestral Tortoise warns the sapient animals that the Enchantress and the Druid have arrived, and that they are holding a cremation ceremony with many animals that have come running.
 They wonder whether to burn the tower, since in any case Séléné had already passed on to each of them, as she went along, the well-established knowledge to be handed down to future apprentices.
 
 If the 2 mourners are still there when the villagers arrive, they are taken prisoner. Otherwise, Abélard may set off in pursuit of them and take them prisoner, if they have not been sufficiently warned.
 
-If the tower has not yet burned, Abélard first insists on searching it, and helps to find a few rare handwritten parchments, to bring them back to the village; then the dwelling is set on fire. If they are not prisoners, the 2 magicians join the ancestral tortoise in a hiding place in the forest.
+If the tower has not yet burned, Abélard first insists on searching it, and helps to find a few rare handwritten parchments, to bring them back to the village; then the dwelling is set on fire. If they are not prisoners, the 2 magicians join the Ancestral Tortoise in a hiding place in the forest.
 
 Meanwhile, in the village, in his shop, **the apothecary** can explain to the animals what he knows of the story: the rocks that fell on the village, and the threatening parchment delivered to the burgomaster - by a green-billed toucan, it seems (only the burgomaster saw it). He can ask the burgomaster for this parchment, "for the village archives", if prompted, because he is also the **archivist**.
 
@@ -251,7 +251,7 @@ If the **Grimoire of Life** has been spirited away/altered by Joséphine, and Ab
 
 If, at some point, Abélard is confronted with the fact that the handwriting of Séléné's **forged** threatening **letter** does not match that found on the other manuscripts, then he launches into a counter-investigation, appearing increasingly troubled.
 
-Depending on the various pieces of information the apothecary may bring back, the first level of **conspiracy** is, or is not, exposed; if it is, both Joséphine and Abélard *officially* distance themselves from the burgomaster, without accusing him either. Joséphine can point out that the green-billed **toucan** would in fact belong to the Enchantress Dorina.
+Depending on the various pieces of information the apothecary may bring back, the first level of **conspiracy** is, or is not, exposed; if it is, both Joséphine and Abélard *officially* distance themselves from the burgomaster, without accusing him either. Joséphine can point out that the green-billed **toucan** supposedly belongs to the Enchantress Dorina.
 
 Joséphine reassures her father - who is nonetheless badly shaken - as best she can, and confirms to him that their evening **rendezvous** still stands.
 

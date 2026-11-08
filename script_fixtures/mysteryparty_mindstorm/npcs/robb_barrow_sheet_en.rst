@@ -16,7 +16,7 @@ You feed the old dog Bedou and eat the leftovers, with Alphonse, at around {% sy
 
 At around {% symbol "16:00" for "kitchen_cook_inspector_meeting_time" %} you get back to the stove, to cook a "veal blanquette with bay leaves"; indeed, a few days ago, you found on your worktop a note from Loyd Georges, requesting this dish for tonight. The inspector drops by to chat with you a little while you are busy; he talks about the recent attempts to burgle the manor, but you have no information to give him on that subject.
 
-The inspector leaves before the evening meal. You give Bedou some blanquette, as a preview, shortly before {% symbol "19:00" for "evening_dinner_time_dog_bedou" %}; then you go off to eat in town with family, before Loyd Georges dines.
+The inspector leaves before the evening meal. You give Bedou some blanquette, as a preview, shortly before {% symbol "19:00" for "evening_dinner_time_dog_bedou" %}; then you go off to eat in town with some relatives, before Loyd Georges dines.
 
 The next day, the day of the special evening, you learn that Loyd Georges has been hospitalised, but the inspector does not tell you much, except to prepare the evening "as if nothing had happened".
 

@@ -32,11 +32,11 @@ Full Story (SPOILERS)
 
 In antiquity, following the defeat at Alesia (52 BC), the Gauls were conquered by Julius Caesar. But not all of them. Rebel tribes kept up the fight, and took refuge in the oppidum of Uxellodunum (in the uplands of Quercy). Starved out by the Roman siege, they ended up surrendering in their turn.
 
-But a few druids, come from Armorica, set up one last act of vengeance. Taking refuge in a cave with some fugitives, they invoked their tutelary god, {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, through dark sorcery; with the aim of bringing forth a mythical warrior, who would reverse the course of events and bring them victory.
+But a few druids, who had come from Armorica, set up one last act of vengeance. Taking refuge in a cave with some fugitives, they invoked their tutelary god, {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, through dark sorcery; with the aim of bringing forth a mythical warrior, who would reverse the course of events and bring them victory.
 
 However, the gestation of this entity proved longer and more complex than expected. The ablutions and rituals - necessary for the operation to run smoothly - were interrupted many times throughout History.
 
-So much so that at the very beginning of the 20th century, this legendary creature has still not been incarnated. The artefacts bearing the enchantment (grimoire, gladius, cromlech model...) are now "hidden in plain sight", in an unusual library-museum that mainly serves as a workspace for the local students. To avoid legal trouble, the manager of the place, the "Curator", passes these museum pieces off as mere replicas.
+So much so that at the very beginning of the 20th century, this legendary creature has still not become incarnate. The artefacts bearing the enchantment (grimoire, gladius, cromlech model...) are now "hidden in plain sight", in an unusual library-museum that mainly serves as a workspace for the local students. To avoid legal trouble, the manager of the place, the "Curator", passes these museum pieces off as mere replicas.
 
 But a young "Hero", the child of an Italian diplomat and passionate about ancient esotericism, is on the trail of this invocation. He discreetly spies on the museum, trying to find out who knows about this phenomenon, and who is friend or foe. Along the way, he befriends a student reporter, whom he partly lets in on the secret.
 
@@ -51,12 +51,12 @@ As a result, a whole crowd descends on the premises: the city's Police Inspector
 The detective-players therefore investigate on the premises, questioning the various witnesses in this case in groups, in parallel.
 They receive very different, contradictory points of view on the library-museum, the Hero, and the various witnesses. They must sort truth from falsehood.
 
-The further they progress through this interrogation rotation, the more clues have accumulated in the meantime, and so the better placed the players are to "corner" a witness. Each group will thus have a different access to the crucial information and the explosive revelations.
+The further they progress through this interrogation rotation, the more clues have accumulated in the meantime, and so the better placed the players are to "corner" a witness. Each group will thus have different access to the crucial information and the explosive revelations.
 The Police Inspector steps in from time to time, to point out a troubling detail or a contradiction.
 
 All the while, disturbing phenomena begin to manifest (sounds, lights...). For the Hero has in fact healed himself thanks to a healing potion, and has gone off to face the nascent Monster before it is too late, in a parallel reality accessible via the miniature cromlech. {% xitem "potion de guérison utilisée" is needed %}
 
-A Druid's spectre appears to some of the players (the psykers) to turn them against the Hero, lying about the ongoing gestation - which has in fact become irreparably uncontrollable and demonic.
+A Druid's spectre appears to some of the players (the psykers) to turn them against the Hero, lying about the ongoing gestation - which has in fact become irreversibly uncontrollable and demonic.
 
 There are two different endings, depending on whether the majority of players side with the Reporter (in favour of the Hero), or with the Curator (in favour of the Druid and the Monster):
 

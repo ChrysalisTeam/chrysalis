@@ -4,7 +4,7 @@
 Concept of the mystery evening
 ================================
 
-Chrysalis:Mindstorm is a closed-room setting halfway between criminal investigation and geopolitical conflict, where secret agents and civilians from various countries find themselves facing a formidable police inspector, who will push them to their very limits.
+Chrysalis:Mindstorm is a closed-room setting halfway between criminal investigation and geopolitical conflict, where secret agents and civilians from various countries find themselves facing a formidable police inspector, who will drive them into a corner.
 
 It all begins as an ordinary auction evening, organised by the adventurer Sir Loyd Georges, in his manor in Salima. The reception has barely begun when the players learn that Loyd Georges is hovering between life and death, and that nobody will leave the premises until the culprit of this assassination attempt has been arrested.
 
@@ -18,7 +18,7 @@ The Chrysalis:Mindstorm mystery evening can be played in two ways:
 
 - either in **ante-auction STANDALONE mode**, that is, as an isolated game. The game takes place at the very beginning of Loyd Georges' series of auctions, after he has led an illegal archaeological expedition into Akarith territory, but before the events of Chrysalis:Auction (so as not to *spoil* that alternate reality campaign). The skirmishes have already begun: harassment from the outraged Akarith leaders, theft attempts, first espionage manoeuvres by the various surrounding states... Inspector Shark has therefore been assigned to investigate the misdeeds targeting Loyd Georges, and to ensure his protection. In this game mode, the players' "potential criminal record" (most of them being secret agents) is predefined; no orb has been recovered yet, and there are only scarce clues to the existence of the powerful "Paladium" faction. The players come to the manor with a view to learning more about Loyd Georges' archaeological finds. In this mode, in theory, only one of the three orbs can be recovered during the mystery evening (the others are left for a possible subsequent alternate reality game).
 
-- or in **post-auction CUSTOM mode**, that is, as an epilogue to a game of Chrysalis:Auction (alternate reality). In this case the players already know the context and the various protagonists well, and have themselves filled in their "potential criminal record", through the actions they carried out over the successive auctions. Typically, the orbs have all been recovered by one side or the other, and the Paladium has revealed itself by attacking the Akarith Judicators. The situation remains largely very murky, since the Akariths are divided between those who no longer believe in the fulfilment of their prophecies, and those who are still fighting to bring about, by force, the reunion of the three Divine Orbs. The various States of the entire planet are therefore in a wait-and-see position. In this context, the players are weighed down by the uncertainties linked to recent events, as well as by the more or less discreet manoeuvres they had to perform during the auctions. Nevertheless, they still throw themselves into the fray, hoping to still come out of it with something to show for themselves.
+- or in **post-auction CUSTOM mode**, that is, as an epilogue to a game of Chrysalis:Auction (alternate reality). In this case the players already know the context and the various protagonists well, and have themselves filled in their "potential criminal record", through the actions they carried out over the successive auctions. Typically, the orbs have all been recovered by one side or the other, and the Paladium has revealed itself by attacking the Akarith Judicators. The situation remains largely very murky, since the Akariths are divided between those who no longer believe in the fulfilment of their prophecies, and those who are still fighting to bring about, by force, the reunion of the three Divine Orbs. The various States of the entire planet are therefore in a wait-and-see position. In this context, the players are weighed down by the uncertainties linked to recent events, as well as by the more or less discreet manoeuvres they had to perform during the auctions. Nevertheless, they still throw themselves into the fray, hoping to come out of it with something to show for it.
 #}
 
 
@@ -46,7 +46,7 @@ The forces at play
 
 the protagonists of the Loyd Georges Affair:
 
-- the Masslavian faction (Malachite and Spinel) is very anti-Akarith; it wants to prevent Doria from being annexed to Akaris, and the invasion of their own country.
+- the Masslavian faction (Malachite and Spinel) is very anti-Akarith; it wants to prevent Doria from being annexed by Akaris, and its own country from being invaded.
 - the Dorian faction (Topaz and Peridot) is rather pro-Akarith; on the orders of the Dorian Duke, it must facilitate the alliance of their country with Akaris, even though this is not unanimously supported among the Dorian top brass.
 - the Lordanian faction (Garnet and Amethyst) just wants to preserve its country's hegemony; it therefore wants to discover the exact balance of power in Midolia, then prevent the rise of an Akarith empire in that region, which would result from a successful invasion of the surrounding countries.
 - Opal and Lydia, civilians of Lordanian nationality (and Sabarith too, for Lydia), must above all serve the interests of their family, by avoiding financial ruin, by finding a way to cure the husband (victim of an Akarith sect), and by enabling the wife to win the consular elections.
@@ -59,7 +59,7 @@ The "secret agent" type players share a few common objectives:
 - avoid being unmasked, or falling short of their side's expectations (for example by giving too much information to a third party)
 - escape the formidable local justice system, regarding their potential larcenies
 
-The civilians, for their part, may also have the local justice system to fear, for more personal reasons, but generally speaking they are above all oppressed by the secret agents' intrigues.
+The civilians, for their part, may also have the local justice system to fear, for more personal reasons, but generally speaking they are above all under pressure from the secret agents' intrigues.
 
 
 
@@ -73,7 +73,7 @@ Read the detailed schedule sheet, for an hour-by-hour summary of the possible ev
 The fate of the Orbs, of Loyd Georges, and the judicial status of the players (prosecuted or not by the local justice system), will thus depend on the various events that occur during the game.
 
 
-Details of the evening's gameplays
+Details of the evening's gameplay
 ========================================
 
 These gameplay paths may of course be modified, or replaced, at the Game Master's discretion, as long as the general plot of the scenario remains supported by the necessary clues.
@@ -125,7 +125,7 @@ Loyd Georges' Orb
 
 Several factions aim to lay their hands on this Orb, recovered by Loyd Georges during his expedition to Midolia.
 
-From the very start of the game, the various secret agents are called by their respective superiors to hack Loyd Georges' "secret question" on the web portal. They must therefore investigate to find the name of Loyd Georges' first pet, between clues scattered around the premises (e.g. annotated souvenir photos) and questions asked to the NPCs. They end up understanding that it is an Egyptian deity, {% symbol  "Bastet" for "lg_first_pet_name" %} (an encyclopedia article on ancient deities helps to find this name).
+From the very start of the game, the various secret agents are asked by their respective superiors to hack Loyd Georges' "secret question" on the web portal. They must therefore investigate to find the name of Loyd Georges' first pet, between clues scattered around the premises (e.g. annotated souvenir photos) and questions put to the NPCs. They eventually work out that it is an Egyptian deity, {% symbol  "Bastet" for "lg_first_pet_name" %} (an encyclopedia article on ancient deities helps to find this name).
 
 Loyd Georges' web account immediately reveals that it is the physicist Waden Shaw who holds the orb, along with various archaeological artefacts brought back from Akaris. From then on, with the advice of their hierarchy, the secret agents will have to spy on Waden, potentially negotiate with him, and above all gather enough clues about his hiding place.
 
@@ -157,16 +157,16 @@ A Zombifying Drug trafficking ring has been set up from Lordania to Sabarim, wit
 
 The Akariths got wind of it, and used this logistics network to quietly plant Akarith agents (including the sect of the "Purifiers" who hunt down desecrators) in Sabarim, in particular in the slum taverns through which the drug transits; going so far as to put a little blackmail pressure on consuls such as {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} when the latter, becoming aware of this Akarith interference, tried to clean up the mess. The Akariths are also partly suppliers of the drug itself.
 
-The Lordanian State has nothing to do with this trafficking, which jeopardises its attempt at a military and scientific rapprochement with Sabarim; the Lordanian secret agents must therefore be informed of this mafia peril.
+The Lordanian State has nothing to do with this trafficking, which jeopardises its attempt at a military and scientific rapprochement with Sabarim; the Lordanian secret agents must therefore be informed of this mafia threat.
 
-The Sabarith secret services, for their part, are aware that things are not right in the slums, but are held back by their subordination to the consuls. The ongoing consular elections could obviously change the game.
+The Sabarith secret services, for their part, are aware that things are not right in the slums, but are held back by their subordination to the consuls. The ongoing consular elections could obviously change everything.
 
 The Sabarith agent Obsidian, present at the evening as "Inspector Shark's deputy", must among other things investigate these infiltrated Akariths.
 
 - the Masslavian agents know that the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %} serves as a den for Akarith Purifiers {% fact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
 - Cynthia receives a misspelt trap message which, once geolocated, points to the address of the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %}
 - the card game sold by Alphonse contains a coded message announcing a meeting of the Purifiers at the Purineur Bar. {% hint 'card_game_with_unreadable_manual' is needed %}
-- a strange radio spot makes a rather counter-productive promotion of the Purineur Bar
+- a strange radio spot gives the Purineur Bar some rather counter-productive publicity
 
 If agent Obsidian reports one of these 2 bars to Inspector Shark, nothing happens.
 On the other hand, the Sabarith secret services can raid it.
@@ -174,11 +174,11 @@ On the other hand, the Sabarith secret services can raid it.
 Findings brought back by the raid:
 
 - coded message {% symbol "MO IS COVERING US - DELIVERY OK – 17 AUBONPICHET TAVERNS SUBDUED OUT OF 1238" for "akarith_sect_coded_message" %}, decipherable with Cynthia's help. {% fact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
-- pocket watch which, once biophysically analysed via Anthropia, reveals Lordanian metals, Akarith pollens in the drug as well as "lime-blossom liqueur vapours" in the drug (which narrows it down to about 80 AuBonPichet taverns serving this drink); the world scanner, for its part, gives about ten zones in the big Akarith cities, zones containing in total about 50 AuBonPichet taverns. Having both clues makes it possible to pinpoint exactly the 17 subdued taverns.
+- pocket watch which, once biophysically analysed via Anthropia, reveals Lordanian metals, Akarith pollens in the drug as well as "lime-blossom liqueur vapours" in the drug (which narrows it down to about 80 AuBonPichet taverns serving this drink); the World Scanner, for its part, gives about ten zones in the big Akarith cities, zones containing in total about 50 AuBonPichet taverns. Having both clues makes it possible to pinpoint exactly the 17 subdued taverns.
 
 The consuls may raise hell, internally, following this first investigation into a gambling den they are trying to protect.
 
-Obsidian's goal is to launch a simultaneous offensive against the identified AuBonPichet taverns, in order to dismantle both the trafficking and the Akarith implantation. But since the army cannot be committed to a domestic operation, and the police is kept in line by the consuls, the forces available for this are insufficient.
+Obsidian's goal is to launch a simultaneous offensive against the identified AuBonPichet taverns, in order to dismantle both the trafficking and the Akarith foothold. But since the army cannot be committed to a domestic operation, and the police are kept in line by the consuls, the forces available for this are insufficient.
 
 It is therefore necessary either to hire companies of Oberons in the other cities of the country, who will track the fugitives, or better still mercenaries (via the Oberons, but more expensive), who will directly take part in the assault on the taverns. Depending on the number of targeted taverns, 1 or 2 support groups must be lined up.
 
@@ -202,14 +202,14 @@ This {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} has also slipped
 
 For Lydia, it is a matter of either repudiating her husband to protect herself (cynical choice), or gaining the upper hand in the confrontation, by making the evidence disappear (the deputy police officer can help with that), or by revealing the crimes (drug trafficking) of {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} to discredit him in advance.
 
-For the other players, this is the moment to forge pacts with Lydia and with the {% symbol "Maestre Ramye Leydelass" for "notary_name" %}, who between the two of them can determine the future policy of the country (in particular regarding the Midolian crisis).
+For the other players, this is the moment to forge pacts with Lydia and with {% symbol "Maestre Ramye Leydelass" for "notary_name" %}, who between the two of them can determine the future policy of the country (in particular regarding the Midolian crisis).
 
 Examples of deals:
 
 - getting Sabarim to open its giant military aerodrome to Lordanian bombers (at the latter's request)?
 - setting up zero tolerance towards infiltrated Akariths?
 - strengthening legislation protecting the press?
-- forcing the scientific academies to open their knowledge to the greatest number?
+- forcing the scientific academies to open their knowledge to as many people as possible?
 
 
 The Sabarith political crisis
@@ -234,8 +234,8 @@ The rebels' demands:
 faced with these demands:
 
 - Lydia has multiple incentives to negotiate, for Sabarim but also so as to be able to help stop the Akarith war effort
-- the Tabellion's son will follow the Tabellion's decisions, so Lydia must convince the latter (even if it means granting "privileges maintained for life" only to the CURRENT notables)
-- the 3rd consul, for his part, is initially entirely opposed to any minimum wage; he must be blackmailed over the Lordanian-Sabarith drug trafficking, to tackle him; he then only asks for trifles (an honorary title of "1st consul", as well as the relocation of two ministries to his consular zone) so as not to lose face.
+- the Tabellion's son will follow the Tabellion's decisions, so Lydia must convince the Tabellion (even if it means granting "privileges maintained for life" only to the CURRENT notables)
+- the 3rd consul, for his part, is initially entirely opposed to any minimum wage; he must be blackmailed over the Lordanian-Sabarith drug trafficking, to bring him into line; he then only asks for trifles (an honorary title of "1st consul", as well as the relocation of two ministries to his consular zone) so as not to lose face.
 
 
 
@@ -246,7 +246,7 @@ The Midolian crisis
 The Lordanians' choice
 ----------------------------
 
-Initially, the Lordanian agents believe that the armed forces are balanced in Midolia, and therefore recommend working towards triggering a war of the Akariths against the other Midolian countries (including Doria).
+Initially, the Lordanian agents believe that the armed forces are balanced in Midolia, and therefore recommend working towards triggering an Akarith war against the other Midolian countries (including Doria).
 
 But two Heliossarian espionage reports, obtainable from the Oberon mediator, provide contradictory information:
 
@@ -257,13 +257,13 @@ Analysis of these missives reveals that the first is false, and the second true.
 
 From then on, the Lordanians' objective becomes to prevent a victorious expansion of the Akariths in Midolia, by various means:
 
-- thwart a rallying of the Dorian Duke to Akaris (by giving a fake "expert testimony" to the council)
+- thwart the Dorian Duke's rallying to Akaris (by giving a fake "expert testimony" to the council)
 - provide air support to deter a land invasion by the Akariths (flying fortress deployed in the giant Sabarith aerodrome of Alifir, the only one on the continent able to accommodate it)
 - more generally, put spokes in the Akariths' wheels (e.g. make sure the tar sands deposit is in no danger of benefiting them)
 
 
 
-The Great Council's decision
+The great council's decision
 ------------------------------------
 
 
@@ -271,7 +271,7 @@ During the evening, a great council takes place in Akaris, the results of which 
 
 Two hearings are held for this purpose:
 
-- a Dorian protagonist is called to directly test his proper conformity to the Judicators' dogmas (based on a simple summary of Yodic theology)
+- a Dorian protagonist is called in to test directly how well he conforms to the Judicators' dogmas (based on a simple summary of Yodic theology)
 - a Masslavian protagonist is called as an expert in Yodic history, to give his opinion on the compatibility between Akariths and Dorians from a religious point of view (based on a wordy and complicated summary of Yodic theology)
 
 Depending on the results of these two hearings, the Akariths take a decision more or less favourable to the Dorians, and broadcast it.
@@ -332,27 +332,27 @@ Radio spots report on these balances of power and on the progress of the invasio
 The mystical grimoire "Panorbium Fortuna"
 ---------------------------------------------------------
 
-the players are looking for a mystical booklet located in the manor, after it was brought back from the archaeological dig in Keroskia by a collaborator of Prof. Loakim.
+the players are looking for a mystical booklet which is in the manor, having been brought back from the archaeological dig in Keroskia by a collaborator of Prof. Loakim.
 The initial clues suggest that the collaborator discreetly came to the manor with the morning delivery lorries, on the day of the interviews.
 
 If questioned, old Alphonse tells of the arrival of this parcel very early, the mystery LG made of it, and later the quarrel between LG and Inspector Shark on this subject (Shark having been unable to inspect it).
 
 To progress in the investigation, the players can choose to:
 
-- recover the **8:00-10:00 camera recordings**, which mention Loyd Georges handling a fake book **"Venture Prins"** in the library
-- have someone fetch the brown canvas bag in the LIBRARY, a bag containing a note mentioning the "Venture Prins"  {% fact 'panorbium_fortuna_bag_remains_in_library' %}
+- recover the **8:00-10:00 camera recordings**, which show Loyd Georges handling a fake book **"Venture Prins"** in the library
+- have someone fetch the brown canvas bag from the LIBRARY, a bag containing a note mentioning the "Venture Prins"  {% fact 'panorbium_fortuna_bag_remains_in_library' %}
 
-Subsequently, the idea is then to recover the "Venture Prins" from the library, once again by paying the Oberon or by blackmailing old Alphonse into doing it himself.
+The next step is then to recover the "Venture Prins" from the library, once again by paying the Oberon or by blackmailing old Alphonse into doing it himself.
 
 The fake book contains a note in plain text, inviting the reader to look into the distance through the window of Loyd Georges' study (which has become the inspector's interrogation room). Binoculars are left available for this purpose, in the reception hall.
 
 From afar, one can read a literary riddle leading to a search **under the cooking recipes**.
 
-The servants do not know where these recipes are (not seen for several days), the new cook Robb Barrow has moved them. And they have better things to do than turn the manor upside down for that. One must therefore wait for the cook's arrival, "later on"; the players who are earliest on this quest should therefore try to confiscate the various available binoculars to sabotage their competitors' efforts, and perhaps try to send the Oberon to search specific corners of the manor.
+The servants do not know where these recipes are (not seen for several days), the new cook Robb Barrow has moved them. And they have better things to do than turn the manor upside down for that. The players must therefore wait for the cook's arrival, "later on"; the players who are earliest on this quest should therefore try to confiscate the various available binoculars to sabotage their competitors' efforts, and perhaps try to send the Oberon to search specific corners of the manor.
 
 If nobody has yet seen the glyphs on the roof of the garden shed when the cook arrives, servants may loudly raise the alarm about their surprising presence.
 
-Alternative lead, if the search is still stalling and if the radioactivity detector is available: a message from Ernest de Villeuneuve informs Loyd Georges and Emilos Loakim that the booklet delivered to the manor this morning might be **radioactive**, and that they therefore had to take precautions.
+Alternative lead, if the search is still stalling and if the radioactivity detector is available: a message from Ernest de Villeuneuve informs Loyd Georges and Emilos Loakim that the booklet delivered to the manor this morning might be **radioactive**, and that they should therefore take precautions.
 Upon viewing this message (via Loyd Georges' hacked account), the players must think of buying the **radiation detector** on the black market, having it brought to the manor by one means or another (postal parcel? masseur from Salima? old lady?), and using it to find the Panorbium Fortuna.
 
 Once he has arrived, the cook readily says where these "cumbersome and useless" recipes can be retrieved: **in a corner of the library**.
@@ -384,16 +384,16 @@ At the start of the evening, Rydji hands him a letter from {% symbol "Rodok" for
 - cave octopus tentacle (found in the cave of Nazur, available in Alphonse's private sale)  {% hint 'blue_aquatic_mushroom_juice' is needed %}"
 - small tangy red fruit (Akarith red plum, available as a liqueur in the antique canister sold at auction)
 
-The Lordanians have also got wind of this Elixir, and they are interested in seeing its effects on Opal, to gauge its relevance for their infantry.
+The Lordanians have also got wind of this Elixir, and they are interested in seeing its effects on Opal, to gauge its usefulness for their infantry.
 
 They, for their part, only have clues about the complementary ingredients, which make it possible to modify the Elixir's effects:
 
-- the basic Elixir gives great energy, dulls pain and slightly increases physical strength, but causes unreasonable aggressiveness in combat, without increasing resistance to injuries for all that
+- the basic Elixir gives great energy, dulls pain and slightly increases physical strength, but causes unreasonable aggressiveness in combat, without, however, increasing resistance to injury
 - adding a drop of Royal Najah venom (found in the cave of Nazur, available in Alphonse's private sale) increases physical strength tenfold, and removes any sensation of pain, but the user regresses to an animal state after the first fight
 - adding powdered ridged goat horn (Akarith goat, available from Lady Clodynette) allows the user to keep his reason in combat, and gives him superhuman reflexes to parry most projectiles and blows
 - in any case, if he takes more than one millilitre of Elixir in a week, the user dies of exhaustion in less than a day
 
-The preparation method of the potion can be found thanks to the Akarith grimoire (sold at auction) and to the powdery deposits of the leather purse (Loyd Georges' account). Not knowing them will alter the quality of the potion.
+The preparation method of the potion can be found thanks to the Akarith grimoire (sold at auction) and to the powdery deposits in the Leather Purse (Loyd Georges' account). Not knowing them will alter the quality of the potion.
 
 The cook Robb Barrow can prepare the potion for Opal, according to the details he is given.
 
@@ -421,7 +421,7 @@ If Opal fails to demonstrate his innocence, the Lordanians could put spokes in h
 Bailing out the family (including the mining sale negotiation)
 -----------------------------------------------------------------------------------
 
-Opal's business is going downhill, and he needs an enormous amount of money to relaunch it.
+Opal's business is going downhill, and he needs an enormous amount of money to get it back on its feet.
 
 This can be done by setting up a scam around the "Hydroland" Platform, put up for sale by Opal.
 Indeed, if Waden Shaw asserts that the Hydroland rock samples taken by {% symbol "Balberith" for "waden_blackmailer_lady_country" %} are the ones containing good Uranium, then Opal will be able to sell this platform at a very good price to said country.
@@ -451,15 +451,15 @@ Note that the Akarith Ambassador tries to interfere with this sale, by proposing
 Protecting Khaal
 -----------------------------
 
-The recorded dialogues between Opal and Lydia, the letter from Emilos Loakim stolen by Amethyst, and a worrying radio spot, point out that the son of the Magnus family is in danger.
+The recorded dialogues between Opal and Lydia, the letter from Emilos Loakim stolen by Amethyst, and a worrying radio spot, indicate that the son of the Magnus family is in danger.
 
-Lydia and Opal must get him out of the thalassotherapy centre of the misty mountain as soon as possible.
+Lydia and Opal must get him out of the thalassotherapy centre of the misty mountains as soon as possible.
 
 An attack by several factions (Akariths, and mercenaries of {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}) eventually occurs there. {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %} has indeed always sought to get hold of Loyd Georges' manor, and he is counting on vile blackmail to do so. {% fact "lord_mac_jolt_wants_to_blackmail_lg_via_khaal" %}
 
 If Khaal was still on site, he and his chaperone are fortunately rescued by {% symbol "Count Blispin" for "lg_close_friend_lord_name" %}, who was watching the scheming of {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, and protecting Loyd Georges' loved ones at the latter's request.
 
- {% symbol "Count Blispin" for "lg_close_friend_lord_name" %} has taken refuge in the forest with everyone, and needs to be rescued, as the Akariths are prowling around, and the local police is heavily corrupt. The Magnus family must therefore hire mercenaries in Alifir for this, or call upon the Sabarith secret services via Obsidian.
+ {% symbol "Count Blispin" for "lg_close_friend_lord_name" %} has taken refuge in the forest with everyone, and needs to be rescued, as the Akariths are prowling around, and the local police are heavily corrupt. The Magnus family must therefore hire mercenaries in Alifir for this, or call upon the Sabarith secret services via Obsidian.
 
  If they fail to do so in less than 1 hour, all these fugitives fall into the hands of the Akariths, and Lydia must capitulate in favour of {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}.
 
@@ -481,23 +481,23 @@ The various medical reports, and the accounts of the previous day (including the
 
 Alphonse finds, on request, the recipe used for the veal blanquette, then the packaging of the bay leaves. The latter contains, hidden behind a few sprigs, a small advertising flyer for the shop of the apothecary Master Bibine.
 
-If the inspector (when an NPC) is informed of this discovery, he confiscates the papers and potentially assaults LG's servants for having shared this information with the guests.
+If the inspector (when an NPC) is informed of this discovery, he confiscates the papers and may even assault LG's servants for having shared this information with the guests.
 
-If asked, one of the servants can go and enquire about Master Bibine's sales, and thus find the P.O. box (also serving as a mini safe) through which the parcel was delivered; a box located in the {% symbol "Hamlet of Wiskons" for "hamlet_near_mlg_manor" %} not far from the manor; it is through it that Shark received his orders and supplies from the Akariths, as well as through the adjoining international telecom booth.
+If asked, one of the servants can go and enquire about Master Bibine's sales, and thus find the P.O. box (also serving as a mini safe) through which the parcel was delivered; a box located in the {% symbol "Hamlet of Wiskons" for "hamlet_near_mlg_manor" %} not far from the manor; it is through this box that Shark received his orders and supplies from the Akariths, as well as through the adjoining international telecom booth.
 
 Obsidian can go to the P.O. box himself to force it open, or other players can call upon mercenaries for this.
 The P.O. box contains an (opened) letter from the Akarith Judicators, instructing the recipient to use lily of the valley if necessary to finish the job, and to keep the supplied antidote by sewing it into the lining of his jacket, in case he was forced to ingest his own poison.
 
-It is also possible to put the P.O. box under surveillance, by the old neighbour or by mercenaries.
+It is also possible to have the P.O. box watched by the old neighbour or by mercenaries.
 In that case, the players will be warned (with a vague description of a character wearing a large coat, but hidden by the mist), if ever the inspector goes to make a call in this hamlet, or if he leaves freely at the end of the evening (as he drops by to pick up possible instructions before going to assassinate Loyd Georges at the hospice).
 
 But various clues must convince Obsidian that something is wrong:
 
 - Shark's family correspondence (intercepted by the Akariths) gradually pieced together, following the police raid on a gambling den in Salima
 - the letter from the police superintendent of Salima, replying to a complaint by Loyd Georges against the inspector's abnormal methods
-- the inspector's strange behaviour: his liberties with Sabarith law, his tampering with evidence, his altercations with those who progress too far in parallel investigations, an Akarith oath he lets slip at some point...
+- the inspector's strange behaviour: his liberties with Sabarith law, his tampering with evidence, his altercations with those who get too far in parallel investigations, an Akarith oath he lets slip at some point...
 
-If the inspector is unmasked early enough (e.g. by finding the antidote in the lining of his coat), he loses his temper and holds all the participants at gunpoint, calling them madmen. This can trigger a confrontation leading to his death or to his arrest by the deputy police officer (depending on who has a weapon). Otherwise, Inspector Shark slips away to put into the drip of Loyd Georges (who is more resilient than expected) a final heart-slowing cardiotoxin: water poisoned with lily of the valley. This results in a sort of race against the clock at the end of the evening, to warn the hospital and save the sir of Salima, before the Akarith Purifiers attack the manor.
+If the inspector is unmasked early enough (e.g. by finding the antidote in the lining of his coat), he loses his temper and holds all the participants at gunpoint, calling them madmen. This can trigger a confrontation leading to his death or to his arrest by the deputy police officer (depending on who has a weapon). Otherwise, Inspector Shark slips away to add a final heart-slowing cardiotoxin to the drip of Loyd Georges (who is proving more resilient than expected): water poisoned with lily of the valley. This results in a sort of race against the clock at the end of the evening, to warn the hospital and save the gentleman of Salima, before the Akarith Purifiers attack the manor.
 
 
 
@@ -510,7 +510,7 @@ The hidden legacy of the Loyds
 Loyd Georges' father, "Loyd Markis", had had a short but successful career as an explorer.
 This had enabled him to renovate the family manor, to create the beginnings of an archaeological museum there, and to invest in cattle and goat farms all around Salima.
 Loyd Markis passed on to the young Loyd Georges his passion for adventure and his manor, but not the entirety of his fortune.
-He indeed owned a formidable collection of ancient coins, called the "Precious Cauldron", whose secret he prematurely took with him to the grave.
+For he owned a formidable collection of ancient coins, called the "Precious Cauldron", whose secret he prematurely took with him to the grave.
 Loyd Georges searched the manor and the garden in vain, combed through the family archives, without discovering where this famous cauldron had been hidden by his father.
 Only clue: a mysterious scroll of ideograms, left as an inheritance, which Loyd Georges never managed to decipher.
 {% endmacro %}
@@ -518,7 +518,7 @@ Only clue: a mysterious scroll of ideograms, left as an inheritance, which Loyd 
 
 Some protagonists are in great financial need: the Magnus family, and Loyd Georges' household.
 
-They will therefore have every interest in finding this treasure.
+It will therefore be very much in their interest to find this treasure.
 
 Note that according to Sabarith Law, a treasure must be shared half-and-half between whoever (re)discovered it, and the owner of the treasure (or failing that, of the land on which it lies).
 Trying to keep the treasure entirely for oneself may therefore result in complete dispossession, as well as legal proceedings.
@@ -529,7 +529,7 @@ Trying to keep the treasure entirely for oneself may therefore result in complet
 - the inherited scroll mentions the "roots of the baobab", in the form of a secret code that Opal can decipher  {% fact "opal_knows_standard_secret_codes" as author %}
 - Loyd Georges' servants are categorical, there has never been a single baobab on the Loyd estate; but this word reminds them of an anecdote about the young Loyd Markis, they no longer remember which.
 - an excerpt from Loyd Markis's biography indicates that for him the Baobab is "the majestic tree whose fruit is on the lips of the autumnal bust"
-- this refers to one of Arcimboldo's Four Seasons paintings, displayed on the wall; the bust representing Autumn has a chestnut in place of the mouth
+- this refers to one of Arcimboldo's Four Seasons paintings, displayed on the wall; the bust representing Autumn has a chestnut for a mouth
 - the servants know of a huge sweet chestnut tree (or horse chestnut, it does not matter) in a corner of the manor grounds
 - a servant of Loyd Georges, or a well-paid Oberon agent, can go and dig under this tree with a shovel, or with explosives (Rydji loves that)
 - such a dig under the tree yields a box, which contains a literary riddle leading to the "Precious Cauldron"; the latter is actually hidden "in the ceiling of the toilets"
@@ -539,7 +539,7 @@ BEWARE: when Rydji uses explosives, this of course creates a stir among the gues
 
 
 
-The secret of atoms and Prof. Voluto
+The secret of the atoms and Prof. Voluto
 +++++++++++++++++++++++++++++++++++++++++++++
 
 
@@ -556,19 +556,19 @@ Now, the Sabariths and the various countries that were contacted are trying to r
 
 To do so, Waden can negotiate the destruction of the laboratory with one of the factions that have mercenaries, in exchange for a Thermocyclic Fusion Core or another asset; he can also manipulate Akarith Purifiers (via the contacts Cynthia receives from her colleagues) so that they burn down the laboratory themselves.
 
-If this destruction drags on, Cynthia is informed of a "report of a worrying disappearance" in South Alifir, and this eventually goes out on the radio. The other secret agents can therefore exploit this lead, with the help of mercenaries for example.
+If this destruction drags on, Cynthia is informed of a "missing person report" in South Alifir, and this eventually goes out on the radio. The other secret agents can therefore exploit this lead, with the help of mercenaries for example.
 
 For his part, the Sabarith agent Obsidian can also try to make Waden see reason, by explaining to him that Science cannot be stopped, and that it is better to be the first to master a new weapon.
 
 
 
-**The blackmail of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}**
+**The {% symbol "Balberith" for "waden_blackmailer_lady_country" %} blackmail**
 
-Furthermore, Waden was recently contacted by an agent of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, {% symbol "Elezie" for "waden_blackmailer_lady_name" %}, who seeks to blackmail him using the video recordings from the Academy. She entrusted him with three granite samples to analyse, to test his cooperation and guide their supplies of radioactive raw materials.
+Furthermore, Waden was recently contacted by an agent of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, {% symbol "Elezie" for "waden_blackmailer_lady_name" %}, who seeks to blackmail him using the video recordings from the Academy. She entrusted him with three granite samples to analyse, to test his willingness to cooperate and guide their supplies of radioactive raw materials.
 
 Waden receives the final results of his analysis during the evening. He can decide to tell the blackmailers the truth, or to lie to them (potentially pulling off a scam in the process, since one of the granites comes from the Hydroland site owned by Opal). In any case, {% symbol "Balberith" for "waden_blackmailer_lady_country" %} believes him and does everything to acquire the land it believes to be full of precious ore, even if it means creating a geopolitical crisis. {% fact "balberith_has_poor_atom_analysis_technology" %}
 
-On the other hand, when {% symbol "Elezie" for "waden_blackmailer_lady_name" %} demands to obtain Prof. Voluto's work, Waden must find a solution, whether by cooperating, or by mounting a media counter-offensive thanks to Cynthia so that the blackmail falls through, or by having Obsidian intercept the recordings that {% symbol "Elezie" for "waden_blackmailer_lady_name" %}, as a last resort, would send to Shark.
+On the other hand, when {% symbol "Elezie" for "waden_blackmailer_lady_name" %} demands Prof. Voluto's work, Waden must find a solution, whether by cooperating, or by mounting a media counter-offensive thanks to Cynthia so that the blackmail falls through, or by having Obsidian intercept the recordings that {% symbol "Elezie" for "waden_blackmailer_lady_name" %}, as a last resort, would send to Shark.
 
 
 
@@ -604,7 +604,7 @@ In the event of a burglary, ONLY the information that was being sought is stolen
 
 
 
-The opening of Loyd Georges' safe
+Opening Loyd Georges' safe
 ------------------------------------------------
 
 
@@ -612,9 +612,9 @@ The Tabellion gathers the guests around Loyd Georges' safe, to read the draft wi
 
 He has on him (and not in his briefcase) the key to the safe, but he lacks Loyd Georges' secret code and magnetic card. {% fact "notary_has_lg_vault_key" as author %}
 
-**Rydji says that Loyd Georges always noted the latest code of the safe in a "{% symbol "small tissue box" for "lg_vault_secret_code_location" %}" that lay around in the lounge, but that this box has disappeared in the commotion of preparing the evening.**
+**Rydji says that Loyd Georges always noted the latest code of the safe in a "{% symbol "small tissue box" for "lg_vault_secret_code_location" %}" that was lying around in the lounge, but that this box has disappeared in the commotion of preparing the evening.**
 
-**Alphonse had been told by Loyd Georges where the latter kept his golden magnetic pass, somewhere in the lounge, but he has forgotten it.**
+**Alphonse had been told by Loyd Georges where the latter kept his golden magnetic pass, somewhere in the lounge, but he has forgotten where.**
 
 The session is therefore postponed; and Alphonse, instead of searching by himself, enlists all the guests to search the reception hall, looking for these 2 elements. {% hint 'lg_vault_pass_card' is needed %} {% hint 'lg_vault_secret_code' is needed %}
 
@@ -626,7 +626,7 @@ Alphonse conscientiously empties the contents of the safe, enumerating each obje
 
 The Tabellion proceeds with the reading of the will, giving each person what is theirs, according to Loyd Georges' instructions.
 
-Then he has everything that remains put back in the safe, closes it, and makes it clear that from now on **he keeps the key to the safe in his briefcase**, and **he entrusts the golden pass card to Alphonse, with much advice** (for the needs of managing the manor).
+Then he has everything that remains put back in the safe, closes it, and makes it clear that from now on **he keeps the key to the safe in his briefcase**, and **he entrusts the golden pass card to Alphonse, with much advice** (for the running of the manor).
 
 The idea is for the players to discover the code of the Tabellion's briefcase, and to swindle Alphonse by swapping the real golden pass card with the replica that said Alphonse sells himself (or to find another way to steal it).
 
@@ -639,7 +639,7 @@ The military duffel bag
 -----------------------
 
 
-In the middle of the evening, the servant brings a military duffel bag into the corridor, and from his dialogue with the butler, one understands that these are the belongings that one of the participants in the archaeological expedition has long been asking to recover (following a mix-up in the distribution of luggage, on the return from Akaris). A letter attached to the bag attests to this request.
+In the middle of the evening, the servant brings a military duffel bag into the corridor, and from his dialogue with the butler, it becomes clear that these are the belongings that one of the participants in the archaeological expedition has long been asking to recover (following a mix-up in the distribution of luggage, on the return from Akaris). A letter attached to the bag attests to this request.
 
 From then on, it is up to the players to discreetly search the bag when the opportunity arises, in order to find riches, duplicates of existing clue papers (this is a second chance in case they missed some), and the Memo Notebook mislaid by Loyd Georges during the journey.
 

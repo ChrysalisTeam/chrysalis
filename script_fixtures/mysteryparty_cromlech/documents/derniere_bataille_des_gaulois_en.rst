@@ -36,13 +36,13 @@ Drappes, a captive, refuses food for several days and dies. Meanwhile, Lucterius
 What Legend says
 =======================================
 
-Popular tradition tells that a band of warriors, come from the far reaches of Armorica (present-day Brittany), had come to lend a hand to the Gaulish chiefs Lucterius and Drappes.
+Popular tradition tells that a band of warriors from the far reaches of Armorica (present-day Brittany), had come to lend a hand to the Gaulish chiefs Lucterius and Drappes.
 
 Among them were a handful of druids, who used their powers to heal, invigorate and counsel the insurgents during the siege of Uxellodunum.
 
 When the natural citadel fell, these druids fled to a nearby cave, with a few survivors. And in despair, they resorted to a forbidden magic, sacrificing their lives so that the soul of the Gaulish people might survive the inexorable advance of the Roman legions.
 
-Many versions exist and contradict each other as to the content of this invocation. But all of them mention {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, warrior god and father of the Gaulish people; as well as a set of artefacts - among them Roman weapons - which supposedly served as receptacles for this ritual.
+Many versions exist and contradict each other as to the content of this invocation. But all of them mention {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, the warrior god and father of the Gaulish people; as well as a set of artefacts - among them Roman weapons - which supposedly served as receptacles for this ritual.
 
 A descendant of the knight **Bertrand du Guesclin** (14th century) boasted, in his memoirs, of having had custody of what he calls the **"Druids' Last Wish"**.
 

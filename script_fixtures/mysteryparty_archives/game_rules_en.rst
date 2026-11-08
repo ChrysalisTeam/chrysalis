@@ -9,7 +9,7 @@
 Learning and keeping track of the scenario
 ++++++++++++++++++++++++++++++++++++++++++++++
 
-- **Read your character sheets carefully**, along with any other useful document; feel free to highlight the passages that seem important to you, and to print them out - these papers will be treated as out-of-roleplay on site. You may take a short **break during the game** to re-read them, and check whether some information or abilities have now become useful.
+- **Read your character sheets carefully**, along with any other useful document; feel free to highlight the passages that seem important to you, and to print them out - these papers will be treated as out-of-game on site. You may take a short **break during the game** to re-read them, and check whether some information or abilities have now become useful.
 - The **items or web portals** specific to your roles will be provided to you on the day
 - Bring something to take notes with during the game (pen and notepad), if you wish.
 - For simplicity's sake, character sheets are written in the masculine by default, but most roles are ungendered; talk to the organisers if you have preferences in this respect.
@@ -20,8 +20,8 @@ In-game and out-of-game items (IC/OOC)
 
 - Many items are present in the game; they are there to be inspected and handled, but **gently**, as some are fragile (glassware in particular).
 - If an item bears a label with a "do not touch" symbol (crossed-out hand), it is too breakable and purely decorative.
-- **The food and drinks on the buffet are out-of-roleplay**, so you can safely enjoy them to your heart's content.
-- Some papers (Game Master's documents, character sheets) are automatically out-of-roleplay and confidential.
+- **The food and drinks on the buffet are out-of-game**, so you can safely enjoy them to your heart's content.
+- Some papers (Game Master's documents, character sheets) are automatically out-of-game and confidential.
 - When furniture or items are covered with an entirely black cloth, they are explicitly OOC and therefore contain nothing of interest for the game. Likewise, when items are in a plain black bag, they have not (yet) materialised in the game world, and must not be touched.
 - **Black tape** may also be used to mark items as welded together, sealed, or fixed to the floor; in that case, do not move them, unless specific abilities allow you to alter these items.
 - Thick hemp rope or black sheets may be used to materialise blocked passages, whether because of an impassable wall or because of a spell that must first be dispelled.

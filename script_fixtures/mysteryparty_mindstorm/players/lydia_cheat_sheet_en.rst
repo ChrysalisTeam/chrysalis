@@ -36,4 +36,4 @@
 <{ title_last_minute_information }/>
 ============================================
 
-- you had become friendly with a journalist called "Cynthia", a friend of Loyd Georges passing through the manor; she has not spread your confidences  {% fact "cynthia_and_lydia_met_in_lg_manor" as author %}
+- you had become friendly with a journalist called "Cynthia", a friend of Loyd Georges passing through the manor; she has not repeated what you confided to her  {% fact "cynthia_and_lydia_met_in_lg_manor" as author %}

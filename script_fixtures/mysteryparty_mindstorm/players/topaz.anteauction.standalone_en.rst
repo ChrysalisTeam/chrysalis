@@ -15,7 +15,7 @@ You act as a duo with **Peridot**, a Dorian agent you know well, who for his par
 <{ title_investigation_so_far }/>
 ======================================
 
-As usual, your investigation began with long hours spent tapping the phones of Loyd Georges and his close acquaintances. Cautious, the sir did not divulge much, but you finally understood that he had entrusted great responsibilities to Professor Loakim, an archaeologist at the Alifir Academy. {% fact 'topaz_wiretaps_lg_and_friends' as author %} {% fact 'lg_gave_responsibilities_to_loakim' %}
+As usual, your investigation began with long hours spent tapping the phones of Loyd Georges and his close acquaintances. Cautious, the gentleman did not divulge much, but you finally understood that he had entrusted great responsibilities to Professor Loakim, an archaeologist at the Alifir Academy. {% fact 'topaz_wiretaps_lg_and_friends' as author %} {% fact 'lg_gave_responsibilities_to_loakim' %}
 
 <{ dorian_failed_abduction }/>
 

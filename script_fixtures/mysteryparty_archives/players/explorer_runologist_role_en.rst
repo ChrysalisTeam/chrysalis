@@ -21,7 +21,7 @@ The first step is to determine the transcription, in syllables, of these strange
 
 Then you enter this text into your artificial intelligence system (available on site), which will find its meaning.
 
-Beware, if one of the runes is mis-transcribed, this can largely distort the translation.
+Beware, if a single rune is transcribed wrongly, much of the translation may be thrown off.
 
 
 Knowledge of secret codes

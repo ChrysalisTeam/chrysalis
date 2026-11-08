@@ -6,7 +6,7 @@ Agents,
 
 our services are on alert, because a secret religious council is taking place at this very moment in Akaris, a council that could tip the geopolitical situation of the Midolian region.
 
-According to our sources, the Akarith religious leaders will decide, on this occasion, whether their theology allows the "Transfiliation" of the Dorian people, that is to say regarding them as brethren in their religion (which is originally hereditary). If the doctrine of Transfiliation is endorsed, there is a good chance that the Dorian Duke will ally himself, with his people, to the Akarith fanatics, for fear of suffering their assaults.
+According to our sources, the Akarith religious leaders will decide, on this occasion, whether their theology allows the "Transfiliation" of the Dorian people, that is to say regarding them as brethren in their religion (which is originally hereditary). If the doctrine of Transfiliation is endorsed, there is a good chance that the Dorian Duke will ally himself, with his people, with the Akarith fanatics, for fear of suffering their assaults.
 {% endmacro %}
 <{ yodic_council_risk_intro }/>
 

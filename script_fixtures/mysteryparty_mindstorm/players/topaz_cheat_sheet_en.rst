@@ -34,7 +34,7 @@
 <{ title_last_minute_information }/>
 ==============================================
 
-- you have convincing *network traces* [write this document freestyle], showing that a certain "Amethyst", of the Lordanian secret services, had tapped the phone of the Patriarch of Ghek, from the vicinity of Salima. {% fact 'amethyst_wiretaps_ghek_patriarch' %}
+- you have convincing *network traces* [write this document freestyle], showing that a certain "Amethyst", of the Lordanian secret services, had tapped the phone of the patriarch of Ghek, from the vicinity of Salima. {% fact 'amethyst_wiretaps_ghek_patriarch' %}
 - a certain "Phonphonse" from the manor is trying to sell a "Chromia" pen that could be a spying device  {% fact 'alphonse_has_found_library_spy_recorder' %}
 - the famous {{character_properties.opal.official_name}} used to log in to a high-security web account with the login "Emerald", which appeared to be read-only  {% fact 'opal_accesses_emerald_agent_web_account' %}
 - in the event of an alliance with Akaris, the recognition sign with the Akariths would be "{% symbol "arms crossed over the chest" for "dorian_akarith_alliance_sign" %}" {% fact "dorians_have_alliance_sign_with_akariths" %}

@@ -15,11 +15,11 @@ Game Rules and Advice - Important
 Preamble
 +++++++++++++++++++++
 
-You are about to live through a wonderful gaming experience, with puzzles, theatrical play, hopefully some emotions, and many other fine things.
+You are about to embark on a wonderful gaming experience, with puzzles, theatrical play, hopefully some emotions, and many other fine things.
 
 For this mystery evening to be a success, everyone's physical and emotional safety must be respected, and the elements of the plot must not be compromised.
 
-So here is a summary of the (many) points of attention and special cases that may arise.    :-)
+So here is a summary of the (many) points to watch out for and special cases that may arise.    :-)
 
 
 Respecting Immersion
@@ -27,7 +27,7 @@ Respecting Immersion
 
 The game is designed to be played in full immersion. To enjoy it to the full, and out of respect for the other players and the organisers:
 
-- Make your arrangements time-wise so as not to arrive late and risk disrupting the game schedule, especially if you use public transport.
+- Plan your schedule so that you do not arrive late and risk disrupting the game schedule, especially if you use public transport.
 - Do not plan any fixed commitments right after the game, as it may run a little over if something unexpected happens.
 - Refrain from any discussion unrelated to the game, even (and especially) during a lull.
 - Be discreet when asking for out-of-game information, for instance from the Game Master.
@@ -41,7 +41,7 @@ Players who know each other out-of-game, and are on different teams, may very we
 
 It is advisable to add a little acting to the various situations, by simulating emotions, feats of physical strength or mental concentration, the performance of the various operations you may have to carry out, any injuries received...
 
-If you feel comfortable, you can also work more deeply on your character, to give them a distinctive personality, quirks, an accent, etc.
+If you feel comfortable, you can also develop your character further, to give them a distinctive personality, quirks, an accent, etc.
 
 If a participant (player or NPC actor) walks by with a **raised fist**, they are out-of-game: ignore them.
 
@@ -58,7 +58,7 @@ Physical and emotional safety
 - We never aim a projectile at participants' **heads**, only at the torso and limbs.
 - We do not run on the stairs; no enemy will catch you there, so hold on to the handrail and move calmly; the same caution applies near balustrades.
 - The game's universe is rather light, enchanting, courteous; so we avoid sordid situations such as torture, rape, incest, etc.
-- If a situation oppresses you too much as a player, you can interrupt it **by saying "STOP" and raising your fist vertically**. We then discuss it out-of-game, to see whether its intensity should be toned down, whether it should be fast-forwarded (with a time skip), or whether it is deemed never to have happened.
+- If a situation becomes too oppressive for you as a player, you can interrupt it **by saying "STOP" and raising your fist vertically**. We then discuss it out-of-game, to see whether its intensity should be toned down, whether it should be fast-forwarded (with a time skip), or whether it is deemed never to have happened.
 - If you have not already done so, tell the organisers about any **phobias** you have (of the dark, of certain animals...) so they can see whether this could be a problem.
 - Likewise, report any **allergies** (especially food allergies), or other health issues, that you may have.
 
@@ -72,13 +72,13 @@ Final Note
 
 The most important rules of the game will be summed up for you just before it begins.
 
-But all of this is of course secondary to your main mission: to plunge into the wonderful universe of the Secret Archives of the Maupertuis, and to share together a great moment out of time.  :-)
+But all of this is of course secondary to your main mission: to plunge into the wonderful universe of the Secret Archives of the Maupertuis, and to spend a great, timeless moment together.  :-)
 
 {# FIXME PUT THAT BACK FOR MINDSTORM
 A Mystery Evening is first and foremost a game; the goal is for everyone, players and NPC actors alike, to have a good time.
 So let yourself be immersed in the story, *play fair* and stay courteous, adapt your play to help beginner role-players...
 
-And if you have a little experience, do not hesitate to foster particularly interesting situations and scenes (even if the character themselves suffers for it, as in a glorious personal sacrifice).
+And if you have a little experience, do not hesitate to foster particularly interesting situations and scenes (even if the character themselves pays the price, as in a glorious personal sacrifice).
 
 #}
 

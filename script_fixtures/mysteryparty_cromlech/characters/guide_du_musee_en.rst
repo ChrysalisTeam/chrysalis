@@ -4,16 +4,16 @@ MUSEUM GUIDE
 Your Past
 ================
 
-You are **Mr/Mrs {% symbol "Eden Schmitt" for "nom_du_guide" %}, guide and librarian for {% symbol "1 year" for "délai_arrivée_du_guide_au_cromlech" %}** in this strange place of study known as the **Cromlech**.
+You are **Mr/Mrs {% symbol "Eden Schmitt" for "nom_du_guide" %}, and you have been the guide and librarian for {% symbol "1 year" for "délai_arrivée_du_guide_au_cromlech" %}** at that strange place of study, the **Cromlech**.
 
 You had a chaotic school career, before stringing together odd jobs without success.
 The fault, no doubt, of an overly dreamy, jack-of-all-trades temperament, which undermines your naturally jovial and helpful disposition.
 
-When you saw an advertisement for an ideal job, combining welcoming the public and historical anecdotes, you went for broke. You fabricated a fake CV with a suitable degree from a distant University, spun tales of "ancient events" gleaned from old children's novels... and against all expectations, it worked. {% xfact "Le guide avait menti dans son CV pour être embauché" as author %}
+When you saw an advertisement for an ideal job, combining greeting the public with historical anecdotes, you went for broke. You fabricated a fake CV with a suitable degree from a distant University, spun tales of "ancient events" gleaned from old children's novels... and against all expectations, it worked. {% xfact "Le guide avait menti dans son CV pour être embauché" as author %}
 
 The **"Curator" of the Cromlech, {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}**, gave you carte blanche to create a pleasant workspace for the neighbourhood's students, organise the book collection, and present the museum pieces to anyone who wished.
 
-This "museum" is probably the **strangest** aspect of the place. You had found a beautiful glass display case to exhibit the few ancient artefacts while protecting them, but the Curator flatly refused. He argued that, for educational reasons, visitors had to be able to handle the pieces on display, all the more so as they were only "faithful replicas". You just had to check from time to time that they were all in place – which you often forget to do, let's admit it.
+This "museum" is probably the **strangest** aspect of the place. You had found a beautiful glass display case to exhibit the few ancient artefacts while protecting them, but the Curator flatly refused. He argued that, for educational reasons, visitors had to be able to handle the pieces on display, all the more so as they were only "faithful replicas". You just had to check from time to time that they were all in place – which, admittedly, you often forget to do.
 
 He also insisted that the pieces be placed in a high-traffic spot, whereas a small, secluded, well-decorated room would have given them more character... but oh well.
 
@@ -21,11 +21,11 @@ Your first performances as a guide were anything but rigorous, as your great ima
 
 **See the document "The Siege of Uxellodunum" on this subject.**
 
-**{% symbol "one month" for "délai_guide_a_donné_clefs_au_héros" %} ago**, you found yourself facing a dilemma of conscience: a young Italian student who had recently started frequenting the Cromlech, **{% symbol "Andrea di Revel" for "nom_du_héros" %}**, insisted on having earlier access to this place of study each day, or else he would fail his exams - because his shared flat was too noisy.
+**{% symbol "one month" for "délai_guide_a_donné_clefs_au_héros" %} ago**, you found yourself facing a crisis of conscience: a young Italian student who had recently started frequenting the Cromlech, **{% symbol "Andrea di Revel" for "nom_du_héros" %}**, insisted on having earlier access to this place of study each day, or else he would fail his exams - because his shared flat was too noisy.
 
 Your kind heart eventually won out over your professional ethics, and you gave him a **spare key**; after all, he is from a good family, it is only for a few weeks, there are no valuables on the premises, and it is always you who opens up in the morning, so the risk of an unexpected encounter with the Curator is minimal...
 
-In thanks, he gave you a pretty Roman-inspired **signet ring**, supposed to "bring luck", which you now proudly keep on your finger. {% xfact "le guide a désormais une chevalière à la main" as author %} {% xitem "chevalière pour le guide" is needed %}
+In thanks, he gave you a pretty Roman-inspired **signet ring**, supposed to "bring luck", which you now proudly wear on your finger. {% xfact "le guide a désormais une chevalière à la main" as author %} {% xitem "chevalière pour le guide" is needed %}
 
 The Day of the Tragedy
 ======================

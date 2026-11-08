@@ -15,7 +15,7 @@ You are strong. But really, really strong. This allows you to lift entire tree t
 
 Some of these objects are relatively small in size, but are weighed down by their magical link to other places.
 
-*Out-of-game note: If you find a wooden and red-cloth "collection pouch", also ultra-heavy, bring it to the Game Master so that he can show you how to use it.*  {% hint 'thief_heavy_lost_moneybox' is provided %}
+*Out-of-game note: If you find a "collection pouch" made of wood and red cloth, also ultra-heavy, bring it to the Game Master so that they can show you how to use it.*  {% hint 'thief_heavy_lost_moneybox' is provided %}
 
 
 Mini Crossbow

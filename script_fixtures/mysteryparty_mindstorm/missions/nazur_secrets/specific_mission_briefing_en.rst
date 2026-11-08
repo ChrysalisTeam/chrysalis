@@ -20,13 +20,13 @@ And for your part, a little burst of glory would fulfil you, even if the elusive
 
 It is in this frame of mind that you receive, on the stroke of noon, an ultra-secure message from The Docker of the Sabarith secret services:
 
-  Hello my dear,
-
+  Hello my dear fellow,
+  
   with a few comrades, we have dug into this business of an aquatic incursion into the buried Temple of Nazur.
-
+  
   Apparently the Judicators placed the temple under interdict before even having fully explored it, which guarantees us a fine haul if we get to the many gems that Loyd Georges' expedition must have left behind in its haste. But time is running out, because the temple is slowly filling with water following the blocking of groundwater tables, and the damage will soon be critical. We have therefore made a deal with our superiors to borrow equipment and share the proceeds; and we are now on our way, by private airship, to the Akarith border.
-
-  I seem to recall you told me about a puzzle in this temple, with artefacts and a well. Know that we will have a 3D printer on site, so if you want to send us digitised models so that we also take care of digging into this matter, don't hesitate. It is probably the last opportunity.
+  
+  I seem to recall you told me about a puzzle in this temple, with artefacts and a well. Know that we will have a 3D printer on site, so if you want to send us digitised models so that we can dig into that matter too, don't hesitate. It is probably the last opportunity.
 
 
 You then steel your resolve for the strange evening that lies ahead.

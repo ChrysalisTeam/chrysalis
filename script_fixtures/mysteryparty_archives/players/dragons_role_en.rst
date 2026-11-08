@@ -25,7 +25,7 @@ Your duty imposed itself on you: use your rear base in the world of Pangea to re
 
 For several centuries now you have been turning Pangea upside down in search of a solution. Djinns, prophets and spiritualists find themselves quite helpless in the face of your questions. But your most serious leads now point to the Secret Archives of the Maupertuis family. A place buried so deep underground, so mobile, so surrounded by protections, that it takes an inter-world spirit years of wandering each time to find it again.
 
-However, things sped up when the oracle of {% symbol "Rochesombre Monastery" for "common_monastery_name" %}, devoted to your cult, sent you powerful prayers: archaeologists had found the trace of the magic portals which, once a year, open the door to the Maupertuis sanctuary. She could feel it: momentous events were soon to take place, which would affect the world of humans as much as that of dragons. And in your current, highly spiritual form, you would be easy prey for the demonic forces.
+However, things sped up when the oracle of {% symbol "Rochesombre Monastery" for "common_monastery_name" %}, devoted to your cult, sent you powerful prayers: archaeologists had found traces of the magic portals which, once a year, open the door to the Maupertuis sanctuary. She could feel it: momentous events were soon to take place, which would affect the world of humans as much as that of dragons. And in your current, highly spiritual form, you would be easy prey for the demonic forces.
 
 You then made the most profound decision of your long existence: to **incarnate**.
 To give up your majesty, your power, and your eternity.
@@ -138,13 +138,13 @@ Your last scraps of power
 
 Now that you are incarnated as mice, your life expectancy is very limited, and you have only a few fractions of your draconic knowledge and magic left. You will therefore have to make good use of them.
 
-**Ritual Innovation**: You have always known it: what gives ceremonies their power is not the sequence of words and gestures, it is the immense faith that the initiates have in their performance, a faith ennobled by your blessing. You are therefore able to teach new rituals of your own invention, which will succeed as long as they comply with the inner workings of the universe, and as long as the initiates performing them have enough psychic strength (potentially aided by potions). *Out-of-game note: this ability can only be used once in total during the game; check with the Game Master if you have an idea for a new ritual, so that he can validate it and oversee its implementation.*
+**Ritual Innovation**: You have always known it: what gives ceremonies their power is not the sequence of words and gestures, it is the immense faith that the initiates have in their performance, a faith ennobled by your blessing. You are therefore able to teach new rituals of your own invention, which will succeed as long as they comply with the inner workings of the universe, and as long as the initiates performing them have enough psychic strength (potentially aided by potions). *Out-of-game note: this ability can only be used once in total during the game; check with the Game Master if you have an idea for a new ritual, so that they can validate it and oversee its implementation.*
 
 **Reward**: If a human being displays fine qualities, you may reward them by revealing a secret of the place. Here it is: in the Forbidden Domain of the Maupertuis secret archives, there is a small metal well called "useless". It is actually very useful, for if a human lowers **5 grams of diamonds** into it, with the attached bucket, they receive the blessing of the *leprechauns*. This person then gains **triple longevity**: this does not make them more resistant to epidemics or injuries, but they age three times more slowly than their fellows. {% hint "longevity_metal_well" is needed %} {% hint "tiny_metal_scale" is needed %}
 
 **Salvation**: If a human being is dying, all the fallen dragons together can, by mobilising what remains of their draconic energy, restore them in soul and body. *Out-of-game note: this ability can only be used once in total during the game; improvise the ritual with gestures and chants.*
 
-**Herbalism**: You have heard of a plant called "Holistix", which comes in the form of purple bells with sharp edges and pointed tips. It is said to have the property of immensely expanding a being's mental serenity, and could therefore greatly help you in your plan of a "psychic demon trap". {% hint "purple_bell_plant_in_vial" is needed %}
+**Herbalism**: You have heard of a plant called "Holistix", which comes in the form of purple bells with sharp edges and pointed tips. It is said to have the property of immensely expanding a being's mental serenity, and could therefore greatly help you in your "psychic demon trap" plan. {% hint "purple_bell_plant_in_vial" is needed %}
 
 
 Your entry into the game

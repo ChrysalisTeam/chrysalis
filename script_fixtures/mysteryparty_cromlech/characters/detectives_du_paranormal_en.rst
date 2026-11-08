@@ -24,7 +24,7 @@ The other detectives, on the other hand, have priority in conducting the intervi
 
 [BR]
 
-CLERKING
+CLERK'S OFFICE
     The clerk is responsible for taking notes during the investigation. This person will also share their findings with the other groups of detectives, as well as with the judicial authorities.
 
 PSYCHISM

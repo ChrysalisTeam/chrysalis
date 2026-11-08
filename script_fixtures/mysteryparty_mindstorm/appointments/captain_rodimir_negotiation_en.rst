@@ -9,7 +9,7 @@ You know that your movement can block the military rapprochement between Lordani
 
 You know that Akarith infiltrators have "fanned the flames" of this movement, but you do not care: the people are genuinely fed up, and are demanding social measures.
 
-The candidate Lydia Magnus has your favour, because she ran a campaign rather close to the people, but there is no way she can end up in the minority within the trio of consuls. You therefore want firm commitments on this subject, signed by all THREE future consuls.
+The candidate Lydia Magnus has your favour, because she ran a campaign rather close to the people, but it is out of the question for her to end up in the minority within the trio of consuls. You therefore want firm commitments on this subject, signed by all THREE future consuls.
 
 You wish to prevent the situation from turning into a bloody revolution, but from now on, the ball is in the government's court.
 

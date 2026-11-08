@@ -6,7 +6,7 @@ Your abilities
 
 <{ diakon_sheet_intro }/>
 
-But your vocation soon imposed itself on you: Invoker, that is, the one who is able to invoke certain beings from the afterlife, or to draw on the spiritual strength of his fellows to perform sacred rituals of great power.
+But your vocation soon imposed itself on you: Invoker, that is, one who is able to invoke certain beings from the afterlife, or to draw on the spiritual strength of one's fellows to perform sacred rituals of great power.
 
 *Out-of-game note:* feel free to simulate the wonder that the most solemn of these Invoker rituals cause you, even remaining in ecstasy for a little while after one of them.
 
@@ -35,13 +35,13 @@ Mastery of such pentacles is undoubtedly the most complex art of your discipline
 
 A pentacle is never dangerous in itself; {% symbol "initiates" for "ritualist_kind_name" %} and non-initiates alike can walk on it without fear. However, one must never step into it during a ritual, on pain of being unwittingly involved in it. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
-**Magic seals are distant variants of pentacles**; they take the form of drawings of varied shapes, but always **surrounded by a circle**. They are specialised devices designed for specific purposes, typically to **control access** to dangerous knowledge, or to accompany the **initiation of the members** of a magician dynasty.
+**Magic seals are distant variants of pentacles**; they take the form of drawings of varied shapes, but always **surrounded by a circle**. They are specialised devices designed for specific purposes, typically to **control access** to dangerous knowledge, or to accompany the **initiation of the members** of a dynasty of magicians.
 
 Beware, even when switched off, a seal may, for its part, retain a **beneficial or dangerous aura**; activating it mainly serves to change its state or to read the information it holds.
 
 Note that only the person who drew a pentacle or a seal can easily **revoke** it; for outsiders, it is a long and arduous dispelling operation, with unpredictably dangerous effects.
 
-You can easily **reactivate an existing seal**, alone, by **censing it** (one turn is enough) and then proclaiming the invocation **"O magic seal, awaken and hear my voice"**. The seal should light up shortly afterwards, a sign that it is now active. This operation can be entirely delegated to other {% symbol "initiates" for "ritualist_kind_name" %}.
+You can easily **reactivate an existing seal**, alone, by **censing it** (one circuit is enough) and then proclaiming the invocation **"O magic seal, awaken and hear my voice"**. The seal should light up shortly afterwards, a sign that it is now active. This operation can be entirely delegated to other {% symbol "initiates" for "ritualist_kind_name" %}.
 
 A **canonical pentacle** can be activated through the same process, but **beware**, **at least 4 initiates** must perform the ritual, as it requires a great deal of spiritual energy. The invocation is in this case, obviously, **"O canonical pentacle, awaken and hear my voice"**. {% fact "penatacle_activation_requires_4_ritualists" %}
 
@@ -100,13 +100,13 @@ Point your finger at the area to be struck, which must be outdoors, then slowly 
 
 Little knowledge exists about this spell of the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %}, apart from the fact that it is highly dangerous, and that its use is strictly forbidden to any Invoker.
 
-Ancestral wisdom indicates that if it has been set up over a place, it is nonetheless possible to break it, not without sacrifice.
+Ancestral wisdom indicates that if it has been set up over a place, it is nonetheless possible to break it, though not without sacrifice.
 
 To do so, at least {% symbol "3 / 5 of the living" for "library_cursed_enclosure_opening_quota" %} confined in the place must first give their verbal consent to being freed.
 
-Then the Invoker - whether inside or outside the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} - must mix the "Accelerated Ageing Potion" and the "Snake Venom Potion" (of any snake) in equal parts in half a glass, and swallow them in one sharp gulp. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
+Then the Invoker - whether inside or outside the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} - must mix the "Accelerated Ageing Potion" and the "Snake Venom Potion" (of any snake) in equal parts in half a glass, and swallow them in a single gulp. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
 
-He must then, with his dying breath, proclaim:
+The Invoker must then, with their dying breath, proclaim:
 
 **By {% symbol "Bahamoot" for "god_of_diakons" %}, may I, as I cross the threshold of eternity, take with me this unnatural rampart.**
 

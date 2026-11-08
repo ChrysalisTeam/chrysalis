@@ -5,7 +5,7 @@ For your information, the international prices of the "ready-to-use" resource ar
 Note that with a machine called a **Thermocyclic Fusion Core**, we could go deeper and extract **50%** more product.
 But these cores are virtually impossible to find on the market, ever since the Kioctl Polytechnic Institute (land of Balberith), the only one able to produce them, was forbidden by its State from selling them abroad.
 
-You are officially mandated to meet, on the sidelines of Loyd Georges' grand evening, the seller of this deposit, which is located in the **Kingdom of Suabel, in Austrion**; a **mandate on paper** will attest to your role as commercial negotiator for your country. Other prospective buyers must also be on the case. {% hint "negociating_mandates_for_mining_lease" is needed %}
+You are officially mandated to meet, on the sidelines of Loyd Georges' grand evening, the seller of this deposit, which is located in the **Kingdom of Suabel, in Austrion**; a **mandate on paper** will attest to your role as commercial negotiator for your country. Other prospective buyers are probably on the case too. {% hint "negociating_mandates_for_mining_lease" is needed %}
 
 We are counting on you to obtain ownership of this land, at the best possible price, and in such a way that it is at the very least profitable for us, compared with purchases made directly on the international market. In other words, the purchase price must be lower than what the deposit will yield in monetary value.
 

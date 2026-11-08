@@ -34,7 +34,7 @@ BUFFET OPENING (by the Inventor avatar)
 ::
 
     Onward, automatons, dust off,  prepare, welcome, make it shine!
-    Let your pistons push, let your gears turn, for this day so important in the year
+    Let your pistons push, let your gears turn, for this most important day of the year
     Serve the dishes and the wines to the guests for the most solemn of anniversaries
     The one on which we remember the end of the finest of eras
 
@@ -87,7 +87,7 @@ MISSION CONFESSION (by the Arkon phantom)
 
 500 years before this day, as I was meditating at the Rochesombre Monastery, I sensed the presence of uprooted spirits, near the ruins of the Maupertuis manor.
 
-I passed through the apparition portal, and in this buried library, I met Octave and the Archivist. But they were not alone.
+I passed through the teleportation portal, and in this buried library, I met Octave and the Archivist. But they were not alone.
 
 At their side were unnatural incarnations, come from the imaginary worlds.
 
@@ -149,13 +149,13 @@ FAREWELL TO THE PLAYERS (by the phantom Octave)
 
 *Below is an example of a farewell speech, to be adapted of course if some teams have not succeeded in their quest. No pre-recorded version for this speech, as it must remain very spontaneous and natural.*
 
-My friends the Diakons, I thank you for all you have done for us; I wish you to always fight well against the demonic forces, and above all never again to burn manors that have done you no harm!
+My friends the Diakons, I thank you for all you have done for us; may you always fight the demonic forces well, and above all never again burn manors that have done you no harm!
 
 My friends the Mirandian soldiers, I am glad that our magic mill will go on serving a fine cause, and I hope that with it, you will be able to go on living in peace on your island, for as long as the sun shines!
 
 My friends the Heliossarian explorers, I am counting on you to thwart the Akariths' insane plans, with my ancestor's ring. The legions of undead had better watch out!
 
-Finally, my tiny little nephews and nieces the Parcivals, it has been an immense joy to make your acquaintance. Take good care of your sister {% symbol "Philomène" for "parcival_sick_child_name" %}, and perpetuate for a long time, forever, the wisdom of our noble lineage!
+Finally, my great-great-great-grandnephews and grandnieces the Parcivals, it has been an immense joy to make your acquaintance. Take good care of your sister {% symbol "Philomène" for "parcival_sick_child_name" %}, and perpetuate for a long time, forever, the wisdom of our noble lineage!
 
 
 {% endmacro %}

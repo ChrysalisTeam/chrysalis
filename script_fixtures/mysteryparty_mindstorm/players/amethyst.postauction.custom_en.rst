@@ -1,5 +1,5 @@
 {#
-.. BEWARE: CUSTOMIZE THIS FOR YOUR GAME
+.. BEWARE: CUSTOMISE THIS FOR YOUR GAME
     State of play
     =============
 

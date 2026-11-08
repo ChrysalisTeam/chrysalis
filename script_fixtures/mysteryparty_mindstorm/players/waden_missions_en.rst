@@ -4,7 +4,7 @@ Main objectives for the evening
 ====================================
 
 {% macro waden_main_objectives() %}
-- Above all, do not draw attention to the fact that you possess an Akarith Sacred Orb
+- Above all, do not draw attention to the fact that you possess an Akarith sacred orb
 
 - Destroy the atomic physics work carried out together with Prof. Voluto
 
@@ -12,7 +12,7 @@ Main objectives for the evening
 
 - Make a decision about this strange letter from the University of Omrh (land of Nalavut)
 
-- Propose engagement to Cynthia, after having "proved yourself" and obtained the agreement of her father Emilos Loakim {% fact "emilos_loakim_wants_waden_to_prove_valor" %}
+- Ask for Cynthia's hand in marriage, after having "proved yourself" and obtained the agreement of her father Emilos Loakim {% fact "emilos_loakim_wants_waden_to_prove_valor" %}
 
 So far you have tried to untangle yourself from your problems on your own, without exposing your loved ones to them.
 But things are taking a nasty turn, and you will have to find some support.

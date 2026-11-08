@@ -40,7 +40,7 @@ So you played along, and investigated in secret to unlock access to the library'
 
 While the Arkon was performing his ritual, and closing the interdimensional portals one by one, you came back into the world of the living through the third volume of your novel. And you attacked the humans shortly before it was your own portal's turn. Octave and the Archivist were vaporised by your fire elemental before they had even understood what was happening to them. The Arkon, for his part, proved to be a terrible adversary, chaining attacks and defences on the physical, magical and sacred planes - the latter being of course without effect on you. In the midst of this outpouring of power, you managed to shoot a curare arrow right into his forehead, which secured your victory.
 
-Alas for you, with his dying breath, {% symbol "Valerias" for "arkon_name" %} cursed the library so that no spirit could leave it as long as you yourself were alive. His skeleton moreover proving indestructible, you hid his skull at the foot of the {% symbol "library plants" for "arkon_skull_location" %}, to prevent it from compromising you. When the other avatars still at liberty came, several days later, to enquire about the situation, they could not understand what had happened here; and you played along with surprise and dread. {% hint 'arkon_skull_hidden_in_jungle_trees' is needed %}
+Alas for you, with his dying breath, {% symbol "Valerias" for "arkon_name" %} cursed the library so that no spirit could leave it as long as you yourself were alive. His skeleton moreover proving indestructible, you hid his skull at the foot of the {% symbol "library plants" for "arkon_skull_location" %}, to prevent it from compromising you. When the other avatars still at liberty came, several days later, to enquire about the situation, they could not understand what had happened here; and you put on a show of surprise and dread. {% hint 'arkon_skull_hidden_in_jungle_trees' is needed %}
 
 Since then, your investigations have been stalling; the search of the authorised floor has yielded nothing, the forbidden floor remains inaccessible, and you are impatiently waiting for human sorcerers to reopen the library one day, so as to resume your plans for world conquest.
 
@@ -57,7 +57,7 @@ Specific information and instructions
 {# NOPE NOT NOW Ask the serving automaton for drinks at fixed times. #}
 
 You wonder about the metal table bell left in plain view, which, when you try it, rings but triggers nothing (because you cannot see the spectres stirring at that moment); in any case, it is not some contraption of the Inventor and his automatons.
-By talking with the players, they will eventually explain to you what happens when it is used.
+If you talk with the players, they will eventually explain to you what happens when it is used.
 Once you know that it is a recall signal for the phantoms, **you steal it discreetly**, and hide it in your satchel. Neither avatars nor players must know that you are the one who took it; it will in principle serve you as a weapon during the final battle. {% fact "druid_must_steal_table_bell_when_usage_understood" %} {% fact "druid_finally_uses_table_bell_as_weapon" %}
 
 You are a scholar of animals, plants and minerals, and the vocabulary of your universe is the same as the very ancient vocabulary of the universe of the living.

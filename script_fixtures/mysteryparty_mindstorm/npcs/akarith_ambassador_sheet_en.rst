@@ -39,11 +39,11 @@ MISSION 1: the tar sands deposits
 
 You try to gatecrash Lydia's private sale, despite the Tabellion's protests. If she refuses, you try to at least get an interview with her afterwards.
 
-Your goal is to make her sign a (non-exclusive) negotiating contract, attesting that she is interested in selling her deposit to Akaris for a large sum, and will therefore not sell it to anyone else for a certain period of time. This serves a double purpose: to have a chance of getting hold of this very interesting piece of land, but above all to compromise Lydia in the eyes of Sabarith public opinion, so as to make her give up the post of consul in favour of {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} (whom the Akariths already manipulate easily through blackmail).
+Your goal is to make her sign a (non-exclusive) negotiation contract, attesting that she is interested in selling her deposit to Akaris for a large sum, and will therefore not sell it to anyone else for a certain period of time. This serves a double purpose: to have a chance of getting hold of this very interesting piece of land, but above all to compromise Lydia in the eyes of Sabarith public opinion, so as to make her give up the post of consul in favour of {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} (whom the Akariths already manipulate easily through blackmail).
 
 Thoroughly reassure Lydia that "business is business", that "this commits her to nothing", and that in any case it is in her interest to think carefully before making her decision.
 
-If this negotiating contract is signed, pass a copy of it, via the mediator, to Cynthia (to see whether she makes a scoop of it), and in any case the Press soon learns of it and goes wild about the traitor Lydia, to the benefit of her rival in the consular elections.
+If this negotiation contract is signed, pass a copy of it, via the mediator, to Cynthia (to see whether she makes a scoop of it), and in any case the Press soon learns of it and goes wild about the traitor Lydia, to the benefit of her rival in the consular elections.
 
 
 

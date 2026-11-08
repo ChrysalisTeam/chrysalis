@@ -20,7 +20,7 @@ INFORMATION FOR ALL:
 
 - Note the well-known and acknowledged presence of a **sentinel automaton**, armed with a Nerf gun.
 
-- A fifth team is part of the game; you will discover it on the day.
+- A fifth team is part of the game; you will discover it when the time comes.
 
 - The NPC actors will each more specifically follow one group during the game, preferably with that group's quest progression sheet. The idea is to be able to steer them subtly, if they are struggling to make progress.
 
@@ -38,7 +38,7 @@ FOR THE PHANTOMS:
 - Triggers: you switch to wandering when the BELLS ring (or the spectral frenzy table bell, which triggers an intense soundtrack); you switch back to embodied (potentially ANCHORED) when the GONG rings. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 - **IMPORTANT CHANGE**: at the very start of the game, you will not be there straight away, and will appear in the wandering phase!
 - We will need to test the phantoms' WINGS, which will be used for the epilogue, for example: feathers for the Arkon, LEDs for the Archivist, steampunk for Octave
-- THIEF: When the players arrive on the forbidden floor, you are already wandering, dangerous. When you embody yourself, it must be at your anchor point. Then switch on the "pirate" soundtrack that goes with your role. Unlike the other phantoms, your switches between wandering and embodiment do not depend on the gong and bell sounds, because you are wandering far more often than they are - so this must be arranged with the Game Master.
+- THIEF: When the players arrive on the forbidden floor, you are already wandering, dangerous. When you become embodied, it must be at your anchor point. Then switch on the "pirate" soundtrack that goes with your role. Unlike the other phantoms, your switches between wandering and embodiment do not depend on the gong and bell sounds, because you are wandering far more often than they are - so this must be arranged with the Game Master.
 
 
 FOR THE AVATARS:
@@ -77,8 +77,8 @@ Questions to ask the players of the group before the game:
 
 - Who are you? What have you come to do in the Maupertuis secret archives? What are your special abilities, for each of you? What year of the {% symbol "Era of the Great Appeasement" for "current_era_name" %} are we supposed to be in?
 - How do you perform, all together, your motto and your symbolic gesture?
-- Do you have any questions about your specific roles or abilities? *(if so, see with the GM when he comes round)*
-- Do you have all your garments and objects provided by the organisers? *(if not, see with the GM when he comes round)*
+- Do you have any questions about your specific roles or abilities? *(if so, check with the GM when he comes round)*
+- Do you have all your garments and objects provided by the organisers? *(if not, check with the GM when he comes round)*
 {% endmacro %}
 <{ group_briefing_questions }/>
 
@@ -93,7 +93,7 @@ Questions to ask the players of the group before the game:
 - Parcival Alchemist: You can take/store all the potions, but communicate, because the Diakons may need them!
 - Spies: Do not hoard the riches (coins, diamonds...); it is pointless and spoils the game
 - Minesweeper Spy: Change of minesweeping mode => Electric hand now; the LUMINIS are used to mark interesting objects or traps
-- Fallen: Remove the white ribbons from the fallen automatons when they are operational
+- The Fallen: Remove the white ribbons from the fallen automatons when they are operational
 
 
 FINAL BRIEFING OF PLAYERS+NPC ACTORS
@@ -114,7 +114,7 @@ FINAL BRIEFING OF PLAYERS+NPC ACTORS
 
 - You can keep your character sheet with you, in particular for the alchemical formulas or the sacred incantations; it is OUT-OF-GAME.
 - You will meet other players: take the time to get to know each other a little, and to see everyone's abilities, as they could be useful to you. Know for example whom to call if you see sticker stars or coloured feathers. It is a rather **collaborative** game, thanks to the Oath of Zarathustra.
-- You will also meet various NPC characters; here too, take the time to discover them, to talk with them; perhaps you can help them, perhaps they can also help you in your research!
+- You will also meet various NPCs; here too, take the time to discover them, to talk with them; perhaps you can help them, perhaps they can also help you in your research!
 - Finally, you will come across mechanisms, spells (LIGHT FLASH, cicada sound, jingle bells), and beings that are dangerous for your character... Be careful, they can injure you or much worse; and what do you do if you are injured, again? Yes, you stop moving and call for help.
 
 

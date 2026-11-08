@@ -15,7 +15,7 @@ The inspector therefore convinces Loyd Georges to meet the various players, so t
 
 At the same time, Shark poisons Loyd Georges, making sure that he ingests, in one form or another, cardiac toxins causing severe bradycardia (slowing of the heart rate):
 
-- before the evening meal on the "day of the interviews" (the day before the reception), he plans to replace the bag of bay leaves, in the kitchen, with one of oleander (toxic because of the oleandrin it contains), in the dish in sauce he himself suggested to the cook; this poison is fast-acting, and therefore takes effect shortly after Loyd Georges ingests it at dinner. This oleander was ordered from "Master Bibine, apothecary in Salima", and delivered to the P.O. box in the neighbouring hamlet. The ageing cook does not notice the trick.
+- before the evening meal on the "day of the interviews" (the day before the reception), he plans to replace the bag of bay leaves, in the kitchen, with one of oleander (toxic because of the oleandrin it contains), for the sauce-based dish that he himself suggested to the cook; this poison is fast-acting, and therefore takes effect shortly after Loyd Georges ingests it at dinner. This oleander was ordered from "Master Bibine, apothecary in Salima", and delivered to the P.O. box in the neighbouring hamlet. The ageing cook does not notice the trick.
 - in case the oleander was not cooked for dinner, he could have tried to force an overdose of LG's usual anti-tachycardia medication (digoxin); but that was not necessary
 
 Note that the anti-emetic "Resorpa" that LG takes to offset the side effects of digoxin (see the "MEMO" for Robb Barrow in the LibreOffice documents) prevents the poison from being regurgitated.

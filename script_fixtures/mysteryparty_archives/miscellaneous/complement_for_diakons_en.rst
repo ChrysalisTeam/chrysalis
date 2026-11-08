@@ -49,9 +49,9 @@ You were with your compatriots, but also with strangers. Each in turn, you intro
 Your knowledge of artefacts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-By dint of coming across antique objects or objects tinged with mysterious auras, you are beginning to know how to recognise their nature.
+By dint of coming across antique objects or objects tinged with mysterious auras, you are beginning to be able to recognise their nature.
 
-You will however need to turn to the right expert person, to learn more about most of these properties.
+You will however need to turn to the right expert to learn more about most of these properties.
 
 *Out-of-game explanations*: If you come across a **gold star** on an object, it means it probably has magical properties; if geometric symbols are present next to the gold star, the object may be cursed; only a Dispeller can know for sure. If a **silver star** is present, it indicates an object of interest from a scientific point of view, to be analysed. If you see a **coloured feather**, it may indicate an energy linked to the gifts of prophecy, which will interest mediums.
  {% fact "sticker_gold_star_means_magical_analysis" %}

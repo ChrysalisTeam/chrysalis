@@ -8,7 +8,7 @@ The secret of the atoms
 {% include "missions/secrets_of_atom/generic_mission_briefing_en.rst" %}
 
 
-This Sun of Atoms, you know it from up close.
+You know this Sun of Atoms at close quarters.
 And not only because of radioactive dating.
 You were indeed commissioned, {% symbol "8 months" for "waden_voluto_cooperation_start_ago" %} ago, to assist Professor Voluto in his research in atomic physics.
 
@@ -62,7 +62,7 @@ The Balberith blackmail
 
 {% symbol "15 days" for "waden_blackmailing_start_ago" %} ago, as you were off to recharge your batteries in a park not far from the Alifir Academy, a smiling young lady approached you, and dragged you to a nearby café, on the pretext of "an offer you won't have the heart to refuse". {% fact "waden_has_met_unknown_girl" as author %}
 
-**"Call me {% symbol "Elezie" for "waden_blackmailer_lady_name" %}"**, that is all she told you about herself, in her strong accent typical of the land of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}. Then she asked you to provide her with the results of all your work with Professor Voluto. You asked her in whose name. "We have recovered the only copy of the Alifir Academy's video recordings, in which you can clearly be seen assaulting the late Professor Voluto; that could reopen an investigation, involve lots of people in the affair... let's keep this between us. We can bring you a great deal. But let's start with simple things." {% fact "voluto_death_day_academy_recordings_disappeared" %}
+**"Call me {% symbol "Elezie" for "waden_blackmailer_lady_name" %}"**, that is all she told you about herself, in her strong accent typical of the land of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}. Then she asked you to provide her with the results of all your work with Professor Voluto. You asked her on what grounds. "We have recovered the only copy of the Alifir Academy's video recordings, in which you can clearly be seen assaulting the late Professor Voluto; that could reopen an investigation, involve lots of people in the affair... let's keep this between us. We can bring you a great deal. But let's start with simple things." {% fact "voluto_death_day_academy_recordings_disappeared" %}
 
 She then gave you **three pieces of black rock**, labelled A, B, and C, in a small green satin box. "I want a complete physico-chemical analysis of these samples, radioactive elements included; you have the skills and the equipment; it is strictly confidential; I will contact you again in a few weeks to take stock; 100 kashes for you now, the rest on delivery".
 
@@ -77,7 +77,7 @@ Damn Voluto, all this because of him...
 These last few days...
 ==========================
 
-To your great surprise, you recently received an insistent invitation, just like your sweetheart, to Loyd Georges' grand evening of private sales. You would have preferred to stay discreet, but Cynthia was delighted by this opportunity, and there was no question of leaving her alone. You therefore hope that all will go well, and that no one will pay attention to the discreet lab scientist that you are.
+To your great surprise, you recently received an insistent invitation, just like your sweetheart, to Loyd Georges' grand evening of private sales. You would have preferred to stay discreet, but Cynthia was delighted by this opportunity, and there was no question of leaving her alone. You therefore hope that all will go well, and that no one will pay attention to the discreet lab technician that you are.
 
 You spend the day before the private sales evening in your secret laboratory, studying the orb. Then on the big day, in the early afternoon, you travel up to Salima by airship; pondering all the challenges surrounding you, without finding any obvious solution... {% fact "waden_alibi_is_revealing" as author %}
 You meet up with Cynthia in town, to go up together to Loyd Georges' manor.

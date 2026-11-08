@@ -8,7 +8,7 @@ Recording transcript - Spy pen
 *People approaching, a woman's voice and a man's voice*
 
 {% macro opal_lydia_library_talk() %}
-- ...it's incredible, these Akariths would still be after us, a decade later?
+- ...it's incredible, you mean these Akariths are still after us, a decade later?
 - after me, at any rate. They probably don't suspect that you too have touched their damned trinkets and other sacred vases. But to get at me, they could also go after you. Khaal must be put somewhere safe.
 - no, my cousin {% symbol "Isildis" for "lydia_cousin_name" %} already knew that as a candidate, I had to be careful. She registered us under a false name at the thalassotherapy centre of the misty mountains. Better that the two of them stay there quietly, until I am elected and have the consulate's protection services at my disposal.
 - humpfh... you may be right. These Akariths are insane, and they have followers of their religion all over Pangea. I'm very much afraid Loyd Georges has been their latest victim. He touched their orb, and for them that is the ultimate sacrilege.
@@ -44,7 +44,7 @@ Recording transcript - Spy dictaphone
 - Never again. Never again. This day of interviews was not only exhausting, but also perfectly useless.
 - Come now, perhaps Inspector Shark got something out of it. It was his idea after all.
 - Do you really think he is still capable of finding anything at all, at his age?
-- Hmm... I admit I believe in it less and less myself. He is going senile. Let's hope the police superintendent will accept your request.
+- Hmm... I admit I have less and less faith in him myself. He is going senile. Let's hope the police superintendent will accept your request.
 - Speaking of senile... Alphonse put his foot in it again this morning, didn't he?
 - Yes, he spoke to me about the "Keroskian parcel" while the inspector was right behind him. {% fact "alphonse_blunder_revealed_panorbium_fortuna_arrival" %}
 - No matter. I have hidden it where the demons of the abyss themselves would not think of looking for it.

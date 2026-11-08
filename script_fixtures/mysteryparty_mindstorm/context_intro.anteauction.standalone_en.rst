@@ -19,7 +19,7 @@ This amateur adventurer has indeed discovered a buried temple in the Midolian co
 
 .. note::
     
-    Please watch, in video, on http://chrysalis-game.com/fr/cms/medias/:
+    Please watch the following videos on http://chrysalis-game.com/fr/cms/medias/:
     
     - Loyd Georges' archaeological raid
     - a short retrospective on the Tunguska cataclysm
@@ -29,15 +29,15 @@ This amateur adventurer has indeed discovered a buried temple in the Midolian co
 
 When Loyd Georges organised great auctions in his manor in Salima, to sell off various jewels and artefacts found on site, it was only natural that many countries (Masslavia, the Dorian Dukedom... and even the distant island-continent of Lordania) got involved in the affair.
 
-Each State obviously came with its own approach to the problem; **Masslavia** seeks above all to avoid being invaded, once again, by the belligerent Akariths; the **Dorian Dukedom**, resigned, is considering a discreet alliance with the Akarith political and religious leaders (the powerful **Akarith Judicators**) so as not to end up among their future slaves; as for **Lordania**, it has come to make sure that no serious economic and military competitor can be born of this conflict, and above all not an Akarith empire.
+Each State obviously came with its own approach to the problem; **Masslavia** seeks above all to avoid being invaded, once again, by the belligerent Akariths; the **Dorian Dukedom**, resigned, is considering a discreet alliance with the Akarith political and religious leaders (the powerful **Akarith Judicators**) so as not to end up among their future slaves; as for **Lordania**, it has come to make sure that no serious economic and military competitor can emerge from this conflict, and above all not an Akarith empire.
 
-**Everyone suspects that these countries are not content with diplomatic communiqués, and that they must have sent their best secret agents on site, to learn more about the discoveries of the sir of Salima. Regional accents are very pronounced on Pangea, so it is almost impossible to hide one's origin; but from there to proving that an honest foreign bidder is in fact a spy... that is difficult.**
+**Everyone suspects that these countries are not content with diplomatic communiqués, and that they must have sent their best secret agents on site, to learn more about the discoveries of the gentleman of Salima. Regional accents are very pronounced on Pangea, so it is almost impossible to hide one's origin; but actually proving that an honest foreign bidder is in fact a spy... that is another matter.**
 
-A few months have passed since the auctions were announced. A small sale of gems and artefacts, all fairly unremarkable, has already taken place; but the following auctions, which were meant to rise crescendo in quality, have been delayed by various incidents: threatening letters, hacking, attempted kidnappings or burglaries... {% fact 'loyd_georges_has_been_attacked_multiple_times' %}
+A few months have passed since the auctions were announced. A small sale of gems and artefacts, all fairly unremarkable, has already taken place; but the following auctions, which were meant to build up in quality, have been delayed by various incidents: threatening letters, hacking, attempted kidnappings or burglaries... {% fact 'loyd_georges_has_been_attacked_multiple_times' %}
 
 Loyd Georges, determined to give the event fresh impetus, invites all participants to an **evening of private auctions**, in his manor.
 
-The guests fully suspect that they may run into the formidable **Inspector Shark** there, who is investigating the recent despoilments their host has suffered. But the evening is certainly not going to go as planned.
+The guests are well aware that they may run into the formidable **Inspector Shark** there, who is investigating the recent depredations their host has suffered. But the evening is certainly not going to go as planned.
  
 
 .. image:: ../assets/pangea_world_map_v10_8bits-rotated.png

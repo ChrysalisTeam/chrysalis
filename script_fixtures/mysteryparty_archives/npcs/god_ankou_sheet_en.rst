@@ -20,6 +20,6 @@ During your visit, you ask the players whether they might have seen a **metal ta
 They should know what you are talking about.
 You explain to them that during your last visit you forgot this accessory, the **"{% symbol "Spectral Bell" for "table_bell_name" %}"**, which allows you to call stray phantoms to you, in disembodied form (it can only work once before having to be recharged by you). {% fact "table_bell_belongs_to_ankou" %}
 *Normally, the bell should have become impossible to find at this point in the game, which you then complain about.*
-In any case, you ask the players to leave the bell in plain view (if they find it), on the spot, as you will soon have a use for it here, if - as you hope - the players break the library curse (so there is no point in burdening yourself with this object for the rest of your business this day).
+In any case, you ask the players to leave the bell in plain view (if they find it), on the spot, as you will soon have a use for it here, if - as you hope - the players break the library curse (so there is no point in burdening yourself with this object for the rest of your business today).
 
 In the Forbidden Domain, if you meet the phantom of the **Thief**, you try to make him understand that he is dead, and should therefore follow you as soon as possible. {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}

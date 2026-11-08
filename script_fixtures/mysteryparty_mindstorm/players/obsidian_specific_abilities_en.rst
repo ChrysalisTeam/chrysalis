@@ -19,7 +19,7 @@ Free Movement
 <{ manor_police_searches }/>
 
 Information Interception
-    As deputy police officer, it is through you that the mail, requests and pieces of evidence intended for Inspector Shark (of whom people are, moreover, often afraid) pass. And he, likewise, calls upon you to pass on information to the other protagonists of the affair, or to give orders to the **dozen police officers** present on the premises. This gives you a strong power to manipulate information (addition, alteration, withholding...), which of course does not come without great responsibilities.
+    As deputy police officer, all the mail, requests and pieces of evidence intended for Inspector Shark (whom people, moreover, are often afraid of) pass through you. And he, likewise, calls upon you to pass on information to the other protagonists of the affair, or to give orders to the **dozen police officers** present on the premises. This gives you a strong power to manipulate information (addition, alteration, withholding...), which of course does not come without great responsibilities.
 
 <{ new_identity_and_life}/>
 

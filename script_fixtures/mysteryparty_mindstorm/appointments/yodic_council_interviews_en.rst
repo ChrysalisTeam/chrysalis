@@ -24,14 +24,14 @@ The Archdeacon must show joy or dismay depending on the answers received, and ex
 Hearing of a Dorian subject
 ==================================
 
-A high-ranking Akarith official calls, still as part of this great council, one of the Dorians, to directly test the "purity of his faith"; to this end, the Dorian will have had in his character sheet a simplified summary of the Yodic dogmas and of the theological quotes.
+A high-ranking Akarith official calls, still as part of this great council, one of the Dorians, to directly test the "purity of his faith"; to this end, the Dorian will have found in his character sheet a simplified summary of the Yodic dogmas and of the theological quotes.
 
 The Archdeacon thus asks these questions:
 
 - Do you feel in harmony with the Yodic faith as it has been standardised, and purified of its heresies, by the order of Judicators?  *(correct answer: "yes, of course!")*
-- Is Transfiliation genuine, in other words is it possible for a *bathar*, who is not genealogically part of the holy Akarith people, to become a friend of the Yods? {# NOPE Or must he be exterminated or reduced to slavery by the holy Akariths? #}  *(correct answer: "yes, of course Transfiliation is possible, we Dorians are longing for nothing else")*
+- Is Transfiliation genuine, in other words is it possible for a *bathar*, who is not genealogically part of the holy Akarith people, to become a friend of the Yods? {# NOPE Or must he be exterminated or reduced to slavery by the holy Akariths? #}  *(correct answer: "yes, of course Transfiliation is possible, it is all we Dorians are waiting for")*
 - Regarding Polymony: since the recent doctrinal updates, is one still allowed to say "Yod be praised" when one is pleased, or must one always say "the Yods be praised"?  *(correct answer: "always say the Yods in the plural, otherwise it is monotheism")*
-- Do you think that eschatology is in-vivo or post-mortem? In other words, will the end of the world come during this time of ours, once the holy orbs have been recovered, or after our death thanks to our prayers and atonements?  *(correct answer: "in-vivo, thanks to the holy war to recover the orbs")*
+- Do you think that eschatology is in-vivo or post-mortem? In other words, will the end of the world come during this time of ours, once the sacred orbs have been recovered, or after our death thanks to our prayers and atonements?  *(correct answer: "in-vivo, thanks to the holy war to recover the orbs")*
 - Can you give me a pious quote, one that is of course orthodox (not heretical), which you are particularly fond of, and which seems to you to illustrate well the current issues in matters of Yodic faith?  *(possible correct answers: see below)*
 
 Here again, the Archdeacon must react to the answers received, and give an outlook on the council's decision in view of the tenor of the interview.

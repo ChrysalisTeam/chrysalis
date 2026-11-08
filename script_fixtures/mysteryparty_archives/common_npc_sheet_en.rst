@@ -65,7 +65,7 @@ In addition, during the game, the texts can be whispered into the NPC actor's ea
 Steering the players towards the right people
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Octave, the Archivist and the Arkon can pass the buck to one another when asked for information they have forgotten about the Maupertuis household or the library curse.
+- Octave, the Archivist and the Arkon can refer the players to one another when asked for information they have forgotten about the Maupertuis household or the library curse.
 - If a player is looking for information about the automatons, or has a tool to repair, steer them towards the Inventor.  {% fact "inventor_can_repair_items" %}
 - If it is about gifts of sight, the Duchess is the best placed. {% fact "duchess_knowns_about_prophecies" %}
 - If it is about herbalism (for potions) or gemmology, the Druid may have a few answers. {% fact "druid_known_about_plants_and_gems" %}
@@ -83,7 +83,7 @@ All the NPC actors have a story, and a history with the other NPC actors, which 
 - The avatars and phantoms are relieved to "find each other again" through the players; they then question each other, again indirectly, about what happened 500 years ago during the tragedy.
 - When Octave and the Archivist are reunited: outpourings of joy, mutual questioning about the "why" of the situation
 - When Octave and the Archivist find the Arkon again: surprise, suspicion, accusatory questions
-- When Octave and the Archivist see the Beast: surprise, attempts to tame it in the name of the Maupertuis
+- When Octave and the Archivist see the Beast: surprise, attempts to coax it in the name of the Maupertuis
 - The avatars are at a loss when trying to protect the players from "invisible" dangers such as the wandering Beast
 - When the avatars or phantoms meet the Thief: surprise, indignation, condemnation (he remains mocking)
 - When the avatars or phantoms meet the Ankou: respect, hope, questions about the deceased Maupertuis; the phantoms have already met him a few times

@@ -5,7 +5,7 @@ The events punctuating the evening
 =========================================
 
 
-*Here is a chronology of the various clues, facts and sub-quests that may come into play; the Game Master is free to adapt these examples to his own game.*
+*Here is a chronology of the various clues, facts and sub-quests that may come into play; the Game Master is free to adapt these examples to their own game.*
 
 Long in advance:
 
@@ -31,17 +31,17 @@ Well before the game, between GMs and NPCs:
     - the NPCs RYDJI, ALPHONSE and INSPECTOR SHARK stay as such all evening.
     - the NPC playing the TABELLION starts as a Servant, then arrives at the manor as the Tabellion and remains so until the end
     - the 2 multi-role NPCs alternate between different characters, according to the indications given below.
-    - as far as possible, it is an "armed guard" who comes to bring Obsidian the search reports and take his orders
+    - as far as possible, it is an "armed guard" who comes to bring Obsidian the search reports and to take orders
 
 
-When the players are there, out-of-roleplay:
+When the players are there, out-of-game:
 
 - give a tour of the premises, say what is IC and OOC, the potential "purely OOC" characters to ignore (e.g. the photographer)
 - recall the most important rules (immersion, safety...)
 - FORBID drinks in the computer area
 - take stock of FOOD ALLERGIES for the buffet!!
 - tell EVERYONE "you know how to detect whether a SERIOUS POISON is in your glass"
-- ASK about allergies to disco SMOKE!!
+- ASK whether anyone is allergic to SMOKE-machine fog!!
 - Specify AUTOMATIC AUTHENTICATION: yes, but only for emails/letters/calls that concern YOU, directly or handed over in person
 - advise them to COMMUNICATE and to PLAY AS A TEAM
 - ANNOUNCE the overall schedule, and that 30 min before the end of the game, the players will be offered herbal tea/tea!!
@@ -57,33 +57,33 @@ When the players are there, out-of-roleplay:
 
 Briefings in roleplay mode:
 
-- a "slightly roleplay" PHOTOGRAPHER takes pictures of them alone and by nationality
+- a "slightly roleplay" PHOTOGRAPHER takes pictures of them individually and by nationality
 - ask the players to confer in groups as they would have done just before the evening
 - do the "initial briefing" of each group of players with their "mentor"
 
 
 [TEMPORARY] - ADDITIONS TO THE PC/NPC SHEETS:  {# TODO move this to player sheets later #}
 
-- GMs and OBERONS: hiring armed mercenaries, for a violent action, costs between 600 and 1000 kashes (half as much if paid in gems); remember to call out, every 30 min if possible, the unread emails (search for "has_new_messages" in the DB)
+- GMs and OBERONS: hiring armed mercenaries, for a violent action, costs between 600 and 1,000 kashes (half as much if paid in gems); remember to announce, every 30 min if possible, the unread emails (search for "has_new_messages" in the DB)
 
 - For the NPCs Rydji, Alphonse and Old Neighbour: You are aware of a "BAOBAB" anecdote in the life of the young Loyd Markis (and it reminds you of something displayed on the wall of the reception hall), but you do not know what exactly he meant by that; if asked, you no longer know what year the Tabellion was born, but you remember his birthday, which coincides with yours: {% symbol '24 November' for 'notary_birth_date_day_month' %}; if someone mentions an "autumnal bust" to you, it reminds you of paintings that were in the manor, but you no longer know where; BEWARE, CHANGE: no servant knows where the cooking recipes are!
 
-- Rydji: you have let Count Blispin, a friend of Loyd Georges, in on things (via telegrams) so that he helps you protect him and his loved ones (especially the Magnus family), but all this unbeknownst to Loyd Georges, who was always too reserved to ask for help; you love explosives, and you use them for any request that lends itself to it (digging under a tree, into a wall or a ceiling...), since you legally have all the permits to carry out construction work with explosives.
+- Rydji: you have let Count Blispin, a friend of Loyd Georges, in on things (via telegrams) so that he would help you protect Loyd Georges and his loved ones (especially the Magnus family), but all this unbeknownst to Loyd Georges, who was always too reserved to ask for help; you love explosives, and you use them for any request that lends itself to it (digging under a tree, into a wall or a ceiling...), since you legally have all the permits to carry out construction work with explosives.
 
-- Alphonse: you bellow with emphasis the "in-game" hours as they pass: "Ladies and gentlemen, it is 20:00 and all is well". You also loudly announce the arrival of the various dishes and drinks of the buffet. You mangle words ("succulate these dishes for me", "I am emotioned", "solutionise a problematic"...); you always give in, after dithering, to the wonderful delicacies brought by the Akarith Ambassador; you know the same things as the old neighbour (see her sheet) regarding "Loyd Georges' first pet and the Tabellion's date of birth"; you know that said neighbour (the hamlet's eldest resident) knows a great deal about Loyd Markis and Loyd Georges' childhood; last night, you were gambling at the den {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}, many witnesses can attest to it; the brown canvas bag received yesterday morning by Loyd Georges was lying, at last report, on a shelf of the manor's LIBRARY (you do not know what was done with its contents); the telephone to which you sometimes give the guests access also does FAX, and it is such an old model that NOBODY could tap it any more; you recently lost the pass card opening only the manor's mailbox, which means that neither you nor Rydji can collect the mail, except by using Loyd Georges' golden pass card once found {% hint 'postbox_specific_lost_passcard' is needed %}; you complain about the gambling dens of Salima, more and more "sectarian" even towards old customers like you; examples of (recurring) comic expressions: "everything is under control", "if I would have known", "unbeknownst to my own free will"...
+- Alphonse: you bellow with emphasis the "in-game" hours as they pass: "Ladies and gentlemen, it is 20:00 and all is well". You also loudly announce the arrival of the various dishes and drinks of the buffet. You mangle words ("succulate these dishes for me", "I am emotioned", "solutionise a problematic"...); you always give in, after dithering, to the wonderful delicacies brought by the Akarith Ambassador; you know the same things as the old neighbour (see her sheet) regarding "Loyd Georges' first pet and the Tabellion's date of birth"; you know that said neighbour (the hamlet's eldest resident) knows a great deal about Loyd Markis and Loyd Georges' childhood; last night, you were gambling at the gambling den {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}, many witnesses can attest to it; the brown canvas bag received yesterday morning by Loyd Georges was lying, at last report, on a shelf of the manor's LIBRARY (you do not know what was done with its contents); the telephone you sometimes let the guests use also does FAX, and it is such an old model that NOBODY could tap it any more; you recently lost the pass card opening only the manor's mailbox, which means that neither you nor Rydji can collect the mail, except by using Loyd Georges' golden pass card once found {% hint 'postbox_specific_lost_passcard' is needed %}; you complain about the gambling dens of Salima, more and more "sectarian" even towards old customers like you; examples of (recurring) comic expressions: "everything is under control", "if I would have known", "unbeknownst to my own free will"...
 
-- Tabellion: you initially wish for the violent repression of any popular riot ("nothing but delinquents, the lot of them!"), but this position may evolve. For the sale of Lydia's deposit, the purchase price must be a multiple of 0.5 megakashes. You know that according to Sabarith Law, a treasure (e.g. Loyd Georges' family one) must be shared half-and-half between whoever (re)discovered it, and the owner of the treasure (or failing that, of the land on which it lies). Prices of the diamonds that can be found in the game: 20¤ for the small round ones, 35¤ for the rectangular ones (the most common), 50¤ for the large round ones; you know how to transfer these "standard" gems (small and transparent, handed over in person) to their owner's Anthropia account (but the reverse operation is not possible); you have 3 coloured stones in your briefcase, which you can sell for 50¤ apiece (their true value), and you recognise them if someone steals them from you and then wants to deposit them on their account through you; you can challenge a guest to the "game of sticks" (Nim), betting for example 100¤ on it, and deciding who starts by playing rock-paper-scissors
+- Tabellion: you initially wish for the violent repression of any popular riot ("nothing but delinquents, the lot of them!"), but this position may evolve. For the sale of Lydia's deposit, the purchase price must be a multiple of 0.5 megakashes. You know that according to Sabarith Law, a treasure (e.g. Loyd Georges' family one) must be shared half-and-half between whoever (re)discovered it, and the owner of the treasure (or failing that, of the land on which it lies). Prices of the diamonds that can be found in the game: 20¤ for the small round ones, 35¤ for the rectangular ones (the most common), 50¤ for the large round ones; you know how to transfer these "standard" gems (small and transparent, handed over in person) to their owner's Anthropia account (but the reverse operation is not possible); you have 3 coloured stones in your briefcase, which you can sell for 50¤ apiece (their true value), and you recognise them if someone steals them from you and then wants to deposit them into their account through you; you can challenge a guest to the "game of sticks" (Nim), betting for example 100¤ on it, and deciding who starts by playing rock-paper-scissors
 
-- Inspector Shark: only the booths of the neighbouring hamlet are decently usable to call Akaris, the manor's secure fax-phone would be too risky; you exchanged letters with your sister, before and during your conversion to the Akarith religion; the interrogations must be SHORT (10-15 min) but intense; Boolean Interrogation under Trance: **only 1 time** maximum from now on!
+- Inspector Shark: only the booths of the neighbouring hamlet are decently usable to call Akaris, the manor's secure fax-phone would be too risky; you exchanged letters with your sister, before and during your conversion to the Akarith religion; the interrogations must be SHORT (10-15 min) but intense; Boolean Interrogation under Trance: **only once** at most from now on!
 
-- Akarith Ambassador: you offer delicacies in a ciborium (closed chalice), to freak people out, and Alphonse gives in to them; if during a hearing the person being questioned takes out their theological paper to read it, this catches your attention and you let them know; we DROP the olive allergy story, it would be unhealthy given that some players are really very allergic; to push Lydia into signing the negotiation contract, make her understand that if the Dorians drop the purchase she will be in a fix, and insinuate that Akaris could go up to 30 megakashes.
+- Akarith Ambassador: you offer delicacies in a ciborium (closed chalice), to freak people out, and Alphonse gives in to them; if during a hearing the person being questioned takes out their theological paper to read it, this strikes you as suspicious and you make it known; we DROP the olive allergy story, it would be in poor taste given that some players are really very allergic; to push Lydia into signing the negotiation contract, make her understand that if the Dorians drop the purchase she will be in a fix, and insinuate that Akaris could go up to 30 megakashes.
 
 - Cook Robb Barrow: you have all your wits about you, but your senses are in steep decline with age: short-sightedness, deafness, loss of smell...
 
 
-- Lydia: you have never loudly claimed your Lordanian nationality so that it does not hurt you electorally, even though many people know of it, and over there in Lordania you are virtually unknown to the public; you know that Sabarim has a giant military aerodrome in Alifir, which the whole world envies you, but only small-calibre air forces
+- Lydia: you have never loudly claimed your Lordanian nationality so that it does not hurt you electorally, even though many people know of it, and over there in Lordania you are virtually unknown to the public; you know that Sabarim has a giant military aerodrome in Alifir, the envy of the whole world, but only small-calibre air forces
 
-- Opal: you simulate weakening, limping, crescendo over the course of the evening (according to the GM's instructions)
+- Opal: you feign weakness and a limp, more and more markedly over the course of the evening (according to the GM's instructions)
 
 - Cynthia: it is the "Zombifying Drug" that is at the heart of the Lordanian-Sabarith trafficking you discovered; your colleagues gave you a decoder of modern Akarith cryptorunes, found during their investigations; you carry a device (e.g. smartphone, or ask the Oberon) capable of recording an interview, which can then be broadcast on the radio; you obviously carry the keys to your flat
 
@@ -93,8 +93,8 @@ Briefings in roleplay mode:
 Possible GAMEPLAY BOOSTS during the 2nd part of the game (report to the GM if players seem idle or stuck for a long time):
 
 - Shark can prioritise these players for additional interrogation/negotiation
-- the Akarith Ambassador goes to see in turn the Lordanians, the Masslavians, the Sabariths, alone or in groups, to "test the waters", compromise them (by hinting at collusion), talk to them about the inevitable destiny of the world, call them to collaborate, taunt them... and with the Dorians to give them a little cash and gems, mention his high hopes for a peaceful merger (or on the contrary call them to unconditional surrender, depending on the results of the Akarith council)
-- the Tabellion chats with the guests, to talk about the popular discontent "surely due to the Akariths", about everything he had to face to reach this position of high prestige, about the eldest resident of the neighbouring hamlet who is somewhat the soul and memory of this side of Salima, to ask them how they see (from abroad or from inside the country) the greatness and destiny of Sabarim...
+- the Akarith Ambassador goes to see in turn the Lordanians, the Masslavians, the Sabariths, alone or in groups, to "test the waters", compromise them (by hinting at collusion), talk to them about the inevitable destiny of the world, call them to collaborate, taunt them... and goes to the Dorians to give them a little cash and gems, mention his high hopes for a peaceful merger (or on the contrary call on them to surrender unconditionally, depending on the results of the Akarith council)
+- the Tabellion chats with the guests, to talk about the popular discontent "surely due to the Akariths", about everything he had to face to reach this position of high prestige, about the eldest resident of the neighbouring hamlet who is something of the soul and memory of this side of Salima, to ask them how they see (from abroad or from inside the country) the greatness and destiny of Sabarim...
 - Alphonse keeps begging for money in exchange for his services, trying to find a new position, delivering monologues about everything and nothing
 - it is possible to "force" duels of honour between an NPC and a player, in agreement with the GM
 
@@ -133,9 +133,9 @@ HOUR 0:15
 
 - the butler invites the players to start the aperitifs, and to talk among themselves
 
-- RADIO SPOTS: "Miscellaneous commercial announcements 1", "International briefs (Nalavut, Midolia and Sabarim)", "Attack on a Salima personality"
+- RADIO SPOTS: "Miscellaneous commercial announcements 1", "International briefs (Nalavut, Midolia and Sabarim)", "Attack on a Salima public figure"
 
-- Alphonse calls for a tribute to Loyd Georges through musical or poetic works, by the end of the hour, and assures "of all his gratitude" whoever best lends themselves to the exercise.
+- Alphonse calls for a tribute to Loyd Georges through musical or poetic works, by the end of the hour, and promises "all his gratitude" to whoever best rises to the challenge.
 
 - LG's servants each provide their knowledge to the guests, when questioned:
 
@@ -149,8 +149,8 @@ HOUR 0:15
 - Alphonse's overtures:
 
   - if LG dies, who would hire such an ageing servant?
-  - he is therefore not against financial boosts, in exchange for his good and loyal services
-  - he questions Opal to find out whether the latter would not like to take over the manor
+  - he is therefore not against a financial leg-up, in exchange for his good and loyal services
+  - he sounds Opal out to find out whether Opal might like to take over the manor
 
 - Rydji and Alphonse argue: Alphonse says the household is lost, bought up by {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, or demolished by property developers; Rydji says nothing is certain yet and that they must stay calm
 
@@ -164,13 +164,13 @@ HOUR 0:30
 
 - Obsidian: Moving on to manor search #2 (following the report of the previous search)
 
-- arrival of the Tabellion of Salima, with the Sabarith anthem (during which all the NPCs stand to attention); he laments what happened to Loyd Georges, recalls (or has the Oberon recall) all his prerogatives (banker, bailiff, auctioneer...), congratulates himself that his son has been elected consul of Salima, then talks about the series of private sales which is maintained. Inspector Shark threatens with sanctions anyone who mocked the anthem (the law severely punishes insult to the Sabarith anthem).
+- arrival of the Tabellion of Salima, with the Sabarith anthem (during which all the NPCs stand to attention); he laments what happened to Loyd Georges, recalls (or has the Oberon recall) all his prerogatives (banker, bailiff, auctioneer...), congratulates himself that his son has been elected consul of Salima, then talks about the series of private sales, which is going ahead as planned. Inspector Shark threatens to punish anyone who mocked the anthem (the law severely punishes insult to the Sabarith anthem).
 
 - Inspector Shark argues with the Tabellion, reproaching him for his immunity and his interference; the latter holds firm, calmly
 
 - the Tabellion announces the opening of LG's will as a precaution, as the latter had requested; see the staging in the manual
 
-- Alphonse pushes the guests to search, with him, for Loyd Georges' golden pass card
+- Alphonse urges the guests to search with him for Loyd Georges' golden pass card
 
 - SHARK: orders Obsidian to question **Cynthia and Waden** together: alibis, links with Loyd Georges, suspicions they might have about others...
 
@@ -180,7 +180,7 @@ HOUR 0:30
 
 - Lydia receives a call from her political opponent {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}, who blackmails her into withdrawing from the political race, under threat of seeing compromising elements about Opal's past come out
 
-- medical report 2: the medical examinations reveal heart dysfunctions due to cardiotonic glycosides (other molecules than digoxin, such as oleandrin, are also covered by this test)
+- medical report 2: the medical examinations reveal heart dysfunctions due to cardiotonic glycosides (molecules other than digoxin, such as oleandrin, are also covered by this test)
 
 - the butler gets rebuked by the inspector, if he gets too chummy with the guests ("all presumed guilty", as the inspector puts it)
 
@@ -206,7 +206,7 @@ HOUR 1:00
 
 - Obsidian: Moving on to manor search #3
 
-- Arrival of the Akarith Ambassador, with great fanfare, while the NPCs argue abstractly about the arrival of this "intruder" (without naming him); the Ambassador gets admonished by the Tabellion, and ironically overplays consternation ("if I had known, I wouldn't have came"), while Shark makes no comment; then the Tabellion gets irritated with Shark "who decries the privileges of tabellions but not those of ambassadors"; the Ambassador offers his delicacies to whoever wants them
+- Arrival of the Akarith Ambassador, with great fanfare, while the NPCs argue in veiled terms about the arrival of this "intruder" (without naming him); the Ambassador gets admonished by the Tabellion, and ironically overplays consternation ("if I had known, I wouldn't have came"), while Shark makes no comment; then the Tabellion gets irritated with Shark "who decries the privileges of tabellions but not those of ambassadors"; the Ambassador offers his delicacies to whoever wants them
 
 - IMPORTANT: the Tabellion organises and supervises a first round of talks for the tar sands deposits, with Lydia (open to the public); the Akarith tries to barge in, Lydia decides whether he may or not; otherwise, he contacts her again right afterwards, to make her his offer of a "non-exclusive negotiation contract"
 
@@ -242,7 +242,7 @@ HOUR 1:30
 
 - put the auction results on the board (lot, winner, price)
 
-- if a player is absent, it is learnt that this player was arrested that very morning, for an unrelated case; the inspector seems irritated by this case escaping his direct control
+- if a player is absent, word comes that this player was arrested that very morning, for an unrelated case; the inspector seems irritated by this case escaping his direct control
 
 - COUNCIL: a high-ranking member of the Akarith council calls the Dorian agent Peridot, and questions him about his beliefs in Yodic theology {% fact "peridot_must_answer_akarith_council" %}
 
@@ -264,7 +264,7 @@ HOUR 2:00
 
 - the Oberon calls out the pending email messages
 
-- RADIO SPOTS: "First feedback from the Akarith council" (to be completed), "Riots in Sabarim", [if Waden has provided Omrh with 'E=MC2'] "Major scientific discovery in Nalavut"
+- RADIO SPOTS: "First news from the Akarith council" (to be completed), "Riots in Sabarim", [if Waden has provided Omrh with 'E=MC2'] "Major scientific discovery in Nalavut"
 
 - SHARK: entrusts Obsidian with questioning **the Lordanian agent Amethyst**, and begins a "prisoner's dilemma" interview with the **Masslavian agent Malachite and Dorian agent Topaz** (leaving them 5 MINUTES to prepare mentally, or even agree on a strategy)
 
@@ -288,7 +288,7 @@ HOUR 2:30
 
 - hand over the letter from the gazette and the ivory object to Cynthia, so that she can manipulate the Akarith Purifiers of Sabarim
 
-- successive mid-game BRIEFINGS: the 4 groups of secret agents with their superiors, then the 4 civilians (Cynthia, Waden, Lydia, Opal) with Emilos Loakim who calls them from Keroskia; if Waden has betrayed the Alifir Academy over the University of Omrh affair (discovery of E=MC²), Emilos Loakim confronts him in Cynthia's presence, following this
+- successive mid-game BRIEFINGS: the 4 groups of secret agents with their superiors, then the 4 civilians (Cynthia, Waden, Lydia, Opal) with Emilos Loakim who calls them from Keroskia; if Waden has betrayed the Alifir Academy over the University of Omrh affair (discovery of E=MC²), Emilos Loakim then confronts him in Cynthia's presence
 
 - CHECK the state of the players' money and gem reserves, put some back into play if necessary (e.g. Alphonse walks around the hall with banknotes sticking out of his back pocket, and bends forward very ostensibly)
 
@@ -298,9 +298,9 @@ HOUR 2:30
 
 - SHARK: conducts an interrogation with **Opal**, and asks Obsidian to question **Lydia**, but in the SAME ROOM
 
-- RADIO SPOTS: "Worrying disappearance in South Alifir", "Final decision of the Akarith council"
+- RADIO SPOTS: "Suspicious disappearance in South Alifir", "Final decision of the Akarith council"
 
-- Following this last radio spot, the Akarith Ambassador meets the Dorians, either to confirm that the Transfiliation is validated, or to negotiate a debased status for Doria ("Dhimmitude": taxes, no right to vote, 1 vote out of 2 in court...)
+- Following this last radio spot, the Akarith Ambassador meets the Dorians, either to confirm that the Transfiliation is validated, or to negotiate a debased status for Doria ("Dhimmitude": taxes, no right to vote, a voice worth half in court...)
 
 - [if the Panorbium Fortuna has not been found yet] have the servants leak the presence of the glyphs on the roof of the garden shed
 
@@ -308,7 +308,7 @@ HOUR 2:30
 
 - RADIO SPOTS: "Sale of a mining deposit in Austrion"
 
-- SHARK: potentially conducts with Obsidian a "good cop/bad cop" interview with the most incriminated suspect
+- SHARK: may conduct, with Obsidian, a "good cop/bad cop" interview with the most incriminated suspect
 
 - LOT 4 to be placed in the mailbox
 
@@ -354,7 +354,7 @@ HOUR 3:30
 
 - SHARK: additional mini-interrogations and accusations, according to the denunciations and evidence gathered.
 
-- RADIO SPOTS: "Popular occupation of a Sabarith military aerodrome", [potentially] Annexation of the Dorians to Akaris (or on the contrary rebellion)
+- RADIO SPOTS: "Popular occupation of a Sabarith military aerodrome", [potentially] Annexation of the Dorians by Akaris (or on the contrary rebellion)
 
 - the cook goes to see Opal (if not already done), and tells him that Loyd Georges had spoken of a very special cocktail that he would probably have to prepare; he directs Opal to the old neighbour if ingredients are missing; he goes to see the GM with the ingredients if Opal has provided him with everything
 
@@ -362,9 +362,9 @@ HOUR 3:30
 
 - RADIO SPOTS: [depending on events] "Burglary", "Secret agent unmasked in the Loyd Georges affair"
 
-- SMS to send to an unmasked spy: your Anthropia account <login> has been searched at the reasoned request of the Sabarith chancellery. It is now under the judicial control of Inspector Shark.
+- SMS to send to an unmasked spy: your Anthropia account <login> has been searched following a substantiated request from the Sabarith chancellery. It is now under the judicial control of Inspector Shark.
 
-- SHARK: warns that he is leaving for 15 minutes to take stock with the armed guards (he potentially goes to the P.O. box, the players can meanwhile access the safe more easily if necessary)
+- SHARK: warns that he is leaving for 15 minutes to take stock with the armed guards (he may go to the P.O. box, the players can meanwhile access the safe more easily if necessary)
 
 
 
@@ -417,13 +417,13 @@ HOUR 5:00
 - attack by the Akarith Purifiers:
 
     - broadcast of the soundtrack of the attack on the manor, with explosions, and lowering of the roller shutters
-    - the servants gather the guests in shelter in the main hall, and ask, aghast, who has a weapon
-    - Rydji goes on the assault with an explosive, and comes back wounded in the leg, saying that there are assailants left
+    - the servants gather the guests for shelter in the main hall, and ask, aghast, who has a weapon
+    - Rydji charges out with an explosive, and comes back wounded in the leg, saying that some assailants remain
     - 2 Akariths burst out of the smoke, one with a Nerf gun, the other with a sabre
     - they demand that "those who know the sign of the Yods" leave (if Doria has joined Akaris, the Dorians' sign works; in any case, Alphonse makes a strange sign to the Akariths and walks out, to everyone's surprise)
     - they ask "the one called Lydia" to step forward
-    - the players potentially use the golden single-shot pistol, and if Opal is in Berserk mode, he should step in
-    - Alphonse comes back with a weapon picked up from a corpse, and shoots down any Akariths still alive (he had seen this sign in a gambling den of Salima, and potentially jokes about arriving "like the cavalry, always too late")
+    - the players may use the golden single-shot pistol, and if Opal is in Berserk mode, he should step in
+    - Alphonse comes back with a weapon picked up from a corpse, and shoots down any Akariths still alive (he had seen this sign in a gambling den of Salima, and may joke about arriving "like the cavalry, always too late")
 
 
 

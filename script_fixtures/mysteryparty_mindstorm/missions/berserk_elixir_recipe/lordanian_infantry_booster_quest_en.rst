@@ -17,4 +17,4 @@ We have learned that Loyd Georges had found writings on this subject, in the bur
 
 Historically, "magic potions" of this kind have always yielded disastrous results. We therefore mandate you to discreetly help these fellows manufacture and ingest some variant of this Elixir. That way, we will know for certain.
 
-If this Elixir really works (and without irremediable side effects), there will be time enough to recover its recipe, one way or another ({{character_properties.opal.official_name}} owns numerous assets in Lordania, so it should even be possible to work with him on good terms and for a fair consideration).
+If this Elixir really works (and without irremediable side effects), there will be time enough to recover its recipe, one way or another ({{character_properties.opal.official_name}} owns numerous assets in Lordania, so it should even be possible to work with him on good terms and in exchange for fair compensation).

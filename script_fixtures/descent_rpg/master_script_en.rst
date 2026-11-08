@@ -186,7 +186,7 @@ Aquifer Cavern
 - **pinkish mushrooms** grow on the mounds to the north-west; they have mutated compared to their white, edible counterparts on the surface, and are therefore **mild sedatives**.
 - in the middle of the mounds is an **old wooden chest**; it contains a **silver chalice**, connected to a firing mechanism **(1 kilo of black powder)**; it can be defused by ripping open the side of the chest.
 - **blue water mushrooms** grow in the crevices to the south-west; they are an **unknown species** (but edible)
-- the canal lies below the rest of the cavern, bordered by **3 m of steep slope** (but climbable); two conduits open into it from the east, below the surface (it is possible to explore there, by diving, the sluice system described below).
+- the canal lies below the rest of the cavern, bordered by **3 m of steep slope** (but climbable); two conduits open into it from the east, below the surface (the sluice system described below can be explored from there by diving).
 - the canal is full of **Chlamydes, or shark-snakes**, but they are afraid of moving lights; being amphibious, they can slither out of the canal to hunt; they have a nest (holes in the rock) on the north face of the canal.
 - the **bridge is covered in pitch**; the slightest spark sets off **10 minutes** of fire and smoke, blocking access, and alerting the surrounding countryside; an old half-buried fuse leads away from the pitch, and runs off towards the north-east.
 - the **boat wreckage and pierced coins**, near the canal, are on a ledge **1.5 m above the water**; this was bait, intended to blow up intruders thanks to the adjoining **keg of black powder** (with the same fuse system as for the bridge); the powder (1 kilo) may be dry (2-in-3 chance).
@@ -200,7 +200,7 @@ Aquifer Cavern
 
     - the tunnel to the north-west leads towards the pagan temple (but with partial rubble)
     - the tunnel to the north-east leads to the outside (but with heavy rubble)
-    - the corridor to the east forms a dip (initially flooded), then descends towards the Yodic Temple Cavern
+    - the corridor to the east forms a dip (initially flooded), then descends towards the Yodic temple cavern
     - the main canal becomes an underground duct (airless) then, after 50 m, exits the hill as a stream, and flows into the River Nazuron
 
 
@@ -259,10 +259,10 @@ Yodic Temple Cavern
 - high, dark fissures on the wall facing the temple; they shelter **amphibious luminescent bats**, an **unknown species**, which flee if disturbed (they leave the cavern via the underground canal; their luminous bellies frighten the shark-snakes); **brown guano** can be collected from the floor of the fissures, of high market value because it is radioactive (besides the radiation detector, the mass spectrometer can reveal this, by detecting unusual atoms)
 
 
-Main Hall of the Yodic Temple
+Main Hall of the Pre-Yodic Temple
 ---------------------------------------------
 
-**The central ark** is empty, but typical of a monotheistic religion predating Yodism; it is considered by the Akariths a respectable, but now obsolete, precursor. It is possible to try to detach and bring back the ark, but it is long and difficult (requires **4 porters** minimum).
+**The central ark** is empty, but typical of a monotheistic religion predating Yodism; the Akariths consider it a respectable, but now obsolete, precursor. It is possible to try to detach and bring back the ark, but it is long and difficult (requires **4 porters** minimum).
 
 Tree roots are visible in the ceiling, as in the pagan temple (**8 m** to the surface). Dynamiting the ceiling of this hall is a (very risky) possibility if the players are cornered in the cavern.
 
@@ -383,7 +383,7 @@ The **wild beasts** (yeti, Chlamydes, monitor...) can be captured and resold **f
 - gold ingot: 10 kashes
 - Divine Tear: super-mega-exceptional artefact, unsellable
 
-**Other items**: **black powder** can be collected in the cavern; 1 kilo of thoroughly dry black powder is equivalent to a stick of dynamite; **old slow fuse** can also be found, slow-burning (1 m/s)
+**Other items**: **black powder** can be collected in the cavern; 1 kilo of thoroughly dry black powder is equivalent to a stick of dynamite; **old slow fuse** can also be found, burning at 1 m/s
 
 
 Hauling Back the Finds
@@ -426,7 +426,7 @@ Archaeological investigation
 
 The archaeologist's goal is to demonstrate that the Yodic temple, and the artefacts brought back, are an "archaeological scoop"; that they bring new evidence about the end of the "Razulite" Yodic denomination, which was crushed by its "Taranite" rival, some **500 years** ago.
 
-The problem is that the inhabitants of the place deliberately kept a low profile, so as to have a chance of getting away if they were discovered. Most of the objects that can be unearthed are therefore certainly old - even predating the era of the Yodic conflicts - but relatively ordinary and widespread. Moreover, the distinctions between the Yodic denominations hinge on minute theological details, which complicates the investigation.
+The problem is that the inhabitants of the place deliberately kept a low profile, so as to have a chance of getting away if they were discovered. Most of the objects that can be unearthed are therefore admittedly old - even predating the era of the Yodic conflicts - but relatively ordinary and widespread. Moreover, the distinctions between the Yodic denominations hinge on minute theological details, which complicates the investigation.
 
 Consequently, the archaeologist will have to redouble his efforts to substantiate the various scientific theses.
 
@@ -438,7 +438,7 @@ To prove that it is a Yodic temple:
 
 To prove that it belongs to the Razulite denomination:
 
-- solve the puzzle of the lantern in the well, which points out on the vault a message in Akarith sacred runes
+- solve the puzzle of the lantern in the well, which picks out a message in Akarith sacred runes on the vault
 - if the halberd is an exceptional artefact, its inscriptions include Razulite mottoes
 - if the statue of the warrior Bartzar is brought back, 1-in-3 chance that this eventually makes it possible to establish the link with the Razulite denomination
 
@@ -468,7 +468,7 @@ The wall fresco of the Holy of Holies gives the recipe for this potion, with pic
 
 Mixing these three elements gives the Berserk Elixir.
 
-If he has not determined the exact ingredients, but has noted these pictograms, the ranger has a fair chance of still finding the right recipe eventually, by **trial and error**.
+If he has not determined the exact ingredients, but has noted these pictograms, the ranger has some chance of still finding the right recipe eventually, by **trial and error**.
 
 If he has brought the mass spectrometer into play, he also finds the right dose of each ingredient to use to maximise the effect, and thus obtain **double potency**.
 

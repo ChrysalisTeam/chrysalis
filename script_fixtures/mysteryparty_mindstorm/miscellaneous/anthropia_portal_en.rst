@@ -8,7 +8,7 @@ This web portal, born **very recently** from a collaboration between several aca
 
 Many extensions exist for this web portal: chat room, encyclopedia, web radio...
 
-The most widely used remains asset management; indeed, it is possible to view and use there:
+The most widely used remains asset management; indeed, it lets you view and use:
 
 - kashes (the common national currency, also accepted abroad)
 - Sabarith Pounds (a highly regulated currency, used for auctions, at parity with kashes)
@@ -41,7 +41,7 @@ Perhaps you have access, on your Anthropia web portal account, to one or another
 
 **Go to your personal Anthropia account to see the various operations you can actually carry out, and under what conditions (free or not, payment in kashes and/or gems...).**
 
-**For the digital abilities you lack, you will probably have to call upon the good services of other portal users... here again, the Oberon mediators will be your best recourse.**
+**For the digital abilities you lack, you will probably have to call upon the good offices of other portal users... here again, the Oberon mediators will be your best recourse.**
 
 
 

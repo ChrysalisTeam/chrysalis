@@ -16,12 +16,12 @@ Throwing all caution to the wind, you used your contacts to have a **gladius** f
 
 Andrea then slipped you some troubling information: this was not just about archaeology, but also about druidic magic, about an ancient curse that supposedly encompassed both France and Italy. That kind of vocabulary means very little to your realistic mind, and you began to fear for your comrade's mental health – was he starting to ramble, from focusing so much on the Cromlech and its artefacts?
 
-Worse still, Andrea confided to you that he feared for his life, and gave you a list of people to notify in case of a "worrying disappearance". This reinforced your belief that he was beginning to mistake his heroic fantasies for reality... even if some troubling facts remained, such as the "fake replica gladius".
+Worse still, Andrea confided to you that he feared for his life, and gave you a list of people to notify in case of a "suspicious disappearance". This reinforced your belief that he was beginning to mistake his heroic fantasies for reality... even if some troubling facts remained, such as the "fake replica gladius".
 
 The Day of the Tragedy
 ======================
 
-Today, you had an appointment for a weekly catch-up with Andrea at the opening of the Cromlech, at **{% symbol "10:00 in the morning" for "heure_ouverture_du_cromlech_le_jour_j" %}**. The guide arrived on the premises at the scheduled time, and the students flocked in. But Andrea, usually so punctual, did not show up. After **{% symbol "a good hour" for "délai_attente_heros_par_reporter_le_jour_j" %}**, you wandered between the shelves; and suddenly noticed that the ancient gladius was no longer in its scabbard. You did not alert the guide, in case it was some new initiative of Andrea's. But a chair had been moved near the artefacts. And underneath it, you discovered a large dark stain; blood, barely dried... {% xfact "le glaive antique a disparu le jour j" %}
+Today, you had an appointment for a weekly catch-up with Andrea at the opening of the Cromlech, at **{% symbol "10:00 in the morning" for "heure_ouverture_du_cromlech_le_jour_j" %}**. The Guide arrived on the premises at the scheduled time, and the students flocked in. But Andrea, usually so punctual, did not show up. After **{% symbol "a good hour" for "délai_attente_heros_par_reporter_le_jour_j" %}**, you wandered between the shelves; and suddenly noticed that the ancient gladius was no longer in its scabbard. You did not alert the Guide, in case it was some new initiative of Andrea's. But a chair had been moved near the artefacts. And underneath it, you discovered a large dark stain; blood, barely dried... {% xfact "le glaive antique a disparu le jour j" %}
 
 Horrified, you then contacted, by courier, the people designated by Andrea; among them **his mother, the Italian diplomat**. And within {% symbol "1 hour" for "délai_attente_police_par_reporter_le_jour_j" %}, the premises were swarming with an army of gendarmes and investigators.
 
@@ -31,7 +31,7 @@ What you know about the Curator
 ========================================
 
 **{% symbol "Camille du Guesclin" for "nom_du_conservateur" %}** went to great lengths to set up the Cromlech, and for that you are grateful to him.
-But for the past month, he has seemed far more interested in resuming his career as a lawyer than in the Cromlech, judging by snatches of conversation overheard. During the day, he is seen less and less. And as for historical knowledge, he is close to level zero.
+But for the past month, he has seemed far more interested in resuming his career as a lawyer than in the Cromlech, judging by snatches of conversation overheard. During the day, he is seen less and less. And as for historical knowledge, his level is close to zero.
 
 He readily admitted to you that "Curator" was just a nickname, and that he had no qualifications to that effect; that's something at least. But he persists in claiming that the artefacts on display are mere replicas, when everything suggests otherwise. It is incomprehensible.
 
@@ -41,7 +41,7 @@ What you know about the Guide
 **{% symbol "Eden Schmitt" for "nom_du_guide" %}** is typically someone who would seem above all suspicion: helpful, jovial, even chatty... but you have recently learned to be wary of appearances.
 When you first arrived, he was spouting unspeakable nonsense about the Gallo-Roman period to visitors won over by his eloquence. But he quickly improved on the subject, fortunately for historical truth.
 
-Recently, he started wearing a **signet ring** with old Celtic symbols. You had already seen these symbols on a bracelet of Andrea's; he finally admitted to you that this piece of jewellery was a "telepathic sensor", which allowed him to sense when the guide came within 100 m of him.
+Recently, he started wearing a **signet ring** with old Celtic symbols. You had already seen these symbols on a bracelet of Andrea's; he finally admitted to you that this piece of jewellery was a "telepathic sensor", which allowed him to sense when the Guide came within 100 m of him.
   {% xfact "le guide a désormais une chevalière à la main" %} {% xfact "le reporter sait à quoi sert la chevalière du guide" as author %} {% xitem "chevalière pour le guide" is needed %}
 
 

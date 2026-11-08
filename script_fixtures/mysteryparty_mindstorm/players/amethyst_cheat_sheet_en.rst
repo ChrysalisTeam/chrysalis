@@ -5,7 +5,7 @@
 <{ title_main_missions }/>
 =============================================================
 
-{% macro orb_search_short_term_objectives() %}for Loyd Georges' Orb, find the answer to his secret question ("{{ character_properties['loyd.georges'].secret_question }}"), and acquire artefacts well suited to geolocation by world scanner{% endmacro %}
+{% macro orb_search_short_term_objectives() %}for Loyd Georges' Orb, find the answer to his secret question ("{{ character_properties['loyd.georges'].secret_question }}"), and acquire artefacts well suited to geolocation by the World Scanner{% endmacro %}
 
 - get hold of Loyd Georges' Orb {% fact 'agent_mission_seek_lg_orb' %}
 - obtain a lease for the tar sands deposit {% fact 'agent_mission_obtain_mining_lease' %}
@@ -33,7 +33,7 @@
 
 - the day before:
 
-  - you offered a sealed bottle of blue digestive liqueur to Loyd Georges, during the interview at {% symbol "11:00" for "lg_meeting_time_for_amethyst" %}, but learned nothing there {% fact 'amethyst_offers_liquor_to_lg' as author %}
+  - you offered a sealed bottle of blue digestive liqueur to Loyd Georges, during the interview at {% symbol "11:00" for "lg_meeting_time_for_amethyst" %}, but learned nothing from it {% fact 'amethyst_offers_liquor_to_lg' as author %}
   - then you disabled the surveillance cameras to explore the manor {% fact 'amethyst_disabled_surveillance_cameras' as author %}
   - you ran into {{character_properties.malachite.official_name}} hiding in the pantry {% fact 'amethyst_and_malachite_locked_in_pantry' as author %}
   - you retrieved a letter for Loyd Georges, but lost his thin brown parcel on your way out {% fact 'amethyst_has_stolen_manor_letter' as author %} {% fact 'amethyst_has_lost_thin_manor_parcel' as author %} {% hint "stolen_manor_letter_for_amethyst" is needed %}

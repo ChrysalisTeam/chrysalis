@@ -3,7 +3,7 @@ Sheet of the Tabellion of Salima
 
 **{% symbol "Maestre Ramye Leydelass" for "notary_name" %}**
 
-You are a Tabellion (a sworn notary) of Salima, and secretary general of the Order of Tabellions.
+You are a tabellion (a sworn notary) of Salima, and secretary general of the Order of Tabellions.
 
 This prestigious post, peculiar to Sabarim, demands extreme probity of you (you are sworn in), and gives you numerous prerogatives: you may act as a notary, banker, accountant, bailiff, auctioneer...
 
@@ -21,7 +21,7 @@ After the first series of sales (fairly ordinary artefacts and gems to begin wit
 
 
 {% macro sabarim_notable_has_no_body_search() %}
-As a high-ranking personality of Sabarim, you were neither searched on entering the manor, nor put through the weapons and explosives detector.
+As a prominent public figure of Sabarim, you were neither searched on entering the manor, nor put through the weapons and explosives detector.
 {% endmacro %}
 
 You arrive at the evening about half an hour after it begins. <{ sabarim_notable_has_no_body_search }/>
@@ -67,7 +67,7 @@ For the auctions, be sure to insist on the description of each lot (nature, numb
 Bailiff's deeds
 ++++++++++++++++++++++++++
 
-Your testimony is worth its weight in gold, and to this day the word of a Tabellion has never been ignored or contradicted in the context of a court case.
+Your testimony is worth its weight in gold, and to this day the word of a tabellion has never been ignored or contradicted in the context of a court case.
 Make yourself available free of charge to players who would like you to formally witness something.
 
 
@@ -81,7 +81,7 @@ You therefore have it at heart to guide his first decisions, so that Sabarim kee
 
 You do however have **one principle that you proclaim loud and clear**: you do not lend much of an ear to what the other (future) consuls and their relatives (such as Lydia or her husband) may say, because you know only too well all the subtle political calculations that may lurk behind their most down-to-earth arguments. Only more "neutral" people can make you change your mind on the issues the country is facing.
 
-And beware: as ready as you are for certain situations in the country to change, your own privileges and immunities as a Tabellion are, for you, **non-negotiable**; at a pinch, these exceptional statuses could be modified for the new generations of notables, but that you yourself and your current colleagues keep your entitlements until your death is the very least one can expect. You can cite as an example the "home distillers" who kept their personal right to produce brandy when the law changed on this matter, only the new generations being affected.
+And beware: as ready as you are for certain situations in the country to change, your own privileges and immunities as a tabellion are, for you, **non-negotiable**; at a pinch, these exceptional statuses could be modified for the new generations of notables, but that you yourself and your current colleagues keep your entitlements until your death is the very least one can expect. You can cite as an example the "home distillers" who kept their personal right to produce brandy when the law changed on this matter, only the new generations being affected.
 
 In the event of a popular revolt, you are initially rather of the "let the army crush these delinquents in blood" persuasion, but this position may evolve over the course of the debates.
 
