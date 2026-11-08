@@ -5,7 +5,7 @@ MISSION - Le traître atomique
 ====================================
 
 
-{% include "missions/secrets_of_atom/generic_mission_briefing.rst" %}
+{% include "missions/secrets_of_atom/generic_mission_briefing_fr.rst" %}
 
 Le sujet est arrivé sans prévenir : lors d'écoutes routinières de la puissante (et peu coopérative) Académie d'Alifir, les services secrets sabarites ont eu la surprise de tomber sur un vénérable professeur de physique atomique, en pleine négociation avec un ambassadeur dorien. Et pas sur n'importe quel sujet : "{% symbol "des découvertes révolutionnaires dans le domaine militaire" for "physicist_discovery_claims" %}", à échanger contre argent et gloire.
 

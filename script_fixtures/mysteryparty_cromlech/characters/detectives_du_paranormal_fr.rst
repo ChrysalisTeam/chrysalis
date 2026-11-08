@@ -33,4 +33,4 @@ PSYKISME
 INTIMIDATION
     L'intimidateur.trice est capable, une fois par entretien avec un.e témoin, de prendre une posture de menace, en prenant un air sombre et en tapant du point sur la table. Il va alors poser une SEULE question, à laquelle l'interlocuteur sera, psychologiquement, obligé de répondre la vérité ; mais cette personne ne pourra répondre que par OUI, NON, ou JE NE SAIS PAS ; il faut donc une question "fermée".
 
-{% include "characters/_instructions_pour_tous.txt" %}
+{% include "characters/_instructions_pour_tous_fr.txt" %}

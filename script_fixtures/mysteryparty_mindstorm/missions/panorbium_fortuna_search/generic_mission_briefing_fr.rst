@@ -23,5 +23,5 @@ Impossible de savoir, en l'état, ce que les différents habitants du manoir sav
 Mais ce qui est sûr, c'est que d'autres factions n'ont certainement pas manqué tout ce petit manège, il faudra donc jouer serré.
 
 
-{% include "missions/panorbium_fortuna_search/mercenaries_clues.rst" %}
+{% include "missions/panorbium_fortuna_search/mercenaries_clues_fr.rst" %}
 

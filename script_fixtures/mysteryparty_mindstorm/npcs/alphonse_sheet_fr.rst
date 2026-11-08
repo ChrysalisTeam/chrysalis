@@ -102,4 +102,4 @@ Si l'on vous pose la question, vous ne savez plus quel jour/mois il est né, mai
 <{ clues_about_lg_animal_and_tabellion_birth_date }/>
 
 
-{% include "npcs/_common_manor_knowledge.rst" %}
+{% include "npcs/_common_manor_knowledge_fr.rst" %}

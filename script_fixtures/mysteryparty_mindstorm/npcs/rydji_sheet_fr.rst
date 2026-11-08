@@ -72,4 +72,4 @@ Si l'on vous pose la question, vous ne savez plus quelle année il est né, mais
 
 
 
-{% include "npcs/_common_manor_knowledge.rst" %}
+{% include "npcs/_common_manor_knowledge_fr.rst" %}

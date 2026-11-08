@@ -45,4 +45,4 @@ Récemment, il s'est mis à porter une **chevalière** avec de vieux symboles ce
   {% xfact "le guide a désormais une chevalière à la main" %} {% xfact "le reporter sait à quoi sert la chevalière du guide" as author %} {% xitem "chevalière pour le guide" is needed %}
 
 
-{% include "characters/_instructions_pour_les_figurants.txt" %}
+{% include "characters/_instructions_pour_les_figurants_fr.txt" %}

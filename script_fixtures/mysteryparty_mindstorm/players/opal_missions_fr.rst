@@ -1,7 +1,7 @@
 ﻿
 
 
-{% include "missions/berserk_elixir_recipe/opal_remedy_quest.rst" %} {# BEFORE MAIN OBJECTIVES #}
+{% include "missions/berserk_elixir_recipe/opal_remedy_quest_fr.rst" %} {# BEFORE MAIN OBJECTIVES #}
 
 
 <{ title_main_missions }/>
@@ -38,6 +38,6 @@ Tacler les "purificateurs" akarites
 
 
 {% if not standalone %}
-{% include "missions/nazur_secrets/specific_mission_briefing.rst" %}
+{% include "missions/nazur_secrets/specific_mission_briefing_fr.rst" %}
 {% endif %}
 

@@ -1,5 +1,5 @@
 ﻿
-{% include "missions/mining_lease_negotiation/generic_mission_title.rst" %}
+{% include "missions/mining_lease_negotiation/generic_mission_title_fr.rst" %}
 
 *A la recherche de Matériaux de Construction*
 
@@ -13,4 +13,4 @@ Notre duc a été discrètement mais fermement *invité* par les judicateurs à 
 Une personnalité de Sabarim propose aujourd'hui à la vente un important gisement de tels sables bitumineux, qui contient en quantité suffisante les "terres rares" nécessaires à la coagulation (une réaction qui lie ensemble les grains de sables et les gouttes de bitume).
 Avec les techniques modernes, nous pouvons extraire en quelques mois l'intégralité des ressources accessibles dans le gisement, c'est-à-dire l’équivalent de **20 mégakashes** de sables bitumineux complets.
 
-{% include "missions/mining_lease_negotiation/generic_mission_briefing.rst" %}
+{% include "missions/mining_lease_negotiation/generic_mission_briefing_fr.rst" %}

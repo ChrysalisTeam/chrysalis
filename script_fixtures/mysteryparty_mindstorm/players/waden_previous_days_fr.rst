@@ -5,7 +5,7 @@ Le secret des atomes
 ====================================
 
 
-{% include "missions/secrets_of_atom/generic_mission_briefing.rst" %}
+{% include "missions/secrets_of_atom/generic_mission_briefing_fr.rst" %}
 
 
 Ce soleil des atomes, vous le connaissez de près.

@@ -44,9 +44,9 @@
     "manuel_du_maitre_de_jeu":
       "settings":
         "rst2pdf_extra_args": "--stylesheets=layout_large_fonts,with_cover_and_background"
-      "full_sheet": "gamemaster_manual.rst"
+      "full_sheet": "gamemaster_manual_fr.rst"
     "déroulement_du_jeu":
-      "full_sheet": "déroulement_du_jeu.rst"
+      "full_sheet": "déroulement_du_jeu_fr.rst"
 
   "groups":
 
@@ -56,35 +56,35 @@
       "sheets":
         "conservateur_du_musee":
           "full_sheet":
-            - "characters/conservateur_du_musee.rst"
+            - "characters/conservateur_du_musee_fr.rst"
         "guide_du_musee":
           "full_sheet":
-            - "characters/guide_du_musee.rst"
+            - "characters/guide_du_musee_fr.rst"
         "etudiant_reporter":
           "full_sheet":
-            - "characters/etudiant_reporter.rst"
+            - "characters/etudiant_reporter_fr.rst"
         "spectre_du_druide":
           "full_sheet":
-            - "characters/spectre_du_druide.rst"
+            - "characters/spectre_du_druide_fr.rst"
 
     "playable_characters":
       "sheets":
         "detectives_du_paranormal":
           "full_sheet":
-            - "characters/detectives_du_paranormal.rst"
+            - "characters/detectives_du_paranormal_fr.rst"
 
     "informations":
       "variables": {}
       "sheets":
         "rapports_de_police":
           "full_sheet":
-            - "documents/rapports_de_police.rst"
+            - "documents/rapports_de_police_fr.rst"
         "derniere_bataille_des_gaulois":
           "full_sheet":
-            - "documents/derniere_bataille_des_gaulois.rst"
+            - "documents/derniere_bataille_des_gaulois_fr.rst"
         "article_sur_le_cromlech_lyonnais":
           "full_sheet":
-            - "documents/article_sur_le_cromlech_lyonnais.rst"
+            - "documents/article_sur_le_cromlech_lyonnais_fr.rst"
         "description_des_artefacts_antiques":
           "full_sheet":
-            - "documents/description_des_artefacts_antiques.rst"
+            - "documents/description_des_artefacts_antiques_fr.rst"

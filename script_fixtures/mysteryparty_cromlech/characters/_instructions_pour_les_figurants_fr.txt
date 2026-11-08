@@ -6,4 +6,4 @@ Seul le Conservateur et le Druide peuvent voir/entendre les manifestations du su
 Si les joueurs vous posent des questions sur des sujets qui ne sont pas traités dans vos fiches de personnages, libre à vous d'improviser. Soit en indiquant que vous ne savez pas, soit en inventant des faits en ce qui concerne votre propre histoire ; mais prenez soin de mémoriser (voire noter) vos réponses, afin de ne pas vous contredire lors d'un interrogatoire suivant.
 
 
-{% include "characters/_instructions_pour_tous.txt" %}
+{% include "characters/_instructions_pour_tous_fr.txt" %}

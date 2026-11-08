@@ -1,6 +1,6 @@
 ﻿
 
-{% include "missions/secrets_of_atom/sabarith_defense_mission.rst" %}
+{% include "missions/secrets_of_atom/sabarith_defense_mission_fr.rst" %}
 
 
 

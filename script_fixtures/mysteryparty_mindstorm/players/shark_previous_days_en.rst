@@ -65,7 +65,7 @@ This Judicator also warned you that a closed-door council was to be held between
 
 
 {# IMPORTANT ADDITIONAL CHAPTER #}
-.. include::  gamemaster_manor_surveillance_reports_en.rst
+.. include::  gamemaster_manor_surveillance_reports.rst
 
 
 

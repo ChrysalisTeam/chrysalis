@@ -1,5 +1,5 @@
 ﻿
-{% include "missions/transfiliation_attempt/generic_mission_title.rst" %}
+{% include "missions/transfiliation_attempt/generic_mission_title_fr.rst" %}
 
 {% macro yodic_council_risk_intro() %}
 Agents,

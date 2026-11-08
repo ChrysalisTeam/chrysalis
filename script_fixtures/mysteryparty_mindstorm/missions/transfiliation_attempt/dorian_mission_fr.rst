@@ -1,6 +1,6 @@
 ﻿
 
-{% include "missions/transfiliation_attempt/generic_mission_title.rst" %}
+{% include "missions/transfiliation_attempt/generic_mission_title_fr.rst" %}
 
 
 Agents,

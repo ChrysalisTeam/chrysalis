@@ -4,7 +4,7 @@
 MISSION - Que voulait Voluto ?
 ====================================
 
-{% include "missions/secrets_of_atom/generic_mission_briefing.rst" %}
+{% include "missions/secrets_of_atom/generic_mission_briefing_fr.rst" %}
 
 Votre pays a en effet été contacté récemment, sous le sceau du secret, par un certain **Professeur Voluto, du département de physique atomique de l'Académie d'Alifir**.
 
