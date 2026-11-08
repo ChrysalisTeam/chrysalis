@@ -1,0 +1,48 @@
+embeddedFonts:
+- [OpenSans-Regular.ttf, OpenSans-Bold.ttf, OpenSans-Italic.ttf, OpenSans-BoldItalic.ttf]
+pageSetup: {firstTemplate: standardPage, margin-bottom: 1cm, margin-left: 1cm, margin-right: 1cm,
+  margin-top: 1cm}
+pageTemplates:
+  standardPage:
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showFooter: true
+    showHeader: false
+styles:
+  admonition: {backColor: transparent}
+  # base options disabled: "kerning: true" (BUGGY), "firstLineIndent: 10"
+  base: {fontName: opensans, fontSize: 11, leading: 13}
+  bullet-list: {spaceAfter: 4, spaceBefore: 0}
+  bullet-list-item: {firstLineIndent: 0, spaceAfter: 0, spaceBefore: 0}
+  gamemaster-hints: {fontName: opensans-italic, spaceBefore: 4}
+  heading1: {fontSize: 17, spaceAfter: 2, spaceBefore: 12}
+  heading2: {fontSize: 15, spaceAfter: 2, spaceBefore: 9}
+  heading3: {fontSize: 12, spaceAfter: 1, spaceBefore: 5}
+  large-font: {fontSize: 18, leading: 25}
+  subtitle: {alignment: left, fontSize: 12, textColor: black}
+  table:
+    alignment: TA_CENTER
+    commands:
+    - - VALIGN
+      - [0, 0]
+      - [-1, -1]
+      - TOP
+    - - INNERGRID
+      - [0, 0]
+      - [-1, -1]
+      - 0.25
+      - black
+    - - ROWBACKGROUNDS
+      - [0, 0]
+      - [-1, -1]
+      - ['#E0E0E0']
+    - - BOX
+      - [0, 0]
+      - [-1, -1]
+      - 0.25
+      - black
+    spaceAfter: 0
+    spaceBefore: 6
+  table-body: {alignment: TA_LEFT}
+  table-heading: {backColor: lightgrey}
+  title: {alignment: left, fontSize: 18, textColor: black}

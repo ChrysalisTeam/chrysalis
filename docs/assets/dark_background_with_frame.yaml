@@ -1,0 +1,25 @@
+pageSetup: {firstTemplate: coverPage, margin-bottom: 2.2cm, margin-left: 2.2cm, margin-right: 2.6cm,
+  margin-top: 2.2cm}
+pageTemplates:
+  coverPage:
+    background: assets/glorious_cloth_cover_contrasted.jpg
+    frames:
+    - [36%, 38%, 33%, 30%]
+    showFooter: false
+    showHeader: false
+  intermediaryPage:
+    background: assets/frame_background_extralight.jpg
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showFooter: false
+    showHeader: false
+  standardPage:
+    background: assets/frame_background_extralight.jpg
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showFooter: true
+    showHeader: false
+styles:
+  heading1: {spaceBefore: 30}
+  subtitle: {alignment: center, fontSize: 15, spaceBefore: 60, textColor: black}
+  title: {alignment: center, fontSize: 20, textColor: black}

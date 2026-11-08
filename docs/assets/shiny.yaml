@@ -1,0 +1,30 @@
+embeddedFonts:
+- [OpenSans-Regular.ttf, OpenSans-Bold.ttf, OpenSans-Italic.ttf, OpenSans-BoldItalic.ttf]
+pageSetup: {firstTemplate: coverPage}
+pageTemplates:
+  coverPage:
+    background: assets/blue_cover.jpg
+    frames:
+    - [10%, 15%, 80%, 30%]
+    showFooter: false
+    showHeader: false
+  intermediaryPage:
+    background: assets/light_background.jpg
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showFooter: false
+    showHeader: false
+  standardPage:
+    background: assets/light_background.jpg
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showFooter: true
+    showHeader: true
+styles:
+  admonition: {backColor: transparent}
+  base: {firstLineIndent: 10, fontName: opensans, kerning: true}
+  bullet-list: {spaceAfter: 10, spaceBefore: 0}
+  bullet-list-item: {firstLineIndent: 0}
+  definition-list-term: {spaceBefore: 5}
+  subtitle: {textColor: white}
+  title: {textColor: white}
