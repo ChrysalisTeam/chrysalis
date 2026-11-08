@@ -119,7 +119,8 @@ def build_mysteryparty_pdf(output_dir, filename_base,
                         with_decorations,
                         jinja_context,
                         skip_pdf_output,
-                        toc_depth):
+                        toc_depth,
+                        language):
     assert callable(generate_rst_from_parts), generate_rst_from_parts
 
     if filename_base:
@@ -140,12 +141,16 @@ def build_mysteryparty_pdf(output_dir, filename_base,
             jinja_env=jinja_env,
             jinja_context=jinja_context)
 
+    # image paths of templates are relative to "output_xxx/", but we output into "output_xxx/<language>/"
+    rst_content = rpg.rebase_relative_image_paths(rst_content)
+
     if not skip_pdf_output:
         filepath_base = os.path.join(output_dir, filename_base)
         rpg.convert_rst_content_to_pdf(filepath_base=filepath_base,
                                        rst_content=rst_content,
                                        conf_file="rst2pdf.conf",
-                                       extra_args=extra_args)
+                                       extra_args=extra_args,
+                                       language=language)
 
     return rst_content
 

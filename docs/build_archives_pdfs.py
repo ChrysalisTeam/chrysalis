@@ -15,66 +15,106 @@ from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_gam
     analyze_and_normalize_game_items
 from rpg_sheet_generator import display_and_check_story_tags
 
+LANGUAGE = rpg.get_build_language()  # use "--lang en" on command line for English documents
+
 INITIAL_GAME_DATA_DUMP = os.path.join(os.path.dirname(__file__), "_initial_game_data_dump.yaml")
 
 DISABLE_DECORATIONS = False
 
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_archives")
 TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
-ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_archives.odt")
+ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_archives.odt")  # French, also source of fact tags
+LOCALIZED_CLUES_DOCUMENT = (ALL_CLUES_DOCUMENT if LANGUAGE == "fr" else
+                            os.path.join(TEMPLATES_ROOT, "miscellaneous", rpg.localize_filename("ingame_clues_archives.odt", LANGUAGE)))
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
 DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_frame"  # Use --show-frame-boundary (if necessary to debug)
 BIG_FONT_EXTRA_PARAMS = "--stylesheets=big_font"
 
-MAIN_OUTPUT_DIR = "output_archives"
+MAIN_OUTPUT_DIR = os.path.join("output_archives", LANGUAGE)
 DOCUMENTS_OUTPUT_DIR = os.path.join(MAIN_OUTPUT_DIR, "documents")
 
 if not os.path.exists(DOCUMENTS_OUTPUT_DIR):
-    os.mkdir(DOCUMENTS_OUTPUT_DIR)
+    os.makedirs(DOCUMENTS_OUTPUT_DIR)
 
-jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True)
+jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True, language=LANGUAGE)
+
+DOCUMENT_TITLES = dict(
+    fr=dict(game_title="Les archives secrètes des Maupertuis",
+            common_lore_and_game_rules="Univers et Règles du Jeu ",
+            common_npc_information="Compléments des Figurants"),
+    en=dict(game_title="The Secret Archives of the Maupertuis",
+            common_lore_and_game_rules="Game Universe and Rules",
+            common_npc_information="NPC Actors' Supplements"),
+)[LANGUAGE]
+
+OFFICIAL_NAMES = dict(
+    fr=dict(
+        diakon_dispeller="Le désenvoûteur", diakon_exorcist="L'exorciste", diakon_invoker="L'invocateur",
+        explorer_unveiler="Le dévoileur", explorer_anthropologist="L'anthropologue", explorer_runologist="Le runologue",
+        parcival_alchemist="L'alchimiste", parcival_woodsman="Le gardien des bois", parcival_oracle="L'oracle",
+        spy_lockpicker="Le crocheteur", spy_minesweeper="Le démineur", spy_sounder="Le sondeur",
+        dragons="Les déchus",
+        avatar_druid="Le druide", avatar_duchess="La duchesse", avatar_inventor="L'inventeur",
+        phantom_archivist="L'archiviste", phantom_arkon="L'arkonte", phantom_octave="Octave",
+        phantom_magus="Le Mage Mos Peratys", phantom_beast="La Bête", phantom_thief="Le voleur",
+        god_ankou="L'Ankou", automaton_sentinel="L'automate de garde",
+    ),
+    en=dict(
+        diakon_dispeller="The Dispeller", diakon_exorcist="The Exorcist", diakon_invoker="The Invoker",
+        explorer_unveiler="The Unveiler", explorer_anthropologist="The Anthropologist", explorer_runologist="The Runologist",
+        parcival_alchemist="The Alchemist", parcival_woodsman="The Woodsman", parcival_oracle="The Oracle",
+        spy_lockpicker="The Lockpicker", spy_minesweeper="The Minesweeper", spy_sounder="The Sounder",
+        dragons="The Fallen",
+        avatar_druid="The Druid", avatar_duchess="The Duchess", avatar_inventor="The Inventor",
+        phantom_archivist="The Archivist", phantom_arkon="The Arkon", phantom_octave="Octave",
+        phantom_magus="The Magus Mos Peratys", phantom_beast="The Beast", phantom_thief="The Thief",
+        god_ankou="The Ankou", automaton_sentinel="The Sentinel Automaton",
+    ),
+)[LANGUAGE]
 
 _asset_path = lambda x: os.path.join(DOCUMENTS_OUTPUT_DIR, x)
 
 CHARACTER_OVERRIDES = dict(  # ALL must have an "email_attachments" here
-    diakon_dispeller=dict(official_name="Le désenvoûteur", email_attachments=[]),
-    diakon_exorcist=dict(official_name="L'exorciste", email_attachments=[]),
-    diakon_invoker=dict(official_name="L'invocateur", email_attachments=[]),
+    diakon_dispeller=dict(email_attachments=[]),
+    diakon_exorcist=dict(email_attachments=[]),
+    diakon_invoker=dict(email_attachments=[]),
 
-    explorer_unveiler=dict(official_name="Le dévoileur", email_attachments=[]),
-    explorer_anthropologist=dict(official_name="L'anthropologue", email_attachments=[]),
-    explorer_runologist=dict(official_name="Le runologue",
-                             email_attachments=[_asset_path("antic_akarith_runes.pdf"),
+    explorer_unveiler=dict(email_attachments=[]),
+    explorer_anthropologist=dict(email_attachments=[]),
+    explorer_runologist=dict(email_attachments=[_asset_path("antic_akarith_runes.pdf"),
                                                 _asset_path("secret_codes_converters.pdf")]),
 
-    parcival_alchemist=dict(official_name="L'alchimiste", email_attachments=[]),
-    parcival_woodsman=dict(official_name="Le gardien des bois", email_attachments=[]),
-    parcival_oracle=dict(official_name="L'oracle", email_attachments=[]),
+    parcival_alchemist=dict(email_attachments=[]),
+    parcival_woodsman=dict(email_attachments=[]),
+    parcival_oracle=dict(email_attachments=[]),
 
-    spy_lockpicker=dict(official_name="Le crocheteur", email_attachments=[]),
-    spy_minesweeper=dict(official_name="Le démineur", email_attachments=[]),
-    spy_sounder=dict(official_name="Le sondeur", email_attachments=[]),
+    spy_lockpicker=dict(email_attachments=[]),
+    spy_minesweeper=dict(email_attachments=[]),
+    spy_sounder=dict(email_attachments=[]),
 
-    dragons=dict(official_name="Les déchus", email_attachments=[]),
+    dragons=dict(email_attachments=[]),
 )
 
 NPC_OVERRIDES = dict(
-    avatar_druid=dict(official_name="Le druide", email_attachments=[]),
-    avatar_duchess=dict(official_name="La duchesse", email_attachments=[]),
-    avatar_inventor=dict(official_name="L'inventeur", email_attachments=[]),
+    avatar_druid=dict(email_attachments=[]),
+    avatar_duchess=dict(email_attachments=[]),
+    avatar_inventor=dict(email_attachments=[]),
 
-    phantom_archivist=dict(official_name="L'archiviste", email_attachments=[]),
-    phantom_arkon=dict(official_name="L'arkonte", email_attachments=[]),
-    phantom_octave=dict(official_name="Octave", email_attachments=[]),
+    phantom_archivist=dict(email_attachments=[]),
+    phantom_arkon=dict(email_attachments=[]),
+    phantom_octave=dict(email_attachments=[]),
 
-    phantom_magus=dict(official_name="Le Mage Mos Peratys", email_attachments=[]),
-    phantom_beast=dict(official_name="La Bête", email_attachments=[]),
-    phantom_thief=dict(official_name="Le voleur", email_attachments=[]),
-    god_ankou=dict(official_name="L'Ankou", email_attachments=[]),
-    automaton_sentinel=dict(official_name="L'automate de garde", email_attachments=[]),
+    phantom_magus=dict(email_attachments=[]),
+    phantom_beast=dict(email_attachments=[]),
+    phantom_thief=dict(email_attachments=[]),
+    god_ankou=dict(email_attachments=[]),
+    automaton_sentinel=dict(email_attachments=[]),
 )
+
+for _name, _overrides in list(CHARACTER_OVERRIDES.items()) + list(NPC_OVERRIDES.items()):
+    _overrides["official_name"] = OFFICIAL_NAMES[_name]
 
 # FIXME rename to "character" template
 PLAYER_INITIAL_EMAIL_TEMPLATE = """\
@@ -224,7 +264,7 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
     if title:
         full_data += textwrap.dedent("""
     #######################################################################################
-    Les archives secrètes des Maupertuis
+    %s
     #######################################################################################
 
     %s
@@ -238,12 +278,13 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
     .. XXX contents:: Table des Matières
     ..    :depth: %s
 
-    """) % (title, toc_depth)
+    """) % (DOCUMENT_TITLES["game_title"], title, toc_depth)
 
     for part in parts:
         if callable(part):
             new_data = part(jinja_context=jinja_context)  # builder function
         else:
+            part = rpg.localize_filename(part, LANGUAGE)
             rst_filepath1 = os.path.join(TEMPLATES_ROOT, part)
             rst_filepath2 = os.path.join(TEMPLATES_COMMON, part)
             rst_filepath = rst_filepath1 if os.path.exists(rst_filepath1) else rst_filepath2
@@ -299,7 +340,8 @@ def build_archives_pdf(parts, filename_base, title,
         add_page_breaks=add_page_breaks,
         jinja_context=jinja_context,
         skip_pdf_output=skip_pdf_output,
-        toc_depth=toc_depth
+        toc_depth=toc_depth,
+        language=LANGUAGE,
     )
 
 
@@ -311,7 +353,7 @@ def generate_archives_sheets():
     data = rpg.load_yaml_file(INITIAL_GAME_DATA_DUMP)
     all_data.update(data)
 
-    murder_party_items_raw = rpg.load_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"))
+    murder_party_items_raw = rpg.load_localized_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"), LANGUAGE)
 
     important_marker = " IMPORTANT"
     murder_party_items = analyze_and_normalize_game_items(murder_party_items_raw, important_marker=important_marker)
@@ -434,9 +476,12 @@ def generate_archives_sheets():
 
     if True:  # VERY LONG
         # export clues into a myriad of small PDFs
-        _generate_clues_pdfs_from_main_odt_document(input_doc=ALL_CLUES_DOCUMENT,
-                                                    clues_parts=INGAME_CLUES_PARTS,
-                                                    output_dir=DOCUMENTS_OUTPUT_DIR)
+        if os.path.exists(LOCALIZED_CLUES_DOCUMENT):
+            _generate_clues_pdfs_from_main_odt_document(input_doc=LOCALIZED_CLUES_DOCUMENT,
+                                                        clues_parts=INGAME_CLUES_PARTS,
+                                                        output_dir=DOCUMENTS_OUTPUT_DIR)
+        else:
+            print("!!! Skipping export of ingame clues, since no translated document %s exists" % LOCALIZED_CLUES_DOCUMENT)
 
     # -------------
 
@@ -454,12 +499,12 @@ def generate_archives_sheets():
     if True:
         isolated_data["current_player_id"] = "everyone"
         build_archives_pdf(COMMON_LORE_AND_RULES,
-                           filename_base="common_lore_and_game_rules", title="Univers et Règles du Jeu ",
+                           filename_base="common_lore_and_game_rules", title=DOCUMENT_TITLES["common_lore_and_game_rules"],
                            add_page_breaks=True, jinja_context=isolated_data)
 
         isolated_data["current_player_id"] = "npcs"
         build_archives_pdf(COMMON_NPC_DOCS,
-                           filename_base="common_npc_information", title="Compléments des Figurants",
+                           filename_base="common_npc_information", title=DOCUMENT_TITLES["common_npc_information"],
                            add_page_breaks=True, jinja_context=isolated_data)
 
         isolated_data["current_player_id"] = None  # Restore this!
@@ -524,10 +569,8 @@ def generate_archives_sheets():
         assert "petite sœur des Parcival" in content  # comments are well included
 
         # no need for variables nor rendered output, we just fill fact-check registries
-        rpg.render_with_jinja_and_fact_tags(
-            content=content,
-            jinja_env=jinja_env,
-            jinja_context={})
+        # (symbol values of this French document would clash with those of other languages)
+        rpg.register_story_tags_from_content(content, jinja_env=jinja_env, register_symbols=(LANGUAGE == "fr"))
 
     # -------------
 

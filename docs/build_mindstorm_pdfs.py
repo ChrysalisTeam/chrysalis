@@ -15,6 +15,8 @@ from mysteryparty_common_utils import _generate_clues_pdfs_from_main_odt_documen
     analyze_and_normalize_game_items
 from rpg_sheet_generator import display_and_check_story_tags
 
+LANGUAGE = rpg.get_build_language()  # use "--lang en" on command line for English documents
+
 IS_STANDALONE = True
 
 INITIAL_GAME_DATA_DUMP = os.path.join(os.path.dirname(__file__), "_initial_game_data_dump.yaml")
@@ -32,14 +34,19 @@ DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
 DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_cover"
 
-MAIN_OUTPUT_DIR = "output_mindstorm"
+MAIN_OUTPUT_DIR = os.path.join("output_mindstorm", LANGUAGE)
 DOCUMENTS_OUTPUT_DIR = os.path.join(MAIN_OUTPUT_DIR, "documents")
 
 if not os.path.exists(DOCUMENTS_OUTPUT_DIR):
-    os.mkdir(DOCUMENTS_OUTPUT_DIR)
+    os.makedirs(DOCUMENTS_OUTPUT_DIR)
 
 
-jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True)
+jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True, language=LANGUAGE)
+
+DOCUMENT_TITLES = dict(
+    fr=dict(gamemaster_manual="Maître de Jeu", common_lore="Univers du Jeu"),
+    en=dict(gamemaster_manual="Game Master", common_lore="The Game Universe"),
+)[LANGUAGE]
 
 EXCLUDED_CHARACTERS = []  # mystery-party has no sheet for these characters, for now
 
@@ -106,16 +113,26 @@ PLAYER_MANUAL_PARTS = [
 ]
 
 # Maps required permissions to ability descriptions
-AVAILABLE_ANTHROPIA_ABILITIES = OrderedDict([
-    ("access_mercenaries_hiring", "Embauche de mercenaires dans une grande ville de la planète"),
-    ###("access_wiretapping", "Mise sur écoute d'un autre compte Anthropia (et protection contre les écoutes adverses)"),
-    ("access_runic_translation", "Traduction de runes akarites à partir de leur transcription"),
-    ("access_matter_analysis", "Analyse biophysique d'un objet"),
-    ("access_world_scan", "Recherche par scanner mondial des clones d'un objet"),
-    ("access_house_reports", "Rapports de vidéosurveillance du manoir de Loyd Georges"),
-    ("access_geoip_location", "Géolocalisation de l'émetteur d'un message email"),
-    ###(xxx, "Tiers de confiance numérique (à mettre en copie des messages contractuels)"),
-])
+AVAILABLE_ANTHROPIA_ABILITIES = dict(
+    fr=OrderedDict([
+        ("access_mercenaries_hiring", "Embauche de mercenaires dans une grande ville de la planète"),
+        ###("access_wiretapping", "Mise sur écoute d'un autre compte Anthropia (et protection contre les écoutes adverses)"),
+        ("access_runic_translation", "Traduction de runes akarites à partir de leur transcription"),
+        ("access_matter_analysis", "Analyse biophysique d'un objet"),
+        ("access_world_scan", "Recherche par scanner mondial des clones d'un objet"),
+        ("access_house_reports", "Rapports de vidéosurveillance du manoir de Loyd Georges"),
+        ("access_geoip_location", "Géolocalisation de l'émetteur d'un message email"),
+        ###(xxx, "Tiers de confiance numérique (à mettre en copie des messages contractuels)"),
+    ]),
+    en=OrderedDict([
+        ("access_mercenaries_hiring", "Mercenary hiring in a major city of the planet"),
+        ("access_runic_translation", "Translation of Akarith runes from their transcription"),
+        ("access_matter_analysis", "Biophysical analysis of an object"),
+        ("access_world_scan", "World-scanner search for clones of an object"),
+        ("access_house_reports", "CCTV reports of Loyd Georges' manor"),
+        ("access_geoip_location", "Geolocation of the sender of an email message"),
+    ]),
+)[LANGUAGE]
 
 COMMON_LORE_DOCS = [
     "context_intro.GAME_TYPE.rst".replace("GAME_TYPE", GAME_TYPE),
@@ -203,7 +220,7 @@ def _generate_spoiler_manor_surveillance_reports(jinja_context):
     Beware, hackish stuff here: surveillance reports are themselves jinja templates,
     so we prerender them in a loop and then give them to the rest of the RST rendering.
     """
-    template_file = os.path.join(TEMPLATES_ROOT, "gamemaster_manor_surveillance_reports_meta.rst")
+    template_file = os.path.join(TEMPLATES_ROOT, rpg.localize_filename("gamemaster_manor_surveillance_reports_meta.rst", LANGUAGE))
     template_string = rpg.load_rst_file(template_file)
     rst = rpg.render_with_jinja_and_fact_tags(template_string, jinja_env=jinja_env, jinja_context=jinja_context)
 
@@ -286,6 +303,7 @@ def generate_mindstorm_rst_from_parts(parts, title, add_page_breaks, with_decora
         if callable(part):
             new_data = part(jinja_context=jinja_context)  # builder function
         else:
+            part = rpg.localize_filename(part, LANGUAGE)
             rst_filepath1 = os.path.join(TEMPLATES_ROOT, part)
             rst_filepath2 = os.path.join(TEMPLATES_COMMON, part)
             rst_filepath = rst_filepath1 if os.path.exists(rst_filepath1) else rst_filepath2
@@ -333,7 +351,8 @@ def build_mindstorm_pdf(parts, filename_base, title,
         add_page_breaks=add_page_breaks,
         jinja_context=jinja_context,
         skip_pdf_output=skip_pdf_output,
-        toc_depth=toc_depth
+        toc_depth=toc_depth,
+        language=LANGUAGE,
     )
 
 
@@ -349,7 +368,7 @@ def generate_mindstorm_sheets():
 
     all_data["available_anthropia_abilities"] = AVAILABLE_ANTHROPIA_ABILITIES
 
-    murder_party_items_raw = rpg.load_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"))
+    murder_party_items_raw = rpg.load_localized_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"), LANGUAGE)
 
     important_marker = " IMPORTANT"
     murder_party_items = analyze_and_normalize_game_items(murder_party_items_raw, important_marker=important_marker)
@@ -424,7 +443,7 @@ def generate_mindstorm_sheets():
         gm_data["current_player_id"] = master_login  # silent
         gm_data["current_player_password"] = gm_data["global_parameters"]["master_password"]
         build_mindstorm_pdf(GAMEMASTER_MANUAL_PARTS,
-                            filename_base="chrysalis_mindstorm_gamemaster_manual", title="Maître de Jeu",
+                            filename_base="chrysalis_mindstorm_gamemaster_manual", title=DOCUMENT_TITLES["gamemaster_manual"],
                             add_page_breaks=True, jinja_context=gm_data, toc_depth=2)
 
     # -------------
@@ -432,7 +451,7 @@ def generate_mindstorm_sheets():
     # then the common LORE doc
     if True:
         build_mindstorm_pdf(COMMON_LORE_DOCS,
-                            filename_base="common_lore_introduction", title="Univers du Jeu",
+                            filename_base="common_lore_introduction", title=DOCUMENT_TITLES["common_lore"],
                             add_page_breaks=True, jinja_context=isolated_data)
 
     # -------------
@@ -511,7 +530,8 @@ def generate_mindstorm_sheets():
         rpg.convert_rst_content_to_pdf(filepath_base=filepath_base,
                                        rst_content=full_extracts_rst,
                                        conf_file="rst2pdf.conf",
-                                       extra_args=STANDARD_EXTRA_ARGS)
+                                       extra_args=STANDARD_EXTRA_ARGS,
+                                       language=LANGUAGE)
 
     # -------------
 
@@ -523,10 +543,8 @@ def generate_mindstorm_sheets():
         assert "Inutilisé" in content  # comments are well included
 
         # no need for variables nor rendered output, we just fill fact-check registries
-        rpg.render_with_jinja_and_fact_tags(
-            content=content,
-            jinja_env=jinja_env,
-            jinja_context={})
+        # (symbol values of this French document would clash with those of other languages)
+        rpg.register_story_tags_from_content(content, jinja_env=jinja_env, register_symbols=(LANGUAGE == "fr"))
 
     # -------------
 

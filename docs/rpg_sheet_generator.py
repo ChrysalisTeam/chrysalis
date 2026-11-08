@@ -4,6 +4,7 @@ from __future__ import print_function, unicode_literals
 import logging
 
 import copy
+import argparse
 import functools
 import jinja2
 import os
@@ -19,6 +20,48 @@ from markupsafe import Markup
 
 
 ##################################
+#      LANGUAGE MANAGEMENT       #
+##################################
+
+SUPPORTED_LANGUAGES = ("fr", "en")
+DEFAULT_LANGUAGE = "fr"
+
+LANGUAGE_SUFFIX_REGEX = r"_(%s)\.\w+$" % "|".join(SUPPORTED_LANGUAGES)
+
+
+def get_build_language():
+    """
+    Read the "--lang" option of the build script command line.
+
+    Unknown arguments are ignored, so that builders can still be run via pytest.
+    """
+    parser = argparse.ArgumentParser(add_help=False)
+    parser.add_argument("--lang", choices=SUPPORTED_LANGUAGES, default=DEFAULT_LANGUAGE,
+                        help="Language of the script fixtures to use, and of the generated documents")
+    args, _unknown_args = parser.parse_known_args()
+    return args.lang
+
+
+def localize_filename(filename, language):
+    """
+    Turn "path/to/template.rst" into "path/to/template_<language>.rst", like script fixtures are named.
+    """
+    assert language in SUPPORTED_LANGUAGES, language
+    assert not re.search(LANGUAGE_SUFFIX_REGEX, filename), filename  # must be a language-agnostic name
+    base, ext = os.path.splitext(filename)
+    return "%s_%s%s" % (base, language, ext)
+
+
+def rebase_relative_image_paths(rst_content, extra_levels=1):
+    """
+    Image paths in RST are relative to the generated RST file, so when these files are
+    output in a deeper folder (eg. a language subfolder), upward paths must climb more levels.
+    """
+    regex = r"^(\s*\.\.\s+(?:\|[^|]+\|\s+)?(?:image|figure)::\s+)(?=\.\./)"
+    return re.sub(regex, lambda m: m.group(1) + "../" * extra_levels, rst_content, flags=re.MULTILINE)
+
+
+##################################
 #  LOAD AND WRIT YAML/RST FILES  #
 ##################################
 
@@ -29,13 +72,44 @@ def load_yaml_file(yaml_file):
         return data
 
 
+SYMBOL_TAG_REGEX = r"""\{%-?\s*symbol\s+(['"])(.*?)\1\s+for\s+(['"])(.*?)\3\s*-?%\}"""
+
+
+def _strip_symbol_tags(data):
+    """Replace {% symbol "value" for "name" %} tags by their bare value, recursively."""
+    if isinstance(data, str):
+        return re.sub(SYMBOL_TAG_REGEX, lambda m: m.group(2), data, flags=re.DOTALL)
+    if isinstance(data, dict):
+        return {k: _strip_symbol_tags(v) for (k, v) in data.items()}
+    if isinstance(data, (list, tuple)):
+        return type(data)(_strip_symbol_tags(v) for v in data)
+    return data
+
+
+def load_localized_yaml_file(yaml_file, language):
+    """
+    Load "<name>_<language>.yaml" if it exists, else the untranslated (French) "<name>.yaml".
+
+    In the latter case, for other languages, symbol tags are neutralized, since their
+    values would clash with those of translated templates.
+    """
+    localized_yaml_file = localize_filename(yaml_file, language)
+    if os.path.exists(localized_yaml_file):
+        return load_yaml_file(localized_yaml_file)
+    data = load_yaml_file(yaml_file)
+    if language != "fr":
+        print("!!! No translated %s found, using untranslated data" % localized_yaml_file)
+        data = _strip_symbol_tags(data)
+    return data
+
+
 def load_rst_file(rst_file):
     with open(rst_file, "r", encoding="utf8") as f:
         data = f.read()
         return data
 
 
-def write_rst_file(rst_file, data):
+def write_rst_file(rst_file, data, language=DEFAULT_LANGUAGE):
     """
     Also converts [BR] to pdf spacings, on the fly.
     """
@@ -55,10 +129,11 @@ def write_rst_file(rst_file, data):
 
                                            """))
 
-    # basic fixing of orphan punctuation marks for FR language...
-    full_rst = (full_rst.replace(" !", u"\u00A0!")
-                .replace(" ?", u"\u00A0?")
-                .replace(" :\n", u"\u00A0:\n"))  # beware about RST directives here...
+    if language == "fr":
+        # basic fixing of orphan punctuation marks for FR language...
+        full_rst = (full_rst.replace(" !", u"\u00A0!")
+                    .replace(" ?", u"\u00A0?")
+                    .replace(" :\n", u"\u00A0:\n"))  # beware about RST directives here...
 
     # autocreate missing folders
     folder = os.path.dirname(rst_file)
@@ -75,7 +150,7 @@ def write_rst_file(rst_file, data):
 ####################################
 
 
-def load_jinja_environment(templates_root: list, use_macro_tags: bool):
+def load_jinja_environment(templates_root: list, use_macro_tags: bool, language: str):
     # IMPORTANT - we refuse undefined template vars: exceptions get raised instead
     jinja_env = jinja2.Environment(undefined=jinja2.StrictUndefined,
                                    loader=jinja2.FileSystemLoader(templates_root),
@@ -100,8 +175,9 @@ def load_jinja_environment(templates_root: list, use_macro_tags: bool):
         except TypeError:
             pass
         for tpl in templates:
-            if tpl.endswith("_en.rst"):
-                continue  # English twins of FR templates declare the same macro names
+            match = re.search(LANGUAGE_SUFFIX_REGEX, tpl)
+            if match and match.group(1) != language:
+                continue  # translations of a template declare the same macro names
             #print("jinja_env.macros.register_from_template -->", tpl)
             jinja_env.macros.register_from_template(tpl)
 
@@ -119,6 +195,19 @@ def render_with_jinja_and_fact_tags(content, jinja_env, jinja_context):
     output_tagged = template.render(jinja_context)
     output = jinja_env.extract_facts_from_intermediate_markup(output_tagged)  # must exist
     return output
+
+
+def register_story_tags_from_content(content, jinja_env, register_symbols=True):
+    """
+    Only fill fact/symbol/hint registries from content, without caring about the rendered output.
+
+    Symbol values are texts, so they must not be registered from a document in another language.
+    """
+    saved_symbols_registry = copy.deepcopy(jinja_env.symbols_registry)
+    render_with_jinja_and_fact_tags(content=content, jinja_env=jinja_env, jinja_context={})
+    if not register_symbols:
+        jinja_env.symbols_registry.clear()  # same dict instance as in StoryChecksExtension
+        jinja_env.symbols_registry.update(saved_symbols_registry)
 
 
 MARKER_FORMAT = r'{#>%(fact_name)s|%(as_what)s|%(player_id)s|%(is_cheat_sheet)s<#}'
@@ -434,12 +523,12 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
     assert res == 0, "Error when calling rst2pdf"
 
 
-def convert_rst_content_to_pdf(filepath_base, rst_content, conf_file="", extra_args=""):
+def convert_rst_content_to_pdf(filepath_base, rst_content, conf_file="", extra_args="", language=DEFAULT_LANGUAGE):
     """
     We use an intermediate RST file, both for simplicity and debugging.
     """
     rst_file = filepath_base + ".rst"
     pdf_file = filepath_base + ".pdf"
 
-    write_rst_file(rst_file, data=rst_content)
+    write_rst_file(rst_file, data=rst_content, language=language)
     convert_rst_file_to_pdf(rst_file, pdf_file, conf_file=conf_file, extra_args=extra_args)
