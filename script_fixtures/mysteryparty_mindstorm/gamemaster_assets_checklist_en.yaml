@@ -1,0 +1,216 @@
+
+
+
+-
+  - "Logistics"
+  -
+    ##- "2 extension leads and 2 white power strips"
+    - "small Jabra bluetooth speaker"
+    - "large Vintage bluetooth speaker"
+    ##- "2 red tablecloths, yellow curtain, orange leopard-print curtain"
+    - "3-colour spotlight with remote switches"
+    - "well-filled smoke machine"
+    - "remote switches set up, and electrical fuses identified, to switch everything on/off on demand"
+
+-
+  - "Clues initially held by the players"  # BEWARE KEEP IN SYNC WITH "email_attachments" ZODB overrides
+  -
+    - "Amethyst - Lordanian report on the balance of armed forces in Midolia {% hint 'lordanian_report_on_midolian_armies_balance_for_amethyst' is provided %}, Advanced ingredients of the Berserk Elixir {% hint 'berserk_elixir_advanced_ingredients_for_amethyst' is provided %}, and Letter from Emilos Loakim stolen from the manor's mailbox {% hint 'stolen_manor_letter_for_amethyst' is provided %}"
+    - "Garnet - UV torch {% hint 'document_authentication_lamp_for_garnet' is provided %}"
+    - "Peridot - Memo on the families of precious stones {% hint 'origins_of_precious_stones_for_peridot' is provided %}"
+    - "Opal - List of the deadliest poisons {% hint 'deadliest_poisons_memo_for_opal' is provided %} and Known secret codes {% hint 'secret_codes_standard_sheet_cheat_for_opal' is provided %}"
+    - "Waden - Letter from the University of Omrh (Nalavut) with Photocopy of the Preparatory work {% hint 'omrh_university_request_for_waden' is provided %}, Analysis 1/2 of the radioactive stones {% hint 'radioactive_samples_analysis_report_part_1_for_waden' is provided %}, Pneumatic tube {% hint 'pneumatic_tube_for_waden' is provided %}"
+    - "Obsidian - Elements of Sabarith Law {% hint 'sabarith_law_summary_for_obsidian' is provided %} and Akarith Lexicon {% hint 'akarith_lexicon_for_obsidian' is provided %}"
+    - "Malachite - [if available] Wave detector and its attached memo, to find the planted recorders {% hint 'recorder_tracker_for_malachite' is provided %}"
+    - "Cynthia - 3 Truth-interview slips, modern Akarith cryptorunes provided by colleagues {% hint 'secret_codes_of_modern_akarith_sects_for_cynthia' is provided %}"
+    - "MISCELLANEOUS - Mining negotiation mandates for the players concerned {% hint 'negociating_mandates_for_mining_lease' is provided %}"
+
+-
+  - "Clues initially held by some NPCs"
+  -
+    - "Oberon - Difficult summary of Yodic theology for Malachite {% hint 'yodic_hard_summary_for_malachite_via_oberon' is provided %}; Analysis 2/2 of the radioactive stones for Waden {% hint 'radioactive_samples_analysis_report_part_2_for_waden' is provided %}, Two Heliossarian reports on Akarith armament, for the Lordanians {% hint 'heliossar_spy_reports_on_akaris_armament' is provided %}"
+    - "Rydji - Letter from Rodok for Loyd Georges, to be forwarded to Opal {% hint 'letter_from_rodok_forwarded_to_opal' is provided %}"
+    - "Tabellion - Elements of Sabarith Law (duplicate), Key to Loyd Georges' safe"
+
+-
+  - "For Inspector Shark"
+  -
+    - "Copy of the memo on the families of precious stones, to question Peridot {% hint 'origins_of_precious_stones_for_peridot' is provided %}"
+    - "Akarith Lexicon {% hint 'akarith_lexicon_for_shark' is provided %}"
+    - "Dazzling lamp"
+    - "Rain/heartbeat sound diffuser"
+    - "Typewriter with small sheets of paper (to take statements)"
+    - "Pouch of lily of the valley antidote 'sewn' into the lining of his coat"
+
+-
+  - "For the Akarith Ambassador"
+  -
+    - "\"Skull\" and \"rectangular sapphire\" rings {% hint 'akarith_ambassador_rings' is provided %}"
+    - "Pendant with quartz crystal"
+    - "Silver ciborium (closed chalice)"
+    - "Skull-headed bottle"
+    - "Bag of crisps and drink to offer {% hint 'akarith_ambassador_food_offering' is provided %}"
+    - "Mining negotiation contract to be signed by Lydia {% hint 'mining_lease_negotiation_contrat_for_akarith_ambassador' is provided %}"
+
+-
+  - "Displays on the walls"
+  -
+    - "Arcimboldo's Four Seasons paintings, behind the wall curtains"
+    - "PowerPoint display with the URL of the Anthropia portal, the WIFI code, the schedule of the day before and of D-day, later the results of the auctions"
+    - "several steampunk mood posters"
+    - "World map of Pangea"
+    - "Map of the manor with a \"you are here\" marker"
+    - "Guests gallery"
+    - "Logo sign on the toilets"
+    - "Logo sign on LG's safe"
+    - "Memo of instructions for Robb Barrow {% hint 'robb_barrow_instructions_memo' is provided %}"
+    - "Hydroland sale poster {% hint 'hydroland_sale_poster' is provided %}"
+    - "Extract from Loyd Markis's biography"
+    - "'Pass card' logos on the locks that require one"
+
+-
+  - "Objects and furniture arranged as well as possible in the rooms"
+  -
+    - "Small shiny wooden chest of drawers"
+    - "Wooden puzzle box"
+    - "1 oil lamp without flame guard, 2 hurricane lamps, 1 cherub lamp"
+    - "Decorative copper bed warmer"
+    - "Large binoculars"
+    - "Mailbox protected by pass card, with LOT 1 inside"
+    - "Game of metal sticks"
+    - "Flat black box with red patterns"
+    - "Beautiful wood-and-gold chest, containing at least 2 glasses cases (1 of them filled), 1 tubular glass flask, and the 'Blois' paper knife"
+    - "Rabbit photo frame"
+
+-
+  - "Padlocks and their keys"
+  -
+    - "Padlock on the beautiful wood-and-gold chest with an anchor: its key is HANGING in the lounge"
+    - "Padlock on the small shiny wooden chest of drawers: its key is in the decorative copper bed warmer"
+    - "Padlock on the big brown trunk: its key is in the flat black box with red patterns"
+
+-
+  - "Miscellaneous hidden objects"
+  -
+    - "Golden pass card for LG's safe (which opens ALL the pass-card locks): in LG's top hat {% fact 'passcard_of_loyd_georges_is_in_his_hat' %} {% hint 'lg_vault_pass_card' is provided %}"
+    - "Code of LG's safe ({% symbol '603-109 (sick-oh-free... won-oh-nine)' for 'lg_vault_secret_code' %}): in a {% symbol 'small tissue box' for 'lg_vault_secret_code_location' %} hidden in the beautiful wood-and-gold chest with an anchor {% hint 'lg_vault_secret_code' is provided %} "
+    - "Olympus dictaphone recorder attached to a signal transmitter, well hidden but without interference {% hint 'opal_lydia_voice_recorder' is provided %}"
+    - "Pass card dedicated only to the manor's mailbox: in the wallet sold by Alphonse {% hint 'postbox_specific_lost_passcard' is provided %}"
+
+-
+  - "Papers and objects available on request from the manor servants"
+  -
+    - "Loyd Georges' box of Digoxin"
+    - "\"Pharmacology - Digoxin\" sheet {% hint 'digoxin_pharmacology_info' is provided %}"
+    - "\"Oleander\" sheet {% hint 'oleander_plant_info' is provided %}"
+    - "Recipe for \"Cod gratin with chanterelles\" (lunch of the day before) {% hint 'recipe_cod_gratin' is provided %}"
+    - "Recipe for \"Veal blanquette\" (dinner of the day before) {% hint 'recipe_veal_stew' is provided %}"
+
+-
+  - "Loyd Georges' safe"
+  -
+    - "Loyd Georges' will {% hint 'loyd_georges_last_wills' is provided %}"
+    - "Transparent ovoid box \"FOR WADEN\" containing the giant ring {% hint 'giant_ring_in_box' is provided %}"
+    - "Coded scrolls of the Loyd family in the leather book cover {% hint 'lg_legacy_coded_scrolls' is provided %}"
+    - "Pouch with an assortment of diamonds (total value about 200¤)"
+    - "Folder marked \"Highly Confidential\" with Waden's letter describing his laboratory"
+
+-
+  - "The Tabellion's double-code briefcase (241-168) (birthday on {% symbol '24 November' for 'notary_birth_date_day_month' %} of the year {% symbol '1968' for 'notary_birth_date_year' %})"
+  -
+    - "Golden lipstick with the solution of the code (hung outside)"
+    - "Small bottle of alcohol"  # can be used to negotiate with Alphonse
+    - "old glasses in a case"
+    - "1 old brown book"
+    - "3 smooth green/pink/orange stones in a grey linen pouch"
+
+-
+    - "The old lady's briefcase"
+    -
+      - "3 nested brown/green/black leather wallets"
+      - "3 vials including 1 of zombifying drug"
+
+-
+  - "Big brown trunk"
+  -
+    - "As they are: 2 old brown books, oval mirror, copper bell, silver goblet, kaleidoscope, empty brown leather photo album, copper bowl, unloaded single-shot pistol (12 gauge) in a grey leather holster, scarlet red deck of cards"
+    - "In the painted wooden sub-box: copper pipe, compass, round magnifying glass, parrot comb, small binoculars"
+
+-
+  - "Loot from specific searches"
+  -
+    - "Tropical nuts and remains of blue Liqueur (stored in the kitchen, offered the day before to Loyd Georges) {% fact 'malachite_offers_nuts_to_lg' as author %} {% fact 'amethyst_offers_liquor_to_lg' as author %}"
+    - "Pouch of (oleander) laurel behind the kitchen condiments, with a \"Bibine Express\" flyer {% hint 'oleander_ingredient_pouch' is provided %}"
+    - "\"Jane Pectoral Paste\" box under the \"Baobab\", containing the riddle leading to the \"Precious Cauldron\" {% hint 'paste_box_with_precious_cauldron_enigma' is provided %}"
+    - "Coded message \"MO is covering us, delivery OK\" etc. if going down to the Purineur Bar"
+    - "Letter from Judicator Praeves, in a padded envelope (anonymous P.O. box of the neighbouring hamlet) {% hint 'judicator_praeves_letter_and_lily_juice' is provided %}"
+    - "\"Venture Prins\" fake book (containing a note calling to look out of the study window) {% hint 'venture_prins_fake_book' is provided %}"
+
+    # results of the searches carried out by OBSIDIAN, if the objects have not already been retrieved by players, and in the absence of additional indications which would have narrowed the searches...
+    - "Search of the HALLS: Nothing found"
+    - "Search of the STUDY: Telegram from Waden mentioning his order of equipment from GemmoKorps (fallen under a piece of furniture)"
+    - "Search of the LIBRARY: Brown canvas bag with a note from Emilos Loakim"
+    - "Search of LOYD GEORGES' BEDROOM: Pharmacology of Digoxin (see above)"
+    - "Search of ALPHONSE'S BEDROOM: Stock of illegally imported spirits, hidden under the mattress"  # to blackmail Alphonse...
+    - "Search of RYDJI'S BEDROOM: Telegram from {% symbol 'Count Blispin' for 'lg_close_friend_lord_name' %} for Rydji"
+    - "Search of OPAL'S BEDROOM: Fake letter mentioning an electoral fraud by Lydia"
+    - "Search of the KITCHEN: The 2 recipes of the day before (see above)"
+    - "Search of the PANTRY: Cynthia's thin brown parcel with the picture of her building {% hint 'cynthia_wetfeet_building_picture' is provided %}"
+    - "Search of the KENNEL: Grey 'GoodShoe' shoe heel {% hint 'broken_shoe_heel' is provided %}"
+
+-
+  - "The manor's mailbox"
+  -
+    - "LOT 1 (initial): Denunciation letter from Gégé the Reformed, addressed to Loyd Georges"  # could compromise one of the 2 burglars of the manor
+    - "LOT 2: Threatening letter from Jackoss the innkeeper, addressed to Alphonse"
+    - "LOT 3: Threatening letter from Lord Mac'Jolt, addressed to Loyd Georges"
+    - "LOT 4: Refund of the overpayment for the veal blanquette, from the Good Salimian Caterer (100¤ in cash)"
+    - "LOT 5: Letter from Superintendent Slowdone Spid for Loyd Georges, concerning Shark"
+
+-
+  - "Military duffel bag"
+  -
+    - "Request from the scientist Eusebon pinned on the bag {% hint 'dr_eusebon_request' is provided %}"
+    - "Khaki fatigues (jacket + trousers)"
+    - "Useless loose draft papers"
+    - "Loyd Georges' Memo Notebook with various clues inside {% hint 'lg_notebook' is provided %}"
+    - "Modern Akarith lexicon"
+    - "ALL the secret code decipherers (2 pages)"
+    - "Gems and money in the copper bottle"
+
+-
+  - "50-kash notes scattered around, for a TOTAL value of 1,400 kashes"
+  -
+    - "In LG's top hat"
+    - "In the wick of the paraffin lamp"
+    - "In the Tabellion's briefcase"
+    - "In the military duffel bag"
+    - "In multiple small objects and chests, at random"
+
+-
+  - "Ventes Privées d'Alphonse"  # BEWARE, this French title is a data key compared by alphonse_special_sales_en.rst; texts below are automatically extracted to make the public sales menu
+  -
+    - "1 gift voucher for a home massage [50¤] {% hint 'massage_gift_voucher' is provided %}"
+    - "1 ULTIMATE BANK SPIDER KIT licence [100¤] {% hint 'ultimate_bank_spider_kits' is provided %}"
+    - "1 silver cartridge, 12 gauge, unused [100¤] {% hint 'single_caliber_12_cartridge' is provided %}"
+    - "1 relic: my old wallet and step counter [100¤] {% hint 'old_alphonse_wallet' is provided %}"  # contains the pass card dedicated ONLY to the mailbox
+    - "1 Authentic replica of Loyd Georges' golden pass card, non-functional [100¤]"  # to swap it with the REAL golden pass card
+    - "1 deck of cards (manual sadly undecipherable), found yesterday in the gambling den {% symbol 'La Murge de Salima' for 'alphonse_alibi_bar' %} [100¤] {% hint 'card_game_with_unreadable_manual' is provided %}"   # secret word of the Purifiers, giving an appointment the next day at the Purineur
+    - "1 high-tech CHROMIA pen found in the manor [100¤] {% hint 'chromia_spy_pen' is provided %}"   # spy dictaphone
+    - "1 cave octopus tentacle [100¤] {% hint 'octopus_tentacle_in_bottle' is provided %}"
+    - "1 juice (dark red) of red-skinned Akarith land mushroom [100¤] {% hint 'red_land_mushroom_juice' is provided %}"
+    - "1 juice (light orange) of blue-skinned Akarith aquatic mushroom [100¤] {% hint 'blue_aquatic_mushroom_juice' is provided %}"
+    - "1 potion of accelerated ageing [50¤] {% hint 'aging_potion' is provided %}"
+    - "1 vial of Royal Najah venom [50¤] {% hint 'snake_venom' is provided %}"
+    - "1 thorium elixir of mindfulness [50¤] {% hint 'thorium_potion' is provided %}"  # wins any fight fought with equal weapons
+    - "1 assortment of gems from around the world [50¤]"  # useless...
+
+-
+  - "Papers and objects for special events"
+  -
+    - "5 medical reports from the central hospice and the medical laboratory {% hint 'loyd_georges_health_reports' is provided %}"
+    - "3 letters of correspondence between Shark and his sister"
+    - "Letter from the Sabarim Gazette and ivory object for Cynthia (in a velvet sheath)"  # to manipulate the Akarith Purifiers of Sabarim
+    - "Akarith fanatic's sabre"
+    - "Akarith fanatic's Nerf gun (with laser)"
+    - "Kitten photo frame"
