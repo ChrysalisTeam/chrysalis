@@ -101,6 +101,11 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
     reader = PdfReader(full_pdf)
     assert not any(annot.get_object()["/Subtype"] == "/Text"
                    for page in reader.pages for annot in page.get("/Annots", [])), full_pdf  # no comment left
+    declared_pages_count = sum(pages_count for (_basename, pages_count) in clues_parts)
+    assert declared_pages_count <= len(reader.pages), (declared_pages_count, len(reader.pages))  # else parts are shifted
+    if declared_pages_count < len(reader.pages):
+        print("!!! Ignoring %d trailing pages of %s" % (len(reader.pages) - declared_pages_count, input_doc))
+
     current_page = 0
     for basename, pages_count in clues_parts:
         writer = PdfWriter()
