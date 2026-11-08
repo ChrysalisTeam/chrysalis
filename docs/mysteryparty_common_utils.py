@@ -112,34 +112,42 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
     """
     Export the whole ODT document to PDF once, then split it into one PDF per clue.
 
+    Other PDFs of output_dir are removed first, so that no obsolete clue remains: other documents
+    of this folder must thus be generated afterwards.
+
     IMPORTANT - GAMEMASTER COMMENTS of the document must not be exported.
     """
     from pypdf import PdfReader, PdfWriter
 
+    for filename in os.listdir(output_dir):
+        if filename.endswith(".pdf"):
+            os.remove(os.path.join(output_dir, filename))
+
     full_pdf = os.path.join(output_dir, "_all_ingame_clues.pdf")
     cmd = [sys.executable, "unoconv.py", "-f", "pdf", "-o", full_pdf, "-e", "ExportNotes=false", input_doc]
     print(cmd)
-    res = subprocess.call(cmd)
-    assert res == 0, "Error when calling unoconv"
+    subprocess.run(cmd, check=True)
 
-    reader = PdfReader(full_pdf)
-    assert not any(annot.get_object()["/Subtype"] == "/Text"
-                   for page in reader.pages for annot in page.get("/Annots", [])), full_pdf  # no comment left
-    declared_pages_count = sum(pages_count for (_basename, pages_count) in clues_parts)
-    assert declared_pages_count == len(reader.pages), (declared_pages_count, len(reader.pages))  # else parts are shifted
+    try:
+        reader = PdfReader(full_pdf)
+        if any(annot.get_object()["/Subtype"] == "/Text" for page in reader.pages for annot in page.get("/Annots", [])):
+            raise RuntimeError("Gamemaster comments were exported to %s" % full_pdf)
+        declared_pages_count = sum(pages_count for (_basename, pages_count) in clues_parts)
+        if declared_pages_count != len(reader.pages):  # else parts would be shifted
+            raise RuntimeError("Clue parts declare %s pages, but %s has %s pages" % (declared_pages_count, input_doc, len(reader.pages)))
 
-    current_page = 0
-    for basename, pages_count in clues_parts:
-        if basename is None:  # pages to be skipped
+        current_page = 0
+        for basename, pages_count in clues_parts:
+            if basename is None:  # pages to be skipped
+                current_page += pages_count
+                continue
+            writer = PdfWriter()
+            for page in reader.pages[current_page:current_page + pages_count]:
+                writer.add_page(page)
+            writer.write(os.path.join(output_dir, basename + ".pdf"))
             current_page += pages_count
-            continue
-        writer = PdfWriter()
-        for page in reader.pages[current_page:current_page + pages_count]:
-            writer.add_page(page)
-        writer.write(os.path.join(output_dir, basename + ".pdf"))
-        current_page += pages_count
-
-    os.remove(full_pdf)
+    finally:
+        os.remove(full_pdf)
 
 
 
