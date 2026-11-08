@@ -3,7 +3,6 @@ from __future__ import print_function, unicode_literals
 
 import os
 import rpg_sheet_generator as rpg
-import sys
 
 rpg.enter_docs_folder()
 

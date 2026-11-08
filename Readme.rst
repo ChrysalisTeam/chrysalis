@@ -89,7 +89,7 @@ The build_mindstorm_pdfs.py PDF generation script is quite long to run, so you m
 
 The "docs/output_mindstorm/en/" folder should then contain the gamemaster manual, character sheets, summary docs, and in-game documents for this mystery party game.
 
-If you have put properly named images (eg. "Amethyst-John Doe.jpg", see "real_life_identity" fields) in "docs/trombinoscope/" folder, the generated common_guests_gallery.pdf file will gather them; else, the avatars of characters are used.
+If you have put properly named images (eg. "Amethyst-John Doe.jpg", with the "real_life_identity" fields of characters in the game data dump) in "docs/trombinoscope/" folder, the generated common_guests_gallery.pdf file will gather them; else, the avatars of characters are used.
 
 With the ``--with-clues`` option, you'll need to have LibreOffice installed in your system, so that separate documents can be extracted from the "ingame_clues_<game>.odt" file (or its "ingame_clues_<game>_en.odt" translation) using "unoconv.py".
 This step might fail if the pagination of this ODT file is altered on your system (e.g. fonts missing), in this case edit it by hand to respect the splitting information stored in the INGAME_CLUES_PARTS python variable of the build script.
