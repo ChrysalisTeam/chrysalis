@@ -84,21 +84,24 @@ def _extract_ingame_clues_text_from_odt(clues_file):
     return text
 
 
-def _register_story_tags_from_clues_document(clues_document, jinja_env, language, comment_sample):
+def _register_story_tags_from_clues_document(clues_document, jinja_env, language, comment_samples):
     """
     Fill fact/hint/symbol registries from the ingame clues ODT document, no rendered output is needed.
 
     Without translated document, the French one is used, but its symbol values aren't registered,
     since they would clash with those of translated templates.
+
+    comment_samples maps languages to a text excerpt of a gamemaster comment of the matching document.
     """
     localized_clues_document = rpg.localize_source_filename(clues_document, language)
     is_translated = os.path.exists(localized_clues_document)  # always True for French
     document = localized_clues_document if is_translated else clues_document
+    comment_sample = comment_samples[language if is_translated else rpg.DEFAULT_LANGUAGE]
 
     print("Extracting ingame clues text from ODT file %s" % document)
     content = _extract_ingame_clues_text_from_odt(document)
-    if document == clues_document:
-        assert comment_sample in content  # comments are well included
+    if comment_sample not in content:  # the tags of gamemaster comments must be included
+        raise RuntimeError("Comments of %s were not extracted (missing %r)" % (document, comment_sample))
 
     rpg.render_with_jinja_and_fact_tags(content=content,
                                         jinja_env=jinja_env,

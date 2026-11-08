@@ -617,7 +617,8 @@ def generate_archives_sheets():
     # then resolve fact/hint tags from the ODT clues file
     if True:
         _register_story_tags_from_clues_document(ALL_CLUES_DOCUMENT, jinja_env=jinja_env, language=LANGUAGE,
-                                                 comment_sample="petite sœur des Parcival")
+                                                 comment_samples=dict(fr="petite sœur des Parcival",
+                                                                      en="cure the Parcivals' little sister"))
 
     # -------------
 

@@ -573,7 +573,7 @@ def generate_mindstorm_sheets():
     # then resolve fact/hint tags from the ODT clues file
     if True:
         _register_story_tags_from_clues_document(ALL_CLUES_DOCUMENT, jinja_env=jinja_env, language=LANGUAGE,
-                                                 comment_sample="Inutilisé")
+                                                 comment_samples=dict(fr="Inutilisé", en="Unused for now"))
 
     # -------------
 
