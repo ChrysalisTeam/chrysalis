@@ -13,10 +13,9 @@ import subprocess
 import sys
 import textwrap
 import yaml
-from jinja2 import nodes, lexer, pass_context, Template
+from jinja2 import nodes, lexer, pass_context
 from jinja2.ext import Extension
 from jinja2.runtime import Context
-from markupsafe import Markup
 
 
 ##################################
@@ -460,17 +459,6 @@ def _display_and_check_story_facts(jinja_env, masked_user_names):
     print("\nInline facts of scenario:")
     pprint(facts_registry_stripped)
 
-    '''
-    def __UNUSED_replace_all_players_set(names):
-        """When all real players know a fact, replace their names by a symbol"""
-        names_set = set(names)
-        if all_player_names <= names_set:
-            new_set = (names_set - all_player_names) | {"ALL-PLAYERS"}
-        else:
-            new_set = names_set
-        return new_set
-    '''
-
     has_coherence_errors = False
 
     def _check_fact_leaf(fact_name, player_id, fact_node):
@@ -535,11 +523,14 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
     logging.debug("Executing command: %s" % command)
 
     # rst2pdf exits with code 0 even when it logs errors (eg. missing images), so we check its logs too
-    res = subprocess.run(command, stderr=subprocess.PIPE, encoding="utf8", errors="replace")
-    sys.stderr.write(res.stderr)
-    if res.returncode:
-        raise RuntimeError("Error %s when calling rst2pdf on %s" % (res.returncode, rst_file))
-    error_lines = [line for line in res.stderr.splitlines() if "[ERROR]" in line]
+    error_lines = []
+    with subprocess.Popen(command, stderr=subprocess.PIPE, encoding="utf8", errors="replace") as process:
+        for line in process.stderr:
+            sys.stderr.write(line)
+            if any(marker in line for marker in ("[ERROR]", "[CRITICAL]", "(ERROR/", "(SEVERE/")):
+                error_lines.append(line.rstrip())
+    if process.returncode:
+        raise RuntimeError("Error %s when calling rst2pdf on %s" % (process.returncode, rst_file))
     if error_lines:
         raise RuntimeError("rst2pdf reported errors on %s:\n%s" % (rst_file, "\n".join(error_lines)))
 
