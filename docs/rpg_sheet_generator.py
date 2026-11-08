@@ -538,9 +538,14 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
 
     logging.debug("Executing command: %s" % command)
 
-    res = subprocess.call(command)
-
-    assert res == 0, "Error when calling rst2pdf"
+    # rst2pdf exits with code 0 even when it logs errors (eg. missing images), so we check its logs too
+    res = subprocess.run(command, stderr=subprocess.PIPE, encoding="utf8", errors="replace")
+    sys.stderr.write(res.stderr)
+    if res.returncode:
+        raise RuntimeError("Error %s when calling rst2pdf on %s" % (res.returncode, rst_file))
+    error_lines = [line for line in res.stderr.splitlines() if "[ERROR]" in line]
+    if error_lines:
+        raise RuntimeError("rst2pdf reported errors on %s:\n%s" % (rst_file, "\n".join(error_lines)))
 
 
 def convert_rst_content_to_pdf(filepath_base, rst_content, conf_file="", extra_args="", language=DEFAULT_LANGUAGE):

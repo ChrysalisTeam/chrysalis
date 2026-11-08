@@ -386,8 +386,7 @@ def build_mindstorm_pdf(parts, filename_base, title,
 def generate_mindstorm_sheets():
     _ensure_intial_game_data_dump_is_present(INITIAL_GAME_DATA_DUMP)  # IMPORTANT
 
-    all_data = dict(standalone=IS_STANDALONE,
-                    use_player_photos=True)
+    all_data = dict(standalone=IS_STANDALONE)
 
     data = rpg.load_yaml_file(INITIAL_GAME_DATA_DUMP)
     all_data.update(data)  # TODO - replace that dump by source data, eventually
@@ -417,6 +416,13 @@ def generate_mindstorm_sheets():
 
     for k, v in CHARACTER_OVERRIDES.items():
         all_data["character_properties"][k].update(v)  # we override official names mainly
+
+    # Real photos of guests (see Readme) are optional, avatars are used instead
+    player_photos = ["trombinoscope/%s-%s.jpg" % (k.capitalize(), v["real_life_identity"])
+                     for (k, v) in all_data["character_properties"].items() if not v["is_npc"]]
+    all_data["use_player_photos"] = all(os.path.exists(photo) for photo in player_photos)
+    if not all_data["use_player_photos"]:
+        print("!!! Some player photos are missing in trombinoscope/, using avatars in guests gallery")
 
     for k, v in all_data["character_properties"].items():
         #print("HANDLING CHARACTER", k)

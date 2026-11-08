@@ -399,7 +399,7 @@ def build_archives_pdf(parts, filename_base, title,
 def generate_archives_sheets():
     _ensure_intial_game_data_dump_is_present(INITIAL_GAME_DATA_DUMP)  # IMPORTANT
 
-    all_data = dict(use_player_photos=True)
+    all_data = dict()
 
     data = rpg.load_yaml_file(INITIAL_GAME_DATA_DUMP)
     all_data.update(data)
