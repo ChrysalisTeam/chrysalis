@@ -227,7 +227,7 @@ COMMON_LORE_AND_RULES = [
 
 # BEWARE, be careful when regenerating PDF clues, that their titles and content match well!
 
-INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, number_of_mages)
+INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename or None to skip, number_of_pages)
     ("recipe_flex_elixir_and_clarity_lotion", 1),
     ("recipe_pyrolitis_tincture", 1),
     ("recipe_rejuvenation_cocktail", 1),
@@ -257,7 +257,8 @@ INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, nu
     ("maupertuis_caduceus_symbol", 1),
     ("coffee_mill_stereogram", 1),
     ("miscellaneous_secret_messages", 2),
-    ("trap_and_property_markers", 8),  # followed by a "TRASH PAGE" in document
+    ("trap_and_property_markers", 8),
+    (None, 1),  # "TRASH PAGE" of document
 ]
 
 # documents without decorations, typically ; one can provide a LIST of RST files as value

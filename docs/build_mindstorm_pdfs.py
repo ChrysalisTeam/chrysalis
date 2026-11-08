@@ -178,7 +178,7 @@ COMMON_LORE_DOCS = [
 
 # BEWARE, be careful when regenerating PDF clues, that their titles and content match well!
 
-INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename, number_of_mages)
+INGAME_CLUES_PARTS = [  # content of ingame clues ODT document, as (filename or None to skip, number_of_pages)
     ("nazur_mummy_analysis_results", 1),
     ("secret_codes_standard_sheet_cheat_for_opal", 1),
     ("sabarith_law_summary_for_obsidian", 1),
