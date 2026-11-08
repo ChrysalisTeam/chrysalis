@@ -10,8 +10,8 @@ import textwrap
 from collections import OrderedDict
 
 from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_game_data_dump_is_present, \
-    _register_story_tags_from_clues_document, _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email, \
-    analyze_and_normalize_game_items
+    _register_story_tags_from_clues_document, export_ingame_clues_pdfs, _send_character_sheets_via_email, \
+    analyze_and_normalize_game_items, load_localized_rst_template
 from rpg_sheet_generator import display_and_check_story_tags
 
 rpg.enter_docs_folder()
@@ -26,7 +26,6 @@ DISABLE_DECORATIONS = False
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_archives")
 TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
 ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_archives.odt")  # French
-LOCALIZED_CLUES_DOCUMENT = rpg.localize_source_filename(ALL_CLUES_DOCUMENT, LANGUAGE)
 
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
 DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_frame"  # Use --show-frame-boundary (if necessary to debug)
@@ -336,12 +335,7 @@ def generate_archives_rst_from_parts(parts, title, add_page_breaks, with_decorat
         if callable(part):
             new_data = part(jinja_context=jinja_context)  # builder function
         else:
-            part = rpg.localize_filename(part, LANGUAGE)
-            rst_filepath1 = os.path.join(TEMPLATES_ROOT, part)
-            rst_filepath2 = os.path.join(TEMPLATES_COMMON, part)
-            rst_filepath = rst_filepath1 if os.path.exists(rst_filepath1) else rst_filepath2
-            assert os.path.exists(rst_filepath), rst_filepath
-            new_data = rpg.load_rst_file(rst_filepath)
+            new_data = load_localized_rst_template(part, [TEMPLATES_ROOT, TEMPLATES_COMMON], LANGUAGE)
         full_data += new_data
         if add_page_breaks:
             full_data += "\n\n.. raw:: pdf\n\n    PageBreak\n\n"
@@ -527,13 +521,8 @@ def generate_archives_sheets():
     # -------------
 
     if BUILD_ARGUMENTS.with_clues:
-        # SLOW - export clues into a myriad of small PDFs
-        if os.path.exists(LOCALIZED_CLUES_DOCUMENT):
-            _generate_clues_pdfs_from_main_odt_document(input_doc=LOCALIZED_CLUES_DOCUMENT,
-                                                        clues_parts=INGAME_CLUES_PARTS,
-                                                        output_dir=DOCUMENTS_OUTPUT_DIR)
-        else:
-            print("!!! Skipping export of ingame clues, since no translated document %s exists" % LOCALIZED_CLUES_DOCUMENT)
+        export_ingame_clues_pdfs(ALL_CLUES_DOCUMENT, clues_parts=INGAME_CLUES_PARTS,
+                                 output_dir=DOCUMENTS_OUTPUT_DIR, language=LANGUAGE)
 
     # -------------
 

@@ -85,6 +85,31 @@ def _register_story_tags_from_clues_document(clues_document, jinja_env, language
                                         jinja_context=dict(register_symbols=is_translated))
 
 
+def load_localized_rst_template(template_name, templates_roots, language):
+    """
+    Load the RST template "<name>_<language>.rst" from the first of templates_roots which contains it.
+    """
+    localized_template_name = rpg.localize_filename(template_name, language)
+    for templates_root in templates_roots:
+        rst_filepath = os.path.join(templates_root, localized_template_name)
+        if os.path.exists(rst_filepath):
+            return rpg.load_rst_file(rst_filepath)
+    raise FileNotFoundError("Template %s not found in %s" % (localized_template_name, templates_roots))
+
+
+def export_ingame_clues_pdfs(clues_document, clues_parts, output_dir, language):
+    """
+    SLOW - export the (translated) ingame clues ODT document into a myriad of small PDFs.
+    """
+    localized_clues_document = rpg.localize_source_filename(clues_document, language)
+    if os.path.exists(localized_clues_document):
+        _generate_clues_pdfs_from_main_odt_document(input_doc=localized_clues_document,
+                                                    clues_parts=clues_parts,
+                                                    output_dir=output_dir)
+    else:
+        print("!!! Skipping export of ingame clues, since no translated document %s exists" % localized_clues_document)
+
+
 def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_dir):
     """
     Export the whole ODT document to PDF once, then split it into one PDF per clue.
