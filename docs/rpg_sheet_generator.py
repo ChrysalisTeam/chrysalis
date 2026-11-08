@@ -256,7 +256,8 @@ class StoryChecksExtension(Extension):
     # a set of names that trigger the extension.
     tags = set(['fact', 'symbol', 'hint'])
 
-    DUMMY_GAMEMASTER_NAME = "<master>"
+    # facts rendered without "current_player_id" in context, i.e. those of the ingame clues document
+    UNKNOWN_PLAYER_NAME = "ingame_clues"
 
     def __init__(self, environment):
         super(StoryChecksExtension, self).__init__(environment)
@@ -355,7 +356,7 @@ class StoryChecksExtension(Extension):
 
     def _fact_processing(self, fact_name, as_what, context):
 
-        player_id = context.get("current_player_id", self.DUMMY_GAMEMASTER_NAME)
+        player_id = context.get("current_player_id", self.UNKNOWN_PLAYER_NAME)
         is_cheat_sheet = context.get("is_cheat_sheet", False)
 
         #if "mytest" in fact_name:
@@ -453,8 +454,6 @@ def _display_and_check_story_symbols(jinja_env):
 def _display_and_check_story_facts(jinja_env, masked_user_names):
     from pprint import pprint
     assert isinstance(masked_user_names, (set, tuple, list)), repr(masked_user_names)
-
-    __masked_user_names = list(masked_user_names) + [StoryChecksExtension.DUMMY_GAMEMASTER_NAME]  # FIXME UNUSED
 
     facts_registry_stripped = [(k, sorted(v)) for (k, v) in jinja_env.facts_registry.items()]
 
