@@ -19,7 +19,7 @@ jinja_env = rpg.load_jinja_environment(TEMPLATES_ROOT, use_macro_tags=True, lang
 
 
 def generate_player_sheets():
-    all_data = rpg.load_yaml_file(YAML_FILE)
+    all_data = rpg.load_localized_yaml_file(YAML_FILE, LANGUAGE)
     data = all_data["descent_rpg"]
 
     for player_id, player_data in data["players"].items():
