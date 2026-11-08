@@ -5,6 +5,8 @@ import os
 import rpg_sheet_generator as rpg
 import sys
 
+rpg.enter_docs_folder()
+
 LANGUAGE = rpg.parse_build_arguments().lang  # use "--lang en" on command line for English documents
 
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/descent_rpg")

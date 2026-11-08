@@ -15,6 +15,8 @@ from mysteryparty_common_utils import build_mysteryparty_pdf, _ensure_intial_gam
     analyze_and_normalize_game_items
 from rpg_sheet_generator import display_and_check_story_tags
 
+rpg.enter_docs_folder()
+
 BUILD_ARGUMENTS = rpg.parse_build_arguments(with_clues_option=True)  # eg. "--lang en --with-clues" on command line
 LANGUAGE = BUILD_ARGUMENTS.lang
 
@@ -27,7 +29,6 @@ TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
 ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_archives.odt")  # French
 LOCALIZED_CLUES_DOCUMENT = rpg.localize_source_filename(ALL_CLUES_DOCUMENT, LANGUAGE)
 
-DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
 DECORATIONS_EXTRA_ARGS = "--stylesheets=simple_large,dark_background_with_frame"  # Use --show-frame-boundary (if necessary to debug)
 BIG_FONT_EXTRA_PARAMS = "--stylesheets=big_font"

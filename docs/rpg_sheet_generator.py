@@ -29,6 +29,13 @@ DEFAULT_LANGUAGE = "fr"
 LANGUAGE_SUFFIX_REGEX = r"_(%s)\.\w+$" % "|".join(SUPPORTED_LANGUAGES)
 
 
+def enter_docs_folder():
+    """
+    Paths of build scripts (fixtures, stylesheets, outputs...) are relative to this "docs/" folder.
+    """
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+
 def parse_build_arguments(with_clues_option=False):
     """
     Read the options of the build script command line.
