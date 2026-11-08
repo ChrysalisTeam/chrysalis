@@ -590,7 +590,7 @@ messaging:
             body: |
                 Agents, vous êtes tous actuellement assignés à des missions particulièrement sensibles, nous vous souhaitons donc bonne chance dans vos entreprises.
 
-                Ci-dessous une note de service soumise par notre consul {% symbol "Mundlish Odalisc" as "lydia_adversary_name" %}, qui ne va sans doute pas vous faire plaisir.
+                Ci-dessous une note de service soumise par notre consul {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}, qui ne va sans doute pas vous faire plaisir.
                 Nous comptons sur chacun pour savoir arbitrer, situation par situation, entre le devoir de subordination hiérarchique, et le service de l'intérêt supérieur de la nation sabarite.
 
                 *Rappel aux forces policières, militaires, et d'intelligence secrète du pays de Sabarim. En cette période de tension électorale, il est de la plus haute importance que le petit peuple ne se sente pas oppressé par les autorités dans ses lieux de libre détente. Nous comptons donc sur vous pour vous tenir à l'écart des tavernes et tripots, même clandestins, ces défouloirs graveleux étant somme toute inoffensifs par rapport à l'enjeu de l'unité nationale.*
