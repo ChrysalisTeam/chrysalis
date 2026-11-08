@@ -89,11 +89,8 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
     for idx, (basename, pages_count) in enumerate(clues_parts):
         prefix = ""  # or ("%02d_" % idx) if debugging needed
         output_pdf = os.path.join(output_dir, prefix + basename + ".pdf")
-        variables = dict(python_exe=sys.executable,
-                         input=input_doc,
-                         output=output_pdf,
-                         page_range='%s-%s' % (current_page, current_page + pages_count - 1))
-        cmd = '"%(python_exe)s" unoconv.py -f pdf -o "%(output)s" -e PageRange=%(page_range)s "%(input)s"' % variables
+        page_range = '%s-%s' % (current_page, current_page + pages_count - 1)
+        cmd = [sys.executable, "unoconv.py", "-f", "pdf", "-o", output_pdf, "-e", "PageRange=" + page_range, input_doc]
         print(cmd)
         subprocess.call(cmd)
 

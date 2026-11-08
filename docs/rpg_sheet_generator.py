@@ -8,6 +8,7 @@ import functools
 import jinja2
 import os
 import re
+import shlex
 import subprocess
 import sys
 import textwrap
@@ -499,22 +500,15 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
     conf_file = conf_file or ""
     assert not conf_file or os.path.exists(conf_file), conf_file  # must be in CWD
 
-    extra_args = extra_args or ""
-
-    vars = dict(python_exe=sys.executable,
-                rst_file=rst_file,
-                pdf_file=pdf_file,
-                conf_file=conf_file,
-                extra_args=extra_args)
-
     # fit-background-mode=scale doesn't work in config file, at the moment...
     # other options: --very-verbose --show-frame-boundary or just "-v"
-    command = r'''"%(python_exe)s" -m rst2pdf.createpdf "%(rst_file)s" -o "%(pdf_file)s" --config=%(conf_file)s --fit-background-mode=scale --first-page-on-right --smart-quotes=2 --break-side=any  -e dotted_toc_compat --fit-literal-mode=shrink %(extra_args)s''' % vars
+    command = [sys.executable, "-m", "rst2pdf.createpdf", rst_file, "-o", pdf_file, "--config=%s" % conf_file,
+               "--fit-background-mode=scale", "--first-page-on-right", "--smart-quotes=2", "--break-side=any",
+               "-e", "dotted_toc_compat", "--fit-literal-mode=shrink"] + shlex.split(extra_args or "")
 
-    #print("Current directory: %s" % os.getcwd())
     logging.debug("Executing command: %s" % command)
 
-    res = subprocess.call(command)  # no shell, so that quoted interpreter path works on Windows
+    res = subprocess.call(command)
 
     assert res == 0, "Error when calling rst2pdf"
 
