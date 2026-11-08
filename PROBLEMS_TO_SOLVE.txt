@@ -1,0 +1,56 @@
+TRANSLATION ISSUES TO SOLVE (FR -> EN)
+======================================
+
+Archives (script_fixtures/mysteryparty_archives/)
+-------------------------------------------------
+
+- Whispering Box riddle: in English it was rewritten as a charade whose answer is BLOWTORCH.
+  The French MP3 recording no longer matches it, and the torn animal book
+  (hint "torn_child_book_with_animal_motions", which gave "CHAT" in French) no longer helps solve anything.
+  => Adjust either the English riddle or the hint list.
+
+- Shelf naming mismatch: the shelf label says GASTRONOMY, but the gamemaster manual says "Pastries".
+  The French has the same mismatch ("Patisseries"), and the English mirrors it.
+  => Pick one name and use it in both languages.
+
+- Invented month names (junaire, decembaire...) and "@CRATE" codes were kept in French in the English documents.
+  => Confirm this is intended.
+
+
+Auction (script_fixtures/gamemaster_manual_en.yaml)
+---------------------------------------------------
+
+- The French uses both "Trésors Oubliés de Midolie" and "Trésors Perdus de Midolie",
+  and the English mirrors both. Neither name is in the glossary.
+  => Pick one name, use it in both languages, and add it to TRANSLATION_GLOSSARY_FR_EN.rst.
+
+- The "Chryalis" typo comes from the French source, and was kept in English.
+  => Fix it in both languages.
+
+
+Mindstorm (script_fixtures/mysteryparty_mindstorm/)
+---------------------------------------------------
+
+- Puzzles were rebuilt in English (THECEILINGOFTHETOILET, UNDERTHECOOKINGRECIPES,
+  the "Sick-oh-free... won-oh-nine" clue for safe code 603-109).
+  => Proofread them in context.
+
+- "Ventes Privées d'Alphonse" was kept in French, as were the props and the text inside images.
+  => Confirm, or translate (images would need re-editing).
+
+
+Descent (script_fixtures/descent_rpg/descent_rpg_data_en.yaml)
+--------------------------------------------------------------
+
+- The riddles were adapted so they can be solved in English.
+  => Proofread them.
+
+
+Mindstorm & Archives game data (docs/_initial_game_data_dump.yaml)
+------------------------------------------------------------------
+
+- This file exists only in French, and is loaded whatever --lang is.
+  French text (official roles, static pages / long story passages, item descriptions, guest roles)
+  therefore shows up in English player sheets, guest gallery, lore introduction, phone appointments,
+  cheat sheet and manor surveillance reports.
+  => Create an English version (e.g. _initial_game_data_dump_en.yaml), loaded via load_localized_yaml_file.
