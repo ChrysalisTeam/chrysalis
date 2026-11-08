@@ -49,14 +49,13 @@ def generate_master_script():
     output_basename = "chrysalis_descent_master_script"
     print("Generating master file %s" % output_basename)
 
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
-    pdf_file = os.path.join(OUTPUT_DIR, output_basename + ".pdf")
-
-    rpg.convert_rst_file_to_pdf(MASTER_SCRIPT,
-                                pdf_file,
-                                conf_file=RST2PDF_CONF_FILE,
-                                extra_args=EXTRA_ARGS_FOR_MASTER_SCRIPT)
+    # the script is copied to the output folder, with the same processing as player sheets (eg. French typography)
+    filepath_base = os.path.join(OUTPUT_DIR, output_basename)
+    rpg.convert_rst_content_to_pdf(filepath_base,
+                                   rst_content=rpg.load_rst_file(MASTER_SCRIPT),
+                                   conf_file=RST2PDF_CONF_FILE,
+                                   extra_args=EXTRA_ARGS_FOR_MASTER_SCRIPT,
+                                   language=LANGUAGE)
 
 
 if __name__ == "__main__":
