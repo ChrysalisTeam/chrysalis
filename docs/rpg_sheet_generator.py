@@ -81,17 +81,26 @@ def load_yaml_file(yaml_file):
         return data
 
 
-SYMBOL_TAG_REGEX = r"""\{%-?\s*symbol\s+(['"])(.*?)\1\s+for\s+(['"])(.*?)\3\s*-?%\}"""
+JINJA_STRING_LITERAL_REGEX = r"""(?:"(?:\\.|[^"\\])*"|'(?:\\.|[^'\\])*')"""
+SYMBOL_TAG_REGEX = r"""\{%%\s*symbol\s+(?P<value>%s)\s+for\s+%s\s*%%\}""" % ((JINJA_STRING_LITERAL_REGEX,) * 2)
 
 
-def strip_symbol_tags(data):
-    """Replace {% symbol "value" for "name" %} tags by their bare value, recursively."""
+def _unescape_jinja_string_literal(literal):
+    return literal[1:-1].encode("ascii", "backslashreplace").decode("unicode-escape")  # like jinja2.lexer
+
+
+def force_resolve_symbol_tags(data):
+    """
+    Replace {% symbol "value" for "name" %} tags by their value, recursively, without registering them.
+    """
     if isinstance(data, str):
-        return re.sub(SYMBOL_TAG_REGEX, lambda m: m.group(2), data, flags=re.DOTALL)
+        data = re.sub(SYMBOL_TAG_REGEX, lambda m: _unescape_jinja_string_literal(m.group("value")), data)
+        assert not re.search(r"\{%[-+]?\s*symbol\b", data), data  # unsupported symbol tag syntax
+        return data
     if isinstance(data, dict):
-        return {k: strip_symbol_tags(v) for (k, v) in data.items()}
+        return {k: force_resolve_symbol_tags(v) for (k, v) in data.items()}
     if isinstance(data, (list, tuple)):
-        return type(data)(strip_symbol_tags(v) for v in data)
+        return type(data)(force_resolve_symbol_tags(v) for v in data)
     return data
 
 
@@ -99,14 +108,14 @@ def load_localized_yaml_file(yaml_file, language):
     """
     Load "<name>_<language>.yaml" if it exists, else the untranslated (French) "<name>.yaml".
 
-    In the latter case, for other languages, symbol tags are neutralized, since their
+    In the latter case, symbol tags are resolved without registration, since their
     values would clash with those of translated templates.
     """
     localized_yaml_file = localize_source_filename(yaml_file, language)
     if os.path.exists(localized_yaml_file):
         return load_yaml_file(localized_yaml_file)
     print("!!! No translated %s found, using untranslated data" % localized_yaml_file)
-    return strip_symbol_tags(load_yaml_file(yaml_file))
+    return force_resolve_symbol_tags(load_yaml_file(yaml_file))
 
 
 def load_rst_file(rst_file):
