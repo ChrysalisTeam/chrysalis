@@ -388,7 +388,7 @@ def generate_mindstorm_sheets():
 
     all_data = dict(standalone=IS_STANDALONE)
 
-    data = rpg.load_yaml_file(INITIAL_GAME_DATA_DUMP)
+    data = rpg.load_localized_yaml_file(INITIAL_GAME_DATA_DUMP, LANGUAGE)  # no translated dump exists for now
     all_data.update(data)  # TODO - replace that dump by source data, eventually
 
     all_data["available_anthropia_abilities"] = AVAILABLE_ANTHROPIA_ABILITIES

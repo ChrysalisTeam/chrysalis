@@ -403,7 +403,7 @@ def generate_archives_sheets():
 
     all_data = dict()
 
-    data = rpg.load_yaml_file(INITIAL_GAME_DATA_DUMP)
+    data = rpg.load_localized_yaml_file(INITIAL_GAME_DATA_DUMP, LANGUAGE)  # no translated dump exists for now
     all_data.update(data)
 
     murder_party_items_raw = rpg.load_localized_yaml_file(os.path.join(TEMPLATES_ROOT, "gamemaster_assets_checklist.yaml"), LANGUAGE)
