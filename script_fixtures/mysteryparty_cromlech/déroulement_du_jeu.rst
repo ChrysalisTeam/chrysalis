@@ -1,36 +1,20 @@
-Déroulement du jeu
-########################
+Déroulement du jeu - FICHE MJ
+#######################################
 
 
-Résumé bout-en-bout
-======================
+Briefing des FIGURANTS
+----------------------------
 
-Les principaux sujets d'enquête sont :
+**IMPORTANT :**
 
-- Que s'est-il passé ce matin ? Témoin principal : le Conservateur.
-- D'où viennent les artefacts antiques en réalité ? Témoin principal : le Guide.
-- Quel secret renferment ces artefacts ? Témoin principal : le Reporter.
-
-Les interrogatoires en rotation se déroulent ainsi :
-
-- L'inspecteur de police briefe les joueurs sur la situation et leur rôle, sur les services qu'il peut leur apporter, et leur fournit des documents initiaux.
-- Les 4 groupes de joueurs tournent, dans l'ordre, entre les 4 points d'intérêt, à raison de 15 minutes sur chacun ;
-- À chaque rotation, les joueurs reçoivent un complément d'enquête, permettant d'être en position de force lors de la rencontre suivante ;
-- L'inspecteur de police tourne entre les interrogatoires et y fait des interventions scriptées, afin d'ajouter du roleplay et des indices ;
-- Le spectre de druide intervient aussi ponctuellement, pour interpeller le Conservateur, ou faire des apartés illuminés avec l'un ou l'autre psyker ;
-
-Une fois la rotation complète finie, les joueurs sont dispersés en fonction de leur "rôle", auprès de différents figurants, pour concertation.
-
-Lorsque les phénomènes paranormaux s'amplifient, les deux camps en présence hèlent les joueurs, qui doivent choisir l'un ou l'autre.
-La fin du jeu, heureuse ou malheureuse, dépend du choix majoritaire des joueurs.
+- Expliquer l'apparence d'ANDREA, le Héros
+- Expliquer l'ordre de rotation des groupes de joueurs
+- Expliquer le GONG de fin d'interrogatoire
+- Expliquer où les amener entre chaque séance
 
 
-
-Déroulement détaillé du jeu
-======================================
-
-Briefing hors-jeu
----------------------
+Briefing des JOUEURS hors-jeu
+-------------------------------------
 
 **Mise en place des groupes de joueurs, par affinité.**
 
@@ -39,8 +23,15 @@ Briefing hors-jeu
 Le maître de jeu énonce les points importants :
 
 - En jeu, nous serons en **un jour de décembre 1900, à 12h30, dans un petit bâtiment du Vieux Lyon.**
+- Montrer le HORS-JEU forcé avec le **poing levé**
+- Dire de ne pas toucher aux **FICHES MJ/PNJ** hors-jeu !!
 - **Règles de sécurité** : pas de violence physique, on arrête une scène si elle devient intenable, et on prend soin du matériel (pas touche au CROMLECH).
 - **FAIRE DES PHOTOS**
+
+
+.. raw:: pdf
+
+    PageBreak
 
 
 Accueil par l'inspecteur de police
@@ -48,10 +39,11 @@ Accueil par l'inspecteur de police
 
 - "Le cabinet de notre président **Émile Loubet** a fait annoncer votre venue."
 - "Je suis honoré d'accueillir votre agence de **détectives du paranormal**, dont les mérites ne sont plus à démontrer."
-- "Cette affaire est nébuleuse, pour l'instant nous avons eu bruit de la **disparition d'un étudiant et d'une pièce de musée**, mais nous n'en savons pas plus."
-- "Nous allons donc vous laisser **interroger** à tour de rôle les témoins de cette affaire, et inspecter le trésor du musée"
+- "Cette affaire est nébuleuse, pour l'instant nous avons eu bruit de la **disparition d'un étudiant, Andrea, et d'une pièce de musée, un glaive antique**, mais nous n'en savons pas plus."
+- "Nous allons donc vous laisser **interroger** à tour de rôle les témoins de cette affaire, et inspecter le trésor du musée."
+- "Notez que nous avons déjà un phbnomène étrange, les **éclairages dysfonctionnent** depuis ce matin aux alentours du trésor.
 - "Je me tiens à votre disposition, entre chaque interrogatoire, si vous avez besoin de faire **vérifier des faits** par mes forces de police."
-- "Nous vous fournirons aussi des informations, au fur et à mesure, sur nos propres investigations."
+- "Nous vous fournirons aussi des **informations policières**, au fur et à mesure, sur nos propres investigations."
 - "Voici un **article de journal** sur cette étrange institution qu'est le Cromlech de Lyon."
 
 **ORDRE DE ROTATION : Guide, Reporter, Conservateur, puis enfin Trésor du musée**
@@ -172,6 +164,9 @@ Trésor : étude des artefacts et messages découverts, rien de nouveau n'est at
 
 Intervention du druide : Il passe voir les groupes de joueurs actuellement avec le Reporter et le Trésor ; à chaque fois, il appelle à lui, par gestes, le Psyker du groupe, et dit désormais (en français) qu'il y a bien une entité en gestation dans les artefacts, mais que c'est une divinité bénéfique, à protéger pour que l'héritage des druides ne soit pas perdu à jamais.
 
+.. raw:: pdf
+
+    PageBreak
 
 Conciliabules finaux
 -------------------------------------
@@ -204,6 +199,7 @@ Debriefing
 
 - Remercier les joueurs
 - Remercier les figurants
+- Remercier **Flavien** pour l'affiche et les illustrations du manuel
 - Remercier l'organisme qui nous accueille et son staff
 - Présenter l'association Chrysalis Forge et distribuer des **flyers**
 - Rappeler l'importance du LIVRE d'OR (commentaires à faire en ligne)
