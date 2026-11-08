@@ -151,6 +151,9 @@ def write_rst_file(rst_file, data, language=DEFAULT_LANGUAGE):
 
     full_rst = rebase_relative_image_paths(full_rst)
 
+    # BOMs of included templates break RST headings and inline markup in recent rst2pdf versions
+    full_rst = full_rst.replace("\ufeff", "")
+
     if language == "fr":
         # basic fixing of orphan punctuation marks for FR language...
         full_rst = (full_rst.replace(" !", u"\u00A0!")
