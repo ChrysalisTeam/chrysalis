@@ -27,7 +27,7 @@ Drappes, a captive, refuses food for several days and dies. Meanwhile, Lucterius
 
 [BR]
 
-.. image:: {{ project_dir }}images/carte_uxellodunum.png
+.. image:: {{ project_dir }}images/uxellodunum_map.png
     :align: center
     :width: 95%
 

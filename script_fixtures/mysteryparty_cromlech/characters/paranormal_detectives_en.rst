@@ -33,4 +33,4 @@ PSYCHISM
 INTIMIDATION
     The intimidator is able, once per interview with a witness, to strike a threatening pose, putting on a dark look and banging a fist on the table. They then ask ONE SINGLE question, which the interviewee will be psychologically compelled to answer truthfully; but that person can only answer YES, NO, or I DON'T KNOW; so a "closed" question is required.
 
-{% include "characters/_instructions_pour_tous_en.txt" %}
+{% include "characters/_instructions_for_everyone_en.txt" %}

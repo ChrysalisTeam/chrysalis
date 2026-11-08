@@ -41,4 +41,4 @@ This will be a way for them to give their energy to the divine entity, so that i
 {% xfact "le druide connait le signe des druides" as author %}
 
 
-{% include "characters/_instructions_pour_les_figurants_en.txt" %}
+{% include "characters/_instructions_for_npc_actors_en.txt" %}

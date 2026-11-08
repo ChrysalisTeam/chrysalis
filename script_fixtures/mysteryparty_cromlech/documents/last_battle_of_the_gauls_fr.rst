@@ -27,7 +27,7 @@ Drappès, captif, s'abstient de manger pendant plusieurs jours et périt. Dans l
 
 [BR]
 
-.. image:: {{ project_dir }}images/carte_uxellodunum.png
+.. image:: {{ project_dir }}images/uxellodunum_map.png
     :align: center
     :width: 95%
 

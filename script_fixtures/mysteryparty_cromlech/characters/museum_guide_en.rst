@@ -51,4 +51,4 @@ What you know about the Reporter
 <{ knowledge_of_cromlech_people_about_reporter }/>
 
 
-{% include "characters/_instructions_pour_les_figurants_en.txt" %}
+{% include "characters/_instructions_for_npc_actors_en.txt" %}

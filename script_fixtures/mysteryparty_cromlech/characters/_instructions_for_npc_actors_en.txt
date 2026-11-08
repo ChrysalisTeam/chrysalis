@@ -6,4 +6,4 @@ Only the Curator and the Druid can see/hear the manifestations of the supernatur
 If the players ask you about matters that are not covered in your character sheets, feel free to improvise. Either by saying you do not know, or by making up facts about your own story; but take care to memorise (or even write down) your answers, so as not to contradict yourself in a later interrogation.
 
 
-{% include "characters/_instructions_pour_tous_en.txt" %}
+{% include "characters/_instructions_for_everyone_en.txt" %}

@@ -41,4 +41,4 @@ Ce sera une façon pour eux de donner leur énergie à l'entité divine, afin qu
 {% xfact "le druide connait le signe des druides" as author %}
 
 
-{% include "characters/_instructions_pour_les_figurants_fr.txt" %}
+{% include "characters/_instructions_for_npc_actors_fr.txt" %}

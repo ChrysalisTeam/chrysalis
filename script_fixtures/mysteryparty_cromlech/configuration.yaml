@@ -31,7 +31,7 @@
 
 "document_generation":
   "indices_du_jeu":
-    "document_source": "documents/indices_du_jeu.odt"
+    "document_source": "documents/game_clues.odt"
     "document_splitting":
       - ["symboles_de_mythologie_gauloise", 1]
       - ["lettre_medievale_sur_runes_du_cromlech", 1]
@@ -46,7 +46,7 @@
         "rst2pdf_extra_args": "--stylesheets=layout_large_fonts,with_cover_and_background"
       "full_sheet": "gamemaster_manual_fr.rst"
     "déroulement_du_jeu":
-      "full_sheet": "déroulement_du_jeu_fr.rst"
+      "full_sheet": "game_flow_fr.rst"
 
   "groups":
 
@@ -56,35 +56,35 @@
       "sheets":
         "conservateur_du_musee":
           "full_sheet":
-            - "characters/conservateur_du_musee_fr.rst"
+            - "characters/museum_curator_fr.rst"
         "guide_du_musee":
           "full_sheet":
-            - "characters/guide_du_musee_fr.rst"
+            - "characters/museum_guide_fr.rst"
         "etudiant_reporter":
           "full_sheet":
-            - "characters/etudiant_reporter_fr.rst"
+            - "characters/student_reporter_fr.rst"
         "spectre_du_druide":
           "full_sheet":
-            - "characters/spectre_du_druide_fr.rst"
+            - "characters/druid_spectre_fr.rst"
 
     "playable_characters":
       "sheets":
         "detectives_du_paranormal":
           "full_sheet":
-            - "characters/detectives_du_paranormal_fr.rst"
+            - "characters/paranormal_detectives_fr.rst"
 
     "informations":
       "variables": {}
       "sheets":
         "rapports_de_police":
           "full_sheet":
-            - "documents/rapports_de_police_fr.rst"
+            - "documents/police_reports_fr.rst"
         "derniere_bataille_des_gaulois":
           "full_sheet":
-            - "documents/derniere_bataille_des_gaulois_fr.rst"
+            - "documents/last_battle_of_the_gauls_fr.rst"
         "article_sur_le_cromlech_lyonnais":
           "full_sheet":
-            - "documents/article_sur_le_cromlech_lyonnais_fr.rst"
+            - "documents/article_about_the_cromlech_of_lyon_fr.rst"
         "description_des_artefacts_antiques":
           "full_sheet":
-            - "documents/description_des_artefacts_antiques_fr.rst"
+            - "documents/ancient_artefacts_description_fr.rst"

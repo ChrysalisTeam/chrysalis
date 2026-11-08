@@ -45,4 +45,4 @@ Recently, he started wearing a **signet ring** with old Celtic symbols. You had 
   {% xfact "le guide a désormais une chevalière à la main" %} {% xfact "le reporter sait à quoi sert la chevalière du guide" as author %} {% xitem "chevalière pour le guide" is needed %}
 
 
-{% include "characters/_instructions_pour_les_figurants_en.txt" %}
+{% include "characters/_instructions_for_npc_actors_en.txt" %}
