@@ -114,23 +114,21 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
     """
     Export the whole ODT document to PDF once, then split it into one PDF per clue.
 
-    Other PDFs of output_dir are removed first, so that no obsolete clue remains: other documents
-    of this folder must thus be generated afterwards.
+    Clue PDFs of output_dir are removed first, so that no clue of a failed export remains.
 
     IMPORTANT - GAMEMASTER COMMENTS of the document must not be exported.
     """
     from pypdf import PdfReader, PdfWriter
 
-    for filename in os.listdir(output_dir):
-        if filename.endswith(".pdf"):
-            os.remove(os.path.join(output_dir, filename))
-
     full_pdf = os.path.join(output_dir, "_all_ingame_clues.pdf")
+    for filepath in [full_pdf] + [os.path.join(output_dir, basename + ".pdf") for (basename, _count) in clues_parts if basename]:
+        if os.path.exists(filepath):
+            os.remove(filepath)
+
     cmd = [sys.executable, "unoconv.py", "-f", "pdf", "-o", full_pdf, "-e", "ExportNotes=false", input_doc]
     print(cmd)
-    subprocess.run(cmd, check=True)
-
     try:
+        subprocess.run(cmd, check=True)
         reader = PdfReader(full_pdf)
         if any(annot.get_object()["/Subtype"] == "/Text" for page in reader.pages for annot in page.get("/Annots", [])):
             raise RuntimeError("Gamemaster comments were exported to %s" % full_pdf)
@@ -149,7 +147,8 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
             writer.write(os.path.join(output_dir, basename + ".pdf"))
             current_page += pages_count
     finally:
-        os.remove(full_pdf)
+        if os.path.exists(full_pdf):
+            os.remove(full_pdf)
 
 
 
