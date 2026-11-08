@@ -6,8 +6,7 @@
 
 Votre enquête piétinait depuis quelques jours, et vous en étiez à chercher querelle à votre collègue à propos de rien - juste pour animer cet appartement trop petit pour deux - quand Loyd Georges vous propose un entretien en tête-à-tête, annonçant avoir des "informations importantes" à vous communiquer.
 
-**Vous vous rendez donc à cette entrevue pour {% symbol "
-16h" for "lg_meeting_time_for_spinel" %}, plein d'espoir.**
+**Vous vous rendez donc à cette entrevue pour {% symbol "16h" for "lg_meeting_time_for_spinel" %}, plein d'espoir.**
 
 <{ arrival_at_manor_with_butler }/>
 

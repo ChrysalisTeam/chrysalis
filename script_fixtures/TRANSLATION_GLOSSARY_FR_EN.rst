@@ -1828,6 +1828,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Cazoar / Sablima (métropoles)
      - Cazoar / Sablima
      - Sabarith consulate metropolises; verbatim.
+   * - Cazoar / Salima (métropoles)
+     - Cazoar / Salima
+     - Sabarith consulate metropolises.
    * - Central Téléphonique
      - Telephone Exchange
      - Anthropia feature.
@@ -2632,9 +2635,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Passif judiciaire (Votre)
      - Your criminal record
      - Sheet title.
-   * - patriarche akarite de Gheck / Ghek
+   * - patriarche akarite de Ghek
      - Akarith patriarch of Ghek
-     - Generic office: lowercase "the patriarch of Ghek". FR source spells it "Gheck" once (amethyst standalone); normalised to "Ghek" as in the data key ``amethyst_wiretaps_ghek_patriarch``.
+     - Generic office: lowercase "the patriarch of Ghek". The FR typo "Gheck" (amethyst standalone) was fixed; "Ghek" matches the data key ``amethyst_wiretaps_ghek_patriarch``.
    * - Pénalités (judiciaires)
      - (Judicial) penalties
      - Mechanic.
@@ -2808,7 +2811,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - The sanctum of the Temple of Nazur (Nazur mission briefing), the same place as the Descent "Saint des Saints": capitalised as a place name. A figurative use stays lowercase (Archives GM manual "ce saint-des-saints" = "this holy of holies", said of the Forbidden Domain).
    * - Salima / salimien / Voisine Salimienne
      - Salima / Salimian / Salimian Neighbour
-     - City. The FR "Sablima" in sabarith_triumvirate is a source typo (author decision): the EN keeps "Sablima" as long as the FR does.
+     - City. The former FR typo "Sablima" in sabarith_triumvirate was fixed in both FR and EN.
    * - Sas / Sas métallique / détecteur de haute technologie
      - airlock / metal airlock / high-tech detector
      - Manor entrance.

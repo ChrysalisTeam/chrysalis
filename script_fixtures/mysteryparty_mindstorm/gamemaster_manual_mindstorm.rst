@@ -453,7 +453,7 @@ La protection de Khaal
 
 Les dialogues enregistrés entre Opal et Lydia, la lettre d'Emilos Loakim volée par Amethyst, et un spot radio inquiétant, pointent du doigt que le fils de la familel Magnus est en danger.
 
-Lyia et Opal doivent le faire sortir au plus vite de la thalassothérapie du mont brumeux.
+Lydia et Opal doivent le faire sortir au plus vite de la thalassothérapie du mont brumeux.
 
 Une attaque de plusieurs factins (akarites, et mercenaires de {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}) finit par y survenir. {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %} cherche en effet à récupérer le manoir de Loyd Georges depuis toujours, et il compte pour cela sur un vil chantage. {% fact "lord_mac_jolt_wants_to_blackmail_lg_via_khaal" %}
 
