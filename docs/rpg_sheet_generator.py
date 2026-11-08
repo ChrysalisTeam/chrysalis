@@ -222,6 +222,7 @@ class StoryChecksExtension(Extension):
 
     Similarly, a tag {% symbol "value" for "name" %} ensures unicity of a value amongst
     different text files, and encountered values are exposed in jinja_env.symbols_registry.
+    Rendering with a False "register_symbols" context variable outputs values without registering them.
 
     Last but not least, a tag {% hint "letter_from_x" is [needed/provided] %} exposes values in
     jinja_env.hints_registry, to check that hints required to solve enigmas are well listed in
@@ -347,8 +348,9 @@ class StoryChecksExtension(Extension):
 
     def _symbol_processing(self, symbol_name, symbol_value, context):
         assert symbol_name, (symbol_name, symbol_value)
-        symbols_list = self.symbols_registry.setdefault(symbol_name, set())
-        symbols_list.add(symbol_value)
+        if context.get("register_symbols", True):
+            symbols_list = self.symbols_registry.setdefault(symbol_name, set())
+            symbols_list.add(symbol_value)
         return symbol_value  # output the symbol itself
 
     def _hint_processing(self, hint_name, hint_status, context):
