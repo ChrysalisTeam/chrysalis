@@ -28,18 +28,7 @@ def analyze_and_normalize_game_items(game_items_raw, important_marker: str):
 
 
 
-def page_breaker(jinja_context):  # FIXME unused?
-    return textwrap.dedent(
-        """
-        
-        .. raw:: pdf
-        
-           PageBreak   
-           
-        """)
-
-
-def spacer(jinja_context):  # FIXME unused?
+def spacer(jinja_context):
     return textwrap.dedent(
         """
         
@@ -54,24 +43,12 @@ def _ensure_intial_game_data_dump_is_present(initial_game_data_dump_file):
     if not os.path.exists(initial_game_data_dump_file):
 
         # WORKAROUND FOR DEV ENV SETUP
-        os.environ["DJANGO_SETTINGS_MODULE"] = settings_module = \
+        os.environ["DJANGO_SETTINGS_MODULE"] = \
             "pychronia_game.tests.persistent_mode_settings"  # with DB not in temp dir
 
         from pychronia_game.scripts import dump_initial_game_yaml;
         dump_initial_game_yaml.execute(initial_game_data_dump_file)
 
-
-
-def _extract_ingame_clues_text_from_docx(clues_file):
-    """
-    Extract texts and comments from Office DOCX file.
-
-    # THIS SEEMS UNUSED #
-    """
-    import docx2txt
-    # we may also use "img_dir" parameter to write images in /tmp/img_dir
-    text = docx2txt.process(clues_file)
-    return text
 
 
 def _extract_ingame_clues_text_from_odt(clues_file):

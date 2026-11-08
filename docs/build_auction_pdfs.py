@@ -19,7 +19,6 @@ TEMP_DIR = os.path.join("output_auction", LANGUAGE)
 
 if not os.path.exists(YAML_FILE):
     sys.exit("No gamemaster manual is available for language %r (missing %s)" % (LANGUAGE, YAML_FILE))
-PDFTK_EXE = r'''C:\Program Files (x86)\pdftk4all\pdftk.exe'''
 
 EXTRA_ARGS = "--stylesheets=shiny"
 RST2PDF_CONF_FILE = "./rst2pdf.conf"
@@ -52,7 +51,7 @@ def unlink_unknown_rst_targets(rst_file):
         f.write(rst_content)
 
 
-def generate_manual(sections, output_file_template, remove_second_page, unlink_unknown_targets=False):
+def generate_manual(sections, output_file_template, unlink_unknown_targets=False):
     all_data = rpg.load_yaml_file(YAML_FILE)
     data = all_data["gamemaster_manual"]
 
@@ -65,38 +64,19 @@ def generate_manual(sections, output_file_template, remove_second_page, unlink_u
     if unlink_unknown_targets:
         unlink_unknown_rst_targets(rst_file)
 
-    pdf_file = os.path.join(TEMP_DIR, (output_file_template % version) + ".pdf.tmp")
+    pdf_file = os.path.join(TEMP_DIR, (output_file_template % version) + ".pdf")
 
     rpg.convert_rst_file_to_pdf(rst_file, pdf_file,
                                 conf_file=RST2PDF_CONF_FILE,
                                 extra_args=EXTRA_ARGS)
 
-    pdf_file_improved = pdf_file[:-4]  # without ".tmp"
-
-    if remove_second_page:
-        # you can use a printer like cutePdf to print pages 1, 3-41 of the manual and thus remove the nasty blank page, or just use this:
-        if os.path.isfile(PDFTK_EXE):
-
-            # this is buggy if multiple '"' in command line...
-            cmd = ''' "%s" %s cat 1 3-end output %s dont_ask ''' % (PDFTK_EXE, pdf_file, pdf_file_improved)
-            os.system(cmd)
-        else:
-            print(
-                "WARNING, couldn't remove blank pdf pages from '%s' using pdftk.exe, please do it manually" % pdf_file)
-    else:
-        if os.path.exists(pdf_file_improved):
-            os.remove(pdf_file_improved)
-        os.rename(pdf_file, pdf_file_improved)
-
 
 generate_manual(["pdf_prefix", "public_content", "spoiler_content"],
-                output_file_template="chrysalis_auction_gamemaster_manual_%s_full",
-                remove_second_page=False)
+                output_file_template="chrysalis_auction_gamemaster_manual_%s_full")
 
 # Some RST links are broken in this extract, since it lacks some sections, so we unlink them
 generate_manual(["pdf_prefix", "public_content", "truncation_message"],
                 output_file_template="chrysalis_auction_gamemaster_manual_%s_extract",
-                remove_second_page=False,
                 unlink_unknown_targets=True)
 
 print("Script Over")

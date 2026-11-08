@@ -3,7 +3,6 @@ from __future__ import print_function, unicode_literals
 
 import os
 import re
-from pprint import pprint
 
 import rpg_sheet_generator as rpg
 import sys
@@ -379,7 +378,7 @@ def build_archives_pdf(parts, filename_base, title,
         # Ignore with_decoration!
         extra_args = BIG_FONT_EXTRA_PARAMS
     else:
-        extra_args = extra_args = DECORATIONS_EXTRA_ARGS if with_decorations else STANDARD_EXTRA_ARGS
+        extra_args = DECORATIONS_EXTRA_ARGS if with_decorations else STANDARD_EXTRA_ARGS
 
     return build_mysteryparty_pdf(
         parts=parts,
@@ -597,21 +596,6 @@ def generate_archives_sheets():
             build_archives_pdf(parts, filename_base="player_%s_sheet_full" % player,
                                title="%s" % character_displayed_name, jinja_context=player_data)
 
-    # then character cheat sheets - USELESS HERE????
-    if False:
-        for player in sorted(player_names_set_no_shark):
-            parts = ["players/%(player_name)s_cheat_sheet.rst" % dict(player_name=player),
-                     "players/%(player_name)s_specific_abilities.rst" % dict(player_name=player),
-                     "common_anthropia_account_summary_displayer.rst",
-                     # nested in the same "specific abilities" chapter
-                     "common_cheat_sheet_footer.rst"]
-            player_data = _get_player_context(player)
-            player_data["is_cheat_sheet"] = True
-            build_archives_pdf(parts,
-                               filename_base="player_%s_cheat_sheet" % player,
-                               title=None,
-                               with_decorations=False,
-                               jinja_context=player_data)
     # -------------
 
     # then resolve fact/hint tags from the ODT clues file

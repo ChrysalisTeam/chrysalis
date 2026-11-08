@@ -2,13 +2,10 @@
 from __future__ import print_function, unicode_literals
 
 import os
-import re
 import rpg_sheet_generator as rpg
 import sys
 import textwrap
-import time
 from collections import OrderedDict
-from pprint import pprint
 
 from mysteryparty_common_utils import _generate_clues_pdfs_from_main_odt_document, _send_character_sheets_via_email, \
     _register_story_tags_from_clues_document, _ensure_intial_game_data_dump_is_present, build_mysteryparty_pdf, spacer, \
@@ -120,6 +117,11 @@ Enjoy your reading!
 Best regards,
 The Organisers
 """,
+)[LANGUAGE]
+
+EMAIL_SUBJECT = dict(
+    fr="Soirée Mystère Mindstorm - votre fiche de joueur pour %s",
+    en="Mindstorm Mystery Evening - your player sheet for %s",
 )[LANGUAGE]
 
 GAMEMASTER_MANUAL_PARTS = [
@@ -451,24 +453,26 @@ def generate_mindstorm_sheets():
 
     # -------------
 
-    if False:  # BEWARE DANGEROUS
-        FIXME # Setup initial template email
+    if False:  # BEWARE DANGEROUS EMAIL SENDING
         default_player_attachments = [
                                          os.path.join(MAIN_OUTPUT_DIR, "common_lore_introduction.pdf"),
                                          os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_cheat_sheet.pdf"),
                                          os.path.join(MAIN_OUTPUT_DIR, "player_%(player)s_sheet_full.pdf"),
                                      ]
         _common_params = dict(all_data=all_data,
-                             player_names=player_names_set_no_shark,
-                             default_player_attachments=default_player_attachments)
+                              player_names=player_names_set_no_shark,
+                              subject=EMAIL_SUBJECT,
+                              email_template=PLAYER_INITIAL_EMAIL_TEXT,
+                              default_email_attachments=default_player_attachments)
 
         print("----------FAKE--------------")
         _send_character_sheets_via_email(dry_run=True, **_common_params)  # ensure everything seems in place
         if False:
             print("----------REAL--------------")
-            XXXXXXXXXXXXXXXXX
-            _send_character_sheets_via_email(all_data=all_data, player_names=player_names_set_no_shark, dry_run=False)  # REALLY send stuffs
-        STOP  # only do that
+            _send_character_sheets_via_email(dry_run=False, **_common_params)  # REALLY send stuffs
+
+        print(">> STOPPING AFTER SUCCESSFUL EMAIL TREATMENT <<")
+        sys.exit()  # only do that, always
 
     # -------------
 

@@ -594,7 +594,7 @@ class Options:
                 l = arg.split('=')
                 if len(l) == 2:
                     (name, value) = l
-                    if name in ('FilterOptions'):
+                    if name == 'FilterOptions':
                         self.exportfilteroptions = value
                     elif value in ('True', 'true'):
                         self.exportfilter.append( PropertyValue( name, 0, True, 0 ) )
@@ -616,7 +616,7 @@ class Options:
                 l = arg.split('=')
                 if len(l) == 2:
                     (name, value) = l
-                    if name in ('FilterOptions'):
+                    if name == 'FilterOptions':
                         self.importfilteroptions = value
                     elif value in ('True', 'true'):
                         self.importfilter.append( PropertyValue( name, 0, True, 0 ) )
