@@ -40,16 +40,22 @@ def parse_build_arguments(with_clues_option=False):
     """
     Read the options of the build script command line.
 
-    Unknown arguments are only tolerated under pytest, which has its own command line.
+    Under pytest, which has its own command line, options are read from the CHRYSALIS_LANG
+    and CHRYSALIS_WITH_CLUES (set to "1") environment variables instead.
     """
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description="Generate the RST and PDF documents of a game, from French script fixtures (unsuffixed or '_fr' "
+                    "files) or English ones ('_en' files), into the 'output_<game>/<language>/' folder.")
     parser.add_argument("--lang", choices=SUPPORTED_LANGUAGES, default=DEFAULT_LANGUAGE,
                         help="Language of the script fixtures to use, and of the generated documents")
     if with_clues_option:
         parser.add_argument("--with-clues", action="store_true",
                             help="Also export the ingame clues ODT document into one PDF per clue (slow, requires LibreOffice)")
     if "pytest" in sys.modules:
-        return parser.parse_known_args()[0]
+        argv = ["--lang", os.environ.get("CHRYSALIS_LANG", DEFAULT_LANGUAGE)]
+        if with_clues_option and os.environ.get("CHRYSALIS_WITH_CLUES") == "1":
+            argv.append("--with-clues")
+        return parser.parse_args(argv)
     return parser.parse_args()
 
 
