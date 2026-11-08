@@ -24,8 +24,7 @@ DISABLE_DECORATIONS = False
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_archives")
 TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
 ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_archives.odt")  # French, also source of fact tags
-LOCALIZED_CLUES_DOCUMENT = (ALL_CLUES_DOCUMENT if LANGUAGE == "fr" else
-                            os.path.join(TEMPLATES_ROOT, "miscellaneous", rpg.localize_filename("ingame_clues_archives.odt", LANGUAGE)))
+LOCALIZED_CLUES_DOCUMENT = rpg.localize_source_filename(ALL_CLUES_DOCUMENT, LANGUAGE)
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"

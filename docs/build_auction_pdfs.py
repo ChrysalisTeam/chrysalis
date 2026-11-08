@@ -13,8 +13,7 @@ LANGUAGE = rpg.get_build_language()  # use "--lang en" on command line for Engli
 
 DOC_DIR = os.path.dirname(os.path.abspath(__file__))
 # The French manual is also loaded by the Pychronia game, so it keeps its unsuffixed name
-YAML_FILE = ("../script_fixtures/gamemaster_manual.yaml" if LANGUAGE == "fr" else
-             rpg.localize_filename("../script_fixtures/gamemaster_manual.yaml", LANGUAGE))
+YAML_FILE = rpg.localize_source_filename("../script_fixtures/gamemaster_manual.yaml", LANGUAGE)
 TEMP_DIR = os.path.join("output_auction", LANGUAGE)
 
 if not os.path.exists(YAML_FILE):

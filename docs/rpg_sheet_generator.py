@@ -52,6 +52,14 @@ def localize_filename(filename, language):
     return "%s_%s%s" % (base, language, ext)
 
 
+def localize_source_filename(filename, language):
+    """
+    Some French sources (YAML loaded by the Pychronia game, ODT clues...) keep their unsuffixed name,
+    while their translations are named "<name>_<language>.<ext>".
+    """
+    return filename if language == DEFAULT_LANGUAGE else localize_filename(filename, language)
+
+
 def rebase_relative_image_paths(rst_content, extra_levels=1):
     """
     Image paths in RST are relative to the generated RST file, so when these files are
@@ -93,14 +101,11 @@ def load_localized_yaml_file(yaml_file, language):
     In the latter case, for other languages, symbol tags are neutralized, since their
     values would clash with those of translated templates.
     """
-    localized_yaml_file = localize_filename(yaml_file, language)
+    localized_yaml_file = localize_source_filename(yaml_file, language)
     if os.path.exists(localized_yaml_file):
         return load_yaml_file(localized_yaml_file)
-    data = load_yaml_file(yaml_file)
-    if language != "fr":
-        print("!!! No translated %s found, using untranslated data" % localized_yaml_file)
-        data = _strip_symbol_tags(data)
-    return data
+    print("!!! No translated %s found, using untranslated data" % localized_yaml_file)
+    return _strip_symbol_tags(load_yaml_file(yaml_file))
 
 
 def load_rst_file(rst_file):
