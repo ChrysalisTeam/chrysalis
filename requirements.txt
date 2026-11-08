@@ -6,3 +6,4 @@ docx2txt==0.9
 rst2pdf==0.105
 reportlab==4.5.1
 markupsafe==3.0.4
+pypdf==7.0.0

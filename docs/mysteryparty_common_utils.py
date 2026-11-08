@@ -1,4 +1,4 @@
-import textwrap, os, re, subprocess, sys
+import textwrap, os, subprocess, sys
 import time
 
 
@@ -85,28 +85,31 @@ def _extract_ingame_clues_text_from_odt(clues_file):
 
 
 def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_dir):
-    current_page = 1
-    for idx, (basename, pages_count) in enumerate(clues_parts):
-        prefix = ""  # or ("%02d_" % idx) if debugging needed
-        output_pdf = os.path.join(output_dir, prefix + basename + ".pdf")
-        page_range = '%s-%s' % (current_page, current_page + pages_count - 1)
-        cmd = [sys.executable, "unoconv.py", "-f", "pdf", "-o", output_pdf, "-e", "PageRange=" + page_range, input_doc]
-        print(cmd)
-        res = subprocess.call(cmd)
-        assert res == 0, "Error when calling unoconv"
+    """
+    Export the whole ODT document to PDF once, then split it into one PDF per clue.
 
-        # IMPORTANT - remove GAMEMASTER ANNOTATIONS from PDF file
-        # BEWARE, this seems to CORRUPT a bit the PDF, find a better REGEX someday
-        with open(output_pdf, 'rb') as f:
-            data = f.read()
-        assert b'Annots' in data  # all clues have annotations regarding their purposes
-        regex = br'/Annots\s*\[[^]]+\]'
-        data = re.sub(regex, b'', data, flags=re.MULTILINE)
-        assert b'Annots' not in data  # no more clues VISIBLE (but still present in sources alas)
-        with open(output_pdf, 'wb') as f:
-            f.write(data)
+    IMPORTANT - GAMEMASTER COMMENTS of the document must not be exported.
+    """
+    from pypdf import PdfReader, PdfWriter
 
+    full_pdf = os.path.join(output_dir, "_all_ingame_clues.pdf")
+    cmd = [sys.executable, "unoconv.py", "-f", "pdf", "-o", full_pdf, "-e", "ExportNotes=false", input_doc]
+    print(cmd)
+    res = subprocess.call(cmd)
+    assert res == 0, "Error when calling unoconv"
+
+    reader = PdfReader(full_pdf)
+    assert not any(annot.get_object()["/Subtype"] == "/Text"
+                   for page in reader.pages for annot in page.get("/Annots", [])), full_pdf  # no comment left
+    current_page = 0
+    for basename, pages_count in clues_parts:
+        writer = PdfWriter()
+        for page in reader.pages[current_page:current_page + pages_count]:
+            writer.add_page(page)
+        writer.write(os.path.join(output_dir, basename + ".pdf"))
         current_page += pages_count
+
+    os.remove(full_pdf)
 
 
 
