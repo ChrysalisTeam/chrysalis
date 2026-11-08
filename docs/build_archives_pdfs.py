@@ -618,7 +618,10 @@ def generate_archives_sheets():
 
         # no need for variables nor rendered output, we just fill fact-check registries
         # (symbol values of this French document would clash with those of other languages)
-        rpg.register_story_tags_from_content(content, jinja_env=jinja_env, register_symbols=(LANGUAGE == "fr"))
+        rpg.render_with_jinja_and_fact_tags(
+            content=content if LANGUAGE == "fr" else rpg.strip_symbol_tags(content),
+            jinja_env=jinja_env,
+            jinja_context={})
 
     # -------------
 

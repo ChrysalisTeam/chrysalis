@@ -3,7 +3,6 @@ from __future__ import print_function, unicode_literals
 
 import logging
 
-import copy
 import argparse
 import functools
 import jinja2
@@ -83,14 +82,14 @@ def load_yaml_file(yaml_file):
 SYMBOL_TAG_REGEX = r"""\{%-?\s*symbol\s+(['"])(.*?)\1\s+for\s+(['"])(.*?)\3\s*-?%\}"""
 
 
-def _strip_symbol_tags(data):
+def strip_symbol_tags(data):
     """Replace {% symbol "value" for "name" %} tags by their bare value, recursively."""
     if isinstance(data, str):
         return re.sub(SYMBOL_TAG_REGEX, lambda m: m.group(2), data, flags=re.DOTALL)
     if isinstance(data, dict):
-        return {k: _strip_symbol_tags(v) for (k, v) in data.items()}
+        return {k: strip_symbol_tags(v) for (k, v) in data.items()}
     if isinstance(data, (list, tuple)):
-        return type(data)(_strip_symbol_tags(v) for v in data)
+        return type(data)(strip_symbol_tags(v) for v in data)
     return data
 
 
@@ -105,7 +104,7 @@ def load_localized_yaml_file(yaml_file, language):
     if os.path.exists(localized_yaml_file):
         return load_yaml_file(localized_yaml_file)
     print("!!! No translated %s found, using untranslated data" % localized_yaml_file)
-    return _strip_symbol_tags(load_yaml_file(yaml_file))
+    return strip_symbol_tags(load_yaml_file(yaml_file))
 
 
 def load_rst_file(rst_file):
@@ -200,19 +199,6 @@ def render_with_jinja_and_fact_tags(content, jinja_env, jinja_context):
     output_tagged = template.render(jinja_context)
     output = jinja_env.extract_facts_from_intermediate_markup(output_tagged)  # must exist
     return output
-
-
-def register_story_tags_from_content(content, jinja_env, register_symbols=True):
-    """
-    Only fill fact/symbol/hint registries from content, without caring about the rendered output.
-
-    Symbol values are texts, so they must not be registered from a document in another language.
-    """
-    saved_symbols_registry = copy.deepcopy(jinja_env.symbols_registry)
-    render_with_jinja_and_fact_tags(content=content, jinja_env=jinja_env, jinja_context={})
-    if not register_symbols:
-        jinja_env.symbols_registry.clear()  # same dict instance as in StoryChecksExtension
-        jinja_env.symbols_registry.update(saved_symbols_registry)
 
 
 MARKER_FORMAT = r'{#>%(fact_name)s|%(as_what)s|%(player_id)s|%(is_cheat_sheet)s<#}'
