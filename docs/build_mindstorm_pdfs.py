@@ -400,7 +400,12 @@ def generate_mindstorm_sheets():
 
     # BEWARE - sensitive data specific to a murder party game
     data = rpg.load_yaml_file("../script_fixtures/local.yaml")  # must exist, see local.yaml.example
+    local_character_overrides = data.pop("_CHARACTER_OVERRIDES_", None) or {}
+    data.pop("_NPC_OVERRIDES_", None)  # only used by other games
     all_data.update(data)
+    for k, v in local_character_overrides.items():
+        if k in all_data["character_properties"]:  # local.yaml may also contain characters of other games
+            all_data["character_properties"][k].update(v)  # Override real names and emails
 
     player_names = sorted([k for (k, v) in all_data["character_properties"].items()
                             if not v["is_npc"] and k not in EXCLUDED_CHARACTERS])

@@ -12,7 +12,23 @@ smtp_conf:
   password: ""
 
 
+# Real names and emails of participants, per character; this file can hold the characters of both games
 _CHARACTER_OVERRIDES_:
+  # Mindstorm
+  amethyst: {"real_life_email": "", "real_life_identity": ""}
+  cynthia: {"real_life_email": "", "real_life_identity": ""}
+  garnet: {"real_life_email": "", "real_life_identity": ""}
+  lydia: {"real_life_email": "", "real_life_identity": ""}
+  malachite: {"real_life_email": "", "real_life_identity": ""}
+  obsidian: {"real_life_email": "", "real_life_identity": ""}
+  opal: {"real_life_email": "", "real_life_identity": ""}
+  peridot: {"real_life_email": "", "real_life_identity": ""}
+  spinel: {"real_life_email": "", "real_life_identity": ""}
+  topaz: {"real_life_email": "", "real_life_identity": ""}
+  waden: {"real_life_email": "", "real_life_identity": ""}
+  shark: {"real_life_email": "", "real_life_identity": ""}
+
+  # Archives
   diakon_dispeller: {"real_life_email": "", "real_life_identity": ""}
   diakon_exorcist: {"real_life_email": "", "real_life_identity": ""}
   diakon_invoker: {"real_life_email": "", "real_life_identity": ""}
