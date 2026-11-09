@@ -291,9 +291,7 @@ class OpenDocumentTextFile :
         buffer = u""
 
 
-        paragraphs = [el for el in text.childNodes
-                      if el.tagName in ["text:p", "text:h",
-                                        "text:list"]]
+        paragraphs = self._findBlockElements(text)
 
         for paragraph in paragraphs :
             if paragraph.tagName == "text:list" :
@@ -311,6 +309,22 @@ class OpenDocumentTextFile :
 
 
         return self.compressCodeBlocks(buffer)
+
+    # containers whose paragraphs must be extracted too
+    CONTAINER_TAGS = ("text:section", "table:table", "table:table-header-rows", "table:table-rows",
+                      "table:table-row", "table:table-cell")
+
+    def _findBlockElements(self, element) :
+        """ Returns paragraphs, headings and lists of element, including those nested in sections and tables. """
+        blocks = []
+        for el in element.childNodes :
+            if el.nodeType != xml.dom.Node.ELEMENT_NODE :
+                continue
+            if el.tagName in ("text:p", "text:h", "text:list") :
+                blocks.append(el)
+            elif el.tagName in self.CONTAINER_TAGS :
+                blocks.extend(self._findBlockElements(el))
+        return blocks
 
     def textToString(self, element) :
 
@@ -336,7 +350,7 @@ class OpenDocumentTextFile :
 
                     #print styleName, str(style)
 
-                    if style.fixed :
+                    if style and style.fixed :
                         buffer += "`" + text + "`"
                         continue
                     
