@@ -597,16 +597,16 @@ In practice: the possible cases during the game
 
 A player can be harmed in the following cases:
 
-- If he is touched by a phantom in disembodied phase (in spectral wandering): **sacred injury**. If he is attacked at length by the phantom Beast, or stands in a phantom's way instead of fleeing, it ends up killing him. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
+- If they are touched by a phantom in disembodied phase (in spectral wandering): **sacred injury**. If they are attacked at length by the phantom Beast, or stand in a phantom's way instead of fleeing, it ends up killing them. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
-- If he touches a cursed object, such as a sounding skull or the bones that go with it {% fact "cursed_skull_and_bones_give_sacred_injuries" %}: **biological injury**. A pentacle, for its part, is NOT dangerous, except during a ritual. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- If they touch a cursed object, such as a sounding skull or the bones that go with it {% fact "cursed_skull_and_bones_give_sacred_injuries" %}: **biological injury**. A pentacle, for its part, is NOT dangerous, except during a ritual. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
-- If he sets off a physical or magical trap, that is to say knocks a **jingle bell** to the floor (e.g. a thread stretched across an aisle) or triggers the chirp of a presence-detecting **cicada** (e.g. by opening a chest): **biological injury**.
+- If they set off a physical or magical trap, that is to say knock a **jingle bell** to the floor (e.g. a thread stretched across an aisle) or trigger the chirp of a presence-detecting **cicada** (e.g. by opening a chest): **biological injury**.
  {% fact "cicada_or_minibell_sound_mean_injury" %}
 
-- If he enters the tomb of the {% symbol "Magus Mos Peratys" for "maupertuis_dynasty_founder" %} without being a Parcival heir, and is touched by the Magus's mummy: **death**. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
+- If they enter the tomb of the {% symbol "Magus Mos Peratys" for "maupertuis_dynasty_founder" %} without being a Parcival heir, and are touched by the Magus's mummy: **death**. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
-- If he drinks a dangerous potion, or is hit by an enemy spell, etc.: **biological injury**.
+- If they drink a dangerous potion, or are hit by an enemy spell, etc.: **biological injury**.
 
 **Injuries translate into a penalty at the GM's discretion, depending on the situation: losing a limb or just the use of it, becoming mute, losing one's memory, becoming breathless and unable to run (in case of poisoning), or no longer being able to use certain abilities...**
 
@@ -954,7 +954,7 @@ The various jewels:
 
 Entering the right symbols into the singing grimoire triggers a victory melody, and one must then simulate that the mill, when turned, produces a batch of gems; limited in number per day (one batch every X hours), but sufficient for the secret agents' quest. {% hint 'jewels_set_for_grinding_mill_success' is needed %} {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
 
-With the magic mill and the singing grimoire, the explorers have succeeded in their mission, provided they can leave the place.
+With the magic mill and the singing grimoire, the secret agents have succeeded in their mission, provided they can leave the place.
 
 {% endmacro %}
 <{ spy_group_main_quest }/>
@@ -978,7 +978,7 @@ One of the rare copies of this mythical (and controversial) work has been kept b
 {% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}
 
 - The {% symbol "Thanatologue" for "book_of_the_dead" %} is indeed in the legendary chest, but that does not solve the problem. This book in fact teaches how to temporarily resurrect - in a semi-intelligent but obedient zombie form - recently dead people (by first drinking a **Potion of Authority**, which the Alchemist can easily make); and this would ensure victory for a horde of fanatical Akariths breaking into the Heliossarian technological defences. {% fact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %} {% fact "players_have_thanatologue_spell_to_summon_zombies" %} {% hint "recipe_authority_potion" is needed %}
-  The secret agents must therefore find the countermeasure to this necromantic strategy. A **UV message** gives a clue to a solution, in the {% symbol "Thanatologue" for "book_of_the_dead" %}: the Akariths seek to target first and foremost the invokers of the opposing side, especially those wearing large jewels. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
+  The explorers must therefore find the countermeasure to this necromantic strategy. A **UV message** gives a clue to a solution, in the {% symbol "Thanatologue" for "book_of_the_dead" %}: the Akariths seek to target first and foremost the invokers of the opposing side, especially those wearing large jewels. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
 
 - The Arkon knows no miracle solution to a legion of zombies - other than fighting them one by one with blessed weapons. But he had heard of powerful ground enchantments, capable of preventing their initial "reanimation" from corpses. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 

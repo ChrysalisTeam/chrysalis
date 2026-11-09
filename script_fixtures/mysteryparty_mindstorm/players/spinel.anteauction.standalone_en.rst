@@ -3,9 +3,9 @@
 <{ title_your_intervention }/>
 ===============================
 
-The espionage service of Masslavia, to which you belong, sent you to investigate Loyd Georges several weeks ago.
+The Masslavian intelligence service, to which you belong, sent you to investigate Loyd Georges several weeks ago.
 
-Your code name is **Spinel**; it is notably the pseudonym you use to log in to your account on the world network, or to communicate with your espionage service.
+Your code name is **Spinel**; it is notably the pseudonym you use to log in to your account on the world network, or to communicate with your intelligence service.
 
 For this mission, you are borrowing the identity of **{{character_properties.spinel.full_official_title}}**. The real person having gone trekking in the Sabarim hinterland for six months, you are in principle safe from any nasty surprise. {% fact 'spinel_is_undercover' as author %}{% fact 'spinel_official_does_trekking' %}
 

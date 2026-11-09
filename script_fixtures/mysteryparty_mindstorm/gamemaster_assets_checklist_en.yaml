@@ -142,15 +142,15 @@
     - "Tropical nuts and remains of blue Liqueur (stored in the kitchen, offered the day before to Loyd Georges) {% fact 'malachite_offers_nuts_to_lg' as author %} {% fact 'amethyst_offers_liquor_to_lg' as author %}"
     - "Pouch of (oleander) laurel behind the kitchen condiments, with a \"Bibine Express\" flyer {% hint 'oleander_ingredient_pouch' is provided %}"
     - "\"Jane Pectoral Paste\" box under the \"Baobab\", containing the riddle leading to the \"Precious Cauldron\" {% hint 'paste_box_with_precious_cauldron_enigma' is provided %}"
-    - "Coded message \"MO is covering us, delivery OK\" etc. if going down to the Purineur Bar"
+    - "Coded message \"MO is covering us, delivery OK\" etc. if the Purineur Bar is raided"
     - "Letter from Judicator Praeves, in a padded envelope (anonymous P.O. box of the neighbouring hamlet) {% hint 'judicator_praeves_letter_and_lily_juice' is provided %}"
-    - "\"Venture Prins\" fake book (containing a note calling to look out of the study window) {% hint 'venture_prins_fake_book' is provided %}"
+    - "\"Venture Prins\" fake book (containing a note urging the reader to look out of the study window) {% hint 'venture_prins_fake_book' is provided %}"
 
     # results of the searches carried out by OBSIDIAN, if the objects have not already been retrieved by players, and in the absence of additional indications which would have narrowed the searches...
     - "Search of the HALLS: Nothing found"
     - "Search of the STUDY: Telegram from Waden mentioning his order of equipment from GemmoKorps (fallen under a piece of furniture)"
     - "Search of the LIBRARY: Brown canvas bag with a note from Emilos Loakim"
-    - "Search of LOYD GEORGES' BEDROOM: Pharmacology of Digoxin (see above)"
+    - "Search of LOYD GEORGES' BEDROOM: \"Pharmacology - Digoxin\" sheet (see above)"
     - "Search of ALPHONSE'S BEDROOM: Stock of illegally imported spirits, hidden under the mattress"  # to blackmail Alphonse...
     - "Search of RYDJI'S BEDROOM: Telegram from {% symbol 'Count Blispin' for 'lg_close_friend_lord_name' %} for Rydji"
     - "Search of OPAL'S BEDROOM: Fake letter mentioning an electoral fraud by Lydia"

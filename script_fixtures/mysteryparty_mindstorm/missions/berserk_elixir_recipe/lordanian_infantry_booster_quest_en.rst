@@ -7,7 +7,7 @@ MISSION - The Berserk Military Elixir
 Agents,
 
 Our homeland currently enjoys a comfortable military lead over the other Pangean powers, mainly thanks to our monopoly on flying fortresses.
-However, we remain deficient in steep and underground terrain, where our infantry, and even our special forces, lack decisive advantages.
+However, we remain weak in steep and underground terrain, where our infantry, and even our special forces, lack decisive advantages.
 
 Our laboratories are focusing their efforts on new steam-powered exoskeleton armour, but the biological enhancement of our soldiers remains an interesting avenue, and the Yodic conflicts of the past could teach us a thing or two on this subject.
 

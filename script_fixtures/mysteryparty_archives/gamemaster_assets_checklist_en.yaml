@@ -39,11 +39,11 @@
     - "@ELECTRONIQUE I1 - 'Venture Prins' book whispering the code {% symbol '625-993' for 'family_briefcase_code' %} of the Maupertuis administrative briefcase {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (POSITIVE bewitchment)"
     - "@ELECTRONIQUE VENTURE PRINS: green Clip mini MP3 player"
     - "@ELECTRONIQUE VENTURE PRINS: black INTER 2600mAh mini power bank"
-    - "I2 - Thin HACHETTE book with the Recipe of the {% symbol 'Rejuvenation Cocktail' for 'parcival_disease_main_remedy_name' %} (requiring the 3 other Recipes), marked on the floor with white tape {% hint 'recipe_rejuvenation_cocktail' is provided %}"
-    - "I3 - Thin HACHETTE book with the Recipe of the Flexifying Elixir, marked on the floor with white tape {% hint 'recipe_flex_elixir' is provided %}"
-    - "I4 - Thin HACHETTE book with the Recipe of the Clairvoyance Lotion, marked on the floor with white tape {% hint 'recipe_clarity_lotion' is provided %}"
+    - "I2 - Thin HACHETTE book with the Recipe for the {% symbol 'Rejuvenation Cocktail' for 'parcival_disease_main_remedy_name' %} (requiring the 3 other Recipes), marked on the floor with white tape {% hint 'recipe_rejuvenation_cocktail' is provided %}"
+    - "I3 - Thin HACHETTE book with the Recipe for the Flexifying Elixir, marked on the floor with white tape {% hint 'recipe_flex_elixir' is provided %}"
+    - "I4 - Thin HACHETTE book with the Recipe for the Clairvoyance Lotion, marked on the floor with white tape {% hint 'recipe_clarity_lotion' is provided %}"
     - "I5 - Purple luxury book of Volume 3 of the Druid's novel, between the Zoology and Gastronomy sections (not marked on the floor) {% hint 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
-    - "I6 - Thin HACHETTE book with the Recipe of the Pyrolitis Tincture (not marked on the floor, but with several Bluetooth beacons, 1 CR2032 battery included in each) {% hint 'recipe_pyrolitis_tincture' is provided %}"
+    - "I6 - Thin HACHETTE book with the Recipe for the Pyrolitis Tincture (not marked on the floor, but with several Bluetooth beacons, 1 CR2032 battery included in each) {% hint 'recipe_pyrolitis_tincture' is provided %}"
 
 
 # AUTHORISED FLOOR #
@@ -193,7 +193,7 @@
   - "@TOMBEAU-MAGE Tomb of the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}"
   -
     - "Legendary NEGATIVE bewitchment code [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] on the small sign of the tomb door IMPORTANT"
-    - "Message in RUNES 'Only the blood of Maupertuis shall pass unharmed' on the tomb door {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %} IMPORTANT"
+    - "Message in RUNES 'Only the blood of the Maupertuis shall pass unharmed' on the tomb door {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %} IMPORTANT"
     - "Golden {% symbol 'Etheric Necklace of Manaic Aura' for 'etheric_manaic_aura_necklace_name' %} with quartz pendant {% hint 'etheric_manaic_aura_necklace' is provided %} (legendary POSITIVE bewitchment code [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}]) IMPORTANT"
     - "{% symbol 'Amplificans Ring' for 'ring_amplificans_name' %} (POSITIVE bewitchment code [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} IMPORTANT"
     - "Plastic emblem of the Magus's coat of arms with a golden dragon {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
@@ -420,7 +420,7 @@
   -
     - "DUCHESS: Red and gold book cover with the schedule sheet, and the images of the prophecies and intuitions {% hint 'npc_responsible_for_prophecies_monitoring' is provided %}{% hint 'parcival_oracle_intuition_hints' is provided %}"
     - "DUCHESS: 5 vision images dedicated to the Parcival Oracle {% hint 'parcival_oracle_vision_about_location_of_chaos_novel_volume_three' is provided %} {% hint 'parcival_oracle_vision_about_maupertuis_father_twin_books' is provided %} {% hint 'parcival_oracle_vision_about_necromancers_and_ring_amplificans' is provided %} {% hint 'parcival_oracle_vision_about_skull_location_and_world_threat' is provided %} {% hint 'parcival_oracle_vision_about_water_mill' is provided %} IMPORTANT"
-    - "DUCHESS: Soundtrack of the auditory prophecy about the anti-zombie Amplificans ring {% hint 'parcival_oracle_audio_about_necromancers_and_ring_amplificans' is provided %}"
+    - "DUCHESS: Soundtrack of the auditory prophecy about the anti-zombie Amplificans Ring {% hint 'parcival_oracle_audio_about_necromancers_and_ring_amplificans' is provided %}"
     - "DUCHESS: LED strobe light (needs 4xAA) for the key moments of the prophecies"
 
 -

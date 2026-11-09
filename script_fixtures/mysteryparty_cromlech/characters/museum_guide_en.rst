@@ -21,7 +21,7 @@ Your first performances as a guide were anything but rigorous, as your great ima
 
 **See the document "The Siege of Uxellodunum" on this subject.**
 
-**{% symbol "one month" for "délai_guide_a_donné_clefs_au_héros" %} ago**, you found yourself facing a crisis of conscience: a young Italian student who had recently started frequenting the Cromlech, **{% symbol "Andrea di Revel" for "nom_du_héros" %}**, insisted on having earlier access to this place of study each day, or else he would fail his exams - because his shared flat was too noisy.
+**It was {% symbol "one month" for "délai_guide_a_donné_clefs_au_héros" %} ago** that you found yourself facing a crisis of conscience: a young Italian student who had recently started frequenting the Cromlech, **{% symbol "Andrea di Revel" for "nom_du_héros" %}**, insisted on having earlier access to this place of study each day, or else he would fail his exams - because his shared flat was too noisy.
 
 Your kind heart eventually won out over your professional ethics, and you gave him a **spare key**; after all, he is from a good family, it is only for a few weeks, there are no valuables on the premises, and it is always you who opens up in the morning, so the risk of an unexpected encounter with the Curator is minimal...
 

@@ -15,7 +15,7 @@ The ingredients you own
 
 {# see https://harrypotter.fandom.com/fr/wiki/Cat%C3%A9gorie:Ingr%C3%A9dients_de_potions and https://sain-et-naturel.ouest-france.fr/voici-liste-plantes-medicinales.html#}
 
-**At the family home**: Lady's mantle, Armadillo bile, Lacewing, Scarlet mushroom, Foxglove, Essence of hemlock, Ether, Bat liver, Houseleek, Lovage, Mandrake, Eye of newt, Moonstone, Polygonum, Lightning dew, Salamander blood, Poison sumac, Barbaquin rye, Tarantula venom.
+**At the family home**: Lady's mantle, Armadillo bile, Lacewing, Scarlet mushroom, Digitalis, Essence of hemlock, Ether, Bat liver, Houseleek, Lovage, Mandrake, Eye of newt, Moonstone, Polygonum, Lightning dew, Salamander blood, Poison sumac, Barbaquin rye, Tarantula venom.
 {% fact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredients_for_clarity_lotion_recipe" %}
 
 **On you during your expedition**, vials of the following, in sufficient quantity for any use:

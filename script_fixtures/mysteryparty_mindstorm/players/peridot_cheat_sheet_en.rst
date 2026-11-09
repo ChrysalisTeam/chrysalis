@@ -16,7 +16,7 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
-- you have taken on the identity of {{character_properties.peridot.full_official_title}}, with the agreement of the real person, who has stayed quietly in their shop {% fact 'peridot_official_was_bribed' %}{% fact 'peridot_official_is_still_in_shop' %}
+- you have taken on the identity of {{character_properties.peridot.full_official_title}}, with the agreement of the real person, who has stayed quietly in his shop {% fact 'peridot_official_was_bribed' %}{% fact 'peridot_official_is_still_in_shop' %}
 - you are teamed up with agent Topaz
 - you know that Loyd Georges has discovered one of the Divine Orbs and hidden it away {% fact 'lg_has_found_and_hidden_an_orb' %}
 - your enquiries in the neighbourhood yielded nothing, apart from an endless conversation with Master Florent, apothecary and former apprentice of Master Bibine of Salima {% fact "peridot_talked_with_master_florent" as author %}

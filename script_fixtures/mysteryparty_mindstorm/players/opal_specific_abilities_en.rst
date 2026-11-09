@@ -4,7 +4,7 @@
 
 <{ player_possessions }/>
 
-You turn up at the evening with 150 kashes in banknotes (you never know..).
+You turn up at the evening with 150 kashes in banknotes (you never know...).
 
 
 <{ title_special_abilities }/>

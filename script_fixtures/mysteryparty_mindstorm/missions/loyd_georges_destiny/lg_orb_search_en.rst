@@ -5,7 +5,7 @@ MISSION - Loyd Georges' Orb
 
 Agent,
 
-we must give our utmost to recover this damned "sacred orb" found by Loyd Georges. Given the number of countries involved in the affair, it is only a matter of days before someone else gets their hands on this artefact. And in the hands of someone who wishes us harm - or who simply does not share our intentions - this could have painful repercussions.
+we must do our utmost to recover this damned "sacred orb" found by Loyd Georges. Given the number of countries involved in the affair, it is only a matter of days before someone else gets their hands on this artefact. And in the hands of someone who wishes us harm - or who simply does not share our intentions - this could have painful repercussions.
 
 Our priority target is Loyd Georges' Anthropia account. We have tried to gain access to it through a recovery mechanism, on the portal's authentication page: the "secret answer". But we do not have the solution to the question set by Loyd Georges: "**{{ character_properties['loyd.georges'].secret_question }}**"
 

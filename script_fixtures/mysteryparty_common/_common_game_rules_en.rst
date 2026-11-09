@@ -72,7 +72,7 @@ Final Note
 
 The most important rules of the game will be summed up for you just before it begins.
 
-But all of this is of course secondary to your main mission: to plunge into the wonderful universe of the Secret Archives of the Maupertuis, and to spend a great, timeless moment together.  :-)
+But all of this is of course secondary to your main mission: to plunge into the wonderful universe of Chrysalis, and to spend a great, timeless moment together.  :-)
 
 {# FIXME PUT THAT BACK FOR MINDSTORM
 A Mystery Evening is first and foremost a game; the goal is for everyone, players and NPC actors alike, to have a good time.

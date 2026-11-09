@@ -6,7 +6,7 @@
 
 You have of course prepared your role as deputy police officer, and swotted up on the "Elements of Sabarith Law", which you keep with you, so as to know how to properly handle the phases of the investigation. {% hint 'sabarith_law_summary_for_obsidian' is needed %}
 
-You have on you a few extracts from an Akarith lexicon, in case you have to deal with one of those fanatics undercover in Sabarim. {% hint 'akarith_lexicon_for_obsidian' is needed %}"
+You have on you a few extracts from an Akarith lexicon, in case you have to deal with one of those fanatics undercover in Sabarim. {% hint 'akarith_lexicon_for_obsidian' is needed %}
 
 Shark has forbidden you to carry a weapon this evening. "It could be turned against us". He, on the other hand, did not do without one... so much for mutual trust.  {% fact "obsidian_was_forbidden_by_shark_to_have_weapon" %}
 

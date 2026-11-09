@@ -11,7 +11,7 @@ For this mission, you have taken on the identity of **{{character_properties.gar
 
 Taking on this persona has stirred up a recent wound in you. For years, you were used to working as a duo with agent **"Emerald"**. Back then, he was the one who took on the identity of "{{character_properties.garnet.official_name}}". But he died recently, during a tragic reception organised by the Akarith embassy in Doria. You remember your frantic run through the streets of Nimouk, searching for a dose of adrenaline to restart his heart, which was inexorably slowing down. You promise yourself, clenching your fists, never to lose a comrade again... but also to do in the stranger who poisoned him, if you are ever lucky enough to find him. {% fact 'garnet_lost_colleague_emerald' as author %}
 
-Before you had come to terms with all this, you were asked to build a new team with agent **Amethyst**. You know him well, having taken part with him in several strategic studies on Midolia, and you enjoy his company. Amethyst, for his part, is posing as **{{character_properties.amethyst.full_official_title}}}**. {% fact 'amethyst_is_undercover' %}
+Before you had come to terms with all this, you were asked to build a new team with agent **Amethyst**. You know him well, having taken part with him in several strategic studies on Midolia, and you enjoy his company. Amethyst, for his part, is posing as **{{character_properties.amethyst.full_official_title}}**. {% fact 'amethyst_is_undercover' %}
 
 
 <{ title_investigation_so_far }/>

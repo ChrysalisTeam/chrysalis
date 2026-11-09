@@ -97,7 +97,7 @@ They agreed. So I began the ritual to rupture the otherworld corridors.
 
 But a tragedy occurred. I was attacked by an apocalyptic monstrosity. It withstood everything, my weapons, my magic, my exorcisms. I fought, I prayed, in vain. When it struck me in the forehead, I knew that my hour had come.
 
-So, with my dying breath, I dared a forbidden spell. I deployed an absolute enclosure around the library, an impassable moat for the living as for the dead, for the just as for the unjust.
+So, with my dying breath, I dared a forbidden spell. I deployed an Absolute Enclosure around the library, an impassable moat for the living as for the dead, for the just as for the unjust.
 
 And since that day, I wait. I wait for humanity to send what is needed to rid the world of this demon, and thus put an end to the curse that I myself unleashed.
 

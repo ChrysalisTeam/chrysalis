@@ -3,11 +3,11 @@
 <{ title_your_intervention }/>
 ================================
 
-The Dorian espionage service, to which you belong, sent you to investigate Loyd Georges and his circle several weeks ago.
+The Dorian intelligence service, to which you belong, sent you to investigate Loyd Georges and his circle several weeks ago.
 
-Your code name is **Peridot**; it is notably the pseudonym you use to log in to your account on the world network, or to communicate with your espionage service.
+Your code name is **Peridot**; it is notably the pseudonym you use to log in to your account on the world network, or to communicate with your intelligence service.
 
-For this mission, you have taken on the identity of **{{character_properties.peridot.full_official_title}}**; the holder of that name, for their part, was offered a fat sum of money in exchange for their silence. They are as happy as can be, their finances are saved, and they keep a low profile in their shop. {% fact 'peridot_is_undercover' as author %}{% fact 'peridot_official_was_bribed' %}{% fact 'peridot_official_is_still_in_shop' %}
+For this mission, you have taken on the identity of **{{character_properties.peridot.full_official_title}}**; the holder of that name, for his part, was offered a fat sum of money in exchange for his silence. He is as happy as can be, his finances are saved, and he keeps a low profile in his shop. {% fact 'peridot_is_undercover' as author %}{% fact 'peridot_official_was_bribed' %}{% fact 'peridot_official_is_still_in_shop' %}
 
 You work as a duo with **Topaz**, an agent you know well, who for his part uses the fictitious identity of **{{character_properties.topaz.full_official_title}}**. You both thus took part in Loyd Georges' first auction, with a degree of credibility. {% fact 'topaz_is_undercover' %}
 

@@ -100,7 +100,7 @@ Police Inspector's intervention halfway through the interview:
 - Points out the wound on the Curator's left hand. {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
 - Accuses the Guide of having forged diplomas.
 
-Druid's intervention: He goes to see the player groups currently with the Guide and the Curator; each time, he beckons the group's Psyker over to him; he introduces himself, then tells him (in French) a tall tale, to the effect that these artefacts are sacred relics of the Gaulish people, and that Andrea must have stolen the gladius out of greed.
+Druid's intervention: He goes to see the player groups currently with the Guide and the Curator; each time, he beckons the group's Psyker over to him; he introduces himself, then tells them (in French) a tall tale, to the effect that these artefacts are sacred relics of the Gaulish people, and that Andrea must have stolen the gladius out of greed.
 
 
 Second Investigation Update

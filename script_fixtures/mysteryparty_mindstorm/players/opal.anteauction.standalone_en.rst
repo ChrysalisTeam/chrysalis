@@ -14,7 +14,7 @@ Between a fortune acquired without quite noticing, a dreaded fortieth birthday, 
 
 You put your affairs in order and started a new career, treating yourself along the way to a discreet but adorable wedding. Making the most of an upbringing worthy of polite society, and a respectable amount of capital, you developed a network of taverns in Lordania. Rome not having been built in a day, you kept a few sidelines, and your most loyal customers never had cause to complain about the welcome they received in the back rooms of your establishments; but mind you, nothing that could land you in prison - Khaal deserved to grow up with both his parents. {% fact 'opal_develops_lordanian_taverns' as author %}
 
-From then on, your life looked like a perfect fairy tale: a spicy wife and accomplice, a child growing stronger and smarter every day, a flourishing financial empire, a name that commanded respect throughout polite society, and a few schemes still flattering your roguish side.
+From then on, your life looked like a perfect fairy tale: a spirited wife who was also your partner in crime, a child growing stronger and smarter every day, a flourishing financial empire, a name that commanded respect throughout polite society, and a few schemes still flattering your roguish side.
 
 
 Later on, however, the horizon darkened.

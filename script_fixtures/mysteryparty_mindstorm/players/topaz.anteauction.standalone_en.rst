@@ -3,9 +3,9 @@
 <{ title_your_intervention }/>
 =================================
 
-The Dorian espionage service, to which you belong, sent you to investigate Loyd Georges several weeks ago.
+The Dorian intelligence service, to which you belong, sent you to investigate Loyd Georges several weeks ago.
 
-Your code name is **Topaz**; it is notably the pseudonym you use to log in to your secure account on the world network, or to communicate with your espionage service.
+Your code name is **Topaz**; it is notably the pseudonym you use to log in to your secure account on the world network, or to communicate with your intelligence service.
 
 For this mission, you have borrowed the identity of **{{character_properties.topaz.full_official_title}}**. The individual never having existed, you had carte blanche to build the character. You thus claim to work for {% symbol "Count Adamor" for "lg_remote_friend_lord_name" %}, a fairly distant acquaintance of Loyd Georges, but one who inspires his trust. For this you take advantage of the fact that the real count has gone on a cruise, for several months. {% fact 'topaz_is_undercover' as author %} {% fact 'topaz_official_is_non_existent' as author %} {% fact 'topaz_pretends_working_for_count_adamor' as author %}
 

@@ -374,14 +374,14 @@ Opal's remission (Berserk Elixir)
 
 Opal has been ill since he was poisoned by the Akarith sect of the "Purifiers".
 
- He was told in confidence by Loyd Georges that there might be a way to cure him thanks to an ancient Yodic potion, the Berserk Elixir, and that they would talk about it again after the special evening.
+He was told in confidence by Loyd Georges that there might be a way to cure him thanks to an ancient Yodic potion, the Berserk Elixir, and that they would talk about it again after the special evening.
 
 At the start of the evening, Rydji hands him a letter from {% symbol "Rodok" for "lg_adventurer_friend_name" %}, which Loyd Georges had set aside "just in case". This letter contains the basic recipe of the Elixir:
 {% fact "opal_knows_about_berserk_elixir" %} {% hint "letter_from_rodok_forwarded_to_opal" is needed %}
 
 {# RECIPE SLIGHTLY DIFFERENT FROM THE ONE IN THE CHRYSALIS:DESCENT RPG, TO PREVENT CHEATING #}
-- blue aquatic mushroom (found in the cave of Nazur, available in Alphonse's private sale)  {% hint 'octopus_tentacle_in_bottle' is needed %}"
-- cave octopus tentacle (found in the cave of Nazur, available in Alphonse's private sale)  {% hint 'blue_aquatic_mushroom_juice' is needed %}"
+- blue aquatic mushroom (found in the cave of Nazur, available in Alphonse's private sale)  {% hint 'blue_aquatic_mushroom_juice' is needed %}
+- cave octopus tentacle (found in the cave of Nazur, available in Alphonse's private sale)  {% hint 'octopus_tentacle_in_bottle' is needed %}
 - small tangy red fruit (Akarith red plum, available as a liqueur in the antique canister sold at auction)
 
 The Lordanians have also got wind of this Elixir, and they are interested in seeing its effects on Opal, to gauge its usefulness for their infantry.
@@ -441,7 +441,7 @@ Course of events: with the Tabellion's support, Lydia must obtain a first propos
 - if the "building materials" buyers have a "fusion core", they have a far higher profitability than the other two
 - the "fuel" and "rare earths" sides cannot each win the deal solo thanks to the "fusion core", but it is in their interest to deprive the "building materials" side of it
 
-Where to find a thermocyclic fusion core?
+Where to find a Thermocyclic Fusion Core?
 The physicist Waden Shaw had one in Professor Voluto's laboratory, and can use it as a bargaining chip to have said laboratory destroyed.
 
 Note that the Akarith Ambassador tries to interfere with this sale, by proposing that Lydia sign a (non-exclusive) **commercial negotiation pact** with Akaris; the goal being more to "burn" her with public opinion, than to actually obtain the deposit (since the Dorians are taking care of that for Akaris).
@@ -459,9 +459,9 @@ An attack by several factions (Akariths, and mercenaries of {% symbol "Lord Mac'
 
 If Khaal was still on site, he and his chaperone are fortunately rescued by {% symbol "Count Blispin" for "lg_close_friend_lord_name" %}, who was watching the scheming of {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, and protecting Loyd Georges' loved ones at the latter's request.
 
- {% symbol "Count Blispin" for "lg_close_friend_lord_name" %} has taken refuge in the forest with everyone, and needs to be rescued, as the Akariths are prowling around, and the local police are heavily corrupt. The Magnus family must therefore hire mercenaries in Alifir for this, or call upon the Sabarith secret services via Obsidian.
+{% symbol "Count Blispin" for "lg_close_friend_lord_name" %} has taken refuge in the forest with everyone, and needs to be rescued, as the Akariths are prowling around, and the local police are heavily corrupt. The Magnus family must therefore hire mercenaries in Alifir for this, or call upon the Sabarith secret services via Obsidian.
 
- If they fail to do so in less than 1 hour, all these fugitives fall into the hands of the Akariths, and Lydia must capitulate in favour of {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}.
+If they fail to do so in less than 1 hour, all these fugitives fall into the hands of the Akariths, and Lydia must capitulate in favour of {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}.
 
 
 
@@ -532,7 +532,7 @@ Trying to keep the treasure entirely for oneself may therefore result in complet
 - this refers to one of Arcimboldo's Four Seasons paintings, displayed on the wall; the bust representing Autumn has a chestnut for a mouth
 - the servants know of a huge sweet chestnut tree (or horse chestnut, it does not matter) in a corner of the manor grounds
 - a servant of Loyd Georges, or a well-paid Oberon agent, can go and dig under this tree with a shovel, or with explosives (Rydji loves that)
-- such a dig under the tree yields a box, which contains a literary riddle leading to the "Precious Cauldron"; the latter is actually hidden "in the ceiling of the toilets"
+- such a dig under the tree yields a box, which contains a literary riddle leading to the "Precious Cauldron"; the latter is actually hidden "in the ceiling of the toilet"
 - there again, tools or explosives make it possible to discover the cauldron, which contains **23 megakashes in gold coins**, shared (or not) between the discoverers (which would allow the Magnus family, for example, to no longer have any financial constraints regarding the sale of its tar sands deposit).
 
 BEWARE: when Rydji uses explosives, this of course creates a stir among the guests and the guards of the manor, and Rydji defends himself by stating that he has all the permits to carry out construction work with explosives.

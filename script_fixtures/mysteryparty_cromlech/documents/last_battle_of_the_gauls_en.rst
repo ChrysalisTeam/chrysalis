@@ -36,7 +36,7 @@ Drappes, a captive, refuses food for several days and dies. Meanwhile, Lucterius
 What Legend says
 =======================================
 
-Popular tradition tells that a band of warriors from the far reaches of Armorica (present-day Brittany), had come to lend a hand to the Gaulish chiefs Lucterius and Drappes.
+Popular tradition tells that a band of warriors from the far reaches of Armorica (present-day Brittany) had come to lend a hand to the Gaulish chiefs Lucterius and Drappes.
 
 Among them were a handful of druids, who used their powers to heal, invigorate and counsel the insurgents during the siege of Uxellodunum.
 

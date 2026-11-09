@@ -4,9 +4,9 @@
 <{ title_previous_day }/>
 ==============================
 
-Your investigation had been stalling for a few days, and you had got to the point of picking quarrels with your colleague over nothing - just to liven up this flat that was too small for two - when Loyd Georges offers you a one-to-one interview, announcing that he has "important information" to share with you.
+Your investigation had been stalling for a few days, and you had got to the point of picking quarrels with your colleague over nothing - just to liven up this flat that was too small for two - when Loyd Georges offered you a one-to-one interview, announcing that he had "important information" to share with you.
 
-**You therefore go to this meeting for {% symbol "16:00" for "lg_meeting_time_for_spinel" %}, full of hope.**
+**You therefore go to this meeting at {% symbol "16:00" for "lg_meeting_time_for_spinel" %}, full of hope.**
 
 <{ arrival_at_manor_with_butler }/>
 

@@ -67,7 +67,7 @@ If a living person dies, you urge the others to find a way to **resurrect** them
 
 If the Exorcist attempts to **rupture the otherworld corridors** while avatars are still present in the library, you openly wonder whether this will not put them in grave danger. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
-If you meet a phantom in spectral wandering, and therefore dangerous, you can shield the various living people present with your body. If, once back in the embodied (and therefore harmless) phase, this phantom is not aware that they are dead, you try to explain this to them, and to convince them that any desire for earthly things no longer makes any sense. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %} {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
+If you meet a phantom in spectral wandering, and therefore dangerous, you can shield the various living people present with your body. If, once back in the embodied (and therefore harmless) phase, this phantom is not aware that he is dead, you try to explain this to him, and to convince him that any desire for earthly things no longer makes any sense. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %} {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
 
 If the denouement is approaching, you can go and question (or even make them swear) the various groups of players, as to what they will do with the portals leading to the library if they come out of it alive. You yourself do not necessarily have a firm opinion.
 {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}

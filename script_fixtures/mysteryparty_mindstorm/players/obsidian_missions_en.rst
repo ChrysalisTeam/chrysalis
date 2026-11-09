@@ -28,7 +28,7 @@ In the context of these Loyd Georges auctions, you will therefore have many obje
 
 - Investigate the Akariths and their allies, who have infiltrated Sabarim. We must find their centres of operation, and destroy them.
 
-- Make sure that the people present, especially if they have contacts with the Press, do not prematurely light the powder keg with reckless statements. One day we will have to "clean out the stables", but let us wait until the organs of power are legitimised once again, before dragging Sabarim's corrupt before the courts, or denouncing foreign intrusions.
+- Make sure that the people present, especially if they have contacts with the press, do not prematurely light the powder keg with reckless statements. One day we will have to "clean out the stables", but let us wait until the organs of power are legitimised once again, before dragging Sabarim's corrupt before the courts, or denouncing foreign intrusions.
 
 - Investigate this famous "orb" that Loyd Georges is said to have found, but with a single aim: to make sure that Sabarim stays out of any story about it. This kind of tawdry sacred symbol, capable of electrifying fanatical crowds, is the last thing we need on our soil.
 
@@ -36,7 +36,7 @@ In the context of these Loyd Georges auctions, you will therefore have many obje
 
 - Officially assist Inspector Shark in his investigations, but while making sure that his discoveries do not run counter to the objectives above. Shark is getting old, his exploits are gradually being forgotten, which must irritate his ego, and he seems less and less attached to respecting legal procedures. All this can lead to additional problems, so you will at times have to (discreetly and cautiously) put a spoke in his wheels.
 
-As regards foreign policy towards Akarith imperialism: strict neutrality has, historically, always been Sabarim's Credo. But we may be led to take a public stance, or even to give logistical help to one faction or another, depending on the plans of conquest being hatched by those crackpot Akarith High Judicators, and also on the image we must preserve in the eyes of the other Pangean countries.
+As regards foreign policy towards Akarith imperialism: strict neutrality has, historically, always been Sabarim's credo. But we may be led to take a public stance, or even to give logistical help to one faction or another, depending on the plans of conquest being hatched by those crackpot Akarith High Judicators, and also on the image we must preserve in the eyes of the other Pangean countries.
 
 {% endmacro %}
 <{ obsidian_main_objectives_to_defend_sabarim }/>

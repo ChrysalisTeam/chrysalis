@@ -34,7 +34,7 @@ Recording transcript - Spy pen
 Recording transcript - Spy dictaphone
 ========================================================
 
-{# "Dictaphone" recorder which the person who planted it must find by themselves, in the reception room #}
+{# "Dictaphone" recorder which the person who planted it must find by themselves, in the reception hall #}
 {% fact 'alphonse_has_found_library_spy_recorder' %}
 
 *Two people sit down on the sofa, the first has an elderly voice, the other a younger one*

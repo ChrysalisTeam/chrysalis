@@ -54,7 +54,7 @@ Obsidian is said to belong to the Sabarith secret services; he seems to be conce
 The Lordanians' intentions are more or less clear, but if they too want to prevent the creation of an Akarith empire, an attempt must be made to pool the information about the Orb with them, so as to put it out of the Akariths' reach (and thus prevent their "prophecies" from galvanising them).
 
 
-Information for the Dorians (Malachite and Spinel)
+Information for the Dorians (Topaz and Peridot)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Take stock of the first leanings that have leaked from the Akarith council, and remind them that everything is being decided now, it is now or never to tip it doctrinally one way or the other; sketch out the possible solutions for Doria (rallying or rebellion), depending on the case.

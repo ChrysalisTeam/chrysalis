@@ -25,7 +25,7 @@
 - your colleague tried to burgle Loyd Georges' manor, but without success {% fact 'peridot_robs_lg_manor_fail' %}
 
 - the famous businessman "{{character_properties.opal.official_name}}" strangely has access to a high-security web account, albeit a "frozen" one, with the login "Emerald". {% fact 'opal_accesses_emerald_agent_web_account' %}
-- {{character_properties.amethyst.official_name}}" is in reality a Lordanian agent, the real bearer of the name is hospitalised for venereal diseases {% fact 'amethyst_official_has_venereal_disease' %}
+- "{{character_properties.amethyst.official_name}}" is in reality a Lordanian agent, the real bearer of the name is hospitalised for venereal diseases {% fact 'amethyst_official_has_venereal_disease' %}
 - it is a Masslavian agent with the pseudonym "Malachite" who recently triggered an Akarith riot in Doria {% fact 'malachite_triggers_akarith_riot_in_dorian_dukedom' %}
 
 <{ peridot_and_topaz_meeting_with_lg_summary }/>

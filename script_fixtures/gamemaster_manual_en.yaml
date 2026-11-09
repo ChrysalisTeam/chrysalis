@@ -541,7 +541,7 @@ gamemaster_manual:
         Mercenaries
         ++++++++++++++++++
 
-        The players have the possibility of using their network of contacts in a few major cities of Pangea, and of paying mercenaries there to spy or carry out "strike" operations. These subordinates are managed almost entirely by email messaging (for management by voice, see `The telephone switchboard`_).
+        The players have the possibility of using their network of contacts in a few major cities of Pangea, and of paying mercenaries there to spy or carry out "strike" operations. These subordinates are managed almost entirely by email messaging (for management by voice, see `The telephone exchange`_).
 
         If several players hire mercenaries in the same place, these different gangs must automatically report to their sponsor what is going on, in a mutual espionage. They will however refuse, because of a certain idea of solidarity between crooks, to fight each other; in case of dispute, the players giving the orders will therefore be invited to settle their differences themselves.
 
@@ -714,7 +714,7 @@ gamemaster_manual:
 
 
         - it must be clearly told to the players, at the very beginning of the game, that their special services can "crack" the passwords of protected files, but that they cannot do the same with Anthropia user accounts, since these get locked after 10 failed attempts, which would compromise the whole operation.
-        - mentored by their superiors, the players should wiretap Loyd Georges; however, their attempts to hack his account run into a snag: they must find the answer to the secret question (the name of LG's first cat); but trying to question the gentleman's entourage about it, besides arousing suspicion, should give nothing.
+        - mentored by their superiors, the players should wiretap Loyd Georges; however, their attempts to hack his account run into a snag: they must find the answer to the secret question (the name of LG's first cat); but trying to question the gentleman's entourage about it, besides arousing suspicion, should yield nothing.
         - the investigation is unblocked by the interception of a message from Emilos Loakim to Loyd Georges, in which the old scientist announces that the "marvel" is being studied in a safe place; from then on, the players' superiors urge them to spy on and hack Professor Emilos Loakim; the "secret question" of the professor's account is the maiden name of his late wife, which by default the players do not know.
         - several ways to find this maiden name (non-exhaustive list):
 
@@ -1051,13 +1051,13 @@ gamemaster_manual:
         This review can be done orally (e.g. through a phone call from the superior), or by email. But if the report can be intercepted (e.g. by wiretapping a player's messaging), the players must be encouraged to keep their writings somewhat vague, without mentioning "critical" data, so that prying ears can grasp their progress, but not the secrets discovered (passwords, names of characters and places...). Systems such as the cryptographic security of messaging of course remove this problem.
 
 
-        The telephone switchboard
+        The telephone exchange
         ++++++++++++++++++++++++++++
 
 
         Besides the tools of the fictional portal (messaging, chat), the players obviously have the possibility of using their usual means (real email, telephone, meeting "in real life") to communicate.
 
-        In order to also extend their possibilities of communication with the non-player characters (NPCs), the Game Master is advised to set up a global "telephone switchboard" ability.
+        In order to also extend their possibilities of communication with the non-player characters (NPCs), the Game Master is advised to set up a global "telephone exchange" ability.
 
         The principle is simple: to contact NPCs by phone, the players must call the number provided by the Game Master (which will, in all likelihood, be their mobile phone), then give the name of the person they want to reach to the robotic switchboard that answers them. In short, it is exactly the principle of the telephone switchboards of yesteryear, or of today's voice recognition assistants (Siri, Vlingo...).
 
@@ -1106,7 +1106,7 @@ gamemaster_manual:
 
         The most critical event that can happen during a game of Chrysalis is the desertion of a player, whatever the reason (unavailability, demotivation, *rage quit*...).
 
-        If badly handled, this situation can block some riddles, unbalance the balance of power, and above all, scuttle the unfortunate spy who would thereby lose their ally. It is therefore up to the Game Master to react to this incident, to compensate for it or - better - to turn it into a gameplay element. Examples.
+        If badly handled, this situation can block some riddles, upset the balance of power, and above all, scuttle the unfortunate spy who would thereby lose their ally. It is therefore up to the Game Master to react to this incident, to compensate for it or - better - to turn it into a gameplay element. Examples.
 
 
         Continuity
@@ -1488,7 +1488,7 @@ gamemaster_manual:
 
             The world of Pangea emerged, barely a few centuries ago, from a period of intense meteorological and seismic cataclysms, called the Tectonic Era. It now looks a bit like what our human 20th century was, except that the planet is still very wild overall, and that humans remain concentrated in a constellation of scattered megacities.
 
-            Urban atmospheres range mainly from the Renaissance to the futuristic, with strong steampunk overtones (think "Victorian era, copper machines, classy but outdated costumes..."). The most advanced civilisations master combustion engines, the various fossil fuels, solar/wind power, wireless communications... but there are strong disparities in development, and some places still border on prehistory.
+            Urban atmospheres range mainly from the Renaissance to the futuristic, with strong steampunk overtones (think "Victorian era, copper machines, classy but outdated suits..."). The most advanced civilisations master combustion engines, the various fossil fuels, solar/wind power, wireless communications... but there are strong disparities in development, and some places still border on prehistory.
 
             Unsurprisingly, very sharp geopolitical and religious tensions exist between the giant states which divide up the planet (in particular, in a region called Midolia, where the "Yod" deities and their faithful are stirring up quite a mess).
 
@@ -1722,7 +1722,7 @@ gamemaster_manual:
 
         - [salima] if relevant, exchanges between LG and Zenon de Salim, gradually bringing to light the theft of LG's cane
 
-        - [gamma] broadcast the advert targeting the musical work "jungle harmonies"
+        - [gamma] broadcast the advert for the musical work "jungle harmonies"
 
         - **abilities added: World Scanner, optionally the Djinns of Sedes Sancta**
 
@@ -1767,7 +1767,7 @@ gamemaster_manual:
         - clarify from the start the terms of the pay: frequency, amount, variability... the players must know precisely when their bank account will be topped up; also insist on the difference between auction money and current account (dedicated to special abilities)
         - give the players a printed world map, and remind them of the regions important for the beginning of the scenario
         - stress that "this game requires personal investment and regular participation" to be truly enjoyed
-        - recall the "lifebuoys" that the hierarchical superiors (or "Magnus"' manager) are: the players should not hesitate to send them questions when in doubt
+        - recall the "lifebuoys" that the hierarchical superiors (or the manager of "Magnus") are: the players should not hesitate to send them questions when in doubt
         - find a good balance in the presentation of the various special abilities: the most important ones must be anticipated by the players (so visible greyed out in the menu), but some must remain "pleasant surprises" for the players who will have developed their relationships with the NPCs well
 
         And once the game has started:
