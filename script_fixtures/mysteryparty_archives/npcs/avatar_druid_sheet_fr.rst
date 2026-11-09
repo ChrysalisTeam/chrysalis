@@ -69,7 +69,7 @@ Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_
 - que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
 - que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tiger_eye" %}
 
-**Vous pouvez proposer spontanément votre aide à l'alchimiste**, qui aura besoin de reconnaître ces noms dans les recettes qu'elle trouvera.
+**Vous pouvez proposer spontanément votre aide à l'alchimiste**, qui aura besoin de reconnaître ces noms dans les recettes à trouver.
 
 Au niveau de l'enquête principale : si les soupçons initiaux de culpabilité se sont éloignés de l'arkonte (devenu crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter temporairement le doute sur le tombeau du Mage, ou sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_magus_or_inventor" %}
 

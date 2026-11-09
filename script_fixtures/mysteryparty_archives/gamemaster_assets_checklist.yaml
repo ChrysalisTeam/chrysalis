@@ -7,7 +7,7 @@
     - "F3 - Coin du fantôme de l’arkonte"
     - "F4 - Coin du fantôme du voleur"
 
-    - "L1 - Buffet dinatoire des 3 mondes"
+    - "L1 - Buffet dinatoire des 4 mondes"
     - "L2 - Pentacle du rituel inachevé de l’arkonte"
     - "L3 - Barrières magiques devant les escaliers du domaine interdit"
     - "L4 - Cimetière (tombes de l’enfant, de l’archiviste et de l’arkonte)"
@@ -152,7 +152,7 @@
 -
   - "@COFFRE-MARRON Coffre familial commun en bois marron des Maupertuis"
   -
-    - "@PIEGES-ET-CADENAS Sur le coffret, un CADENAS nécessitant la CLEF de l'archiviste) {% hint 'archivist_key' is needed %} IMPORTANT"
+    - "@PIEGES-ET-CADENAS Sur le coffret, un CADENAS nécessitant la CLEF de l'archiviste {% hint 'archivist_key' is needed %} IMPORTANT"
     - "Réserve de 9 galets phosphorescents étalés depuis une bourse mauve {% hint 'beast_snack_as_moon_stones' is provided %} IMPORTANT"
     - "PLUME de prophétie du coffre commun {% hint 'feather_in_common_family_chest' is provided %} IMPORTANT"
     - "Décorations : boite cylindrique en cuir noir contenant peigne-perroquet, loupe, pipe métallique"
@@ -181,7 +181,7 @@
 -
   - "@TOMBEAU-MAGE Galerie de portraits des Maupertuis"
   -
-    - "Cadre de remerciement (en message magnétique + message UV) avec le stéréogramme du moulin à poivre {% hint 'grinding_mill_stereogram_picture_with_magnetic_and_uv_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %} IMPORTANT"
+    - "Cadre de remerciement (en message magnétique + message UV) avec le stéréogramme du moulin à café {% hint 'grinding_mill_stereogram_picture_with_magnetic_and_uv_code' is provided %} {% hint 'grinding_mill_with_enchantment' is needed %} IMPORTANT"
     - "Optionnellement, PLUME de prophétie sur le cadre de remerciement à stéréogramme {% hint 'optional_feather_on_stereogram_board' is provided %} IMPORTANT"
     - "Portrait du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} avec optionnellement message UV : \"Il a vécu par les ethers, les amplificans, et les grimoires maudits, mais il est mort par un simple fruit.\""
     - "Portrait du père des Maupertuis (Quirinius) avec optionnellement message UV : \"Si oubli, penser Venture Prins !\""
@@ -209,7 +209,7 @@
 # ETAGE INTERDIT #
 
 -
-  - "@COFFFRE-LEGENDAIRE Coffre légendaire (mallette noire épaisse) des Maupertuis"
+  - "@COFFRE-LEGENDAIRE Coffre légendaire (mallette noire épaisse) des Maupertuis"
   -
     - "Deux codes de protection sur le coffret légendaire des Maupertuis {% hint 'family_legendary_chest_protected_by_double_code' is provided %} IMPORTANT"
     - "Grimoire sculpté marron du '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' pour la mallette noire épaisse (coffre légendaire des Maupertuis) ; il contient le sort de zombification et un indice de contre-mesure en UV, le {% symbol 'Sacrifice de Zarathoustra' for 'unavoidable_bullet_spell_name' %}, un indice sur le Vortex Abyssal, la recette alchimique des flèchettes d'Iridium et une PLUME de prophétie {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'arrow_recipe_for_alchemist' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
@@ -468,7 +468,7 @@
     - "ESPION SONDEUR : Mini-feuille verdâtre de lecture des champs magnétiques"
     - "ESPION CROCHETEUR : Kit de crochetage de serrure dans une mini-pochette de cuir{% hint 'lock_picking_kit_for_lockpicker' is provided %}"
     - "ESPION CROCHETEUR : Déverrouilleur aimanté avec ruban {% hint 'magnetic_unlocker_for_lockpicker' is provided %}"
-    - "ESPION CROCHETEUR : Ceinture et porte-fioles en cuir avec potions de Focus, de Charme et de Révélation (issu des diacres) {% hint 'potion_of_focus_from_exorcist' is provided %} {% hint 'potion_of_charm_from_exorcist' is provided %} {% hint 'potion_of_revelation_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %}"
+    - "ESPION CROCHETEUR : Ceinture et porte-fioles en cuir avec potions de Focus et de Charme, et une Lotion de Révélation (issu des diacres) {% hint 'potion_of_focus_from_exorcist' is provided %} {% hint 'potion_of_charm_from_exorcist' is provided %} {% hint 'potion_of_revelation_from_exorcist' is provided %} {% fact 'diakon_exorcist_lost_potions_bag_found_by_lockpicker' %}"
     - "ESPIONS : Lanterne en argent Lunartec (nécessite 2xLR20D)"
 
 -
@@ -604,7 +604,7 @@
     # Soit 50 + 80 + 50 + 130 + 100 + 100 + 60 + 60 = 630 kashes en jeu
 
 -
-  - "@RICHESSES Localisation de ces richesses diverses à collecter)"
+  - "@RICHESSES Localisation de ces richesses diverses à collecter"
   -
     - "Placer : 140 kashes répartis entre les coffres et emplacements de l'étage autorisé"
     - "Placer : 220 kashes répartis entre les ateliers et les corridors de l'étage interdit"

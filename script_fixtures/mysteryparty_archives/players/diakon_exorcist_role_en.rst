@@ -95,7 +95,7 @@ The greatest mystics are able to perform this rupture selectively, breaking only
 Ritual:
 
 - Use an activated {% symbol "canonical pentacle (5-pointed star in a circle)" for "standard_pentacle_description" %}
-- Place at the centre of this pentacle as many objects attached to otherworld corridors as possible (cursed talismans, Avatar books...)
+- Place at the centre of this pentacle as many objects attached to otherworld corridors as possible (cursed talismans, avatar books...)
 - The presence of additional {% symbol "initiates" for "ritualist_kind_name" %} around the pentacle is advisable, but not essential
 - Stretch your right arm towards the portal, fingers spread wide
 - Proclaim this incantation on a loop: **"By the victorious sun, By the power of the heavens, Portals, vanish"** for at least **30 seconds**

@@ -43,7 +43,7 @@ The code of this small case changed automatically every day. The current digits 
 
 You had searched this briefcase in vain, the two of you, while taking care, because it is **partially trapped** against intruders. {% fact "octave_and_archivist_know_about_venture_prins_book_location" %} {% fact "octave_and_archivist_have_searched_family_briefcase" %} {% fact "octave_and_archivist_know_about_trap_of_family_briefcase" %} {% hint 'trap_in_family_briefcase' is needed %}
 
-You can point out the location of the wooden box to anyone who asks you **(see Game Map)**.
+You can point out the location of the fake book {% symbol "Venture Prins" for "small_wooden_fake_book_name" %} to anyone who asks you **(see Game Map)**.
 
 Moreover, you heard many things, from the Maupertuis parents, about the dangerousness of **the Beast**, so if the players want to open the passage to the Forbidden Domain, you urge them to first have a plan to neutralise it, in whatever form it shows the tip of its snout. {% fact "octave_and_archivist_warn_players_about_beast_dangerousness" %}
 

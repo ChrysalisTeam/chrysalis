@@ -5,7 +5,7 @@ FICHE DE SUIVI POUR OCTAVE ET L'ARCHIVISTE - Quête des Héritiers Parcival
 
 ---
 
-<{ explorer_group_symbols }/>
+<{ parcival_group_symbols }/>
 
 ---
 

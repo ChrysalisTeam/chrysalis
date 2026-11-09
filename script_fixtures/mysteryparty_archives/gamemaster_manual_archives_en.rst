@@ -36,7 +36,7 @@ Story of the game
 The meeting of the Maupertuis and the Avatars
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
-*Knowledge shared by the Avatars and the phantoms, except the Thief.*
+*Knowledge shared by the avatars and the phantoms, except the Thief.*
 
 **The library curse began {% symbol "500 years" for "library_initial_events_timedelta" %} before the time of the game, that is to say it took place in the {% symbol "year 500" for "library_initial_events_year" %} of the {% symbol "Era of the Great Appeasement" for "current_era_name" %}. We are currently in the {% symbol "year 1000" for "current_events_year" %} of this era of prosperity.**
 
@@ -46,14 +46,14 @@ During the attack, {% symbol "Octave" for "maupertuis_son" %} had taken refuge i
 
 The two survivors lived there alone for **{% symbol "15 months" for "octave_life_in_archives_delay" %}**, the tutor judging that {% symbol "Octave" for "maupertuis_son" %} was not yet ready to face the harshness of the outside world. They could not enter the library's "Forbidden Domain", guarded by a Beast, because Octave, unlike his sister, had not yet received the initiation allowing him to open the passage to this holy of holies. {% symbol "Master Parchemine" for "archivist_name" %} took on the role of archivist to pass the time, and began an inventory of the accessible "non-weird" books. {% fact "archivist_began_cataloging_books" %} Lonely, the child took refuge in reading fantasy novels, reading and re-reading his favourites, and forging an ever-stronger bond with the heroes of these works.
 
-Under the influence of the magic saturating the place, and of Octave's insistent wishes, several imaginary characters actually became embodied in the library, thus becoming what are known as **"Avatars"**: an inventor, a druid, a duchess, a samurai, a knight, a biplane pilot...
+Under the influence of the magic saturating the place, and of Octave's insistent wishes, several imaginary characters actually became embodied in the library, thus becoming what are known as **"avatars"**: an inventor, a druid, a duchess, a samurai, a knight, a biplane pilot...
 
 The child and his new friends met at least one day each week in the library, to feast, play, build automatons, and learn a great many things about the rules governing each of the universes represented.
-The Archivist soon discovered them, but had little choice but to accept the situation, while forbidding the Avatars to leave the library.
+The Archivist soon discovered them, but had little choice but to accept the situation, while forbidding the avatars to leave the library.
 
 A few months later came the next **{% symbol "winter solstice" for "astral_opening_date" %}**. **The Arkon (paladin-exorcist) {% symbol "Valerias" for "arkon_name" %}**, of the Yodic religion (and more specifically of the Mithraite denomination), who resided in the **{% symbol "Rochesombre Monastery" for "common_monastery_name" %}**, sensed the presence of non-human souls. He infiltrated the secret library, and confronted the Archivist and the child, who were preparing to leave it.
 
-These two finally agreed to stop putting humanity at risk with an unnatural mixing of the worlds, and to let the Arkon banish the Avatars from Earth for good; in return, the Arkon would take {% symbol "Octave" for "maupertuis_son" %} and the Archivist with him, to safety, in a welcoming country.
+These two finally agreed to stop putting humanity at risk with an unnatural mixing of the worlds, and to let the Arkon banish the avatars from Earth for good; in return, the Arkon would take {% symbol "Octave" for "maupertuis_son" %} and the Archivist with him, to safety, in a welcoming country.
 
 After heart-rending farewells, the imaginary characters each returned to their own universe, waiting for the ritual to close off their access to the world of humans.
 
@@ -61,17 +61,17 @@ After heart-rending farewells, the imaginary characters each returned to their o
 The return of the Avatars
 +++++++++++++++++++++++++++++++++
 
-*This knowledge belongs to the Avatars alone.*
+*This knowledge belongs to the avatars alone.*
 
-Some of the Avatars did indeed see the interdimensional passage close. But for three of them - **the Inventor {% symbol "Sir Jacques Vaucanson" for "inventor_name" %} (whom everyone calls {% symbol "Jacko" for "inventor_nickname" %}), the Druid {% symbol "Diviciacos" for "druid_name" %} and the Duchess {% symbol "Cassiopeia de Thiersonne" for "duchess_name" %}** - this was not the case. Their respective imaginary worlds remained connected to the world of the living.
+Some of the avatars did indeed see the interdimensional passage close. But for three of them - **the Inventor {% symbol "Sir Jacques Vaucanson" for "inventor_name" %} (whom everyone calls {% symbol "Jacko" for "inventor_nickname" %}), the Druid {% symbol "Diviciacos" for "druid_name" %} and the Duchess {% symbol "Cassiopeia de Thiersonne" for "duchess_name" %}** - this was not the case. Their respective imaginary worlds remained connected to the world of the living.
 
 When they came back to the library to find out what had happened, they found the pentacle still in place, a few traces of spells and fighting (softened by the magical protections of the furniture); and, to their horror, the Arkon's **skull-less skeleton** lying in a corner amid his weapons; as well as some ashes - probably those of the child and his tutor - in other spots.
 
-Grief-stricken, these remaining Avatars created a makeshift **graveyard** for the remains of the deceased. They **argued fiercely** over what place to give the Arkon's bones, for while the Druid held him responsible for the massacre, the Duchess and the Inventor thought it could have been an accident, or the doing of some other entity. Giving the benefit of the doubt, they finally left all the remains together in the graveyard.
+Grief-stricken, these remaining avatars created a makeshift **graveyard** for the remains of the deceased. They **argued fiercely** over what place to give the Arkon's bones, for while the Druid held him responsible for the massacre, the Duchess and the Inventor thought it could have been an accident, or the doing of some other entity. Giving the benefit of the doubt, they finally left all the remains together in the graveyard.
 
-The Avatars then investigated the whole of the library's authorised floor, but in vain, as they knew far too little about this world's magic. They found only a few fake books and locked caskets, which they were unable to open. The passage to the Forbidden Domain, for its part, was still blocked by the age-old spell of the Maupertuis. And there was no way to reach the surface, even at a later {% symbol "winter solstice" for "astral_opening_date" %}. {% hint "beast_snack_as_moon_stones" is needed %}
+The avatars then investigated the whole of the library's authorised floor, but in vain, as they knew far too little about this world's magic. They found only a few fake books and locked caskets, which they were unable to open. The passage to the Forbidden Domain, for its part, was still blocked by the age-old spell of the Maupertuis. And there was no way to reach the surface, even at a later {% symbol "winter solstice" for "astral_opening_date" %}. {% hint "beast_snack_as_moon_stones" is needed %}
 
-The Duchess, in her own world, received from a soothsayer the revelation that the recently deceased were still prisoners of the library in the form of phantoms, but that on a forthcoming anniversary of the tragic event, this curse would be broken. Since then, every year, the Avatars gather for an **{% symbol "Otherworld Banquet" for "banquet_name" %}** in honour of the Maupertuis, awaiting the fulfilment of this crucial prophecy.
+The Duchess, in her own world, received from a soothsayer the revelation that the recently deceased were still prisoners of the library in the form of phantoms, but that on a forthcoming anniversary of the tragic event, this curse would be broken. Since then, every year, the avatars gather for an **{% symbol "Otherworld Banquet" for "banquet_name" %}** in honour of the Maupertuis, awaiting the fulfilment of this crucial prophecy.
 
 {% endmacro %}
 <{ common_npc_tragedy_knowledge }/>
@@ -80,7 +80,7 @@ The Duchess, in her own world, received from a soothsayer the revelation that th
 Plot background (SPOILER)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-One of the Avatars, the Druid with superhuman powers, had in fact become the great villain in his own universe; the child did not know this, having never found the last volume of the series. This former hero, wishing to take control of this universe as well, came back through said Volume, murdered the living during the ritual, then feigned surprise before the remaining imaginary characters, who came back later to find out what had happened.
+One of the avatars, the Druid with superhuman powers, had in fact become the great villain in his own universe; the child did not know this, having never found the last volume of the series. This former hero, wishing to take control of this universe as well, came back through said Volume, murdered the living during the ritual, then feigned surprise before the remaining imaginary characters, who came back later to find out what had happened.
 
 Realising the scourge that threatened the world of humans, the Arkon had nevertheless managed, with his dying breath, to cast a spell on the traitor; a spell that trapped the entire library in a "black hole" of the spirit world: whether one is a real human or an imaginary character, one could henceforth enter it, but not leave, for as long as the traitor remained "alive". The three humans thus remained trapped as phantoms (spectres becoming embodied at times) in this place; as did the novel characters, who can however still come and go between the underground library and their own literary world.
 
@@ -128,23 +128,23 @@ It is represented by the humans or beasts who died in the library after its curs
 The world of books
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The characters from the literary, imaginary world are solely novel heroes whom the child Octave brought to life because he admired them particularly. They are also called "\ **Avatars**\ ".
+The characters from the literary, imaginary world are solely novel heroes whom the child Octave brought to life because he admired them particularly. They are also called "\ **avatars**\ ".
 
 These characters are in the state their authors left them in at the end of their respective "stories", and not according to what the child knows/imagines about them. They do not age.
 
-They each return to their parallel world through their books, whenever they wish. Time flows identically in all worlds, but in their books, the Avatars live in an "eternal present", where their situation is broadly unchanging, since their author has stopped writing.
+They each return to their parallel world through their books, whenever they wish. Time flows identically in all worlds, but in their books, the avatars live in an "eternal present", where their situation is broadly unchanging, since their author has stopped writing.
 
-- If the Avatars die in the real world, this is equivalent to a death in their imaginary world (a death subject to their own system of religious beliefs); they are then projected back there, and do not become phantoms in the real world.
+- If the avatars die in the real world, this is equivalent to a death in their imaginary world (a death subject to their own system of religious beliefs); they are then projected back there, and do not become phantoms in the real world.
 
 - They can interact freely with the world of the living, its humans and animals, its objects and grimoires; **except with the "novels"**, which they cannot move, because these books carry an entire universe within them. {% fact "avatars_cannot_carry_novels" %}
 
 - They can neither see, hear, nor sense the characters of the world of the dead, and have nothing to fear from their touch (whether in embodied phase or not).
 
-- These Avatars wear their "typical" costumes and accessories from their novels, those they had when Octave involuntarily summoned them.
+- These avatars wear their "typical" costumes and accessories from their novels, those they had when Octave involuntarily summoned them.
 
 - They cannot bring back any other object or individual from/to their world of origin (not even decorative accessories). They are therefore, in all things, limited to what the Maupertuis library contains.
 
-- They cannot go into the world of other Avatars, nor welcome living people or phantoms into their own world.
+- They cannot go into the world of other avatars, nor welcome living people or phantoms into their own world.
 
 - They mostly retain the superpowers they possess in their own universe (regeneration, strength, spells...)
 
@@ -159,13 +159,13 @@ The world of automatons
 
 *The logistics assistants, photographers, and buffet servers would do well to belong to this world, for added atmosphere and a good freedom of action.*
 
-With Octave's help, the "Inventor" Avatar had designed automatons able, for instance, to wait at table. These are purely mechanical entities, devoid of any consciousness and of any magical power. Some can speak and understand simple orders; other automatons are limited to very specific tasks such as serving food and drinks, or doing the cleaning. {% fact "inventor_has_built_androids" %}
+With Octave's help, the "Inventor" avatar had designed automatons able, for instance, to wait at table. These are purely mechanical entities, devoid of any consciousness and of any magical power. Some can speak and understand simple orders; other automatons are limited to very specific tasks such as serving food and drinks, or doing the cleaning. {% fact "inventor_has_built_androids" %}
 
-To be more easily distinguished from the Avatars, besides their gait and speech, the automatons must wear **{% symbol "white ribbons" for "automaton_symbolic_cloth" %}** around their neck and wrists. {% hint "white_ribbon_cloth_for_automatons" is needed %}
+To be more easily distinguished from the avatars, besides their gait and speech, the automatons must wear **{% symbol "white ribbons" for "automaton_symbolic_cloth" %}** around their neck and wrists. {% hint "white_ribbon_cloth_for_automatons" is needed %}
 
 They obey only the character (NPC actor or player) wearing a **wide silver bracelet called the {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**. They respond to the wearer's orders as best they can, as long as these fall within their abilities, and do not directly contradict their innate rules of non-aggression and survival. *If in doubt about how to react to a difficult order, simulate the automaton's hesitation or incomprehension, and discreetly ask the Game Master.* {% fact "robots_obey_but_refuse_violence_or_sacrifice" %}
 
-The robots see the living and the Avatars, but NOT the phantoms. They are visible to all.
+The robots see the living and the avatars, but NOT the phantoms. They are visible to all.
 
 They are generally slow and rigid in their movements. But they have **immense physical strength**, and can therefore move ULTRA-HEAVY objects on request. In a brawl, they would easily win against a human.
 
@@ -198,7 +198,7 @@ Typical lines:
 - "I serve the Maupertuis lineage and it is an immense joy."
 - "On your left, the tomb of the greeeeat Magus Mos Peratys, founder of the lineage..."
 
-They may malfunction at times, until the Inventor Avatar or a player unjams them:
+They may malfunction at times, until the Inventor avatar or a player unjams them:
 
 - They stutter, bump into walls and obstacles, get their arms stuck in one another's, or move oddly on the spot in "faulty gear" fashion...
 - They may end up in a logical deadlock, constantly wanting to give way to another automaton: "No, no... After you... I wouldn't dream of it...".
@@ -539,7 +539,7 @@ Lower floor (normal library)
 
 - The graveyard (rudimentary graves of the child, the Archivist and the Arkon)
 
-- Various chests and objects scattered around the place, as well as "markers" placed on the floor by the Avatars during their fruitless investigations
+- Various chests and objects scattered around the place, as well as "markers" placed on the floor by the avatars during their fruitless investigations
 
 Upper floor (Forbidden Domain)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -599,7 +599,7 @@ A player can be harmed in the following cases:
 
 - If they are touched by a phantom in disembodied phase (in spectral wandering): **sacred injury**. If they are attacked at length by the phantom Beast, or stand in a phantom's way instead of fleeing, it ends up killing them. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
-- If they touch a cursed object, such as a sounding skull or the bones that go with it {% fact "cursed_skull_and_bones_give_sacred_injuries" %}: **biological injury**. A pentacle, for its part, is NOT dangerous, except during a ritual. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- If they touch cursed remains, such as a sounding skull or the bones that go with it {% fact "cursed_skull_and_bones_give_sacred_injuries" %}: **sacred injury**. A pentacle, for its part, is NOT dangerous, except during a ritual. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
 - If they set off a physical or magical trap, that is to say knock a **jingle bell** to the floor (e.g. a thread stretched across an aisle) or trigger the chirp of a presence-detecting **cicada** (e.g. by opening a chest): **biological injury**.
  {% fact "cicada_or_minibell_sound_mean_injury" %}
@@ -618,7 +618,7 @@ The players are supposed to look among themselves for ways to heal, thanks to ma
 
 The players are, by themselves, very helpless in the face of the various injuries; they have NO abilities in this respect. {% fact "players_have_no_medecine_abilites" %}
 
-**Healing by Avatars**: Depending on their type, injuries can be healed by some of the Avatars present. The Avatars must first leave the player with their injuries for a few minutes, long enough to "gather what is needed to heal them". Then they proceed with an operation or a ritual - **to be invented for the occasion**.
+**Healing by avatars**: Depending on their type, injuries can be healed by some of the avatars present. The avatars must first leave the player with their injuries for a few minutes, long enough to "gather what is needed to heal them". Then they proceed with an operation or a ritual - **to be invented for the occasion**.
 
 {# NOPE FORGET THAT FOR NOW
 but beware, these interventions have **a 1 in 6 chance of failing dramatically** (then leading to the player's death - roll a die for it with the Game Master){ % fact "avatar_abilities_are_randomly_hazardous" % }.
@@ -655,11 +655,11 @@ A speech by the Game Master introduces the start of the game.
 
 Each group is then led, by an automaton, to a different spot on the lower floor of the library, with introductory music.
 
-As a reminder, the library is holding its annual celebration today, as it has every year for 1000 years. The automatons (once designed by the Inventor and Octave) start bustling about to organise this celebration; some may initially be "switched off", seated or on the floor, waiting for the Inventor Avatar to turn them on.
+As a reminder, the library is holding its annual celebration today, as it has every year for centuries. The automatons (once designed by the Inventor and Octave) start bustling about to organise this celebration; some may initially be "switched off", seated or on the floor, waiting for the Inventor avatar to turn them on.
 
 At this point, the phantoms all move about in their disembodied form.
 
-Some Avatars may already be present (for instance the Duchess praying in the graveyard, the Druid in his mini-jungle, the Inventor repairing an automaton), awaiting the opening of the buffet.
+Some avatars may already be present (for instance the Duchess praying in the graveyard, the Druid in his mini-jungle, the Inventor repairing an automaton), awaiting the opening of the buffet.
 
 
 The opening of the Otherworld Buffet
@@ -667,9 +667,9 @@ The opening of the Otherworld Buffet
 
 Lively music starts up, and the Inventor comes to the banquet, loudly calling on his friends from the imaginary world to join him in raising a toast to Octave and the Archivist, and in hoping together for the lifting of the curse.
 
-The other Avatars converge, the players who were nearby get harangued too, and are swept up in this mixture of assorted declamations and dance moves, as the banquet opens.
+The other avatars converge, the players who were nearby get harangued too, and are swept up in this mixture of assorted declamations and dance moves, as the banquet opens.
 
-The dishes on the buffet are supposed to be produced automatically by the enchanted table. Optionally, if it is not already visible, the laden buffet can be made to appear by means of a simple magic formula, which the Avatars know. {% fact "buffet_table_magically_generates_food" %}
+The dishes on the buffet are supposed to be produced automatically by the enchanted table. Optionally, if it is not already visible, the laden buffet can be made to appear by means of a simple magic formula, which the avatars know. {% fact "buffet_table_magically_generates_food" %}
 
 Once the music is over, players and heroes get better acquainted around the buffet. It is assumed that, by design, these magic dishes are also accessible to the phantoms (embodied or not).
 
@@ -677,7 +677,7 @@ Once the music is over, players and heroes get better acquainted around the buff
 The first embodiment of the phantoms
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-After a while, the gong sounds; the tutor-archivist becomes embodied, and calls the players to come to him. He is delighted to have visitors in this place - and perhaps, with them, a hope of resolving the curse. He answers the players' questions, and **tests their good intentions** with the "{% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}". He points out to them (again) the presence of the buffet, which for him **"activated on its own"** (as he cannot see the Avatars), on this anniversary date of the tragedy, as it does every 100 years
+After a while, the gong sounds; the tutor-archivist becomes embodied, and calls the players to come to him. He is delighted to have visitors in this place - and perhaps, with them, a hope of resolving the curse. He answers the players' questions, and **tests their good intentions** with the "{% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}". He points out to them (again) the presence of the buffet, which for him **"activated on its own"** (as he cannot see the avatars), on this anniversary date of the tragedy, as it does every year
 
 The other phantoms also become embodied (preferably a little later), each at their anchor point further away from the banquet.
 
@@ -720,7 +720,7 @@ Later, shortly after the opening of the Forbidden Domain, the Druid feels threat
 The Druid sends the sentinel automaton to **assassinate** (with a bullet to the torso) two people:
 
 - **The Oracle player**, who receives the visions
-- **The Duchess NPC actor**, who helps her with this
+- **The Duchess NPC actor**, who helps them with this
 
 The killer automaton seeks to frighten, or at most wound in the legs, the other protagonists, but no more; for the Druid is counting on them to remove the library curse. It is therefore particularly careful with the precious Diakons.
 
@@ -901,7 +901,7 @@ The remedy for marbled degeneration (Parcival family)
 
 - The {% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %} requires mixing three potions: the Flexifying Elixir (harmless), the Clairvoyance Lotion (harmless), and the Pyrolitis Tincture (dangerous). {% hint "recipe_rejuvenation_cocktail" is needed %}
 
-- The recipes for the first two potions are on the authorised floor; the Archivist had come across them, and had marked their location on the floor with **white crosses** (in tape). {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %} {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %} {% fact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
+- The recipes for the first two potions are on the authorised floor; the Archivist had come across them, and had marked their location on the floor with **white arrows** (in tape). {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %} {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %} {% fact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 
 - These first two potions only call for ingredients that are easily accessible in the Parcival family's country, so they do not need to be made on site. But the help of the **Druid** is needed to recognise the obsolete names that designate certain ingredients in these recipes (or else question the Maupertuis parents from the afterlife). {% fact "druid_known_about_plants_and_gems" %} {% fact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredients_for_clarity_lotion_recipe" %}
 
@@ -942,7 +942,7 @@ The code is made up of symbols spread across 4 (indestructible) Maupertuis jewel
 
 The various jewels:
 
-- The mother's brooch is on **Octave's grave**; he had worn it as a keepsake after finding it in the library; this brooch was almost all that remained in the child's ashes after the betrayal, so the Avatars laid it there as a sign of mourning. This object must guide the players in understanding the overall puzzle. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %} {% fact "octave_carried_mother_jewel_after_her_death" %}
+- The mother's brooch is on **Octave's grave**; he had worn it as a keepsake after finding it in the library; this brooch was almost all that remained in the child's ashes after the betrayal, so the avatars laid it there as a sign of mourning. This object must guide the players in understanding the overall puzzle. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %} {% fact "octave_carried_mother_jewel_after_her_death" %}
 
 - The father's brooch is hidden in his key-protected magic book; this book was found by the heroes (who left a mark on the floor to point it out), but they did not know how to open it. The **magnetism and UV detectors** give a code, which is used to open ANOTHER magic book with a numeric code (also marked on the floor), which in turn contains the key to the first.
   {% hint "maupertuis_father_jewel_in_twin_books" is needed %} {% hint "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
@@ -1011,11 +1011,11 @@ Unmask and neutralise the villain
 
 {% macro quest_to_find_traitor_and_final_battle() %}
 
-The accounts of the various phantoms agree on the fact that they died while the ritual was taking place. Suspicion should initially fall on the Arkon, especially from the Avatars (who were unable to see him afterwards as a phantom). But the Beast of the forbidden floor, or a possible curse linked to the ancestor {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}, may also be suspected.
+The accounts of the various phantoms agree on the fact that they died while the ritual was taking place. Suspicion should initially fall on the Arkon, especially from the avatars (who were unable to see him afterwards as a phantom). But the Beast of the forbidden floor, or a possible curse linked to the ancestor {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}, may also be suspected.
 
 The Arkon, for his part, knows that he fought savagely against an assailant shrouded in darkness, who resisted physical, magical and sacred attacks well; and that he therefore cursed this attacker (and the library) as he succumbed.
 
-Suspicion then turns to the Avatars, who were able to come and go between the worlds while the ritual was taking place, via various copies of their novels.
+Suspicion then turns to the avatars, who were able to come and go between the worlds while the ritual was taking place, via various copies of their novels.
 
 The remains of Octave and the Archivist cannot be found; it seems they were reduced to ashes. Only the bones (but **without the skull**) of the Arkon remain, which have indeed become indestructible. **The medical analysis of these bones** reveals signs of burning. {% hint "arkon_bones_having_traces_of_burning" is needed %}
 
@@ -1029,13 +1029,13 @@ Several **oracles** are also delivered to steer the players.
 - One shows a wooden, clawed hand threatening the world, as well as a skull beneath tree roots, making it possible to discover the Arkon's skull in the Druid's "indoor mini-jungle".
   {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
   **The medical analysis of the skull** shows curare poisoning, which naturally casts suspicion on the Druid.  {% hint "arkon_skull_analysis_showing_curare_poisoning" is needed %}
-- Another oracle shows a book bearing the number 3, wedged between evocations of "Zoology" and "Pastries". Volume 3 of the Druid's novel is hidden between these two shelves of books, indicated by labels on the furniture. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_labels_showing_zoology_and_cooking_shelves" is needed %}
+- Another oracle shows a book bearing the number 3, wedged between evocations of "Zoology" and "Gastronomy". Volume 3 of the Druid's novel is hidden between these two shelves of books, indicated by labels on the furniture. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_labels_showing_zoology_and_cooking_shelves" is needed %}
   Reading an **excerpt from Volume 3** shows that the Druid actually became a cruel and treacherous tyrant at the end of his own adventure. {% hint "chaos_novel_volume_three_between_zoology_and_cooking_shelves" is needed %}
 
 The Druid initially denies all accusations, calling his accusers mad.
-{# LATER **SIDE IDEA: during the game, the traitor murders one of the Avatars, who objected too strongly to the idea of removing the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} without having solved the investigation into the humans' deaths.** #}
+{# LATER **SIDE IDEA: during the game, the traitor murders one of the avatars, who objected too strongly to the idea of removing the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} without having solved the investigation into the humans' deaths.** #}
 
-But when the various conclusive clues are laid out before the other Avatars, they side with the players.
+But when the various conclusive clues are laid out before the other avatars, they side with the players.
 Typically, the Duchess will then go and confront the Druid, to intense music. {% fact "duchess_immediately_confronts_traitor_when_exposed" %}
 
 He then changes his stance, owns up to his crime in the name of the Salvation of Pangea, and reminds everyone that he is far more powerful than all the participants put together. He therefore demands that everyone help him break the library curse, in exchange for their lives being spared in his future Haven of Nature.
@@ -1057,7 +1057,7 @@ But there are certain ways of getting at him:
 - Either bewitch a crossbow dart so that it becomes **unavoidably lethal**; this is a dark spell from the Thanatologue, the {% symbol "Sacrifice of Zarathustra" for "unavoidable_bullet_spell_name" %}, which requires the voluntary death of **three players** to create a "weapon that does not forgive". {% hint "unavoidable_bullet_spell_from_thanatologue" is needed %}
   The Alchemist can recreate darts thanks to a recipe found in the Forbidden Domain. {% fact "parcival_alchemist_can_create_iridium_arrows" %} {% hint "arrow_recipe_for_alchemist" is needed %}
 
-- Or the most effective way: make a ritualist invulnerable to physical, toxic and magical attacks, then send him to destroy the otherworld corridors en masse thanks to one of his **rituals**, thereby walling the Avatars up in their respective worlds. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
+- Or the most effective way: make a ritualist invulnerable to physical, toxic and magical attacks, then send him to destroy the otherworld corridors en masse thanks to one of his **rituals**, thereby walling the avatars up in their respective worlds. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
 A holographic prophecy detailing this "invulnerable Diakon" procedure and its limits can be triggered by activating, with a Lotion of Revelation, one of the horrific portraits hanging on the wall; a recognisable portrait, as it reacts to the metal detector (the player who owns this tool has information about this).
 {% hint "scary_lenticular_painting_with_metal_in_it" is needed %}
@@ -1072,7 +1072,7 @@ Here is the "optimal" course of this final battle using an expulsion ritual:
 
 - The players must gather **the {% symbol "Etheric Necklace of Stone Skin" for "etheric_stone_skin_necklace_name" %}, the {% symbol "Etheric Necklace of Vital Force" for "etheric_vital_force_necklace_name" %}, and the {% symbol "Etheric Necklace of Manaic Aura" for "etheric_manaic_aura_necklace_name" %}**, which are stored in various places in the library. {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
 
-- For safety, the other Avatars must be urged by the Exorcist to each return to their world, otherwise they would be put in grave danger by the ritual. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
+- For safety, the other avatars must be urged by the Exorcist to each return to their world, otherwise they would be put in grave danger by the ritual. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
 - When the Exorcist begins his ritual, the Druid is at first confused, then, understanding what is happening, he attacks him by various means, but in vain.
 
@@ -1086,7 +1086,7 @@ Whether the traitor is annihilated one way or another (cursed bullet or expulsio
 
 But if a player follows the Druid's orders and lifts the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %}, or if everyone takes too long to act and the Druid finally breaks this curse himself (thanks to a formula supposedly found in a grimoire), then the Druid immediately escapes from the library.
 
-In that case, the players can indeed go home, but with the bitterness of failure: having let a monster loose on their world. And the **remaining Avatars** (or those who came back having sensed the tragedy) can choose between being sent back, or staying to try to help this planet against the new peril.
+In that case, the players can indeed go home, but with the bitterness of failure: having let a monster loose on their world. And the **remaining avatars** (or those who came back having sensed the tragedy) can choose between being sent back, or staying to try to help this planet against the new peril.
 
 {% endmacro %}
 <{ quest_to_find_traitor_and_final_battle }/>
@@ -1095,13 +1095,13 @@ In that case, the players can indeed go home, but with the bitterness of failure
 Finish the Avatar expulsion ritual (Diakons)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The Avatars initially refuse to let anyone continue the ritual, begun by the Arkon and interrupted by the villain's betrayal, with a view to sending them home. Indeed, they do not want to leave until the phantoms have received justice and been freed. Added to this, initially, is the fear that the ritual itself caused these tragedies.
+The avatars initially refuse to let anyone continue the ritual, begun by the Arkon and interrupted by the villain's betrayal, with a view to sending them home. Indeed, they do not want to leave until the phantoms have received justice and been freed. Added to this, initially, is the fear that the ritual itself caused these tragedies.
 
 The pentacle and the ritual objects are still in place, as the traitor did not dare touch this sacred magic that he does not know, and moreover cannot, by nature, carry novels. {% fact "avatars_cannot_carry_novels" %}
 
-It is only once the final battle plan is well established, or the villain already eliminated by some means, that the Avatars agree to return home and let the Exorcist's ritual send them back to their worlds for good.  {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
+It is only once the final battle plan is well established, or the villain already eliminated by some means, that the avatars agree to return home and let the Exorcist's ritual send them back to their worlds for good.  {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
-If a player attempts to forcibly send back the "good" Avatars, this will certainly cause a fair amount of chaos among the NPC actors as well as the players.
+If a player attempts to forcibly send back the "good" avatars, this will certainly cause a fair amount of chaos among the NPC actors as well as the players.
 
 
 Remove the library's {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} prematurely (trap)
@@ -1144,13 +1144,13 @@ These slots each await a key object, which is an epoxy resin casting:
 
 It is indicated, by a coat of arms (with a flame triad) that the Anthropologist knows, and by an excerpt from the Thanatologue, that by gathering these crystals and proclaiming a certain magic formula, one can open the **"Abyssal Vortex"**. {% fact "anthropologist_knows_about_fire_triad_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
 
-The Avatars or Maupertuis phantoms know nothing about this, but the Arkon is wary of this little-known artefact. {% fact "arkon_does_not_know_about_spiritual_orb_magic" %}
+The avatars or Maupertuis phantoms know nothing about this, but the Arkon is wary of this little-known artefact. {% fact "arkon_does_not_know_about_spiritual_orb_magic" %}
 
 It is in fact a communication channel to a demonic dimension. Once this channel is open (i.e. once the plasma ball is lit), the players who place a finger on it are contaminated by harmful influences too powerful for them. Depending on their character, they will have forfeits showing that their sanity has been damaged; always with a great deal of agitation and incoherent speech.
 
 Examples of forfeits:
 - the Oracle starts making preposterous predictions
-- the Alchemist drinks one of his potions (non-lethal)
+- the Alchemist drinks one of their potions (non-lethal)
 - others start using their metal detector or their UV lamp in vain, aimlessly...
 
 This orb can also open passages to other strata of reality. In particular, the Thief knows the formula for opening a passage to the **{% symbol "Fount of Knowledge" for "link_to_djinn_world" %}**. If the players place a finger on the orb while it is connected to this world, they become bound to the **invisible world of the Djinns**, small, curious, invisible, harmless spirits who wander about everywhere. {% fact "phantom_thief_knows_formula_of_link_to_djinn_world" %}
@@ -1230,7 +1230,7 @@ Historical and geographical context
 
 The action takes place on the planet Pangea, in the **{% symbol "year 1000" for "current_events_year" %} of the {% symbol "Era of the Great Appeasement" for "current_era_name" %}**; the current level of development there is similar to our 20th century on Earth, but with a much smaller population.
 
-In reality, the whole History of this planet, from prehistory up to the year 1900, is identical to ours. References to these periods of our world (Antiquity, Middle Ages, Renaissance...), to their cultural and artistic output, are therefore valid on Pangea, even if few people know them.
+In reality, the whole History of this planet, from prehistory up to 1908, is identical to ours. References to these periods of our world (Antiquity, Middle Ages, Renaissance...), to their cultural and artistic output, are therefore valid on Pangea, even if few people know them.
 
 It was at the start of the 20th century that the two worlds diverged. While ours continued on its path towards the world wars, Pangea suffered a major tectonic and climatic upheaval, called the {% symbol "Planetary Cataclysm" for "catastrophic_period" %}, which torpedoed all human development for centuries.
 
@@ -1286,7 +1286,7 @@ World map of Pangea
 Knowledge of the characters of the Maupertuis era
 ============================================================
 
-*Here is what all the Avatars and phantoms know, except the Thief; the latter knows a little about the old legends and the context of the sacking of the manor, but that is all. Deliver this information to the players when they question you about it on their own initiative.*
+*Here is what all the avatars and phantoms know, except the Thief; the latter knows a little about the old legends and the context of the sacking of the manor, but that is all. Deliver this information to the players when they question you about it on their own initiative.*
 
 
 The {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}
@@ -1294,7 +1294,7 @@ The {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}
 
 This Magus lived {% symbol "3 centuries" for "mages_war_before_curse_timedelta" %} before the library curse, during the {% symbol "War of the Thirty Sorcerers" for "mages_war_name" %}.
 
-A formidable mage, alchemist and duellist, he defeated all his adversaries. Legend has it that he was invulnerable to magic spells, and could make rain or hail fall on entire cities, whereas his invoker adversaries never affected more than a few ares of ground at a time.
+A formidable mage, alchemist and duellist, he defeated all his adversaries. Legend has it that he was invulnerable to magic spells, and could make rain or hail fall on entire cities, whereas his invoker adversaries never affected more than a small plot of ground at a time.
 
 To avoid any poisoning, he had learnt to generate food himself from mere rocks; knowledge that has survived among his descendants in the form of a magic banquet table, located in the library, which transmutes food on its own from the surrounding rocks. {% fact "buffet_table_magically_generates_food" %}
 
@@ -1340,7 +1340,7 @@ The Forbidden Domain and the Beast
 
 The Maupertuis Forbidden Domain, a floor of the library filled with dangerous secrets, has always been protected by **living monsters**, enchanted to do without food and live long. Pampered in exchange for their good services, these creatures were, from generation to generation, presented to the new Maupertuis heirs, who became their new masters. The identity of these creatures was deliberately hidden, for safety, so that only the Maupertuis heirs knew which species they belonged to.
 
-At the time of the library curse, one guard monster remained, nicknamed "the Beast", in the Forbidden Domain; it probably met a grim fate (the phantoms sometimes hear its mournful cry, but the Avatars do not). It is said to have had the peculiarity of being very short-sighted, **not seeing much beyond 3 m**. {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
+At the time of the library curse, one guard monster remained, nicknamed "the Beast", in the Forbidden Domain; it probably met a grim fate (the phantoms sometimes hear its mournful cry, but the avatars do not). It is said to have had the peculiarity of being very short-sighted, **not seeing much beyond 3 m**. {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 
 The entrance to the Forbidden Domain has been protected, since the founding of the library, by an **{% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %}**. This legendary bewitchment spectacularly resists **physical and magical attacks, and can even block phantoms**; this last point is usually anecdotal, as spirits can usually bypass this blockade and pass through the walls (however, the phantoms have not seen any spectre of the Beast wandering on their side of the library). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %} {% fact "phantoms_cannot_cross_some_fence_enchantments" %}
 
@@ -1379,7 +1379,7 @@ The automatons, strangely, ignore the sound of this bell.
 
 If someone presses the bell for the first time, the GM must trigger the unsettling soundtrack of the **{% symbol "spectral frenzy" for "phantom_frenzy_name" %}**. The phantoms then switch to their disembodied form, and rush towards the sound of the bell. Once near it, they wander left and right, not far off, distraught, until the end of the soundtrack, then go back to what they were doing before. {% fact "table_bell_triggers_spectral_frenzy" %}
 
-Afterwards, the bell is supposed to be **temporarily drained** of its magic; the Avatars and phantoms can sense this and tell the players if they press the bell again. *Put black tape on it to show this.* {% fact "table_bell_is_only_usable_once" %}
+Afterwards, the bell is supposed to be **temporarily drained** of its magic; the avatars and phantoms can sense this and tell the players if they press the bell again. *Put black tape on it to show this.* {% fact "table_bell_is_only_usable_once" %}
 
 *Mini-spoiler: It is in reality just a recall signal forgotten by the Ankou during a previous visit, but only the Ankou knows this.* {% fact "table_bell_belongs_to_ankou" %}
 
@@ -1470,7 +1470,7 @@ Here, for instance, is how precious items sold, at the best price, in the time o
 Note that these values in kashes have remained broadly constant throughout the History of Pangea, up to the present day.
 {% fact "precious_objects_have_kept_same_kash_value_along_history" %}
 
-*Out-of-game NOTE*: As for precious jewels, their estimated value is written on a white label.
+*Out-of-game note*: As for precious jewels, their estimated value is written on a white label.
 
 {% endmacro %}
 <{ treasures_value_summary }/>

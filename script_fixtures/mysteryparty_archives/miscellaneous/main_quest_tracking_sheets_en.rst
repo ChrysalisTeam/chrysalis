@@ -5,7 +5,7 @@ TRACKING SHEET FOR OCTAVE AND THE ARCHIVIST - Quest of the Parcival Heirs
 
 ---
 
-<{ explorer_group_symbols }/>
+<{ parcival_group_symbols }/>
 
 ---
 

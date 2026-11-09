@@ -43,7 +43,7 @@ Le code de cette valisette changeait automatiquement chaque jour. Les chiffres a
 
 Vous aviez en vain fouillé cette mallette, tous les deux, tout en prenant garde, car elle est **partiellement piégée** contre les intrus. {% fact "octave_and_archivist_know_about_venture_prins_book_location" %} {% fact "octave_and_archivist_have_searched_family_briefcase" %} {% fact "octave_and_archivist_know_about_trap_of_family_briefcase" %} {% hint 'trap_in_family_briefcase' is needed %}
 
-Vous savez indiquer l'emplacement du boitier en bois à quiconque vous le demande **(voir Plan du Jeu)**.
+Vous savez indiquer l'emplacement du faux livre {% symbol "Venture Prins" for "small_wooden_fake_book_name" %} à quiconque vous le demande **(voir Plan du Jeu)**.
 
 Par ailleurs, vous avez entendu bien des choses, des parents Maupertuis, sur la dangerosité de **la Bête**, donc si les joueurs veulent ouvrir le passage vers le domaine interdit, vous les exhortez à avoir d'abord un plan pour la neutraliser, sous quelque forme qu'elle pointe le bout du museau. {% fact "octave_and_archivist_warn_players_about_beast_dangerousness" %}
 

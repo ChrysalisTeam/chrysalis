@@ -4,7 +4,7 @@ COMPLEMENT D'INSTRUCTIONS - DIACRES
 
 {% macro maupertuis_archives_quick_tour() %}
 
-Aperçu des archives secrètes des maupertuis
+Aperçu des archives secrètes des Maupertuis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Un des rares visiteurs de ce sanctuaire, du temps de sa grandeur, l'a narré ainsi :

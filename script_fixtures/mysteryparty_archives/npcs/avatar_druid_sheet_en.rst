@@ -69,7 +69,7 @@ Thus, if asked, you readily indicate: {% fact "druid_known_about_plants_and_gems
 - that "aventurine" is a stone of a beautiful green, often smooth and slightly translucent {% fact "druid_knows_about_aventurine" %}
 - that "tiger's eye" is the name of a dark orange mineral {% fact "druid_knows_about_tiger_eye" %}
 
-**You may spontaneously offer your help to the Alchemist**, who will need to recognise these names in the recipes she finds.
+**You may spontaneously offer your help to the Alchemist**, who will need to recognise these names in the recipes to be found.
 
 Regarding the main investigation: if the initial suspicions of guilt have moved away from the Arkon (now credible) and the Beast (neutralised), you can try to temporarily cast doubt on the Magus's tomb, or on your fellow avatar the Inventor (isn't it strange to love machines so much?). {% fact "druid_tries_to_frame_magus_or_inventor" %}
 

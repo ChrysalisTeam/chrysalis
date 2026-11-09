@@ -599,7 +599,7 @@ Un joueur peut être atteint dans les cas suivants :
 
 - S’il se fait toucher par un fantôme en phase désincarnée (en errance spectrale) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête fantôme, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
-- S’il touche un objet maudit, comme un crâne sonore ou les ossements qui sont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure biologique**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- S’il touche une dépouille maudite, comme un crâne sonore ou les ossements qui sont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
 - S’il déclenche un piège physique ou magique, c'est-à-dire fait tomber un **grelot** par terre (ex. fil tendu dans une allée) ou déclenche le cri d'une **cigale** à détecteur de présence (ex. en ouvrant un coffre) : **blessure biologique**.
  {% fact "cicada_or_minibell_sound_mean_injury" %}
@@ -655,7 +655,7 @@ Un discours du maître de jeu introduit le début du jeu.
 
 Chaque groupe est ensuite amené, par un automate, dans un endroit différent de l’étage du bas de la bibliothèque, avec une musique introductive.
 
-Pour rappel, la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis 1000 ans. Les automates (autrefois conçus par l'inventeur et Octave) commencent à s'activer pour organiser cette fête ; certains peuvent être initialement "désactivés", assis ou au sol, en attendant que l'avatar Inventeur ne les allume.
+Pour rappel, la bibliothèque a aujourd'hui sa fête annuelle, comme chaque année depuis des siècles. Les automates (autrefois conçus par l'inventeur et Octave) commencent à s'activer pour organiser cette fête ; certains peuvent être initialement "désactivés", assis ou au sol, en attendant que l'avatar Inventeur ne les allume.
 
 Les fantômes se déplacent à ce moment tous sous leur forme désincarnée.
 
@@ -677,7 +677,7 @@ Une fois la musique finie, joueurs et héros font plus ample connaissance autour
 La première incarnation des fantômes
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-Après un moment, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être avec eux un espoir de résolution de la malédiction. Il répond aux questions des joueurs, et **teste leurs bonnes intentions** avec le "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". Il leur (re)signale la présence du buffet, qui pour lui s'est **"activé tout seul"** (car il ne voit pas les avatars), en cette date anniversaire du drame, comme tous les 100 ans
+Après un moment, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Ils se montre ravi d’avoir de la visite dans ces lieux - et peut-être avec eux un espoir de résolution de la malédiction. Il répond aux questions des joueurs, et **teste leurs bonnes intentions** avec le "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". Il leur (re)signale la présence du buffet, qui pour lui s'est **"activé tout seul"** (car il ne voit pas les avatars), en cette date anniversaire du drame, comme chaque année
 
 Les autres fantômes s'incarnent aussi (de préférence un peu après), chacun à son point d'attache plus loin du banquet.
 
@@ -719,7 +719,7 @@ Plus tard, peu après l'ouverture du Domaine Interdit le druide se sent menacé 
 
 Le druide envoie l'automate de garde pour **assassiner** (par une balle dans le torse) deux personnes :
 
-- **La joueuse Oracle**, qui reçoit les visions
+- **Le joueur ou la joueuse Oracle**, qui reçoit les visions
 - **La figurante Duchesse**, qui l'aide à cela
 
 L'automate tueur cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus ; car le druide compte sur eux pour supprimer la malédiction de la bibliothèque. Il se montre donc particulièrement prudent envers les précieux diacres.
@@ -901,7 +901,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 - Le {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %} demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
 
-- Les deux premières potions ont leurs recettes à l'étage autorisé ; l'archiviste les avait croisées, et avait marqué au sol leur emplacement avec des **croix blanches** (en scotch). {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %} {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %} {% fact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
+- Les deux premières potions ont leurs recettes à l'étage autorisé ; l'archiviste les avait croisées, et avait marqué au sol leur emplacement avec des **flèches blanches** (en scotch). {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %} {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %} {% fact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 
 - Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà). {% fact "druid_known_about_plants_and_gems" %} {% fact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredients_for_clarity_lotion_recipe" %}
 
@@ -1029,7 +1029,7 @@ Plusieurs **oracles** sont aussi délivrés pour aiguiller les joueurs.
 - L’un montre une main boisée et griffue menaçant le monde, ainsi qu'un crâne sous des racines d’arbres, permettant de découvrir le crâne de l'arkonte dans la “mini jungle d’intérieur” du druide.
   {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
   **L’analyse médicale du crâne** montre un empoisonnement au curare, ce qui fait naturellement suspecter le druide.  {% hint "arkon_skull_analysis_showing_curare_poisoning" is needed %}
-- Un autre oracle montre un livre portant le chiffre 3, coincé entre des évocations de "Zoologie" et de "Patisseries". Le Tome 3 du roman du Druide est caché entre ces deux rayonnages de livres, indiqués par des étiquettes sur les meubles. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_labels_showing_zoology_and_cooking_shelves" is needed %}
+- Un autre oracle montre un livre portant le chiffre 3, coincé entre des évocations de "Zoologie" et de "Gastronomie". Le Tome 3 du roman du Druide est caché entre ces deux rayonnages de livres, indiqués par des étiquettes sur les meubles. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_labels_showing_zoology_and_cooking_shelves" is needed %}
   La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% hint "chaos_novel_volume_three_between_zoology_and_cooking_shelves" is needed %}
 
 Le druide nie initialement toutes les accusations, en traitant ses accusateurs de fous.
@@ -1059,7 +1059,7 @@ Mais il existe certaines façons de l'atteindre :
 
 - Soit la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer détruire massivement les corridors d'outre-monde grâce à l'un de ses **rituels**, et murer ainsi les avatars dans leurs mondes respectifs. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
-Une prophétie holographique détaillant ce procédé de "diacre invulnérable" et ses limites peut être déclenchée en activant, par une Lotion de Restauration, un des portraits horrifiques suspendus au mur ; portrait reconnaissable, car il réagit au détecteur de métaux (le joueur possédant cet outil a des informations là-dessus).
+Une prophétie holographique détaillant ce procédé de "diacre invulnérable" et ses limites peut être déclenchée en activant, par une Lotion de Révélation, un des portraits horrifiques suspendus au mur ; portrait reconnaissable, car il réagit au détecteur de métaux (le joueur possédant cet outil a des informations là-dessus).
 {% hint "scary_lenticular_painting_with_metal_in_it" is needed %}
 {% hint "prophecy_hologram_for_scary_lenticular_painting" is needed %}
 {% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
@@ -1230,7 +1230,7 @@ Contexte Historico-géographique
 
 L'action se passe sur la planète Pangéa, en **l'{% symbol "an 1000" for "current_events_year" %} de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %}** ; le niveau de développement actuel y est similaire à notre 20° siècle terrestre, mais avec une population bien plus réduite.
 
-En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'à l'an 1900, est identique à la nôtre. Les références à ces époques de notre monde (Antiquité, Moyen-âge, Renaissance...), à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent.
+En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'en 1908, est identique à la nôtre. Les références à ces époques de notre monde (Antiquité, Moyen-âge, Renaissance...), à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent.
 
 C'est au début du 20° siècle que les deux mondes ont divergé. Pendant que le nôtre continuait son chemin vers les guerres mondiales, Pangéa a subi un bouleversement tectonique et climatique majeur, appelé le {% symbol "marasme planétaire" for "catastrophic_period" %}, qui a torpillé tout développement humain durant des siècles.
 
