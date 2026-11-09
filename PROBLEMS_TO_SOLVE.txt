@@ -13,6 +13,10 @@ Archives (script_fixtures/mysteryparty_archives/)
   The French has the same mismatch ("Patisseries"), and the English mirrors it.
   => Pick one name and use it in both languages.
 
+- UV message of Mérédice's portrait, "Adieu soeurette, qui mourra verra (signé Octave)", is a pun on "qui vivra verra".
+  English checklist now says "Farewell sis, time will kill (signed Octave)" (pun on "time will tell").
+  => Confirm the wording, and update the physical prop if an English one gets made.
+
 - Invented month names (junaire, decembaire...) and "@CRATE" codes were kept in French in the English documents.
   => Confirm this is intended.
 
@@ -27,6 +31,10 @@ Auction (script_fixtures/gamemaster_manual_en.yaml)
 - The "Chryalis" typo comes from the French source, and was kept in English.
   => Fix it in both languages.
 
+- "physical analysis" vs "Biophysical appraisal" (the French itself is inconsistent), "receiver" for "receleur",
+  and "fool's game" were left as is.
+  => Proofread these.
+
 
 Mindstorm (script_fixtures/mysteryparty_mindstorm/)
 ---------------------------------------------------
@@ -34,6 +42,13 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
 - Puzzles were rebuilt in English (THECEILINGOFTHETOILET, UNDERTHECOOKINGRECIPES,
   the "Sick-oh-free... won-oh-nine" clue for safe code 603-109).
   => Proofread them in context.
+
+- Alphonse's tribute poem no longer rhymes in English.
+  => Rewrite it as English verse, if wanted (keeping it no longer than the French, for pagination).
+
+- Alkaloid names: in the clue about Gelsemium, the title says "Gelsemine" and the text says "gelsemicine",
+  while the French uses "gelséminine" / "gelsémine".
+  => Check the intended alkaloid names in both languages.
 
 - "Ventes Privées d'Alphonse" was kept in French, as were the props and the text inside images.
   => Confirm, or translate (images would need re-editing).
