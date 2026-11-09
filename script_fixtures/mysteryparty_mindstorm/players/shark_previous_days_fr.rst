@@ -64,7 +64,7 @@ Ce judicateur vous a aussi prévenu qu'un concile à huis-clos allait avoir lieu
 
 
 
-{# IMPORTANT ADDITIONAL CHAPTER #}
+{# IMPORTANT ADDITIONAL CHAPTER: this is the GAMEMASTER version of the manor surveillance reports, with real identities and gamemaster hints; this is fine because Shark is always played by an organiser (NPC, see gamemaster_planning_details), never by a real player #}
 .. include::  gamemaster_manor_surveillance_reports.rst
 
 

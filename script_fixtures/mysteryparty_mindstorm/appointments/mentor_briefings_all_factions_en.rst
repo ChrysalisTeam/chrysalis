@@ -18,7 +18,7 @@ Lydia and Magnus get called by their estate manager, who asks whether he can hel
 
 Waden and Cynthia get called by Emilos Loakim, who is on his tumultuous excavation site on the continent of Keroskia; he wonders why Loyd Georges has invited them to this evening, and urges them to be wary.
 
-Obsidian is asked "what is this business about a confiscated service weapon"; his superiors recommend that he discreetly get hold of a weapon, because "you never know what can happen at this kind of evening"
+Obsidian is asked "what is this business about a confiscated service weapon"; her superiors recommend that she discreetly get hold of a weapon, because "you never know what can happen at this kind of evening"
 
 
 Mid-game briefing
@@ -49,7 +49,7 @@ In any case, the agents now have a mandate to negotiate, with the future consuls
 Information for the Masslavians (Malachite and Spinel)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Obsidian is said to belong to the Sabarith secret services; he seems to be concerned above all with national security, so try to form an alliance with him.
+Obsidian is said to belong to the Sabarith secret services; she seems to be concerned above all with national security, so try to form an alliance with her.
 
 The Lordanians' intentions are more or less clear, but if they too want to prevent the creation of an Akarith empire, an attempt must be made to pool the information about the Orb with them, so as to put it out of the Akariths' reach (and thus prevent their "prophecies" from galvanising them).
 

@@ -4,9 +4,9 @@ The hairdresser-masseur of Salima
 
 For decades you have been Loyd Georges' hairdresser-masseur, which has allowed you to build up a certain intimacy with him.
 
-You have been summoned to the manor by one of the guests, who acquired a "gift voucher for a neck massage" issued by your shop.
+You have been summoned to the manor by one of the guests, who acquired a "gift voucher for a scalp massage" issued by your shop.
 
-You then perform the said neck massage, while chatting about everything and nothing, and answering your client's questions.
+You then perform the said scalp massage, while chatting about everything and nothing, and answering your client's questions.
 
 Miscellaneous interactions:
 

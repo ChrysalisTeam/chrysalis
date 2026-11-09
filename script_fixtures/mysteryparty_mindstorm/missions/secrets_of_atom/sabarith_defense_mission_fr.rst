@@ -9,7 +9,7 @@ MISSION - Le traître atomique
 
 Le sujet est arrivé sans prévenir : lors d'écoutes routinières de la puissante (et peu coopérative) Académie d'Alifir, les services secrets sabarites ont eu la surprise de tomber sur un vénérable professeur de physique atomique, en pleine négociation avec un ambassadeur dorien. Et pas sur n'importe quel sujet : "{% symbol "des découvertes révolutionnaires dans le domaine militaire" for "physicist_discovery_claims" %}", à échanger contre argent et gloire.
 
-Immédiatement, branle-bas de combat général ; vous avez été envoyé perquisitionner la maison de ce "Professeur Voluto", pendant que vos collègues tendaient leurs filets autour de tous ses moyens de communication.
+Immédiatement, branle-bas de combat général ; vous avez été envoyée perquisitionner la maison de ce "Professeur Voluto", pendant que vos collègues tendaient leurs filets autour de tous ses moyens de communication.
 
 Manque de chance, le professeur est rentré inopinément, en plein milieu d'après-midi. Son interpellation s'est très mal passée ; malgré son grand âge, il s'est montré d'une violence inouie, et son coeur a lâché lorsque vous l'avez plaqué au sol...
 

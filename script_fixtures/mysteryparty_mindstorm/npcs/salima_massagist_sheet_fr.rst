@@ -4,9 +4,9 @@ Le coiffeur-masseur de Salima
 
 Vous êtes depuis des décennies le coiffeur-masseur de Loyd Georges, ce qui vous a permis de nouer une certaines intimité.
 
-Vous avez été mandé au manoir par un des invités, qui a acquis un "bon cadeau pour un massage du cou" émis par votre boutique.
+Vous avez été mandé au manoir par un des invités, qui a acquis un "bon cadeau pour un massage du crâne" émis par votre boutique.
 
-Vous réalisez alors ledit massage du cou, tout en parlant de tout, de la pluie et du beau temps, et en répondant aux questions de votre client.
+Vous réalisez alors ledit massage du crâne, tout en parlant de tout, de la pluie et du beau temps, et en répondant aux questions de votre client.
 
 Interactions diverses :
 

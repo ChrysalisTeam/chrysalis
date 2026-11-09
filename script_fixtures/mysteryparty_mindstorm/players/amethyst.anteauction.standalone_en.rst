@@ -27,7 +27,7 @@ Acting alone, you wiretapped the Akarith patriarch of Ghek {% fact 'amethyst_wir
 You have managed to blow the cover of two Dorian agents, sent to take part in the auctions and investigate Loyd Georges:
 
 - One introduces himself as "{{character_properties.topaz.official_name}}"; his passport is fake, however, as it refers to a registry number 150 years old! This character has probably never existed. The secret agent using this identity, with the identifier "Topaz", is nonetheless very real. {% fact 'topaz_official_is_non_existent' %}
-- The other, with the identifier "Peridot", goes by the name "{{character_properties.peridot.official_name}}". The real bearer of that name, however, is still in his jewellery shop in Imuo, as you discovered while reselling your gems on the black market. {% fact 'peridot_official_is_still_in_shop' %}
+- The other, with the identifier "Peridot", goes by the name "{{character_properties.peridot.official_name}}". The real bearer of that name, however, is still in his jewellery shop in Nimouk, as you discovered while reselling your gems on the black market. {% fact 'peridot_official_is_still_in_shop' %}
 
 
 

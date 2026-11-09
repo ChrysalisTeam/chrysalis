@@ -4,7 +4,7 @@
 *In search of Building Materials*
 
 
-To face the dark times ahead, no precaution is too great. Thus,
+To face the dark times ahead, no precaution is too great.
 
 It seems that Akarith industrialists have found a clever chemical process to "coagulate" certain mixtures of sand and bitumen, which occur naturally. They thereby make excellent building materials out of them, light, sturdy and insulating, making it possible to deploy buildings and bridges in record time.
 

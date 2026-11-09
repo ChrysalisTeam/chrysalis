@@ -49,7 +49,7 @@ Dans tous les cas, les agents ont désormais pour mandat pour négocier, avec le
 Informations pour les Masslaves (Malachite et Spinel)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Obsidian ferait partie des services secrets sabarites, il sembel se préoccuper avant tout de la sécurité nationale, tenter de faire alliance avec lui.
+Obsidian ferait partie des services secrets sabarites, elle semble se préoccuper avant tout de la sécurité nationale, tenter de faire alliance avec elle.
 
 Les intentions des Lordaniens sont plus ou moins claires, mais si eux aussi veulent éviter la création d'un empire akarite, il faut tenter de mettre en commun, avec eux, les informations sur l'Orbe, pour la mettre hors de portée des akarites (et empêcher ainsi leurs "prophéties" de les galvaniser).
 

@@ -38,7 +38,7 @@
   - you came back to the manor at {% symbol "22:00" for "evening_intrusion_time_garnet" %}, to get inside by blinding the security cameras {% fact 'garnet_breaks_into_manor_in_the_evening' %}
   - in the study, you found a highly secured safe, the number of a safe-deposit box at the Bank of Salima ({% symbol "AIXJ726H" for "lg_bank_account_number" %}) and a note from a certain E.L.
   - you heard moans of pain in Loyd Georges' bedroom, then the ringing of the call bell {% fact 'garnet_hears_moanings_and_bell' %}
-  - during your escape, the mastiff tore off a piece of your sole {% fact 'garnet_loses_shoe_heel' %}
+  - during your escape, the mastiff tore off the heel of your shoe {% fact 'garnet_loses_shoe_heel' %}
   - you went straight home to bed in your little room at the {% symbol "Les Myrtilles guesthouse" for "garnet_rental_location" %} {% fact "garnet_alibi_is_void" as author %}
 
 

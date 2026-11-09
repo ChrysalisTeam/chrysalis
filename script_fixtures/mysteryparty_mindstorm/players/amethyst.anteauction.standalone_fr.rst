@@ -27,7 +27,7 @@ En solo, vous avez mis sur écoute le patriarche akarite de Ghek {% fact 'amethy
 Vous avez pu percer la couverture de deux agents doriens, envoyés pour participer aux enchères et enquêter sur Lord Georges :
 
 - L’un se présente comme "{{character_properties.topaz.official_name}}" ; son passeport est cependant faux, car il fait référence à un numéro de registre vieux de 150 ans ! Ce personnage n'a probablement jamais existé. L’agent secret, d'identifiant "Topaz", qui utilise cette identité, est cependant bien une réalité. {% fact 'topaz_official_is_non_existent' %}
-- L’autre, d'identifiant "Peridot", se fait appeler "{{character_properties.peridot.official_name}}". Le véritable détenteur du nom, pourtant, est encore dans sa bijouterie à Imuo, comme vous l’avez découvert en revendant vos gemmes au marché noir. {% fact 'peridot_official_is_still_in_shop' %}
+- L’autre, d'identifiant "Peridot", se fait appeler "{{character_properties.peridot.official_name}}". Le véritable détenteur du nom, pourtant, est encore dans sa bijouterie à Nimouk, comme vous l’avez découvert en revendant vos gemmes au marché noir. {% fact 'peridot_official_is_still_in_shop' %}
 
 
 

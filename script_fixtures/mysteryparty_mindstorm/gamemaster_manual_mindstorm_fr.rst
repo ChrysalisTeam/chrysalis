@@ -161,12 +161,12 @@ L'Etat lordanien est étranger à ce trafic, qui met en danger sa tentative de r
 
 Les services secrets sabarites, eux, ont conscience que des choses ne tournent pas rond dans le bas-fond, mais sont bridés par leur subordination aux consuls. Les élections consulaires en cours pourraient évidemment changer la donne.
 
-L'agent sabarite Obsidian, présent à la soirée en tant que "adjoint de l'inspecteur Shark", doit entre autres enquêter sur ces akarites infiltrés.
+L'agent sabarite Obsidian, présente à la soirée en tant que "adjointe de l'inspecteur Shark", doit entre autres enquêter sur ces akarites infiltrés.
 
 - les agents masslaves savent que le {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %} sert de repaire à des purificateurs akarites {% fact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
 - Cynthia reçoit un message de traquenard, mal orthographié, qui une fois géolocalisé renvoie vers l'adresse du {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %}
-- le jeu de carte vendu par Alphonse contient un message codé annonçant une réunion des purificateurs au Bar du Purineur. {% hint 'card_game_with_unreadable_manual' is needed %}
-- un étrange spot radio fait une promotion plutôt contre-productive du Bar du Purineur
+- le jeu de carte vendu par Alphonse contient un message codé annonçant une réunion des purificateurs à la Brasserie du Purineur. {% hint 'card_game_with_unreadable_manual' is needed %}
+- un étrange spot radio fait une promotion plutôt contre-productive de la Brasserie du Purineur
 
 Si l'agent Obsidian remonte un de ces 2 bars à l'inspecteur Shark, rien ne se passe.
 En revanche, les services secrets sabarites peuvent y faire une descente.
@@ -200,7 +200,7 @@ Mais peu après, la radio informe que Lydia fait face à des accusations de frau
 {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} appelle Lydia peu après : certes ces accusations de fraude "encore à étayer", mais il a la preuve qu'Opal a participé au vol du "collier de la reine" en Lordanie, avec les "Loups Rouges" ; et il donne XXX (à décider) heures à Lydia pour se retirer de la course.
 Ce {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} a aussi fait glisser un faux document compromettant pour Lydia (fraude électorale), dans la valise d'Opal, espérant que dans le cadre de l'affaire Loyd Georges, elle soit fouillée à un moment.
 
-Pour Lydia, il s'agit soit de répudier son mari pour se protéger (choix cynique), soit de prendre le dessus dans la confrontation, en faisant disparaître les preuves (l'adjoint de police peut y aider), ou en révélant les crimes (trafic de drogue) de {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} pour le décrédibiliser par avance.
+Pour Lydia, il s'agit soit de répudier son mari pour se protéger (choix cynique), soit de prendre le dessus dans la confrontation, en faisant disparaître les preuves (l'adjointe de police peut y aider), ou en révélant les crimes (trafic de drogue) de {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} pour le décrédibiliser par avance.
 
 Pour les autres joueurs, c'est le moment de nouer des pactes avec Lydia et avec le {% symbol "Maestre Ramye Leydelass" for "notary_name" %}, qui à eux deux peuvent déterminer la politique future du pays (en particulier vis à vis de la crise Midolienne).
 
@@ -352,7 +352,7 @@ Les serviteurs ne savent pas où ces recettes sont (pas vues depuis plusieurs jo
 
 Si personne n'a encore vu les glyphes sur le toit de la cabane de jardin lorsque le cuisinier arrive, des serviteurs peuvent alerter bruyamment de leur surprenante présence.
 
-Piste alternative, si la recherche cale toujours et si le détecteur de radioactivité est disponible : un message d'Ernest de Villeuneuve annonce à Loyd Georges et Emilos Loakim que le livret livré ce matin au manoir risquait d'être **radioactif**, et qu'il leur fallait donc prendre des précautions.
+Piste alternative, si la recherche cale toujours et si le détecteur de radioactivité est disponible : un message d'Ernest de Villeneuve annonce à Loyd Georges et Emilos Loakim que le livret livré ce matin au manoir risquait d'être **radioactif**, et qu'il leur fallait donc prendre des précautions.
 Dès visualisation de ce message (via le compte de Loyd Georges hacké), les joueurs doivent penser à acheter le **détecteur de radiations** auprès du marché noir, le faire venir au manoir par un moyen ou un autre (colis postal ? masseur de Salima ? vieille dame ?), et s'en servir pour trouver le Panorbium Fortuna.
 
 Une fois arrivé, le cuisinier dit sans problème où ces recettes "encombrantes et inutiles" peuvent être récupérées : **dans un coin de la bibliothèque**.
@@ -382,7 +382,7 @@ Au début de la soirée, Rydji lui remet une lettre de {% symbol "Rodok" for "lg
 {# RECETTE UN PEU DIFFERENTE DE CELLE DU JDR CHRYSALIS:DESCENT, POUR EVITER LA TRICHE #}
 - champignon aquatique bleu (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% hint 'blue_aquatic_mushroom_juice' is needed %}
 - tentacule de poulpe caverneux (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% hint 'octopus_tentacle_in_bottle' is needed %}
-- petit fruit rouge qui pique (prune rouge d'Akarie, disponible en liqueur dans la bonbonne antique vendue aux enchères)
+- petit fruit rouge qui pique (prune rouge d'Akarie, disponible en liqueur dans la bonbonne antique (la "Bonbonne tectonne") vendue aux enchères)
 
 Les lordaniens ont aussi eu vent de cet Elixir, et ils sont intéressés de voir ses effets sur Opal, pour jauger de sa pertinence sur leur infanterie.
 
@@ -393,7 +393,7 @@ Ils ont pour leur part uniquement des indices sur les ingrédients complémentai
 - ajouter de la poudre de corne striée de chèvre (chèvre d'Akarie, disponible auprès de dame Clodynette) permet à l'utilisateur de garder sa raison au combat, et lui donne des réflexes surhumains pour parer la plupart des projectiles et des coups
 - dans tous les cas, s'il prend plus d'un millilitre d'Elixir en une semaine, l'utilisateur meurt d'épuisement en moins d'une journée
 
-Le mode préparatoire de la potion est trouvable grâce au grimoire akarite (vendu aux enchères) et aux dépôts poudreux de la bourse de cuire (compte de Lody georges). Ne pas les connaître altérera la qualité de la potion.
+Le mode préparatoire de la potion est trouvable grâce au grimoire akarite (le "Livre Sacré Yodique" vendu aux enchères) et aux dépôts poudreux de la bourse de cuir (compte de Loyd Georges). Ne pas les connaître altérera la qualité de la potion.
 
 Le cuisinier Robb Barrow peut préparer la potion pour Opal, en fonction des détails qu'on lui donne.
 
@@ -477,7 +477,7 @@ Trouver le coupable de l'agression contre Loyd Georges : l’énigme du laurier 
 ---------------------------------------------------------------------------------------
 
 
-Les différents rapports médicaux, et les récits de la journée de la veille (dont les alibis des protagonistes), laissent à penser que l’empoisonnement de Loyd Georges a eu lieu au dîner, avec de la blanquette de veau au laurier. Le chien de garde, Bedou, retrouvé mort avec des symptômes similaires à son maître, confirme cette intuition. Les autres habitants du manoir n'avaient pas dîné avec Loyd Georges, pour différentes raisons.
+Les différents rapports médicaux, et les récits de la journée de la veille (dont les alibis des protagonistes), laissent à penser que l’empoisonnement de Loyd Georges a eu lieu au dîner, avec de la blanquette de veau au laurier. Le vieux chien Bedou, retrouvé mort avec des symptômes similaires à son maître, confirme cette intuition. Les autres habitants du manoir n'avaient pas dîné avec Loyd Georges, pour différentes raisons.
 
 Alphonse retrouve, sur demande, la recette utilisée pour la blanquette de veau, puis l'emballage du laurier. Celui-ci contient, caché derrière quelques branchages, un petit flyer de publicité pour la boutique de l'apothicaire Maître Bibine.
 
@@ -485,7 +485,7 @@ Si l'inspecteur (lorsque PNJ) est mis au courant de cette découverte, il confis
 
 Sollicité, un des serviteurs peut aller s'enquérir des ventes de Maître Bibine, et ainsi retrouver la boîte postale (servant aussi de mini coffre-fort) via laquelle le colis a été livré ; une boîte qui est située dans le {% symbol "Hameau de Wiskons" for "hamlet_near_mlg_manor" %} non loin du manoir ; c'est par elle que Shark recevait ses ordres et fournitures de la part des akarites, ainsi que par la cabine télécom internationale attenante.
 
-Obsidian peut se rendre lui-même à la boite postale pour l'ouvrir de force, ou d'autres joueurs peuvent faire appel à des mercenaires pour cela.
+Obsidian peut se rendre elle-même à la boite postale pour l'ouvrir de force, ou d'autres joueurs peuvent faire appel à des mercenaires pour cela.
 La boite postale contient un courrier (ouvert) provenant des judicateurs akarites, indiquant au destinataire d'utiliser du muguet si nécessaire pour finir le boulot, et de garder l’antidote fourni en le cousant dans la doublure de sa veste, au cas où il était forcé d’ingérer son propre poison.
 
 Il est aussi possible de mettre la boite postale sous surveillance, par la vieille voisine ou par des mercenaires.
@@ -497,7 +497,7 @@ Mais divers indices doivent convaincre Obsidian que quelque chose ne tourne pas 
 - la lettre de l'intendant de police de Salima, répondant à une plainte de Loyd Georges contre les méthodes anormales de l'inspecteur
 - le comportement étrange de l'inspecteur : ses libertés vis à vis de la loi sabarite, ses manipulations de preuves, ses algarades avec ceux qui avancent trop dans des enquêtes parallèles, un juron akarite qu'il laisse échapper à un moment...
 
-Si l'inspecteur est démasqué assez tôt (ex. en trouvant l'antidote dans la doublure de son manteau), il s'emporte et prend en joue l'ensemble des participants, en les traitant de fous. Cela peut déclencher une confrontation menant à sa mort ou à son arrestation par l'adjoint de police (selon qui a une arme). Sinon, l'inspecteur Shark s'absente pour mettre dans la perfusion de Loyd Georges (qui est plus résistant que prévu) un ultime cardiotoxique ralentissant le coeur : de l’eau empoisonnée au muguet. Il en résulte une sorte de course contre la montre en fin de de soirée, pour prévenir l’hôpital et sauver le sir de Salima, avant que les purificateurs akarites n'attaquent le manoir.
+Si l'inspecteur est démasqué assez tôt (ex. en trouvant l'antidote dans la doublure de son manteau), il s'emporte et prend en joue l'ensemble des participants, en les traitant de fous. Cela peut déclencher une confrontation menant à sa mort ou à son arrestation par l'adjointe de police (selon qui a une arme). Sinon, l'inspecteur Shark s'absente pour mettre dans la perfusion de Loyd Georges (qui est plus résistant que prévu) un ultime cardiotoxique ralentissant le coeur : de l’eau empoisonnée au muguet. Il en résulte une sorte de course contre la montre en fin de de soirée, pour prévenir l’hôpital et sauver le sir de Salima, avant que les purificateurs akarites n'attaquent le manoir.
 
 
 
@@ -550,7 +550,7 @@ Le physicien Waden Shaw a officiellement puis officieusement travaillé avec le 
 Le Pr Voluto a tenté de vendre ses découvertes à divers pays, Waden s'est donc violemment disputé avec lui à l"Académie d'Alifir.
 Les enregistrements vidéo de cette dispute ont été subtilisés par des agents de {% symbol "Balberith" for "waden_blackmailer_lady_country" %}.  {% fact "voluto_death_day_academy_recordings_disappeared" %}
 
-Peu après, le jour même, l'agent sabarite Obisidan s'est fait surprendre par le Pr Voluto tandis qu'il perquisitionnait son domicile, et le vieil homme est accidentellement mort dans la lutte qui s'est ensuivie.
+Peu après, le jour même, l'agent sabarite Obsidian s'est fait surprendre par le Pr Voluto tandis qu'elle perquisitionnait son domicile, et le vieil homme est accidentellement mort dans la lutte qui s'est ensuivie.
 
 Désormais, les sabarites et les divers pays contactés tentent de retrouver les secrets du professeur Voluto, même s'ils ont en réalité très peu de moyens d'obtenir des indices pour cela (quête difficile) ; et de son côté Waden cherche à faire disparaître tout trace du laboratoire secret où tout est entreposé.
 
@@ -612,9 +612,9 @@ Le tabellion rassemble les invités autour du coffre-fort de Loyd Georges, pour 
 
 Il a sur lui (et non dans sa mallette) la clef du coffre, mais il lui manque le code secret et la carte magnétique de Loyd Georges. {% fact "notary_has_lg_vault_key" as author %}
 
-**Rydji dit que Loyd Georges notait toujours le dernier du coffre dans une "{% symbol "petite boite à mouchoir" for "lg_vault_secret_code_location" %}" qui trainait dans le salon, mais que cette boite a disparu dans le remue-ménage de préparation de la soirée.**
+**Rydji dit que Loyd Georges notait toujours le dernier code du coffre dans une "{% symbol "petite boite à mouchoir" for "lg_vault_secret_code_location" %}" qui trainait dans la salle à manger, mais que cette boite a disparu dans le remue-ménage de préparation de la soirée.**
 
-**Alphonse s'était vu confier par Loyd Georges où celui-ci gardait son pass magnétique doré, quelque part dans le salon, mais il l'a oublié.**
+**Alphonse s'était vu confier par Loyd Georges où celui-ci gardait son pass magnétique doré, quelque part dans la salle à manger, mais il l'a oublié.**
 
 La séance est donc reportée ; et Alphonse, au lieu de chercher par lui-même, met à contribution tous les invités pour fouiller la salle de réception, à la recherche de ces 2 éléments. {% hint 'lg_vault_pass_card' is needed %} {% hint 'lg_vault_secret_code' is needed %}
 

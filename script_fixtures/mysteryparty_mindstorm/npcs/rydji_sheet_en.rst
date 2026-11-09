@@ -14,7 +14,7 @@ That day, you were only away at around noon, to go to Salima to make preparation
 
 Being a vegetarian, at dinner you preferred to eat plain rice rather than veal blanquette.
 
-You then had tea with Loyd Georges, on a sofa in the lounge. Here is the conversation you had.
+You then had tea with Loyd Georges, on a sofa in the dining room. Here is the conversation you had.
 
 <{ lg_rydji_sofa_talk }/>
 

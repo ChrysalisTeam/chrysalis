@@ -19,7 +19,7 @@ Libre déplacement
 <{ manor_police_searches }/>
 
 Interception des informations
-    En tant qu'adjoint de police, c'est par vous que transitent les courriers, demandes, pièces à conviction destinés à l'inspecteur Shark (dont les gens ont, de surcroît, souvent peur). Et celui-ci fait, de la même façon, appel à vous pour transmettre des informations aux autres protagonistes de l'affaire, ou donner des ordres à la **douzaine de policiers** présents sur les lieux. Cela vous donne un fort pouvoir de manipulation de l'information (ajout, changement, rétention...), qui ne va bien sûr pas sans fortes responsabilités.
+    En tant qu'adjointe de police, c'est par vous que transitent les courriers, demandes, pièces à conviction destinés à l'inspecteur Shark (dont les gens ont, de surcroît, souvent peur). Et celui-ci fait, de la même façon, appel à vous pour transmettre des informations aux autres protagonistes de l'affaire, ou donner des ordres à la **douzaine de policiers** présents sur les lieux. Cela vous donne un fort pouvoir de manipulation de l'information (ajout, changement, rétention...), qui ne va bien sûr pas sans fortes responsabilités.
 
 <{ new_identity_and_life}/>
 

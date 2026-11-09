@@ -40,7 +40,7 @@ Vous avez l'habitude de :
 - faire le bravache à l'évocation de danger, mais déborder de couardise dès qu'il est réellement présent
 - accepter très sereinement des tâches bien trop complexes pour votre maigre quotient intellectuel, puis chercher de l'aide en tous sens lorsque vous bloquez dessus
 - surestimer votre talent dans quelqu'art que ce soit ; si le moment s'y prête, vos vocalises ou vos poèmes improvisés stupéfieront jusqu'au plus flegmatique des auditoires
-- avoir des trous de mémoire impromptus, y compris lorsque le contexte devrait vous rappeler immédiatement, par exemple, "pourquoi vous vous êtes rendu dans le salon des invités avec un plat rempli de petits fours"
+- avoir des trous de mémoire impromptus, y compris lorsque le contexte devrait vous rappeler immédiatement, par exemple, "pourquoi vous vous êtes rendu dans la salle à manger avec un plat rempli de petits fours"
 - suivre votre goût prononcé pour l'alcool et les jeux d'argent ; vous écumez souvent les tavernes des bas-fonds de Salima, en y laissant systématiquement la majeure partie de votre solde, ce qui vous a valu récemment quelques problèmes d'impayés
 
 <{ dual_of_honor_arbiter }/>
@@ -58,7 +58,7 @@ Les joueurs auront de multiples façon de profiter de vos services, que ce soit 
 
 Lorsque Cynthia et Waden arrivent au manoir, vous et Rydji tombez des nues : Loyd Georges avait toujours souhaité les tenir à l'écart de ces enchères et de leur cortège de personnages louches. Comment cela se fait-il qu'ils aient été invités ? {% fact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
 
-Comme la plupart des gens, vous avez un peu peur de l'inspecteur Shark, donc vous passez toujours par son **adjoint Obsidian** pour lui transmettre des lettres, objets ou informations.
+Comme la plupart des gens, vous avez un peu peur de l'inspecteur Shark, donc vous passez toujours par son **adjointe Obsidian** pour lui transmettre des lettres, objets ou informations.
 
 Envers le tabellion de Salima, vous êtes plutôt indifférent, vous pensez que "ce genre de notable parvenu n'arrive pas à la cheville de la vraie noblesse comme celle de Loyd Georges".
 

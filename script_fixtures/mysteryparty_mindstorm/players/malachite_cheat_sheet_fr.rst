@@ -18,7 +18,7 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
-- vous avez emprunté à son insu l'identité de {{character_properties.malachite.full_official_title}}, expert en histoire yodique qui reste disponible pour aider votre mission {% fact 'malachite_official_is_helping_secret_services' as author %} {% fact 'malachite_official_is_expert_in_yodic_history' %}
+- vous avez emprunté avec sa complicité l'identité de {{character_properties.malachite.full_official_title}}, expert en histoire yodique qui reste disponible pour aider votre mission {% fact 'malachite_official_is_helping_secret_services' as author %} {% fact 'malachite_official_is_expert_in_yodic_history' %}
 - vous faites équipe avec l'agent Spinel, avec qui vous partagez un appartement de Salima, au dessus de chez "Maître Bibine, apothicaire".
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% fact 'lg_has_found_and_hidden_an_orb' %}
 - vous avez démasqué "{{character_properties.garnet.full_official_title}}", et "{{character_properties.amethyst.full_official_title}}" comme étant les agents secrets lordaniens Garnet et Amethyst {% fact 'amethyst_is_undercover' %} {% fact 'garnet_is_undercover' %}
@@ -41,7 +41,7 @@
 <{ title_last_minute_information }/>
 ============================================
 
-- vous brûlez de pouvoir récupérer les 2 enregistreurs que vous avez posés dans le manoir (stylo-espion dans la bibliothèque, et dictaphone-espion derrière un canapé du salon)  {% fact 'malachite_must_recover_spy_recorders' %}
+- vous brûlez de pouvoir récupérer les 2 enregistreurs que vous avez posés dans le manoir (stylo-espion dans la bibliothèque, et dictaphone-espion derrière un canapé de la salle à manger)  {% fact 'malachite_must_recover_spy_recorders' %}
 
 
 <{ title_past_infractions }/>

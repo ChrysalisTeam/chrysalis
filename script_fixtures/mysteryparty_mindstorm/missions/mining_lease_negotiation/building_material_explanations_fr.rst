@@ -4,7 +4,7 @@
 *A la recherche de Matériaux de Construction*
 
 
-Pour affronter les temps sombres qui approchent, aucune précaution n'est de trop. Ainsi,
+Pour affronter les temps sombres qui approchent, aucune précaution n'est de trop.
 
 Il semble que les industriels akarites aient trouvé un procédé chimique astucieux pour "coaguler" certains mélanges de sable et de bitume, qui existent à l’état naturel. Ils en font ainsi d'excellents matériaux de construction, légers, robustes et isolants, permettant de déployer des bâtiments et des ponts en un temps record.
 

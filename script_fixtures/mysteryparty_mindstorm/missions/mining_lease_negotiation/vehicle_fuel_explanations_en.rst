@@ -3,7 +3,7 @@
 
 *In search of Fuel*
 
-To face the dark times ahead, no precaution is too great. We must therefore diversify our fuel supplies, to keep our military equipment running.
+To face the dark times ahead, no precaution is too great. We must therefore diversify our fuel supplies, to keep our military equipment running; incidentally, the bitumen of certain tar sands is easily refined into fuel.
 
 Now, a Sabarim public figure is offering for sale a large deposit of such tar sands.
 With modern techniques, we can extract within a few months all the resources of interest to us in the deposit, that is to say the equivalent of **10 megakashes** of bitumen (the remaining components are of no concern to us).

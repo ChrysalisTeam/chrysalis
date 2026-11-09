@@ -165,8 +165,8 @@ The Sabarith agent Obsidian, present at the evening as "Inspector Shark's deputy
 
 - the Masslavian agents know that the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %} serves as a den for Akarith Purifiers {% fact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
 - Cynthia receives a misspelt trap message which, once geolocated, points to the address of the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %}
-- the card game sold by Alphonse contains a coded message announcing a meeting of the Purifiers at the Purineur Bar. {% hint 'card_game_with_unreadable_manual' is needed %}
-- a strange radio spot gives the Purineur Bar some rather counter-productive publicity
+- the card game sold by Alphonse contains a coded message announcing a meeting of the Purifiers at the Purineur Brasserie. {% hint 'card_game_with_unreadable_manual' is needed %}
+- a strange radio spot gives the Purineur Brasserie some rather counter-productive publicity
 
 If agent Obsidian reports one of these 2 bars to Inspector Shark, nothing happens.
 On the other hand, the Sabarith secret services can raid it.
@@ -352,7 +352,7 @@ The servants do not know where these recipes are (not seen for several days), th
 
 If nobody has yet seen the glyphs on the roof of the garden shed when the cook arrives, servants may loudly raise the alarm about their surprising presence.
 
-Alternative lead, if the search is still stalling and if the radioactivity detector is available: a message from Ernest de Villeuneuve informs Loyd Georges and Emilos Loakim that the booklet delivered to the manor this morning might be **radioactive**, and that they should therefore take precautions.
+Alternative lead, if the search is still stalling and if the radioactivity detector is available: a message from Ernest de Villeneuve informs Loyd Georges and Emilos Loakim that the booklet delivered to the manor this morning might be **radioactive**, and that they should therefore take precautions.
 Upon viewing this message (via Loyd Georges' hacked account), the players must think of buying the **radiation detector** on the black market, having it brought to the manor by one means or another (postal parcel? masseur from Salima? old lady?), and using it to find the Panorbium Fortuna.
 
 Once he has arrived, the cook readily says where these "cumbersome and useless" recipes can be retrieved: **in a corner of the library**.
@@ -382,7 +382,7 @@ At the start of the evening, Rydji hands him a letter from {% symbol "Rodok" for
 {# RECIPE SLIGHTLY DIFFERENT FROM THE ONE IN THE CHRYSALIS:DESCENT RPG, TO PREVENT CHEATING #}
 - blue aquatic mushroom (found in the cave of Nazur, available in Alphonse's private sale)  {% hint 'blue_aquatic_mushroom_juice' is needed %}
 - cave octopus tentacle (found in the cave of Nazur, available in Alphonse's private sale)  {% hint 'octopus_tentacle_in_bottle' is needed %}
-- small tangy red fruit (Akarith red plum, available as a liqueur in the antique canister sold at auction)
+- small tangy red fruit (Akarith red plum, available as a liqueur in the antique canister (the "Tectonic Canister" lot) sold at auction)
 
 The Lordanians have also got wind of this Elixir, and they are interested in seeing its effects on Opal, to gauge its usefulness for their infantry.
 
@@ -393,7 +393,7 @@ They, for their part, only have clues about the complementary ingredients, which
 - adding powdered ridged goat horn (Akarith goat, available from Lady Clodynette) allows the user to keep his reason in combat, and gives him superhuman reflexes to parry most projectiles and blows
 - in any case, if he takes more than one millilitre of Elixir in a week, the user dies of exhaustion in less than a day
 
-The preparation method of the potion can be found thanks to the Akarith grimoire (sold at auction) and to the powdery deposits in the Leather Purse (Loyd Georges' account). Not knowing them will alter the quality of the potion.
+The preparation method of the potion can be found thanks to the Akarith grimoire (the "Sacred Yodic Book" sold at auction) and to the powdery deposits in the Leather Purse (Loyd Georges' account). Not knowing them will alter the quality of the potion.
 
 The cook Robb Barrow can prepare the potion for Opal, according to the details he is given.
 
@@ -477,15 +477,15 @@ Finding the culprit of the attack on Loyd Georges: the oleander riddle
 ---------------------------------------------------------------------------------------
 
 
-The various medical reports, and the accounts of the previous day (including the protagonists' alibis), suggest that Loyd Georges' poisoning took place at dinner, with a veal blanquette with bay leaves. The guard dog, Bedou, found dead with symptoms similar to his master's, confirms this intuition. The other inhabitants of the manor had not dined with Loyd Georges, for various reasons.
+The various medical reports, and the accounts of the previous day (including the protagonists' alibis), suggest that Loyd Georges' poisoning took place at dinner, with a veal blanquette with bay leaves. The old dog Bedou, found dead with symptoms similar to his master's, confirms this intuition. The other inhabitants of the manor had not dined with Loyd Georges, for various reasons.
 
-Alphonse finds, on request, the recipe used for the veal blanquette, then the packaging of the bay leaves. The latter contains, hidden behind a few sprigs, a small advertising flyer for the shop of the apothecary Master Bibine.
+Alphonse finds, on request, the recipe used for the veal blanquette, then the packaging of the "bay leaves" (actually oleander). The latter contains, hidden behind a few sprigs, a small advertising flyer for the shop of the apothecary Master Bibine.
 
 If the inspector (when an NPC) is informed of this discovery, he confiscates the papers and may assault LG's servants for having shared this information with the guests.
 
 If asked, one of the servants can go and enquire about Master Bibine's sales, and thus find the P.O. box (also serving as a mini safe) through which the parcel was delivered; a box located in the {% symbol "Hamlet of Wiskons" for "hamlet_near_mlg_manor" %} not far from the manor; it is through this box that Shark received his orders and supplies from the Akariths, as well as through the adjoining international telecom booth.
 
-Obsidian can go to the P.O. box himself to force it open, or other players can call upon mercenaries for this.
+Obsidian can go to the P.O. box herself to force it open, or other players can call upon mercenaries for this.
 The P.O. box contains an (opened) letter from the Akarith Judicators, instructing the recipient to use lily of the valley if necessary to finish the job, and to keep the supplied antidote by sewing it into the lining of his jacket, in case he was forced to ingest his own poison.
 
 It is also possible to have the P.O. box watched by the old neighbour or by mercenaries.
@@ -520,7 +520,7 @@ Some protagonists are in great financial need: the Magnus family, and Loyd Georg
 
 It will therefore be very much in their interest to find this treasure.
 
-Note that according to Sabarith Law, a treasure must be shared half-and-half between whoever (re)discovered it, and the owner of the treasure (or failing that, of the land on which it lies).
+Note that according to Sabarith law, a treasure must be shared half-and-half between whoever (re)discovered it, and the owner of the treasure (or failing that, of the land on which it lies).
 Trying to keep the treasure entirely for oneself may therefore result in complete dispossession, as well as legal proceedings.
 
 - the old neighbour's farm previously belonged to Loyd Georges, she has heard of the disappearance of the "Precious Cauldron"
@@ -558,7 +558,7 @@ To do so, Waden can negotiate the destruction of the laboratory with one of the 
 
 If this destruction drags on, Cynthia is informed of a "report of a suspicious disappearance" in South Alifir, and this eventually goes out on the radio. The other secret agents can therefore exploit this lead, with the help of mercenaries for example.
 
-For his part, the Sabarith agent Obsidian can also try to make Waden see reason, by explaining to him that Science cannot be stopped, and that it is better to be the first to master a new weapon.
+For her part, the Sabarith agent Obsidian can also try to make Waden see reason, by explaining to him that Science cannot be stopped, and that it is better to be the first to master a new weapon.
 
 
 
@@ -612,9 +612,9 @@ The Tabellion gathers the guests around Loyd Georges' safe, to read the draft wi
 
 He has on him (and not in his briefcase) the key to the safe, but he lacks Loyd Georges' secret code and magnetic card. {% fact "notary_has_lg_vault_key" as author %}
 
-**Rydji says that Loyd Georges always noted the latest code of the safe in a "{% symbol "small tissue box" for "lg_vault_secret_code_location" %}" that was lying around in the lounge, but that this box has disappeared in the commotion of preparing the evening.**
+**Rydji says that Loyd Georges always noted the latest code of the safe in a "{% symbol "small tissue box" for "lg_vault_secret_code_location" %}" that was lying around in the dining room, but that this box has disappeared in the commotion of preparing the evening.**
 
-**Alphonse had been told by Loyd Georges where the latter kept his golden magnetic pass, somewhere in the lounge, but he has forgotten where.**
+**Alphonse had been told by Loyd Georges where the latter kept his golden magnetic pass, somewhere in the dining room, but he has forgotten where.**
 
 The session is therefore postponed; and Alphonse, instead of searching by himself, enlists all the guests to search the reception hall, looking for these 2 elements. {% hint 'lg_vault_pass_card' is needed %} {% hint 'lg_vault_secret_code' is needed %}
 

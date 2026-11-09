@@ -85,7 +85,7 @@
 -
   - "Cadenas et leurs clefs"
   -
-    - "Cadenas sur le beau coffret bois-et-or à ancre : sa clef est SUSPENDUE dans le salon"
+    - "Cadenas sur le beau coffret bois-et-or à ancre : sa clef est SUSPENDUE dans la salle à manger"
     - "Cadenas sur le petit meuble en bois brillant à tiroirs : sa clef est dans le chauffe-lit en cuivre décoratif"
     - "Cadenas sur le gros coffre marron : sa clef est dans la boite plate noire à motifs rouges"
 
@@ -140,9 +140,9 @@
   - "Butins lors de recherches spécifiques"
   -
     - "Noix tropicales et restes de Liqueur bleue (stockés en cuisine, offerts la veille à Loyd Georges) {% fact 'malachite_offers_nuts_to_lg' as author %} {% fact 'amethyst_offers_liquor_to_lg' as author %}"
-    - "Pochette de laurier (rose) derrière les condiments de la cuisine, avec flyer \"Bibine Express\" {% hint 'oleander_ingredient_pouch' is provided %}"
+    - "Pochette de \"laurier\" (en réalité du laurier rose) derrière les condiments de la cuisine, avec flyer \"Bibine Express\" {% hint 'oleander_ingredient_pouch' is provided %}"
     - "Boite \"Pâte Pectorale Jane\" sous le \"Baobab\", avec dedans l'énigme menant au \"Précieux Chaudron\" {% hint 'paste_box_with_precious_cauldron_enigma' is provided %}"
-    - "Mot codé \"MO nous couvre, livraison OK\" etc. si descente au bar du Purineur"
+    - "Mot codé \"MO nous couvre, livraison OK\" etc. si descente à la Brasserie du Purineur"
     - "Lettre du Judicateur Praeves, dans une enveloppe rembourrée (boite postale anonyme du hameau voisin) {% hint 'judicator_praeves_letter_and_lily_juice' is provided %}"
     - "Livre factice \"Venture Prins\" (avec dedans une note appelant à regarder par la fenêtre du bureau) {% hint 'venture_prins_fake_book' is provided %}"
 

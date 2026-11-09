@@ -4,7 +4,7 @@
 ==============================================
 
 
-Vous avez bien évidemment préparé votre rôle d'adjoint de police, et potassé des "Eléments de droit sabarite", que vous gardez avec vous, pour savoir gérer correctement les phases de l'enquête. {% hint 'sabarith_law_summary_for_obsidian' is needed %}
+Vous avez bien évidemment préparé votre rôle d'adjointe de police, et potassé des "Eléments de droit sabarite", que vous gardez avec vous, pour savoir gérer correctement les phases de l'enquête. {% hint 'sabarith_law_summary_for_obsidian' is needed %}
 
 Vous avez sur vous quelques extraits d'un lexique akarite, au cas où vous auriez affaire à l'un de ces fanatiques infiltrés en Sabarim. {% hint 'akarith_lexicon_for_obsidian' is needed %}
 

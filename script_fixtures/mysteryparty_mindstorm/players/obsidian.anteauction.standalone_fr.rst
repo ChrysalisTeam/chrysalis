@@ -5,7 +5,7 @@
 
 Vous êtes un agent d'élite des services secrets sabarites. Votre nom de code est **Obsidian** ; c’est notamment le nom de code que vous utilisez pour vous connecter à votre compte sur le réseau mondial, ou pour communiquer avec votre service d’espionnage.
 
-Votre pays vous a envoyé en renfort auprès de l’inspecteur Shark ; malgré ses brillants états de service, ce dernier semble en difficulté dans son enquête sur les forfaits visant Loyd Georges ; et ce n’est pas surprenant étant donnée la portée très particulière de l’affaire. Vous avez donc été introduit auprès de lui, il y a quelques jours de cela, sous votre identité officielle sabarite de **{{character_properties.obsidian.official_name}}**.
+Votre pays vous a envoyée en renfort auprès de l’inspecteur Shark ; malgré ses brillants états de service, ce dernier semble en difficulté dans son enquête sur les forfaits visant Loyd Georges ; et ce n’est pas surprenant étant donnée la portée très particulière de l’affaire. Vous avez donc été introduite auprès de lui, il y a quelques jours de cela, sous votre identité officielle sabarite de **{{character_properties.obsidian.official_name}}**.
 
 Shark s’est initialement montré très froid avec vous. C’est bien compréhensible : après toute une carrière à pourfendre, en solo, tueurs en série et trafiquants de drogue, il a dû vivre cette adjonction comme une remise en cause personnelle.
 Il vous a donc mandaté pour enquêter sur les parcours des différents participants aux enchères, tout en vous défendant de lui "marcher dans les pattes" en ce qui concerne les délits eux-mêmes.

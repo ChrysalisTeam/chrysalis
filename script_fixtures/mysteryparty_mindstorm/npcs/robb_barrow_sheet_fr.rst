@@ -14,7 +14,7 @@ Loyd Georges vous fait appeler juste avant midi, pour mettre au frais la bouteil
 
 Vous nourrissez le vieux chien Bedou et mangez les restes, avec Alphonse, vers {% symbol "14h" for "noon_meal_time_servants" %} ; puis vous sortez faire un peu de jardinage.
 
-Vers {% symbol "16h" for "kitchen_cook_inspector_meeting_time" %} vous vous remettez aux fourneaux, pour cuisiner une "blanquette de veau au laurier" ; vous avez en effet trouvé sur votre établi un mot de Loyd Georges, il y a quelques jours, demandant ce plat pour ce soir. L'inspecteur passe discuter un peu avec vous, tandis que vous vous affairez ; il parle des récentes tentatives de cambriolage du manoir, mais vous n'avez aucune information à lui fournir là-dessus.
+Vers {% symbol "16h" for "kitchen_cook_inspector_meeting_time" %} vous vous remettez aux fourneaux, pour cuisiner une "blanquette de veau au laurier" ; vous avez en effet trouvé sur votre plan de travail un mot de Loyd Georges, il y a quelques jours, demandant ce plat pour ce soir. L'inspecteur passe discuter un peu avec vous, tandis que vous vous affairez ; il parle des récentes tentatives de cambriolage du manoir, mais vous n'avez aucune information à lui fournir là-dessus.
 
 L'inspecteur part avant le repas du soir. Vous donnez à Bedou de la blanquette, en avant-première, peu avant {% symbol "19h" for "evening_dinner_time_dog_bedou" %} ; puis vous partez manger en ville avec de la famille, avant que Loyd Georges ne dîne.
 

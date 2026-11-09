@@ -14,7 +14,7 @@ Ce jour là , vous vous êtes uniquement absenté vers midi, pour aller à Salim
 
 Etant végétarien, au dîner, vous avez préféré manger du riz nature, que de la blanquette de veau.
 
-Vous avez ensuite pris le thé avec Loyd Georges, dans un canapé du salon. Voici la discussion que vous avez eue.
+Vous avez ensuite pris le thé avec Loyd Georges, dans un canapé de la salle à manger. Voici la discussion que vous avez eue.
 
 <{ lg_rydji_sofa_talk }/>
 

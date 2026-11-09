@@ -18,7 +18,7 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
-- you have borrowed, without his knowledge, the identity of {{character_properties.malachite.full_official_title}}, an expert in Yodic history who remains available to help your mission {% fact 'malachite_official_is_helping_secret_services' as author %} {% fact 'malachite_official_is_expert_in_yodic_history' %}
+- you have borrowed, with his full cooperation, the identity of {{character_properties.malachite.full_official_title}}, an expert in Yodic history who remains available to help your mission {% fact 'malachite_official_is_helping_secret_services' as author %} {% fact 'malachite_official_is_expert_in_yodic_history' %}
 - you are teamed up with agent Spinel, with whom you share a flat in Salima, above "Master Bibine, apothecary".
 - you know that Loyd Georges has discovered one of the Divine Orbs and hidden it away {% fact 'lg_has_found_and_hidden_an_orb' %}
 - you have unmasked "{{character_properties.garnet.full_official_title}}" and "{{character_properties.amethyst.full_official_title}}" as being the Lordanian secret agents Garnet and Amethyst {% fact 'amethyst_is_undercover' %} {% fact 'garnet_is_undercover' %}
@@ -41,7 +41,7 @@
 <{ title_last_minute_information }/>
 ============================================
 
-- you are burning to recover the 2 recorders you planted in the manor (spy pen in the library, and spy dictaphone behind a sofa in the lounge)  {% fact 'malachite_must_recover_spy_recorders' %}
+- you are burning to recover the 2 recorders you planted in the manor (spy pen in the library, and spy dictaphone behind a sofa in the dining room)  {% fact 'malachite_must_recover_spy_recorders' %}
 
 
 <{ title_past_infractions }/>

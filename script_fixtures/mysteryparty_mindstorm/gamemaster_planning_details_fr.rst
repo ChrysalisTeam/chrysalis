@@ -31,7 +31,7 @@ Bien avant le jeu, entre MJs et PNJs :
     - les PNJs RYDJI, ALPHONSE et INSPECTEUR SHARK restent ainsi toute la soirée.
     - le PNJ jouant le TABELLION commence en tant que Serviteur, puis arrive au manoir en tant que Tabellion et le reste jusqu'à la fin
     - les 2 PNJs Multi-Rôles (PNJ-MR) alternent entre différents personnages, selon les indication données ci-dessous.
-    - autant que possible, c'est un "garde armé" qui vient apporter à Obisidan les rapports de fouille et prendre ses ordres
+    - autant que possible, c'est un "garde armé" qui vient apporter à Obsidian les rapports de fouille et prendre ses ordres
 
 
 Lorsque les joueurs sont là, hors-roleplay :
@@ -172,7 +172,7 @@ HEURE 0:30
 
 - Alphonse pousse les inviter à chercher, avec lui, la carte pass dorée de Loyd georges
 
-- SHARK : ordonne à Obisidian d'interroger **Cynthia et Waden** ensemble : alibis, liens avec Loyd Georges, soupçons qu'ils pourraient avoir envers autrui...
+- SHARK : ordonne à Obsidian d'interroger **Cynthia et Waden** ensemble : alibis, liens avec Loyd Georges, soupçons qu'ils pourraient avoir envers autrui...
 
 - SHARK : commence son premier interrogatoire, avec **l'agent dorien Peridot**. Teneur : D'abord sombre, puis "Bon alibi, je ne pense pas que c'est vous, aidez-moi à avancer dans l'enquête en balançant tout ce que vous savez sur les autres." {% fact "peridot_has_good_alibi" %}
 
@@ -216,7 +216,7 @@ HEURE 1:00
 
 - rapport médical 3 : présence de digoxine dans le sang, poursuite des tests sanguins, traitement anticorps commencé
 
-- Alphonse cherche le vieux chien de LG, Bedou, qui n’a pas été vu depuis la veille ; il se dispute avec Rydji sur l’importance toute relative de ce sujet ; Alphonse dit que le molosse Bedou a été brutalisé la veille, qu'il a une dent cassée
+- Alphonse cherche le vieux chien de LG, Bedou, qui n’a pas été vu depuis la veille ; il se dispute avec Rydji sur l’importance toute relative de ce sujet ; Alphonse dit que le molosse Oupaout a été brutalisé la veille, qu'il a une dent cassée
 
 - LOT 2 à mettre dans la boite aux lettres
 
@@ -250,7 +250,7 @@ HEURE 1:30
 
 - LOT 3 à mettre dans la boite aux lettres
 
-- alerte : le chien Bedou a été retrouvé mort derrière une scultpture du musée du 1er étage (Alphonse crie "il est mort" et les gens pensent d’abord qu’il s’agit de Loyd Georges)
+- alerte : le chien Bedou a été retrouvé mort derrière une sculpture du musée du 1er étage (Alphonse crie "il est mort" et les gens pensent d’abord qu’il s’agit de Loyd Georges)
 
 - rapport médical 4 : présence anormale d'oléandrine dans le sang, traitement anticorps renforcé
 
@@ -292,7 +292,7 @@ HEURE 2:30
 
 - VERIFIER où en sont les réserves d'argent et gemmes des joueurs, en remettre en jeu si nécessaire (ex. Alphonse se balade dans la salle avec des billets qui dépassent de la poche arrière, et se penche bien ostensiblement en avant)
 
-- [si Lydia a refusé le chantage de Mundlish] 20-30mn après son appel, donner à Obisidian la lettre dénonçant le passé de gangster d'Opal
+- [si Lydia a refusé le chantage de Mundlish] 20-30mn après son appel, donner à Obsidian la lettre dénonçant le passé de gangster d'Opal
 
 - [si Cynthia n'a pas encore trouvé le tableau automnal] Alphonse tire un peu les rideaux pour dévoiler les tableaux d'Arcimboldo
 
@@ -324,7 +324,7 @@ HEURE 3:00
 - [PNJ-MR] : Cuisinier & Vieille dame de Salima
 
     - L'ambassadeur akarite dit avoir des affaires à traiter à l'extérieur, mais qu'il repassera plus tard en soirée
-    - Alphonse arrive avec le cuisinier Robb, et le met à la disposition de l'adjoint de police Obsidian
+    - Alphonse arrive avec le cuisinier Robb, et le met à la disposition de l'adjointe de police Obsidian
     - Les policiers amènent une vieille voisine, qui s'est trouvée mal en passant devant le manoir
 
 - SPOTS RADIO : "Attaque d'une thalassothérapie"

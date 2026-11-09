@@ -18,7 +18,7 @@ Loyd Georges had once told you, in the past, the story of his family treasure.<{
 One of your colleagues is investigating Balberith's attempts at industrial espionage on Sabarith territory. It would seem that this country is so far behind in every field (especially in physics), that it now dreams of nothing but stealing the knowledge and technologies of Academies such as the one in Alifir, instead of conducting its own research. {% fact "balberith_has_poor_atom_analysis_technology" %}
 
 
-Strangely, according to the latest news, the picture of your new flat in Wetfeet that you sent by parcel to Loyd Georges has not reached him; perhaps this is due to strike action at the Sabarith Post Office? {% fact "cynthia_parcel_to_lg_was_lost" as author %} {% hint "cynthia_wetfeet_building_picture" is needed %}
+Strangely, according to the latest news, the picture of your new building in Wetfeet that you sent by parcel to Loyd Georges has not reached him; perhaps this is due to strike action at the Sabarith Post Office? {% fact "cynthia_parcel_to_lg_was_lost" as author %} {% hint "cynthia_wetfeet_building_picture" is needed %}
 
 
 You are quite fond of old Alphonse, and he regards you somewhat as his daughter. By simpering a little, you always manage to obtain privileges from him. But you know better than to abuse it. {% fact "cynthia_can_get_favors_from_alphonse" as author %}

@@ -35,7 +35,7 @@ Regarding the day of the interviews (the day before the current one):
 - Early in the morning, Loyd Georges received a strange parcel, in a brown canvas bag, and hid it. Alphonse blundered by mentioning this to Rydji in front of the inspector, which later caused a row between the gentleman and the inspector. Nobody knows what Loyd Georges did with the contents, but the canvas bag was, at last report, lying around on a shelf in the library. {% fact "alphonse_blunder_revealed_panorbium_fortuna_arrival" %} {% fact 'panorbium_fortuna_bag_remains_in_library' %}
 - the surveillance system was deactivated shortly after {% symbol "12:00" for "first_alarm_deactivation_time" %}, but the butler Rydji noticed it on his return in the early afternoon, and reactivated it. Nobody knows why this happened.
 - Loyd Georges is the only one who ate the veal blanquette at dinner: the inspector had left, so had Alphonse (off to the gambling den {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}), and Rydji is a vegetarian.
-- Part of the dinner had been set aside, and given by the cook to the dog Bedou. *The dog is eventually found dead at the far end of the grounds, during the special evening, with a swollen and irritated mouth and tongue.*
+- Part of the dinner had been set aside, and given by the cook to the dog Bedou. *The dog is eventually found dead behind a sculpture of the 1st-floor museum, during the special evening, with a swollen and irritated mouth and tongue.*
 - Shortly after Loyd Georges was found unconscious, Rydji checked that Opal was fast asleep in his room (he did not react at all to stimuli). {% fact "rydji_could_not_wake_up_opal_after_lg_troubles" %}
 - the bins were emptied by the municipal services very early the next morning.
 

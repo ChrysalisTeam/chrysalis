@@ -88,7 +88,7 @@ character_properties:
         account: 1600
         address_book: ["secret-services@dorian-dukedom.pg"]
         official_name: "Philipon Vertioundem"
-        official_role: "Patronne d’une bijouterie de Nimouk (Duché dorien) en quête de bonnes affaires"
+        official_role: "Patron d’une bijouterie de Nimouk (Duché dorien) en quête de bonnes affaires"
         gamemaster_hints: "En vérité MP5, agent dorien. Le vrai personnage était au bord de la faillite à force de se faire pigeonner, il s'est donc montré très compréhensif face aux propositions de son Etat, et se fera éminemment discret pendant les semaines à venir."
         extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
         is_npc: false

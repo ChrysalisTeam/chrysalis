@@ -18,7 +18,7 @@ Loyd Georges vous avait une fois narré, par le passé, l'histoire de son tréso
 Un de vos collègues enquête sur les tentatives d'espionnage industriel de Balberith, sur le territoire sabarite. Il semblerait que ce pays ait tellement de retard dans tous les domaines (en particulier en physique), qu'il ne rêve plus que de ravir les connaissances et technologies d'Académies comme celle d'Alifir, eu lieu de mener ses propres recherches. {% fact "balberith_has_poor_atom_analysis_technology" %}
 
 
-Etrangement, aux dernières nouvelles, l'image de votre nouvel appartement de Wetfeet que vous avez envoyée par colis à Loyd Georges ne lui est pas arrivée ; peut-être est-ce dû à des mouvements de grève à la Poste Sabarite ? {% fact "cynthia_parcel_to_lg_was_lost" as author %} {% hint "cynthia_wetfeet_building_picture" is needed %}
+Etrangement, aux dernières nouvelles, l'image de votre nouvel immeuble de Wetfeet que vous avez envoyée par colis à Loyd Georges ne lui est pas arrivée ; peut-être est-ce dû à des mouvements de grève à la Poste Sabarite ? {% fact "cynthia_parcel_to_lg_was_lost" as author %} {% hint "cynthia_wetfeet_building_picture" is needed %}
 
 
 Vous aimez bien le vieil Alphonse, et il vous considère un peu comme sa fille. En faisant des minauderies, vous arrivez toujours à obtenir des privilèges de sa part. Mais vous savez ne pas en abuser. {% fact "cynthia_can_get_favors_from_alphonse" as author %}
