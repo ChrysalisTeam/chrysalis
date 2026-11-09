@@ -30,9 +30,9 @@ These operations were not useless, since you were able to retrace Loyd Georges' 
 
 Following a bold hunch, you and your partner led a Lordanian commando in an assault on Loyd Georges' magnificent family vault, in the crypt of the Salima Basilica. You drew a blank, and the incident made the front page of the newspapers... {% fact 'amethyst&garnet_open_lg_family_tomb' as author %}
 
-In short, you are making laborious progress in this Loyd Georges affair, and the Divine Orb remains a danger: it could serve as a pretext for the Akarith leaders to launch a "prophetic" war, rally the various Akarith clans (rather sceptical for the time being) to their cause, and build themselves an empire capable of rivalling Lordania; unless this regional conflict ruins Midolia, which would rather be good news for your homeland. What is certain is that you still do not know how this Orb works, nor the extent of its powers.
+In short, you are making laborious progress in this Loyd Georges affair, and the Divine Orb remains a danger: it could serve as a pretext for the Akarith leaders to launch a "prophetic" war, rally the various Akarith clans (rather sceptical for the time being) to their cause, and build themselves an empire capable of rivalling Lordania; unless this regional conflict ruins Midolia, which would rather be good news for your homeland. What is certain is that you still do not know how this orb works, nor the extent of its powers.
 
-In any case, you keep on weaving your web, and as soon as Loyd Georges makes the slightest misstep, you have (almost) no doubt about it, his Orb will fall under your control.
+In any case, you keep on weaving your web, and as soon as Loyd Georges makes the slightest misstep, you have (almost) no doubt about it, his orb will fall under your control.
 
 {% endmacro %}
 

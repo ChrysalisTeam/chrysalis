@@ -24,4 +24,4 @@
 ==============================================
 
 - vous regrettez un peu d'avoir communiqué sur l'orbe via Anthropia, ce portail n'est peut-être pas aussi sécurisé qu'il le parait  {% fact "waden_sent_anthropia_message_about_orb" as author %}
-- vous avez récemment reçu un courrier inattendu de l'Université D'Omrh, au Nalavut {% fact "alifir_academy_might_have_stolen_omrh_works_on_physicics" %} {% hint "omrh_university_request_for_waden" is needed %}
+- vous avez récemment reçu un courrier inattendu de l'Université d'Omrh, au Nalavut {% fact "alifir_academy_might_have_stolen_omrh_works_on_physicics" %} {% hint "omrh_university_request_for_waden" is needed %}

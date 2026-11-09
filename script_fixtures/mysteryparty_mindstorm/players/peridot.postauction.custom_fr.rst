@@ -1,7 +1,7 @@
 ﻿{#
 
 .. BEWARE: CUSTOMIZE THIS FOR YOUR GAME
-    Etat des lieux
+    État des lieux
     ===============
 
     La vie n'est pas simple, en cette époque, pour un agent de services secrets doriens. Les doctrines militaires changent sans cesse, le Duc Dorien danse d'un pied sur l'autre au gré des différents conciles religieux des akarites... Si bien qu'un coup on doit tenter de s'allier avec eux, un coup on doit les combattre, et aux dernières nouvelles, stupeur, il serait même question d'un asservissement volontaire pour gagner "le droit d'exister" en marge du futur empire akarite. Il n'en faudrait guère plus pour déclencher une crise existentielle chez un individu peu entraîné.

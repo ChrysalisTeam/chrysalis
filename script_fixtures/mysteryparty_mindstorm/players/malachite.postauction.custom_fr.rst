@@ -1,7 +1,7 @@
 ﻿
 {#
 .. BEWARE: CUSTOMIZE THIS FOR YOUR GAME
-    Etat des lieux
+    État des lieux
     ===============
 
     Il n'est pas toujours simple d'être un agent masslave, quand sa patrie risque à tout moment de se faire rouler dessus par des hordes d'akarites sanguinaires, que les orbes que l'on recherche se dérobent à tous bouts de champs, et que son brillant collègue d'aventure déserte sans crier gare pour rejoindre une mystérieuse confrérie sortie d'on ne sait où.

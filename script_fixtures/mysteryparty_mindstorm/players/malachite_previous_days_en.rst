@@ -29,7 +29,7 @@ You decide to leave the way you came. You crawl on all fours along the small hed
 
 <{ spies_escape_from_manor }/>
 
-You spend the rest of the day trying, in vain, to obtain information about the Orb.
+You spend the rest of the day trying, in vain, to obtain information about the orb.
 Late in the evening, you meet a Salimian high prefect in the {% symbol "Salima Flower Square" for "malachite_alibi_location" %} to try to bribe him, but he ends up declining the offer "because of the very tense context of this affair". {% fact "malachite_alibi_is_illegal" as author %}
 
 

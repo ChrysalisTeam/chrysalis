@@ -5,7 +5,7 @@ La Maisonnée de Sir Loyd Georges
 ===================================
 
 Suite à toutes les attaques dont sir Loyd Georges a été la cible, la majorité de ses serviteurs a préféré démissionner.
-Le pauvre sir a, de son côté, accru sa protection ; d’une part grâce aux services de l’inspecteur Shark envoyé par l’Etat, d'autre part grâce à l'ajout au manoir de **sophistiqués systèmes de sécurité : enceinte externe électrifiée, caméras de surveillance dans les principales salles**... Les uns comme les autres ne se sont, hélas pour lui, pas toujours montrés très performants.
+Le pauvre sir a, de son côté, accru sa protection ; d’une part grâce aux services de l’inspecteur Shark envoyé par l’État, d'autre part grâce à l'ajout au manoir de **sophistiqués systèmes de sécurité : enceinte externe électrifiée, caméras de surveillance dans les principales salles**... Les uns comme les autres ne se sont, hélas pour lui, pas toujours montrés très performants.
 
 {# .. Pendant ce temps, vous avez fréquenté du beau monde, qui sera aussi, vous n’en doutez pas, à cette fameuse soirée. #}
 

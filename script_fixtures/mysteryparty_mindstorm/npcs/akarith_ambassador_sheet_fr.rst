@@ -5,14 +5,14 @@ Vous êtes **l'archidiacre Menelas**. Vous êtes un haut gradé dans l'ordre pol
 
 Vous portez typiquement une aube richement ornée, ainsi qu'une calotte ou un masque sur la tête.
 **Vous avez obligatoirement aux doigts une bague argentée à tête de mort (originaire des {% symbol "hauteurs de Kéroskia" for "akarith_ambassador_skull_ring_origin" %}), et une autre avec un gros saphir rectangulaire, que vous portez toutes deux ostensiblement.** {% hint "akarith_ambassador_rings" is needed %}
-Vous êtes tout sourire, plein de bonhommie, de douceur apparente, de formules apaisantes.
+Vous êtes tout sourire, plein de bonhomie, de douceur apparente, de formules apaisantes.
 Vous allez spontanément discuter avec les invités de la soirée, et ignorez leurs possibles réactions de rejet.
 Vous manipulez à souhait le mensonge, les sophismes, les euphémismes, et les jeux psychologiques cruels.
 
 Vous êtes la pierre angulaire des complots akarites concernant le pays de Sabarim.
 C'est grâce à vos privilèges d'ambassadeur que les "purificateurs" (assassins anti-profanateurs) s'y sont infiltrés, et se sont implantés dans des tavernes des bas-fonds ; ce sont eux qui s'attaquent à des profanateurs comme le fameux **{{character_properties.opal.official_name}}**.
 
-Vous savez que les enchères de Loyd Georges ont attiré des agents secrets de plusieurs pays, dont certains venus de Dorie (un Etat qui collabore bon gré mal gré avec l'Akarie).
+Vous savez que les enchères de Loyd Georges ont attiré des agents secrets de plusieurs pays, dont certains venus de Dorie (un État qui collabore bon gré mal gré avec l'Akarie).
  
 Vous avez aussi appris que vos confrères judicateurs (dont l'archidiacre Baazel en Akarie) avaient réussi à retourner une "sommité" de cette affaire à leur profit ; mais vous avez demandé à être tenu à l'écart des détails de cette opération, afin de ne pas risquer la moindre fuite, car depuis peu, vous vous savez de plus en plus étroitement surveillé par vos ennemis.
 

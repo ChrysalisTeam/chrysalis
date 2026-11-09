@@ -14,7 +14,7 @@ Les agents secrets se font appeler par leurs supérieurs hiérarchiques respecti
 - leur demander quels sont leurs plans pour le début de la soirée
 - leur rappeler qu'il faut la jouer "soudés", et ne pas tomber dans les mains de la justice sabarite
 
-Lydia et Magnus se font appeler par leur gestionnaire de bien, qui demande s'il peut les aider en quoi que ce soit. Il s'enquiert de la santé d'Opal, des perspectives électorales de Lydia, et plus généralement de ce qu'ils comptent faire au vu des circonstances.
+Lydia et Opal se font appeler par leur gestionnaire de bien, qui demande s'il peut les aider en quoi que ce soit. Il s'enquiert de la santé d'Opal, des perspectives électorales de Lydia, et plus généralement de ce qu'ils comptent faire au vu des circonstances.
 
 Waden et Cynthia se font appeler par Emilos Loakim, qui est sur son tumultueux chantier de fouilles dans le continent de Kéroskia ; il se demande pourquoi Loyd Georges les a invités à cette soirée, et les appelle à la méfiance.
 
@@ -69,6 +69,6 @@ Des sit-in et des mini-émeutes ont lieu en ce moment même dans de nombreuses v
 Informations pour les 4 civils
 +++++++++++++++++++++++++++++++++++++
 
-Pour Opal : quid de l'Elixir Berserk ? Il y a théoriquement au manoir le vieux cuisinier Robb Barrow qui saura la préparer selon les modalités qu'on lui donnera ; trouver où est ce bonhomme.
+Pour Opal : quid de l'Élixir Berserk ? Il y a théoriquement au manoir le vieux cuisinier Robb Barrow qui saura la préparer selon les modalités qu'on lui donnera ; trouver où est ce bonhomme.
 
 

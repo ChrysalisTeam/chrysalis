@@ -16,13 +16,13 @@ Votre compte à la banque de Salima :
 
 {% macro long_range_phone() %}
 Téléphone Basse-Fréquence
-    Il peut arriver que, pour des raisons naturelles ou malfaisantes, le téléphone mobile ne capte pas. Rien ne vaut, dans ce cas, d'avoir comme vous un super émetteur-récepteur miniaturisé, capable de joindre un relais téléphonique depuis n'importe où sur Pangéa. A cause de l'énorme dépense d'énergie nécessaire pour la mise en place d'une communication, ce dispositif ne pourra être utilisé que **trois fois** durant la soirée, pour joindre un unique destinataire à chaque fois. *Solliciter le maître du jeu avant de passer un appel avec ce système.*
+    Il peut arriver que, pour des raisons naturelles ou malfaisantes, le téléphone mobile ne capte pas. Rien ne vaut, dans ce cas, d'avoir comme vous un super émetteur-récepteur miniaturisé, capable de joindre un relais téléphonique depuis n'importe où sur Pangéa. A cause de l'énorme dépense d'énergie nécessaire pour la mise en place d'une communication, ce dispositif ne pourra être utilisé que **trois fois** durant la soirée, pour joindre un unique destinataire à chaque fois. *Solliciter le maître de jeu avant de passer un appel avec ce système.*
 {% endmacro %}
 
 
 {% macro knownledge_of_medecine() %}
 Culture Médicale
-    Vous aviez commencé des études de médecine, et il ne vous en reste pas grand chose sinon une certaine connaissance du vocabulaire médical. *Demandez discrètement au maître du jeu la signification des termes médicaux techniques que vous rencontreriez.*
+    Vous aviez commencé des études de médecine, et il ne vous en reste pas grand chose sinon une certaine connaissance du vocabulaire médical. *Demandez discrètement au maître de jeu la signification des termes médicaux techniques que vous rencontreriez.*
 {% endmacro %}
 
 {% macro __OLDIE_medical_education() %}
@@ -33,7 +33,7 @@ Culture Médicale
 
 {% macro knownledge_of_poisons() %}
 Connaissance des Poisons
-  Vous avez, au long des années, acquis la capacité de détecter immédiatement, au sentir ou au goûter, qu'une substance contient un poison. Vous savez dès lors de reconnaître ce toxique, et vous souvenir de ses effets sur une victime. *Demandez au maître du jeu si quelque chose que vous avez trouvé est, ou non, empoisonné (et le cas échéant, les détails du produit nocif).*
+  Vous avez, au long des années, acquis la capacité de détecter immédiatement, au sentir ou au goûter, qu'une substance contient un poison. Vous savez dès lors de reconnaître ce toxique, et vous souvenir de ses effets sur une victime. *Demandez au maître de jeu si quelque chose que vous avez trouvé est, ou non, empoisonné (et le cas échéant, les détails du produit nocif).*
 
 {#
 .. utile pour:
@@ -70,7 +70,7 @@ Intox Presse
 
 {% macro _____OBSOLETE_runic_translator() %}
 Traducteur de Runes Yodique
-    Un de vos contacts a récemment mis la main sur un prototype de traducteur portatif, développé à l'Académie d'Alifir. Cet outil, qui ressemble à un appareil photo, est capable de transcrire puis traduire n'importe quel texte d'anciennes runes yodiques que vous auriez entre les mains. *S'adresser au maître du jeu pour mettre en œuvre cette compétence.*
+    Un de vos contacts a récemment mis la main sur un prototype de traducteur portatif, développé à l'Académie d'Alifir. Cet outil, qui ressemble à un appareil photo, est capable de transcrire puis traduire n'importe quel texte d'anciennes runes yodiques que vous auriez entre les mains. *S'adresser au maître de jeu pour mettre en œuvre cette compétence.*
 {# UNUSED
 .. utile pour:
    - rune sur un vase : XXXXXXXXXX
@@ -159,7 +159,7 @@ Tubes Pneumatiques
 {% macro graphological_analysis() %}
 Analyseur Graphologico-Stylistique
     Ce prototype, qui ressemble à un appareil-photo, vous permet de savoir si un texte (manuscrit ou imprimé) a été écrit par la même personne qu'un autre document. Le résultat est donné avec un "pourcentage de certitude", car ce type d'analyse n'est pas une science exacte. Il peut aussi donner des indications approximatives sur l'origine et le caractère de la personne qui a écrit.
-    *S'adresser au maître du jeu pour mettre en œuvre cette compétence.*
+    *S'adresser au maître de jeu pour mettre en œuvre cette compétence.*
 {#
 .. utile pour:
    - Travaux préparatoire de physique : originaires du NALAVUT en réalité

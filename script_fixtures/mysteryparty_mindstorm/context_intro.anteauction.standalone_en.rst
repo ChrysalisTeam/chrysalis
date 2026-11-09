@@ -19,7 +19,7 @@ This amateur adventurer has indeed discovered a buried temple in the Midolian co
 
 .. note::
     
-    Please watch the following videos on http://chrysalis-game.com/fr/cms/medias/:
+    Please watch the following videos (page in French) on http://chrysalis-game.com/fr/cms/medias/:
     
     - Loyd Georges' archaeological raid
     - a short retrospective on the Tunguska cataclysm

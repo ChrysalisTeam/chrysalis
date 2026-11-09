@@ -1,7 +1,7 @@
 ﻿{#
 
 .. BEWARE: CUSTOMIZE THIS FOR YOUR GAME
-    Etat des lieux
+    État des lieux
     ===============
 
     Il n'est pas toujours simple d'être un transfuge, considéré comme un traître à sa patrie, et nouveau membre d'une confrérie puissante mais encore bien mystérieuse. Cependant, avoir escamoté les trois orbes mythiques, au nez et à la barbe des akarites, c'est savoureusement gratifiant. Avoir ses petites entrées auprès du fameux Loyd Georges, c'est aussi quelque chose d'agréable. Et avoir une belle journée de repos devant soi, sous ce climat tempéré, c'est le rêve de tout honnête homme. Après tout, le Paladium semble avoir l'affaire bien en main, les judicateurs et leurs discours délirants n'ont qu'à bien se tenir.

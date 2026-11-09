@@ -41,7 +41,7 @@ En parlant d'Alphonse... vous aimez beaucoup votre cher doyen de collègue, mais
 Vous n'avez pas de problème à collaborer gratuitement avec des invités, même louches, dans l'intérêt de votre maisonnée, tant qu'ils prennent des engagements attestant qu'ils ne vont pas vous leurrer (ex. devant des Tiers de Confiance).
 
 {% macro dual_of_honor_arbiter() %}
-Vous êtes un arbitre assermenté de **"duel d'honneur sabarite"**. A vous de mettre en place immédiatement un tel duel, en cas d'outrage, et d'en rappeler les règles aux duellistes. Une **bande-son d'ambiance** est disponible pour agrémenter ces duels.
+Vous êtes un arbitre assermenté de **"duel d'honneur sabarite"**. À vous de mettre en place immédiatement un tel duel, en cas d'outrage, et d'en rappeler les règles aux duellistes. Une **bande-son d'ambiance** est disponible pour agrémenter ces duels.
 {% endmacro %}
 <{ dual_of_honor_arbiter }/>
 

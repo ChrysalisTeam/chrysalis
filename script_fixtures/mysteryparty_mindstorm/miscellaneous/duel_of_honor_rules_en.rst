@@ -36,7 +36,7 @@ Procedure:
 - The letter must be announced in a complete sentence in the first person, such as "I give you an F"; and the verb used must always differ from the previous ones in the joust.
 - The letters thus strung together must form the prefix of a word.
 - In case of doubt, one may ask one's opponent "what are you thinking of?"; if they answer with a valid word, they win, otherwise they lose.
-- Valid words are all the common words of the dictionary (larousse.fr), not compound, not conjugated, and not vulgar. Plural nouns, verbs in the infinitive, past or present participle, are allowed. *The fact that some of these words may be "anachronistic" is ignored.*
+- Valid words are all the common words of the dictionary (collinsdictionary.com), not compound, not conjugated, and not vulgar. Plural nouns, verbs in the infinitive, past or present participle, are allowed. *The fact that some of these words may be "anachronistic" is ignored.*
 - In the end, the joust ends when a player no longer knows which letter to choose, or reuses an announcing verb already used during the joust, or when a "what are you thinking of?" has been uttered.
 
 

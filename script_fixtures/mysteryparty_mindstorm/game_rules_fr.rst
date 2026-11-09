@@ -32,7 +32,7 @@ Communications et Compétences
 - Il est possible d'ordonner des **opérations bancaires** (virements d'argent, transferts d'objets...) par tout moyen de communication, sans passer par le portail web Anthropia
 - Entre le fait que vos supérieurs n'ont **plus de réserves disponibles** en Sabarim, et les nouvelles réglementations financières, n'espérez pas obtenir de nouveaux crédits bancaires (ni en kashes ni en Livres Sabarites) avant 2 semaines
 - Pour ce qui est des documents écrits circulant à l'intérieur du manoir, ils sont "certifiés vrais" si et seulement si ils disposent d'un "sceau infalsifiable", qui sera simulé par **une signature dans un cercle** ; faites ainsi pour certifier un document que vous avez écrit ; si un document n'a pas ce sceau, "on ne sait pas", et bien entendu, interdiction d'imiter le sceau de quelqu'un d'autre
-- Le maître du jeu doit être **tenu informé** des compétences spéciales que vous mettez en œuvre, et y assister s'il s'agit de compétences interactives entre protagonistes ; certaines facultés étant nouvelles et un peu audacieuses, le maître de jeu se réserve le droit de tacler une initiative qui risquerait de ruiner la soirée
+- Le maître de jeu doit être **tenu informé** des compétences spéciales que vous mettez en œuvre, et y assister s'il s'agit de compétences interactives entre protagonistes ; certaines facultés étant nouvelles et un peu audacieuses, le maître de jeu se réserve le droit de tacler une initiative qui risquerait de ruiner la soirée
 - N'hésitez pas à prendre à part le maître de jeu durant la partie, si une règle n'est pas claire, ou pour demander si X ou Y est possible dans cet univers
 - **Les objets du jeu sont parfois fragiles, on ne force pas dessus, en particulier s'ils sont équipés d'un système de verrouillage. Ils nécessitent alors soit d'avoir des compétences spéciales pour les ouvrir, soit de trouver, selon les cas :**
 
@@ -48,8 +48,8 @@ Appuyez-vous sur vos **soutiens sur place** :
 
 - Si vous avez des **alliés en jeu**, faites le point ensemble en début de session, pour échanger des informations sur ce que vous savez des jours précédents, sur vos compétences respectives, et voir comment vous pouvez vous aider mutuellement dans vos missions ; en l'absence d'éléments probants, mieux vaut jouer soudés, en équipe, que tomber dans la paranoïa façon "tout le monde ici est potentiellement mon pire ennemi".
 - vous avez probablement des **soutiens extérieurs** à la soirée (supérieurs hiérarchiques, mentors, famille et amis...), avec qui vous aurez ponctuellement l'occasion de faire le point, et de réfléchir à des solutions.
-- Si des informations, compétences ou objets vous manquent pour avancer dans vos missions, pensez à en toucher discrètement un mot aux **médiateurs Obérons**, ils sont là pour cela ; de même, n'hésitez pas à leur confier les interactions simples à effectuer sur le **portail web Anthropia** en votre nom, afin d'éviter de vous couper du jeu à des moments intéressants. Partez du principe que leur loyauté, et leur discrétion, sont absolues.
-- Le **Maître de Jeu** (qui joue un des Obérons) est à votre disposition pour toute question "hors-jeu".
+- Si des informations, compétences ou objets vous manquent pour avancer dans vos missions, pensez à en toucher discrètement un mot aux **médiateurs obérons**, ils sont là pour cela ; de même, n'hésitez pas à leur confier les interactions simples à effectuer sur le **portail web Anthropia** en votre nom, afin d'éviter de vous couper du jeu à des moments intéressants. Partez du principe que leur loyauté, et leur discrétion, sont absolues.
+- Le **Maître de Jeu** (qui joue un des obérons) est à votre disposition pour toute question "hors-jeu".
 
 
 Gérez vos **adversaires** :

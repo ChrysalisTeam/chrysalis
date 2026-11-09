@@ -51,7 +51,7 @@ Plus que cela : vous adorez les duels d'honneur. Si le défié cherche à évite
 Interactions diverses
 ++++++++++++++++++++++++++++++++++++++
 
-Vous braillez avec emphase les heures "en jeu" qui passent : "Mesdame messieurs, il est 20h et tout va bien".
+Vous braillez avec emphase les heures "en jeu" qui passent : "Mesdames messieurs, il est 20h et tout va bien".
 Vous annoncez aussi bruyamment l'arrivée des différents mets et boissons du buffet.
 
 Les joueurs auront de multiples façons de profiter de vos services, que ce soit gagnant-gagnant (avec vos petites ventes personnelles, ou du graissage de patte pour obtenir des extras...), ou en vous spoliant : chantage, manipulation de votre naïveté, exploitation de votre goût pour l'alcool et les jeux d'argent, subtilisation d'objets...

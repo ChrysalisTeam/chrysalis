@@ -4,7 +4,7 @@
 <{ title_main_missions }/>
 =============================================================
 
-- get your hands on Loyd Georges' Orb {% fact 'agent_mission_seek_lg_orb' %}
+- get your hands on Loyd Georges' orb {% fact 'agent_mission_seek_lg_orb' %}
 - obtain a lease for the tar sands deposit {% fact 'agent_mission_obtain_mining_lease' %}
 - convince the Akarith council of the doctrinal purity of the Dorians {% fact 'agent_mission_transfiliation_attempt' %} {% fact "peridot_must_answer_akarith_council" as author %}
 

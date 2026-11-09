@@ -24,7 +24,7 @@ Your husband is therefore going to end up with half of his establishments in the
 Taking flight in politics
 ==========================
 
-All these worries had pushed you to find new breathing space, new quests for your life. 6 months ago, you therefore went into politics, with a view to becoming the first female senator of the **Consulate of Alifir**; you indeed hold dual Lordanian/Sabarith nationality, and the stagnation of political life in your native country, with its trio of ageing and corrupt consuls, inspired these new ambitions in you. Your family therefore immediately settled into a charming villa near the Alifir Academy; also with a view to benefiting from better care for your husband.{% fact 'opal_lydia_moved_to_alifir_villa_6_months_ago' as author %} {% fact 'lydia_runs_for_alifir_consul_election' as author %}
+All these worries had pushed you to find new breathing space, new quests for your life. 6 months ago, you therefore went into politics, with a view to becoming the first female consul of the **Consulate of Alifir**; you indeed hold dual Lordanian/Sabarith nationality, and the stagnation of political life in your native country, with its trio of ageing and corrupt consuls, inspired these new ambitions in you. Your family therefore immediately settled into a charming villa near the Alifir Academy; also with a view to benefiting from better care for your husband.{% fact 'opal_lydia_moved_to_alifir_villa_6_months_ago' as author %} {% fact 'lydia_runs_for_alifir_consul_election' as author %}
 
 Your electoral campaign was built around three themes:
 

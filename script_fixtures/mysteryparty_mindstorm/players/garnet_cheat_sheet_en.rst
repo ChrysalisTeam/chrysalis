@@ -6,7 +6,7 @@
 =============================================================
 
 
-- get hold of Loyd Georges' Orb {% fact 'agent_mission_seek_lg_orb' %}
+- get hold of Loyd Georges' orb {% fact 'agent_mission_seek_lg_orb' %}
 - keep an ear out for the events of the Akarith council, so as to discourage it, if possible, from peacefully integrating the Dorians {% fact 'agent_mission_transfiliation_attempt' %}
 
 - support, then form a military alliance with, the new Sabarith consular trio (by obtaining access to their air bases) {% fact 'agent_mission_lordania_sabarim_alliance' %}

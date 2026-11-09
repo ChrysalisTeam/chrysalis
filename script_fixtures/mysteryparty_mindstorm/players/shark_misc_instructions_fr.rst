@@ -41,7 +41,7 @@ Exemple de speech introductif de l'inspecteur
 
     Ne soyez pas dupes, je sais que vous avez **tous les mains sales**, et en d’autres circonstances je me serais fait un plaisir de vous mener un par un à la déchéance. Mais je suis prêt à échanger ma **clémence contre votre collaboration**.
 
-    Alors certes nous sommes dans un **Etat de Droit**. Vous n'êtes actuellement que des **"suspects réquisitionnés pour témoignages"**. Mais il ne me faudra que quelques éléments de preuve, pour vous **mettre en examen**, et faire fouiller aussi bien **vos poches que vos comptes numériques sur Anthropia**. Si vous ne voulez pas être compromis, aussi bien ici en Sabarim que dans vos "patries" respectives, vous savez ce qu’il vous reste à faire.
+    Alors certes nous sommes dans un **État de Droit**. Vous n'êtes actuellement que des **"suspects réquisitionnés pour témoignages"**. Mais il ne me faudra que quelques éléments de preuve, pour vous **mettre en examen**, et faire fouiller aussi bien **vos poches que vos comptes numériques sur Anthropia**. Si vous ne voulez pas être compromis, aussi bien ici en Sabarim que dans vos "patries" respectives, vous savez ce qu’il vous reste à faire.
 
     Le manoir et le parc sont quadrillés par des policiers armés jusqu’aux dents, et c’est maintenant à la justice d’enquêter. Je vous recevrai dans le bureau, pour interrogatoire, et vous ne pourrez repartir d'ici que lorsque j’aurai coincé le ou les criminels qui se cachent parmi vous.
 
@@ -56,7 +56,7 @@ Les mécaniques d'interrogatoire de l'inspecteur
 Voici les délits dont les agents secrets sont généralement coupables, autant de leviers pour que l'inspecteur les mette "sous pression" :
 
 - Usurpation d'identité (c'est le cas pour tous les joueurs qui sont des agents secrets en réalité)
-- Intelligence avec des services secrets étrangers, atteinte à la sécurité de l'Etat
+- Intelligence avec des services secrets étrangers, atteinte à la sécurité de l'État
 - Interception de communications postales ou de conversations privées
 
 D'autres méfaits sont bien plus spécifiques, l'enquêteur doit donc batailler pour obtenir des informations avant de pouvoir en accuser un joueur :
@@ -81,7 +81,7 @@ D'autres méfaits sont bien plus spécifiques, l'enquêteur doit donc batailler 
 - Dire : "malgré ma présence, plein de drames sont arrivés à LG, et maintenant sa vie elle-même a été atteinte ; l'honneur de toute une vie de service est en jeu, je ne me satisferai que d'une victoire totale".
 - Tester les joueurs sur leurs connaissances en antiquités ou en pierreries, selon leur identité officielle (chercher des questions piège dans les fiches dédiées ou sur Internet) : montrer ainsi aux agents secrets que l’on n’est pas dupe de leurs impostures.
 - Dire : "Je sais que vous êtes un agent du gouvernement de <pays>. Je vous livre aux services secrets sabarites si vous ne me donnez pas une info."
-- Dire : "J’ai les médias et l’Etat sur les bras, je veux donc un coupable, quel qu’il soit, et je vous balance au gouvernement si vous n’êtes pas coopératif pour en trouver un (vrai ou faux)."
+- Dire : "J’ai les médias et l’État sur les bras, je veux donc un coupable, quel qu’il soit, et je vous balance au gouvernement si vous n’êtes pas coopératif pour en trouver un (vrai ou faux)."
 - S’en prendre, plus tard, aux joueurs qui ont manqué d’ingéniosité dans leurs alibis ou affirmations lors d'un interrogatoire.
 - Confronter des joueurs qui auraient des informations l'un sur l'autre, pour les faire chanter façon "dilemme du prisonnier" ("le premier qui parle aura ma faveur, l’autre tant pis pour lui").
 - Faire avec son adjointe de police une mise en scène "gentil flic / méchant flic" pour pousser les interrogés à chercher un soutien auprès du "gentil flic"

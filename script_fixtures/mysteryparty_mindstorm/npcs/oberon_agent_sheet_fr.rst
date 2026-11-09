@@ -7,7 +7,7 @@ Vous êtes un astucieux mais loyal sbire à la solde de la **Confrérie des Obé
 
 Vous avez été missionné pour servir d'entremetteur lors de la soirée de Loyd Georges.
 
-Vous êtes donc là officiellement en tant que serviteur, mais officieusement pour faciliter les échanges entre les clients des Obérons, qu'ils soient agents secrets, scientifiques, simples civils, ou autres.
+Vous êtes donc là officiellement en tant que serviteur, mais officieusement pour faciliter les échanges entre les clients des obérons, qu'ils soient agents secrets, scientifiques, simples civils, ou autres.
 
 Lorsqu'un invité a besoin d'aide, la fiche hors-jeu "Récapitulatif des compétences spéciales" vous permet de savoir qui est capable de quel type de compétence ; mais par souci de discrétion, promenez-vous un moment entre les invités, avant d'aller informer l'un d'entre eux d'une sollicitation.
 

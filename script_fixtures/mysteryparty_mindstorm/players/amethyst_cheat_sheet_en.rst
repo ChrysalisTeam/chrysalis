@@ -5,9 +5,9 @@
 <{ title_main_missions }/>
 =============================================================
 
-{% macro orb_search_short_term_objectives() %}for Loyd Georges' Orb, find the answer to his secret question ("{{ character_properties['loyd.georges'].secret_question }}"), and acquire artefacts well suited to geolocation by the World Scanner{% endmacro %}
+{% macro orb_search_short_term_objectives() %}for Loyd Georges' orb, find the answer to his secret question ("{{ character_properties['loyd.georges'].secret_question }}"), and acquire artefacts well suited to geolocation by the World Scanner{% endmacro %}
 
-- get hold of Loyd Georges' Orb {% fact 'agent_mission_seek_lg_orb' %}
+- get hold of Loyd Georges' orb {% fact 'agent_mission_seek_lg_orb' %}
 - obtain a lease for the tar sands deposit {% fact 'agent_mission_obtain_mining_lease' %}
 
 - retrieve from the Oberons the reports on the balance of military forces in Midolia, authenticate them, pass them on to us, then stay on the alert for anything related to this subject {% fact 'agent_mission_study_midolian_armies_balance' %} {% hint "heliossar_spy_reports_on_akaris_armament" is needed %}

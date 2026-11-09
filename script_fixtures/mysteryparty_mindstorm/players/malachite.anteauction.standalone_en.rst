@@ -28,9 +28,9 @@ Despite the failures, you were able to determine, by cross-checking the informat
 
 <{ loyd_georges_orb_certainties }/>
 
-In short, you are making laborious progress in this Loyd Georges affair, and the Divine Orb remains a danger: it could serve as a pretext for the Akarith leaders to launch a "prophetic" war, rally the various Akarith clans (rather sceptical for the time being) to their cause, and build themselves an empire by crushing the surrounding countries - including your homeland. All the more so since you still do not know how this Orb works, nor the extent of its powers.
+In short, you are making laborious progress in this Loyd Georges affair, and the Divine Orb remains a danger: it could serve as a pretext for the Akarith leaders to launch a "prophetic" war, rally the various Akarith clans (rather sceptical for the time being) to their cause, and build themselves an empire by crushing the surrounding countries - including your homeland. All the more so since you still do not know how this orb works, nor the extent of its powers.
 
-But you keep on weaving your web, and as soon as Loyd Georges makes the slightest misstep, you have (almost) no doubt about it, his Orb will fall under your control.
+But you keep on weaving your web, and as soon as Loyd Georges makes the slightest misstep, you have (almost) no doubt about it, his orb will fall under your control.
 
 {% endmacro %}
 <{ masslavia_investigation_conclusion }/>

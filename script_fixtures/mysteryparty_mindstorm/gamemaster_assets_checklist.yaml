@@ -15,11 +15,11 @@
 -
   - "Indices initialement détenus par les joueurs"  # BEWARE KEEP IN SYNC WITH "email_attachments" ZODB overrides
   -
-    - "Amethyst - Rapport lordanien sur l'équilibre des forces armées en Midolie {% hint 'lordanian_report_on_midolian_armies_balance_for_amethyst' is provided %}, Ingrédients avancés de l'Elixir Berserk {% hint 'berserk_elixir_advanced_ingredients_for_amethyst' is provided %}, et Lettre d'Emilos Loakim volée dans la boite aux lettres du manoir {% hint 'stolen_manor_letter_for_amethyst' is provided %}"
+    - "Amethyst - Rapport lordanien sur l'équilibre des forces armées en Midolie,{% hint 'lordanian_report_on_midolian_armies_balance_for_amethyst' is provided %} Ingrédients avancés de l'Élixir Berserk,{% hint 'berserk_elixir_advanced_ingredients_for_amethyst' is provided %} et Lettre d'Emilos Loakim volée dans la boite aux lettres du manoir {% hint 'stolen_manor_letter_for_amethyst' is provided %}"
     - "Garnet - Lampe torche UV {% hint 'document_authentication_lamp_for_garnet' is provided %}"
     - "Peridot - Mémo sur les familles de pierres précieuses {% hint 'origins_of_precious_stones_for_peridot' is provided %}"
     - "Opal - Liste des poisons les plus dangereux {% hint 'deadliest_poisons_memo_for_opal' is provided %} et Codes secrets connus {% hint 'secret_codes_standard_sheet_cheat_for_opal' is provided %}"
-    - "Waden - Lettre de l'Université d'Omrh (Nalavut) avec Photocopie des travaux Préparatoires {% hint 'omrh_university_request_for_waden' is provided %}, Analyse 1/2 des pierres radioactives {% hint 'radioactive_samples_analysis_report_part_1_for_waden' is provided %}, Tube pneumatique {% hint 'pneumatic_tube_for_waden' is provided %}"
+    - "Waden - Lettre de l'Université d'Omrh (Nalavut) avec Photocopie des travaux Préparatoires,{% hint 'omrh_university_request_for_waden' is provided %} Analyse 1/2 des pierres radioactives,{% hint 'radioactive_samples_analysis_report_part_1_for_waden' is provided %} Tube pneumatique {% hint 'pneumatic_tube_for_waden' is provided %}"
     - "Obsidian - Elements de Droit Sabarite {% hint 'sabarith_law_summary_for_obsidian' is provided %} et Lexique akarite {% hint 'akarith_lexicon_for_obsidian' is provided %}"
     - "Malachite - [si disponible] Détecteur d'ondes et le mémo attaché, pour retrouver les enregistreurs posés {% hint 'recorder_tracker_for_malachite' is provided %}"
     - "Cynthia - 3 Bulletins d'Entretien Anti-Mensonges, Cryptorunes akarites modernes fournies par des collègues {% hint 'secret_codes_of_modern_akarith_sects_for_cynthia' is provided %}"
@@ -28,7 +28,7 @@
 -
   - "Indices initialement détenus par certains PNJs"
   -
-    - "Obéron - Résumé difficile de théologie yodique pour Malachite {% hint 'yodic_hard_summary_for_malachite_via_oberon' is provided %}; Analyse 2/2 des pierres radioactives pour Waden {% hint 'radioactive_samples_analysis_report_part_2_for_waden' is provided %}, Deux rapports héliossars sur l'armement akarite, pour les lordaniens {% hint 'heliossar_spy_reports_on_akaris_armament' is provided %}"
+    - "Obéron - Résumé difficile de théologie yodique pour Malachite;{% hint 'yodic_hard_summary_for_malachite_via_oberon' is provided %} Analyse 2/2 des pierres radioactives pour Waden,{% hint 'radioactive_samples_analysis_report_part_2_for_waden' is provided %} Deux rapports héliossars sur l'armement akarite, pour les lordaniens {% hint 'heliossar_spy_reports_on_akaris_armament' is provided %}"
     - "Rydji - Lettre de Rodok pour Loyd Georges, à transférer à Opal {% hint 'letter_from_rodok_forwarded_to_opal' is provided %}"
     - "Tabellion - Elements de Droit Sabarite (duplicata), Clef du coffre de Loyd Georges"
 

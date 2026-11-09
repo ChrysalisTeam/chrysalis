@@ -4,7 +4,7 @@
 <{ title_main_missions }/>
 =============================================================
 
-- get hold of Loyd Georges' Orb {% fact 'agent_mission_seek_lg_orb' %}
+- get hold of Loyd Georges' orb {% fact 'agent_mission_seek_lg_orb' %}
 - interfere with the Akarith council to discourage it from peacefully integrating the Dorians {% fact 'agent_mission_transfiliation_attempt' %} {% fact "malachite_must_answer_akarith_council" as author %}
 - investigate the Professor Voluto affair {% fact 'agent_mission_investigate_voluto' %}
 

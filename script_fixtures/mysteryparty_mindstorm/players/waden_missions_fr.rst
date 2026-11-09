@@ -10,7 +10,7 @@ Principaux objectifs pour la soirée
 
 - Vous tirer du chantage orchestré par {% symbol "Balberith" for "waden_blackmailer_lady_country" %} sur lesdits travaux via cette dame "{% symbol "Elezie" for "waden_blackmailer_lady_name" %}" {% fact "waden_has_met_unknown_girl" as author %}
 
-- Prendre une décision sur cette étrange lettre de l'Université D'Omrh (pays de Nalavut)
+- Prendre une décision sur cette étrange lettre de l'Université d'Omrh (pays de Nalavut)
 
 - Demander Cynthia en fiançailles, après avoir "fait vos preuves" et obtenu l'accord de son père Emilos Loakim {% fact "emilos_loakim_wants_waden_to_prove_valor" %}
 

@@ -77,7 +77,7 @@ Influence politique
 Votre fils Vik Leydelass vient d'être élu (en début de soirée) comme consul de Salima.
 Sa réussite vous honore, mais jeune comme il est, il reste extrêmement friand de vos bons conseils, en ce qui concerne la politique étrangère comme intérieure.
 
-Vous avez donc à coeur de guider ses premières décisions, pour que Sabarim garde son statut de havre de paix civilisé, et que la souveraineté de son Etat ne soit pas lésée par des entités économiques ou scientifiques. Car il existe des tensions à cause des monopoles sur la connaissance, des privilèges des notables, de l'exploitation de la caste sociale des "analphabètes"...
+Vous avez donc à coeur de guider ses premières décisions, pour que Sabarim garde son statut de havre de paix civilisé, et que la souveraineté de son État ne soit pas lésée par des entités économiques ou scientifiques. Car il existe des tensions à cause des monopoles sur la connaissance, des privilèges des notables, de l'exploitation de la caste sociale des "analphabètes"...
 
 Vous avez cependant **un principe que vous clamez haut et fort** : vous ne prêtez pas trop l'oreille à ce que peuvent raconter les autres (futurs) consuls et leurs proches (comme Lydia ou son mari), car vous ne savez que trop bien tous les fins calculs politiques qui peuvent se cacher derrière leurs arguments les plus terre-à-terre. Seules des personnes davantage "neutres" peuvent vous faire changer d'avis sur les problématiques que le pays rencontre.
 

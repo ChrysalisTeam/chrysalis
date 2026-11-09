@@ -23,8 +23,8 @@ Save your own health and that of Loyd Georges
 Help solve the crime against Loyd Georges
     You have only moderate confidence in the remaining skills of the ageing Inspector Shark, so you fully intend to investigate a little on the side, perhaps through his deputy police officer. Especially since, in the absence of a culprit, they might end up accusing you!
 
-Defend Loyd Georges' Orb
-    This archaeological wonder has taken a back seat because of recent events, but you feel it your duty to protect Loyd Georges' Orb, so valiantly recovered, against foreign agents. Only, you do not even know where he hid it...
+Defend Loyd Georges' orb
+    This archaeological wonder has taken a back seat because of recent events, but you feel it your duty to protect Loyd Georges' orb, so valiantly recovered, against foreign agents. Only, you do not even know where he hid it...
 
 Tackle the Akarith "Purifiers"
     You bear a serious grudge against this sect that made an attempt on your life, and perhaps on Loyd Georges'. So if the opportunity arises...

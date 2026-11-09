@@ -15,11 +15,11 @@
 -
   - "Clues initially held by the players"  # BEWARE KEEP IN SYNC WITH "email_attachments" ZODB overrides
   -
-    - "Amethyst - Lordanian report on the balance of armed forces in Midolia {% hint 'lordanian_report_on_midolian_armies_balance_for_amethyst' is provided %}, Advanced ingredients of the Berserk Elixir {% hint 'berserk_elixir_advanced_ingredients_for_amethyst' is provided %}, and Letter from Emilos Loakim stolen from the manor's mailbox {% hint 'stolen_manor_letter_for_amethyst' is provided %}"
+    - "Amethyst - Lordanian report on the balance of armed forces in Midolia,{% hint 'lordanian_report_on_midolian_armies_balance_for_amethyst' is provided %} Advanced ingredients of the Berserk Elixir,{% hint 'berserk_elixir_advanced_ingredients_for_amethyst' is provided %} and Letter from Emilos Loakim stolen from the manor's mailbox {% hint 'stolen_manor_letter_for_amethyst' is provided %}"
     - "Garnet - UV torch {% hint 'document_authentication_lamp_for_garnet' is provided %}"
     - "Peridot - Memo on the families of precious stones {% hint 'origins_of_precious_stones_for_peridot' is provided %}"
     - "Opal - List of the deadliest poisons {% hint 'deadliest_poisons_memo_for_opal' is provided %} and Known secret codes {% hint 'secret_codes_standard_sheet_cheat_for_opal' is provided %}"
-    - "Waden - Letter from the University of Omrh (Nalavut) with Photocopy of the Preparatory work {% hint 'omrh_university_request_for_waden' is provided %}, Analysis 1/2 of the radioactive stones {% hint 'radioactive_samples_analysis_report_part_1_for_waden' is provided %}, Pneumatic tube {% hint 'pneumatic_tube_for_waden' is provided %}"
+    - "Waden - Letter from the University of Omrh (Nalavut) with Photocopy of the Preparatory work,{% hint 'omrh_university_request_for_waden' is provided %} Analysis 1/2 of the radioactive stones,{% hint 'radioactive_samples_analysis_report_part_1_for_waden' is provided %} Pneumatic tube {% hint 'pneumatic_tube_for_waden' is provided %}"
     - "Obsidian - Elements of Sabarith Law {% hint 'sabarith_law_summary_for_obsidian' is provided %} and Akarith Lexicon {% hint 'akarith_lexicon_for_obsidian' is provided %}"
     - "Malachite - [if available] Wave detector and its attached memo, to find the planted recorders {% hint 'recorder_tracker_for_malachite' is provided %}"
     - "Cynthia - 3 Truth-interview slips, modern Akarith cryptorunes provided by colleagues {% hint 'secret_codes_of_modern_akarith_sects_for_cynthia' is provided %}"
@@ -28,7 +28,7 @@
 -
   - "Clues initially held by some NPCs"
   -
-    - "Oberon - Difficult summary of Yodic theology for Malachite {% hint 'yodic_hard_summary_for_malachite_via_oberon' is provided %}; Analysis 2/2 of the radioactive stones for Waden {% hint 'radioactive_samples_analysis_report_part_2_for_waden' is provided %}, Two Heliossarian reports on Akarith armament, for the Lordanians {% hint 'heliossar_spy_reports_on_akaris_armament' is provided %}"
+    - "Oberon - Difficult summary of Yodic theology for Malachite;{% hint 'yodic_hard_summary_for_malachite_via_oberon' is provided %} Analysis 2/2 of the radioactive stones for Waden,{% hint 'radioactive_samples_analysis_report_part_2_for_waden' is provided %} Two Heliossarian reports on Akarith armament, for the Lordanians {% hint 'heliossar_spy_reports_on_akaris_armament' is provided %}"
     - "Rydji - Letter from Rodok for Loyd Georges, to be forwarded to Opal {% hint 'letter_from_rodok_forwarded_to_opal' is provided %}"
     - "Tabellion - Elements of Sabarith Law (duplicate), Key to Loyd Georges' safe"
 
@@ -195,7 +195,7 @@
     - "1 silver cartridge, 12 gauge, unused [100¤] {% hint 'single_caliber_12_cartridge' is provided %}"
     - "1 relic: my old wallet and step counter [100¤] {% hint 'old_alphonse_wallet' is provided %}"  # contains the pass card dedicated ONLY to the mailbox
     - "1 Authentic replica of Loyd Georges' golden pass card, non-functional [100¤]"  # to swap it with the REAL golden pass card
-    - "1 deck of cards (manual sadly undecipherable), found yesterday in the gambling den {% symbol 'La Murge de Salima' for 'alphonse_alibi_bar' %} [100¤] {% hint 'card_game_with_unreadable_manual' is provided %}"   # secret word of the Purifiers, giving an appointment the next day at the Purineur
+    - "1 deck of cards (manual sadly undecipherable; the coded message prop is in French, FRERES RDV DEMAIN SOIR AU PURINEUR = brothers, meet tomorrow evening at the Purineur), found yesterday in the gambling den {% symbol 'La Murge de Salima' for 'alphonse_alibi_bar' %} [100¤] {% hint 'card_game_with_unreadable_manual' is provided %}"   # secret word of the Purifiers, giving an appointment the next day at the Purineur
     - "1 high-tech CHROMIA pen found in the manor [100¤] {% hint 'chromia_spy_pen' is provided %}"   # spy dictaphone
     - "1 cave octopus tentacle [100¤] {% hint 'octopus_tentacle_in_bottle' is provided %}"
     - "1 juice (dark red) of red-skinned Akarith land mushroom [100¤] {% hint 'red_land_mushroom_juice' is provided %}"
@@ -210,7 +210,7 @@
   -
     - "5 medical reports from the central hospice and the medical laboratory {% hint 'loyd_georges_health_reports' is provided %}"
     - "3 letters of correspondence between Shark and his sister"
-    - "Letter from the Sabarim Gazette and ivory object for Cynthia (in a velvet sheath)"  # to manipulate the Akarith Purifiers of Sabarim
+    - "Letter from the Sabarim Gazette and ivory object for Cynthia (in a velvet sheath; the word hidden in the ivory object is the French \"sanctuaire\", GM accepts \"sanctuary\")"  # to manipulate the Akarith Purifiers of Sabarim
     - "Akarith fanatic's sabre"
     - "Akarith fanatic's Nerf gun (with laser)"
     - "Kitten photo frame"

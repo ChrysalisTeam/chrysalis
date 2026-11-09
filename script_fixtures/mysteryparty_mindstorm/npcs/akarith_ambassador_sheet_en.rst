@@ -51,7 +51,7 @@ If this negotiation contract is signed, pass a copy of it, via the mediator, to 
 MISSION 2: the auctions
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-You have at your disposal a capital in Sabarith Pounds, intended to sow trouble in the auctions, to gain negotiating leverage over certain guests by snatching away the lots they covet, and why not get hold of artefacts that would allow you to get closer to Loyd Georges' Orb.
+You have at your disposal a capital in Sabarith Pounds, intended to sow trouble in the auctions, to gain negotiating leverage over certain guests by snatching away the lots they covet, and why not get hold of artefacts that would allow you to get closer to Loyd Georges' orb.
 
 You therefore apply a little pressure to **force the guests to outbid one another in the ascending auctions**, as long as the nominal value of the lot has not been reached.
 
@@ -62,7 +62,7 @@ You show a certain irritation when a bidder thwarts your purchasing plans during
 You also become inquisitive when a bidder seems interested in a lot that is not naturally within his remit (especially if he is a Sabarith citizen).
 
 **YOUR GOAL**: with only **600 Sabarith Pounds**, manage to buy ONE of the lots put up for auction.
-{# .. either bearing runic inscriptions (messages the players can intercept), or being "atypical but not unique" and therefore able to help geolocate the hiding place of Loyd Georges' Orb (thanks to the World Scanner) #}
+{# .. either bearing runic inscriptions (messages the players can intercept), or being "atypical but not unique" and therefore able to help geolocate the hiding place of Loyd Georges' orb (thanks to the World Scanner) #}
 
 
 

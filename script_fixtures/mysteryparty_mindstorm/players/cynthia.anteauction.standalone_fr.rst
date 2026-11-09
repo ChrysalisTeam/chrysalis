@@ -30,7 +30,7 @@ Votre père Emilos Loakim, dans sa recherche effrénée d'antiquités akarites s
 Vous avez mis de côté ce dernier maillon de la chaîne, pour ne pas faire de peine à Loyd Georges (qui a toujours parlé de lui comme d'un vieux compagnon d'aventure), et pour ne pas briser une famille, alors que ce délit sera prescrit dans 8 mois.
 {% fact "cynthia_has_proofs_about_opal_past_lg_theft" as author %}
 
-Enfin, récemment, vous êtes tombée sur un immense scandale de trafic de Drogue Zombifiante, impliquant aussi bien des notables lordaniens que sabarites, avec la complaisance des **trois consuls actuellement en poste en Sabarim**. Pour la première fois de votre vie, vous avez enterré l'affaire non par souci éthique, mais par peur ; peur pour vous et pour votre entourage. Des sommités de l'Etat vous ont clairement menacée du pire si ces informations s'ébruitaient, et c'est un peu la rançon de l'amour : lorsque l'on voit poindre une vie en couple, on devient moins trompe-la-mort.
+Enfin, récemment, vous êtes tombée sur un immense scandale de trafic de Drogue Zombifiante, impliquant aussi bien des notables lordaniens que sabarites, avec la complaisance des **trois consuls actuellement en poste en Sabarim**. Pour la première fois de votre vie, vous avez enterré l'affaire non par souci éthique, mais par peur ; peur pour vous et pour votre entourage. Des sommités de l'État vous ont clairement menacée du pire si ces informations s'ébruitaient, et c'est un peu la rançon de l'amour : lorsque l'on voit poindre une vie en couple, on devient moins trompe-la-mort.
 {% fact "cynthia_has_proofs_about_consuls_drug_traffic" as author %}
 
 Tout cela vous interpelle ; allez-vous finir comme vos collègues, à ne vous en prendre qu'aux plus faibles, de peur de fâcher les puissants ?

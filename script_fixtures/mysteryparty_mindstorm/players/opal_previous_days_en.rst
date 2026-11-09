@@ -44,7 +44,7 @@ There you are, confined to the manor under house arrest, and forbidden to commun
 
 When Inspector Shark tosses you a meagre filled sandwich at around **13:00**, you ask him for more information. He mentions a {% symbol "scene of a brawl in Loyd Georges' bedroom" for "shark_vague_explanations_to_opal" %}, but keeps the rest under the seal of "investigative secrecy". He does not seem to have you in his sights, but does not seem to trust you either.
 
-Then your wife turns up at the manor. You had forgotten about her, with this whole business. You "brief" her, in the library, on the latest developments: the attack on Loyd Georges, your poisoning probably by Akariths, Loyd Georges' Orb that must be lying around somewhere...
+Then your wife turns up at the manor. You had forgotten about her, with this whole business. You "brief" her, in the library, on the latest developments: the attack on Loyd Georges, your poisoning probably by Akariths, Loyd Georges' orb that must be lying around somewhere...
 
 Here is an excerpt from your conversation:
 

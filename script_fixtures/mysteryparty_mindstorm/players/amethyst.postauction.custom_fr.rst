@@ -1,6 +1,6 @@
 ﻿{#
 .. BEWARE: CUSTOMIZE THIS FOR YOUR GAME
-    Etat des lieux
+    État des lieux
     ===============
 
     Il n'est pas toujours simple d'être un agent lordanien, tentant de servir les intérêts plus ou moins avouables de sa patrie dans des conflits étrangers où rivalités académique, fanatisme religieux, et prétentions territoriales s'entremêlent. Surtout quand les fameux orbes que l'on recherche se dérobent à tous bouts de champs.

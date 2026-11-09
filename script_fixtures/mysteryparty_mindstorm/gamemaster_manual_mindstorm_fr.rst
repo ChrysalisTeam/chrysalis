@@ -18,7 +18,7 @@ La soirée mystère Chrysalis:Mindstorm peut se jouer de deux façons:
 
 - soit en **STANDALONE ("autonome") avant-enchères**, c'est-à-dire comme un jeu isolé. Le jeu se passe au tout début de la série d'enchères de Loyd Georges, après qu'il a mené une expédition archéologique illégale en territoire akarite, mais avant les évènements de Chrysalis:Auction (afin de ne pas *spoiler* cette campagne de réalité alternée). Les escarmouches ont déjà commencé : harcèlement de la part des dirigeants akarites outrés, tentatives de vol, premières manœuvres d’espionnage des différents états alentour... L’inspecteur Shark a donc été saisi pour enquêter sur les méfaits ciblant Loyd Georges, et assurer sa protection. Dans ce mode de jeu, le "casier judiciaire potentiel" des joueurs (agents secrets pour la plupart) est prédéfini ; aucun orbe n'a encore été récupéré, et il n'existe que de rares indices sur l'existence de la puissante faction du "Paladium". Les joueurs viennent au manoir dans l'optique d'en apprendre plus sur les trouvailles archéologiques de Loyd Georges. Dans ce mode, en théorie, un seul des trois orbes est récupérable pendant la soirée mystère (les autres sont laissés pour une possible réalité alternée consécutive).
 
-- soit en **CUSTOM ("personnalisé") après-enchères**, c’est à dire comme épilogue à une partie de Chrysalis:Auction (réalité alternée). Dans ce cas les joueurs connaissent déjà bien le contexte et les différents protagonistes, et ont eux-mêmes rempli leur "casier judiciaire potentiel", par les actions qu'ils ont effectuées au long des ventes aux enchères successives. Typiquement, les orbes ont tous été récupérés par l'un ou l'autre camp, et le Paladium s'est dévoilé en attaquant les judicateurs akarites. La situation reste majoritairement très floue, car les akarites sont partagés entre ceux qui ne croient plus à l’accomplissement de leurs prophéties, et ceux qui luttent encore pour réaliser, de force, la réunion des trois orbes divins. Les différents Etats de la planète entière sont donc dans l’expectative. Dans ce contexte, les joueurs sont plombés par les incertitudes liées aux récents évènements, ainsi que par les manœuvres plus ou moins discrètes qu’ils ont dû faire pendant les enchères. Cependant, ils se lancent quand même dans la mêlée, en espérant pouvoir tirer quelque épingle restante du jeu.
+- soit en **CUSTOM ("personnalisé") après-enchères**, c’est à dire comme épilogue à une partie de Chrysalis:Auction (réalité alternée). Dans ce cas les joueurs connaissent déjà bien le contexte et les différents protagonistes, et ont eux-mêmes rempli leur "casier judiciaire potentiel", par les actions qu'ils ont effectuées au long des ventes aux enchères successives. Typiquement, les orbes ont tous été récupérés par l'un ou l'autre camp, et le Paladium s'est dévoilé en attaquant les judicateurs akarites. La situation reste majoritairement très floue, car les akarites sont partagés entre ceux qui ne croient plus à l’accomplissement de leurs prophéties, et ceux qui luttent encore pour réaliser, de force, la réunion des trois orbes divins. Les différents États de la planète entière sont donc dans l’expectative. Dans ce contexte, les joueurs sont plombés par les incertitudes liées aux récents évènements, ainsi que par les manœuvres plus ou moins discrètes qu’ils ont dû faire pendant les enchères. Cependant, ils se lancent quand même dans la mêlée, en espérant pouvoir tirer quelque épingle restante du jeu.
 #}
 
 
@@ -76,7 +76,7 @@ Le sort des Orbes, de Loyd Georges, et le statut judiciaire des joueurs (poursui
 Détails des gameplays de la soirée
 ========================================
 
-Ces cheminements ludiques sont bien sûr à modifier, ou à remplacer, au bon vouloir du maître du jeu, tant que la trame générale du scénario reste soutenue par les indices nécessaires.
+Ces cheminements ludiques sont bien sûr à modifier, ou à remplacer, au bon vouloir du maître de jeu, tant que la trame générale du scénario reste soutenue par les indices nécessaires.
 
 
 Mécaniques récurrentes pour les joueurs
@@ -157,7 +157,7 @@ Un trafic de Drogue Zombifiante s'est mis en place de la Lordanie vers Sabarim, 
 
 Les akarites en ont eu vent, et se sont servis de ce réseau logistique pour implanter tranquillement des agents akarites (dont la secte des "purificateurs" qui pourchasse les profanateurs) en Sabarim, en particulier dans les tavernes des bas-fonds par où transite la drogue ; quitte à faire chanter un peu les consuls comme {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} lorsque ceux-ci, prenant conscience de ces ingérences akarites, tentaient de faire le ménage dans ce mic-mac. Les akarites sont aussi en partie pourvoyeurs de la drogue elle-même.
 
-L'Etat lordanien est étranger à ce trafic, qui met en danger sa tentative de rapprochement militaire et scientifique avec Sabarim ; les agents secrets lordaniens doivent donc être informés de ce péril mafieux.
+L'État lordanien est étranger à ce trafic, qui met en danger sa tentative de rapprochement militaire et scientifique avec Sabarim ; les agents secrets lordaniens doivent donc être informés de ce péril mafieux.
 
 Les services secrets sabarites, eux, ont conscience que des choses ne tournent pas rond dans le bas-fond, mais sont bridés par leur subordination aux consuls. Les élections consulaires en cours pourraient évidemment changer la donne.
 
@@ -248,7 +248,7 @@ Le choix des Lordaniens
 
 Initialement, les agents lordaniens pensent que les forces armées sont équilibrées en Midolie, et préconisent donc d'oeuvrer au déclenchement de la guerre des Akarites contre les autres pays midoliens (y compris la Dorie).
 
-Mais deux rapports d'espionnage héliossars, récupérables auprès du médiateur Obéron, apportent des informations contradictoires :
+Mais deux rapports d'espionnage héliossars, récupérables auprès du médiateur obéron, apportent des informations contradictoires :
 
 1) l'une affirme que les akarites ont des explosifs obsolètes, peu efficaces contre les nouvelles fortifications.
 2) l'autre affirme que des usines souterraines travaillent à plein régime depuis plusieurs années, donnant à l'Akarie un avantage monstrueux en terme de forces blindées.
@@ -287,12 +287,12 @@ L'arbre de décision final est grosso-modo celui-ci :
 
 - si les doriens sont jugés peu compatibles :
 
-  - si le duc a la confiance des akarites, il impose le rattachement malgré la grogne d'une partie de la population et des élites (risque de coup d'Etat par les services secrets)
+  - si le duc a la confiance des akarites, il impose le rattachement malgré la grogne d'une partie de la population et des élites (risque de coup d'État par les services secrets)
   - si le duc est "grillé", il change d'avis et tente de rallier son pays à la coalition midolienne anti-akarite (risque de troubles par des akarites infiltrés, ou des civils qui refusent de s'opposer aux puissants akarites)
 
 - si les doriens sont jugés incompatibles :
 
-  - si le duc a la confiance des akarites, il s'enfuit pour rejoindre les judicateurs et leur livrer ses secrets d'Etat
+  - si le duc a la confiance des akarites, il s'enfuit pour rejoindre les judicateurs et leur livrer ses secrets d'État
   - si le duc est "grillé", il rejoint avec son pays la coalition midolienne anti-akarite, avec un large support de sa population (mais là encore risques de troubles des akarites infiltrés)
 
 Attention, les lordaniens peuvent avoir mis leur grain de sel dans l'affaire, en émettant des fausses nouvelles dans les médias ; nouvelles qui peuvent ou non avoir été démasquées (en particulier par Cynthia et ses relations de presse). Cela pourrait a minima semer le doute parmi les différents chefs religieux akarites, et faire pencher la balance vers un sens ou l'autre.
@@ -369,14 +369,14 @@ La destinée de la famille Magnus (Opal et Lydia)
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-La rémission d'Opal (Elixir Berserk)
+La rémission d'Opal (Élixir Berserk)
 --------------------------------------
 
 Opal est malade depuis qu'il a été empoisonné par la secte akarite des "purificateurs".
 
-Il s'est vu confier par Loyd Georges qu'il y aurait peut-être moyen de le soigner grâce à une antique potion yodique, l'Elixir Berserk, et qu'ils en reparleraient après la soirée spéciale.
+Il s'est vu confier par Loyd Georges qu'il y aurait peut-être moyen de le soigner grâce à une antique potion yodique, l'Élixir Berserk, et qu'ils en reparleraient après la soirée spéciale.
 
-Au début de la soirée, Rydji lui remet une lettre de {% symbol "Rodok" for "lg_adventurer_friend_name" %}, que Loyd Georges avait mise de côté "au cas où". Cette lettre contient la recette de base de l'Elixir :
+Au début de la soirée, Rydji lui remet une lettre de {% symbol "Rodok" for "lg_adventurer_friend_name" %}, que Loyd Georges avait mise de côté "au cas où". Cette lettre contient la recette de base de l'Élixir :
 {% fact "opal_knows_about_berserk_elixir" %} {% hint "letter_from_rodok_forwarded_to_opal" is needed %}
 
 {# RECETTE UN PEU DIFFERENTE DE CELLE DU JDR CHRYSALIS:DESCENT, POUR EVITER LA TRICHE #}
@@ -384,14 +384,14 @@ Au début de la soirée, Rydji lui remet une lettre de {% symbol "Rodok" for "lg
 - tentacule de poulpe caverneux (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% hint 'octopus_tentacle_in_bottle' is needed %}
 - petit fruit rouge qui pique (prune rouge d'Akarie, disponible en liqueur dans la bonbonne antique (la "Bonbonne tectonne") vendue aux enchères)
 
-Les lordaniens ont aussi eu vent de cet Elixir, et ils sont intéressés de voir ses effets sur Opal, pour jauger de sa pertinence sur leur infanterie.
+Les lordaniens ont aussi eu vent de cet Élixir, et ils sont intéressés de voir ses effets sur Opal, pour jauger de sa pertinence sur leur infanterie.
 
-Ils ont pour leur part uniquement des indices sur les ingrédients complémentaires, permettant de modifier les effets de l'Elixir :
+Ils ont pour leur part uniquement des indices sur les ingrédients complémentaires, permettant de modifier les effets de l'Élixir :
 
-- l'Elixir de base donne une grande énergie, atténue la douleur et augmente légèrement la force physique, mais entraine une agressivité déraisonnable au combat, sans augmenter la résistance aux blessures pour autant
+- l'Élixir de base donne une grande énergie, atténue la douleur et augmente légèrement la force physique, mais entraine une agressivité déraisonnable au combat, sans augmenter la résistance aux blessures pour autant
 - ajouter une goutte de venin de Najah royal (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse) décuple la force physique, et enlève toute sensation de douleur, mais l'utilisateur régresse à l'état d'animal suite au premier combat
 - ajouter de la poudre de corne striée de chèvre (chèvre d'Akarie, disponible auprès de dame Clodynette) permet à l'utilisateur de garder sa raison au combat, et lui donne des réflexes surhumains pour parer la plupart des projectiles et des coups
-- dans tous les cas, s'il prend plus d'un millilitre d'Elixir en une semaine, l'utilisateur meurt d'épuisement en moins d'une journée
+- dans tous les cas, s'il prend plus d'un millilitre d'Élixir en une semaine, l'utilisateur meurt d'épuisement en moins d'une journée
 
 Le mode préparatoire de la potion est trouvable grâce au grimoire akarite (le "Livre Sacré Yodique" vendu aux enchères) et aux dépôts poudreux de la bourse de cuir (compte de Loyd Georges). Ne pas les connaître altérera la qualité de la potion.
 
@@ -414,7 +414,7 @@ Depuis, Opal a accès au compte web sécurisé d'Emerald (mais en lecture seule)
 
 Des indices répartis entre les protagonistes permettent de relier Opal à la mort d'Emerald, et d'expliquer a posteriori l'action d'Opal face à cet agent double.
 
-Si Opal n'arrive pas à démontrer son innocence, les lordaniens pourraient lui mettre des bâtons dans les roues de multiples façons, y compris en lui fournissant une mauvaise recette pour compléter son Elixir Berserk.
+Si Opal n'arrive pas à démontrer son innocence, les lordaniens pourraient lui mettre des bâtons dans les roues de multiples façons, y compris en lui fournissant une mauvaise recette pour compléter son Élixir Berserk.
 
 
 
@@ -531,7 +531,7 @@ Tenter de garder le trésor entièrement pour soi pourra donc valoir une déposs
 - un extrait de la biographie de Loyd Markis indique que pour lui le Baobab est "l'arbre majestueux dont le fruit est sur les lèvres du buste automnal"
 - cela fait référence à un des tableaux des 4 saisons d'Arcimboldo, exposés au mur ; le buste représentant l'Automne a une châtaigne à la place de la bouche
 - les serviteurs connaissent un immense châtaignier (ou marronnier, peu importe) dans un coin du parc du manoir
-- un serviteur de Loyd Georges, ou un agent Obéron bien payé, peut aller fouiller sous cet arbre avec une pelle, ou de l'explosif (Rydji adore cela)
+- un serviteur de Loyd Georges, ou un agent obéron bien payé, peut aller fouiller sous cet arbre avec une pelle, ou de l'explosif (Rydji adore cela)
 - une telle fouille sous l'arbre permet de trouver une boite, qui contient une énigme littéraire menant au "Précieux Chaudron" ; celui-ci est en réalité caché "dans le plafond des toilettes"
 - là encore, outils ou explosifs permettent de découvrir le chaudron qui contient **23 mégakashes en pièces d'or**, partagé (ou non) entre découvreurs (ce qui permettrait à la famille Magnus, par exemple, de ne plus avoir aucune contrainte financière pour la vente de son gisement de sables bitumineux).
 

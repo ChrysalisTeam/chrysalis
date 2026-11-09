@@ -667,7 +667,7 @@ messaging:
 
                 nous venons de découvrir que des notables lordaniens avaient mis en place un trafic de Drogue Zombifiante vers Sabarim, trafic en partie infiltré et détourné par des akarites.
 
-                Ce système mafieux n'est pas du fait de notre Etat, et il met en danger nos efforts pour nous rapprocher de Sabarim ; soyez donc alertes en ce sujet, et n'hésitez pas à contribuer à sa destruction côté sabarite, si l'occasion se présente, pour attester de notre bonne volonté.
+                Ce système mafieux n'est pas du fait de notre État, et il met en danger nos efforts pour nous rapprocher de Sabarim ; soyez donc alertes en ce sujet, et n'hésitez pas à contribuer à sa destruction côté sabarite, si l'occasion se présente, pour attester de notre bonne volonté.
 
 
         -   id: black_market_offers
@@ -850,7 +850,7 @@ messaging:
             body: |
                 Agents, des communications interceptées indiquent que la journaliste présente au manoir garderait chez elle des éléments accablants contre le duc dorien, ayant trait à une "profanation de symbole religieux".
 
-                 Maintenant que la Dorie a choisi de trahir l’alliance anti-akarite, il faut que cette journaliste comprenne que semer la zizanie dens ce nouvel « empire » est notre meilleure chance de sauver la paix pour le reste de Pangéa. A vous d'agir.
+                 Maintenant que la Dorie a choisi de trahir l’alliance anti-akarite, il faut que cette journaliste comprenne que semer la zizanie dens ce nouvel « empire » est notre meilleure chance de sauver la paix pour le reste de Pangéa. À vous d'agir.
             gamemaster_hints: "Télégramme tardif, si la Dorie a rejoint le camp des Akarites"
 
 
@@ -988,7 +988,7 @@ audio_messages:
              Retour du Front des Affranchis en Midolie
          "text": >-
              \audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\
-             \vce=speaker=Julie\ Il souffle comme un vent de déjà-vu en Midolie, où l'Etat d'héliossar a appelé
+             \vce=speaker=Julie\ Il souffle comme un vent de déjà-vu en Midolie, où l'État d'héliossar a appelé
              les pays voisins à signer un traité d'assistance mutuelle, afin de peser contre la menace akarite.
              Thélassar et la Masslavie ont répondu favorablement, mais la Dorie a appelé à la retenue, en
              indiquant que ce type d'initiative ne ferait qu'attiser les tensions régionales.

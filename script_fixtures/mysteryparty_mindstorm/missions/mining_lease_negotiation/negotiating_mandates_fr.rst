@@ -7,9 +7,9 @@
 
 .. container:: large-font
 
-    Nous, l'Etat Souverain de **{{ country_name }}**,
+    Nous, l'État Souverain de **{{ country_name }}**,
 
-    mandatons le porteur de la présente missive, citoyen de notre pays, pour négocier en notre nom l'achat d'un gisement de sables bitumineux situé dans le Royaume de Subael, en Austrion.
+    mandatons le porteur de la présente missive, citoyen de notre pays, pour négocier en notre nom l'achat d'un gisement de sables bitumineux situé dans le Royaume de Suabel, en Austrion.
 
 .. image:: ../../assets/red_seal_wax_empty.png
     :align: right

@@ -12,7 +12,7 @@ D'après nos sources, les chefs religieux akarites vont décider, à cette occas
 
 Il serait dommageable de voir le pouvoir économique et militaire des akarites se renforcer davantage ; s'ils en venaient à livrer une guerre de conquête rapide mais sagement limitée dans son ampleur, l'empire qui en ressortirait serait de taille à rivaliser avec notre chère patrie.
 
-Nous sommes un peu pris de court face à tout cela ; mais si vous avez quelque moyen pour influer à distance sur ce concile, et accentuer les défiances et dissensions entre ces deux Etats ou ces deux peuples, n'hésitez pas à vous en servir, cela pourrait faire pencher la balance et éviter une fusion de ces peuples sans heurts.
+Nous sommes un peu pris de court face à tout cela ; mais si vous avez quelque moyen pour influer à distance sur ce concile, et accentuer les défiances et dissensions entre ces deux États ou ces deux peuples, n'hésitez pas à vous en servir, cela pourrait faire pencher la balance et éviter une fusion de ces peuples sans heurts.
 
 *Les Services Secrets Lordaniens*
 

@@ -26,7 +26,7 @@ Si l'on vous demande la recette d'un des 2 plats de la veille, vous allez la che
 
 **Si l'on vous prouve que vous avez mis par erreur du laurier rose dans un plat, au lieu du laurier sauce, vous êtes atterré, désespéré, et demandez à ce qu'on vous emprisonne.**
 
-Si l'on vous demande de réaliser un (faux) cocktail, avec différents ingrédients apportés par un joueur, allez voir le maître du jeu pour qu'il vous donne le résultat de ce mélange.
+Si l'on vous demande de réaliser un (faux) cocktail, avec différents ingrédients apportés par un joueur, allez voir le maître de jeu pour qu'il vous donne le résultat de ce mélange.
 
 Toutes ces actions de jeu, vous les faites gratuitement (pas besoin de demander des billets de "kashes", l'argent fictif du jeu).
 

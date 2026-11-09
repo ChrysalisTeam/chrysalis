@@ -13,7 +13,7 @@
 - récupérer auprès des obérons les rapports sur l'équilibre des forces militaires en Midolie, les authentifier, nous les transmettre, puis rester en alerte sur tout ce qui concerne ce sujet {% fact 'agent_mission_study_midolian_armies_balance' %} {% hint "heliossar_spy_reports_on_akaris_armament" is needed %}
 
 {% macro lordanian_berserk_mission_summary() %}
-- aider Loyd Georges et {{character_properties.opal.official_name}} à être cobayes de l'Elixir Berserk {% fact 'agent_mission_investigate_berserk_elixir' %} {% hint "berserk_elixir_advanced_ingredients_for_amethyst" is needed %} {# mission en duo #}
+- aider Loyd Georges et {{character_properties.opal.official_name}} à être cobayes de l'Élixir Berserk {% fact 'agent_mission_investigate_berserk_elixir' %} {% hint "berserk_elixir_advanced_ingredients_for_amethyst" is needed %} {# mission en duo #}
 {% endmacro %}
 <{ lordanian_berserk_mission_summary }/>
 

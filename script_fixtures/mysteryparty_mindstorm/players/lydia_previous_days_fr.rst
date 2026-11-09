@@ -6,7 +6,7 @@ Votre mari brûlait de participer aux mystérieuses ventes aux enchères d'un ce
 
 Vous aviez un grand besoin de vous revigorer ; vous avez donc décliné la soirée spéciale de Loyd Georges, pour aller effectuer une {% symbol "thalassothérapie dans les monts brumeux (près de la frontière Est de Sabarim)" for "khaal_isildis_location" %}, avec Khaal et votre bonne cousine **{% symbol "Isildis" for "lydia_cousin_name" %}**. Il était entendu que vous rentreriez directement à Alifir le lendemain de ladite soirée (qui est aussi le jour du scrutin), pour y prendre vos fonctions, si - comme prévu - vous étiez élue. {% fact "lydia_was_out_of_manor_with_khaal_recently" as author %}
 
-En vous reposant dans un bain bouillonnant, vous avez eu une illumination : parmi les éclectiques possessions que vous avait léguées vos parents, il se trouve un grand terrain de "sables bitumineux", dans le Royaume de Subael, en Austrion. Jusqu'ici il ne valait rien, mais les technologies ont tellement évolué récemment...
+En vous reposant dans un bain bouillonnant, vous avez eu une illumination : parmi les éclectiques possessions que vous avait léguées vos parents, il se trouve un grand terrain de "sables bitumineux", dans le Royaume de Suabel, en Austrion. Jusqu'ici il ne valait rien, mais les technologies ont tellement évolué récemment...
 
 Vous avez donc fait jouer votre réseau politique pour voir si ce terrain intéressait quelqu'un. Surprise, plusieurs contacts se sont montrés extrêmement intéressés, et ont imploré que vous rencontriez un de leurs représentants ; représentants qui se trouvent, par le plus grand des hasards, participer aussi aux enchères de Loyd Georges.
 

@@ -74,7 +74,7 @@ character_properties:
         account: 1600
         address_book: ["secret-services@dorian-dukedom.pg"]
         official_name: "Luciane Begalazatr"
-        official_role: "Prospecteur mandaté par de riches collectionneurs de Nimouk (Duché dorien)"
+        official_role: "Prospectrice mandatée par de riches collectionneurs de Nimouk (Duché dorien)"
         gamemaster_hints: "En vérité MP3, agent dorien. La personne en question n'ayant jamais existé, il faudra jouer finement pour ne pas se faire démasquer."
         extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
         is_npc: false
@@ -132,7 +132,7 @@ character_properties:
         account: 300
         address_book: []
         official_name: "Charles Magnus"
-        official_role: "Riche lordanien, natif de Baynon, amateur de belles antiquités et pierreries."
+        official_role: "Riche lordanien, natif de Baynon, amateur de belles antiquités et pierreries"
         gamemaster_hints: "Vrai enchérisseur, autrefois compagnon d'aventure (malhonnête) de Loyd Georges, il est venu avec sa femme Lydia et son enfant Khaal à Sabarim."
         extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
         is_npc: false
@@ -146,7 +146,7 @@ character_properties:
         account: 300
         address_book: []
         official_name: "Lydia Magnus"
-        official_role: "Politicienne sabarite, candidate au poste de consule d'Alifir."
+        official_role: "Politicienne sabarite, candidate au poste de consule d'Alifir"
         gamemaster_hints: "Femme d'Opal."
         extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
         is_npc: false
@@ -176,7 +176,7 @@ character_properties:
         account: 1000
         address_book: []
         official_name: "Loyd Georges"
-        official_role: "Rentier sexagénaire féru d'archéologie, et vivant à Salima."
+        official_role: "Rentier sexagénaire féru d'archéologie, et vivant à Salima"
         gamemaster_hints: "Il a organisé l'expédition réussie à Nazur, ainsi que les enchères en cours."
         is_npc: true
         secret_question: "Le nom de mon premier animal de compagnie."
@@ -191,7 +191,7 @@ character_properties:
         account: 100
         address_book: []
         official_name: "Emilos Loakim"
-        official_role: "Brillant archéologue sexagénaire d'Alifir."
+        official_role: "Brillant archéologue sexagénaire d'Alifir"
         gamemaster_hints: "Professeur à Alifir et confident de Loyd Georges, il a localisé pour lui le temple de Nazur."
         is_npc: true
         secret_question: "Nom de jeune fille de ma tendre et chère."
@@ -238,7 +238,7 @@ character_properties:
         account: 100
         address_book: []
         official_name: "Emogladys"
-        official_role: "Simple civile."
+        official_role: "Simple civile"
         gamemaster_hints: "Compte de test, servant au maître de jeu à explorer les pages uniquement accessibles aux personnages."
         is_npc: true
         secret_question: null # IMPORTANT
@@ -254,7 +254,7 @@ character_properties:
         account: 300
         address_book: []
         official_name: "Inspecteur Shark"
-        official_role: "Inspecteur de police sabarite, récemment sorti de sa retraite."
+        official_role: "Inspecteur de police sabarite, récemment sorti de sa retraite"
         gamemaster_hints: "Il a des connexions avec loyd Georges (dont il accepte régulièrement les pots-de-vin pour le laisser mener ses recherches) et s'occupe personnellement des interactions PVP des joueurs."
         is_npc: true
         secret_question: "Mon fidèle compagnon."
@@ -270,7 +270,7 @@ character_properties:
         account: 300
         address_book: ["judicator-arthanas@akaris.pg", contact@akaris.pg]
         official_name: "archbishop-baazel"
-        official_role: "Le guide de l'un des 7 clans akarites."
+        official_role: "Le guide de l'un des 7 clans akarites"
         gamemaster_hints: "Il cherche à convertir un maximum de joueur et à amener la suprématie akarite, il est fanatique et dur mais suffisamment intelligent pour comprendre qu'il faut accepter la transfiliation ; c'est un loup déguisé en agneau."
         is_npc: true
         secret_question: "Jubilation et transcendance"

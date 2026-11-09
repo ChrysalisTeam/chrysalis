@@ -32,13 +32,13 @@ _TEMP_:
             Mais s’il a réellement déniché des pièces en rapport avec les Trois Orbes Sacrés akarites, nous pouvons craindre de graves troubles politico-religieux à court terme dans la région, alors même que notre puissance militaire se fait rapidement dépasser par celle de nos voisins akarites.
 
         -   &lg_auction_announce   |
-            Loyd Georges organise bientôt la vente aux enchères d'une partie de ses trouvailles, afin de remettre en états ses finances grevées par des décennies de fouilles infructueuses (ainsi qu'un train de vie plus qu'exubérant). Il invite à cette occasion les musées archéologiques, les grands bijoutiers, ainsi que "tous les amoureux de l'Ere Tectone et des pierres précieuses", à concourir via le portail intranet "Anthropia", gracieusement prêté par l'université d'Alifir.
+            Loyd Georges organise bientôt la vente aux enchères d'une partie de ses trouvailles, afin de remettre en états ses finances grevées par des décennies de fouilles infructueuses (ainsi qu'un train de vie plus qu'exubérant). Il invite à cette occasion les musées archéologiques, les grands bijoutiers, ainsi que "tous les amoureux de l'Ère Tectonne et des pierres précieuses", à concourir via le portail intranet "Anthropia", gracieusement prêté par l'université d'Alifir.
 
             Il faut à tout prix que nos meilleurs agents empruntent de fausses identités pour participer à ces enchères, et obtiennent un maximum d'informations sur cette expédition archéologique. Sans nul doute, nous ne serons pas les seuls services secrets sur la sellette ; une prudence infinie et une présence d'esprit impeccable seront donc de mise.
 
         -       |
             Qui sait ce qui nous attend si Akaris, ou un autre état malintentionné, parvient à mettre la main sur une de ces improbables "Orbes Sacrés".
-            Nous devons donc immédiatement entrer en contact avec les autorités doriennes et héliossares, qui sont tout autant menacées que nous par cette affaire d'orbes.
+            Nous devons donc immédiatement entrer en contact avec les autorités doriennes et héliossars, qui sont tout autant menacées que nous par cette affaire d'orbes.
             Leur collaboration nous sera précieuse pour démêler ce sac de noeuds, et inestimable si les choses devaient mal tourner.
 
 
@@ -140,7 +140,7 @@ _TEMP_:
             Nous n’avons, à l’heure actuelle aucun renseignement fiable sur la façon dont ce retraité de Salima s'y est pris pour passer outre les décrets midoliens proscrivant ce type d'activités, ni sur les artefacts qu’il aurait mis au jour.
 
         -       |
-            Loyd Georges organise bientôt la vente aux enchères d'une partie de ses trouvailles, afin de remettre en états ses finances grevées par des décennies de fouilles infructueuses (ainsi qu'un train de vie plus qu'exubérant). Il invite à cette occasion les musées archéologiques, les grands bijoutiers, ainsi que "tous les amoureux de l'Ere Tectone et des pierres précieuses", à concourir via le portail intranet "Anthropia", gracieusement prêté par l'université d'Alifir.
+            Loyd Georges organise bientôt la vente aux enchères d'une partie de ses trouvailles, afin de remettre en états ses finances grevées par des décennies de fouilles infructueuses (ainsi qu'un train de vie plus qu'exubérant). Il invite à cette occasion les musées archéologiques, les grands bijoutiers, ainsi que "tous les amoureux de l'Ère Tectonne et des pierres précieuses", à concourir via le portail intranet "Anthropia", gracieusement prêté par l'université d'Alifir.
 
             Tout ce qu'on sait c'est que nos indics n'ont jamais eu les lèvres aussi scellées et que les enchères de ce cher vieillard sont un véritable panier à crabes!
 
@@ -513,11 +513,11 @@ messaging:
 
               Agents,
 
-              devant l'intensification de la tension vis à vis des Judicateurs akarites, nous avons pris contact avec les services secrets de nos voisins héliossares et masslaves, afin de mettre en commun nos plans et nos moyens.
+              devant l'intensification de la tension vis à vis des Judicateurs akarites, nous avons pris contact avec les services secrets de nos voisins héliossars et masslaves, afin de mettre en commun nos plans et nos moyens.
 
               Il s'avère en effet que lors de récents sommets théologiques, les judicateurs et les chefs de tribus ont rejeté la doctrine de la *transfiliation*, et donc nié la possibilité qu'un peuple non-akarite (comme le nôtre) rejoigne leur "Race élue des Yod". Nous n'avons donc plus d'autre choix que de nous battre contre eux, ou de devenir leurs esclave.
 
-              Vous êtes mandatés pour un contact avec les agents héliossares et masslaves alliés, dans le courant de la semaine ; nous comptons sur vous pour nouer de solides liens.
+              Vous êtes mandatés pour un contact avec les agents héliossars et masslaves alliés, dans le courant de la semaine ; nous comptons sur vous pour nouer de solides liens.
 
 
         - id: midolian_alliance_alert

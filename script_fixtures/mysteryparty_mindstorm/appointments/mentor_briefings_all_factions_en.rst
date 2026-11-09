@@ -14,7 +14,7 @@ The secret agents get called by their respective superiors (in pairs, except Obs
 - ask them what their plans are for the beginning of the evening
 - remind them that they must play it "united", and not fall into the hands of Sabarith justice
 
-Lydia and Magnus get called by their estate manager, who asks whether he can help them in any way. He enquires about Opal's health, about Lydia's electoral prospects, and more generally about what they intend to do given the circumstances.
+Lydia and Opal get called by their estate manager, who asks whether he can help them in any way. He enquires about Opal's health, about Lydia's electoral prospects, and more generally about what they intend to do given the circumstances.
 
 Waden and Cynthia get called by Emilos Loakim, who is on his tumultuous excavation site on the continent of Keroskia; he wonders why Loyd Georges has invited them to this evening, and urges them to be wary.
 
@@ -34,7 +34,7 @@ Also go over the notable events that have taken place in the manor (e.g. as a re
 
 Beware, **NO possibility of sending money or gems**: all available resources are already committed, and administrative delays make it impossible in the short term anyway.
 
-Importantly, remind the non-Sabarith agents that the assault on Loyd Georges is a **secondary incident**, and that their missions (including the search for the Orb) remain the priority.
+Importantly, remind the non-Sabarith agents that the assault on Loyd Georges is a **secondary incident**, and that their missions (including the search for the orb) remain the priority.
 
 
 Information for the Lordanians (Amethyst and Garnet)
@@ -51,7 +51,7 @@ Information for the Masslavians (Malachite and Spinel)
 
 Obsidian is said to belong to the Sabarith secret services; she seems to be concerned above all with national security, so try to form an alliance with her.
 
-The Lordanians' intentions are more or less clear, but if they too want to prevent the creation of an Akarith empire, an attempt must be made to pool the information about the Orb with them, so as to put it out of the Akariths' reach (and thus prevent their "prophecies" from galvanising them).
+The Lordanians' intentions are more or less clear, but if they too want to prevent the creation of an Akarith empire, an attempt must be made to pool the information about the orb with them, so as to put it out of the Akariths' reach (and thus prevent their "prophecies" from galvanising them).
 
 
 Information for the Dorians (Topaz and Peridot)

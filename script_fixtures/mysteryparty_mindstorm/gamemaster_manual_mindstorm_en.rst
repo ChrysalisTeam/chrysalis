@@ -70,7 +70,7 @@ Read Inspector Shark's sheet to understand the background of the case (namely an
 
 Read the detailed schedule sheet, for an hour-by-hour summary of the possible events.
 
-The fate of the Orbs, of Loyd Georges, and the judicial status of the players (prosecuted or not by the local justice system), will thus depend on the various events that occur during the game.
+The fate of the orbs, of Loyd Georges, and the judicial status of the players (prosecuted or not by the local justice system), will thus depend on the various events that occur during the game.
 
 
 Details of the evening's gameplay
@@ -120,10 +120,10 @@ Recurring mechanics for the players
 
 
 
-Loyd Georges' Orb
+Loyd Georges' orb
 ++++++++++++++++++++++++++++++
 
-Several factions aim to lay their hands on this Orb, recovered by Loyd Georges during his expedition to Midolia.
+Several factions aim to lay their hands on this orb, recovered by Loyd Georges during his expedition to Midolia.
 
 From the very start of the game, the various secret agents are asked by their respective superiors to hack Loyd Georges' "secret question" on the web portal. They must therefore investigate to find the name of Loyd Georges' first pet, between clues scattered around the premises (e.g. annotated souvenir photos) and questions put to the NPCs. They eventually work out that it is an Egyptian deity, {% symbol  "Bastet" for "lg_first_pet_name" %} (an encyclopedia article on ancient deities helps to find this name).
 

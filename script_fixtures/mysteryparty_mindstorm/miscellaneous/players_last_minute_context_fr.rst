@@ -12,7 +12,7 @@ Le manoir que vous connaissez bien émerge de la brume, sous une pluie battante.
 
 Des invités y font la queue, à moitié dissimulés par leur parapluie. Votre tour venu, les vigiles vérifient votre carte d'invitation magnétisée, puis vous font passer dans un sas métallique. Un détecteur de haute technologie, comme à l'entrée des ministères. De quoi s'assurer que les invités n'ont sur eux ni explosif, ni lame, ni arme à feu.
 
-En traversant le parc, vous apercevez, au milieu de la pelouse, une silhouette noire qui vous toise. Le célèbre inspecteur Shark, dépêché par l'Etat pour veiller aux intérêts de Loyd Georges. Il compte visiblement vous faire profiter de sa discrète mais inquiétante présence.
+En traversant le parc, vous apercevez, au milieu de la pelouse, une silhouette noire qui vous toise. Le célèbre inspecteur Shark, dépêché par l'État pour veiller aux intérêts de Loyd Georges. Il compte visiblement vous faire profiter de sa discrète mais inquiétante présence.
 
 Qu'importe donc, il ne pourra qu'être le témoin de manœuvres dont la subtilité le dépasse.
 Ou en tout cas, c’est ce que vous espérez. Car on n'a cessé de vous le répéter : la situation géopolitique est extrêmement tendue, donc il est hors de question, pour un espion étranger, de se faire démasquer dans ce pays ; cela ne lui serait pas pardonné.

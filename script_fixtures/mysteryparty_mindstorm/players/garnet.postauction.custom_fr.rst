@@ -1,7 +1,7 @@
 ﻿
 {#
 .. BEWARE: CUSTOMIZE THIS FOR YOUR GAME
-    Etat des lieux
+    État des lieux
     ===============
 
     Se faire piétiner par une demoiselle en armure, ce n'est jamais gratifiant, surtout pour un agent des services secrets lordaniens. Quand en plus cela revient à perdre, à un cheveu près, l'orbe que l'on traquait depuis des semaines, c'est même un coup à déclencher une crise existentielle.

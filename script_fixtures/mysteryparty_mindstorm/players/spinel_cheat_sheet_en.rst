@@ -4,7 +4,7 @@
 <{ title_main_missions }/>
 =============================================================
 
-- get your hands on Loyd Georges' Orb {% fact 'agent_mission_seek_lg_orb' %}
+- get your hands on Loyd Georges' orb {% fact 'agent_mission_seek_lg_orb' %}
 - get your hands on the Panorbium Fortuna {% fact 'agent_mission_find_panorbium_fortuna' %}
 - obtain a lease for the tar sands deposit {% fact 'agent_mission_obtain_mining_lease' %}
 

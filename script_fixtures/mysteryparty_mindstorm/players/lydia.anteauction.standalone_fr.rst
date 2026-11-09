@@ -24,7 +24,7 @@ Votre mari va donc se retrouver avec la moitié de ses établissements en pleins
 L'envol politique
 ========================
 
-Tous ces soucis vous avaient poussée à trouver de nouvelles respirations, de nouvelles quêtes pour votre vie. Il y a 6 mois, vous vous êtes donc lancée en politique, en vue de devenir la première femme sénatrice du **Consulat d'Alifir** ; vous avez en effet la double nationalité lordanienne/sabarite, et l'enlisement de la vie politique dans votre pays natal, avec son trio de consuls vieillissants et corrompus, vous a insufflé ces nouvelles ambitions. Votre famille s'est donc immédiatement installée dans une coquette villa près de l'Académie d'Alifir ; avec l'optique aussi de profiter de meilleurs soins pour votre mari.{% fact 'opal_lydia_moved_to_alifir_villa_6_months_ago' as author %} {% fact 'lydia_runs_for_alifir_consul_election' as author %}
+Tous ces soucis vous avaient poussée à trouver de nouvelles respirations, de nouvelles quêtes pour votre vie. Il y a 6 mois, vous vous êtes donc lancée en politique, en vue de devenir la première femme consule du **Consulat d'Alifir** ; vous avez en effet la double nationalité lordanienne/sabarite, et l'enlisement de la vie politique dans votre pays natal, avec son trio de consuls vieillissants et corrompus, vous a insufflé ces nouvelles ambitions. Votre famille s'est donc immédiatement installée dans une coquette villa près de l'Académie d'Alifir ; avec l'optique aussi de profiter de meilleurs soins pour votre mari.{% fact 'opal_lydia_moved_to_alifir_villa_6_months_ago' as author %} {% fact 'lydia_runs_for_alifir_consul_election' as author %}
 
 Votre campagne électorale a été axée sur trois thèmes :
 
