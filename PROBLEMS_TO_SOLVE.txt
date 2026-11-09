@@ -1,6 +1,24 @@
 TRANSLATION ISSUES TO SOLVE (FR -> EN)
 ======================================
 
+############################################################################################################
+#  !!!!!! STILL OPEN, WAITING ON THE AUTHOR !!!!!!  (details in the entries marked "BLOCKED ON AUTHOR" below)
+#
+#  1. Archives - Whispering Box: record an English MP3 of the Blowtorch charade (EN clue ODT p159-163), next to
+#     archives_media/audio/Vocal enigmas/treasure_enigma_charade_by_meredice_for_octave.mp3
+#     (in English, the torn animal book is now mere decoration).
+#  2. Archives - cipher images: re-encode in English the Thief's ogham memo (it decodes to the French
+#     ASTROLABE TRANSPORTE MOI LA BAS) and, optionally, the "useless well" hieroglyphs (PUITS INUTILE).
+#  3. Archives - anamorphosis enigma: re-edit the picture with an English caption ("For the day I forget it..."),
+#     or accept the French one.
+#  4. Mindstorm - cipher images: produce English-encoded hieroglyphs/runes/symbols pictures for
+#     ingame_clues_mindstorm_en.odt (SOUS RACINES DE BAOBAB, FRERES RDV DEMAIN SOIR AU PURINEUR, MO NOUS COUVRE...).
+#  5. Mindstorm - props: inspect the ivory object (hidden "sanctuaire"?) and make an English variant if needed;
+#     make an English coded card for the Purifiers card-game message.
+#
+#  GM notes covering these gaps were already added to the English clue ODT comments and checklists.
+############################################################################################################
+
 Archives (script_fixtures/mysteryparty_archives/)
 -------------------------------------------------
 
@@ -28,7 +46,7 @@ Archives (script_fixtures/mysteryparty_archives/)
      macro, fixes the Archivist sheet too). The "cattle/low" re-tie is speculative (nothing says the book has cattle) and its line
      is 78 chars vs 49 for FR p161. Record an EN MP3 and note it at checklist_en.yaml:163.
   => PARTLY DONE (cba1e14..b794ef8): FINAL fallback applied: EN ODT p158 torn-book hint tag removed, checklist_en.yaml:98 tag and IMPORTANT dropped ("mere decoration in the English version"), phantom_octave_sheet_en.rst:56 reworded (shared macro, so the Archivist sheet follows), checklist_en.yaml:163 notes the missing EN MP3; clue page counts unchanged (51/51)
-  => BLOCKED ON AUTHOR: record an English MP3 of the Blowtorch charade (EN ODT p159-163) for the Whispering Box, and drop it next to archives_media/audio/Vocal enigmas/treasure_enigma_charade_by_meredice_for_octave.mp3
+  => !!!!!! BLOCKED ON AUTHOR !!!!!!: record an English MP3 of the Blowtorch charade (EN ODT p159-163) for the Whispering Box, and drop it next to archives_media/audio/Vocal enigmas/treasure_enigma_charade_by_meredice_for_octave.mp3
 
 - Clue ODT cipher images still spell French in the EN clues (same pictures in both ODTs, as for Mindstorm, see the "Ventes Privées
   d'Alphonse" and "Props in French" entries): the hieroglyphs of the "useless well" sign decode to PUITS INUTILE
@@ -38,13 +56,13 @@ Archives (script_fixtures/mysteryparty_archives/)
   => Re-encode both images in English for ingame_clues_archives_en.odt, or give the GM the French text and its translation.
   => SUGGESTION: re-encode at least the ogham memo, since it carries the formula the players must speak.
   => PARTLY DONE (cba1e14..b794ef8): GM notes added in ingame_clues_archives_en.odt comments p336 (ogham memo = French ASTROLABE TRANSPORTE MOI LA BAS, accept the English formula) and p344 (hieroglyphs = PUITS INUTILE), and in gamemaster_assets_checklist_en.yaml:338 (Thief's wallet micro-text spells the French formula)
-  => BLOCKED ON AUTHOR: re-encode the ogham memo (and, optionally, the useless-well sign) pictures in English for ingame_clues_archives_en.odt
+  => !!!!!! BLOCKED ON AUTHOR !!!!!!: re-encode the ogham memo (and, optionally, the useless-well sign) pictures in English for ingame_clues_archives_en.odt
 
 - maupertuis_father_chest_code_anamorphosis_enigma (clue ODT, docs/build_archives_pdfs.py:250): the caption "Pour le jour où je
   l'oublierai..." is part of the image, so it stays French in the EN clues.
   => Re-edit the image for EN ("For the day I forget it..."), or accept.
   => PARTLY DONE (cba1e14..b794ef8): GM note added to the EN ODT comment of that clue (p152: caption inside the picture is French, "Pour le jour où je l'oublierai..." = "For the day I forget it...")
-  => BLOCKED ON AUTHOR: re-edit the anamorphosis picture with the English caption for ingame_clues_archives_en.odt, or accept the French caption
+  => !!!!!! BLOCKED ON AUTHOR !!!!!!: re-edit the anamorphosis picture with the English caption for ingame_clues_archives_en.odt, or accept the French caption
 
 Auction (script_fixtures/gamemaster_manual_en.yaml)
 ---------------------------------------------------
@@ -67,7 +85,7 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
      byte-identical cipher images (GM comments p471/p473/p475) and the ivory prop (FR p630 "sanctuaire" / EN p630 "sanctuary").
      Precision: the lone EN image lg_manor_map_english.png is in mindstorm_media/ at the repo root, not under script_fixtures/.
   => PARTLY DONE (cba1e14..b794ef8): key kept; GM notes added to the EN ODT comments p471/p473/p475 (the pictures encode the French SOUS RACINES DE BAOBAB / FRERES RDV DEMAIN SOIR AU PURINEUR / MO NOUS COUVRE...) and p630 (ivory object hides the French "sanctuaire"), plus gamemaster_assets_checklist_en.yaml:198/213 notes
-  => BLOCKED ON AUTHOR: produce English-encoded cipher pictures (hieroglyphs, runes, symbols) for ingame_clues_mindstorm_en.odt and an English ivory prop, or accept the GM notes
+  => !!!!!! BLOCKED ON AUTHOR !!!!!!: produce English-encoded cipher pictures (hieroglyphs, runes, symbols) for ingame_clues_mindstorm_en.odt and an English ivory prop, or accept the GM notes
 
 Descent (script_fixtures/descent_rpg/descent_rpg_data_en.yaml)
 --------------------------------------------------------------
@@ -94,7 +112,7 @@ Doubts from the third full review (by game area)
      code decipherers" (checklist l.178): ODT GM comments p469, p471, p473 (card game) and p475 (= checklist l.145 "MO nous
      couvre"): re-encode in EN or give the GM the translation.
   => PARTLY DONE (cba1e14..b794ef8): gamemaster_assets_checklist_en.yaml:213 GM note (ivory object hides the French "sanctuaire", GM accepts "sanctuary") and :198 note (card-game message is the French FRERES RDV DEMAIN SOIR AU PURINEUR + translation); EN ODT GM comments p471/p473/p475/p630 give the French plaintexts (p469 is the English acrostic, no French there)
-  => BLOCKED ON AUTHOR: inspect the ivory object and make an EN variant if it spells "sanctuaire"; make an EN coded card for the Purifiers message (and EN cipher pictures, see the Ventes Privées entry)
+  => !!!!!! BLOCKED ON AUTHOR !!!!!!: inspect the ivory object and make an EN variant if it spells "sanctuaire"; make an EN coded card for the Purifiers message (and EN cipher pictures, see the Ventes Privées entry)
 
 Doubts from the FR/EN PDF comparison
 ------------------------------------
