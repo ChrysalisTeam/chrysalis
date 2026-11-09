@@ -204,7 +204,7 @@ def load_jinja_environment(templates_root: list, use_macro_tags: bool, language:
     jinja_env.filters['dangerous_render'] = dangerous_render
 
     if use_macro_tags:
-        # requires https://github.com/frascoweb/jinja-macro-tags
+        # requires https://github.com/pakal/jinja-macro-tags (fork of frascoweb/jinja-macro-tags)
         from jinja_macro_tags import configure_environment
         configure_environment(jinja_env)
 
@@ -521,10 +521,13 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, language, conf_file="", extra_ar
     # fit-background-mode=scale doesn't work in config file, at the moment...
     # other options: --very-verbose --show-frame-boundary or just "-v"
     command = [sys.executable, "-m", "rst2pdf.createpdf", rst_file, "-o", pdf_file, "--config=%s" % conf_file,
-               "--fit-background-mode=scale", "--first-page-on-right", "--smart-quotes=2", "--break-side=any",
+               "--fit-background-mode=scale", "--first-page-on-right", "--smart-quotes=0", "--break-side=any",
                "-e", "dotted_toc_compat", "--fit-literal-mode=shrink", "--language=%s" % language] + shlex.split(extra_args or "")
 
     logging.debug("Executing command: %s" % command)
+
+    if os.path.exists(pdf_file):
+        os.remove(pdf_file)  # so that no PDF of a previous run remains if this one fails
 
     # rst2pdf exits with code 0 even when it logs errors (eg. missing images), so we check its logs too
     error_lines = []
@@ -534,9 +537,11 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, language, conf_file="", extra_ar
             sys.stderr.write(line)
             if any(marker in line for marker in ("[ERROR]", "[CRITICAL]", "(ERROR/", "(SEVERE/")):
                 error_lines.append(line.rstrip())
-    if process.returncode:
-        raise RuntimeError("Error %s when calling rst2pdf on %s" % (process.returncode, rst_file))
-    if error_lines:
+    if process.returncode or error_lines:
+        if os.path.exists(pdf_file):
+            os.remove(pdf_file)  # rst2pdf writes the PDF despite errors, don't let it pass for a valid one
+        if process.returncode:
+            raise RuntimeError("Error %s when calling rst2pdf on %s" % (process.returncode, rst_file))
         raise RuntimeError("rst2pdf reported errors on %s:\n%s" % (rst_file, "\n".join(error_lines)))
 
 
