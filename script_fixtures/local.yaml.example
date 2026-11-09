@@ -29,6 +29,8 @@ _CHARACTER_OVERRIDES_:
   spy_minesweeper: {"real_life_email": "", "real_life_identity": ""}
   spy_sounder: {"real_life_email": "", "real_life_identity": ""}
 
+  dragons: {"real_life_email": "", "real_life_identity": ""}
+
 
 _NPC_OVERRIDES_:
 
