@@ -954,7 +954,7 @@ Les différents bijoux :
 
 Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité par jour (un lot toutes les X heures), mais suffisant pour la quête des agents secrets. {% hint 'jewels_set_for_grinding_mill_success' is needed %} {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
 
-Avec le moulin magique et le grimoire chantant, les explorateurs ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
+Avec le moulin magique et le grimoire chantant, les agents secrets ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
 {% endmacro %}
 <{ spy_group_main_quest }/>
@@ -978,7 +978,7 @@ Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conse
 {% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}
 
 - Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre légendaire, mais cela ne résout pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d'Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares. {% fact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %} {% fact "players_have_thanatologue_spell_to_summon_zombies" %} {% hint "recipe_authority_potion" is needed %}
-  Les agents secrets doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une solution, dans le {% symbol "Thanatologue" for "book_of_the_dead" %} : les akarites cherchent à viser en priorité les invocateurs du camp adverse, surtout ceux portant de grands bijoux. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
+  Les explorateurs doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une solution, dans le {% symbol "Thanatologue" for "book_of_the_dead" %} : les akarites cherchent à viser en priorité les invocateurs du camp adverse, surtout ceux portant de grands bijoux. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
 
 - L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
@@ -1349,7 +1349,7 @@ Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer su
 En définitive, parmi les protagonistes du drame, **seul Octave était déjà entré** (accompagné de ses parents) dans ce domaine interdit. {% fact "only_octave_had_been_in_forbidden_domain" %}
 
 
-La derrière maisonnée des Maupertuis
+La dernière maisonnée des Maupertuis
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les parents Maupertuis étaient très différents et complémentaires ; par exemple autant {% symbol "Isadora" for "maupertuis_mother" %} avait une excellente **mémoire** et ne notait jamais rien, autant {% symbol "Quirinius" for "maupertuis_father" %}, lui, oubliait rapidement tout, et devait noter jusqu'à ses secrets les plus sensibles dans des carnets, qu'il laissait bien cachés dans la bibliothèque. {% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}

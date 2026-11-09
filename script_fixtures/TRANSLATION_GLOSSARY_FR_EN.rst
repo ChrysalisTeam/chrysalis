@@ -321,8 +321,8 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - "magnet" logo / "magnet" symbol / "magnet" label
      - Out-of-game marker of magnetic locks (Lockpicker, Sounder sheets).
    * - Alchémille / Chrysope / Joubarbe / Livèche / Sumac vénéneux / Digitale / Œil de triton
-     - Lady's mantle / Lacewing / Houseleek / Lovage / Poison sumac / Foxglove / Eye of newt
-     - Alchemist home ingredients. "Œil de triton" = the traditional "Eye of newt" (Macbeth), never "Newt's eye".
+     - Lady's mantle / Lacewing / Houseleek / Lovage / Poison sumac / Digitalis / Eye of newt
+     - Alchemist home ingredients. "Digitale" = "Digitalis", since the Druid reveals that the archaic "foxglove" (gant-de-renard) is the same plant. "Œil de triton" = the traditional "Eye of newt" (Macbeth), never "Newt's eye".
    * - alchimiste
      - Alchemist
      - Parcival role (canonical, parcival_alchemist).

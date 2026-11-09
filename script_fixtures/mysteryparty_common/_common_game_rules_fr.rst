@@ -72,7 +72,7 @@ Note Finale
 
 Les règles du jeu les plus importantes vous seront récapitulées juste avant qu'il ne commence.
 
-Mais tout cela reste bien sûr secondaire par rapport à votre principale mission : plonger dans le merveilleux univers des Archives secrètes des Maupertuis, et passer ensemble un grand moment hors du temps.  :-)
+Mais tout cela reste bien sûr secondaire par rapport à votre principale mission : plonger dans le merveilleux univers de Chrysalis, et passer ensemble un grand moment hors du temps.  :-)
 
 {# FIXME PUT THAT BACK FOR MINDSTORM
 Une Soirée Mystère est avant tout un jeu ; l'objectif est que tout le monde, joueurs comme figurants, passe un bon moment.

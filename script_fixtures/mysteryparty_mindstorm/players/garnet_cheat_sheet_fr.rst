@@ -36,7 +36,7 @@
   - il a pris de la digoxine pour soigner ses problèmes cardiaques {% fact 'loyd_georges_takes_medicine' %}
   - en prétextant l'oubli de votre montre à gousset, vous vous êtes isolé le temps de saboter le système d'alarme {% fact 'garnet_breaks_alarm_for_evening' %}
   - vous êtes revenu au manoir à {% symbol "22h" for "evening_intrusion_time_garnet" %}, pour y pénétrer en aveuglant les caméras de sécurité {% fact 'garnet_breaks_into_manor_in_the_evening' %}
-  - dans le bureau, vous avez trouvé un coffre-fort très sécurisé, le numéro d'un coffre à la banque de Salima ({% symbol "AIXJ726H" for "lg_bank_account_number" %})) et une note d'un certain E.L.
+  - dans le bureau, vous avez trouvé un coffre-fort très sécurisé, le numéro d'un coffre à la banque de Salima ({% symbol "AIXJ726H" for "lg_bank_account_number" %}) et une note d'un certain E.L.
   - vous avez entendu des gémissements de douleur dans la chambre de Loyd Georges, puis le tintement de la sonnette d'appel {% fact 'garnet_hears_moanings_and_bell' %}
   - dans votre fuite, vous vous êtes fait arracher un bout de semelle par le molosse {% fact 'garnet_loses_shoe_heel' %}
   - vous êtes illico rentré vous coucher dans votre petite chambre du {% symbol "gîte Les Myrtilles" for "garnet_rental_location" %} {% fact "garnet_alibi_is_void" as author %}

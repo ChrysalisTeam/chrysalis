@@ -11,7 +11,7 @@ Pour cette mission, vous avez pris l'identité de **{{character_properties.garne
 
 Endosser cette personnalité a remué en vous une blessure récente. Vous aviez l’habitude, depuis des années, de travailler en duo avec l’agent **"Emerald"**. C’était alors lui qui endossait l'identité de "{{character_properties.garnet.official_name}}". Mais il est mort récemment, lors d’une tragique réception organisée par l'ambassade akarite en Dorie. Vous vous rappelez votre course hagarde dans les rues de Nimouk, à la recherche d’une dose d’adrénaline pour faire repartir son cœur qui ralentissait inexorablement. Vous vous promettez, en crispant les poings, de ne plus jamais perdre un camarade… mais aussi de faire la peau à l’inconnu qui l’a empoisonné, si vous avez la chance de le trouver un jour. {% fact 'garnet_lost_colleague_emerald' as author %}
 
-Avant que vous n'ayez fait le deuil de tout cela, on vous a demandé de construire une nouvelle équipe avec l'agent **Amethyst**. Vous le connaissez bien, pour avoir participé avec lui à plusieurs études stratégiques sur la Midolie, et vous appréciez sa compagnie. Amethyst se fait de son côté passer pour **{{character_properties.amethyst.full_official_title}}}**. {% fact 'amethyst_is_undercover' %}
+Avant que vous n'ayez fait le deuil de tout cela, on vous a demandé de construire une nouvelle équipe avec l'agent **Amethyst**. Vous le connaissez bien, pour avoir participé avec lui à plusieurs études stratégiques sur la Midolie, et vous appréciez sa compagnie. Amethyst se fait de son côté passer pour **{{character_properties.amethyst.full_official_title}}**. {% fact 'amethyst_is_undercover' %}
 
 
 <{ title_investigation_so_far }/>

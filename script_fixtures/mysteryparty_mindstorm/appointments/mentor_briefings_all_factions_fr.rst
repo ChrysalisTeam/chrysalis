@@ -54,7 +54,7 @@ Obsidian ferait partie des services secrets sabarites, il sembel se préoccuper 
 Les intentions des Lordaniens sont plus ou moins claires, mais si eux aussi veulent éviter la création d'un empire akarite, il faut tenter de mettre en commun, avec eux, les informations sur l'Orbe, pour la mettre hors de portée des akarites (et empêcher ainsi leurs "prophéties" de les galvaniser).
 
 
-Informations pour les Doriens (Malachite et Spinel)
+Informations pour les Doriens (Topaz et Peridot)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Faire le point sur les premières tendances qui ont fuité du concile akarite, et rappeler que tout se joue maintenan, c'est le moment ou jamais pour le faire basculer doctrinalement d'un côté ou de l'autre ; esquisser les solutions possibles pour la Dorie (ralliement ou rebéllion), selon les cas.

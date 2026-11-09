@@ -6,7 +6,7 @@
 
 Vous avez bien évidemment préparé votre rôle d'adjoint de police, et potassé des "Eléments de droit sabarite", que vous gardez avec vous, pour savoir gérer correctement les phases de l'enquête. {% hint 'sabarith_law_summary_for_obsidian' is needed %}
 
-Vous avez sur vous quelques extraits d'un lexique akarite, au cas où vous auriez affaire à l'un de ces fanatiques infiltrés en Sabarim. {% hint 'akarith_lexicon_for_obsidian' is needed %}"
+Vous avez sur vous quelques extraits d'un lexique akarite, au cas où vous auriez affaire à l'un de ces fanatiques infiltrés en Sabarim. {% hint 'akarith_lexicon_for_obsidian' is needed %}
 
 Shark vous a interdit de porter une arme à cette soirée. "Elle peut se retourner contre nous". Lui par contre ne s'est pas privé... la confiance règne, décidément.  {% fact "obsidian_was_forbidden_by_shark_to_have_weapon" %}
 

@@ -21,7 +21,7 @@ Votre principal tâche est de préserver Sabarim contre les nombreuses menaces e
 <{ title_last_minute_information }/>
 =========================================================
 
-- vous avez sur vous un document des "Eléments de droit sabarite" {% hint 'sabarith_law_summary_for_obsidian' is needed %} ainsi qu'un extrait de "Lexique akarite" {% hint 'akarith_lexicon_for_obsidian' is needed %}"
+- vous avez sur vous un document des "Eléments de droit sabarite" {% hint 'sabarith_law_summary_for_obsidian' is needed %} ainsi qu'un extrait de "Lexique akarite" {% hint 'akarith_lexicon_for_obsidian' is needed %}
 - Shark vous a empêché de garder votre arme pour la soirée, par prudence  {% fact "obsidian_was_forbidden_by_shark_to_have_weapon" %}
 - il semble que les tripots des bas-fonds de Sabarim servent aux akarites infiltrés, mais les consuls ne veulent pas y faire de remous {% fact "akarith_use_sabarith_taverns_as_bases_and_consuls_know_it" %}
 - vous avez appris que votre cousine {{character_properties.cynthia.official_name}}, journaliste, faisait partie de l'entourage proche de Loyd Georges  {% fact "cynthia_and_obsidian_are_cousins" as author %}

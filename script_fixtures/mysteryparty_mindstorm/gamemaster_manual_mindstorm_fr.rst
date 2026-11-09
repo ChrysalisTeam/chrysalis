@@ -374,14 +374,14 @@ La rémission d'Opal (Elixir Berserk)
 
 Opal est malade depuis qu'il a été empoisonné par la secte akarite des "purificateurs".
 
- s'est vu confier par Loyd Georges qu'il y aurait peut-être moyen de le soigner grâce à une antique potion yodique, l'Elixir Berserk, et qu'ils en reparleraient après la soirée spéciale.
+Il s'est vu confier par Loyd Georges qu'il y aurait peut-être moyen de le soigner grâce à une antique potion yodique, l'Elixir Berserk, et qu'ils en reparleraient après la soirée spéciale.
 
 Au début de la soirée, Rydji lui remet une lettre de {% symbol "Rodok" for "lg_adventurer_friend_name" %}, que Loyd Georges avait mise de côté "au cas où". Cette lettre contient la recette de base de l'Elixir :
 {% fact "opal_knows_about_berserk_elixir" %} {% hint "letter_from_rodok_forwarded_to_opal" is needed %}
 
 {# RECETTE UN PEU DIFFERENTE DE CELLE DU JDR CHRYSALIS:DESCENT, POUR EVITER LA TRICHE #}
-- champignon aquatique bleu (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% hint 'octopus_tentacle_in_bottle' is needed %}"
-- tentacule de poulpe caverneux (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% hint 'blue_aquatic_mushroom_juice' is needed %}"
+- champignon aquatique bleu (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% hint 'blue_aquatic_mushroom_juice' is needed %}
+- tentacule de poulpe caverneux (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% hint 'octopus_tentacle_in_bottle' is needed %}
 - petit fruit rouge qui pique (prune rouge d'Akarie, disponible en liqueur dans la bonbonne antique vendue aux enchères)
 
 Les lordaniens ont aussi eu vent de cet Elixir, et ils sont intéressés de voir ses effets sur Opal, pour jauger de sa pertinence sur leur infanterie.
@@ -459,9 +459,9 @@ Une attaque de plusieurs factins (akarites, et mercenaires de {% symbol "Lord Ma
 
 Si Khaal était encore sur place, lui et son accompagnatrice sont heureusement secourus par le {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %}, qui surveillait les manigances du {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, et protégeait les proches de Loyd Georges à la demande de ce dernier.
 
- Le {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %} s'est réfugié dans la forêt avec tout le monde, et a besoin d'être secouru, car les akarites rodent, et la police locale est fortement corrompue. Les Magnus doivent donc engager des mercenaires à Alifir pour cela, ou faire appel aux services secrets sabarites via Obsidian.
+Le {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %} s'est réfugié dans la forêt avec tout le monde, et a besoin d'être secouru, car les akarites rodent, et la police locale est fortement corrompue. Les Magnus doivent donc engager des mercenaires à Alifir pour cela, ou faire appel aux services secrets sabarites via Obsidian.
 
- S'il échouent à faire cela en moins d'1h, tous ces fugitifs tombent entre les mains des akarites, et Lydia doit capituler au profit de {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}.
+S'ils échouent à faire cela en moins d'1h, tous ces fugitifs tombent entre les mains des akarites, et Lydia doit capituler au profit de {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}.
 
 
 
