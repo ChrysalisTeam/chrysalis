@@ -93,7 +93,7 @@ If you have put properly named images (eg. "Amethyst-John Doe.jpg", with the "re
 
 With the ``--with-clues`` option, you'll need to have LibreOffice installed in your system, so that separate documents can be extracted from the "ingame_clues_<game>.odt" file (or its "ingame_clues_<game>_en.odt" translation) using "unoconv.py".
 This step might fail if the pagination of this ODT file is altered on your system (e.g. fonts missing), in this case edit it by hand to respect the splitting information stored in the INGAME_CLUES_PARTS python variable of the build script.
-English and French documents share this splitting information, so translations must keep the pagination of the French document.
+English and French documents share this splitting information, so translations must keep the pagination of the French document; the build checks that the first page of each clue contains the text snippet declared for it, in INGAME_CLUES_PARTS, so that page shifts can't go unnoticed.
 
 
 

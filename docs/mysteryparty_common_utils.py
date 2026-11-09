@@ -105,12 +105,36 @@ def export_ingame_clues_pdfs(clues_document, clues_parts, output_dir, language):
     if os.path.exists(localized_clues_document):
         _generate_clues_pdfs_from_main_odt_document(input_doc=localized_clues_document,
                                                     clues_parts=clues_parts,
-                                                    output_dir=output_dir)
+                                                    output_dir=output_dir,
+                                                    language=language)
     else:
         print("!!! Skipping export of ingame clues, since no translated document %s exists" % localized_clues_document)
 
 
-def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_dir):
+def _normalize_pdf_text(text):
+    return "".join(text.split()).lower()  # PDF text extraction is unreliable regarding spaces and line breaks
+
+
+def _check_clues_first_pages(reader, clues_parts, language, input_doc):
+    """
+    Ensure that each clue starts on the expected page, by searching the text snippet declared for its first page
+    (None meaning that this page has no text, eg. a picture), since page counts may change when editing the document.
+    """
+    errors = []
+    current_page = 0
+    for basename, pages_count, first_page_snippets in clues_parts:
+        snippet = first_page_snippets[language] if first_page_snippets else None
+        page_text = _normalize_pdf_text(reader.pages[current_page].extract_text() or "")
+        if (snippet is None and page_text) or (snippet is not None and _normalize_pdf_text(snippet) not in page_text):
+            errors.append("Page %s should start clue %s with %r, but contains %r" % (
+                current_page + 1, basename, snippet, page_text[:60]))
+        current_page += pages_count
+    if errors:
+        raise RuntimeError("Clue parts don't match the pages of %s, fix INGAME_CLUES_PARTS or the document:\n%s" % (
+            input_doc, "\n".join(errors)))
+
+
+def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_dir, language):
     """
     Export the whole ODT document to PDF once, then split it into one PDF per clue.
 
@@ -121,7 +145,7 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
     from pypdf import PdfReader, PdfWriter
 
     full_pdf = os.path.join(output_dir, "_all_ingame_clues.pdf")
-    for filepath in [full_pdf] + [os.path.join(output_dir, basename + ".pdf") for (basename, _count) in clues_parts if basename]:
+    for filepath in [full_pdf] + [os.path.join(output_dir, basename + ".pdf") for (basename, _count, _snippets) in clues_parts if basename]:
         if os.path.exists(filepath):
             os.remove(filepath)
 
@@ -133,12 +157,13 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
         reader = PdfReader(full_pdf)
         if any(annot.get_object()["/Subtype"] == "/Text" for page in reader.pages for annot in page.get("/Annots", [])):
             raise RuntimeError("Gamemaster comments were exported to %s" % full_pdf)
-        declared_pages_count = sum(pages_count for (_basename, pages_count) in clues_parts)
+        declared_pages_count = sum(pages_count for (_basename, pages_count, _snippets) in clues_parts)
         if declared_pages_count != len(reader.pages):  # else parts would be shifted
             raise RuntimeError("Clue parts declare %s pages, but %s has %s pages" % (declared_pages_count, input_doc, len(reader.pages)))
+        _check_clues_first_pages(reader, clues_parts, language=language, input_doc=input_doc)
 
         current_page = 0
-        for basename, pages_count in clues_parts:
+        for basename, pages_count, _snippets in clues_parts:
             if basename is None:  # pages to be skipped
                 current_page += pages_count
                 continue
