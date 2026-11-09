@@ -16,7 +16,7 @@ Mais votre vocation s'est rapidement imposée à vous : désenvoûteur, c'est-à
 *NOTE hors-jeu : n'hésitez pas à simuler des émotions fortes, négatives ou positives selon les cas, lorsque vous imposez les mains sur des artefacts envoûtés...*
 
 
-Le reconnaissance des envoûtements d'artefacts
+La reconnaissance des envoûtements d'artefacts
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 En imposant les mains sur un objet et en fermant les yeux, vous pouvez sentir s'il a été la cible de malédictions ou de bénédictions.
@@ -54,7 +54,7 @@ Envoûtement simple
 
 Une malédiction de niveau "simple" demande de solliciter l'aide de n'importe quel "initié" (probablement un confrère diacre) pour le dissiper.
 
-Il faut que vous imposiez tous les deux les mains au dessus de l'objet, et que vous (seul) prononciez bien fort l'incantation : **"Par le souffle sacré de {% symbol "Bahamoot" for "god_of_diakons" %}, ô matière inerte, nous rompons les liens qui te lient aux strates ensorcelées".**
+Il faut que vous imposiez tous les deux les mains au-dessus de l'objet, et que vous (seul) prononciez bien fort l'incantation : **"Par le souffle sacré de {% symbol "Bahamoot" for "god_of_diakons" %}, ô matière inerte, nous rompons les liens qui te lient aux strates ensorcelées".**
 
 En cas de réussite, le maître de jeu retire/masque la pastille dorée de l'objet.
 

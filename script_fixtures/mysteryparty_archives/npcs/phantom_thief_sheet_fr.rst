@@ -17,7 +17,7 @@ Informations et instructions spécifiques
 
 Lorsque les joueurs arrivent dans l'étage interdit, vous êtes déjà en errance, dangereux. Lorsque vous vous incarnez, ça doit être à votre point d'ancrage. Allumez alors la bande-son "pirate" qui va avec votre rôle. Contrairement aux autres fantômes, vos passages en errance et en incarnation ne dépendent pas des sons de gong et cloche, car vous êtes bien plus souvent errant qu'eux - il faut donc voir cela avec le maître de jeu.
 
-Pour continuer à alimenter sans danger votre immense Trésor du {% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}, vous exigez que les paiements soient faits directement dans votre **{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}**, une sorte de tirelire magique qui téléporte les biens dans votre chateau familial ; cette tirelire, les joueurs doivent d'abord la retrouver pour vous. {% hint "thief_heavy_lost_moneybox" is needed %}
+Pour continuer à alimenter sans danger votre immense Trésor du {% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}, vous exigez que les paiements soient faits directement dans votre **{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}**, une sorte de tirelire magique qui téléporte les biens dans votre château familial ; cette tirelire, les joueurs doivent d'abord la retrouver pour vous. {% hint "thief_heavy_lost_moneybox" is needed %}
 
 Important : vous devez **vider** dans un sac hors-jeu (ou dans vos poches) cette pochette, chaque fois que vous allez repasser en spectre, pour que l'argent dépensé soit bien sorti du jeu.
 
@@ -28,7 +28,7 @@ Important : vous devez **vider** dans un sac hors-jeu (ou dans vos poches) cette
 
 - Vous aviez mis la main sur un précieux coffret à bijoux ayant appartenu à la jeune {% symbol "Isadora" for "maupertuis_mother" %}, la future mère d'Octave ; personne n'avait réussi à l'ouvrir, car en cas d'échec il se bloquait pour un mois ; mais votre talent auditif vous a permis de découvrir le nombre attendu par les engrenages : **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**. Avec un peu de chance, elle a continué à utiliser ce code pour protéger d'autres secrets.  {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
 
-- Vous savez que la broche en laiton de Mérédice de Maupertuis, évoquée dans les souvenirs de certains de ses descendants, était une pièce importante pour avoir accès au trésor familial ; elle laissait cette broche dans son petit bureau d'études d'occultisme, qui trônait **dans un coin du domaine interdit, par delà le laboratoire d'alchimie (voir le plan avec le maître de jeu)** ; une zone désormais effondrée. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
+- Vous savez que la broche en laiton de Mérédice de Maupertuis, évoquée dans les souvenirs de certains de ses descendants, était une pièce importante pour avoir accès au trésor familial ; elle laissait cette broche dans son petit bureau d'études d'occultisme, qui trônait **dans un coin du domaine interdit, par-delà le laboratoire d'alchimie (voir le plan avec le maître de jeu)** ; une zone désormais effondrée. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %}
 
 - Vous êtes très dépité à l'idée de vous être fait dérober votre si précieux {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}, mais en même temps c'est la loi parmi les voleurs... La formule magique pour l'activer est **"Astrolabe, transporte-moi là-bas"** {% fact "thief_knows_teleportation_device_formula" %}. Il peut téléporter jusqu'à {% symbol '3 personnes' for 'thief_teleportation_device_simultaneous_limit' %} à la fois, du moment qu'elles tiennent chacune l'un de ses pieds. On peut l'utiliser autant de fois qu'on veut, mais vous prévenez qu'il faut attendre **{% symbol '30 secondes' for 'thief_teleportation_device_cooldown' %}** entre chaque téléportation.
@@ -44,7 +44,7 @@ Prix de vos "bons tuyaux de voleur"
 - Formule magique menant au monde des djinns : **280 kashes**
 - Code secret préféré d'Isadora de Maupertuis : **150 kashes**
 - Localisation du bureau de Mérédice : **150 kashes**
-- Formule magique de votre astrolabe de téléporation : **150 kashes**
+- Formule magique de votre astrolabe de téléportation : **150 kashes**
 
 
 Estimation des monnaies et gemmes

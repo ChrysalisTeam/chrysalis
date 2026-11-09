@@ -15,7 +15,7 @@ Vous êtes costaud. Mais vraiment, vraiment costaud. Cela vous permet de souleve
 
 Certains de ces objets sont relativement petits en taille, mais sont alourdis par leur lien magique avec d'autres lieux.
 
-*NOTE hors-jeu : Si vous trouvez une "quêteuse" en bois et tissu rouge, ultra-lourde elle aussi, apportez-là au maître de jeu pour qu'il vous montre comment l'utiliser.*  {% hint 'thief_heavy_lost_moneybox' is provided %}
+*NOTE hors-jeu : Si vous trouvez une "quêteuse" en bois et tissu rouge, ultra-lourde elle aussi, apportez-la au maître de jeu pour qu'il vous montre comment l'utiliser.*  {% hint 'thief_heavy_lost_moneybox' is provided %}
 
 
 Mini-arbalète
@@ -23,10 +23,10 @@ Mini-arbalète
 
 Vous ne vous séparez jamais de votre chère arme de poing, qui vous a déjà sauvé la mise plus d'une fois lorsque la nuit tombait dans les bois.
 
-Ses flèchettes sont en solide **{% symbol "Iridium" for "parcival_woodsman_arrows_metal" %}**, donc efficaces aussi contre des carapaces animales, ou des armures légères. Mais elles n'ont pas reçu d'enchantements leur permettant de percer des défenses magiques, ou de blesser des entités du monde des morts. Heureusement pour vous, le cas ne s'est jamais présenté. Contre les machines, ces fléchettes précises sont très peu efficaces, sauf à toucher leurs systèmes vitaux ; des explosifs seraient davantage appropriés.
+Ses fléchettes sont en solide **{% symbol "Iridium" for "parcival_woodsman_arrows_metal" %}**, donc efficaces aussi contre des carapaces animales, ou des armures légères. Mais elles n'ont pas reçu d'enchantements leur permettant de percer des défenses magiques, ou de blesser des entités du monde des morts. Heureusement pour vous, le cas ne s'est jamais présenté. Contre les machines, ces fléchettes précises sont très peu efficaces, sauf à toucher leurs systèmes vitaux ; des explosifs seraient davantage appropriés.
 {% fact "parcival_woodsman_arrows_normally_only_work_against_living_creatures" %}
 
-A votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres les semaines précédentes, il ne vous reste **qu'une seule munition** dans votre arme. {% hint "single_bullet_left_for_woodsman" is needed %}
+À votre arrivée dans la bibliothèque, suite à quelques mauvaises rencontres les semaines précédentes, il ne vous reste **qu'une seule munition** dans votre arme. {% hint "single_bullet_left_for_woodsman" is needed %}
 
 *NOTE hors-jeu : Une fléchette qui a raté sa cible peut être récupérée et réutilisée ; mais si elle a touché sa cible, elle est réputée trop abîmée par l'impact pour servir encore. Les "fléchettes" nerf sont reconnaissables à leur couleur, différente des autres munitions en jeu (ex. balles de fusil) qui elles ne sont jamais réutilisables.* {% fact "parcival_woodsman_arrows_can_only_succeed_once" %} {% fact "nerf_bullets_and_arrows_need_different_colors" %}
 
@@ -51,13 +51,13 @@ Vous avez en revanche dû fuir plus d'une fois leurs lointains cousins, les goul
 
 Vous n'avez croisé qu'un seul loup-garou, alors qu'il ressortait d'une de ses transformations nocturnes. Les bons soins des shamans du village ont permis de rapidement guérir cette personne, ce qui est heureux car la force d'un lycanthrope pleinement enragé dépasse sans peine la vôtre. Vous les savez heureusement très, trop sensibles aux fortes odeurs (oeufs pourris, charognes...), ce qui peut perturber leur habileté au combat.
 
-Les wendigos, des humanoides émaciés friands de chair humaine, sont très rares sur Pangéa. Vous en avez combattu deux dans votre masure, en plein hiver, et par chance les recettes traditionnelles ont fonctionné : une bonne flèchette en {% symbol "Iridium" for "parcival_woodsman_arrows_metal" %} dans le coeur de l'un, et une bonne plongée dans le feu de la cheminée pour l'autre.
+Les wendigos, des humanoïdes émaciés friands de chair humaine, sont très rares sur Pangéa. Vous en avez combattu deux dans votre masure, en plein hiver, et par chance les recettes traditionnelles ont fonctionné : une bonne fléchette en {% symbol "Iridium" for "parcival_woodsman_arrows_metal" %} dans le coeur de l'un, et une bonne plongée dans le feu de la cheminée pour l'autre.
 
-Une créature que vous n'avez jamais vue, et que vous souhaitez ne jamais voir, est sans conteste le thestral. Ce monstre hippique, squelettique et ailé, se déplace rapidement entre les arbres, et s'en prendrait violemment aux promeneurs isolés, par pur plaisir sadique. Vous prenez donc toujours soin de vous cachez lorsque vous entendez un jappement suraigu au loin. Surtout qu'il ne lui est connu aucune vulnérabilité particulière, sinon un nombre suffisant de coups de hache dans son corps malingre.
+Une créature que vous n'avez jamais vue, et que vous souhaitez ne jamais voir, est sans conteste le thestral. Ce monstre hippique, squelettique et ailé, se déplace rapidement entre les arbres, et s'en prendrait violemment aux promeneurs isolés, par pur plaisir sadique. Vous prenez donc toujours soin de vous cacher lorsque vous entendez un jappement suraigu au loin. Surtout qu'il ne lui est connu aucune vulnérabilité particulière, sinon un nombre suffisant de coups de hache dans son corps malingre.
 
-Vous avez très peu de savoir en nécromancie, et aucune contre-mesure en la matière ; mais vous savez par exemple que, contrairement aux fantômes - immatériels donc persistants - les zombies et autres morts vivants ne sont que temporaires, et puisent dans la magie de leurs invocateurs, ou de leur tombeau, de quoi animer leur chair de façon temporaire ; fuir puis attendre est donc souvent la meilleure solution. {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
+Vous avez très peu de savoir en nécromancie, et aucune contre-mesure en la matière ; mais vous savez par exemple que, contrairement aux fantômes - immatériels donc persistants - les zombies et autres morts-vivants ne sont que temporaires, et puisent dans la magie de leurs invocateurs, ou de leur tombeau, de quoi animer leur chair de façon temporaire ; fuir puis attendre est donc souvent la meilleure solution. {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
 
 Quant aux strigas, dryades, spriggans et autres créatures amatrices de magie, vous les connaissez peu, et vous avez toujours pris soin d'aller chercher l'aide d'experts lorsque le cas se présentait ; ces bêtes-là ne sont heureusement dangereuses que lorsqu'elles sont affamées ou blessées.
 
-Enfin, vous avez entendu des histoires écoeurantes, de paisibles bêtes des bois parasitées par des champignons, des plantes grimpantes, ou des mollusques de marais. La chimère en résultant représentait alors un danger difficilement prévisible. Il parait même que de paisibles machineries agricoles ont déjà "pris vie" de cette machine. Mais sur ces sujets là, la légende dépasse probablement la réalité.
+Enfin, vous avez entendu des histoires écoeurantes, de paisibles bêtes des bois parasitées par des champignons, des plantes grimpantes, ou des mollusques de marais. La chimère en résultant représentait alors un danger difficilement prévisible. Il parait même que de paisibles machineries agricoles ont déjà "pris vie" de cette manière. Mais sur ces sujets-là, la légende dépasse probablement la réalité.
 {% fact "parcival_woodsman_knows_about_parasited_automatons" %}

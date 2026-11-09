@@ -1,4 +1,4 @@
-Divinité - L'Ankou (le guide des âmes, le “psychopompe”)
+Divinité - L'Ankou (le guide des âmes, le « psychopompe »)
 #################################################################
 
 

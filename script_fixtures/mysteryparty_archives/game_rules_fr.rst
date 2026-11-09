@@ -45,7 +45,7 @@ Compétences, objets et pièges
 
 - Certains coffrets ou tiroirs du jeu sont équipés d'un système de verrouillage. Il ne faut pas tenter de les forcer, car ils nécessitent soit d'avoir des compétences spéciales pour les ouvrir (ex. systèmes magnétiques), soit de trouver, selon les cas :
 
-  - Leur clef en métal (s'ils s'agit d'une serrure ou d'un cadenas à clef)
+  - Leur clef en métal (s'il s'agit d'une serrure ou d'un cadenas à clef)
   - Leur code secret (s'il s'agit de molettes à chiffres)
 
 - Sauf mention contraire, les fioles de potion représentent une **unique dose**, et sont vides dès qu'elles ont été bues ou versées pour quelque but que ce soit.

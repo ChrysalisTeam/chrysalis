@@ -5,7 +5,7 @@ Vos compétences
 
 Vous avez passé les soirées de votre enfance à déchiffrer les quelques livres ésotériques, hérités de votre lignée, qui avaient échappé aux dommages du temps. Et par la suite, en parfait autodidacte, vous n'avez pas manqué une occasion pour trouver quelque grimoire poussiéreux ou quelque herboriste prêt à vous enseigner davantage.
 
-Vous commencez donc à avoir une certaine habileté à la confection de potions, non pas médicinales - malgré la tradition de vos aïeux - mais plutôt "suprenantes". Il vous reste cependant beaucoup de chemin à parcourir, tant il est difficile de rassembler les ingrédients, les ustensiles, et - surtout - les recettes de cet art mystérieux.
+Vous commencez donc à avoir une certaine habileté à la confection de potions, non pas médicinales - malgré la tradition de vos aïeux - mais plutôt "surprenantes". Il vous reste cependant beaucoup de chemin à parcourir, tant il est difficile de rassembler les ingrédients, les ustensiles, et - surtout - les recettes de cet art mystérieux.
 
 *NOTE hors-jeu : Les ingrédients et ustensiles qui sont faciles à trouver dans notre monde réel sont censés être tout aussi accessibles dans le monde de Pangéa.*
 
@@ -27,7 +27,7 @@ Les ingrédients que vous possédez
 - Huile de ricin
 - Filtrat de marée lunaire
 
-*NOTE hors-jeu: Ces ingrédients-là ne sont pas spécifiquement matérialisés en jeu, simulez-les avec des fioles et pots génériques au besoin.*
+*NOTE hors-jeu : Ces ingrédients-là ne sont pas spécifiquement matérialisés en jeu, simulez-les avec des fioles et pots génériques au besoin.*
 
 
 Les ustensiles que vous possédez
@@ -78,7 +78,7 @@ Vous savez qu'il est nécessaire de faire fondre un "oeil-de-tigre" et une "aven
 Potion d'invulnérabilité
 ------------------------------------
 
-Ce élixir est recherché ou jalousement gardé depuis des siècles par les armées du monde entier.
+Cet élixir est recherché ou jalousement gardé depuis des siècles par les armées du monde entier.
 
 Il donnerait, pendant une courte période - moins de 10 minutes - une invulnérabilité totale de la personne ainsi enchantée, à quelque type de blessure que ce soit.
 

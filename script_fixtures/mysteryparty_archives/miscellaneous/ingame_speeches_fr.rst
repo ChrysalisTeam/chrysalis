@@ -63,7 +63,7 @@ Version alternative en alexandrins (par Cyck du Clivra) :
     Larme et désespoir face à un cruel destin
 
     Eccueillons sans plus attendrE nos invités,
-    Que par leur grand talent nos vœux soit exaucés
+    Que par leur grand talent nos vœux soient exaucés
     Mon cœur voudrait y croire mais mon esprit attend
     Que nos pauvres âmes soient libérées du tourment
 
@@ -151,7 +151,7 @@ ADIEUX AUX JOUEURS (par le fantôme Octave)
 
 Mes amis les diacres, je vous remercie de tout ce que vous avez fait pour nous, je vous souhaite de toujours bien lutter contre les forces démoniaques, et de ne surtout plus jamais brûler des manoirs qui ne vous ont rien fait !
 
-Mes amis les soldats mirandiens, je suis content que notre moulin magique continue à servir une belle cause, et j'espère qu'avez lui, vous pourrez continuer à vivre en paix sur votre île, aussi longtemps que le soleil brillera !
+Mes amis les soldats mirandiens, je suis content que notre moulin magique continue à servir une belle cause, et j'espère qu'avec lui, vous pourrez continuer à vivre en paix sur votre île, aussi longtemps que le soleil brillera !
 
 Mes amis les explorateurs héliossars, je compte sur vous pour contrer les plans insensés des akarites, avec la bague de mon aïeul. Les légions de morts-vivants n'ont qu'à bien se tenir !
 

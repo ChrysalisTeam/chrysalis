@@ -12,7 +12,7 @@ Il y a {% symbol "500 ans" for "library_initial_events_timedelta" %}, votre ordr
 
 Cependant, quelques jours plus tôt, l'oracle du monastère a reçu des visions mystiques, la prévenant qu'une bête ivre de rage, et des âmes en peine, étaient prisonnières dans la périphérie du manoir des Maupertuis. Des interférences anormales avec des mondes parallèles étaient aussi senties dans ces environs. Votre petite équipe s'est donc rendue sur place sans tarder, afin de rétablir l'ordre des choses.
 
-Vous avez rapidement été rejoint par un **Djinn renégat** (coupé de sa communauté), qui se montrait intéressé par votre quête. En unissant invocations et prières, vous lui avez donné un corps immatériel pour quelques semaines, afin qu'il vous assiste de son savoir. Mais vos investigations conjointes n'ont rien donné.
+Vous avez rapidement été rejoints par un **Djinn renégat** (coupé de sa communauté), qui se montrait intéressé par votre quête. En unissant invocations et prières, vous lui avez donné un corps immatériel pour quelques semaines, afin qu'il vous assiste de son savoir. Mais vos investigations conjointes n'ont rien donné.
 
 <{ monolith_found_by_explorers }/>
 

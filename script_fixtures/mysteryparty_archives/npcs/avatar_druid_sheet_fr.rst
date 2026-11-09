@@ -32,13 +32,13 @@ Cet état de fait durait depuis très longtemps, lorsque vous avez senti une pr�
 L'envers du décor
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Dès votre rencontre avec les survivants de la maisonnée Maupertuis, votre avis était clair : Mère Nature vous avait appelé, dans ce monde qui avait généré le vôtre, enfin que vous y meniez la même tâche prophétique de destruction de la technologie, et de retour à l'Harmonie Naturelle. La découverte du grand **{% symbol "marasme planétaire" for "catastrophic_period" %}** survenu quelques siècles plus tôt a renforcé vos convictions : la planète avait déjà mis à terre les technologies humaines une fois, c'était à vous de terminer le travail.
+Dès votre rencontre avec les survivants de la maisonnée Maupertuis, votre avis était clair : Mère Nature vous avait appelé, dans ce monde qui avait généré le vôtre, afin que vous y meniez la même tâche prophétique de destruction de la technologie, et de retour à l'Harmonie Naturelle. La découverte du grand **{% symbol "marasme planétaire" for "catastrophic_period" %}** survenu quelques siècles plus tôt a renforcé vos convictions : la planète avait déjà mis à terre les technologies humaines une fois, c'était à vous de terminer le travail.
 
-Mais pour cela, il vous fallait d'abord comprendre le fonctionnement de cet univers, de sa science, de sa magie, et en particuliers de ces "envoûtements" qui résistaient si souvent à vos propres sortilèges druidiques.
+Mais pour cela, il vous fallait d'abord comprendre le fonctionnement de cet univers, de sa science, de sa magie, et en particulier de ces "envoûtements" qui résistaient si souvent à vos propres sortilèges druidiques.
 
 Vous avez donc joué le jeu, et investigué en secret pour débloquer l'accès au Domaine Interdit de la bibliothèque, malgré les mises en garde préalables d'Octave et de l'archiviste. Heureusement pour vous, Octave n'avait pas trouvé le troisième tome de votre roman, et ne connaissait donc rien de votre conception assez rude de la morale. Mais l'arkonte {% symbol "Valerias" for "arkon_name" %} est venu mettre vos plans en pièces.
 
-Pendant que l'arkonte réalisait son rituel, et refermait une par une les portails interdimensionnelles, vous êtes revenu dans le monde des vivants via le troisième tome de votre roman. Et vous avez attaqué les humains peu avant que ce ne soit le tour de votre portail. Octave et l'archiviste ont été vaporisés par votre élémentaire de feu avant même d'avoir compris ce qui leur arrivait. L'arkonte, lui, s'est révélé être un terrible adversaire, enchainant les attaques et les défenses sur les plans physiques, magiques, et sacrés – ce dernier étant bien sûr sans effet sur vous. Au milieu de ce déferlement de puissance, vous avez réussi à lui décocher en plein front une flèche au curare, ce qui a assuré votre victoire.
+Pendant que l'arkonte réalisait son rituel, et refermait un par un les portails interdimensionnels, vous êtes revenu dans le monde des vivants via le troisième tome de votre roman. Et vous avez attaqué les humains peu avant que ce ne soit le tour de votre portail. Octave et l'archiviste ont été vaporisés par votre élémentaire de feu avant même d'avoir compris ce qui leur arrivait. L'arkonte, lui, s'est révélé être un terrible adversaire, enchainant les attaques et les défenses sur les plans physiques, magiques, et sacrés – ce dernier étant bien sûr sans effet sur vous. Au milieu de ce déferlement de puissance, vous avez réussi à lui décocher en plein front une flèche au curare, ce qui a assuré votre victoire.
 
 Hélas pour vous, dans son dernier souffle, {% symbol "Valerias" for "arkon_name" %} a maudit la bibliothèque afin que nul esprit ne puisse en sortir tant que vous-même serez vivant. Son squelette se révélant par ailleurs indestructible, vous avez dissimulé son crâne entre les pieds des {% symbol "plantes de la bibliothèque" for "arkon_skull_location" %}, afin d'éviter qu'il ne vous compromette. Lorsque les autres avatars encore libres sont venus, plusieurs jours plus tard, s'enquérir de la situation, ils n'ont pu comprendre ce qui s'était passé ici ; et vous avez joué le jeu de la surprise et de l'effroi. {% hint 'arkon_skull_hidden_in_jungle_trees' is needed %}
 
@@ -56,7 +56,7 @@ Informations et instructions spécifiques
 
 {# NOPE NOT NOW Demander à heures fixes des boissons à l'automate de service. #}
 
-Vous vous posez des questions sur la clochette métallique laissée en évidence, qui, lorsque vous l'essayez, sonne mais ne déclenche rien (car vous ne voyez pas les spectres s'agitant à ce moment là) ; ce n'est pas, en tout cas, une trouvaille de l'inventeur et de ses automates.
+Vous vous posez des questions sur la clochette métallique laissée en évidence, qui, lorsque vous l'essayez, sonne mais ne déclenche rien (car vous ne voyez pas les spectres s'agitant à ce moment-là) ; ce n'est pas, en tout cas, une trouvaille de l'inventeur et de ses automates.
 En discutant avec les joueurs, ils finiront bien par vous expliquer ce qui se passe lorsqu'elle est utilisée.
 Une fois que vous savez qu'il s'agit d'un signal de rappel pour les fantômes, **vous la volez discrètement**, et vous la cachez dans votre besace. Ni avatars ni joueurs ne doivent savoir que c'est vous qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% fact "druid_must_steal_table_bell_when_usage_understood" %} {% fact "druid_finally_uses_table_bell_as_weapon" %}
 
@@ -73,7 +73,7 @@ Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_
 
 Au niveau de l'enquête principale : si les soupçons initiaux de culpabilité se sont éloignés de l'arkonte (devenu crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter temporairement le doute sur le tombeau du Mage, ou sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_magus_or_inventor" %}
 
-Si les joueurs font mine de fouiller la terre de la mini-jungle, vous vous énervez, au motif qu'ils "saccagent toutes ces choses sacrées de la Nature (vous craignez bien sûr qu'ils ne découvrent le crâne de l'arkonte).
+Si les joueurs font mine de fouiller la terre de la mini-jungle, vous vous énervez, au motif qu'ils "saccagent toutes ces choses sacrées de la Nature" (vous craignez bien sûr qu'ils ne découvrent le crâne de l'arkonte).
 
 Il vous faut prévoir une posture si le Tome 3 de votre roman (qui vous accable) est trouvé trop tôt : dire soit que ce livre est un faux ; soit que vous avez changé de comportement dans un roman suivant de rédemption, et que ces crimes étaient en fin de compte des "erreurs de jeunesse".
 
@@ -99,7 +99,7 @@ La tentative d'assassinat des prophètes
 La bataille finale
 =============================
 
-*Voici le résumé des évènements qui doivent mener à vous démasquer, et la façon dont vous devez réagir. Le scène finale doit être bien répétée auparavant, avec l'arkonte.*
+*Voici le résumé des évènements qui doivent mener à vous démasquer, et la façon dont vous devez réagir. La scène finale doit être bien répétée auparavant, avec l'arkonte.*
 
 <{ quest_to_find_traitor_and_final_battle }/>
 

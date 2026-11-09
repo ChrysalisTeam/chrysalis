@@ -55,7 +55,7 @@ H+X: [Music] Prepare for Octave's initiation ceremony, to music.
 
 H+X: [Music] Prepare for Cassandra's holographic prophecy (puzzle of the scary lenticular paintings).
 
-H+X: To frame the Arkon, the Druid plants the falsely compromising document satchel, on the forbidden floor {% fact "druid_makes_conspiracy_against_arkon" %}.
+H+X: To frame the Arkon, the Druid plants the falsely compromising document satchel, on the forbidden floor. {% fact "druid_makes_conspiracy_against_arkon" %}
 
 H+X: [Music] Stage the attack of the sentinel automaton.
 

@@ -20,7 +20,7 @@ Principes fondamentaux
 
 **En résumé, les mondes des fantômes (dont la Bête) et des avatars sont complètement séparés : ils ne peuvent ni se voir, ni se ressentir ; ni s'entendre mutuellement, et il est important de simuler réalistement ces lacunes, dans toutes les interactions. En revanche, ces deux mondes peuvent voir et entendre les vivants (les joueurs), ainsi que les automates (les serviteurs). Les automates voient tout le monde sauf les fantômes ; et tout le monde peut voir et être vu de l'Ankou.** {% fact "phantom_and_avatar_worlds_are_disjoint" %}
 
-Ce comportements des différents mondes est une surprise pour tous les figurants (hormis à la rigueur pour l'Arkonte qui s'en doutait un peu) ; ils doivent donc être intrigués lorsque les joueurs "parlent à du vide", puis peu à peu comprendre le fonctionnement de tout cela, et réaliser (pour les fantômes) pourquoi les automates se mettent parfois à bouger tous seuls, pourquoi certains objets issus du monde des vivants se déplacent en apesanteur, etc.
+Ce comportement des différents mondes est une surprise pour tous les figurants (hormis à la rigueur pour l'Arkonte qui s'en doutait un peu) ; ils doivent donc être intrigués lorsque les joueurs "parlent à du vide", puis peu à peu comprendre le fonctionnement de tout cela, et réaliser (pour les fantômes) pourquoi les automates se mettent parfois à bouger tous seuls, pourquoi certains objets issus du monde des vivants se déplacent en apesanteur, etc.
 
 A l'occasion, les figurants peuvent communiquer d'un monde à l'autre par l'intercession des joueurs, pour se saluer, se transmettre des informations etc.
 
@@ -68,7 +68,7 @@ Orienter les joueurs vers les bons interlocuteurs
 - Octave, l'archiviste et l'arkonte peuvent se renvoyer la balle quand on leur demande des informations qu'ils ont oubliées sur la maisonnée Maupertuis ou la malédiction de la bibliothèque.
 - Si un joueur cherche des informations sur les automates, ou a un outil à réparer, l'orienter vers l'inventeur.  {% fact "inventor_can_repair_items" %}
 - S'il s'agit de dons de voyance, c'est la duchesse qui est la mieux placée. {% fact "duchess_knowns_about_prophecies" %}
-- S'il s'agit d'herboristerie (pour les potions) ou de gemmologie, c'est le duide qui peut avoir quelques réponses. {% fact "druid_known_about_plants_and_gems" %}
+- S'il s'agit d'herboristerie (pour les potions) ou de gemmologie, c'est le druide qui peut avoir quelques réponses. {% fact "druid_known_about_plants_and_gems" %}
 - Si un joueur est blessé, selon son type de blessure, interpeller l'avatar qui pourrait le soigner
  {# ABORTED (ce qui n'est pas sans danger) { % fact "avatar_abilities_are_randomly_hazardous" % } #}
 
@@ -116,7 +116,7 @@ Les fantômes ne peuvent PAS se nuire mutuellement, mais ils ne sont pas initial
 Donc, quand ils sont incarnés et conscients de leurs actes, ils réagissent face aux autres fantômes comme s'ils étaient vivants :
 
 - Tous les fantômes humains craignent d'approcher la Bête fantomatique errante, même si l'arkonte est plus courageux que les autres à ce sujet.
-- Si le voleur du voleur est libéré de son ancrage et devient menaçant, certains autres fantômes tentent de s'interposer entre lui et les joueurs même s'il est incarné et donc inoffensif.
+- Si le fantôme du voleur est libéré de son ancrage et devient menaçant, certains autres fantômes tentent de s'interposer entre lui et les joueurs même s'il est incarné et donc inoffensif.
 
 
 

@@ -88,7 +88,7 @@ Sort de foudre
 
 Par temps orageux, vous pouvez faire descendre du ciel la foudre sur l'endroit que vous désirez, à l'aide de cette invocation.
 
-Pointez du doigts la zone à frapper, qui doit se trouver en extérieur, puis annoncez lentement :
+Pointez du doigt la zone à frapper, qui doit se trouver en extérieur, puis annoncez lentement :
 
 **Par {% symbol "Bahamoot" for "god_of_diakons" %}, que se meuvent les cieux, qu'ils rejoignent la terre, que par ce mouvement de lumière, le fracas soit déchainé.**
 

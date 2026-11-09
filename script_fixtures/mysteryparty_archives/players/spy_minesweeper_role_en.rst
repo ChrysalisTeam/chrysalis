@@ -57,7 +57,7 @@ You have always had a genuine passion for **mechanical and robotic inventions**.
 
 With the progress made in diphasic gears, neodymium compressors and proprioceptive sensors, within a few decades autonomous machines will spread across the world, you are enthusiastically certain of it. Even if the intelligence of these machines will remain very rudimentary for a long time.
 
-*You may improvise scientific terms and inventions in this field as you please, as long as they are spoken with conviction and remain within this 'steampunk' (steam-powered retro-futuristic) level of technology.* {% fact "spy_minesweeper_likes_building_robots" as author %}
+*You may improvise scientific terms and inventions in this field as you please, as long as they are spoken with conviction and remain within this "steampunk" (steam-powered retro-futuristic) level of technology.* {% fact "spy_minesweeper_likes_building_robots" as author %}
 
 
 

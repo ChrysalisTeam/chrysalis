@@ -1,5 +1,5 @@
 {% macro monolith_found_by_explorers() %}
-Heureusement, à ce moment là, des archéologues héliossars ont mis au jour des monolithes immémoriaux, narrant les premières générations de la famille Maupertuis. Il y était mentionné, sous forme énigmatique, la création d'une bibliothèque enfouie loin sous terre, afin de conserver les plus puissants grimoires magiques de ce temps. Quelques photos de ces inscriptions ont fuité dans la presse, photos que vous avez laborieusement déchiffrées.
+Heureusement, à ce moment-là, des archéologues héliossars ont mis au jour des monolithes immémoriaux, narrant les premières générations de la famille Maupertuis. Il y était mentionné, sous forme énigmatique, la création d'une bibliothèque enfouie loin sous terre, afin de conserver les plus puissants grimoires magiques de ce temps. Quelques photos de ces inscriptions ont fuité dans la presse, photos que vous avez laborieusement déchiffrées.
 {% endmacro %}
 
 

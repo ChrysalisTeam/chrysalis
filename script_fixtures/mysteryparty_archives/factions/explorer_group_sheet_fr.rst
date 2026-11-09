@@ -7,7 +7,7 @@ Faction - Les explorateurs héliossars
 {# Explorateur - Vous êtes un archéologue, expert en runes anciennes, ou en analyse d'objets, ou en anthropologie #}
 
 Vous êtes trois explorateurs-archéologues du pays d'Héliossar.
-L'un de vous est spécialisé dans les runes antiques et autres codes secrets ; l'autre dans l'analyse des inscriptions cachées, des artefacts et des ossements ; l'autre enfin dans les savoirs anthropologiques (sociétés humaines) et hiéraldiques (art des armoiries).
+L'un de vous est spécialisé dans les runes antiques et autres codes secrets ; l'autre dans l'analyse des inscriptions cachées, des artefacts et des ossements ; l'autre enfin dans les savoirs anthropologiques (sociétés humaines) et héraldiques (art des armoiries).
 
 Depuis des décennies, depuis des siècles, votre pays repousse les tentatives de conquête de son voisin, la Théocratie Akarite. Mais les dernières nouvelles sont alarmantes : les Akarites auraient trouvé un exemplaire du **livre yodique des morts, le légendaire {% symbol "Thanatologue" for "book_of_the_dead" %}** ; et à travers ce grimoire, un moyen parait-il *infaillible* d'envahir Héliossar.
 

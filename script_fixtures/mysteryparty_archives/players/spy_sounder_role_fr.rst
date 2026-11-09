@@ -17,7 +17,7 @@ Votre détecteur de métaux (*fourni par les organisateurs*) vous alerte par des
 
 Si vous l'allumez près d'objets métalliques, sa sensibilité sera diminuée, ce qui peut être utile pour déceler des agrégats métalliques au milieu d'autres objets qui feraient sonner le détecteur (comme des étagères en métal).
 
-Étrangement, avez déjà vu ce détecteur sonner devant des *tableaux* ; un érudit vous a indiqué qu'il s'agissait probablement de peintures contenant des pygments de métaux précieux, et servant de support à de puissants "sortilèges prophétiques". Manifestement, celles que vous aviez croisées étaient déjà désenvoûtées par un spécialiste, ou par le passage du temps ; car lorsque l'érudit les a couvertes de **"Lotion de Révélation"**, elles ont à peine réagi.
+Étrangement, vous avez déjà vu ce détecteur sonner devant des *tableaux* ; un érudit vous a indiqué qu'il s'agissait probablement de peintures contenant des pigments de métaux précieux, et servant de support à de puissants "sortilèges prophétiques". Manifestement, celles que vous aviez croisées étaient déjà désenvoûtées par un spécialiste, ou par le passage du temps ; car lorsque l'érudit les a couvertes de **"Lotion de Révélation"**, elles ont à peine réagi.
 {% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
 {% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
 

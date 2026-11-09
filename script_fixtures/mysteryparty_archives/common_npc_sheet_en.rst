@@ -121,7 +121,7 @@ So, when they are embodied and conscious of their actions, they react to the oth
 
 
 Embodiment, anchoring and spectral wandering of the phantoms
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 {# TODO REVIEW THIS CHAPTER STRONGLY #}
 {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
 

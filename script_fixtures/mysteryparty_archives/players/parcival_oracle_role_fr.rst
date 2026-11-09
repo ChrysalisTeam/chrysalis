@@ -30,7 +30,7 @@ Certaines prophéties, exceptionnelles, apparaissent et s'adressent par elles-m�
 Les révélations de type "visuel"
 +++++++++++++++++++++++++++++++++
 
-Dans ce cas de figure, vous avez des images qui s'affichent plusieurs secondes devant vos yeux. Il vous faut alors en saisir un maximum de détails, avant que cette vision ne disparaisse à jamais. Puis vous entrez en transe, pour décrire tout cela à vos proches .
+Dans ce cas de figure, vous avez des images qui s'affichent plusieurs secondes devant vos yeux. Il vous faut alors en saisir un maximum de détails, avant que cette vision ne disparaisse à jamais. Puis vous entrez en transe, pour décrire tout cela à vos proches.
 
 
 Les révélations de type "auditif"
@@ -50,7 +50,7 @@ Ainsi mis en valeur, vous pourrez jouer de façon un peu théâtrale les prophé
 
 Les différentes **bandes-son disponibles** doivent vous avoir été communiquées en même temps que votre fiche de personnage, pour que vous vous entrainiez à placer vos exclamations entre les éclats de percussions.
 
-Pour les **révélations imagées** : un figurant vous montrera une image, qu'il vous faudra ensuite décrire devant les autres personnages comme si elle vous apparaissait subitement. Vous pouvez solliciter les témoins de la scène pour qu'ils vous demandent des précisions les points qui les interpellent, et y répondre au fil de la vision.
+Pour les **révélations imagées** : un figurant vous montrera une image, qu'il vous faudra ensuite décrire devant les autres personnages comme si elle vous apparaissait subitement. Vous pouvez solliciter les témoins de la scène pour qu'ils vous demandent des précisions sur les points qui les interpellent, et y répondre au fil de la vision.
 
 Pour les **révélations auditives** : un figurant vous fera écouter une ou deux fois la bande-son, puis vous pourrez simuler devant les autres personnages le fait de la recevoir, possiblement tout en gardant une oreillette rejouant la bande-son. Placez-vous dans ce cas de profil afin que l'assistance ne voie pas l'oreillette. N'écoutez pas les potentielles questions de l'assistance, afin de ne pas avoir de distractions.
 
@@ -61,11 +61,11 @@ Pour les **révélations auditives** : un figurant vous fera écouter une ou deu
 Les intuitions
 ++++++++++++++++++++++++++++
 
-Il vous arrive par moment d'avoir, non pas des révélations énigmatiques, mais juste de forts attraits ou appréhensions ; ou alors quelques phrases qui s'impriment en vous.
+Il vous arrive par moments d'avoir, non pas des révélations énigmatiques, mais juste de forts attraits ou appréhensions ; ou alors quelques phrases qui s'impriment en vous.
 
 Vous les communiquez alors à vos proches le plus fidèlement possible, sans nécessairement entrer en transe pour cela.
 
-Au moment où vous prenez le portail vers les Archives des Maupertuis, vous recevez d'ailleurs une puissante image en tête : **plusieurs groupes d'agneaux qui fuient des loups, et qui se réfugient, serrés les un contre les autres, au centre de la forêt. Une clameur surgit : "Unis nous resterons debout, divisés nous tomberons".** *(Note hors-jeu : vous aurez l'occasion de déclamer cette intuition devant tous les joueurs, à la fin du discours musical d'introduction réalisé par le maître de jeu.)*
+Au moment où vous prenez le portail vers les Archives des Maupertuis, vous recevez d'ailleurs une puissante image en tête : **plusieurs groupes d'agneaux qui fuient des loups, et qui se réfugient, serrés les uns contre les autres, au centre de la forêt. Une clameur surgit : "Unis nous resterons debout, divisés nous tomberons".** *(Note hors-jeu : vous aurez l'occasion de déclamer cette intuition devant tous les joueurs, à la fin du discours musical d'introduction réalisé par le maître de jeu.)*
 {% fact "parcival_oracle_has_initial_intuition_about_adventurers_solidarity" %}
 
 {% hint "parcival_oracle_intuition_hints" is needed %}

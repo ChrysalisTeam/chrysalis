@@ -48,13 +48,13 @@ POUR LES AVATARS :
 
     - La duchesse peut invoquer ses propres dieux, avec l’aide des initiés présents, pour réparer une blessure sacrée (touchant l’âme).
     - Le druide peut utiliser son sang bleu comme la mer, avec l’aide des esprits de la Nature, pour soigner tous types de maux biologiques.
-    - **PLAN ALTERNATIF** : druide et duchesse peuvent soigner soigner TOUS types de blessures (sauf membre arraché)
+    - **PLAN ALTERNATIF** : druide et duchesse peuvent soigner TOUS types de blessures (sauf membre arraché)
     - L’inventeur peut bricoler une prothèse mécanique pour remplacer un membre perdu.
 
 
 POUR LES AUTOMATES :
 
-- Ils ne peuvent pas déplacer objets ULTRA LOURDS !!!
+- Ils ne peuvent pas déplacer d'objets ULTRA LOURDS !!!
 - Donner leurs {% symbol 'rubans blancs' for 'automaton_symbolic_cloth' %} aux automates avant le jeu
 - Juste après le discours introductif du début de jeu, vous devrez **accompagner les groupes de joueurs** jusqu'à leurs points de départ (s'entendre lors du briefing sur qui fait quoi)
 - Lorsque le jeu commence vraiment, vous pouvez pour certains être INACTIFS, assis ou au sol, jusqu'à ce que l'inventeur vous allume
@@ -62,7 +62,7 @@ POUR LES AUTOMATES :
 - Vers la fin du jeu, après la résolution du mystère, vous aidez à rassembler les joueurs au bas des escaliers en attendant l'épilogue.
 - Après l'épilogue et le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails de téléportation vers la surface vont bientôt se refermer.
 - Prenez des photographies durant le jeu, si possible, SVP !
-- Automate de garde : tu es vulnérables aux FLECHETTES, finalement
+- Automate de garde : tu es vulnérable aux FLECHETTES, finalement
 
 .. raw:: pdf
 
@@ -89,7 +89,7 @@ Questions à poser aux joueurs du groupe avant le jeu :
 - Diacre invocateur : Prévenez le maître de jeu quand vous voulez activer un sceau ou un pentacle
 - Diacres : Vous avez possibilité d'enseigner un de vos rites à un autre initié, mais cela prend du temps et a moins de chances de réussir
 - Diacres : Vous avez reçu en cadeaux quelques souris grises...
-- Parcival oracle : Ne cherchez pas à interpréter les prophéties (images ou sons) que vous recevez, transmettez-lez fidèlement possibles à la plus large audience possible
+- Parcival oracle : Ne cherchez pas à interpréter les prophéties (images ou sons) que vous recevez, transmettez-les le plus fidèlement possible à la plus large audience possible
 - Parcival alchimiste : Vous pouvez prendre/stocker toutes les potions, mais communiquez car les diacres peuvent en avoir besoin !
 - Espions : N'accaparez pas les richesses (pièces, diamants...), c'est inutile et gâche le jeu
 - Espion démineur : Changement du mode de déminage => Main électrique maintenant ; les LUMINIS servent à marquer objets intéressants ou pièges
@@ -101,14 +101,14 @@ BRIEFING FINAL DES JOUEURS+FIGURANTS
 
 - Planning global du jeu
 - Principales règles : DÉLICATESSE et non-ACCAPAREMENT envers les objets, objets en-jeu et hors-jeu, sécurité physique et psychologique
-- Vos compétences spécifiques ne sont qu'un BONUS!
+- Vos compétences spécifiques ne sont qu'un BONUS !
 - Zone de jeu, en particulier les bureaux hors-jeu
 - Toilettes, qui sont HORS-JEU
 - Qui aurait un risque d'épilepsie si effet stroboscopique ?
 - Photographies : redemander à tous qui est OK pour droit à l'image
 - Terminal Web des indices et des traductions runiques
 - Seau argenté des objets utilisés (ex. pour les cadenas, clés ou potions utilisées) {% hint 'basket_for_precious_items' is needed %}
-- Annoncer : "En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler: je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de Pangéa par exemple, ce n'est pas de la triche, çà fait partie du jeu ! Toutes mes possessions sont cependant HORS-JEU !"
+- Annoncer : "En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler : je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de Pangéa par exemple, ce n'est pas de la triche, ça fait partie du jeu ! Toutes mes possessions sont cependant HORS-JEU !"
 
 **Conseils divers :**
 

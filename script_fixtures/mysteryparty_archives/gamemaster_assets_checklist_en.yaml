@@ -36,7 +36,7 @@
 -
   - "@RECOINS-BUFFET-PENTACLE Hidden clues and scattered objects IMPORTANT"
   -
-    - "@ELECTRONIQUE I1 - 'Venture Prins' book whispering the code {% symbol '625-993' for 'family_briefcase_code' %} of the Maupertuis administrative briefcase {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (POSITIVE bewitchment)"
+    - "@ELECTRONIQUE I1 - \"Venture Prins\" book whispering the code {% symbol '625-993' for 'family_briefcase_code' %} of the Maupertuis administrative briefcase {% hint 'family_briefcase_code_spoken_by_venture_prins_fake_book' is provided %} (POSITIVE bewitchment)"
     - "@ELECTRONIQUE VENTURE PRINS: green Clip mini MP3 player"
     - "@ELECTRONIQUE VENTURE PRINS: black INTER 2600mAh mini power bank"
     - "I2 - Thin HACHETTE book with the Recipe for the {% symbol 'Rejuvenation Cocktail' for 'parcival_disease_main_remedy_name' %} (requiring the 3 other Recipes), marked on the floor with white tape {% hint 'recipe_rejuvenation_cocktail' is provided %}"
@@ -99,7 +99,7 @@
     - "Children's book with studded leather cover \"Extraterrestre appelle CM1\" for the child's nook"
     - "@PAPIERS Letter from Octave's parents with instructions for his dubbing IMPORTANT (put where ???)"
     - "2 old beige/marbled books in the child's suitcase"
-    - "2 old 'Gédéon' comic books in the child's suitcase"
+    - "2 old \"Gédéon\" comic books in the child's suitcase"
     - "Red fake book (shows the CODE of the blue fake book through magnetism, contains the Maupertuis father's brooch and his notebook with one of the codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} of the legendary chest as an anamorphosis) {% hint 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} IMPORTANT"
     - "Brooch of the Maupertuis father for the red fake book (POSITIVE bewitchment) {% hint 'maupertuis_father_jewel_in_twin_books' is provided %} IMPORTANT"
     - "Lunartec sound aquatic projector (USB/mains or 4xAA) with Jack3.5 for the child"
@@ -130,7 +130,7 @@
   -
     - "Poisoned skull of the Arkon well hidden among the pots{% hint 'arkon_skull_hidden_in_jungle_trees' is provided %}, with analysis code [{% symbol 'srf' for 'analysis_code_arkon_skull' %}] {% hint 'arkon_skull_analysis_showing_curare_poisoning' is provided %} IMPORTANT"
     - "Lianas and giant leaves for the mini-jungle"
-    - "@EXTERNE-VALISETTE-CUIR Brown packaging to make the 'soil' of the jungle"
+    - "@EXTERNE-VALISETTE-CUIR Brown packaging to make the \"soil\" of the jungle"
     - "Wide, low copper flask"
     - "Dirty black metal lantern (not working)"
     - "Set of fake plastic flowers"
@@ -160,7 +160,7 @@
     - "Decorations: 3 very old small leather-bound books, kaleidoscope tube, zinc mini coffee pot"
     - "Decoration: glass mini tankard, small brass jug"
     - "UV Black Light neon tube fixed inside the lid"
-    - "@ELECTRONIQUE Whispering Box fixed at the bottom of the brown chest, with the 'Blowtorch' riddle via a black Auvisio clip MP3 player (battery) {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (POSITIVE bewitchment) IMPORTANT"
+    - "@ELECTRONIQUE Whispering Box fixed at the bottom of the brown chest, with the \"Blowtorch\" riddle via a black Auvisio clip MP3 player (battery) {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (POSITIVE bewitchment) IMPORTANT"
 
 -
   - "@CIMETIERE Graveyard"
@@ -193,14 +193,14 @@
   - "@TOMBEAU-MAGE Tomb of the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}"
   -
     - "Legendary NEGATIVE bewitchment code [{% symbol 'kxp' for 'magic_code_mos_peraty_tomb' %}] on the small sign of the tomb door IMPORTANT"
-    - "Message in RUNES 'Only the blood of the Maupertuis shall pass unharmed' on the tomb door {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %} IMPORTANT"
+    - "Message in RUNES \"Only the blood of the Maupertuis shall pass unharmed\" on the tomb door {% fact 'magus_mos_peratys_tomb_kills_non_heir_intruders' %} IMPORTANT"
     - "Golden {% symbol 'Etheric Necklace of Manaic Aura' for 'etheric_manaic_aura_necklace_name' %} with quartz pendant {% hint 'etheric_manaic_aura_necklace' is provided %} (legendary POSITIVE bewitchment code [{% symbol 'pyw' for 'magic_code_etheric_manaic_aura_necklace' %}]) IMPORTANT"
     - "{% symbol 'Amplificans Ring' for 'ring_amplificans_name' %} (POSITIVE bewitchment code [{% symbol 'duy' for 'magic_code_ring_amplificans' %}]) {% hint 'ring_amplificans' is provided %} IMPORTANT"
     - "Plastic emblem of the Magus's coat of arms with a golden dragon {% fact 'coat_of_arms_of_mos_peraty_is_golden_dragon' %}"
     - "1 green tombstone"
     - "3 large candles (each needs 3xAAA)"
     - "Golden papal alb"
-    - "Golden 'anonymous' mask in front of the skull"
+    - "Golden \"anonymous\" mask in front of the skull"
     - "Black&gold skullcap/tiara"
     - "White LED RX-7732 projector (needs 4xAA)"
     - "@PIEGES-ET-CADENAS White LED mini neon tube with motion detector (battery) for the antechamber of the Magus's tomb"
@@ -212,9 +212,9 @@
   - "@COFFRE-LEGENDAIRE Legendary chest (thick black briefcase) of the Maupertuis"
   -
     - "Two protection codes on the legendary chest of the Maupertuis {% hint 'family_legendary_chest_protected_by_double_code' is provided %} IMPORTANT"
-    - "Carved brown grimoire of the '{% symbol 'Thanatologue' for 'book_of_the_dead' %}' for the thick black briefcase (legendary chest of the Maupertuis); it contains the zombification spell and a countermeasure hint in UV, the {% symbol 'Sacrifice of Zarathustra' for 'unavoidable_bullet_spell_name' %}, a hint on the Abyssal Vortex, the alchemical recipe for Iridium darts and a prophecy FEATHER {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'arrow_recipe_for_alchemist' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
+    - "Carved brown grimoire of the \"{% symbol 'Thanatologue' for 'book_of_the_dead' %}\" for the thick black briefcase (legendary chest of the Maupertuis); it contains the zombification spell and a countermeasure hint in UV, the {% symbol 'Sacrifice of Zarathustra' for 'unavoidable_bullet_spell_name' %}, a hint on the Abyssal Vortex, the alchemical recipe for Iridium darts and a prophecy FEATHER {% hint 'thanatologue_book_with_zombie_spell_and_uv_counterspell_hints' is provided %} {% hint 'unavoidable_bullet_spell_from_thanatologue' is provided %} {% hint 'abyssal_vortex_hint_in_thanatologue' is provided %} {% hint 'arrow_recipe_for_alchemist' is provided %} {% hint 'feather_in_thanatologue' is provided %} IMPORTANT"
     - "Giant epoxy resin diamond {% hint 'spiritual_orb_key_diamond_is_needed' is provided %} IMPORTANT"
-    - "Metal cryptex (code: 'GENIAL'), containing a runic paper giving the formula towards the Djinns' Fount of Knowledge {% hint 'cryptex_providing_formula_of_link_to_djinn_world' is provided %} IMPORTANT"
+    - "Metal cryptex (code: \"GENIAL\"), containing a runic paper giving the formula towards the Djinns' Fount of Knowledge {% hint 'cryptex_providing_formula_of_link_to_djinn_world' is provided %} IMPORTANT"
     - "Rectangular black banner with a painted red scorpion"
     - "Small shiny purple square tablecloth"
 
@@ -286,13 +286,13 @@
     - "Small plastic hologram pyramid, with a secret message in hieroglyphs IMPORTANT"
     - "Plasma ball representing the Spiritual Orb (needs 4xAAA or USB) on its wooden pedestal with plastic crystals (fragile) IMPORTANT"
     - "6 large scary lenticular portraits with a prophecy FEATHER {% hint 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
-    - "Small copper well with a secret message 'useless well' in hieroglyphs {% hint 'longevity_metal_well' is provided %}"
+    - "Small copper well with a secret message \"useless well\" in hieroglyphs {% hint 'longevity_metal_well' is provided %}"
     - "Wooden throne with a sliding hiding place, topped by an LED-lit mini skull (3xLR44 included)"
     - "Square-based epoxy resin pyramid in the wooden throne {% hint 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT ??? CHANGE"
     - "Small wood and brass pan scale{% hint 'tiny_metal_scale' is provided %} IMPORTANT"
     - "Two thick beige books \"Itinéraire de la France\""
     - "Kodak Easyshare digital photo frame with occult images (mains power)"
-    - "Large green 'Lafitte' Champagne bottle"
+    - "Large green \"Lafitte\" Champagne bottle"
     - "Gnarled dark brown wooden casket TRAPPED with a CICADA, containing a few riches (complex NEGATIVE bewitchment mark)"
     - "Cicada-sound alarm mechanism for the gnarled dark brown wooden mini casket (needs 2xAAA)"
     - "@EXTERNE-VALISE-MARRON Large antique microscope in a wooden case (belongs to Brice) IMPORTANT"
@@ -310,7 +310,7 @@
 -
   - "@CORRIDORS Corridor of Manaic Aura (dead end)"
   -
-    - "@ENORMES Corridor blocked by an 'ULTRA-HEAVY bronze door"
+    - "@ENORMES Corridor blocked by an \"ULTRA-HEAVY\" bronze door"
     - "Unlit luminous SEAL, to trigger the dynastic initiation (with double LED mini-garland, 2xCR2032 included in each) IMPORTANT"
     - "Beige woven nesting boxes (hidden) of Octave's initiation IMPORTANT"
     - "1 thin black canvas bag to conceal these nesting boxes"
@@ -372,7 +372,7 @@
     - "Spare lockpicking kit"
     - "Spare magnetic unlocker (wide, flat and black)"
     - "Spare UV pen and UV lamp"
-    - "Neutral 'golden heart' labels to hide the bewitchment labels"
+    - "Neutral \"golden heart\" labels to hide the bewitchment labels"
     - "Miscellaneous tools: pens, black tape, white tape, clear tape, double-sided tape, Blu-Tack, white thread, rope"
     - "Miscellaneous consumables: parchment paper, magnetic paper, coloured sheets for spotlights"
     - "Supply of batteries of all formats (AAA, AA, CR2032, rectangular...)"
@@ -426,7 +426,7 @@
 -
   - "@ACCESSOIRES-FIGURANTS Equipment of the INVENTOR avatar"
   -
-    - "INVENTOR: Wide silver '{% symbol 'Dominion' for 'androids_command_bracelet_name' %}' bracelet for commanding the automatons, with analysis code [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_silver_white_ribbon_bracelet_for_inventor' is provided %} IMPORTANT"
+    - "INVENTOR: Wide silver \"{% symbol 'Dominion' for 'androids_command_bracelet_name' %}\" bracelet for commanding the automatons, with analysis code [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% hint 'androids_command_silver_white_ribbon_bracelet_for_inventor' is provided %} IMPORTANT"
     - "@ELECTRONIQUE INVENTOR: Batteries (cylinder + rectangle formats) for the broken UV lamp or metal detector {% hint 'explorer_unveiler_uv_lamp_battery' is provided %} {% hint 'spy_sounder_metal_detector_battery' is provided %} IMPORTANT ???"
     - "@ELECTRONIQUE INVENTOR: Bontempi echo megaphone (battery / microUSB) with Jack3.5 and Bluetooth, for the Inventor {% hint 'echo_megaphone' is provided %}"
     - "INVENTOR: Old atmosphere tools: 1 small screwdriver, small hammer, special pliers"
@@ -506,8 +506,8 @@
     - "The small jewels and keys must all be tied to big RIBBONS, so as not to lose them in the game"
     - "The metal detector must properly beep near the 2 rockfalls, Octave's initiation casket, and the scary lenticular portrait, which are CRUCIAL (but NOT on the other objects of these sets)"
     - "All the prophecy FEATHER locations must have one, properly attached with black tape"
-    - "The gemstones and coins (especially treasures such as the one of the blowtorch riddle), the padlocks and keys, the UV and magnetic messages, the danger labels (poisons, radiation...), the 'rubble' signs, the analysis/magic sticker stars, must all be in place as the checklist requires."
-    - "Check the presence of the 'UV' and 'magnet' symbols on the objects bearing ultraviolet and magnetic codes respectively"
+    - "The gemstones and coins (especially treasures such as the one of the blowtorch riddle), the padlocks and keys, the UV and magnetic messages, the danger labels (poisons, radiation...), the \"rubble\" signs, the analysis/magic sticker stars, must all be in place as the checklist requires."
+    - "Check the presence of the \"UV\" and \"magnet\" symbols on the objects bearing ultraviolet and magnetic codes respectively"
     - "Check the presence of the dedicated labels/signs on the GRAVES of the graveyard (including the avatars' funeral tribute), on the Magus's TOMB, and on the CHESTS/BOXES"
     - "Put the classification labels in front of the bookshelves of the 2 floors, paying attention to those important in the scenario (Zoology and Gastronomy on the same bookshelf, and optionally Tinctures where the Pyrolitis recipe is)."
     - "Optionally stick the Maupertuis symbol (Caduceus) on the notable dynastic objects of the library"

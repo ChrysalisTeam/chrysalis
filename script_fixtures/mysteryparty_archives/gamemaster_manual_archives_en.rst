@@ -128,7 +128,7 @@ It is represented by the humans or beasts who died in the library after its curs
 The world of books
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The characters from the literary, imaginary world are solely novel heroes whom the child Octave brought to life because he admired them particularly. They are also called "\ **avatars**\ ".
+The characters from the literary, imaginary world are solely novel heroes whom the child Octave brought to life because he admired them particularly. They are also called **"avatars"**.
 
 These characters are in the state their authors left them in at the end of their respective "stories", and not according to what the child knows/imagines about them. They do not age.
 
@@ -216,7 +216,7 @@ The automatons are NOT subject to the rules of the "{% symbol "Oath of Zarathust
 The divine world
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The entities belonging to the "\ **divine**\ " - the NPC actor **the Ankou**, and the Game Master as the **renegade Djinn** - can see everyone and be seen by all, and are by default harmless to the various characters.
+The entities belonging to the **"divine"** - the NPC actor **the Ankou**, and the Game Master as the **renegade Djinn** - can see everyone and be seen by all, and are by default harmless to the various characters.
 
 They are also immune to weapons and to the spells (including the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %}) surrounding the library. {% fact "ankou_sees_all_and_is_harmless_for_all" %}
 
@@ -401,7 +401,7 @@ The Thief {% symbol "Fedore Pass'muraille" for "thief_name" %}
 
 - The Thief is initially unaware that he is dead; he merely believes himself **trapped** in his little area (near the Beast's den) by the masters of the place. He therefore calls out to the players to **free** him from his anchoring, and to help him recover the equipment that someone *odiously* stole from him. This can give rise to a give-and-take negotiation.
 
-- He continues to desire only material riches, which, alas, he can no longer pick up despite his attempts. Even if the players swear a "{% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}" to convince him that he is dead and that his priorities are illogical, he still shows doubts (perhaps these people have an immunity against the effects of this oath?).
+- He continues to desire only material riches, which, alas, he can no longer pick up despite his attempts. Even if the players swear an "{% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}" to convince him that he is dead and that his priorities are illogical, he still shows doubts (perhaps these people have an immunity against the effects of this oath?).
 
 - Following the Arkon's harangues, or even the Ankou's visits, he eventually realises that he is dead. But that changes nothing: after discussions with the players (some have information), he exults that the **"{% symbol "Pass'muraille Keep" for "thief_castle_name" %}"** has remained in his family ever since. He therefore glories in still being able to feed this pile of riches, even once dead, through his magic "{% symbol 'bottomless collection pouch' for 'thief_moneybox_name' %}". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %} {% fact "thief_heirs_still_benefit_from_his_treasure" %}
 
@@ -599,7 +599,7 @@ A player can be harmed in the following cases:
 
 - If they are touched by a phantom in disembodied phase (in spectral wandering): **sacred injury**. If they are attacked at length by the phantom Beast, or stand in a phantom's way instead of fleeing, it ends up killing them. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
-- If they touch cursed remains, such as a sounding skull or the bones that go with it {% fact "cursed_skull_and_bones_give_sacred_injuries" %}: **sacred injury**. A pentacle, for its part, is NOT dangerous, except during a ritual. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- If they touch cursed remains, such as a sounding skull or the bones that go with it: **sacred injury**. {% fact "cursed_skull_and_bones_give_sacred_injuries" %} A pentacle, for its part, is NOT dangerous, except during a ritual. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
 - If they set off a physical or magical trap, that is to say knock a **jingle bell** to the floor (e.g. a thread stretched across an aisle) or trigger the chirp of a presence-detecting **cicada** (e.g. by opening a chest): **biological injury**.
  {% fact "cicada_or_minibell_sound_mean_injury" %}
@@ -735,7 +735,7 @@ Faced with this automaton:
 - The Woodsman is protected, on the torso only, by the Arkon's armour; his {% symbol "Iridium" for "parcival_woodsman_arrows_metal" %} darts can slightly handicap the killer automaton, but hardly more, except for a perfect shot right to the heart, which would be fatal; he has already heard of this kind of mechanical chimera. {% fact "parcival_woodsman_knows_about_parasited_automatons" %}
 - Going for a brawl is forbidden for safety reasons, but would in any case be suicidal given the physical strength of the automatons.
 - The Diakons' spells are in theory unusable, as the automaton moves too much, for instance, to be put in stasis in a pentacle.
-- If a protagonist possesses the {% symbol 'Dominion' for 'androids_command_bracelet_name' %}', the automatons' command bracelet, he can give orders to the killer automaton, and thus create a conflict that will confuse and slow it down (as the robot will oscillate between the order to kill, and the order not to).
+- If a protagonist possesses the {% symbol 'Dominion' for 'androids_command_bracelet_name' %}, the automatons' command bracelet, he can give orders to the killer automaton, and thus create a conflict that will confuse and slow it down (as the robot will oscillate between the order to kill, and the order not to).
 - The best weapons for destroying the killer automaton are the Arkon's ULTRA-HEAVY {% symbol "gladius" for "arkon_weapon_name" %}, and explosives.
 
 {% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
@@ -930,7 +930,7 @@ The Maupertuis treasure (Mirandian secret agents)
 They have found a fragment of Mérédice's diary, in which she describes in enigmatic language how, when a grimoire starts singing, thanks to changing symbols, something turns and riches appear. {% hint "meredice_diary_about_treasure_for_spy_group" is needed %}
 
 An oracle triggered in the Forbidden Domain shows a paddle mill pouring riches into the river, surrounded by musical notes. {% hint "parcival_oracle_vision_about_water_mill" is needed %}
-A stereogram on the wall also shows a coffee mill with a double hidden word of thanks {% hint "grinding_mill_stereogram_picture_with_magnetic_and_uv_code" is needed %}.
+A stereogram on the wall also shows a coffee mill with a double hidden word of thanks. {% hint "grinding_mill_stereogram_picture_with_magnetic_and_uv_code" is needed %}
 
 The players must understand that it is a **coffee mill** simply "hidden in plain sight", on the alchemist's workbench of the forbidden floor. {% hint "grinding_mill_with_enchantment" is needed %}
 
@@ -1368,7 +1368,7 @@ He was very soon due to undergo his **initiation called "dubbing"**, a ceremony 
 
 During his confinement in the library, Octave wore as a keepsake his **mother's brooch**, which he had found on site. {% fact "octave_carried_mother_jewel_after_her_death" %} {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
 
-In their childhood, Octave and his sister used to create treasure hunts - and other puzzles - for each other. Mérédice had created a particularly mischievous one to celebrate Octave's upcoming dubbing, by pinching his piggy bank full of savings. And she had placed the final riddle leading to this little treasure in the **{% symbol "Whispering Box" for "whispering_box" %} found at the bottom of a wooden chest.** {% hint "whispering_box_with_children_enigma_in_common_brown_chest" is needed %}; the family members used this magic box to leave each other messages, which they listened to by placing a finger on it. {# The players must use a stethoscope to read these messages #} Octave was never able to find his piggy bank, probably because it was hidden in the Forbidden Domain. {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
+In their childhood, Octave and his sister used to create treasure hunts - and other puzzles - for each other. Mérédice had created a particularly mischievous one to celebrate Octave's upcoming dubbing, by pinching his piggy bank full of savings. And she had placed the final riddle leading to this little treasure in the **{% symbol "Whispering Box" for "whispering_box" %} found at the bottom of a wooden chest**; {% hint "whispering_box_with_children_enigma_in_common_brown_chest" is needed %} the family members used this magic box to leave each other messages, which they listened to by placing a finger on it. {# The players must use a stethoscope to read these messages #} Octave was never able to find his piggy bank, probably because it was hidden in the Forbidden Domain. {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
 
 
 The {% symbol "Spectral Bell" for "table_bell_name" %} and the {% symbol "spectral frenzy" for "phantom_frenzy_name" %}
@@ -1400,7 +1400,7 @@ Of the two phantom forms
 
 It is possible to communicate with a phantom when it is in an "embodied" phase. This is of course a misnomer, as the deceased remains unable to interact normally with the world of flesh and matter; they are nonetheless able to converse, reason, and remember their past life, even if their awareness of their situation can vary greatly. These privileged moments are the best way for an exorcist to understand what is holding a phantom on earth, in order to take corrective measures. These embodiment phases are more frequent and longer when living people are around.
 
-The rest of the time, phantoms wander like aimless "spectres", deprived of most of their intelligence, and attracted to the living only when they come across them at close range. The degree of agitation of these ethereal, disembodied phantoms then depends in part on the weight of their earthly sins {% fact "phantoms_of_sinners_have_faster_specters" %}. But all of them can enter an intense "{% symbol "spectral frenzy" for "phantom_frenzy_name" %}", when they are touched by the waves of some magical or sacred ritual, or at certain significant moments of the day; their movements are then faster, and they seem to seek at all costs contact with the living or with a specific artefact.
+The rest of the time, phantoms wander like aimless "spectres", deprived of most of their intelligence, and attracted to the living only when they come across them at close range. The degree of agitation of these ethereal, disembodied phantoms then depends in part on the weight of their earthly sins. {% fact "phantoms_of_sinners_have_faster_specters" %} But all of them can enter an intense "{% symbol "spectral frenzy" for "phantom_frenzy_name" %}", when they are touched by the waves of some magical or sacred ritual, or at certain significant moments of the day; their movements are then faster, and they seem to seek at all costs contact with the living or with a specific artefact.
 
 Interestingly, phantoms retain a large part of their animal instincts, their likes and dislikes, even when in spectral wandering. {% fact "phantoms_always_keep_most_of_their_instinct" %}
 

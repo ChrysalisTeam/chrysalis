@@ -5,9 +5,9 @@ PLANNING DETAILLÉ DU JEU
 
 H-45mn : Briefing général des **figurants** (voir fiche). Visite de la bibliothèque ensemble, si possible.
 
-H-30mn : Briefing de chaque **groupe de joueur** (voir fiche), effectué respectivement par chaque figurant qui en a la charge. Le MJ passe pour distribuer les objets manquants et répondre aux questions. Les joueurs embraient ensuite sur un **tour de présentation** de chacun, à l'image du rêve commun qu'ils ont fait d'après leurs fiches de personnage.
+H-30mn : Briefing de chaque **groupe de joueurs** (voir fiche), effectué respectivement par chaque figurant qui en a la charge. Le MJ passe pour distribuer les objets manquants et répondre aux questions. Les joueurs embraient ensuite sur un **tour de présentation** de chacun, à l'image du rêve commun qu'ils ont fait d'après leurs fiches de personnage.
 
-**-15mn : PREPARATION DES LIEUX - Vérifier que tous les systèmes audio/vidéo sont activés au moins dans l'étage autorisé (pour l'étage interdit, voir selon l'autonomie des batterie). Attention à bien allumer à chaque fois enceinte, lecteur MP3 sur la bonne piste, voire batterie externe le cas échéant. Régler au max les volumes sonores des boites à murmure pour qu'elles soient audibles. Pour les autres sources de son, régler les volumes pour que chaque ambiance n'empiète pas sur le reste de la salle. Les bougies déjà présentes doivent être aussi allumées au moins dans l'étage autorisé, en particulier dans le tombeau du mage. Laisser le projecteur en haut de l'escalier éteint, si présent. Les pentacles et sceaux lumineux (guirlandes LED tressées) doivent rester éteints. La bande son de la Bête (une des 2 pistes audio à l'emplacement du voleur) doit être allumée, à volume maximum.**
+**-15mn : PREPARATION DES LIEUX - Vérifier que tous les systèmes audio/vidéo sont activés au moins dans l'étage autorisé (pour l'étage interdit, voir selon l'autonomie des batteries). Attention à bien allumer à chaque fois enceinte, lecteur MP3 sur la bonne piste, voire batterie externe le cas échéant. Régler au max les volumes sonores des boites à murmure pour qu'elles soient audibles. Pour les autres sources de son, régler les volumes pour que chaque ambiance n'empiète pas sur le reste de la salle. Les bougies déjà présentes doivent être aussi allumées au moins dans l'étage autorisé, en particulier dans le tombeau du mage. Laisser le projecteur en haut de l'escalier éteint, si présent. Les pentacles et sceaux lumineux (guirlandes LED tressées) doivent rester éteints. La bande son de la Bête (une des 2 pistes audio à l'emplacement du voleur) doit être allumée, à volume maximum.**
 
 H-10mn : Les avatars doivent être prêts à se disperser dans la bibliothèque, et les fantômes à errer spectralement quand la cloche/frénésie sonnera ; mais tous ces figurants peuvent écouter le discours introductif de loin ; certains automates peuvent déjà être dispersés dans les lieux, activés ou non.
 
@@ -45,7 +45,7 @@ H+50mn : [Musique] Se tenir prêt à mettre une bande-son instrumentale lorsque 
 
 H+55mn : [Gong] Le voleur s'incarne à son tour, à son point d'ancrage, et interpelle les joueurs.
 
-H+1h20 : [Musique] Si les joueurs n'ont toujours pas ouvert l'étage interdit, l'Ankou vient leur donner des indices sur la façon d'accéder au symbole nécessaire (symbole en ultraviolets dans la mallette administrative noir, dont le code est murmuré par le {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}).
+H+1h20 : [Musique] Si les joueurs n'ont toujours pas ouvert l'étage interdit, l'Ankou vient leur donner des indices sur la façon d'accéder au symbole nécessaire (symbole en ultraviolets dans la mallette administrative noire, dont le code est murmuré par le {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}).
 
 H+1h20 : [Cloches] Les fantômes repassent en spectre pour 2-3 minutes, puis [Gong].
 
@@ -55,7 +55,7 @@ H+X : [Musique] Anticiper la cérémonie d'initiation d'Octave en musique.
 
 H+X : [Musique] Anticiper la prophétie holographique de Cassandra (énigme des tableaux lenticulaires effrayants).
 
-H+X : Pour piéger l'arkonte, le druide pose la sacoche porte-document faussement compromettante, dans l'étage interdit {% fact "druid_makes_conspiracy_against_arkon" %}.
+H+X : Pour piéger l'arkonte, le druide pose la sacoche porte-document faussement compromettante, dans l'étage interdit. {% fact "druid_makes_conspiracy_against_arkon" %}
 
 H+X : [Musique] Mettre en scène l'attaque de l'automate de garde.
 

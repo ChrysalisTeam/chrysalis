@@ -8,11 +8,11 @@ Les déchus
 Votre histoire
 =======================
 
-Vous êtes des dragons. Ou plutôt, ce que les humains appellent "dragons". L'image de gigantesque reptile ailé que cela leur évoque, n'est qu'une des milles apparences que vous auriez pu choisir pour leur apparaitre ; mais celle-ci vous plaisait esthétiquement. En réalité, vous venez d'un univers parallèle, d'un outre-monde, dans lequel la vie et les sens se comportent très différemment.
+Vous êtes des dragons. Ou plutôt, ce que les humains appellent "dragons". L'image de gigantesque reptile ailé que cela leur évoque, n'est qu'une des mille apparences que vous auriez pu choisir pour leur apparaitre ; mais celle-ci vous plaisait esthétiquement. En réalité, vous venez d'un univers parallèle, d'un outre-monde, dans lequel la vie et les sens se comportent très différemment.
 
 Comme quelques compatriotes assoiffés de nouveauté, vous avez quitté votre univers natal grâce à un puissant rituel draconique, pour explorer d'autres dimensions ; vous avez ainsi rejoint Pangéa, plusieurs siècles avant la Nouvelle Ère.
 Comme les Djinns, vous avez erré dans un entre-monde invisible, apprenant peu à peu le fonctionnement des sociétés humaines.
-Mais contrairement à ces purs esprits connaissance, vous avez décidé d'interférer avec cette réalité, afin de transmettre un peu de votre sagesse.
+Mais contrairement à ces purs esprits de connaissance, vous avez décidé d'interférer avec cette réalité, afin de transmettre un peu de votre sagesse.
 
 C'est ainsi que vous êtes devenus des guides spirituels. Puis, à votre insu, des divinités, **{% symbol "Bahamoot" for "god_of_diakons" %} et Béhémoth**.
 Vous avez conseillé des âmes déboussolées, guéri des souffrants, parfois rendu à la vie des malades qui agonisaient ; "prophétisé", aussi, ce que votre finesse d'esprit vous permettait de prévoir quant à la destinée humaine.
@@ -31,7 +31,7 @@ Vous avez alors pris la plus profonde décision de votre longue existence : vous
 Abandonner votre majesté, votre puissance, et votre éternité.
 Et lier ainsi votre âme à la robustesse psychique de ce monde, mais aussi à son système de vie et de mort, de chair et de divin.
 
-Eu vu des contraintes de temps, la seule créature enceinte qui se prêtait à une telle opération était... une souris.
+Vu les contraintes de temps, la seule créature enceinte qui se prêtait à une telle opération était... une souris.
 C'est ainsi que vous êtes devenus **Pistache et Cajou**, deux jeunes souris grises. Et l'oracle du monastère vous a fait porter de toute urgence aux diacres qui s'apprêtaient à entrer dans le sanctuaire enfoui des Maupertuis.
 
 
@@ -140,11 +140,11 @@ Maintenant que vous êtes incarnés en souris, votre espérance de vie est très
 
 **Innovation rituelle** : Vous le savez depuis toujours, ce qui donne leur pouvoir aux cérémonies, ce n'est pas la succession des paroles et des gestes, c'est la foi immense que les initiés ont dans leur réalisation, foi anoblie par votre bénédiction. Vous êtes donc en mesure d'enseigner de nouveaux rituels de votre invention, qui réussiront tant qu'ils sont conformes au fonctionnement interne de l'univers, et que les initiés qui les réalisent ont assez de force psychique (potentiellement aidée par des potions). *NOTE hors-jeu : cette compétence ne peut être utilisée qu'une seule fois en tout durant le jeu ; voyez avec le maître de jeu si vous avez l'idée d'un nouveau rituel, afin qu'il valide et suive sa mise en place.*
 
-**Récompense** : Si un être humain fait preuve de belles qualités, vous pouvez le récompenser en lui dévoilant un secret du lieu. Le voici : dans le domaine interdit des archives secrètes des Maupertuis, se trouve un petit puits en métal appelé "inutile". Il est en réalité fort utile, car si un humain descend dedans, avec le seau attaché, **5 grammes de diamants**, il reçoit la bénédiction des *leprechauns* . Cette personne gagne alors une **triple longévité** : cela ne la rend pas plus résistante aux épidémies ou aux blessures, mais elle vieillit trois fois moins vite que ses congénères. {% hint "longevity_metal_well" is needed %} {% hint "tiny_metal_scale" is needed %}
+**Récompense** : Si un être humain fait preuve de belles qualités, vous pouvez le récompenser en lui dévoilant un secret du lieu. Le voici : dans le domaine interdit des archives secrètes des Maupertuis, se trouve un petit puits en métal appelé "inutile". Il est en réalité fort utile, car si un humain descend dedans, avec le seau attaché, **5 grammes de diamants**, il reçoit la bénédiction des *leprechauns*. Cette personne gagne alors une **triple longévité** : cela ne la rend pas plus résistante aux épidémies ou aux blessures, mais elle vieillit trois fois moins vite que ses congénères. {% hint "longevity_metal_well" is needed %} {% hint "tiny_metal_scale" is needed %}
 
 **Salvation** : Si un être humain est mourant, tous les dragons déchus peuvent ensemble, en mobilisant ce qu'il leur reste d'énergie draconique, le restaurer dans son âme et son corps. *NOTE hors-jeu : cette compétence ne peut être utilisée qu'une seule fois en tout durant le jeu ; improvisez le rituel avec des gestes et des chants.*
 
-**Herboristerie** : Vous avez entendu parler d'une plante appelée "Holistix", qui se présente sous forme de clochettes pourpres aux arrêtes effilée et aux bouts pointus. Elle aurait la propriété d'étendre immensément la quiétude mentale d'un être, et pourrait grandement donc vous aider dans votre plan de "piège psychique à démons". {% hint "purple_bell_plant_in_vial" is needed %}
+**Herboristerie** : Vous avez entendu parler d'une plante appelée "Holistix", qui se présente sous forme de clochettes pourpres aux arêtes effilées et aux bouts pointus. Elle aurait la propriété d'étendre immensément la quiétude mentale d'un être, et pourrait grandement donc vous aider dans votre plan de "piège psychique à démons". {% hint "purple_bell_plant_in_vial" is needed %}
 
 
 Votre arrivée en jeu
@@ -152,7 +152,7 @@ Votre arrivée en jeu
 
 *NOTES hors-jeu*
 
-Durant les briefings, présentez vous aux autres joueurs comme des "automates", mieux vaut qu'ils pensent que vous êtes simples figurants.
+Durant les briefings, présentez-vous aux autres joueurs comme des "automates", mieux vaut qu'ils pensent que vous êtes de simples figurants.
 
 Au début de la soirée, vous jouerez réellement des automates. Des habits très sobres et vieillots peuvent faire l'affaire, un peu de maquillage sur le visage sera bienvenu.
 

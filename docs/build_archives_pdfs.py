@@ -232,7 +232,7 @@ COMMON_LORE_AND_RULES = [
 # Content of ingame clues ODT document, as (filename or None to skip, number_of_pages, first_page_snippets):
 # snippets are texts that the first page of each clue must contain, per language (or None for pages without text)
 INGAME_CLUES_PARTS = [
-    ("recipe_flex_elixir_and_clarity_lotion", 1, dict(fr="Elixir Flexifiant Dans", en="Flexifying Elixir In")),
+    ("recipe_flex_elixir_and_clarity_lotion", 1, dict(fr="Élixir Flexifiant Dans", en="Flexifying Elixir In")),
     ("recipe_pyrolitis_tincture", 1, dict(fr="Teinture Pyrolitis -", en="Pyrolitis Tincture -")),
     ("recipe_rejuvenation_cocktail", 1, dict(fr="Cocktail de Réjuvénation", en="Rejuvenation Cocktail Sovereign")),
     ("extra_alchemy_recipes", 1, dict(fr="Notes d’Alchimie Atomique", en="Notes on Atomic Alchemy")),
@@ -248,11 +248,11 @@ INGAME_CLUES_PARTS = [
     ("unreadable_runes", 2, None),
     ("antic_akarith_runes", 1, dict(fr="Deux Cryptorunes Akarites", en="Two Antique Akarith")),
     ("maupertuis_father_chest_code_anamorphosis_enigma", 1, None),
-    ("maupertuis_whispering_box_enigma", 1, dict(fr="(Énigme de la Boite", en="(Whispering Box Riddle)")),
+    ("maupertuis_whispering_box_enigma", 1, dict(fr="(Énigme de la Boîte", en="(Whispering Box Riddle)")),
     ("octave_diary_on_his_tomb", 1, dict(fr="Cher journal intime,", en="Dear diary, For ages")),
     ("letters_to_maupertuis_parents", 2, dict(fr="Le 23 Septemaire 500", en="23 Septemaire 500")),
     ("octave_instructions_for_initiation", 1, dict(fr="Octave, voici les", en="Octave, here are the")),
-    ("avatar_novel_summaries", 2, dict(fr="Roman « Les cygnes", en="Novel \"The Pond Swans\"")),
+    ("avatar_novel_summaries", 2, dict(fr="Roman « Les cygnes", en="Novel “The Pond Swans”")),
     ("conspiracy_anti_arkon_letter_with_coast_of_arms", 1, dict(fr="Mon cher Fils dans", en="My dear Son in the Yods,")),
     ("archivist_diary_in_his_case", 4, dict(fr="8 octobaire 500 Ô que", en="8 octobaire 500 O,")),
     ("book_shelf_labels_for_library1", 1, dict(fr="RAYON ZOOLOGIE RAYON", en="ZOOLOGY SHELF GASTRONOMY")),

@@ -16,7 +16,7 @@ Zones de danger
 +++++++++++++++++++++++++++++++++
 
 {# FIXME UPDATE THIS !!! #}
-Vous êtes capable de reconnaître et sécuriser les couloirs dangereux des vieilles batisses : murs ou planchers prêts à s'effondrer, voir pièges mécaniques posés dans les vieux temples et tombeaux.
+Vous êtes capable de reconnaître et sécuriser les couloirs dangereux des vieilles bâtisses : murs ou planchers prêts à s'effondrer, voire pièges mécaniques posés dans les vieux temples et tombeaux.
 
 *NOTES hors-jeu* :
 
@@ -42,7 +42,7 @@ Vous avez avec vous **2 bâtonnets de dynamite**. Chacun peut servir à déblaye
 Réserve de luminis
 +++++++++++++++++++++++++++++
 
-Vous avez emporté avec vous un sac de "luminis", des petites éclairages autonomes luisants.
+Vous avez emporté avec vous un sac de "luminis", de petits éclairages autonomes luisants.
 
 Ils peuvent éclairer (faiblement) une zone de la bibliothèque. Mais ils peuvent aussi vous servir à baliser les chemins sûrs, à mettre en évidence des points d'intérêt ou de dangers, ou à tout autre usage - à votre convenance.
 {% hint 'mini_candles_for_minesweeper' is needed %}
@@ -53,11 +53,11 @@ Ils peuvent éclairer (faiblement) une zone de la bibliothèque. Mais ils peuven
 Connaissance des mécaniques et des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Vous avez depuis toujours une véritable passion pour les **inventions mécaniques et robotiques**. Dans votre temps libre, vous avez conçu une horloge à coucou fonctionnant à l'énergie géothermique, un fauteuil à bascule monté sur verrins steamoforce... et vous êtes très informé des dernières avancées dans la construction d'automates imitant des animaux ou des humains.
+Vous avez depuis toujours une véritable passion pour les **inventions mécaniques et robotiques**. Dans votre temps libre, vous avez conçu une horloge à coucou fonctionnant à l'énergie géothermique, un fauteuil à bascule monté sur vérins steamoforce... et vous êtes très informé des dernières avancées dans la construction d'automates imitant des animaux ou des humains.
 
-Avec les progrès faits dans les engrenages diphasiques, les compresseurs néodymes et les senseurs proprioceptifs, d'ici quelques décennies les machines autonomes se répandront dans le monde, vous en avez la certitude enthousiaste. Même si l'intelligence de ses machines restera pour longtemps très rudimentaire.
+Avec les progrès faits dans les engrenages diphasiques, les compresseurs néodymes et les senseurs proprioceptifs, d'ici quelques décennies les machines autonomes se répandront dans le monde, vous en avez la certitude enthousiaste. Même si l'intelligence de ces machines restera pour longtemps très rudimentaire.
 
-*Vous pouvez à votre guise improviser des termes scientifiques et des inventions dans ce domaine, tant qu'ils sont dits avec conviction et restent dans ce niveau de technologie 'steampunk' (rétrofuturiste à vapeur).* {% fact "spy_minesweeper_likes_building_robots" as author %}
+*Vous pouvez à votre guise improviser des termes scientifiques et des inventions dans ce domaine, tant qu'ils sont dits avec conviction et restent dans ce niveau de technologie "steampunk" (rétrofuturiste à vapeur).* {% fact "spy_minesweeper_likes_building_robots" as author %}
 
 
 

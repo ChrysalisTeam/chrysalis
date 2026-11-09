@@ -12,9 +12,9 @@ Votre profil
 
 Héroïque "arkonte" (chevalier béni par les dieux) de la religion yodique (et plus particulièrement disciple de la confession dite "mithraïque"), grand érudit, adepte de nombreuses formes de magie, ferme défenseur des humains contre les incursions d'entités démoniaques, vous avez parcouru la planète en laissant derrière vous d'innombrables légendes. {% fact "arkon_means_blessed_knight" %}
 
-Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "library_initial_events_timedelta" %}, lors de votre séjour dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, non loin des ruines du domaine Maupertuis. A la faveur du {% symbol "solstice d'hiver" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %} menant à une étrange bibliothèque.
+Votre épique parcours s'est arrêté il y a {% symbol "500 ans" for "library_initial_events_timedelta" %}, lors de votre séjour dans le **{% symbol "Monastère de Rochesombre" for "common_monastery_name" %}**, non loin des ruines du domaine Maupertuis. À la faveur du {% symbol "solstice d'hiver" for "astral_opening_date" %}, vous avez brusquement senti la présence d'entités d'outre-monde, ni humaines ni démoniaques, par delà un {% symbol "corridor planétaire" for "teleportation_system_name" %} menant à une étrange bibliothèque.
 
-Votre ordre vous avait mis en garde contre ces phénomènes rarissimes par lesquels différents univers s'entremêlaient : leurs propriétés physiques, magiques et spirituelles, partiellement incompatibles, pouvaient donner à de grands drames, même sans mauvaises intentions. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique vers la bibliothèque ne se referme. Et vous avez convaincu les habitants du lieu de vous laisser faire.
+Votre ordre vous avait mis en garde contre ces phénomènes rarissimes par lesquels différents univers s'entremêlaient : leurs propriétés physiques, magiques et spirituelles, partiellement incompatibles, pouvaient donner lieu à de grands drames, même sans mauvaises intentions. Vous êtes donc parti sans tarder pour investiguer le problème, avant que le passage magique vers la bibliothèque ne se referme. Et vous avez convaincu les habitants du lieu de vous laisser faire.
 
 
 La malédiction de la bibliothèque
@@ -22,7 +22,7 @@ La malédiction de la bibliothèque
 
 Alors que vous procédiez, dans un tumulte magique, aux rituels successifs de refermement des portails interdimensionnels, une puissance maléfique enrobée de ténèbres s'est interposée. Vous l'avez combattue sans relâche, pendant d'interminables minutes, à coups de {% symbol "glaive" for "arkon_weapon_name" %}, de sortilèges et d'exorcisme. Elle encaissait douloureusement vos attaques (sauf celles sacrées, qui ne lui faisaient manifestement rien)... mais elle se régénérait en un clin d'oeil.
 
-Lorsque vous avez reçu un projectile en plein front, vous avez compris que la partie était perdue ; mais dans votre dernier souffle, vous avez lancé une sortilège immémorial, décuplé par la puissance de votre sacrifice : la **{% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}**, une malédiction enfermant la bibliothèque entière dans un vortex sacré, un "trou noir" spirituel, qui ne cesserait que lorsque votre attaquant serait rayé de ce monde. {% fact "traitor_death_ends_cursed_enclosure" %}
+Lorsque vous avez reçu un projectile en plein front, vous avez compris que la partie était perdue ; mais dans votre dernier souffle, vous avez lancé un sortilège immémorial, décuplé par la puissance de votre sacrifice : la **{% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}**, une malédiction enfermant la bibliothèque entière dans un vortex sacré, un "trou noir" spirituel, qui ne cesserait que lorsque votre attaquant serait rayé de ce monde. {% fact "traitor_death_ends_cursed_enclosure" %}
 
 Depuis, comme vous l'aviez prévu dans votre ultime sacrifice, votre âme fantomatique est restée prisonnière de la bibliothèque ; moins à cause du sortilège de votre mort - vous savez que cela peut "attacher" temporairement une âme à un lieu - qu'à cause de votre propre malédiction.
 
@@ -55,11 +55,11 @@ Vous seriez extrêmement surpris si des affaires vous appartenant étaient retro
 
 Vous aviez, longtemps avant votre mort, rendu votre **squelette indestructible**, tout autant pour renforcer votre corps, que pour éviter que votre possible disparition dans les griffes de quelque ennemi ne demeure à jamais un mystère. C'est aussi ça, l'esprit de prévoyance.
 
-Vous connaissez différentes légendes remontant à l'ère du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}. L'une d'elle parle de divers artefacts (bijoux, sceptres, armes) créés par une petite secte, et appelés les **"Amplificans"**, qui avaient pour particularité d'étendre la portée spatiale des sortilèges de leur porteur. Avec cet effet démultiplicateur, un rituel créant habituellement un petit mur de flamme sur quelques pas pouvait se retrouver à embraser une plaine entière. Le symbole commun à ces artefacts était un **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. D'après vous, clairement, le mage a utilisé de telles sources de pouvoir. {% fact "arkon_has_hints_about_ring_amplificans" %}
+Vous connaissez différentes légendes remontant à l'ère du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}. L'une d'elles parle de divers artefacts (bijoux, sceptres, armes) créés par une petite secte, et appelés les **"Amplificans"**, qui avaient pour particularité d'étendre la portée spatiale des sortilèges de leur porteur. Avec cet effet démultiplicateur, un rituel créant habituellement un petit mur de flamme sur quelques pas pouvait se retrouver à embraser une plaine entière. Le symbole commun à ces artefacts était un **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. D'après vous, clairement, le mage a utilisé de telles sources de pouvoir. {% fact "arkon_has_hints_about_ring_amplificans" %}
 
 Vous pouvez être assez frustré de découvrir que votre ancien monastère héberge désormais un culte concurrent, celui des diacres de {% symbol "Bahamoot" for "god_of_diakons" %}. Mais enfin, c'est la lutte éternelle entre orthodoxie et hérésies. {% fact "bahamoot_monastery_belonged_to_yodic_order_in_the_past" %}
 
-Si l'on vous interroge : vous ne connaissez pas de solution miracle à une **légion de zombies** - à part les combattre un à un avec des armes de préférence bénites. Mais vous avez entendu parler de puissants enchantements de terrain, capables d’empêcher leur “réanimation” initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
+Si l'on vous interroge : vous ne connaissez pas de solution miracle à une **légion de zombies** - à part les combattre un à un avec des armes de préférence bénites. Mais vous avez entendu parler de puissants enchantements de terrain, capables d’empêcher leur "réanimation" initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
 En cas de question : vous ne savez pas ce qu'est un **"{% symbol "Vortex Abyssal" for "link_to_demonic_space" %}"** ni une **"{% symbol "Source de Savoir" for "link_to_djinn_world" %}"**. {% fact "arkon_does_not_know_about_spiritual_orb_magic" %}
 
@@ -67,7 +67,7 @@ Si un vivant meurt, vous incitez les autres à trouver comment le **ressusciter*
 
 Si l'exorciste tente de **briser les corridors outre-monde** alors que des avatars sont encore présents dans la bibliothèque, vous vous demandez ouvertement si cela ne va pas les mettre en grave danger. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
-Si vous croisez un fantôme en errance spectral, donc dangereux, vous pouvez protéger de votre corps les divers vivants présents. Si, une fois repassé en phase incarnée (donc inoffensive), ce fantôme n'a pas conscience qu'il est mort, vous tentez de le lui expliquer, et de le convaincre que tout désir pour les choses terrestres n'a plus aucun sens. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %} {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
+Si vous croisez un fantôme en errance spectrale, donc dangereux, vous pouvez protéger de votre corps les divers vivants présents. Si, une fois repassé en phase incarnée (donc inoffensive), ce fantôme n'a pas conscience qu'il est mort, vous tentez de le lui expliquer, et de le convaincre que tout désir pour les choses terrestres n'a plus aucun sens. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %} {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %}
 
 Si le dénouement approche, vous pouvez aller interroger (voire faire jurer) les différents groupes de joueurs, quant à ce qu'ils feront des portails menant à la bibliothèque s'ils en réchappent. Vous-même n'avez pas forcément d'avis tranché.
 {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
@@ -94,6 +94,6 @@ Achever la bataille finale
 
 Si le méchant est démasqué, et que les joueurs arrivent à mener à son terme un rituel pour l'expulser, alors ce méchant devient comme blessé.
 
-Vous intervenez alors pour finir la bataille, en musique, avec l'aide les diacres ; la chorégraphie de cette scène finale doit être bien répétée auparavant, avec le maître de jeu.
+Vous intervenez alors pour finir la bataille, en musique, avec l'aide des diacres ; la chorégraphie de cette scène finale doit être bien répétée auparavant, avec le maître de jeu.
 
 
