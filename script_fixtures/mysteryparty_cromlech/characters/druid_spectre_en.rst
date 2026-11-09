@@ -35,7 +35,7 @@ Your role in the ending
 
 After the 4th and final interrogation rotation, you gather the psykers in a corner, and announce to them out-of-game that they are now under your control; they must therefore behave like zombies, and follow your orders during the final scene. You can draw lightning-bolt tattoos on their faces and arms to make this curse visible. {% xfact "le druide envoûte les psykers à la fin du jeu" as author %}
 
-During the final scene, you harangue all the players (in the Celtic tongue, with sweeping gestures) to make the **"Druids' Sign"** with you, facing the artefacts: forming a menhir shape in front of themselves, with their arms and hands.
+During the final scene, you harangue all the players (in the Celtic tongue and then in broken English, with sweeping gestures) to make the **"Druids' Sign"** with you, facing the artefacts: forming a menhir shape in front of themselves, with their arms and hands.
 
 This will be a way for them to give their energy to the divine entity, so that it can slay the Hero who has come to fight it with the ancient gladius.
 {% xfact "le druide connait le signe des druides" as author %}

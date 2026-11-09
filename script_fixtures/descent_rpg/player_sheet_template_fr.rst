@@ -34,7 +34,7 @@ Compétences
 
 
 
-Equipements
+Équipements
 ============
 
 Communs :

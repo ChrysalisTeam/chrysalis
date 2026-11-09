@@ -41,7 +41,7 @@ Scénario de la session
 Contexte de l'expédition
 -------------------------
 
-**Sir Loyd Georges**, un retraité du pays de Sabarite (*style Angleterre Victorienne*) ayant mené une vie d'aventurier peu fructueuse, est au bord de la faillite. Mais grâce à ses relations de l'Académie d'Alifir, il apprend l'existence d'un ancien temple dissident, dans le **pays d'Akaris** (*une théocratie yodique fanatisée, avec une ambiance de japon médiéval*).
+**Sir Loyd Georges**, un retraité du pays de Sabarim (*style Angleterre Victorienne*) ayant mené une vie d'aventurier peu fructueuse, est au bord de la faillite. Mais grâce à ses relations de l'Académie d'Alifir, il apprend l'existence d'un ancien temple dissident, dans le **pays d'Akaris** (*une théocratie yodique fanatisée, avec une ambiance de japon médiéval*).
 Il monte donc une expédition de la dernière chance, pour rapporter les joyaux et artefacts que contient probablement le sanctuaire, avant qu'il ne soit trouvé et annihilé par les chefs religieux locaux.
 
 Profitant des mouvements de populations dus au pèlerinage annuel des fidèles yodiques, Loyd Georges et son expédition s'infiltrent en Akaris, avec un **solide camion tout-terrain**, et du matériel sophistiqué. Ils montent le camp près des ruines de **l'ancienne capitale hérétique, Nazur**, ville "maudite et vouée à l'interdit" depuis sa chute.
@@ -299,7 +299,7 @@ Saint des Saints du Temple Yodique
 - de **gros lichens** couvrent les pierres tombales : ce sont eux qui génèrent les **gaz dangereux** ; sous les lichens, des traces de peintures, quasiment effacées (à tenter de restaurer, pour avoir les **dates de décès** postérieures à la chute de Nazur)
 - les pierres tombales peuvent être arrachées et ramenées, pour être vendues
 - la statue du guerrier comporte un nom ("Bartzar"), et des **runes sacrées**, qui ne seront donc déchiffrables que par l'Académie d'Alifir
--  le **cadavre** (derrière la statue de guerrier) est naturellement momifié ; il porte une toge couleur terre (très répandue dans ce pays) ; si fouillé, autour de son cou il a une **fiole en or** (contient un peu d'Elixir Berserk) et une **clef en laiton**
+-  le **cadavre** (derrière la statue de guerrier) est naturellement momifié ; il porte une toge couleur terre (très répandue dans ce pays) ; si fouillé, autour de son cou il a une **fiole en or** (contient un peu d'Élixir Berserk) et une **clef en laiton**
 
 - dans l'amoncellement d'objets, les joueurs trouvent un certain nombre d'éléments intéressants : **2 crânes (que le baroudeur peut reconnaître comme chèvre et chien), un tonnelet vide, une hélice de bateau rouillée, des poteries, un cierge liturgique, et une bonbonne avec un dépôt visqueux au fond**
 
@@ -315,7 +315,7 @@ Saint des Saints du Temple Yodique
 
 - la fresque est d'une extrême finesse, elle contient des inscriptions et symboles yodiques
 - sur une surface plane en dessous, il y a des traces de pigmentation ; en restaurant cette peinture, on peut y lire : **"Lorsque la Lueur de la Foi traverse le Tamis de la Doctrine, se manifeste la Gloire des Yods"** *(référence à l'énigme du puits)*
-- sur un côté, est gravé le **Symbole de la Force**, avec dedans des pictogrammes de **chèvre, champignon, fruit rond, et d'eau** *(indice pour l'Elixir Berserk)*
+- sur un côté, est gravé le **Symbole de la Force**, avec dedans des pictogrammes de **chèvre, champignon, fruit rond, et d'eau** *(indice pour l'Élixir Berserk)*
 
 - la petite pagode en terre séchée est fermée à clef ; si on tente de la forcer au piolet, gros risque qu'elle s'effondre et abîme son contenu
 - la **clef de la pagode** est bien celle autour du cou du cadavre
@@ -323,9 +323,9 @@ Saint des Saints du Temple Yodique
 
 - le petit mobilier de la salle (table basse...) est a priori sans valeur
 
-**Enigme lumineuse** : si on cale la lanterne de pierre dans le creux au fond du puits, qu'on y place une lumière quelconque, puis qu'on met la grille dessus, les effets d'interférence mettent en évidence certaines runes sacrées du plafond, qui forment en réalité une **prophétie razulite postérieure à la chute de Nazur** ; cette prophétie ne sera déchiffrable que par l'Académie d'Alifir, mais on y reconnait au minimum l'idéogramme des **orbes divins**.
+**Énigme lumineuse** : si on cale la lanterne de pierre dans le creux au fond du puits, qu'on y place une lumière quelconque, puis qu'on met la grille dessus, les effets d'interférence mettent en évidence certaines runes sacrées du plafond, qui forment en réalité une **prophétie razulite postérieure à la chute de Nazur** ; cette prophétie ne sera déchiffrable que par l'Académie d'Alifir, mais on y reconnait au minimum l'idéogramme des **orbes divins**.
 
-Au bout d'un moment (plus tôt, si des mini-géodes ont été disposées partout), un **sifflement étrange** se fait entendre (cf. bande-son dédiée) : le **chant de l'orbe**. Sa provenance est très difficilement trouvable à l'oreille. Il faut sonder les murs au sonar, ou utiliser le kit de micros, pour savoir quelle paroi creuser au piolet. L'orbe est bien en évidence dans sa cachette, posée sur un **lingot d'or**. Elle réagit violemment (lumière et vibration) lorsqu'on veut la prendre. On peut la mettre dans de l'eau glacée pour la calmer et l'emporter sans qu'elle attire des zélotes akarites.
+Au bout d'un moment (plus tôt, si des mini-géodes ont été disposées partout), un **sifflement étrange** se fait entendre (cf. bande-son dédiée) : le **chant de l'orbe**. Sa provenance est très difficilement trouvable à l'oreille. Il faut sonder les murs au sonar, ou utiliser le kit de micros, pour savoir quelle paroi creuser au piolet. L'orbe est bien en évidence dans sa cachette, posé sur un **lingot d'or**. Il réagit violemment (lumière et vibration) lorsqu'on veut le prendre. On peut le mettre dans de l'eau glacée pour le calmer et l'emporter sans qu'il attire des zélotes akarites.
 Localisations possibles de la cachette : derrière la petite pagode, ou derrière la fresque murale, ou sous le sol au milieu de la pièce...
 
 
@@ -424,7 +424,7 @@ Récapitulatif des faits scientifiques nouveaux :
 Enquête archéologique
 ----------------------------
 
-Le but de l'archéologue est de démontrer que le temple yodique, et les artefacts ramenés, sont un "scoop archéologique" ; qu'ils apportent de nouveaux éléments sur la fin de la confession yodique "razulite", qui fut écrasée par sa rivale "taranite", il y a des **500 ans** de cela.
+Le but de l'archéologue est de démontrer que le temple yodique, et les artefacts ramenés, sont un "scoop archéologique" ; qu'ils apportent de nouveaux éléments sur la fin de la confession yodique "razulite", qui fut écrasée par sa rivale "taranite", il y a quelque **500 ans** de cela.
 
 Le problème, c'est que les habitants du lieu ont volontairement été peu ostentatoires, pour avoir des chances de s'en tirer s'ils étaient découverts. La plupart des objets dénichables sont donc certes anciens - voire antérieurs à l'époque des conflits yodiques - mais relativement banals et répandus. De plus, les distinctions entre les confessions yodiques  se jouent sur des détails théologiques infimes, ce qui complique l'enquête.
 
@@ -452,7 +452,7 @@ Pour prouver qu'il a été utilisé postérieurement à la chute de Nazur :
 **Résumé historique** : une église monothéiste existait depuis longtemps au fond de la caverne, d'où le corridor ouest et le pont souterrain. L'église a été oubliée au profit d'un temple néopaïen. Les razulites de Nazur ont ensuite dynamité le temple païen, et "raboté" l'église pour la rendre compatible. Puis, pourchassés par les taranites, ils ont réinvesti l'église, en comblant l'entrée ouest et en créant un discret nouveau passage (au nord-est de la caverne aquifère).
 
 
-Quête de l'Elixir Berserk
+Quête de l'Élixir Berserk
 ----------------------------
 
 Le baroudeur cherche la recette de cette potion légendaire, dont les razulites ont emporté le secret dans leur déchéance.
@@ -466,7 +466,7 @@ La fresque murale du Saint des Saints donne la recette de cette potion, avec des
 - le crâne de chèvre a ses cornes rabotées, c'est cette poudre qui sert d'ingrédient
 - la bonbonne a un dépôt de liqueur de prune rouge au fond
 
-Mélanger ces trois éléments donne l'Elixir Berserk.
+Mélanger ces trois éléments donne l'Élixir Berserk.
 
 S'il n'a pas déterminé les ingrédients exacts, mais a noté ces pictogrammes, le baroudeur a certaines chances de trouver quand même la bonne recette à terme, par **essais et erreurs**.
 

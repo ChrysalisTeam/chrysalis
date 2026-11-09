@@ -135,7 +135,7 @@ game_items:
         image: images/objects/basket_bottle.png
         is_gem: false
         num_items: 1
-        title: "Tectonne large bottle"
+        title: "Tectonic Canister"
         total_price: 300
 
     void_scroll:

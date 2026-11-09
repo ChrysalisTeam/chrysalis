@@ -59,9 +59,13 @@ genre and "mystery game" / "mystery evening" for the subtitle wording;
   Lockpicker...); and character titles that stand in for a name when they
   designate that character (the Tabellion, the Beast, the Druid, the Arkon,
   the Archivist, the Curator, the Guide, the Reporter, the Hero, the Ancestral
-  Tortoise, the Akarith Ambassador / the Ambassador); nicknames keep a capitalised article ("The Docker"); named items
-  and abilities stay capitalised in running text (the Leather Purse, the World
-  Scanner).
+  Tortoise, the Akarith Ambassador / the Ambassador); nicknames keep a capitalised article ("The Docker"); invented or
+  title-like names of items and abilities stay capitalised in running text (the Leather Purse, the World
+  Scanner, the Tectonic Canister, the Akarith Lexicon, "Elements/Gems of Sabarith Law"), whereas common nouns
+  stay lowercase in prose (metal detector, magnetic unlocker, UV lamp, Herculean strength) and take a capital only
+  as role-sheet ability headings. Bare "orb(s)" is lowercase in EN running text and headings, including "Loyd
+  Georges' orb"; the capital is kept only inside names (Divine Orb(s), the Three Divine Orbs, Spiritual Orb,
+  Alpha/Beta/Gamma Orb).
 - Ranks and offices take a capital before a personal name (Archdeacon Menelas,
   Judicator Praeves, Captain Rodimir, Prof. Voluto) and are lowercase when
   generic or descriptive (the patriarch of Ghek, a consul, tabellions as a
@@ -201,7 +205,7 @@ Shared Pangea universe terms
    * - disparition inquiétante / signalement pour disparition inquiétante
      - suspicious disappearance / missing person report
      - Police term (Mindstorm radio spot and GM manual, Cromlech Reporter); never "worrying disappearance".
-   * - Elixir Berserk
+   * - Élixir Berserk
      - Berserk Elixir
      - Combat drug appearing in several games.
    * - Ère Tectonne / ère tectonne / prétectonne
@@ -259,8 +263,8 @@ Shared Pangea universe terms
      - Nazur / the Temple of Nazur
      - Lost heretic city; verbatim.
    * - Orbe / Orbe Divin / Trois Orbes Divins
-     - Orb / Divine Orb / the Three Divine Orbs
-     - Core lore; "it" in EN.
+     - orb / Divine Orb / the Three Divine Orbs
+     - Core lore; "it" in EN. Bare "orb(s)" lowercase ("the orbs", "Loyd Georges' orb"), capital only in Divine Orb(s), Spiritual Orb, Alpha/Beta/Gamma Orb.
    * - Pangéa / Pangée / pangéen(ne)
      - Pangea / Pangean
      - The world; no accent in EN.
@@ -719,7 +723,7 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - élémentaire de feu
      - fire elemental
      - Druid's spell.
-   * - Elixir Flexifiant
+   * - Élixir Flexifiant
      - Flexifying Elixir
      - Sub-recipe.
    * - Encens prophétique / cône d'encens / fontaine d'encens
@@ -1280,15 +1284,18 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - Potion d'invulnérabilité
      - Potion of Invulnerability
      - Alchemist recipe.
-   * - Potion de Charme et de Focus / Philtre de Focus (Potion de Focus) / Potion de Charme
+   * - Potion de Charme et de Focus / Potion de Focus / Potion de Charme
      - Potions of Charm and of Focus / Potion of Focus / Potion of Charm
-     - Exorcist support potions (diakon_exorcist_role, GM manual). "Philtre" is unified to "Potion".
+     - Exorcist support potions (diakon_exorcist_role, GM manual). The former "Philtre de Focus" of the Exorcist ritual is now "Potion de Focus" in FR too.
    * - Potion de Délieur de Langue
      - Tongue-Loosening Potion
      - Base of Potion of Authority.
    * - Potion de pestilence
      - Pestilence Potion
      - Alchemist recipe.
+   * - Potion de vapeur de Thorium / vapeur de Thorium
+     - Thorium vapour potion / Thorium vapour
+     - Archives alchemy (checklist, Pyrolitis recipe clue): "vapour", never "steam".
    * - Potion de vieillissement accéléré / Potion de venin de serpent
      - Accelerated Ageing Potion / Snake Venom Potion
      - Enclosure-rupture ingredients.
@@ -1930,9 +1937,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Concile akarite (Grand Concile)
      - Akarith council (great council)
      - A one-off religious council, not a standing institution: lowercase in running text ("the Akarith council", "the great council", "this council"); capitals only where the FR title capitalises (appointment title "Hearings of the Akarith Great Council").
-   * - Confrérie des Obérons / Obéron / obéron (adj.)
-     - Brotherhood of the Oberons / Oberon / Oberon (adj.)
-     - Faction.
+   * - Confrérie des Obérons / obéron (nom et adj.)
+     - Brotherhood of the Oberons / Oberon (noun and adj.)
+     - Faction. FR: lowercase noun and adjective in running text ("les obérons", "le médiateur obéron"), capital only in the faction name "Confrérie des Obérons", in headings/titles and signatures; EN keeps "Oberon(s)" capitalised.
    * - Connaissance des Poisons
      - Knowledge of Poisons
      - Specific ability.
@@ -2056,7 +2063,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Elezie
      - Elezie
      - NPC blackmailer; verbatim.
-   * - Elixir Berserk / Elixir militaire Berserk / Elixir salvateur Berserk
+   * - Élixir Berserk / Élixir militaire Berserk / Élixir salvateur Berserk
      - Berserk Elixir / Berserk Military Elixir / Berserk Life-saving Elixir
      - Mechanic/item.
    * - Elus des Yods / Fils Elu des Yods
@@ -2600,8 +2607,8 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Banking operations
      - Anthropia mechanic.
    * - Orbe (Orbes Divins, saint orbe, orbe sacré) / L'orbe de Loyd Georges
-     - Orb (Divine Orbs, sacred orb) / Loyd Georges' Orb
-     - Core lore. Only "Divine Orb(s)" is a capitalised proper name; "saint orbe" and "orbe sacré" are both "sacred orb", lowercase (even FR "Orbe Sacré Akarite" = "Akarith sacred orb"). Never "holy orb".
+     - orb (Divine Orbs, sacred orb) / Loyd Georges' orb
+     - Core lore. Bare "orb(s)" is lowercase everywhere in EN, headings included ("Loyd Georges' orb", "the orbs"); only "Divine Orb(s)", "Spiritual Orb" and "Alpha/Beta/Gamma Orb" are capitalised names; "saint orbe" and "orbe sacré" are both "sacred orb", lowercase (even FR "Orbe Sacré Akarite" = "Akarith sacred orb"). Never "holy orb".
    * - ordre des judicateurs (akarites)
      - Order of the (Akarith) Judicators
      - The Akarith politico-religious order as a named body (yodic_council_interviews, malachite.anteauction.standalone): capital "Order", with the article; "Akarith" only where the FR has "akarites". Plain "les judicateurs" = "the Judicators".
@@ -2800,9 +2807,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Rodok
      - Rodok
      - LG's adventurer friend (symbol lg_adventurer_friend_name).
-   * - Royaume de Subael
+   * - Royaume de Suabel
      - Kingdom of Suabel
-     - locations.yaml key is Kingdom_of_Suabel; use "Suabel".
+     - locations.yaml key is Kingdom_of_Suabel; use "Suabel" (the former FR spelling "Subael" was a typo).
    * - rubrique des chiens écrasés
      - miscellaneous news pages
      - Topaz standalone; the idiom, not "crushed dogs".
@@ -4094,7 +4101,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
    * - église monothéiste / temple néopaïen
      - monotheistic church / neo-pagan temple
      - Historical summary.
-   * - Elixir Berserk / Quête de l'Elixir Berserk / Recette
+   * - Élixir Berserk / Quête de l'Élixir Berserk / Recette
      - Berserk Elixir / The Berserk Elixir Quest / Recipe
      - Ranger's personal quest (also exists in Mindstorm).
    * - Émile le tanneur
