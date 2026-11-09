@@ -19,7 +19,7 @@ Il annonce ensuite d’un ton grave et menaçant, que Loyd Georges a été agres
 
 Il prévient que le manoir et le parc sont remplis de policiers (ce qui est vrai), et qu'il va mettre chacun des invités (qui, il le sent, ont bien des délits à leur actif) à contribution pour résoudre ce crime. Son objectif réel est bien sûr de retrouver la trace des orbes, à commencer par celle qui fut ramenée d'Akarie par Loyd Georges.
 
-L’inspecteur commence alors une série d’interrogatoires intenses avec chaque invité (ou parfois, des paires d’invités). Son but est d'obtenir, de fil en anguille, de plus en plus d’informations non seulement sur leurs emplois du temps récents (qu'il connait déjà en partie), mais aussi sur leurs larcins passés, et leurs liens avec les services secrets des différents états.
+L’inspecteur commence alors une série d’interrogatoires intenses avec chaque invité (ou parfois, des paires d’invités). Son but est d'obtenir, de fil en aiguille, de plus en plus d’informations non seulement sur leurs emplois du temps récents (qu'il connait déjà en partie), mais aussi sur leurs larcins passés, et leurs liens avec les services secrets des différents états.
 
 C'est donc un jeu de dupes pour l’inspecteur, durant lequel il doit tenter de soutirer, sous prétexte d’enquête criminelle, un maximum d’informations aux invités, tout en retardant par tous moyens leur progression vers la vérité sur ce meurtre. Et plus il obtient d’informations compromettantes de la part de quelqu’un, plus il peut mettre la pression sur les autres (jusqu'à des "mises en examen"), et ainsi obtenir des indices pour sa véritable mission d’espionnage fanatique.
 

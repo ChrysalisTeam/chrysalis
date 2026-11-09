@@ -634,7 +634,7 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
 
 - Shark: "de fil en anguille" (players/shark_misc_instructions_fr.rst:22).
   => Deliberate pun on "de fil en aiguille", or typo? (If deliberate, the EN loses it.)
-  => DONE (cba1e14..b794ef8): deliberate fish pun kept in FR (the inspector is "Shark"); EN :22 now keeps a wink: "His aim is to fish out, little by little, more and more information"
+  => DONE: typo, fixed to "de fil en aiguille" (author confirmed); EN :22 "His aim is to draw out, little by little, more and more information"
 
 - Phone appointments: "Lydia et Magnus se font appeler par leur gestionnaire de bien... Il s'enquiert de la santé d'Opal"
   (appointments/mentor_briefings_all_factions_{fr,en}.rst:17, EN "Lydia and Magnus"): Magnus is the couple's surname (Opal = Charles Magnus,

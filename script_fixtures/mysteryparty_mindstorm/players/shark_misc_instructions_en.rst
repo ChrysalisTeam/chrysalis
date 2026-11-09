@@ -19,7 +19,7 @@ He then announces, in a grave and menacing tone, that Loyd Georges has been atta
 
 He warns that the manor and grounds are full of police officers (which is true), and that he is going to put each of the guests (who, he can feel, have plenty of offences to their name) to work solving this crime. His real objective is of course to find the trail of the orbs, starting with the one Loyd Georges brought back from Akaris.
 
-The inspector then begins a series of intense interrogations with each guest (or sometimes, pairs of guests). His aim is to fish out, little by little, more and more information not only about their recent whereabouts (which he already partly knows), but also about their past misdeeds, and their links with the secret services of the various states.
+The inspector then begins a series of intense interrogations with each guest (or sometimes, pairs of guests). His aim is to draw out, little by little, more and more information not only about their recent whereabouts (which he already partly knows), but also about their past misdeeds, and their links with the secret services of the various states.
 
 It is therefore a game of bluff for the inspector, during which he must try to extract, under the pretext of a criminal investigation, as much information as possible from the guests, while delaying by all means their progress towards the truth about this murder. And the more compromising information he obtains from someone, the more pressure he can put on the others (up to and including "indictments"), and thus obtain clues for his true mission of fanatical espionage.
 
