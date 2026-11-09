@@ -133,6 +133,43 @@ def load_localized_yaml_file(yaml_file, language):
     return force_resolve_symbol_tags(load_yaml_file(yaml_file))
 
 
+def deep_merge_localized_overlay(base, overlay, path=""):
+    """
+    Merge the (partial) translated tree "overlay" into the untranslated tree "base", in place.
+
+    Every overlay key must already exist in the base, so that an obsolete overlay is detected when
+    the base data gets regenerated.
+    """
+    for key, value in overlay.items():
+        if key not in base:
+            raise KeyError("Localized overlay key %r is missing from the untranslated data" % (path + str(key)))
+        if isinstance(value, dict):
+            if not isinstance(base[key], dict):
+                raise TypeError("Localized overlay key %r is a mapping but the untranslated data is not" % (path + str(key)))
+            deep_merge_localized_overlay(base[key], value, path=path + str(key) + ".")
+        else:
+            base[key] = value
+    return base
+
+
+def load_yaml_with_localized_overlay(yaml_file, language):
+    """
+    Load the untranslated (French) "<name>.yaml", then deep-merge the partial translation "<name>_<language>.yaml"
+    over it, if it exists (typically for the game data dump, where only the subtrees rendered in sheets are translated).
+
+    Symbol tags of both files are resolved without registration, as in load_localized_yaml_file().
+    """
+    data = force_resolve_symbol_tags(load_yaml_file(yaml_file))
+    localized_yaml_file = localize_source_filename(yaml_file, language)
+    if localized_yaml_file != yaml_file:
+        if os.path.exists(localized_yaml_file):
+            overlay = force_resolve_symbol_tags(load_yaml_file(localized_yaml_file))
+            deep_merge_localized_overlay(data, overlay)
+        else:
+            print("!!! No translated overlay %s found, using untranslated data" % localized_yaml_file)
+    return data
+
+
 def load_rst_file(rst_file):
     with open(rst_file, "r", encoding="utf8") as f:
         data = f.read()

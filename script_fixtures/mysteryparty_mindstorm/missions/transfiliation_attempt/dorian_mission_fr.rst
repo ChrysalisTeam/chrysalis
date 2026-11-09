@@ -29,12 +29,12 @@ Notez que l'issue de tout ceci dépendra aussi des autres orateurs qui témoigne
 Résumés Doctrinaux
 ++++++++++++++++++++++
 
-{{static_pages.yodic_theology.content|replace('=', '-')|replace('#', '+')|replace('image::', 'brokenimage')|replace('**Un ', '.. ')|replace('[BR]', '')}}
+{{static_pages.yodic_theology.content|strip_pychronia_page_markup}}
 
 Citations Yodiques
 ++++++++++++++++++++
 
-{{static_pages.yodic_quotes.content|replace('=', '-')|replace('#', '+')|replace('image::', 'brokenimage')|replace('**Un ', '.. ')|replace('[BR]', '')}}
+{{static_pages.yodic_quotes.content|strip_pychronia_page_markup}}
 
 {% endmacro %}
 

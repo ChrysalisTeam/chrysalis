@@ -38,7 +38,7 @@ Here again, the Archdeacon must react to the answers received, and give an outlo
 
 [BR]
 
-{{static_pages.yodic_quotes.content|replace('=', '-')|replace('#', '+')|replace('image::', 'brokenimage')|replace('**Un ', '.. ')|replace('[BR]', '')}}
+{{static_pages.yodic_quotes.content|strip_pychronia_page_markup}}
 
 [BR]
 

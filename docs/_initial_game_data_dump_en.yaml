@@ -1,0 +1,446 @@
+# English OVERLAY for _initial_game_data_dump.yaml (which only exists in French).
+#
+# It holds ONLY the subtrees whose texts end up in the English Mindstorm PDFs (official roles and guest
+# descriptions, players' extra goods and secret questions, manor surveillance reports, auctioned lots,
+# Yodic quotes/theology static pages), and is deep-merged over the French dump by
+# rpg_sheet_generator.load_yaml_with_localized_overlay(): every key here MUST exist in the French dump
+# (the build fails otherwise, to catch drift when the dump is regenerated), and Jinja placeholders like
+# {{character_properties.opal.official_name}} must be kept as they are.
+
+character_properties:
+  amethyst:
+    official_role: "Curator at the museum of ancient history of Ouram (Lordania)"
+    extra_goods: "Certified currency: 1000 Sabarith Pounds"
+  bishop.baazel:
+    official_role: "The guide of one of the 7 Akarith clans"
+    secret_question: "Jubilation and transcendence"
+  cynthia:
+    official_role: "Young international journalist, originally from Sabarim"
+    secret_question: "Where we kissed for the first time."
+  emilos.loakim:
+    official_role: "Brilliant sexagenarian archaeologist from Alifir"
+    secret_question: "Maiden name of my beloved."
+  emogladys:
+    official_role: "Ordinary civilian"
+  garnet:
+    official_role: "Wealthy collector from Ouram (Lordania) seeking Akarith antiquities"
+    extra_goods: "Certified currency: 1000 Sabarith Pounds"
+  loyd.georges:
+    official_role: "Sexagenarian man of independent means, keen on archaeology, living in Salima"
+    secret_question: "The name of my first pet."
+  lydia:
+    official_role: "Sabarith politician, candidate for the office of consul of Alifir"
+    extra_goods: "Certified currency: 1000 Sabarith Pounds"
+  malachite:
+    official_role: "Curator of the archaeological museum of Mastden (Masslavia) and expert in the history of Yodism"
+    extra_goods: "Certified currency: 1000 Sabarith Pounds"
+  obsidian:
+    official_role: "Sabarith deputy police officer"
+  opal:
+    official_role: "Wealthy Lordanian, native of Baynon, lover of fine antiquities and gemstones"
+    extra_goods: "Certified currency: 1000 Sabarith Pounds"
+  peridot:
+    official_role: "Owner of a jewellery shop in Nimouk (Dorian Dukedom), looking for bargains"
+    extra_goods: "Certified currency: 1000 Sabarith Pounds"
+  shark:
+    official_name: "Inspector Shark"
+    official_role: "Sabarith police inspector, recently out of retirement"
+    secret_question: "My faithful companion."
+  spinel:
+    official_role: "Raw materials trader for the jewellers of Mastden (Masslavia)"
+    extra_goods: "Certified currency: 1000 Sabarith Pounds"
+  topaz:
+    official_role: "Prospector commissioned by wealthy collectors of Nimouk (Dorian Dukedom)"
+    extra_goods: "Certified currency: 1000 Sabarith Pounds"
+  waden:
+    official_role: "Young Sabarith researcher in quantum physics"
+    extra_goods: "Certified currency: 1000 Sabarith Pounds"
+
+abilities:
+  house_reports:
+    settings:
+      reports:
+        08h-10h:
+          surveillance_analysis: |-
+            Usual waking-up and breakfast routine of Loyd Georges and his servants. A delivery man brings food bags to the pantry, around 9:15 am. At 9:30 am, Loyd Georges receives a landline phone call, then goes to the back door of the manor. He comes back 5 minutes later with a parcel under his arm. The surveillance cameras are paused for 10 minutes from the terminal. When they automatically reactivate, Loyd Georges is putting the thick book named *Venture Prins* back in the library. Then he goes to work in his study.
+          gamemaster_hints: |-
+            The parcel contains the Panorbium Fortuna sent by Emilos Loakim from Keroskia.
+        10h-12h:
+          surveillance_analysis: |-
+            Inspector Shark arrives at 10 am, and holds a 15-minute meeting with Rydji and Alphonse, in the dining room. He then talks with Loyd Georges in the study. At 10:45 am, {{character_properties.opal.official_name}} comes down to the lounge and talks with Rydji. The cook arrives at 10:55 am, then gets busy in the kitchen.
+
+            Shortly afterwards, {{character_properties.opal.official_name}} settles down for a long while at the computer station of the library, whose door he closes.
+
+            At 11 am, {{character_properties.amethyst.official_name}} arrives at the manor, and goes to talk with Loyd Georges, while Inspector Shark stays in the sir's bedroom. This guest offers a bottle to his host, and is shown out by Rydji around 11:45 am. Loyd Georges then joins Inspector Shark in the bedroom. The cook comes by to pick up the bottle at 11:55 am.
+          gamemaster_hints: |-
+            The bottle is a digestive liqueur, sealed, and not consumed immediately.
+        12h-14h:
+          surveillance_analysis: |-
+            At 12:05 pm, meeting of Loyd Georges with {{character_properties.malachite.official_name}}, who offers some delicacies. Inspector Shark stays in the bedroom.
+
+            From 12:10 pm, no more recording available, cameras deactivated from the terminal.
+          gamemaster_hints: |-
+            The delicacies: they are tropical nuts, {{character_properties.malachite.official_name}} eats some too.
+
+            It is {{character_properties.amethyst.official_name}} who retraced his steps well before, to deactivate the cameras, and went off to explore the collection on the 1st floor.
+
+            Rydji leaves for town at 12:15 pm, after informing Alphonse.
+
+            Alphonse walks {{character_properties.malachite.official_name}} back to the door of the manor (not of the grounds) at 12:30 pm.
+
+            At 12:45 pm, {{character_properties.amethyst.official_name}} and {{character_properties.malachite.official_name}}, who are searching the building, unintentionally run into each other in the pantry, and flee the manor.
+
+            From 1:15 pm, lunch of Loyd Georges with Inspector Shark and {{character_properties.opal.official_name}}: aperitif of tropical nuts and liqueur, then a meal of cod gratin with chanterelles. The service is done by Alphonse.
+        14h-16h:
+          surveillance_analysis: |-
+            The cameras are reactivated from the terminal at 2:20 pm.
+
+            The cook finishes eating with Alphonse at 2:30 pm, then puts on gardener's clothes and goes out through the back door.
+
+            At 2:45 pm, {{character_properties.opal.official_name}} puts on his coat and leaves the manor.
+
+            At 3 pm, meeting of Loyd Georges with {{character_properties.peridot.official_name}} and {{character_properties.topaz.official_name}}. Inspector Shark stays in the bedroom. The two guests are shown out by Rydji at 3:55 pm.
+
+            Loyd Georges chats a little with Inspector Shark, then goes to doze off in an armchair of the library.
+          gamemaster_hints: |-
+            It is Rydji, back from town, who reactivates the cameras.
+
+            Bedou was fed by the cook with the leftovers, around 2 pm.
+
+            {{character_properties.peridot.official_name}} and {{character_properties.topaz.official_name}} introduce themselves as two friends.
+        16h-18h:
+          surveillance_analysis: |-
+            {{character_properties.spinel.official_name}} arrives at the manor at 4 pm, and waits in the dining room.
+
+            At 4:05 pm, Inspector Shark goes to the kitchen, and talks there with the cook who has just gone back to his stoves. At one point, he pulls a pouch out of his jacket, and steps out of the camera's field of view. Then he goes back up to Loyd Georges' bedroom.
+
+            At 4:20 pm, Loyd Georges wakes from the nap he was taking in a library armchair, and receives his guest in the study.
+
+            At 4:30 pm, {{character_properties.garnet.official_name}} arrives at the manor, and waits in the library.
+
+            A scene takes place, and {{character_properties.spinel.official_name}} hastily leaves the manor, shown out by Rydji.
+
+            Loyd Georges then receives {{character_properties.garnet.official_name}} in the study, at 4:35 pm.
+
+            Shortly before 6 pm, Alphonse brings him a glass filled with liquid.
+          gamemaster_hints: |-
+            Inspector Shark went to replace the bay leaves with oleander at that moment, in the kitchen. He pretended to question the cook about the attempted burglaries of the manor.
+        18h-20h:
+          surveillance_analysis: |-
+            At 6:10 pm, Loyd Georges ends the meeting with {{character_properties.garnet.official_name}}, and goes off to his bedroom.
+
+            Rydji shows {{character_properties.garnet.official_name}} out, and in the great hall calls out to Alphonse, who was putting on his coat. {{character_properties.garnet.official_name}} searches his pockets, then heads back towards the small hall.
+
+            A few minutes later, Alphonse leaves the manor, then Rydji goes to fetch {{character_properties.garnet.official_name}} to escort him off the premises.
+
+            At 6:30 pm, the inspector comes out of Loyd Georges' bedroom and leaves the manor.
+
+            At 7 pm, the cook leaves in turn, after feeding Bedou.
+
+            At 7:30 pm, Loyd Georges dines with Rydji, the two of them eating different dishes. Loyd Georges does not seem to enjoy his dish.
+          gamemaster_hints: |-
+            {{character_properties.garnet.official_name}} took advantage of a moment alone to program the deactivation of the manor's security, for late in the evening.
+
+            Officially, the inspector left to report to his superiors.
+
+            The dinner menu: veal blanquette with bay leaves.
+            Loyd Georges eats little but drinks a lot, rails against the cook for having over-spiced the dish, says he has a slight stomach ache and seems somewhat short of breath.
+        20h-22h:
+          surveillance_analysis: |-
+            From 8 pm, Loyd Georges has tea on a sofa of the dining room, with Rydji.
+            He goes up to his bedroom with difficulty around 9 pm.
+            At 9:30 pm, {{character_properties.opal.official_name}} returns to the manor, talks with Rydji, then goes off to his bedroom.
+        22h-24h:
+          surveillance_analysis: |-
+            At 10:05 pm, the library camera is blinded by a strong light.
+
+            At 10:10 pm, the study door opens slightly, and it is this camera's turn to be put out of action by blinding.
+
+            At 10:20 pm, Alphonse comes back into the great hall, dishevelled, and goes to his room.
+
+            At 10:29 pm, the cameras of the study and then of the library regain their sight.
+
+            At 10:30 pm, the lights of the whole manor come on. Rydji crosses the great hall in pyjamas. Alphonse does the same shortly after. They go to Loyd Georges' bedroom.
+
+            At 11 pm, paramedics arrive at the manor, and leave with Loyd Georges on a stretcher, under the eyes of the two servants. Rydji goes to the bedroom of {{character_properties.opal.official_name}}, and comes out a few minutes later.
+
+            At 11:30 pm, Inspector Shark turns up with police officers, who spread out through the manor.
+
+            At 11:50 pm, the surveillance system shuts down, following the removal of its recording reels.
+          gamemaster_hints: |-
+            Alphonse had gone partying in a gambling den of Salima.
+
+            It is {{character_properties.garnet.official_name}} who sneaked into the manor, as far as Loyd Georges' study.
+
+            When Loyd Georges' bell rings, the butler goes up and finds him passed out in the middle of his bedroom, with some disorder due to his agitation.
+
+            Loyd Georges is taken away by the ambulance, and put in intensive care at the hospital of Salima.
+
+            Rydji could not wake {{character_properties.opal.official_name}}, who was sleeping too deeply in his bedroom because of his sleeping pills.
+
+game_items:
+  000_standard_diamonds_big_round:
+    title: "Big round diamonds"
+    comments: "Standard quality gems."
+  000_standard_diamonds_medium_rectangle:
+    title: "Medium rectangular diamonds"
+    comments: "Standard quality gems."
+  000_standard_diamonds_small_round:
+    title: "Small round diamonds"
+    comments: "Standard quality gems."
+  15_raw_diamonds:
+    title: "15 rough diamonds"
+    comments: "Every shape is conceivable for these quality rough diamonds."
+  16_garnets:
+    title: "16 garnets"
+    comments: "An often underrated gem, the garnet will light up your jewellery with its blood-red hue."
+  25_sapphires:
+    title: "25 sapphires"
+    comments: "A marquise cut and a navy blue, what could be better for this flood of precious sapphires?"
+  2_huge_diamonds:
+    title: "2 exceptional diamonds"
+    comments: "Everyone stands up for the heroes of the party, diamonds that rank among the most precious in all Pangea."
+  30_raw_diamonds:
+    title: "30 small rough diamonds"
+    comments: "Sharpen your tools, these rough diamonds are just waiting to show their beauty to the whole world."
+  3_green_tourmalines:
+    title: "3 tourmalines"
+    comments: "Voluminous cabochon-polished tourmalines, which radiate their so deep and distinctive green."
+  40_tiny_emeralds:
+    title: "40 cut emeralds"
+    comments: "These small emeralds will make an adorable river of gems, for the grandest occasions."
+  46_small_gems:
+    title: "46 small cut gems"
+    comments: "An unimaginable diversity of shapes and colours, for this assortment of gems with many uses."
+  5_diamonds:
+    title: "5 diamonds"
+    comments: "A classic round cut is in order for these high-value diamonds."
+  5_tanzanites:
+    title: "5 tanzanites"
+    comments: "Cabochon-polished, these tanzanites with a mesmerising texture will impress you with their weight."
+  6_different_gems_case:
+    title: "6 exceptional diamonds"
+    comments: "Hats off to these extremely rare specimens of the most precious stones in existence."
+  6_sapphire_gems:
+    title: "6 exceptional sapphires"
+    comments: "These sapphires, exceptional in size and quality, will delight the highest personages of the universe."
+  7_aquamarines:
+    title: "7 aquamarines"
+    comments: "A dazzling glow and an oval cut, these aquamarines could not dream of better to shine before their beholders."
+  7_rubies:
+    title: "7 unpolished rubies"
+    comments: "These precious glowing gems, marquise-cut but unpolished, will lend themselves to all kinds of finishes."
+  7_smoky_quartzes:
+    title: "7 smoky quartzes"
+    comments: "These oval quartzes will go nicely with a sober but distinguished style."
+  7_topazes:
+    title: "7 topazes"
+    comments: "These princess-cut topazes will seduce you with the depth of their slightly turquoise hue."
+  8_amethysts:
+    title: "8 amethysts"
+    comments: "Endowed with a soft purplish transparency, these oval-cut amethysts will fill their owner with joy."
+  8_citrines:
+    title: "8 citrines"
+    comments: "Their lemony hue, their quality and their oval cut make these citrines a more than enticing product."
+  8_colored_diamonds:
+    title: "8 exceptional diamonds"
+    comments: "Find all the colours of the rainbow in this exceptional lot of diamonds."
+  8_emeralds:
+    title: "8 emeralds"
+    comments: "Fall for these oval emeralds, and their soft green hue."
+  amphora:
+    title: "Beautiful Antique Amphora"
+    comments: "An unusual piece from the Temple of Nazur."
+  antic_chest:
+    title: "Restored Antique Casket"
+    comments: "This casket, found full of rust and mud in a corner of the Temple of Nazur, has been stripped so that it can be used again."
+  band_emerald:
+    title: "Emerald Ring"
+    comments: "A ring set with a magnificent emerald."
+  band_ruby:
+    title: "Ruby Ring"
+    comments: "A ring set with a magnificent ruby."
+  band_topaz:
+    title: "Topaz Ring"
+    comments: "A ring set with a magnificent topaz."
+  basket_bottle:
+    title: "Tectonic Canister"
+    comments: "Large demijohn used by the inhabitants of the buried temple. Original condition."
+  black_outdoor_lamp:
+    title: "Storm Lantern"
+    comments: "Works even under water."
+  brass_key:
+    title: "Copper Key"
+    comments: "It bears a discreet inscription: XN608."
+  classy_lamp:
+    title: "Magnificent Lamp"
+    comments: "A one-of-a-kind model."
+  diving_equipment:
+    title: "Three diving suits"
+    comments: "F.R.O.G.S-type commando diving suits, without any emission of air bubbles."
+  dog_skull:
+    title: "Dog Skull"
+    comments: "Canine skull found in the buried temple. Original condition."
+  goat_skull:
+    title: "Goat Skull"
+    comments: "Goat skull found in the buried temple. Original condition."
+  gold_bar:
+    title: "Gold Ingot"
+    comments: "A (supposedly) safe investment."
+  golden_monocle:
+    title: "Gold-Plated Monocle"
+    comments: "Precious gift for precious people, in gold-plated silver."
+  heart_shaped_diamond:
+    title: "Heart-Shaped Diamond"
+    comments: "A gift like no other"
+  horned_statue:
+    title: "Horned Statue"
+    comments: "An enigmatic statue from the Temple of Nazur."
+  midolian_katana:
+    title: "Midolian Katana"
+    comments: "Katana found in the buried temple. It was by mistake fully de-rusted, re-sharpened and disinfected. Very fashionable on the wall of your living room."
+  pierced_coins:
+    title: "Pierced Coins"
+    comments: "Of archaeological as well as monetary value."
+  pocket_clock:
+    title: "Dubious pocket watch"
+    comments: "Specimen coming from a police search."
+  rounded_grating:
+    title: "Rusty Grate"
+    comments: "Well grate, rusty, found hanging on a wall of the buried temple. Original condition. Presence of runic inscriptions, not yet translated."
+  rusty_chest:
+    title: "Rusty Antique Chest"
+    comments: "From the Underground Temple of Nazur. Original condition."
+  rusty_propeller:
+    title: "Rusty Propeller"
+    comments: "From the Underground Temple of Nazur."
+  rusty_wheel:
+    title: "Rusty Antique Bar"
+    comments: "From the Underground Temple of Nazur."
+  sacred_book:
+    title: "Sacred Yodic Book"
+    comments: "Book in Akarith runes, discovered in the sanctuary of Nazur."
+  scrolls_rolled:
+    title: "Rolled Scrolls"
+    comments: "Undetermined origin."
+  small_leather_bag:
+    title: "Leather Purse"
+    comments: "Rather worn. A very common accessory on Pangea. Contains powdery deposits."
+  stone_lantern:
+    title: "Stone Lantern"
+    comments: "Found at the bottom of a well in the buried temple. Original condition. Presence of runic inscriptions, not yet translated."
+  strange_statue:
+    title: "Clay Statuette"
+    comments: "Manufactured goods, mass-imported from Keroskia."
+  three_eyes_skull:
+    title: "Three-Eyed Bust"
+    comments: "Stone bust, found in the buried temple. Original condition."
+  vase_stone:
+    title: "Stone Basin"
+    comments: "Furniture of the Temple of Nazur. Original condition."
+  void_scroll:
+    title: "Akarith Scroll"
+    comments: "Visibly unused scroll, found in a small case of used scrolls, in the buried temple. Original condition."
+  wooden_barrel:
+    title: "Wooden Keg"
+    comments: "Undetermined origin."
+  wooden_box:
+    title: "Wooden crate"
+    comments: "A crate with hidden contents."
+  wooden_box2:
+    title: "Wooden crate"
+    comments: "A crate with hidden contents."
+  wooden_box3:
+    title: "Wooden crate"
+    comments: "A crate with hidden contents."
+  wooden_cane:
+    title: "Distinguished Cane"
+    comments: "A one-of-a-kind model."
+  yodic_candle:
+    title: "Yodic Candle"
+    comments: "Precious witness of secret Yodic celebrations of the Tectonic Era, in the buried temple. Original condition."
+
+static_pages:
+  yodic_quotes:
+    content: |
+
+      **A few famous quotations, from various Yodic denominations and figures.**
+
+      1. What perfume is more pleasing to the nostrils of the Yods than that of a filial spirit, broken and crushed? *Hayo Li*
+
+      2. O Yod be my witness, this era will hardly end before Akaris the Glorious imposes respect for thy Holy Name on all the irredeemable bathar nations. *Prophet Ysotop*
+
+      3. The diletion of the Yods sets ablaze every faithful who devotes his life to the recovery of the sacred orbs. *Master Subal' Tern*
+
+      4. O thou who seekest the Yods, make no mistake: obedience, mortification and contemplation are the only three jewels that will win thee their graces. *Hermit Seulomond*
+
+      5. Nothing is impossible to the Yods, except going against their own will. *Yodic Holy Book*
+
+      6. Jubilation is to transcendence what immanence is to piety, that is to say the anamnesis of an entelechy through the intercession of Yodic grace. *Diakon Hermes Tick*
+
+      [BR]
+
+      **An Akarith archbishop:**
+
+      .. image:: [GAME_THUMBNAIL_URL "images/portraits/archbishop_portrait.png" "big_width"]
+          :align: center
+    gamemaster_hints: |-
+      **Opinion of the Akarith Judicators on these quotations:**
+
+      1. Off topic, as it concerns the faithful already won over to the Yods
+      2. Heretical, as it speaks of "Yod" as a personal first name, and denies any possible transfiliation
+      3. Orthodox, as it calls for the quest for the orbs
+      4. Heretical, as it denies the importance of the quest for the orbs
+      5. Orthodox, as it opens up the possibility of transfiliation
+      6. Off topic, and incomprehensible
+  yodic_theology:
+    content: |
+
+      These doctrines are part of the immense tree of concepts which animate and divide the various Yodic denominations, each one sorting out what it considers "orthodox" (true, good, faithful to the dogma) from what it considers "heretical" (perverse, fallacious, contrary to the dogma).
+
+
+      Transfiliation
+      ======================
+
+      This theological notion was decisive in the schism between the faithful of Sul'Taran and those of Sul'Razul (two gurus of the Tectonic Era).
+
+      Indeed, the former thought that the bathars, that is to say the humans who are not part of the holy lineage descending directly from the Yods, could, through their piety and their efforts, "return to grace" with the deities, and also gain access to the Cosmic Empire, at the end of time; but the latter violently opposed this doctrine, regarding as a horrible heresy the idea that the Yods could "deny themselves" by accepting among them beings considered to be descended from unnatural unions with animals.
+
+      Although present-day Akaris remains mostly marked by Taranite theology, the caste of the Judicators has cautiously begun to put the question of transfiliation back on the table, under the name of "unexplored theological hypothesis". No doubt with the aim of being able, in time, to gather a flock among foreign populations.
+
+
+      Polymony
+      ====================
+
+      Very early on, the Yodic religion set itself apart from all the surrounding religions, by violently rejecting both monotheism (belief in a single god) and polytheism (belief in a pantheon of deities, which may oppose one another).
+
+      Thus was forged the doctrine of polymony, professing the existence of an endless number of Yods, all sharing a single consciousness, memory and will. "Infinity in unity" thus became a fundamental mantra in popular piety.
+
+      Apart from a few rare heresies, cleansed by fire as soon as they appeared, this dogma has historically never been called into question among the Yodic faithful; at least until the second council of the recent caste of the Judicators, during which a strong minority current spoke out in favour of the equivalence between the plural (common noun) and singular (proper noun) appellations; in which case "praised be the Yods" could just as well be said "praised be Yod". In the end, following the fiery sermon of an archdeacon of Zorzas, this motion was unambiguously excreted, and the Judicators have never since ceased to vehemently endorse this doctrinal stance.
+
+
+      In-vivo and post-mortem eschatology
+      =========================================
+
+      All the Yodic denominations agree on the eventual restoration of the Cosmic Empire of the Yods, through the reunion of the three Divine Orbs. On the other hand, there are strong differences of opinion on how this fulfilment will come about.
+
+      Traditionally, the Yodic faithful had very much at heart to fulfil this prophecy by force, by avidly seeking the three orbs, and by multiplying military operations as soon as the wind seemed favourable.
+
+      However, an alternative theory appeared, following the collapse of the second Akarith empire. This version asserts that the myth of the orbs is purely symbolic, that it represents the struggle of every individual to return to grace with the Yods, and that the final victory of the Yods will only take place in the afterlife, after the death of the last human.
+
+      This doctrine went as far as becoming a dogma in some Yodic denominations; for instance among the faithful of Sul'mithra (another guru of the Tectonic Era), following their schism from the Razulites, and their forced exile to Beth-Asmavoth; a schism which is said to have been mainly due to power struggles.
+
+      In present-day Akaris, the controversy has remained lively, even though an edict of the Great Council played the appeasement card, by ruling that these two versions of the last things did not oppose each other, but complemented one another. In recent years, however, the Judicators have clearly tipped the balance, with their fiery speeches on the necessary imminence of the reunion of the orbs.
+
+      [BR]
+
+      **An Akarith high judicator:**
+
+      .. image:: [GAME_THUMBNAIL_URL "images/portraits/judicator_portrait.png" "big_width"]
+          :align: center
+    gamemaster_hints: |-
+      SUMMARY - for the caste of the Judicators, who made their own blend of the previous doctrines:
+
+      - polymony is a fundamental dogma (one says "the Yods" and not "Yod")
+      - eschatology is necessarily in-vivo (the three orbs must be found as soon as possible for the era of bliss to come about)
+      - transfiliation is an interesting hypothesis, to be spread among the reluctant population, in order to be able to scrape together new faithful and allies among the neighbouring peoples.

@@ -9,7 +9,7 @@ from collections import OrderedDict
 
 from mysteryparty_common_utils import export_ingame_clues_pdfs, _send_character_sheets_via_email, \
     _register_story_tags_from_clues_document, _ensure_intial_game_data_dump_is_present, build_mysteryparty_pdf, spacer, \
-    analyze_and_normalize_game_items, load_localized_rst_template
+    analyze_and_normalize_game_items, load_localized_rst_template, strip_pychronia_page_markup
 from rpg_sheet_generator import display_and_check_story_tags
 
 rpg.enter_docs_folder()
@@ -41,6 +41,7 @@ if not os.path.exists(DOCUMENTS_OUTPUT_DIR):
 
 
 jinja_env = rpg.load_jinja_environment([TEMPLATES_ROOT, TEMPLATES_COMMON], use_macro_tags=True, language=LANGUAGE)
+jinja_env.filters["strip_pychronia_page_markup"] = strip_pychronia_page_markup  # for texts of the game data dump
 
 DOCUMENT_TITLES = dict(
     fr=dict(gamemaster_manual="Maître de Jeu", common_lore="Univers du Jeu", table_of_contents="Table des Matières"),
@@ -386,7 +387,7 @@ def generate_mindstorm_sheets():
 
     all_data = dict(standalone=IS_STANDALONE)
 
-    data = rpg.load_localized_yaml_file(INITIAL_GAME_DATA_DUMP, LANGUAGE)  # no translated dump exists for now
+    data = rpg.load_yaml_with_localized_overlay(INITIAL_GAME_DATA_DUMP, LANGUAGE)  # the EN dump is a partial overlay
     all_data.update(data)  # TODO - replace that dump by source data, eventually
 
     all_data["available_anthropia_abilities"] = AVAILABLE_ANTHROPIA_ABILITIES

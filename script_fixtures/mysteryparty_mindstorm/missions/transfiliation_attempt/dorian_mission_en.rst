@@ -29,12 +29,12 @@ Note that the outcome of all this will also depend on the other speakers who wil
 Doctrinal Summaries
 ++++++++++++++++++++++
 
-{{static_pages.yodic_theology.content|replace('=', '-')|replace('#', '+')|replace('image::', 'brokenimage')|replace('**Un ', '.. ')|replace('[BR]', '')}}
+{{static_pages.yodic_theology.content|strip_pychronia_page_markup}}
 
 Yodic Quotes
 ++++++++++++++++++++
 
-{{static_pages.yodic_quotes.content|replace('=', '-')|replace('#', '+')|replace('image::', 'brokenimage')|replace('**Un ', '.. ')|replace('[BR]', '')}}
+{{static_pages.yodic_quotes.content|strip_pychronia_page_markup}}
 
 {% endmacro %}
 

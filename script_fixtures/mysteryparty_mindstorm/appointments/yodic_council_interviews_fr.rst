@@ -38,7 +38,7 @@ Là encore, l'archidiacre doit réagir aux réponses reçues, et donner des pers
 
 [BR]
 
-{{static_pages.yodic_quotes.content|replace('=', '-')|replace('#', '+')|replace('image::', 'brokenimage')|replace('**Un ', '.. ')|replace('[BR]', '')}}
+{{static_pages.yodic_quotes.content|strip_pychronia_page_markup}}
 
 [BR]
 

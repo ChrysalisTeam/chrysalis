@@ -1,5 +1,9 @@
 import textwrap, os, subprocess, sys
 import time
+import re
+import shutil
+import tempfile
+from pathlib import Path
 
 
 import rpg_sheet_generator as rpg
@@ -24,7 +28,25 @@ def analyze_and_normalize_game_items(game_items_raw, important_marker: str):
             }
             section_item_structs.append(section_item_struct)
         game_items.append((section, section_item_structs))
+    if not any(item["item_is_important"] for (_section, items) in game_items for item in items):
+        # checklists without any marker (e.g. Mindstorm) must not get ALL their items de-emphasized (italic)
+        for (_section, items) in game_items:
+            for item in items:
+                item["item_is_important"] = True
     return game_items
+
+
+def strip_pychronia_page_markup(text):
+    """
+    Make a static page of the game data dump (pychronia RST flavour) embeddable in a sheet, whatever its language:
+    drops [BR] tags, demotes section underlines, comments out image directives (their options become part of the
+    comment) and drops a bold caption paragraph which immediately precedes an image directive.
+    """
+    text = text.replace("[BR]", "")
+    text = re.sub(r"^[ \t]*\*\*[^\n]*\*\*[ \t]*\n(?:[ \t]*\n)*(?=[ \t]*\.\. image::)", "", text, flags=re.MULTILINE)
+    text = text.replace("image::", "brokenimage")
+    text = text.replace("=", "-").replace("#", "+")
+    return text
 
 
 
@@ -179,6 +201,55 @@ def _prune_page_resources(page, reader):
     page[NameObject("/Resources")] = pruned_resources  # a copy, since the original is shared by all pages
 
 
+def _find_soffice():
+    """Return the LibreOffice executable, or None if not found (then unoconv.py is used as a fallback)."""
+    candidates = [shutil.which("soffice")]
+    if sys.platform == "win32":
+        for env_var in ("ProgramFiles", "ProgramFiles(x86)", "ProgramW6432"):
+            if os.environ.get(env_var):
+                candidates.append(os.path.join(os.environ[env_var], "LibreOffice", "program", "soffice.exe"))
+    else:
+        candidates += ["/usr/bin/soffice", "/usr/lib/libreoffice/program/soffice", "/opt/libreoffice/program/soffice",
+                       "/Applications/LibreOffice.app/Contents/MacOS/soffice"]
+    for candidate in candidates:
+        if candidate and os.path.exists(candidate):
+            return candidate
+    return None
+
+
+def _export_odt_to_pdf(input_doc, output_pdf):
+    """
+    Export an ODT document to PDF with LibreOffice, WITHOUT its comments/annotations.
+
+    A private LibreOffice profile is used for the run, so that several exports can run concurrently
+    (and the job is not handed over to an already running LibreOffice instance).
+    Falls back to the bundled unoconv.py (which needs the default UNO port 2002) if no soffice is found.
+    """
+    soffice = _find_soffice()
+    if soffice is None:
+        cmd = [sys.executable, "unoconv.py", "-f", "pdf", "-o", output_pdf,
+               "-e", "ExportNotes=false", "-e", "ExportNotesInMargin=false", input_doc]
+        print(cmd)
+        subprocess.run(cmd, check=True)
+        return
+    with tempfile.TemporaryDirectory(prefix="chrysalis_libreoffice_") as tmp_dir:
+        profile_dir = os.path.join(tmp_dir, "profile")
+        out_dir = os.path.join(tmp_dir, "out")
+        os.makedirs(profile_dir)
+        os.makedirs(out_dir)
+        # JSON filter options need LibreOffice >= 7.4
+        export_filter = ('pdf:writer_pdf_Export:{"ExportNotes":{"type":"boolean","value":"false"},'
+                         '"ExportNotesInMargin":{"type":"boolean","value":"false"}}')
+        cmd = [soffice, "-env:UserInstallation=%s" % Path(profile_dir).as_uri(), "--headless", "--norestore",
+               "--nologo", "--convert-to", export_filter, "--outdir", out_dir, os.path.abspath(input_doc)]
+        print(cmd)
+        subprocess.run(cmd, check=True)
+        exported_pdf = os.path.join(out_dir, os.path.splitext(os.path.basename(input_doc))[0] + ".pdf")
+        if not os.path.exists(exported_pdf):
+            raise RuntimeError("LibreOffice did not export %s to %s" % (input_doc, exported_pdf))
+        shutil.move(exported_pdf, output_pdf)
+
+
 def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_dir, language):
     """
     Export the whole ODT document to PDF once, then split it into one PDF per clue.
@@ -194,11 +265,8 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
         if os.path.exists(filepath):
             os.remove(filepath)
 
-    cmd = [sys.executable, "unoconv.py", "-f", "pdf", "-o", full_pdf,
-           "-e", "ExportNotes=false", "-e", "ExportNotesInMargin=false", input_doc]
-    print(cmd)
     try:
-        subprocess.run(cmd, check=True)
+        _export_odt_to_pdf(input_doc, full_pdf)
         reader = PdfReader(full_pdf)
         if any(annot.get_object()["/Subtype"] == "/Text" for page in reader.pages for annot in page.get("/Annots", [])):
             raise RuntimeError("Gamemaster comments were exported to %s" % full_pdf)
