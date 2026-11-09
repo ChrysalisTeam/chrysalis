@@ -20,7 +20,7 @@ Shark empoisonne dans le même temps Loyd Georges, en s’assurant qu’il ingè
 
 Noter que l’anti-vomitif "Resorpa" que LG prend pour pallier les effets secondaires de la digoxine (voir le "MEMO" pour Robb Barrow dans les document LibreOffice), empêche la régurgitation du poison.
 
-Loyd Georges fait un malaise tard cardiaque tard dans la soirée, et est hospitalisé en secret.
+Loyd Georges fait un malaise cardiaque tard dans la soirée, et est hospitalisé en secret.
 
 Jusqu’au lendemain soir, cet incident est tenu secret par l'inspecteur, afin que la plupart des enchérisseurs viennent à la soirée sans se douter de rien.
 

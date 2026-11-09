@@ -1115,9 +1115,9 @@ Dans l’issue optimale du jeu, la malédiction de la bibliothèque est automati
 
     Préserver les grimoires légendaires (bonus des diacres ?)
 
-    La plupart des ouvrages de la bibliothèque sont des copies de livres courants, ou retrouvés depuis dan s d’autres lieux mystiques. Mais le {% symbol "Thanatologue" for "book_of_the_dead" %}, ainsi que deux ouvrages (Necronomicon? Codex Vampiris ?) ne doivent pas tomber dans les mains des impies qui vont probablement finir par trouver, à leur tour, cette bibliothèque.
+    La plupart des ouvrages de la bibliothèque sont des copies de livres courants, ou retrouvés depuis dans d’autres lieux mystiques. Mais le {% symbol "Thanatologue" for "book_of_the_dead" %}, ainsi que deux ouvrages (Necronomicon? Codex Vampiris ?) ne doivent pas tomber dans les mains des impies qui vont probablement finir par trouver, à leur tour, cette bibliothèque.
 
-    Les deux grimoires supplémentaires peuvent être trouvés grâce au *magnétisme sur une carte de la bibliothèque?, ou en soudoyant le voleur.
+    Les deux grimoires supplémentaires peuvent être trouvés grâce au *magnétisme sur une carte de la bibliothèque*, ou en soudoyant le voleur.
 
     Ils doivent être utiles aux joueurs, eux aussi, avant de pouvoir être détruits sans regrets. Ou au contraire doivent être des pièges pour les lecteurs trop audacieux...
 
@@ -1129,7 +1129,7 @@ L'orbe spirituel, le vortex abyssal (piége) et la source de savoir (don)
 
 *Ceci est une quête facultative.*
 
-Dans le domaine interdit, les joueurs peuvent trouver un plateau avec une boule à plasma éteinte au centre, désignée comme un {% symbol "orbe spirituel" for "spiritual_orb_name" %}** ; 4 emplacements sont dessinés autour de lui.
+Dans le domaine interdit, les joueurs peuvent trouver un plateau avec une boule à plasma éteinte au centre, désignée comme un {% symbol "orbe spirituel" for "spiritual_orb_name" %} ; 4 emplacements sont dessinés autour de lui.
 
 Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine epoxy :
 

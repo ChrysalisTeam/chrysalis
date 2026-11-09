@@ -15,7 +15,7 @@ Votre principal tâche est de préserver Sabarim contre les nombreuses menaces e
 =========================================================
 
 - vous soupçonnez {{character_properties.opal.official_name}} d'avoir appartenu au gang des "Loups Rouges" par le passé, gang qui a volé les cierges d'or de la duchesse de Dorie, mère du Duc actuel ; il aurait par ailleurs, par le passé, rendu service aux services secrets sabarites sous la supervision de votre collègue "Le Docker"  {% fact 'opal_was_in_red_wolves_gang' %} {% fact "opal_has_friend_in_sabarith_spies_called_the_docker" as author %}
-- d'après la presse, un certain "{{character_properties.malachite.official_name}}", a eu la jambe cassée la veille lors d'une attaque de mouflon la veille, dans l’arrière-pays désertique de Sabarim...  {% fact 'malachite_official_breaks_leg' %}
+- d'après la presse, un certain "{{character_properties.malachite.official_name}}", a eu les deux jambes cassées la veille lors d'une attaque de mouflon, dans l’arrière-pays désertique de Sabarim...  {% fact 'malachite_official_breaks_leg' %}
 
 
 <{ title_last_minute_information }/>

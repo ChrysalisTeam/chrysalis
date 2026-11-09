@@ -2,7 +2,7 @@
 La journée de l'avant-veille
 ==============================
 
-Vous aviez, il y a plusieurs semaines, porté des échantillons de tous vos traitements médicamenteux au laboratoire biochimique d'Alifir ; d'après ce que vous aviez compris, certains tests nécessitaient de faire appel à d'autres sciences scientifique. Ce soir, ils vous ont enfin rappellé, inquiets d'avoir trouvé dans vos antihistaminiques des molécules hautement "myotoxiques", autrement dit détruisant les muscles. Si vous n'aviez pas diminué vos doses journalières, à cause du climat bien moins allergène du pays de Sabarim, vous ne seriez sans doute plus de ce monde, à l'heure qu'il est.
+Vous aviez, il y a plusieurs semaines, porté des échantillons de tous vos traitements médicamenteux au laboratoire biochimique d'Alifir ; d'après ce que vous aviez compris, certains tests nécessitaient de faire appel à d'autres disciplines scientifiques. Ce soir, ils vous ont enfin rappellé, inquiets d'avoir trouvé dans vos antihistaminiques des molécules hautement "myotoxiques", autrement dit détruisant les muscles. Si vous n'aviez pas diminué vos doses journalières, à cause du climat bien moins allergène du pays de Sabarim, vous ne seriez sans doute plus de ce monde, à l'heure qu'il est.
 
 Vous êtes partagé entre la joie d'enfin comprendre, et un certain fatalisme : d'après les experts, "les dégâts sont faits", et **il ne vous reste guère que quelques années à vivre**.
 
@@ -20,7 +20,7 @@ Mais Loyd Georges doit être mis au courant de ce péril ; un péril qui existai
 ==============================
 
 
-Après une grasse matinée involontaire (aléa des cachets somnifères que vous prenez depuis des mois pour calmer vos angoisses), vous descendez vers {% symbol "10h45" for "morning_opal_wake_up_time" %}. Vous demandez à Rydji, le majordome, une entrevue avec Loyd Georges. Mais manque de chance, le sir est sur le point de débuter un marathon d'entretiens, avec chacun des participants aux enchères ; ceci manifestement sur l'incitation de l'inspecteur Shark, désormais un habitué du manoir. Il faudra donc patienter jusqu'au déjeuner. Vous occupez votre matinée à étudier quelques poisons et leurs antidotes sur le web, depuis le poste de la bibliothèque, et à tenter de retrouver la trace de vis derniers camarades d'aventure.
+Après une grasse matinée involontaire (aléa des cachets somnifères que vous prenez depuis des mois pour calmer vos angoisses), vous descendez vers {% symbol "10h45" for "morning_opal_wake_up_time" %}. Vous demandez à Rydji, le majordome, une entrevue avec Loyd Georges. Mais manque de chance, le sir est sur le point de débuter un marathon d'entretiens, avec chacun des participants aux enchères ; ceci manifestement sur l'incitation de l'inspecteur Shark, désormais un habitué du manoir. Il faudra donc patienter jusqu'au déjeuner. Vous occupez votre matinée à étudier quelques poisons et leurs antidotes sur le web, depuis le poste de la bibliothèque, et à tenter de retrouver la trace de vos derniers camarades d'aventure.
 
 Vers {% symbol "12h30" for "noon_opal_lydia_call_time" %}, vous recevez un appel de Lydia, et vous vous isolez dans votre chambre pour y répondre. Votre femme vous informe qu'elle va finalement participer à la soirée de Loyd Georges, pour y "vendre un de ses vieux terrains". Tout cela vous prend de court, mais vous promettez de demander la permission à Loyd Georges, comme il se doit.
 

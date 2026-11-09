@@ -4,7 +4,7 @@
 
 
 
-MISSION - La défense de sabarim
+MISSION - La défense de Sabarim
 =============================================
 
 *Message du chef des services secrets sabarites*
@@ -18,7 +18,7 @@ Le premier danger est extérieur : Sabarim est à la lisière de ce qui pourrait
 
 Le deuxième danger est intérieur : le peuple est excédé par la corruption et les privilèges de la classe dirigeante, par ses privilèges, par le monopole des académies sur la connaissance et la culture, par le mauvais traitement réservé aux basses classes de la population comme les "analphabètes". En ce sens, les élections consulaires en cours constituent une ultime soupape de sûreté : si le triumvirat de consuls est entièrement renouvelé, et s'engage fermement à améliorer la situation sociale, les institutions peuvent tenir bon. Dans le cas contraire, entre la légitime exaspération sociale, et les manipulations des akarites infiltrés, nous aurons certainement affaire à des révoltes populaires massives.
 
-Nous sommes légalement censés être pleinement aux ordres des consuls. Et jusqu'à ce jour, nous nous nous sommes tenus à ce rôle, même lorsque nous étions contraints à des opérations aux objectifs obscurs. Mais il est temps pour nous d'en revenir aux fondamentaux, c'est-à-dire la sécurité et l'indépendance du pays sabaraite.
+Nous sommes légalement censés être pleinement aux ordres des consuls. Et jusqu'à ce jour, nous nous nous sommes tenus à ce rôle, même lorsque nous étions contraints à des opérations aux objectifs obscurs. Mais il est temps pour nous d'en revenir aux fondamentaux, c'est-à-dire la sécurité et l'indépendance du pays sabarite.
 
 Dans le cadre de ces ventes aux enchères de Loyd Georges, vous aurez donc moult objectifs :
 
