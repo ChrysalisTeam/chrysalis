@@ -62,7 +62,7 @@ Version alternative en alexandrins (par Cyck du Clivra) :
     Mes compagnons, j’aimerais qu’aujourd’hui prenne fin
     Larme et désespoir face à un cruel destin
 
-    Eccueillons sans plus attendrE nos invités,
+    Accueillons sans plus attendre nos invités,
     Que par leur grand talent nos vœux soient exaucés
     Mon cœur voudrait y croire mais mon esprit attend
     Que nos pauvres âmes soient libérées du tourment

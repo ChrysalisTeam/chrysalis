@@ -2,10 +2,10 @@
 COMPLEMENT D'INSTRUCTIONS - DIACRES
 -----------------------------------------
 
-{% macro maupertuis_archives_quick_tour() %}
+{% macro maupertuis_archives_quick_tour(underline="~") %}
 
 Aperçu des archives secrètes des Maupertuis
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{{ underline * 55 }}
 
 Un des rares visiteurs de ce sanctuaire, du temps de sa grandeur, l'a narré ainsi :
 

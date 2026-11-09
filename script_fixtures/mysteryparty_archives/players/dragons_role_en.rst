@@ -167,17 +167,4 @@ The rest of the game unfolds normally for you, as a player; it is up to you to m
 It is up to you to decide at what point you would like to reveal your draconic origin to the Diakons, or even to everyone present - or not.
 
 
-{# DUPLICATE FIXME of maupertuis_archives_quick_tour #}
-Overview of the Maupertuis secret archives
-====================================================
-
-One of the rare visitors to this sanctuary, in the days of its greatness, described it thus:
-
-    It is a place full of mystery. As for the "authorised domain", it is mainly an immense library brimming with Knowledge.
-    There one finds an enchanted buffet that fills itself; a mass of vegetation, in a corner; and a few precious chests and briefcases of the Maupertuis family. Not to mention the cursed tomb of the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}, founder of the dynasty.
-
-    But what is really worth the detour is the "Forbidden Domain", protected by a powerful magic Seal.
-    The Beast has its stinking den there, and protects this place where the darkest grimoires of sorcery and necromancy are piled up.
-    And "etheric corridors", dead-ends that are probably trapped, shelter certain legendary jewels of the family.
-
-    Not everything there is grim, however: certain members of the family have their own little study there, and one also finds pretty alchemy, gemmology and divination workbenches. But the presence of the Thanatologue, the most taboo of all books, in its chest, is enough to cast a gloomy veil over this whole area.
+<{ maupertuis_archives_quick_tour underline="=" }/>

@@ -331,7 +331,7 @@ Octave de Maupertuis (the child)
 **If he reaches the child's nook (with toy and plush), he gives more information?**
 #}
 
-{% symbol "Master Parchemine" for "archivist_name" %} (Octave's tutor and archivist )
+{% symbol "Master Parchemine" for "archivist_name" %} (Octave's tutor and archivist)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro phantom_archivist_character_summary() %}
@@ -417,7 +417,7 @@ The Ankou (the guide of souls, the "psychopomp")
 
 - DIVINE (formerly a human phantom, but promoted by the gods)
 
-- Traits: exasperation, outspokenness, colloquial language, sarcasm, good will,
+- Traits: exasperation, outspokenness, colloquial language, sarcasm, good will
 
 - He is a dark but rather comical character, with little information to contribute but allowing dialogue to be created with the other NPC actors, and a link to be made with deceased ancestors.
 
@@ -803,7 +803,7 @@ Scheduling of prophecies and intuitions
 
 - **Initial intuition about the adventurers** (at the end of the common introduction): This intuition, about the need for players to stand together, is already in the Oracle's character sheet. {% fact "parcival_oracle_has_initial_intuition_about_adventurers_solidarity" %}
 
-- **Intuition about the Beast and the Magus** (at the Oracle's first meeting with the Duchess): *"You sense multiple wandering presences. One of them is filled with incomprehension and hatred. You also sense an ancient, sleeping one, both proud and vengeful, that seems to be calling you."*
+- **Intuition about the Beast and the Magus** (at the Oracle's first meeting with the Duchess): *"You sense multiple wandering presences. One of them is filled with incomprehension and hatred. You also sense an old sleeping soul, both proud and vengeful, that seems to be calling you."*
 
 - **Prophecy of the twin books of the Maupertuis father** (feather in the common Maupertuis chest): Simple vision, music "One Last Stand". {% hint 'feather_in_common_family_chest' is needed %}
 
@@ -1078,7 +1078,7 @@ Here is the "optimal" course of this final battle using an expulsion ritual:
 
 - In desperation, the Druid will use the {% symbol "Spectral Bell" for "table_bell_name" %} to rally the spectres and thus endanger the ritualist; the latter does not have the build to don the Arkon's {% symbol "Mithril armour" for "arkon_armor_name" %} (which contains the {% symbol "Etheric Necklace of Blessing" for "etheric_benediction_necklace_name" %}), and thus protect himself from the spectres. {% fact "druid_finally_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} It is up to the other players to push back the spectres (with said Arkon's armour, with exorcisms...), without themselves getting attacked by the Druid.
 
-- Once the ritual is complete, the Druid appears wounded; the Arkon then steps in to proclaim victory, and calls all the Diakons around him for a few final repetitions of the ritual incantation. He can break away from them at the end to proclaim: **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**, authoritatively pointing out the centre of the pentacle to his adversary. The Druid is then drawn to the pentacle and dies there (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres).
+- Once the ritual is complete, the Druid appears wounded; the Arkon then steps in to proclaim victory, and calls all the Diakons around him for a few final repetitions of the ritual incantation. He can break away from them at the end to proclaim: **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**, authoritatively pointing out the centre of the pentacle to his adversary. The Druid is then drawn to the pentacle and dies there (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres, in French).
 
 - If the Diakon abandons the ritual for any reason, the Druid may "make an example" by killing one of the players, then repeats his orders to the survivors.
 

@@ -2,10 +2,10 @@
 ADDITIONAL INSTRUCTIONS - DIAKONS
 -----------------------------------------
 
-{% macro maupertuis_archives_quick_tour() %}
+{% macro maupertuis_archives_quick_tour(underline="~") %}
 
 Overview of the Maupertuis secret archives
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{{ underline * 55 }}
 
 One of the rare visitors to this sanctuary, in the days of its greatness, described it thus:
 

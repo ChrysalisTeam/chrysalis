@@ -53,7 +53,7 @@ Back in the day, you had heard the Maupertuis speak several times of a **"Yodic 
 
 You may be sad to realise, at some point, that the Diakons belong precisely to the faith of {% symbol "Bahamoot" for "god_of_diakons" %}, the faith that had the Maupertuis manor sacked long ago.
 
-Octave had an old favourite childhood book with running animals, as an optical illusion (this is useful for the puzzle of Mérédice's {% symbol "Whispering Box" for "whispering_box" %}).
+Octave had an old favourite childhood book with running animals, as an optical illusion (a mere keepsake: unlike the French one, the English riddle of Mérédice's {% symbol "Whispering Box" for "whispering_box" %} does not rely on it).
 
 {% endmacro %}
 <{ octave_and_archivist_common_knowledge_for_sheets }/>

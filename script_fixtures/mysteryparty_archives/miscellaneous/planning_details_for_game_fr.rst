@@ -1,7 +1,7 @@
 PLANNING DETAILLÉ DU JEU
 ==============================
 
-*Planning théorique des évènements, à revalider au fur et à mesure avec le maître de jeu. Les prophéties ont leur propre planning, géré par la duchesse qui encadre le joueur Oracle.*
+*Planning théorique des évènements, à revalider au fur et à mesure avec le maître de jeu. Les prophéties ont leur propre planning, géré par la duchesse qui encadre le joueur ou la joueuse Oracle.*
 
 H-45mn : Briefing général des **figurants** (voir fiche). Visite de la bibliothèque ensemble, si possible.
 
@@ -13,7 +13,7 @@ H-10mn : Les avatars doivent être prêts à se disperser dans la bibliothèque,
 
 H-10mn : Briefing commun des **joueurs** (voir fiche).
 
-H-5mn : [Musique] Discours introductif du maitre de jeu, tous ensemble. À la fin, bien donner la parole au joueur **Parcival Oracle** pour sa **première intuition**.
+H-5mn : [Musique] Discours introductif du maître de jeu, tous ensemble. À la fin, bien donner la parole à la personne jouant **Parcival Oracle** pour sa **première intuition**.
 
 H : [Musique] Les automates de service amènent les groupes de joueurs respectivement aux 4 coins de l'étage autorisé, puis vaquent à leurs occupations. **L'automate de garde** fait une patrouille, et fait jurer aux joueurs rencontrés, par Zarathoustra, qu'ils viennent ici en paix.
 

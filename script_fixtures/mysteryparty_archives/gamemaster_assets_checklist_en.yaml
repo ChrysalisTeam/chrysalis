@@ -95,7 +95,7 @@
   - "@RECOINS-BUFFET-PENTACLE Child's phantom nook (near the jungle) {% fact 'phantom_octave_is_near_jungle' %}"
   -
     - "@EXTERNE-VALISETTE-CUIR Suitcase with a few random old clothes (be sure to remove the FABRE label from inside) ????"
-    - "Torn book with moving animals for the child's nook {% hint 'torn_child_book_with_animal_motions' is provided %} IMPORTANT"
+    - "Torn book with moving animals for the child's nook (mere decoration in the English version: only the French riddle used it)"
     - "Children's book with studded leather cover \"Extraterrestre appelle CM1\" for the child's nook"
     - "@PAPIERS Letter from Octave's parents with instructions for his dubbing IMPORTANT (put where ???)"
     - "2 old beige/marbled books in the child's suitcase"
@@ -160,7 +160,7 @@
     - "Decorations: 3 very old small leather-bound books, kaleidoscope tube, zinc mini coffee pot"
     - "Decoration: glass mini tankard, small brass jug"
     - "UV Black Light neon tube fixed inside the lid"
-    - "@ELECTRONIQUE Whispering Box fixed at the bottom of the brown chest, with the \"Blowtorch\" riddle via a black Auvisio clip MP3 player (battery) {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (POSITIVE bewitchment) IMPORTANT"
+    - "@ELECTRONIQUE Whispering Box fixed at the bottom of the brown chest, with the \"Blowtorch\" riddle via a black Auvisio clip MP3 player (battery) (TODO: record an English MP3 of the riddle, only the French recording exists) {% hint 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (POSITIVE bewitchment) IMPORTANT"
 
 -
   - "@CIMETIERE Graveyard"
@@ -248,7 +248,7 @@
     - "Large blue 'Witch's Elixir' bottle"
     - "2 red drawers protected by a MAGNETIC LOCK IMPORTANT"
     - "2 wooden spatulas"
-    - "Thorium steam potion in one of the red drawers {% hint 'potion_thorium_steam_on_alchemy_table' is provided %} IMPORTANT"
+    - "Thorium vapour potion in one of the red drawers {% hint 'potion_thorium_steam_on_alchemy_table' is provided %} IMPORTANT"
     - "Accelerated Ageing Potion {% hint 'potion_accelerated_aging' is provided %} IMPORTANT"
     - "Royal Najah Venom Potion {% hint 'potion_snake_venom' is provided %} IMPORTANT"
     - "Set of 7 large cylindrical potions, including those of Focus and of Charm, and above all a \"Potio Unicornis\" {% hint 'potion_of_unicorn' is provided %} IMPORTANT"
@@ -335,8 +335,8 @@
   - "@NICHE-BÊTE The Beast's den"
   -
     - "Brass {% symbol 'teleportation astrolabe' for 'thief_teleportation_device_name' %} in a square wooden box with an anchor symbol (POSITIVE bewitchment) {% hint 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT"
-    - "The Thief's green wallet, with micro-texts giving the cryptex code, the encrypted formula of the astrolabe, and a paper with analysis code [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] in magnetism (giving Isadora's code for the legendary chest) {% hint 'thief_paper_with_cryptex_code_as_microtext' is provided %} {% hint 'thief_teleportation_device_encrypted_formula' is provided %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT"
-    - "Sounding skull (2xAA) and 18 bones of the Thief {% hint 'thief_cursed_skeleton' is provided %} (complex NEGATIVE bewitchment) with analysis code [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
+    - "The Thief's green wallet, with micro-texts giving the cryptex code, the encrypted formula of the astrolabe (the ogham micro-text spells the French formula, accept the English one), and a paper with analysis code [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] in magnetism (giving Isadora's code for the legendary chest) {% hint 'thief_paper_with_cryptex_code_as_microtext' is provided %} {% hint 'thief_teleportation_device_encrypted_formula' is provided %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT"
+    - "Sounding skull (2xAA) and 18 bones of the Thief {% hint 'thief_cursed_skeleton' is provided %} (complex NEGATIVE bewitchment; touching it gives a SACRED injury, not a biological one, see the injury rules) with analysis code [{% symbol 'jsb' for 'analysis_code_thief_bones' %}] IMPORTANT"
     - "The Thief's {% symbol 'bottomless collection pouch' for 'thief_moneybox_name' %} {% hint 'thief_heavy_lost_moneybox' is provided %} (POSITIVE bewitchment) marked ULTRA-HEAVY IMPORTANT"
     - "The Arkon's gladius {% hint 'arkon_heavy_gladius_sword_stolen_by_thief' is provided %} with analysis code [{% symbol 'xep' for 'analysis_code_arkon_gladius' %}] marked ULTRA-HEAVY IMPORTANT"
     - "@JUNGLE A few lianas and giant leaves for the Beast's den"
@@ -366,7 +366,7 @@
     - "Code of the Maupertuis father for this legendary chest, in case the players need help: {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %}"
     - "Mérédice's brooch, found by the players if the right rockfall behind the alchemy workshop is dynamited (POSITIVE bewitchment) {% hint 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
     - "Set of gems to simulate the possible success of the Maupertuis magic mill {% hint 'jewels_set_for_grinding_mill_success' is provided %}"
-    - "Set of gems in a travel bag, to be dug out with explosives from rubble on the forbidden floor {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
+    - "Octave's travel bag with the metal tokens (see rockfall E2), to be dug out with explosives from the rubble of the authorised floor {% hint 'travel_bag_with_money_under_far_rubbles' is provided %}"
     - "Keys of the pickable transparent padlocks"
     - "Duplicate keys of the keyed padlocks"
     - "Spare lockpicking kit"

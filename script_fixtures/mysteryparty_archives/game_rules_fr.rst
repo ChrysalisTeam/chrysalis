@@ -35,7 +35,7 @@ Compétences, objets et pièges
 
 - Les compétences spéciales de votre personnage ne sont pas vos seuls atouts. Beaucoup d'actions nécessaires pour avancer dans le jeu sont accessibles à tous : chercher des objets et indices, discuter avec des figurants, résoudre des énigmes...
 
-- Le maître du jeu doit être tenu informé des compétences spéciales qui sont interactives entre personnages (comme des serments), ou des manoeuvres qui modifient l'état des objets du jeu (déminage, explosifs...).
+- Le maître de jeu doit être tenu informé des compétences spéciales qui sont interactives entre personnages (comme des serments), ou des manoeuvres qui modifient l'état des objets du jeu (déminage, explosifs...).
 
 - N'hésitez pas à prendre à part le maître de jeu durant la partie, si une règle n'est pas claire, ou pour demander si ceci ou cela est possible dans cet univers.
 

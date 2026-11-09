@@ -24,7 +24,7 @@ Lors des deux premiers livres de votre aventure, vous avez rejoint un jeune prin
 Dans le dernier tome, une fois le dernier sorcier tombé, vous avez donc trahi vos compagnons, et établi une utopie planétaire de retour à la nature, en brûlant les villes et en renvoyant les humains vivre au milieu des bois et des bêtes sauvages. Pour vous, c'est ainsi qu'il doit en être.
 
 {% macro avatar_arrival_on_earth() %}
-Cet état de fait durait depuis très longtemps, lorsque vous avez senti une présence vous appeler depuis outre-monde. Un passage s'est ouvert, et en l'empruntant, vous êtes arrivé dans une étrange bibliothèque enfouie, face à un enfant amoureux des livres.
+Cet état de fait durait depuis très longtemps, lorsque vous avez senti une présence vous appeler depuis outre-monde. Un passage s'est ouvert, et en l'empruntant, vous avez débarqué dans une étrange bibliothèque enfouie, face à un enfant amoureux des livres.
 {% endmacro %}
 <{ avatar_arrival_on_earth }/>
 

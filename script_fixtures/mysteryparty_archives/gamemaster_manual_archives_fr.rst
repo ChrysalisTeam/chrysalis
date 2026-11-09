@@ -331,7 +331,7 @@ Octave de Maupertuis (l’enfant)
 **S'il arrive au coin enfant (avec jouet et peluche) il donne davantage d’informations ?**
 #}
 
-{% symbol "Maître Parchemine" for "archivist_name" %} (le précepteur d'Octave et archiviste )
+{% symbol "Maître Parchemine" for "archivist_name" %} (le précepteur d'Octave et archiviste)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro phantom_archivist_character_summary() %}
@@ -417,7 +417,7 @@ L’Ankou (le guide des âmes, le "psychopompe")
 
 - DIVIN (anciennement fantôme humain, mais promu par les dieux)
 
-- Traits : exaspération, franc-parler, langage familier, sarcasme, bonne volonté,
+- Traits : exaspération, franc-parler, langage familier, sarcasme, bonne volonté
 
 - C’est un personnage sombre mais plutôt comique, ayant peu d’informations à apporter mais permettant de créer du dialogue avec les autres figurants, et de faire le lien avec des ancêtres défunts.
 
@@ -467,7 +467,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 {% macro avatar_druid_character_summary() %}
 
-- HEROS DE ROMAN (titre "{% symbol "Les sorciers du chaos" for "druid_novel_name" %}", en {% symbol "3" for "druid_novel_volumes" %} Tomes)
+- HÉROS DE ROMAN (titre "{% symbol "Les sorciers du chaos" for "druid_novel_name" %}", en {% symbol "3" for "druid_novel_volumes" %} Tomes)
 
 - Traits : doux, discret, érudit, ami des plantes et des bêtes
 
@@ -491,7 +491,7 @@ L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 
 {% macro avatar_inventor_character_summary() %}
 
-- HEROS DE ROMAN (titre "{% symbol "Le ballet des automates" for "avatar_inventor_novel_name" %}", en 1 seul Tome)
+- HÉROS DE ROMAN (titre "{% symbol "Le ballet des automates" for "avatar_inventor_novel_name" %}", en 1 seul Tome)
 
 - Traits : extraversion, bonnes manières, langage châtié, dynamisme
 
@@ -507,7 +507,7 @@ La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %}
 
 {% macro avatar_duchess_character_summary() %}
 
-- HEROINE DE ROMAN (titre "{% symbol "Les cygnes d'étang" for "avatar_duchess_novel_name" %}", en 1 seul Tome)
+- HÉROÏNE DE ROMAN (titre "{% symbol "Les cygnes d'étang" for "avatar_duchess_novel_name" %}", en 1 seul Tome)
 
 - Traits : distinguée, sensible, pieuse, protectrice, entreprenante
 
@@ -599,7 +599,7 @@ Un joueur peut être atteint dans les cas suivants :
 
 - S’il se fait toucher par un fantôme en phase désincarnée (en errance spectrale) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête fantôme, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
-- S’il touche une dépouille maudite, comme un crâne sonore ou les ossements qui sont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- S’il touche une dépouille maudite, comme un crâne sonore ou les ossements qui vont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
 
 - S’il déclenche un piège physique ou magique, c'est-à-dire fait tomber un **grelot** par terre (ex. fil tendu dans une allée) ou déclenche le cri d'une **cigale** à détecteur de présence (ex. en ouvrant un coffre) : **blessure biologique**.
  {% fact "cicada_or_minibell_sound_mean_injury" %}
@@ -803,7 +803,7 @@ Planification des prophéties et intuitions
 
 - **Intuition initiale sur les aventuriers** (à la fin de l'introduction commune) : Cette intuition, sur la nécessité de rester solidaires entre joueurs, est déjà dans la fiche de personnage de l'Oracle. {% fact "parcival_oracle_has_initial_intuition_about_adventurers_solidarity" %}
 
-- **Intuition sur la Bête et le Mage** (lors de la première rencontre de l'oracle avec la duchesse) : *"Vous sentez de multiples présences errantes. L'une d'elles est remplie d'incompréhension et de haine. Vous sentez aussi une vieille ancienne endormie, à la fois fière et vengeresse, qui semble vous appeler."*
+- **Intuition sur la Bête et le Mage** (lors de la première rencontre de l'oracle avec la duchesse) : *"Vous sentez de multiples présences errantes. L'une d'elles est remplie d'incompréhension et de haine. Vous sentez aussi une vieille âme endormie, à la fois fière et vengeresse, qui semble vous appeler."*
 
 - **Prophétie des livres jumeaux du père Maupertuis** (plume dans le coffre commun des Maupertuis) : Vision simple, musique "One Last Stand". {% hint 'feather_in_common_family_chest' is needed %}
 
@@ -899,7 +899,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 - L'archiviste se souvient très bien de la maladie de Mérédice de Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ce cocktail, et l'indique aux joueurs (elle est dans l'étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
-- Le {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %} demande de mélanger trois potions : l'Elixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
+- Le {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %} demande de mélanger trois potions : l'Élixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
 
 - Les deux premières potions ont leurs recettes à l'étage autorisé ; l'archiviste les avait croisées, et avait marqué au sol leur emplacement avec des **flèches blanches** (en scotch). {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %} {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %} {% fact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 
@@ -944,7 +944,7 @@ Les différents bijoux :
 
 - La broche de la mère de famille se trouve sur la **tombe d’Octave**, qui l’avait portée en souvenir après l'avoir retrouvée dans la bibliothèque ; cette broche était quasiment tout ce qui restait dans les cendres de l’enfant après la trahison, les avatars l’ont donc déposée là en signe de deuil. Cet objet doit guider les joueurs dans la compréhension de l’énigme globale. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %} {% fact "octave_carried_mother_jewel_after_her_death" %}
 
-- La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Le **détecteur de magnétisme et d'UV** donnent un code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier.
+- La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Les **détecteurs de magnétisme et d'UV** donnent un code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier.
   {% hint "maupertuis_father_jewel_in_twin_books" is needed %} {% hint "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
 
 - La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont cachés dans un SCEAU d'initiation. Il s’agissait d’une épreuve pour Octave, qui devait être capable de "sentir" la présence de l’objet magique avant d’y avoir droit. Les joueurs doivent activer le sceau, écouter le message pré-enregistré d'un automate qui leur résume l'épreuve, puis utiliser le **détecteur de métal** pour deviner le coffret qui a l’objet. Seul un héritier Maupertuis peut effectivement déclencher la résolution de cette initiation. {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% fact "only_maupertuis_heirs_can_take_initiation" %} {% hint 'maupertuis_initiation_seal' is needed %} {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}  {# FIXME plus de message enregistré ici, lettre à la place!!! #}
