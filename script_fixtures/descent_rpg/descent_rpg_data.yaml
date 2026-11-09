@@ -8,7 +8,7 @@ descent_rpg:
         - piolet en acier
         - flambeau (portée 30m, longue durée)
         - 5 géodes lumineuses (portée 1m, chaud sans flamme, étanche, dure 20mn)
-        - 1/2 brancard téléscopique
+        - 1/2 brancard télescopique
         - "kit de survie : briquet, ficelle, couteau multifonction, corde 3m, 1 ration, eau..."
         - légende akarite des "Trois Orbes Divins"
 
@@ -39,7 +39,7 @@ descent_rpg:
             abilities:
                 - "histoire, religion, légendes, et pièges akarites"
 
-                - "[A] large éducation en sciences dures (maths, physique, chimie, biologie, géologie....)"
+                - "[A] large éducation en sciences dures (maths, physique, chimie, biologie, géologie...)"
                 - "[A] météorologie analytique"
 
                 - "[B] large éducation en littérature, psychologie, sociologie, ethnologie..."

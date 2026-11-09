@@ -42,7 +42,7 @@ Contexte de l'expédition
 -------------------------
 
 **Sir Loyd Georges**, un retraité du pays de Sabarite (*style Angleterre Victorienne*) ayant mené une vie d'aventurier peu fructueuse, est au bord de la faillite. Mais grâce à ses relations de l'Académie d'Alifir, il apprend l'existence d'un ancien temple dissident, dans le **pays d'Akaris** (*une théocratie yodique fanatisée, avec une ambiance de japon médiéval*).
-Il monte donc une expédition de la dernière chance, pour rapporter les joyaux et artefacts que contient probablement sanctuaire, avant qu'il ne soit trouvé et annihilé par les chefs religieux locaux.
+Il monte donc une expédition de la dernière chance, pour rapporter les joyaux et artefacts que contient probablement le sanctuaire, avant qu'il ne soit trouvé et annihilé par les chefs religieux locaux.
 
 Profitant des mouvements de populations dus au pèlerinage annuel des fidèles yodiques, Loyd Georges et son expédition s'infiltrent en Akaris, avec un **solide camion tout-terrain**, et du matériel sophistiqué. Ils montent le camp près des ruines de **l'ancienne capitale hérétique, Nazur**, ville "maudite et vouée à l'interdit" depuis sa chute.
 Puis ils se préparent à faire sauter un flanc de colline, à la faveur d'un **violent orage** ; les autochtones (pour qui le tonnerre est "la Colère des Yods") n'oseront probablement pas mettre le nez dehors tant que l'orage durera.
@@ -66,14 +66,14 @@ Péripéties envisageables, en complément de celles présentes dans la descript
 - un cadavre d'explorateur gît dans la caverne aquifère, et on peut trouver des indices supplémentaires ou des artefacts dessus
 - un animal étrange (raie-pieuvre-caméléon terrestre...) suit discrètement les aventuriers dès leur entrée, et une fois repéré peut être apprivoisé (ou combattu)
 - un des porteurs perd la raison à cause de l'ambiance mystique du Saint des Saints, et de toutes ces richesses (réussir à le calmer)
-- en l'absence de masque à gaz, un des porteurs fait un oedème à la gorge, en réaction allergique à des moisissures du Saint des Saints (nécessité de lui faire un trachéotomie ?)
+- en l'absence de masque à gaz, un des porteurs fait un oedème à la gorge, en réaction allergique à des moisissures du Saint des Saints (nécessité de lui faire une trachéotomie ?)
 
 
 
 IMPORTANT - Briefing des joueurs
 ---------------------------------------
 
-**Exposer l'Univers de la planète Pangea.**
+**Exposer l'Univers de la planète Pangéa.**
 
 **Montrer la vidéo d'introduction** (l'éventrement de la colline à l'explosif).
 
@@ -85,7 +85,7 @@ Donner les **instructions complémentaires** ci-dessous à l'oral.
 
     Un **guetteur** sera laissé au sommet de la colline, pour surveiller les environs. Loyd Georges restera au camion avec l'opérateur télécom. Vous devrez effectuer un **point radio toutes les 20 minutes** pour indiquer votre situation.
 
-    **Deux fidèles serviteurs** de Loyd Georges (quinquagénaires dévoués, mais peu autonomes), vous accompagneront dans la grotte, principalement pour remonter, **au fur et à mesure**, les trouvailles sur un brancard (grâce au **puissant treuil multi-filins** installé en haut du puits); ils sont aux ordres du majordome (qui peut **choisir leurs noms**).
+    **Deux fidèles serviteurs** de Loyd Georges (quinquagénaires dévoués, mais peu autonomes), vous accompagneront dans la grotte, principalement pour remonter, **au fur et à mesure**, les trouvailles sur un brancard (grâce au **puissant treuil multi-filins** installé en haut du puits) ; ils sont aux ordres du majordome (qui peut **choisir leurs noms**).
 
     Votre équipe est censée être **très communicante** ; donc à partir du moment où ils sont dans la même salle, sauf instructions contraires, les personnages savent ce que les uns et les autres découvrent *(cela permet de résoudre les énigmes à plusieurs, en évitant le méta-jeu et les situations de blocage absurdes)*.
 
@@ -163,8 +163,8 @@ Gameplays communs à tout le jeu
 - les joueurs doivent se repérer dans l'espace, pour deviner où les différents passages peuvent mener vis-à-vis de la géographie extérieure, et trouver des raccourcis.
 - ils doivent faire attention à leur positionnement dans la caverne, et leur ordre de marche, qui peuvent être déterminants en cas d'attaque impromptue.
 - ils doivent penser à adapter leur équipement (masque à gaz, dispositifs d'éclairage ou de vision nocturne...) avant d'avoir des problèmes.
-- le majordome doit tirer au mieux partie des allers-retours des porteurs ; mais il doit penser à prendre en compte les avis de sécurité du baroudeur, et les recommandations de l'archéologue (ex. certains artefacts doivent être gardés sur place pour résoudre des énigmes).
-- certains évènements et détails sont laissés à l'appréciation du MJ, avec des suggestions de probabilité si les dé doivent en décider.
+- le majordome doit tirer au mieux parti des allers-retours des porteurs ; mais il doit penser à prendre en compte les avis de sécurité du baroudeur, et les recommandations de l'archéologue (ex. certains artefacts doivent être gardés sur place pour résoudre des énigmes).
+- certains évènements et détails sont laissés à l'appréciation du MJ, avec des suggestions de probabilité si les dés doivent en décider.
 
 
 
@@ -188,17 +188,17 @@ Caverne aquifère
 - des **champignons aquatiques bleus** poussent dans les crevasses du sud-ouest ; c'est une **espèce inconnue** (mais comestible)
 - le canal est en contrebas du reste de la caverne, bordé par **3m de pente forte** (mais escaladable) ; deux conduits y débouchent depuis l'est, sous la surface (il est possible d'y explorer, en plongée, le système de vannes décrit ci-dessous).
 - le canal est rempli de **Chlamydes, ou serpents-requins**, mais ceux-ci ont peur des lumières qui bougent ; amphibies, ils peuvent se glisser hors du canal pour chasser ; ils ont un nid (trous dans le rocher) au niveau de la face nord du canal.
-- le **pont est couvert de poix**, ; la moindre étincelle y déclenche **10 minutes** d'incendie et de fumée, bloquant l'accès, et alertant la contrée environnante ; une vieille mèche semi-enterrée part de la poix, et file en direction du nord-est.
+- le **pont est couvert de poix** ; la moindre étincelle y déclenche **10 minutes** d'incendie et de fumée, bloquant l'accès, et alertant la contrée environnante ; une vieille mèche semi-enterrée part de la poix, et file en direction du nord-est.
 - les **débris de bateaux et les pièces de monnaie percées**, près du canal, sont sur une corniche à **1m50 de l'eau** ; c'était un appât, destiné à faire exploser des intrus grâce au **baril de poudre noire** accolé (avec le même système de mèche que pour le pont) ; la poudre (1 kilo) est peut-être sèche (2/3 de chance).
-- un **énorme monolithe** en équilibre précaire (une stalagmite dont la base a été rabotée par des ruissellements) se trouve au centre-est de caverne (il peut servir à écraser un ennemi en cas de combats).
-- le large corridor de l'est est **entièrement inondé sur 10m**, à cause des conduits (un large à l'est, deux plus fin à l'ouest) qui respectivement le remplissent et le vident de son eau (voir le schéma).
+- un **énorme monolithe** en équilibre précaire (une stalagmite dont la base a été rabotée par des ruissellements) se trouve au centre-est de la caverne (il peut servir à écraser un ennemi en cas de combats).
+- le large corridor de l'est est **entièrement inondé sur 10m**, à cause des conduits (un large à l'est, deux plus fins à l'ouest) qui respectivement le remplissent et le vident de son eau (voir le schéma).
 - dans le coin nord-est se trouvent **4 grands leviers** disposés en carré, initialement verticaux. Ils correspondent à l'énigme des "êtres de l'air et de la terre" de l'archéologue. Ils doivent être basculés chacun vers leur point cardinal d'ouverture, pour que l'eau puisse s'écouler davantage hors du corridor inondé. Dans la zone non inondée du corridor, à l'est (hors carte), se situent les **2 autres vannes**, qui elles doivent être laissées telles quelles, ou basculées chacune vers leur point cardinal de fermeture (pour accélérer la vidange du corridor).
 - **2 pistons en bois** se trouvent au centre-est de la caverne ; ils ne contrôlent pas des vannes, mais déclenchent chacun la mise à feu d'une des mèches (tonnelet de poudre ou pont couvert de poix), si enfoncés.
 - un **grand levier isolé** se trouve au sud-est de la caverne, près de l'évacuation du canal ; il est nanti d'une inscription de poisson, et initialement penché vers le sud. Si basculé dans l'autre sens, cela ferme l'évacuation, et l'eau monte peu à peu dans la caverne (faisant d'abord disparaitre la corniche aux débris de bateau).
 
 - chemins possibles :
 
-    - le tunnel au nord-ouest avance vers le temple païen (mais avec semis-éboulis)
+    - le tunnel au nord-ouest avance vers le temple païen (mais avec semi-éboulis)
     - le tunnel au nord-est mène vers l'extérieur (mais avec gros éboulis)
     - le corridor à l'est fait une cuvette (initialement inondée), puis descend vers la caverne du temple yodique
     - le canal principal devient un boyau souterrain (sans oxygène) puis, au bout de 50m, sort de la colline sous forme de ruisseau, et se déverse dans le fleuve Nazuron
@@ -262,13 +262,13 @@ Caverne du temple yodique
 Salle principale du temple pré-yodique
 ---------------------------------------------
 
-**L'arche centrale**, est vide, mais typique d'une religion monothéiste antérieure au yodisme ; elle est considérée par les akarites un précurseur respectable, mais maintenant obsolète. Il est possible de tenter de décoller et rapporter l'arche, mais c'est long et difficile (nécessite **4 porteurs** minimum).
+**L'arche centrale** est vide, mais typique d'une religion monothéiste antérieure au yodisme ; elle est considérée par les akarites comme un précurseur respectable, mais maintenant obsolète. Il est possible de tenter de décoller et rapporter l'arche, mais c'est long et difficile (nécessite **4 porteurs** minimum).
 
 Des racines d'arbre sont apparentes au plafond, comme pour le temple païen (**8m** jusqu'à la surface). Dynamiter le plafond de cette salle est une possibilité (très risquée) si les joueurs sont acculés dans la caverne.
 
 Dans la petite crypte du temple yodique (qui débouche à droite de l'arche), un immense (et rarissime) **varan impérial** dort ; c'est un **lézard géant, venimeux**, habituellement peureux, sauf lorsque son gite est menacé ; il a un mauvais odorat, voit dans le noir, mais ne repère que les mouvements. Les joueurs peuvent l'ignorer, ou tenter de l'endormir, ou bien bloquer la sortie de son antre... mais s'ils l'ignorent, il finira par se réveiller, et intercepter les passants. Ce varan passe habituellement par le canal des chlamydes, pour sortir de la caverne.
 
-En auscultant la **galerie du fond** (entre les colonnes et le mur), les joueurs peuvent remarquer que ce n'est pas une cloison d'origine, elle est bien plus sombre et friable (pour y faire une percée : piolet ou explosif.
+En auscultant la **galerie du fond** (entre les colonnes et le mur), les joueurs peuvent remarquer que ce n'est pas une cloison d'origine, elle est bien plus sombre et friable (pour y faire une percée : piolet ou explosif).
 
 Un **piège (pieux sur ressort)** se déclenche si on parcourt la galerie du fond, en marchant sur **une des dalles** ; il inflige une sérieuse blessure à la cuisse si le personnage est touché.
 
@@ -325,7 +325,7 @@ Saint des Saints du Temple Yodique
 
 **Enigme lumineuse** : si on cale la lanterne de pierre dans le creux au fond du puits, qu'on y place une lumière quelconque, puis qu'on met la grille dessus, les effets d'interférence mettent en évidence certaines runes sacrées du plafond, qui forment en réalité une **prophétie razulite postérieure à la chute de Nazur** ; cette prophétie ne sera déchiffrable que par l'Académie d'Alifir, mais on y reconnait au minimum l'idéogramme des **orbes divins**.
 
-Au bout d'un moment (plus tôt, si des mini-géodes ont été disposées partout), un **sifflement étrange** se fait entendre (cf bande-son dédiée) : le **chant de l'orbe**. Sa provenance est très difficilement trouvable à l'oreille. Il faut sonder les murs au sonar, ou utiliser le kit de micros, pour savoir quelle paroi creuser au piolet. L'orbe est bien en évidence dans sa cachette, posée sur un **lingot d'or**. Elle réagit violemment (lumière et vibration) lorsqu'on veut la prendre. On peut la mettre dans de l'eau glacée pour la calmer et l'emporter sans qu'elle attire des zélotes akarites.
+Au bout d'un moment (plus tôt, si des mini-géodes ont été disposées partout), un **sifflement étrange** se fait entendre (cf. bande-son dédiée) : le **chant de l'orbe**. Sa provenance est très difficilement trouvable à l'oreille. Il faut sonder les murs au sonar, ou utiliser le kit de micros, pour savoir quelle paroi creuser au piolet. L'orbe est bien en évidence dans sa cachette, posée sur un **lingot d'or**. Elle réagit violemment (lumière et vibration) lorsqu'on veut la prendre. On peut la mettre dans de l'eau glacée pour la calmer et l'emporter sans qu'elle attire des zélotes akarites.
 Localisations possibles de la cachette : derrière la petite pagode, ou derrière la fresque murale, ou sous le sol au milieu de la pièce...
 
 
@@ -345,7 +345,7 @@ Exemple de déroulement minuté
 - 0 : la colline est percée par l'explosion
 - 5 : arrivée au sol de la caverne aquifère
 - 70 : si les joueurs sont dans le Saint des Saints du temple, ils entendent le vrombissement de l'orbe
-- 90 : si le varan royal n'a pas été géré, il se réveille et intercepte les joueurs ou porteurs
+- 90 : si le varan impérial n'a pas été géré, il se réveille et intercepte les joueurs ou porteurs
 - 105 : les akarites arrivent si des fumées de poix ou de fumigènes ont été dégagées
 - 120 : les akarites arrivent dans tous les cas
 
@@ -360,7 +360,7 @@ Exemple de déroulement minuté
 Trouvailles revendables ou exceptionnelles
 --------------------------------------------
 
-Au cas où le majordome ne rassemble pas assez de butin : les **artefacts exceptionnels** peuvent être vendus **entre 20 et 30 kashes** au marché noir, mais c'est un gros risque de scandale (et d'ennuis judicaires), en plus d'un crève-coeur pour les scientifiques.
+Au cas où le majordome ne rassemble pas assez de butin : les **artefacts exceptionnels** peuvent être vendus **entre 20 et 30 kashes** au marché noir, mais c'est un gros risque de scandale (et d'ennuis judiciaires), en plus d'un crève-coeur pour les scientifiques.
 Un piètre palliatif : les joueurs peuvent s'entendre pour d'abord faire analyser l'artefact exceptionnel par l'Académie d'Alifir, puis simuler son vol pour rembourser les dettes de Loyd Georges.
 
 Les **bêtes sauvages** (yéti, chlamydes, varan...) peuvent être capturées et se revendre **entre 10 et 20 kashes** à un zoo, mais il faudra en convaincre le naturaliste.
@@ -378,7 +378,7 @@ Les **bêtes sauvages** (yéti, chlamydes, varan...) peuvent être capturées et
 - parchemins sacrés : 10 kashes
 - objets entassés : 10 kashes l'ensemble
 - 5 pierres tombales : 10 kashes l'ensemble
-- un kilo de vraies gemmes libres vaut 10 kashes, et se récolte en 5mn ; on peut ramasser en 6 kilos, mais dedans, 2 kilos de gemmes violettes sont **sans valeur**
+- un kilo de vraies gemmes libres vaut 10 kashes, et se récolte en 5mn ; on peut en ramasser 6 kilos, mais dedans, 2 kilos de gemmes violettes sont **sans valeur**
 - un kilo de diamants incrustés vaut 15 kashes, et se récolte en 15mn ; on peut en récolter 1 kilo
 - lingot d'or : 10 kashes
 - larme divine : artefact super méga exceptionnel, invendable
@@ -389,7 +389,7 @@ Les **bêtes sauvages** (yéti, chlamydes, varan...) peuvent être capturées et
 Rapatriement des éléments intéressants
 -----------------------------------------
 
-le majordome doit penser à faire remonter au plus vite les objets lourds par les porteurs, au cas où leur exploration serait interrompue par l'arrivée des autochtones.
+Le majordome doit penser à faire remonter au plus vite les objets lourds par les porteurs, au cas où leur exploration serait interrompue par l'arrivée des autochtones.
 
 Un **aller-retour** du Saint des Saints au camp de base prend **20mn**, si pas trop chargé.
 Donc moins de temps si les joueurs ne sont encore que dans la caverne principale, ou si c'est juste leur retour final au camp de base.
@@ -411,7 +411,7 @@ Les petits objets (gemmes et lingots, larme divine...) se portent dans les sacs 
 Enquête naturaliste
 -------------------------
 
-Récapitulatif des nouvelles espèces à "capturer" (en photo/vidéo, ou en chair et en os): **champignons aquatiques bleus, yéti forestier, chauve-souris luminescentes amphibies, poissons aveugles du puits**
+Récapitulatif des nouvelles espèces à "capturer" (en photo/vidéo, ou en chair et en os) : **champignons aquatiques bleus, yéti forestier, chauve-souris luminescentes amphibies, poissons aveugles du puits**
 
 Récapitulatif des faits scientifiques nouveaux :
 
@@ -424,7 +424,7 @@ Récapitulatif des faits scientifiques nouveaux :
 Enquête archéologique
 ----------------------------
 
-Le but de l'archéologue est de démontrer que le temple yodique, et les artefacts ramenés, sont un "scoop archéologique"; qu'ils apportent de nouveaux éléments sur la fin de la confession yodique "razulite", qui fut écrasée par sa rivale "taranite", il y a des **500 ans** de cela.
+Le but de l'archéologue est de démontrer que le temple yodique, et les artefacts ramenés, sont un "scoop archéologique" ; qu'ils apportent de nouveaux éléments sur la fin de la confession yodique "razulite", qui fut écrasée par sa rivale "taranite", il y a des **500 ans** de cela.
 
 Le problème, c'est que les habitants du lieu ont volontairement été peu ostentatoires, pour avoir des chances de s'en tirer s'ils étaient découverts. La plupart des objets dénichables sont donc certes anciens - voire antérieurs à l'époque des conflits yodiques - mais relativement banals et répandus. De plus, les distinctions entre les confessions yodiques  se jouent sur des détails théologiques infimes, ce qui complique l'enquête.
 
@@ -444,7 +444,7 @@ Pour prouver qu'il est de la confession razulite :
 
 Pour prouver qu'il a été utilisé postérieurement à la chute de Nazur :
 
-- le message runique du plafond (énigme de la lanterne dans la puits) parle de la chute de Nazur
+- le message runique du plafond (énigme de la lanterne dans le puits) parle de la chute de Nazur
 - 1/6 de chance que l'analyse du cadavre donne des résultats probants (le carbone14 est imprécis)
 - 1/6 de chance que les micro-inscriptions de la fresque murale donnent des mentions calendaires
 - en restaurant les peintures sur les pierres tombales (1/2 chance que ça marche), on peut voir que les dates de décès sont postérieures à la chute de Nazur
@@ -468,9 +468,9 @@ La fresque murale du Saint des Saints donne la recette de cette potion, avec des
 
 Mélanger ces trois éléments donne l'Elixir Berserk.
 
-S'il n'a pas déterminé les ingrédients exacts, mais à noté ces pictogrammes, le baroudeur a certaines chances de trouver quand même la bonne recette à terme, par **essais et erreurs**.
+S'il n'a pas déterminé les ingrédients exacts, mais a noté ces pictogrammes, le baroudeur a certaines chances de trouver quand même la bonne recette à terme, par **essais et erreurs**.
 
-s'il a mis dans le coup le spectromètre de masse, il trouve par ailleurs la bonne dose de chaque ingrédient à mettre pour maximiser l'effet, et obtenir ainsi une **efficacité double**.
+S'il a mis dans le coup le spectromètre de masse, il trouve par ailleurs la bonne dose de chaque ingrédient à mettre pour maximiser l'effet, et obtenir ainsi une **efficacité double**.
 
 
 Combats possibles

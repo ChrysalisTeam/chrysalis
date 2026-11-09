@@ -65,7 +65,7 @@ gamemaster_manual:
         
         Sur une partie "longue durée", il suffit à chaque joueur de passer un peu de temps chaque jour sur ce portail pour faire avancer ses quêtes, et de méditer le reste du temps sur la stratégie à adopter (un peu à la façon d'un *casual game*) ; tandis que sur des parties plus courtes et intenses, les joueurs auront besoin d'être constamment en interaction avec ce portail.
 
-        D'autres moyens de communication peuvent être utilisés pour les interactions entre joueurs (téléphone, sms...), et il est vivement conseillé de se rassembler dans la vrai vie (façon jeu de rôle Grandeur-Nature) pour certaines phases, comme les ventes aux enchères, ou bien la soirée en huis-clos *Mindstorm* destinée à servir d'épilogue au jeu.
+        D'autres moyens de communication peuvent être utilisés pour les interactions entre joueurs (téléphone, sms...), et il est vivement conseillé de se rassembler dans la vraie vie (façon jeu de rôle Grandeur-Nature) pour certaines phases, comme les ventes aux enchères, ou bien la soirée en huis-clos *Mindstorm* destinée à servir d'épilogue au jeu.
 
 
         .. warning::
@@ -90,7 +90,7 @@ gamemaster_manual:
             Le nom du portail web (censé être prêté à Loyd Georges par l'Académie d'Alifir) sur lequel le jeu se déroule en grande partie. Aussi parfois appelé "portail fictif" ou "pychronia" (son nom de code pour le développement).
 
         Infobulle
-            Encart d'aide contextuelle qui apparaît lorsque l'on laisse la souris sur une zone précise d'une page web du jeu. Certaines infobulles colorées apparaissent par ailleurs spontanément en haut à droite de la page pour signaler le succès ou l’échec d’opérations ayant lieu en tâche de fond (ex. si le système de chat' rencontre des problèmes de connectivité).
+            Encart d'aide contextuelle qui apparaît lorsque l'on laisse la souris sur une zone précise d'une page web du jeu. Certaines infobulles colorées apparaissent par ailleurs spontanément en haut à droite de la page pour signaler le succès ou l’échec d’opérations ayant lieu en tâche de fond (ex. si le système de chat rencontre des problèmes de connectivité).
 
         GN
             Grandeur-Nature, jeu de rôle où les gens jouent chacun leur rôle de façon théâtrale, à taille réelle, avec ou sans costumes.
@@ -154,7 +154,7 @@ gamemaster_manual:
             - être prêt à laisser tomber certains éléments annexes du scénario, pour que l'essentiel (les Orbes Sacrés) soit proprement mené de bout en bout ;
 
         .. note::
-            Plus le format choisi est rythmé, plus il devient intéressant, voire nécessaire, pour le maître du jeu, de se faire aider dans sa tâche par une deuxième personne. D'autant plus que cet "assistant au maître du jeu" sera précieux en temps que PNJ pour la *mystery party* finale, "Mindstorm", si elle est au menu.
+            Plus le format choisi est rythmé, plus il devient intéressant, voire nécessaire, pour le maître du jeu, de se faire aider dans sa tâche par une deuxième personne. D'autant plus que cet "assistant au maître du jeu" sera précieux en tant que PNJ pour la *mystery party* finale, "Mindstorm", si elle est au menu.
 
 
         .. raw:: pdf
@@ -196,7 +196,7 @@ gamemaster_manual:
 
         Par défaut, les joueurs sont censés se présenter sous leur identité "officielle" (souvent usurpée), en tant qu'invités aux enchères de Loyd Georges. Mais si les joueurs se connaissent IRL, le MJ peut décider de maintenir secrètes ces identités respectives, au début du jeu. Cela peut se faire par exemple si les enchères ont lieu en téléconférence, chacun portant un masque et distordant sa voix (possiblement au moyen d'un logiciel dédié). Cette incertitude initiale sur qui-est-qui "officiellement" peut pimenter l'intrigue, en se rajoutant à la quête de la véritable identité (d'espion) de chacun.
 
-        S'il le souhaite, le MJ peut demander aux joueurs une fiche synthétique de leur *background*" : motivations principales, jeunesse et carrière, possessions, connaissances et compétences particulières, relations avec leurs supérieurs et leurs collègues... fiche à modérer et corriger bien entendu. Mais cette étape est optionnelle, certains joueurs préfèrent donner corps à leur personnage (et divulguer ses antécédents) au fil de leurs discussions et actions. S'assurer en tout cas que chacun a suffisamment de "repères" pour prendre en main son rôle ; et si le but est de l'amener vers un chemin précis (ex. trahir son camp), qu'il a un contexte qui s'y prête (ex. mauvais salaire, mauvaise ambiance de travail, attrait pour une autre vie...).
+        S'il le souhaite, le MJ peut demander aux joueurs une fiche synthétique de leur *background* : motivations principales, jeunesse et carrière, possessions, connaissances et compétences particulières, relations avec leurs supérieurs et leurs collègues... fiche à modérer et corriger bien entendu. Mais cette étape est optionnelle, certains joueurs préfèrent donner corps à leur personnage (et divulguer ses antécédents) au fil de leurs discussions et actions. S'assurer en tout cas que chacun a suffisamment de "repères" pour prendre en main son rôle ; et si le but est de l'amener vers un chemin précis (ex. trahir son camp), qu'il a un contexte qui s'y prête (ex. mauvais salaire, mauvaise ambiance de travail, attrait pour une autre vie...).
 
         La plupart des joueurs (non-PNJ) sont au minimum en binômes. Certains rôles particulièrement "perturbateurs" (l'inspecteur Shark, le riche Magnus...), qui n'ont initialement pas de collègues, peuvent être donnés soit à des PNJs soit à des joueurs. Mais il faut garder à l'esprit qu'ils sont bien plus difficiles à jouer, et que le risque d'égarement ou de démotivation est bien plus grand quand on agit ainsi en solo. Rôles à ne donner qu'à des joueurs aguerris et conscients de l'enjeu.
 
@@ -204,12 +204,12 @@ gamemaster_manual:
         Prise en main du jeu
         ------------------------
 
-        Les joueurs sont initialement *comme sur des rails* : ils partagent automatiquement leurs données avec leurs partenaires (grâce au système d'\ *amitié numérique*), et sont supervisés de près par leurs supérieurs des services secrets. Ils vont alors se familiariser avec l'univers et les forces en présence en lisant leur messagerie, quelques articles encyclopédiques, et en parcourant les sections déjà accessibles dans leur compte web (programme des enchères, liste des participants, radio web...).
+        Les joueurs sont initialement *comme sur des rails* : ils partagent automatiquement leurs données avec leurs partenaires (grâce au système d'*amitié numérique*), et sont supervisés de près par leurs supérieurs des services secrets. Ils vont alors se familiariser avec l'univers et les forces en présence en lisant leur messagerie, quelques articles encyclopédiques, et en parcourant les sections déjà accessibles dans leur compte web (programme des enchères, liste des participants, radio web...).
 
         Des panneaux d'aide sont affichables sur certaines pages du site, pour expliciter leur fonctionnement. Pour le reste, les joueurs sont encouragés à contacter les PNJs : le "webmaster" en cas d'incompréhensions purement techniques, et leurs supérieurs hiérarchiques en cas de doutes sur leurs objectifs ou autres questions.
 
         .. warning::
-            Chrysalis est un jeu encore jeune, donc assurez vous d'avoir bien lu les annexes de ce manuel, en particulier `Annexe - Retour d'Expérience du Beta-Test Chrysalis`_, afin d'assurer une bonne mise en place de la partie auprès de vos joueurs.
+            Chrysalis est un jeu encore jeune, donc assurez-vous d'avoir bien lu les annexes de ce manuel, en particulier `Annexe - Retour d'Expérience du Beta-Test Chrysalis`_, afin d'assurer une bonne mise en place de la partie auprès de vos joueurs.
 
 
         Récupération d'informations
@@ -249,7 +249,7 @@ gamemaster_manual:
 
         En arrière-plan, le conflit entre les états midoliens montera inexorablement en puissance, au fil de cette progression vers les Orbes. Des quêtes "diplomatiques" permettront aux joueurs d'influer sur la situation géo-politico-religieuse, que ce soit en ambassadeurs pacificateurs ou - au contraire - en semeurs de troubles. De petites quêtes annexes, enfin, permettront de gagner de l'argent, ou de s'attirer des soutiens supplémentaires.
 
-        En plus des rapports provenant de leurs différents interlocuteurs fictifs, les joueurs seront informés de l'évolution de la situation, et de la réussite (ou non) de leurs mission, par les spots radio que le maître du jeu diffusera périodiquement.
+        En plus des rapports provenant de leurs différents interlocuteurs fictifs, les joueurs seront informés de l'évolution de la situation, et de la réussite (ou non) de leurs missions, par les spots radio que le maître du jeu diffusera périodiquement.
 
 
         Les enchères
@@ -277,7 +277,7 @@ gamemaster_manual:
 
         La partie se soldera inévitablement par l'explosion du conflit midolien latent ; en effet, quoi qu'il se soit passé durant le jeu, l'idée est que les judicateurs tenteront de déclencher l'invasion de l'ensemble de la Midolie ; le Paladium enverra alors ses guerriers d'élite pour capturer les judicateurs et leurs alliés, et geler ainsi le conflit dans l'oeuf.
 
-        Mais malgré ce "statu quo" sur lequel Chrysalis:Auction se terminera, les rapports de force (et donc les perspectives d'évolution du conflit) seront très différentes suivant les résultats des différentes quêtes des joueurs, et les alliances qu'ils auront encouragées ou défaites...
+        Mais malgré ce "statu quo" sur lequel Chrysalis:Auction se terminera, les rapports de force (et donc les perspectives d'évolution du conflit) seront très différents suivant les résultats des différentes quêtes des joueurs, et les alliances qu'ils auront encouragées ou défaites...
 
         Dans le cas le plus explosif, le Paladium se retrouvera opposé à la quasi-totalité du peuple akarite ainsi qu'à l'état dorien ; dans le cas le plus propice à la paix, le Paladium ne devra museler que les quelques troupes fanatiquement dévouées aux judicateurs, le reste de l'Akarie préférant temporiser durablement l'accomplissement de la "prophétie des trois orbes".
 
@@ -285,16 +285,16 @@ gamemaster_manual:
 
         Dès lors, plus les judicateurs akarites posséderont d'orbes, plus ils arriveront à rallier par la foi les différentes communautés de fidèles, et par la peur les peuples voisins (en particulier, les doriens). Tout cela étant évidemment modulé par les alliances et rivalités que les joueurs auront créées, dans leurs possibles rôles d'intermédiaires diplomatiques.
 
-        Plus précisément, il existe 7 clans en Akarie, qui sont plus ou moins en phase avec la stratégie belliqueuse des judicateurs. Schématiquement, on pourra ainsi "calculer" le nombre de clans prêts à suivre les judicateurs dans leur guerre de conquête:
+        Plus précisément, il existe 7 clans en Akarie, qui sont plus ou moins en phase avec la stratégie belliqueuse des judicateurs. Schématiquement, on pourra ainsi "calculer" le nombre de clans prêts à suivre les judicateurs dans leur guerre de conquête :
 
         - le clan dont sont issus les judicateurs leur sera favorable quoi qu'il arrive ;
         - pour chaque orbe récupéré par les judicateurs, 2 clans de plus seront acquis à l'idée que la prophétie va se réaliser (et joindront donc l'effort de guerre) ;
-        - si le duché dorien a réussi à se rallier sans encombre aux akarites (que ce soit par "naturalisation religieuse", ou via un statut asservi), alors en plus de pouvoir compter sur l'armée de ce pays, les judicateurs auront la loyauté d'un clan akarite de plus ; par contre, si des controverses doctrinales naissent pendant les parlementations (i.e si les agents ne sont pas assez habiles dans leurs rhétoriques théologiques, cela peut au contraire brouiller les chefs de clan, et faire perdre 1 ou 2 clans aux judicateurs ;
+        - si le duché dorien a réussi à se rallier sans encombre aux akarites (que ce soit par "naturalisation religieuse", ou via un statut asservi), alors en plus de pouvoir compter sur l'armée de ce pays, les judicateurs auront la loyauté d'un clan akarite de plus ; par contre, si des controverses doctrinales naissent pendant les parlementations (i.e. si les agents ne sont pas assez habiles dans leurs rhétoriques théologiques, cela peut au contraire brouiller les chefs de clan, et faire perdre 1 ou 2 clans aux judicateurs ;
         - si le complot héliossare pour assassiner les judicateurs a été inclus dans le scénario, alors son résultat affecte évidemment la géopolitique. Par exemple si le complot est mis au grand jour par les judicateurs (que la faute tombe sur Héliossar, ou - par manipulation - sur le duché dorien), jusqu'à 2 clans deviennent belliqueux ; si la faute est fallacieusement portée sur l'un des clans akarites, la zizanie semée fait perdre jusqu'à 2 clans aux judicateurs.
-        - si une bonne publicité est fait quant à l'antique bataille de Wigwir, où les razulites furent écrasés malgré le fait qu'ils possédaient les trois orbes, cela pourra faire perdre jusqu'à 2 clans aux judicateurs (les akarites  ne souhaitant pas qu'une pareille imposture ne se reproduise) ;
+        - si une bonne publicité est faite quant à l'antique bataille de Wigwir, où les razulites furent écrasés malgré le fait qu'ils possédaient les trois orbes, cela pourra faire perdre jusqu'à 2 clans aux judicateurs (les akarites  ne souhaitant pas qu'une pareille imposture ne se reproduise) ;
         - toutes autres activités diplomatiques incluses par le maître du jeu devront de même être prises en compte pour moduler le résultat ;
 
-        Les états d'Héliossar et de Masslavie, eux, seront par principe fermement opposés à toute annexion par les akarites. En ce qui concerne les lordaniens, leur positionnement dépendra de ce que leurs agents leur auront indiqué sur la situation en akarie (ils soutiendront logistiquement le côté le moins fort, afin d'éviter l'apparition d'une superpuissance) ; sauf si des actions trop cyniques des services lordaniens ont été révélées au grand public de ce pays, auquel cas le scandale intérieur occupera déjà suffisamment l'état lordanien.
+        Les états d'Héliossar et de Masslavie, eux, seront par principe fermement opposés à toute annexion par les akarites. En ce qui concerne les lordaniens, leur positionnement dépendra de ce que leurs agents leur auront indiqué sur la situation en Akarie (ils soutiendront logistiquement le côté le moins fort, afin d'éviter l'apparition d'une superpuissance) ; sauf si des actions trop cyniques des services lordaniens ont été révélées au grand public de ce pays, auquel cas le scandale intérieur occupera déjà suffisamment l'état lordanien.
 
         L'état de ce complexe rapport de force sera résumé dans les informations finales du jeu, et cela complètera les victoires et défaites plus personnelles de chaque joueur au long de la partie.
 
@@ -313,7 +313,7 @@ gamemaster_manual:
         Principales Factions
         =======================
 
-        Plusieurs groupes, aux intérêts divergents, s'affrontent dans l'ombre des ventes aux enchères de Loyd Georges. Si tous sont en alerte face aux perspectives d'un conflit midolien, et avides d'en savoir plus sur les supposées "reliques de destruction massive" que sont les Orbes, en revanche ils différent nettement dans leurs souhaits concernant la résolution de l'affaire, et les moyens à mettre en œuvre pour parvenir à leurs fins.
+        Plusieurs groupes, aux intérêts divergents, s'affrontent dans l'ombre des ventes aux enchères de Loyd Georges. Si tous sont en alerte face aux perspectives d'un conflit midolien, et avides d'en savoir plus sur les supposées "reliques de destruction massive" que sont les Orbes, en revanche ils diffèrent nettement dans leurs souhaits concernant la résolution de l'affaire, et les moyens à mettre en œuvre pour parvenir à leurs fins.
 
         Chacune de ces factions offre à ses joueurs "affiliés" diverses facilités (au maître du jeu de faire jouer son imagination et son bon sens), ainsi que certaines compétences spécifiques à Chrysalis, résumées plus loin.
 
@@ -329,7 +329,7 @@ gamemaster_manual:
         Services secrets masslaves
         ------------------------------------
 
-        **1-2 joueurs initiaux**. Leur but est d'éviter que leur pays ne se fasse, un fois de plus, laminer par une agression des akarites. Pour cela, il leur faut désamorcer le "prétexte" offert par l'expédition de Loyd Georges, nouer et renforcer leurs alliances auprès des autres pays midoliens, et bien sûr tirer au clair cette histoire de *reliques sacrées*.
+        **1-2 joueurs initiaux**. Leur but est d'éviter que leur pays ne se fasse, une fois de plus, laminer par une agression des akarites. Pour cela, il leur faut désamorcer le "prétexte" offert par l'expédition de Loyd Georges, nouer et renforcer leurs alliances auprès des autres pays midoliens, et bien sûr tirer au clair cette histoire de *reliques sacrées*.
 
         Diplomatiquement, les agents de ce camp auront donc fort à faire pour découvrir puis influencer les stratégies politiques des pays environnants, sans pour autant donner aux akarites des raisons supplémentaires de les écraser comme des blattes.
 
@@ -372,7 +372,7 @@ gamemaster_manual:
 
         Faire allégeance à ce camp, et monter en grade dedans, est relativement facile tant que l'on n'est pas très regardant sur l'éthique. Par contre, cela peut valoir une certaine haine de la part du reste de Pangéa, ce qui n'est pas complètement négligeable.
 
-        Test de Fidélité:
+        Test de Fidélité :
             Pour s'assurer de l'aptitude d'un joueur à pleinement intégrer leur "race élue" - un processus rarissime dans la spiritualité akarite - les judicateurs lui font passer un test sous forme de questionnaire théologique. Ce test est d'une difficulté proverbiale, et nécessite une bonne dose de recherches encyclopédiques et de hasard pour être correctement rempli. Mais dans le cas improbable où il ferait un quasi-parfait, le joueur gagnera le titre de "Pieux", et le droit de diriger directement, sans passer par les judicateurs, des émeutes de fidèles akarites ; dans le cas contraire, il sera invité à continuer son étude de la religion afin de se débarrasser de ses "superstitions hérétiques".
 
 
@@ -383,15 +383,15 @@ gamemaster_manual:
 
         Ayant détecté trop tard ce qui se tramait en Midolie, les paladins tentent de rentrer en contact avec Loyd Georges et les scientifiques d'Alifir, mais ceux-ci, échaudés par les manigances des judicateurs, se méfient et leur claquent la porte au nez.
 
-        Les paladins tentent donc, dès lors, d'obtenir l'aide des participants aux enchères, tout en sachant très bien, grâce à leur moyens informatiques d'espionnage de messagerie, lesquels appartiennent déjà à quels services secrets. Leur but premier est d'éviter que la situation ne dégénère en Akarie, et cela passe par la récupération et la dissimulation des Orbes, ainsi que la mise au pas des fauteurs de troubles.
+        Les paladins tentent donc, dès lors, d'obtenir l'aide des participants aux enchères, tout en sachant très bien, grâce à leurs moyens informatiques d'espionnage de messagerie, lesquels appartiennent déjà à quels services secrets. Leur but premier est d'éviter que la situation ne dégénère en Akarie, et cela passe par la récupération et la dissimulation des Orbes, ainsi que la mise au pas des fauteurs de troubles.
 
         Faire allégeance à ce camp est difficile à plus d'un titre. Il semble trop "utopique" pour inspirer confiance, et le trouble qui entoure ses origines (son fondateur est un ancien seigneur de la guerre axiolien) n'aide en rien. De plus, le Paladium est extrêmement regardant sur les moyens employés, ce qui peut entraîner de belles dégringolades dans sa petite hiérarchie.
 
         Par contre, monter en grade dans ce groupe donnera accès à des moyens exceptionnels et - ne le négligeons pas - à une belle bouffée de fierté, en tant que "Super Héros Justicier" de Pangéa.
 
-        Test de fidélité:
-            Avant de faire accéder un joueur au titre de Paladin, et de lui donner un accès privilégié au déclenchement d'opérations spéciales téléportés, le Paladium s'assure de sa rectitude morale par une mise en scène. Le joueur se voit ordonner de faire exploser une bombe à photons dans une ville reculée, au motif que s'y trouverait un centre secret des akarites, développant des armes chimiques qui pourraient mettre la Midolie à feu et à sang.
-            Si le joueur obtempère (ce qui est probable), et envoie ses mercenaires faire le sale boulot, il attendra en vain d'entendre, à la radio, l'annonce du drame ; puis se fera vertement tancer par la Paladium pour avoir accepté d'exécuter un crime de guerre. Dans le cas contraire, il deviendra partie intégrante du Paladium.
+        Test de fidélité :
+            Avant de faire accéder un joueur au titre de Paladin, et de lui donner un accès privilégié au déclenchement d'opérations spéciales téléportées, le Paladium s'assure de sa rectitude morale par une mise en scène. Le joueur se voit ordonner de faire exploser une bombe à photons dans une ville reculée, au motif que s'y trouverait un centre secret des akarites, développant des armes chimiques qui pourraient mettre la Midolie à feu et à sang.
+            Si le joueur obtempère (ce qui est probable), et envoie ses mercenaires faire le sale boulot, il attendra en vain d'entendre, à la radio, l'annonce du drame ; puis se fera vertement tancer par le Paladium pour avoir accepté d'exécuter un crime de guerre. Dans le cas contraire, il deviendra partie intégrante du Paladium.
 
 
 
@@ -406,13 +406,13 @@ gamemaster_manual:
 
         Heliossar est une république qui subit les revers d'un multipartisme un peu trop équilibré. Changeant sans cesse de gouvernement, et en proie à des scandales de moeurs et de finances, elle semble consacrer bien peu d'attention à l'agitation croissante des esprits akarites.
 
-        Publiquement du moins. Car dans le secret de son centre de renseignements, ses agents ont compris depuis longtemps que leur pays était un mort en sursis. Et ils s'activent pour trouver une moyen de briser le pouvoir akarite, sans que cela ne se retourne contre eux. Assassiner les judicateurs, puis jeter les confessions akarites les unes contre les autres, voilà qui permettrait d'avoir la paix pour quelques décennies... Le hic, c'est que les judicateurs ont eu vent de ce complot, et qu'il ne pourraient rêver plus beau cadeau de la part de leurs ennemis.
+        Publiquement du moins. Car dans le secret de son centre de renseignements, ses agents ont compris depuis longtemps que leur pays était un mort en sursis. Et ils s'activent pour trouver un moyen de briser le pouvoir akarite, sans que cela ne se retourne contre eux. Assassiner les judicateurs, puis jeter les confessions akarites les unes contre les autres, voilà qui permettrait d'avoir la paix pour quelques décennies... Le hic, c'est que les judicateurs ont eu vent de ce complot, et qu'ils ne pourraient rêver plus beau cadeau de la part de leurs ennemis.
 
 
         Les autres pays midoliens
         ------------------------------
 
-        Le reste des états se complait dans la neutralité, en espérant secrètement que la déferlante akarite s'épuisera avant d'arriver jusqu'à ses frontières. Y compris Thelassar, qui compte sur ses reliefs prononcés pour décourager Les envahisseurs.
+        Le reste des états se complait dans la neutralité, en espérant secrètement que la déferlante akarite s'épuisera avant d'arriver jusqu'à ses frontières. Y compris Thelassar, qui compte sur ses reliefs prononcés pour décourager les envahisseurs.
 
         Rien de spécial n'est prévu dans le jeu quant aux relations diplomatiques avec ces autres états, cependant rien n'interdit à un maître du jeu entreprenant de les inclure dans le grand bal des rapports de force, afin de créer de nouvelles interactions.
 
@@ -421,9 +421,9 @@ gamemaster_manual:
         L'Académie d'Alifir
         -------------------------
 
-        Situé en Sabarim, ce centre scientifique est une étoile montante de la science de Pangéa, et il commence à rayonner bien au delà des frontières de son pays. On le retrouve impliqué dans l'histoire de Chrysalis sous de multiples formes:
+        Situé en Sabarim, ce centre scientifique est une étoile montante de la science de Pangéa, et il commence à rayonner bien au delà des frontières de son pays. On le retrouve impliqué dans l'histoire de Chrysalis sous de multiples formes :
 
-        - c'est lui qui a gracieusement fourni au Sir Loyd Georges une extension de son portail web (Anthropia) pour promouvoir et dérouler les enchères du sieur (malgré les réticences de certains dirigeants de l'académie).
+        - c'est lui qui a gracieusement fourni à Sir Loyd Georges une extension de son portail web (Anthropia) pour promouvoir et dérouler les enchères du sieur (malgré les réticences de certains dirigeants de l'académie).
         - c'est lui qui héberge le traducteur de runes sur lequel travaille l'ami de Loyd Georges, le professeur Emilos Loakim - docteur en archéologie de son état.
         - c'est sous son égide que travaille le docteur Waden Shaw, chercheur en physique, qui devrait bientôt devenir le gendre du Pr Loakim précédemment cité.
         - divers mini-jeux et énigmes (captchas cauchemardesques, défi d'échecs...) sont liés à ses activités, et à ses interactions mâtinées de rivalités avec d'autres centres scientifiques.
@@ -435,13 +435,13 @@ gamemaster_manual:
         Loyd Georges
         -------------------
 
-        Et oui! Même si ce ne sera pas évident au premier abord - et certains joueurs le découvriront à leurs dépens - Loyd Georges aussi peut être vu comme une "faction" dans Chrysalis. N'oublions pas que c'est lui le maître des enchères ; il peut à sa guise décider des ristournes accordées, comme des pénalités visant ceux qu'il ne peut pas sentir (on supposera que le droit commercial du lieu lui donne une grande latitude d'action).
+        Eh oui ! Même si ce ne sera pas évident au premier abord - et certains joueurs le découvriront à leurs dépens - Loyd Georges aussi peut être vu comme une "faction" dans Chrysalis. N'oublions pas que c'est lui le maître des enchères ; il peut à sa guise décider des ristournes accordées, comme des pénalités visant ceux qu'il ne peut pas sentir (on supposera que le droit commercial du lieu lui donne une grande latitude d'action).
 
         Le maître du jeu doit donc se mettre dans la peau du personnage, et évaluer, au fil des échanges qu'il a avec chaque joueur, quelle place ceux-ci prennent dans le coeur de Loyd Georges.
 
         Il faut évidemment faire preuve de finesse. Loyd Georges est sensible aux commentaires positifs sur ses "exploits" archéologiques, mais pas aux flatteries intéressées, voire obséquieuses que certains tenteront. De même, si - comme tout un chacun - il n'aime pas être humilié, il n'est pas pour autant blessé par les commentaires négatifs, tant qu'ils restent francs et constructifs.
 
-        Mais bien plus que la rhétorique, c'est l'action qui permettra aux joueurs d'obtenir les faveurs de Loyd Georges. Celui-ci a en effet ses propres *quêtes annexes*, la principale étant de d'obtenir une reconnaissance du monde scientifique pour ses contributions archéologiques. Dès lors, toute action visant à influer sur l'Académie d'Alifir, pour qu'elle accorde un titre honorifique audit sire, sera susceptible d'être récompensée par Loyd Georges - et donc d'offrir un bon coup de pouce dans la quête des orbes.
+        Mais bien plus que la rhétorique, c'est l'action qui permettra aux joueurs d'obtenir les faveurs de Loyd Georges. Celui-ci a en effet ses propres *quêtes annexes*, la principale étant d'obtenir une reconnaissance du monde scientifique pour ses contributions archéologiques. Dès lors, toute action visant à influer sur l'Académie d'Alifir, pour qu'elle accorde un titre honorifique audit sire, sera susceptible d'être récompensée par Loyd Georges - et donc d'offrir un bon coup de pouce dans la quête des orbes.
 
 
         .. raw:: pdf
@@ -471,7 +471,7 @@ gamemaster_manual:
         L'argent
         +++++++++++++
 
-        L'argent du jeu pourrait être utilisé aussi bien pour les ventes aux enchères, que pour payer des compétences spéciales ou des objets au marché noir. Le problème d'une telle liberté d'action, c'est qu'elle risquerait de décourager l'implication du joueur dans des enchères à l'issue incertaine, et dont l'utilité des lots n'est pas toujours évidente. Le joueur serait alors tenté de garder beaucoup d'argent en réserve, au cas ou de nouvelles opportunités se présenteraient.
+        L'argent du jeu pourrait être utilisé aussi bien pour les ventes aux enchères, que pour payer des compétences spéciales ou des objets au marché noir. Le problème d'une telle liberté d'action, c'est qu'elle risquerait de décourager l'implication du joueur dans des enchères à l'issue incertaine, et dont l'utilité des lots n'est pas toujours évidente. Le joueur serait alors tenté de garder beaucoup d'argent en réserve, au cas où de nouvelles opportunités se présenteraient.
 
         C'est pourquoi il est conseillé de séparer l'argent en deux catégories : l'argent courant (en "kashes"), qui sert à régler (souvent automatiquement) les différentes prestations sur le site Anthropia, et les "Livres Sabarites", modifiées manuellement par le maître de jeu dans la fiche personnage (champ "biens supplémentaires"), qui ne servent qu'aux ventes archéologiques de Loyd Georges.
 
@@ -485,7 +485,7 @@ gamemaster_manual:
 
         Les lots de gemmes, qui peuvent être obtenus en participant aux enchères ou par des quêtes annexes, n'ont pas de propriétés particulières hormis leur valeur marchande.
 
-        Ainsi, dès l'achat, ils sont dissociés en gemmes de valeur identiques, utilisables à l'unité pour monnayer des biens et services. Les gemmes ne sont donc donc pas susceptibles d'être analysées via les différentes `compétences spéciales`_, et leurs fiches descriptives, qui restent dans le compte de l'acheteur, n'ont valeur que de "mémo".
+        Ainsi, dès l'achat, ils sont dissociés en gemmes de valeur identique, utilisables à l'unité pour monnayer des biens et services. Les gemmes ne sont donc pas susceptibles d'être analysées via les différentes `compétences spéciales`_, et leurs fiches descriptives, qui restent dans le compte de l'acheteur, n'ont valeur que de "mémo".
 
         L'objet "lot de gemmes" qui apparaît dans les objets du joueur, ne pourra être transféré en tant que tel (ex. à un autre joueur), que si son possesseur n'a pas encore utilisé la moindre gemme dudit lot (il est par contre possible de transférer des gemmes unitairement).
 
@@ -493,9 +493,9 @@ gamemaster_manual:
             Il n'est pas possible, pour l'heure, de modifier la nature (brute ou taillée), ou le poids des gemmes (ex. en les retaillant).
 
         - Les petites gemmes sont principalement destinées à payer, au meilleur prix, les mercenaires pour faire de l'espionnage et mener des opérations spéciales.
-        - Les gemmes d'exception, et autres gemmes chères à l'unité, sont destinées à débloquer quelques compétences pour lesquels les prestataires sont très exigeants sur la qualité : djinns de Sedes Sancta (à venir), guides et indics présents sur les lieux sensibles (jungle, zone polaire...).
+        - Les gemmes d'exception, et autres gemmes chères à l'unité, sont destinées à débloquer quelques compétences pour lesquelles les prestataires sont très exigeants sur la qualité : djinns de Sedes Sancta (à venir), guides et indics présents sur les lieux sensibles (jungle, zone polaire...).
         - Certains contacts, réellement commerciaux, exigent des gemmes brutes (non taillées), avec une grosse plus-value pour le joueur qui sert ainsi d'intermédiaire.
-        - Quelques gemmes sont "piégées", en ce qu'elle ne sont pas assez exceptionnelles pour intéresser les meilleures sources d'information, mais pas assez communes pour payer au plus juste les mercenaires et autres compétences de base. Le mieux sera donc de les revendre au marché noir, ce qui ne sera rentable que si elles ont été sous-évaluées durant les enchères.
+        - Quelques gemmes sont "piégées", en ce qu'elles ne sont pas assez exceptionnelles pour intéresser les meilleures sources d'information, mais pas assez communes pour payer au plus juste les mercenaires et autres compétences de base. Le mieux sera donc de les revendre au marché noir, ce qui ne sera rentable que si elles ont été sous-évaluées durant les enchères.
 
 
 
@@ -512,7 +512,7 @@ gamemaster_manual:
         Le tiers de confiance
         +++++++++++++++++++++++
 
-        Les joueurs peuvent inclure ce contact spécial (PNJ) lors de leurs divers marchandages, afin d'obtenir des garanties quant au bon respect des clauses de la transactions (transferts d'argent, de biens...).
+        Les joueurs peuvent inclure ce contact spécial (PNJ) lors de leurs divers marchandages, afin d'obtenir des garanties quant au bon respect des clauses de la transaction (transferts d'argent, de biens...).
 
         Le tiers de confiance se contrefiche complètement de la légalité de la transaction, il est juste là pour s'assurer (dans la limite de ses moyens, qui sont ceux du maître du jeu) que chacun respecte la parole donnée.
 
@@ -571,19 +571,19 @@ gamemaster_manual:
 
         Elle permet de récupérer un résumé des différentes conversations auxquelles un "personnage" (non un simple contact email) a participé. Le personnage ciblé doit être "connu" du joueur (doit avoir eu un échange email avec lui).
 
-        Les corps des messages ne sont pas inclus dans ce rapport, contrairement à la mise sur écoute, en revanche il n'ext pas possible pour un joueur de se protéger contre une telle analyse télécom.
+        Les corps des messages ne sont pas inclus dans ce rapport, contrairement à la mise sur écoute, en revanche il n'est pas possible pour un joueur de se protéger contre une telle analyse télécom.
 
 
         Localisation GeoIP
         +++++++++++++++++++++++++
 
-        Le système GeoIP de l'Académie d'Alifir permet de localiser, avec une précision variable, les émetteurs des emails reçus par les joueurs (emails externes uniquement, pas ceux venant d'adresses internes à Anthropia). C'est précieux pour remonter aux contacts douteux: escrocs, maîtres-chanteurs anonymes...
+        Le système GeoIP de l'Académie d'Alifir permet de localiser, avec une précision variable, les émetteurs des emails reçus par les joueurs (emails externes uniquement, pas ceux venant d'adresses internes à Anthropia). C'est précieux pour remonter aux contacts douteux : escrocs, maîtres-chanteurs anonymes...
 
         Mais dans de nombreux cas (en particulier, lors de tentatives pour localiser et agresser les autres joueurs), ce système ne va rien retourner de convaincant, au motif que des accès web trop publics, ou au contraire des passerelles spéciales, ont été utilisés.
 
         .. TODO UPDATE THIS WHEN AUTORESPONSE IS READY
 
-        En l'état actuel du jeu, ce système est encore entièrement manuel: le joueur doit transférer un email reçu à une adresse de messagerie dédiée, et le maître du jeu doit alors débiter le coût de l'opération, et répondre avec les informations adéquates concernant l'émetteur de cet email analysé.
+        En l'état actuel du jeu, ce système est encore entièrement manuel : le joueur doit transférer un email reçu à une adresse de messagerie dédiée, et le maître du jeu doit alors débiter le coût de l'opération, et répondre avec les informations adéquates concernant l'émetteur de cet email analysé.
 
 
         Traduction runique
@@ -672,7 +672,7 @@ gamemaster_manual:
 
         Ces "djinns" monnayent fort cher les données récoltées à travers le monde, et sont extrêmement difficiles sur les moyens de paiement - les gemmes et artefacts exceptionnels ayant bien plus de valeur à leurs yeux que l'argent et son cours très fluctuant.
 
-        Dans Chrysalis, les joueurs discutent en réalité, par chat', avec des intelligences artificielles représentant ces djinns. Il leur faut donc trouver les bonnes questions, pas trop complexes, afin d'obtenir des anecdotes utiles pour leur cheminement vers les Orbes.
+        Dans Chrysalis, les joueurs discutent en réalité, par chat, avec des intelligences artificielles représentant ces djinns. Il leur faut donc trouver les bonnes questions, pas trop complexes, afin d'obtenir des anecdotes utiles pour leur cheminement vers les Orbes.
 
         Les djinns ne sont nullement indispensables pour réussir les différentes quêtes du jeu, mais ils peuvent servir de "mise à niveau" aux joueurs qui auraient raté trop d'indices et informations historiques sur les orbes.
 
@@ -693,7 +693,7 @@ gamemaster_manual:
 
         Ces trois énormes globes mythiques, apparus après la chute de la comète à Tunguska, excitèrent bien des passions ; ils vécurent donc un interminable périple, passant de mains en mains, de part et d'autre de la planète. L'une des plus importantes confessions "yodiques" dévouées à leur recherche, l'ordre razulite, réussit finalement à imposer son hégémonie en Midolie, et à s'accaparer les trois orbes. Galvanisées par ce haut fait - qui n'était pour eux rien moins que l'accomplissement d'une prophétie - les phalanges razulites traversèrent alors l'océan diorique avec les orbes, afin de mettre une ultime raclée à leurs ennemis jurés (les "taranites") exilés en Kéroskia.
 
-        Mais mal leur en prit. Les trois orbes faillirent à rendre les razulites immortels, et a contrario ceux-ci furent mis en pièce par quelques guerriers taranites dotés de pouvoirs insoupçonnés. Les survivants razulites battirent en retraite tous azimuts, et s'attendant à voir leur empire réduit en pièces, ils décidèrent de disperser et cacher les orbes. L'un d'eux fut emmené au fin fond de la jungle, un autre loin dans les terres polaires, quant au dernier, il fut simplement dissimulé dans un sanctuaire de Midolie.
+        Mais mal leur en prit. Les trois orbes faillirent à rendre les razulites immortels, et a contrario ceux-ci furent mis en pièces par quelques guerriers taranites dotés de pouvoirs insoupçonnés. Les survivants razulites battirent en retraite tous azimuts, et s'attendant à voir leur empire réduit en pièces, ils décidèrent de disperser et cacher les orbes. L'un d'eux fut emmené au fin fond de la jungle, un autre loin dans les terres polaires, quant au dernier, il fut simplement dissimulé dans un sanctuaire de Midolie.
 
         Maintenant que Loyd Georges a remis au jour ce sanctuaire oublié, la quête des orbes est pour de bon relancée. Cette fois-ci, dévoileront-ils enfin leurs pouvoirs ? Ou se contenteront-ils de mettre le continent à feu et à sang par leur simple existence ?
 
@@ -705,7 +705,7 @@ gamemaster_manual:
 
         Trouver cet orbe est une quête de longue haleine, car la seule autre personne connaissant ledit laboratoire est Cynthia Loakim, la fiancée du physicien Waden Shaw (et - quitte à nous répéter - fille du vieil archéologue Emilos Loakim). Cette reporter à l'internationale suit, pendant les enchères le rassemblement des chefs de clan nalavutiens à Kitiika. Vers le milieu du déroulement du jeu, les akarites la capturent là-bas via une attaque aux gaz somnifères (sommeil de très longue durée), et tentent de la ramener en Akarie.
 
-        Il faut donc que les joueurs remontent jusqu'à elle, puis, selon leurs allégeances, la reprennent aux akarites, ou au contraire couvrent son rapatriement auprès des judicateurs. Cynthia livrant sans peine la localisation du laboratoire lors de son réveil (sérum de vérité), ce sera alors une course pour cambrioler au plus vite le laboratoire de Waden Shaw. Durant tout ce temps, ce dernier sera, sur le conseil de ses amis, retranché à l'Académie d'Alifir, ce que les mercenaires confirmeront). Le premier camp à investir le laboratoire de Waden mettra la main sur l'orbe et sur les analyses préliminaires du physicien.
+        Il faut donc que les joueurs remontent jusqu'à elle, puis, selon leurs allégeances, la reprennent aux akarites, ou au contraire couvrent son rapatriement auprès des judicateurs. Cynthia livrant sans peine la localisation du laboratoire lors de son réveil (sérum de vérité), ce sera alors une course pour cambrioler au plus vite le laboratoire de Waden Shaw. Durant tout ce temps, ce dernier sera, sur le conseil de ses amis, retranché à l'Académie d'Alifir (ce que les mercenaires confirmeront). Le premier camp à investir le laboratoire de Waden mettra la main sur l'orbe et sur les analyses préliminaires du physicien.
 
         Il est possible que des joueurs tentent de jouer "franc jeu" avec les PNJs, et de gagner directement leur confiance au lieu de leur soutirer des informations par des moyens détournés. Au maître du jeu de choisir s'il veut immédiatement interrompre ces parlementations, ou bien donner une chance aux joueurs entreprenants (tout en ne disqualifiant pas, en parallèle, les joueurs qui tentent une approche plus discrète).
 
@@ -714,7 +714,7 @@ gamemaster_manual:
 
 
         - il doit être dit clairement aux joueurs, en tout début de partie, que leurs services spéciaux peuvent "craquer" des mots de passe de fichiers protégés, mais qu'ils ne peuvent faire de même avec les comptes utilisateur Anthropia, car ceux-ci se bloquent au bout de 10 tentatives infructueuses, ce qui compromettrait toute l'opération.
-        - mentorés par leurs supérieurs, les joueurs devraient mettre Loyd Georges sur écoute ; par contre leurs tentatives de pirater son compte se heurtent à un écueil: il faut trouver la réponse à la question secrète (le nom du premier chat de LG) ; mais tenter d'interroger l'entourage du sir là-dessus, en plus d'éveiller des soupçons, ne devra rien donner.
+        - mentorés par leurs supérieurs, les joueurs devraient mettre Loyd Georges sur écoute ; par contre leurs tentatives de pirater son compte se heurtent à un écueil : il faut trouver la réponse à la question secrète (le nom du premier chat de LG) ; mais tenter d'interroger l'entourage du sir là-dessus, en plus d'éveiller des soupçons, ne devra rien donner.
         - l'enquête est débloquée par l'interception d'un message d'Emilos Loakim à Loyd Georges, où le vieux scientifique annonce que la "merveille" est à l'étude en lieu sûr ; dès lors, les supérieurs des joueurs les incitent à espionner et pirater le professeur Emilos Loakim ; la "question secrète" du compte du professeur est le nom de jeune fille de sa défunte femme, que par défaut les joueurs ne connaissent pas.
         - plusieurs façons de trouver ce nom de jeune fille (liste non exhaustive) :
 
@@ -725,17 +725,17 @@ gamemaster_manual:
         - une fois le nom de jeune fille ("Begalatr") trouvé, les joueurs peuvent tranquillement se promener dans le compte Anthropia du professeur Loakim, et en particulier y lire ses documents personnels, ainsi que ses quelques correspondances avec Waden Shaw ; le tout indiquant que ce dernier a l'orbe (mais le professeur lui-même ne sait où exactement, car il craint de faire une bévue).
         - le compte de Waden, trop récent, n'a pas de "question secrète" activée, les joueurs ne doivent donc pas espérer le pirater comme celui du professeur Loakim ; il est par ailleurs explicité que le physicien utilise très rarement son compte Anthropia et sa messagerie. Mais divers indices présents dans le jeu (en particulier dans le compte du professeur, ou de Loyd Georges, ou en dernier recours, lors d'une longue mise sur écoute de Waden Shaw) vont faire allusion aux fiançailles entre le physicien et Cynthia Loakim, fille du professeur.
         - les joueurs doivent dès lors concentrer leurs efforts sur Cynthia pour en savoir davantage sur le physicien. Divers indices disséminés doivent faire référence à cette jeune "reporter à l'internationale" : des articles encyclopédiques et croquis qu'elle a faits sur les "chefs d'état de Pangéa", un spot radio livrant qu'elle couvre actuellement le sommet des chefs de clan nalavutiens... Sa question secrète est à peu près incassable ("A quel endroit a-t-elle pour la première fois embrassé Waden ?") ; par contre un de ses messages à son père trahit la localisation du petit studio qui lui sert de point de chute entre chaque mission à l'étranger : les presqu'îles de Wetfeet près d'Alifir.
-        - les mercenaires ou supérieurs des joueurs leur trouvent sans peine un dessin noir&blanc montrant le quartier. Dès lors, les joueurs doivent déterminer quel est son studio exactement, en recoupant les informations éparpillées dans les différents messages des divers comptes email : pas sur pilotis, mais sur terre ferme, pas de risque immédiat d'inondation (donc pas au rez de chaussée), avec des voisins (bruyants) au dessus, des voisins (sans histoire) de chaque côté du studio, et une vue agréable (pas sur le complexe industriel). Cela ne laisse qu'une seule possibilité sur l'image: c'est là que le joueur est censé "investiguer".
+        - les mercenaires ou supérieurs des joueurs leur trouvent sans peine un dessin noir & blanc montrant le quartier. Dès lors, les joueurs doivent déterminer quel est son studio exactement, en recoupant les informations éparpillées dans les différents messages des divers comptes email : pas sur pilotis, mais sur terre ferme, pas de risque immédiat d'inondation (donc pas au rez de chaussée), avec des voisins (bruyants) au dessus, des voisins (sans histoire) de chaque côté du studio, et une vue agréable (pas sur le complexe industriel). Cela ne laisse qu'une seule possibilité sur l'image : c'est là que le joueur est censé "investiguer".
         - il est noté que le studio a un système d'alarme, donc une approche "par effraction" sera très brève, mettra le joueur en danger en cas d'enquête, et ne lui apportera que quelques données (dont des notes détaillant sa mission au Nalavut). Si au contraire le joueur trouve l'un des indices disant que Cynthia a laissé un double des clefs "dans le deuxième [poteau] en partant de l'entrée", et en informe les mercenaires, l'opération pourra être furtive, et lui ramener de nombreuses informations intéressantes, y compris son mémo de mots de passe (légèrement énigmatique tout de même). Au maître du jeu de moduler la réussite de l'opération suivant la pertinence de la localisation du studio, et selon les "visites" antérieures par d'autres groupes de mercenaires.
 
-          - si un joueur a suffisamment réussi cette opération pour percer le mot de passe de Cynthia, il découvrira dans ce compte Anthropia un bon complément d'informations, mais aucun élément "critique" sur la localisation du laboratoire secret du physicien. Il devra alors penser à faire une "demande d'amitié" au physicien, au nom de Cynthia. Après un délai variable (permettant au maître du jeu de réguler l'action), Waden acceptera, et le joueur pirate pourra alors lire tout le compte de Waden sans pour autant avoir percé son mot de passe. Dans ce compte se trouveront quelques détails sur les analyses de l'orbe, et surtout une "confirmation de commande" d'une fournisseur de matériel scientifique, annonçant l'arrivée prochaine d'une facture, après expédition du produit, par exemple à une **autre** adresse email de Waden (que les joueurs auront alors intérêt à mettre sur écoute).
-          - les joueurs ayant partiellement, ou complètement raté l'étape "cambriolage de Cynthia", doivent avoir une deuxième chance, lorsque Cynthia envoie par message (interceptable) à Waden, une archive chiffrée "avec encore le mot de passe habituel", et censée contenir en avant-première des résultats du congrès nalavutien. Si les joueurs pensent à transmettre à leurs supérieurs cette archive, ceux-ci pourront la déchiffrer par "brute force" (en essayant tous les mots de passe possibles), et trouver ainsi le mot de passe fétiche de Cynthia: "globetrotter". On retombera alors sur le cas précédent (faire une fallacieuse demande d'amitié à Waden Shaw au nom de Cynthia, etc.).
+          - si un joueur a suffisamment réussi cette opération pour percer le mot de passe de Cynthia, il découvrira dans ce compte Anthropia un bon complément d'informations, mais aucun élément "critique" sur la localisation du laboratoire secret du physicien. Il devra alors penser à faire une "demande d'amitié" au physicien, au nom de Cynthia. Après un délai variable (permettant au maître du jeu de réguler l'action), Waden acceptera, et le joueur pirate pourra alors lire tout le compte de Waden sans pour autant avoir percé son mot de passe. Dans ce compte se trouveront quelques détails sur les analyses de l'orbe, et surtout une "confirmation de commande" d'un fournisseur de matériel scientifique, annonçant l'arrivée prochaine d'une facture, après expédition du produit, par exemple à une **autre** adresse email de Waden (que les joueurs auront alors intérêt à mettre sur écoute).
+          - les joueurs ayant partiellement, ou complètement raté l'étape "cambriolage de Cynthia", doivent avoir une deuxième chance, lorsque Cynthia envoie par message (interceptable) à Waden, une archive chiffrée "avec encore le mot de passe habituel", et censée contenir en avant-première des résultats du congrès nalavutien. Si les joueurs pensent à transmettre à leurs supérieurs cette archive, ceux-ci pourront la déchiffrer par "brute force" (en essayant tous les mots de passe possibles), et trouver ainsi le mot de passe fétiche de Cynthia : "globetrotter". On retombera alors sur le cas précédent (faire une fallacieuse demande d'amitié à Waden Shaw au nom de Cynthia, etc.).
           - attention à ne pas laisser un joueur fermer définitivement la porte aux autres, par exemple s'il change le mot de passe du compte de Cynthia (ex. divulguer alors la réponse à la question secrète aux joueurs lésés, via des échanges email interceptables).
 
         - à partir du moment où les joueurs connaissent la présence de Cynthia au Nalavut (qu'ils rapporteront sans doute à l'une ou l'autre faction), et si possible lorsque 1-2 joueurs ont gagné l'accès en lecture au compte de Waden, il devient temps de déclencher l'opération d'enlèvement de Cynthia par des akarites (opérations dont certains joueurs pourraient être devenus complices). Cet enlèvement est présenté par les ravisseurs comme une "prise d'otages à buts politiques", et les médias se focaliseront sur le cas de quelques chefs de tribu retenus prisonniers, tandis que Cynthia sera discrètement rapatriée par bateau vers l'Akarie.
-        - cet enlèvement donne lieu à un premier clash entre les factions: le Paladium peut localiser Cynthia si on lui fournit l'empreinte technomagique d'un objet très particulier qu'elle porte (ex. le bijou de fiançailles qu'ils ont tous deux) ; les mercenaires ont une chance de repérer l'accostage temporaires des ravisseurs en Aklarvik ; et si rien ne leur barre la route, les akarites ont le temps de réveiller et questionner Cynthia pour avoir la localisation du laboratoire.
+        - cet enlèvement donne lieu à un premier clash entre les factions : le Paladium peut localiser Cynthia si on lui fournit l'empreinte technomagique d'un objet très particulier qu'elle porte (ex. le bijou de fiançailles qu'ils ont tous deux) ; les mercenaires ont une chance de repérer l'accostage temporaire des ravisseurs en Aklarvik ; et si rien ne leur barre la route, les akarites ont le temps de réveiller et questionner Cynthia pour avoir la localisation du laboratoire.
         - en parallèle de toute cette action, la facture des équipements scientifiques arrive sur l'email "de contact" du physicien, révélant le lieu de livraison et donc celui de l'orbe.
-        - selon la vitesse de chacun pour trouver l'adresse exacte du laboratoire secret, et surtout le moyen employé pour le cambrioler (foule akarite venue de loin, ou mieux services secrets d'une faction, ou mieux téléportation du Paladium... car on part du principe qu'envoyer des mercenaires pour une si importante mission serait trop risqué - il s'agit tout de même de l'orbe !), le maître du jeu devra déterminer quelle faction ou super-faction s'est appropriée ce fameux orbe (par défaut, on présumera qu'aucun camp n'a de problèmes particuliers pour la ramener en lieu sûr une fois trouvée).
+        - selon la vitesse de chacun pour trouver l'adresse exacte du laboratoire secret, et surtout le moyen employé pour le cambrioler (foule akarite venue de loin, ou mieux services secrets d'une faction, ou mieux téléportation du Paladium... car on part du principe qu'envoyer des mercenaires pour une si importante mission serait trop risqué - il s'agit tout de même de l'orbe !), le maître du jeu devra déterminer quelle faction ou super-faction s'est appropriée ce fameux orbe (par défaut, on présumera qu'aucun camp n'a de problèmes particuliers pour le ramener en lieu sûr une fois trouvé).
 
         .. raw:: pdf
 
@@ -746,7 +746,7 @@ gamemaster_manual:
         +++++++++++++++++++++++++++++++++++++++
 
 
-        Cette quête trouve son origine dans temps les plus troublés de la Midolie, peu avant que la confession yodique dite "razulite" (à l'origine du temple souterrain de Nazur) ne soit écrasée par la confession yodique "taranite" (principalement basée en Kéroskia). Un guerrier légendaire razulite, Bartzar, emporta l'un des orbes (rayonnant dans le violet) pour le cacher aux confins des terres glacées de ce qui était, alors, le "Sud" magnétique. Les pôles magnétiques de la planète sont désormais inversés, mais l'orbe demeure là où il a été enfoui, près de Blassow.
+        Cette quête trouve son origine dans les temps les plus troublés de la Midolie, peu avant que la confession yodique dite "razulite" (à l'origine du temple souterrain de Nazur) ne soit écrasée par la confession yodique "taranite" (principalement basée en Kéroskia). Un guerrier légendaire razulite, Bartzar, emporta l'un des orbes (rayonnant dans le violet) pour le cacher aux confins des terres glacées de ce qui était, alors, le "Sud" magnétique. Les pôles magnétiques de la planète sont désormais inversés, mais l'orbe demeure là où il a été enfoui, près de Blassow.
 
         Le point de départ pour retrouver cet Orbe est le déchiffrage des runes couvrant les artefacts récupérés par Loyd Georges. Ils mettent sur la piste de la mission légendaire de Bartzar, mais il faudra ensuite croiser ces informations avec plusieurs sources historiques et scientifiques, ainsi qu'avec des investigations sur place, pour finalement dénicher l'Orbe.
 
@@ -755,7 +755,7 @@ gamemaster_manual:
         **Principaux cheminements pour découvrir l'Orbe Beta**
 
 
-        - le point de départ de cette quête est la statue de Bartzar (qui était en fait sur sa tombe dans le temple de Nazur). Les runes de cette statue indiquent que Bartzar est allé caché un orbe hors d'atteinte des impies (mais on ne sait où exactement). Cette statue est mentionnée comme importante dans des échanges entre le professeur Loakim et Loyd Georges, mais pour voir les runes en question, il faut avoir accès au compte du professeur (et à la visualisation 3D de la statue qui est dans ses objets personnels) ou à celui de Loyd Georges (un de ses documents contient la transcription des runes).
+        - le point de départ de cette quête est la statue de Bartzar (qui était en fait sur sa tombe dans le temple de Nazur). Les runes de cette statue indiquent que Bartzar est allé cacher un orbe hors d'atteinte des impies (mais on ne sait où exactement). Cette statue est mentionnée comme importante dans des échanges entre le professeur Loakim et Loyd Georges, mais pour voir les runes en question, il faut avoir accès au compte du professeur (et à la visualisation 3D de la statue qui est dans ses objets personnels) ou à celui de Loyd Georges (un de ses documents contient la transcription des runes).
         - le piratage du compte du Pr Loakim est détaillé dans le parcours pour l'orbe Alpha. Mais les joueurs peuvent accéder de façon indépendante au compte de Loyd Georges, grâce à des échanges au sujet de la mort de son vieux chien Anubis. Aux joueurs d'en déduire que LG donnait systématiquement des noms de dieux-animaux égyptiens à ses bêtes, et d'essayer les différentes possibilités pour craquer son compte (la bonne réponse à la question de "le nom de mon premier animal" étant "Bastet", déesse-chatte).
         - le service de traduction runique fournit ensuite, moyennant finance, la signification des inscriptions sur la statue. Dès lors, plusieurs chemins s'ouvrent pour trouver le lieu où Bartzar a caché l'orbe:
 
@@ -765,10 +765,10 @@ gamemaster_manual:
             - soumis à des traductions runiques, des expertises biophysiques, ou mieux aux investigations mondiales du Paladium ou des Judicateurs, les divers artefacts étrangers permettent de circonscrire peu à peu les recherches, et dégager une piste entre Akaris et la ville de Blassow, en passant par Kosalam, Vidastrit, et Otzig (il s'agit en fait du retour de Bartzar vers Akaris).
             - avec la mise à contribution des mercenaires locaux, qui rapportent les légendes et faits historiques du lieu, ainsi que divers indices glanés sur les runes des artefacts, le joueur doit en arriver à la conclusion que Bartzar a enterré l'orbe dans la mer de sel près de Blassow (où les basses températures mettent l'orbe au silence).
 
-          - **par résolution de l'énigme du "filtre de la doctrine**
+          - **par résolution de l'énigme du "filtre de la doctrine"**
 
             - le livre sacré trouvé dans le temple, et que l'archéologue a déchiffré, indique que le secret de Bartzar ne sera percé que lorsque la lumière de la Foi passera à travers le filtre de la Doctrine. Les joueurs devront alors comprendre que, parmi les objets "mineurs" mis aux enchères, la lanterne (surnommée "Lumière des fidèles") et la grille métallique (surnommée "Protectrice de l'orthodoxie") jouent un rôle à part.
-            - Un joueur rusé doit donc réussir à acquérir les deux, et à partir des notes d'exploration de Loyd Georges, reconstituer à quels emplacements exactement ces éléments devaient être positionnés dans le temple (la lanterne dans la fontaine, et la grille par dessus). Il devra alors financer une opération commando pour retourner dans le temple de Nazur (entre-temps inondé par des fidèles un peu trop zélés), et voir ce que donne la projection des motifs de la grille sur le plafond du temple. Cette opération pointera des runes gravées dans la paroi, et la traduction de ces runes donnera sous forme assez directe la présence de l'orbe dans la mer de sel de Blassow.
+            - Un joueur rusé doit donc réussir à acquérir les deux, et à partir des notes d'exploration de Loyd Georges, reconstituer à quels emplacements exactement ces éléments devaient être positionnés dans le temple (la lanterne dans la fontaine, et la grille par-dessus). Il devra alors financer une opération commando pour retourner dans le temple de Nazur (entre-temps inondé par des fidèles un peu trop zélés), et voir ce que donne la projection des motifs de la grille sur le plafond du temple. Cette opération pointera des runes gravées dans la paroi, et la traduction de ces runes donnera sous forme assez directe la présence de l'orbe dans la mer de sel de Blassow.
 
         - quel que soit le chemin pris pour arriver dans la mer de sel de Blassow, il restera la laborieuse tâche de trouver, où exactement dans cette vaste étendue, se trouve l'orbe violet enterré. On aura potentiellement dans une ferme concurrence entre commandos des services secrets, foules de fidèles akarites, et opération téléportée du Paladium. Les commandos mettraient un très long moment à passer au détecteur manuel la zone, les akarites mettraient beaucoup moins de temps à la ratisser grâce à leur nombre, quant au Paladium, il n'agirait que ponctuellement, si son "scan mondial" (effectué sur un objet religieux très typique des akarites) a révélé un "point de résonance" particulier dans cette zone (indiquant ainsi le tas d'artefacts enterrés avec l'orbe).
         - au maître du jeu de décider, en fonction de l'ordre d'arrivée et de l'importance respective des forces, qui a réussi à déterrer l'orbe et fuir avec (ex. les commandos de services secrets ne pourront pas faire grand chose si la zone est accaparée par de nombreux akarites, par contre un commando téléporté du Paladium pourra leur ravir l'orbe à leur nez et à leur barbe...). Un jet de dé peut aider, en cas de rude concurrence.
@@ -798,16 +798,16 @@ gamemaster_manual:
         - les savants d'Alifir butent temporairement sur quelques phrases énigmatiques relatives à une bataille, et les joueurs peuvent alors les débloquer (et monter ainsi en grâce auprès d'eux) grâce aux éclaircissements apportés par les artefacts mis aux enchères, et les différentes analyses auxquelles **seuls les joueurs ont accès** (ceci à cause des rivalités entre académies)
         - dans tous les cas, au final, les scientifiques trouvent l'emplacement exact de la mythique bataille au cours de laquelle les razulites furent décimés par les taranites : près de Wigwir, en Kéroskia. En expédition sur place, le Pr Loakim et ses collègues commencent de vigoureuses fouilles, et ne tardent pas à mettre la main sur des écrits taranites relatant la bataille en question, ainsi que la poursuite des survivants razulites et de leur orbe.
         - les joueurs peuvent intercepter les transcriptions runiques (puis ultérieurement, traductions, pour secourir ceux qui ne pourraient pas utiliser la compétence "traduction runique") par les moyens habituels : mercenaires, mises sur écoute, piratage des comptes Anthropia des principaux PNJs, *social engineering* auprès des archéologues si l'identité officielle du joueur s'y prête bien...
-        - ces écrits donnent quelques indices sur le retour de l'orbe Alpha en Akaris, ainsi que sur le grand détour fait par Bartzar pour dissimuler l'orbe Beta. Mais ils sont surtout importants par le récit qu'ils donnent de la poursuite d'un petit groupe de razulite porteur d'un orbe, une chasse à l'homme qui s'est achevée dans la mortifère jungle de l'actuelle Tieros Olim (les différents messages reçus par les taranites, par pigeons voyageurs, en attestent).
+        - ces écrits donnent quelques indices sur le retour de l'orbe Alpha en Akaris, ainsi que sur le grand détour fait par Bartzar pour dissimuler l'orbe Beta. Mais ils sont surtout importants par le récit qu'ils donnent de la poursuite d'un petit groupe de razulites porteur d'un orbe, une chasse à l'homme qui s'est achevée dans la mortifère jungle de l'actuelle Tieros Olim (les différents messages reçus par les taranites, par pigeons voyageurs, en attestent).
         - pendant que les scientifiques continuent de fouiller les ruines près de Wigwir, les joueurs doivent envoyer leurs mercenaires enquêter sur la trace de l'orbe Gamma, jusqu'au dernier village avant la jungle, village où l'on se souvient encore de cet épisode.
-        - les mercenaires refuseront d'aller dans cette "jungle aux naïades chantantes", mais les joueurs ont d'autres moyens de progresser:
+        - les mercenaires refuseront d'aller dans cette "jungle aux naïades chantantes", mais les joueurs ont d'autres moyens de progresser :
 
-          - en faisant avec le Paladium un "scan mondial" sur des armes typiques des razulites ou taranites, il trouveront les traces du dernier campement mentionné, où l'assaut des taranites a mis fin à la poursuite.
+          - en faisant avec le Paladium un "scan mondial" sur des armes typiques des razulites ou taranites, ils trouveront les traces du dernier campement mentionné, où l'assaut des taranites a mis fin à la poursuite.
           - en livrant leur savoir aux judicateurs akarites, ils permettront à ceux-ci d'organiser une grande recherche (type "jeu de piste") dans la jungle, pour suivre les indices jusqu'au dernier campement des poursuivants taranites.
           - une faction nationale "normale" pourra aussi organiser son expédition, mais qui sera inévitablement plus lente à obtenir des résultats que les deux super-factions
 
         - dans le campement taranite en friche, outre les quelques ossements/armements de rigueur, se trouvent les dernières notes du chef taranite ; celles-ci mentionnent que l'orbe a bien été récupéré par leurs soins, mais que tous les guerriers sont trop blessés pour rebrousser chemin, une équipe de secours doit donc leur être envoyée au plus vite. Le dernier pigeon voyageur s'est hélas envolé sans son message, semble-t-il, et depuis, l'orbe a disparu.
-        - à partir de ce moment là, le joueur doit se douter que c'est une tribu locale qui a récupéré l'orbe (des taranites ou razulites auraient au moins donné une sépulture à leurs guerriers tombés au combat). Les autochtones fuient les rencontres comme la peste, et leurs villages sont très difficiles d'accès ; heureusement les mercenaires locaux indiquent rapidement aux joueurs la possibilité de louer des drones volants pour quadriller des zones précises de la jungle, et y relever toutes les anomalies visuelles ou sonores.
+        - à partir de ce moment-là, le joueur doit se douter que c'est une tribu locale qui a récupéré l'orbe (des taranites ou razulites auraient au moins donné une sépulture à leurs guerriers tombés au combat). Les autochtones fuient les rencontres comme la peste, et leurs villages sont très difficiles d'accès ; heureusement les mercenaires locaux indiquent rapidement aux joueurs la possibilité de louer des drones volants pour quadriller des zones précises de la jungle, et y relever toutes les anomalies visuelles ou sonores.
         - s'il survole la bonne zone, le drone rapportera des clichés de l'endroit d'où proviennent d'étranges sons (une caverne sacrée sous une cascade) ; mais trouver cette zone par "essai et erreur" coûterait une fortune aux joueurs, il existe donc des moyens plus fûtés pour déterminer où envoyer le drone:
 
           - une publicité mentionne une oeuvre audio mélangeant instruments normaux, et sons de la forêt. Une bonne idée est d'écouter sa "bande démo", de repérer les quelques passages contenant des sons étrangement cristallins, de repérer leurs lieux de prise de son grâce à la description de l'oeuvre, puis de n'envoyer les drones que dans ces 2-3 endroits.
@@ -816,7 +816,7 @@ gamemaster_manual:
 
         - une fois les clichés de la cascade obtenus, il reste enfin à récupérer l'orbe ; les joueurs doivent indiquer aux forces commando (que ce soient celles de leurs factions initiales, ou d'une super-faction) comment procéder exactement, et s'ils ont la mauvaise idée de ne pas avertir des célébrations religieuses nocturnes, les hommes envoyés se heurteront à une farouche résistance à coup de dards empoisonnés, ce qui fera échouer l'opération (même pour le Paladium, qui se refuse à traumatiser les pygmées en profanant leur temple sous leur nez).
         - en cas d'échec d'une opération, les pygmées deviendront très protecteurs de leur petit temple caverneux. L'idée est alors de négocier avec eux, pour finalement leur échanger l'orbe contre un autre système lumineux et sonore (étant donné qu'après tout, leur véritable idole est une statue d'iguane, et non l'orbe).
-        - comme pour les deux autres orbes, le maître gérera les possibles conflits entre factions, pour déterminer qui a réussi à récupérer aux pygmées ce troisième orbe.
+        - comme pour les deux autres orbes, le maître du jeu gérera les possibles conflits entre factions, pour déterminer qui a réussi à récupérer aux pygmées ce troisième orbe.
 
 
         .. raw:: pdf
@@ -827,18 +827,18 @@ gamemaster_manual:
         Quêtes Annexes
         ==========================
 
-        Si le déroulement du scénario global de Chrysalis est fermement lié à la progression des différents camps vers les Trois Orbes Divins, il existe aussi une multitude de quêtes optionnelles, parfois sans rapport aucun avec les quêtes principale. Ces quêtes permettent aux joueurs de monter en grade dans une faction, de gagner des biens, ou juste de découvrir plus profondément l'univers du jeu.
+        Si le déroulement du scénario global de Chrysalis est fermement lié à la progression des différents camps vers les Trois Orbes Divins, il existe aussi une multitude de quêtes optionnelles, parfois sans rapport aucun avec les quêtes principales. Ces quêtes permettent aux joueurs de monter en grade dans une faction, de gagner des biens, ou juste de découvrir plus profondément l'univers du jeu.
 
 
         Le Doctorat Honoris Causa
         +++++++++++++++++++++++++++++++
 
-        Loyd Georges a toujours été passionné par l'archéologie, mais si son plantureux héritage lui a permis de librement s'y adonner en amateur, en revanche le monde scientifique et ses palmes lui ont toujours été étrangers. Non pas que le brave homme fût fainéant ; mais à la quatrième tentative infructueuse pour décrocher sa première année universitaire, il dût bien se rendre à l'évidence : mémoriser des dates était infiniment au dessus de ses capacités, et il ne devait pas confondre ténacité et obstination.
+        Loyd Georges a toujours été passionné par l'archéologie, mais si son plantureux héritage lui a permis de librement s'y adonner en amateur, en revanche le monde scientifique et ses palmes lui ont toujours été étrangers. Non pas que le brave homme fût fainéant ; mais à la quatrième tentative infructueuse pour décrocher sa première année universitaire, il dut bien se rendre à l'évidence : mémoriser des dates était infiniment au dessus de ses capacités, et il ne devait pas confondre ténacité et obstination.
 
         Cependant, à soixante ans, Loyd Georges entrevoit enfin une porte d'entrée dans le domaine académique, via le titre de Docteur *Honoris Causa* que les universités décernent chaque année à qui bon leur semble.
-        Loyd s'est depuis toujours montré très généreux envers l'Académie d'Alifir, et aux subventions financières s'est ajoutée, cette année-ci, le don des plus exceptionnels artefacts ramenés de Midolie. Ce n'est donc pas sans raison que Loyd Georges espère voir son dévouement à la Science enfin reconnu et récompensé.
+        Loyd s'est depuis toujours montré très généreux envers l'Académie d'Alifir, et aux subventions financières s'est ajouté, cette année-ci, le don des plus exceptionnels artefacts ramenés de Midolie. Ce n'est donc pas sans raison que Loyd Georges espère voir son dévouement à la Science enfin reconnu et récompensé.
 
-        Mais l'affaire s'annonce mal. Les trois doyennes de l'académie, qui décident des attributions de ce titre, sont plus que partagées sur la candidature de Loyd Georges ; et son manque d'expertise scientifique le met à mal face à ses concurrents. Parmi ceux-ci, Syghmon Banor (qui n'étude que les organes sexuels de tapirs) et le Pr Losslass (un archéologue escroc).
+        Mais l'affaire s'annonce mal. Les trois doyennes de l'académie, qui décident des attributions de ce titre, sont plus que partagées sur la candidature de Loyd Georges ; et son manque d'expertise scientifique le met à mal face à ses concurrents. Parmi ceux-ci, Syghmon Banor (qui n'étudie que les organes sexuels de tapirs) et le Pr Losslass (un archéologue escroc).
 
         Les joueurs auront donc l'occasion, au fil de la première moitié de la partie, de prendre connaissance de cette quête qui préoccupe tant leur hôte ; et de s'immiscer dans l'affaire, pour altérer son dénouement (qui est la cérémonie de remise des prix à l'Académie d'Alifir). Le principal attrait de cette quête sera la possibilité de gagner les faveurs de Loyd Georges en l'aidant (avec tout ce que cela peut signifier en termes financiers et informationnels). Mais d'autres finalités seront possibles : "couler" un autre joueur en le rendant responsable de l'échec de Loyd Georges, ou faire chanter un PNJ candidat à ce titre honorifique, dont on a découvert au passage une malhonnêteté...
 
@@ -848,7 +848,7 @@ gamemaster_manual:
 
         Les joueurs ne sont initialement pas concernés par cette problématique du Doctorat Honoris Causa ; les indices en ce sens devront donc être récurrents.
 
-        - message de Loyd Georges à l'attention d'Emilos Loakim, évoquant les manigances des deux compères pour influer sur l'état d'esprit des 3 doyennes ; par la suite, les échanges entre les divers PNJs, au sujet de ce affaire, ne cesseront pas jusqu'à la cérémonie ;
+        - message de Loyd Georges à l'attention d'Emilos Loakim, évoquant les manigances des deux compères pour influer sur l'état d'esprit des 3 doyennes ; par la suite, les échanges entre les divers PNJs, au sujet de cette affaire, ne cesseront pas jusqu'à la cérémonie ;
         - annonces sur la webradio, quant à la cérémonie à venir ;
 
         Puis, au fur et à mesure, les joueurs devront se montrer proactifs dans la recherche d'informations:
@@ -863,7 +863,7 @@ gamemaster_manual:
 
         Pour que leur intervention soit reconnue, les joueurs auront intérêt à manifester au plus vite, auprès de Loyd Georges, leur intention de l'aider ; et mieux encore, lui donner quelques indices sur leur stratégie pour ce faire - sans pour autant tout dévoiler (car d'autres personnes espionneront inévitablement ces conversations). Ce sera alors le bon moment pour négocier auprès du sieur les récompenses attendues en cas d'aide décisive (sans non plus paraître vénal...).
 
-        Exemples d'interventions possibles dans l'affaire:
+        Exemples d'interventions possibles dans l'affaire :
 
         - lobbying/négociation/chantage auprès des doyennes ;
         - disqualification des concurrents, en mettant au jour leurs aspects sombres, ou en "spoofant" leurs emails ;
@@ -893,7 +893,7 @@ gamemaster_manual:
 
         Ses enquêtes peuvent montrer que la plupart de ses anciens compères ont connu des décès prématurés et douteux, et dévoiler la cellule d'assassins qui s'est implantée en Akarie. De quoi le rapprocher de Loyd Georges, si seulement le passé ne refait pas surface de façon impromptue (car une statuette qu'il avait volée à LG, reparait sur le marché noir).
 
-        Exemple de parcours : l'analyse des gélules antihistaminiques de Magnus montre qu'elles contiennent de dangereux myotoxiques ; son pharmacien à Baynon est dans le coup ; des messages interceptés permettent de trouver et de lancer l'assaut sur un repère de ces fanatiques en Lordanie ; des documents confidentiels d'Akaris sont alors saisis, etc.
+        Exemple de parcours : l'analyse des gélules antihistaminiques de Magnus montre qu'elles contiennent de dangereux myotoxiques ; son pharmacien à Baynon est dans le coup ; des messages interceptés permettent de trouver et de lancer l'assaut sur un repaire de ces fanatiques en Lordanie ; des documents confidentiels d'Akaris sont alors saisis, etc.
 
         Voir la feuille de personnage de Chrysalis:Mindstorm, qui peut servir d'introduction en profondeur à ce personnage assez spécial du jeu.
 
@@ -904,16 +904,16 @@ gamemaster_manual:
 
         Aux luttes politico-religieuses qui gangrènent Pangéa se superposent celles, plus discrètes, mais non moins intenses, que se livrent les différentes universités scientifiques pour établir leur hégémonie.
 
-        L'un des champs de bataille de cette guerre froide est le domaine des intelligences artificielles. Et l'Académie d'Alifir est sous pression, car sa grande rivale, la très hégémonique Faculté d'Imuo, vient d'exhiber un système neuronal (nommé WireMind) qu'elle prétend impossible à vaincre aux échecs. C'est un camouflet pour l'Académie d'Alifir, qui était depuis plusieurs années à la pointe de ces technologies. Elle espère donc, pour sauver l'honneur, obtenir une défaite de Wiremind, et elle ratisse pour cela tout son réseau de connaissances - dont les hôtes de Loyd Georges.
+        L'un des champs de bataille de cette guerre froide est le domaine des intelligences artificielles. Et l'Académie d'Alifir est sous pression, car sa grande rivale, la très hégémonique Faculté d'Imuo, vient d'exhiber un système neuronal (nommé WireMind) qu'elle prétend impossible à vaincre aux échecs. C'est un camouflet pour l'Académie d'Alifir, qui était depuis plusieurs années à la pointe de ces technologies. Elle espère donc, pour sauver l'honneur, obtenir une défaite de WireMind, et elle ratisse pour cela tout son réseau de connaissances - dont les hôtes de Loyd Georges.
 
-        Cette quête est intéressante à deux niveaux: empocher la récompense promise par la Faculté d'Imuo bien sûr, mais aussi s'attirer les bienfaits de l'Académie d'Alifir ; a fortiori si le joueur prend soin de négocier par avance son aide auprès de l'académie (car a posteriori, il sera dificile d'obtenir davantage que de la reconnaissance...). Un bon joueur pourra par exemple intercéder en faveur du titre honorifique de Loyd Georges, ou obtenir l'accès à certaines ressources de l'Académie d'Alifir, en échange d'une victoire contre WireMind.
+        Cette quête est intéressante à deux niveaux : empocher la récompense promise par la Faculté d'Imuo bien sûr, mais aussi s'attirer les bienfaits de l'Académie d'Alifir ; a fortiori si le joueur prend soin de négocier par avance son aide auprès de l'académie (car a posteriori, il sera difficile d'obtenir davantage que de la reconnaissance...). Un bon joueur pourra par exemple intercéder en faveur du titre honorifique de Loyd Georges, ou obtenir l'accès à certaines ressources de l'Académie d'Alifir, en échange d'une victoire contre WireMind.
 
-        Concrètement, pour parvenir à ses fins, le joueur pourra au choix:
+        Concrètement, pour parvenir à ses fins, le joueur pourra au choix :
 
         - battre directement WireMind (excellent niveau d'échecs requis) ;
-        - solliciter ses mercenaires pour qu'ils trouvent un moyen d'affaiblir WireMind (ex, faire tourner une virus dans le réseau de la Faculté d'Imuo, pour monopoliser les ressources de calcul). Cela devra se monnayer, et le joueur se fera alors ravir le titre de champion par d'autres compétiteurs (fictifs), mais il tirera son épingle du jeu si son "intervention" a été bien négociée auprès de l'académie. Attention, les interlocuteurs dans l'Académie d'Alifir pourront se montrer méfiants envers un possible canular ou piège, et ne "marcheront" que si les échanges sont suffisamment sécurisés (messagerie protégée par TLS, ou autres moyens de communication). Le maître du jeu pourra donner à un joueur adverse une chance de mettre au jour cette tactique déloyale, et de tirer partie de cette information ;
+        - solliciter ses mercenaires pour qu'ils trouvent un moyen d'affaiblir WireMind (ex. faire tourner un virus dans le réseau de la Faculté d'Imuo, pour monopoliser les ressources de calcul). Cela devra se monnayer, et le joueur se fera alors ravir le titre de champion par d'autres compétiteurs (fictifs), mais il tirera son épingle du jeu si son "intervention" a été bien négociée auprès de l'académie. Attention, les interlocuteurs dans l'Académie d'Alifir pourront se montrer méfiants envers un possible canular ou piège, et ne "marcheront" que si les échanges sont suffisamment sécurisés (messagerie protégée par TLS, ou autres moyens de communication). Le maître du jeu pourra donner à un joueur adverse une chance de mettre au jour cette tactique déloyale, et de tirer parti de cette information ;
         - enquêter sur la piste de "l'espionnage industriel", afin de démontrer que le code qui fait tourner WireMind a été en grande partie volé à Alifir ; ce sera alors un désastre pour la réputation de la faculté d'Imuo, et une double victoire pour Alifir ;
-        - gagner par ruse, en remarquant l'indice disant que *"le seul adversaire de taille pour WireMind, c'est lui-même"* ; dès lors, il suffira à deux joueurs de s'allier, d'ouvrir deux parties concurrentes contre WireMind, et de copier les coups de l'une dans l'autre. De cette façon, nécessairement, l'une des partie se soldera par la victoire du joueur d'échecs "prétendument humain" contre WireMind ;
+        - gagner par ruse, en remarquant l'indice disant que *"le seul adversaire de taille pour WireMind, c'est lui-même"* ; dès lors, il suffira à deux joueurs de s'allier, d'ouvrir deux parties concurrentes contre WireMind, et de copier les coups de l'une dans l'autre. De cette façon, nécessairement, l'une des parties se soldera par la victoire du joueur d'échecs "prétendument humain" contre WireMind ;
 
         .. note::
             Un maître du jeu facétieux pourrait continuer l'intrigue en mettant au grand jour la supercherie, ou en poussant un joueur adverse à la deviner, pour ensuite mettre en place des chantages, ou simplement un grand scandale entre universités, possiblement mâtiné de procès...
@@ -925,7 +925,7 @@ gamemaster_manual:
         Mission Anti-Phishing
         +++++++++++++++++++++++++++
 
-        Les joueurs recevront quelques emails absolument typiques du phishing (scam nigerien, fausse alerte bancaire, demande d'informations d'authentification Anthropia...), et ils devront alors penser à :
+        Les joueurs recevront quelques emails absolument typiques du phishing (scam nigérian, fausse alerte bancaire, demande d'informations d'authentification Anthropia...), et ils devront alors penser à :
 
         - localiser la provenance de ces emails via le système "GeoIP" de l'académie  ;
         - mener en bateau l'escroc, afin de soutirer des informations d'identification manquantes ;
@@ -951,13 +951,13 @@ gamemaster_manual:
 
         Trois tableaux datant de l'ère pré-tectonne, d'une valeur inestimable, viennent d'être volés à un musée de Sabarim. Cela déclenche un contrôle bien plus fin des frontières du pays.
 
-        Les joueurs peuvent se lancer sur la trace de ces oeuvres, principalement pour acquérir des riches ou de la renommée :
+        Les joueurs peuvent se lancer sur la trace de ces oeuvres, principalement pour acquérir des richesses ou de la renommée :
 
         - un tableau peut être récupéré via opération coup de poing chez un collectionneur de Faeran (sur indices des oberons)
         - un tableau peut être retrouvé en coinçant le conservateur du musée, louche, qui s'est retiré sur Cazoar après son licenciement (ex. faire un interrogatoire sous élixir de vérité, où il ne peut répondre que "oui" ou "non")
         - un tableau enfin reparaît bien plus tard au marché noir, discrètement, et les joueurs doivent sauter sur l'occasion
 
-        Aux joueurs de décider s'il compte simplement rendre ces tableaux, et toucher la récompense, ou bien les utiliser d'une autre façon.
+        Aux joueurs de décider s'ils comptent simplement rendre ces tableaux, et toucher la récompense, ou bien les utiliser d'une autre façon.
 
 
         La Canne de Loyd Georges
@@ -967,14 +967,14 @@ gamemaster_manual:
 
         Aux joueurs de saisir l'occasion pour, via les mercenaires, localiser cet ami de LG, et envoyer un faux coursier récupérer sans heurts la canne.
 
-        Ladite canne contient, dans un logement habilement verrouillé, la clef électronique du coffre de Salima, ainsi qu'un mystérieux papier griffonné. Elle livrera ces objets principalement dans deux cas:
+        Ladite canne contient, dans un logement habilement verrouillé, la clef électronique du coffre de Salima, ainsi qu'un mystérieux papier griffonné. Elle livrera ces objets principalement dans deux cas :
 
         - si elle est passée à la compétence "Expertise biophysique" ; elle sera alors ouverte proprement, et revendable au marché noir à bon prix.
-        - si le joueur demande à ses mercenaires de la casser (quelques indices dans sa description ou son image pourront laisser penser qu'elle a des choses à révéler). Dans ce cas-là, la canne sera en morceau, et le joueur la perdra.
+        - si le joueur demande à ses mercenaires de la casser (quelques indices dans sa description ou son image pourront laisser penser qu'elle a des choses à révéler). Dans ce cas-là, la canne sera en morceaux, et le joueur la perdra.
 
         La clef du coffre aura principalement valeur d'information, via le numéro de coffre qu'elle porte (voir `Cambriolage de la Banque de Salima`_). Quant au papier griffonné, il s'agira d'un mémo de Loyd Georges, mentionnant sous forme énigmatique le digicode de sécurité du manoir.
 
-        Le voleur devra mettre à profit ces informations avant que LG ne se rende compte du vol, et ne remédie aux failles de sécurité créée par cette "fuite". Mais le maître du jeu pourra amplement laisser du temps aux joueurs ; par exemple LG ne recontactera Zenon qu'une semaine plus tard, pour lui dire qu'il n'a toujours pas eu le temps de lui envoyer un coursier, et Zenon s'étonnera alors d'avoir pourtant déjà donné la canne ; les deux compères auront encore quelques échanges interloqués avant de se rendre compte que c'est bel et bien un vol, temps pendant lequel le voleur sera doublement pressé à agir.
+        Le voleur devra mettre à profit ces informations avant que LG ne se rende compte du vol, et ne remédie aux failles de sécurité créées par cette "fuite". Mais le maître du jeu pourra amplement laisser du temps aux joueurs ; par exemple LG ne recontactera Zenon qu'une semaine plus tard, pour lui dire qu'il n'a toujours pas eu le temps de lui envoyer un coursier, et Zenon s'étonnera alors d'avoir pourtant déjà donné la canne ; les deux compères auront encore quelques échanges interloqués avant de se rendre compte que c'est bel et bien un vol, temps pendant lequel le voleur sera doublement pressé à agir.
 
 
 
@@ -1001,7 +1001,7 @@ gamemaster_manual:
 
         Cependant, comme les mercenaires engagés sur place le notifieront, les coffres de cette banque sont particulièrement réfractaires aux effractions (reconnaissance oculaire, carte d'identité requise...). Toute simple tentative de cambriolage - même avec la clef du coffre volée à LG - se soldera donc par un échec cinglant (et la perte des mercenaires impliqués).
 
-        Les joueurs n'auront la chance de dérober un objet de Loyd Georges que s'ils disposent des moyens les plus avancés prêtés par l'une des deux factions "spéciales": un discret cambriolage téléporté mené par le Paladium, ou une violente "émeute fanatique" dépêchée par les judicateurs akarites.
+        Les joueurs n'auront la chance de dérober un objet de Loyd Georges que s'ils disposent des moyens les plus avancés prêtés par l'une des deux factions "spéciales" : un discret cambriolage téléporté mené par le Paladium, ou une violente "émeute fanatique" dépêchée par les judicateurs akarites.
 
         La réussite de ces assauts spéciaux dépendra de la précision de la localisation des objets de LG. Si le joueur connait les coordonnées exactes du coffre (ex. parce qu'il a trouvé la clef qui était dans la canne de LG), la réussite sera maximale. S'il a localisé approximativement les objets, en utilisant le "scan mondial", elle sera un peu moindre. Et s'il n'a aucune idée de leur emplacement dans la banque, l'émeute akarite ne récupérera que des bibelots chics, et le Paladium refusera d'intervenir.
 
@@ -1021,7 +1021,7 @@ gamemaster_manual:
 
         La faille de ce machiavélique plan, c'est que les judicateurs ont depuis longtemps décelé ces infiltrations, pris des mesures de protection (comme l'utilisation de sosies pour toutes leurs apparitions publiques), et se réjouissent de pouvoir retourner le futur bain de sang vers les héliossars - un prétexte plus que parfait pour les envahir.
 
-        Selon leur esprit d'initiative, les joueurs verront plus ou moins loin dans ce jeu de dupes, ce qui donnera plus ou moins de pertinence à leurs réactions (bien ou mal intentionnées), et mènera cette affaire vers l'un de ses nombreux dénouements possibles:
+        Selon leur esprit d'initiative, les joueurs verront plus ou moins loin dans ce jeu de dupes, ce qui donnera plus ou moins de pertinence à leurs réactions (bien ou mal intentionnées), et mènera cette affaire vers l'un de ses nombreux dénouements possibles :
 
         - annulation de la tentative d'attentat par les héliossars
         - attentat manqué qui se retourne contre les héliossars
@@ -1059,7 +1059,7 @@ gamemaster_manual:
 
         Afin d'étendre aussi leurs possibilités de communication avec les personnages non joueurs (PNJs), il est conseillé au maître du jeu de mettre en place une compétence globale "central téléphonique".
 
-        Le principe est simple: pour contacter des PNJs par téléphone, les joueurs doivent appeler le numéro fourni par le maître du jeu (qui sera, en toute probabilité, son téléphone mobile), puis donner le nom de leur correspondant au standard robotisé qui leur répond. En somme, c'est exactement le principe des standards téléphoniques d'antan, ou bien des assistants à reconnaissance vocale (Siri, Vlingo...) d'aujourd'hui.
+        Le principe est simple : pour contacter des PNJs par téléphone, les joueurs doivent appeler le numéro fourni par le maître du jeu (qui sera, en toute probabilité, son téléphone mobile), puis donner le nom de leur correspondant au standard robotisé qui leur répond. En somme, c'est exactement le principe des standards téléphoniques d'antan, ou bien des assistants à reconnaissance vocale (Siri, Vlingo...) d'aujourd'hui.
 
         Ce gameplay supplémentaire exige évidemment une certaine agilité d'esprit de la part du maître du jeu : penser à systématiquement répondre avec une voix robotique aux appels de ses joueurs (et non à ceux de ses parents ou patrons), et se remettre rapidement dans le contexte de jeu correspondant (en particulier pour mimer les PNJs "à activer", comme les mercenaires).
 
@@ -1122,7 +1122,7 @@ gamemaster_manual:
 
         Dans ce cas-là, le MJ décide que le personnage du joueur manquant disparaît, lui aussi, dans le jeu. On laissera entrevoir aux joueurs qu'il avait fait des découvertes capitales dans son coin, et qu'il a donc été soit enlevé, soit assassiné, par un camp ennemi (typiquement, les judicateurs akarites).
 
-        Dès lors, une quête parallèle s'ouvre pour les joueurs, qui consiste à résoudre l'énigme de cette disparition, et à récupérer les informations que l'espion en question avait glanées. Sachant que, dans le cas d'un enlèvement, le kidnappé peut aussi réussi à faire parvenir, par des moyens exotiques, quelques messages à ses collègues.
+        Dès lors, une quête parallèle s'ouvre pour les joueurs, qui consiste à résoudre l'énigme de cette disparition, et à récupérer les informations que l'espion en question avait glanées. Sachant que, dans le cas d'un enlèvement, le kidnappé peut aussi réussir à faire parvenir, par des moyens exotiques, quelques messages à ses collègues.
 
         Dans un tel scénario, le maître du jeu devra donner un surplus d'information aux alliés du disparu (via leurs "supérieurs" communs), et rassembler différents indices du jeu (principalement relatifs aux orbes) pour que ceux-ci soient trouvés par les joueurs qui suivent la trace du malheureux.
 
@@ -1148,12 +1148,12 @@ gamemaster_manual:
 
             Cependant, la diplomatie offre un moyen pratique pour enrichir les interactions entre joueurs, démultiplier leur fun, et les aider à déterminer qui est dans chaque camp ; il est donc vivement conseillé de l'inclure.
 
-            Pour l'heure, l'organisation des différentes réunions diplomatiques, et la définition de leur ordre du jour, sont laissées à la discrétion du maître du jeu (grâce aux les informations de contexte ci-dessous).
+            Pour l'heure, l'organisation des différentes réunions diplomatiques, et la définition de leur ordre du jour, sont laissées à la discrétion du maître du jeu (grâce aux informations de contexte ci-dessous).
 
 
         L'alignement politique des différents pays dépendra fortement de la récupération des orbes par les deux grands adversaires (Akaris et le Paladium), mais les joueurs pourront aussi influer plus directement dessus, grâce à leurs rôles d'informateur et d'ambassadeur.
 
-        Dans chaque faction initiale, les deux joueurs se verront en effet affecter des missions de négociation différentes, qui les amèneront à rentrer en contact à la fois avec d'autres joueurs (eux aussi mandatés par leurs factions), et avec des PNJs. Autant que possible, ces réunions doivent se jouer en grandeur-nature, voire en costumé.
+        Dans chaque faction initiale, les deux joueurs se verront en effet affecter des missions de négociation différentes, qui les amèneront à rentrer en contact à la fois avec d'autres joueurs (eux aussi mandatés par leurs factions), et avec des PNJs. Autant que possible, ces réunions doivent se jouer en grandeur-nature, voire en costume.
 
         Pour éviter de trop facilement divulguer qui est avec qui, deux joueurs de la même faction ne devront de préférence pas intervenir sur la même mission diplomatique.
 
@@ -1163,9 +1163,9 @@ gamemaster_manual:
         Les recherches d'alliance masslaves
         -----------------------------------------
 
-        Les masslaves seront dans une perspective aussi simple qu'oppressante : réussir à obtenir des soutiens de poids en cas d'agression akarites.
+        Les masslaves seront dans une perspective aussi simple qu'oppressante : réussir à obtenir des soutiens de poids en cas d'agression akarite.
 
-        Ils iront donc d'eux-mêmes démarcher les doriens, les héliossars, et prêteront une bonne oreille aux inattendues propositions de la lointaine Fédération Lordaniene.
+        Ils iront donc d'eux-mêmes démarcher les doriens, les héliossars, et prêteront une bonne oreille aux inattendues propositions de la lointaine Fédération Lordanienne.
 
         En parallèle, ils tenteront - sans trop y croire - de négocier un apaisement des relations avec Akaris.
 
@@ -1179,7 +1179,7 @@ gamemaster_manual:
 
         Le principal obstacle à cet asservissement volontaire est théologique - les différentes confessions akarites ont des vues plus ou moins dures sur la "pureté" de leur race "élue des Yods", selon les textes sacrés sur lesquels ils se focalisent. Dès lors, les judicateurs sont partagés entre l'aubaine d'une annexion facile, et la nécessité de ménager les susceptibilités de leurs ouailles.
 
-        Les joueurs désireux de remplir cette étrange mission de médiation jusqu'au bout devront donc trouver la bonne rhétorique et la bonne "exégèse" des textes sacrés, pour convaincre le plus grande nombre des akarites de la nécessité d'intégrer le peuple dorien. Quitte à se contenter d'un statut avili (la dhimmitude) pour le peuple dorien, une position qui ressemble à un mélange d'occupation et de racket, mais qui reste préférable à un anéantissement pur et simple.
+        Les joueurs désireux de remplir cette étrange mission de médiation jusqu'au bout devront donc trouver la bonne rhétorique et la bonne "exégèse" des textes sacrés, pour convaincre le plus grand nombre des akarites de la nécessité d'intégrer le peuple dorien. Quitte à se contenter d'un statut avili (la dhimmitude) pour le peuple dorien, une position qui ressemble à un mélange d'occupation et de racket, mais qui reste préférable à un anéantissement pur et simple.
 
         Dans le même temps, les services doriens seront appelés à mener en bateau (vers les récifs, pourrait-on dire) les autres peuples midoliens, en alternant entre le déni de la menace akarite, et les promesses d'alliance sans lendemain.
 
@@ -1191,7 +1191,7 @@ gamemaster_manual:
 
         Dès lors, ils vont proposer leur soutien à chacune des factions en jeu, tenter de grappiller un maximum d'informations sur les forces en présence, puis équilibrer la balance à coups de ventes d'armes. Ceci, tout en réfléchissant à l'issue qui serait la plus à même d'affaiblir les peuples midoliens - la guerre déclarée (au risque de voir émerger un empire), ou l'équilibre de la terreur (au risque de voir un jour ces peuples se lasser, puis s'allier).
 
-        La principale crainte des dirigeants lordanien, c'est que leur approche excessivement pragmatique de la question midolienne ne soit mise au grand jour ; et que cela ne leur vaille quelques ennuis de la part des divers peuples midoliens, ou de leur propre société civile (qui voit, dans l'ensemble, d'un mauvais oeil la surenchère militaire en Midolie). Un discrétion extrême sera donc de mise lors de ces douteuses manipulations.
+        La principale crainte des dirigeants lordaniens, c'est que leur approche excessivement pragmatique de la question midolienne ne soit mise au grand jour ; et que cela ne leur vaille quelques ennuis de la part des divers peuples midoliens, ou de leur propre société civile (qui voit, dans l'ensemble, d'un mauvais oeil la surenchère militaire en Midolie). Une discrétion extrême sera donc de mise lors de ces douteuses manipulations.
 
 
 
@@ -1232,9 +1232,9 @@ gamemaster_manual:
 
         De même, sauf rarissime cas d'un joueur ayant fait de très grosses bêtises, les compétences offertes par les centres scientifiques sont accessibles à tous, indifféremment.
 
-        - Piratage: toujours
+        - Piratage : toujours
         - Mercenaires : toujours
-        - Mise sur écoute et Sécurisation: toujours
+        - Mise sur écoute et Sécurisation : toujours
 
         - Localisation GeoIP : toute faction
         - Analyse Télécom : toute faction
@@ -1245,7 +1245,7 @@ gamemaster_manual:
 
         - Scan mondial : Paladium
         - Appel aux fidèles : Judicateurs akarites
-        - Assauts: toute faction (mais plus ou moins efficace)
+        - Assauts : toute faction (mais plus ou moins efficace)
 
         - Ouverture du manoir de LG : seul LG y a accès
 
@@ -1264,9 +1264,9 @@ gamemaster_manual:
         - l'indentation (nombre d'espaces en début de ligne) est primordiale pour délimiter les blocs de texte qui vont ensemble ;
         - dans la majorité des cas, les sauts de ligne simples sont ignorés (il faut donc laisser une ligne vide pour faire un changement de paragraphe) ;
 
-        En plus du format RestructuredText, le jeu offre quelques mécanismes et balises spécifiques pour enrichir et maîtriser ces contenus:
+        En plus du format RestructuredText, le jeu offre quelques mécanismes et balises spécifiques pour enrichir et maîtriser ces contenus :
 
-        - les balises mémo (ex. ``{{ USER NAME HERE }}``), présentes en principe uniquement dans les modèles d'emails, sont des marqueurs qui doivent être remplacées par le contenu pertinent, sans quoi le message ne sera pas validé et envoyé ;
+        - les balises mémo (ex. ``{{ USER NAME HERE }}``), présentes en principe uniquement dans les modèles d'emails, sont des marqueurs qui doivent être remplacés par le contenu pertinent, sans quoi le message ne sera pas validé et envoyé ;
         - les adresses email sont automatiquement converties en liens "Nouveau Message" du portail Anthropia, mais attention, il faut pour cela échapper l'arobase avec un "backslash" (barre oblique inversée), afin que cette adresse ne soit pas confondue avec un véritable email : écrire `garnet\\@anthropia.pg` ;
         - les "mots-clefs" sont automatiquement transformés en liens vers les articles encyclopédiques correspondants (sauf lorsqu'ils se trouvent dans le corps de l'article en question) ;
         - vous pouvez utiliser les balises ``BR`` (entre crochets) pour insérer un saut de ligne forcé, et ``NBSP`` (entre crochets) pour insérer une espace insécable ;
@@ -1291,7 +1291,7 @@ gamemaster_manual:
         Images
         -------------
 
-        Pour visualiser les images de jeu disponibles, rendez vous sur la galerie d'images:
+        Pour visualiser les images de jeu disponibles, rendez-vous sur la galerie d'images :
 
         http://pangeaweb.org/static/gallery/ (login "chrysalis", mot de passe "chryscom")
 
@@ -1325,7 +1325,7 @@ gamemaster_manual:
         Audio
         --------------
 
-        Exemple d'intégration::
+        Exemple d'intégration : ::
 
             .. embed_audio:: [GAME_FILE_URL  "audio/radio_spots/jingles/advert_guitar_long_107.mp3"]
 
@@ -1475,7 +1475,7 @@ gamemaster_manual:
 
             Vous allez jouer des agents secrets, au service d'un des gouvernements de la planète "Pangéa".
 
-            Vous allez bientôt recevoir vos instructions personnelles, ainsi que vos codes d'accès au portail de jeu ( {{ URL_DU_JEU }} ; c'est un intranet qui centralisera nombre d'interactions, entre joueurs, mais aussi avec des personnages fictifs (les fameux PNJs).
+            Vous allez bientôt recevoir vos instructions personnelles, ainsi que vos codes d'accès au portail de jeu ( {{ URL_DU_JEU }} ) ; c'est un intranet qui centralisera nombre d'interactions, entre joueurs, mais aussi avec des personnages fictifs (les fameux PNJs).
 
             Voici, en attendant quelques informations et règles diverses !
 
@@ -1490,7 +1490,7 @@ gamemaster_manual:
 
             Les ambiances urbaines vont principalement de la Renaissance au futuriste, avec de fortes connotations steam-punk (pensez "époque victorienne, machines cuivrées, costumes classieux, mais désuets..."). Les civilisations les plus avancées maîtrisent les moteurs à explosion, les différentes énergies fossiles, le solaire/éolien, les communications sans fil... mais il existe de fortes disparités de développement, et certains lieux confinent encore à la préhistoire.
 
-            Sans surprise, des tensions géopolitiques et religieuses très vives existent entre les états géants qui morcellent la planète (en particulier, dans une région appelée Midolie, ou les divinités "Yods" et leurs fidèles sèment un peu la pagaille).
+            Sans surprise, des tensions géopolitiques et religieuses très vives existent entre les états géants qui morcellent la planète (en particulier, dans une région appelée Midolie, où les divinités "Yods" et leurs fidèles sèment un peu la pagaille).
 
             Quelques sectes et individus isolés prétendent pouvoir faire de la "magie", mais très peu de scientifiques s'aventureraient à les prendre au sérieux ; d'autant qu'il y a déjà bien assez à faire avec les pouvoirs, récemment découverts, de l'atome : radiographies, crèmes cosmétiques, chauffe-eau collectifs au rendement imbattable...
 
@@ -1500,10 +1500,10 @@ gamemaster_manual:
             Comme dans tout jeu de rôle, il convient de distinguer ce qui est dans le jeu ("RolePlay") de ce qui n'y est pas ("Hors RolePlay") :
 
             - le portail "pangeaweb" est dédié au jeu ; le reste du web est considéré comme inexistant dans Pangea, hormis ce qui est commun avec notre réalité (données scientifiques, Histoire d'avant 1908...)
-            - il est possible de communiquer par des moyens externes au portail "pangeaweb" (de visu, par téléphone, par SMS, par Skype et son chat'...), mais SVP **utilisez la messagerie du portail à la place de vos emails "réels"**, afin de permettre un suivi par le maître de jeu
+            - il est possible de communiquer par des moyens externes au portail "pangeaweb" (de visu, par téléphone, par SMS, par Skype et son chat...), mais SVP **utilisez la messagerie du portail à la place de vos emails "réels"**, afin de permettre un suivi par le maître de jeu
             - toute action crédible dans le contexte du monde de Pangéa est en principe possible (ex. intrusion dans les comptes Pangeaweb d'autres personnes...) ; cependant si vous pensez être tombé non sur une fonctionnalité, mais sur un bogue, merci de le notifier
-            - les adresses en ".pg" sont spécifiques à la messagerie du portail de jeu, inutile d'essayer de leur envoyer un message depuis votre vrai client email (gmail, thunderbird...) ; de même, vous ne pouvez pas envoyer un message vers une vraie adresse email, depuis le messagerie interne au portail "pangeaweb"
-            - lors de possibles séquences "grandeur-nature", les objets réels sont par défaut hors-roleplay, sauf s'ils sont marqués avec {{ MARQUEUR }}) ; en particulier, on ne touche pas au dépôt de matériel du maître de jeu (fiches diverses, déguisements, réserve de billets de banque...)
+            - les adresses en ".pg" sont spécifiques à la messagerie du portail de jeu, inutile d'essayer de leur envoyer un message depuis votre vrai client email (gmail, thunderbird...) ; de même, vous ne pouvez pas envoyer un message vers une vraie adresse email, depuis la messagerie interne au portail "pangeaweb"
+            - lors de possibles séquences "grandeur-nature", les objets réels sont par défaut hors-roleplay, sauf s'ils sont marqués avec {{ MARQUEUR }} ; en particulier, on ne touche pas au dépôt de matériel du maître de jeu (fiches diverses, déguisements, réserve de billets de banque...)
             - bien évidemment, on ne s'en prend pas *physiquement* aux autres joueurs
             - il est normal qu'initialement de nombreux contenus semblent manquants ou bloqués ; à vous de découvrir par exemple de nouveaux articles encyclopédiques, ou de gagner accès aux compétences spéciales inactives du menu
             - en cas de doute sur le fonctionnement du portail ou du jeu, sur ce qui est permis ou non, contacter le(s) maître(s) du jeu
@@ -1518,7 +1518,7 @@ gamemaster_manual:
 
             ### Les monnaies ###
 
-            La principale monnaie d'échange utilisée sur Pangéa est le *kash*, qui s'écrit '¤' (noter que 1¤ équivaut à environ 100€ de notre réalité) ; cette monnaie dématérialisée, mal régulée et facile à dissimuler, est propice aux opérations peu licites, d'où sa réputation controversée.
+            La principale monnaie d'échange utilisée sur Pangéa est le *kash*, qui s'écrit "¤" (noter que 1¤ équivaut à environ 100€ de notre réalité) ; cette monnaie dématérialisée, mal régulée et facile à dissimuler, est propice aux opérations peu licites, d'où sa réputation controversée.
 
             Chaque pays a en outre sa propre monnaie nationale ; ainsi, le pays de Sabarim surveille de près le cours de sa précieuse Livre Sabarite, seule monnaie officiellement autorisée pour les achats importants (*noter qu'une Livre Sabarite vaut par chance, exactement 1¤*).
 
@@ -1697,7 +1697,7 @@ gamemaster_manual:
 
         - **compétences ajoutées : analyse télécom**
 
-        - [alpha] déclencher l'enlèvement de Cynthia, si que les joueurs sont bloqués dans cette quête de l'orbe alpha
+        - [alpha] déclencher l'enlèvement de Cynthia, si les joueurs sont bloqués dans cette quête de l'orbe alpha
 
         - diffusion de la vidéo scientifique sur Tunguska, par l'Académie d'Alifir
 
@@ -1707,7 +1707,7 @@ gamemaster_manual:
 
         - [doctorate] message de Loakim à LG, où il émet des suspicions quant à son collègue (candidat au doctorat honorifique), le Pr Losslass
 
-        - [wiremind] ouverture de la page de jeu d'échecs, et diffusion (radio, email..) du contexte de ce défi entre académies rivales
+        - [wiremind] ouverture de la page de jeu d'échecs, et diffusion (radio, email...) du contexte de ce défi entre académies rivales
         - **compétences ajoutées : défi d'échecs**
 
         ------------
@@ -1776,7 +1776,7 @@ gamemaster_manual:
         - ne pas tarder à donner des objets, des indices, des directives précises aux joueurs, afin qu'ils n'errent pas vainement sur l'interface de jeu
         - ne pas attendre pour distiller les messages et médias donnant davantage d'informations sur l'univers de Chrysalis
         - mettre en avant le "marché noir" et le "tiers de confiance", des compétences sous-exploitées par les joueurs
-        - si les joueurs se mettent à faire leur propre chiffrage dans leurs messages (type Vijner, césar...), s'assurer de garder la main sur ce qu'ils se disent, ou bien l'interdire (au nom de leurs "supérieurs" qui ne veulent pas se compliquer la vie)
+        - si les joueurs se mettent à faire leur propre chiffrage dans leurs messages (type Vigenère, César...), s'assurer de garder la main sur ce qu'ils se disent, ou bien l'interdire (au nom de leurs "supérieurs" qui ne veulent pas se compliquer la vie)
         - si nécessaire, aider à reconnaître les objets importants mis en vente (ex. lors d'une réunion stratégique avant chaque série d'enchères)
         - plus tard, ne pas hésiter à donner des mini-quêtes annexes à ceux qui stagnent, ou à réintroduire des indices pour ceux qui ont perdu la trace des quêtes principales
         - surtout s'assurer que les joueurs n'oublient pas le jeu ; si vous renseignez leurs emails dans leurs fiches personnage, et que cette option est activée dans le Tableau de Bord Admin, les joueurs recevront un email de notification lorsque de nouveaux messages ou spots radio sont apparus depuis leur dernier passage (max 1/jour, envoyé la nuit) ; le maître de jeu aura, lui, un message récapitulant ces notifications nocturnes (contacter le support Chrysalis si des problèmes surviennent sur ce point)
@@ -1812,7 +1812,7 @@ gamemaster_manual:
 
         Il arrivera souvent que, dans leurs tâtonnements, des joueurs dépensent du temps et de l'argent (fictif) dans des entreprises d'où, scénaristiquement, rien n'est censé émerger. C'est alors au maître du jeu de compléter le scénario, afin que les investigations du joueur ne soient pas peine perdue : diffusion de quelques indices le remettant sur la bonne voie, création d'une mini-quête annexe lui permettant des gains...
 
-        Ainsi, si un joueur met sur écoute des PNJs très secondaires, le maître du jeu fera bien, à un moment ou une autre, de faire échanger à ceux-ci des messages avec d'autres PNJs (potentiellement inventés pour l'occasion) ; messages dans lesquels le joueur pourra trouver des bribes d'informations, ou de nouvelles idées pour progresser.
+        Ainsi, si un joueur met sur écoute des PNJs très secondaires, le maître du jeu fera bien, à un moment ou à un autre, de faire échanger à ceux-ci des messages avec d'autres PNJs (potentiellement inventés pour l'occasion) ; messages dans lesquels le joueur pourra trouver des bribes d'informations, ou de nouvelles idées pour progresser.
 
 
         Limiter le hasard
@@ -1820,7 +1820,7 @@ gamemaster_manual:
 
         Il est naturel d'ajouter un peu d'aléatoire à un jeu de rôle, afin de briser le possible côté "mécanique" du gameplay. Ainsi, les actions temporisées de Chrysalis (lors de l'utilisation de diverses compétences spéciales) ne s'exécutent pas après un délai fixe : celui-ci est tiré au sort dans une fenêtre temporelle prédéterminée.
 
-        Attention cependant de ne pas tomber dans la facilité, en tirant au sort toute situation indécise (missions dangereuses des mercenaires, concurrence entre les actions de plusieurs joueurs...). Même si le joueur ne s'en rend pas compte immédiatement, cela peut le dégoûter après coup, lors de la rétrospective de la partie. Il est plus fatigant, mais aussi bien plus juste, pour le maître du jeu, de peser chaque décision en fonction de critères moins volatiles:
+        Attention cependant de ne pas tomber dans la facilité, en tirant au sort toute situation indécise (missions dangereuses des mercenaires, concurrence entre les actions de plusieurs joueurs...). Même si le joueur ne s'en rend pas compte immédiatement, cela peut le dégoûter après coup, lors de la rétrospective de la partie. Il est plus fatigant, mais aussi bien plus juste, pour le maître du jeu, de peser chaque décision en fonction de critères moins volatiles :
 
         - ordre temporel des différentes actions
         - esprit d'initiative et audace des joueurs
@@ -1839,9 +1839,9 @@ gamemaster_manual:
 
         Ainsi, si plusieurs joueurs envoient leurs mercenaires remplir la même mission, il serait injuste (donc frustrant et décourageant) que ceux qui ont le temps de jouer le matin soient avantagés par rapport à ceux qui ne le peuvent que le soir, après leurs cours ou leur travail.
 
-        Les actions ayant lieu dans une même fenêtre temporelle (typiquement, 24h) doivent donc se voir attribuer des chances semblables de gagner, et c'est en fonction d'autres critères (précision des directives et informations du joueur, importance des forces en présence, en dernier recours tirage au sort) que les succès et les échecs doivent être tranchés. Sachant qu'il parfois possible de partager les gains et les pertes, au "pro rata" de l'efficacité des joueurs.
+        Les actions ayant lieu dans une même fenêtre temporelle (typiquement, 24h) doivent donc se voir attribuer des chances semblables de gagner, et c'est en fonction d'autres critères (précision des directives et informations du joueur, importance des forces en présence, en dernier recours tirage au sort) que les succès et les échecs doivent être tranchés. Sachant qu'il est parfois possible de partager les gains et les pertes, au "pro rata" de l'efficacité des joueurs.
 
-        Cette contrainte est évidemment bien moindre dans des modes de jeu plus continus (Week-End non-stop, semaine de vacances...), dans lequel l'adage "premier arrivé, premier servi" trouvera toute sa pertinence.
+        Cette contrainte est évidemment bien moindre dans des modes de jeu plus continus (Week-End non-stop, semaine de vacances...), dans lesquels l'adage "premier arrivé, premier servi" trouvera toute sa pertinence.
 
 
 
@@ -1856,7 +1856,7 @@ gamemaster_manual:
         Bannir l'effet "Tragédie Grecque"
         ++++++++++++++++++++++++++++++++++++++++++++++++++
 
-        Le grand d'intérêt d'un jeu, par rapport à un film, c'est de pouvoir interagir avec l'histoire, et avoir un véritable impact dessus. Donc s'il y a une chose agaçante, c'est bien que les efforts et les choix des joueurs soient impuissants devant une implacable destinée (souvent fort triste) qui les attend.
+        Le grand intérêt d'un jeu, par rapport à un film, c'est de pouvoir interagir avec l'histoire, et avoir un véritable impact dessus. Donc s'il y a une chose agaçante, c'est bien que les efforts et les choix des joueurs soient impuissants devant une implacable destinée (souvent fort triste) qui les attend.
 
         Certains jeux vidéo se sont fait lapider par la critique pour avoir suivi ce type de scénario. Chrysalis en est en partie protégé par les grands jalons de son scénario, qui offrent par défaut plusieurs alternatives selon les actions des joueurs ; mais même aux échelles plus petites, celui d'une quête annexe par exemple, il est bon que la réussite d'un joueur dépende de sa persévérance et de la justesse de ses décisions, pas de ce que le maître du jeu en aura décidé par avance.
 
@@ -1865,7 +1865,7 @@ gamemaster_manual:
         Personnaliser l'intrigue
         +++++++++++++++++++++++++++++++
 
-        Chrysalis mâche le travail du maître du jeu en fournissant, par avance, une importance quantités de contenus : images, sons, articles encyclopédiques, mais aussi et surtout textes de messagerie et spots radio.
+        Chrysalis mâche le travail du maître du jeu en fournissant, par avance, une importante quantité de contenus : images, sons, articles encyclopédiques, mais aussi et surtout textes de messagerie et spots radio.
 
         Afin d'ajouter de l'humour et de l'immersivité, le maître du jeu est invité à modifier ces médias avant de les diffuser, pour y incorporer des clins d'oeil, détails personnels et autres *private jokes*.
 
@@ -1882,9 +1882,9 @@ gamemaster_manual:
 
         Même les machinations les plus complexes et secrètes, si elles ne sont pas légitimées à la fois par leur but et par les moyens mis en oeuvre, pourront valoir de sérieux retours de bâton  de la part du Paladium - l'hyperpuissance secrète du jeu qui, pour une fois, n'est pas une force vouée à la destruction de l'humanité.
 
-        A l'inverse, les joueurs qui trouvent des solutions ingénieuses et justes pour arriver à leur fin, s'attireront potentiellement la bienveillance des divers PNJs, ce qui ne fera que faciliter de plus en plus leur progression.
+        A l'inverse, les joueurs qui trouvent des solutions ingénieuses et justes pour arriver à leurs fins, s'attireront potentiellement la bienveillance des divers PNJs, ce qui ne fera que faciliter de plus en plus leur progression.
 
-        Pour que, malgré le contexte assez "illégal" du scénario (luttes entre services secrets pour récupérer des informations et des objets), les joueurs puissent arriver à leurs fins sans devoir piétiner l'éthique, nombre de situations ont été volontairement "noircies" : le code de WireMind a été en majeure partie volé à l'Académie d'Alifir, les concurrents de Loyd Georges au titre de Doctor Honoris Causa ont des secrets honteux aptes à les disqualifier...
+        Pour que, malgré le contexte assez "illégal" du scénario (luttes entre services secrets pour récupérer des informations et des objets), les joueurs puissent arriver à leurs fins sans devoir piétiner l'éthique, nombre de situations ont été volontairement "noircies" : le code de WireMind a été en majeure partie volé à l'Académie d'Alifir, les concurrents de Loyd Georges au titre de Docteur Honoris Causa ont des secrets honteux aptes à les disqualifier...
 
         Ces ficelles, pour artificielles qu'elles soient, permettent aux joueurs futés de débouter les gêneurs tout en restant dans leur bon droit ; et le maître du jeu est invité à en ajouter là où une "juste solution" manquerait. Les joueurs n'ayant de toute façon qu'une connaissance très partielle de toutes ces situations, il est à parier qu'ils ne seront pas interloqués par le nombre d'injustices-à-réparer que contient Chrysalis.
 
