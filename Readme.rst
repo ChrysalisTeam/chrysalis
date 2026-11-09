@@ -12,7 +12,7 @@ This repository contains the scenario and media files for the `Chrysalis Rolepla
 
 You may freely modify, use and share these assets under the `Creative Commons - Non Commercial <https://creativecommons.org/licenses/by-nc/3.0/fr/deed.en>`_ license. Their authors are listed in the `team page <https://chrysalis-game.com/cms/a-propos/equipe/>`_ of the Chrysalis Game website. For commercial use of media or text files, please contact us via this website. Python code files, on the other hand, are released under a permissive `MIT license <https://opensource.org/licenses/MIT>`_.
 
-**For now, Chrysalis texts are in French only, sorry for the inconvenience.**
+Chrysalis texts were written in French; English translations are available for all games (see `Generation of PDF scenario files and other documents`_ below).
 
 
 
