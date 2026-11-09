@@ -19,6 +19,7 @@ savegames/
 
 *HEAVY.*
 
-script_fixtures/local.yaml
+script_fixtures/*local*.yaml
+!script_fixtures/local.yaml.example
 .*.rst
 .*.pdf
