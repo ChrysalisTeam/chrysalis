@@ -97,7 +97,7 @@ For some years now, the industrialisation of the world has been accelerating, an
 
 **Honoré des Hautvents**, burgomaster of the village for 30 years, is beginning to regret the pact he made with the forest. He could become rich by letting a corporation such as the **Rockies Company** exploit the mineral wealth of the place. He therefore begins to discuss, with his close circle, a way of getting rid of the alchemist Séléné, and thus putting an end to the Blood Pact.
 
-This close circle is made up of 2 people: **Fénelon, the notary** of the village and partner in all dirty tricks. And **Joséphine des Hautvents, his only daughter**, who came back to the village to recharge her batteries a few months ago, after a fine start to her career in the administration of a railway transport company.
+This close circle is made up of 2 people: **Fénelon, the notary** of the village and partner in all dirty tricks. And **Joséphine des Hautvents, the burgomaster's only daughter**, who came back to the village to recharge her batteries a few months ago, after a fine start to her career in the administration of a railway transport company.
 
 One fine day, an explosion rings out in the forest, and rocky debris lands on the village; a certain **Émile the tanner** thus ends up buried under a rock, in his house. Other dwellings are hit, forcing their inhabitants to **relocate temporarily to the inn**. Hypotheses abound about the origin of this catastrophe. Joséphine then pushes her father to see his ideas through: to write a letter purportedly signed by the alchemist herself, and claiming this rain of rock as a curse intended to drive the "stinking hairless apes" (meaning the humans) out of the land.
 
@@ -212,7 +212,7 @@ At noon the banquet of honour takes place, in the inner courtyard of the inn.
 
 The witcher reveals his plans for what comes next: after a decade of roaming the roads, he has fallen in love with this land (as well as with one of its inhabitants, one gathers), and fully intends to settle there for good. He even stands for election to the post of **burgomaster**, arguing that he will be able to bring both renown and comfort to the village (drawing water from the hot spring, putting up solar mills...), while preserving the tranquillity that makes its charm.
 
-The burgomaster, outraged by events, briefly summons the notary and his daughter upstairs, to humiliate the latter and demand a solution.
+The burgomaster, outraged by events, briefly summons the notary and his own daughter Joséphine upstairs, to humiliate the latter and demand a solution.
 Joséphine, very cold, tells him that she has a plan, but that they must keep up appearances for now, and both wait for her discreetly after nightfall, with handguns, in the **old stable** of the village. In the meantime, she reminds them that as many traces of the alchemist as possible (including her dwelling) must be made to disappear, to cover the trail.
 
 Abélard, who has gone out for some air, is timidly joined by Rose, the innkeeper's daughter. He then puts a temporary end to his courtship, arguing that he does not want his advances to be misinterpreted by the village, that this is already earning him the enmity of the innkeeper and of a few young men, and that he prefers to "let the dust settle" before the two of them see each other again. Understanding, but with tears in her eyes, Rose goes back to serving.
@@ -221,7 +221,7 @@ The burgomaster brings up again the subject of the alchemist's **undestroyed tow
 
 
 
-3 - The villagers interrupt the alchemist's funeral
+4 - The villagers interrupt the alchemist's funeral
 --------------------------------------------------------------
 
 The Ancestral Tortoise warns the sapient animals that the Enchantress and the Druid have arrived, and that they are holding a cremation ceremony with many animals that have come running.
@@ -242,7 +242,7 @@ At the telegraph office, Joséphine does indeed send this **status message**; bu
 Joséphine then goes to work in her office at the Town Hall, and checks in her personal safe for the presence of a small, very heavy and extremely well-locked metal casket (impossible to open). The animals can potentially see her secret combination.
 
 
-4 - The evening brings dramatic twists
+5 - The evening brings dramatic twists
 ---------------------------------------------------
 
 The villagers are all back in Sylvorann, and a last light meal takes place in the evening.

@@ -204,6 +204,9 @@ Shared Pangea universe terms
    * - Elixir Berserk
      - Berserk Elixir
      - Combat drug appearing in several games.
+   * - Ère Tectonne / ère tectonne / prétectonne
+     - Tectonic Era / pre-Tectonic
+     - Pangean era name, capitalised in EN; FR spelling "tectonne" (the sources also write tectone / Tectone / ante-tectonne).
    * - figurant(e)
      - NPC actor
      - The human performer of a non-player character; "NPC" for the character itself.
@@ -233,7 +236,7 @@ Shared Pangea universe terms
      - Pangea currency; lowercase; plurals "kashes", "kilokashes", "megakashes"; abbreviations "Mk" (megakash) and "¤" (kash) kept. Its value is game-dependent and follows each FR source: "1 kash buys 10 baguettes of bread" (Mindstorm context intro) but "about 100 loaves of bread" (Archives GM manual), an inconsistency in the FR sources, flagged to the author.
    * - Kéroskia / kéroskien
      - Keroskia / Keroskian
-     - Country / adjective; no accent in EN.
+     - Continent / adjective; no accent in EN. Slavinka, Tieros Olim = countries in it.
    * - Larme(s) Divine(s)
      - Divine Tear(s)
      - Lore name of the Divine Orbs.
@@ -399,8 +402,8 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - Other miscellaneous knowledge
      - Recurrent sheet heading (Anthropologist, Lockpicker).
    * - avatar(s) / Avatar - …
-     - Avatar(s) / Avatar - …
-     - Novel heroes incarnated. Sheet prefix.
+     - avatar(s) / Avatar - …
+     - Novel heroes incarnated. Lowercase in running text, as in FR; capital only in headings, at sentence start and in the sheet prefix "Avatar - …".
    * - aventurine / oeil-de-tigre / clairvoyant minéral / arbre éternel / gant-de-renard
      - aventurine / tiger's eye / clairvoyant mineral / eternal tree / foxglove
      - Druid's archaic ingredient names.
@@ -451,7 +454,7 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - Invulnerability potion ingredients (complement glossary row).
    * - blessure biologique / spirituelle / sacrée / blessé
      - biological injury / spiritual injury / sacred injury / injured
-     - Mechanic.
+     - Mechanic; "spirituelle" and "sacrée" are synonyms (spiritual injury = sacred injury).
    * - BOF / NOPE / A PRECISER (notes MJ dans les commentaires Jinja)
      - MEH / NOPE / TO BE SPECIFIED
      - Jinja-comment GM shorthand.
@@ -620,9 +623,6 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - crocheteur
      - Lockpicker
      - Spy role (canonical).
-   * - croix blanches (scotch au sol)
-     - white crosses (tape on the floor)
-     - Archivist's recipe markers.
    * - curare / flèche au curare
      - curare / curare arrow
      - Clue.
@@ -821,9 +821,9 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - flash lumineux
      - light flash
      - Trap cue.
-   * - flèches blanches tracées au sol
-     - white arrows drawn on the floor
-     - Archivist's phosphorescent markers to sub-recipes.
+   * - flèches blanches (en scotch) / scotch blanc
+     - white arrows (in tape) / white tape
+     - Archivist's markers to the sub-recipes, made in-game of white tape on the floor; never "crosses", never phosphorescent paint.
    * - fléchette (d'arbalète) / fléchettes nerf / balles
      - dart (crossbow bolt) / Nerf darts / bullets
      - Woodsman ammo.
@@ -980,6 +980,9 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - lampe à ultraviolets / lampe UV / message UV
      - ultraviolet lamp / UV lamp / UV message
      - Unveiler item.
+   * - message UV du portrait de Mérédice : "Adieu soeurette, qui mourra verra (signé Octave)"
+     - UV message of Mérédice's portrait: "Farewell sis, time will kill (signed Octave)"
+     - Pun on "qui vivra verra" / "time will tell" (checklist, optional UV message); an English UV prop must use this wording.
    * - Le ballet des automates
      - The Ballet of the Automatons
      - Inventor's novel title.
@@ -1103,6 +1106,9 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
    * - Mirandia / mirandien
      - Mirandia / Mirandian
      - Island country.
+   * - mois pangéens : Septemaire / septemaire / octobaire / decembaire / februaire / junaire
+     - Pangean months: Septemaire / septemaire / octobaire / decembaire / februaire / junaire
+     - Coined month names in clue dates; verbatim, never translated.
    * - molettes à chiffres
      - numbered dials
      - Combination locks.
@@ -1606,9 +1612,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Actes d'estimation / Actes d'huissier / Actes de vente
      - Appraisal deeds / Bailiff's deeds / Bills of sale
      - Tabellion abilities (headings of notary_sheet).
-   * - Adjoint de police
+   * - Adjointe de police
      - Deputy police officer
-     - Obsidian's cover job.
+     - Obsidian's cover job (Obsidian is female).
    * - aérodrome militaire géant d'Alifir
      - giant military aerodrome of Alifir
      - Place.
@@ -1714,9 +1720,6 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Banque de Salima / Votre compte à la banque de Salima
      - Bank of Salima / Your account at the Bank of Salima
      - Institution.
-   * - Bar/Brasserie du Purineur
-     - The Purineur Bar/Brasserie
-     - Place; short form "Bar du Purineur" = "the Purineur Bar".
    * - Baroudeur (Rodok) / vie de baroudeur
      - globetrotter (Rodok) / globetrotting life
      - Loyd Georges' adventuring friend in Mindstorm prose (opal_remedy_quest); name verbatim. "sa vie de baroudeur" (Loyd Georges, alphonse_sheet) = "his globetrotting life"; never "adventurer's life". In Descent the same FR word is the PC role "ranger" (role name).
@@ -1747,8 +1750,8 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Boîte postale anonyme n°67
      - Anonymous P.O. box no. 67
      - Lore.
-   * - bon cadeau pour un massage du cou
-     - gift voucher for a neck massage
+   * - bon cadeau pour un massage du crâne
+     - gift voucher for a scalp massage
      - Hairdresser-masseur trigger.
    * - Bonbonne tectonne
      - Tectonic Canister
@@ -1765,6 +1768,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Bourses d'étude
      - Study grants
      - Rodimir negotiation demand.
+   * - Brasserie du Purineur
+     - the Purineur Brasserie
+     - Place; never "Bar" (FR "bar le Purineur" too).
    * - Briefing initial / intermédiaire
      - Initial / mid-game briefing
      - Mentor phone briefings.
@@ -2062,9 +2068,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Emeute Akarite
      - Akarith Riot
      - Specific ability.
-   * - Emilos Loakim / Pr Loakim / Ernest de Villeuneuve
-     - Emilos Loakim / Prof. Loakim / Ernest de Villeuneuve
-     - NPCs; verbatim (keep source spelling "Villeuneuve").
+   * - Emilos Loakim / Pr Loakim
+     - Emilos Loakim / Prof. Loakim
+     - NPCs; verbatim.
    * - Enceinte externe électrifiée
      - Electrified outer fence
      - Manor lore.
@@ -2107,6 +2113,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Expert en histoire yodique
      - expert in Yodic history
      - Malachite's cover identity.
+   * - Expertise biophysique (d'un objet) / Service d'expertise biophysique
+     - Biophysical appraisal (of an object) / Biophysical appraisal service
+     - Auction ability (abilities.yaml matter_analysis); also for "analyse physique" when it means this ability. Distinct from the Anthropia ability "Analyse biophysique" = "Biophysical Analysis".
    * - Extrême-midolien
      - Far-Midolian
      - "fusion des peuples extrême-midoliens" = "merger of the Far-Midolian peoples".
@@ -2320,6 +2329,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Isildis
      - Isildis
      - Lydia's cousin; verbatim.
+   * - jeu de dupes
+     - game of deception / game of bluff
+     - False friend: never "fool's game". "this game of deception" (Auction GM manual); "a game of bluff" where someone really bluffs (Mindstorm shark_misc_instructions).
    * - Jeu des bâtonnets
      - Game of sticks (Nim)
      - GM mini-game.
@@ -2437,6 +2449,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Libre déplacement
      - Free Movement
      - Obsidian ability.
+   * - Livre Sacré Yodique
+     - Sacred Yodic Book
+     - Auction lot F (sacred_book), the Akarith rune grimoire.
    * - Livres Sabarites
      - Sabarith Pounds
      - Currency.
@@ -2740,6 +2755,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Récapitulatif des compétences spéciales (fiche hors-jeu)
      - Summary of special abilities (out-of-game sheet)
      - Oberon mediator reference.
+   * - receleur / recel (illicite)
+     - receiver of stolen goods / (illicit) receiving
+     - Legal term (Auction GM manual): whoever illegally holds the items; never the bare "receiver", nor "fence" (reselling comes later).
    * - Rédac' chef
      - Editor-in-chief
      - Lore job.
@@ -2959,6 +2977,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Traducteur de Runes Yodique / Traduction de runes akarites
      - Yodic Rune Translator / Akarith rune translation
      - Ability.
+   * - Trésors Perdus de Midolie
+     - Lost Treasures of Midolia
+     - Auction: name of Loyd Georges' auctions and of their website; never "Oubliés"/"Forgotten".
    * - Traître atomique (Le)
      - The Atomic Traitor
      - Mission title.
@@ -3513,9 +3534,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - langage codé / message codé
      - simple code / coded message
      - Hero-Reporter communication.
-   * - langue celte / langue incompréhensible / en français approximatif / haranguer
-     - Celtic tongue / unintelligible tongue / in broken French / to harangue
-     - Druid's speech.
+   * - langue celte / langue incompréhensible / (en français) / en français approximatif / haranguer
+     - Celtic tongue / unintelligible tongue / (in the players' (own) language) / in broken English / to harangue
+     - Druid's speech. "(en français)" is a stage direction for the language the psykers understand: in EN, the language of the session (druid_spectre, game_flow).
    * - Le Trésor du Cromlech - FICHE PNJ
      - The Cromlech Treasure - NPC SHEET
      - Treasure document title.
@@ -3656,7 +3677,7 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
      - Region, verbatim.
    * - rangement (d'appartenance) / caisse / BOX
      - storage crate / crate / BOX
-     - Common crates listing.
+     - Common crates listing. The "@CODES" crate identifiers (e.g. "@EXTERNE-SACS-GEANTS") stay verbatim in EN: build_archives_pdfs.py parses them, and they match the French labels of the real crates.
    * - rapport d'analyse (du glaive)
      - analysis report (of the gladius)
      - Investigation update.
@@ -4254,8 +4275,8 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - survival mask / gas mask / bio-chemical protective mask
      - Same item under three names.
    * - mèche / mèche à explosif / vieille mèche
-     - fuse / detonating fuse / old slow fuse
-     - Not "wick".
+     - fuse / blasting fuse / old slow fuse
+     - Not "wick"; not "detonating fuse" (real det cord is far faster): "100 m of blasting fuse (burn rate 5 m/s)".
    * - Médias d'accompagnement
      - Supporting media
      - Heading.
@@ -4561,6 +4582,24 @@ Jinja symbol display values
    * - ``amplificans_artefacts_symbol``
      - soleil orné en son centre d'un tourbillon noir
      - sun with a black whirl at its centre
+   * - ``analysis_code_androids_command_bracelet``
+     - fzk
+     - fzk
+   * - ``analysis_code_arkon_gladius``
+     - xep
+     - xep
+   * - ``analysis_code_arkon_skull``
+     - srf
+     - srf
+   * - ``analysis_code_thief_bones``
+     - jsb
+     - jsb
+   * - ``analysis_code_thief_wallet``
+     - yal
+     - yal
+   * - ``analysis_code_three_tombs``
+     - ltx
+     - ltx
    * - ``analysis_portal_hint_category``
      - analyse
      - analysis
@@ -4807,6 +4846,9 @@ Jinja symbol display values
    * - ``lg_remote_friend_lord_name``
      - Comte Adamor
      - Count Adamor
+   * - ``lg_vault_secret_code``
+     - 603-109 (six sans Troie...sang neuf)
+     - 603-109 (sick-oh-free... won-oh-nine)
    * - ``lg_vault_secret_code_location``
      - petite boite à mouchoir
      - small tissue box
@@ -4849,6 +4891,36 @@ Jinja symbol display values
    * - ``mages_war_name``
      - Guerre des Trente Sorciers
      - War of the Thirty Sorcerers
+   * - ``magic_code_enchanted_cauldron``
+     - adp
+     - adp
+   * - ``magic_code_etheric_benediction_necklace``
+     - bst
+     - bst
+   * - ``magic_code_etheric_manaic_aura_necklace``
+     - pyw
+     - pyw
+   * - ``magic_code_etheric_stone_skin_necklace``
+     - arx
+     - arx
+   * - ``magic_code_etheric_vital_force_necklace``
+     - hfv
+     - hfv
+   * - ``magic_code_forbidden_domain_seal``
+     - bte
+     - bte
+   * - ``magic_code_grinding_mill``
+     - ecz
+     - ecz
+   * - ``magic_code_mos_peraty_tomb``
+     - kxp
+     - kxp
+   * - ``magic_code_ring_amplificans``
+     - duy
+     - duy
+   * - ``magic_code_spectral_table_bell``
+     - vbr
+     - vbr
    * - ``malachite_alibi_location``
      - Square Fleuri de Salima
      - Salima Flower Square
@@ -4873,6 +4945,9 @@ Jinja symbol display values
    * - ``maupertuis_father``
      - Quirinius
      - Quirinius
+   * - ``maupertuis_father_blue_fake_book_code``
+     - 425
+     - 425
    * - ``maupertuis_father_thanatologue_chest_code``
      - 723
      - 723

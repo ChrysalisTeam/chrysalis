@@ -97,7 +97,7 @@ Depuis quelques années, l’industrialisation du monde s'accélère, et parmi l
 
 **Honoré des Hautvents**, bourgmestre du village depuis 30 ans, commence à regretter le pacte qu'il a conclu avec la forêt. Il pourrait devenir riche en laissant une corporation comme la **Compagnie des Rocheuses** exploiter les richesses minières des lieux. Il commence donc à discuter, avec son entourage proche, d'un moyen de se débarrasser de l'alchimiste Séléné, et ainsi mettre un terme au Pacte de Sang.
 
-Cet entourage proche est composé de 2 personnes : **Fénelon, notaire** du village et partenaire de tous les coups fourrés. Et **Joséphine des Hautvents, sa fille** unique, venue se ressourcer au village il y a quelques mois, après un beau début de carrière dans l'administration d'une société de transport ferré.
+Cet entourage proche est composé de 2 personnes : **Fénelon, notaire** du village et partenaire de tous les coups fourrés. Et **Joséphine des Hautvents, la fille unique du bourgmestre**, venue se ressourcer au village il y a quelques mois, après un beau début de carrière dans l'administration d'une société de transport ferré.
 
 Un beau jour, une explosion retentit dans la forêt, et des débris rocheux atterrissent sur le village ; un certain **Émile le tanneur** finit ainsi enseveli sous une roche, dans sa maison. D'autres habitations sont touchées, forçant leurs habitants à se **reloger temporairement à l'auberge**. Les hypothèses vont bon train sur l'origine de cette catastrophe. Joséphine pousse alors son père à aller au bout de ses idées : écrire une lettre prétendument signée de la main de l'alchimiste, et revendiquant cette pluie de roche comme une malédiction destinée à chasser les "puants singes glabres" (que seraient les humains) hors de la contrée. 
 
@@ -112,7 +112,7 @@ Là, Abélard enfonce la porte de la tour de Séléné, et l'assassine. C'est à
 
 ---
 
-**Le vrai fond de l'affaire** : en réalité, Joséphine des Hautevents déteste son père autoritaire, castrateur, qui n'a jamais cru en elle, et a même tenté de la marier de force avant qu'elle ne s'enfuie vers la grande ville. Sans surprise, lorsqu'elle revient au pays et évoque la ruée actuelle vers les cristaux sulfureux, le bourgmestre s'approprie cette idée, et elle ne peut jouer son rôle d'apporteuse d'affaire auprès de la **Société Minéralys** qui a des vues sur les gisements de la région.
+**Le vrai fond de l'affaire** : en réalité, Joséphine des Hautvents déteste son père autoritaire, castrateur, qui n'a jamais cru en elle, et a même tenté de la marier de force avant qu'elle ne s'enfuie vers la grande ville. Sans surprise, lorsqu'elle revient au pays et évoque la ruée actuelle vers les cristaux sulfureux, le bourgmestre s'approprie cette idée, et elle ne peut jouer son rôle d'apporteuse d'affaire auprès de la **Société Minéralys** qui a des vues sur les gisements de la région.
 
 Elle guide donc, par télégraphe, la Société Minéralys pour qu'une de leur équipe évalue en secret la qualité des filons rocheux. Mais ces fouilles déclenchent la malédiction du Pacte de Sang : les **3 explorateurs de Minéralys** déclenchent une (rare) explosion sulfureuse, qui fait tomber des rochers sur le village, et aucun d'eux ne revient.
 
@@ -221,7 +221,7 @@ Le bourgmestre relance le sujet de la **tour non détruite** de l'alchimiste. Ab
 
 
 
-3 - Les villageois interrompent les obsèques de l'alchimiste
+4 - Les villageois interrompent les obsèques de l'alchimiste
 --------------------------------------------------------------
 
 La tortue ancestrale prévient les animaux sapiens que l'Enchanteresse et le Druide sont arrivés, et qu'ils font une cérémonie de crémation avec de nombreux animaux accourus.
@@ -242,7 +242,7 @@ Au poste télégraphique, Joséphine envoie bien ce **message de statut** ; mais
 Joséphine va ensuite travailler dans son bureau à l'Hôtel de Village, et vérifie dans son coffre-fort personnel la présence d'un petit coffret métallique très lourd et extrêmement bien fermé (impossible à ouvrir). Les animaux peuvent potentiellement voir sa combinaison secrète.
 
 
-4 - La soirée amène des coups de théâtre
+5 - La soirée amène des coups de théâtre
 ---------------------------------------------------
 
 Les villageois sont tous de retour à Sylvorann, et une dernière collation a lieu le soir.

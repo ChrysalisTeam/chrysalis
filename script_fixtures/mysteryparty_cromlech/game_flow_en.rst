@@ -100,7 +100,7 @@ Police Inspector's intervention halfway through the interview:
 - Points out the wound on the Curator's left hand. {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
 - Accuses the Guide of having forged diplomas.
 
-Druid's intervention: He goes to see the player groups currently with the Guide and the Curator; each time, he beckons the group's Psyker over to him; he introduces himself, then tells them (in French) a tall tale, to the effect that these artefacts are sacred relics of the Gaulish people, and that Andrea must have stolen the gladius out of greed.
+Druid's intervention: He goes to see the player groups currently with the Guide and the Curator; each time, he beckons the group's Psyker over to him; he introduces himself, then tells them (in the players' language) a tall tale, to the effect that these artefacts are sacred relics of the Gaulish people, and that Andrea must have stolen the gladius out of greed.
 
 
 Second Investigation Update
@@ -162,7 +162,7 @@ Curator: raises the alarm: "the artefacts must be left alone, and Andrea must be
 
 Treasure: study of the artefacts and messages discovered; nothing new is expected.
 
-Druid's intervention: He goes to see the player groups currently with the Reporter and the Treasure; each time, he beckons the group's Psyker over to him, and now says (in French) that there is indeed an entity gestating in the artefacts, but that it is a benevolent deity, to be protected so that the druids' legacy is not lost forever.
+Druid's intervention: He goes to see the player groups currently with the Reporter and the Treasure; each time, he beckons the group's Psyker over to him, and now says (in the players' language) that there is indeed an entity gestating in the artefacts, but that it is a benevolent deity, to be protected so that the druids' legacy is not lost forever.
 
 .. raw:: pdf
 
@@ -187,7 +187,7 @@ Final Scene
 - Meanwhile the Druid nudges the **zombie psykers** to return, rather discreetly, to their groups.
 - The final soundtrack is started, the cromlech begins to **crackle** from time to time.
 - 30 s after the start, the cromlech's Tesla coil also starts playing the "Dies Irae"; the **Reporter**, followed by the **Guide**, then calls on the players to join him on the **left** of the cromlech, and to make the "Centurions' Sign" with him to help Andrea (arms crossed over the chest). **Slogan to repeat: "By the Glory of Jupiter".**
-- 12 s later, when the Tesla coil takes up the "Dies Irae" again, it is the turn of the **Druid** (now in broken French), followed by the **Curator**, to urge the players to join him on the **right** of the cromlech, and to make the "Druids' Sign" with him (forming a menhir shape with the arms and hands) to save the Druids' Last Wish. The zombie psykers follow his orders. **Slogan to repeat: "By the Might of Toutatis".**
+- 12 s later, when the Tesla coil takes up the "Dies Irae" again, it is the turn of the **Druid** (now in broken English), followed by the **Curator**, to urge the players to join him on the **right** of the cromlech, and to make the "Druids' Sign" with him (forming a menhir shape with the arms and hands) to save the Druids' Last Wish. The zombie psykers follow his orders. **Slogan to repeat: "By the Might of Toutatis".**
 - The cromlech calms down but the music goes on; both camps must keep up their slogans.
 - The Inspector urges the undecided players to choose their side, because **"remaining impassive in such situations of danger is a crime"**.
 - At the end of the music, Andrea appears; he explains the **ending (his victory or his defeat)** and what it means for the World.

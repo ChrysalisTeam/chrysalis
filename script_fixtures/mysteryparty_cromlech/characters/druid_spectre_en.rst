@@ -23,7 +23,7 @@ Since then, you have been searching for them everywhere, fearing they may have p
 
 In the real world, private detectives have arrived on the premises; but to your great astonishment, you will discover that they too can see you, and hear you (but in your native tongue; for examples of how it sounds, see the video https://www.youtube.com/watch?v=Wc22W3bos64).
 
-You can only make yourself understood (in French) by the **psykers**, those detectives who have additional mental powers; to do so you must step a little aside with them, to establish the mental link and be able to speak to them.
+You can only make yourself understood (in the players' own language) by the **psykers**, those detectives who have additional mental powers; to do so you must step a little aside with them, to establish the mental link and be able to speak to them.
 
 Your goal is to turn the players against Andrea and his allies, by lying skilfully:
 

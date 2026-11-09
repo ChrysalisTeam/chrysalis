@@ -106,6 +106,6 @@ In reality:
 - The grimoire is actually fake; it is there mainly for atmosphere, but can reveal an extra clue inside it in mid-game. {% xitem "grimoire scellé à couverture de bois" is needed %}
 - A wooden chest, with a 4-digit padlock, is present. It contains the following items. {% xitem "Coffre en bois avec cadenas à 4 chiffres" is needed %}
 
-  - A {% item "tablette noire de défixion" is needed %} (= a spell tablet) bearing the sigil of the Gaulish god of war.
-  - A {% item "cryptex contenant le parchemin médiéval" is needed %}.
+  - A black curse tablet (defixio), i.e. a spell tablet, bearing the sigil of the Gaulish god of war. {% xitem "tablette noire de défixion" is needed %}
+  - A cryptex (containing the medieval parchment). {% xitem "cryptex contenant le parchemin médiéval" is needed %}
 
