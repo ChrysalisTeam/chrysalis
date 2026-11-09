@@ -21,6 +21,31 @@ Archives (script_fixtures/mysteryparty_archives/)
   => Confirm this is intended.
 
 
+- Capitalisation of "Avatar(s)" varies between documents (also in French).
+  => Pick one rule and apply it everywhere.
+
+- Gamemaster manual (line ~602): the French speaks of a "biological" injury, where the rules of the
+  living/dead only know physical, magical and sacred attacks, and the fact key next to it says
+  "cursed_skull_and_bones_give_sacred_injuries". The English kept "biological".
+  => Check whether "sacred" was meant.
+
+- "Out-of-game NOTE" and "Out-of-game note" are both used.
+  => Pick one.
+
+- The same item is called "Lotion of Revelation" in some documents and "Potion of Revelation" in others
+  (the French also varies).
+  => Pick one name in both languages.
+
+- The sentence "One of the rare visitors..." is duplicated in two archives documents.
+  => Check whether this repetition is wanted.
+
+- main_quest_tracking_sheets uses "explorer_group_symbols" for the Parcival sheet.
+  => Check whether a Parcival-specific symbol set was intended.
+
+- Gamemaster manual (line ~1297): "quelques ares de terrain" was kept as "a few ares of ground"; the are
+  (100 m²) is little known in English. => Keep, or rephrase (e.g. "a few acres", or "a few fields").
+
+
 Auction (script_fixtures/gamemaster_manual_en.yaml)
 ---------------------------------------------------
 
@@ -34,6 +59,10 @@ Auction (script_fixtures/gamemaster_manual_en.yaml)
 - "physical analysis" vs "Biophysical appraisal" (the French itself is inconsistent), "receiver" for "receleur",
   and "fool's game" were left as is.
   => Proofread these.
+
+
+- The Faculty of Imuo and the Alifir Academy (line ~909) seem to designate the same institution.
+  => Check, and harmonise if so.
 
 
 Mindstorm (script_fixtures/mysteryparty_mindstorm/)
@@ -52,6 +81,45 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
 
 - "Ventes Privées d'Alphonse" was kept in French, as were the props and the text inside images.
   => Confirm, or translate (images would need re-editing).
+
+
+- Clue ODT: a gamemaster comment of the veal blanquette recipe says "repas de midi" (lunch), while
+  everywhere else it is the dinner; the English says "dinner". => Fix the French comment.
+
+- Clue ODT: the treasure acrostic says "THE STATELY CAULDRON", while everything else says "Precious Cauldron"
+  (probably required by the acrostic). => Confirm.
+
+- Clue ODT, Panorbium poem: "le prêtre clamera" became "the priest cries" (present tense), to keep the line
+  no longer than the French. => Proofread.
+
+- Assets checklist: "Pouch of (oleander) laurel" keeps the ambiguity of the French "laurier". => Clarify.
+
+- Ernest's surname is spelled "De Villeneuve" in the panorbium_fortuna_search mission briefing, but
+  "de Villeuneuve" in the gamemaster manual (same in French). => Pick one spelling in both languages.
+
+- Andrea's Italian parent is the father in some documents and the mother in others. => Pick one.
+
+- Malachite: the room with the sofa differs between documents, and "à son insu" (without his/her
+  knowledge) is ambiguous about who is unaware. => Check.
+
+- Opal: her homeland is "Slavinka" in some documents and "Keroskia" in others. => Pick one.
+
+- Peridot: the shop is located in Imuo in some documents and Nimouk in others, and the French uses a
+  feminine "Patronne" for the owner. => Check location and owner's gender.
+
+- Obsidian's gender is inconsistent between documents. => Pick one.
+
+- shark_previous_days_fr: "L'archidiacre" appears without being introduced elsewhere. => Check who it is.
+
+
+Sentience and Cromlech (script_fixtures/sentience_rpg/, script_fixtures/mysteryparty_cromlech/)
+-----------------------------------------------------------------------------------------------
+
+- Sentience: two scenes are numbered 3. => Renumber.
+
+- Cromlech: item keys like {% item "tablette noire de défixion" %} are French strings, used as keys in both
+  languages. There is no Cromlech build script yet, so nothing checks them.
+  => Keep French keys (and translate only displayed names), or switch to neutral keys.
 
 
 Descent (script_fixtures/descent_rpg/descent_rpg_data_en.yaml)
