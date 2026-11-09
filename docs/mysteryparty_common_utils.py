@@ -102,13 +102,12 @@ def export_ingame_clues_pdfs(clues_document, clues_parts, output_dir, language):
     SLOW - export the (translated) ingame clues ODT document into a myriad of small PDFs.
     """
     localized_clues_document = rpg.localize_source_filename(clues_document, language)
-    if os.path.exists(localized_clues_document):
-        _generate_clues_pdfs_from_main_odt_document(input_doc=localized_clues_document,
-                                                    clues_parts=clues_parts,
-                                                    output_dir=output_dir,
-                                                    language=language)
-    else:
-        print("!!! Skipping export of ingame clues, since no translated document %s exists" % localized_clues_document)
+    if not os.path.exists(localized_clues_document):
+        raise RuntimeError("Can't export ingame clues, since no translated document %s exists" % localized_clues_document)
+    _generate_clues_pdfs_from_main_odt_document(input_doc=localized_clues_document,
+                                                clues_parts=clues_parts,
+                                                output_dir=output_dir,
+                                                language=language)
 
 
 def _normalize_pdf_text(text):
@@ -298,7 +297,7 @@ def _send_email_to_recipients(sender, recipients, text, subject, attachments=Non
     "FAKE" if dry_run else "REALLY", subject, str(email_list), ", ".join(attachments)))
 
     if not dry_run:
-        print(">>>>>> SMTP SETTINGS: %s" % str(smtp_conf))
+        print(">>>>>> SMTP SETTINGS: %s" % str(dict(smtp_conf, password="***")))
         server = smtplib.SMTP(smtp_conf["host"])
         server.ehlo()
         server.starttls()
@@ -341,7 +340,11 @@ def _send_character_sheets_via_email(all_data, player_names, subject, email_temp
         email_attachments = [os.path.abspath(x) for x in email_attachments]
 
         for email_attachment in email_attachments:
-            assert player in email_attachment or "common" in email_attachment or "documents" in email_attachment, email_attachment  # Do not mixup specific files
+            attachment_name = os.path.basename(email_attachment)
+            attachment_folder = os.path.basename(os.path.dirname(email_attachment))
+            assert player in attachment_name or "common" in attachment_name or attachment_folder == "documents", email_attachment  # Do not mixup specific files
+            assert not any(other_player in attachment_name for other_player in player_names
+                           if other_player != player and other_player not in player), email_attachment
             assert os.path.isfile(email_attachment), email_attachment
 
         text = email_template % player_data
