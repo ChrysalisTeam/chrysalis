@@ -137,3 +137,66 @@ Mindstorm & Archives game data (docs/_initial_game_data_dump.yaml)
   therefore shows up in English player sheets, guest gallery, lore introduction, phone appointments,
   cheat sheet and manor surveillance reports.
   => Create an English version (e.g. _initial_game_data_dump_en.yaml), loaded via load_localized_yaml_file.
+
+Doubts from the third full review (by game area)
+-----------------------------------------------
+
+- Purineur "Brasserie" (old neighbour sheet, radio ad) vs "Bar" (GM manual, checklist), same split in French. => Pick one.
+
+- Robb Barrow sheet: "worktop" vs clue ODT GM comment "workbench" (French "établi" in both). => Align.
+
+- Dangling antecedents copied from French: "Thus," left hanging in building_material_explanations; "such tar sands" without antecedent in rare_earths_explanations and vehicle_fuel_explanations. => Fix the French, then the English.
+
+- Garnet: the mastiff tears off part of the shoe "sole" (semelle), but the assets checklist prop is a "shoe heel" (talon; hint broken_shoe_heel). => Align.
+
+- Cynthia promises Loyd Georges a "sketch" (croquis) of her new home in cynthia_previous_days, but elsewhere a "picture" of her flat or building (hint cynthia_wetfeet_building_picture). => Align.
+
+- "Orb(s)" capitalisation is mixed across Mindstorm English files ("the orb" 19x, "the Orb" 4x...); the glossary only says "Divine Orb(s)" is a proper name. => Pick a rule.
+
+- GM manual (~line 904): the Archivist marked the sub-recipe locations with "white crosses (in tape)", but the Archivist sheet says "white arrows drawn on the floor" in phosphorescent paint (same in French). => Pick one in both languages.
+
+- Octave/Archivist shared knowledge: "boîtier en bois" -> "wooden box" refers to the fake book Venture Prins, which may confuse readers. => Clarify if wanted.
+
+- The duplicated "One of the rare visitors..." passage (dragons_role / complement_for_diakons) is now word-for-word identical in English; edit both together.
+
+- Planning (hour 1:00): "the mastiff Bedou was roughed up", but Bedou is the sheepdog and Oupaout the mastiff (same in French). => Check which dog.
+
+- Props in French for English players: the Purifiers password ("sanctuaire", given as "sanctuary" in an English GM comment) is on a physical ivory prop, and the card-game message prop ("brothers meet tomorrow evening at the purineur") is in French. => Make English props.
+
+- Massage voucher: the clue says "scalp massage" (French "massage du crâne"), but the glossary says "neck massage" (from "massage du cou" in another French document). => Pick one in both languages.
+
+- GM manual: "antique canister" (~line 431) may be the "Tectonic Canister" item, and "Akarith grimoire (sold at auction)" (~line 445) may be the "Akarith Scroll" auction item. => Check, and use the item names if so.
+
+- Parcival Alchemist's gender varies in French (ODT GM comment and avatar_druid_sheet: feminine; GM manual ~line 1153 and role sheet "parfait autodidacte": masculine). As a player role, "they" may be safest. => Pick one.
+
+- In-universe numbers that disagree (FR and EN): GM manual "every year for 1000 years" (~line 541) vs "as it does every 100 years" (~line 680); "before 1908" (~line 97) vs "up to the year 1900" (~line 1233); checklist "Dinner buffet of the 3 worlds" vs GM manual "magic dinner buffet of the four worlds"; checklist "pepper mill stereogram" vs "coffee mill" stereogram in GM manual and clues. => Harmonise.
+
+- Clue ODT: Magus's tomb poem "And seal its fate instead" (French "Pour enfin sceller son sort", i.e. "at last"), and a GM comment "Oracle vision for the Druid's Volume 3" leaving out "to find". => Proofread.
+
+- Assets checklist: a stray ")" in entries 110 and 441 (both languages). => Check.
+
+- Glossary: add rows for "Ère Tectonne" (auction "Tectonic Era", mindstorm clue "tectonic era") and "Expertise biophysique" (auction "Biophysical appraisal"); add the symbol keys only used in YAML checklists (archives magic/analysis codes, maupertuis_father_blue_fake_book_code, mindstorm lg_vault_secret_code).
+
+- Capitalisation of named items follows the French case rather than the glossary ("orb"/"Orb", "Sabarith Law/law", "Akarith lexicon/Lexicon", metal detector, magnetic unlocker, Herculean strength...). => Reword the glossary convention to "capitalised when the item or ability is designated by its name", and harmonise.
+
+- Cromlech: the druid speaks to the psykers "(in French)" / "in broken French" (druid_spectre_en.rst:26, game_flow_en.rst:103/165/190). In an English session this presumably means the players' language. => Decide.
+
+- Descent: "detonating fuse (speed 5 m/s)": real detonating cord is far faster; "safety fuse" would be more accurate. => Decide.
+
+- Sentience (~line 215): "the notary and his daughter" - "his" means the burgomaster's daughter, slightly ambiguous. => Clarify.
+
+- Auction (~line 1696, [alpha]): French "lui faire demander" was read as "have the players request Waden's digital friendship in her name" (from Cynthia's hacked account). => Confirm.
+
+
+Build toolchain (docs/)
+-----------------------
+
+- Shark's player sheet includes (players/shark_previous_days_{fr,en}.rst, ".. include::") the gamemaster version of
+  the manor surveillance reports, with real identities ("Tomol Niokiev (Amethyst)") and gamemaster hints.
+  => Fine if Shark is always played by an organiser; otherwise include a player version.
+
+- appointments/yodic_council_interviews_en.rst and missions/transfiliation_attempt/dorian_mission_en.rst do
+  replace('**Un ', '.. ') on texts of the game data dump: this only works because the dump is French.
+  => Adapt these replacements when an English dump (_initial_game_data_dump_en.yaml) is created.
+
+- Clue exports always use LibreOffice's default port (2002), so two clue exports can't run at the same time.
