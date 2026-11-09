@@ -139,7 +139,7 @@ def load_rst_file(rst_file):
         return data
 
 
-def write_rst_file(rst_file, data, language=DEFAULT_LANGUAGE):
+def write_rst_file(rst_file, data, language):
     """
     Also converts [BR] to pdf spacings, on the fly.
 
@@ -161,15 +161,17 @@ def write_rst_file(rst_file, data, language=DEFAULT_LANGUAGE):
 
                                            """))
 
-    full_rst = rebase_relative_image_paths(full_rst)
-
     # BOMs of included templates break RST headings and inline markup in recent rst2pdf versions
     full_rst = full_rst.replace("\ufeff", "")
+
+    full_rst = rebase_relative_image_paths(full_rst)
 
     if language == "fr":
         # basic fixing of orphan punctuation marks for FR language...
         full_rst = (full_rst.replace(" !", u"\u00A0!")
                     .replace(" ?", u"\u00A0?")
+                    .replace(" ;", u"\u00A0;")
+                    .replace(" : ", u"\u00A0: ")
                     .replace(" :\n", u"\u00A0:\n"))  # beware about RST directives here...
 
     # autocreate missing folders
@@ -504,9 +506,11 @@ def display_and_check_story_tags(jinja_env, masked_user_names):
 #      CONVERT MARKUP TO PDF       #
 ####################################
 
-def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
+def convert_rst_file_to_pdf(rst_file, pdf_file, language, conf_file="", extra_args=""):
     """
     Use rst2pdf executable to convert rst file to pdf.
+
+    The language is used for docutils localizations, eg. titles of admonitions like "warning".
 
     IMPORTANT : you can output default styles with "rst2pdf --print-stylesheet"
     """
@@ -518,13 +522,14 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
     # other options: --very-verbose --show-frame-boundary or just "-v"
     command = [sys.executable, "-m", "rst2pdf.createpdf", rst_file, "-o", pdf_file, "--config=%s" % conf_file,
                "--fit-background-mode=scale", "--first-page-on-right", "--smart-quotes=2", "--break-side=any",
-               "-e", "dotted_toc_compat", "--fit-literal-mode=shrink"] + shlex.split(extra_args or "")
+               "-e", "dotted_toc_compat", "--fit-literal-mode=shrink", "--language=%s" % language] + shlex.split(extra_args or "")
 
     logging.debug("Executing command: %s" % command)
 
     # rst2pdf exits with code 0 even when it logs errors (eg. missing images), so we check its logs too
     error_lines = []
-    with subprocess.Popen(command, stderr=subprocess.PIPE, encoding="utf8", errors="replace") as process:
+    env = dict(os.environ, PYTHONUTF8="1")  # else Windows uses an ANSI codepage for piped logs
+    with subprocess.Popen(command, stderr=subprocess.PIPE, encoding="utf8", errors="replace", env=env) as process:
         for line in process.stderr:
             sys.stderr.write(line)
             if any(marker in line for marker in ("[ERROR]", "[CRITICAL]", "(ERROR/", "(SEVERE/")):
@@ -535,7 +540,7 @@ def convert_rst_file_to_pdf(rst_file, pdf_file, conf_file="", extra_args=""):
         raise RuntimeError("rst2pdf reported errors on %s:\n%s" % (rst_file, "\n".join(error_lines)))
 
 
-def convert_rst_content_to_pdf(filepath_base, rst_content, conf_file="", extra_args="", language=DEFAULT_LANGUAGE):
+def convert_rst_content_to_pdf(filepath_base, rst_content, language, conf_file="", extra_args=""):
     """
     We use an intermediate RST file, both for simplicity and debugging.
     """
@@ -543,4 +548,4 @@ def convert_rst_content_to_pdf(filepath_base, rst_content, conf_file="", extra_a
     pdf_file = filepath_base + ".pdf"
 
     write_rst_file(rst_file, data=rst_content, language=language)
-    convert_rst_file_to_pdf(rst_file, pdf_file, conf_file=conf_file, extra_args=extra_args)
+    convert_rst_file_to_pdf(rst_file, pdf_file, language=language, conf_file=conf_file, extra_args=extra_args)

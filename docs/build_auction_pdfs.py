@@ -67,6 +67,7 @@ def generate_manual(sections, output_file_template, unlink_unknown_targets=False
     pdf_file = os.path.join(TEMP_DIR, (output_file_template % version) + ".pdf")
 
     rpg.convert_rst_file_to_pdf(rst_file, pdf_file,
+                                language=LANGUAGE,
                                 conf_file=RST2PDF_CONF_FILE,
                                 extra_args=EXTRA_ARGS)
 
