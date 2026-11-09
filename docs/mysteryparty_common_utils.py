@@ -134,6 +134,52 @@ def _check_clues_first_pages(reader, clues_parts, language, input_doc):
             input_doc, "\n".join(errors)))
 
 
+def _get_resource_names_used(content_owner, reader):
+    """
+    Return the names of resources (fonts, images...) used by the content stream of a page or form XObject,
+    including those used by its form XObjects which have no resources of their own.
+    """
+    from pypdf.generic import ContentStream, NameObject
+
+    contents = content_owner.get_contents() if hasattr(content_owner, "get_contents") else content_owner
+    if contents is None:
+        return set()
+    names = set()
+    for operands, operator in ContentStream(contents, reader).operations:
+        if operator == b"INLINE IMAGE":
+            operands = list(operands["settings"].values())
+        names.update(operand for operand in operands if isinstance(operand, NameObject))
+    resources = content_owner.get("/Resources")
+    xobjects = resources.get_object().get("/XObject", {}) if resources is not None else {}
+    for name in names & set(xobjects.keys()):
+        xobject = xobjects[name].get_object()
+        if xobject.get("/Subtype") == "/Form" and "/Resources" not in xobject:
+            names |= _get_resource_names_used(xobject, reader)  # such forms use the resources of their parent
+    return names
+
+
+def _prune_page_resources(page, reader):
+    """
+    Remove, from the resources of a page, those not used by its content stream.
+
+    Office suites share the same resources (images, fonts...) between all pages, so without this,
+    each clue PDF would embed all the images of the document, ie. spoil the other clues.
+    """
+    from pypdf.generic import DictionaryObject, NameObject
+
+    resources = page.get("/Resources")
+    if resources is None:
+        return
+    used_names = _get_resource_names_used(page, reader)
+    pruned_resources = DictionaryObject()
+    for category, entries in resources.get_object().items():
+        entries = entries.get_object()
+        if isinstance(entries, DictionaryObject):
+            entries = DictionaryObject((name, value) for (name, value) in entries.items() if name in used_names)
+        pruned_resources[NameObject(category)] = entries
+    page[NameObject("/Resources")] = pruned_resources  # a copy, since the original is shared by all pages
+
+
 def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_dir, language):
     """
     Export the whole ODT document to PDF once, then split it into one PDF per clue.
@@ -169,6 +215,7 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
                 continue
             writer = PdfWriter()
             for page in reader.pages[current_page:current_page + pages_count]:
+                _prune_page_resources(page, reader)
                 writer.add_page(page)
             writer.write(os.path.join(output_dir, basename + ".pdf"))
             current_page += pages_count
