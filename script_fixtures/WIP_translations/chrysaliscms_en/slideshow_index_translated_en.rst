@@ -25,7 +25,7 @@ Chrysalis
    :target: #
 
 
-**The New Generation Role Playing Game**
+**The Next-Generation Role-Playing Game**
 
 .. raw:: html
 
@@ -44,10 +44,10 @@ Chrysalis
     =================
 
     - Pascal Chambon, Ile-de-France
-    - Télécom-Paristech engineer training
-    - IT Consultant Freelance (Prolifik SARL)
+    - Engineering degree from Télécom-Paristech
+    - Freelance IT Consultant (Prolifik SARL)
     - Python-Evangelist, Bash/C++/Java/PHP/MySQL...
-    - Web-fed (Lolcats, Pérusse, *Memes* divers...)
+    - Web-fed (Lolcats, Pérusse, various *Memes*...)
     - Fan of *Computer Graphics* & *Epic Music*
     - But above all...
 
@@ -57,11 +57,11 @@ Chrysalis
 The Chrysalis universe
 =======================
 
-**Uchronie**
+**Uchronia**
     Bifurcation between our world and that of Chrysalis around 1900, when a comet impact causes millennia of natural disasters.
 
     
-- Side by side with civilizations that have regressed, and high-tech poles    
+- Coexistence of civilisations that have regressed and hubs of high technology    
 - Strong Steampunk & Baroque influences
 - Visual references: Final Fantasy 7, 8 & 10, Valkyrie Profile, Warcraft III, League of Legends
 - Sound references: Nobuo Uematsu, Yuki Kajiura, Hans Zimmer, Two Steps From Hell
@@ -70,10 +70,10 @@ The Chrysalis universe
 
     
 
-1) Role Playing Game "Descent"
+1) "Descent" Role-Playing Game
 =====================================
 
-*An exploration-investigation RPG, very narrative and boosted with multimedia, for 2 to 5 players; it is played in a single session of 3h30.*
+*An exploration-investigation RPG, very narrative and boosted with multimedia, for 2 to 5 players; it is played in a single session of 3½ hours.*
 
 .. raw:: html
 
@@ -89,7 +89,7 @@ The Chrysalis universe
 2) "Mindstorm" Mystery Evening
 ======================================
 
-*A huis-clos between criminal investigation and psychological warfare, where secret agents, renowned scientists, and fearsome police detectives are mixed together.*
+*A closed-door drama between criminal investigation and psychological warfare, where secret agents, renowned scientists and fearsome police inspectors rub shoulders.*
 
 .. raw:: html
 
@@ -105,22 +105,22 @@ The Chrysalis universe
 
     <br/>
     
-A playable "larp" of your choice:
+A LARP that can be played either:
 
-- in autonomy, with a predefined initial state
+- standalone, with a predefined initial state
 - as an epilogue to the game *Chrysalis:Auction*
 
 
 
 
-3) Jeu en Réalité Alternée "Auction"
+3) "Auction" Alternate Reality Game
 =========================================
 
-**A transmedia and innovative JDR campaign.**
+**An innovative transmedia RPG campaign.**
    
 Recipe: take the best of various systems
 
-- role-playing game on table, life-size, on forum...
+- tabletop role-playing, LARP, forum role-playing...
 - alternate reality game
 - video game
   
@@ -131,14 +131,14 @@ Recipe: take the best of various systems
    :target: #
 
 ..
-	The first **I3RPG** to the world? 
+	The world's first **I3RPG**?
 
 	- **I**\ n real life
 	- **I**\ nternet-powered
 	- **I**\ nstantiable
 	- **R**\ ole\ **P**\ lay **G**\ ame
 	
-The first *\LEET RPG* to the world?
+The world's first *\LEET RPG*?
 	
 - **E**\ clectic
 - **L**\ ive action
@@ -149,7 +149,7 @@ The first *\LEET RPG* to the world?
 
 
    
-Auction : Game mechanics
+Auction: Game Mechanics
 ================================
 
 - Numerous quests and interactions:
@@ -159,12 +159,12 @@ Auction : Game mechanics
 
 - Possibility to meet in the flesh (auctions, diplomatic meetings, *Mindstorm*)
 
-- Telecom: mobile, sms, Skype, Gtalk...
+- Telecoms: mobile, SMS, Skype, Gtalk...
 
-- And above all **a web portal dedicated to each party!**
+- And above all **a web portal dedicated to each game!**
 
 
-Portail Auction : Ancienne Version
+Auction Portal: Old Version
 ====================================
 
 .. raw:: html
@@ -172,7 +172,7 @@ Portail Auction : Ancienne Version
     <iframe width="100%" height="75%" src="static/hatching/login/index.html"></iframe> 
 
     
-Auction Portal : New Version
+Auction Portal: New Version
 =====================================
 
 .. image:: static\radiance.png
@@ -182,7 +182,7 @@ Auction Portal : New Version
    :target: #
   
 
-Auction : Web features
+Auction: Web Features
 ====================================
 
 - authentication and access control
@@ -200,15 +200,15 @@ Auction : Web features
 - webradio 
 - encyclopedia
 - strategic map
-- contextual aids
+- contextual help
 - ...
 
 
    
-Auction : Web features (bis)
+Auction: Web Features (bis)
 =======================================
 
-**Special skills of the players**
+**Players' special skills**
 
 - alliances and allegiances
 
@@ -219,19 +219,19 @@ Auction : Web features (bis)
    :target: #
    
 - wiretaps 
-- cyber defense
+- cyber-defence
 - mercenaries
 - hacking, phishing
-- scientific expertises
+- scientific appraisals
 - deciphering runes
 - dialogues with A.I.
 - ...
   
   
-Auction : Web features (ter)
+Auction: Web Features (ter)
 =========================================
 
-**Supervision by the game master (you?)**
+**Supervision by the Game Master (you?)**
 
 .. raw:: html
 
@@ -247,14 +247,14 @@ Auction : Web features (ter)
 - detailed manual
 - editing of explanatory texts
 - permissions management
-- visualization of events
+- visualisation of events
 - NPC simulation
 - creation of objects, radio spots, articles...
 - *impersonation* of players
 - ...
 
   
-Auction : Highlights
+Auction: Highlights
 ==============================
 
 .. raw:: html
@@ -271,11 +271,11 @@ Auction : Highlights
 - mobile version (responsive design) 
 - cinematics (real & animated)
 - 2D, 3D, video, and audio artworks
-- voice synthesis/music
+- voice/music synthesis
 - interactive images
 - artificial intelligences
 - open-source and agile code
-- python/django/zodb/jquery technos...
+- python/django/zodb/jquery tech...
 
 
 
@@ -283,7 +283,7 @@ Auction : Highlights
 The Chrysalis Team
 ==========================
 
-A small community of enthusiasts (developers, authors, graphic designers, musicians...), in perpetual evolution, which only asks to grow.
+A small community of enthusiasts (developers, authors, graphic designers, musicians...), constantly evolving, and eager to grow.
 
 - a dozen major contributors
 - numerous micro-contributors and benefactors
@@ -308,7 +308,7 @@ The Future of Chrysalis
    :align: right
    :target: #
    
-- **internationalization**
+- **internationalisation**
 - gameplay refinement
 - more artworks
 - point&click puzzles?
@@ -316,7 +316,7 @@ The Future of Chrysalis
 - virtual reality?
 - all ideas welcome...
 
-    Expansion of the universe: novels, webcomics, video games, life-size in long format...
+    Expansion of the universe: novels, webcomics, video games, long-format LARPs...
 
 
 \*
@@ -334,7 +334,7 @@ The Future of Chrysalis
 
         <iframe width="100%" height="450px" src="_static/silk/Silk.htm" scrolling="no"></iframe> 
    
-    1000 thank you for your attention!
+    Many thanks for your attention!
 
 
 

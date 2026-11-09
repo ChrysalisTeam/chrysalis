@@ -14,7 +14,7 @@ Important: the **risk is doubled for the challenged party**, compared with that 
 The basic stakes traditionally used:
 
 - Loot: a sum of money of 50 kashes
-- Style: one of the challenged party's fashion accessories (pocket watch, ring or other jewel, gloves, jabot, cane...), against which the challenger must stake one of his own accessories of similar value
+- Style: one of the challenged party's fashion accessories (pocket watch, ring or other jewel, gloves, jabot, cane...), against which the challenger must stake one of their own accessories of similar value
 - Dishonour: a ban on speaking to the staff (servants, cooks...) for 10 min
 - Prison: keeping one's hands tied behind one's back for 10 min
 
@@ -35,7 +35,7 @@ Procedure:
 - The joust proceeds by adding, each in turn (30 s of thinking time at most), one letter; accents are not declared, so "E" may be used as "e", "é", "è", "ê"...
 - The letter must be announced in a complete sentence in the first person, such as "I give you an F"; and the verb used must always differ from the previous ones in the joust.
 - The letters thus strung together must form the prefix of a word.
-- In case of doubt, one may ask one's opponent "what are you thinking of?"; if he answers with a valid word, he wins, otherwise he loses.
+- In case of doubt, one may ask one's opponent "what are you thinking of?"; if they answer with a valid word, they win, otherwise they lose.
 - Valid words are all the common words of the dictionary (larousse.fr), not compound, not conjugated, and not vulgar. Plural nouns, verbs in the infinitive, past or present participle, are allowed. *The fact that some of these words may be "anachronistic" is ignored.*
 - In the end, the joust ends when a player no longer knows which letter to choose, or reuses an announcing verb already used during the joust, or when a "what are you thinking of?" has been uttered.
 

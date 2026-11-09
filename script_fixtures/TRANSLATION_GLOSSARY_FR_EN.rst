@@ -309,7 +309,7 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - mortuary address ("42 Hades Street")
      - Needed by the Invoker's "Message to a Deceased".
    * - agents secrets mirandiens / Espions mirandiens / soldats mirandiens
-     - Mirandian secret agents / Mirandian spies / Mirandian soldiers
+     - Mirandian secret agents / Mirandian Spies / Mirandian soldiers
      - Faction (``spy_*`` files).
    * - Agitateur aluminique / Balance à plombs / Cristallisoir / Fioles jaugées en cristal
      - Aluminic stirrer / Weighted balance scale / Crystallising dish / Graduated crystal vials

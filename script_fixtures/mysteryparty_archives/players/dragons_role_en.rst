@@ -174,10 +174,10 @@ Overview of the Maupertuis secret archives
 One of the rare visitors to this sanctuary, in the days of its greatness, described it thus:
 
     It is a place full of mystery. As for the "authorised domain", it is mainly an immense library brimming with Knowledge.
-    There you find an enchanted buffet that refills itself; a heap of vegetation, in a corner; and a few precious chests and briefcases of the Maupertuis family. Not to mention the cursed tomb of the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}, founder of the dynasty.
+    There one finds an enchanted buffet that fills itself; a mass of vegetation, in a corner; and a few precious chests and briefcases of the Maupertuis family. Not to mention the cursed tomb of the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}, founder of the dynasty.
 
     But what is really worth the detour is the "Forbidden Domain", protected by a powerful magic Seal.
-    The Beast has its stinking den there, and guards this place where the darkest grimoires of sorcery and necromancy are piled up.
-    And "etheric corridors", probably booby-trapped dead-ends, shelter certain legendary jewels of the family.
+    The Beast has its stinking den there, and protects this place where the darkest grimoires of sorcery and necromancy are piled up.
+    And "etheric corridors", dead-ends that are probably trapped, shelter certain legendary jewels of the family.
 
-    Not everything there is grim, however: some members of the family have their little work desk there, and there are also fine workbenches for alchemy, gemmology and divination. But the presence of the Thanatologue, the most taboo of all books, in its chest, is enough to cast a gloomy veil over this whole area.
+    Not everything there is grim, however: certain members of the family have their own little study there, and one also finds pretty alchemy, gemmology and divination workbenches. But the presence of the Thanatologue, the most taboo of all books, in its chest, is enough to cast a gloomy veil over this whole area.

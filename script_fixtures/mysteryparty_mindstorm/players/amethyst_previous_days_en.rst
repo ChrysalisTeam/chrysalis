@@ -40,7 +40,7 @@ The butler then enters the Great Hall with a new visitor, which interrupts their
 
 You are thinking about your next moves, when you notice a small screen built into the wall. What luck, the control terminal for the manor's cameras. You locate the position of the **cameras ({% symbol "great hall, study, library, dining room, kitchen" for "videosurveillance_cameras_locations" %})**, and of the occupants of the place, before disabling this system. That is a real weight off your mind. {% fact 'amethyst_disabled_surveillance_cameras' as author %}
 
-You anticipate the servants' movements within the manor. At around 12:15, the butler calls out to Alphonse that he is going into town to prepare the logistics for tomorrow's evening, and that he is therefore entrusting him with keeping an eye on the visitors.
+You anticipate the servants' movements within the manor. At around 12:15, the butler calls out to Alphonse that he is going into town to prepare the logistics for tomorrow evening's event, and that he is therefore entrusting him with keeping an eye on the visitors.
 One of the auction participants, **{{character_properties.opal.official_name}}**, passes a few steps away from you, limping on his cane.
 
 Unable to approach the most interesting rooms, you go upstairs, and spend a long time browsing Loyd Georges' "collection", a jumble of motley objects of little value: Slavinkian leather hats, enormous pachyderms in carved wood, old half-worm-eaten grimoires of Thelassar tales, eroded bronze weapons and masks... The floor is well swept, but on the artefacts and display cases, dust has long since reclaimed its rights. No object seems to have been touched recently, and no apparent hiding place. Zounds.

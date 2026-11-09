@@ -133,7 +133,7 @@ Each faction initially holds ONE different clue about the location of the orb.
 
 To find others, the main ways are:
 
-- recover "atypical but not unique" artefacts and run them through the world geolocation scanner (either via the auctions or via the black market); this yields numbered "zones" in various cities
+- recover "atypical but not unique" artefacts and run them through the World Scanner for geolocation (either via the auctions or via the black market); this yields numbered "zones" in various cities
 - locate and burgle Cynthia's flat to obtain more information about Waden (the city he travels to)
 - find, by searching the manor (for Obsidian), a telegram mentioning an order of equipment from GemmoKorps delivered to a bookshop
 - burgle Loyd Georges' safe to take the "highly confidential" document describing the location of Waden's laboratory
@@ -556,7 +556,7 @@ Now, the Sabariths and the various countries that were contacted are trying to r
 
 To do so, Waden can negotiate the destruction of the laboratory with one of the factions that have mercenaries, in exchange for a Thermocyclic Fusion Core or another asset; he can also manipulate Akarith Purifiers (via the contacts Cynthia receives from her colleagues) so that they burn down the laboratory themselves.
 
-If this destruction drags on, Cynthia is informed of a "missing person report" in South Alifir, and this eventually goes out on the radio. The other secret agents can therefore exploit this lead, with the help of mercenaries for example.
+If this destruction drags on, Cynthia is informed of a "report of a suspicious disappearance" in South Alifir, and this eventually goes out on the radio. The other secret agents can therefore exploit this lead, with the help of mercenaries for example.
 
 For his part, the Sabarith agent Obsidian can also try to make Waden see reason, by explaining to him that Science cannot be stopped, and that it is better to be the first to master a new weapon.
 

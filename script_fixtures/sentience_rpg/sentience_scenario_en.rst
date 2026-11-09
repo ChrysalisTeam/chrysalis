@@ -117,7 +117,7 @@ There, Abélard breaks down the door of Séléné's tower, and murders her. This
 She therefore guides the Minéralys Company, by telegraph, so that one of their teams secretly assesses the quality of the rock seams. But these diggings trigger the curse of the Blood Pact: the **3 Minéralys explorers** set off a (rare) sulphur explosion, which brings rocks down on the village, and none of them returns.
 
 The alchemist Séléné notices the intrusion, decently **buries on the spot** what little remains of the explorers, and retrieves their few **papers and logbooks** with a view to returning them to the village. She sends an angry letter to the village burgomaster, asking him to crack down so that these illicit explorations cease immediately.
-The alchemist has this missive delivered to the mailbox by her **messenger raven**, but it is intercepted and concealed by Joséphine, who does not want her mining schemes to be discovered.
+The alchemist has this missive delivered to the letterbox by her **messenger raven**, but it is intercepted and concealed by Joséphine, who does not want her mining schemes to be discovered.
 
 The burgomaster's daughter immediately seizes on this rockfall catastrophe by encouraging her father to eliminate Séléné (who remains an obstacle for everyone, among other things as guardian of the Blood Pact), while setting him up to slip up: the sample of the Enchantress Dorina's handwriting that she provides to her father is **deliberately fake**, and she knows full well that the Enchantress's green-billed toucan **died more than a year ago**.
 

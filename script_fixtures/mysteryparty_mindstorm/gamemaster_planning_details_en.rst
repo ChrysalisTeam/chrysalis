@@ -164,7 +164,7 @@ HOUR 0:30
 
 - Obsidian: Moving on to manor search #2 (following the report of the previous search)
 
-- arrival of the Tabellion of Salima, with the Sabarith anthem (during which all the NPCs stand to attention); he laments what happened to Loyd Georges, recalls (or has the Oberon recall) all his prerogatives (banker, bailiff, auctioneer...), congratulates himself that his son has been elected consul of Salima, then talks about the series of private sales, which is going ahead as planned. Inspector Shark threatens to punish anyone who mocked the anthem (the law severely punishes insult to the Sabarith anthem).
+- arrival of the Tabellion of Salima, with the Sabarith anthem (during which all the NPCs stand to attention); he laments what happened to Loyd Georges, recalls (or has the Oberon recall) all his prerogatives (banker, bailiff, auctioneer...), is delighted that his son has been elected consul of Salima, then talks about the series of private sales, which is going ahead as planned. Inspector Shark threatens to punish anyone who mocked the anthem (the law severely punishes insult to the Sabarith anthem).
 
 - Inspector Shark argues with the Tabellion, reproaching him for his immunity and his interference; the latter holds firm, calmly
 
@@ -222,7 +222,7 @@ HOUR 1:00
 
 - Lydia receives a call from her campaign manager: "Politically you are in great danger now, if you publicly repudiate your husband, it shields you from his past misdeeds, but well..."
 
-- EMAILS: "Additional information on the Voluto Affair" (for Obsidian){% fact "voluto_anthropia_account_is_being_investigated_by_sabariths" %}, "Manipulation around the Magnus family" (for the Masslavians), "Early release of information to collaborators" (for Cynthia), "Thermocyclic fusion core" (for the Lordanians)
+- EMAILS: "Additional information on the Voluto Affair" (for Obsidian){% fact "voluto_anthropia_account_is_being_investigated_by_sabariths" %}, "Manipulation around the Magnus family" (for the Masslavians), "Early release of information to collaborators" (for Cynthia), "Thermocyclic Fusion Core" (for the Lordanians)
 
 - give 2 telegrams to Waden (risks due to the World Scanner, and announcement of the discovery of E=MC² by Alifir), and to Obsidian the telegram about "the prowler of the neighbouring hamlet" which Shark MUST DISDAINFULLY TEAR UP if it is brought to him {% hint "voluto_anthropia_account_investigation_result" is provided %}
 

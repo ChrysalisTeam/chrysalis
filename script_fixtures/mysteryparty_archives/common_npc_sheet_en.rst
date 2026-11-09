@@ -129,7 +129,7 @@ Any phantom NPC actor who died violently is initially **anchored** to a small li
 They are then in the **embodied phase**: they have a human appearance, can communicate normally, their face is uncovered, and their light-up gloves are switched off.
 They can handle a few props representing them; they nevertheless retain a certain slowness in their movements, and if possible a pallid face.
 
-When the **bells** ring (or the **table bell** of spectral frenzy), the phantom switches to spectral, disembodied mode, and goes wandering through the library (including the Forbidden Domain if it has been opened).
+When the **bells** ring (or the spectral frenzy **table bell**), the phantom switches to spectral, disembodied mode, and goes wandering through the library (including the Forbidden Domain if it has been opened).
 
 This wandering phase also occurs for a phantom who has been released from their anchoring (see below), but far less often. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
 
@@ -152,7 +152,7 @@ The Diakons can detach the dead from their spiritual anchoring; but the released
 
 Note that beings who died of **old age**, like the **Beast**, are not anchored; they roam freely whether embodied or wandering; the rest of the rules apply to them identically. {% fact "beings_dead_naturally_are_not_anchored" %}
 
-As a phantom, including the Beast: Pay attention to the **Exorcist's incantations**, which can drive you away (by switching you back to spectral form) or draw you slowly towards him (in embodied form); even the Beast does nothing to avoid this Exorcist, because it is not supposed to know his powers. And if you are hit by a sacred bullet, you leave at random, moaning in spectral form, for a few minutes, then you go and see the GM discreetly. More details below. {% fact "beast_does_not_fear_rituals" %}
+As a phantom, including the Beast: Pay attention to the **incantations of the Exorcist**, who can drive you away (by switching you back to spectral form) or draw you slowly towards him (in embodied form); even the Beast does nothing to avoid this Exorcist, because it is not supposed to know his powers. And if you are hit by a sacred bullet, you leave at random, moaning in spectral form, for a few minutes, then you go and see the GM discreetly. More details below. {% fact "beast_does_not_fear_rituals" %}
 
 
 The exorcism spells affecting the phantoms

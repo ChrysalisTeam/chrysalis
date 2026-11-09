@@ -22,7 +22,7 @@ You can also trigger revelations by touching objects with a heavily charged past
 
 You have always dreamed of coming across a **mother-of-pearl unicorn, or an incense fountain, or a five-leaf clover**. Such encounters mean the coming of particularly vivid prophecies, from the depths of the invisible world; provided, at least, that the seer knows how to activate such artefacts, which will lose their power as soon as their role is fulfilled. The Alchemist of your group can help on this matter. {% fact "incense_fountain_can_deliver_powerful_prophecy" %} {% hint "incense_fountain" is needed %} {% fact "parcival_alchemist_can_create_incense_cone" %}
 
-Certain exceptional prophecies appear and address those present by themselves. You have heard that some old paintings, once covered with a dose of **Lotion of Revelation**, have delivered such wonders
+Certain exceptional prophecies appear and address those present by themselves. You have heard that some old paintings, once covered with a dose of **Lotion of Revelation**, have delivered such wonders.
 {% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
 {% fact "parcival_oracle_knows_about_scary_lenticular_paintings" %}
 

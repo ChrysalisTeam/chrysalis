@@ -714,7 +714,7 @@ The sentinel automaton's murderous madness
 
 From the very start of the adventure, this automaton patrols quite "mechanically" with a Nerf rifle, and challenges the players it comes across. It orders them to state their identity, and to swear (by Zarathustra) that they have no intention of harming the Maupertuis lineage. Then it continues its rounds, henceforth ignoring the players thus checked. {% hint 'nerf_gun_for_guard_automaton' is needed %}
 
-Later, shortly after the opening of the Forbidden Domain, the Druid feels threatened by the various prophecies that gradually point to him. He therefore takes control of the sentinel automaton, through mushrooms/creepers infiltrating the central system of said machine (this is materialised in-game, for instance, by fake plants around its neck or behind its mask).
+Later, shortly after the opening of the Forbidden Domain, the Druid feels threatened by the various prophecies that gradually point to him. He therefore takes control of the sentinel automaton, through mushrooms/creepers infiltrating the central system of said machine (this is shown in-game, for instance, by fake plants around its neck or behind its mask).
 {% hint "plants_around_head_of_automaton_hitman" is needed %}
 
 The Druid sends the sentinel automaton to **assassinate** (with a bullet to the torso) two people:
@@ -759,7 +759,7 @@ The players must find a way to teleport into the tomb of the {% symbol 'Magus Mo
 
 The Magus's corpse lies stretched out there, in his golden papal alb.
 
-If a non-Parcival is part of the teleported group (see their identifying garments), this triggers a curse: the Magus's mummy rises, and chases (walking slowly, like a zombie) the intruder, who must dodge it until the teleporter lets him out, on pain of death. The mummy then returns to its place. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %} {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
+If a non-Parcival is part of the teleported group (see their identifying garments), this triggers a curse: the Magus's mummy rises, and chases (walking slowly, like a zombie) the intruder, who must dodge it until the teleporter lets them out, on pain of death. The mummy then returns to its place. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %} {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
 
 When there is no non-Parcival in the tomb, the mummy does not move at all, but its mere presence is enough to unnerve the players, while they pinch its legendary ornaments.
 
@@ -1117,7 +1117,7 @@ In the optimal outcome of the game, the library curse is automatically lifted up
 
     Most of the works in the library are copies of common books, or ones found since in other mystical places. But the {% symbol "Thanatologue" for "book_of_the_dead" %}, as well as two works (Necronomicon? Codex Vampiris?) must not fall into the hands of the impious who will probably end up finding this library in their turn.
 
-    The two additional grimoires can be found thanks to *magnetism on a map of the library?, or by bribing the Thief.
+    The two additional grimoires can be found thanks to *magnetism on a map of the library*, or by bribing the Thief.
 
     They must be useful to the players too, before they can be destroyed without regret. Or on the contrary they must be traps for overly bold readers...
 
@@ -1129,7 +1129,7 @@ The Spiritual Orb, the Abyssal Vortex (trap) and the Fount of Knowledge (gift)
 
 *This is an optional quest.*
 
-In the Forbidden Domain, the players can find a tray with a switched-off plasma ball in the centre, designated as a {% symbol "Spiritual Orb" for "spiritual_orb_name" %}**; 4 slots are drawn around it.
+In the Forbidden Domain, the players can find a tray with a switched-off plasma ball in the centre, designated as a {% symbol "Spiritual Orb" for "spiritual_orb_name" %}; 4 slots are drawn around it.
 
 These slots each await a key object, which is an epoxy resin casting:
 
@@ -1379,7 +1379,7 @@ The automatons, strangely, ignore the sound of this bell.
 
 If someone presses the bell for the first time, the GM must trigger the unsettling soundtrack of the **{% symbol "spectral frenzy" for "phantom_frenzy_name" %}**. The phantoms then switch to their disembodied form, and rush towards the sound of the bell. Once near it, they wander left and right, not far off, distraught, until the end of the soundtrack, then go back to what they were doing before. {% fact "table_bell_triggers_spectral_frenzy" %}
 
-Afterwards, the bell is supposed to be **temporarily drained** of its magic; the Avatars and phantoms can sense this and tell the players if they press the bell again. *Put black tape on it to materialise this.* {% fact "table_bell_is_only_usable_once" %}
+Afterwards, the bell is supposed to be **temporarily drained** of its magic; the Avatars and phantoms can sense this and tell the players if they press the bell again. *Put black tape on it to show this.* {% fact "table_bell_is_only_usable_once" %}
 
 *Mini-spoiler: It is in reality just a recall signal forgotten by the Ankou during a previous visit, but only the Ankou knows this.* {% fact "table_bell_belongs_to_ankou" %}
 
