@@ -11,4 +11,4 @@ La seule chose sur laquelle les écrits s'accordent, c'est qu'il s'agit d'une mi
 
 Avec les entretiens de Loyd Georges et les préparatifs de la soirée spéciale, le sujet est naturellement passé sous le tapis.
 
-Mais maintenant que rien ne va plus, vous espérez de tout coeur que le majordome Rydji, le plus proche ami de Loyd Georges, saura vous aider à rentrer en contact avec ce baroudeur, et à continuer la recherche de cette damnée recette. Non seulement pour vous, mais aussi pour remettre sur pied Loyd georges.
+Mais maintenant que rien ne va plus, vous espérez de tout coeur que le majordome Rydji, le plus proche ami de Loyd Georges, saura vous aider à rentrer en contact avec ce baroudeur, et à continuer la recherche de cette damnée recette. Non seulement pour vous, mais aussi pour remettre sur pied Loyd Georges.

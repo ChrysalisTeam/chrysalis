@@ -5,7 +5,7 @@
 Un de vos indics surveillait, la veille, le manoir de Loyd Georges, depuis la colline d'en face, avec une longue vue. Il rapporte avoir vu deux personnes, bien élégantes, sortir très rapidement par le soupirail du garde-manger, vers midi. Elles ont contourné le manoir, et sont sorties du parc par le grand portail, comme si de rien n'était. L'une d'elles, en repartant, a tâté ses poches et semblait avoir perdu quelque chose dans sa fuite.
 {% fact 'amethyst_and_malachite_locked_in_pantry' %} {% fact 'amethyst_has_lost_thin_manor_parcel' %}
 
-Vous avez imprimé, juste avant le départ, une fiche sur "L'origine des pierres précieuses", puisque vous commencez à oublier ces connaissances que vous aviez bâchottées pour jouer votre "personnage officiel". {% hint "origins_of_precious_stones_for_peridot" is needed %}
+Vous avez imprimé, juste avant le départ, une fiche sur "L'origine des pierres précieuses", puisque vous commencez à oublier ces connaissances que vous aviez bachotées pour jouer votre "personnage officiel". {% hint "origins_of_precious_stones_for_peridot" is needed %}
 
 
 {% macro dorian_rallying_sign_for_akariths() %}

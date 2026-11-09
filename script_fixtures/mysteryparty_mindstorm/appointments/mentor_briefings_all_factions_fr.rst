@@ -1,4 +1,4 @@
-Points téléphonique des invités avec leurs mentors
+Points téléphoniques des invités avec leurs mentors
 ##############################################################
 
 
@@ -14,9 +14,9 @@ Les agents secrets se font appeler par leurs supérieurs hiérarchiques respecti
 - leur demander quels sont leurs plans pour le début de la soirée
 - leur rappeler qu'il faut la jouer "soudés", et ne pas tomber dans les mains de la justice sabarite
 
-Lydia et Magnus se font appeler par leur gestionnaire de bien, qui demande s'il peut les aider en quoi que ce soit. Il s'enquiert de la santé d'Opal, des des perspectives électorales de Lydia, et plus généralement de ce qu'ils comptent faire au vu des circonstances.
+Lydia et Magnus se font appeler par leur gestionnaire de bien, qui demande s'il peut les aider en quoi que ce soit. Il s'enquiert de la santé d'Opal, des perspectives électorales de Lydia, et plus généralement de ce qu'ils comptent faire au vu des circonstances.
 
-Waden et Cynthia se font appeler par Emilos Loakim, qui est sur son tumultueux chantier de fouilles dans le continent de Kéroskia ; il se demande pourquoi Loyd georges les a invités à cette soirée, et les appelle à la méfiance.
+Waden et Cynthia se font appeler par Emilos Loakim, qui est sur son tumultueux chantier de fouilles dans le continent de Kéroskia ; il se demande pourquoi Loyd Georges les a invités à cette soirée, et les appelle à la méfiance.
 
 Obsidian se voit demander "ce que c'est que cette histoire d'arme de service confisquée" ; ses supérieurs lui recommandent de retrouver une arme discrètement, car "on ne sait jamais ce qui peut se passer dans ce genre de soirée"
 
@@ -24,7 +24,7 @@ Obsidian se voit demander "ce que c'est que cette histoire d'arme de service con
 Briefing intermédiaire
 ================================
 
-*Il se passe à la moitié du jeu, avant la conclusion du concile akarite, mais après divilgation par radio de ses premières tendances.*
+*Il se passe à la moitié du jeu, avant la conclusion du concile akarite, mais après divulgation par radio de ses premières tendances.*
 
 Même mise en place pour les agents secrets, en revanche les 4 civils (Cynthia, Waden, Opal et Lydia) se font tous appeler ensemble par Emilos Loakim.
 
@@ -57,7 +57,7 @@ Les intentions des Lordaniens sont plus ou moins claires, mais si eux aussi veul
 Informations pour les Doriens (Topaz et Peridot)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Faire le point sur les premières tendances qui ont fuité du concile akarite, et rappeler que tout se joue maintenan, c'est le moment ou jamais pour le faire basculer doctrinalement d'un côté ou de l'autre ; esquisser les solutions possibles pour la Dorie (ralliement ou rebéllion), selon les cas.
+Faire le point sur les premières tendances qui ont fuité du concile akarite, et rappeler que tout se joue maintenant, c'est le moment ou jamais pour le faire basculer doctrinalement d'un côté ou de l'autre ; esquisser les solutions possibles pour la Dorie (ralliement ou rébellion), selon les cas.
 
 
 Informations pour Obsidian

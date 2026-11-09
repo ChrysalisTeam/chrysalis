@@ -26,7 +26,7 @@
 
 - le fameux homme d'affaires "{{character_properties.opal.official_name}}" a étrangement accès à un compte web de haute sécurité, mais "gelé", ayant pour identifiant "Emerald". {% fact 'opal_accesses_emerald_agent_web_account' %}
 - "{{character_properties.amethyst.official_name}}" est en réalité un agent lordanien, le vrai porteur du nom est hospitalisé pour maladies vénériennes {% fact 'amethyst_official_has_venereal_disease' %}
-- c'est un agent masslave de pseudonyme "Malachite" qui a récemment déclenché en émeute akarite en Dorie {% fact 'malachite_triggers_akarith_riot_in_dorian_dukedom' %}
+- c'est un agent masslave de pseudonyme "Malachite" qui a récemment déclenché une émeute akarite en Dorie {% fact 'malachite_triggers_akarith_riot_in_dorian_dukedom' %}
 
 <{ peridot_and_topaz_meeting_with_lg_summary }/>
 

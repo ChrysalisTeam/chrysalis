@@ -25,9 +25,9 @@ Tout cela était à la limite de la légalité, mais entre l'excitation de la d�
 
 Tout a basculé le jour où vous avez compris, à la faveur d'un papier tombé de son classeur, que le Pr Voluto était en train de contacter plusieurs pays midoliens, pour leur vendre ses découvertes au prix fort.
 
-Vous avez confronté votre mentor dans son bureau de l'Académie, il y a {% symbol "2 mois" for "waden_voluto_cooperation_end_ago" %} de cela ; un échange mouvementé, qui est allé jusqu'à l'empoignade. Son dos a violemment heurté le mur. Vous êtes parti, terrifié aussi bien par la ruine qui attendait votre carrière, que par la sauvagerie resentie dans votre sang.
+Vous avez confronté votre mentor dans son bureau de l'Académie, il y a {% symbol "2 mois" for "waden_voluto_cooperation_end_ago" %} de cela ; un échange mouvementé, qui est allé jusqu'à l'empoignade. Son dos a violemment heurté le mur. Vous êtes parti, terrifié aussi bien par la ruine qui attendait votre carrière, que par la sauvagerie ressentie dans votre sang.
 
-La déchéance n'est jamais venue. Le professeur est rentré à son domicile sans rien dire à personne. Et le lendemain, il était retrouvé mort, "{% symbol "chez lui, d'une hémorragie cérébrale consécutive à une chute" for "physicist_death_circumstances" %}" d'après les journaux. Vous ne saurez probablement jamais votre part exacte de responsabilité dans son décès prématuré, et c'est aussi bien ainsi. Mais cela ne résoud pas tout.
+La déchéance n'est jamais venue. Le professeur est rentré à son domicile sans rien dire à personne. Et le lendemain, il était retrouvé mort, "{% symbol "chez lui, d'une hémorragie cérébrale consécutive à une chute" for "physicist_death_circumstances" %}" d'après les journaux. Vous ne saurez probablement jamais votre part exacte de responsabilité dans son décès prématuré, et c'est aussi bien ainsi. Mais cela ne résout pas tout.
 
 Le laboratoire secret du Pr Voluto était très bien protégé, et il était le seul à en connaître le code d'accès.
 Tous les documents, ainsi que le prototype de compresseur atomique, s'y trouvent encore.
@@ -41,7 +41,7 @@ Il vous faut trouver un moyen de détruire ces connaissances. Peut-être engager
 La trouvaille de Loyd Georges
 ==============================
 
-Vous n'aviez pas trop suivi la récente expédition de ce "sir Loyd Georges" en Akarie. Mais à votre grande surprise, peu après après son retour, il y a {% symbol "6 semaines" for "lg_expedition_end_ago" %} de cela, il vous a contacté par l'entremise du Pr Loakim. Il avait besoin de vous pour une mission urgente, potentiellement dangereuse, mais qui pourrait révolutionner la Science d'aujourd'hui. {% fact "waden_owns_lg_orb" as author %}
+Vous n'aviez pas trop suivi la récente expédition de ce "sir Loyd Georges" en Akarie. Mais à votre grande surprise, peu après son retour, il y a {% symbol "6 semaines" for "lg_expedition_end_ago" %} de cela, il vous a contacté par l'entremise du Pr Loakim. Il avait besoin de vous pour une mission urgente, potentiellement dangereuse, mais qui pourrait révolutionner la Science d'aujourd'hui. {% fact "waden_owns_lg_orb" as author %}
 
 Malgré vos appréhensions, vous avez accepté d'étudier secrètement l'artefact qu'il vous a transmis : une énorme géode lumineuse, à ses dires, l'une des trois "Larmes Divines" sur lesquelles se focalise la mythologie du dangereux État Akarite.
 
@@ -51,7 +51,7 @@ Par sécurité, vous avez mimé la stratégie du Pr Voluto : vous avez loué, so
 
 Emilos Loakim vous a aussi envoyé divers artefacts du temple de Nazur ; mais pour l'instant, vous avez déjà fort à faire, donc ils vous encombrent plus qu'autre chose. {% fact "waden_owns_lots_of_lg_artefacts" as author %}
 
-Lorsque la maisonnée de loyd Georges s'est retrouvée sous la cible d'innombrables agressions, vous avez pris peur. Quel que soit le "pouvoir" de cet orbe, il attirera la malheur sur celui qui y touchera, par la simple puissance de la croyance religieuse akarite ; mieux vaut que personne ne sache jamais que vous avez commis ce type de sacrilège. Peut-être serait-t-il temps de rendre cet orbe à Loyd Georges ?
+Lorsque la maisonnée de Loyd Georges s'est retrouvée sous la cible d'innombrables agressions, vous avez pris peur. Quel que soit le "pouvoir" de cet orbe, il attirera le malheur sur celui qui y touchera, par la simple puissance de la croyance religieuse akarite ; mieux vaut que personne ne sache jamais que vous avez commis ce type de sacrilège. Peut-être serait-il temps de rendre cet orbe à Loyd Georges ?
 
 
 

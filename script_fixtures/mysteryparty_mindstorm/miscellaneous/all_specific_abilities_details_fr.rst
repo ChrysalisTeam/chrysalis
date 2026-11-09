@@ -50,7 +50,7 @@ Connaissance des Poisons
 
 {% macro real_news() %}
 Dépêche Presse Mondiale
-    Face à votre professionnalisme en tant que reporter, votre rédac' chef vous a fait une immense faveur : vos "scoops" ne sont désormais plus soumis au processus standard de vérification, et peuvent atteindre les radios et les journaux de la planète entière en moins de 15mn. Le contrecoup de ce grand pouvoir, c'est que si vous diffusez une fausse nouvelle, votre carrière pourrait se terminer abruptement.
+    Face à votre professionnalisme en tant que reporter, votre rédac’ chef vous a fait une immense faveur : vos "scoops" ne sont désormais plus soumis au processus standard de vérification, et peuvent atteindre les radios et les journaux de la planète entière en moins de 15mn. Le contrecoup de ce grand pouvoir, c'est que si vous diffusez une fausse nouvelle, votre carrière pourrait se terminer abruptement.
     Utilisez le portail Anthropia pour transmettre une telle dépêche à votre employeur.
 {% endmacro %}
 
@@ -94,8 +94,8 @@ Papier détecteur de mensonge
 
 
 {% macro passcard_hacking() %}
-Crochetage par Carte Passe
-    Vous venez de recevoir un kit de piratage des "cartes pass", qui se répandent énormément dans Sabarim en ce moment (ces serrures ont un logo montrant une main insérant une carte magnétique). Loyd Georges est connu pour être un précurseur dans leur utilisation. *En mettant votre main à plat sur une serrure "carte pass" **pendant 10 secondes**, vous pourrez l'ouvrir. Elle se reverrouillera d'elle-même à la fermeture.*
+Crochetage par Carte Pass
+    Vous venez de recevoir un kit de piratage des "cartes pass", qui se répandent énormément dans Sabarim en ce moment (ces serrures ont un logo montrant une main insérant une carte magnétique). Loyd Georges est connu pour être un précurseur dans leur utilisation. *En mettant votre main à plat sur une serrure "carte pass"* **pendant 10 secondes**\ *, vous pourrez l'ouvrir. Elle se reverrouillera d'elle-même à la fermeture.*
 {#
 .. utile pour:
   - boite aux lettres de l'entrée (contient lettre de Loakim)
@@ -132,7 +132,7 @@ Suggestion Mémorielle sur Alphonse
 
 {% macro anthropia_deletion() %}
 Purge Anthropia
-    Un indic' vous a transmis un "code de réinitialisation", permettant de supprimer TOUTES les données d'un compte Anthropia. Cette opération ne peut être annulée. Il vous suffit, pour faire cela, d'envoyer au service informatique d'Anthropia un message, ayant l'identifiant ciblé et le code spécial "VOIDIFY" quelque part dans son contenu. Tout moyen textuel est utilisable pour cela.
+    Un indic’ vous a transmis un "code de réinitialisation", permettant de supprimer TOUTES les données d'un compte Anthropia. Cette opération ne peut être annulée. Il vous suffit, pour faire cela, d'envoyer au service informatique d'Anthropia un message, ayant l'identifiant ciblé et le code spécial "VOIDIFY" quelque part dans son contenu. Tout moyen textuel est utilisable pour cela.
 {% endmacro %}
 
 
@@ -173,7 +173,7 @@ Analyseur Graphologico-Stylistique
 
 {% macro document_authentication_lamp() %}
 Authentification de document
-    Si un document ne porte pas de "sceau infalsifiable" (signature dans un cercle) attestant de son authenticité, vous avez un chance de détecter s'il s'agit d'un vrai ou d'un faux, grâce à votre analyseur d'authenticité.
+    Si un document ne porte pas de "sceau infalsifiable" (signature dans un cercle) attestant de son authenticité, vous avez une chance de détecter s'il s'agit d'un vrai ou d'un faux, grâce à votre analyseur d'authenticité.
     *Avec la lampe à ultraviolets, cherchez un sceau jaune (invisible sous lumière normale) sur le document. S'il contient une lettre voyelle, il est authentique ; s'il contient une lettre consonne, ou tout autre symbole, c'est un document falsifié.*
 {% endmacro %}
 

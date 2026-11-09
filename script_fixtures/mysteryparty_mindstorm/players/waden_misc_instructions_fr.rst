@@ -2,7 +2,7 @@
 <{ title_last_minute_information }/>
 ==============================================
 
-Vous avez déjà envoyé, via Anthropia, des message sur "bouboule" (l'orbe) à Emilos Loakim et à Loyd Georges. Pourvu qu'ils n'aient pas été interceptés... {% fact "waden_sent_anthropia_message_about_orb" as author %}
+Vous avez déjà envoyé, via Anthropia, des messages sur "bouboule" (l'orbe) à Emilos Loakim et à Loyd Georges. Pourvu qu'ils n'aient pas été interceptés... {% fact "waden_sent_anthropia_message_about_orb" as author %}
 
 Vous trainiez depuis plusieurs jours dans votre mallette quelques courriers non ouverts, sûrement des publicités. Au moment de partir à la soirée, l'un d'eux attire votre attention, car il porte le sceau de l'Université D'Omrh, au Nalavut. Il contient une longue lettre que vous avez à peine le temps de lire, ainsi que des clichés que vos collègues de l'académie vous avaient déjà montrés. Vous prenez tout cela dans votre poche de veste, songeur. {% fact "alifir_academy_might_have_stolen_omrh_works_on_physicics" %} {% hint "omrh_university_request_for_waden" is needed %}
 

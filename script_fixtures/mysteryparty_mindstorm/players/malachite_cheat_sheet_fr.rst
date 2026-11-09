@@ -19,7 +19,7 @@
 =========================================================
 
 - vous avez emprunté avec sa complicité l'identité de {{character_properties.malachite.full_official_title}}, expert en histoire yodique qui reste disponible pour aider votre mission {% fact 'malachite_official_is_helping_secret_services' as author %} {% fact 'malachite_official_is_expert_in_yodic_history' %}
-- vous faites équipe avec l'agent Spinel, avec qui vous partagez un appartement de Salima, au dessus de chez "Maître Bibine, apothicaire".
+- vous faites équipe avec l'agent Spinel, avec qui vous partagez un appartement de Salima, au-dessus de chez "Maître Bibine, apothicaire".
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% fact 'lg_has_found_and_hidden_an_orb' %}
 - vous avez démasqué "{{character_properties.garnet.full_official_title}}", et "{{character_properties.amethyst.full_official_title}}" comme étant les agents secrets lordaniens Garnet et Amethyst {% fact 'amethyst_is_undercover' %} {% fact 'garnet_is_undercover' %}
 

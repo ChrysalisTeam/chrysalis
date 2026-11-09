@@ -19,10 +19,10 @@
 - vous avez pris l'identité de {{character_properties.peridot.full_official_title}}, avec l'accord de la vraie personne qui est restée en toute discrétion dans sa boutique {% fact 'peridot_official_was_bribed' %}{% fact 'peridot_official_is_still_in_shop' %}
 - vous faites équipe avec l'agent Topaz
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% fact 'lg_has_found_and_hidden_an_orb' %}
-- vos recherches dans le voisinage n'ont rien donné, hormis avec une interminable discussion avec Maitre Florent, apothicaire et ancien apprenti de Maître Bibine de Salima {% fact "peridot_talked_with_master_florent" as author %}
+- vos recherches dans le voisinage n'ont rien donné, hormis une interminable discussion avec Maître Florent, apothicaire et ancien apprenti de Maître Bibine de Salima {% fact "peridot_talked_with_master_florent" as author %}
 - vous savez par votre compère que le professeur Loakim était fortement impliqué par Loyd Georges {% fact 'lg_gave_responsibilities_to_loakim' %}
 - vous avez tenté, en duo, d'enlever ce professeur Loakim, hélas sans succès {% fact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
-- une certain "Malachite" semble responsable d'un récent cambriolage dans un entrepôt privé d'Alifir {% fact 'malachite&spinel_rob_alifir_warehouse' %}
+- un certain "Malachite" semble responsable d'un récent cambriolage dans un entrepôt privé d'Alifir {% fact 'malachite&spinel_rob_alifir_warehouse' %}
 - un certain "Spinel" a espionné les communications téléphoniques entre Loyd Georges et le professeur Loakim {% fact 'spinel_wiretaps_lg_and_friends' %}
 - un certain "Amethyst" a revendu au marché noir des petits artefacts provenant des enchères {% fact 'amethyst_sells_items_at_black_market' %}
 

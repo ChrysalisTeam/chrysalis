@@ -2,7 +2,7 @@
 La journée de l'avant-veille
 ==============================
 
-Vous aviez, il y a plusieurs semaines, porté des échantillons de tous vos traitements médicamenteux au laboratoire biochimique d'Alifir ; d'après ce que vous aviez compris, certains tests nécessitaient de faire appel à d'autres disciplines scientifiques. Ce soir, ils vous ont enfin rappellé, inquiets d'avoir trouvé dans vos antihistaminiques des molécules hautement "myotoxiques", autrement dit détruisant les muscles. Si vous n'aviez pas diminué vos doses journalières, à cause du climat bien moins allergène du pays de Sabarim, vous ne seriez sans doute plus de ce monde, à l'heure qu'il est.
+Vous aviez, il y a plusieurs semaines, porté des échantillons de tous vos traitements médicamenteux au laboratoire biochimique d'Alifir ; d'après ce que vous aviez compris, certains tests nécessitaient de faire appel à d'autres disciplines scientifiques. Ce soir, ils vous ont enfin rappelé, inquiets d'avoir trouvé dans vos antihistaminiques des molécules hautement "myotoxiques", autrement dit détruisant les muscles. Si vous n'aviez pas diminué vos doses journalières, à cause du climat bien moins allergène du pays de Sabarim, vous ne seriez sans doute plus de ce monde, à l'heure qu'il est.
 
 Vous êtes partagé entre la joie d'enfin comprendre, et un certain fatalisme : d'après les experts, "les dégâts sont faits", et **il ne vous reste guère que quelques années à vivre**.
 
@@ -30,7 +30,7 @@ Puis le déjeuner est servi : un délicieux gratin de morue aux girolles. Vous h
 
 Loyd Georges semble très abattu quand il entend les noms de quelques connaissances communes, rattrapées par cette "malédiction des profanateurs yodiques". L'inspecteur Shark, lui, prend (pour une fois) au sérieux vos corrélations, et gribouille des notes en vous questionnant sur les expéditions en question, leurs différents protagonistes, et l'état actuel de votre enquête.
 
-Après le déjeuner, fatigué de tourner en rond dans ce splendide mais silencieux manoir, vous appelez un cab', qui arrive à {% symbol "14h45" for "afternoon_opal_departure_time" %}. Méconnaissable avec une longue moustache postiche et des binocles factices, vous arpentez tranquillement le centre ville de Salima, et achetez quelques babioles (une montre en argent, un petit livre sur les traditions sabarites...). Vous choisissez ensuite un petit café-théâtre humoristique "Aux Lucioles Salimiennes", pour vous changer les idées.
+Après le déjeuner, fatigué de tourner en rond dans ce splendide mais silencieux manoir, vous appelez un cab’, qui arrive à {% symbol "14h45" for "afternoon_opal_departure_time" %}. Méconnaissable avec une longue moustache postiche et des binocles factices, vous arpentez tranquillement le centre ville de Salima, et achetez quelques babioles (une montre en argent, un petit livre sur les traditions sabarites...). Vous choisissez ensuite un petit café-théâtre humoristique "Aux Lucioles Salimiennes", pour vous changer les idées.
 
 Lorsque vous rentrez en taxi, vers {% symbol "21h30" for "evening_opal_return_time" %}, le majordome vous signale que Loyd Georges est déjà allé se coucher ; et que l'inspecteur était reparti à la fin de l'après-midi, pour faire son rapport en haut lieu. Vous ne tardez donc pas non plus à prendre un comprimé de calmants somnifères et à vous endormir, dans la grande chambre que Loyd Georges a réservée pour votre famille. {% fact "opal_alibi_is_average" as author %}
 

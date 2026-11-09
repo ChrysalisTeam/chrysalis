@@ -40,7 +40,7 @@
     - "Lampe d'éblouissement"
     - "Diffuseur de bruit de pluie/cœur"
     - "Machine à écrire avec petits papiers (pour prendre les dépositions)"
-    - "Sachet d'antidote au muguet 'cousu' dans la doublure de son manteau"
+    - "Sachet d'antidote au muguet \"cousu\" dans la doublure de son manteau"
 
 -
   - "Pour l'ambassadeur akarite"
@@ -66,7 +66,7 @@
     - "Mémo d'instructions pour Robb Barrow {% hint 'robb_barrow_instructions_memo' is provided %}"
     - "Affiche de vente d'Hydrolande {% hint 'hydroland_sale_poster' is provided %}"
     - "Extrait de la biographie de Loyd Markis"
-    - "Logos 'carte passe' sur les serrures qui le nécessitent"
+    - "Logos \"carte pass\" sur les serrures qui le nécessitent"
 
 -
   - "Objets et mobilier disposés au mieux dans les salles"
@@ -78,8 +78,8 @@
     - "Grandes jumelles"
     - "Boite aux lettres protégée par carte pass, avec LOT 1 dedans"
     - "Jeu des bâtonnets en métal"
-    - "Boite plate noire à motifs rouge"
-    - "Beau coffret bois-et-or, contenant au moins 2 étuis à lunette (dont 1 rempli), 1 flacon tubulaire en verre, et le coupe-papier 'Blois'"
+    - "Boite plate noire à motifs rouges"
+    - "Beau coffret bois-et-or, contenant au moins 2 étuis à lunette (dont 1 rempli), 1 flacon tubulaire en verre, et le coupe-papier \"Blois\""
     - "Cadre photo du lapin"
 
 -
@@ -94,7 +94,7 @@
   -
     - "Carte pass dorée pour le coffre-fort de LG (qui ouvre TOUTES les serrures passcard) : dans le chapeau haut-de-forme de LG {% fact 'passcard_of_loyd_georges_is_in_his_hat' %} {% hint 'lg_vault_pass_card' is provided %}"
     - "Code du coffre-fort de LG ({% symbol '603-109 (six sans Troie...sang neuf)' for 'lg_vault_secret_code' %}): dans une {% symbol 'petite boite à mouchoir' for 'lg_vault_secret_code_location' %} cachée dans le beau coffret bois-et-or à ancre {% hint 'lg_vault_secret_code' is provided %} "
-    - "Enregistreur dictaphone Olympus attaché à une émetteur de signal, bien caché mais sans intérférence {% hint 'opal_lydia_voice_recorder' is provided %}"
+    - "Enregistreur dictaphone Olympus attaché à un émetteur de signal, bien caché mais sans interférence {% hint 'opal_lydia_voice_recorder' is provided %}"
     - "Carte pass dédiée uniquement à la boîte aux lettres du manoir : dans le portefeuille vendu par Alphonse {% hint 'postbox_specific_lost_passcard' is provided %}"
 
 -
@@ -125,7 +125,7 @@
     - "3 pierres lisses vert/rose/orange dans un sachet de lin gris"
 
 -
-    - "Mallette de la vielle dame"
+    - "Mallette de la vieille dame"
     -
       - "3 portefeuilles encastrés marron/vert/noir en cuir"
       - "3 fioles dont 1 de drogue zombifiante"
@@ -150,13 +150,13 @@
     - "Perquisition des HALLS : Rien trouvé"
     - "Perquisition du BUREAU : Télégramme de Waden évoquant sa commande de matériel à GemmoKorps (tombé sous un meuble)"
     - "Perquisition de la BIBLIOTHEQUE : Sac en toile brune avec une note d'Emilos Loakim"
-    - "Perquisition de la CHAMBRE DE LOYD GEORGES : Pharmacologie de la Dixogine (voir ci-dessus)"
+    - "Perquisition de la CHAMBRE DE LOYD GEORGES : Pharmacologie de la Digoxine (voir ci-dessus)"
     - "Perquisition de la CHAMBRE D'ALPHONSE : Stock d'alcools illégalement importés, cachés sous le matelas"  # pour faire chanter Alphonse...
     - "Perquisition de la CHAMBRE DE RYDJI : Télégramme du {% symbol 'Comte Blispin' for 'lg_close_friend_lord_name' %} pour Rydji"
     - "Perquisition de la CHAMBRE D'OPAL : Fausse lettre évoquant une fraude électorale de Lydia"
     - "Perquisition de la CUISINE : Les 2 recettes de la veille (voir ci-dessus)"
     - "Perquisition du GARDE-MANGER : Colis fin marron de Cynthia avec l'image de son immeuble {% hint 'cynthia_wetfeet_building_picture' is provided %}"
-    - "Perquisition du CHENIL : Talon gris de chaussure 'GoodShoe' {% hint 'broken_shoe_heel' is provided %}"
+    - "Perquisition du CHENIL : Talon gris de chaussure \"GoodShoe\" {% hint 'broken_shoe_heel' is provided %}"
 
 -
   - "Boîte aux lettres du manoir"
@@ -194,7 +194,7 @@
     - "1 licence ULTIMATE BANK SPIDER KIT [100¤] {% hint 'ultimate_bank_spider_kits' is provided %}"
     - "1 cartouche argentée, calibre 12, non usagée [100¤] {% hint 'single_caliber_12_cartridge' is provided %}"
     - "1 relique : mon vieux portefeuille et compteur de pas [100¤] {% hint 'old_alphonse_wallet' is provided %}"  # contient le pass dédié UNIQUEMENT à la boite aux lettres
-    - "1 Authentique réplique de la carte pass dorée de Loyd georges, non fonctionnelle [100¤]"  # pour l'intervertir avec la VRAIE carte pass dorée
+    - "1 Authentique réplique de la carte pass dorée de Loyd Georges, non fonctionnelle [100¤]"  # pour l'intervertir avec la VRAIE carte pass dorée
     - "1 jeu de cartes (manuel hélas indéchiffrable), trouvé hier au tripot {% symbol 'La Murge de Salima' for 'alphonse_alibi_bar' %} [100¤] {% hint 'card_game_with_unreadable_manual' is provided %}"   # mot secret des purificateurs donnant RDV le lendemain au Purineur
     - "1 stylo high-tech CHROMIA trouvé au manoir [100¤] {% hint 'chromia_spy_pen' is provided %}"   # dictaphone espion
     - "1 tentacule de poulpe caverneux [100¤] {% hint 'octopus_tentacle_in_bottle' is provided %}"

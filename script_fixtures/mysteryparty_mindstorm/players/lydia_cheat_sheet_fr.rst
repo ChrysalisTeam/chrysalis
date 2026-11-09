@@ -25,7 +25,7 @@
 <{ lydia_campaign_themes }/>
 {% endfilter %}
 
-- votre adversaire électoral, Mundlish Odalisk, cherche à vous faire chanter quant au passé de votre mari, mais difficile de savoir si ce n'est pas du bluff {% fact 'lydia_threatened_by_opponent_mundlish_odalisc' as author %}
+- votre adversaire électoral, Mundlish Odalisc, cherche à vous faire chanter quant au passé de votre mari, mais difficile de savoir si ce n'est pas du bluff {% fact 'lydia_threatened_by_opponent_mundlish_odalisc' as author %}
 
 - vous étiez partie, avec Khaal et votre cousine **{% symbol "Isildis" for "lydia_cousin_name" %}**, pour une {% symbol "thalassothérapie dans les monts brumeux (près de la frontière Est de Sabarim)" for "khaal_isildis_location" %}, quitte à manquer la soirée de Loyd Georges  {% fact "lydia_was_out_of_manor_with_khaal_recently" as author %}
 

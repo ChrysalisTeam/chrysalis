@@ -2,7 +2,7 @@
 Ces dernières semaines
 ==============================
 
-Votre mari brûlait de participer aux mystérieuses ventes aux enchères d'un certain sir Loyd Georges, qu'il avait cotoyé par le passé. A la fin de la campagne électorale, il y a deux semaines, vous êtes même partis vous installer en famille dans le manoir du sieur, près de la ville de Salima.  {% fact "opal_lydia_temporarily_moved_to_lg_manor_2_weeks_ago" as author %}
+Votre mari brûlait de participer aux mystérieuses ventes aux enchères d'un certain sir Loyd Georges, qu'il avait côtoyé par le passé. A la fin de la campagne électorale, il y a deux semaines, vous êtes même partis vous installer en famille dans le manoir du sieur, près de la ville de Salima.  {% fact "opal_lydia_temporarily_moved_to_lg_manor_2_weeks_ago" as author %}
 
 Vous aviez un grand besoin de vous revigorer ; vous avez donc décliné la soirée spéciale de Loyd Georges, pour aller effectuer une {% symbol "thalassothérapie dans les monts brumeux (près de la frontière Est de Sabarim)" for "khaal_isildis_location" %}, avec Khaal et votre bonne cousine **{% symbol "Isildis" for "lydia_cousin_name" %}**. Il était entendu que vous rentreriez directement à Alifir le lendemain de ladite soirée (qui est aussi le jour du scrutin), pour y prendre vos fonctions, si - comme prévu - vous étiez élue. {% fact "lydia_was_out_of_manor_with_khaal_recently" as author %}
 

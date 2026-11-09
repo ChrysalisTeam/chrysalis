@@ -17,7 +17,7 @@ Par priorité décroissante :
 Rappel : lorsqu’il a des charges suffisantes contre un joueur, l’inspecteur peut le faire mettre en examen, et ainsi gagner accès à son compte Anthropia, via une saisie judiciaire. En croisant les indices ainsi glanés, il devrait être possible de retrouver l'orbe. *Voir les détails légaux dans le document de Droit Sabarite.*
 
 {% if not standalone %}
-S’il a accès aux comptes de deux joueurs d’une même faction, l’inspecteur peut tenter de récupèrer l’orbe que la faction posséderait, via une émeute akarite.
+S’il a accès aux comptes de deux joueurs d’une même faction, l’inspecteur peut tenter de récupérer l’orbe que la faction posséderait, via une émeute akarite.
 {% endif %}
 
 

@@ -20,3 +20,4 @@ Lend your husband a hand
     He may be physically diminished, but he fully intends to fight it out, so your help will be precious to him.
 
 {% endmacro %}
+<{ lydia_objectives_summary }/>

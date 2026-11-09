@@ -27,15 +27,15 @@
 <{ title_last_minute_information }/>
 =========================================================
 
-- vous avez toujours de bons lien avec votre ami "Le Docker" des services secrets sabarites  {% fact "opal_has_friend_in_sabarith_spies_called_the_docker" as author %}
+- vous avez toujours de bons liens avec votre ami "Le Docker" des services secrets sabarites  {% fact "opal_has_friend_in_sabarith_spies_called_the_docker" as author %}
 
 - vous avez sur vous une liste des poisons les plus violents  {% fact 'opal_researches_poisons' as author %} {% hint 'deadliest_poisons_memo_for_opal' is provided %}
 
 - les "purificateurs", secte vengeresse akarite, seraient bien implantés en Sabarim, et les services secrets masslaves seraient au courant mais cacheraient leurs informations par peur des retours de bâton  {% fact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
 
-- une concile religieux, au contenu secret, vient de débuter en Akarie  {% fact 'misc_akarith_council_begins' %}
+- un concile religieux, au contenu secret, vient de débuter en Akarie  {% fact 'misc_akarith_council_begins' %}
 
-- vous avez toujours votre tatouage des "Loups Rouge" sur la main  {% fact 'opal_has_red_fir_tattoo' as author %}
+- vous avez toujours votre tatouage des "Loups Rouges" sur la main  {% fact 'opal_has_red_fir_tattoo' as author %}
 
 - vous avez décidé de vendre votre plate-forme maritime "Hydrolande" au plus offrant ; étrangement, le pays de {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, bien qu'à la traîne technologiquement, y a envoyé un navire-sondeur récemment pour inspecter ses hauts fonds  {% fact "opal_owns_hydroland" as author %} {% hint "hydroland_sale_poster" is needed %} {% fact "balberith_has_poor_atom_analysis_technology" %}
 

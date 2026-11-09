@@ -33,7 +33,7 @@
   - you manage to get back into the manor through the library window, the cameras being disabled, and place a recorder there on a high shelf near the small hall
   - you hear talk of a land sale in the bedroom adjoining the library
   - you place the second recorder behind a sofa in the dining room
-  - shortly after {% symbol "12:45" for "malachite_amethyst_encounter_time" %} you end up with {{character_properties.amethyst.official_name}}, hiding in the pantry {% fact 'amethyst_and_malachite_locked_in_pantry' as author %}; you fortunately escape from it
+  - shortly after {% symbol "12:45" for "malachite_amethyst_encounter_time" %} you end up with {{character_properties.amethyst.official_name}}, hiding in the pantry{% fact 'amethyst_and_malachite_locked_in_pantry' as author %}; you fortunately escape from it
   - after fruitless investigations, you fail, late in the evening, to bribe a Salimian high prefect in the {% symbol "Salima Flower Square" for "malachite_alibi_location" %} {% fact "malachite_alibi_is_illegal" as author %}
 
 

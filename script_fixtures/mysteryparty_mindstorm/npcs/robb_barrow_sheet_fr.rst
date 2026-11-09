@@ -18,13 +18,13 @@ Vers {% symbol "16h" for "kitchen_cook_inspector_meeting_time" %} vous vous reme
 
 L'inspecteur part avant le repas du soir. Vous donnez à Bedou de la blanquette, en avant-première, peu avant {% symbol "19h" for "evening_dinner_time_dog_bedou" %} ; puis vous partez manger en ville avec de la famille, avant que Loyd Georges ne dîne.
 
-Le lendemain, jour de la soirée spéciale, vous apprenez que Loyd Georges est hospitalisé, mais l'inspecteur ne vous dit pas grand chose, à part de préparer la soirée "comme si de rien n'était".
+Le lendemain, jour de la soirée spéciale, vous apprenez que Loyd Georges est hospitalisé, mais l'inspecteur ne vous dit pas grand-chose, à part de préparer la soirée "comme si de rien n'était".
 
 Vous ne connaissez pas le Tabellion de Salima, ni les différents invités (enchérisseurs ou non) présents.
 
 Si l'on vous demande la recette d'un des 2 plats de la veille, vous allez la chercher (auprès du maître de jeu). Si l'on vous demande d'aller chercher tous les livres de recette du manoir, même chose.
 
-**Si l'on vous prouve que vous avez mis par erreur du laurier rose dans un plat, au lieu du laurier sauce, vous êtes attérré, désespéré, et demandez à ce qu'on vous emprisonne.**
+**Si l'on vous prouve que vous avez mis par erreur du laurier rose dans un plat, au lieu du laurier sauce, vous êtes atterré, désespéré, et demandez à ce qu'on vous emprisonne.**
 
 Si l'on vous demande de réaliser un (faux) cocktail, avec différents ingrédients apportés par un joueur, allez voir le maître du jeu pour qu'il vous donne le résultat de ce mélange.
 

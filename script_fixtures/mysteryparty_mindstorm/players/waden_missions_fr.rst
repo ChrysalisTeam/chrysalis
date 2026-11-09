@@ -16,7 +16,7 @@ Principaux objectifs pour la soirée
 
 Jusqu'ici vous avez tenté de vous dépatouiller de vos problèmes tout seul, sans y exposer vos proches.
 Mais les choses prennent une sale tournure, il va bien vous falloir trouver des soutiens.
-A commencer par Cynthia, dont les talents et contacts sont forts nombreux.
+A commencer par Cynthia, dont les talents et contacts sont fort nombreux.
 
 {% endmacro %}
 

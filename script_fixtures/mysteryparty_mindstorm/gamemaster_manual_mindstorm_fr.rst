@@ -6,7 +6,7 @@ Concept de la soirée mystère
 
 Chrysalis:Mindstorm est un huis-clos entre enquête criminelle et conflit géopolitique, où des agents secrets et des civils de divers pays se retrouvent face à un redoutable inspecteur de police, qui va les pousser dans leurs derniers retranchements.
 
-Tout commence comme une banale soirée de vente aux enchères, organisée par l'aventurier Sir loyd Georges, en son manoir de Salima. A peine la réception commencée, les joueurs apprennent que Loyd Georges est entre la vie et la mort, et que personne ne sortira des lieux avant que le coupable de cette tentative d'assassinat n'ait été arrêté.
+Tout commence comme une banale soirée de vente aux enchères, organisée par l'aventurier Sir Loyd Georges, en son manoir de Salima. A peine la réception commencée, les joueurs apprennent que Loyd Georges est entre la vie et la mort, et que personne ne sortira des lieux avant que le coupable de cette tentative d'assassinat n'ait été arrêté.
 
 
 {#   SECTION TEMPORAIREMENT MASQUEE
@@ -37,7 +37,7 @@ Ils ont aussi reçu, chacun, une fiche de personnage récapitulant :
 
 En avant-enchères (donc si la "réalité alternée" n'a pas été jouée avant), les joueurs ont par ailleurs tout un descriptif de leur carrière, de leurs relations avec les autres protagonistes, et des méfaits dont ils ont été acteurs ou spectateurs durant les quelques semaines qui se sont écoulées.
 
-Les faits les plus important sont résumés dans une **feuille antisèche (cheat sheet)**, pour aider chaque joueurs durant la partie.
+Les faits les plus importants sont résumés dans une **feuille antisèche (cheat sheet)**, pour aider chaque joueur durant la partie.
 
 
 
@@ -47,8 +47,8 @@ Les forces en présence
 les protagonistes de l'Affaire Loyd Georges :
 
 - la faction masslave (Malachite et Spinel) est très anti-akarite ; elle veut empêcher un rattachement de la Dorie à l'Akarie, et l'invasion de leur pays.
-- la faction dorienne (Topaz et Peridot) est plutot pro-akarite ; elle doit, sur les ordres du Duc dorien, faciliter l'alliance de leur pays avec l'Akarie, même si cela ne fait pas l'unanimité parmi les hauts gradés doriens.
-- la faction lordanienne (Garnet et Amethyst) veut juste préserver l'hégémonie de son pays ; elle veut donc découvrir les rapports de force exacts en Midolie, puis d'empêcher l'avènement d'un empire akarite dans cette région, qui découlerait d'une invasion réussie des pays alentours.
+- la faction dorienne (Topaz et Peridot) est plutôt pro-akarite ; elle doit, sur les ordres du Duc dorien, faciliter l'alliance de leur pays avec l'Akarie, même si cela ne fait pas l'unanimité parmi les hauts gradés doriens.
+- la faction lordanienne (Garnet et Amethyst) veut juste préserver l'hégémonie de son pays ; elle veut donc découvrir les rapports de force exacts en Midolie, puis empêcher l'avènement d'un empire akarite dans cette région, qui découlerait d'une invasion réussie des pays alentours.
 - Opal et Lydia, civils de nationalité lordanienne (ainsi que sabarite pour Lydia), doivent surtout servir les intérêts de leur famille, en évitant la ruine financière, en trouvant le moyen de soigner monsieur (victime d'une secte akarite), et en permettant à madame de remporter les élections consulaires.
 - Waden, Cynthia et Obsidian, civils sabarites, sont inquiets de la déstabilisation de leur pays (entre autres à cause des ingérences akarites) ; ils ont diverses missions personnelles, visant surtout à protéger leurs secrets, leurs proches, leurs pays... et aider à trouver l'agresseur de Loyd Georges.
 
@@ -125,7 +125,7 @@ L'Orbe de Loyd Georges
 
 Plusieurs factions ont pour but de mettre la main sur cet Orbe récupéré par Loyd Georges lors de son expédition en Midolie.
 
-Dès le début du jeu, les différents agents secrets sont appelés par leurs supérieurs respectifs à pirater la "question secrète" de Loyd georges sur le portail web. Ils doivent donc enquêter pour trouver le nom du premier animal de compagnie de Loyd georges, entre indices répartis dans les lieux (ex. photos souvenirs annotées) et questions posées aux PNJs. Ils finissent par comprendre que c'est une divinité égyptienne, {% symbol  "Bastet" for "lg_first_pet_name" %} (un article encyclopédique sur les anciennes divinités aide à trouver ce nom).
+Dès le début du jeu, les différents agents secrets sont appelés par leurs supérieurs respectifs à pirater la "question secrète" de Loyd Georges sur le portail web. Ils doivent donc enquêter pour trouver le nom du premier animal de compagnie de Loyd Georges, entre indices répartis dans les lieux (ex. photos souvenirs annotées) et questions posées aux PNJs. Ils finissent par comprendre que c'est une divinité égyptienne, {% symbol  "Bastet" for "lg_first_pet_name" %} (un article encyclopédique sur les anciennes divinités aide à trouver ce nom).
 
 Le compte web de Loyd Georges révèle immédiatement que c'est le physicien Waden Shaw qui possède l'orbe ainsi que divers artefacts archéologiques ramenés d'Akarie. Dès lors, avec les conseils de leur hiérarchie, les agents secrets vont devoir espionner Waden, potentiellement négocier avec lui, et surtout rassembler assez d'indices sur sa cachette.
 
@@ -174,13 +174,13 @@ En revanche, les services secrets sabarites peuvent y faire une descente.
 Trouvailles remontées par la perquisition :
 
 - message codé {% symbol "MO NOUS COUVRE - LIVRAISON OK – 17 TAVERNES AUBONPICHET SOUMISES SUR 1238" for "akarith_sect_coded_message" %}, déchiffrable avec l'aide de Cynthia. {% fact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
-- montre à gousset qui, une fois analysée biophysiquement via Anthropia, divulgue des métaux lordaniens, des pollens d'Akarie dans la drogue ainsi que des "vapeurs de liqueur de tilleul" dans la drogue (ce qui surconscrit à environ 80 tavernes AuBonPichet servant cette boisson); le scanner mondial, lui, donne une dizaine de zones dans les grandes villes akarites, zones contenant en tout environ 50 tavernes AuBonPichet. Avoir les deux indices permet de cerner précisément les 17 tavernes soumises.
+- montre à gousset qui, une fois analysée biophysiquement via Anthropia, divulgue des métaux lordaniens, des pollens d'Akarie dans la drogue ainsi que des "vapeurs de liqueur de tilleul" dans la drogue (ce qui circonscrit à environ 80 tavernes AuBonPichet servant cette boisson); le scanner mondial, lui, donne une dizaine de zones dans les grandes villes akarites, zones contenant en tout environ 50 tavernes AuBonPichet. Avoir les deux indices permet de cerner précisément les 17 tavernes soumises.
 
 Les consuls peuvent pousser une gueulante, en interne, suite à cette première investigation dans un tripot qu'ils cherchent à protéger.
 
 Le but pour Obsidian est de lancer une offensive simultanée contre les tavernes AuBonPichet identifiées, afin de démanteler à la fois le trafic et l'implantation akarite. Mais puisque l'armée ne saurait être engagée dans une opération intérieure, et que la police est mise au pas par les consuls, les forces disponibles pour cela sont insuffisantes.
 
-Il faut donc soit engager des compagnies d'obérons dans les autres villes du pays, qui suivront les fugitifs à la trace, soit encore mieux des mercenaires (via les obérons, mais plus chers), qui participeront directement à l'assaut contre les tavernes. Selon le nombre de tavernes visées, il faut ebaucher 1 ou 2 groupes en soutien.
+Il faut donc soit engager des compagnies d'obérons dans les autres villes du pays, qui suivront les fugitifs à la trace, soit encore mieux des mercenaires (via les obérons, mais plus chers), qui participeront directement à l'assaut contre les tavernes. Selon le nombre de tavernes visées, il faut embaucher 1 ou 2 groupes en soutien.
 
 Un assaut réussi met les akarites infiltrés en position désespérée, et les contraint à de derniers coups d'éclat (dont l'attaque du manoir de Loyd Georges).
 
@@ -189,7 +189,7 @@ Un assaut réussi met les akarites infiltrés en position désespérée, et les 
 Le nouveau triumvirat sabarite
 ----------------------------------
 
-Le triumvirat de consuls qui dirige sabarite a des pouvoirs très étendus.
+Le triumvirat de consuls qui dirige Sabarim a des pouvoirs très étendus.
 
 Lydia, la femme d'Opal, est en lice pour un de ces postes de consuls ; et le Tabellion "{% symbol "Maestre Ramye Leydelass" for "notary_name" %}" (PNJ), présent à la soirée a une forte influence sur son fils "Vik Leydelass", qui est lui aussi candidat (dans un autre consulat).
 
@@ -226,7 +226,7 @@ Demandes des rebelles :
 
 {% macro captain_rodimir_revendications() %}
 - création de 10.000 bourses d'étude, pour que les jeunes des castes défavorisées aient accès à la connaissance des académies sabarites
-- fin de toutes les exemptions d'impôt et de toutes les immunités judiciaires pour les notables sabraites
+- fin de toutes les exemptions d'impôt et de toutes les immunités judiciaires pour les notables sabarites
 - instauration d'un salaire minimum, valant 2 baguettes de pain par heure de travail
 {% endmacro %}
 <{ captain_rodimir_revendications }/>
@@ -257,8 +257,8 @@ L'analyse de ces missives révèle que la première est fausse, et la deuxième 
 
 Dès lors, l'objectif des lordaniens devient d'empêcher une expansion victorieuse des akarites en Midolie, par différents moyens :
 
-- contrecarrer un ralliement du duc dorien à l'Akarie (en donant un faux "témoignage d'expert" au concile)
-- fournir un appui aérien pour dissuader une invasion terrestre des akarites (forteresse volante déployée dans l'aérodrome sabarite géant d'Alifir, suel à pouvoi l'accueillir sur le continent)
+- contrecarrer un ralliement du duc dorien à l'Akarie (en donnant un faux "témoignage d'expert" au concile)
+- fournir un appui aérien pour dissuader une invasion terrestre des akarites (forteresse volante déployée dans l'aérodrome sabarite géant d'Alifir, seul à pouvoir l'accueillir sur le continent)
 - plus généralement, mettre des bâtons dans les roues des akarites (ex. s'assurer que le gisement de sables bitumineux ne risque pas de leur profiter)
 
 
@@ -272,11 +272,11 @@ Durant le temps de la soirée, a lieu un grand concile en Akarie, dont les résu
 Deux auditions ont lieu pour cela:
 
 - un protagoniste dorien est appelé pour tester directement sa bonne conformité aux dogmes des judicateurs (à partir d'un résumé simple de la théologie yodique)
-- un protagoniste masslave est appelé en temps qu'expert en histoire yodique, pour donner son avis sur la compatibilité entre akarites et doriens d'un point de vue religieux (à partir d'un résumé verbeux et compliqué de la théologie yodique)
+- un protagoniste masslave est appelé en tant qu'expert en histoire yodique, pour donner son avis sur la compatibilité entre akarites et doriens d'un point de vue religieux (à partir d'un résumé verbeux et compliqué de la théologie yodique)
 
 Selon les résultats de ces deux auditions, les akarites prennent une décision plus ou moins favorable aux doriens, et la diffusent.
 
-Les destin du duc dorien lui-même dépend de paramètres supplémentaires : il est protégé par la présence d'akarites dans son arbre généalogique, mais Cynthia possède (chez elle) des preuves d'un blasphème qu'il a commis par le passé contre les Yods, preuves qui peuvent être récupérées par d'autres protagonistes. En particulier, vers le milieu de la soirée, le Duc lui-même appelle un agent dorien, pour lui demander de récupérer et détruire ces documents.
+Le destin du duc dorien lui-même dépend de paramètres supplémentaires : il est protégé par la présence d'akarites dans son arbre généalogique, mais Cynthia possède (chez elle) des preuves d'un blasphème qu'il a commis par le passé contre les Yods, preuves qui peuvent être récupérées par d'autres protagonistes. En particulier, vers le milieu de la soirée, le Duc lui-même appelle un agent dorien, pour lui demander de récupérer et détruire ces documents.
 
 L'arbre de décision final est grosso-modo celui-ci :
 
@@ -321,9 +321,9 @@ Les résultats de cette invasion dépendront des actions des joueurs :
 
 - si la Lordanie a obtenu le droit d'utiliser l'aérodrome militaire sabarite, pour y envoyer une de ses forteresses volantes, la progression des akarites va rapidement être stoppée ; il faut cependant, pour cela, que la situation sociale n'ait pas dégénéré entretemps en Sabarim (émeutes etc.), sans quoi la Lordanie fait marche arrière.
 
-- si la Dorie a obtenu le gisement de sables bitumineux, et s'est ralliée à l'Akarie, les envahisseurs disposent de structures mobiles très pusisantes pour aider leur progression ; si au contraire les forces anti-akarites disposent de terres rares et de carburant, c'est un gros plus pour eux
+- si la Dorie a obtenu le gisement de sables bitumineux, et s'est ralliée à l'Akarie, les envahisseurs disposent de structures mobiles très puissantes pour aider leur progression ; si au contraire les forces anti-akarites disposent de terres rares et de carburant, c'est un gros plus pour eux
 
-- si l'orbe a été récupéré par les akarite (via Shark ou via les doriens), leur population est galvanisée comme jamais ; sinon, des dissenssions doctrinales apparaissent, et des clans akarites peuvent même faire défection lors de l'invasion.
+- si l'orbe a été récupéré par les akarites (via Shark ou via les doriens), leur population est galvanisée comme jamais ; sinon, des dissensions doctrinales apparaissent, et des clans akarites peuvent même faire défection lors de l'invasion.
 
 Des spots radios informent de ces équilibres de force et du déroulement de l'invasion.
 
@@ -348,7 +348,7 @@ Le livre factice contient une note en clair, invitant à regarder au loin par la
 
 On peut lire, de loin, une énigme littéraire menant à chercher **sous les recettes de cuisine**.
 
-Les serviteurs ne savent pas où ces recettes sont (pas vues depuis plusieurs jours), le nouveau cuisinier Robb Barrow les a déplacées. Et ils n'ont aps que ça à faire de retourner le manoir pour cela. Il faut donc attendre l'arrivée du cuisinier, "tout à l'heure" ; les joueurs les plus précoces sur cette quête doivent donc essayer de confisquer les différentes jumelles disponibles pour saboter les efforts des concurrents, et peut-être tenter d'envoyer l'obéron fouiller certains coins précis du manoir.
+Les serviteurs ne savent pas où ces recettes sont (pas vues depuis plusieurs jours), le nouveau cuisinier Robb Barrow les a déplacées. Et ils n'ont pas que ça à faire de retourner le manoir pour cela. Il faut donc attendre l'arrivée du cuisinier, "tout à l'heure" ; les joueurs les plus précoces sur cette quête doivent donc essayer de confisquer les différentes jumelles disponibles pour saboter les efforts des concurrents, et peut-être tenter d'envoyer l'obéron fouiller certains coins précis du manoir.
 
 Si personne n'a encore vu les glyphes sur le toit de la cabane de jardin lorsque le cuisinier arrive, des serviteurs peuvent alerter bruyamment de leur surprenante présence.
 
@@ -414,7 +414,7 @@ Depuis, Opal a accès au compte web sécurisé d'Emerald (mais en lecture seule)
 
 Des indices répartis entre les protagonistes permettent de relier Opal à la mort d'Emerald, et d'expliquer a posteriori l'action d'Opal face à cet agent double.
 
-Si Opal n'arrive à pas démontrer son innocence, les lordaniens pourraient lui mettre des bâtons dans les roues de multiples façon, y compris en lui fournissant une mauvaise recette pour compléter son Elixir Berserk.
+Si Opal n'arrive pas à démontrer son innocence, les lordaniens pourraient lui mettre des bâtons dans les roues de multiples façons, y compris en lui fournissant une mauvaise recette pour compléter son Elixir Berserk.
 
 
 
@@ -424,11 +424,11 @@ Le renflouement de la famille (dont la négociation de vente minière)
 Les affaires d'Opal périclitent, et il a besoin d'énormément d'argent pour les relancer.
 
 Cela peut se faire en montant une escroquerie sur la plateforme "Hydrolande", mise en vente par Opal.
-En effet, si Waden Shaw affirme que les échantillon de roche d'Hydrolande prélevés par {% symbol "Balberith" for "waden_blackmailer_lady_country" %} sont ceux qui contiennent du bon Uranium, alors Opal pourra vendre cette plateforme à très bon prix audit pays.
+En effet, si Waden Shaw affirme que les échantillons de roche d'Hydrolande prélevés par {% symbol "Balberith" for "waden_blackmailer_lady_country" %} sont ceux qui contiennent du bon Uranium, alors Opal pourra vendre cette plateforme à très bon prix audit pays.
 
 Mais la façon la plus simple est de vendre à un prix suffisant le gisement de sables bitumineux de Lydia (en faisant toutefois attention aux retombées géopolitiques, en fonction de l'acheteur victorieux).
 
-Trois camps s'affrontent ou s'allient en effet pour pouvoir devenir propriétaires de ce gisement, afin d'en faire soit du carburant, soit des composants électroniques, soit des matériaux de contruction.
+Trois camps s'affrontent ou s'allient en effet pour pouvoir devenir propriétaires de ce gisement, afin d'en faire soit du carburant, soit des composants électroniques, soit des matériaux de construction.
 
 L'astuce est que les deux premiers nécessitent des composantes distinctes des sables bitumineux (et peuvent donc donner lieu à une coopération entre acheteurs), alors que les matériaux de construction nécessitent l'intégralité de la ressource.
 
@@ -436,12 +436,12 @@ Déroulement : avec l'appui du Tabellion, Lydia doit obtenir de chacun une premi
 
 **Stratégies**
 
-- si chacun joue pour soi, c'est le camp des "matériaux de contruction" qui l'emporte
-- si le "carburant" et les "terres rares" s'allient (en mutualisant ou non le forage), ils battent de peu les "matériaux de contruction"
-- si les acheteurs des "matériaux de contruction" ont un "cœur de fusion", ils ont une rentabilité bien supérieure aux deux autres
-- les camps  "carburant" et "terres rares" ne peuvent pas chacun remporter le marché en solo grâce au "cœur de fusion", mais ils ont intérêt à en déposséder le camp des "matériaux de contruction"
+- si chacun joue pour soi, c'est le camp des "matériaux de construction" qui l'emporte
+- si le "carburant" et les "terres rares" s'allient (en mutualisant ou non le forage), ils battent de peu les "matériaux de construction"
+- si les acheteurs des "matériaux de construction" ont un "cœur de fusion", ils ont une rentabilité bien supérieure aux deux autres
+- les camps  "carburant" et "terres rares" ne peuvent pas chacun remporter le marché en solo grâce au "cœur de fusion", mais ils ont intérêt à en déposséder le camp des "matériaux de construction"
 
-Ou trouver un coeur de fusion thermocyclique ?
+Où trouver un coeur de fusion thermocyclique ?
 Le physicien Waden Shaw en avait un dans le laboratoire du professeur Voluto, et peut s'en servir de monnaie d'échange pour détruire ledit laboratoire.
 
 Noter que l'ambassadeur akarite tente d'interférer avec cette vente, en proposant à Lydia de signer un **pacte de négociation commerciale** (non exclusif) avec Akaris ; le but étant davantage de la "griller" auprès de l'opinion publique, que d'obtenir réellement le gisement (car les doriens s'en chargent pour l'Akarie).
@@ -451,15 +451,15 @@ Noter que l'ambassadeur akarite tente d'interférer avec cette vente, en proposa
 La protection de Khaal
 -----------------------------
 
-Les dialogues enregistrés entre Opal et Lydia, la lettre d'Emilos Loakim volée par Amethyst, et un spot radio inquiétant, pointent du doigt que le fils de la familel Magnus est en danger.
+Les dialogues enregistrés entre Opal et Lydia, la lettre d'Emilos Loakim volée par Amethyst, et un spot radio inquiétant, pointent du doigt que le fils de la famille Magnus est en danger.
 
 Lydia et Opal doivent le faire sortir au plus vite de la thalassothérapie du mont brumeux.
 
-Une attaque de plusieurs factins (akarites, et mercenaires de {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}) finit par y survenir. {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %} cherche en effet à récupérer le manoir de Loyd Georges depuis toujours, et il compte pour cela sur un vil chantage. {% fact "lord_mac_jolt_wants_to_blackmail_lg_via_khaal" %}
+Une attaque de plusieurs factions (akarites, et mercenaires de {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}) finit par y survenir. {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %} cherche en effet à récupérer le manoir de Loyd Georges depuis toujours, et il compte pour cela sur un vil chantage. {% fact "lord_mac_jolt_wants_to_blackmail_lg_via_khaal" %}
 
 Si Khaal était encore sur place, lui et son accompagnatrice sont heureusement secourus par le {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %}, qui surveillait les manigances du {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, et protégeait les proches de Loyd Georges à la demande de ce dernier.
 
-Le {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %} s'est réfugié dans la forêt avec tout le monde, et a besoin d'être secouru, car les akarites rodent, et la police locale est fortement corrompue. Les Magnus doivent donc engager des mercenaires à Alifir pour cela, ou faire appel aux services secrets sabarites via Obsidian.
+Le {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %} s'est réfugié dans la forêt avec tout le monde, et a besoin d'être secouru, car les akarites rôdent, et la police locale est fortement corrompue. Les Magnus doivent donc engager des mercenaires à Alifir pour cela, ou faire appel aux services secrets sabarites via Obsidian.
 
 S'ils échouent à faire cela en moins d'1h, tous ces fugitifs tombent entre les mains des akarites, et Lydia doit capituler au profit de {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}.
 
@@ -489,7 +489,7 @@ Obsidian peut se rendre elle-même à la boite postale pour l'ouvrir de force, o
 La boite postale contient un courrier (ouvert) provenant des judicateurs akarites, indiquant au destinataire d'utiliser du muguet si nécessaire pour finir le boulot, et de garder l’antidote fourni en le cousant dans la doublure de sa veste, au cas où il était forcé d’ingérer son propre poison.
 
 Il est aussi possible de mettre la boite postale sous surveillance, par la vieille voisine ou par des mercenaires.
-Dans ce cas, les joueurs seront prévenus (avec une vague description d’un personnage portant un grand manteau, mais masqué par la brume), si jamais l'inspecteur va passer un appel dans ce hameau, ou s'il part librement en fin de soirée (car il passe récupérer de possibles instruction avant d'aller assassiner Loyd Georges à l'hospice).
+Dans ce cas, les joueurs seront prévenus (avec une vague description d’un personnage portant un grand manteau, mais masqué par la brume), si jamais l'inspecteur va passer un appel dans ce hameau, ou s'il part librement en fin de soirée (car il passe récupérer de possibles instructions avant d'aller assassiner Loyd Georges à l'hospice).
 
 Mais divers indices doivent convaincre Obsidian que quelque chose ne tourne pas rond :
 
@@ -497,7 +497,7 @@ Mais divers indices doivent convaincre Obsidian que quelque chose ne tourne pas 
 - la lettre de l'intendant de police de Salima, répondant à une plainte de Loyd Georges contre les méthodes anormales de l'inspecteur
 - le comportement étrange de l'inspecteur : ses libertés vis à vis de la loi sabarite, ses manipulations de preuves, ses algarades avec ceux qui avancent trop dans des enquêtes parallèles, un juron akarite qu'il laisse échapper à un moment...
 
-Si l'inspecteur est démasqué assez tôt (ex. en trouvant l'antidote dans la doublure de son manteau), il s'emporte et prend en joue l'ensemble des participants, en les traitant de fous. Cela peut déclencher une confrontation menant à sa mort ou à son arrestation par l'adjointe de police (selon qui a une arme). Sinon, l'inspecteur Shark s'absente pour mettre dans la perfusion de Loyd Georges (qui est plus résistant que prévu) un ultime cardiotoxique ralentissant le coeur : de l’eau empoisonnée au muguet. Il en résulte une sorte de course contre la montre en fin de de soirée, pour prévenir l’hôpital et sauver le sir de Salima, avant que les purificateurs akarites n'attaquent le manoir.
+Si l'inspecteur est démasqué assez tôt (ex. en trouvant l'antidote dans la doublure de son manteau), il s'emporte et prend en joue l'ensemble des participants, en les traitant de fous. Cela peut déclencher une confrontation menant à sa mort ou à son arrestation par l'adjointe de police (selon qui a une arme). Sinon, l'inspecteur Shark s'absente pour mettre dans la perfusion de Loyd Georges (qui est plus résistant que prévu) un ultime cardiotoxique ralentissant le coeur : de l’eau empoisonnée au muguet. Il en résulte une sorte de course contre la montre en fin de soirée, pour prévenir l’hôpital et sauver le sir de Salima, avant que les purificateurs akarites n'attaquent le manoir.
 
 
 
@@ -516,7 +516,7 @@ Seul indice : un mystérieux parchemin d'idéogrammes, légué en héritage, et 
 {% endmacro %}
 <{ loyd_markis_lost_legacy }/>
 
-Certains protagoniste sont en grand besoin financier : la famille Magnus, et la maisonnée de Loyd Georges.
+Certains protagonistes sont en grand besoin financier : la famille Magnus, et la maisonnée de Loyd Georges.
 
 Ils auront donc tout intérêt à retrouver ce trésor.
 
@@ -526,16 +526,16 @@ Tenter de garder le trésor entièrement pour soi pourra donc valoir une déposs
 - l'élevage de la vieille voisine appartenait auparavant à Loyd Georges, elle a eu vent de la disparition du "Précieux Chaudron"
 
 - un mystérieux parchemin chiffré se trouve dans le coffre de Loyd Georges, avec son testament, et il est légué à Cynthia.
-- le parchemin hérité indique mentionne les "racines du baobab", sous forme d'un code secret qu'Opal peut déchiffrer  {% fact "opal_knows_standard_secret_codes" as author %}
+- le parchemin hérité mentionne les "racines du baobab", sous forme d'un code secret qu'Opal peut déchiffrer  {% fact "opal_knows_standard_secret_codes" as author %}
 - les serviteurs de Loyd Georges sont catégoriques, il n'a jamais existé un seul Baobab dans le domaine des Loyd ; mais ce mot leur rappelle une anecdote avec le jeune Loyd Markis, ils ne savent plus laquelle.
 - un extrait de la biographie de Loyd Markis indique que pour lui le Baobab est "l'arbre majestueux dont le fruit est sur les lèvres du buste automnal"
-- cela fait référence à un des tableaux des 4 saisons d'Arcimboldo, exposés au mur ; le buste représentant l'Automne a une châtaigne a la place de la bouche
-- les serviteurs connaissent un immense chataignier (ou marronnier, peu importe) dans un coin du parc du manoir
+- cela fait référence à un des tableaux des 4 saisons d'Arcimboldo, exposés au mur ; le buste représentant l'Automne a une châtaigne à la place de la bouche
+- les serviteurs connaissent un immense châtaignier (ou marronnier, peu importe) dans un coin du parc du manoir
 - un serviteur de Loyd Georges, ou un agent Obéron bien payé, peut aller fouiller sous cet arbre avec une pelle, ou de l'explosif (Rydji adore cela)
 - une telle fouille sous l'arbre permet de trouver une boite, qui contient une énigme littéraire menant au "Précieux Chaudron" ; celui-ci est en réalité caché "dans le plafond des toilettes"
 - là encore, outils ou explosifs permettent de découvrir le chaudron qui contient **23 mégakashes en pièces d'or**, partagé (ou non) entre découvreurs (ce qui permettrait à la famille Magnus, par exemple, de ne plus avoir aucune contrainte financière pour la vente de son gisement de sables bitumineux).
 
-ATTENTION : lorsque Rydji utilise de l'explosif, cela créé bien sûr un émoi parmi les invités et les gardes du manoir, et Rydji se défend sur le fait qu'il a toutes les autorisations pour faire des travaux de chantier à l'explosif.
+ATTENTION : lorsque Rydji utilise de l'explosif, cela crée bien sûr un émoi parmi les invités et les gardes du manoir, et Rydji se défend sur le fait qu'il a toutes les autorisations pour faire des travaux de chantier à l'explosif.
 
 
 
@@ -547,12 +547,12 @@ Le secret des atomes et le Pr Voluto
 
 Le physicien Waden Shaw a officiellement puis officieusement travaillé avec le Pr Voluto, sur la piste d'une "supernova atomique" obtenable en raffinant de l'{% symbol "Uranium 234" for "most_dangerous_radioactive_material" %}.  {% fact "waden_secretly_worked_with_voluto_on_radioactivity" as author %}
 
-Le Pr Voluto a tenté de vendre ses découvertes à divers pays, Waden s'est donc violemment disputé avec lui à l"Académie d'Alifir.
+Le Pr Voluto a tenté de vendre ses découvertes à divers pays, Waden s'est donc violemment disputé avec lui à l'Académie d'Alifir.
 Les enregistrements vidéo de cette dispute ont été subtilisés par des agents de {% symbol "Balberith" for "waden_blackmailer_lady_country" %}.  {% fact "voluto_death_day_academy_recordings_disappeared" %}
 
 Peu après, le jour même, l'agent sabarite Obsidian s'est fait surprendre par le Pr Voluto tandis qu'elle perquisitionnait son domicile, et le vieil homme est accidentellement mort dans la lutte qui s'est ensuivie.
 
-Désormais, les sabarites et les divers pays contactés tentent de retrouver les secrets du professeur Voluto, même s'ils ont en réalité très peu de moyens d'obtenir des indices pour cela (quête difficile) ; et de son côté Waden cherche à faire disparaître tout trace du laboratoire secret où tout est entreposé.
+Désormais, les sabarites et les divers pays contactés tentent de retrouver les secrets du professeur Voluto, même s'ils ont en réalité très peu de moyens d'obtenir des indices pour cela (quête difficile) ; et de son côté Waden cherche à faire disparaître toute trace du laboratoire secret où tout est entreposé.
 
 Pour cela, Waden peut négocier la destruction du laboratoire avec une des factions ayant des mercenaires, en échange d'un Coeur de Fusion Thermocyclique ou autre atout ; il peut aussi manipuler des purificateurs akarites (via les contacts que Cynthia reçoit de ses collègues) afin que ceux-ci brûlent eux-mêmes le laboratoire.
 
@@ -588,7 +588,7 @@ Ces duels servent surtout à soutirer de l'argent à des PNJs "faibles", comme l
 Ils peuvent aussi servir à piquer des "accessoires de mode", pour le fun.
 
 Puisque la plupart des joueurs travaillent par paires, ils pourront facilement contourner les pénalités d'un duel perdu.
-Ils peuvent aussi prendre les devant, en se défiant mutuellement "pour de faux" avant que d'autres ne le fasse, ce qui les protègera d'autres défis pour le reste de la soirée.
+Ils peuvent aussi prendre les devants, en se défiant mutuellement "pour de faux" avant que d'autres ne le fassent, ce qui les protègera d'autres défis pour le reste de la soirée.
 
 
 
@@ -620,7 +620,7 @@ La séance est donc reportée ; et Alphonse, au lieu de chercher par lui-même, 
 
 Une fois que ces éléments sont trouvés (voire si l'agent secret qui sait hacker des cartes magnétiques se propose), on ouvre tous ensemble le coffre-fort.
 
-Alphonse s'agenouille pour pré-ouvrir le coffre avec la clef et la carte passe. Puis Rydji lui dit tout bas le code, et lui le reprend tout haut, **bien fort** pour que tous entendent.
+Alphonse s'agenouille pour pré-ouvrir le coffre avec la clef et la carte pass. Puis Rydji lui dit tout bas le code, et lui le reprend tout haut, **bien fort** pour que tous entendent.
 
 Alphonse vide consciencieusement le contenu du coffre, en énumérant chaque objet. Il tombe enfin sur le testament roulé, tout au fond.
 
@@ -641,7 +641,7 @@ Le sac militaire
 
 En milieu de soirée, le domestique amène dans le couloir un sac militaire, et de son dialogue avec le majordome, on comprend qu'il s'agit des affaires qu'un des participants à l’expédition archéologique demande depuis longtemps à récupérer (suite à un quiproquo dans la répartition des bagages, au retour d'Akarie). Une lettre attachée au sac atteste de cette demande.
 
-Dès lors, aux joueurs de fouiller discrètement le sacs lorsque l’occasion se présente, afin d’y trouver des riches, des duplicatas de papiers à indice existants (c'est une seconde chance au cas où ils en auraient raté), et le Calepin Mémo égaré par Loyd Georges durant le voyage.
+Dès lors, aux joueurs de fouiller discrètement le sac lorsque l’occasion se présente, afin d’y trouver des richesses, des duplicatas de papiers à indice existants (c'est une seconde chance au cas où ils en auraient raté), et le Calepin Mémo égaré par Loyd Georges durant le voyage.
 
 Le calepin indique entre autres, par expressions énigmatiques, les cachettes successives de la clef du coffre ; ce coffre est dans la salle où l’inspecteur mène les interrogatoires.
 

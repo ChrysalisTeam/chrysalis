@@ -30,7 +30,7 @@ Bien avant le jeu, entre MJs et PNJs :
 
     - les PNJs RYDJI, ALPHONSE et INSPECTEUR SHARK restent ainsi toute la soirée.
     - le PNJ jouant le TABELLION commence en tant que Serviteur, puis arrive au manoir en tant que Tabellion et le reste jusqu'à la fin
-    - les 2 PNJs Multi-Rôles (PNJ-MR) alternent entre différents personnages, selon les indication données ci-dessous.
+    - les 2 PNJs Multi-Rôles (PNJ-MR) alternent entre différents personnages, selon les indications données ci-dessous.
     - autant que possible, c'est un "garde armé" qui vient apporter à Obsidian les rapports de fouille et prendre ses ordres
 
 
@@ -68,11 +68,11 @@ Briefings en mode roleplay :
 
 - Pour les PNJs Rydji, Alphonse et Vieille Voisine : Vous êtes au courant d'une anecdote du "BAOBAB" dans la vie du jeune Loyd Markis (et cela vous rappelle un affichage au mur de la salle de réception), mais vous ne savez pas ce qu'il voulait dire par là exactement. ; Si l'on vous pose la question, vous ne savez plus quelle année est né le Tabellion, mais vous vous souvenez de sa date d'anniversaire, qui coincide avec la vôtre : {% symbol '24 novembre' for 'notary_birth_date_day_month' %} ; si l'on vous parle d'un "buste automnal", ça vous rappelle des peintures qu'il y avait dans le manoir, mais vous ne savez plus où ; ATTENTION CHANGEMENT : aucun serviteur ne sait où sont les recettes de cuisine !
 
-- Rydji : vous avez mis le Compte Blispin, ami de Loyd Georges, dans le coup (via des télégrammes) pour qu'il vous aide à le protéger ainsi que ses proches (surtout la famille Magnus), mais tout cela à l'insu de Loyd Georges qui était toujours trop pudique pour demander de l'aide ; vous adorez les explosifs, et vous les utilisez pour toute demande qui s'y prête (creuser sous un arbre, dans un mur ou un plafond...), car vous avez légalement toutes les autorisations pour faire des travaux de chantier à l'explosif.
+- Rydji : vous avez mis le Comte Blispin, ami de Loyd Georges, dans le coup (via des télégrammes) pour qu'il vous aide à le protéger ainsi que ses proches (surtout la famille Magnus), mais tout cela à l'insu de Loyd Georges qui était toujours trop pudique pour demander de l'aide ; vous adorez les explosifs, et vous les utilisez pour toute demande qui s'y prête (creuser sous un arbre, dans un mur ou un plafond...), car vous avez légalement toutes les autorisations pour faire des travaux de chantier à l'explosif.
 
-- Alphonse : vous braillez avec emphase les heures "en jeu" qui passent : "Mesdame messieurs, il est 20h et tout va bien". Vous annoncez aussi bruyamment l'arrivée des différents mets et boissons du buffet. Vous maltraitez les mots ("succulez moi ces plats", "je suis émouvé", "solutionnementer une problématique"...) ; vous craquez toujours, après avoir tergiversé, pour les merveilleuses denrées apportées par l'ambassadeur akarite ; vous savez les même choses que la vieille voisine (voir sa fiche) pour "le premier animal de Loyd Georges et la date de naissance du Tabellion" ; vous savez que ladite voisine (doyenne du hameau) en connait beaucoup sur Loyd Markis et l'enfance de Loyd Georges ; hier soir, vous jouiez au tripot {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}, de nombreux témoins peuvent l'attester ; le sac en toile brune reçu hier matin par Loyd Georges trainait, aux dernières nouvelles, sur une étagère de la BIBLIOTHEQUE du manoir (vous ne savez pas ce qui a été fait de son contenu) ; le téléphone auquel vous donnez parfois accès aux invités fait aussi FAX, et c'est un tellement vieux modèle que plus PERSONNE ne saurait le mettre sur écoute ; vous avez récemment perdu la carte pass ouvrant uniquement la boite aux lettres du manoir, ce qui fait que ni vous ni Rydji ne pouvez relever le courrier, hormis en utilisant la carte pass dorée de Loyd georges lorsque trouvée {% hint 'postbox_specific_lost_passcard' is needed %} ; vous vous plaignez des tripots de Salima, de plus en plus "sectaires" même envers les vieux clients comme vous ; exemples d'expressions (récurrentes) comiques : "tout est sous contrôle", "si j'aurais su", "à l'insu de mon plein gré"...
+- Alphonse : vous braillez avec emphase les heures "en jeu" qui passent : "Mesdame messieurs, il est 20h et tout va bien". Vous annoncez aussi bruyamment l'arrivée des différents mets et boissons du buffet. Vous maltraitez les mots ("succulez moi ces plats", "je suis émouvé", "solutionnementer une problématique"...) ; vous craquez toujours, après avoir tergiversé, pour les merveilleuses denrées apportées par l'ambassadeur akarite ; vous savez les mêmes choses que la vieille voisine (voir sa fiche) pour "le premier animal de Loyd Georges et la date de naissance du Tabellion" ; vous savez que ladite voisine (doyenne du hameau) en connait beaucoup sur Loyd Markis et l'enfance de Loyd Georges ; hier soir, vous jouiez au tripot {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}, de nombreux témoins peuvent l'attester ; le sac en toile brune reçu hier matin par Loyd Georges trainait, aux dernières nouvelles, sur une étagère de la BIBLIOTHEQUE du manoir (vous ne savez pas ce qui a été fait de son contenu) ; le téléphone auquel vous donnez parfois accès aux invités fait aussi FAX, et c'est un tellement vieux modèle que plus PERSONNE ne saurait le mettre sur écoute ; vous avez récemment perdu la carte pass ouvrant uniquement la boite aux lettres du manoir, ce qui fait que ni vous ni Rydji ne pouvez relever le courrier, hormis en utilisant la carte pass dorée de Loyd Georges lorsque trouvée {% hint 'postbox_specific_lost_passcard' is needed %} ; vous vous plaignez des tripots de Salima, de plus en plus "sectaires" même envers les vieux clients comme vous ; exemples d'expressions (récurrentes) comiques : "tout est sous contrôle", "si j'aurais su", "à l'insu de mon plein gré"...
 
-- Tabellion : vous souhaitez initialement la répression violente de toute émeute populaire( "des délinquants que tout cela !"), mais cette position peut évoluer. Pour la vente de gisement de Lydia, le prix d'achat doit être un multiple de 0.5 mégakashes. Vous savez que selon le Droit Sabarite, un trésor (ex. celui familial de Loyd Georges) doit être partagé moitié-moitié entre celui qui l'a (re)découvert, et le propriétaire du trésor (ou à défaut, du terrain sur lequel il se trouve). Prix des diamants trouvables en jeu : 20¤ pour les petits ronds, 35¤ pour les rectangulaires (les plus communs), 50¤ pour les grands ronds ; vous savez transférer ces gemmes "standard" (petites et transparentes, remises en main propre) vers le compte Anthropia de leur possesseur (mais l'opération inverse n'est pas possible) ; vous avez 3 pierres colorées dans votre mallette, que vous pouvez vendre 50¤ à l'unité (leur vraie valeur), et vous les reconnaissez si quelqu'un vous les vole puis veut les déposer sur son compte par votre entremise ; vous pouvez défier au "jeu des bâtonnets" un invité, en pariant par exemple 100¤ dessus, et en jouant au shi-fu-mi celui qui commence
+- Tabellion : vous souhaitez initialement la répression violente de toute émeute populaire ("des délinquants que tout cela !"), mais cette position peut évoluer. Pour la vente de gisement de Lydia, le prix d'achat doit être un multiple de 0.5 mégakashes. Vous savez que selon le Droit Sabarite, un trésor (ex. celui familial de Loyd Georges) doit être partagé moitié-moitié entre celui qui l'a (re)découvert, et le propriétaire du trésor (ou à défaut, du terrain sur lequel il se trouve). Prix des diamants trouvables en jeu : 20¤ pour les petits ronds, 35¤ pour les rectangulaires (les plus communs), 50¤ pour les grands ronds ; vous savez transférer ces gemmes "standard" (petites et transparentes, remises en main propre) vers le compte Anthropia de leur possesseur (mais l'opération inverse n'est pas possible) ; vous avez 3 pierres colorées dans votre mallette, que vous pouvez vendre 50¤ à l'unité (leur vraie valeur), et vous les reconnaissez si quelqu'un vous les vole puis veut les déposer sur son compte par votre entremise ; vous pouvez défier au "jeu des bâtonnets" un invité, en pariant par exemple 100¤ dessus, et en jouant au shi-fu-mi celui qui commence
 
 - Inspecteur Shark : seules les cabines du hameau voisin sont décemment utilisables pour appeler en Akarie, le téléphone-fax sécurisé du manoir serait trop risqué ; vous avez eu des échanges épistolaires avec votre soeur, avant et pendant votre conversion à la religion akarite ; les interrogatoires doivent être COURTS (10-15mn) mais intenses ; Interrogatoire Booléen sous Transe : **1 seule fois** maximum désormais !
 
@@ -95,7 +95,7 @@ RELANCES DE GAMEPLAYS possibles pendant la 2e partie du jeu (signaler au MJ si d
 - Shark peut prendre en priorité ces joueurs pour interrogatoire/négociation supplémentaires
 - l'ambassadeur akarite va voir successivement des lordaniens, des masslaves, des sabarites, seuls ou en groupe, pour "tâter le terrain", les compromettre (en laissant entendre une connivence), leur parler de la destinée inévitable du monde, les appeler à la collaboration, les narguer... et avec les doriens pour leur donner un peu d'argent liquide et gemmes, évoquer ses bons espoirs en une fusion pacifique (ou au contraire les appeler à la reddition sans condition, selon les résultats du concile akarite)
 - le tabellion discute avec les invités, pour parler de la grogne populaire "surement due aux akarites", de tout ce qu'il lui a fallu affronter pour arriver à ce poste de haut prestige, de la doyenne du hameau voisin qui est un peu l'âme et la mémoire de ce côté de Salima, pour leur demander comment eux voient (depuis l'étranger ou depuis l'intérieur du pays) la grandeur et la destinée de Sabarim...
-- Alphonse continue de à quémander des sous contre ses services, à chercher à se recaser, à faire des monologues sur tout et sur rien
+- Alphonse continue à quémander des sous contre ses services, à chercher à se recaser, à faire des monologues sur tout et sur rien
 - il est possible de "forcer" des duels d'honneur entre un PNJ et un joueur, en accord avec le MJ
 
 
@@ -113,7 +113,7 @@ HEURE 0:00
 
 - Opal et Lydia attendent directement dans le manoir, tout comme Obsidian qui vient d'y arriver
 
-- Waden et Cynthia arrivent en premiers, et sont accueillis par l'obéron et autres serviteurs anonymes.
+- Waden et Cynthia arrivent en premier, et sont accueillis par l'obéron et autres serviteurs anonymes.
 
 - diffuser aux joueurs agents secrets le "contexte de dernière minute" (ex. la bande-son avec narrateur)
 
@@ -170,7 +170,7 @@ HEURE 0:30
 
 - le tabellion annonce l'ouverture du testament de LG à titre préventif, comme celui-ci l'avait demandé ; voir la mise en scène dans le manuel
 
-- Alphonse pousse les inviter à chercher, avec lui, la carte pass dorée de Loyd georges
+- Alphonse pousse les invités à chercher, avec lui, la carte pass dorée de Loyd Georges
 
 - SHARK : ordonne à Obsidian d'interroger **Cynthia et Waden** ensemble : alibis, liens avec Loyd Georges, soupçons qu'ils pourraient avoir envers autrui...
 
@@ -186,9 +186,9 @@ HEURE 0:30
 
 - [si la carte pass dorée et le code sont retrouvés] scène de la lecture du testament de Loyd Georges, avec tous les invités
 
-- SHARK : commence un autre interrogatoire, cette fois avec un **l'agent masslave Spinel**. Teneur : "j'ai appris que vous vous étiez violemment querellé avec Loyd Georges durant l'entretien, expliquez-vous, et quel est votre alibi pour la soirée de l'agression"
+- SHARK : commence un autre interrogatoire, cette fois avec **l'agent masslave Spinel**. Teneur : "j'ai appris que vous vous étiez violemment querellé avec Loyd Georges durant l'entretien, expliquez-vous, et quel est votre alibi pour la soirée de l'agression"
 
-- Rydi se plaint à Alphonse car celui-ci n'a toujours pas retrouvé la carte pass magnétique dédiée UNIQUEMENT à la boite aux lettres du manoir
+- Rydji se plaint à Alphonse car celui-ci n'a toujours pas retrouvé la carte pass magnétique dédiée UNIQUEMENT à la boite aux lettres du manoir
 
 - Lorsque l'interrogatoire est fini, Alphonse déclenche la série d'hommages à Loyd Georges (à commencer par son discours, préimprimé) ; puis il lance brutalement sa VENTE SPECIALE PRIVEE (dès que Shark est rentré dans son bureau) {# assez tôt pour que le "ultimate bank spider" puisse être utilisé avant les enchères #}
 
@@ -206,7 +206,7 @@ HEURE 1:00
 
 - Obsidian: Passage à la fouille du manoir #3
 
-- Arrivée de l'ambassadeur akarite, en grande fanfare, tandis que les PNJs se disputent abstraitement sur l'arrivée de cet "intrus" (sans le nommer) ; l'abassadeur se fait admonester par le tabellion, et surjoue ironiquement la consternation ("si j'avais su, j'aurais pas venu"), alors que Shark ne fait pas de commentaire ; puis le tabellion s'irrite contre Shark "qui conspue les privilèges des tabellions mais pas des ambassadeurs" ; l'ambassadeur offre de ses mets à qui veut
+- Arrivée de l'ambassadeur akarite, en grande fanfare, tandis que les PNJs se disputent abstraitement sur l'arrivée de cet "intrus" (sans le nommer) ; l'ambassadeur se fait admonester par le tabellion, et surjoue ironiquement la consternation ("si j'avais su, j'aurais pas venu"), alors que Shark ne fait pas de commentaire ; puis le tabellion s'irrite contre Shark "qui conspue les privilèges des tabellions mais pas des ambassadeurs" ; l'ambassadeur offre de ses mets à qui veut
 
 - IMPORTANT : le tabellion organise et surveille un premier tour de table pour les gisements de sable bitumineux, avec Lydia (ouvert au public) ; l'akarite tente de s'y incruster, Lydia décide s'il le peut ou non ; sinon, il la recontacte juste après, pour lui faire son offre de "contrat de négociation non-exclusif"
 
@@ -246,7 +246,7 @@ HEURE 1:30
 
 - CONCILE : un haut-gradé du concile akarite appelle l'agent dorien Peridot, et le questionne sur ses croyances en théologie yodique {% fact "peridot_must_answer_akarith_council" %}
 
-- Alphonse amène les saces militaires à la vue de tous, explique qu'un coursier doit venir les chercher (il montre la lettre du Professeur Eusèbon), et s'embrouille avec Rydji qui considère cela comme très secondaire
+- Alphonse amène les sacs militaires à la vue de tous, explique qu'un coursier doit venir les chercher (il montre la lettre du Professeur Eusèbon), et s'embrouille avec Rydji qui considère cela comme très secondaire
 
 - LOT 3 à mettre dans la boite aux lettres
 
@@ -264,7 +264,7 @@ HEURE 2:00
 
 - l'obéron clame les messages email en attente
 
-- SPOTS RADIO : "Premiers retours du concile akarite" (à compléter), "Emeutes en Sabarim", [si Waden a fourni à Omrh 'E=MC2'] "Découverte scientifique majeure au Navalut"
+- SPOTS RADIO : "Premiers retours du concile akarite" (à compléter), "Emeutes en Sabarim", [si Waden a fourni à Omrh "E=MC2"] "Découverte scientifique majeure au Nalavut"
 
 - SHARK : confie à Obsidian le soin d'interroger **l'agent lordanien Amethyst**, et commence un entretien "dilemme du prisonnier" avec les **agents masslave Malachite et dorien Topaz** (en leur laissant 5 MINUTES pour se préparer mentalement, voire s'entendre sur une stratégie)
 

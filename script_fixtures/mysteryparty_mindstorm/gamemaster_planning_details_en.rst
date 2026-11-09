@@ -264,7 +264,7 @@ HOUR 2:00
 
 - the Oberon calls out the pending email messages
 
-- RADIO SPOTS: "First news from the Akarith council" (to be completed), "Riots in Sabarim", [if Waden has provided Omrh with 'E=MC2'] "Major scientific discovery in Nalavut"
+- RADIO SPOTS: "First news from the Akarith council" (to be completed), "Riots in Sabarim", [if Waden has provided Omrh with "E=MC2"] "Major scientific discovery in Nalavut"
 
 - SHARK: entrusts Obsidian with questioning **the Lordanian agent Amethyst**, and begins a "prisoner's dilemma" interview with the **Masslavian agent Malachite and Dorian agent Topaz** (leaving them 5 MINUTES to prepare mentally, or even agree on a strategy)
 

@@ -2,7 +2,7 @@
 Le coiffeur-masseur de Salima
 ====================================
 
-Vous êtes depuis des décennies le coiffeur-masseur de Loyd Georges, ce qui vous a permis de nouer une certaines intimité.
+Vous êtes depuis des décennies le coiffeur-masseur de Loyd Georges, ce qui vous a permis de nouer une certaine intimité.
 
 Vous avez été mandé au manoir par un des invités, qui a acquis un "bon cadeau pour un massage du crâne" émis par votre boutique.
 

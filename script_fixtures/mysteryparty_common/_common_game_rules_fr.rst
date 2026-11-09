@@ -31,7 +31,7 @@ Le jeu est pensé pour se jouer en immersion complète. Pour en profiter pleinem
 - Ne pas prévoir d'impératifs horaires juste après le jeu, car il est possible que celui-ci déborde un peu en cas d'imprévu.
 - Se garder de toute discussion sans rapport avec le jeu, même (et surtout) en cas de période de flottement.
 - Rester discret lorsque l'on demande des informations en hors-jeu, par exemple au maître de jeu.
-- Les potentiels appareils technologiques sont eux aussi dédiés au jeu, donc ne pas répondre pas à ses appels/sms/emails personnels durant la partie.
+- Les potentiels appareils technologiques sont eux aussi dédiés au jeu, donc ne pas répondre à ses appels/sms/emails personnels durant la partie.
 - Les vêtements ont leur importance ; des costumes et robes sobres suffisent pour la plupart des personnages, mais des accessoires steampunk/renaissance/victorien (dans des boutiques de déguisements, aux puces, sur leboncoin, sur ebay...) peuvent ajouter à l'ambiance.
 
   - Exemples d'accessoires: chapeau melon ou haut-de-forme, jabot, canne, robe à crinoline, éventail...

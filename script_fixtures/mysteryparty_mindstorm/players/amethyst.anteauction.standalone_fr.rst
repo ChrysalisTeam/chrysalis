@@ -24,7 +24,7 @@ Vous venez de passer en duo opérationnel avec **Garnet** ; vous le connaissez d
 En solo, vous avez mis sur écoute le patriarche akarite de Ghek {% fact 'amethyst_wiretaps_ghek_patriarch' as author %} ; cela a nécessité de faire appel à d’autres compétences que celles des services lordaniens, au prix fort. Vous avez donc dû revendre au marché noir des petits artefacts achetés aux premières enchères de Loyd Georges. Vous n'en avez pas encore parlé à Garnet. {% fact 'amethyst_sells_items_at_black_market' as author %}
 
 
-Vous avez pu percer la couverture de deux agents doriens, envoyés pour participer aux enchères et enquêter sur Lord Georges :
+Vous avez pu percer la couverture de deux agents doriens, envoyés pour participer aux enchères et enquêter sur Loyd Georges :
 
 - L’un se présente comme "{{character_properties.topaz.official_name}}" ; son passeport est cependant faux, car il fait référence à un numéro de registre vieux de 150 ans ! Ce personnage n'a probablement jamais existé. L’agent secret, d'identifiant "Topaz", qui utilise cette identité, est cependant bien une réalité. {% fact 'topaz_official_is_non_existent' %}
 - L’autre, d'identifiant "Peridot", se fait appeler "{{character_properties.peridot.official_name}}". Le véritable détenteur du nom, pourtant, est encore dans sa bijouterie à Nimouk, comme vous l’avez découvert en revendant vos gemmes au marché noir. {% fact 'peridot_official_is_still_in_shop' %}

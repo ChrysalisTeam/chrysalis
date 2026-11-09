@@ -9,7 +9,7 @@ Votre enquête piétinait depuis quelques jours, et vous commenciez à tourner e
 
 L'entretien (qui commence en retard) est assez froid et laborieux, car – comme vous vous en rendez vite compte - Loyd Georges cherche en réalité à tester vos prétendues connaissances en histoire yodique {% fact 'malachite_official_is_expert_in_yodic_history' %} ; vous passez donc un moment délicat, tandis qu’il reste très évasif sur vos propres questions. Le vieil homme est manifestement conscient d’être entouré d’espions !
 
-Vous réussissez heureusement à lui citer Georg Vidlaock et Vassil Becck, deux historiens en religion travaillant à l’université de Cazoar. Mal à l’aise dans son rôle d’interrogateur, il semble heureux de saisir ce semblant de garantie, et se lance dans une conversation sur ces bonshommes, des relations de travail qu’il connait bien mieux que vous. Pour détourner la conversation, vous lui parler de ses belles bêtes de compagnie, des admirables ornements de sa porte d'entrée, du bon goût de ses différentes ambiances d'intérieur...
+Vous réussissez heureusement à lui citer Georg Vidlaock et Vassil Becck, deux historiens en religion travaillant à l’université de Cazoar. Mal à l’aise dans son rôle d’interrogateur, il semble heureux de saisir ce semblant de garantie, et se lance dans une conversation sur ces bonshommes, des relations de travail qu’il connait bien mieux que vous. Pour détourner la conversation, vous lui parlez de ses belles bêtes de compagnie, des admirables ornements de sa porte d'entrée, du bon goût de ses différentes ambiances d'intérieur...
 
 L’entretien se finit vers {% symbol "12h30" for "lg_meeting_end_for_malachite" %}, sans grand gain pour vous, mais sans perte non plus. Au moins avez-vous pu savourer un peu (beaucoup) les délicieuses noix apéritives que vous avez apportées...
 
@@ -21,7 +21,7 @@ Une voix masculine fait tressauter votre coeur, dans la chambre accolée à la b
 
 Trop de monde alentour. Vous migrez vers le vestibule, puis la salle à manger. La caméra y est désactivée aussi. Vous placez votre **deuxième et dernier enregistreur audiophonique (en forme de dictaphone)** dans le dos d'un canapé. Du mouvement se fait entendre dans la cuisine, mais aussi dans le vestibule ; vous vous réfugiez dans le spacieux garde-manger, derrière les tonneaux de vin. Il est {% symbol "12h45" for "malachite_amethyst_encounter_time" %} à votre montre.
 
-Une minute à peine plus tard, un individu entre dans furtivement le garde-manger, et bondit à votre côté. Vous reconnaissez l'enchérisseur {{character_properties.amethyst.official_name}}.
+Une minute à peine plus tard, un individu entre furtivement dans le garde-manger, et bondit à votre côté. Vous reconnaissez l'enchérisseur {{character_properties.amethyst.official_name}}.
 
 <{ spies_locked_in_pantry }/>
 

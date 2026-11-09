@@ -18,7 +18,7 @@ Rydji
 .. Vous l’avez parfois vu poser sur vous un regard hautement suspicieux.
 
 Alphonse
-    Dit Alph', c'est le seul serviteur (avec Rydji) qui n’a pas déserté le manoir de Loyd Georges. Peut-être parce qu'il est le plus anciens des servants de Loyd Georges. Peut-être parce que son dévouement et son courage sont sans limite. Peut-être, plus simplement, parce qu'il n'a pas une grande compréhension de ce qui se passe autour de lui, perdu comme il l’est dans des préoccupations d'une toute autre élévation philosophique. Lorsqu'il s'agit de coopérer avec un étranger, il semble particulièrement sensible aux arguments financiers. Il est aussi habilité à arbitrer des **duels d'honneur sabarites**.
+    Dit Alph’, c'est le seul serviteur (avec Rydji) qui n’a pas déserté le manoir de Loyd Georges. Peut-être parce qu'il est le plus ancien des servants de Loyd Georges. Peut-être parce que son dévouement et son courage sont sans limite. Peut-être, plus simplement, parce qu'il n'a pas une grande compréhension de ce qui se passe autour de lui, perdu comme il l’est dans des préoccupations d'une toute autre élévation philosophique. Lorsqu'il s'agit de coopérer avec un étranger, il semble particulièrement sensible aux arguments financiers. Il est aussi habilité à arbitrer des **duels d'honneur sabarites**.
 
 
 Robb Barrow

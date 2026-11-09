@@ -20,7 +20,7 @@ Vous avez commencé votre petite enquête en vous promenant dans le hameau de Lo
 Heureusement, votre collègue a été plus chanceux, en découvrant (grâce à des écoutes téléphoniques) que le professeur Loakim, archéologue de l'Académie d'Alifir et ami de Loyd, était vraisemblablement très au courant des artefacts trouvés dans le temple enfoui. {% fact 'lg_gave_responsibilities_to_loakim' %}
 
 {% macro dorian_failed_abduction() %}
-Vous avez donc planifié, en duo avec votre collègue, et avec le support de mercenaires locaux, l'enlèvement du Pr Loakim. Mais la prompte intervention des forces de l'ordre sabarites a fait tourner en débacle cette opération ; heureusement que vous aviez bien couvert vos traces... {% fact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
+Vous avez donc planifié, en duo avec votre collègue, et avec le support de mercenaires locaux, l'enlèvement du Pr Loakim. Mais la prompte intervention des forces de l'ordre sabarites a fait tourner en débâcle cette opération ; heureusement que vous aviez bien couvert vos traces... {% fact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
 {% endmacro %}
 <{ dorian_failed_abduction }/>
 
@@ -46,6 +46,6 @@ La nouvelle d'un cambriolage dans un entrepôt privé d'Alifir a attiré votre a
 
 L'un de vos contacts à Salimacom (la compagnie de téléphone & web de Salima), vous a contacté pour vous apprendre qu'il avait trouvé une activité réseau curieuse lors d'un appel du professeur Loakim à Loyd Georges ; en utilisant un petit programme fait maison, il a pu tracer l'origine de l'étrange signal (horodaté "A827IZJ76") : le compte web d'un certain "Spinel". {% fact 'spinel_wiretaps_lg_and_friends' %}
 
-Enfin, vous vous êtes promené au marché aux puces de Salima, et avez exposé votre identité "officielle" à un marchand. Il vous a alors a emmené dans son arrière-boutique, et vous a proposé de payer cash des artefacts et gemmes "de très grande qualité". Vous avez reconnu des pièces vendues par Loyd Georges durant ses enchères. Après avoir obtenu la coopération gracieuse du vendeur et de son receleur, grâce au chantage le plus éhonté ("ces objets appartiennent à M. Georges, qui est de mes amis, et je vous dénonce à la police si vous ne me dites pas qui vous les a fournies !"), vous avez finalement compris que ces pièces avaient été revendues via Pangeaweb par un certain "Amethyst", qui ne fait apparemment pas grand cas des lois commerciales du pays. {% fact 'amethyst_sells_items_at_black_market' %}
+Enfin, vous vous êtes promené au marché aux puces de Salima, et avez exposé votre identité "officielle" à un marchand. Il vous a alors emmené dans son arrière-boutique, et vous a proposé de payer cash des artefacts et gemmes "de très grande qualité". Vous avez reconnu des pièces vendues par Loyd Georges durant ses enchères. Après avoir obtenu la coopération gracieuse du vendeur et de son receleur, grâce au chantage le plus éhonté ("ces objets appartiennent à M. Georges, qui est de mes amis, et je vous dénonce à la police si vous ne me dites pas qui vous les a fournis !"), vous avez finalement compris que ces pièces avaient été revendues via Pangeaweb par un certain "Amethyst", qui ne fait apparemment pas grand cas des lois commerciales du pays. {% fact 'amethyst_sells_items_at_black_market' %}
 
 

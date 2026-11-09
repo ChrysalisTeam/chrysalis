@@ -14,13 +14,13 @@ Important : le **risque est doublé pour le défié**, par rapport à celui du d
 Les enjeux de base traditionnellement utilisés :
 
 - Butin : une somme d'argent de 50 kashes
-- Style : un des acccessoires de mode du défié (montre-gousset, bague ou autre bijou, gants, jabot, canne...), contre lequel le défieur doit mettre en jeu un de ses accessoires de valeur similaire
+- Style : un des accessoires de mode du défié (montre-gousset, bague ou autre bijou, gants, jabot, canne...), contre lequel le défieur doit mettre en jeu un de ses accessoires de valeur similaire
 - Déshonneur : l'interdiction de parler au personnel (serviteurs, cuisiniers...) pendant 10mn
 - Prison : garder les mains liées dans le dos pendant 10mn
 
 Un duel ne peut pas se refuser, SAUF si une de ces conditions est remplie :
 
-- l'enjeu n'est pas  "traditionel"
+- l'enjeu n'est pas  "traditionnel"
 - le défié a déjà été attaqué en duel durant la journée
 
 Le duel doit avoir lieu immédiatement, sauf en cas de danger pressant.

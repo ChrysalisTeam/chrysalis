@@ -745,7 +745,7 @@ messaging:
             recipient_emails: ["spinel", "malachite"]
             subject: "Manipulation autour des Magnus"
             body: |
-                Agents, un indic' sabarite nous a prévenu que le consul Mundlish Odalisc, sentant sa défaite électorale approcher, avait fait glisser un document compromettant dans la doublure d'une valise du couple Magnus.
+                Agents, un indic’ sabarite nous a prévenu que le consul Mundlish Odalisc, sentant sa défaite électorale approcher, avait fait glisser un document compromettant dans la doublure d'une valise du couple Magnus.
 
                 Il espère sans doute faire tomber cela, « accidentellement », dans les mains des forces de police.
             gamemaster_hints: "Information que les masslves peuvent utiliser pour négocier, ou juste empêcher le déchéance de la famille Magnus"

@@ -23,8 +23,8 @@ Important : un **brouilleur d'ondes** empêchera la plupart des invités d'utili
 - vous pouvez le conseiller, le mettre en relation avec des compétences manquantes, aller modifier ou fouiller pour lui d'autres ailes du manoir...
 - toutes les caméras du manoir sont aujourd'hui **désactivées** (leurs bobines ont été retirées)
 - la barrière électrifiée qui entoure le parc est en revanche toujours en place
-- une dizaine de gendarmes expérimentés patrouillent dans la manoir et le parc, sous les ordres de l'inspecteur Shark et de son adjointe Obsidian
+- une dizaine de gendarmes expérimentés patrouillent dans le manoir et le parc, sous les ordres de l'inspecteur Shark et de son adjointe Obsidian
 
-IMPORTANT : allez lire la présentation publique de votre rôle dans le document de l'Univers du Jeu, au chapitre "{% symbol "La médiation des obérons" for "oberon_introduction_title" %}". Elle récapitule les informations donnéees aux convives, avec vos prérogatives et leur potentiel prix. Notez en particulier votre **mot de passe** de reconnaissance, que les invités doivent utiliser lors de votre premier contact.
+IMPORTANT : allez lire la présentation publique de votre rôle dans le document de l'Univers du Jeu, au chapitre "{% symbol "La médiation des obérons" for "oberon_introduction_title" %}". Elle récapitule les informations données aux convives, avec vos prérogatives et leur potentiel prix. Notez en particulier votre **mot de passe** de reconnaissance, que les invités doivent utiliser lors de votre premier contact.
 
 

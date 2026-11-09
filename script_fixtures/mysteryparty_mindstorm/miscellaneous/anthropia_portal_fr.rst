@@ -27,7 +27,7 @@ Cependant, pour contacter les très nombreuses personnes ne possédant pas encor
 
 {# **Numéro du Central téléphonique :  {{ telephone_exchange_number }}** #}
 
-D'autres moyens de communication peuvent être utilisés : **courriers et colis**, mais aussi d'autre plus rares comme le télégraphe, les tubes pneumatiques, les pigeons voyageurs...
+D'autres moyens de communication peuvent être utilisés : **courriers et colis**, mais aussi d'autres plus rares comme le télégraphe, les tubes pneumatiques, les pigeons voyageurs...
 
 
 Compétences Spéciales Numériques

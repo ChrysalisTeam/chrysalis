@@ -4,7 +4,7 @@ L'Affaire Loyd Georges
 
 {# FIXME DEDUPLICATE THIS ONE DAY #}
 
-L'action se passe sur la planète Pangéa, où le niveau de développement est similaire à notre 21° siècle terrestre, mais avec une population bien inférieure.
+L'action se passe sur la planète Pangéa, où le niveau de développement est similaire à notre 21e siècle terrestre, mais avec une population bien inférieure.
 
 En réalité, toute l'Histoire de cette planète, de la préhistoire jusqu'à l'an 1908, est identique à la nôtre. Les références à ces époques de notre monde, à leur production culturelle et artistique, sont donc valables sur Pangéa, même si peu de gens les connaissent. En effet, au début du 20e siècle, les deux mondes ont bifurqué. Pendant que le nôtre continuait son chemin vers les guerres mondiales, Pangéa a subi un bouleversement tectonique et climatique majeur (appelé **Tunguska**), qui a torpillé tout développement humain durant des millénaires. La planète sort enfin, à grand-peine, de ce cataclysme, et l'humanité reprend son essor.
 
@@ -22,7 +22,7 @@ Cet aventurier amateur a en effet découvert un temple enfoui dans le pays midol
     Veuillez visionner sur http://chrysalis-game.com/fr/cms/medias/, en vidéo:
     
     - le raid archéologique de Loyd Georges
-    - un petite rétrospective sur le cataclysme de Tunguska
+    - une petite rétrospective sur le cataclysme de Tunguska
     - le mythe des orbes, version akarite
     
     ... ainsi que quelques images et musiques pour mieux s'imbiber de l'univers de Pangéa.

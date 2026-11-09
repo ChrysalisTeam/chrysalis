@@ -4,7 +4,7 @@
 <{ title_main_missions }/>
 =============================================================
 
-Votre principal tâche est de préserver Sabarim contre les nombreuses menaces extérieures et intérieures :
+Votre principale tâche est de préserver Sabarim contre les nombreuses menaces extérieures et intérieures :
 
 <{ obsidian_main_objectives_to_defend_sabarim }/>
 

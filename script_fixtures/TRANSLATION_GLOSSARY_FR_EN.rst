@@ -2500,7 +2500,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Manoir (de Sir Loyd Georges) / La Maisonnée de Sir Loyd Georges
      - Manor (of Sir Loyd Georges) / Sir Loyd Georges' Household
      - Setting.
-   * - Marduk Pamuk / Matsden / Nimouk / Cazoar / Yumeimatchi / Balberith / Imuo
+   * - Marduk Pamuk / Mastden / Nimouk / Cazoar / Yumeimatchi / Balberith / Imuo
      - verbatim
      - Place and people names.
    * - Marloff (docteur) / Idn Gark (professeur) / pôle Energies Nouvelles
@@ -5015,7 +5015,7 @@ Jinja symbol display values
      - La médiation des Obérons
      - Oberon Mediation
    * - ``obsidian_employer_name``
-     - Département de la Defense Sabarite
+     - Département de la Défense Sabarite
      - Sabarith Department of Defence
    * - ``obsidian_sheet_motto``
      - Le salut de Sabarim

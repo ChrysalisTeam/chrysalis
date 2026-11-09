@@ -15,7 +15,7 @@ Duel d'honneur
   Défier en duel d'honneur des quidams, même pour un motif futile, peut vous permettre de leur soutirer des valeurs, ou de les empêcher d'agir comme ils le voudraient. Mais c'est une arme à double tranchant. *Voir le chapitre dédié du document "Univers du Jeu".*
 
 Combat
-  La violence est le dernier recours des faibles ; mais c'est un recours tout de même. *Dans le cas (improbable) ou une altercation violente a lieu, et sauf directive contraire, la victoire revient inévitablement à celui étant le mieux armé : un combattant à main nue perd face à un combattant doté d'une arme de corps à corps, qui lui-même perd face à une arme à distance. En cas d'armement similaire, la victoire se décide avec un "pierre-feuille-ciseau" (cela n'empêche pas de simuler l'affrontement, mais après accord mutuel et dans le respect des règles de sécurité).*
+  La violence est le dernier recours des faibles ; mais c'est un recours tout de même. *Dans le cas (improbable) où une altercation violente a lieu, et sauf directive contraire, la victoire revient inévitablement à celui étant le mieux armé : un combattant à main nue perd face à un combattant doté d'une arme de corps à corps, qui lui-même perd face à une arme à distance. En cas d'armement similaire, la victoire se décide avec un "pierre-feuille-ciseau" (cela n'empêche pas de simuler l'affrontement, mais après accord mutuel et dans le respect des règles de sécurité).*
 
 Médiation des Obérons
   *Voir l'introduction de cette confrérie dans le document de l'Univers du Jeu, au chapitre "{% symbol "La médiation des Obérons" for "oberon_introduction_title" %}". Elle récapitule les nombreux services et conseils que pourront vous apporter ces médiateurs durant la soirée.*

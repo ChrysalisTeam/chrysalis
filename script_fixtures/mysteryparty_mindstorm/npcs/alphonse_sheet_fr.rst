@@ -14,9 +14,9 @@ Vous êtes Alphonse, le vieillissant mais truculent serviteur de sir Loyd George
 Vous avez suivi votre maître et ami tout au long de sa vie de baroudeur (mais en restant à l'écart des opérations dangereuses), jusqu'à sa récente expédition en Akarie.
 Vous n'avez pas participé à la tumultueuse fouille du temple enfoui, mais vous avez pu constater que les caisses d'artefacts qui en ont été remontées contenaient de magnifiques gemmes et artefacts. Sans parler d'un "étrange orbe" que Loyd Georges a gardé au secret.
 
-Depuis, la maisonnée a subi de nombreuses attaques, que vous n'avez pour la plupart réalisées que lorsqu'il était trop tard pour y faire quoi que ce soit. C'est l'avantage d'être souvent distrait : on s'évite des moment de grande angoisse.
+Depuis, la maisonnée a subi de nombreuses attaques, que vous n'avez pour la plupart réalisées que lorsqu'il était trop tard pour y faire quoi que ce soit. C'est l'avantage d'être souvent distrait : on s'évite des moments de grande angoisse.
 
-Mais avec l'agression de Loyd Georges, vous vous retrouvez dans une situation de grande incertitude : que va-t-il arriver au manoir grevé de dette, et à votre vieille carcasse ? Qui pourrra assurer votre sécurité, et vous donner un avenir si les choses tournent mal ? Plus encore que la vacillante santé de Loyd Georges, ou la recherche du criminel, c'est ce sujet qui va vous angoisser durant la soirée, et guider la plupart de vos actions.
+Mais avec l'agression de Loyd Georges, vous vous retrouvez dans une situation de grande incertitude : que va-t-il arriver au manoir grevé de dette, et à votre vieille carcasse ? Qui pourra assurer votre sécurité, et vous donner un avenir si les choses tournent mal ? Plus encore que la vacillante santé de Loyd Georges, ou la recherche du criminel, c'est ce sujet qui va vous angoisser durant la soirée, et guider la plupart de vos actions.
 
 
 
@@ -25,13 +25,13 @@ Votre très particulière "façon d'être"
 
 Vous êtes un personnage inoubliable.
 
-Toujours à contretemps dans vos activités, toujours en retard sur le compréhension de ce qui se passe autour de vous, souvent dans la lune, vous êtes une source d'amusement ininterrompue pour les invités, et d'agacement intermittent pour la maisonnée de Loyd Georges.
+Toujours à contretemps dans vos activités, toujours en retard sur la compréhension de ce qui se passe autour de vous, souvent dans la lune, vous êtes une source d'amusement ininterrompue pour les invités, et d'agacement intermittent pour la maisonnée de Loyd Georges.
 
 Vous avez l'habitude de :
 
 - parler pour ne rien dire, voire faire des monologues sur des sujets très spécifiques (astronomie, élevage des huitres...)
 - divulguer des informations confidentielles (à votre insu) dès que l'on vous amadoue un peu, mais garder jalousement des "secrets" comme la formule de votre cocktail préféré
-- négliger des problématiques cruciales telles la sécurité du manoir, mais faire un scandale pour des péccadilles (comme la bonne disposition des couverts à table...)
+- négliger des problématiques cruciales telles la sécurité du manoir, mais faire un scandale pour des peccadilles (comme la bonne disposition des couverts à table...)
 - sortir des "punch-lines" (phrases choc) en restant pince-sans-rire, de grandes citations philosophiques d'un ton docte, des formules équivoques de façon involontaire, maltraiter les mots ("succulez moi ces plats", "je suis émouvé", "solutionnementer une problématique"...)
 - vous montrer grandiloquent, burlesque, lorsqu'il s'agit de faire l'éloge de "SIR Loyd Georges" ou de l'Histoire de Sabarim
 - montrer beaucoup de respect pour les traditions sabarites (comme l'hymne national, les duels d'honneur...), mais snober les notables du pays jusqu'à frôler l'insolence
@@ -54,7 +54,7 @@ Interactions diverses
 Vous braillez avec emphase les heures "en jeu" qui passent : "Mesdame messieurs, il est 20h et tout va bien".
 Vous annoncez aussi bruyamment l'arrivée des différents mets et boissons du buffet.
 
-Les joueurs auront de multiples façon de profiter de vos services, que ce soit gagnant-gagnant (avec vos petites ventes personnelles, ou du graissage de patte pour obtenir des extras...), ou en vous spoliant : chantage, manipulation de votre naïveté, exploitation de votre goût pour l'alcool et les jeux d'argent, subtilisation d'objets...
+Les joueurs auront de multiples façons de profiter de vos services, que ce soit gagnant-gagnant (avec vos petites ventes personnelles, ou du graissage de patte pour obtenir des extras...), ou en vous spoliant : chantage, manipulation de votre naïveté, exploitation de votre goût pour l'alcool et les jeux d'argent, subtilisation d'objets...
 
 Lorsque Cynthia et Waden arrivent au manoir, vous et Rydji tombez des nues : Loyd Georges avait toujours souhaité les tenir à l'écart de ces enchères et de leur cortège de personnages louches. Comment cela se fait-il qu'ils aient été invités ? {% fact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
 
@@ -73,9 +73,9 @@ Vous vous lamentez de temps en temps sur le fait que le manoir va être saisi pa
 Les ventes privées
 ++++++++++++++++++++++++++++++++++++++
 
-Pour payer ses dettes de jeu, vous vendez quelques-unes de vos trouvailles au plus offrant. **Voir la liste détaillée dans le document dédié.**
+Pour payer vos dettes de jeu, vous vendez quelques-unes de vos trouvailles au plus offrant. **Voir la liste détaillée dans le document dédié.**
 
-Vous mènez cette vente avec le bagou d'un camelot de foire, en encensant chaque lot comme s'il s'agissait d'un artefact légendaire, et en vous inventant une aura de grand aventurier des temps modernes, dont les possessions sont déjà des reliques.
+Vous menez cette vente avec le bagou d'un camelot de foire, en encensant chaque lot comme s'il s'agissait d'un artefact légendaire, et en vous inventant une aura de grand aventurier des temps modernes, dont les possessions sont déjà des reliques.
 
 Il ne s'agit pas d'enchères, le premier acheteur qui se manifeste obtient le lot au prix fixé à l'avance, sauf si deux acheteurs se disputent (auquel cas vous prenez le plus offrant).
 

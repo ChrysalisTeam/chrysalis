@@ -5,7 +5,7 @@ La Politique de Sabarim
 
 Le régime politique de Sabarim est assez particulier.
 Le pays est découpé en **trois grands consulats**, ceux des **métropoles de Salima, d'Alifir, et de Cazoar**.
-Chacun de ces régions élit tous les 7 ans, au suffrage universel direct, son Consul. Et c'est ce trio, le "Triumvirat de Consuls", qui dirige en réalité la vie du pays.
+Chacune de ces régions élit tous les 7 ans, au suffrage universel direct, son Consul. Et c'est ce trio, le "Triumvirat de Consuls", qui dirige en réalité la vie du pays.
 
 Une centaine de sénateurs, élus chacun par une circonscription, discutent des lois, et effectuent un contrôle sur la politique des consuls, mais sans pouvoir s'opposer frontalement à eux.
 

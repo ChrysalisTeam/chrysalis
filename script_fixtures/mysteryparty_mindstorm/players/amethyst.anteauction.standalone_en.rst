@@ -21,7 +21,7 @@ You have just been paired up operationally with **Garnet**; you already know him
 <{ title_specific_information }/>
 =====================================
 
-Acting alone, you wiretapped the Akarith patriarch of Ghek {% fact 'amethyst_wiretaps_ghek_patriarch' as author %}; this required calling upon skills other than those of the Lordanian services, at a steep price. You therefore had to resell on the black market some small artefacts bought at Loyd Georges' first auction. You have not yet told Garnet about it. {% fact 'amethyst_sells_items_at_black_market' as author %}
+Acting alone, you wiretapped the Akarith patriarch of Ghek{% fact 'amethyst_wiretaps_ghek_patriarch' as author %}; this required calling upon skills other than those of the Lordanian services, at a steep price. You therefore had to resell on the black market some small artefacts bought at Loyd Georges' first auction. You have not yet told Garnet about it. {% fact 'amethyst_sells_items_at_black_market' as author %}
 
 
 You have managed to blow the cover of two Dorian agents, sent to take part in the auctions and investigate Loyd Georges:

@@ -10,17 +10,17 @@ Les délits que vous avez identifiés
 
 De nombreux incidents ont émaillé ces dernières semaines, et même si vous doutez bien qu'ils ne sont pas des coïncidences, vous n'avez majoritairement pas pu remonter à leurs auteurs :
 
-- Il y a ainsi eu le cambriolage d'un entrepôt privé d'Alifir, loué par Loyd Georges ; les artefacts qu'ils contenaient avaient cependant déjà été transférés à l'Académie d'Alifir. {% fact 'malachite&spinel_rob_alifir_warehouse' as author %}
+- Il y a ainsi eu le cambriolage d'un entrepôt privé d'Alifir, loué par Loyd Georges ; les artefacts qu'il contenait avaient cependant déjà été transférés à l'Académie d'Alifir. {% fact 'malachite&spinel_rob_alifir_warehouse' as author %}
 - Puis deux tentatives successives de cambrioler le manoir de Loyd Georges, toutes deux déjouées par les systèmes de sécurité. {% fact 'spinel_robs_lg_manor_fail' %} {% fact 'peridot_robs_lg_manor_fail' %}
 - Le fait que plusieurs des proches du sir, par exemple les savants d'Alifir, se soient inquiétés de phénomènes anormaux sur leur ligne téléphonique, ou leur compte personnel en ligne.
 - Le Pr Loakim de l'Académie d'Alifir, ami de Loyd Georges, a manqué être kidnappé en plein jour.
 
 Votre intuition vous dit que, pendant cette soirée qui s'annonce, les coupables de ces divers crimes ne seront pas bien loin.
 
-En inspectant discrètement un terminal numérique du manoir, vous avez vu qu'il enregistré, dans sa mémoire de navigation Web, deux nouveau logins : "opal" et "emerald".  {% fact 'opal_accesses_emerald_agent_web_account' %}
+En inspectant discrètement un terminal numérique du manoir, vous avez vu qu'il avait enregistré, dans sa mémoire de navigation Web, deux nouveaux logins : "opal" et "emerald".  {% fact 'opal_accesses_emerald_agent_web_account' %}
 Des logins apparus peu après que {{character_properties.opal.official_name}} et sa famille soient venus s'installer temporairement dans le manoir de Loyd Georges, il y a 2 semaines de cela.  {% fact "opal_lydia_temporarily_moved_to_lg_manor_2_weeks_ago" as author %}
 
-En analysant le réseau téléphonique du manoir, vous avez en outre vu passer des trames anormales, cherchant à rediriger les flux d'informations ; coïncidence, elles provenaient de la chambre d'hôtel occupées par le sir "{{character_properties.topaz.official_name}}". Voilà qui est déjà bien compromettant, pour ce pauvre espion [écrivez ces trames, freestyle]. {% fact 'topaz_wiretaps_lg_and_friends' %}
+En analysant le réseau téléphonique du manoir, vous avez en outre vu passer des trames anormales, cherchant à rediriger les flux d'informations ; coïncidence, elles provenaient de la chambre d'hôtel occupée par le sir "{{character_properties.topaz.official_name}}". Voilà qui est déjà bien compromettant, pour ce pauvre espion [écrivez ces trames, freestyle]. {% fact 'topaz_wiretaps_lg_and_friends' %}
 
 
 
@@ -51,7 +51,7 @@ Informations diverses
 ++++++++++++++++++++++++++++
 
 Le matin du jour des entretiens, avant votre arrivée au manoir, un homme est venu apporter un fin colis à Loyd Georges (vous avez entendu Alphonse en parler à Rydji). {% fact "alphonse_blunder_revealed_panorbium_fortuna_arrival" %}
-Mais contrairement aux procédures, le sir n'a pas attendu que vous l'inspectiez par sécurité, et l'a caché après avoir temporairement désactivé les caméras de sécurité ; vous vous êtes disputé avec lui, dans la journée, à ce sujet. Le lendemain, vous avez appris, par des indic' des akarites, qu'il y avait eu des découvertes littéraires insolites - aussitôt mises au secret - dans un des chantiers archéologiques du Pr Loakim, ami de Loyd Georges, en Kéroskia. Vous pensez avoir raté quelque chose d'important, mais vos efforts pour retrouver la trace de ce colis n'ont rien donné. Peut-être que les serviteurs de Loyd Georges parleront davantage, maintenant que leur maître est hors-jeu.
+Mais contrairement aux procédures, le sir n'a pas attendu que vous l'inspectiez par sécurité, et l'a caché après avoir temporairement désactivé les caméras de sécurité ; vous vous êtes disputé avec lui, dans la journée, à ce sujet. Le lendemain, vous avez appris, par des indic’ des akarites, qu'il y avait eu des découvertes littéraires insolites - aussitôt mises au secret - dans un des chantiers archéologiques du Pr Loakim, ami de Loyd Georges, en Kéroskia. Vous pensez avoir raté quelque chose d'important, mais vos efforts pour retrouver la trace de ce colis n'ont rien donné. Peut-être que les serviteurs de Loyd Georges parleront davantage, maintenant que leur maître est hors-jeu.
 {% fact 'misc_panorbium_fortuna_brought_to_manor_in_bag' %}
 
 Pendant le repas de midi avec LG et vous, le jour des entretiens, {{character_properties.opal.official_name}} a révélé qu'une secte akarite anti-profanateurs était sans doute à l'origine de l'empoisonnement de ses médicaments antihistaminiques, qui ont failli le tuer par intoxication musculaire. Il a révélé que de nombreux anciens compagnons d'aventure, de Loyd Georges et de lui-même, étaient morts dans des circonstances mystérieuses. Vous avez pris des notes sur ce qu'il racontait, et noté les noms des "survivants". Cela pourrait intéresser les **"purificateurs"** ; cette confrérie, sous contrôle de vos chefs religieux akarites, pourchasse les impies, et pourrait bien être à l'origine de tout ceci. {% fact 'opal_and_others_were_targeted_by_sect' %}

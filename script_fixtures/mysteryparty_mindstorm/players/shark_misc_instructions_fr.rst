@@ -21,7 +21,7 @@ Il prévient que le manoir et le parc sont remplis de policiers (ce qui est vrai
 
 L’inspecteur commence alors une série d’interrogatoires intenses avec chaque invité (ou parfois, des paires d’invités). Son but est d'obtenir, de fil en anguille, de plus en plus d’informations non seulement sur leurs emplois du temps récents (qu'il connait déjà en partie), mais aussi sur leurs larcins passés, et leurs liens avec les services secrets des différents états.
 
-C'est donc un jeu de dupes pour l’inspecteur, durant lequel il doit tenter de soutirer, sous prétexte d’enquête criminelle, un maximum d‘informations aux invités, tout en retardant par tous moyens leur progression vers la vérité sur ce meurtre. Et plus il obtient d’informations compromettantes de la part de quelqu’un, plus il peut mettre la pression sur les autres (jusqu'à des "mises en examen"), et ainsi obtenir des indices pour sa véritable mission d’espionnage fanatique.
+C'est donc un jeu de dupes pour l’inspecteur, durant lequel il doit tenter de soutirer, sous prétexte d’enquête criminelle, un maximum d’informations aux invités, tout en retardant par tous moyens leur progression vers la vérité sur ce meurtre. Et plus il obtient d’informations compromettantes de la part de quelqu’un, plus il peut mettre la pression sur les autres (jusqu'à des "mises en examen"), et ainsi obtenir des indices pour sa véritable mission d’espionnage fanatique.
 
 Pendant ce temps, les joueurs interagissent entre eux, interrogent les personnages non-joueurs, leur demandent des services, analysent les indices qu’ils glanent par une multitude de moyens, et font avancer leurs propres objectifs personnels ou étatiques.
 
@@ -37,7 +37,7 @@ Exemple de speech introductif de l'inspecteur
 
     Mesdames, Messieurs, bonsoir. Loyd Georges aurait aimé vous souhaiter la bienvenue. Malheureusement, il ne le fera pas ce soir. Il ne le fera pas, parce que vous ne le méritez pas. Il ne le fera pas… parce qu’il est mourant. Ce soir c'est moi, **l'inspecteur Shark de la police de Sabarim**, qui serai votre hôte.
 
-    Loyd Georges est un des plus éminents citoyen de Sabarim, un homme dont la persévérance et le courage inspireront pour toujours les nouvelles générations. L’un d’entre vous a commis l’irréparable en s’en prenant à sa personne, et il ressortira d’ici les menottes aux mains, pour aller rencontrer un châtiment d'une rare sévèrité.
+    Loyd Georges est un des plus éminents citoyens de Sabarim, un homme dont la persévérance et le courage inspireront pour toujours les nouvelles générations. L’un d’entre vous a commis l’irréparable en s’en prenant à sa personne, et il ressortira d’ici les menottes aux mains, pour aller rencontrer un châtiment d'une rare sévérité.
 
     Ne soyez pas dupes, je sais que vous avez **tous les mains sales**, et en d’autres circonstances je me serais fait un plaisir de vous mener un par un à la déchéance. Mais je suis prêt à échanger ma **clémence contre votre collaboration**.
 
@@ -90,7 +90,7 @@ D'autres méfaits sont bien plus spécifiques, l'enquêteur doit donc batailler 
 - Vis-à-vis du joueur qui a eu une altercation avec LG durant son entretien : "J’ai pu suivre à distance votre entretien d’hier avec Loyd Georges, disons ce qui est, c’était mouvementé… seriez-vous homme à vous laisser emporter par vos pulsions de revanche ?"
 - Vis-à-vis du joueur qui est revenu sur ses pas, l'inspecteur peut bluffer : "Le majordome vous a aperçu en train d'écouter à la porte du bureau de LG. Que cherchiez-vous à savoir exactement ?" (Un joueur malin niera probablement en bloc, ou parlera d'espionnage industriel/commercial pour se justifier)
 - Marchandage : "Je sais ce que vous avez fait, <ceci> et <cela>, donnez-moi de l’information plus importante que cela, ou je vous fais plonger" (faire alors dénoncer le collègue, ou une autre faction...)
-- Si éléments à charge pour la culpabilité d’empoisonnement de Loyd Georges, transitionner vers la vraie quête de Shark : "LG a risqué sa vie pour obtenir cet orbe, rendez-là (celle-ci, ou une autre d’ailleurs, car je sais qu’il y en a plusieurs en jeu), et vous serez traité avec magnanimité". L’inspecteur dévoile ainsi un peu qu’il poursuit davantage les orbes que le coupable du crime.
+- Si éléments à charge pour la culpabilité d’empoisonnement de Loyd Georges, transitionner vers la vraie quête de Shark : "LG a risqué sa vie pour obtenir cet orbe, rendez-la (celle-ci, ou une autre d’ailleurs, car je sais qu’il y en a plusieurs en jeu), et vous serez traité avec magnanimité". L’inspecteur dévoile ainsi un peu qu’il poursuit davantage les orbes que le coupable du crime.
 - Si l'occasion se présente : passer un téléphone décroché à un joueur ; il s’agit, au bout du fil, soit d’un proche de l’identité de couverture, soit du véritable personnage dont le joueur a pris l’identité. On démasque ainsi l’imposture devant tous.
 - A un joueur compromis, l’inspecteur peut soit proposer de trahir son camp et avoir droit à un nouveau départ en Sabarim (ce qui est du bluff, Shark n'a pas ces prérogatives), soit (s’il sent une affinité pour cela, ex. avec les doriens si les akarites annoncent une alliance en ce sens) dévoiler un peu son Credo akarite, et proposer de rejoindre les "Elus des Yods" dans la nouvelle ère qui commence.
 
@@ -111,8 +111,8 @@ Si l'hymne sabarite passe à la radio, vous observerez les convives, pour accuse
 
 Vous êtes du genre à agresser verbalement tout protagoniste qui pourrait avoir un comportement "suspect" : port de gants, émission d'un appel téléphonique, etc. ; cette tyrannie désarçonnera les joueurs.
 
-Comportement attendu avec les serviteurs : l’inspecteur est d’abord "très professionnel" avec eux, mais lorsque ceux-ci se mettent à aider les joueurs dans leurs propres enquêtes, il s’irrite rapidement, jusqu’à avoir d’étrange interjections religieuses akarites… et il ne manque pas de s'emporter si le vieux domestique Alphonse, par ses bévues, gêne ses manœuvres.
+Comportement attendu avec les serviteurs : l’inspecteur est d’abord "très professionnel" avec eux, mais lorsque ceux-ci se mettent à aider les joueurs dans leurs propres enquêtes, il s’irrite rapidement, jusqu’à avoir d’étranges interjections religieuses akarites… et il ne manque pas de s'emporter si le vieux domestique Alphonse, par ses bévues, gêne ses manœuvres.
 
-Vous avez un document des "Eléments de droit sabarite" que vous gardez avec vous, même si vous êtes prêt à tenter de les contourner pour les besoin de cette enquête très spéciale.
+Vous avez un document des "Eléments de droit sabarite" que vous gardez avec vous, même si vous êtes prêt à tenter de les contourner pour les besoins de cette enquête très spéciale.
 
 

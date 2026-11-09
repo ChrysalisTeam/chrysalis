@@ -11,7 +11,7 @@ Since then, you have been striving to make genuine discoveries, in a world in th
 
 Your discreet and sedentary nature did not offer you many encounters, but a single one was enough for you. **Cynthia**, Prof. Loakim's daughter, an international reporter, immediately caught your eye. For a year now, you have therefore been getting to know each other, whenever her schedule allows.
 
-Life is not all rosy, however, because of the heavy secrets you must protect....
+Life is not all rosy, however, because of the heavy secrets you must protect...
 
 
 

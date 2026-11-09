@@ -14,7 +14,7 @@ Loyd Georges vous fait d'abord patienter dans la salle à manger. L'inspecteur S
 
 Vous patientez jusqu'à 16h20 avant d'être reçu dans le bureau. Vous comprenez alors que Loyd Georges n'a rien à vous apprendre, mais qu'il vous a concocté un véritable interrogatoire de doctorat en joaillerie.
 
-Désarçonné, vous réagissez mal, et vous vous embrouillez dans les quelques connaissances que vous aviez engrangées à la va-vite. Loyd Georges, respire bruyamment - manifestement il n'a pas l'habitude de jouer au dur - et finit par vous accuser de lui avoir menti depuis le début.
+Désarçonné, vous réagissez mal, et vous vous embrouillez dans les quelques connaissances que vous aviez engrangées à la va-vite. Loyd Georges respire bruyamment - manifestement il n'a pas l'habitude de jouer au dur - et finit par vous accuser de lui avoir menti depuis le début.
 
 {% fact 'loyd_georges_quarrelled_with_someone' as author %}
 Vous protestez alors de votre bonne foi, vous jouez l’outragé, le ton monte, vous faites de grands gestes... Vous réalisez alors qu'il ne sert à rien de s'énerver davantage, et vous sortez du bureau en claquant violemment la porte. Le majordome sort de la bibliothèque et vous raccompagne jusqu'au portail d'entrée, sans un mot. L'entretien a duré moins de 15mn.

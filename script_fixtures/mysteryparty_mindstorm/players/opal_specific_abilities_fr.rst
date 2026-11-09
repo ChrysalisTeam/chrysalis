@@ -4,7 +4,7 @@
 
 <{ player_possessions }/>
 
-Vous vous présentez à la soirée avec 150 kashes en billets (sait-on jamais..).
+Vous vous présentez à la soirée avec 150 kashes en billets (sait-on jamais...).
 
 
 <{ title_special_abilities }/>

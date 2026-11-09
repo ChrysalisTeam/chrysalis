@@ -61,7 +61,7 @@ OUT-OF-GAME CONSTRAINT: your character unintentionally leaves the players a few 
 You show a certain irritation when a bidder thwarts your purchasing plans during these auctions.
 You also become inquisitive when a bidder seems interested in a lot that is not naturally within his remit (especially if he is a Sabarith citizen).
 
-**YOUR GOAL**: with only **600 Sabarith Pounds**, manage to buy ONE of the lots put up for auction,
+**YOUR GOAL**: with only **600 Sabarith Pounds**, manage to buy ONE of the lots put up for auction.
 {# .. either bearing runic inscriptions (messages the players can intercept), or being "atypical but not unique" and therefore able to help geolocate the hiding place of Loyd Georges' Orb (thanks to the World Scanner) #}
 
 

@@ -14,7 +14,7 @@ Mais vous gardez aussi en tête certains points :
 
 - donner un coup de main à Loyd Georges, si l'occasion se présente, pour retrouver son fameux héritage perdu {% fact "lg_seeks_legacy_with_help_of_cynthia" as author %}
 
-- plus largement, protéger la maisonnée de Loyd Georges, et ses amis, contre les forces malveillantes qui rodent dans l'ombre {% fact "cynthia_wants_to_help_lg_and_friends" as author %}
+- plus largement, protéger la maisonnée de Loyd Georges, et ses amis, contre les forces malveillantes qui rôdent dans l'ombre {% fact "cynthia_wants_to_help_lg_and_friends" as author %}
 
 {% endmacro %}
 <{ cynthia_main_objectives }/>

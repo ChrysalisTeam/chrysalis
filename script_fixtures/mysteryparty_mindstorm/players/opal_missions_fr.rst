@@ -18,7 +18,7 @@ Protéger votre famille
 <{ magnus_parents_must_protect_family }/>
 
 Sauver votre santé et celle de Loyd Georges
-    Votre dernier espoir semble résider dans ce fameux "Elixir Berserk", vous espérez que Rydji et {% symbol "Rodok" for "lg_adventurer_friend_name" %} pourrons vous mettre sur sa piste... {% fact "opal_knows_about_berserk_elixir" as author %}
+    Votre dernier espoir semble résider dans ce fameux "Elixir Berserk", vous espérez que Rydji et {% symbol "Rodok" for "lg_adventurer_friend_name" %} pourront vous mettre sur sa piste... {% fact "opal_knows_about_berserk_elixir" as author %}
 
 Aider à élucider le crime contre Loyd Georges
     Vous n'avez que moyennement confiance dans les compétences restantes du vieillissant inspecteur Shark, donc vous comptez bien enquêter un peu en parallèle, peut-être par l'intermédiaire de son adjointe de police. Surtout que, en l'absence de coupable, on pourrait finir par vous accuser, vous !

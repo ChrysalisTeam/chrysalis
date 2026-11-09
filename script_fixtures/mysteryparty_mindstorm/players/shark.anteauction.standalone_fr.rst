@@ -7,7 +7,7 @@ L'inspecteur Shark a été pendant toute sa carrière, un loyal et performant li
 
 Shark profite donc de sa position pour partir en quête des orbes divins (à commencer par celui que Loyd Georges a récupéré). Il reste en contact fréquent avec ses nouveaux maîtres akarites, via une **boite postale** située non loin du manoir de Loyd Georges, au centre du **{% symbol "Hameau de Wiskons" for "hamlet_near_mlg_manor" %}** ; si urgence, il appelle ses mentors en Akarie depuis une des **cabines téléphoniques** situées au même endroit (mais il n'utilise jamais le téléphone du manoir pour cela, c'est trop dangereux).
 
-Mais son enquête se révèle trop laborieuse, face aux moyens d'action high-tech des différents agents étrangers qui opèrent au milieu de ses enchères. Après avoir essayé de tirer de Loyd Georges toutes les informations possibles, et sentant la réticence (puis le soupçon grandissant) de ce dernier, l’inspecteur décide de s’en débarrasser. Mais non sans piéger, au passage, les participants des enchères autour de ce meurtre, afin d'être en position de force pour leur tirer les vers du nez.
+Mais son enquête se révèle trop laborieuse, face aux moyens d'action high-tech des différents agents étrangers qui opèrent au milieu de ces enchères. Après avoir essayé de tirer de Loyd Georges toutes les informations possibles, et sentant la réticence (puis le soupçon grandissant) de ce dernier, l’inspecteur décide de s’en débarrasser. Mais non sans piéger, au passage, les participants des enchères autour de ce meurtre, afin d'être en position de force pour leur tirer les vers du nez.
 
 Etant comme un "juge d'instruction", l'inspecteur peut en effet **réquisitionner** des individus pour interrogatoire. Lorsqu'il a suffisamment d'éléments à charge contre un suspect, il peut demander sa **mise en examen**, et profiter des pouvoirs supplémentaires (perquisition, confiscation, contraintes...) que cela octroie. Mais l'inspecteur compte aussi, officieusement, négocier l'abandon de certaines charges, la "disparition" de certaines preuves, en échange de la collaboration d'un accusé. *Voir la fiche "Eléments de Droit Sabarite", pour l'aspect légal de ce système.*
 
@@ -15,10 +15,10 @@ L'inspecteur convainc donc Loyd Georges de rencontrer les différents joueurs, a
 
 Shark empoisonne dans le même temps Loyd Georges, en s’assurant qu’il ingère, sous une forme ou une autre, des toxiques cardiaques qui entraînent une forte bradycardie (ralentissement du rythme du cœur) :
 
-- avant le repas du soir, le "jour des entretiens" (la veille de la réception), il prévoie de remplacer le sachet de laurier sauce, en cuisine, par un de laurier rose (toxique à cause de l’oléandrine qu’il contient), dans le plat en sauce qu'il a lui-même suggéré au cuisinier ; ce poison est à effet rapide, et agit donc peu après son ingestion par Loyd Georges lors du dîner. Ce laurier rose a été commandé à "Maître bibine, apothicaire à Salima", et livré dans la boite postale du hameau voisin. Le cuisinier, vieillissant, ne réalise pas l'entourloupe.
+- avant le repas du soir, le "jour des entretiens" (la veille de la réception), il prévoit de remplacer le sachet de laurier sauce, en cuisine, par un de laurier rose (toxique à cause de l’oléandrine qu’il contient), dans le plat en sauce qu'il a lui-même suggéré au cuisinier ; ce poison est à effet rapide, et agit donc peu après son ingestion par Loyd Georges lors du dîner. Ce laurier rose a été commandé à "Maître Bibine, apothicaire à Salima", et livré dans la boite postale du hameau voisin. Le cuisinier, vieillissant, ne réalise pas l'entourloupe.
 - au cas où le laurier rose n'était pas cuisiné pour le dîner, il aurait pu tenter de forcer une surdose du médicament anti-tachycardie habituel de LG (la digoxine) ; mais cela n'a pas été nécessaire
 
-Noter que l’anti-vomitif "Resorpa" que LG prend pour pallier les effets secondaires de la digoxine (voir le "MEMO" pour Robb Barrow dans les document LibreOffice), empêche la régurgitation du poison.
+Noter que l’anti-vomitif "Resorpa" que LG prend pour pallier les effets secondaires de la digoxine (voir le "MEMO" pour Robb Barrow dans les documents LibreOffice), empêche la régurgitation du poison.
 
 Loyd Georges fait un malaise cardiaque tard dans la soirée, et est hospitalisé en secret.
 

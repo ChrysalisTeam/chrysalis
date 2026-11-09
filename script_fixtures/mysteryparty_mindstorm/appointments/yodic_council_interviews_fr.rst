@@ -32,7 +32,7 @@ L'archidiacre pose ainsi ces questions :
 - La transfiliation est-elle véridique, autrement dit est-il possible à un *bâthar*, qui ne fait pas généalogiquement partie du saint peuple akarite, de devenir l'ami des Yods ? {# NOPE Ou faut-il qu'il soit exterminé ou réduit en esclavage par les saints akarites ? #}  *(bonne réponse: "oui bien sûr la transfiliation est possible, nous autres doriens n'attendons que cela")*
 - En matière de polymonie : depuis les récentes mise-à-jour doctrinales, a-t-on toujours le droit de dire "Yod soit loué" lorsque l'on est content, ou faut-il toujours dire "les Yods soient loués" ?  *(bonne réponse: "toujours dire les Yods au pluriel, sinon c'est du monothéisme")*
 - Pensez-vous que l'eschatologie est in-vivo ou post-mortem ? Autrement dit la fin du monde arrivera-t-elle durant ce temps qui est le nôtre, lorsque les saints orbes auront été récupérés, ou bien après notre mort grâce à nos prières et expiations ?  *(bonne réponse: "in-vivo, grâce à la sainte guerre de récupération des orbes")*
-- Pouvez-vous me donner une citation pieuses, qui soit bien sûr orthodoxe (non hérétique), que vous aimez particulièrement, qui vous semble bien illustrer les problématiques actuelles en matière de foi yodique ?  *(bonnes réponses possibles: voir ci-dessous)*
+- Pouvez-vous me donner une citation pieuse, qui soit bien sûr orthodoxe (non hérétique), que vous aimez particulièrement, qui vous semble bien illustrer les problématiques actuelles en matière de foi yodique ?  *(bonnes réponses possibles: voir ci-dessous)*
 
 Là encore, l'archidiacre doit réagir aux réponses reçues, et donner des perspectives sur la décision du concile au vu de la teneur de l'entretien.
 

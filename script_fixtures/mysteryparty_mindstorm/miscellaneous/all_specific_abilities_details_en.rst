@@ -95,7 +95,7 @@ Lie-detector paper
 
 {% macro passcard_hacking() %}
 Pass-Card Lockpicking
-    You have just received a hacking kit for "pass cards", which are spreading enormously throughout Sabarim at the moment (these locks bear a logo showing a hand inserting a magnetic card). Loyd Georges is known to be a pioneer in their use. *By laying your hand flat on a "pass card" lock **for 10 seconds**, you will be able to open it. It will lock itself again when closed.*
+    You have just received a hacking kit for "pass cards", which are spreading enormously throughout Sabarim at the moment (these locks bear a logo showing a hand inserting a magnetic card). Loyd Georges is known to be a pioneer in their use. *By laying your hand flat on a "pass card" lock* **for 10 seconds**\ *, you will be able to open it. It will lock itself again when closed.*
 {#
 .. useful for:
   - mailbox at the entrance (contains Loakim's letter)

@@ -10,7 +10,7 @@ Depuis votre retour en Sabarim, et l'annonce des ventes aux enchères, les menac
 
 La veille, tous les participants ont été convoqués l'un après l'autre par Loyd Georges ; comme vous étiez en charge de les accueillir, vous connaissez bien le déroulement de cette journée des entretiens (voir le programme des visites, plus bas).
 
-Ce jour là , vous vous êtes uniquement absenté vers midi, pour aller à Salima faire des préparatifs pour la soirée spéciale.
+Ce jour-là, vous vous êtes uniquement absenté vers midi, pour aller à Salima faire des préparatifs pour la soirée spéciale.
 
 Etant végétarien, au dîner, vous avez préféré manger du riz nature, que de la blanquette de veau.
 
@@ -20,7 +20,7 @@ Vous avez ensuite pris le thé avec Loyd Georges, dans un canapé de la salle à
 
 Très tard le soir, vous avez répondu à l'appel de la sonnette de Loyd Georges, et découvert votre maître allongé au sol en pyjama, inconscient, au milieu de sa chambre.
 
-Une ambulance est venue le chercher, puis l'inspecteur Shark et des policiers sont venus prendre possession du manoir. Vous avez cherché à réveiller {{character_properties.opal.official_name}}, mais il était dans un sommeil exceptionnellement profond, et n'a pas régi aux stimulis. {% fact "rydji_could_not_wake_up_opal_after_lg_troubles" as author %}
+Une ambulance est venue le chercher, puis l'inspecteur Shark et des policiers sont venus prendre possession du manoir. Vous avez cherché à réveiller {{character_properties.opal.official_name}}, mais il était dans un sommeil exceptionnellement profond, et n'a pas réagi aux stimuli. {% fact "rydji_could_not_wake_up_opal_after_lg_troubles" as author %}
 
 Loyd Georges est, depuis, hospitalisé. Mais sur ordre de l'inspecteur Shark, vous avez maintenu les préparatifs pour la soirée spéciale.
 

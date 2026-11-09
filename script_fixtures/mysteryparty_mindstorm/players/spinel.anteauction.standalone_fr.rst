@@ -26,7 +26,7 @@ Au détour d'une de ses conversations téléphoniques avec son ami le professeur
 <{ title_specific_information }/>
 ==================================
 
-Vos services ont intercepté des communications accidentellement mal chiffrées, qui ont révélé (sans surprise) que les akarites étaient bien derrières les lettres de menace reçues par Loyd Georges, qu'ils faisaient pression sur les services secrets doriens pour que ceux-ci les aident à récupérer l'orbe, et qu'ils préparaient un "coup d'éclat divin" en Sabarim.  {% fact 'akariths_pressure_dorians_secret_services' %} {% fact 'akariths_have_conspiracy_against_sabarim' %}
+Vos services ont intercepté des communications accidentellement mal chiffrées, qui ont révélé (sans surprise) que les akarites étaient bien derrière les lettres de menace reçues par Loyd Georges, qu'ils faisaient pression sur les services secrets doriens pour que ceux-ci les aident à récupérer l'orbe, et qu'ils préparaient un "coup d'éclat divin" en Sabarim.  {% fact 'akariths_pressure_dorians_secret_services' %} {% fact 'akariths_have_conspiracy_against_sabarim' %}
 
 La conversation d'un participant nommé "{{character_properties.opal.official_name}}", avec sa compagne "Lydia", vous a permis de découvrir qu’il avait triché aux échecs en jouant en ligne contre Loyd Georges (grâce au logiciel "ChessCheat54" installé sur son ordinateur). Il avait ainsi gagné quelques bouteilles de vieux vin. {% fact 'opal_cheats_at_chess_against_lg' %}
 

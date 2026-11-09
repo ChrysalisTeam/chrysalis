@@ -11,7 +11,7 @@ Depuis, vous vous attelez à faire de véritables découvertes, dans un monde en
 
 Votre naturel discret et sédentaire ne vous offrait pas beaucoup de rencontres, mais une seule vous a suffi. **Cynthia**, la fille du Pr Loakim, reporter à l'internationale, vous a immédiatement tapé dans l'oeil. Depuis un an, vous apprenez donc à vous connaître, dès que son emploi du temps le permet.
 
-La vie n'est pas toute rose pour autant, à cause des lourds secrets que vous devez protéger....
+La vie n'est pas toute rose pour autant, à cause des lourds secrets que vous devez protéger...
 
 
 

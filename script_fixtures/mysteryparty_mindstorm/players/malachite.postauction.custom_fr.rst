@@ -14,7 +14,7 @@
 
     Quelque chose qui vous tient à cœur, c'est bien sûr de savoir ce qu'est cette histoire de Paladium et de trahison de Spinel. Il faut tirer cela au clair.
 
-    Un indic' des services secrets masslaves en Akarie, a rapporté que qu'un cierge liturgique et une bonbonne avaient été rituellement brûlés lors d'une cérémonie, à la frontière akarite, car considérés comme "impies".
+    Un indic’ des services secrets masslaves en Akarie, a rapporté qu'un cierge liturgique et une bonbonne avaient été rituellement brûlés lors d'une cérémonie, à la frontière akarite, car considérés comme "impies".
     Vous avez sans difficulté fait le rapprochement avec des artefacts qu'avait achetés Amethyst. Et vous disposez de plusieurs photographies de l’événement, probantes [dessinez ces photos freestyle].
 
 #}

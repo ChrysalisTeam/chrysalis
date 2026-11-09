@@ -40,7 +40,7 @@
     - "Dazzling lamp"
     - "Rain/heartbeat sound diffuser"
     - "Typewriter with small sheets of paper (to take statements)"
-    - "Pouch of lily of the valley antidote 'sewn' into the lining of his coat"
+    - "Pouch of lily of the valley antidote \"sewn\" into the lining of his coat"
 
 -
   - "For the Akarith Ambassador"
@@ -66,7 +66,7 @@
     - "Memo of instructions for Robb Barrow {% hint 'robb_barrow_instructions_memo' is provided %}"
     - "Hydroland sale poster {% hint 'hydroland_sale_poster' is provided %}"
     - "Extract from Loyd Markis's biography"
-    - "'Pass card' logos on the locks that require one"
+    - "\"Pass card\" logos on the locks that require one"
 
 -
   - "Objects and furniture arranged as well as possible in the rooms"
@@ -79,7 +79,7 @@
     - "Mailbox protected by pass card, with LOT 1 inside"
     - "Game of metal sticks"
     - "Flat black box with red patterns"
-    - "Beautiful wood-and-gold chest, containing at least 2 glasses cases (1 of them filled), 1 tubular glass flask, and the 'Blois' paper knife"
+    - "Beautiful wood-and-gold chest, containing at least 2 glasses cases (1 of them filled), 1 tubular glass flask, and the \"Blois\" paper knife"
     - "Rabbit photo frame"
 
 -
@@ -156,7 +156,7 @@
     - "Search of OPAL'S BEDROOM: Fake letter mentioning an electoral fraud by Lydia"
     - "Search of the KITCHEN: The 2 recipes of the day before (see above)"
     - "Search of the PANTRY: Cynthia's thin brown parcel with the picture of her building {% hint 'cynthia_wetfeet_building_picture' is provided %}"
-    - "Search of the KENNEL: Grey 'GoodShoe' shoe heel {% hint 'broken_shoe_heel' is provided %}"
+    - "Search of the KENNEL: Grey \"GoodShoe\" shoe heel {% hint 'broken_shoe_heel' is provided %}"
 
 -
   - "The manor's mailbox"

@@ -4,7 +4,7 @@
 
 Votre enquête piétinait depuis quelques jours, et vous étiez sur le point d’aller boire un coup au pub du coin pour voir si l’inspiration vous venait, quand Loyd Georges vous propose un entretien en tête-à-tête, annonçant avoir des "informations importantes" à vous communiquer.
 
-**Ayant sous-estimé les transport salimiens, vous arrivez devant le manoir vers 16h25, le jour J, une demi-heure avant ce qui était prévu.**
+**Ayant sous-estimé les transports salimiens, vous arrivez devant le manoir vers 16h25, le jour J, une demi-heure avant ce qui était prévu.**
 
 <{ arrival_at_manor_with_butler }/>
 
@@ -14,14 +14,14 @@ Soudain vous entendez une vive altercation, dans le bureau de Loyd Georges. Un i
 
 Vous espérez de nouveaux éléments sur les trouvailles de votre hôte, mais celui-ci n'a en fait rien à vous apprendre. Au contraire vous subissez un flot de questions très techniques sur l'archéologie et votre prétendue collection d'antiquités akarites. Vous tentez de faire bonne figure, mais sans grande force de persuasion. A vos propres questions, Loyd Georges ne répond que de manière évasive.
 
-Pour amadouer votre hôte, vous l'amenez à parler de ses "exploits" passés, et de l'ingratite du monde académique à son égard. Il se lance alors dans un interminable monologue sur ses aventures de jeunesse, qui hélas ne vous aide pas beaucoup.
+Pour amadouer votre hôte, vous l'amenez à parler de ses "exploits" passés, et de l'ingratitude du monde académique à son égard. Il se lance alors dans un interminable monologue sur ses aventures de jeunesse, qui hélas ne vous aide pas beaucoup.
 
 Peu avant que {% symbol "18h" for "afternoon_lg_medecine_time" %} ne sonne au pendule, le vieux domestique de Loyd Georges, Alphonse, entre et dépose devant lui un verre rempli d'une substance grise opaque. Votre hôte laisse échapper qu'ayant quelques problèmes cardiaques, il doit prendre à heure fixe de la digoxine. {% fact 'loyd_georges_takes_medicine' %}
 Avant le départ du domestique, Loyd Georges lui rappelle de ne pas oublier de prendre une nouvelle commande chez Maître Florent, l'apothicaire du village proche. Là-dessus, semblant épuisé, le sir vous donne un prompt congé, et s'enferme dans sa chambre.
 
 Le majordome vous ramène vers l'entrée. Dans le Grand Hall, il prend à partie le fameux Alphonse, qui est sur le point de quitter le manoir aussi ; visiblement, il n'était pas prévu que le vieux serviteur s'absente ce soir.
 
-Vous saisissez alors l'occasion, et feignez d’avoir laissé tomber votre montre à gousset en chemin, pour pouvoir revenir en arrière, jusqu'au petit hall. Chance, la session est toujours active, sur le moniteur. En quelques secondes, vous configurez un arrêt automatique du système d'alarme entre **{% symbol "22h" for "evening_alarm_deactivation_time" %} et minuit** ; pas le temps d'étendre cette arrêt jusqu'au matin, car déjà le majordome arrive dans la pièce. Vous brandissez votre montre à gousset d'un air satisfait ; il vous raccompagne fermement jusqu'au portail du parc.  {% fact 'garnet_breaks_alarm_for_evening' %}
+Vous saisissez alors l'occasion, et feignez d’avoir laissé tomber votre montre à gousset en chemin, pour pouvoir revenir en arrière, jusqu'au petit hall. Chance, la session est toujours active, sur le moniteur. En quelques secondes, vous configurez un arrêt automatique du système d'alarme entre **{% symbol "22h" for "evening_alarm_deactivation_time" %} et minuit** ; pas le temps d'étendre cet arrêt jusqu'au matin, car déjà le majordome arrive dans la pièce. Vous brandissez votre montre à gousset d'un air satisfait ; il vous raccompagne fermement jusqu'au portail du parc.  {% fact 'garnet_breaks_alarm_for_evening' %}
 
 Le temps d'aller dîner en ville, et vous voilà de retour au manoir, par les petits chemins.
 {% symbol "22h" for "evening_alarm_deactivation_time" %} sonne. Comme prévu, les voyants lumineux du mur passent "en veille". Tout semble déjà dormir dans le manoir ; ce n'est pas anormal, ces chatelains sabarites sont des couche-tôt lève-tôt.
@@ -30,12 +30,12 @@ Vous n'attendez donc pas plus longtemps : vous vous introduisez dans le parc sur
 Un molosse vagabonde au hasard entre les bosquets ; il est d'une autre trempe que le vieux chien Bedou, mais étant donnée la taille du parc, il n'est pas bien difficile de le contourner.
 
 Vous approchez de la fenêtre de la bibliothèque, et installez immédiatement un faisceau lumineux pointant vers sa caméra infrarouge de surveillance, pour la rendre inexploitable. {% fact 'garnet_breaks_into_manor_in_the_evening' %}
-Vous découpez ensuite un large trou dans le fenêtre de la bibliothèque, avec un couteau-diamant.
+Vous découpez ensuite un large trou dans la fenêtre de la bibliothèque, avec un couteau-diamant.
 Dans le petit hall, le moniteur de l'alarme est verrouillé ; tant pis, vous avez bien assez de temps devant vous, de toute façon.
 
 La porte du bureau de Loyd Georges coulisse sans bruit, et vous aveuglez de la même façon la caméra qui s'y trouve ; aucune lumière ne filtre sous la porte de la chambre du sir, mais une douce musique en sort. Vous reconnaissez une de ces "hypnotones" très à la mode, sorte de berceuse pour adultes. Que Loyd Georges dorme déjà ou non, cette musique de fond est une aubaine.
  
-A pas de loup, vous avancez jusqu'au coffre-fort caché derrière une tenture ; mais question séurité, c'est un trop gros défi. Vous commencez donc par les tiroirs du grand secrétaire en ébène.
+A pas de loup, vous avancez jusqu'au coffre-fort caché derrière une tenture ; mais question sécurité, c'est un trop gros défi. Vous commencez donc par les tiroirs du grand secrétaire en ébène.
 
 Vous feuilletez des factures diverses, des contrats d'entretien, d'assurance, et de coffre sécurisé à la Banque de Salima (vous notez le numéro de ce dernier compte : **{% symbol "AIXJ726H" for "lg_bank_account_number" %}**).
 Une petite carte postale, non timbrée, attire votre attention : "Mets ça à l'abri quelque part chez toi, c'est de la bombe, je l'étudierai à mon retour. *E. L.*"

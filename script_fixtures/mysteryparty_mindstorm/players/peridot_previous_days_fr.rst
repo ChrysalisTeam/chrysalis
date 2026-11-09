@@ -13,7 +13,7 @@ Comme votre collègue – ou plutôt, sa couverture – a également été convi
 
 Loyd Georges vous reçoit dans son bureau. Initialement assez maussade, et un peu sonné par la digestion, il marche à fond dans votre jargon historico-mythologique, et même si vous avez souvent le sentiment de marcher dans le vide, vous arrivez à l’impressionner avec quelques anecdotes bien préparées.
 
-Vous appelant "amis", il vous avoue se sentir entouré d’espions, et très mal le vivre. Il n’avait en fait aucune information importante à vous communiquer, et n’a voulu vous rencontrer que pour vous mettre à l’épreuve. Il admet cependant être très mal à l’aise dans ce rôle d’interrogateur, et avoir des doutes sur sa capacité à soutirer des informations à qui que ce soir.
+Vous appelant "amis", il vous avoue se sentir entouré d’espions, et très mal le vivre. Il n’avait en fait aucune information importante à vous communiquer, et n’a voulu vous rencontrer que pour vous mettre à l’épreuve. Il admet cependant être très mal à l’aise dans ce rôle d’interrogateur, et avoir des doutes sur sa capacité à soutirer des informations à qui que ce soit.
 
 Vous sentez bien que cette idée de "mise à l’épreuve" n’était pas de lui. Vous cherchez à le faire parler, mais, malgré la confiance acquise, il reste sur la réserve.
 {% if standalone %}

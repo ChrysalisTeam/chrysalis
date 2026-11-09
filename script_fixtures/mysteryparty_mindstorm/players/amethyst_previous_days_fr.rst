@@ -2,10 +2,10 @@
 <{ title_previous_day }/>
 ==============================
 
-Votre enquête piétinait depuis quelques jours, et vous étiez sur le point de provoquer une rencontre avec un agent adverse, pour faire bouger les choses, quand Loyd Georges vous propose un entretien en tête-à-tête, annonçant avoir des "informations importantes" à vous communiquer. **Vous vous rendez-donc au manoir, le jour venu, pour {% symbol "11h" for "lg_meeting_time_for_amethyst" %}.**
+Votre enquête piétinait depuis quelques jours, et vous étiez sur le point de provoquer une rencontre avec un agent adverse, pour faire bouger les choses, quand Loyd Georges vous propose un entretien en tête-à-tête, annonçant avoir des "informations importantes" à vous communiquer. **Vous vous rendez donc au manoir, le jour venu, pour {% symbol "11h" for "lg_meeting_time_for_amethyst" %}.**
 
 {% macro arrival_at_manor_with_butler() %}
-Le lourd portail du parc s'ouvre lentement, puis claque dans votre dos. Un gendarme salimien bedonnnant sort à contre-coeur de sa large guérite, contrôle vos papiers, et vous fait passer à travers un détecteur d'armes. Le majordome de Loyd Georges, Rydji, vient alors à votre rencontre.
+Le lourd portail du parc s'ouvre lentement, puis claque dans votre dos. Un gendarme salimien bedonnant sort à contre-coeur de sa large guérite, contrôle vos papiers, et vous fait passer à travers un détecteur d'armes. Le majordome de Loyd Georges, Rydji, vient alors à votre rencontre.
 
 En entrant dans le magnifique Grand Hall du manoir, vous remarquez immédiatement la caméra qui surveille l'ensemble de la salle. Voilà qui ne simplifie jamais rien. Il ne semble pas y en avoir dans le petit hall, mais combien d'autres sont disséminées dans le château, voire le parc ?
 {% endmacro %}
@@ -36,7 +36,7 @@ Vous vous cachez dans le réduit, sous l'escalier en colimaçon du Grand Hall. L
 - Vous sous-estimez le pouvoir de corruption de vos ennemis. Vous a-t-il donné des objets, qui pourraient être piégés ? A-t-il été laissé seul dans le manoir, à un quelconque moment ?
 - Non et non. Laissons de côté cet évènement inoffensif, qui nous fait perdre notre temps.
 
-Le majordome entre alors dans le Grand Hall avec un nouveau visiteur, ce qui interrompe leur controverse. Impossible d'entendre la suite des échanges, maintenant qu'ils ont à nouveau lieu dans le bureau de Loyd Georges ; l'inspecteur semble être resté à écouter depuis la chambre, le fourbe.
+Le majordome entre alors dans le Grand Hall avec un nouveau visiteur, ce qui interrompt leur controverse. Impossible d'entendre la suite des échanges, maintenant qu'ils ont à nouveau lieu dans le bureau de Loyd Georges ; l'inspecteur semble être resté à écouter depuis la chambre, le fourbe.
 
 Vous réfléchissez à vos prochains déplacements, lorsque vous avisez un petit écran encastré dans le mur. Chance, le terminal de contrôle des caméras du manoir. Vous repérez la position des **caméras ({% symbol "grand hall, bureau, bibliothèque, salle à manger, cuisine" for "videosurveillance_cameras_locations" %})**, et des habitants du lieu, avant de désactiver ce système. Voilà qui vous enlève une belle épine du pied. {% fact 'amethyst_disabled_surveillance_cameras' as author %}
 
@@ -45,7 +45,7 @@ Un des participants aux enchères, **{{character_properties.opal.official_name}}
 
 Ne pouvant approcher des salles les plus intéressantes, vous montez à l'étage, et parcourez longuement la "collection" de Loyd Georges, un ramassis d'objets hétéroclites et de faible valeur : des chapeaux de cuir slavinkiens, d'énormes pachydermes en bois sculpté, de vieux grimoires de contes thélassars à moitié vermoulus, des armes et masques en bronze érodés... Le sol est bien balayé, mais sur les artefacts et les vitrines, la poussière a repris ses droits depuis longtemps. Aucun objet ne semble avoir été touché récemment, et aucune cachette apparente. Palsambleu.
 
-En redescendant les escaliers, vers 12h45, vous avez une intuition. Le courrier serait-il passé ? Bingo ! La boite aux lettre du vestibule est mal refermée ; vous y trouvez deux brochures publicitaires, une lettre provenant d'une boite postale anonymisée, et un fin colis. Vous fourrez ces deux derniers plis dans votre poche.
+En redescendant les escaliers, vers 12h45, vous avez une intuition. Le courrier serait-il passé ? Bingo ! La boite aux lettres du vestibule est mal refermée ; vous y trouvez deux brochures publicitaires, une lettre provenant d'une boite postale anonymisée, et un fin colis. Vous fourrez ces deux derniers plis dans votre poche.
 
 Des bruits de pas dans le Grand Hall vous forcent à migrer vers la salle à manger, mais le vieil Alphonse continue sa route vers vous, et il y a du bruit en cuisine... vous vous réfugiez donc dans le spacieux garde-manger. En sautant vous cacher derrière les tonneaux de vin, vous vous retrouvez nez-à-nez avec un autre intrus. L'enchérisseur {{character_properties.malachite.official_name}}.
 
@@ -57,7 +57,7 @@ L'individu a l'air tout aussi ahuri que vous.
 
 Dans cette situation hautement désagréable, une trêve tacite se met immédiatement en place. Vous restez 5 minutes en silence, côte à côte, à écouter les derniers préparatifs du repas de midi ; et à vous demander comment repartir sans encombre du manoir, le moment venu.
 
-Tout s'accélère lorsqu'un museau canin gris vient fureter sous le porte du garde-manger. La voix d'Alphonse retentit.
+Tout s'accélère lorsqu'un museau canin gris vient fureter sous la porte du garde-manger. La voix d'Alphonse retentit.
 
 - Bedou ! Laisse donc toute cette bouffe tranquille, maudit gourmet ! Ta gamelle t'attend dehors !
 

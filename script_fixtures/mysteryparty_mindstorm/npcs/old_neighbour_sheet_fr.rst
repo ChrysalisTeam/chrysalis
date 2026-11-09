@@ -3,11 +3,11 @@
 Fiche de la Voisine Salimienne
 ===============================
 
-Vous êtes un brave **éleveuse de vaches et de chèvres**, bientôt à la retraite.
+Vous êtes une brave **éleveuse de vaches et de chèvres**, bientôt à la retraite.
 
 Vous habitez le **{% symbol "Hameau de Wiskons" for "hamlet_near_mlg_manor" %}**, proche du manoir de Loyd Georges, avec une bonne partie de votre famille élargie.
 
-Ce soir, vous reveniez d'une visite à votre amie Ginate Longchan, dans un autre hameau, lorsque le violent orage vous a surprise ; il faut dire que, depuis quelques temps, vos jambes ne vous portent plus aussi vite qu'avant.
+Ce soir, vous reveniez d'une visite à votre amie Ginate Longchan, dans un autre hameau, lorsque le violent orage vous a surprise ; il faut dire que, depuis quelque temps, vos jambes ne vous portent plus aussi vite qu'avant.
 
 Vous avez heureusement été secourue par un des invités qui se rendait au manoir *(à déterminer sur le moment)*. Il vous a menée au manoir proche, le temps que vous vous réchauffiez.
 
@@ -24,7 +24,7 @@ Vous connaissez très peu Loyd Georges, il était souvent à l'étranger, dans s
 
 Vous êtes **inquiète** de tout ce qui a pu lui arriver malgré la protection de la police sabarite, vous vous demandez si des **fanatiques akarites** n'ont pas réussi à s'infiltrer en nombre dans le pays.
 
-Vous avez entendu parlé du **mythe des orbes akarites**, mais ces délires mystiques ne vous intéressent pas.
+Vous avez entendu parler du **mythe des orbes akarites**, mais ces délires mystiques ne vous intéressent pas.
 
 
 
@@ -47,7 +47,7 @@ Sur les élections consulaires en cours
 
 Vous pensez que le peuple sabarite en a assez de la corruption et des privilèges des notables, des restrictions d'accès à la connaissance, de l'exploitation des gens appelés "analphabètes".
 
-La colère gronde, et si le nouveau trio de consuls ne prend pas des mesures urgentes pour changer tout cla, la république sabarite subira probablement des émeutes massives.
+La colère gronde, et si le nouveau trio de consuls ne prend pas des mesures urgentes pour changer tout cela, la république sabarite subira probablement des émeutes massives.
 
 Surtout si on vous pousse à le faire, vous n'hésitez pas à dire cela haut et fort, en particulier face aux personnes directement concernées par l'élection consulaire : **Lydia Magnus, et le tabellion de Salima**.
 

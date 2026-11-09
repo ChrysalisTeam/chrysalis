@@ -16,7 +16,7 @@
 - vous n'avez pas encore eu le temps d'analyser les artefacts, mais l'orbe est à coup sûr un matériau inconnu sur Pangéa
 - il y a {% symbol "15 jours" for "waden_blackmailing_start_ago" %}, une ressortissante de {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, "{% symbol "Elezie" for "waden_blackmailer_lady_name" %}", a commencé un chantage sur la mort du Pr Voluto, pour obtenir vos découvertes. Elle vous a aussi confié trois pierres noires à analyser, ce que vous êtes en train de faire. {% fact "waden_is_being_blackmailed_regarding_voluto" as author %} {% hint "radioactive_samples_analysis_report_part_1_for_waden" is needed %} {% hint "radioactive_samples_analysis_report_part_2_for_waden" is needed %}
 - de façon surprenante vous avez été invité, avec Cynthia, à la soirée spéciale d'enchères de Loyd Georges
-- la veille cette soirées, vous étiez dans votre laboratoire secret pour étudier l'orbe {% fact "waden_alibi_is_revealing" as author %}
+- la veille de cette soirée, vous étiez dans votre laboratoire secret pour étudier l'orbe {% fact "waden_alibi_is_revealing" as author %}
 
 
 

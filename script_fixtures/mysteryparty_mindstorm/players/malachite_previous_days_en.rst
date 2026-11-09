@@ -7,7 +7,7 @@ Your investigation had been stalling for a few days, and you were starting to go
 
 <{ arrival_at_manor_with_butler }/>
 
-The interview (which starts late) is rather cold and laborious, because - as you quickly realise - Loyd Georges is actually seeking to test your supposed knowledge of Yodic history {% fact 'malachite_official_is_expert_in_yodic_history' %}; so you go through an awkward moment, while he remains very evasive about your own questions. The old man is clearly aware of being surrounded by spies!
+The interview (which starts late) is rather cold and laborious, because - as you quickly realise - Loyd Georges is actually seeking to test your supposed knowledge of Yodic history{% fact 'malachite_official_is_expert_in_yodic_history' %}; so you go through an awkward moment, while he remains very evasive about your own questions. The old man is clearly aware of being surrounded by spies!
 
 Fortunately, you manage to name Georg Vidlaock and Vassil Becck to him, two historians of religion working at the University of Cazoar. Uncomfortable in his role as interrogator, he seems happy to seize upon this semblance of a guarantee, and launches into a conversation about these fellows, work acquaintances he knows far better than you do. To steer the conversation away, you talk to him about his beautiful pets, the admirable ornaments on his front door, the good taste of his various interior settings...
 

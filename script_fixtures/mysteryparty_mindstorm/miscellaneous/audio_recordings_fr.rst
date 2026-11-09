@@ -14,7 +14,7 @@ Transcription d'enregistrement - Stylo espion
 - humpfh... tu as peut-être raison. Ces akarites sont déments, et ils ont des fidèles de leur religion dans tout Pangéa. J'ai bien peur que Loyd Georges n'ait été leur dernière victime en date. Il a touché à leur orbe, et c'est le sacrilège ultime pour eux.
 - mais tu y crois vraiment, à cette légende ? Est-ce que la rumeur n'a pas simplement dépassé la réalité ?
 - non ; je suis persuadé que Loyd Georges a trouvé un de ces fameux orbes. Je ne sais juste pas ce qu'il en a fait, et il risque de tomber en de mauvaises mains.
-- peut-être, mais ce n'est notre priorité. Loyd Georges est hospitalisé, toi tu as mis fin à cet empoisonnement, donc le tout c'est que tout le monde retrouve la santé.
+- peut-être, mais ce n'est pas notre priorité. Loyd Georges est hospitalisé, toi tu as mis fin à cet empoisonnement, donc le tout c'est que tout le monde retrouve la santé.
 - ...
 - qu'est-ce qu'il y a ?
 - rien, on en reparlera plus tard.

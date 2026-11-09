@@ -6,7 +6,7 @@
    Spacer 0 5
 
 
-Sur le coup de 18h, en ce jour de la grande soirée de Loyd Georges, le cab' vient vous chercher devant chez vous. Non pas un cab' motorisé ; bien un cab' à l'ancienne, avec des chevaux et des décorations, de quoi attendrir Loyd Georges et sa nostalgie d'une époque révolue.
+Sur le coup de 18h, en ce jour de la grande soirée de Loyd Georges, le cab’ vient vous chercher devant chez vous. Non pas un cab’ motorisé ; bien un cab’ à l'ancienne, avec des chevaux et des décorations, de quoi attendrir Loyd Georges et sa nostalgie d'une époque révolue.
 
 Le manoir que vous connaissez bien émerge de la brume, sous une pluie battante. Un édifice imposant, majestueux, certes, mais qui porte les stigmates des récents événements : barreaux aux fenêtres, grillages haute tension autour de la cour, et un véritable point de contrôle armé à l'entrée.
 
