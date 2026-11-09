@@ -27,42 +27,8 @@ Archives (script_fixtures/mysteryparty_archives/)
      "IMPORTANT", else rpg_sheet_generator.py:430 warns "provided without needed"), reword phantom_octave_sheet_en.rst:56 (shared
      macro, fixes the Archivist sheet too). The "cattle/low" re-tie is speculative (nothing says the book has cattle) and its line
      is 78 chars vs 49 for FR p161. Record an EN MP3 and note it at checklist_en.yaml:163.
-
-- Gamemaster manual (line ~602): the French speaks of a "biological" injury, where the rules of the
-  living/dead only know physical, magical and sacred attacks, and the fact key next to it says
-  "cursed_skull_and_bones_give_sacred_injuries". The English kept "biological".
-  => Check whether "sacred" was meant.
-  => RECOMMENDATION: yes, "sacred" was meant: GM manual l.582 (cursed remains -> spiritual/sacred injuries, same fact key), l.600 and l.1445
-     (Thief lore: touching the sinner's skull or bones inflicts sacred injuries) all contradict l.602, which is the only "biological" line.
-     Change gamemaster_manual_archives_{fr,en}.rst:602 to "S'il touche une dépouille maudite, comme un crâne sonore ou les ossements...:
-     blessure sacrée" / "If they touch cursed remains, such as a sounding skull or the bones...: sacred injury" (and keep l.580: merely
-     bewitched objects -> biological). Author must still confirm the interplay with checklist l.339 (Thief skull = "NEGATIVE bewitchment",
-     which per diakon_dispeller_role l.45 would imply a biological injury) - probably: Dispeller detects it, only the Duchess heals it.
-     Also "sacrée"/"spirituelle" are used as synonyms (l.582 vs 600/627, glossary l.452): say so in the glossary or standardise.
-  => VERIFIED: CORRECTED: the conclusion stands, but l.600 is about a phantom's touch giving a sacred injury, not about skulls or bones, so it
-     does not contradict l.602. The real corroboration is l.582 and l.1445 (both fact cursed_skull_and_bones_give_sacred_injuries). l.580's
-     fact key cursed_objects_give_magic_and_not_spiritual_injuries supports the proposed "dépouille maudite" vs "objet envoûté" split. The
-     checklist l.339 vs diakon_dispeller_role_{fr,en}.rst:45 tension is real: the author must confirm.
-  => FINAL: First recommendation as corrected by the second: gamemaster_manual_archives_{fr,en}.rst:602 -> "dépouille maudite... :
-     blessure sacrée"/"cursed remains... : sacred injury" (corroborated by l.582 and l.1445, same fact key; l.600 is about a
-     phantom's touch). The Dispeller sheet already receives both l.582 (via injury_types_knowledge, diakon_dispeller_role_en.rst:98)
-     and its l.45 rule, so the split is coherent; only the GM-only checklist l.339 "NEGATIVE bewitchment" label needs the author's
-     confirmation. Glossary l.452: state sacrée = spirituelle.
-  => PARTLY DONE (6ce5c34, 2e8abf6): gamemaster_manual_archives_{fr,en}.rst:602 now "dépouille maudite... blessure sacrée"/"cursed remains... sacred injury"; glossary says sacrée = spirituelle; REMAINING: author to confirm the GM-only "NEGATIVE bewitchment" label of the Thief's skull (checklist{,_en}.yaml:339).
-
-- The sentence "One of the rare visitors..." is duplicated in two archives documents.
-  => Check whether this repetition is wanted.
-  => RECOMMENDATION: wanted content-wise (every faction gets the same in-world overview through its complement; the Dragons have no complement
-     so it was pasted into their role sheet and flagged "{# DUPLICATA FIXME #}" at players/dragons_role_{fr,en}.rst:170). See the detailed
-     recommendation under "The duplicated 'One of the rare visitors...' passage" below (replace by the macro call, or keep and drop the FIXME).
-     Also fix the heading case in miscellaneous/complement_for_diakons_fr.rst:7 ("des maupertuis" -> "des Maupertuis").
-  => VERIFIED: OK. Precision: the marker is "{# DUPLICATA FIXME of ... #}" in FR but "{# DUPLICATE FIXME of ... #}" in EN; the dragons copy
-     and the EN macro already capitalise "Maupertuis"; build_archives_pdfs.py:296-299 has no Dragons complement.
-  => FINAL: Wanted content (the Dragons have no complement, build_archives_pdfs.py:296-299); dedupe as per the detailed entry below,
-     noting that a plain "<{ maupertuis_archives_quick_tour }/>" in dragons_role would break the PDF build (see there). Fix "des
-     maupertuis" -> "des Maupertuis" in complement_for_diakons_fr.rst:7 (only place; bodies l.10-19 vs dragons l.174-183 are
-     otherwise byte-identical in both languages).
-  => PARTLY DONE (6ce5c34): heading "des Maupertuis" fixed in complement_for_diakons_fr.rst:7; REMAINING: deduplicate players/dragons_role_{fr,en}.rst:170-183 (still flagged "DUPLICATA/DUPLICATE FIXME"), see the detailed entry in the third-review section.
+  => PARTLY DONE (cba1e14..b794ef8): FINAL fallback applied: EN ODT p158 torn-book hint tag removed, checklist_en.yaml:98 tag and IMPORTANT dropped ("mere decoration in the English version"), phantom_octave_sheet_en.rst:56 reworded (shared macro, so the Archivist sheet follows), checklist_en.yaml:163 notes the missing EN MP3; clue page counts unchanged (51/51)
+  => BLOCKED ON AUTHOR: record an English MP3 of the Blowtorch charade (EN ODT p159-163) for the Whispering Box, and drop it next to archives_media/audio/Vocal enigmas/treasure_enigma_charade_by_meredice_for_octave.mp3
 
 - Clue ODT cipher images still spell French in the EN clues (same pictures in both ODTs, as for Mindstorm, see the "Ventes Privées
   d'Alphonse" and "Props in French" entries): the hieroglyphs of the "useless well" sign decode to PUITS INUTILE
@@ -71,143 +37,20 @@ Archives (script_fixtures/mysteryparty_archives/)
   (npcs/phantom_thief_sheet_en.rst:34; EN ODT GM comment 'Write "important formula" underneath').
   => Re-encode both images in English for ingame_clues_archives_en.odt, or give the GM the French text and its translation.
   => SUGGESTION: re-encode at least the ogham memo, since it carries the formula the players must speak.
-
-- Cryptex micro-text decoys (Thief's green wallet, gamemaster_assets_checklist{,_en}.yaml:338; EN clue ODT "THE CRYPTEX CODE IS NOT:
-  KNOWLEDGE"): the EN decoy has 9 letters, whereas the FR decoys DJINNS/SAVOIR have 6 letters like the real code GENIAL (checklist:217), so
-  on a 6-letter cryptex the EN decoy is ruled out at a glance.
-  => Replace it by a 6-letter word.
-  => SUGGESTION: "WISDOM".
+  => PARTLY DONE (cba1e14..b794ef8): GM notes added in ingame_clues_archives_en.odt comments p336 (ogham memo = French ASTROLABE TRANSPORTE MOI LA BAS, accept the English formula) and p344 (hieroglyphs = PUITS INUTILE), and in gamemaster_assets_checklist_en.yaml:338 (Thief's wallet micro-text spells the French formula)
+  => BLOCKED ON AUTHOR: re-encode the ogham memo (and, optionally, the useless-well sign) pictures in English for ingame_clues_archives_en.odt
 
 - maupertuis_father_chest_code_anamorphosis_enigma (clue ODT, docs/build_archives_pdfs.py:250): the caption "Pour le jour où je
   l'oublierai..." is part of the image, so it stays French in the EN clues.
   => Re-edit the image for EN ("For the day I forget it..."), or accept.
-
-- recipe_pyrolitis_tincture (EN clue ODT, docs/build_archives_pdfs.py:236): the AutoREALM handwriting font renders "w" and "k" oddly, which
-  hurts "with", "drink", "newt" ("1 eye of newt", "Combine only in a copper container with an anti-explosion enchantment", "Do not drink
-  without prior dilution").
-  => Reword to avoid w/k, or use another font for EN.
-  => SUGGESTION: "1 eye of toad", "Combine only in a copper pot under an anti-explosion enchantment", "Dilute before use".
-
-- Octave's travel bag: the checklist puts it under the forbidden floor's rubble ("Set of gems in a travel bag, to be dug out with explosives
-  from rubble on the forbidden floor", gamemaster_assets_checklist{,_en}.yaml:369) and under the authorised floor's rubble ("70 kashes with
-  the GM, representing Octave's travel bag buried under the rubble of the authorised floor", :612), with the same hint
-  travel_bag_with_money_under_far_rubbles.
-  => Pick one floor (and one content: gems or 70 kashes).
-
-- Magnetism/UV detector: gamemaster_manual_archives_fr.rst:947 "Le **détecteur de magnétisme et d'UV** donnent un code" (singular subject,
-  plural verb) vs EN :947 "The **magnetism and UV detectors** give a code".
-  => One device or two?
-  => SUGGESTION: probably two (UV torch and magnetic detector are separate props), so FR "Les **détecteurs de magnétisme et d'UV** donnent".
-
-- FR wording: the prophecy "Intuition sur la Bête et le Mage" (gamemaster_manual_archives_fr.rst:806, macro planning_of_prophecies) says
-  "Vous sentez aussi une vieille ancienne endormie", which reads oddly (maybe "une vieille âme endormie"); the injury rule :602 says "les
-  ossements qui sont avec" (better "qui vont avec", as EN "the bones that go with it").
-  => Confirm and fix.
-
-- Clivra poem (miscellaneous/ingame_speeches_fr.rst:65, alexandrine version of the buffet speech): "Eccueillons sans plus attendrE nos
-  invités": deliberate wordplay or typo?
-  => Author to confirm.
-  => SUGGESTION: "Accueillons sans plus attendre nos invités," unless it is a deliberate wink.
-
-- EN wording to confirm: (a) the Whispering Box riddle is "Chat-lu-mot" in FR (gamemaster_assets_checklist.yaml:163/509) and the "Blowtorch"
-  riddle in EN (checklist_en.yaml:163/509): consistent with the BLOWTORCH decision of the Whispering Box entry, nothing to change; (b)
-  "Thorium steam potion" (checklist_en.yaml:251, hint potion_thorium_steam_on_alchemy_table) is not in the glossary, and the EN Pyrolitis
-  recipe says "3 drops of Thorium vapour"; (c) the EN GM manual links a French Wikipedia page (gamemaster_manual_archives_en.rst:1081,
-  https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres).
-  => Add a glossary row "vapeur de Thorium" with one EN wording (steam or vapour) used in both places, and link an English page or mark the
-     link "(in French)".
-
-- Typography: the Archivist heading has a space before ")" (gamemaster_manual_archives_{fr,en}.rst:334 "archiviste )"/"archivist )"); the
-  Ankou traits line ends with a trailing comma (gamemaster_manual_archives_{fr,en}.rst:420 "bonne volonté,"/"good will,", macro
-  god_ankou_character_summary); the Thief's astrolabe formula renders with a space before the period, because of the space in '** {% fact
-  "thief_knows_teleportation_device_formula" %}.' (npcs/phantom_thief_sheet_{fr,en}.rst:34).
-  => SUGGESTION: fix all three (remove the space before the fact tag).
-
-- The avatar_arrival_on_earth macro (npcs/avatar_druid_sheet_fr.rst:26-28) says "vous êtes arrivé dans une étrange bibliothèque", but it is
-  also called by the Duchess sheet (npcs/avatar_duchess_sheet_fr.rst:20), which needs "arrivée" (EN is neutral).
-  => Neutral wording or a macro parameter.
-  => SUGGESTION: "en l'empruntant, vous avez débarqué dans une étrange bibliothèque".
-
-- The Exorcist ritual says "Philtre de Focus" (players/diakon_exorcist_role_fr.rst:37) whereas the FR checklist says "potions de Focus"
-  (gamemaster_assets_checklist.yaml:471); EN says "Potion of Focus" everywhere (glossary l.1283 lists both FR names).
-  => Keep "Philtre" as a deliberate synonym, or use "Potion de Focus" in FR too.
-
-- French typos left in the GM manual: unaccented "HEROS DE ROMAN"/"HEROINE DE ROMAN" (gamemaster_manual_archives_fr.rst:470/494/510). The
-  other items reported by the PDF comparison ("sauvez sa petite soeur" l.428, "mystèrieuses" l.458, Thief summary "sa petit zone", "il est
-  manifeste encore des doutes", injury_types_knowledge "de quelques natures que ce soit", lowercase "les fantômes, d'une manière..." l.1425)
-  are already fixed in the sources (d849f79).
-  => SUGGESTION: "HÉROS DE ROMAN"/"HÉROÏNE DE ROMAN".
-
-- FR clue ODT (ingame_clues_archives.odt): "Chèr(e) Octave, voici la dernière énigme..." (Whispering Box enigma) and "d’pu te viens cette
-  longevite, O dame du ruisseau qui defie les siecles" (Thanatologue, accent-less font): typos or deliberate?
-  => Author to confirm.
-  => SUGGESTION: "Cher Octave" (or "Cher/Chère" if the generic form is wanted, without the grave accent) and "d'où te vient cette longevite"
-     (the missing accents can stay if the font has none).
-
+  => PARTLY DONE (cba1e14..b794ef8): GM note added to the EN ODT comment of that clue (p152: caption inside the picture is French, "Pour le jour où je l'oublierai..." = "For the day I forget it...")
+  => BLOCKED ON AUTHOR: re-edit the anamorphosis picture with the English caption for ingame_clues_archives_en.odt, or accept the French caption
 
 Auction (script_fixtures/gamemaster_manual_en.yaml)
 ---------------------------------------------------
 
-- The Faculty of Imuo and the Alifir Academy (line ~909) seem to designate the same institution.
-  => Check, and harmonise if so.
-  => RECOMMENDATION: no change, they are different and explicitly rival institutions: gamemaster_manual.yaml:907 "l'Académie d'Alifir est sous
-     pression, car sa grande rivale, la très hégémonique Faculté d'Imuo, vient d'exhiber WireMind"; Alifir is a Sabarim city (locations.yaml:206,
-     manual l.421-433), Imuo is in Yumeinamatchi (encyclopedia/pangea_misc_locations_and_events.yaml:70-80, locations.yaml:258); Imuo pays the
-     chess prize, Alifir wants WireMind beaten (l.909). EN mirrors correctly; both are in the glossary (l.183, l.2113). Close the item.
-  => VERIFIED: OK. Precision: locations.yaml:206 does not mention Sabarim; the Sabarith evidence is GM manual l.423 "Situé en Sabarim",
-     characters_factions.yaml:149 and doctor_honoris_causa_and_nazur.yaml:486.
-  => FINAL: First recommendation stands (two rival institutions, no change), with the second agent's evidence fix (Sabarim at GM
-     manual l.423, not locations.yaml:206); the only naming variant is the FR jingle radio_spots.yaml:66 "L'académiiie d'Imuo",
-     probably the source of the doubt.
-
-- The Auction full FR PDF has a blank page 50: the checklist fills p.49 exactly, then the ".. raw:: pdf / PageBreak" before "Chronologie
-  synthétique du jeu" (gamemaster_manual.yaml:1618-1624) adds an empty page. Toolchain/layout quirk.
-  => Accept, or replace the unconditional PageBreak by a conditional one (rst2pdf "CondPageBreak <height>").
-
-
 Mindstorm (script_fixtures/mysteryparty_mindstorm/)
 ---------------------------------------------------
-
-- Puzzles were rebuilt in English (THECEILINGOFTHETOILET, UNDERTHECOOKINGRECIPES,
-  the "Sick-oh-free... won-oh-nine" clue for safe code 603-109).
-  => Proofread them in context.
-  => RECOMMENDATION: all three work. Acrostic (Mindstorm clue ODT p468): initials spell UNDERTHECOOKINGRECIPES, matching GM manual l.347-353
-     and the recipe props (checklist l.106-107); 22 letters vs 24 in FR, no document constrains the length (the shed-roof glyph prop is in
-     no checklist). Safe code (p423-424 + checklist l.96): sick-oh-free = 603, won-oh-nine = 109, OK. Treasure riddle (p428-449, nth letter of
-     nth line, letters only, title = line 1, restart at stanza 2): verified THECEILIN / GOFTHETOILET = THECEILINGOFTHETOILET (GM manual l.535).
-     Only weakness: the stanza break falls mid-word (FR gives LEPLAFOND / DESTOILETTES). Optional: add a 10th line to stanza 1 with G as 10th
-     letter and recompose stanza 2 (11 lines) to spell OFTHETOILET - EN ODT only, author's call on poetic quality.
-  => VERIFIED: OK (recomputed from both ODTs: EN acrostic 22 initials, FR SOUSLESRECETTESDECUISINE 24; riddle EN THECEILIN/GOFTHETOILET, FR
-     LEPLAFOND/DESTOILETTES; 603-109 matches checklist{,_en}.yaml:96; shed-roof glyphs only in GM manual l.353 and planning l.305).
-  => FINAL: First recommendation stands (all three puzzles recomputed from both ODTs: EN acrostic 22 initials, riddle
-     THECEILIN/GOFTHETOILET, 603-109; every EN line is no longer than its FR twin). If the optional 10th line is added to stanza 1,
-     the EN riddle grows to 21 lines vs 20 in FR: check pagination first.
-
-- Alphonse's tribute poem no longer rhymes in English.
-  => Rewrite it as English verse, if wanted (keeping it no longer than the French, for pagination).
-  => RECOMMENDATION: optional, no puzzle depends on it (toast read aloud, Mindstorm clue ODT p575-580; planning l.138/193). If wanted, same
-     4 lines: "To our friend and master, who managed to convince us / That even a life of failures is a life worth living, / I pay him tribute
-     today, yet remind him in passing / That dropping dead right now would be rather distressing." The FR pun "échecs" (chess/failures) is lost either way.
-  => VERIFIED: DISAGREE: the facts are right, but the proposed verse breaks the length rule (lines of ~50-60 chars against 43-47 in FR) and
-     rhymes only loosely (us/living/passing/distressing), while the FR is AABB. Shorter AABB alternative: "To our friend and master, who made
-     us agree / That a failed life is worth living, you see; / I pay tribute today, though I must point out / That croaking right now would be
-     bad, no doubt."
-  => FINAL: Second agent is right that the first verse is too long (52/52/50/57 chars vs FR 43/46/47/43 at ODT p576-579), but its
-     own line 4 is 47 chars (> FR 43) and its second couplet is weak. If a rhymed version is wanted, use (43/44/41/40 chars, AABB,
-     keeps hommage/dommage): "To our friend and master, who made us agree / That a failed life is worth living, you see; / I pay him
-     homage today, yet I have to say / It would be a shame to croak right away." Optional either way: no puzzle depends on it.
-
-- Alkaloid names: in the clue about Gelsemium, the title says "Gelsemine" and the text says "gelsemicine",
-  while the French uses "gelséminine" / "gelsémine".
-  => Check the intended alkaloid names in both languages.
-  => RECOMMENDATION: mirror the FR: EN ODT p189 title "Gelsemine" -> "Gelseminine", p190 "together with gelsemicine" -> "together with gelsemine"
-     (FR: title "Gelséminine", text "avec la gelsémine"). Both are real Gelsemium alkaloids; only the ODT uses them (no rst/yaml occurrence).
-  => VERIFIED: DISAGREE: the facts are right (EN p189/p190, FR "Gelséminine"/"gelsémine", no rst/yaml/glossary occurrence), but mirroring
-     brings in "gelseminine", an old and obscure name. The current EN pairing (gelsemine = main alkaloid, gelsemicine = one of the most toxic)
-     is the more accurate. Keep the EN, and if consistency is wanted align the FR instead (title "Gelsémine", text "avec la gelsémicine").
-  => FINAL: Second agent's advice stands: keep EN p189/p190 "Gelsemine"/"gelsemicine" (modern names: gelsemine = main alkaloid,
-     gelsemicine = a toxic one); the FR pair "Gelséminine"/"gelsémine" is older naming, not an error, so aligning FR is optional. No
-     gameplay impact (Gelsemium is a red herring, the real poison is oleander, ODT p191); no occurrence outside the ODTs.
 
 - "Ventes Privées d'Alphonse" was kept in French, as were the props and the text inside images.
   => Confirm, or translate (images would need re-editing).
@@ -223,205 +66,17 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
   => FINAL: First recommendation as completed by the second stands: keep the FR data key; the EN gap is the French text in the
      byte-identical cipher images (GM comments p471/p473/p475) and the ivory prop (FR p630 "sanctuaire" / EN p630 "sanctuary").
      Precision: the lone EN image lg_manor_map_english.png is in mindstorm_media/ at the repo root, not under script_fixtures/.
-
-- Clue ODT: the treasure acrostic says "THE STATELY CAULDRON", while everything else says "Precious Cauldron"
-  (probably required by the acrostic). => Confirm.
-  => RECOMMENDATION: not a bug - the FR line also does not say "Précieux" ("DU FORT LUXUEUX CHAUDRON"), and line p444 must keep T as its 7th
-     letter: "THE STATELY CAULDRON" (T) works, "THE PRECIOUS CAULDRON" (C) breaks. Keep as is; if the item name must be echoed, "THE MOST
-     PRECIOUS CAULDRON" (7th letter T, verified) also works in the EN ODT. FR unchanged.
-  => VERIFIED: OK (p444 = line 7 of stanza 2; STATELY->T, PRECIOUS->C, MOST PRECIOUS->T; FR "DU FORT LUXUEUX CHAUDRON" gives L).
-  => FINAL: First recommendation stands (keep "THE STATELY CAULDRON", 7th letter T; FR gives L as needed), but drop its optional
-     "THE MOST PRECIOUS CAULDRON": 26 chars vs 24 for FR p444 "DU FORT LUXUEUX CHAUDRON", so it breaks the length rule. "Precious
-     Cauldron" elsewhere is only GM manual l.535, unconstrained.
-
-- Peridot: the shop is located in Imuo in some documents and Nimouk in others, and the French uses a
-  feminine "Patronne" for the owner. => Check location and owner's gender.
-  => RECOMMENDATION: Nimouk (Dorian Duchy) is canonical (characters_factions.yaml:82-94 official_role, data dump l.2173, domains); "Imuo" is a slip
-     in amethyst.anteauction.standalone_{fr,en}.rst:30 -> "Nimouk". The real Philipon Vertioundem is male (name, GM hints "il") -> characters_factions.yaml:91
-     "Patronne" -> "Patron" (and the dump when regenerated), and masculine in peridot.anteauction.standalone_fr.rst:10 and peridot_cheat_sheet_fr.rst:19
-     ("le détenteur du nom... Le voilà heureux... il"); EN already uses "he".
-  => VERIFIED: CORRECTED: Nimouk is right (Imuo is in Yumeinamatchi, pangea_misc_locations_and_events.yaml:80). But the FR feminines in
-     peridot.anteauction.standalone_fr.rst:10 ("la personne détentrice... heureuse... elle") and peridot_cheat_sheet_fr.rst:19 ("la vraie
-     personne qui est restée") agree with "personne", so changing them is optional. cheat_sheet_fr:19 contains no "heureux"/"il", so the
-     quoted replacement only fits the standalone. The "Patronne" fix matters for EN too: EN builds print the FR official_role untranslated
-     (docs/output_mindstorm/en/common_guests_gallery.rst:186 "Patronne d'une bijouterie de Nimouk").
-  => FINAL: Second agent's version stands: Nimouk (amethyst.anteauction.standalone_{fr,en}.rst:30 "Imuo" -> "Nimouk");
-     characters_factions.yaml:91 "Patronne" -> "Patron" (needed for EN too: official_role prints untranslated in
-     docs/output_mindstorm/en/common_guests_gallery.rst:186 etc.); the FR "la personne... elle" forms may stay. New: the mirror case
-     Topaz, "Luciane Begalazatr" (feminine name) with role "Prospecteur" (characters_factions.yaml:76-77) -> "Prospectrice", or
-     author to confirm both cover identities' genders.
-  => PARTLY DONE (0854ccf): amethyst.anteauction.standalone_{fr,en}.rst:30 "Nimouk", characters_factions.yaml:91 "Patron"; REMAINING: regenerate docs/_initial_game_data_dump.yaml (l.2173 still "Patronne"), and decide Topaz's cover "Luciane Begalazatr" role "Prospecteur" (characters_factions.yaml:77, dump l.2319) -> "Prospectrice", or confirm.
-
-- shark_previous_days_fr: "L'archidiacre" appears without being introduced elsewhere. => Check who it is.
-  => RECOMMENDATION: insufficient evidence - author must confirm. shark_previous_days_{fr,en}.rst:61-63 introduces "le judicateur Praeves" then
-     switches to "L'archidiacre"; the three archdeacons in the game are Menelas (akarith_ambassador_sheet l.4), Baazel (transfiliation advocate,
-     dorian_mission l.13, overrides l.1003/1087) and Altos (yodic_council_interviews). If Praeves is meant: "Ce judicateur"/"The judicator"; if the
-     council context points to Baazel: "l'archidiacre Baazel"/"Archdeacon Baazel" (both languages).
-  => VERIFIED: OK (UNSURE is justified; all citations correct). Extra evidence for the author. Toward Baazel:
-     akarith_ambassador_sheet_{fr,en}.rst:17 says the judicators "including Archdeacon Baazel" turned a leading figure (likely Shark), and
-     l.63 "experts sollicités par le concile" matches dorian_mission l.13. Toward Praeves: archdeacon is a rank within the Judicator order
-     (Menelas), so Praeves could himself be the archdeacon. Lean: "l'archidiacre Baazel".
-  => FINAL: UNSURE (both agents agree): author must say whether the archdeacon at shark_previous_days_{fr,en}.rst:63 is Praeves or
-     Baazel. Evidence favours "l'archidiacre Baazel"/"Archdeacon Baazel": Praeves signs only "Judicator Praeves" (ODT p143-150,
-     checklist:146, glossary l.2332) and never mentions the council, whereas Baazel is the council's transfiliation advocate
-     (dorian_mission:13, overrides:1003/1087, akarith_ambassador_sheet:17).
-
-- "Royaume de Subael" in FR (missions/mining_lease_negotiation/generic_mission_briefing_fr.rst:8, negotiating_mandates_fr.rst:12,
-  players/lydia_previous_days_fr.rst:9) vs "Kingdom of Suabel" in EN and the key Kingdom_of_Suabel (script_fixtures/locations.yaml:15); the
-  glossary (l.2803-2805) already says to use "Suabel" in EN.
-  => Is the French a typo?
-  => SUGGESTION: yes, "Royaume de Suabel" in the three FR files and the glossary FR cell.
-
-- Alphonse's time announcement "Mesdame messieurs, il est 20h..." (npcs/alphonse_sheet_fr.rst:54, gamemaster_planning_details_fr.rst:73).
-  => Typo, or his deliberate word-mangling? If a typo: "Mesdames messieurs".
-
-- Shark: "de fil en anguille" (players/shark_misc_instructions_fr.rst:22).
-  => Deliberate pun on "de fil en aiguille", or typo? (If deliberate, the EN loses it.)
-
-- Phone appointments: "Lydia et Magnus se font appeler par leur gestionnaire de bien... Il s'enquiert de la santé d'Opal"
-  (appointments/mentor_briefings_all_factions_{fr,en}.rst:17, EN "Lydia and Magnus"): Magnus is the couple's surname (Opal = Charles Magnus,
-  characters_factions.yaml:134), so the pair is probably "Lydia et Opal".
-  => Check.
-  => SUGGESTION: "Lydia et Opal"/"Lydia and Opal".
-
-- Lydia: FR "en vue de devenir la première femme sénatrice du **Consulat d'Alifir**" (players/lydia.anteauction.standalone_fr.rst:27, EN
-  "senator") while elsewhere she runs to become "consule d'Alifir" (characters_factions.yaml:149, overrides l.983/1099,
-  npcs/notary_sheet_fr.rst:110 "future consule").
-  => Senator or consul?
-  => SUGGESTION: "la première femme consule d'Alifir"/"the first female consul of Alifir".
-
-- "armures exosquelettiques vaporisées" translated "steam-powered exoskeleton armour"
-  (missions/berserk_elixir_recipe/lordanian_infantry_booster_quest_{fr,en}.rst:12).
-  => Confirm the interpretation; if steam-powered is meant, FR "armures exosquelettiques à vapeur".
-
-- Obsidian missions: "excédé par la corruption et les privilèges de la classe dirigeante, par ses privilèges, par le monopole..." repeats
-  "privilèges", copied in EN (players/obsidian_missions_{fr,en}.rst:19 "by its privileges"); "Université D'Omrh" with a capital D in
-  players/waden_cheat_sheet_fr.rst:27, waden_misc_instructions_fr.rst:7, waden_missions_fr.rst:13.
-  => SUGGESTION: drop "par ses privilèges"/"by its privileges"; "Université d'Omrh".
-
-- FR style in Mindstorm sources: unaccented capitals "Etat" (26 occurrences, e.g. gamemaster_manual_mindstorm_fr.rst:21/160), "A vous"
-  (npcs/rydji_sheet_fr.rst:44, anthropia_game_data_overrides.yaml:853), "Elixir" without É (18, e.g. gamemaster_manual_mindstorm_fr.rst:372;
-  the glossary also writes "Elixir Berserk"); "maître du jeu" (10) vs "maître de jeu" (18, both in game_rules_fr.rst:35); "bonhommie"
-  (npcs/akarith_ambassador_sheet_fr.rst:8, -> "bonhomie"); lowercase noun "obérons" (e.g. gamemaster_manual_mindstorm_fr.rst:98/183) while
-  the glossary (l.1933) capitalises the noun "Obéron".
-  => Pick the rules and harmonise (see also the Auction/Descent accent entry in the FR/EN PDF comparison section).
-
-- Mindstorm assets checklist items all render in italic: the common code (docs/mysteryparty_common_utils.py:9-17,
-  analyze_and_normalize_game_items, called with important_marker=" IMPORTANT" at docs/build_mindstorm_pdfs.py:396) distinguishes crucial
-  items by the " IMPORTANT" marker, but the Mindstorm checklist YAMLs have none (vs 99 in each Archives checklist). Also a stray space
-  before commas where a hint tag precedes the comma ("Midolie , Ingrédients": gamemaster_assets_checklist{,_en}.yaml:18, 3 such "%}," per
-  file).
-  => Add IMPORTANT markers to the crucial Mindstorm items (or do not italicise everything when a checklist has no marker), and fix the
-     spacing around those tags.
-
-- EN Mindstorm still points to French resources: http://chrysalis-game.com/fr/cms/medias/ (context_intro.anteauction.standalone_en.rst:22)
-  and larousse.fr as the duel dictionary (miscellaneous/duel_of_honor_rules_en.rst:39, a word game in EN).
-  => Use an English media page if one exists, and an English online dictionary for the duel.
-
-- Data: characters_factions.yaml official_role values inconsistently end with a period (7 of 16: l.135, 149, 179, 194, 241, 257, 273), which
-  gives ".** ;" in sheets where full_official_title (docs/build_mindstorm_pdfs.py:434-437, "%s, %s") is followed by punctuation.
-  => SUGGESTION: drop the final periods (then regenerate the dump, which holds a copy).
-
+  => PARTLY DONE (cba1e14..b794ef8): key kept; GM notes added to the EN ODT comments p471/p473/p475 (the pictures encode the French SOUS RACINES DE BAOBAB / FRERES RDV DEMAIN SOIR AU PURINEUR / MO NOUS COUVRE...) and p630 (ivory object hides the French "sanctuaire"), plus gamemaster_assets_checklist_en.yaml:198/213 notes
+  => BLOCKED ON AUTHOR: produce English-encoded cipher pictures (hieroglyphs, runes, symbols) for ingame_clues_mindstorm_en.odt and an English ivory prop, or accept the GM notes
 
 Descent (script_fixtures/descent_rpg/descent_rpg_data_en.yaml)
 --------------------------------------------------------------
 
-- The riddles were adapted so they can be solved in English.
-  => Proofread them.
-  => RECOMMENDATION: nothing broken; the wording of this entry is inaccurate for Descent: the five "enigmatic writings" (descent_rpg_data{,_en}.yaml:33)
-     and the painting verse (master_script l.317) involve no wordplay or letter counts, the EN texts are straight translations, and each still
-     points to its target (air/earth/water levers l.195, crossentar niche l.258, ceiling runes l.292/326/441, Divine Tear in the cold l.286/328/384,
-     lantern + grate l.326). No codes or passwords exist in master_script_en.rst / player_sheet_template_en.rst. Reword or drop the item.
-  => VERIFIED: OK. The enigmatic writings are at descent_rpg_data{,_en}.yaml:35 (not 33). The lever riddle uses only cardinal points, and the
-     ceiling runes are readable only by the Alifir Academy (l.326), so nothing is language-dependent.
-  => FINAL: First recommendation stands (nothing language-dependent; reword or drop the item), with the second's line fix: the
-     enigmatic writings are at descent_rpg_data{,_en}.yaml:35, not 33.
-
-- Descent FR: "un retraité du pays de Sabarite" (descent_rpg/master_script_fr.rst:44; the country is Sabarim, "sabarite" is the adjective;
-  EN :44 already says "the land of Sabarim"); "il y a des **500 ans** de cela" (:427) is odd French.
-  => SUGGESTION: "du pays de Sabarim"; "il y a quelque **500 ans** de cela".
-
-
 Mindstorm & Archives game data (docs/_initial_game_data_dump.yaml)
 ------------------------------------------------------------------
 
-- This file exists only in French, and is loaded whatever --lang is.
-  French text (official roles, static pages / long story passages, item descriptions, guest roles)
-  therefore shows up in English player sheets, guest gallery, lore introduction, phone appointments,
-  cheat sheet and manor surveillance reports.
-  => Create an English version (e.g. _initial_game_data_dump_en.yaml), loaded via load_localized_yaml_file.
-  => RECOMMENDATION: do not translate the whole 23.5k-line dump (messaging, _TEMP_, audio, views are never rendered). Create a small
-     docs/_initial_game_data_dump_en.yaml OVERLAY holding only the consumed subtrees: character_properties.*.official_name/official_role/
-     full_official_title, abilities.house_reports.settings.reports (surveillance_analysis + gamemaster_hints), the ability titles used in the
-     rules/cheat sheets, game_items.*.title/comments for auctioned lots, static_pages.yodic_quotes/yodic_theology, the locations used by the
-     Archives checklist. Add in docs/rpg_sheet_generator.py a load_yaml_with_localized_overlay(file, lang) that loads the FR dump and
-     deep-merges the _en overlay (and fails if an overlay key is missing from the FR dump, to catch drift when the dump is regenerated), and use
-     it at build_mindstorm_pdfs.py:389 and build_archives_pdfs.py:401 (currently load_localized_yaml_file, which falls back to FR with a
-     "!!! No translated ... found" message). The old walk_and_translate_to_english.py / file_translator.db.* (DeepL walker from 2020, hard-coded
-     API key at l.46) is unrelated and obsolete. Long term, as the TODO at build_mindstorm_pdfs.py:390 says, read the *_en.yaml sources directly.
-  => VERIFIED: CORRECTED: the overlay approach is sound but should target Mindstorm only. These claims are right: the l.389/401/390 refs,
-     the fallback at rpg_sheet_generator.py:132-133 and the 23,531-line dump. The walker is script_fixtures/walk_and_translate_to_english.py
-     (not docs/); its key is hard-coded at l.42 (not l.46), and its file_translator.db (2020) covers only Auction/Descent, so it is indeed
-     obsolete. full_official_title is not in the dump: it is computed at build_mindstorm_pdfs.py:434-437 from official_name/official_role.
-     Ability titles come from AVAILABLE_ANTHROPIA_ABILITIES (build_mindstorm_pdfs.py:143, already fr/en), not from the dump. The Archives
-     build uses no dump text, only global_parameters.master_login and the character_properties container (build_archives_pdfs.py:466-476),
-     so no overlay is needed at l.401 and no "Archives checklist locations" are needed. The consumed subtrees are
-     character_properties.*.official_name/official_role, abilities.house_reports.settings.reports.*.surveillance_analysis/gamemaster_hints,
-     game_items.*.title/comments (common_auction_program_*.rst:18), and static_pages.yodic_quotes.content/gamemaster_hints and
-     yodic_theology.content.
-  => FINAL: Second agent's version stands (EN overlay for Mindstorm only, deep-merged over the FR dump; Archives needs none), but
-     the consumed-subtree list misses two leaks visible in docs/output_mindstorm/en/: character_properties.*.extra_goods ("Monnaie
-     certifiée...", build_mindstorm_pdfs.py:511, 19 files) and character_properties['loyd.georges'].secret_question ("Le nom de mon
-     premier animal...", amethyst_cheat_sheet_en.rst:8, 12 files). Overlay = official_name/official_role, extra_goods, that
-     secret_question, house_reports.settings.reports.*, game_items.*.title/comments, static_pages.yodic_quotes/yodic_theology texts.
-  => PDF COMPARISON (latest FR/EN): the EN Mindstorm PDFs still show French from the dump, all covered by the overlay list above: "Monnaie
-     certifiée : 1000 Livres Sabarites" (character_properties.*.extra_goods, docs/build_mindstorm_pdfs.py:511 current_player_extra_goods;
-     source characters_factions.yaml:51 etc.), official roles and guest descriptions (common_guests_gallery_en.rst:19), auction lots, the
-     surveillance reports included in Shark's EN sheet, and the Yodic quotes/theology (static_pages). The replace('**Un ', '.. ') filter of
-     dorian_mission_en.rst only matches the French caption: see the Build toolchain entry about it.
-
-
 Doubts from the third full review (by game area)
 -----------------------------------------------
-
-- "Orb(s)" capitalisation is mixed across Mindstorm English files ("the orb" 19x, "the Orb" 4x...); the glossary only says "Divine Orb(s)" is a proper name. => Pick a rule.
-  => RECOMMENDATION: rule = lowercase "orb"/"orbe" everywhere except "Divine Orb(s)", "Spiritual Orb" and the title "Loyd Georges' Orb" (see
-     the capitalisation entry below for the glossary wording). Non-compliant EN lines: mentor_briefings_all_factions_en 37/54,
-     gamemaster_manual_mindstorm_en 73/123/126, amethyst_previous_days_en 19/78/87, amethyst_cheat_sheet_en 8/10, garnet.anteauction.standalone_en
-     33/35, garnet_cheat_sheet_en 9, malachite_previous_days_en 32, malachite_cheat_sheet_en 7, malachite.anteauction.standalone_en 31/33,
-     opal_previous_days_en 47, opal_missions_en 26/27, peridot/spinel/topaz_cheat_sheet_en 7, akarith_ambassador_sheet_en 54/65,
-     missions/loyd_georges_destiny/lg_orb_search_en.rst:1 (heading, sentence case), clue ODT EN p345. FR lines also capitalised:
-     gamemaster_manual_mindstorm_fr 73/123/126, mentor_briefings_all_factions_fr 54, akarith_ambassador_sheet_fr 54, waden_missions_fr 7.
-  => VERIFIED: CORRECTED: the listed lines do contain "Orb", but the rule contradicts the list. Most listed lines are "Loyd Georges' Orb"
-     (gm_en:123 heading, amethyst_cheat 8/10, garnet_cheat 9, malachite_cheat 7, opal_previous_days 47, opal_missions 26/27,
-     peridot/spinel/topaz_cheat 7, akarith 54/65, lg_orb_search_en:1), which the rule exempts. Only mentor 37/54, gm 73/126,
-     amethyst_previous_days 19/78/87, garnet/malachite anteauction 33 and malachite_previous_days 32, plus ODT p345, are bare "the Orb".
-     Missed: FR ODT p345 "la quête de l'Orbe". Corrected rule: lowercase "orb" in running text, including "Loyd Georges' orb"; keep the
-     capital only for Divine/Spiritual Orb and the two headings (gm manual l.123, lg_orb_search l.1).
-  => FINAL: NEW rule, simpler than both: in EN lowercase every bare "orb(s)", singular and plural, including "Loyd Georges' orb" and
-     the two headings (gm_en:123, lg_orb_search_en:1; the FR heading lg_orb_search_fr:1 already reads "L'orbe de Loyd Georges" and
-     all other EN headings are sentence case); capital only inside names (Divine Orb(s), Three Divine Orbs, Spiritual Orb,
-     Alpha/Beta/Gamma Orb). The first agent's 26-line EN list plus ODT p345 (FR "l'Orbe" and EN "the Orb") is complete; the second's
-     bare-"Orb" list missed garnet.anteauction:35 and malachite.anteauction:31. Rewrite glossary l.258-260 and l.2587-2589 (which
-     contradicts itself) to match; FR lowercasing is optional.
-
-- The duplicated "One of the rare visitors..." passage (dragons_role / complement_for_diakons) is now word-for-word identical in English; edit both together.
-  => RECOMMENDATION: the source is the macro maupertuis_archives_quick_tour (miscellaneous/complement_for_diakons_{fr,en}.rst:5-21, reused by
-     the explorers/spies/parcival complements); players/dragons_role_{fr,en}.rst:170-183 is a copy already marked "{# DUPLICATA FIXME #}".
-     Replace those 14 lines (both languages) by "<{ maupertuis_archives_quick_tour }/>" (macros are global in rpg_sheet_generator.py). Caveat:
-     the macro heading uses "~~~" while dragons_role uses "====" underlines, so check the rendered PDF level; if unacceptable, keep the copy,
-     drop the FIXME, and keep editing both together.
-  => VERIFIED: CORRECTED: the EN copy is identical except for the underline, but the FR copy is not: the macro heading has "des maupertuis",
-     while dragons_role has "Maupertuis". Heading level: dragons_role uses "#" for the title and "=" for sections, with no "~" anywhere, so
-     the macro's "~~~" heading would become a 3rd level under "Votre arrivée en jeu", not a sibling. Better fix: move the heading out of the
-     macro (body only, l.10-19) and let each of the 5 callers per language write its own heading with its own underline. Macro
-     registration is confirmed (rpg_sheet_generator.py:211-218).
-  => FINAL: NEW: deduplicate, but a plain macro call would FAIL the build: player_dragons_sheet uses "#", "=" and "+" underlines
-     only, so the macro's "~" heading makes docutils report "(ERROR/3) Inconsistent title style: skip from level 3 to 5", which
-     rpg_sheet_generator.py:536-545 treats as fatal. Lightest fix: give the macro a parameter ({% macro
-     maupertuis_archives_quick_tour(underline="~") %}, heading underline {{ underline * 55 }}) and call <{
-     maupertuis_archives_quick_tour underline="=" }/> from dragons_role (jinja_macro_tags supports key=value args); otherwise the
-     second agent's "heading outside the macro" works (4 callers per language today, 5 with Dragons).
 
 - Props in French for English players: the Purifiers password ("sanctuaire", given as "sanctuary" in an English GM comment) is on a physical ivory prop, and the card-game message prop ("brothers meet tomorrow evening at the purineur") is in French. => Make English props.
   => RECOMMENDATION: the password is never typed anywhere (no Anthropia/messaging check; the Purifiers contact is a GM-played phone), so
@@ -438,189 +93,14 @@ Doubts from the third full review (by game area)
      established); add the checklist_en:213 GM note in any case. Extend the fix to every French plaintext decoded with the "secret
      code decipherers" (checklist l.178): ODT GM comments p469, p471, p473 (card game) and p475 (= checklist l.145 "MO nous
      couvre"): re-encode in EN or give the GM the translation.
-
-- GM manual: "antique canister" (~line 431) may be the "Tectonic Canister" item, and "Akarith grimoire (sold at auction)" (~line 445) may be the "Akarith Scroll" auction item. => Check, and use the item names if so.
-  => RECOMMENDATION: (Mindstorm GM manual l.385/396.) Canister: yes, it is the "Bonbonne tectonne" lot D (anthropia_game_data_overrides.yaml:361-365,
-     game_items.yaml:131-139; glossary "Tectonic Canister") -> FR "la bonbonne antique (la « Bonbonne tectonne ») vendue aux enchères" /
-     EN "the antique canister (the \"Tectonic Canister\" lot) sold at auction". Grimoire: NOT the Akarith Scroll (void_scroll, absent from the
-     Mindstorm auction) but lot F sacred_book = "Livre Sacré Yodique" (overrides l.371-374, game_items.yaml:387-395, "grimoire de runes akarites")
-     -> FR "le grimoire akarite (le « Livre Sacré Yodique » vendu aux enchères)" / EN "the Akarith grimoire (the \"Sacred Yodic Book\" sold at
-     auction)". Also fix FR typos on l.396 "bourse de cuire", "Lody georges". WIP_translations/auction_en/game_items.yaml:138 "Tectonne large
-     bottle" should become "Tectonic Canister".
-  => VERIFIED: OK (the sacred_book identification is confirmed: its rune translation, overrides l.63-69, is the potion recipe). Addition: the
-     glossary has no "Livre Sacré Yodique -> Sacred Yodic Book" row (already used in WIP_translations/auction_en/game_items.yaml:394): add it.
-  => FINAL: First recommendation stands (canister = lot D basket_bottle "Bonbonne tectonne", overrides l.361-364; grimoire = lot F
-     sacred_book "Livre Sacré Yodique", overrides l.371-374, its rune translation l.63-69 is the potion recipe; FR typos gm_fr:396),
-     plus the second agent's missing glossary row "Livre Sacré Yodique -> Sacred Yodic Book". Nuance: the object is a glass demijohn
-     in a wicker basket (overrides l.115-121), so "demijohn" (glossary l.3896) would fit better than "canister" if the item is ever
-     renamed.
-  => PARTLY DONE (0854ccf, 2e8abf6): GM manual {fr,en} now names the lots ("Bonbonne tectonne"/"Tectonic Canister", "Livre Sacré Yodique"/"Sacred Yodic Book"), FR typos of gm_fr:396 fixed, glossary row "Livre Sacré Yodique" added; REMAINING: script_fixtures/WIP_translations/auction_en/game_items.yaml:138 still "Tectonne large bottle" (-> "Tectonic Canister").
-
-- Parcival Alchemist's gender varies in French (ODT GM comment and avatar_druid_sheet: feminine; GM manual ~line 1153 and role sheet "parfait autodidacte": masculine). As a player role, "they" may be safest. => Pick one.
-  => RECOMMENDATION: player role -> make the few gendered passages neutral instead of choosing: npcs/avatar_druid_sheet_{fr,en}.rst:72
-     "dans les recettes à trouver"/"in the recipes to be found"; Archives clue ODT GM comment p35 FR "la lymphe déjà en sa possession" /
-     EN "the lymph already in the Alchemist's possession" (EN currently says "he", FR "elle"); ODT p1 FR "même si tous ne lui sont pas
-     familiers"; miscellaneous/planning_of_prophecies_fr.rst:11 "si le joueur ou la joueuse n'est pas à l'aise" (EN already "they");
-     gamemaster_manual_archives_en.rst:1153 "one of their potions"; players/parcival_alchemist_role_fr.rst:6 "en véritable autodidacte".
-     Same issue for GM manual FR l.722 "La joueuse Oracle" -> "Le joueur ou la joueuse Oracle".
-  => VERIFIED: OK. Precision: avatar_druid_sheet_en.rst:72 also says "she finds", so both languages need the fix. No other gendered reference
-     to the Alchemist was found.
-  => FINAL: First recommendation stands with the second's precision: neutralise avatar_druid_sheet_{fr,en}.rst:72 (FR "elle", EN
-     "she"), ODT p35 (FR "elle", EN "he"), GM manual EN l.1153 "his" -> "their"; EN planning l.11 and EN p1 are already neutral. The
-     FR "en véritable autodidacte" and planning_fr l.11 changes are optional (FR role sheets use the generic masculine throughout).
-     GM manual FR l.722 "La joueuse Oracle" vs planning_details_for_game_fr.rst:16 "au joueur Parcival Oracle": make neutral too.
-  => PARTLY DONE (6ce5c34): neutral wording in avatar_druid_sheet_{fr,en}.rst:72, ODT p35 (FR and EN), GM manual EN l.1153 "their", GM manual FR l.722 "Le joueur ou la joueuse Oracle"; REMAINING: miscellaneous/planning_details_for_game_fr.rst:16 "au joueur **Parcival Oracle**" (and l.4 "le joueur Oracle") still masculine.
-
-- Glossary: add rows for "Ère Tectonne" (auction "Tectonic Era", mindstorm clue "tectonic era") and "Expertise biophysique" (auction "Biophysical appraisal"); add the symbol keys only used in YAML checklists (archives magic/analysis codes, maupertuis_father_blue_fake_book_code, mindstorm lg_vault_secret_code).
-  => RECOMMENDATION: add by hand (the "generated by the merge script" note in the symbol table refers to a script absent from the repo).
-     Rows: Shared Pangea section ~l.196 "Ère Tectonne / ère tectone / pré-tectonne -> Tectonic Era / pre-Tectonic" (capitalised era name;
-     then harmonise Mindstorm ODT EN p7 "tectonic era" and amethyst_previous_days_en.rst:24 "pre-tectonic"; FR spelling drifts tectone/
-     tectonne/Tectonne in gamemaster_manual.yaml:169/1489, messaging/news.yaml:60/98 -> pick "tectonne"). Mindstorm/Auction section ~l.2047
-     "Expertise biophysique (d'un objet) / Service d'expertise biophysique -> Biophysical appraisal (of an object) / Biophysical appraisal
-     service", cross-referenced to the existing "Analyse biophysique -> Biophysical Analysis" row (Anthropia ability). Symbol table: 6
-     analysis_code_* (srf, ltx, yal, jsb, xep, fzk), 10 magic_code_* (bte, vbr, bst, kxp, pyw, duy, ecz, adp, hfv, arx),
-     maupertuis_father_blue_fake_book_code = 425 (all FR = EN, from mysteryparty_archives/gamemaster_assets_checklist*.yaml), and
-     lg_vault_secret_code FR "603-109 (six sans Troie... sang neuf)" / EN "603-109 (sick-oh-free... won-oh-nine)" just before
-     lg_vault_secret_code_location (~l.4810).
-  => VERIFIED: CORRECTED: the code lists are complete and exact (the 18 missing keys; all values match), but other facts are wrong.
-     FR drift: "tectone" also occurs in messaging/abilities.yaml:177 and messaging/player_instructions.yaml:35/:143 ("Ere Tectone"), while
-     gamemaster_manual.yaml:1489 and news.yaml:98 already say "Tectonne" (their only drift is the accent/capital, as in
-     doctor_honoris_causa_and_nazur.yaml:122/365). Other variants: "prétectonne" (news.yaml:146, amethyst_previous_days_fr:24) and
-     "ante-tectonne" (doctor_honoris:448). "tectonne" is still the right pick (about 20 occurrences). The alphabetical slot for "Expertise
-     biophysique" is about l.2107-2110 (l.2047 is "Eléments de droit sabarite"), and the "Analyse biophysique" row is l.1639. Copy the FR
-     code value verbatim ("six sans Troie...sang neuf", no space after "..."). The merge-script note is at l.4528.
-  => FINAL: First recommendation as corrected by the second stands (keep "tectonne"; the 18 symbol keys and values are exact;
-     "Analyse biophysique" row l.1639; merge-script note l.4528; lg_vault_secret_code before l.4810). Precisions: the "Ère Tectonne"
-     slot in the shared section is l.207 (after "Elixir Berserk"), the "Expertise biophysique" slot l.2110 (after "Expert en
-     histoire yodique"); one more "Tectonne" at doctor_honoris_causa_and_nazur.yaml:100; gamemaster_manual_en.yaml:169/1489 already
-     say "Tectonic Era".
-  => PARTLY DONE (2e8abf6): glossary rows "Ère Tectonne" (l.207-209) and "Expertise biophysique", and the 18 symbol keys (analysis_code_*, magic_code_*, maupertuis_father_blue_fake_book_code, lg_vault_secret_code) added; REMAINING: EN "pre-tectonic" (amethyst_previous_days_en.rst:24) and "tectonic era" (Mindstorm EN ODT p7) -> "pre-Tectonic"/"Tectonic Era", and the FR "tectone"/"Ere" drift (gamemaster_manual.yaml:169, messaging/abilities.yaml:177, news.yaml:60, player_instructions.yaml:35/143).
-
-- Capitalisation of named items follows the French case rather than the glossary ("orb"/"Orb", "Sabarith Law/law", "Akarith lexicon/Lexicon", metal detector, magnetic unlocker, Herculean strength...). => Reword the glossary convention to "capitalised when the item or ability is designated by its name", and harmonise.
-  => RECOMMENDATION: current EN de facto mirrors FR (heading capitalised, prose lowercase) while glossary l.62-64 says "named items and
-     abilities stay capitalised in running text". Reword l.62-64 to: capitalised whenever the text designates the unique object/ability by
-     its name (heading, checklist entry, or definite reference: the Leather Purse, the Metal Detector, the Magnetic Unlocker, the Akarith
-     Lexicon, Herculean Strength), lowercase for generic/descriptive use (a metal detector, an Akarith lexicon, Sabarith law as a legal
-     system - capital only in the titles "Elements/Gems of Sabarith Law"); Loyd Georges' orb stays "the orb" except Divine Orb(s), Spiritual
-     Orb and the title "Loyd Georges' Orb". Then harmonise EN only: Metal Detector in spy_sounder_role_en.rst:16,24, archives checklist_en
-     l.430/467/507, gamemaster_manual_archives_en.rst:950/1062/1154; Magnetic Unlocker in archives checklist_en l.373/470; "Modern Akarith
-     Lexicon" in mindstorm checklist_en l.177; "the Orb" -> "the orb" in gamemaster_manual_en.yaml:751, mentor_briefings_all_factions_en.rst:37/54,
-     gamemaster_manual_mindstorm_en.rst, garnet/malachite.anteauction.standalone_en.rst, amethyst_previous_days_en.rst:78,
-     malachite_previous_days_en.rst:32; "Sabarith Law" -> "law" in gamemaster_planning_details_en.rst:75, gamemaster_manual_mindstorm_en.rst:523,
-     judicial_penalties_overview_en.rst:9, shark_missions_en.rst:17. Leave FR as is.
-  => VERIFIED: CORRECTED: the glossary l.62-64 quote is exact and the rule is good, but the EN hit list contradicts it. These uses are
-     possessive, indefinite or descriptive and stay lowercase under the new rule: spy_sounder_role_en:16/24 "Your metal detector",
-     gamemaster_manual_archives_en:1154 "their metal detector", checklist_en:373 "Spare magnetic unlocker", :430, :467 "Longruner metal
-     detector". Only gm 950, gm 1062 and checklist_en:470/507 qualify. Missed: amethyst_previous_days_en:87 "this whole Orb business";
-     plural "the Orbs" (= the Divine Orbs) at gamemaster_manual_en.yaml:301/316/386/675/690/1178, which should stay capitalised; and the
-     glossary rows l.258-260 and l.2587-2588, which prescribe "Orb" and must be rewritten too. shark_missions_en:17 "the Sabarith Law
-     document" means the "Elements of Sabarith Law" sheet: write that title instead of lowercasing. See also the Orb entry above, whose
-     "Loyd Georges' Orb" exception conflicts with its own list.
-  => FINAL: Reword glossary l.62-64 as proposed, but define "name" as an invented or title-like name (World Scanner, Leather Purse,
-     Tectonic Canister, Akarith Lexicon, Elements/Gems of Sabarith Law), while common nouns stay lowercase in prose (metal detector,
-     magnetic unlocker, UV lamp - already lowercase in glossary l.980/2386 -, Herculean strength), with a capital only as role-sheet
-     ability headings (spy_sounder_role_en:13, spy_lockpicker_role_en:22, parcival_woodsman_role_en:9; say so in glossary rows
-     l.659-664/836-838). Hence no Archives prose edits (the definite/indefinite split would put "The Metal Detector" :507 next to
-     "the broken UV lamp or metal detector" :430); mindstorm checklist_en:177 -> "Modern Akarith Lexicon"; "Sabarith law" at
-     planning_en:75, gm_en:523, judicial_penalties_en:9; shark_missions_en:17 -> the "Elements of Sabarith Law" document; orbs as in
-     the Orb entry above (also gamemaster_manual_en.yaml 284/301/316/361/386/675/690/751/1178 "the Orbs" -> lowercase, since 14
-     lines of that file already write "the orbs"; capitalise the Alpha/Beta/Gamma orb names there, l.759-802/1700/1721).
-  => PARTLY DONE (0854ccf): mindstorm checklist_en:177 "Modern Akarith Lexicon", "Sabarith law" at planning_en:75, gm_en:523, judicial_penalties_en:9, shark_missions_en:17 -> the "Elements of Sabarith Law" document; REMAINING: reword glossary l.62-64 (and the ability-heading notes), lowercase the EN orbs incl. gamemaster_manual_en.yaml "the Orbs" and capitalise the Alpha/Beta/Gamma orb names (see the Orb entry above).
-
-- Cromlech: the druid speaks to the psykers "(in French)" / "in broken French" (druid_spectre_en.rst:26, game_flow_en.rst:103/165/190). In an English session this presumably means the players' language. => Decide.
-  => RECOMMENDATION: the game is set in Lyon around 1900 (paranormal_detectives_fr.rst:7), the druid natively speaks Celtic, and "(en
-     français)" is a stage direction marking the one register the psykers understand via the mental link. EN only (FR unchanged):
-     druid_spectre_en.rst:26 "(in the players' own language)"; game_flow_en.rst:103 and :165 "(in the players' language)"; :190 "(now in
-     broken, halting speech the players can understand)"; update glossary l.3517 "in broken French" accordingly. Alternative: keep "French"
-     and add one GM note in gamemaster_manual_en.rst that "French" means the language of the session.
-  => VERIFIED: OK (glossary row is l.3515-3517). Optional: at game_flow_en:190, "(now in broken English)" is a shorter natural equivalent.
-  => FINAL: First recommendation stands (EN only: "the players' own language" at druid_spectre_en.rst:26 and
-     game_flow_en.rst:103/165, "now in broken English" at :190; glossary row l.3516-3518). The author must also settle a FR/EN
-     source inconsistency: druid_spectre_{fr,en}.rst:38 has the druid harangue the final scene "en langue celte"/"in the Celtic
-     tongue" while game_flow_{fr,en}.rst:190 says "en français approximatif"/"in broken French".
-  => PARTLY DONE (2e8abf6): EN "the players' (own) language" at druid_spectre_en.rst:26 and game_flow_en.rst:103/165, "broken English" at :190, glossary row updated; REMAINING: author to settle druid_spectre_{fr,en}.rst:38 "en langue celte"/"in the Celtic tongue" vs game_flow_{fr,en}.rst:190 "en français approximatif"/"in broken English" for the final harangue.
-
-- Auction (~line 1696, [alpha]): French "lui faire demander" was read as "have the players request Waden's digital friendship in her name" (from Cynthia's hacked account). => Confirm.
-  => RECOMMENDATION: reading confirmed by the manual's own walkthrough (gamemaster_manual{,_en}.yaml:731-732: the hacker must send Waden a
-     "friendship request" in Cynthia's name). Tighten EN l.1696 to "then have the players send Waden a \"Digital Friendship\" request from her
-     hacked account" and use the glossary capitalisation "Digital Friendship" also at l.207/731; FR optionally "puis leur faire demander, au nom
-     de Cynthia, l'« amitié numérique » de Waden".
-  => VERIFIED: CORRECTED: the hacked-account friendship request is only at gamemaster_manual{,_en}.yaml:731 (l.732 is the second-chance
-     encrypted archive). l.731 says "demande d'amitié"/"friendship request" (generic, not the "Digital Friendship" feature name), so leave
-     it; the glossary capitalisation (l.1630-1632) applies at l.207 and l.1696 only. The current EN l.1696 ("in her name") is already
-     correct, so the rewording is optional.
-  => FINAL: Reading confirmed; EN l.1696 is already correct, rewording optional. Leave the generic "friendship request" at
-     gamemaster_manual{,_en}.yaml:731 (and the end of l.732, which also mentions it). Capitalising "Digital Friendship" (glossary
-     l.1630-1632) at l.207/1696 is optional and, if done, should also cover
-     mysteryparty_mindstorm/common_anthropia_account_summary_displayer_en.rst:25.
-
+  => PARTLY DONE (cba1e14..b794ef8): gamemaster_assets_checklist_en.yaml:213 GM note (ivory object hides the French "sanctuaire", GM accepts "sanctuary") and :198 note (card-game message is the French FRERES RDV DEMAIN SOIR AU PURINEUR + translation); EN ODT GM comments p471/p473/p475/p630 give the French plaintexts (p469 is the English acrostic, no French there)
+  => BLOCKED ON AUTHOR: inspect the ivory object and make an EN variant if it spells "sanctuaire"; make an EN coded card for the Purifiers message (and EN cipher pictures, see the Ventes Privées entry)
 
 Doubts from the FR/EN PDF comparison
 ------------------------------------
 
-- Orb gender in French: Descent's master script is feminine (descent_rpg/master_script_fr.rst:328 "L'orbe est bien en évidence dans sa
-  cachette, posée sur un lingot d'or. Elle réagit violemment..."), whereas the Auction manual insists on the masculine
-  (gamemaster_manual.yaml:248 'les fameuses "Trois Orbes Divins" (oui, c'est masculin...)'; also :706 "cet orbe",
-  master_script_fr.rst:758/787/801 "un orbe").
-  => Pick one.
-  => SUGGESTION: masculine (dictionary gender, majority use): master_script_fr.rst:328 "posé... Il réagit... le prendre...".
-
-- Cross-game names between Descent and Auction: the grate is "Filtre de l'Orthodoxie"/"Filter of Orthodoxy"
-  (descent_rpg/master_script_{fr,en}.rst:311, glossary l.4136-4137) but "Protectrice de l'orthodoxie"/"Protector of Orthodoxy"
-  (gamemaster_manual{,_en}.yaml:770, "surnommée"); the stone lantern goes in the "puits"/"well" (master_script_{fr,en}.rst:326/441/447) but
-  in the "fontaine"/"fountain" (gamemaster_manual{,_en}.yaml:771).
-  => Harmonise.
-  => SUGGESTION: follow Descent, where the puzzle is played: "Filtre de l'Orthodoxie" and "puits"/"well" in the Auction manual.
-
-- FR style in Auction/Descent: unaccented capitals ("Equipements" descent_rpg/player_sheet_template_fr.rst:37, "Enigme"
-  master_script_fr.rst:326, "Elixir" master_script_fr.rst:302/318/455/469 and descent_rpg_data.yaml:106, "A l'inverse"
-  gamemaster_manual.yaml:240/883/1885, "PREMIERE" gamemaster_manual.yaml:1652); "héliossars" (gamemaster_manual.yaml:1018-1027, 1168) vs
-  "héliossares" (:1172) in the Auction manual.
-  => Accent the capitals (É, À, PREMIÈRE) and pick one plural spelling (see also the Mindstorm style entry).
-
-- Docutils French smart quotes (docs/docutils.conf:6 "smart_quotes = yes") render 'single quotes' as “ ” (nested-quote style) in the FR
-  PDFs: typographically acceptable, but sources must use double quotes wherever « » is wanted.
-  => Decide whether to turn single-quoted FR passages into double quotes (all games).
-
-
 Build toolchain (docs/)
 -----------------------
-
-- appointments/yodic_council_interviews_en.rst and missions/transfiliation_attempt/dorian_mission_en.rst do
-  replace('**Un ', '.. ') on texts of the game data dump: this only works because the dump is French.
-  => Adapt these replacements when an English dump (_initial_game_data_dump_en.yaml) is created.
-  => RECOMMENDATION: the chain (appointments/yodic_council_interviews_{fr,en}.rst:41, missions/transfiliation_attempt/dorian_mission_{fr,en}.rst:32/37)
-     turns the bold portrait caption "**Un archevêque akarite :**" (dump l.23308, l.23456) into an RST comment and kills the following
-     ".. image::" directive; with an EN dump ("**An Akarith archbishop:**") the caption would survive as an orphan bold line. Replace the six
-     filter chains by one language-neutral Jinja filter in docs/mysteryparty_common_utils.py (e.g. strip_pychronia_page_markup: remove [BR],
-     demote "="/"#" underlines, drop ".. image::" directives with their option block via a regex, and drop a bold paragraph only when it
-     immediately precedes an image directive), registered on the Jinja env in build_mindstorm_pdfs.py.
-  => VERIFIED: CORRECTED: the chains and the dump lines are right (l.23308 yodic_quotes, l.23456 yodic_theology), but replace('**Un ', '.. ')
-     does not kill the image directive: replace('image::','brokenimage') already turns it into an RST comment (see
-     output_mindstorm/*/all_phone_appointments.rst:154); '**Un ' only comments out the caption. The conclusion stands (an EN caption would
-     survive as an orphan bold line) and the proposed filter is sound. Register it on jinja_env at build_mindstorm_pdfs.py:43. Note that the
-     current replace('=')/replace('#') hit every such character, not only underlines.
-  => FINAL: First recommendation as corrected by the second stands: replace('image::','brokenimage') already comments the image
-     directive out and '**Un ' only removes the caption; replace the six chains (yodic_council_interviews_{fr,en}.rst:41,
-     dorian_mission_{fr,en}.rst:32/37) by one language-neutral filter registered after jinja_env creation
-     (build_mindstorm_pdfs.py:43). Precision: dump l.23456 is "**Un haut-judicateur akarite :**" (l.23308 is the "archevêque").
-
-- Clue exports always use LibreOffice's default port (2002), so two clue exports can't run at the same time.
-  => RECOMMENDATION: docs/mysteryparty_common_utils.py:197-198 calls unoconv.py without "-p" (unoconv.py default port 2002 at l.553, option
-     -p/--port l.650). Minimal fix: in _generate_clues_pdfs_from_main_odt_document pick a free port (bind socket to port 0) and pass "-p <port>",
-     plus a per-process -env:UserInstallation profile so two soffice instances can start. Cleaner: drop unoconv and call
-     "soffice -env:UserInstallation=file:///<tempdir> --headless --convert-to pdf:writer_pdf_Export:{ExportNotes:false,...} --outdir ..." (JSON
-     filter options need LibreOffice >= 7.4), then rename to _all_ingame_clues.pdf; keep the existing check that no /Text annotations were
-     exported (l.201-203). Expose --port in rpg.parse_build_arguments for manual override.
-  => VERIFIED: OK, with precisions: the cmd is at mysteryparty_common_utils.py:195-196 (run at l.199, annotation check l.201-202). Mechanism:
-     a second run connects to the first run's listener, which the first run shuts down when it ends (unoconv.py:1258-1269), so both a
-     separate port and a separate profile are needed. unoconv has --user-profile (l.685), but l.844 builds "file://"+realpath, which gives
-     a malformed URL on Windows. Prefer the direct "soffice --convert-to" route, which needs no port at all.
-  => FINAL: First recommendation as refined by the second stands: prefer the direct "soffice --convert-to" route (no port), but keep
-     a per-run -env:UserInstallation profile (else soffice hands the job to any running LibreOffice) built with
-     pathlib.Path(tmp).as_uri() (avoids the malformed "file://"+realpath of unoconv.py:844). Line refs confirmed: cmd
-     mysteryparty_common_utils.py:195-196, run l.199, check l.201-202.
-
 
 
 ALREADY TREATED
@@ -744,6 +224,124 @@ Archives (script_fixtures/mysteryparty_archives/)
   => DONE (6ce5c34): gamemaster_manual_archives_en.rst:1297 now "a small plot of ground"; FR unchanged.
 
 
+- Gamemaster manual (line ~602): the French speaks of a "biological" injury, where the rules of the
+  living/dead only know physical, magical and sacred attacks, and the fact key next to it says
+  "cursed_skull_and_bones_give_sacred_injuries". The English kept "biological".
+  => Check whether "sacred" was meant.
+  => RECOMMENDATION: yes, "sacred" was meant: GM manual l.582 (cursed remains -> spiritual/sacred injuries, same fact key), l.600 and l.1445
+     (Thief lore: touching the sinner's skull or bones inflicts sacred injuries) all contradict l.602, which is the only "biological" line.
+     Change gamemaster_manual_archives_{fr,en}.rst:602 to "S'il touche une dépouille maudite, comme un crâne sonore ou les ossements...:
+     blessure sacrée" / "If they touch cursed remains, such as a sounding skull or the bones...: sacred injury" (and keep l.580: merely
+     bewitched objects -> biological). Author must still confirm the interplay with checklist l.339 (Thief skull = "NEGATIVE bewitchment",
+     which per diakon_dispeller_role l.45 would imply a biological injury) - probably: Dispeller detects it, only the Duchess heals it.
+     Also "sacrée"/"spirituelle" are used as synonyms (l.582 vs 600/627, glossary l.452): say so in the glossary or standardise.
+  => VERIFIED: CORRECTED: the conclusion stands, but l.600 is about a phantom's touch giving a sacred injury, not about skulls or bones, so it
+     does not contradict l.602. The real corroboration is l.582 and l.1445 (both fact cursed_skull_and_bones_give_sacred_injuries). l.580's
+     fact key cursed_objects_give_magic_and_not_spiritual_injuries supports the proposed "dépouille maudite" vs "objet envoûté" split. The
+     checklist l.339 vs diakon_dispeller_role_{fr,en}.rst:45 tension is real: the author must confirm.
+  => FINAL: First recommendation as corrected by the second: gamemaster_manual_archives_{fr,en}.rst:602 -> "dépouille maudite... :
+     blessure sacrée"/"cursed remains... : sacred injury" (corroborated by l.582 and l.1445, same fact key; l.600 is about a
+     phantom's touch). The Dispeller sheet already receives both l.582 (via injury_types_knowledge, diakon_dispeller_role_en.rst:98)
+     and its l.45 rule, so the split is coherent; only the GM-only checklist l.339 "NEGATIVE bewitchment" label needs the author's
+     confirmation. Glossary l.452: state sacrée = spirituelle.
+  => PARTLY DONE (6ce5c34, 2e8abf6): gamemaster_manual_archives_{fr,en}.rst:602 now "dépouille maudite... blessure sacrée"/"cursed remains... sacred injury"; glossary says sacrée = spirituelle; REMAINING: author to confirm the GM-only "NEGATIVE bewitchment" label of the Thief's skull (checklist{,_en}.yaml:339).
+  => DONE (cba1e14..b794ef8): remaining GM-only label settled without changing the Dispeller rule: gamemaster_assets_checklist{,_en}.yaml:339 now reads "(envoûtement complexe NEGATIF ; au toucher, blessure SACRÉE et non biologique, cf. règles des blessures)" / "(complex NEGATIVE bewitchment; touching it gives a SACRED injury, not a biological one, see the injury rules)", so the Dispeller still detects the skull as negative while the injury follows GM manual l.582/l.602/l.1445
+
+- The sentence "One of the rare visitors..." is duplicated in two archives documents.
+  => Check whether this repetition is wanted.
+  => RECOMMENDATION: wanted content-wise (every faction gets the same in-world overview through its complement; the Dragons have no complement
+     so it was pasted into their role sheet and flagged "{# DUPLICATA FIXME #}" at players/dragons_role_{fr,en}.rst:170). See the detailed
+     recommendation under "The duplicated 'One of the rare visitors...' passage" below (replace by the macro call, or keep and drop the FIXME).
+     Also fix the heading case in miscellaneous/complement_for_diakons_fr.rst:7 ("des maupertuis" -> "des Maupertuis").
+  => VERIFIED: OK. Precision: the marker is "{# DUPLICATA FIXME of ... #}" in FR but "{# DUPLICATE FIXME of ... #}" in EN; the dragons copy
+     and the EN macro already capitalise "Maupertuis"; build_archives_pdfs.py:296-299 has no Dragons complement.
+  => FINAL: Wanted content (the Dragons have no complement, build_archives_pdfs.py:296-299); dedupe as per the detailed entry below,
+     noting that a plain "<{ maupertuis_archives_quick_tour }/>" in dragons_role would break the PDF build (see there). Fix "des
+     maupertuis" -> "des Maupertuis" in complement_for_diakons_fr.rst:7 (only place; bodies l.10-19 vs dragons l.174-183 are
+     otherwise byte-identical in both languages).
+  => PARTLY DONE (6ce5c34): heading "des Maupertuis" fixed in complement_for_diakons_fr.rst:7; REMAINING: deduplicate players/dragons_role_{fr,en}.rst:170-183 (still flagged "DUPLICATA/DUPLICATE FIXME"), see the detailed entry in the third-review section.
+  => DONE (cba1e14..b794ef8): deduplicated as per the FINAL of the detailed entry: macro maupertuis_archives_quick_tour now takes an underline parameter (complement_for_diakons_{fr,en}.rst:5/8, default "~"), and players/dragons_role_{fr,en}.rst replace their 14 copied lines by <{ maupertuis_archives_quick_tour underline="=" }/> (no DUPLICATA/DUPLICATE FIXME left); builds OK
+
+- Cryptex micro-text decoys (Thief's green wallet, gamemaster_assets_checklist{,_en}.yaml:338; EN clue ODT "THE CRYPTEX CODE IS NOT:
+  KNOWLEDGE"): the EN decoy has 9 letters, whereas the FR decoys DJINNS/SAVOIR have 6 letters like the real code GENIAL (checklist:217), so
+  on a 6-letter cryptex the EN decoy is ruled out at a glance.
+  => Replace it by a 6-letter word.
+  => SUGGESTION: "WISDOM".
+  => DONE (cba1e14..b794ef8): EN ODT p358 decoy "KNOWLEDGE" -> "WISDOM" (6 letters like GENIAL/DJINNS); checklist_en.yaml:338 mentions no decoy word, nothing else to change
+
+- recipe_pyrolitis_tincture (EN clue ODT, docs/build_archives_pdfs.py:236): the AutoREALM handwriting font renders "w" and "k" oddly, which
+  hurts "with", "drink", "newt" ("1 eye of newt", "Combine only in a copper container with an anti-explosion enchantment", "Do not drink
+  without prior dilution").
+  => Reword to avoid w/k, or use another font for EN.
+  => SUGGESTION: "1 eye of toad", "Combine only in a copper pot under an anti-explosion enchantment", "Dilute before use".
+  => DONE (cba1e14..b794ef8): EN ODT p21/p23/p25 reworded without w/k: "1 eye of toad", "Combine only in a copper pot under an anti-explosion enchantment.", "Dilute before use." (all shorter than FR); clue pages unchanged
+
+- Octave's travel bag: the checklist puts it under the forbidden floor's rubble ("Set of gems in a travel bag, to be dug out with explosives
+  from rubble on the forbidden floor", gamemaster_assets_checklist{,_en}.yaml:369) and under the authorised floor's rubble ("70 kashes with
+  the GM, representing Octave's travel bag buried under the rubble of the authorised floor", :612), with the same hint
+  travel_bag_with_money_under_far_rubbles.
+  => Pick one floor (and one content: gems or 70 kashes).
+  => DONE (cba1e14..b794ef8): authorised floor and money chosen (2 of the 3 tagged items and Octave's sheet l.75 "un peu d'argent" agree: tokens in rockfall E2 far from the buffet, 70 kashes with the GM): gamemaster_assets_checklist{,_en}.yaml:369 now "Sac de voyage d'Octave avec les jetons en métal (voir éboulis E2), à exhumer à l'explosif depuis les éboulis de l'étage autorisé" / "Octave's travel bag with the metal tokens (see rockfall E2), to be dug out with explosives from the rubble of the authorised floor"
+
+- Magnetism/UV detector: gamemaster_manual_archives_fr.rst:947 "Le **détecteur de magnétisme et d'UV** donnent un code" (singular subject,
+  plural verb) vs EN :947 "The **magnetism and UV detectors** give a code".
+  => One device or two?
+  => SUGGESTION: probably two (UV torch and magnetic detector are separate props), so FR "Les **détecteurs de magnétisme et d'UV** donnent".
+  => DONE (cba1e14..b794ef8): two devices (UV lamp and metal detector are separate props): FR :947 "Les **détecteurs de magnétisme et d'UV** donnent", EN unchanged
+
+- FR wording: the prophecy "Intuition sur la Bête et le Mage" (gamemaster_manual_archives_fr.rst:806, macro planning_of_prophecies) says
+  "Vous sentez aussi une vieille ancienne endormie", which reads oddly (maybe "une vieille âme endormie"); the injury rule :602 says "les
+  ossements qui sont avec" (better "qui vont avec", as EN "the bones that go with it").
+  => Confirm and fix.
+  => DONE (cba1e14..b794ef8): gamemaster_manual_archives_fr.rst:806 "une vieille âme endormie" (EN :806 "an old sleeping soul"), :602 "les ossements qui vont avec"
+
+- Clivra poem (miscellaneous/ingame_speeches_fr.rst:65, alexandrine version of the buffet speech): "Eccueillons sans plus attendrE nos
+  invités": deliberate wordplay or typo?
+  => Author to confirm.
+  => SUGGESTION: "Accueillons sans plus attendre nos invités," unless it is a deliberate wink.
+  => DONE (cba1e14..b794ef8): treated as typos (no discernible wordplay; the EN already renders the line plainly): "Accueillons sans plus attendre nos invités,"; the author may revert if the odd E's were a wink to the poem's author
+
+- EN wording to confirm: (a) the Whispering Box riddle is "Chat-lu-mot" in FR (gamemaster_assets_checklist.yaml:163/509) and the "Blowtorch"
+  riddle in EN (checklist_en.yaml:163/509): consistent with the BLOWTORCH decision of the Whispering Box entry, nothing to change; (b)
+  "Thorium steam potion" (checklist_en.yaml:251, hint potion_thorium_steam_on_alchemy_table) is not in the glossary, and the EN Pyrolitis
+  recipe says "3 drops of Thorium vapour"; (c) the EN GM manual links a French Wikipedia page (gamemaster_manual_archives_en.rst:1081,
+  https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres).
+  => Add a glossary row "vapeur de Thorium" with one EN wording (steam or vapour) used in both places, and link an English page or mark the
+     link "(in French)".
+  => DONE (cba1e14..b794ef8): (a) nothing to change; (b) "vapour" chosen (British, and already in the Pyrolitis recipe clue): checklist_en.yaml:251 "Thorium vapour potion", glossary row "Potion de vapeur de Thorium / vapeur de Thorium -> Thorium vapour potion / Thorium vapour" added; (c) gamemaster_manual_archives_en.rst:1081 link marked "(..., in French)" (no English Wikipedia page for that phrase)
+
+- Typography: the Archivist heading has a space before ")" (gamemaster_manual_archives_{fr,en}.rst:334 "archiviste )"/"archivist )"); the
+  Ankou traits line ends with a trailing comma (gamemaster_manual_archives_{fr,en}.rst:420 "bonne volonté,"/"good will,", macro
+  god_ankou_character_summary); the Thief's astrolabe formula renders with a space before the period, because of the space in '** {% fact
+  "thief_knows_teleportation_device_formula" %}.' (npcs/phantom_thief_sheet_{fr,en}.rst:34).
+  => SUGGESTION: fix all three (remove the space before the fact tag).
+  => DONE (cba1e14..b794ef8): all three fixed in both languages: "archiviste)"/"archivist)" (:334), trailing comma dropped after "bonne volonté"/"good will" (:420), and the fact tag of phantom_thief_sheet_{fr,en}.rst:34 moved after the period ("...là-bas"**. {% fact %} Il peut")
+
+- The avatar_arrival_on_earth macro (npcs/avatar_druid_sheet_fr.rst:26-28) says "vous êtes arrivé dans une étrange bibliothèque", but it is
+  also called by the Duchess sheet (npcs/avatar_duchess_sheet_fr.rst:20), which needs "arrivée" (EN is neutral).
+  => Neutral wording or a macro parameter.
+  => SUGGESTION: "en l'empruntant, vous avez débarqué dans une étrange bibliothèque".
+  => DONE (cba1e14..b794ef8): neutral wording: "en l'empruntant, vous avez débarqué dans une étrange bibliothèque enfouie" (avatar_druid_sheet_fr.rst:27, also rendered in the Duchess sheet)
+
+- The Exorcist ritual says "Philtre de Focus" (players/diakon_exorcist_role_fr.rst:37) whereas the FR checklist says "potions de Focus"
+  (gamemaster_assets_checklist.yaml:471); EN says "Potion of Focus" everywhere (glossary l.1283 lists both FR names).
+  => Keep "Philtre" as a deliberate synonym, or use "Potion de Focus" in FR too.
+  => DONE (cba1e14..b794ef8): "Potion de Focus" in FR too (diakon_exorcist_role_fr.rst:37, matching the FR checklist and EN "Potion of Focus"); glossary row l.1283 updated ("Philtre" dropped)
+
+- French typos left in the GM manual: unaccented "HEROS DE ROMAN"/"HEROINE DE ROMAN" (gamemaster_manual_archives_fr.rst:470/494/510). The
+  other items reported by the PDF comparison ("sauvez sa petite soeur" l.428, "mystèrieuses" l.458, Thief summary "sa petit zone", "il est
+  manifeste encore des doutes", injury_types_knowledge "de quelques natures que ce soit", lowercase "les fantômes, d'une manière..." l.1425)
+  are already fixed in the sources (d849f79).
+  => SUGGESTION: "HÉROS DE ROMAN"/"HÉROÏNE DE ROMAN".
+  => DONE (cba1e14..b794ef8): gamemaster_manual_archives_fr.rst:470/494/510 -> "HÉROS DE ROMAN"/"HÉROÏNE DE ROMAN"
+
+- FR clue ODT (ingame_clues_archives.odt): "Chèr(e) Octave, voici la dernière énigme..." (Whispering Box enigma) and "d’pu te viens cette
+  longevite, O dame du ruisseau qui defie les siecles" (Thanatologue, accent-less font): typos or deliberate?
+  => Author to confirm.
+  => SUGGESTION: "Cher Octave" (or "Cher/Chère" if the generic form is wanted, without the grave accent) and "d'où te vient cette longevite"
+     (the missing accents can stay if the font has none).
+  => DONE (cba1e14..b794ef8): ingame_clues_archives.odt p159 "Cher Octave" (the generic form is pointless, Octave is a boy), p56 "d’ou te viens cette longevite" (accent-less font kept); clue pages unchanged (51/51)
+
 Auction (script_fixtures/gamemaster_manual_en.yaml)
 ---------------------------------------------------
 
@@ -787,6 +385,24 @@ Auction (script_fixtures/gamemaster_manual_en.yaml)
      "recel illicite"/"illicit receiving" consistent; glossary row "receleur / recel" accordingly.
   => DONE (2e8abf6): l.972 "Expertise biophysique"/"Biophysical appraisal", EN l.507 "the receiver of stolen goods", EN l.1024 "game of deception"; glossary rows "Expertise biophysique", "receleur / recel" and "jeu de dupes" added.
 
+
+- The Faculty of Imuo and the Alifir Academy (line ~909) seem to designate the same institution.
+  => Check, and harmonise if so.
+  => RECOMMENDATION: no change, they are different and explicitly rival institutions: gamemaster_manual.yaml:907 "l'Académie d'Alifir est sous
+     pression, car sa grande rivale, la très hégémonique Faculté d'Imuo, vient d'exhiber WireMind"; Alifir is a Sabarim city (locations.yaml:206,
+     manual l.421-433), Imuo is in Yumeinamatchi (encyclopedia/pangea_misc_locations_and_events.yaml:70-80, locations.yaml:258); Imuo pays the
+     chess prize, Alifir wants WireMind beaten (l.909). EN mirrors correctly; both are in the glossary (l.183, l.2113). Close the item.
+  => VERIFIED: OK. Precision: locations.yaml:206 does not mention Sabarim; the Sabarith evidence is GM manual l.423 "Situé en Sabarim",
+     characters_factions.yaml:149 and doctor_honoris_causa_and_nazur.yaml:486.
+  => FINAL: First recommendation stands (two rival institutions, no change), with the second agent's evidence fix (Sabarim at GM
+     manual l.423, not locations.yaml:206); the only naming variant is the FR jingle radio_spots.yaml:66 "L'académiiie d'Imuo",
+     probably the source of the doubt.
+  => DONE (cba1e14..b794ef8): no change needed (two rival institutions, as per the FINAL)
+
+- The Auction full FR PDF has a blank page 50: the checklist fills p.49 exactly, then the ".. raw:: pdf / PageBreak" before "Chronologie
+  synthétique du jeu" (gamemaster_manual.yaml:1618-1624) adds an empty page. Toolchain/layout quirk.
+  => Accept, or replace the unconditional PageBreak by a conditional one (rst2pdf "CondPageBreak <height>").
+  => DONE (cba1e14..b794ef8): the unconditional PageBreak before the chronology (gamemaster_manual{,_en}.yaml:1618-1624) replaced by the rst2pdf conditional "FrameBreak 600" (= reportlab CondPageBreak(600pt): breaks unless the page is nearly empty, so an exactly full checklist page no longer yields a blank page); rebuilt FR/EN: the chronology still starts on a new page and the blank page is gone
 
 Mindstorm (script_fixtures/mysteryparty_mindstorm/)
 ---------------------------------------------------
@@ -915,6 +531,162 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
      "Obisidian" planning_fr:175/295.
   => DONE (0854ccf, 2e8abf6): all listed FR masculines made feminine (standalone, previous_days, sabarith_defense_mission, misc/specific abilities, opal_missions, shark_misc, alphonse/oberon sheets, GM_fr 164/203/488/500/553, planning_fr 327, mentor_briefings_fr 52), EN GM 488/561, mentor_briefings_en 21/52, EN ODT p345; Obisidan/Obisidian typos fixed; glossary "Adjointe de police".
 
+
+- Puzzles were rebuilt in English (THECEILINGOFTHETOILET, UNDERTHECOOKINGRECIPES,
+  the "Sick-oh-free... won-oh-nine" clue for safe code 603-109).
+  => Proofread them in context.
+  => RECOMMENDATION: all three work. Acrostic (Mindstorm clue ODT p468): initials spell UNDERTHECOOKINGRECIPES, matching GM manual l.347-353
+     and the recipe props (checklist l.106-107); 22 letters vs 24 in FR, no document constrains the length (the shed-roof glyph prop is in
+     no checklist). Safe code (p423-424 + checklist l.96): sick-oh-free = 603, won-oh-nine = 109, OK. Treasure riddle (p428-449, nth letter of
+     nth line, letters only, title = line 1, restart at stanza 2): verified THECEILIN / GOFTHETOILET = THECEILINGOFTHETOILET (GM manual l.535).
+     Only weakness: the stanza break falls mid-word (FR gives LEPLAFOND / DESTOILETTES). Optional: add a 10th line to stanza 1 with G as 10th
+     letter and recompose stanza 2 (11 lines) to spell OFTHETOILET - EN ODT only, author's call on poetic quality.
+  => VERIFIED: OK (recomputed from both ODTs: EN acrostic 22 initials, FR SOUSLESRECETTESDECUISINE 24; riddle EN THECEILIN/GOFTHETOILET, FR
+     LEPLAFOND/DESTOILETTES; 603-109 matches checklist{,_en}.yaml:96; shed-roof glyphs only in GM manual l.353 and planning l.305).
+  => FINAL: First recommendation stands (all three puzzles recomputed from both ODTs: EN acrostic 22 initials, riddle
+     THECEILIN/GOFTHETOILET, 603-109; every EN line is no longer than its FR twin). If the optional 10th line is added to stanza 1,
+     the EN riddle grows to 21 lines vs 20 in FR: check pagination first.
+  => DONE (cba1e14..b794ef8): no change needed (all three puzzles verified by the reviews); the optional 10th line is not added
+
+- Alphonse's tribute poem no longer rhymes in English.
+  => Rewrite it as English verse, if wanted (keeping it no longer than the French, for pagination).
+  => RECOMMENDATION: optional, no puzzle depends on it (toast read aloud, Mindstorm clue ODT p575-580; planning l.138/193). If wanted, same
+     4 lines: "To our friend and master, who managed to convince us / That even a life of failures is a life worth living, / I pay him tribute
+     today, yet remind him in passing / That dropping dead right now would be rather distressing." The FR pun "échecs" (chess/failures) is lost either way.
+  => VERIFIED: DISAGREE: the facts are right, but the proposed verse breaks the length rule (lines of ~50-60 chars against 43-47 in FR) and
+     rhymes only loosely (us/living/passing/distressing), while the FR is AABB. Shorter AABB alternative: "To our friend and master, who made
+     us agree / That a failed life is worth living, you see; / I pay tribute today, though I must point out / That croaking right now would be
+     bad, no doubt."
+  => FINAL: Second agent is right that the first verse is too long (52/52/50/57 chars vs FR 43/46/47/43 at ODT p576-579), but its
+     own line 4 is 47 chars (> FR 43) and its second couplet is weak. If a rhymed version is wanted, use (43/44/41/40 chars, AABB,
+     keeps hommage/dommage): "To our friend and master, who made us agree / That a failed life is worth living, you see; / I pay him
+     homage today, yet I have to say / It would be a shame to croak right away." Optional either way: no puzzle depends on it.
+  => DONE (cba1e14..b794ef8): FINAL's rhymed AABB version applied to ingame_clues_mindstorm_en.odt p576-579 (43/44/41/40 chars vs FR 43/46/47/43): "To our friend and master, who made us agree / That a failed life is worth living, you see; / I pay him homage today, yet I have to say / It would be a shame to croak right away"; clue pages unchanged (62/62)
+
+- Alkaloid names: in the clue about Gelsemium, the title says "Gelsemine" and the text says "gelsemicine",
+  while the French uses "gelséminine" / "gelsémine".
+  => Check the intended alkaloid names in both languages.
+  => RECOMMENDATION: mirror the FR: EN ODT p189 title "Gelsemine" -> "Gelseminine", p190 "together with gelsemicine" -> "together with gelsemine"
+     (FR: title "Gelséminine", text "avec la gelsémine"). Both are real Gelsemium alkaloids; only the ODT uses them (no rst/yaml occurrence).
+  => VERIFIED: DISAGREE: the facts are right (EN p189/p190, FR "Gelséminine"/"gelsémine", no rst/yaml/glossary occurrence), but mirroring
+     brings in "gelseminine", an old and obscure name. The current EN pairing (gelsemine = main alkaloid, gelsemicine = one of the most toxic)
+     is the more accurate. Keep the EN, and if consistency is wanted align the FR instead (title "Gelsémine", text "avec la gelsémicine").
+  => FINAL: Second agent's advice stands: keep EN p189/p190 "Gelsemine"/"gelsemicine" (modern names: gelsemine = main alkaloid,
+     gelsemicine = a toxic one); the FR pair "Gelséminine"/"gelsémine" is older naming, not an error, so aligning FR is optional. No
+     gameplay impact (Gelsemium is a red herring, the real poison is oleander, ODT p191); no occurrence outside the ODTs.
+  => DONE (cba1e14..b794ef8): no change needed (EN keeps the modern pair Gelsemine/gelsemicine, FR keeps its older pair, no gameplay impact)
+
+- Clue ODT: the treasure acrostic says "THE STATELY CAULDRON", while everything else says "Precious Cauldron"
+  (probably required by the acrostic). => Confirm.
+  => RECOMMENDATION: not a bug - the FR line also does not say "Précieux" ("DU FORT LUXUEUX CHAUDRON"), and line p444 must keep T as its 7th
+     letter: "THE STATELY CAULDRON" (T) works, "THE PRECIOUS CAULDRON" (C) breaks. Keep as is; if the item name must be echoed, "THE MOST
+     PRECIOUS CAULDRON" (7th letter T, verified) also works in the EN ODT. FR unchanged.
+  => VERIFIED: OK (p444 = line 7 of stanza 2; STATELY->T, PRECIOUS->C, MOST PRECIOUS->T; FR "DU FORT LUXUEUX CHAUDRON" gives L).
+  => FINAL: First recommendation stands (keep "THE STATELY CAULDRON", 7th letter T; FR gives L as needed), but drop its optional
+     "THE MOST PRECIOUS CAULDRON": 26 chars vs 24 for FR p444 "DU FORT LUXUEUX CHAUDRON", so it breaks the length rule. "Precious
+     Cauldron" elsewhere is only GM manual l.535, unconstrained.
+  => DONE (cba1e14..b794ef8): no change needed (7th letter T required, length rule)
+
+- Peridot: the shop is located in Imuo in some documents and Nimouk in others, and the French uses a
+  feminine "Patronne" for the owner. => Check location and owner's gender.
+  => RECOMMENDATION: Nimouk (Dorian Duchy) is canonical (characters_factions.yaml:82-94 official_role, data dump l.2173, domains); "Imuo" is a slip
+     in amethyst.anteauction.standalone_{fr,en}.rst:30 -> "Nimouk". The real Philipon Vertioundem is male (name, GM hints "il") -> characters_factions.yaml:91
+     "Patronne" -> "Patron" (and the dump when regenerated), and masculine in peridot.anteauction.standalone_fr.rst:10 and peridot_cheat_sheet_fr.rst:19
+     ("le détenteur du nom... Le voilà heureux... il"); EN already uses "he".
+  => VERIFIED: CORRECTED: Nimouk is right (Imuo is in Yumeinamatchi, pangea_misc_locations_and_events.yaml:80). But the FR feminines in
+     peridot.anteauction.standalone_fr.rst:10 ("la personne détentrice... heureuse... elle") and peridot_cheat_sheet_fr.rst:19 ("la vraie
+     personne qui est restée") agree with "personne", so changing them is optional. cheat_sheet_fr:19 contains no "heureux"/"il", so the
+     quoted replacement only fits the standalone. The "Patronne" fix matters for EN too: EN builds print the FR official_role untranslated
+     (docs/output_mindstorm/en/common_guests_gallery.rst:186 "Patronne d'une bijouterie de Nimouk").
+  => FINAL: Second agent's version stands: Nimouk (amethyst.anteauction.standalone_{fr,en}.rst:30 "Imuo" -> "Nimouk");
+     characters_factions.yaml:91 "Patronne" -> "Patron" (needed for EN too: official_role prints untranslated in
+     docs/output_mindstorm/en/common_guests_gallery.rst:186 etc.); the FR "la personne... elle" forms may stay. New: the mirror case
+     Topaz, "Luciane Begalazatr" (feminine name) with role "Prospecteur" (characters_factions.yaml:76-77) -> "Prospectrice", or
+     author to confirm both cover identities' genders.
+  => PARTLY DONE (0854ccf): amethyst.anteauction.standalone_{fr,en}.rst:30 "Nimouk", characters_factions.yaml:91 "Patron"; REMAINING: regenerate docs/_initial_game_data_dump.yaml (l.2173 still "Patronne"), and decide Topaz's cover "Luciane Begalazatr" role "Prospecteur" (characters_factions.yaml:77, dump l.2319) -> "Prospectrice", or confirm.
+  => DONE (cba1e14..b794ef8): remaining items done: docs/_initial_game_data_dump.yaml l.2173 "Patron"; Topaz's cover "Luciane Begalazatr" (feminine name) -> "Prospectrice mandatée par de riches collectionneurs de Nimouk" in characters_factions.yaml:77 and the dump l.2319; the EN overlay (see the game data entry) gives the EN roles
+
+- shark_previous_days_fr: "L'archidiacre" appears without being introduced elsewhere. => Check who it is.
+  => RECOMMENDATION: insufficient evidence - author must confirm. shark_previous_days_{fr,en}.rst:61-63 introduces "le judicateur Praeves" then
+     switches to "L'archidiacre"; the three archdeacons in the game are Menelas (akarith_ambassador_sheet l.4), Baazel (transfiliation advocate,
+     dorian_mission l.13, overrides l.1003/1087) and Altos (yodic_council_interviews). If Praeves is meant: "Ce judicateur"/"The judicator"; if the
+     council context points to Baazel: "l'archidiacre Baazel"/"Archdeacon Baazel" (both languages).
+  => VERIFIED: OK (UNSURE is justified; all citations correct). Extra evidence for the author. Toward Baazel:
+     akarith_ambassador_sheet_{fr,en}.rst:17 says the judicators "including Archdeacon Baazel" turned a leading figure (likely Shark), and
+     l.63 "experts sollicités par le concile" matches dorian_mission l.13. Toward Praeves: archdeacon is a rank within the Judicator order
+     (Menelas), so Praeves could himself be the archdeacon. Lean: "l'archidiacre Baazel".
+  => FINAL: UNSURE (both agents agree): author must say whether the archdeacon at shark_previous_days_{fr,en}.rst:63 is Praeves or
+     Baazel. Evidence favours "l'archidiacre Baazel"/"Archdeacon Baazel": Praeves signs only "Judicator Praeves" (ODT p143-150,
+     checklist:146, glossary l.2332) and never mentions the council, whereas Baazel is the council's transfiliation advocate
+     (dorian_mission:13, overrides:1003/1087, akarith_ambassador_sheet:17).
+  => DONE (cba1e14..b794ef8): Baazel chosen (evidence of both reviews: council's transfiliation advocate, akarith_ambassador_sheet:17 says Baazel turned a Sabarith "sommité"; a same-person reading would have used "Il"): shark_previous_days_{fr,en}.rst:63 "L'archidiacre Baazel a expliqué"/"Archdeacon Baazel explained"
+
+- "Royaume de Subael" in FR (missions/mining_lease_negotiation/generic_mission_briefing_fr.rst:8, negotiating_mandates_fr.rst:12,
+  players/lydia_previous_days_fr.rst:9) vs "Kingdom of Suabel" in EN and the key Kingdom_of_Suabel (script_fixtures/locations.yaml:15); the
+  glossary (l.2803-2805) already says to use "Suabel" in EN.
+  => Is the French a typo?
+  => SUGGESTION: yes, "Royaume de Suabel" in the three FR files and the glossary FR cell.
+  => DONE (cba1e14..b794ef8): typo: "Royaume de Suabel" in the three FR files and the glossary FR cell (l.2803, note mentions the old spelling)
+
+- Alphonse's time announcement "Mesdame messieurs, il est 20h..." (npcs/alphonse_sheet_fr.rst:54, gamemaster_planning_details_fr.rst:73).
+  => Typo, or his deliberate word-mangling? If a typo: "Mesdames messieurs".
+  => DONE (cba1e14..b794ef8): typo (no other word-mangling in his sheet): "Mesdames messieurs" in alphonse_sheet_fr.rst:54 and gamemaster_planning_details_fr.rst:73
+
+- Shark: "de fil en anguille" (players/shark_misc_instructions_fr.rst:22).
+  => Deliberate pun on "de fil en aiguille", or typo? (If deliberate, the EN loses it.)
+  => DONE (cba1e14..b794ef8): deliberate fish pun kept in FR (the inspector is "Shark"); EN :22 now keeps a wink: "His aim is to fish out, little by little, more and more information"
+
+- Phone appointments: "Lydia et Magnus se font appeler par leur gestionnaire de bien... Il s'enquiert de la santé d'Opal"
+  (appointments/mentor_briefings_all_factions_{fr,en}.rst:17, EN "Lydia and Magnus"): Magnus is the couple's surname (Opal = Charles Magnus,
+  characters_factions.yaml:134), so the pair is probably "Lydia et Opal".
+  => Check.
+  => SUGGESTION: "Lydia et Opal"/"Lydia and Opal".
+  => DONE (cba1e14..b794ef8): "Lydia et Opal"/"Lydia and Opal" (mentor_briefings_all_factions_{fr,en}.rst:17)
+
+- Lydia: FR "en vue de devenir la première femme sénatrice du **Consulat d'Alifir**" (players/lydia.anteauction.standalone_fr.rst:27, EN
+  "senator") while elsewhere she runs to become "consule d'Alifir" (characters_factions.yaml:149, overrides l.983/1099,
+  npcs/notary_sheet_fr.rst:110 "future consule").
+  => Senator or consul?
+  => SUGGESTION: "la première femme consule d'Alifir"/"the first female consul of Alifir".
+  => DONE (cba1e14..b794ef8): consul everywhere: lydia.anteauction.standalone_{fr,en}.rst:27 "la première femme consule du Consulat d'Alifir"/"the first female consul of the Consulate of Alifir"
+
+- "armures exosquelettiques vaporisées" translated "steam-powered exoskeleton armour"
+  (missions/berserk_elixir_recipe/lordanian_infantry_booster_quest_{fr,en}.rst:12).
+  => Confirm the interpretation; if steam-powered is meant, FR "armures exosquelettiques à vapeur".
+  => DONE (cba1e14..b794ef8): steam-powered interpretation kept (the EN was already so): FR lordanian_infantry_booster_quest_fr.rst:12 "armures exosquelettiques à vapeur"
+
+- Obsidian missions: "excédé par la corruption et les privilèges de la classe dirigeante, par ses privilèges, par le monopole..." repeats
+  "privilèges", copied in EN (players/obsidian_missions_{fr,en}.rst:19 "by its privileges"); "Université D'Omrh" with a capital D in
+  players/waden_cheat_sheet_fr.rst:27, waden_misc_instructions_fr.rst:7, waden_missions_fr.rst:13.
+  => SUGGESTION: drop "par ses privilèges"/"by its privileges"; "Université d'Omrh".
+  => DONE (cba1e14..b794ef8): "par ses privilèges"/"by its privileges" dropped (obsidian_missions_{fr,en}.rst:19); "Université d'Omrh" in the three Waden FR files
+
+- FR style in Mindstorm sources: unaccented capitals "Etat" (26 occurrences, e.g. gamemaster_manual_mindstorm_fr.rst:21/160), "A vous"
+  (npcs/rydji_sheet_fr.rst:44, anthropia_game_data_overrides.yaml:853), "Elixir" without É (18, e.g. gamemaster_manual_mindstorm_fr.rst:372;
+  the glossary also writes "Elixir Berserk"); "maître du jeu" (10) vs "maître de jeu" (18, both in game_rules_fr.rst:35); "bonhommie"
+  (npcs/akarith_ambassador_sheet_fr.rst:8, -> "bonhomie"); lowercase noun "obérons" (e.g. gamemaster_manual_mindstorm_fr.rst:98/183) while
+  the glossary (l.1933) capitalises the noun "Obéron".
+  => Pick the rules and harmonise (see also the Auction/Descent accent entry in the FR/EN PDF comparison section).
+  => DONE (cba1e14..b794ef8): rules applied: accented capitals (État x27 in Mindstorm/Auction/Descent FR, À vous x2, Élixir everywhere in FR sources incl. checklists, Descent and the glossary FR cells, Mindstorm FR ODT p476/477/481), "maître de jeu" (Mindstorm majority, 11 "maître du jeu" harmonised in Mindstorm + the lone Archives one; the Auction manual keeps its own "maître du jeu"), "bonhomie", and lowercase "obéron(s)" noun/adjective in FR running text (6 prose capitals lowercased; capital kept in "Confrérie des Obérons", headings and signatures), glossary row l.1933 updated
+
+- Mindstorm assets checklist items all render in italic: the common code (docs/mysteryparty_common_utils.py:9-17,
+  analyze_and_normalize_game_items, called with important_marker=" IMPORTANT" at docs/build_mindstorm_pdfs.py:396) distinguishes crucial
+  items by the " IMPORTANT" marker, but the Mindstorm checklist YAMLs have none (vs 99 in each Archives checklist). Also a stray space
+  before commas where a hint tag precedes the comma ("Midolie , Ingrédients": gamemaster_assets_checklist{,_en}.yaml:18, 3 such "%}," per
+  file).
+  => Add IMPORTANT markers to the crucial Mindstorm items (or do not italicise everything when a checklist has no marker), and fix the
+     spacing around those tags.
+  => DONE (cba1e14..b794ef8): code fix in docs/mysteryparty_common_utils.py analyze_and_normalize_game_items: when no item of a checklist carries the IMPORTANT marker, nothing is de-emphasised (all items roman); the Archives checklists (with markers) are unaffected; the 6 "%},"/"%};" tag-before-punctuation cases per Mindstorm checklist re-ordered (", {% hint %}")
+
+- EN Mindstorm still points to French resources: http://chrysalis-game.com/fr/cms/medias/ (context_intro.anteauction.standalone_en.rst:22)
+  and larousse.fr as the duel dictionary (miscellaneous/duel_of_honor_rules_en.rst:39, a word game in EN).
+  => Use an English media page if one exists, and an English online dictionary for the duel.
+  => DONE (cba1e14..b794ef8): no English media page exists (chrysalis-game.com/en/cms/medias/ is a 404): context_intro.anteauction.standalone_en.rst:22 now says "(page in French)"; duel_of_honor_rules_en.rst:39 uses collinsdictionary.com (British dictionary) instead of larousse.fr
+
+- Data: characters_factions.yaml official_role values inconsistently end with a period (7 of 16: l.135, 149, 179, 194, 241, 257, 273), which
+  gives ".** ;" in sheets where full_official_title (docs/build_mindstorm_pdfs.py:434-437, "%s, %s") is followed by punctuation.
+  => SUGGESTION: drop the final periods (then regenerate the dump, which holds a copy).
+  => DONE (cba1e14..b794ef8): the 7 final periods dropped in characters_factions.yaml (l.135/149/179/194/241/257/273) and in docs/_initial_game_data_dump.yaml (same roles)
 
 Sentience and Cromlech (script_fixtures/sentience_rpg/, script_fixtures/mysteryparty_cromlech/)
 -----------------------------------------------------------------------------------------------
@@ -1147,6 +919,168 @@ Doubts from the third full review (by game area)
   => DONE (2e8abf6): EN l.100 "the burgomaster's only daughter", EN l.215 "his own daughter Joséphine", FR l.100 "la fille unique du bourgmestre", FR l.115 "Hautvents".
 
 
+- "Orb(s)" capitalisation is mixed across Mindstorm English files ("the orb" 19x, "the Orb" 4x...); the glossary only says "Divine Orb(s)" is a proper name. => Pick a rule.
+  => RECOMMENDATION: rule = lowercase "orb"/"orbe" everywhere except "Divine Orb(s)", "Spiritual Orb" and the title "Loyd Georges' Orb" (see
+     the capitalisation entry below for the glossary wording). Non-compliant EN lines: mentor_briefings_all_factions_en 37/54,
+     gamemaster_manual_mindstorm_en 73/123/126, amethyst_previous_days_en 19/78/87, amethyst_cheat_sheet_en 8/10, garnet.anteauction.standalone_en
+     33/35, garnet_cheat_sheet_en 9, malachite_previous_days_en 32, malachite_cheat_sheet_en 7, malachite.anteauction.standalone_en 31/33,
+     opal_previous_days_en 47, opal_missions_en 26/27, peridot/spinel/topaz_cheat_sheet_en 7, akarith_ambassador_sheet_en 54/65,
+     missions/loyd_georges_destiny/lg_orb_search_en.rst:1 (heading, sentence case), clue ODT EN p345. FR lines also capitalised:
+     gamemaster_manual_mindstorm_fr 73/123/126, mentor_briefings_all_factions_fr 54, akarith_ambassador_sheet_fr 54, waden_missions_fr 7.
+  => VERIFIED: CORRECTED: the listed lines do contain "Orb", but the rule contradicts the list. Most listed lines are "Loyd Georges' Orb"
+     (gm_en:123 heading, amethyst_cheat 8/10, garnet_cheat 9, malachite_cheat 7, opal_previous_days 47, opal_missions 26/27,
+     peridot/spinel/topaz_cheat 7, akarith 54/65, lg_orb_search_en:1), which the rule exempts. Only mentor 37/54, gm 73/126,
+     amethyst_previous_days 19/78/87, garnet/malachite anteauction 33 and malachite_previous_days 32, plus ODT p345, are bare "the Orb".
+     Missed: FR ODT p345 "la quête de l'Orbe". Corrected rule: lowercase "orb" in running text, including "Loyd Georges' orb"; keep the
+     capital only for Divine/Spiritual Orb and the two headings (gm manual l.123, lg_orb_search l.1).
+  => FINAL: NEW rule, simpler than both: in EN lowercase every bare "orb(s)", singular and plural, including "Loyd Georges' orb" and
+     the two headings (gm_en:123, lg_orb_search_en:1; the FR heading lg_orb_search_fr:1 already reads "L'orbe de Loyd Georges" and
+     all other EN headings are sentence case); capital only inside names (Divine Orb(s), Three Divine Orbs, Spiritual Orb,
+     Alpha/Beta/Gamma Orb). The first agent's 26-line EN list plus ODT p345 (FR "l'Orbe" and EN "the Orb") is complete; the second's
+     bare-"Orb" list missed garnet.anteauction:35 and malachite.anteauction:31. Rewrite glossary l.258-260 and l.2587-2589 (which
+     contradicts itself) to match; FR lowercasing is optional.
+  => DONE (cba1e14..b794ef8): FINAL rule applied: every bare "Orb(s)" lowercased in the Mindstorm EN files and gamemaster_manual_en.yaml (37 occurrences incl. the headings gm_en:123, lg_orb_search_en:1, opal_missions_en:26 and "Loyd Georges' orb"), Alpha/Beta/Gamma "orb" capitalised in gamemaster_manual_en.yaml (4), EN ODT p345 "the orb" and FR ODT p345 "l'orbe"; glossary l.62-64, l.261-263 and l.2602-2604 rewritten
+
+- The duplicated "One of the rare visitors..." passage (dragons_role / complement_for_diakons) is now word-for-word identical in English; edit both together.
+  => RECOMMENDATION: the source is the macro maupertuis_archives_quick_tour (miscellaneous/complement_for_diakons_{fr,en}.rst:5-21, reused by
+     the explorers/spies/parcival complements); players/dragons_role_{fr,en}.rst:170-183 is a copy already marked "{# DUPLICATA FIXME #}".
+     Replace those 14 lines (both languages) by "<{ maupertuis_archives_quick_tour }/>" (macros are global in rpg_sheet_generator.py). Caveat:
+     the macro heading uses "~~~" while dragons_role uses "====" underlines, so check the rendered PDF level; if unacceptable, keep the copy,
+     drop the FIXME, and keep editing both together.
+  => VERIFIED: CORRECTED: the EN copy is identical except for the underline, but the FR copy is not: the macro heading has "des maupertuis",
+     while dragons_role has "Maupertuis". Heading level: dragons_role uses "#" for the title and "=" for sections, with no "~" anywhere, so
+     the macro's "~~~" heading would become a 3rd level under "Votre arrivée en jeu", not a sibling. Better fix: move the heading out of the
+     macro (body only, l.10-19) and let each of the 5 callers per language write its own heading with its own underline. Macro
+     registration is confirmed (rpg_sheet_generator.py:211-218).
+  => FINAL: NEW: deduplicate, but a plain macro call would FAIL the build: player_dragons_sheet uses "#", "=" and "+" underlines
+     only, so the macro's "~" heading makes docutils report "(ERROR/3) Inconsistent title style: skip from level 3 to 5", which
+     rpg_sheet_generator.py:536-545 treats as fatal. Lightest fix: give the macro a parameter ({% macro
+     maupertuis_archives_quick_tour(underline="~") %}, heading underline {{ underline * 55 }}) and call <{
+     maupertuis_archives_quick_tour underline="=" }/> from dragons_role (jinja_macro_tags supports key=value args); otherwise the
+     second agent's "heading outside the macro" works (4 callers per language today, 5 with Dragons).
+  => DONE (cba1e14..b794ef8): macro parameter solution of the FINAL: {% macro maupertuis_archives_quick_tour(underline="~") %} with heading underline {{ underline * 55 }} (complement_for_diakons_{fr,en}.rst), dragons_role_{fr,en}.rst:170-183 replaced by <{ maupertuis_archives_quick_tour underline="=" }/>; Archives builds OK in both languages
+
+- GM manual: "antique canister" (~line 431) may be the "Tectonic Canister" item, and "Akarith grimoire (sold at auction)" (~line 445) may be the "Akarith Scroll" auction item. => Check, and use the item names if so.
+  => RECOMMENDATION: (Mindstorm GM manual l.385/396.) Canister: yes, it is the "Bonbonne tectonne" lot D (anthropia_game_data_overrides.yaml:361-365,
+     game_items.yaml:131-139; glossary "Tectonic Canister") -> FR "la bonbonne antique (la « Bonbonne tectonne ») vendue aux enchères" /
+     EN "the antique canister (the \"Tectonic Canister\" lot) sold at auction". Grimoire: NOT the Akarith Scroll (void_scroll, absent from the
+     Mindstorm auction) but lot F sacred_book = "Livre Sacré Yodique" (overrides l.371-374, game_items.yaml:387-395, "grimoire de runes akarites")
+     -> FR "le grimoire akarite (le « Livre Sacré Yodique » vendu aux enchères)" / EN "the Akarith grimoire (the \"Sacred Yodic Book\" sold at
+     auction)". Also fix FR typos on l.396 "bourse de cuire", "Lody georges". WIP_translations/auction_en/game_items.yaml:138 "Tectonne large
+     bottle" should become "Tectonic Canister".
+  => VERIFIED: OK (the sacred_book identification is confirmed: its rune translation, overrides l.63-69, is the potion recipe). Addition: the
+     glossary has no "Livre Sacré Yodique -> Sacred Yodic Book" row (already used in WIP_translations/auction_en/game_items.yaml:394): add it.
+  => FINAL: First recommendation stands (canister = lot D basket_bottle "Bonbonne tectonne", overrides l.361-364; grimoire = lot F
+     sacred_book "Livre Sacré Yodique", overrides l.371-374, its rune translation l.63-69 is the potion recipe; FR typos gm_fr:396),
+     plus the second agent's missing glossary row "Livre Sacré Yodique -> Sacred Yodic Book". Nuance: the object is a glass demijohn
+     in a wicker basket (overrides l.115-121), so "demijohn" (glossary l.3896) would fit better than "canister" if the item is ever
+     renamed.
+  => PARTLY DONE (0854ccf, 2e8abf6): GM manual {fr,en} now names the lots ("Bonbonne tectonne"/"Tectonic Canister", "Livre Sacré Yodique"/"Sacred Yodic Book"), FR typos of gm_fr:396 fixed, glossary row "Livre Sacré Yodique" added; REMAINING: script_fixtures/WIP_translations/auction_en/game_items.yaml:138 still "Tectonne large bottle" (-> "Tectonic Canister").
+  => DONE (cba1e14..b794ef8): remaining item done: script_fixtures/WIP_translations/auction_en/game_items.yaml:138 "Tectonic Canister" (also used in the new EN dump overlay)
+
+- Parcival Alchemist's gender varies in French (ODT GM comment and avatar_druid_sheet: feminine; GM manual ~line 1153 and role sheet "parfait autodidacte": masculine). As a player role, "they" may be safest. => Pick one.
+  => RECOMMENDATION: player role -> make the few gendered passages neutral instead of choosing: npcs/avatar_druid_sheet_{fr,en}.rst:72
+     "dans les recettes à trouver"/"in the recipes to be found"; Archives clue ODT GM comment p35 FR "la lymphe déjà en sa possession" /
+     EN "the lymph already in the Alchemist's possession" (EN currently says "he", FR "elle"); ODT p1 FR "même si tous ne lui sont pas
+     familiers"; miscellaneous/planning_of_prophecies_fr.rst:11 "si le joueur ou la joueuse n'est pas à l'aise" (EN already "they");
+     gamemaster_manual_archives_en.rst:1153 "one of their potions"; players/parcival_alchemist_role_fr.rst:6 "en véritable autodidacte".
+     Same issue for GM manual FR l.722 "La joueuse Oracle" -> "Le joueur ou la joueuse Oracle".
+  => VERIFIED: OK. Precision: avatar_druid_sheet_en.rst:72 also says "she finds", so both languages need the fix. No other gendered reference
+     to the Alchemist was found.
+  => FINAL: First recommendation stands with the second's precision: neutralise avatar_druid_sheet_{fr,en}.rst:72 (FR "elle", EN
+     "she"), ODT p35 (FR "elle", EN "he"), GM manual EN l.1153 "his" -> "their"; EN planning l.11 and EN p1 are already neutral. The
+     FR "en véritable autodidacte" and planning_fr l.11 changes are optional (FR role sheets use the generic masculine throughout).
+     GM manual FR l.722 "La joueuse Oracle" vs planning_details_for_game_fr.rst:16 "au joueur Parcival Oracle": make neutral too.
+  => PARTLY DONE (6ce5c34): neutral wording in avatar_druid_sheet_{fr,en}.rst:72, ODT p35 (FR and EN), GM manual EN l.1153 "their", GM manual FR l.722 "Le joueur ou la joueuse Oracle"; REMAINING: miscellaneous/planning_details_for_game_fr.rst:16 "au joueur **Parcival Oracle**" (and l.4 "le joueur Oracle") still masculine.
+  => DONE (cba1e14..b794ef8): remaining FR lines neutralised: planning_details_for_game_fr.rst:4 "le joueur ou la joueuse Oracle", :16 "bien donner la parole à la personne jouant **Parcival Oracle**" (and "maître de jeu" accent)
+
+- Glossary: add rows for "Ère Tectonne" (auction "Tectonic Era", mindstorm clue "tectonic era") and "Expertise biophysique" (auction "Biophysical appraisal"); add the symbol keys only used in YAML checklists (archives magic/analysis codes, maupertuis_father_blue_fake_book_code, mindstorm lg_vault_secret_code).
+  => RECOMMENDATION: add by hand (the "generated by the merge script" note in the symbol table refers to a script absent from the repo).
+     Rows: Shared Pangea section ~l.196 "Ère Tectonne / ère tectone / pré-tectonne -> Tectonic Era / pre-Tectonic" (capitalised era name;
+     then harmonise Mindstorm ODT EN p7 "tectonic era" and amethyst_previous_days_en.rst:24 "pre-tectonic"; FR spelling drifts tectone/
+     tectonne/Tectonne in gamemaster_manual.yaml:169/1489, messaging/news.yaml:60/98 -> pick "tectonne"). Mindstorm/Auction section ~l.2047
+     "Expertise biophysique (d'un objet) / Service d'expertise biophysique -> Biophysical appraisal (of an object) / Biophysical appraisal
+     service", cross-referenced to the existing "Analyse biophysique -> Biophysical Analysis" row (Anthropia ability). Symbol table: 6
+     analysis_code_* (srf, ltx, yal, jsb, xep, fzk), 10 magic_code_* (bte, vbr, bst, kxp, pyw, duy, ecz, adp, hfv, arx),
+     maupertuis_father_blue_fake_book_code = 425 (all FR = EN, from mysteryparty_archives/gamemaster_assets_checklist*.yaml), and
+     lg_vault_secret_code FR "603-109 (six sans Troie... sang neuf)" / EN "603-109 (sick-oh-free... won-oh-nine)" just before
+     lg_vault_secret_code_location (~l.4810).
+  => VERIFIED: CORRECTED: the code lists are complete and exact (the 18 missing keys; all values match), but other facts are wrong.
+     FR drift: "tectone" also occurs in messaging/abilities.yaml:177 and messaging/player_instructions.yaml:35/:143 ("Ere Tectone"), while
+     gamemaster_manual.yaml:1489 and news.yaml:98 already say "Tectonne" (their only drift is the accent/capital, as in
+     doctor_honoris_causa_and_nazur.yaml:122/365). Other variants: "prétectonne" (news.yaml:146, amethyst_previous_days_fr:24) and
+     "ante-tectonne" (doctor_honoris:448). "tectonne" is still the right pick (about 20 occurrences). The alphabetical slot for "Expertise
+     biophysique" is about l.2107-2110 (l.2047 is "Eléments de droit sabarite"), and the "Analyse biophysique" row is l.1639. Copy the FR
+     code value verbatim ("six sans Troie...sang neuf", no space after "..."). The merge-script note is at l.4528.
+  => FINAL: First recommendation as corrected by the second stands (keep "tectonne"; the 18 symbol keys and values are exact;
+     "Analyse biophysique" row l.1639; merge-script note l.4528; lg_vault_secret_code before l.4810). Precisions: the "Ère Tectonne"
+     slot in the shared section is l.207 (after "Elixir Berserk"), the "Expertise biophysique" slot l.2110 (after "Expert en
+     histoire yodique"); one more "Tectonne" at doctor_honoris_causa_and_nazur.yaml:100; gamemaster_manual_en.yaml:169/1489 already
+     say "Tectonic Era".
+  => PARTLY DONE (2e8abf6): glossary rows "Ère Tectonne" (l.207-209) and "Expertise biophysique", and the 18 symbol keys (analysis_code_*, magic_code_*, maupertuis_father_blue_fake_book_code, lg_vault_secret_code) added; REMAINING: EN "pre-tectonic" (amethyst_previous_days_en.rst:24) and "tectonic era" (Mindstorm EN ODT p7) -> "pre-Tectonic"/"Tectonic Era", and the FR "tectone"/"Ere" drift (gamemaster_manual.yaml:169, messaging/abilities.yaml:177, news.yaml:60, player_instructions.yaml:35/143).
+  => DONE (cba1e14..b794ef8): remaining items done: amethyst_previous_days_en.rst:24 "pre-Tectonic", Mindstorm EN ODT p7 "Tectonic Era"; FR drift: "ère tectonne" in gamemaster_manual.yaml:169, messaging/abilities.yaml:177, news.yaml:60, and "Ère Tectonne" in player_instructions.yaml:35/143
+
+- Capitalisation of named items follows the French case rather than the glossary ("orb"/"Orb", "Sabarith Law/law", "Akarith lexicon/Lexicon", metal detector, magnetic unlocker, Herculean strength...). => Reword the glossary convention to "capitalised when the item or ability is designated by its name", and harmonise.
+  => RECOMMENDATION: current EN de facto mirrors FR (heading capitalised, prose lowercase) while glossary l.62-64 says "named items and
+     abilities stay capitalised in running text". Reword l.62-64 to: capitalised whenever the text designates the unique object/ability by
+     its name (heading, checklist entry, or definite reference: the Leather Purse, the Metal Detector, the Magnetic Unlocker, the Akarith
+     Lexicon, Herculean Strength), lowercase for generic/descriptive use (a metal detector, an Akarith lexicon, Sabarith law as a legal
+     system - capital only in the titles "Elements/Gems of Sabarith Law"); Loyd Georges' orb stays "the orb" except Divine Orb(s), Spiritual
+     Orb and the title "Loyd Georges' Orb". Then harmonise EN only: Metal Detector in spy_sounder_role_en.rst:16,24, archives checklist_en
+     l.430/467/507, gamemaster_manual_archives_en.rst:950/1062/1154; Magnetic Unlocker in archives checklist_en l.373/470; "Modern Akarith
+     Lexicon" in mindstorm checklist_en l.177; "the Orb" -> "the orb" in gamemaster_manual_en.yaml:751, mentor_briefings_all_factions_en.rst:37/54,
+     gamemaster_manual_mindstorm_en.rst, garnet/malachite.anteauction.standalone_en.rst, amethyst_previous_days_en.rst:78,
+     malachite_previous_days_en.rst:32; "Sabarith Law" -> "law" in gamemaster_planning_details_en.rst:75, gamemaster_manual_mindstorm_en.rst:523,
+     judicial_penalties_overview_en.rst:9, shark_missions_en.rst:17. Leave FR as is.
+  => VERIFIED: CORRECTED: the glossary l.62-64 quote is exact and the rule is good, but the EN hit list contradicts it. These uses are
+     possessive, indefinite or descriptive and stay lowercase under the new rule: spy_sounder_role_en:16/24 "Your metal detector",
+     gamemaster_manual_archives_en:1154 "their metal detector", checklist_en:373 "Spare magnetic unlocker", :430, :467 "Longruner metal
+     detector". Only gm 950, gm 1062 and checklist_en:470/507 qualify. Missed: amethyst_previous_days_en:87 "this whole Orb business";
+     plural "the Orbs" (= the Divine Orbs) at gamemaster_manual_en.yaml:301/316/386/675/690/1178, which should stay capitalised; and the
+     glossary rows l.258-260 and l.2587-2588, which prescribe "Orb" and must be rewritten too. shark_missions_en:17 "the Sabarith Law
+     document" means the "Elements of Sabarith Law" sheet: write that title instead of lowercasing. See also the Orb entry above, whose
+     "Loyd Georges' Orb" exception conflicts with its own list.
+  => FINAL: Reword glossary l.62-64 as proposed, but define "name" as an invented or title-like name (World Scanner, Leather Purse,
+     Tectonic Canister, Akarith Lexicon, Elements/Gems of Sabarith Law), while common nouns stay lowercase in prose (metal detector,
+     magnetic unlocker, UV lamp - already lowercase in glossary l.980/2386 -, Herculean strength), with a capital only as role-sheet
+     ability headings (spy_sounder_role_en:13, spy_lockpicker_role_en:22, parcival_woodsman_role_en:9; say so in glossary rows
+     l.659-664/836-838). Hence no Archives prose edits (the definite/indefinite split would put "The Metal Detector" :507 next to
+     "the broken UV lamp or metal detector" :430); mindstorm checklist_en:177 -> "Modern Akarith Lexicon"; "Sabarith law" at
+     planning_en:75, gm_en:523, judicial_penalties_en:9; shark_missions_en:17 -> the "Elements of Sabarith Law" document; orbs as in
+     the Orb entry above (also gamemaster_manual_en.yaml 284/301/316/361/386/675/690/751/1178 "the Orbs" -> lowercase, since 14
+     lines of that file already write "the orbs"; capitalise the Alpha/Beta/Gamma orb names there, l.759-802/1700/1721).
+  => PARTLY DONE (0854ccf): mindstorm checklist_en:177 "Modern Akarith Lexicon", "Sabarith law" at planning_en:75, gm_en:523, judicial_penalties_en:9, shark_missions_en:17 -> the "Elements of Sabarith Law" document; REMAINING: reword glossary l.62-64 (and the ability-heading notes), lowercase the EN orbs incl. gamemaster_manual_en.yaml "the Orbs" and capitalise the Alpha/Beta/Gamma orb names (see the Orb entry above).
+  => DONE (cba1e14..b794ef8): remaining items done: glossary l.62-64 convention rewritten (invented/title-like names capitalised, common nouns lowercase in prose and capitalised only as ability headings, bare orb(s) lowercase), EN orbs lowercased and Alpha/Beta/Gamma Orb capitalised (see the Orb entry)
+
+- Cromlech: the druid speaks to the psykers "(in French)" / "in broken French" (druid_spectre_en.rst:26, game_flow_en.rst:103/165/190). In an English session this presumably means the players' language. => Decide.
+  => RECOMMENDATION: the game is set in Lyon around 1900 (paranormal_detectives_fr.rst:7), the druid natively speaks Celtic, and "(en
+     français)" is a stage direction marking the one register the psykers understand via the mental link. EN only (FR unchanged):
+     druid_spectre_en.rst:26 "(in the players' own language)"; game_flow_en.rst:103 and :165 "(in the players' language)"; :190 "(now in
+     broken, halting speech the players can understand)"; update glossary l.3517 "in broken French" accordingly. Alternative: keep "French"
+     and add one GM note in gamemaster_manual_en.rst that "French" means the language of the session.
+  => VERIFIED: OK (glossary row is l.3515-3517). Optional: at game_flow_en:190, "(now in broken English)" is a shorter natural equivalent.
+  => FINAL: First recommendation stands (EN only: "the players' own language" at druid_spectre_en.rst:26 and
+     game_flow_en.rst:103/165, "now in broken English" at :190; glossary row l.3516-3518). The author must also settle a FR/EN
+     source inconsistency: druid_spectre_{fr,en}.rst:38 has the druid harangue the final scene "en langue celte"/"in the Celtic
+     tongue" while game_flow_{fr,en}.rst:190 says "en français approximatif"/"in broken French".
+  => PARTLY DONE (2e8abf6): EN "the players' (own) language" at druid_spectre_en.rst:26 and game_flow_en.rst:103/165, "broken English" at :190, glossary row updated; REMAINING: author to settle druid_spectre_{fr,en}.rst:38 "en langue celte"/"in the Celtic tongue" vs game_flow_{fr,en}.rst:190 "en français approximatif"/"in broken English" for the final harangue.
+  => DONE (cba1e14..b794ef8): remaining inconsistency settled in both sources: druid_spectre_{fr,en}.rst:38 now "(en langue celte puis en français approximatif, avec de grands gestes)" / "(in the Celtic tongue and then in broken English, with sweeping gestures)", matching game_flow:190 "désormais"/"now"
+
+- Auction (~line 1696, [alpha]): French "lui faire demander" was read as "have the players request Waden's digital friendship in her name" (from Cynthia's hacked account). => Confirm.
+  => RECOMMENDATION: reading confirmed by the manual's own walkthrough (gamemaster_manual{,_en}.yaml:731-732: the hacker must send Waden a
+     "friendship request" in Cynthia's name). Tighten EN l.1696 to "then have the players send Waden a \"Digital Friendship\" request from her
+     hacked account" and use the glossary capitalisation "Digital Friendship" also at l.207/731; FR optionally "puis leur faire demander, au nom
+     de Cynthia, l'« amitié numérique » de Waden".
+  => VERIFIED: CORRECTED: the hacked-account friendship request is only at gamemaster_manual{,_en}.yaml:731 (l.732 is the second-chance
+     encrypted archive). l.731 says "demande d'amitié"/"friendship request" (generic, not the "Digital Friendship" feature name), so leave
+     it; the glossary capitalisation (l.1630-1632) applies at l.207 and l.1696 only. The current EN l.1696 ("in her name") is already
+     correct, so the rewording is optional.
+  => FINAL: Reading confirmed; EN l.1696 is already correct, rewording optional. Leave the generic "friendship request" at
+     gamemaster_manual{,_en}.yaml:731 (and the end of l.732, which also mentions it). Capitalising "Digital Friendship" (glossary
+     l.1630-1632) at l.207/1696 is optional and, if done, should also cover
+     mysteryparty_mindstorm/common_anthropia_account_summary_displayer_en.rst:25.
+  => DONE (cba1e14..b794ef8): no change needed (reading confirmed; optional capitalisation not applied)
+
 Build toolchain (docs/)
 -----------------------
 
@@ -1166,3 +1100,130 @@ Build toolchain (docs/)
      is_npc true l.2204-2205). Line fix: _generate_spoiler_manor_surveillance_reports spans l.247-258 and its ISOLATED_DOCS entry is
      l.263.
   => DONE (0854ccf): the "{# IMPORTANT ADDITIONAL CHAPTER ... #}" comment at shark_previous_days_{fr,en}.rst:67 now explains the gamemaster-version include (Shark is organiser-played).
+- appointments/yodic_council_interviews_en.rst and missions/transfiliation_attempt/dorian_mission_en.rst do
+  replace('**Un ', '.. ') on texts of the game data dump: this only works because the dump is French.
+  => Adapt these replacements when an English dump (_initial_game_data_dump_en.yaml) is created.
+  => RECOMMENDATION: the chain (appointments/yodic_council_interviews_{fr,en}.rst:41, missions/transfiliation_attempt/dorian_mission_{fr,en}.rst:32/37)
+     turns the bold portrait caption "**Un archevêque akarite :**" (dump l.23308, l.23456) into an RST comment and kills the following
+     ".. image::" directive; with an EN dump ("**An Akarith archbishop:**") the caption would survive as an orphan bold line. Replace the six
+     filter chains by one language-neutral Jinja filter in docs/mysteryparty_common_utils.py (e.g. strip_pychronia_page_markup: remove [BR],
+     demote "="/"#" underlines, drop ".. image::" directives with their option block via a regex, and drop a bold paragraph only when it
+     immediately precedes an image directive), registered on the Jinja env in build_mindstorm_pdfs.py.
+  => VERIFIED: CORRECTED: the chains and the dump lines are right (l.23308 yodic_quotes, l.23456 yodic_theology), but replace('**Un ', '.. ')
+     does not kill the image directive: replace('image::','brokenimage') already turns it into an RST comment (see
+     output_mindstorm/*/all_phone_appointments.rst:154); '**Un ' only comments out the caption. The conclusion stands (an EN caption would
+     survive as an orphan bold line) and the proposed filter is sound. Register it on jinja_env at build_mindstorm_pdfs.py:43. Note that the
+     current replace('=')/replace('#') hit every such character, not only underlines.
+  => FINAL: First recommendation as corrected by the second stands: replace('image::','brokenimage') already comments the image
+     directive out and '**Un ' only removes the caption; replace the six chains (yodic_council_interviews_{fr,en}.rst:41,
+     dorian_mission_{fr,en}.rst:32/37) by one language-neutral filter registered after jinja_env creation
+     (build_mindstorm_pdfs.py:43). Precision: dump l.23456 is "**Un haut-judicateur akarite :**" (l.23308 is the "archevêque").
+  => DONE (cba1e14..b794ef8): language-neutral filter strip_pychronia_page_markup() added to docs/mysteryparty_common_utils.py (drops [BR], drops a bold caption paragraph immediately preceding an image directive, comments the image directive out, demotes =/# as before), registered on jinja_env in build_mindstorm_pdfs.py:44 and used by the six chains of yodic_council_interviews_{fr,en}.rst:41 and dorian_mission_{fr,en}.rst:32/37; verified on the FR dump and the new EN overlay (captions "**An Akarith archbishop:**" no longer leak)
+
+- Clue exports always use LibreOffice's default port (2002), so two clue exports can't run at the same time.
+  => RECOMMENDATION: docs/mysteryparty_common_utils.py:197-198 calls unoconv.py without "-p" (unoconv.py default port 2002 at l.553, option
+     -p/--port l.650). Minimal fix: in _generate_clues_pdfs_from_main_odt_document pick a free port (bind socket to port 0) and pass "-p <port>",
+     plus a per-process -env:UserInstallation profile so two soffice instances can start. Cleaner: drop unoconv and call
+     "soffice -env:UserInstallation=file:///<tempdir> --headless --convert-to pdf:writer_pdf_Export:{ExportNotes:false,...} --outdir ..." (JSON
+     filter options need LibreOffice >= 7.4), then rename to _all_ingame_clues.pdf; keep the existing check that no /Text annotations were
+     exported (l.201-203). Expose --port in rpg.parse_build_arguments for manual override.
+  => VERIFIED: OK, with precisions: the cmd is at mysteryparty_common_utils.py:195-196 (run at l.199, annotation check l.201-202). Mechanism:
+     a second run connects to the first run's listener, which the first run shuts down when it ends (unoconv.py:1258-1269), so both a
+     separate port and a separate profile are needed. unoconv has --user-profile (l.685), but l.844 builds "file://"+realpath, which gives
+     a malformed URL on Windows. Prefer the direct "soffice --convert-to" route, which needs no port at all.
+  => FINAL: First recommendation as refined by the second stands: prefer the direct "soffice --convert-to" route (no port), but keep
+     a per-run -env:UserInstallation profile (else soffice hands the job to any running LibreOffice) built with
+     pathlib.Path(tmp).as_uri() (avoids the malformed "file://"+realpath of unoconv.py:844). Line refs confirmed: cmd
+     mysteryparty_common_utils.py:195-196, run l.199, check l.201-202.
+  => DONE (cba1e14..b794ef8): docs/mysteryparty_common_utils.py: new _export_odt_to_pdf() runs "soffice -env:UserInstallation=<tmp profile as_uri()> --headless --norestore --convert-to pdf:writer_pdf_Export:{ExportNotes:false,ExportNotesInMargin:false} --outdir <tmp>" (no UNO port, private profile per run, LibreOffice found via PATH or the standard install dirs), falling back to unoconv.py when no soffice exists; the no-annotations and page-count checks are kept. Verified with --with-clues builds of Mindstorm and Archives in both languages
+
+Descent (script_fixtures/descent_rpg/descent_rpg_data_en.yaml)
+--------------------------------------------------------------
+
+- The riddles were adapted so they can be solved in English.
+  => Proofread them.
+  => RECOMMENDATION: nothing broken; the wording of this entry is inaccurate for Descent: the five "enigmatic writings" (descent_rpg_data{,_en}.yaml:33)
+     and the painting verse (master_script l.317) involve no wordplay or letter counts, the EN texts are straight translations, and each still
+     points to its target (air/earth/water levers l.195, crossentar niche l.258, ceiling runes l.292/326/441, Divine Tear in the cold l.286/328/384,
+     lantern + grate l.326). No codes or passwords exist in master_script_en.rst / player_sheet_template_en.rst. Reword or drop the item.
+  => VERIFIED: OK. The enigmatic writings are at descent_rpg_data{,_en}.yaml:35 (not 33). The lever riddle uses only cardinal points, and the
+     ceiling runes are readable only by the Alifir Academy (l.326), so nothing is language-dependent.
+  => FINAL: First recommendation stands (nothing language-dependent; reword or drop the item), with the second's line fix: the
+     enigmatic writings are at descent_rpg_data{,_en}.yaml:35, not 33.
+  => DONE (cba1e14..b794ef8): no change needed (nothing language-dependent in Descent)
+
+- Descent FR: "un retraité du pays de Sabarite" (descent_rpg/master_script_fr.rst:44; the country is Sabarim, "sabarite" is the adjective;
+  EN :44 already says "the land of Sabarim"); "il y a des **500 ans** de cela" (:427) is odd French.
+  => SUGGESTION: "du pays de Sabarim"; "il y a quelque **500 ans** de cela".
+  => DONE (cba1e14..b794ef8): master_script_fr.rst:44 "du pays de Sabarim", :427 "il y a quelque **500 ans** de cela"
+
+Mindstorm & Archives game data (docs/_initial_game_data_dump.yaml)
+------------------------------------------------------------------
+
+- This file exists only in French, and is loaded whatever --lang is.
+  French text (official roles, static pages / long story passages, item descriptions, guest roles)
+  therefore shows up in English player sheets, guest gallery, lore introduction, phone appointments,
+  cheat sheet and manor surveillance reports.
+  => Create an English version (e.g. _initial_game_data_dump_en.yaml), loaded via load_localized_yaml_file.
+  => RECOMMENDATION: do not translate the whole 23.5k-line dump (messaging, _TEMP_, audio, views are never rendered). Create a small
+     docs/_initial_game_data_dump_en.yaml OVERLAY holding only the consumed subtrees: character_properties.*.official_name/official_role/
+     full_official_title, abilities.house_reports.settings.reports (surveillance_analysis + gamemaster_hints), the ability titles used in the
+     rules/cheat sheets, game_items.*.title/comments for auctioned lots, static_pages.yodic_quotes/yodic_theology, the locations used by the
+     Archives checklist. Add in docs/rpg_sheet_generator.py a load_yaml_with_localized_overlay(file, lang) that loads the FR dump and
+     deep-merges the _en overlay (and fails if an overlay key is missing from the FR dump, to catch drift when the dump is regenerated), and use
+     it at build_mindstorm_pdfs.py:389 and build_archives_pdfs.py:401 (currently load_localized_yaml_file, which falls back to FR with a
+     "!!! No translated ... found" message). The old walk_and_translate_to_english.py / file_translator.db.* (DeepL walker from 2020, hard-coded
+     API key at l.46) is unrelated and obsolete. Long term, as the TODO at build_mindstorm_pdfs.py:390 says, read the *_en.yaml sources directly.
+  => VERIFIED: CORRECTED: the overlay approach is sound but should target Mindstorm only. These claims are right: the l.389/401/390 refs,
+     the fallback at rpg_sheet_generator.py:132-133 and the 23,531-line dump. The walker is script_fixtures/walk_and_translate_to_english.py
+     (not docs/); its key is hard-coded at l.42 (not l.46), and its file_translator.db (2020) covers only Auction/Descent, so it is indeed
+     obsolete. full_official_title is not in the dump: it is computed at build_mindstorm_pdfs.py:434-437 from official_name/official_role.
+     Ability titles come from AVAILABLE_ANTHROPIA_ABILITIES (build_mindstorm_pdfs.py:143, already fr/en), not from the dump. The Archives
+     build uses no dump text, only global_parameters.master_login and the character_properties container (build_archives_pdfs.py:466-476),
+     so no overlay is needed at l.401 and no "Archives checklist locations" are needed. The consumed subtrees are
+     character_properties.*.official_name/official_role, abilities.house_reports.settings.reports.*.surveillance_analysis/gamemaster_hints,
+     game_items.*.title/comments (common_auction_program_*.rst:18), and static_pages.yodic_quotes.content/gamemaster_hints and
+     yodic_theology.content.
+  => FINAL: Second agent's version stands (EN overlay for Mindstorm only, deep-merged over the FR dump; Archives needs none), but
+     the consumed-subtree list misses two leaks visible in docs/output_mindstorm/en/: character_properties.*.extra_goods ("Monnaie
+     certifiée...", build_mindstorm_pdfs.py:511, 19 files) and character_properties['loyd.georges'].secret_question ("Le nom de mon
+     premier animal...", amethyst_cheat_sheet_en.rst:8, 12 files). Overlay = official_name/official_role, extra_goods, that
+     secret_question, house_reports.settings.reports.*, game_items.*.title/comments, static_pages.yodic_quotes/yodic_theology texts.
+  => PDF COMPARISON (latest FR/EN): the EN Mindstorm PDFs still show French from the dump, all covered by the overlay list above: "Monnaie
+     certifiée : 1000 Livres Sabarites" (character_properties.*.extra_goods, docs/build_mindstorm_pdfs.py:511 current_player_extra_goods;
+     source characters_factions.yaml:51 etc.), official roles and guest descriptions (common_guests_gallery_en.rst:19), auction lots, the
+     surveillance reports included in Shark's EN sheet, and the Yodic quotes/theology (static_pages). The replace('**Un ', '.. ') filter of
+     dorian_mission_en.rst only matches the French caption: see the Build toolchain entry about it.
+  => DONE (cba1e14..b794ef8): docs/_initial_game_data_dump_en.yaml created as a partial EN overlay (character_properties official_role/extra_goods/secret_question + Shark's official_name, abilities.house_reports.settings.reports.* surveillance_analysis/gamemaster_hints, game_items.*.title/comments for the 60 lots, static_pages.yodic_quotes/yodic_theology content/gamemaster_hints), reusing the glossary lot names; rpg_sheet_generator.load_yaml_with_localized_overlay() deep-merges it over the FR dump (fails if an overlay key is missing from the base), used at build_mindstorm_pdfs.py:390 and build_archives_pdfs.py:401 (the Archives build must use it too, otherwise the partial overlay is taken for a full dump); Obsidian's extra_goods still renders in French in EN because it is set by the private local.yaml overrides, not by the dump. EN Mindstorm PDFs rebuilt: no more "Monnaie certifiée", French roles, lots or Yodic pages
+
+Doubts from the FR/EN PDF comparison
+------------------------------------
+
+- Orb gender in French: Descent's master script is feminine (descent_rpg/master_script_fr.rst:328 "L'orbe est bien en évidence dans sa
+  cachette, posée sur un lingot d'or. Elle réagit violemment..."), whereas the Auction manual insists on the masculine
+  (gamemaster_manual.yaml:248 'les fameuses "Trois Orbes Divins" (oui, c'est masculin...)'; also :706 "cet orbe",
+  master_script_fr.rst:758/787/801 "un orbe").
+  => Pick one.
+  => SUGGESTION: masculine (dictionary gender, majority use): master_script_fr.rst:328 "posé... Il réagit... le prendre...".
+  => DONE (cba1e14..b794ef8): masculine (dictionary gender, majority use): descent_rpg/master_script_fr.rst:328 "posé sur un lingot d'or. Il réagit violemment... le prendre... le mettre... le calmer... sans qu'il attire"
+
+- Cross-game names between Descent and Auction: the grate is "Filtre de l'Orthodoxie"/"Filter of Orthodoxy"
+  (descent_rpg/master_script_{fr,en}.rst:311, glossary l.4136-4137) but "Protectrice de l'orthodoxie"/"Protector of Orthodoxy"
+  (gamemaster_manual{,_en}.yaml:770, "surnommée"); the stone lantern goes in the "puits"/"well" (master_script_{fr,en}.rst:326/441/447) but
+  in the "fontaine"/"fountain" (gamemaster_manual{,_en}.yaml:771).
+  => Harmonise.
+  => SUGGESTION: follow Descent, where the puzzle is played: "Filtre de l'Orthodoxie" and "puits"/"well" in the Auction manual.
+  => DONE (cba1e14..b794ef8): Descent names followed in the Auction manual: gamemaster_manual{,_en}.yaml:770 "surnommée \"Filtre de l'Orthodoxie\""/"nicknamed \"Filter of Orthodoxy\"", :771 "la lanterne dans le puits"/"the lantern in the well"
+
+- FR style in Auction/Descent: unaccented capitals ("Equipements" descent_rpg/player_sheet_template_fr.rst:37, "Enigme"
+  master_script_fr.rst:326, "Elixir" master_script_fr.rst:302/318/455/469 and descent_rpg_data.yaml:106, "A l'inverse"
+  gamemaster_manual.yaml:240/883/1885, "PREMIERE" gamemaster_manual.yaml:1652); "héliossars" (gamemaster_manual.yaml:1018-1027, 1168) vs
+  "héliossares" (:1172) in the Auction manual.
+  => Accent the capitals (É, À, PREMIÈRE) and pick one plural spelling (see also the Mindstorm style entry).
+  => DONE (cba1e14..b794ef8): accented: "Équipements" (player_sheet_template_fr.rst:37), "Énigme lumineuse" (master_script_fr.rst:326), "Élixir" (Descent FR x5), "À l'inverse" x3 and "PREMIÈRE série" and "État" (gamemaster_manual.yaml); plural "héliossars" chosen (majority): gamemaster_manual.yaml:1172 (x2) and messaging/player_instructions.yaml (x3) "héliossares" -> "héliossars"
+
+- Docutils French smart quotes (docs/docutils.conf:6 "smart_quotes = yes") render 'single quotes' as “ ” (nested-quote style) in the FR
+  PDFs: typographically acceptable, but sources must use double quotes wherever « » is wanted.
+  => Decide whether to turn single-quoted FR passages into double quotes (all games).
+  => DONE (cba1e14..b794ef8): accepted, no change: rendering single quotes as nested “ ” is typographically fine, and a sweep of all single-quoted FR passages (hundreds of candidates, most of them Jinja string literals) would be risky for no gameplay gain; sources must use double quotes where « » is wanted
+
