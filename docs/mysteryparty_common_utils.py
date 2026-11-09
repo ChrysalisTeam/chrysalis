@@ -125,7 +125,8 @@ def _generate_clues_pdfs_from_main_odt_document(input_doc, clues_parts, output_d
         if os.path.exists(filepath):
             os.remove(filepath)
 
-    cmd = [sys.executable, "unoconv.py", "-f", "pdf", "-o", full_pdf, "-e", "ExportNotes=false", input_doc]
+    cmd = [sys.executable, "unoconv.py", "-f", "pdf", "-o", full_pdf,
+           "-e", "ExportNotes=false", "-e", "ExportNotesInMargin=false", input_doc]
     print(cmd)
     try:
         subprocess.run(cmd, check=True)
