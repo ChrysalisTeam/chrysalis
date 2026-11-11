@@ -1,0 +1,97 @@
+
+messaging:
+
+    manual_messages_templates:
+
+
+
+
+        -   id: wiremind_announce
+            gamemaster_hints: "Announcement of the chess contest against the chess-playing artificial intelligence."
+            categories: ["wiremind"]
+            sender_email: scharamoz@imuo-faculty.pg
+            subject: Science Fiction becomes reality!
+            body: |
+
+                It is with overflowing pride that the **Faculty of Imuo** launches, today, the **Chess Challenge**.
+
+                Come and pit yourself against the most skilful artificial intelligence ever created, **Wiremind**, the fruit of 11 years of cutting-edge research in our laboratories.
+
+                Can you beat Wiremind at Chess, and win the 1,000¤ prize at stake? Can you prove wrong the saying that the only entity capable of defeating Wiremind is Wiremind itself?
+
+                See you soon in the **Chess Challenge** section!
+
+                *Prof. Scharamoz*
+
+
+        -   "id": wiremind_alifir_warning
+            "body": |
+                Dear members and friends of the Alifir Academy,
+
+                You will no doubt have seen the announcement about the chess A.I. WIREMIND, developed at the Faculty of Imuo, which claims to be "revolutionary".
+
+                This is a heavy blow to the credibility of our Academy, which has always been at the forefront of this field.
+
+                What is more, we have reason to believe that some of the code of this application was stolen from our own applied research laboratory, even though we cannot prove it.
+
+                It would be abominable for Imuo to steal the limelight from us in this way, so we would be grateful to anyone
+                able to do so to do everything in their power to defeat this A.I., and thus demonstrate that its reputation is
+                overblown.
+
+                Thank you,
+
+                *Aiode, supervisor of the department of digital sciences*
+            "categories":
+            - >-
+                wiremind
+            "gamemaster_hints": ""
+            "sender_email": >-
+                aiode@anthropia.pg
+            "subject": >-
+                Chess - alert
+
+
+        -   id: wiremind_defat_alifir_cheers
+            gamemaster_hints: "If a player has, in any way whatsoever, defeated Wiremind."
+            categories: ["wiremind", "doctor_honoris_causa"]
+            sender_email: aiode@anthropia.pg
+            subject: "Heartfelt thanks"
+            body: |
+
+                Dear Mr {{ player_name }},
+
+                On behalf of the Alifir Academy, we extend to you our warmest congratulations and our gratitude for your chess victory against the artificial intelligence of the Faculty of Imuo.
+
+                By winning, as a mere amateur player, against their technological prodigy, you have dealt them a snub which they have taken care not to publicise. And since it would have been most unjust for these people to overshadow us with technologies they had largely stolen from us (even though, alas, we were unable to prove it), we are delighted that right has triumphed through your agency.
+
+                We are therefore in your debt, and will make it our business to grant any wish you might express.
+
+                Kind regards,
+
+                *The Deans of the Alifir Academy*
+
+
+        -   id: wiremind_success_interview
+            "body": |
+                Hello,
+
+                here is the interview:
+
+                - how did you discover chess?
+
+                - how did you feel after beating Wiremind?
+
+                - any comment on Loyd Georges and the Alifir Academy, to which he is close?
+
+                Thanks,
+
+                *the gazeeetttttte*
+            "categories":
+            - >-
+                wiremind
+            "gamemaster_hints": ""
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Questions for the conqueror of Wiremind
+

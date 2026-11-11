@@ -1,0 +1,62 @@
+﻿---
+
+messaging:
+
+    manual_messages_templates:
+
+
+
+
+        -   "id": deans_announce_waden_cynthia_engagement
+            "body": |
+                Dear colleagues and friends of the Alifir Academy,
+
+                A small drinks reception will be held in 20 days in honour of the engagement of our young and talented
+                quantum physicist, Waden Shaw, to the no less talented reporter Cynthia Loakim (whose
+                name should, quite rightly, ring a bell).
+
+                Following the excesses of the last such occasion, only sweet cider will be allowed,
+                and breathalyser tests will be carried out on the way in and on the way out.
+
+                *The Deans*
+
+                [BR]
+
+                [BR]
+
+                **Portraits of the Lovebirds**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/portraits/cynthia_loakim_portrait.jpg" "medium_width"]
+                    :align: center
+                .. image:: [GAME_THUMBNAIL_URL "images/portraits/waden_shaw_portrait.png" "medium_width"]
+                    :align: center
+            "categories":
+            - >-
+                cynthia_abduction
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                mneme@anthropia.pg
+            "subject": >-
+                Joyful announcement
+
+
+        -   id: first_news_cynthia
+            gamemaster_hints: "Introduction of the reporter engaged to the physicist Waden Shaw."
+            categories: ["cynthia_abduction"]
+            sender_email: cynthia
+            recipient_emails: waden
+            subject: All is well
+            body: |
+                Hi darling, sending you loads of kisses from Kitiika, where the council of Nalavutian chiefs opens
+                tonight. I managed to get special permission to attend, so everything is going swimmingly.
+
+                See you soon,
+
+                    Your "RF"
+
+
+
+...
