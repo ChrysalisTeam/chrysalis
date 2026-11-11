@@ -87,7 +87,7 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
   => PARTLY DONE (cba1e14..b794ef8): key kept; GM notes added to the EN ODT comments p471/p473/p475 (the pictures encode the French SOUS RACINES DE BAOBAB / FRERES RDV DEMAIN SOIR AU PURINEUR / MO NOUS COUVRE...) and p630 (ivory object hides the French "sanctuaire"), plus gamemaster_assets_checklist_en.yaml:198/213 notes
   => !!!!!! BLOCKED ON AUTHOR !!!!!!: produce English-encoded cipher pictures (hieroglyphs, runes, symbols) for ingame_clues_mindstorm_en.odt and an English ivory prop, or accept the GM notes
 
-Descent (script_fixtures/descent_rpg/descent_rpg_data_en.yaml)
+Descent (script_fixtures/rpg_descent/descent_rpg_data_en.yaml)
 --------------------------------------------------------------
 
 Mindstorm & Archives game data (docs/_initial_game_data_dump.yaml)
@@ -706,7 +706,7 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
   => SUGGESTION: drop the final periods (then regenerate the dump, which holds a copy).
   => DONE (cba1e14..b794ef8): the 7 final periods dropped in characters_factions.yaml (l.135/149/179/194/241/257/273) and in docs/_initial_game_data_dump.yaml (same roles)
 
-Sentience and Cromlech (script_fixtures/sentience_rpg/, script_fixtures/mysteryparty_cromlech/)
+Sentience and Cromlech (script_fixtures/rpg_sentience/, script_fixtures/mysteryparty_cromlech/)
 -----------------------------------------------------------------------------------------------
 
 - Sentience: two scenes are numbered 3. => Renumber.
@@ -1155,7 +1155,7 @@ Build toolchain (docs/)
      mysteryparty_common_utils.py:195-196, run l.199, check l.201-202.
   => DONE (cba1e14..b794ef8): docs/mysteryparty_common_utils.py: new _export_odt_to_pdf() runs "soffice -env:UserInstallation=<tmp profile as_uri()> --headless --norestore --convert-to pdf:writer_pdf_Export:{ExportNotes:false,ExportNotesInMargin:false} --outdir <tmp>" (no UNO port, private profile per run, LibreOffice found via PATH or the standard install dirs), falling back to unoconv.py when no soffice exists; the no-annotations and page-count checks are kept. Verified with --with-clues builds of Mindstorm and Archives in both languages
 
-Descent (script_fixtures/descent_rpg/descent_rpg_data_en.yaml)
+Descent (script_fixtures/rpg_descent/descent_rpg_data_en.yaml)
 --------------------------------------------------------------
 
 - The riddles were adapted so they can be solved in English.
@@ -1170,7 +1170,7 @@ Descent (script_fixtures/descent_rpg/descent_rpg_data_en.yaml)
      enigmatic writings are at descent_rpg_data{,_en}.yaml:35, not 33.
   => DONE (cba1e14..b794ef8): no change needed (nothing language-dependent in Descent)
 
-- Descent FR: "un retraité du pays de Sabarite" (descent_rpg/master_script_fr.rst:44; the country is Sabarim, "sabarite" is the adjective;
+- Descent FR: "un retraité du pays de Sabarite" (rpg_descent/master_script_fr.rst:44; the country is Sabarim, "sabarite" is the adjective;
   EN :44 already says "the land of Sabarim"); "il y a des **500 ans** de cela" (:427) is odd French.
   => SUGGESTION: "du pays de Sabarim"; "il y a quelque **500 ans** de cela".
   => DONE (cba1e14..b794ef8): master_script_fr.rst:44 "du pays de Sabarim", :427 "il y a quelque **500 ans** de cela"
@@ -1217,23 +1217,23 @@ Mindstorm & Archives game data (docs/_initial_game_data_dump.yaml)
 Doubts from the FR/EN PDF comparison
 ------------------------------------
 
-- Orb gender in French: Descent's master script is feminine (descent_rpg/master_script_fr.rst:328 "L'orbe est bien en évidence dans sa
+- Orb gender in French: Descent's master script is feminine (rpg_descent/master_script_fr.rst:328 "L'orbe est bien en évidence dans sa
   cachette, posée sur un lingot d'or. Elle réagit violemment..."), whereas the Auction manual insists on the masculine
   (gamemaster_manual.yaml:248 'les fameuses "Trois Orbes Divins" (oui, c'est masculin...)'; also :706 "cet orbe",
   master_script_fr.rst:758/787/801 "un orbe").
   => Pick one.
   => SUGGESTION: masculine (dictionary gender, majority use): master_script_fr.rst:328 "posé... Il réagit... le prendre...".
-  => DONE (cba1e14..b794ef8): masculine (dictionary gender, majority use): descent_rpg/master_script_fr.rst:328 "posé sur un lingot d'or. Il réagit violemment... le prendre... le mettre... le calmer... sans qu'il attire"
+  => DONE (cba1e14..b794ef8): masculine (dictionary gender, majority use): rpg_descent/master_script_fr.rst:328 "posé sur un lingot d'or. Il réagit violemment... le prendre... le mettre... le calmer... sans qu'il attire"
 
 - Cross-game names between Descent and Auction: the grate is "Filtre de l'Orthodoxie"/"Filter of Orthodoxy"
-  (descent_rpg/master_script_{fr,en}.rst:311, glossary l.4136-4137) but "Protectrice de l'orthodoxie"/"Protector of Orthodoxy"
+  (rpg_descent/master_script_{fr,en}.rst:311, glossary l.4136-4137) but "Protectrice de l'orthodoxie"/"Protector of Orthodoxy"
   (gamemaster_manual{,_en}.yaml:770, "surnommée"); the stone lantern goes in the "puits"/"well" (master_script_{fr,en}.rst:326/441/447) but
   in the "fontaine"/"fountain" (gamemaster_manual{,_en}.yaml:771).
   => Harmonise.
   => SUGGESTION: follow Descent, where the puzzle is played: "Filtre de l'Orthodoxie" and "puits"/"well" in the Auction manual.
   => DONE (cba1e14..b794ef8): Descent names followed in the Auction manual: gamemaster_manual{,_en}.yaml:770 "surnommée \"Filtre de l'Orthodoxie\""/"nicknamed \"Filter of Orthodoxy\"", :771 "la lanterne dans le puits"/"the lantern in the well"
 
-- FR style in Auction/Descent: unaccented capitals ("Equipements" descent_rpg/player_sheet_template_fr.rst:37, "Enigme"
+- FR style in Auction/Descent: unaccented capitals ("Equipements" rpg_descent/player_sheet_template_fr.rst:37, "Enigme"
   master_script_fr.rst:326, "Elixir" master_script_fr.rst:302/318/455/469 and descent_rpg_data.yaml:106, "A l'inverse"
   gamemaster_manual.yaml:240/883/1885, "PREMIERE" gamemaster_manual.yaml:1652); "héliossars" (gamemaster_manual.yaml:1018-1027, 1168) vs
   "héliossares" (:1172) in the Auction manual.

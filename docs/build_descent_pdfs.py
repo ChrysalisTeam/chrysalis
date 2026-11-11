@@ -8,9 +8,9 @@ rpg.enter_docs_folder()
 
 LANGUAGE = rpg.parse_build_arguments().lang  # use "--lang en" on command line for English documents
 
-TEMPLATES_ROOT = os.path.abspath("../script_fixtures/descent_rpg")
-YAML_FILE = os.path.abspath("../script_fixtures/descent_rpg/descent_rpg_data.yaml")
-MASTER_SCRIPT = os.path.abspath(rpg.localize_filename("../script_fixtures/descent_rpg/master_script.rst", LANGUAGE))
+TEMPLATES_ROOT = os.path.abspath("../script_fixtures/rpg_descent")
+YAML_FILE = os.path.abspath("../script_fixtures/rpg_descent/descent_rpg_data.yaml")
+MASTER_SCRIPT = os.path.abspath(rpg.localize_filename("../script_fixtures/rpg_descent/master_script.rst", LANGUAGE))
 OUTPUT_DIR = os.path.join("output_descent", LANGUAGE)
 RST2PDF_CONF_FILE = "./rst2pdf.conf"
 EXTRA_ARGS_FOR_MASTER_SCRIPT = "--stylesheets=simple_tight"
