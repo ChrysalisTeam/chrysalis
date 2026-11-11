@@ -23,6 +23,9 @@ DEFAULT_ROOT = os.path.join(THIS_DIR, "..", "script_fixtures", "alternate_realit
 # lists of free texts, whose length may differ between languages (eg. encyclopedia keywords and their FR variants)
 FREE_LENGTH_LIST_KEYS = {"keywords"}
 
+# keys whose values are translated even though they look like identifiers (eg. answers players must guess from texts)
+TRANSLATABLE_IDENTIFIER_KEYS = {"secret_answer"}
+
 # strings which must stay verbatim in translations (unless they contain spaces, ie. real text)
 IDENTIFIER_REGEX = re.compile(r"""^(
     \S+@\S+                                       # email
@@ -108,7 +111,7 @@ def compare_trees(fr, en, path, errors, warnings):
             compare_trees(fr_item, en_item, path + [index], errors, warnings)
 
     elif isinstance(fr, str):
-        if fr != en and IDENTIFIER_REGEX.match(fr.strip()):
+        if fr != en and IDENTIFIER_REGEX.match(fr.strip()) and not (path and path[-1] in TRANSLATABLE_IDENTIFIER_KEYS):
             errors.append("%s: identifier-like value changed: %r -> %r" % (location, fr, en))
         if _markup_counter(fr) != _markup_counter(en):
             diff_fr = _markup_counter(fr) - _markup_counter(en)

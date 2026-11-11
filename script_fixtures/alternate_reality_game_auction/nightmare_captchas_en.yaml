@@ -1,0 +1,52 @@
+---
+
+nightmare_captchas:
+
+    trolling:
+        text: "In philosophy, to what extent is Being subversively contingent upon Substance?"
+        image: null
+        answer: null
+        explanation: null  # Some questions just have no answer.
+
+    unreadable:
+        text: "Translate this text into English:"
+        image: "unreadable.png"
+        answer: null
+        explanation: null  # Some languages have vanished...
+
+    derivatives:
+        text: "Solve for Y in the following equation:"
+        image: "equation.jpg"
+        answer: null
+        explanation: null  # Some equations just have no answer.
+
+    maths_enumeration:
+        text: |
+            Write a 10-digit number such that:
+
+            - the first digit gives the total number of zeros in it
+            - the second digit the total number of 1s, and so on up to the last digit.
+
+        image: null
+        answer: "6210001000"
+        explanation: "The number found meets the criteria."
+
+    common_point:
+        text: "Which digit do the following 6 numbers have in common: 7, 40, 3, 60, 8, 50?"
+        image: null
+        answer: "5"
+        explanation: "They are all written with 5 letters."
+
+    logical_sequence:
+        text: "Consider the following logical sequence: 4, 6, 15, 105, .... what will the next number be?"
+        image: null
+        answer: "5460"
+        explanation: "( 105 × 105 − 105 ) / 2 = 5460"
+
+    easy_question:
+        text: "In which city is the most glorious academy in all Pangea?"
+        image: null
+        answer: "Alifir"
+        explanation: "The Alifir Academy: is there a finer tribute to Science in all Pangea?"
+
+...

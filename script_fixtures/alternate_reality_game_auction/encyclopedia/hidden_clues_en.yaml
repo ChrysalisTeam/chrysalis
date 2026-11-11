@@ -1,0 +1,236 @@
+
+static_pages:
+
+    spectral_table_bell:
+        title: "Spectral Bell"
+        categories: ["magic"]
+        clue_code: "vbr"
+        keywords: []
+        content: |
+
+            This bell carries a very strange magic, almost divine, which you are unable to alter.
+
+            It seems designed to act as a recall signal for any entities of the world of the dead that might be lingering nearby.
+            A signal strong enough to switch them to spectral wandering, should they happen to be embodied at that moment.
+
+            You cannot tell whether it is currently charged or discharged.
+
+
+    mos_peratys_tomb_curse:
+        title: "Curse on the tomb of the Magus Mos Peratys"
+        categories: ["magic"]
+        clue_code: "kxp"
+        keywords: []
+        content: |
+
+            This armoured door is saturated with spells, which have visibly been laid upon it over several generations.
+
+            Recognisable bewitchments:
+
+            - Impenetrable titanium seal
+            - Anti-lightning barrier
+            - Fire and ice protection
+            - Shield against ethereal wall-walkers
+            - Anti-lockpicking mechanism
+            - Curse against magical breaching
+
+            The tomb itself does not seem to be trapped, apart from an ambivalent influence, half pride and half hatred, lurking around the remains of the deceased.
+
+
+    forbidden_domain_seal:
+        title: "Magical barriers before the Forbidden Domain"
+        categories: ["magic"]
+        clue_code: "bte"
+        keywords: []
+        content: |
+
+            These stairs are protected by a very ancient and powerful seal, which forbids their crossing
+            to any creature, whether living or dead.
+
+            It is visibly a seal that can be temporarily deactivated by a key grimoire, which requires a ritual specific to that grimoire.
+
+            Such seals are often used by sorcerers who wish to block access to their laboratories or private apartments.
+
+    anti_explosion_cauldron:
+        title: "Cauldron with an anti-explosion enchantment"
+        categories: ["magic"]
+        clue_code: "adp"
+        keywords: []
+        content: |
+
+            This small cauldron is coated with powerful stabilising enchantments,
+            to prevent any blast should its mixture overheat or unexpectedly change its magical properties.
+
+    etheric_stone_skin_necklace:
+        title: "Etheric Necklace of Stone Skin (translucent bluish oval stones)"
+        categories: ["magic"]
+        clue_code: "arx"
+        keywords: []
+        content: |
+
+            You recognise by its aura the legendary **Etheric Necklace of Stone Skin**.
+
+            Whoever wears this necklace around their neck becomes immune to physical weapons (blunt, piercing or cutting).
+
+            In return, they walk and move their arms very slowly, like a golem.
+
+    etheric_vital_force_necklace:
+        title: "Etheric Necklace of Vital Force (wooden beads)"
+        categories: ["magic"]
+        clue_code: "hfv"
+        keywords: []
+        content: |
+
+            You recognise by its aura the legendary **Etheric Necklace of Vital Force**.
+
+            Whoever keeps this necklace around their neck becomes immune to everything that attacks the body from within: diseases, solid or liquid poisons, toxic vapours...
+
+            In return, the person wearing it can only breathe through the mouth (noisily), and can neither drink nor eat.
+
+    etheric_manaic_aura_necklace:
+        title: "Etheric Necklace of Manaic Aura (quartz on a fine golden chain)"
+        categories: ["magic"]
+        clue_code: "pyw"
+        keywords: []
+        content: |
+
+            You recognise by its aura the legendary **Etheric Necklace of Manaic Aura**.
+
+            Whoever wears this necklace around their neck becomes immune to elemental spells (fire, ice, lightning...) and to malefic bewitchments of objects.
+
+            In return, they can only speak very loudly and very slowly for as long as they wear it.
+
+            "Sacred" damage (attacks by phantoms, demons...) is not prevented by this necklace.
+
+    etheric_benediction_necklace:
+        title: "Etheric Necklace of Blessing (the Arkon's armour)"
+        categories: ["magic"]
+        clue_code: "bst"
+        keywords: []
+        content: |
+
+            You recognise by its aura the legendary **Etheric Necklace of Blessing**, visibly incorporated into this Mithril armour.
+
+            Whoever keeps this artefact on them becomes entirely impalpable on the spiritual plane, and can therefore no longer be injured by phantoms or demons.
+
+            In return, this demands great physical strength, as this necklace is extremely heavy.
+
+            This armour also protects against normal physical or magical attacks, but only those aimed at the torso.
+
+    ring_amplificans:
+        title: "Amplificans Ring (huge transparent ring)"
+        categories: ["magic"]
+        clue_code: "duy"
+        keywords: []
+        content: |
+
+            This ring seems to multiply your power when you touch it.
+
+            Not in raw strength, but in reach.
+
+            As if, with this ring, small area spells could now cover an extremely vast surface.
+
+    grinding_mill_with_enchantment:
+        title: "Enchanted coffee mill"
+        categories: ["magic"]
+        clue_code: "ecz"
+        keywords: []
+        content: |
+
+            You feel an immense generative power radiating within this coffee mill.
+
+            As if it held untold wonders, but could only deliver them little by little, **every 3 hours**, and only upon a duly formulated request.
+
+
+    # ------------------------
+
+
+    three_tombs_analysis:
+        title: "Analysis of the 3 tombs in the graveyard"
+        categories: ["analysis"]
+        clue_code: "ltx"
+        keywords: []
+        content: |
+            These three above-ground tombs were roughly built about 5 centuries ago.
+
+            The first and the second bear human ashes on their surface, belonging to 2 individuals who died at that time.
+
+            The third supports a skull-less skeleton, whose bones are covered in traces of contusions, burns and acid erosion.
+
+    androids_command_bracelet:
+        title: "Analysis of the Dominion bracelet"
+        categories: ["analysis"]
+        clue_code: "fzk"
+        keywords: []
+        content: |
+            This bracelet contains a tiny mechanism of unknown origin.
+
+            The biometric sensors and the electromagnetic emitter it contains suggest that it
+            could serve as a remote command system for other machines.
+
+    arkon_skull_analysis:
+        title: "Autopsy of a human skull"
+        categories: ["analysis"]
+        clue_code: "srf"
+        keywords: []
+        content: |
+
+            This skull bears multiple traces of contusions, burns and acid erosion.
+
+            It seems that someone long tried to destroy it, but only managed to damage its surface.
+
+            A deep diamond-shaped notch is carved into the forehead.
+
+            A mass spectrometer analysis reveals curare trapped in the bone.
+
+    thief_bones_analysis:
+        title: "Analysis of the Thief's bones"
+        categories: ["analysis"]
+        clue_code: "jsb"
+        keywords: []
+        content: |
+
+            These bones belong to a human who lived a little over 4 centuries ago.
+
+            They bear bite marks from canine teeth, and some of them have been broken to extract the marrow.
+
+            No trace of disease or poison, but a lack of bone density probably due to persistent alcoholism.
+
+    arkon_heavy_gladius_analysis:
+        title: "Analysis of the Arkon's gladius"
+        categories: ["analysis"]
+        clue_code: "xep"
+        keywords: []
+        content: |
+
+            This gladius of hyper-condensed bronze dates back about 500 years.
+
+            The many traces of wear and repair attest to a long period of use.
+
+            The tip is speckled with stains of a blood-like fluid rich in manganate, which therefore has a bluish colour.
+
+    thief_wallet_scroll_analysis:
+        title: "Analysis of the parchment from the Thief's wallet"
+        categories: ["analysis"]
+        clue_code: "yal"
+        keywords: []
+        content: |
+
+            This thieves' guild parchment hides a double magnetic message, one easily accessible
+            and meaningless, the other buried deeper in the paper.
+
+            By correlating the faint signals, you identify a code concealed in this way: **1 5 9**
+
+    scary_lenticular_paintings_analysis:
+        title: "Analysis of the scary lenticular portraits"
+        categories: ["analysis"]
+        clue_code: "vpx"
+        keywords: []
+        content: |
+
+            These paintings change faces depending on the angle from which they are viewed.
+            And from certain very subtle angles, fragments of a message in an old regional tongue appear.
+
+            Approximate translation: **"Beware, O ambitious initiate, the etheric necklaces are powerful, very powerful, too powerful. And in the long run they can corrupt the very ego of the wisest of humans. But in the short run, of this there is no doubt, they will let you touch immortality with your fingertips."**
+
+            An abnormal radiant aura, as if coming from a space-time rift, disturbs the instruments; but you cannot tell which painting this aura comes from.

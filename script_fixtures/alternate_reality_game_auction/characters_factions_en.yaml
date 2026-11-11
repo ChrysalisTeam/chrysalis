@@ -1,0 +1,285 @@
+---
+
+domains:
+
+    masslavia:
+        national_anthem: "Marching to the future (Masslavia's hymn).mp3"
+        permissions: []
+
+    dorian_dukedom:
+        national_anthem: "The glorious people (Dorian dukedom's hymn).mp3"
+        permissions: []
+
+    lordania:
+        national_anthem: "The proud island (Lordania's hymn).mp3"
+        permissions: []
+
+    heliossar:
+        national_anthem: "Sweet smell of liberty (Heliossar's hymn).mp3"
+        permissions: []
+
+    akaris:
+        national_anthem: "The long wait for dawn (Akaris' hymn).mp3"
+        permissions: []
+
+    paladium:
+        national_anthem: null # TODO
+        permissions: []
+
+    alifir_academy:
+        national_anthem: "Delights of a sophisticated world (Alifir academy's theme).mp3"
+        permissions: []
+
+
+
+
+character_properties:
+
+    # WARNING - the values of global parameters anonymous_login, master_login and common_login are reserved and shall not be used here
+
+    spinel:
+        character_color: "DarkBlue"
+        avatar: "land_deep_blue.jpg"
+        domains: ["masslavia"]
+        password: "cosmos"
+        account: 600
+        gems: []
+        address_book: ["secret-services@masslavia.pg"]
+        official_name: "Simonie Vladstaffulovza"
+        official_role: "Raw materials trader for the jewellers of Mastden (Masslavia)"
+        gamemaster_hints: "In truth SHA1, a Masslavian agent. The real person has gone hiking in the desert hinterland of Sabarim, for at least 6 weeks."
+        extra_goods: "Certified currency: 1000 Sabarith Pounds"
+        is_npc: false
+
+    malachite:
+        character_color: "DarkGreen"
+        avatar: "land_deep_green.jpg"
+        domains: ["masslavia"]
+        password: "comet"
+        account: 600
+        address_book: ["secret-services@masslavia.pg"]
+        official_name: "Wiliette Bfurokt"
+        official_role: "Curator of the archaeological museum of Mastden (Masslavia) and expert in the history of Yodism"
+        gamemaster_hints: "In truth MD5, a Masslavian agent. The real holder of the name, as a good Masslavian patriot, remains at the State's disposal along with her family, to give advice if needed."
+        extra_goods: "Certified currency: 1000 Sabarith Pounds"
+        is_npc: false
+
+
+    topaz:
+        character_color: "Blue"
+        avatar: "land_light_blue.jpg"
+        domains: ["dorian_dukedom"]
+        permissions: []
+        password: "ocean"
+        account: 1600
+        address_book: ["secret-services@dorian-dukedom.pg"]
+        official_name: "Luciane Begalazatr"
+        official_role: "Prospector commissioned by wealthy collectors of Nimouk (Dorian Dukedom)"
+        gamemaster_hints: "In truth MP3, a Dorian agent. As the person in question never existed, it will take subtle play to avoid being unmasked."
+        extra_goods: "Certified currency: 1000 Sabarith Pounds"
+        is_npc: false
+
+    peridot:
+        character_color: "Green"
+        avatar: "land_light_green.jpg"
+        domains: ["dorian_dukedom"]
+        permissions: []
+        password: "abyss"
+        account: 1600
+        address_book: ["secret-services@dorian-dukedom.pg"]
+        official_name: "Philipon Vertioundem"
+        official_role: "Owner of a jewellery shop in Nimouk (Dorian Dukedom), looking for bargains"
+        gamemaster_hints: "In truth MP5, a Dorian agent. The real character was on the verge of bankruptcy from being fleeced so often, so he proved most understanding of his State's proposals, and will keep an extremely low profile in the coming weeks."
+        extra_goods: "Certified currency: 1000 Sabarith Pounds"
+        is_npc: false
+
+
+    garnet:
+        character_color: "DarkRed"
+        avatar: "land_red.jpg"
+        domains: ["lordania"]
+        permissions: []
+        password: "rock"
+        account: 600
+        address_book: ["secret-services@lordania.pg"]
+        official_name: "Arthiane Subduernum"
+        official_role: "Wealthy collector from Ouram (Lordania) seeking Akarith antiquities"
+        gamemaster_hints: "In truth HDD, a Lordanian agent. This is a fake identity that the State has kept alive for many years already, and which has served it for all sorts of missions abroad."
+        extra_goods: "Certified currency: 1000 Sabarith Pounds"
+        is_npc: false
+
+    amethyst:
+        character_color: "#990099"
+        avatar: "land_violet.jpg"
+        domains: ["lordania"]
+        permissions: []
+        password: "paper"
+        account: 600
+        address_book: ["secret-services@lordania.pg"]
+        official_name: "Tomol Niokiev"
+        official_role: "Curator at the museum of ancient history of Ouram (Lordania)"
+        gamemaster_hints: "In truth SSD, a Lordanian agent. The real character is supposed to be on a business trip, but in fact he is taking a cure to get rid of a rather shameful illness, and will be for at least 2 more months."
+        extra_goods: "Certified currency: 1000 Sabarith Pounds"
+        is_npc: false
+
+
+    opal:
+        character_color: "#FF3300"
+        avatar: "land_orange.jpg"
+        domains: []
+        permissions: []
+        password: "tornado"
+        account: 300
+        address_book: []
+        official_name: "Charles Magnus"
+        official_role: "Wealthy Lordanian, native of Baynon, lover of fine antiquities and gemstones"
+        gamemaster_hints: "A genuine bidder, once a (dishonest) adventuring companion of Loyd Georges; he has come to Sabarim with his wife Lydia and his child Khaal."
+        extra_goods: "Certified currency: 1000 Sabarith Pounds"
+        is_npc: false
+
+    lydia:
+        character_color: "#FF3300"
+        avatar: "land_orange.jpg"
+        domains: []
+        permissions: []
+        password: "tempest"
+        account: 300
+        address_book: []
+        official_name: "Lydia Magnus"
+        official_role: "Sabarith politician, candidate for the office of consul of Alifir"
+        gamemaster_hints: "Opal's wife."
+        extra_goods: "Certified currency: 1000 Sabarith Pounds"
+        is_npc: false
+
+
+    obsidian:
+        character_color: "#4d4d4d"
+        avatar: "land_black.jpg"
+        domains: []
+        permissions: []
+        password: "desert"
+        account: 300
+        address_book: []
+        official_name: "Marcille Kiliringar"
+        official_role: "Sabarith deputy police officer"
+        gamemaster_hints: "Sabarith secret agent."
+        extra_goods: "Certified currency: 1000 Sabarith Pounds"
+        is_npc: false
+
+
+    loyd.georges:
+        character_color: "Black"
+        avatar: "loyd_georges.png"
+        domains: ["alifir_academy"]
+        permissions: ["access_house_locking"]  # ONLY for him
+        password: "awesomeness"
+        account: 1000
+        address_book: []
+        official_name: "Loyd Georges"
+        official_role: "Sexagenarian man of independent means, keen on archaeology, living in Salima"
+        gamemaster_hints: "He organised the successful expedition to Nazur, as well as the ongoing auctions."
+        is_npc: true
+        secret_question: "The name of my first pet."
+        secret_answer: "Bastet"  # future cat: Ailuros or Sekhmet
+
+    emilos.loakim:
+        character_color: "Black"
+        avatar: "emilos_loakim.png"
+        domains: ["alifir_academy"]
+        permissions: []
+        password: "antic"
+        account: 100
+        address_book: []
+        official_name: "Emilos Loakim"
+        official_role: "Brilliant sexagenarian archaeologist from Alifir"
+        gamemaster_hints: "Professor at Alifir and confidant of Loyd Georges, he located the Temple of Nazur for him."
+        is_npc: true
+        secret_question: "Maiden name of my beloved."
+        secret_answer: "Begalatr"
+
+
+    cynthia:  #FIXME CHANGE to make it farther from "lydia" ??
+        character_color: "Black"
+        avatar: "cynthia_loakim.png"
+        domains: ["alifir_academy"]
+        permissions: []
+        password: "lightspeed1"
+        account: 100
+        address_book: []
+        official_name: "Cynthia Loakim"
+        official_role: "Young international journalist, originally from Sabarim"
+        gamemaster_hints: "Daughter of Prof. Loakim, and engaged to the physicist Waden Shaw."
+        is_npc: false
+        secret_question: "Where we kissed for the first time."
+        secret_answer: "Salimuron" # normally impossible to find
+
+    waden:
+        character_color: "Black"
+        avatar: "waden_shaw.png"
+        domains: ["alifir_academy"]
+        permissions: []
+        password: "lightspeed2"  # FIXME to be changed
+        account: 100
+        address_book: []
+        official_name: "Waden Shaw"
+        official_role: "Young Sabarith researcher in quantum physics"
+        gamemaster_hints: "Engaged to the reporter Cynthia Loakim, and thus Prof. Loakim's future son-in-law."
+        is_npc: false
+        secret_question: null # IMPORTANT
+        secret_answer: null
+
+
+    emogladys:
+        character_color: "Black"
+        avatar: "emogladys.png"
+        domains: []
+        permissions: []
+        password: "stranger"
+        account: 100
+        address_book: []
+        official_name: "Emogladys"
+        official_role: "Ordinary civilian"
+        gamemaster_hints: "Test account, used by the Game Master to explore the pages that only characters can access."
+        is_npc: true
+        secret_question: null # IMPORTANT
+        secret_answer: null
+
+
+    shark:
+        character_color: "Black"
+        avatar: "inspector_shark.png"
+        domains: []
+        permissions: []
+        password: "serve&protect"
+        account: 300
+        address_book: []
+        official_name: "Inspector Shark"
+        official_role: "Sabarith police inspector, recently out of retirement"
+        gamemaster_hints: "He has connections with Loyd Georges (whose bribes he regularly accepts in exchange for letting him carry out his research) and personally handles the players' PVP interactions."
+        is_npc: true
+        secret_question: "My faithful companion."
+        secret_answer: "S&W_M66"
+
+
+    bishop.baazel:
+        character_color: "Black"
+        avatar: "archbishop.png"
+        domains: ["akaris"]
+        permissions: []
+        password: "4theyods"
+        account: 300
+        address_book: ["judicator-arthanas@akaris.pg", contact@akaris.pg]
+        official_name: "archbishop-baazel"
+        official_role: "The guide of one of the 7 Akarith clans"
+        gamemaster_hints: "He seeks to convert as many players as possible and to bring about Akarith supremacy; he is fanatical and harsh, but intelligent enough to understand that transfiliation must be accepted; he is a wolf in sheep's clothing."
+        is_npc: true
+        secret_question: "Jubilation and transcendence"
+        secret_answer: "immanence_and_piety"
+
+
+friendships: {} # complex structures here
+
+
+
+
+...

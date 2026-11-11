@@ -1,0 +1,43 @@
+---
+
+
+static_pages:
+
+    oberon_brotherhood:
+        title: "Brotherhood of the Oberons"
+        categories: ["encyclopedia"]
+        keywords: ["brotherhood of the oberons", "oberons?", "puks?", "brotherhood", "mercenar(y|ies)"]
+        content: |
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/foggy_crater_city.png" "big_width"]
+                :align: center
+
+            The Brotherhood of the Oberons is an international collective which officially presents itself as a fraternity of "jacks-of-all-trades", offering their many skills to whoever wants them (and can afford them).
+
+            In practice, the fees of these "Oberons" (the origin of the word has been lost) are rather exorbitant, and they seem to be hired mostly for shadowing, espionage, computer hacking or burglary jobs. They nevertheless deny doing anything illegal, and ostracise as black sheep those of their brothers who have been caught red-handed.
+
+            This nebulous network is made up of autonomous "hubs", present in the main cities of Pangea. All of them obey a few rules, as unspoken as they are strict:
+
+            - no violence: the brothers are above such dishonourable vulgarities (but they may delegate them to hoodlums of their acquaintance, known as "puks")
+            - no conflicts of interest: if clients give contradictory instructions, or try to harm one another, the Oberons step aside, and let their clients settle their disputes among themselves
+            - no suicide missions: no Oberon is bound to do the impossible
+
+
+    djinns:
+        title: "Djinns of Sedes Sancta"
+        categories: ["encyclopedia"]
+        keywords: ["djinns of sedes sancta", "djinns", "sedes sancta", "oracles?"]
+        content: |
+
+            The Djinns of Sedes Sancta are a strange brotherhood, cloistered in their sanctuary, who worship knowledge as a deity and deliver rare information in exchange for large sums of money.
+
+            They seem to have a good network of informants across the world, as well as an immense library.
+
+            One of the rare glimpses we have had of them:
+
+            .. embed_video:: [ GAME_FILE_URL "video/djinn_sedes_sancta.flv" ]
+
+
+
+...
+

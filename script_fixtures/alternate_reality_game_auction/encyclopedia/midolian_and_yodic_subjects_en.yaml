@@ -1,0 +1,302 @@
+---
+
+
+static_pages:
+
+
+    midolian_wars:
+        title: "Midolian Wars"
+        categories: ["encyclopedia"]
+        keywords: ["midolian wars?", "akariths?"]  # remember that the FIRST keyword will get auto-linked in misc. content
+        content: |
+
+            *"The history of the Midolian continent boils down to a succession of expansions and downfalls of the Akarith empire, at the whim of the conquering flights of the various religious orders that succeeded one another at its head, and of their spontaneous disintegration owing to irreconcilable doctrinal divergences between high dignitaries; the neighbouring peoples have suffered grievously from each of these fanatical resurgences, and their demographics still bear today the scars of the countless incivilities to which they fell prey."*
+
+            *Lucius Dimnus, "A History of Pangea for the Distinguished"*
+
+            ------------
+
+            What good old Lucius sums up so eloquently is that for millennia, the very same scenario has been playing out in Midolia.
+
+            #. the tribes of Akaris grow economically and militarily
+            #. they start dreaming of a thousand-year Akarith empire, spurred on by some fanatical guru
+            #. they set off on a crusade against the neighbouring peoples (corresponding to today's Dorians, Masslavians, Heliossarians or even Thelassarians)
+            #. they impose their tyranny on the conquered territories, for a few years
+            #. enlarging the empire becomes harder and harder, hence theological quarrels between high-ranking Akariths
+            #. the empire collapses, and the continent sinks into anarchy and misery for a few generations
+            #. go back to step 1.
+
+            A sorry spectacle indeed. However, during the last Midolian war, a century ago, the Akarith soldiers (called **zealots**) were immediately held in check by particularly determined Masslavian and Heliossarian guerrillas. The counter-attack of this "Freedmen's Front" left Akaris bled dry and more divided than ever, and granted its neighbours a lasting peace.
+
+            But recently, the religious order known as the "Judicators" has risen to power in Akaris, by restoring the land's oldest traditions to a place of honour. Worshipped as "Messengers of the Yods" (the local deities), and enjoying a glittering economic climate, the Supreme Judicator Arthanas and his court do not seem inclined to stop while the going is good.
+
+            In Midolia, is the future nothing but a long past? Only the future will tell.
+
+            [BR]
+
+            *The symbol of the Akarith Judicators, the crossentar:*
+
+            .. image:: [GAME_THUMBNAIL_URL "images/emblems/crossentar_symbol.png" "big_width"]
+                :align: center
+
+
+    sacred_orbs:
+        title: "Sacred Orbs"
+        categories: ["encyclopedia"]
+        keywords: ["divine orbs?", "tears?", "orbs?", "divine"]
+        content:   |
+
+            .. note::
+
+                This is no mistake: an orb is indeed an "it", even though intuition, as with ships, might plead for a "she".
+
+            One of the oldest Midolian myths known to date.
+
+            It tells how the Yods (Akarith deities) one day gave the priest Melkisedech, ancestor of all Akariths, three sacred orbs guaranteeing the dominion of his race over the whole planet.
+
+            After a few millennia of this "Age of Universal Balance", the orbs fell through treachery into impious hands. Harmony was then broken, and the Akariths had to take refuge at the far edges of the Midolian continent, while the degenerate tribes took possession of the whole of Pangea. The outraged Yods then unleashed upon the planet epidemics, tornadoes, ingrown toenails, earthquakes and other horrors; all of this as a nagging reminder that their precious gift had been flouted, and that the Akariths would never know peace until this sacrilege was redeemed.
+
+            The existence of these famous orbs (also called sacred stones, Divine Tears, holy gems and many other combinations) remains a matter of controversy. However, should they one day be found, there are two things that the neighbours of the Akarith peoples would dread enormously.
+
+            The first would be to possess these orbs; for this impiety, if it became known, would earn them an immediate attack by the Akarith fanatics. The second would be not to possess them; for if the orbs then ended up in the hands of the Akarith religious leaders, it would justify an even deadlier imperialist push. A Masslavian lieutenant of yesteryear summed up this analysis of the situation thus in his memoirs: "if ever these rocks should come back to light, whatever we do, we'll be deep in the shite".
+
+            [BR]
+
+            *The oldest known depiction to date of the myth of the Akarith orbs, a drawing on cloth:*
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/cloth_drawing_temple.png" "big_width"]
+                :align: center
+
+
+    yodic_theology:
+        title: "Yodic Theology"
+        categories: ["encyclopedia"]
+        keywords: ["yodic theology", "theology", "yods?", "akaris", "transfiliation"]
+        content: |
+
+            These doctrines are part of the immense tree of concepts which animate and divide the various Yodic denominations, each one sorting out what it considers "orthodox" (true, good, faithful to the dogma) from what it considers "heretical" (perverse, fallacious, contrary to the dogma).
+
+
+            Transfiliation
+            ======================
+
+            This theological notion was decisive in the schism between the faithful of Sul'Taran and those of Sul'Razul (two gurus of the Tectonic Era).
+
+            Indeed, the former thought that the bathars, that is to say the humans who are not part of the holy lineage descending directly from the Yods, could, through their piety and their efforts, "return to grace" with the deities, and also gain access to the Cosmic Empire, at the end of time; but the latter violently opposed this doctrine, regarding as a horrible heresy the idea that the Yods could "deny themselves" by accepting among them beings considered to be descended from unnatural unions with animals.
+
+            Although present-day Akaris remains mostly marked by Taranite theology, the caste of the Judicators has cautiously begun to put the question of transfiliation back on the table, under the name of "unexplored theological hypothesis". No doubt with the aim of being able, in time, to gather a flock among foreign populations.
+
+
+            Polymony
+            ====================
+
+            Very early on, the Yodic religion set itself apart from all the surrounding religions, by violently rejecting both monotheism (belief in a single god) and polytheism (belief in a pantheon of deities, which may oppose one another).
+
+            Thus was forged the doctrine of polymony, professing the existence of an endless number of Yods, all sharing a single consciousness, memory and will. "Infinity in unity" thus became a fundamental mantra in popular piety.
+
+            Apart from a few rare heresies, cleansed by fire as soon as they appeared, this dogma has historically never been called into question among the Yodic faithful; at least until the second council of the recent caste of the Judicators, during which a strong minority current spoke out in favour of the equivalence between the plural (common noun) and singular (proper noun) appellations; in which case "praised be the Yods" could just as well be said "praised be Yod". In the end, following the fiery sermon of an archdeacon of Zorzas, this motion was unambiguously excreted, and the Judicators have never since ceased to vehemently endorse this doctrinal stance.
+
+
+            In-vivo and post-mortem eschatology
+            =========================================
+
+            All the Yodic denominations agree on the eventual restoration of the Cosmic Empire of the Yods, through the reunion of the three Divine Orbs. On the other hand, there are strong differences of opinion on how this fulfilment will come about.
+
+            Traditionally, the Yodic faithful had very much at heart to fulfil this prophecy by force, by avidly seeking the three orbs, and by multiplying military operations as soon as the wind seemed favourable.
+
+            However, an alternative theory appeared, following the collapse of the second Akarith empire. This version asserts that the myth of the orbs is purely symbolic, that it represents the struggle of every individual to return to grace with the Yods, and that the final victory of the Yods will only take place in the afterlife, after the death of the last human.
+
+            This doctrine went as far as becoming a dogma in some Yodic denominations; for instance among the faithful of Sul'mithra (another guru of the Tectonic Era), following their schism from the Razulites, and their forced exile to Beth-Asmavoth; a schism which is said to have been mainly due to power struggles.
+
+            In present-day Akaris, the controversy has remained lively, even though an edict of the Great Council played the appeasement card, by ruling that these two versions of the last things did not oppose each other, but complemented one another. In recent years, however, the Judicators have clearly tipped the balance, with their fiery speeches on the necessary imminence of the reunion of the orbs.
+
+            [BR]
+
+            **An Akarith high judicator:**
+
+            .. image:: [GAME_THUMBNAIL_URL "images/portraits/judicator_portrait.png" "big_width"]
+                :align: center
+
+        gamemaster_hints: |
+
+            SUMMARY - for the caste of the Judicators, who made their own blend of the previous doctrines:
+
+            - polymony is a fundamental dogma (one says "the Yods" and not "Yod")
+            - eschatology is necessarily in-vivo (the three orbs must be found as soon as possible for the era of bliss to come about)
+            - transfiliation is an interesting hypothesis, to be spread among the reluctant population, in order to be able to scrape together new faithful and allies among the neighbouring peoples.
+
+
+    yodic_quotes:
+        title: "Yodic Quotes"
+        categories: ["encyclopedia"]
+        keywords: ["yodic quotes", "theology", "yods?", "akaris", "transfiliation"]
+        content: |
+
+            **A few famous quotations, from various Yodic denominations and figures.**
+
+            1. What perfume is more pleasing to the nostrils of the Yods than that of a filial spirit, broken and crushed? *Hayo Li*
+
+            2. O Yod be my witness, this era will hardly end before Akaris the Glorious imposes respect for thy Holy Name on all the irredeemable bathar nations. *Prophet Ysotop*
+
+            3. The diletion of the Yods sets ablaze every faithful who devotes his life to the recovery of the sacred orbs. *Master Subal' Tern*
+
+            4. O thou who seekest the Yods, make no mistake: obedience, mortification and contemplation are the only three jewels that will win thee their graces. *Hermit Seulomond*
+
+            5. Nothing is impossible to the Yods, except going against their own will. *Yodic Holy Book*
+
+            6. Jubilation is to transcendence what immanence is to piety, that is to say the anamnesis of an entelechy through the intercession of Yodic grace. *Diakon Hermes Tick*
+
+            [BR]
+
+            **An Akarith archbishop:**
+
+            .. image:: [GAME_THUMBNAIL_URL "images/portraits/archbishop_portrait.png" "big_width"]
+                :align: center
+
+        gamemaster_hints: |
+
+            **Opinion of the Akarith Judicators on these quotations:**
+
+            1. Off topic, as it concerns the faithful already won over to the Yods
+            2. Heretical, as it speaks of "Yod" as a personal first name, and denies any possible transfiliation
+            3. Orthodox, as it calls for the quest for the orbs
+            4. Heretical, as it denies the importance of the quest for the orbs
+            5. Orthodox, as it opens up the possibility of transfiliation
+            6. Off topic, and incomprehensible
+
+
+    salt_deserts:
+        title: "Salt Deserts"
+        categories: ["encyclopedia"]
+        keywords: ["salt deserts?", "desert", "pack ice", "sea", "salt"]
+        content: |
+
+            A salt desert, or "salar", is a vast deposit of sediments made up
+            mainly of salts (chlorides, sulphates, nitrates, borates, etc.).
+            It typically forms through the evaporation of a salt lake whose water inflow is insufficient.
+
+            Pangea has many salt deserts, among the largest of which are:
+
+            - the "perched saline sea" east of Meelish
+            - the "salt pack ice" near Endara
+            - the "pearly lakes" in the centre of Balberith
+            - the "salted rivers" north of Mastden
+
+            [BR]
+
+            **The polar "salt pack ice"**
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/salt_desert.jpg" "big_width"]
+                :align: center
+
+
+    akaris_runes:
+        title: "Akarith Runes"
+        categories: ["encyclopedia"]
+        keywords: ["akarith runes?", "runes?", "ancient"]
+        content:   |
+
+            Akarith runes are a rudimentary alphabetic writing system, whose nonconformism suggests that it was invented out of thin air to counter the intrusion of languages from Axolia.
+
+            These runes appeared suddenly around the middle of the Tectonic Era, on the North Coasts of Midolia. They were most likely borrowed from the alphabet of an earlier civilisation, which vanished without leaving any other trace.
+
+            The peculiarity of this writing system is that it does not transcribe consonants, but only vowels and accents marking intonation. This results in a certain propensity for homonymy, sentences such as *"we rejoice at the fruitful commercial collaboration now taking shape between our two countries"* and *"we relish the prospect of wiping out your whole degenerate race by fire and sword"* being written identically in this system.
+
+            Historians have noted that one of the deadliest outbreaks of Akarith tribal wars coincided with the replacement of oral messengers by diplomatic scrolls written in runes. It is by consensus agreed that the one explains the other.
+
+            [BR]
+
+            *Phonetic transcription of the Akarith runes currently known:*
+
+            .. image:: [GAME_FILE_URL "images/sciences/antic_runes.gif"]
+                :align: center
+
+
+    cloudy_citadel:
+        title: "Cloud Citadel"
+        categories: ["encyclopedia"]
+        keywords: ["cloudy citadel", "citadel", "clouds?", "sanctuary"]
+        content: |
+
+            This new Yodic holy place, built by the Judicators as soon as they came to power 3 years ago, serves both as a palace for the high-ranking members of the order, and as a meeting place for the Akarith High Councils, which bring together the spiritual leaders of the 7 Akarith clans.
+
+            Malicious tongues claim that the clouds constantly shrouding the mountain are artificial mists; but since the domain is forbidden to the "impious", no one has ever been able to check.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/cloudy_citadel.jpg" "big_width"]
+                :align: center
+
+
+    wigwir_battle:
+        title: "Battle of Wigwir"
+        categories: ["encyclopedia"]
+        keywords: ["battle of wigwir", "battle", "wigwir", "keroskia"]
+        content: |
+
+            The "Battle of Wigwir" is a mythico-historical event, during which the rival Yodic denominations of the Taranites and the Razulites are said to have clashed for the last time, and one of the Divine Orbs to have been lost.
+
+            No trace of the site of this battle has been found anywhere in Midolia, and it is now commonly accepted that this battle is legendary. In reality, the Taranites are thought to have imposed their doctrine on Akaris far more gradually.
+
+
+    mount_shina:
+        title: "Mount Shina"
+        categories: ["encyclopedia"]
+        keywords: ["mountain", "mount", "shina", "sanctuary"]
+        content: |
+
+            It is the highest peak of the Midolian mountain range, characterised by its eternal snows and its most inhospitable fauna: snow snakes, touchy caracals, poisonous edelweiss.
+
+            During the "Yodic tides", it was regarded as an important sanctuary by certain denominations.
+
+            Since the implosion of the last Akarith empire, this mountain has stood in the centre of **Masslavia**, and (theoretically) no longer has any religious significance, unlike many other heights: Mount Olysho (Heliossar), Brumerre Hill (Doria)...
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/sky_dome.jpg" "big_width"]
+                :align: center
+
+
+    ancient_deities:
+        title: "Ancient Deities"
+        categories: ["encyclopedia"]
+        keywords: ["gods?", "goddess(es)?", "deit(y|ies)", "egypt", "theology", "dogs?", "cats?"]
+        content: |
+
+            The Yodic religions, and their offshoots, are nowadays overwhelmingly predominant on Pangea.
+
+            But in the past, long before Tungunska, very different sets of gods shared the planet. The pantheons of the so-called "Greek", "Roman", "Egyptian" and "Oriental" cultures are thus currently being catalogued by the glorious Alifir Academy.
+
+            Curiously, many civilisations drew their deities from anthropomorphised animals.
+            Thus Ancient Egypt had, among others, gods and goddesses:
+
+            - with the head of a Ram:
+
+              - Ageb
+              - Banebdjedet
+              - Khnum
+
+            - with the head of a Canid:
+
+              - Anubis
+              - Bedou
+              - Wepwawet
+              - Set
+
+            - with the head of a Feline:
+
+              - Apedemak
+              - Bastet
+              - Sekhmet
+
+            - with the head of a Falcon:
+
+              - Hemen
+              - Montu
+              - Nephthys
+              - Sokar
+
+
+
+
+
+...
+

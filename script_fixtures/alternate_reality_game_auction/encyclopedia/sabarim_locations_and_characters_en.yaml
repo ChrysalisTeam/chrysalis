@@ -1,0 +1,117 @@
+---
+
+
+static_pages:
+
+
+    salima_bank:
+        title: "Bank of Salima"
+        categories: ["encyclopedia"]
+        keywords: ["bank of salima", "safes?", "bank"]
+        content: |
+
+            The renown of the Bank of Salima extends far beyond the borders of its country.
+
+            The impregnability of its vaults, equalled only by the discretion of its staff, makes it a haven of peace for fiduciary and movable assets of every kind.
+
+            Of the thirty or so attempted burglaries, hold-ups and hostage-takings of all sorts it has been subjected to, none has yielded anything more than a few pencils and Post-it notes (the receptionists' office supplies).
+
+            As for aesthetics, the Bank of Salima is not to be outdone either, as the artist's impression below shows.
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/square_bank.jpg" "big_width"]
+                :align: center
+
+
+    alifir_academy:
+        title: "Alifir Academy"
+        categories: ["encyclopedia"]
+        keywords: ["alifir academy", "academy", "faculty", "alifir", "sciences?"]
+        content: |
+
+            How can one mention Alifir Academy without immediately lapsing into panegyric?
+
+            Its immense "A"-shaped structure links heaven and earth just as surely as its panel of researchers links memory and intelligence, creativity and analysis, past and future.
+
+            There are in truth few fields in which the Academy does not excel worldwide: medicine, Tectonic and pre-Tectonic archaeology and history, computer science, life sciences...
+
+            If you too would like to take part in this formidable adventure of human genius, do not hesitate to sponsor our Scientific Foundation (donations deductible from Salimian taxes up to 50% of your taxable income).
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/skyscraper.png" "big_width"]
+                :align: center
+
+
+    alifir_deans:
+        title: "Deans of Alifir"
+        categories: ["encyclopedia"]
+        keywords: ["deans of alifir", "deans?", "academy", "alifir"]
+        content: |
+
+            Alifir Academy is currently headed by three deans, who have taken the names of the ancient Muses.
+
+            Each of them oversees a section of the academy:
+
+            **Mneme** runs the departments of History, Tectonic and pre-Tectonic Archaeology, and Geography.
+
+            **Melete** runs the departments of Physics, Chemistry, Biology and Astronomy.
+
+            **Aïode** runs the departments of Pure and Applied Mathematics, as well as Digital Sciences.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/portraits/muse_deans_portrait.png" "big_width"]
+                :align: center
+
+            *From left to right: Aiode, Melete and Mneme*
+
+
+    loyd_georges:
+        title: "Sir Loyd Georges"
+        categories: ["encyclopedia"]
+        keywords: ["sir loyd georges", "loyd", "georges",  "salima"]
+        content: |
+
+            .. note::
+
+              This article has been flagged as disputed by contributors to the encyclopedia:
+
+              - lack of perspective on the events described
+              - lack of references
+              - lack of neutrality in tone
+
+
+            Sir Loyd Georges is an extraordinary figure of the city of Salima, in the land of Sabarim.
+
+            Descended from a noble and wealthy lineage, he very early on forsook the calm and delights of his splendid manor, as well as studies whose theory stifled practice, to roam the world and bring to light the remains of vanished civilisations.
+
+            **Motto: "Nobility, science, arts and fantasy"**
+
+            .. image:: [GAME_THUMBNAIL_URL "images/portraits/loyd_georges_portrait.png" "big_width"]
+                :align: center
+
+            His latest feat of arms: a lightning expedition into the depths of Midolia, to snatch the contents of an ancient Yodic temple from fanatical clutches. He of course thanks his faithful right-hand man, Rydji, for his invaluable help in carrying out this courageous mission.
+
+            .. image:: [GAME_THUMBNAIL_URL "images/portraits/rydji_portrait.png" "big_width"]
+                :align: center
+
+
+    pr_loakim:
+        title: "Professor Loakim"
+        categories: ["encyclopedia"]
+        keywords: ["professor loakim", "professor", "loakim", "prof. loakim", "academy", "alifir"]
+        content: |
+
+            Professional life
+                Professor Loakim is head of the department of Tectonic archaeology at Alifir Academy. He is currently conducting research on the Yodic civilisations of Midolia.
+
+            Family life
+                Professor Loakim married in 1985 in the village of Dibel, just south of the city of Cazoar. He and his wife Loucia then settled in Alifir, where their daughter Cynthia was born. The professor has been a widower since 2010.
+
+            .. image:: [GAME_THUMBNAIL_URL "images/portraits/emilos_loakim_portrait.png" "big_width"]
+                :align: center
+
+
+
+...
+

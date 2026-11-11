@@ -1,0 +1,127 @@
+---
+
+static_pages:
+
+
+    nalavut_council:
+        title: "Great Nalavutian Council"
+        categories: ["encyclopedia"]
+        keywords: ["nalavutian council", "council", "nalavut", "diplomacy"]
+        content: |
+
+            This exceedingly rare event sees delegations from all the Nalavutian tribes converge on Kitiika, for a solemn assembly which lasts more than a week and deals with every problem that the people of these frozen lands may face.
+
+            Traditionally, it is an immense igloo, built for the occasion, that hosts the meetings between the greatest Nalavutian chiefs.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/nalavut_council.png" "big_width"]
+                :align: center
+
+
+    hydroland:
+        title: "Hydroland Platform"
+        categories: ["encyclopedia"]
+        keywords: ["hydroland", "sea", "platform"]
+        content: |
+
+            The Hydroland platform is a rather unique entity in Pangean geopolitics.
+
+            It was initially built a few kilometres off Baynon, to serve as a gas platform. But it never managed to fulfil this purpose, because of a convoluted patent war over the manufacturing technique of the metal rivets running through its internal structure.
+
+            Left abandoned for nearly 20 years, it was finally conquered without a fight by a Lordanian fisherman, Atsaros, who promptly proclaimed himself Holy Emperor of Hydroland, and settled his family there.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/ocean_platforms.png" "big_width"]
+                :align: center
+
+            [BR]
+
+            The following ten years were mainly taken up by legal battles with the Lordanian state, over the sovereignty and autonomy of this maritime micro-empire.
+
+            Although he never obtained official recognition from his country, Atsaros I did amuse public opinion enough for the State of Lordania, fearing bad publicity, to give up on expelling him by force.
+
+            Several generations then succeeded one another on the platform, eking out a living from fishing.
+
+            For the past 3 years, Hydroland has closed off its maritime zone, and no one knows exactly what is going on there.
+
+        gamemaster_hints: |
+
+            Hydroland has in reality been the scene of a coup d'état (Atsaros' descendant is held prisoner there), and has since served as a rear base for mafia operations of all kinds, mainly via the web (scams, phishing...).
+
+
+    belez_academy:
+        title: "Belez Academy"
+        categories: ["encyclopedia"]
+        keywords: ["belez academy", "faculty", "academy", "belez"]
+        content: |
+
+            Belez Academy is a multidisciplinary scientific centre, which has been particularly involved in the analysis of matter: biological, physical, optical, wave-related...
+
+            It is therefore no surprise that even foreign countries call upon it, for cutting-edge forensic investigations or research partnerships.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/seashore_academy.png" "big_width"]
+                :align: center
+
+
+    imuo_faculty:
+        title: "Faculty of Imuo"
+        categories: ["encyclopedia"]
+        keywords: ["faculty of imuo", "faculty", "academy", "imuo"]
+        content: |
+
+            .. note::
+
+              This article has been pruned and locked following a dispute between editors. The encyclopedia service reminds everyone that it is not its role to arbitrate petty squabbles between rival academies.
+
+            The Faculty of Imuo is a scientific centre of pre-Tectonic architectural inspiration, located on the heights of Imuo (land of Yumeinamatchi), facing the sea.
+
+            [BR]
+
+            .. image:: [GAME_THUMBNAIL_URL "images/locations/mountain_castle.png" "big_width"]
+                :align: center
+
+
+    jungle_harmonies_album:
+        title: "Jungle Harmonies"
+        categories: ["encyclopedia"]
+        keywords: ["jungle harmonies", "jungle", "music", "keroskia"]
+        content: |
+
+            **Jungle Harmonies** is a new musical project by Claudia Pason, a sound artist from Alifir, who seeks to "rediscover the symbiosis between innate and acquired sonorities", in her own words.
+
+            [BR]
+
+            *Recording locations of the sounds in her first piece, "Secrets of the Kamilia Jungle" (local names in brackets, as on the map)*
+
+            ::
+
+                0:00 - Western Edge of the Birds (Lisière Ouest aux Oiseaux)
+                0:15 - Black Needle Peak (Pic de l'Aiguille Noire)
+                0:32 - Windswept Mount (Mont Eventé)
+                0:45 - Cavern of the Invisible Giant (Caverne du Géant Invisible)
+                0:59 - Valley of the Breath (Vallée du Souffle)
+                1:18 - Brook of the 100 Branches (Ruisseau des 100 Branches)
+                2:10 - Kupoutac Plateau (Plateau de Kupoutac)
+                2:40 - Cascading River (Rivière Cascadante)
+                3:08 - Glittering Brook (Ruisseau Rutilant)
+                3:23 - Muddy Brook (Ruisseau Vaseux)
+                3:38 - Baboon Rock (Roc du Babouin)
+                3:54 - Dry Trees Mound (Butte des Arbres Secs)
+
+            *Map of the Kamilia Jungle (between Slavinka and Tieros Olim)*
+
+            .. image:: [GAME_THUMBNAIL_URL "images/world_maps/kamilia_jungle_map.jpg" "big_width"]
+                :align: center
+                :target: [GAME_FILE_URL "images/world_maps/kamilia_jungle_map.jpg"]
+
+        gamemaster_hints: |
+
+            Places where the song of the orbs can be heard in this piece: Valley of the Breath (Vallée du Souffle) and Cascading River (Rivière Cascadante).
+
+
+...
+

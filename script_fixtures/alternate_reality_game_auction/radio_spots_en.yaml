@@ -1,0 +1,424 @@
+
+
+---
+
+audio_messages:
+
+    "99_intro_audio_messages":
+        title: "Introduction to the personal messages"
+        text: "Please now listen to a few personal messages."
+        file: "audio/radio_spots/personal_messages/A_intro_messages.mp3"
+        gamemaster_hints: "Spot used to introduce the audio messages when using the public webradio (e.g. during a mystery party)."
+
+    "01_news_auction_bidders_chosen":
+        "title": >-
+            National News - Salima Special
+        "text": >-
+            \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\ \pau=2000\
+            \vce=speaker=Antoine\ Hello everyone. For this edition of the national news, we go straight
+            over to our special correspondent in Salima! \pau=1500\ \vce=speaker=Julie\ That's right, the
+            news has just broken: the participants in Sir Loyd Georges' famous auctions have been
+            selected. They are {{TODO}} hand-picked personalities, from every corner of Pangea. The
+            lucky chosen few are {{TODO}}. We all remember the daring secret expedition led by Loyd
+            Georges in Midolia, and the diplomatic tensions that followed. Now that the situation seems
+            to have calmed down, nothing should stop these sales of precious stones and archaeological
+            artefacts from being a resounding success. \pau=1500\
+            \audio=play="new_orchestra_hits_X_ending_008";volume=120\
+
+    "10_commercial_anounces_weird":
+        "title": >-
+            Miscellaneous commercial announcements
+        "text": >-
+            \audio=mix="advert_synth_209";volume=100\ \pau=6000\ \audio=volume=25\ \pau=1000\ \vce=speaker=MargauxHappy\
+            Fellow alcoholics, the Purineur Brasserie welcomes you every day, non-stop. Come and
+            enjoy its memorable brawls, its undrinkable brews, and a magnificent view over the
+            slums of Salima. The Purineur Brasserie: because back home, it's surely
+            worse! \pau=2000\ \vce=speaker=AntoineHappy\
+            Fancy some original trading, without the
+            hassle of taxation and morality? Then the black market is made for you. The black
+            market, coming soon to your digital portal, whatever it may be. \pau=2000\ \vce=speaker=Justine\
+            Tired of lugging kilos and kilos of bottled mineral water home every week? Then
+            Doctor Shamaz, inventor of genius, has the solution to your problem. Contact him to
+            find out more! \pau=500\ \audio=volume=15\ \pau=500\ \audio=volume=5\ \pau=500\
+
+    "20_alifir_conference_announce":
+        "title": >-
+            Announcement - Ceremony in Alifir
+        "text": >-
+            \audio=mix="entertainment_oboe_203";volume=100\ \pau=5000\ \pau=5000\ \audio=volume=25\ \pau=3000\
+            \vce=speaker=BrunoHMM\The Alifir Academy is preparing, with great pomp, the tenth edition of its
+            Grand Colloquium, an event held every 6 years since its creation, and which plays no small
+            part in the growing renown of this scientific, artistic and literary powerhouse.
+            Over the coming weeks, lectures and interactive workshops will follow one another,
+            culminating in the final honours ceremony. A climax that will see
+            new names carved into the marble of the Academy's Eternal Pantheon. \pau=3000\
+
+    "30_announce_nalavut_crisis_waves":
+        "title": >-
+            International News in Brief
+        "text": >-
+            \audio=play="jingle_chimes_006";volume=100\ \pau=10\ \vce=speaker=Claire\ Great excitement
+            in the small town of Kitiika, where the Nalavutian chiefs will soon gather for
+            the start-of-century general assembly. Our special correspondent on the spot, Cynthia Loakim,
+            will be covering this major event. \audio=play="jingle_chimes_004";\ Diplomatic incidents in Midolia.
+            The Akarith Judicators have just expelled the Masslavian ambassadors from their capital,
+            accusing them of espionage and interference in internal affairs. Masslavia formally denies
+            these allegations. \audio=play="jingle_chimes_004";\ The Faculty of Imuo announces that it is
+            currently recording waves of a new kind, which appear to be sweeping the entire surface of the globe. The origin
+            of this phenomenon is not yet known. \audio=play="jingle_chimes_006";volume=100\
+
+    "35_three_paintings_stolen":
+        "title": >-
+            Theft of 3 priceless paintings
+        "text": >-
+            \audio=mix="entertainment_strings_155";volume=50\ \pau=5000\ Three old master paintings,
+            dating from the pre-Tectonic era and of priceless value, were stolen this morning
+            from the museum of Faeran. Given the scale of the loss, the borders of Sabarim
+            were immediately placed under close screening, and substantial police resources
+            have been mobilised to recover these paintings. Rewards of 1,000 kashes, which can be combined,
+            are offered to anyone who helps recover each of these paintings. The works
+            in question are portraits (oil on canvas) of three dignitaries
+            of the time: Lady Aurora, Lord Préphett and Lord Rulias. \pau=5000\
+
+    "40_news_council_explosion_alifir":
+        "title": >-
+            International News
+        "text": >-
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Bruno\In
+            today's international news: the Order of the Akarith Judicators has just gone into secret
+            council, in the Cloud Citadel. Among the topics to be discussed: "will there be spiders
+            in the cosmic kingdom of the Yods"; "is transfiliation orthodox"; and "is the end of
+            time imminent". \pau=1000\ Far from there, an undersea tremor was detected by the
+            seismographs of Baynon, raising fears of a seismic episode; but the micro-country of
+            Hydroland, which lay at the epicentre, refused to let the scientists into its
+            maritime zone. \pau=1000\ Finally, an incident occurred today at the Alifir Academy, where a
+            cleaner was wanted by the police. The academy refused to give any details of what
+            had happened, citing the confidentiality of the investigation.
+
+    "50_theft_alifir":
+        "title": >-
+            Theft at the Alifir Academy
+        "text": >-
+            \audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\
+            \vce=speaker=Julie\ Consternation at the Alifir Academy, where one of the palaeontology researchers
+            is said to have stolen a precious ancient grimoire before vanishing into thin air, barely a few
+            days before the opening of the Grand Colloquium. The first findings of the investigation
+            suggest that the thief may have been manipulated by an Akarith sect.
+
+    "55_announce_lg_manor_theft":
+        "title": >-
+            Burglary in Salima
+        "text": "\\audio=mix=\"news_military_full_147\";volume=100\\ \\pau=5000\\ \\pau=3000\\
+            \\audio=volume=25\\ \\pau=1000\\ \\vce=speaker=Julie\\ Astonishment near the city
+            of Salima: the famous Loyd Georges is said to have been the victim of an attempted burglary
+            at his manor, despite the imposing security system in place. \r\n\r\nAccording
+            to the statements of Inspector Shark, the crooks did not manage to get past
+            the entrance vestibule, and were arrested by the gendarmes, but one of
+            them reportedly managed to escape with a few stolen items.\r\n\r\n\\pau=1000\\"
+
+    "62_news_akarith_riots":
+        "title": >-
+            News - Riots and Incidents
+        "text": "\\audio=mix=\"news_intense_full_loop_014\";volume=100;repeat=on\\ \\pau=5000\\
+            \\pau=5000\\ \\pau=4000\\ \\audio=volume=25\\ \\pau=1500\\ \\vce=speaker=Claire\\\r\nThe
+            diplomatic incident is escalating in Endara, where an illegal archaeological expedition
+            claims to have unearthed a very ancient Yodic tomb in the salt desert, which has
+            prompted the Akarith High Judicators to claim historical sovereignty over this
+            territory.\r\n\\pau=1500\\\r\nIn Keroskia, the armies of Slavinka and Tieros Olim
+            have been mobilised to watch the borders and comb their tropical forests, after
+            the reckless incursion of several groups of tourists, who provoked the Tonkili pygmies
+            by encroaching on their territory.\r\n\\pau=1500\\\r\nIn Sabarim, a violent riot
+            broke out in a hamlet of South Faeran, forcing the reserve gendarmes to step in.
+            The rioters tried to loot a flat, and several arrests were made, but a physicist
+            and a reporter were still being sought early this morning.\r\n\\pau=200\\"
+
+    "64_news_alifir_blaze_&_councils":
+        "title": >-
+            World news: fires and religious councils
+        "text": >-
+            \audio=mix="new_hits_intro_loop_014";volume=100\ \pau=4500\ \pau=3000\ \audio=volume=25\
+            \pau=1000\ \vce=speaker=Claire\ Hello everyone, and welcome to this round-up of world
+            news. \pau=2000\ A fire broke out last night in the luxurious "King
+            Of Alifir" hotel, fortunately without injuring anyone. The same day, the council of
+            Nalavutian chiefs came to an end with a ceremony in honour of the Great Celestial Owl.
+            Finally, leaks have revealed that during the Akarith Grand Secret Council, the doctrine
+            of transfiliation was rejected by a large majority of the chiefs of the 7
+            clans; they did, however, renew their confidence in the High Judicators, by
+            4 votes to 3.
+
+
+    "65_wiremind_defeat_irony":
+        "title": >-
+            Imuo checkmated
+        "text": >-
+            \audio=mix="entertainment_rock_237";volume=100\ \pau=2000\ \audio=volume=10\ \vce=speaker=antoinehappy\
+            Spotlight on the losers of the week. The Faculty of Imuo had proclaimed, with
+            great fanfare and posters all over town, the release of its artificial intelligence,
+            supposedly unbeatable at chess. But in barely 3 hours, this software was defeated
+            by one {{TODO}}, a brilliant citizen of {{TODO}}. The Faculty was in no hurry
+            to concede checkmate, and remains unreachable for the time being.
+            The winner's comment: "Pitiful scientists of Imuo, hop as high
+            as you like, I'm content to soar!". {{TODO}} also thanked
+            Loyd Georges of Salima for his moral support in this feat. \pau=1000\
+
+    "70_sabarim_riots_and_dorian_treason":
+        "title": >-
+            The Dorians join Akaris
+        "text": >-
+            \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\
+            \pau=2000\ \vce=speaker=Antoine\ Good evening everyone. These are grave times. The
+            country is in the grip of serious unrest. For this edition of the national
+            news, we go straight over to our special correspondent in Salima!
+            \pau=1500\ \vce=speaker=Julie\ Indeed, numerous demonstrations
+            by illiterates are taking place in several cities across the country, and the police are trying
+            to put down what could well turn into a wave of riots. The
+            streets are not safe; we advise the inhabitants of Salima not to
+            leave their homes. This unrest comes on top of the turmoil under way
+            internationally: the Dorian Duke has announced his decision
+            to attach the Dorian Dukedom to the Akarith Empire. This attachment entails
+            a tax penalty against the Dorian Dukedom over a period of one hundred
+            years. The Dorians receive the title of Infants of Eiode, and may
+            become Sons of Eiode within ten years. The neighbouring countries of Masslavia and Elosia
+            have strongly condemned this decision. \pau=1500\
+            \audio=play="new_orchestra_hits_X_ending_008";volume=120\
+
+    "80_defeat_wiremind_standard":
+        "title": >-
+            Announcement - WireMind defeated
+        "text": >-
+            \audio=mix="news_bass_full_042";volume=100\ \pau=6000\ \audio=volume=25\ \pau=1000\ \vce=speaker=alice\
+            The Faculty of Imuo is the target of many scathing comments, after trying to cover up
+            the defeat of its artificial intelligence at chess, against an amateur player. The winner
+            is one {{TODO}}, from {{TODO}}.
+
+
+_UNUSED_AUDIO_:
+
+    #message_intercepted:
+    #    text: "Short chimes sound"
+    #    file: "intercepted_message_chimes.mp3"
+
+    intro_audio_messages:
+        text: "Please now listen to a few personal messages."
+        file: "A_intro_messages.mp3"
+
+
+    new_messages_bewitcher:
+        text: "Aunt Amélie rides her bike in shorts."
+        file: "amelie.mp3"
+
+    new_messages_oracle:
+        text: "Atalie remained in ecstasy"
+        file: "atalie.mp3"
+
+
+    new_messages_hacker:
+        text: "Louis has two pigs"
+        file : louis.mp3
+
+    new_messages_networker:
+        text: "Grandma is eating our sweets."
+        file: "bonbons.mp3"
+
+
+    new_messages_listener:
+        text: "The blue horse is strolling along the horizon."
+        file: "cheval.mp3"
+
+    new_messages_scanner:
+        text: "Clémentine wants to pick her teeth."
+        file: "clementine.mp3"
+
+
+    new_messages_loyd.georges:
+        text: "I don't like crêpes Suzette."
+        file: "crepes.mp3"
+
+    new_messages_archaeologist:
+        text: "The postman has fallen asleep"
+        file: "facteur.mp3"
+
+    new_messages_physicist:
+        text: "Giraffes don't wear detachable collars."
+        file: "girafes.mp3"
+
+
+
+    #request_for_report_akaris:
+    #    text: "Pierrot looks like his grandfather"
+    #    file: pierrot.mp3
+
+    #request_for_report_masslavia:
+    #    text: "I like Siamese cats."
+    #    file: "siamois.mp3"
+
+    #request_for_report_teldorium:
+    #    text: "There's no more tobacco in the snuffbox."
+    #    file: "tabac.mp3"
+
+    #request_for_report_sciences:
+    #    text: "It's time to pick tomatoes."
+    #    file: "tomates.mp3"
+
+
+    victory_akaris:
+        text: "Sound of a cat"
+        file: sound_cat.mp3
+    defeat_akaris:
+        text: "Sound of a cicada"
+        file: sound_cicada.mp3
+
+    victory_masslavia:
+        text: "Sound of a cow"
+        file: sound_cow.mp3
+    defeat_masslavia:
+        text: "Sound of a dog"
+        file: sound_dog.mp3
+
+    victory_teldorium:
+        text: "Sound of a donkey"
+        file: sound_donkey.mp3
+    defeat_teldorium:
+        text: "Sound of a duck"
+        file: sound_duck.mp3
+
+    victory_sciences:
+        text: "Sound of a monkey"
+        file: sound_monkey.mp3
+    defeat_sciences:
+        text: "Sound of a sheep"
+        file: sound_sheep.mp3
+
+
+    #TO PLACE 0
+    #    text: "Andromache perfumes herself with lavender."
+    #    file: "andromaque.mp3"
+
+    #TO PLACE 1:
+    #    text: "The long sobs of the violins of autumn."
+    #    file: "sanglots.mp3"
+
+    #TO PLACE 2:
+    #    text: "Lull my heart with a monotonous languor."
+    #    file: "berce.mp3"
+
+    #TO PLACE 3:
+    #    text: "The elephant has broken a tusk."
+    #    file: "elephant.mp3"
+
+
+
+    #spot_intro_flash_info:
+    #    text: "Whoa, mini news flash, totally wicked, man..." # with music
+    #    file: spot_mini_flash_info.mp3
+
+    #spot_intro_normal_info:
+    #    text: "Super radio news, the best of current affairs in a few dozen seconds."
+    #    file: spot_intro_info.mp3
+
+    #spot_alifir_bank_attack:
+    #    text: >
+    #       The central bank of Alifir has fallen victim to a daring robbery. A commando unit mysteriously managed to get
+    #       into the strongrooms without setting off any alarm. Thanks to the prompt intervention of the guards, they fortunately
+    #       only had time to open a single armoured safe before fleeing.
+    #    file: spot_alifir_bank_attack.mp3
+
+    #spot_masslavian_ambassadors_eviction:
+    #    text: >
+    #        Diplomatic tensions in Midolia. The Akarith Judicators have just expelled the Masslavian ambassadors to Akaris,
+    #        accusing them of espionage and interference in internal affairs. Masslavia formally denies these allegations.
+    #    file: spot_masslavian_ambassadors_eviction.mp3
+
+    #spot_nuxia_alcohol_exhibition:
+    #    text: >
+    #        Today sees the opening, in Mikahaih, of the great brandy fair, which as every year brings together thousands
+    #        of oenologists and alcoholics from all over the continent.
+    #    file: spot_nuxia_alcohol_exhibition.mp3
+
+    #spot_nalavut_council_begins:
+    #    text: >
+    #        Great excitement in the small town of Kitiika, where the great council of Nalavutian chiefs is currently gathering for
+    #        the start-of-century general assembly. Our special correspondent on the spot, Cynthia Farthstariygta, will bring us
+    #        the details of this major event live tonight.
+    #    file: spot_nalavut_council_begins.mp3
+
+    #spot_akarith_agents_arrested:
+    #    text: >
+    #        Diplomatic troubles are intensifying in Midolia, after the arrest, by the Masslavian government, of a dozen Akarith
+    #        nationals, for illegal possession of poisons and endangering state security. The Akarith Judicators have violently
+    #        condemned these measures.
+    #    file: spot_akarith_agents_arrested.mp3
+
+    #spot_electromagnetic_storm:
+    #    text: >
+    #        The Faculty of Imuo announces that it is currently recording electromagnetic tremors of a new kind, sweeping the entire surface of the globe.
+    #        The first measurements suggest that these phenomena originate somewhere around Heliossar or Slavinka.
+    #    file: spot_electromagnetic_storm.mp3
+
+    #spot_kitiika_attack:
+    #    text: >
+    #        Serious crisis in Kitiika, where an armed group burst into the inner precinct of the great council, and took a dozen
+    #        of the dignitaries present hostage before fleeing by sea. Numerous warships are criss-crossing the area in search of them.
+    #    file : spot_kitiika_attack.mp3
+
+    #spot_kitiika_cynthia_lacking:
+    #    text: >
+    #        Relief in Nalavut, where all the clan chiefs kidnapped by the unknown terrorists have been recovered from a drifting sailing boat
+    #        by a cruiser from Beth-Asmavoth. Their kidnappers reportedly slipped away in a submarine, keeping a Sabarith journalist hostage.
+    #    file : spot_kitiika_cynthia_lacking.mp3
+
+    #spot_H2O_cheating:
+    #    text: >
+    #        Large-scale swindle in Baynon, where several thousand victims are marching in the streets, demanding the head of a Beelmonian
+    #        merchant who allegedly sold them dozens of tonnes of dehydrated water. An international arrest warrant has been issued.
+    #    file : spot_dehydrated_water_cheating.mp3
+
+    #spot_baazel_arrested:
+    #    text: >
+    #        The situation is getting complicated in Akaris, where the archmage of Zorzas, Baazel, has been arrested by the Judicators on charges of high treason.
+    #        A state of emergency has been declared throughout the country.
+    #    file : spot_baazel_arrested.mp3
+
+    #spot_midolia_high_tension:
+    #    text: >
+    #        Tension is rising in Midolia, as the Masslavian and Akarith armies mass at the borders, and the two states
+    #        keep accusing each other of imperialism, sacrilege or treason.
+    #        The neighbouring nations are calling for a peaceful resolution of the conflict.
+    #    file : spot_midolia_high_tension.mp3
+
+    #spot_alien_phenomenons:
+    #    text: >
+    #        Strange meteorological phenomena in the skies of Heliossar, where luminous circles and coloured flashes of lightning keep appearing and disappearing.
+    #        Most of the population expects an imminent landing of extraterrestrials.
+    #    file : spot_alien_phenomenons.mp3
+
+
+
+
+    info_spots_1:
+        text: "ambassadors eviction + nalavut council begins + alcohol exhibition"
+        file: info_spots_1.mp3
+
+    info_spots_2:
+        text: "kitiika attack + akarith agents arrested + electromagnetic storm"
+        file: info_spots_2.mp3
+
+    info_spots_3:
+        text: "nalavut cynthia lacking + max tension midolia + alien phenomenons"
+        file: info_spots_3.mp3
+
+    info_spots_alifir_bank_attack:
+        text: "The bank of Alifir was held up."
+        file: info_spots_alifir_bank_attack.mp3
+
+    info_spots_baazel_arrested:
+        text: "Archmage Baazel was arrested."
+        file: info_spots_baazel_arrested.mp3
+
+    info_spots_H2O_cheating:
+        text: "Dehydrated water rip-off."
+        file: info_spots_dehydrated_water_cheating.mp3
+
+
+...
+
