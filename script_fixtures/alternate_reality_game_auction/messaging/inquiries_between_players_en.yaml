@@ -1,0 +1,85 @@
+
+
+messaging:
+
+
+    manual_messages_templates:
+
+
+        -   "id": "info_on_magnus"
+            "body": |
+                Agent,
+
+                From memory, he's a wealthy Lordanian; he made a few newspapers more than a year ago,
+                for archaeological purchases involving rather exorbitant sums.
+
+                The state's investigation services are currently swamped with cases of forged papers
+                coming from Akarith travellers, but we can call on a private investigator, for 100¤ -
+                would you like us to debit this sum from the budget allocated to you for this mission,
+                in order to get a report on the individual?
+            "categories":
+            - >-
+                magnus
+            "gamemaster_hints": "If information is requested about the special Lordanian player Magnus"
+            "subject": >-
+                Info on Magnus
+
+
+
+        -   "id": "inquiry_on_magnus_private_detectives"
+            "body": |
+                Agent,
+
+                As discussed on the phone, here is a quick recap of this (somewhat pitiful) tailing job. Your 50¤ have
+                been debited by those rats at the tailing agency.
+
+                - Magnus, coming from Lordania, has settled into the luxury hotel of Alifir,
+                  opposite the Academy, with his wife and child.
+
+                - He spent the morning alone, at the medical testing centre
+
+                - On the way back, he was strolling down a shopping street, and realised that the "trainee detective" was following him.
+
+                - He then sat down at a café, and offered the detective (who had sat down a few tables away) the drink of her choice, through the waiter.
+
+                - The detective was not prepared for that, ordered a fruit cocktail, then panicked and fled after barely touching it.
+
+                Otherwise, the detective agency said it would soon send us its full report; what they already
+                know is that Magnus is a rather famous figure in Lordania, a former wheeler-dealer of all
+                sorts who made his fortune more or less honestly, and who has lately settled down
+                and turned to antiques of various kinds.
+
+                Strength and Honour
+            "categories":
+            - >-
+                magnus
+            "gamemaster_hints": "Example where a player hires a local detective to investigate Magnus"
+            "subject": >-
+                Tailing of Magnus - report
+
+
+        -   "id": "inquiry_on_magnus_secret_services"
+            "body": |
+                OK agent,
+
+                I've got the "Magnus" report in front of me.
+
+                The guy was born in Baynon some fifty years ago. He's knocked about quite a bit, and piled up
+                cash through various more or less legal rackets, oddly enough without ever being troubled by the
+                Lordanian security services.
+
+                He seems to have settled down these past few years, with a wife ("Lydia") and a kid ("Khaal"). He's
+                currently doing big business in antiques, jewellery, slightly esoteric stuff,
+                all that, from Lordania.
+
+                No way of knowing where he met old Loyd Georges, though, but he's no school/university
+                mate of his, that's for sure.
+            "categories":
+            - >-
+                magnus
+            "gamemaster_hints": "If the secret services must report on Magnus"
+            "subject": >-
+                Magnus - report
+
+
+

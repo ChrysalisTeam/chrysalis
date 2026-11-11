@@ -1,0 +1,136 @@
+
+
+
+
+messaging:
+
+    manual_messages_templates:
+
+
+        -   "id": sir_ademar_dogs
+            "body": |
+                My dear Loyd Georges,
+
+                I am sorry about all these troubles befalling you. What with the break-ins, the thefts, the threats,
+                and now attacks on your friends, this country has truly gone to the dogs.
+
+                I shall gladly take care of your dog's spa cure; Anubis is truly an exceptional
+                companion, as rigorous in guarding your manor as he is playful with my grandchildren.
+
+                Should you consider adding a new canine to your family, do know that my niece has just been
+                blessed with a litter of 5 a-dor-able basset puppies. You could take a male and call him
+                Seth, for instance - to keep to the same naming scheme you have used from the start. But if you would rather
+                return to your first love, my Siamese cat will soon be giving birth.
+
+                Princely yours,
+
+                S.A
+            "categories":
+            - >-
+                npc_account_hacking
+            "gamemaster_hints": "Clues to hack Loyd Georges' Anthropia account."
+            "recipient_emails":
+            - >-
+                loyd.georges@anthropia.pg
+            "sender_email": >-
+                sir-ademar@salima.pg
+            "subject": >-
+                Condolences for these misadventures
+
+
+        -
+            id: lg_mansion_hints_answer
+            gamemaster_hints: "Clues to hack Loyd Georges' Anthropia account."
+            categories: ["npc_account_hacking"]
+            sender_email: loyd.georges
+            recipient_emails: ["sir-ademar@salima.pg"]
+            subject: "Re: Condolences for these misadventures"
+            body: |
+
+                Dear Sir Adémar,
+
+                Thank you for your message, which warms my heart. I am indeed thinking of taking in a new animal, but it is still too early for that - not only because of the mourning I owe my old Anubis, but also because my schedule would not give me the leisure to get properly acquainted with my new beast.
+
+                As for the burial, it will take place in the vault we have handed down from generation to generation, at the Père Huche pet cemetery (South Salima), at 13:37 the day after tomorrow.
+
+                Sirtainly yours,
+
+                L.G
+
+
+
+        -   "id": "loakim_loucia_death_commemoration"
+            "body": |
+                Dear all,
+
+                What with confinements at home and trips abroad, it seems that the anniversary ceremony
+                in memory of our dear wife/mother/sister/friend will not be able to take place this weekend.
+
+                I therefore suggest that we postpone it by 4 weeks, when things have calmed down.
+                Loucia would in any case have appreciated seeing so much devotion to the marvels of Science.
+
+                *Doctor L.B.*
+            "categories":
+            - >-
+                npc_account_hacking
+            "gamemaster_hints": "Clues to hack Prof. Loakim's Anthropia account."
+            "recipient_emails":
+            - >-
+                cynthia@anthropia.pg
+            - >-
+                emilos.loakim@anthropia.pg
+            - >-
+                loyd.georges@anthropia.pg
+            "sender_email": >-
+                lucius.begalatr@faeran.pg
+            "subject": >-
+                Postponement of the memorial ceremony
+
+
+
+        -   "id": alifir_robbery_status
+            "body": |
+                Hello my friends,
+
+                Well, morally speaking, the theft of this Sacred Akarith Grimoire is a tragedy for our team; it proves
+                that even in the holy of holies of the Alifir Academy, these damned Akariths can strike....
+
+                But scientifically speaking, we should pull through: we still have all the pages, in
+                digital form, and the translation is already well under way.
+
+                The section we are currently deciphering tells of the epic "Battle of Wigwir", during
+                which the "three Divine Tears" are said to have been lost. That leaves two of them out in the wild,
+                just waiting for our research.
+
+                I have sent my assistant Karles to scout east of Nuxia (Slavinka), where we already
+                have several possible locations for this famous place called Wigwir. Arthritis notwithstanding,
+                I shall probably have to go and launch these excavations myself!
+
+                That way I will get a little further away from these damned fanatics; as for you, stay shut away and all
+                will be well. Inspector Shark wanted to put you under police protection too, Waden, but we
+                all agree that secrecy is our best ally, for nothing can stop
+                a band of raving madmen blending into the population, once they know their target.
+
+                To sum up the puzzle so far: this buried temple belonged to Razulite faithful, who were
+                waging a fratricidal war against Taranite faithful. Apparently everything was decided at Wigwir, and the
+                bodies we found date from several decades later. That leaves us many
+                mysteries to solve (above all the "interrupted" vandalism), but it is a start.
+
+                I am packing my bags this very hour; I probably won't have access to my Anthropia account for
+                several weeks, so don't worry, I'll ring you on the long-distance phone if need be.
+
+                E.L
+            "categories":
+            - >-
+                wigwir_orb
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                waden@anthropia.pg
+            - >-
+                loyd.georges@anthropia.pg
+            "sender_email": >-
+                emilos.loakim@anthropia.pg
+            "subject": >-
+                Important - following this new burglary.....
+
