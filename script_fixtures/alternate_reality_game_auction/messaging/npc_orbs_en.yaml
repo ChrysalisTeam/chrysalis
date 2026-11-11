@@ -1,0 +1,161 @@
+
+
+
+
+
+messaging:
+
+    manual_messages_templates:
+
+
+        -   id: lg_cinematics
+            categories: ["nazur_orb"]
+            sender_email: loyd.georges
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "VIDEO - Introduction to the Temple of Nazur"
+            body: |
+
+                Dear all,
+
+                Please enjoy, as a world premiere, this little trailer, the foundation stone - I hope - of a future video documentary recounting this exciting expedition to Akarith lands.
+
+                To be watched in High Definition, of course.
+
+                http://www.youtube.com/watch?v=DqvYix3n0DI
+
+                Your feedback is most welcome,
+
+                Kind regards,
+
+                *Loyd Georges*
+
+
+
+        -   id: waden_news_request
+            categories: ["nazur_orb"]
+            sender_email: emilos.loakim
+            recipient_emails: waden
+            subject: "Wassup?"
+            body: |
+
+                Greetings, my boy!
+
+                So, what have your little investigations into Roly-Poly turned up? Anything big on the horizon? You know Lolo is getting just as impatient as I am.
+
+                If you need any extra equipment, don't hesitate to tell us; we can have it delivered to a friend of mine, near Faeran town centre.
+
+                See you soon,
+
+                Emilos
+
+        -   id: misc_news_emilos
+            gamemaster_hints: "Assorted clues for the Alpha Orb."
+            categories: ["doctor_honoris_causa", "nazur_orb"]
+            sender_email: emilos.loakim
+            recipient_emails: loyd.georges
+            subject: "Re: Assorted news"
+            body: |
+
+                Sorry for the delay, old bean,
+
+                I've had very short nights myself, what with everything that's going on. I had planned a little trip to Nalavut to say hello to my Cynthia and enjoy the festivities, but it looks like that will have to wait for another year.
+
+                Alas, I still have no news from Waden, but knowing him, he won't be in touch until he has something solid and precise... I'll send him a message by Friday, but whatever you do, don't make any rash statements in the meantime, because for now we have no guarantee that this "thing" isn't a *fake*.
+
+                See you soon,
+
+                *Emilos*
+
+
+
+        -   "id": waden_report_orb_analysis
+            "body": |
+                hello,
+
+                here, as requested yesterday, is a little recap of my current analysis of the "thing"; I can't wait
+                to get back to the academy to study this little treasure in calmer surroundings, and with more
+                sophisticated equipment.
+
+                Happy reading,
+
+                *waden*
+
+                -----
+
+                With a refractive index of 1 (which therefore makes it transparent to many optical/wave phenomena),
+                zero magnetism, perfect conductivity, prodigious phosphorescence, an extremely solid crystallographic
+                structure that nonetheless thwarts every attempt at observation, and an equally mysterious chemical
+                composition, this stone clearly defies all classification! This gem most probably
+                does not come from our planet.
+
+                What also seems established is that all the "magical" properties that popular tradition
+                attributes to giant crystals are disproved by this gem. It is entirely transparent
+                to electromagnetic waves and does not even have the interference or focusing properties
+                of existing crystals. No risk, then, of setting off chain reactions by stimulating it.
+
+                The most intriguing thing is that high-pitched, crystalline whistling which the gem emits as soon as its temperature
+                rises above absolute zero. Under the lasers, the din sometimes becomes quite terrifying;
+                lucky this lab is well soundproofed. That must be the "song of the orbs" that
+                mythology speaks of.
+            "categories": ["doctor_honoris_causa", "nazur_orb"]
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                loyd.georges@anthropia.pg
+            - >-
+                emilos.loakim@anthropia.pg
+            "sender_email": >-
+                waden@anthropia.pg
+            "subject": >-
+                Roly-Poly analysis
+
+
+        -   id: waden_news_response
+            categories: ["nazur_orb"]
+            sender_email: waden
+            recipient_emails: ["emilos.loakim", "loyd.georges"]
+            subject: "Reporting in"
+            body: |
+
+                Hello, old-timers,
+
+                sorry for the delay, but I've been flat out lately.
+
+                The "thing" exceeds all my hopes in the way it reacts negatively to every one of my attempts at analysis.
+
+                It's still too early to draw conclusions; I'd need some specific kit to investigate its magnetic properties.
+
+                Could you get me a Lasulis transponder and some Barzow lenses as soon as possible, again care of the central concierge desk in Faeran? I'll pick them up next Saturday, very discreetly.
+
+                thanks,
+                cya
+
+                *Waden*
+
+
+
+        -   "id": jungle_harmony_album_announce
+            "body": |
+                The Sabarim Gazette is delighted to present to you, as an exclusive, the latest creation of the rising
+                star of the music scene, Claudia Pason.
+
+                A native of Alifir, Claudia has been roaming Keroskia for several years in search of hybrid sounds.
+                After her stay in the salt desert near Meelish, she is now venturing further north
+                for her next album, Jungle Harmonies. An album which, once again, blends traditional
+                instruments with field recordings made in the wild.
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/Journey in keroskian jungle.mp3"]
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Jungle Harmonies - Preview
+
+
+

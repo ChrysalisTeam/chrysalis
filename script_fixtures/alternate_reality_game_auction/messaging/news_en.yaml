@@ -1,0 +1,177 @@
+
+messaging:
+
+    manual_messages_templates:
+
+
+        -   id: new_web_module
+            gamemaster_hints: "To inform the players that a new game module has been activated."
+            categories: ["news"]
+            sender_email: system@anthropia.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "New module connected"
+            body: |
+
+                Dear Sir or Madam,
+
+                Following an external request, a new plug-in module, {{ module_name }}, has been connected to your portal.
+
+                Please note that the Academy accepts no liability whatsoever for the use of external modules.
+
+                Anthropia
+
+
+
+        -   id: lg_interview
+            gamemaster_hints: "Clues about Loyd Georges' background."
+            categories: ["news", "nazur_orb"]
+            sender_email:  contact@sabarim-gazette.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "Article - Loyd Georges"
+            body: |
+                **As with every article of the Sabarim Gazette, two months after its publication, we are making
+                this interview public and free of charge.**
+
+                *In the previous issue of your favourite news circular, we covered the madcap archaeological
+                expedition of Sir Loyd Georges to Midolia, and the diplomatic imbroglio that ensued.*
+
+                In the face of our insistence, the man himself finally agreed to receive us in his prestigious
+                manor, and to lift a corner of the veil of mystery that shrouds this fleeting and illicit journey.
+                And so, on the morning of 4 May, we called upon the colourful retiree.
+
+                - So, my dear Sir Loyd Georges, have you recovered from your little escapade?
+
+                - To tell the truth, compared with the pace of my life since I got back, it was a positive sinecure (laughs).
+
+                - Do you mean that the Akarith leaders, or their faithful, have been causing you trouble?
+
+                - Oh, certainly not; you know what the saying goes: the camels bark, but the pack moves on… or something like that.
+
+                - So the surveillance systems recently installed in your manor, and the compulsory search at the entrance, are...
+
+                - Purely a precaution. No, what steals my days and my nights is of course the processing and showcasing of everything I gathered during that short stay in the land of Akaris.
+
+                - Precisely, that is the question all of Sabarim is asking: what exactly did you go looking for over there, and what, in the end, did you find?
+
+                - It is still too early to go into details, all the more so as my privileged collaboration
+                  with the Alifir Academy binds me to a certain duty of discretion. But these are
+                  discoveries which will, I have no doubt, revolutionise our knowledge of the History of the Yodic
+                  Denominations during the Tectonic Era. If not more.
+
+                - Forgive our impudence, but a little bird told us that you had ordered leaflets
+                  for a certain "Auction – Lost Treasures of Midolia"; does that mean
+                  you intend to sell your archaeological discoveries to the highest bidder?
+
+                - (after a moment of stupefaction) Well, I must say you don't waste your time! But
+                  I wish to nip any misunderstanding in the bud: these auctions concern gemstones found
+                  on site, or at most artefacts of which our museums already hold plenty; nothing,
+                  in any case, of any real historical value: Science is not for sale.
+
+                - Let us remind our readers that certain sects which were rife in Midolia had an almost
+                  pathological obsession with gems and other jewels. Judging by the programme of your auctions,
+                  I imagine you were lucky enough to stumble upon one of their sanctuaries, intact into the bargain.
+
+                - (laughs) Alas, I cannot entirely contradict you on all of that. But it is getting late, gentlemen,
+                  and I intend to keep a few exclusives to announce myself at the right moment. My dear
+                  butler Rydji will see you back to the entrance, and I thank you once again for the interest
+                  you take in my modest peregrinations as an investigator of time.
+
+                [BR]
+
+                *Sir Loyd Georges' manor, near Salima*
+
+                .. image:: [GAME_THUMBNAIL_URL "images/locations/manor_day.png" "big_width"]
+                    :align: center
+
+
+
+        -   id: pangea_history_video
+            categories: ["universe"]
+            sender_email: system@anthropia.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "VIDEO - Tunguska, the Trailer"
+            body: |
+
+                To counter the growing obscurantism blowing in from Midolia, the Alifir Academy is taking a stand.
+
+                Its History department is therefore currently producing a documentary reminding the world of what truly lies at the origin of the Tectonic Era, and thereby demolishing the hazy theocratic theories of the Akarith Judicators and their henchmen.
+
+                You can watch the trailer of this edifying video, as a world exclusive:
+
+                https://www.youtube.com/watch?v=DhE67FcNH1g
+
+                *The Alifir Academy*
+
+
+
+
+        -   "id": inspector_shark_arrival
+            "body": |
+                The venerable Sir Loyd Georges, a prominent figure of Salima, has recently been the target of various threats,
+                which have materialised in attempted burglaries of his manor. The city of Salima has therefore
+                put specific protective measures in place for him and for those around him. It has also
+                called in the famous Inspector Shark to investigate these crimes.
+
+                Inspector Shark made his name by dismantling numerous criminal gangs in the
+                land of Sabarim, and by solving a great many murders and thefts with remarkable efficiency;
+                having only just retired, he now finds himself reinstated in his post, and propelled into the heart
+                of the criminal schemes surrounding Loyd Georges.
+
+                [BR]
+
+                .. image:: [GAME_THUMBNAIL_URL "images/locations/foggy_crater_city.png" "big_width"]
+                    :align: center
+            "categories":
+            - >-
+                news
+            "gamemaster_hints": ""
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Live news from Salima
+
+
+
+
+        -   "id": paintings_found_back
+            "body": |
+                After a relentless manhunt, the Sabarith police have finally recovered the three paintings, each
+                worth more than 1 M¤.
+
+                It was in a dustbin in Alifir that the thief (or thieves) finally abandoned their loot, unable
+                as they were to smuggle out or resell the fruits of their daring misdeed.
+
+                As a reminder, these three paintings depict Lady Aurora, Lord Phrephett and Lord Rulias, three
+                dignitaries of pre-Tectonic Akaris who had long studied the Tunguska crash, and the
+                climatic and geopolitical consequences of that event. Sadly, their work disappeared shortly
+                after their death.
+
+                [BR]
+
+                .. image:: [GAME_THUMBNAIL_URL "images/classical_portraits/lady_aurora.png" "medium_width"]
+                    :align: center
+
+                [BR]
+
+                .. image:: [GAME_THUMBNAIL_URL "images/classical_portraits/lord_prephett.png" "medium_width"]
+                    :align: center
+
+                [BR]
+
+                .. image:: [GAME_THUMBNAIL_URL "images/classical_portraits/lord_rulias.png" "medium_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Scoop - The Three Million-Kash Paintings Recovered
+
+
+...
+

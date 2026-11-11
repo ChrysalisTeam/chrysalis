@@ -1,0 +1,452 @@
+---
+
+# TODO FIX ALL THESE ABILITY SETTINGS
+
+abilities:
+
+    admin_dashboard:
+        settings:
+            sorted_widget_ids:
+            - admin_dashboard.change_master_credentials
+            - admin_dashboard.choose_activated_views
+            - admin_dashboard.set_game_pause_state
+            - admin_dashboard.set_theoretical_game_duration
+            - friendship_management.set_friendship_minimum_duration
+            - view_encyclopedia.set_encyclopedia_index_visibility
+            - admin_dashboard.ability_autoresponse_mode
+            - admin_dashboard.external_email_mode
+
+
+    house_reports:
+        settings:
+            dedicated_email: "surveillance@services.com"
+            result_delay: [4, 6] # minutes
+            middlewares:
+                get_surveillance_report:
+                    CostlyActionMiddleware:
+                        money_price: 100
+                        gems_price: null
+            reports:
+                # Beware, these reports are rendered as django templates, but with a limited subset of game data!
+
+                "08h-10h":
+                    surveillance_analysis: |
+                        Usual waking-up and breakfast routine of Loyd Georges and his servants. A delivery man brings food bags to the pantry, around 9:15. At 9:30, Loyd Georges receives a landline phone call, then goes to the back door of the manor. He comes back 5 minutes later with a parcel under his arm. The surveillance cameras are paused for 10 minutes from the terminal. When they automatically reactivate, Loyd Georges is putting the thick book named *Venture Prins* back in the library. Then he goes to work in his study.
+                    gamemaster_hints:
+                        The parcel contains the Panorbium Fortuna sent by Emilos Loakim from Keroskia.
+
+                "10h-12h":
+                    surveillance_analysis: |
+                        Inspector Shark arrives at 10:00, and holds a 15-minute meeting with Rydji and Alphonse, in the dining room. He then talks with Loyd Georges in the study. At 10:45, {{character_properties.opal.official_name}} comes down to the lounge and talks with Rydji. The cook arrives at 10:55, then gets busy in the kitchen.
+
+                        Shortly afterwards, {{character_properties.opal.official_name}} settles down for a long while at the computer station of the library, whose door he closes.
+
+                        At 11:00, {{character_properties.amethyst.official_name}} arrives at the manor, and goes to talk with Loyd Georges, while Inspector Shark stays in the gentleman's bedroom. This guest offers a bottle to his host, and is shown out by Rydji around 11:45. Loyd Georges then joins Inspector Shark in the bedroom. The cook comes by to pick up the bottle at 11:55.
+                    gamemaster_hints: |
+                        The bottle is a digestive liqueur, sealed, and not consumed immediately.
+
+                "12h-14h":
+                    surveillance_analysis: |
+                        At 12:05, meeting of Loyd Georges with {{character_properties.malachite.official_name}}, who offers some delicacies. Inspector Shark stays in the bedroom.
+
+                        From 12:10, no more recording available, cameras deactivated from the terminal.
+                    gamemaster_hints: |
+                        The delicacies: they are tropical nuts, {{character_properties.malachite.official_name}} eats some too.
+
+                        It is {{character_properties.amethyst.official_name}} who retraced his steps well before, to deactivate the cameras, and went off to explore the collection on the 1st floor.
+
+                        Rydji leaves for town at 12:15, after informing Alphonse.
+
+                        Alphonse walks {{character_properties.malachite.official_name}} back to the door of the manor (not of the grounds) at 12:30.
+
+                        At 12:45, {{character_properties.amethyst.official_name}} and {{character_properties.malachite.official_name}}, who are searching the building, unintentionally run into each other in the pantry, and flee the manor.
+
+                        From 13:15, lunch of Loyd Georges with Inspector Shark and {{character_properties.opal.official_name}}: aperitif of tropical nuts and liqueur, then a meal of cod gratin with chanterelles. The service is done by Alphonse.
+
+                "14h-16h":
+                    surveillance_analysis: |
+                        The cameras are reactivated from the terminal at 14:20.
+
+                        The cook finishes eating with Alphonse at 14:30, then puts on gardener's clothes and goes out through the back door.
+
+                        At 14:45, {{character_properties.opal.official_name}} puts on his coat and leaves the manor.
+
+                        At 15:00, meeting of Loyd Georges with {{character_properties.peridot.official_name}} and {{character_properties.topaz.official_name}}. Inspector Shark stays in the bedroom. The two guests are shown out by Rydji at 15:55.
+
+                        Loyd Georges chats a little with Inspector Shark, then goes to doze off in an armchair of the library.
+
+                    gamemaster_hints: |
+                        It is Rydji, back from town, who reactivates the cameras.
+
+                        Bedou was fed by the cook with the leftovers, around 14:00.
+
+                        {{character_properties.peridot.official_name}} and {{character_properties.topaz.official_name}} introduce themselves as two friends.
+
+                "16h-18h":
+                    surveillance_analysis: |
+                        {{character_properties.spinel.official_name}} arrives at the manor at 16:00, and waits in the dining room.
+
+                        At 16:05, Inspector Shark goes to the kitchen, and talks there with the cook who has just gone back to his stoves. At one point, he pulls a pouch out of his jacket, and steps out of the camera's field of view. Then he goes back up to Loyd Georges' bedroom.
+
+                        At 16:20, Loyd Georges wakes from the nap he was taking in a library armchair, and receives his guest in the study.
+
+                        At 16:30, {{character_properties.garnet.official_name}} arrives at the manor, and waits in the library.
+
+                        A scene takes place, and {{character_properties.spinel.official_name}} hastily leaves the manor, shown out by Rydji.
+
+                        Loyd Georges then receives {{character_properties.garnet.official_name}} in the study, at 16:35.
+
+                        Shortly before 18:00, Alphonse brings him a glass filled with liquid.
+
+                    gamemaster_hints: |
+                        Inspector Shark went to replace the bay leaves with oleander at that moment, in the kitchen. He pretended to question the cook about the attempted burglaries of the manor.
+
+                "18h-20h":
+                    surveillance_analysis: |
+
+                        At 18:10, Loyd Georges ends the meeting with {{character_properties.garnet.official_name}}, and goes off to his bedroom.
+
+                        Rydji shows {{character_properties.garnet.official_name}} out, and in the great hall calls out to Alphonse, who was putting on his coat. {{character_properties.garnet.official_name}} searches his pockets, then heads back towards the small hall.
+
+                        A few minutes later, Alphonse leaves the manor, then Rydji goes to fetch {{character_properties.garnet.official_name}} to escort him off the premises.
+
+                        At 18:30, the inspector comes out of Loyd Georges' bedroom and leaves the manor.
+
+                        At 19:00, the cook leaves in turn, after feeding Bedou.
+
+                        At 19:30, Loyd Georges dines with Rydji, the two of them eating different dishes. Loyd Georges does not seem to enjoy his dish.
+
+                    gamemaster_hints: |
+                        {{character_properties.garnet.official_name}} took advantage of a moment alone to program the deactivation of the manor's security, for late in the evening.
+
+                        Officially, the inspector left to report to his superiors.
+
+                        The dinner menu: veal blanquette with bay leaves.
+                        Loyd Georges eats little but drinks a lot, rails against the cook for having over-spiced the dish, says he has a slight stomach ache and seems somewhat short of breath.
+
+                "20h-22h":
+                    surveillance_analysis:
+                        From 20:00, Loyd Georges has tea on a sofa of the dining room, with Rydji.
+
+                        He goes up to his bedroom with difficulty around 21:00.
+
+                        At 21:30, {{character_properties.opal.official_name}} returns to the manor, talks with Rydji, then goes off to his bedroom.
+
+                    gamemaster_hints: null
+
+                "22h-24h":
+                    surveillance_analysis: |
+                        At 22:05, the library camera is blinded by a strong light.
+
+                        At 22:10, the study door opens slightly, and it is this camera's turn to be put out of action by blinding.
+
+                        At 22:20, Alphonse comes back into the great hall, dishevelled, and goes to his room.
+
+                        At 22:29, the cameras of the study and then of the library regain their sight.
+
+                        At 22:30, the lights of the whole manor come on. Rydji crosses the great hall in pyjamas. Alphonse does the same shortly after. They go to Loyd Georges' bedroom.
+
+                        At 23:00, paramedics arrive at the manor, and leave with Loyd Georges on a stretcher, under the eyes of the two servants. Rydji goes to the bedroom of {{character_properties.opal.official_name}}, and comes out a few minutes later.
+
+                        At 23:30, Inspector Shark turns up with police officers, who spread out through the manor.
+
+                        At 23:50, the surveillance system shuts down, following the removal of its recording reels.
+
+
+                    gamemaster_hints: |
+
+                        Alphonse had gone partying in a gambling den of Salima.
+
+                        It is {{character_properties.garnet.official_name}} who sneaked into the manor, as far as Loyd Georges' study.
+
+                        When Loyd Georges' bell rings, the butler goes up and finds him passed out in the middle of his bedroom, with some disorder due to his agitation.
+
+                        Loyd Georges is taken away by the ambulance, and put in intensive care at the hospital of Salima.
+
+                        Rydji could not wake {{character_properties.opal.official_name}}, who was sleeping too deeply in his bedroom because of his sleeping pills.
+
+
+    chess_challenge:
+        settings: {}
+
+
+    artificial_intelligence:
+
+        settings:
+            bots_answer_delays_ms: 1000
+            bot_max_answers: 300
+
+            terminal_answers:
+                - "I'm fed up, please stop boring me."
+                - "I think we've talked enough for today."
+                - "The time that I could afford to spend with you is now elapsed."
+                - "Lalalalal, I don't hear anything, lalalalalh..."
+                - "Come back in two years, will yah ?"
+
+            common_bot_properties:
+                version: "1.0"
+                brain: "genius"
+                age: "18876"
+                gender: "Djinn"
+                location: "Olympia"
+                nationality: "Akarith"
+                birthplace: "Zorzas"
+                sign: "Zodiac"
+                orientation: "none"
+                kingdom: "Akaris"
+                phylum: "Djinn"
+                class: ""
+                order: ""
+                family: ""
+                genus: "both"
+                species: "djinns"
+                botmaster: "Gods"
+                master: "Gods"
+                party: ""
+                religion: "pagan"
+                etype: ""
+                emotions: ""
+                feelings: ""
+                friend: ""
+                friends: ""
+                boyfriend: ""
+                girlfriend: ""
+                forfun: ""
+                looklike: ""
+                wear: ""
+                kindmusic: "Metal"
+                favoriteband: "Nightwish"
+                favoritesong: "Wishmaster"
+                favoritebook: "1984"
+                favoritefood: "squirrels"
+                favoritecolor: "blue"
+                favoritemovie: "Indiana Jones"
+                favoriteartist: "Van Gogh"
+                favoriteauthor: "Musso"
+                favoriteactor: ""
+                favoriteactress: ""
+                favoritesport: "Rugby"
+                talkabout: ""
+                question: ""
+                hockeyteam: ""
+                baseballteam: ""
+                footballteam: ""
+                celebrity: ""
+                celebrities: ""
+                president: ""
+                vocabulary: "100000000"
+                size: "1000000"
+
+            specific_bot_properties:
+                "Bot Alpha": {}
+                "Bot Omega": {}
+
+
+
+    house_locking:
+        settings:
+            house_doors_password: "7777" # must be max 6 digits long to fit the javascript form
+
+    wiretapping:
+        settings:
+            max_wiretapping_targets: 1 # current slots available FIXME IS THAT NORMAL ??
+            middlewares:
+                purchase_wiretapping_slot:
+                    CostlyActionMiddleware:
+                        money_price: 350
+                        gems_price: 250
+                    CountLimitedActionMiddleware:
+                        max_per_character: 3
+                        max_per_game: null
+
+        #data:
+        #    spinel: &initial_wiretapper  # special case for some players
+        #        max_wiretapping_targets: 1
+        #        middlewares:
+        #            purchase_wiretapping_slot:
+        #                CountLimitedActionMiddleware:
+        #                    private_usage_count: 1
+        #                    settings_overrides:
+        #                        max_per_character: 4
+        #                        max_per_game: null
+        #    malachite: *initial_wiretapper
+
+
+    runic_translation:
+        settings:
+
+            dedicated_email: "runic-translation@anthropia.pg"
+            result_delay: [4, 6] # minutes
+
+            random_translation_words: >
+                 monkey apocalypse blood sun spear shelter wrath goat son uncle priest drugs moon fire water pepper volcano law sacrifice bird squid camel wolf war
+
+            references:
+
+                amphora:
+                    decoding: >
+                        chi shi se | ko ke to #
+                        ke te ka | tsu tsu ki ko #
+                        ta ke sa so to
+                    translation: >
+                        finest antarian | salt flower #
+                        in promotion at | Endara's market place #
+                        3 avenue of salt lakes
+
+                sacred_book:
+                    decoding: >
+                        ka to | ko chi su #
+                        ke so | ki sa #
+                        chi tsu | to to | shi #
+                        ko ke ta | chi ki #
+                        ko chi ka
+                    translation: >
+                        be faithful | beloved children #
+                        before any of you | rests in his grave #
+                        will the high priest | sul'razul | return #
+                        and open our reign | for all eternity #
+                        prophecy of the yods
+
+                horned_statue:
+                    decoding: >
+                        ta ko | ta ka so #
+                        ku ko ki | ta ka #
+                        chi ki | sa chi to #
+                        sa ka so | ka ki
+                    translation: >
+                        all hail | the glorious Bartzar who #
+                        to protect from heretics | our last orb  #
+                        burrowed it | in these desolate waters #
+                        where neither seaweeds | nor fishes can live
+
+                antic_chest:
+                    decoding: >
+                        su se | so sa | chi so #
+                        ku sa | su te #
+                        chi sa to | ta sa su
+                    translation: >
+                        spoils of war | skirmish of | the black meadows #
+                        may the yods | purify these goods #
+                        shortent our penance | and give us final victory
+
+
+            middlewares:
+                translation_form:
+                    CostlyActionMiddleware:
+                        money_price: 400
+                        gems_price: 100
+
+    runic_translation_open:
+        settings:
+
+            dedicated_email: "runic-translation@anthropia.pg"
+            result_delay: [4, 6] # minutes
+
+            random_translation_words: >
+                 <unknown>
+
+            references:
+
+                spectral_bell:
+                    decoding: >
+                        ki su to | sa sa chi | so ko ka | se su ki
+                    translation: >
+                        Spectral Bell |
+                        calls back the spirits |
+                        in frenzied form |
+                        guaranteed 3,000 years
+
+                magus_tomb:
+                    decoding: >
+                        ku ke ko | su shi su | tsu tsu ta
+                    translation: >
+                        Only the blood  |
+                        of the Maupertuis  |
+                        shall pass unharmed
+
+                cryptex_rune:
+                    decoding: >
+                        su ki | ki to | ko ka ta
+                    translation: >
+                        O prodigies of wisdom |
+                        and curiosity, come and answer |
+                        my thirst for learning
+
+
+            middlewares: {}
+
+    mercenaries_hiring:
+        settings:
+
+            dedicated_email: "atyourservice@oberons.pg"
+            result_delay: null
+
+            middlewares:
+                hiring_form:
+                    CostlyActionMiddleware:
+                        money_price: 150
+                        gems_price: 100
+
+
+    matter_analysis:
+        settings:
+
+            dedicated_email: "biophysicslab@anthropia.pg"
+            result_delay: [2, 3]
+
+            reports: {}
+                #amphora: "this is an analysis of the amphora"
+                #horned_statue: "TODO"
+                #antic_chest: "TODO"
+                #sacred_book: "TODO"
+
+            middlewares:
+                process_artefact:
+                    CostlyActionMiddleware:
+                        money_price: 400
+                        gems_price: 100
+
+    telecom_investigation:
+        settings:
+            dedicated_email: "telecom@pangeatel.com"
+            result_delay: [2, 3]
+            middlewares:
+                investigation_form:
+                    CostlyActionMiddleware:
+                        money_price: 200
+                        gems_price: 50
+
+
+    world_scan:
+
+        settings:
+
+            dedicated_email: "world-scanner@paladium.pg"
+            result_delay: [4, 10]
+
+            scanning_sets: {}
+                # Warning : Alifir is the bank where Loyd's objects are kept ! A trap for the scanner...
+                # Nujah is the headquarter of teldorians ?????????
+                # Mastden now contains a fake Orb, instead of the one masslavians retrieved ?????????
+                # Real orbs locations are listed in global parameter "orbs_locations" ?????????
+                #banal_gems_locations: __everywhere__
+                #varied_gems_locations: [Alifir,          Nujah, Baynon, Halini, Itzig, Imuo, Omrh, Faeran, Nujah, Imuo, Kioctl, Hoxh, Lolkat, Halini]
+                #precise_gems_locations: [Alifir, Endara, Denkos, Zorzas, Nelm, Baynon, Vladok, Faeran, Halini, Nujah]
+                #big_diamonds_locations: [Alifir, Endara, Denkos, Mastden, Baynon, Klort, Zorzas, Halini, Nujah]
+
+                #unique_artefacts_locations: ["Alifir"]
+                #varied_artefacts_locations: ["Alifir", "Baynon"]
+                #antic_objects_locations: [Alifir, Denkos, Mastden, Baynon, Klort, Zorzas, Kosalam, Aklarvik, Nujah]
+                #sacred_chests_locations: [Alifir, Endara, Denkos, Mastden, Aklarvik, Kosalam, Nelm]
+
+
+            item_locations: {}
+                #amphora: "varied_artefacts_locations"
+                #horned_statue: "unique_artefacts_locations" # FIXME
+                #antic_chest: "unique_artefacts_locations"
+                #sacred_book: "unique_artefacts_locations"
+
+
+
+
+...

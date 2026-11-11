@@ -1,0 +1,872 @@
+---
+
+
+
+static_pages:
+
+    top-homepage:
+        categories: "content"
+        content: |
+
+            .. image:: [GAME_FILE_URL "images/emblems/auction_logo_rounded.png"]
+                :align: right
+
+            The Alifir Academy is delighted to welcome you into its digital nebula, **Anthropia**.
+
+            You are currently on the **Lost Treasures of Midolia** website, devoted to the gemmological and archaeological auctions organised by its most generous patron: **Sir Loyd Georges, of Salima**.
+
+            Log in if you have not done so already, then make yourself comfortable, and set off to discover the exciting sales ahead, as well as the illustrious personalities you will be competing with. To see the state of your possessions, ``[ GAME_PAGE_LINK "go to your profile" "pychronia_game.views.character_profile" ]``.
+
+            .. Your host is of course, more than anyone, at your service; you may contact him directly at the address loyd.georges\@anthropia.pg.
+
+            *Need more information about the technological gem that is Anthropia? Click on the "(?)" button at the top right of the page.*
+
+            .. note::
+
+                Some media on this site (videos, webradios, 3D televisualisation...) require FlashPlayer.
+
+                If you run into unexpected problems playing them, try disabling AdBlock or other similar extensions of your web browser.
+
+
+
+    help-homepage:
+        categories: "content"
+        content: |
+            Anthropia, a Jewel of PangeaWeb
+            =====================================
+
+            The Anthropia meta-portal is the fruit of decades of research in high digital technology.
+
+            Besides being a well of knowledge, it is designed to display external modules, that is to say web pages or forms managed by other organisations (scientific or otherwise).
+
+            Anthropia is thus connected to the Bank of Salima, so that you can easily manage your payments and your assets; it also has links with foreign academic centres, and with companies of all kinds.
+
+            But beware: the Alifir Academy declines all responsibility for the moral, economic and legal consequences arising from the use of these features offered by third parties. **And note that, as a security measure, in these external modules you will often only be able to interact with people you have previously contacted by text message.**
+
+            Should you encounter a technical problem on any Anthropia page, do not hesitate to warn the webmaster in charge, via the button at the very bottom of the page. It will doubtless ruin a night or two of his sleep, but it will justify his handsome pay.
+
+            Note also that although the site's interface is translated into several languages, its content (introductions, encyclopedia articles, help pages, emails, radio spots...) is only available in a single language.
+
+            *The Digital Technology Department of the Alifir Academy.*
+
+            PS: when notifications appear at the top of the page, you can close them by clicking on their edge.
+
+
+
+    help-characters_view:
+        categories: "content"
+        content: |
+            Instructions for Use
+            ==========================
+
+            On this page you will find the honourable personalities taking part in Loyd Georges' auctions, "Lost Treasures of Midolia".
+
+            Here you can also view, at the very least, your possessions in terms of money and items. Your "gem lot" items are mainly listed as "memos", since their various precious stones may have been disposed of separately.
+
+            Thanks to the external modules kindly provided by the Bank of Salima, you can, right here, via the forms at the top of the page, exchange money, gems and other items with your fellow guests.
+
+            **Beware, as a security measure, you can only transfer goods to people with whom you have already exchanged text messages.**
+
+
+        gamemaster_hints: |
+            The Game Master can see the **players' passwords** in tooltips, by hovering the mouse over their names.
+
+            They can transfer money arbitrarily between characters, or from/to the "bank".
+
+            They can also reassign artefacts (non-gems) at will, whether they are unowned or owned by characters.
+
+            They can transfer gems, but only between characters or from/to the reserve of "already disposed-of gems"; as long as no gem has been obtained by a character (e.g. via an auction lot), this form is therefore unavailable.
+
+
+
+    top-view_sales:
+        categories: "content"
+        content: |
+            Here you will find the items officially put up for sale by your gracious host, Sir Loyd Georges.
+
+            Whether you are a lover of gleaming jewels or of ancient artefacts, there is no doubt that you will find in these lots something to satisfy your most nagging desires.
+
+            Note that the prices shown are of course mere expert estimates, which say little about the final sale price.
+
+            More details, for example about the 3D Visualisation option, are available on the "Auction Slideshow" page (provided it has been published).
+
+        gamemaster_hints: |
+            **Game Master, do not forget to transfer the sums of money corresponding to the transactions you finalise here (if they are in Sabarith Pounds, this means manually editing the players' "extra goods").**
+
+    help-view_sales:
+        categories: "content"
+        content: |
+            The auction items
+            ===========================
+
+            Here are the items placed in the various auction series. They may be archaeological artefacts, but also gem lots.
+
+            Because of their high scientific value, artefacts may be subject to restrictions of use or sale; refer to the competent authorities for more information.
+
+            Gems, on the other hand, may be sold at their reference price on the international market, whose rate is very stable at present - it is even said that our Anthropia portal will soon be connected to a new, "informal", marketplace.
+
+            Some gem lots are large, but nothing prevents you from agreeing to buy them jointly, and sharing out the individual stones afterwards.
+
+            Practical Arrangements
+            ==========================
+
+            To spice the affair up even further, the auction series will be held according to different rules, which your host will communicate to you in due course.
+
+            Below are the main types of sale that may take place:
+
+            Classic ascending auctions
+                Each participant may at any time offer a higher amount for the current lot (minimum increment: 5 units), and the lot goes to the highest bidder.
+
+            Descending auctions
+                The auctioneer gradually lowers the asking price, and the first buyer to come forward wins the lot.
+
+            Single-round auctions, highest bid wins
+                The participants give the Game Master, in advance, their maximum bid for each lot, and the most generous participant wins the lot, with no possibility for the others to outbid them.
+                In the event of a tie between participants, they are decided between by a classic ascending auction.
+
+            Single-round auctions, second-highest bid wins
+                Same as the previous auction, except that it is the second-highest bid that wins the item (everyone is thus encouraged to look for the "right price").
+
+
+        gamemaster_hints: |
+
+            The players only see the "public" items sold by Loyd Georges, that is to say those having an auction ID (e.g. "1-A").
+            The Game Master, on the other hand, can see here all the items available in the game, including those having nothing to do with the auctions.
+
+            The forms on this page make it possible to transfer an artefact or a gem lot to a character, or to take it back from them.
+
+            But beware:
+
+            - since the final price of each transaction is free, you must carry out the money exchanges manually, the transfer of the item itself always being done "free of charge".
+            - the "gems" obtained can then be used individually by the player; cancelling the transfer of a "gem lot" can therefore only take place if the character still owns all the gems of the lot. Except in the case of a careless mistake - to be fixed immediately - the descriptions of gem lots are therefore meant to remain in the profile of their initial buyer, as a **memo**, even if the gems of the lot have already been scattered.
+
+
+    top-auction_items_slideshow:
+        categories: "content"
+        content: |
+
+          .. note::
+
+              Public televisualisation, in 2D only.
+
+    help-auction_items_slideshow:
+        categories: "content"
+        content: |
+            Detailed Visualisation
+            =========================
+
+            The Bank of Salima - whose security is matched only by its confidentiality - is pleased to present to you on this portal, as a world premiere, its digital televisualisation system. So savour the spectacle of these precious goods, digitised in 2D.
+
+            If the items are marked as such, you will moreover have the pleasure of handling them in **interactive 3D** in your **"My Items"** space, after purchasing them.
+
+        gamemaster_hints: &beware_slideshow_gamemaster_hints |
+
+            Beware, Game Master: if you use this page as a visual aid during the auctions (whether LIVE or via screen sharing over the Internet), the players must not see the special tooltips, which contain clues about the game.
+
+            Even "impersonating" Loyd Georges is not enough for this; you should rather log in to the Anthropia portal directly with Loyd Georges' credentials, so as to only have access to what this NPC can see.
+
+
+    top-chatroom:
+        categories: "content"
+        content: |
+            Welcome to Loyd Georges' chatroom, a space devoted as much to innocent conviviality as to the most daring business negotiations.
+
+            This page can also be used to make public commitments, which will automatically be guaranteed by the escrow agent.
+
+
+    help-chatroom:
+        categories: "content"
+        content: |
+            Disclaimer
+            ==========================
+
+            For lack of sufficient funding, this chatroom does not use the most proven technologies for real-time telechat.
+            It is therefore advisable, as far as possible, to hold the auctions in a more dynamic and supportive environment.
+
+
+    help-view_encyclopedia:
+        categories: "content"
+        content: |
+            Knowledge is Power
+            ===============================
+
+            The collaborative encyclopedia of Anthropia gives you access to a wide range of knowledge, entirely free of charge.
+
+            You can search for articles by keywords, or use the (more or less) available index.
+
+            Note that the search engine supports neither complex Boolean expressions, nor words scattered across the target article; it only works by recognising a "strict" substring of characters.
+
+            An extraordinary feature: the encyclopedia is integrated into the rest of the Anthropia portal, so that the keywords present in the various scattered texts (presentations, email messages...) are automatically turned into encyclopedia links.
+
+        gamemaster_hints: |
+
+            Only the **first keyword** of each encyclopedia article is automatically detected,
+            and turned into an encyclopedia link, when it appears in a content of the site (e.g. in an exchanged message, or in another encyclopedia article...).
+
+            The other keywords are used when the user deliberately searches the encyclopedia.
+
+            The body of the articles, for its part, is not taken into account in these searches (otherwise it would be far too easy to find the whole content of the encyclopedia).
+
+
+
+    top-personal_webradio_page:
+        categories: "content"
+        content: |
+            Music, news, reports, personal messages... enjoy an original and varied programme with your favourite webradio (requires FlashPlayer, otherwise click on the separate radio spots at the bottom of the page).
+
+    help-personal_webradio_page:
+        categories: "content"
+        content: |
+            Playlist Renewal
+            ====================================
+
+            Pangea's free radio continuously broadcasts all kinds of shows, news and music.
+
+            Its programme is renewed regularly, so do not forget to tune in at least every other day, so as not to miss anything it has to offer you.
+
+
+    help-view_world_map_static:
+        categories: "content"
+        content: |
+            Pangean Geography
+            =========================
+
+            After millennia of upheavals, our dear Pangean sphere is at last settling down, so it is time to restore geography to its former glory.
+
+            **Useful data:**
+
+            - Diameter: 40,000 km
+            - Radius: 6,000 km
+            - Mass: 6 thousand septillion kilograms
+
+            Hovering your mouse pointer over this map should display an enlarged portion.
+
+            A downloadable version of the map is available at the bottom of the page.
+
+
+
+
+    help-all_dispatched_messages:
+        categories: "content"
+        content: |
+            Dispatched Messages
+            =====================
+
+            This page lists chronologically (and not "by conversation") **all** the messages exchanged during the game. This allows the Game Master to follow everything that happens on the messaging side, including in private between players. The messages they have "archived" are included too.
+
+            Messages "scheduled for sending" (by the Game Master, or by the automatic response systems) are not visible here.
+
+            Note that the messages sent automatically by special abilities, and which require an answer from the Game Master, are automatically marked as "starred".
+
+            **It is possible to delete one of these exchanged messages, but beware, this amounts to deleting it EVERYWHERE, for all the players who have it in one of their conversations, so it is rarely a good idea.**
+
+            Note that by default, when there are many messages, only the most recent ones are displayed; see the sidebar to force the display of ALL messages.
+
+
+    help-all_queued_messages:
+        categories: "content"
+        content: |
+            Queued Messages
+            =====================
+
+            The Game Master can see here the messages scheduled for future sending (by themselves, or by the automatic response systems of the special abilities, if they are enabled).
+
+            They can force them to be sent "right now", or cancel them.
+
+
+
+    help-standard_conversations:
+        categories: "content"
+        content: |
+            Email Conversations
+            =====================
+
+            Here you will find your messaging conversations, with the usual controls (reply, forward, mark as read, star, archive...).
+
+            **IMPORTANT: by default, only the few dozen most recent conversations are retrieved; if you want to display them all, click on the dedicated link in the side panel (which appears when this limit is exceeded).**
+
+            Unread messages, or messages marked as starred, are specially indicated in the side panel.
+
+            Note that replying to a message does not, for all that, mark it as "read".
+
+            To search the messages, you can use the small filtering form, or else expand them all and then use the standard search feature of your web browser (e.g. CTRL+F).
+
+        gamemaster_hints: &npc_messages_gamemaster_hints |
+
+            Beware, when this section is accessed as "Game Master": only the messages sent FROM or TO an NPC are present here (whether it is a "character" of the Anthropia portal, or a mere external email contact); indeed, these messages require the Game Master's intervention as a priority. To also see the messages exchanged in private between the players, you have to go to the "Dispatched Messages" section.
+
+            As for the players, the messages to which the Game Master replies are automatically "marked as read" for the sender (so here for the impersonated NPC, or just for the "Game Master" view if it is an external email contact).
+
+    help-intercepted_messages:
+        categories: "content"
+        content: |
+            Intercepted Messages
+            =====================
+
+            Here you will find the messages you have intercepted,
+            when wiretapping another protagonist of the affair.
+
+
+        gamemaster_hints: |
+
+            This section is currently not available to the Game Master.
+
+
+
+    help-all_archived_messages:
+        categories: "content"
+        content: |
+            Archived Messages
+            =====================
+
+            Here you will find the messages you have archived, and which should
+            therefore no longer be of much use to you.
+
+        gamemaster_hints: *npc_messages_gamemaster_hints
+
+
+    help-messages_templates:
+        categories: "content"
+        content: |
+            Email Templates
+            =====================
+
+            These ready-made contents are reserved for the Game Master, and save them precious time in running the plot.
+
+            Use the keyword cloud to display these templates by category.
+
+            Templates are automatically marked as used the first time they are edited and sent.
+
+
+    help-compose_message:
+        categories: "content"
+        content: |
+            Sending a New Message
+            ============================
+
+            In this form, optional fields have their title in italics.
+
+            Recipients
+            -----------------
+
+            The left-hand frame lists your address book. Leave the mouse over a contact to get more detailed information in a tooltip; click on it to add it to the recipients of the draft being written.
+
+            Email addresses with square brackets are mailing lists (for example, the list of all the bidders taking part in Loyd Georges' auctions, without the latter).
+
+            If you tick the "mask recipients" option, the message will be sent individually to each of the recipients. This can thus be used to address several people "personally" in one go.
+
+            Message Body
+            ------------------
+
+            The body of text messages can be entered either as "plain text", or be formatted using the "restructuredtext" format.
+            In the latter format, note that single "line breaks" are ignored; you must leave a **blank line** for the final message to actually contain a new paragraph.
+
+            For more information about "restructuredtext":
+
+            http://docutils.sourceforge.net/docs/user/rst/quickref.html
+
+            Miscellaneous
+            ------------------
+
+            - if you reply to a message, or use "recontact" on it, the parent message will automatically be "marked as read", so star it if you want to keep an eye on it
+            - you can attach to a message either one of your "personal documents", or an absolute file URL, thanks to the dedicated selection field
+            - if you forward an old message to one of your contacts, this "forwarded message" can be read in a new window, thanks to the link automatically inserted into the new message used for this forwarding
+            - an automatic backup mechanism is in place, to prevent you from losing a whole draft after a wrong move; but if you have to type long texts, it is still better to write them in a separate file on your hard disk, to be safe
+
+
+        gamemaster_hints: |
+
+            Only the Game Master can choose the sender's address, and can shift the sending date of the email, into the past (negative delay value) or into the future (positive delay value). Examples of possible values for this shift, which is entered in HOURS: 0, 1.6, -2... Note that depending on your browser settings (language, etc.), the decimal separator may be a point or a comma ("2.5" or "2,5").
+
+            Messages "for the past" (which should in fact only be used to prepare the initial state of the game) are sent immediately, and are affected by the various devices (e.g. wiretaps) *active at the present moment*. The system indeed cannot remember which devices were in place in the past...
+
+            Messages for the future, for their part, are put in the queue (where they can be cancelled), and will only be affected by the devices active at the *moment they are actually sent*.
+
+            For now, neither the sender (if chosen by the GM) nor the recipients of the email are checked. Invalid contacts will therefore simply appear, in the exchanges, with a default avatar. It is up to the GM to make up for possible blunders, either by creating the missing contacts after the fact, or by sending fake "recipient address not found" notifications to the players concerned.
+
+            Messages containing identifiers between curly braces (e.g. "{{ PLAYER }}"), as is the case in email templates for example, cannot be sent until these tags have been replaced with correct data.
+
+            .. to be checked FIXME what about automatic checks of access rights to partnerships?
+
+
+    top-ability_introduction:
+        categories: "content"
+        content: |
+            This section of the menu lists the "external modules" of your Anthropia account.
+
+            These services, typically offered by third parties (academies, companies, other entities), may require particular privileges, or additional fees, so make good and prudent use of them.
+
+            If a service appears blacked out, it means that you have not acquired the authorisation to use it; in that case, see for yourself, with the provider of this service, how to unblock the situation.
+
+            Beware, many services (transfer of goods, analyses...) require the recipient to be in your **address book** (i.e. that you have already exchanged a text message).
+
+
+    help-wiretapping:
+        categories: "content"
+        content: |
+            Messaging Espionage
+            ============================
+
+            Your contacts in the Pangean Telecoms allow you to intercept the messages received and sent by third parties, provided that these belong to the Anthropia domain.
+
+            To do so, you need to buy wiretapping kits, then assign each of them an "account username" to monitor (a username that can be changed at any time). The targeted user account must be in your address book.
+
+            Note that if the targeted person has themselves wiretapped people, the messages they have intercepted on their side will not, for their part, be passed on to you...
+
+            You may be able to protect your own communications against prying eyes by buying a privacy kit.
+
+        gamemaster_hints: |
+
+            If one of the wiretapping targets has bought a privacy kit, the player will be informed, on this page, that there is a problem spying on this person.
+
+
+    help-mercenaries_hiring:
+        categories: "content"
+        content: |
+            Spy Network
+            ===================
+
+            Like any self-respecting secret agent, you have contacts within the Brotherhood of the Oberons, a worldwide network of spies who sell their services without discrimination.
+
+            After paying a lump sum to the Oberon hub of a city, you will be able, for one year, to ask them for all sorts of information and various services - legal or not.
+
+            With a few restrictions, however:
+
+            - the Oberons are neither warriors nor assassins, so any armed action will require a huge financial supplement, so that they can delegate it to low-grade mercenaries
+            - the Oberons stick together like brothers, so if they receive contradictory orders from their various clients, the latter will have to settle their conflicts by themselves.
+
+
+    top-house_reports:
+        categories: "content"
+        content: |
+
+            Dear SIR LOYD GEORGES, for your honourable residence, you have subscribed to the following service: video recording without audio.
+
+            Rooms under surveillance: *great hall, study, library, dining room, and kitchen*. You can control your surveillance system from the terminal that has been installed in your *great hall*.
+
+            We remind you that, for reasons of durability and confidentiality of the recordings, these are automatically transferred every night to the central servers of *OmniVision*. You can consult the recordings on our premises, bringing your identity card.
+
+            No time to waste? You can also request an analytical transcript of all the cameras over a time slot, which will be sent to you by messaging. This transcript lists the notable actions of the members of your household, as well as of visitors; for optimal operation, do not forget to regularly update the photographic reference file of your acquaintances. This service is billed for each time slot requested.
+
+            Note that the periods for which no movement was detected on the cameras are not available in the form below.
+
+            *The OmniVision Service*
+
+            [BR]
+
+            **REAL-TIME STATUS ALERT: all the cameras of the manor have been deactivated since 0:00 this morning, following the removal of their recording tapes. Remember to put them back into operation as soon as you have finished analysing said tapes.**
+
+
+
+
+    top-house_locking:
+        categories: "content"
+        content: |
+            Welcome, dear *Sir Loyd Georges*, to the simplified security manager of your residence.
+
+            From here, you can lock and unlock the whole system: manor doors, electrified fence of the grounds, and main gate of the grounds.
+
+            .. We remind you that once the doors have been locked remotely, only your secret code will be able to open them, and any unauthorised access attempt will trigger the intervention of a squad of guards armed to the teeth.
+
+
+
+    help-runic_translation:
+        categories: "content"
+        content: |
+            Translation of Ancient Runes
+            ===============================
+
+            This translator of Akarith runes, developed at the Alifir Academy, is still under development. No guarantee is therefore given as to the accuracy of the translations provided.
+
+            To use it, simply copy into the form the phonetic transcription of your runes, separating the syllables with spaces, then submit the whole. The result of the translation will then be sent to you by email.
+
+            Take care over the accuracy of your transcriptions; one syllable too many or too few can easily corrupt a large part of the translation.
+
+        gamemaster_hints: |
+
+            Reference of rune transcriptions::
+
+                FIXME - add reference here, or BETTER, PROGRAMATICALLY!!!
+
+
+    help-matter_analysis:
+        categories: "content"
+        content: |
+            Biophysical Appraisal
+            ========================
+
+            The biophysics department of the Belez Academy offers you, for a modest sum, an in-depth analysis of the item you submit to it, so that you can know it as completely as the current state of science allows.
+
+            Aspects covered:
+
+            - dating
+            - overall structural study
+            - epidemiological study
+            - molecular study
+            - wave study
+
+
+    help-chess_challenge:
+        categories: "content"
+        content: |
+            The Ultimate A.I.
+            ==================
+
+            The Faculty of Imuo, which has always been considered a star of research in Artificial Intelligence, intends to prove this reputation through a small, thoroughly playful and innovative Chess challenge.
+
+            Try to win a victory against its cutting-edge computer brain, **WireMind**, and thus earn, besides glory, the 1,000¤ reward!
+
+            *Free entry; full rules available from our bailiff, Master Izdouvraj, in Imuo.*
+
+        gamemaster_hints: |
+
+            Only the Game Master can operate the AI and the colours using the controls under the chessboard; the player can only choose what their pawn becomes upon promotion.
+
+
+    top-geoip_location:
+        categories: "content"
+        content: |
+
+            Need to locate geographically the sender of an email? Nothing could be easier with our Digital Geolocation service.
+
+            All you have to do is forward the mysterious message to the address below, and wait for the answer.
+
+            Each geolocation is billed **45¤**. If we do not manage to determine the origin of the message in question to within 300 m, you will only be charged the processing fee, that is **15¤**.
+
+            Note that addresses hosted by secure academic portals (such as "@anthropia.pg" addresses) hardly ever give any location information.
+
+            **Contact address: email-geolocation@digitalia.pg**
+
+
+    help-world_scan:
+        categories: "content"
+        content: |
+            World Scan
+            ===============
+
+            Mastery of the new technomanaic sciences allows us to achieve things hitherto unthinkable, such as probing the whole of our Pangean globe with the "manaic imprint" of an item, in order to find similar specimens.
+
+            This technology does however have its limits: the items in question must be rare enough for the search results to be relevant, and the location is given with variable precision, in zones between a few dozen and a few thousand metres in diameter, depending on their distance from the Scanner Centre located in Alifir.
+
+
+
+    top-business_escrow:
+        categories: "content"
+        content: |
+            Trade is first and foremost a matter of trust. That is why the Pangean Banking League has set up, for your peace of mind, an absolutely free digital escrow agent service.
+
+            When negotiating a deal, simply copy the contact below into your messages. Once the transaction has been accepted by both parties, the escrow agent will carry out any financial or material freezes guaranteeing the exchange, and will make sure (within the limits of its means) that the parties involved duly honour their mutual commitments.
+
+            Let us note that the escrow agent is bound by a strict duty of neutrality and confidentiality, which - as case law attests - forbids it to refuse or report transactions, even those that seem illegal to it.
+
+            **Contact address: escrow@business.pg**
+
+
+
+
+    top-black_market:
+        categories: "content"
+        content: |
+
+            There are always good reasons not to conduct a business transaction through official channels: because customs procedures are infuriating, because taxes are discouraging, because one is not supposed to be in possession of such and such goods or such and such a sum of money...
+
+            The black market offers a common solution to all these problems. Buy, sell, anything you want, as long as you are old enough to know what you are doing. And we decline all responsibility, etc., etc.
+
+            **Contact address: black-market@business.pg**
+
+
+    top-artificial_intelligence:
+        categories: "content"
+        content: |
+
+              If you do not know what the Djinns are, you had better leave this page, defiler.
+
+    help-telecom_investigation:
+        categories: "content"
+        content: |
+
+              The Telecom Investigation lets you retrieve, at any given moment, a summarised history of the conversations that have taken place between the targeted person and their correspondents: subject, interlocutors, dates...
+
+              The bodies of the messages, however, cannot be retrieved.
+
+              Only user accounts of the Anthropia portal with which you have had an email exchange can be targeted by this system.
+
+
+
+
+    help-game_events:
+        categories: "content"
+        content: |
+
+              This page displays the history of the events that have affected you on this Anthropia portal.
+
+        gamemaster_hints: |
+
+            **This page is also accessible to the players!**
+
+            But unlike the Game Master, who has an overview of ALL the events (whether they involve players, NPCs, or automated system tasks), the players only see their **personal history** here.
+
+            This complete summary, for the GM, is particularly useful to define the initial state of the *mystery party* concluding the game: **Mindstorm**.
+
+
+    help-admin_dashboard:
+        categories: "content"
+        content: |
+
+
+            This control panel allows the GM to edit, in one central place, various game settings that do not each deserve their own dedicated page.
+            The forms on this page can be durably reordered by drag-and-drop. Here are the features currently configurable on this page:
+
+            .. TODO make the WEBRADIO FREQUENCY configurable ?? meh...
+
+            Game Master data
+                Here you can change your password (do not use the same one as for your "real life" web accounts), and enter a real email address, which may be used for some game notifications.
+
+            Visibility of special pages
+                The pages enabled here will appear in the players' menu. Note that some of them, which also require personal permissions, may remain greyed out (disabled) for one player or another.
+
+            Pausing the game
+                If circumstances require it, it is possible to freeze the Anthropia portal for all the players (but not for the GM, who keeps full control). Most pages will then remain accessible, but action buttons, for example to submit forms, will be unusable.
+
+            Theoretical game duration
+                Some automated systems of the game (e.g. the response delays, via messages, of some special abilities) are calibrated to fit the pace planned for the game; it may therefore be necessary to change this theoretical duration to speed up or slow down the progress of the various *gameplays*.
+
+            Minimum friendship duration
+                To avoid a certain paranoia, the players cannot seal a friendship, spy on their "new friend", then cancel this friendship before the other has been able to benefit from it too. A "grace period" can therefore be set here.
+
+            Visibility of the encyclopedia index
+                This option should only be enabled at the end of the game, if you wish to reveal to everyone the mine of information that is the Anthropia Encyclopedia.
+
+            Automatic responses to special abilities
+                Leave these automatic responses disabled if you are not completely sure of the content prepared for the various special abilities.
+
+            External notifications
+                The portal can automatically send daily emails to warn the players that there is something new on their Anthropia account. This feature can be disabled here.
+
+
+    top-admin_information:
+        categories: "content"
+        content: |
+            Here is a collection of various secret pieces of information, intended for the Game Master.
+
+    help-manage_characters:
+        categories: "content"
+        content: |
+
+            This page, reserved for the Game Master, makes it possible to modify the personal data of the characters (useful above all when filling in the initial state of the game), to see their friendship relations, and to update, throughout the game, their allegiances and **access rights**.
+
+            Some pages indeed require permissions to be accessible. These may be "global visibilities", which the Game Master must then grant from their "Dashboard". But they may also be personal permissions, granted precisely from this player management page.
+
+            Some of the available permissions do not concern whole pages, but give access (read, or write) to certain elements within a page.
+
+
+
+
+
+    help-webradio_management:
+        categories: "content"
+        content: |
+
+            The radio *playlist* is built by clicks, and/or by drag-and-drop from the list of available spots to the left-hand box. The selected spots can be reordered at will. It is possible to remove spots from the playlist by dragging them to the bin, or to completely empty the playlist by clicking on said bin.
+
+            **Make sure that the spots you add to the playlist point to a valid audio file; in case of a wrong URL or an unreadable file, the webradio will stop playing.**
+
+            The webradio is usually switched on by each player (from the radio popup, or the "Pangea Webradio" page), without this changing the playlist (which is always common to all).
+
+            But this radio can also be used as a remotely controllable "public radio", as part of a live-action sequence.
+
+            This requires launching the "Public Webradio" page from an anonymous account (not logged in to the portal). Access is restricted by a code (called the "radio frequency"), which only the GM is supposed to know (see the "Admin Information" page).
+            Thus played on a loudspeaker, in a common room, the public radio is then ready to be controlled remotely.
+
+            Indeed, this public radio has the particularity that it **consumes** the clips it broadcasts, and can be started/stopped remotely.
+
+            The principle, for the GM, is therefore to build a playlist, then press the "Turn Radio On" button, all from a separate PC or smartphone.
+
+            The public radio will then:
+
+            - fetch the updates from the portal
+            - play the new spots one by one, deleting each of them afterwards
+            - finally switch to the "stopped" state once the playlist is over.
+
+            It is ideal for short "news flash" or "music" sequences, during mystery evenings.
+
+
+
+
+    help-static_pages_management:
+        categories: "content"
+        content: |
+
+            This page allows the GM to edit the static contents of the site (text, images, links...), in the manner of a web *content management system* (CMS). The ReStructuredText format, as well as the specific tags (between square brackets), are used, just as can be done in email messages.
+
+            All these contents can be edited or deleted, and it is possible to create new ones.
+
+            The handling of these "multimedia content blocks" differs according to their type.
+
+            - for encyclopedia articles (category **encyclopedia**), the identifiers are free, but it is important to fill in good keywords, so that the encyclopedia search and the automatic links, which rely only on said keywords, work. Keywords are "regular expressions" (in their Python version, https://openclassrooms.com/courses/apprenez-a-programmer-en-python/les-expressions-regulieres), which requires, among other things, preceding any special character (hyphen, dot, parenthesis, square bracket...) with a backslash ("\\"). The **first keyword** of each article furthermore has a special status, since it is automatically turned into an encyclopedia link when it is encountered in the texts of the portal. Finally, the title of the article, which is displayed in the index, must be meaningful.
+
+            - as for the "header", "footer" and "help page" content blocks (category **content**), it is their identifier that allows them to be placed automatically (keywords are ignored, as is the title). For blocks that do not exist yet, you will find the expected identifiers in the small haloed boxes (visible only to the GM), and in the tooltip of the **"?"** button, on each page.
+
+            In all cases, the content blocks have a **gamemaster_hints** field, which will only be displayed to the Game Master, and makes it possible to put in any information useful for running the game well.
+
+            **Important**: for these contents to be published, visible on the game portal, they absolutely must be assigned the right category (giving them the right identifier is not enough).
+
+            **These contents are meant to be "static", so if you significantly modify their content, do not forget to inform the players directly in one way or another.**
+
+
+    help-global_contacts_management:
+        categories: "content"
+        content: |
+
+            This page is dedicated to managing the "external contacts" of the game, that is to say all the email addresses that are not implicitly attached to an Anthropia Player or NPC account.
+
+            It is possible to create new contacts; existing contacts can always be modified, but those present in the initial state (which may be used by special abilities) cannot be deleted.
+
+            The avatar of a contact can be a relative path to a game file (on the server), or an external URL (in that case, beware of the dimensions of the targeted image).
+
+            Messages having one of these contacts as sender or recipient therefore appear in the mailbox dedicated to the GM ("Conversations" page).
+
+            .. NOPE NOT YET It is possible to make a contact "public" (default case), or on the contrary to restrict the characters allowed to send it an email (this limitation does not apply to emails sent by the GM as one of the NPCs of the game).
+
+            At present, a contact does not need to exist for an email to be sent to it - any address that does not belong to a player is assumed to belong to the GM; thus the players will not be blocked if an email address given to them is misspelt. On the other hand, again to avoid mistakes, the GM can only send an email by usurping (via the "sender" field) an existing contact.
+
+
+
+    help-game_items_management:
+        categories: "content"
+        content: |
+
+            This page makes it possible to edit the items available in the game individually.
+
+            It is possible to create new items; items that are owned by a character cannot be edited or deleted. Furthermore, the items present in the initial state (sometimes necessary for the scenario) can be modified, but not deleted.
+
+            These items can be gem lots (in which case their unit cost matters, at the moment of their splitting up), or lots of objects (whose unit cost is then only indicative). If and only if their auction ID is non-empty, they will appear in the public auction programme.
+
+            The image of an item can be a relative path to a game file (on the server), or an external URL. But beware, in the latter case, the image will not automatically be turned into a series of thumbnails suited to the sizes of the various places where it must be displayed; the display quality will therefore be slightly worse.
+
+
+
+
+    help-radio_spots_editing:
+        categories: "content"
+        content: |
+
+            This page makes it possible to edit the available radio spots individually (which is different from managing the radio *playlist* currently being broadcast, which takes place on another page).
+
+            It is possible to create new audio spots. Existing spots can always be modified. The spots present in the initial state of the game (sometimes necessary for the scenario) can be modified, but not deleted. On the other hand, whether or not a spot is in the webradio playlist has no bearing on the editing of spots (if they are deleted, they are automatically removed from the webradio playlist).
+
+            The audio file can be a relative path to a game file (on the server), or an external URL.
+            It can also be empty, but in that case, avoid adding this spot to the webradio playlist, of course.
+
+            This file can be an MP3 file created in advance (for example, mixed with the *Audacity* software). But it can also be generated at the last minute from a text, thanks to the "Acapela VAAS" speech synthesis and audio mixing engine; enough to encode (relatively) simply the words, the intonations, and the background music all at once!
+
+            BEWARE - after performing the "speech synthesis" of a text, you still have to SAVE the radio spot in question, otherwise the changes will be lost after leaving the page.
+
+            A few tips for successful "Text To Speech" spots:
+
+            - if the digital voice stumbles over some words (in particular proper nouns), change their spelling to make them phonetic.
+            - it is possible to change the voice at any time, and thus for example to stage conversations between journalists and political figures, thanks to the tags provided for this purpose; beware, some voices have a rich range of intonations and onomatopoeias (triggered by specific tags), others do not.
+            - it is possible, thanks to other tags, to add and mix background music, some pieces being designed to be put end to end (intro/middle/end), or looped.
+
+            For more details about the tags, voices and music available, refer to the "Acapela VAAS" manual.
+
+
+    top-gamemaster_manual:
+        categories: "content"
+        content: |
+
+            **This page displays the Game Master's Manual for the "Alternate Reality" part of the Chrysalis game (also called Chrysalis:Auction). A PDF version of this manual is available in your "Personal Folder".**
+
+
+    help-manage_databases:
+        categories: "content"
+        content: |
+
+            This section makes it possible to view the whole database of the game, in order to check contents and settings that are not exposed elsewhere.
+
+            If the values of some fields do not suit them, the GM can get in touch with the game designers to see whether these values could be modified manually, "on the fly", without risking destabilising the game engine.
+
+            A section that could be very useful to the GM is the one identified by the word "abilities": it contains the settings of the various special abilities, and in particular the clues that will be automatically disclosed during the analysis of an item, the deciphering of a rune, or other investigations.
+
+
+
+
+
+
+
+    top-character_profile:
+        categories: "content"
+        content: |
+
+            Here, you can quickly view your possessions, as well as change the password of your Anthropia account.
+
+
+
+    help-friendship_management:
+        categories: "content"
+        content: |
+
+            Digital friendship is a wonderful way for the users of the portal to share their digital life with others, by giving them access to their account.
+
+            Friendship presupposes trust, which is why the access you thus grant to your "friend" is admittedly **read-only** (this person cannot modify your account), but it is nonetheless **unrestricted in scope**.
+
+            There is, however, no transitivity of this friendship: the friends of your friends are not necessarily your friends, so you will not be able to access their personal pages (nor vice versa).
+
+            Since a true friendship is a lasting friendship, there is at the beginning of every sealed friendship a "grace period", during which the two new friends cannot break off their relationship.
+
+
+
+    help-personal_folder:
+        categories: "content"
+        content: |
+            Personal Documents
+            =========================
+
+            Here you will find your personal documents, whether textual or audiovisual, in forms (mostly) viewable from your browser.
+
+            You can share one of these files by email, either by copying/pasting the address of its link into the body of the message sent, or by using the dedicated drop-down menu, at the bottom of the "new message" form.
+
+        gamemaster_hints: |
+            Some unimportant files are given in common to all the players at the start of the game.
+            The Game Master has their own set of personal files.
+
+
+    top-personal_items_slideshow:
+        categories: "content"
+        content: |
+
+          .. note::
+
+              Private televisualisation, in 2D or 3D; in the latter case, drag with the mouse or your finger to rotate the item horizontally, or even vertically.
+
+
+    help-personal_items_slideshow:
+        categories: "content"
+        content: |
+
+            Here you will find the items you have acquired, with their description, and their televisualisation (which, for some items, may be in interactive 3D).
+
+            Note that some groups of items (e.g. gems), split up at the moment of their arrival, remain visible, but only as "memos" of past possessions, with no actual existence in your safe.
+
+        gamemaster_hints: *beware_slideshow_gamemaster_hints
+
+
+    top-login:
+        categories: "content"
+        content: |
+
+          If you have forgotten your password, enter only your username and click on "Forgot password?".
+
+          [BR]
+
+    top-secret_question:
+        categories: "content"
+        content: |
+
+          Please enter below the answer to the secret question of your account, as well as a backup email address to which we will send your password back.
+
+          [BR]
+
+
+...
+

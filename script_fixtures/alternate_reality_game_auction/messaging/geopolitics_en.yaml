@@ -1,0 +1,279 @@
+
+messaging:
+
+    manual_messages_templates:
+
+
+        -   id: "pangea_geopolitics_accounce"
+            gamemaster_hints: "Announcement of the series of artworks revealing the important figures of Pangea."
+            categories: ["universe"]
+            sender_email: contact@sabarim-gazette.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "Geopolitical Sketches - Announcement"
+            body: |
+
+                Dear Readers,
+
+                many Pangean cultures consider that taking someone's photograph is an assault on the integrity of their soul. International journalists have therefore often had, willy-nilly, to take up sketching in order to illustrate their reports.
+
+                This month, the Sabarim Gazette therefore offers you a retrospective, in drawings and music, of Pangean geopolitics. And this by following the travels of our reporter Cynthia Loakim throughout her first 4 years in the profession, as well as her valiant progress in the art of capturing high-ranking figures in a few pencil strokes.
+
+                *See you very soon for the first article in our series: Lordania.*
+
+
+
+        -   "id": "pangea_geopolitics_lordania"
+            "body": |
+                *Article 2015, and sketches 2012, by C. Loakim*
+
+                [BR]
+
+                **Lordanian anthem:**
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/The proud island (Lordania's hymn).mp3"]
+
+                The Lordanian Federation came into being naturally, through the aggregation of small scattered
+                kingdoms and republics, first bound together by an ever more intense "gentle commerce", then
+                united to build solid trade relations with a great number of Pangean states.
+                Through the efforts of Lord Annye, a young and formidable diplomat, it acquired 5 years ago
+                the embryo of a federal state, mainly intended to protect the interests of the federation
+                against emerging economic and political rivals.
+
+                While the federal army remains purely defensive, it is on the other hand no secret to anyone
+                that the "intelligence services", led by the discreet General Larrange, are at work all over
+                Pangea to make sure that no rival or serious danger ever comes to trouble the federation,
+                in the short or the long term.
+
+                [BR]
+
+                **General Larrange:**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/dark_blue_general.png" "big_width"]
+                    :align: center
+
+                [BR]
+
+                **Lord Annye:**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/red_general.png" "medium_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Pangean Geopolitics - part 1
+
+
+
+        -   "id": "pangea_geopolitics_thelassar"
+            "body": |
+                *Sketches 2013, article 2015, C. Loakim*
+
+                The land of Thelassar runs on a very complex system of representative democracy, which means
+                that very few political scientists are able to predict which senator will be the next to be
+                elected to replace one of the two incumbent "consuls".
+
+                With these forced cohabitations, the country's domestic politics and diplomacy tend to
+                stagnate, but the population seems perfectly happy with it.
+
+                [BR]
+
+                *The two current consuls, Izrina Bouchkef and Helethor Podvin.*
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/glass_lady.png" "big_width"]
+                    :align: center
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/light_blue_general.png" "big_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Pangean Geopolitics - part 2
+
+
+
+        -   "id": "pangea_geopolitics_masslavia"
+            "body": |
+                *Article 2015, and sketches 2014, by C. Loakim*
+
+                **Masslavian anthem:**
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/Marching to the future (Masslavia's hymn).mp3"]
+
+                The Countess of Mastden has been the representative of the Parliamentary State of Masslavia for
+                nearly 40 years.
+
+                Although her legislative and executive power is very limited, she retains considerable influence
+                as head of the armed forces and of the intelligence services.
+
+                She favours a hard diplomatic line towards the Akarith Judicators and their calls
+                for holy conquest.
+
+                [BR]
+
+                **Countess of Mastden:**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/senior_lady.png" "big_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Pangean Geopolitics - part 3
+
+
+        -   "id": "pangea_geopolitics_dorian"
+            "body": |
+                *Article 2015, and sketches 2014, by C. Loakim*
+
+                [BR]
+
+                **Dorian anthem:**
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/The glorious people (Dorian dukedom's hymn).mp3"]
+
+                Historically, Doria was long the favourite whipping boy of the Akarith phalanxes. This is
+                why a deep anti-Yodic feeling developed there, until the victory of the "Freedmen's Front",
+                a regional coalition, over the last imperialist attempt of the Akariths.
+
+                But for twenty years now, the self-proclaimed Duke of Doria, Stelenas I, has tried to normalise
+                his country's relations with neighbouring Akaris, even at the risk of incurring the wrath of
+                part of the population, who see it as a sign of weakness, or even of duplicity.
+
+                [BR]
+
+                **Duke of Doria:**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/brown_noble.png" "big_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Pangean Geopolitics - part 4
+
+
+
+        -   "id": "pangea_geopolitics_heliossar"
+            "body": |
+                *Article 2015, and sketches 2014, by C. Loakim*
+
+                [BR]
+
+                **Heliossarian anthem:**
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/Sweet smell of liberty (Heliossar's hymn).mp3"]
+
+                In Heliossar, Marshal De Dianous is the de facto regent of the country, because parliament is
+                struggling to find a sufficient majority to elect a Grand Mandatary, and scandals of sex and
+                corruption bring down the members of parliament one after the other.
+
+                As a result, the country is barely present on the international stage, and its public opinion
+                does not seem very aware of the growing tensions with Akaris, especially as the Marshal
+                keeps calling for confidence and denouncing "mountains made out of molehills" whenever
+                some intellectual or other calls for patriotic mobilisation.
+
+                [BR]
+
+                **Marshal De Dianous:**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/brown_general.png" "big_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Pangean Geopolitics - part 5
+
+
+
+        -   "id": "pangea_geopolitics_akaris"
+            "body": |
+                *Article 2015, and sketches 2015, by C. Loakim*
+
+                [BR]
+
+                *Akarith anthem:*
+
+                .. embed_audio:: [GAME_FILE_URL "audio/musics/The long wait for dawn (Akaris' hymn).mp3"]
+
+                [BR]
+
+                The religious Order of the Akarith Judicators. Is there really any need to talk about it, so
+                full of it are the news?
+
+                *A monk of the Order of the Akarith Judicators, in ceremonial dress.*
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/masked_monk.png" "medium_width"]
+                    :align: center
+
+                [BR]
+
+                One can still note a few peculiarities little known to the general public; for instance the fact
+                that, although it defines itself as monastic, this order has created a special status of "semi-nun",
+                so that the high Judicators can build themselves their little harem at will; or that its
+                symbol (the crossentar), as well as its Holy Book, are considered by experts to be mere
+                deviations/assemblages put together from the religions that predate the Tectonic Era;
+                or finally that, despite the apparent national unity displayed to the outside world, this order
+                is far from unanimously accepted among the various Akarith tribes, who consider it either too
+                harsh towards the "bathars" ("those who are not of the pure race of the sons of the Yods"), or
+                not harsh enough.
+
+                *Semi-nun, courtesan of the Judicators.*
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/midolian_courtesan.png" "medium_width"]
+                    :align: center
+
+                [BR]
+
+                Finally, one of the problematic points of this order is that it has a pronounced taste for
+                megalomaniac projects, but cruelly lacks the scientific backing to carry them out. Thus, the
+                construction site of the Sanctuary of the Yods, in Zorzas, ran up against technical limitations
+                that no construction company was able to get round, despite the mountains of gold released
+                by the Judicators. To this day, the project is "suspended indefinitely, upon the decision-making
+                inspiration of the Yods".
+
+                **Concept of the Sanctuary of the Yods.**
+
+                .. image:: [GAME_THUMBNAIL_URL "images/sketches/futuristic_tower.png" "medium_width"]
+                    :align: center
+            "categories":
+            - >-
+                universe
+            "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
+            "sender_email": >-
+                contact@sabarim-gazette.pg
+            "subject": >-
+                Pangean Geopolitics - part 6
+
+
+

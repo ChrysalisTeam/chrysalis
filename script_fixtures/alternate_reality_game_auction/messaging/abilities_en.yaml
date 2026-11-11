@@ -1,0 +1,346 @@
+---
+
+messaging:
+
+
+    manual_messages_templates:
+
+        -   "id": announce_brute_force_decryption
+            "body": |
+                <Transferred from: secret services>
+
+                Agents, we remind you that we have a cryptographic cracking service at our disposal, able
+                to launch "brute force" attacks on any encrypted archives/files you may come across.
+                The operation is free of charge, but it can take several days, depending on the complexity
+                of the password to be guessed.
+
+                However, this technique can NOT be used to guess the password of a user account, since
+                after 10 failed attempts it would trigger anti-"brute force" protection measures on the
+                web portal.
+
+                Your Superiors
+            "categories":
+            - >-
+                abilities
+            "gamemaster_hints": ""
+            "subject": >-
+                Notes from the cryptography department
+
+
+        -   id: feedback_akaris_threats_geoip
+            gamemaster_hints: "Reply if a player requested a GeoIP analysis of a threatening email."
+            categories: ["abilities"]
+            sender_email: email-geolocation@digitalia.pg
+            subject: Email Location
+            body: |
+                Dear sir,
+
+                according to our network tracing, this email was sent from a building of the Congregation for Orthodoxy, a department of the Akarith State under the direct control of its highest eminences, namely the famous Akarith Judicators.
+
+                We have also noticed a sharp rise in web and messaging traffic in the Akarith ministry buildings, for about two months now, for a reason unknown to us. This traffic often targets addresses in the rest of Midolia or in Sabarim.
+
+                *In accordance with our general terms and conditions of sale, you have been charged {{ PRICE }} for this service.*
+
+
+
+
+        -   id: black_market_offers_1
+            gamemaster_hints: "Advertisement for the black market, and sale of various items (some useful, others not)."
+            categories: ["abilities"]
+            sender_email: black-market@business.pg
+            subject: The informal market comes to you!
+            body: |
+
+                Dear future customers, tired of the hassles of official trade?
+
+                Then this is your lucky day: today we are offering you our upmarket Black Market service.
+
+                Do not hesitate to offer us your goods for sale; even the most precious items find a buyer with us, at the very least at their "expert-estimated" value.
+
+                For our part, we will not fail to let you benefit from our best offers, for instance at the moment:
+
+                - an authentic copy of the painting "Cygnets of the Times" (a pun), by Justik Blomorovik (price: 4,500¤)
+                - 1 antique wooden keg, purloined during a recent archaeological expedition in Midolia (price: 50¤)
+                - 400 kilos of Monon garlic sausage, vintage 1011 (price: 20¤)
+                - 1 kilo of "rainbow unicorn" synthetic drug, in refined powder (price: 50¤)
+                - "ultimate bank spider" software kits, which let you read the accounts of the other customers of your bank, whichever it may be (price: 10¤)
+                - the complete collection of the digital works of the humorous singer-poet Répuce Soifran (price: 4¤)
+
+                **Come and find us soon in the "Black Market" section!**
+
+
+
+        -   id: black_market_offers_2
+            "body": |
+                Dear (potential) customers,
+
+                this week, new opportunities have come to complete our catalogue. Through our good offices, you can therefore acquire:
+
+                - a GOLD-plated silver monocle, the MUST-HAVE for any self-respecting "gentleman", even one who is not short-sighted; gift wrapping offered on request (price: 200)
+
+                - a confidentiality kit, encrypting your email messaging and thus protecting it from indelicate ears (price: 400¤)
+
+                - a lot of 18 pierced metal coins, a hardware much prized by the barbarian tribes of the depths of Keroskia (price: 20¤)
+
+                - 3 deep-water diving suits, from the stocks of the Sabarith army, tanks supplied (price: 40¤)
+
+                Hurry, there may not be enough for everyone!
+
+                See you soon,
+
+                *the informal market*
+            "categories":
+            - >-
+                abilities
+            "gamemaster_hints": ""
+            "sender_email": >-
+                black-market@business.pg
+            "subject": >-
+                New arrivals at the market
+
+        -   id: black_market_offers_3
+            "body": |
+                Dear customers,
+
+                the black market will soon be taking a well-deserved holiday, but in the meantime admire (and BUY) our latest opportunities:
+
+                - a 1 kg 100% GOLD ingot, a safe bet for hoarding your assets. Price: 1,000¤
+
+                - a strange statuette (a crouching man-bear deity), from Slavinka; delivered with a leaflet detailing its eventful history, and its passage through the hands of several famous adventurers. Price: 600¤
+
+                - a rolled parchment, a handwritten copy of the very old "A Life Braving the Diorian Ocean, Memoirs of Shuttle Captain Hawata Sensa". Price: 20¤
+
+                *the black market*
+            "categories":
+            - >-
+                abilities
+            "gamemaster_hints": ""
+            "sender_email": >-
+                black-market@business.pg
+            "subject": >-
+                New arrivals at the market (again)
+
+
+
+        -   id: oberons_feedback_alifir
+            gamemaster_hints: "Reply if mercenaries are sent to investigate at the Alifir Academy."
+            categories: ["abilities"]
+            sender_email: atyourservice@oberons.pg
+            subject: Alifir Espionage
+            body: |
+
+                Dear and honourable client,
+
+                I have heard back from our contact on site, in Alifir.
+
+                He informs me that the archaeology department of the academy has indeed recently received a good number of "mind-boggling" artefacts (as he puts it). He has heard of an amphora and of a big book, but knows nothing more.
+
+                These new pieces are stored in a very well-guarded depot, but when they are taken out for analysis, one after the other, there is a window to do something: during the lunch break.
+
+                However, given the omnipresent video surveillance, any action will clearly be a "one-off", and will have to be paid well enough for our contact to be able, afterwards, to move abroad and buy himself a new life.
+
+
+
+
+        -   id: security_measures
+            gamemaster_hints: "Clue for hacking the NPC accounts via the 'secret question'."
+            categories: ["abilities"]
+            sender_email: system@anthropia.pg
+            subject: Security procedures!
+            body: |
+
+                Dear user of the Anthropia portal,
+
+                following recent intrusion attempts, and in a constant effort to strengthen the security of your data, a new "password recovery" policy is going to be put in place. If you lose your password, you will eventually have to come in person, with your badge, to the security HQ of the Alifir Academy.
+
+                Accounts less than 3 months old already have no "secret question". This dangerous feature will also be removed from older accounts by the end of next year.
+
+                In the meantime, please make sure that your "secret question", if you have one, offers a sufficient level of confidentiality.
+
+                *Reminders*: never give your password to anyone, and alert Security immediately in case of abnormal activity on your Anthropia account.
+
+                *Security HQ*
+
+
+
+        -   id: biophysics_analysis_amphora
+            gamemaster_hints: "Reply if a biophysical appraisal of the amphora was requested."
+            categories: ["abilities"]
+            sender_email: biophysicslab@anthropia.pg
+            subject: Biochemical analysis report
+            body: |
+
+                Dear sir,
+
+                after studying the chemical residues on the inner walls of the amphora, it turns out that they are hyper-iodised "terrestrial" salt, of a kind found only in the salt seas of Aklarvik or Antaria.
+
+                The pollens and moulds found on the outside, however, are more recent, and characteristic of the Midolian inland continent. The amphora itself, made of marbled clay, seems to date from the end of the Tectonic Era, about 600 years ago.
+
+                Unfortunately, we have no means of deciphering the Akarith runes covering the surface of this amphora - runes which you can admire in the 3D slideshow of your "My Items" section.
+
+                | Hoping to have been of service,
+                | kind regards,
+                | The Belez Study Centre
+
+
+        -   "id": oberons_lg_manor_spying
+            "body": |
+                Our most obsequious greetings, dear sir.
+
+                Our brethren went for a stroll around Loyd Georges' manor in Salima, and it turns out that this
+                august residence has undergone heavy alterations in recent months. I would almost go so far
+                as to speak of "fortifications".
+
+                It therefore seems to me urgent to wait, and to study the premises and the comings and goings
+                before attempting anything at all. Or, if you are really in a hurry, we can hire a few small-time
+                crooks to attempt a heist (that will cost a good 300¤), but our brotherhood will certainly
+                not take on so hazardous a place itself.
+
+                Awaiting your venerated instructions,
+
+                the Oberons
+            "categories":
+            - >-
+                abilities
+            "gamemaster_hints": "If Oberons are sent to spy on LG's manor."
+            "sender_email": >-
+                atyourservice@oberons.pg
+            "subject": >-
+                Report - Oberon Mission
+
+
+        -   id: oberons_loyd_georges_spying
+            gamemaster_hints: "Reply if the mercenaries are to spy on Loyd Georges."
+            categories: ["abilities"]
+            sender_email: atyourservice@oberons.pg
+            subject: Espionage report
+            body: |
+
+                Dear sir,
+
+                we have managed to gather a few facts about Loyd Georges' life: he spends a lot of time playing Tarot at his friend Lariss De Trévors' house (3 Acacia Street in Salima), one of his old dogs is called Anubis, he is very fond of fine goat's cheeses, and he has a very sophisticated security system protecting his manor.
+
+                We have planted a pirate probe to interact with his keypad, but unfortunately we do not have its code. You can access it in the "Manor Security" tab.
+
+                rgds,
+
+                The Oberons
+
+
+
+
+        -   id: oberons_alifir_academy_spying
+            gamemaster_hints: "Second reply if mercenaries are spying on the Alifir Academy."
+            categories: ["abilities"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Follow-up: Espionage report"
+            body: |
+
+                Dear sir,
+
+                we have had further news from our contact in the Alifir Academy.
+
+                He informs us that Prof. Loakim's archaeology department is currently focusing on 3 artefacts, which are taken out of the ultra-secure depot in turn to be analysed.
+
+                These 3 items are an odd horned statue on a pedestal, a sort of ancient grimoire covered in runes, and a strange seated statuette.
+
+                Are you ready to pay the 2,000¤ in cash (or 1,000¤ in gems) for our contact to arrange the purloining of the item of your choice, and to vanish into thin air after handing it over to you?
+
+                Kind regards,
+
+                *Oberon Central*
+
+
+
+        -   id: world_scan_announce
+            gamemaster_hints: "Last-chance announcement giving access to the World Scan, if no player has made in-depth contact with the 'Paladium'."
+            categories: ["abilities"]
+            sender_email: world-scanner@paladium.pg
+            subject: New - the World Scan
+            body: |
+
+                Our brotherhood is proud to present the demonstration version of its "Manaic Detector".
+
+                The nascent technomanaic sciences indeed allow us to take a new kind of imprint of an item, and to scan the whole globe in search of similar items (provided, of course, that they are not too common!).
+
+                Desperately searching for your bunch of keys or your chinchilla will soon be a thing of the past.
+
+                Head to the "World Scan" section of your portal to find out more.
+
+                *Paladium*
+
+
+
+        -   id: world_scan_amphora
+            gamemaster_hints: "Reply if a worldwide manaic scan was run using the amphora as a model."
+            categories: ["abilities"]
+            sender_email: world-scanner@paladium.pg
+            subject: "Your 'amphora' world scan"
+            body: |
+
+                Dear sir,
+
+                the manaic imprint of this amphora has been detected at various places on Pangea:
+
+                - in "Joji's Old Curios", an antique dealer in Baynon (Lordania)
+                - in the warehouse of the Traditional Honeyworks, in Cazoar (Sabarim)
+                - in high concentration in the ruins of ancient Blassow (Antaria)
+                - in a few private cellars in Kosalam
+
+                Hoping to have convinced you of the power of our new technology,
+
+                kind regards,
+
+                *the Paladium*
+
+
+
+        -   id: world_scan_runic_chest
+            gamemaster_hints: "Reply if a worldwide manaic scan was run using the chest with runes as a model."
+            categories: ["abilities"]
+            sender_email: world-scanner@paladium.pg
+            subject: "Your 'chest' world scan"
+            body: |
+                Dear sir,
+
+                the manaic imprint of this chest has been detected at various places on Pangea:
+
+                - in a salt sea west of Antaria (coordinates 128.872228)
+                - deep in the jungle, south of Slavinka (coordinates 9278.2267)
+                - in the Yodic Temple of Zorzas
+                - at the home of Master Védrille, a fabulously wealthy lord of Kioctl (Balberith)
+
+                Hoping to have convinced you of the power of our new technology,
+
+                kind regards,
+
+                *the Paladium*
+
+
+
+        -   "id": "djinns_announce"
+            "body": |
+                Dear interlocutors,
+
+                we are delicately ecstatic to announce the forthcoming arrival, on your portal, of a
+                means of contacting us, the wise Djinns.
+
+                Please note, however, that our rates are anything but paltry:
+
+                800¤ in cash, or 200¤ in natural gems.
+
+                With one cute little whim of ours: we are not interested in gems whose unit value is
+                below 200¤.
+
+                The Djinns
+            "categories":
+            - >-
+                abilities
+            "gamemaster_hints": ""
+            "sender_email": >-
+                djinns@sedes-sancta.pg
+            "subject": >-
+                Djinnic module coming soon
+
+
+...
