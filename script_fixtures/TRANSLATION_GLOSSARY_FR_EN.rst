@@ -4546,6 +4546,290 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - forest yeti
      - Creature.
 
+Alternate reality game: Auction (the Pychronia web game)
+=========================================================
+
+.. Terms coined while translating ``alternate_reality_game_auction/**/*_fr.yaml``
+   into ``*_en.yaml``. Run ``docs/check_fixture_translations.py`` after any
+   change: both languages must keep the same keys, identifiers, file paths and
+   game markup. Secret answers (``secret_answer``) and hidden-clue categories
+   are translated, since players deduce them from English texts.
+
+.. list-table::
+   :header-rows: 1
+   :widths: 30 30 40
+
+   * - Français
+     - English
+     - Notes
+   * - Âge de l'Equilibre Universel
+     - Age of Universal Balance
+     - Mythical era (encyclopedia).
+   * - airain hyper-condensé
+     - hyper-condensed bronze
+     - Arkon's gladius.
+   * - archimage
+     - archmage
+     - Lowercase in prose.
+   * - Bataille de Wigwir
+     - Battle of Wigwir
+     - Capitalised as an event name; the GM manual also says "the battle of Wigwir" in running text.
+   * - bouboule
+     - Roly-Poly
+     - Nickname (news messages).
+   * - Central Obéron
+     - Oberon Central
+     - Signature.
+   * - Centre d'Etudes de Belez
+     - Belez Study Centre
+     - Biophysics signature.
+   * - Centre Scanner (à Alifir)
+     - Scanner Centre (in Alifir)
+     - World Scan help page.
+   * - cérémonie finale / cérémonie de remise des prix
+     - final ceremony / prize-giving ceremony
+     - Alifir Academy events.
+   * - chant de l'orbe / chant des orbes
+     - song of the orb / song of the orbs
+     - Lowercase.
+   * - cimetière animal du Père Huche (Salima Sud)
+     - Père Huche pet cemetery (South Salima)
+     - Location in player messages.
+   * - Citadelle Nuageuse
+     - Cloud Citadel
+     - Seat of the Akarith Judicators' councils.
+   * - conciergerie centrale de Faeran
+     - central concierge desk in Faeran
+     - Waden's pick-up point.
+   * - Congrégation pour l'Orthodoxie
+     - Congregation for Orthodoxy
+     - Akarith department.
+   * - continent mécréant
+     - the infidel continent
+     - Akarith view of other lands.
+   * - Défi d'Échecs
+     - Chess Challenge
+     - Ability and GM manual heading.
+   * - désert de sel / salar / banquise de sel
+     - salt desert / salar / salt pack ice
+     - Geography (encyclopedia).
+   * - Détecteur Manaïque
+     - Manaic Detector
+     - Paladium product.
+   * - Doyen des Fidèles Akarites
+     - Dean of the Akarith Faithful
+     - Bishop Baazel's signature.
+   * - Doyenne(s) (d'Alifir) / muses-doyennes
+     - Dean(s) (of Alifir) / muse-deans
+     - Lowercase "the deans" in prose; capitalised in signatures and before a name (Aiode, Melete, Mneme).
+   * - Duc Dorien / Empire Akarite
+     - the Dorian Duke / the Akarith Empire
+     - Auction ARG term.
+   * - empreinte manaïque / manaïque
+     - manaic imprint / manaic
+     - Extends "Rétrocaméra Manaïque".
+   * - Enchères mono-tour au (deuxième) meilleur offrant
+     - Single-round auctions, (second-)highest bid wins
+     - Auction rules page.
+   * - enquêteur du temps
+     - investigator of time
+     - Loyd Georges about himself.
+   * - Ère Stable
+     - Stable Era
+     - Calendar era.
+   * - État Parlementaire de Masslavie
+     - Parliamentary State of Masslavia
+     - Auction ARG term.
+   * - Faction mottos: « Liberté, honneur, robustesse » / « Grandeur, Largesse, Délicatesse » / « Opulence, Indépendance, Puissance » / « Foi, Pureté, Divinité » / « Loi, Ordre, Sécurité »
+     - "Freedom, honour, fortitude" / "Grandeur, Largesse, Finesse" / "Opulence, Independence, Power" / "Faith, Purity, Divinity" / "Law, Order, Security"
+     - Super-faction mottos.
+   * - Fédération Lordanienne
+     - Lordanian Federation
+     - Auction ARG term.
+   * - Flash Info
+     - Newsflash
+     - News subject prefix.
+   * - Force et Honneur
+     - Strength and Honour
+     - Sign-off.
+   * - Gemmes pratiques pour faire l'appoint / gemmes piégées
+     - handy gems for topping up a payment / trap gems
+     - GM hints on auction gems.
+   * - Géolocalisation Numérique
+     - Digital Geolocation
+     - GeoIP service.
+   * - Grand Colloque (de l'Académie d'Alifir)
+     - Grand Colloquium
+     - Academy event; never "Symposium".
+   * - Grand Concile Secret (akarite)
+     - (Akarith) Grand Secret Council
+     - Auction ARG term.
+   * - Grand Conseil (akarite) / Grand Conseil Nalavutien
+     - Great Council / Great Nalavutian Council
+     - Auction ARG term.
+   * - Grand Hibou Céleste
+     - Great Celestial Owl
+     - Nalavutian deity.
+   * - Grand Inquisiteur
+     - Grand Inquisitor
+     - Akarith rank.
+   * - Grand Mandataire
+     - Grand Mandatary
+     - Heliossarian head of state.
+   * - Grimoire Sacré Akarite / grimoire-clé
+     - Sacred Akarith Grimoire / key grimoire
+     - Auction ARG term.
+   * - Guerres Midoliennes / guerre midolienne
+     - Midolian Wars / Midolian war
+     - Auction ARG term.
+   * - guilde des voleurs
+     - thieves' guild
+     - Lowercase.
+   * - Harmonies Jungliennes
+     - Jungle Harmonies
+     - Claudia Pason's album; the track list keeps the French map labels in brackets, since the jungle map image is French.
+   * - historique télécom
+     - telecom history
+     - UI-related wording.
+   * - Hymne X
+     - X anthem
+     - Eg. "Masslavian anthem".
+   * - Hôtel Impérial d'Alifir
+     - Alifir Imperial Hotel
+     - Auction ARG term.
+   * - Imprimeries Tridimensionnelles de Kioctl
+     - Kioctl Three-Dimensional Printing Works
+     - Auction ARG term.
+   * - judicateur suprême Arthanas / Messagers des Yods
+     - Supreme Judicator Arthanas / Messengers of the Yods
+     - Rank before a name; epithet of the Judicators.
+   * - Justice et Vérité
+     - Justice and Truth
+     - Paladium sign-off.
+   * - kit de mise sur écoute / kit de confidentialité / mise sur écoute
+     - wiretapping kit / privacy kit / wiretapping
+     - Wiretapping ability.
+   * - la main des dieux
+     - the hand of the gods
+     - Prof. Losslass's nickname.
+   * - « Les vieilleries de Joji »
+     - "Joji's Old Curios"
+     - Shop in Baynon.
+   * - Lettre de Mission X
+     - Mission Letter - X
+     - Letterhead.
+   * - Ligue Bancaire Pangéenne
+     - Pangean Banking League
+     - Escrow page.
+   * - Livres Sabarites Certifiées
+     - Certified Sabarith Pounds
+     - Currency wording.
+   * - Lolo
+     - Lolo
+     - Emilos's nickname for Loyd Georges.
+   * - marché informel
+     - informal market
+     - Black market self-designation.
+   * - marées yodiques
+     - Yodic tides
+     - Historical period.
+   * - maître des enchères
+     - auctioneer
+     - Auction rules.
+   * - Maître Izdouvraj (huissier)
+     - Master Izdouvraj (bailiff)
+     - Chess Challenge.
+   * - Merveilleux Zélote Bartzar
+     - Marvellous Zealot Bartzar
+     - Auction ARG term.
+   * - messageries Microcosme
+     - Microcosm inboxes
+     - Auction ARG term.
+   * - mi-moniale / mi-monesse
+     - semi-nun
+     - The Judicators' courtesans.
+   * - Mielleries à l'Ancienne
+     - Traditional Honeyworks
+     - Company in Cazoar.
+   * - module djinnique
+     - Djinnic module
+     - Auction ARG term.
+   * - Mont Olysho / colline Brumerre
+     - Mount Olysho / Brumerre Hill
+     - Auction ARG term.
+   * - montagnes nacrées
+     - pearly mountains
+     - Axolia.
+   * - nourrissons d'Eiode / Fils d'Eiode
+     - Infants of Eiode / Sons of Eiode
+     - Auction ARG term.
+   * - Objets d'Enchères (page)
+     - Auction Items
+     - UI page name.
+   * - orbe polaire
+     - polar orb
+     - Lowercase.
+   * - panier à crabes
+     - nest of vipers
+     - Idiom.
+   * - Panthéon Éternel (de l'Académie)
+     - Eternal Pantheon
+     - Auction ARG term.
+   * - passe-murs éthérés
+     - ethereal wall-walkers
+     - Seal list.
+   * - phonodistance
+     - long-distance phone
+     - Auction ARG term.
+   * - puk(s)
+     - puk(s)
+     - Oberon slang for hired thugs; verbatim, lowercase.
+   * - Race élue des Yod(s)
+     - Chosen Race of the Yods
+     - Auction ARG term.
+   * - Rapport synthétique X - Affaire Loyd Georges
+     - X summary report - The Loyd Georges affair
+     - Letterhead.
+   * - Sanctuaire des Yods (Zorzas)
+     - Sanctuary of the Yods
+     - Auction ARG term.
+   * - Scan Mondial (section / service)
+     - World Scan
+     - UI label; distinct from "Scanner Mondial" = World Scanner item.
+   * - sciences technomanaïques
+     - technomanaic sciences
+     - The GM manual also says "technomagical".
+   * - Service OmniVision
+     - the OmniVision Service
+     - Manor surveillance.
+   * - Services des Renseignements Généraux (X) / Services de police Généraux Sabarites
+     - (X) General Intelligence Services / Sabarith General Police Services
+     - Letterheads.
+   * - Télécoms Pangéennes
+     - Pangean Telecoms
+     - Wiretapping help.
+   * - Télévisualisation (2D/3D)
+     - televisualisation
+     - Slideshow pages.
+   * - Thélassare(s)
+     - Thelassarian(s)
+     - Demonym, by analogy with Heliossarian.
+   * - {{ titre_officiel }} / {{NUMERO_GAMEMASTER}} / {{ PRIX }} / {{ JOUEUR }} / {{ nom_du_module }}
+     - {{ official_title }} / {{GAMEMASTER_NUMBER}} / {{ PRICE }} / {{ PLAYER }} / {{ module_name }}
+     - Placeholders that the game master fills in by hand are translated; ``{{ character_properties... }}`` variables stay verbatim.
+   * - Traducteur de Runes (de l'Académie)
+     - Rune Translator
+     - Device; "Yodic Rune Translator" for the ability.
+   * - transpondeur Lasulis / lentilles de Barzow
+     - Lasulis transponder / Barzow lenses
+     - Waden's equipment request.
+   * - vieille branche / les anciens
+     - old bean / old-timers
+     - Familiar address (Emilos, Waden).
+   * - Votre rectitude
+     - Your Rectitude
+     - Loyd Georges mocking Dean Melete.
+
 Jinja symbol display values
 ===========================
 
