@@ -9,7 +9,7 @@ rpg.enter_docs_folder()
 LANGUAGE = rpg.parse_build_arguments().lang  # use "--lang en" on command line for English documents
 
 TEMPLATES_ROOT = os.path.abspath("../script_fixtures/rpg_descent")
-YAML_FILE = os.path.abspath("../script_fixtures/rpg_descent/descent_rpg_data.yaml")
+YAML_FILE = os.path.abspath(rpg.localize_filename("../script_fixtures/rpg_descent/descent_rpg_data.yaml", LANGUAGE))
 MASTER_SCRIPT = os.path.abspath(rpg.localize_filename("../script_fixtures/rpg_descent/master_script.rst", LANGUAGE))
 OUTPUT_DIR = os.path.join("output_descent", LANGUAGE)
 RST2PDF_CONF_FILE = "./rst2pdf.conf"
@@ -20,7 +20,7 @@ jinja_env = rpg.load_jinja_environment(TEMPLATES_ROOT, use_macro_tags=True, lang
 
 
 def generate_player_sheets():
-    all_data = rpg.load_localized_yaml_file(YAML_FILE, LANGUAGE)
+    all_data = rpg.load_yaml_file(YAML_FILE)
     data = all_data["descent_rpg"]
 
     for player_id, player_data in data["players"].items():

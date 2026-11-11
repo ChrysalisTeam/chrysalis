@@ -55,6 +55,8 @@ Build scripts can then be run from any folder, but their paths are relative to t
 All build scripts accept a ``--lang fr|en`` option (French by default), to choose the language of the script fixtures to use: French sources are unsuffixed or have a "_fr" suffix, English ones have an "_en" suffix (see "script_fixtures/TRANSLATION_GLOSSARY_FR_EN.rst").
 The generated documents then go into the "docs/output_<game>/<language>/" folder. Use ``--help`` for details.
 
+The data of the "Chrysalis:Auction" alternate reality game (loaded by the Pychronia web portal, and partly reused by mystery parties) lives in "script_fixtures/alternate_reality_game_auction/": each YAML file there has a French "_fr" version and an English "_en" one, except language-neutral files like "global_data.yaml". The Pychronia game picks the files of the language chosen when a game instance is created.
+
 Under pytest, use the CHRYSALIS_LANG (eg. "en") and CHRYSALIS_WITH_CLUES (eg. "1") environment variables instead of these options.
 
 

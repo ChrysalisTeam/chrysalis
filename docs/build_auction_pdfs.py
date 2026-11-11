@@ -13,8 +13,8 @@ rpg.enter_docs_folder()
 
 LANGUAGE = rpg.parse_build_arguments().lang  # use "--lang en" on command line for English documents
 
-# The French manual is also loaded by the Pychronia game, so it keeps its unsuffixed name
-YAML_FILE = rpg.localize_source_filename("../script_fixtures/gamemaster_manual.yaml", LANGUAGE)
+# Both manuals are also loaded by the Pychronia game, depending on the language of each game instance
+YAML_FILE = rpg.localize_filename("../script_fixtures/alternate_reality_game_auction/gamemaster_manual.yaml", LANGUAGE)
 TEMP_DIR = os.path.join("output_auction", LANGUAGE)
 
 if not os.path.exists(YAML_FILE):
