@@ -75,8 +75,13 @@ def _type_name(value):
     return type(value).__name__
 
 
+# localized game files (eg. "map_fr.jpg" / "map_en.jpg") are equivalent in both languages
+LOCALIZED_FILE_REGEX = re.compile(r"_(?:fr|en)(\.\w+)")
+
+
 def _markup_counter(text):
-    return collections.Counter(match for regex in MARKUP_REGEXES for match in regex.findall(text))
+    return collections.Counter(LOCALIZED_FILE_REGEX.sub(r"_<lang>\1", match)
+                               for regex in MARKUP_REGEXES for match in regex.findall(text))
 
 
 def compare_trees(fr, en, path, errors, warnings):

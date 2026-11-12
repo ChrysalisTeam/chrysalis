@@ -95,32 +95,32 @@ static_pages:
 
             [BR]
 
-            *Recording locations of the sounds in her first piece, "Secrets of the Kamilia Jungle" (local names in brackets, as on the map)*
+            *Recording locations of the sounds in her first piece, "Secrets of the Kamilia Jungle"*
 
             ::
 
-                0:00 - Western Edge of the Birds (Lisière Ouest aux Oiseaux)
-                0:15 - Black Needle Peak (Pic de l'Aiguille Noire)
-                0:32 - Windswept Mount (Mont Eventé)
-                0:45 - Cavern of the Invisible Giant (Caverne du Géant Invisible)
-                0:59 - Valley of the Breath (Vallée du Souffle)
-                1:18 - Brook of the 100 Branches (Ruisseau des 100 Branches)
-                2:10 - Kupoutac Plateau (Plateau de Kupoutac)
-                2:40 - Cascading River (Rivière Cascadante)
-                3:08 - Glittering Brook (Ruisseau Rutilant)
-                3:23 - Muddy Brook (Ruisseau Vaseux)
-                3:38 - Baboon Rock (Roc du Babouin)
-                3:54 - Dry Trees Mound (Butte des Arbres Secs)
+                0:00 - Western Edge of the Birds
+                0:15 - Black Needle Peak
+                0:32 - Windswept Mount
+                0:45 - Cavern of the Invisible Giant
+                0:59 - Valley of the Breath
+                1:18 - Brook of the 1000 Branches
+                2:10 - Kupoutac Plateau
+                2:40 - Cascading River
+                3:08 - Glittering Brook
+                3:23 - Muddy Brook
+                3:38 - Baboon Rock
+                3:54 - Dry Trees Mound
 
             *Map of the Kamilia Jungle (between Slavinka and Tieros Olim)*
 
-            .. image:: [GAME_THUMBNAIL_URL "images/world_maps/kamilia_jungle_map.jpg" "big_width"]
+            .. image:: [GAME_THUMBNAIL_URL "images/world_maps/kamilia_jungle_map_en.jpg" "big_width"]
                 :align: center
-                :target: [GAME_FILE_URL "images/world_maps/kamilia_jungle_map.jpg"]
+                :target: [GAME_FILE_URL "images/world_maps/kamilia_jungle_map_en.jpg"]
 
         gamemaster_hints: |
 
-            Places where the song of the orbs can be heard in this piece: Valley of the Breath (Vallée du Souffle) and Cascading River (Rivière Cascadante).
+            Places where the song of the orbs can be heard in this piece: Valley of the Breath and Cascading River.
 
 
 ...

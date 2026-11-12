@@ -104,7 +104,7 @@ static_pages:
                 0:32 - Mont Eventé
                 0:45 - Caverne du Géant Invisible
                 0:59 - Vallée du Souffle
-                1:18 - Ruisseau des 100 Branches
+                1:18 - Ruisseau des 1000 Branches
                 2:10 - Plateau de Kupoutac
                 2:40 - Rivière Cascadante
                 3:08 - Ruisseau Rutilant
@@ -114,9 +114,9 @@ static_pages:
 
             *Carte de la Jungle de Kamilia (entre Slavinka et Tieros Olim)*
 
-            .. image:: [GAME_THUMBNAIL_URL "images/world_maps/kamilia_jungle_map.jpg" "big_width"]
+            .. image:: [GAME_THUMBNAIL_URL "images/world_maps/kamilia_jungle_map_fr.jpg" "big_width"]
                 :align: center
-                :target: [GAME_FILE_URL "images/world_maps/kamilia_jungle_map.jpg"]
+                :target: [GAME_FILE_URL "images/world_maps/kamilia_jungle_map_fr.jpg"]
 
         gamemaster_hints: |
 
