@@ -4832,6 +4832,33 @@ Alternate reality game: Auction (the Pychronia web game)
    * - Votre rectitude
      - Your Rectitude
      - Loyd Georges mocking Dean Melete.
+   * - coffre(-)à distance (Anthropia)
+     - Anthropia remote vault
+     - Mindstorm overrides: black market and Sabarith services emails.
+   * - Comité Directeur d'Anthropia / Notification Légale sur les Saisies Anthropia
+     - Steering Committee of Anthropia / Legal Notice on Anthropia Seizures
+     - Mindstorm overrides.
+   * - consuls déchus
+     - ousted consuls
+     - Mindstorm election radio spot.
+   * - en monnaie uniquement / en gemmes
+     - in money only / in gems
+     - Black-market prices.
+   * - lampe-tempête
+     - hurricane lamp
+     - Matches the Mindstorm GM assets checklist.
+   * - liqueur de tilleul
+     - lime-blossom liqueur
+     - As in the Mindstorm GM manual.
+   * - nébuleuse académique de Pangéa
+     - academic constellation of Pangea
+     - Mindstorm overrides.
+   * - Pont de la Rosace
+     - Rosace Bridge
+     - Salima; Cynthia's trap message.
+   * - Quartier(s) (résultats du Scan Mondial)
+     - District(s)
+     - World Scan results, eg. "Salima/Belez region: Districts ...".
 
 Jinja symbol display values
 ===========================
