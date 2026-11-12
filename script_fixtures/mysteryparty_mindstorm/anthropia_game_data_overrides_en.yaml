@@ -1,0 +1,1184 @@
+
+
+
+global_parameters:
+
+    game_is_started: False # allows to freeze game
+
+    game_theoretical_length_days: 1  # NO RELATIVE TIME CHANGES
+
+    pangea_network_domain: anthropia.pg
+    all_players_mailing_list: "[auction-list]@anthropia.pg"
+    default_contact_avatar: "images/symbolic_avatars/question_mark.png"
+
+    anonymous_login: anonymous
+    master_login: system
+    master_password: ultimate
+    master_real_email: "chambon.pascal@gmail.com"
+
+    # timers for misc events
+    online_presence_timeout_s: 600
+    chatroom_presence_timeout_s: 15
+    chatroom_timestamp_display_threshold_s: 600
+
+    bank_name: "bank"
+    bank_account: 100000 # let's take huge margins
+    spent_gems: [] # only values in kashes, in this list
+
+    pangea_radio_frequency: "100.0" # string, for the "consuming" public webradio
+    radio_is_on: false # beware, only for the "consuming" public webradio
+    pending_radio_messages: [] #for all radio types
+
+    encyclopedia_index_visible: false
+
+    friendship_minimum_duration_mn_abs: 10000 # NOT a relative delay
+
+    world_map_image: "images/world_maps/pangea_world_map_v10_8bits.png"
+    world_map_image_bw: "images/world_maps/pangea_world_map_blackwhite_31.jpg"
+
+    password_recovery_delay_mn: 0  # having a delay here is weird!
+
+    game_random_seed: "ahAUGAaguTAkOSy28686" # used to init random generators, TODO UNUSED ATM!!!
+
+    disable_automated_ability_responses: false   # NOW it's OK for murder-party abilities!!!
+    disable_real_email_notifications: false
+
+
+
+abilities:
+
+    runic_translation:
+        settings:
+
+            result_delay: null
+
+            references:
+
+                amphora:
+                    translation: >
+                        sacred salt | certified compliant #
+                        for expiatory rites | before kamikaze operations #
+                        not to be used for meals
+
+                sacred_book:
+                    translation: >
+                        dilute the fresh fungal juice | in hot water #
+                        sprinkle the crushed | mollusc limb #
+                        stir at length | possibly adding | the extras #
+                        add the reddish | fruit liqueur #
+                        serve cold
+
+                horned_statue:
+                    translation: >
+                        O Bartzar | glorious champion of the Yods #
+                        when the orb has returned | you shall launch our troops  #
+                        to reconquer the world | according to the plan #
+                        set out in the | panorbium fortuna
+
+                antic_chest:  # SUPPOSEDLY UNUSED IN MURDER PARTY
+                    translation: >
+                        spoils of war | skirmish of | the black meadows #
+                        may the yods | purify these goods #
+                        shortent our penance | and give us final victory
+
+
+            middlewares:
+                translation_form:
+                    CostlyActionMiddleware:
+                        money_price: 300
+                        gems_price: 100
+
+
+    matter_analysis:
+        settings:
+
+            result_delay: null
+
+            reports:
+                amphora: |
+                    Common amphora of the pre-Tunguska civilisations, made of rich mortar.
+
+                    Presence of Akarith runes in blue stone powder.
+
+                    Presence of fruit-tree pollens from Akaris around the rim.
+
+                    Deposit at the bottom of the amphora, consisting of:
+
+                    - coarse sea salt
+                    - aromatic herbs from the hills of Akaris
+                    - extracts of leafy toad sweat
+                    - plum stone powder
+                    - wild berry powder
+
+                    Mixture with strong stimulant, psycho-psychedelic, and analgesic properties.
+
+                basket_bottle: |
+                    Demijohn hand-blown from a mixture of crushed glass and crystal.
+
+                    Dimensions of a rare size for this type of work.
+
+                    Woven wicker basket casing typical of Midolia.
+
+                    Common cork stopper.
+
+                    Deposit of 68% alcohol liqueur, made from "scarlet sun" red plums specific to Akaris.
+
+                    Traces of powdery compounds from the horn of a caprine animal, unfortunately not recognised by our databases.
+
+                rusty_chest: |
+
+                    Chest made from a rather peculiar mixture of Akarith wood species: birch-willow, weeping pine, and grey beech.
+
+                    The ironwork, made of low-quality iron, is heavily rusted.
+
+                    No visible inscription.
+
+                    Slight deposit of sweet potato peelings at the bottom of the chest.
+
+                sacred_book: |
+                    Grimoire with a beechwood cover.
+
+                    Leaves of leather parchment, from black goats of Akaris.
+
+                    Ink made of "Royal Najah" snake blood.
+
+                    Script used: Akarith runes
+
+                    Heavily used book, kept in a very humid atmosphere.
+
+                    A few candle wax stains along the edges of the pages.
+
+                    Inscription scrawled on the last page, in ancient Akarith, meaning: "beware of the extras, double-edged recipes"
+
+                horned_statue: |
+
+                    Statue in grey and green marble from Akaris, inlaid with semi-precious stones and adorned with Akarith runes.
+
+                    Probably a unique piece.
+
+                    Contains at its centre a reliquary holding a whole human body, mummified and curled up on itself.
+
+                    Body of a man in his forties, with no traces of visible injury.
+
+                    General depigmentation of the skin, indicating an end of life without sunlight.
+
+                    Swelling of the dermal tissues suggesting death by drowning.
+
+                    Numerous lesions in the cervical cortex, due to the presence of "Royal Najah" snake venom.
+
+                small_leather_bag: |
+
+                    Very common cowhide purse.
+
+                    Contains residues of an aqueous mixture, whose unusual chemical interactions unfortunately prevent a fine analysis at the molecular level.
+
+                    Proportions of the components of this mixture:
+
+                    - 25% fungal flesh
+                    - 30% plant flesh
+                    - 30% animal flesh
+                    - 15% unidentified matter
+
+                pocket_clock: |
+
+                    New pocket watch, of industrial make typical of Lordania.
+                    Low-quality oscillating mechanism.
+
+                    The outside of the watch bears traces of marine iodine, mixed with vapour deposits of "lime-blossom liqueur", a drink imported from Lordania and only served in about 80 Sabarith taverns (mostly of the "AuBonPichet" franchise).
+                    Common cellar dust is present on top of all these deposits.
+
+                    Cotton sachet of brown powder hidden at its centre. It contains very pure "Zombifying Drug", with a few traces of Akarith pollens.
+
+
+
+            middlewares:
+                process_artefact:
+                    CostlyActionMiddleware:
+                        money_price: 400
+                        gems_price: 130
+
+
+
+    world_scan:
+
+        settings:
+
+            result_delay: null
+
+            scanning_sets: {}
+
+            item_locations:
+                amphora:  # leads to akarith sect inside Salima, and anonymous post office box near manor
+                    scanning_set: null
+                    message: |
+                        9,656 echoes, spread across the whole of Pangea, were returned for the clones of this artefact.
+
+                        Most of the echoes are very weak, and concern only 1 or 2 specimens stored
+                        in the same place.
+
+                        Two fairly strong location clusters have however emerged in the land of Sabarim:
+
+                        - coordinates XJ16 in Alifir, around the Café Bargarac
+                        - coordinates LK89 in Salima, around the Purineur Brasserie
+                        - coordinates OL76 in the Hamlet of Wiskons near Salima, around the village square
+
+                basket_bottle:  # narrows the search for the ORB
+                    scanning_set: null
+                    message: |
+
+                        56 echoes, spread across the whole of Pangea, were returned for the clones of this artefact.
+
+                        Here are the echoes precise enough to be usable (radius: ~100 m), all located in Sabarim.
+
+                        Salima/Belez region:
+                            Districts 23, 56, 88, 99 and 187
+
+                        Alifir region:
+                            Districts 22, 76, 112 and 278
+
+                        Faeran region:
+                            Districts 11, 67 and 101
+
+                        Cazoar region:
+                            Districts 56 and 122
+
+                rusty_chest:  # narrows the search for the ORB
+                    scanning_set: null
+                    message: |
+
+                        87 echoes, spread across the whole of Pangea, were returned for the clones of this artefact.
+
+                        Here are the echoes precise enough to be usable (radius: ~100 m), all located in Sabarim.
+
+                        Salima/Belez region:
+                            Districts 20, 56, 90, and 120
+
+                        Alifir region:
+                            Districts 22, 112 and 300
+
+                        Faeran region:
+                            Districts 2, 70 and 101
+
+                        Cazoar region:
+                            District 33
+
+                sacred_book:
+                    scanning_set: null
+                    message: |
+
+                        A single echo, 550 m in diameter, occurred for this artefact, and it is located in the land of Slavinka,
+                        on the huge archaeological dig site organised by Professor Loakim.
+
+                horned_statue:
+                    scanning_set: null
+                    message: |
+
+                        No echo was returned for this artefact, apart from vague resonances in the History/Geography
+                        museums of Sabarim.
+
+                small_leather_bag:
+                   scanning_set: null
+                   message: |
+
+                       Several million echoes across Pangea were returned for this small leather bag,
+                       making them impossible to exploit.
+
+                pocket_clock:  # narrows the search for INFILTRATED AKARITHS IN SABARIM
+                    scanning_set: null
+                    message: |
+
+                        Several thousand very weak echoes came back from all over Pangea for this artefact, especially in Lordania.
+                        These must be private individuals who own a specimen.
+
+                        Observed correlation: a large number of these districts contain one or more "AuBonPichet" taverns; some sixty of them in all are thus covered.
+
+                        Salima/Belez region:
+                          Districts 13, 67, 100, 125, 169
+
+                        Alifir region:
+                          Districts 33, 133, 241
+
+                        Faeran region:
+                          Districts 77, 79, 88
+
+                        Cazoar region:
+                          Districts 99, 233
+
+            middlewares:
+                scan_form:
+                    CostlyActionMiddleware:
+                        money_price: 450
+                        gems_price: 160
+
+
+    house_reports:
+        settings:
+            result_delay: null
+            middlewares:
+                get_surveillance_report:
+                    CostlyActionMiddleware:
+                        money_price: 100
+                        gems_price: 30
+
+
+    #wiretapping:
+    #    settings:
+    #        max_wiretapping_targets: 0
+    #        middlewares:
+    #            purchase_wiretapping_slot:
+    #                CostlyActionMiddleware:
+    #                    money_price: 80
+    #                    gems_price: 70
+
+    mercenaries_hiring:
+        settings:
+            result_delay: null
+            middlewares:
+                hiring_form:
+                    CostlyActionMiddleware:
+                        money_price: 600
+                        gems_price: 200
+
+
+
+game_items:
+
+    7_topazes:
+        total_price: 280
+        auction: "A"
+        comments: "These princess-cut topazes will seduce you with the depth of their slightly turquoise hue."
+
+    amphora:
+        auction: "B"
+        comments: "An unusual piece from the Temple of Nazur, adorned with Akarith runes, which was used for special rites. Similar amphorae have been found in large numbers in other archaeological digs."
+        total_price: 400
+
+    8_amethysts:
+        total_price: 240
+        auction: "C"
+        comments: "Endowed with a soft purplish transparency, these oval-cut amethysts will fill their owner with joy."
+
+    basket_bottle:
+        auction: "D"
+        comments: "Large demijohn from the buried temple, of rather atypical dimensions, and containing the dregs of a red plum liqueur."
+        total_price: 100
+
+    25_sapphires:
+        total_price: 500
+        auction: "E"
+        comments: "A marquise cut and a navy blue, what could be better for this flood of precious sapphires?"
+
+    sacred_book:
+        auction: "F"
+        comments: "Extremely rare grimoire of Akarith runes, discovered (in two copies) in the sanctuary of Nazur."
+        total_price: 500
+
+    8_colored_diamonds:
+        total_price: 1200
+        auction: "G"
+        comments: "Find all the colours of the rainbow in this exceptional lot of diamonds."
+
+    horned_statue:
+        auction: "H"
+        comments: "An enigmatic statue from the Temple of Nazur, one of a kind, and adorned with Akarith runes."
+        total_price: 700
+
+
+
+
+
+character_properties:
+
+    # WARNING - the values of global parameters anonymous_login, master_login and common_login are reserved and shall not be used here
+
+    spinel:
+        permissions: &spy_perms1 ["access_mercenaries_hiring",
+                      "access_runic_translation", "access_matter_analysis"]
+        account: 300
+        extra_goods: "Certified currency: 800 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    malachite:
+        permissions: &spy_perms2 ["access_mercenaries_hiring",
+                      "access_world_scan", "access_house_reports"]
+        account: 300
+        extra_goods: "Certified currency: 600 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    topaz:
+        permissions: *spy_perms1
+        account: 400  # has more money due to black market sales
+        extra_goods: "Certified currency: 700 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    peridot:
+        permissions: *spy_perms2
+        account: 300
+        extra_goods: "Certified currency: 700 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    garnet:
+        permissions: *spy_perms1
+        account: 300
+        extra_goods: "Certified currency: 600 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    amethyst:
+        permissions: *spy_perms2
+        account: 300
+        extra_goods: "Certified currency: 800 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    opal:
+        permissions: ["access_house_reports"]
+        account: 400
+        extra_goods: "Certified currency: 500 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    lydia:
+        permissions: []
+        account: 500
+        extra_goods: "Certified currency: 350 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    cynthia:
+        permissions: ["access_house_reports", "access_geoip_location"]
+        account: 150
+        extra_goods: "Certified currency: 20 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    waden:
+        permissions: ["access_runic_translation", "access_matter_analysis"]
+        account: 150
+        extra_goods: "Certified currency: 30 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    obsidian:
+        permissions: ["access_house_reports", "access_geoip_location", "access_world_scan"]
+        account: 600
+        extra_goods: "Certified currency: 200 Sabarith Pounds"
+        real_life_identity: ""
+        real_life_email: ""
+
+    shark:
+        permissions: []
+        account: 500
+        extra_goods: ""
+        secret_question: None
+        secret_answer: None
+
+    loyd.georges:
+        permissions: ["access_house_locking"]  # ONLY for him
+        account: 400
+
+    emilos.loakim:
+        secret_question: None
+        secret_answer: None
+
+
+
+
+
+static_pages:
+
+    tabellion:  # BEWARE keep birth date in sync with secret code of his suitcase
+        title: "Tabellions of Sabarim"
+        categories: ["encyclopedia"]
+        keywords: ["tabellions?", "maestre", "ramye", "leydelass"]
+        content: |
+
+            Tabellions are sworn notables, specific to the land of Sabarim.
+
+            They enjoy a great many prerogatives: they can take on the roles of notary, banker, accountant, bailiff, auctioneer...
+
+            They benefit from legal immunities and tax exemptions, which some thinkers equate with "undue privileges".
+
+            Current Secretary General of the Order of Tabellions: *Maestre Ramye Leydelass, Tabellion of Salima, born on 24/11/1968 in the same city*
+
+
+
+
+messaging:
+
+    manual_messages_templates:
+
+        ########## MESSAGES SENT BEFORE MURDER PARTY ###########
+
+        -   id: masslavian_initial_orb_hint
+            categories: ["mindstorm_clues"]
+            sender_email: secret-services@masslavia.pg
+            recipient_emails: ["spinel", "malachite"]
+            subject: &lg_orb_clue_subject "Clue about the missing orb - The Loyd Georges affair"
+            body:
+                - &lg_orb_clue_intro "Agents, our close surveillance of Loyd Georges and his entourage is beginning to pay off; we have learnt that the gentleman had entrusted his orb to someone close to him. We have a clue about where this person lives:"
+                - "**he is said to live opposite a GigAchat Shopping Centre**"
+                - &lg_orb_clue_ending "This is obviously not enough for now, but we are counting on you to narrow down the location of this hiding place further."
+
+
+        -   id: dorian_initial_orb_hint
+            categories: ["mindstorm_clues"]
+            sender_email: secret-services@dorian-dukedom.pg
+            recipient_emails: ["topaz", "peridot"]
+            subject: *lg_orb_clue_subject
+            body:
+                - *lg_orb_clue_intro
+                - "**he is said to live in a street named \"Latourbière\"**"
+                - *lg_orb_clue_ending
+
+
+        -   id: lordanian_initial_orb_hint
+            categories: ["mindstorm_clues"]
+            sender_email: secret-services@lordania.pg
+            recipient_emails: ["garnet", "amethyst"]
+            subject: *lg_orb_clue_subject
+            body:
+                - *lg_orb_clue_intro
+                - "**he is said to live at number 556 in his street**"
+                - *lg_orb_clue_ending
+
+
+        -   id: magnus_initial_orb_hint
+            categories: ["mindstorm_clues"]
+            sender_email: manager@magnuscorp.pg
+            recipient_emails: ["opal"]
+            subject: "Result of your telecom investigation"
+            body: |
+                Dear Sir,
+
+                you had entrusted me with monitoring the communications of Loyd
+                Georges' manor, "just in case".
+
+                I do not have very sophisticated means in this field, but I was able to see several
+                incoming communications, at the weekend, coming from a **cluster of PangeaTelecom+ booths**,
+                in which city I unfortunately do not know.
+
+                Kind regards, *your devoted estate manager*.
+
+
+        -   id: cynthia_initial_orb_hint
+            categories: ["mindstorm_clues"]
+            sender_email: sylwie.lescusa@anthropia.pg
+            recipient_emails: ["cynthia"]
+            subject: "About what you confided to me..."
+            body: |
+                Hello Cynthia,
+
+                regarding what you mentioned the other time:
+
+                I've already chatted with Waden several times during the coffee break,
+                these last few days, and at no point did he mention **stays in Faeran**
+                at weekends... so as for those tickets found at his place, I don't know what to tell you.
+
+                Love, *Sylwie*
+
+
+        -   id: sabarith_services_initial_instructions
+            categories: ["mindstorm_clues"]
+            sender_email: secret-services@sabarim.pg
+            recipient_emails: ["obsidian"]
+            subject: "Memo to Sabarith state agents"
+            body: |
+                Agents, you are all currently assigned to particularly sensitive missions, so we wish you good luck in your undertakings.
+
+                Below is a memo submitted by our consul {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}, which will no doubt not please you.
+                We are counting on each of you to know how to arbitrate, situation by situation, between the duty of hierarchical subordination and serving the higher interest of the Sabarith nation.
+
+                *Reminder to the police, military, and secret intelligence forces of the land of Sabarim. In this period of electoral tension, it is of the utmost importance that the common people do not feel oppressed by the authorities in their places of free relaxation. We therefore count on you to keep away from taverns and gambling dens, even illegal ones, these bawdy outlets being after all harmless compared to what is at stake for national unity.*
+
+
+        -   id: cynthia_location_description
+            categories: ["mindstorm_clues"]
+            sender_email: "cynthia"
+            recipient_emails: ["loyd.georges", "emilos.loakim", "waden"]
+            subject: "My new base"
+            body: |
+                Evening, my scientists,
+
+                Seeing as this year I'm once again chaining international reports back to back (yesssss), I've just got myself a "minimalist" studio flat, in the Wetfeet Peninsulas right near Alifir. It's not very big (15 m²) and its windows only face one way, but at least I don't have a view of the horrible waste treatment plant behind.
+
+                I managed to move in quickly between two reports. I haven't yet had the chance to meet my neighbour on the left, but as for the one on the right, I'd have done better not to bother. He thought I'd come to sell him insurance, and I couldn't stop his rant before he slammed the door in my face.
+
+                Luckily, the lady downstairs is an outstanding pianist and singer; it makes for such a classy atmosphere when she gets going.
+
+                Looking forward to a little housewarming one of these days.
+
+                *Cynthia*
+            gamemaster_hints: "These various clues, combined with the drawing of the building, make it possible to know exactly where Cynthia lives."
+
+
+
+        ########## MESSAGES SENT DURING MURDER PARTY ###########
+
+
+        -   id: warning_about_anthropia_seizure
+            categories: ["mindstorm_clues"]
+            sender_email: system@anthropia.pg
+            recipient_emails: "[auction-list]@anthropia.pg"
+            subject: "Legal Notice on Anthropia Seizures"
+            body: |
+                Dear users of the portal,
+
+                as you know, the academic constellation of Pangea has historically always refused to hand over its
+                members' data to state authorities. However, the seriousness of certain recent cases,
+                as well as the increasingly threatening pressure we are under, have forced us to
+                change our position.
+
+                Should conclusive evidence be provided by the judicial authorities of a country, it will therefore be
+                possible for us to give them access to the data of an incriminated Anthropia account, which
+                will naturally include access to the accounts linked to it by a "Digital Friendship".
+
+                Please take note,
+
+                kind regards,
+
+                The Steering Committee of Anthropia
+
+
+        -   id: newspaper_call_for_scoops_towards_cynthia
+            categories: ["mindstorm_clues"]
+            sender_email: contact@sabarim-gazette.pg
+            recipient_emails: ["cynthia"]
+            subject: "We want a scoop"
+            body: |
+                Evening greetings, young and intrepid reporter,
+
+                we hear you were at THE Loyd Georges party, and that everything was already going haywire; we're counting on you to bring us back some big juicy scoops!
+
+                *The editorial team*
+
+
+        -   id: lordanian_drug_traffic_warning
+            categories: ["mindstorm_clues"]
+            sender_email: secret-services@lordania.pg
+            recipient_emails: ["garnet", "amethyst"]
+            subject: "Counter-productive drug trafficking detected"
+            body: |
+                Agents,
+
+                we have just discovered that Lordanian notables had set up a Zombifying Drug trafficking ring towards Sabarim, a ring partly infiltrated and hijacked by Akariths.
+
+                This mafia system is not the doing of our State, and it endangers our efforts to draw closer to Sabarim; so be on the alert in this matter, and do not hesitate to contribute to its destruction on the Sabarith side, should the opportunity arise, to demonstrate our goodwill.
+
+
+        -   id: black_market_offers
+            categories: ["mindstorm_clues"]
+            sender_email: black-market@business.pg
+            recipient_emails: ["[auction-list]@anthropia.pg"]
+            subject: "Tempting offers on the black market!"
+            body: |
+
+                Dear users of the Anthropia portal
+
+                For this first informal (and pleasantly tax-free) sale, here are our superb opportunities:
+
+                - 7 unpolished rubies, with a total estimated value of 245¤. Sale price: 450 kashes, in money only.
+
+                - 2 exceptional diamonds, with a total estimated value of 400¤. Sale price: 800 kashes, in money only.
+
+                - 1 ULTIMATE BANK SPIDER KIT licence (information on third parties' bank accounts). Sale price: 100 kashes, in money only.
+
+                - a high-tech hurricane lamp, amphibious and long-range. Sale price: 40 kashes, in money only.
+
+                - a short-range radioactivity detector. Sale price: 400 kashes in money, 150 in gems.
+
+                - a short-range chemical detector. Sale price: 500 kashes in money, 180 in gems.
+
+                - a short-range thermal detector. Sale price: 300 kashes in money, 130 in gems.
+
+                - One of the unusual multi-wood chests, with rusty ironwork, brought back by Loyd Georges' expedition. This one "fell off the back of a lorry" on the way. Sale price: 500¤, in gems only.
+
+                Let us know your wishes by return message, first come first served. Your purchases will be automatically debited and delivered to your Anthropia remote vault. If you own different types of gems, please tell us which ones to debit first.
+
+                We also have rare (and illicit) goods from all over the world: dog and goat skulls from Akaris, hallucinogenic mushroom bark, tarantula venoms... this pharmacopoeia is to be bought in person from our representative, who lives in a hamlet near Salima. Let us know your needs, and we will arrange a meeting with her.
+
+                Kind regards,
+
+                *The black market*
+
+
+        -   id: cynthia_trap_attempt
+            categories: ["mindstorm_clues"]
+            sender_email: anonymous@sabarim.pg
+            recipient_emails: ["cynthia"]
+            subject: "Fwd: email sent to the snoop"
+            body: |
+
+                Deer jurnalist,
+
+                we haz verry interresting infos for you, about a plan of atack against your love ones.
+
+                Meating tonite at midnite under the Rosace Bridge in Salima.
+
+                Come alone and unarmd PLZ
+
+                Sum freinds who wish you well
+
+
+        -   id: sabarith_services_instructions_about_voluto_affair_negotiation
+            categories: ["mindstorm_clues"]
+            sender_email: secret-services@sabarim.pg
+            recipient_emails: ["obsidian"]
+            subject: "Additional information on the Voluto Affair"
+            body: |
+                Agent Obsidian,
+
+                we managed to obtain a discreet judicial seizure of Prof. Voluto's Anthropia account, but it yielded nothing; he hardly ever used it. On the other hand, at the bottom of his household rubbish bin we found a fragment of a telegram, mentioning a "dangerous secret of the atoms", and sent by a certain Waden Shaw. We do not know whether other people had been taken into confidence by the late Prof. Voluto.
+
+                Be that as it may, either the people involved are also trying to sell these military-type discoveries to the highest bidder - in which case they will have to be tackled - or they are seeking to make them disappear out of pacifism - in which case they will have to be made to see reason: *scientific progress cannot be obstructed for long, and if we are not the first to master these innovations, another country will be, certainly far more bellicose and malevolent than ours.*
+
+                Good luck
+
+
+        -   id: warning_about_fake_proofs_targeting_magnis_family
+            categories: ["mindstorm_clues"]
+            sender_email: secret-services@masslavia.pg
+            recipient_emails: ["spinel", "malachite"]
+            subject: "Manipulation around the Magnus family"
+            body: |
+                Agents, a Sabarith informant has warned us that Consul Mundlish Odalisc, sensing his electoral defeat approaching, has slipped a compromising document into the lining of a suitcase belonging to the Magnus couple.
+
+                He no doubt hopes to have it fall, "accidentally", into the hands of the police forces.
+            gamemaster_hints: "Information that the Masslavians can use to negotiate, or simply to prevent the downfall of the Magnus family"
+
+
+        -   id: misc_sabarim_gazette_news_in_advance
+            categories: ["mindstorm_clues"]
+            sender_email: contact@sabarim-gazette.pg
+            recipient_emails: ["cynthia"]
+            subject: "Early release of information to collaborators"
+            body: |
+                Dear journalists and editors of the newspaper, here are a few recent news briefs that might find an echo in your own work.
+                By default, they will be included in tomorrow's edition.
+
+                - A municipal council meeting in the town of Agdar, near Alifir, degenerated into a brawl when an increase in the taxes on bread was voted.
+                  Since then, a certain "Captain Rodimir" has been occupying the premises, with an ever-growing crowd of peasants and workers.
+
+                - A missing person report has been filed in South Alifir by a landlord, Jak Kessler, worried at not having been paid for 2 months by his tenant, an "old gentleman of great dignity" going by the name of Maximus Hotulov. A radio alert will be issued in about {{ NB_HOURS }} hours, after the preliminary checks.
+
+                - An individual with a slight Midolian accent was put to flight while he was burgling the office of a thalassotherapy centre located in the misty mountains, in the east of Sabarim. The establishment has filed a complaint against persons unknown. A few files were stolen.
+
+            gamemaster_hints: "Clues for the coming popular revolt, the search for Voluto's laboratory, and the danger threatening the Magnus child"
+
+
+        -   id: hint_about_fusion_core_for_lordanians
+            categories: ["mindstorm_clues"]
+            sender_email: secret-services@lordania.pg
+            recipient_emails: ["garnet", "amethyst"]
+            subject: "Thermocyclic Fusion Core"
+            body: |
+                Agents,
+
+                for what it's worth, know that we came across an invoice indicating that a specimen of this rare apparatus had been sold, several years ago, to Prof. Voluto's department, at the Alifir Academy. But it seems to have disappeared from their premises.
+
+
+        -   id: hint_about_panorbium_fortuna_radioactivity
+            categories: ["mindstorm_clues"]
+            sender_email: "ernestdevilleneuve@anthropia.pg"
+            recipient_emails: ["emilos.loakim", "loyd.georges"]
+            subject: "Beware of the booklet's radiation"
+            body: |
+
+                Dear Prof. Loakim and Sir Loyd Georges,
+
+                I am still on the discreet journey back to Keroskia, but I must alert you urgently, as my suitcase tested positive for atomic radiation at the port of Kotlal. The lead sarcophagus in which the manuscript lay must have been notably radioactive, probably because of the surrounding granite rocks. It is therefore more than likely that the famous booklet is too, even if the radiation level should not be as high. Avoid carrying it on you.
+
+                kind regards,
+
+                *Ernest de Villeneuve*
+
+
+        -   id: sabarith_investigation_in_bars
+            categories: ["mindstorm_clues"]
+            sender_email: "secret-services@sabarim.pg"
+            recipient_emails: ["obsidian"]
+            subject: "Heavy-handed operation carried out"
+            body: |
+
+                Agent,
+
+                on your instructions, we carried out a heavy-handed raid on {{ TARGET_LOCATION }}.
+
+                We came across a group of shady individuals on the 3rd basement level, but they managed to escape through a tunnel.
+
+                We found a sketch of Salima, which we are sending you by courier, a few scribbles mentioning a "big job" in preparation, handguns, as well as several crates of industrial pocket watches. These watches contained at their centre sachets of the new Zombifying Drug; we are transferring a complete specimen to your Anthropia remote vault, should you wish to analyse it yourself.
+
+                We also discovered copies of letters, visibly the result of spying carried out
+                without leaving a trace inside a postal centre of Sabarim. Most of them
+                are in scattered pieces, or of no interest; we are analysing all this and will send you
+                the reconstructed copies that might have a link with our cases.
+
+                The police have been notified, the investigations continue, good luck to us all.
+
+            gamemaster_hints: "Behind the sketch, a coded message speaks of the infiltrations carried out in a network of taverns. See the \"Pocket watch\" item. The letters that will be reconstructed are those between the murderer and his sister."
+
+
+        -   id: sabarith_investigation_in_bars
+            categories: ["mindstorm_clues"]
+            sender_email: "secret-services@sabarim.pg"
+            recipient_emails: ["obsidian"]
+            subject: "Preparation of a simultaneous assault"
+            body: |
+
+                Agent,
+
+                following the various clues you uncovered, we have in our sights about {{ NUMBER }} "AuBonPichet" taverns spread across the metropolises of Sabarim, which are believed to be under the sway of the Akarith infiltrators.
+
+                The army cannot intervene in a domestic matter, and the police have been brought to heel by the consuls, so we are the only ones able to settle this problem before the "big job" mentioned by various sources takes place.
+
+                Our forces are insufficient to intervene in so many places at once, and we cannot risk seeing these fanatics scatter into the wild (especially through their cursed tunnels...).
+
+                So try to obtain the support of Oberon groups in the cities of **{{ 2_OR_3_SABARITH_CITIES }}**, so that they track the movements of the infiltrators when we strike somewhere. Or better still, if you can hire a company of **about a hundred mercenaries**, we will launch a synchronised assault with no risk of foul play. We of the Sabarith intelligence service unfortunately no longer have the ear of either of them, following the consuls' schemes, and some disastrously conducted operations in the past...
+
+                We await your feedback with a view to an assault.
+
+
+        -   id: warning_about_dorian_duke_blasphemy_for_masslavians
+            categories: ["mindstorm_clues"]
+            sender_email: "secret-services@masslavia.pg"
+            recipient_emails: ["spinel", "malachite"]
+            subject: "Let's compromise the Dorian Duke"
+            body: |
+                Agents, intercepted communications indicate that the journalist present at the manor keeps damning evidence against the Dorian Duke at her home, relating to a "desecration of a religious symbol".
+
+                 Now that Doria has chosen to betray the anti-Akarith alliance, this journalist must understand that sowing discord in this new "empire" is our best chance of saving peace for the rest of Pangea. It's up to you to act.
+            gamemaster_hints: "Late telegram, if Doria has joined the Akarith side"
+
+
+
+audio_messages:
+
+    # OTHER VOICES : Alice, Robot etc. #
+
+    "00_announce_private_lg_auction_event":
+        "title": >-
+            Special auction evening
+        "text": >-
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Antoine\This evening, in
+            Salima, a grand private auction evening will take place, led by the now famous Loyd Georges. Personalities
+            from all over Pangea are expected there. \pau=1000\ \audio=mix="news_aggressive_intro_012";volume=100\ \pau=7000\
+
+
+    "10_commercial_anounces_weird1":
+         "title": >-
+             Miscellaneous commercial announcements 1
+         "text": >-
+             \audio=mix="advert_synth_209";volume=100\ \pau=6000\ \audio=volume=25\ \pau=1000\ \vce=speaker=MargauxHappy\
+             Fellow alcoholics, the Purineur Brasserie welcomes you every day, non-stop, in Salima. Come and
+             enjoy its memorable brawls, its undrinkable brews, and a magnificent view
+             over the slums of Salima. The Purineur Brasserie: because back home, it's surely
+             worse! \pau=1000\ \vce=speaker=AntoineHappy\ Fancy some original trading, without the
+             hassle of taxation and morality? Then the black market is made for you. The black
+             market, now available on your Anthropia portal! \pau=1000\ \audio=volume=15\
+             \pau=1000\ \audio=volume=5\ \pau=500\
+
+
+    "14_announce_cynthia_status_and_midolian_crisis_beginning":
+         "title": >-
+              International briefs (Nalavut, Midolia and Sabarim)
+         "text": >-
+              \audio=play="jingle_chimes_006";volume=100\ \pau=10\ \vce=speaker=Claire\ Great excitement
+              in the small town of Kitiika, where the Nalavutian chiefs will gather in a few days' time, for
+              the start-of-century general assembly. Our special correspondent, Cynthia Loakim,
+              will be covering this major event.
+              \audio=play="jingle_chimes_004";\
+              Diplomatic incidents in Midolia. The Akarith Judicators have just expelled the Masslavian
+              ambassadors from their capital, accusing them of espionage, and of interference in internal affairs.
+              Masslavia formally denies these allegations.
+              \audio=play="jingle_chimes_004";\
+              Tension is palpable in Sabarim, where the results of the consular vote, marked
+              by a high abstention rate, are awaited. Many Salimians from working-class districts have taken to the
+              squares, defying the prefectoral bans, to chant anti-consular slogans.
+              \audio=play="jingle_chimes_006";volume=100\
+
+
+    "18_lg_aggression_announce":
+         "title": >-
+             Attack on a Salima public figure
+         "text": >-
+             \audio=mix="new_loud_strings_intro_013";volume=100\ \pau=4000\ \pau=4000\ \vce=speaker=Antoine\
+             Breaking news from Salima, where we have just been told of the attack on the famous Loyd Georges,
+             the amateur archaeologist whose expedition to Midolia made headlines. Loyd Georges has been hospitalised,
+             and the police, on site in the person of Inspector Shark, are said to be questioning a dozen witnesses at this very moment.
+             \audio=mix="new_loud_strings_intro_013";volume=100\ \pau=4000\ \pau=5000\
+
+
+    "20_news_council_akaris_and_panorbium_fortuna_discovery":
+        "title": >-
+            Akarith and Keroskian news
+        "text": >-
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Bruno\In
+            today's international news: the Order of the Akarith Judicators has just gone into secret
+            council, in the Cloud Citadel. Among the topics to be discussed: "will there be
+            spiders in the cosmos of the Yods"; "is transfiliation orthodox";
+            and "is the end of time imminent". As a reminder, transfiliation is a doctrine
+            asserting that other peoples could peacefully join the holy empire of the
+            Akariths, and thus become their equals, instead of remaining eternally inferior to them.
+            \pau=2000\
+            Meanwhile, in Keroskia, information leaks are multiplying about the archaeological dig led by
+            Professor Emilos Loakim, a friend of the famous Loyd Georges. The professor is said to have unearthed a copy
+            of the legendary Panorbium Fortuna, a mystical grimoire detailing how the Divine Orbs
+            would give the Akariths power over Pangea. The person concerned denies having discovered anything
+            at all, and the searches carried out by the Slavinkian army have come to nothing.
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=7000\
+
+
+    "24_sabarim_election_results":
+         "title": >-
+             Results of the Sabarith consular elections
+         "text": >-
+             \audio=mix="news_bass_full_042";volume=120\ \pau=5000\ \audio=volume=40\ \pau=1000\ \vce=speaker=Margaux\
+             The counting is over in Sabarim, and it is with a large lead that the
+             three new consuls have been elected; they will take office tomorrow. They are Vik Leydelass for
+             the Consulate of Salima, the outgoing consul Ouidan Jelen for that of Cazoar, and the Lordanian-Sabarith
+             Lydia Magnus for that of Alifir.
+             \pau=3000\ \audio=volume=30\
+             Beware, however: one of the ousted consuls, Mundlish Odalisc, has denounced electoral fraud on the part
+             of Lydia Magnus, and demanded a new vote for the Consulate of Alifir.
+             \pau=3000\ \audio=volume=10\ \pau=2000\
+
+
+    "30_commercial_anounces_weird2":
+         "title": >-
+             Miscellaneous commercial announcements 2
+         "text": >-
+             \audio=mix="advert_guitar_long_107";volume=100\ \pau=12000\ \audio=volume=25\ \pau=1000\ \vce=speaker=Justine\
+             Tired of lugging kilos and kilos of bottled mineral water home every week? Then
+             Doctor Shamaz, inventor of genius, has the solution to your problem. Contact him to
+             find out more! \pau=1000\ \vce=speaker=Bruno\ The Au Bon Pichet tavern network, with
+             its 1,238 establishments, welcomes you every day in Sabarim to taste cocktails
+             from the ends of the earth. See you very soon around our tables! \pau=1000\ \audio=volume=15\
+             \pau=500\ \audio=volume=5\ \pau=500\
+
+
+    "34_warning_message_about_xylitol":
+         "title": >-
+             Warnings about Xylitol and the Zombifying Drug
+         "text": >-
+             \audio=mix="entertainment_strings_155";volume=120\ \pau=5000\ \audio=volume=20\ \vce=speaker=antoinesad\ For
+             animal lovers, a spotlight on a danger threatening our faithful canine companions. The xylitol
+             contained in many sweets, or in chewing gum, is very toxic for dogs. Above all, do not
+             let them eat any, and call the nearest poison control centre if it happens.
+             \pau=1500\
+             Meanwhile, the "zombifying drug" continues to wreak havoc among the common people of Sabarim. Some experts believe
+             that it was introduced by sects to manipulate individuals more easily. Be that as it may,
+             raise the alarm if your loved ones start behaving in an abnormally apathetic way.
+             \pau=1000\ \audio=volume=15\ \pau=500\ \audio=volume=5\ \pau=500\
+
+
+    "38_lydia_negotiation_treaty_with_akaris":
+        "title": >-
+            Negotiation treaty between a Sabarith consular candidate and Akaris
+        "text": >-
+             \audio=mix="news_bass_full_042";volume=120\ \pau=5000\ \audio=volume=40\ \pau=1000\ \vce=speaker=Anais\
+             The news is making waves in business circles: Lydia Magnus, candidate for one of the consulates of Sabarim, is said to have signed a negotiation contract with the highly imperialist Akaris, for a very promising tar sands deposit. The other countries of Midolia are up in arms against this collusion, deemed irresponsible.
+             \pau=3000\ \audio=volume=30\
+
+    "40_alliance_against_akaris":
+         "title": >-
+             Return of the Freedmen's Front in Midolia
+         "text": >-
+             \audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\
+             \vce=speaker=Julie\ There is a wind of déjà vu blowing in Midolia, where the State of Heliossar has called on
+             neighbouring countries to sign a mutual assistance treaty, in order to weigh against the Akarith threat.
+             Thelassar and Masslavia have responded favourably, but Doria has called for restraint,
+             indicating that this type of initiative would only fan regional tensions.
+             \pau=1000\ \audio=volume=15\ \pau=1000\ \audio=volume=5\ \pau=1000\
+
+
+    "44_council_akaris_first_impressions":
+        "title": >-
+            First news from the Akarith council
+        "text": >-
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Antoine\
+            In Akaris, Archdeacon Baazel has decided to grant a short interview to the foreign press.
+            He asserts in it that the first hearings, on the highly controversial theological question of
+            transfiliation, have yielded {{ PUT RESULT HERE }}.
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=6000\
+
+
+    "48_sabarim_riots":
+        "title": >-
+            Riots in Sabarim
+        "text": >-
+            \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\
+            \pau=2000\ \vce=speaker=Antoine\ Good evening everyone. These are grave times. The land of Sabarim is
+            in the grip of serious unrest. For this edition of the national news, we go
+            straight over to our special correspondent in Salima! \pau=1000\ \vce=speaker=Julie\ Indeed,
+            numerous demonstrations by illiterates are taking place in several cities across the country, and the
+            police are trying to put down what could well turn into a wave of riots. The streets
+            are not safe; we advise the inhabitants of Salima not to leave their homes.
+            \pau=1000\ \audio=play="new_orchestra_hits_X_ending_008";volume=120\
+
+
+    "50_spy_unmasked_in_sabarim":
+         "title": >-
+             Secret agent unmasked in the Loyd Georges affair
+         "text": >-
+             \audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\
+             \vce=speaker=Julie\ The outcome is approaching in the case of the attack on Loyd Georges in Sabarim. One of the
+             participants in the auctions, who was passing himself off as the respectable X, has been unmasked as being in reality
+             agent X, working on behalf of the secret services of X. He has been charged with espionage, invasion
+             of privacy, X and X. Armed with this new evidence, the investigation continues. \pau=1000\
+
+
+    "52_ormh_university_discovery":
+         "title": >-
+             Major scientific discovery in Nalavut
+         "text": >-
+             \audio=mix="new_loud_strings_intro_013";volume=100\ \pau=4000\ \pau=4000\ \vce=speaker=Antoine\
+             The University of Omrh, in Nalavut, has disclosed the results of its research on the relationship between energy and matter.
+             A single formula would suffice to account for it: E = MC2.
+             If this work is confirmed, a scientific revolution is surely under way.
+             The Alifir Academy, which was also working on this subject, has made no comment for the moment.
+             \audio=mix="new_loud_strings_intro_013";volume=100\ \pau=4000\ \pau=5000\
+
+
+    "54_robbing_in_some_location":  # e.g. burglary of Cynthia's flat
+        "title": >-
+            Burglary
+        "text": >-
+            \audio=mix="news_strings_background_loop_016";volume=100\ \pau=4000\ \audio=volume=25\ \pau=1000\ \vce=speaker=Anais\
+            A burglary, carried out by professionals, has just struck a peaceful district of the town of {{CITY }}.
+            {{ DESCRIBE_EVENT }}
+            \pau=1000\
+
+
+    "60_worrisome_disappearance_in_alifir":
+         "title": >-
+             Suspicious disappearance in South Alifir
+         "text": >-
+             \audio=mix="news_drums_intro_021";volume=100\ \pau=5000\ \pau=5000\ \pau=5000\ \pau=2000\
+             \vce=speaker=Julie\ A missing person report has been filed in South Alifir
+             by a landlord, Jak Kessler, worried at not having been paid for 2 months by his
+             tenant, an "old gentleman of great dignity" going by the name of Maximus Hotulov.
+             Anyone with information on this matter is invited to contact the local judicial
+             authorities.\pau=1000\
+
+
+    "64_khaal_abduction_attempt":
+         "title": >-
+             Attack on a thalassotherapy centre
+         "text": >-
+             \audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\
+             \vce=speaker=Julie\
+             In Sabarim, the situation is very confused near the eastern border, where various groups of assailants
+             exchanged gunfire in a spa establishment. Infiltrated Akariths,
+             and renegade police officers, are said to have taken part in this war scene, before scattering into the forest.
+             The beginnings of a fire were brought under control, and most of the guests have reached Alifir, but a lady and a
+             child are still reported missing.
+             \pau=1000\ \audio=volume=15\ \pau=1000\ \audio=volume=5\ \pau=1000\
+
+
+    "64_council_akaris_final_results":
+        "title": >-
+            Final decision of the Akarith council
+        "text": >-
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Bruno\
+            In Akaris, Archdeacon Baazel has just proclaimed the first decision taken in the secrecy of the council. \pau=300\
+            "yes, transfiliation is indeed an orthodox doctrine, and the Dorian people are called to join the cosmic
+            empire of the Yods by merging with Akaris". \pau=300\
+            The reactions of the Dorian Duke are awaited with the greatest impatience.
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=6000\
+
+
+    "65_lydia_mining_area_sale":
+        "title": >-
+            Sale of a mining deposit in Austrion
+        "text": >-
+             \audio=mix="news_bass_full_042";volume=120\ \pau=5000\ \audio=volume=40\ \pau=1000\ \vce=speaker=Anais\
+             We have just learnt that the candidate for the Consulate of Alifir, Lydia Magnus, has ceded to the land of {{ COUNTRY }}
+             the tar sands deposit she owned in Austrion, for the tidy sum of {{ PRICE }} kashes.
+             {{ REACTIONS }}
+             \pau=3000\ \audio=volume=30\
+
+
+    "68_treaty_between_lordania_and_sabarim_and_flying_fortress":
+        "title": >-
+           Historic military agreement between Lordania and Sabarim
+        "text": >-
+            \audio=mix="new_hits_intro_loop_014";volume=120;repeat=on\ \pau=5000\ \pau=5000\ \audio=volume=25\
+            \vce=speaker=Antoine\ Nobody expected it, but the very neutral land of Sabarim has just signed a military agreement with Lordania. One of the Lordanian flying fortresses, Xépha Stella, immediately took off to reach its new home aerodrome, near Alifir.
+            \pau=1000\ \audio=volume=10\ \pau=1000\
+
+
+    "70_sabarim_military_airport_occupied_by_captain_rodimir":
+        "title": >-
+           Popular occupation of a Sabarith military aerodrome
+        "text": >-
+            \audio=mix="new_hits_intro_loop_014";volume=120;repeat=on\ \pau=5000\ \pau=5000\ \audio=volume=25\
+            \vce=speaker=Antoine\ Notice to the Sabarith population. A large-scale uprising has taken place near
+            Alifir, where a dense crowd has invaded the runways of the military aerodrome, by far the largest in the country.
+            Their leader, a certain Captain Rodimir, demands to parley with the future consuls.
+            The military general staff has called on all parties to show restraint.
+            \pau=1000\ \audio=volume=10\ \pau=1000\
+
+
+    "74_dorian_duke_treason":
+         "title": >-
+             Annexation of the Dorians by Akaris
+         "text": >-
+             \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\
+             \pau=2000\ \vce=speaker=Antoine\ Good evening everyone. These are grave times. The land of Sabarim is
+             in the grip of serious unrest. For this edition of the national news, we go
+             straight over to our special correspondent in Salima! \pau=1000\ \vce=speaker=Julie\ Indeed,
+             numerous demonstrations by illiterates are taking place in several cities across the country, and the
+             police are trying to put down what could well turn into a wave of riots. The streets
+             are not safe; we advise the inhabitants of Salima not to leave their homes.
+             \pau=1000\ \pau=1500\
+             \audio=play="new_orchestra_hits_X_ending_008";volume=120\
+
+
+    "78_call_for_akaris_imperial_battle":
+         "title": >-
+             Akaris' call to its faithful at home and abroad
+         "text": >-
+             \audio=mix="news_bass_full_042";volume=120\ \pau=5000\ \audio=volume=40\ \pau=1000\ \vce=speaker=Manon\
+             Message from holy Akaris to all its faithful, residing both in their
+             motherland and among the bathars. In these days, which are the last of our
+             time, stand ready to act according to the eschatological path that the Divine Panorbium
+             Fortuna will show us, when soon our current undertakings have borne fruit.
+             \pau=1500\ \audio=volume=10\ \pau=1000\
+
+
+    "80_serious_events_and_wars":
+         "title": >-
+             Serious events in Midolia
+         "text": >-
+             \audio=mix="news_intense_full_loop_014";volume=100;repeat=on\ \pau=5000\ \pau=5000\ \pau=4000\ \audio=volume=25\
+             \pau=1500\ \vce=speaker=Claire\
+             Thunderclap in Midolia, where the Akarith army has just launched a land offensive on the SOUTHERN
+             border, against the land of XXX. The alarm bells are ringing in the neighbouring countries, where all able-bodied forces have been
+             mobilised to defend the borders and prepare a counter-offensive.
+             \pau=1000\ \audio=volume=10\ \pau=1000\
+
+
+    "84_akarith_attacks_in_salima":
+         "title": >-
+             Attacks by infiltrated Akariths in Sabarim
+         "text": >-
+             \audio=mix="news_intense_full_loop_014";volume=100;repeat=on\ \pau=5000\ \pau=5000\ \pau=4000\ \audio=volume=25\
+             \pau=1500\ \vce=speaker=Julie\
+             A dozen Akariths illegally infiltrated into Sabarim have just attacked an arms depot, near Salima.
+             The police forces seem overwhelmed by events.
+             \pau=1000\ \audio=volume=10\ \pau=1000\
+
+
+    "88_death_of_loyd_georges":
+        "title": >-
+            Grim news from the Salima hospice
+        "text": >-
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Bruno\
+            We are saddened to learn that the famous Loyd Georges, Sabarith archaeologist,
+            has succumbed to his injuries, following his attack in murky circumstances. The
+            Minister of Justice has given assurances that this affair would be cleared up, and the
+            culprits mercilessly punished. \audio=mix="news_aggressive_intro_012";volume=100\ \pau=7000\

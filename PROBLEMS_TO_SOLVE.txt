@@ -464,7 +464,7 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
 
 - Ernest's surname is spelled "De Villeneuve" in the panorbium_fortuna_search mission briefing, but
   "de Villeuneuve" in the gamemaster manual (same in French). => Pick one spelling in both languages.
-  => RECOMMENDATION: "Villeneuve": the email (messaging_core.yaml:130 ernestdevilleneuve@), anthropia_game_data_overrides.yaml:786/797 and all
+  => RECOMMENDATION: "Villeneuve": the email (messaging_core.yaml:130 ernestdevilleneuve@), anthropia_game_data_overrides_fr.yaml:786/797 and all
      player-facing briefings use it; "Villeuneuve" is only in gamemaster_manual_mindstorm_{fr,en}.rst:355 -> fix there, and drop the glossary
      entry preserving the typo (l.2065-2067, merge into l.2092-2093). Optionally unify the particle to lowercase "de" in
      missions/panorbium_fortuna_search/generic_mission_briefing_{fr,en}.rst:11/13 and mercenaries_clues_{fr,en}.rst:10/17.
@@ -680,7 +680,7 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
   => DONE (cba1e14..b794ef8): "par ses privilèges"/"by its privileges" dropped (obsidian_missions_{fr,en}.rst:19); "Université d'Omrh" in the three Waden FR files
 
 - FR style in Mindstorm sources: unaccented capitals "Etat" (26 occurrences, e.g. gamemaster_manual_mindstorm_fr.rst:21/160), "A vous"
-  (npcs/rydji_sheet_fr.rst:44, anthropia_game_data_overrides.yaml:853), "Elixir" without É (18, e.g. gamemaster_manual_mindstorm_fr.rst:372;
+  (npcs/rydji_sheet_fr.rst:44, anthropia_game_data_overrides_fr.yaml:853), "Elixir" without É (18, e.g. gamemaster_manual_mindstorm_fr.rst:372;
   the glossary also writes "Elixir Berserk"); "maître du jeu" (10) vs "maître de jeu" (18, both in game_rules_fr.rst:35); "bonhommie"
   (npcs/akarith_ambassador_sheet_fr.rst:8, -> "bonhomie"); lowercase noun "obérons" (e.g. gamemaster_manual_mindstorm_fr.rst:98/183) while
   the glossary (l.1933) capitalises the noun "Obéron".
@@ -757,7 +757,7 @@ Doubts from the third full review (by game area)
      text is easy to change. The spot writes it lowercase, "la brasserie du purineur".
   => FINAL: First recommendation as corrected by the second: "Brasserie du Purineur"/"the Purineur Brasserie" everywhere (GM manual
      {fr,en}:168-169, checklist{,_en}:145, glossary l.1717-1719). No voiced MP3 exists, only TTS markup over the jingle
-     advert_synth_209; Mindstorm plays the overrides copy of the spot (anthropia_game_data_overrides.yaml:871-880), not
+     advert_synth_209; Mindstorm plays the overrides copy of the spot (anthropia_game_data_overrides_fr.yaml:871-880), not
      radio_spots.yaml:33-35 (Auction copy). Overrides l.222 "bar le Purineur" is a player-visible world_scan result, not GM-only:
      change it too.
   => DONE (0854ccf, 2e8abf6): "Brasserie du Purineur"/"Purineur Brasserie" in GM manual {fr,en}:168-169, checklist{,_en}:145 and overrides l.222; glossary rows merged into one.
@@ -979,7 +979,7 @@ Doubts from the third full review (by game area)
   => DONE (cba1e14..b794ef8): macro parameter solution of the FINAL: {% macro maupertuis_archives_quick_tour(underline="~") %} with heading underline {{ underline * 55 }} (complement_for_diakons_{fr,en}.rst), dragons_role_{fr,en}.rst:170-183 replaced by <{ maupertuis_archives_quick_tour underline="=" }/>; Archives builds OK in both languages
 
 - GM manual: "antique canister" (~line 431) may be the "Tectonic Canister" item, and "Akarith grimoire (sold at auction)" (~line 445) may be the "Akarith Scroll" auction item. => Check, and use the item names if so.
-  => RECOMMENDATION: (Mindstorm GM manual l.385/396.) Canister: yes, it is the "Bonbonne tectonne" lot D (anthropia_game_data_overrides.yaml:361-365,
+  => RECOMMENDATION: (Mindstorm GM manual l.385/396.) Canister: yes, it is the "Bonbonne tectonne" lot D (anthropia_game_data_overrides_fr.yaml:361-365,
      game_items.yaml:131-139; glossary "Tectonic Canister") -> FR "la bonbonne antique (la « Bonbonne tectonne ») vendue aux enchères" /
      EN "the antique canister (the \"Tectonic Canister\" lot) sold at auction". Grimoire: NOT the Akarith Scroll (void_scroll, absent from the
      Mindstorm auction) but lot F sacred_book = "Livre Sacré Yodique" (overrides l.371-374, game_items.yaml:387-395, "grimoire de runes akarites")
