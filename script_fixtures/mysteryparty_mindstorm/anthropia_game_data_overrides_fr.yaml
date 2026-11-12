@@ -208,7 +208,7 @@ abilities:
             scanning_sets: {}
 
             item_locations:
-                amphora:  # leads to akarith sect inside Salima, and anonymous post office box near manor
+                amphora:  # leads to the akarith sect dens (Café Bargarac in Alifir, Purineur Brasserie in Salima), and the anonymous post office box near the manor (Hamlet of Wiskons)
                     scanning_set: null
                     message: |
                         9656 échos, répartis sur tout Pangéa, ont été renvoyés pour les clones de cet artefact.
@@ -216,7 +216,7 @@ abilities:
                         La plupart des échos sont très faibles, et concernent seulement 1 ou 2 exemplaires stockés
                         au même endroit.
 
-                        Deux groupes de localisation assez forts ont cependant émergé dans le pays de Sabarim :
+                        Trois groupes de localisation assez forts ont cependant émergé dans le pays de Sabarim :
 
                         - coordonnées XJ16 à Alifir, aux alentours du Café Bargarac
                         - coordonnées LK89 à Salima, aux alentours de la Brasserie du Purineur
@@ -822,7 +822,7 @@ messaging:
             gamemaster_hints: "Derrière l'esquisse, un message codé parle des infiltrations effectuées dans un réseau de tavernes. Voir l'objet \"Montre à gousset\". Les lettres qui seront reconstituées sont celles entre le meurtrier et sa soeur."
 
 
-        -   id: sabarith_investigation_in_bars
+        -   id: sabarith_simultaneous_assault_preparation
             categories: ["mindstorm_clues"]
             sender_email: "secret-services@sabarim.pg"
             recipient_emails: ["obsidian"]
