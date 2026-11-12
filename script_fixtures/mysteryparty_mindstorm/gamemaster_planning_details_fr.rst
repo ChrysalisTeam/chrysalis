@@ -354,7 +354,7 @@ HEURE 3:30
 
 - SHARK : mini-interrogatoires supplémentaires et mises en accusation, selon les dénonciations et preuves récoltées.
 
-- SPOTS RADIO : "Occupation populaire d'un aérodrome militaire sabarite", [potentiellement] Rattachement des Doriens à l'Akarie (ou au contraire rébellion)
+- SPOTS RADIO : "Occupation populaire d'un aérodrome militaire sabarite", [selon la décision du grand concile] "Rattachement des Doriens à l'Akarie" (spot 74) ou au contraire "Ralliement de la Dorie à la coalition anti-akarite" (spot 76)
 
 - le cuisinier va voir Opal (si ce n'est déjà fait), et lui dit que Loyd Georges avait parlé d'un cocktail très spécial qu'il aurait sans doute à préparer ; il oriente Opal vers la vieille voisine si des ingrédients manquent ; il va voir le MJ avec les ingrédients si Opal lui a tout fourni
 

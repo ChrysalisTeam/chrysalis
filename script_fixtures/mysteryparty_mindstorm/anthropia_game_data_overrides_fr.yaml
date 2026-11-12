@@ -1123,17 +1123,33 @@ audio_messages:
             \pau=1000\ \audio=volume=10\ \pau=1000\
 
 
-    "74_dorian_duke_treason":
+    "74_dorian_duke_treason":  # if Doria joins Akaris (see "The great council's decision" in the GM manual)
          "title": >-
              Rattachement des Doriens à l'Akarie
          "text": >-
              \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\
-             \pau=2000\ \vce=speaker=Antoine\ Bonsoir à tous. L'heure est grave. Le pays de Sabarim est
-             en proie  à des grands troubles, Pour cette édition du journal national, nous retrouvons
-             tout de suite notre envoyée spéciale à Salima! \pau=1000\ \vce=speaker=Julie\ En effet,
-             de nombreuses manifestations d'analphabêtes ont lieu dans plusieurs villes du pays, la
-             police tente de reprimer ce qui pourrait bien tourner à un mouvement d'émeutes.Les rues de
-             sont pas sures, Nous conseillons aux habitants de Salima de ne pas quitter leur logements.
+             \pau=2000\ \vce=speaker=Antoine\ Bonsoir à tous. Coup de tonnerre en Midolie : à l'issue du grand
+             concile d'Akaris, le duc dorien vient d'annoncer le rattachement de la Dorie à la sainte Akarie.
+             \pau=1000\ \vce=speaker=Julie\ Les modalités de cette union, fixées par les judicateurs selon la
+             doctrine de la transfiliation, n'ont pas encore été rendues publiques. Si des foules en liesse
+             ont envahi les rues de plusieurs villes doriennes, une partie de la population et des élites
+             militaires ne cache pas son inquiétude. En Masslavie, l'état-major a placé ses troupes en alerte
+             maximale le long de la frontière.
+             \pau=1000\ \pau=1500\
+             \audio=play="new_orchestra_hits_X_ending_008";volume=120\
+
+
+    "76_dorian_duke_rebellion":  # if Doria joins the anti-Akarith coalition instead (see "The great council's decision" in the GM manual)
+         "title": >-
+             Ralliement de la Dorie à la coalition anti-akarite
+         "text": >-
+             \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\
+             \pau=2000\ \vce=speaker=Antoine\ Bonsoir à tous. Revirement spectaculaire en Midolie : alors que
+             tous le pensaient acquis à l'Akarie, le duc dorien vient d'annoncer que la Dorie rejoignait la
+             coalition midolienne anti-akarite. \pau=1000\ \vce=speaker=Julie\ Les judicateurs akarites ont
+             aussitôt dénoncé une trahison impie. Dans plusieurs villes doriennes, des akarites infiltrés et
+             des partisans du rattachement ont déclenché des troubles, que les forces de l'ordre peinent à
+             contenir. Les chancelleries de la coalition saluent, quant à elles, un sursaut historique.
              \pau=1000\ \pau=1500\
              \audio=play="new_orchestra_hits_X_ending_008";volume=120\
 

@@ -1123,17 +1123,33 @@ audio_messages:
             \pau=1000\ \audio=volume=10\ \pau=1000\
 
 
-    "74_dorian_duke_treason":
+    "74_dorian_duke_treason":  # if Doria joins Akaris (see "The great council's decision" in the GM manual)
          "title": >-
              Annexation of the Dorians by Akaris
          "text": >-
              \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\
-             \pau=2000\ \vce=speaker=Antoine\ Good evening everyone. These are grave times. The land of Sabarim is
-             in the grip of serious unrest. For this edition of the national news, we go
-             straight over to our special correspondent in Salima! \pau=1000\ \vce=speaker=Julie\ Indeed,
-             numerous demonstrations by illiterates are taking place in several cities across the country, and the
-             police are trying to put down what could well turn into a wave of riots. The streets
-             are not safe; we advise the inhabitants of Salima not to leave their homes.
+             \pau=2000\ \vce=speaker=Antoine\ Good evening everyone. A bombshell in Midolia: at the close of the
+             great council of Akaris, the Dorian Duke has just announced that Doria is joining holy Akaris.
+             \pau=1000\ \vce=speaker=Julie\ The terms of this union, set by the Judicators according to the
+             doctrine of transfiliation, have not yet been made public. While jubilant crowds have poured into
+             the streets of several Dorian cities, part of the population and of the military elite make no
+             secret of their concern. In Masslavia, the general staff has put its troops on maximum alert
+             along the border.
+             \pau=1000\ \pau=1500\
+             \audio=play="new_orchestra_hits_X_ending_008";volume=120\
+
+
+    "76_dorian_duke_rebellion":  # if Doria joins the anti-Akarith coalition instead (see "The great council's decision" in the GM manual)
+         "title": >-
+             Doria joins the anti-Akarith coalition
+         "text": >-
+             \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\
+             \pau=2000\ \vce=speaker=Antoine\ Good evening everyone. A spectacular U-turn in Midolia: although
+             everyone believed him won over to Akaris, the Dorian Duke has just announced that Doria is joining
+             the anti-Akarith Midolian coalition. \pau=1000\ \vce=speaker=Julie\ The Akarith Judicators
+             immediately denounced an unholy betrayal. In several Dorian cities, infiltrated Akariths and
+             supporters of the annexation have stirred up unrest, which the police are struggling to contain.
+             The chancelleries of the coalition, for their part, hail a historic awakening.
              \pau=1000\ \pau=1500\
              \audio=play="new_orchestra_hits_X_ending_008";volume=120\
 

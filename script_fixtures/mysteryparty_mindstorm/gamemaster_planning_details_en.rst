@@ -354,7 +354,7 @@ HOUR 3:30
 
 - SHARK: additional mini-interrogations and accusations, according to the denunciations and evidence gathered.
 
-- RADIO SPOTS: "Popular occupation of a Sabarith military aerodrome", [potentially] Annexation of the Dorians by Akaris (or on the contrary rebellion)
+- RADIO SPOTS: "Popular occupation of a Sabarith military aerodrome", [depending on the great council's decision] "Annexation of the Dorians by Akaris" (spot 74) or on the contrary "Doria joins the anti-Akarith coalition" (spot 76)
 
 - the cook goes to see Opal (if not already done), and tells him that Loyd Georges had spoken of a very special cocktail that he would probably have to prepare; he directs Opal to the old neighbour if ingredients are missing; he goes to see the GM with the ingredients if Opal has provided him with everything
 
