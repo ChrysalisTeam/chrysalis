@@ -21,7 +21,7 @@ Note that gems can be spent piecemeal on said portal, in proportion to the estim
 
    *
      -
-       ..  image:: ../../{{ item_data.image }}
+       ..  image:: ../../alternate_reality_game_auction/{{ item_data.image }}
          :align: center
          :width: 3cm
      - **{{ item_data.title }}**

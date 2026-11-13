@@ -21,7 +21,7 @@ Notez que les gemmes peuvent être dépensées au détail sur ledit portail, au 
 
    *
      -
-       ..  image:: ../../{{ item_data.image }}
+       ..  image:: ../../alternate_reality_game_auction/{{ item_data.image }}
          :align: center
          :width: 3cm
      - **{{ item_data.title }}**
