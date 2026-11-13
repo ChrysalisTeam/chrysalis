@@ -8,7 +8,7 @@ Schedule of the interview day
 Here are the arrival times that were planned for the various interviews of the previous day.
 
 {% macro lg_interviews_planning() %}
-- {% symbol "11:00" for "amethyst" %}: {{character_properties.amethyst.official_name}} (Amethyst)
+- {% symbol "11:00" for "lg_meeting_time_for_amethyst" %}: {{character_properties.amethyst.official_name}} (Amethyst)
 - {% symbol "12:00" for "lg_meeting_time_for_malachite" %}: {{character_properties.malachite.official_name}} (Malachite)
 - {% symbol "15:00" for "lg_meeting_time_for_peridot_and_topaz" %}: {{character_properties.peridot.official_name}} (Peridot) and {{character_properties.topaz.official_name}} (Topaz)
 - {% symbol "16:00" for "lg_meeting_time_for_spinel" %}: {{character_properties.spinel.official_name}} (Spinel)

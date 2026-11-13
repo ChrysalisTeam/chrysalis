@@ -8,7 +8,7 @@ Programme de la journée des entretiens
 Voici les heures d'arrivées qui furent planifiées pour les différents entretiens de la veille.
 
 {% macro lg_interviews_planning() %}
-- {% symbol "11h" for "amethyst" %} : {{character_properties.amethyst.official_name}} (Amethyst)
+- {% symbol "11h" for "lg_meeting_time_for_amethyst" %} : {{character_properties.amethyst.official_name}} (Amethyst)
 - {% symbol "12h" for "lg_meeting_time_for_malachite" %} : {{character_properties.malachite.official_name}} (Malachite)
 - {% symbol "15h" for "lg_meeting_time_for_peridot_and_topaz" %} : {{character_properties.peridot.official_name}} (Peridot) et {{character_properties.topaz.official_name}} (Topaz)
 - {% symbol "16h" for "lg_meeting_time_for_spinel" %} : {{character_properties.spinel.official_name}} (Spinel)

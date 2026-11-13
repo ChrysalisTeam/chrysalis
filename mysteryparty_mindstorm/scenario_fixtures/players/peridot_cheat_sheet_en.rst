@@ -29,7 +29,7 @@
 {% macro peridot_and_topaz_meeting_with_lg_summary() %}
 - the day before:
 
-  - together with your partner, you met Loyd Georges at {% symbol "15:00" for "lg_meeting_time_for_peridot_topaz" %}, in his manor
+  - together with your partner, you met Loyd Georges at {% symbol "15:00" for "lg_meeting_time_for_peridot_and_topaz" %}, in his manor
   - wary at first, he ended up swallowing your tall tales, but alas taught you nothing you did not already know
   - you then spent a colourful evening at the {% symbol "Luxor Excelcis" for "peridot_topaz_alibi_club_name" %} club in Salima, still with your partner {% fact "peridot_topaz_alibi_is_strong" as author %}
 {% endmacro %}

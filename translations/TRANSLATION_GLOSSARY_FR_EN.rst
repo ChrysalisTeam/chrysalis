@@ -4933,9 +4933,6 @@ Jinja symbol display values
    * - ``alphonse_alibi_bar``
      - La Murge de Salima
      - La Murge de Salima
-   * - ``amethyst``
-     - 11h
-     - 11:00
    * - ``amethyst_hostel_room``
      - 8e étage de l'Hotel SalimaGlobeCenter
      - 8th floor of the SalimaGlobeCenter Hotel
@@ -5197,9 +5194,6 @@ Jinja symbol display values
    * - ``lg_meeting_time_for_peridot_and_topaz``
      - 15h
      - 15:00
-   * - ``lg_meeting_time_for_peridot_topaz``
-     - 15h
-     - 15:00
    * - ``lg_meeting_time_for_spinel``
      - 16h
      - 16:00
@@ -5431,6 +5425,12 @@ Jinja symbol display values
    * - ``potion_de_guerison`` / ``healing_potion``
      - potion de régénération
      - regeneration potion
+   * - ``retrocamera_example_end_time``
+     - 17h
+     - 17:00
+   * - ``retrocamera_example_start_time``
+     - 16h
+     - 16:00
    * - ``ring_amplificans_name``
      - Bague Amplificans
      - Amplificans Ring

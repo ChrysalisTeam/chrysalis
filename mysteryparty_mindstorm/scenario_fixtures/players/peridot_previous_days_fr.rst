@@ -7,7 +7,7 @@
 
 Votre enquête piétinait depuis quelques jours, et vous étiez sur le point d’aller boire un coup au pub du coin pour voir si l’inspiration vous venait, quand Loyd Georges vous propose un entretien en tête-à-tête, annonçant avoir des "informations importantes" à vous communiquer. Voilà qui est inespéré.
 
-Comme votre collègue – ou plutôt, sa couverture – a également été convié de son côté à un entretien, vous décidez de vous présenter tous les deux, en construisant une histoire d’amitié "à la Oreste et Pilade" entre vous ; ces anciennes mythologies sont, après tout, très à la mode chez les élites de Sabarim. **Vous vous rendez donc chez votre hôte pour {% symbol "15h" for "lg_meeting_time_for_peridot_topaz" %}.**
+Comme votre collègue – ou plutôt, sa couverture – a également été convié de son côté à un entretien, vous décidez de vous présenter tous les deux, en construisant une histoire d’amitié "à la Oreste et Pilade" entre vous ; ces anciennes mythologies sont, après tout, très à la mode chez les élites de Sabarim. **Vous vous rendez donc chez votre hôte pour {% symbol "15h" for "lg_meeting_time_for_peridot_and_topaz" %}.**
 
 <{ arrival_at_manor_with_butler }/>
 

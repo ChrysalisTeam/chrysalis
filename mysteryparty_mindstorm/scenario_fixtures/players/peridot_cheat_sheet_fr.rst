@@ -29,7 +29,7 @@
 {% macro peridot_and_topaz_meeting_with_lg_summary() %}
 - la veille :
 
-  - vous avez, avec votre compère, rencontré Loyd Georges à {% symbol "15h" for "lg_meeting_time_for_peridot_topaz" %}, dans son manoir
+  - vous avez, avec votre compère, rencontré Loyd Georges à {% symbol "15h" for "lg_meeting_time_for_peridot_and_topaz" %}, dans son manoir
   - d'abord méfiant, il a fini par ingurgiter vos bobards, mais ne vous a hélas rien appris que vous ne sachiez déjà
   - vous avez ensuite passé une soirée haute en couleur au club {% symbol "Luxor Excelcis" for "peridot_topaz_alibi_club_name" %} de Salima, toujours avec votre compère {% fact "peridot_topaz_alibi_is_strong" as author %}
 {% endmacro %}

@@ -193,7 +193,7 @@ Redirection Téléphonique
 
 {% macro __OLDIE_manaic_retrocamera() %}
 Rétrocaméra Manaïque
-    Vos mentors d'Akarie viennent de vous faire parvenir un prototype d'une invention révolutionnaire : la **rétrocaméra manaïque**. Utilisable maximum 1 fois par jour (car très consommatrice en énergie), cette caméra peut reconstituer, dans l'endroit où l'on se trouve, ce qui s'est passé à une heure donnée (ex. "il y a 3 jours entre {% symbol "16h" for "" %} et {% symbol "17h" for "" %}"), tant que cela date d'au moins la veille ; le résultat est évidemment encore un peu flou, mais cette technologie pourrait bien révolutionner plus d'un domaine scientifique. S'adresser au MJ pour mettre en œuvre.
+    Vos mentors d'Akarie viennent de vous faire parvenir un prototype d'une invention révolutionnaire : la **rétrocaméra manaïque**. Utilisable maximum 1 fois par jour (car très consommatrice en énergie), cette caméra peut reconstituer, dans l'endroit où l'on se trouve, ce qui s'est passé à une heure donnée (ex. "il y a 3 jours entre {% symbol "16h" for "retrocamera_example_start_time" %} et {% symbol "17h" for "retrocamera_example_end_time" %}"), tant que cela date d'au moins la veille ; le résultat est évidemment encore un peu flou, mais cette technologie pourrait bien révolutionner plus d'un domaine scientifique. S'adresser au MJ pour mettre en œuvre.
 {% endmacro %}
 
 

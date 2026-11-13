@@ -193,7 +193,7 @@ Call Forwarding
 
 {% macro __OLDIE_manaic_retrocamera() %}
 Manaic Retrocamera
-    Your mentors in Akaris have just sent you a prototype of a revolutionary invention: the **manaic retrocamera**. Usable at most once a day (as it consumes a great deal of energy), this camera can reconstruct, in the place where one stands, what happened at a given time (e.g. "3 days ago between {% symbol "16:00" for "" %} and {% symbol "17:00" for "" %}"), as long as it dates from at least the day before; the result is obviously still a little blurry, but this technology could well revolutionise more than one scientific field. Ask the GM to make use of it.
+    Your mentors in Akaris have just sent you a prototype of a revolutionary invention: the **manaic retrocamera**. Usable at most once a day (as it consumes a great deal of energy), this camera can reconstruct, in the place where one stands, what happened at a given time (e.g. "3 days ago between {% symbol "16:00" for "retrocamera_example_start_time" %} and {% symbol "17:00" for "retrocamera_example_end_time" %}"), as long as it dates from at least the day before; the result is obviously still a little blurry, but this technology could well revolutionise more than one scientific field. Ask the GM to make use of it.
 {% endmacro %}
 
 
