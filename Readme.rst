@@ -14,6 +14,8 @@ You may freely modify, use and share these assets under the `Creative Commons - 
 
 Chrysalis texts were written in French; English translations are available for all games (see `Generation of PDF scenario files and other documents`_ below).
 
+Each game has its own root folder ("alternate_reality_game_auction/", "mysteryparty_archives/", "mysteryparty_mindstorm/", "rpg_descent/"...), which contains its media files, and its scenario sources in a "scenario_fixtures/" subfolder. "mysteryparty_common/" gathers the sources shared by mystery parties, "translations/" the translation glossary and tools, and "docs/" the document generation scripts.
+
 
 
 Use with the Pychronia Portal
