@@ -3100,6 +3100,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - Français
      - English
      - Notes
+   * - Aballon
+     - Aballon
+     - Gaulish Otherworld (game clues, Toutatis).
    * - ablutions rituelles
      - ritual ablutions
      - Monthly rite the Curator performs on the artefacts.
@@ -3142,6 +3145,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - armure, casque et bouclier romains
      - Roman armour, helmet and shield
      - Canonical item name.
+   * - Arnoul d'Audrehem
+     - Arnoul d'Audrehem
+     - Author of the medieval letter (game clues); name kept as is.
    * - artefacts antiques
      - ancient artefacts
      - British spelling "artefact".
@@ -3169,6 +3175,12 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - barillet
      - cylinder
      - Revolver part.
+   * - Bélénos
+     - Belenos
+     - Gaulish god (game clues).
+   * - Belisama
+     - Belisama
+     - Gaulish goddess (game clues).
    * - Bertrand du Guesclin
      - Bertrand du Guesclin
      - Historical; "chevalier breton" = "Breton knight".
@@ -3238,6 +3250,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - cérémonie de remise des prix littéraires (concours Maurice Genevoix)
      - literary prize-giving ceremony (the Maurice Genevoix prize)
      - Curator's alibi.
+   * - Cernunnos
+     - Cernunnos
+     - Gaulish god (game clues).
    * - Checklist des Objets du Jeu
      - Game Props Checklist
      - Common file title.
@@ -3394,6 +3409,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - Epasnactos
      - Epasnactus
      - Gaulish aristocrat, Latinised.
+   * - Épona
+     - Epona
+     - Gaulish goddess (game clues).
    * - Équipement de légionnaire / décurion / marques d'affrontement
      - Legionary's Equipment / decurion / battle marks
      - Treasure document.
@@ -3529,6 +3547,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - jeu-mystère / soirée mystère
      - mystery game / mystery evening
      - game_subtitle = "A 2-hour mystery game for all audiences".
+   * - Joueurs / Figurants / Trésor du musée
+     - Players / NPC Actors / Museum Treasure
+     - Inventory sections.
    * - jour J (le) / Le jour du drame
      - the day of the crime / The Day of the Tragedy
      - Recurrent sheet heading.
@@ -3598,6 +3619,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - Mythe de Cthulhu
      - Cthulhu Mythos
      - Standard English form.
+   * - MYTHOLOGIE CELTIQUE GAULOISE
+     - GAULISH CELTIC MYTHOLOGY
+     - Title of the game clue about Gaulish gods.
    * - nappes et lanternes pour l'ambiance
      - tablecloths and lanterns for ambience
      - Inventory item.
@@ -3619,6 +3643,12 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - oeuf mystique
      - mystic egg
      - Lore.
+   * - ogham
+     - ogham
+     - Ancient alphabet, created by Ogmios.
+   * - Ogmios
+     - Ogmios
+     - Gaulish god (game clues).
    * - Olloudios / messager des dieux celtes
      - Olloudios / messenger of the Celtic gods
      - Druid's name, verbatim.
@@ -3676,6 +3706,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - professeur Gustave Bloch
      - Professor Gustave Bloch
      - Interlude NPC.
+   * - psychopompe
+     - psychopomp
+     - Epona, guide of souls (game clues).
    * - PSYKISME / psyker / dons de spiritisme
      - PSYCHISM / psyker / spiritualist gifts
      - Player role; "psyker" kept.
@@ -3715,6 +3748,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - Rôles spéciaux
      - Special Roles
      - Player sheet heading.
+   * - Rosmerta
+     - Rosmerta
+     - Gaulish goddess (game clues).
    * - runes (gravées sur les portants en pierre)
      - runes (carved on the standing stones)
      - Cromlech model.
@@ -3760,6 +3796,9 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
    * - Synopsis
      - Synopsis
      - GM manual heading.
+   * - tablette de défixion, d'envoûtement magique
+     - curse tablet, a defixio, an instrument of bewitchment
+     - Medieval letter (game clues), archaic English style.
    * - tablette noire de défixion
      - black curse tablet (defixio)
      - Canonical item name.
