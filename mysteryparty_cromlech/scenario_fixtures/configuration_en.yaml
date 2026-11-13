@@ -21,10 +21,9 @@
   "game_items_template": "summaries/game_items_summary.txt"
   "game_items_destination": "summaries/game_items_summary"
 
-# Not translated yet: these inventory items are still in French
 "inventory_generation":
   "main_inventory":
-    "inventory_data": "inventories/game_inventory_data.yaml"
+    "inventory_data": "inventories/game_inventory_data_en.yaml"
 
     "inventory_per_section_template": "inventories/game_inventory_per_section.txt"
     "inventory_per_section_destination": "inventories/main_inventory_per_section"
@@ -32,13 +31,12 @@
     "inventory_per_crate_template": "inventories/game_inventory_per_crate.txt"
     "inventory_per_crate_destination": "inventories/main_inventory_per_crate"
 
-# Not translated yet: these game clues are still in French (they also feed the coherence checks of game facts/items)
 "document_generation":
-  "indices_du_jeu":
-    "document_source": "documents/game_clues.odt"
+  "game_clues":
+    "document_source": "documents/game_clues_en.odt"
     "document_splitting":
-      - ["symboles_de_mythologie_gauloise", 1]
-      - ["lettre_medievale_sur_runes_du_cromlech", 1]
+      - ["gaulish_mythology_symbols", 1]
+      - ["medieval_letter_about_cromlech_runes", 1]
 
 "sheet_generation":
 

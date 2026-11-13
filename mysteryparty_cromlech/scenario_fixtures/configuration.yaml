@@ -23,7 +23,7 @@
 
 "inventory_generation":
   "main_inventory":
-    "inventory_data": "inventories/game_inventory_data.yaml"
+    "inventory_data": "inventories/game_inventory_data_fr.yaml"
 
     "inventory_per_section_template": "inventories/game_inventory_per_section.txt"
     "inventory_per_section_destination": "inventories/main_inventory_per_section"
@@ -33,7 +33,7 @@
 
 "document_generation":
   "indices_du_jeu":
-    "document_source": "documents/game_clues.odt"
+    "document_source": "documents/game_clues_fr.odt"
     "document_splitting":
       - ["symboles_de_mythologie_gauloise", 1]
       - ["lettre_medievale_sur_runes_du_cromlech", 1]
