@@ -157,7 +157,7 @@ endobj
 endobj
 19 0 obj
 <<
-/Author () /CreationDate (D:20240420120910-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20240420120910-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20261113131542-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261113131542-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (CARCASSES) /Trapped /False
 >>
 endobj
@@ -3274,7 +3274,7 @@ endstream
 endobj
 53 0 obj
 <<
-/Length 9078
+/Length 9077
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3347,7 +3347,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Il leur crie de prot\351ger la ) Tj 1 0 0 rg (**) Tj 0 0 0 rg (Perle de Sylvorann", ce qui les \351lectrise, puis il repart vers le donjon.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Il leur crie de prot\351ger la ) Tj /F2 10 Tf (Perle de Sylvorann) Tj /F1 10 Tf (, ce qui les \351lectrise, puis il repart vers le donjon.) Tj T* ET
 Q
 Q
 q
@@ -3370,7 +3370,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Un olifant r\351sonne) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Un olifant r\351sonne) Tj T* ET
 Q
 Q
 q
@@ -5763,29 +5764,29 @@ xref
 0000056302 00000 n 
 0000063659 00000 n 
 0000065044 00000 n 
-0000074174 00000 n 
-0000084221 00000 n 
-0000094702 00000 n 
-0000104877 00000 n 
-0000112265 00000 n 
-0000114874 00000 n 
-0000115032 00000 n 
-0000115066 00000 n 
-0000115100 00000 n 
-0000115134 00000 n 
-0000115168 00000 n 
-0000115202 00000 n 
-0000115236 00000 n 
-0000115270 00000 n 
-0000115304 00000 n 
-0000115338 00000 n 
-0000115373 00000 n 
-0000115408 00000 n 
-0000115443 00000 n 
+0000074173 00000 n 
+0000084220 00000 n 
+0000094701 00000 n 
+0000104876 00000 n 
+0000112264 00000 n 
+0000114873 00000 n 
+0000115031 00000 n 
+0000115065 00000 n 
+0000115099 00000 n 
+0000115133 00000 n 
+0000115167 00000 n 
+0000115201 00000 n 
+0000115235 00000 n 
+0000115269 00000 n 
+0000115303 00000 n 
+0000115337 00000 n 
+0000115372 00000 n 
+0000115407 00000 n 
+0000115442 00000 n 
 trailer
 <<
 /ID 
-[<e6c8c0917645ecb13d2f047c70a6aa85><e6c8c0917645ecb13d2f047c70a6aa85>]
+[<46280cb5ba318695d979527ab9d2d197><46280cb5ba318695d979527ab9d2d197>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 19 0 R
@@ -5793,5 +5794,5 @@ trailer
 /Size 73
 >>
 startxref
-115478
+115477
 %%EOF

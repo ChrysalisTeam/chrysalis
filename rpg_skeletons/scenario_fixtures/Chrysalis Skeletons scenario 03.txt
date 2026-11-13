@@ -297,7 +297,7 @@ Jour 2
 ----------
 
 - FOULQUES réveille une à une les carcasses (amnésique), leur demande leur prénom en touchant leur casque pour les entendre (mais elles n'en savent rien), et leur en assigne un tiré de l'alphabet grec
-- Il leur crie de protéger la **Perle de Sylvorann", ce qui les électrise, puis il repart vers le donjon.
+- Il leur crie de protéger la **Perle de Sylvorann**, ce qui les électrise, puis il repart vers le donjon.
 - Un olifant résonne
 - Un rat musqué arrive, avec un parchemin : "1 épée à deux mains, un archer, et un diacre"
 - Ces 3 assaillants arrivent quelques minutes plus tard
