@@ -69,7 +69,7 @@ Run::
 
 The "docs/output_descent/en/" folder should then contain the gamemaster manual, and character sheets, for this tabletop roleplay game.
 
-They are meant to be used along the assets of the "descent_media/" folder.
+They are meant to be used along the assets of the "rpg_descent/" folder.
 
 
 Chrysalis:Mindstorm
