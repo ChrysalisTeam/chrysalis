@@ -312,6 +312,18 @@ class StoryChecksExtension(Extension):
             extract_facts_from_intermediate_markup=functools.partial(extract_facts_from_intermediate_markup, facts_registry=self.facts_registry)
         )
 
+    @staticmethod
+    def _parse_tag_name(parser, tag_kind, lineno):
+        """
+        Parse the name of a fact/symbol/item/hint tag, and reject empty literal names.
+
+        This check happens when the template is parsed, so it also catches tags of macros that are never called.
+        """
+        name = parser.parse_primary()
+        if isinstance(name, nodes.Const) and not str(name.value).strip():
+            parser.fail("Empty %s name in story tag" % tag_kind, lineno)
+        return name
+
     def parse(self, parser):
 
         template_name = parser.name
@@ -327,7 +339,7 @@ class StoryChecksExtension(Extension):
         if tag_name.value == 'fact':
 
             # now we parse a single expression
-            fact_name = parser.parse_primary()
+            fact_name = self._parse_tag_name(parser, "fact", lineno)
 
             token = parser.stream.current
 
@@ -373,7 +385,7 @@ class StoryChecksExtension(Extension):
             #if not token.test('name:for'):
             #    raise
 
-            symbol_name = parser.parse_primary()
+            symbol_name = self._parse_tag_name(parser, "symbol", lineno)
 
             call = self.call_method('_symbol_processing', [symbol_name, symbol_value, context], [], lineno=lineno)
 
@@ -381,7 +393,7 @@ class StoryChecksExtension(Extension):
 
             assert tag_name.value == 'hint'
 
-            hint_name = parser.parse_primary()
+            hint_name = self._parse_tag_name(parser, "hint", lineno)
 
             is_token = parser.stream.expect('name:is').value
 
