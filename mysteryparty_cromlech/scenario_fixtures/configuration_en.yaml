@@ -1,0 +1,94 @@
+
+# English configuration, used by "pychronia-storygen --lang en" (configuration.yaml is the French one)
+
+# Hierarchical settings, can be extended/overridden at various level
+"settings":
+  "rst2pdf_conf_file": "themes/rst2pdf.conf"
+  "rst2pdf_extra_args": "--stylesheets=layout_large_fonts"  # E.g. --stylesheets=with_cover_and_background
+
+# Hierarchical jinja2 variables, can be extended/overridden at various level
+"variables":
+  "game_title": "The Druids' Last Wish"
+  "game_subtitle": "A 2-hour mystery game for all audiences"
+
+"summary_generation":
+  "game_facts_template": "summaries/game_facts_summary.txt"
+  "game_facts_destination": "summaries/game_facts_summary"
+
+  "game_symbols_template": "summaries/game_symbols_summary.txt"
+  "game_symbols_destination": "summaries/game_symbols_summary"
+
+  "game_items_template": "summaries/game_items_summary.txt"
+  "game_items_destination": "summaries/game_items_summary"
+
+# Not translated yet: these inventory items are still in French
+"inventory_generation":
+  "main_inventory":
+    "inventory_data": "inventories/game_inventory_data.yaml"
+
+    "inventory_per_section_template": "inventories/game_inventory_per_section.txt"
+    "inventory_per_section_destination": "inventories/main_inventory_per_section"
+
+    "inventory_per_crate_template": "inventories/game_inventory_per_crate.txt"
+    "inventory_per_crate_destination": "inventories/main_inventory_per_crate"
+
+# Not translated yet: these game clues are still in French (they also feed the coherence checks of game facts/items)
+"document_generation":
+  "indices_du_jeu":
+    "document_source": "documents/game_clues.odt"
+    "document_splitting":
+      - ["symboles_de_mythologie_gauloise", 1]
+      - ["lettre_medievale_sur_runes_du_cromlech", 1]
+
+"sheet_generation":
+
+  "variables":
+
+  "sheets":
+    "gamemaster_manual":
+      "settings":
+        "rst2pdf_extra_args": "--stylesheets=layout_large_fonts,with_cover_and_background"
+      "full_sheet": "gamemaster_manual_en.rst"
+    "game_flow":
+      "full_sheet": "game_flow_en.rst"
+
+  "groups":
+
+    "non_playable_characters":
+      "variables":
+
+      "sheets":
+        "museum_curator":
+          "full_sheet":
+            - "characters/museum_curator_en.rst"
+        "museum_guide":
+          "full_sheet":
+            - "characters/museum_guide_en.rst"
+        "student_reporter":
+          "full_sheet":
+            - "characters/student_reporter_en.rst"
+        "druid_spectre":
+          "full_sheet":
+            - "characters/druid_spectre_en.rst"
+
+    "playable_characters":
+      "sheets":
+        "paranormal_detectives":
+          "full_sheet":
+            - "characters/paranormal_detectives_en.rst"
+
+    "information":
+      "variables": {}
+      "sheets":
+        "police_reports":
+          "full_sheet":
+            - "documents/police_reports_en.rst"
+        "last_battle_of_the_gauls":
+          "full_sheet":
+            - "documents/last_battle_of_the_gauls_en.rst"
+        "article_about_the_cromlech_of_lyon":
+          "full_sheet":
+            - "documents/article_about_the_cromlech_of_lyon_en.rst"
+        "ancient_artefacts_description":
+          "full_sheet":
+            - "documents/ancient_artefacts_description_en.rst"

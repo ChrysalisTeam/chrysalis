@@ -1,4 +1,6 @@
 
+# French configuration, used by "pychronia-storygen --lang fr" (see configuration_en.yaml for English)
+
 # Hierarchical settings, can be extended/overridden at various level
 "settings":
   "rst2pdf_conf_file": "themes/rst2pdf.conf"
