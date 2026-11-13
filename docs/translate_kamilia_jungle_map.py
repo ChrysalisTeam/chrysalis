@@ -1,7 +1,7 @@
 """Build the English Kamilia jungle map from the French one, by replacing its 12 labels.
 
 Usage (from the docs/ folder):
-    python translate_kamilia_jungle_map.py ../images/world_maps/kamilia_jungle_map_fr.jpg ../images/world_maps/kamilia_jungle_map_en.jpg
+    python translate_kamilia_jungle_map.py ../alternate_reality_game_auction/images/world_maps/kamilia_jungle_map_fr.jpg ../alternate_reality_game_auction/images/world_maps/kamilia_jungle_map_en.jpg
 (needs Pillow and the Windows Arial font)
 """
 import statistics

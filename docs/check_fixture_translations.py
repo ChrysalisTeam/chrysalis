@@ -18,7 +18,7 @@ import sys
 import yaml
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_ROOT = os.path.join(THIS_DIR, "..", "script_fixtures", "alternate_reality_game_auction")
+DEFAULT_ROOT = os.path.join(THIS_DIR, "..", "alternate_reality_game_auction", "scenario_fixtures")
 
 # lists of free texts, whose length may differ between languages (eg. encyclopedia keywords and their FR variants)
 FREE_LENGTH_LIST_KEYS = {"keywords"}
@@ -142,7 +142,7 @@ def find_french_fixtures(entries):
 
 def check_fixture(fr_file, show_warnings):
     en_file = fr_file[:-len("_fr.yaml")] + "_en.yaml"
-    name = os.path.relpath(en_file, os.path.join(THIS_DIR, "..", "script_fixtures"))
+    name = os.path.relpath(en_file, os.path.join(THIS_DIR, ".."))
     if not os.path.exists(en_file):
         print("MISSING %s" % name)
         return False
