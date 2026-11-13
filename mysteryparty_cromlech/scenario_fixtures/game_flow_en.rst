@@ -65,7 +65,7 @@ Reporter: recounts his meeting with Andrea, and the troubling clues of the morni
 
 Curator: claims to have spent the morning at a public ceremony and to understand nothing of all this fuss over a simple act of vandalism. Is visibly irritated, embarrassed, if the Druid's ghost distracts him by speaking to him.
 
-Treasure: discovery of the museum's artefacts, and of the {% symbol "regeneration potion" for "potion_de_guerison" %} on the floor (used by Andrea).
+Treasure: discovery of the museum's artefacts, and of the {% symbol "regeneration potion" for "healing_potion" %} on the floor (used by Andrea).
 
 Druid's intervention:
 

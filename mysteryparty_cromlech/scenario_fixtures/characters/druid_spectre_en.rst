@@ -6,7 +6,7 @@ DRUID'S SPECTRE
 Your Story
 =====================
 
-You are {% symbol "Olloudios" for "nom_du_spectre" %}. You were one of the druids who, 2 millennia ago, set in motion the gestation of a **divine warrior** capable of saving the Gaulish peoples from the Roman invasion.
+You are {% symbol "Olloudios" for "spectre_name" %}. You were one of the druids who, 2 millennia ago, set in motion the gestation of a **divine warrior** capable of saving the Gaulish peoples from the Roman invasion.
 
 Then you voluntarily became a ghost, in order to watch over this gestation. From generation to generation, you advise the dynasty charged with protecting the ancient artefacts that hold the divine entity.
 

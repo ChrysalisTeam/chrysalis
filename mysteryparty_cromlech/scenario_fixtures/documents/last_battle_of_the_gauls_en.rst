@@ -42,7 +42,7 @@ Among them were a handful of druids, who used their powers to heal, invigorate a
 
 When the natural citadel fell, these druids fled to a nearby cave, with a few survivors. And in despair, they resorted to a forbidden magic, sacrificing their lives so that the soul of the Gaulish people might survive the inexorable advance of the Roman legions.
 
-Many versions exist and contradict each other as to the content of this invocation. But all of them mention {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, the warrior god and father of the Gaulish people; as well as a set of artefacts - among them Roman weapons - which supposedly served as receptacles for this ritual.
+Many versions exist and contradict each other as to the content of this invocation. But all of them mention {% symbol "Toutatis" for "bloodthirsty_god_name" %}, the warrior god and father of the Gaulish people; as well as a set of artefacts - among them Roman weapons - which supposedly served as receptacles for this ritual.
 
 A descendant of the knight **Bertrand du Guesclin** (14th century) boasted, in his memoirs, of having had custody of what he calls the **"Druids' Last Wish"**.
 

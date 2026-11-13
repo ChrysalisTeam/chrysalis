@@ -4984,10 +4984,10 @@ Jinja symbol display values
    * - ``arkon_weapon_name``
      - glaive
      - gladius
-   * - ``arrivée_conservateur_à_cérémonie_le_jour_j``
+   * - ``arrivée_conservateur_à_cérémonie_le_jour_j`` / ``curator_arrival_at_ceremony_on_d_day``
      - 10h
      - 10:00
-   * - ``arrivée_conservateur_au_cromlech_le_jour_j``
+   * - ``arrivée_conservateur_au_cromlech_le_jour_j`` / ``curator_arrival_at_cromlech_on_d_day``
      - 7h
      - 7:00
    * - ``astral_opening_date``
@@ -5020,7 +5020,7 @@ Jinja symbol display values
    * - ``catastrophic_period``
      - marasme planétaire
      - Planetary Cataclysm
-   * - ``code_du_cryptex``
+   * - ``code_du_cryptex`` / ``cryptex_code``
      - secret
      - secret
    * - ``common_monastery_name``
@@ -5047,31 +5047,31 @@ Jinja symbol display values
    * - ``cynthia_sheet_motto``
      - L'âme audacieuse et secourable
      - The bold and helpful soul
-   * - ``délai_analyse_du_glaive_antique``
+   * - ``délai_analyse_du_glaive_antique`` / ``ancient_sword_analysis_delay``
      - un mois
      - one month
-   * - ``délai_arrivée_du_guide_au_cromlech``
+   * - ``délai_arrivée_du_guide_au_cromlech`` / ``guide_arrival_at_cromlech_delay``
      - 1 an
      - 1 year
-   * - ``délai_arrivee_du_héros``
+   * - ``délai_arrivee_du_héros`` / ``hero_arrival_delay``
      - trois mois
      - three months
-   * - ``délai_arrivée_du_reporter_au_cromlech``
+   * - ``délai_arrivée_du_reporter_au_cromlech`` / ``reporter_arrival_at_cromlech_delay``
      - 6 mois
      - 6 months
-   * - ``délai_attente_heros_par_reporter_le_jour_j``
+   * - ``délai_attente_heros_par_reporter_le_jour_j`` / ``reporter_wait_for_hero_on_d_day_delay``
      - une bonne heure
      - a good hour
-   * - ``délai_attente_police_par_reporter_le_jour_j``
+   * - ``délai_attente_police_par_reporter_le_jour_j`` / ``reporter_wait_for_police_on_d_day_delay``
      - 1h
      - 1 hour
-   * - ``délai_début_secousses_sismiques_italiennes``
+   * - ``délai_début_secousses_sismiques_italiennes`` / ``italian_earthquakes_start_delay``
      - 1 an
      - 1 year
-   * - ``délai_guide_a_donné_clefs_au_héros``
+   * - ``délai_guide_a_donné_clefs_au_héros`` / ``guide_gave_keys_to_hero_delay``
      - un mois
      - one month
-   * - ``délai_mort_père_du_conservateur``
+   * - ``délai_mort_père_du_conservateur`` / ``curator_father_death_delay``
      - 15 mois
      - 15 months
    * - ``dorian_akarith_alliance_sign``
@@ -5143,7 +5143,7 @@ Jinja symbol display values
    * - ``hamlet_near_mlg_manor``
      - Hameau de Wiskons
      - Hamlet of Wiskons
-   * - ``heure_ouverture_du_cromlech_le_jour_j``
+   * - ``heure_ouverture_du_cromlech_le_jour_j`` / ``cromlech_opening_time_on_d_day``
      - 10h du matin
      - 10:00 in the morning
    * - ``hint_website_name``
@@ -5332,25 +5332,25 @@ Jinja symbol display values
    * - ``most_dangerous_radioactive_material``
      - Uranium 234
      - Uranium-234
-   * - ``nom_du_conservateur``
+   * - ``nom_du_conservateur`` / ``curator_name``
      - Camille du Guesclin
      - Camille du Guesclin
-   * - ``nom_du_dieu_sanguinaire``
+   * - ``nom_du_dieu_sanguinaire`` / ``bloodthirsty_god_name``
      - Toutatis
      - Toutatis
-   * - ``nom_du_guide``
+   * - ``nom_du_guide`` / ``guide_name``
      - Eden Schmitt
      - Eden Schmitt
-   * - ``nom_du_héros``
+   * - ``nom_du_héros`` / ``hero_name``
      - Andrea di Revel
      - Andrea di Revel
-   * - ``nom_du_musee``
+   * - ``nom_du_musee`` / ``museum_name``
      - Cromlech
      - Cromlech
-   * - ``nom_du_reporter``
+   * - ``nom_du_reporter`` / ``reporter_name``
      - Ryan Parker
      - Ryan Parker
-   * - ``nom_du_spectre``
+   * - ``nom_du_spectre`` / ``spectre_name``
      - Olloudios
      - Olloudios
    * - ``noon_meal_time_lg_opal``
@@ -5404,7 +5404,7 @@ Jinja symbol display values
    * - ``parcival_woodsman_arrows_metal``
      - Iridium
      - Iridium
-   * - ``pere_du_conservateur``
+   * - ``pere_du_conservateur`` / ``curator_father_name``
      - Philippe du Guesclin
      - Philippe du Guesclin
    * - ``peridot_topaz_alibi_club_name``
@@ -5428,7 +5428,7 @@ Jinja symbol display values
    * - ``physicist_discovery_claims``
      - des découvertes révolutionnaires dans le domaine militaire
      - revolutionary discoveries in the military field
-   * - ``potion_de_guerison``
+   * - ``potion_de_guerison`` / ``healing_potion``
      - potion de régénération
      - regeneration potion
    * - ``ring_amplificans_name``

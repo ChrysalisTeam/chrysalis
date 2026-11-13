@@ -32,7 +32,7 @@ Full Story (SPOILERS)
 
 In antiquity, following the defeat at Alesia (52 BC), the Gauls were conquered by Julius Caesar. But not all of them. Rebel tribes kept up the fight, and took refuge in the oppidum of Uxellodunum (in the uplands of Quercy). Starved out by the Roman siege, they ended up surrendering in their turn.
 
-But a few druids, who had come from Armorica, set up one last act of vengeance. Taking refuge in a cave with some fugitives, they invoked their tutelary god, {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, through dark sorcery; with the aim of bringing forth a mythical warrior, who would reverse the course of events and bring them victory.
+But a few druids, who had come from Armorica, set up one last act of vengeance. Taking refuge in a cave with some fugitives, they invoked their tutelary god, {% symbol "Toutatis" for "bloodthirsty_god_name" %}, through dark sorcery; with the aim of bringing forth a mythical warrior, who would reverse the course of events and bring them victory.
 
 However, the gestation of this entity proved longer and more complex than expected. The ablutions and rituals - necessary for the operation to run smoothly - were interrupted many times throughout History.
 
@@ -70,7 +70,7 @@ But they have a few clues to help them decide:
 
 - Their character sheet states that the abnormal volcanic phenomena in Italy began long ago, at about the time the Curator recovered the artefacts;
 - The Hero's attitude suggests that he genuinely felt in danger from the very start of his investigation;
-- The study of the artefacts points to a link with {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, the bloodthirsty warrior god of the Gauls, and a rejection of the more peaceful gods and goddesses of the Celtic pantheon.
+- The study of the artefacts points to a link with {% symbol "Toutatis" for "bloodthirsty_god_name" %}, the bloodthirsty warrior god of the Gauls, and a rejection of the more peaceful gods and goddesses of the Celtic pantheon.
 
 
 NPC Actor Descriptions
