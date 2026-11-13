@@ -6,15 +6,18 @@ Chrysalis Game Data
 This repository contains the scenario and media files for the `Chrysalis Roleplay Games <https://chrysalis-game.com/>`_:
 
 - Descent (one-shot table-top RPG)
+- Sentience (table-top RPG, playing "sapient" animals)
+- Skeletons (table-top RPG, playing animated skeletons)
 - Mindstorm (single-day mystery party)
 - Archives (single-evening mystery party)
+- Cromlech (two-hour mystery party, for all audiences)
 - Auction (alternate reality game, mixing live encounters and web interactions)
 
 You may freely modify, use and share these assets under the `Creative Commons - Non Commercial <https://creativecommons.org/licenses/by-nc/3.0/fr/deed.en>`_ license. Their authors are listed in the `team page <https://chrysalis-game.com/cms/a-propos/equipe/>`_ of the Chrysalis Game website. For commercial use of media or text files, please contact us via this website. Python code files, on the other hand, are released under a permissive `MIT license <https://opensource.org/licenses/MIT>`_.
 
-Chrysalis texts were written in French; English translations are available for all games (see `Generation of PDF scenario files and other documents`_ below).
+Chrysalis texts were written in French; English translations are available for all games except Skeletons (see `Generation of PDF scenario files and other documents`_ below).
 
-Each game has its own root folder ("alternate_reality_game_auction/", "mysteryparty_archives/", "mysteryparty_mindstorm/", "rpg_descent/"...), which contains its media files, and its scenario sources in a "scenario_fixtures/" subfolder. "mysteryparty_common/" gathers the sources shared by mystery parties, "translations/" the translation glossary and tools, and "docs/" the document generation scripts.
+Each game has its own root folder ("alternate_reality_game_auction/", "mysteryparty_archives/", "mysteryparty_cromlech/", "mysteryparty_mindstorm/", "rpg_descent/", "rpg_sentience/", "rpg_skeletons/"), which contains its media files, and its scenario sources in a "scenario_fixtures/" subfolder. "mysteryparty_common/" gathers the sources shared by mystery parties, "translations/" the translation glossary and tools, and "docs/" the document generation scripts.
 
 
 
@@ -44,7 +47,7 @@ Note that output folders will contain restructuredtext files along their PDF cou
 Common setup
 ---------------
 
-Create a python virtual environments (see https://virtualenv.pypa.io/en/latest/) and **activate it**; python 3.13 has been tested, other recent python3 versions should work too.
+Create a python virtual environment (see https://virtualenv.pypa.io/en/latest/) and **activate it**; python 3.13 has been tested, other recent python3 versions should work too.
 
 Then install common dependencies, from inside the root folder of the repository::
 
@@ -57,7 +60,7 @@ Build scripts can then be run from any folder, but their paths are relative to t
 All build scripts accept a ``--lang fr|en`` option (French by default), to choose the language of the script fixtures to use: French sources are unsuffixed or have a "_fr" suffix, English ones have an "_en" suffix (see "translations/TRANSLATION_GLOSSARY_FR_EN.rst").
 The generated documents then go into the "docs/output_<game>/<language>/" folder. Use ``--help`` for details.
 
-The data of the "Chrysalis:Auction" alternate reality game (loaded by the Pychronia web portal, and partly reused by mystery parties) lives in "alternate_reality_game_auction/scenario_fixtures/" (its media, served by the Pychronia portal, are in the other subfolders of "alternate_reality_game_auction/"): each YAML file there has a French "_fr" version and an English "_en" one, except language-neutral files like "global_data.yaml". The Pychronia game picks the files of the language chosen when a game instance is created.
+The data of the "Chrysalis:Auction" alternate reality game (loaded by the Pychronia web portal, and partly reused by mystery parties) lives in "alternate_reality_game_auction/scenario_fixtures/" (its media, served by the Pychronia portal, are in the other subfolders of "alternate_reality_game_auction/"): each YAML file there has a French "_fr" version and an English "_en" one, except language-neutral files like "global_data.yaml". The Pychronia game picks the files of the language chosen when a game instance is created. Run ``python check_fixture_translations.py`` to check that English fixtures mirror their French sources (same keys, values and game markup).
 
 Under pytest, use the CHRYSALIS_LANG (eg. "en") and CHRYSALIS_WITH_CLUES (eg. "1") environment variables instead of these options.
 
@@ -83,7 +86,7 @@ Run::
 
 This script requires a "mysteryparty_common/scenario_fixtures/local.yaml" file, with the data specific to your own mystery party (see "local.yaml.example").
 
-It also relies on the presence of an "docs/_initial_game_data_dump.yaml" file, a dump of the data stored in the pychronia portal database, which includes some useful scenario texts. This dump is not translated yet, so English documents still contain some French texts from it.
+It also relies on the presence of an "docs/_initial_game_data_dump.yaml" file, a dump of the data stored in the pychronia portal database, which includes some useful scenario texts. This dump only exists in French; for English documents, the partial translation "docs/_initial_game_data_dump_en.yaml" is merged over it (it only covers the texts rendered in Mindstorm documents).
 
 If this yaml file is not present, the script will attempt to generate it using the Pychronia code, so ensure that the Pychronia repository root is added to your PYTHONPATH.
 In case the generation of this dump fails, you can also initialize and run the Pychronia portal normally, and copy/paste the yaml data from the "database content" page of the gamemaster area of your game into this dump file.
@@ -95,7 +98,7 @@ The "docs/output_mindstorm/en/" folder should then contain the gamemaster manual
 
 If you have put properly named images (eg. "Amethyst-John Doe.jpg", with the "real_life_identity" fields of characters in the game data dump) in "docs/trombinoscope/" folder, the generated common_guests_gallery.pdf file will gather them; else, the avatars of characters are used.
 
-With the ``--with-clues`` option, you'll need to have LibreOffice installed in your system, so that separate documents can be extracted from the "ingame_clues_<game>.odt" file (or its "ingame_clues_<game>_en.odt" translation) using "unoconv.py".
+With the ``--with-clues`` option, you'll need to have LibreOffice installed in your system, so that separate documents can be extracted from the "ingame_clues_<game>.odt" file (or its "ingame_clues_<game>_en.odt" translation) of the "scenario_fixtures/miscellaneous/" subfolder of the game; LibreOffice's "soffice" executable is used if found, else the bundled "unoconv.py".
 This step might fail if the pagination of this ODT file is altered on your system (e.g. fonts missing), in this case edit it by hand to respect the splitting information stored in the INGAME_CLUES_PARTS python variable of the build script.
 English and French documents share this splitting information, so translations must keep the pagination of the French document; the build checks that the first page of each clue contains the text snippet declared for it, in INGAME_CLUES_PARTS, so that page shifts can't go unnoticed.
 
@@ -123,6 +126,20 @@ Run::
 The "docs/output_auction/en/" folder should then contain the whole gamemaster manual for this alternate reality game, as well as a preview version with only a few pages (in which links to missing sections are turned into plain text).
 
 These documents are meant to be used with the different media of this repository, as well as the Pychronia portal, to master the adventure.
+
+
+Other games
+---------------------
+
+These games have no build script in "docs/".
+
+The scenario of Chrysalis:Skeletons (French only) is "rpg_skeletons/scenario_fixtures/Chrysalis Skeletons scenario 03.txt", a restructuredtext file; to regenerate its PDF counterpart with rst2pdf, run (here from the root folder of the repository)::
+
+	python rpg_skeletons/scenario_fixtures/generate_pdf_from_rst.py
+
+The scenario of Chrysalis:Sentience is a single restructuredtext file per language, in "rpg_sentience/scenario_fixtures/".
+
+The sources of Chrysalis:Cromlech in "mysteryparty_cromlech/scenario_fixtures/" are meant for a "configuration.yaml"-driven build tool which is not part of this repository.
 
 
 
