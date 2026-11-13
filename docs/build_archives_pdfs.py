@@ -23,8 +23,8 @@ INITIAL_GAME_DATA_DUMP = os.path.join(os.path.dirname(__file__), "_initial_game_
 
 DISABLE_DECORATIONS = False
 
-TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_archives")
-TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
+TEMPLATES_ROOT = os.path.abspath("../mysteryparty_archives/scenario_fixtures")
+TEMPLATES_COMMON = os.path.abspath("../mysteryparty_common/scenario_fixtures")
 ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_archives.odt")  # French
 
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
@@ -455,7 +455,7 @@ def generate_archives_sheets():
     all_data["murder_party_items_per_crate"] = murder_party_items_per_crate.items()
 
     # BEWARE - sensitive data specific to a murder party game
-    data = rpg.load_yaml_file("../script_fixtures/local.yaml")  # must exist, see local.yaml.example
+    data = rpg.load_yaml_file("../mysteryparty_common/scenario_fixtures/local.yaml")  # must exist, see local.yaml.example
     local_character_overrides = data.pop("_CHARACTER_OVERRIDES_")
     local_npc_overrides = data.pop("_NPC_OVERRIDES_")
     all_data.update(data)

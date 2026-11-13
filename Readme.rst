@@ -79,7 +79,7 @@ Run::
 	
 	python build_mindstorm_pdfs.py --lang en --with-clues
 
-This script requires a "script_fixtures/local.yaml" file, with the data specific to your own mystery party (see "local.yaml.example").
+This script requires a "mysteryparty_common/scenario_fixtures/local.yaml" file, with the data specific to your own mystery party (see "local.yaml.example").
 
 It also relies on the presence of an "docs/_initial_game_data_dump.yaml" file, a dump of the data stored in the pychronia portal database, which includes some useful scenario texts. This dump is not translated yet, so English documents still contain some French texts from it.
 

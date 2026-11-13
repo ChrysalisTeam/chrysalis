@@ -19,7 +19,7 @@ savegames/
 
 *HEAVY.*
 
-script_fixtures/*local*.yaml
-!script_fixtures/local.yaml.example
+mysteryparty_common/scenario_fixtures/*local*.yaml
+!mysteryparty_common/scenario_fixtures/local.yaml.example
 .*.rst
 .*.pdf

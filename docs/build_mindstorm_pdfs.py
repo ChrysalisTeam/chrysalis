@@ -26,8 +26,8 @@ GAME_TYPE = "anteauction.standalone" if IS_STANDALONE else "postauction.custom"
 
 DISABLE_DECORATIONS = False
 
-TEMPLATES_ROOT = os.path.abspath("../script_fixtures/mysteryparty_mindstorm")
-TEMPLATES_COMMON = os.path.abspath("../script_fixtures/mysteryparty_common")
+TEMPLATES_ROOT = os.path.abspath("../mysteryparty_mindstorm/scenario_fixtures")
+TEMPLATES_COMMON = os.path.abspath("../mysteryparty_common/scenario_fixtures")
 ALL_CLUES_DOCUMENT = os.path.join(TEMPLATES_ROOT, "miscellaneous", "ingame_clues_mindstorm.odt")  # French
 
 STANDARD_EXTRA_ARGS = "--stylesheets=simple_tight"
@@ -400,7 +400,7 @@ def generate_mindstorm_sheets():
     all_data["murder_party_items"] = murder_party_items
 
     # BEWARE - sensitive data specific to a murder party game
-    data = rpg.load_yaml_file("../script_fixtures/local.yaml")  # must exist, see local.yaml.example
+    data = rpg.load_yaml_file("../mysteryparty_common/scenario_fixtures/local.yaml")  # must exist, see local.yaml.example
     local_character_overrides = data.pop("_CHARACTER_OVERRIDES_", None) or {}
     data.pop("_NPC_OVERRIDES_", None)  # only used by other games
     all_data.update(data)
