@@ -6,9 +6,9 @@
 
 Votre compte à la banque de Salima :
 
-- Argent standard : {{current_player_account}} kashes
+- Argent standard : {{ character_properties[current_player_id].account }} kashes
 
-- {{ current_player_extra_goods | default("Pas d'autres possessions", True) }}
+- {{ character_properties[current_player_id].extra_goods | default("Pas d'autres possessions", True) }}
 
 {% endmacro %}
 

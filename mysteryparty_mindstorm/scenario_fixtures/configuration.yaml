@@ -1,0 +1,413 @@
+# Mindstorm mystery party, built in both languages with "pychronia_storygen <this folder> --lang fr|en"
+# (replaces docs/build_mindstorm_pdfs.py). Sheet and group names are English in both languages.
+#
+# NOTE - this folder is also read by the Pychronia game, but only for the files that it lists explicitly in
+# pychronia_game/common_settings.py (anthropia_game_data_overrides*.yaml), so this configuration, the hook module
+# and the "layouts/" folder are never loaded by it.
+
+"template_dirs": ["../../mysteryparty_common/scenario_fixtures"]
+
+"settings":
+  "rst2pdf_conf_file": "../../docs/rst2pdf_storygen.conf"
+  "docutils_conf_file": "../../docs/docutils.conf"
+  "rst2pdf_smart_quotes": 0  # docutils handles the (language-aware) smart quotes
+  "rst2pdf_extra_args": "--stylesheets=simple_tight"  # undecorated documents
+
+"variables":
+  "standalone": true  # game type "anteauction.standalone" (see the part names below), for the "if standalone" templates
+  "toc_depth": 1  # of decorated sheets, see layouts/header.rst
+
+"data_files":
+  # TEMPORARY: the game data dump is loaded by the hook, since it contains python/tuple tags which the SafeLoader of
+  # storygen refuses; once storygen supports them, declare it here instead:
+  # - "file": "../../docs/_initial_game_data_dump.yaml"
+  #   "overlay": "../../docs/_initial_game_data_dump_{lang}.yaml"
+  - "variable": "murder_party_items_raw"  # turned into "murder_party_items" by the hook
+    "file": "gamemaster_assets_checklist_{lang}.yaml"
+  - "file": ["../../mysteryparty_common/scenario_fixtures/local.yaml", "../../mysteryparty_common/scenario_fixtures/local.yaml.example"]
+
+"variables_hook": "storygen_hooks.prepare_variables"
+
+"sheet_generation":
+  "groups":
+    "gamemaster":
+      "variables":
+        "current_player_id": null  # these documents do not register story tags
+      "sheets":
+        "gamemaster_manual":
+          "settings": {"rst2pdf_extra_args": "--stylesheets=simple_large,dark_background_with_cover"}
+          "variables": {"current_player_id": "system", "title_key": "gamemaster_manual", "toc_depth": 2}  # "system" is the master login, masked in the facts summary
+          "full_sheet":
+            - "layouts/header.rst"
+            - "gamemaster_manual_mindstorm_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "layouts/footer_decoration.rst"
+        "manor_surveillance_reports":
+          "full_sheet":
+            - "gamemaster_manor_surveillance_reports_meta_{lang}.rst"
+        "planning_details":
+          "full_sheet":
+            - "gamemaster_planning_details_{lang}.rst"
+        "assets_checklist":
+          "full_sheet":
+            - "gamemaster_assets_checklist_{lang}.rst"
+        "players_extracts":
+          "full_sheet":
+            - "layouts/players_extracts.rst"
+        "all_phone_appointments":
+          "full_sheet":
+            - "appointments/mentor_briefings_all_factions_{lang}.rst"
+            - "layouts/spacer.rst"
+            - "appointments/yodic_council_interviews_{lang}.rst"
+            - "layouts/spacer.rst"
+            - "appointments/dorian_duke_blasphemy_proof_destruction_mission_{lang}.rst"
+            - "layouts/spacer.rst"
+            - "appointments/captain_rodimir_negotiation_{lang}.rst"
+    "common":
+      "variables":
+        "current_player_id": null
+      "sheets":
+        "lore_introduction":
+          "settings": {"rst2pdf_extra_args": "--stylesheets=simple_large,dark_background_with_cover"}
+          "variables": {"title_key": "common_lore"}
+          "full_sheet":
+            - "layouts/header.rst"
+            - "context_intro.anteauction.standalone_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "context_details.anteauction.standalone_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "common_guests_gallery_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "common_auction_program_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "miscellaneous/sabarith_triumvirate_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "miscellaneous/judicial_penalties_overview_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "miscellaneous/duel_of_honor_rules_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "miscellaneous/oberons_introduction_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "miscellaneous/all_specific_abilities_overview_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "miscellaneous/anthropia_portal_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "game_rules_{lang}.rst"
+            - "layouts/page_break.rst"
+            - "layouts/footer_decoration.rst"
+        "guests_gallery":
+          "full_sheet":
+            - "common_guests_gallery_{lang}.rst"
+    "players":  # full sheets, with decorations
+      "settings": {"rst2pdf_extra_args": "--stylesheets=simple_large,dark_background_with_cover"}
+      "sheets":
+        "amethyst":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/amethyst.anteauction.standalone_{lang}.rst"
+            - "players/amethyst_previous_days_{lang}.rst"
+            - "players/amethyst_misc_instructions_{lang}.rst"
+            - "players/amethyst_missions_{lang}.rst"
+            - "players/amethyst_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "cynthia":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/cynthia.anteauction.standalone_{lang}.rst"
+            - "players/cynthia_previous_days_{lang}.rst"
+            - "players/cynthia_misc_instructions_{lang}.rst"
+            - "players/cynthia_missions_{lang}.rst"
+            - "players/cynthia_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "garnet":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/garnet.anteauction.standalone_{lang}.rst"
+            - "players/garnet_previous_days_{lang}.rst"
+            - "players/garnet_misc_instructions_{lang}.rst"
+            - "players/garnet_missions_{lang}.rst"
+            - "players/garnet_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "lydia":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/lydia.anteauction.standalone_{lang}.rst"
+            - "players/lydia_previous_days_{lang}.rst"
+            - "players/lydia_misc_instructions_{lang}.rst"
+            - "players/lydia_missions_{lang}.rst"
+            - "players/lydia_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "malachite":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/malachite.anteauction.standalone_{lang}.rst"
+            - "players/malachite_previous_days_{lang}.rst"
+            - "players/malachite_misc_instructions_{lang}.rst"
+            - "players/malachite_missions_{lang}.rst"
+            - "players/malachite_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "obsidian":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/obsidian.anteauction.standalone_{lang}.rst"
+            - "players/obsidian_previous_days_{lang}.rst"
+            - "players/obsidian_misc_instructions_{lang}.rst"
+            - "players/obsidian_missions_{lang}.rst"
+            - "players/obsidian_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "opal":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/opal.anteauction.standalone_{lang}.rst"
+            - "players/opal_previous_days_{lang}.rst"
+            - "players/opal_misc_instructions_{lang}.rst"
+            - "players/opal_missions_{lang}.rst"
+            - "players/opal_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "peridot":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/peridot.anteauction.standalone_{lang}.rst"
+            - "players/peridot_previous_days_{lang}.rst"
+            - "players/peridot_misc_instructions_{lang}.rst"
+            - "players/peridot_missions_{lang}.rst"
+            - "players/peridot_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "spinel":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/spinel.anteauction.standalone_{lang}.rst"
+            - "players/spinel_previous_days_{lang}.rst"
+            - "players/spinel_misc_instructions_{lang}.rst"
+            - "players/spinel_missions_{lang}.rst"
+            - "players/spinel_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "topaz":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/topaz.anteauction.standalone_{lang}.rst"
+            - "players/topaz_previous_days_{lang}.rst"
+            - "players/topaz_misc_instructions_{lang}.rst"
+            - "players/topaz_missions_{lang}.rst"
+            - "players/topaz_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "waden":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/waden.anteauction.standalone_{lang}.rst"
+            - "players/waden_previous_days_{lang}.rst"
+            - "players/waden_misc_instructions_{lang}.rst"
+            - "players/waden_missions_{lang}.rst"
+            - "players/waden_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+        "shark":
+          "full_sheet":
+            - "layouts/header.rst"
+            - "players/shark.anteauction.standalone_{lang}.rst"
+            - "players/shark_previous_days_{lang}.rst"
+            - "players/shark_misc_instructions_{lang}.rst"
+            - "players/shark_missions_{lang}.rst"
+            - "players/shark_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "miscellaneous/players_generic_abilities_{lang}.rst"
+            - "layouts/footer_decoration.rst"
+    "players_cheat_sheets":  # a separate group, since their stylesheets differ from those of the full sheets
+      "sheets":
+        "amethyst":
+          "cheat_sheet":
+            - "players/amethyst_cheat_sheet_{lang}.rst"
+            - "players/amethyst_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+        "cynthia":
+          "cheat_sheet":
+            - "players/cynthia_cheat_sheet_{lang}.rst"
+            - "players/cynthia_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+        "garnet":
+          "cheat_sheet":
+            - "players/garnet_cheat_sheet_{lang}.rst"
+            - "players/garnet_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+        "lydia":
+          "cheat_sheet":
+            - "players/lydia_cheat_sheet_{lang}.rst"
+            - "players/lydia_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+        "malachite":
+          "cheat_sheet":
+            - "players/malachite_cheat_sheet_{lang}.rst"
+            - "players/malachite_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+        "obsidian":
+          "cheat_sheet":
+            - "players/obsidian_cheat_sheet_{lang}.rst"
+            - "players/obsidian_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+        "opal":
+          "cheat_sheet":
+            - "players/opal_cheat_sheet_{lang}.rst"
+            - "players/opal_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+        "peridot":
+          "cheat_sheet":
+            - "players/peridot_cheat_sheet_{lang}.rst"
+            - "players/peridot_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+        "spinel":
+          "cheat_sheet":
+            - "players/spinel_cheat_sheet_{lang}.rst"
+            - "players/spinel_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+        "topaz":
+          "cheat_sheet":
+            - "players/topaz_cheat_sheet_{lang}.rst"
+            - "players/topaz_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+        "waden":
+          "cheat_sheet":
+            - "players/waden_cheat_sheet_{lang}.rst"
+            - "players/waden_specific_abilities_{lang}.rst"
+            - "common_anthropia_account_summary_displayer_{lang}.rst"
+            - "common_cheat_sheet_footer_{lang}.rst"
+    "npcs":
+      "variables":
+        "current_player_id": null
+      "sheets":
+        "alphonse":
+          "full_sheet":
+            - "npcs/alphonse_sheet_{lang}.rst"
+        "rydji":
+          "full_sheet":
+            - "npcs/rydji_sheet_{lang}.rst"
+        "robb_barrow":
+          "full_sheet":
+            - "npcs/robb_barrow_sheet_{lang}.rst"
+        "notary":
+          "full_sheet":
+            - "npcs/notary_sheet_{lang}.rst"
+        "akarith_ambassador":
+          "full_sheet":
+            - "npcs/akarith_ambassador_sheet_{lang}.rst"
+        "oberon_agent":
+          "full_sheet":
+            - "npcs/oberon_agent_sheet_{lang}.rst"
+        "neighbour":
+          "full_sheet":
+            - "npcs/old_neighbour_sheet_{lang}.rst"
+        "salima_massagist":
+          "full_sheet":
+            - "npcs/salima_massagist_sheet_{lang}.rst"
+    "documents":
+      "variables":
+        "current_player_id": null
+      "sheets":
+        "alphonse_special_sales":
+          "full_sheet":
+            - "miscellaneous/alphonse_special_sales_{lang}.rst"
+        "players_last_minute_context":
+          "full_sheet":
+            - "miscellaneous/players_last_minute_context_{lang}.rst"
+        "players_negotiating_mandates":
+          "full_sheet":
+            - "missions/mining_lease_negotiation/negotiating_mandates_{lang}.rst"
+        "audio_recordings":
+          "full_sheet":
+            - "miscellaneous/audio_recordings_{lang}.rst"
+
+"document_generation":
+  "ingame_clues_mindstorm":
+    "document_source": "miscellaneous/ingame_clues_mindstorm_{lang}.odt"
+    "comment_sample": {"fr": "Inutilisé", "en": "Unused for now"}
+    "document_splitting":
+      - ["nazur_mummy_analysis_results", 1, {fr: "Résultat d’analyses Académie", en: "Analysis results Belez"}]
+      - ["secret_codes_standard_sheet_cheat_for_opal", 1, {fr: "Codes Secrets Connus", en: "Known Secret Codes"}]
+      - ["sabarith_law_summary_for_obsidian", 1, {fr: "Eléments de Droit", en: "Elements of Sabarith"}]
+      - ["radioactive_samples_analysis_report_part_1_for_waden", 1, {fr: "Rapport d’Analyse 1/2", en: "Analysis Report 1/2:"}]
+      - ["radioactive_samples_analysis_report_part_2_for_waden", 1, {fr: "Rapport d’Analyse 2/2", en: "Analysis Report 2/2:"}]
+      - ["panorbium_fortuna_letter_from_pr_loakim", 1, {fr: "Salut vieille branche,", en: "Hello old chap, I am"}]
+      - ["military_bag_request_from_pr_eusebon", 1, {fr: "Mon cher Loyd Georges J’espère", en: "My dear Loyd Georges I"}]
+      - ["origins_of_precious_stones_for_peridot", 1, {fr: "L'origine des pierres", en: "The Origin of Precious"}]
+      - ["bibine_express_flyer_and_akarith_slang_lexicon", 1, {fr: "Cher client, nous", en: "Dear customer, we"}]
+      - ["recipe_cod_gratin", 1, {fr: "Gratin de morue aux", en: "Cod gratin with chanterelles"}]
+      - ["judicator_praeves_instructions_for_murderer", 1, {fr: "Très cher Fils-en-Devenir", en: "Dearest Son-to-be of"}]
+      - ["oleander_plant_info", 2, {fr: "LAURIER ROSE OLEANDER", en: "OLEANDER Oleander, Nerium"}]
+      - ["deadliest_poisons_memo_for_opal", 2, {fr: "Les Poisons Les Plus", en: "The Deadliest Poisons"}]
+      - ["robb_barrow_instructions_memo", 1, {fr: "MEMO Bienvenu au service", en: "MEMO Welcome to Sir"}]
+      - ["digoxin_pharmacology_info", 2, {fr: "Pharmacologie - La", en: "Pharmacology - Digoxin"}]
+      - ["loyd_georges_health_reports", 2, {fr: "Patient L.G. – Admission", en: "Patient L.G. – Emergency"}]
+      - ["recipe_veal_stew", 1, {fr: "Blanquette de veau", en: "Sabarith-style veal blanquette"}]
+      - ["acknowledgement_of_loyd_georges_complaint_about_shark", 1, {fr: "Digne Sir Loyd Georges,", en: "Worthy Sir Loyd Georges,"}]
+      - ["miscellaneous_obscure_runes", 2, null]
+      - ["hydroland_sale_poster", 1, {fr: "A VENDRE – HYDROLANDE", en: "FOR SALE – HYDROLAND"}]
+      - ["snitch_proposal_letter_for_loyd_georges", 1, {fr: "Cher Sir Loyd Georges, Je suis", en: "Dear Sir Loyd Georges, I am a"}]
+      - ["lie_detector_written_interview_cards", 1, {fr: "Bulletin d’Entretien Anti-Mensonges", en: "Truth-Interview Slip for"}]
+      - ["alphonse_debt_reminder_letter_and_mac_jolt_purchase_proposal", 1, {fr: "Mon vieil Alph’, au", en: "My old Alph', in case"}]
+      - ["waden_letter_about_orb_and_and_blispin_letter_for_rydji", 1, {fr: "Cher Sir Loyd Georges, je continue", en: "Dear Sir Loyd Georges, I am continuing"}]
+      - ["panorbium_fortuna_prophecy", 1, {fr: "Panorbium Fortuna Ainsi", en: "Panorbium Fortuna Thus"}]
+      - ["lordanian_report_on_midolian_armies_balance_for_amethyst", 1, {fr: "Note Hautement Confidentielle", en: "Highly Confidential Note"}]
+      - ["heliossar_spy_reports_on_akaris_armament", 2, {fr: "Rapport d’Infiltration –", en: "Infiltration Report –"}]
+      - ["unused_view_of_city", 1, null]
+      - ["cynthia_wetfeet_building_picture", 1, {fr: "Cher Sir Loyd Georges, Comme", en: "Dear Sir Loyd Georges, As"}]
+      - ["misc_logos_for_game_environment", 2, {fr: "LOGOS CARTES MAGNETIQUES", en: "MAGNETIC CARD LOGOS"}]
+      - ["enigmas_for_secret_code_and_lg_treasure", 1, {fr: "Que je n'oublie plus,", en: "May I never, oh never,"}]
+      - ["massage_gift_voucher", 1, {fr: "Félicitations, vous avez", en: "Congratulations, you have"}]
+      - ["ultimate_bank_spider_kits", 1, {fr: "LOGICIEL : ULTIMATE", en: "SOFTWARE: ULTIMATE BANK"}]
+      - ["coded_enigmas_for_panorbium_fortuna_and_lg_treasure", 1, {fr: "Note pour moi-même", en: "Note to myself: if"}]
+      - ["coded_enigmas_for_akarith_sect_in_sabarim", 1, null]
+      - ["letter_from_rodok_forwarded_to_opal", 1, {fr: "Hello Georges, Tu", en: "Hello Georges, Do"}]
+      - ["berserk_elixir_advanced_ingredients_for_amethyst", 1, {fr: "Extraits de divers", en: "Extracts from various"}]
+      - ["loyd_georges_last_wills", 1, {fr: "Testament de Sir Loyd", en: "Will of Sir Loyd Georges"}]
+      - ["letters_intercepted_by_sect_about_retired_person", 3, {fr: "Communication Postale Interceptée AIXZS - Lettre 1/3", en: "Intercepted Postal Communication AIXZS - Letter 1/3"}]
+      - ["omrh_university_request_for_waden", 2, {fr: "Cher monsieur Waden", en: "Dear Mr Waden Shaw"}]
+      - ["special_missions_for_akarith_ambassador_assassination", 2, {fr: "MISSIONS SURPRISE –", en: "SURPRISE MISSIONS –"}]
+      - ["letters_revealing_electoral_fraud_of_lydia_and_crimes_of_opal", 1, {fr: "Mon cher monsieur", en: "My dear Mr O, as ordered,"}]
+      - ["alphonse_poem_for_loyd_georges", 1, {fr: "Hommage à Loyd Georges,", en: "Tribute to Loyd Georges,"}]
+      - ["secret_codes_of_modern_akarith_sects_for_cynthia", 1, {fr: "Cryptorunes Akarites Modernes", en: "Modern Akarith Cryptorunes"}]
+      - ["telegrams_for_misc_characters_during_evening", 1, {fr: "Waden, je ne pensais", en: "Waden, I did not think"}]
+      - ["alliance_proposal_for_lordania_and_sabarim", 1, {fr: "Proposition d’Alliance Stratégique", en: "Proposal for a Strategic"}]
+      - ["manor_letter_from_emilos_loakim_stolen_by_amethyst", 1, {fr: "Mon vieux Loyd G eorges,", en: "My old Loyd G eorges,"}]
+      - ["mining_lease_negotiation_contrat_for_akarith_ambassador", 1, {fr: "Je, soussigné Lydia", en: "I, the undersigned Lydia"}]
+      - ["letter_about_akarith_purifiers_counter_manipulation_for_cynthia", 1, {fr: "Cynthia, nous savons", en: "Cynthia, we know you"}]
+      - ["loyd_markis_biography_extract", 1, {fr: "Le jeune Loyd Markis", en: "The young Loyd Markis"}]
+      - ["highly_confidential_letter_for_loyd_georges_about_secret_villa", 1, {fr: "Cher Sir Loyd Georges, je vous", en: "Dear Sir Loyd Georges, thank"}]
+
+"summary_generation":
+  "game_facts_template": "summaries/game_facts_summary_{lang}.txt"
+  "game_facts_destination": "summaries/game_facts_summary"
+  "game_symbols_template": "summaries/game_symbols_summary_{lang}.txt"
+  "game_symbols_destination": "summaries/game_symbols_summary"
+  "game_items_template": "summaries/game_items_summary_{lang}.txt"
+  "game_items_destination": "summaries/game_items_summary"
+

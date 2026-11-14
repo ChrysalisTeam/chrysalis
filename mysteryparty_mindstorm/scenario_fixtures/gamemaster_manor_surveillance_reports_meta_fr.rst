@@ -1,4 +1,4 @@
-{# BEWARE - this template will need to be evaluated twice recursively #}
+{# The reports are themselves jinja templates: they are rendered here, with the real identities of characters (gamemaster version) #}
 
 Rapports de Surveillance du Manoir
 ======================================
@@ -10,12 +10,12 @@ Rapports de Surveillance du Manoir
 
 {{ report_time }}
 
-{{ report_data.surveillance_analysis|indent(width=4, first=True) }}
+{{ report_data.surveillance_analysis|indent(width=4, first=True)|replace(".official_name", ".spoiling_official_name")|dangerous_render }}
 
 {% if report_data.gamemaster_hints %}
     .. container:: gamemaster-hints
 
-{{ report_data.gamemaster_hints|indent(width=8, first=True) }}
+{{ report_data.gamemaster_hints|indent(width=8, first=True)|replace(".official_name", ".spoiling_official_name")|dangerous_render }}
 {% endif %}
 
 {% endfor %}

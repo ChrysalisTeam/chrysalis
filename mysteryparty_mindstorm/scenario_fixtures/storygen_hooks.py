@@ -1,0 +1,164 @@
+# -*- coding: utf-8 -*-
+"""
+Variables hook of the Mindstorm storygen project (see "variables_hook" in configuration.yaml).
+
+It ports what docs/build_mindstorm_pdfs.py computed besides rendering sheets: game data dump, per-language
+titles and abilities, character names/titles, player list, items checklist, and a jinja2 filter.
+"""
+import logging
+import os
+import re
+
+import yaml
+
+from pychronia_storygen.data_files import deep_merge_localized_overlay
+
+# for now, only these two types exist; sheets of the "postauction.custom" type are not built by this project
+GAME_TYPES = {True: "anteauction.standalone", False: "postauction.custom"}
+
+EXCLUDED_CHARACTERS = []  # mystery-party has no sheet for these characters, for now
+
+IMPORTANT_MARKER = " IMPORTANT"
+
+DOCUMENT_TITLES = dict(
+    fr=dict(gamemaster_manual="Maître de Jeu", common_lore="Univers du Jeu", table_of_contents="Table des Matières"),
+    en=dict(gamemaster_manual="Game Master", common_lore="The Game Universe", table_of_contents="Table of Contents"),
+)
+
+# Maps required permissions to ability descriptions
+AVAILABLE_ANTHROPIA_ABILITIES = dict(
+    fr={
+        "access_mercenaries_hiring": "Embauche de mercenaires dans une grande ville de la planète",
+        ###"access_wiretapping": "Mise sur écoute d'un autre compte Anthropia (et protection contre les écoutes adverses)",
+        "access_runic_translation": "Traduction de runes akarites à partir de leur transcription",
+        "access_matter_analysis": "Analyse biophysique d'un objet",
+        "access_world_scan": "Recherche par scanner mondial des clones d'un objet",
+        "access_house_reports": "Rapports de vidéosurveillance du manoir de Loyd Georges",
+        "access_geoip_location": "Géolocalisation de l'émetteur d'un message email",
+        ###(xxx, "Tiers de confiance numérique (à mettre en copie des messages contractuels)"),
+    },
+    en={
+        "access_mercenaries_hiring": "Mercenary hiring in a major city of the planet",
+        "access_runic_translation": "Translation of Akarith runes from their transcription",
+        "access_matter_analysis": "Biophysical analysis of an object",
+        "access_world_scan": "World-scanner search for clones of an object",
+        "access_house_reports": "CCTV reports of Loyd Georges' manor",
+        "access_geoip_location": "Geolocation of the sender of an email message",
+    },
+)
+
+
+def analyze_and_normalize_game_items(game_items_raw, important_marker: str):
+    """Detect game items as normal or important, and build a data tree including this information"""
+    game_items = []
+    for pair in game_items_raw:
+        assert len(pair) == 2, pair
+        section, item_titles = pair
+        section_item_structs = []
+        section_is_important = (important_marker in section)
+        section = section.replace(important_marker, "")
+        for item_title in item_titles:
+            title_is_important = (important_marker in item_title)
+            item_title = item_title.replace(important_marker, "").strip()
+            section_item_struct = {
+                "item_is_important": section_is_important or title_is_important,
+                "item_label": item_title
+            }
+            section_item_structs.append(section_item_struct)
+        game_items.append((section, section_item_structs))
+    if not any(item["item_is_important"] for (_section, items) in game_items for item in items):
+        # checklists without any marker (e.g. Mindstorm) must not get ALL their items de-emphasized (italic)
+        for (_section, items) in game_items:
+            for item in items:
+                item["item_is_important"] = True
+    return game_items
+
+
+def strip_pychronia_page_markup(text):
+    """
+    Make a static page of the game data dump (pychronia RST flavour) embeddable in a sheet, whatever its language:
+    drops [BR] tags, demotes section underlines, comments out image directives (their options become part of the
+    comment) and drops a bold caption paragraph which immediately precedes an image directive.
+    """
+    text = text.replace("[BR]", "")
+    text = re.sub(r"^[ \t]*\*\*[^\n]*\*\*[ \t]*\n(?:[ \t]*\n)*(?=[ \t]*\.\. image::)", "", text, flags=re.MULTILINE)
+    text = text.replace("image::", "brokenimage")
+    text = text.replace("=", "-").replace("#", "+")
+    return text
+
+
+def _load_game_data_dump(project_dir, language):
+    """
+    Load the game data dump, then deep-merge its (partial) translation for languages other than French.
+
+    TEMPORARY: this should be done by the "data_files" entry of the configuration, but the dump contains
+    python/tuple tags (novelty_tracker, ...) which the SafeLoader of storygen refuses to load.
+    """
+    docs_dir = os.path.join(project_dir, "..", "..", "docs")
+    dump_file = os.path.join(docs_dir, "_initial_game_data_dump.yaml")
+    with open(dump_file, "r", encoding="utf8") as f:
+        data = yaml.load(f, Loader=yaml.FullLoader)
+    if language != "fr":  # the dump is the French base data
+        overlay_file = os.path.join(docs_dir, "_initial_game_data_dump_%s.yaml" % language)
+        if os.path.exists(overlay_file):
+            with open(overlay_file, "r", encoding="utf8") as f:
+                deep_merge_localized_overlay(data, yaml.load(f, Loader=yaml.FullLoader))
+        else:
+            logging.warning("No translated overlay %s found, using untranslated data", overlay_file)
+    return data
+
+
+def prepare_variables(variables, *, language, jinja_env):
+    project_dir = variables["project_dir"]
+    assert language in DOCUMENT_TITLES, "Mindstorm must be built with --lang fr|en, not %r" % language
+
+    # The dump has a lower priority than the other data files and variables of the configuration
+    for key, value in _load_game_data_dump(project_dir, language).items():
+        variables.setdefault(key, value)
+
+    is_standalone = variables.setdefault("standalone", True)
+    variables["game_type"] = GAME_TYPES[bool(is_standalone)]
+
+    variables["document_titles"] = DOCUMENT_TITLES[language]
+    variables["available_anthropia_abilities"] = AVAILABLE_ANTHROPIA_ABILITIES[language]
+
+    variables["murder_party_items"] = analyze_and_normalize_game_items(
+        variables.pop("murder_party_items_raw"), important_marker=IMPORTANT_MARKER)
+
+    # BEWARE - sensitive data specific to a murder party game, see local.yaml.example
+    local_character_overrides = variables.pop("_CHARACTER_OVERRIDES_", None) or {}
+    variables.pop("_NPC_OVERRIDES_", None)  # only used by other games
+    character_properties = variables["character_properties"]
+    for k, v in local_character_overrides.items():
+        if k in character_properties:  # local.yaml may also contain characters of other games
+            character_properties[k].update(v)  # Override real names and emails
+
+    # (the former CHARACTER_OVERRIDES only declared email attachments, which are out of scope now)
+
+    master_login = variables["global_parameters"]["master_login"]
+    # configuration.yaml gives this id to the gamemaster manual, whose story tags are masked in the facts summary
+    assert master_login == "system", master_login
+    variables["master_login"] = master_login  # to mask it in the facts summary
+
+    player_names = sorted(k for (k, v) in character_properties.items()
+                          if not v["is_npc"] and k not in EXCLUDED_CHARACTERS)
+    assert "shark" not in player_names
+    variables["player_names"] = player_names + ["shark"]  # special player
+
+    # Real photos of guests (see Readme) are optional, avatars are used instead
+    photos_dir = os.path.join(project_dir, "..", "..", "docs", "trombinoscope")
+    player_photos = [os.path.join(photos_dir, "%s-%s.jpg" % (k.capitalize(), v["real_life_identity"]))
+                     for (k, v) in character_properties.items() if not v["is_npc"]]
+    variables["use_player_photos"] = all(os.path.exists(photo) for photo in player_photos)
+    if not variables["use_player_photos"]:
+        logging.warning("Some player photos are missing in docs/trombinoscope/, using avatars in guests gallery")
+
+    for k, v in character_properties.items():
+        # additional variables to DRY display
+        official_name = v["official_name"]
+        v["full_official_title"] = "%s, %s" % (official_name, v["official_role"])
+        v["spoiling_official_name"] = "%s (%s)" % (official_name, k.capitalize())
+
+    jinja_env.filters["strip_pychronia_page_markup"] = strip_pychronia_page_markup  # for texts of the game data dump
+
+    return variables

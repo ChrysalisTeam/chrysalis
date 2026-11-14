@@ -1,4 +1,5 @@
-
+{# Per-player data are read from the current character (current_player_id, a real player here); hide_anthropia_credentials may be set by the caller #}
+{% set permissions = character_properties[current_player_id].permissions %}
 {% if permissions %} {# Beware, might give empty list if available_anthropia_abilities is incomplete #}
 
 **On the Anthropia web portal, you also have access to these special operations:**
@@ -14,7 +15,7 @@
 {% endif %}
 
 
-{% if not hide_anthropia_credentials %}
+{% if not hide_anthropia_credentials | default(false) %}
 
 Your Anthropia web credentials
 =====================================================
@@ -34,7 +35,7 @@ As a reminder, most inhabitants of Pangea do not yet have an Anthropia account, 
 
 - URL: {{anthropia_portal_url}}
 - LOGIN:  {{current_player_id}}
-- PASSWORD:  {{current_player_password}}
+- PASSWORD:  {{ character_properties[current_player_id].password }}
 
 {% endif %}
 

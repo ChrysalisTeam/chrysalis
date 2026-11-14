@@ -1,0 +1,31 @@
+Summary of facts and protagonists involved
+==============================================
+
+{# The gamemaster (master_login) is masked; facts of the clues document are attributed to "<master>" #}
+{% macro display_names(knowers, authors) %}{% for name, data in knowers.items()|sort if name != master_login and data["is_author"] == authors %}{% if not loop.first %},{% endif %} {% if not data['in_cheat_sheet'] %}*{% endif %}{{name}}{% if not data['in_cheat_sheet'] %}*{% endif %}{% endfor %}{% endmacro %}
+
+<{ display_scenario_errors has_serious_errors=has_serious_errors error_messages=error_messages }/>
+
+{% if facts_registry %}
+
+*Names in italics are characters who do not have this fact in their cheat sheet.*
+
+.. list-table::
+   :widths: 30 20 20
+   :header-rows: 1
+
+   * - Action or Fact
+     - Author(s)
+     - Witness(es)
+
+{% for fact, knowers in facts_registry.items()|sort %}
+   * - {{ fact }}
+     - {{ display_names(knowers, true) }}
+     - {{ display_names(knowers, false) }}
+{% endfor %}
+
+{% else %}
+
+*No game facts have been found in scenario documents.*
+
+{% endif %}

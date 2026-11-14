@@ -1,0 +1,31 @@
+Résumé des faits et protagonistes impliqués
+==============================================
+
+{# Le maître de jeu (master_login) est masqué ; les faits du document d'indices sont attribués à "<master>" #}
+{% macro display_names(knowers, authors) %}{% for name, data in knowers.items()|sort if name != master_login and data["is_author"] == authors %}{% if not loop.first %},{% endif %} {% if not data['in_cheat_sheet'] %}*{% endif %}{{name}}{% if not data['in_cheat_sheet'] %}*{% endif %}{% endfor %}{% endmacro %}
+
+<{ display_scenario_errors has_serious_errors=has_serious_errors error_messages=error_messages }/>
+
+{% if facts_registry %}
+
+*Les noms en italique sont ceux des personnages qui n'ont pas ce fait dans leur antisèche.*
+
+.. list-table::
+   :widths: 30 20 20
+   :header-rows: 1
+
+   * - Action ou Fait
+     - Auteur(s)
+     - Témoin(s)
+
+{% for fact, knowers in facts_registry.items()|sort %}
+   * - {{ fact }}
+     - {{ display_names(knowers, true) }}
+     - {{ display_names(knowers, false) }}
+{% endfor %}
+
+{% else %}
+
+*Aucun fait n'a été trouvé dans les documents du scénario.*
+
+{% endif %}

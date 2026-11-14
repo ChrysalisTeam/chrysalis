@@ -6,9 +6,9 @@
 
 Your account at the Bank of Salima:
 
-- Standard cash: {{current_player_account}} kashes
+- Standard cash: {{ character_properties[current_player_id].account }} kashes
 
-- {{ current_player_extra_goods | default("No other possessions", True) }}
+- {{ character_properties[current_player_id].extra_goods | default("No other possessions", True) }}
 
 {% endmacro %}
 
