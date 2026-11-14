@@ -26,6 +26,6 @@ La porte du manoir s'ouvre pesamment au moment où vous allez y toquer. Que la f
 
    Spacer 0 20
 
-.. image:: {{ project_dir }}../../common_assets/images/inpector_shark_investigating_small.png
+.. image:: {{ project_dir }}../images/inpector_shark_investigating_small.png
     :align: center
     :width: 85%
