@@ -6,20 +6,13 @@ It ports the residual logic of the former docs/build_archives_pdfs.py: official 
 merge of the (private) local.yaml character overrides, and the computation of the game props structures of the
 gamemaster checklists.
 """
-import os
 import re
 from collections import OrderedDict
-
-import yaml
-
-from pychronia_storygen.data_files import deep_merge_localized_overlay
 
 # Must be the "master_login" of the game data dump: configuration.yaml can't reference variables,
 # so it uses this value for the "current_player_id" of the gamemaster manual (checked by the hook)
 MASTER_LOGIN = "system"
 
-# Relative to the project dir; non-French languages use the partial overlay "_initial_game_data_dump_<lang>.yaml"
-GAME_DATA_DUMP = "../../docs/_initial_game_data_dump.yaml"
 DEFAULT_LANGUAGE = "fr"
 
 IMPORTANT_MARKER = " IMPORTANT"
@@ -141,34 +134,13 @@ def group_game_items_per_crate(murder_party_items):
     return sorted(murder_party_items_per_crate.items()), total_item_entry_count
 
 
-def _load_game_data_dump(project_dir, language):
-    """
-    Load the French game data dump, then deep-merge over it the partial translation "_initial_game_data_dump_<lang>.yaml".
-
-    FullLoader is needed, because the dump contains python tuples (storygen's "data_files" only use SafeLoader).
-    """
-    dump_file = os.path.join(project_dir, GAME_DATA_DUMP)
-    with open(dump_file, "r", encoding="utf8") as f:
-        data = yaml.load(f, Loader=yaml.FullLoader)
-    if language != DEFAULT_LANGUAGE:
-        overlay_file = os.path.splitext(dump_file)[0] + "_%s.yaml" % language
-        if os.path.exists(overlay_file):
-            with open(overlay_file, "r", encoding="utf8") as f:
-                overlay = yaml.load(f, Loader=yaml.FullLoader)
-            deep_merge_localized_overlay(data, overlay)
-        else:
-            print("!!! No translated overlay %s found, using untranslated data" % overlay_file)
-    return data
-
-
 def prepare_variables(variables, *, language, jinja_env):
     language = language or DEFAULT_LANGUAGE
 
-    # Game data dump, with a lower priority than local.yaml and the configuration variables
-    all_data = _load_game_data_dump(variables["project_dir"], language)
+    # Game data dump (with its translation overlay) comes from the "data_files" of configuration.yaml
+    all_data = variables
     master_login = all_data["global_parameters"]["master_login"]
     assert master_login == MASTER_LOGIN, (master_login, MASTER_LOGIN)  # See configuration.yaml
-    all_data.update(variables)
 
     # Game props, from the raw checklist data file
     murder_party_items = analyze_and_normalize_game_items(all_data.pop("murder_party_items_raw"),

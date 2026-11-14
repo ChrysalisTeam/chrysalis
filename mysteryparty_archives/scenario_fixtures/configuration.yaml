@@ -11,8 +11,10 @@
   "rst2pdf_smart_quotes": 0  # docutils.conf enables its own language-aware smart quotes
   "rst2pdf_extra_args": "--stylesheets=simple_tight"
 
-# Game data dump (with its English overlay) is loaded by the hook, since it contains python tuples
+# The game data dump (lowest priority, hence first) with its partial translation overlay, then the other data files
 "data_files":
+  - "file": "../../docs/_initial_game_data_dump.yaml"
+    "overlay": "../../docs/_initial_game_data_dump_{lang}.yaml"
   - "file": ["../../mysteryparty_common/scenario_fixtures/local.yaml", "../../mysteryparty_common/scenario_fixtures/local.yaml.example"]
   - "variable": "murder_party_items_raw"
     "file": "gamemaster_assets_checklist_{lang}.yaml"
