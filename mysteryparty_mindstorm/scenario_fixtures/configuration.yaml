@@ -8,8 +8,8 @@
 "template_dirs": ["../../mysteryparty_common/scenario_fixtures"]
 
 "settings":
-  "rst2pdf_conf_file": "../../docs/rst2pdf.conf"
-  "docutils_conf_file": "../../docs/docutils.conf"
+  "rst2pdf_conf_file": "../../common_assets/rst2pdf.conf"
+  "docutils_conf_file": "../../common_assets/docutils.conf"
   "rst2pdf_smart_quotes": 0  # docutils handles the (language-aware) smart quotes
   "rst2pdf_extra_args": "--stylesheets=simple_tight"  # undecorated documents
 
@@ -18,8 +18,8 @@
   "toc_depth": 1  # of decorated sheets, see layouts/header.rst
 
 "data_files":
-  - "file": "../../docs/_initial_game_data_dump.yaml"
-    "overlay": "../../docs/_initial_game_data_dump_{lang}.yaml"  # partial translation (absent in French)
+  - "file": "../../common_assets/game_data/_initial_game_data_dump.yaml"
+    "overlay": "../../common_assets/game_data/_initial_game_data_dump_{lang}.yaml"  # partial translation (absent in French)
   - "variable": "murder_party_items_raw"  # turned into "murder_party_items" by the hook
     "file": "gamemaster_assets_checklist_{lang}.yaml"
   - "file": ["../../mysteryparty_common/scenario_fixtures/local.yaml", "../../mysteryparty_common/scenario_fixtures/local.yaml.example"]

@@ -3,8 +3,8 @@
 # template syntax: they are only inserted as plain values by the templates of "storygen/", never rendered by jinja2)
 
 "settings":
-  "rst2pdf_conf_file": "../../docs/rst2pdf.conf"
-  "docutils_conf_file": "../../docs/docutils.conf"
+  "rst2pdf_conf_file": "../../common_assets/rst2pdf.conf"
+  "docutils_conf_file": "../../common_assets/docutils.conf"
   "rst2pdf_smart_quotes": 0
   "rst2pdf_extra_args": "--stylesheets=shiny"
 

@@ -1,6 +1,6 @@
 pageTemplates:
   standardPage:
-    background: ../../docs/assets/dark_background.jpg
+    background: ../../common_assets/images/dark_background.jpg
     frames:
     - [0cm, 0cm, 100%, 100%]
     showFooter: true

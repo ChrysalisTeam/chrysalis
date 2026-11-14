@@ -1269,7 +1269,7 @@ Carte du monde de Pangéa
 
 [BR]
 
-.. image:: {{ project_dir }}../../docs/assets/pangea_world_map_v10_8bits-rotated.png
+.. image:: {{ project_dir }}../../common_assets/images/pangea_world_map_v10_8bits-rotated.png
     :align: center
     :width: 2000px
 

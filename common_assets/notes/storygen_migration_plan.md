@@ -13,6 +13,10 @@ Also build the scenarios of `rpg_sentience` and `rpg_skeletons` (plain RST to PD
 The rest of this document describes the migration as it was designed (historical notes: file names and line
 numbers of the deleted scripts refer to the state before the migration).
 
+After the migration, the contents of `docs/` and `fonts/` were regrouped into `common_assets/` (`rst2pdf.conf`,
+`docutils.conf`, `fonts/`, `images/` (former `docs/assets/*.png|jpg`), `stylesheets/` (former `docs/assets/*.yaml`),
+`game_data/`, `trombinoscope/`, `tools/`, and `notes/` for this document): the `docs/...` paths below are historical.
+
 Commit ranges (all on the `move_chrysalis_files` branch of each repository, not pushed):
 
 | Repository | Range | Content |

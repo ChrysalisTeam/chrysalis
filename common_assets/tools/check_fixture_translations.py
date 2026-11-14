@@ -5,7 +5,7 @@ French "<name>_fr.yaml" source: same keys, same list lengths, same non-text valu
 emails, file paths, identifiers...), and the same game markup inside texts (game file tags, template
 variables, RST directives...), since the Pychronia game expects both languages to be interchangeable.
 
-Usage (from the docs/ folder):  python check_fixture_translations.py [fixture files or folders...]
+Usage (from any folder):  python common_assets/tools/check_fixture_translations.py [fixture files or folders...]
 """
 
 import argparse
@@ -18,7 +18,7 @@ import sys
 import yaml
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_ROOT = os.path.join(THIS_DIR, "..", "alternate_reality_game_auction", "scenario_fixtures")
+DEFAULT_ROOT = os.path.join(THIS_DIR, "..", "..", "alternate_reality_game_auction", "scenario_fixtures")
 
 # lists of free texts, whose length may differ between languages (eg. encyclopedia keywords and their FR variants)
 FREE_LENGTH_LIST_KEYS = {"keywords"}
@@ -142,7 +142,7 @@ def find_french_fixtures(entries):
 
 def check_fixture(fr_file, show_warnings):
     en_file = fr_file[:-len("_fr.yaml")] + "_en.yaml"
-    name = os.path.relpath(en_file, os.path.join(THIS_DIR, ".."))
+    name = os.path.relpath(en_file, os.path.join(THIS_DIR, "..", ".."))
     if not os.path.exists(en_file):
         print("MISSING %s" % name)
         return False

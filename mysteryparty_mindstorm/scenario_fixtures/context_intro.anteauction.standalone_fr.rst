@@ -40,7 +40,7 @@ Loyd Georges, décidé à donner une nouvelle impulsion à l'évènement, convie
 Les invités se doutent bien qu'ils risquent de croiser sur place le redoutable **inspecteur Shark**, qui enquête sur les récentes spoliations dont leur hôte a été l'objet. Mais la soirée ne va certainement pas se dérouler comme prévu.
  
 
-.. image:: {{ project_dir }}../../docs/assets/pangea_world_map_v10_8bits-rotated.png
+.. image:: {{ project_dir }}../../common_assets/images/pangea_world_map_v10_8bits-rotated.png
     :align: center
     :width: 2000px
 

@@ -40,7 +40,7 @@ Loyd Georges, determined to give the event fresh impetus, invites all participan
 The guests are well aware that they may run into the formidable **Inspector Shark** there, who is investigating the recent depredations their host has suffered. But the evening is certainly not going to go as planned.
  
 
-.. image:: {{ project_dir }}../../docs/assets/pangea_world_map_v10_8bits-rotated.png
+.. image:: {{ project_dir }}../../common_assets/images/pangea_world_map_v10_8bits-rotated.png
     :align: center
     :width: 2000px
 

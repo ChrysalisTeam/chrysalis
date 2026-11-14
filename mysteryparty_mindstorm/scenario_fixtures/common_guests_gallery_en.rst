@@ -23,7 +23,7 @@ Sir Loyd Georges' Guests
           Spacer 0 60
 
      -
-       ..  image:: {% if use_player_photos %} {{ project_dir }}../../docs/trombinoscope/{{ username.capitalize() }}-{{ user_data.real_life_identity | replace(' ', '\\ ') }}.jpg {% else %} {{ project_dir }}../../alternate_reality_game_auction/{{ user_data.avatar }} {% endif %}
+       ..  image:: {% if use_player_photos %} {{ project_dir }}../../common_assets/trombinoscope/{{ username.capitalize() }}-{{ user_data.real_life_identity | replace(' ', '\\ ') }}.jpg {% else %} {{ project_dir }}../../alternate_reality_game_auction/{{ user_data.avatar }} {% endif %}
          :align: center
          :width: 3cm
 

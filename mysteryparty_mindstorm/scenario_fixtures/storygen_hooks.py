@@ -118,12 +118,12 @@ def prepare_variables(variables, *, language, jinja_env):
     variables["player_names"] = player_names + ["shark"]  # special player
 
     # Real photos of guests (see Readme) are optional, avatars are used instead
-    photos_dir = os.path.join(project_dir, "..", "..", "docs", "trombinoscope")
+    photos_dir = os.path.join(project_dir, "..", "..", "common_assets", "trombinoscope")
     player_photos = [os.path.join(photos_dir, "%s-%s.jpg" % (k.capitalize(), v["real_life_identity"]))
                      for (k, v) in character_properties.items() if not v["is_npc"]]
     variables["use_player_photos"] = all(os.path.exists(photo) for photo in player_photos)
     if not variables["use_player_photos"]:
-        logging.warning("Some player photos are missing in docs/trombinoscope/, using avatars in guests gallery")
+        logging.warning("Some player photos are missing in common_assets/trombinoscope/, using avatars in guests gallery")
 
     for k, v in character_properties.items():
         # additional variables to DRY display

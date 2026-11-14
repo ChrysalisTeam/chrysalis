@@ -3,19 +3,19 @@ embeddedFonts:
 pageSetup: {firstTemplate: coverPage}
 pageTemplates:
   coverPage:
-    background: ../../docs/assets/blue_cover.jpg
+    background: ../../common_assets/images/blue_cover.jpg
     frames:
     - [10%, 15%, 80%, 30%]
     showFooter: false
     showHeader: false
   intermediaryPage:
-    background: ../../docs/assets/light_background.jpg
+    background: ../../common_assets/images/light_background.jpg
     frames:
     - [0cm, 0cm, 100%, 100%]
     showFooter: false
     showHeader: false
   standardPage:
-    background: ../../docs/assets/light_background.jpg
+    background: ../../common_assets/images/light_background.jpg
     frames:
     - [0cm, 0cm, 100%, 100%]
     showFooter: true

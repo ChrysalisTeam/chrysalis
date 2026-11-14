@@ -1,10 +1,10 @@
 # French-only configuration, used by "pychronia-storygen . --lang fr"
 
 "settings":
-  "rst2pdf_conf_file": "../../docs/rst2pdf.conf"
+  "rst2pdf_conf_file": "../../common_assets/rst2pdf.conf"
   "rst2pdf_extra_args": "--stylesheets=simple_tight"
   "rst2pdf_smart_quotes": 0
-  "docutils_conf_file": "../../docs/docutils.conf"
+  "docutils_conf_file": "../../common_assets/docutils.conf"
 
 "sheet_generation":
   "sheets":

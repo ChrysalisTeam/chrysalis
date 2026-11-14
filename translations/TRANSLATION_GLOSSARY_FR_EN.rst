@@ -4589,7 +4589,7 @@ Alternate reality game: Auction (the Pychronia web game)
 =========================================================
 
 .. Terms coined while translating ``alternate_reality_game_auction/**/*_fr.yaml``
-   into ``*_en.yaml``. Run ``docs/check_fixture_translations.py`` after any
+   into ``*_en.yaml``. Run ``common_assets/tools/check_fixture_translations.py`` after any
    change: both languages must keep the same keys, identifiers, file paths and
    game markup. Secret answers (``secret_answer``) and hidden-clue categories
    are translated, since players deduce them from English texts.
