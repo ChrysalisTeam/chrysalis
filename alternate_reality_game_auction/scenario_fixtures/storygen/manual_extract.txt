@@ -1,0 +1,5 @@
+{{ manual.gamemaster_manual.pdf_prefix }}
+
+{{ manual.gamemaster_manual.public_content }}
+
+{{ manual.gamemaster_manual.truncation_message }}

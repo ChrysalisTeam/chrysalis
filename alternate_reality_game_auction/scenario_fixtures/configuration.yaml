@@ -1,0 +1,22 @@
+# Gamemaster manual of the Auction game, in both languages: "pychronia_storygen . --lang fr|en"
+# (gamemaster_manual_<lang>.yaml is also loaded by the Pychronia game, so its texts may contain Pychronia
+# template syntax: they are only inserted as plain values by the templates of "storygen/", never rendered by jinja2)
+
+"settings":
+  "rst2pdf_conf_file": "../../docs/rst2pdf_storygen.conf"
+  "docutils_conf_file": "../../docs/docutils.conf"
+  "rst2pdf_smart_quotes": 0
+  "rst2pdf_extra_args": "--stylesheets=shiny"
+
+"data_files":
+  - "variable": "manual"
+    "file": "gamemaster_manual_{lang}.yaml"
+
+"sheet_generation":
+  "sheets":
+    "gamemaster_manual":
+      "full_sheet": ["storygen/manual_full.txt"]
+    "gamemaster_manual_extract":  # some RST links are broken here, since the spoiler sections are missing
+      "settings":
+        "unlink_unknown_rst_targets": true
+      "full_sheet": ["storygen/manual_extract.txt"]

@@ -119,11 +119,11 @@ See instructions for "Chrysalis:Mindstorm" above, for some constraints and possi
 Chrysalis:Auction
 ---------------------
 
-Run::
+Its gamemaster manual is built by Pychronia-storygen, from the "alternate_reality_game_auction/scenario_fixtures/" project folder. Run, from the root folder of the repository::
 
-	python build_auction_pdfs.py --lang en
+	pychronia_storygen alternate_reality_game_auction/scenario_fixtures --lang en
 
-The "docs/output_auction/en/" folder should then contain the whole gamemaster manual for this alternate reality game, as well as a preview version with only a few pages (in which links to missing sections are turned into plain text).
+The "alternate_reality_game_auction/scenario_fixtures/_output/en/" folder should then contain the whole gamemaster manual for this alternate reality game, as well as a preview version with only a few pages (in which links to missing sections are turned into plain text).
 
 These documents are meant to be used with the different media of this repository, as well as the Pychronia portal, to master the adventure.
 
