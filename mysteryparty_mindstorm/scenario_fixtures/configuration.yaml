@@ -8,7 +8,7 @@
 "template_dirs": ["../../mysteryparty_common/scenario_fixtures"]
 
 "settings":
-  "rst2pdf_conf_file": "../../docs/rst2pdf_storygen.conf"
+  "rst2pdf_conf_file": "../../docs/rst2pdf.conf"
   "docutils_conf_file": "../../docs/docutils.conf"
   "rst2pdf_smart_quotes": 0  # docutils handles the (language-aware) smart quotes
   "rst2pdf_extra_args": "--stylesheets=simple_tight"  # undecorated documents

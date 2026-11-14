@@ -6,7 +6,7 @@
 
 # Hierarchical settings; by default documents are undecorated, the groups for participants are decorated
 "settings":
-  "rst2pdf_conf_file": "../../docs/rst2pdf_storygen.conf"
+  "rst2pdf_conf_file": "../../docs/rst2pdf.conf"
   "docutils_conf_file": "../../docs/docutils.conf"
   "rst2pdf_smart_quotes": 0  # docutils.conf enables its own language-aware smart quotes
   "rst2pdf_extra_args": "--stylesheets=simple_tight"

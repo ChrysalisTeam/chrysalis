@@ -3,7 +3,7 @@
 
 "settings":
   # Shared Chrysalis theme (paths relative to this project folder)
-  "rst2pdf_conf_file": "../../docs/rst2pdf_storygen.conf"
+  "rst2pdf_conf_file": "../../docs/rst2pdf.conf"
   # Wide margins and 11pt text, like the original 2022 PDF
   "rst2pdf_extra_args": "--stylesheets=simple_large"
   # Language-aware smart quotes (eg. « » in French) are done by docutils instead of rst2pdf
