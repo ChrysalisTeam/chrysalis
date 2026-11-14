@@ -133,11 +133,13 @@ Other games
 
 These games have no build script in "docs/".
 
-The scenario of Chrysalis:Skeletons (French only) is "rpg_skeletons/scenario_fixtures/Chrysalis Skeletons scenario 03.txt", a restructuredtext file; to regenerate its PDF counterpart with rst2pdf, run (here from the root folder of the repository)::
+The scenario of Chrysalis:Skeletons (French only) is "rpg_skeletons/scenario_fixtures/skeletons_scenario_fr.rst", a restructuredtext file; to regenerate its PDF with Pychronia-storygen, run (here from the root folder of the repository)::
 
-	python rpg_skeletons/scenario_fixtures/generate_pdf_from_rst.py
+	pychronia_storygen rpg_skeletons/scenario_fixtures --lang fr
 
-The scenario of Chrysalis:Sentience is a single restructuredtext file per language, in "rpg_sentience/scenario_fixtures/".
+The scenario of Chrysalis:Sentience is a single restructuredtext file per language, in "rpg_sentience/scenario_fixtures/"; build it similarly with ``pychronia_storygen rpg_sentience/scenario_fixtures --lang fr`` (or ``--lang en``).
+
+PDF files are generated in the "_output/<language>/" subfolder of these project folders.
 
 The sources of Chrysalis:Cromlech in "mysteryparty_cromlech/scenario_fixtures/" are meant for a "configuration.yaml"-driven build tool which is not part of this repository.
 
