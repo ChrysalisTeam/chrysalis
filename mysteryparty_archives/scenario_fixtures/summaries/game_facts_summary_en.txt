@@ -1,0 +1,28 @@
+Facts and involved characters
+====================================
+
+{% macro display_fact_names(listing) %}{% for name, data in listing.items()|sort if name != master_login %}{% if not loop.first %}, {% endif %}{% if data["is_author"] %}**{% endif %}{{name}}{% if data["is_author"] %}**{% endif %}{% endfor %}{% endmacro %}
+
+<{ display_scenario_errors has_serious_errors=has_serious_errors error_messages=error_messages }/>
+
+{% if facts_registry %}
+
+*Characters who are author of a fact are marked in bold. The gamemaster is not listed, and facts of the in-game clues documents are attributed to "<master>".*
+
+.. list-table::
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Fact name
+     - Fact knower(s)
+
+{% for fact, knowers in facts_registry.items()|sort %}
+   * - {{ fact[0]|title }}{{ fact[1:] }}
+     - {{ display_fact_names(knowers) }}
+{% endfor %}
+
+{% else %}
+
+*No game facts have been found in scenario documents.*
+
+{% endif %}

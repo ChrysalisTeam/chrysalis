@@ -1,0 +1,190 @@
+# Configuration of the "Secret Archives of the Maupertuis" mystery party, for both languages (English sheet names):
+#   pychronia_storygen . --lang fr|en [--skip-document-splitting]
+# Replaces the former docs/build_archives_pdfs.py. The sheets share the templates of "mysteryparty_common".
+
+"template_dirs": ["../../mysteryparty_common/scenario_fixtures"]
+
+# Hierarchical settings; by default documents are undecorated, the groups for participants are decorated
+"settings":
+  "rst2pdf_conf_file": "../../docs/rst2pdf_storygen.conf"
+  "docutils_conf_file": "../../docs/docutils.conf"
+  "rst2pdf_smart_quotes": 0  # docutils.conf enables its own language-aware smart quotes
+  "rst2pdf_extra_args": "--stylesheets=simple_tight"
+
+# Game data dump (with its English overlay) is loaded by the hook, since it contains python tuples
+"data_files":
+  - "file": ["../../mysteryparty_common/scenario_fixtures/local.yaml", "../../mysteryparty_common/scenario_fixtures/local.yaml.example"]
+  - "variable": "murder_party_items_raw"
+    "file": "gamemaster_assets_checklist_{lang}.yaml"
+
+"variables_hook": "storygen_hooks.prepare_variables"
+
+"sheet_generation":
+  "groups":
+
+    "gamemaster":
+      "sheets":
+        "gamemaster_manual":
+          "variables":
+            "current_player_id": "system"  # master_login of the game data dump (silent in the facts summary), checked by the hook
+            "toc_depth": 2
+          "full_sheet": ["gamemaster_manual_archives_{lang}.rst", "layouts/page_break.rst"]
+        "assets_checklist":
+          "variables":
+            "current_player_id": "gamemaster"
+          "full_sheet": ["gamemaster_assets_checklist_{lang}.rst"]
+        "crates_listing":
+          "variables":
+            "current_player_id": "gamemaster"
+          "settings":
+            "rst2pdf_extra_args": "--stylesheets=big_font"
+          "full_sheet": ["gamemaster_crates_listing_{lang}.rst"]
+
+    "common":
+      "settings":
+        "rst2pdf_extra_args": "--stylesheets=simple_large,dark_background_with_frame"
+      "sheets":
+        "lore_and_rules":
+          "variables":
+            "current_player_id": "everyone"
+            "title_key": "common_lore_and_game_rules"
+          "full_sheet": ["layouts/title_page.rst", "common_lore_sheet_{lang}.rst", "layouts/page_break.rst",
+                         "game_rules_{lang}.rst", "layouts/page_break.rst"]
+        "npc_information":
+          "variables":
+            "current_player_id": "npcs"
+            "title_key": "common_npc_information"
+          "full_sheet": ["layouts/title_page.rst", "common_npc_sheet_{lang}.rst", "layouts/page_break.rst"]
+
+    "players":  # the sheet name is the character name, and the default "current_player_id"
+      "settings":
+        "rst2pdf_extra_args": "--stylesheets=simple_large,dark_background_with_frame"
+      "sheets":
+        "diakon_dispeller":
+          "full_sheet": ["layouts/title_page.rst", "players/diakon_dispeller_role_{lang}.rst"]
+        "diakon_exorcist":
+          "full_sheet": ["layouts/title_page.rst", "players/diakon_exorcist_role_{lang}.rst"]
+        "diakon_invoker":
+          "full_sheet": ["layouts/title_page.rst", "players/diakon_invoker_role_{lang}.rst"]
+        "explorer_unveiler":
+          "full_sheet": ["layouts/title_page.rst", "players/explorer_unveiler_role_{lang}.rst"]
+        "explorer_anthropologist":
+          "full_sheet": ["layouts/title_page.rst", "players/explorer_anthropologist_role_{lang}.rst"]
+        "explorer_runologist":
+          "full_sheet": ["layouts/title_page.rst", "players/explorer_runologist_role_{lang}.rst"]
+        "parcival_alchemist":
+          "full_sheet": ["layouts/title_page.rst", "players/parcival_alchemist_role_{lang}.rst"]
+        "parcival_woodsman":
+          "full_sheet": ["layouts/title_page.rst", "players/parcival_woodsman_role_{lang}.rst"]
+        "parcival_oracle":
+          "full_sheet": ["layouts/title_page.rst", "players/parcival_oracle_role_{lang}.rst"]
+        "spy_lockpicker":
+          "full_sheet": ["layouts/title_page.rst", "players/spy_lockpicker_role_{lang}.rst"]
+        "spy_minesweeper":
+          "full_sheet": ["layouts/title_page.rst", "players/spy_minesweeper_role_{lang}.rst"]
+        "spy_sounder":
+          "full_sheet": ["layouts/title_page.rst", "players/spy_sounder_role_{lang}.rst"]
+        "dragons":
+          "full_sheet": ["layouts/title_page.rst", "players/dragons_role_{lang}.rst"]
+
+    "npcs":  # the sheet name is the NPC name, and the default "current_player_id"
+      "sheets":
+        "avatar_druid":
+          "full_sheet": ["npcs/avatar_druid_sheet_{lang}.rst"]
+        "avatar_inventor":
+          "full_sheet": ["npcs/avatar_inventor_sheet_{lang}.rst"]
+        "avatar_duchess":
+          "full_sheet": ["npcs/avatar_duchess_sheet_{lang}.rst"]
+        "god_ankou":
+          "full_sheet": ["npcs/god_ankou_sheet_{lang}.rst"]
+        "phantom_archivist":
+          "full_sheet": ["npcs/phantom_archivist_sheet_{lang}.rst"]
+        "phantom_arkon":
+          "full_sheet": ["npcs/phantom_arkon_sheet_{lang}.rst"]
+        "phantom_octave":
+          "full_sheet": ["npcs/phantom_octave_sheet_{lang}.rst"]
+        "phantom_thief":
+          "full_sheet": ["npcs/phantom_thief_sheet_{lang}.rst"]
+        "phantom_beast":
+          "full_sheet": ["npcs/phantom_beast_sheet_{lang}.rst"]
+        "phantom_magus":
+          "full_sheet": ["npcs/phantom_magus_sheet_{lang}.rst"]
+        "automaton_sentinel":
+          "full_sheet": ["npcs/automaton_sentinel_sheet_{lang}.rst"]
+
+    "miscellaneous":
+      "variables":
+        "current_player_id": "anyone"
+      "sheets":
+        "planning_details_for_game":
+          "full_sheet": ["miscellaneous/planning_details_for_game_{lang}.rst"]
+        "planning_of_prophecies":
+          "full_sheet": ["miscellaneous/planning_of_prophecies_{lang}.rst"]
+        "ingame_speeches":
+          "full_sheet": ["miscellaneous/ingame_speeches_{lang}.rst"]
+        "enigma_solutions":
+          "full_sheet": ["miscellaneous/enigma_solutions_{lang}.rst"]
+        "last_minute_instructions_for_participants":
+          "full_sheet": ["miscellaneous/last_minute_instructions_for_participants_{lang}.rst"]
+        "complement_for_diakons":
+          "full_sheet": ["miscellaneous/complement_for_diakons_{lang}.rst"]
+        "complement_for_explorers":
+          "full_sheet": ["miscellaneous/complement_for_explorers_{lang}.rst"]
+        "complement_for_parcival":
+          "full_sheet": ["miscellaneous/complement_for_parcival_{lang}.rst"]
+        "complement_for_spies":
+          "full_sheet": ["miscellaneous/complement_for_spies_{lang}.rst"]
+        "main_quest_tracking_sheets":
+          "full_sheet": ["miscellaneous/main_quest_tracking_sheets_{lang}.rst"]
+
+# BEWARE, when regenerating PDF clues, that their titles and content match well!
+# Parts are [name or null to skip the pages, page count, snippet of the first page (null for pages without text)],
+# and the comment sample proves that story tags of the gamemaster comments were extracted from the ODT
+"document_generation":
+  "ingame_clues_archives":
+    "document_source": "miscellaneous/ingame_clues_archives_{lang}.odt"
+    "comment_sample":
+      "fr": "petite sœur des Parcival"
+      "en": "cure the Parcivals' little sister"
+    "document_splitting":
+      - [recipe_flex_elixir_and_clarity_lotion, 1, {fr: "Élixir Flexifiant Dans", en: "Flexifying Elixir In"}]
+      - [recipe_pyrolitis_tincture, 1, {fr: "Teinture Pyrolitis -", en: "Pyrolitis Tincture -"}]
+      - [recipe_rejuvenation_cocktail, 1, {fr: "Cocktail de Réjuvénation", en: "Rejuvenation Cocktail Sovereign"}]
+      - [extra_alchemy_recipes, 1, {fr: "Notes d’Alchimie Atomique", en: "Notes on Atomic Alchemy"}]
+      - [thanatologue_extract, 4, {fr: "... alors que la défaite", en: "... as defeat seemed"}]
+      - [meredice_diary_extract, 1, {fr: "Cher journal, cette", en: "Dear diary, this fifth"}]
+      - [chromacryptographic_messages, 2, null]
+      - [parcival_oracle_vision_about_water_mill, 1, null]
+      - [parcival_oracle_vision_about_necromancers_and_ring_amplificans, 1, null]
+      - [parcival_oracle_vision_about_maupertuis_father_twin_books, 1, null]
+      - [parcival_oracle_shared_vision_about_world_threat, 3, null]
+      - [parcival_oracle_vision_about_chaos_novel_tome_3, 1, {fr: "CHAOS T3 ZOOLOGIE", en: "CHAOS V3 ZOOLOGY GASTRONOMY"}]
+      - [secret_codes_converters, 1, {fr: "Codes Secrets Connus", en: "Known Secret Codes"}]
+      - [unreadable_runes, 2, null]
+      - [antic_akarith_runes, 1, {fr: "Deux Cryptorunes Akarites", en: "Two Antique Akarith"}]
+      - [maupertuis_father_chest_code_anamorphosis_enigma, 1, null]
+      - [maupertuis_whispering_box_enigma, 1, {fr: "(Énigme de la Boîte", en: "(Whispering Box Riddle)"}]
+      - [octave_diary_on_his_tomb, 1, {fr: "Cher journal intime,", en: "Dear diary, For ages"}]
+      - [letters_to_maupertuis_parents, 2, {fr: "Le 23 Septemaire 500", en: "23 Septemaire 500"}]
+      - [octave_instructions_for_initiation, 1, {fr: "Octave, voici les", en: "Octave, here are the"}]
+      - [avatar_novel_summaries, 2, {fr: "Roman « Les cygnes", en: "Novel “The Pond Swans”"}]
+      - [conspiracy_anti_arkon_letter_with_coast_of_arms, 1, {fr: "Mon cher Fils dans", en: "My dear Son in the Yods,"}]
+      - [archivist_diary_in_his_case, 4, {fr: "8 octobaire 500 Ô que", en: "8 octobaire 500 O,"}]
+      - [book_shelf_labels_for_library1, 1, {fr: "RAYON ZOOLOGIE RAYON", en: "ZOOLOGY SHELF GASTRONOMY"}]
+      - [skeleton_danger_symbol, 1, null]
+      - [book_shelf_labels_for_library2, 1, {fr: "GRIMOIRES TEINTURES GRIMOIRES", en: "TINCTURE GRIMOIRES PHILTRE"}]
+      - [maupertuis_caduceus_symbol, 1, null]
+      - [coffee_mill_stereogram, 1, null]
+      - [miscellaneous_secret_messages, 2, {fr: "écriteau descriptif pour", en: "descriptive sign for"}]
+      - [trap_and_property_markers, 8, {fr: "POISON POISON", en: "POISON POISON"}]
+      - [null, 1, {fr: "TRASH PAGE", en: "TRASH PAGE"}]
+
+"summary_generation":
+  "game_facts_template": "summaries/game_facts_summary_{lang}.txt"
+  "game_facts_destination": "gamemaster/game_facts_summary"
+
+  "game_symbols_template": "summaries/game_symbols_summary_{lang}.txt"
+  "game_symbols_destination": "gamemaster/game_symbols_summary"
+
+  "game_items_template": "summaries/game_items_summary_{lang}.txt"
+  "game_items_destination": "gamemaster/game_items_summary"

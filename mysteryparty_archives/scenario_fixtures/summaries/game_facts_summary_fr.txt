@@ -1,0 +1,28 @@
+Faits et protagonistes impliqués
+====================================
+
+{% macro display_fact_names(listing) %}{% for name, data in listing.items()|sort if name != master_login %}{% if not loop.first %}, {% endif %}{% if data["is_author"] %}**{% endif %}{{name}}{% if data["is_author"] %}**{% endif %}{% endfor %}{% endmacro %}
+
+<{ display_scenario_errors has_serious_errors=has_serious_errors error_messages=error_messages }/>
+
+{% if facts_registry %}
+
+*Les personnages auteurs d'un fait sont en gras. Le maître de jeu n'est pas listé, et les faits des documents d'indices en jeu sont attribués à "<master>".*
+
+.. list-table::
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Action ou fait
+     - Connaisseurs
+
+{% for fact, knowers in facts_registry.items()|sort %}
+   * - {{ fact[0]|title }}{{ fact[1:] }}
+     - {{ display_fact_names(knowers) }}
+{% endfor %}
+
+{% else %}
+
+*Aucun fait n'a été trouvé dans les documents du scénario.*
+
+{% endif %}

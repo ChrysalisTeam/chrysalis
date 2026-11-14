@@ -1,0 +1,28 @@
+Symboles du scénario
+======================
+
+{% macro display_symbol_values(values) %}{% for value in values|map("replace", "\n", "")|map("trim")|unique|sort %}{% if not loop.first %}, {% endif %}{{value}}{% endfor %}{% endmacro %}
+
+<{ display_scenario_errors has_serious_errors=has_serious_errors error_messages=error_messages }/>
+
+{% if symbols_registry %}
+
+*Les valeurs de symboles restent considérées identiques si elles ne diffèrent que par la casse ou des retours à la ligne.*
+
+.. list-table::
+   :widths: 60 40
+   :header-rows: 1
+
+   * - Nom du symbole
+     - Valeur(s)
+
+{% for symbol_name, symbol_values in symbols_registry.items()|sort %}
+   * - {{ symbol_name }}
+     - {{ display_symbol_values(symbol_values) }}
+{% endfor %}
+
+{% else %}
+
+*Aucun symbole n'a été trouvé dans les documents du scénario.*
+
+{% endif %}
