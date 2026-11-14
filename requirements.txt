@@ -1,1 +1,5 @@
+# PDF build tool of all games (brings rst2pdf, jinja2, docutils, reportlab, pypdf...)
+pychronia-storygen @ git+https://github.com/ChrysalisTeam/pychronia-storygen.git
+
+# For common_assets/tools/check_fixture_translations.py
 PyYAML==6.0.3
