@@ -5,13 +5,13 @@ TODO REPARER GENERATION DE GALMEMASTER ASSETS CHECKLIST
 {% fact "lordanians_were_arrested_last_evening" %}
 
 
-- obtenir que Sabarim ouvre son aérodrome militaire géant à des bombardiers lordaniens (sur la demande de ceux-ci) ?
+- obtenir que Sabarim ouvre son aÃ©rodrome militaire gÃ©ant Ã  des bombardiers lordaniens (sur la demande de ceux-ci) ?
 
-Parler à alphonse pour théologie
+Parler Ã  alphonse pour thÃ©ologie
 
-TODO - négotiations avec consuls à intégrer dans le jeu !!!!
+TODO - nÃ©gotiations avec consuls Ã  intÃ©grer dans le jeu !!!!
 
-TODO augmenter l'accès aux enregistrements du manoir
+TODO augmenter l'accÃ¨s aux enregistrements du manoir
 
 Y a-t-il toujours histoire des forteresses volantes lordaniennes ?
 
@@ -27,7 +27,7 @@ Enlever Coeur de Fusion Thermocyclique ???
 
 
 {% if not small_format %}
-Les lordaniens ont aussi eu vent de cet Elixir, et ils sont intéressés de voir ses effets sur Opal, pour jauger de sa pertinence sur leur infanterie. Ils ont obtenu des indices sur les ingrédients complémentaires, permettant de modifier les effets de l'Elixir.
+Les lordaniens ont aussi eu vent de cet Elixir, et ils sont intÃ©ressÃ©s de voir ses effets sur Opal, pour jauger de sa pertinence sur leur infanterie. Ils ont obtenu des indices sur les ingrÃ©dients complÃ©mentaires, permettant de modifier les effets de l'Elixir.
 {% endif %}
 FIXME QUI A CELA EN VERSION COURTE???????????????
 
