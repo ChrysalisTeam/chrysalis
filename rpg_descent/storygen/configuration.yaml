@@ -1,0 +1,33 @@
+# Descent RPG: one PDF per player + the master script, for both languages (use --lang fr|en)
+
+"template_dirs": ["../scenario_fixtures"]
+
+"data_files":
+  - "file": "../scenario_fixtures/descent_rpg_data_{lang}.yaml"  # provides the "descent_rpg" variable
+
+"settings":
+  "rst2pdf_conf_file": "../../docs/rst2pdf_storygen.conf"
+  "rst2pdf_smart_quotes": 0
+  "docutils_conf_file": "../../docs/docutils.conf"
+  "rst2pdf_extra_args": "--stylesheets=simple_tight"
+
+"sheet_generation":
+
+  "sheets":
+    "master_script":
+      "full_sheet": "master_script_{lang}.rst"
+
+  "groups":
+    "players":
+      "settings":
+        "rst2pdf_extra_args": "--stylesheets=simple_large,dark_background"
+      "sheets":
+        # sheet names = player keys of descent_rpg_data_{lang}.yaml (used as "current_player_id")
+        "archaeologist":
+          "full_sheet": "player_sheet_template_{lang}.rst"
+        "naturalist":
+          "full_sheet": "player_sheet_template_{lang}.rst"
+        "protector":
+          "full_sheet": "player_sheet_template_{lang}.rst"
+        "butler":
+          "full_sheet": "player_sheet_template_{lang}.rst"

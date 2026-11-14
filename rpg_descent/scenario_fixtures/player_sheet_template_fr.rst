@@ -1,4 +1,5 @@
-Chrysalis:Descent - {{ name }}
+{% set player = descent_rpg.players[current_player_id] %}
+Chrysalis:Descent - {{ player.name }}
 ##########################################################
 
 
@@ -12,23 +13,23 @@ Statistiques
    * - Caractéristique
      - Valeur
    * - Constitution
-     - {{ stats.constitution }}
+     - {{ player.stats.constitution }}
    * - Agilité
-     - {{ stats.agility }}
+     - {{ player.stats.agility }}
    * - Observation
-     - {{ stats.observation }}
+     - {{ player.stats.observation }}
 
 
 Missions
 =============
 
-{{ missions }}
+{{ player.missions }}
 
 
 Compétences
 ===============
 
-{% for entry in abilities %}
+{% for entry in player.abilities %}
 - {{ entry }}
 {% endfor %}
 
@@ -39,13 +40,13 @@ Compétences
 
 Communs :
 
-{% for entry in common_equipments %}
+{% for entry in descent_rpg.common_equipments %}
 - {{ entry }}
 {% endfor %}
 
 
 Spécifiques :
 
-{% for entry in equipments %}
+{% for entry in player.equipments %}
 - {{ entry }}
 {% endfor %}

@@ -68,11 +68,11 @@ Under pytest, use the CHRYSALIS_LANG (eg. "en") and CHRYSALIS_WITH_CLUES (eg. "1
 Chrysalis:Descent
 ---------------------
 
-Run::
+Its documents are built by Pychronia-storygen, from the "rpg_descent/storygen/" project folder (kept out of "rpg_descent/scenario_fixtures/", which the Pychronia portal loads as game data). Run, from the root folder of the repository::
 
-	python build_descent_pdfs.py --lang en
+	pychronia_storygen rpg_descent/storygen --lang en
 
-The "docs/output_descent/en/" folder should then contain the gamemaster manual, and character sheets, for this tabletop roleplay game.
+The "rpg_descent/storygen/_output/en/" folder should then contain the gamemaster manual, and character sheets, for this tabletop roleplay game.
 
 They are meant to be used along the assets of the "rpg_descent/" folder.
 
