@@ -3,7 +3,7 @@
 # It holds ONLY the subtrees whose texts end up in the English Mindstorm PDFs (official roles and guest
 # descriptions, players' extra goods and secret questions, manor surveillance reports, auctioned lots,
 # Yodic quotes/theology static pages), and is deep-merged over the French dump by
-# rpg_sheet_generator.load_yaml_with_localized_overlay(): every key here MUST exist in the French dump
+# the "overlay" option of the "data_files" entry of storygen configurations: every key here MUST exist in the French dump
 # (the build fails otherwise, to catch drift when the dump is regenerated), and Jinja placeholders like
 # {{character_properties.opal.official_name}} must be kept as they are.
 
