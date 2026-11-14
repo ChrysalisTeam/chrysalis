@@ -1,0 +1,33 @@
+embeddedFonts:
+- [OpenSans-Regular.ttf, OpenSans-Bold.ttf, OpenSans-Italic.ttf, OpenSans-BoldItalic.ttf]
+pageSetup: {firstTemplate: coverPage}
+pageTemplates:
+  coverPage:
+    background: cover.jpg
+    frames:
+    - [43%, 22%, 65%, 30%]
+    showFooter: false
+    showHeader: false
+  intermediaryPage:
+    background: background.jpg
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showFooter: false
+    showHeader: false
+  standardPage:
+    background: background.jpg
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showFooter: true
+    showHeader: false
+styles:
+  admonition: {backColor: transparent}
+  # base options disabled: "kerning: true" (BUGGY), "firstLineIndent: 10"
+  base: {fontName: opensans, fontSize: 13, leading: 18}
+  bullet-list: {spaceAfter: 0, spaceBefore: 0}
+  bullet-list-item: {firstLineIndent: 0, spaceAfter: 2}
+  heading1: {fontSize: 13, spaceBefore: 14}
+  heading2: {fontSize: 11, spaceBefore: 8}
+  subtitle: {alignment: right, fontSize: 10, textColor: black}
+  title: {alignment: right, fontSize: 17, textColor: black}
+  transient-clue: {textColor: black}
