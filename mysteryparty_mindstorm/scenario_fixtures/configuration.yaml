@@ -18,10 +18,8 @@
   "toc_depth": 1  # of decorated sheets, see layouts/header.rst
 
 "data_files":
-  # TEMPORARY: the game data dump is loaded by the hook, since it contains python/tuple tags which the SafeLoader of
-  # storygen refuses; once storygen supports them, declare it here instead:
-  # - "file": "../../docs/_initial_game_data_dump.yaml"
-  #   "overlay": "../../docs/_initial_game_data_dump_{lang}.yaml"
+  - "file": "../../docs/_initial_game_data_dump.yaml"
+    "overlay": "../../docs/_initial_game_data_dump_{lang}.yaml"  # partial translation (absent in French)
   - "variable": "murder_party_items_raw"  # turned into "murder_party_items" by the hook
     "file": "gamemaster_assets_checklist_{lang}.yaml"
   - "file": ["../../mysteryparty_common/scenario_fixtures/local.yaml", "../../mysteryparty_common/scenario_fixtures/local.yaml.example"]

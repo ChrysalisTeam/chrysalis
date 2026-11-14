@@ -9,9 +9,6 @@ import logging
 import os
 import re
 
-import yaml
-
-from pychronia_storygen.data_files import deep_merge_localized_overlay
 
 # for now, only these two types exist; sheets of the "postauction.custom" type are not built by this project
 GAME_TYPES = {True: "anteauction.standalone", False: "postauction.custom"}
@@ -87,34 +84,9 @@ def strip_pychronia_page_markup(text):
     return text
 
 
-def _load_game_data_dump(project_dir, language):
-    """
-    Load the game data dump, then deep-merge its (partial) translation for languages other than French.
-
-    TEMPORARY: this should be done by the "data_files" entry of the configuration, but the dump contains
-    python/tuple tags (novelty_tracker, ...) which the SafeLoader of storygen refuses to load.
-    """
-    docs_dir = os.path.join(project_dir, "..", "..", "docs")
-    dump_file = os.path.join(docs_dir, "_initial_game_data_dump.yaml")
-    with open(dump_file, "r", encoding="utf8") as f:
-        data = yaml.load(f, Loader=yaml.FullLoader)
-    if language != "fr":  # the dump is the French base data
-        overlay_file = os.path.join(docs_dir, "_initial_game_data_dump_%s.yaml" % language)
-        if os.path.exists(overlay_file):
-            with open(overlay_file, "r", encoding="utf8") as f:
-                deep_merge_localized_overlay(data, yaml.load(f, Loader=yaml.FullLoader))
-        else:
-            logging.warning("No translated overlay %s found, using untranslated data", overlay_file)
-    return data
-
-
 def prepare_variables(variables, *, language, jinja_env):
     project_dir = variables["project_dir"]
     assert language in DOCUMENT_TITLES, "Mindstorm must be built with --lang fr|en, not %r" % language
-
-    # The dump has a lower priority than the other data files and variables of the configuration
-    for key, value in _load_game_data_dump(project_dir, language).items():
-        variables.setdefault(key, value)
 
     is_standalone = variables.setdefault("standalone", True)
     variables["game_type"] = GAME_TYPES[bool(is_standalone)]
