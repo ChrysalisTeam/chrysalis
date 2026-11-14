@@ -17,7 +17,7 @@ Faits et protagonistes impliqués
      - Connaisseurs
 
 {% for fact, knowers in facts_registry.items()|sort %}
-   * - {{ fact[0]|title }}{{ fact[1:] }}
+   * - {{ fact }}
      - {{ display_fact_names(knowers) }}
 {% endfor %}
 
