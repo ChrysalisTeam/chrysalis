@@ -17,8 +17,9 @@ Also build the scenarios of `rpg_sentience` and `rpg_skeletons` (plain RST to PD
 - **Theme**: keep the shared rst2pdf theme (`docs/assets/*.yaml` stylesheets and images,
   `Chrysalis/fonts/`) for now; see "Shared theme" for the adjustments it needs. Background-dependent
   stylesheets get temporary storygen copies until the old scripts are deleted.
-- **Descent location** (G11): the storygen project is `rpg_descent/` itself (one level above
-  `scenario_fixtures/`, which Pychronia loads as a whole), so no `--config` option is needed.
+- **Descent location** (G11): the storygen project is `rpg_descent/storygen/`, a sibling of
+  `scenario_fixtures/` (which Pychronia loads as a whole), so no `--config` option is needed; it stays at
+  the same depth as other projects, which the shared theme paths require (see "Shared theme").
 - **Checklists**: the hook computes `murder_party_items` and the per-crate structure as today, templates
   unchanged; converting to storygen inventories can come later.
 - **ODT tags**: renamed by a script editing the ODTs' `content.xml`, then checked by re-extracting their text;
@@ -162,9 +163,10 @@ Make the sheet name only a default, overridable by `variables.current_player_id`
 
 Pychronia loads `rpg_descent/scenario_fixtures` as a whole fixture directory (Pychronia `common_settings.py:111,305`;
 `load_yaml_fixture()` merges every `*.yaml` and `*/*.yaml` not starting with `_`), so a storygen `configuration.yaml`
-there would be merged into the Mindstorm game data. Decided: the Descent storygen project is `rpg_descent/`
-itself, its `configuration.yaml` referencing templates and data as `scenario_fixtures/...` (the project dir is
-the jinja2 root, so no `template_dirs` is even needed); `_build/` and `_output/` then live in `rpg_descent/`.
+there would be merged into the Mindstorm game data. Decided: the Descent storygen project is `rpg_descent/storygen/`,
+using `template_dirs: ["../scenario_fixtures"]` and data files from `../scenario_fixtures/`. (`rpg_descent/` itself
+was considered, but rst2pdf resolves theme paths relative to the project dir, so all projects must sit at
+`Chrysalis/<game>/<folder>/`.)
 Auction is not affected (Pychronia lists its root fixture files one by one).
 
 
@@ -238,7 +240,7 @@ Hence the hook approach; converting to storygen inventories can come later.
 ## Shared theme
 
 storygen chdirs into the project directory, and every Chrysalis project sits at the same depth
-(`Chrysalis/<game>/scenario_fixtures/`), so a shared `docs/rst2pdf_storygen.conf` can use
+(`Chrysalis/<game>/scenario_fixtures/`, or `rpg_descent/storygen/`), so a shared `docs/rst2pdf_storygen.conf` can use
 `stylesheet_path="../../docs/assets"` and `font_path="../../fonts"`, referenced by each project as
 `"rst2pdf_conf_file": "../../docs/rst2pdf_storygen.conf"`.
 Verified: rst2pdf uses these configuration values as-is, ie. relative to its CWD (the project dir), not to the
@@ -279,7 +281,7 @@ Generated `_build/` and `_output/` folders must be git-ignored for all projects 
    - `rpg_sentience`: configuration with a single sheet, shared theme (stylesheet copies, docutils config).
    - `rpg_skeletons`: rename the scenario to `skeletons_scenario_fr.rst`, French-only configuration
      (`--lang fr`); delete `generate_pdf_from_rst.py` (the committed PDFs stay as they are).
-   - Descent: project in `rpg_descent/` (G11), data file + one sheet per player (sheet names = YAML player keys),
+   - Descent: project in `rpg_descent/storygen/` (G11), data file + one sheet per player (sheet names = YAML player keys),
      template rewritten to read `descent_rpg.players[current_player_id]` and `descent_rpg.common_equipments`,
      master script sheet.
    - Auction: data file, section-joining templates for full/extract manuals, G8.
