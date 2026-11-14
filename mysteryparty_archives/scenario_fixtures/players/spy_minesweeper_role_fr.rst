@@ -20,7 +20,7 @@ Vous êtes capable de reconnaître et sécuriser les couloirs dangereux des viei
 
 *NOTES hors-jeu* :
 
-Les dangers sont simulés par des fils blancs fins (et non des cordelettes de chanvre) tendus en travers du chemin, avec des grelots attachés ; c'est à vous d'annoncer aux autres joueurs si c'est une fragilité naturelle ou un piège artificiel, selon qu'il s'agit d'une zone normalement habitable, ou d'un sanctuaire caché. {% hint "thin_white_wire_and_bells_to_represent_traps" is needed %}
+Les dangers sont simulés par des fils blancs fins (et non des cordelettes de chanvre) tendus en travers du chemin, avec des grelots attachés ; c'est à vous d'annoncer aux autres joueurs si c'est une fragilité naturelle ou un piège artificiel, selon qu'il s'agit d'une zone normalement habitable, ou d'un sanctuaire caché. {% xitem "thin_white_wire_and_bells_to_represent_traps" is needed %}
 
 Il est possible de contourner ces fils, ou même de passer au-dessus ou en-dessous, mais buter dedans déclenche un accident.
 
@@ -34,7 +34,7 @@ N'hésitez pas à en rajouter au niveau théâtral, à établir un périmètre d
 Bâtonnets d'explosifs
 ++++++++++++++++++++++++++
 
-Vous avez avec vous **2 bâtonnets de dynamite**. Chacun peut servir à déblayer un **éboulis rocheux** préexistant dans la bibliothèque ; cet éboulis est matérialisé par des cartons froissés et des étiquettes. Les murs sains, le mobilier, les livres, sont encore protégés par des enchantements, et ne réagiront pas aux explosifs. {% hint "2_explosives_for_minesweeper" is needed %}
+Vous avez avec vous **2 bâtonnets de dynamite**. Chacun peut servir à déblayer un **éboulis rocheux** préexistant dans la bibliothèque ; cet éboulis est matérialisé par des cartons froissés et des étiquettes. Les murs sains, le mobilier, les livres, sont encore protégés par des enchantements, et ne réagiront pas aux explosifs. {% xitem "2_explosives_for_minesweeper" is needed %}
 
 *NOTE hors-jeu : Voyez avec le maître de jeu pour utiliser cette compétence, et simuler la "mise à l'abri de tous" pendant le compte à rebours.*
 
@@ -45,7 +45,7 @@ Réserve de luminis
 Vous avez emporté avec vous un sac de "luminis", de petits éclairages autonomes luisants.
 
 Ils peuvent éclairer (faiblement) une zone de la bibliothèque. Mais ils peuvent aussi vous servir à baliser les chemins sûrs, à mettre en évidence des points d'intérêt ou de dangers, ou à tout autre usage - à votre convenance.
-{% hint 'mini_candles_for_minesweeper' is needed %}
+{% xitem 'mini_candles_for_minesweeper' is needed %}
 
 *NOTE hors-jeu : Ces bougies LED doivent vous être fournies avant le jeu par les organisateurs.*
 
@@ -57,7 +57,7 @@ Vous avez depuis toujours une véritable passion pour les **inventions mécaniqu
 
 Avec les progrès faits dans les engrenages diphasiques, les compresseurs néodymes et les senseurs proprioceptifs, d'ici quelques décennies les machines autonomes se répandront dans le monde, vous en avez la certitude enthousiaste. Même si l'intelligence de ces machines restera pour longtemps très rudimentaire.
 
-*Vous pouvez à votre guise improviser des termes scientifiques et des inventions dans ce domaine, tant qu'ils sont dits avec conviction et restent dans ce niveau de technologie "steampunk" (rétrofuturiste à vapeur).* {% fact "spy_minesweeper_likes_building_robots" as author %}
+*Vous pouvez à votre guise improviser des termes scientifiques et des inventions dans ce domaine, tant qu'ils sont dits avec conviction et restent dans ce niveau de technologie "steampunk" (rétrofuturiste à vapeur).* {% xfact "spy_minesweeper_likes_building_robots" as author %}
 
 
 

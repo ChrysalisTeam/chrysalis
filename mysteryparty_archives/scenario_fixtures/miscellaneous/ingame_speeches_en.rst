@@ -74,7 +74,7 @@ After the music:
 
     Ladies and gentlemen, living people of Pangea, I bid you welcome to the Otherworld Buffet!
 
-If the laden buffet is not already visible, the Inventor can make it appear with a simple formula such as **"My stomach rumbles, my throat runs dry, O table, fill me up!"**. {% fact "buffet_table_magically_generates_food" %}
+If the laden buffet is not already visible, the Inventor can make it appear with a simple formula such as **"My stomach rumbles, my throat runs dry, O table, fill me up!"**. {% xfact "buffet_table_magically_generates_food" %}
 
 {% endmacro %}
 <{ buffet_opening_speech }/>

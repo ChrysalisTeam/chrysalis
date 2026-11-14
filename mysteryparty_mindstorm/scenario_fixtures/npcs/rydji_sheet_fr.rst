@@ -20,7 +20,7 @@ Vous avez ensuite pris le thé avec Loyd Georges, dans un canapé de la salle à
 
 Très tard le soir, vous avez répondu à l'appel de la sonnette de Loyd Georges, et découvert votre maître allongé au sol en pyjama, inconscient, au milieu de sa chambre.
 
-Une ambulance est venue le chercher, puis l'inspecteur Shark et des policiers sont venus prendre possession du manoir. Vous avez cherché à réveiller {{character_properties.opal.official_name}}, mais il était dans un sommeil exceptionnellement profond, et n'a pas réagi aux stimuli. {% fact "rydji_could_not_wake_up_opal_after_lg_troubles" as author %}
+Une ambulance est venue le chercher, puis l'inspecteur Shark et des policiers sont venus prendre possession du manoir. Vous avez cherché à réveiller {{character_properties.opal.official_name}}, mais il était dans un sommeil exceptionnellement profond, et n'a pas réagi aux stimuli. {% xfact "rydji_could_not_wake_up_opal_after_lg_troubles" as author %}
 
 Loyd Georges est, depuis, hospitalisé. Mais sur ordre de l'inspecteur Shark, vous avez maintenu les préparatifs pour la soirée spéciale.
 
@@ -34,7 +34,7 @@ Le tabellion est pour vous un parvenu, mais garant d'un certain respect de la lo
 
 Lorsque l'ambassadeur akarite débarque dans le manoir, vous ne cachez pas votre indignation, comme toute la maisonnée.
 
-Vous savez qu'un **antique téléphone filaire** existe encore dans le manoir, mais s'il marche encore, seul le vieil Alphonse sait s'en servir. {% fact "manor_has_wireline_phone_through_alphonse" %}
+Vous savez qu'un **antique téléphone filaire** existe encore dans le manoir, mais s'il marche encore, seul le vieil Alphonse sait s'en servir. {% xfact "manor_has_wireline_phone_through_alphonse" %}
 
 En parlant d'Alphonse... vous aimez beaucoup votre cher doyen de collègue, mais vous n'hésitez pas à le houspiller lorsqu'il accumule les gaffes, ou se lance dans des initiatives complètement à contretemps de ce qui est important.
 
@@ -45,7 +45,7 @@ Vous êtes un arbitre assermenté de **"duel d'honneur sabarite"**. À vous de m
 {% endmacro %}
 <{ dual_of_honor_arbiter }/>
 
-Lorsque Cynthia et Waden arrivent au manoir, vous et Alphonse tombez des nues : Loyd Georges avait toujours souhaité les tenir à l'écart de ces enchères et de leur cortège de personnages louches. Comment cela se fait-il qu'ils aient été invités ? {% fact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
+Lorsque Cynthia et Waden arrivent au manoir, vous et Alphonse tombez des nues : Loyd Georges avait toujours souhaité les tenir à l'écart de ces enchères et de leur cortège de personnages louches. Comment cela se fait-il qu'ils aient été invités ? {% xfact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
 
 Vous adorez les explosifs, et vous les utilisez pour toute demande qui s'y prête (creuser sous un arbre, dans un mur ou un plafond...), car vous avez légalement toutes les autorisations pour faire des travaux de chantier à l'explosif.
 
@@ -58,7 +58,7 @@ Aider les âmes de bonne volonté à trouver l'agresseur de Loyd Georges.
 
 Protéger votre maisonnée, et les amis de Loyd Georges (surtout Cynthia Loakim), contre les dangers.
 
-Pour sécuriser l'avenir du manoir, contre les créanciers et contre {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, vous brûlez de retrouver l'héritage caché des Loyd, dont voici l'histoire ci-dessous. Loyd Georges vous a confié vouloir mettre Cynthia dans le coup pour tenter, à nouveau, de retrouver ce trésor. {% fact "lg_seeks_legacy_with_help_of_cynthia" as author %} {% fact "lord_mac_jolt_wants_to_own_lg_manor" %}
+Pour sécuriser l'avenir du manoir, contre les créanciers et contre {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, vous brûlez de retrouver l'héritage caché des Loyd, dont voici l'histoire ci-dessous. Loyd Georges vous a confié vouloir mettre Cynthia dans le coup pour tenter, à nouveau, de retrouver ce trésor. {% xfact "lg_seeks_legacy_with_help_of_cynthia" as author %} {% xfact "lord_mac_jolt_wants_to_own_lg_manor" %}
 
 <{ loyd_markis_lost_legacy }/>
 

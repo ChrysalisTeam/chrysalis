@@ -14,7 +14,7 @@ A titre d'information, votre salaire de scientifique est de 3 kilokashes par an.
 ======================================
 
 <{ pneumatic_tubes }/>
-{% hint "pneumatic_tube_for_waden" is needed %}
+{% xitem "pneumatic_tube_for_waden" is needed %}
 
 <{ graphological_analysis }/>
 

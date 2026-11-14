@@ -37,19 +37,19 @@ Informations et instructions spécifiques
 
 Personnellement très affecté par le triste sort de vos amis, vous mettez tous vos espoirs dans les affinités surnaturelles de vos compères d'outre-monde, pour peut-être obtenir justice, et surtout libérer les âmes errantes de la maisonnée Maupertuis.
 
-Durant vos temps heureux dans la bibliothèque, vous aviez fouillé l'étage autorisé avec Octave, et rassemblé de quoi construire plusieurs **automates grandeur-nature** pour faire le service. Dopés par quelques sortilèges de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les ramener dans votre propre univers pour les montrer à vos proches. {% fact "inventor_has_built_androids" %}
+Durant vos temps heureux dans la bibliothèque, vous aviez fouillé l'étage autorisé avec Octave, et rassemblé de quoi construire plusieurs **automates grandeur-nature** pour faire le service. Dopés par quelques sortilèges de l'héritier des Maupertuis, ces androïdes sont sans nul doute vos chefs d'oeuvre, même si vous ne pouvez hélas les ramener dans votre propre univers pour les montrer à vos proches. {% xfact "inventor_has_built_androids" %}
 
-Vous aviez donné à Octave un **bracelet large argenté avec rubans blancs appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**, conçu par vos soins et permettant de commander avec fermeté les automates. Ce bracelet est désormais revenu à votre **poignet**. {% hint 'androids_command_silver_white_ribbon_bracelet_for_inventor' is needed %}
+Vous aviez donné à Octave un **bracelet large argenté avec rubans blancs appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**, conçu par vos soins et permettant de commander avec fermeté les automates. Ce bracelet est désormais revenu à votre **poignet**. {% xitem 'androids_command_silver_white_ribbon_bracelet_for_inventor' is needed %}
 
-En tant que maître actuel des automates, vous les dirigez pour le service de table, vous les réglez/huilez lorsqu'ils dysfonctionnent, voire vous testez de nouvelles interactions avec eux - qu'ils peuvent ou non comprendre. Vous disposez d'un **porte-voix à écho** pour les rameuter, dont vous vous servez aussi de façon fantaisiste pour vos envolées enthousiastes sur n'importe quel sujet. {% hint "echo_megaphone" is needed %}
+En tant que maître actuel des automates, vous les dirigez pour le service de table, vous les réglez/huilez lorsqu'ils dysfonctionnent, voire vous testez de nouvelles interactions avec eux - qu'ils peuvent ou non comprendre. Vous disposez d'un **porte-voix à écho** pour les rameuter, dont vous vous servez aussi de façon fantaisiste pour vos envolées enthousiastes sur n'importe quel sujet. {% xitem "echo_megaphone" is needed %}
 
-Mais vous vous faites du souci pour le devenir de ces fabuleux automates, dans cette bibliothèque où le matériel de réparation commence à manquer. Si vous croisez un joueur lui aussi intéressé par la robotique, et qui le démontre en utilisant un vocabulaire technique évolué (sur lequel vous rebondissez, en improvisant), vous acceptez de lui **affecter et activer** le bracelet (en quelques coups de tournevis), et vous annoncez **à tous** que désormais les automates présents répondront du mieux possible à ses ordres, et non aux vôtres ; du moins tant que ces ordres ne contredisent pas leurs règles innées de non-agression et de survie. {% fact "spy_minesweeper_likes_building_robots" %}
-{% fact "robots_obey_but_refuse_violence_or_sacrifice" %}
+Mais vous vous faites du souci pour le devenir de ces fabuleux automates, dans cette bibliothèque où le matériel de réparation commence à manquer. Si vous croisez un joueur lui aussi intéressé par la robotique, et qui le démontre en utilisant un vocabulaire technique évolué (sur lequel vous rebondissez, en improvisant), vous acceptez de lui **affecter et activer** le bracelet (en quelques coups de tournevis), et vous annoncez **à tous** que désormais les automates présents répondront du mieux possible à ses ordres, et non aux vôtres ; du moins tant que ces ordres ne contredisent pas leurs règles innées de non-agression et de survie. {% xfact "spy_minesweeper_likes_building_robots" %}
+{% xfact "robots_obey_but_refuse_violence_or_sacrifice" %}
 
 Naturellement, vous savez **réparer** moult choses, par exemple un détecteur de métal cassé, ou une lampe UV, ou une lanterne qui n'éclaire plus, si on vous les amène ; cela vous prend évidemment un peu de temps. *Isolez-vous avec l'objet et mettez-y les grosses piles qui manquent (piles cylindriques et rectangulaires que vous devez avoir reçues au début du jeu), quand cela se produit.*
-{% fact "inventor_can_repair_items" %}
-{% hint "explorer_unveiler_uv_lamp_initially_broken" is needed %} {% hint "explorer_unveiler_uv_lamp_battery" is needed %}
-{% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "spy_sounder_metal_detector_battery" is needed %}
+{% xfact "inventor_can_repair_items" %}
+{% xitem "explorer_unveiler_uv_lamp_initially_broken" is needed %} {% xitem "explorer_unveiler_uv_lamp_battery" is needed %}
+{% xitem "spy_sounder_metal_detector_initially_broken" is needed %} {% xitem "spy_sounder_metal_detector_battery" is needed %}
 
 {# ABORTED
  IL A UNE CLEF MAGNETIQUE AUSSI, pour cas de DOUBLE SERRURE !!! NOPE jamais vraiment nécessaire...

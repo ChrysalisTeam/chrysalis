@@ -7,7 +7,7 @@ Vos compétences
 
 Et votre péché mignon, c'est l'utilisation des ondes électromagnétiques ou sonores pour trouver ce qui échappe à la vue de tous. Vous avez donc toujours avec vous quelques matériels fort utiles.
 
-Ceux-ci pourraient en particulier aider à trouver les serrures magnétiques qui intéressent l'un de vos compères. {% fact "spy_sounder_can_help_spy_lockpicker_regarding_magnetic_unlocker" %}
+Ceux-ci pourraient en particulier aider à trouver les serrures magnétiques qui intéressent l'un de vos compères. {% xfact "spy_sounder_can_help_spy_lockpicker_regarding_magnetic_unlocker" %}
 
 
 Détecteur de métaux
@@ -18,10 +18,10 @@ Votre détecteur de métaux (*fourni par les organisateurs*) vous alerte par des
 Si vous l'allumez près d'objets métalliques, sa sensibilité sera diminuée, ce qui peut être utile pour déceler des agrégats métalliques au milieu d'autres objets qui feraient sonner le détecteur (comme des étagères en métal).
 
 Étrangement, vous avez déjà vu ce détecteur sonner devant des *tableaux* ; un érudit vous a indiqué qu'il s'agissait probablement de peintures contenant des pigments de métaux précieux, et servant de support à de puissants "sortilèges prophétiques". Manifestement, celles que vous aviez croisées étaient déjà désenvoûtées par un spécialiste, ou par le passage du temps ; car lorsque l'érudit les a couvertes de **"Lotion de Révélation"**, elles ont à peine réagi.
-{% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
-{% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
+{% xfact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
+{% xfact "spy_sounder_knows_about_scary_lenticular_paintings" %}
 
-Manque de chance : il semble que la **batterie cubique de votre détecteur de métaux soit morte** lors de vos récentes déambulations. Vous cherchez donc ardemment de quoi le remettre en marche. {% hint "spy_sounder_metal_detector_initially_broken" is needed %} {% hint "spy_sounder_metal_detector_battery" is needed %}
+Manque de chance : il semble que la **batterie cubique de votre détecteur de métaux soit morte** lors de vos récentes déambulations. Vous cherchez donc ardemment de quoi le remettre en marche. {% xitem "spy_sounder_metal_detector_initially_broken" is needed %} {% xitem "spy_sounder_metal_detector_battery" is needed %}
 
 
 Détecteur de magnétisme

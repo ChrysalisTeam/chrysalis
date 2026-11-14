@@ -54,9 +54,9 @@ A force de croiser des objets antiques ou teintés d'auras mystérieuses, vous c
 Il vous faudra cependant vous adresser à la bonne personne experte, pour en savoir davantage sur la plupart de ces propriétés.
 
 *Explications hors-jeu* : Si vous croisez une **étoile dorée** sur un objet, cela signifie qu'il a probablement des propriétés magiques ; si des symboles géométriques sont présents à côté de l'étoile dorée, l'objet est peut-être maudit, seul un désenvoûteur peut en avoir le coeur net. Si une **étoile argentée** est présente, cela indique un objet intéressant d'un point de vue scientifique, à analyser. Si vous voyez une **plume colorée**, cela peut indiquer une énergie liée aux dons de prophétie, qui intéressera des médiums.
- {% fact "sticker_gold_star_means_magical_analysis" %}
- {% fact "sticker_silver_star_means_physical_analysis" %}
- {% fact "oracle_revelations_are_triggered_by_colored_feathers" %}
+ {% xfact "sticker_gold_star_means_magical_analysis" %}
+ {% xfact "sticker_silver_star_means_physical_analysis" %}
+ {% xfact "oracle_revelations_are_triggered_by_colored_feathers" %}
 
 {% endmacro %}
 <{ section_with_recognition_of_artefacts }/>

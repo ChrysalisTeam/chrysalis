@@ -74,7 +74,7 @@ Après la musique :
 
     Mesdames et messieurs les vivants de Pangéa, je vous souhaite la bienvenue au buffet d'outre-monde !
 
-Si le buffet garni n'est pas déjà apparent, l'inventeur peut le faire apparaître par une formule simple comme **"Mon ventre gargouille, ma gorge se dessèche, ô table comble-moi !"**. {% fact "buffet_table_magically_generates_food" %}
+Si le buffet garni n'est pas déjà apparent, l'inventeur peut le faire apparaître par une formule simple comme **"Mon ventre gargouille, ma gorge se dessèche, ô table comble-moi !"**. {% xfact "buffet_table_magically_generates_food" %}
 
 {% endmacro %}
 <{ buffet_opening_speech }/>

@@ -56,7 +56,7 @@ You also loudly announce the arrival of the various dishes and drinks at the buf
 
 The players will have multiple ways of making use of your services, whether win-win (with your little private sales, or palm-greasing to get extras...), or by fleecing you: blackmail, manipulation of your naivety, exploitation of your taste for alcohol and gambling, pilfering of items...
 
-When Cynthia and Waden arrive at the manor, you and Rydji are flabbergasted: Loyd Georges had always wished to keep them away from these auctions and their procession of shady characters. How come they were invited? {% fact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
+When Cynthia and Waden arrive at the manor, you and Rydji are flabbergasted: Loyd Georges had always wished to keep them away from these auctions and their procession of shady characters. How come they were invited? {% xfact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
 
 Like most people, you are a little afraid of Inspector Shark, so you always go through his **deputy Obsidian** to pass on letters, items or information to him.
 
@@ -65,9 +65,9 @@ Towards the Tabellion of Salima, you are rather indifferent; you think that "thi
 When the Akarith Ambassador turns up at the manor, like the whole household, you do not hide your indignation. However you have an *irrepressible* attraction to the dishes he brings, which gives you a crisis of conscience; until you crack and stuff yourself with them.
 
 You are the only one who knows how to operate an **antique landline fax-phone (with blurry video)** present in the manor. You take advantage of this to charge for its use: **50 kashes per call, or 150 kashes for unlimited use by one person**.
-{% fact "manor_has_wireline_phone_through_alphonse" as author %}
+{% xfact "manor_has_wireline_phone_through_alphonse" as author %}
 
-From time to time you lament the fact that the manor is going to be seized by Loyd Georges' creditors or bought by his adversary {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, that the servants will be driven out of it, that nobody will want to hire an old fossil like you...  {% fact "lord_mac_jolt_wants_to_own_lg_manor" %}
+From time to time you lament the fact that the manor is going to be seized by Loyd Georges' creditors or bought by his adversary {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, that the servants will be driven out of it, that nobody will want to hire an old fossil like you...  {% xfact "lord_mac_jolt_wants_to_own_lg_manor" %}
 
 
 Private sales

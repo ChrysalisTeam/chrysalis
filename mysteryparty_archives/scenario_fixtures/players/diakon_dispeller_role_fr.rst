@@ -21,7 +21,7 @@ La reconnaissance des envoûtements d'artefacts
 
 En imposant les mains sur un objet et en fermant les yeux, vous pouvez sentir s'il a été la cible de malédictions ou de bénédictions.
 
-*NOTES hors-jeu* : Un élément analysable par votre sensibilité porte une **étoile autocollante de couleur dorée**.  {% fact "sticker_gold_star_means_magical_analysis" %}
+*NOTES hors-jeu* : Un élément analysable par votre sensibilité porte une **étoile autocollante de couleur dorée**.  {% xfact "sticker_gold_star_means_magical_analysis" %}
 
 Cette pastille peut être accompagnée de divers symboles géométriques, typiquement sur une étiquette blanche à côté.
 
@@ -32,7 +32,7 @@ S'il existe un petit **cercle** où que ce soit dans la pastille, alors l'envoû
 Si ce cercle contient en plus un **unique point**, alors l'envoûtement passe au niveau "légendaire".
 En l'absence de symboles géométriques, vous ne savez pas déterminer de quelle puissance d'envoûtement il s'agit.
 
-Une étoile dorée peut aussi être accompagnée d'un **code à 3 lettres** ; rentrez ce code dans le {% symbol "portail de connaissances (présent sur place)" for "hint_website_name" %}, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.  {% hint "hint_website_device" is needed %}
+Une étoile dorée peut aussi être accompagnée d'un **code à 3 lettres** ; rentrez ce code dans le {% symbol "portail de connaissances (présent sur place)" for "hint_website_name" %}, dans la **catégorie "{% symbol "magie" for "bewitchment_portal_hint_category" %}"**, pour en apprendre davantage sur l'objet en question.  {% xitem "hint_website_device" is needed %}
 
 Vous devez bien sûr jouer théâtralement votre imposition des mains, et ne pas détailler à quiconque cette signalétique hors-jeu avec la pastille dorée.
 
@@ -42,7 +42,7 @@ La suppression des envoûtements négatifs
 
 **Signalez au maitre de jeu les désenvoûtements que vous souhaitez mener à bien.**
 
-Si l'envoûtement reconnu est "négatif", il est susceptible de blesser, non pas sur le plan spirituel mais biologique, la personne qui le touche. {% fact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
+Si l'envoûtement reconnu est "négatif", il est susceptible de blesser, non pas sur le plan spirituel mais biologique, la personne qui le touche. {% xfact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
 
 Vous pouvez donc vouloir dissiper cet envoûtement par un rituel.
 
@@ -75,7 +75,7 @@ Envoûtement légendaire
 -----------------------------
 
 Si l'envoûtement est de niveau "légendaire", alors il est **impossible** pour vous de le supprimer, sauf en trouvant une contre-mesure spécifique à ce sortilège. Mais le jeu n'en vaut pas toujours la chandelle, car certains artefacts envoutés sont simplement des **pièges** à destination des importuns, qui ne disparaitront qu'en étant déclenchés par une pauvre victime.
-{% fact "some_cursed_artefacts_are_just_unbreakable_traps" %}
+{% xfact "some_cursed_artefacts_are_just_unbreakable_traps" %}
 
 
 {#  NOT FOR NOW

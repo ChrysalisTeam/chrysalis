@@ -40,7 +40,7 @@ Vous avez donc joué le jeu, et investigué en secret pour débloquer l'accès a
 
 Pendant que l'arkonte réalisait son rituel, et refermait un par un les portails interdimensionnels, vous êtes revenu dans le monde des vivants via le troisième tome de votre roman. Et vous avez attaqué les humains peu avant que ce ne soit le tour de votre portail. Octave et l'archiviste ont été vaporisés par votre élémentaire de feu avant même d'avoir compris ce qui leur arrivait. L'arkonte, lui, s'est révélé être un terrible adversaire, enchainant les attaques et les défenses sur les plans physiques, magiques, et sacrés – ce dernier étant bien sûr sans effet sur vous. Au milieu de ce déferlement de puissance, vous avez réussi à lui décocher en plein front une flèche au curare, ce qui a assuré votre victoire.
 
-Hélas pour vous, dans son dernier souffle, {% symbol "Valerias" for "arkon_name" %} a maudit la bibliothèque afin que nul esprit ne puisse en sortir tant que vous-même serez vivant. Son squelette se révélant par ailleurs indestructible, vous avez dissimulé son crâne entre les pieds des {% symbol "plantes de la bibliothèque" for "arkon_skull_location" %}, afin d'éviter qu'il ne vous compromette. Lorsque les autres avatars encore libres sont venus, plusieurs jours plus tard, s'enquérir de la situation, ils n'ont pu comprendre ce qui s'était passé ici ; et vous avez joué le jeu de la surprise et de l'effroi. {% hint 'arkon_skull_hidden_in_jungle_trees' is needed %}
+Hélas pour vous, dans son dernier souffle, {% symbol "Valerias" for "arkon_name" %} a maudit la bibliothèque afin que nul esprit ne puisse en sortir tant que vous-même serez vivant. Son squelette se révélant par ailleurs indestructible, vous avez dissimulé son crâne entre les pieds des {% symbol "plantes de la bibliothèque" for "arkon_skull_location" %}, afin d'éviter qu'il ne vous compromette. Lorsque les autres avatars encore libres sont venus, plusieurs jours plus tard, s'enquérir de la situation, ils n'ont pu comprendre ce qui s'était passé ici ; et vous avez joué le jeu de la surprise et de l'effroi. {% xitem 'arkon_skull_hidden_in_jungle_trees' is needed %}
 
 Depuis, vos investigations piétinent ; la fouille de l'étage autorisé n'a rien donné, l'étage interdit reste inaccessible, et vous attendez avec impatience que des sorciers humains rouvrent un jour la bibliothèque, afin de reprendre vos plans de conquête du monde.
 
@@ -58,20 +58,20 @@ Informations et instructions spécifiques
 
 Vous vous posez des questions sur la clochette métallique laissée en évidence, qui, lorsque vous l'essayez, sonne mais ne déclenche rien (car vous ne voyez pas les spectres s'agitant à ce moment-là) ; ce n'est pas, en tout cas, une trouvaille de l'inventeur et de ses automates.
 En discutant avec les joueurs, ils finiront bien par vous expliquer ce qui se passe lorsqu'elle est utilisée.
-Une fois que vous savez qu'il s'agit d'un signal de rappel pour les fantômes, **vous la volez discrètement**, et vous la cachez dans votre besace. Ni avatars ni joueurs ne doivent savoir que c'est vous qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% fact "druid_must_steal_table_bell_when_usage_understood" %} {% fact "druid_finally_uses_table_bell_as_weapon" %}
+Une fois que vous savez qu'il s'agit d'un signal de rappel pour les fantômes, **vous la volez discrètement**, et vous la cachez dans votre besace. Ni avatars ni joueurs ne doivent savoir que c'est vous qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% xfact "druid_must_steal_table_bell_when_usage_understood" %} {% xfact "druid_finally_uses_table_bell_as_weapon" %}
 
 Vous êtes un érudit des animaux, des plantes et des minéraux, et le vocabulaire de votre univers est le même que le vocabulaire très ancien de l'univers des vivants.
-Ainsi, si l'on vous le demande, vous indiquez facilement : {% fact "druid_known_about_plants_and_gems" %}
+Ainsi, si l'on vous le demande, vous indiquez facilement : {% xfact "druid_known_about_plants_and_gems" %}
 
-- que "l'arbre éternel" est le sobriquet souvent donné aux oliviers {% fact "druid_knows_that_eternal_tree_is_olive_tree" %}
-- que le "gant-de-renard" est simplement un nom alternatif de la digitale {% fact "druid_knows_that_foxglove_is_digitalis" %}
-- que le "clairvoyant minéral" est ce que l'on nomme ici du cristal de roche {% fact "druid_knows_about_gem_rock_crystal" %}
-- que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% fact "druid_knows_about_aventurine" %}
-- que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% fact "druid_knows_about_tiger_eye" %}
+- que "l'arbre éternel" est le sobriquet souvent donné aux oliviers {% xfact "druid_knows_that_eternal_tree_is_olive_tree" %}
+- que le "gant-de-renard" est simplement un nom alternatif de la digitale {% xfact "druid_knows_that_foxglove_is_digitalis" %}
+- que le "clairvoyant minéral" est ce que l'on nomme ici du cristal de roche {% xfact "druid_knows_about_gem_rock_crystal" %}
+- que "l'aventurine" est une pierre d'un beau vert, souvent lisse et légèrement translucide {% xfact "druid_knows_about_aventurine" %}
+- que "l'oeil-de-tigre" est le nom d'un minéral sombre-orangé {% xfact "druid_knows_about_tiger_eye" %}
 
 **Vous pouvez proposer spontanément votre aide à l'alchimiste**, qui aura besoin de reconnaître ces noms dans les recettes à trouver.
 
-Au niveau de l'enquête principale : si les soupçons initiaux de culpabilité se sont éloignés de l'arkonte (devenu crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter temporairement le doute sur le tombeau du Mage, ou sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% fact "druid_tries_to_frame_magus_or_inventor" %}
+Au niveau de l'enquête principale : si les soupçons initiaux de culpabilité se sont éloignés de l'arkonte (devenu crédible) et de la Bête (neutralisée), vous pouvez essayer de jeter temporairement le doute sur le tombeau du Mage, ou sur votre congénère l'inventeur (n'est-ce pas étrange d'aimer autant les machines ?). {% xfact "druid_tries_to_frame_magus_or_inventor" %}
 
 Si les joueurs font mine de fouiller la terre de la mini-jungle, vous vous énervez, au motif qu'ils "saccagent toutes ces choses sacrées de la Nature" (vous craignez bien sûr qu'ils ne découvrent le crâne de l'arkonte).
 
@@ -81,11 +81,11 @@ Il vous faut prévoir une posture si le Tome 3 de votre roman (qui vous accable)
 Le complot anti-arkonte
 ===========================
 
-Dès que des joueurs se mettent à avoir confiance en l'arkonte, vous vous dites que le vent pourrait tourner pour vous. Vous décidez donc de le piéger, en laissant traîner une fausse lettre compromettante dans son ancienne sacoche porte-document (que vous aviez subtilisée juste après la bataille, *sacoche fournie par les organisateurs*), quelque part dans le domaine interdit enfin ouvert. Vous avez imité, en signature de cette fausse lettre, ce qui pourrait ressembler à des armoiries crédibles pour une secte fanatique chez les humains. {% fact "arkon_bag_disappeared_just_after_his_death" %} {% fact "druid_makes_conspiracy_against_arkon" %}
+Dès que des joueurs se mettent à avoir confiance en l'arkonte, vous vous dites que le vent pourrait tourner pour vous. Vous décidez donc de le piéger, en laissant traîner une fausse lettre compromettante dans son ancienne sacoche porte-document (que vous aviez subtilisée juste après la bataille, *sacoche fournie par les organisateurs*), quelque part dans le domaine interdit enfin ouvert. Vous avez imité, en signature de cette fausse lettre, ce qui pourrait ressembler à des armoiries crédibles pour une secte fanatique chez les humains. {% xfact "arkon_bag_disappeared_just_after_his_death" %} {% xfact "druid_makes_conspiracy_against_arkon" %}
 
 Bien entendu, personne ne doit vous voir poser cette sacoche ; non seulement elle laissera entendre que l'arkonte a pénétré de son vivant dans le domaine interdit, mais aussi qu'il a volontairement tué les réfugiés Maupertuis.
-{% hint "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
-{% fact "sickle_and_holly_emblems_are_banned_in_reality" %}
+{% xitem "arkon_belt_bag_with_compromising_sickle_and_holly_emblem_letter" is needed %}
+{% xfact "sickle_and_holly_emblems_are_banned_in_reality" %}
 
 
 La tentative d'assassinat des prophètes

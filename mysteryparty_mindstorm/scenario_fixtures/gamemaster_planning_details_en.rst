@@ -70,7 +70,7 @@ Briefings in roleplay mode:
 
 - Rydji: you have let Count Blispin, a friend of Loyd Georges, in on things (via telegrams) so that he would help you protect Loyd Georges and his loved ones (especially the Magnus family), but all this unbeknownst to Loyd Georges, who was always too reserved to ask for help; you love explosives, and you use them for any request that lends itself to it (digging under a tree, into a wall or a ceiling...), since you legally have all the permits to carry out construction work with explosives.
 
-- Alphonse: you bellow with emphasis the "in-game" hours as they pass: "Ladies and gentlemen, it is 20:00 and all is well". You also loudly announce the arrival of the various dishes and drinks of the buffet. You mangle words ("succulate these dishes for me", "I am emotioned", "solutionise a problematic"...); you always give in, after dithering, to the wonderful delicacies brought by the Akarith Ambassador; you know the same things as the old neighbour (see her sheet) regarding "Loyd Georges' first pet and the Tabellion's date of birth"; you know that said neighbour (the hamlet's eldest resident) knows a great deal about Loyd Markis and Loyd Georges' childhood; last night, you were gambling in the den {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}, many witnesses can attest to it; the brown canvas bag received yesterday morning by Loyd Georges was lying, at last report, on a shelf of the manor's LIBRARY (you do not know what was done with its contents); the telephone you sometimes let the guests use also does FAX, and it is such an old model that NOBODY could tap it any more; you recently lost the pass card opening only the manor's mailbox, which means that neither you nor Rydji can collect the mail, except by using Loyd Georges' golden pass card once found {% hint 'postbox_specific_lost_passcard' is needed %}; you complain about the gambling dens of Salima, more and more "sectarian" even towards old customers like you; examples of (recurring) comic expressions: "everything is under control", "if I would have known", "unbeknownst to my own free will"...
+- Alphonse: you bellow with emphasis the "in-game" hours as they pass: "Ladies and gentlemen, it is 20:00 and all is well". You also loudly announce the arrival of the various dishes and drinks of the buffet. You mangle words ("succulate these dishes for me", "I am emotioned", "solutionise a problematic"...); you always give in, after dithering, to the wonderful delicacies brought by the Akarith Ambassador; you know the same things as the old neighbour (see her sheet) regarding "Loyd Georges' first pet and the Tabellion's date of birth"; you know that said neighbour (the hamlet's eldest resident) knows a great deal about Loyd Markis and Loyd Georges' childhood; last night, you were gambling in the den {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}, many witnesses can attest to it; the brown canvas bag received yesterday morning by Loyd Georges was lying, at last report, on a shelf of the manor's LIBRARY (you do not know what was done with its contents); the telephone you sometimes let the guests use also does FAX, and it is such an old model that NOBODY could tap it any more; you recently lost the pass card opening only the manor's mailbox, which means that neither you nor Rydji can collect the mail, except by using Loyd Georges' golden pass card once found {% xitem 'postbox_specific_lost_passcard' is needed %}; you complain about the gambling dens of Salima, more and more "sectarian" even towards old customers like you; examples of (recurring) comic expressions: "everything is under control", "if I would have known", "unbeknownst to my own free will"...
 
 - Tabellion: you initially wish for the violent repression of any popular riot ("nothing but delinquents, the lot of them!"), but this position may evolve. For the sale of Lydia's deposit, the purchase price must be a multiple of 0.5 megakashes. You know that according to Sabarith law, a treasure (e.g. Loyd Georges' family one) must be shared half-and-half between whoever (re)discovered it, and the owner of the treasure (or failing that, of the land on which it lies). Prices of the diamonds that can be found in the game: 20¤ for the small round ones, 35¤ for the rectangular ones (the most common), 50¤ for the large round ones; you know how to transfer these "standard" gems (small and transparent, handed over in person) to their owner's Anthropia account (but the reverse operation is not possible); you have 3 coloured stones in your briefcase, which you can sell for 50¤ apiece (their true value), and you recognise them if someone steals them from you and then wants to deposit them into their account through you; you can challenge a guest to the "game of sticks" (Nim), betting for example 100¤ on it, and deciding who starts by playing rock-paper-scissors
 
@@ -174,7 +174,7 @@ HOUR 0:30
 
 - SHARK: orders Obsidian to question **Cynthia and Waden** together: alibis, links with Loyd Georges, suspicions they might have about others...
 
-- SHARK: begins his first interrogation, with **the Dorian agent Peridot**. Gist: Dark at first, then "Good alibi, I don't think it's you, help me advance the investigation by spilling everything you know about the others." {% fact "peridot_has_good_alibi" %}
+- SHARK: begins his first interrogation, with **the Dorian agent Peridot**. Gist: Dark at first, then "Good alibi, I don't think it's you, help me advance the investigation by spilling everything you know about the others." {% xfact "peridot_has_good_alibi" %}
 
 - EMAILS: "Legal Notice on Anthropia Seizures", "We want a scoop" (for Cynthia), "Counter-productive drug trafficking detected" (for the Lordanians)
 
@@ -212,7 +212,7 @@ HOUR 1:00
 
 - SHARK: begins an interrogation with **the Lordanian agent Garnet**, rather aggressive in tone
 
-- COUNCIL: a high-ranking member of the Akarith council calls the Masslavian agent Malachite, to find out how receptive the Dorians are to Akarith dogmas {% fact "malachite_must_answer_akarith_council" %}
+- COUNCIL: a high-ranking member of the Akarith council calls the Masslavian agent Malachite, to find out how receptive the Dorians are to Akarith dogmas {% xfact "malachite_must_answer_akarith_council" %}
 
 - medical report 3: presence of digoxin in the blood, blood tests continuing, antibody treatment started
 
@@ -222,9 +222,9 @@ HOUR 1:00
 
 - Lydia receives a call from her campaign manager: "Politically you are in great danger now, if you publicly repudiate your husband, it shields you from his past misdeeds, but well..."
 
-- EMAILS: "Additional information on the Voluto Affair" (for Obsidian){% fact "voluto_anthropia_account_is_being_investigated_by_sabariths" %}, "Manipulation around the Magnus family" (for the Masslavians), "Early release of information to collaborators" (for Cynthia), "Thermocyclic Fusion Core" (for the Lordanians)
+- EMAILS: "Additional information on the Voluto Affair" (for Obsidian){% xfact "voluto_anthropia_account_is_being_investigated_by_sabariths" %}, "Manipulation around the Magnus family" (for the Masslavians), "Early release of information to collaborators" (for Cynthia), "Thermocyclic Fusion Core" (for the Lordanians)
 
-- give 2 telegrams to Waden (risks due to the World Scanner, and announcement of the discovery of E=MC² by Alifir), and to Obsidian the telegram about "the prowler of the neighbouring hamlet" which Shark MUST DISDAINFULLY TEAR UP if it is brought to him {% hint "voluto_anthropia_account_investigation_result" is provided %}
+- give 2 telegrams to Waden (risks due to the World Scanner, and announcement of the discovery of E=MC² by Alifir), and to Obsidian the telegram about "the prowler of the neighbouring hamlet" which Shark MUST DISDAINFULLY TEAR UP if it is brought to him {% xitem "voluto_anthropia_account_investigation_result" is provided %}
 
 - if not already requested, display the kitten photo frame (via Alphonse) in the hall
 
@@ -244,7 +244,7 @@ HOUR 1:30
 
 - if a player is absent, word comes that this player was arrested that very morning, for an unrelated case; the inspector seems irritated by this case escaping his direct control
 
-- COUNCIL: a high-ranking member of the Akarith council calls the Dorian agent Peridot, and questions him about his beliefs in Yodic theology {% fact "peridot_must_answer_akarith_council" %}
+- COUNCIL: a high-ranking member of the Akarith council calls the Dorian agent Peridot, and questions him about his beliefs in Yodic theology {% xfact "peridot_must_answer_akarith_council" %}
 
 - Alphonse brings the military duffel bags into everyone's view, explains that a courier is due to come and collect them (he shows the letter from Professor Eusebon), and falls out with Rydji, who considers this very secondary
 
@@ -337,7 +337,7 @@ HOUR 3:00
 
 - If Akaris offers scandalous conditions for the integration of Doria: the Dorian secret services call the agents, and ask them whether, according to their information, the anti-Akarith front has a chance of winning, or whether they must give up and suffer the Akarith yoke.
 
-- give the Masslavians the telegram indicating that Cynthia has evidence against the Dorian Duke {% fact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %}
+- give the Masslavians the telegram indicating that Cynthia has evidence against the Dorian Duke {% xfact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %}
 
 - [if a tavern has been raided] delivery to Obsidian of the next letter between Shark and his sister
 

@@ -25,7 +25,7 @@ Plague take it... to your knowledge, it has not reappeared on the black market, 
 
 At the end of the interview, just before 16:00, the butler firmly escorts you back to the entrance gate.
 
-You both spend the evening, until very late, in a trendy Salima club, the {% symbol "Luxor Excelcis" for "peridot_topaz_alibi_club_name" %}; even treating yourselves to the luxury of striking up a trio with the opera singer during an interlude.  {% fact "peridot_topaz_alibi_is_strong" as author %}
+You both spend the evening, until very late, in a trendy Salima club, the {% symbol "Luxor Excelcis" for "peridot_topaz_alibi_club_name" %}; even treating yourselves to the luxury of striking up a trio with the opera singer during an interlude.  {% xfact "peridot_topaz_alibi_is_strong" as author %}
 
 <{ default_previous_day_ending }/>
 

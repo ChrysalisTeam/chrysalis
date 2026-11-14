@@ -56,7 +56,7 @@ Vous annoncez aussi bruyamment l'arrivée des différents mets et boissons du bu
 
 Les joueurs auront de multiples façons de profiter de vos services, que ce soit gagnant-gagnant (avec vos petites ventes personnelles, ou du graissage de patte pour obtenir des extras...), ou en vous spoliant : chantage, manipulation de votre naïveté, exploitation de votre goût pour l'alcool et les jeux d'argent, subtilisation d'objets...
 
-Lorsque Cynthia et Waden arrivent au manoir, vous et Rydji tombez des nues : Loyd Georges avait toujours souhaité les tenir à l'écart de ces enchères et de leur cortège de personnages louches. Comment cela se fait-il qu'ils aient été invités ? {% fact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
+Lorsque Cynthia et Waden arrivent au manoir, vous et Rydji tombez des nues : Loyd Georges avait toujours souhaité les tenir à l'écart de ces enchères et de leur cortège de personnages louches. Comment cela se fait-il qu'ils aient été invités ? {% xfact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
 
 Comme la plupart des gens, vous avez un peu peur de l'inspecteur Shark, donc vous passez toujours par son **adjointe Obsidian** pour lui transmettre des lettres, objets ou informations.
 
@@ -65,9 +65,9 @@ Envers le tabellion de Salima, vous êtes plutôt indifférent, vous pensez que 
 Lorsque l'ambassadeur akarite débarque dans le manoir, comme toute la maisonnée, vous ne cachez pas votre indignation. Cependant vous avez un attrait *irrépressible* pour les mets qu'il apporte, ce qui vous pose un cas de conscience ; jusqu'à ce que vous craquiez et que vous vous en empiffriez.
 
 Vous êtes le seul à savoir faire fonctionner un **antique téléphone-fax filaire (avec vidéo floue)** présent dans le manoir. Vous en profitez pour faire payer son usage à **50 kashes l'appel, ou 150 kashes pour un usage illimité par une personne**.
-{% fact "manor_has_wireline_phone_through_alphonse" as author %}
+{% xfact "manor_has_wireline_phone_through_alphonse" as author %}
 
-Vous vous lamentez de temps en temps sur le fait que le manoir va être saisi par les créanciers de Loyd Georges ou racheté par son adversaire {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, que les serviteurs vont en être chassés, que personne ne voudra embaucher une vieille branche comme vous...  {% fact "lord_mac_jolt_wants_to_own_lg_manor" %}
+Vous vous lamentez de temps en temps sur le fait que le manoir va être saisi par les créanciers de Loyd Georges ou racheté par son adversaire {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, que les serviteurs vont en être chassés, que personne ne voudra embaucher une vieille branche comme vous...  {% xfact "lord_mac_jolt_wants_to_own_lg_manor" %}
 
 
 Les ventes privées

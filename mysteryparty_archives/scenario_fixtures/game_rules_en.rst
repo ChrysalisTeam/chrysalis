@@ -64,7 +64,7 @@ Fictional, "in-game" injuries and deaths
 
 Your character may get **injured** during the game. You must then stop, lie down on the floor if possible, and call for help. The Game Master will then tell you the penalty you suffer.
 
-If you set off a **light flash**, a **cicada sound**, or make **jingle bells** ring, it probably means a trap. Here too, call on the Game Master to find out what to do. {% fact "cicada_or_minibell_sound_mean_injury" %}
+If you set off a **light flash**, a **cicada sound**, or make **jingle bells** ring, it probably means a trap. Here too, call on the Game Master to find out what to do. {% xfact "cicada_or_minibell_sound_mean_injury" %}
 
 More rarely, your character may also get killed. But don't panic, this does not mean the end of the game for you, because in this game's universe, the world of the dead also offers many possibilities.
 

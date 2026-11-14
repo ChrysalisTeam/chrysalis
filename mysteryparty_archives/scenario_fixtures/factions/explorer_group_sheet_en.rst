@@ -11,7 +11,7 @@ One of you specialises in ancient runes and other secret codes; another in the a
 
 For decades, for centuries, your country has been repelling the attempts at conquest of its neighbour, the Akarith Theocracy. But the latest news is alarming: the Akariths are said to have found a copy of the **Yodic Book of the Dead, the legendary {% symbol "Thanatologue" for "book_of_the_dead" %}**; and through this grimoire, a supposedly *infallible* means of invading Heliossar.
 
-Since then, all the armed forces of your homeland have been on a war footing. Forces **far better armed** than the Akarith legions, but alas ten times fewer in number, and with only a few *invokers* to pit against their countless *sorcerers* cultivating obscure powers. {% fact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %}
+Since then, all the armed forces of your homeland have been on a war footing. Forces **far better armed** than the Akarith legions, but alas ten times fewer in number, and with only a few *invokers* to pit against their countless *sorcerers* cultivating obscure powers. {% xfact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %}
 
 For your part, as specialists in ancient artefacts, you have been commissioned to find, at all costs, another copy of this {% symbol "Thanatologue" for "book_of_the_dead" %}; in order to learn more about the Akariths' strategy of conquest, and above all to find a way to counter it.
 

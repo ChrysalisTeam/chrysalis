@@ -70,7 +70,7 @@ Briefings en mode roleplay :
 
 - Rydji : vous avez mis le Comte Blispin, ami de Loyd Georges, dans le coup (via des télégrammes) pour qu'il vous aide à le protéger ainsi que ses proches (surtout la famille Magnus), mais tout cela à l'insu de Loyd Georges qui était toujours trop pudique pour demander de l'aide ; vous adorez les explosifs, et vous les utilisez pour toute demande qui s'y prête (creuser sous un arbre, dans un mur ou un plafond...), car vous avez légalement toutes les autorisations pour faire des travaux de chantier à l'explosif.
 
-- Alphonse : vous braillez avec emphase les heures "en jeu" qui passent : "Mesdames messieurs, il est 20h et tout va bien". Vous annoncez aussi bruyamment l'arrivée des différents mets et boissons du buffet. Vous maltraitez les mots ("succulez moi ces plats", "je suis émouvé", "solutionnementer une problématique"...) ; vous craquez toujours, après avoir tergiversé, pour les merveilleuses denrées apportées par l'ambassadeur akarite ; vous savez les mêmes choses que la vieille voisine (voir sa fiche) pour "le premier animal de Loyd Georges et la date de naissance du Tabellion" ; vous savez que ladite voisine (doyenne du hameau) en connait beaucoup sur Loyd Markis et l'enfance de Loyd Georges ; hier soir, vous jouiez au tripot {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}, de nombreux témoins peuvent l'attester ; le sac en toile brune reçu hier matin par Loyd Georges trainait, aux dernières nouvelles, sur une étagère de la BIBLIOTHEQUE du manoir (vous ne savez pas ce qui a été fait de son contenu) ; le téléphone auquel vous donnez parfois accès aux invités fait aussi FAX, et c'est un tellement vieux modèle que plus PERSONNE ne saurait le mettre sur écoute ; vous avez récemment perdu la carte pass ouvrant uniquement la boite aux lettres du manoir, ce qui fait que ni vous ni Rydji ne pouvez relever le courrier, hormis en utilisant la carte pass dorée de Loyd Georges lorsque trouvée {% hint 'postbox_specific_lost_passcard' is needed %} ; vous vous plaignez des tripots de Salima, de plus en plus "sectaires" même envers les vieux clients comme vous ; exemples d'expressions (récurrentes) comiques : "tout est sous contrôle", "si j'aurais su", "à l'insu de mon plein gré"...
+- Alphonse : vous braillez avec emphase les heures "en jeu" qui passent : "Mesdames messieurs, il est 20h et tout va bien". Vous annoncez aussi bruyamment l'arrivée des différents mets et boissons du buffet. Vous maltraitez les mots ("succulez moi ces plats", "je suis émouvé", "solutionnementer une problématique"...) ; vous craquez toujours, après avoir tergiversé, pour les merveilleuses denrées apportées par l'ambassadeur akarite ; vous savez les mêmes choses que la vieille voisine (voir sa fiche) pour "le premier animal de Loyd Georges et la date de naissance du Tabellion" ; vous savez que ladite voisine (doyenne du hameau) en connait beaucoup sur Loyd Markis et l'enfance de Loyd Georges ; hier soir, vous jouiez au tripot {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}, de nombreux témoins peuvent l'attester ; le sac en toile brune reçu hier matin par Loyd Georges trainait, aux dernières nouvelles, sur une étagère de la BIBLIOTHEQUE du manoir (vous ne savez pas ce qui a été fait de son contenu) ; le téléphone auquel vous donnez parfois accès aux invités fait aussi FAX, et c'est un tellement vieux modèle que plus PERSONNE ne saurait le mettre sur écoute ; vous avez récemment perdu la carte pass ouvrant uniquement la boite aux lettres du manoir, ce qui fait que ni vous ni Rydji ne pouvez relever le courrier, hormis en utilisant la carte pass dorée de Loyd Georges lorsque trouvée {% xitem 'postbox_specific_lost_passcard' is needed %} ; vous vous plaignez des tripots de Salima, de plus en plus "sectaires" même envers les vieux clients comme vous ; exemples d'expressions (récurrentes) comiques : "tout est sous contrôle", "si j'aurais su", "à l'insu de mon plein gré"...
 
 - Tabellion : vous souhaitez initialement la répression violente de toute émeute populaire ("des délinquants que tout cela !"), mais cette position peut évoluer. Pour la vente de gisement de Lydia, le prix d'achat doit être un multiple de 0.5 mégakashes. Vous savez que selon le Droit Sabarite, un trésor (ex. celui familial de Loyd Georges) doit être partagé moitié-moitié entre celui qui l'a (re)découvert, et le propriétaire du trésor (ou à défaut, du terrain sur lequel il se trouve). Prix des diamants trouvables en jeu : 20¤ pour les petits ronds, 35¤ pour les rectangulaires (les plus communs), 50¤ pour les grands ronds ; vous savez transférer ces gemmes "standard" (petites et transparentes, remises en main propre) vers le compte Anthropia de leur possesseur (mais l'opération inverse n'est pas possible) ; vous avez 3 pierres colorées dans votre mallette, que vous pouvez vendre 50¤ à l'unité (leur vraie valeur), et vous les reconnaissez si quelqu'un vous les vole puis veut les déposer sur son compte par votre entremise ; vous pouvez défier au "jeu des bâtonnets" un invité, en pariant par exemple 100¤ dessus, et en jouant au shi-fu-mi celui qui commence
 
@@ -174,7 +174,7 @@ HEURE 0:30
 
 - SHARK : ordonne à Obsidian d'interroger **Cynthia et Waden** ensemble : alibis, liens avec Loyd Georges, soupçons qu'ils pourraient avoir envers autrui...
 
-- SHARK : commence son premier interrogatoire, avec **l'agent dorien Peridot**. Teneur : D'abord sombre, puis "Bon alibi, je ne pense pas que c'est vous, aidez-moi à avancer dans l'enquête en balançant tout ce que vous savez sur les autres." {% fact "peridot_has_good_alibi" %}
+- SHARK : commence son premier interrogatoire, avec **l'agent dorien Peridot**. Teneur : D'abord sombre, puis "Bon alibi, je ne pense pas que c'est vous, aidez-moi à avancer dans l'enquête en balançant tout ce que vous savez sur les autres." {% xfact "peridot_has_good_alibi" %}
 
 - MAILS : "Notification Légale sur les Saisies Anthropia", "On veut du scoop" (pour Cynthia), "Trafic de drogue contre-productif détecté" (pour les lordaniens)
 
@@ -212,7 +212,7 @@ HEURE 1:00
 
 - SHARK : commence un interrogatoire avec **l'agent lordanien Garnet**, à teneur plutôt agressive
 
-- CONCILE : un haut-gradé du concile akarite appelle l'agent masslave Malachite, pour connaître la perméabilité des doriens aux dogmes akarites {% fact "malachite_must_answer_akarith_council" %}
+- CONCILE : un haut-gradé du concile akarite appelle l'agent masslave Malachite, pour connaître la perméabilité des doriens aux dogmes akarites {% xfact "malachite_must_answer_akarith_council" %}
 
 - rapport médical 3 : présence de digoxine dans le sang, poursuite des tests sanguins, traitement anticorps commencé
 
@@ -222,9 +222,9 @@ HEURE 1:00
 
 - Lydia reçoit un appel de son directeur de campagne : "Politiquement vous êtes en grand danger maintenant, si vous répudiez publiquement votre mari, cela vous met à l'abri de ses errances passées, mais enfin bon..."
 
-- MAILS : "Compléments sur l'Affaire Voluto" (pour Obsidian){% fact "voluto_anthropia_account_is_being_investigated_by_sabariths" %}, "Manipulation autour des Magnus" (pour les masslaves), "Diffusion anticipée d'informations aux collaborateurs" (pour Cynthia), "Coeur de fusion thermocyclique" (pour les lordaniens)
+- MAILS : "Compléments sur l'Affaire Voluto" (pour Obsidian){% xfact "voluto_anthropia_account_is_being_investigated_by_sabariths" %}, "Manipulation autour des Magnus" (pour les masslaves), "Diffusion anticipée d'informations aux collaborateurs" (pour Cynthia), "Coeur de fusion thermocyclique" (pour les lordaniens)
 
-- donner 2 télégrammes à Waden (risques dus au scanner mondial, et annonce de la découverte E=MC² par Alifir), et à Obsidian le télégramme sur "le rôdeur du hameau voisin" que Shark DOIT DECHIRER DEDAIGNEUSEMENT si on le lui apporte {% hint "voluto_anthropia_account_investigation_result" is provided %}
+- donner 2 télégrammes à Waden (risques dus au scanner mondial, et annonce de la découverte E=MC² par Alifir), et à Obsidian le télégramme sur "le rôdeur du hameau voisin" que Shark DOIT DECHIRER DEDAIGNEUSEMENT si on le lui apporte {% xitem "voluto_anthropia_account_investigation_result" is provided %}
 
 - si pas déjà demandé, exposer le cadre photo du chaton (via Alphonse) dans la salle
 
@@ -244,7 +244,7 @@ HEURE 1:30
 
 - si un joueur est absent, on apprend que ce joueur a été arrêté le matin même, pour une affaire tierce ; l’inspecteur semble irrité de cette affaire qui échappe à son contrôle direct
 
-- CONCILE : un haut-gradé du concile akarite appelle l'agent dorien Peridot, et le questionne sur ses croyances en théologie yodique {% fact "peridot_must_answer_akarith_council" %}
+- CONCILE : un haut-gradé du concile akarite appelle l'agent dorien Peridot, et le questionne sur ses croyances en théologie yodique {% xfact "peridot_must_answer_akarith_council" %}
 
 - Alphonse amène les sacs militaires à la vue de tous, explique qu'un coursier doit venir les chercher (il montre la lettre du Professeur Eusèbon), et s'embrouille avec Rydji qui considère cela comme très secondaire
 
@@ -337,7 +337,7 @@ HEURE 3:00
 
 - Si l'Akarie offre des conditions scandaleuses pour l'intégration de la Dorie : les services secrets doriens appellent les agents, et leur demandent si, d'après leurs informations, le front anti-akarite a une chance de gagner, ou s'il faut abandonner et subir le joug akarite.
 
-- donner aux masslaves le télégramme indiquant que Cynthia a des preuves contre le duc dorien {% fact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %}
+- donner aux masslaves le télégramme indiquant que Cynthia a des preuves contre le duc dorien {% xfact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %}
 
 - [si taverne perquisitionnée] diffusion à Obsidian de la lettre suivante entre Shark et sa soeur
 

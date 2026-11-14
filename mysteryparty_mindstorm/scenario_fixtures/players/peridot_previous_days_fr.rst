@@ -25,7 +25,7 @@ Malepeste… à votre connaissance, il n’est pas reparu sur le marché noir, e
 
 A la fin de l'entretien, juste avant 16h, le majordome vous raccompagne d'un pas ferme jusqu'au portail d'entrée.
 
-Vous passez tous deux la soirée, jusque très tard, dans un club branché de Salima, le {% symbol "Luxor Excelcis" for "peridot_topaz_alibi_club_name" %} ; en vous payant même le luxe d'entonner un trio avec la cantatrice durant un interlude.  {% fact "peridot_topaz_alibi_is_strong" as author %}
+Vous passez tous deux la soirée, jusque très tard, dans un club branché de Salima, le {% symbol "Luxor Excelcis" for "peridot_topaz_alibi_club_name" %} ; en vous payant même le luxe d'entonner un trio avec la cantatrice durant un interlude.  {% xfact "peridot_topaz_alibi_is_strong" as author %}
 
 <{ default_previous_day_ending }/>
 

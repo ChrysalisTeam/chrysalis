@@ -16,7 +16,7 @@ INFORMATIONS POUR TOUS :
 
 - Les fantômes (dont la Bête), et les avatars, **ne peuvent pas se voir mutuellement**. Mais tous peuvent voir l'Ankou qui est divin.
 
-- Les avatars ne peuvent pas manipuler de romans, ni les leurs ni ceux des autres ; les autres livres et grimoires leur restent cependant accessibles. {% fact "avatars_cannot_carry_novels" %}
+- Les avatars ne peuvent pas manipuler de romans, ni les leurs ni ceux des autres ; les autres livres et grimoires leur restent cependant accessibles. {% xfact "avatars_cannot_carry_novels" %}
 
 - Noter la présence bien connue et assumée d'un **automate de garde**, armé d'un fusil nerf.
 
@@ -35,7 +35,7 @@ INFORMATIONS POUR TOUS :
 POUR LES FANTÔMES :
 
 - Vous n'activez vos gants lumineux, et ne couvrez vos visages, que durant vos ERRANCES et frénésies de spectres, pas quand vous êtes en "phase incarnée".
-- Déclencheurs : vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie spectrale, qui déclenche une bande son intense) ; vous repassez en incarné (potentiellement ANCRÉ) lorsque le GONG retentit. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+- Déclencheurs : vous passez en errance lorsque les CLOCHES retentissent (ou bien la clochette de frénésie spectrale, qui déclenche une bande son intense) ; vous repassez en incarné (potentiellement ANCRÉ) lorsque le GONG retentit. {% xfact "bell_and_gong_sounds_trigger_phantom_phases" %}
 - **IMPORTANT CHANGEMENT** : au tout début du jeu, vous ne serez pas tout de suite là, et apparaitrez en phase d'errance !
 - Il nous faudra tester les AILES des fantômes qui serviront à l'épilogue, par exemple : plumes pour l'arkonte, diodes pour l'archiviste, steampunk pour Octave
 - VOLEUR : Lorsque les joueurs arrivent dans l'étage interdit, vous êtes déjà en errance, dangereux. Lorsque vous vous incarnez, ça doit être à votre point d'ancrage. Allumez alors la bande-son "pirate" qui va avec votre rôle. Contrairement aux autres fantômes, vos passages en errance et en incarnation ne dépendent pas des sons de gong et cloche, car vous êtes bien plus souvent errant qu'eux - il faut donc voir cela avec le maître de jeu.
@@ -107,7 +107,7 @@ BRIEFING FINAL DES JOUEURS+FIGURANTS
 - Qui aurait un risque d'épilepsie si effet stroboscopique ?
 - Photographies : redemander à tous qui est OK pour droit à l'image
 - Terminal Web des indices et des traductions runiques
-- Seau argenté des objets utilisés (ex. pour les cadenas, clés ou potions utilisées) {% hint 'basket_for_precious_items' is needed %}
+- Seau argenté des objets utilisés (ex. pour les cadenas, clés ou potions utilisées) {% xitem 'basket_for_precious_items' is needed %}
 - Annoncer : "En plus d'être maître de jeu, je serai moi-même présent en jeu ! Spoiler : je serai un Djinn, un personnage inoffensif et qui sait plein de choses sur cet univers, donc n'hésitez pas à me solliciter si vous avez des questions sur l'Histoire de Pangéa par exemple, ce n'est pas de la triche, ça fait partie du jeu ! Toutes mes possessions sont cependant HORS-JEU !"
 
 **Conseils divers :**

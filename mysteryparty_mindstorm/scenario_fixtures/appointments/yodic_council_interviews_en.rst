@@ -11,11 +11,11 @@ A high-ranking Akarith official therefore calls him to find out what he thinks o
 Example of an introduction:
 
 *Am I indeed speaking to {{character_properties.malachite.official_name}}? Your secretary redirected me to this Sabarith telephone line; perhaps I am disturbing you during your holidays?
-I am Archdeacon Altos, and I am calling you on behalf of the Order of the Akarith Judicators, in order to benefit from your expertise on a few sensitive questions regarding how deeply Yodic theology has permeated the Dorian people.* {% fact 'malachite_official_is_expert_in_yodic_history' %}
+I am Archdeacon Altos, and I am calling you on behalf of the Order of the Akarith Judicators, in order to benefit from your expertise on a few sensitive questions regarding how deeply Yodic theology has permeated the Dorian people.* {% xfact 'malachite_official_is_expert_in_yodic_history' %}
 
 The Archdeacon asks for an overall opinion on the Dorians' conformity to the religion of the Akarith Judicators, then what the Dorians think of this or that Yodic dogma (see below), and then whether Yodic quotes are commonly used among this people.
 
-The player is supposed to have obtained an (incomprehensible) document on the Yodic faith from the Oberon mediator, and to use it to answer in a way that discredits the Dorians (thus forcing them to join the anti-Akarith coalition).  {% hint "yodic_hard_summary_for_malachite_via_oberon" is needed %}
+The player is supposed to have obtained an (incomprehensible) document on the Yodic faith from the Oberon mediator, and to use it to answer in a way that discredits the Dorians (thus forcing them to join the anti-Akarith coalition).  {% xitem "yodic_hard_summary_for_malachite_via_oberon" is needed %}
 
 The Archdeacon must show joy or dismay depending on the answers received, and express surprise at any inconsistencies he notices.
 

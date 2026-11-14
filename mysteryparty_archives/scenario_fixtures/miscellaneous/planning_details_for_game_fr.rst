@@ -31,7 +31,7 @@ H+22mn : [Musique] L'avatar inventeur ouvre le buffet, avec les automates (disco
 
 H+25mn : Le MJ "Djinn renégat" peut confier aux diacres sa quête pour redevenir lié à sa communauté.
 
-H+30mn : Le druide vole discrètement la clochette spectrale, AVANT l'arrivée de l'Ankou. {% fact "druid_must_steal_table_bell_when_usage_understood" %}
+H+30mn : Le druide vole discrètement la clochette spectrale, AVANT l'arrivée de l'Ankou. {% xfact "druid_must_steal_table_bell_when_usage_understood" %}
 
 H+35mn : [Musique] Discours de l'Ankou en haut des escaliers ; ALLUMER le projecteur pendant sa présence, et l'éteindre après.
 
@@ -55,7 +55,7 @@ H+X : [Musique] Anticiper la cérémonie d'initiation d'Octave en musique.
 
 H+X : [Musique] Anticiper la prophétie holographique de Cassandra (énigme des tableaux lenticulaires effrayants).
 
-H+X : Pour piéger l'arkonte, le druide pose la sacoche porte-document faussement compromettante, dans l'étage interdit. {% fact "druid_makes_conspiracy_against_arkon" %}
+H+X : Pour piéger l'arkonte, le druide pose la sacoche porte-document faussement compromettante, dans l'étage interdit. {% xfact "druid_makes_conspiracy_against_arkon" %}
 
 H+X : [Musique] Mettre en scène l'attaque de l'automate de garde.
 
@@ -63,9 +63,9 @@ H+X : [Musique] Anticiper le démasquage du traître (dispute de la duchesse et 
 
 H+X : [Musique] Anticiper l'intrusion des joueurs dans le tombeau du mage
 
-H+X : L'arkonte peut aller interroger (voire faire jurer) les différents groupes de joueurs, quant à ce qu'ils feront des portails menant à la bibliothèque, s'ils en réchappent. {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
+H+X : L'arkonte peut aller interroger (voire faire jurer) les différents groupes de joueurs, quant à ce qu'ils feront des portails menant à la bibliothèque, s'ils en réchappent. {% xfact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
 
-H+X : Donner au druide le grimoire émettant des sons occultes, et le Thanatologue. Le druide va s'asseoir près du pentacle, ravi, avec ses lectures qu'il proclame être prometteuses pour s'échapper du lieu. L'Ankou va se préparer pour son discours final. {% hint "mystic_soundtrack_for_druid_magic_books" is needed %}
+H+X : Donner au druide le grimoire émettant des sons occultes, et le Thanatologue. Le druide va s'asseoir près du pentacle, ravi, avec ses lectures qu'il proclame être prometteuses pour s'échapper du lieu. L'Ankou va se préparer pour son discours final. {% xitem "mystic_soundtrack_for_druid_magic_books" is needed %}
 
 H+X : L'arkonte briefe le diacre qui se prépare à affronter le druide en terminant le rituel d'expulsion ; les avatars décident de retourner dans leurs univers pour ne pas être en danger, et font leurs adieux.
 

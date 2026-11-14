@@ -1,5 +1,5 @@
 
-{% fact 'agent_mission_investigate_voluto' %}
+{% xfact 'agent_mission_investigate_voluto' %}
 
 MISSION - The Atomic Traitor
 ====================================
@@ -16,9 +16,9 @@ As bad luck would have it, the professor came home unexpectedly, in the middle o
 The affair was hushed up as it had to be: the worthy scientist supposedly died "{% symbol "at home, of a cerebral haemorrhage following a fall" for "physicist_death_circumstances" %}", according to the Press.
 But while national security is preserved for now, there is no trace to be found of the deceased's findings, neither at his home, nor in his digital documents.
 
-Approached by the Sabarith State, the Alifir Academy sidestepped the issue, assuring that after exploring various unsuccessful theories, the professor was by then working only on improving the precision of radiating body scanners. In a move of historic significance, it agreed to open the professor's office to a ministerial delegation, and there again nothing in particular was found. Strangely, the Academy's CCTV recordings for the day of his death were reportedly "prematurely destroyed".  {% fact "voluto_death_day_academy_recordings_disappeared" %}
+Approached by the Sabarith State, the Alifir Academy sidestepped the issue, assuring that after exploring various unsuccessful theories, the professor was by then working only on improving the precision of radiating body scanners. In a move of historic significance, it agreed to open the professor's office to a ministerial delegation, and there again nothing in particular was found. Strangely, the Academy's CCTV recordings for the day of his death were reportedly "prematurely destroyed".  {% xfact "voluto_death_day_academy_recordings_disappeared" %}
 
-Strenuous efforts are under way to gain access to Professor Voluto's Anthropia digital account, but cunning as that jackal was, even if this were to succeed one day, you do not expect much from it. {% fact "voluto_anthropia_account_is_being_investigated_by_sabariths" %} {% hint "voluto_anthropia_account_investigation_result" is needed %}
+Strenuous efforts are under way to gain access to Professor Voluto's Anthropia digital account, but cunning as that jackal was, even if this were to succeed one day, you do not expect much from it. {% xfact "voluto_anthropia_account_is_being_investigated_by_sabariths" %} {% xitem "voluto_anthropia_account_investigation_result" is needed %}
 
 You have identified several scientists of the Academy with whom he worked during the past year: **{% symbol "Doctor Marloff of the applied optics department, the young physicist Waden Shaw, and Professor Idn Gark of the New Energies division" for "voluto_suspicious_colleagues" %}**. At the risk of rekindling tensions with the Academy, you will have to grill these worthy researchers a little.
 

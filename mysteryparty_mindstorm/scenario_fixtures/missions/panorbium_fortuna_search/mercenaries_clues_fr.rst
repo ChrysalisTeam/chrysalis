@@ -9,7 +9,7 @@
 
 Nous avons trouvé des traces, sur les caméras de surveillance de la ville, de cet "Ernest De Villeneuve", avec sa mallette en cuir.
 Il s'est rendu dans un magasin pour acheter un **sac en toile brune et un bleu de travail**.
-Puis il a pris un dirigeable dans l'aérodrome de la compagnie privée *Septième Ciel*, desservant les grandes villes de Sabarim. {% fact 'misc_panorbium_fortuna_brought_to_manor_in_bag' %}
+Puis il a pris un dirigeable dans l'aérodrome de la compagnie privée *Septième Ciel*, desservant les grandes villes de Sabarim. {% xfact 'misc_panorbium_fortuna_brought_to_manor_in_bag' %}
 
 
 **Rapport de vos indic’ d'Alifir**

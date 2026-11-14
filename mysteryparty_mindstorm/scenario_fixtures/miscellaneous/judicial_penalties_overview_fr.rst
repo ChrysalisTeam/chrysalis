@@ -8,7 +8,7 @@ Il est en effet rare que la peine obtenue soit inférieure à la peine maximale 
 
 Par ailleurs, le Droit Sabarite n'a pas de notion de **"loyauté de la preuve"** comme les autres pays. Certes les enquêteurs, témoins, ou victimes, utilisant des moyens illégaux pour récupérer des preuves, risquent d'être poursuivis pour cela ; mais cela n'annule pas les éléments à charge qu'ils auraient contre autrui, du moment que ces éléments sont authentiques.
 
-En tant qu'inculpé, il est possible de rester libre jusqu'au procès, si l'on paye une **caution de 2000 kashes**. {% fact 'misc_release_on_bail_possible' %}
+En tant qu'inculpé, il est possible de rester libre jusqu'au procès, si l'on paye une **caution de 2000 kashes**. {% xfact 'misc_release_on_bail_possible' %}
 
 .. raw:: pdf
 

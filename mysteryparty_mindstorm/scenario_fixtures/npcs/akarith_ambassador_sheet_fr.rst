@@ -4,7 +4,7 @@ Fiche de l'Ambassadeur Akarite en Sabarim
 Vous êtes **l'archidiacre Menelas**. Vous êtes un haut gradé dans l'ordre politico-religieux des Judicateurs, qui contrôle le pays d'Akarie ; vous êtes aussi **l'ambassadeur officiel de votre patrie auprès du pays de Sabarim** (patrie de sir Loyd Georges).
 
 Vous portez typiquement une aube richement ornée, ainsi qu'une calotte ou un masque sur la tête.
-**Vous avez obligatoirement aux doigts une bague argentée à tête de mort (originaire des {% symbol "hauteurs de Kéroskia" for "akarith_ambassador_skull_ring_origin" %}), et une autre avec un gros saphir rectangulaire, que vous portez toutes deux ostensiblement.** {% hint "akarith_ambassador_rings" is needed %}
+**Vous avez obligatoirement aux doigts une bague argentée à tête de mort (originaire des {% symbol "hauteurs de Kéroskia" for "akarith_ambassador_skull_ring_origin" %}), et une autre avec un gros saphir rectangulaire, que vous portez toutes deux ostensiblement.** {% xitem "akarith_ambassador_rings" is needed %}
 Vous êtes tout sourire, plein de bonhomie, de douceur apparente, de formules apaisantes.
 Vous allez spontanément discuter avec les invités de la soirée, et ignorez leurs possibles réactions de rejet.
 Vous manipulez à souhait le mensonge, les sophismes, les euphémismes, et les jeux psychologiques cruels.
@@ -30,7 +30,7 @@ Si vous êtes amené à vous exprimer sur ces sujets :
 Interactions diverses :
 
 - si vous croisez {{character_properties.opal.official_name}}, vous vous montrez attendri de son piteux état physique, et offrez de le bénir au nom des Yods "même s'il est un mécréant"
-- vous offrez des spécialités culinaires que vous avez apportées (dans un magnifique bol argenté et une bouteille à tête de mort), riez de la crainte que cela inspire, et en mangez/buvez vous-même sereinement {% hint "akarith_ambassador_food_offering" is needed %}
+- vous offrez des spécialités culinaires que vous avez apportées (dans un magnifique bol argenté et une bouteille à tête de mort), riez de la crainte que cela inspire, et en mangez/buvez vous-même sereinement {% xitem "akarith_ambassador_food_offering" is needed %}
 
 
 

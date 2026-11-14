@@ -2,7 +2,7 @@
 MISSION - L'Élixir militaire Berserk
 ========================================
 
-{% fact 'agent_mission_investigate_berserk_elixir' %}
+{% xfact 'agent_mission_investigate_berserk_elixir' %}
 
 Agents,
 
@@ -11,7 +11,7 @@ Cependant, nous restons lacunaires en terrains escarpés et souterrains, où nos
 
 Nos laboratoires concentrent leurs efforts sur de nouvelles armures exosquelettiques à vapeur, mais l'amélioration biologique de nos soldats reste une piste intéressante, et les conflits yodiques du passé pourraient nous apporter des choses à ce sujet.
 
-Les légendes évoquent en effet de façon récurrente un breuvage guérisseur et dopant jalousement protégé par les clans yodiques : l'Élixir Berserk. Nous n'en savons que très peu sur sa composition de base, mais nous avons récupéré de rarissimes indices sur ses variantes plus sophistiquées. {% hint "berserk_elixir_advanced_ingredients_for_amethyst" is needed %}
+Les légendes évoquent en effet de façon récurrente un breuvage guérisseur et dopant jalousement protégé par les clans yodiques : l'Élixir Berserk. Nous n'en savons que très peu sur sa composition de base, mais nous avons récupéré de rarissimes indices sur ses variantes plus sophistiquées. {% xitem "berserk_elixir_advanced_ingredients_for_amethyst" is needed %}
 
 Nous avons appris que Loyd Georges avait trouvé des écrits à ce sujet, dans le temple akarite enfoui ; et qu'il espérait en faire profiter son ami {{character_properties.opal.official_name}}, dont la santé décline inexorablement.
 

@@ -2,7 +2,7 @@
 MISSION - The Panorbium Fortuna
 ================================
 
-{% fact 'agent_mission_find_panorbium_fortuna' %}
+{% xfact 'agent_mission_find_panorbium_fortuna' %}
 
 Our intelligence agents have traced an intriguing event, around the excavations that Prof. Loakim, a friend of Loyd Georges, is currently conducting in Keroskia, in the land of Slavinka.
 Indeed, a week ago, the Sabarith researchers came across jars filled with ancient paperwork, in a fairly good state of preservation.

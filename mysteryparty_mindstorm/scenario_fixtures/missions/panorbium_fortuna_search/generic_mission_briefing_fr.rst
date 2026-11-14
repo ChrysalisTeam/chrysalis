@@ -2,7 +2,7 @@
 MISSION - Le Panorbium Fortuna
 ================================
 
-{% fact 'agent_mission_find_panorbium_fortuna' %}
+{% xfact 'agent_mission_find_panorbium_fortuna' %}
 
 Nos agents de renseignement ont remonté un événement intrigant, du côté des fouilles que le Pr Loakim, ami de Loyd Georges, mène actuellement en Kéroskia, dans le pays de Slavinka.
 Les chercheurs sabarites sont en effet tombés, il y a une semaine, sur des jarres remplies de paperasses anciennes, en assez bon état de conservation.

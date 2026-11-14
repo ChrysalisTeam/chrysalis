@@ -17,7 +17,7 @@ Runic Translator
 You never part with your **portable translator** of Akarith runes, your finest invention.
 
 The first step is to determine the transcription, in syllables, of these strange symbols, using a correspondence table.
-{% hint "runic_transcription_sheet_for_runologist" is needed %}
+{% xitem "runic_transcription_sheet_for_runologist" is needed %}
 
 Then you enter this text into your artificial intelligence system (available on site), which will find its meaning.
 
@@ -28,7 +28,7 @@ Knowledge of secret codes
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 You have learned to decode a few cipher systems, and keep a **memo sheet** on the subject with you (*printed version provided by the organisers*).
-{% hint "secret_codes_sheet_for_runologist" is needed %}
+{% xitem "secret_codes_sheet_for_runologist" is needed %}
 
 You also know that some messages can be hidden in simple drawings, either as stereograms or as anamorphoses. Some reading on the subject:
 
@@ -47,6 +47,6 @@ Observation and listening kit
 ++++++++++++++++++++++++++++++++++
 
 You know from experience that old families often bequeath advice and clues to their heirs in very tiny writing or in barely audible forms, so you have brought along **a magnifying glass and a stethoscope** (*provided by the organisers*).
-{% hint "stethoscope_and_magnifying_glass_for_runologist" is needed %}
+{% xitem "stethoscope_and_magnifying_glass_for_runologist" is needed %}
 
 

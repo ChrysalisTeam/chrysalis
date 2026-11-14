@@ -44,7 +44,7 @@ L'enfant, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, a connu 
 
 {% symbol "Octave" for "maupertuis_son" %} s'était réfugié lors de l'attaque dans les archives souterraines, avec son précepteur **{% symbol "Maître Parchemine" for "archivist_name" %}** (ne pratiquant pas la magie). Le portail magique reliant le manoir à cette bibliothèque (située très loin sous la surface) avait été détruit lors de l'attaque, mais il restait des portails secondaires vers d'anciens châteaux de magiciens - tous en ruines - répartis sur la planète. Ces portails étaient enchantés depuis des siècles pour s'ouvrir une journée par an uniquement, lors du **{% symbol "solstice d'hiver" for "astral_opening_date" %}**, pour une célébration commune de la nouvelle année, même si cette tradition n'était plus respectée depuis longtemps.
 
-Les deux survivants ont vécu là seuls **{% symbol "15 mois" for "octave_life_in_archives_delay" %}** durant, le précepteur estimant qu'{% symbol "Octave" for "maupertuis_son" %} n'était pas encore prêt pour affronter la rudesse du dehors. Ils n'ont pas pu se rendre dans le "domaine interdit" de la bibliothèque, gardé par une Bête, car Octave n'avait pas encore reçu l'initiation lui permettant d'ouvrir le passage vers ce saint-des-saints, contrairement à sa soeur. {% symbol "Maître Parchemine" for "archivist_name" %} s'est improvisé archiviste pour passer le temps, et a commencé un inventaire des livres "non bizarres" accessibles. {% fact "archivist_began_cataloging_books" %} Esseulé, l'enfant s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une connivence de plus en plus forte avec les héros de ces oeuvres.
+Les deux survivants ont vécu là seuls **{% symbol "15 mois" for "octave_life_in_archives_delay" %}** durant, le précepteur estimant qu'{% symbol "Octave" for "maupertuis_son" %} n'était pas encore prêt pour affronter la rudesse du dehors. Ils n'ont pas pu se rendre dans le "domaine interdit" de la bibliothèque, gardé par une Bête, car Octave n'avait pas encore reçu l'initiation lui permettant d'ouvrir le passage vers ce saint-des-saints, contrairement à sa soeur. {% symbol "Maître Parchemine" for "archivist_name" %} s'est improvisé archiviste pour passer le temps, et a commencé un inventaire des livres "non bizarres" accessibles. {% xfact "archivist_began_cataloging_books" %} Esseulé, l'enfant s’est réfugié dans la lecture de romans fantastiques, lisant et relisant ses préférés, et liant une connivence de plus en plus forte avec les héros de ces oeuvres.
 
 Sous l’action de la magie imbibant les lieux, et des souhaits lancinants d’Octave, plusieurs personnages imaginaires se sont réellement incarnés dans la bibliothèque, devenant ainsi ce que l'on appelle des **"avatars"** : un inventeur, un druide, une duchesse, une samuraï, un chevalier, un pilote de biplan...
 
@@ -69,7 +69,7 @@ Lorsqu'ils sont revenus dans la bibliothèque s'enquérir de la situation, ils o
 
 Éplorés, ces avatars subsistants ont créé un **cimetière improvisé** pour les restes défunts. Ils ont **vivement débattu** de la place à accorder aux ossements de l'arkonte, car autant le druide le tenait pour responsable du massacre, autant la duchesse et l'inventeur pensaient que cela pouvait être un accident, ou l'action d'une autre entité. Au bénéfice du doute, ils ont finalement laissé toutes les dépouilles ensemble au cimetière.
 
-Les avatars ont ensuite investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain, les connaissances en magie de ce monde leur manquant trop. Ils n'ont trouvé que quelques livres factices et coffrets verrouillés, qu'ils n'étaient pas capables d'ouvrir. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis. Et impossible de rejoindre la surface, même lors d'un {% symbol "solstice d'hiver" for "astral_opening_date" %} suivant. {% hint "beast_snack_as_moon_stones" is needed %}
+Les avatars ont ensuite investigué l'ensemble de l'étage autorisé de la bibliothèque, mais en vain, les connaissances en magie de ce monde leur manquant trop. Ils n'ont trouvé que quelques livres factices et coffrets verrouillés, qu'ils n'étaient pas capables d'ouvrir. Le passage vers le domaine interdit, de son côté, était toujours bloqué par le sortilège immémorial des Maupertuis. Et impossible de rejoindre la surface, même lors d'un {% symbol "solstice d'hiver" for "astral_opening_date" %} suivant. {% xitem "beast_snack_as_moon_stones" is needed %}
 
 La duchesse a, dans son propre monde, reçu d'un devin la révélation que les récents défunts étaient toujours prisonniers de la bibliothèque sous forme de fantômes, mais que lors d'un prochain anniversaire de l'évènement tragique, cette malédiction serait brisée. Depuis, tous les ans, les avatars se réunissent pour un **{% symbol "banquet d'outre-monde" for "banquet_name" %}** en l'honneur des Maupertuis, dans l'attente de la réalisation de cette cruciale prophétie.
 
@@ -98,11 +98,11 @@ C’est une uchronie de notre propre monde ; tout ce qui se passe avant 1908 y e
 
 - Les vivants peuvent voir et entendre aussi bien les personnages du monde des morts que des livres, et peuvent toucher les personnages du monde des livres.
 
-- Pour un vivant, tout contact avec un fantôme désincarné, en errance, est très dangereux. Un fantôme incarné, en revanche, est sans danger, et passe à travers les vivants sans les impacter. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
+- Pour un vivant, tout contact avec un fantôme désincarné, en errance, est très dangereux. Un fantôme incarné, en revanche, est sans danger, et passe à travers les vivants sans les impacter. {% xfact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
 - Les vivants sont par défaut sensibles aux attaques physiques, magiques et sacrées.
 
-- Les vivants sont soumis aux règles du "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+- Les vivants sont soumis aux règles du "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". {% xfact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 Le monde des morts
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -115,13 +115,13 @@ Il est représenté par les humains ou bêtes qui sont morts dans la bibliothèq
 
 - À aucun moment les morts ne peuvent interagir avec les objets du monde vivant. Seule exception, le buffet est composé de plats et boissons compatibles avec tous les mondes.
 
-- Lorsqu'il touche un vivant, tout fantôme désincarné, en errance, le blesse dangereusement. Un fantôme incarné, en revanche, est sans danger, et passe à travers les vivants sans les impacter. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
+- Lorsqu'il touche un vivant, tout fantôme désincarné, en errance, le blesse dangereusement. Un fantôme incarné, en revanche, est sans danger, et passe à travers les vivants sans les impacter. {% xfact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
 - Seules des attaques sacrées peuvent atteindre les morts, pas les attaques physiques ni magiques. Mais puisque présentement ils ne peuvent pas s'échapper de la bibliothèque, s'ils sont blessés, ils reviennent systématiquement plus tard, sous une forme plus folle et agressive.
 
 - Les fantômes sont soumis à des **règles complexes d'errance, d'incarnation et d'ancrage**, voir le chapitre à ce sujet.
 
-- Les fantômes ne sont PAS soumis aux règles du "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+- Les fantômes ne sont PAS soumis aux règles du "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". {% xfact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 {# NOT YET - Des entités "démoniaques", faisant elles aussi partie du monde des morts, pourraient être invoquées dans ce contexte. Elles auraient alors les mêmes propriétés que les fantômes, avec davantage de liberté, d’hostilité, et de pouvoirs magico-sacrés. #}
 
@@ -136,7 +136,7 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 - Si les avatars meurent dans le monde réel, cela équivaut à une mort dans leur monde imaginaire (une mort soumise à leur propre système de croyances religieuses) ; ils y sont alors reprojetés, et ne deviennent pas des fantômes dans le monde réel.
 
-- Ils peuvent interagir librement avec le monde des vivants, ses humains et animaux, ses objets et grimoires ; **sauf avec les "romans"**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% fact "avatars_cannot_carry_novels" %}
+- Ils peuvent interagir librement avec le monde des vivants, ses humains et animaux, ses objets et grimoires ; **sauf avec les "romans"**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% xfact "avatars_cannot_carry_novels" %}
 
 - Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher (en phase incarnée ou non).
 
@@ -152,18 +152,18 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 {# mais avec des risques d'effets de bord dangereux, à cause d'incompatibilités entre les lois fondamentales des univers ; dans le cas présent, { % fact "avatar_abilities_are_randomly_hazardous" % } #}
 
-- Ils ne sont PAS soumis aux règles du "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}", et peuvent d'ailleurs s'en moquer allègrement, en jurant toutes sortes de choses farfelues. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+- Ils ne sont PAS soumis aux règles du "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}", et peuvent d'ailleurs s'en moquer allègrement, en jurant toutes sortes de choses farfelues. {% xfact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 Le monde des automates
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 *Les assistants logistiques, photographes, et servants du buffet, ont intérêt à faire partie de ce monde-là pour un surcroît d'ambiance et une bonne liberté d'action.*
 
-Avec l'aide d'Octave, l'avatar "inventeur" avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% fact "inventor_has_built_androids" %}
+Avec l'aide d'Octave, l'avatar "inventeur" avait conçu des automates pouvant, par exemple, faire le service de la table. Il s’agit d’entités purement mécaniques, dénuées de toute conscience et de tout pouvoir magique. Certains peuvent parler et comprendre des ordres simples ; d'autres automates sont limités à des tâches très précises comme servir les mets et boissons, ou faire le ménage. {% xfact "inventor_has_built_androids" %}
 
-Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **{% symbol "rubans blancs" for "automaton_symbolic_cloth" %}** autour du cou et des poignets. {% hint "white_ribbon_cloth_for_automatons" is needed %}
+Pour être plus facilement distingués des avatars, outre leurs démarches et paroles, les automates doivent porter des **{% symbol "rubans blancs" for "automaton_symbolic_cloth" %}** autour du cou et des poignets. {% xitem "white_ribbon_cloth_for_automatons" is needed %}
 
-Ils obéissent uniquement au personnage (figurant ou joueur) portant un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**. Ils répondent du mieux possible à ses ordres, tant qu'ils sont dans leurs compétences, et ne contredisent pas frontalement leurs règles innées de non-agression et de survie. *En cas de doute sur comment réagir à un ordre difficile, simuler l'hésitation ou l'incompréhension de l'automate, et demander discrètement au maître de jeu.* {% fact "robots_obey_but_refuse_violence_or_sacrifice" %}
+Ils obéissent uniquement au personnage (figurant ou joueur) portant un **bracelet large argenté appelé le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}**. Ils répondent du mieux possible à ses ordres, tant qu'ils sont dans leurs compétences, et ne contredisent pas frontalement leurs règles innées de non-agression et de survie. *En cas de doute sur comment réagir à un ordre difficile, simuler l'hésitation ou l'incompréhension de l'automate, et demander discrètement au maître de jeu.* {% xfact "robots_obey_but_refuse_violence_or_sacrifice" %}
 
 Les robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous.
 
@@ -205,7 +205,7 @@ Ils peuvent dysfonctionner par moment, jusqu'à ce que l'avatar inventeur ou un 
 
 Rôle spécial : **l'automate de garde**, armé, qui patrouille dans la bibliothèque pour la protéger contre de possibles assaillants (voir sa fiche de figurant, et ses interventions programmées).
 
-Les automates ne sont PAS soumis aux règles du "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+Les automates ne sont PAS soumis aux règles du "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". {% xfact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 {# NOPE NOT FOR NOW
   Lorsque, bien plus tard, les joueurs arrivent à accéder au {% symbol "Thanatologue" for "book_of_the_dead" %}, il est POSSIBLE de déclencher une bande-son intense lors de la première ouverture de ce grimoire maudit.
@@ -218,9 +218,9 @@ Le monde divin
 
 Les entités faisant partie du **"divin"** - le figurant **l’Ankou**, et le maître de jeu en **Djinn renégat** - peuvent voir tout le monde et être vues de tous, et sont par défaut sans danger pour les différents personnages.
 
-Ils sont également insensibles aux armes et aux sortilèges (dont la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}) entourant la bibliothèque. {% fact "ankou_sees_all_and_is_harmless_for_all" %}
+Ils sont également insensibles aux armes et aux sortilèges (dont la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}) entourant la bibliothèque. {% xfact "ankou_sees_all_and_is_harmless_for_all" %}
 
-Ils ne sont PAS soumis aux règles du "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+Ils ne sont PAS soumis aux règles du "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". {% xfact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 {% endmacro %}
 <{ explanation_of_different_worlds }/>
@@ -256,7 +256,7 @@ Leurs compétences sont orientées vers la nature et la magie.
 {% macro parcival_group_symbols() %}
 
 Le blason de la famille Parcival est un **bâton noueux autour duquel un unique serpent est enroulé**.
-{% fact "coat_of_arms_of_parcival_is_partial_caduceus" %}
+{% xfact "coat_of_arms_of_parcival_is_partial_caduceus" %}
 
 Son vêtement de reconnaissance est un **jabot bleu-royal** *(fourni par les organisateurs)*.
 
@@ -344,11 +344,11 @@ Octave de Maupertuis (l’enfant)
 
 - Il enseignait principalement à Octave ses humanités (sciences, lettres...), laissant aux parents le soin de transmettre leur héritage de magiciens.
 
-- Il a tiré profit de leur enfermement initial dans la bibliothèque, suite au saccage du manoir, pour s'improviser archiviste, et commencer à trier l'étage autorisé. Il prenait juste soin de ne pas manipuler les grimoires aux allures louches. {% fact "archivist_began_cataloging_books" %}
+- Il a tiré profit de leur enfermement initial dans la bibliothèque, suite au saccage du manoir, pour s'improviser archiviste, et commencer à trier l'étage autorisé. Il prenait juste soin de ne pas manipuler les grimoires aux allures louches. {% xfact "archivist_began_cataloging_books" %}
 
 - Le précepteur ne sait pas comment il est mort, ni pourquoi il est prisonnier de ce lieu (soupçonne une trahison de l’arkonte), ni pourquoi il est ancré à un endroit précis.
 
-- Il a tenu un petit **journal de bord** pendant leur enfermement, qui doit se trouver quelque part dans la bibliothèque. {% fact "archivist_began_diary_during_confinement" %}
+- Il a tenu un petit **journal de bord** pendant leur enfermement, qui doit se trouver quelque part dans la bibliothèque. {% xfact "archivist_began_diary_during_confinement" %}
 
 - Excité d’apprendre que les joueurs ont croisé l’enfant (le précepteur savait déjà par l’Ankou qu’il est prisonnier en fantôme aussi), et désireux de le revoir au plus vite.
 
@@ -397,13 +397,13 @@ Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 
 - Traits : convoitise, roublardise, bagout, incrédulité, défiance, alcoolisme, vanité
 
-- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets ; en particulier le légendaire **trésor des Maupertuis**, et la mystérieuse **{% symbol "Source de Savoir" for "link_to_djinn_world" %}**. Il a ramassé au passage **uniquement le glaive** de l'arkonte. {% fact "arkon_bag_disappeared_just_after_his_death" %} Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille). Mais il s’est fait tuer par surprise par la Bête - toujours vivante à ce moment-là - qui gardait les lieux. {% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
+- Histoire : 60 ans après que la malédiction se soit abattue sur la bibliothèque, il s’est infiltré dedans, espérant en piller les secrets ; en particulier le légendaire **trésor des Maupertuis**, et la mystérieuse **{% symbol "Source de Savoir" for "link_to_djinn_world" %}**. Il a ramassé au passage **uniquement le glaive** de l'arkonte. {% xfact "arkon_bag_disappeared_just_after_his_death" %} Il a réussi à contourner la barrière magique bloquant l’accès au Domaine Interdit, grâce à un **{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %}** (récupérable sur sa dépouille). Mais il s’est fait tuer par surprise par la Bête - toujours vivante à ce moment-là - qui gardait les lieux. {% xitem "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
 
 - Le voleur n’a initialement pas conscience qu’il est mort ; il se croit juste **piégé** dans sa petite zone (à proximité de la niche de la Bête) par les maîtres des lieux. Il interpelle donc les joueurs pour qu'on le **libère** de son ancrage, et qu'on l'aide à retrouver les équipements que quelqu'un lui a *odieusement* volés. Cela peut donner lieu à une négociation, donnant-donnant.
 
 - Il continue à ne désirer que les richesses matérielles, qu'il ne peut hélas plus prendre en main malgré ses tentatives. Même si les joueurs font un "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}" pour le convaincre qu'il est mort et que ses priorités sont illogiques, il manifeste encore des doutes (peut-être ces personnes ont-elles une immunité contre les effets de ce serment ?).
 
-- Suite aux harangues de l'arkonte, voire aux visites de l’Ankou, il finit par réaliser qu'il est mort. Mais cela ne change rien : après discussions avec les joueurs (certains ont des informations), il exulte que le **"{% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}"** soit resté depuis toujours dans sa famille. Il se glorifie donc de pouvoir encore alimenter cet amoncellement de richesse, même une fois mort, via sa magique "{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}". {% fact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %} {% fact "thief_heirs_still_benefit_from_his_treasure" %}
+- Suite aux harangues de l'arkonte, voire aux visites de l’Ankou, il finit par réaliser qu'il est mort. Mais cela ne change rien : après discussions avec les joueurs (certains ont des informations), il exulte que le **"{% symbol "Donjon des Pass’muraille" for "thief_castle_name" %}"** soit resté depuis toujours dans sa famille. Il se glorifie donc de pouvoir encore alimenter cet amoncellement de richesse, même une fois mort, via sa magique "{% symbol 'quêteuse sans fond' for 'thief_moneybox_name' %}". {% xfact "arkon_and_ankou_try_to_persuade_thief_that_he_is_dead" %} {% xfact "thief_heirs_still_benefit_from_his_treasure" %}
 
 - Il monnaie chèrement ses informations sur les lieux aux autres explorateurs de cette bibliothèque, contre de l’or et des pierreries.
 
@@ -453,7 +453,7 @@ La Bête (la goule gardienne du Domaine Interdit)
 
 - Morte de vieillesse plus d'un siècle après la malédiction de la bibliothèque, et devenue encore plus féroce à force d’errer sans but dans le domaine interdit
 
-- A une véritable **addiction** pour les {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} (galets phosphorescents) {% fact "beast_is_addicted_to_moon_stones" %}
+- A une véritable **addiction** pour les {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} (galets phosphorescents) {% xfact "beast_is_addicted_to_moon_stones" %}
 
 - Son espèce et ses caractéristiques doivent rester un peu mystérieuses pour les joueurs, afin d’augmenter l’angoisse, et de les forcer à réagir vite pour trouver des solutions, lorsqu’elle apparaît.
 
@@ -479,7 +479,7 @@ Le druide {% symbol "Diviciacos" for "druid_name" %}
 
 - Il est très habile, a des pouvoirs magiques, résiste à la magie et aux poisons (ainsi qu’au sacré bien sûr), et régénère très vite son corps en cas de blessure.
 
-- Il peut utiliser son **sang bleu comme la mer**, avec l'aide des esprits de la Nature, pour soigner tous types de maux biologiques (il doit simuler qu'il s'entaille l'avant-bras pour soigner). {% fact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% hint "blue_blood_for_druid_healings" is needed %}
+- Il peut utiliser son **sang bleu comme la mer**, avec l'aide des esprits de la Nature, pour soigner tous types de maux biologiques (il doit simuler qu'il s'entaille l'avant-bras pour soigner). {% xfact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% xitem "blue_blood_for_druid_healings" is needed %}
 
 {# NOPE - **S’y connait en NECROMANCIE?** #}
 
@@ -497,7 +497,7 @@ L’inventeur {% symbol "Sir Jacques Vaucanson" for "inventor_name" %}
 
 - A conçu les automates de la bibliothèque
 
-- Il peut bricoler une prothèse mécanique pour remplacer un membre perdu {% fact "inventor_can_well_heal_missing_limbs" %}
+- Il peut bricoler une prothèse mécanique pour remplacer un membre perdu {% xfact "inventor_can_well_heal_missing_limbs" %}
 
 {% endmacro %}
 <{ avatar_inventor_character_summary }/>
@@ -513,7 +513,7 @@ La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %}
 
 - Est capable d'entrer en synergie avec d'autres "voyants"
 
-- Elle peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour guérir une blessure sacrée {% fact "duchess_can_well_heal_sacred_injuries" %}
+- Elle peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour guérir une blessure sacrée {% xfact "duchess_can_well_heal_sacred_injuries" %}
 
 {% endmacro %}
 <{ avatar_duchess_character_summary }/>
@@ -577,15 +577,15 @@ Les différents types de blessures
 
 Les agressions qu'un aventurier malchanceux est susceptible de subir se classent en trois catégories : **attaques physiques, magiques et sacrées**.
 
-Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, ou autres, mais aussi blessures résultant d'objets magiquement envoûtés...) doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : **biologique**. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.  {% fact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
+Les attaques physiques (armes tranchantes, contondantes, perçantes, toxiques...), et les attaques magiques (sortilèges de feu, de glace, ou autres, mais aussi blessures résultant d'objets magiquement envoûtés...) doivent être parées avec des moyens différents, mais les blessures résultantes sont d'une même nature : **biologique**. Les mêmes soins médicaux, les mêmes potions, peuvent donc secourir les victimes de ces maux.  {% xfact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
 
-En revanche, les attaques sacrées, typiquement issues de contacts avec des fantômes ou démons, ou avec leurs dépouilles maudites, causent des blessures de nature **spirituelle**. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité, membre inutilisable...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions aussi peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction. {% fact "potions_cannot_heal_spiritual_injuries" %} {% fact "cursed_skull_and_bones_give_sacred_injuries" %}
+En revanche, les attaques sacrées, typiquement issues de contacts avec des fantômes ou démons, ou avec leurs dépouilles maudites, causent des blessures de nature **spirituelle**. Quoique les symptômes soient proches de maux biologiques (tétanie, cécité, membre inutilisable...), seules les interventions de mystiques peuvent réparer promptement les dommages infligés à l'âme. Les potions aussi peuvent être utiles dans ce cas, mais uniquement en fournissant aux célébrants davantage d'énergie et de concentration pour la réalisation de leur rituel de bénédiction. {% xfact "potions_cannot_heal_spiritual_injuries" %} {% xfact "cursed_skull_and_bones_give_sacred_injuries" %}
 
 La distinction entre ces différents types de blessures n'est pas toujours évidente ; par exemple, la paralysie d'un membre peut être due à des lésions internes tout comme à l'attaque d'un spectre. D'où la nécessité d'investiguer les circonstances ayant mené aux troubles constatés, afin de fournir un remède approprié.
 
 Un point d'attention : de même que les blessures "biologiques", même soignées, laissent des séquelles dans le corps, de même les blessures "spirituelles" fragilisent les fondements de l'âme.
 
-**Subir deux blessures d'affilée, de quelque nature que ce soit, mène donc presque certainement à la mort.** {% fact "second_injury_sustained_is_always_fatal" %}
+**Subir deux blessures d'affilée, de quelque nature que ce soit, mène donc presque certainement à la mort.** {% xfact "second_injury_sustained_is_always_fatal" %}
 
 {% endmacro %}
 <{ injury_types_knowledge }/>
@@ -597,26 +597,26 @@ Concrètement : les cas possibles durant le jeu
 
 Un joueur peut être atteint dans les cas suivants :
 
-- S’il se fait toucher par un fantôme en phase désincarnée (en errance spectrale) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête fantôme, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
+- S’il se fait toucher par un fantôme en phase désincarnée (en errance spectrale) : **blessure sacrée**. S'il se fait attaquer durablement par la Bête fantôme, ou fait obstacle à un fantôme au lieu de s'enfuir, cela finit par le tuer. {% xfact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
-- S’il touche une dépouille maudite, comme un crâne sonore ou les ossements qui vont avec {% fact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+- S’il touche une dépouille maudite, comme un crâne sonore ou les ossements qui vont avec {% xfact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% xfact "pentacle_is_not_harmful_oustide_rituals" %}
 
 - S’il déclenche un piège physique ou magique, c'est-à-dire fait tomber un **grelot** par terre (ex. fil tendu dans une allée) ou déclenche le cri d'une **cigale** à détecteur de présence (ex. en ouvrant un coffre) : **blessure biologique**.
- {% fact "cicada_or_minibell_sound_mean_injury" %}
+ {% xfact "cicada_or_minibell_sound_mean_injury" %}
 
-- S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival, et se fait toucher par la momie du mage : **mort**. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
+- S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival, et se fait toucher par la momie du mage : **mort**. {% xfact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
 - S'il boit une potion dangereuse, ou reçoit un sortilège ennemi etc. : **blessure biologique**.
 
 **Les blessures se traduisent par un malus à la discrétion du MJ, suivant la situation : perdre un membre ou juste son usage, devenir muet, perdre la mémoire, devenir essoufflé et ne plus pouvoir courir (en cas d'empoisonnement), ou ne plus pouvoir utiliser certaines compétences...**
 
-**IMPORTANT : une deuxième blessure, de même nature ou non, subie durant le jeu, tue le joueur.** {% fact "second_injury_sustained_is_always_fatal" %}
+**IMPORTANT : une deuxième blessure, de même nature ou non, subie durant le jeu, tue le joueur.** {% xfact "second_injury_sustained_is_always_fatal" %}
 
 {# NOPE
 Les joueurs sont censés chercher entre eux les moyens de se soigner, grâce aux potions magiques et aux rituels des diacres, mais ces possibilités restent très limitées.
 #}
 
-Les joueurs sont par eux-mêmes très démunis face aux diverses blessures, ils n'ont PAS de compétences en ce sens. {% fact "players_have_no_medecine_abilites" %}
+Les joueurs sont par eux-mêmes très démunis face aux diverses blessures, ils n'ont PAS de compétences en ce sens. {% xfact "players_have_no_medecine_abilites" %}
 
 **Guérisons par des avatars** : Les blessures peuvent, en fonction de leur type, être guéries par certains des avatars présents. Les avatars doivent d'abord laisser le joueur avec ses blessures pendant quelques minutes, le temps de "rassembler ce qu'il faut pour le soigner". Puis ils procèdent à une opération ou un rituel - **à inventer pour l'occasion**.
 
@@ -624,13 +624,13 @@ Les joueurs sont par eux-mêmes très démunis face aux diverses blessures, ils 
 mais attention ces interventions ont **1 chance sur 6 d'échouer dramatiquement** (menant alors à la mort du joueur - tirer cela au dé avec le maître de jeu){ % fact "avatar_abilities_are_randomly_hazardous" % }.
 #}
 
-- La **duchesse** peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour réparer une blessure sacrée (touchant l'âme). {% fact "duchess_can_well_heal_sacred_injuries" %}
-- Le **druide** peut utiliser son **sang bleu comme la mer**, avec l'aide des esprits de la Nature, pour soigner tous types de maux biologiques. {% fact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% hint "blue_blood_for_druid_healings" is needed %}
-- L’\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu. {% fact "inventor_can_well_heal_missing_limbs" %}
+- La **duchesse** peut invoquer ses propres dieux, avec l'aide des {% symbol "initiés" for "ritualist_kind_name" %} présents, pour réparer une blessure sacrée (touchant l'âme). {% xfact "duchess_can_well_heal_sacred_injuries" %}
+- Le **druide** peut utiliser son **sang bleu comme la mer**, avec l'aide des esprits de la Nature, pour soigner tous types de maux biologiques. {% xfact "druid_can_well_heal_biological_injuries_with_his_blue_blood" %} {% xitem "blue_blood_for_druid_healings" is needed %}
+- L’\ **inventeur** peut bricoler une prothèse mécanique pour remplacer un membre perdu. {% xfact "inventor_can_well_heal_missing_limbs" %}
 
 **Si un joueur meurt, il devient un fantôme** ; il est cependant constamment incarné, et immédiatement libre de ses mouvements, contrairement aux fantômes figurants. Il reste cependant soumis aux mêmes barrières que l'ensemble des protagonistes ({% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} encerclant la bibliothèque, {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} bloquant l'accès au domaine interdit...). Il ne peut plus manipuler d’objets (pas même une tablette tactile de compétences), mais il garde ses connaissances acquises. Son statut de fantôme lui permet d'accéder sans problème aux corridors piégés et autres lieux dangereux pour les vivants.
 
-Avec le bon rituel du grimoire {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de **ressusciter un joueur** à l’état de **zombie** pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de "zombie à l’ancienne" (ex. il parle bizarrement, peut marcher en titubant, mais ne peut pas courir...). {% fact "players_have_thanatologue_spell_to_summon_zombies" %}
+Avec le bon rituel du grimoire {% symbol "Thanatologue" for "book_of_the_dead" %}, il est possible de **ressusciter un joueur** à l’état de **zombie** pour quelques heures ; le joueur retrouve alors toutes ses capacités, mais il doit adopter une posture et un langage de "zombie à l’ancienne" (ex. il parle bizarrement, peut marcher en titubant, mais ne peut pas courir...). {% xfact "players_have_thanatologue_spell_to_summon_zombies" %}
 
 {% endmacro %}
 <{ injury_cases_and_remedies }/>
@@ -669,7 +669,7 @@ Une musique entraînante se déclenche, et l’inventeur vient au banquet, appel
 
 Les autres avatars convergent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, en ouverture du banquet.
 
-Les mets du buffet sont supposés être automatiquement produits par la table enchantée. Optionnellement, s'il n'est pas déjà visible, on peut faire apparaître le buffet garni par une formule magique simple, que les avatars connaissent. {% fact "buffet_table_magically_generates_food" %}
+Les mets du buffet sont supposés être automatiquement produits par la table enchantée. Optionnellement, s'il n'est pas déjà visible, on peut faire apparaître le buffet garni par une formule magique simple, que les avatars connaissent. {% xfact "buffet_table_magically_generates_food" %}
 
 Une fois la musique finie, joueurs et héros font plus ample connaissance autour du buffet. Il est assumé que, à dessein, ces mets magiques sont aussi accessibles aux fantômes (incarnés ou non).
 
@@ -702,7 +702,7 @@ L'Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils
 {% endmacro %}
 <{ ankou_introduction_event }/>
 
-*Les joueurs peuvent par la suite envoyer des questions à l'Ankou à l'adresse des défunts Maupertuis, mais attention, ceux-ci ne se souviennent pas de tout non plus.* {% fact "diakon_invoker_can_message_ankou" %}
+*Les joueurs peuvent par la suite envoyer des questions à l'Ankou à l'adresse des défunts Maupertuis, mais attention, ceux-ci ne se souviennent pas de tout non plus.* {% xfact "diakon_invoker_can_message_ankou" %}
 
 
 La folie meurtrière de l'automate de garde
@@ -710,12 +710,12 @@ La folie meurtrière de l'automate de garde
 
 {% macro automaton_sentinel_instructions() %}
 
-{% fact "druid_turns_automaton_sentinel_into_prophet_killer" %}
+{% xfact "druid_turns_automaton_sentinel_into_prophet_killer" %}
 
-Dès le début de l'aventure, cet automate patrouille bien "mécaniquement" avec une carabine Nerf, et interpelle les joueurs qu'il croise. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde, en ignorant désormais les joueurs ainsi contrôlés. {% hint 'nerf_gun_for_guard_automaton' is needed %}
+Dès le début de l'aventure, cet automate patrouille bien "mécaniquement" avec une carabine Nerf, et interpelle les joueurs qu'il croise. Il les somme de décliner leur identité, et de jurer (par Zarathoustra) qu'ils n'ont aucune intention de s'en prendre à la lignée des Maupertuis. Puis il continue sa ronde, en ignorant désormais les joueurs ainsi contrôlés. {% xitem 'nerf_gun_for_guard_automaton' is needed %}
 
 Plus tard, peu après l'ouverture du Domaine Interdit, le druide se sent menacé par les différentes prophéties qui le désignent peu à peu. Il prend donc le contrôle de l'automate de garde, par des champignons/lianes s'infiltrant dans le système central de ladite machine (cela est matérialisé en jeu, par exemple, par de faux végétaux autour de son cou ou derrière son masque).
-{% hint "plants_around_head_of_automaton_hitman" is needed %}
+{% xitem "plants_around_head_of_automaton_hitman" is needed %}
 
 Le druide envoie l'automate de garde pour **assassiner** (par une balle dans le torse) deux personnes :
 
@@ -725,24 +725,24 @@ Le druide envoie l'automate de garde pour **assassiner** (par une balle dans le 
 L'automate tueur cherche à effrayer, ou à la rigueur blesser aux jambes, les autres protagonistes, mais pas plus ; car le druide compte sur eux pour supprimer la malédiction de la bibliothèque. Il se montre donc particulièrement prudent envers les précieux diacres.
 
 L'automate ne peut pas récupérer ses balles, qui se désagrègent naturellement à l'impact.
-*Ces balles nerf doivent avoir une couleur différente des "fléchettes" des Parcival ; veiller à ce que des joueurs n'en récupèrent pas, car cela n'aurait pas de sens en jeu.* {% fact "nerf_bullets_and_arrows_need_different_colors" %}
+*Ces balles nerf doivent avoir une couleur différente des "fléchettes" des Parcival ; veiller à ce que des joueurs n'en récupèrent pas, car cela n'aurait pas de sens en jeu.* {% xfact "nerf_bullets_and_arrows_need_different_colors" %}
 
 Il ne vise évidemment **jamais la tête** des participants, par sécurité.
 
 Face à cet automate :
 
 - Tous les protagonistes sont vulnérables
-- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte ; ses fléchettes d'{% symbol "Iridium" for "parcival_woodsman_arrows_metal" %} peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal ; il a déjà entendu parler de ce genre de chimères mécaniques. {% fact "parcival_woodsman_knows_about_parasited_automatons" %}
+- Le Gardien des Bois est protégé, au torse seulement, par l'armure de l'arkonte ; ses fléchettes d'{% symbol "Iridium" for "parcival_woodsman_arrows_metal" %} peuvent légèrement handicaper l'automate tueur, mais guère plus, hormis un coup parfait en plein coeur, qui serait fatal ; il a déjà entendu parler de ce genre de chimères mécaniques. {% xfact "parcival_woodsman_knows_about_parasited_automatons" %}
 - Aller à l'empoignade est proscrit par sécurité, mais serait de toute façon suicidaire étant donnée la force physique des automates.
 - Les sortilèges des diacres sont en théorie inutilisables, car l'automate bouge trop, par exemple, pour être mis en stase dans un pentacle.
 - Si un protagoniste possède le {% symbol 'Dominion' for 'androids_command_bracelet_name' %}, le bracelet de commandement des automates, il peut donner des ordres à l'automate tueur, et ainsi créer un conflit qui va le confondre et le ralentir (car le robot oscillera entre l'ordre de tuer, et celui de ne pas le faire).
 - Les meilleures armes pour détruire l'automate tueur sont le {% symbol "glaive" for "arkon_weapon_name" %} ULTRA-LOURD de l'arkonte, et les explosifs.
 
-{% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
-{% hint "2_explosives_for_minesweeper" is needed %}
+{% xitem "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
+{% xitem "2_explosives_for_minesweeper" is needed %}
 
 Une fois que l'automate tueur a été neutralisé, ou (en pire cas) n'a plus de balles et s'autodétruit, les joueurs peuvent récolter dessus les indices de son étrange contamination.
-{% hint "plants_around_head_of_automaton_hitman" is needed %}
+{% xitem "plants_around_head_of_automaton_hitman" is needed %}
 
 Si le druide est appelé pour soigner une des deux cibles de l'automate, il sera naturellement **réticent** à le faire ; mais il devra alors choisir entre faire profil bas et soigner avec son talent habituel, ou échouer volontairement dans ses soins, et tenter alors de le justifier pour ne pas éveiller trop de soupçons.
 
@@ -759,7 +759,7 @@ Les joueurs doivent trouver le moyen de se téléporter dans le tombeau du {% sy
 
 Le cadavre du mage gît allongé là, dans l'aube papale dorée.
 
-Si un non-Parcival fait partie du groupe des téléportés (voir leurs habits de reconnaissance), cela déclenche une malédiction : la momie du mage se lève, et pourchasse (en marchant lentement, comme un zombie) l'intrus, qui doit l'esquiver jusqu'à ce que le téléporteur lui permette de sortir, sous peine de mourir. La momie retourne ensuite à sa place. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %} {% fact "phantoms_are_persistent_but_zombies_are_transient" %}
+Si un non-Parcival fait partie du groupe des téléportés (voir leurs habits de reconnaissance), cela déclenche une malédiction : la momie du mage se lève, et pourchasse (en marchant lentement, comme un zombie) l'intrus, qui doit l'esquiver jusqu'à ce que le téléporteur lui permette de sortir, sous peine de mourir. La momie retourne ensuite à sa place. {% xfact "magus_mos_peratys_tomb_kills_non_heir_intruders" %} {% xfact "phantoms_are_persistent_but_zombies_are_transient" %}
 
 Lorsqu'il n'y a pas de non-Parcival dans le tombeau, la momie ne bouge absolument pas, mais sa simple présence suffit à stresser les joueurs, tandis qu'ils lui piquent ses ornements légendaires.
 
@@ -791,7 +791,7 @@ La Bête peut potentiellement reparaître juste pour s'échapper elle aussi, de 
 
 Les automates guident ensuite les joueurs vers la sortie de la bibliothèque, avant que les portails de transplanage ne se referment jusqu'au prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}.
 
-Selon que les groupes de joueurs ont, ou non, pris l'engagement auprès de l'arkonte de protéger/détruire les portails menant à ce lieu, **cette bibliothèque subsistera, ou s'autodétruira dans le magma**, faute de lien magique avec la surface (elle a besoin de 2 des liens sur les 4 pour ne pas s'effondrer). {% fact "arkon_questions_groups_about_the future_of_maupertuis_archives" %}
+Selon que les groupes de joueurs ont, ou non, pris l'engagement auprès de l'arkonte de protéger/détruire les portails menant à ce lieu, **cette bibliothèque subsistera, ou s'autodétruira dans le magma**, faute de lien magique avec la surface (elle a besoin de 2 des liens sur les 4 pour ne pas s'effondrer). {% xfact "arkon_questions_groups_about_the future_of_maupertuis_archives" %}
 
 
 Planification des prophéties et intuitions
@@ -801,25 +801,25 @@ Planification des prophéties et intuitions
 
 **Donner à l'oracle uniquement le contenu en italique, pas le titre ou le contexte de ces prophéties.**
 
-- **Intuition initiale sur les aventuriers** (à la fin de l'introduction commune) : Cette intuition, sur la nécessité de rester solidaires entre joueurs, est déjà dans la fiche de personnage de l'Oracle. {% fact "parcival_oracle_has_initial_intuition_about_adventurers_solidarity" %}
+- **Intuition initiale sur les aventuriers** (à la fin de l'introduction commune) : Cette intuition, sur la nécessité de rester solidaires entre joueurs, est déjà dans la fiche de personnage de l'Oracle. {% xfact "parcival_oracle_has_initial_intuition_about_adventurers_solidarity" %}
 
 - **Intuition sur la Bête et le Mage** (lors de la première rencontre de l'oracle avec la duchesse) : *"Vous sentez de multiples présences errantes. L'une d'elles est remplie d'incompréhension et de haine. Vous sentez aussi une vieille âme endormie, à la fois fière et vengeresse, qui semble vous appeler."*
 
-- **Prophétie des livres jumeaux du père Maupertuis** (plume dans le coffre commun des Maupertuis) : Vision simple, musique "One Last Stand". {% hint 'feather_in_common_family_chest' is needed %}
+- **Prophétie des livres jumeaux du père Maupertuis** (plume dans le coffre commun des Maupertuis) : Vision simple, musique "One Last Stand". {% xitem 'feather_in_common_family_chest' is needed %}
 
 - **Intuition sur le domaine interdit** (lorsque les joueurs entrent dans l'étage interdit) : *"Vous sentez se déverser sur vous le poids de siècles, de millénaires de connaissances qui sont sources de vie, mais aussi parfois de mort. Cependant, vous le sentez, le Mal est bien plus ancré dans l'étage autorisé, qu'il ne l'est dans l'étage interdit."*
 
-- [FACULTATIF] **Prophétie sur le moulin générateur de richesses** (plume sur le tableau avec stéréogramme de moulin près des portraits) : Vision simple, musique "Here and Now (Seed's Theme)". {% hint 'optional_feather_on_stereogram_board' is needed %}
+- [FACULTATIF] **Prophétie sur le moulin générateur de richesses** (plume sur le tableau avec stéréogramme de moulin près des portraits) : Vision simple, musique "Here and Now (Seed's Theme)". {% xitem 'optional_feather_on_stereogram_board' is needed %}
 
-- **Prophétie de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "The Calling". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% hint 'feather_in_thanatologue' is needed %} Si le joueur Oracle ne se sent pas capable de gérer cette prophétie audio, repasser sur une simple vision, avec l'image.
+- **Prophétie de la bague Amplificans anti-zombies** (plume dans le Thanatologue) : Prophétie AUDIO, musique "The Calling". ATTENTION à bien garder la bande-son de l'oreillette de l'Oracle, et la musique pour le public, en SYNCHRONISATION. {% xitem 'feather_in_thanatologue' is needed %} Si le joueur Oracle ne se sent pas capable de gérer cette prophétie audio, repasser sur une simple vision, avec l'image.
 
-- **Prophétie de Cassandra**, en vidéo sur la pyramide hologramme, déclenchée en versant la bonne potion sur le bon tableau lenticulaire effrayant. {% hint "prophecy_hologram_for_scary_lenticular_painting" is needed %}
+- **Prophétie de Cassandra**, en vidéo sur la pyramide hologramme, déclenchée en versant la bonne potion sur le bon tableau lenticulaire effrayant. {% xitem "prophecy_hologram_for_scary_lenticular_painting" is needed %}
 
-- **Prophétie du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte déposée par le méchant) : Vision simple, musique "Broken Truth light (Delphi's Theme)". {% hint 'feather_in_arkon_bag' is needed %}
+- **Prophétie du 3e Tome égaré du druide** (plume dans la sacoche de l'arkonte déposée par le méchant) : Vision simple, musique "Broken Truth light (Delphi's Theme)". {% xitem 'feather_in_arkon_bag' is needed %}
 
 - **Prophétie du crâne de l’arkonte et du danger planétaire** (allumage de la fontaine d'encens) : Vision partielle en DUO avec la duchesse, musique "Broken Truth heavy (Delphi's Theme)".
 
-- **Intuition sur la dernière bataille** (peu après que le méchant est démasqué, mais UNIQUEMENT si la prophétie holographique de Cassandra n'a pas été déclenchée via les portraits lenticulaires effrayants) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un taureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire leur ennemie. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."* {% fact "parcival_oracle_has_fallback_intuition_about_last_battle" %}
+- **Intuition sur la dernière bataille** (peu après que le méchant est démasqué, mais UNIQUEMENT si la prophétie holographique de Cassandra n'a pas été déclenchée via les portraits lenticulaires effrayants) : *"Vous sentez que les vivants présents sont comme des fourmis qui se tiennent face à un taureau ; mais que si toutes les fourmis joignent leurs efforts, elles peuvent bâtir de quoi détruire leur ennemie. Attention cependant, dans les derniers instants d'une lutte, les meilleurs amis peuvent devenir les pires adversaires, même à leur insu."* {% xfact "parcival_oracle_has_fallback_intuition_about_last_battle" %}
 
 {% endmacro %}
 <{ planning_of_prophecies }/>
@@ -841,18 +841,18 @@ AUTRE IDEES DE COMPETENCES ET ENIGMES
 Accéder au domaine interdit (utile à tous)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Un sceau est visible devant les escaliers menant à l'étage interdit. Lorsqu'il est activé, un grimoire apparait ; il montre des carrés retournables sur un panneau (ou une application sur tablette tactile), {% hint "symbolic_enigma_puzzle_app" is needed %} qui permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon motif entier pour ouvrir le passage.
+Un sceau est visible devant les escaliers menant à l'étage interdit. Lorsqu'il est activé, un grimoire apparait ; il montre des carrés retournables sur un panneau (ou une application sur tablette tactile), {% xitem "symbolic_enigma_puzzle_app" is needed %} qui permettent de créer différentes combinaisons de bouts de symboles ; il faut trouver le bon motif entier pour ouvrir le passage.
 
-- Les figurants indiquent qu'il faut le symbole secret de la famille Maupertuis pour pouvoir ouvrir le passage. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "npcs_know_about_secret_family_symbol_system" %}
+- Les figurants indiquent qu'il faut le symbole secret de la famille Maupertuis pour pouvoir ouvrir le passage. {% xfact "secret_family_symbol_needed_for_forbidden_zone" %} {% xfact "npcs_know_about_secret_family_symbol_system" %}
 
-- Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé seul dans le domaine interdit (la Bête l'aurait d'ailleurs attaqué dans ce cas). {% fact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
+- Octave a quelques souvenirs de ce système, même s’il n’avait pas encore reçu le symbole secret de sa famille, et n’était jamais allé seul dans le domaine interdit (la Bête l'aurait d'ailleurs attaqué dans ce cas). {% xfact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
 
-- Le symbole de la famille est en **message UV** dans un livret "Généalogie des Maupertuis", {% hint "genealogy_book_with_uv_family_symbol" is needed %} qui est dissimulé dans la mallette administrative de la famille. Octave et l'archiviste avaient entendu parler de cela. {% hint "family_briefcase_protected_by_code" is needed %} {% fact "octave_and_archivist_know_about_secret_family_symbol_in_family_briefcase" %}
-  Cette mallette est protégée par le code {% symbol "625-993" for "family_briefcase_code" %}, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}". {% hint "family_briefcase_code_spoken_by_venture_prins_fake_book" is needed %}
+- Le symbole de la famille est en **message UV** dans un livret "Généalogie des Maupertuis", {% xitem "genealogy_book_with_uv_family_symbol" is needed %} qui est dissimulé dans la mallette administrative de la famille. Octave et l'archiviste avaient entendu parler de cela. {% xitem "family_briefcase_protected_by_code" is needed %} {% xfact "octave_and_archivist_know_about_secret_family_symbol_in_family_briefcase" %}
+  Cette mallette est protégée par le code {% symbol "625-993" for "family_briefcase_code" %}, qui est "murmuré" par le livre factice "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}". {% xitem "family_briefcase_code_spoken_by_venture_prins_fake_book" is needed %}
 
-- Octave et l'archiviste connaissent bien ce livre factice, et ont même, grâce au code obtenu, fouillé la mallette administrative (dangereuse car piégée) par le passé. Mais en vain, hélas. {% fact "octave_and_archivist_have_searched_family_briefcase" %} {% fact "octave_and_archivist_know_about_trap_of_family_briefcase" %}
+- Octave et l'archiviste connaissent bien ce livre factice, et ont même, grâce au code obtenu, fouillé la mallette administrative (dangereuse car piégée) par le passé. Mais en vain, hélas. {% xfact "octave_and_archivist_have_searched_family_briefcase" %} {% xfact "octave_and_archivist_know_about_trap_of_family_briefcase" %}
 
-- Tous deux se souviennent où ils ont laissé le "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}" ; ils indiquent le rayon concerné aux joueurs qui le demandent, et le livre s'y trouve bien. {% fact "octave_and_archivist_know_about_venture_prins_book_location" %}
+- Tous deux se souviennent où ils ont laissé le "{% symbol "Venture Prins" for "small_wooden_fake_book_name" %}" ; ils indiquent le rayon concerné aux joueurs qui le demandent, et le livre s'y trouve bien. {% xfact "octave_and_archivist_know_about_venture_prins_book_location" %}
   Il peut falloir un stéthoscope, voire l'aide d'un automate, pour entendre le code diffusé dans le bois du livre, et ainsi ouvrir la mallette des Maupertuis.
 
 - Le code de la mallette administrative peut aussi être demandé aux parents défunts, plus tard, via l’Ankou, en pire cas.
@@ -865,24 +865,24 @@ Neutraliser la Bête des Maupertuis (utile à tous)
 
 Lors de la malédiction de la bibliothèque, la Bête qui gardait le domaine interdit y a été piégée, même une fois morte de vieillesse. Devenue fantomatique et aigrie, elle est plus dangereuse que jamais.
 
-La Bête attaque toute créature vivante et ses attaques (au corps à corps mais "sacrées") sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouchée. {% fact "beast_ignores_or_fears_other_phantoms" %}
+La Bête attaque toute créature vivante et ses attaques (au corps à corps mais "sacrées") sont rapidement handicapantes puis létales. Elle ne peut voir les personnages des livres, et ignore majoritairement les fantômes, un peu comme une chienne effarouchée. {% xfact "beast_ignores_or_fears_other_phantoms" %}
 
-Une fois que l’accès au domaine interdit (habituellement protégé par un puissant {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}) est ouvert, la Bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. Octave et l'archiviste les encouragent donc à planifier de quoi la mettre hors d’état de nuire durablement. {% fact "octave_and_archivist_warn_players_about_beast_dangerousness" %}
+Une fois que l’accès au domaine interdit (habituellement protégé par un puissant {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}) est ouvert, la Bête est libre d’en sortir, et de faire irruption parmi les joueurs, si ceux-ci ne prennent pas les devants. Octave et l'archiviste les encouragent donc à planifier de quoi la mettre hors d’état de nuire durablement. {% xfact "octave_and_archivist_warn_players_about_beast_dangerousness" %}
 
 Pour neutraliser la Bête :
 
 - La Bête détecte les vivants qui se trouvent à moins de 3m, mais voit très mal au-delà. Il est donc possible de se promener dans le domaine interdit en l’évitant soigneusement, mais cela reste très dangereux.
-   {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
+   {% xfact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 
-- L’arkonte avait une {% symbol "armure de Mithril" for "arkon_armor_name" %} protégeant intégralement le porteur des attaques "sacrées", c'est-à-dire celles des créatures appartenant au royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la Bête. {% hint "arkon_sacred_armor" is needed %}
+- L’arkonte avait une {% symbol "armure de Mithril" for "arkon_armor_name" %} protégeant intégralement le porteur des attaques "sacrées", c'est-à-dire celles des créatures appartenant au royaume des morts. Les joueurs peuvent la trouver au cimetière, et le **plus costaud** de tous peut la revêtir, pour tenir tête aux attaques de la Bête. {% xitem "arkon_sacred_armor" is needed %}
 
-- **L’exorciste** peut faire fuir la Bête pendant quelque temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% fact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% fact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
+- **L’exorciste** peut faire fuir la Bête pendant quelque temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% xfact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% xfact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
-- L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de "tuer" la Bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la Bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% fact "diakon_exorcist_can_bless_parcival_woodsman_arrows" %}
+- L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de "tuer" la Bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la Bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% xfact "diakon_exorcist_can_bless_parcival_woodsman_arrows" %}
 
-- La Bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même si elle ne peut plus les manger, elle se jette dessus quand il en croise. {% hint "beast_snack_as_moon_stones" is needed %} {% fact "beast_is_addicted_to_moon_stones" %}
+- La Bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même si elle ne peut plus les manger, elle se jette dessus quand il en croise. {% xitem "beast_snack_as_moon_stones" is needed %} {% xfact "beast_is_addicted_to_moon_stones" %}
 
-- **L’invocateur** connait un rituel capable de "geler" pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la Bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% fact "diakon_invoker_can_freeze_beast_for_days" %}
+- **L’invocateur** connait un rituel capable de "geler" pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la Bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% xfact "diakon_invoker_can_freeze_beast_for_days" %}
 
 {# NOT YET - murs amovibles pourraient être déplacés pour encager la Bête #}
 {# NOPE - **L'alchimiste** peut trouver une potion capable de réaliser un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} pendant une journée sur u #}
@@ -897,22 +897,22 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 **Les Parcival ont pour principal objectif de trouver un remède contre la maladie de leur petite soeur {% symbol "Philomène" for "parcival_sick_child_name" %}, la {% symbol "dégénérescence marbrée" for "legacy_disease" %}, car leur ancêtre Mérédice de Maupertuis en avait été guérie ici.**
 
-- L'archiviste se souvient très bien de la maladie de Mérédice de Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ce cocktail, et l'indique aux joueurs (elle est dans l'étage autorisé). {% fact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
+- L'archiviste se souvient très bien de la maladie de Mérédice de Maupertuis, et comment les parents Maupertuis l'avaient envoyé en personne quérir différents ingrédients très pointus pour créer un {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}. Chance, il avait retrouvé et rangé à sa place, lors de l'inventaire, la recette de ce cocktail, et l'indique aux joueurs (elle est dans l'étage autorisé). {% xfact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
-- Le {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %} demande de mélanger trois potions : l'Élixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% hint "recipe_rejuvenation_cocktail" is needed %}
+- Le {% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %} demande de mélanger trois potions : l'Élixir Flexifiant (inoffensif), la Lotion de Clairvoyance (inoffensive), et la Teinture Pyrolitis (dangereuse). {% xitem "recipe_rejuvenation_cocktail" is needed %}
 
-- Les deux premières potions ont leurs recettes à l'étage autorisé ; l'archiviste les avait croisées, et avait marqué au sol leur emplacement avec des **flèches blanches** (en scotch). {% hint "recipe_flex_elixir" is needed %} {% hint "recipe_clarity_lotion" is needed %} {% hint "white_arrows_on_floor_towards_cure_recipes" is needed %} {% fact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
+- Les deux premières potions ont leurs recettes à l'étage autorisé ; l'archiviste les avait croisées, et avait marqué au sol leur emplacement avec des **flèches blanches** (en scotch). {% xitem "recipe_flex_elixir" is needed %} {% xitem "recipe_clarity_lotion" is needed %} {% xitem "white_arrows_on_floor_towards_cure_recipes" is needed %} {% xfact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 
-- Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà). {% fact "druid_known_about_plants_and_gems" %} {% fact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% fact "parcival_alchemist_has_all_ingredients_for_clarity_lotion_recipe" %}
+- Ces deux premières potions ne font appel qu'à des ingrédients facilement accessibles dans le pays de la famille Parcival, elles n’ont donc pas besoin d’être réalisées sur place. Mais il faut l’aide du **druide** pour reconnaître les noms désuets qui désignent certains ingrédients, dans ces recettes (ou bien interroger les parents Maupertuis depuis l’au-delà). {% xfact "druid_known_about_plants_and_gems" %} {% xfact "parcival_alchemist_has_all_ingredients_for_flex_elixir_recipe" %} {% xfact "parcival_alchemist_has_all_ingredients_for_clarity_lotion_recipe" %}
 
-- La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth), trouvable sur place dans un coffre, est utilisé pour localiser les recettes dont on connait le nom, dans cet étrange endroit (en plus, optionnellement, des étiquettes sur les rayonnages). L'alchimiste en a entendu parler. {% hint "radio_frequency_scanner_app_in_chest" is needed %} {% fact "parcival_alchemist_knows_about_frequency_scanner_book" %} {% hint "forbidden_zone_optional_labels_showing_tincture_shelf" is needed %} {% hint "recipe_pyrolitis_tincture" is needed %}
+- La dernière potion, la Teinture Pyrolitis, qui peut aussi servir à des maléfices, a sa recette dans le **domaine interdit**, qu'il faut donc d'abord débloquer. Un **{% symbol "grimoire traceur" for "frequency_scanner_book_name" %}** (une application mobile de scanner de balises bluetooth), trouvable sur place dans un coffre, est utilisé pour localiser les recettes dont on connait le nom, dans cet étrange endroit (en plus, optionnellement, des étiquettes sur les rayonnages). L'alchimiste en a entendu parler. {% xitem "radio_frequency_scanner_app_in_chest" is needed %} {% xfact "parcival_alchemist_knows_about_frequency_scanner_book" %} {% xitem "forbidden_zone_optional_labels_showing_tincture_shelf" is needed %} {% xitem "recipe_pyrolitis_tincture" is needed %}
 
 Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis.
 
-- Un ingrédient de la Teinture est en évidence à l’étage autorisé ; un autre en évidence sur l'établi de gemmologie ; un autre sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter) ; le dernier dans un **corridor toxique** de l’étage interdit (c'est une protection supplémentaire du lieu). {% fact "one_corridor_is_toxic" %} {# Hint tags for this are in the clues document #}
-  Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% hint "androids_command_silver_white_ribbon_bracelet_for_inventor" is needed %}
+- Un ingrédient de la Teinture est en évidence à l’étage autorisé ; un autre en évidence sur l'établi de gemmologie ; un autre sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter) ; le dernier dans un **corridor toxique** de l’étage interdit (c'est une protection supplémentaire du lieu). {% xfact "one_corridor_is_toxic" %} {# Hint tags for this are in the clues document #}
+  Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% xitem "androids_command_silver_white_ribbon_bracelet_for_inventor" is needed %}
 
-- Enfin, il faut un récipient métallique avec **enchantement anti-explosion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet cylindrique en cuivre avec anse). {% hint "enchanted_copper_cauldron_on_alchemy_table" is needed %}
+- Enfin, il faut un récipient métallique avec **enchantement anti-explosion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet cylindrique en cuivre avec anse). {% xitem "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 
 - Une fois tous les ingrédients rassemblés (pas besoin de préparer effectivement les potions), la famille a réussi cette mission, à condition qu’elle puisse quitter les lieux.
 
@@ -927,32 +927,32 @@ Le trésor des Maupertuis (agents secrets mirandiens)
 
 **Les agents secrets mirandiens ont pour principal objectif de trouver le trésor, la source de richesse des Maupertuis, pour sauver leur petit pays de la faillite.**
 
-Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langage énigmatique comment lorsqu'un grimoire se met à chanter, grâce à des symboles changeants, quelque chose tourne et les richesses apparaissent. {% hint "meredice_diary_about_treasure_for_spy_group" is needed %}
+Ils ont retrouvé un morceau du journal de Mérédice, où elle décrit en langage énigmatique comment lorsqu'un grimoire se met à chanter, grâce à des symboles changeants, quelque chose tourne et les richesses apparaissent. {% xitem "meredice_diary_about_treasure_for_spy_group" is needed %}
 
-Un oracle déclenché dans le domaine interdit montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques. {% hint "parcival_oracle_vision_about_water_mill" is needed %}
-Un stéréogramme au mur montre par ailleurs un moulin à café avec un double mot caché de remerciement. {% hint "grinding_mill_stereogram_picture_with_magnetic_and_uv_code" is needed %}
+Un oracle déclenché dans le domaine interdit montre un moulin à aube déversant des richesses dans le fleuve, entouré de notes de musiques. {% xitem "parcival_oracle_vision_about_water_mill" is needed %}
+Un stéréogramme au mur montre par ailleurs un moulin à café avec un double mot caché de remerciement. {% xitem "grinding_mill_stereogram_picture_with_magnetic_and_uv_code" is needed %}
 
-Les joueurs doivent comprendre qu’il s’agit d’un **moulin à café** simplement "caché à la vue de tous", sur l’établi d’alchimiste de l’étage interdit. {% hint "grinding_mill_with_enchantment" is needed %}
+Les joueurs doivent comprendre qu’il s’agit d’un **moulin à café** simplement "caché à la vue de tous", sur l’établi d’alchimiste de l’étage interdit. {% xitem "grinding_mill_with_enchantment" is needed %}
 
 Ce moulin, capable de générer des pierres précieuses à partir de rien, nécessite en réalité un chant issu d'un grimoire magique, pour fonctionner.
 Optionnellement, il faut activer un sceau dans l'étage interdit pour faire apparaître ce grimoire magique.
-Cet ouvrage est protégé par un code qui change tous les quelques jours. {% hint "symbolic_cards_enigma_app" is needed %} {% fact "treasure_code_changes_magically" %}
+Cet ouvrage est protégé par un code qui change tous les quelques jours. {% xitem "symbolic_cards_enigma_app" is needed %} {% xfact "treasure_code_changes_magically" %}
 
 Le code est constitué de symboles répartis entre 4 bijoux (indestructibles) des Maupertuis. 3 bijoux seulement suffisent à activer la chanson, car le dernier symbole peut se trouver *relativement* rapidement par essai et erreur sur le code du grimoire chantant.
 
 Les différents bijoux :
 
-- La broche de la mère de famille se trouve sur la **tombe d’Octave**, qui l’avait portée en souvenir après l'avoir retrouvée dans la bibliothèque ; cette broche était quasiment tout ce qui restait dans les cendres de l’enfant après la trahison, les avatars l’ont donc déposée là en signe de deuil. Cet objet doit guider les joueurs dans la compréhension de l’énigme globale. {% hint "maupertuis_mother_jewel_on_octave_tomb" is needed %} {% fact "octave_carried_mother_jewel_after_her_death" %}
+- La broche de la mère de famille se trouve sur la **tombe d’Octave**, qui l’avait portée en souvenir après l'avoir retrouvée dans la bibliothèque ; cette broche était quasiment tout ce qui restait dans les cendres de l’enfant après la trahison, les avatars l’ont donc déposée là en signe de deuil. Cet objet doit guider les joueurs dans la compréhension de l’énigme globale. {% xitem "maupertuis_mother_jewel_on_octave_tomb" is needed %} {% xfact "octave_carried_mother_jewel_after_her_death" %}
 
 - La broche du père de famille est cachée dans son livre magique protégé par clef ; ce livre a été trouvé par les héros (qui ont laissé une marque au sol pour le désigner), mais ils n’ont su comment l’ouvrir. Les **détecteurs de magnétisme et d'UV** donnent un code, qui sert à ouvrir un AUTRE livre magique à code numérique (lui aussi marqué au sol), contenant lui la clef du premier.
-  {% hint "maupertuis_father_jewel_in_twin_books" is needed %} {% hint "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
+  {% xitem "maupertuis_father_jewel_in_twin_books" is needed %} {% xitem "parcival_oracle_vision_about_maupertuis_father_twin_books" is needed %}
 
-- La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont cachés dans un SCEAU d'initiation. Il s’agissait d’une épreuve pour Octave, qui devait être capable de "sentir" la présence de l’objet magique avant d’y avoir droit. Les joueurs doivent activer le sceau, écouter le message pré-enregistré d'un automate qui leur résume l'épreuve, puis utiliser le **détecteur de métal** pour deviner le coffret qui a l’objet. Seul un héritier Maupertuis peut effectivement déclencher la résolution de cette initiation. {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% fact "only_maupertuis_heirs_can_take_initiation" %} {% hint 'maupertuis_initiation_seal' is needed %} {% hint "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}  {# FIXME plus de message enregistré ici, lettre à la place!!! #}
+- La broche qui était initialement destinée à Octave se trouve dans un des N mini-coffrets scellés, qui sont cachés dans un SCEAU d'initiation. Il s’agissait d’une épreuve pour Octave, qui devait être capable de "sentir" la présence de l’objet magique avant d’y avoir droit. Les joueurs doivent activer le sceau, écouter le message pré-enregistré d'un automate qui leur résume l'épreuve, puis utiliser le **détecteur de métal** pour deviner le coffret qui a l’objet. Seul un héritier Maupertuis peut effectivement déclencher la résolution de cette initiation. {% xfact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% xfact "only_maupertuis_heirs_can_take_initiation" %} {% xitem 'maupertuis_initiation_seal' is needed %} {% xitem "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}  {# FIXME plus de message enregistré ici, lettre à la place!!! #}
 
-- La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est **effondré**. Il vend donc cette information chèrement et à contrecoeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. Octave a aussi quelques indices, moins précis, sur l'endroit où sa soeur gardait ses biens les plus précieux. {% hint "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
-  {% fact "thief_knows_about_location_of_maupertuis_daughter_jewel" %} {% fact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}
+- La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est **effondré**. Il vend donc cette information chèrement et à contrecoeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. Octave a aussi quelques indices, moins précis, sur l'endroit où sa soeur gardait ses biens les plus précieux. {% xitem "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
+  {% xfact "thief_knows_about_location_of_maupertuis_daughter_jewel" %} {% xfact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}
 
-Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité par jour (un lot toutes les X heures), mais suffisant pour la quête des agents secrets. {% hint 'jewels_set_for_grinding_mill_success' is needed %} {% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
+Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité par jour (un lot toutes les X heures), mais suffisant pour la quête des agents secrets. {% xitem 'jewels_set_for_grinding_mill_success' is needed %} {% xfact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
 
 Avec le moulin magique et le grimoire chantant, les agents secrets ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 
@@ -967,38 +967,38 @@ Le {% symbol "Thanatologue" for "book_of_the_dead" %} (explorateurs héliossars)
 
 **Les explorateurs héliossars ont pour principal objectif de trouver le {% symbol "Thanatologue" for "book_of_the_dead" %}, un grimoire maudit, et surtout, grâce à lui, un moyen de contrer les maléfices et la tentative d'invasion de leurs ennemis les akarites.**
 
-Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conservé par la lignée des Maupertuis, dans le "coffre légendaire" situé dans le **domaine interdit** - ce qu'Octave ou l'archiviste devrait indiquer aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% hint "family_legendary_chest_protected_by_double_code" is needed %} {% fact "octave_and_archivist_know_about_thanatologue_location_and_double_code" %}
+Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conservé par la lignée des Maupertuis, dans le "coffre légendaire" situé dans le **domaine interdit** - ce qu'Octave ou l'archiviste devrait indiquer aux explorateurs-archéologues après avoir vérifié leur bonne volonté. Pour la sécurité du monde, les deux parents de Maupertuis devaient apporter leur code secret pour déverrouiller ce coffre. {% xitem "family_legendary_chest_protected_by_double_code" is needed %} {% xfact "octave_and_archivist_know_about_thanatologue_location_and_double_code" %}
 
-- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans un de ses livres factices (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% hint "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book" is needed %}
-  Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**. {% fact "dead_quirinius_does_not_remember_thanatologue_chest_code" %}
+- **{% symbol "Quirinius" for "maupertuis_father" %} de Maupertuis avait peu de mémoire**, il gardait ses codes dans son carnet de notes personnelles. Celui-ci est dans un de ses livres factices (voir ci-dessus pour son mode d’ouverture). Le code secret recherché est sous forme d'une **anamorphose en carré**. {% xitem "quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book" is needed %}
+  Il vaut **{% symbol "723" for "maupertuis_father_thanatologue_chest_code" %}**. {% xfact "dead_quirinius_does_not_remember_thanatologue_chest_code" %}
 
-- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien et mémorisait tout**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connait ce code (que la mère d'Octave avait aussi utilisé pour d’autres coffrets), et le vend très cher ; on peut aussi le trouver dans le portefeuille du voleur (gisant dans la niche de la Bête). {% fact "dead_isadora_remembers_thanatologue_chest_code" %} {% hint 'defunct_isadora_code_for_thanatologue_chest_code' is needed %} {% fact "diakon_invoker_can_message_ankou" %} {% fact "thief_knows_about_isadora_thanatologue_chest_code" %} {% hint 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
+- **{% symbol "Isadora" for "maupertuis_mother" %} de Maupertuis ne notait presque jamais rien et mémorisait tout**, il faut donc la questionner depuis l'au-delà pour obtenir son code. Cela se fait en envoyant un message par l’intermédiaire de l’Ankou (et donc de l’\ **invocateur**). En alternative, le **voleur** connait ce code (que la mère d'Octave avait aussi utilisé pour d’autres coffrets), et le vend très cher ; on peut aussi le trouver dans le portefeuille du voleur (gisant dans la niche de la Bête). {% xfact "dead_isadora_remembers_thanatologue_chest_code" %} {% xitem 'defunct_isadora_code_for_thanatologue_chest_code' is needed %} {% xfact "diakon_invoker_can_message_ankou" %} {% xfact "thief_knows_about_isadora_thanatologue_chest_code" %} {% xitem 'thief_wallet_with_isadora_code_in_beast_nest' is needed %}
   Ce code est **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**.
 
-{% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}
+{% xfact "maupertuis_mother_had_excellent_memory_but_not_father" %}
 
-- Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre légendaire, mais cela ne résout pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d'Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares. {% fact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %} {% fact "players_have_thanatologue_spell_to_summon_zombies" %} {% hint "recipe_authority_potion" is needed %}
-  Les explorateurs doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une solution, dans le {% symbol "Thanatologue" for "book_of_the_dead" %} : les akarites cherchent à viser en priorité les invocateurs du camp adverse, surtout ceux portant de grands bijoux. {% hint "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
+- Le {% symbol "Thanatologue" for "book_of_the_dead" %} se trouve bien dans le coffre légendaire, mais cela ne résout pas le problème. Ce livre enseigne en effet comment ressusciter temporairement - sous une forme zombie semi-intelligente mais obéissante - des gens morts récemment (en buvant d’abord une **Potion d'Autorité**, que l’alchimiste sait facilement fabriquer); et cela assurerait la victoire à une horde d’akarites fanatiques rentrant dans les défenses technologiques héliossares. {% xfact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %} {% xfact "players_have_thanatologue_spell_to_summon_zombies" %} {% xitem "recipe_authority_potion" is needed %}
+  Les explorateurs doivent donc trouver la contre-mesure à cette stratégie nécromancienne. Un **message UV** donne un indice sur une solution, dans le {% symbol "Thanatologue" for "book_of_the_dead" %} : les akarites cherchent à viser en priorité les invocateurs du camp adverse, surtout ceux portant de grands bijoux. {% xitem "thanatologue_book_with_zombie_spell_and_uv_counterspell_hints" is needed %}
 
-- L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur "réanimation" initiale à partir de cadavres. {% fact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
+- L’arkonte ne connaît pas de solution miracle à une légion de zombies - à part les combattre un à un avec des armes bénites. Mais il avait entendu parler de puissants enchantements de terrain, capables d’empêcher leur "réanimation" initiale à partir de cadavres. {% xfact "arkon_has_clues_about_preventing_zombie_invocation_on_land" %}
 
-- Les diacres connaissent un rituel simple permettant de "désenvouter" par avance une tombe, et éviter ainsi qu’un nécromancien n'en tire un mort-vivant. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
+- Les diacres connaissent un rituel simple permettant de "désenvouter" par avance une tombe, et éviter ainsi qu’un nécromancien n'en tire un mort-vivant. Mais ils ne savent pas faire cela à l’échelle d’un champ de bataille, cela nécessiterait un artefact magique légendaire. {% xfact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
 
-- L’oracle a une prophétie vision/audio d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. {% hint "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %} {% hint "parcival_oracle_audio_about_necromancers_and_ring_amplificans" is needed %}
+- L’oracle a une prophétie vision/audio d’une opposition entre une légion de morts-vivants, dirigés par un grimoire sombre, et un cimetière tranquille, enchanté par une bague surmontée d'un symbole : **{% symbol "soleil orné en son centre d'un tourbillon noir" for "amplificans_artefacts_symbol" %}**. {% xitem "parcival_oracle_vision_about_necromancers_and_ring_amplificans" is needed %} {% xitem "parcival_oracle_audio_about_necromancers_and_ring_amplificans" is needed %}
 
-- L’arkonte se souvient de ce symbole, qui est entre autres celui de la légendaire **{% symbol "Bague Amplificans" for "ring_amplificans_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% fact "arkon_has_hints_about_ring_amplificans" %}
+- L’arkonte se souvient de ce symbole, qui est entre autres celui de la légendaire **{% symbol "Bague Amplificans" for "ring_amplificans_name" %}**, qui aurait appartenu au fondateur de la lignée des Maupertuis, le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %}, mais a disparu à sa mort. Il conseille de chercher des traces de cela dans le tombeau dudit mage. {% xfact "arkon_has_hints_about_ring_amplificans" %}
 
-- Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage, même si les fantômes peuvent eux la contourner ; le seul moyen d'y pénétrer en tant que vivant, c'est manifestement de s'y téléporter. {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %} {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
+- Une barrière magique ultra-puissante bloque l'accès au Tombeau du mage, même si les fantômes peuvent eux la contourner ; le seul moyen d'y pénétrer en tant que vivant, c'est manifestement de s'y téléporter. {% xfact "magus_mos_peratys_tomb_is_extremly_well_sealed" %} {% xfact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
 
-- Le puissant {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} appartenant au voleur est sur sa dépouille, qui est maudite car il est "mort dans le vice". {% hint 'thief_cursed_skeleton' is needed %} {% hint 'thief_teleportation_device_in_beast_nest' is needed %}
+- Le puissant {% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} appartenant au voleur est sur sa dépouille, qui est maudite car il est "mort dans le vice". {% xitem 'thief_cursed_skeleton' is needed %} {% xitem 'thief_teleportation_device_in_beast_nest' is needed %}
 
-- Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé. En alternative, cette formule est trouvable sous forme chiffrée dans les affaires du voleur. {% fact "thief_knows_teleportation_device_formula" %} {% hint 'thief_teleportation_device_encrypted_formula' is needed %}
+- Le voleur demande une grosse somme d'argent pour donner le mot magique permettant de se téléporter. Il faut donc rassembler assez de richesses éparpillées pour cela, ou utiliser le trésor des Maupertuis une fois celui-ci trouvé. En alternative, cette formule est trouvable sous forme chiffrée dans les affaires du voleur. {% xfact "thief_knows_teleportation_device_formula" %} {% xitem 'thief_teleportation_device_encrypted_formula' is needed %}
 
-- Seul un héritier des Maupertuis peut se téléporter tranquillement dans le tombeau, toute autre personne y déclenche le réveil du mage sous forme zombie, et doit donc le fuir jusqu'à pouvoir se retéléporter à l'extérieur. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
+- Seul un héritier des Maupertuis peut se téléporter tranquillement dans le tombeau, toute autre personne y déclenche le réveil du mage sous forme zombie, et doit donc le fuir jusqu'à pouvoir se retéléporter à l'extérieur. {% xfact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
 - Si une personne se rend seule avec l'astrolabe dans le tombeau du mage et est tuée, le seul moyen de rétablir la situation est de la **zombifier** (grâce au {% symbol "Thanatologue" for "book_of_the_dead" %}) pour qu'elle ramène les artefacts et l'astrolabe.
 
-- Dans le tombeau se trouve entre autres, sur la dépouille du mage, la {% symbol "Bague Amplificans" for "ring_amplificans_name" %}. {% hint 'ring_amplificans' is needed %}
+- Dans le tombeau se trouve entre autres, sur la dépouille du mage, la {% symbol "Bague Amplificans" for "ring_amplificans_name" %}. {% xitem 'ring_amplificans' is needed %}
 
 - Avec la bague magique et la formule du désenvoûtement, les explorateurs ont réussi leur mission, car ils ont quelques invocateurs dans leur armée ; à condition qu’ils puissent quitter les lieux, bien sûr.
 
@@ -1017,26 +1017,26 @@ L’arkonte, lui, sait qu’il s’est battu sauvagement avec un agresseur entou
 
 Les soupçons se portent donc ensuite sur les avatars, qui pouvaient aller et venir entre les mondes pendant que le rituel se déroulait, via différents exemplaires de leurs romans.
 
-Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais **sans le crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% hint "arkon_bones_having_traces_of_burning" is needed %}
+Les restes d’Octave et de l’Archiviste sont introuvables, il semble qu’ils aient été réduits en cendres. Seuls restent les ossements (mais **sans le crâne**) de l’arkonte, qui sont en effet devenus indestructibles. **L’analyse médicale de ces ossements** révèle des signes de brûlure. {% xitem "arkon_bones_having_traces_of_burning" is needed %}
 
 Dans la niche de la Bête, parmi les restes du voleur, se trouve le **{% symbol "glaive" for "arkon_weapon_name" %} ULTRA-LOURD** de l'arkonte. Cette arme est analysable : elle possède des traces de sang bleu à sa surface. Or, un des romans concernant le druide mentionne qu'il a le sang bleu.
-{% hint "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
-{% fact "arkon_heavy_gladius_sword_has_blue_blood_traces" %}
-{% fact "druid_novels_mention_his_blue_blood" %}
+{% xitem "arkon_heavy_gladius_sword_stolen_by_thief" is needed %}
+{% xfact "arkon_heavy_gladius_sword_has_blue_blood_traces" %}
+{% xfact "druid_novels_mention_his_blue_blood" %}
 
 Plusieurs **oracles** sont aussi délivrés pour aiguiller les joueurs.
 
 - L’un montre une main boisée et griffue menaçant le monde, ainsi qu'un crâne sous des racines d’arbres, permettant de découvrir le crâne de l'arkonte dans la "mini jungle d’intérieur" du druide.
-  {% hint "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% hint "arkon_skull_hidden_in_jungle_trees" is needed %}
-  **L’analyse médicale du crâne** montre un empoisonnement au curare, ce qui fait naturellement suspecter le druide.  {% hint "arkon_skull_analysis_showing_curare_poisoning" is needed %}
-- Un autre oracle montre un livre portant le chiffre 3, coincé entre des évocations de "Zoologie" et de "Gastronomie". Le Tome 3 du roman du Druide est caché entre ces deux rayonnages de livres, indiqués par des étiquettes sur les meubles. {% hint "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% hint "authorized_zone_labels_showing_zoology_and_cooking_shelves" is needed %}
-  La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% hint "chaos_novel_volume_three_between_zoology_and_cooking_shelves" is needed %}
+  {% xitem "parcival_oracle_vision_about_skull_location_and_world_threat" is needed %} {% xitem "arkon_skull_hidden_in_jungle_trees" is needed %}
+  **L’analyse médicale du crâne** montre un empoisonnement au curare, ce qui fait naturellement suspecter le druide.  {% xitem "arkon_skull_analysis_showing_curare_poisoning" is needed %}
+- Un autre oracle montre un livre portant le chiffre 3, coincé entre des évocations de "Zoologie" et de "Gastronomie". Le Tome 3 du roman du Druide est caché entre ces deux rayonnages de livres, indiqués par des étiquettes sur les meubles. {% xitem "parcival_oracle_vision_about_location_of_chaos_novel_volume_three" is needed %} {% xitem "authorized_zone_labels_showing_zoology_and_cooking_shelves" is needed %}
+  La lecture d’un **extrait du Tome 3** montre que le druide est en réalité devenu un tyran cruel et déloyal à la fin de sa propre aventure. {% xitem "chaos_novel_volume_three_between_zoology_and_cooking_shelves" is needed %}
 
 Le druide nie initialement toutes les accusations, en traitant ses accusateurs de fous.
 {# LATER **IDEE ANNEXE : le traitre assassine pendant le jeu un des avatars, qui s’opposait trop fort à l’idée de supprimer la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} sans avoir résolu l’enquête de la mort des humains.** #}
 
 Mais lorsque les différents indices probants sont exposés aux autres avatars, ceux-ci se rangent derrière les joueurs.
-Typiquement, la duchesse va alors aller confronter le druide, sur une musique intense. {% fact "duchess_immediately_confronts_traitor_when_exposed" %}
+Typiquement, la duchesse va alors aller confronter le druide, sur une musique intense. {% xfact "duchess_immediately_confronts_traitor_when_exposed" %}
 
 Celui-ci change alors de posture, assume son crime au nom du Salut de Pangéa, et rappelle qu'il est bien plus puissant que tous les participants rassemblés. Il exige donc de tous de l'aider à briser la malédiction de la bibliothèque, en échange de la vie sauve dans son futur Havre de Nature.
 
@@ -1044,7 +1044,7 @@ Il exhorte les joueurs à se dépêcher : lui a tout son temps, et maintenant qu
 
 Le druide prévient qu'il ne s'éloignera plus du pentacle du rituel de l'arkonte, afin que personne ne tente de le renvoyer de force dans son monde ; et qu'il sentirait si un autre pentacle similaire était créé dans les environs.
 
-Typiquement, il se met alors à **lire des grimoires** (dont le {% symbol "Thanatologue" for "book_of_the_dead" %}), l'air enthousiaste, non loin du pentacle. Il est réellement sur la piste d'un **contre-sortilège** pour annuler la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}. {% fact "druid_reads_near_pentacle_before_game_ending" %}
+Typiquement, il se met alors à **lire des grimoires** (dont le {% symbol "Thanatologue" for "book_of_the_dead" %}), l'air enthousiaste, non loin du pentacle. Il est réellement sur la piste d'un **contre-sortilège** pour annuler la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}. {% xfact "druid_reads_near_pentacle_before_game_ending" %}
 
 Le traître est insensible aux attaques usuelles.
 Si les joueurs l'agressent directement, il en tue un (qui devient un fantôme), puis ordonne aux autres de continuer à chercher comment lever la malédiction.
@@ -1054,35 +1054,35 @@ Mais il existe certaines façons de l'atteindre :
 {# NOPE for now - Soit confectionner et lui faire boire une **potion magique d’autocombustion**, qui va retourner sa puissance magique contre lui ; cette potion doit impérativement lui être apportée suffisamment tôt, et par l’automate, pour qu’il ne soit pas soupçonneux. #}
 {# NOPE for now - Soit reconstituer un pentacle de renvoi ailleurs TOO HARD, et utiliser le Tome 3 dessus pour expulser le Druide du monde des humains (mais attention il ne faut pas qu’il voie cela, il faut donc le détourner s’il vient voir ce que font les joueurs).  #}
 
-- Soit ensorceler une fléchette d'arbalète pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanatologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de **trois joueurs** pour créer une "arme qui ne pardonne pas". {% hint "unavoidable_bullet_spell_from_thanatologue" is needed %}
-  L'alchimiste peut recréer des fléchettes grâce à une recette trouvée dans le domaine interdit. {% fact "parcival_alchemist_can_create_iridium_arrows" %} {% hint "arrow_recipe_for_alchemist" is needed %}
+- Soit ensorceler une fléchette d'arbalète pour qu’elle devienne **inévitablement létale** ; c’est un sortilège sombre du Thanatologue, le {% symbol "Sacrifice de Zarathoustra" for "unavoidable_bullet_spell_name" %}, qui exige la mort volontaire de **trois joueurs** pour créer une "arme qui ne pardonne pas". {% xitem "unavoidable_bullet_spell_from_thanatologue" is needed %}
+  L'alchimiste peut recréer des fléchettes grâce à une recette trouvée dans le domaine interdit. {% xfact "parcival_alchemist_can_create_iridium_arrows" %} {% xitem "arrow_recipe_for_alchemist" is needed %}
 
-- Soit la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer détruire massivement les corridors d'outre-monde grâce à l'un de ses **rituels**, et murer ainsi les avatars dans leurs mondes respectifs. {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
+- Soit la façon la plus efficace : rendre un ritualiste invulnérable aux attaques physiques, toxiques, et magiques, puis l'envoyer détruire massivement les corridors d'outre-monde grâce à l'un de ses **rituels**, et murer ainsi les avatars dans leurs mondes respectifs. {% xfact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
 Une prophétie holographique détaillant ce procédé de "diacre invulnérable" et ses limites peut être déclenchée en activant, par une Lotion de Révélation, un des portraits horrifiques suspendus au mur ; portrait reconnaissable, car il réagit au détecteur de métaux (le joueur possédant cet outil a des informations là-dessus).
-{% hint "scary_lenticular_painting_with_metal_in_it" is needed %}
-{% hint "prophecy_hologram_for_scary_lenticular_painting" is needed %}
-{% fact "spy_sounder_knows_about_scary_lenticular_paintings" %}
-{% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
-{% hint "potion_of_revelation_from_exorcist" is needed %}
+{% xitem "scary_lenticular_painting_with_metal_in_it" is needed %}
+{% xitem "prophecy_hologram_for_scary_lenticular_painting" is needed %}
+{% xfact "spy_sounder_knows_about_scary_lenticular_paintings" %}
+{% xfact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
+{% xitem "potion_of_revelation_from_exorcist" is needed %}
 
-- Si cette prophétie holographique n'est pas trouvée, une **intuition** de l'Oracle peut évoquer aussi ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% fact "parcival_oracle_has_fallback_intuition_about_last_battle" %}
+- Si cette prophétie holographique n'est pas trouvée, une **intuition** de l'Oracle peut évoquer aussi ce plan de bataille, et met en garde contre une riposte du méchant à l'aide des fantômes. {% xfact "parcival_oracle_has_fallback_intuition_about_last_battle" %}
 
 Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'expulsion :
 
-- Les joueurs doivent rassembler **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}**, qui sont stockés à différents endroits de la bibliothèque. {% hint "etheric_stone_skin_necklace" is needed %} {% hint "etheric_vital_force_necklace" is needed %} {% hint "etheric_manaic_aura_necklace" is needed %}
+- Les joueurs doivent rassembler **le {% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}, le {% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}, et le {% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}**, qui sont stockés à différents endroits de la bibliothèque. {% xitem "etheric_stone_skin_necklace" is needed %} {% xitem "etheric_vital_force_necklace" is needed %} {% xitem "etheric_manaic_aura_necklace" is needed %}
 
-- Par sécurité, les autres avatars doivent être poussés par l'exorciste à chacun retourner dans son monde, sans quoi ils seraient mis en grave danger par le rituel. {% fact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
+- Par sécurité, les autres avatars doivent être poussés par l'exorciste à chacun retourner dans son monde, sans quoi ils seraient mis en grave danger par le rituel. {% xfact "diakon_exorcist_might_kill_remaining_avatars_with_expulsion_ritual" %}
 
 - Lorsque l'exorciste commence son rituel, le druide est d'abord confus, puis, comprenant ce qui se passe, il l'attaque par différents moyens, mais en vain.
 
-- En désespoir de cause, le druide va utiliser la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte (qui contient le {% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}), et se protéger ainsi des spectres. {% fact "druid_finally_uses_table_bell_as_weapon" %}{% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} À charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...), sans se faire eux-mêmes attaquer par le druide.
+- En désespoir de cause, le druide va utiliser la {% symbol "Clochette Spectrale" for "table_bell_name" %} pour rameuter les spectres et ainsi mettre en danger le ritualiste ; celui-ci n'a pas la carrure pour endosser l'{% symbol "Armure de Mithril" for "arkon_armor_name" %} de l'arkonte (qui contient le {% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}), et se protéger ainsi des spectres. {% xfact "druid_finally_uses_table_bell_as_weapon" %}{% xfact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %} À charge pour les autres joueurs de repousser les spectres (avec ladite armure de l'arkonte, avec des exorcismes...), sans se faire eux-mêmes attaquer par le druide.
 
 - Une fois le rituel à son terme, le druide est comme blessé ; l'arkonte intervient alors pour clamer victoire, et appelle tous les diacres autour de lui pour quelques dernières répétitions de l'incantation rituelle. Il peut s'en désolidariser à la fin pour clamer : **"Per Horus et per Ra, per solem invictus, duceres {% symbol "Diviciacos" for "druid_name" %}, ACTA EST FABULA"**, en désignant avec autorité le centre du pentacle à son adversaire. Le druide est alors attiré par le pentacle et y meurt (https://fr.wikipedia.org/wiki/Per_Horus_et_per_Ra_et_per_Sol_Invictus_duceres).
 
 - Si le diacre abandonne le rituel pour une raison ou une autre, le druide peut "faire un exemple" en tuant un des joueurs, puis réitère ses ordres envers les survivants.
 
-Que le traître soit anéanti d'une manière ou d'une autre (balle maudite ou rituel d'expulsion), la malédiction prend fin, et l’épilogue peut se dérouler. {% fact "traitor_death_ends_cursed_enclosure" %}
+Que le traître soit anéanti d'une manière ou d'une autre (balle maudite ou rituel d'expulsion), la malédiction prend fin, et l’épilogue peut se dérouler. {% xfact "traitor_death_ends_cursed_enclosure" %}
 
 Mais si un joueur suit les ordres du druide et lève la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, ou si tous tardent trop à agir et le druide brise finalement lui-même cette malédiction (grâce à une formule prétendument trouvée dans un grimoire), alors le druide s'échappe immédiatement de la bibliothèque.
 
@@ -1097,9 +1097,9 @@ Finir le rituel d'expulsion des avatars (diacres)
 
 Les avatars refusent initialement que quiconque continue le rituel, commencé par l’arkonte et interrompu par la trahison du méchant, en vue de les renvoyer chez eux. En effet, ils ne veulent pas partir tant que les fantômes n’auront pas reçu justice et été libérés. À cela s’ajoute initialement la crainte que le rituel ait, en lui-même, causé ces drames.
 
-Le pentacle et les objets du rituel sont toujours en place, le traître n’ayant pas osé toucher à cette magie sacrée qu’il ne connait pas, et ne pouvant de plus, par nature, transporter des romans. {% fact "avatars_cannot_carry_novels" %}
+Le pentacle et les objets du rituel sont toujours en place, le traître n’ayant pas osé toucher à cette magie sacrée qu’il ne connait pas, et ne pouvant de plus, par nature, transporter des romans. {% xfact "avatars_cannot_carry_novels" %}
 
-C'est uniquement une fois le plan de bataille finale bien établi, ou le méchant déjà supprimé par un quelconque moyen, que les avatars acceptent de retourner chez eux et de laisser le rituel de l'exorciste les renvoyer définitivement dans leurs mondes.  {% fact "diakon_exorcist_knows_how_to_expel_avatars" %}
+C'est uniquement une fois le plan de bataille finale bien établi, ou le méchant déjà supprimé par un quelconque moyen, que les avatars acceptent de retourner chez eux et de laisser le rituel de l'exorciste les renvoyer définitivement dans leurs mondes.  {% xfact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
 Si un joueur tente de renvoyer par la force les avatars "gentils", cela causera certainement un certain chaos tant parmi les figurants que les joueurs.
 
@@ -1107,9 +1107,9 @@ Si un joueur tente de renvoyer par la force les avatars "gentils", cela causera 
 Supprimer précocement la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} de la bibliothèque (piège)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-La clôture de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **{% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %}** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit. {% fact "diakon_invoker_can_break_cursed_enclosure" %} Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et c'est un échec pour tous, comme décrit ci-dessus.
+La clôture de la bibliothèque peut être supprimée prématurément par un rituel connu des diacres, qui requiert la coopération d’au moins les **{% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %}** présents, ainsi que des **ingrédients** facilement accessibles dans l’atelier d’alchimiste du domaine interdit. {% xfact "diakon_invoker_can_break_cursed_enclosure" %} Mais si cette malédiction est détruite ainsi, le traître s’échappe de la bibliothèque, et c'est un échec pour tous, comme décrit ci-dessus.
 
-Dans l’issue optimale du jeu, la malédiction de la bibliothèque est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être. {% fact "traitor_death_ends_cursed_enclosure" %}
+Dans l’issue optimale du jeu, la malédiction de la bibliothèque est automatiquement levée à la mort du traître, et cette quête n’a plus lieu d’être. {% xfact "traitor_death_ends_cursed_enclosure" %}
 
 {# NOPE TOO MANY MISSIONS ALREADY
 
@@ -1137,14 +1137,14 @@ Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine 
 - un cristal marin (un coquillage dans une pyramide à base triangulaire)
 - un cristal piquant (un chardon dans un cube)
 - un cristal innocent (des fleurs blanches dans un diamant)
-{% hint 'spiritual_orb_key_square_base_pyramid' is needed %}
-{% hint 'spiritual_orb_key_triangle_base_pyramid' is needed %}
-{% hint 'spiritual_orb_key_cube_is_needed' is needed %}
-{% hint 'spiritual_orb_key_diamond_is_needed' is needed %}
+{% xitem 'spiritual_orb_key_square_base_pyramid' is needed %}
+{% xitem 'spiritual_orb_key_triangle_base_pyramid' is needed %}
+{% xitem 'spiritual_orb_key_cube_is_needed' is needed %}
+{% xitem 'spiritual_orb_key_diamond_is_needed' is needed %}
 
-Il est indiqué, par un blason (à triade de flammes) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% fact "anthropologist_knows_about_fire_triad_emblem" %} {% hint 'abyssal_vortex_hint_in_thanatologue' is needed %}
+Il est indiqué, par un blason (à triade de flammes) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% xfact "anthropologist_knows_about_fire_triad_emblem" %} {% xitem 'abyssal_vortex_hint_in_thanatologue' is needed %}
 
-Les avatars ou fantômes Maupertuis ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. {% fact "arkon_does_not_know_about_spiritual_orb_magic" %}
+Les avatars ou fantômes Maupertuis ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. {% xfact "arkon_does_not_know_about_spiritual_orb_magic" %}
 
 Il s'agit en réalité d'un canal de communication vers une dimension démoniaque. Une fois ce canal ouvert (donc une fois la boule à plasma allumée), les joueurs qui posent le doigt dessus sont contaminés par des influences néfastes trop puissantes pour eux. En fonction de leur personnage, ils vont avoir des gages montrant que leur santé mentale a été blessée ; avec toujours beaucoup d'agitation et de paroles incohérentes.
 
@@ -1153,7 +1153,7 @@ Exemples de gages :
 - l'alchimiste boit une de ses potions (non létale)
 - d'autres se mettent à utiliser en vain leur détecteur de métaux, leur lampe UV, sans but...
 
-Cet orbe peut aussi ouvrir des passages vers d'autres strates de la réalité. En particulier, le voleur connait la formule permettant d'ouvrir un passage vers la **{% symbol "Source de Savoir" for "link_to_djinn_world" %}**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout. {% fact "phantom_thief_knows_formula_of_link_to_djinn_world" %}
+Cet orbe peut aussi ouvrir des passages vers d'autres strates de la réalité. En particulier, le voleur connait la formule permettant d'ouvrir un passage vers la **{% symbol "Source de Savoir" for "link_to_djinn_world" %}**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout. {% xfact "phantom_thief_knows_formula_of_link_to_djinn_world" %}
 
 Les joueurs peuvent utiliser ce don comme un moteur de recherche historique, et poser au maître de jeu des questions sur le lore de cette planète, sur les grands aspects de l'histoire des Maupertuis. Les djinns ne savent pas tout, ont des avis divergents, se trompent parfois, mais donnent des informations généralement instructives et utiles.
 
@@ -1250,7 +1250,7 @@ Concrètement, tout parjure sera rapidement sanctionné par un douloureux châti
 
 Si certaines personnes jouent encore les sceptiques à ce sujet, dans les faits il n'est plus une seule personne qui se risquerait à abuser de ce serment ; et hormis en quelques cas graves, on préfère habituellement jurer sur la tête de quelqu'un ou sur son propre honneur, ce qui n'engage pas à grand-chose.
 
-Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux pangéens *vivants* ; les défunts, les divinités et des entités d'outre-monde s'en serviraient donc parfois pour leurrer des humains. {% fact "unbreakable_oath_only_concerns_living_pangeans" %}
+Les mystiques s'accordent sur le fait que ce serment ne s'applique qu'aux pangéens *vivants* ; les défunts, les divinités et des entités d'outre-monde s'en serviraient donc parfois pour leurrer des humains. {% xfact "unbreakable_oath_only_concerns_living_pangeans" %}
 
 
 Divinités et mondes alternatifs
@@ -1296,32 +1296,32 @@ Ce mage a vécu {% symbol "3 siècles" for "mages_war_before_curse_timedelta" %}
 
 Redoutable magicien, alchimiste, et duelliste, il a défait tous ses adversaires. La légende raconte qu'il était invulnérable aux sortilèges magiques, et pouvait faire tomber la pluie ou la grêle sur des villes entières, quand ses adversaires invocateurs ne touchaient jamais plus que quelques ares de terrain à la fois.
 
-Pour éviter tout empoisonnement, il avait appris à générer lui-même de la nourriture à partir de simples roches ; un savoir qui est resté dans sa descendance sous la forme d'une table de banquet magique, située dans la bibliothèque, qui transmute toute seule de la nourriture à partir des roches environnantes. {% fact "buffet_table_magically_generates_food" %}
+Pour éviter tout empoisonnement, il avait appris à générer lui-même de la nourriture à partir de simples roches ; un savoir qui est resté dans sa descendance sous la forme d'une table de banquet magique, située dans la bibliothèque, qui transmute toute seule de la nourriture à partir des roches environnantes. {% xfact "buffet_table_magically_generates_food" %}
 
 Il a créé le château familial des Maupertuis, la bibliothèque enfouie, ainsi que le réseau de portails de transplanage la reliant aux domaines de ses vassaux.
 
 Il est mort brusquement lors de grandes festivités, à l'approche de ses 50 ans, en s'étouffant avec un noyau de pêche. Il n'avait pas encore transmis à ses héritiers ses plus importants secrets.
 
-Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèque, dans sa robe de fêtes, sans oser risquer de déclencher quelque malédiction en le toilettant. En particulier, autant il était très fier de sa lignée, autant le mage était **haineux** envers la "piétaille" non-initiée aux arts magiques, et la légende raconte que sa tombe résonne encore de ce sentiment. {% fact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
+Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèque, dans sa robe de fêtes, sans oser risquer de déclencher quelque malédiction en le toilettant. En particulier, autant il était très fier de sa lignée, autant le mage était **haineux** envers la "piétaille" non-initiée aux arts magiques, et la légende raconte que sa tombe résonne encore de ce sentiment. {% xfact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
-Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul **étranger** ne viole jamais la sépulture de ce vénérable aïeul, ni aucun des dangereux mystères qu'il a emportés dans la tombe. À ce jour, aucune guilde de mages sur la planète ne serait probablement capable de briser autant d'envoutements accumulés. Mais peut-être qu'il est possible d'y entrer par des moyens détournés, qui sait ? {% fact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}
+Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul **étranger** ne viole jamais la sépulture de ce vénérable aïeul, ni aucun des dangereux mystères qu'il a emportés dans la tombe. À ce jour, aucune guilde de mages sur la planète ne serait probablement capable de briser autant d'envoutements accumulés. Mais peut-être qu'il est possible d'y entrer par des moyens détournés, qui sait ? {% xfact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}
 
-*Note : une fois libérés de leur ancrage, les fantômes PEUVENT entrer dans le tombeau en passant par les murs l'entourant, qui ne sont eux pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Ils peuvent donc ramener quelques informations sur le contenu du tombeau.* {% fact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
+*Note : une fois libérés de leur ancrage, les fantômes PEUVENT entrer dans le tombeau en passant par les murs l'entourant, qui ne sont eux pas protégés par un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} ni exclus de la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} entourant la bibliothèque entière. Ils peuvent donc ramener quelques informations sur le contenu du tombeau.* {% xfact "magus_mos_peratys_tomb_can_be_explored_by_free_phantoms" %}
 
 
 Les colliers éthériques
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Les légendes parlent de plusieurs colliers magiques forgés par des alchimistes durant cette {% symbol "Guerre des Trente Sorciers" for "mages_war_name" %}, et disparus peu après.
-Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux. En particulier, sa diction trainante mais tonitruante lors de toutes ses apparitions publiques a déclenché plus d'une suspicion. {% fact "magus_mos_peratys_often_wore_manaic_aura_necklace" %}
+Il est communément admis que le {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} aurait mis la main sur plusieurs d'entre eux. En particulier, sa diction trainante mais tonitruante lors de toutes ses apparitions publiques a déclenché plus d'une suspicion. {% xfact "magus_mos_peratys_often_wore_manaic_aura_necklace" %}
 
 **{% symbol "Collier éthérique de peau de pierre" for "etheric_stone_skin_necklace_name" %}** (formé de perles plates ovales bleutées translucides) : Celui qui porte ce collier autour du cou devient insensible aux armes physiques (contondantes, perçantes ou tranchantes). En contrepartie, il marche et bouge les bras très lentement, tel un golem.
 
 **{% symbol "Collier éthérique de force vitale" for "etheric_vital_force_necklace_name" %}** (formé de perles de bois) : Celui qui garde ce collier autour du cou devient insensible à tout ce qui attaque le corps par l'intérieur : maladies, poisons solides ou liquides, vapeurs toxiques... En contrepartie, il ne peut respirer que par la bouche (bruyamment), et ne peut ni boire ni manger.
 
-**{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}** (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...) et aux envoûtements maléfiques d'objets. En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, de démons...) ne sont pas évités par ce collier. {% fact "etheric_manaic_aura_protects_from_magic_and_cursed_objects_too" %}
+**{% symbol "Collier éthérique d'aura manaïque" for "etheric_manaic_aura_necklace_name" %}** (formé d'un quartz avec collier fin doré) : Celui qui porte ce collier autour du cou devient insensible aux sortilèges élémentaux (de feu, de glace, de foudre...) et aux envoûtements maléfiques d'objets. En contrepartie, il ne peut parler que très fort et très lentement tant qu'il le porte. Les dommages de type "sacré" (blessures de fantômes, de démons...) ne sont pas évités par ce collier. {% xfact "etheric_manaic_aura_protects_from_magic_and_cursed_objects_too" %}
 
-**{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}** (formé d'anneaux de Mithril avant d'être fondu dans l'armure de l'arkonte) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrêmement lourd. {% fact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
+**{% symbol "Collier éthérique de bénédiction" for "etheric_benediction_necklace_name" %}** (formé d'anneaux de Mithril avant d'être fondu dans l'armure de l'arkonte) : Celui qui garde ce collier autour du cou devient impalpable sur le plan spirituel, il ne peut donc plus être blessé par des fantômes, démons, ou malédictions. En contrepartie, cela lui demande une grande force physique car ce collier est extrêmement lourd. {% xfact "etheric_benediction_necklace_is_in_arkon_sacred_armor" %}
 
 
 Le déclin magique
@@ -1340,35 +1340,35 @@ Le domaine interdit et la Bête
 
 Le domaine interdit des Maupertuis, un étage de la bibliothèque rempli de dangereux secrets, a toujours été protégé par des **monstres vivants**, enchantés pour se passer de nourriture et vivre longtemps. Choyées en échange de leurs bons services, ces créatures étaient, de génération en génération, présentées aux nouveaux héritiers Maupertuis, qui devenaient leurs nouveaux maîtres. L'identité de ces créatures était volontairement cachée, par sécurité, si bien que seuls les héritiers Maupertuis savaient à quelle espèce elles appartenaient.
 
-Lors de la malédiction de la bibliothèque, il restait un monstre de garde, surnommé "La Bête", dans le domaine interdit ; il est probable qu'il a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars). Il parait qu'il avait la particularité d'être très myope, **ne voyant pas grand-chose à plus de 3m**. {% fact "characters_know_how_the_beast_works_regarding_3m_sight" %}
+Lors de la malédiction de la bibliothèque, il restait un monstre de garde, surnommé "La Bête", dans le domaine interdit ; il est probable qu'il a connu un funeste destin (les fantômes entendent parfois son cri lugubre, mais pas les avatars). Il parait qu'il avait la particularité d'être très myope, **ne voyant pas grand-chose à plus de 3m**. {% xfact "characters_know_how_the_beast_works_regarding_3m_sight" %}
 
-L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de la Bête errer de leur côté de la bibliothèque). {% fact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %} {% fact "phantoms_cannot_cross_some_fence_enchantments" %}
+L'entrée du domaine interdit est, depuis la fondation de la bibliothèque, protégée par un **{% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %}**. Cet envoutement légendaire résiste spectaculairement aux **attaques physiques, magiques, et peut même bloquer les fantômes** ; ce dernier point est habituellement anecdotique, car les esprits peuvent habituellement contourner ce blocus et passer à travers les murs (cependant, les fantômes n'ont pas vu de spectre de la Bête errer de leur côté de la bibliothèque). {% xfact "beast_cannot_access_normal_zone_because_of_ultimate_seal" %} {% xfact "phantoms_cannot_cross_some_fence_enchantments" %}
 
-Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le **symbole secret des Maupertuis**, transmis de génération en génération ; l'accès est alors débloqué **pour 12 heures**. {% fact "secret_family_symbol_needed_for_forbidden_zone" %} {% fact "npcs_know_about_secret_family_symbol_system" %}
+Pour ouvrir temporairement l'accès au domaine interdit, il faut reconstituer sur un grimoire magique le **symbole secret des Maupertuis**, transmis de génération en génération ; l'accès est alors débloqué **pour 12 heures**. {% xfact "secret_family_symbol_needed_for_forbidden_zone" %} {% xfact "npcs_know_about_secret_family_symbol_system" %}
 
-En définitive, parmi les protagonistes du drame, **seul Octave était déjà entré** (accompagné de ses parents) dans ce domaine interdit. {% fact "only_octave_had_been_in_forbidden_domain" %}
+En définitive, parmi les protagonistes du drame, **seul Octave était déjà entré** (accompagné de ses parents) dans ce domaine interdit. {% xfact "only_octave_had_been_in_forbidden_domain" %}
 
 
 La dernière maisonnée des Maupertuis
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Les parents Maupertuis étaient très différents et complémentaires ; par exemple autant {% symbol "Isadora" for "maupertuis_mother" %} avait une excellente **mémoire** et ne notait jamais rien, autant {% symbol "Quirinius" for "maupertuis_father" %}, lui, oubliait rapidement tout, et devait noter jusqu'à ses secrets les plus sensibles dans des carnets, qu'il laissait bien cachés dans la bibliothèque. {% fact "maupertuis_mother_had_excellent_memory_but_not_father" %}
+Les parents Maupertuis étaient très différents et complémentaires ; par exemple autant {% symbol "Isadora" for "maupertuis_mother" %} avait une excellente **mémoire** et ne notait jamais rien, autant {% symbol "Quirinius" for "maupertuis_father" %}, lui, oubliait rapidement tout, et devait noter jusqu'à ses secrets les plus sensibles dans des carnets, qu'il laissait bien cachés dans la bibliothèque. {% xfact "maupertuis_mother_had_excellent_memory_but_not_father" %}
 
 Au moment de l'attaque du manoir, Mérédice de Maupertuis avait déjà beaucoup progressé dans les arts magiques, et en particulier - comme ses prédécesseurs - dans les potions et gemmes de guérison. Elle travaillait régulièrement dans les **cabinets d'alchimie et de gemmologie du domaine interdit**. Elle laissait d'ailleurs la plupart de ses affaires dans la bibliothèque, de peur de les perdre lors de ses excursions d'herboristerie dans les environs, ou en cas de cambriolage du manoir.
 
-Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il était distrait par ses lectures romanesques et fantastiques. Il n'était donc jamais allé seul dans l'étage interdit (la Bête l'aurait d'ailleurs attaqué dans ce cas). {% fact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
+Octave, lui, avait à peine commencé ses apprentissages, d'autant plus qu'il était distrait par ses lectures romanesques et fantastiques. Il n'était donc jamais allé seul dans l'étage interdit (la Bête l'aurait d'ailleurs attaqué dans ce cas). {% xfact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
 
-Il devait tout bientôt passer son **initiation appelée "adoubement"**, une cérémonie ne fonctionnant que pour les héritiers de la lignée Maupertuis : {% fact "only_maupertuis_heirs_can_take_initiation" %} {% fact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
+Il devait tout bientôt passer son **initiation appelée "adoubement"**, une cérémonie ne fonctionnant que pour les héritiers de la lignée Maupertuis : {% xfact "only_maupertuis_heirs_can_take_initiation" %} {% xfact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
 
-{% hint "maupertuis_initiation_instructions_for_octave" is needed %}
+{% xitem "maupertuis_initiation_instructions_for_octave" is needed %}
 - Réussir à activer le **Sceau d'initiation** présent sur place
-- Tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petite boite, parmi un ensemble, contenait sa **broche personnelle**, et obtenir ainsi cet artefact dynastique {% fact "octave_needed_to_pass_initiation_to_gain_his_jewel" %}
+- Tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petite boite, parmi un ensemble, contenait sa **broche personnelle**, et obtenir ainsi cet artefact dynastique {% xfact "octave_needed_to_pass_initiation_to_gain_his_jewel" %}
 - En cas de réussite, **recevoir le symbole secret** de la famille Maupertuis ; être présenté à la Bête du domaine interdit, et recevoir d'elle un serment d'allégeance
 - En cas d'échec, réessayer cette cérémonie dans X mois.
 
-Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvée sur place. {% fact "octave_carried_mother_jewel_after_her_death" %} {% hint 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
+Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvée sur place. {% xfact "octave_carried_mother_jewel_after_her_death" %} {% xitem 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
 
-Dans leur enfance, Octave et sa soeur jouaient à se créer des jeux de piste - et autres énigmes - l'un pour l'autre. Mérédice en avait créé un spécialement espiègle pour célébrer le futur adoubement d'Octave, en lui subtilisant sa tirelire remplie d'économies. Et elle avait placé la dernière énigme menant à ce petit trésor dans la **{% symbol "Boîte à Murmures" for "whispering_box" %} présente au fond d'un coffre de bois** {% hint "whispering_box_with_children_enigma_in_common_brown_chest" is needed %} ; les membres de la famille utilisaient cette boite magique pour se laisser des messages, qu'ils écoutaient en posant le doigt dessus. {# Les joueurs doivent utiliser un stéthoscope pour lire ces messages #} Octave n'a jamais pu retrouver sa tirelire, probablement parce qu'elle était cachée dans le domaine interdit. {% fact "octave_moneybox_hidden_by_meredice_is_lost" %}
+Dans leur enfance, Octave et sa soeur jouaient à se créer des jeux de piste - et autres énigmes - l'un pour l'autre. Mérédice en avait créé un spécialement espiègle pour célébrer le futur adoubement d'Octave, en lui subtilisant sa tirelire remplie d'économies. Et elle avait placé la dernière énigme menant à ce petit trésor dans la **{% symbol "Boîte à Murmures" for "whispering_box" %} présente au fond d'un coffre de bois** {% xitem "whispering_box_with_children_enigma_in_common_brown_chest" is needed %} ; les membres de la famille utilisaient cette boite magique pour se laisser des messages, qu'ils écoutaient en posant le doigt dessus. {# Les joueurs doivent utiliser un stéthoscope pour lire ces messages #} Octave n'a jamais pu retrouver sa tirelire, probablement parce qu'elle était cachée dans le domaine interdit. {% xfact "octave_moneybox_hidden_by_meredice_is_lost" %}
 
 
 La {% symbol "Clochette Spectrale" for "table_bell_name" %} et la {% symbol "frénésie spectrale" for "phantom_frenzy_name" %}
@@ -1377,11 +1377,11 @@ La {% symbol "Clochette Spectrale" for "table_bell_name" %} et la {% symbol "fr�
 Si l'on vous parle d'une **clochette de table** (petite, ronde et métallique), vous ne savez rien à son sujet ; vous savez juste qu'elle n'était **pas visible** dans la bibliothèque de votre vivant (même pour le voleur), donc quelqu'un a dû l'apporter ou la sortir d'une cachette.
 Les automates ignorent, étrangement, le son de cette sonnette.
 
-Si quelqu'un appuie sur la clochette pour la première fois, le MJ doit déclencher la bande-son angoissante de la **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**. Les fantômes se mettent alors sous forme non-incarnée, et se ruent vers le son de clochette. Une fois près d'elle, ils errent de gauche et de droite, non loin, éperdus, jusqu'à la fin de la bande-son, puis reviennent à ce qu'ils faisaient avant. {% fact "table_bell_triggers_spectral_frenzy" %}
+Si quelqu'un appuie sur la clochette pour la première fois, le MJ doit déclencher la bande-son angoissante de la **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**. Les fantômes se mettent alors sous forme non-incarnée, et se ruent vers le son de clochette. Une fois près d'elle, ils errent de gauche et de droite, non loin, éperdus, jusqu'à la fin de la bande-son, puis reviennent à ce qu'ils faisaient avant. {% xfact "table_bell_triggers_spectral_frenzy" %}
 
-Par la suite, la clochette est censée être **temporairement déchargée** de sa magie, les avatars et fantômes peuvent le sentir et le disent aux joueurs s'ils appuient encore sur la clochette. *Mettre un scotch noir dessus pour matérialiser cela.* {% fact "table_bell_is_only_usable_once" %}
+Par la suite, la clochette est censée être **temporairement déchargée** de sa magie, les avatars et fantômes peuvent le sentir et le disent aux joueurs s'ils appuient encore sur la clochette. *Mettre un scotch noir dessus pour matérialiser cela.* {% xfact "table_bell_is_only_usable_once" %}
 
-*Mini-spoiler : Il s'agit en réalité juste d'un signal de rappel oublié par l'Ankou lors d'un précédent passage, mais seul l'Ankou le sait.* {% fact "table_bell_belongs_to_ankou" %}
+*Mini-spoiler : Il s'agit en réalité juste d'un signal de rappel oublié par l'Ankou lors d'un précédent passage, mais seul l'Ankou le sait.* {% xfact "table_bell_belongs_to_ankou" %}
 
 {% endmacro %}
 <{ common_npc_lore_knowledge}/>
@@ -1400,11 +1400,11 @@ Des deux formes fantomatiques
 
 Il est possible de communiquer avec un fantôme lorsque celui-ci est dans une phase "incarnée". Il s'agit bien sûr d'un abus de langage, car le défunt reste incapable d'interagir normalement avec le monde de chair et de matière ; il n'en est pas moins capable de dialoguer, de raisonner, et de se souvenir de sa vie passée, même si la conscience qu'il a de sa situation peut être très variable. Ces moments privilégiés sont le meilleur moyen pour un exorciste de comprendre ce qui retient un fantôme sur terre, afin de prendre des mesures correctives. Ces phases d'incarnation sont plus fréquentes et longues lorsque des vivants sont dans les parages.
 
-Le reste du temps, les fantômes errent comme des "spectres" sans but, privés de la plupart de leur intelligence, et uniquement attirés par les vivants lorsqu'ils les croisent de près. Le degré d'agitation de ces fantômes éthérés, désincarnés, dépend alors en partie du poids de leurs péchés terrestres. {% fact "phantoms_of_sinners_have_faster_specters" %} Mais tous peuvent entrer dans une intense "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}", lorsqu'ils sont touchés par les ondes de quelque rituel magique ou sacré, ou bien à certains moments significatifs de la journée ; leurs déplacements sont alors plus rapides, et ils semblent rechercher à tout prix le contact des vivants ou bien d'un artefact spécifique.
+Le reste du temps, les fantômes errent comme des "spectres" sans but, privés de la plupart de leur intelligence, et uniquement attirés par les vivants lorsqu'ils les croisent de près. Le degré d'agitation de ces fantômes éthérés, désincarnés, dépend alors en partie du poids de leurs péchés terrestres. {% xfact "phantoms_of_sinners_have_faster_specters" %} Mais tous peuvent entrer dans une intense "{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}", lorsqu'ils sont touchés par les ondes de quelque rituel magique ou sacré, ou bien à certains moments significatifs de la journée ; leurs déplacements sont alors plus rapides, et ils semblent rechercher à tout prix le contact des vivants ou bien d'un artefact spécifique.
 
-Fait intéressant, les fantômes gardent une grande partie de leurs instincts animaux, de leurs goûts et dégouts, même lorsqu'ils sont en errance spectrale. {% fact "phantoms_always_keep_most_of_their_instinct" %}
+Fait intéressant, les fantômes gardent une grande partie de leurs instincts animaux, de leurs goûts et dégouts, même lorsqu'ils sont en errance spectrale. {% xfact "phantoms_always_keep_most_of_their_instinct" %}
 
-Il est établi que les fantômes peuvent le plus souvent passer à travers les murs et les objets ; cependant, n'étant pas entièrement dématérialisés, cela leur demande des efforts supplémentaires, aggravés lorsque les lieux ont été protégés par des envoûtements magiques ou des bénédictions sacrées. Dans les faits, les fantômes suivent donc souvent les mêmes parcours que les humains. Noter que certains enchantements puissants peuvent ériger des murs dans le monde des vivants ET des morts, empêchant donc aussi le passage des fantômes incarnés comme ceux désincarnés. {% fact "phantoms_cannot_cross_some_fence_enchantments" %}
+Il est établi que les fantômes peuvent le plus souvent passer à travers les murs et les objets ; cependant, n'étant pas entièrement dématérialisés, cela leur demande des efforts supplémentaires, aggravés lorsque les lieux ont été protégés par des envoûtements magiques ou des bénédictions sacrées. Dans les faits, les fantômes suivent donc souvent les mêmes parcours que les humains. Noter que certains enchantements puissants peuvent ériger des murs dans le monde des vivants ET des morts, empêchant donc aussi le passage des fantômes incarnés comme ceux désincarnés. {% xfact "phantoms_cannot_cross_some_fence_enchantments" %}
 
 
 De la dangerosité des revenants errants
@@ -1412,7 +1412,7 @@ De la dangerosité des revenants errants
 
 La littérature ésotérique ne cesse de mettre en garde contre la dangerosité des fantômes lorsqu'ils sont en phase "spectrale".
 
-Toucher un de ces êtres errants, écartelé psychiquement entre le monde des vivants et celui des morts, inflige en effet de graves blessures au corps et à l'esprit ; des atteintes qui peuvent facilement mener à la mort. {% fact "phantom_touch_harms_the_living_only_when_disincarnated" %}
+Toucher un de ces êtres errants, écartelé psychiquement entre le monde des vivants et celui des morts, inflige en effet de graves blessures au corps et à l'esprit ; des atteintes qui peuvent facilement mener à la mort. {% xfact "phantom_touch_harms_the_living_only_when_disincarnated" %}
 
 Il est donc indispensable de ne pas toucher (ou se laisser toucher par) un fantôme "désincarné", sauf si l'on porte des protections dûment bénites.
 
@@ -1424,11 +1424,11 @@ Des chaines spirituelles
 
 Les fantômes, d'une manière générale, s'éloignent peu de leur lieu de vie passé.
 
-Mais les personnes mortes violemment peuvent se retrouver comme ancrées, emprisonnées près du lieu de leur chute, dans l'aura d'une étrange lumière sacrée. Elles ne peuvent s'incarner que près de cette lueur, bien que sous forme spectrale elles gardent une plus grande liberté - si l'on peut appeler cela ainsi. {% fact "beings_dead_violently_are_anchored" %}
+Mais les personnes mortes violemment peuvent se retrouver comme ancrées, emprisonnées près du lieu de leur chute, dans l'aura d'une étrange lumière sacrée. Elles ne peuvent s'incarner que près de cette lueur, bien que sous forme spectrale elles gardent une plus grande liberté - si l'on peut appeler cela ainsi. {% xfact "beings_dead_violently_are_anchored" %}
 
-Les personnes - ou même les bêtes - mortes naturellement, ne semblent pas avoir ce type de lien très localisé, et ce sont davantage des tâches inachevées ou des malédictions qui peuvent les retenir dans le monde des vivants. {% fact "beings_dead_naturally_are_not_anchored" %}
+Les personnes - ou même les bêtes - mortes naturellement, ne semblent pas avoir ce type de lien très localisé, et ce sont davantage des tâches inachevées ou des malédictions qui peuvent les retenir dans le monde des vivants. {% xfact "beings_dead_naturally_are_not_anchored" %}
 
-Notons qu'un fantôme ancré restera plus souvent sous forme spectrale, errante, qu'un fantôme libre de ses mouvements. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+Notons qu'un fantôme ancré restera plus souvent sous forme spectrale, errante, qu'un fantôme libre de ses mouvements. {% xfact "anchored_phantoms_turn_more_often_into_specters" %}
 
 
 Des rituels de libération
@@ -1442,7 +1442,7 @@ De nombreux voyants du monde spirituel évoquent le rôle d'un "psychopompe", d'
 Des périls des restes corporels
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun ; car elle inflige des blessures sacrées, s'il touche directement le crâne ou les ossements du défunt. {% fact "cursed_skull_and_bones_give_sacred_injuries" %}
+Les personnes ayant de lourds péchés sur la conscience, en plus d'être plus promptes que les autres à devenir des fantômes, peuvent laisser des traces de ce passé dans leur dépouille mortelle. Une telle malédiction, qui se matérialise par des lueurs ou sonorités anormales, peut être très dangereuse pour un fossoyeur ou pilleur de tombe inopportun ; car elle inflige des blessures sacrées, s'il touche directement le crâne ou les ossements du défunt. {% xfact "cursed_skull_and_bones_give_sacred_injuries" %}
 
 Notons que ce sortilège peut perdurer jusque bien après le retour du fantôme au royaume des morts, exigeant ainsi l'intervention d'un désenvoûteur en bonne et due forme.
 
@@ -1468,7 +1468,7 @@ Voici par exemple comment s'écoulaient, au meilleur prix, les éléments préci
 - La couleur (fumée ou non) des diamants est sans impact sur leur valeur
 
 Noter que ces valeurs en kashes sont restées globalement constantes dans toute l'Histoire de Pangéa, jusqu'à nos jours.
-{% fact "precious_objects_have_kept_same_kash_value_along_history" %}
+{% xfact "precious_objects_have_kept_same_kash_value_along_history" %}
 
 *NOTE hors-jeu* : Pour ce qui est des bijoux précieux, leur valeur estimée est marquée sur une étiquette blanche.
 

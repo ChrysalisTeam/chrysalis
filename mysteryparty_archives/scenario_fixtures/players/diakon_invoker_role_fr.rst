@@ -17,7 +17,7 @@ Thuriféraire (encenseur)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Vous disposez d'un encensoir argenté, afin de purifier les environs lors de certains rituels qui requièrent ce geste.
-{% hint "incense_burner_for_invoker" is needed %}
+{% xitem "incense_burner_for_invoker" is needed %}
 
 Il vous faut alors tourner en procession, avec des confrères si disponibles (juste pour l'effet théâtral - cela ne change rien à l'encensement), autour de l'objet ou de la zone concernée, en balançant l'encensoir au bout de sa chaine.
 
@@ -33,7 +33,7 @@ Le plus commun et polyvalent des tracés rituels est sans doute le **{% symbol "
 
 La maitrise de tels pentacles est sans doute l'art le plus complexe de votre discipline ; seuls les grands mystiques du monastère savent en créer, et il s'agit d'un processus prenant facilement plusieurs heures. N'importe quelle personne formée aux arts invocatoires peut en revanche activer et utiliser un pentacle existant.
 
-Un pentacle n'est jamais en soi dangereux ; {% symbol "initiés" for "ritualist_kind_name" %} comme non-initiés peuvent marcher dessus sans crainte. Il ne faut en revanche jamais passer dedans durant un rituel, sous peine d'être impliqué à son insu dans ce dernier. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+Un pentacle n'est jamais en soi dangereux ; {% symbol "initiés" for "ritualist_kind_name" %} comme non-initiés peuvent marcher dessus sans crainte. Il ne faut en revanche jamais passer dedans durant un rituel, sous peine d'être impliqué à son insu dans ce dernier. {% xfact "pentacle_is_not_harmful_oustide_rituals" %}
 
 Les **sceaux magiques sont de lointaines variantes des pentacles** ; ils se présentent sous la forme de tracés aux formes variées, mais toujours **entourés d'un cercle**. Il s'agit de supports spécialisés à des fins précises, typiquement pour **contrôler l'accès** à des savoirs dangereux, ou accompagner **l'initiation des membres** d'une dynastie magicienne.
 
@@ -43,7 +43,7 @@ Notez que seule la personne ayant dessiné un pentacle ou un sceau peut facileme
 
 Vous pouvez facilement **réactiver un sceau existant**, seul, en **l'encensant** (un tour suffit) puis en clamant l'invocation **"Ô sceau magique, réveille-toi et écoute ma voix"**. Le sceau devrait s'illuminer peu après, signe qu'il est désormais actif. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
 
-Un **pentacle canonique** peut être activé selon le même processus, mais **attention**, il faut être **au moins 4 initiés** à réaliser le rituel, car cela demande beaucoup d'énergie spirituelle. L'invocation est dans ce cas, évidemment, **"Ô pentacle canonique, réveille-toi et écoute ma voix"**. {% fact "penatacle_activation_requires_4_ritualists" %}
+Un **pentacle canonique** peut être activé selon le même processus, mais **attention**, il faut être **au moins 4 initiés** à réaliser le rituel, car cela demande beaucoup d'énergie spirituelle. L'invocation est dans ce cas, évidemment, **"Ô pentacle canonique, réveille-toi et écoute ma voix"**. {% xfact "penatacle_activation_requires_4_ritualists" %}
 
 Notez que ces tracés se désactivent d'eux-mêmes au bout d'un (très long) temps sans utilisation.
 
@@ -51,7 +51,7 @@ Notez que ces tracés se désactivent d'eux-mêmes au bout d'un (très long) tem
 Stase absolue
 +++++++++++++++++++++++
 
-Cette invocation permet d'immobiliser une entité vivante ou morte, pour deux jours au moins.  {% fact "diakon_invoker_can_freeze_beast_for_days" %}
+Cette invocation permet d'immobiliser une entité vivante ou morte, pour deux jours au moins.  {% xfact "diakon_invoker_can_freeze_beast_for_days" %}
 
 Rituel :
 
@@ -64,7 +64,7 @@ Rituel :
 Message à un défunt
 +++++++++++++++++++++++++++++
 
-Les dieux empêchent habituellement que les vivants perturbent la quiétude des morts, cependant si vous obtenez les faveurs d'une divinité quelconque, et qu'elle vous indique son **adresse mortuaire**, vous pouvez lui envoyer un **message spirituel**. {% fact "diakon_invoker_can_message_ankou" %}
+Les dieux empêchent habituellement que les vivants perturbent la quiétude des morts, cependant si vous obtenez les faveurs d'une divinité quelconque, et qu'elle vous indique son **adresse mortuaire**, vous pouvez lui envoyer un **message spirituel**. {% xfact "diakon_invoker_can_message_ankou" %}
 
 Pour cela, il faut vous mettre en cercle avec 2 autres {% symbol "initiés" for "ritualist_kind_name" %}, mains tendues vers le centre du cercle, et déclamer (seul) cette invocation :
 
@@ -74,7 +74,7 @@ Pour cela, il faut vous mettre en cercle avec 2 autres {% symbol "initiés" for 
 Bénédiction de terrain anti-zombie
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Lassés des sottises des nécromanciens, tous les invocateurs de votre ordre ont appris à purifier une tombe, afin d'éviter que la dépouille qu'elle contient ne soit plus tard transformée en un mort-vivant. Cela ne fonctionne pas si le mort-vivant est déjà incarné, que ce soit à cause d'un maléfice nécromant ou de la vie trop maléfique du défunt. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
+Lassés des sottises des nécromanciens, tous les invocateurs de votre ordre ont appris à purifier une tombe, afin d'éviter que la dépouille qu'elle contient ne soit plus tard transformée en un mort-vivant. Cela ne fonctionne pas si le mort-vivant est déjà incarné, que ce soit à cause d'un maléfice nécromant ou de la vie trop maléfique du défunt. {% xfact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
 
 Pour purifier la tombe, il faut que 2 {% symbol "initiés" for "ritualist_kind_name" %} se placent chacun à une extrémité, mains tendues vers le ciel, et que l'invocateur clame cette formule :
 
@@ -96,7 +96,7 @@ Pointez du doigt la zone à frapper, qui doit se trouver en extérieur, puis ann
 Rupture de {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-{% fact "diakon_invoker_can_break_cursed_enclosure" %}
+{% xfact "diakon_invoker_can_break_cursed_enclosure" %}
 
 Peu de connaissances existent sur ce sortilège de la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, hormis le fait qu'il est hautement dangereux, et formellement interdit d'usage à tout invocateur.
 
@@ -104,7 +104,7 @@ La sagesse ancestrale indique que s'il a été mis en place sur un lieu, il est 
 
 Pour cela, il faut d'abord qu'au moins {% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %} enfermés dans le lieu donnent leur accord verbal pour être libérés.
 
-Puis il faut que l'invocateur - qu'il se trouve dans ou hors la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} - mélange de la "Potion de vieillissement accéléré" et de la "Potion de venin d'un serpent" (quelconque) à parts égales dans un demi-verre, et les avale d'un coup sec. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
+Puis il faut que l'invocateur - qu'il se trouve dans ou hors la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} - mélange de la "Potion de vieillissement accéléré" et de la "Potion de venin d'un serpent" (quelconque) à parts égales dans un demi-verre, et les avale d'un coup sec. {% xitem 'potion_accelerated_aging' is needed %} {% xitem 'potion_snake_venom' is needed %}
 
 Il doit ensuite, dans son dernier souffle, clamer :
 

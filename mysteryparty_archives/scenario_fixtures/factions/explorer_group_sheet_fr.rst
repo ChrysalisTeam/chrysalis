@@ -11,7 +11,7 @@ L'un de vous est spécialisé dans les runes antiques et autres codes secrets ; 
 
 Depuis des décennies, depuis des siècles, votre pays repousse les tentatives de conquête de son voisin, la Théocratie Akarite. Mais les dernières nouvelles sont alarmantes : les Akarites auraient trouvé un exemplaire du **livre yodique des morts, le légendaire {% symbol "Thanatologue" for "book_of_the_dead" %}** ; et à travers ce grimoire, un moyen parait-il *infaillible* d'envahir Héliossar.
 
-Depuis, toutes les forces armées de votre patrie sont sur le pied de guerre. Des forces **bien mieux armées** que les légions akarites, mais hélas dix fois moins nombreuses, et n'ayant que quelques *invocateurs* à opposer à leurs innombrables *sorciers* cultivant d'obscurs pouvoirs. {% fact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %}
+Depuis, toutes les forces armées de votre patrie sont sur le pied de guerre. Des forces **bien mieux armées** que les légions akarites, mais hélas dix fois moins nombreuses, et n'ayant que quelques *invocateurs* à opposer à leurs innombrables *sorciers* cultivant d'obscurs pouvoirs. {% xfact "akarith_army_is_much_more_numerous_and_mystic_than_heliossar_army" %}
 
 De votre côté, en tant que spécialistes des artefacts anciens, vous avez été mandatés pour retrouver coûte que coûte un autre exemplaire de ce {% symbol "Thanatologue" for "book_of_the_dead" %} ; afin d'en savoir davantage sur la stratégie de conquête des Akarites, et surtout de trouver le moyen de la contrer.
 

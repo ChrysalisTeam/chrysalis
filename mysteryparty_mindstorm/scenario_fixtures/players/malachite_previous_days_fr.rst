@@ -3,11 +3,11 @@
 
 Votre enquête piétinait depuis quelques jours, et vous commenciez à tourner en rond, dans l'appartement partagé avec votre collègue. Vous étiez sur le point d’aller boire un coup au pub du coin pour voir si l’inspiration vous venait, quand Loyd Georges vous propose un entretien en tête-à-tête, annonçant avoir des "informations importantes" à vous communiquer. Voilà un rebondissement inespéré !
 
-**Vous vous rendez donc chez le sir de Salima pour {% symbol "12h" for "lg_meeting_time_for_malachite" %}.** Non sans apporter de délicieuses (et onéreuses) petites noix tropicales, achetées en chemin, en guise d’apéritif-cadeau. {% fact 'malachite_offers_nuts_to_lg' as author %}
+**Vous vous rendez donc chez le sir de Salima pour {% symbol "12h" for "lg_meeting_time_for_malachite" %}.** Non sans apporter de délicieuses (et onéreuses) petites noix tropicales, achetées en chemin, en guise d’apéritif-cadeau. {% xfact 'malachite_offers_nuts_to_lg' as author %}
 
 <{ arrival_at_manor_with_butler }/>
 
-L'entretien (qui commence en retard) est assez froid et laborieux, car – comme vous vous en rendez vite compte - Loyd Georges cherche en réalité à tester vos prétendues connaissances en histoire yodique {% fact 'malachite_official_is_expert_in_yodic_history' %} ; vous passez donc un moment délicat, tandis qu’il reste très évasif sur vos propres questions. Le vieil homme est manifestement conscient d’être entouré d’espions !
+L'entretien (qui commence en retard) est assez froid et laborieux, car – comme vous vous en rendez vite compte - Loyd Georges cherche en réalité à tester vos prétendues connaissances en histoire yodique {% xfact 'malachite_official_is_expert_in_yodic_history' %} ; vous passez donc un moment délicat, tandis qu’il reste très évasif sur vos propres questions. Le vieil homme est manifestement conscient d’être entouré d’espions !
 
 Vous réussissez heureusement à lui citer Georg Vidlaock et Vassil Becck, deux historiens en religion travaillant à l’université de Cazoar. Mal à l’aise dans son rôle d’interrogateur, il semble heureux de saisir ce semblant de garantie, et se lance dans une conversation sur ces bonshommes, des relations de travail qu’il connait bien mieux que vous. Pour détourner la conversation, vous lui parlez de ses belles bêtes de compagnie, des admirables ornements de sa porte d'entrée, du bon goût de ses différentes ambiances d'intérieur...
 
@@ -30,7 +30,7 @@ Vous décidez de repartir comme vous êtes venu. Vous longez à quatre pattes la
 <{ spies_escape_from_manor }/>
 
 Vous passez le reste de la journée à tenter, en vain, d'obtenir des informations sur l'orbe.
-Le soir, tard, vous rencontrez dans le {% symbol "Square Fleuri de Salima" for "malachite_alibi_location" %} un haut-préfet salimien pour tenter de le soudoyer, mais il finit par refuser l'offre "à cause du contexte très tendu de cette affaire". {% fact "malachite_alibi_is_illegal" as author %}
+Le soir, tard, vous rencontrez dans le {% symbol "Square Fleuri de Salima" for "malachite_alibi_location" %} un haut-préfet salimien pour tenter de le soudoyer, mais il finit par refuser l'offre "à cause du contexte très tendu de cette affaire". {% xfact "malachite_alibi_is_illegal" as author %}
 
 
 <{ pantry_spies_ending }/>

@@ -12,7 +12,7 @@ You arrive at the manor with 100 kashes in cash.
 
 <{ agents_carry_no_weapon_during_party }/>
 
-<{ document_authentication_lamp }/> {% hint "document_authentication_lamp_for_garnet" is needed %}
+<{ document_authentication_lamp }/> {% xitem "document_authentication_lamp_for_garnet" is needed %}
 
 
 

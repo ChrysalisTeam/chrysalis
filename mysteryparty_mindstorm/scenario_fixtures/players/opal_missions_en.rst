@@ -18,7 +18,7 @@ Protect your family
 <{ magnus_parents_must_protect_family }/>
 
 Save your own health and that of Loyd Georges
-    Your last hope seems to lie in this famous "Berserk Elixir"; you hope that Rydji and {% symbol "Rodok" for "lg_adventurer_friend_name" %} will be able to put you on its trail... {% fact "opal_knows_about_berserk_elixir" as author %}
+    Your last hope seems to lie in this famous "Berserk Elixir"; you hope that Rydji and {% symbol "Rodok" for "lg_adventurer_friend_name" %} will be able to put you on its trail... {% xfact "opal_knows_about_berserk_elixir" as author %}
 
 Help solve the crime against Loyd Georges
     You have only moderate confidence in the remaining skills of the ageing Inspector Shark, so you fully intend to investigate a little on the side, perhaps through his deputy police officer. Especially since, in the absence of a culprit, they might end up accusing you!

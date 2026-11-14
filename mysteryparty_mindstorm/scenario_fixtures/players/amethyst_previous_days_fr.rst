@@ -11,7 +11,7 @@ En entrant dans le magnifique Grand Hall du manoir, vous remarquez immédiatemen
 {% endmacro %}
 <{ arrival_at_manor_with_butler }/>
 
-Vous rencontrez prestement Loyd Georges dans son bureau. Il semble tendu ! Vous faites de votre mieux pour le mettre à l’aise, et la bouteille de liqueur digestive que vous lui offrez est un pas dans le bon chemin ; c'est une liqueur étrangère qui a attiré votre œil dans la grande galerie marchande de Salima, car nantie d’une amusante couleur bleue, et d'un bouchon cacheté à la cire façon vieille époque. Loyd Georges promet de l’ouvrir en votre honneur pour le repas. {% fact 'amethyst_offers_liquor_to_lg' as author %}
+Vous rencontrez prestement Loyd Georges dans son bureau. Il semble tendu ! Vous faites de votre mieux pour le mettre à l’aise, et la bouteille de liqueur digestive que vous lui offrez est un pas dans le bon chemin ; c'est une liqueur étrangère qui a attiré votre œil dans la grande galerie marchande de Salima, car nantie d’une amusante couleur bleue, et d'un bouchon cacheté à la cire façon vieille époque. Loyd Georges promet de l’ouvrir en votre honneur pour le repas. {% xfact 'amethyst_offers_liquor_to_lg' as author %}
 
 Vous vous enquérez de ces fameuses "informations" qu'il a pour vous.
 Après avoir maladroitement tenté de répondre à vos propres questions par d'autres questions (sur vos voyages, sur vos collections d'antiquités et pierreries...), le sir s'emmêle les pinceaux, et vous avoue qu’il n’a pas de révélation pour vous, mais qu’il voulait surtout savoir davantage à qui il avait affaire. Vous riez avec lui de ce qu’il ne s’y prend pas bien, ce à quoi il répond qu'en effet, une carrière dans la police sabarite aurait été une très mauvaise idée pour lui.
@@ -38,7 +38,7 @@ Vous vous cachez dans le réduit, sous l'escalier en colimaçon du Grand Hall. L
 
 Le majordome entre alors dans le Grand Hall avec un nouveau visiteur, ce qui interrompt leur controverse. Impossible d'entendre la suite des échanges, maintenant qu'ils ont à nouveau lieu dans le bureau de Loyd Georges ; l'inspecteur semble être resté à écouter depuis la chambre, le fourbe.
 
-Vous réfléchissez à vos prochains déplacements, lorsque vous avisez un petit écran encastré dans le mur. Chance, le terminal de contrôle des caméras du manoir. Vous repérez la position des **caméras ({% symbol "grand hall, bureau, bibliothèque, salle à manger, cuisine" for "videosurveillance_cameras_locations" %})**, et des habitants du lieu, avant de désactiver ce système. Voilà qui vous enlève une belle épine du pied. {% fact 'amethyst_disabled_surveillance_cameras' as author %}
+Vous réfléchissez à vos prochains déplacements, lorsque vous avisez un petit écran encastré dans le mur. Chance, le terminal de contrôle des caméras du manoir. Vous repérez la position des **caméras ({% symbol "grand hall, bureau, bibliothèque, salle à manger, cuisine" for "videosurveillance_cameras_locations" %})**, et des habitants du lieu, avant de désactiver ce système. Voilà qui vous enlève une belle épine du pied. {% xfact 'amethyst_disabled_surveillance_cameras' as author %}
 
 Vous anticipez les déplacements des serviteurs dans le manoir. Vers 12h15, le majordome lance à Alphonse qu'il part en ville préparer la logistique de la soirée du lendemain, et qu'il lui confie donc la surveillance des visiteurs.
 Un des participants aux enchères, **{{character_properties.opal.official_name}}**, passe à quelques pas de vous, en claudiquant sur sa canne.
@@ -51,7 +51,7 @@ Des bruits de pas dans le Grand Hall vous forcent à migrer vers la salle à man
 
 {% macro spies_locked_in_pantry() %}
 
-{% fact 'amethyst_and_malachite_locked_in_pantry' as author %}
+{% xfact 'amethyst_and_malachite_locked_in_pantry' as author %}
 
 L'individu a l'air tout aussi ahuri que vous.
 
@@ -73,11 +73,11 @@ Sans un mot, sinon un petit soulevé de chapeau, vous partez chacun de votre cô
 {% endmacro %}
 <{ spies_escape_from_manor }/>
 
-Un soulagement incomplet toutefois. Le fin colis marron a dû tomber pendant votre escalade du vasistas. Mais vous retrouvez bien la lettre pliée au fond de votre poche, et son contenu vous laisse songeur. {% fact 'amethyst_has_stolen_manor_letter' as author %} {% fact 'amethyst_has_lost_thin_manor_parcel' as author %} {% hint "stolen_manor_letter_for_amethyst" is needed %}
+Un soulagement incomplet toutefois. Le fin colis marron a dû tomber pendant votre escalade du vasistas. Mais vous retrouvez bien la lettre pliée au fond de votre poche, et son contenu vous laisse songeur. {% xfact 'amethyst_has_stolen_manor_letter' as author %} {% xfact 'amethyst_has_lost_thin_manor_parcel' as author %} {% xitem "stolen_manor_letter_for_amethyst" is needed %}
 
 Vous passez le reste de la journée à tenter, en vain, d'obtenir des informations sur l'orbe.
 Vous rentrez vous coucher très tôt, dans votre petite chambre du {% symbol "8e étage de l'Hotel SalimaGlobeCenter" for "amethyst_hostel_room" %}.
-{% fact "amethyst_alibi_is_void" as author %}
+{% xfact "amethyst_alibi_is_void" as author %}
 
 {% macro no_partner_communication_occurred_and_gala_planned() %}
 Le lendemain, vous êtes accaparé par une foultitude de petites affaires à régler, et vous n'avez donc pas le temps de faire le point avec votre compère. Une grande soirée de gala est prévue le soir, pour relancer cette série d’enchères.

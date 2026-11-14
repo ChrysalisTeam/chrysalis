@@ -4,7 +4,7 @@ Sheet of the Akarith Ambassador to Sabarim
 You are **Archdeacon Menelas**. You are a high-ranking member of the politico-religious order of the Judicators, which controls the land of Akaris; you are also **the official ambassador of your homeland to the land of Sabarim** (Sir Loyd Georges' homeland).
 
 You typically wear a richly ornamented alb, together with a skullcap or a mask on your head.
-**You must always wear on your fingers a silver skull ring (originating from the {% symbol "Keroskia highlands" for "akarith_ambassador_skull_ring_origin" %}), and another one with a large rectangular sapphire, both of which you display ostentatiously.** {% hint "akarith_ambassador_rings" is needed %}
+**You must always wear on your fingers a silver skull ring (originating from the {% symbol "Keroskia highlands" for "akarith_ambassador_skull_ring_origin" %}), and another one with a large rectangular sapphire, both of which you display ostentatiously.** {% xitem "akarith_ambassador_rings" is needed %}
 You are all smiles, full of bonhomie, of apparent gentleness, of soothing phrases.
 You spontaneously go and chat with the guests of the evening, and ignore any reactions of rejection they may have.
 You make free use of lies, sophistry, euphemisms, and cruel psychological games.
@@ -30,7 +30,7 @@ If you are led to speak on these subjects:
 Miscellaneous interactions:
 
 - if you run into {{character_properties.opal.official_name}}, you appear moved by his pitiful physical state, and offer to bless him in the name of the Yods "even though he is an unbeliever"
-- you offer culinary specialities you have brought along (in a magnificent silver bowl and a skull-headed bottle), laugh at the fear this inspires, and serenely eat/drink some yourself {% hint "akarith_ambassador_food_offering" is needed %}
+- you offer culinary specialities you have brought along (in a magnificent silver bowl and a skull-headed bottle), laugh at the fear this inspires, and serenely eat/drink some yourself {% xitem "akarith_ambassador_food_offering" is needed %}
 
 
 

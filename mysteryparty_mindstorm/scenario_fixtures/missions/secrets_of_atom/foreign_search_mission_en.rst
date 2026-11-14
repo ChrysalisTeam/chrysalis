@@ -1,5 +1,5 @@
 
-{% fact 'agent_mission_investigate_voluto' %}
+{% xfact 'agent_mission_investigate_voluto' %}
 
 MISSION - What did Voluto want?
 ====================================

@@ -12,7 +12,7 @@ Vous arrivez au manoir avec 100 kashes en liquide.
 
 <{ agents_carry_no_weapon_during_party }/>
 
-<{ document_authentication_lamp }/> {% hint "document_authentication_lamp_for_garnet" is needed %}
+<{ document_authentication_lamp }/> {% xitem "document_authentication_lamp_for_garnet" is needed %}
 
 
 

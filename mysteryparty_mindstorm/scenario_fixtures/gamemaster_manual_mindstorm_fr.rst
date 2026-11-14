@@ -105,12 +105,12 @@ Mécaniques récurrentes pour les joueurs
   - étude des mobiles possibles
   - vérification des alibis :
 
-    - les lordaniens n'ont pas d'alibis facilement vérifiables {% fact "amethyst_alibi_is_void" as author %} {% fact "garnet_alibi_is_void" %}
-    - les masslaves ont des alibis compromettants pour eux {% fact "malachite_alibi_is_illegal" as author %} {% fact "spinel_alibi_is_illegal" %}
-    - les doriens ont des alibis neutres et solides, tout comme Cynthia {% fact "peridot_topaz_alibi_is_strong" %} {% fact "cynthia_alibi_is_strong" %}
-    - Opal était endormi dans sa chambre du manoir, sous somnifères {% fact "opal_alibi_is_average" %}
-    - Lydia a un bon alibi mais qui révèle la localisation de Khaal {% fact "lydia_alibi_is_revealing" %}
-    - Waden ne peut révéler où il était sans se mettre en danger {% fact "waden_alibi_is_revealing" %}
+    - les lordaniens n'ont pas d'alibis facilement vérifiables {% xfact "amethyst_alibi_is_void" as author %} {% xfact "garnet_alibi_is_void" %}
+    - les masslaves ont des alibis compromettants pour eux {% xfact "malachite_alibi_is_illegal" as author %} {% xfact "spinel_alibi_is_illegal" %}
+    - les doriens ont des alibis neutres et solides, tout comme Cynthia {% xfact "peridot_topaz_alibi_is_strong" %} {% xfact "cynthia_alibi_is_strong" %}
+    - Opal était endormi dans sa chambre du manoir, sous somnifères {% xfact "opal_alibi_is_average" %}
+    - Lydia a un bon alibi mais qui révèle la localisation de Khaal {% xfact "lydia_alibi_is_revealing" %}
+    - Waden ne peut révéler où il était sans se mettre en danger {% xfact "waden_alibi_is_revealing" %}
 
   - étude des rapports scientifiques (médico-légaux, balistiques...)
   - récupération d’indices, sur place ou via des agents extérieurs
@@ -163,9 +163,9 @@ Les services secrets sabarites, eux, ont conscience que des choses ne tournent p
 
 L'agent sabarite Obsidian, présente à la soirée en tant que "adjointe de l'inspecteur Shark", doit entre autres enquêter sur ces akarites infiltrés.
 
-- les agents masslaves savent que le {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %} sert de repaire à des purificateurs akarites {% fact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
+- les agents masslaves savent que le {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %} sert de repaire à des purificateurs akarites {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
 - Cynthia reçoit un message de traquenard, mal orthographié, qui une fois géolocalisé renvoie vers l'adresse du {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %}
-- le jeu de carte vendu par Alphonse contient un message codé annonçant une réunion des purificateurs à la Brasserie du Purineur. {% hint 'card_game_with_unreadable_manual' is needed %}
+- le jeu de carte vendu par Alphonse contient un message codé annonçant une réunion des purificateurs à la Brasserie du Purineur. {% xitem 'card_game_with_unreadable_manual' is needed %}
 - un étrange spot radio fait une promotion plutôt contre-productive de la Brasserie du Purineur
 
 Si l'agent Obsidian remonte un de ces 2 bars à l'inspecteur Shark, rien ne se passe.
@@ -173,7 +173,7 @@ En revanche, les services secrets sabarites peuvent y faire une descente.
 
 Trouvailles remontées par la perquisition :
 
-- message codé {% symbol "MO NOUS COUVRE - LIVRAISON OK – 17 TAVERNES AUBONPICHET SOUMISES SUR 1238" for "akarith_sect_coded_message" %}, déchiffrable avec l'aide de Cynthia. {% fact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
+- message codé {% symbol "MO NOUS COUVRE - LIVRAISON OK – 17 TAVERNES AUBONPICHET SOUMISES SUR 1238" for "akarith_sect_coded_message" %}, déchiffrable avec l'aide de Cynthia. {% xfact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
 - montre à gousset qui, une fois analysée biophysiquement via Anthropia, divulgue des métaux lordaniens, des pollens d'Akarie dans la drogue ainsi que des "vapeurs de liqueur de tilleul" dans la drogue (ce qui circonscrit à environ 80 tavernes AuBonPichet servant cette boisson); le scanner mondial, lui, donne une dizaine de zones dans les grandes villes akarites, zones contenant en tout environ 50 tavernes AuBonPichet. Avoir les deux indices permet de cerner précisément les 17 tavernes soumises.
 
 Les consuls peuvent pousser une gueulante, en interne, suite à cette première investigation dans un tripot qu'ils cherchent à protéger.
@@ -340,7 +340,7 @@ Si interrogé, le vieil Alphonse raconte l'arrivée de ce colis très tôt, le m
 Pour avancer dans l'enquête, les joueurs peuvent au choix :
 
 - récupérer les **enregistrements de caméra de 8h-10h**, qui mentionnent la manipulation par Loyd Georges d'un livre factice **"Venture Prins"** dans la bibliothèque
-- faire aller chercher le sac en toile brune dans la BIBLIOTHEQUE, un sac contenant une note évoquant le "Venture Prins"  {% fact 'panorbium_fortuna_bag_remains_in_library' %}
+- faire aller chercher le sac en toile brune dans la BIBLIOTHEQUE, un sac contenant une note évoquant le "Venture Prins"  {% xfact 'panorbium_fortuna_bag_remains_in_library' %}
 
 Par la suite, l'idée est alors de récupérer le "Venture Prins" dans la bibliothèque, une fois encore en payant l'obéron ou en faisant chanter le vieil Alphonse pour qu'il le fasse lui-même.
 
@@ -377,11 +377,11 @@ Opal est malade depuis qu'il a été empoisonné par la secte akarite des "purif
 Il s'est vu confier par Loyd Georges qu'il y aurait peut-être moyen de le soigner grâce à une antique potion yodique, l'Élixir Berserk, et qu'ils en reparleraient après la soirée spéciale.
 
 Au début de la soirée, Rydji lui remet une lettre de {% symbol "Rodok" for "lg_adventurer_friend_name" %}, que Loyd Georges avait mise de côté "au cas où". Cette lettre contient la recette de base de l'Élixir :
-{% fact "opal_knows_about_berserk_elixir" %} {% hint "letter_from_rodok_forwarded_to_opal" is needed %}
+{% xfact "opal_knows_about_berserk_elixir" %} {% xitem "letter_from_rodok_forwarded_to_opal" is needed %}
 
 {# RECETTE UN PEU DIFFERENTE DE CELLE DU JDR CHRYSALIS:DESCENT, POUR EVITER LA TRICHE #}
-- champignon aquatique bleu (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% hint 'blue_aquatic_mushroom_juice' is needed %}
-- tentacule de poulpe caverneux (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% hint 'octopus_tentacle_in_bottle' is needed %}
+- champignon aquatique bleu (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% xitem 'blue_aquatic_mushroom_juice' is needed %}
+- tentacule de poulpe caverneux (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse)  {% xitem 'octopus_tentacle_in_bottle' is needed %}
 - petit fruit rouge qui pique (prune rouge d'Akarie, disponible en liqueur dans la bonbonne antique (la "Bonbonne tectonne") vendue aux enchères)
 
 Les lordaniens ont aussi eu vent de cet Élixir, et ils sont intéressés de voir ses effets sur Opal, pour jauger de sa pertinence sur leur infanterie.
@@ -455,7 +455,7 @@ Les dialogues enregistrés entre Opal et Lydia, la lettre d'Emilos Loakim volée
 
 Lydia et Opal doivent le faire sortir au plus vite de la thalassothérapie du mont brumeux.
 
-Une attaque de plusieurs factions (akarites, et mercenaires de {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}) finit par y survenir. {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %} cherche en effet à récupérer le manoir de Loyd Georges depuis toujours, et il compte pour cela sur un vil chantage. {% fact "lord_mac_jolt_wants_to_blackmail_lg_via_khaal" %}
+Une attaque de plusieurs factions (akarites, et mercenaires de {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}) finit par y survenir. {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %} cherche en effet à récupérer le manoir de Loyd Georges depuis toujours, et il compte pour cela sur un vil chantage. {% xfact "lord_mac_jolt_wants_to_blackmail_lg_via_khaal" %}
 
 Si Khaal était encore sur place, lui et son accompagnatrice sont heureusement secourus par le {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %}, qui surveillait les manigances du {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, et protégeait les proches de Loyd Georges à la demande de ce dernier.
 
@@ -526,7 +526,7 @@ Tenter de garder le trésor entièrement pour soi pourra donc valoir une déposs
 - l'élevage de la vieille voisine appartenait auparavant à Loyd Georges, elle a eu vent de la disparition du "Précieux Chaudron"
 
 - un mystérieux parchemin chiffré se trouve dans le coffre de Loyd Georges, avec son testament, et il est légué à Cynthia.
-- le parchemin hérité mentionne les "racines du baobab", sous forme d'un code secret qu'Opal peut déchiffrer  {% fact "opal_knows_standard_secret_codes" as author %}
+- le parchemin hérité mentionne les "racines du baobab", sous forme d'un code secret qu'Opal peut déchiffrer  {% xfact "opal_knows_standard_secret_codes" as author %}
 - les serviteurs de Loyd Georges sont catégoriques, il n'a jamais existé un seul Baobab dans le domaine des Loyd ; mais ce mot leur rappelle une anecdote avec le jeune Loyd Markis, ils ne savent plus laquelle.
 - un extrait de la biographie de Loyd Markis indique que pour lui le Baobab est "l'arbre majestueux dont le fruit est sur les lèvres du buste automnal"
 - cela fait référence à un des tableaux des 4 saisons d'Arcimboldo, exposés au mur ; le buste représentant l'Automne a une châtaigne à la place de la bouche
@@ -545,10 +545,10 @@ Le secret des atomes et le Pr Voluto
 
 **Le laboratoire à détruire**
 
-Le physicien Waden Shaw a officiellement puis officieusement travaillé avec le Pr Voluto, sur la piste d'une "supernova atomique" obtenable en raffinant de l'{% symbol "Uranium 234" for "most_dangerous_radioactive_material" %}.  {% fact "waden_secretly_worked_with_voluto_on_radioactivity" as author %}
+Le physicien Waden Shaw a officiellement puis officieusement travaillé avec le Pr Voluto, sur la piste d'une "supernova atomique" obtenable en raffinant de l'{% symbol "Uranium 234" for "most_dangerous_radioactive_material" %}.  {% xfact "waden_secretly_worked_with_voluto_on_radioactivity" as author %}
 
 Le Pr Voluto a tenté de vendre ses découvertes à divers pays, Waden s'est donc violemment disputé avec lui à l'Académie d'Alifir.
-Les enregistrements vidéo de cette dispute ont été subtilisés par des agents de {% symbol "Balberith" for "waden_blackmailer_lady_country" %}.  {% fact "voluto_death_day_academy_recordings_disappeared" %}
+Les enregistrements vidéo de cette dispute ont été subtilisés par des agents de {% symbol "Balberith" for "waden_blackmailer_lady_country" %}.  {% xfact "voluto_death_day_academy_recordings_disappeared" %}
 
 Peu après, le jour même, l'agent sabarite Obsidian s'est fait surprendre par le Pr Voluto tandis qu'elle perquisitionnait son domicile, et le vieil homme est accidentellement mort dans la lutte qui s'est ensuivie.
 
@@ -566,7 +566,7 @@ De son côté, l'agent sabarite Obsidian peut aussi tenter de faire entendre rai
 
 Par ailleurs, Waden a été récemment contacté par une agente de {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, {% symbol "Elezie" for "waden_blackmailer_lady_name" %}, qui cherche à le faire chanter grâce aux enregistrements vidéo de l'Académie. Elle lui a confié trois échantillons de granit à analyser, pour tâter sa collaboration et guider leurs approvisionnements en matières premières radioactives.
 
-Waden reçoit les derniers résultats de son analyse pendant la soirée. Il peut décider de dire la vérité aux maîtres-chanteurs, ou de leur mentir (en faisant potentiellement au passage une escroquerie, car un des granits provient du terrain Hydrolande possédé par Opal). Dans tous les cas, {% symbol "Balberith" for "waden_blackmailer_lady_country" %} le croit et met tout en oeuvre pour acquérir le terrain qu'il croit rempli de minerai précieux, quitte à créer une crise géopolitique. {% fact "balberith_has_poor_atom_analysis_technology" %}
+Waden reçoit les derniers résultats de son analyse pendant la soirée. Il peut décider de dire la vérité aux maîtres-chanteurs, ou de leur mentir (en faisant potentiellement au passage une escroquerie, car un des granits provient du terrain Hydrolande possédé par Opal). Dans tous les cas, {% symbol "Balberith" for "waden_blackmailer_lady_country" %} le croit et met tout en oeuvre pour acquérir le terrain qu'il croit rempli de minerai précieux, quitte à créer une crise géopolitique. {% xfact "balberith_has_poor_atom_analysis_technology" %}
 
 En revanche, lorsque {% symbol "Elezie" for "waden_blackmailer_lady_name" %} exige d'obtenir les travaux du Pr Voluto, Waden doit trouver une solution, que ce soit coopérer, ou monter un contre-feu médiatique grâce à Cynthia afin que le chantage tombe à l'eau, ou bien faire intercepter par Obsidian les enregistrements que {% symbol "Elezie" for "waden_blackmailer_lady_name" %}, en dernier recours, enverrait à Shark.
 
@@ -595,7 +595,7 @@ Ils peuvent aussi prendre les devants, en se défiant mutuellement "pour de faux
 Les cambriolages de l'appartement de Cynthia
 ------------------------------------------------
 
-En croisant les informations d'un ancien email de Cynthia avec une image de son immeuble, un joueur peut déterminer où elle habite exactement, et planifier un cambriolage (mais attention, les obérons ne doivent pas savoir qu'il s'agit de leur cliente Cynthia, sinon ils s'abstiennent). {% hint "cynthia_wetfeet_building_picture" is needed %}
+En croisant les informations d'un ancien email de Cynthia avec une image de son immeuble, un joueur peut déterminer où elle habite exactement, et planifier un cambriolage (mais attention, les obérons ne doivent pas savoir qu'il s'agit de leur cliente Cynthia, sinon ils s'abstiennent). {% xitem "cynthia_wetfeet_building_picture" is needed %}
 
 On part du principe qu'aucune information extérieure (boite aux lettres, nom sur la porte...) ne permet de trouver le studio de Cynthia.
 
@@ -610,13 +610,13 @@ L'ouverture du coffre-fort de Loyd Georges
 
 Le tabellion rassemble les invités autour du coffre-fort de Loyd Georges, pour lire le brouillon de testament.
 
-Il a sur lui (et non dans sa mallette) la clef du coffre, mais il lui manque le code secret et la carte magnétique de Loyd Georges. {% fact "notary_has_lg_vault_key" as author %}
+Il a sur lui (et non dans sa mallette) la clef du coffre, mais il lui manque le code secret et la carte magnétique de Loyd Georges. {% xfact "notary_has_lg_vault_key" as author %}
 
 **Rydji dit que Loyd Georges notait toujours le dernier code du coffre dans une "{% symbol "petite boite à mouchoir" for "lg_vault_secret_code_location" %}" qui trainait dans la salle à manger, mais que cette boite a disparu dans le remue-ménage de préparation de la soirée.**
 
 **Alphonse s'était vu confier par Loyd Georges où celui-ci gardait son pass magnétique doré, quelque part dans la salle à manger, mais il l'a oublié.**
 
-La séance est donc reportée ; et Alphonse, au lieu de chercher par lui-même, met à contribution tous les invités pour fouiller la salle de réception, à la recherche de ces 2 éléments. {% hint 'lg_vault_pass_card' is needed %} {% hint 'lg_vault_secret_code' is needed %}
+La séance est donc reportée ; et Alphonse, au lieu de chercher par lui-même, met à contribution tous les invités pour fouiller la salle de réception, à la recherche de ces 2 éléments. {% xitem 'lg_vault_pass_card' is needed %} {% xitem 'lg_vault_secret_code' is needed %}
 
 Une fois que ces éléments sont trouvés (voire si l'agent secret qui sait hacker des cartes magnétiques se propose), on ouvre tous ensemble le coffre-fort.
 

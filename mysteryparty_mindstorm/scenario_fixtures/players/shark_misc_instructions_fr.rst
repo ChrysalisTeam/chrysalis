@@ -7,9 +7,9 @@ Gestion de la soirée
 Le lancement de la soirée
 ++++++++++++++++++++++++++++
 
-Les enchérisseurs sont invités à venir bien habillés, pour le Gala d’Ouverture des Enchères de Loyd Georges. A l’entrée, ils passent par un **détecteur corporel**, et sont informés que cela atteste qu’aucun d’entre eux ne porte de lames, armes à feu, ou de substances explosives (pas même les petites armes synthétiques à la mode parmi les agents secrets). {% fact 'shark_enforces_body_scanner_at_manor_entrance' as author %}
+Les enchérisseurs sont invités à venir bien habillés, pour le Gala d’Ouverture des Enchères de Loyd Georges. A l’entrée, ils passent par un **détecteur corporel**, et sont informés que cela atteste qu’aucun d’entre eux ne porte de lames, armes à feu, ou de substances explosives (pas même les petites armes synthétiques à la mode parmi les agents secrets). {% xfact 'shark_enforces_body_scanner_at_manor_entrance' as author %}
 
-Shark a aussi mis en place un **brouilleur d'ondes électromagnétique**, les téléphones mobiles des invités ne peuvent donc plus émettre/recevoir d'appels "normaux" (mais le WIFI n'est pas impacté). {% fact 'shark_blocks_mobile_network_around_manor' as author %}
+Shark a aussi mis en place un **brouilleur d'ondes électromagnétique**, les téléphones mobiles des invités ne peuvent donc plus émettre/recevoir d'appels "normaux" (mais le WIFI n'est pas impacté). {% xfact 'shark_blocks_mobile_network_around_manor' as author %}
 
 Les invités commencent à déguster des apéritifs et discuter, en attendant l’arrivée de leur hôte. C’est aussi l’occasion de faire davantage connaissance. Ambiance musicale : du classique, du clavecin, noblesse et gaieté… même si les serviteurs semblent étrangement maussades.
 

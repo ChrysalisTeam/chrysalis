@@ -26,7 +26,7 @@ En tant que haute personnalité de Sabarim, vous n'avez pas été fouillé à vo
 
 Vous arrivez à la soirée environ 1/2h après son commencement. <{ sabarim_notable_has_no_body_search }/>
 
-Gage de sa confiance en vous, et aussi de sa méfiance envers la sécurité de sa maisonnée, Loyd Georges vous a confié la **clef du coffre de son bureau** ; il garde pour lui les autres moyens requis pour son ouverture : **la carte pass et le code secret**.  {% fact "notary_has_lg_vault_key" as author %}
+Gage de sa confiance en vous, et aussi de sa méfiance envers la sécurité de sa maisonnée, Loyd Georges vous a confié la **clef du coffre de son bureau** ; il garde pour lui les autres moyens requis pour son ouverture : **la carte pass et le code secret**.  {% xfact "notary_has_lg_vault_key" as author %}
 
 Vis-à-vis de la justice sabarite : l'immunité judiciaire des tabellions est un acquis qui vous est cher ; vous défendrez donc bec et ongles votre droit à n'être ni soumis à un interrogatoire, ni fouillé par l'inspecteur Shark (seule une cour de justice spéciale peut révoquer ce statut d'exception), ni passé sous le moindre détecteur ; d'autant plus que Loyd Georges vous a confié récemment qu'il se méfiait de l'inspecteur, qui "perdait le sens des réalités". Hors de question, donc, de donner à cet individu la clef du coffre, ou tout autre secret de Loyd Georges.
 

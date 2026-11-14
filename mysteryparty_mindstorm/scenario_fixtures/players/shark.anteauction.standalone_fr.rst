@@ -24,7 +24,7 @@ Loyd Georges fait un malaise cardiaque tard dans la soirée, et est hospitalisé
 
 Jusqu’au lendemain soir, cet incident est tenu secret par l'inspecteur, afin que la plupart des enchérisseurs viennent à la soirée sans se douter de rien.
 
-Il avait par ailleurs envoyé de **fausses invitations** afin que Cynthia Loakim et Waden Shaw s'y rendent aussi, alors qu'ils n'étaient initialement pas prévus. {% fact 'shark_has_sent_fake_invitations_to_cynthia_and_waden' as author %}
+Il avait par ailleurs envoyé de **fausses invitations** afin que Cynthia Loakim et Waden Shaw s'y rendent aussi, alors qu'ils n'étaient initialement pas prévus. {% xfact 'shark_has_sent_fake_invitations_to_cynthia_and_waden' as author %}
 
 Shark va ainsi manipuler les suspects enfermés dans le manoir, leur faire peur afin qu'ils se livrent mutuellement, et les espionner pour profiter des découvertes qu'ils pourraient faire chacun de leur côté.
 

@@ -11,7 +11,7 @@ As you enter the manor's magnificent Great Hall, you immediately notice the came
 {% endmacro %}
 <{ arrival_at_manor_with_butler }/>
 
-You promptly meet Loyd Georges in his study. He seems tense! You do your best to put him at ease, and the bottle of digestive liqueur you offer him is a step in the right direction; it is a foreign liqueur that caught your eye in Salima's large shopping arcade, as it boasts an amusing blue colour, and an old-fashioned wax-sealed stopper. Loyd Georges promises to open it in your honour at the meal. {% fact 'amethyst_offers_liquor_to_lg' as author %}
+You promptly meet Loyd Georges in his study. He seems tense! You do your best to put him at ease, and the bottle of digestive liqueur you offer him is a step in the right direction; it is a foreign liqueur that caught your eye in Salima's large shopping arcade, as it boasts an amusing blue colour, and an old-fashioned wax-sealed stopper. Loyd Georges promises to open it in your honour at the meal. {% xfact 'amethyst_offers_liquor_to_lg' as author %}
 
 You enquire about this famous "information" he has for you.
 After clumsily trying to answer your questions with other questions (about your travels, about your collections of antiques and gemstones...), the gentleman gets muddled up, and confesses to you that he has no revelation for you, but that he mainly wanted to know more about who he was dealing with. You laugh with him about how badly he is going about it, to which he replies that indeed, a career in the Sabarith police would have been a very bad idea for him.
@@ -38,7 +38,7 @@ The clock strikes 12. Through the wall, you hear Loyd Georges talking, in his be
 
 The butler then enters the Great Hall with a new visitor, which interrupts their argument. Impossible to hear the rest of the exchanges, now that they are taking place in Loyd Georges' study again; the inspector seems to have stayed behind to listen from the bedroom, the sly devil.
 
-You are thinking about your next moves, when you notice a small screen built into the wall. What luck, the control terminal for the manor's cameras. You locate the position of the **cameras ({% symbol "great hall, study, library, dining room, kitchen" for "videosurveillance_cameras_locations" %})**, and of the occupants of the place, before disabling this system. That is a real weight off your mind. {% fact 'amethyst_disabled_surveillance_cameras' as author %}
+You are thinking about your next moves, when you notice a small screen built into the wall. What luck, the control terminal for the manor's cameras. You locate the position of the **cameras ({% symbol "great hall, study, library, dining room, kitchen" for "videosurveillance_cameras_locations" %})**, and of the occupants of the place, before disabling this system. That is a real weight off your mind. {% xfact 'amethyst_disabled_surveillance_cameras' as author %}
 
 You anticipate the servants' movements within the manor. At around 12:15, the butler calls out to Alphonse that he is going into town to prepare the logistics for tomorrow evening's event, and that he is therefore entrusting him with keeping an eye on the visitors.
 One of the auction participants, **{{character_properties.opal.official_name}}**, passes a few steps away from you, limping on his cane.
@@ -51,7 +51,7 @@ Footsteps in the Great Hall force you to migrate towards the dining room, but ol
 
 {% macro spies_locked_in_pantry() %}
 
-{% fact 'amethyst_and_malachite_locked_in_pantry' as author %}
+{% xfact 'amethyst_and_malachite_locked_in_pantry' as author %}
 
 The individual looks just as dumbfounded as you are.
 
@@ -73,11 +73,11 @@ Without a word, save for a slight tip of the hat, you each go your separate ways
 {% endmacro %}
 <{ spies_escape_from_manor }/>
 
-An incomplete relief, however. The thin brown parcel must have fallen while you were climbing through the transom window. But you do find the folded letter at the bottom of your pocket, and its contents leave you pensive. {% fact 'amethyst_has_stolen_manor_letter' as author %} {% fact 'amethyst_has_lost_thin_manor_parcel' as author %} {% hint "stolen_manor_letter_for_amethyst" is needed %}
+An incomplete relief, however. The thin brown parcel must have fallen while you were climbing through the transom window. But you do find the folded letter at the bottom of your pocket, and its contents leave you pensive. {% xfact 'amethyst_has_stolen_manor_letter' as author %} {% xfact 'amethyst_has_lost_thin_manor_parcel' as author %} {% xitem "stolen_manor_letter_for_amethyst" is needed %}
 
 You spend the rest of the day trying, in vain, to obtain information about the orb.
 You go to bed very early, in your little room on the {% symbol "8th floor of the SalimaGlobeCenter Hotel" for "amethyst_hostel_room" %}.
-{% fact "amethyst_alibi_is_void" as author %}
+{% xfact "amethyst_alibi_is_void" as author %}
 
 {% macro no_partner_communication_occurred_and_gala_planned() %}
 The next day, you are taken up by a multitude of small matters to settle, and so you have no time to take stock with your partner. A grand gala is planned for that evening, to relaunch this series of auctions.

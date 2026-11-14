@@ -20,7 +20,7 @@ You then had tea with Loyd Georges, on a sofa in the dining room. Here is the co
 
 Very late in the evening, you answered the call of Loyd Georges' bell, and found your master lying on the floor in his pyjamas, unconscious, in the middle of his bedroom.
 
-An ambulance came to take him away, then Inspector Shark and police officers came to take possession of the manor. You tried to wake {{character_properties.opal.official_name}}, but he was in an exceptionally deep sleep, and did not react to stimuli. {% fact "rydji_could_not_wake_up_opal_after_lg_troubles" as author %}
+An ambulance came to take him away, then Inspector Shark and police officers came to take possession of the manor. You tried to wake {{character_properties.opal.official_name}}, but he was in an exceptionally deep sleep, and did not react to stimuli. {% xfact "rydji_could_not_wake_up_opal_after_lg_troubles" as author %}
 
 Loyd Georges has been hospitalised ever since. But on Inspector Shark's orders, you have kept up the preparations for the special evening.
 
@@ -34,7 +34,7 @@ The Tabellion is, in your eyes, an upstart, but a guarantor of a certain respect
 
 When the Akarith Ambassador turns up at the manor, you do not hide your indignation, like the whole household.
 
-You know that an **antique landline telephone** still exists in the manor, but if it still works, only old Alphonse knows how to use it. {% fact "manor_has_wireline_phone_through_alphonse" %}
+You know that an **antique landline telephone** still exists in the manor, but if it still works, only old Alphonse knows how to use it. {% xfact "manor_has_wireline_phone_through_alphonse" %}
 
 Speaking of Alphonse... you are very fond of your dear senior colleague, but you do not hesitate to scold him when he piles up blunders, or launches into initiatives completely out of step with what matters.
 
@@ -45,7 +45,7 @@ You are a sworn referee of the **"Sabarith duel of honour"**. It is up to you to
 {% endmacro %}
 <{ dual_of_honor_arbiter }/>
 
-When Cynthia and Waden arrive at the manor, you and Alphonse are flabbergasted: Loyd Georges had always wished to keep them away from these auctions and their procession of shady characters. How come they were invited? {% fact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
+When Cynthia and Waden arrive at the manor, you and Alphonse are flabbergasted: Loyd Georges had always wished to keep them away from these auctions and their procession of shady characters. How come they were invited? {% xfact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
 
 You adore explosives, and you use them for any request that lends itself to it (digging under a tree, into a wall or a ceiling...), because you legally hold all the permits for carrying out construction work with explosives.
 
@@ -58,7 +58,7 @@ Help souls of good will to find Loyd Georges' attacker.
 
 Protect your household, and Loyd Georges' friends (especially Cynthia Loakim), against dangers.
 
-To secure the future of the manor, against the creditors and against {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, you are burning to find the hidden legacy of the Loyds, whose story is given below. Loyd Georges confided to you that he wanted to bring Cynthia in on it, to try once again to find this treasure. {% fact "lg_seeks_legacy_with_help_of_cynthia" as author %} {% fact "lord_mac_jolt_wants_to_own_lg_manor" %}
+To secure the future of the manor, against the creditors and against {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, you are burning to find the hidden legacy of the Loyds, whose story is given below. Loyd Georges confided to you that he wanted to bring Cynthia in on it, to try once again to find this treasure. {% xfact "lg_seeks_legacy_with_help_of_cynthia" as author %} {% xfact "lord_mac_jolt_wants_to_own_lg_manor" %}
 
 <{ loyd_markis_lost_legacy }/>
 

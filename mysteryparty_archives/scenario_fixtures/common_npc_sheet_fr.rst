@@ -18,7 +18,7 @@ Fonctionnement des différents mondes
 Principes fondamentaux
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-**En résumé, les mondes des fantômes (dont la Bête) et des avatars sont complètement séparés : ils ne peuvent ni se voir, ni se ressentir ; ni s'entendre mutuellement, et il est important de simuler réalistement ces lacunes, dans toutes les interactions. En revanche, ces deux mondes peuvent voir et entendre les vivants (les joueurs), ainsi que les automates (les serviteurs). Les automates voient tout le monde sauf les fantômes ; et tout le monde peut voir et être vu de l'Ankou.** {% fact "phantom_and_avatar_worlds_are_disjoint" %}
+**En résumé, les mondes des fantômes (dont la Bête) et des avatars sont complètement séparés : ils ne peuvent ni se voir, ni se ressentir ; ni s'entendre mutuellement, et il est important de simuler réalistement ces lacunes, dans toutes les interactions. En revanche, ces deux mondes peuvent voir et entendre les vivants (les joueurs), ainsi que les automates (les serviteurs). Les automates voient tout le monde sauf les fantômes ; et tout le monde peut voir et être vu de l'Ankou.** {% xfact "phantom_and_avatar_worlds_are_disjoint" %}
 
 Ce comportement des différents mondes est une surprise pour tous les figurants (hormis à la rigueur pour l'Arkonte qui s'en doutait un peu) ; ils doivent donc être intrigués lorsque les joueurs "parlent à du vide", puis peu à peu comprendre le fonctionnement de tout cela, et réaliser (pour les fantômes) pourquoi les automates se mettent parfois à bouger tous seuls, pourquoi certains objets issus du monde des vivants se déplacent en apesanteur, etc.
 
@@ -45,7 +45,7 @@ Conseils pour les figurants
 Rappel du principe fondamental
 ++++++++++++++++++++++++++++++++++++++++
 
-Il faut rester concentré sur ce point : les mondes des fantômes et des avatars sont hermétiquement séparés. Les avatars ne peuvent pas voir/entendre/sentir les fantômes (ni la Bête) ; et vice-versa. En revanche, tous peuvent voir/entendre les vivants et les automates ; ces derniers, mécaniques, ne peuvent pas voir les fantômes. Et tous peuvent voir/entendre l'Ankou (qui est du monde "divin"), ainsi que le Djinn renégat (maître de jeu) qui a été rendu visible (mais immatériel) par les diacres. {% fact "phantom_and_avatar_worlds_are_disjoint" %}
+Il faut rester concentré sur ce point : les mondes des fantômes et des avatars sont hermétiquement séparés. Les avatars ne peuvent pas voir/entendre/sentir les fantômes (ni la Bête) ; et vice-versa. En revanche, tous peuvent voir/entendre les vivants et les automates ; ces derniers, mécaniques, ne peuvent pas voir les fantômes. Et tous peuvent voir/entendre l'Ankou (qui est du monde "divin"), ainsi que le Djinn renégat (maître de jeu) qui a été rendu visible (mais immatériel) par les diacres. {% xfact "phantom_and_avatar_worlds_are_disjoint" %}
 
 Les fantômes sont reconnaissables à leur **tunique pourpre**, et les automates à leurs **{% symbol "rubans blancs" for "automaton_symbolic_cloth" %}**. Les avatars n'ont pas de signe distinctif particulier, juste un costume conforme à leur personnage de roman.
 
@@ -66,9 +66,9 @@ Orienter les joueurs vers les bons interlocuteurs
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Octave, l'archiviste et l'arkonte peuvent se renvoyer la balle quand on leur demande des informations qu'ils ont oubliées sur la maisonnée Maupertuis ou la malédiction de la bibliothèque.
-- Si un joueur cherche des informations sur les automates, ou a un outil à réparer, l'orienter vers l'inventeur.  {% fact "inventor_can_repair_items" %}
-- S'il s'agit de dons de voyance, c'est la duchesse qui est la mieux placée. {% fact "duchess_knowns_about_prophecies" %}
-- S'il s'agit d'herboristerie (pour les potions) ou de gemmologie, c'est le druide qui peut avoir quelques réponses. {% fact "druid_known_about_plants_and_gems" %}
+- Si un joueur cherche des informations sur les automates, ou a un outil à réparer, l'orienter vers l'inventeur.  {% xfact "inventor_can_repair_items" %}
+- S'il s'agit de dons de voyance, c'est la duchesse qui est la mieux placée. {% xfact "duchess_knowns_about_prophecies" %}
+- S'il s'agit d'herboristerie (pour les potions) ou de gemmologie, c'est le druide qui peut avoir quelques réponses. {% xfact "druid_known_about_plants_and_gems" %}
 - Si un joueur est blessé, selon son type de blessure, interpeller l'avatar qui pourrait le soigner
  {# ABORTED (ce qui n'est pas sans danger) { % fact "avatar_abilities_are_randomly_hazardous" % } #}
 
@@ -123,36 +123,36 @@ Donc, quand ils sont incarnés et conscients de leurs actes, ils réagissent fac
 Incarnation, ancrage et errance spectrale des fantômes
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 {# TODO REVIEW THIS CHAPTER STRONGLY #}
-{% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+{% xfact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
-Tout figurant fantôme qui est mort violemment est initialement **ancré** à une petite zone éclairée, qui fut le lieu de sa mort violente. {% fact "beings_dead_violently_are_anchored" %}
+Tout figurant fantôme qui est mort violemment est initialement **ancré** à une petite zone éclairée, qui fut le lieu de sa mort violente. {% xfact "beings_dead_violently_are_anchored" %}
 Il est alors en **phase incarnée** : il a une apparence humaine, peut communiquer normalement, son visage est découvert, et ses gants lumineux éteints.
 Il peut manier quelques accessoires le représentant ; il garde cependant une certaine lenteur dans les gestes, et si possible un visage blafard.
 
 Lorsque les **cloches** retentissent (ou bien la **clochette** de frénésie spectrale), le fantôme passe en mode spectral, désincarné, et va errer dans la bibliothèque (y compris dans le domaine interdit si celui-ci est ouvert).
 
-Cette phase d'errance survient aussi pour un fantôme qui a été libéré de son ancrage (voir ci-dessous), mais bien moins souvent. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+Cette phase d'errance survient aussi pour un fantôme qui a été libéré de son ancrage (voir ci-dessous), mais bien moins souvent. {% xfact "anchored_phantoms_turn_more_often_into_specters" %}
 
 L'errance se fait en ne marchant pas trop vite, bras plus ou moins tendus devant soi, en inspirant/expirant de façon longue et rauque (pas de bruit "booo" trop cliché). Le fantôme doit avoir le visage couvert avec le voile, et ses gants lumineux allumés.
 
 Le déplacement est plus rapide et agressif pour un personnage ayant eu une vie lourde de péchés (ex. le voleur).
-{% fact "phantoms_of_sinners_have_faster_specters" %}
+{% xfact "phantoms_of_sinners_have_faster_specters" %}
 
 Pour être fair-play, un spectre devrait planifier un peu à l'avance ses tours (en cercle, en huit, en passant dans certains culs-de-sac ou non), et ne pas trop démordre de ce trajet, même si les joueurs se sont entretemps rassemblés à un autre endroit. Mais ne pas hésiter à mettre un peu plus de pression aux joueurs s'ils sont trop tranquilles.
 
-Attention : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélère le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% fact "phantoms_feel_humans_closer_than_3m" %}
+Attention : si un spectre passe à **moins de 3m d'un joueur**, éclairé ou non, il le "sent" et accélère le pas en obliquant vers lui. Si le joueur s'enfuit, le fantôme revient peu à peu sur son trajet initial. {% xfact "phantoms_feel_humans_closer_than_3m" %}
 
 Un joueur touché par un spectre est blessé et doit appeler à l'aide, en restant au sol - le MJ lui indiquera son malus. Le fantôme se **désintéresse** ensuite du blessé.
 
 Rappel : suite à certains évènements, un fantôme peut être atteint de **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**, ce qui est un peu comme une errance, mais avec des règles plus précises, et davantage de vivacité et d'agressivité.
 
-Lorsqu'un unique **son de gong** retentit, les fantômes errants repassent en **phase incarnée**, après être revenus à leur **point d'ancrage** s'ils en avaient un. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+Lorsqu'un unique **son de gong** retentit, les fantômes errants repassent en **phase incarnée**, après être revenus à leur **point d'ancrage** s'ils en avaient un. {% xfact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
 Les diacres peuvent détacher les morts de leur ancrage spirituel ; mais les fantômes libérés annoncent alors que les murs de la bibliothèque sont comme une prison (comme l'Ankou le leur avait signalé lors d'un ancien passage), et qu'ils ne peuvent toujours pas rejoindre l'au-delà ; ils peuvent cependant se rendre à l'étage interdit, sous forme incarnée ou non, si ce dernier a été ouvert.
 
-Noter que les êtres morts de **vieillesse**, comme la **Bête**, ne sont pas ancrés, ils errent librement qu'ils soient incarnés ou en errance ; le reste des règles s'applique à eux identiquement. {% fact "beings_dead_naturally_are_not_anchored" %}
+Noter que les êtres morts de **vieillesse**, comme la **Bête**, ne sont pas ancrés, ils errent librement qu'ils soient incarnés ou en errance ; le reste des règles s'applique à eux identiquement. {% xfact "beings_dead_naturally_are_not_anchored" %}
 
-En tant que fantôme, y compris la Bête : Prêtez attention aux **incantations de l'exorciste**, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour éviter cet exorciste, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une balle sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes, puis vous allez voir le MJ discrètement. Plus de détails ci-dessous. {% fact "beast_does_not_fear_rituals" %}
+En tant que fantôme, y compris la Bête : Prêtez attention aux **incantations de l'exorciste**, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour éviter cet exorciste, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une balle sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes, puis vous allez voir le MJ discrètement. Plus de détails ci-dessous. {% xfact "beast_does_not_fear_rituals" %}
 
 
 Les sorts d'exorcisme affectant les fantômes

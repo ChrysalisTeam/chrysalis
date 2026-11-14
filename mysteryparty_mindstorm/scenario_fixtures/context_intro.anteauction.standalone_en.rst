@@ -33,7 +33,7 @@ Each State obviously came with its own approach to the problem; **Masslavia** se
 
 **Everyone suspects that these countries are not content with diplomatic communiqués, and that they must have sent their best secret agents on site, to learn more about the discoveries of the gentleman of Salima. Regional accents are very pronounced on Pangea, so it is almost impossible to hide one's origin; but actually proving that an honest foreign bidder is in fact a spy... is no easy matter.**
 
-A few months have passed since the auctions were announced. A small sale of gems and artefacts, all fairly unremarkable, has already taken place; but the following auctions, which were meant to build up in quality, have been delayed by various incidents: threatening letters, hacking, attempted kidnappings or burglaries... {% fact 'loyd_georges_has_been_attacked_multiple_times' %}
+A few months have passed since the auctions were announced. A small sale of gems and artefacts, all fairly unremarkable, has already taken place; but the following auctions, which were meant to build up in quality, have been delayed by various incidents: threatening letters, hacking, attempted kidnappings or burglaries... {% xfact 'loyd_georges_has_been_attacked_multiple_times' %}
 
 Loyd Georges, determined to give the event fresh impetus, invites all participants to an **evening of private auctions**, in his manor.
 

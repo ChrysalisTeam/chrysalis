@@ -24,19 +24,19 @@ Informations diverses si enquête des joueurs
 
 Ces dernières semaines, Loyd Georges et son entourage ont subi de nombreuses attaques :
 
-- deux tentatives de cambrioler le manoir {% fact 'spinel_robs_lg_manor_fail' %} {% fact 'peridot_robs_lg_manor_fail' %}
-- cambriolage d'un entrepôt de Loyd Georges, heureusement vide de pièces de valeur {% fact 'malachite&spinel_rob_alifir_warehouse' %}
-- tentative d'enlèvement du Professeur Loakim  {% fact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
+- deux tentatives de cambrioler le manoir {% xfact 'spinel_robs_lg_manor_fail' %} {% xfact 'peridot_robs_lg_manor_fail' %}
+- cambriolage d'un entrepôt de Loyd Georges, heureusement vide de pièces de valeur {% xfact 'malachite&spinel_rob_alifir_warehouse' %}
+- tentative d'enlèvement du Professeur Loakim  {% xfact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
 - sans doute bien d'autres intrigues et tentatives de larcin, dont vous n'avez hélas pas eu vent...
 
 
 En ce qui concerne le jour des entretiens (la veille du jour actuel) :
 
-- Loyd Georges a reçu tôt le matin un étrange colis, dans un sac de toile brune, et l'a caché. Alphonse a gaffé en parlant de cela à Rydji devant l'inspecteur, causant par la suite une dispute entre le sir et l'inspecteur. Nul ne sait ce que Loyd Georges a fait du contenu, mais le sac en toile trainait, aux dernières nouvelles, sur une étagère de la bibliothèque. {% fact "alphonse_blunder_revealed_panorbium_fortuna_arrival" %} {% fact 'panorbium_fortuna_bag_remains_in_library' %}
+- Loyd Georges a reçu tôt le matin un étrange colis, dans un sac de toile brune, et l'a caché. Alphonse a gaffé en parlant de cela à Rydji devant l'inspecteur, causant par la suite une dispute entre le sir et l'inspecteur. Nul ne sait ce que Loyd Georges a fait du contenu, mais le sac en toile trainait, aux dernières nouvelles, sur une étagère de la bibliothèque. {% xfact "alphonse_blunder_revealed_panorbium_fortuna_arrival" %} {% xfact 'panorbium_fortuna_bag_remains_in_library' %}
 - le système de surveillance a été désactivé peu après {% symbol "12h" for "first_alarm_deactivation_time" %}, mais le majordome Rydji s'en est aperçu à son retour en début d'après-midi, et l'a réactivé. Nul ne sait pourquoi cela est arrivé.
 - Loyd Georges est le seul à avoir mangé de la blanquette de veau au dîner : l'inspecteur était parti, Alphonse aussi (au tripot {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}), et Rydji est végétarien.
 - Une partie du dîner avait été mise de côté, et donnée par le cuisinier au chien Bedou. *Celui-ci est finalement découvert mort derrière une sculpture du musée du 1er étage, pendant la soirée spéciale, avec la bouche et la langue enflées et irritées.*
-- Peu après la découverte de Loyd Georges inanimé, Rydji a vérifié qu'Opal dormait à poings fermés dans sa chambre (il ne réagissait pas du tout aux stimuli). {% fact "rydji_could_not_wake_up_opal_after_lg_troubles" %}
+- Peu après la découverte de Loyd Georges inanimé, Rydji a vérifié qu'Opal dormait à poings fermés dans sa chambre (il ne réagissait pas du tout aux stimuli). {% xfact "rydji_could_not_wake_up_opal_after_lg_troubles" %}
 - les poubelles ont été vidées par les services municipaux le lendemain matin, très tôt.
 
 

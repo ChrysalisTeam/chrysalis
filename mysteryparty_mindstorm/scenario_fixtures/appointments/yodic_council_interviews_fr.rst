@@ -11,11 +11,11 @@ Un haut-gradé akarite l'appelle donc pour voir ce qu'il pense de la "maturité"
 Exemple d'introduction :
 
 *Suis-je bien en présence de {{character_properties.malachite.official_name}} ? Votre secrétaire m'a redirigé vers ce poste téléphonique sabarite, peut-être que je vous dérange pendant vos vacances ?
-Je suis l'archidiacre Altos, et je vous appelle au nom de l'ordre des judicateurs akarites, afin de bénéficier de votre expertise sur quelques questions sensibles, en matière d'imprégnation de la théologie yodique parmi le peuple dorien.* {% fact 'malachite_official_is_expert_in_yodic_history' %}
+Je suis l'archidiacre Altos, et je vous appelle au nom de l'ordre des judicateurs akarites, afin de bénéficier de votre expertise sur quelques questions sensibles, en matière d'imprégnation de la théologie yodique parmi le peuple dorien.* {% xfact 'malachite_official_is_expert_in_yodic_history' %}
 
 L'archidiacre demande un avis global sur la conformité des doriens à la religion des judicateurs akarites, puis ce que les doriens pensent de tel ou tel dogme yodique (voir ci-dessous), puis si des citations yodiques sont couramment utilisées dans ce peuple.
 
-le joueur sera censé avoir récupéré un (incompréhensible) document sur la foi yodique, auprès du médiateur obéron, et s'en servir pour répondre de manière à discréditer les doriens (les forçant ainsi à rejoindre la coalition anti-akarite).  {% hint "yodic_hard_summary_for_malachite_via_oberon" is needed %}
+le joueur sera censé avoir récupéré un (incompréhensible) document sur la foi yodique, auprès du médiateur obéron, et s'en servir pour répondre de manière à discréditer les doriens (les forçant ainsi à rejoindre la coalition anti-akarite).  {% xitem "yodic_hard_summary_for_malachite_via_oberon" is needed %}
 
 L'archidiacre doit montrer joie ou dépit suivant les réponses reçues, et s'étonner des incohérences s'il en voit.
 

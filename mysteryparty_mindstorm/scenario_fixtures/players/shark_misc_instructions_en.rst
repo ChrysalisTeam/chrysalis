@@ -7,9 +7,9 @@ Running the evening
 Launching the evening
 ++++++++++++++++++++++++++++
 
-The bidders are invited to come well dressed, for the Opening Gala of Loyd Georges' Auctions. At the entrance, they go through a **body scanner**, and are informed that this certifies that none of them is carrying blades, firearms, or explosive substances (not even the small synthetic weapons fashionable among secret agents). {% fact 'shark_enforces_body_scanner_at_manor_entrance' as author %}
+The bidders are invited to come well dressed, for the Opening Gala of Loyd Georges' Auctions. At the entrance, they go through a **body scanner**, and are informed that this certifies that none of them is carrying blades, firearms, or explosive substances (not even the small synthetic weapons fashionable among secret agents). {% xfact 'shark_enforces_body_scanner_at_manor_entrance' as author %}
 
-Shark has also set up an **electromagnetic signal jammer**, so the guests' mobile phones can no longer make/receive "normal" calls (but WIFI is not affected). {% fact 'shark_blocks_mobile_network_around_manor' as author %}
+Shark has also set up an **electromagnetic signal jammer**, so the guests' mobile phones can no longer make/receive "normal" calls (but WIFI is not affected). {% xfact 'shark_blocks_mobile_network_around_manor' as author %}
 
 The guests begin to enjoy aperitifs and chat, while awaiting the arrival of their host. It is also an opportunity to get better acquainted. Musical ambience: classical, harpsichord, nobility and gaiety... even if the servants seem strangely gloomy.
 

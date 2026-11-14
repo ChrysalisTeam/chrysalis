@@ -14,7 +14,7 @@ For your information, your salary as a scientist is 3 kilokashes per year.
 ======================================
 
 <{ pneumatic_tubes }/>
-{% hint "pneumatic_tube_for_waden" is needed %}
+{% xitem "pneumatic_tube_for_waden" is needed %}
 
 <{ graphological_analysis }/>
 

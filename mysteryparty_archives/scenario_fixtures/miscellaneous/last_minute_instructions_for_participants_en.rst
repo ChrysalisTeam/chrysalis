@@ -16,7 +16,7 @@ INFORMATION FOR ALL:
 
 - The phantoms (including the Beast), and the avatars, **cannot see each other**. But all can see the Ankou, who is divine.
 
-- The avatars cannot handle novels, neither their own nor those of others; the other books and grimoires remain accessible to them, however. {% fact "avatars_cannot_carry_novels" %}
+- The avatars cannot handle novels, neither their own nor those of others; the other books and grimoires remain accessible to them, however. {% xfact "avatars_cannot_carry_novels" %}
 
 - Note the well-known and acknowledged presence of a **sentinel automaton**, armed with a Nerf gun.
 
@@ -35,7 +35,7 @@ INFORMATION FOR ALL:
 FOR THE PHANTOMS:
 
 - You switch on your light-up gloves, and cover your faces, only during your WANDERINGS and spectral frenzies, not when you are in the "embodied phase".
-- Triggers: you switch to wandering when the BELLS ring (or the spectral frenzy table bell, which triggers an intense soundtrack); you switch back to embodied (potentially ANCHORED) when the GONG rings. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+- Triggers: you switch to wandering when the BELLS ring (or the spectral frenzy table bell, which triggers an intense soundtrack); you switch back to embodied (potentially ANCHORED) when the GONG rings. {% xfact "bell_and_gong_sounds_trigger_phantom_phases" %}
 - **IMPORTANT CHANGE**: at the very start of the game, you will not be there straight away, and will appear in the wandering phase!
 - We will need to test the phantoms' WINGS, which will be used for the epilogue, for example: feathers for the Arkon, LEDs for the Archivist, steampunk for Octave
 - THIEF: When the players arrive on the forbidden floor, you are already wandering, dangerous. When you become embodied, it must be at your anchor point. Then switch on the "pirate" soundtrack that goes with your role. Unlike the other phantoms, your switches between wandering and embodiment do not depend on the gong and bell sounds, because you are wandering far more often than they are - so this must be arranged with the Game Master.
@@ -107,7 +107,7 @@ FINAL BRIEFING OF PLAYERS+NPC ACTORS
 - Who would be at risk of epilepsy in case of a stroboscopic effect?
 - Photographs: ask everyone again who is OK with image rights
 - Web terminal for clues and runic translations
-- Silver bucket for used objects (e.g. for used padlocks, keys or potions) {% hint 'basket_for_precious_items' is needed %}
+- Silver bucket for used objects (e.g. for used padlocks, keys or potions) {% xitem 'basket_for_precious_items' is needed %}
 - Announce: "Besides being Game Master, I will myself be present in-game! Spoiler: I will be a Djinn, a harmless character who knows plenty of things about this universe, so do not hesitate to call on me if you have questions about the History of Pangea for example; it is not cheating, it is part of the game! All my possessions are however OUT-OF-GAME!"
 
 **Miscellaneous advice:**

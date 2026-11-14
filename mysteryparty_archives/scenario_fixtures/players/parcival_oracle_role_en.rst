@@ -18,13 +18,13 @@ Sometimes, prophecies fall upon you without warning. But far more often, they oc
 
 You can also trigger revelations by touching objects with a heavily charged past.
 
-*Out-of-game note*: These revelation triggers are materialised by **coloured feathers**; announce them to another clairvoyant person or to the GM when you find some. {% fact "oracle_revelations_are_triggered_by_colored_feathers" %}
+*Out-of-game note*: These revelation triggers are materialised by **coloured feathers**; announce them to another clairvoyant person or to the GM when you find some. {% xfact "oracle_revelations_are_triggered_by_colored_feathers" %}
 
-You have always dreamed of coming across a **mother-of-pearl unicorn, or an incense fountain, or a five-leaf clover**. Such encounters mean the coming of particularly vivid prophecies, from the depths of the invisible world; provided, at least, that the seer knows how to activate such artefacts, which will lose their power as soon as their role is fulfilled. The Alchemist of your group can help on this matter. {% fact "incense_fountain_can_deliver_powerful_prophecy" %} {% hint "incense_fountain" is needed %} {% fact "parcival_alchemist_can_create_incense_cone" %}
+You have always dreamed of coming across a **mother-of-pearl unicorn, or an incense fountain, or a five-leaf clover**. Such encounters mean the coming of particularly vivid prophecies, from the depths of the invisible world; provided, at least, that the seer knows how to activate such artefacts, which will lose their power as soon as their role is fulfilled. The Alchemist of your group can help on this matter. {% xfact "incense_fountain_can_deliver_powerful_prophecy" %} {% xitem "incense_fountain" is needed %} {% xfact "parcival_alchemist_can_create_incense_cone" %}
 
 Certain exceptional prophecies appear and address those present by themselves. You have heard that some old paintings, once covered with a dose of **Lotion of Revelation**, have delivered such wonders.
-{% fact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
-{% fact "parcival_oracle_knows_about_scary_lenticular_paintings" %}
+{% xfact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
+{% xfact "parcival_oracle_knows_about_scary_lenticular_paintings" %}
 
 
 Revelations of the "visual" type
@@ -66,6 +66,6 @@ At times you have, not enigmatic revelations, but just strong attractions or app
 You then communicate them to your relatives as faithfully as possible, without necessarily going into a trance to do so.
 
 As you take the portal to the Maupertuis Archives, you in fact receive a powerful image in your mind: **several groups of lambs fleeing from wolves, and taking refuge, huddled against one another, in the centre of the forest. A clamour rises: "United we shall stand, divided we shall fall".** *(Out-of-game note: you will have the opportunity to declaim this intuition in front of all the players, at the end of the musical introductory speech delivered by the Game Master.)*
-{% fact "parcival_oracle_has_initial_intuition_about_adventurers_solidarity" %}
+{% xfact "parcival_oracle_has_initial_intuition_about_adventurers_solidarity" %}
 
-{% hint "parcival_oracle_intuition_hints" is needed %}
+{% xitem "parcival_oracle_intuition_hints" is needed %}

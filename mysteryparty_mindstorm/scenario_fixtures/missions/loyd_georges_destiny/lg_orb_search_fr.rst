@@ -1,7 +1,7 @@
 MISSION - L'orbe de Loyd Georges
 ===========================================
 
-{% fact 'agent_mission_seek_lg_orb' %}
+{% xfact 'agent_mission_seek_lg_orb' %}
 
 Agent,
 

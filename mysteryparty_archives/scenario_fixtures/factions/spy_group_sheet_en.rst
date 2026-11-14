@@ -12,7 +12,7 @@ One of you specialises in lockpicking, and in reading the magnetic fields on obj
 Your tiny country lived in peace, until its mining and maritime riches aroused the greed of its powerful neighbours. The victim of dark economic plots, Mirandia is now heavily in debt, at risk of being annexed by the highest bidder.
 
 Your country must now find the means to repay **500 kashes per day for 3 years**, which is enormous.
-{% fact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
+{% xfact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
 
 As a last resort, the Mirandian prince sent you on the trail of a **dynastic treasure** that belonged to the Maupertuis - an ancient lineage of healer-mages who had always lived in comfort, without ever charging for their services. Your research led you to the ruins of their manor, in the land of {% symbol "Thelassar" for "events_region_name" %}, a manor that was once sacked by fanatics. Your chances of recovering these riches were becoming very slim.
 

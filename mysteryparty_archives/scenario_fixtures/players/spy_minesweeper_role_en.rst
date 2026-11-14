@@ -20,7 +20,7 @@ You are able to recognise and secure the dangerous passages of old buildings: wa
 
 *Out-of-game notes*:
 
-Dangers are simulated by thin white threads (and not hemp ropes) stretched across the path, with jingle bells attached; it is up to you to tell the other players whether it is a natural weakness or an artificial trap, depending on whether the area is normally habitable, or a hidden sanctuary. {% hint "thin_white_wire_and_bells_to_represent_traps" is needed %}
+Dangers are simulated by thin white threads (and not hemp ropes) stretched across the path, with jingle bells attached; it is up to you to tell the other players whether it is a natural weakness or an artificial trap, depending on whether the area is normally habitable, or a hidden sanctuary. {% xitem "thin_white_wire_and_bells_to_represent_traps" is needed %}
 
 It is possible to go around these threads, or even to pass over or under them, but bumping into them triggers an accident.
 
@@ -34,7 +34,7 @@ Feel free to lay on the theatrics, to set up a safety perimeter for your interve
 Sticks of explosives
 ++++++++++++++++++++++++++
 
-You have **2 sticks of dynamite** with you. Each can be used to clear a pre-existing **rockfall** in the library; this rockfall is materialised by crumpled cardboard and labels. Intact walls, furniture and books are still protected by enchantments, and will not react to explosives. {% hint "2_explosives_for_minesweeper" is needed %}
+You have **2 sticks of dynamite** with you. Each can be used to clear a pre-existing **rockfall** in the library; this rockfall is materialised by crumpled cardboard and labels. Intact walls, furniture and books are still protected by enchantments, and will not react to explosives. {% xitem "2_explosives_for_minesweeper" is needed %}
 
 *Out-of-game note: Check with the Game Master to use this ability, and simulate "getting everyone to safety" during the countdown.*
 
@@ -45,7 +45,7 @@ Supply of luminis
 You have brought with you a bag of "luminis", small glowing self-contained lights.
 
 They can (dimly) light up an area of the library. But they can also be used to mark out safe paths, to highlight points of interest or danger, or for any other use - as you see fit.
-{% hint 'mini_candles_for_minesweeper' is needed %}
+{% xitem 'mini_candles_for_minesweeper' is needed %}
 
 *Out-of-game note: These LED candles must be provided to you before the game by the organisers.*
 
@@ -57,7 +57,7 @@ You have always had a genuine passion for **mechanical and robotic inventions**.
 
 With the progress made in diphasic gears, neodymium compressors and proprioceptive sensors, within a few decades autonomous machines will spread across the world, you are enthusiastically certain of it. Even if the intelligence of these machines will remain very rudimentary for a long time.
 
-*You may improvise scientific terms and inventions in this field as you please, as long as they are spoken with conviction and remain within this "steampunk" (steam-powered retro-futuristic) level of technology.* {% fact "spy_minesweeper_likes_building_robots" as author %}
+*You may improvise scientific terms and inventions in this field as you please, as long as they are spoken with conviction and remain within this "steampunk" (steam-powered retro-futuristic) level of technology.* {% xfact "spy_minesweeper_likes_building_robots" as author %}
 
 
 

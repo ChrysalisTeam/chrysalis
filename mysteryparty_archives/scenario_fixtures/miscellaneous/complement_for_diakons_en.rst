@@ -54,9 +54,9 @@ By dint of coming across antique objects or objects tinged with mysterious auras
 You will however need to turn to the right expert to learn more about most of these properties.
 
 *Out-of-game explanations*: If you come across a **gold star** on an object, it means it probably has magical properties; if geometric symbols are present next to the gold star, the object may be cursed; only a Dispeller can know for sure. If a **silver star** is present, it indicates an object of interest from a scientific point of view, to be analysed. If you see a **coloured feather**, it may indicate an energy linked to the gifts of prophecy, which will interest mediums.
- {% fact "sticker_gold_star_means_magical_analysis" %}
- {% fact "sticker_silver_star_means_physical_analysis" %}
- {% fact "oracle_revelations_are_triggered_by_colored_feathers" %}
+ {% xfact "sticker_gold_star_means_magical_analysis" %}
+ {% xfact "sticker_silver_star_means_physical_analysis" %}
+ {% xfact "oracle_revelations_are_triggered_by_colored_feathers" %}
 
 {% endmacro %}
 <{ section_with_recognition_of_artefacts }/>

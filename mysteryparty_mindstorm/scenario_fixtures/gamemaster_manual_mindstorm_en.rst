@@ -105,12 +105,12 @@ Recurring mechanics for the players
   - study of possible motives
   - verification of alibis:
 
-    - the Lordanians have no easily verifiable alibis {% fact "amethyst_alibi_is_void" as author %} {% fact "garnet_alibi_is_void" %}
-    - the Masslavians have alibis that are compromising for them {% fact "malachite_alibi_is_illegal" as author %} {% fact "spinel_alibi_is_illegal" %}
-    - the Dorians have neutral and solid alibis, as does Cynthia {% fact "peridot_topaz_alibi_is_strong" %} {% fact "cynthia_alibi_is_strong" %}
-    - Opal was asleep in his room at the manor, under sleeping pills {% fact "opal_alibi_is_average" %}
-    - Lydia has a good alibi, but one that reveals Khaal's location {% fact "lydia_alibi_is_revealing" %}
-    - Waden cannot reveal where he was without putting himself in danger {% fact "waden_alibi_is_revealing" %}
+    - the Lordanians have no easily verifiable alibis {% xfact "amethyst_alibi_is_void" as author %} {% xfact "garnet_alibi_is_void" %}
+    - the Masslavians have alibis that are compromising for them {% xfact "malachite_alibi_is_illegal" as author %} {% xfact "spinel_alibi_is_illegal" %}
+    - the Dorians have neutral and solid alibis, as does Cynthia {% xfact "peridot_topaz_alibi_is_strong" %} {% xfact "cynthia_alibi_is_strong" %}
+    - Opal was asleep in his room at the manor, under sleeping pills {% xfact "opal_alibi_is_average" %}
+    - Lydia has a good alibi, but one that reveals Khaal's location {% xfact "lydia_alibi_is_revealing" %}
+    - Waden cannot reveal where he was without putting himself in danger {% xfact "waden_alibi_is_revealing" %}
 
   - study of scientific reports (forensic, ballistic...)
   - recovery of clues, on site or via external agents
@@ -163,9 +163,9 @@ The Sabarith secret services, for their part, are aware that things are not righ
 
 The Sabarith agent Obsidian, present at the evening as "Inspector Shark's deputy", must among other things investigate these infiltrated Akariths.
 
-- the Masslavian agents know that the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %} serves as a den for Akarith Purifiers {% fact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
+- the Masslavian agents know that the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %} serves as a den for Akarith Purifiers {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
 - Cynthia receives a misspelt trap message which, once geolocated, points to the address of the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %}
-- the card game sold by Alphonse contains a coded message announcing a meeting of the Purifiers at the Purineur Brasserie. {% hint 'card_game_with_unreadable_manual' is needed %}
+- the card game sold by Alphonse contains a coded message announcing a meeting of the Purifiers at the Purineur Brasserie. {% xitem 'card_game_with_unreadable_manual' is needed %}
 - a strange radio spot gives the Purineur Brasserie some rather counter-productive publicity
 
 If agent Obsidian reports one of these 2 bars to Inspector Shark, nothing happens.
@@ -173,7 +173,7 @@ On the other hand, the Sabarith secret services can raid it.
 
 Findings brought back by the raid:
 
-- coded message {% symbol "MO IS COVERING US - DELIVERY OK – 17 AUBONPICHET TAVERNS SUBDUED OUT OF 1238" for "akarith_sect_coded_message" %}, decipherable with Cynthia's help. {% fact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
+- coded message {% symbol "MO IS COVERING US - DELIVERY OK – 17 AUBONPICHET TAVERNS SUBDUED OUT OF 1238" for "akarith_sect_coded_message" %}, decipherable with Cynthia's help. {% xfact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
 - pocket watch which, once biophysically analysed via Anthropia, reveals Lordanian metals, Akarith pollens in the drug as well as "lime-blossom liqueur vapours" in the drug (which narrows it down to about 80 AuBonPichet taverns serving this drink); the World Scanner, for its part, gives about ten zones in the big Akarith cities, zones containing in total about 50 AuBonPichet taverns. Having both clues makes it possible to pinpoint exactly the 17 subdued taverns.
 
 The consuls may raise hell, internally, following this first investigation into a gambling den they are trying to protect.
@@ -340,7 +340,7 @@ If questioned, old Alphonse tells of the arrival of this parcel very early, the 
 To progress in the investigation, the players can choose to:
 
 - recover the **8:00-10:00 camera recordings**, which show Loyd Georges handling a fake book **"Venture Prins"** in the library
-- have someone fetch the brown canvas bag from the LIBRARY, a bag containing a note mentioning the "Venture Prins"  {% fact 'panorbium_fortuna_bag_remains_in_library' %}
+- have someone fetch the brown canvas bag from the LIBRARY, a bag containing a note mentioning the "Venture Prins"  {% xfact 'panorbium_fortuna_bag_remains_in_library' %}
 
 The next step is then to recover the "Venture Prins" from the library, once again by paying the Oberon or by blackmailing old Alphonse into doing it himself.
 
@@ -377,11 +377,11 @@ Opal has been ill since he was poisoned by the Akarith sect of the "Purifiers".
 He was told in confidence by Loyd Georges that there might be a way to cure him thanks to an ancient Yodic potion, the Berserk Elixir, and that they would talk about it again after the special evening.
 
 At the start of the evening, Rydji hands him a letter from {% symbol "Rodok" for "lg_adventurer_friend_name" %}, which Loyd Georges had set aside "just in case". This letter contains the basic recipe of the Elixir:
-{% fact "opal_knows_about_berserk_elixir" %} {% hint "letter_from_rodok_forwarded_to_opal" is needed %}
+{% xfact "opal_knows_about_berserk_elixir" %} {% xitem "letter_from_rodok_forwarded_to_opal" is needed %}
 
 {# RECIPE SLIGHTLY DIFFERENT FROM THE ONE IN THE CHRYSALIS:DESCENT RPG, TO PREVENT CHEATING #}
-- blue aquatic mushroom (found in the cave of Nazur, available in Alphonse's private sale)  {% hint 'blue_aquatic_mushroom_juice' is needed %}
-- cave octopus tentacle (found in the cave of Nazur, available in Alphonse's private sale)  {% hint 'octopus_tentacle_in_bottle' is needed %}
+- blue aquatic mushroom (found in the cave of Nazur, available in Alphonse's private sale)  {% xitem 'blue_aquatic_mushroom_juice' is needed %}
+- cave octopus tentacle (found in the cave of Nazur, available in Alphonse's private sale)  {% xitem 'octopus_tentacle_in_bottle' is needed %}
 - small tangy red fruit (Akarith red plum, available as a liqueur in the antique canister (the "Tectonic Canister" lot) sold at auction)
 
 The Lordanians have also got wind of this Elixir, and they are interested in seeing its effects on Opal, to gauge its usefulness for their infantry.
@@ -455,7 +455,7 @@ The recorded dialogues between Opal and Lydia, the letter from Emilos Loakim sto
 
 Lydia and Opal must get him out of the thalassotherapy centre of the misty mountains as soon as possible.
 
-An attack by several factions (Akariths, and mercenaries of {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}) eventually occurs there. {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %} has indeed always sought to get hold of Loyd Georges' manor, and he is counting on vile blackmail to do so. {% fact "lord_mac_jolt_wants_to_blackmail_lg_via_khaal" %}
+An attack by several factions (Akariths, and mercenaries of {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}) eventually occurs there. {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %} has indeed always sought to get hold of Loyd Georges' manor, and he is counting on vile blackmail to do so. {% xfact "lord_mac_jolt_wants_to_blackmail_lg_via_khaal" %}
 
 If Khaal was still on site, he and his chaperone are fortunately rescued by {% symbol "Count Blispin" for "lg_close_friend_lord_name" %}, who was watching the scheming of {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, and protecting Loyd Georges' loved ones at the latter's request.
 
@@ -526,7 +526,7 @@ Trying to keep the treasure entirely for oneself may therefore result in complet
 - the old neighbour's farm previously belonged to Loyd Georges, she has heard of the disappearance of the "Precious Cauldron"
 
 - a mysterious encrypted scroll is in Loyd Georges' safe, along with his will, and it is bequeathed to Cynthia.
-- the inherited scroll mentions the "roots of the baobab", in the form of a secret code that Opal can decipher  {% fact "opal_knows_standard_secret_codes" as author %}
+- the inherited scroll mentions the "roots of the baobab", in the form of a secret code that Opal can decipher  {% xfact "opal_knows_standard_secret_codes" as author %}
 - Loyd Georges' servants are categorical, there has never been a single baobab on the Loyd estate; but this word reminds them of an anecdote about the young Loyd Markis, they no longer remember which.
 - an excerpt from Loyd Markis's biography indicates that for him the Baobab is "the majestic tree whose fruit is on the lips of the autumnal bust"
 - this refers to one of Arcimboldo's Four Seasons paintings, displayed on the wall; the bust representing Autumn has a chestnut for a mouth
@@ -545,10 +545,10 @@ The secret of the atoms and Prof. Voluto
 
 **The laboratory to be destroyed**
 
-The physicist Waden Shaw officially, then unofficially, worked with Prof. Voluto, on the trail of an "atomic supernova" obtainable by refining {% symbol "Uranium-234" for "most_dangerous_radioactive_material" %}.  {% fact "waden_secretly_worked_with_voluto_on_radioactivity" as author %}
+The physicist Waden Shaw officially, then unofficially, worked with Prof. Voluto, on the trail of an "atomic supernova" obtainable by refining {% symbol "Uranium-234" for "most_dangerous_radioactive_material" %}.  {% xfact "waden_secretly_worked_with_voluto_on_radioactivity" as author %}
 
 Prof. Voluto tried to sell his discoveries to various countries, so Waden had a violent quarrel with him at the Alifir Academy.
-The video recordings of this quarrel were stolen by agents of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}.  {% fact "voluto_death_day_academy_recordings_disappeared" %}
+The video recordings of this quarrel were stolen by agents of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}.  {% xfact "voluto_death_day_academy_recordings_disappeared" %}
 
 Shortly afterwards, on that very day, the Sabarith agent Obsidian was caught by Prof. Voluto while searching his home, and the old man accidentally died in the ensuing struggle.
 
@@ -566,7 +566,7 @@ For her part, the Sabarith agent Obsidian can also try to make Waden see reason,
 
 Furthermore, Waden was recently contacted by an agent of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, {% symbol "Elezie" for "waden_blackmailer_lady_name" %}, who seeks to blackmail him using the video recordings from the Academy. She entrusted him with three granite samples to analyse, to test his willingness to cooperate and guide their supplies of radioactive raw materials.
 
-Waden receives the final results of his analysis during the evening. He can decide to tell the blackmailers the truth, or to lie to them (potentially pulling off a scam in the process, since one of the granites comes from the Hydroland site owned by Opal). In any case, {% symbol "Balberith" for "waden_blackmailer_lady_country" %} believes him and does everything to acquire the land it believes to be full of precious ore, even if it means creating a geopolitical crisis. {% fact "balberith_has_poor_atom_analysis_technology" %}
+Waden receives the final results of his analysis during the evening. He can decide to tell the blackmailers the truth, or to lie to them (potentially pulling off a scam in the process, since one of the granites comes from the Hydroland site owned by Opal). In any case, {% symbol "Balberith" for "waden_blackmailer_lady_country" %} believes him and does everything to acquire the land it believes to be full of precious ore, even if it means creating a geopolitical crisis. {% xfact "balberith_has_poor_atom_analysis_technology" %}
 
 On the other hand, when {% symbol "Elezie" for "waden_blackmailer_lady_name" %} demands Prof. Voluto's work, Waden must find a solution, whether by cooperating, or by mounting a media counter-offensive thanks to Cynthia so that the blackmail falls through, or by having Obsidian intercept the recordings that {% symbol "Elezie" for "waden_blackmailer_lady_name" %}, as a last resort, would send to Shark.
 
@@ -595,7 +595,7 @@ They can also take the initiative, by challenging each other "for show" before o
 The burglaries of Cynthia's flat
 ------------------------------------------------
 
-By cross-checking the information from an old email of Cynthia's with a picture of her building, a player can determine exactly where she lives, and plan a burglary (but beware, the Oberons must not know that it concerns their client Cynthia, otherwise they refrain). {% hint "cynthia_wetfeet_building_picture" is needed %}
+By cross-checking the information from an old email of Cynthia's with a picture of her building, a player can determine exactly where she lives, and plan a burglary (but beware, the Oberons must not know that it concerns their client Cynthia, otherwise they refrain). {% xitem "cynthia_wetfeet_building_picture" is needed %}
 
 It is assumed that no external information (mailbox, name on the door...) makes it possible to find Cynthia's studio flat.
 
@@ -610,13 +610,13 @@ Opening Loyd Georges' safe
 
 The Tabellion gathers the guests around Loyd Georges' safe, to read the draft will.
 
-He has on him (and not in his briefcase) the key to the safe, but he lacks Loyd Georges' secret code and magnetic card. {% fact "notary_has_lg_vault_key" as author %}
+He has on him (and not in his briefcase) the key to the safe, but he lacks Loyd Georges' secret code and magnetic card. {% xfact "notary_has_lg_vault_key" as author %}
 
 **Rydji says that Loyd Georges always noted the latest code of the safe in a "{% symbol "small tissue box" for "lg_vault_secret_code_location" %}" that was lying around in the dining room, but that this box has disappeared in the commotion of preparing the evening.**
 
 **Alphonse had been told by Loyd Georges where the latter kept his golden magnetic pass, somewhere in the dining room, but he has forgotten where.**
 
-The session is therefore postponed; and Alphonse, instead of searching by himself, enlists all the guests to search the reception hall, looking for these 2 elements. {% hint 'lg_vault_pass_card' is needed %} {% hint 'lg_vault_secret_code' is needed %}
+The session is therefore postponed; and Alphonse, instead of searching by himself, enlists all the guests to search the reception hall, looking for these 2 elements. {% xitem 'lg_vault_pass_card' is needed %} {% xitem 'lg_vault_secret_code' is needed %}
 
 Once these elements are found (or if the secret agent who knows how to hack magnetic cards volunteers), everyone opens the safe together.
 

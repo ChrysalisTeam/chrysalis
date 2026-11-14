@@ -1,7 +1,7 @@
 MISSION - L'alliance avec Sabarim
 =====================================
 
-{% fact 'agent_mission_lordania_sabarim_alliance' %}
+{% xfact 'agent_mission_lordania_sabarim_alliance' %}
 
 Agents,
 

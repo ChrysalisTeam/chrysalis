@@ -33,7 +33,7 @@ Chaque État est évidemment venu avec sa propre approche du problème ; la **Ma
 
 **Tout le monde se doute bien que ces pays ne se contentent pas de communiqués diplomatiques, et qu'ils ont dû envoyer leurs meilleurs agents secrets sur place, pour en apprendre davantage sur les découvertes du sir de Salima. Les accents régionaux sont très prononcés sur Pangéa, il est donc presque impossible de masquer son origine ; mais de là à apporter la preuve qu'un brave enchérisseur étranger est en réalité un espion... difficile.**
 
-Quelques mois se sont écoulés depuis l'annonce des enchères. Une petite vente de gemmes et d'artefacts, tous assez anecdotiques, a déjà eu lieu ; mais les enchères suivantes, qui devaient aller crescendo en qualité, ont été retardées par divers incidents : lettres de menaces, piratages, tentatives d'enlèvement ou de cambriolage... {% fact 'loyd_georges_has_been_attacked_multiple_times' %}
+Quelques mois se sont écoulés depuis l'annonce des enchères. Une petite vente de gemmes et d'artefacts, tous assez anecdotiques, a déjà eu lieu ; mais les enchères suivantes, qui devaient aller crescendo en qualité, ont été retardées par divers incidents : lettres de menaces, piratages, tentatives d'enlèvement ou de cambriolage... {% xfact 'loyd_georges_has_been_attacked_multiple_times' %}
 
 Loyd Georges, décidé à donner une nouvelle impulsion à l'évènement, convie tous les participants à une **soirée de ventes aux enchères privées**, dans son manoir.
 

@@ -18,7 +18,7 @@ How the different worlds work
 Fundamental principles
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-**In short, the worlds of the phantoms (including the Beast) and of the avatars are completely separate: they can neither see nor sense each other, nor hear one another, and it is important to simulate these gaps realistically in every interaction. On the other hand, both of these worlds can see and hear the living (the players), as well as the automatons (the servants). The automatons see everyone except the phantoms; and everyone can see and be seen by the Ankou.** {% fact "phantom_and_avatar_worlds_are_disjoint" %}
+**In short, the worlds of the phantoms (including the Beast) and of the avatars are completely separate: they can neither see nor sense each other, nor hear one another, and it is important to simulate these gaps realistically in every interaction. On the other hand, both of these worlds can see and hear the living (the players), as well as the automatons (the servants). The automatons see everyone except the phantoms; and everyone can see and be seen by the Ankou.** {% xfact "phantom_and_avatar_worlds_are_disjoint" %}
 
 This behaviour of the different worlds comes as a surprise to all the NPC actors (except, at a stretch, the Arkon, who had some inkling of it); they must therefore be intrigued when the players "talk to thin air", then gradually come to understand how all this works, and realise (for the phantoms) why the automatons sometimes start moving on their own, why certain objects from the world of the living float about in mid-air, and so on.
 
@@ -45,7 +45,7 @@ Advice for the NPC actors
 Reminder of the fundamental principle
 ++++++++++++++++++++++++++++++++++++++++
 
-Stay focused on this point: the worlds of the phantoms and of the avatars are hermetically sealed from each other. The avatars cannot see/hear/sense the phantoms (nor the Beast), and vice versa. On the other hand, all of them can see/hear the living and the automatons; the latter, being mechanical, cannot see the phantoms. And all of them can see/hear the Ankou (who belongs to the "divine" world), as well as the renegade Djinn (the Game Master), who has been made visible (but immaterial) by the Diakons. {% fact "phantom_and_avatar_worlds_are_disjoint" %}
+Stay focused on this point: the worlds of the phantoms and of the avatars are hermetically sealed from each other. The avatars cannot see/hear/sense the phantoms (nor the Beast), and vice versa. On the other hand, all of them can see/hear the living and the automatons; the latter, being mechanical, cannot see the phantoms. And all of them can see/hear the Ankou (who belongs to the "divine" world), as well as the renegade Djinn (the Game Master), who has been made visible (but immaterial) by the Diakons. {% xfact "phantom_and_avatar_worlds_are_disjoint" %}
 
 The phantoms can be recognised by their **purple tunic**, and the automatons by their **{% symbol "white ribbons" for "automaton_symbolic_cloth" %}**. The avatars have no particular distinguishing sign, just a costume matching their novel character.
 
@@ -66,9 +66,9 @@ Steering the players towards the right people
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Octave, the Archivist and the Arkon can refer the players to one another when asked for information they have forgotten about the Maupertuis household or the library curse.
-- If a player is looking for information about the automatons, or has a tool to repair, steer them towards the Inventor.  {% fact "inventor_can_repair_items" %}
-- If it is about gifts of sight, the Duchess is the best placed. {% fact "duchess_knowns_about_prophecies" %}
-- If it is about herbalism (for potions) or gemmology, the Druid may have a few answers. {% fact "druid_known_about_plants_and_gems" %}
+- If a player is looking for information about the automatons, or has a tool to repair, steer them towards the Inventor.  {% xfact "inventor_can_repair_items" %}
+- If it is about gifts of sight, the Duchess is the best placed. {% xfact "duchess_knowns_about_prophecies" %}
+- If it is about herbalism (for potions) or gemmology, the Druid may have a few answers. {% xfact "druid_known_about_plants_and_gems" %}
 - If a player is injured, depending on the type of injury, call upon the avatar who could heal them
  {# ABORTED (which is not without danger) { % fact "avatar_abilities_are_randomly_hazardous" % } #}
 
@@ -123,36 +123,36 @@ So, when they are embodied and conscious of their actions, they react to the oth
 Embodiment, anchoring and spectral wandering of the phantoms
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 {# TODO REVIEW THIS CHAPTER STRONGLY #}
-{% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+{% xfact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
-Any phantom NPC actor who died violently is initially **anchored** to a small lit area, which was the place of their violent death. {% fact "beings_dead_violently_are_anchored" %}
+Any phantom NPC actor who died violently is initially **anchored** to a small lit area, which was the place of their violent death. {% xfact "beings_dead_violently_are_anchored" %}
 They are then in the **embodied phase**: they have a human appearance, can communicate normally, their face is uncovered, and their light-up gloves are switched off.
 They can handle a few props representing them; they nevertheless retain a certain slowness in their movements, and if possible a pallid face.
 
 When the **bells** ring (or the spectral frenzy **table bell**), the phantom switches to spectral, disembodied mode, and goes wandering through the library (including the Forbidden Domain if it has been opened).
 
-This wandering phase also occurs for a phantom who has been released from their anchoring (see below), but far less often. {% fact "anchored_phantoms_turn_more_often_into_specters" %}
+This wandering phase also occurs for a phantom who has been released from their anchoring (see below), but far less often. {% xfact "anchored_phantoms_turn_more_often_into_specters" %}
 
 Wandering is done by walking not too fast, arms more or less outstretched in front, breathing in and out in a long, hoarse way (no overly clichéd "booo" noise). The phantom must have their face covered with the veil, and their light-up gloves switched on.
 
 Movement is faster and more aggressive for a character who led a life heavy with sins (e.g. the Thief).
-{% fact "phantoms_of_sinners_have_faster_specters" %}
+{% xfact "phantoms_of_sinners_have_faster_specters" %}
 
 To play fair, a spectre should plan its rounds a little in advance (in a circle, in a figure of eight, passing through certain dead-ends or not), and not deviate too much from this route, even if the players have meanwhile gathered somewhere else. But do not hesitate to put a little more pressure on the players if they are too relaxed.
 
-Warning: if a spectre passes **within 3 m of a player**, lit or not, it "senses" them and quickens its pace, veering towards them. If the player runs away, the phantom gradually returns to its initial route. {% fact "phantoms_feel_humans_closer_than_3m" %}
+Warning: if a spectre passes **within 3 m of a player**, lit or not, it "senses" them and quickens its pace, veering towards them. If the player runs away, the phantom gradually returns to its initial route. {% xfact "phantoms_feel_humans_closer_than_3m" %}
 
 A player touched by a spectre is injured and must call for help, while remaining on the ground - the GM will tell them their penalty. The phantom then **loses interest** in the injured player.
 
 Reminder: following certain events, a phantom may be seized by **{% symbol "spectral frenzy" for "phantom_frenzy_name" %}**, which is a bit like wandering, but with more precise rules, and more liveliness and aggressiveness.
 
-When a single **gong sound** rings out, the wandering phantoms switch back to the **embodied phase**, after having returned to their **anchor point** if they had one. {% fact "bell_and_gong_sounds_trigger_phantom_phases" %}
+When a single **gong sound** rings out, the wandering phantoms switch back to the **embodied phase**, after having returned to their **anchor point** if they had one. {% xfact "bell_and_gong_sounds_trigger_phantom_phases" %}
 
 The Diakons can detach the dead from their spiritual anchoring; but the released phantoms then announce that the walls of the library are like a prison (as the Ankou had pointed out to them during a previous visit), and that they still cannot pass on to the afterlife; they can however go to the forbidden floor, in embodied form or not, if it has been opened.
 
-Note that beings who died of **old age**, like the **Beast**, are not anchored; they roam freely whether embodied or wandering; the rest of the rules apply to them identically. {% fact "beings_dead_naturally_are_not_anchored" %}
+Note that beings who died of **old age**, like the **Beast**, are not anchored; they roam freely whether embodied or wandering; the rest of the rules apply to them identically. {% xfact "beings_dead_naturally_are_not_anchored" %}
 
-As a phantom, including the Beast: Pay attention to the **incantations of the Exorcist**, who can drive you away (by switching you back to spectral form) or draw you slowly towards him (in embodied form); even the Beast does nothing to avoid this Exorcist, because it is not supposed to know his powers. And if you are hit by a sacred bullet, you leave at random, moaning in spectral form, for a few minutes, then you go and see the GM discreetly. More details below. {% fact "beast_does_not_fear_rituals" %}
+As a phantom, including the Beast: Pay attention to the **incantations of the Exorcist**, who can drive you away (by switching you back to spectral form) or draw you slowly towards him (in embodied form); even the Beast does nothing to avoid this Exorcist, because it is not supposed to know his powers. And if you are hit by a sacred bullet, you leave at random, moaning in spectral form, for a few minutes, then you go and see the GM discreetly. More details below. {% xfact "beast_does_not_fear_rituals" %}
 
 
 The exorcism spells affecting the phantoms

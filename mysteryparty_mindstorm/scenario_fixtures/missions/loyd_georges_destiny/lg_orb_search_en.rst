@@ -1,7 +1,7 @@
 MISSION - Loyd Georges' orb
 ===========================================
 
-{% fact 'agent_mission_seek_lg_orb' %}
+{% xfact 'agent_mission_seek_lg_orb' %}
 
 Agent,
 

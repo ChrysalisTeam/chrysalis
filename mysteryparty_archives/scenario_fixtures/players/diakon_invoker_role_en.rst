@@ -17,7 +17,7 @@ Thurifer (censer-bearer)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 You have a silver censer, to purify the surroundings during certain rituals that require this gesture.
-{% hint "incense_burner_for_invoker" is needed %}
+{% xitem "incense_burner_for_invoker" is needed %}
 
 You must then walk in procession, with fellow Diakons if available (just for theatrical effect - it changes nothing about the censing), around the object or area concerned, swinging the censer at the end of its chain.
 
@@ -33,7 +33,7 @@ The most common and versatile of ritual drawings is undoubtedly the **{% symbol 
 
 Mastery of such pentacles is undoubtedly the most complex art of your discipline; only the great mystics of the monastery know how to create them, and it is a process that easily takes several hours. Anyone trained in the invocatory arts can, however, activate and use an existing pentacle.
 
-A pentacle is never dangerous in itself; {% symbol "initiates" for "ritualist_kind_name" %} and non-initiates alike can walk on it without fear. However, one must never step into it during a ritual, on pain of being unwittingly involved in it. {% fact "pentacle_is_not_harmful_oustide_rituals" %}
+A pentacle is never dangerous in itself; {% symbol "initiates" for "ritualist_kind_name" %} and non-initiates alike can walk on it without fear. However, one must never step into it during a ritual, on pain of being unwittingly involved in it. {% xfact "pentacle_is_not_harmful_oustide_rituals" %}
 
 **Magic seals are distant variants of pentacles**; they take the form of drawings of varied shapes, but always **surrounded by a circle**. They are specialised devices designed for specific purposes, typically to **control access** to dangerous knowledge, or to accompany the **initiation of the members** of a dynasty of magicians.
 
@@ -43,7 +43,7 @@ Note that only the person who drew a pentacle or a seal can easily **revoke** it
 
 You can easily **reactivate an existing seal**, alone, by **censing it** (one circuit is enough) and then proclaiming the invocation **"O magic seal, awaken and hear my voice"**. The seal should light up shortly afterwards, a sign that it is now active. This operation can be entirely delegated to other {% symbol "initiates" for "ritualist_kind_name" %}.
 
-A **canonical pentacle** can be activated through the same process, but **beware**, **at least 4 initiates** must perform the ritual, as it requires a great deal of spiritual energy. The invocation is in this case, obviously, **"O canonical pentacle, awaken and hear my voice"**. {% fact "penatacle_activation_requires_4_ritualists" %}
+A **canonical pentacle** can be activated through the same process, but **beware**, **at least 4 initiates** must perform the ritual, as it requires a great deal of spiritual energy. The invocation is in this case, obviously, **"O canonical pentacle, awaken and hear my voice"**. {% xfact "penatacle_activation_requires_4_ritualists" %}
 
 Note that these drawings deactivate by themselves after a (very long) time without use.
 
@@ -51,7 +51,7 @@ Note that these drawings deactivate by themselves after a (very long) time witho
 Absolute Stasis
 +++++++++++++++++++++++
 
-This invocation makes it possible to immobilise a living or dead entity, for at least two days.  {% fact "diakon_invoker_can_freeze_beast_for_days" %}
+This invocation makes it possible to immobilise a living or dead entity, for at least two days.  {% xfact "diakon_invoker_can_freeze_beast_for_days" %}
 
 Ritual:
 
@@ -64,7 +64,7 @@ Ritual:
 Message to a Deceased
 +++++++++++++++++++++++++++++
 
-The gods usually prevent the living from disturbing the peace of the dead; however, if you gain the favour of some deity, and it gives you its **mortuary address**, you can send it a **spiritual message**. {% fact "diakon_invoker_can_message_ankou" %}
+The gods usually prevent the living from disturbing the peace of the dead; however, if you gain the favour of some deity, and it gives you its **mortuary address**, you can send it a **spiritual message**. {% xfact "diakon_invoker_can_message_ankou" %}
 
 To do so, you must form a circle with 2 other {% symbol "initiates" for "ritualist_kind_name" %}, hands stretched towards the centre of the circle, and declaim (alone) this invocation:
 
@@ -74,7 +74,7 @@ To do so, you must form a circle with 2 other {% symbol "initiates" for "rituali
 Anti-Zombie Ground Blessing
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Weary of the follies of necromancers, all the Invokers of your order have learned to purify a tomb, so as to prevent the remains it contains from later being turned into an undead. This does not work if the undead is already embodied, whether because of a necromantic hex or because of the deceased's overly malefic life. {% fact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
+Weary of the follies of necromancers, all the Invokers of your order have learned to purify a tomb, so as to prevent the remains it contains from later being turned into an undead. This does not work if the undead is already embodied, whether because of a necromantic hex or because of the deceased's overly malefic life. {% xfact "diakon_invoker_has_spell_against_zombie_invocation_on_single_tomb" %}
 
 To purify the tomb, 2 {% symbol "initiates" for "ritualist_kind_name" %} must each stand at one end of it, hands stretched towards the sky, and the Invoker must proclaim this formula:
 
@@ -96,7 +96,7 @@ Point your finger at the area to be struck, which must be outdoors, then slowly 
 {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} Rupture
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-{% fact "diakon_invoker_can_break_cursed_enclosure" %}
+{% xfact "diakon_invoker_can_break_cursed_enclosure" %}
 
 Little knowledge exists about this spell of the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %}, apart from the fact that it is highly dangerous, and that its use is strictly forbidden to any Invoker.
 
@@ -104,7 +104,7 @@ Ancestral wisdom indicates that if it has been set up over a place, it is noneth
 
 To do so, at least {% symbol "3 / 5 of the living" for "library_cursed_enclosure_opening_quota" %} confined in the place must first give their verbal consent to being freed.
 
-Then the Invoker - whether inside or outside the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} - must mix the "Accelerated Ageing Potion" and the "Snake Venom Potion" (of any snake) in equal parts in half a glass, and swallow them in a single gulp. {% hint 'potion_accelerated_aging' is needed %} {% hint 'potion_snake_venom' is needed %}
+Then the Invoker - whether inside or outside the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} - must mix the "Accelerated Ageing Potion" and the "Snake Venom Potion" (of any snake) in equal parts in half a glass, and swallow them in a single gulp. {% xitem 'potion_accelerated_aging' is needed %} {% xitem 'potion_snake_venom' is needed %}
 
 The Invoker must then, with his dying breath, proclaim:
 

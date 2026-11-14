@@ -21,7 +21,7 @@ Recognising artefact bewitchments
 
 By laying your hands on an object and closing your eyes, you can sense whether it has been the target of curses or blessings.
 
-*Out-of-game notes*: An element that can be analysed by your sensitivity bears a **gold sticker star**.  {% fact "sticker_gold_star_means_magical_analysis" %}
+*Out-of-game notes*: An element that can be analysed by your sensitivity bears a **gold sticker star**.  {% xfact "sticker_gold_star_means_magical_analysis" %}
 
 This sticker may be accompanied by various geometric symbols, typically on a white label next to it.
 
@@ -32,7 +32,7 @@ If there is a small **circle** anywhere in the sticker, then the bewitchment is 
 If this circle additionally contains a **single dot**, then the bewitchment rises to "legendary" level.
 In the absence of geometric symbols, you cannot determine the power of the bewitchment involved.
 
-A gold star may also be accompanied by a **3-letter code**; enter this code into the {% symbol "knowledge portal (available on site)" for "hint_website_name" %}, in the **"{% symbol "magic" for "bewitchment_portal_hint_category" %}" category**, to learn more about the object in question.  {% hint "hint_website_device" is needed %}
+A gold star may also be accompanied by a **3-letter code**; enter this code into the {% symbol "knowledge portal (available on site)" for "hint_website_name" %}, in the **"{% symbol "magic" for "bewitchment_portal_hint_category" %}" category**, to learn more about the object in question.  {% xitem "hint_website_device" is needed %}
 
 You must of course act out your laying on of hands theatrically, and not explain this out-of-game signage with the gold sticker to anyone.
 
@@ -42,7 +42,7 @@ Removing negative bewitchments
 
 **Tell the Game Master about the dispellings you wish to carry out.**
 
-If the recognised bewitchment is "negative", it is liable to injure the person who touches it, not on the spiritual level but on the biological one. {% fact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
+If the recognised bewitchment is "negative", it is liable to injure the person who touches it, not on the spiritual level but on the biological one. {% xfact "cursed_objects_give_magic_and_not_spiritual_injuries" %}
 
 You may therefore wish to dispel this bewitchment through a ritual.
 
@@ -75,7 +75,7 @@ Legendary bewitchment
 -----------------------------
 
 If the bewitchment is of "legendary" level, then it is **impossible** for you to remove it, except by finding a counter-measure specific to this spell. But it is not always worth the effort, as some bewitched artefacts are simply **traps** meant for intruders, which will only vanish once triggered by some poor victim.
-{% fact "some_cursed_artefacts_are_just_unbreakable_traps" %}
+{% xfact "some_cursed_artefacts_are_just_unbreakable_traps" %}
 
 
 {#  NOT FOR NOW

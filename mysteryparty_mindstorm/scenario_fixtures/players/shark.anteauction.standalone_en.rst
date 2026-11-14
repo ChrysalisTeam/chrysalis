@@ -24,7 +24,7 @@ Loyd Georges suffers a cardiac collapse late in the evening, and is secretly hos
 
 Until the following evening, this incident is kept secret by the inspector, so that most of the bidders come to the evening without suspecting anything.
 
-He had also sent **fake invitations** so that Cynthia Loakim and Waden Shaw would attend too, although they were not initially expected. {% fact 'shark_has_sent_fake_invitations_to_cynthia_and_waden' as author %}
+He had also sent **fake invitations** so that Cynthia Loakim and Waden Shaw would attend too, although they were not initially expected. {% xfact 'shark_has_sent_fake_invitations_to_cynthia_and_waden' as author %}
 
 Shark will thus manipulate the suspects locked in the manor, frighten them so that they give each other away, and spy on them to take advantage of any discoveries they might each make on their own.
 

@@ -26,7 +26,7 @@ As a prominent public figure of Sabarim, you were neither searched on entering t
 
 You arrive at the evening about half an hour after it begins. <{ sabarim_notable_has_no_body_search }/>
 
-As a token of his trust in you, and also of his distrust of his household's security, Loyd Georges has entrusted you with the **key to the safe in his study**; he keeps for himself the other means required to open it: **the pass card and the secret code**.  {% fact "notary_has_lg_vault_key" as author %}
+As a token of his trust in you, and also of his distrust of his household's security, Loyd Georges has entrusted you with the **key to the safe in his study**; he keeps for himself the other means required to open it: **the pass card and the secret code**.  {% xfact "notary_has_lg_vault_key" as author %}
 
 With regard to Sabarith justice: the judicial immunity of tabellions is an entitlement dear to you; you will therefore defend tooth and nail your right not to be subjected to any interrogation, nor searched by Inspector Shark (only a special court of justice can revoke this exceptional status), nor put through the slightest detector; all the more so since Loyd Georges recently confided to you that he distrusted the inspector, who "was losing his grip on reality". So there is no question of giving this individual the key to the safe, or any other of Loyd Georges' secrets.
 

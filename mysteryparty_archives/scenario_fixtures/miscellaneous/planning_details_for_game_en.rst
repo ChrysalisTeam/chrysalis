@@ -31,7 +31,7 @@ H+22 min: [Music] The Inventor avatar opens the buffet, with the automatons (dan
 
 H+25 min: The GM "renegade Djinn" can entrust the Diakons with his quest to become bound to his community again.
 
-H+30 min: The Druid discreetly steals the Spectral Bell, BEFORE the Ankou's arrival. {% fact "druid_must_steal_table_bell_when_usage_understood" %}
+H+30 min: The Druid discreetly steals the Spectral Bell, BEFORE the Ankou's arrival. {% xfact "druid_must_steal_table_bell_when_usage_understood" %}
 
 H+35 min: [Music] The Ankou's speech at the top of the stairs; SWITCH ON the projector during his presence, and switch it off afterwards.
 
@@ -55,7 +55,7 @@ H+X: [Music] Prepare for Octave's initiation ceremony, to music.
 
 H+X: [Music] Prepare for Cassandra's holographic prophecy (puzzle of the scary lenticular paintings).
 
-H+X: To frame the Arkon, the Druid plants the falsely compromising document satchel, on the forbidden floor. {% fact "druid_makes_conspiracy_against_arkon" %}
+H+X: To frame the Arkon, the Druid plants the falsely compromising document satchel, on the forbidden floor. {% xfact "druid_makes_conspiracy_against_arkon" %}
 
 H+X: [Music] Stage the attack of the sentinel automaton.
 
@@ -63,9 +63,9 @@ H+X: [Music] Prepare for the unmasking of the traitor (quarrel between the Duche
 
 H+X: [Music] Prepare for the players' intrusion into the Magus's tomb
 
-H+X: The Arkon can go and question (or even make them swear) the various groups of players, as to what they will do with the portals leading to the library, if they come out of it alive. {% fact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
+H+X: The Arkon can go and question (or even make them swear) the various groups of players, as to what they will do with the portals leading to the library, if they come out of it alive. {% xfact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
 
-H+X: Give the Druid the grimoire emitting occult sounds, and the Thanatologue. The Druid goes and sits near the pentacle, delighted, with his readings which he proclaims to be promising for escaping from the place. The Ankou goes to prepare for his final speech. {% hint "mystic_soundtrack_for_druid_magic_books" is needed %}
+H+X: Give the Druid the grimoire emitting occult sounds, and the Thanatologue. The Druid goes and sits near the pentacle, delighted, with his readings which he proclaims to be promising for escaping from the place. The Ankou goes to prepare for his final speech. {% xitem "mystic_soundtrack_for_druid_magic_books" is needed %}
 
 H+X: The Arkon briefs the Diakon who is preparing to confront the Druid by completing the expulsion ritual; the avatars decide to return to their universes so as not to be in danger, and say their farewells.
 
