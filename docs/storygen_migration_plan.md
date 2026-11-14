@@ -6,6 +6,49 @@ with Pychronia-storygen projects, as is already the case for `mysteryparty_croml
 Also build the scenarios of `rpg_sentience` and `rpg_skeletons` (plain RST to PDF) with storygen.
 
 
+
+## Status
+
+**All phases are done**: the 7 games build with Pychronia-storygen, and the old build system is deleted.
+The rest of this document describes the migration as it was designed (historical notes: file names and line
+numbers of the deleted scripts refer to the state before the migration).
+
+Commit ranges (all on the `move_chrysalis_files` branch of each repository, not pushed):
+
+| Repository | Range | Content |
+|---|---|---|
+| Pychronia-storygen | `1e6d751..b8ca62f` | Phase 1 (G1-G10: optional sections, `template_dirs`, `data_files`, `{lang}`, `variables_hook`, `current_player_id` override, rst2pdf error detection, smart quotes, `unlink_unknown_rst_targets`, coherence exit code, `--skip-document-splitting`, single-export ODT splitter with snippets), plus `--output-dir`, the pip-installable CLI (`pychronia_storygen`) and the `!!python/tuple` support |
+| Chrysalis | `3807b48..HEAD` | Plan, shared theme, small games (phase 2), tag renaming and file suffixing (phase 3), Archives and Mindstorm (phase 4), cleanup (phase 5: deletion of the old scripts, theme consolidation, deterministic symbol summaries, Readme and `requirements.txt`) |
+
+### Deviations from the plan
+
+- **Descent**: the project is `rpg_descent/storygen/` (as decided in G11).
+- **Mindstorm cheat sheets**: they are in a separate `players_cheat_sheets` group, not `cheat_sheet` entries of the player sheets,
+  because storygen settings (stylesheets) apply to a whole sheet entry. A storygen option for cheat-sheet-specific settings could be added later.
+- **Game data dump**: it is loaded through `data_files` (base file + `{lang}` overlay for English), after storygen was taught to accept `!!python/tuple` in YAML files
+  (the dump contains tuples, and no symbol tag, as expected). It is still produced by Pychronia, see the Readme.
+- **`master_login`**: it is duplicated literally as `"system"` in the configurations (`current_player_id` of the gamemaster manuals),
+  and asserted to match the dump by the hooks.
+- **ODT facts** are attributed to `"<master>"` (storygen behaviour) instead of `"ingame_clues"`, as foreseen in the semantic differences above.
+- **French summary texts** of storygen were newly translated for Archives and Mindstorm (`summaries/*_fr.txt`), they did not exist before.
+- **Shared theme**: the temporary `docs/assets/storygen/` copies were merged back into `docs/assets/`, and `docs/rst2pdf_storygen.conf` became `docs/rst2pdf.conf`.
+  Cromlech keeps its own theme (`mysteryparty_cromlech/scenario_fixtures/themes/`).
+- **Deterministic summaries**: storygen symbol registries hold sets, so the symbol summaries sort values (case-sensitively before deduplicating
+  case-insensitively), else the displayed casing depended on `PYTHONHASHSEED`.
+- **Output names**: no `output_name` option was needed so far; storygen standard names are used everywhere.
+- `requirements.txt` only keeps PyYAML (`docs/check_fixture_translations.py`); storygen has its own dependencies.
+
+### Remaining follow-ups
+
+- storygen naming: `{% fact %}` prints the fact name whereas `{% xfact %}` does not (and likewise `item`/`xitem`);
+  the Chrysalis templates only use the `x` variants, a rename or an alias could make this less surprising.
+- Converting the `murder_party_items` hook structures to storygen inventories (see "Mapping of build script logic").
+- Optional storygen option for cheat-sheet-specific settings (see above).
+- The game data dump still has to be regenerated from Pychronia by hand (no storygen command for it).
+- Email sending of character sheets (disabled `if False` code of the old scripts) was dropped, not ported.
+- Historical notes of `PROBLEMS_TO_SOLVE.txt` and `translations/TRANSLATION_GLOSSARY_FR_EN.rst` still mention the deleted scripts.
+
+
 ## Decisions
 
 - **Output names**: conform to storygen standards (`<group folders>/<sheet>_full_sheet.pdf`,
