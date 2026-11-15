@@ -46,7 +46,7 @@ This installs Pychronia-storygen from its git repository (it brings its own depe
 
 If you have a checkout of the Pychronia-storygen repository (e.g. to modify it), you can install it with ``pip install -e <path to the Pychronia-storygen checkout>`` instead.
 
-LibreOffice must be installed in your system (its "soffice" executable must be findable) to extract the separate documents of the "ingame_clues_<game>.odt" files (Mindstorm and Archives). Without LibreOffice, use the ``--skip-document-splitting`` option below.
+LibreOffice must be installed in your system (its "soffice" executable must be findable) to extract the separate documents of the "ingame_clues_<game>.odt" files (Mindstorm and Archives), and to export the map of Skeletons. Without LibreOffice, use the ``--skip-document-splitting`` option below.
 
 Then run storygen from the root folder of the repository, with the project folder of a game (see the sections of each game below)::
 
@@ -152,7 +152,7 @@ The scenarios of Chrysalis:Skeletons and Chrysalis:Sentience are each a single r
 	pychronia_storygen rpg_skeletons/scenario_fixtures --variable lang=en
 	pychronia_storygen rpg_sentience/scenario_fixtures --variable lang=en
 
-(or ``--variable lang=fr`` for the French versions). Skeletons is a sequel to Sentience, and the map of its keep is "rpg_skeletons/scenario_fixtures/skeletons_map_<language>.odp" (a LibreOffice Impress file, to print or export to PDF yourself).
+(or ``--variable lang=fr`` for the French versions). Skeletons is a sequel to Sentience, and the map of its keep, "rpg_skeletons/scenario_fixtures/skeletons_map_<language>.odp" (a LibreOffice Impress file), is exported by the same command to "_output/<language>/skeletons_map/skeletons_map.pdf".
 
 PDF files are generated in the "_output/<language>/" subfolder of these project folders.
 

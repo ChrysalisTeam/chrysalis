@@ -11,3 +11,10 @@
   "sheets":
     "skeletons_scenario":
       "full_sheet": "skeletons_scenario_{lang}.rst"
+
+# Map of the keep (LibreOffice Impress), exported to _output/{lang}/skeletons_map/skeletons_map.pdf
+"document_generation":
+  "skeletons_map":
+    "document_source": "skeletons_map_{lang}.odp"
+    "document_splitting":
+      - ["skeletons_map", 1]
