@@ -2,9 +2,10 @@
 """
 Variables hook of the Mindstorm storygen project (see "variables_hook" in configuration.yaml).
 
-It ports what docs/build_mindstorm_pdfs.py computed besides rendering sheets: game data dump, per-language
+It ports what docs/build_mindstorm_pdfs.py computed besides rendering sheets: game data normalization, per-language
 titles and abilities, character names/titles, player list, items checklist, and a jinja2 filter.
 """
+import glob
 import logging
 import os
 import re
@@ -72,9 +73,65 @@ def analyze_and_normalize_game_items(game_items_raw, important_marker: str):
     return game_items
 
 
+def _strip_gamemaster_hints(record):
+    if record.get("gamemaster_hints"):
+        record["gamemaster_hints"] = record["gamemaster_hints"].strip()
+
+
+def _find_auction_game_file(game_files_root, subfolder, filename):
+    """
+    Return the path, relative to game_files_root, of the SINGLE file "filename" in its subfolder tree, like
+    utilities.find_game_file() of Pychronia; a filename which is already a relative path is only checked.
+    """
+    if os.path.basename(filename) != filename:
+        if not os.path.exists(os.path.join(game_files_root, filename)):
+            raise RuntimeError("Game file %r not found in %r" % (filename, game_files_root))
+        return filename
+    matches = glob.glob(os.path.join(glob.escape(game_files_root), subfolder, "**", glob.escape(filename)),
+                        recursive=True)
+    if len(matches) != 1:
+        raise RuntimeError("Expected a single game file %r in %r, found %r" % (filename, subfolder, matches))
+    return os.path.relpath(matches[0], game_files_root).replace(os.sep, "/")
+
+
+def normalize_portal_game_data(variables, game_files_root):
+    """
+    Normalize the game data of the Anthropia portal (Auction fixtures deep-merged with the Mindstorm overrides, see
+    configuration.yaml) like the Pychronia datamanager and its Mindstorm fixture script do, for the fields used by
+    templates.
+    """
+    for character in variables["character_properties"].values():
+        if character.get("avatar"):  # A file name, searched like utilities.find_game_file("images", ...) does
+            character["avatar"] = _find_auction_game_file(game_files_root, "images", character["avatar"])
+        for field in ("real_life_identity", "real_life_email"):
+            if character.get(field) is None:
+                character[field] = ""  # Instead of None, for display (sensitive values come from local.yaml)
+        if character.get("secret_question") is None:
+            character["secret_question"] = ""
+        if character.get("extra_goods") is None:
+            character["extra_goods"] = ""
+        if character.get("permissions") is None:
+            character["permissions"] = []
+        _strip_gamemaster_hints(character)
+
+    for item in variables["game_items"].values():
+        item["auction"] = item.get("auction") or ""
+        if len(item["auction"]) != 1:
+            item["auction"] = ""  # Only the single-letter lots (A, B...) are auctioned in Mindstorm
+        item["total_price"] = item.get("total_price") or 0
+        if item.get("image") and not item["image"].startswith(("http://", "https://")):
+            item["image"] = _find_auction_game_file(game_files_root, "images", item["image"])
+        _strip_gamemaster_hints(item)
+
+    for page in variables["static_pages"].values():
+        _strip_gamemaster_hints(page)
+    for report in variables["abilities"]["house_reports"]["settings"]["reports"].values():
+        _strip_gamemaster_hints(report)
+
+
 def strip_pychronia_page_markup(text):
     """
-    Make a static page of the game data dump (pychronia RST flavour) embeddable in a sheet, whatever its language:
+    Make a static page of the game data (pychronia RST flavour) embeddable in a sheet, whatever its language:
     drops [BR] tags, demotes section underlines, comments out image directives (their options become part of the
     comment) and drops a bold caption paragraph which immediately precedes an image directive.
     """
@@ -93,6 +150,9 @@ def prepare_variables(variables, *, language, jinja_env):
     assert game_type in GAME_TYPES, "Variable 'game_type' must be one of %s, not %r" % (sorted(GAME_TYPES), game_type)
     variables["standalone"] = GAME_TYPES[game_type]
 
+    game_files_root = os.path.join(project_dir, "..", "..", "alternate_reality_game_auction")
+    normalize_portal_game_data(variables, game_files_root=game_files_root)
+
     variables["document_titles"] = DOCUMENT_TITLES[language]
     variables["available_anthropia_abilities"] = AVAILABLE_ANTHROPIA_ABILITIES[language]
 
@@ -107,7 +167,7 @@ def prepare_variables(variables, *, language, jinja_env):
         if k in character_properties:  # local.yaml may also contain characters of other games
             character_properties[k].update(v)  # Override real names and emails
 
-    # (the former CHARACTER_OVERRIDES only declared email attachments, which are out of scope now)
+    # (the email attachments of the former CHARACTER_OVERRIDES are now in the "email_generation" of configuration.yaml)
 
     master_login = variables["global_parameters"]["master_login"]
     # configuration.yaml gives this id to the gamemaster manual, whose story tags are masked in the facts summary
@@ -133,6 +193,6 @@ def prepare_variables(variables, *, language, jinja_env):
         v["full_official_title"] = "%s, %s" % (official_name, v["official_role"])
         v["spoiling_official_name"] = "%s (%s)" % (official_name, k.capitalize())
 
-    jinja_env.filters["strip_pychronia_page_markup"] = strip_pychronia_page_markup  # for texts of the game data dump
+    jinja_env.filters["strip_pychronia_page_markup"] = strip_pychronia_page_markup  # for texts of the game data
 
     return variables

@@ -18,10 +18,8 @@
   "rst2pdf_smart_quotes": 0  # docutils.conf enables its own language-aware smart quotes
   "rst2pdf_extra_args": "--stylesheets={{ plain_style }}"
 
-# The game data dump (lowest priority, hence first) with its partial translation overlay, then the other data files
+# Data files (the hook creates the "character_properties" of the characters, from them and from its own constants)
 "data_files":
-  - "file": "../../common_assets/game_data/_initial_game_data_dump.yaml"
-    "overlay": "../../common_assets/game_data/_initial_game_data_dump_{lang}.yaml"
   - "file": ["../../mysteryparty_common/scenario_fixtures/local.yaml", "../../mysteryparty_common/scenario_fixtures/local.yaml.example"]
   - "variable": "murder_party_items_raw"
     "file": "gamemaster_assets_checklist_{lang}.yaml"
@@ -35,7 +33,7 @@
       "sheets":
         "gamemaster_manual":
           "variables":
-            "current_player_id": "system"  # master_login of the game data dump (silent in the facts summary), checked by the hook
+            "current_player_id": "system"  # MASTER_LOGIN of the hook (silent in the facts summary)
             "toc_depth": 2
           "full_sheet": ["gamemaster_manual_archives_{lang}.rst", "layouts/page_break.rst"]
         "assets_checklist":
@@ -187,6 +185,58 @@
       - [miscellaneous_secret_messages, 2, {fr: "écriteau descriptif pour", en: "descriptive sign for"}]
       - [trap_and_property_markers, 8, {fr: "POISON POISON", en: "POISON POISON"}]
       - [null, 1, {fr: "TRASH PAGE", en: "TRASH PAGE"}]
+
+# Folders of the emails sending their documents to participants, in "_output/<lang>/emails/<batch>/<character>/",
+# to be sent by hand with a mail client (see Readme). Recipients come from the private local.yaml file.
+"email_generation":
+  "players":
+    "subject":
+      "fr": "Soirée Mystère Archives - votre fiche de joueur pour {{ character_properties[email_name].official_name }}"
+      "en": "Archives Mystery Evening - your player sheet for {{ character_properties[email_name].official_name }}"
+    "recipients": ["{{ character_properties[email_name].real_life_email or '' }}"]  # may be null
+    "body_template": "emails/player_email_{lang}.rst"
+    "attachments":
+      - "{output_dir}/common/lore_and_rules_full_sheet.pdf"
+      - "{output_dir}/players/{email_name}_full_sheet.pdf"
+    "emails":
+      "diakon_dispeller": {}
+      "diakon_exorcist": {}
+      "diakon_invoker": {}
+      "explorer_unveiler": {}
+      "explorer_anthropologist": {}
+      "explorer_runologist":
+        "attachments":
+          - "{output_dir}/miscellaneous/ingame_clues_archives/antic_akarith_runes.pdf"
+          - "{output_dir}/miscellaneous/ingame_clues_archives/secret_codes_converters.pdf"
+      "parcival_alchemist": {}
+      "parcival_woodsman": {}
+      "parcival_oracle": {}
+      "spy_lockpicker": {}
+      "spy_minesweeper": {}
+      "spy_sounder": {}
+      "dragons": {}
+  "npcs":
+    "subject":
+      "fr": "Soirée Mystère Archives - votre fiche de figurant pour {{ character_properties[email_name].official_name }}"
+      "en": "Archives Mystery Evening - your NPC sheet for {{ character_properties[email_name].official_name }}"
+    "recipients": ["{{ character_properties[email_name].real_life_email or '' }}"]  # may be null
+    "body_template": "emails/npc_email_{lang}.rst"
+    "attachments":
+      - "{output_dir}/common/lore_and_rules_full_sheet.pdf"
+      - "{output_dir}/common/npc_information_full_sheet.pdf"
+      - "{output_dir}/npcs/{email_name}_full_sheet.pdf"
+    "emails":
+      "avatar_druid": {}
+      "avatar_duchess": {}
+      "avatar_inventor": {}
+      "phantom_archivist": {}
+      "phantom_arkon": {}
+      "phantom_octave": {}
+      "phantom_magus": {}
+      "phantom_beast": {}
+      "phantom_thief": {}
+      "god_ankou": {}
+      "automaton_sentinel": {}
 
 "summary_generation":
   "game_facts_template": "summaries/game_facts_summary_{lang}.txt"

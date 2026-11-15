@@ -17,7 +17,7 @@ You may freely modify, use and share these assets under the `Creative Commons - 
 
 Chrysalis texts were written in French; English translations are available for all games except Skeletons (see `Generation of PDF scenario files and other documents`_ below).
 
-Each game has its own root folder ("alternate_reality_game_auction/", "mysteryparty_archives/", "mysteryparty_cromlech/", "mysteryparty_mindstorm/", "rpg_descent/", "rpg_sentience/", "rpg_skeletons/"), which contains its media files, and its scenario sources in a "scenario_fixtures/" subfolder. "mysteryparty_common/" gathers the sources shared by mystery parties, and "common_assets/" the assets and tools shared by several games (PDF theme, fonts, game data dump, translation glossary...).
+Each game has its own root folder ("alternate_reality_game_auction/", "mysteryparty_archives/", "mysteryparty_cromlech/", "mysteryparty_mindstorm/", "rpg_descent/", "rpg_sentience/", "rpg_skeletons/"), which contains its media files, and its scenario sources in a "scenario_fixtures/" subfolder. "mysteryparty_common/" gathers the sources shared by mystery parties, and "common_assets/" the assets and tools shared by several games (PDF theme, fonts, translation glossary...).
 
 
 
@@ -67,7 +67,7 @@ Generated files go into "<project folder>/_output/<language>/" (the PDF files, a
 
 At the end of each run, storygen analyzes the facts, items and symbols declared in the scenario (the ``{% xfact %}``, ``{% xitem %}`` and ``{% symbol %}`` tags of templates, and of the gamemaster comments of ODT files), and reports inconsistencies in the log and in the generated summaries; **the command then exits with a non-zero status**, so that scripts can detect it. rst2pdf errors (e.g. missing images) are also detected, and fail the build.
 
-The assets shared by several games live in "common_assets/": the PDF theme ("rst2pdf.conf", with its "stylesheets/", the images of "images/" and the fonts of "fonts/"), the "docutils.conf" file which sets the typographic quotes to the language of documents, the game data dump ("game_data/"), the optional photos of participants ("trombinoscope/") and some tools ("tools/"). Storygen projects reference them with paths relative to their own folder (e.g. "../../common_assets/rst2pdf.conf"), so they must sit at "<game folder>/<project folder>/".
+The assets shared by several games live in "common_assets/": the PDF theme ("rst2pdf.conf", with its "stylesheets/", the images of "images/" and the fonts of "fonts/"), the "docutils.conf" file which sets the typographic quotes to the language of documents, the optional photos of participants ("trombinoscope/") and some tools ("tools/"). Storygen projects reference them with paths relative to their own folder (e.g. "../../common_assets/rst2pdf.conf"), so they must sit at "<game folder>/<project folder>/".
 
 The data of the "Chrysalis:Auction" alternate reality game (loaded by the Pychronia web portal, and partly reused by mystery parties) lives in "alternate_reality_game_auction/scenario_fixtures/" (its media, served by the Pychronia portal, are in the other subfolders of "alternate_reality_game_auction/"): each YAML file there has a French "_fr" version and an English "_en" one, except language-neutral files like "global_data.yaml". The Pychronia game picks the files of the language chosen when a game instance is created. Run ``python common_assets/tools/check_fixture_translations.py`` to check that English fixtures mirror their French sources (same keys, values and game markup).
 
@@ -103,11 +103,13 @@ Two variables of its "configuration.yaml" can be overridden on the command line:
 This game requires some data files, which are loaded by the "data_files" entry of its "configuration.yaml":
 
 - the data specific to your own mystery party, in "mysteryparty_common/scenario_fixtures/local.yaml" (copy "local.yaml.example" to this name, and fill it; this private file is ignored by git). If it is missing, the placeholder values of "local.yaml.example" are used instead.
-- the game data dump, "common_assets/game_data/_initial_game_data_dump.yaml", described in the last section below.
+- the game data of the Pychronia portal, described in the last section below.
 - optionally, photos of participants in the "common_assets/trombinoscope/" folder: if you have put properly named images (eg. "Amethyst-John Doe.jpg", with the "real_life_identity" fields of characters in "local.yaml") there, the generated "common_guests_gallery" document will gather them; else, the avatars of characters are used.
 
 The in-game clues of this game are split from its "documents/ingame_clues_mindstorm_<language>.odt" file, by the "document_splitting" entry of its "configuration.yaml" (documents names, page counts, and the text which must start each of them). This step might fail if the pagination of this ODT file is altered on your system (e.g. fonts missing), in this case edit it by hand to respect the splitting information of the configuration.
 English and French documents share this splitting information, so translations must keep the pagination of the French document; the build checks that the first page of each clue contains the declared text snippet, so that page shifts can not go unnoticed.
+
+The build also prepares the emails which send their documents to players, but does not send them: each email gets a folder "_output/<language>/emails/players/<character>/", containing a "<character>_email.rst" file (recipients, subject and body of the email) and the documents to attach (game universe, character sheet and cheat sheet, and the specific in-game documents of some characters). For each folder, create a new email in your own mail client, copy the recipients, subject and body from the RST file, attach the other files of the folder, and send it. Recipients and names come from the "real_life_email" and "real_life_identity" fields of "local.yaml", and the date from its "mystery_party_date" field; while they are not filled, the RST files show "(MISSING)" as recipient. These folders contain private data, keep them out of git (like the whole "_output/" folder). To only refresh them after a full build, add ``--only "emails/*"``. The email texts are in the "emails/" folder of the project, and their subjects and attachments in the "email_generation" entry of its "configuration.yaml".
 
 
 
@@ -120,7 +122,7 @@ Run::
 
 The "mysteryparty_archives/scenario_fixtures/_output/en/" folder should then contain the gamemaster manual, and character sheets, for this mystery party. Add ``--variable decorations=false`` to generate printer-friendly documents, without dark background.
 
-See instructions for "Chrysalis:Mindstorm" above, for the data files ("local.yaml", game data dump, photos) and the in-game clues extraction.
+See instructions for "Chrysalis:Mindstorm" above, for the data files ("local.yaml", photos), the in-game clues extraction, and the emails to send to participants (here, in "_output/<language>/emails/players/" for players, and "_output/<language>/emails/npcs/" for NPC actors, who also get the "NPC Actors' Supplements").
 
 
 Chrysalis:Auction
@@ -158,15 +160,9 @@ The scenarios of Chrysalis:Skeletons and Chrysalis:Sentience are each a single r
 PDF files are generated in the "_output/<language>/" subfolder of these project folders.
 
 
-The game data dump
----------------------
+The game data of the Pychronia portal
+-------------------------------------------
 
-Mindstorm and Archives documents rely on some texts which are stored in the game data of the Pychronia portal (encyclopedia articles, text messages, character properties...): they are read from "common_assets/game_data/_initial_game_data_dump.yaml", a dump of the initial game data. This dump only exists in French; for English documents, the partial translation "common_assets/game_data/_initial_game_data_dump_en.yaml" is merged over it (it only covers the texts rendered in the documents, and every key of it must exist in the French dump).
+Mindstorm documents rely on some data of the Pychronia portal (character accounts and abilities, auction lots, encyclopedia articles, surveillance reports...). Like the portal in Mindstorm mode, storygen reads them directly from the fixtures of the Auction, in "alternate_reality_game_auction/scenario_fixtures/" (characters, game items, abilities, static pages and Yodic encyclopedia articles, in the language of the build), then from the Mindstorm overrides "mysteryparty_mindstorm/scenario_fixtures/anthropia_portal_game_data_overrides_<lang>.yaml". These files are deep-merged in this order by the "data_files" entry of its "configuration.yaml" (``"merge": "deep"``), and the "storygen_hooks.py" module of the project then normalizes them like the portal does (paths of images, default values, auction lots limited to the single-letter ones). So a change in these fixtures is taken into account by the next build, no export of the game data is needed.
 
-Storygen does not generate this dump itself. If it needs to be regenerated (e.g. when the game data of Pychronia change), run this from the root folder of a checkout of the Pychronia repository, inside an environment where Pychronia is installed::
-
-	DJANGO_SETTINGS_MODULE=pychronia_game.tests.persistent_mode_settings PYTHONPATH=. python -m pychronia_game.scripts.dump_initial_game_yaml <path to Chrysalis>/common_assets/game_data/_initial_game_data_dump.yaml
-
-(on Windows, set the environment variables beforehand). The Pychronia portal should be in default Auction mode for this dumping (see "persistent_mode_settings.py" files), since the storygen projects override relevant values of the mystery-party when needed.
-In case the generation of this dump fails, you can also initialize and run the Pychronia portal normally, and copy/paste the yaml data from the "database content" page of the gamemaster area of your game into this dump file.
-Then update the English overlay accordingly if needed.
+Archives does not use the game data of the portal: its character names come from its own "storygen_hooks.py" module.

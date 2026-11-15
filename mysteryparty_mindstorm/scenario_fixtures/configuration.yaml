@@ -6,8 +6,9 @@
 #   --variable decorations=false              (printer-friendly documents, without dark background and closing image)
 #
 # NOTE - this folder is also read by the Pychronia game, but only for the files that it lists explicitly in
-# pychronia_game/common_settings.py (anthropia_game_data_overrides*.yaml), so this configuration, the hook module
-# and the "layouts/" folder are never loaded by it.
+# pychronia_game/common_settings.py (anthropia_portal_game_data_overrides_<lang>.yaml), so this configuration, the hook
+# module and the "layouts/" folder are never loaded by it. Like the Pychronia portal in Mindstorm mode, storygen
+# loads the Auction fixtures, then these overrides (see "data_files" below).
 
 "template_dirs": ["../../mysteryparty_common/scenario_fixtures"]
 
@@ -28,8 +29,23 @@
   "toc_depth": 1  # of decorated sheets, see layouts/header.rst
 
 "data_files":
-  - "file": "../../common_assets/game_data/_initial_game_data_dump.yaml"
-    "overlay": "../../common_assets/game_data/_initial_game_data_dump_{lang}.yaml"  # partial translation (absent in French)
+  # Game data of the Anthropia portal: the Auction fixtures used by the templates, deep-merged in the order of the
+  # Mindstorm fixture list of Pychronia (common_settings.py), then the Mindstorm overrides; the hook then normalizes
+  # them like the Pychronia datamanager does
+  - "file": "../../alternate_reality_game_auction/scenario_fixtures/global_data.yaml"
+    "merge": "deep"
+  - "file": "../../alternate_reality_game_auction/scenario_fixtures/abilities_{lang}.yaml"
+    "merge": "deep"
+  - "file": "../../alternate_reality_game_auction/scenario_fixtures/characters_factions_{lang}.yaml"
+    "merge": "deep"
+  - "file": "../../alternate_reality_game_auction/scenario_fixtures/game_items_{lang}.yaml"
+    "merge": "deep"
+  - "file": "../../alternate_reality_game_auction/scenario_fixtures/static_pages_{lang}.yaml"
+    "merge": "deep"
+  - "file": "../../alternate_reality_game_auction/scenario_fixtures/encyclopedia/midolian_and_yodic_subjects_{lang}.yaml"
+    "merge": "deep"
+  - "file": "anthropia_portal_game_data_overrides_{lang}.yaml"
+    "merge": "deep"
   - "variable": "murder_party_items_raw"  # turned into "murder_party_items" by the hook
     "file": "gamemaster/gamemaster_assets_checklist_{lang}.yaml"
   - "file": ["../../mysteryparty_common/scenario_fixtures/local.yaml", "../../mysteryparty_common/scenario_fixtures/local.yaml.example"]
@@ -256,6 +272,46 @@
       - ["letter_about_akarith_purifiers_counter_manipulation_for_cynthia", 1, {fr: "Cynthia, nous savons", en: "Cynthia, we know you"}]
       - ["loyd_markis_biography_extract", 1, {fr: "Le jeune Loyd Markis", en: "The young Loyd Markis"}]
       - ["highly_confidential_letter_for_loyd_georges_about_secret_villa", 1, {fr: "Cher Sir Loyd Georges, je vous", en: "Dear Sir Loyd Georges, thank"}]
+
+# Folders of the emails sending their documents to players (not to the special "shark" player), in
+# "_output/<lang>/emails/players/<character>/", to be sent by hand with a mail client (see Readme).
+# Recipients come from the private local.yaml file.
+"email_generation":
+  "players":
+    "subject":
+      "fr": "Soirée Mystère - votre fiche de personnage pour {{ character_properties[email_name].official_name }}"
+      "en": "Mystery Evening - your character sheet for {{ character_properties[email_name].official_name }}"
+    "recipients": ["{{ character_properties[email_name].real_life_email or '' }}"]  # may be null
+    "body_template": "emails/player_email_{lang}.rst"
+    "attachments":
+      - "{output_dir}/common/lore_introduction_full_sheet.pdf"
+      - "{output_dir}/players_cheat_sheets/{email_name}_cheat_sheet.pdf"
+      - "{output_dir}/players/{email_name}_full_sheet.pdf"
+    "emails":  # with the specific documents of some players
+      "amethyst":
+        "attachments":
+          - "{output_dir}/documents/ingame_clues_mindstorm/berserk_elixir_advanced_ingredients_for_amethyst.pdf"
+          - "{output_dir}/documents/ingame_clues_mindstorm/lordanian_report_on_midolian_armies_balance_for_amethyst.pdf"
+      "cynthia": {}
+      "garnet": {}
+      "lydia": {}
+      "malachite": {}
+      "obsidian":
+        "attachments":
+          - "{output_dir}/documents/ingame_clues_mindstorm/sabarith_law_summary_for_obsidian.pdf"
+      "opal":
+        "attachments":
+          - "{output_dir}/documents/ingame_clues_mindstorm/deadliest_poisons_memo_for_opal.pdf"
+          - "{output_dir}/documents/ingame_clues_mindstorm/secret_codes_standard_sheet_cheat_for_opal.pdf"
+      "peridot":
+        "attachments":
+          - "{output_dir}/documents/ingame_clues_mindstorm/origins_of_precious_stones_for_peridot.pdf"
+      "spinel": {}
+      "topaz": {}
+      "waden":
+        "attachments":
+          - "{output_dir}/documents/ingame_clues_mindstorm/omrh_university_request_for_waden.pdf"
+          - "{output_dir}/documents/ingame_clues_mindstorm/radioactive_samples_analysis_report_part_1_for_waden.pdf"
 
 "summary_generation":
   "game_facts_template": "summaries/game_facts_summary_{lang}.txt"

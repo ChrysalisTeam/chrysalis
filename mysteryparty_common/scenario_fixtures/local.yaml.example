@@ -6,12 +6,6 @@ anthropia_portal_url: "XXXXXXXXXXX"
 
 mystery_party_date: "YYYYYYYYYYYYYY"
 
-smtp_conf:
-  host: "example.com:26"
-  login: ""
-  password: ""
-
-
 # Real names and emails of participants, per character; this file can hold the characters of both games
 _CHARACTER_OVERRIDES_:
   # Mindstorm

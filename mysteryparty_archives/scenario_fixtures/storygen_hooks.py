@@ -9,8 +9,8 @@ gamemaster checklists.
 import re
 from collections import OrderedDict
 
-# Must be the "master_login" of the game data dump: configuration.yaml can't reference variables,
-# so it uses this value for the "current_player_id" of the gamemaster manual (checked by the hook)
+# Login of the game master: configuration.yaml can't reference variables, so it repeats this value for the
+# "current_player_id" of the gamemaster manual, whose story tags are then masked in the facts summary
 MASTER_LOGIN = "system"
 
 DEFAULT_LANGUAGE = "fr"
@@ -137,10 +137,7 @@ def group_game_items_per_crate(murder_party_items):
 def prepare_variables(variables, *, language, jinja_env):
     language = language or DEFAULT_LANGUAGE
 
-    # Game data dump (with its translation overlay) comes from the "data_files" of configuration.yaml
     all_data = variables
-    master_login = all_data["global_parameters"]["master_login"]
-    assert master_login == MASTER_LOGIN, (master_login, MASTER_LOGIN)  # See configuration.yaml
 
     # Game props, from the raw checklist data file
     murder_party_items = analyze_and_normalize_game_items(all_data.pop("murder_party_items_raw"),
@@ -157,12 +154,13 @@ def prepare_variables(variables, *, language, jinja_env):
     official_names = OFFICIAL_NAMES[language]
     for names, local_overrides in [(PLAYER_NAMES, local_character_overrides), (NPC_NAMES, local_npc_overrides)]:
         for name in names:
-            properties = all_data["character_properties"].setdefault(name, {})  # Create character if necessary
-            properties["official_name"] = official_names[name]  # We override official names mainly
-            properties.update(local_overrides[name])  # Override real names and emails
+            properties = all_data.setdefault("character_properties", {}).setdefault(name, {})
+            properties["official_name"] = official_names[name]
+            properties.update(real_life_identity="", real_life_email="")
+            properties.update(local_overrides[name])  # Real names and emails
 
     all_data["player_names"] = list(PLAYER_NAMES)
     all_data["npc_names"] = list(NPC_NAMES)
-    all_data["master_login"] = master_login
+    all_data["master_login"] = MASTER_LOGIN  # To mask it in the facts summary
     all_data["document_titles"] = DOCUMENT_TITLES[language]
     return all_data
