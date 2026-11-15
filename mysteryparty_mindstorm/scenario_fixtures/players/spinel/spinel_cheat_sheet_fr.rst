@@ -17,11 +17,15 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - vous avez emprunté à son insu l'identité de {{character_properties.spinel.full_official_title}}, qui est parti randonner en Sabarim {% xfact 'spinel_official_does_trekking' %}
+{% endif %}
 - vous faites équipe avec l'agent Malachite, avec qui vous partagez un appartement de Salima, au dessus de chez "Maître Bibine, apothicaire".
+{% if standalone %}
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - des fuites ont mis en lumière des conspirations akarites en Sabarim, et la pression qu'ils mettent sur les services secrets doriens {% xfact 'akariths_pressure_dorians_secret_services' %} {% xfact 'akariths_have_conspiracy_against_sabarim' %}
 - vous savez que {{character_properties.opal.official_name}} a triché aux échecs contre Loyd Georges, afin de gagner des bouteilles de vieux vin {% xfact 'opal_cheats_at_chess_against_lg' %}
+{% endif %}
 
 - la veille :
 
@@ -41,6 +45,7 @@
 
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 ===============================
 
@@ -50,5 +55,6 @@ Voici les actions dont vous vous êtes rendu coupable durant ces premières sema
 - cambriolage (raté) en solo du manoir de LG {% xfact 'spinel_robs_lg_manor_fail' as author %}
 - interception illicite de communications (mise sur écoute du Pr Loakim et autres protagonistes) {% xfact 'spinel_wiretaps_lg_and_friends' as author %}
 - usurpation d'identité (CF votre "couverture" officielle) {% xfact 'spinel_is_undercover' as author %}
+{% endif %}
 
 

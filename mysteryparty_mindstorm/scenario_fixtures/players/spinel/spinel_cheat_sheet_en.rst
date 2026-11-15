@@ -17,11 +17,15 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - you have borrowed, without his knowledge, the identity of {{character_properties.spinel.full_official_title}}, who has gone trekking in Sabarim {% xfact 'spinel_official_does_trekking' %}
+{% endif %}
 - you are teamed up with agent Malachite, with whom you share a flat in Salima, above the shop of "Master Bibine, apothecary".
+{% if standalone %}
 - you know that Loyd Georges has discovered one of the Divine Orbs and hidden it away {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - leaks have brought to light Akarith conspiracies in Sabarim, and the pressure they are putting on the Dorian secret services {% xfact 'akariths_pressure_dorians_secret_services' %} {% xfact 'akariths_have_conspiracy_against_sabarim' %}
 - you know that {{character_properties.opal.official_name}} cheated at chess against Loyd Georges, in order to win bottles of old wine {% xfact 'opal_cheats_at_chess_against_lg' %}
+{% endif %}
 
 - the day before:
 
@@ -41,6 +45,7 @@
 
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 ===============================
 
@@ -50,5 +55,6 @@ Here are the deeds you have been guilty of during these first few weeks of opera
 - (failed) solo burglary of LG's manor {% xfact 'spinel_robs_lg_manor_fail' as author %}
 - unlawful interception of communications (phone-tapping of Prof. Loakim and other protagonists) {% xfact 'spinel_wiretaps_lg_and_friends' as author %}
 - identity theft (see your official "cover") {% xfact 'spinel_is_undercover' as author %}
+{% endif %}
 
 

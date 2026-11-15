@@ -16,17 +16,23 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - you have taken on the fictitious identity of {{character_properties.topaz.full_official_title}} {% xfact 'topaz_official_is_non_existent' as author %}
 - you claim to work for {% symbol "Count Adamor" for "lg_remote_friend_lord_name" %}, a distant acquaintance of Loyd Georges who has gone on a cruise {% xfact 'topaz_pretends_working_for_count_adamor' as author %}
+{% endif %}
 - you are teamed up with agent Peridot
+{% if standalone %}
 - you know that Loyd Georges has discovered one of the Divine Orbs and hidden it away {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - you discovered that Loyd Georges had heavily involved Professor Loakim in his affairs {% xfact 'lg_gave_responsibilities_to_loakim' %}
 - you attempted, as a duo, to abduct this Professor Loakim, alas without success {% xfact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
 - your colleague tried to burgle Loyd Georges' manor, but without success {% xfact 'peridot_robs_lg_manor_fail' %}
+{% endif %}
 
 - the famous businessman "{{character_properties.opal.official_name}}" strangely has access to a high-security web account, albeit a "frozen" one, with the login "Emerald". {% xfact 'opal_accesses_emerald_agent_web_account' %}
+{% if standalone %}
 - "{{character_properties.amethyst.official_name}}" is in reality a Lordanian agent, the real bearer of the name is hospitalised for venereal diseases {% xfact 'amethyst_official_has_venereal_disease' %}
 - it is a Masslavian agent with the pseudonym "Malachite" who recently triggered an Akarith riot in Doria {% xfact 'malachite_triggers_akarith_riot_in_dorian_dukedom' %}
+{% endif %}
 
 <{ peridot_and_topaz_meeting_with_lg_summary }/>
 
@@ -41,6 +47,7 @@
 
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 ===============================
 
@@ -50,6 +57,7 @@ Here are the deeds you have been guilty of during these first few weeks of opera
 - (failed) attempted abduction of Prof. Loakim, a friend of Loyd Georges {% xfact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
 - tax fraud (resale of gems from the auctions on the black market) {% xfact 'topaz_sells_gems_at_black_market' as author %}
 - identity theft (see your official "cover") {% xfact 'topaz_is_undercover' as author %}
+{% endif %}
 
 
 

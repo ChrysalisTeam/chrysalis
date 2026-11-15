@@ -18,13 +18,17 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - you have borrowed, with his full cooperation, the identity of {{character_properties.malachite.full_official_title}}, an expert in Yodic history who remains available to help your mission {% xfact 'malachite_official_is_helping_secret_services' as author %} {% xfact 'malachite_official_is_expert_in_yodic_history' %}
+{% endif %}
 - you are teamed up with agent Spinel, with whom you share a flat in Salima, above "Master Bibine, apothecary".
+{% if standalone %}
 - you know that Loyd Georges has discovered one of the Divine Orbs and hidden it away {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - you have unmasked "{{character_properties.garnet.full_official_title}}" and "{{character_properties.amethyst.full_official_title}}" as being the Lordanian secret agents Garnet and Amethyst {% xfact 'amethyst_is_undercover' %} {% xfact 'garnet_is_undercover' %}
 
 - it seems that a Lordanian agent "Emerald", corrupted by the Akariths, poisoned himself recently, in a Dorian embassy, while trying to assassinate a rich Lordanian desecrator; the Lordanian services have clearly understood nothing of the affair, and are seeking to avenge this "Emerald" {% xfact 'opal_killed_emerald_agent' %}
 - you have learned that the cellar of the {% symbol "Cafe Bargarac in Alifir" for "akarith_sect_den_bar" %} was sheltering Akarith "Purifiers" {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
+{% endif %}
 
 - the day before:
 
@@ -44,6 +48,7 @@
 - you are burning to recover the 2 recorders you planted in the manor (spy pen in the library, and spy dictaphone behind a sofa in the dining room)  {% xfact 'malachite_must_recover_spy_recorders' %}
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 ===============================
 
@@ -53,4 +58,5 @@ Here are the actions you have been guilty of during these first weeks of operati
 - (failed) burglary of a private warehouse in Alifir, with mercenaries {% xfact 'malachite&spinel_rob_alifir_warehouse' as author %}
 - terrorist plot (use of a "crowd of Akarith faithful" to sow chaos in Doria) {% xfact 'malachite_triggers_akarith_riot_in_dorian_dukedom' as author %}
 - identity theft (see your official "cover") {% xfact 'malachite_is_undercover' as author %}
+{% endif %}
 

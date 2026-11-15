@@ -21,12 +21,16 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - you have taken on the fake identity of {{character_properties.garnet.full_official_title}},
   which previously belonged to your colleague Emerald, poisoned in Doria {% xfact 'garnet_lost_colleague_emerald' as author %} {% xfact 'garnet_official_is_fictional_identity' as author %}
+{% endif %}
 - you are teamed up with agent Amethyst
+{% if standalone %}
 - you know that Loyd Georges has discovered one of the Divine Orbs and hidden it away {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - you have proof that {{character_properties.spinel.full_official_title}} has spied on Loyd Georges and on scientists from Alifir {% xfact 'spinel_wiretaps_lg_and_friends' %}
 - you know that {{character_properties.topaz.official_name}} has resold some of the gems acquired at auction on the black market {% xfact 'topaz_sells_gems_at_black_market' %}
+{% endif %}
 
 
 - the day before:
@@ -52,6 +56,7 @@
 
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 ===============================
 
@@ -61,6 +66,7 @@ Here are the actions you have been guilty of during these first weeks of operati
 - computer hacking (Loyd Georges' secondary account) {% xfact 'amethyst&garnet_crack_lg_2nd_web_account' as author %}
 - criminal conspiracy (attempt to hire a pickpocket) {% xfact 'garnet_attempts_lg_pickpocketing' as author %}
 - identity theft (see your official "cover") {% xfact 'garnet_is_undercover' as author %}
+{% endif %}
 
 
 

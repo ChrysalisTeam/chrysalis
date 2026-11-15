@@ -21,12 +21,16 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - vous avez pris l'identité fictive de {{character_properties.garnet.full_official_title}},
   qui appartenait auparavant à votre collègue Emerald empoisonné en Dorie {% xfact 'garnet_lost_colleague_emerald' as author %} {% xfact 'garnet_official_is_fictional_identity' as author %}
+{% endif %}
 - vous faites équipe avec l'agent Amethyst
+{% if standalone %}
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - vous avez la preuve que {{character_properties.spinel.full_official_title}} a espionné Loyd Georges et des scientifiques d'Alifir {% xfact 'spinel_wiretaps_lg_and_friends' %}
 - vous savez que {{character_properties.topaz.official_name}} a revendu certaines des gemmes acquises en enchères au marché noir {% xfact 'topaz_sells_gems_at_black_market' %}
+{% endif %}
 
 
 - la veille :
@@ -52,6 +56,7 @@
 
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 ===============================
 
@@ -61,6 +66,7 @@ Voici les actions dont vous vous êtes rendu coupable durant ces premières sema
 - piratage informatique (compte secondaire de Loyd Georges) {% xfact 'amethyst&garnet_crack_lg_2nd_web_account' as author %}
 - association de malfaiteurs (tentative d'embauche d'un pickpocket) {% xfact 'garnet_attempts_lg_pickpocketing' as author %}
 - usurpation d'identité (CF votre "couverture" officielle) {% xfact 'garnet_is_undercover' as author %}
+{% endif %}
 
 
 

@@ -16,8 +16,11 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - you have taken on the identity of {{character_properties.peridot.full_official_title}}, with the agreement of the real person, who has stayed quietly in his shop {% xfact 'peridot_official_was_bribed' %}{% xfact 'peridot_official_is_still_in_shop' %}
+{% endif %}
 - you are teamed up with agent Topaz
+{% if standalone %}
 - you know that Loyd Georges has discovered one of the Divine Orbs and hidden it away {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - your enquiries in the neighbourhood yielded nothing, apart from an endless conversation with Master Florent, apothecary and former apprentice of Master Bibine of Salima {% xfact "peridot_talked_with_master_florent" as author %}
 - you know from your partner that Loyd Georges had heavily involved Professor Loakim in his affairs {% xfact 'lg_gave_responsibilities_to_loakim' %}
@@ -25,6 +28,7 @@
 - a certain "Malachite" seems responsible for a recent burglary in a private warehouse in Alifir {% xfact 'malachite&spinel_rob_alifir_warehouse' %}
 - a certain "Spinel" spied on the telephone communications between Loyd Georges and Professor Loakim {% xfact 'spinel_wiretaps_lg_and_friends' %}
 - a certain "Amethyst" resold on the black market small artefacts from the auctions {% xfact 'amethyst_sells_items_at_black_market' %}
+{% endif %}
 
 {% macro peridot_and_topaz_meeting_with_lg_summary() %}
 - the day before:
@@ -44,6 +48,7 @@
 - in the event of an alliance with Akaris, the recognition sign with the Akariths would be "{% symbol "arms crossed over the chest" for "dorian_akarith_alliance_sign" %}" {% xfact "dorians_have_alliance_sign_with_akariths" %}
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 =============================
 
@@ -52,6 +57,7 @@ Here are the deeds you have been guilty of during these first few weeks of opera
 - (failed) attempted abduction of Prof. Loakim, a friend of Loyd Georges {% xfact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
 - (failed) attempted burglary of Loyd Georges' manor {% xfact 'peridot_robs_lg_manor_fail' as author %}
 - identity theft (for your official "cover") {% xfact 'peridot_is_undercover' as author %}
+{% endif %}
 
 
 Yodic Theology

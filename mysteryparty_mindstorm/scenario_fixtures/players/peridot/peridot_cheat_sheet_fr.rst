@@ -16,8 +16,11 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - vous avez pris l'identité de {{character_properties.peridot.full_official_title}}, avec l'accord de la vraie personne qui est restée en toute discrétion dans sa boutique {% xfact 'peridot_official_was_bribed' %}{% xfact 'peridot_official_is_still_in_shop' %}
+{% endif %}
 - vous faites équipe avec l'agent Topaz
+{% if standalone %}
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - vos recherches dans le voisinage n'ont rien donné, hormis une interminable discussion avec Maître Florent, apothicaire et ancien apprenti de Maître Bibine de Salima {% xfact "peridot_talked_with_master_florent" as author %}
 - vous savez par votre compère que le professeur Loakim était fortement impliqué par Loyd Georges {% xfact 'lg_gave_responsibilities_to_loakim' %}
@@ -25,6 +28,7 @@
 - un certain "Malachite" semble responsable d'un récent cambriolage dans un entrepôt privé d'Alifir {% xfact 'malachite&spinel_rob_alifir_warehouse' %}
 - un certain "Spinel" a espionné les communications téléphoniques entre Loyd Georges et le professeur Loakim {% xfact 'spinel_wiretaps_lg_and_friends' %}
 - un certain "Amethyst" a revendu au marché noir des petits artefacts provenant des enchères {% xfact 'amethyst_sells_items_at_black_market' %}
+{% endif %}
 
 {% macro peridot_and_topaz_meeting_with_lg_summary() %}
 - la veille :
@@ -44,6 +48,7 @@
 - en cas d'alliance avec l'Akarie, le signe de reconnaissance avec les akarites serait "{% symbol "les bras croisés sur la poitrine" for "dorian_akarith_alliance_sign" %}" {% xfact "dorians_have_alliance_sign_with_akariths" %}
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 =============================
 
@@ -52,6 +57,7 @@ Voici les actions dont vous vous êtes rendu coupable durant ces premières sema
 - tentative (ratée) d'enlèvement du Pr Loakim, ami de Loyd Georges {% xfact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
 - tentative (ratée) de cambriolage du manoir de Loyd Georges {% xfact 'peridot_robs_lg_manor_fail' as author %}
 - usurpation d'identité (pour votre "couverture" officielle) {% xfact 'peridot_is_undercover' as author %}
+{% endif %}
 
 
 Théologie Yodique

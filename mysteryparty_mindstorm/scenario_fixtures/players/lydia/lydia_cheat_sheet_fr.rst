@@ -11,13 +11,17 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - les forces de votre mari déclinent anormalement depuis 1 an  {% xfact 'opal_has_become_ill_for_1_year' %}
 
 - il y a 6 mois, vous avez déménagé près d'Alifir, pour vous lancer dans la course au consulat d'Alifir {% xfact 'opal_lydia_moved_to_alifir_villa_6_months_ago' as author %} {% xfact 'lydia_runs_for_alifir_consul_election' as author %}
+{% endif %}
 
 - votre mari a obtenu d'aménager en famille dans le manoir de Loyd Georges pour la durée des enchères, il y a deux semaines {% xfact "opal_lydia_temporarily_moved_to_lg_manor_2_weeks_ago" as author %}
 
+{% if standalone %}
 - l'empire financier de votre mari est en danger imminent de banqueroute, à cause de la faillite de la société de construction {% symbol "LordaBild" for "opal_construction_contractor" %} {% xfact 'opal_lydia_family_faces_bankrupt' %}
+{% endif %}
 
 - vous êtes sur le point de prendre la place du consul {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} grâce à une campagne électorale axée sur ces thèmes :
 
@@ -25,7 +29,9 @@
 <{ lydia_campaign_themes }/>
 {% endfilter %}
 
+{% if standalone %}
 - votre adversaire électoral, Mundlish Odalisc, cherche à vous faire chanter quant au passé de votre mari, mais difficile de savoir si ce n'est pas du bluff {% xfact 'lydia_threatened_by_opponent_mundlish_odalisc' as author %}
+{% endif %}
 
 - vous étiez partie, avec Khaal et votre cousine **{% symbol "Isildis" for "lydia_cousin_name" %}**, pour une {% symbol "thalassothérapie dans les monts brumeux (près de la frontière Est de Sabarim)" for "khaal_isildis_location" %}, quitte à manquer la soirée de Loyd Georges  {% xfact "lydia_was_out_of_manor_with_khaal_recently" as author %}
 

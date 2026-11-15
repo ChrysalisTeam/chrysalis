@@ -26,10 +26,12 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - vous avez emprunté à son insu l'identité de {{character_properties.amethyst.full_official_title}}, qui est en soin pour une maladie honteuse  {% xfact 'amethyst_official_has_venereal_disease' %}
 - vous faites équipe avec l'agent Garnet, qui a perdu récemment son collègue "Emerald" en Dorie (et a hérité de sa fausse identité) {% xfact 'garnet_lost_colleague_emerald' %}
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - vous avez démasqué les enchérisseurs doriens comme étant des agents secrets "Topaz" et "Peridot" travaillant pour la Dorie ; leurs "personnages officiels" sont respectivement "inexistant" et "toujours dans sa boutique" {% xfact 'topaz_official_is_non_existent' %} {% xfact 'peridot_official_is_still_in_shop' %}
+{% endif %}
 
 - la veille :
 
@@ -48,6 +50,7 @@ Vous connaissez des "Perles du Droit Sabarites", comme celle de la rupture amour
 
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 ======================================================
 
@@ -58,4 +61,5 @@ Vous connaissez des "Perles du Droit Sabarites", comme celle de la rupture amour
 - piratage informatique (compte secondaire de Loyd Georges) {% xfact 'amethyst&garnet_crack_lg_2nd_web_account' as author %}
 - fraude fiscale (revente de petits artefacts au marché noir) {% xfact 'amethyst_sells_items_at_black_market' as author %}
 - usurpation d'identité (CF votre "couverture" officielle) {% xfact 'amethyst_is_undercover' as author %}
+{% endif %}
 

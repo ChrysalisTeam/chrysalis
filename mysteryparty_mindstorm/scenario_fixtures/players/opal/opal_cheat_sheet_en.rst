@@ -7,6 +7,7 @@
 <{ opal_main_objectives }/>
 
 
+{% if standalone %}
 <{ title_major_recent_facts }/>
 =========================================================
 
@@ -22,12 +23,15 @@
 - you know that the bidder {{character_properties.spinel.official_name}} is actually a Masslavian agent, who has stolen the identity of a real citizen of his country  {% xfact 'spinel_is_undercover' %}
 
 - a web user with the pseudonym "Garnet" tried, unsuccessfully, to hire a pickpocket to rob Loyd Georges  {% xfact 'garnet_attempts_lg_pickpocketing' %}
+{% endif %}
 
 
 <{ title_last_minute_information }/>
 =========================================================
 
+{% if standalone %}
 - you still have good ties with your friend "The Docker" of the Sabarith secret services  {% xfact "opal_has_friend_in_sabarith_spies_called_the_docker" as author %}
+{% endif %}
 
 - you are carrying a list of the most violent poisons  {% xfact 'opal_researches_poisons' as author %} {% xitem 'deadliest_poisons_memo_for_opal' is provided %}
 
@@ -40,6 +44,7 @@
 - you have decided to sell your "Hydroland" offshore platform to the highest bidder; strangely, the land of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, although lagging behind technologically, recently sent a survey ship there to inspect its shallows  {% xfact "opal_owns_hydroland" as author %} {% xitem "hydroland_sale_poster" is needed %} {% xfact "balberith_has_poor_atom_analysis_technology" %}
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 ================================
 
@@ -52,6 +57,7 @@ Here are the deeds you have been guilty of in the past, and during these first f
 - death of the Lordanian agent Emerald (by making him drink your glass, which he had poisoned) at the Akarith embassy in Doria {% xfact 'opal_killed_emerald_agent' as author %}
 - fraudulent use of agent Emerald's network account (credentials stolen from his wallet), an account now destroyed {% xfact 'opal_accesses_emerald_agent_web_account' as author %}  {% xfact 'emerald_account_is_now_destroyed' %}
 - fraud (fraudulent victory at chess against Loyd Georges) {% xfact 'opal_cheats_at_chess_against_lg' as author %}
+{% endif %}
 
 
 

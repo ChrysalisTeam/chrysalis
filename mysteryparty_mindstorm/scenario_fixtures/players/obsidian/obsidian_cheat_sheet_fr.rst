@@ -11,11 +11,13 @@ Votre principale tâche est de préserver Sabarim contre les nombreuses menaces 
 **L'Affaire Voluto** garde aussi son importance ; en attendant d'obtenir des investigations sur le compte Anthropia du professeur, et peut-être de retrouver les enregistrements de surveillance de l'Académie d'Alifir, vous pouvez toujours voir du côté de ses anciens collègues : {% symbol "le docteur Marloff du département d'optique appliquée, le jeune physicien Waden Shaw, et le professeur Idn Gark du pôle Energies Nouvelles" for "voluto_suspicious_colleagues" %}. {% xfact "voluto_death_day_academy_recordings_disappeared" %} {% xfact 'agent_mission_investigate_voluto' %}
 
 
+{% if standalone %}
 <{ title_major_recent_facts }/>
 =========================================================
 
 - vous soupçonnez {{character_properties.opal.official_name}} d'avoir appartenu au gang des "Loups Rouges" par le passé, gang qui a volé les cierges d'or de la duchesse de Dorie, mère du Duc actuel ; il aurait par ailleurs, par le passé, rendu service aux services secrets sabarites sous la supervision de votre collègue "Le Docker"  {% xfact 'opal_was_in_red_wolves_gang' %} {% xfact "opal_has_friend_in_sabarith_spies_called_the_docker" as author %}
 - d'après la presse, un certain "{{character_properties.malachite.official_name}}", a eu les deux jambes cassées la veille lors d'une attaque de mouflon, dans l’arrière-pays désertique de Sabarim...  {% xfact 'malachite_official_breaks_leg' %}
+{% endif %}
 
 
 <{ title_last_minute_information }/>

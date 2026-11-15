@@ -18,13 +18,17 @@
 <{ title_major_recent_facts }/>
 =========================================================
 
+{% if standalone %}
 - vous avez emprunté avec sa complicité l'identité de {{character_properties.malachite.full_official_title}}, expert en histoire yodique qui reste disponible pour aider votre mission {% xfact 'malachite_official_is_helping_secret_services' as author %} {% xfact 'malachite_official_is_expert_in_yodic_history' %}
+{% endif %}
 - vous faites équipe avec l'agent Spinel, avec qui vous partagez un appartement de Salima, au-dessus de chez "Maître Bibine, apothicaire".
+{% if standalone %}
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - vous avez démasqué "{{character_properties.garnet.full_official_title}}", et "{{character_properties.amethyst.full_official_title}}" comme étant les agents secrets lordaniens Garnet et Amethyst {% xfact 'amethyst_is_undercover' %} {% xfact 'garnet_is_undercover' %}
 
 - il semble qu'un agent lordanien "Emerald", perverti par les Akarites, se soit auto-empoisonné il y a peu, dans une ambassade dorienne, en tentant d'assassiner un riche profanateur lordanien ; les services lordaniens n'ont visiblement rien compris à l'affaire, et cherchent à venger cet "Emerald" {% xfact 'opal_killed_emerald_agent' %}
 - vous avez appris que la cave du {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %} abritait des "purificateurs" akarites {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
+{% endif %}
 
 - la veille :
 
@@ -44,6 +48,7 @@
 - vous brûlez de pouvoir récupérer les 2 enregistreurs que vous avez posés dans le manoir (stylo-espion dans la bibliothèque, et dictaphone-espion derrière un canapé de la salle à manger)  {% xfact 'malachite_must_recover_spy_recorders' %}
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 ===============================
 
@@ -53,4 +58,5 @@ Voici les actions dont vous vous êtes rendu coupable durant ces premières sema
 - cambriolage (raté) d'un entrepôt privé d'Alifir, avec des mercenaires {% xfact 'malachite&spinel_rob_alifir_warehouse' as author %}
 - complot terroriste (utilisation d'une "foule de fidèles akarites" pour semer le chaos en Dorie) {% xfact 'malachite_triggers_akarith_riot_in_dorian_dukedom' as author %}
 - usurpation d'identité (CF votre "couverture" officielle) {% xfact 'malachite_is_undercover' as author %}
+{% endif %}
 

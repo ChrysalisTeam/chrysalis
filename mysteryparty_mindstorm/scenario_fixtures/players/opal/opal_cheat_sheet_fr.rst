@@ -7,6 +7,7 @@
 <{ opal_main_objectives }/>
 
 
+{% if standalone %}
 <{ title_major_recent_facts }/>
 =========================================================
 
@@ -22,12 +23,15 @@
 - vous savez que l'enchérisseur {{character_properties.spinel.official_name}} est en fait un agent masslave, qui a usurpé l'identité d'un vrai citoyen de son pays  {% xfact 'spinel_is_undercover' %}
 
 - un internaute de pseudo "Garnet" a tenté, sans succès, d'embaucher un pickpocket pour spolier Loyd Georges  {% xfact 'garnet_attempts_lg_pickpocketing' %}
+{% endif %}
 
 
 <{ title_last_minute_information }/>
 =========================================================
 
+{% if standalone %}
 - vous avez toujours de bons liens avec votre ami "Le Docker" des services secrets sabarites  {% xfact "opal_has_friend_in_sabarith_spies_called_the_docker" as author %}
+{% endif %}
 
 - vous avez sur vous une liste des poisons les plus violents  {% xfact 'opal_researches_poisons' as author %} {% xitem 'deadliest_poisons_memo_for_opal' is provided %}
 
@@ -40,6 +44,7 @@
 - vous avez décidé de vendre votre plate-forme maritime "Hydrolande" au plus offrant ; étrangement, le pays de {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, bien qu'à la traîne technologiquement, y a envoyé un navire-sondeur récemment pour inspecter ses hauts fonds  {% xfact "opal_owns_hydroland" as author %} {% xitem "hydroland_sale_poster" is needed %} {% xfact "balberith_has_poor_atom_analysis_technology" %}
 
 
+{% if standalone %}
 <{ title_past_infractions }/>
 ================================
 
@@ -52,6 +57,7 @@ Voici les actions dont vous vous êtes rendu coupable par le passé, et durant c
 - mort de l'agent lordanien Emerald (en lui faisant boire votre verre, qu'il avait empoisonné) à l’ambassade akarite en Dorie {% xfact 'opal_killed_emerald_agent' as author %}
 - utilisation frauduleuse du compte réseau de l'agent Emerald (vol des identifiants dans son portefeuille), compte désormais détruit {% xfact 'opal_accesses_emerald_agent_web_account' as author %}  {% xfact 'emerald_account_is_now_destroyed' %}
 - escroquerie (victoire frauduleuse au jeu d'échecs contre Loyd Georges) {% xfact 'opal_cheats_at_chess_against_lg' as author %}
+{% endif %}
 
 
 
