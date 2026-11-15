@@ -36,6 +36,7 @@ character_properties:
     extra_goods: "Certified currency: 1000 Sabarith Pounds"
   obsidian:
     official_role: "Sabarith deputy police officer"
+    extra_goods: "Certified currency: 1000 Sabarith Pounds"
   opal:
     official_role: "Wealthy Lordanian, native of Baynon, lover of fine antiquities and gemstones"
     extra_goods: "Certified currency: 1000 Sabarith Pounds"
