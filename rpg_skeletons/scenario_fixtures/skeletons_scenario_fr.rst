@@ -15,7 +15,7 @@ Les personnages
 
 Les héros sont des **"carcasses"**, squelettes animés magiquement par un nécromancien.
 
-Ils portent un très **épais haume** gravé de runes, couvrant entièrement leur tête ; son enchantement leur permet de voir le monde (en nuances pastel), de sentir les odeurs, de toucher les objets, et d'entendre les sons presque normalement.
+Ils portent un très **épais heaume** gravé de runes, couvrant entièrement leur tête ; son enchantement leur permet de voir le monde (en nuances pastel), de sentir les odeurs, de toucher les objets, et d'entendre les sons presque normalement.
 
 Un **emplacement vide**, en forme de losange, est visible en haut du heaume.
 Si serti avec une gemme en losange dite **vibraphone**, les squelettes deviennent capables de parler normalement.
@@ -36,7 +36,7 @@ Les autres protagonistes du donjon les appellent **"l'avant-garde" ou "la fine �
 
 - GAMMA (ossements moyennement abîmés)
 
-  - En réalité "le mage Childeric", nécromancien, devenu ami du mage Parcival (et quasi-oncle de SAPHIR)
+  - En réalité "le mage Childéric", nécromancien, devenu ami du mage Parcival (et quasi-oncle de SAPHIR)
   - Avait mis en place les défenses du donjon
   - Sait bien se battre avec un gantelet magique (initialement, sait faire uniquement un jet de flamme)
   - Ressent les artefacts magiques ou envoûtés
@@ -79,9 +79,9 @@ La forêt bubonique
 - Ils sonnent un **olifant** pour avertir le donjon des dangers (1, 2 ou 3 coups selon la gravité)
 - Ils vont chercher leur Marquis si les squelettes arrivent
 - Des rats vont se coller contre les tibias des squelettes pour transmettre leurs vibrations (s'ils n'ont pas de vibraphone)
-- **Rat Marquis** (a un **vibraphone** sur le font) : il dit envoyer quelques dizaines de rats sur chaque aventurier qui arrive, pour les "fatiguer", contre une partie du butin et de la viande du donjon ; la population de rats musqués est au beau fixe, certains hibernent pour limiter la consommation.
+- **Rat Marquis** (a un **vibraphone** sur le front) : il dit envoyer quelques dizaines de rats sur chaque aventurier qui arrive, pour les "fatiguer", contre une partie du butin et de la viande du donjon ; la population de rats musqués est au beau fixe, certains hibernent pour limiter la consommation.
 - **PANCARTES** un peu partout, clamant **Ce château et son domaine sont des propriétés privées dûment enregistrées au greffe de Kilandar. Nous n'avons ni trésor, ni maléfices secrets, ni intention de conquérir le monde. Sur vos vies, passez votre chemin.**
-- Si les carcasses dépassent le nid des rats musqués, ils se désagrègent, car trop loin de leur "arbre de vie" ; en pire cas, les rats musqués les ramènent en pièces détachées au donjon.
+- Si les carcasses dépassent le nid des rats musqués, elles se désagrègent, car trop loin de leur "arbre de vie" ; en pire cas, les rats musqués les ramènent en pièces détachées au donjon.
 
 
 La garnison (à l'entrée de la presqu'île)
@@ -135,11 +135,11 @@ CONRAD :
 - Le plus énorme de tous (3m de haut, 1m50 de large)
 - Ne peut pas entrer dans les autres bâtiments, ou monter à l'étage, car trop large
 - Initialement, joue de l'accordéon
-- À une **dague plantée** dans le côté et ne s'en rend pas compte (les autres en rient), il se plaint que çà peut rouiller et puruler
+- A une **dague plantée** dans le côté et ne s'en rend pas compte (les autres en rient), il se plaint que ça peut rouiller et puruler
 - Sait dessiner au fusain, en couleur
 - Très amical et conciliant
 - Défend le bilan du "MAGE" (et non plus "apprenti") FOULQUES : nécromancie apprise en 6 mois seulement, dépeçoir mécanisé, pièges de la salle du trône, recettes de viande aux épices ; **"un véritable polymathe"**
-- Gueule "Loulou, touche pas à çà" violemment au milieu de confidences, faisant sursauter tout le monde
+- Gueule "Loulou, touche pas à ça" violemment au milieu de confidences, faisant sursauter tout le monde
 
 EULALIE :
 
@@ -147,10 +147,10 @@ EULALIE :
 - Ne peut juste pas monter tout en haut de la tour (jusqu'à la maisonnette), car dernier escalier en colimaçon trop étroit
 - Initialement, aiguise des armes sur une meule
 - Est ronchonne, pince-sans-rire, mais pas méchante
-- À une certaine aptitude à déceler les auras magiques
+- A une certaine aptitude à déceler les auras magiques
 - A récupéré les squelettes complets de GAMMA et OMEGA dans l'ossuaire, pour remplacer respectivement **Brolok** (pulvérisé par un pyromancien) et **Karnine** (qui était fatiguée de rester en vie, et trop abîmée)
 - Se plaint que les carcasses sont mal entretenues par l'apprenti FOULQUES, d'où leurs **pertes de mémoire** préoccupantes
-- "Mais Conrad ton hachoir çà n'a aucun impact qu'il soit aiguisé ou non, c'est justement l'impact qui fait tout !"
+- "Mais Conrad ton hachoir, ça n'a aucun impact qu'il soit aiguisé ou non, c'est justement l'impact qui fait tout !"
 
 GAUBERT et HERBERT :
 
@@ -176,13 +176,13 @@ SAPHIR (semi-atlante) :
 - Les carcasses reconnaissent intuitivement qu'elle est la "Perle de Sylvorann", et brûlent de la protéger
 - Initialement habillée de velours vert classieux
 - Fille (adoptive) du mage Parcival ; la garde rapprochée dit qu'elle a été trouvée dans un "couffin de soie, gardé par une meute de loups"
-- Était auparavant instruite par le mage Childeric
+- Était auparavant instruite par le mage Childéric
 - Initialement, révise sa géographie, via le **miroir magique**, avec le **Druide Galien**, un lointain ami de son père
 - Adore recueillir les animaux abandonnés, blessés, ou vieillissants de la forêt
 - Porte au cou un épais **collier d'argent avec un médaillon nacré en forme de coquille Saint-Jacques** au bout (les autres lui interdisent de l'enlever)
 - Impose aux autres de ne plus faire de mal aux espèces qu'elle a déjà recueillies (les forçant peu à peu vers le végétarisme, à leur grand dam)
 - Aimait se faire appeler "princesse" par la garde, mais plus maintenant
-- Se plaint que le mage Childeric parlait depuis longtemps de reprendre son errance initiatique, mais qu'il a quitté le donjon trop brutalement, sans même dire au revoir, et que çà la blesse ; il était comme un oncle pour elle ; il ne répond même pas à ses messages envoyés par la **"boîte messagère"** *(FOULQUES entend cela à un moment)*.
+- Se plaint que le mage Childéric parlait depuis longtemps de reprendre son errance initiatique, mais qu'il a quitté le donjon trop brutalement, sans même dire au revoir, et que ça la blesse ; il était comme un oncle pour elle ; il ne répond même pas à ses messages envoyés par la **"boîte messagère"** *(FOULQUES entend cela à un moment)*.
 - Si quelqu'un évoque auprès d'elle un **purinoir** (voir "le fond de l'affaire") : cela la choque, elle se referme durablement sur elle-même, meurtrie et terrifiée que son père ait pu divulguer leur secret
 
 
@@ -211,14 +211,14 @@ Un lit et une petite commode sont les seuls mobiliers "normaux".
 
 L'ancien matériel (dont livres) du mage Childéric est repoussé dans des coffres au fond.
 
-Artefacts intéressants HORS des coffres:
+Artefacts intéressants HORS des coffres :
 
 - **Arbre de vie** en gemmes noires de toutes tailles, avec 3 branches principales
 - **Manuel de nécromancie**, expliquant comment invoquer des abominations et des carcasses. Points importants : cette réanimation n'est possible que lors de morts violentes, pendant quelques jours maximum ; l'arbre de vie est la source du maintien en vie des carcasses, il a une portée limitée, et une "capacité" qui dépend de son nombre de branches principales ; il nécessite peu d'entretien, hormis quelques gouttes du sang du nécromancien à chaque lune ; les abominations, elles, peuvent rester en vie très longtemps, tant qu'elles se nourrissent ; tous ont un **contrat moral** : ne jamais chercher à nuire à leur créateur.
 
-Artefacts intéressants DANS les coffres:
+Artefacts intéressants DANS les coffres :
 
-- **Grimoire des sortilèges élémentaires**, permettant à GAMMA (Childeric) de se souvenir de meilleurs sorts avec son gantelet : arc électrique, onde de choc, éclat de lumière...
+- **Grimoire des sortilèges élémentaires**, permettant à GAMMA (Childéric) de se souvenir de meilleurs sorts avec son gantelet : arc électrique, onde de choc, éclat de lumière...
 - **Boîte messagère** en ébène, contenant potentiellement un courrier de demande de nouvelles, envoyé par SAPHIR
 - En cherchant bien : **robe d'invocation et bijoux du mage Childéric**
 
@@ -242,13 +242,13 @@ Tour - Chambres
 
 Devant les chambres, une petite **galerie de portraits** réalisés au fusain par CONRAD : le mage Childéric (grand et mince, long visage très fin), le mage Parcival (petit et trapu, a une **dent en or**), et plusieurs, évolutives, de SAPHIR.
 
-**Détail supplémentaire : TATOUAGE** de forme ronde qui apparait sur l'épaule de SAPHIR au début de l'adolescence, et qui bout de tatouage arrondi sur l'avant-bras du mage Parcival. Le mage Childéric est trop couvert pour voir s'il a des tatouages.
+**Détail supplémentaire : TATOUAGE** de forme ronde qui apparait sur l'épaule de SAPHIR au début de l'adolescence, et un bout de tatouage arrondi sur l'avant-bras du mage Parcival. Le mage Childéric est trop couvert pour voir s'il a des tatouages.
 
 Les chambres sont ouvertes, en train d'être aérées.
 
 Chambre du mage Parcival : mobilier simple, quelques vêtements, quelques journaux empilés, correspondance avec quelques amis distants, dessins d'enfant faits par SAPHIR. Dans la table de nuit : **notes sur l'éducation des semi-atlantes**, expliquant que ces enfants "révèlent" leur potentiel hérité en milieu d'adolescence, et que s'ils apprennent à contrôler leurs pouvoirs, tout se passe très bien.
 
-Chambre de SAPHIR : planche en bois bloquant le bas de la porte ; mobilier simple, quelques vêtements (EULALIE surgit avec lessive propre et engueule les carcasses s'ils fouillent les sous-vêtements), **manuel de clairvoyance** très abîmé (prêté par son père), graines de légumes et autres plantes, **boîte messagère** en ébène (avec potentiellement un faux message de nouvelles du mage Childéric) ; petit terrarium ouvert sous le lit (pour la mygale)
+Chambre de SAPHIR : planche en bois bloquant le bas de la porte ; mobilier simple, quelques vêtements (EULALIE surgit avec lessive propre et engueule les carcasses si elles fouillent les sous-vêtements), **manuel de clairvoyance** très abîmé (prêté par son père), graines de légumes et autres plantes, **boîte messagère** en ébène (avec potentiellement un faux message de nouvelles du mage Childéric) ; petit terrarium ouvert sous le lit (pour la mygale)
 
 Ce que dit le manuel de clairvoyance :
 
@@ -265,7 +265,7 @@ Accessible uniquement par un mince escalier en colimaçon.
 
 Le long du créneau : un stock de poix et de roches, une baliste en cours de fabrication.
 
-Toutes les issues sont fermées. Des **protections magiques** empêchent d'ouvrir la porte, GAMMA (Childeric) peut les faire laborieusement sauter.
+Toutes les issues sont fermées. Des **protections magiques** empêchent d'ouvrir la porte, GAMMA (Childéric) peut les faire laborieusement sauter.
 
 C'est un laboratoire improvisé, plein de sceaux magiques, de grimoires, d'ustensiles et potions liés à la voyance.
 
@@ -296,7 +296,7 @@ Elles se font immédiatement massacrer par un groupe de chevaliers venus trop ra
 Jour 2
 ----------
 
-- FOULQUES réveille une à une les carcasses (amnésique), leur demande leur prénom en touchant leur casque pour les entendre (mais elles n'en savent rien), et leur en assigne un tiré de l'alphabet grec
+- FOULQUES réveille une à une les carcasses (amnésiques), leur demande leur prénom en touchant leur casque pour les entendre (mais elles n'en savent rien), et leur en assigne un tiré de l'alphabet grec
 - Il leur crie de protéger la **Perle de Sylvorann**, ce qui les électrise, puis il repart vers le donjon.
 - Un olifant résonne
 - Un rat musqué arrive, avec un parchemin : "1 épée à deux mains, un archer, et un diacre"
@@ -318,7 +318,7 @@ Jour 3 - matin
 
   - Il remonte la falaise à travers des galeries souterraines
   - Il appelle les carcasses avec un **sifflet** depuis la forêt, puis seulement si nécessaire va jusqu'à la garnison lui-même (à contrecoeur)
-  - À transmettre au donjon : un petit campement militaire et une tourelle d'observation ont été dressés sur une colline de l'autre côté de la forêt, donc le donjon est désormais espionné, il ne veut plus y être vu; il a laissé son **Zeppelin** bien loin, au port, pour ne pas éveiller de soupçons ; il suggère d'aller négocier avec ces militaires au cas où.
+  - À transmettre au donjon : un petit campement militaire et une tourelle d'observation ont été dressés sur une colline de l'autre côté de la forêt, donc le donjon est désormais espionné, il ne veut plus y être vu ; il a laissé son **Zeppelin** bien loin, au port, pour ne pas éveiller de soupçons ; il suggère d'aller négocier avec ces militaires au cas où.
   - Il délivre un chargement de 2 tonnelets de **poudre noire**, un bidon de poix liquide, un caisson de pièces métalliques biscornues, des lentilles de longue-vue (fragiles).
   - À transmettre aux rats musqués : une **poche de graines multicéréales**
   - Il redonne une **chevalière en or blanc** dans un écrin en verre, en indiquant qu'il n'a pas eu l'occasion de supprimer sa **malédiction** (donc ne pas la mettre au doigt) ; en effet, cette bague appartient à la lignée royale du pays, dont tout le monde recherche les lointains cousins, car le trône est vacant ; il dit qu'il a peut-être trop divulgué d'informations, par ivresse, dans le milieu de la pègre, et qu'il est possible que le donjon se retrouve ciblé à cause de cela. *La chevalière est en réalité à Brunissende, qui a une réminiscence si elle la touche directement ; si quelqu'un d'autre la met au doigt, cela lui paralyse le bras pour plusieurs jours*.
@@ -341,7 +341,7 @@ Les carcasses sont censées explorer la salle de garde et le reste du donjon.
 
 Dans la salle de garde :
 
-- Accueil cordial par les abominations, *"çà faisait longtemps !"*
+- Accueil cordial par les abominations, *"ça faisait longtemps !"*
 - Questions sur le chargement de biens (si apporté)
 - GAUBERT et HERBERT invitent ALPHA (Brunissende) à jouer aux dés et trinquer
 - Voyant les squelettes muets, l'une des abominations va chercher dans la petite cave cachée les gemmes **vibraphones** de casque, qui leur permettent de parler ; cela dévoile au passage les **ARMES disponibles**, que les carcasses peuvent obtenir après négociation (explication : il y avait la crainte de se faire dérober des armes trop intéressantes sur les squelettes, par des aventuriers qui rebrousseraient chemin)
@@ -364,9 +364,9 @@ Dans la salle du trône :
   - Elle propose aux squelettes de venir jardiner aussi quand ils sont reposés
 
 - À un moment, FOULQUES revient de son laboratoire, fébrile, les bras chargés d'outils et pièces de métal, et l'esprit très occupé ; il parle de la **baliste inachevée** de la tour, une des pièces n'a toujours pas été livrée : des **cordages** très solides *(que Brunissende saurait créer)*
-- S'il voit les carcasses, il est surpris, et s'alarme quant à la garnison laissée vide ; les abominations le rassurent là-dessus, "ils ont toujours fait comme çà"
-- CONRAD, GAUBERT ou HERBERT revigore FOULQUES, en lui disant que tout le monde admire sa polyvalence et son efficacité, et qu'il ne doit pas se sentir dépassé même s'il met ses pas dans celui d'un géant, le mage Childéric ; FOULQUES remercie, mais reste anxieux.
-- GAUBERT et HERBERT demandent à parler à FOULQUES au sujet de la **"Révélation de SAPHIR"** ; ils s'isolent dans le laboratoire de nécromancie, pour que la jeune fille n'entende pas ; ils disent que SAPHIR a montré des signes avant-coureurs au niveau des yeux, mais malgré les émotions et dangers de cette excursion, elle n'a pas encre révélé son potentiel, qui sera cependant très probablement **athlétique**. 
+- S'il voit les carcasses, il est surpris, et s'alarme quant à la garnison laissée vide ; les abominations le rassurent là-dessus, "ils ont toujours fait comme ça"
+- CONRAD, GAUBERT ou HERBERT revigore FOULQUES, en lui disant que tout le monde admire sa polyvalence et son efficacité, et qu'il ne doit pas se sentir dépassé même s'il met ses pas dans ceux d'un géant, le mage Childéric ; FOULQUES remercie, mais reste anxieux.
+- GAUBERT et HERBERT demandent à parler à FOULQUES au sujet de la **"Révélation de SAPHIR"** ; ils s'isolent dans le laboratoire de nécromancie, pour que la jeune fille n'entende pas ; ils disent que SAPHIR a montré des signes avant-coureurs au niveau des yeux, mais malgré les émotions et dangers de cette excursion, elle n'a pas encore révélé son potentiel, qui sera cependant très probablement **athlétique**. 
 
 - Dans le potager, SAPHIR et CONRAD discutent en travaillant la terre
 
@@ -405,7 +405,7 @@ Jour 3 - soir
 Jour 3 - nuit tombée
 ---------------------
 
-- Un rat musqué arrive au château, et indique qu'un **détachement de militaires** se prépare à traverser la jungle **avec des canons**, ils seront probablement là au matin
+- Un rat musqué arrive au château, et indique qu'un **détachement de militaires** se prépare à traverser la forêt **avec des canons**, ils seront probablement là au matin
 - À un moment, les joueurs finissent par découvrir que le mage Parcival n'est pas dans la maisonnette (ex. indice déclencheur : la fumée ne s'en échappe plus)
 - SAPHIR court partout, les larmes aux yeux, haletante, à la recherche de son papa
 - Elle fracture le dépeçoir, et en ramène deux plaques de peau portant le **tatouage** qu'elle-même a sur l'épaule : un **loup roulé en boule**
@@ -414,7 +414,7 @@ Jour 3 - nuit tombée
 - FOULQUES avoue tout, mais dit que ce sont des "accidents"
 - SAPHIR, les yeux noirs comme du charbon, se dirige vers le trône, le saisit, bondit au plafond, et le lance sur FOULQUES (qui est potentiellement aplati)
 - SAPHIR redevient normale et éclate en sanglots, roulée en boule au sol
-- Si FOULQUES est mort CONRAD demande aux carcasses de "trouver une solution pour rester en vie", car il ne veut pas que SAPHIR porte cette culpabilité en plus
+- Si FOULQUES est mort, CONRAD demande aux carcasses de "trouver une solution pour rester en vie", car il ne veut pas que SAPHIR porte cette culpabilité en plus
 - CONRAD amène SAPHIR se remettre de son désespoir au potager, avec chiens-loups, lapin etc.
 
 
@@ -454,7 +454,7 @@ La jeune SAPHIR a donc vite été rejetée par le reste du village, et constamme
 
 Alors Colbert a tout vendu et quitté le village.
 Il a changé de nom pour s'appeler désormais "Parcival" comme sa grand-mère.
-Il a inventé avec SAPHIR l'histoire d'un "couffin de soie, gardé par une meute de loups"
+Il a inventé avec SAPHIR l'histoire d'un "couffin de soie, gardé par une meute de loups".
 Mais nulle part, lui et sa fille n'étaient les bienvenus.
 
 Le nouveau Parcival a développé ses dons médiumniques pour guider leur route, devenant ainsi un mage.
