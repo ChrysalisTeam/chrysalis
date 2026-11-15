@@ -10,8 +10,9 @@ import os
 import re
 
 
-# for now, only these two types exist; sheets of the "postauction.custom" type are not built by this project
-GAME_TYPES = {True: "anteauction.standalone", False: "postauction.custom"}
+# Values of the "game_type" root variable (see configuration.yaml), mapped to the "standalone" flag of templates;
+# the "*.postauction.custom_*.rst" files are placeholders to customize for each game
+GAME_TYPES = {"anteauction.standalone": True, "postauction.custom": False}
 
 EXCLUDED_CHARACTERS = []  # mystery-party has no sheet for these characters, for now
 
@@ -86,10 +87,11 @@ def strip_pychronia_page_markup(text):
 
 def prepare_variables(variables, *, language, jinja_env):
     project_dir = variables["project_dir"]
-    assert language in DOCUMENT_TITLES, "Mindstorm must be built with --lang fr|en, not %r" % language
+    assert language in DOCUMENT_TITLES, "Mindstorm must be built with --variable lang=fr|en, not %r" % language
 
-    is_standalone = variables.setdefault("standalone", True)
-    variables["game_type"] = GAME_TYPES[bool(is_standalone)]
+    game_type = variables.get("game_type")
+    assert game_type in GAME_TYPES, "Variable 'game_type' must be one of %s, not %r" % (sorted(GAME_TYPES), game_type)
+    variables["standalone"] = GAME_TYPES[game_type]
 
     variables["document_titles"] = DOCUMENT_TITLES[language]
     variables["available_anthropia_abilities"] = AVAILABLE_ANTHROPIA_ABILITIES[language]

@@ -50,11 +50,15 @@ LibreOffice must be installed in your system (its "soffice" executable must be f
 
 Then run storygen from the root folder of the repository, with the project folder of a game (see the sections of each game below)::
 
-	pychronia_storygen <project folder> --lang en
+	pychronia_storygen <project folder> --variable lang=en
 
 Main options (use ``--help`` for details):
 
-- ``--lang fr|en`` chooses the language of the sources to use: French ones have a "_fr" suffix, English ones an "_en" suffix (see "common_assets/tools/TRANSLATION_GLOSSARY_FR_EN.rst"). Translated projects must always be built with it.
+- ``--variable name=value`` (or ``-V name=value``, can be repeated) sets a root variable of the project, overriding the "variables" entry of its "configuration.yaml". These variables are available in templates, in the ``{name}`` placeholders of the paths of the configuration, and in its rst2pdf settings. The values "true" and "false" are booleans, integers are numbers, and anything else is a string.
+- ``--variable lang=fr|en`` chooses the language of the sources to use: French ones have a "_fr" suffix, English ones an "_en" suffix (see "common_assets/tools/TRANSLATION_GLOSSARY_FR_EN.rst"). Translated projects must always be built with it.
+- ``--variable decorations=false`` (Mindstorm and Archives only) generates printer-friendly documents: the sheets for participants lose their dark background (and, in Mindstorm, their closing image), and use the same plain style as gamemaster documents.
+- ``--variable game_type=postauction.custom`` (Mindstorm only) builds the sheets of a game played after the Auction, see "Chrysalis:Mindstorm" below.
+- ``--output-dir <folder>`` generates the files in this folder instead of the default one (see below), e.g. to keep several variants of the documents side by side.
 - ``--skip-document-splitting`` still parses the in-game clues ODT files (to register the story tags they contain, for the consistency checks), but does not split them into separate PDF files, so LibreOffice is not needed and the build is much faster.
 - ``-t sheets|documents|inventories`` (can be repeated) only generates these types of assets, e.g. ``-t sheets`` to quickly rebuild character sheets; coherence summaries are only generated when no ``-t`` option is given.
 
@@ -72,7 +76,7 @@ Chrysalis:Descent
 
 Its documents are built from the "rpg_descent/storygen/" project folder (kept out of "rpg_descent/scenario_fixtures/", which the Pychronia portal loads as game data). Run::
 
-	pychronia_storygen rpg_descent/storygen --lang en
+	pychronia_storygen rpg_descent/storygen --variable lang=en
 
 The "rpg_descent/storygen/_output/en/" folder should then contain the gamemaster manual, and character sheets, for this tabletop roleplay game.
 
@@ -84,9 +88,16 @@ Chrysalis:Mindstorm
 
 Run::
 
-	pychronia_storygen mysteryparty_mindstorm/scenario_fixtures --lang en
+	pychronia_storygen mysteryparty_mindstorm/scenario_fixtures --variable lang=en
 
 The "mysteryparty_mindstorm/scenario_fixtures/_output/en/" folder should then contain the gamemaster manual, character sheets (and cheat sheets), summary docs, and in-game documents for this mystery party game. Add ``--skip-document-splitting`` to skip the extraction of in-game clues (see "Common setup" above).
+
+Two variables of its "configuration.yaml" can be overridden on the command line:
+
+- ``--variable decorations=false`` generates printer-friendly documents, without dark background nor closing image.
+- ``--variable game_type=postauction.custom`` builds the documents of a mystery party played as a sequel to the "Chrysalis:Auction" alternate reality game, instead of the default autonomous game ("anteauction.standalone"). The introductions of character sheets and of the game universe then come from the "\*.postauction.custom_<language>.rst" files of the project (instead of the "\*.anteauction.standalone_<language>.rst" ones), and the template sections marked ``{% if standalone %}`` are left out. These post-auction files are only commented-out examples or instructions, since their content depends on how your own Auction game ended: **customize them before building**. Use a separate output folder, so that the files of the standalone game are not overwritten::
+
+	pychronia_storygen mysteryparty_mindstorm/scenario_fixtures --variable lang=en --variable game_type=postauction.custom --output-dir mysteryparty_mindstorm/scenario_fixtures/_output/postauction_en
 
 This game requires some data files, which are loaded by the "data_files" entry of its "configuration.yaml":
 
@@ -104,9 +115,9 @@ Chrysalis:Archives
 
 Run::
 
-	pychronia_storygen mysteryparty_archives/scenario_fixtures --lang en
+	pychronia_storygen mysteryparty_archives/scenario_fixtures --variable lang=en
 
-The "mysteryparty_archives/scenario_fixtures/_output/en/" folder should then contain the gamemaster manual, and character sheets, for this mystery party.
+The "mysteryparty_archives/scenario_fixtures/_output/en/" folder should then contain the gamemaster manual, and character sheets, for this mystery party. Add ``--variable decorations=false`` to generate printer-friendly documents, without dark background.
 
 See instructions for "Chrysalis:Mindstorm" above, for the data files ("local.yaml", game data dump, photos) and the in-game clues extraction.
 
@@ -116,7 +127,7 @@ Chrysalis:Auction
 
 Its gamemaster manual is built from the "alternate_reality_game_auction/scenario_fixtures/" project folder. Run::
 
-	pychronia_storygen alternate_reality_game_auction/scenario_fixtures --lang en
+	pychronia_storygen alternate_reality_game_auction/scenario_fixtures --variable lang=en
 
 The "alternate_reality_game_auction/scenario_fixtures/_output/en/" folder should then contain the whole gamemaster manual for this alternate reality game, as well as a preview version with only a few pages (in which links to missing sections are turned into plain text).
 
@@ -128,9 +139,9 @@ Chrysalis:Cromlech
 
 Run::
 
-	pychronia_storygen mysteryparty_cromlech/scenario_fixtures --lang en
+	pychronia_storygen mysteryparty_cromlech/scenario_fixtures --variable lang=en
 
-The "mysteryparty_cromlech/scenario_fixtures/_output/en/" folder should then contain the gamemaster manual, character sheets, inventories and documents of this mystery party (use ``--lang fr`` for the French ones). This project has its own theme, in its "themes/" folder.
+The "mysteryparty_cromlech/scenario_fixtures/_output/en/" folder should then contain the gamemaster manual, character sheets, inventories and documents of this mystery party (use ``--variable lang=fr`` for the French ones). This project has its own theme, in its "themes/" folder.
 
 
 Chrysalis:Skeletons and Chrysalis:Sentience
@@ -138,9 +149,9 @@ Chrysalis:Skeletons and Chrysalis:Sentience
 
 The scenario of Chrysalis:Skeletons (French only) is "rpg_skeletons/scenario_fixtures/skeletons_scenario_fr.rst", a restructuredtext file; to regenerate its PDF, run::
 
-	pychronia_storygen rpg_skeletons/scenario_fixtures --lang fr
+	pychronia_storygen rpg_skeletons/scenario_fixtures --variable lang=fr
 
-The scenario of Chrysalis:Sentience is a single restructuredtext file per language, in "rpg_sentience/scenario_fixtures/"; build it with ``pychronia_storygen rpg_sentience/scenario_fixtures --lang fr`` (or ``--lang en``).
+The scenario of Chrysalis:Sentience is a single restructuredtext file per language, in "rpg_sentience/scenario_fixtures/"; build it with ``pychronia_storygen rpg_sentience/scenario_fixtures --variable lang=fr`` (or ``--variable lang=en``).
 
 PDF files are generated in the "_output/<language>/" subfolder of these project folders.
 

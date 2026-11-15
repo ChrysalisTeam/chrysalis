@@ -1,5 +1,9 @@
-# Mindstorm mystery party, built in both languages with "pychronia_storygen <this folder> --lang fr|en"
+# Mindstorm mystery party, built in both languages with "pychronia_storygen <this folder> --variable lang=fr|en"
 # (replaces docs/build_mindstorm_pdfs.py). Sheet and group names are English in both languages.
+#
+# Other root variables can be overridden the same way (see "variables" below), eg.
+#   --variable game_type=postauction.custom   (sheets for a game played after the Auction alternate reality game)
+#   --variable decorations=false              (printer-friendly documents, without dark background and closing image)
 #
 # NOTE - this folder is also read by the Pychronia game, but only for the files that it lists explicitly in
 # pychronia_game/common_settings.py (anthropia_game_data_overrides*.yaml), so this configuration, the hook module
@@ -11,10 +15,16 @@
   "rst2pdf_conf_file": "../../common_assets/rst2pdf.conf"
   "docutils_conf_file": "../../common_assets/docutils.conf"
   "rst2pdf_smart_quotes": 0  # docutils handles the (language-aware) smart quotes
-  "rst2pdf_extra_args": "--stylesheets=simple_tight"  # undecorated documents
+  "rst2pdf_extra_args": "--stylesheets={{ plain_style }}"  # undecorated documents
 
 "variables":
-  "standalone": true  # game type "anteauction.standalone" (see the part names below), for the "if standalone" templates
+  # Game type, used in the names of sheet parts below: "anteauction.standalone" (default, autonomous game), or
+  # "postauction.custom" (game following the Auction, its "*.postauction.custom_*.rst" files must be customized first).
+  # The hook derives from it the "standalone" boolean, for the "if standalone" templates
+  "game_type": "anteauction.standalone"
+  "decorations": true  # if false, decorated documents use the plain style, and lose their closing image
+  "decorated_style": "simple_large,dark_background_with_cover"  # rst2pdf stylesheets of decorated documents
+  "plain_style": "simple_tight"  # rst2pdf stylesheets of other documents
   "toc_depth": 1  # of decorated sheets, see layouts/header.rst
 
 "data_files":
@@ -33,7 +43,7 @@
         "current_player_id": null  # these documents do not register story tags
       "sheets":
         "gamemaster_manual":
-          "settings": {"rst2pdf_extra_args": "--stylesheets=simple_large,dark_background_with_cover"}
+          "settings": {"rst2pdf_extra_args": "--stylesheets={{ decorated_style if decorations else plain_style }}"}
           "variables": {"current_player_id": "system", "title_key": "gamemaster_manual", "toc_depth": 2}  # "system" is the master login, masked in the facts summary
           "full_sheet":
             - "layouts/header.rst"
@@ -66,13 +76,13 @@
         "current_player_id": null
       "sheets":
         "lore_introduction":
-          "settings": {"rst2pdf_extra_args": "--stylesheets=simple_large,dark_background_with_cover"}
+          "settings": {"rst2pdf_extra_args": "--stylesheets={{ decorated_style if decorations else plain_style }}"}
           "variables": {"title_key": "common_lore"}
           "full_sheet":
             - "layouts/header.rst"
-            - "context_intro.anteauction.standalone_{lang}.rst"
+            - "context_intro.{game_type}_{lang}.rst"
             - "layouts/page_break.rst"
-            - "context_details.anteauction.standalone_{lang}.rst"
+            - "context_details.{game_type}_{lang}.rst"
             - "layouts/page_break.rst"
             - "common_guests_gallery_{lang}.rst"
             - "layouts/page_break.rst"
@@ -96,13 +106,13 @@
         "guests_gallery":
           "full_sheet":
             - "common_guests_gallery_{lang}.rst"
-    "players":  # full sheets, with decorations
-      "settings": {"rst2pdf_extra_args": "--stylesheets=simple_large,dark_background_with_cover"}
+    "players":  # full sheets, with decorations (unless disabled)
+      "settings": {"rst2pdf_extra_args": "--stylesheets={{ decorated_style if decorations else plain_style }}"}
       "sheets":
         "amethyst":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/amethyst.anteauction.standalone_{lang}.rst"
+            - "players/amethyst.{game_type}_{lang}.rst"
             - "players/amethyst_previous_days_{lang}.rst"
             - "players/amethyst_misc_instructions_{lang}.rst"
             - "players/amethyst_missions_{lang}.rst"
@@ -113,7 +123,7 @@
         "cynthia":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/cynthia.anteauction.standalone_{lang}.rst"
+            - "players/cynthia.{game_type}_{lang}.rst"
             - "players/cynthia_previous_days_{lang}.rst"
             - "players/cynthia_misc_instructions_{lang}.rst"
             - "players/cynthia_missions_{lang}.rst"
@@ -124,7 +134,7 @@
         "garnet":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/garnet.anteauction.standalone_{lang}.rst"
+            - "players/garnet.{game_type}_{lang}.rst"
             - "players/garnet_previous_days_{lang}.rst"
             - "players/garnet_misc_instructions_{lang}.rst"
             - "players/garnet_missions_{lang}.rst"
@@ -135,7 +145,7 @@
         "lydia":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/lydia.anteauction.standalone_{lang}.rst"
+            - "players/lydia.{game_type}_{lang}.rst"
             - "players/lydia_previous_days_{lang}.rst"
             - "players/lydia_misc_instructions_{lang}.rst"
             - "players/lydia_missions_{lang}.rst"
@@ -146,7 +156,7 @@
         "malachite":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/malachite.anteauction.standalone_{lang}.rst"
+            - "players/malachite.{game_type}_{lang}.rst"
             - "players/malachite_previous_days_{lang}.rst"
             - "players/malachite_misc_instructions_{lang}.rst"
             - "players/malachite_missions_{lang}.rst"
@@ -157,7 +167,7 @@
         "obsidian":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/obsidian.anteauction.standalone_{lang}.rst"
+            - "players/obsidian.{game_type}_{lang}.rst"
             - "players/obsidian_previous_days_{lang}.rst"
             - "players/obsidian_misc_instructions_{lang}.rst"
             - "players/obsidian_missions_{lang}.rst"
@@ -168,7 +178,7 @@
         "opal":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/opal.anteauction.standalone_{lang}.rst"
+            - "players/opal.{game_type}_{lang}.rst"
             - "players/opal_previous_days_{lang}.rst"
             - "players/opal_misc_instructions_{lang}.rst"
             - "players/opal_missions_{lang}.rst"
@@ -179,7 +189,7 @@
         "peridot":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/peridot.anteauction.standalone_{lang}.rst"
+            - "players/peridot.{game_type}_{lang}.rst"
             - "players/peridot_previous_days_{lang}.rst"
             - "players/peridot_misc_instructions_{lang}.rst"
             - "players/peridot_missions_{lang}.rst"
@@ -190,7 +200,7 @@
         "spinel":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/spinel.anteauction.standalone_{lang}.rst"
+            - "players/spinel.{game_type}_{lang}.rst"
             - "players/spinel_previous_days_{lang}.rst"
             - "players/spinel_misc_instructions_{lang}.rst"
             - "players/spinel_missions_{lang}.rst"
@@ -201,7 +211,7 @@
         "topaz":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/topaz.anteauction.standalone_{lang}.rst"
+            - "players/topaz.{game_type}_{lang}.rst"
             - "players/topaz_previous_days_{lang}.rst"
             - "players/topaz_misc_instructions_{lang}.rst"
             - "players/topaz_missions_{lang}.rst"
@@ -212,7 +222,7 @@
         "waden":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/waden.anteauction.standalone_{lang}.rst"
+            - "players/waden.{game_type}_{lang}.rst"
             - "players/waden_previous_days_{lang}.rst"
             - "players/waden_misc_instructions_{lang}.rst"
             - "players/waden_missions_{lang}.rst"
@@ -223,7 +233,7 @@
         "shark":
           "full_sheet":
             - "layouts/header.rst"
-            - "players/shark.anteauction.standalone_{lang}.rst"
+            - "players/shark.{game_type}_{lang}.rst"
             - "players/shark_previous_days_{lang}.rst"
             - "players/shark_misc_instructions_{lang}.rst"
             - "players/shark_missions_{lang}.rst"

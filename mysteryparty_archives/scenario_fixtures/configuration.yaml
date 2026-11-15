@@ -1,15 +1,22 @@
 # Configuration of the "Secret Archives of the Maupertuis" mystery party, for both languages (English sheet names):
-#   pychronia_storygen . --lang fr|en [--skip-document-splitting]
+#   pychronia_storygen . --variable lang=fr|en [--skip-document-splitting]
+# Add "--variable decorations=false" for printer-friendly documents (no dark background), see "variables" below.
 # Replaces the former docs/build_archives_pdfs.py. The sheets share the templates of "mysteryparty_common".
 
 "template_dirs": ["../../mysteryparty_common/scenario_fixtures"]
+
+# Root variables, which can be overridden with "--variable name=value" (and are usable in the settings below)
+"variables":
+  "decorations": true  # if false, decorated documents use the plain style
+  "decorated_style": "simple_large,dark_background_with_frame"  # rst2pdf stylesheets of decorated documents
+  "plain_style": "simple_tight"  # rst2pdf stylesheets of other documents
 
 # Hierarchical settings; by default documents are undecorated, the groups for participants are decorated
 "settings":
   "rst2pdf_conf_file": "../../common_assets/rst2pdf.conf"
   "docutils_conf_file": "../../common_assets/docutils.conf"
   "rst2pdf_smart_quotes": 0  # docutils.conf enables its own language-aware smart quotes
-  "rst2pdf_extra_args": "--stylesheets=simple_tight"
+  "rst2pdf_extra_args": "--stylesheets={{ plain_style }}"
 
 # The game data dump (lowest priority, hence first) with its partial translation overlay, then the other data files
 "data_files":
@@ -44,7 +51,7 @@
 
     "common":
       "settings":
-        "rst2pdf_extra_args": "--stylesheets=simple_large,dark_background_with_frame"
+        "rst2pdf_extra_args": "--stylesheets={{ decorated_style if decorations else plain_style }}"
       "sheets":
         "lore_and_rules":
           "variables":
@@ -60,7 +67,7 @@
 
     "players":  # the sheet name is the character name, and the default "current_player_id"
       "settings":
-        "rst2pdf_extra_args": "--stylesheets=simple_large,dark_background_with_frame"
+        "rst2pdf_extra_args": "--stylesheets={{ decorated_style if decorations else plain_style }}"
       "sheets":
         "diakon_dispeller":
           "full_sheet": ["layouts/title_page.rst", "players/diakon_dispeller_role_{lang}.rst"]

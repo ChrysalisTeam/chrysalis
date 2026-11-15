@@ -1,4 +1,4 @@
-# Descent RPG: one PDF per player + the master script, for both languages (use --lang fr|en)
+# Descent RPG: one PDF per player + the master script, for both languages (use --variable lang=fr|en)
 
 "template_dirs": ["../scenario_fixtures"]
 

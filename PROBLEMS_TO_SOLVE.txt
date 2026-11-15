@@ -1178,7 +1178,7 @@ Descent (script_fixtures/rpg_descent/descent_rpg_data_en.yaml)
 Mindstorm & Archives game data (docs/_initial_game_data_dump.yaml)
 ------------------------------------------------------------------
 
-- This file exists only in French, and is loaded whatever --lang is.
+- This file exists only in French, and is loaded whatever the "lang" variable is.
   French text (official roles, static pages / long story passages, item descriptions, guest roles)
   therefore shows up in English player sheets, guest gallery, lore introduction, phone appointments,
   cheat sheet and manor surveillance reports.

@@ -1,5 +1,5 @@
 
-# Configuration of both languages, built with "pychronia_storygen --lang fr" or "--lang en": "{lang}" in paths is
+# Configuration of both languages, built with "pychronia_storygen --variable lang=fr" or "--variable lang=en": "{lang}" in paths is
 # replaced by the language code, and sheet, group and document names are English in both languages.
 
 # Hierarchical settings, can be extended/overridden at various level

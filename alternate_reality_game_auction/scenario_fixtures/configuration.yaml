@@ -1,4 +1,4 @@
-# Gamemaster manual of the Auction game, in both languages: "pychronia_storygen . --lang fr|en"
+# Gamemaster manual of the Auction game, in both languages: "pychronia_storygen . --variable lang=fr|en"
 # (gamemaster_manual_<lang>.yaml is also loaded by the Pychronia game, so its texts may contain Pychronia
 # template syntax: they are only inserted as plain values by the templates of "storygen/", never rendered by jinja2)
 

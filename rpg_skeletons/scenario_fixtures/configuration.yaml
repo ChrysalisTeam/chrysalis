@@ -1,4 +1,4 @@
-# French-only configuration, used by "pychronia-storygen . --lang fr"
+# French-only configuration, used by "pychronia-storygen . --variable lang=fr"
 
 "settings":
   "rst2pdf_conf_file": "../../common_assets/rst2pdf.conf"

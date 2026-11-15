@@ -1,4 +1,4 @@
-# Single configuration for all languages, used by "pychronia-storygen <this folder> --lang fr|en"
+# Single configuration for all languages, used by "pychronia-storygen <this folder> --variable lang=fr|en"
 # ({lang} is replaced by the language code; sources are plain RST, without jinja2 templating)
 
 "settings":
