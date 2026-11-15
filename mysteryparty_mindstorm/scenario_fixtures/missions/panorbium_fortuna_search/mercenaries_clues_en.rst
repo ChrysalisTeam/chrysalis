@@ -9,7 +9,7 @@
 
 We found traces, on the city's surveillance cameras, of this "Ernest De Villeneuve", with his leather briefcase.
 He went into a shop to buy a **brown canvas bag and a set of work overalls**.
-Then he took an airship from the aerodrome of the private company *Septième Ciel*, which serves the big cities of Sabarim. {% xfact 'misc_panorbium_fortuna_brought_to_manor_in_bag' %}
+Then he took an airship from the aerodrome of the private company *Septieme Ciel*, which serves the big cities of Sabarim. {% xfact 'misc_panorbium_fortuna_brought_to_manor_in_bag' %}
 
 
 **Report from your informants in Alifir**

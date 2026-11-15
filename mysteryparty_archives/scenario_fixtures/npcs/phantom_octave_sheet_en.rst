@@ -53,7 +53,7 @@ Back in the day, you had heard the Maupertuis speak several times of a **"Yodic 
 
 You may be sad to realise, at some point, that the Diakons belong precisely to the faith of {% symbol "Bahamoot" for "god_of_diakons" %}, the faith that had the Maupertuis manor sacked long ago.
 
-Octave had an old favourite childhood book with running animals, as an optical illusion (a mere keepsake: unlike the French one, the English riddle of Mérédice's {% symbol "Whispering Box" for "whispering_box" %} does not rely on it).
+Octave had an old favourite childhood book with running animals, as an optical illusion (a mere keepsake: unlike the French one, the English riddle of Meredice's {% symbol "Whispering Box" for "whispering_box" %} does not rely on it).
 
 {% endmacro %}
 <{ octave_and_archivist_common_knowledge_for_sheets }/>
@@ -63,12 +63,12 @@ Specific information and instructions
 
 You have kept a childlike spirit, and you sometimes accost the players in unlikely ways, telling them anecdotes about your close childhood relationship with your sister, asking them what their favourite book or reptile is, asking them what it is like "outside" now...
 
-If you are told that your sister Mérédice actually survived the persecutions that destroyed the manor, you are filled with enthusiasm; better still, if you meet her distant descendants (your great-great-great...grandnephews and grandnieces), you overflow with affection and gratitude towards them.
+If you are told that your sister Meredice actually survived the persecutions that destroyed the manor, you are filled with enthusiasm; better still, if you meet her distant descendants (your great-great-great...grandnephews and grandnieces), you overflow with affection and gratitude towards them.
 
 You know that your sister kept her most precious belongings in her small occult-studies study, in the Forbidden Domain. You have never seen this study with your own eyes. And when visiting the domain in question, you see nothing resembling such a thing; perhaps behind some rubble?
 {% xitem "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %} {% xfact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}
 
-The Archivist told you that he had found, and properly filed, certain old potion recipes that had been useful in saving your sister Mérédice in her childhood. {% xfact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %} {% xfact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
+The Archivist told you that he had found, and properly filed, certain old potion recipes that had been useful in saving your sister Meredice in her childhood. {% xfact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %} {% xfact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 
 If someone talks to you about the **Maupertuis treasure**, you know that the family had a wealth-generating artefact, in the Forbidden Domain. The magic code to use it changes every day, you were told. {% xfact "treasure_code_changes_magically" %}
 

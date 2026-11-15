@@ -75,7 +75,7 @@ Really, this day just would not stop getting off to a bad start...
 What you know about the Guide
 ===================================
 
-**{% symbol "Eden Schmitt" for "guide_name" %}** is a young person who left school after the baccalauréat, and tried many odd jobs without ever sticking with any of them. He cobbled together a fake CV to land an interview with you; you saw through him immediately, as the course he described never existed at the University cited. But he had a fair amount of general knowledge, imagination, and a great sense of service; that was what you needed for the job. {% xfact "Le guide avait menti dans son CV pour être embauché" %}
+**{% symbol "Eden Schmitt" for "guide_name" %}** is a young person who left school after the baccalaureat, and tried many odd jobs without ever sticking with any of them. He cobbled together a fake CV to land an interview with you; you saw through him immediately, as the course he described never existed at the University cited. But he had a fair amount of general knowledge, imagination, and a great sense of service; that was what you needed for the job. {% xfact "Le guide avait menti dans son CV pour être embauché" %}
 
 His museum tours were initially embroidered on the fly, as he clearly had little knowledge of the subject; but he quickly improved, teaching himself ancient History.
 He is charming with the public, cooks well (his pastries are a great boost to your morale), and shows just enough rigour in shelving the books.

@@ -47,7 +47,7 @@ Despite your apprehensions, you agreed to secretly study the artefact he passed 
 
 For safety, you mimicked Prof. Voluto's strategy: you rented, under a false name, a small house, whose cellar you turned into a field laboratory. And you spent several weekends studying this gem from every angle: atomic, optical, electrical, magnetic, wave properties... Nothing so far indicates that this object has the magical properties the Akarith prophecies speak of, but one thing is certain, it is not a material known on Pangea.
 
-**Your own secret laboratory is located {% symbol "in the cellar of cottage no. 556, Latourbière Street, South Faeran. It stands opposite a GigAchat Shopping Centre, and 50 m from a cluster of PangeaTelecom booths" for "waden_secret_lab_address" %}.**
+**Your own secret laboratory is located {% symbol "in the cellar of cottage no. 556, Latourbiere Street, South Faeran. It stands opposite a GigAchat Shopping Centre, and 50 m from a cluster of PangeaTelecom booths" for "waden_secret_lab_address" %}.**
 
 Emilos Loakim also sent you various artefacts from the Temple of Nazur; but for now, you already have plenty on your plate, so they are more of a burden than anything else. {% xfact "waden_owns_lots_of_lg_artefacts" as author %}
 
@@ -60,7 +60,7 @@ The Balberith blackmail
 
 {% xfact "waden_is_being_blackmailed_regarding_voluto" as author %}
 
-{% symbol "15 days" for "waden_blackmailing_start_ago" %} ago, as you were off to recharge your batteries in a park not far from the Alifir Academy, a smiling young lady approached you, and dragged you to a nearby café, on the pretext of "an offer you won't have the heart to refuse". {% xfact "waden_has_met_unknown_girl" as author %}
+{% symbol "15 days" for "waden_blackmailing_start_ago" %} ago, as you were off to recharge your batteries in a park not far from the Alifir Academy, a smiling young lady approached you, and dragged you to a nearby cafe, on the pretext of "an offer you won't have the heart to refuse". {% xfact "waden_has_met_unknown_girl" as author %}
 
 **"Call me {% symbol "Elezie" for "waden_blackmailer_lady_name" %}"**, that is all she told you about herself, in her strong accent typical of the land of {% symbol "Balberith" for "waden_blackmailer_lady_country" %}. Then she asked you to provide her with the results of all your work with Professor Voluto. You asked her on whose behalf. "We have recovered the only copy of the Alifir Academy's video recordings, in which you can clearly be seen assaulting the late Professor Voluto; that could reopen an investigation, involve lots of people in the affair... let's keep this between us. We can bring you a great deal. But let's start with simple things." {% xfact "voluto_death_day_academy_recordings_disappeared" %}
 

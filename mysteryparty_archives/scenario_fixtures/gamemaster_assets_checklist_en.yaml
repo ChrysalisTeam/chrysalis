@@ -99,7 +99,7 @@
     - "Children's book with studded leather cover \"Extraterrestre appelle CM1\" for the child's nook"
     - "@PAPIERS Letter from Octave's parents with instructions for his dubbing IMPORTANT (put where ???)"
     - "2 old beige/marbled books in the child's suitcase"
-    - "2 old \"Gédéon\" comic books in the child's suitcase"
+    - "2 old \"Gedeon\" comic books in the child's suitcase"
     - "Red fake book (shows the CODE of the blue fake book through magnetism, contains the Maupertuis father's brooch and his notebook with one of the codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} of the legendary chest as an anamorphosis) {% xitem 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} IMPORTANT"
     - "Brooch of the Maupertuis father for the red fake book (POSITIVE bewitchment) {% xitem 'maupertuis_father_jewel_in_twin_books' is provided %} IMPORTANT"
     - "Lunartec sound aquatic projector (USB/mains or 4xAA) with Jack3.5 for the child"
@@ -186,8 +186,8 @@
     - "Portrait of the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %} with optional UV message: \"He lived by ethers, amplificans and cursed grimoires, but he died by a simple fruit.\""
     - "Portrait of the Maupertuis father (Quirinius) with optional UV message: \"If forgotten, think Venture Prins!\""
     - "Portrait of the Maupertuis mother (Isadora) with optional UV message: \"Nothing that belongs to me But peace of heart And the freshness of the air\""
-    - "Portrait of the Maupertuis daughter (Mérédice) with optional UV message: \"Farewell sis, time will kill (signed Octave)\""
-    - "Portrait of the Maupertuis son (Octave) with optional UV message: \"You'll never find your pennies, little bro! (signed Mérédice)\""
+    - "Portrait of the Maupertuis daughter (Meredice) with optional UV message: \"Farewell sis, time will kill (signed Octave)\""
+    - "Portrait of the Maupertuis son (Octave) with optional UV message: \"You'll never find your pennies, little bro! (signed Meredice)\""
 
 -
   - "@TOMBEAU-MAGE Tomb of the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %}"
@@ -221,7 +221,7 @@
 -
   - "Thief's phantom nook"
   -
-    - "@ENORMES Large old out-of-tune accordion (lent by Maëlibé)"
+    - "@ENORMES Large old out-of-tune accordion (lent by Maelibe)"
     - "@ELECTRONIQUE THIEF: Jabra Solemate Mini speaker with Jack3.5/Bluetooth (battery / microUSB)"
     - "@ELECTRONIQUE THIEF: black Digital MP3/FM Player Key (AAA battery included) for the Jabra speaker (for the Beast's cries, then the Thief's phantom)"
 
@@ -290,7 +290,7 @@
     - "Wooden throne with a sliding hiding place, topped by an LED-lit mini skull (3xLR44 included)"
     - "Square-based epoxy resin pyramid in the wooden throne {% xitem 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT ??? CHANGE"
     - "Small wood and brass pan scale{% xitem 'tiny_metal_scale' is provided %} IMPORTANT"
-    - "Two thick beige books \"Itinéraire de la France\""
+    - "Two thick beige books \"Itineraire de la France\""
     - "Kodak Easyshare digital photo frame with occult images (mains power)"
     - "Large green \"Lafitte\" Champagne bottle"
     - "Gnarled dark brown wooden casket TRAPPED with a CICADA, containing a few riches (complex NEGATIVE bewitchment mark)"
@@ -332,7 +332,7 @@
     - "Optionally, a set of several unimportant potions: YYY, ZZZ etc."
 
 -
-  - "@NICHE-BÊTE The Beast's den"
+  - "@NICHE-BETE The Beast's den"
   -
     - "Brass {% symbol 'teleportation astrolabe' for 'thief_teleportation_device_name' %} in a square wooden box with an anchor symbol (POSITIVE bewitchment) {% xitem 'thief_teleportation_device_in_beast_nest' is provided %} IMPORTANT"
     - "The Thief's green wallet, with micro-texts giving the cryptex code, the encrypted formula of the astrolabe (the ogham micro-text spells the French formula, accept the English one), and a paper with analysis code [{% symbol 'yal' for 'analysis_code_thief_wallet' %}] in magnetism (giving Isadora's code for the legendary chest) {% xitem 'thief_paper_with_cryptex_code_as_microtext' is provided %} {% xitem 'thief_teleportation_device_encrypted_formula' is provided %} {% xitem 'thief_wallet_with_isadora_code_in_beast_nest' is provided %} IMPORTANT"
@@ -364,7 +364,7 @@
     - "Code of the black administrative briefcase ({% symbol '625-993' for 'family_briefcase_code' %}) if the players ask the deceased for it via the Ankou"
     - "Code of the Maupertuis mother for the legendary chest of the Maupertuis, if she is correctly questioned from the afterlife: {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} {% xitem 'defunct_isadora_code_for_thanatologue_chest_code' is provided %}"
     - "Code of the Maupertuis father for this legendary chest, in case the players need help: {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %}"
-    - "Mérédice's brooch, found by the players if the right rockfall behind the alchemy workshop is dynamited (POSITIVE bewitchment) {% xitem 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
+    - "Meredice's brooch, found by the players if the right rockfall behind the alchemy workshop is dynamited (POSITIVE bewitchment) {% xitem 'maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory' is provided %}"
     - "Set of gems to simulate the possible success of the Maupertuis magic mill {% xitem 'jewels_set_for_grinding_mill_success' is provided %}"
     - "Octave's travel bag with the metal tokens (see rockfall E2), to be dug out with explosives from the rubble of the authorised floor {% xitem 'travel_bag_with_money_under_far_rubbles' is provided %}"
     - "Keys of the pickable transparent padlocks"
@@ -381,7 +381,7 @@
     - "@CORRIDORS 1 big hollowed-out red grimoire to hold a tablet/papers"
     - "@ELECTRONIQUE Logicom Mbot tab 71 touch tablet for the riddle seals, and the villain's final meditations"
     - "Incense cones for the magic fountain (optional)"
-    - "Papier d'Arménie and a lighter for the Diakons' censer (optional)"
+    - "Papier d'Armenie and a lighter for the Diakons' censer (optional)"
 
 -
   - "@COSTUMES-FIGURANTS Phantoms IMPORTANT"
@@ -461,7 +461,7 @@
   - "@ACCESSOIRES-JOUEURS Equipment of the MIRANDIAN SPIES IMPORTANT"
   -
     - "SPIES: 4 green armbands for the Mirandian secret agents"
-    - "SPIES: Thin brown cover with a cross, containing Mérédice's diary about the family treasure (for the spy group) {% xitem 'meredice_diary_about_treasure_for_spy_group' is provided %}"
+    - "SPIES: Thin brown cover with a cross, containing Meredice's diary about the family treasure (for the spy group) {% xitem 'meredice_diary_about_treasure_for_spy_group' is provided %}"
     - "SPY MINESWEEPER: 2 sticks of dynamite (for the Minesweeper) {% xitem '2_explosives_for_minesweeper' is provided %}"
     - "SPY MINESWEEPER: Bag with 9 medium wax LED candles (1xCR2032 included in each) {% xitem 'mini_candles_for_minesweeper' is provided %}"
     - "SPY SOUNDER: Longruner metal detector, initially WITHOUT ITS BATTERY (needs a RECTANGULAR 9V battery) {% xitem 'spy_sounder_metal_detector_initially_broken' is provided %} {% xitem 'spy_sounder_metal_detector_battery' is needed %}"
@@ -534,7 +534,7 @@
     - "Simulus/pearl LED mini helicopter (battery, microUSB charging)"
     - "2 powerful white light MultifunctionalWorkingLamp LED spotlights (battery, microUSB charging)"
     - "2 RGB LED spotlights (3xAA each)"
-    - "Décofête fibre-optic light garland (needs 3xAA)"
+    - "Decofete fibre-optic light garland (needs 3xAA)"
     - "Grey 5m extension reel with 4 sockets"
     - "Green 10m extension reel with 4 sockets"
 
@@ -571,7 +571,7 @@
     - "2 red lanterns from the Clivra"
     - "Grey ChooChoo-Train fake book from the Clivra"
     - "Empty box to collect the potions at the end of the game"
-    - "Grey canvas bag: light blue 3D-printed dragon, copper micro cauldron, and wooden thermometer (lent by Maëlibé)"
+    - "Grey canvas bag: light blue 3D-printed dragon, copper micro cauldron, and wooden thermometer (lent by Maelibe)"
 
 -
   - "@EXTRA-VETEMENTS ??????"
@@ -608,7 +608,7 @@
   -
     - "Place: 140 kashes spread between the chests and locations of the authorised floor"
     - "Place: 220 kashes spread between the workshops and corridors of the forbidden floor"
-    - "Place: 100 kashes in Octave's savings (treasure hunt set up by Mérédice)"
+    - "Place: 100 kashes in Octave's savings (treasure hunt set up by Meredice)"
     - "Place: 70 kashes with the GM, representing Octave's travel bag buried under the rubble of the authorised floor {% xitem 'travel_bag_with_money_under_far_rubbles' is provided %}"
     - "Place: 100 kashes with the GM, for the production of the magic mill AFTER activation {% xfact 'spy_country_needs_500_kashes_per_day_for_3_years' %}"
 

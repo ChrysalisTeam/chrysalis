@@ -102,7 +102,7 @@ A few examples of **short controversies** that may arise unexpectedly between th
 
 - The Duchess considers that only rhymed poetry is worthy of interest, and that prose poems are signs of cowardice and laziness. The Inventor, on the contrary, claims that only prose gives enough freedom to choose the strongest and most evocative rhythms and words. The Druid, standing back, asserts that only the morning dew on the moss of the woods, or the sunset over the misty mountains, can claim to be poetry.
 - The Duchess swears only by a cappella singing and classical music; the Inventor tries to get her to listen to some ElectroSwing music of his own composition (e.g. on a small speaker hidden in a "music box"). The Druid says that only the sound of the wind in the trees and the polyphonies of wolves are real music.
-- And many other somewhat clichéd oppositions between "conservative" and "progressive"...
+- And many other somewhat cliched oppositions between "conservative" and "progressive"...
 
 The rifts between the different worlds can lead to comical situations. For example, since the avatars and the phantoms cannot hear one another, they will at times speak simultaneously to the same players, creating a veritable **cacophony** (if possible ending on the same sentence, by "coincidence").
 
@@ -133,7 +133,7 @@ When the **bells** ring (or the spectral frenzy **table bell**), the phantom swi
 
 This wandering phase also occurs for a phantom who has been released from their anchoring (see below), but far less often. {% xfact "anchored_phantoms_turn_more_often_into_specters" %}
 
-Wandering is done by walking not too fast, arms more or less outstretched in front, breathing in and out in a long, hoarse way (no overly clichéd "booo" noise). The phantom must have their face covered with the veil, and their light-up gloves switched on.
+Wandering is done by walking not too fast, arms more or less outstretched in front, breathing in and out in a long, hoarse way (no overly cliched "booo" noise). The phantom must have their face covered with the veil, and their light-up gloves switched on.
 
 Movement is faster and more aggressive for a character who led a life heavy with sins (e.g. the Thief).
 {% xfact "phantoms_of_sinners_have_faster_specters" %}

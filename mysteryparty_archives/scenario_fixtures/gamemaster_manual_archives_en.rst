@@ -40,7 +40,7 @@ The meeting of the Maupertuis and the Avatars
 
 **The library curse began {% symbol "500 years" for "library_initial_events_timedelta" %} before the time of the game, that is to say it took place in the {% symbol "year 500" for "library_initial_events_year" %} of the {% symbol "Era of the Great Appeasement" for "current_era_name" %}. We are currently in the {% symbol "year 1000" for "current_events_year" %} of this era of prosperity.**
 
-The child, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, met a tragic fate. Through his mother (**{% symbol "Isadora" for "maupertuis_mother" %}, née Guerlevan**) and his father (**{% symbol "Quirinius" for "maupertuis_father" %}**), he was descended from two great lineages of healer-mages. His parents died when the estate was attacked and razed by followers of the **god {% symbol "Bahamoot" for "god_of_diakons" %}**, on the orders of **{% symbol "Cardinal Tridentes" for "old_guru_name" %}**, during the {% symbol "Planetary Cataclysm" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} was **{% symbol "10" for "maupertuis_son_age" %} years old** at the time. His sister, **{% symbol "Mérédice" for "maupertuis_daughter" %}**, who was **{% symbol "16 years old" for "maupertuis_daughter_age" %}**, disappeared during these events.
+The child, **{% symbol "Octave" for "maupertuis_son" %} de Maupertuis**, met a tragic fate. Through his mother (**{% symbol "Isadora" for "maupertuis_mother" %}, nee Guerlevan**) and his father (**{% symbol "Quirinius" for "maupertuis_father" %}**), he was descended from two great lineages of healer-mages. His parents died when the estate was attacked and razed by followers of the **god {% symbol "Bahamoot" for "god_of_diakons" %}**, on the orders of **{% symbol "Cardinal Tridentes" for "old_guru_name" %}**, during the {% symbol "Planetary Cataclysm" for "catastrophic_period" %}. {% symbol "Octave" for "maupertuis_son" %} was **{% symbol "10" for "maupertuis_son_age" %} years old** at the time. His sister, **{% symbol "Meredice" for "maupertuis_daughter" %}**, who was **{% symbol "16 years old" for "maupertuis_daughter_age" %}**, disappeared during these events.
 
 During the attack, {% symbol "Octave" for "maupertuis_son" %} had taken refuge in the underground archives, with his tutor **{% symbol "Master Parchemine" for "archivist_name" %}** (who did not practise magic). The magic portal linking the manor to this library (located very far below the surface) had been destroyed during the attack, but secondary portals remained, leading to ancient mages' castles - all in ruins - scattered across the planet. These portals had been enchanted for centuries to open on a single day each year, at the **{% symbol "winter solstice" for "astral_opening_date" %}**, for a shared celebration of the new year, even though this tradition had long since ceased to be observed.
 
@@ -247,9 +247,9 @@ Their motto is **"Knowledge is power"**, pointing the index finger towards the s
 The Parcival family
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-These 3 brothers and sisters are the distant descendants of Mérédice de Maupertuis, Octave's sister, whom everyone believed to have died with her family, but who had in fact managed to escape and rebuild her life.
+These 3 brothers and sisters are the distant descendants of Meredice de Maupertuis, Octave's sister, whom everyone believed to have died with her family, but who had in fact managed to escape and rebuild her life.
 
-These Parcivals read in the autobiography of their ancestor Mérédice how her parents, healer-mages, had cured her of a great hereditary illness, marbled degeneration, thanks to a "{% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %}". When their little sister fell ill in turn (she has only a few weeks left to live), they set out in search of the remedy, and their investigation led them to the buried archives of the former family estate.
+These Parcivals read in the autobiography of their ancestor Meredice how her parents, healer-mages, had cured her of a great hereditary illness, marbled degeneration, thanks to a "{% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %}". When their little sister fell ill in turn (she has only a few weeks left to live), they set out in search of the remedy, and their investigation led them to the buried archives of the former family estate.
 
 Their abilities are oriented towards nature and magic.
 
@@ -449,7 +449,7 @@ The Beast (the guardian ghoul of the Forbidden Domain)
 
 - The seal protecting the Forbidden Domain prevented the Beast itself from coming into the authorised area of the library
 
-- Recognises no one as a friend (only Octave's parents and Mérédice had power over it; neither the tutor nor Octave would have been spared had they entered the Forbidden Domain)
+- Recognises no one as a friend (only Octave's parents and Meredice had power over it; neither the tutor nor Octave would have been spared had they entered the Forbidden Domain)
 
 - Died of old age more than a century after the library curse, and became even more ferocious from wandering aimlessly in the Forbidden Domain
 
@@ -895,9 +895,9 @@ The remedy for marbled degeneration (Parcival family)
 
 {% macro parcival_group_main_quest() %}
 
-**The Parcivals' main objective is to find a remedy for the illness of their little sister {% symbol "Philomène" for "parcival_sick_child_name" %}, {% symbol "marbled degeneration" for "legacy_disease" %}, since their ancestor Mérédice de Maupertuis had been cured of it here.**
+**The Parcivals' main objective is to find a remedy for the illness of their little sister {% symbol "Philomene" for "parcival_sick_child_name" %}, {% symbol "marbled degeneration" for "legacy_disease" %}, since their ancestor Meredice de Maupertuis had been cured of it here.**
 
-- The Archivist remembers very well the illness of Mérédice de Maupertuis, and how the Maupertuis parents had sent him in person to fetch various highly specialised ingredients to create a {% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %}. Luckily, during the inventory, he had found and put back in its place the recipe for this cocktail, and he points it out to the players (it is on the authorised floor). {% xfact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
+- The Archivist remembers very well the illness of Meredice de Maupertuis, and how the Maupertuis parents had sent him in person to fetch various highly specialised ingredients to create a {% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %}. Luckily, during the inventory, he had found and put back in its place the recipe for this cocktail, and he points it out to the players (it is on the authorised floor). {% xfact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
 - The {% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %} requires mixing three potions: the Flexifying Elixir (harmless), the Clairvoyance Lotion (harmless), and the Pyrolitis Tincture (dangerous). {% xitem "recipe_rejuvenation_cocktail" is needed %}
 
@@ -927,7 +927,7 @@ The Maupertuis treasure (Mirandian secret agents)
 
 **The Mirandian secret agents' main objective is to find the treasure, the source of the Maupertuis' wealth, to save their small country from bankruptcy.**
 
-They have found a fragment of Mérédice's diary, in which she describes in enigmatic language how, when a grimoire starts singing, thanks to changing symbols, something turns and riches appear. {% xitem "meredice_diary_about_treasure_for_spy_group" is needed %}
+They have found a fragment of Meredice's diary, in which she describes in enigmatic language how, when a grimoire starts singing, thanks to changing symbols, something turns and riches appear. {% xitem "meredice_diary_about_treasure_for_spy_group" is needed %}
 
 An oracle triggered in the Forbidden Domain shows a paddle mill pouring riches into the river, surrounded by musical notes. {% xitem "parcival_oracle_vision_about_water_mill" is needed %}
 A stereogram on the wall also shows a coffee mill with a double hidden word of thanks. {% xitem "grinding_mill_stereogram_picture_with_magnetic_and_uv_code" is needed %}
@@ -949,7 +949,7 @@ The various jewels:
 
 - The brooch that was initially intended for Octave is in one of the N sealed mini-caskets, which are hidden in an initiation SEAL. This was a trial for Octave, who had to be able to "sense" the presence of the magic object before being entitled to it. The players must activate the seal, listen to the pre-recorded message of an automaton summarising the trial for them, then use the **metal detector** to guess which casket holds the object. Only a Maupertuis heir can actually trigger the resolution of this initiation. {% xfact "octave_needed_to_pass_initiation_to_gain_his_jewel" %} {% xfact "only_maupertuis_heirs_can_take_initiation" %} {% xitem 'maupertuis_initiation_seal' is needed %} {% xitem "maupertuis_son_jewel_in_nonmetal_tiny_chests" is needed %}  {# FIXME no more recorded message here, a letter instead!!! #}
 
-- Mérédice's brooch, finally, was precisely the one the Thief had come to seek in the Forbidden Domain. He knows that it is in a metal box, in a corner of the library that has **collapsed**. He therefore sells this information dearly and reluctantly, knowing that he is no longer in a good position for the quest for the Maupertuis treasure. Octave also has a few less precise clues about where his sister kept her most precious belongings. {% xitem "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
+- Meredice's brooch, finally, was precisely the one the Thief had come to seek in the Forbidden Domain. He knows that it is in a metal box, in a corner of the library that has **collapsed**. He therefore sells this information dearly and reluctantly, knowing that he is no longer in a good position for the quest for the Maupertuis treasure. Octave also has a few less precise clues about where his sister kept her most precious belongings. {% xitem "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% xfact "thief_knows_about_location_of_maupertuis_daughter_jewel" %} {% xfact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}
 
 Entering the right symbols into the singing grimoire triggers a victory melody, and one must then simulate that the mill, when turned, produces a batch of gems; limited in number per day (one batch every X hours), but sufficient for the secret agents' quest. {% xitem 'jewels_set_for_grinding_mill_success' is needed %} {% xfact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
@@ -1354,7 +1354,7 @@ The last Maupertuis household
 
 The Maupertuis parents were very different and complementary; for instance, while {% symbol "Isadora" for "maupertuis_mother" %} had an excellent **memory** and never wrote anything down, {% symbol "Quirinius" for "maupertuis_father" %}, for his part, quickly forgot everything, and had to write down even his most sensitive secrets in notebooks, which he kept well hidden in the library. {% xfact "maupertuis_mother_had_excellent_memory_but_not_father" %}
 
-At the time of the attack on the manor, Mérédice de Maupertuis had already made great progress in the magical arts, and in particular - like her predecessors - in healing potions and gems. She regularly worked in the **alchemy and gemmology studies of the Forbidden Domain**. She in fact left most of her belongings in the library, for fear of losing them during her herbalism excursions in the surrounding area, or in case the manor was burgled.
+At the time of the attack on the manor, Meredice de Maupertuis had already made great progress in the magical arts, and in particular - like her predecessors - in healing potions and gems. She regularly worked in the **alchemy and gemmology studies of the Forbidden Domain**. She in fact left most of her belongings in the library, for fear of losing them during her herbalism excursions in the surrounding area, or in case the manor was burgled.
 
 Octave, for his part, had barely begun his apprenticeship, not least because he was distracted by his reading of novels and fantasy. He had therefore never gone alone into the forbidden floor (the Beast would in fact have attacked him in that case). {% xfact "octave_would_have_been_attacked_by_beast_if_alone_in_forbidden_domain" %}
 
@@ -1368,7 +1368,7 @@ He was very soon due to undergo his **initiation called "dubbing"**, a ceremony 
 
 During his confinement in the library, Octave wore as a keepsake his **mother's brooch**, which he had found on site. {% xfact "octave_carried_mother_jewel_after_her_death" %} {% xitem 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
 
-In their childhood, Octave and his sister used to create treasure hunts - and other puzzles - for each other. Mérédice had created a particularly mischievous one to celebrate Octave's upcoming dubbing, by pinching his piggy bank full of savings. And she had placed the final riddle leading to this little treasure in the **{% symbol "Whispering Box" for "whispering_box" %} found at the bottom of a wooden chest**; {% xitem "whispering_box_with_children_enigma_in_common_brown_chest" is needed %} the family members used this magic box to leave each other messages, which they listened to by placing a finger on it. {# The players must use a stethoscope to read these messages #} Octave was never able to find his piggy bank, probably because it was hidden in the Forbidden Domain. {% xfact "octave_moneybox_hidden_by_meredice_is_lost" %}
+In their childhood, Octave and his sister used to create treasure hunts - and other puzzles - for each other. Meredice had created a particularly mischievous one to celebrate Octave's upcoming dubbing, by pinching his piggy bank full of savings. And she had placed the final riddle leading to this little treasure in the **{% symbol "Whispering Box" for "whispering_box" %} found at the bottom of a wooden chest**; {% xitem "whispering_box_with_children_enigma_in_common_brown_chest" is needed %} the family members used this magic box to leave each other messages, which they listened to by placing a finger on it. {# The players must use a stethoscope to read these messages #} Octave was never able to find his piggy bank, probably because it was hidden in the Forbidden Domain. {% xfact "octave_moneybox_hidden_by_meredice_is_lost" %}
 
 
 The {% symbol "Spectral Bell" for "table_bell_name" %} and the {% symbol "spectral frenzy" for "phantom_frenzy_name" %}

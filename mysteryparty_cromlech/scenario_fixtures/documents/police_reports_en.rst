@@ -32,7 +32,7 @@ Suspect #2: {% symbol "Eden Schmitt" for "guide_name" %}
 
 - Nationality: French
 - Year of birth: 1873
-- Address: 45 bis avenue du Grand Pré, Lyon
+- Address: 45 bis avenue du Grand Pre, Lyon
 - Occupation: Receptionist
 - Blood type: O+
 - Distinguishing features: allergic to nuts
@@ -44,7 +44,7 @@ Suspect #3: {% symbol "Ryan Parker" for "reporter_name" %}
 
 - Nationality: English
 - Year of birth: 1881
-- Address: Résidence Jehan Louzack, Lyon
+- Address: Residence Jehan Louzack, Lyon
 - Occupation: Journalism student at the Faculty
 - Blood type: A-
 - Distinguishing features: none
@@ -83,7 +83,7 @@ But its serial number appeared in a duplication request made at the cobbler's in
 
 One of our informants has let slip a lead: a very old gladius was left, for the space of one night, with a forger in the suburbs, so that he could carry out a quick analysis and dating of it. This took place 27 days ago. The requester had a build similar to that of {% symbol "Ryan Parker" for "reporter_name" %}. We are applying pressure to obtain a copy of the results of this nocturnal study.
 
-The Curator was indeed seen this morning at around 10:30 by journalists from Le Gramophone Lettré, in conversation with the Burgomaster, during the cocktail reception following the Maurice Genevoix literary prize-giving ceremony. The ceremony itself, which began at 9:00, was soon disrupted by a scene: the author Eloi de Frontignan, furious at having lost the novel competition, tried to snatch the bouquet of flowers from the hands of the winner, Lilie Dupain. But the rest of the festivities went off without a hitch.
+The Curator was indeed seen this morning at around 10:30 by journalists from Le Gramophone Lettre, in conversation with the Burgomaster, during the cocktail reception following the Maurice Genevoix literary prize-giving ceremony. The ceremony itself, which began at 9:00, was soon disrupted by a scene: the author Eloi de Frontignan, furious at having lost the novel competition, tried to snatch the bouquet of flowers from the hands of the winner, Lilie Dupain. But the rest of the festivities went off without a hitch.
 
 We found a piece of paper hidden in the lining of {% symbol "Camille du Guesclin" for "curator_name" %}'s wallet. Scrawled on it is: *"clue: birth year reversed"*.
 

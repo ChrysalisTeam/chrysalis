@@ -37,7 +37,7 @@ The game is designed to be played in full immersion. To enjoy it to the full, an
   - Examples of accessories: bowler hat or top hat, jabot, cane, crinoline dress, fan...
   - It is possible to get changed on site.
 
-Players who know each other out-of-game, and are on different teams, may very well invent an in-game bond (being cousins, former fiancés, former prison mates...) to justify their closeness.
+Players who know each other out-of-game, and are on different teams, may very well invent an in-game bond (being cousins, former fiances, former prison mates...) to justify their closeness.
 
 It is advisable to add a little acting to the various situations, by simulating emotions, feats of physical strength or mental concentration, the performance of the various operations you may have to carry out, any injuries received...
 

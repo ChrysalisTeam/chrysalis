@@ -24,7 +24,7 @@
 - you have unmasked "{{character_properties.garnet.full_official_title}}" and "{{character_properties.amethyst.full_official_title}}" as being the Lordanian secret agents Garnet and Amethyst {% xfact 'amethyst_is_undercover' %} {% xfact 'garnet_is_undercover' %}
 
 - it seems that a Lordanian agent "Emerald", corrupted by the Akariths, poisoned himself recently, in a Dorian embassy, while trying to assassinate a rich Lordanian desecrator; the Lordanian services have clearly understood nothing of the affair, and are seeking to avenge this "Emerald" {% xfact 'opal_killed_emerald_agent' %}
-- you have learned that the cellar of the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %} was sheltering Akarith "Purifiers" {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
+- you have learned that the cellar of the {% symbol "Cafe Bargarac in Alifir" for "akarith_sect_den_bar" %} was sheltering Akarith "Purifiers" {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
 
 - the day before:
 

@@ -37,7 +37,7 @@ The Game Master states the key points:
 Welcome by the Police Inspector
 ---------------------------------------
 
-- "The office of our President **Émile Loubet** has sent word of your coming."
+- "The office of our President **Emile Loubet** has sent word of your coming."
 - "I am honoured to welcome your agency of **paranormal detectives**, whose merits need no further proof."
 - "This case is a murky one; for now we have heard of the **disappearance of a student, Andrea, and of a museum piece, an ancient gladius**, but we know no more."
 - "We will therefore let you **interrogate** the witnesses in this case in turn, and inspect the museum's treasure."

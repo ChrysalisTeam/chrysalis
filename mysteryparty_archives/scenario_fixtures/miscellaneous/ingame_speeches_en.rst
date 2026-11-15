@@ -155,7 +155,7 @@ My friends the Mirandian soldiers, I am glad that our magic mill will go on serv
 
 My friends the Heliossarian explorers, I am counting on you to thwart the Akariths' insane plans, with my ancestor's ring. The legions of undead had better watch out!
 
-Finally, my great-great-great-grandnephews and grandnieces the Parcivals, it has been an immense joy to make your acquaintance. Take good care of your sister {% symbol "Philomène" for "parcival_sick_child_name" %}, and perpetuate for a long time, forever, the wisdom of our noble lineage!
+Finally, my great-great-great-grandnephews and grandnieces the Parcivals, it has been an immense joy to make your acquaintance. Take good care of your sister {% symbol "Philomene" for "parcival_sick_child_name" %}, and perpetuate for a long time, forever, the wisdom of our noble lineage!
 
 
 {% endmacro %}

@@ -78,7 +78,7 @@ audio_messages:
             have been mobilised to recover these paintings. Rewards of 1,000 kashes, which can be combined,
             are offered to anyone who helps recover each of these paintings. The works
             in question are portraits (oil on canvas) of three dignitaries
-            of the time: Lady Aurora, Lord Préphett and Lord Rulias. \pau=5000\
+            of the time: Lady Aurora, Lord Prephett and Lord Rulias. \pau=5000\
 
     "40_news_council_explosion_alifir":
         "title": >-
@@ -204,7 +204,7 @@ _UNUSED_AUDIO_:
 
 
     new_messages_bewitcher:
-        text: "Aunt Amélie rides her bike in shorts."
+        text: "Aunt Amelie rides her bike in shorts."
         file: "amelie.mp3"
 
     new_messages_oracle:
@@ -226,12 +226,12 @@ _UNUSED_AUDIO_:
         file: "cheval.mp3"
 
     new_messages_scanner:
-        text: "Clémentine wants to pick her teeth."
+        text: "Clementine wants to pick her teeth."
         file: "clementine.mp3"
 
 
     new_messages_loyd.georges:
-        text: "I don't like crêpes Suzette."
+        text: "I don't like crepes Suzette."
         file: "crepes.mp3"
 
     new_messages_archaeologist:

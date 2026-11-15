@@ -163,8 +163,8 @@ The Sabarith secret services, for their part, are aware that things are not righ
 
 The Sabarith agent Obsidian, present at the evening as "Inspector Shark's deputy", must among other things investigate these infiltrated Akariths.
 
-- the Masslavian agents know that the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %} serves as a den for Akarith Purifiers {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
-- Cynthia receives a misspelt trap message which, once geolocated, points to the address of the {% symbol "Café Bargarac in Alifir" for "akarith_sect_den_bar" %}
+- the Masslavian agents know that the {% symbol "Cafe Bargarac in Alifir" for "akarith_sect_den_bar" %} serves as a den for Akarith Purifiers {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
+- Cynthia receives a misspelt trap message which, once geolocated, points to the address of the {% symbol "Cafe Bargarac in Alifir" for "akarith_sect_den_bar" %}
 - the card game sold by Alphonse contains a coded message announcing a meeting of the Purifiers at the Purineur Brasserie. {% xitem 'card_game_with_unreadable_manual' is needed %}
 - a strange radio spot gives the Purineur Brasserie some rather counter-productive publicity
 
@@ -287,7 +287,7 @@ The final decision tree is roughly as follows:
 
 - if the Dorians are deemed poorly compatible:
 
-  - if the Duke has the Akariths' trust, he imposes the annexation despite the grumbling of part of the population and the elites (risk of a coup d'état by the secret services)
+  - if the Duke has the Akariths' trust, he imposes the annexation despite the grumbling of part of the population and the elites (risk of a coup d'etat by the secret services)
   - if the Duke is "burnt", he changes his mind and tries to rally his country to the anti-Akarith Midolian coalition (risk of unrest from infiltrated Akariths, or from civilians who refuse to oppose the powerful Akariths)
 
 - if the Dorians are deemed incompatible:

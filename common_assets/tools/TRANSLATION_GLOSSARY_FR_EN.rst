@@ -26,7 +26,14 @@ keys (e.g. ``duel_of_honor_rules.rst`` stays as a path, but the prose says
 "landline").
 
 **Proper nouns**: invented names (Loyd Georges, Maupertuis, Rydji, Nazur,
-Olloudios...) stay verbatim, including accents (Mérédice, Joséphine, Séléné).
+Olloudios...) stay verbatim, but without accents (Meredice, Josephine, Selene).
+
+**No accents in English**: English texts never contain accented letters, neither
+in names nor in loanwords (cafe, fiance, deja vu, creme fraiche, coup d'etat);
+French texts keep them (Mérédice, Childéric, Séléné). Only French data keys
+(strings of story tags, ``{% if %}`` comparisons) keep their accents in English
+files. Run ``python common_assets/tools/check_english_accents.py`` to check all
+English sources, ODT clue documents included (``--fix`` removes accents).
 Transparent French nicknames and titles are translated (la Bête = the Beast,
 le Voleur = the Thief, Barbe Blonde = Blondbeard). Historical figures take their
 standard English form (Vercingetorix, Julius Caesar, Zarathustra).
@@ -475,7 +482,7 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - magic dinner buffet of the four worlds
      - Place.
    * - bureau d'études d'occultisme (de Mérédice)
-     - (Mérédice's) occult-studies study
+     - (Meredice's) occult-studies study
      - Place in the Forbidden Domain, under rubble.
    * - cadenas transparent
      - transparent padlock
@@ -943,7 +950,7 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - Iridium / Platinum / Mithril
      - Noble metals for blessing.
    * - Isadora (née Guerlevan) / Quirinius de Maupertuis
-     - Isadora (née Guerlevan) / Quirinius de Maupertuis
+     - Isadora (nee Guerlevan) / Quirinius de Maupertuis
      - Octave's parents.
    * - "J'implore que les Yods vous éclairent" / "Que je sois pour vous leur miroir"
      - "I beseech the Yods to enlighten you" / "May I be their mirror unto you"
@@ -985,7 +992,7 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - ultraviolet lamp / UV lamp / UV message
      - Unveiler item.
    * - message UV du portrait de Mérédice : "Adieu soeurette, qui mourra verra (signé Octave)"
-     - UV message of Mérédice's portrait: "Farewell sis, time will kill (signed Octave)"
+     - UV message of Meredice's portrait: "Farewell sis, time will kill (signed Octave)"
      - Pun on "qui vivra verra" / "time will tell" (checklist, optional UV message); an English UV prop must use this wording.
    * - Le ballet des automates
      - The Ballet of the Automatons
@@ -1096,8 +1103,8 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - Mother Nature / Natural Harmony / Spirit Magic
      - Druid's creed.
    * - Mérédice de Maupertuis
-     - Mérédice de Maupertuis
-     - Keep accents.
+     - Meredice de Maupertuis
+     - No accents in English.
    * - Message à un défunt / message spirituel
      - Message to a Deceased / spiritual message
      - Invoker ritual (heading).
@@ -1240,7 +1247,7 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - wandering phase / switch to wandering / switch back to embodied
      - Phantom phase verbs.
    * - Philomène
-     - Philomène
+     - Philomene
      - Parcival sick sister.
    * - Pierre anti-philosophale
      - Anti-Philosopher's Stone
@@ -1809,7 +1816,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - kitten photo frame
      - Clue prop (Bastet).
    * - Café Bargarac d'Alifir
-     - Café Bargarac in Alifir
+     - Cafe Bargarac in Alifir
      - Place; also the display value of symbol ``akarith_sect_den_bar``.
    * - caisse hors-jeu
      - out-of-game cash box
@@ -1833,7 +1840,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Bail (2,000 kashes)
      - Judicial mechanic.
    * - cave de la maisonnette n°556, rue Latourbière, Faeran Sud
-     - cellar of cottage no. 556, Latourbière Street, South Faeran
+     - cellar of cottage no. 556, Latourbiere Street, South Faeran
      - Waden's secret lab address (symbol "waden_secret_lab_address").
    * - Caveau familial (profanation du)
      - Family vault (desecration of the)
@@ -2181,7 +2188,7 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
      - Gems
      - Valuables.
    * - GemmoKorps / LordaBild / GigAchat / Salimacom / PangeaTelecom / Septième Ciel
-     - GemmoKorps / LordaBild / GigAchat / Salimacom / PangeaTelecom / Septième Ciel
+     - GemmoKorps / LordaBild / GigAchat / Salimacom / PangeaTelecom / Septieme Ciel
      - Companies; verbatim.
    * - Gentil flic / méchant flic
      - Good cop / bad cop
@@ -3371,7 +3378,7 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
      - druid / the Druid
      - Capitalised when used as the character's name.
    * - Écho des Gones (L') - Numéro 165
-     - L'Écho des Gones - Issue 165
+     - L'Echo des Gones - Issue 165
      - Newspaper title verbatim.
    * - éclairs (phénomènes)
      - lightning flashes
@@ -3386,7 +3393,7 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
      - Eloi de Frontignan / Lilie Dupain / Gustave Bloch / Flavien
      - Minor names kept verbatim.
    * - Émile Loubet
-     - Émile Loubet
+     - Emile Loubet
      - French President in 1900.
    * - empreintes digitales
      - fingerprints
@@ -3476,7 +3483,7 @@ Mystery Party: Cromlech (Le Dernier Voeu des Druides) and common files
      - end-of-interview GONG
      - Game mechanic.
    * - Gramophone Lettré (Le)
-     - Le Gramophone Lettré
+     - Le Gramophone Lettre
      - Newspaper name, verbatim.
    * - grand-maître du conservatoire / autrice dramatique Jeanne Lubeck
      - grand master of the conservatoire / the playwright Jeanne Lubeck
@@ -3964,7 +3971,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - demijohn
      - Heap item with red plum liqueur deposit.
    * - bourgmestre (Honoré des Hautvents)
-     - burgomaster (Honoré des Hautvents)
+     - burgomaster (Honore des Hautvents)
      - Sentience antagonist. Unify spelling "Hautvents".
    * - boyau souterrain (sans oxygène)
      - underground duct (airless)
@@ -4144,7 +4151,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - Berserk Elixir / The Berserk Elixir Quest / Recipe
      - Ranger's personal quest (also exists in Mindstorm).
    * - Émile le tanneur
-     - Émile the tanner
+     - Emile the tanner
      - Sentience.
    * - Enchanteresse Dorina / toucan à bec vert
      - the Enchantress Dorina / green-billed toucan
@@ -4264,7 +4271,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - rolls of variable difficulty
      - Sentience resolution.
    * - Joséphine des Hautvents / Fénelon, notaire
-     - Joséphine des Hautvents / Fénelon the notary
+     - Josephine des Hautvents / Fenelon the notary
      - Sentience.
    * - kit d'analyse gemmologique / trousse médicale et antipoison / kit d'archéologie
      - gemmological kit / first-aid and antidote kit / archaeology kit
@@ -4363,7 +4370,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - marching order
      - Party formation.
    * - Ordre des Sorceleurs / sorceleur (Abélard)
-     - Order of Witchers / witcher (Abélard)
+     - Order of Witchers / witcher (Abelard)
      - Sentience; lowercase common noun.
    * - ouïe fine et odorat fin
      - keen hearing and keen sense of smell
@@ -4501,14 +4508,14 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - archaeological scoop
      - Archaeologist mission.
    * - Séléné / Sylvorann
-     - Séléné / Sylvorann
-     - Alchemist and village; verbatim with accents.
+     - Selene / Sylvorann
+     - Alchemist and village; verbatim, without accents.
    * - simulacre
      - pretence
      - Joséphine/Abélard sham conversation.
    * - Société Minéralys
-     - the Minéralys Company
-     - Sentience; keep accent.
+     - the Mineralys Company
+     - Sentience; no accent in English.
    * - socle pour des feux rituels
      - plinth for ritual fires
      - Recess beside temple.
@@ -4590,8 +4597,7 @@ Chrysalis: Skeletons (Carcasses)
 
 .. Terms of ``rpg_skeletons/scenario_fixtures/skeletons_scenario_*.rst``. Skeletons is
    a sequel to Sentience (Colbert the apothecary of Sylvorann becomes Magus Parcival),
-   so the Sentience rows above apply too, except that Skeletons drops the accents of
-   names in English (Selene, Childeric).
+   so the Sentience rows above apply too.
 
 .. list-table::
    :header-rows: 1
@@ -4747,7 +4753,7 @@ Alternate reality game: Auction (the Pychronia web game)
      - song of the orb / song of the orbs
      - Lowercase.
    * - cimetière animal du Père Huche (Salima Sud)
-     - Père Huche pet cemetery (South Salima)
+     - Pere Huche pet cemetery (South Salima)
      - Location in player messages.
    * - Citadelle Nuageuse
      - Cloud Citadel
@@ -5044,7 +5050,7 @@ Jinja symbol display values
      - MO IS COVERING US - DELIVERY OK – 17 AUBONPICHET TAVERNS SUBDUED OUT OF 1238
    * - ``akarith_sect_den_bar``
      - Café Bargarac d'Alifir
-     - Café Bargarac in Alifir
+     - Cafe Bargarac in Alifir
    * - ``alphonse_alibi_bar``
      - La Murge de Salima
      - La Murge de Salima
@@ -5404,7 +5410,7 @@ Jinja symbol display values
      - Liberty or death
    * - ``maupertuis_daughter``
      - Mérédice
-     - Mérédice
+     - Meredice
    * - ``maupertuis_daughter_age``
      - 16 ans
      - 16 years old
@@ -5509,7 +5515,7 @@ Jinja symbol display values
      - Rejuvenation Cocktail
    * - ``parcival_sick_child_name``
      - Philomène
-     - Philomène
+     - Philomene
    * - ``parcival_woodsman_arrows_metal``
      - Iridium
      - Iridium
@@ -5623,7 +5629,7 @@ Jinja symbol display values
      - 15 days
    * - ``waden_secret_lab_address``
      - dans la cave de la maisonnette n°556, rue Latourbière, Faeran Sud. Il est situé en face d'un Centre Commercial GigAchat, et à 50m d'un îlot de cabines PangeaTelecom
-     - in the cellar of cottage no. 556, Latourbière Street, South Faeran. It stands opposite a GigAchat Shopping Centre, and 50 m from a cluster of PangeaTelecom booths
+     - in the cellar of cottage no. 556, Latourbiere Street, South Faeran. It stands opposite a GigAchat Shopping Centre, and 50 m from a cluster of PangeaTelecom booths
    * - ``waden_sheet_motto``
      - La bête traquée
      - The hunted beast
