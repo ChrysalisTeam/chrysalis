@@ -36,6 +36,27 @@
 
 "variables_hook": "storygen_hooks.prepare_variables"
 
+# Parts of the sheets of each player, shared through YAML anchors: "{sheet_name}" is the name of the sheet
+# using them (eg. "players/{sheet_name}/..." -> "players/amethyst/..."). This entry is ignored by storygen.
+"sheet_templates":
+  "player_full_sheet": &player_full_sheet
+    "full_sheet":
+      - "layouts/header.rst"
+      - "players/{sheet_name}/{sheet_name}.{game_type}_{lang}.rst"
+      - "players/{sheet_name}/{sheet_name}_previous_days_{lang}.rst"
+      - "players/{sheet_name}/{sheet_name}_misc_instructions_{lang}.rst"
+      - "players/{sheet_name}/{sheet_name}_missions_{lang}.rst"
+      - "players/{sheet_name}/{sheet_name}_specific_abilities_{lang}.rst"
+      - "common/common_anthropia_account_summary_displayer_{lang}.rst"
+      - "common/players_generic_abilities_{lang}.rst"
+      - "layouts/footer_decoration.rst"
+  "player_cheat_sheet": &player_cheat_sheet
+    "cheat_sheet":
+      - "players/{sheet_name}/{sheet_name}_cheat_sheet_{lang}.rst"
+      - "players/{sheet_name}/{sheet_name}_specific_abilities_{lang}.rst"
+      - "common/common_anthropia_account_summary_displayer_{lang}.rst"
+      - "common/common_cheat_sheet_footer_{lang}.rst"
+
 "sheet_generation":
   "groups":
     "gamemaster":
@@ -109,206 +130,31 @@
     "players":  # full sheets, with decorations (unless disabled)
       "settings": {"rst2pdf_extra_args": "--stylesheets={{ decorated_style if decorations else plain_style }}"}
       "sheets":
-        "amethyst":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/amethyst/amethyst.{game_type}_{lang}.rst"
-            - "players/amethyst/amethyst_previous_days_{lang}.rst"
-            - "players/amethyst/amethyst_misc_instructions_{lang}.rst"
-            - "players/amethyst/amethyst_missions_{lang}.rst"
-            - "players/amethyst/amethyst_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "cynthia":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/cynthia/cynthia.{game_type}_{lang}.rst"
-            - "players/cynthia/cynthia_previous_days_{lang}.rst"
-            - "players/cynthia/cynthia_misc_instructions_{lang}.rst"
-            - "players/cynthia/cynthia_missions_{lang}.rst"
-            - "players/cynthia/cynthia_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "garnet":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/garnet/garnet.{game_type}_{lang}.rst"
-            - "players/garnet/garnet_previous_days_{lang}.rst"
-            - "players/garnet/garnet_misc_instructions_{lang}.rst"
-            - "players/garnet/garnet_missions_{lang}.rst"
-            - "players/garnet/garnet_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "lydia":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/lydia/lydia.{game_type}_{lang}.rst"
-            - "players/lydia/lydia_previous_days_{lang}.rst"
-            - "players/lydia/lydia_misc_instructions_{lang}.rst"
-            - "players/lydia/lydia_missions_{lang}.rst"
-            - "players/lydia/lydia_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "malachite":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/malachite/malachite.{game_type}_{lang}.rst"
-            - "players/malachite/malachite_previous_days_{lang}.rst"
-            - "players/malachite/malachite_misc_instructions_{lang}.rst"
-            - "players/malachite/malachite_missions_{lang}.rst"
-            - "players/malachite/malachite_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "obsidian":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/obsidian/obsidian.{game_type}_{lang}.rst"
-            - "players/obsidian/obsidian_previous_days_{lang}.rst"
-            - "players/obsidian/obsidian_misc_instructions_{lang}.rst"
-            - "players/obsidian/obsidian_missions_{lang}.rst"
-            - "players/obsidian/obsidian_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "opal":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/opal/opal.{game_type}_{lang}.rst"
-            - "players/opal/opal_previous_days_{lang}.rst"
-            - "players/opal/opal_misc_instructions_{lang}.rst"
-            - "players/opal/opal_missions_{lang}.rst"
-            - "players/opal/opal_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "peridot":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/peridot/peridot.{game_type}_{lang}.rst"
-            - "players/peridot/peridot_previous_days_{lang}.rst"
-            - "players/peridot/peridot_misc_instructions_{lang}.rst"
-            - "players/peridot/peridot_missions_{lang}.rst"
-            - "players/peridot/peridot_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "spinel":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/spinel/spinel.{game_type}_{lang}.rst"
-            - "players/spinel/spinel_previous_days_{lang}.rst"
-            - "players/spinel/spinel_misc_instructions_{lang}.rst"
-            - "players/spinel/spinel_missions_{lang}.rst"
-            - "players/spinel/spinel_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "topaz":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/topaz/topaz.{game_type}_{lang}.rst"
-            - "players/topaz/topaz_previous_days_{lang}.rst"
-            - "players/topaz/topaz_misc_instructions_{lang}.rst"
-            - "players/topaz/topaz_missions_{lang}.rst"
-            - "players/topaz/topaz_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "waden":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/waden/waden.{game_type}_{lang}.rst"
-            - "players/waden/waden_previous_days_{lang}.rst"
-            - "players/waden/waden_misc_instructions_{lang}.rst"
-            - "players/waden/waden_missions_{lang}.rst"
-            - "players/waden/waden_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
-        "shark":
-          "full_sheet":
-            - "layouts/header.rst"
-            - "players/shark/shark.{game_type}_{lang}.rst"
-            - "players/shark/shark_previous_days_{lang}.rst"
-            - "players/shark/shark_misc_instructions_{lang}.rst"
-            - "players/shark/shark_missions_{lang}.rst"
-            - "players/shark/shark_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/players_generic_abilities_{lang}.rst"
-            - "layouts/footer_decoration.rst"
+        "amethyst": {<<: *player_full_sheet}
+        "cynthia": {<<: *player_full_sheet}
+        "garnet": {<<: *player_full_sheet}
+        "lydia": {<<: *player_full_sheet}
+        "malachite": {<<: *player_full_sheet}
+        "obsidian": {<<: *player_full_sheet}
+        "opal": {<<: *player_full_sheet}
+        "peridot": {<<: *player_full_sheet}
+        "spinel": {<<: *player_full_sheet}
+        "topaz": {<<: *player_full_sheet}
+        "waden": {<<: *player_full_sheet}
+        "shark": {<<: *player_full_sheet}
     "players_cheat_sheets":  # a separate group, since their stylesheets differ from those of the full sheets
       "sheets":
-        "amethyst":
-          "cheat_sheet":
-            - "players/amethyst/amethyst_cheat_sheet_{lang}.rst"
-            - "players/amethyst/amethyst_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
-        "cynthia":
-          "cheat_sheet":
-            - "players/cynthia/cynthia_cheat_sheet_{lang}.rst"
-            - "players/cynthia/cynthia_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
-        "garnet":
-          "cheat_sheet":
-            - "players/garnet/garnet_cheat_sheet_{lang}.rst"
-            - "players/garnet/garnet_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
-        "lydia":
-          "cheat_sheet":
-            - "players/lydia/lydia_cheat_sheet_{lang}.rst"
-            - "players/lydia/lydia_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
-        "malachite":
-          "cheat_sheet":
-            - "players/malachite/malachite_cheat_sheet_{lang}.rst"
-            - "players/malachite/malachite_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
-        "obsidian":
-          "cheat_sheet":
-            - "players/obsidian/obsidian_cheat_sheet_{lang}.rst"
-            - "players/obsidian/obsidian_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
-        "opal":
-          "cheat_sheet":
-            - "players/opal/opal_cheat_sheet_{lang}.rst"
-            - "players/opal/opal_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
-        "peridot":
-          "cheat_sheet":
-            - "players/peridot/peridot_cheat_sheet_{lang}.rst"
-            - "players/peridot/peridot_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
-        "spinel":
-          "cheat_sheet":
-            - "players/spinel/spinel_cheat_sheet_{lang}.rst"
-            - "players/spinel/spinel_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
-        "topaz":
-          "cheat_sheet":
-            - "players/topaz/topaz_cheat_sheet_{lang}.rst"
-            - "players/topaz/topaz_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
-        "waden":
-          "cheat_sheet":
-            - "players/waden/waden_cheat_sheet_{lang}.rst"
-            - "players/waden/waden_specific_abilities_{lang}.rst"
-            - "common/common_anthropia_account_summary_displayer_{lang}.rst"
-            - "common/common_cheat_sheet_footer_{lang}.rst"
+        "amethyst": {<<: *player_cheat_sheet}
+        "cynthia": {<<: *player_cheat_sheet}
+        "garnet": {<<: *player_cheat_sheet}
+        "lydia": {<<: *player_cheat_sheet}
+        "malachite": {<<: *player_cheat_sheet}
+        "obsidian": {<<: *player_cheat_sheet}
+        "opal": {<<: *player_cheat_sheet}
+        "peridot": {<<: *player_cheat_sheet}
+        "spinel": {<<: *player_cheat_sheet}
+        "topaz": {<<: *player_cheat_sheet}
+        "waden": {<<: *player_cheat_sheet}
     "npcs":
       "variables":
         "current_player_id": null
