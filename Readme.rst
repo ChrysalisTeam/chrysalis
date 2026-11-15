@@ -60,7 +60,8 @@ Main options (use ``--help`` for details):
 - ``--variable game_type=postauction.custom`` (Mindstorm only) builds the sheets of a game played after the Auction, see "Chrysalis:Mindstorm" below.
 - ``--output-dir <folder>`` generates the files in this folder instead of the default one (see below), e.g. to keep several variants of the documents side by side.
 - ``--skip-document-splitting`` still parses the in-game clues ODT files (to register the story tags they contain, for the consistency checks), but does not split them into separate PDF files, so LibreOffice is not needed and the build is much faster.
-- ``-t sheets|documents|inventories`` (can be repeated) only generates these types of assets, e.g. ``-t sheets`` to quickly rebuild character sheets; coherence summaries are only generated when no ``-t`` option is given.
+- ``--only <pattern>`` and ``--skip <pattern>`` (can be repeated) only generate the files of some items, selected by glob patterns on their IDs, e.g. ``--only "*amethyst*"`` (full sheet and cheat sheet of Amethyst), ``--only "sheets/players/*" --skip "*/cheat"``, or ``--skip "documents/*"``. ``--list`` prints the IDs of all items (like "sheets/players/amethyst/full", "documents/ingame_clues_mindstorm" or "summaries/facts") without generating anything. Unselected sheets and ODT files are still parsed, so the consistency checks stay complete.
+- ``--no-pdf`` only writes the intermediate restructuredtext files, without converting them to PDF, nor splitting ODT files (it implies ``--skip-document-splitting``): the fastest way to check templates and scenario consistency, but PDF conversion errors (e.g. missing images) are then not detected.
 
 Generated files go into "<project folder>/_output/<language>/" (the PDF files, and the coherence summaries), and their intermediate restructuredtext sources into "<project folder>/_build/<language>/". These two folders are ignored by git.
 
