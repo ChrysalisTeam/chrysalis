@@ -74,11 +74,11 @@ The data of the "Chrysalis:Auction" alternate reality game (loaded by the Pychro
 Chrysalis:Descent
 ---------------------
 
-Its documents are built from the "rpg_descent/storygen/" project folder (kept out of "rpg_descent/scenario_fixtures/", which the Pychronia portal loads as game data). Run::
+Its documents are built from the "rpg_descent/scenario_fixtures/" project folder (the Pychronia portal only loads its "descent_rpg_data_<lang>.yaml" file as game data). Run::
 
-	pychronia_storygen rpg_descent/storygen --variable lang=en
+	pychronia_storygen rpg_descent/scenario_fixtures --variable lang=en
 
-The "rpg_descent/storygen/_output/en/" folder should then contain the gamemaster manual, and character sheets, for this tabletop roleplay game.
+The "rpg_descent/scenario_fixtures/_output/en/" folder should then contain the gamemaster manual, and character sheets, for this tabletop roleplay game.
 
 They are meant to be used along the assets of the "rpg_descent/" folder.
 
