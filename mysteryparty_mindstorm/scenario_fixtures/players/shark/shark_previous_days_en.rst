@@ -65,7 +65,7 @@ This Judicator also warned you that a closed-door council was to be held between
 
 
 {# IMPORTANT ADDITIONAL CHAPTER: this is the GAMEMASTER version of the manor surveillance reports, with real identities and gamemaster hints; this is fine because Shark is always played by an organiser (NPC, see gamemaster_planning_details), never by a real player #}
-{% with current_player_id=none %}{% include "gamemaster_manor_surveillance_reports_meta_" ~ language ~ ".rst" %}{% endwith %}
+{% with current_player_id=none %}{% include "gamemaster/gamemaster_manor_surveillance_reports_meta_" ~ language ~ ".rst" %}{% endwith %}
 
 
 

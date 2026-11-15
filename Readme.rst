@@ -105,7 +105,7 @@ This game requires some data files, which are loaded by the "data_files" entry o
 - the game data dump, "common_assets/game_data/_initial_game_data_dump.yaml", described in the last section below.
 - optionally, photos of participants in the "common_assets/trombinoscope/" folder: if you have put properly named images (eg. "Amethyst-John Doe.jpg", with the "real_life_identity" fields of characters in "local.yaml") there, the generated "common_guests_gallery" document will gather them; else, the avatars of characters are used.
 
-The in-game clues of this game are split from its "miscellaneous/ingame_clues_mindstorm_<language>.odt" file, by the "document_splitting" entry of its "configuration.yaml" (documents names, page counts, and the text which must start each of them). This step might fail if the pagination of this ODT file is altered on your system (e.g. fonts missing), in this case edit it by hand to respect the splitting information of the configuration.
+The in-game clues of this game are split from its "documents/ingame_clues_mindstorm_<language>.odt" file, by the "document_splitting" entry of its "configuration.yaml" (documents names, page counts, and the text which must start each of them). This step might fail if the pagination of this ODT file is altered on your system (e.g. fonts missing), in this case edit it by hand to respect the splitting information of the configuration.
 English and French documents share this splitting information, so translations must keep the pagination of the French document; the build checks that the first page of each clue contains the declared text snippet, so that page shifts can not go unnoticed.
 
 
