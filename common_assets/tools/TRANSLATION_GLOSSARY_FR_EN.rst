@@ -4589,8 +4589,9 @@ Chrysalis: Skeletons (Carcasses)
 ================================
 
 .. Terms of ``rpg_skeletons/scenario_fixtures/skeletons_scenario_*.rst``. Skeletons is
-   a sequel to Sentience (Colbert the apothecary of Sylvorann becomes Mage Parcival),
-   so the Sentience rows above apply too.
+   a sequel to Sentience (Colbert the apothecary of Sylvorann becomes Magus Parcival),
+   so the Sentience rows above apply too, except that Skeletons drops the accents of
+   names in English (Selene, Childeric).
 
 .. list-table::
    :header-rows: 1
@@ -4612,8 +4613,8 @@ Chrysalis: Skeletons (Carcasses)
      - abomination(s)
      - Stitched-up zombified mercenaries (Conrad, Eulalie, Gaubert, Herbert); lowercase.
    * - le mage Parcival / le mage Childéric / le mage FOULQUES / l'apprenti FOULQUES
-     - Mage Parcival / Mage Childéric / Mage FOULQUES / the apprentice FOULQUES
-     - Rank before a name takes a capital; "the mage" alone stays lowercase. Unlike Archives, never "Magus". NPC names in capitals stay in capitals.
+     - Magus Parcival / Magus Childeric / Magus Foulques / the apprentice Foulques
+     - As in Archives: "Magus" before a name, "the magus" / "the magi" alone, never "mage". Childeric without accent; Foulques is never in capitals in English, unlike the other NPCs (CONRAD, SAPHIR...).
    * - l'apothicaire Parcival / Monsieur Colbert
      - Parcival the apothecary / Mr Colbert
      - Same character as Sentience's "Colbert the apothecary" (row "apothicaire Colbert").

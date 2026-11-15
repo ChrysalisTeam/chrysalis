@@ -152,7 +152,7 @@ The scenarios of Chrysalis:Skeletons and Chrysalis:Sentience are each a single r
 	pychronia_storygen rpg_skeletons/scenario_fixtures --variable lang=en
 	pychronia_storygen rpg_sentience/scenario_fixtures --variable lang=en
 
-(or ``--variable lang=fr`` for the French versions). Skeletons is a sequel to Sentience, and the map of its keep is "rpg_skeletons/scenario_fixtures/RPG Skeletons map 03_<language>.odp" (with its PDF export).
+(or ``--variable lang=fr`` for the French versions). Skeletons is a sequel to Sentience, and the map of its keep is "rpg_skeletons/scenario_fixtures/skeletons_map_<language>.odp" (a LibreOffice Impress file, to print or export to PDF yourself).
 
 PDF files are generated in the "_output/<language>/" subfolder of these project folders.
 
