@@ -147,11 +147,12 @@ The "mysteryparty_cromlech/scenario_fixtures/_output/en/" folder should then con
 Chrysalis:Skeletons and Chrysalis:Sentience
 -----------------------------------------------
 
-The scenario of Chrysalis:Skeletons (French only) is "rpg_skeletons/scenario_fixtures/skeletons_scenario_fr.rst", a restructuredtext file; to regenerate its PDF, run::
+The scenarios of Chrysalis:Skeletons and Chrysalis:Sentience are each a single restructuredtext file per language, in "rpg_skeletons/scenario_fixtures/" and "rpg_sentience/scenario_fixtures/"; to regenerate their PDF, run::
 
-	pychronia_storygen rpg_skeletons/scenario_fixtures --variable lang=fr
+	pychronia_storygen rpg_skeletons/scenario_fixtures --variable lang=en
+	pychronia_storygen rpg_sentience/scenario_fixtures --variable lang=en
 
-The scenario of Chrysalis:Sentience is a single restructuredtext file per language, in "rpg_sentience/scenario_fixtures/"; build it with ``pychronia_storygen rpg_sentience/scenario_fixtures --variable lang=fr`` (or ``--variable lang=en``).
+(or ``--variable lang=fr`` for the French versions). Skeletons is a sequel to Sentience, and the map of its keep is "rpg_skeletons/scenario_fixtures/RPG Skeletons map 03_<language>.odp" (with its PDF export).
 
 PDF files are generated in the "_output/<language>/" subfolder of these project folders.
 

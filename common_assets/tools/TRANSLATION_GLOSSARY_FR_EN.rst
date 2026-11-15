@@ -4585,6 +4585,120 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - forest yeti
      - Creature.
 
+Chrysalis: Skeletons (Carcasses)
+================================
+
+.. Terms of ``rpg_skeletons/scenario_fixtures/skeletons_scenario_*.rst``. Skeletons is
+   a sequel to Sentience (Colbert the apothecary of Sylvorann becomes Mage Parcival),
+   so the Sentience rows above apply too.
+
+.. list-table::
+   :header-rows: 1
+   :widths: 30 30 40
+
+   * - Français
+     - English
+     - Notes
+   * - carcasse(s)
+     - carcass(es)
+     - Skeletons heroes (skeletons animated by a necromancer); lowercase, quotation marks on first use. Title "CARCASSES" stays all caps.
+   * - avant-garde / la fine équipe
+     - the vanguard / the dream team
+     - Nicknames of the carcasses.
+   * - garde rapprochée / l'équipe de blocus
+     - the close guard / the blockade team
+     - Nicknames of the four abominations.
+   * - abomination(s)
+     - abomination(s)
+     - Stitched-up zombified mercenaries (Conrad, Eulalie, Gaubert, Herbert); lowercase.
+   * - le mage Parcival / le mage Childéric / le mage FOULQUES / l'apprenti FOULQUES
+     - Mage Parcival / Mage Childéric / Mage FOULQUES / the apprentice FOULQUES
+     - Rank before a name takes a capital; "the mage" alone stays lowercase. Unlike Archives, never "Magus". NPC names in capitals stay in capitals.
+   * - l'apothicaire Parcival / Monsieur Colbert
+     - Parcival the apothecary / Mr Colbert
+     - Same character as Sentience's "Colbert the apothecary" (row "apothicaire Colbert").
+   * - SAPHIR / Perle de Sylvorann
+     - SAPHIR / Pearl of Sylvorann
+     - Name verbatim (not "Sapphire"); "Pour la Perle de Sylvorann" = "For the Pearl of Sylvorann".
+   * - semi-atlante(s)
+     - half-Atlantean(s)
+     - Saphir's ancestry.
+   * - Listenland / Listenbourg / Listenirs / Kilandar
+     - Listenland / Listenbourg / Listenirs / Kilandar
+     - Invented names, verbatim. "pays de Listenland" = "the land of Listenland".
+   * - donjon
+     - keep
+     - The whole stronghold (see the general "donjon" rule).
+   * - forêt bubonique
+     - the Bubonic Forest
+     - Place name, capitalised; also on the map.
+   * - garnison / salle de garde / salle du trône / ossuaire / glacier
+     - garrison / guardroom / throne room / ossuary / ice house
+     - Locations; sentence case in headings and on the map.
+   * - montée de la presqu'île
+     - climb up the peninsula
+     - Heading and map label.
+   * - maisonnette (de la tour) / Tour - maisonnette
+     - cottage / Tower - cottage
+     - Parcival's oracle room on top of the tower.
+   * - dépeçoir / Dépècerie
+     - flaying machine / flaying house
+     - The machine vs the building (heading "Flaying house").
+   * - purinoir
+     - cesspit
+     - Key plot word (where Saphir was found); keep the quotation marks where the FR has them.
+   * - vibraphone (gemme de heaume)
+     - vibraphone
+     - Helm gem that lets carcasses speak; pun kept (see the xylophone joke).
+   * - heaume
+     - helm
+     - Carcasses' runic helmet.
+   * - arbre de vie
+     - tree of life
+     - Necromantic anchor of the carcasses; lowercase in prose.
+   * - télémiroir / boîte messagère / miroir magique
+     - telemirror / message box / magic mirror
+     - Magical communication devices; "faire un point par télémiroir" = "catch up by telemirror".
+   * - voyage médiumnique / médium
+     - mediumistic journey / medium
+     - Parcival's trance travels.
+   * - réminiscence (in)complète
+     - (in)complete flashback
+     - Memory-recovery cue for the carcasses; not "reminiscence" (cf. Archives "Mystic Reminiscences", an ability name).
+   * - rats musqués / Rat Marquis
+     - muskrats / Rat Marquis
+     - Forest guardians.
+   * - olifant
+     - oliphant
+     - Alarm horn (1 to 5 blasts).
+   * - diacre (assaillant)
+     - Diakon
+     - Follows the general "diacre" rule.
+   * - hussards ailés
+     - winged hussars
+     - Elite mercenaries (Day 3 evening).
+   * - chair à canon
+     - cannon fodder
+     - Abominations' joke about the carcasses.
+   * - chiens-loups / lapereau Loulou / mygale
+     - wolfdogs / young rabbit Loulou / tarantula
+     - Saphir's animals.
+   * - bâton de magicien (incandescent)
+     - (white-hot) wizard's staff
+     - Foulques' staff.
+   * - couffin de soie, gardé par une meute de loups
+     - silk Moses basket, guarded by a pack of wolves
+     - Saphir's cover story; quoted.
+   * - châsse couverte de runes
+     - rune-covered reliquary
+     - Holds Saphir's infant clothes.
+   * - Jour 1 / Jour 3 - matin / après-midi / soir / nuit tombée
+     - Day 1 / Day 3 - morning / afternoon / evening / nightfall
+     - Event headings.
+   * - Le fond de l'affaire
+     - The secret behind the affair
+     - Heading, as in Sentience.
+
 Alternate reality game: Auction (the Pychronia web game)
 =========================================================
 

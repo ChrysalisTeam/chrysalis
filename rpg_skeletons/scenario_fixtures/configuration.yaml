@@ -1,4 +1,5 @@
-# French-only configuration, used by "pychronia-storygen . --variable lang=fr"
+# Single configuration for all languages, used by "pychronia-storygen <this folder> --variable lang=fr|en"
+# ({lang} is replaced by the language code; sources are plain RST, without jinja2 templating)
 
 "settings":
   "rst2pdf_conf_file": "../../common_assets/rst2pdf.conf"
@@ -9,4 +10,4 @@
 "sheet_generation":
   "sheets":
     "skeletons_scenario":
-      "full_sheet": "skeletons_scenario_fr.rst"
+      "full_sheet": "skeletons_scenario_{lang}.rst"

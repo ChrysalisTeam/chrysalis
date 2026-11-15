@@ -1,0 +1,495 @@
+CARCASSES
+############
+
+
+Combat
+===============
+
+Each character has 100 hit points.
+Initiative by a D6 roll if needed.
+Reactions to an attack: dodge, block, counter-attack (dangerous)
+
+
+The characters
+=====================
+
+The heroes are **"carcasses"**, skeletons magically animated by a necromancer.
+
+They wear a very **thick helm** engraved with runes, covering their whole head; its enchantment lets them see the world (in pastel shades), smell odours, touch objects, and hear sounds almost normally.
+
+An **empty slot**, diamond-shaped, is visible at the top of the helm.
+If it is set with a diamond-shaped gem called a **vibraphone**, the skeletons become able to speak normally.
+
+The skeletons talk to each other through **long-distance quasi-telepathy** (vibrations of their skulls), but by default they can **NOT speak**.
+
+The other denizens of the keep call them **"the vanguard" or "the dream team"**.
+
+**IMPORTANT**: initially, the characters do not know their "names"!
+
+- ALPHA (very broken/re-welded bones)
+
+  - In reality "Brunissende", a distant niece of the (late) king of the land of Listenland
+  - Handles the bow and the spear very well
+  - Seasoned adventurer: knows how to make ropes out of clothes, light a fire by striking stones together, stitch up a wound...
+  - Can pick locks
+  - Of medium height, has a female frame (wider pelvis, etc.)
+
+- GAMMA (moderately damaged bones)
+
+  - In reality "Mage Childéric", a necromancer, who became a friend of Mage Parcival (and almost an uncle to SAPHIR)
+  - Had set up the defences of the keep
+  - Fights well with a magic gauntlet (initially, can only cast a jet of flame)
+  - Senses magical or bewitched artefacts
+  - Rather tall and thin (male bones)
+
+- OMEGA (almost intact bones)
+
+  - In reality "Mage Parcival", a medium, who had bought this abandoned keep
+  - SAPHIR's adoptive father
+  - Can "see and hear very far away", by projecting his mind
+  - May have prophetic intuitions
+  - Does not fight well, but handles the shield and the short sword
+  - He is missing some teeth (including one where his former gold tooth was)
+  - Rather short and stocky (male bones)
+
+
+.. raw:: pdf
+
+   PageBreak
+
+
+The places
+==============
+
+The action takes place in a corner of the land of **Listenland** (whose capital is **Listenbourg**), ruled by the royal family of the **Listenirs**.
+
+The political situation has been confused since the death of the last king - the throne has been vacant for more than a year, and petty nobles are scheming to claim it.
+
+The keep stands on a small, high peninsula, bordered by steep cliffs, on a lake teeming with very dangerous aquatic beasts.
+
+Adventurers attack it from time to time, for various purposes.
+
+
+The Bubonic Forest
+---------------------
+
+- A narrow beach at the foot of the cliff (hard to reach), where a **small sailing boat** (belonging to the keep) lies
+- Dense and dangerous forest, a single trail, passing by a **muskrat nest** 200 m from the garrison
+- Lookout rats watch over the forest and the keep; they relay messages to one another by squeaking
+- They sound an **oliphant** to warn the keep of dangers (1, 2 or 3 blasts depending on the severity)
+- They go and fetch their Marquis if the skeletons come
+- Rats will press themselves against the skeletons' shinbones to pass on their vibrations (if they have no vibraphone)
+- **Rat Marquis** (has a **vibraphone** on his forehead): he says he sends a few dozen rats at every incoming adventurer, to "wear them out", in exchange for a share of the loot and of the keep's meat; the muskrat population is thriving, some are hibernating to limit consumption.
+- **SIGNS** all over the place, proclaiming **This castle and its estate are private property, duly registered at the Kilandar registry. We have no treasure, no secret curses, and no intention of conquering the world. On your lives, go your way.**
+- If the carcasses go beyond the muskrat nest, they fall apart, being too far from their "tree of life"; in the worst case, the muskrats bring them back to the keep as spare parts.
+
+
+The garrison (at the entrance of the peninsula)
+-----------------------------------------------
+
+- A simple courtyard surrounded by a wall, with a collapsed barracks, and a watchtower still in good condition
+- On the central table, a few rusty hand weapons (axes, sabres and shields only)
+- In the rubble: slightly rusty metal cannons, without their wooden carriages; empty bottles; torn jute sacks
+
+- Forest side: a **drawbridge** over a small ravine, without chains (it cannot be raised, but it can be destroyed)
+
+  - SIGN on the heavy door: **Last warning, here you will find nothing but defeat and death**
+  - OMEGA (Mage Parcival) sees glints of light and green tents on a **distant hill** (an army observation camp)
+
+- Peninsula side: a steep path leading to the keep, with a precipice on each side
+
+MAGE FOULQUES:
+
+- Young, despite his sideburns
+- Dressed in a slightly dirty linen robe, dyed blue
+- Lots of pockets on his belt, and a satchel at his side
+- Owns a long wizard's staff, which fleetingly glows white-hot at times
+
+
+Climb up the peninsula
+------------------------------
+
+- Nothing dangerous on this path, apart from its narrowness
+- Shows traces of old traps and barriers that were torn away
+- The outer wall of the keep is damaged in places, but still seems solid
+- A tall tower rises from the middle of the enclosure
+- There is a sort of cylindrical cottage perched on top of the tower, surrounded by a small wall-walk; its windows are shut
+- **IMPORTANT**: a thin **turquoise smoke** rises from a chimney of the cottage
+
+
+Guardroom
+--------------------------
+
+- **4 "abominations"**, hulking "Frankenstein's monsters", heavily stitched up and barely dressed, are relaxing in this room.
+- Note: they are former attackers of the keep, since won over to its cause
+- They call themselves **"the close guard" or "the blockade team"**
+- Initially, a **young rabbit, Loulou**, wanders around and attacks the legs of the chairs
+- A big **featherless owl** looks around
+- Other objects: a few small casks of bad beer, minimal furniture, a painting workbench
+- Hidden: a large **bloodstain** high on the wall, which everyone laments not having noticed before ("the princess mustn't see this kind of thing")
+- Hidden: one of the tables is actually CONRAD's **giant cleaver**, covered with a tablecloth and laid on trestles
+- Hidden: quality artefacts and weapons for everyone are in a small **cellar under a rug**; on grabbing them, the carcasses remember their combat skills
+
+CONRAD:
+
+- The most enormous of them all (3 m tall, 1.5 m wide)
+- Cannot enter the other buildings, or go upstairs, because he is too wide
+- Initially, plays the accordion
+- Has a **dagger stuck** in his side and does not realise it (the others laugh about it); he complains that it might rust and fester
+- Can draw in charcoal, and in colour
+- Very friendly and accommodating
+- Defends the record of "MAGE" (no longer "apprentice") FOULQUES: necromancy learnt in only 6 months, mechanised flaying machine, throne room traps, spiced meat recipes; **"a true polymath"**
+- Bawls "Loulou, don't touch that" violently in the middle of confidences, making everyone jump
+
+EULALIE:
+
+- Large build (2.5 m tall, 1 m wide)
+- Just cannot climb all the way to the top of the tower (up to the cottage), because the last spiral staircase is too narrow
+- Initially, sharpens weapons on a grindstone
+- Grumpy, deadpan, but not mean
+- Has a certain ability to detect magical auras
+- Recovered the complete skeletons of GAMMA and OMEGA from the ossuary, to replace **Brolok** (pulverised by a pyromancer) and **Karnine** (who was tired of staying alive, and too damaged) respectively
+- Complains that the carcasses are poorly maintained by the apprentice FOULQUES, hence their worrying **memory losses**
+- "But Conrad, whether your cleaver is sharp or not has no impact, it's precisely the impact that does it all!"
+
+GAUBERT and HERBERT:
+
+- Near-human build (2 m tall, 70 cm wide)
+- Initially, peel potatoes on the cleaver-table
+- Used to **play dice** with ALPHA (Brunissende), between attacks
+- Call the carcasses "cannon fodder", or other puns, and offer them beer to drink (which spills onto the ground)
+- Serve as bodyguards to the "princess" on her outings
+- Point out that since the signs were put up all over the place, the number of adventurer attacks has rather **doubled**
+
+
+Throne room
+---------------------
+
+- The corridor leading to the throne room is covered with **old hangings**, behind which lies a trap made of sharpened spring-loaded stakes (the lever that controls them is near the throne).
+- If the trap is tested, the abominations first take down the hangings to preserve them, then afterwards spend time re-arming the device
+- The throne room itself is rather plain, apart from a heavy **wooden throne, a large standing mirror,** schoolbooks, and a few old games
+- A big chest contains the **recent loot**, to be sold off (weapons, armour, a few jewels and clothes)
+
+SAPHIR (half-Atlantean):
+
+- Teenage girl (14 years old?) with ash-coloured hair and green eyes, and slightly shiny skin
+- The carcasses intuitively recognise that she is the "Pearl of Sylvorann", and burn to protect her
+- Initially dressed in classy green velvet
+- (Adoptive) daughter of Mage Parcival; the close guard says she was found in a "silk Moses basket, guarded by a pack of wolves"
+- Was previously taught by Mage Childéric
+- Initially, revises her geography, via the **magic mirror**, with **Druid Galien**, a distant friend of her father's
+- Loves taking in abandoned, injured, or ageing animals from the forest
+- Wears around her neck a thick **silver necklace with a pearly scallop-shell medallion** at the end (the others forbid her to take it off)
+- Makes the others stop harming the species she has already taken in (gradually pushing them towards vegetarianism, much to their dismay)
+- Used to like being called "princess" by the guard, but not any more
+- Complains that Mage Childéric had long spoken of resuming his initiatory wanderings, but that he left the keep far too abruptly, without even saying goodbye, and that this hurts her; he was like an uncle to her; he does not even answer the messages she sends through the **"message box"** *(FOULQUES overhears this at some point)*.
+- If someone mentions a **cesspit** to her (see "The secret behind the affair"): it shocks her, she withdraws into herself for a long time, hurt and terrified that her father may have revealed their secret
+
+
+Gardens and vegetable patch
+--------------------------------
+
+A few heaps of fallen rocks along the outer wall.
+
+Two **wolfdogs**, real mastiffs, roam freely; they sniff the skeletons' bones with interest...
+
+A **big donkey**, sturdy-looking, is tethered near the guardroom, on a long lead that lets it move around, but not reach the vegetable patch.
+
+The vegetable patch is in sowing season. There is a small wooden-plank pen next to it, initially empty (for the rabbit).
+
+Hidden: two small gravestones at the back, in front of a shrub, marked **Brolok** and **Karnine**
+
+
+Necromancy laboratory
+--------------------------------
+
+*If FOULQUES stays there too long, the carcasses can send one of their number to lure him out and keep him busy outside.*
+
+Lots of inventions in progress, half-open books, scattered tools, and steaming alembics fill this laboratory.
+
+A bed and a small chest of drawers are the only "normal" furniture.
+
+Mage Childéric's old equipment (including books) has been pushed into chests at the back.
+
+Interesting artefacts OUTSIDE the chests:
+
+- **Tree of life** made of black gems of all sizes, with 3 main branches
+- **Necromancy manual**, explaining how to summon abominations and carcasses. Key points: this reanimation is only possible after violent deaths, within a few days at most; the tree of life is what keeps the carcasses alive, it has a limited range, and a "capacity" that depends on its number of main branches; it needs little upkeep, apart from a few drops of the necromancer's blood every moon; the abominations, for their part, can stay alive for a very long time, as long as they feed; all of them are bound by a **moral contract**: never to seek to harm their creator.
+
+Interesting artefacts IN the chests:
+
+- **Grimoire of elemental spells**, allowing GAMMA (Childéric) to remember better spells with his gauntlet: electric arc, shockwave, flash of light...
+- Ebony **message box**, potentially containing a letter asking for news, sent by SAPHIR
+- With a careful search: **Mage Childéric's summoning robe and jewellery**
+
+
+Flaying house
+--------------------------------
+
+This building is locked. **Only FOULQUES has the key.**
+
+A bad, slightly putrid smell hangs nearby.
+
+**IMPORTANT**: this smell gives an **incomplete flashback** to OMEGA (Mage Parcival): a large half-buried tank, flies, an echoing grinding noise, and a dreadful smell... *(it is a "cesspit")*
+
+Inside: large machinery turning slowly, but noisily, nonstop, powered by a windmill.
+
+The corpses of adventurers are separated there into bones, which end up in the ossuary, meat, which ends up in the self-refrigerating ice house, and skin, which is first dried and then stored to serve as snacks for the dogs (but a reseller is lacking to sell off the surplus).
+
+
+Tower - bedrooms
+------------------
+
+In front of the bedrooms, a small **portrait gallery** drawn in charcoal by CONRAD: Mage Childéric (tall and thin, long and very fine face), Mage Parcival (short and stocky, has a **gold tooth**), and several of SAPHIR, through the years.
+
+**Additional detail: TATTOO** of round shape which appeared on SAPHIR's shoulder at the start of adolescence, and a rounded piece of tattoo on Mage Parcival's forearm. Mage Childéric is too covered up to see whether he has tattoos.
+
+The bedrooms are open, being aired.
+
+Mage Parcival's bedroom: simple furniture, a few clothes, a few stacked newspapers, correspondence with a few distant friends, children's drawings made by SAPHIR. In the bedside table: **notes on the education of half-Atlanteans**, explaining that these children "reveal" their inherited potential in mid-adolescence, and that if they learn to control their powers, everything goes very well.
+
+SAPHIR's bedroom: a wooden plank blocking the bottom of the door; simple furniture, a few clothes (EULALIE bursts in with clean laundry and tells the carcasses off if they rummage through the underwear), a very worn **clairvoyance manual** (lent by her father), vegetable and other plant seeds, an ebony **message box** (potentially with a fake message giving news from Mage Childéric); a small open terrarium under the bed (for the tarantula)
+
+What the clairvoyance manual says:
+
+- It is a very rare magical art, which opens the senses, lets one better perceive one's surroundings, but also travel in spirit, explore distant places, and converse with other clairvoyants
+- Rituals, symbols, potions and **incense** are needed to fully exploit this potential
+- Historically, the greatest mediums have lasted up to **3 days** during their mediumistic journey
+- It is psychologically bad (for the medium) to pull a medium out of his trance, but he always recovers within a few days
+
+
+Tower - cottage
+-------------------
+
+Reachable only by a narrow spiral staircase.
+
+Along the battlements: a stock of pitch and rocks, a ballista under construction.
+
+All the openings are shut. **Magical protections** prevent the door from being opened; GAMMA (Childéric) can laboriously break them.
+
+It is a makeshift laboratory, full of magic seals, grimoires, utensils and potions related to clairvoyance.
+
+The inside is full of acrid, turquoise smoke, coming from a large censer; it was recently refilled with cubes of solid incense.
+
+
+A huge terrestrial globe in relief, with annotations stapled on little papers, and a few golden pins. **A promising island is marked by one of these golden pins.**
+
+An empty armchair faces this globe. No trace of Mage Parcival.
+
+**IMPORTANT**: Under the armchair, infant clothes, locked in a **small rune-covered reliquary**, give a **complete flashback** to OMEGA (Mage Parcival): a large half-buried tank, flies, an echoing grinding noise, a dreadful smell, and a wooden box from which a child's crying escapes... *(it is the cesspit in which SAPHIR was found by Parcival the apothecary)*
+
+
+.. raw:: pdf
+
+   PageBreak
+
+
+The events
+====================
+
+Day 1
+----------
+
+The carcasses are startled "awake" by FOULQUES, who heads back to the keep on a donkey.
+They are immediately slaughtered by a group of knights who arrived too fast on horseback.
+
+Day 2
+----------
+
+- FOULQUES wakes the carcasses one by one (amnesiac), asks them their first names by touching their helms in order to hear them (but they have no idea), and assigns each of them one taken from the Greek alphabet
+- He shouts to them to protect the **Pearl of Sylvorann**, which electrifies them, then he heads back to the keep.
+- An oliphant sounds
+- A muskrat arrives, with a parchment: "1 two-handed sword, an archer, and a Diakon"
+- These 3 attackers arrive a few minutes later
+- Almost inevitable defeat of the carcasses, mainly because of the Diakon
+
+Day 3 - morning
+---------------------
+
+- FOULQUES wakes the carcasses well in advance, orders them to guard the fort, and leaves to gather ingredients in the forest, armed with his **wizard's staff**.
+
+- The carcasses can freely go and see what is happening around the muskrat village
+
+- If they try to enter the keep, they are rebuffed by the abomination EULALIE, who puts her big eye to the peephole of the door.
+
+- A goblin (introducing himself as **"Winkle"**) arrives on the beach in a small steamboat, very discreetly, with a large grey cloak on his shoulders
+
+- Interactions:
+
+  - He climbs up the cliff through underground tunnels
+  - He calls the carcasses with a **whistle** from the forest, then only if necessary goes to the garrison himself (reluctantly)
+  - To pass on to the keep: a small military camp and an observation turret have been set up on a hill on the other side of the forest, so the keep is now being spied on, and he no longer wants to be seen there; he has left his **Zeppelin** far away, at the port, so as not to arouse suspicion; he suggests going to negotiate with these soldiers just in case.
+  - He delivers a load of 2 small casks of **black powder**, a can of liquid pitch, a crate of oddly shaped metal parts, and spyglass lenses (fragile).
+  - To pass on to the muskrats: a **bag of multigrain seeds**
+  - He hands back a **white-gold signet ring** in a glass case, saying that he has not had the chance to remove its **curse** (so do not put it on); indeed, this ring belongs to the royal line of the land, whose distant cousins everyone is looking for, since the throne is vacant; he says that he may have let too much information slip, while drunk, in the underworld, and that the keep may end up targeted because of it. *The signet ring actually belongs to Brunissende, who has a flashback if she touches it directly; if anyone else puts it on, it paralyses their arm for several days*.
+  - He gives them a newspaper, "The Voice of Listenland". Headlines: "already more than 400 days without a king; more adventurers missing in the Bubonic Forest, said to harbour a sect of summoners of dark gods; minor earthquake 30 km from the capital".
+  - He asks for "the steward" to come and see him (that is FOULQUES); since the latter is away, he says that payments and other dealings will be settled later, as he has a busy day; they will **catch up by telemirror**; then he leaves.
+
+- An oliphant sounds
+- **IMPORTANT**: what do the skeletons do with the load of goods?
+- A muskrat arrives, with a parchment: "two archers, a bard, and a merchant"
+- These 3 attackers arrive a few minutes later
+
+  - They are supposed to be defeated by the carcasses (who can also hide, play dead, etc.)
+  - Otherwise, FOULQUES wakes the carcasses on his return from gathering, that same morning, and a micro-attack takes place: 3 blind-drunk haemophiliac dwarves, against whom the carcasses cannot lose
+
+
+Day 3 - afternoon
+---------------------
+
+The carcasses are supposed to explore the guardroom and the rest of the keep.
+
+In the guardroom:
+
+- Warm welcome from the abominations, *"it's been a long time!"*
+- Questions about the load of goods (if brought)
+- GAUBERT and HERBERT invite ALPHA (Brunissende) to play dice and have a drink
+- Seeing that the skeletons are mute, one of the abominations goes to fetch the helm **vibraphone** gems from the small hidden cellar, which let them speak; this incidentally reveals the **available WEAPONS**, which the carcasses can obtain after negotiation (explanation: there was a fear that adventurers who turned back would steal overly interesting weapons from the skeletons)
+- The close guard points out that Mage Parcival has been on a **mediumistic journey** in his oracle room, at the top of the tower, for nearly **5 days**; this is exceptional, and rather a good sign in their view; the turquoise smoke escaping from it is incense, which helps him stay focused in his visions and in his distant dialogues with other initiates
+- CONRAD can give a new briefing on the **defence strategy**: vanguard, close guard, traps, then "all or nothing": dogs, FOULQUES's defensive potions, burning pitch and rocks on the staircase; as a last resort SAPHIR can teleport a few kilometres away, with her father, via her **medallion** (100 kg teleportable at most)...
+
+In the throne room:
+
+- Saphir interrupts her school lesson by telemirror, and greets them enthusiastically, jumping into the arms of ALPHA (Brunissende)
+
+  - The skeletons immediately feel an immense **protective instinct** towards her
+  - She had already come to the garrison twice, but they were "asleep"
+  - She starts telling them about the bivouac she has just come back from, but breaks off, as she will wait for her father to come back before telling the whole story
+  - She asks ALPHA (Brunissende) when she will be able to tell her more stories of her past life at the king's court, or in the southern steppes
+  - She asks the other skeletons who they are, and whether they have any anecdotes, or tales, from their past lives (answer: NO)
+  - She is (optionally) delighted to get the rabbit Loulou back, and asks whether he has been good
+  - She goes to change into a more practical linen and leather outfit
+  - On returning, she gives a **tame tarantula** to ALPHA (Brunissende), who indeed loves that sort of thing
+  - She then dashes off to the vegetable patch with CONRAD (who arms himself with his cleaver to use as a spade)
+  - She invites the skeletons to come and garden too once they are rested
+
+- At some point, FOULQUES comes back from his laboratory, feverish, his arms laden with tools and metal parts, and his mind very busy; he talks about the **unfinished ballista** of the tower, one of whose parts has still not been delivered: very strong **ropes** *(which Brunissende would know how to make)*
+- If he sees the carcasses, he is surprised, and alarmed that the garrison has been left empty; the abominations reassure him about that, "they've always done it that way"
+- CONRAD, GAUBERT or HERBERT cheers FOULQUES up, telling him that everyone admires his versatility and his efficiency, and that he must not feel overwhelmed even if he is following in the footsteps of a giant, Mage Childéric; FOULQUES thanks them, but remains anxious.
+- GAUBERT and HERBERT ask to speak to FOULQUES about **"SAPHIR's Revelation"**; they withdraw into the necromancy laboratory, so that the girl does not overhear; they say that SAPHIR has shown early signs in her eyes, but despite the emotions and dangers of this outing, she has not yet revealed her potential, which will however most probably be **athletic**.
+
+- In the vegetable patch, SAPHIR and CONRAD chat while working the soil
+
+  - SAPHIR suggests aromatic herbs to protect the vegetable patch from vermin; then she brings up the incessant attacks
+  - CONRAD admits that the attacks keep getting worse, and that they may have to leave; Mage Parcival had in fact mentioned a serious fallback option, on an island very far away; perhaps he is preparing that very possibility right now?
+  - SAPHIR wonders whether it makes sense, in that case, to work the soil like this... and says she wants everything to stay the same
+  - CONRAD reassures her: they are a tribe, almost a family now, so everyone (abominations and carcasses included) would come along; and when in doubt, a fine vegetable patch is well worth betting on!
+  - SAPHIR is a little glum that "all this is because of her"; CONRAD tells her flatly that the adventurers have been warned many times over; and that her father made his choices with his eyes open, and never seemed to regret them!
+  - SAPHIR realises that she has not brought the **seeds to plant**, and asks a carcass to fetch them from her bedroom!
+  - The wolfdogs go wild, so everyone breaks into a musical "jam" with the accordion and wooden sticks beaten together
+  - Optionally, one of the abominations grabs a skeleton to play the xylophone on it
+  - EULALIE jokes wryly about the "almost normal life" that Mage Parcival wanted to give his daughter - and here is the result!
+
+- At some point, Mage FOULQUES passes by and performs an **impressive ritual** to set a low wall upright again, still with his white-hot staff.
+
+- It is dinner time
+
+  - SAPHIR comes back all joyful from her bedroom, where she had gone to change: she has received news from Childéric. He is well, apologises for having left so quickly, but says he is on the trail of very interesting ancient runic magics *(it is a fake note sent by FOULQUES)*
+  - At the table, the first half of the meal goes by peacefully
+  - Suddenly, 5 oliphant blasts: an extremely serious attack, all hands to battle stations!
+
+
+Day 3 - evening
+---------------------
+
+- **Five winged hussars**, elite mercenaries, fly towards the keep, armed with crossbows.
+- FOULQUES says that Mage Parcival's mediumistic journey must not be interrupted, against the advice of the abominations
+- The carcasses man the battlements with GAUBERT and HERBERT to defend the cottage
+- Possible defences: the ballista (if already finished with ropes, or even with a sighting scope), then the bow, then hand-to-hand combat
+- CONRAD and EULALIE protect SAPHIR down below, and pelt the sky with rocks, from the gardens
+- Everyone's rallying cry: **For the Pearl of Sylvorann**
+- FOULQUES attempts a new spell, still with his white-hot staff, as the mercenaries approach: **Tornado**, which has little chance of success; then he goes back down to the throne room
+- In the worst case, the hussars manage to neutralise the upper defences, and to get into the cottage; CONRAD then climbs the tower from the outside, forces the cottage open, and does the hussars in
+
+
+Day 3 - nightfall
+---------------------
+
+- A muskrat arrives at the castle, and reports that a **military detachment** is preparing to cross the forest **with cannons**; they will probably be there by morning
+- At some point, the players end up discovering that Mage Parcival is not in the cottage (e.g. triggering clue: smoke no longer comes out of it)
+- SAPHIR runs everywhere, tears in her eyes, breathless, looking for her daddy
+- She breaks into the flaying house, and brings back two patches of skin bearing the **tattoo** that she herself has on her shoulder: a **wolf curled up in a ball**
+- She then confronts everyone present, but Mage FOULQUES cannot hide his panic
+- CONRAD confiscates FOULQUES's **white-hot staff** as a precaution
+- FOULQUES confesses everything, but says they were "accidents"
+- SAPHIR, her eyes black as coal, heads for the throne, seizes it, leaps up to the ceiling, and hurls it at FOULQUES (who is potentially flattened)
+- SAPHIR returns to normal and bursts into tears, curled up in a ball on the floor
+- If FOULQUES is dead, CONRAD asks the carcasses to "find a way to stay alive", because he does not want SAPHIR to bear that guilt on top of everything else
+- CONRAD takes SAPHIR to the vegetable patch to recover from her despair, with the wolfdogs, the rabbit, etc.
+
+
+.. raw:: pdf
+
+   PageBreak
+
+
+Possible endings
+========================
+
+- Turn FOULQUES into an abomination, or set off in search of another necromancer?
+- Go and negotiate, putting ALPHA (Brunissende) forward as the legitimate heir to the vacant throne?
+- All leave by sailing boat, before the soldiers reach the edge of the cliff? Possibly towards the island of the half-Atlanteans found by Mage Parcival?
+- Let only SAPHIR and the carcasses teleport into the forest and flee?
+- Contact the goblin by telemirror so that he comes to rescue them by Zeppelin (but a very difficult negotiation)?
+
+
+
+The secret behind the affair
+=============================
+
+The mages' past
+--------------------------
+
+Mr Colbert was an apothecary in the village of Sylvorann, in a corner of Listenland.
+He witnessed, powerless, the sad fate of his friend the hermit alchemist Séléné, murdered following a plot by villagers.
+
+One day, he received an intuition calling him to the **cesspit**, away from the village.
+In this tank, where droppings but also dead animals piled up, with a slow mechanised grinding mechanism at the end, he found an abandoned infant, whom he took in, saved just in time, and named SAPHIR.
+He had a pretty good idea who the village woman was who could not accept having a different child, a **half-Atlantean**.
+
+That distant civilisation still had a few genes lingering in the population, which sometimes resurfaced, with quite visible physical traits: ash-coloured hair and shiny skin.
+In adolescence, a half-Atlantean could reveal some supernatural powers, harmless as long as they were well mastered. But many atrocious rumours circulated about this breed.
+
+Young SAPHIR was therefore quickly rejected by the rest of the village, and constantly mocked for having been found in a cesspit.
+
+So Colbert sold everything and left the village.
+He changed his name to "Parcival", like his grandmother.
+With SAPHIR, he invented the story of a "silk Moses basket, guarded by a pack of wolves".
+But nowhere were he and his daughter welcome.
+
+The new Parcival developed his mediumistic gifts to guide their way, thus becoming a mage.
+
+He thus went to find Mage Childéric, who was also ostracised for his work on necromancy.
+
+Allies of circumstance, they bought a ruined keep on a peninsula, in order to live their lives in peace.
+The two mages taught SAPHIR what was suitable for a child of her age.
+
+But mercenary scoundrels were on the trail of Mage Childéric, intent on stealing his secrets. Defeated then zombified, they became the first "abominations" of the place.
+
+Very quickly, rumour swelled about what was going on at the keep, about the treasures and mysteries it held, and glory-seeking adventurers began to converge on it.
+The muskrats and the carcasses were then added to the defences.
+
+Mage Childéric was weary of being besieged like this, and wanted to resume his journey as soon as possible. Mage Parcival, for his part, travelled in spirit to find a better place for SAPHIR; and he was on the trail of a promising island, which had become the refuge of persecuted half-Atlanteans.
+
+So the mages tracked down and brought to the keep a misunderstood and unlucky young genius, Foulques, who was able to train in necromancy and elemental magic, while continuing his physico-chemical inventions. The apprentice Foulques quickly designed the flaying machine and its outbuildings, many traps, started building a ballista, etc.
+
+
+The moment of the tragedy
+-------------------------------
+
+As his departure approached, Mage Childéric began inspecting everything that his apprentice had set up.
+Alas, while visiting the flaying machine, he accidentally caught the sleeve of his tunic in a cogwheel, and was dragged into the machine.
+Panicking, FOULQUES claimed that the mage had left on a whim.
+But EULALIE recovered these "sturdy and magic-aura-endowed" bones from the ossuary, to replace one of the carcasses.
+FOULQUES therefore played along, but cast an amnesia spell and limited the animation time of the carcasses, so as not to be unmasked.
+
+SAPHIR then left with some abominations on an initiatory bivouac around the lake.
+It was FOULQUES's turn to cook dinner, and by mistake he left a piece of pufferfish in the dish.
+Mage Parcival was very ill that evening because of it, and was hallucinating, to the point of losing his apothecary's knowledge.
+FOULQUES gave him sedatives, thinking it was a mere bout of indigestion, but his patient died.
+Panicking, FOULQUES put the mage's body in the flaying machine, and claimed that he had set off on a great mediumistic journey (so it was FOULQUES who periodically refilled the incense in the cottage).
+But there too, EULALIE recovered these "sturdy and far-sight-gifted" bones from the ossuary, to replace another carcass.
+SAPHIR came back from her bivouac at that very moment.
+
+FOULQUES looked for a way out, even buying explosives and other equipment with a staging in mind... and that is when the story of the game began.
+
