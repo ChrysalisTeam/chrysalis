@@ -75,7 +75,7 @@ The data of the "Chrysalis:Auction" alternate reality game (loaded by the Pychro
 Chrysalis:Descent
 ---------------------
 
-Its documents are built from the "rpg_descent/scenario_fixtures/" project folder (the Pychronia portal only loads its "descent_rpg_data_<lang>.yaml" file as game data). Run::
+Its documents are built from the "rpg_descent/scenario_fixtures/" project folder; its "storygen_hooks.py" validates the "descent_rpg_data_<lang>.yaml" data file (which the Pychronia portal doesn't use). Run::
 
 	pychronia_storygen rpg_descent/scenario_fixtures --variable lang=en
 

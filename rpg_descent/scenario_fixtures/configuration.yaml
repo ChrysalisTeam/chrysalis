@@ -1,8 +1,11 @@
 # Descent RPG: one PDF per player + the master script, for both languages (use --variable lang=fr|en)
-# (Pychronia only loads descent_rpg_data_{lang}.yaml from this folder, so this file is not merged into game data)
+# (Pychronia doesn't load anything from this folder, the Descent data is only used by this build)
 
 "data_files":
   - "file": "descent_rpg_data_{lang}.yaml"  # provides the "descent_rpg" variable
+
+# Validates the "descent_rpg" variable before any sheet is rendered
+"variables_hook": "storygen_hooks.check_variables"
 
 "settings":
   "rst2pdf_conf_file": "../../common_assets/rst2pdf.conf"
