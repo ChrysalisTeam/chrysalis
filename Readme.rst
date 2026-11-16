@@ -20,6 +20,20 @@ Chrysalis texts were written in French; English translations are available for a
 Each game has its own root folder ("alternate_reality_game_auction/", "mysteryparty_archives/", "mysteryparty_cromlech/", "mysteryparty_mindstorm/", "rpg_descent/", "rpg_sentience/", "rpg_skeletons/"), which contains its media files, and its scenario sources in a "scenario_fixtures/" subfolder. "mysteryparty_common/" gathers the sources shared by mystery parties, and "common_assets/" the assets and tools shared by several games (PDF theme, fonts, translation glossary...).
 
 
+Quick build of all documents
+==============================
+
+Once the requirements are installed (see `Common setup`_ below), the "make.py" script of the root folder builds, or cleans, the PDF documents of all games, in all languages, by invoking storygen (see `Generation of PDF scenario files and other documents`_) on their "scenario_fixtures/" folders::
+
+	python make.py build                    # Builds all games, in French and English
+	python make.py build rpg_descent        # Builds one game (its game folder, or its "scenario_fixtures/" subfolder)
+	python make.py build mysteryparty_mindstorm --lang en --skip-document-splitting
+	python make.py clean                    # Removes the generated files of all games
+	python make.py clean mysteryparty_archives --dry-run
+
+The optional game folder must come right after the command. ``--lang fr|en`` (can be repeated) restricts the languages processed. Other options are passed as-is to the ``pychronia_storygen build`` or ``pychronia_storygen clean`` command (e.g. ``--no-pdf``, ``--skip-document-splitting``, ``--variable decorations=false``, ``--only <pattern>``, ``--dry-run``), see `Generation of PDF scenario files and other documents`_. All builds are run even if some fail (e.g. on scenario coherence errors), the failed ones are listed at the end, and the script then exits with a non-zero status.
+
+
 
 Generation of PDF scenario files and other documents
 =======================================================
