@@ -226,7 +226,7 @@ game_items:
         image: images/objects/three_eyes_skull.png
         is_gem: false
         num_items: 1
-        title: "Three-eyed Bust"
+        title: "Three-Eyed Bust"
         total_price: 450
 
     rounded_grating:

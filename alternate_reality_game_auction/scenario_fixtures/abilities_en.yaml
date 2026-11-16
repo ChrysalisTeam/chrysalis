@@ -31,72 +31,72 @@ abilities:
 
                 "08h-10h":
                     surveillance_analysis: |
-                        Usual waking-up and breakfast routine of Loyd Georges and his servants. A delivery man brings food bags to the pantry, around 9:15. At 9:30, Loyd Georges receives a landline phone call, then goes to the back door of the manor. He comes back 5 minutes later with a parcel under his arm. The surveillance cameras are paused for 10 minutes from the terminal. When they automatically reactivate, Loyd Georges is putting the thick book named *Venture Prins* back in the library. Then he goes to work in his study.
+                        Usual waking-up and breakfast routine of Loyd Georges and his servants. A delivery man brings food bags to the pantry, around 9:15 am. At 9:30 am, Loyd Georges receives a landline phone call, then goes to the back door of the manor. He comes back 5 minutes later with a parcel under his arm. The surveillance cameras are paused for 10 minutes from the terminal. When they automatically reactivate, Loyd Georges is putting the thick book named *Venture Prins* back in the library. Then he goes to work in his study.
                     gamemaster_hints:
                         The parcel contains the Panorbium Fortuna sent by Emilos Loakim from Keroskia.
 
                 "10h-12h":
                     surveillance_analysis: |
-                        Inspector Shark arrives at 10:00, and holds a 15-minute meeting with Rydji and Alphonse, in the dining room. He then talks with Loyd Georges in the study. At 10:45, {{character_properties.opal.official_name}} comes down to the lounge and talks with Rydji. The cook arrives at 10:55, then gets busy in the kitchen.
+                        Inspector Shark arrives at 10 am, and holds a 15-minute meeting with Rydji and Alphonse, in the dining room. He then talks with Loyd Georges in the study. At 10:45 am, {{character_properties.opal.official_name}} comes down to the lounge and talks with Rydji. The cook arrives at 10:55 am, then gets busy in the kitchen.
 
                         Shortly afterwards, {{character_properties.opal.official_name}} settles down for a long while at the computer station of the library, whose door he closes.
 
-                        At 11:00, {{character_properties.amethyst.official_name}} arrives at the manor, and goes to talk with Loyd Georges, while Inspector Shark stays in the gentleman's bedroom. This guest offers a bottle to his host, and is shown out by Rydji around 11:45. Loyd Georges then joins Inspector Shark in the bedroom. The cook comes by to pick up the bottle at 11:55.
+                        At 11 am, {{character_properties.amethyst.official_name}} arrives at the manor, and goes to talk with Loyd Georges, while Inspector Shark stays in the gentleman's bedroom. This guest offers a bottle to his host, and is shown out by Rydji around 11:45 am. Loyd Georges then joins Inspector Shark in the bedroom. The cook comes by to pick up the bottle at 11:55 am.
                     gamemaster_hints: |
                         The bottle is a digestive liqueur, sealed, and not consumed immediately.
 
                 "12h-14h":
                     surveillance_analysis: |
-                        At 12:05, meeting of Loyd Georges with {{character_properties.malachite.official_name}}, who offers some delicacies. Inspector Shark stays in the bedroom.
+                        At 12:05 pm, meeting of Loyd Georges with {{character_properties.malachite.official_name}}, who offers some delicacies. Inspector Shark stays in the bedroom.
 
-                        From 12:10, no more recording available, cameras deactivated from the terminal.
+                        From 12:10 pm, no more recording available, cameras deactivated from the terminal.
                     gamemaster_hints: |
                         The delicacies: they are tropical nuts, {{character_properties.malachite.official_name}} eats some too.
 
                         It is {{character_properties.amethyst.official_name}} who retraced his steps well before, to deactivate the cameras, and went off to explore the collection on the 1st floor.
 
-                        Rydji leaves for town at 12:15, after informing Alphonse.
+                        Rydji leaves for town at 12:15 pm, after informing Alphonse.
 
-                        Alphonse walks {{character_properties.malachite.official_name}} back to the door of the manor (not of the grounds) at 12:30.
+                        Alphonse walks {{character_properties.malachite.official_name}} back to the door of the manor (not of the grounds) at 12:30 pm.
 
-                        At 12:45, {{character_properties.amethyst.official_name}} and {{character_properties.malachite.official_name}}, who are searching the building, unintentionally run into each other in the pantry, and flee the manor.
+                        At 12:45 pm, {{character_properties.amethyst.official_name}} and {{character_properties.malachite.official_name}}, who are searching the building, unintentionally run into each other in the pantry, and flee the manor.
 
-                        From 13:15, lunch of Loyd Georges with Inspector Shark and {{character_properties.opal.official_name}}: aperitif of tropical nuts and liqueur, then a meal of cod gratin with chanterelles. The service is done by Alphonse.
+                        From 1:15 pm, lunch of Loyd Georges with Inspector Shark and {{character_properties.opal.official_name}}: aperitif of tropical nuts and liqueur, then a meal of cod gratin with chanterelles. The service is done by Alphonse.
 
                 "14h-16h":
                     surveillance_analysis: |
-                        The cameras are reactivated from the terminal at 14:20.
+                        The cameras are reactivated from the terminal at 2:20 pm.
 
-                        The cook finishes eating with Alphonse at 14:30, then puts on gardener's clothes and goes out through the back door.
+                        The cook finishes eating with Alphonse at 2:30 pm, then puts on gardener's clothes and goes out through the back door.
 
-                        At 14:45, {{character_properties.opal.official_name}} puts on his coat and leaves the manor.
+                        At 2:45 pm, {{character_properties.opal.official_name}} puts on his coat and leaves the manor.
 
-                        At 15:00, meeting of Loyd Georges with {{character_properties.peridot.official_name}} and {{character_properties.topaz.official_name}}. Inspector Shark stays in the bedroom. The two guests are shown out by Rydji at 15:55.
+                        At 3 pm, meeting of Loyd Georges with {{character_properties.peridot.official_name}} and {{character_properties.topaz.official_name}}. Inspector Shark stays in the bedroom. The two guests are shown out by Rydji at 3:55 pm.
 
                         Loyd Georges chats a little with Inspector Shark, then goes to doze off in an armchair of the library.
 
                     gamemaster_hints: |
                         It is Rydji, back from town, who reactivates the cameras.
 
-                        Bedou was fed by the cook with the leftovers, around 14:00.
+                        Bedou was fed by the cook with the leftovers, around 2 pm.
 
                         {{character_properties.peridot.official_name}} and {{character_properties.topaz.official_name}} introduce themselves as two friends.
 
                 "16h-18h":
                     surveillance_analysis: |
-                        {{character_properties.spinel.official_name}} arrives at the manor at 16:00, and waits in the dining room.
+                        {{character_properties.spinel.official_name}} arrives at the manor at 4 pm, and waits in the dining room.
 
-                        At 16:05, Inspector Shark goes to the kitchen, and talks there with the cook who has just gone back to his stoves. At one point, he pulls a pouch out of his jacket, and steps out of the camera's field of view. Then he goes back up to Loyd Georges' bedroom.
+                        At 4:05 pm, Inspector Shark goes to the kitchen, and talks there with the cook who has just gone back to his stoves. At one point, he pulls a pouch out of his jacket, and steps out of the camera's field of view. Then he goes back up to Loyd Georges' bedroom.
 
-                        At 16:20, Loyd Georges wakes from the nap he was taking in a library armchair, and receives his guest in the study.
+                        At 4:20 pm, Loyd Georges wakes from the nap he was taking in a library armchair, and receives his guest in the study.
 
-                        At 16:30, {{character_properties.garnet.official_name}} arrives at the manor, and waits in the library.
+                        At 4:30 pm, {{character_properties.garnet.official_name}} arrives at the manor, and waits in the library.
 
                         A scene takes place, and {{character_properties.spinel.official_name}} hastily leaves the manor, shown out by Rydji.
 
-                        Loyd Georges then receives {{character_properties.garnet.official_name}} in the study, at 16:35.
+                        Loyd Georges then receives {{character_properties.garnet.official_name}} in the study, at 4:35 pm.
 
-                        Shortly before 18:00, Alphonse brings him a glass filled with liquid.
+                        Shortly before 6 pm, Alphonse brings him a glass filled with liquid.
 
                     gamemaster_hints: |
                         Inspector Shark went to replace the bay leaves with oleander at that moment, in the kitchen. He pretended to question the cook about the attempted burglaries of the manor.
@@ -104,17 +104,17 @@ abilities:
                 "18h-20h":
                     surveillance_analysis: |
 
-                        At 18:10, Loyd Georges ends the meeting with {{character_properties.garnet.official_name}}, and goes off to his bedroom.
+                        At 6:10 pm, Loyd Georges ends the meeting with {{character_properties.garnet.official_name}}, and goes off to his bedroom.
 
                         Rydji shows {{character_properties.garnet.official_name}} out, and in the great hall calls out to Alphonse, who was putting on his coat. {{character_properties.garnet.official_name}} searches his pockets, then heads back towards the small hall.
 
                         A few minutes later, Alphonse leaves the manor, then Rydji goes to fetch {{character_properties.garnet.official_name}} to escort him off the premises.
 
-                        At 18:30, the inspector comes out of Loyd Georges' bedroom and leaves the manor.
+                        At 6:30 pm, the inspector comes out of Loyd Georges' bedroom and leaves the manor.
 
-                        At 19:00, the cook leaves in turn, after feeding Bedou.
+                        At 7 pm, the cook leaves in turn, after feeding Bedou.
 
-                        At 19:30, Loyd Georges dines with Rydji, the two of them eating different dishes. Loyd Georges does not seem to enjoy his dish.
+                        At 7:30 pm, Loyd Georges dines with Rydji, the two of them eating different dishes. Loyd Georges does not seem to enjoy his dish.
 
                     gamemaster_hints: |
                         {{character_properties.garnet.official_name}} took advantage of a moment alone to program the deactivation of the manor's security, for late in the evening.
@@ -126,31 +126,31 @@ abilities:
 
                 "20h-22h":
                     surveillance_analysis:
-                        From 20:00, Loyd Georges has tea on a sofa of the dining room, with Rydji.
+                        From 8 pm, Loyd Georges has tea on a sofa of the dining room, with Rydji.
 
-                        He goes up to his bedroom with difficulty around 21:00.
+                        He goes up to his bedroom with difficulty around 9 pm.
 
-                        At 21:30, {{character_properties.opal.official_name}} returns to the manor, talks with Rydji, then goes off to his bedroom.
+                        At 9:30 pm, {{character_properties.opal.official_name}} returns to the manor, talks with Rydji, then goes off to his bedroom.
 
                     gamemaster_hints: null
 
                 "22h-24h":
                     surveillance_analysis: |
-                        At 22:05, the library camera is blinded by a strong light.
+                        At 10:05 pm, the library camera is blinded by a strong light.
 
-                        At 22:10, the study door opens slightly, and it is this camera's turn to be put out of action by blinding.
+                        At 10:10 pm, the study door opens slightly, and it is this camera's turn to be put out of action by blinding.
 
-                        At 22:20, Alphonse comes back into the great hall, dishevelled, and goes to his room.
+                        At 10:20 pm, Alphonse comes back into the great hall, dishevelled, and goes to his room.
 
-                        At 22:29, the cameras of the study and then of the library regain their sight.
+                        At 10:29 pm, the cameras of the study and then of the library regain their sight.
 
-                        At 22:30, the lights of the whole manor come on. Rydji crosses the great hall in pyjamas. Alphonse does the same shortly after. They go to Loyd Georges' bedroom.
+                        At 10:30 pm, the lights of the whole manor come on. Rydji crosses the great hall in pyjamas. Alphonse does the same shortly after. They go to Loyd Georges' bedroom.
 
-                        At 23:00, paramedics arrive at the manor, and leave with Loyd Georges on a stretcher, under the eyes of the two servants. Rydji goes to the bedroom of {{character_properties.opal.official_name}}, and comes out a few minutes later.
+                        At 11 pm, paramedics arrive at the manor, and leave with Loyd Georges on a stretcher, under the eyes of the two servants. Rydji goes to the bedroom of {{character_properties.opal.official_name}}, and comes out a few minutes later.
 
-                        At 23:30, Inspector Shark turns up with police officers, who spread out through the manor.
+                        At 11:30 pm, Inspector Shark turns up with police officers, who spread out through the manor.
 
-                        At 23:50, the surveillance system shuts down, following the removal of its recording reels.
+                        At 11:50 pm, the surveillance system shuts down, following the removal of its recording reels.
 
 
                     gamemaster_hints: |
