@@ -1438,14 +1438,14 @@ gamemaster_manual:
 
         Exemple d'intégration d'un fichier vidéo externe ::
 
-            .. embed_video:: https://hi.com/ab.flv
+            .. embed_video:: https://hi.com/ab.mp4
                 :width: 219px
                 :height: 121px
                 :image: https://hi.com/ab.jpg
 
         S'il s'agit d'un fichier interne au jeu, la première ligne devient ::
 
-            .. embed_video:: [ GAME_FILE_URL "video/my_video_name.flv" ]
+            .. embed_video:: [ GAME_FILE_URL "video/my_video_name.mp4" ]
 
 
         .. raw:: pdf
