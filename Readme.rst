@@ -101,6 +101,8 @@ They are meant to be used along the assets of the "rpg_descent/" folder.
 Chrysalis:Mindstorm
 ---------------------
 
+This mystery party exists in two versions: "ante-auction" (the default), a standalone game set before the events of "Chrysalis:Auction", with predefined character backgrounds; and "post-auction", an epilogue to an Auction game, to be customized according to its outcome (see ``game_type`` below).
+
 Run::
 
 	pychronia_storygen mysteryparty_mindstorm/scenario_fixtures --variable lang=en
