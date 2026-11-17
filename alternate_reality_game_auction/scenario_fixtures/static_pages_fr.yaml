@@ -23,9 +23,7 @@ static_pages:
 
             .. note::
 
-                Certains médias de ce site (vidéos, webradios, télévisualisation 3D...) nécessitent FlashPlayer.
-
-                Si vous rencontrez des problèmes inattendus pour les lire, essayez de désactiver AdBlock ou autres extensions similaires de votre navigateur web.
+                Si vous rencontrez des problèmes inattendus pour lire les médias de ce site (vidéos, webradios, télévisualisation 3D...), essayez de désactiver AdBlock ou autres extensions similaires de votre navigateur web.
 
 
 
@@ -212,7 +210,7 @@ static_pages:
     top-personal_webradio_page:
         categories: "content"
         content: |
-            Musiques, informations, reportages, messages personnels... profitez d'un programme original et varié avec votre webradio préférée (nécessite FlashPlayer, sinon cliquer sur les spots radio séparés en bas de page).
+            Musiques, informations, reportages, messages personnels... profitez d'un programme original et varié avec votre webradio préférée (vous pouvez aussi écouter les spots radio séparés en bas de page).
 
     help-personal_webradio_page:
         categories: "content"

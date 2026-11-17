@@ -23,9 +23,7 @@ static_pages:
 
             .. note::
 
-                Some media on this site (videos, webradios, 3D televisualisation...) require FlashPlayer.
-
-                If you run into unexpected problems playing them, try disabling AdBlock or other similar extensions of your web browser.
+                If you run into unexpected problems playing the media of this site (videos, webradios, 3D televisualisation...), try disabling AdBlock or other similar extensions of your web browser.
 
 
 
@@ -212,7 +210,7 @@ static_pages:
     top-personal_webradio_page:
         categories: "content"
         content: |
-            Music, news, reports, personal messages... enjoy an original and varied programme with your favourite webradio (requires FlashPlayer, otherwise click on the separate radio spots at the bottom of the page).
+            Music, news, reports, personal messages... enjoy an original and varied programme with your favourite webradio (you can also listen to the separate radio spots at the bottom of the page).
 
     help-personal_webradio_page:
         categories: "content"
