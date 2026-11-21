@@ -329,6 +329,18 @@ abilities:
                         que les Yods | purifient ces biens #
                         abrègent notre pénitence | et nous accordent la victoire finale
 
+                stone_lantern:
+                    decoding: >
+                        ka su | shi ko te
+                    translation: >
+                        Lumière | des fidèles
+
+                rounded_grating:
+                    decoding: >
+                        se ki to | ku ta
+                    translation: >
+                        Filtre | de l'Orthodoxie
+
 
             middlewares:
                 translation_form:

@@ -329,6 +329,18 @@ abilities:
                         may the yods | purify these goods #
                         shorten our penance | and give us final victory
 
+                stone_lantern:
+                    decoding: >
+                        ka su | shi ko te
+                    translation: >
+                        Light | of the Faithful
+
+                rounded_grating:
+                    decoding: >
+                        se ki to | ku ta
+                    translation: >
+                        Filter | of Orthodoxy
+
 
             middlewares:
                 translation_form:
