@@ -40,7 +40,7 @@ En ce qui concerne le jour des entretiens (la veille du jour actuel) :
 - les poubelles ont été vidées par les services municipaux le lendemain matin, très tôt.
 
 
-Loyd Georges prenait quotidiennement de la Digoxine au coucher, pour ses problèmes de rythme cardiaque. Le mémo d'instructions laissé au mur pour Robb Barrow le mentionne correctement, mais c'est de toute façon le majordome qui a effectué le dosage, comme à son habitude.
+Loyd Georges prenait quotidiennement de la Digoxine à {% symbol "18h" for "afternoon_lg_medecine_time" %} (et du Resorpa au coucher), pour ses problèmes de rythme cardiaque. Le mémo d'instructions laissé au mur pour Robb Barrow le mentionne correctement, mais c'est de toute façon le majordome qui a effectué le dosage, comme à son habitude.
 
 LG était-il allergique à quelque chose ? Oui, à la poussière et aux foins, mais pas d'allergie alimentaire connue (ainsi les arachides apportées sont hors de cause).
 
