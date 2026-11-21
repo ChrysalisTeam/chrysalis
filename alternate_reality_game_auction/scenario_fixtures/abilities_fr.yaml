@@ -104,7 +104,7 @@ abilities:
                 "18h-20h":
                     surveillance_analysis: |
 
-                        A 16h10, Loyd Georges cesse l'entretien avec {{character_properties.garnet.official_name}}, et s'en va dans sa chambre.
+                        A 18h10, Loyd Georges cesse l'entretien avec {{character_properties.garnet.official_name}}, et s'en va dans sa chambre.
 
                         Rydji raccompagne {{character_properties.garnet.official_name}}, et apostrophe dans le grand hall Alphonse, qui était en train de mettre son manteau. {{character_properties.garnet.official_name}} fouille ses poches, puis repart vers le petit hall.
 
