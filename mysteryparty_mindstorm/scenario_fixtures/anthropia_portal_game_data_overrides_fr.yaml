@@ -450,6 +450,7 @@ character_properties:
         real_life_email: ""
 
     cynthia:
+        is_npc: false  # player in Mindstorm, NPC in the Auction
         permissions: ["access_house_reports", "access_geoip_location"]
         account: 150
         extra_goods: "Monnaie certifiée : 20 Livres Sabarites"
@@ -457,6 +458,7 @@ character_properties:
         real_life_email: ""
 
     waden:
+        is_npc: false  # player in Mindstorm, NPC in the Auction
         permissions: ["access_runic_translation", "access_matter_analysis"]
         account: 150
         extra_goods: "Monnaie certifiée : 30 Livres Sabarites"

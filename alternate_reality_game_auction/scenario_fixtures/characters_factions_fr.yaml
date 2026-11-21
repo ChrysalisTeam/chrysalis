@@ -209,7 +209,7 @@ character_properties:
         official_name: "Cynthia Loakim"
         official_role: "Jeune journaliste à l'international, originaire de Sabarim"
         gamemaster_hints: "Fille du Pr Loakim, et fiancée au physicien Waden Show."
-        is_npc: false
+        is_npc: true
         secret_question: "Là où l'on s'est embrassé pour la première fois."
         secret_answer: "Salimuron" # normally impossible to find
 
@@ -224,7 +224,7 @@ character_properties:
         official_name: "Waden Shaw"
         official_role: "Jeune chercheur sabarite en physique quantique"
         gamemaster_hints: "Fiancé à la reporter Cynthia Loakim, et donc futur gendre du Pr Loakim."
-        is_npc: false
+        is_npc: true
         secret_question: null # IMPORTANT
         secret_answer: null
 
