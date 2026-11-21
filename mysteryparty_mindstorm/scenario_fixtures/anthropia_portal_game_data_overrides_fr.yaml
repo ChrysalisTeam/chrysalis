@@ -77,9 +77,9 @@ abilities:
 
                 antic_chest:  # SUPPOSEDLY UNUSED IN MURDER PARTY
                     translation: >
-                        spoils of war | skirmish of | the black meadows #
-                        may the yods | purify these goods #
-                        shortent our penance | and give us final victory
+                        butin de guerre | de l'escarmouche des | Prairies Noires #
+                        que les Yods | purifient ces biens #
+                        abrègent notre pénitence | et nous accordent la victoire finale
 
 
             middlewares:
