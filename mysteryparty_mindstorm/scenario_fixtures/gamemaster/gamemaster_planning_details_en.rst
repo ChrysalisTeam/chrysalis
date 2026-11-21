@@ -140,7 +140,7 @@ HOUR 0:15
 - LG's servants each provide their knowledge to the guests, when questioned:
 
   - events of the past two days
-  - LG's condition when they found him on the floor in his study (no visible signs of a struggle, or blood on the body)
+  - LG's condition when they found him on the floor in his bedroom (no visible signs of a struggle, or blood on the body)
 
 - medical report 1: LG in a desperate situation, under full cardiac and respiratory assistance; bruises noted
 

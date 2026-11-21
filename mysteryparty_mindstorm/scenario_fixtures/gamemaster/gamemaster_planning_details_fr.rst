@@ -140,7 +140,7 @@ HEURE 0:15
 - les serviteurs de LG fournissent chacun leurs connaissances aux invités, quand on les interroge :
 
   - événements des deux jours écoulés
-  - état de LG lorsqu'ils l'ont trouvé à terre dans son bureau (pas de traces visibles de lutte, ou de sang sur le corps)
+  - état de LG lorsqu'ils l'ont trouvé à terre dans sa chambre (pas de traces visibles de lutte, ou de sang sur le corps)
 
 - rapport médical 1 : LG en situation désespérée, sous assistance cardiaque et respiratoire complète ; hématomes relevés
 
