@@ -56,7 +56,7 @@ Abilities, items and traps
 
 - Beware of lighting (LED garlands, diodes, candles) that may be lying on the floor; do not step on it.
 
-- **Traps** are always visually detectable, or else signalled by various clues such as the out-of-game markers. You will not be penalised for opening some random book, or uttering a harmless word. On the other hand, if you step onto a pentacle or recite incantations you have found without understanding them, beware.
+- **Traps** are always visually detectable, or else signalled by various clues such as the out-of-game markers. You will not be penalised for opening some random book, or uttering a harmless word. On the other hand, if you step into a pentacle during a ritual, or recite incantations you have found without understanding them, beware.
 
 
 Fictional, "in-game" injuries and deaths

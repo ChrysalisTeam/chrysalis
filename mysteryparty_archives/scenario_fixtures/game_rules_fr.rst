@@ -56,7 +56,7 @@ Compétences, objets et pièges
 
 - Attention aux éclairages (guirlandes de LEDs, diodes, bougies) qui peuvent se trouver au sol, ne pas marcher dessus.
 
-- Les **pièges** sont toujours repérables visuellement, ou alors annoncés par différents indices tels que les marqueurs hors-jeu. Vous ne serez pas pénalisé pour avoir ouvert un livre quelconque, ou prononcé un mot anodin. En revanche, si vous marchez sur un pentacle ou prononcez des incantations trouvées sans les comprendre, gare.
+- Les **pièges** sont toujours repérables visuellement, ou alors annoncés par différents indices tels que les marqueurs hors-jeu. Vous ne serez pas pénalisé pour avoir ouvert un livre quelconque, ou prononcé un mot anodin. En revanche, si vous entrez dans un pentacle pendant un rituel, ou prononcez des incantations trouvées sans les comprendre, gare.
 
 
 Blessures et morts fictifs, "en jeu"
