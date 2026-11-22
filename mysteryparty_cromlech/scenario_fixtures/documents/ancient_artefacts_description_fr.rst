@@ -17,9 +17,9 @@ Datation approximative : 50 av. J.-C.
 Grimoire
 ------------------
 
-Un artefact assez unique ; c'est un faux livre, creusé dans du bois.
+Un artefact assez unique ; c'est un faux livre, sculpté dans un bloc de bois, qui ne s'ouvre pas.
 
-Après étude par résonance, il ne contient pas de cavité cachée.
+Un examen minutieux n'y a révélé aucune cavité cachée.
 
 C'est un objet incroyable car les livres n'existaient pas à cette époque, on utilisait des rouleurs de papyrus à la place ; il ressemble donc à une "prophétie scientifique".
 

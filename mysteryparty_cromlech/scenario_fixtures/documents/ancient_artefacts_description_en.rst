@@ -17,9 +17,9 @@ Approximate dating: 50 BC.
 Grimoire
 ------------------
 
-A rather unique artefact; it is a fake book, hollowed out of wood.
+A rather unique artefact; it is a fake book, carved out of a block of wood, which does not open.
 
-Resonance testing shows that it contains no hidden cavity.
+A close examination has revealed no hidden cavity in it.
 
 It is an incredible object, since books did not exist at that time (papyrus scrolls were used instead); so it looks like a "scientific prophecy".
 
