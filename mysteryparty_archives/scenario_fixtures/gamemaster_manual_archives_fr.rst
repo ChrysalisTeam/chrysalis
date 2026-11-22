@@ -233,7 +233,7 @@ Tout débute lorsque des explorateurs héliossars (ceux présents dans le jeu), 
 Les explorateurs héliossars
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Ces 3 aventuriers-archéologues tentent de préserver leur pays, Héliossar, contre les nouvelles envies de conquête de leur puissant voisin, la Théocratie akarite. Ils ont appris que les akarites avaient mis la main sur une copie du légendaire {% symbol "Thanatologue" for "book_of_the_dead" %}, le Livre des Morts d’une civilisation disparue, et en avaient tiré un plan pour une invasion "inéluctable" d’Héliossar. Ils recherchent donc l'exemplaire que les Maupertuis, d’après la légende, possédaient, afin de comprendre et surtout parer ce plan de conquête.
+Ces 3 aventuriers-archéologues tentent de préserver leur pays, Héliossar, contre les nouvelles envies de conquête de leur puissant voisin, la Théocratie akarite. Ils ont appris que les akarites avaient mis la main sur une copie du légendaire {% symbol "Thanatologue" for "book_of_the_dead" %}, le Livre Yodique des Morts (un grimoire antique, hérité d’une civilisation disparue), et en avaient tiré un plan pour une invasion "inéluctable" d’Héliossar. Ils recherchent donc l'exemplaire que les Maupertuis, d’après la légende, possédaient, afin de comprendre et surtout parer ce plan de conquête.
 
 Leurs compétences sont orientées vers les sciences physiques et humaines.
 

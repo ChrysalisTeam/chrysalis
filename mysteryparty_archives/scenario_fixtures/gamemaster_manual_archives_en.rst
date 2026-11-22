@@ -233,7 +233,7 @@ It all begins when Heliossarian explorers (those present in the game), searching
 The Heliossarian explorers
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-These 3 adventurer-archaeologists are trying to protect their country, Heliossar, against the renewed appetite for conquest of their powerful neighbour, the Akarith Theocracy. They have learnt that the Akariths had got hold of a copy of the legendary {% symbol "Thanatologue" for "book_of_the_dead" %}, the Book of the Dead of a vanished civilisation, and had drawn from it a plan for an "inevitable" invasion of Heliossar. They are therefore searching for the copy that the Maupertuis, according to legend, possessed, in order to understand and above all thwart this plan of conquest.
+These 3 adventurer-archaeologists are trying to protect their country, Heliossar, against the renewed appetite for conquest of their powerful neighbour, the Akarith Theocracy. They have learnt that the Akariths had got hold of a copy of the legendary {% symbol "Thanatologue" for "book_of_the_dead" %}, the Yodic Book of the Dead (an ancient grimoire, inherited from a vanished civilisation), and had drawn from it a plan for an "inevitable" invasion of Heliossar. They are therefore searching for the copy that the Maupertuis, according to legend, possessed, in order to understand and above all thwart this plan of conquest.
 
 Their abilities are oriented towards the physical and human sciences.
 
