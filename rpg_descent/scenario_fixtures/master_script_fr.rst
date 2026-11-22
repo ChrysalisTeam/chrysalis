@@ -66,7 +66,7 @@ Péripéties envisageables, en complément de celles présentes dans la descript
 - un cadavre d'explorateur gît dans la caverne aquifère, et on peut trouver des indices supplémentaires ou des artefacts dessus
 - un animal étrange (raie-pieuvre-caméléon terrestre...) suit discrètement les aventuriers dès leur entrée, et une fois repéré peut être apprivoisé (ou combattu)
 - un des porteurs perd la raison à cause de l'ambiance mystique du Saint des Saints, et de toutes ces richesses (réussir à le calmer)
-- en l'absence de masque à gaz, un des porteurs fait un oedème à la gorge, en réaction allergique à des moisissures du Saint des Saints (nécessité de lui faire une trachéotomie ?)
+- en l'absence de masque de protection, un des porteurs fait un oedème à la gorge, en réaction allergique aux moisissures du Saint des Saints (nécessité de lui faire une trachéotomie ?)
 
 
 
@@ -162,7 +162,7 @@ Gameplays communs à tout le jeu
 
 - les joueurs doivent se repérer dans l'espace, pour deviner où les différents passages peuvent mener vis-à-vis de la géographie extérieure, et trouver des raccourcis.
 - ils doivent faire attention à leur positionnement dans la caverne, et leur ordre de marche, qui peuvent être déterminants en cas d'attaque impromptue.
-- ils doivent penser à adapter leur équipement (masque à gaz, dispositifs d'éclairage ou de vision nocturne...) avant d'avoir des problèmes.
+- ils doivent penser à adapter leur équipement (masque de protection bactério-chimique, dispositifs d'éclairage ou de vision nocturne...) avant d'avoir des problèmes.
 - le majordome doit tirer au mieux parti des allers-retours des porteurs ; mais il doit penser à prendre en compte les avis de sécurité du baroudeur, et les recommandations de l'archéologue (ex. certains artefacts doivent être gardés sur place pour résoudre des énigmes).
 - certains évènements et détails sont laissés à l'appréciation du MJ, avec des suggestions de probabilité si les dés doivent en décider.
 
@@ -282,8 +282,11 @@ Saint des Saints du Temple Yodique
 ----------------------------------------
 
 
-- **piège** : mettre le **masque de survie** en entrant dans le Saint des Saints (odeur de moisi et putréfaction), sinon risque d'infection pulmonaire après plusieurs jours, à cause de moisissures infectieuses
-- il faut un peu de temps pour que **l'oxygène revienne** (les flambeaux s'éteignent initialement)
+- **piège** : l'air du Saint des Saints, longtemps clos et obscur, est vicié (odeur de moisi et putréfaction) ; il faut mettre le **masque de protection bactério-chimique** en y entrant, à cause de deux dangers :
+
+  - les **gros lichens** des pierres tombales, privés de lumière, y ont accumulé un **gaz toxique** et pauvre en oxygène ; il faut un peu de temps pour que **l'oxygène revienne** (les flammes, flambeaux compris, s'éteignent initialement ; l'air redevient respirable 15mn après l'ouverture, ou plus tôt si des géodes lumineuses éclairent les lichens, qui cessent alors de produire du gaz) ; sans masque pendant ce temps : vertiges et nausées (agilité et observation -1, jusqu'à ce que le personnage aille respirer ailleurs)
+  - des **moisissures infectieuses** : sans masque, risque d'infection pulmonaire, qui ne se déclare qu'après plusieurs jours (ou, chez un sujet allergique, oedème immédiat de la gorge, cf. péripéties envisageables)
+
 - le Saint des Saints est plutôt sec, mais très froid, à 2-3°C, probablement à cause des nappes phréatiques alentours
 - éléments principaux de gauche à droite : **des pierres tombales dressées, une statue de guerrier, un empilement d'objets, un puits, une fresque murale, une petite pagode, une table basse**
 - **important : cadavre recroquevillé**, caché par la statue de guerrier
@@ -297,7 +300,7 @@ Saint des Saints du Temple Yodique
 - les joueurs doivent analyser ces pierreries pour voir si elles sont vraies, et lesquelles valent le coup d'être ramassées en priorité (les **gemmes violettes sont fausses**, sans valeur)
 
 - si fouille du sol devant les pierres tombales dressées : rien de spécial à déterrer, car dans cette religion les morts sont incinérés puis leurs cendres mises en pleine terre
-- de **gros lichens** couvrent les pierres tombales : ce sont eux qui génèrent les **gaz dangereux** ; sous les lichens, des traces de peintures, quasiment effacées (à tenter de restaurer, pour avoir les **dates de décès** postérieures à la chute de Nazur)
+- de **gros lichens** couvrent les pierres tombales : ce sont eux qui génèrent le **gaz toxique** (cf. piège ci-dessus) ; sous les lichens, des traces de peintures, quasiment effacées (à tenter de restaurer, pour avoir les **dates de décès** postérieures à la chute de Nazur)
 - les pierres tombales peuvent être arrachées et ramenées, pour être vendues
 - la statue du guerrier comporte un nom ("Bartzar"), et des **runes sacrées**, qui ne seront donc déchiffrables que par l'Académie d'Alifir
 -  le **cadavre** (derrière la statue de guerrier) est naturellement momifié ; il porte une toge couleur terre (très répandue dans ce pays) ; si fouillé, autour de son cou il a une **fiole en or** (contient un peu d'Élixir Berserk) et une **clef en laiton**

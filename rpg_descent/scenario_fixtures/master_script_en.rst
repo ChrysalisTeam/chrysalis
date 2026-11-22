@@ -66,7 +66,7 @@ Possible complications, in addition to those present in the description of each 
 - an explorer's corpse lies in the aquifer cavern, and additional clues or artefacts can be found on it
 - a strange animal (land ray-octopus-chameleon...) discreetly follows the adventurers from the moment they enter, and once spotted can be tamed (or fought)
 - one of the porters loses his mind because of the mystical atmosphere of the Holy of Holies, and all these riches (manage to calm him down)
-- in the absence of a gas mask, one of the porters develops a throat oedema, as an allergic reaction to mould in the Holy of Holies (need to perform a tracheotomy on him?)
+- in the absence of a protective mask, one of the porters develops a throat oedema, as an allergic reaction to the mould of the Holy of Holies (need to perform a tracheotomy on him?)
 
 
 
@@ -162,7 +162,7 @@ Gameplay Common to the Whole Game
 
 - the players must orient themselves in space, to guess where the various passages may lead in relation to the outside geography, and find shortcuts.
 - they must pay attention to their positioning in the cavern, and their marching order, which can be decisive in the event of a sudden attack.
-- they must remember to adapt their equipment (gas mask, lighting or night-vision devices...) before running into trouble.
+- they must remember to adapt their equipment (bio-chemical protective mask, lighting or night-vision devices...) before running into trouble.
 - the butler must make the best use of the porters' round trips; but he must remember to take into account the ranger's safety advice, and the archaeologist's recommendations (e.g. some artefacts must be kept on site to solve puzzles).
 - some events and details are left to the GM's discretion, with suggested probabilities if the dice are to decide.
 
@@ -282,8 +282,11 @@ Holy of Holies of the Yodic Temple
 ----------------------------------------
 
 
-- **trap**: put on the **survival mask** when entering the Holy of Holies (smell of mould and putrefaction), otherwise risk of lung infection after several days, due to infectious mould
-- it takes a little time for the **oxygen to return** (the torches go out at first)
+- **trap**: the air of the Holy of Holies, long closed and dark, is foul (smell of mould and putrefaction); the **bio-chemical protective mask** must be put on when entering, because of two dangers:
+
+  - the **large lichens** of the gravestones, deprived of light, have filled it with a **toxic gas** poor in oxygen; it takes a little time for the **oxygen to return** (flames, torches included, go out at first; the air becomes breathable 15 min after the opening, or sooner if glow-geodes light up the lichens, which then stop producing gas); without a mask during that time: dizziness and nausea (Agility and Observation -1, until the character goes to breathe elsewhere)
+  - **infectious mould**: without a mask, risk of a lung infection, which only breaks out after several days (or, in an allergic subject, an immediate throat oedema, see the possible complications)
+
 - the Holy of Holies is rather dry, but very cold, at 2-3°C, probably because of the surrounding water table
 - main elements from left to right: **standing gravestones, a warrior statue, a heap of objects, a well, a wall fresco, a small pagoda, a low table**
 - **important: a curled-up corpse**, hidden by the warrior statue
@@ -297,7 +300,7 @@ Holy of Holies of the Yodic Temple
 - the players must analyse these precious stones to see whether they are real, and which ones are worth picking up first (the **purple gems are fake**, worthless)
 
 - if the ground in front of the standing gravestones is searched: nothing special to dig up, because in this religion the dead are cremated and then their ashes are placed directly in the earth
-- **large lichens** cover the gravestones: they are what generates the **toxic gas**; under the lichens, traces of paint, almost erased (to attempt to restore, to get the **dates of death** later than the fall of Nazur)
+- **large lichens** cover the gravestones: they are what generates the **toxic gas** (see the trap above); under the lichens, traces of paint, almost erased (to attempt to restore, to get the **dates of death** later than the fall of Nazur)
 - the gravestones can be torn out and brought back, to be sold
 - the warrior statue bears a name ("Bartzar"), and **sacred runes**, which will therefore only be decipherable by the Alifir Academy
 -  the **corpse** (behind the warrior statue) is naturally mummified; it wears an earth-coloured toga (very widespread in this country); if searched, around its neck it has a **gold vial** (containing a little Berserk Elixir) and a **brass key**
