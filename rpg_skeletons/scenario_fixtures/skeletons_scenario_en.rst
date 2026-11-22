@@ -542,6 +542,6 @@ Timeline
 - Three days before Day 1: SAPHIR leaves on her bivouac with GAUBERT and HERBERT; that very evening, Magus Parcival dies, and his so-called "mediumistic journey" begins.
 - The following days: EULALIE recovers his bones, which replace Karnine (OMEGA).
 - Day 1, Day 2, then Day 3 morning: see "The events".
-- The night before Day 3: SAPHIR comes back with GAUBERT and HERBERT, passing by the garrison, where the carcasses lie "asleep" since their defeat of Day 2.
+- The night before Day 3: SAPHIR comes back with GAUBERT and HERBERT, passing by the garrison, where the carcasses have been lying "asleep" since their defeat of Day 2.
 - Day 3 afternoon: the "mediumistic journey" has been going on for nearly 5 days.
 
