@@ -806,7 +806,7 @@ static_pages:
 
             If the values of some fields do not suit them, the GM can get in touch with the game designers to see whether these values could be modified manually, "on the fly", without risking destabilising the game engine.
 
-            A section that could be very useful to the GM is the one identified by the word "abilities": it contains the settings of the various special abilities, and in particular the clues that will be automatically disclosed during the deciphering of a rune (biophysical analyses and world scans, for their part, are not configured yet: the GM answers them manually, see the GM manual).
+            A section that could be very useful to the GM is the one identified by the word "abilities": it contains the settings of the various special abilities, and in particular the clues that will be automatically disclosed during the deciphering of a rune (biophysical analyses are not configured yet, and world scans only for the amphora and the runic casket: the GM answers the others manually, see the GM manual).
 
 
 

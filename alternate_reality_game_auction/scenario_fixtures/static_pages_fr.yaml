@@ -806,7 +806,7 @@ static_pages:
 
             Si les valeurs de certains champs ne lui conviennent pas, le MJ peut rentrer en contact avec les concepteurs du jeu pour voir s'il est envisageable de modifier "à chaud", manuellement, ces valeurs, sans pour autant risquer de déstabiliser le moteur de jeu.
 
-            Une section qui pourrait être bien utile au MJ est celle identifiée par le mot "abilities" : elle contient les paramétrages des différentes compétences spéciales, et en particulier les indices qui seront automatiquement divulgués lors du déchiffrage d'une rune (les analyses biophysiques et les scans mondiaux, eux, ne sont pas encore paramétrés : le MJ y répond manuellement, voir le manuel du MJ).
+            Une section qui pourrait être bien utile au MJ est celle identifiée par le mot "abilities" : elle contient les paramétrages des différentes compétences spéciales, et en particulier les indices qui seront automatiquement divulgués lors du déchiffrage d'une rune (les analyses biophysiques ne sont pas encore paramétrées, et les scans mondiaux seulement pour l'amphore et le coffret runique : le MJ répond aux autres manuellement, voir le manuel du MJ).
 
 
 

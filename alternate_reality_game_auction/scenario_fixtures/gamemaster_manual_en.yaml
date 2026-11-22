@@ -652,7 +652,7 @@ gamemaster_manual:
 
         On the other hand, because of their very particular nature, the orbs cannot be analysed this way (otherwise, finding one would amount to finding them all).
 
-        Likewise, the automatic scanning sets are not configured yet: the GM writes each result themselves, with the help of the email templates provided for the amphora and for the runic casket ("world_scan_amphora", "world_scan_runic_chest"). Expected results for the other key requests:
+        Likewise, the world scan only answers automatically for the amphora and the runic casket (with the texts of the "world_scan_amphora" and "world_scan_runic_chest" email templates): the GM writes every other result themselves. Expected results for the other key requests:
 
         - LG's auctioned items: the area of the Bank of Salima which holds his treasure (see `Burglary of the Bank of Salima`_);
         - an item very typical of Akarith religion: a "resonance point" in the salt sea of Blassow (quest for the Beta Orb);

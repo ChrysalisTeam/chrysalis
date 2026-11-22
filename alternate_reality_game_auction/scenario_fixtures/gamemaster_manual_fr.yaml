@@ -652,7 +652,7 @@ gamemaster_manual:
 
         Par contre, à cause de leur nature très particulière, les orbes ne sont pas analysables de cette façon (sans cela, en trouver un reviendrait à les trouver tous).
 
-        De même, les jeux de scan automatiques ne sont pas encore paramétrés : le MJ rédige lui-même chaque résultat, en s'aidant des modèles d'emails prévus pour l'amphore et pour le coffret runique ("world_scan_amphora", "world_scan_runic_chest"). Résultats attendus pour les autres demandes clefs :
+        De même, le scan mondial ne répond automatiquement que pour l'amphore et le coffret runique (avec les textes des modèles d'emails "world_scan_amphora" et "world_scan_runic_chest") : le MJ rédige lui-même tous les autres résultats. Résultats attendus pour les autres demandes clefs :
 
         - les objets de LG mis aux enchères : la zone de la Banque de Salima qui contient son trésor (voir `Cambriolage de la Banque de Salima`_) ;
         - un objet religieux très typique des akarites : un "point de résonance" dans la mer de sel de Blassow (quête de l'Orbe Beta) ;
