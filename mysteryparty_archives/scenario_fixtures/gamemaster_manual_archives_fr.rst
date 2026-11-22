@@ -702,7 +702,7 @@ L'Ankou arrive par les escaliers, et interpelle les joueurs sur le fait qu’ils
 {% endmacro %}
 <{ ankou_introduction_event }/>
 
-*Les joueurs peuvent par la suite envoyer des questions à l'Ankou à l'adresse des défunts Maupertuis, mais attention, ceux-ci ne se souviennent pas de tout non plus.* {% xfact "diakon_invoker_can_message_ankou" %}
+*Les joueurs peuvent par la suite envoyer des questions à l'Ankou à l'adresse des défunts Maupertuis, mais attention, ceux-ci ne se souviennent pas de tout non plus. Le maître de jeu relaie ces messages à l'Ankou, ou y répond lui-même de sa part, d'après les réponses prévues dans la fiche de l'Ankou.* {% xfact "diakon_invoker_can_message_ankou" %}
 
 
 La folie meurtrière de l'automate de garde

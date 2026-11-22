@@ -702,7 +702,7 @@ The Ankou arrives by the stairs, and calls out to the players, telling them that
 {% endmacro %}
 <{ ankou_introduction_event }/>
 
-*The players can subsequently send questions to the Ankou, addressed to the deceased Maupertuis, but beware, the latter do not remember everything either.* {% xfact "diakon_invoker_can_message_ankou" %}
+*The players can subsequently send questions to the Ankou, addressed to the deceased Maupertuis, but beware, the latter do not remember everything either. The Game Master relays these messages to the Ankou, or answers them directly on the Ankou's behalf, according to the answers given in the Ankou's sheet.* {% xfact "diakon_invoker_can_message_ankou" %}
 
 
 The sentinel automaton's murderous madness
