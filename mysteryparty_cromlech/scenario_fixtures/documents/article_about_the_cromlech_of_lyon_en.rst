@@ -7,7 +7,7 @@ Discover the Cromlech of Lyon
 
 The library-museum known as the "Cromlech" is a little-known place, yet one of interest in more ways than one.
 
-On the death of the venerable {% symbol "Philippe du Guesclin" for "curator_father_name" %}, his only son, {% symbol "Camille du Guesclin" for "curator_name" %}, hastened to clear out the cellar of the family chateau.
+On the death of the venerable {% symbol "Philippe du Guesclin" for "curator_father_name" %}, {% symbol "15 months" for "curator_father_death_delay" %} ago, his only son, {% symbol "Camille du Guesclin" for "curator_name" %}, hastened to clear out the cellar of the family chateau.
 
 There he gathered enough old books and antiquities from various eras to create a sort of large "cabinet of curiosities", to which he devoted himself body and soul - forsaking, in order to do so, a promising career as a lawyer.
 

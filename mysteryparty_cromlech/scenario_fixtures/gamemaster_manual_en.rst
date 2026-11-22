@@ -68,7 +68,7 @@ There are two different endings, depending on whether the majority of players si
 There is deliberately some ambiguity as to which is the "right" final choice for the players.
 But they have a few clues to help them decide:
 
-- Their character sheet states that the abnormal volcanic phenomena in Italy began long ago, at about the time the Curator recovered the artefacts;
+- Their character sheet states that the abnormal volcanic phenomena in Italy began about {% symbol "1 year" for "italian_earthquakes_start_delay" %} ago, shortly after the Curator recovered the artefacts: the newspaper article states that he took them out of the family cellar on his father's death, {% symbol "15 months" for "curator_father_death_delay" %} ago;
 - The Hero's attitude suggests that he genuinely felt in danger from the very start of his investigation;
 - The study of the artefacts points to a link with {% symbol "Toutatis" for "bloodthirsty_god_name" %}, the bloodthirsty warrior god of the Gauls, and a rejection of the more peaceful gods and goddesses of the Celtic pantheon.
 

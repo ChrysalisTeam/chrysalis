@@ -68,7 +68,7 @@ Il existe deux fins différentes, suivant que les joueurs prennent majoritaireme
 Il y a volontairement une certaine ambiguïté dans ce qui est le "bon" choix final pour les joueurs.
 Mais ils disposent de quelques indices pour les aider à trancher :
 
-- Leur fiche de personnage indique que les phénomènes volcaniques anormaux en Italie ont commencé depuis longtemps, à peu près au moment où le conservateur a récupéré les artefacts ;
+- Leur fiche de personnage indique que les phénomènes volcaniques anormaux en Italie ont commencé il y a environ {% symbol "1 an" for "délai_début_secousses_sismiques_italiennes" %}, peu après que le Conservateur a récupéré les artefacts : l'article de journal indique qu'il les a sortis de la cave familiale à la mort de son père, il y a {% symbol "15 mois" for "délai_mort_père_du_conservateur" %} ;
 - L'attitude du Héros laisse entendre qu'il se sentait réellement en danger depuis le début de son enquête ;
 - L'étude des artefacts indique un lien avec {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, le dieu-guerrier sanguinaire des gaulois, et un rejet des dieux et déesses plus pacifiques du panthéon celtique.
 
