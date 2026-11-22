@@ -129,14 +129,22 @@ Dès le début du jeu, les différents agents secrets sont appelés par leurs su
 
 Le compte web de Loyd Georges révèle immédiatement que c'est le physicien Waden Shaw qui possède l'orbe ainsi que divers artefacts archéologiques ramenés d'Akarie. Dès lors, avec les conseils de leur hiérarchie, les agents secrets vont devoir espionner Waden, potentiellement négocier avec lui, et surtout rassembler assez d'indices sur sa cachette.
 
-Chaque faction possède initialement UN indice différent sur la localisation de l'orbe.
+Chaque faction possède initialement UN indice différent sur la localisation de l'orbe (mails reçus avant la partie) :
+
+- lordaniens : "il habiterait au numéro 556 de sa rue" (très local)
+- doriens : "il habiterait dans une rue nommée Latourbière" (très local)
+- masslaves : "il habiterait en face d'un Centre Commercial GigAchat" (très local)
+- Opal : des communications provenant d'un "îlot de cabines PangeaTelecom+" (très local)
+- Cynthia : Waden ne parle jamais de ses "séjours à Faeran" le week-end (la ville)
+
+La cachette est le laboratoire secret de Waden : dans la cave de la maisonnette n°556, rue Latourbière, Faeran Sud, en face d'un Centre Commercial GigAchat, et à 50m d'un îlot de cabines PangeaTelecom.
 
 Pour en trouver d'autres, il faut principalement :
 
 - récupérer des artefacts "atypiques mais pas uniques" et les passer au scanner de géolocalisation mondiale (et cela, via les ventes aux enchères ou via le marché noir) ; cela donne des "zones" numérotées dans différentes villes
 - localiser et cambrioler l'appartement de Cynthia pour obtenir davantage d'informations sur Waden (la ville où il se rend)
-- trouver, en perquisitionnant le manoir (pour Obsidian), un télégramme évoquant une commande de matériel à GemmoKorps livré dans une librairie
-- cambrioler le coffre-fort de Loyd Georges pour en prendre le document "hautement confidentiel" décrivant le lieu où est le laboratoire de Waden
+- trouver, en perquisitionnant le manoir (pour Obsidian), un télégramme évoquant une commande de matériel à GemmoKorps livré dans une librairie proche du labo (très local)
+- cambrioler le coffre-fort de Loyd Georges pour en prendre le document "hautement confidentiel" décrivant le laboratoire de Waden : il n'en donne pas l'adresse, mais décrit la villa (de plain-pied, cave à porte blindée accessible de l'extérieur), le code d'alarme de la cave (UKG185) et le double des clefs (au fond de la fontaine de l'entrée du jardin), utiles pour l'assaut
 - [pour l'inspecteur] perquisitionner le compte Anthropia d'un suspect mis en examen
 - [non implémenté par défaut] être à l'affut des courriers interceptables, et des spots radios, qui peuvent donner quelques indices supplémentaires si le MJ le trouve nécessaire
 

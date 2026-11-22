@@ -129,14 +129,22 @@ From the very start of the game, the various secret agents are asked by their re
 
 Loyd Georges' web account immediately reveals that it is the physicist Waden Shaw who holds the orb, along with various archaeological artefacts brought back from Akaris. From then on, with the advice of their hierarchy, the secret agents will have to spy on Waden, potentially negotiate with him, and above all gather enough clues about his hiding place.
 
-Each faction initially holds ONE different clue about the location of the orb.
+Each faction initially holds ONE different clue about the location of the orb (e-mails received before the game):
+
+- Lordanians: "he is said to live at number 556 in his street" (very local)
+- Dorians: "he is said to live in a street named Latourbiere" (very local)
+- Masslavians: "he is said to live opposite a GigAchat Shopping Centre" (very local)
+- Opal: communications coming from a "cluster of PangeaTelecom+ booths" (very local)
+- Cynthia: Waden never mentions his weekend "stays in Faeran" (the city)
+
+The hiding place is Waden's secret laboratory: in the cellar of cottage no. 556, Latourbiere Street, South Faeran, opposite a GigAchat Shopping Centre, and 50 m from a cluster of PangeaTelecom booths.
 
 To find others, the main ways are:
 
 - recover "atypical but not unique" artefacts and run them through the World Scanner for geolocation (either via the auctions or via the black market); this yields numbered "zones" in various cities
 - locate and burgle Cynthia's flat to obtain more information about Waden (the city he travels to)
-- find, by searching the manor (for Obsidian), a telegram mentioning an order of equipment from GemmoKorps delivered to a bookshop
-- burgle Loyd Georges' safe to take the "highly confidential" document describing the location of Waden's laboratory
+- find, by searching the manor (for Obsidian), a telegram mentioning an order of equipment from GemmoKorps delivered to a bookshop near the lab (very local)
+- burgle Loyd Georges' safe to take the "highly confidential" document describing Waden's laboratory: it does not give its address, but describes the villa (single-storey, cellar with an armoured door accessible from the outside), the cellar's alarm code (UKG185) and the spare keys (at the bottom of the fountain at the garden entrance), useful for the assault
 - [for the inspector] search the Anthropia account of an indicted suspect
 - [not implemented by default] watch out for interceptable mail, and radio spots, which can provide a few additional clues if the GM deems it necessary
 
