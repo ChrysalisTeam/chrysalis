@@ -39,7 +39,7 @@ Knowledge shared with the Archivist
 IMPORTANT: The Maupertuis family kept some "administrative paperwork" in a black briefcase, in the authorised domain. You had heard that the family's **secret symbol**, opening access to the Forbidden Domain, was also hidden there.
 {% xfact "octave_and_archivist_know_about_secret_family_symbol_infamily_briefcase" %}
 
-The code of this small case changed automatically every day. The current digits were **whispered by a fake book, {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}**. *Make sure you memorise the shape (thick, made of brown wood) and the approximate location of this fake book.*
+The code of this small case, which the Maupertuis parents knew, was also **whispered by a fake book, {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}**. *Make sure you memorise the shape (thick, made of brown wood) and the approximate location of this fake book.*
 
 You had searched this briefcase in vain, the two of you, while taking care, because it is **partially trapped** against intruders. {% xfact "octave_and_archivist_know_about_venture_prins_book_location" %} {% xfact "octave_and_archivist_have_searched_family_briefcase" %} {% xfact "octave_and_archivist_know_about_trap_of_family_briefcase" %} {% xitem 'trap_in_family_briefcase' is needed %}
 

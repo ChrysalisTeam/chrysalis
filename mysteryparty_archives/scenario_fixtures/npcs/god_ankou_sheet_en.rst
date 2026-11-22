@@ -33,7 +33,7 @@ The Maupertuis parents, {% symbol "Quirinius" for "maupertuis_father" %} and {% 
 
 - **{% symbol "Isadora" for "maupertuis_mother" %}**, who had an excellent memory, gives her code for the legendary chest (the one of the {% symbol "Thanatologue" for "book_of_the_dead" %}), **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**, if the question is properly addressed to her. {% xfact "dead_isadora_remembers_thanatologue_chest_code" %}
 - **{% symbol "Quirinius" for "maupertuis_father" %}**, very absent-minded, does not remember his own code for this chest; he only knows that he wrote all his codes down in his personal notebook. {% xfact "dead_quirinius_does_not_remember_thanatologue_chest_code" %}
-- As a last resort, if the players are clearly stuck, either of them can give the code of the black administrative briefcase: **{% symbol "625-993" for "family_briefcase_code" %}**.
+- As a last resort, if the players are clearly stuck, {% symbol "Isadora" for "maupertuis_mother" %} can give them the code of the black administrative briefcase: **{% symbol "625-993" for "family_briefcase_code" %}**.
 - About the Beast, which they knew when it was alive: it saw very poorly beyond 3 metres, and was crazy about **{% symbol "moon stones" for "phosphorescent_pebbles_name" %}** (phosphorescent pebbles). {% xfact "characters_know_how_the_beast_works_regarding_3m_sight" %} {% xfact "beast_is_addicted_to_moon_stones" %}
 - The meaning of the obsolete ingredient names of old recipes: the "eternal tree" is the olive tree, "foxglove" is digitalis, the "clairvoyant mineral" is rock crystal, "aventurine" is a stone of a beautiful green, smooth and slightly translucent, and "tiger's eye" is a dark orange mineral.
 

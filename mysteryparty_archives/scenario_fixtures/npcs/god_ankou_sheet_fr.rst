@@ -33,7 +33,7 @@ Les parents Maupertuis, {% symbol "Quirinius" for "maupertuis_father" %} et {% s
 
 - **{% symbol "Isadora" for "maupertuis_mother" %}**, qui avait une excellente mémoire, donne son code du coffre légendaire (celui du {% symbol "Thanatologue" for "book_of_the_dead" %}), **{% symbol "159" for "maupertuis_mother_thanatologue_chest_code" %}**, si la question lui est bien adressée. {% xfact "dead_isadora_remembers_thanatologue_chest_code" %}
 - **{% symbol "Quirinius" for "maupertuis_father" %}**, très distrait, ne se souvient pas de son propre code pour ce coffre ; il sait seulement qu'il notait tous ses codes dans son carnet personnel. {% xfact "dead_quirinius_does_not_remember_thanatologue_chest_code" %}
-- En dernier recours, si les joueurs sont manifestement bloqués, l'un ou l'autre peut donner le code de la mallette administrative noire : **{% symbol "625-993" for "family_briefcase_code" %}**.
+- En dernier recours, si les joueurs sont manifestement bloqués, {% symbol "Isadora" for "maupertuis_mother" %} peut leur donner le code de la mallette administrative noire : **{% symbol "625-993" for "family_briefcase_code" %}**.
 - Sur la Bête, qu'ils ont connue vivante : elle voyait très mal au-delà de 3 mètres, et raffolait des **{% symbol "pierres de lune" for "phosphorescent_pebbles_name" %}** (galets phosphorescents). {% xfact "characters_know_how_the_beast_works_regarding_3m_sight" %} {% xfact "beast_is_addicted_to_moon_stones" %}
 - Le sens des noms désuets d'ingrédients des vieilles recettes : "l'arbre éternel" est l'olivier, le "gant-de-renard" la digitale, le "clairvoyant minéral" le cristal de roche, "l'aventurine" une pierre d'un beau vert, lisse et légèrement translucide, et "l'oeil-de-tigre" un minéral sombre-orangé.
 
