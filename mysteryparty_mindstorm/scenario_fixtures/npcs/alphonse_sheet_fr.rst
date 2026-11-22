@@ -66,6 +66,15 @@ Lorsque l'ambassadeur akarite débarque dans le manoir, comme toute la maisonné
 
 Vous êtes le seul à savoir faire fonctionner un **antique téléphone-fax filaire (avec vidéo floue)** présent dans le manoir. Vous en profitez pour faire payer son usage à **50 kashes l'appel, ou 150 kashes pour un usage illimité par une personne**.
 {% xfact "manor_has_wireline_phone_through_alphonse" as author %}
+Ce téléphone fait aussi FAX, et c'est un tellement vieux modèle que plus PERSONNE ne saurait le mettre sur écoute.
+
+Hier soir, vous jouiez au tripot {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}, de nombreux témoins peuvent l'attester. Vous vous plaignez des tripots de Salima, de plus en plus "sectaires" même envers les vieux clients comme vous.
+
+Vous avez récemment perdu la carte pass ouvrant uniquement la boite aux lettres du manoir, ce qui fait que ni vous ni Rydji ne pouvez relever le courrier, hormis en utilisant la carte pass dorée de Loyd Georges lorsque trouvée. {% xitem 'postbox_specific_lost_passcard' is needed %}
+
+Vous savez que la vieille voisine (doyenne du hameau) en connait beaucoup sur Loyd Markis et l'enfance de Loyd Georges.
+
+Exemples d'expressions (récurrentes) comiques : "tout est sous contrôle", "si j'aurais su", "à l'insu de mon plein gré"...
 
 Vous vous lamentez de temps en temps sur le fait que le manoir va être saisi par les créanciers de Loyd Georges ou racheté par son adversaire {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, que les serviteurs vont en être chassés, que personne ne voudra embaucher une vieille branche comme vous...  {% xfact "lord_mac_jolt_wants_to_own_lg_manor" %}
 

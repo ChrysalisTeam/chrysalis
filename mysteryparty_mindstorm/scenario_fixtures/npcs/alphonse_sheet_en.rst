@@ -66,6 +66,15 @@ When the Akarith Ambassador turns up at the manor, like the whole household, you
 
 You are the only one who knows how to operate an **antique landline fax-phone (with blurry video)** present in the manor. You take advantage of this to charge for its use: **50 kashes per call, or 150 kashes for unlimited use by one person**.
 {% xfact "manor_has_wireline_phone_through_alphonse" as author %}
+This telephone also does FAX, and it is such an old model that NOBODY could tap it any more.
+
+Last night, you were gambling in the den {% symbol "La Murge de Salima" for "alphonse_alibi_bar" %}, many witnesses can attest to it. You complain about the gambling dens of Salima, more and more "sectarian" even towards old customers like you.
+
+You recently lost the pass card opening only the manor's mailbox, which means that neither you nor Rydji can collect the mail, except by using Loyd Georges' golden pass card once found. {% xitem 'postbox_specific_lost_passcard' is needed %}
+
+You know that the old neighbour (the hamlet's eldest resident) knows a great deal about Loyd Markis and Loyd Georges' childhood.
+
+Examples of (recurring) comic expressions: "everything is under control", "if I would have known", "unbeknownst to my own free will"...
 
 From time to time you lament the fact that the manor is going to be seized by Loyd Georges' creditors or bought by his adversary {% symbol "Lord Mac'Jolt" for "lg_enemy_lord_name" %}, that the servants will be driven out of it, that nobody will want to hire an old fossil like you...  {% xfact "lord_mac_jolt_wants_to_own_lg_manor" %}
 

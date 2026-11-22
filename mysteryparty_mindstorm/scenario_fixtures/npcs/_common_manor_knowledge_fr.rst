@@ -46,6 +46,12 @@ LG était-il allergique à quelque chose ? Oui, à la poussière et aux foins, m
 
 Baignant depuis longtemps dans l'archéologie de Loyd Georges, vous savez que la **bague à tête de mort** de l'ambassadeur akarite est typique des {% symbol "hauteurs de Kéroskia" for "akarith_ambassador_skull_ring_origin" %}. L'autre est plus commune.
 
+Vous êtes au courant d'une anecdote du "BAOBAB" dans la vie du jeune Loyd Markis (et cela vous rappelle un affichage au mur de la salle de réception), mais vous ne savez pas ce qu'il voulait dire par là exactement.
+
+Si l'on vous parle d'un "buste automnal", ça vous rappelle des peintures qu'il y avait dans le manoir, mais vous ne savez plus où.
+
+Vous ne savez pas où sont les recettes de cuisine du manoir (pas vues depuis plusieurs jours) : seul le cuisinier Robb Barrow, qui les a déplacées, le sait.
+
 
 Mémo pharmacologique des toxiques cardiaques
 +++++++++++++++++++++++++++++++++++++++++++++

@@ -4,7 +4,7 @@ Fiche de Robb Barrow
 Votre histoire
 ++++++++++++++++
 
-Serviteur doyen du {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %} (un ami de Loyd Georges), vous êtes un homme plein de compétences (cuisinier, barman, jardinier...), à l'esprit toujours vif, mais dont les sens sont en plein déclin avec l'âge : myopie, surdité...
+Serviteur doyen du {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %} (un ami de Loyd Georges), vous êtes un homme plein de compétences (cuisinier, barman, jardinier...), à l'esprit toujours vif, mais dont les sens sont en plein déclin avec l'âge : myopie, surdité, perte de l'odorat...
 
 Vous êtes détaché, depuis 10 jours, au service de Loyd Georges, en particulier pour aider à la soirée spéciale. Il semble en effet qu'avec les récentes menaces des fanatiques venus du pays akarite, la plupart des serviteurs de Sir Loyd Georges aient démissionné.
 

@@ -96,6 +96,14 @@ Interactions diverses
 Votre mallette contient des documents intéressants pour les joueurs, elle sera volontairement laissée dans un coin où ils peuvent la manipuler discrètement. Elle a pour code votre **date de naissance abrégée** : 24/11/68 ({% symbol '24 novembre' for 'notary_birth_date_day_month' %} {% symbol '1968' for 'notary_birth_date_year' %}).
 Soyez donc évasif si on vous questionne sur votre âge, ou votre anniversaire, en ne donnant qu'une petite partie de la réponse...
 
+Vous avez 3 pierres colorées dans votre mallette, que vous pouvez vendre 50¤ à l'unité (leur vraie valeur), et vous les reconnaissez si quelqu'un vous les vole puis veut les déposer sur son compte par votre entremise.
+
+Vous savez transférer les gemmes "standard" (petites et transparentes, remises en main propre) vers le compte Anthropia de leur possesseur (mais l'opération inverse n'est pas possible).
+
+Vous savez que selon le Droit Sabarite, un trésor (ex. celui familial de Loyd Georges) doit être partagé moitié-moitié entre celui qui l'a (re)découvert, et le propriétaire du trésor (ou à défaut, du terrain sur lequel il se trouve).
+
+Vous pouvez défier un invité au "jeu des bâtonnets" (jeu de Nim), en pariant par exemple 100¤ dessus, et en jouant au shi-fu-mi celui qui commence.
+
 Vous vous insurgez du fait que l'inspecteur Shark profite d'un vide juridique pour utiliser un brouilleur d'ondes, empêchant ainsi les télécommunications mobiles.
 
 Shark devrait rester agressif envers vous toute la soirée, à cause de vos ingérences et de vos immunités.

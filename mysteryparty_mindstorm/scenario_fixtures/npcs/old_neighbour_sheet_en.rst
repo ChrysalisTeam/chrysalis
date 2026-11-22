@@ -37,6 +37,8 @@ About the hidden legacy of the Loyd family
 
 **If someone mentions a BAOBAB to you, it reminds you of an anecdote about Loyd Markis, who used to call another tree by that name; there must be a story about it on the walls of the manor**
 
+If someone mentions an "autumnal bust" to you, it reminds you of paintings that were in the manor, but you no longer know where.
+
 
 <{ clues_about_lg_animal_and_tabellion_birth_date }/>
 

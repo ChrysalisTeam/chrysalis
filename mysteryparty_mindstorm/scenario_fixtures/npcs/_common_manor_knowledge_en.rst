@@ -46,6 +46,12 @@ Was LG allergic to anything? Yes, to dust and hay, but no known food allergy (so
 
 Having long been steeped in Loyd Georges' archaeology, you know that the Akarith Ambassador's **skull ring** is typical of the {% symbol "Keroskia highlands" for "akarith_ambassador_skull_ring_origin" %}. The other one is more common.
 
+You are aware of a "BAOBAB" anecdote in the life of the young Loyd Markis (and it reminds you of something displayed on the wall of the reception hall), but you do not know what exactly he meant by that.
+
+If someone mentions an "autumnal bust" to you, it reminds you of paintings that were in the manor, but you no longer know where.
+
+You do not know where the manor's cooking recipes are (not seen for several days): only the cook Robb Barrow, who moved them, knows.
+
 
 Pharmacological memo on cardiac toxins
 +++++++++++++++++++++++++++++++++++++++++++++

@@ -4,7 +4,7 @@ Sheet of Robb Barrow
 Your story
 ++++++++++++++++
 
-Senior servant of {% symbol "Count Blispin" for "lg_close_friend_lord_name" %} (a friend of Loyd Georges), you are a man of many skills (cook, barman, gardener...), with an ever-sharp mind, but whose senses are in steep decline with age: short-sightedness, deafness...
+Senior servant of {% symbol "Count Blispin" for "lg_close_friend_lord_name" %} (a friend of Loyd Georges), you are a man of many skills (cook, barman, gardener...), with an ever-sharp mind, but whose senses are in steep decline with age: short-sightedness, deafness, loss of smell...
 
 You have been seconded, for the past 10 days, to the service of Loyd Georges, in particular to help with the special evening. It seems indeed that, with the recent threats from fanatics coming from the land of Akaris, most of Sir Loyd Georges' servants have resigned.
 

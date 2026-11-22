@@ -37,6 +37,8 @@ Sur l'héritage caché de la famille Loyd
 
 **Si l'on vous parle d'un BAOBAB, cela vous rappelle une anecdote avec Loyd Markis, qui appelait ainsi un autre arbre ; il doit y avoir un récit là-dessus sur les murs du manoir**
 
+Si l'on vous parle d'un "buste automnal", ça vous rappelle des peintures qu'il y avait dans le manoir, mais vous ne savez plus où.
+
 
 <{ clues_about_lg_animal_and_tabellion_birth_date }/>
 

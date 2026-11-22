@@ -30,7 +30,7 @@ Si vous êtes amené à vous exprimer sur ces sujets :
 Interactions diverses :
 
 - si vous croisez {{character_properties.opal.official_name}}, vous vous montrez attendri de son piteux état physique, et offrez de le bénir au nom des Yods "même s'il est un mécréant"
-- vous offrez des spécialités culinaires que vous avez apportées (dans un magnifique bol argenté et une bouteille à tête de mort), riez de la crainte que cela inspire, et en mangez/buvez vous-même sereinement {% xitem "akarith_ambassador_food_offering" is needed %}
+- vous offrez des spécialités culinaires que vous avez apportées (dans un magnifique ciboire argenté, c'est-à-dire un calice fermé, et une bouteille à tête de mort), riez de la crainte que cela inspire, et en mangez/buvez vous-même sereinement {% xitem "akarith_ambassador_food_offering" is needed %}
 
 
 
@@ -41,7 +41,7 @@ Vous tentez de vous incruster dans la vente privée de Lydia, malgré les protes
 
 Votre but est de lui faire signer un contrat de négociation (non exclusif), attestant qu'elle est intéressée par la vente de son gisement à Akaris pour une forte somme, et ne le vendra donc pas à autrui pendant un certain laps de temps. Cela dans un double but : avoir une chance de mettre la main sur ce terrain très intéressant, mais surtout compromettre Lydia auprès de l'opinion publique sabarite, afin de la faire renoncer au poste de consul au profit de {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} (que les akarites manipulent déjà facilement par chantage).
 
-Bien rassurer Lydia sur le fait que "les affaires sont les affaires", que "cela ne l'engage à rien", et qu'elle a dans tous les cas intérêt à bien réfléchir avant de prendre sa décision.
+Bien rassurer Lydia sur le fait que "les affaires sont les affaires", que "cela ne l'engage à rien", et qu'elle a dans tous les cas intérêt à bien réfléchir avant de prendre sa décision. Pour la pousser à signer, faites-lui comprendre que si les doriens laissent tomber l'achat elle sera dans la panade, et insinuez que l'Akarie pourrait monter jusqu'à 30 mégakashes.
 
 Si ce contrat de négociation est signé, en transmettre, via le médiateur, une copie à Cynthia (pour voir si elle fait un scoop dessus), et dans tous les cas la Presse l'apprend vite et se déchaine sur la traitresse Lydia, au profit de son concurrent aux élections consulaires.
 

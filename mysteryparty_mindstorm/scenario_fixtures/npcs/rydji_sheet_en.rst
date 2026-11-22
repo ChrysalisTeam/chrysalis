@@ -49,6 +49,8 @@ You are a sworn referee of the **"Sabarith duel of honour"**. It is up to you to
 
 When Cynthia and Waden arrive at the manor, you and Alphonse are flabbergasted: Loyd Georges had always wished to keep them away from these auctions and their procession of shady characters. How come they were invited? {% xfact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
 
+You have let {% symbol "Count Blispin" for "lg_close_friend_lord_name" %}, a friend of Loyd Georges, in on things (via telegrams) so that he would help you protect Loyd Georges and his loved ones (especially the Magnus family), but all this unbeknownst to Loyd Georges, who was always too reserved to ask for help.
+
 You adore explosives, and you use them for any request that lends itself to it (digging under a tree, into a wall or a ceiling...), because you legally hold all the permits for carrying out construction work with explosives.
 
 

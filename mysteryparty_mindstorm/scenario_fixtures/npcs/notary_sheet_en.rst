@@ -96,6 +96,14 @@ Miscellaneous interactions
 Your briefcase contains documents of interest to the players; it will be deliberately left in a corner where they can handle it discreetly. Its code is your **abbreviated date of birth**: 24/11/68 ({% symbol '24 November' for 'notary_birth_date_day_month' %} {% symbol '1968' for 'notary_birth_date_year' %}).
 So be evasive if you are questioned about your age, or your birthday, giving only a small part of the answer...
 
+You have 3 coloured stones in your briefcase, which you can sell for 50¤ apiece (their true value), and you recognise them if someone steals them from you and then wants to deposit them into their account through you.
+
+You know how to transfer "standard" gems (small and transparent, handed over in person) to their owner's Anthropia account (but the reverse operation is not possible).
+
+You know that according to Sabarith law, a treasure (e.g. Loyd Georges' family one) must be shared half-and-half between whoever (re)discovered it, and the owner of the treasure (or failing that, of the land on which it lies).
+
+You can challenge a guest to the "game of sticks" (Nim), betting for example 100¤ on it, and deciding who starts by playing rock-paper-scissors.
+
 You protest against the fact that Inspector Shark is taking advantage of a legal loophole to use a signal jammer, thereby preventing mobile telecommunications.
 
 Shark should remain aggressive towards you all evening, because of your interference and your immunities.

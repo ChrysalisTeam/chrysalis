@@ -49,6 +49,8 @@ Vous êtes un arbitre assermenté de **"duel d'honneur sabarite"**. À vous de m
 
 Lorsque Cynthia et Waden arrivent au manoir, vous et Alphonse tombez des nues : Loyd Georges avait toujours souhaité les tenir à l'écart de ces enchères et de leur cortège de personnages louches. Comment cela se fait-il qu'ils aient été invités ? {% xfact "alphonse_and_rydji_are_surprised_by_cynthia_waden_presence" as author %}
 
+Vous avez mis le {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %}, ami de Loyd Georges, dans le coup (via des télégrammes) pour qu'il vous aide à le protéger ainsi que ses proches (surtout la famille Magnus), mais tout cela à l'insu de Loyd Georges, qui était toujours trop pudique pour demander de l'aide.
+
 Vous adorez les explosifs, et vous les utilisez pour toute demande qui s'y prête (creuser sous un arbre, dans un mur ou un plafond...), car vous avez légalement toutes les autorisations pour faire des travaux de chantier à l'explosif.
 
 
