@@ -442,6 +442,15 @@ Three sides indeed clash or ally in order to become owners of this deposit, so a
 
 The trick is that the first two require distinct components of the tar sands (and can therefore give rise to cooperation between buyers), whereas building materials require the entirety of the resource.
 
+What the deposit would bring each buyer (according to their missions):
+
+- Dorians (Peridot, Topaz): building materials, the equivalent of **20 megakashes** of complete tar sands
+- Masslavians (Malachite, Spinel): electronic components, the equivalent of **12 megakashes** of rare earths
+- Lordanians (Amethyst, Garnet): fuel, the equivalent of **10 megakashes** of bitumen
+- in every case, with a **Thermocyclic Fusion Core** (see the email of the same name to the Lordanians), the extraction brings **50%** more
+
+For comparison, the Magnus family needs 18 megakashes to get back on its feet; the sale price must be a multiple of 0.5 megakashes.
+
 Course of events: with the Tabellion's support, Lydia must obtain a first proposal from each party early in the evening, then finalise the negotiations and the sale in the middle of the evening.
 
 **Strategies**

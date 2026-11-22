@@ -442,6 +442,15 @@ Trois camps s'affrontent ou s'allient en effet pour pouvoir devenir propriétair
 
 L'astuce est que les deux premiers nécessitent des composantes distinctes des sables bitumineux (et peuvent donc donner lieu à une coopération entre acheteurs), alors que les matériaux de construction nécessitent l'intégralité de la ressource.
 
+Ce que le gisement rapporterait à chaque acheteur (d'après leurs missions) :
+
+- doriens (Peridot, Topaz) : matériaux de construction, l'équivalent de **20 mégakashes** de sables bitumineux complets
+- masslaves (Malachite, Spinel) : composants électroniques, l'équivalent de **12 mégakashes** de terres rares
+- lordaniens (Amethyst, Garnet) : carburant, l'équivalent de **10 mégakashes** de bitume
+- dans tous les cas, avec un **Cœur de Fusion Thermocyclique** (voir le mail du même nom aux lordaniens), l'extraction rapporte **50%** de plus
+
+Pour comparaison, la famille Magnus a besoin de 18 mégakashes pour se renflouer ; le prix de vente doit être un multiple de 0.5 mégakashes.
+
 Déroulement : avec l'appui du Tabellion, Lydia doit obtenir de chacun une première proposition en début de soirée, puis finaliser les négociations et la vente en milieu de soirée.
 
 **Stratégies**
