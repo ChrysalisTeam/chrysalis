@@ -451,7 +451,7 @@ Possible endings
 *Reminder: too far from the tree of life (beyond the muskrat nest), the carcasses fall apart; for any distant departure (sailing boat, teleportation, Zeppelin), they must therefore take the tree of life with them, and a necromancer must feed it with his blood every moon (without a necromancer, it withers at the next moon, hence CONRAD's request to "find a way to stay alive"). SAPHIR's medallion teleports 100 kg at most: SAPHIR (about 45 kg), the tree of life (about ten kilos) and the three carcasses with their helms (about fifteen kilos each) just fit, without weapons or luggage.*
 
 - Turn Foulques into an abomination, or set off in search of another necromancer?
-- Go and negotiate, putting ALPHA (Brunissende) forward as the legitimate heir to the vacant throne?
+- Go and negotiate with the soldiers, putting ALPHA (Brunissende) forward as the legitimate heir to the vacant throne?
 - All leave by sailing boat, before the soldiers reach the edge of the cliff? Possibly towards the island of the half-Atlanteans found by Magus Parcival?
 - Let only SAPHIR and the carcasses teleport into the forest and flee?
 - Contact the goblin by telemirror so that he comes to rescue them by Zeppelin (but a very difficult negotiation)?
@@ -519,6 +519,15 @@ But there too, EULALIE recovered these "sturdy and far-sight-gifted" bones from 
 SAPHIR, for her part, only came back from her bivouac much later, during the night before Day 3.
 
 Foulques looked for a way out, even buying explosives and other equipment with a staging in mind... and that is when the story of the game began.
+
+
+The soldiers and the hussars
+-------------------------------
+
+Winkle's drunken confidences about the royal signet ring have spread through the underworld, then to the courts:
+
+- The **regency council** of Listenbourg, which is looking for the late king's distant cousins, has sent the royal army: first the observation camp on the hill, then the **detachment with cannons** of the night of Day 3. Officially, it comes to eradicate the "sect of summoners" the newspapers talk about; in reality, it wants to recover the signet ring, and whoever of royal blood might wear it. Its officers are therefore ready to negotiate, if an heir is presented to them.
+- The **five winged hussars** are the mercenaries of one of the petty nobles who claim the throne: he wants to seize the signet ring before the army does, to back up his claim (or to make it disappear).
 
 
 Timeline

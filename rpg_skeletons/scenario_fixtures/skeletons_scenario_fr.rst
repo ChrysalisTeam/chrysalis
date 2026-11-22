@@ -451,7 +451,7 @@ Dénouements possibles
 *Rappel : trop loin de l'arbre de vie (au-delà du nid des rats musqués), les carcasses se désagrègent ; pour tout départ lointain (voilier, téléportation, Zeppelin), elles doivent donc emporter l'arbre de vie, qu'un nécromancien doit nourrir de son sang à chaque lune (sans nécromancien, il dépérit à la lune suivante, d'où la demande de CONRAD de "trouver une solution pour rester en vie"). Le médaillon de SAPHIR téléporte 100 kg au maximum : SAPHIR (environ 45 kg), l'arbre de vie (une dizaine de kilos) et les trois carcasses avec leurs heaumes (une quinzaine de kilos chacune) tiennent tout juste, sans armes ni bagages.*
 
 - Transformer FOULQUES en abomination, ou partir en recherche d'un autre nécromancien ?
-- Aller négocier avec ALPHA (Brunissende) en tant qu'héritière légitime du trône vacant ?
+- Aller négocier avec les militaires, en présentant ALPHA (Brunissende) comme héritière légitime du trône vacant ?
 - Partir tous en voilier, avant que les militaires n'arrivent au bord de la falaise ? Possiblement vers l'île des semi-atlantes trouvée par le mage Parcival ?
 - Laisser uniquement SAPHIR et les carcasses se téléporter dans la forêt et fuir ?
 - Contacter par télémiroir le gobelin pour qu'il vienne les secourir par Zeppelin (mais négociation très difficile) ?
@@ -519,6 +519,15 @@ Mais là aussi EULALIE a récupéré ces ossements "robustes et doués de pouvoi
 SAPHIR, elle, n'est rentrée de son bivouac que bien plus tard, la nuit précédant le Jour 3.
 
 FOULQUES a cherché un moyen de s'en tirer, achetant même des explosifs et autres équipements en vue d'une mise en scène... et c'est à ce moment que l'histoire du jeu a commencé.
+
+
+Les militaires et les hussards
+-------------------------------
+
+Les confidences avinées de Winkle sur la chevalière royale ont fait le tour de la pègre, puis des cours :
+
+- Le **conseil de régence** de Listenbourg, qui cherche les lointains cousins du roi défunt, a envoyé l'armée royale : d'abord le campement d'observation de la colline, puis le **détachement aux canons** de la nuit du Jour 3. Officiellement, il vient éradiquer la "secte d'invocateurs" dont parle la presse ; en réalité, il veut récupérer la chevalière, et son éventuel porteur de sang royal. Ses officiers sont donc prêts à négocier, si on leur présente une héritière.
+- Les **cinq hussards ailés** sont les mercenaires d'un des nobliaux qui revendiquent le trône : il veut s'emparer de la chevalière avant l'armée, pour appuyer sa prétention (ou la faire disparaître).
 
 
 Chronologie
