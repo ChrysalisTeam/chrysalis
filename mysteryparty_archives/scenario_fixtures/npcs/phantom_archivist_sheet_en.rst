@@ -32,7 +32,7 @@ Knowledge shared with Octave
 Specific information and instructions
 ========================================
 
-You remember very well the illness of Meredice de Maupertuis, and how the Maupertuis parents had sent you in person to fetch various highly specialised ingredients to create a potion called the **{% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %}**. During the inventory, you had found and put back in its place the main recipe of said potion, and you point it out to the players who ask for it (see Game Map). {% xfact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
+You remember very well the illness of Meredice de Maupertuis, and how the Maupertuis parents had sent you in person to fetch various highly specialised ingredients to create a potion called the **{% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %}**. During the inventory, you had found and put back in its place the main recipe of said potion, and you point it out to the players who ask for it (the Game Master shows you its location, marked "I2" on the map of the premises, during the tour of the library before the game). {% xfact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %}
 
 If you are asked about the recipes of the **intermediate potions** needed for this cocktail, you indicate that you had marked the presence of some of them, on the authorised floor, with **white arrows drawn on the floor** (represented in-game by white tape). {% xitem "white_arrows_on_floor_towards_cure_recipes" is needed %} {% xfact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 

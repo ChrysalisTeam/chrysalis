@@ -43,7 +43,7 @@ Le code de cette valisette, que connaissaient les parents Maupertuis, était aus
 
 Vous aviez en vain fouillé cette mallette, tous les deux, tout en prenant garde, car elle est **partiellement piégée** contre les intrus. {% xfact "octave_and_archivist_know_about_venture_prins_book_location" %} {% xfact "octave_and_archivist_have_searched_family_briefcase" %} {% xfact "octave_and_archivist_know_about_trap_of_family_briefcase" %} {% xitem 'trap_in_family_briefcase' is needed %}
 
-Vous savez indiquer l'emplacement du faux livre {% symbol "Venture Prins" for "small_wooden_fake_book_name" %} à quiconque vous le demande **(voir Plan du Jeu)**.
+Vous savez indiquer l'emplacement du faux livre {% symbol "Venture Prins" for "small_wooden_fake_book_name" %} à quiconque vous le demande **(le maître de jeu vous montre son emplacement, repéré "I1" sur son plan des lieux, lors de la visite de la bibliothèque avant le jeu)**.
 
 Par ailleurs, vous avez entendu bien des choses, des parents Maupertuis, sur la dangerosité de **la Bête**, donc si les joueurs veulent ouvrir le passage vers le domaine interdit, vous les exhortez à avoir d'abord un plan pour la neutraliser, sous quelque forme qu'elle pointe le bout du museau. {% xfact "octave_and_archivist_warn_players_about_beast_dangerousness" %}
 

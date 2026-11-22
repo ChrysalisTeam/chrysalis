@@ -3,7 +3,7 @@ PLANNING DETAILLÉ DU JEU
 
 *Planning théorique des évènements, à revalider au fur et à mesure avec le maître de jeu. Les prophéties ont leur propre planning, géré par la duchesse qui encadre le joueur ou la joueuse Oracle.*
 
-H-45mn : Briefing général des **figurants** (voir fiche). Visite de la bibliothèque ensemble, si possible.
+H-45mn : Briefing général des **figurants** (voir fiche). Visite de la bibliothèque ensemble, si possible ; y montrer en tout cas à Octave et à l'archiviste le livre factice {% symbol "Venture Prins" for "small_wooden_fake_book_name" %} (I1 sur le plan des lieux de la liste du matériel) et la recette du Cocktail de Réjuvénation (I2), et au voleur l'éboulis du bureau de Mérédice (E5).
 
 H-30mn : Briefing de chaque **groupe de joueurs** (voir fiche), effectué respectivement par chaque figurant qui en a la charge. Le MJ passe pour distribuer les objets manquants et répondre aux questions. Les joueurs embraient ensuite sur un **tour de présentation** de chacun, à l'image du rêve commun qu'ils ont fait d'après leurs fiches de personnage.
 

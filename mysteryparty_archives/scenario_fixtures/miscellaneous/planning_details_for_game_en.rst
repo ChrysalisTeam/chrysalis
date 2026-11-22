@@ -3,7 +3,7 @@ DETAILED GAME SCHEDULE
 
 *Theoretical schedule of events, to be re-validated as you go along with the Game Master. The prophecies have their own schedule, managed by the Duchess who supervises the Oracle player.*
 
-H-45 min: General briefing of the **NPC actors** (see sheet). Tour of the library together, if possible.
+H-45 min: General briefing of the **NPC actors** (see sheet). Tour of the library together, if possible; in any case, show Octave and the Archivist the fake book {% symbol "Venture Prins" for "small_wooden_fake_book_name" %} (I1 on the map of the premises of the assets checklist) and the Rejuvenation Cocktail recipe (I2), and show the Thief the rockfall of Meredice's study (E5).
 
 H-30 min: Briefing of each **group of players** (see sheet), carried out respectively by each NPC actor in charge of it. The GM comes round to hand out the missing objects and answer questions. The players then move on to a **round of introductions** of each of them, mirroring the shared dream they had according to their character sheets.
 
