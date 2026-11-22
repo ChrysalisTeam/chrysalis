@@ -40,6 +40,7 @@
 <{ title_last_minute_information }/>
 ==============================================
 
+- Panorbium Fortuna: Prof. Loakim's deputy, **Ernest De Villeneuve**, is said to have brought it to Sabarim in a briefcase; in Nuxia, he bought a **brown canvas bag and a set of work overalls**; and apart from the guests and the couriers on horseback, only 3 delivery lorries made their way to the manor, between {% symbol "9:00 and 10:00" for "morning_delivery_trucks_time" %} {% xfact 'misc_panorbium_fortuna_brought_to_manor_in_bag' %}
 - you presume that {{character_properties.opal.official_name}} has a Lordanian gang tattoo somewhere on his body {% xfact 'opal_might_have_gang_tattoo' %}
 - you are thinking of creating diversions with your partner, should it prove necessary in order to act undisturbed during the evening {% xfact "spinel_has_reviewed_formation_manuals" as author %}
 

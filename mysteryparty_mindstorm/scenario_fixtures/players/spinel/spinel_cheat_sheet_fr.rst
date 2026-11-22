@@ -40,6 +40,7 @@
 <{ title_last_minute_information }/>
 ==============================================
 
+- Panorbium Fortuna : l'adjoint du Pr Loakim, **Ernest De Villeneuve**, l'aurait fait venir en Sabarim dans une mallette ; à Nuxia, il a acheté un **sac en toile brune et un bleu de travail** ; et à part les invités et les coursiers à cheval, seuls 3 camions de livraison ont pris le chemin du manoir, entre {% symbol "9h et 10h" for "morning_delivery_trucks_time" %} {% xfact 'misc_panorbium_fortuna_brought_to_manor_in_bag' %}
 - vous présumez que {{character_properties.opal.official_name}} a un tatouage de gang lordanien sur le corps {% xfact 'opal_might_have_gang_tattoo' %}
 - vous songez à créer des diversions avec votre compère, si cela était nécessaire pour agir tranquillement durant la soirée {% xfact "spinel_has_reviewed_formation_manuals" as author %}
 

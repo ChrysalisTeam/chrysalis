@@ -39,6 +39,7 @@
 <{ title_last_minute_information }/>
 ==============================================
 
+- Panorbium Fortuna: Prof. Loakim's deputy, **Ernest De Villeneuve**, is said to have brought it to Sabarim in a briefcase; in Nuxia, he bought a **brown canvas bag and a set of work overalls**; and apart from the guests and the couriers on horseback, only 3 delivery lorries made their way to the manor, between {% symbol "9:00 and 10:00" for "morning_delivery_trucks_time" %} {% xfact 'misc_panorbium_fortuna_brought_to_manor_in_bag' %}
 - you have convincing *network traces* [write this document freestyle], showing that a certain "Amethyst", of the Lordanian secret services, had tapped the phone of the patriarch of Ghek, from the vicinity of Salima. {% xfact 'amethyst_wiretaps_ghek_patriarch' %}
 - a certain "Phonphonse" from the manor is trying to sell a "Chromia" pen that could be a spying device  {% xfact 'alphonse_has_found_library_spy_recorder' %}
 - the famous {{character_properties.opal.official_name}} used to log in to a high-security web account with the login "Emerald", which appeared to be read-only  {% xfact 'opal_accesses_emerald_agent_web_account' %}
