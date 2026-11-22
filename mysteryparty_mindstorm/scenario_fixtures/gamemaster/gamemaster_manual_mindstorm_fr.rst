@@ -159,7 +159,7 @@ Le destin de Sabarim
 
 
 Le démantèlement des purificateurs infiltrés
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
 
 Un trafic de Drogue Zombifiante s'est mis en place de la Lordanie vers Sabarim, avec la complaisance des consuls sabarites.
 

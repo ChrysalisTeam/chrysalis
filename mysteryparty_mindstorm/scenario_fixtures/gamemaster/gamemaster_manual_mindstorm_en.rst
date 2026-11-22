@@ -159,7 +159,7 @@ The fate of Sabarim
 
 
 Dismantling the infiltrated Purifiers
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
 
 A Zombifying Drug trafficking ring has been set up from Lordania to Sabarim, with the connivance of the Sabarith consuls.
 
