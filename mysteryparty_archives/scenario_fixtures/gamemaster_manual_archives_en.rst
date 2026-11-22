@@ -13,7 +13,7 @@ When night falls over the Maupertuis secret archives, three worlds come alive an
 
 Plunge into this den of art and magic, and break the curse that holds souls prisoner there.
 
-*"The Secret Archives of the Maupertuis" is a mystery evening for 12 players, which lasts about 3-4 hours.*
+*"The Secret Archives of the Maupertuis" is a mystery evening for 12 to 14 players (4 teams of 3, plus an optional secret team of 2 players), which lasts about 3-4 hours.*
 
 
 Detailed concept
@@ -300,6 +300,22 @@ The identifying garment of the Mirandian secret agents is an **emerald-green arm
 Their motto is **"Mirandia forever shall shine"**, with a military salute, hand against the temple.
 {% endmacro %}
 <{ spy_group_symbols }/>
+
+The Fallen (optional secret team)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+These 2 players embody {% symbol "Bahamoot" for "god_of_diakons" %} and Behemoth, dragon gods who came from an otherworld, the {% symbol "Abyssal Vortex" for "link_to_demonic_space" %}, now corrupted by demons. To act within the archives without being easy prey for these demons, they became incarnate as two grey baby mice, **Pistachio and Cashew**, which the oracle of {% symbol "Rochesombre Monastery" for "common_monastery_name" %} entrusted to the Diakons. The Diakons know nothing of their true nature. {% xitem 'grey_mice_satchel_for_diakons' is needed %}
+
+This team is optional: without it, the game unfolds normally, and the {% symbol "Abyssal Vortex" for "link_to_demonic_space" %} remains a mere trap (see the Spiritual Orb below). Their quest is described in "The psychic demon trap (the Fallen)".
+
+{% macro dragons_group_symbols() %}
+The Fallen introduce themselves at the briefings as mere **automatons**, and really play that part at the start of the evening (with the automatons' {% symbol "white ribbons" for "automaton_symbolic_cloth" %}, a mechanical gait and voice).
+
+When they meet the Diakons of {% symbol "Bahamoot" for "god_of_diakons" %}, the mice are assumed to escape from the Diakons' satchel, and each take control of an automaton: the Fallen then **remove their white ribbons** (if plush mice are used, the Diakons discreetly put their satchel away). From then on, they belong to the world of the living (so they fear wandering phantoms as a human would), they are bound by the {% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}, and they **no longer obey** the Inventor's {% symbol 'Dominion' for 'androids_command_bracelet_name' %}. They keep a somewhat mechanical demeanour.
+
+They freely choose the moment when they reveal their draconic origin, to the Diakons or to everyone.
+{% endmacro %}
+<{ dragons_group_symbols }/>
 
 NPC actors
 ==========
@@ -1144,7 +1160,7 @@ These slots each await a key object, which is an epoxy resin casting:
 {% xitem 'spiritual_orb_key_cube_is_needed' is needed %}
 {% xitem 'spiritual_orb_key_diamond_is_needed' is needed %}
 
-It is indicated, by a coat of arms (with a flame triad) that the Anthropologist knows, and by an excerpt from the Thanatologue, that by gathering these crystals and proclaiming a certain magic formula, one can open the **"Abyssal Vortex"**. {% xfact "anthropologist_knows_about_fire_triad_emblem" %} {% xitem 'abyssal_vortex_hint_in_thanatologue' is needed %}
+It is indicated, by a coat of arms (with a flame triad) that the Anthropologist knows, and by an excerpt from the Thanatologue, that by gathering these crystals and proclaiming a certain magic formula, one can open the **"{% symbol "Abyssal Vortex" for "link_to_demonic_space" %}"**. {% xfact "anthropologist_knows_about_fire_triad_emblem" %} {% xitem 'abyssal_vortex_hint_in_thanatologue' is needed %}
 
 The avatars or Maupertuis phantoms know nothing about this, but the Arkon is wary of this little-known artefact. {% xfact "arkon_does_not_know_about_spiritual_orb_magic" %}
 
@@ -1155,11 +1171,32 @@ Examples of forfeits:
 - the Alchemist drinks one of their potions (non-lethal)
 - others start using their metal detector or their UV lamp in vain, aimlessly...
 
+Exception: the Fallen (if played) who have drunk their mind-strengthening elixir do not suffer these forfeits, since drawing these demons in is precisely their plan (see "The psychic demon trap (the Fallen)" below).
+
 This orb can also open passages to other strata of reality. In particular, the Thief knows the formula for opening a passage to the **{% symbol "Fount of Knowledge" for "link_to_djinn_world" %}**. If the players place a finger on the orb while it is connected to this world, they become bound to the **invisible world of the Djinns**, small, curious, invisible, harmless spirits who wander about everywhere. {% xfact "phantom_thief_knows_formula_of_link_to_djinn_world" %}
 
 The players can use this gift as a historical search engine, and ask the Game Master questions about the lore of this planet, about the main aspects of the Maupertuis' history. The Djinns do not know everything, have differing opinions, are sometimes wrong, but give generally instructive and useful information.
 
 The **renegade Djinn**, played by the Game Master, was in fact cut off from communion with his fellows by the Arkon's frantic and dangerous invocations during the tragic fight; he is therefore searching for a magical artefact to be able to reconnect with his spirit world, which is none other than the {% symbol "Fount of Knowledge" for "link_to_djinn_world" %}.
+
+
+The psychic demon trap (the Fallen)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*This is the quest of the optional secret team of the Fallen.*
+
+{% macro dragons_group_main_quest() %}
+**The main objective of the Fallen is to free their native world, the {% symbol "Abyssal Vortex" for "link_to_demonic_space" %}, from the demons corrupting it: draw these demons into their own minds, strengthened by an elixir, thanks to the {% symbol "Spiritual Orb" for "spiritual_orb_name" %}, then drive them out for good with an exorcism performed with the Diakons.**
+
+- **The elixir**: the purple bells of the Holistix (one of the jars of dried flowers of the Alchemy laboratory) must be steeped in a Potion of Focus (Alchemy laboratory, or the Lockpicker's belt), ideally with the help of the Parcival Alchemist. One drop is enough for each of the Fallen (they are mice). {% xitem 'purple_bell_plant_in_vial' is needed %}
+- **The connection**: the 4 crystals must be gathered on the tray of the orb, and the opening formula of the {% symbol "Abyssal Vortex" for "link_to_demonic_space" %} (excerpt from the {% symbol "Thanatologue" for "book_of_the_dead" %}) proclaimed, which lights the plasma ball. The Fallen who have drunk the elixir then place a finger on the orb, while the Diakons surround them and chant: they draw the demonic legions into their minds without suffering any forfeit, but then behave as possessed beings (agitation, cavernous voice), while keeping control of their actions. Without the elixir, they suffer the usual forfeits, like any player.
+- **The final exorcism**: no known ritual is enough; the Fallen must use their **Ritual Innovation** to teach the Diakons an exorcism of their own invention, which the Game Master validates if it is consistent (for example: the Exorcist drives the demons out of the possessed, while the other {% symbol "initiates" for "ritualist_kind_name" %} chant in a circle around them, each after a sip of Potion of Focus). If it succeeds, the plasma ball goes off for good, and the {% symbol "Abyssal Vortex" for "link_to_demonic_space" %} becomes the peaceful world of the dragons again. If the exorcism is not attempted or fails, the Fallen remain possessed until an exorcism succeeds, and their quest is a failure.
+- If the Ritual Innovation has already been spent on something else, the Game Master may accept that the Exorcist performs the final exorcism with his usual Spirit Expulsion, cast on each possessed one in turn, but only if the connection was made with the elixir.
+- Make sure this quest does not delay the final quest (expulsion ritual and battle against the Druid) too much: the exorcism of the Fallen must take place before it.
+- **Reward**: the small "useless" copper well of the Divination laboratory really works. If a human lowers into it, with the small attached bucket, 5 grams of diamonds (weighed on the small pan scale of the same laboratory; the Game Master judges the quantity), they gain triple longevity; this has no other effect in the game, and the diamonds are lost. {% xitem "longevity_metal_well" is needed %} {% xitem "tiny_metal_scale" is needed %}
+- **Salvation** (only once in total): the Fallen together restore a dying human, who is then healed of all their injuries, supernatural ones included.
+{% endmacro %}
+<{ dragons_group_main_quest }/>
 
 
 Overview of participants' specific abilities

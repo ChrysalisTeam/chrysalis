@@ -19,6 +19,8 @@ H: [Music] The serving automatons take the groups of players respectively to the
 
 H+2 min: [Frenzy] Be ready to trigger the **spectral frenzy** music if a player presses the silver table bell.
 
+H+5 min: If the team of the Fallen is played, its two "automatons" go and meet the Diakons; they then remove their {% symbol "white ribbons" for "automaton_symbolic_cloth" %}, and from then on play their own part (see "The Fallen" in the manual).
+
 H+8 min: [Bell] Entry of the phantoms into the game, if not already done
 
 H+15 min: [Gong] The phantoms each become embodied at their location, and accost the players they see passing by.
@@ -64,6 +66,8 @@ H+X: [Music] Prepare for the unmasking of the traitor (quarrel between the Duche
 H+X: [Music] Prepare for the players' intrusion into the Magus's tomb
 
 H+X: The Arkon can go and question (or even make them swear) the various groups of players, as to what they will do with the portals leading to the library, if they come out of it alive. {% xfact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
+
+H+X: [Music] If the Fallen have their elixir and the 4 crystals, prepare for their connection to the {% symbol "Abyssal Vortex" for "link_to_demonic_space" %} through the {% symbol "Spiritual Orb" for "spiritual_orb_name" %}, then their exorcism with the Diakons (see "The psychic demon trap" in the manual), before the final battle.
 
 H+X: Give the Druid the grimoire emitting occult sounds, and the Thanatologue. The Druid goes and sits near the pentacle, delighted, with his readings which he proclaims to be promising for escaping from the place. The Ankou goes to prepare for his final speech. {% xitem "mystic_soundtrack_for_druid_magic_books" is needed %}
 

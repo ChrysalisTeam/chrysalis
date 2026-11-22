@@ -286,7 +286,7 @@
     - "Petite pyramide en plastique pour hologramme, avec un message secret en hiéroglyphes IMPORTANT"
     - "Boule plasma représentant l'orbe spirituel (nécessite 4xAAA ou USB) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
     - "6 grands portraits lenticulaires effrayants avec une PLUME de prophétie {% xitem 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
-    - "Petit puits en cuivre  avec un message secret \"puits inutile\" en hiéroglyphes {% xitem 'longevity_metal_well' is provided %}"
+    - "Petit puits en cuivre avec son mini-seau attaché, et un message secret \"puits inutile\" en hiéroglyphes {% xitem 'longevity_metal_well' is provided %}"
     - "Trône en bois à cachette coulissante, avec dessus un mini-crâne illuminé LED (3xLR44 incluses)"
     - "Pyramide à base carrée en résine epoxy dans le trône en bois {% xitem 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT ??? CHANGE"
     - "Petite balance à plateaux en bois et laiton{% xitem 'tiny_metal_scale' is provided %} IMPORTANT"
@@ -436,6 +436,7 @@
   - "@ACCESSOIRES-JOUEURS Matériel des DIACRES IMPORTANT"
   -
     - "DIACRES : 4 étoles violettes"
+    - "DIACRES : Besace avec deux souris grises en peluche, confiée par l'oracle (facultatif, seulement si l'équipe des déchus est jouée) {% xitem 'grey_mice_satchel_for_diakons' is provided %}"
     - "DIACRE INVOCATEUR : Encensoir en argent plaqué avec chainettes {% xitem 'incense_burner_for_invoker' is provided %}"
     - "DIACRES : Lanterne aspect bronze Lunartec (nécessite 4xAA)"
 

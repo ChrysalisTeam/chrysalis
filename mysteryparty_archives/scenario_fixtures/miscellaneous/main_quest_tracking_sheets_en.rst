@@ -64,3 +64,18 @@ TRACKING SHEET FOR THE ARKON - Quest of the Diakons of Bahamoot
 ---
 
 **The Diakons' main objective is to restore the order of things in the library: neutralise the Beast, free the imprisoned souls, and send the avatars back to their own worlds. And even make sure that the library does no more harm, in the long run.**
+
+
+.. raw:: pdf
+
+   PageBreak
+
+
+TRACKING SHEET FOR THE GAME MASTER - Quest of the Fallen (optional secret team)
+========================================================================================
+
+<{ dragons_group_symbols }/>
+
+---
+
+<{ dragons_group_main_quest }/>

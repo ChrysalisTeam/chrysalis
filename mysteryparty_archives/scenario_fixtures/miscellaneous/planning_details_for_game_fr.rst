@@ -19,6 +19,8 @@ H : [Musique] Les automates de service amènent les groupes de joueurs respectiv
 
 H+2mn : [Frénésie] Se tenir prêt à déclencher la musique de la **frénésie spectrale** si un joueur appuie sur la clochette argentée.
 
+H+5mn : Si l'équipe des déchus est jouée, ses deux "automates" vont à la rencontre des diacres ; ils retirent alors leurs {% symbol "rubans blancs" for "automaton_symbolic_cloth" %}, et jouent désormais leur propre rôle (voir "Les déchus" dans le manuel).
+
 H+8mn : [Cloche] Entrée en jeu des fantômes si ce n'est déjà fait
 
 H+15mn : [Gong] Les fantômes s'incarnent chacun à leur emplacement, et interpellent les joueurs qu'ils voient passer.
@@ -64,6 +66,8 @@ H+X : [Musique] Anticiper le démasquage du traître (dispute de la duchesse et 
 H+X : [Musique] Anticiper l'intrusion des joueurs dans le tombeau du mage
 
 H+X : L'arkonte peut aller interroger (voire faire jurer) les différents groupes de joueurs, quant à ce qu'ils feront des portails menant à la bibliothèque, s'ils en réchappent. {% xfact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
+
+H+X : [Musique] Si les déchus ont leur élixir et les 4 cristaux, anticiper leur connexion au {% symbol "Vortex Abyssal" for "link_to_demonic_space" %} par l'{% symbol "orbe spirituel" for "spiritual_orb_name" %}, puis leur exorcisme avec les diacres (voir "Le piège psychique à démons" dans le manuel), avant la bataille finale.
 
 H+X : Donner au druide le grimoire émettant des sons occultes, et le Thanatologue. Le druide va s'asseoir près du pentacle, ravi, avec ses lectures qu'il proclame être prometteuses pour s'échapper du lieu. L'Ankou va se préparer pour son discours final. {% xitem "mystic_soundtrack_for_druid_magic_books" is needed %}
 

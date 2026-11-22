@@ -12,6 +12,8 @@ But all of you are **{% symbol "initiates" for "ritualist_kind_name" %}**, which
 
 However, a few days earlier, the monastery's oracle received mystical visions, warning her that a beast drunk with rage, and souls in torment, were held prisoner on the outskirts of the Maupertuis manor. Abnormal interference with parallel worlds was also sensed in those surroundings. Your small team therefore went there without delay, in order to restore the order of things.
 
+As you were leaving, the oracle also entrusted you, with mysterious insistence, with a satchel holding **two grey baby mice**, to be carried into the sanctuary at all costs; she could not tell you why.
+
 You were soon joined by a **renegade Djinn** (cut off from his community), who showed an interest in your quest. By combining invocations and prayers, you gave him an immaterial body for a few weeks, so that he could assist you with his knowledge. But your joint investigations yielded nothing.
 
 <{ monolith_found_by_explorers }/>

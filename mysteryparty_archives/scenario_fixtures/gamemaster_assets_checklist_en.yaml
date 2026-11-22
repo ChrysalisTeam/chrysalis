@@ -286,7 +286,7 @@
     - "Small plastic hologram pyramid, with a secret message in hieroglyphs IMPORTANT"
     - "Plasma ball representing the Spiritual Orb (needs 4xAAA or USB) on its wooden pedestal with plastic crystals (fragile) IMPORTANT"
     - "6 large scary lenticular portraits with a prophecy FEATHER {% xitem 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
-    - "Small copper well with a secret message \"useless well\" in hieroglyphs {% xitem 'longevity_metal_well' is provided %}"
+    - "Small copper well with its attached mini bucket, and a secret message \"useless well\" in hieroglyphs {% xitem 'longevity_metal_well' is provided %}"
     - "Wooden throne with a sliding hiding place, topped by an LED-lit mini skull (3xLR44 included)"
     - "Square-based epoxy resin pyramid in the wooden throne {% xitem 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT ??? CHANGE"
     - "Small wood and brass pan scale{% xitem 'tiny_metal_scale' is provided %} IMPORTANT"
@@ -436,6 +436,7 @@
   - "@ACCESSOIRES-JOUEURS Equipment of the DIAKONS IMPORTANT"
   -
     - "DIAKONS: 4 purple stoles"
+    - "DIAKONS: Satchel with two grey plush mice, entrusted by the oracle (optional, only if the team of the Fallen is played) {% xitem 'grey_mice_satchel_for_diakons' is provided %}"
     - "DIAKON INVOKER: Silver-plated censer with little chains {% xitem 'incense_burner_for_invoker' is provided %}"
     - "DIAKONS: Lunartec bronze-look lantern (needs 4xAA)"
 

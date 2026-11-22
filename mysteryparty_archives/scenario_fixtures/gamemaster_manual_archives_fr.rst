@@ -13,7 +13,7 @@ Lorsque la nuit tombe sur les archives secrètes des Maupertuis, trois mondes s�
 
 Plongez dans cet antre d’art et de magie, et brisez la malédiction qui y maintient les âmes prisonnières.
 
-*"Les Archives Secrètes Des Maupertuis" est une soirée-mystère pour 12 joueurs, qui se joue en 3-4h environ.*
+*"Les Archives Secrètes Des Maupertuis" est une soirée-mystère pour 12 à 14 joueurs (4 équipes de 3, plus une équipe secrète facultative de 2 joueurs), qui se joue en 3-4h environ.*
 
 
 Concept détaillé
@@ -300,6 +300,22 @@ Le vêtement de reconnaissance des agents secrets mirandiens est un **brassard v
 Leur devise est **"Mirandia pour toujours brillera"**, avec un salut militaire la main contre la tempe.
 {% endmacro %}
 <{ spy_group_symbols }/>
+
+Les déchus (équipe secrète facultative)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ces 2 joueurs incarnent {% symbol "Bahamoot" for "god_of_diakons" %} et Béhémoth, des dieux-dragons venus d'un outre-monde, le {% symbol "Vortex Abyssal" for "link_to_demonic_space" %}, aujourd'hui corrompu par des démons. Pour agir dans les archives sans être des proies faciles pour ces démons, ils se sont incarnés en deux souriceaux gris, **Pistache et Cajou**, que l'oracle du {% symbol "Monastère de Rochesombre" for "common_monastery_name" %} a confiés aux diacres. Les diacres ignorent tout de leur véritable nature. {% xitem 'grey_mice_satchel_for_diakons' is needed %}
+
+Cette équipe est facultative : sans elle, le jeu se déroule normalement, et le {% symbol "Vortex Abyssal" for "link_to_demonic_space" %} reste un simple piège (voir l'orbe spirituel plus bas). Leur quête est décrite dans "Le piège psychique à démons (déchus)".
+
+{% macro dragons_group_symbols() %}
+Les déchus se présentent aux briefings comme de simples **automates**, et en jouent réellement le rôle au début de la soirée (avec les {% symbol "rubans blancs" for "automaton_symbolic_cloth" %} des automates, une démarche et une voix mécaniques).
+
+Lorsqu'ils rencontrent les diacres de {% symbol "Bahamoot" for "god_of_diakons" %}, on considère que les souris s'échappent de la besace des diacres, et prennent chacune le contrôle d'un automate : les déchus **retirent alors leurs rubans blancs** (si des souris en peluche sont utilisées, les diacres rangent discrètement leur besace). Dès lors, ils font partie du monde des vivants (ils craignent donc les fantômes errants comme un humain), ils sont soumis au {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}, et ils **n'obéissent plus** au {% symbol 'Dominion' for 'androids_command_bracelet_name' %} de l'inventeur. Ils gardent une attitude un peu mécanique.
+
+Ils choisissent librement le moment où ils révèlent leur origine draconique, aux diacres ou à tous.
+{% endmacro %}
+<{ dragons_group_symbols }/>
 
 Figurants
 =========
@@ -1144,7 +1160,7 @@ Ces emplacements attendent chacun un objet-clé, qui est une moulure en résine 
 {% xitem 'spiritual_orb_key_cube_is_needed' is needed %}
 {% xitem 'spiritual_orb_key_diamond_is_needed' is needed %}
 
-Il est indiqué, par un blason (à triade de flammes) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"vortex abyssal"**. {% xfact "anthropologist_knows_about_fire_triad_emblem" %} {% xitem 'abyssal_vortex_hint_in_thanatologue' is needed %}
+Il est indiqué, par un blason (à triade de flammes) que l'anthropologue connait, et par un extrait du Thanatologue, qu'en rassemblant ces cristaux et en clamant une certaine formule magique, on peut ouvrir le **"{% symbol "Vortex Abyssal" for "link_to_demonic_space" %}"**. {% xfact "anthropologist_knows_about_fire_triad_emblem" %} {% xitem 'abyssal_vortex_hint_in_thanatologue' is needed %}
 
 Les avatars ou fantômes Maupertuis ne savent rien à ce sujet, mais l'arkonte se méfie de cet artefact méconnu. {% xfact "arkon_does_not_know_about_spiritual_orb_magic" %}
 
@@ -1155,11 +1171,32 @@ Exemples de gages :
 - l'alchimiste boit une de ses potions (non létale)
 - d'autres se mettent à utiliser en vain leur détecteur de métaux, leur lampe UV, sans but...
 
+Exception : les déchus (s'ils sont joués) qui ont bu leur élixir de renforcement mental ne subissent pas ces gages, car attirer ces démons est précisément leur plan (voir "Le piège psychique à démons (déchus)" ci-dessous).
+
 Cet orbe peut aussi ouvrir des passages vers d'autres strates de la réalité. En particulier, le voleur connait la formule permettant d'ouvrir un passage vers la **{% symbol "Source de Savoir" for "link_to_djinn_world" %}**. Si les joueurs posent le doigt sur l'orbe connecté à ce monde-ci, ils deviennent liés au **monde invisible des Djinns**, petits esprits curieux, invisibles, inoffensifs, qui errent un peu partout. {% xfact "phantom_thief_knows_formula_of_link_to_djinn_world" %}
 
 Les joueurs peuvent utiliser ce don comme un moteur de recherche historique, et poser au maître de jeu des questions sur le lore de cette planète, sur les grands aspects de l'histoire des Maupertuis. Les djinns ne savent pas tout, ont des avis divergents, se trompent parfois, mais donnent des informations généralement instructives et utiles.
 
 Le **Djinn renégat**, joué par le maître de jeu, a en réalité été coupé de la communion avec ses congénères par les invocations frénétiques et dangereuses de l'arkonte lors du combat tragique ; il recherche donc un artefact magique pour pouvoir se reconnecter à son monde spirituel, qui n'est autre que la {% symbol "Source de Savoir" for "link_to_djinn_world" %}.
+
+
+Le piège psychique à démons (déchus)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*Ceci est la quête de l'équipe secrète facultative des déchus.*
+
+{% macro dragons_group_main_quest() %}
+**Les déchus ont pour principal objectif de délivrer leur monde natal, le {% symbol "Vortex Abyssal" for "link_to_demonic_space" %}, des démons qui le corrompent : attirer ces démons dans leur propre esprit, renforcé par un élixir, grâce à l'{% symbol "orbe spirituel" for "spiritual_orb_name" %}, puis les en chasser définitivement par un exorcisme réalisé avec les diacres.**
+
+- **L'élixir** : il faut faire infuser les clochettes pourpres de l'Holistix (un des pots de fleurs séchées du laboratoire d'alchimie) dans une Potion de Focus (laboratoire d'alchimie, ou ceinture du crocheteur), idéalement avec l'aide de l'alchimiste Parcival. Une goutte suffit à chaque déchu (ce sont des souris). {% xitem 'purple_bell_plant_in_vial' is needed %}
+- **La connexion** : il faut réunir les 4 cristaux sur le plateau de l'orbe, et clamer la formule d'ouverture du {% symbol "Vortex Abyssal" for "link_to_demonic_space" %} (extrait du {% symbol "Thanatologue" for "book_of_the_dead" %}), ce qui allume la boule à plasma. Les déchus qui ont bu l'élixir posent alors le doigt sur l'orbe, pendant que les diacres les entourent en psalmodiant : ils attirent les légions démoniaques dans leur esprit sans subir de gages, mais se comportent ensuite en possédés (agitation, voix caverneuse), tout en gardant le contrôle de leurs actes. Sans l'élixir, ils subissent les gages habituels, comme tout joueur.
+- **L'exorcisme final** : aucun rituel connu ne suffit ; les déchus doivent utiliser leur **Innovation rituelle** pour enseigner aux diacres un exorcisme de leur invention, que le maître de jeu valide s'il est cohérent (par exemple : l'exorciste chasse les démons des possédés, pendant que les autres {% symbol "initiés" for "ritualist_kind_name" %} psalmodient en cercle autour d'eux, après une gorgée de Potion de Focus chacun). En cas de réussite, la boule à plasma s'éteint définitivement, et le {% symbol "Vortex Abyssal" for "link_to_demonic_space" %} redevient le paisible monde des dragons. Si l'exorcisme n'est pas tenté ou échoue, les déchus restent possédés jusqu'à ce qu'un exorcisme réussisse, et leur quête est un échec.
+- Si l'Innovation rituelle a déjà été dépensée pour autre chose, le maître de jeu peut accepter que l'exorciste réalise l'exorcisme final avec son Expulsion d'esprit habituelle, lancée sur chaque possédé tour à tour, mais seulement si la connexion a été faite avec l'élixir.
+- Veiller à ce que cette quête ne retarde pas trop la quête finale (rituel d'expulsion et bataille contre le druide) : l'exorcisme des déchus doit avoir lieu avant.
+- **Récompense** : le petit puits en cuivre "inutile" du laboratoire de divination fonctionne réellement. Si un humain y descend, avec le petit seau attaché, 5 grammes de diamants (pesés sur la petite balance à plateaux du même laboratoire ; le maître de jeu apprécie la quantité), il gagne une triple longévité ; cela n'a aucun autre effet en jeu, et les diamants sont perdus. {% xitem "longevity_metal_well" is needed %} {% xitem "tiny_metal_scale" is needed %}
+- **Salvation** (une seule fois en tout) : les déchus réunis restaurent un humain mourant, qui guérit alors de toutes ses blessures, y compris surnaturelles.
+{% endmacro %}
+<{ dragons_group_main_quest }/>
 
 
 Survol des compétences spécifiques des participants
