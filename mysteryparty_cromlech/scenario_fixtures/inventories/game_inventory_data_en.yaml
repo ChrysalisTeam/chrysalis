@@ -25,7 +25,7 @@
   - 'Wooden chest with 4-digit padlock (code: {% symbol "2681" for "wooden_chest_code" %}) {% xitem "Coffre en bois avec cadenas à 4 chiffres" is provided %} IMPORTANT'
   - 'Cryptex containing the medieval parchment, with the password "{% symbol "secret" for "cryptex_code" %}" {% xitem "Cryptex contenant le parchemin médiéval" is provided %} IMPORTANT'
   - 'Paper with the symbols of Gaulish mythology (1 copy at the Treasure, plus 1 per group for the interlude) {% xitem "Papier avec les symboles de la mythologie gauloise" is provided %} IMPORTANT'
-  - 'Medieval letter explaining the cromlech runes {% xitem "Lettre médiévale expliquant les runes du cromlech" is provided %} IMPORTANT'
+  - 'Medieval letter explaining the cromlech runes (it is the medieval parchment to be rolled up in the cryptex: game_clues document) {% xitem "Lettre médiévale expliquant les runes du cromlech" is provided %} IMPORTANT'
   - 'Empty scabbard of the ancient gladius, laid with the armour {% xitem "Fourreau vide du glaive antique" is provided %}'
   - 'Dried bloodstain on the floor, under a moved armchair (fake stain near the artefacts) {% xitem "Tache de sang séché au sol, sous un fauteuil déplacé" is provided %}'
   - 'Revolver with one bullet missing (fake, to be hidden behind a pile of books in the Treasure Room, for update #3) {% xitem "Revolver où il manque une balle" is provided %}'

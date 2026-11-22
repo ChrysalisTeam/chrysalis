@@ -25,7 +25,7 @@
   - '{% item "Coffre en bois avec cadenas à 4 chiffres" is provided %} (code : {% symbol "2681" for "code_du_coffre_en_bois" %}) IMPORTANT'
   - '{% item "Cryptex contenant le parchemin médiéval" is provided %}, et ayant pour code "{% symbol "secret" for "code_du_cryptex" %}" IMPORTANT'
   - '{% item "Papier avec les symboles de la mythologie gauloise" is provided %} (1 exemplaire au Trésor, plus 1 par groupe pour l''interlude) IMPORTANT'
-  - '{% item "Lettre médiévale expliquant les runes du cromlech" is provided %} IMPORTANT'
+  - '{% item "Lettre médiévale expliquant les runes du cromlech" is provided %} (c''est le parchemin médiéval à rouler dans le cryptex : document game_clues) IMPORTANT'
   - '{% item "Fourreau vide du glaive antique" is provided %}, posé avec l''armure'
   - '{% item "Tache de sang séché au sol, sous un fauteuil déplacé" is provided %} (tache factice près des artefacts)'
   - '{% item "Revolver où il manque une balle" is provided %} (factice, à cacher derrière un tas de livres de la salle du Trésor, pour le complément #3)'
