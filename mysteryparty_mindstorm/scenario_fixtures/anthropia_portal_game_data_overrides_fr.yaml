@@ -96,7 +96,7 @@ abilities:
 
             reports:
                 amphora: |
-                    Amphore commune des civilisation avant-Tunguska, en mortier gras.
+                    Amphore commune des civilisations avant-Tunguska, en mortier gras.
 
                     Présence de runes akarites en poudre de pierre bleue.
 
@@ -129,7 +129,7 @@ abilities:
 
                     Coffre fabriqué à partir d'un mélange assez particulier d'essences de bois akarites : bouleau-saule, pin pleureur, et hêtre gris.
 
-                    Les ferronnerie, en fer de basse qualité, sont fortement rouillées.
+                    Les ferronneries, en fer de basse qualité, sont fortement rouillées.
 
                     Aucune inscription visible.
 
@@ -148,7 +148,7 @@ abilities:
 
                     Quelques taches de cire de bougie en bord de page.
 
-                    Inscription griffonnée sur la dernière page, en akarite ancien, signifiant : "attentions aux extras, recettes à double tranchant"
+                    Inscription griffonnée sur la dernière page, en akarite ancien, signifiant : "attention aux extras, recettes à double tranchant"
 
                 horned_statue: |
 
@@ -172,7 +172,7 @@ abilities:
 
                     Contient des résidus d'un mélange aqueux, dont les interactions chimiques inhabituelles empêchent hélas une analyse fine au niveau moléculaire.
 
-                    Poportions des composantes de ce mélange
+                    Proportions des composantes de ce mélange
 
                     - 25% de chair fongique
                     - 30% de chair végétale
@@ -302,7 +302,7 @@ abilities:
                           Quartiers 77, 79, 88
 
                         Région de Cazoar:
-                          Quartier 99, 233
+                          Quartiers 99, 233
 
             middlewares:
                 scan_form:
@@ -524,7 +524,7 @@ messaging:
             body:
                 - &lg_orb_clue_intro "Agents, notre surveillance rapprochée de Loyd Georges et son entourage commencent à payer ; nous avons appris que le sir avait confié son orbe à l'un de ses proches. Nous avons un indice sur la localisation de ce dernier :"
                 - "**il habiterait en face d'un Centre Commercial GigAchat**"
-                - &lg_orb_clue_ending "C'est bien évidemment insuffisant pour l'instant, mais nous comptons dur vous pour circonscrire davantage la localisation de cette cachette."
+                - &lg_orb_clue_ending "C'est bien évidemment insuffisant pour l'instant, mais nous comptons sur vous pour circonscrire davantage la localisation de cette cachette."
 
 
         -   id: dorian_initial_orb_hint
@@ -636,7 +636,7 @@ messaging:
                 évoluer notre position.
 
                 En cas d'élements probants apportés par les autorités judiciaires d'un pays, il sera donc
-                possibel que nous leur donnions accès aux données d'un compte Anthropia incriminé, ce qui
+                possible que nous leur donnions accès aux données d'un compte Anthropia incriminé, ce qui
                 inclura naturellement l'accès aux comptes qui lui sont liés par une "Amitié Numérique".
 
                 Veuillez en prendre note,
@@ -750,7 +750,7 @@ messaging:
                 Agents, un indic’ sabarite nous a prévenu que le consul Mundlish Odalisc, sentant sa défaite électorale approcher, avait fait glisser un document compromettant dans la doublure d'une valise du couple Magnus.
 
                 Il espère sans doute faire tomber cela, « accidentellement », dans les mains des forces de police.
-            gamemaster_hints: "Information que les masslves peuvent utiliser pour négocier, ou juste empêcher le déchéance de la famille Magnus"
+            gamemaster_hints: "Information que les Masslaves peuvent utiliser pour négocier, ou juste empêcher la déchéance de la famille Magnus"
 
 
         -   id: misc_sabarim_gazette_news_in_advance
@@ -790,7 +790,7 @@ messaging:
             subject: "Attention aux radiations du livret"
             body: |
 
-                Chers Pr Loakim et sir Lord Georges,
+                Chers Pr Loakim et sir Loyd Georges,
 
                 je suis toujours sur le discret chemin du retour vers Kéroskia, mais je me dois de vous alerter en urgence, car ma valise a été controlée positive aux rayonnements atomiques dans le port de Kotlal. Le sarcophage de plomb dans lequel le manuscrit se trouvait devait être notoirement radioactif, sans doute à cause des roches granitiques environnantes. Il est donc plus que probable que le fameux livet le soit aussi, même si le niveau de radiation ne doit pas être aussi fort. Évitez de le porter sur vous.
 
@@ -839,7 +839,7 @@ messaging:
 
                 Nos forces sont insuffisantes pour intervenir à autant d'endroits à la fois, et nous ne pouvons risquer de voir ces fanatiques s'égayer dans la nature (surtout leurs maudits tunnels...).
 
-                Tâchez donc d'obtenir le soutien de groupes obérons dans les villes de **{{ 2_OU_3_VILLES_SABARITES }}**, afin qu'ils suivent à la trace les mouvements des infiltrés lorsque nous frappons à un endroid. Ou mieux encore, si vous pouvez engager une compagnie d'une **centaine de mercenaires**, nous lancerons un assaut synchronisé sans risque d'entourloupe). Nous autres du service d'intelligence sabarite n'avons hélas plus l'oreille des uns ni des autres, suite aux manigances des consuls, et à des opérations calamiteusement menées par le passé...
+                Tâchez donc d'obtenir le soutien de groupes obérons dans les villes de **{{ 2_OU_3_VILLES_SABARITES }}**, afin qu'ils suivent à la trace les mouvements des infiltrés lorsque nous frappons à un endroit. Ou mieux encore, si vous pouvez engager une compagnie d'une **centaine de mercenaires**, nous lancerons un assaut synchronisé sans risque d'entourloupe). Nous autres du service d'intelligence sabarite n'avons hélas plus l'oreille des uns ni des autres, suite aux manigances des consuls, et à des opérations calamiteusement menées par le passé...
 
                 Nous attendons vos retours en vue d'un assaut.
 
@@ -852,7 +852,7 @@ messaging:
             body: |
                 Agents, des communications interceptées indiquent que la journaliste présente au manoir garderait chez elle des éléments accablants contre le duc dorien, ayant trait à une "profanation de symbole religieux".
 
-                 Maintenant que la Dorie a choisi de trahir l’alliance anti-akarite, il faut que cette journaliste comprenne que semer la zizanie dens ce nouvel « empire » est notre meilleure chance de sauver la paix pour le reste de Pangéa. À vous d'agir.
+                 Maintenant que la Dorie a choisi de trahir l’alliance anti-akarite, il faut que cette journaliste comprenne que semer la zizanie dans ce nouvel « empire » est notre meilleure chance de sauver la paix pour le reste de Pangéa. À vous d'agir.
             gamemaster_hints: "Télégramme tardif, si la Dorie a rejoint le camp des Akarites"
 
 
@@ -1035,7 +1035,7 @@ audio_messages:
 
     "52_ormh_university_discovery":
          "title": >-
-             Découverte scientifique majeure au Navalut
+             Découverte scientifique majeure au Nalavut
          "text": >-
              \audio=mix="new_loud_strings_intro_013";volume=100\ \pau=4000\ \pau=4000\ \vce=speaker=Antoine\
              L'université d'Ohmrh, au Nalavuth, a divulgué le résultat de ses recherches sur la relation entre énergie et matière.
