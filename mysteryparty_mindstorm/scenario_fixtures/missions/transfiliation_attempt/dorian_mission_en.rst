@@ -18,7 +18,7 @@ You also have authority as **negotiators**, to find common ground that suits all
 
 I must however warn you that it is with a heavy heart that I give you these missions; a wind of bitterness is indeed blowing among the Dorian population, which is beginning to regard our Duke's manoeuvres no longer as cautious diplomacy, but as submission, or even treason towards our former Masslavian and Heliossarian allies. I do not know what the new terms for the Dorians will be, but they will have to be compared with the default solution, that is to say a terrible war against the Akariths, alongside the other non-Akarith states.
 
-Note that the outcome of all this will also depend on the other speakers who will testify before the council. It has thus leaked that **Prof. Schaladuk**, an expatriate Akarith sociologist living in Doria, could be asked to give his opinion on what the Dorians generally think of Akarith worship; and his answer is hard to predict.
+Note that the outcome of all this will also depend on the other speakers who will testify before the council. It has thus leaked that a **Masslavian expert in Yodic history** could be asked to give her opinion on what the Dorians generally think of Akarith worship; and her answer is hard to predict.
 
 
 *Colonel Der'Ham, Head of the Dorian Secret Services*
