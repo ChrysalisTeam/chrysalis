@@ -60,7 +60,7 @@ game_items:
 
     3_green_tourmalines:
         is_gem: True
-        total_price: 115
+        total_price: 114  # 38¤ per unit
         num_items: 3
         auction: "2-A"
         image: "3_green_tourmalines.jpg"
@@ -104,7 +104,7 @@ game_items:
         num_items: 6
         auction: "2-E"
         image: "6_different_gems_case.png"
-        title: "6 diamants d'exception"
+        title: "6 gemmes d'exception"
         comments: "Chapeau bas devant ces exemplaires rarissimes des plus précieuses pierres existantes."
         gamemaster_hints: "Utiles pour débloquer des informations rares."
 
@@ -191,7 +191,7 @@ game_items:
 
     6_sapphire_gems:
         is_gem: True
-        total_price: 1200
+        total_price: 1140  # 190¤ per unit, just under the djinns' 200¤ minimum: these "trap" gems can't pay them
         num_items: 6
         auction: "3-E"
         image: "6_sapphire_gems.png"
