@@ -94,7 +94,7 @@
 -
   - "@RECOINS-BUFFET-PENTACLE Coin du fantôme de l’enfant (près de la jungle) {% xfact 'phantom_octave_is_near_jungle' %}"
   -
-    - "@EXTERNE-VALISETTE-CUIR Valise avec quelques vieux vêtements aléatoires (bien enlever l'étiquette FABRE de dedans) ????"
+    - "@EXTERNE-VALISETTE-CUIR Valise avec quelques vieux vêtements aléatoires (bien enlever l'étiquette FABRE de dedans)"
     - "Livre déchiré avec des animaux en mouvement pour le coin de l'enfant {% xitem 'torn_child_book_with_animal_motions' is provided %} IMPORTANT"
     - "Livre jeunesse avec couverture cuir cloutée \"Extraterrestre appelle CM1\" pour le coin de l'enfant"
     - "@PAPIERS Lettre des parents d'Octave avec des instructions pour son adoubement, dans la valise de l'enfant {% xitem 'maupertuis_initiation_instructions_for_octave' is provided %} IMPORTANT"
@@ -287,7 +287,8 @@
     - "6 grands portraits lenticulaires effrayants avec une PLUME de prophétie {% xitem 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
     - "Petit puits en cuivre avec son mini-seau attaché, et un message secret \"puits inutile\" en hiéroglyphes {% xitem 'longevity_metal_well' is provided %}"
     - "Trône en bois à cachette coulissante, avec dessus un mini-crâne illuminé LED (3xLR44 incluses)"
-    - "Pyramide à base carrée en résine epoxy dans le trône en bois {% xitem 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT ??? CHANGE"
+    # Author note: this square-based pyramid crystal might be replaced by another prop later (was marked "??? CHANGE")
+    - "Pyramide à base carrée en résine epoxy dans le trône en bois {% xitem 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT"
     - "Petite balance à plateaux en bois et laiton{% xitem 'tiny_metal_scale' is provided %} IMPORTANT"
     - "Deux livres beiges épais \"Itinéraire de la France\""
     - "Cadre photo numérique Kodak Easyshare avec images occultes (alimentation secteur)"
@@ -328,7 +329,7 @@
     - "Potion de Fungal Bleu (orangée) {% xitem 'potion_blue_fungal_in_toxic_corridor' is provided %} IMPORTANT"
     - "Potion de Fungal Rouge (rouge foncé) {% xitem 'potion_red_fungal' is provided %} IMPORTANT"
     - "Potion Délieur de Langue {% xitem 'potion_tongue_untier' is provided %} IMPORTANT"
-    - "Optionnellement, lot de plusieurs potions sans importance : YYY, ZZZ etc."
+    - "Optionnellement, lot de plusieurs potions sans importance (noms au choix, étiquetés)"
 
 -
   - "@NICHE-BÊTE Niche de la Bête"
@@ -376,7 +377,7 @@
     - "Consommables divers : papier parchemin, papier aimanté, feuilles colorées pour spots lumineux"
     - "Réserve de piles tous formats (AAA, AA, CR2032, rectangulaires...)"
     - "Feuilles de journal ancien avec épingles dorées, pour mieux reconnaître les avatars (optionnel)"
-    - "@ELECTRONIQUE 2 paires de pouces à LED (verte et rouge) A DISTRIBUER (quelles piles ?)"
+    - "@ELECTRONIQUE 2 paires de pouces à LED (verte et rouge) A DISTRIBUER (vérifier leurs piles avant le jeu)"
     - "@CORRIDORS 1 gros grimoire rouge creusé pour accueillir tablette/papiers"
     - "@ELECTRONIQUE Tablette tactile Logicom Mbot tab 71 pour sceaux d'énigmes, et méditations finales du méchant"
     - "Cônes d'encens pour la fontaine magique (optionnel)"
@@ -426,7 +427,7 @@
   - "@ACCESSOIRES-FIGURANTS Matériel de l'avatar INVENTEUR"
   -
     - "INVENTEUR : Bracelet large argenté \"{% symbol 'Dominion' for 'androids_command_bracelet_name' %}\" de commandement des automates avec code d'analyse [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% xitem 'androids_command_silver_white_ribbon_bracelet_for_inventor' is provided %} IMPORTANT"
-    - "@ELECTRONIQUE INVENTEUR : Piles format (cylindre + rectangle) pour lampe UV ou détecteur de métal cassé {% xitem 'explorer_unveiler_uv_lamp_battery' is provided %} {% xitem 'spy_sounder_metal_detector_battery' is provided %} IMPORTANT ???"
+    - "@ELECTRONIQUE INVENTEUR : Piles format (cylindre + rectangle) pour lampe UV ou détecteur de métal cassé {% xitem 'explorer_unveiler_uv_lamp_battery' is provided %} {% xitem 'spy_sounder_metal_detector_battery' is provided %} IMPORTANT"
     - "@ELECTRONIQUE INVENTEUR : Mégaphone Bontempi à écho (batterie / microUSB) avec Jack3.5 et Bluetooth, pour l'inventeur {% xitem 'echo_megaphone' is provided %}"
     - "INVENTEUR : Outils anciens d'ambiance : 1 petit tournevis, petit marteau, pince spéciale"
     - "INVENTEUR : Petite lanterne de camping à effet flamme (nécessite 3xAA)"
@@ -574,7 +575,7 @@
     - "Sac de toile grise : dragon en impression 3D bleu clair, micro-chaudron en cuivre, et thermomètre en bois (prêtés par Maëlibé)"
 
 -
-  - "@EXTRA-VETEMENTS ??????"
+  - "@EXTRA-VETEMENTS Vêtements de rechange pour les figurants et les joueurs"
   -
     - "Habits médiévaux : cape verte, pantalon marron, pantacourt noir, et chemises blanche, beige, et marron"
     - "Habits d'automates : vestons noirs et gris, pantalon gris, redingote bleue, redingote noire, cape à dentelle noire"
@@ -599,7 +600,7 @@
     - "13 diamants moyens rectangulaires (= 130 kashes) {% xitem 'diamonds_for_alchemy_recipes' is provided %}"
     - "5 grands diamants ronds (= 100 kashes)"
     - "Bracelet doré à gros diamant bleu (marqué non magique) valant environ 100 kashes [ETIQUETTE]"
-    - "Collier en bande dorée (marqué non magique) valant environ 60 kashes [ETIQUETTE] PERDU????"
+    - "Collier en bande dorée (marqué non magique) valant environ 60 kashes [ETIQUETTE] (s'il est perdu, le remplacer par un bijou de même valeur, pour garder le total)"
     - "Stylo doré avec gros diamant (marqué non magique) valant environ 60 kashes [ETIQUETTE]"
     # Soit 50 + 80 + 50 + 130 + 100 + 100 + 60 + 60 = 630 kashes en jeu
 

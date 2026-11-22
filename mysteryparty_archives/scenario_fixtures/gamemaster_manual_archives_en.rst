@@ -986,7 +986,7 @@ The various jewels:
 - Meredice's brooch, finally, was precisely the one the Thief had come to seek in the Forbidden Domain. He knows that it is in a metal box, in a corner of the library that has **collapsed**. He therefore sells this information dearly and reluctantly, knowing that he is no longer in a good position for the quest for the Maupertuis treasure. Octave also has a few less precise clues about where his sister kept her most precious belongings. {% xitem "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% xfact "thief_knows_about_location_of_maupertuis_daughter_jewel" %} {% xfact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}
 
-Entering the right symbols into the singing grimoire triggers a victory melody, and one must then simulate that the mill, when turned, produces a batch of gems; limited in number per day (one batch every X hours), but sufficient for the secret agents' quest. {% xitem 'jewels_set_for_grinding_mill_success' is needed %} {% xfact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
+Entering the right symbols into the singing grimoire triggers a victory melody, and one must then simulate that the mill, when turned, produces a batch of gems; limited in number (a single batch per day), but sufficient for the secret agents' quest. {% xitem 'jewels_set_for_grinding_mill_success' is needed %} {% xfact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
 
 With the magic mill and the singing grimoire, the secret agents have succeeded in their mission, provided they can leave the place.
 

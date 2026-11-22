@@ -986,7 +986,7 @@ Les différents bijoux :
 - La broche de Mérédice, enfin, était précisément celle que le voleur venait chercher dans le domaine interdit. Il sait qu'elle se trouve dans une boite en métal, dans un recoin de la bibliothèque qui s'est **effondré**. Il vend donc cette information chèrement et à contrecoeur, en sachant qu'il n'est plus en bonne posture pour la quête du trésor des Maupertuis. Octave a aussi quelques indices, moins précis, sur l'endroit où sa soeur gardait ses biens les plus précieux. {% xitem "maupertuis_daughter_jewel_under_rubbles_beyond_alchemist_laboratory" is needed %}
   {% xfact "thief_knows_about_location_of_maupertuis_daughter_jewel" %} {% xfact "octave_has_hints_about_location_of_maupertuis_daughter_jewel" %}
 
-Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité par jour (un lot toutes les X heures), mais suffisant pour la quête des agents secrets. {% xitem 'jewels_set_for_grinding_mill_success' is needed %} {% xfact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
+Rentrer les bons symboles dans le grimoire chantant déclenche une mélodie de victoire, et il faut alors simuler que le moulin, lorsqu’on le tourne, produit un lot de gemmes ; en nombre limité (un seul lot par jour), mais suffisant pour la quête des agents secrets. {% xitem 'jewels_set_for_grinding_mill_success' is needed %} {% xfact 'spy_country_needs_500_kashes_per_day_for_3_years' %}
 
 Avec le moulin magique et le grimoire chantant, les agents secrets ont réussi leur mission, à condition qu’ils puissent quitter les lieux.
 

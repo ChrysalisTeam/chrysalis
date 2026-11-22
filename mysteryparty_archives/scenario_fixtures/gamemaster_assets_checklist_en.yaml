@@ -94,7 +94,7 @@
 -
   - "@RECOINS-BUFFET-PENTACLE Child's phantom nook (near the jungle) {% xfact 'phantom_octave_is_near_jungle' %}"
   -
-    - "@EXTERNE-VALISETTE-CUIR Suitcase with a few random old clothes (be sure to remove the FABRE label from inside) ????"
+    - "@EXTERNE-VALISETTE-CUIR Suitcase with a few random old clothes (be sure to remove the FABRE label from inside)"
     - "Torn book with moving animals for the child's nook (mere decoration in the English version: only the French riddle used it)"
     - "Children's book with studded leather cover \"Extraterrestre appelle CM1\" for the child's nook"
     - "@PAPIERS Letter from Octave's parents with instructions for his dubbing, in the child's suitcase {% xitem 'maupertuis_initiation_instructions_for_octave' is provided %} IMPORTANT"
@@ -287,7 +287,8 @@
     - "6 large scary lenticular portraits with a prophecy FEATHER {% xitem 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
     - "Small copper well with its attached mini bucket, and a secret message \"useless well\" in hieroglyphs {% xitem 'longevity_metal_well' is provided %}"
     - "Wooden throne with a sliding hiding place, topped by an LED-lit mini skull (3xLR44 included)"
-    - "Square-based epoxy resin pyramid in the wooden throne {% xitem 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT ??? CHANGE"
+    # Author note: this square-based pyramid crystal might be replaced by another prop later (was marked "??? CHANGE")
+    - "Square-based epoxy resin pyramid in the wooden throne {% xitem 'spiritual_orb_key_square_base_pyramid' is provided %} IMPORTANT"
     - "Small wood and brass pan scale{% xitem 'tiny_metal_scale' is provided %} IMPORTANT"
     - "Two thick beige books \"Itineraire de la France\""
     - "Kodak Easyshare digital photo frame with occult images (mains power)"
@@ -328,7 +329,7 @@
     - "Blue Fungal potion (orange) {% xitem 'potion_blue_fungal_in_toxic_corridor' is provided %} IMPORTANT"
     - "Red Fungal potion (dark red) {% xitem 'potion_red_fungal' is provided %} IMPORTANT"
     - "Tongue-Loosening Potion {% xitem 'potion_tongue_untier' is provided %} IMPORTANT"
-    - "Optionally, a set of several unimportant potions: YYY, ZZZ etc."
+    - "Optionally, a set of several unimportant potions (names of your choice, labelled)"
 
 -
   - "@NICHE-BETE The Beast's den"
@@ -376,7 +377,7 @@
     - "Miscellaneous consumables: parchment paper, magnetic paper, coloured sheets for spotlights"
     - "Supply of batteries of all formats (AAA, AA, CR2032, rectangular...)"
     - "Old newspaper sheets with golden pins, to better recognise the avatars (optional)"
-    - "@ELECTRONIQUE 2 pairs of LED thumbs (green and red) TO HAND OUT (which batteries?)"
+    - "@ELECTRONIQUE 2 pairs of LED thumbs (green and red) TO HAND OUT (check their batteries before the game)"
     - "@CORRIDORS 1 big hollowed-out red grimoire to hold a tablet/papers"
     - "@ELECTRONIQUE Logicom Mbot tab 71 touch tablet for the riddle seals, and the villain's final meditations"
     - "Incense cones for the magic fountain (optional)"
@@ -426,7 +427,7 @@
   - "@ACCESSOIRES-FIGURANTS Equipment of the INVENTOR avatar"
   -
     - "INVENTOR: Wide silver \"{% symbol 'Dominion' for 'androids_command_bracelet_name' %}\" bracelet for commanding the automatons, with analysis code [{% symbol 'fzk' for 'analysis_code_androids_command_bracelet' %}] {% xitem 'androids_command_silver_white_ribbon_bracelet_for_inventor' is provided %} IMPORTANT"
-    - "@ELECTRONIQUE INVENTOR: Batteries (cylinder + rectangle formats) for the broken UV lamp or metal detector {% xitem 'explorer_unveiler_uv_lamp_battery' is provided %} {% xitem 'spy_sounder_metal_detector_battery' is provided %} IMPORTANT ???"
+    - "@ELECTRONIQUE INVENTOR: Batteries (cylinder + rectangle formats) for the broken UV lamp or metal detector {% xitem 'explorer_unveiler_uv_lamp_battery' is provided %} {% xitem 'spy_sounder_metal_detector_battery' is provided %} IMPORTANT"
     - "@ELECTRONIQUE INVENTOR: Bontempi echo megaphone (battery / microUSB) with Jack3.5 and Bluetooth, for the Inventor {% xitem 'echo_megaphone' is provided %}"
     - "INVENTOR: Old atmosphere tools: 1 small screwdriver, small hammer, special pliers"
     - "INVENTOR: Small flame-effect camping lantern (needs 3xAA)"
@@ -574,7 +575,7 @@
     - "Grey canvas bag: light blue 3D-printed dragon, copper micro cauldron, and wooden thermometer (lent by Maelibe)"
 
 -
-  - "@EXTRA-VETEMENTS ??????"
+  - "@EXTRA-VETEMENTS Spare clothes for the NPC actors and the players"
   -
     - "Medieval clothes: green cape, brown trousers, black cropped trousers, and white, beige and brown shirts"
     - "Automaton clothes: black and grey jackets, grey trousers, blue frock coat, black frock coat, black lace cape"
@@ -599,7 +600,7 @@
     - "13 medium rectangular diamonds (= 130 kashes) {% xitem 'diamonds_for_alchemy_recipes' is provided %}"
     - "5 large round diamonds (= 100 kashes)"
     - "Golden bracelet with a big blue diamond (marked non-magical) worth about 100 kashes [LABEL]"
-    - "Golden band necklace (marked non-magical) worth about 60 kashes [LABEL] LOST????"
+    - "Golden band necklace (marked non-magical) worth about 60 kashes [LABEL] (if it is lost, replace it with a jewel of the same value, to keep the total)"
     - "Golden pen with a big diamond (marked non-magical) worth about 60 kashes [LABEL]"
     # That is 50 + 80 + 50 + 130 + 100 + 100 + 60 + 60 = 630 kashes in the game
 
