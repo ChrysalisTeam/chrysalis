@@ -287,6 +287,8 @@ Accessible uniquement par un mince escalier en colimaçon.
 
 Le long du créneau : un stock de poix et de roches, une baliste en cours de fabrication.
 
+Si FOULQUES y a monté la poudre noire (voir "Jour 3 - matin") : les 2 tonnelets et le bidon de poix sont cachés derrière le globe terrestre, reliés à une longue mèche.
+
 Toutes les issues sont fermées. Des **protections magiques** empêchent d'ouvrir la porte, GAMMA (Childéric) peut les faire laborieusement sauter.
 
 C'est un laboratoire improvisé, plein de sceaux magiques, de grimoires, d'ustensiles et potions liés à la voyance.
@@ -348,7 +350,7 @@ Jour 3 - matin
   - Il demande à ce que "l'intendant" vienne le voir (c'est FOULQUES) ; celui-ci étant absent, il dit qu'on verra plus tard pour les paiements et les autres négoces, il a une journée chargée ; ils feront un **point par télémiroir** ; puis il s'en va.
 
 - Un olifant résonne (2 coups)
-- **IMPORTANT** : que font les squelettes du chargement de biens
+- **IMPORTANT** : que font les squelettes du chargement de biens ? La poudre noire et la poix sont destinées à la mise en scène de FOULQUES (voir "Le moment du drame") : si les carcasses les apportent au donjon, FOULQUES les monte discrètement dans la maisonnette au Jour 3 après-midi ; si elles les gardent, les utilisent contre les assaillants, ou les perdent, il les questionne nerveusement, et sa mise en scène tombe à l'eau
 - Un rat musqué arrive, avec un parchemin : "deux archers, un barde, et un marchand"
 - Ces 4 assaillants arrivent quelques minutes plus tard
 
@@ -420,7 +422,7 @@ Jour 3 - soir
 - Défenses possibles : baliste (si déjà finalisée avec cordages voire lunette de visée), puis arc, puis corps-à-corps
 - CONRAD et EULALIE protègent SAPHIR en bas, et canardent le ciel avec des rochers, depuis les jardins
 - Cri de ralliement de tous : **Pour la Perle de Sylvorann**
-- FOULQUES tente un nouveau sortilège, avec son bâton incandescent toujours, quand les mercenaires approchent : **Tornade**, qui a peu de chances de succès ; puis il redescend en salle du trône
+- FOULQUES tente un nouveau sortilège, avec son bâton incandescent toujours, quand les mercenaires approchent : **Tornade**, qui a peu de chances de succès ; puis il redescend en salle du trône ; si la poudre noire est dans la maisonnette, il comptait l'y faire exploser pendant cette attaque, mais n'ose pas tant que les carcasses et les abominations la défendent
 - En pire cas, les hussards arrivent à neutraliser les défenses hautes, et à entrer dans la maisonnette ; CONRAD escalade alors la tour par l'extérieur, ouvre de force la maisonnette, et fait la peau aux hussards
 
 
@@ -518,7 +520,7 @@ Paniqué, FOULQUES a mis le corps du mage dans le dépeçoir, et prétendu qu'il
 Mais là aussi EULALIE a récupéré ces ossements "robustes et doués de pouvoirs de vision lointaine" dans l'ossuaire, pour remplacer une autre carcasse.
 SAPHIR, elle, n'est rentrée de son bivouac que bien plus tard, la nuit précédant le Jour 3.
 
-FOULQUES a cherché un moyen de s'en tirer, achetant même des explosifs et autres équipements en vue d'une mise en scène... et c'est à ce moment que l'histoire du jeu a commencé.
+FOULQUES a cherché un moyen de s'en tirer, achetant même des explosifs et autres équipements en vue d'une mise en scène : faire sauter et brûler la maisonnette lors d'une prochaine attaque, pour faire croire que le mage Parcival y avait péri en pleine transe, tué par les assaillants (c'est la poudre noire et la poix livrées par Winkle au Jour 3 matin)... et c'est à ce moment que l'histoire du jeu a commencé.
 
 
 Les militaires et les hussards

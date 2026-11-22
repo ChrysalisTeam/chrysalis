@@ -287,6 +287,8 @@ Reachable only by a narrow spiral staircase.
 
 Along the battlements: a stock of pitch and rocks, a ballista under construction.
 
+If Foulques has carried the black powder up here (see "Day 3 - morning"): the 2 small casks and the can of pitch are hidden behind the terrestrial globe, connected to a long fuse.
+
 All the openings are shut. **Magical protections** prevent the door from being opened; GAMMA (Childeric) can laboriously break them.
 
 It is a makeshift laboratory, full of magic seals, grimoires, utensils and potions related to clairvoyance.
@@ -348,7 +350,7 @@ Day 3 - morning
   - He asks for "the steward" to come and see him (that is Foulques); since the latter is away, he says that payments and other dealings will be settled later, as he has a busy day; they will **catch up by telemirror**; then he leaves.
 
 - An oliphant sounds (2 blasts)
-- **IMPORTANT**: what do the skeletons do with the load of goods?
+- **IMPORTANT**: what do the skeletons do with the load of goods? The black powder and the pitch are meant for Foulques's staging (see "The moment of the tragedy"): if the carcasses bring them to the keep, Foulques discreetly carries them up to the cottage on Day 3 afternoon; if they keep them, use them against the attackers, or lose them, he questions them nervously, and his staging falls through
 - A muskrat arrives, with a parchment: "two archers, a bard, and a merchant"
 - These 4 attackers arrive a few minutes later
 
@@ -420,7 +422,7 @@ Day 3 - evening
 - Possible defences: the ballista (if already finished with ropes, or even with a sighting scope), then the bow, then hand-to-hand combat
 - CONRAD and EULALIE protect SAPHIR down below, and pelt the sky with rocks, from the gardens
 - Everyone's rallying cry: **For the Pearl of Sylvorann**
-- Foulques attempts a new spell, still with his white-hot staff, as the mercenaries approach: **Tornado**, which has little chance of success; then he goes back down to the throne room
+- Foulques attempts a new spell, still with his white-hot staff, as the mercenaries approach: **Tornado**, which has little chance of success; then he goes back down to the throne room; if the black powder is in the cottage, he meant to blow it up during this attack, but does not dare as long as the carcasses and the abominations are defending it
 - In the worst case, the hussars manage to neutralise the upper defences, and to get into the cottage; CONRAD then climbs the tower from the outside, forces the cottage open, and does the hussars in
 
 
@@ -518,7 +520,7 @@ Panicking, Foulques put the magus's body in the flaying machine, and claimed tha
 But there too, EULALIE recovered these "sturdy and far-sight-gifted" bones from the ossuary, to replace another carcass.
 SAPHIR, for her part, only came back from her bivouac much later, during the night before Day 3.
 
-Foulques looked for a way out, even buying explosives and other equipment with a staging in mind... and that is when the story of the game began.
+Foulques looked for a way out, even buying explosives and other equipment with a staging in mind: blowing up and burning the cottage during a future attack, to make everyone believe that Magus Parcival had perished there in the middle of his trance, killed by the attackers (this is the black powder and the pitch delivered by Winkle on Day 3 morning)... and that is when the story of the game began.
 
 
 The soldiers and the hussars
