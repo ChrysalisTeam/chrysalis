@@ -4627,9 +4627,9 @@ Chrysalis: Skeletons (Carcasses)
    * - le mage Parcival / le mage Childéric / le mage FOULQUES / l'apprenti FOULQUES
      - Magus Parcival / Magus Childeric / Magus Foulques / the apprentice Foulques
      - As in Archives: "Magus" before a name, "the magus" / "the magi" alone, never "mage". Childeric without accent; Foulques is never in capitals in English, unlike the other NPCs (CONRAD, SAPHIR...).
-   * - l'apothicaire Parcival / Monsieur Colbert
-     - Parcival the apothecary / Mr Colbert
-     - Same character as Sentience's "Colbert the apothecary" (row "apothicaire Colbert").
+   * - l'apothicaire Colbert, futur mage Parcival / Monsieur Colbert
+     - Colbert the apothecary, the future Magus Parcival / Mr Colbert
+     - Same character as Sentience's "Colbert the apothecary" (row "apothicaire Colbert"); he only takes the name Parcival after leaving Sylvorann.
    * - SAPHIR / Perle de Sylvorann
      - SAPHIR / Pearl of Sylvorann
      - Name verbatim (not "Sapphire"); "Pour la Perle de Sylvorann" = "For the Pearl of Sylvorann".
