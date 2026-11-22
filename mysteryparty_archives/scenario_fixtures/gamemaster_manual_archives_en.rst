@@ -534,6 +534,15 @@ The Duchess {% symbol "Cassiopeia de Thiersonne" for "duchess_name" %}
 {% endmacro %}
 <{ avatar_duchess_character_summary }/>
 
+The mummy of the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %} (the founder of the lineage)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- UNDEAD (a mere corpse, who does not speak; not to be confused with a phantom)
+
+- Small "jump scare" part, played by an NPC actor who is free at that moment (for instance an automaton, or the Game Master), with the golden papal alb, the golden mask and the skullcap of the tomb.
+
+- The actor lies down in the tomb as soon as players prepare their teleportation with the {% symbol 'teleportation astrolabe' for 'thief_teleportation_device_name' %} (see the schedule), and leaves the place once the players are out again. Their instructions are in "The exploration of the founding Magus's tomb", below.
+
 
 Locations
 =========
@@ -555,6 +564,10 @@ Lower floor (normal library)
 
 - The graveyard (rudimentary graves of the child, the Archivist and the Arkon)
 
+- The black administrative briefcase and the family chest of the Maupertuis
+
+- The tomb of the {% symbol 'Magus Mos Peratys' for 'maupertuis_dynasty_founder' %} (only reachable by teleportation), and the portrait gallery of the Maupertuis, close by
+
 - Various chests and objects scattered around the place, as well as "markers" placed on the floor by the avatars during their fruitless investigations
 
 Upper floor (Forbidden Domain)
@@ -571,6 +584,10 @@ Upper floor (Forbidden Domain)
 - The alchemy workshop
 
 - The gemmology workshop
+
+- The divination laboratory (with the {% symbol "Spiritual Orb" for "spiritual_orb_name" %})
+
+- The three dead-end corridors: of Vital Force, of Manaic Aura (closed by an ULTRA-HEAVY bronze door), and of Stone Skin
 
 - Various traps and artefacts scattered among the shelves
 

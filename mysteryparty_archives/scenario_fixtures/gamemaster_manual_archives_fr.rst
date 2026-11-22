@@ -534,6 +534,15 @@ La duchesse {% symbol "Cassiopée de Thiersonne" for "duchess_name" %}
 {% endmacro %}
 <{ avatar_duchess_character_summary }/>
 
+La momie du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} (le fondateur de la lignée)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- MORT-VIVANT (simple dépouille, qui ne parle pas ; à ne pas confondre avec un fantôme)
+
+- Petit rôle "coup de stress", tenu par un figurant disponible à ce moment-là (par exemple un automate, ou le maître de jeu), avec l'aube de pape dorée, le masque doré et la calotte du tombeau.
+
+- Le figurant s'allonge dans le tombeau dès que des joueurs préparent leur téléportation avec l'{% symbol 'astrolabe de téléportation' for 'thief_teleportation_device_name' %} (voir le planning), et quitte la place une fois les joueurs ressortis. Ses instructions sont dans "L'exploration du tombeau du mage fondateur", plus bas.
+
 
 Lieux
 =====
@@ -555,6 +564,10 @@ Etage du bas (bibliothèque normale)
 
 - Le cimetière (tombes rudimentaires de l’enfant, de l’archiviste et de l’arkonte)
 
+- La mallette administrative noire et le coffre familial des Maupertuis
+
+- Le tombeau du {% symbol 'Mage Mos Peratys' for 'maupertuis_dynasty_founder' %} (accessible uniquement par téléportation), et la galerie de portraits des Maupertuis, tout près
+
 - Différents coffres et objets répartis dans les lieux, ainsi que des "marqueurs" mis au sol par les avatars lors de leurs investigations infructueuses
 
 Etage du haut (domaine interdit)
@@ -571,6 +584,10 @@ Etage du haut (domaine interdit)
 - L’atelier d’alchimie
 
 - L’atelier de gemmologie
+
+- Le laboratoire de divination (avec l'{% symbol "orbe spirituel" for "spiritual_orb_name" %})
+
+- Les trois corridors en cul-de-sac : de Force Vitale, d'Aura Manaïque (fermé par une porte de bronze ULTRA-LOURDE), et de Peau de Pierre
 
 - Différents pièges et artefacts répartis entre les rayonnages
 
