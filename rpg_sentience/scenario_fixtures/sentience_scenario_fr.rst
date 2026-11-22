@@ -110,7 +110,7 @@ Après une seule journée passée au village, le sorceleur part avec son étalon
 
 Là, Abélard enfonce la porte de la tour de Séléné, et l'assassine. C'est à ce moment que commence l'histoire du jeu.
 
----
+°
 
 **Le vrai fond de l'affaire** : en réalité, Joséphine des Hautvents déteste son père autoritaire, castrateur, qui n'a jamais cru en elle, et a même tenté de la marier de force avant qu'elle ne s'enfuie vers la grande ville. Sans surprise, lorsqu'elle revient au pays et évoque la ruée actuelle vers les cristaux sulfureux, le bourgmestre s'approprie cette idée, et elle ne peut jouer son rôle d'apporteuse d'affaire auprès de la **Société Minéralys** qui a des vues sur les gisements de la région.
 

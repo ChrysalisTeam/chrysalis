@@ -110,7 +110,7 @@ After a single day spent in the village, the witcher sets off with his black sta
 
 There, Abelard breaks down the door of Selene's tower, and murders her. This is the moment when the story of the game begins.
 
----
+°
 
 **The Real Truth of the Matter**: in reality, Josephine des Hautvents hates her authoritarian, emasculating father, who never believed in her, and even tried to marry her off by force before she fled to the big city. Unsurprisingly, when she comes back home and brings up the current rush for sulphur crystals, the burgomaster appropriates this idea, and she cannot play her role as business introducer for the **Mineralys Company**, which has designs on the region's deposits.
 
