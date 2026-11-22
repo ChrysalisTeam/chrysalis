@@ -6,7 +6,7 @@ Duchess Avatar: Managing the prophecies and intuitions
 You are in charge of accompanying the Parcival Oracle player in the disclosure and staging of the intuitions and prophecies.
 
 - Before the game, you must check that the coloured feathers are properly taped in the planned locations, and (if permitted) that you have an incense cone and a lighter to light the incense fountain when the time comes.
-- Check that your projector and sound system work for the prophecies, and that the Game Master's audio player with earpiece works for the auditory prophecy.
+- Check that your strobe light works, and with the Game Master that the sound system of the prophecies and his audio player with earpiece (for the auditory prophecy) work too.
 - During the game, after a while you may draw the Parcivals' attention to elements "radiating an aura of clairvoyance", such as the incense fountain, which would be worth "activating" with an incense cone. Or the scary paintings, which seem to you to be charged with clairvoyance. {% xfact "incense_fountain_can_deliver_powerful_prophecy" %} {% xitem "incense_fountain" is needed %} {% xfact "duchess_knows_about_scary_lenticular_paintings" %} {% xitem "scary_lenticular_painting_with_metal_in_it" is needed %} {% xfact "scary_lenticular_paintings_can_deliver_powerful_prophecy" %}
 - The group's Alchemist is supposed to create the incense cone with other ingredients, but if they are not comfortable in their role, the Oracle must nevertheless be allowed to obtain the cone by some other means. {% xfact "parcival_alchemist_can_create_incense_cone" %}
 - Note that the prophecy does not need to be triggered immediately when a feather is found; it may be wise to wait for the right moment to disclose it to the Oracle.
