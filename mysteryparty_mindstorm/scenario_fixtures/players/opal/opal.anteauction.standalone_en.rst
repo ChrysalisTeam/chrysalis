@@ -60,7 +60,7 @@ You then used the network account of agent "Emerald", a former Lordanian spy, to
 
 Luckily, the Lordanian secret services had only partially deactivated Emerald's account: it could no longer send, but kept its history, and even continues to receive confidential information feeds. This allowed you to see that at no point had Emerald received orders from his Lordanian superiors to kill you; strange...
 
-By cross-checking the information from this account with that of your informants, you discovered that the so-called bidder "{{character_properties.spinel.official_name}}" (known as "Spinel") had never left his country; it was simply under this borrowed name that an agent of the Masslavian secret services was intervening in the orb affair. {% xfact 'spinel_is_undercover' %}
+By cross-checking the information from this account with that of your informants, you discovered that the so-called bidder "{{character_properties.spinel.official_name}}" (known as "Spinel") was not the real Masslavian trader of that name; it was simply under this borrowed name that an agent of the Masslavian secret services was intervening in the orb affair. {% xfact 'spinel_is_undercover' %}
 
 However, agent Emerald's account was eventually deleted... too long a period of inactivity, no doubt... a pity. {% xfact 'emerald_account_is_now_destroyed' %}
 

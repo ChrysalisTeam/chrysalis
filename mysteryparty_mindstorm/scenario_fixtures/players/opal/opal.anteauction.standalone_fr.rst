@@ -60,7 +60,7 @@ Vous avez alors utilisé le compte réseau de l’agent "Emerald", un ex-espion 
 
 Par chance les services secrets lordaniens n’avaient que partiellement désactivé le compte d’Emerald : il ne pouvait plus émettre, mais gardait son historique, et continue même de recevoir les flux d'informations confidentielles. Cela vous a permis de voir que, à aucun moment, Emerald n'avait reçu de ses supérieurs lordaniens l'ordre de vous tuer ; étrange...
 
-En recoupant les informations de ce compte avec celles de vos indic’, vous avez découvert que le soi-disant enchérisseur "{{character_properties.spinel.official_name}}" (dit "Spinel") n’avait jamais quitté son pays ; c'est simplement sous ce nom d'emprunt qu'un agent des services secrets masslaves intervenait dans l’affaire des orbes. {% xfact 'spinel_is_undercover' %}
+En recoupant les informations de ce compte avec celles de vos indic’, vous avez découvert que le soi-disant enchérisseur "{{character_properties.spinel.official_name}}" (dit "Spinel") n’était pas le véritable négociant masslave de ce nom ; c'est simplement sous ce nom d'emprunt qu'un agent des services secrets masslaves intervenait dans l’affaire des orbes. {% xfact 'spinel_is_undercover' %}
 
 Toutefois, le compte de l'agent Emerald a fini par être supprimé... trop longue inactivité sans doute... dommage. {% xfact 'emerald_account_is_now_destroyed' %}
 
