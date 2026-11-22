@@ -168,7 +168,7 @@ An exploration of the rock massifs reveals the small mining diggings ravaged by 
 If the graves are dug up, the explorers' papers turn out to be missing.
 
 The witcher takes a nap at the hunting camp.
-He sleeps, protected by a small **alarm automaton** which detects animal presences in the vicinity.
+He sleeps, protected by a small **alarm automaton** which detects every presence, animal or human, within about twenty metres (but nothing that is underground).
 All his gear is on his horse, including his water flask.
 Easily awakened by the presence of the sapients, the witcher gets back on the road.
 
@@ -263,7 +263,7 @@ The burgomaster and the notary go as agreed to the **old stable** to wait for Jo
 
 But Josephine makes her way to the bathing witcher by roundabout paths. They have a "credible" conversation, in which Josephine says she wants to raise the subject of the forthcoming elections to the post of burgomaster, while Abelard claims not to want this meeting, because it may set tongues wagging.
 
-Once the witcher has checked that no human is nearby, thanks to the alarm automaton, they drop their **pretence** and speak frankly to each other.
+Once the witcher has checked, thanks to the alarm automaton, that nobody - human or animal - is nearby, they drop their **pretence** and speak frankly to each other. To eavesdrop on them, the sapients must therefore stay more than about twenty metres away (the wombat's keen hearing allows it), or listen from a tunnel dug by the wombat; otherwise the automaton gives them away, and the two accomplices stick to their "credible" conversation.
 
 - Josephine criticises the complications introduced by flirting with the innkeeper's daughter; Abelard says he is sincere in his courtship but has put all that on hold.
 - They brief each other on the cleaning up of the evidence, in the forest and in the Grimoire of Life, of "the rockfall affair".

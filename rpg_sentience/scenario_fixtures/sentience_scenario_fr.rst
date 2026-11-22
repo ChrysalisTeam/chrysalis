@@ -168,7 +168,7 @@ Une exploration des massifs rocheux fait découvrir les petites fouilles minièr
 En cas de creusage des tombes, les papiers de ces explorateurs ont disparu.
 
 Le sorceleur fait une sieste au campement de chasse.
-Il dort, protégé par un petit **automate d'alarme** qui détecte les présences animales aux environs.
+Il dort, protégé par un petit **automate d'alarme** qui détecte toutes les présences, animales comme humaines, dans un rayon d'une vingtaine de mètres (mais rien de ce qui se trouve sous terre).
 Tout son matériel est sur son cheval, dont sa gourde d'eau. 
 Facilement réveillé par la présence des sapiens, le sorceleur reprend la route.
 
@@ -263,7 +263,7 @@ Le bourgmestre et le notaire se rendent comme convenu dans **l'ancienne écurie*
 
 Mais Joséphine se rend auprès du sorceleur baigneur par des chemins détournés. Ils ont une conversation "crédible", où Joséphine dit vouloir évoquer le sujet des futures élections au poste de bourgmestre, tandis qu'Abélard affirme ne pas vouloir cette rencontre, car elle peut faire jaser.
 
-Une fois que le sorceleur a vérifié qu'aucun humain n'était à proximité, grâce à l'automate d'alarme, ils rompent leur **simulacre** et se parlent franchement.
+Une fois que le sorceleur a vérifié, grâce à l'automate d'alarme, que personne - humain ou animal - n'était à proximité, ils rompent leur **simulacre** et se parlent franchement. Pour les épier, les sapiens doivent donc rester à plus d'une vingtaine de mètres (l'ouïe fine du wombat le permet), ou écouter depuis un tunnel creusé par le wombat ; sinon l'automate les trahit, et les deux complices s'en tiennent à leur conversation "crédible".
 
 - Joséphine critique les complications introduites par le fait de flirter avec la fille de l'aubergiste, Abélard dit être de bonne foi dans sa séduction mais avoir mis en pause tout cela.
 - Ils se briefent sur le nettoyage des preuves, en forêt et dans le grimoire de vie, de "l'affaire des éboulis".
