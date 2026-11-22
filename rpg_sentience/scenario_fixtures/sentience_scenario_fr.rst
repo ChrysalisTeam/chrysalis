@@ -300,6 +300,19 @@ S'ils ont bu le narcotique, le bourgmestre et le notaire sont découverts par la
 
 En fonction des actions prises par les sapiens dans cette dernière nuit de chahut, de nombreuses conclusions sont possibles, avec la mort ou la condamnation de certains notables, et le rétablissement - ou non - d'un pacte de sang entre le village et la forêt.
 
+**L'état du Pacte de Sang** : la mort de Séléné n'a pas rompu le Pacte (sa malédiction a frappé avant, lors des fouilles), mais l'a privé de sa garante ; la forêt n'est plus tenue par sa parole, et seule la tortue ancestrale retient encore ses bêtes et monstres, pour quelques semaines tout au plus. Le Pacte ne peut être rétabli que si un nouveau garant, côté forêt (la tortue ancestrale, l'Enchanteresse Dorina ou le Druide Galien), le scelle de son sang avec le bourgmestre, quel qu'il soit, au nom du village.
+
+**Le but final de Joséphine** : faire tomber son père, être élue bourgmestre face à un Abélard qui ne se présente que pour la forme, puis ouvrir la forêt à la Société Minéralys, en touchant sa part d'apporteuse d'affaire.
+
+**Conclusions possibles** :
+
+- **Le complot entier est exposé** (coffre-fort, bande du télégraphe, conversation de la source thermale...) : Joséphine et Abélard sont arrêtés et livrés à la justice de la grande ville (l'Ordre des Sorceleurs désavoue Abélard), le bourgmestre et le notaire sont destitués pour la fausse lettre ; Dorina et Galien sont libérés, et l'un d'eux, ou la tortue ancestrale, renouvelle le Pacte avec un village honteux ; la Société Minéralys, compromise par la mort de ses explorateurs, renonce aux gisements, du moins pour un temps.
+- **Seul le premier niveau est exposé** : le bourgmestre et le notaire sont emprisonnés ou bannis (voire lynchés, si la battue les trouve armés dans l'ancienne écurie) ; Joséphine devient bourgmestre, avec Abélard pour bras droit ; ils promettent de rétablir le Pacte, mais ouvrent la forêt à Minéralys. Les sapiens, qui savent la vérité, peuvent continuer la lutte.
+- **Abélard est tué sans que le complot soit exposé** : la mission de la tortue ancestrale est remplie, mais Joséphine fait de lui un martyr, accuse son père et le notaire de sa mort, et poursuit seule son plan ; la forêt, sans Pacte, finit par déborder sur le village.
+- **Les sapiens sont capturés ou mis en fuite** : le plan de Joséphine réussit entièrement ; le village, privé du Pacte, subit bientôt malchance et catastrophes.
+
+Hors du premier cas, Dorina et Galien, s'ils sont prisonniers, sont livrés à la justice de la grande ville, qui finit par les relâcher faute de preuves.
+
 
 
 

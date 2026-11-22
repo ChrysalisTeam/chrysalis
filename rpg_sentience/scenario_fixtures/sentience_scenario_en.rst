@@ -300,6 +300,19 @@ If they have drunk the narcotic, the burgomaster and the notary are found by the
 
 Depending on the actions taken by the sapients during this last night of turmoil, many conclusions are possible, with the death or conviction of certain notables, and the re-establishment - or not - of a blood pact between the village and the forest.
 
+**The state of the Blood Pact**: Selene's death did not break the Pact (its curse struck before, during the diggings), but deprived it of its guarantor; the forest is no longer bound by her word, and only the Ancestral Tortoise still holds back its beasts and monsters, for a few weeks at most. The Pact can only be re-established if a new guarantor on the forest's side (the Ancestral Tortoise, the Enchantress Dorina or the Druid Galien) seals it with their blood together with the burgomaster, whoever that is, on behalf of the village.
+
+**Josephine's final goal**: to bring down her father, to be elected burgomaster against an Abelard who only stands for show, then to open the forest to the Mineralys Company, collecting her share as business introducer.
+
+**Possible outcomes**:
+
+- **The whole conspiracy is exposed** (safe, telegraph tape, hot-spring conversation...): Josephine and Abelard are arrested and handed over to the justice of the big city (the Order of Witchers disowns Abelard), the burgomaster and the notary are removed from office for the forged letter; Dorina and Galien are released, and one of them, or the Ancestral Tortoise, renews the Pact with a shamed village; the Mineralys Company, compromised by the death of its explorers, gives up the deposits, at least for a while.
+- **Only the first level is exposed**: the burgomaster and the notary are imprisoned or banished (or even lynched, if the manhunt finds them armed in the old stable); Josephine becomes burgomaster, with Abelard as her right-hand man; they promise to re-establish the Pact, but open the forest to Mineralys. The sapients, who know the truth, can carry on the fight.
+- **Abelard is killed without the conspiracy being exposed**: the Ancestral Tortoise's mission is fulfilled, but Josephine turns him into a martyr, accuses her father and the notary of his death, and pursues her plan alone; the forest, without a Pact, ends up spilling over onto the village.
+- **The sapients are captured or put to flight**: Josephine's plan succeeds completely; the village, deprived of the Pact, soon suffers misfortune and catastrophes.
+
+Except in the first case, Dorina and Galien, if they are prisoners, are handed over to the justice of the big city, which ends up releasing them for lack of evidence.
+
 
 
 
