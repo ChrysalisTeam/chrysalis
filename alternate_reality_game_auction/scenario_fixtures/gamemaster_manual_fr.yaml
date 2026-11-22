@@ -1341,6 +1341,8 @@ gamemaster_manual:
         - l'url complète d'un fichier de jeu (image, vidéo, document...) peut être obtenue (et insérée, par exemple, dans une balise RestructuredText "image") avec des balises spéciales ; voir les détails dans la section suivante ;
         - une balise ``GAME_PAGE_LINK`` permet de créer un lien vers une page du site, mais son usage est complexe ; à réserver aux développeurs ;
 
+        .. note:: les pages de catégories "magie" et "analyse" (fichier encyclopedia/hidden_clues de la base de données, chacune dotée d'un "code d'indice") ne servent pas à Chrysalis:Auction, mais à la soirée mystère Chrysalis:Archives, dont les accessoires portent ces codes ; elles ne sont lisibles par les joueurs que via leur code, et le MJ d'Auction peut les ignorer.
+
 
 
         Les médias intégrables
