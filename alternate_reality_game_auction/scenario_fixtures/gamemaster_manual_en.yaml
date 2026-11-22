@@ -696,7 +696,14 @@ gamemaster_manual:
 
         Note that each password found by the player will be a double win, since, as in real life, the NPCs of Chrysalis tend to reuse the same passwords for several purposes.
 
-        .. note:: these protected archives are currently left to the GM's initiative; check with the Chrysalis team to integrate new ones (as well as the clues leading to them).
+        Only one encrypted web page is provided for now: the "waden_report" folder (address ``encrypted_folders/waden_report/`` of the game website), which holds Waden Shaw's working notes on the Alpha Orb. It has two secret compartments, whose passwords are the names of the matching subfolders of the game's "encrypted" directory (in lower case, the input being case-insensitive):
+
+        - "faeran" (the town near which Waden's private laboratory lies): a short note from Waden and the photo of an "illustrious investigator of past civilisations", whose surname is the second password;
+        - "evans": Waden's study report to Loyd Georges on the gem, along with his graphs, which confirms that the orb is safe in his "little underground laboratory of Faeran".
+
+        No clue of the game leads to this folder yet: it is up to the GM to decide whether to use it, as an extra lead of the quest for the Alpha Orb, and to get its address and the clue to the first password to the players (for instance via the mercenaries or a hacked email).
+
+        .. note:: the other protected archives are currently left to the GM's initiative; check with the Chrysalis team to integrate new ones (as well as the clues leading to them).
 
 
 

@@ -696,7 +696,14 @@ gamemaster_manual:
 
         Notons que chaque mot de passe trouvé par le joueur sera un coup double, car comme dans la vraie vie, les PNJs de Chrysalis ont tendance à réutiliser les mêmes mots de passe pour plusieurs usages.
 
-        .. note:: ces archives protégées sont pour l'instant laissées à l'initiative du MJ, voir avec l'équipe Chrysalis pour en intégrer de nouvelles (ainsi que les indices qui y mènent).
+        Une seule page web chiffrée est fournie pour l'instant : le dossier "waden_report" (adresse ``encrypted_folders/waden_report/`` du site de la partie), qui contient les notes de travail de Waden Shaw sur l'Orbe Alpha. Il possède deux compartiments secrets, dont les mots de passe sont les noms des sous-dossiers correspondants du répertoire "encrypted" du jeu (en minuscules, la saisie n'étant pas sensible à la casse) :
+
+        - "faeran" (la ville près de laquelle se trouve le laboratoire privé de Waden) : un simple mot de Waden et la photo d'un "illustre investigateur des civilisations passées", dont le nom de famille est le second mot de passe ;
+        - "evans" : le rapport d'étude de Waden à Loyd Georges sur la gemme, accompagné de ses graphiques, qui confirme que l'orbe est à l'abri dans son "petit laboratoire souterrain de Faeran".
+
+        Aucun indice du jeu ne mène encore à ce dossier : c'est au MJ de décider s'il l'utilise, comme piste supplémentaire de la quête de l'Orbe Alpha, et de faire parvenir aux joueurs son adresse et l'indice du premier mot de passe (par exemple via les mercenaires ou un email piraté).
+
+        .. note:: les autres archives protégées sont pour l'instant laissées à l'initiative du MJ, voir avec l'équipe Chrysalis pour en intégrer de nouvelles (ainsi que les indices qui y mènent).
 
 
 
