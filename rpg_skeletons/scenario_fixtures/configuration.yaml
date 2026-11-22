@@ -1,5 +1,5 @@
 # Single configuration for all languages, used by "pychronia-storygen <this folder> --variable lang=fr|en"
-# ({lang} is replaced by the language code; sources are plain RST, without jinja2 templating)
+# ({lang} is replaced by the language code; like every storygen sheet, sources are rendered by jinja2, but they use no jinja2 constructs)
 
 "settings":
   "rst2pdf_conf_file": "../../common_assets/rst2pdf.conf"
