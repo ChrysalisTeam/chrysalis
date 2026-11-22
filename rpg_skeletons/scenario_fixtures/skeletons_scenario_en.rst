@@ -328,7 +328,7 @@ Day 3 - morning
 - An oliphant sounds
 - **IMPORTANT**: what do the skeletons do with the load of goods?
 - A muskrat arrives, with a parchment: "two archers, a bard, and a merchant"
-- These 3 attackers arrive a few minutes later
+- These 4 attackers arrive a few minutes later
 
   - They are supposed to be defeated by the carcasses (who can also hide, play dead, etc.)
   - Otherwise, Foulques wakes the carcasses on his return from gathering, that same morning, and a micro-attack takes place: 3 blind-drunk haemophiliac dwarves, against whom the carcasses cannot lose

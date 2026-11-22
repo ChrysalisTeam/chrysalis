@@ -328,7 +328,7 @@ Jour 3 - matin
 - Un olifant résonne
 - **IMPORTANT** : que font les squelettes du chargement de biens
 - Un rat musqué arrive, avec un parchemin : "deux archers, un barde, et un marchand"
-- Ces 3 assaillants arrivent quelques minutes plus tard
+- Ces 4 assaillants arrivent quelques minutes plus tard
 
   - Ils sont censés être vaincus par les carcasses (qui peuvent aussi se cacher, faire les mortes, etc...)
   - Sinon, FOULQUES réveille les carcasses à son retour de cueillette, le même matin, et une micro-attaque a lieu, 3 nains ivres morts et hémophiles contre lesquels les carcasses ne peuvent pas perdre
