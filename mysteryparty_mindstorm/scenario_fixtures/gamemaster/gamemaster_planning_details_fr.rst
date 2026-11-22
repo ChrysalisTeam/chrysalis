@@ -236,6 +236,8 @@ HEURE 1:30
 
 - mettre au tableau le résultat des enchères (lot, vainqueur, prix)
 
+- l'obéron remet à Waden l'"Analyse 2/2" de ses pierres radioactives (origine biophysique des échantillons, dont l'un provient d'Hydrolande), afin qu'il ait le temps de décider s'il dit la vérité à {% symbol "Balberith" for "waden_blackmailer_lady_country" %}, avant la vente du gisement et la fin de la soirée
+
 - si un joueur est absent, on apprend que ce joueur a été arrêté le matin même, pour une affaire tierce ; l’inspecteur semble irrité de cette affaire qui échappe à son contrôle direct
 
 - CONCILE : un haut-gradé du concile akarite appelle l'agent dorien Peridot, et le questionne sur ses croyances en théologie yodique {% xfact "peridot_must_answer_akarith_council" %}

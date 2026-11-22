@@ -236,6 +236,8 @@ HOUR 1:30
 
 - put the auction results on the board (lot, winner, price)
 
+- the Oberon gives Waden the "Analysis 2/2" of his radioactive stones (biophysical origin of the samples, one of which comes from Hydroland), so that he has time to decide whether he tells {% symbol "Balberith" for "waden_blackmailer_lady_country" %} the truth, before the sale of the deposit and the end of the evening
+
 - if a player is absent, word comes that this player was arrested that very morning, for an unrelated case; the inspector seems irritated by this case escaping his direct control
 
 - COUNCIL: a high-ranking member of the Akarith council calls the Dorian agent Peridot, and questions him about his beliefs in Yodic theology {% xfact "peridot_must_answer_akarith_council" %}
