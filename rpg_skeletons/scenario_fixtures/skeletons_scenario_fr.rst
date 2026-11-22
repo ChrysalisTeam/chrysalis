@@ -224,6 +224,8 @@ Artefacts intéressants HORS des coffres :
 - **Arbre de vie** en gemmes noires de toutes tailles, avec 3 branches principales
 - **Manuel de nécromancie**, expliquant comment invoquer des abominations et des carcasses. Points importants : cette réanimation n'est possible que lors de morts violentes (accident, combat, empoisonnement... mais pas de mort naturelle, de vieillesse ou de maladie), pendant quelques jours maximum ; l'arbre de vie est la source du maintien en vie des carcasses, il a une portée limitée, et une "capacité" qui dépend de son nombre de branches principales ; il nécessite peu d'entretien, hormis quelques gouttes du sang du nécromancien à chaque lune ; les abominations, elles, peuvent rester en vie très longtemps, tant qu'elles se nourrissent ; tous ont un **contrat moral** : ne jamais chercher à nuire à leur créateur.
 
+  *(Pour le MJ : le créateur est le nécromancien qui a animé la créature : le mage Childéric pour les abominations et ALPHA (Brunissende), FOULQUES pour GAMMA et OMEGA. Childéric étant mort, ALPHA et les abominations peuvent s'en prendre à FOULQUES ; GAMMA et OMEGA, eux, ne peuvent pas chercher à lui nuire directement, mais peuvent l'entraver, le désarmer, ou le livrer aux autres.)*
+
 Artefacts intéressants DANS les coffres :
 
 - **Grimoire des sortilèges élémentaires**, permettant à GAMMA (Childéric) de se souvenir de meilleurs sorts avec son gantelet : arc électrique, onde de choc, éclat de lumière...
@@ -435,7 +437,7 @@ Jour 3 - nuit tombée
 - Elle fracture le dépeçoir, et en ramène deux plaques de peau portant le **tatouage** qu'elle-même a sur l'épaule : un **loup roulé en boule** (la peau des avant-bras des deux mages)
 - Elle confronte alors l'ensemble des gens présents, réunis dans la salle du trône, mais le mage FOULQUES ne peut dissimuler sa panique
 - CONRAD confisque préventivement le **bâton incandescent** de FOULQUES
-- FOULQUES avoue tout, mais dit que ce sont des "accidents"
+- FOULQUES avoue tout, mais dit que ce sont des "accidents" (GAMMA et OMEGA ne peuvent pas chercher à lui nuire, voir le contrat moral du manuel de nécromancie)
 - SAPHIR, les yeux noirs comme du charbon, se dirige vers le trône, le saisit, bondit au plafond, et le lance sur FOULQUES (qui est potentiellement aplati)
 - SAPHIR redevient normale et éclate en sanglots, roulée en boule au sol
 - Si FOULQUES est mort, CONRAD demande aux carcasses de "trouver une solution pour rester en vie", car il ne veut pas que SAPHIR porte cette culpabilité en plus

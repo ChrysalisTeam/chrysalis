@@ -224,6 +224,8 @@ Interesting artefacts OUTSIDE the chests:
 - **Tree of life** made of black gems of all sizes, with 3 main branches
 - **Necromancy manual**, explaining how to summon abominations and carcasses. Key points: this reanimation is only possible after violent deaths (accident, fight, poisoning... but not a natural death, from old age or illness), within a few days at most; the tree of life is what keeps the carcasses alive, it has a limited range, and a "capacity" that depends on its number of main branches; it needs little upkeep, apart from a few drops of the necromancer's blood every moon; the abominations, for their part, can stay alive for a very long time, as long as they feed; all of them are bound by a **moral contract**: never to seek to harm their creator.
 
+  *(For the GM: the creator is the necromancer who animated the creature: Magus Childeric for the abominations and ALPHA (Brunissende), Foulques for GAMMA and OMEGA. Since Childeric is dead, ALPHA and the abominations can turn against Foulques; GAMMA and OMEGA, for their part, cannot seek to harm him directly, but they can restrain him, disarm him, or hand him over to the others.)*
+
 Interesting artefacts IN the chests:
 
 - **Grimoire of elemental spells**, allowing GAMMA (Childeric) to remember better spells with his gauntlet: electric arc, shockwave, flash of light...
@@ -435,7 +437,7 @@ Day 3 - nightfall
 - She breaks into the flaying house, and brings back two patches of skin bearing the **tattoo** that she herself has on her shoulder: a **wolf curled up in a ball** (the skin of the two magi's forearms)
 - She then confronts everyone present, gathered in the throne room, but Magus Foulques cannot hide his panic
 - CONRAD confiscates Foulques's **white-hot staff** as a precaution
-- Foulques confesses everything, but says they were "accidents"
+- Foulques confesses everything, but says they were "accidents" (GAMMA and OMEGA cannot seek to harm him, see the moral contract of the necromancy manual)
 - SAPHIR, her eyes black as coal, heads for the throne, seizes it, leaps up to the ceiling, and hurls it at Foulques (who is potentially flattened)
 - SAPHIR returns to normal and bursts into tears, curled up in a ball on the floor
 - If Foulques is dead, CONRAD asks the carcasses to "find a way to stay alive", because he does not want SAPHIR to bear that guilt on top of everything else
