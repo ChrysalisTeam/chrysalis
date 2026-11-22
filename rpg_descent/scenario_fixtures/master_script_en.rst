@@ -313,7 +313,7 @@ Holy of Holies of the Yodic Temple
   - the propeller, the pottery and the candle have archaeological and market value
 
 - the semicircular well is covered by a **heavy iron grate**, rusty but sophisticated; **"Filter of Orthodoxy"** is engraved on the grate, in Old Akarith
-- the well is very shallow (20 cm of water at the bottom), with a thin layer of silt at the bottom
+- the well holds very little water (20 cm of water at the bottom), with a thin layer of silt at the bottom
 - a few small **pearly fish**, which have become blind and translucent over the generations, eke out a living in this water
 - at the bottom of the well, under the silt, there is a **halberd** (very blunt; **if it is an exceptional artefact, it bears Razulite inscriptions**), as well as a **hexagonal recess about 15 cm in diameter**
 
