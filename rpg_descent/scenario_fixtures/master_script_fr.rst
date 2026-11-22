@@ -265,7 +265,7 @@ Salle principale du temple pré-yodique
 
 **L'arche centrale** est vide, mais typique d'une religion monothéiste antérieure au yodisme ; elle est considérée par les akarites comme un précurseur respectable, mais maintenant obsolète. Il est possible de tenter de décoller et rapporter l'arche, mais c'est long et difficile (nécessite **4 porteurs** minimum).
 
-Des racines d'arbre sont apparentes au plafond, comme pour le temple païen (**8m** jusqu'à la surface). Dynamiter le plafond de cette salle est une possibilité (très risquée) si les joueurs sont acculés dans la caverne.
+Des racines d'arbre sont apparentes au plafond, comme pour le temple païen (**8m** jusqu'à la surface : bien qu'elle soit au plus bas de la grotte, la salle se trouve sous le pied de la colline, où la roche est moins épaisse que sous le temple païen). Dynamiter le plafond de cette salle est une possibilité (très risquée) si les joueurs sont acculés dans la caverne.
 
 Dans la petite crypte du temple yodique (qui débouche à droite de l'arche), un immense (et rarissime) **varan impérial** dort ; c'est un **lézard géant, venimeux**, habituellement peureux, sauf lorsque son gite est menacé ; il a un mauvais odorat, voit dans le noir, mais ne repère que les mouvements. Les joueurs peuvent l'ignorer, ou tenter de l'endormir, ou bien bloquer la sortie de son antre... mais s'ils l'ignorent, il finira par se réveiller, et intercepter les passants. Ce varan passe habituellement par le canal des chlamydes, pour sortir de la caverne.
 

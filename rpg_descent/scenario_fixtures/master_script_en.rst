@@ -265,7 +265,7 @@ Main Hall of the Pre-Yodic Temple
 
 **The central ark** is empty, but typical of a monotheistic religion predating Yodism; the Akariths consider it a respectable, but now obsolete, precursor. It is possible to try to detach and bring back the ark, but it is long and difficult (requires **4 porters** minimum).
 
-Tree roots are visible in the ceiling, as in the pagan temple (**8 m** to the surface). Dynamiting the ceiling of this hall is a (very risky) possibility if the players are cornered in the cavern.
+Tree roots are visible in the ceiling, as in the pagan temple (**8 m** to the surface: although it is at the lowest point of the cave, the hall lies under the foot of the hill, where the rock is thinner than above the pagan temple). Dynamiting the ceiling of this hall is a (very risky) possibility if the players are cornered in the cavern.
 
 In the small crypt of the Yodic temple (which opens to the right of the ark), a huge (and extremely rare) **imperial monitor** sleeps; it is a **giant, venomous lizard**, usually timid, except when its lair is threatened; it has a poor sense of smell, sees in the dark, but only detects movement. The players can ignore it, or try to put it to sleep, or block the exit of its lair... but if they ignore it, it will eventually wake up, and intercept passers-by. This monitor usually goes through the Chlamydes' canal to leave the cavern.
 
