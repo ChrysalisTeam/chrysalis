@@ -415,11 +415,11 @@ Les petits objets (gemmes et lingots, larme divine...) se portent dans les sacs 
 Enquête naturaliste
 -------------------------
 
-Récapitulatif des nouvelles espèces à "capturer" (en photo/vidéo, ou en chair et en os) : **champignons aquatiques bleus, yéti forestier, chauve-souris luminescentes amphibies, poissons aveugles du puits**
+Récapitulatif des nouvelles espèces à "capturer" (en photo/vidéo, ou en chair et en os) : **champignons aquatiques bleus, yéti forestier, chauve-souris luminescentes amphibies**
 
 Récapitulatif des faits scientifiques nouveaux :
 
-- les champignons de terre rosés (qui sont blancs lorsqu'à l'air libre) produisent un somnifère, dans leur métabolisme sans lumière
+- les champignons de terre rosés (mutation souterraine des champignons blancs et comestibles de la surface) produisent un somnifère, dans leur métabolisme sans lumière
 - le varan impérial coexiste avec les chlamydes (le canal souterrain est la seule issue possible pour lui)
 - les lichens des pierres tombales produisent un gaz toxique quand privés de lumière
 - les poissons nacrés du puits ont perdu leurs yeux et leur coloration avec le temps

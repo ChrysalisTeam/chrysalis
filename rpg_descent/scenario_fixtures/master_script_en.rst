@@ -415,11 +415,11 @@ Small items (gems and ingots, Divine Tear...) are carried in the backpacks, with
 Naturalist investigation
 -------------------------
 
-Summary of the new species to "capture" (on photo/video, or in the flesh): **blue water mushrooms, forest yeti, amphibious luminescent bats, blind well-fish**
+Summary of the new species to "capture" (on photo/video, or in the flesh): **blue water mushrooms, forest yeti, amphibious luminescent bats**
 
 Summary of the new scientific facts:
 
-- the pinkish ground mushrooms (which are white when in the open air) produce a sedative, in their lightless metabolism
+- the pinkish ground mushrooms (an underground mutation of the white, edible mushrooms of the surface) produce a sedative, in their lightless metabolism
 - the imperial monitor coexists with the Chlamydes (the underground canal is the only possible way out for it)
 - the lichens on the gravestones produce a toxic gas when deprived of light
 - the pearly fish of the well have lost their eyes and their colouring over time
