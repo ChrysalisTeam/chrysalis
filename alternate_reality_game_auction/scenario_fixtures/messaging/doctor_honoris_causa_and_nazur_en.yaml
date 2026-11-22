@@ -281,14 +281,12 @@ messaging:
 
 
         -   id: ceremony_player_invitation
-            gamemaster_hints: "Invitation that a player who has managed to win the favour of the deans of the Alifir Academy can request, for themselves and Loyd Georges."
+            gamemaster_hints: "Invitation that a player who has managed to win the favour of the deans of the Alifir Academy can request, for themselves and Loyd Georges. Add this player as recipient (by default, Loyd Georges is only invited to the final ceremony, see ceremony_lg_invitation)."
             categories: ["doctor_honoris_causa"]
             sender_email: system@anthropia.pg
-            recipient_emails: loyd.georges
+            recipient_emails: []
             subject: "Following your request"
             body: |
-
-                .. FIXME, to be made consistent across the various messages: what is LG invited to by default???
 
                 Dear Mr {{ player_name }},
 

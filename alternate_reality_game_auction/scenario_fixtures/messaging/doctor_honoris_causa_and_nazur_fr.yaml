@@ -281,14 +281,12 @@ messaging:
 
 
         -   id: ceremony_player_invitation
-            gamemaster_hints: "Invitation que peut demander un joueur qui a réussi à s'attirer les grâces des doyennes de l'Académie d'Alifir, pour lui et Loyd Georges."
+            gamemaster_hints: "Invitation que peut demander un joueur qui a réussi à s'attirer les grâces des doyennes de l'Académie d'Alifir, pour lui et Loyd Georges. Ajouter ce joueur en destinataire (par défaut, Loyd Georges n'est invité qu'à la cérémonie finale, cf. ceremony_lg_invitation)."
             categories: ["doctor_honoris_causa"]
             sender_email: system@anthropia.pg
-            recipient_emails: loyd.georges
+            recipient_emails: []
             subject: "Suite à votre demande"
             body: |
-
-                .. FIXME,  à rationaliser dans les différents messages, à quoi LG est-il invité par défaut ???
 
                 Cher monsieur {{ nom_joueur }},
 
