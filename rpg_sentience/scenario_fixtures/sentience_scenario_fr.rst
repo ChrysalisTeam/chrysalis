@@ -138,6 +138,8 @@ Dans la foulée, Joséphine ramène de la ville un fidèle allié de son début 
 Le déroulement du jeu
 ========================
 
+**Chronologie indicative** : meurtre de Séléné vers minuit ; somme du sorceleur au campement de chasse ; arrivée au village au lever du jour ; banquet à midi ; départ des villageois vers la tour vers 13 h, retour à la nuit tombante (vers 21 h) ; source thermale et fausse agression en pleine nuit.
+
 0 - Prélude
 ------------------
 
@@ -167,14 +169,14 @@ Le pistage montre que le cavalier est parti directement en direction du village,
 Une exploration des massifs rocheux fait découvrir les petites fouilles minières ravagées par l'explosion, avec les 3 tombes des explorateurs. 
 En cas de creusage des tombes, les papiers de ces explorateurs ont disparu.
 
-Le sorceleur fait une sieste au campement de chasse.
+Le sorceleur fait un somme de quelques heures au campement de chasse, à mi-chemin du village.
 Il dort, protégé par un petit **automate d'alarme** qui détecte toutes les présences, animales comme humaines, dans un rayon d'une vingtaine de mètres (mais rien de ce qui se trouve sous terre).
 Tout son matériel est sur son cheval, dont sa gourde d'eau. 
 Facilement réveillé par la présence des sapiens, le sorceleur reprend la route.
 
 Si tentative d’empoisonnement, il sort en urgence un caillou (un "bézoar") de sa sacoche de ceinture pour se soigner lui-même.
 
-Quand il arrive au village, des habitants accourent le saluer.
+Quand il arrive au village, au lever du jour, des habitants accourent le saluer.
 
 
 

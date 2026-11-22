@@ -138,6 +138,8 @@ In the process, Josephine brings back from the city a faithful ally from the sta
 How the game unfolds
 ========================
 
+**Rough timeline**: Selene murdered around midnight; the witcher's nap at the hunting camp; arrival at the village at daybreak; banquet at noon; the villagers set off for the tower around 1 pm and return at nightfall (around 9 pm); hot spring and staged attack in the middle of the night.
+
 0 - Prelude
 ------------------
 
@@ -167,14 +169,14 @@ Tracking shows that the rider left directly in the direction of the village, whi
 An exploration of the rock massifs reveals the small mining diggings ravaged by the explosion, with the 3 graves of the explorers.
 If the graves are dug up, the explorers' papers turn out to be missing.
 
-The witcher takes a nap at the hunting camp.
+The witcher takes a nap of a few hours at the hunting camp, halfway to the village.
 He sleeps, protected by a small **alarm automaton** which detects every presence, animal or human, within about twenty metres (but nothing that is underground).
 All his gear is on his horse, including his water flask.
 Easily awakened by the presence of the sapients, the witcher gets back on the road.
 
 If there is a poisoning attempt, he hurriedly pulls a pebble (a "bezoar") out of his belt pouch to cure himself.
 
-When he arrives at the village, inhabitants come running to greet him.
+When he arrives at the village, at daybreak, inhabitants come running to greet him.
 
 
 
