@@ -29,7 +29,7 @@ Vous vous cachez dans le réduit, sous l'escalier en colimaçon du Grand Hall. L
 
 12h sonne à l'horloge. A travers le mur, vous entendez Loyd Georges discuter, dans sa chambre, avec l'inspecteur Shark. Le policier harangue son hôte, le pousse à être plus direct et brutal avec les "suspects". Loyd Georges, déjà las, dit faire de son mieux. Puis un dialogue capture votre attention.
 
-- Puis-je avoir l'identité de cet individu, qui parait-il, s'est grimé en éboueur, pour vous approcher tôt ce matin ?
+- Puis-je avoir l'identité de cet individu, qui parait-il, s'est grimé en livreur, pour vous approcher tôt ce matin ?
 - Qui vous a dit cela ?
 - C'est mon rôle de tout savoir ; et de vous protéger, y compris contre vous-même.
 - Cet "individu" m'apportait juste des nouvelles fraîches de mon ami le professeur Loakim, et il est reparti sans tarder. Il n'y a aucune malice à cela.

@@ -29,7 +29,7 @@ You hide in the cubbyhole under the spiral staircase of the Great Hall. The old 
 
 The clock strikes 12. Through the wall, you hear Loyd Georges talking, in his bedroom, with Inspector Shark. The policeman harangues his host, pushing him to be more direct and brutal with the "suspects". Loyd Georges, already weary, says he is doing his best. Then a dialogue captures your attention.
 
-- May I have the identity of this individual who, I hear, disguised himself as a dustman to approach you early this morning?
+- May I have the identity of this individual who, I hear, disguised himself as a delivery man to approach you early this morning?
 - Who told you that?
 - It is my job to know everything; and to protect you, including from yourself.
 - This "individual" was merely bringing me fresh news of my friend Professor Loakim, and he left without delay. There is no malice in that.
