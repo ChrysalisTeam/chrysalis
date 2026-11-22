@@ -43,7 +43,7 @@ Note that only the person who drew a pentacle or a seal can easily **revoke** it
 
 You can easily **reactivate an existing seal**, alone, by **censing it** (one circuit is enough) and then proclaiming the invocation **"O magic seal, awaken and hear my voice"**. The seal should light up shortly afterwards, a sign that it is now active. This operation can be entirely delegated to other {% symbol "initiates" for "ritualist_kind_name" %}.
 
-A **canonical pentacle** can be activated through the same process, but **beware**, **at least 4 initiates** must perform the ritual, as it requires a great deal of spiritual energy. The invocation is in this case, obviously, **"O canonical pentacle, awaken and hear my voice"**. {% xfact "penatacle_activation_requires_4_ritualists" %}
+A **canonical pentacle** can be activated through the same process, but **beware**, **at least 4 initiates** must perform the ritual, as it requires a great deal of spiritual energy. The invocation is in this case, obviously, **"O canonical pentacle, awaken and hear my voice"**. {% xfact "penatacle_activation_requires_4_ritualists" %} There are only three of you Diakons: you will therefore need the help of at least one other initiate present on the premises (you were told that one of the Heliossarian explorers once went through the initiation of {% symbol "Bahamoot" for "god_of_diakons" %}).
 
 Note that these drawings deactivate by themselves after a (very long) time without use.
 
