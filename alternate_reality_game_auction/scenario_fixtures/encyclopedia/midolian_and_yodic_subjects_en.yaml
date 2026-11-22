@@ -215,7 +215,7 @@ static_pages:
     cloudy_citadel:
         title: "Cloud Citadel"
         categories: ["encyclopedia"]
-        keywords: ["cloudy citadel", "citadel", "clouds?", "sanctuary"]
+        keywords: ["cloud citadel", "citadel", "clouds?", "sanctuary"]
         content: |
 
             This new Yodic holy place, built by the Judicators as soon as they came to power 3 years ago, serves both as a palace for the high-ranking members of the order, and as a meeting place for the Akarith High Councils, which bring together the spiritual leaders of the 7 Akarith clans.
