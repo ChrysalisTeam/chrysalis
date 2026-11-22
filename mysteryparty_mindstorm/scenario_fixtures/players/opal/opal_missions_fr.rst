@@ -17,6 +17,9 @@ Protéger votre famille
 
 <{ magnus_parents_must_protect_family }/>
 
+Sauver la famille de la faillite
+    Vos affaires périclitent, et il vous faut {% symbol "18 mégakashes" for "opal_lydia_financial_needs" %} pour rétablir la situation : vendre au meilleur prix votre plateforme Hydrolande, et soutenir Lydia dans la vente de son gisement de sables bitumineux, semblent les meilleures pistes.
+
 Sauver votre santé et celle de Loyd Georges
     Votre dernier espoir semble résider dans ce fameux "Élixir Berserk", vous espérez que Rydji et {% symbol "Rodok" for "lg_adventurer_friend_name" %} pourront vous mettre sur sa piste... {% xfact "opal_knows_about_berserk_elixir" as author %}
 

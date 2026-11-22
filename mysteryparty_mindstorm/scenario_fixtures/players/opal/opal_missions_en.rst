@@ -17,6 +17,9 @@ Protect your family
 
 <{ magnus_parents_must_protect_family }/>
 
+Save the family from bankruptcy
+    Your business is failing, and you need {% symbol "18 megakashes" for "opal_lydia_financial_needs" %} to restore the situation: selling your Hydroland platform at the best price, and backing Lydia in the sale of her tar sands deposit, seem the best leads.
+
 Save your own health and that of Loyd Georges
     Your last hope seems to lie in this famous "Berserk Elixir"; you hope that Rydji and {% symbol "Rodok" for "lg_adventurer_friend_name" %} will be able to put you on its trail... {% xfact "opal_knows_about_berserk_elixir" as author %}
 
