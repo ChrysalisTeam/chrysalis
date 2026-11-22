@@ -23,7 +23,7 @@ Your first performances as a guide were anything but rigorous, as your great ima
 
 **It was {% symbol "one month" for "guide_gave_keys_to_hero_delay" %} ago** that you found yourself facing a crisis of conscience: a young Italian student who had recently started frequenting the Cromlech, **{% symbol "Andrea di Revel" for "hero_name" %}**, insisted on having earlier access to this place of study each day, or else he would fail his exams - because his shared flat was too noisy.
 
-Your kind heart eventually won out over your professional ethics, and you gave him a **spare key**; after all, he is from a good family, it is only for a few weeks, there are no valuables on the premises, and it is always you who opens up in the morning, so the risk of an unexpected encounter with the Curator is minimal...
+Your kind heart eventually won out over your professional ethics, and you had a **copy of your key** made at the cobbler's in the city centre, and gave it to him; after all, he is from a good family, it is only for a few weeks, there are no valuables on the premises, and it is always you who opens up in the morning, so the risk of an unexpected encounter with the Curator is minimal...
 
 In thanks, he gave you a pretty **signet ring** adorned with old Celtic symbols, supposed to "bring luck", which you now proudly wear on your finger. {% xfact "le guide a désormais une chevalière à la main" as author %} {% xitem "chevalière pour le guide" is needed %}
 
