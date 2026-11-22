@@ -148,12 +148,12 @@ In particular the 3 other sapients - the owl, the marmoset and the wombat.
 
 The Tortoise, distraught, orders them to go and bring justice, and to teach the humans a lesson, by eliminating the murderous mercenary.
 
-For her part, she takes care of preparing a dignified burial for Selene, by contacting her 2 magician friends.
+For her part, she takes care of preparing a dignified funeral for Selene, by contacting her 2 magician friends.
 
 **Clues**
 
-- A **strange crater** is present where a rock fell not far from the cottage, during the explosion.
-- Various tools and ingredients (including poisons) can be found in the alchemist's cottage.
+- A **strange crater** is present where a rock fell not far from the tower, during the explosion.
+- Various tools and ingredients (including poisons) can be found in the alchemist's tower.
 - Her enormous **Grimoire of Life** is missing, where she kept all her writings and precious documents, as well as her diary.
 - A few pieces of rock, metal and crystal have also disappeared from the shelves.
 - The Ancestral Tortoise can recount the events surrounding the mining explosion, from the alchemist's point of view.

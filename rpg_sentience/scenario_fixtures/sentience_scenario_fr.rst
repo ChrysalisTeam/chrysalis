@@ -148,12 +148,12 @@ En particulier les 3 autres sapiens - le hibou, le ouistiti et le wombat.
 
 La tortue, bouleversée, leur ordonne d'aller faire justice, et édifier les humains, en éliminant le mercenaire meurtrier. 
 
-De son côté, elle-même s'occupe de préparer un enterrement digne à Séléné, en contactant ses 2 amis magiciens.
+De son côté, elle-même s'occupe de préparer des funérailles dignes à Séléné, en contactant ses 2 amis magiciens.
 
 **Indices**
 
-- Un **étrange cratère** est présent là où un rocher était tombé non loin de la chaumière, lors de l'explosion.
-- Des outils et ingrédients divers (dont des poisons) peuvent être trouvés dans la chaumière de l'alchimiste. 
+- Un **étrange cratère** est présent là où un rocher était tombé non loin de la tour, lors de l'explosion.
+- Des outils et ingrédients divers (dont des poisons) peuvent être trouvés dans la tour de l'alchimiste. 
 - Il manque son énorme **grimoire de vie**, là où elle conservait tous ses écrits et documents précieux, ainsi que son journal intime.
 - Quelques morceaux de roche, de métal, de cristal, ont aussi disparu des étagères.
 - La tortue ancestrale peut raconter les événements autour de l'explosion minière, du point de vue de l'alchimiste.
