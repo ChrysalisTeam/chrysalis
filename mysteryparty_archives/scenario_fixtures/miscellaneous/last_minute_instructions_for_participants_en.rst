@@ -92,7 +92,7 @@ Questions to ask the players of the group before the game:
 - Parcival Oracle: Do not try to interpret the prophecies (images or sounds) you receive; pass them on as faithfully as possible to the widest possible audience
 - Parcival Alchemist: You can take/store all the potions, but communicate, because the Diakons may need them!
 - Spies: Do not hoard the riches (coins, diamonds...); it is pointless and spoils the game
-- Minesweeper Spy: Change of minesweeping mode => Electric hand now; the LUMINIS are used to mark interesting objects or traps
+- Minesweeper Spy: minesweeping is still done by dismantling the wires with bells without dropping any bell (see your sheet); the LUMINIS are used to mark interesting objects or traps
 - The Fallen: Remove the white ribbons from the fallen automatons when they are operational
 
 

@@ -15,7 +15,6 @@ Et vos péchés mignons, ce sont les pièges et les explosifs. Rien de magique, 
 Zones de danger
 +++++++++++++++++++++++++++++++++
 
-{# FIXME UPDATE THIS !!! #}
 Vous êtes capable de reconnaître et sécuriser les couloirs dangereux des vieilles bâtisses : murs ou planchers prêts à s'effondrer, voire pièges mécaniques posés dans les vieux temples et tombeaux.
 
 *NOTES hors-jeu* :

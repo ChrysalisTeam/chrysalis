@@ -15,7 +15,6 @@ And your guilty pleasures are traps and explosives. Nothing magical, just the go
 Danger Zones
 +++++++++++++++++++++++++++++++++
 
-{# FIXME UPDATE THIS !!! #}
 You are able to recognise and secure the dangerous passages of old buildings: walls or floors about to collapse, or even mechanical traps set in old temples and tombs.
 
 *Out-of-game notes*:

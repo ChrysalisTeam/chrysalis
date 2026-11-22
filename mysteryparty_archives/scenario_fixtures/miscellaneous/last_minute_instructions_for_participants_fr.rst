@@ -92,7 +92,7 @@ Questions à poser aux joueurs du groupe avant le jeu :
 - Parcival oracle : Ne cherchez pas à interpréter les prophéties (images ou sons) que vous recevez, transmettez-les le plus fidèlement possible à la plus large audience possible
 - Parcival alchimiste : Vous pouvez prendre/stocker toutes les potions, mais communiquez car les diacres peuvent en avoir besoin !
 - Espions : N'accaparez pas les richesses (pièces, diamants...), c'est inutile et gâche le jeu
-- Espion démineur : Changement du mode de déminage => Main électrique maintenant ; les LUMINIS servent à marquer objets intéressants ou pièges
+- Espion démineur : le déminage se fait toujours en démontant les fils à grelots sans faire tomber de grelot (voir ta fiche) ; les LUMINIS servent à marquer objets intéressants ou pièges
 - Déchus : Enlever rubans blancs aux automates déchus quand opérationnels
 
 
