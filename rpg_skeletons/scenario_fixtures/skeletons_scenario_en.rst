@@ -302,7 +302,7 @@ A huge terrestrial globe in relief, with annotations stapled on little papers, a
 
 An empty armchair faces this globe. No trace of Magus Parcival.
 
-**IMPORTANT**: Under the armchair, infant clothes, locked in a **small rune-covered reliquary**, give a **complete flashback** to OMEGA (Magus Parcival): a large half-buried tank, flies, an echoing grinding noise, a dreadful smell, and a wooden box from which a child's crying escapes... *(it is the cesspit in which SAPHIR was found by Parcival the apothecary)*
+**IMPORTANT**: Under the armchair, infant clothes, locked in a **small rune-covered reliquary**, give a **complete flashback** to OMEGA (Magus Parcival): a large half-buried tank, flies, an echoing grinding noise, a dreadful smell, and a wooden box from which a child's crying escapes... *(it is the cesspit in which SAPHIR was found by Colbert the apothecary, the future Magus Parcival)*
 
 
 .. raw:: pdf

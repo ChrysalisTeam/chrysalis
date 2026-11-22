@@ -302,7 +302,7 @@ Un énorme globe terrestre avec des reliefs, des annotations agrafées sur des p
 
 Un fauteuil vide fait face à ce globe terrestre. Aucune trace du mage Parcival.
 
-**IMPORTANT** : Sous le fauteuil, des vêtements de nourrisson, enfermés dans une **petite châsse couverte de runes**, donnent une **réminiscence complète** à OMEGA (mage Parcival) : une grande cuve semi-enterrée, des mouches, un bruit grinçant qui résonne, une odeur effroyable, et une boite en bois d'où s'échappent des pleurs d'enfant... *(c'est le purinoir dans lequel SAPHIR a été trouvée par l'apothicaire Parcival)*
+**IMPORTANT** : Sous le fauteuil, des vêtements de nourrisson, enfermés dans une **petite châsse couverte de runes**, donnent une **réminiscence complète** à OMEGA (mage Parcival) : une grande cuve semi-enterrée, des mouches, un bruit grinçant qui résonne, une odeur effroyable, et une boite en bois d'où s'échappent des pleurs d'enfant... *(c'est le purinoir dans lequel SAPHIR a été trouvée par l'apothicaire Colbert, futur mage Parcival)*
 
 
 .. raw:: pdf
