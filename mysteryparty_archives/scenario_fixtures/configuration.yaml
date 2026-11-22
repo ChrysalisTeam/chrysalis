@@ -131,6 +131,8 @@
           "full_sheet": ["miscellaneous/ingame_speeches_{lang}.rst"]
         "enigma_solutions":
           "full_sheet": ["miscellaneous/enigma_solutions_{lang}.rst"]
+        "ingame_signs_and_labels":
+          "full_sheet": ["miscellaneous/ingame_signs_and_labels_{lang}.rst"]
         "last_minute_instructions_for_participants":
           "full_sheet": ["miscellaneous/last_minute_instructions_for_participants_{lang}.rst"]
         "complement_for_diakons":
