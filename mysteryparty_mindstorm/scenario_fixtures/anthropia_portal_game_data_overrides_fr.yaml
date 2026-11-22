@@ -765,7 +765,7 @@ messaging:
                 - Un conseil municipal dans la ville d'Agdar, proche d'Alifir, a viré au pugilat lorsqu'a été votée une augmentation des taxes sur le pain.
                   Depuis, un certain "Capitaine Rodimir" occupe les lieux, avec une foule de plus en plus nombreuse de paysans et d'ouvriers.
 
-                - Un signalement pour disparition inquiétante a été levé à Alifir Sud par un propriétaire, Jak Kessler , inquiet de ne pas avoir été payé depuis 2 mois par son locataire, un "vieux monsieur de haute dignité" répondant au nom de Maximus Hotulov. Une alerte radiophonique sera levée dans environ {{ NB_HEURES }} heures, après les vérifications préalables.
+                - Un signalement pour disparition inquiétante a été levé à Alifir Sud par un propriétaire, Jak Kessler , inquiet de ne pas avoir été payé depuis 2 mois par son locataire, un "vieux monsieur de haute dignité" répondant au nom de Maximus Hotulov. Une alerte radiophonique sera levée dans environ une heure et demie, après les vérifications préalables.
 
                 - Un individu doté d'un accent légèrement midolien a été mis en fuite, tandis qu'il cambriolait le secrétariat d'une thalassothérapie située dans les monts brumeux, à l'Est de Sabarim. L'établissement a porté plainte contre X. Quelques dossiers ont été volés.
 
@@ -998,7 +998,7 @@ audio_messages:
              \pau=1000\ \audio=volume=15\ \pau=1000\ \audio=volume=5\ \pau=1000\
 
 
-    "44_council_akaris_first_impressions":
+    "44_council_akaris_first_impressions":  # remplacer {{ METTRE ICI RESULTAT }} avant diffusion (voir le planning, 2:00)
         "title": >-
             Premiers retours du concile akarite
         "text": >-
@@ -1023,7 +1023,7 @@ audio_messages:
             \pau=1000\ \audio=play="new_orchestra_hits_X_ending_008";volume=120\
 
 
-    "50_spy_unmasked_in_sabarim":
+    "50_spy_unmasked_in_sabarim":  # remplacer les X avant diffusion (voir le planning, 3:30)
          "title": >-
              Agent secret démasqué dans l'affaire Loyd Georges
          "text": >-
@@ -1046,7 +1046,7 @@ audio_messages:
              \audio=mix="new_loud_strings_intro_013";volume=100\ \pau=4000\ \pau=5000\
 
 
-    "54_robbing_in_some_location":  # ex. cambriolage de l'appartement de Cynthia
+    "54_robbing_in_some_location":  # ex. cambriolage de l'appartement de Cynthia ; remplacer {{VILLE }} et {{ DECRIRE_EVENEMENT }} avant diffusion (voir le planning, 3:30)
         "title": >-
             Cambriolage
         "text": >-
@@ -1122,7 +1122,7 @@ audio_messages:
             \audio=mix="news_aggressive_intro_012";volume=100\ \pau=6000\
 
 
-    "65_lydia_mining_area_sale":
+    "65_lydia_mining_area_sale":  # remplacer {{ PAYS }}, {{ PRIX }} et {{ REACTIONS }} avant diffusion (voir le planning, 3:00)
         "title": >-
             Vente d'un gisement minier d'Austrion
         "text": >-
@@ -1133,7 +1133,7 @@ audio_messages:
              \pau=3000\ \audio=volume=30\
 
 
-    "68_treaty_between_lordania_and_sabarim_and_flying_fortress":
+    "68_treaty_between_lordania_and_sabarim_and_flying_fortress":  # seulement si la Lordanie a obtenu l'aérodrome militaire sabarite (voir le planning, 4:30)
         "title": >-
            Accord militaire historique entre la Lordanie et Sabarim
         "text": >-
@@ -1197,14 +1197,14 @@ audio_messages:
              \pau=1500\ \audio=volume=10\ \pau=1000\
 
 
-    "80_serious_events_and_wars":
+    "80_serious_events_and_wars":  # compléter avant diffusion selon le déroulement de l'invasion (voir le planning, 4:30)
          "title": >-
              Événements graves en Midolie
          "text": >-
              \audio=mix="news_intense_full_loop_014";volume=100;repeat=on\ \pau=5000\ \pau=5000\ \pau=4000\ \audio=volume=25\
              \pau=1500\ \vce=speaker=Claire\
              Coup de tonnerre en Midolie, où l'armée akarite vient de lancer une offensive terrestre sur la frontière
-             SUD, contre le pays de XXX. Le tocsin résonne dans les pays voisins, où toutes les forces valides ont été
+             masslave, en direction du Mont Shina. Le tocsin résonne dans les pays voisins, où toutes les forces valides ont été
              mobilisées pour défendre les frontières et préparer une contre-offensive.
              \pau=1000\ \audio=volume=10\ \pau=1000\
 
@@ -1218,6 +1218,32 @@ audio_messages:
              Une dizaine d'akarites illégalement infiltrés en Sabarim viennent d'attaquer un dépôt d'armes, près de Salima.
              Les forces de police semblent dépassées par les évènements.
              \pau=1000\ \audio=volume=10\ \pau=1000\
+
+
+    # 2 variants of the Akariths' announcements at 5:00: broadcast only the one matching their geopolitical position (see the planning, 5:00)
+
+    "86_akarith_proclamation_victorious":
+         "title": >-
+             Proclamation victorieuse de l'Akarie
+         "text": >-
+             \audio=mix="news_bass_full_042";volume=120\ \pau=5000\ \audio=volume=40\ \pau=1000\ \vce=speaker=Manon\
+             Proclamation solennelle de la sainte Akarie. \pau=300\ Les armées des Yods progressent irrésistiblement vers
+             le sanctuaire immaculé du Mont Shina, et les peuples qui ont rejoint la sainte filiation en partagent déjà la gloire.
+             Que les nations bathares de Midolie déposent les armes, tant qu'il en est encore temps : l'empire cosmique
+             des Yods sera restauré, avec ou sans elles.
+             \pau=1500\ \audio=volume=10\ \pau=1000\
+
+
+    "86_akarith_proclamation_spiteful":
+         "title": >-
+             Proclamation rageuse de l'Akarie
+         "text": >-
+             \audio=mix="news_bass_full_042";volume=120\ \pau=5000\ \audio=volume=40\ \pau=1000\ \vce=speaker=Manon\
+             Proclamation de la sainte Akarie. \pau=300\ L'archidiacre Baazel dénonce la lâche coalition des nations bathares,
+             et les traîtres qui, jusque dans nos rangs, ont souillé la sainte cause des Yods. Les revers de nos armées
+             ne sont qu'une épreuve envoyée par les Yods pour éprouver la foi de leurs fidèles ; que les impies ne se
+             réjouissent pas trop vite, car l'heure de leur châtiment n'est que retardée.
+             \pau=1500\ \audio=volume=10\ \pau=1000\
 
 
     "88_death_of_loyd_georges":

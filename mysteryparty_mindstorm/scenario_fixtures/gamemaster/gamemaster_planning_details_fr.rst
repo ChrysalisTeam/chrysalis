@@ -228,7 +228,7 @@ HEURE 1:30
 
 - Obsidian: Passage à la fouille du manoir #4
 
-- SPOTS RADIO : "Retour du Front des Affranchis en Midolie", [si Lydia a signé le contrat de négociation avec l'Akarie] (spot radio à écrire selon les termes
+- SPOTS RADIO : "Retour du Front des Affranchis en Midolie", [si Lydia a signé le contrat de négociation avec l'Akarie] "Traité de négociation entre une candidate consulaire sabarite et l'Akarie"
 
 - MAILS : [si Obsidian l'a demandée] "Opération musclée effectuée"
 
@@ -260,7 +260,7 @@ HEURE 2:00
 
 - l'obéron clame les messages email en attente
 
-- SPOTS RADIO : "Premiers retours du concile akarite" (à compléter), "Emeutes en Sabarim", [si Waden a fourni à Omrh "E=MC2"] "Découverte scientifique majeure au Nalavut"
+- SPOTS RADIO : "Premiers retours du concile akarite" (avant diffusion, remplacer [METTRE ICI RESULTAT] selon les auditions déjà tenues par le concile, ex. "des résultats plutôt encourageants pour les doriens", "des résultats mitigés" ou "des résultats décevants pour les doriens"), "Emeutes en Sabarim", [si Waden a fourni à Omrh "E=MC2"] "Découverte scientifique majeure au Nalavut"
 
 - SHARK : confie à Obsidian le soin d'interroger **l'agent lordanien Amethyst**, et commence un entretien "dilemme du prisonnier" avec les **agents masslave Malachite et dorien Topaz** (en leur laissant 5 MINUTES pour se préparer mentalement, voire s'entendre sur une stratégie)
 
@@ -300,7 +300,7 @@ HEURE 2:30
 
 - Lydia reprend les négociations pour le gisement de sables bitumineux, assistée par le tabellion, et tranche la vente selon les propositions définitives qui lui sont faites (l'ambassadeur akarite tente de s'immiscer)
 
-- SPOTS RADIO : "Vente d'un gisement minier d'Austrion"
+- SPOTS RADIO : "Vente d'un gisement minier d'Austrion" (avant diffusion, remplacer [PAYS] par le pays acheteur, [PRIX] par le prix conclu, ex. "20 millions de", et [REACTIONS] par une phrase sur les réactions des pays voisins)
 
 - SHARK : fait potentiellement avec Obsidian un entretien "gentil flic/méchant flic" avec le suspect le plus accablé
 
@@ -354,7 +354,7 @@ HEURE 3:30
 
 - appel du {% symbol "Capitaine Rodimir" for "sabarim_revolution_leader_name" %} pour Lydia
 
-- SPOTS RADIO : [selon évènements] "Cambriolage", "Agent secret démasqué dans l'affaire Loyd Georges"
+- SPOTS RADIO : [selon évènements] "Cambriolage" (avant diffusion, remplacer [VILLE] et [DECRIRE_EVENEMENT] selon le cambriolage mené par un joueur, ex. l'appartement de Cynthia), "Agent secret démasqué dans l'affaire Loyd Georges" (avant diffusion, remplacer les X par l'identité de couverture du joueur démasqué, son nom d'agent, son pays, et 2 chefs d'inculpation supplémentaires selon ses actes, ex. vol et corruption)
 
 - SMS à envoyer à un espion démasqué : votre compte Anthropia <login> a été perquisitionné sur demande motivée de la chancellerie sabarite. Il est maintenant sous contrôle judiciaire de l’inspecteur Shark.
 
@@ -385,7 +385,7 @@ HEURE 4:00
 HEURE 4:30
 --------------
 
-- SPOTS RADIO : "Événements graves en Midolie" (à compléter, selon aussi la mort ou non de l'ambassadeur akarite), "Attaques d'akarites infiltrés en Sabarim"
+- SPOTS RADIO : [si la Lordanie a obtenu l'usage de l'aérodrome militaire sabarite, et que Sabarim n'a pas sombré dans les émeutes] "Accord militaire historique entre la Lordanie et Sabarim" ; puis "Événements graves en Midolie" (avant diffusion, compléter le spot d'1 ou 2 phrases selon les équilibres de force décrits dans "L'invasion akarite" du manuel du MJ, et selon la mort ou non de l'ambassadeur akarite, ex. "Sabarim, accusé du meurtre de l'ambassadeur akarite, se retrouve en première ligne"), "Attaques d'akarites infiltrés en Sabarim"
 
 - Obsidian: Passage à la fouille du manoir #10 (en réalité, elle ne sera jamais terminée !)
 
@@ -402,7 +402,7 @@ HEURE 4:30
 HEURE 5:00
 --------------
 
-- SPOTS RADIO : annonces fracassantes des akarites (hargneuses ou victorieuses), selon leur position géopolitique
+- SPOTS RADIO : annonces fracassantes des akarites, selon leur position géopolitique : "Proclamation victorieuse de l'Akarie" si l'invasion progresse (doriens ralliés, orbe récupéré, pas de forteresse volante lordanienne...), sinon "Proclamation rageuse de l'Akarie"
 
 - SPOTS RADIO : [si personne n'a rien fait contre Shark] "Funèbre nouvelle à l'hospice de Salima"
 

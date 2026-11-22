@@ -197,7 +197,7 @@ Early in the evening, the radio announces that **Vik Leydelass, Lydia Magnus and
 
 But shortly afterwards, the radio reports that Lydia is facing accusations of fraud from her opponent {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}, which suspends the electoral process in her consulate
 
-{% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} calls Lydia shortly afterwards: these fraud accusations are admittedly "yet to be substantiated", but he has proof that Opal took part in the theft of the "Queen's Necklace" in Lordania, with the "Red Wolves"; and he gives Lydia XXX (to be decided) hours to withdraw from the race.
+{% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} calls Lydia shortly afterwards: these fraud accusations are admittedly "yet to be substantiated", but he has proof that Opal took part in the theft of the "Queen's Necklace" in Lordania, with the "Red Wolves"; and he gives Lydia an hour and a half to withdraw from the race (he calls her back around 2:00 for her answer, see the planning).
 This {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} has also slipped a fake document compromising Lydia (electoral fraud) into Opal's suitcase, hoping that in the context of the Loyd Georges affair, it would be searched at some point.
 
 For Lydia, it is a matter of either repudiating her husband to protect herself (cynical choice), or gaining the upper hand in the confrontation, by making the evidence disappear (the deputy police officer can help with that), or by revealing the crimes (drug trafficking) of {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} to discredit him in advance.

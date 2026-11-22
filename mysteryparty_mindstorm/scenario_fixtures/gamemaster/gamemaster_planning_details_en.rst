@@ -228,7 +228,7 @@ HOUR 1:30
 
 - Obsidian: Moving on to manor search #4
 
-- RADIO SPOTS: "Return of the Freedmen's Front in Midolia", [if Lydia has signed the negotiation contract with Akaris] (radio spot to be written according to the terms
+- RADIO SPOTS: "Return of the Freedmen's Front in Midolia", [if Lydia has signed the negotiation contract with Akaris] "Negotiation treaty between a Sabarith consular candidate and Akaris"
 
 - EMAILS: [if Obsidian requested it] "Heavy-handed operation carried out"
 
@@ -260,7 +260,7 @@ HOUR 2:00
 
 - the Oberon calls out the pending email messages
 
-- RADIO SPOTS: "First news from the Akarith council" (to be completed), "Riots in Sabarim", [if Waden has provided Omrh with "E=MC2"] "Major scientific discovery in Nalavut"
+- RADIO SPOTS: "First news from the Akarith council" (before broadcasting, replace [PUT RESULT HERE] according to the hearings already held by the council, e.g. "rather encouraging results for the Dorians", "mixed results" or "disappointing results for the Dorians"), "Riots in Sabarim", [if Waden has provided Omrh with "E=MC2"] "Major scientific discovery in Nalavut"
 
 - SHARK: entrusts Obsidian with questioning **the Lordanian agent Amethyst**, and begins a "prisoner's dilemma" interview with the **Masslavian agent Malachite and Dorian agent Topaz** (leaving them 5 MINUTES to prepare mentally, or even agree on a strategy)
 
@@ -300,7 +300,7 @@ HOUR 2:30
 
 - Lydia resumes the negotiations for the tar sands deposit, assisted by the Tabellion, and settles the sale according to the final proposals made to her (the Akarith Ambassador tries to interfere)
 
-- RADIO SPOTS: "Sale of a mining deposit in Austrion"
+- RADIO SPOTS: "Sale of a mining deposit in Austrion" (before broadcasting, replace [COUNTRY] with the buying country, [PRICE] with the agreed price, e.g. "20 million", and [REACTIONS] with a sentence on the reactions of the neighbouring countries)
 
 - SHARK: may conduct, with Obsidian, a "good cop/bad cop" interview with the most incriminated suspect
 
@@ -354,7 +354,7 @@ HOUR 3:30
 
 - call from {% symbol "Captain Rodimir" for "sabarim_revolution_leader_name" %} for Lydia
 
-- RADIO SPOTS: [depending on events] "Burglary", "Secret agent unmasked in the Loyd Georges affair"
+- RADIO SPOTS: [depending on events] "Burglary" (before broadcasting, replace [CITY] and [DESCRIBE_EVENT] according to the burglary carried out by a player, e.g. Cynthia's flat), "Secret agent unmasked in the Loyd Georges affair" (before broadcasting, replace the Xs with the cover identity of the unmasked player, their agent name, their country, and 2 additional charges depending on their deeds, e.g. theft and bribery)
 
 - SMS to send to an unmasked spy: your Anthropia account <login> has been searched following a substantiated request from the Sabarith chancellery. It is now under the judicial control of Inspector Shark.
 
@@ -385,7 +385,7 @@ HOUR 4:00
 HOUR 4:30
 --------------
 
-- RADIO SPOTS: "Serious events in Midolia" (to be completed, depending also on whether or not the Akarith Ambassador died), "Attacks by infiltrated Akariths in Sabarim"
+- RADIO SPOTS: [if Lordania has obtained the use of the Sabarith military aerodrome, and Sabarim has not sunk into riots] "Historic military agreement between Lordania and Sabarim"; then "Serious events in Midolia" (before broadcasting, complete the spot with 1 or 2 sentences according to the balance of power described in "The Akarith invasion" of the GM manual, and to whether or not the Akarith Ambassador died, e.g. "Sabarim, accused of the murder of the Akarith Ambassador, finds itself on the front line"), "Attacks by infiltrated Akariths in Sabarim"
 
 - Obsidian: Moving on to manor search #10 (in reality, it will never be completed!)
 
@@ -402,7 +402,7 @@ HOUR 4:30
 HOUR 5:00
 --------------
 
-- RADIO SPOTS: sensational announcements from the Akariths (spiteful or victorious), depending on their geopolitical position
+- RADIO SPOTS: sensational announcements from the Akariths, depending on their geopolitical position: "Victorious proclamation from Akaris" if the invasion is progressing (Dorians rallied, orb recovered, no Lordanian flying fortress...), otherwise "Spiteful proclamation from Akaris"
 
 - RADIO SPOTS: [if nobody has done anything against Shark] "Grim news from the Salima hospice"
 

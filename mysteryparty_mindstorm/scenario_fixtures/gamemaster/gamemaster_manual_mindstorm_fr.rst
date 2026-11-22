@@ -197,7 +197,7 @@ En début de soirée, la radio annonce que **Vik Leydelass, Lydia Magnus et Ouid
 
 Mais peu après, la radio informe que Lydia fait face à des accusations de fraude de la part de son adversaire {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %}, ce qui suspend le processus électoral dans son consulat
 
-{% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} appelle Lydia peu après : certes ces accusations de fraude "encore à étayer", mais il a la preuve qu'Opal a participé au vol du "collier de la reine" en Lordanie, avec les "Loups Rouges" ; et il donne XXX (à décider) heures à Lydia pour se retirer de la course.
+{% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} appelle Lydia peu après : certes ces accusations de fraude "encore à étayer", mais il a la preuve qu'Opal a participé au vol du "collier de la reine" en Lordanie, avec les "Loups Rouges" ; et il donne une heure et demie à Lydia pour se retirer de la course (il la rappelle vers 2:00 pour avoir sa réponse, voir le planning).
 Ce {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} a aussi fait glisser un faux document compromettant pour Lydia (fraude électorale), dans la valise d'Opal, espérant que dans le cadre de l'affaire Loyd Georges, elle soit fouillée à un moment.
 
 Pour Lydia, il s'agit soit de répudier son mari pour se protéger (choix cynique), soit de prendre le dessus dans la confrontation, en faisant disparaître les preuves (l'adjointe de police peut y aider), ou en révélant les crimes (trafic de drogue) de {% symbol "Mundlish Odalisc" for "lydia_adversary_name" %} pour le décrédibiliser par avance.
