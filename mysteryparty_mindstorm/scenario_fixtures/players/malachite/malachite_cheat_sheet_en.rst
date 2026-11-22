@@ -28,6 +28,7 @@
 
 - it seems that a Lordanian agent "Emerald", corrupted by the Akariths, poisoned himself recently, at the Akarith embassy in Doria, while trying to assassinate a rich Lordanian desecrator; the Lordanian services have clearly understood nothing of the affair, and are seeking to avenge this "Emerald" {% xfact 'opal_killed_emerald_agent' %}
 - you have learned that the cellar of the {% symbol "Cafe Bargarac in Alifir" for "akarith_sect_den_bar" %} was sheltering Akarith "Purifiers" {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
+- your colleague Spinel tried to burgle Loyd Georges' manor, but the security systems had become too sophisticated, and he was nearly arrested {% xfact 'spinel_robs_lg_manor_fail' %}
 {% endif %}
 
 - the day before:

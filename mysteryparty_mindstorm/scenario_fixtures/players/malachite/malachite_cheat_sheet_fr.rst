@@ -28,6 +28,7 @@
 
 - il semble qu'un agent lordanien "Emerald", perverti par les Akarites, se soit auto-empoisonné il y a peu, à l'ambassade akarite en Dorie, en tentant d'assassiner un riche profanateur lordanien ; les services lordaniens n'ont visiblement rien compris à l'affaire, et cherchent à venger cet "Emerald" {% xfact 'opal_killed_emerald_agent' %}
 - vous avez appris que la cave du {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %} abritait des "purificateurs" akarites {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
+- votre collègue Spinel a tenté de cambrioler le manoir de Loyd Georges, mais les systèmes de sécurité étaient devenus trop perfectionnés, et il a failli se faire arrêter {% xfact 'spinel_robs_lg_manor_fail' %}
 {% endif %}
 
 - la veille :
