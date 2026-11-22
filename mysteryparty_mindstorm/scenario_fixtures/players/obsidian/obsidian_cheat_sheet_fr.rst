@@ -10,6 +10,8 @@ Votre principale tâche est de préserver Sabarim contre les nombreuses menaces 
 
 **L'Affaire Voluto** garde aussi son importance ; en attendant d'obtenir des investigations sur le compte Anthropia du professeur, et peut-être de retrouver les enregistrements de surveillance de l'Académie d'Alifir, vous pouvez toujours voir du côté de ses anciens collègues : {% symbol "le docteur Marloff du département d'optique appliquée, le jeune physicien Waden Shaw, et le professeur Idn Gark du pôle Energies Nouvelles" for "voluto_suspicious_colleagues" %}. {% xfact "voluto_death_day_academy_recordings_disappeared" %} {% xfact 'agent_mission_investigate_voluto' %}
 
+Surtout, nul ne doit apprendre que le professeur est mort par votre faute : son coeur a lâché lorsque vous l'avez plaqué au sol, pendant la perquisition de son domicile (l'affaire a été étouffée).
+
 
 {% if standalone %}
 <{ title_major_recent_facts }/>
