@@ -198,7 +198,7 @@
     - "1 silver cartridge, 12 gauge, unused [100¤] {% xitem 'single_caliber_12_cartridge' is provided %}"
     - "1 relic: my old wallet and step counter [100¤] {% xitem 'old_alphonse_wallet' is provided %}"  # contains the pass card dedicated ONLY to the mailbox
     - "1 Authentic replica of Loyd Georges' golden pass card, non-functional [100¤]"  # to swap it with the REAL golden pass card
-    - "1 deck of cards (manual sadly undecipherable; the coded message prop is in French, FRERES RDV DEMAIN SOIR AU PURINEUR = brothers, meet tomorrow evening at the Purineur), found yesterday in the gambling den {% symbol 'La Murge de Salima' for 'alphonse_alibi_bar' %} [100¤] {% xitem 'card_game_with_unreadable_manual' is provided %}"   # secret word of the Purifiers, giving an appointment the next day at the Purineur
+    - "1 deck of cards (manual sadly undecipherable), found yesterday in the gambling den {% symbol 'La Murge de Salima' for 'alphonse_alibi_bar' %} [100¤] {% xitem 'card_game_with_unreadable_manual' is provided %}"   # secret word of the Purifiers, giving an appointment the next day at the Purineur; GM NOTE (never in the label, which is printed on the players' sales menu): the coded message prop is in French, FRERES RDV DEMAIN SOIR AU PURINEUR = brothers, meet tomorrow evening at the Purineur (see the GM manual)
     - "1 high-tech CHROMIA pen found in the manor [100¤] {% xitem 'chromia_spy_pen' is provided %}"   # spy dictaphone
     - "1 cave octopus tentacle [100¤] {% xitem 'octopus_tentacle_in_bottle' is provided %}"
     - "1 juice (dark red) of red-skinned Akarith land mushroom [100¤] {% xitem 'red_land_mushroom_juice' is provided %}"

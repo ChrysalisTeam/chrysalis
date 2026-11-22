@@ -165,7 +165,7 @@ The Sabarith agent Obsidian, present at the evening as "Inspector Shark's deputy
 
 - the Masslavian agents know that the {% symbol "Cafe Bargarac in Alifir" for "akarith_sect_den_bar" %} serves as a den for Akarith Purifiers {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
 - Cynthia receives a misspelt trap message which, once geolocated, points to the address of the {% symbol "Cafe Bargarac in Alifir" for "akarith_sect_den_bar" %}
-- the card game sold by Alphonse contains a coded message announcing a meeting of the Purifiers at the Purineur Brasserie. {% xitem 'card_game_with_unreadable_manual' is needed %}
+- the card game sold by Alphonse contains a coded message announcing a meeting of the Purifiers at the Purineur Brasserie. {% xitem 'card_game_with_unreadable_manual' is needed %} *GM note: the coded message prop is in French, it decodes to "FRERES RDV DEMAIN SOIR AU PURINEUR" ("brothers, meet tomorrow evening at the Purineur"); if needed, give the players this translation once they have decoded it.*
 - a strange radio spot gives the Purineur Brasserie some rather counter-productive publicity
 
 If agent Obsidian reports one of these 2 bars to Inspector Shark, nothing happens.
