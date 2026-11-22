@@ -48,7 +48,7 @@ BUFFET OPENING (by the Inventor avatar)
     My heart would so love to believe it, but my mind is waiting to see...
 
 
-Alternative version in alexandrines (by Cyck du Clivra):
+Alternative version in verse (by Cyck du Clivra):
 
 ::
 

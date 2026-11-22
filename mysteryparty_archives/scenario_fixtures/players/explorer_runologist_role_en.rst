@@ -32,8 +32,8 @@ You have learned to decode a few cipher systems, and keep a **memo sheet** on th
 
 You also know that some messages can be hidden in simple drawings, either as stereograms or as anamorphoses. Some reading on the subject:
 
-- https://www.1001experiences.com/aide-stereogramme.html
-- http://www.wonderful-art.fr/illusion-d-optique-anamorphose/
+- https://en.wikipedia.org/wiki/Autostereogram
+- https://en.wikipedia.org/wiki/Anamorphosis
 
 {#
     TO CREATE STEREOGRAMS AND ANAMORPHOSES
