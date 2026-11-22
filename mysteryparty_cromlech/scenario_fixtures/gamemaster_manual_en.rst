@@ -97,6 +97,8 @@ Professor Gustave Bloch, archaeology expert (optional)
 {% symbol "Andrea di Revel" for "hero_name" %}, the Hero (final appearance)
     A 20-year-old young Italian, passionate, feverish, brave. He only appears at the very end of the final scene, to announce the ending (see the "Game Flow" sheet). He is played by an extra NPC actor, who stays hidden until then, or failing that by Professor Bloch's actor, who changes costume during the final huddles. His appearance is to be described to the other NPC actors during their briefing, so that they all describe him in the same way to the players (to be adapted to his actor): slim, brown hair, elegant student clothes (waistcoat, white shirt), a bracelet adorned with old Celtic symbols on his wrist, a slight Italian accent, left-handed. For his final appearance: a torn shirt stained with blood at the belly, a blackened face, and the Roman gladius in hand if he is victorious.
 
+*Note: the NPC actors' characters are men in all the documents (police identity sheets, newspaper article, the other NPC actors' sheets). An actress can perfectly well play one of them as a man; if you prefer to make the character a woman (hence the "Mr/Mrs" of some sheets), tell the other NPC actors, and correct by hand the documents handed out to the players.*
+
 
 Description of the Museum Treasure
 ===========================================

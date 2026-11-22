@@ -97,6 +97,8 @@ Le professeur Gustave Bloch, expert en archéologie (facultatif)
 {% symbol "Andrea di Revel" for "nom_du_héros" %}, le Héros (apparition finale)
     Jeune Italien de 20 ans, passionné, fébrile, courageux. Il n'apparaît qu'à la toute fin de la scène finale, pour annoncer le dénouement (voir la fiche "Déroulement du jeu"). Il est joué par un figurant supplémentaire, qui reste caché jusque-là, ou à défaut par l'interprète du professeur Bloch, qui change de costume pendant les conciliabules finaux. Son apparence est à décrire aux autres figurants lors de leur briefing, afin que tous le décrivent de la même façon aux joueurs (à adapter à son interprète) : mince, cheveux bruns, tenue d'étudiant élégante (gilet, chemise blanche), bracelet orné de vieux symboles celtes au poignet, léger accent italien, gaucher. Pour son apparition finale : chemise déchirée et tachée de sang au ventre, visage noirci, et le glaive romain à la main s'il est victorieux.
 
+*Note : les personnages des figurants sont des hommes dans tous les documents (fiches d'identité de la police, article de journal, fiches des autres figurants). Une figurante peut tout à fait jouer l'un d'eux en tant qu'homme ; si l'on préfère féminiser le personnage (d'où le "M./Mme" de certaines fiches), il faut en prévenir les autres figurants, et corriger à la main les documents remis aux joueurs.*
+
 
 Description du trésor du musée
 ===========================================
