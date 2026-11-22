@@ -554,7 +554,7 @@ Shortly afterwards, on that very day, the Sabarith agent Obsidian was caught by 
 
 Now, the Sabariths and the various countries that were contacted are trying to recover Professor Voluto's secrets, even though they actually have very few means of obtaining clues for this (difficult quest); and for his part, Waden seeks to erase all traces of the secret laboratory where everything is stored.
 
-To do so, Waden can negotiate the destruction of the laboratory with one of the factions that have mercenaries, in exchange for a Thermocyclic Fusion Core or another asset; he can also manipulate Akarith Purifiers (via the contacts Cynthia receives from her colleagues) so that they burn down the laboratory themselves.
+To do so, Waden can negotiate the destruction of the laboratory with one of the factions that have mercenaries, in exchange for a Thermocyclic Fusion Core or another asset; he can also manipulate Akarith Purifiers (via the contacts Cynthia receives from her colleagues) so that they burn down the laboratory themselves. *GM note: the Purifiers' password is visually hidden in the ivory object sent to Cynthia with the Sabarim Gazette letter; this prop is in French and hides the word "sanctuaire" ("sanctuary"); when you play the Purifiers' contact, accept both "sanctuaire" and "sanctuary".*
 
 If this destruction drags on, Cynthia is informed of a "report of a suspicious disappearance" in South Alifir, and this eventually goes out on the radio. The other secret agents can therefore exploit this lead, with the help of mercenaries for example.
 
