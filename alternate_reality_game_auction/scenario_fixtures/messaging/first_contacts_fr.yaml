@@ -200,11 +200,11 @@ messaging:
                 PS : Pour ceux qui n'ont pas pu la voir, ou bien qui n'en sont pas rassasiés, voici la petite
                 vidéo introductive des enchères que nous avons visionnée ce soir :
 
-                TODO FIXME http://sharing.prolifik.net/LG_auction_intro_blingbling_french.mp4
+                {{ lien_video }}
 
                 loyd Georges
             "categories": ["first_contacts"]
-            "gamemaster_hints": ""
+            "gamemaster_hints": "Remplacer {{ lien_video }} par le lien de la vidéo d'introduction des enchères projetée en début de partie (vidéo d'origine, en français : http://sharing.prolifik.net/LG_auction_intro_blingbling_french.mp4)."
             "sender_email": >-
                 loyd.georges@anthropia.pg
             "subject": >-

@@ -6,12 +6,10 @@ messaging:
 
 
         -   id: alifir_ceremony
-            gamemaster_hints: "Début de la mission du doctorat honoris causa"
+            gamemaster_hints: "Début de la mission du doctorat honoris causa ; ce flash info peut aussi être lu à l'antenne de la webradio, à la manière d'un spot radio."
             categories: ["doctor_honoris_causa"]
             subject: "Flash Info - Colloque à Alifir"
             body: |
-
-                {{ MAINTENANT SPOT RADIO LA DESSUS PLUTOT }}
 
                 L’Académie d’Alifir prépare en grande pompe la 10° édition de son Grand Colloque, un évènement qui a lieu tous les 6 ans depuis sa création, et qui n’est pas pour rien dans le rayonnement grandissant de ce poumon scientifique, artistique et littéraire.
 
@@ -168,8 +166,6 @@ messaging:
             recipient_emails: [melete@anthropia.pg, mneme@anthropia.pg]
             subject: "Dr Syghmon Banor"
             body: |
-                {{ A COMPLETER }}
-
                 Et encore une fois, concernant le professeur Syghmon Banor, je ne remets pas du tout en cause son expertise, ni l'intérêt, pour la science, de ses recherches. C'est quand même grâce à lui que de nouveaux matériaux polymères ont été découverts, et il a rigoureusement approfondi, à sa manière, la connaissance du règne animal.
 
                 Mais enfin, tu diras ce que tu voudras, nous aurons l'air bien fins lorsque les journaux annonceront sa nomination au titre de *Doctor Honoris Causa*.

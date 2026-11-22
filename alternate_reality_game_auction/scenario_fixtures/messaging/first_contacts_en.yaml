@@ -200,11 +200,11 @@ messaging:
                 PS: For those who could not see it, or who have not had their fill of it, here is the little
                 introductory video of the auctions which we watched this evening:
 
-                TODO FIXME http://sharing.prolifik.net/LG_auction_intro_blingbling_french.mp4
+                {{ video_link }}
 
                 Loyd Georges
             "categories": ["first_contacts"]
-            "gamemaster_hints": ""
+            "gamemaster_hints": "Replace {{ video_link }} with the link of the auction introduction video shown at the start of the game (the original video is in French: http://sharing.prolifik.net/LG_auction_intro_blingbling_french.mp4; in an English game, link your own video, or do not send this message)."
             "sender_email": >-
                 loyd.georges@anthropia.pg
             "subject": >-
