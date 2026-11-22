@@ -821,7 +821,7 @@ messaging:
 
                 The police have been notified, the investigations continue, good luck to us all.
 
-            gamemaster_hints: "Behind the sketch, a coded message speaks of the infiltrations carried out in a network of taverns. See the \"Pocket watch\" item. The letters that will be reconstructed are those between the murderer and his sister."
+            gamemaster_hints: "Behind the sketch, a coded message speaks of the infiltrations carried out in a network of taverns. See the \"Pocket watch\" item. The letters that will be reconstructed are those between the murderer and his sister. Before sending, replace {{ TARGET_LOCATION }} with the bar targeted by Obsidian (the Cafe Bargarac in Alifir or the Purineur Brasserie in Salima): the findings are the same."
 
 
         -   id: sabarith_simultaneous_assault_preparation

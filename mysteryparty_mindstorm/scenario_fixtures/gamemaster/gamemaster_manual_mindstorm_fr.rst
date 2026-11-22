@@ -169,11 +169,11 @@ L'agent sabarite Obsidian, présente à la soirée en tant que "adjointe de l'in
 - un étrange spot radio fait une promotion plutôt contre-productive de la Brasserie du Purineur
 
 Si l'agent Obsidian remonte un de ces 2 bars à l'inspecteur Shark, rien ne se passe.
-En revanche, les services secrets sabarites peuvent y faire une descente.
+En revanche, les services secrets sabarites peuvent y faire une descente (mail "Opération musclée effectuée").
 
-Trouvailles remontées par la perquisition :
+Trouvailles remontées par la perquisition, quel que soit celui des 2 bars qui est visé :
 
-- message codé {% symbol "MO NOUS COUVRE - LIVRAISON OK – 17 TAVERNES AUBONPICHET SOUMISES SUR 1238" for "akarith_sect_coded_message" %}, déchiffrable avec l'aide de Cynthia. {% xfact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
+- message codé, au dos d'une esquisse de Salima envoyée par coursier, {% symbol "MO NOUS COUVRE - LIVRAISON OK – 17 TAVERNES AUBONPICHET SOUMISES SUR 1238" for "akarith_sect_coded_message" %}, déchiffrable avec l'aide de Cynthia. {% xfact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
 - montre à gousset qui, une fois analysée biophysiquement via Anthropia, divulgue des métaux lordaniens, des pollens d'Akarie dans la drogue ainsi que des "vapeurs de liqueur de tilleul" dans la drogue (ce qui circonscrit à environ 80 tavernes AuBonPichet servant cette boisson); le scanner mondial, lui, donne une treizaine de quartiers dans les grandes villes sabarites (régions de Salima/Belez, Alifir, Faeran et Cazoar), quartiers contenant en tout une soixantaine de tavernes AuBonPichet. Avoir les deux indices (les tavernes servant de la liqueur de tilleul, dans ces quartiers) permet de cerner précisément les 17 tavernes soumises ; le MJ communique ce résultat à Obsidian via le mail "Préparation d'assaut simultané" (voir son indice pour le MJ).
 
 Les consuls peuvent pousser une gueulante, en interne, suite à cette première investigation dans un tripot qu'ils cherchent à protéger.
@@ -495,7 +495,7 @@ Dans ce cas, les joueurs seront prévenus (avec une vague description d’un per
 
 Mais divers indices doivent convaincre Obsidian que quelque chose ne tourne pas rond :
 
-- la correspondance familiale de Shark (interceptée par les akarites) peu à peu reconstituée, suite à la descente de police dans un tripot de Salima
+- la correspondance familiale de Shark (interceptée par les akarites) peu à peu reconstituée, suite à la descente des services secrets dans un des 2 bars des purificateurs (voir plus haut)
 - la lettre de l'intendant de police de Salima, répondant à une plainte de Loyd Georges contre les méthodes anormales de l'inspecteur
 - le comportement étrange de l'inspecteur : ses libertés vis à vis de la loi sabarite, ses manipulations de preuves, ses algarades avec ceux qui avancent trop dans des enquêtes parallèles, un juron akarite qu'il laisse échapper à un moment...
 

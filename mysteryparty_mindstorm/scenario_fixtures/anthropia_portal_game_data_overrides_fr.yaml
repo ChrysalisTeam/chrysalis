@@ -821,7 +821,7 @@ messaging:
 
                 La police a été prévenue, les investigations continuent, bonne chance à nous tous.
 
-            gamemaster_hints: "Derrière l'esquisse, un message codé parle des infiltrations effectuées dans un réseau de tavernes. Voir l'objet \"Montre à gousset\". Les lettres qui seront reconstituées sont celles entre le meurtrier et sa soeur."
+            gamemaster_hints: "Derrière l'esquisse, un message codé parle des infiltrations effectuées dans un réseau de tavernes. Voir l'objet \"Montre à gousset\". Les lettres qui seront reconstituées sont celles entre le meurtrier et sa soeur. Avant l'envoi, remplacer {{ TARGET_LOCATION }} par le bar visé par Obsidian (le Café Bargarac d'Alifir ou la Brasserie du Purineur de Salima) : les trouvailles sont les mêmes."
 
 
         -   id: sabarith_simultaneous_assault_preparation

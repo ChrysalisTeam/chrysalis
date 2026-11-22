@@ -169,11 +169,11 @@ The Sabarith agent Obsidian, present at the evening as "Inspector Shark's deputy
 - a strange radio spot gives the Purineur Brasserie some rather counter-productive publicity
 
 If agent Obsidian reports one of these 2 bars to Inspector Shark, nothing happens.
-On the other hand, the Sabarith secret services can raid it.
+On the other hand, the Sabarith secret services can raid it ("Heavy-handed operation carried out" email).
 
-Findings brought back by the raid:
+Findings brought back by the raid, whichever of the 2 bars is targeted:
 
-- coded message {% symbol "MO IS COVERING US - DELIVERY OK – 17 AUBONPICHET TAVERNS SUBDUED OUT OF 1238" for "akarith_sect_coded_message" %}, decipherable with Cynthia's help. {% xfact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %} *GM note: the coded message prop is in French, it decodes to "MO NOUS COUVRE - LIVRAISON OK - 17 TAVERNES AUBONPICHET SOUMISES SUR 1238"; if needed, give the players the English text above once they have decoded it.*
+- coded message, on the back of a sketch of Salima sent by courier, {% symbol "MO IS COVERING US - DELIVERY OK – 17 AUBONPICHET TAVERNS SUBDUED OUT OF 1238" for "akarith_sect_coded_message" %}, decipherable with Cynthia's help. {% xfact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %} *GM note: the coded message prop is in French, it decodes to "MO NOUS COUVRE - LIVRAISON OK - 17 TAVERNES AUBONPICHET SOUMISES SUR 1238"; if needed, give the players the English text above once they have decoded it.*
 - pocket watch which, once biophysically analysed via Anthropia, reveals Lordanian metals, Akarith pollens in the drug as well as "lime-blossom liqueur vapours" in the drug (which narrows it down to about 80 AuBonPichet taverns serving this drink); the World Scanner, for its part, gives some thirteen districts in the big Sabarith cities (regions of Salima/Belez, Alifir, Faeran and Cazoar), districts containing in total some sixty AuBonPichet taverns. Having both clues (the taverns serving lime-blossom liqueur, within these districts) makes it possible to pinpoint exactly the 17 subdued taverns; the GM gives this result to Obsidian via the "Preparation of a simultaneous assault" email (see its GM hint).
 
 The consuls may raise hell, internally, following this first investigation into a gambling den they are trying to protect.
@@ -495,7 +495,7 @@ In that case, the players will be warned (with a vague description of a characte
 
 But various clues must convince Obsidian that something is wrong:
 
-- Shark's family correspondence (intercepted by the Akariths) gradually pieced together, following the police raid on a gambling den in Salima
+- Shark's family correspondence (intercepted by the Akariths) gradually pieced together, following the secret services' raid on one of the 2 Purifiers' bars (see above)
 - the letter from the police superintendent of Salima, replying to a complaint by Loyd Georges against the inspector's abnormal methods
 - the inspector's strange behaviour: his liberties with Sabarith law, his tampering with evidence, his altercations with those who get too far in parallel investigations, an Akarith oath he lets slip at some point...
 

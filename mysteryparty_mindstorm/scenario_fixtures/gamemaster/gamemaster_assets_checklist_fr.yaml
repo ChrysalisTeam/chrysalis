@@ -145,7 +145,7 @@
     - "Noix tropicales et restes de Liqueur bleue (stockés en cuisine, offerts la veille à Loyd Georges) {% xfact 'malachite_offers_nuts_to_lg' as author %} {% xfact 'amethyst_offers_liquor_to_lg' as author %}"
     - "Pochette de \"laurier\" (en réalité du laurier rose) derrière les condiments de la cuisine, avec flyer \"Bibine Express\" {% xitem 'oleander_ingredient_pouch' is provided %}"
     - "Boite \"Pâte Pectorale Jane\" sous le \"Baobab\", avec dedans l'énigme menant au \"Précieux Chaudron\" {% xitem 'paste_box_with_precious_cauldron_enigma' is provided %}"
-    - "Mot codé \"MO nous couvre, livraison OK\" etc. si descente à la Brasserie du Purineur"
+    - "Esquisse de Salima avec au dos le mot codé \"MO nous couvre, livraison OK\" etc., envoyée par coursier à Obsidian si descente dans un des 2 bars (Café Bargarac d'Alifir ou Brasserie du Purineur)"
     - "Lettre du Judicateur Praeves, dans une enveloppe rembourrée (boite postale anonyme du hameau voisin) {% xitem 'judicator_praeves_letter_and_lily_juice' is provided %}"
     - "Livre factice \"Venture Prins\" (avec dedans une note appelant à regarder par la fenêtre du bureau) {% xitem 'venture_prins_fake_book' is provided %}"
 
