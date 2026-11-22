@@ -30,7 +30,7 @@ Histoire complète (SPOILERS)
 
 *Ce jeu reprend l'ambiance (mais pas le lore) de Lovecraft et du Mythe de Cthulhu. L'action des joueurs se déroule dans bibliothèque à première vue banale, mais qui renferme des artefacts maudits issus de l'ère pré-gallo-romaine.*
 
-Dans l'antiquité, suite à la défaite d'Alésia (52 av. J.-C), les Gaulois ont été conquis par Jules César. Mais pas tous. Des tribus rebelles ont continué le combat, et se sont réfugiées dans l'oppidum d'Uxellodunum (dans les massifs du Quercy). Affamés par le siège des Romains, ils ont fini par se rendre à leur tour.
+Dans l'antiquité, suite à la défaite d'Alésia (52 av. J.-C), les Gaulois ont été conquis par Jules César. Mais pas tous. Des tribus rebelles ont continué le combat, et se sont réfugiées dans l'oppidum d'Uxellodunum (dans les massifs du Quercy). Privés d'eau par le siège des Romains, ils ont fini par se rendre à leur tour.
 
 Mais quelques druides, venus d'Armorique, ont mis en place une ultime vengeance. Réfugiés avec des fuyards dans une grotte, ils ont invoqué par de sombres maléfices leur dieu tutélaire, {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %} ; avec pour objectifs de faire naître un guerrier mythique, qui renverserait le cours des choses et leur apporterait la victoire.
 

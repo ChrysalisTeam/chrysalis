@@ -30,7 +30,7 @@ Full Story (SPOILERS)
 
 *This game borrows the atmosphere (but not the lore) of Lovecraft and the Cthulhu Mythos. The players' action takes place in a seemingly ordinary library, which however houses cursed artefacts from the pre-Gallo-Roman era.*
 
-In antiquity, following the defeat at Alesia (52 BC), the Gauls were conquered by Julius Caesar. But not all of them. Rebel tribes kept up the fight, and took refuge in the oppidum of Uxellodunum (in the uplands of Quercy). Starved out by the Roman siege, they ended up surrendering in their turn.
+In antiquity, following the defeat at Alesia (52 BC), the Gauls were conquered by Julius Caesar. But not all of them. Rebel tribes kept up the fight, and took refuge in the oppidum of Uxellodunum (in the uplands of Quercy). Cut off from their water by the Roman siege, they ended up surrendering in their turn.
 
 But a few druids, who had come from Armorica, set up one last act of vengeance. Taking refuge in a cave with some fugitives, they invoked their tutelary god, {% symbol "Toutatis" for "bloodthirsty_god_name" %}, through dark sorcery; with the aim of bringing forth a mythical warrior, who would reverse the course of events and bring them victory.
 
