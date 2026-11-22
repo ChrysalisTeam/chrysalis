@@ -146,6 +146,8 @@ In the process, Josephine brings back from the city a faithful ally from the sta
 - **The second telegraph message**, to the Mineralys Company: the telegraph office keeps a printed tape of every message sent; the apothecary, who is responsible for it, can read it again if he gets his key back (scene 4).
 - **The witnesses**: the apothecary (scenes 2 and 4); the hot-spring conversation (scene 5); the Ancestral Tortoise, through her reminiscence, on an artefact brought to her: the crossbow bolt (the murder by Abelard), Selene's real letter (Josephine reading it, then hiding it), or the jaw (Josephine scarifying Abelard).
 
+**The chain of clues**: the forged letter is handwritten, whereas Selene typed all her missives, and its handwriting is not that of Selene's manuscripts; so Selene did not write it. The toucan then points to Dorina; but Dorina's real handwriting does not match either, and her toucan died more than a year ago: the burgomaster lied (first level of the conspiracy). The second level (Josephine, Abelard, Mineralys) is proved by the contents of the safe, the telegraph tape, the hot-spring conversation, or the reminiscence of the jaw.
+
 
 .. raw:: pdf
 

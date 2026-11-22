@@ -146,6 +146,8 @@ Dans la foulée, Joséphine ramène de la ville un fidèle allié de son début 
 - **Le second message télégraphique**, à la Société Minéralys : le poste télégraphique garde une bande imprimée de chaque message envoyé ; l'apothicaire, qui en est responsable, peut la relire s'il récupère sa clé (scène 4).
 - **Les témoins** : l'apothicaire (scènes 2 et 4) ; la conversation de la source thermale (scène 5) ; la tortue ancestrale, par sa réminiscence, sur un artefact qu'on lui apporte : le carreau d'arbalète (le meurtre par Abélard), la vraie lettre de Séléné (Joséphine la lisant, puis la cachant), ou la mâchoire (Joséphine scarifiant Abélard).
 
+**La chaîne d'indices** : la fausse lettre est manuscrite, alors que Séléné tapait toutes ses missives à la machine, et son écriture n'est pas celle des manuscrits de Séléné ; ce n'est donc pas Séléné qui l'a écrite. Le toucan désigne alors Dorina ; mais la vraie écriture de Dorina ne correspond pas non plus, et son toucan est mort depuis plus d'un an : le bourgmestre a menti (premier niveau du complot). Le second niveau (Joséphine, Abélard, Minéralys) se prouve par le contenu du coffre-fort, la bande du télégraphe, la conversation de la source thermale, ou la réminiscence de la mâchoire.
+
 
 .. raw:: pdf
 
