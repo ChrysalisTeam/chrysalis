@@ -244,3 +244,56 @@ messaging:
 
                 The Oberons
 
+
+        # QUEST FOR THE ALPHA ORB (see the GM manual) #
+
+        -   id: loakim_marvel_safe_place
+            gamemaster_hints: "Alpha Orb: message to have intercepted (wiretapping of Loyd Georges) to start the investigation on Prof. Loakim."
+            categories: ["nazur_orb"]
+            sender_email: emilos.loakim
+            recipient_emails: loyd.georges
+            subject: "Re: Our marvel"
+            body: |
+
+                My old Loyd,
+
+                rest assured: the marvel is being studied in a safe place, far from the academy and its busybodies. Our young friend devotes all his weekends to it. The less we write about it, the better it will fare.
+
+                *Emilos*
+
+
+        -   id: barzow_order_confirmation
+            gamemaster_hints: "Alpha Orb: visible in Waden's account (e.g. through a fake friendship request in Cynthia's name). Announces the invoice barzow_invoice, which will reveal the address of the lab."
+            categories: ["nazur_orb"]
+            sender_email: commandes@barzow-optics.pg
+            recipient_emails: waden
+            subject: "Order confirmation no. 4471"
+            body: |
+
+                Dear customer,
+
+                we confirm your order of a large Lasulis transponder, with its set of Barzow lenses.
+
+                Given its size (300 kg), this equipment cannot be left at a concierge desk: it will be delivered directly to the address you gave us by phone. The invoice, with the delivery details, will be sent to your contact address as soon as it is shipped.
+
+                *The order department - Barzow Optics*
+
+
+        -   id: barzow_invoice
+            gamemaster_hints: "Alpha Orb: to send a few days after barzow_order_confirmation, to Waden's contact address (add Waden as recipient, or the address that the players have wiretapped); reveals the address of his secret lab, where the orb is."
+            categories: ["nazur_orb"]
+            sender_email: commandes@barzow-optics.pg
+            recipient_emails: []
+            subject: "Invoice no. 4471"
+            body: |
+
+                Invoice no. 4471 - Barzow Optics
+
+                - 1 large Lasulis transponder: 3900¤
+                - 1 set of Barzow lenses: 700¤
+                - special delivery (300 kg): 200¤
+
+                Total: 4800¤, payable within 30 days.
+
+                Delivered on the 12th of the month to: 7 Tanners' Alley (basement), Brisebois hamlet, South Faeran.
+

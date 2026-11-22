@@ -59,4 +59,126 @@ messaging:
 
 
 
+        -   id: cynthia_wetfeet_studio
+            gamemaster_hints: "Alpha Orb: visible in Prof. Loakim's account; betrays the location of Cynthia's studio (Wetfeet peninsulas) and two criteria to find it on the sketch oberons_wetfeet_sketch."
+            categories: ["cynthia_abduction"]
+            sender_email: cynthia
+            recipient_emails: emilos.loakim
+            subject: "Re: Floods"
+            body: |
+
+                Dad,
+
+                don't worry about the floods the newspapers are talking about: my little studio on the Wetfeet peninsulas, near Alifir, is on firm ground, not on stilts like the houses of the harbour, and it is not on the ground floor. The water can rise all it likes!
+
+                I am leaving again for Nalavut soon, love,
+
+                *Cynthia*
+
+
+        -   id: cynthia_spare_keys
+            gamemaster_hints: "Alpha Orb: visible in Waden's account, or through wiretapping; gives the hiding place of the spare keys (for a stealthy visit of the studio) and the last criteria to find it on the sketch."
+            categories: ["cynthia_abduction"]
+            sender_email: cynthia
+            recipient_emails: waden
+            subject: "The studio keys"
+            body: |
+
+                Darling,
+
+                during my stay in Nalavut, I have left a spare set of the studio keys in the second post from the entrance, in case you want to come and rest there.
+
+                The neighbours on each side are as discreet as ever, but the ones upstairs party every night; luckily the sea view makes up for everything (I pity the ones on the other side, with the antennas of the industrial complex right under their noses).
+
+                    Your "RF"
+
+
+        -   id: oberons_wetfeet_sketch
+            gamemaster_hints: "Alpha Orb: reply of the mercenaries sent to the Wetfeet peninsulas. Cynthia's studio is on the 1st floor of the large central building, middle window of the left facade (sea side): on firm ground, not on the ground floor, neighbours on each side and under the roof, a view of the sea and not of the industrial complex on the right. The \"second post\" is the second bollard of the path, starting from the door."
+            categories: ["cynthia_abduction"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Sketch - Wetfeet peninsulas"
+            body: |
+
+                Dear client,
+
+                here is a sketch of the residential district of the Wetfeet peninsulas, near Alifir, drawn on site by our men. Tell us precisely which home to visit, and how.
+
+                .. image:: [GAME_THUMBNAIL_URL "images/locations/house_sketch.png" "big_width"]
+                    :align: center
+                    :target: [GAME_FILE_URL "images/locations/house_sketch.png"]
+
+                rgds,
+
+                The Oberons
+
+
+        -   id: oberons_cynthia_studio_breakin
+            gamemaster_hints: "Alpha Orb: break-in at Cynthia's studio (adapt if the designated home is the wrong one). Few results, and the alarm is raised."
+            categories: ["cynthia_abduction"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Report - Wetfeet"
+            body: |
+
+                Dear client,
+
+                our men forced the door of the designated home, but an alarm went off at once. They only had time to take away a few work notes: the occupant is preparing her coverage of the Great Nalavut Council in Kitiika there (accreditations, list of clan chiefs to interview). The district police are now on their guard.
+
+                rgds,
+
+                The Oberons
+
+
+        -   id: oberons_cynthia_studio_stealth
+            gamemaster_hints: "Alpha Orb: stealthy visit of Cynthia's studio, with the spare keys. The reminder points to her Anthropia password, \"globetrotter\"."
+            categories: ["cynthia_abduction"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Report - Wetfeet"
+            body: |
+
+                Dear client,
+
+                thanks to the spare keys hidden in the post, our men visited the studio with the utmost discretion, and left it untouched. They noted:
+
+                - the mission notes of the occupant, a reporter covering the Great Nalavut Council in Kitiika;
+                - photos of her with the physicist Waden Shaw;
+                - this reminder pinned above the desk: "Anthropia password: what I have always been, one who trots the globe, in a single word."
+
+                rgds,
+
+                The Oberons
+
+
+        -   id: cynthia_encrypted_archive
+            gamemaster_hints: "Alpha Orb: second chance to find Cynthia's password. If a player forwards this archive to their superiors for a brute-force decryption, answer them a few days later with the template archive_cracked_globetrotter."
+            categories: ["cynthia_abduction"]
+            sender_email: cynthia
+            recipient_emails: waden
+            subject: "Sneak preview"
+            body: |
+
+                Darling,
+
+                here is a sneak preview of the first results of the Nalavut council, in the attached encrypted archive (still with the usual password). Don't tell anyone before it is published!
+
+                [Attachment: nalavut_council_preview.zip]
+
+                    Your "RF"
+
+
+        -   id: archive_cracked_globetrotter
+            gamemaster_hints: "Alpha Orb: reply of the superiors (secret-services contact of the player's faction) to the decryption of the archive cynthia_encrypted_archive."
+            categories: ["cynthia_abduction"]
+            subject: "Archive decrypted"
+            body: |
+
+                Agent,
+
+                our cryptographic hacking department has cracked the archive you sent us. Its password is "globetrotter".
+
+                It only contains a draft article by Cynthia Loakim on the Great Nalavut Council in Kitiika, of no strategic interest. But who knows where else this password might be useful?
+
+                Your Superiors
+
+
 ...

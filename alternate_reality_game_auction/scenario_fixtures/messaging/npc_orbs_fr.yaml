@@ -243,3 +243,56 @@ messaging:
 
                 Les Obérons
 
+
+        # QUEST FOR THE ALPHA ORB (see the GM manual) #
+
+        -   id: loakim_marvel_safe_place
+            gamemaster_hints: "Orbe Alpha : message à faire intercepter (écoute de Loyd Georges) pour lancer l'enquête sur le Pr Loakim."
+            categories: ["nazur_orb"]
+            sender_email: emilos.loakim
+            recipient_emails: loyd.georges
+            subject: "Re: Notre merveille"
+            body: |
+
+                Mon vieux Loyd,
+
+                rassure-toi : la merveille est à l'étude en lieu sûr, loin de l'académie et de ses curieux. Notre jeune ami y consacre tous ses week-ends. Moins nous en écrirons à ce sujet, mieux elle se portera.
+
+                *Emilos*
+
+
+        -   id: barzow_order_confirmation
+            gamemaster_hints: "Orbe Alpha : visible dans le compte de Waden (par exemple via une fausse demande d'amitié au nom de Cynthia). Annonce la facture barzow_invoice, qui révélera l'adresse du laboratoire."
+            categories: ["nazur_orb"]
+            sender_email: commandes@barzow-optics.pg
+            recipient_emails: waden
+            subject: "Confirmation de commande n°4471"
+            body: |
+
+                Cher client,
+
+                nous confirmons votre commande d'un transpondeur Lasulis grand modèle, avec son jeu de lentilles de Barzow.
+
+                Vu son encombrement (300 kg), ce matériel ne peut être déposé en conciergerie : il sera livré directement à l'adresse que vous nous avez indiquée par téléphone. La facture, avec le détail de la livraison, vous sera envoyée à votre adresse de contact dès l'expédition.
+
+                *Le service commandes - Optiques Barzow*
+
+
+        -   id: barzow_invoice
+            gamemaster_hints: "Orbe Alpha : à envoyer quelques jours après barzow_order_confirmation, à l'adresse de contact de Waden (ajouter en destinataire Waden, ou l'adresse que les joueurs ont mise sur écoute) ; révèle l'adresse de son laboratoire secret, où se trouve l'orbe."
+            categories: ["nazur_orb"]
+            sender_email: commandes@barzow-optics.pg
+            recipient_emails: []
+            subject: "Facture n°4471"
+            body: |
+
+                Facture n°4471 - Optiques Barzow
+
+                - 1 transpondeur Lasulis grand modèle : 3900¤
+                - 1 jeu de lentilles de Barzow : 700¤
+                - livraison spéciale (300 kg) : 200¤
+
+                Total : 4800¤, à régler sous 30 jours.
+
+                Livré le 12 du mois au : 7 impasse des Tanneurs (sous-sol), hameau de Brisebois, Faeran Sud.
+

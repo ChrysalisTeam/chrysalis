@@ -59,4 +59,126 @@ messaging:
 
 
 
+        -   id: cynthia_wetfeet_studio
+            gamemaster_hints: "Orbe Alpha : visible dans le compte du Pr Loakim ; trahit l'emplacement du studio de Cynthia (presqu'îles de Wetfeet) et deux critères pour le trouver sur le croquis oberons_wetfeet_sketch."
+            categories: ["cynthia_abduction"]
+            sender_email: cynthia
+            recipient_emails: emilos.loakim
+            subject: "Re: Inondations"
+            body: |
+
+                Papa,
+
+                ne t'inquiète pas pour ces inondations dont parlent les journaux : mon petit studio des presqu'îles de Wetfeet, près d'Alifir, est sur la terre ferme, pas sur pilotis comme les maisons du port, et il n'est pas au rez-de-chaussée. L'eau peut bien monter !
+
+                Je repars bientôt pour le Nalavut, je t'embrasse,
+
+                *Cynthia*
+
+
+        -   id: cynthia_spare_keys
+            gamemaster_hints: "Orbe Alpha : visible dans le compte de Waden, ou par écoute ; donne la cachette du double des clefs (pour une visite furtive du studio) et les derniers critères pour le trouver sur le croquis."
+            categories: ["cynthia_abduction"]
+            sender_email: cynthia
+            recipient_emails: waden
+            subject: "Les clefs du studio"
+            body: |
+
+                Mon chéri,
+
+                pendant mon séjour au Nalavut, j'ai laissé un double des clefs du studio dans le deuxième poteau en partant de l'entrée, si tu veux venir t'y reposer.
+
+                Les voisins de chaque côté sont toujours aussi discrets, mais ceux du dessus font la fête tous les soirs ; heureusement que la vue sur la mer console de tout (je plains ceux d'en face, avec les antennes du complexe industriel sous le nez).
+
+                    Ton "RF"
+
+
+        -   id: oberons_wetfeet_sketch
+            gamemaster_hints: "Orbe Alpha : réponse des mercenaires envoyés aux presqu'îles de Wetfeet. Le studio de Cynthia est au 1er étage du grand bâtiment central, fenêtre du milieu de la façade gauche (côté mer) : sur terre ferme, pas au rez-de-chaussée, des voisins de chaque côté et sous les combles, vue sur la mer et non sur le complexe industriel de droite. Le \"deuxième poteau\" est la deuxième borne du chemin, en partant de la porte."
+            categories: ["cynthia_abduction"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Croquis - presqu'îles de Wetfeet"
+            body: |
+
+                Cher client,
+
+                voici un croquis du quartier résidentiel des presqu'îles de Wetfeet, près d'Alifir, dessiné sur place par nos hommes. Indiquez-nous précisément quel logement visiter, et comment.
+
+                .. image:: [GAME_THUMBNAIL_URL "images/locations/house_sketch.png" "big_width"]
+                    :align: center
+                    :target: [GAME_FILE_URL "images/locations/house_sketch.png"]
+
+                rgds,
+
+                Les Obérons
+
+
+        -   id: oberons_cynthia_studio_breakin
+            gamemaster_hints: "Orbe Alpha : visite du studio de Cynthia par effraction (adapter si le logement désigné est le mauvais). Peu de résultats, et l'alerte est donnée."
+            categories: ["cynthia_abduction"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Rapport - Wetfeet"
+            body: |
+
+                Cher client,
+
+                nos hommes ont forcé la porte du logement désigné, mais une alarme s'est aussitôt déclenchée. Ils n'ont eu que le temps d'emporter quelques notes de travail : l'occupante y prépare sa couverture du Grand Conseil nalavutien de Kitiika (accréditations, liste de chefs de clan à interviewer). La police du quartier est désormais sur ses gardes.
+
+                rgds,
+
+                Les Obérons
+
+
+        -   id: oberons_cynthia_studio_stealth
+            gamemaster_hints: "Orbe Alpha : visite furtive du studio de Cynthia, avec le double des clefs. Le pense-bête désigne son mot de passe Anthropia, \"globetrotter\"."
+            categories: ["cynthia_abduction"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Rapport - Wetfeet"
+            body: |
+
+                Cher client,
+
+                grâce au double des clefs caché dans le poteau, nos hommes ont visité le studio en toute discrétion, et l'ont laissé intact. Ils y ont relevé :
+
+                - les notes de mission de l'occupante, une reporter qui couvre le Grand Conseil nalavutien de Kitiika ;
+                - des photos d'elle avec le physicien Waden Shaw ;
+                - ce pense-bête punaisé au-dessus du bureau : "Mot de passe Anthropia : ce que je suis depuis toujours, une trotteuse de globe, en un seul mot, à l'anglaise."
+
+                rgds,
+
+                Les Obérons
+
+
+        -   id: cynthia_encrypted_archive
+            gamemaster_hints: "Orbe Alpha : seconde chance pour trouver le mot de passe de Cynthia. Si un joueur transmet cette archive à ses supérieurs pour un déchiffrement en force brutale, leur répondre quelques jours plus tard avec le modèle archive_cracked_globetrotter."
+            categories: ["cynthia_abduction"]
+            sender_email: cynthia
+            recipient_emails: waden
+            subject: "Avant-première"
+            body: |
+
+                Mon chéri,
+
+                voici en avant-première les premiers résultats du conseil nalavutien, dans l'archive chiffrée ci-jointe (avec encore le mot de passe habituel). N'en parle à personne avant la publication !
+
+                [Pièce jointe : conseil_nalavut_avant-premiere.zip]
+
+                    Ton "RF"
+
+
+        -   id: archive_cracked_globetrotter
+            gamemaster_hints: "Orbe Alpha : réponse des supérieurs (contact secret-services de la faction du joueur) au déchiffrement de l'archive cynthia_encrypted_archive."
+            categories: ["cynthia_abduction"]
+            subject: "Archive déchiffrée"
+            body: |
+
+                Agent,
+
+                notre service de piratage cryptographique est venu à bout de l'archive que vous nous avez transmise. Son mot de passe est "globetrotter".
+
+                Elle ne contient qu'un brouillon d'article de Cynthia Loakim sur le Grand Conseil nalavutien de Kitiika, sans intérêt stratégique. Mais qui sait où d'autre ce mot de passe pourrait servir ?
+
+                Vos Supérieurs
+
+
 ...

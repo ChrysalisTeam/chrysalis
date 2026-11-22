@@ -81,6 +81,26 @@ audio_messages:
             in question are portraits (oil on canvas) of three dignitaries
             of the time: Lady Aurora, Lord Prephett and Lord Rulias. \pau=5000\
 
+    "35_news_kitiika_attack":
+        "title": >-
+            International News in Brief - Nalavut
+        "gamemaster_hints": "Alpha Orb: announcement of the kidnapping of Cynthia and of several clan chiefs in Kitiika (see the GM manual)."
+        "text": >-
+            \audio=play="jingle_chimes_006";volume=100\ \pau=10\ \vce=speaker=Claire\ Serious crisis in Kitiika,
+            where an armed group burst into the precinct of the great Nalavutian council, and took about ten
+            people present hostage, before fleeing by sea. Numerous warships are criss-crossing
+            the area in search of them. \audio=play="jingle_chimes_006";volume=100\
+
+    "36_news_kitiika_cynthia_missing":
+        "title": >-
+            International News in Brief - Nalavut
+        "gamemaster_hints": "Alpha Orb: a few days after spot 35, if Cynthia is still held by her kidnappers (adapt it otherwise)."
+        "text": >-
+            \audio=play="jingle_chimes_006";volume=100\ \pau=10\ \vce=speaker=Claire\ Relief in Nalavut,
+            where all the clan chiefs kidnapped by unknown terrorists have been found in a drifting sailing
+            boat. Their kidnappers reportedly slipped away, keeping a Sabarith journalist hostage,
+            Cynthia Loakim. \audio=play="jingle_chimes_006";volume=100\
+
     "40_news_council_explosion_alifir":
         "title": >-
             International News

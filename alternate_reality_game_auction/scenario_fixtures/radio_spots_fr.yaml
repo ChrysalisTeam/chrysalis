@@ -81,6 +81,26 @@ audio_messages:
             en question sont des portraits (peinture à l'huile sur toile) de trois dignitaires
             de l'époque : Lady Aurora, Lord Préphett et Lord Rulias. \pau=5000\
 
+    "35_news_kitiika_attack":
+        "title": >-
+            Brèves Internationales - Nalavut
+        "gamemaster_hints": "Orbe Alpha : annonce de l'enlèvement de Cynthia et de plusieurs chefs de clan à Kitiika (voir le manuel)."
+        "text": >-
+            \audio=play="jingle_chimes_006";volume=100\ \pau=10\ \vce=speaker=Claire\ Grave crise à Kittiiika,
+            où un groupe armé a fait irruption dans l'enceinte du grand conseil nalavutien, et pris en otage
+            une dizaine de personnes présentes, avant de s'enfuir par la mer. De nombreux navires de guerre
+            sillonnent la zone à leur recherche. \audio=play="jingle_chimes_006";volume=100\
+
+    "36_news_kitiika_cynthia_missing":
+        "title": >-
+            Brèves Internationales - Nalavut
+        "gamemaster_hints": "Orbe Alpha : quelques jours après le spot 35, si Cynthia est encore aux mains de ses ravisseurs (adapter sinon)."
+        "text": >-
+            \audio=play="jingle_chimes_006";volume=100\ \pau=10\ \vce=speaker=Claire\ Soulagement au Nalavut,
+            où tous les chefs de clan enlevés par des terroristes inconnus ont été retrouvés dans un voilier
+            à la dérive. Leurs ravisseurs se seraient éclipsés en gardant en otage une journaliste sabarite,
+            Sinnnthia Looaakim. \audio=play="jingle_chimes_006";volume=100\
+
     "40_news_council_explosion_alifir":
         "title": >-
             News internationales
