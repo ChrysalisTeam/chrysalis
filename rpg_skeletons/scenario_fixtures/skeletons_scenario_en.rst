@@ -228,7 +228,7 @@ Interesting artefacts IN the chests:
 
 - **Grimoire of elemental spells**, allowing GAMMA (Childeric) to remember better spells with his gauntlet: electric arc, shockwave, flash of light...
 - Ebony **message box**, potentially containing a letter asking for news, sent by SAPHIR
-- With a careful search: **Magus Childeric's summoning robe and jewellery**
+- With a careful search: **Magus Childeric's summoning robe and jewellery**; on touching them, GAMMA (Childeric) has a **complete flashback**: he sees himself in his summoning robe, raising the first abominations, setting up the defences of the keep, and teaching an ash-haired little girl; he then remembers his name
 
 
 Flaying house
@@ -241,6 +241,8 @@ A bad, slightly putrid smell hangs nearby.
 **IMPORTANT**: this smell gives an **incomplete flashback** to OMEGA (Magus Parcival): a large half-buried tank, flies, an echoing grinding noise, and a dreadful smell... *(it is a "cesspit")*
 
 Inside: large machinery turning slowly, but noisily, nonstop, powered by a windmill.
+
+**IMPORTANT**: the sight of the large cogwheel of the machinery gives an **incomplete flashback** to GAMMA (Magus Childeric): a sleeve caught, an irresistible pull, a young panicked voice shouting "Master!"... *(it is his own death)*
 
 The corpses of adventurers are separated there into bones, which end up in the ossuary, meat, which ends up in the self-refrigerating ice house, and skin, which is first dried and then stored to serve as snacks for the dogs (but a reseller is lacking to sell off the surplus).
 

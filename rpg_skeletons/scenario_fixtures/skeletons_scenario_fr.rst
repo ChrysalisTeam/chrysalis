@@ -228,7 +228,7 @@ Artefacts intéressants DANS les coffres :
 
 - **Grimoire des sortilèges élémentaires**, permettant à GAMMA (Childéric) de se souvenir de meilleurs sorts avec son gantelet : arc électrique, onde de choc, éclat de lumière...
 - **Boîte messagère** en ébène, contenant potentiellement un courrier de demande de nouvelles, envoyé par SAPHIR
-- En cherchant bien : **robe d'invocation et bijoux du mage Childéric**
+- En cherchant bien : **robe d'invocation et bijoux du mage Childéric** ; en les touchant, GAMMA (Childéric) a une **réminiscence complète** : il se revoit en robe d'invocation, levant les premières abominations, installant les défenses du donjon, et enseignant à une fillette aux cheveux de cendre ; il se souvient alors de son nom
 
 
 Dépècerie
@@ -241,6 +241,8 @@ Mauvaise odeur, légèrement putride, à proximité.
 **IMPORTANT** : cette odeur donne une **réminiscence incomplète** à OMEGA (mage Parcival) : une grande cuve semi-enterrée, des mouches, un bruit grinçant qui résonne, et une odeur effroyable... *(c'est un "purinoir")*
 
 Dedans : grande machinerie qui tourne lentement, mais bruyamment, en continu, grâce à une éolienne.
+
+**IMPORTANT** : la vue de la grande roue crantée de la machinerie donne une **réminiscence incomplète** à GAMMA (mage Childéric) : une manche happée, une traction irrésistible, une jeune voix paniquée qui crie "Maître !"... *(c'est sa propre mort)*
 
 Les cadavres des aventuriers y sont séparés entre les os qui terminent à l'ossuaire, la viande qui finit au glacier autoréfrigéré, et la peau qui est d'abord séchée avant d'être stockée pour servir de snacks aux chiens (mais il manque un revendeur pour écouler le surplus).
 
