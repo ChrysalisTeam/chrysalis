@@ -2,7 +2,7 @@
 <{ title_last_minute_information }/>
 ==============================================
 
-One of your informants was watching Loyd Georges' manor the day before, from the hill opposite, with a spyglass. He reports having seen two very elegant people come out very quickly through the pantry's basement window, at around noon. They went round the manor, and left the grounds by the main gate, as if nothing had happened. One of them, on leaving, patted their pockets and seemed to have lost something in their flight.
+One of your informants was watching Loyd Georges' manor the day before, from the hill opposite, with a spyglass. He reports having seen two very elegant people come out very quickly through the pantry's high transom window, shortly before 13:00. They went round the manor, and left the grounds by the main gate, as if nothing had happened. One of them, on leaving, patted their pockets and seemed to have lost something in their flight.
 {% xfact 'amethyst_and_malachite_locked_in_pantry' %} {% xfact 'amethyst_has_lost_thin_manor_parcel' %}
 
 Just before leaving, you printed a sheet on "The Origin of Precious Stones", since you are beginning to forget the knowledge you had crammed in order to play your "official character". {% xitem "origins_of_precious_stones_for_peridot" is needed %}

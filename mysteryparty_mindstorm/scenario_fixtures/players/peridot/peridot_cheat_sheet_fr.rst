@@ -43,7 +43,7 @@
 <{ title_last_minute_information }/>
 ==============================================
 
-- deux personnes élégantes sont sorties, la veille vers midi, par le soupirail du garde-manger du manoir, avant de quitter le parc par le grand portail ; l'une d'elle semblait avoir perdu quelque chose dans sa fuite  {% xfact 'amethyst_and_malachite_locked_in_pantry' %} {% xfact 'amethyst_has_lost_thin_manor_parcel' %}
+- deux personnes élégantes sont sorties, la veille peu avant 13h, par le vasistas du garde-manger du manoir, avant de quitter le parc par le grand portail ; l'une d'elles semblait avoir perdu quelque chose dans sa fuite  {% xfact 'amethyst_and_malachite_locked_in_pantry' %} {% xfact 'amethyst_has_lost_thin_manor_parcel' %}
 - vous avez sur vous une fiche sur "L'origine des pierres précieuses"  {% xitem "origins_of_precious_stones_for_peridot" is needed %}
 - en cas d'alliance avec l'Akarie, le signe de reconnaissance avec les akarites serait "{% symbol "les bras croisés sur la poitrine" for "dorian_akarith_alliance_sign" %}" {% xfact "dorians_have_alliance_sign_with_akariths" %}
 

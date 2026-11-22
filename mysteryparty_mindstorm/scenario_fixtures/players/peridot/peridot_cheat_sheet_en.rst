@@ -43,7 +43,7 @@
 <{ title_last_minute_information }/>
 ==============================================
 
-- two elegant people came out, the day before at around noon, through the basement window of the manor's pantry, before leaving the grounds by the main gate; one of them seemed to have lost something in their flight  {% xfact 'amethyst_and_malachite_locked_in_pantry' %} {% xfact 'amethyst_has_lost_thin_manor_parcel' %}
+- two elegant people came out the day before, shortly before 13:00, through the transom window of the manor's pantry, before leaving the grounds by the main gate; one of them seemed to have lost something in their flight  {% xfact 'amethyst_and_malachite_locked_in_pantry' %} {% xfact 'amethyst_has_lost_thin_manor_parcel' %}
 - you are carrying a sheet on "The Origin of Precious Stones"  {% xitem "origins_of_precious_stones_for_peridot" is needed %}
 - in the event of an alliance with Akaris, the recognition sign with the Akariths would be "{% symbol "arms crossed over the chest" for "dorian_akarith_alliance_sign" %}" {% xfact "dorians_have_alliance_sign_with_akariths" %}
 
