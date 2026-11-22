@@ -7,7 +7,7 @@ Facts and involved characters
 
 {% if facts_registry %}
 
-*Characters who are author of a fact are marked in bold. The gamemaster is not listed, and facts of the in-game clues documents are attributed to "<master>".*
+*Characters who are author of a fact are marked in bold. The Game Master is not listed, and facts of the in-game clues documents are attributed to "<master>".*
 
 .. list-table::
    :widths: 50 50
