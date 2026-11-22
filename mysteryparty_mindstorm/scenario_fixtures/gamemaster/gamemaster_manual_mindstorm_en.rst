@@ -302,9 +302,11 @@ Beware, the Lordanians may have put their oar in, by issuing fake news in the me
 The assassination of the Akarith Ambassador
 --------------------------------------------
 
-In the middle of the evening, the Sabarith agent receives the order to "naturally" assassinate (e.g. via an allergic shock) the Akarith Ambassador, to stop his scheming against the country's security.
+Around 4:00 (see the planning), just before the Akarith Ambassador's return, the GM hands out the "surprise missions" of the clue document, in priority to the factions that seem idle; each faction has its own mission:
 
-At the same time, the Lordanian agents receive the order to assassinate him while pinning the blame on Sabarim; to do so they must challenge the Akarith Ambassador to a duel of honour, thereby recover his skull ring (which is typical of the "{% symbol "Keroskia highlands" for "akarith_ambassador_skull_ring_origin" %}", as he and Loyd Georges' servants know), and use the specifically Sabarith poison it contains, to poison him in return.
+- the Lordanian agents, and the Masslavian agents, receive the order to assassinate him while pinning the blame on Sabarim, to push this country out of its neutrality;
+- the Dorian agents receive the order to assassinate him to create an open diplomatic crisis; only their mission gives a means: his skull ring (which is typical of the "{% symbol "Keroskia highlands" for "akarith_ambassador_skull_ring_origin" %}", as he and Loyd Georges' servants know) is coated with Karnaj, a specifically Sabarith poison; they can recover it by challenging the Ambassador to a duel of honour (stake: one of his jewels), then make him drink this poison transferred into a drink, with the exceptional help of the Oberon mediator, which pins the blame on Sabarim; the other factions can discover this means by themselves (or via Cynthia's clue, "poisoning by his own accessory");
+- the Sabarith agent receives the order to "naturally" assassinate the Akarith Ambassador, to stop his scheming against the country's security: for example a heart failure, caused by Loyd Georges' digoxin or by the lily of the valley of the P.O. box, poured into a drink that a servant brings him (the Ambassador has no food allergy, this idea having been dropped).
 
 Depending on which side is quickest to act, the Ambassador's death does or does not trigger a serious crisis between Akaris and Sabarim, tipping the geopolitical balance accordingly.
 

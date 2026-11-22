@@ -371,7 +371,7 @@ HEURE 4:00
 
 - l'obéron clame les messages email en attente
 
-- diffuser les missions d'assassinat de l'ambassadeur akarite (juste avant son arrivée), selon quel camp semble désoeuvré
+- diffuser les missions d'assassinat de l'ambassadeur akarite (juste avant son arrivée), selon quel camp semble désoeuvré (une mission par camp : lordanien, masslave, dorien, sabarite ; voir le manuel du MJ), et donner à Cynthia l'indice de sa rédaction sur ces projets d'assassinat
 
 - [PNJ-MR] : Obéron & Ambassadeur Akarite (le cuisinier et la vieille dame rentrent chez eux, sauf si encore nécessaires)
 

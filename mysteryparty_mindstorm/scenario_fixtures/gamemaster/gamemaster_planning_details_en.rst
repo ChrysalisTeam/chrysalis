@@ -371,7 +371,7 @@ HOUR 4:00
 
 - the Oberon calls out the pending email messages
 
-- distribute the missions to assassinate the Akarith Ambassador (just before his arrival), depending on which side seems idle
+- distribute the missions to assassinate the Akarith Ambassador (just before his arrival), depending on which side seems idle (one mission per faction: Lordanian, Masslavian, Dorian, Sabarith; see the GM manual), and give Cynthia her editors' clue about these assassination plans
 
 - [multi-role NPC]: Oberon & Akarith Ambassador (the cook and the old lady go home, unless still needed)
 

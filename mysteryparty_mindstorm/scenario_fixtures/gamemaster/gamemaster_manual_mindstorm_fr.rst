@@ -302,9 +302,11 @@ Attention, les lordaniens peuvent avoir mis leur grain de sel dans l'affaire, en
 L'assassinat de l'ambassadeur akarite
 --------------------------------------------
 
-Au milieu de la soirée, l'agent sabarite reçoit l'ordre d'assassiner "naturellement" (ex. via un choc allergique) l'ambassadeur akarite, pour stopper ses manigances contre la sécurité du pays.
+Vers 4:00 (voir le planning), juste avant le retour de l'ambassadeur akarite, le MJ distribue les "missions surprise" du document d'indices, en priorité aux camps qui semblent désoeuvrés ; chaque camp a sa propre mission :
 
-Dans le même temps, les agents lordaniens reçoivent l'ordre de l'assassiner en rejetant la faute sur Sabarim ; il leur faut pour cela défier en duel d'honneur l'ambassadeur akarite, récupérer ainsi sa bague à tête de mort (qui est typique des "{% symbol "hauteurs de Kéroskia" for "akarith_ambassador_skull_ring_origin" %}", comme lui et les serviteurs de Loyd Georges le savent), et se servir du poison spécifiquement sabarite qu'elle contient, pour l'empoisonner en retour.
+- les agents lordaniens, et les agents masslaves, reçoivent l'ordre de l'assassiner en rejetant la faute sur Sabarim, pour pousser ce pays à sortir de sa neutralité ;
+- les agents doriens reçoivent l'ordre de l'assassiner pour créer une crise diplomatique ouverte ; seule leur mission donne un moyen : sa bague à tête de mort (qui est typique des "{% symbol "hauteurs de Kéroskia" for "akarith_ambassador_skull_ring_origin" %}", comme lui et les serviteurs de Loyd Georges le savent) est recouverte de Karnaj, un poison spécifiquement sabarite ; ils peuvent la récupérer en défiant l'ambassadeur en duel d'honneur (enjeu : un de ses bijoux), puis lui faire boire ce poison transféré dans une boisson, avec l'aide exceptionnelle du médiateur obéron, ce qui fait porter le chapeau à Sabarim ; les autres camps peuvent découvrir ce moyen par eux-mêmes (ou via l'indice de Cynthia, "empoisonnement par son propre accessoire") ;
+- l'agent sabarite reçoit l'ordre d'assassiner "naturellement" l'ambassadeur akarite, pour stopper ses manigances contre la sécurité du pays : par exemple une défaillance cardiaque, provoquée par la digoxine de Loyd Georges ou par le muguet de la boîte postale, versés dans une boisson qu'un serviteur lui apporte (l'ambassadeur n'a pas d'allergie alimentaire, cette piste ayant été abandonnée).
 
 Selon le camp qui est le plus rapide à agir, la mort de l'ambassadeur déclenche ou non une grave crise entre Akaris et Sabarim, faisant d'autant pencher la balance géopolitique.
 
