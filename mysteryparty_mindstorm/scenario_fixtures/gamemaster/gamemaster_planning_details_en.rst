@@ -230,7 +230,7 @@ HOUR 1:30
 
 - COUNCIL: a high-ranking member of the Akarith council calls the Dorian agent Peridot, and questions him about his beliefs in Yodic theology {% xfact "peridot_must_answer_akarith_council" %}
 
-- Alphonse brings the military duffel bags into everyone's view, explains that a courier is due to come and collect them (he shows the letter from Professor Eusebon), and falls out with Rydji, who considers this very secondary
+- Alphonse brings the military duffel bag into everyone's view, explains that a courier is due to come and collect it (he shows the letter from Professor Eusebon), and falls out with Rydji, who considers this very secondary
 
 - LOT 3 to be placed in the mailbox
 
@@ -248,7 +248,7 @@ HOUR 2:00
 
 - the Oberon calls out the pending email messages
 
-- RADIO SPOTS: "First news from the Akarith council" (before broadcasting, replace [PUT RESULT HERE] according to the hearings already held by the council, e.g. "rather encouraging results for the Dorians", "mixed results" or "disappointing results for the Dorians"), "Riots in Sabarim", [if Waden has provided Omrh with "E=MC2"] "Major scientific discovery in Nalavut"
+- RADIO SPOTS: "First news from the Akarith council" (before broadcasting, replace [PUT RESULT HERE] according to the hearings already held by the council, e.g. "rather encouraging results for the Dorians", "mixed results" or "disappointing results for the Dorians"), "Riots in Sabarim", [if Waden has provided Omrh with "E=MC²"] "Major scientific discovery in Nalavut"
 
 - SHARK: entrusts Obsidian with questioning **the Lordanian agent Amethyst**, and begins a "prisoner's dilemma" interview with the **Masslavian agent Malachite and Dorian agent Topaz** (leaving them 5 MINUTES to prepare mentally, or even agree on a strategy)
 

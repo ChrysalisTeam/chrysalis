@@ -230,7 +230,7 @@ HEURE 1:30
 
 - CONCILE : un haut-gradé du concile akarite appelle l'agent dorien Peridot, et le questionne sur ses croyances en théologie yodique {% xfact "peridot_must_answer_akarith_council" %}
 
-- Alphonse amène les sacs militaires à la vue de tous, explique qu'un coursier doit venir les chercher (il montre la lettre du Professeur Eusèbon), et s'embrouille avec Rydji qui considère cela comme très secondaire
+- Alphonse amène le sac militaire à la vue de tous, explique qu'un coursier doit venir le chercher (il montre la lettre du Professeur Eusèbon), et s'embrouille avec Rydji qui considère cela comme très secondaire
 
 - LOT 3 à mettre dans la boite aux lettres
 
@@ -248,7 +248,7 @@ HEURE 2:00
 
 - l'obéron clame les messages email en attente
 
-- SPOTS RADIO : "Premiers retours du concile akarite" (avant diffusion, remplacer [METTRE ICI RESULTAT] selon les auditions déjà tenues par le concile, ex. "des résultats plutôt encourageants pour les doriens", "des résultats mitigés" ou "des résultats décevants pour les doriens"), "Emeutes en Sabarim", [si Waden a fourni à Omrh "E=MC2"] "Découverte scientifique majeure au Nalavut"
+- SPOTS RADIO : "Premiers retours du concile akarite" (avant diffusion, remplacer [METTRE ICI RESULTAT] selon les auditions déjà tenues par le concile, ex. "des résultats plutôt encourageants pour les doriens", "des résultats mitigés" ou "des résultats décevants pour les doriens"), "Emeutes en Sabarim", [si Waden a fourni à Omrh "E=MC²"] "Découverte scientifique majeure au Nalavut"
 
 - SHARK : confie à Obsidian le soin d'interroger **l'agent lordanien Amethyst**, et commence un entretien "dilemme du prisonnier" avec les **agents masslave Malachite et dorien Topaz** (en leur laissant 5 MINUTES pour se préparer mentalement, voire s'entendre sur une stratégie)
 
