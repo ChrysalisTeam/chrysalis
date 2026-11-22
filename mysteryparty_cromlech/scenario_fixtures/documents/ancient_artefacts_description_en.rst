@@ -48,10 +48,12 @@ Two pairs of bolt cutters broke while trying to cut its padlock; this is unheard
 Approximate dating: 150 years ago.
 
 
+[PAGEBREAK]
+
 Hidden Artefacts
 --------------------
 
-*Once the players have found these objects, pretend to study them, then give the following information.*
+*Only give this information to the players once they have found the objects (the tablet and the cryptex when the chest is opened, the parchment when the cryptex is opened), after pretending to study them.*
 
 The **black tablet** is scientifically incomprehensible.
 

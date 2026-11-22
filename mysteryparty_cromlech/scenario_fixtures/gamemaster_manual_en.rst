@@ -97,7 +97,7 @@ Description of the Museum Treasure
 
 When it is their turn, instead of questioning one of the witnesses, the players go and inspect the museum's ancient artefacts.
 
-An **archaeology expert** may be present on the premises to tell them in detail what he knows about each of the objects present; or else they have direct access to the document **The Cromlech Treasure**.
+An **archaeology expert** may be present on the premises to tell them in detail what he knows about each of the objects present; or else they have direct access to the first page of the document **The Cromlech Treasure**, laid near the artefacts; the GM then keeps the second page ("Hidden Artefacts"), and reads each of its paragraphs to the players when they find the corresponding object.
 
 In reality:
 

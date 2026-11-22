@@ -97,7 +97,7 @@ Description du trésor du musée
 
 Lorsque c'est leur tour, au lieu d'interroger un des témoins, les joueurs vont inspecter les artefacts antiques du musée.
 
-Un **expert en archéologie** peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents ; ou bien ils ont accès directement au document **Le Trésor du Cromlech**.
+Un **expert en archéologie** peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents ; ou bien ils ont accès directement à la première page du document **Le Trésor du Cromlech**, posée près des artefacts ; le MJ garde alors la seconde page ("Artefacts cachés"), et en lit chaque paragraphe aux joueurs quand ils trouvent l'objet correspondant.
 
 En réalité :
 

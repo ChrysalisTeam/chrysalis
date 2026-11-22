@@ -48,10 +48,12 @@ Deux pinces ont été cassées en tentant de couper son cadenas, c'est du jamais
 Datation approximative : il y a 150 ans de cela.
 
 
+[PAGEBREAK]
+
 Artefacts cachés
 --------------------
 
-*Une fois que les joueurs ont trouvé ces objets, il faut simuler l'étude de ces objets, puis donner ces indications.*
+*Ne donner ces indications aux joueurs qu'une fois les objets trouvés (la tablette et le cryptex à l'ouverture du coffre, le parchemin à l'ouverture du cryptex), après avoir simulé leur étude.*
 
 La **tablette noire** est incompréhensible scientifiquement.
 
