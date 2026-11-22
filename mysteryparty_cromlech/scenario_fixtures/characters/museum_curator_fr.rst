@@ -57,7 +57,7 @@ Quand vous avez repris vos esprits, le jeune homme gisait devant les artefacts, 
 
 [BR]
 
-Vous avez suivi ces instructions à la lettre, et êtes parti vous mêler aux notables, dans une cérémonie de remise de prix littéraires, le **concours Maurice Genevoix**, à l'autre bout de la ville ; vous êtes arrivé discrètement vers **{% symbol "10h" for "arrivée_conservateur_à_cérémonie_le_jour_j" %}, plus d'une heure après qu'elle ait commencé**, mais vous avez caché ce détail lors du cocktail qui a suivi. Malgré votre cerveau sens dessus dessous, vous avez à peu près réussi à donner le change **auprès du bourgmestre, du grand-maître du conservatoire, de l'autrice dramatique Jeanne Lubeck**... en théorie.
+Vous avez suivi ces instructions à la lettre, et êtes parti vous mêler aux notables, dans une cérémonie de remise de prix littéraires, le **concours Maurice Genevoix**, à l'autre bout de la ville ; vous êtes arrivé discrètement vers **{% symbol "10h" for "arrivée_conservateur_à_cérémonie_le_jour_j" %}, une heure après qu'elle a commencé**, mais vous avez caché ce détail lors du cocktail qui a suivi. Malgré votre cerveau sens dessus dessous, vous avez à peu près réussi à donner le change **auprès du bourgmestre, du grand-maître du conservatoire, de l'autrice dramatique Jeanne Lubeck**... en théorie.
 
 Lorsque vous êtes revenu à la bibliothèque, **peu avant midi**, aucun gendarme n'était en vue. Le guide et les habitués vaquaient à leurs occupations. Aucun corps dans la salle des artefacts.
 S'il n'y avait eu la tache de sang sombre au sol, dissimulée sous un fauteuil déplacé, vous auriez juré avoir rêvé.

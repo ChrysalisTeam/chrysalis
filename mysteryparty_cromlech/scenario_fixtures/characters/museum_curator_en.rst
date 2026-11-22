@@ -57,7 +57,7 @@ When you came to your senses, the young man lay in front of the artefacts, in a 
 
 [BR]
 
-You followed these instructions to the letter, and went off to mingle with the notables at a literary prize-giving ceremony, the **Maurice Genevoix prize**, on the other side of town; you arrived discreetly at around **{% symbol "10:00" for "curator_arrival_at_ceremony_on_d_day" %}, more than an hour after it had begun**, but you concealed this detail during the cocktail reception that followed. Despite your brain being in utter turmoil, you more or less managed to keep up appearances **with the Burgomaster, the grand master of the conservatoire, the playwright Jeanne Lubeck**... in theory.
+You followed these instructions to the letter, and went off to mingle with the notables at a literary prize-giving ceremony, the **Maurice Genevoix prize**, on the other side of town; you arrived discreetly at around **{% symbol "10:00" for "curator_arrival_at_ceremony_on_d_day" %}, an hour after it had begun**, but you concealed this detail during the cocktail reception that followed. Despite your brain being in utter turmoil, you more or less managed to keep up appearances **with the Burgomaster, the grand master of the conservatoire, the playwright Jeanne Lubeck**... in theory.
 
 When you returned to the library, **shortly before noon**, no gendarme was in sight. The Guide and the regulars were going about their business. No body in the artefacts room.
 Had it not been for the dark bloodstain on the floor, hidden under a chair that had been moved, you would have sworn you had dreamt it all.
