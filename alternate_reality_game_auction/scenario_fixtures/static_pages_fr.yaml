@@ -13,7 +13,7 @@ static_pages:
 
             L'Académie d'Alifir est heureuse de vous accueillir au sein de sa nébuleuse numérique, **Anthropia**.
 
-            Vous vous trouvez présentement dans le site **Trésors Perdus de Midolie**, dédiée aux ventes aux enchères - gemmologique et archéologiques - organisées par son plus généreux mécène : **Sir Loyd Georges, de Salima**.
+            Vous vous trouvez présentement dans le site **Trésors Perdus de Midolie**, dédié aux ventes aux enchères - gemmologique et archéologiques - organisées par son plus généreux mécène : **Sir Loyd Georges, de Salima**.
 
             Authentifiez-vous si ce n'est déjà fait, puis prenez vos aises, et partez découvrir les excitantes ventes qui s'annoncent, ainsi que les illustres personnages avec qui vous allez concourir. Pour voir l'état de vos possessions, ``[ GAME_PAGE_LINK "accédez à votre profil" "pychronia_game.views.character_profile" ]``.
 
@@ -37,11 +37,11 @@ static_pages:
 
             En plus d'être un puits de savoir, il est conçu de façon à permettre l'affichage de modules externes, c'est-à-dire de pages web ou formulaires gérés par d'autres organismes (scientifiques ou non).
 
-            Anthropia est ainsi connecté avec la Banque de Salima, afin de vous puissiez facilement gérer vos paiements et vos biens ; il a aussi des liens avec des centres académiques étrangers, et des sociétés de tous types.
+            Anthropia est ainsi connecté avec la Banque de Salima, afin que vous puissiez facilement gérer vos paiements et vos biens ; il a aussi des liens avec des centres académiques étrangers, et des sociétés de tous types.
 
             Mais attention, l'Académie d'Alifir décline toute responsabilité quant aux conséquences morales, économiques et juridiques découlant de l'usage de ces fonctionnalités proposées par des tiers. **Et notez que, par mesure de sécurité, vous ne pourrez souvent interagir, dans ces modules externes, qu'avec des gens que vous avez auparavant contactés par message textuel.**
 
-            En cas de problème technique rencontré sur une quelconque page d'Anthropia, n'hésitez pas a en avertir le webmestre concerné, via le bouton situé tout en bas de page. Cela lui ruinera sans doute une ou deux nuits de sommeil, mais justifiera sa plantureuse solde.
+            En cas de problème technique rencontré sur une quelconque page d'Anthropia, n'hésitez pas à en avertir le webmestre concerné, via le bouton situé tout en bas de page. Cela lui ruinera sans doute une ou deux nuits de sommeil, mais justifiera sa plantureuse solde.
 
             Notez par ailleurs que si l'interface du site est traduite en plusieurs langues, en revanche son contenu (introductions, articles encyclopédiques, pages d'aide, emails, spots radio...) n'est disponible que dans une seule langue.
 
@@ -192,7 +192,7 @@ static_pages:
 
             Vous pouvez rechercher des articles par mots-clefs, ou utiliser l'index (plus ou moins) disponible.
 
-            Noter le moteur de recherche ne supporte pas les expressions booléennes complexes, ni les mots répartis dans l'article cible ; il fonctionne uniquement une reconnaissant une sous-chaîne "stricte" de caractère.
+            Notez que le moteur de recherche ne supporte pas les expressions booléennes complexes, ni les mots répartis dans l'article cible ; il fonctionne uniquement en reconnaissant une sous-chaîne "stricte" de caractère.
 
             Fonctionnalité hors-norme, l'encyclopédie est intégrée au reste du portail Anthropia, afin que les mots-clefs présents dans les divers textes disséminés (présentations, messages email...) soient automatiquement transformés en liens encyclopédiques.
 
@@ -291,7 +291,7 @@ static_pages:
 
         gamemaster_hints: &npc_messages_gamemaster_hints |
 
-            Attention, lorsque cette section est accédée en tant que "maître du jeu" : ne sont alors présents ici que les messages envoyés DEPUIS ou VERS un PNJ (qu'il soit un "personnage" du portail Anthropia, ou un simple contact email externe) ; en effet, ces messages requièrent pioritairement l'intervention du maître de jeu. Pour voir aussi les messages échangés en privé entre les joueurs, il faut aller dans la section des "Messages Expédiés".
+            Attention, lorsque cette section est accédée en tant que "maître du jeu" : ne sont alors présents ici que les messages envoyés DEPUIS ou VERS un PNJ (qu'il soit un "personnage" du portail Anthropia, ou un simple contact email externe) ; en effet, ces messages requièrent prioritairement l'intervention du maître de jeu. Pour voir aussi les messages échangés en privé entre les joueurs, il faut aller dans la section des "Messages Expédiés".
 
             Comme pour les joueurs, les messages auxquels le maître de jeu répond sont automatiquement "marqués comme lus" pour l'émetteur (donc ici pour le PNJ impersonné, ou juste pour la vision "maître de jeu" s'il s'agit d'un contact email externe).
 
@@ -442,9 +442,9 @@ static_pages:
 
             Salles sous surveillance : *grand hall, bureau, bibliothèque, salle à manger, et cuisine*. Vous pouvez contrôler votre système de surveillance depuis le terminal qui a été installé dans votre *grand hall*.
 
-            Nous vous rappelons que, pour des questions de pérénnité et de confidentialité des enregistrements, ceux-ci sont automatiquement transférés chaque nuit vers les serveurs centraux d'\ *OmniVision*. Vous pouvez consulter les enregistrements dans nos locaux, en vous munissant de votre carte d'identité.
+            Nous vous rappelons que, pour des questions de pérennité et de confidentialité des enregistrements, ceux-ci sont automatiquement transférés chaque nuit vers les serveurs centraux d'\ *OmniVision*. Vous pouvez consulter les enregistrements dans nos locaux, en vous munissant de votre carte d'identité.
 
-            Pas de temps à perdre ? Vous pouvez aussi demander une transcription analytique de l'ensemble des caméras sur une tranche horaire, qui vous sera envoyée par messagerie. Cette transcription recense les actions notables des personnes de votre maisonnées, ainsi que des visiteurs ; pour un fonctionnement optimal, n'oubliez pas de mettre à jour régulièrement le référentiel photographique de vos connaissances. Ce service donné lieu à une facturation pour chaque tranche horaire demandée.
+            Pas de temps à perdre ? Vous pouvez aussi demander une transcription analytique de l'ensemble des caméras sur une tranche horaire, qui vous sera envoyée par messagerie. Cette transcription recense les actions notables des personnes de votre maisonnées, ainsi que des visiteurs ; pour un fonctionnement optimal, n'oubliez pas de mettre à jour régulièrement le référentiel photographique de vos connaissances. Ce service donne lieu à une facturation pour chaque tranche horaire demandée.
 
             Notez que les périodes pour lesquelles aucun mouvement n'a été détecté sur les caméras, ne sont pas disponibles dans le formulaire ci-dessous.
 
@@ -520,7 +520,7 @@ static_pages:
             Aspects abordés:
 
             - datation
-            - étude structurelle s'ensemble
+            - étude structurelle d'ensemble
             - étude épidémiologique
             - étude moléculaire
             - étude ondulatoire
@@ -609,7 +609,7 @@ static_pages:
 
               Le corps des messages n'est en revanche pas récupérable.
 
-              Seuls les comptes utilisateur du portail Anthropia, avec vous avez eu un échange email, peuvent être ciblés par ce système.
+              Seuls les comptes utilisateur du portail Anthropia, avec lesquels vous avez eu un échange email, peuvent être ciblés par ce système.
 
 
 
@@ -788,7 +788,7 @@ static_pages:
             - il est possible de changer la voix à tout moment, et donc par exemple de réaliser des conversations entre journalistes et personnalités politiques, grâce aux balises prévues pour cela ; attention, certaines voix ont un riche jeu d'intonations et d’onomatopées (déclenchables grâce a des balises spécifiques), d'autres non.
             - il est possible, grâce à d'autres balises, de rajouter et mixer des musiques de fond, certaines étant prévues pour être mises bout à bout (intro/milieu/fin), ou mises en boucle.
 
-            Pour davantage de détails sur les balises, les voix et musiques disponibles, se référer au manuel "Acapella VAAS".
+            Pour davantage de détails sur les balises, les voix et musiques disponibles, se référer au manuel "Acapela VAAS".
 
 
     top-gamemaster_manual:

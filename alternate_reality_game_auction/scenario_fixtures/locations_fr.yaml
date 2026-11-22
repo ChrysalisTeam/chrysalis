@@ -220,7 +220,7 @@ locations:
         geolocation: [962,1498,20]
 
     Kotlal:
-        summary: "Ses solides alliances avec des villes d'Axolia a permis à cette ville d'être épargné par les guerres ruinant toute la région."
+        summary: "Ses solides alliances avec des villes d'Axolia ont permis à cette ville d'être épargnée par les guerres ruinant toute la région."
         geolocation: [837,837,20]
 
     Bandjik:
@@ -264,7 +264,7 @@ locations:
         geolocation: [1232,969,20]
 
     Beelmon:
-        summary: "Un cousin d'un grand-père de Georges Loyd a vécu ici."
+        summary: "Un cousin d'un grand-père de Loyd Georges a vécu ici."
         geolocation: [1443,1016,20]
 
     Meelish:

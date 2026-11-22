@@ -170,19 +170,19 @@ audio_messages:
         "text": >-
             \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\
             \pau=2000\ \vce=speaker=Antoine\ Bonsoir à tous. L'heure est grave. Le
-            pays est en proie  à des grands troubles, Pour cette édition du journal
+            pays est en proie à de grands troubles. Pour cette édition du journal
             national, nous retrouvons tout de suite notre envoyée spéciale à Salima!
             \pau=1500\ \vce=speaker=Julie\ En effet, de nombreuses manifestations
-            d'analphabêtes ont lieu dans plusieurs villes du pays, la police tente
-            de reprimer ce qui pourrait bien tourner à un mouvement d'émeutes.Les
-            rues de sont pas sures, Nous conseillons aux habitants de Salima de ne
-            pas quitter leur logements. Ces désordres s'ajoutent a ceux qui ont cours
-            au niveau international, en effet le Duc Dorien à annoncé sa décision
+            d'analphabètes ont lieu dans plusieurs villes du pays, la police tente
+            de réprimer ce qui pourrait bien tourner à un mouvement d'émeutes. Les
+            rues ne sont pas sûres, nous conseillons aux habitants de Salima de ne
+            pas quitter leurs logements. Ces désordres s'ajoutent à ceux qui ont cours
+            au niveau international, en effet le Duc Dorien a annoncé sa décision
             de rattacher le duché dorien à l'Empire Akarite. Ce rattachement entraine
-            une pénalité d'impots sur une période de cent ans à l'encontre du duché
+            une pénalité d'impôts sur une période de cent ans à l'encontre du duché
             dorien. Les doriens obtiennent le titre de nourrissons d'Eiode, ils pourront
             devenir Fils d'eiode d'ici dix ans. Les pays voisins de Masslavie et d'Elosia
-            ont fortement condamnés cette décision. \pau=1500\
+            ont fortement condamné cette décision. \pau=1500\
             \audio=play="new_orchestra_hits_X_ending_008";volume=120\
 
     "80_defeat_wiremind_standard":

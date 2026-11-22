@@ -49,7 +49,7 @@ static_pages:
 
             Il s'agit visiblement d'un sceau temporairement désactivable par un grimoire-clé, qui nécessite un rituel propre à ce grimoire.
 
-            De tels sceau sont souvent utilisés par les sorciers qui désirent bloquer l'accès à leurs laboratoires ou appartements privés.
+            De tels sceaux sont souvent utilisés par les sorciers qui désirent bloquer l'accès à leurs laboratoires ou appartements privés.
 
     anti_explosion_cauldron:
         title: "Chaudron avec enchantement anti-explosion"
@@ -115,7 +115,7 @@ static_pages:
 
             En contrepartie, cela lui demande une grande force physique car ce collier est extrêmement lourd.
             
-            Cette armure protège aussi des attaques physiques ou magiques normale, mais uniquement celles portées au torse.
+            Cette armure protège aussi des attaques physiques ou magiques normales, mais uniquement celles portées au torse.
 
     ring_amplificans:
         title: "Bague Amplificans (énorme bague transparente)"
@@ -175,7 +175,7 @@ static_pages:
         keywords: []
         content: |
 
-            Ce crâne porte de multiple traces de contusions, de brûlures et d'érosions acides.
+            Ce crâne porte de multiples traces de contusions, de brûlures et d'érosions acides.
 
             Il semble que quelqu'un ait longuement tenté de le détruire, mais n'ait réussi à en abîmer que la surface.
 
@@ -207,7 +207,7 @@ static_pages:
             
             Les nombreuses traces d'usure et de réparation attestent d'une longue période d'utilisation.
             
-            La pointe est parsemée de tâches d'un fluide sanguin riche en manganate, qui possède donc une couleur bleutée.
+            La pointe est parsemée de taches d'un fluide sanguin riche en manganate, qui possède donc une couleur bleutée.
 
     thief_wallet_scroll_analysis:
         title: "Analyse du parchemin du portefeuille du voleur"

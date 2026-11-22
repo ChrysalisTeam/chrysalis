@@ -28,11 +28,11 @@ static_pages:
         keywords: ["académie d'alifir", "académie", "faculté", "alifir", "sciences"]
         content: |
 
-            Comment évoquer l'Académie d'Alifir sans tomber immédiatement dans des termes panégyrique ?
+            Comment évoquer l'Académie d'Alifir sans tomber immédiatement dans des termes panégyriques ?
 
             Son immense structure en "A" relie le ciel et la terre tout autant que son panel de chercheurs relie la mémoire et l'intelligence, la créativité et l'analyse, le passé et le futur.
 
-            Il est en vérité peu de domaines dans laquelle l'Académie n'excelle mondialement : médecine, archéologie et histoire pré-tectonne, informatique, sciences du vivant...
+            Il est en vérité peu de domaines dans lesquels l'Académie n'excelle mondialement : médecine, archéologie et histoire pré-tectonne, informatique, sciences du vivant...
 
             Si vous aussi, vous voulez participer à cette formidable aventure du génie humain, n'hésitez pas à sponsoriser notre Fondation Scientifique (dons déductibles des impôts salimiens dans la limite de 50% de votre revenu imposable).
 
@@ -56,7 +56,7 @@ static_pages:
 
             **Melete** gère les départements de Physique, Chimie, Biologie et astronomie.
 
-            **Aïode** gère les départements de Mathématiques fondamentales et appliquées, ainsi que des sciences numériques.
+            **Aiode** gère les départements de Mathématiques fondamentales et appliquées, ainsi que des sciences numériques.
 
             [BR]
 
@@ -97,7 +97,7 @@ static_pages:
 
 
     pr_loakim:
-        title: "Professor Loakim"
+        title: "Professeur Loakim"
         categories: ["encyclopedia"]
         keywords: ["professeur loakim", "professeur", "loakim", "pr loakim", "academie", "alifir"]
         content: |

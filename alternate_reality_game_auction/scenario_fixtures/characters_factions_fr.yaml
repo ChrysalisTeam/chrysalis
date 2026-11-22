@@ -208,7 +208,7 @@ character_properties:
         address_book: []
         official_name: "Cynthia Loakim"
         official_role: "Jeune journaliste à l'international, originaire de Sabarim"
-        gamemaster_hints: "Fille du Pr Loakim, et fiancée au physicien Waden Show."
+        gamemaster_hints: "Fille du Pr Loakim, et fiancée au physicien Waden Shaw."
         is_npc: true
         secret_question: "Là où l'on s'est embrassé pour la première fois."
         secret_answer: "Salimuron" # normally impossible to find
@@ -255,7 +255,7 @@ character_properties:
         address_book: []
         official_name: "Inspecteur Shark"
         official_role: "Inspecteur de police sabarite, récemment sorti de sa retraite"
-        gamemaster_hints: "Il a des connexions avec loyd Georges (dont il accepte régulièrement les pots-de-vin pour le laisser mener ses recherches) et s'occupe personnellement des interactions PVP des joueurs."
+        gamemaster_hints: "Il a des connexions avec Loyd Georges (dont il accepte régulièrement les pots-de-vin pour le laisser mener ses recherches) et s'occupe personnellement des interactions PVP des joueurs."
         is_npc: true
         secret_question: "Mon fidèle compagnon."
         secret_answer: "S&W_M66"

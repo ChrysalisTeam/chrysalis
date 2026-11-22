@@ -33,7 +33,7 @@ abilities:
                     surveillance_analysis: |
                         Protocole habituel de lever et de petit-déjeuner de Loyd Georges et de ses serviteurs. Un livreur apporte jusqu'au garde-manger des sacs alimentaires, vers 9h15. A 9h30, Loyd Georges reçoit un appel téléphonique filaire, puis se rend à la porte arrière du manoir. Il en revient 5mn plus tard avec un colis sous le bras. Les caméras de surveillance sont mise en pause pour 10mn depuis le terminal. Lorsqu'elles se réactivent automatiquement, Loyd Georges est en train de remettre l'épais livre nommé *Venture Prins* dans la bibliothèque. Puis il part travailler dans son bureau.
                     gamemaster_hints:
-                        Le colis contient le Panorbium Fortuna envoyé par Emilos Loakim depuis Keroskia.
+                        Le colis contient le Panorbium Fortuna envoyé par Emilos Loakim depuis Kéroskia.
 
                 "10h-12h":
                     surveillance_analysis: |
@@ -41,7 +41,7 @@ abilities:
 
                         Peu après, {{character_properties.opal.official_name}} s'installe durablement sur le poste informatique de la bibliothèque, dont il ferme la porte.
 
-                        A 11h, {{character_properties.amethyst.official_name}} arrive au manoir, et va s'entretenir avec Loyd Georges, pendant que l'inspecteur Shark reste dans la chambre du sir. Cet invité offre une bouteille à son hôte, et se fait raccompagner par Rydji vers 11h45. Loyd Georges rejoint alors l'inspecteur Shark dans la chambre. Le cuisiniez passe prendre la bouteille à 11h55.
+                        A 11h, {{character_properties.amethyst.official_name}} arrive au manoir, et va s'entretenir avec Loyd Georges, pendant que l'inspecteur Shark reste dans la chambre du sir. Cet invité offre une bouteille à son hôte, et se fait raccompagner par Rydji vers 11h45. Loyd Georges rejoint alors l'inspecteur Shark dans la chambre. Le cuisinier passe prendre la bouteille à 11h55.
                     gamemaster_hints: |
                         La bouteille est une liqueur digestive, scellée, et non consommée immédiatement.
 
