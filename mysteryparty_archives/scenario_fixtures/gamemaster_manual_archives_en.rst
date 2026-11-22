@@ -827,7 +827,7 @@ The Beast may potentially reappear just to escape too, in a comical way, as may 
 
 The automatons then guide the players to the library exit, before the teleportation portals close until the next {% symbol "winter solstice" for "astral_opening_date" %}.
 
-Depending on whether or not the groups of players have made a commitment to the Arkon to protect/destroy the portals leading to this place, **this library will survive, or will self-destruct into the magma**, for lack of a magical link with the surface (it needs 2 of the 4 links so as not to collapse). {% xfact "arkon_questions_groups_about_the future_of_maupertuis_archives" %}
+Depending on whether or not the groups of players have made a commitment to the Arkon to protect/destroy the portals leading to this place, **this library will survive, or will self-destruct into the magma**, for lack of a magical link with the surface (it needs 2 of the 4 links so as not to collapse). {% xfact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
 
 
 Scheduling of prophecies and intuitions

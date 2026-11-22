@@ -827,7 +827,7 @@ La Bête peut potentiellement reparaître juste pour s'échapper elle aussi, de 
 
 Les automates guident ensuite les joueurs vers la sortie de la bibliothèque, avant que les portails de transplanage ne se referment jusqu'au prochain {% symbol "solstice d'hiver" for "astral_opening_date" %}.
 
-Selon que les groupes de joueurs ont, ou non, pris l'engagement auprès de l'arkonte de protéger/détruire les portails menant à ce lieu, **cette bibliothèque subsistera, ou s'autodétruira dans le magma**, faute de lien magique avec la surface (elle a besoin de 2 des liens sur les 4 pour ne pas s'effondrer). {% xfact "arkon_questions_groups_about_the future_of_maupertuis_archives" %}
+Selon que les groupes de joueurs ont, ou non, pris l'engagement auprès de l'arkonte de protéger/détruire les portails menant à ce lieu, **cette bibliothèque subsistera, ou s'autodétruira dans le magma**, faute de lien magique avec la surface (elle a besoin de 2 des liens sur les 4 pour ne pas s'effondrer). {% xfact "arkon_queries_players_about_their_choice_for_final_destiny_of_archives" %}
 
 
 Planification des prophéties et intuitions

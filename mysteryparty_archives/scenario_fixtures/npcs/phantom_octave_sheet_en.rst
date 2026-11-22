@@ -37,7 +37,7 @@ Knowledge shared with the Archivist
 {% macro octave_and_archivist_common_knowledge_for_sheets() %}
 
 IMPORTANT: The Maupertuis family kept some "administrative paperwork" in a black briefcase, in the authorised domain. You had heard that the family's **secret symbol**, opening access to the Forbidden Domain, was also hidden there.
-{% xfact "octave_and_archivist_know_about_secret_family_symbol_infamily_briefcase" %}
+{% xfact "octave_and_archivist_know_about_secret_family_symbol_in_family_briefcase" %}
 
 The code of this small case, which the Maupertuis parents knew, was also **whispered by a fake book, {% symbol "Venture Prins" for "small_wooden_fake_book_name" %}**. *Make sure you memorise the shape (thick, made of brown wood) and the approximate location of this fake book.*
 
