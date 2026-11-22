@@ -67,3 +67,9 @@ Cas particulier, une des prophéties sera **révélée en DUO** : le joueur et v
 {% endfilter %}
 
 
+L'attaque de l'automate de garde
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Plus tard dans le jeu, l'automate de garde, détraqué, va tenter de vous **assassiner** d'une balle dans le torse, ainsi que le joueur Oracle, qui reçoit les visions que vous lui transmettez ; une scène à préparer avec le maître de jeu. Vous ignorez qui le commande, et réagissez avec effroi, en cherchant la protection des joueurs.
+
+Comme pour les joueurs, une première balle reçue est une blessure grave (le maître de jeu vous indique ses effets), et une deuxième est mortelle. Si vous mourez, vous êtes renvoyée dans votre roman (les avatars ne deviennent pas des fantômes) : faites vos adieux, et remettez au maître de jeu la fiche de planification des prophéties et les bandes-son, car c'est lui qui transmettra désormais les prophéties restantes au joueur Oracle, y compris votre moitié de la prophétie en DUO. {% xfact "second_injury_sustained_is_always_fatal" %}

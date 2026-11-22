@@ -67,3 +67,9 @@ As a special case, one of the prophecies will be **revealed as a DUO**: the play
 {% endfilter %}
 
 
+The attack of the sentinel automaton
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Later in the game, the sentinel automaton, gone haywire, will try to **assassinate** you with a bullet in the torso, as well as the Oracle player, who receives the visions you pass on; a scene to be prepared with the Game Master. You do not know who controls it, and you react with dread, seeking the protection of the players.
+
+As for the players, a first bullet received is a serious injury (the Game Master tells you its effects), and a second one is fatal. If you die, you are sent back into your novel (avatars do not become phantoms): say your farewells, and hand over the prophecy planning sheet and the soundtracks to the Game Master, who from then on passes the remaining prophecies on to the Oracle player, including your half of the DUO prophecy. {% xfact "second_injury_sustained_is_always_fatal" %}
