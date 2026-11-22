@@ -698,24 +698,24 @@ At this point, the phantoms all move about in their disembodied form.
 Some avatars may already be present (for instance the Duchess praying in the graveyard, the Druid in his mini-jungle, the Inventor repairing an automaton), awaiting the opening of the buffet.
 
 
+The first embodiment of the phantoms
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+After a while (around H+15 min, see the schedule), the gong sounds; the tutor-archivist becomes embodied, and calls the players to come to him. He is delighted to have visitors in this place - and perhaps, with them, a hope of resolving the curse. He answers the players' questions, and **tests their good intentions** with the "{% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}". He points out to them the presence of the buffet, which for him **"activates on its own"** (as he cannot see the avatars), on this anniversary date of the tragedy, as it does every year
+
+The other phantoms also become embodied (preferably a little later), each at their anchor point further away from the banquet.
+
+
 The opening of the Otherworld Buffet
 ++++++++++++++++++++++++++++++++++++++++++++
 
-Lively music starts up, and the Inventor comes to the banquet, loudly calling on his friends from the imaginary world to join him in raising a toast to Octave and the Archivist, and in hoping together for the lifting of the curse.
+A few minutes later, the automatons invite the visitors to approach the buffet. Lively music starts up, and the Inventor comes to the banquet, loudly calling on his friends from the imaginary world to join him in raising a toast to Octave and the Archivist, and in hoping together for the lifting of the curse.
 
 The other avatars converge, the players who were nearby get harangued too, and are swept up in this mixture of assorted declamations and dance moves, as the banquet opens.
 
 The dishes on the buffet are supposed to be produced automatically by the enchanted table. Optionally, if it is not already visible, the laden buffet can be made to appear by means of a simple magic formula, which the avatars know. {% xfact "buffet_table_magically_generates_food" %}
 
 Once the music is over, players and heroes get better acquainted around the buffet. It is assumed that, by design, these magic dishes are also accessible to the phantoms (embodied or not).
-
-
-The first embodiment of the phantoms
-++++++++++++++++++++++++++++++++++++++++++++++++
-
-After a while, the gong sounds; the tutor-archivist becomes embodied, and calls the players to come to him. He is delighted to have visitors in this place - and perhaps, with them, a hope of resolving the curse. He answers the players' questions, and **tests their good intentions** with the "{% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}". He points out to them (again) the presence of the buffet, which for him **"activated on its own"** (as he cannot see the avatars), on this anniversary date of the tragedy, as it does every year
-
-The other phantoms also become embodied (preferably a little later), each at their anchor point further away from the banquet.
 
 
 The Spectral Bell frenzy

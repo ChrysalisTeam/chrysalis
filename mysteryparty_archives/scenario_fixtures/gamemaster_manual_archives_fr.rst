@@ -698,24 +698,24 @@ Les fantômes se déplacent à ce moment tous sous leur forme désincarnée.
 Certains avatars peuvent déjà être présents (par exemple la duchesse en prière au cimetière, le druide dans sa mini-jungle, l'inventeur réparant un automate), dans l'attente de l'ouverture du buffet.
 
 
+La première incarnation des fantômes
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+Après un moment (vers H+15mn, voir le planning), le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Il se montre ravi d’avoir de la visite dans ces lieux - et peut-être avec eux un espoir de résolution de la malédiction. Il répond aux questions des joueurs, et **teste leurs bonnes intentions** avec le "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". Il leur signale la présence du buffet, qui pour lui s'**"active tout seul"** (car il ne voit pas les avatars), en cette date anniversaire du drame, comme chaque année
+
+Les autres fantômes s'incarnent aussi (de préférence un peu après), chacun à son point d'attache plus loin du banquet.
+
+
 L’ouverture du buffet d'outre-monde
 ++++++++++++++++++++++++++++++++++++++++++++
 
-Une musique entraînante se déclenche, et l’inventeur vient au banquet, appelant à grands cris ses amis du monde imaginaire à le rejoindre pour porter un toast à Octave et l'archiviste, et espérer ensemble la levée de la malédiction.
+Quelques minutes plus tard, les automates invitent les visiteurs à s'approcher du buffet. Une musique entraînante se déclenche, et l’inventeur vient au banquet, appelant à grands cris ses amis du monde imaginaire à le rejoindre pour porter un toast à Octave et l'archiviste, et espérer ensemble la levée de la malédiction.
 
 Les autres avatars convergent, les joueurs qui étaient proches se font haranguer aussi, et sont entrainés dans ce mélange de déclamations diverses et de mouvements de danse, en ouverture du banquet.
 
 Les mets du buffet sont supposés être automatiquement produits par la table enchantée. Optionnellement, s'il n'est pas déjà visible, on peut faire apparaître le buffet garni par une formule magique simple, que les avatars connaissent. {% xfact "buffet_table_magically_generates_food" %}
 
 Une fois la musique finie, joueurs et héros font plus ample connaissance autour du buffet. Il est assumé que, à dessein, ces mets magiques sont aussi accessibles aux fantômes (incarnés ou non).
-
-
-La première incarnation des fantômes
-++++++++++++++++++++++++++++++++++++++++++++++++
-
-Après un moment, le gong résonne ; le précepteur-archiviste s’incarne, et appelle les joueurs à venir à lui. Il se montre ravi d’avoir de la visite dans ces lieux - et peut-être avec eux un espoir de résolution de la malédiction. Il répond aux questions des joueurs, et **teste leurs bonnes intentions** avec le "{% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}". Il leur (re)signale la présence du buffet, qui pour lui s'est **"activé tout seul"** (car il ne voit pas les avatars), en cette date anniversaire du drame, comme chaque année
-
-Les autres fantômes s'incarnent aussi (de préférence un peu après), chacun à son point d'attache plus loin du banquet.
 
 
 La frénésie de la clochette spectrale
