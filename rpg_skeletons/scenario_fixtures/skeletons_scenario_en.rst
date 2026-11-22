@@ -76,7 +76,7 @@ The Bubonic Forest
 - A narrow beach at the foot of the cliff (hard to reach), where a **small sailing boat** (belonging to the keep) lies
 - Dense and dangerous forest, a single trail, passing by a **muskrat nest** 200 m from the garrison
 - Lookout rats watch over the forest and the keep; they relay messages to one another by squeaking
-- They sound an **oliphant** to warn the keep of dangers (1, 2 or 3 blasts depending on the severity)
+- They sound an **oliphant** to warn the keep of dangers (1 to 5 blasts depending on the severity, 5 for an extremely serious attack)
 - They go and fetch their Marquis if the skeletons come
 - Rats will press themselves against the skeletons' shinbones to pass on their vibrations (if they have no vibraphone)
 - **Rat Marquis** (has a **vibraphone** on his forehead): he says he sends a few dozen rats at every incoming adventurer, to "wear them out", in exchange for a share of the loot and of the keep's meat; the muskrat population is thriving, some are hibernating to limit consumption.
@@ -298,7 +298,7 @@ Day 2
 
 - Foulques wakes the carcasses one by one (amnesiac), asks them their first names by touching their helms in order to hear them (but they have no idea), and assigns each of them one taken from the Greek alphabet
 - He shouts to them to protect the **Pearl of Sylvorann**, which electrifies them, then he heads back to the keep.
-- An oliphant sounds
+- An oliphant sounds (3 blasts)
 - A muskrat arrives, with a parchment: "1 two-handed sword, an archer, and a Diakon"
 - These 3 attackers arrive a few minutes later
 - Almost inevitable defeat of the carcasses, mainly because of the Diakon
@@ -325,7 +325,7 @@ Day 3 - morning
   - He gives them a newspaper, "The Voice of Listenland". Headlines: "already more than 400 days without a king; more adventurers missing in the Bubonic Forest, said to harbour a sect of summoners of dark gods; minor earthquake 30 km from the capital".
   - He asks for "the steward" to come and see him (that is Foulques); since the latter is away, he says that payments and other dealings will be settled later, as he has a busy day; they will **catch up by telemirror**; then he leaves.
 
-- An oliphant sounds
+- An oliphant sounds (2 blasts)
 - **IMPORTANT**: what do the skeletons do with the load of goods?
 - A muskrat arrives, with a parchment: "two archers, a bard, and a merchant"
 - These 4 attackers arrive a few minutes later

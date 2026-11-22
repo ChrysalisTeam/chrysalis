@@ -76,7 +76,7 @@ La forêt bubonique
 - Une mince plage en bas de la falaise (difficilement accessible), où se trouve un **petit voilier** (appartenant au donjon)
 - Forêt dense et dangereuse, une seule piste, passant par un **nid de rats musqués** à 200m de la garnison
 - Des rats guetteurs surveillent la forêt et le donjon, ils communiquent de proche en proche par piaillements
-- Ils sonnent un **olifant** pour avertir le donjon des dangers (1, 2 ou 3 coups selon la gravité)
+- Ils sonnent un **olifant** pour avertir le donjon des dangers (de 1 à 5 coups selon la gravité, 5 pour une attaque gravissime)
 - Ils vont chercher leur Marquis si les squelettes arrivent
 - Des rats vont se coller contre les tibias des squelettes pour transmettre leurs vibrations (s'ils n'ont pas de vibraphone)
 - **Rat Marquis** (a un **vibraphone** sur le front) : il dit envoyer quelques dizaines de rats sur chaque aventurier qui arrive, pour les "fatiguer", contre une partie du butin et de la viande du donjon ; la population de rats musqués est au beau fixe, certains hibernent pour limiter la consommation.
@@ -298,7 +298,7 @@ Jour 2
 
 - FOULQUES réveille une à une les carcasses (amnésiques), leur demande leur prénom en touchant leur casque pour les entendre (mais elles n'en savent rien), et leur en assigne un tiré de l'alphabet grec
 - Il leur crie de protéger la **Perle de Sylvorann**, ce qui les électrise, puis il repart vers le donjon.
-- Un olifant résonne
+- Un olifant résonne (3 coups)
 - Un rat musqué arrive, avec un parchemin : "1 épée à deux mains, un archer, et un diacre"
 - Ces 3 assaillants arrivent quelques minutes plus tard
 - Défaite quasiment inévitable des carcasses, surtout à cause du diacre
@@ -325,7 +325,7 @@ Jour 3 - matin
   - Il donne un journal de "La voix du Listenland". Gros titres : "déjà plus de 400 jours sans roi ; encore des aventuriers disparus en forêt bubonique, qui abriterait une secte d'invocateurs des dieux obscurs ; séisme de faible ampleur à 30km de la capitale".
   - Il demande à ce que "l'intendant" vienne le voir (c'est FOULQUES) ; celui-ci étant absent, il dit qu'on verra plus tard pour les paiements et les autres négoces, il a une journée chargée ; ils feront un **point par télémiroir** ; puis il s'en va.
 
-- Un olifant résonne
+- Un olifant résonne (2 coups)
 - **IMPORTANT** : que font les squelettes du chargement de biens
 - Un rat musqué arrive, avec un parchemin : "deux archers, un barde, et un marchand"
 - Ces 4 assaillants arrivent quelques minutes plus tard
