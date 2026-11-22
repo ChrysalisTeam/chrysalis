@@ -151,7 +151,7 @@ FAREWELL TO THE PLAYERS (by the phantom Octave)
 
 My friends the Diakons, I thank you for all you have done for us; may you always fight the demonic forces well, and above all never again burn manors that have done you no harm!
 
-My friends the Mirandian soldiers, I am glad that our magic mill will go on serving a fine cause, and I hope that with it, you will be able to go on living in peace on your island, for as long as the sun shines!
+My friends the Mirandian secret agents, I am glad that our magic mill will go on serving a fine cause, and I hope that with it, you will be able to go on living in peace on your island, for as long as the sun shines!
 
 My friends the Heliossarian explorers, I am counting on you to thwart the Akariths' insane plans, with my ancestor's ring. The legions of undead had better watch out!
 

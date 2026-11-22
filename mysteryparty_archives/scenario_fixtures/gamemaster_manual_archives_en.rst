@@ -914,7 +914,7 @@ To neutralise the Beast:
 
 - **The Exorcist** can drive the Beast away for a while with one of his incantations, or on the contrary draw it towards him at a slow pace. {% xfact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% xfact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
-- One of the Parcivals has bullets that can be **made sacred by the Exorcist**, and thus capable of "killing" the phantom Beast (that is to say turning it back into a randomly wandering spectre). But because of the curse that encloses the library, the Beast would in that case inevitably come back a little later, even more ferocious. {% xfact "diakon_exorcist_can_bless_parcival_woodsman_arrows" %}
+- The Parcival Woodsman has a crossbow dart that can be **made sacred by the Exorcist**, and thus capable of "killing" the phantom Beast (that is to say turning it back into a randomly wandering spectre). But because of the curse that encloses the library, the Beast would in that case inevitably come back a little later, even more ferocious. {% xfact "diakon_exorcist_can_bless_parcival_woodsman_arrows" %}
 
 - The Beast's favourite treats were {% symbol "moon stones" for "phosphorescent_pebbles_name" %}; even though it can no longer eat them, it pounces on them whenever it comes across some. {% xitem "beast_snack_as_moon_stones" is needed %} {% xfact "beast_is_addicted_to_moon_stones" %}
 
@@ -1137,7 +1137,7 @@ Here is the "optimal" course of this final battle using an expulsion ritual:
 
 - If the Diakon abandons the ritual for any reason, the Druid may "make an example" by killing one of the players, then repeats his orders to the survivors.
 
-Whether the traitor is annihilated one way or another (cursed bullet or expulsion ritual), the curse comes to an end, and the epilogue can unfold. {% xfact "traitor_death_ends_cursed_enclosure" %}
+Whether the traitor is annihilated one way or another (cursed dart or expulsion ritual), the curse comes to an end, and the epilogue can unfold. {% xfact "traitor_death_ends_cursed_enclosure" %}
 
 But if a player follows the Druid's orders and lifts the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %}, or if everyone takes too long to act and the Druid finally breaks this curse himself (thanks to a formula supposedly found in a grimoire), then the Druid immediately escapes from the library.
 

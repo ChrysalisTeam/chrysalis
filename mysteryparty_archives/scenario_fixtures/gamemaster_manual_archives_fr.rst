@@ -914,7 +914,7 @@ Pour neutraliser la Bête :
 
 - **L’exorciste** peut faire fuir la Bête pendant quelque temps avec une de ses incantations, ou au contraire l'attirer à lui à rythme lent. {% xfact "diakon_exorcist_can_chase_away_beast_temporarily" %} {% xfact "diakon_exorcist_can_attract_slowed_beast_temporarily" %}
 
-- L’un des Parcival a des balles qui peuvent être **rendues sacrées par l’exorciste**, et donc capables de "tuer" la Bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la Bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% xfact "diakon_exorcist_can_bless_parcival_woodsman_arrows" %}
+- Le Gardien des bois des Parcival a une fléchette d'arbalète qui peut être **rendue sacrée par l’exorciste**, et donc capable de "tuer" la Bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la Bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% xfact "diakon_exorcist_can_bless_parcival_woodsman_arrows" %}
 
 - La Bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même si elle ne peut plus les manger, elle se jette dessus quand il en croise. {% xitem "beast_snack_as_moon_stones" is needed %} {% xfact "beast_is_addicted_to_moon_stones" %}
 
@@ -1137,7 +1137,7 @@ Voici le déroulement "optimal" de cette bataille finale utilisant un rituel d'e
 
 - Si le diacre abandonne le rituel pour une raison ou une autre, le druide peut "faire un exemple" en tuant un des joueurs, puis réitère ses ordres envers les survivants.
 
-Que le traître soit anéanti d'une manière ou d'une autre (balle maudite ou rituel d'expulsion), la malédiction prend fin, et l’épilogue peut se dérouler. {% xfact "traitor_death_ends_cursed_enclosure" %}
+Que le traître soit anéanti d'une manière ou d'une autre (fléchette maudite ou rituel d'expulsion), la malédiction prend fin, et l’épilogue peut se dérouler. {% xfact "traitor_death_ends_cursed_enclosure" %}
 
 Mais si un joueur suit les ordres du druide et lève la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %}, ou si tous tardent trop à agir et le druide brise finalement lui-même cette malédiction (grâce à une formule prétendument trouvée dans un grimoire), alors le druide s'échappe immédiatement de la bibliothèque.
 
