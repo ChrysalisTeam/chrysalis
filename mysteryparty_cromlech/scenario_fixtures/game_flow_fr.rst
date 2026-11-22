@@ -120,7 +120,16 @@ INTERLUDE : Leçon d'Histoire du professeur Gustave Bloch
 
 On rassemble les joueurs dans la plus grande salle.
 
-Le professeur arrive, excentrique et agité, et récapitule l'histoire de la conquête de la Gaule, de la bataille d'Uxellodunum, puis évoque avec scepticisme quelques légendes l'entourant. À la fin de sa leçon, il remet à chaque groupe un exemplaire du papier sur les symboles de la mythologie gauloise.
+Le professeur (joué par l'expert en archéologie du Trésor, ou à défaut par le MJ, voir le manuel du MJ) arrive, excentrique et agité, et récapitule l'histoire de la conquête de la Gaule, de la bataille d'Uxellodunum, puis évoque avec scepticisme quelques légendes l'entourant. À la fin de sa leçon, il remet à chaque groupe un exemplaire du papier sur les symboles de la mythologie gauloise, ainsi que du document "Le Siège d'Uxellodunum", qui reprend sa leçon.
+
+Trame de la leçon (environ 10 minutes) :
+
+- "52 av. J.-C. : à Alésia, Vercingétorix se rend à Jules César. La Gaule est conquise... enfin, presque !"
+- "Un an plus tard, les derniers rebelles, menés par Lucterios et Drappès, se retranchent dans l'oppidum d'Uxellodunum, au cœur du Quercy."
+- "César vient en personne. Plutôt que de donner l'assaut, il fait creuser des galeries et tarit la source : assoiffés, les assiégés se rendent. César leur fait trancher les mains, pour l'exemple."
+- "La légende raconte que des druides venus d'Armorique avaient rejoint les rebelles ; à la chute de la place, ils se seraient cachés dans une grotte pour invoquer {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, avec des armes romaines pour réceptacles... Balivernes, bien entendu !"
+- "{% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, « père de la nation », dieu de la guerre que seul le sang des batailles apaisait ; rien à voir avec Bélénos, Épona ou Ogmios, des divinités bien plus pacifiques. Tenez, voici leurs symboles."
+- "Un descendant de Bertrand du Guesclin s'est même vanté, dans ses mémoires, d'avoir eu la garde de ce « Dernier Vœu des Druides »... Mais les légendes, mes amis, ne sont que des légendes !"
 
 
 Troisième entretien simultané

@@ -89,7 +89,10 @@ The Druid who haunts the Cromlech
     Silent, mysterious, haughty; suddenly reveals himself to a player (psyker) by showing wide, mad eyes and panting out extravagant, distressing or unintelligible sentences.
 
 The Police Inspector
-    Supervises the operations. In the manner of "Sherlock Holmes", steps in from time to time to share a few brilliant observations and intuitions with the players.
+    Supervises the operations. In the manner of "Sherlock Holmes", steps in from time to time to share a few brilliant observations and intuitions with the players. This role is played by the GM in person (so it has no character sheet): all the Inspector's lines and interventions are in the "Game Flow" sheet, and the Inspector is the one who hands the documents over to the players.
+
+Professor Gustave Bloch, archaeology expert (optional)
+    Eccentric, agitated, erudite, sceptical about legends. Posted at the Treasure during the four interviews, he tells the players in detail what is known about the artefacts (relying for this on the document "The Cromlech Treasure"); during the interlude, he gives his History lesson (see the "Game Flow" sheet). If no NPC actor is available for this role, the Treasure works with the document alone, and the GM plays the professor in person for the duration of the lesson (the Inspector having gone off "to fetch him").
 
 
 Description of the Museum Treasure
@@ -97,7 +100,7 @@ Description of the Museum Treasure
 
 When it is their turn, instead of questioning one of the witnesses, the players go and inspect the museum's ancient artefacts.
 
-An **archaeology expert** may be present on the premises to tell them in detail what he knows about each of the objects present; or else they have direct access to the first page of the document **The Cromlech Treasure**, laid near the artefacts; the GM then keeps the second page ("Hidden Artefacts"), and reads each of its paragraphs to the players when they find the corresponding object.
+Professor Gustave Bloch, an **archaeology expert**, may be present on the premises to tell them in detail what he knows about each of the objects present; or else they have direct access to the first page of the document **The Cromlech Treasure**, laid near the artefacts; the GM then keeps the second page ("Hidden Artefacts"), and reads each of its paragraphs to the players when they find the corresponding object.
 
 In reality:
 

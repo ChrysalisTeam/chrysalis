@@ -120,7 +120,16 @@ INTERLUDE: Professor Gustave Bloch's History Lesson
 
 The players are gathered in the largest room.
 
-The professor arrives, eccentric and agitated, and recaps the history of the conquest of Gaul and the battle of Uxellodunum, then sceptically touches on a few legends surrounding it. At the end of his lesson, he gives each group a copy of the paper with the symbols of Gaulish mythology.
+The professor (played by the archaeology expert of the Treasure, or failing that by the GM, see the GM manual) arrives, eccentric and agitated, and recaps the history of the conquest of Gaul and the battle of Uxellodunum, then sceptically touches on a few legends surrounding it. At the end of his lesson, he gives each group a copy of the paper with the symbols of Gaulish mythology, as well as of the document "The Siege of Uxellodunum", which sums up his lesson.
+
+Outline of the lesson (about 10 minutes):
+
+- "52 BC: at Alesia, Vercingetorix surrenders to Julius Caesar. Gaul is conquered... well, almost!"
+- "One year later, the last rebels, led by Lucterius and Drappes, entrench themselves in the oppidum of Uxellodunum, in the heart of Quercy."
+- "Caesar comes in person. Rather than storm the place, he has tunnels dug and dries up the spring: parched, the besieged surrender. Caesar has their hands cut off, as an example."
+- "Legend has it that druids from Armorica had joined the rebels; when the stronghold fell, they supposedly hid in a cave to invoke {% symbol "Toutatis" for "bloodthirsty_god_name" %}, with Roman weapons as receptacles... Balderdash, of course!"
+- "{% symbol "Toutatis" for "bloodthirsty_god_name" %}, 'father of the nation', a god of war appeased only by the blood of battles; nothing to do with Belenos, Epona or Ogmios, far more peaceful deities. Here, these are their symbols."
+- "A descendant of Bertrand du Guesclin even boasted, in his memoirs, of having had custody of this 'Druids' Last Wish'... But legends, my friends, are only legends!"
 
 
 Third Simultaneous Interview

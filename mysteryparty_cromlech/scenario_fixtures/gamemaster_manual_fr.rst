@@ -89,7 +89,10 @@ Le/la druide qui hante le Cromlech
     Silencieux, mystérieux, hautain ; se dévoile soudain à un joueur (psyker) en montrant de grand yeux fous et en haletant des phrases extravagantes, angoissantes ou incompréhensibles.
 
 L'inspecteur.trice de police
-    Il supervise les opérations. À la façon de "Sherlock Holmes", il intervient ponctuellement pour partager aux joueurs quelques géniales observations et intuitions.
+    Il supervise les opérations. À la façon de "Sherlock Holmes", il intervient ponctuellement pour partager aux joueurs quelques géniales observations et intuitions. Ce rôle est tenu par le MJ lui-même (il n'a donc pas de fiche de personnage) : ses répliques et interventions sont toutes dans la fiche "Déroulement du jeu", et c'est lui qui remet les documents aux joueurs.
+
+Le professeur Gustave Bloch, expert en archéologie (facultatif)
+    Excentrique, agité, érudit, sceptique envers les légendes. Posté au Trésor pendant les quatre entretiens, il détaille aux joueurs ce que l'on sait des artefacts (il s'appuie pour cela sur le document "Le Trésor du Cromlech") ; pendant l'interlude, il donne sa leçon d'Histoire (voir la fiche "Déroulement du jeu"). S'il n'y a pas de figurant pour ce rôle, le Trésor fonctionne avec le seul document, et le MJ joue lui-même le professeur le temps de la leçon (l'inspecteur étant parti "le chercher").
 
 
 Description du trésor du musée
@@ -97,7 +100,7 @@ Description du trésor du musée
 
 Lorsque c'est leur tour, au lieu d'interroger un des témoins, les joueurs vont inspecter les artefacts antiques du musée.
 
-Un **expert en archéologie** peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents ; ou bien ils ont accès directement à la première page du document **Le Trésor du Cromlech**, posée près des artefacts ; le MJ garde alors la seconde page ("Artefacts cachés"), et en lit chaque paragraphe aux joueurs quand ils trouvent l'objet correspondant.
+Le professeur Gustave Bloch, **expert en archéologie**, peut être présent sur les lieux pour leur détailler ce qu'il sait sur chacun des objets présents ; ou bien ils ont accès directement à la première page du document **Le Trésor du Cromlech**, posée près des artefacts ; le MJ garde alors la seconde page ("Artefacts cachés"), et en lit chaque paragraphe aux joueurs quand ils trouvent l'objet correspondant.
 
 En réalité :
 
