@@ -25,7 +25,7 @@ Vos premières prestations en tant que guide étaient tout sauf rigoureuses, car
 
 Votre bonne âme a fini par avoir raison de votre éthique professionnelle, et vous lui avez donné un **double des clefs** ; après tout, il est de bonne famille, ce n'est que pour quelques semaines, il n'y a pas d'objets de valeur sur place, et c'est toujours vous qui ouvrez les lieux le matin, donc les risques d'une rencontre impromptue avec le Conservateur sont infimes...
 
-En remerciement, il vous a offert une jolie **chevalière** d'inspiration romaine, censée "porter chance", que vous gardez désormais fièrement au doigt. {% xfact "le guide a désormais une chevalière à la main" as author %} {% xitem "chevalière pour le guide" is needed %}
+En remerciement, il vous a offert une jolie **chevalière** ornée de vieux symboles celtes, censée "porter chance", que vous gardez désormais fièrement au doigt. {% xfact "le guide a désormais une chevalière à la main" as author %} {% xitem "chevalière pour le guide" is needed %}
 
 Le jour du drame
 ===================

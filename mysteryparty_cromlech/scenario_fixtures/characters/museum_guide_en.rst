@@ -25,7 +25,7 @@ Your first performances as a guide were anything but rigorous, as your great ima
 
 Your kind heart eventually won out over your professional ethics, and you gave him a **spare key**; after all, he is from a good family, it is only for a few weeks, there are no valuables on the premises, and it is always you who opens up in the morning, so the risk of an unexpected encounter with the Curator is minimal...
 
-In thanks, he gave you a pretty Roman-inspired **signet ring**, supposed to "bring luck", which you now proudly wear on your finger. {% xfact "le guide a désormais une chevalière à la main" as author %} {% xitem "chevalière pour le guide" is needed %}
+In thanks, he gave you a pretty **signet ring** adorned with old Celtic symbols, supposed to "bring luck", which you now proudly wear on your finger. {% xfact "le guide a désormais une chevalière à la main" as author %} {% xitem "chevalière pour le guide" is needed %}
 
 The Day of the Tragedy
 ======================
