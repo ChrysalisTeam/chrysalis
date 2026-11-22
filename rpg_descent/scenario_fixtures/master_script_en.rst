@@ -6,7 +6,6 @@ CHRYSALIS: DESCENT RPG MANUAL 1.0
     This role-playing scenario, and the artistic works it contains, are part of the `Chrysalis Project <http://chrysalis-game.com>`_. They are licensed under `Creative Commons: Attribution, Non-Commercial, Derivatives Allowed <http://creativecommons.org/licenses/by-nc/3.0/>`_, except for the photographs, which are the property of their respective authors, and are reproduced with their permission. Any criticism or suggestions are welcome, with a view to improving this game.
 
 
-.. TODO: accounts of a previous exploration, whose traces/dictaphones are found on the way back up towards the temple (killed by the monitor lizard)
 .. TODO: traps, clues, puzzles, to be added here and there, depending on the players' experience (in particular, relating to *geology and concretions?*)
 
 
@@ -63,7 +62,7 @@ The adventure ends when the players reach Loyd Georges' off-road truck (or die..
 
 Possible complications, in addition to those present in the description of each location:
 
-- an explorer's corpse lies in the aquifer cavern, and additional clues or artefacts can be found on it
+- an explorer's corpse lies in the aquifer cavern, near the canal, and additional clues or artefacts can be found on it: an adventurer from a previous expedition, killed by a bite from the monitor (swollen, blackened leg); he carries a **dictaphone**, whose last recording speaks of a "giant lizard come out of the canal" and of a lever "with the bird, pushed towards the east, which lowered the water a little", as well as a purse of **purple gems** (fake)
 - a strange animal (land ray-octopus-chameleon...) discreetly follows the adventurers from the moment they enter, and once spotted can be tamed (or fought)
 - one of the porters loses his mind because of the mystical atmosphere of the Holy of Holies, and all these riches (manage to calm him down)
 - in the absence of a protective mask, one of the porters develops a throat oedema, as an allergic reaction to the mould of the Holy of Holies (need to perform a tracheotomy on him?)
@@ -505,6 +504,7 @@ Agility (= attack) of the main enemies:
 - Imperial monitor: 4
 - Akarith peasant: 2 (with a scythe)
 - Akarith zealot: 3 (with a musket then a katana)
+- Strange animal (land ray-octopus-chameleon): 2
 
 
 Endgame and Epilogue

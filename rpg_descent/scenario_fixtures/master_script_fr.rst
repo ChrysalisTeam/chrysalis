@@ -6,7 +6,6 @@ MANUEL du JDR CHRYSALIS:DESCENT 1.0
     Ce scénario de jeu de rôle, et les oeuvres artistiques qu'il contient, font partie du `Projet Chrysalis <http://chrysalis-game.com>`_. Ils sont sous licence `Creative Commons : Paternité, Non-Commercial, Modification Autorisée <http://creativecommons.org/licenses/by-nc/3.0/>`_, sauf les photographies qui sont la propriété de leurs auteurs respectifs, et sont reproduites avec leur autorisation. Toutes critiques ou suggestions sont les bienvenues, en vue d'améliorer ce jeu.
 
 
-.. TODO : récits d'une exploration précédente, dont on retrouve les traces/dictaphones en remontant vers le temple (tués par le varan)
 .. TODO : pièges, indices, énigmes, à ajouter ici et là, selon l'expérience des joueurs (en particulier, ayant trait à la *géologie et aux concrétions ?*)
 
 
@@ -63,7 +62,7 @@ L'aventure se termine lorsque les joueurs rejoignent le camion tout-terrain de L
 
 Péripéties envisageables, en complément de celles présentes dans la description de chaque lieu :
 
-- un cadavre d'explorateur gît dans la caverne aquifère, et on peut trouver des indices supplémentaires ou des artefacts dessus
+- un cadavre d'explorateur gît dans la caverne aquifère, près du canal, et on peut trouver des indices supplémentaires ou des artefacts dessus : c'est un aventurier d'une expédition précédente, mort d'une morsure du varan (jambe enflée et noircie) ; il porte un **dictaphone**, dont le dernier enregistrement parle d'un "lézard géant sorti du canal" et d'un levier "à l'oiseau, poussé vers l'est, qui a fait un peu baisser l'eau", ainsi qu'une bourse de **gemmes violettes** (fausses)
 - un animal étrange (raie-pieuvre-caméléon terrestre...) suit discrètement les aventuriers dès leur entrée, et une fois repéré peut être apprivoisé (ou combattu)
 - un des porteurs perd la raison à cause de l'ambiance mystique du Saint des Saints, et de toutes ces richesses (réussir à le calmer)
 - en l'absence de masque de protection, un des porteurs fait un oedème à la gorge, en réaction allergique aux moisissures du Saint des Saints (nécessité de lui faire une trachéotomie ?)
@@ -505,6 +504,7 @@ Agilité (= attaque) des principaux ennemis :
 - Varan impérial : 4
 - Paysan akarite : 2 (avec une faux)
 - Zélote akarite : 3 (avec un mousquet puis un katana)
+- Animal étrange (raie-pieuvre-caméléon terrestre) : 2
 
 
 Fin de partie et épilogue
