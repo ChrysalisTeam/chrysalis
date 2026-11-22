@@ -11,7 +11,7 @@ Un an après la reddition de Vercingétorix à Alésia, César et ses principaux
 Dans le sud-ouest, deux chefs gaulois, **Lucterios** et **Drappès**, suivis de quelques milliers d'hommes et poursuivis par le légat **Caius Caninius Rebilus**, se réfugient dans la place forte d'Uxellodunum, au cœur du territoire des Cadurques (dans le Quercy actuel).
 Le légat divise alors ses deux légions en trois camps, largement espacés, dans les zones en surplomb autour de l'oppidum.
 
-Les Gaulois piégés à l'intérieur de l'oppidum, ayant pour certains connu la rudesse de la famine du désastreux siège d'Alesia (où Lucterios avait été présent), entreprennent alors de sortir pour se procurer de la nourriture et des provisions. Lucterios et Drappès laissent en sécurité une garnison d'environ 2000 hommes à l'intérieur d'Uxellodunum, en prenant le reste de leur force (quelques milliers d'hommes) pour se ravitailler. En plusieurs jours, ils réussissent à rassembler une grande quantité de vivres dans le pays cadurque environnant, en s'attelant à attaquer régulièrement les positions fortifiées romaines pour couvrir leur sortie.
+Les Gaulois piégés à l'intérieur de l'oppidum, ayant pour certains connu la rudesse de la famine du désastreux siège d'Alésia (où Lucterios avait été présent), entreprennent alors de sortir pour se procurer de la nourriture et des provisions. Lucterios et Drappès laissent en sécurité une garnison d'environ 2000 hommes à l'intérieur d'Uxellodunum, en prenant le reste de leur force (quelques milliers d'hommes) pour se ravitailler. En plusieurs jours, ils réussissent à rassembler une grande quantité de vivres dans le pays cadurque environnant, en s'attelant à attaquer régulièrement les positions fortifiées romaines pour couvrir leur sortie.
 
 Caninius Rebilus, apprenant la tentative, déploie alors une partie de ses forces contre le convoi, et le disperse en faisant de nombreuses victimes et captifs. Dans la lutte, Lucterios prend la fuite, et Drappès qui avait son camp non loin est capturé.
 Revenant à ses positions d'encerclement, Caninius Rebilus fait alors intensifier les travaux de siège autour de la place forte. Avec les renforts arrivés entretemps, les forces romaines s'élèvent alors à un peu plus de quatre légions, assez pour l'encercler complètement.
@@ -23,7 +23,7 @@ Face aux murailles naturelles de la place, et face aux réserves importantes des
 Les assiégés réagissent en tentant d'incendier l'ensemble de l'édifice de siège romain : ils remplissent des tonneaux de suif, de poix et de bois sec, les enflamment et les font rouler sur les structures terrassées des Romains. Mais cela ne suffit pas. Bientôt, l'armée romaine tarit la source, et les assiégés, contraints par la soif, se rendent.
 
 César reçoit la reddition de la place, et use de sa réputation d'homme plein de mansuétude pour traiter avec les vaincus. Il choisit de punir les captifs en leur tranchant les mains, mais en leur laissant la vie sauve, afin de décourager les Gaulois de se rebeller à nouveau un jour.
-Drappès, captif, s'abstient de manger pendant plusieurs jours et périt. Dans le même temps, Luctérios se réfugie chez un aristocrate appelé Epasnactos, qui le livrera prisonnier à César.
+Drappès, captif, s'abstient de manger pendant plusieurs jours et périt. Dans le même temps, Lucterios se réfugie chez un aristocrate appelé Epasnactos, qui le livrera prisonnier à César.
 
 [BR]
 

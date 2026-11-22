@@ -102,7 +102,7 @@ Treasure: probable opening of the chest's padlock, and examination of its conten
 
 Police Inspector's interventions (one third of the way through the interview with the Curator, then two thirds of the way through it with the Guide, since they are in two different rooms):
 
-- Points out the wound on the Curator's left hand. {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
+- Points out the wound on the Curator's left hand. {% xitem "bandage sanglant à la main gauche pour le conservateur" is needed %}
 - Accuses the Guide of having forged diplomas.
 
 Druid's intervention: He goes to see the player groups currently with the Guide and the Curator; each time, he beckons the group's Psyker over to him; he introduces himself, then tells them (in the players' language) a tall tale, to the effect that these artefacts are sacred relics of the Gaulish people, and that Andrea must have stolen the gladius out of greed.

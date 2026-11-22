@@ -6,7 +6,7 @@ Votre passé
 
 Vous êtes **M./Mme {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}**, descendant(e) direct du noble chevalier breton du même nom. Vous aviez entamé une belle **carrière d'avocat**, quand le décès de votre **père {% symbol "Philippe du Guesclin" for "pere_du_conservateur" %}** - devenu fou avec l'âge - a tout bouleversé, il y a **{% symbol "15 mois" for "délai_mort_père_du_conservateur" %}** de cela.
 
-Son superbe manoir, trop coûteux à entretenir, devait être vendu ; vous avez donc inventorié l'amoncellement d'objets bizarres qu'il contenait.
+Son superbe château, trop coûteux à entretenir, devait être vendu ; vous avez donc inventorié l'amoncellement d'objets bizarres qu'il contenait.
 
 Vous êtes alors tombé, dans les profondeurs de ses caves, sur des artefacts de toutes les époques, dont certaines pièces exceptionnelles remontant à l'antiquité celte. Vous avez cru un moment que cela vous vaudrait une rondelette fortune auprès des musées ou des collectionneurs fortunés. Mais vos sommeils se sont rapidement emplis de cauchemars plus vrais que nature. Puis, IL est venu frapper à votre porte.
 
@@ -44,11 +44,11 @@ Aujourd'hui, vous êtes venu tôt le matin, vers **{% symbol "7h" for "arrivée_
 
 Mais alors que vous entamiez la cérémonie, vêtu de la traditionnelle **toge en lin**, Andrea a surgi dans la pièce, en fureur. Il vous a accusé de mettre en danger la vie de millions d'innocents avec des "rituels d'essence démoniaque".
 
-Son intrusion, son culot, son agression verbale vous ont fait perdre votre sang-froid. Vous avez commencé à vous bagarrer. L'intrus s'est saisi du glaive antique pour vous repousser, et vous a **blessé à la main gauche**. Comme possédé, vous avez alors foncé dans votre bureau attenant, pour prendre le vieux **pistolet** de votre père, et vous avez tiré sur Andrea en plein ventre. {% xfact "le conservateur a été blessé à la main gauche par le héros" %} {% xfact "le conservateur a tiré au pistolet sur le héros" as author %}
+Son intrusion, son culot, son agression verbale vous ont fait perdre votre sang-froid. Vous avez commencé à vous bagarrer. L'intrus s'est saisi du glaive antique pour vous repousser, et vous a **blessé à la main gauche**. Comme possédé, vous avez alors foncé dans votre bureau attenant, pour prendre le vieux **revolver** de votre père, et vous avez tiré sur Andrea en plein ventre. {% xfact "le conservateur a été blessé à la main gauche par le héros" %} {% xfact "le conservateur a tiré au pistolet sur le héros" as author %}
 
 Quand vous avez repris vos esprits, le jeune homme gisait devant les artefacts, dans une mare de sang. {% symbol "Olloudios" for "nom_du_spectre" %} vous est apparu, et vous a dicté la marche à suivre :
 
-- Bander votre poignet gauche ensanglanté, et le dissimuler sous un gant noir ; {% xitem "bandage sanglant au poignet pour le conservateur" is needed %} {% xitem "gant noir pour le conservateur" is needed %}
+- Bander votre main gauche ensanglantée, jusqu'au poignet, et la dissimuler sous un gant noir ; {% xitem "bandage sanglant à la main gauche pour le conservateur" is needed %} {% xitem "gant noir pour le conservateur" is needed %}
 - Nettoyer et remettre le glaive à sa place ;
 - Placer le revolver dans la main gauche d'Andrea (car Andrea était gaucher !) ;
 - Écrire une fausse lettre d'adieux en son nom (de la main gauche - aïe - toujours) ;

@@ -63,7 +63,7 @@ Toutes les portes sont contrôlées par la même clef.
 
 Aucune possibilité de passer par d’autres accès.
 
-Flaque de sang séché au sol dans la Salle des Antiquités.
+Flaque de sang séché au sol dans la salle du Trésor.
 
 1 litre répandu environ.
 
@@ -87,7 +87,7 @@ Le Conservateur a bien été vu ce matin vers 10h30 par les journalistes du Gram
 
 Nous avons trouvé un papier caché dans la doublure du portefeuille de {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}. Il y est griffonné : *"indice : année de naissance renversée"*.
 
-Le sang épandu en salle des artefacts a été identifié comme étant de groupe sanguin A+.
+Le sang épandu dans la salle du Trésor a été identifié comme étant de groupe sanguin A+.
 Il date de moins de 24h.
 
 [PAGEBREAK]
@@ -108,10 +108,10 @@ Une enveloppe égarée, non timbrée, avait été mise aux Objets Trouvés du mu
 Complément d'enquête #3
 ################################
 
-Un revolver a été retrouvé dans la salle du trésor, derrière un tas de livres. Il manque une balle dans le barillet.
+Un revolver a été retrouvé dans la salle du Trésor, derrière un tas de livres. Il manque une balle dans le barillet.
 Les empreintes digitales d'{% symbol "Andrea di Revel" for "nom_du_héros" %} ont été retrouvées sur la poignée, au-dessus d'autres empreintes qui semblent, elles, appartenir à {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}.
 
-Le grimoire factice de la salle du trésor émet depuis peu des vibrations que tous peuvent ressentir.
+Le grimoire factice de la salle du Trésor émet depuis peu des vibrations que tous peuvent ressentir.
 
 Nous avons interrogé divers habitués du Cromlech, ils disent n'y rien avoir remarqué d'anormal ; mais plusieurs se plaignent d'avoir un sommeil agité depuis qu'ils y viennent régulièrement, avec des rêves chargés de symboles antiques.
 

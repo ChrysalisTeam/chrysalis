@@ -63,7 +63,7 @@ All doors open with the same key.
 
 No other means of access possible.
 
-Pool of dried blood on the floor in the Antiquities Room.
+Pool of dried blood on the floor in the Treasure Room.
 
 Approximately 1 litre spilled.
 
@@ -87,7 +87,7 @@ The Curator was indeed seen this morning at around 10:30 by journalists from Le 
 
 We found a piece of paper hidden in the lining of {% symbol "Camille du Guesclin" for "curator_name" %}'s wallet. Scrawled on it is: *"clue: birth year reversed"*.
 
-The blood spilled in the artefacts room has been identified as blood type A+.
+The blood spilled in the Treasure Room has been identified as blood type A+.
 It is less than 24 hours old.
 
 [PAGEBREAK]

@@ -85,8 +85,8 @@ Premier complément d'enquête
 - Informations sur une duplication de clef douteuse effectuée en ville, clef identique à celle du Conservateur et du Guide.
 - Informations sur l'analyse illicite d'un glaive antique par une personne semblable au reporter (sans preuve).
 - Informations sur le déroulement chaotique de la cérémonie publique où le Conservateur prétend avoir passé la matinée.
-- Indice sur le code du coffret de la salle au Trésor.
-- Analyse du sang (groupe sanguin, âge…) de la salle au Trésor, montrant qu'il appartient à Andrea.
+- Indice sur le code du coffre de la salle du Trésor.
+- Analyse du sang (groupe sanguin, âge…) de la salle du Trésor, montrant qu'il appartient à Andrea.
 
 
 Deuxième entretien simultané
@@ -102,7 +102,7 @@ Trésor : ouverture probable du cadenas du coffret, et observation de son conten
 
 Interventions de l'inspecteur de police (au premier tiers de l'entretien auprès du Conservateur, puis aux deux tiers auprès du Guide, car ils sont dans deux salles différentes) :
 
-- Met en évidence la blessure à la main gauche du Conservateur. {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
+- Met en évidence la blessure à la main gauche du Conservateur. {% xitem "bandage sanglant à la main gauche pour le conservateur" is needed %}
 - Accuse le Guide d'avoir fabriqué de faux diplômes.
 
 Intervention du druide : Il passe voir les groupes de joueurs actuellement avec le Guide et le Conservateur ; à chaque fois, il appelle à lui, par gestes, le Psyker du groupe ; il se présente, puis lui raconte (en français) un bobard, sur le fait que ces artefacts sont des reliques sacrées du peuple gaulois, et qu'Andrea a dû voler le glaive par appât du gain.
@@ -155,7 +155,7 @@ Interventions de l'inspecteur de police (au premier tiers de l'entretien auprès
 Troisième et dernier complément d'enquête
 ------------------------------------------------
 
-- Découverte d'un pistolet (où il manque une balle), avec empreintes digitales, dans la salle du trésor. {% xitem "revolver où il manque une balle" is needed %}
+- Découverte d'un revolver (où il manque une balle), avec empreintes digitales, dans la salle du Trésor. {% xitem "revolver où il manque une balle" is needed %}
 - Déclenchement de vibrations sur le grimoire factice du musée.
 - Retours des habitués du Cromlech sur leurs cauchemars.
 - Appel d'Andrea à ses alliés, via un message griffonné sur l'enveloppe trouvée au sol.
@@ -185,7 +185,7 @@ Intervention du druide : Il passe voir les groupes de joueurs actuellement avec 
 Conciliabules finaux
 -------------------------------------
 
-Tout le monde se rassemble **HORS DE la salle du trésor**.
+Tout le monde se rassemble **HORS DE la salle du Trésor**.
 
 - Tous les "greffiers" sont rassemblés par l'inspecteur de police pour échanger sur les résultats de leurs investigations.
 - Tous les "psykers" sont rassemblés et briefés par le Druide : ils sont désormais comme des zombies, soumis à sa volonté de druide, et vont être ses complices dans la scène finale (avec des **maquillages rapides** simulant une possession démoniaque). Ils doivent désormais marcher lentement, parfois bégayer des choses incompréhensibles, et suivre les ordres du druide. {% xfact "le druide envoûte les psykers à la fin du jeu" %}

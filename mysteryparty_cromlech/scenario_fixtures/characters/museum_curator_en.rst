@@ -6,7 +6,7 @@ Your Past
 
 You are **Mr/Mrs {% symbol "Camille du Guesclin" for "curator_name" %}**, a direct descendant of the noble Breton knight of the same name. You had embarked on a fine **career as a lawyer**, when the death of your **father {% symbol "Philippe du Guesclin" for "curator_father_name" %}** - who had gone mad with age - turned everything upside down, **{% symbol "15 months" for "curator_father_death_delay" %}** ago.
 
-His superb manor, too costly to maintain, had to be sold; so you took an inventory of the heap of bizarre objects it contained.
+His superb chateau, too costly to maintain, had to be sold; so you took an inventory of the heap of bizarre objects it contained.
 
 That is when, in the depths of its cellars, you came across artefacts from every era, including some exceptional pieces dating back to Celtic antiquity. For a while you believed this would earn you a tidy fortune from museums or wealthy collectors. But your sleep soon filled with nightmares more vivid than reality. Then HE came knocking at your door.
 
@@ -48,7 +48,7 @@ His intrusion, his nerve, his verbal aggression made you lose your composure. Yo
 
 When you came to your senses, the young man lay in front of the artefacts, in a pool of blood. {% symbol "Olloudios" for "spectre_name" %} appeared to you, and dictated the course to follow:
 
-- Bandage your bloodied left wrist, and hide it under a black glove; {% xitem "bandage sanglant au poignet pour le conservateur" is needed %} {% xitem "gant noir pour le conservateur" is needed %}
+- Bandage your bloodied left hand, up to the wrist, and hide it under a black glove; {% xitem "bandage sanglant à la main gauche pour le conservateur" is needed %} {% xitem "gant noir pour le conservateur" is needed %}
 - Clean the gladius and put it back in its place;
 - Place the revolver in Andrea's left hand (for Andrea was left-handed!);
 - Write a fake farewell letter in his name (with the left hand again - ouch);
