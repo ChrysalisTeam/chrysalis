@@ -239,7 +239,7 @@ If the tower has not yet burned, Abelard first insists on searching it, and help
 
 Meanwhile, in the village, in his shop, **the apothecary** can explain to the animals what he knows of the story: the rocks that fell on the village, and the threatening parchment delivered to the burgomaster - by a green-billed toucan, it seems (only the burgomaster saw it). He can ask the burgomaster for this parchment, "for the village archives", if prompted, because he is also the **archivist**.
 
-Josephine arrives at the apothecary's, and requests a powerful narcotic potion, supposedly "because her father has insomnia and asked to try it". The apothecary hesitates, but ends up giving it to her, if the animals do not convince him otherwise.
+Josephine arrives at the apothecary's, and requests a powerful narcotic potion, supposedly "because her father has insomnia and asked to try it". The apothecary hesitates, but ends up giving it to her, if the animals do not convince him otherwise. In reality, Josephine intends to drug her father and the notary (see scene 5).
 
 In return he asks for the key to the telegraph office (for which he is ALSO responsible), a key he had agreed to entrust to the burgomaster. Josephine dodges the question, saying that they will bring it back soon, but that this alchemist business may still require urgent communications outside the telegraph office's meagre opening hours (the rest of the time, there is an **"answering machine"**); she states that she was just on her way there, at Abelard's request, to inform the **Order of Witchers** of the latest events and avoid misunderstandings.
 
@@ -259,13 +259,13 @@ If, at some point, Abelard is confronted with the fact that the handwriting of S
 
 Depending on the various pieces of information the apothecary may bring back, the first level of **conspiracy** is, or is not, exposed; if it is, both Josephine and Abelard *officially* distance themselves from the burgomaster, without accusing him either. Josephine can point out that the green-billed **toucan** supposedly belongs to the Enchantress Dorina.
 
-Josephine reassures her father - who is nonetheless far from at ease - as best she can, and confirms to him that their evening **rendezvous** still stands.
+Josephine reassures her father - who is nonetheless far from at ease - as best she can, and confirms to him that their evening **rendezvous** still stands. If she has obtained the narcotic potion from the apothecary, she discreetly pours some into the flask of wine that her father and the notary take along for their wait.
 
 At some point, Abelard announces that he needs to think alone, and that he is going to bathe at the **hot spring** near the forest - let no one follow him!
 
 This gives the innkeeper's daughter, Rose, the idea of joining him there; but Josephine sees the manoeuvre coming, and warns the innkeeper so that he keeps an eye on his daughter, and on the other damsels of the village.
 
-The burgomaster and the notary go as agreed to the **old stable** to wait for Josephine.
+The burgomaster and the notary go as agreed to the **old stable** to wait for Josephine. This rendezvous is a trap: hidden, armed, and without an alibi, they will make two perfect culprits for the attack she is preparing.
 
 But Josephine makes her way to the bathing witcher by roundabout paths. They have a "credible" conversation, in which Josephine says she wants to raise the subject of the forthcoming elections to the post of burgomaster, while Abelard claims not to want this meeting, because it may set tongues wagging.
 
@@ -277,7 +277,7 @@ Once the witcher has checked, thanks to the alarm automaton, that nobody - human
 
 Josephine then goes to hide the **bloodied jaw** in the burgomaster's office (the villagers have never seen this object, but the Ancestral Tortoise can recognise it); shortly afterwards, the witcher runs half-naked to the village, roaring that he has been attacked by two men who tried to slit his throat with a strange weapon. He gets himself taken to the inn, while villagers organise a sort of manhunt/search.
 
-The burgomaster and the notary hear the hubbub, but hesitate - or not - to come out of their hiding place.
+If they have drunk the narcotic, the burgomaster and the notary are found by the manhunt, dazed and armed, unable to explain themselves; otherwise, they hear the hubbub, but hesitate - or not - to come out of their hiding place.
 
 Depending on the actions taken by the sapients during this last night of turmoil, many conclusions are possible, with the death or conviction of certain notables, and the re-establishment - or not - of a blood pact between the village and the forest.
 

@@ -239,7 +239,7 @@ Si la tour n'a pas encore brûlé, Abélard impose d'abord de la fouiller, et ai
 
 Pendant ce temps, au village, dans sa boutique, **l'apothicaire** peut expliquer aux animaux ce qu'il connaît de l'histoire : les rochers tombés sur le village, et le parchemin de menace livré au bourgmestre - il paraît par un toucan à bec vert (seul le bourgmestre l'a vu). Il peut demander au bourgmestre ce parchemin, "pour les archives du village", si suggéré, car il est aussi **archiviste**.
 
-Joséphine arrive chez l'apothicaire, et sollicite une potion narcotique puissante, prétendument "parce que son père a des insomnies et a demandé à l'essayer". L'apothicaire hésite, mais finit par lui donner cela, si les animaux ne le convainquent pas autrement. 
+Joséphine arrive chez l'apothicaire, et sollicite une potion narcotique puissante, prétendument "parce que son père a des insomnies et a demandé à l'essayer". L'apothicaire hésite, mais finit par lui donner cela, si les animaux ne le convainquent pas autrement. En réalité, Joséphine compte droguer son père et le notaire (voir scène 5).
 
 Il demande en retour la clé du poste télégraphique (dont il est AUSSI responsable), clé qu'il avait accepté de confier au bourgmestre. Joséphine botte en touche, disant qu'ils la ramèneront bientôt, mais que cette affaire de l'alchimiste peut encore exiger des communications urgentes hors des minces heures d'ouverture du poste télégraphique (le reste du temps, il y a un **"répondeur"**) ; elle affirme qu'elle s'y rendait justement, à la demande d'Abélard, pour informer **l'Ordre des Sorceleurs** des derniers événements et éviter les quiproquos.
 
@@ -259,13 +259,13 @@ Si, à un moment, Abélard est mis devant le fait que l'écriture de la **fausse
 
 En fonction des différentes informations que peut rapporter l'apothicaire, le premier niveau de **conspiration** est, ou non, exposé ; si c'est le cas, aussi bien Joséphine qu'Abélard prennent *officiellement* leurs distances envers le bourgmestre, sans non plus l'accuser. Joséphine peut mettre en évidence que le **toucan** à bec vert appartiendrait en fait à l'Enchanteresse Dorina.
 
-Joséphine rassure son père - qui n'en mène quand même pas large - comme elle peut, et lui confirme que leur **rendez-vous** du soir tient toujours.
+Joséphine rassure son père - qui n'en mène quand même pas large - comme elle peut, et lui confirme que leur **rendez-vous** du soir tient toujours. Si elle a obtenu la potion narcotique de l'apothicaire, elle en verse discrètement dans la gourde de vin que son père et le notaire emportent pour leur attente.
 
 À un moment, Abélard annonce qu'il a besoin de réfléchir seul, et qu'il va se baigner à la **source thermale** près de la forêt - que personne ne le suive !
 
 Cela donne l'idée à la fille de l'aubergiste, Rose, de l'y rejoindre ; mais Joséphine voit venir la manœuvre, et prévient l'aubergiste pour qu'il surveille sa fille, et les autres donzelles du village.
 
-Le bourgmestre et le notaire se rendent comme convenu dans **l'ancienne écurie** pour attendre Joséphine.
+Le bourgmestre et le notaire se rendent comme convenu dans **l'ancienne écurie** pour attendre Joséphine. Ce rendez-vous est un piège : cachés, armés, et sans alibi, ils feront deux coupables parfaits pour l'agression qu'elle prépare.
 
 Mais Joséphine se rend auprès du sorceleur baigneur par des chemins détournés. Ils ont une conversation "crédible", où Joséphine dit vouloir évoquer le sujet des futures élections au poste de bourgmestre, tandis qu'Abélard affirme ne pas vouloir cette rencontre, car elle peut faire jaser.
 
@@ -277,7 +277,7 @@ Une fois que le sorceleur a vérifié, grâce à l'automate d'alarme, que person
 
 Joséphine va ensuite dissimuler la **mâchoire ensanglantée** dans le bureau du bourgmestre (les villageois n'ont jamais vu cet objet, mais la tortue ancestrale peut le reconnaître) ; peu après, le sorceleur court à moitié nu jusqu'au village, rugissant qu'il a été attaqué par deux hommes qui ont essayé de l'égorger avec une étrange arme. Il se fait amener à l'auberge, tandis que des villageois organisent une sorte de battue/perquisition.
 
-Le bourgmestre et le notaire entendent du brouhaha, mais hésitent - ou non - à sortir de leur cachette.
+S'ils ont bu le narcotique, le bourgmestre et le notaire sont découverts par la battue, hébétés et armés, incapables de s'expliquer ; sinon, ils entendent du brouhaha, mais hésitent - ou non - à sortir de leur cachette.
 
 En fonction des actions prises par les sapiens dans cette dernière nuit de chahut, de nombreuses conclusions sont possibles, avec la mort ou la condamnation de certains notables, et le rétablissement - ou non - d'un pacte de sang entre le village et la forêt.
 
