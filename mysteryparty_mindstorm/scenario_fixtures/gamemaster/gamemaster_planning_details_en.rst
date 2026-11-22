@@ -311,7 +311,7 @@ HOUR 3:00
 
 - RADIO SPOTS: "Attack on a thalassotherapy centre"
 
-- EMAILS: [if the Panorbium Fortuna has not been found yet, and a wave detector is available] "Beware of the booklet's radiation" (interceptable), [if Obsidian has gathered clues about the taverns infiltrated by the Akariths] "Preparation of a simultaneous assault"
+- EMAILS: [if the Panorbium Fortuna has not been found yet, and a radioactivity detector is available] "Beware of the booklet's radiation" (interceptable), [if Obsidian has gathered clues about the taverns infiltrated by the Akariths] "Preparation of a simultaneous assault"
 
 - If Khaal has been kidnapped, hold the interview with {% symbol "Count Blispin" for "lg_close_friend_lord_name" %} who asks for armed help near Alifir
 

@@ -311,7 +311,7 @@ HEURE 3:00
 
 - SPOTS RADIO : "Attaque d'une thalassothérapie"
 
-- MAILS : [si Panorbium Fortuna pas encore trouvé, et détecteur d'ondes disponible] "Attention aux radiations du livret" (interceptable), [si Obsidian a récolté des indices sur les tavernes infiltrées par les akarites] "Préparation d'assaut simultané"
+- MAILS : [si Panorbium Fortuna pas encore trouvé, et détecteur de radioactivité disponible] "Attention aux radiations du livret" (interceptable), [si Obsidian a récolté des indices sur les tavernes infiltrées par les akarites] "Préparation d'assaut simultané"
 
 - Si Khaal a été enlevé, faire l'entretien avec le {% symbol "Comte Blispin" for "lg_close_friend_lord_name" %} qui demande de l'aide armée près d'Alifir
 
