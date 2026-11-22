@@ -478,7 +478,7 @@ The corpse has a little of it, in the gold vial attached to its neck; but there 
 
 The wall fresco of the Holy of Holies gives the recipe for this potion, with pictograms of a **goat, a mushroom, a round fruit, and water**
 
-- the mushrooms are those that grow in the water of the crevices of the aquifer cavern (not those in the open air)
+- the mushroom and water pictograms together designate a single ingredient: the blue water mushrooms, which grow in the water of the south-western crevices of the aquifer cavern (and not the pinkish sedative mushrooms of the mounds)
 - the goat skull has filed-down horns; it is this powder that serves as an ingredient
 - the demijohn has a deposit of red plum liqueur at the bottom
 

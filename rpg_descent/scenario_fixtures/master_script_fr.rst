@@ -478,7 +478,7 @@ Le cadavre en a un petit peu, dans la fiole d'or attachée à son cou ; mais peu
 
 La fresque murale du Saint des Saints donne la recette de cette potion, avec des pictogrammes de **chèvre, champignon, fruit rond, et eau**
 
-- les champignons sont ceux qui poussent dans l'eau des crevasses de la caverne aquifère (non ceux à l'air libre)
+- les pictogrammes de champignon et d'eau désignent ensemble un seul ingrédient : les champignons aquatiques bleus, qui poussent dans l'eau des crevasses du sud-ouest de la caverne aquifère (et non les champignons rosés et somnifères des buttes)
 - le crâne de chèvre a ses cornes rabotées, c'est cette poudre qui sert d'ingrédient
 - la bonbonne a un dépôt de liqueur de prune rouge au fond
 
