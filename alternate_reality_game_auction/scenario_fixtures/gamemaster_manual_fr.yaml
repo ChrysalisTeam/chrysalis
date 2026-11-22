@@ -602,7 +602,7 @@ gamemaster_manual:
         Localisation GeoIP
         +++++++++++++++++++++++++
 
-        Le système GeoIP de l'Académie d'Alifir permet de localiser, avec une précision variable, les émetteurs des emails reçus par les joueurs (emails externes uniquement, pas ceux venant d'adresses internes à Anthropia). C'est précieux pour remonter aux contacts douteux : escrocs, maîtres-chanteurs anonymes...
+        Le service GeoIP de la société Digitalia (contact sur le portail : email-geolocation\@digitalia.pg) permet de localiser, avec une précision variable, les émetteurs des emails reçus par les joueurs (emails externes uniquement, pas ceux venant d'adresses internes à Anthropia). C'est précieux pour remonter aux contacts douteux : escrocs, maîtres-chanteurs anonymes...
 
         Mais dans de nombreux cas (en particulier, lors de tentatives pour localiser et agresser les autres joueurs), ce système ne va rien retourner de convaincant, au motif que des accès web trop publics, ou au contraire des passerelles spéciales, ont été utilisés.
 
@@ -630,7 +630,7 @@ gamemaster_manual:
         Scan mondial
         ++++++++++++++++++++++++
 
-        Ce système révolutionnaire, propre au Paladium, permet de scanner l'intégralité du globe (surface et profondeur), à la recherche d'objets ayant la même "empreinte technomagique" que ceux fournis. Cela n'a bien sûr d'intérêt que si les objets en question sont suffisamment originaux.
+        Ce système révolutionnaire, propre au Paladium, permet de scanner l'intégralité du globe (surface et profondeur), à la recherche d'objets ayant la même "empreinte technomagique" que ceux fournis (vis-à-vis des joueurs, le Paladium parle d'"empreinte manaïque" et de sciences "technomanaïques", et ne révèle pas l'emplacement de son centre de scan). Cela n'a bien sûr d'intérêt que si les objets en question sont suffisamment originaux.
 
         La précision de cet outil n'est pas chirurgicale (de quelques dizaines de mètres à quelques kilomètres près, selon la distance vis-à-vis du scanner), mais suffisante pour orienter les recherches vers d'anciens sanctuaires yodiques, ou bien la zone de la banque de Salima qui contient le trésor de Loyd Georges.
 
@@ -954,7 +954,7 @@ gamemaster_manual:
 
         Les joueurs recevront quelques emails absolument typiques du phishing (scam nigérian, fausse alerte bancaire, demande d'informations d'authentification Anthropia...), et ils devront alors penser à :
 
-        - localiser la provenance de ces emails via le système "GeoIP" de l'académie  ;
+        - localiser la provenance de ces emails via le service "GeoIP" de Digitalia ;
         - mener en bateau l'escroc, afin de soutirer des informations d'identification manquantes ;
         - dépêcher leurs mercenaires pour le coincer (ex. en appelant la police locale) ;
 
