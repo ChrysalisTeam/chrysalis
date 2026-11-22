@@ -14,7 +14,7 @@
 {% if standalone %}
 - you have hidden at this home, in a {% symbol "lead casket under a floorboard" for "cynthia_proofs_hiding_place" %}, compromising material on: the Dorian Duke's youthful blasphemies, the past theft committed by {{character_properties.opal.official_name}} against Loyd Georges, and the Lordanian-Sabarith drug trafficking covered up by the three Sabarith consuls  {% xfact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %} {% xfact "cynthia_has_proofs_about_opal_past_lg_theft" as author %} {% xfact "cynthia_has_proofs_about_consuls_drug_traffic" as author %}
 {% endif %}
-- your friend {% symbol "Sylwie Lescusa" for "cynthia_friend_name" %} warned you that your fiance had received a green satin box from the hands of a beautiful stranger, with whom he was chatting near the Alifir Academy; you have also spotted Alifir-Faeran rail tickets at his place {% xfact "waden_has_met_unknown_girl" %} {% xfact "waden_has_tickets_for_faeran" %}
+- your friend {% symbol "Sylwie Lescusa" for "cynthia_friend_name" %} warned you that your partner had received a green satin box from the hands of a beautiful stranger, with whom he was chatting near the Alifir Academy; you have also spotted Alifir-Faeran rail tickets at his place {% xfact "waden_has_met_unknown_girl" %} {% xfact "waden_has_tickets_for_faeran" %}
 - the day before the evening, you worked until late at the newspaper {% xfact "cynthia_alibi_is_strong" as author %}
 
 

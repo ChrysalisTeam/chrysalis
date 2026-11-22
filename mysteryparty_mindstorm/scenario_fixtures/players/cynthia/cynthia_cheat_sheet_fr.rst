@@ -14,7 +14,7 @@
 {% if standalone %}
 - vous avez caché à ce logis, dans une {% symbol "cassette en plomb sous une latte de plancher" for "cynthia_proofs_hiding_place" %}, des éléments compromettants sur : les blasphèmes de jeunesse du duc dorien, le larcin passé de {{character_properties.opal.official_name}} envers Loyd Georges, et le trafic de drogue lordano-sabarite couvert par les trois consuls sabarites  {% xfact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %} {% xfact "cynthia_has_proofs_about_opal_past_lg_theft" as author %} {% xfact "cynthia_has_proofs_about_consuls_drug_traffic" as author %}
 {% endif %}
-- votre amie {% symbol "Sylwie Lescusa" for "cynthia_friend_name" %} vous a prévenue que votre fiancé avait reçu une boîte de satin vert des mains d'une belle inconnue, avec qui il discutait près de l'Académie d'Alifir ; vous avez par ailleurs aperçu des billets de rail Alifir-Faeran chez lui {% xfact "waden_has_met_unknown_girl" %} {% xfact "waden_has_tickets_for_faeran" %}
+- votre amie {% symbol "Sylwie Lescusa" for "cynthia_friend_name" %} vous a prévenue que votre compagnon avait reçu une boîte de satin vert des mains d'une belle inconnue, avec qui il discutait près de l'Académie d'Alifir ; vous avez par ailleurs aperçu des billets de rail Alifir-Faeran chez lui {% xfact "waden_has_met_unknown_girl" %} {% xfact "waden_has_tickets_for_faeran" %}
 - la veille de la soirée, vous travaillez jusqu'à tard au journal {% xfact "cynthia_alibi_is_strong" as author %}
 
 
