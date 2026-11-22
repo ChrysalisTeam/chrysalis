@@ -4199,7 +4199,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - gold vial
      - Contains Berserk Elixir.
    * - flambeau / torches en bois / lampe frontale / spot lumineux
-     - torch (flame) / wooden torches / headlamp / spotlight
+     - flaming torch / wooden torches / headlamp / spotlight
      - Light sources.
    * - fresque murale
      - wall fresco
