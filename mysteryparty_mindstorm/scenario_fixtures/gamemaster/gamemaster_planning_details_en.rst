@@ -125,6 +125,8 @@ HOUR 0:15
 
 - the butler invites the players to start the aperitifs, and to talk among themselves
 
+- Rydji gives Opal the letter from {% symbol "Rodok" for "lg_adventurer_friend_name" %}, which Loyd Georges had set aside for him "just in case" (basic recipe of the Berserk Elixir)
+
 - RADIO SPOTS: "Miscellaneous commercial announcements 1", "International briefs (Nalavut, Midolia and Sabarim)", "Attack on a Salima public figure"
 
 - Alphonse calls for a tribute to Loyd Georges through musical or poetic works, by the end of the hour, and promises "all his gratitude" to whoever best rises to the challenge.

@@ -34,6 +34,8 @@ The Tabellion is, in your eyes, an upstart, but a guarantor of a certain respect
 
 When the Akarith Ambassador turns up at the manor, you do not hide your indignation, like the whole household.
 
+At the start of the evening, give {{character_properties.opal.official_name}} the **letter from {% symbol "Rodok" for "lg_adventurer_friend_name" %}**, which Loyd Georges had set aside for him "just in case" (you have not read it). {% xitem "letter_from_rodok_forwarded_to_opal" is needed %}
+
 You know that an **antique landline telephone** still exists in the manor, but if it still works, only old Alphonse knows how to use it. {% xfact "manor_has_wireline_phone_through_alphonse" %}
 
 Speaking of Alphonse... you are very fond of your dear senior colleague, but you do not hesitate to scold him when he piles up blunders, or launches into initiatives completely out of step with what matters.

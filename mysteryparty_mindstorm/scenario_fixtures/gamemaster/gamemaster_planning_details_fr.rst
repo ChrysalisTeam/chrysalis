@@ -125,6 +125,8 @@ HEURE 0:15
 
 - le majordome invite les joueurs à commencer les apéritifs, et à discuter entre eux
 
+- Rydji remet à Opal la lettre de {% symbol "Rodok" for "lg_adventurer_friend_name" %}, que Loyd Georges avait mise de côté pour lui "au cas où" (recette de base de l'Élixir Berserk)
+
 - SPOTS RADIO : "Annonces commerciales diverses 1", "Brèves Internationales (Nalavut, Midolie et Sabarim)", "Agression d'une personnalité de Salima"
 
 - Alphonse appelle à rendre hommage à Loyd Georges par des oeuvres musicales ou poétiques, d'ici la fin de l'heure, et assure "de toute sa gratitude" celui qui se prêtera le mieux à l'exercice.

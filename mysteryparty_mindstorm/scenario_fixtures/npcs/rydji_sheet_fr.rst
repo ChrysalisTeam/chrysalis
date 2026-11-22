@@ -34,6 +34,8 @@ Le tabellion est pour vous un parvenu, mais garant d'un certain respect de la lo
 
 Lorsque l'ambassadeur akarite débarque dans le manoir, vous ne cachez pas votre indignation, comme toute la maisonnée.
 
+Au début de la soirée, remettez à {{character_properties.opal.official_name}} la **lettre de {% symbol "Rodok" for "lg_adventurer_friend_name" %}**, que Loyd Georges avait mise de côté pour lui "au cas où" (vous ne l'avez pas lue). {% xitem "letter_from_rodok_forwarded_to_opal" is needed %}
+
 Vous savez qu'un **antique téléphone filaire** existe encore dans le manoir, mais s'il marche encore, seul le vieil Alphonse sait s'en servir. {% xfact "manor_has_wireline_phone_through_alphonse" %}
 
 En parlant d'Alphonse... vous aimez beaucoup votre cher doyen de collègue, mais vous n'hésitez pas à le houspiller lorsqu'il accumule les gaffes, ou se lance dans des initiatives complètement à contretemps de ce qui est important.
