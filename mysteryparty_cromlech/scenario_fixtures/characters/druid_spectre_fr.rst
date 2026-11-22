@@ -10,25 +10,25 @@ Vous êtes {% symbol "Olloudios" for "nom_du_spectre" %}. Vous faisiez partie de
 
 Puis vous êtes volontairement devenu un fantôme, afin de veiller sur cette gestation. Vous conseillez, de génération en génération, la dynastie chargée de protéger les artefacts antiques qui renferment l'entité divine.
 
-Mais cette gestation a été chaotique, irrégulière, au long de siècles ; et aujourd'hui les artefacts sont mis en danger à cause de la curiosité de ce maudit **Andréa di Revel**.
+Mais cette gestation a été chaotique, irrégulière, au long des siècles ; et aujourd'hui les artefacts sont mis en danger à cause de la curiosité de ce maudit **{% symbol "Andrea di Revel" for "nom_du_héros" %}**.
 
 Vos actions au long de l'enquête
 ====================================
 
-Vous avez aidé le Conservateur à agir au mieux suite à sa bavure envers Andréa *(voir sa feuille de personnage)*.
+Vous avez aidé le Conservateur à agir au mieux suite à sa bavure envers Andrea *(voir sa feuille de personnage)*.
 
-Vous vous êtes absenté pour vous ressourcer dans vos "limbes" spirituelles, mais à votre retour le corps d'Andréa avait disparu… tout comme le glaive. {% xfact "le glaive antique a disparu le jour j" %}
+Vous vous êtes absenté pour vous ressourcer dans vos "limbes" spirituelles, mais à votre retour le corps d'Andrea avait disparu… tout comme le glaive. {% xfact "le glaive antique a disparu le jour j" %}
 
-Depuis, vous les cherchez un peu partout, craignant qu'ils ne soit passés dans le **domaine inter-monde** où l'entité se développe ; mais ce domaine est vaste, et Andréa sait déjouer votre flair.
+Depuis, vous les cherchez un peu partout, craignant qu'ils ne soient passés dans le **domaine inter-monde** où l'entité se développe ; mais ce domaine est vaste, et Andrea sait déjouer votre flair.
 
 Dans le monde réel, des détectives privés sont arrivés sur les lieux ; mais à votre grand étonnement, vous allez découvrir qu'eux aussi vous voient, et vous entendent (mais dans votre langue d'origine, pour des exemples de sonorité voir la vidéo https://www.youtube.com/watch?v=Wc22W3bos64).
 
 Vous pouvez seulement vous faire comprendre (en français) des **psykers**, ceux des détectives qui ont des pouvoirs mentaux supplémentaires ; il faut pour cela vous isoler un peu à part, avec eux, pour établir le lien mental et pouvoir leur parler.
 
-Votre objectif est de monter les joueurs contre Andréa et ses alliés, en mentant habilement :
+Votre objectif est de monter les joueurs contre Andrea et ses alliés, en mentant habilement :
 
-- Initialement, vous pouvez faire croire que ces artefacts sont très précieux, ils sont les derniers vestiges de votre civilisation, et vous voulez qu'ils restent dans la digne famille Guesclin. Vous prétendez qu'Andréa en a après ces artefacts pour des motifs crapuleux.
-- Plus tard, vous pouvez avouer qu'il y a bien une entité en gestation, mais que c'est une divinité bénéfique ; l'âme du peuple celte, qui permettra à la Bretagne de retrouver sa gloire d'antan. Dans ce cas, vous dites craindre qu'Andréa ne veuille s'approprier les pouvoirs de cette divinité.
+- Initialement, vous pouvez faire croire que ces artefacts sont très précieux, ils sont les derniers vestiges de votre civilisation, et vous voulez qu'ils restent dans la digne famille du Guesclin. Vous prétendez qu'Andrea en a après ces artefacts pour des motifs crapuleux.
+- Plus tard, vous pouvez avouer qu'il y a bien une entité en gestation, mais que c'est une divinité bénéfique ; l'âme du peuple celte, qui permettra à la Bretagne de retrouver sa gloire d'antan. Dans ce cas, vous dites craindre qu'Andrea ne veuille s'approprier les pouvoirs de cette divinité.
 
 Vos interventions au fil des entretiens
 =========================================
@@ -44,7 +44,7 @@ Les détectives interrogent les témoins en quatre entretiens simultanés (un gr
 Votre rôle dans le dénouement
 ================================
 
-Après la 4e et dernière rotation d'interrogatoire, vous rassemblez les psykers dans un coin, et vous leur annoncez hors-jeu qu'ils sont désormais sous votre contrôle ; ils devront donc se comporter comme des zombies, et suivre vos ordres durant la scène finalement. Vous pouvez leur faire des tatouages-éclair sur le visage et le bras pour expliciter cette malédiction. {% xfact "le druide envoûte les psykers à la fin du jeu" as author %}
+Après la 4e et dernière rotation d'interrogatoire, vous rassemblez les psykers dans un coin, et vous leur annoncez hors-jeu qu'ils sont désormais sous votre contrôle ; ils devront donc se comporter comme des zombies, et suivre vos ordres durant la scène finale. Vous pouvez leur faire des tatouages-éclair sur le visage et le bras pour expliciter cette malédiction. {% xfact "le druide envoûte les psykers à la fin du jeu" as author %}
 
 Quand les joueurs sont rappelés auprès du Trésor pour la scène finale, vous renvoyez discrètement les psykers zombies auprès de leurs groupes. La bande son finale est lancée ; environ 30 secondes après son début, le Reporter, suivi par le Guide, appelle les joueurs à le rejoindre à gauche du cromlech. Une douzaine de secondes plus tard, quand la bobine Tesla du cromlech reprend le "Dies Irae", c'est votre tour : vous haranguez tous les joueurs (en langue celte puis en français approximatif, avec de grands gestes) pour qu'ils vous rejoignent à **droite** du cromlech, et fassent avec vous le **"signe des druides"** face aux artefacts : réaliser une forme de menhir, avec les bras et les mains, devant soi. Le Conservateur vous suit, et les psykers zombies obéissent à vos ordres.
 

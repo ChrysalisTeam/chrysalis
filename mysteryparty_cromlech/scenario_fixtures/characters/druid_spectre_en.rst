@@ -10,7 +10,7 @@ You are {% symbol "Olloudios" for "spectre_name" %}. You were one of the druids 
 
 Then you voluntarily became a ghost, in order to watch over this gestation. From generation to generation, you advise the dynasty charged with protecting the ancient artefacts that hold the divine entity.
 
-But this gestation has been chaotic and irregular over the centuries; and today the artefacts are being endangered by the curiosity of that accursed **Andrea di Revel**.
+But this gestation has been chaotic and irregular over the centuries; and today the artefacts are being endangered by the curiosity of that accursed **{% symbol "Andrea di Revel" for "hero_name" %}**.
 
 Your actions during the investigation
 =====================================
@@ -27,7 +27,7 @@ You can only make yourself understood (in the players' own language) by the **ps
 
 Your goal is to turn the players against Andrea and his allies, by lying skilfully:
 
-- Initially, you can make them believe that these artefacts are very precious, that they are the last remnants of your civilisation, and that you want them to stay with the worthy Guesclin family. You claim that Andrea is after these artefacts for villainous motives.
+- Initially, you can make them believe that these artefacts are very precious, that they are the last remnants of your civilisation, and that you want them to stay with the worthy du Guesclin family. You claim that Andrea is after these artefacts for villainous motives.
 - Later, you can admit that there is indeed an entity gestating, but that it is a benevolent deity; the soul of the Celtic people, which will allow Brittany to regain its former glory. In that case, you say you fear that Andrea wants to appropriate the powers of this deity.
 
 Your interventions over the interviews

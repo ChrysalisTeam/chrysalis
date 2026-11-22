@@ -20,7 +20,7 @@ Synopsis
 
 Le Cromlech est un bâtiment inclassable, mi-bibliothèque mi-musée, qui est devenu le repaire des étudiants du quartier.
 
-Mais la police y débarque en force un beau matin : un habitué des lieux a disparu, en même tempe que le glaive du Trésor antique.
+Mais la police y débarque en force un beau matin : un habitué des lieux a disparu, en même temps que le glaive du Trésor antique.
 
 Il va falloir mener l'enquête, et vite, car l'affaire risque de rapidement devenir hors de contrôle...
 
@@ -28,13 +28,13 @@ Il va falloir mener l'enquête, et vite, car l'affaire risque de rapidement deve
 Histoire complète (SPOILERS)
 ===================================
 
-*Ce jeu reprend l'ambiance (mais pas le lore) de Lovecraft et du Mythe de Cthulhu. L'action des joueurs se déroule dans bibliothèque à première vue banale, mais qui renferme des artefacts maudits issus de l'ère pré-gallo-romaine.*
+*Ce jeu reprend l'ambiance (mais pas le lore) de Lovecraft et du Mythe de Cthulhu. L'action des joueurs se déroule dans une bibliothèque à première vue banale, mais qui renferme des artefacts maudits issus de l'ère pré-gallo-romaine.*
 
 Dans l'antiquité, suite à la défaite d'Alésia (52 av. J.-C), les Gaulois ont été conquis par Jules César. Mais pas tous. Des tribus rebelles ont continué le combat, et se sont réfugiées dans l'oppidum d'Uxellodunum (dans les massifs du Quercy). Privés d'eau par le siège des Romains, ils ont fini par se rendre à leur tour.
 
 Mais quelques druides, venus d'Armorique, ont mis en place une ultime vengeance. Réfugiés avec des fuyards dans une grotte, ils ont invoqué par de sombres maléfices leur dieu tutélaire, {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %} ; avec pour objectifs de faire naître un guerrier mythique, qui renverserait le cours des choses et leur apporterait la victoire.
 
-Cependant, la gestation de cette entité s'est avérée plus longue et complexe que prévue. Les ablutions et rituels - nécessaires au bon déroulement de l'opération - ont été maintes fois interrompus au long de l'Histoire.
+Cependant, la gestation de cette entité s'est avérée plus longue et complexe que prévu. Les ablutions et rituels - nécessaires au bon déroulement de l'opération - ont été maintes fois interrompus au long de l'Histoire.
 
 Si bien qu'au tout début du 20e siècle, cette créature légendaire ne s'est toujours pas incarnée. Les artefacts portant l'envoûtement (grimoire, glaive, maquette de cromlech…) sont désormais "cachés en plein jour", dans une insolite bibliothèque-musée servant surtout d'espace de travail aux étudiants du coin. Afin d'éviter les ennuis juridiques, le gérant des lieux, le "Conservateur", fait passer ces pièces de musée pour de simples répliques.
 
@@ -82,11 +82,11 @@ Le/la conservateur.trice du Cromlech
 Le/la guide et bibliothécaire du Cromlech
     Jovial, serviable, touche-à-tout, plein d'imagination, assez cultivé et éloquent, un peu distrait et retardataire, mais relativement rigoureux dans le rangement des livres.
 
-Le/la reporter, étudiant.e en journaliste
+Le/la reporter, étudiant.e en journalisme
     Entreprenant, déterminé, perspicace, rationnel, dévoué envers les enquêteurs.
 
 Le/la druide qui hante le Cromlech
-    Silencieux, mystérieux, hautain ; se dévoile soudain à un joueur (psyker) en montrant de grand yeux fous et en haletant des phrases extravagantes, angoissantes ou incompréhensibles.
+    Silencieux, mystérieux, hautain ; se dévoile soudain à un joueur (psyker) en montrant de grands yeux fous et en haletant des phrases extravagantes, angoissantes ou incompréhensibles.
 
 L'inspecteur.trice de police
     Il supervise les opérations. À la façon de "Sherlock Holmes", il intervient ponctuellement pour partager aux joueurs quelques géniales observations et intuitions. Ce rôle est tenu par le MJ lui-même (il n'a donc pas de fiche de personnage) : ses répliques et interventions sont toutes dans la fiche "Déroulement du jeu", et c'est lui qui remet les documents aux joueurs.
@@ -109,7 +109,7 @@ Le professeur Gustave Bloch, **expert en archéologie**, peut être présent sur
 
 En réalité :
 
-- La maquette de Cromlech est le centre névralgique de la malédiction ; il contient un autel diffusant des éclairs, et un portail magique menant au monde parallèle dan lequel l'entité divine se développe. Les symboles des 6 divinités gauloises bénéfiques du papier de mythologie (toutes sauf {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}) sont gravés, comme six runes, sur le cercle de pierres : ils ne les invoquent pas, ils les repoussent (voir la lettre médiévale du cryptex), alors que la tablette de défixion porte le sigle de {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}. {% xitem "maquette de Cromlech et de portail magique" is needed %}
+- La maquette de Cromlech est le centre névralgique de la malédiction ; elle contient un autel diffusant des éclairs, et un portail magique menant au monde parallèle dans lequel l'entité divine se développe. Les symboles des 6 divinités gauloises bénéfiques du papier de mythologie (toutes sauf {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}) sont gravés, comme six runes, sur le cercle de pierres : ils ne les invoquent pas, ils les repoussent (voir la lettre médiévale du cryptex), alors que la tablette de défixion porte le sigle de {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}. {% xitem "maquette de Cromlech et de portail magique" is needed %}
 - L'armure, le casque et le bouclier romain sont des offrandes en soutien à l'invocation des druides. Le glaive, lui, a été emporté par le Héros dans le monde parallèle. Le casque peut contenir un crâne (normal puis ensorcelé ?), si le public est assez mature. {% xitem "armure, casque et bouclier romains" is needed %} {% xitem "crâne électronique et/ou normal, en option, pour mettre dans le casque romain" is needed %}
 - Le grimoire est factice : ce n'est pas un vrai livre, mais un bloc de bois sculpté qui ne s'ouvre pas, et sans cavité. Il porte l'envoûtement comme les autres artefacts, mais il est là principalement pour l'ambiance ; en milieu de partie, il se met à vibrer, puis un indice supplémentaire apparaît par magie sous sa couverture de bois (voir le Déroulement du jeu). {% xitem "grimoire scellé à couverture de bois" is needed %}
 - Le {% xitem "papier avec les symboles de la mythologie gauloise" is needed %}papier sur les symboles de la mythologie gauloise (document game_clues) est posé près de la maquette dès le début du jeu, et le professeur Gustave Bloch en remet un exemplaire à chaque groupe lors de l'interlude : il permet d'identifier les six runes du cercle de pierres et le sigle de la tablette de défixion, ce qui est indispensable pour exploiter la lettre médiévale du cryptex, et donc pour le choix final.

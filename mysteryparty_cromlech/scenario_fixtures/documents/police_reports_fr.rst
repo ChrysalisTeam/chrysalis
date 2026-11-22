@@ -45,7 +45,7 @@ Suspect #3 : {% symbol "Ryan Parker" for "nom_du_reporter" %}
 - Nationalité : Anglaise
 - Année de naissance : 1881
 - Adresse : Résidence Jehan Louzack, Lyon
-- Profession : Etudiant en journalisme à la Faculté
+- Profession : Étudiant en journalisme à la Faculté
 - Groupe sanguin : A-
 - Particularités : aucune
 
@@ -83,7 +83,7 @@ Mais son numéro de série est apparu dans une demande de duplication effectuée
 
 Un de nos indics a lâché une piste : un glaive très ancien a été laissé, le temps d’une nuit, à un faussaire de banlieue, afin qu’il en effectue une rapide analyse et datation. Cela s’est passé il y a 27 jours. Le demandeur avait une corpulence semblable à celle de {% symbol "Ryan Parker" for "nom_du_reporter" %}. Nous faisons pression pour obtenir une copie des résultats de cette étude nocturne.
 
-Le Conservateur a bien été vu ce matin vers 10h30 par les journalistes du Gramophone Lettré, en train de discuter avec le Bourgmestre, lors du cocktail suivant la cérémonie de remise des prix littéraires Maurice Genevoix. La cérémonie elle-même, débutée à 9h, a rapidement été marquée par un esclandre : l'auteur Eloi de Frontignan, furieux d'avoir perdu le concours romanesque, a tenté d'arracher la gerbe de fleurs des mains de la lauréate Lilie Dupain. Mais la suite des festivitée s'est déroulée sans encombre.
+Le Conservateur a bien été vu ce matin vers 10h30 par les journalistes du Gramophone Lettré, en train de discuter avec le Bourgmestre, lors du cocktail suivant la cérémonie de remise des prix littéraires Maurice Genevoix. La cérémonie elle-même, débutée à 9h, a rapidement été marquée par un esclandre : l'auteur Eloi de Frontignan, furieux d'avoir perdu le concours romanesque, a tenté d'arracher la gerbe de fleurs des mains de la lauréate Lilie Dupain. Mais la suite des festivités s'est déroulée sans encombre.
 
 Nous avons trouvé un papier caché dans la doublure du portefeuille de {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}. Il y est griffonné : *"indice : année de naissance renversée"*.
 

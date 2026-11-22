@@ -9,7 +9,7 @@ Le musée-bibliothèque appelé “Cromlech” est un lieu méconnu, mais intér
 
 À la mort du vénérable {% symbol "Philippe du Guesclin" for "pere_du_conservateur" %}, il y a {% symbol "15 mois" for "délai_mort_père_du_conservateur" %}, son fils unique, {% symbol "Camille du Guesclin" for "nom_du_conservateur" %}, s'est empressé de vider la cave du château familial.
 
-Il y a récolté assez de vieux livres et d'antiquités de diverses époques pour créer une sorte de grand "cabinet de curiosités", auquel il s'est consacré corps et âmes - en délaissant pour ce faire une prometteuse carrière d’avocat.
+Il y a récolté assez de vieux livres et d'antiquités de diverses époques pour créer une sorte de grand "cabinet de curiosités", auquel il s'est consacré corps et âme - en délaissant pour ce faire une prometteuse carrière d’avocat.
 
 D'abord petit musée, bientôt remanié en bibliothèque et lieu d'étude pour éviter la faillite, cet endroit inhabituel est devenu un havre de paix pour qui souhaite travailler dans une atmosphère emplie de références au passé.
 

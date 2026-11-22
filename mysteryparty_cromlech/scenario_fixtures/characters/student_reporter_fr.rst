@@ -8,7 +8,7 @@ Vous êtes **{% symbol "Ryan Parker" for "nom_du_reporter" %}, un(e) étudiant(e
 
 Vous êtes immédiatement devenu adepte de la **bibliothèque-musée appelée Cromlech**, pour vos travaux de recherche documentaire et d'écriture. Un lieu à l'ambiance accueillante et studieuse, notamment grâce aux bons soins du guide et bibliothécaire, **{% symbol "Eden Schmitt" for "nom_du_guide" %}**.
 
-Là, vous vous êtes lié d'amitié avec un autre étudiant, **Andrea, arrivé il y a {% symbol "trois mois" for "délai_arrivee_du_héros" %}**. Officiellement, il était ici pour préparer sa soutenance de thèse en Histoire gallo-romaine. Mais il vous a rapidement avoué qu'il avait en réalité interrompu ses études de droit international pour investiguer une antique énigme historique, concernant les derniers rebelles gaulois cernés par les armées conquérantes de Jules César. Ce choix de sa part avait d'ailleurs déclenché une persistante fureur chez son mère, **diplomate italienne** auprès de la France.
+Là, vous vous êtes lié d'amitié avec un autre étudiant, **Andrea, arrivé il y a {% symbol "trois mois" for "délai_arrivee_du_héros" %}**. Officiellement, il était ici pour préparer sa soutenance de thèse en Histoire gallo-romaine. Mais il vous a rapidement avoué qu'il avait en réalité interrompu ses études de droit international pour investiguer une antique énigme historique, concernant les derniers rebelles gaulois cernés par les armées conquérantes de Jules César. Ce choix de sa part avait d'ailleurs déclenché une persistante fureur chez sa mère, **diplomate italienne** auprès de la France.
 
 Vous vous êtes pris au jeu, et avez suivi, conseillé, aidé Andrea tandis qu'il enquêtait sur les origines et les artefacts du Cromlech. Il vous a appris un **langage codé simple** pour que vous puissiez vous transmettre des messages via la bibliothèque, au besoin. Il vous a aussi montré le **"signe des centurions", les bras croisés sur la poitrine**, en assurant que cela pourrait vous servir le moment venu (voir plus bas). {% xfact "le héros et le reporter ont un langage codé commun" %} {% xfact "le reporter connait le signe des centurions" as author %}
 
@@ -33,7 +33,7 @@ Ce que vous savez sur le Conservateur
 **{% symbol "Camille du Guesclin" for "nom_du_conservateur" %}** s'est démené pour mettre en place le Cromlech, et cela, vous lui en êtes reconnaissant.
 Mais depuis un mois, il semble bien plus intéressé par la reprise de sa carrière d'avocat que par le Cromlech, d'après des bribes de conversation entendues. En journée, on le voit de moins en moins. Et en matière de connaissances historiques, il est proche du niveau zéro.
 
-Il vous a avoué facilement que "Conservateur" n'était qu'un surnom, et qu'il n'avait pas de diplômes en ce sens ; c'est déjà çà. Mais il persiste à prétendre que les artefacts exposés sont de simples répliques, alors que tout laisse à penser le contraire. C'est incompréhensible.
+Il vous a avoué facilement que "Conservateur" n'était qu'un surnom, et qu'il n'avait pas de diplômes en ce sens ; c'est déjà ça. Mais il persiste à prétendre que les artefacts exposés sont de simples répliques, alors que tout laisse à penser le contraire. C'est incompréhensible.
 
 Ce que vous savez sur le Guide
 ==================================

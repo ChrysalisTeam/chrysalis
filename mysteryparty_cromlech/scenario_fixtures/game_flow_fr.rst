@@ -44,7 +44,7 @@ Accueil par l'inspecteur de police
 - "Je suis honoré d'accueillir votre agence de **détectives du paranormal**, dont les mérites ne sont plus à démontrer."
 - "Cette affaire est nébuleuse, pour l'instant nous avons eu bruit de la **disparition d'un étudiant, Andrea, et d'une pièce de musée, un glaive antique**, mais nous n'en savons pas plus."
 - "Nous allons donc vous laisser **interroger** à tour de rôle les témoins de cette affaire, et inspecter le trésor du musée."
-- "Notez que nous avons déjà un phbnomène étrange, les **éclairages dysfonctionnent** depuis ce matin aux alentours du trésor.
+- "Notez que nous avons déjà un phénomène étrange, les **éclairages dysfonctionnent** depuis ce matin aux alentours du trésor."
 - "Je me tiens à votre disposition, entre chaque interrogatoire, si vous avez besoin de faire **vérifier des faits** par mes forces de police."
 - "Nous vous fournirons aussi des **informations policières**, au fur et à mesure, sur nos propres investigations."
 - "Voici un **article de journal** sur cette étrange institution qu'est le Cromlech de Lyon."
@@ -111,7 +111,7 @@ Intervention du druide : Il passe voir les groupes de joueurs actuellement avec 
 Deuxième complément d'enquête
 ----------------------------------
 
-- Rapport d'analyse obtenu par Andrea et le Reporter, attestant que le glaive était un vraie antiquité.
+- Rapport d'analyse obtenu par Andrea et le Reporter, attestant que le glaive était une vraie antiquité.
 - Découverte du matériel liturgique du Conservateur, et d'un indice sur le code du cryptex.
 - Découverte de la lettre d'adieux (factice) mise par erreur aux Objets Trouvés par le guide. {% xitem "enveloppe non timbrée avec message codé, contenant la fausse lettre d'adieux" is needed %}
 
@@ -149,7 +149,7 @@ Trésor : ouverture probable du cryptex, et étude de son contenu.
 Interventions de l'inspecteur de police (au premier tiers de l'entretien auprès du Conservateur, puis aux deux tiers auprès du Guide, car ils sont dans deux salles différentes) :
 
 - Vient challenger le conservateur sur le fait que la lettre a été écrite d'une main tremblante, donc peut-être "blessée".
-- Met en évidence la chevalière mystérieuse portée par le Guide (offerte par Andréa).
+- Met en évidence la chevalière mystérieuse portée par le Guide (offerte par Andrea).
 
 
 Troisième et dernier complément d'enquête
@@ -170,9 +170,9 @@ Tous les témoins commencent à **divaguer** à la moitié de l'entretien ! (L'�
 
 Guide : tente d'apporter ses connaissances historiques et mythologiques pour aider les joueurs.
 
-Reporter : lance l'alerte, "Andréa est en danger dans un autre monde, il faut l'aider".
+Reporter : lance l'alerte, "Andrea est en danger dans un autre monde, il faut l'aider".
 
-Conservateur : lance l'alerte, "il faut laisser les artefacts tranquilles et empêcher Andréa de les détourner à son propre profit !".
+Conservateur : lance l'alerte, "il faut laisser les artefacts tranquilles et empêcher Andrea de les détourner à son propre profit !".
 
 Trésor : découverte du message d'Andrea apparu sous la couverture du grimoire, et étude des artefacts et messages découverts.
 
@@ -201,7 +201,7 @@ Scène finale
 - Le druide pousse en parallèle les **psykers zombies** à retourner, plutôt discrètement, auprès de leurs groupes.
 - La bande son finale est lancée, le Cromlech se met à **crépiter** ponctuellement. {% xitem "bande son finale et enceinte" is needed %}
 - 30s après le début, la bobine Tesla du Cromlech se met aussi à faire le "Dies Irae" en musique ; le **Reporter**, suivi par le **Guide**, appelle alors les joueurs à le rejoindre à **gauche** du Cromlech, et à réaliser le "signe des centurions" avec lui pour aider Andrea (bras croisés sur la poitrine). **Slogan à répéter : "Par la Gloire de Jupiter".**
-- 12s plus tard, à la reprise du "Dies Irae" par la bobine Tesla, c'est au tour du **Druide** (en français approximatif désormais), suivi par le **Conservateur**, à exhorter les joueurs à le rejoindre à **droite** du Cromlech, et à réaliser le "signe des druides" avec lui (réaliser une forme de menhir avec les bras et les mains) pour sauver le dernier voeu des druides. Les psyckers zombies suivent ses ordres. **Slogan à répéter : "Par la Force de Toutatis".**
+- 12s plus tard, à la reprise du "Dies Irae" par la bobine Tesla, c'est au tour du **Druide** (en français approximatif désormais), suivi par le **Conservateur**, à exhorter les joueurs à le rejoindre à **droite** du Cromlech, et à réaliser le "signe des druides" avec lui (réaliser une forme de menhir avec les bras et les mains) pour sauver le dernier voeu des druides. Les psykers zombies suivent ses ordres. **Slogan à répéter : "Par la Force de Toutatis".**
 - Le Cromlech se calme mais la musique continue, les deux camps doivent continuer leurs slogans.
 - L'inspecteur exhorte les joueurs indécis à choisir leur camp, car **"rester impassible en de telles situations de danger est un crime"**.
 - À la fin de la musique, le MJ compte les joueurs de chaque camp (voir ci-dessous), puis fait discrètement signe à l'interprète d'Andrea, caché près de la salle du Trésor (pouce levé : victoire ; pouce baissé : défaite).
