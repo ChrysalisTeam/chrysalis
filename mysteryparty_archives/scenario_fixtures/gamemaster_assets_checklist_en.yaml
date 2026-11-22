@@ -159,7 +159,7 @@
     - "Decorations: 3 very old small leather-bound books, kaleidoscope tube, zinc mini coffee pot"
     - "Decoration: glass mini tankard, small brass jug"
     - "UV Black Light neon tube fixed inside the lid"
-    - "@ELECTRONIQUE Whispering Box fixed at the bottom of the brown chest, with the \"Blowtorch\" riddle via a black Auvisio clip MP3 player (battery) (TODO: record an English MP3 of the riddle, only the French recording exists) {% xitem 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (POSITIVE bewitchment) IMPORTANT"
+    - "@ELECTRONIQUE Whispering Box fixed at the bottom of the brown chest, with the \"Blowtorch\" riddle via a black Auvisio clip MP3 player (battery) (only a French recording exists in audio/Vocal enigmas/: before the game, record yourself reading aloud the English riddle of the \"Whispering Box Riddle\" clue page, maupertuis_whispering_box_enigma, from \"Dear Octave\" to its end, and load this MP3 on the player instead of the French one) {% xitem 'whispering_box_with_children_enigma_in_common_brown_chest' is provided %} (POSITIVE bewitchment) IMPORTANT"
 
 -
   - "@CIMETIERE Graveyard"
