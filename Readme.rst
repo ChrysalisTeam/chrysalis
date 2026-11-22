@@ -15,7 +15,7 @@ This repository contains the scenario and media files for the `Chrysalis Rolepla
 
 You may freely modify, use and share these assets under the `Creative Commons - Non Commercial <https://creativecommons.org/licenses/by-nc/3.0/fr/deed.en>`_ license. Their authors are listed in the `team page <https://chrysalis-game.com/cms/a-propos/equipe/>`_ of the Chrysalis Game website. For commercial use of media or text files, please contact us via this website. Python code files, on the other hand, are released under a permissive `MIT license <https://opensource.org/licenses/MIT>`_.
 
-Chrysalis texts were written in French; English translations are available for all games except Skeletons (see `Generation of PDF scenario files and other documents`_ below).
+Chrysalis texts were written in French; English translations are available for all games (see `Generation of PDF scenario files and other documents`_ below).
 
 Each game has its own root folder ("alternate_reality_game_auction/", "mysteryparty_archives/", "mysteryparty_cromlech/", "mysteryparty_mindstorm/", "rpg_descent/", "rpg_sentience/", "rpg_skeletons/"), which contains its media files, and its scenario sources in a "scenario_fixtures/" subfolder. "mysteryparty_common/" gathers the sources shared by mystery parties, and "common_assets/" the assets and tools shared by several games (PDF theme, fonts, translation glossary...).
 
