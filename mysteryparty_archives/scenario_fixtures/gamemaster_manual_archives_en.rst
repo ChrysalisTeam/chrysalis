@@ -945,7 +945,7 @@ The Maupertuis treasure (Mirandian secret agents)
 
 They have found a fragment of Meredice's diary, in which she describes in enigmatic language how, when a grimoire starts singing, thanks to changing symbols, something turns and riches appear. {% xitem "meredice_diary_about_treasure_for_spy_group" is needed %}
 
-An oracle triggered in the Forbidden Domain shows a paddle mill pouring riches into the river, surrounded by musical notes. {% xitem "parcival_oracle_vision_about_water_mill" is needed %}
+An oracle triggered near the portraits (authorised floor, feather on the stereogram frame) shows a paddle mill pouring riches into the river, surrounded by musical notes. {% xitem "parcival_oracle_vision_about_water_mill" is needed %}
 A stereogram on the wall also shows a coffee mill with a double hidden word of thanks. {% xitem "grinding_mill_stereogram_picture_with_magnetic_and_uv_code" is needed %}
 
 The players must understand that it is a **coffee mill** simply "hidden in plain sight", on the alchemist's workbench of the forbidden floor. {% xitem "grinding_mill_with_enchantment" is needed %}
