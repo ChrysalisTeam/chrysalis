@@ -30,6 +30,7 @@
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - vous avez la preuve que {{character_properties.spinel.full_official_title}} a espionné Loyd Georges et des scientifiques d'Alifir {% xfact 'spinel_wiretaps_lg_and_friends' %}
 - vous savez que {{character_properties.topaz.official_name}} a revendu certaines des gemmes acquises en enchères au marché noir {% xfact 'topaz_sells_gems_at_black_market' %}
+- en duo, pour approcher les artefacts de Loyd Georges, vous avez joué double jeu : vous avez dévoilé à la Dorie la couverture de l'agent masslave Marduk Pamuk, et donné à la Masslavie la localisation de la cache d'armes des doriens à Mastden {% xfact 'amethyst&garnet_unmask_masslavian_agent_in_dorian_dukedom' as author %} {% xfact 'amethyst&garnet_unmask_dorian_den_in_masslavia' as author %}
 {% endif %}
 
 

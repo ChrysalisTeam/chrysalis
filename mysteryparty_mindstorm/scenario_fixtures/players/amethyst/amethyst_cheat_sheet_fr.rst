@@ -31,6 +31,7 @@
 - vous faites équipe avec l'agent Garnet, qui a perdu récemment son collègue "Emerald" en Dorie (et a hérité de sa fausse identité) {% xfact 'garnet_lost_colleague_emerald' %}
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - vous avez démasqué les enchérisseurs doriens comme étant des agents secrets "Topaz" et "Peridot" travaillant pour la Dorie ; leurs "personnages officiels" sont respectivement "inexistant" et "toujours dans sa boutique" {% xfact 'topaz_official_is_non_existent' %} {% xfact 'peridot_official_is_still_in_shop' %}
+- en duo, pour approcher les artefacts de Loyd Georges, vous avez joué double jeu : vous avez dévoilé à la Dorie la couverture de l'agent masslave Marduk Pamuk, et donné à la Masslavie la localisation de la cache d'armes des doriens à Mastden {% xfact 'amethyst&garnet_unmask_masslavian_agent_in_dorian_dukedom' as author %} {% xfact 'amethyst&garnet_unmask_dorian_den_in_masslavia' as author %}
 {% endif %}
 
 - la veille :

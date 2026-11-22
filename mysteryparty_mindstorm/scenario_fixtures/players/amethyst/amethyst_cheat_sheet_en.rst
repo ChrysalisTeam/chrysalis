@@ -31,6 +31,7 @@
 - you are teamed up with agent Garnet, who recently lost his colleague "Emerald" in Doria (and inherited his fake identity) {% xfact 'garnet_lost_colleague_emerald' %}
 - you know that Loyd Georges has discovered one of the Divine Orbs and hidden it away {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - you have unmasked the Dorian bidders as being the secret agents "Topaz" and "Peridot" working for Doria; their "official characters" are respectively "non-existent" and "still in his shop" {% xfact 'topaz_official_is_non_existent' %} {% xfact 'peridot_official_is_still_in_shop' %}
+- as a duo, to get at Loyd Georges' artefacts, you played a double game: you revealed to Doria the cover of the Masslavian agent Marduk Pamuk, and gave Masslavia the location of the Dorians' weapons cache in Mastden {% xfact 'amethyst&garnet_unmask_masslavian_agent_in_dorian_dukedom' as author %} {% xfact 'amethyst&garnet_unmask_dorian_den_in_masslavia' as author %}
 {% endif %}
 
 - the day before:
