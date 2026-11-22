@@ -334,9 +334,10 @@ messaging:
           body: *lordanian_introduction
 
         - id: akarith_introduction
+          gamemaster_hints: "Optional role of infiltrated Akarith agent (see the GM manual): only add as recipient the character who is given this role."
           categories: ["player_instructions"]
           sender_email: archbishop-baazel@akaris.pg
-          recipient_emails: []  # FIXME ??
+          recipient_emails: []  # optional role, no recipient by default
           subject: "Akarith summary report - The Loyd Georges affair"
           body: *akarite_introduction
 
@@ -371,9 +372,10 @@ messaging:
           body: *lordanian_mission_orders
 
         - id: akarith_mission_orders
+          gamemaster_hints: "Optional role of infiltrated Akarith agent (see the GM manual): only add as recipient the character who is given this role."
           categories: ["player_instructions"]
           sender_email: archbishop-baazel@akaris.pg
-          recipient_emails: ["obsidian"]
+          recipient_emails: []  # optional role, no recipient by default
           subject: "Mission Letter - Akaris"
           body: *akarite_mission_orders
 

@@ -198,7 +198,7 @@ gamemaster_manual:
 
         If they wish, the GM can ask the players for a summary sheet of their *background*: main motivations, youth and career, possessions, particular knowledge and skills, relationships with their superiors and colleagues... a sheet to be moderated and corrected, of course. But this step is optional; some players prefer to flesh out their character (and reveal their past) over the course of their discussions and actions. In any case, make sure that everyone has enough "landmarks" to take their role in hand; and if the aim is to lead them down a specific path (e.g. betraying their side), that they have a context that lends itself to it (e.g. poor salary, bad working atmosphere, attraction to another life...).
 
-        Most players (non-NPCs) work at least in pairs. Some particularly "disruptive" roles (Inspector Shark, the wealthy Magnus...), who initially have no colleagues, can be given either to NPC actors or to players. But keep in mind that they are much harder to play, and that the risk of getting lost or demotivated is much greater when acting solo like this. These roles should only be given to experienced players who are aware of what is at stake.
+        Most players (non-NPCs) work at least in pairs. Some particularly "disruptive" roles (Inspector Shark, the wealthy Magnus, the Sabarith agent Obsidian...), who initially have no colleagues, can be given either to NPC actors or to players. But keep in mind that they are much harder to play, and that the risk of getting lost or demotivated is much greater when acting solo like this. These roles should only be given to experienced players who are aware of what is at stake.
 
 
         Getting started with the game
@@ -351,6 +351,16 @@ gamemaster_manual:
         With this in mind, should a military conflict in Midolia be encouraged, so that these states torpedo each other? Or does this risk, on the contrary, giving rise to a dangerously powerful Akarith empire? Hence the need for a thorough investigation in Midolia, and for an immediate intrusion into *the Loyd Georges affair*.
 
 
+        Sabarith police
+        ---------------------------------
+
+        **0-1 initial player** (the character with the username "Obsidian", officially a Sabarith deputy police officer). Sabarim, the country hosting the auctions, cares little about Midolian theological quarrels, but takes a very dim view of the "nest of vipers" of foreign spies swarming on its soil. Its police services therefore send their secret agent, under the code name "I7", to follow Loyd Georges' auctions (see her summary report and her mission letter, in the email templates).
+
+        Her goals: identify the participants of the auctions and their true motives, blackmail and then put behind bars those who break Sabarith law, understand what is going on around the orbs, and foil any plot targeting Sabarim (in particular Akarith interference on its territory). Unlike the foreign agents, she must act within the law: any "special" action (burglary, assault...) must first be approved by her superiors, who will refuse it if it is not solidly justified. In return, her position gives her access to official information (registers, interrogations, cooperation of the local police), which the GM will dispense sparingly.
+
+        When Inspector Shark comes on stage (see the `Summary timeline of the game`_), her superiors can assign Obsidian to him; he will mostly entrust her with investigating the backgrounds of the bidders, while forbidding her to "get under his feet" (this is the starting situation of Chrysalis:Mindstorm). Diplomatically, Sabarim remains neutral in the Midolian conflict, but Obsidian can sell her silence or her help to the other factions. This solitary role should be kept for an experienced player; failing that, make Obsidian an NPC.
+
+
         Recruiting super-factions
         ++++++++++++++++++++++++++++
 
@@ -368,12 +378,15 @@ gamemaster_manual:
 
         This is the darkest side of spirituality. Populist, fundamentalist, propagandist, these religious leaders have revived the oldest Akarith legends to turn their people against the rest of Pangea. No one knows whether they really believe in their theocratic prophecies, but by predestining them to take control of the planet, these prophecies undeniably flatter them.
 
-        The discovery of the Three Divine Orbs would be an unhoped-for pretext to trigger the long-awaited conflict. However, having failed to get their spies into Loyd Georges' auctions, the Judicators find themselves forced to court the other participants to obtain information - while suspecting that some buyers are already affiliated with their adversaries. They initially step in by passing themselves off as a simple "community of Akarith faithful", so as not to scare off their targets.
+        The discovery of the Three Divine Orbs would be an unhoped-for pretext to trigger the long-awaited conflict. However, having failed to get their spies into Loyd Georges' auctions (unless the GM uses the optional role of infiltrated agent described below), the Judicators find themselves forced to court the other participants to obtain information - while suspecting that some buyers are already affiliated with their adversaries. They initially step in by passing themselves off as a simple "community of Akarith faithful", so as not to scare off their targets.
 
         Pledging allegiance to this camp, and rising through its ranks, is relatively easy as long as one is not too fussy about ethics. On the other hand, it may earn one a certain hatred from the rest of Pangea, which is not completely negligible.
 
         Loyalty test:
             To make sure that a player is fit to fully join their "chosen race" - an extremely rare process in Akarith spirituality - the Judicators make them take a test in the form of a theological questionnaire. This test is proverbially difficult, and requires a good deal of encyclopedic research and luck to be filled in correctly. But in the unlikely event that they achieve a near-perfect score, the player will earn the title of "Pious", and the right to directly lead riots of the Akarith faithful, without going through the Judicators; otherwise, they will be invited to continue their study of the religion in order to get rid of their "heretical superstitions".
+
+        Infiltrated agent (optional role):
+            The portal contains an Akarith summary report and mission letter (email templates "akarith_introduction" and "akarith_mission_orders", sent by Archbishop Baazel to "Agent CORE"), which are addressed to no one by default. A GM who has an extra, experienced player can give them this role of Akarith mole: configure a surplus character for them, whose official identity is a wealthy Dorian landowner from the borders of Akaris, converted to the Yodic faith out of fear (as the mission letter says), then add this character to the recipients of these two templates before sending them. Their goals: inform the Judicators, sound out the Dorians and prepare their surrender, and recover the orbs for Akaris; they have access to the Judicators' abilities from the start, but must beware of the Dorian agents, who might know the real person. In this case, the Judicators do have a spy among the bidders, but a single and isolated one, which does not spare them from courting the other participants.
 
 
         The Paladium
@@ -1633,7 +1646,7 @@ gamemaster_manual:
             The "chiefs" here designate the hierarchical superiors of the players, whether those of the secret services (to which the players belong at the beginning of the game), or those of the super-factions which the players will potentially have joined.
 
 
-        - initial state: send the summary reports of the LG affair, from the chiefs of the secret services to their agents
+        - initial state: send the summary reports of the LG affair, from the chiefs of the secret services to their agents (including the Sabarith police one to Obsidian, and the Judicators' one to the infiltrated Akarith agent if this optional role is played)
 
         - **initial abilities: wiretapping, and hiring of mercenaries**
 

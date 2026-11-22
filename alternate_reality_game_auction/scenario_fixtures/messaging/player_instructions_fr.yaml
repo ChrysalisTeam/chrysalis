@@ -272,14 +272,14 @@ _TEMP_:
 
     sabarite_mission_orders: &sabarite_mission_orders
         -       |
-            Inspecteur I7,
+            Inspectrice I7,
 
-            vos décennies de bons et loyaux services vous ont désignés pour accomplir, l'une des plus difficiles
+            vos décennies de bons et loyaux services vous ont désignée pour accomplir l'une des plus difficiles
             missions auxquels les services spéciaux de police Sabarite aient jamais été confrontés.
 
             En menant des fouilles illégales en Midolie, Loyd Georges a en effet secoué le plus gros nid de frelons
             que l'on puisse imaginer, et il semblerait que nous en soyons la cible.
-            Vous suivrez donc les enchères en ligne de Loyd Georges, en vous faisant passer pour un innocent acheteur.
+            Vous suivrez donc les enchères en ligne de Loyd Georges, en vous faisant passer pour une innocente acheteuse.
 
             Vous prendrez officiellement l'identité de {{ titre_officiel }}.
             Le véritable personnage est également en voyage en Sabarim mais compte plutôt jouer de ses relations pour pouvoir admirer la collection privée de l'académie, que celle de cette vente aux enchères.
@@ -334,9 +334,10 @@ messaging:
           body: *lordanian_introduction
 
         - id: akarith_introduction
+          gamemaster_hints: "Rôle optionnel d'agent infiltré akarite (voir le manuel du MJ) : n'ajouter en destinataire que le personnage à qui ce rôle est confié."
           categories: ["player_instructions"]
           sender_email: archbishop-baazel@akaris.pg
-          recipient_emails: []  # FIXME ??
+          recipient_emails: []  # optional role, no recipient by default
           subject: "Rapport synthétique akarite - Affaire Loyd Georges"
           body: *akarite_introduction
 
@@ -371,9 +372,10 @@ messaging:
           body: *lordanian_mission_orders
 
         - id: akarith_mission_orders
+          gamemaster_hints: "Rôle optionnel d'agent infiltré akarite (voir le manuel du MJ) : n'ajouter en destinataire que le personnage à qui ce rôle est confié."
           categories: ["player_instructions"]
           sender_email: archbishop-baazel@akaris.pg
-          recipient_emails: ["obsidian"]
+          recipient_emails: []  # optional role, no recipient by default
           subject: "Lettre de Mission Akaris"
           body: *akarite_mission_orders
 
