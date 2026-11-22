@@ -43,7 +43,7 @@
     - "I3 - Thin HACHETTE book with the Recipe for the Flexifying Elixir, marked on the floor with white tape {% xitem 'recipe_flex_elixir' is provided %}"
     - "I4 - Thin HACHETTE book with the Recipe for the Clairvoyance Lotion, marked on the floor with white tape {% xitem 'recipe_clarity_lotion' is provided %}"
     - "I5 - Purple luxury book of Volume 3 of the Druid's novel, between the Zoology and Gastronomy sections (not marked on the floor) {% xitem 'chaos_novel_volume_three_between_zoology_and_cooking_shelves' is provided %}"
-    - "I6 - Thin HACHETTE book with the Recipe for the Pyrolitis Tincture (not marked on the floor, but with several Bluetooth beacons, 1 CR2032 battery included in each) {% xitem 'recipe_pyrolitis_tincture' is provided %}"
+    - "I6 - Thin HACHETTE book with the Recipe for the Pyrolitis Tincture (not marked on the floor, but with 2 Bluetooth beacons, 1 CR2032 battery included in each) {% xitem 'recipe_pyrolitis_tincture' is provided %}"
 
 
 # AUTHORISED FLOOR #
@@ -100,7 +100,7 @@
     - "@PAPIERS Letter from Octave's parents with instructions for his dubbing, in the child's suitcase {% xitem 'maupertuis_initiation_instructions_for_octave' is provided %} IMPORTANT"
     - "2 old beige/marbled books in the child's suitcase"
     - "2 old \"Gedeon\" comic books in the child's suitcase"
-    - "Red fake book (shows the CODE of the blue fake book through magnetism, contains the Maupertuis father's brooch and his notebook with one of the codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} of the legendary chest as an anamorphosis) {% xitem 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} IMPORTANT"
+    - "Red fake book (shows the CODE of the blue fake book through magnetism and UV, contains the Maupertuis father's brooch and his notebook with one of the codes {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} of the legendary chest as an anamorphosis) {% xitem 'quirinius_notebook_with_thanatologue_chest_code_as_anamorphosis_in_fake_book' is provided %} IMPORTANT"
     - "Brooch of the Maupertuis father for the red fake book (POSITIVE bewitchment) {% xitem 'maupertuis_father_jewel_in_twin_books' is provided %} IMPORTANT"
     - "Lunartec sound aquatic projector (USB/mains or 4xAA) with Jack3.5 for the child"
     - "@ELECTRONIQUE CHILD: blue waterproof AGPTEK Go2 Small mini MP3 player (battery / microUSB) with 8GB internal memory included"
@@ -146,7 +146,7 @@
     - "Red&gold wooden mini casket with a LEGENDARY NEGATIVE bewitchment mark {% xitem 'trap_in_family_briefcase' is provided %}"
     - "Grey fabric CLIVRA binder with old photographs"
     - "@ELECTRONIQUE Cicada-sound alarm mechanism for the red&gold wooden mini casket of the black administrative briefcase (needs 2xAAA)"
-    - "@ELECTRONIQUE Samsung Galaxy S2 smartphone with the android app \"Beacon Locator\" by Samebits (orange logo), and 4 Bluetooth beacons available {% xitem 'radio_frequency_scanner_app_in_chest' is provided %}"
+    - "@ELECTRONIQUE Samsung Galaxy S2 smartphone with the android app \"Beacon Locator\" by Samebits (orange logo), and 4 Bluetooth beacons available, including the 2 of the Pyrolitis Tincture recipe {% xitem 'radio_frequency_scanner_app_in_chest' is provided %}"
 
 -
   - "@COFFRE-MARRON Common brown wooden family chest of the Maupertuis"
@@ -497,7 +497,7 @@
     - "The 3 healing potion recipes of the authorised floor (Parcival quest) must be pointed to by white arrows on the floor {% xitem 'white_arrows_on_floor_towards_cure_recipes' is provided %}"
     - "The black administrative briefcase of the authorised floor must have the code {% symbol '625-993' for 'family_briefcase_code' %}"
     - "The hollow wooden book {% symbol 'Venture Prins' for 'small_wooden_fake_book_name' %} must properly whisper this code of the black administrative briefcase"
-    - "The red and blue fake books of the authorised floor must be mutually linked (real key VS code in UV {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %})"
+    - "The red and blue fake books of the authorised floor must be mutually linked (real key VS code in magnetism and UV {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %})"
     - "The big black briefcase of the forbidden floor, containing the Thanatologue, must have the code {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} (father) - {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} (mother)"
     - "The Tracker Grimoire of the black administrative briefcase (mobile app searching for BLUETOOTH beacons) must work"
     - "The Pyrolitis Tincture recipe hidden on the forbidden floor must have its 2 Bluetooth beacons properly activated (their LED blinks 3 times when switched on, 1 time when switched off)"
