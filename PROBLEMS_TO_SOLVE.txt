@@ -57,6 +57,8 @@ Archives (script_fixtures/mysteryparty_archives/)
   => Re-encode both images in English for ingame_clues_archives_en.odt, or give the GM the French text and its translation.
   => SUGGESTION: re-encode at least the ogham memo, since it carries the formula the players must speak.
   => PARTLY DONE (cba1e14..b794ef8): GM notes added in ingame_clues_archives_en.odt comments p336 (ogham memo = French ASTROLABE TRANSPORTE MOI LA BAS, accept the English formula) and p344 (hieroglyphs = PUITS INUTILE), and in gamemaster_assets_checklist_en.yaml:338 (Thief's wallet micro-text spells the French formula)
+  => PARTLY DONE: these notes are also gathered in miscellaneous/enigma_solutions_en.rst, with the hologram pyramid message LEG ORACLE
+     (French "legs" = bequest: "the Oracle's bequest") and the anamorphosis caption.
   => !!!!!! BLOCKED ON AUTHOR !!!!!!: re-encode the ogham memo (and, optionally, the useless-well sign) pictures in English for ingame_clues_archives_en.odt
 
 - Clue ODT polychromatic pictures of the Anthropologist's Mystic Reminiscences (GM comments "Tracker Grimoire" ... "Thanatologue"):

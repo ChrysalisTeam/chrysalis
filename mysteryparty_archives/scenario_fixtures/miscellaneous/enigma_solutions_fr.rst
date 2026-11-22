@@ -24,3 +24,10 @@ Lus à travers les lunettes colorées, les codes polychromatiques (et anaglyphes
 - Message « Orbe Spirituel » : ORBE SPIRITUEL
 - Message « Mort aux impurs », devant le tombeau du mage : MORT AUX IMPURS
 - Message « Thanatologue » : THANATOLOGUE
+
+**Autres images à texte caché :**
+
+- Pyramide hologramme (hiéroglyphes) : LEG ORACLE (le « legs de l'oracle »)
+- Petit puits en cuivre (hiéroglyphes) : PUITS INUTILE
+- Mémo du voleur (oghams) : ASTROLABE TRANSPORTE MOI LA BAS
+- Image anamorphique du code {% symbol "723" for "maupertuis_father_thanatologue_chest_code" %} : légende « Pour le jour où je l'oublierai... »
