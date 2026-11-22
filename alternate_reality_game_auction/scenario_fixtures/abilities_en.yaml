@@ -442,7 +442,7 @@ abilities:
                 # Mastden now contains a fake Orb, instead of the one masslavians retrieved ?????????
                 # Real orbs locations are listed in global parameter "orbs_locations" ?????????
                 #banal_gems_locations: __everywhere__
-                #varied_gems_locations: [Alifir,          Nujah, Baynon, Halini, Itzig, Imuo, Omrh, Faeran, Nujah, Imuo, Kioctl, Hoxh, Lolkat, Halini]
+                #varied_gems_locations: [Alifir,          Nujah, Baynon, Halini, Otzig, Imuo, Omrh, Faeran, Nujah, Imuo, Kioctl, Hoxh, Lolkat, Halini]
                 #precise_gems_locations: [Alifir, Endara, Denkos, Zorzas, Nelm, Baynon, Vladok, Faeran, Halini, Nujah]
                 #big_diamonds_locations: [Alifir, Endara, Denkos, Mastden, Baynon, Klort, Zorzas, Halini, Nujah]
 

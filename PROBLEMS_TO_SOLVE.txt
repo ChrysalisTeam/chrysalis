@@ -408,7 +408,7 @@ Auction (script_fixtures/gamemaster_manual_en.yaml)
   => Check, and harmonise if so.
   => RECOMMENDATION: no change, they are different and explicitly rival institutions: gamemaster_manual.yaml:907 "l'Académie d'Alifir est sous
      pression, car sa grande rivale, la très hégémonique Faculté d'Imuo, vient d'exhiber WireMind"; Alifir is a Sabarim city (locations.yaml:206,
-     manual l.421-433), Imuo is in Yumeinamatchi (encyclopedia/pangea_misc_locations_and_events.yaml:70-80, locations.yaml:258); Imuo pays the
+     manual l.421-433), Imuo is in Yumeimatchi (encyclopedia/pangea_misc_locations_and_events.yaml:70-80, locations.yaml:258); Imuo pays the
      chess prize, Alifir wants WireMind beaten (l.909). EN mirrors correctly; both are in the glossary (l.183, l.2113). Close the item.
   => VERIFIED: OK. Precision: locations.yaml:206 does not mention Sabarim; the Sabarith evidence is GM manual l.423 "Situé en Sabarim",
      characters_factions.yaml:149 and doctor_honoris_causa_and_nazur.yaml:486.
@@ -611,7 +611,7 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
      in amethyst.anteauction.standalone_{fr,en}.rst:30 -> "Nimouk". The real Philipon Vertioundem is male (name, GM hints "il") -> characters_factions.yaml:91
      "Patronne" -> "Patron" (and the dump when regenerated), and masculine in peridot.anteauction.standalone_fr.rst:10 and peridot_cheat_sheet_fr.rst:19
      ("le détenteur du nom... Le voilà heureux... il"); EN already uses "he".
-  => VERIFIED: CORRECTED: Nimouk is right (Imuo is in Yumeinamatchi, pangea_misc_locations_and_events.yaml:80). But the FR feminines in
+  => VERIFIED: CORRECTED: Nimouk is right (Imuo is in Yumeimatchi, pangea_misc_locations_and_events.yaml:80). But the FR feminines in
      peridot.anteauction.standalone_fr.rst:10 ("la personne détentrice... heureuse... elle") and peridot_cheat_sheet_fr.rst:19 ("la vraie
      personne qui est restée") agree with "personne", so changing them is optional. cheat_sheet_fr:19 contains no "heureux"/"il", so the
      quoted replacement only fits the standalone. The "Patronne" fix matters for EN too: EN builds print the FR official_role untranslated
