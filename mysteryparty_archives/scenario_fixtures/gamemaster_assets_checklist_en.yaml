@@ -500,7 +500,7 @@
     - "The hollow wooden book {% symbol 'Venture Prins' for 'small_wooden_fake_book_name' %} must properly whisper this code of the black administrative briefcase"
     - "The red and blue fake books of the authorised floor must be mutually linked (real key VS code in UV {% symbol '425' for 'maupertuis_father_blue_fake_book_code' %})"
     - "The big black briefcase of the forbidden floor, containing the Thanatologue, must have the code {% symbol '723' for 'maupertuis_father_thanatologue_chest_code' %} (father) - {% symbol '159' for 'maupertuis_mother_thanatologue_chest_code' %} (mother)"
-    - "The Tracker Grimoire of the family chest (mobile app searching for BLUETOOTH beacons) must work"
+    - "The Tracker Grimoire of the black administrative briefcase (mobile app searching for BLUETOOTH beacons) must work"
     - "The Pyrolitis Tincture recipe hidden on the forbidden floor must have its 2 Bluetooth beacons properly activated (their LED blinks 3 times when switched on, 1 time when switched off)"
     - "On the web station, the web page for querying the miscellaneous physical or magical clues (each identified by a unique code) must work"
     - "On the web station, the runic translation web page must work, and explain how to transcribe runes properly"
