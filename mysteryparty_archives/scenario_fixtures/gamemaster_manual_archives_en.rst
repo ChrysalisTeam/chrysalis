@@ -1366,7 +1366,7 @@ He was very soon due to undergo his **initiation called "dubbing"**, a ceremony 
 - Succeed in activating the **Initiation Seal** present on site
 - Attempt to determine, solely through his sensitivity to magical auras, which small box, among a set, contained his **personal brooch**, and thus obtain this dynastic artefact {% xfact "octave_needed_to_pass_initiation_to_gain_his_jewel" %}
 - If successful, **receive the secret symbol** of the Maupertuis family; be presented to the Beast of the Forbidden Domain, and receive from it an oath of allegiance
-- If unsuccessful, retry this ceremony in X months.
+- If unsuccessful, wait several months before retrying this ceremony.
 
 During his confinement in the library, Octave wore as a keepsake his **mother's brooch**, which he had found on site. {% xfact "octave_carried_mother_jewel_after_her_death" %} {% xitem 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
 

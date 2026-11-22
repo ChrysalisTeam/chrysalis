@@ -1366,7 +1366,7 @@ Il devait tout bientôt passer son **initiation appelée "adoubement"**, une cé
 - Réussir à activer le **Sceau d'initiation** présent sur place
 - Tenter de déterminer, uniquement par sa sensibilité aux auras magiques, quelle petite boite, parmi un ensemble, contenait sa **broche personnelle**, et obtenir ainsi cet artefact dynastique {% xfact "octave_needed_to_pass_initiation_to_gain_his_jewel" %}
 - En cas de réussite, **recevoir le symbole secret** de la famille Maupertuis ; être présenté à la Bête du domaine interdit, et recevoir d'elle un serment d'allégeance
-- En cas d'échec, réessayer cette cérémonie dans X mois.
+- En cas d'échec, patienter plusieurs mois avant de réessayer cette cérémonie.
 
 Durant son confinement dans la bibliothèque, Octave portait en souvenir la **broche de sa mère**, qu'il avait retrouvée sur place. {% xfact "octave_carried_mother_jewel_after_her_death" %} {% xitem 'maupertuis_mother_jewel_on_octave_tomb' is provided %}
 
