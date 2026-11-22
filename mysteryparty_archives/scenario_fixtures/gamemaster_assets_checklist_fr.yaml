@@ -284,7 +284,7 @@
     - "Plateau en bois avec cristaux 3D illuminés par une guirlande LED (2xCR2032 incluses)"
     - "Petite pyramide en plastique pour hologramme, avec un message secret en hiéroglyphes IMPORTANT"
     - "Boule plasma représentant l'orbe spirituel (nécessite 4xAAA ou USB) sur son piédestal de bois à cristaux plastiques (fragile) IMPORTANT"
-    - "6 grands portraits lenticulaires effrayants avec une PLUME de prophétie {% xitem 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
+    - "6 grands portraits lenticulaires effrayants avec une PLUME de prophétie, et code d'analyse [{% symbol 'vpx' for 'analysis_code_scary_lenticular_paintings' %}] au dos de chacun des 6 portraits {% xitem 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
     - "Petit puits en cuivre avec son mini-seau attaché, et un message secret \"puits inutile\" en hiéroglyphes {% xitem 'longevity_metal_well' is provided %}"
     - "Trône en bois à cachette coulissante, avec dessus un mini-crâne illuminé LED (3xLR44 incluses)"
     # Author note: this square-based pyramid crystal might be replaced by another prop later (was marked "??? CHANGE")

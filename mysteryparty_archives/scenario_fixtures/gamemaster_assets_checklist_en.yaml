@@ -284,7 +284,7 @@
     - "Wooden tray with 3D crystals lit by an LED garland (2xCR2032 included)"
     - "Small plastic hologram pyramid, with a secret message in hieroglyphs IMPORTANT"
     - "Plasma ball representing the Spiritual Orb (needs 4xAAA or USB) on its wooden pedestal with plastic crystals (fragile) IMPORTANT"
-    - "6 large scary lenticular portraits with a prophecy FEATHER {% xitem 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
+    - "6 large scary lenticular portraits with a prophecy FEATHER, and analysis code [{% symbol 'vpx' for 'analysis_code_scary_lenticular_paintings' %}] on the back of each of the 6 portraits {% xitem 'scary_lenticular_painting_with_metal_in_it' is provided %} IMPORTANT"
     - "Small copper well with its attached mini bucket, and a secret message \"useless well\" in hieroglyphs {% xitem 'longevity_metal_well' is provided %}"
     - "Wooden throne with a sliding hiding place, topped by an LED-lit mini skull (3xLR44 included)"
     # Author note: this square-based pyramid crystal might be replaced by another prop later (was marked "??? CHANGE")
