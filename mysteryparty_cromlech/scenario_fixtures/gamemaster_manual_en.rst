@@ -54,7 +54,7 @@ They receive very different, contradictory points of view on the library-museum,
 The further they progress through this interrogation rotation, the more clues have accumulated in the meantime, and so the better placed the players are to "corner" a witness. Each group will thus have different access to the crucial information and the explosive revelations.
 The Police Inspector steps in from time to time, to point out a troubling detail or a contradiction.
 
-All the while, disturbing phenomena begin to manifest (sounds, lights...). For the Hero has in fact healed himself thanks to a healing potion, and has gone off to face the nascent Monster before it is too late, in a parallel reality accessible via the miniature cromlech. {% xitem "potion de guérison utilisée" is needed %}
+All the while, disturbing phenomena begin to manifest (sounds, lights...). For the Hero has in fact healed himself thanks to a {% symbol "healing potion" for "healing_potion" %}, and has gone off to face the nascent Monster before it is too late, in a parallel reality accessible via the miniature cromlech. {% xitem "potion de guérison utilisée" is needed %}
 
 A Druid's spectre appears to some of the players (the psykers) to turn them against the Hero, lying about the ongoing gestation - which has in fact become irreversibly uncontrollable and demonic.
 
@@ -109,4 +109,12 @@ In reality:
 
   - A black curse tablet (defixio), i.e. a spell tablet, bearing the sigil of the Gaulish god of war. {% xitem "tablette noire de défixion" is needed %}
   - A cryptex (containing the medieval parchment). {% xitem "cryptex contenant le parchemin médiéval" is needed %}
+
+**Clue labels**: some objects bear a small label, which describes what the detectives' paranormal senses perceive of that object (the witnesses cannot see these labels). Texts to copy onto these labels:
+
+- Used {% symbol "healing potion" for "healing_potion" %} (on the floor, near the bloodstain): *"Empty phial, still warm. An aura of healing emanates from it: someone drank this potion barely a few hours ago."*
+- Cromlech model: *"An intense energy pulses at the centre of the model, like a beating heart, behind the little wooden door."*
+- Grimoire: *"This block of wood is charged with very ancient magic. It seems to be listening."*
+- Roman armour, helmet and shield: *"Echoes of battle reach you: cries in Latin and in Gaulish, the clash of weapons... and blood shed as an offering."*
+- Black curse tablet (in the chest): *"Icy to the touch. A bloodthirsty murmur seems to emanate from it."*
 

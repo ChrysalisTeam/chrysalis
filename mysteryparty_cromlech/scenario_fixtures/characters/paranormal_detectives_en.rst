@@ -10,6 +10,8 @@ You belong to a large detective agency specialised in the supernatural.
 
 Unlike "normal" humans, you therefore all possess the ability to see, hear and sense phenomena such as ghosts, curses, etc.
 
+Some objects bear a **label**: it describes what your paranormal senses perceive of that object. "Normal" humans cannot see these labels.
+
 Recently, you were preparing to leave for the city of Rome, as Italian scientists had been recording, for about **{% symbol "1 year" for "italian_earthquakes_start_delay" %}**, numerous events (seismic tremors, lava upwellings...) that their physical models could no longer explain. They feared the awakening of an old curse.
 
 But you had to cancel your departure, because the French President Emile Loubet himself, following the plea of an Italian diplomat, summoned you to this unusual building called the "Cromlech", in order to investigate several disappearances.

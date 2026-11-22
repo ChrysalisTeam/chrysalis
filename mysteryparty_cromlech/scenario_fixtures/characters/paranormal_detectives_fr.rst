@@ -10,6 +10,8 @@ Vous appartenez à une grande agence de détectives spécialisée dans le surnat
 
 Contrairement aux humains "normaux", vous possédez donc tous la capacité de voir, entendre, sentir, des phénomènes tels les fantômes, les malédictions, etc.
 
+Certains objets portent une **étiquette** : elle décrit ce que vos sens paranormaux perçoivent de cet objet. Les humains "normaux" ne voient pas ces étiquettes.
+
 Récemment, vous vous prépariez à partir pour la ville de Rome, car les scientifiques italiens recensaient depuis environ **{% symbol "1 an" for "délai_début_secousses_sismiques_italiennes" %}** de nombreux évènements (secousses sismiques, remontées de lave…) que leurs modèles physiques n'arrivaient plus à expliquer. Ils craignaient le réveil d'une vieille malédiction.
 
 Mais vous avez dû annuler votre départ, car le président français Émile Loubet lui-même, suite à la supplique d'une diplomate italienne, vous a sommés de vous rendre dans ce bâtiment insolite appelé "Cromlech", afin d'investiguer plusieurs disparitions.

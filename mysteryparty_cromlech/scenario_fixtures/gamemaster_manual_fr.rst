@@ -54,7 +54,7 @@ Ils reçoivent des points de vue très différents, contradictoires, sur la bibl
 Plus ils avancent dans cette rotation des interrogatoires, plus les indices ont afflué entretemps, et donc plus les joueurs sont à même de "coincer" un témoin. Chaque groupe aura donc un accès différent aux informations cruciales et aux révélations fracassantes.
 L'inspecteur de police intervient ponctuellement, pour pointer du doigt un détail troublant ou une contradiction.
 
-Pendant tout ce temps, des phénomènes inquiétants commencent à se manifester (sonores, lumineux…). Car le héros s'est en réalité soigné grâce à une potion de guérison, et est parti affronter le Monstre naissant avant qu'il ne soit trop tard, dans une réalité parallèle accessible via le mini-cromlech. {% xitem "potion de guérison utilisée" is needed %}
+Pendant tout ce temps, des phénomènes inquiétants commencent à se manifester (sonores, lumineux…). Car le héros s'est en réalité soigné grâce à une {% symbol "potion de guérison" for "potion_de_guerison" %}, et est parti affronter le Monstre naissant avant qu'il ne soit trop tard, dans une réalité parallèle accessible via le mini-cromlech. {% xitem "potion de guérison utilisée" is needed %}
 
 Un spectre de Druide se manifeste auprès de certains joueurs (les psykers) pour les monter contre le Héros, en mentant sur la gestation en cours - qui est en réalité devenue irrémédiablement incontrôlable et démoniaque.
 
@@ -109,4 +109,12 @@ En réalité :
 
   - Une {% item "tablette noire de défixion" is needed %} (= de sortilège) avec le sigle du dieu gaulois de la guerre.
   - Un {% item "cryptex contenant le parchemin médiéval" is needed %}.
+
+**Étiquettes d'indices** : certains objets portent une petite étiquette, qui décrit ce que les sens paranormaux des détectives perçoivent de cet objet (les témoins, eux, ne voient pas ces étiquettes). Textes à recopier sur ces étiquettes :
+
+- {% symbol "Potion de guérison" for "potion_de_guerison" %} utilisée (au sol, près de la tache de sang) : *"Fiole vide, encore tiède. Une aura de guérison s'en dégage : quelqu'un a bu cette potion il y a quelques heures à peine."*
+- Maquette de Cromlech : *"Une énergie intense pulse au centre de la maquette, comme un cœur qui bat, derrière la petite porte de bois."*
+- Grimoire : *"Ce bloc de bois est chargé d'une magie très ancienne. On dirait qu'il écoute."*
+- Armure, casque et bouclier romains : *"Des échos de bataille vous parviennent : cris en latin et en gaulois, fracas des armes... et du sang versé en offrande."*
+- Tablette noire de défixion (dans le coffre) : *"Glacée au toucher. Un murmure assoiffé de sang semble en émaner."*
 

@@ -65,7 +65,7 @@ Reporter : raconte sa rencontre avec Andrea, et les indices troublants de la mat
 
 Conservateur : prétend avoir passé la matinée à une cérémonie publique et ne rien comprendre à tout ce chahut autour d'un simple vandalisme. Est manifestement irrité, gêné, si le fantôme du druide le distrait en lui parlant.
 
-Trésor : découverte des artefacts du musée, du papier sur les symboles de la mythologie gauloise (posé près de la maquette), et de la {% symbol "potion de régénération" for "potion_de_guerison" %} au sol (utilisée par Andrea).
+Trésor : découverte des artefacts du musée, du papier sur les symboles de la mythologie gauloise (posé près de la maquette), et de la {% symbol "potion de guérison" for "potion_de_guerison" %} au sol (utilisée par Andrea).
 
 Intervention du druide :
 

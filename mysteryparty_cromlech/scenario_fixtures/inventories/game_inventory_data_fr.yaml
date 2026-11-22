@@ -14,6 +14,7 @@
   - '{% item "Maquette de Cromlech et de portail magique " is provided %} IMPORTANT'
   - '{% item "Tablette noire de défixion" is provided %} IMPORTANT'
   - '{% item "Grimoire scellé à couverture de bois" is provided %} IMPORTANT'
+  - 'Étiquettes d''indices pour la potion, la maquette, le grimoire, l''équipement de légionnaire et la tablette (textes dans le manuel du MJ)'
   - '{% item "Message d''Andrea apparu dans le grimoire" is provided %} (document imprimé sur papier vieilli, à glisser sous la couverture du grimoire avant le 4e entretien) IMPORTANT'
   - '{% item "Armure, casque et bouclier romains" is provided %}'
   - '{% item "Crâne électronique et/ou normal, en option, pour mettre dans le casque romain" is provided %}'
