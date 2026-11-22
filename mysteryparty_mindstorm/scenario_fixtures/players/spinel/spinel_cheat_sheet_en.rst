@@ -6,7 +6,7 @@
 
 - get your hands on Loyd Georges' orb {% xfact 'agent_mission_seek_lg_orb' %}
 - get your hands on the Panorbium Fortuna {% xfact 'agent_mission_find_panorbium_fortuna' %}
-- buy the tar sands deposit {% xfact 'agent_mission_obtain_mining_lease' %}
+- buy the tar sands deposit, at a price lower than what it will bring you: the equivalent of **12 megakashes** of rare earths, or 50% more with a **Thermocyclic Fusion Core** {% xfact 'agent_mission_obtain_mining_lease' %}
 
 - your short-term objectives:
 

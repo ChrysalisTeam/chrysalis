@@ -5,7 +5,7 @@
 =============================================================
 
 - mettre la main sur l'orbe de Loyd Georges {% xfact 'agent_mission_seek_lg_orb' %}
-- acheter le gisement de sables bitumineux {% xfact 'agent_mission_obtain_mining_lease' %}
+- acheter le gisement de sables bitumineux, à un prix inférieur à ce qu'il vous rapportera : l'équivalent de **20 mégakashes** de sables bitumineux complets, ou 50% de plus avec un **Cœur de Fusion Thermocyclique** {% xfact 'agent_mission_obtain_mining_lease' %}
 - convaincre le concile akarite de la pureté doctrinale des doriens {% xfact 'agent_mission_transfiliation_attempt' %} {% xfact "peridot_must_answer_akarith_council" as author %}
 
 - vos objectifs à court terme :
