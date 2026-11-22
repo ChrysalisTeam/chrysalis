@@ -91,6 +91,12 @@ Give the **additional instructions** below orally.
 
     Finally, Loyd Georges urges you to find a **fair balance between safety and efficiency**: the ranger is the best scout, and must secure the areas, but it can sometimes be useful to split up so as not to waste time, and to find as quickly as possible the Yodic temple, which is supposed to be **"deeply buried"**.
 
+**Tell the Akarith legend of the "Three Divine Orbs"**, which all the characters know (it is listed in their equipment):
+
+    The Yods once gave the priest Melkisedech, ancestor of all Akariths, three sacred orbs, also called **"Divine Tears"**, guaranteeing the dominion of his race over the whole planet. But the orbs fell through treachery into impious hands, and the Akariths had to take refuge at the edges of the continent. All the Yodic denominations await the reunion of the three orbs, which will restore the Cosmic Empire of the Yods. One of them is said to have been lost at the Battle of Wigwir, where the Taranites and the Razulites clashed for the last time.
+
+*For the GM: the orb hidden in the Holy of Holies is this lost Divine Tear, carried away by the Razulites (see the archaeologist's writing "In the cold the tear sleeps until the return of the one prophet").*
+
 **Finally, review their equipment** (what they have on their body, on their belt, in their hand, in their backpack...), and their **default marching order**...
 
 
@@ -385,7 +391,7 @@ The **wild beasts** (yeti, Chlamydes, monitor lizard...) can be captured and res
 - one kilo of real loose gems is worth 10 kashes, and is gathered in 5 min; up to 6 kilos can be picked up, but among them, 2 kilos of purple gems are **worthless**
 - one kilo of inlaid diamonds is worth 15 kashes, and is gathered in 15 min; 1 kilo can be collected
 - gold ingot: 10 kashes
-- Divine Tear: super-mega-exceptional artefact, unsellable
+- Divine Tear (the orb): super-mega-exceptional artefact, unsellable
 
 **Other items**: **black powder** can be collected in the cavern; 1 kilo of thoroughly dry black powder is equivalent to a stick of dynamite; **old slow fuse** can also be found, burning at 1 m/s
 

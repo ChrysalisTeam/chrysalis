@@ -91,6 +91,12 @@ Donner les **instructions complémentaires** ci-dessous à l'oral.
 
     Enfin, Loyd Georges vous incite à trouver un **juste équilibre entre sécurité et efficacité** : le baroudeur est le meilleur éclaireur, et doit sécuriser les zones, mais il peut être parfois utile de se séparer pour ne pas perdre de temps, et trouver au plus vite le temple yodique, qui est censé être **"profondément enfoui"**.
 
+**Raconter la légende akarite des "Trois Orbes Divins"**, que tous les personnages connaissent (elle figure dans leur équipement) :
+
+    Les Yods donnèrent jadis au prêtre Melkisedech, ancêtre de tous les akarites, trois orbes sacrés, aussi appelés **"larmes divines"**, garants de la domination de sa race sur toute la planète. Mais les orbes tombèrent par trahison entre des mains impies, et les akarites durent se réfugier aux confins du continent. Toutes les confessions yodiques attendent la réunion des trois orbes, qui rétablira l'Empire Cosmique des Yods. L'un d'eux aurait été perdu lors de la bataille de Wigwir, où taranites et razulites s'affrontèrent pour la dernière fois.
+
+*Pour le MJ : l'orbe caché dans le Saint des Saints est cette larme divine perdue, emportée par les razulites (cf. l'écrit "Au froid la larme dort jusqu'au retour du seul prophète" de l'archéologue).*
+
 **Finalement, faire le point sur leur équipement** (ce qu'ils ont sur le corps, à la ceinture, à la main, dans le sac à dos...), et sur leur **ordre de marche par défaut**...
 
 
@@ -385,7 +391,7 @@ Les **bêtes sauvages** (yéti, chlamydes, varan...) peuvent être capturées et
 - un kilo de vraies gemmes libres vaut 10 kashes, et se récolte en 5mn ; on peut en ramasser 6 kilos, mais dedans, 2 kilos de gemmes violettes sont **sans valeur**
 - un kilo de diamants incrustés vaut 15 kashes, et se récolte en 15mn ; on peut en récolter 1 kilo
 - lingot d'or : 10 kashes
-- larme divine : artefact super méga exceptionnel, invendable
+- larme divine (l'orbe) : artefact super méga exceptionnel, invendable
 
 **Autres objets** : de la **poudre noire** est récupérable dans la caverne, 1 kilo de poudre noire bien sèche équivaut à un bâton de dynamite ; de la **vieille mèche** est trouvable également, à combustion lente (1m/s)
 
