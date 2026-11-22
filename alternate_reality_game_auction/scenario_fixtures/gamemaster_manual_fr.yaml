@@ -204,7 +204,7 @@ gamemaster_manual:
         Prise en main du jeu
         ------------------------
 
-        Les joueurs sont initialement *comme sur des rails* : ils partagent automatiquement leurs données avec leurs partenaires (grâce au système d’*amitié numérique*), et sont supervisés de près par leurs supérieurs des services secrets. Ils vont alors se familiariser avec l'univers et les forces en présence en lisant leur messagerie, quelques articles encyclopédiques, et en parcourant les sections déjà accessibles dans leur compte web (programme des enchères, liste des participants, radio web...).
+        Les joueurs sont initialement *comme sur des rails* : ils partagent automatiquement leurs données avec leurs partenaires (grâce au système d’*amitié numérique*, que le MJ doit sceller avant la partie, voir la `Chronologie synthétique du jeu`_), et sont supervisés de près par leurs supérieurs des services secrets. Ils vont alors se familiariser avec l'univers et les forces en présence en lisant leur messagerie, quelques articles encyclopédiques, et en parcourant les sections déjà accessibles dans leur compte web (programme des enchères, liste des participants, radio web...).
 
         Des panneaux d'aide sont affichables sur certaines pages du site, pour expliciter leur fonctionnement. Pour le reste, les joueurs sont encouragés à contacter les PNJs : le "webmaster" en cas d'incompréhensions purement techniques, et leurs supérieurs hiérarchiques en cas de doutes sur leurs objectifs ou autres questions.
 
@@ -1690,6 +1690,8 @@ gamemaster_manual:
 
 
         - état initial : envoyer les rapports synthétiques de l'affaire LG, de la part des chefs des services secrets à leurs agents (y compris celui de la police sabarite à Obsidian, et celui des judicateurs à l'agent infiltré akarite si ce rôle optionnel est joué)
+
+        - état initial : aucune amitié numérique n'est prédéfinie dans la base de données ; avant l'invitation des joueurs, le MJ incarne donc chaque joueur (via les contrôles de l'en-tête du site, avec droits d'écriture) et scelle depuis la page de gestion des amitiés son amitié numérique avec son partenaire de faction
 
         - **compétences initiales : mise sur écoute, et embauche de mercenaires**
 
