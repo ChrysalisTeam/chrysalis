@@ -403,6 +403,8 @@ L’arkonte {% symbol "Valerias" for "arkon_name" %} (le paladin-exorciste lége
 {% endmacro %}
 <{ phantom_arkon_character_summary }/>
 
+*Note pour le maître de jeu : c'est l'**anthropologue** des explorateurs héliossars, lui-même arkonte, qui peut recevoir cette {% symbol "confession de mission" for "arkon_mission_confession" %} (l'arkonte s'agenouille devant lui, qui garde une main imposée au-dessus de sa tête) ; voir le discours prévu vers H+17mn dans le planning.*
+
 
 Le voleur {% symbol "Fédore Pass’muraille" for "thief_name" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

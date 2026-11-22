@@ -403,6 +403,8 @@ The Arkon {% symbol "Valerias" for "arkon_name" %} (the legendary paladin-exorci
 {% endmacro %}
 <{ phantom_arkon_character_summary }/>
 
+*Note for the Game Master: it is the **Anthropologist** of the Heliossarian explorers, himself an Arkon, who can receive this {% symbol "mission confession" for "arkon_mission_confession" %} (the Arkon kneels before him, while he keeps one hand raised above his head); see the speech planned around H+17 min in the schedule.*
+
 
 The Thief {% symbol "Fedore Pass'muraille" for "thief_name" %}
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
