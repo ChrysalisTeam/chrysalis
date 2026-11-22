@@ -93,6 +93,9 @@ messaging:
             - >-
                 universe
             "gamemaster_hints": ""
+            "recipient_emails":
+            - >-
+                [auction-list]@anthropia.pg
             "sender_email": >-
                 contact@sabarim-gazette.pg
             "subject": >-
