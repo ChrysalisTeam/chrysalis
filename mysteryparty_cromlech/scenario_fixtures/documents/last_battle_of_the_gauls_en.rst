@@ -4,7 +4,7 @@ The Siege of Uxellodunum
 What History says
 =============================
 
-( Source: https://fr.wikipedia.org/wiki/Si%C3%A8ge_d%27Uxellodunum )
+( Source: French Wikipedia, https://fr.wikipedia.org/wiki/Si%C3%A8ge_d%27Uxellodunum ; see also https://en.wikipedia.org/wiki/Siege_of_Uxellodunum )
 
 One year after the surrender of Vercingetorix at Alesia, Caesar and his main lieutenants are busy pacifying the last pockets of resistance that remain here and there across the region, in 51 BC.
 
