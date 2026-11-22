@@ -294,7 +294,7 @@ HOUR 2:30
 
 - SHARK: conducts an interrogation with **Opal**, and asks Obsidian to question **Lydia**, but in the SAME ROOM
 
-- RADIO SPOTS: "Suspicious disappearance in South Alifir", "Final decision of the Akarith council"
+- RADIO SPOTS: "Suspicious disappearance in South Alifir", "Final decision of the Akarith council" (the 62_* variant matching the result of the two council hearings: Dorians judged compatible, hardly compatible, or incompatible; see the GM manual)
 
 - Following this last radio spot, the Akarith Ambassador meets the Dorians, either to confirm that the transfiliation is validated, or to negotiate a debased status for Doria ("Dhimmitude": taxes, no right to vote, a voice worth half in court...)
 

@@ -274,7 +274,7 @@ Two hearings are held for this purpose:
 - a Dorian protagonist is called in to test directly how well he conforms to the Judicators' dogmas (based on a simple summary of Yodic theology)
 - a Masslavian protagonist is called as an expert in Yodic history, to give his opinion on the compatibility between Akariths and Dorians from a religious point of view (based on a wordy and complicated summary of Yodic theology)
 
-Depending on the results of these two hearings, the Akariths take a decision more or less favourable to the Dorians, and broadcast it.
+Depending on the results of these two hearings, the Akariths take a decision more or less favourable to the Dorians, and broadcast it: the radio spot "Final decision of the Akarith council" exists in three variants (Dorians judged compatible, hardly compatible, or incompatible), the GM broadcasts the matching one; later, the spots "Annexation of the Dorians by Akaris" or "Doria joins the anti-Akarith coalition" announce the Duke's choice.
 
 The fate of the Dorian Duke himself depends on additional parameters: he is protected by the presence of Akariths in his family tree, but Cynthia holds (at her home) evidence of a blasphemy he committed in the past against the Yods, evidence that can be recovered by other protagonists. In particular, around the middle of the evening, the Duke himself calls a Dorian agent, to ask him to recover and destroy these documents.
 

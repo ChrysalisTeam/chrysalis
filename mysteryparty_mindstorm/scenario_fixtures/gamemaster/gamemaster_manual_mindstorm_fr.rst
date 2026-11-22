@@ -274,7 +274,7 @@ Deux auditions ont lieu pour cela:
 - un protagoniste dorien est appelé pour tester directement sa bonne conformité aux dogmes des judicateurs (à partir d'un résumé simple de la théologie yodique)
 - un protagoniste masslave est appelé en tant qu'expert en histoire yodique, pour donner son avis sur la compatibilité entre akarites et doriens d'un point de vue religieux (à partir d'un résumé verbeux et compliqué de la théologie yodique)
 
-Selon les résultats de ces deux auditions, les akarites prennent une décision plus ou moins favorable aux doriens, et la diffusent.
+Selon les résultats de ces deux auditions, les akarites prennent une décision plus ou moins favorable aux doriens, et la diffusent : le spot radio "Décision finale du concile akarite" existe en trois variantes (doriens jugés compatibles, peu compatibles, ou incompatibles), le MJ diffuse celle qui correspond ; plus tard, les spots "Rattachement des Doriens à l'Akarie" ou "Ralliement de la Dorie à la coalition anti-akarite" annoncent le choix du duc.
 
 Le destin du duc dorien lui-même dépend de paramètres supplémentaires : il est protégé par la présence d'akarites dans son arbre généalogique, mais Cynthia possède (chez elle) des preuves d'un blasphème qu'il a commis par le passé contre les Yods, preuves qui peuvent être récupérées par d'autres protagonistes. En particulier, vers le milieu de la soirée, le Duc lui-même appelle un agent dorien, pour lui demander de récupérer et détruire ces documents.
 

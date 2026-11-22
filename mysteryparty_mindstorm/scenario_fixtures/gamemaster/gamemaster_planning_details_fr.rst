@@ -294,7 +294,7 @@ HEURE 2:30
 
 - SHARK : fait un interrogatoire avec **Opal**, et demande à Obsidian d'interroger **Lydia**, mais dans la MEME SALLE
 
-- SPOTS RADIO : "Disparition inquiétante à Alifir Sud", "Décision finale du concile akarite"
+- SPOTS RADIO : "Disparition inquiétante à Alifir Sud", "Décision finale du concile akarite" (la variante 62_* qui correspond au résultat des deux auditions du concile : doriens jugés compatibles, peu compatibles, ou incompatibles ; voir le manuel du MJ)
 
 - Suite à ce dernier spot radio, l'ambassadeur akarite rencontre les doriens, soit pour confirmer que la transfiliation est validée, soit pour négocier un statut avili pour la Dorie (la "dhimmitude" : taxes, pas de droit de vote, 1 voix sur 2 au tribunal...)
 

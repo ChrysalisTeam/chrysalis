@@ -1081,14 +1081,42 @@ audio_messages:
              \pau=1000\ \audio=volume=15\ \pau=1000\ \audio=volume=5\ \pau=1000\
 
 
-    "64_council_akaris_final_results":
+    # 3 variants of the final decision: broadcast only the one matching the two council hearings (see "The great council's decision" in the GM manual)
+
+    "62_council_akaris_final_results_compatible":  # if the Dorians are judged fully compatible
         "title": >-
             Décision finale du concile akarite
         "text": >-
             \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Bruno\
-            En akarie, l'archidiacre Baazel vient de proclamer la première décision prise dans le secret du concile. \pau=300\
+            En akarie, l'archidiacre Baazel vient de proclamer la décision finale prise dans le secret du concile. \pau=300\
             "oui, la transfiliation est bien une doctrine orthodoxe, et le peuple dorien est appelé à rejoindre l'empire
             cosmique des yods en fusionnant avec l'akarie". \pau=300\
+            Les réactions du duc dorien sont attendues avec la plus grande impatience.
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=6000\
+
+
+    "62_council_akaris_final_results_partly_compatible":  # if the Dorians are judged hardly compatible
+        "title": >-
+            Décision finale du concile akarite
+        "text": >-
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Bruno\
+            En akarie, l'archidiacre Baazel vient de proclamer la décision finale prise dans le secret du concile. \pau=300\
+            "oui, la transfiliation est bien une doctrine orthodoxe ; mais le peuple dorien, encore imparfait dans sa foi,
+            devra d'abord expier ses errements, sous le statut de protégé de l'empire cosmique des yods". \pau=300\
+            Selon nos sources, ce statut impliquerait des taxes spéciales, et la privation du droit de vote.
+            Les réactions du duc dorien sont attendues avec la plus grande impatience.
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=6000\
+
+
+    "62_council_akaris_final_results_incompatible":  # if the Dorians are judged incompatible
+        "title": >-
+            Décision finale du concile akarite
+        "text": >-
+            \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Bruno\
+            En akarie, l'archidiacre Baazel vient de proclamer la décision finale prise dans le secret du concile. \pau=300\
+            "la transfiliation reste une hypothèse inexplorée, et le peuple dorien, perverti par l'hérésie, ne saurait
+            rejoindre l'empire cosmique des yods ; qu'il se soumette, ou qu'il subisse la sainte colère de l'akarie". \pau=300\
+            Les chancelleries de Midolie s'inquiètent de ce qui ressemble fort à une déclaration de guerre.
             Les réactions du duc dorien sont attendues avec la plus grande impatience.
             \audio=mix="news_aggressive_intro_012";volume=100\ \pau=6000\
 
