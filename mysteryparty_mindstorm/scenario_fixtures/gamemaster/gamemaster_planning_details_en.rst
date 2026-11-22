@@ -270,9 +270,7 @@ HOUR 2:00
 
 - [if a tavern has been raided] delivery to Obsidian of the first letter between Shark and his sister
 
-- EMAILS: "Let's compromise the Dorian Duke" (for the Masslavians)
-
-- simultaneously, call from the Dorian Duke for one of the two Dorian agents (special mission to recover the compromising evidence)
+- call from the Dorian Duke for one of the two Dorian agents (special mission to recover the compromising evidence)
 
 
 
@@ -333,7 +331,7 @@ HOUR 3:00
 
 - If Akaris offers scandalous conditions for the integration of Doria: the Dorian secret services call the agents, and ask them whether, according to their information, the anti-Akarith front has a chance of winning, or whether they must give up and suffer the Akarith yoke.
 
-- give the Masslavians the telegram indicating that Cynthia has evidence against the Dorian Duke {% xfact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %}
+- EMAILS: [if Doria has joined the Akarith side] "Let's compromise the Dorian Duke" (for the Masslavians), telegram indicating that Cynthia has evidence against the Dorian Duke {% xfact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %}
 
 - [if a tavern has been raided] delivery to Obsidian of the next letter between Shark and his sister
 

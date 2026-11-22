@@ -270,9 +270,7 @@ HEURE 2:00
 
 - [si taverne perquisitionnée] diffusion à Obsidian de la première lettre entre Shark et sa soeur
 
-- MAILS : "Compromettons le duc dorien" (pour les masslaves)
-
-- simultanément, appel du duc dorien pour un des deux agents doriens (mission spéciale de récupération des preuves compromettantes)
+- appel du duc dorien pour un des deux agents doriens (mission spéciale de récupération des preuves compromettantes)
 
 
 
@@ -333,7 +331,7 @@ HEURE 3:00
 
 - Si l'Akarie offre des conditions scandaleuses pour l'intégration de la Dorie : les services secrets doriens appellent les agents, et leur demandent si, d'après leurs informations, le front anti-akarite a une chance de gagner, ou s'il faut abandonner et subir le joug akarite.
 
-- donner aux masslaves le télégramme indiquant que Cynthia a des preuves contre le duc dorien {% xfact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %}
+- MAILS : [si la Dorie a rejoint le camp des akarites] "Compromettons le duc dorien" (pour les masslaves), télégramme indiquant que Cynthia a des preuves contre le duc dorien {% xfact "cynthia_has_proofs_about_dorian_duke_blasphemy" as author %}
 
 - [si taverne perquisitionnée] diffusion à Obsidian de la lettre suivante entre Shark et sa soeur
 
