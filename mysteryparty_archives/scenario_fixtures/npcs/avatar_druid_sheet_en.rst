@@ -58,7 +58,7 @@ Specific information and instructions
 
 You wonder about the metal table bell left in plain view, which, when you try it, rings but triggers nothing (because you cannot see the spectres stirring at that moment); in any case, it is not some contraption of the Inventor and his automatons.
 If you talk with the players, they will eventually explain to you what happens when it is used.
-Once you know that it is a recall signal for the phantoms, **you steal it discreetly**, and hide it in your satchel. Neither avatars nor players must know that you are the one who took it; it will in principle serve you as a weapon during the final battle. {% xfact "druid_must_steal_table_bell_when_usage_understood" %} {% xfact "druid_finally_uses_table_bell_as_weapon" %}
+Once you know that it is a recall signal for the phantoms, **you steal it discreetly**, and hide it in your satchel; do so by H+30 min at the latest, before the Ankou's visit, even if nobody has explained its use to you yet. Neither avatars nor players must know that you are the one who took it; it will in principle serve you as a weapon during the final battle. {% xfact "druid_must_steal_table_bell_when_usage_understood" %} {% xfact "druid_finally_uses_table_bell_as_weapon" %}
 
 You are a scholar of animals, plants and minerals, and the vocabulary of your universe is the same as the very ancient vocabulary of the universe of the living.
 Thus, if asked, you readily indicate: {% xfact "druid_known_about_plants_and_gems" %}
