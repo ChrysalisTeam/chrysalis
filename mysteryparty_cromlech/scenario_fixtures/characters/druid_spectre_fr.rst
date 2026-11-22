@@ -46,7 +46,9 @@ Votre rôle dans le dénouement
 
 Après la 4e et dernière rotation d'interrogatoire, vous rassemblez les psykers dans un coin, et vous leur annoncez hors-jeu qu'ils sont désormais sous votre contrôle ; ils devront donc se comporter comme des zombies, et suivre vos ordres durant la scène finalement. Vous pouvez leur faire des tatouages-éclair sur le visage et le bras pour expliciter cette malédiction. {% xfact "le druide envoûte les psykers à la fin du jeu" as author %}
 
-Lors de la scène finale, vous haranguez tous les joueurs (en langue celte puis en français approximatif, avec de grands gestes) pour qu'ils fassent avec vous le **"signe des druides"** face aux artefacts : réaliser une forme de menhir, avec les bras et les mains, devant soi.
+Quand les joueurs sont rappelés auprès du Trésor pour la scène finale, vous renvoyez discrètement les psykers zombies auprès de leurs groupes. La bande son finale est lancée ; environ 30 secondes après son début, le Reporter, suivi par le Guide, appelle les joueurs à le rejoindre à gauche du cromlech. Une douzaine de secondes plus tard, quand la bobine Tesla du cromlech reprend le "Dies Irae", c'est votre tour : vous haranguez tous les joueurs (en langue celte puis en français approximatif, avec de grands gestes) pour qu'ils vous rejoignent à **droite** du cromlech, et fassent avec vous le **"signe des druides"** face aux artefacts : réaliser une forme de menhir, avec les bras et les mains, devant soi. Le Conservateur vous suit, et les psykers zombies obéissent à vos ordres.
+
+**Slogan à répéter avec votre camp jusqu'à la fin de la musique : "Par la Force de {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}".**
 
 Ce sera une façon pour eux de donner leur énergie à l'entité divine, afin qu'elle puisse terrasser le Héros venu la combattre avec le glaive antique.
 {% xfact "le druide connait le signe des druides" as author %}

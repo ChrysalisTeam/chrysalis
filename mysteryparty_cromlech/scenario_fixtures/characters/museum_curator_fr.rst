@@ -109,4 +109,12 @@ Vous serez interrogé quatre fois, par quatre groupes de détectives différents
 - **4e entretien** : vous lancez l'alerte, "il faut laisser les artefacts tranquilles et empêcher Andrea de les détourner à son propre profit !" ; mais à la moitié de l'entretien, vous vous mettez à divaguer (voir les instructions pour tous les figurants).
 
 
+Votre rôle dans le dénouement
+================================
+
+Lors de la scène finale, tout le monde est rassemblé auprès du Trésor, et la bande son finale est lancée ; le cromlech se met à crépiter. Une douzaine de secondes après que le Reporter a appelé les joueurs à gauche du cromlech, quand la bobine Tesla reprend le "Dies Irae", le Druide exhorte les joueurs à le rejoindre à **droite** du cromlech : vous le suivez, réalisez avec lui le **"signe des druides"** (une forme de menhir, avec les bras et les mains), et encouragez les joueurs à vous rejoindre, pour que l'entité divine puisse naître.
+
+**Slogan à répéter avec votre camp jusqu'à la fin de la musique : "Par la Force de {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}".**
+
+
 {% include "characters/_instructions_for_npc_actors_fr.txt" %}

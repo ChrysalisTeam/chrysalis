@@ -46,7 +46,9 @@ Your role in the ending
 
 After the 4th and final interrogation rotation, you gather the psykers in a corner, and announce to them out-of-game that they are now under your control; they must therefore behave like zombies, and follow your orders during the final scene. You can draw lightning-bolt tattoos on their faces and arms to make this curse visible. {% xfact "le druide envoûte les psykers à la fin du jeu" as author %}
 
-During the final scene, you harangue all the players (in the Celtic tongue and then in broken English, with sweeping gestures) to make the **"Druids' Sign"** with you, facing the artefacts: forming a menhir shape in front of themselves, with their arms and hands.
+When the players are called back to the Treasure for the final scene, you discreetly send the zombie psykers back to their groups. The final soundtrack is started; about 30 seconds after it starts, the Reporter, followed by the Guide, calls on the players to join him on the left of the cromlech. About a dozen seconds later, when the cromlech's Tesla coil takes up the "Dies Irae" again, it is your turn: you harangue all the players (in the Celtic tongue and then in broken English, with sweeping gestures) to join you on the **right** of the cromlech, and to make the **"Druids' Sign"** with you, facing the artefacts: forming a menhir shape in front of themselves, with their arms and hands. The Curator follows you, and the zombie psykers obey your orders.
+
+**Slogan to repeat with your camp until the end of the music: "By the Might of {% symbol "Toutatis" for "bloodthirsty_god_name" %}".**
 
 This will be a way for them to give their energy to the divine entity, so that it can slay the Hero who has come to fight it with the ancient gladius.
 {% xfact "le druide connait le signe des druides" as author %}

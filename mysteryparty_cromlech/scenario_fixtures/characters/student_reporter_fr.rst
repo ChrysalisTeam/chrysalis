@@ -10,7 +10,7 @@ Vous êtes immédiatement devenu adepte de la **bibliothèque-musée appelée Cr
 
 Là, vous vous êtes lié d'amitié avec un autre étudiant, **Andrea, arrivé il y a {% symbol "trois mois" for "délai_arrivee_du_héros" %}**. Officiellement, il était ici pour préparer sa soutenance de thèse en Histoire gréco-romaine. Mais il vous a rapidement avoué qu'il avait en réalité interrompu ses études de droit international pour investiguer une antique énigme historique, concernant les derniers rebelles gaulois cernés par les armées conquérantes de Jules César. Ce choix de sa part avait d'ailleurs déclenché une persistante fureur chez son mère, **diplomate italienne** auprès de la France.
 
-Vous vous êtes pris au jeu, et avez suivi, conseillé, aidé Andrea tandis qu'il enquêtait sur les origines et les artefacts du Cromlech. Il vous a appris un **langage codé simple** pour que vous puissiez vous transmettre des messages via la bibliothèque, au besoin. Il vous a aussi montré le **"signe des centurions", les bras croisés sur la poitrine**, en assurant que cela pour vous servir le moment venu. {% xfact "le héros et le reporter ont un langage codé commun" %} {% xfact "le reporter connait le signe des centurions" as author %}
+Vous vous êtes pris au jeu, et avez suivi, conseillé, aidé Andrea tandis qu'il enquêtait sur les origines et les artefacts du Cromlech. Il vous a appris un **langage codé simple** pour que vous puissiez vous transmettre des messages via la bibliothèque, au besoin. Il vous a aussi montré le **"signe des centurions", les bras croisés sur la poitrine**, en assurant que cela pourrait vous servir le moment venu (voir plus bas). {% xfact "le héros et le reporter ont un langage codé commun" %} {% xfact "le reporter connait le signe des centurions" as author %}
 
 Outrepassant toute prudence, vous avez joué de vos contacts pour aller faire analyser en pleine nuit, **il y a {% symbol "un mois" for "délai_analyse_du_glaive_antique" %}** de cela, un **glaive** de la collection du Cromlech, "emprunté" par Andrea. Mais le jeu en valait la chandelle : non seulement le musée ne s'est aperçu de rien, mais le glaive s'est révélé être une pièce exceptionnelle, et pas une "réplique" comme le prétend ce cuistre de Conservateur du Cromlech.
 
@@ -54,6 +54,14 @@ Vous serez interrogé quatre fois, par quatre groupes de détectives différents
 - **2e entretien** : la police a eu vent de l'analyse nocturne d'un glaive ; mis en difficulté sur cette analyse illicite, mais pas décontenancé, vous avouez avoir aidé Andrea à la réaliser, mais insistez sur le fait que ce n'est pas la priorité du moment.
 - **3e entretien** : la police a trouvé une "lettre d'adieux" d'Andrea ; vous ne croyez pas un instant à sa véracité.
 - **4e entretien** : vous lancez l'alerte, "Andrea est en danger dans un autre monde, il faut l'aider !" ; mais à la moitié de l'entretien, vous vous mettez à divaguer (voir les instructions pour tous les figurants).
+
+
+Votre rôle dans le dénouement
+================================
+
+Lors de la scène finale, tout le monde est rassemblé auprès du Trésor, et la bande son finale est lancée ; le cromlech se met à crépiter. Environ 30 secondes après le début de la musique, quand la bobine Tesla du cromlech se met à jouer le "Dies Irae", vous appelez les joueurs à vous rejoindre à **gauche** du cromlech, et à réaliser avec vous le **"signe des centurions"** (bras croisés sur la poitrine), pour aider Andrea dans son combat. Le Guide vous suit.
+
+**Slogan à répéter avec votre camp jusqu'à la fin de la musique : "Par la Gloire de Jupiter".**
 
 
 {% include "characters/_instructions_for_npc_actors_fr.txt" %}

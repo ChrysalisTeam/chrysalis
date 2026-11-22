@@ -62,4 +62,12 @@ Vous serez interrogé quatre fois, par quatre groupes de détectives différents
 - **4e entretien** : vous tentez d'apporter vos connaissances historiques et mythologiques pour aider les joueurs ; mais à la moitié de l'entretien, vous vous mettez à divaguer (voir les instructions pour tous les figurants).
 
 
+Votre rôle dans le dénouement
+================================
+
+Lors de la scène finale, tout le monde est rassemblé auprès du Trésor, et la bande son finale est lancée ; le cromlech se met à crépiter. Environ 30 secondes après le début de la musique, quand la bobine Tesla du cromlech se met à jouer le "Dies Irae", le Reporter appelle les joueurs à le rejoindre à **gauche** du cromlech pour aider Andrea : par amitié pour Andrea, vous le suivez, réalisez avec lui le **"signe des centurions"** (bras croisés sur la poitrine), et encouragez les joueurs à vous rejoindre.
+
+**Slogan à répéter avec votre camp jusqu'à la fin de la musique : "Par la Gloire de Jupiter".**
+
+
 {% include "characters/_instructions_for_npc_actors_fr.txt" %}

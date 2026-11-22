@@ -62,4 +62,12 @@ You will be questioned four times, by four different groups of detectives; betwe
 - **4th interview**: you try to contribute your historical and mythological knowledge to help the players; but halfway through the interview, you start to ramble (see the instructions for all NPC actors).
 
 
+Your role in the ending
+================================
+
+During the final scene, everyone is gathered at the Treasure, and the final soundtrack is started; the cromlech begins to crackle. About 30 seconds after the music starts, when the cromlech's Tesla coil starts playing the "Dies Irae", the Reporter calls on the players to join him on the **left** of the cromlech to help Andrea: out of friendship for Andrea, you follow him, make the **"Centurions' Sign"** with him (arms crossed over the chest), and encourage the players to join you.
+
+**Slogan to repeat with your camp until the end of the music: "By the Glory of Jupiter".**
+
+
 {% include "characters/_instructions_for_npc_actors_en.txt" %}

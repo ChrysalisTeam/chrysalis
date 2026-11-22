@@ -9,7 +9,7 @@ NPC ACTORS' Briefing
 
 - Explain the appearance of ANDREA, the Hero (see the GM manual), so that they all describe him in the same way
 - Explain the rotation order of the player groups
-- Remind each of them of their attitude over the interviews (see their sheets)
+- Remind each of them of their attitude over the interviews, and of their role in the final scene: side, sign, slogan and cue (see their sheets)
 - Explain the end-of-interview GONG
 - Explain where to take them between each session
 

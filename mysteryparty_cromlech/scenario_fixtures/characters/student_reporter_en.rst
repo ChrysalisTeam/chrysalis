@@ -10,7 +10,7 @@ You immediately became a devotee of the **library-museum called the Cromlech**, 
 
 There, you befriended another student, **Andrea, who arrived {% symbol "three months" for "hero_arrival_delay" %} ago**. Officially, he was here to prepare his thesis defence in Greco-Roman History. But he soon confessed to you that he had in fact interrupted his studies in international law to investigate an ancient historical enigma, concerning the last Gaulish rebels surrounded by the conquering armies of Julius Caesar. This choice of his had, moreover, triggered a lasting fury in his mother, an **Italian diplomat** posted to France.
 
-You got caught up in the game, and followed, advised and helped Andrea as he investigated the origins and artefacts of the Cromlech. He taught you a **simple code** so that you could pass messages to each other via the library, if need be. He also showed you the **"Centurions' Sign", arms crossed over the chest**, assuring you that it would be of use to you when the time came. {% xfact "le héros et le reporter ont un langage codé commun" %} {% xfact "le reporter connait le signe des centurions" as author %}
+You got caught up in the game, and followed, advised and helped Andrea as he investigated the origins and artefacts of the Cromlech. He taught you a **simple code** so that you could pass messages to each other via the library, if need be. He also showed you the **"Centurions' Sign", arms crossed over the chest**, assuring you that it would be of use to you when the time came (see below). {% xfact "le héros et le reporter ont un langage codé commun" %} {% xfact "le reporter connait le signe des centurions" as author %}
 
 Throwing all caution to the wind, you used your contacts to have a **gladius** from the Cromlech collection, "borrowed" by Andrea, analysed in the middle of the night, **{% symbol "one month" for "ancient_sword_analysis_delay" %}** ago. But the game was worth the candle: not only did the museum notice nothing, but the gladius turned out to be an exceptional piece, and not a "replica" as that pedant of a Cromlech Curator claims.
 
@@ -54,6 +54,14 @@ You will be questioned four times, by four different groups of detectives; betwe
 - **2nd interview**: the police have got wind of the nocturnal analysis of a gladius; put on the spot over this illicit analysis, but not thrown off balance, you admit you helped Andrea carry it out, but insist that this is not the priority right now.
 - **3rd interview**: the police have found a "farewell letter" from Andrea; you do not believe for a moment that it is genuine.
 - **4th interview**: you raise the alarm: "Andrea is in danger in another world, we must help him!"; but halfway through the interview, you start to ramble (see the instructions for all NPC actors).
+
+
+Your role in the ending
+================================
+
+During the final scene, everyone is gathered at the Treasure, and the final soundtrack is started; the cromlech begins to crackle. About 30 seconds after the music starts, when the cromlech's Tesla coil starts playing the "Dies Irae", you call on the players to join you on the **left** of the cromlech, and to make the **"Centurions' Sign"** with you (arms crossed over the chest), to help Andrea in his fight. The Guide follows you.
+
+**Slogan to repeat with your camp until the end of the music: "By the Glory of Jupiter".**
 
 
 {% include "characters/_instructions_for_npc_actors_en.txt" %}

@@ -9,7 +9,7 @@ Briefing des FIGURANTS
 
 - Expliquer l'apparence d'ANDREA, le Héros (voir le manuel du MJ), pour que tous le décrivent de la même façon
 - Expliquer l'ordre de rotation des groupes de joueurs
-- Rappeler à chacun son attitude au fil des entretiens (voir leurs fiches)
+- Rappeler à chacun son attitude au fil des entretiens, et son rôle dans la scène finale : camp, signe, slogan et moment où il intervient (voir leurs fiches)
 - Expliquer le GONG de fin d'interrogatoire
 - Expliquer où les amener entre chaque séance
 

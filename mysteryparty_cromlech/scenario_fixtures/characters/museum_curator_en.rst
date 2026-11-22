@@ -109,4 +109,12 @@ You will be questioned four times, by four different groups of detectives; betwe
 - **4th interview**: you raise the alarm: "the artefacts must be left alone, and Andrea must be stopped from hijacking them for his own benefit!"; but halfway through the interview, you start to ramble (see the instructions for all NPC actors).
 
 
+Your role in the ending
+================================
+
+During the final scene, everyone is gathered at the Treasure, and the final soundtrack is started; the cromlech begins to crackle. About a dozen seconds after the Reporter has called the players to the left of the cromlech, when the Tesla coil takes up the "Dies Irae" again, the Druid urges the players to join him on the **right** of the cromlech: you follow him, make the **"Druids' Sign"** with him (forming a menhir shape with the arms and hands), and encourage the players to join you, so that the divine entity can be born.
+
+**Slogan to repeat with your camp until the end of the music: "By the Might of {% symbol "Toutatis" for "bloodthirsty_god_name" %}".**
+
+
 {% include "characters/_instructions_for_npc_actors_en.txt" %}
