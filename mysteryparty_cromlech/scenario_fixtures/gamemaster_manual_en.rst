@@ -58,7 +58,7 @@ All the while, disturbing phenomena begin to manifest (sounds, lights...). For t
 
 A Druid's spectre appears to some of the players (the psykers) to turn them against the Hero, lying about the ongoing gestation - which has in fact become irreversibly uncontrollable and demonic.
 
-There are two different endings, depending on whether the majority of players side with the Reporter (in favour of the Hero), or with the Curator (in favour of the Druid and the Monster):
+There are two different endings, depending on whether the majority of players side with the Reporter (in favour of the Hero), or with the Curator (in favour of the Druid and the Monster); the "Game Flow" sheet gives the rule for counting the two camps during the final scene, and Andrea's two closing speeches:
 
 - Either the Hero slays the gestating beast and returns to the world of the living; the world is then saved.
 - Or the Hero fails, flees, and natural disasters (of demonic origin) then rain down on Rome and the rest of Italy.
@@ -93,6 +93,9 @@ The Police Inspector
 
 Professor Gustave Bloch, archaeology expert (optional)
     Eccentric, agitated, erudite, sceptical about legends. Posted at the Treasure during the four interviews, he tells the players in detail what is known about the artefacts (relying for this on the document "The Cromlech Treasure"); during the interlude, he gives his History lesson (see the "Game Flow" sheet). If no NPC actor is available for this role, the Treasure works with the document alone, and the GM plays the professor in person for the duration of the lesson (the Inspector having gone off "to fetch him").
+
+{% symbol "Andrea di Revel" for "hero_name" %}, the Hero (final appearance)
+    A 20-year-old young Italian, passionate, feverish, brave. He only appears at the very end of the final scene, to announce the ending (see the "Game Flow" sheet). He is played by an extra NPC actor, who stays hidden until then, or failing that by Professor Bloch's actor, who changes costume during the final huddles. His appearance is to be described to the other NPC actors during their briefing, so that they all describe him in the same way to the players (to be adapted to his actor): slim, brown hair, elegant student clothes (waistcoat, white shirt), a bracelet adorned with old Celtic symbols on his wrist, a slight Italian accent, left-handed. For his final appearance: a torn shirt stained with blood at the belly, a blackened face, and the Roman gladius in hand if he is victorious.
 
 
 Description of the Museum Treasure

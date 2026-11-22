@@ -58,7 +58,7 @@ Pendant tout ce temps, des phénomènes inquiétants commencent à se manifester
 
 Un spectre de Druide se manifeste auprès de certains joueurs (les psykers) pour les monter contre le Héros, en mentant sur la gestation en cours - qui est en réalité devenue irrémédiablement incontrôlable et démoniaque.
 
-Il existe deux fins différentes, suivant que les joueurs prennent majoritairement parti pour le Reporter (en faveur du Héros), ou pour le Conservateur (en faveur du Druide et du Monstre) :
+Il existe deux fins différentes, suivant que les joueurs prennent majoritairement parti pour le Reporter (en faveur du Héros), ou pour le Conservateur (en faveur du Druide et du Monstre) ; la fiche "Déroulement du jeu" donne la règle de décompte des deux camps lors de la scène finale, et les deux discours de conclusion d'Andrea :
 
 - Soit le héros terrasse la bête en gestation et revient dans le monde des vivants ; le monde est alors sauvé.
 - Soit le Héros échoue, s'enfuit, et des catastrophes naturelles (d'origine démoniaque) se déversent alors sur Rome et le reste de l'Italie.
@@ -93,6 +93,9 @@ L'inspecteur.trice de police
 
 Le professeur Gustave Bloch, expert en archéologie (facultatif)
     Excentrique, agité, érudit, sceptique envers les légendes. Posté au Trésor pendant les quatre entretiens, il détaille aux joueurs ce que l'on sait des artefacts (il s'appuie pour cela sur le document "Le Trésor du Cromlech") ; pendant l'interlude, il donne sa leçon d'Histoire (voir la fiche "Déroulement du jeu"). S'il n'y a pas de figurant pour ce rôle, le Trésor fonctionne avec le seul document, et le MJ joue lui-même le professeur le temps de la leçon (l'inspecteur étant parti "le chercher").
+
+{% symbol "Andrea di Revel" for "nom_du_héros" %}, le Héros (apparition finale)
+    Jeune Italien de 20 ans, passionné, fébrile, courageux. Il n'apparaît qu'à la toute fin de la scène finale, pour annoncer le dénouement (voir la fiche "Déroulement du jeu"). Il est joué par un figurant supplémentaire, qui reste caché jusque-là, ou à défaut par l'interprète du professeur Bloch, qui change de costume pendant les conciliabules finaux. Son apparence est à décrire aux autres figurants lors de leur briefing, afin que tous le décrivent de la même façon aux joueurs (à adapter à son interprète) : mince, cheveux bruns, tenue d'étudiant élégante (gilet, chemise blanche), bracelet orné de vieux symboles celtes au poignet, léger accent italien, gaucher. Pour son apparition finale : chemise déchirée et tachée de sang au ventre, visage noirci, et le glaive romain à la main s'il est victorieux.
 
 
 Description du trésor du musée

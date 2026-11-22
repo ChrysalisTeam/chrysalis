@@ -7,7 +7,7 @@ NPC ACTORS' Briefing
 
 **IMPORTANT:**
 
-- Explain the appearance of ANDREA, the Hero
+- Explain the appearance of ANDREA, the Hero (see the GM manual), so that they all describe him in the same way
 - Explain the rotation order of the player groups
 - Explain the end-of-interview GONG
 - Explain where to take them between each session
@@ -201,8 +201,21 @@ Final Scene
 - 12 s later, when the Tesla coil takes up the "Dies Irae" again, it is the turn of the **Druid** (now in broken English), followed by the **Curator**, to urge the players to join him on the **right** of the cromlech, and to make the "Druids' Sign" with him (forming a menhir shape with the arms and hands) to save the Druids' Last Wish. The zombie psykers follow his orders. **Slogan to repeat: "By the Might of Toutatis".**
 - The cromlech calms down but the music goes on; both camps must keep up their slogans.
 - The Inspector urges the undecided players to choose their side, because **"remaining impassive in such situations of danger is a crime"**.
-- At the end of the music, Andrea appears; he explains the **ending (his victory or his defeat)** and what it means for the World.
+- At the end of the music, the GM counts the players in each camp (see below), then discreetly signals the outcome to Andrea's actor, hidden near the Treasure Room (thumb up: victory; thumb down: defeat).
+- Andrea appears; he explains the **ending (his victory or his defeat)** and what it means for the World (see below). {% xitem "costume d'Andrea pour son apparition finale" is needed %}
 - Announce the END OF GAME!
+
+**Counting the camps:** only the players count, not the NPC actors. The Hero's camp gathers the players standing on the left of the cromlech, making the Centurions' Sign; the Druid's camp, those standing on the right, making the Druids' Sign, zombie psykers included. The undecided who stayed aside do not count. If the Hero's camp is strictly the larger one, Andrea comes back victorious; otherwise (a majority on the right, or a tie), he has failed.
+
+**If Andrea is victorious** (he enters, staggering but beaming, the Roman gladius in hand; the Druid lets out a long scream and flees, the psykers come out of their trance): {% xitem "glaive romain pour l'apparition finale d'Andrea" is needed %}
+
+    "My friends... it is over. Thanks to you, thanks to the Centurions' Sign, I held fast. What was growing behind that door was not the soul of the Gauls: it was the warrior of {% symbol "Toutatis" for "bloodthirsty_god_name" %}, a bloodthirsty beast, fed for two thousand years by those accursed rituals and by your dreams, and whose wrath was already making Italy tremble. I slew it with this gladius, the very one a legionary carried at Uxellodunum. The portal is closed: Rome will tremble no more. *(Turning to the Curator.)* As for you, du Guesclin... I believe the Inspector has a few questions for you."
+
+**If Andrea is defeated** (he staggers in, empty-handed, with a haggard look):
+
+    "I... I could not. It was too strong: every one of your signs, there, on the right, fed it. The Beast is born. It was no benevolent deity: it is the warrior of {% symbol "Toutatis" for "bloodthirsty_god_name" %}, and it wants nothing but blood. It tore the gladius from me, and it is already marching on Rome, to avenge Uxellodunum, as the druids wished. Can you hear it? The earth is shaking over there, the volcanoes of Italy are awakening... *(He collapses.)* Warn my mother... have Rome evacuated..."
+
+    The Druid, triumphant, in broken English: "The Druids' Last Wish... is granted!"
 
 
 Debriefing

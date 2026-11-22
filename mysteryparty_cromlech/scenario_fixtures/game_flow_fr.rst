@@ -7,7 +7,7 @@ Briefing des FIGURANTS
 
 **IMPORTANT :**
 
-- Expliquer l'apparence d'ANDREA, le Héros
+- Expliquer l'apparence d'ANDREA, le Héros (voir le manuel du MJ), pour que tous le décrivent de la même façon
 - Expliquer l'ordre de rotation des groupes de joueurs
 - Expliquer le GONG de fin d'interrogatoire
 - Expliquer où les amener entre chaque séance
@@ -201,8 +201,21 @@ Scène finale
 - 12s plus tard, à la reprise du "Dies Irae" par la bobine Tesla, c'est au tour du **Druide** (en français approximatif désormais), suivi par le **Conservateur**, à exhorter les joueurs à le rejoindre à **droite** du Cromlech, et à réaliser le "signe des druides" avec lui (réaliser une forme de menhir avec les bras et les mains) pour sauver le dernier voeu des druides. Les psyckers zombies suivent ses ordres. **Slogan à répéter : "Par la Force de Toutatis".**
 - Le Cromlech se calme mais la musique continue, les deux camps doivent continuer leurs slogans.
 - L'inspecteur exhorte les joueurs indécis à choisir leur camp, car **"rester impassible en de telles situations de danger est un crime"**.
-- À la fin de la musique, Andrea apparait, il explique le **dénouement (sa victoire ou sa défaite)** et ce que cela signifie pour le Monde.
+- À la fin de la musique, le MJ compte les joueurs de chaque camp (voir ci-dessous), puis fait discrètement signe à l'interprète d'Andrea, caché près de la salle du Trésor (pouce levé : victoire ; pouce baissé : défaite).
+- Andrea apparaît, il explique le **dénouement (sa victoire ou sa défaite)** et ce que cela signifie pour le Monde (voir ci-dessous). {% xitem "costume d'Andrea pour son apparition finale" is needed %}
 - Annonce de la FIN DU JEU !
+
+**Décompte des camps :** seuls les joueurs comptent, pas les figurants. Le camp du Héros réunit les joueurs placés à gauche du Cromlech, qui font le signe des centurions ; le camp du Druide, ceux placés à droite, qui font le signe des druides, psykers zombies compris. Les indécis restés à l'écart ne comptent pas. Si le camp du Héros est strictement le plus nombreux, Andrea revient victorieux ; sinon (majorité à droite, ou égalité), il a échoué.
+
+**Si Andrea est victorieux** (il entre, chancelant mais radieux, le glaive romain à la main ; le Druide pousse un long cri et s'enfuit, les psykers sortent de leur transe) : {% xitem "glaive romain pour l'apparition finale d'Andrea" is needed %}
+
+    "Mes amis... c'est fini. Grâce à vous, grâce au signe des centurions, j'ai tenu bon. Ce qui grandissait derrière cette porte n'était pas l'âme des Gaulois : c'était le guerrier de {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, une bête assoiffée de sang, nourrie depuis deux mille ans par ces maudits rituels et par vos rêves, et dont la colère faisait déjà trembler l'Italie. Je l'ai terrassée avec ce glaive, celui-là même qu'un légionnaire portait à Uxellodunum. Le portail est refermé : Rome ne tremblera plus. *(Se tournant vers le Conservateur.)* Quant à vous, du Guesclin... je crois que l'inspecteur a quelques questions à vous poser."
+
+**Si Andrea est vaincu** (il entre en titubant, les mains vides, le regard hagard) :
+
+    "Je... je n'ai pas pu. Elle était trop forte : chacun de vos signes, là, à droite, la nourrissait. La Bête est née. Ce n'était pas une divinité bienfaisante : c'est le guerrier de {% symbol "Toutatis" for "nom_du_dieu_sanguinaire" %}, et il ne veut que du sang. Il m'a arraché le glaive, et il marche déjà vers Rome, pour venger Uxellodunum, comme les druides l'avaient voulu. Entendez-vous ? La terre tremble là-bas, les volcans d'Italie s'éveillent... *(Il s'effondre.)* Prévenez ma mère... qu'on évacue Rome..."
+
+    Le Druide, triomphant, en français approximatif : "Le Dernier Vœu des Druides... est exaucé !"
 
 
 Debriefing
