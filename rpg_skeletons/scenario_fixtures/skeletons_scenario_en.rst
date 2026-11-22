@@ -446,6 +446,8 @@ Day 3 - nightfall
 Possible endings
 ========================
 
+*Reminder: too far from the tree of life (beyond the muskrat nest), the carcasses fall apart; for any distant departure (sailing boat, teleportation, Zeppelin), they must therefore take the tree of life with them, and a necromancer must feed it with his blood every moon (without a necromancer, it withers at the next moon, hence CONRAD's request to "find a way to stay alive"). SAPHIR's medallion teleports 100 kg at most: SAPHIR (about 45 kg), the tree of life (about ten kilos) and the three carcasses with their helms (about fifteen kilos each) just fit, without weapons or luggage.*
+
 - Turn Foulques into an abomination, or set off in search of another necromancer?
 - Go and negotiate, putting ALPHA (Brunissende) forward as the legitimate heir to the vacant throne?
 - All leave by sailing boat, before the soldiers reach the edge of the cliff? Possibly towards the island of the half-Atlanteans found by Magus Parcival?

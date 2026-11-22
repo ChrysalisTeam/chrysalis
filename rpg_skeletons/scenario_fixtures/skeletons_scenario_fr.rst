@@ -446,6 +446,8 @@ Jour 3 - nuit tombée
 Dénouements possibles
 ========================
 
+*Rappel : trop loin de l'arbre de vie (au-delà du nid des rats musqués), les carcasses se désagrègent ; pour tout départ lointain (voilier, téléportation, Zeppelin), elles doivent donc emporter l'arbre de vie, qu'un nécromancien doit nourrir de son sang à chaque lune (sans nécromancien, il dépérit à la lune suivante, d'où la demande de CONRAD de "trouver une solution pour rester en vie"). Le médaillon de SAPHIR téléporte 100 kg au maximum : SAPHIR (environ 45 kg), l'arbre de vie (une dizaine de kilos) et les trois carcasses avec leurs heaumes (une quinzaine de kilos chacune) tiennent tout juste, sans armes ni bagages.*
+
 - Transformer FOULQUES en abomination, ou partir en recherche d'un autre nécromancien ?
 - Aller négocier avec ALPHA (Brunissende) en tant qu'héritière légitime du trône vacant ?
 - Partir tous en voilier, avant que les militaires n'arrivent au bord de la falaise ? Possiblement vers l'île des semi-atlantes trouvée par le mage Parcival ?
