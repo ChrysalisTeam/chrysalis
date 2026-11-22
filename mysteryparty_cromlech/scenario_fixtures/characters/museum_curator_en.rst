@@ -34,7 +34,7 @@ As you spied on Andrea and his historical-esoteric research, old fears gripped y
 
 What abominable prophecy, then, was in the process of coming true? Your great hope, in truth, was that this process, initiated 2 millennia ago, would only come to an end after your own generation. To each their own problems, after all.
 
-Note: some key clues relating to this curse are in old nested chests in the Treasure Room; over time, these objects have also become bound to the magic ritual, so you could not remove them; but you have hidden their codes in your office. {% xfact "le conservateur connait les codes des coffrets de la salle au trésor" as author %}
+Note: some key clues relating to this curse are in old nested chests in the Treasure Room; over time, these objects have also become bound to the magic ritual, so you could not remove them; but you have kept a way of recovering their codes. That of the wooden chest's padlock, {% symbol "2681" for "wooden_chest_code" %}, is your year of birth (1862) reversed: a piece of paper hidden in the lining of your wallet reminds you of it (*"clue: birth year reversed"*). The cryptex password, *"{% symbol "secret" for "cryptex_code" %}"*, is engraved on the censer kept in your office. {% xfact "le conservateur connait les codes des coffrets de la salle au trésor" as author %}
 
 
 The Day of the Tragedy

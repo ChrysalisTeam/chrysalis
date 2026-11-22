@@ -34,7 +34,7 @@ En espionnant Andrea et ses recherches historico-ésotériques, de vieilles crai
 
 Quelle abominable prophétie était donc en cours de réalisation ? Votre grand espoir, en réalité, c'était que ce processus, initié il y a 2 millénaires, ne se termine qu'après votre propre génération. À chacun ses problèmes, quoi.
 
-Note : certains indices-clés relatifs à cette malédiction sont dans de vieux coffrets imbriqués de la salle du Trésor ; ces objets sont, avec le temps, aussi devenus liés au rituel magique, vous n'avez donc pu les enlever ; mais vous avez caché leurs codes dans votre bureau. {% xfact "le conservateur connait les codes des coffrets de la salle au trésor" as author %}
+Note : certains indices-clés relatifs à cette malédiction sont dans de vieux coffrets imbriqués de la salle du Trésor ; ces objets sont, avec le temps, aussi devenus liés au rituel magique, vous n'avez donc pu les enlever ; mais vous avez gardé de quoi retrouver leurs codes. Celui du cadenas du coffre en bois, {% symbol "2681" for "code_du_coffre_en_bois" %}, est votre année de naissance (1862) renversée : un papier caché dans la doublure de votre portefeuille vous le rappelle (*"indice : année de naissance renversée"*). Le mot de passe du cryptex, *"{% symbol "secret" for "code_du_cryptex" %}"*, est gravé sur l'encensoir rangé dans votre bureau. {% xfact "le conservateur connait les codes des coffrets de la salle au trésor" as author %}
 
 
 Le jour du drame
