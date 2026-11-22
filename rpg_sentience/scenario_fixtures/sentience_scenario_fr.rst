@@ -95,7 +95,7 @@ Le fond secret de l'affaire (pour le maître de jeu)
 
 Depuis quelques années, l’industrialisation du monde s'accélère, et parmi les nouvelles ressources prisées, on trouve l'huile de roche, mais aussi les **cristaux sulfureux** (jaunâtres), qui se minent souvent dans des massifs rocheux de couleur bleutée. Un de ces massifs se trouve dans la forêt de Séléné.
 
-**Honoré des Hautvents**, bourgmestre du village depuis 30 ans, commence à regretter le pacte qu'il a conclu avec la forêt. Il pourrait devenir riche en laissant une corporation comme la **Compagnie des Rocheuses** exploiter les richesses minières des lieux. Il commence donc à discuter, avec son entourage proche, d'un moyen de se débarrasser de l'alchimiste Séléné, et ainsi mettre un terme au Pacte de Sang.
+**Honoré des Hautvents**, bourgmestre du village depuis 30 ans, commence à regretter le pacte qu'il a conclu avec la forêt. Il pourrait devenir riche en laissant une corporation minière, la **Compagnie des Rocheuses** (concurrente de la Société Minéralys), exploiter les richesses minières des lieux. Il commence donc à discuter, avec son entourage proche, d'un moyen de se débarrasser de l'alchimiste Séléné, et ainsi mettre un terme au Pacte de Sang.
 
 Cet entourage proche est composé de 2 personnes : **Fénelon, notaire** du village et partenaire de tous les coups fourrés. Et **Joséphine des Hautvents, la fille unique du bourgmestre**, venue se ressourcer au village il y a quelques mois, après un beau début de carrière dans l'administration d'une société de transport ferré.
 
@@ -112,7 +112,7 @@ Là, Abélard enfonce la porte de la tour de Séléné, et l'assassine. C'est à
 
 °
 
-**Le vrai fond de l'affaire** : en réalité, Joséphine des Hautvents déteste son père autoritaire, castrateur, qui n'a jamais cru en elle, et a même tenté de la marier de force avant qu'elle ne s'enfuie vers la grande ville. Sans surprise, lorsqu'elle revient au pays et évoque la ruée actuelle vers les cristaux sulfureux, le bourgmestre s'approprie cette idée, et elle ne peut jouer son rôle d'apporteuse d'affaire auprès de la **Société Minéralys** qui a des vues sur les gisements de la région.
+**Le vrai fond de l'affaire** : en réalité, Joséphine des Hautvents déteste son père autoritaire, castrateur, qui n'a jamais cru en elle, et a même tenté de la marier de force avant qu'elle ne s'enfuie vers la grande ville. Sans surprise, lorsqu'elle revient au pays et évoque la ruée actuelle vers les cristaux sulfureux, le bourgmestre s'approprie cette idée au profit de la Compagnie des Rocheuses, et elle ne peut jouer son rôle d'apporteuse d'affaire auprès de la **Société Minéralys** qui a des vues sur les gisements de la région.
 
 Elle guide donc, par télégraphe, la Société Minéralys pour qu'une de leurs équipes évalue en secret la qualité des filons rocheux. Mais ces fouilles déclenchent la malédiction du Pacte de Sang : les **3 explorateurs de Minéralys** déclenchent une (rare) explosion sulfureuse, qui fait tomber des rochers sur le village, et aucun d'eux ne revient.
 

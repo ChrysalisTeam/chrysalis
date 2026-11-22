@@ -95,7 +95,7 @@ The Secret Behind the Affair (GM only)
 
 For some years now, the industrialisation of the world has been accelerating, and among the newly prized resources are rock oil, but also (yellowish) **sulphur crystals**, which are often mined in bluish-coloured rock massifs. One of these massifs lies in Selene's forest.
 
-**Honore des Hautvents**, burgomaster of the village for 30 years, is beginning to regret the pact he made with the forest. He could become rich by letting a corporation such as the **Rockies Company** exploit the mineral wealth of the place. He therefore begins to discuss, with his close circle, a way of getting rid of the alchemist Selene, and thus putting an end to the Blood Pact.
+**Honore des Hautvents**, burgomaster of the village for 30 years, is beginning to regret the pact he made with the forest. He could become rich by letting a mining corporation, the **Rockies Company** (a rival of the Mineralys Company), exploit the mineral wealth of the place. He therefore begins to discuss, with his close circle, a way of getting rid of the alchemist Selene, and thus putting an end to the Blood Pact.
 
 This close circle is made up of 2 people: **Fenelon, the notary** of the village and partner in all dirty tricks. And **Josephine des Hautvents, the burgomaster's only daughter**, who came back to the village to recharge her batteries a few months ago, after a fine start to her career in the administration of a railway transport company.
 
@@ -112,7 +112,7 @@ There, Abelard breaks down the door of Selene's tower, and murders her. This is 
 
 °
 
-**The Real Truth of the Matter**: in reality, Josephine des Hautvents hates her authoritarian, emasculating father, who never believed in her, and even tried to marry her off by force before she fled to the big city. Unsurprisingly, when she comes back home and brings up the current rush for sulphur crystals, the burgomaster appropriates this idea, and she cannot play her role as business introducer for the **Mineralys Company**, which has designs on the region's deposits.
+**The Real Truth of the Matter**: in reality, Josephine des Hautvents hates her authoritarian, emasculating father, who never believed in her, and even tried to marry her off by force before she fled to the big city. Unsurprisingly, when she comes back home and brings up the current rush for sulphur crystals, the burgomaster appropriates this idea for the benefit of the Rockies Company, and she cannot play her role as business introducer for the **Mineralys Company**, which has designs on the region's deposits.
 
 She therefore guides the Mineralys Company, by telegraph, so that one of their teams secretly assesses the quality of the rock seams. But these diggings trigger the curse of the Blood Pact: the **3 Mineralys explorers** set off a (rare) sulphur explosion, which brings rocks down on the village, and none of them returns.
 
