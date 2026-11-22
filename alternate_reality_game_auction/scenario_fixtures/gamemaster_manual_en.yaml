@@ -823,7 +823,7 @@ gamemaster_manual:
 
           - **by solving the riddle of the "filter of the doctrine"**
 
-            - the sacred book found in the temple, which the archaeologist deciphered, indicates that Bartzar's secret will only be uncovered when the light of the Faith passes through the filter of the Doctrine. The players will then have to understand that, among the "minor" items put up for auction, the lantern (nicknamed "Light of the Faithful") and the metal grate (nicknamed "Filter of Orthodoxy") play a special role.
+            - a runic engraving reconstructed on one of the vandalised walls of the temple, which Prof. Loakim's department deciphered and which Loyd Georges passes on to his guests (email template "info_nazur_temple_investigations"), indicates that the hidden prophecies will be revealed when the light of the Faith is filtered by the Doctrine. The players will then have to understand that, among the "minor" items put up for auction, the lantern (nicknamed "Light of the Faithful") and the metal grate (nicknamed "Filter of Orthodoxy") play a special role.
             - A cunning player must therefore manage to acquire both, and from Loyd Georges' exploration notes, reconstruct exactly where in the temple these elements were to be positioned (the lantern in the well, and the grate over it). They will then have to fund a commando operation to return to the Temple of Nazur (flooded in the meantime by somewhat overzealous faithful), and see what the projection of the grate's patterns onto the ceiling of the temple gives. This operation will point to runes engraved in the wall, and the translation of these runes will rather directly reveal the presence of the orb in the salt sea of Blassow.
 
         - whatever the path taken to reach the Endara-Blassow salt sea, there will remain the laborious task of finding where exactly, in this vast expanse, the buried purple orb lies. There will potentially be stiff competition between secret service commandos, crowds of Akarith faithful, and a teleported Paladium operation. The commandos would take a very long time to sweep the area with a hand-held detector, the Akariths would take much less time to comb it thanks to their numbers; as for the Paladium, it would only act at a specific point, if its World Scan (run on a very typical Akarith religious item) has revealed a particular "resonance point" in this area (thus indicating the pile of artefacts buried with the orb).
@@ -1765,7 +1765,7 @@ gamemaster_manual:
 
         - [beta] send the email from LG in which he gives a clue about the names of his pets
 
-        - [beta] send an email from Loakim mentioning the iron grate "filter of the doctrine"
+        - [beta] send Loyd Georges' email passing on the runic engraving about the light of faith filtered by doctrine (template "info_nazur_temple_investigations")
 
         - [salima] message from Loyd Georges to Sir Ademar of Salima, about his cane forgotten at his home
 

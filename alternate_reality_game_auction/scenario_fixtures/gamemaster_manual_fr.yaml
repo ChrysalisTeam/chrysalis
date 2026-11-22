@@ -823,7 +823,7 @@ gamemaster_manual:
 
           - **par résolution de l'énigme du "filtre de la doctrine"**
 
-            - le livre sacré trouvé dans le temple, et que l'archéologue a déchiffré, indique que le secret de Bartzar ne sera percé que lorsque la lumière de la Foi passera à travers le filtre de la Doctrine. Les joueurs devront alors comprendre que, parmi les objets "mineurs" mis aux enchères, la lanterne (surnommée "Lumière des fidèles") et la grille métallique (surnommée "Filtre de l'Orthodoxie") jouent un rôle à part.
+            - une gravure runique reconstituée sur l'un des murs vandalisés du temple, que le service du Pr Loakim a déchiffrée et que Loyd Georges relaie à ses invités (modèle d'email "info_nazur_temple_investigations"), indique que les prophéties cachées seront révélées lorsque la lumière de la Foi sera filtrée par la Doctrine. Les joueurs devront alors comprendre que, parmi les objets "mineurs" mis aux enchères, la lanterne (surnommée "Lumière des fidèles") et la grille métallique (surnommée "Filtre de l'Orthodoxie") jouent un rôle à part.
             - Un joueur rusé doit donc réussir à acquérir les deux, et à partir des notes d'exploration de Loyd Georges, reconstituer à quels emplacements exactement ces éléments devaient être positionnés dans le temple (la lanterne dans le puits, et la grille par-dessus). Il devra alors financer une opération commando pour retourner dans le temple de Nazur (entre-temps inondé par des fidèles un peu trop zélés), et voir ce que donne la projection des motifs de la grille sur le plafond du temple. Cette opération pointera des runes gravées dans la paroi, et la traduction de ces runes donnera sous forme assez directe la présence de l'orbe dans la mer de sel de Blassow.
 
         - quel que soit le chemin pris pour arriver dans la mer de sel d'Endara-Blassow, il restera la laborieuse tâche de trouver, où exactement dans cette vaste étendue, se trouve l'orbe violet enterré. On aura potentiellement dans une ferme concurrence entre commandos des services secrets, foules de fidèles akarites, et opération téléportée du Paladium. Les commandos mettraient un très long moment à passer au détecteur manuel la zone, les akarites mettraient beaucoup moins de temps à la ratisser grâce à leur nombre, quant au Paladium, il n'agirait que ponctuellement, si son "scan mondial" (effectué sur un objet religieux très typique des akarites) a révélé un "point de résonance" particulier dans cette zone (indiquant ainsi le tas d'artefacts enterrés avec l'orbe).
@@ -1765,7 +1765,7 @@ gamemaster_manual:
 
         - [beta] envoyer l'email de LG où il donne un indice sur les noms de ses animaux
 
-        - [beta] envoyer un email de Loakim évoquant la grille en fer "filtre de la doctrine"
+        - [beta] envoyer l'email de Loyd Georges relayant la gravure runique sur la lumière de la foi filtrée par la doctrine (modèle "info_nazur_temple_investigations")
 
         - [salima] message de Loyd Georges à Sir Adémar de Salima, à propos de sa canne oubliée chez lui
 
