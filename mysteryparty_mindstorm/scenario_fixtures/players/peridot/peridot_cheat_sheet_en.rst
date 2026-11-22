@@ -5,7 +5,7 @@
 =============================================================
 
 - get your hands on Loyd Georges' orb {% xfact 'agent_mission_seek_lg_orb' %}
-- obtain a lease for the tar sands deposit {% xfact 'agent_mission_obtain_mining_lease' %}
+- buy the tar sands deposit {% xfact 'agent_mission_obtain_mining_lease' %}
 - convince the Akarith council of the doctrinal purity of the Dorians {% xfact 'agent_mission_transfiliation_attempt' %} {% xfact "peridot_must_answer_akarith_council" as author %}
 
 - your short-term objectives:

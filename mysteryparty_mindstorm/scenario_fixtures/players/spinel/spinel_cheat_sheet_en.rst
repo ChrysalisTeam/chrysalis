@@ -6,7 +6,7 @@
 
 - get your hands on Loyd Georges' orb {% xfact 'agent_mission_seek_lg_orb' %}
 - get your hands on the Panorbium Fortuna {% xfact 'agent_mission_find_panorbium_fortuna' %}
-- obtain a lease for the tar sands deposit {% xfact 'agent_mission_obtain_mining_lease' %}
+- buy the tar sands deposit {% xfact 'agent_mission_obtain_mining_lease' %}
 
 - your short-term objectives:
 

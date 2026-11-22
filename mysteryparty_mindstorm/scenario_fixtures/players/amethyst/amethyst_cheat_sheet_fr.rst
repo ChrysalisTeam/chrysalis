@@ -8,7 +8,7 @@
 {% macro orb_search_short_term_objectives() %}pour l'orbe de Loyd Georges, trouver la réponse à sa question secrète ("{{ character_properties['loyd.georges'].secret_question }}"), et acquérir des artefacts se prêtant bien à une géolocalisation par scanner mondial{% endmacro %}
 
 - mettre la main sur l'orbe de Loyd Georges {% xfact 'agent_mission_seek_lg_orb' %}
-- obtenir un bail pour le gisement de sables bitumineux {% xfact 'agent_mission_obtain_mining_lease' %}
+- acheter le gisement de sables bitumineux {% xfact 'agent_mission_obtain_mining_lease' %}
 
 - récupérer auprès des obérons les rapports sur l'équilibre des forces militaires en Midolie, les authentifier, nous les transmettre, puis rester en alerte sur tout ce qui concerne ce sujet {% xfact 'agent_mission_study_midolian_armies_balance' %} {% xitem "heliossar_spy_reports_on_akaris_armament" is needed %}
 

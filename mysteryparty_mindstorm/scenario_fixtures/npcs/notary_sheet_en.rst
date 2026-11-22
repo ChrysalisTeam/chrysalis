@@ -17,7 +17,7 @@ After the first series of sales (fairly ordinary artefacts and gems to begin wit
 
 - you must read in private, with him, the **draft of his will**, which he keeps in his safe. You are carrying various copies of his documents, including the said draft. Should anything happen to him, Loyd Georges has asked you to proceed without delay to the reading of his will, so as to preserve the interests of his household.
 
-- you must lend assistance to the **sale of the mining concession** that Lydia will conduct, that is to say let her freely conduct this sale, but make sure beforehand that the potential buyers do have a valid mandate, and remain at her disposal should she need advice. The purchase price must be a multiple of 0.5 megakashes.
+- you must lend assistance to the **sale of the mining deposit** that Lydia will conduct, that is to say let her freely conduct this sale, but make sure beforehand that the potential buyers do have a valid mandate, and remain at her disposal should she need advice. The purchase price must be a multiple of 0.5 megakashes.
 
 
 {% macro sabarim_notable_has_no_body_search() %}
