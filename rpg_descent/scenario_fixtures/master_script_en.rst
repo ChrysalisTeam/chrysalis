@@ -268,7 +268,7 @@ Yodic Temple Cavern
 Main Hall of the Pre-Yodic Temple
 ---------------------------------------------
 
-**The central ark** is empty, but typical of a monotheistic religion predating Yodism; the Akariths consider it a respectable, but now obsolete, precursor. It is possible to try to detach and bring back the ark, but it is long and difficult (requires **4 porters** minimum).
+**The central ark** is empty, but typical of a monotheistic religion predating Yodism; the Akariths consider it a respectable, but now obsolete, precursor. It is possible to try to detach and bring back the ark, but it is long and difficult (requires **4 porters** minimum: the expedition's 2 porters, plus 2 characters).
 
 Tree roots are visible in the ceiling, as in the pagan temple (**8 m** to the surface: although it is at the lowest point of the cave, the hall lies under the foot of the hill, where the rock is thinner than above the pagan temple). Dynamiting the ceiling of this hall is a (very risky) possibility if the players are cornered in the cavern.
 
@@ -419,7 +419,7 @@ The best trick remains to find a closer exit, and to bring the truck up at the l
 - rusty grate (heavy)
 - the rest: bulky objects from the heap, crossentar, sacred scrolls, stone lantern, halberd...
 
-**The stone ark of the Yodic temple** requires twice as many porters and twice as much time to be brought back
+**The stone ark of the Yodic temple** requires twice as many porters (the 2 porters, plus 2 characters) and twice as much time to be brought back
 
 Small items (gems and ingots, Divine Tear...) are carried in the backpacks, without being a hindrance.
 

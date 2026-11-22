@@ -268,7 +268,7 @@ Caverne du temple yodique
 Salle principale du temple pré-yodique
 ---------------------------------------------
 
-**L'arche centrale** est vide, mais typique d'une religion monothéiste antérieure au yodisme ; elle est considérée par les akarites comme un précurseur respectable, mais maintenant obsolète. Il est possible de tenter de décoller et rapporter l'arche, mais c'est long et difficile (nécessite **4 porteurs** minimum).
+**L'arche centrale** est vide, mais typique d'une religion monothéiste antérieure au yodisme ; elle est considérée par les akarites comme un précurseur respectable, mais maintenant obsolète. Il est possible de tenter de décoller et rapporter l'arche, mais c'est long et difficile (nécessite **4 porteurs** minimum : les 2 porteurs de l'expédition, plus 2 personnages).
 
 Des racines d'arbre sont apparentes au plafond, comme pour le temple païen (**8m** jusqu'à la surface : bien qu'elle soit au plus bas de la grotte, la salle se trouve sous le pied de la colline, où la roche est moins épaisse que sous le temple païen). Dynamiter le plafond de cette salle est une possibilité (très risquée) si les joueurs sont acculés dans la caverne.
 
@@ -419,7 +419,7 @@ La meilleure astuce reste de trouver une sortie plus proche, et d'approcher le c
 - grille rouillée (lourde)
 - le reste : objets volumineux de l'amoncellement, crossentar, parchemins sacrés, lanterne de pierre, hallebarde...
 
-**L'arche de pierre du temple yodique** demande deux fois plus de porteurs et de temps pour être ramenée
+**L'arche de pierre du temple yodique** demande deux fois plus de porteurs (les 2 porteurs, plus 2 personnages) et de temps pour être ramenée
 
 Les petits objets (gemmes et lingots, larme divine...) se portent dans les sacs à dos, sans être une gêne.
 
