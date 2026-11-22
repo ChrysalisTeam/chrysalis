@@ -601,7 +601,7 @@ A player can be harmed in the following cases:
 
 - If they touch cursed remains, such as a sounding skull or the bones that go with it: **sacred injury**. {% xfact "cursed_skull_and_bones_give_sacred_injuries" %} A pentacle, for its part, is NOT dangerous, except during a ritual. {% xfact "pentacle_is_not_harmful_oustide_rituals" %}
 
-- If they set off a physical or magical trap, that is to say knock a **jingle bell** to the floor (e.g. a thread stretched across an aisle) or trigger the chirp of a presence-detecting **cicada** (e.g. by opening a chest): **biological injury**.
+- If they set off a physical or magical trap, that is to say knock a **jingle bell** to the floor (e.g. a thread stretched across an aisle) or trigger the chirp of a presence-detecting **cicada** (e.g. by opening a chest), or even a **light flash** (a trap signal announced to the players in their rules): **biological injury**.
  {% xfact "cicada_or_minibell_sound_mean_injury" %}
 
 - If they enter the tomb of the {% symbol "Magus Mos Peratys" for "maupertuis_dynasty_founder" %} without being a Parcival heir, and are touched by the Magus's mummy: **death**. {% xfact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}

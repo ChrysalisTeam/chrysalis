@@ -601,7 +601,7 @@ Un joueur peut être atteint dans les cas suivants :
 
 - S’il touche une dépouille maudite, comme un crâne sonore ou les ossements qui vont avec {% xfact "cursed_skull_and_bones_give_sacred_injuries" %} : **blessure sacrée**. Un pentacle, lui, n'est PAS dangereux, hormis durant un rituel. {% xfact "pentacle_is_not_harmful_oustide_rituals" %}
 
-- S’il déclenche un piège physique ou magique, c'est-à-dire fait tomber un **grelot** par terre (ex. fil tendu dans une allée) ou déclenche le cri d'une **cigale** à détecteur de présence (ex. en ouvrant un coffre) : **blessure biologique**.
+- S’il déclenche un piège physique ou magique, c'est-à-dire fait tomber un **grelot** par terre (ex. fil tendu dans une allée) ou déclenche le cri d'une **cigale** à détecteur de présence (ex. en ouvrant un coffre), voire un **flash lumineux** (signal de piège annoncé aux joueurs dans leurs règles) : **blessure biologique**.
  {% xfact "cicada_or_minibell_sound_mean_injury" %}
 
 - S'il pénètre dans le tombeau du {% symbol "Mage Mos Peratys" for "maupertuis_dynasty_founder" %} sans être un héritier Parcival, et se fait toucher par la momie du mage : **mort**. {% xfact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
