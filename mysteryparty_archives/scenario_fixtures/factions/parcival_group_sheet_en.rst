@@ -24,7 +24,7 @@ Recently, your little sister **{% symbol "Philomene" for "parcival_sick_child_na
 
 So you set off on the trail of the past, to find this fabulous **{% symbol "Rejuvenation Cocktail" for "parcival_disease_main_remedy_name" %}** that had saved your lineage.
 
-The ruins of the Maupertuis manor, unsurprisingly, yielded no secrets. And time was beginning to run out; {% symbol "Philomene" for "parcival_sick_child_name" %} had only a few months left to live.
+The ruins of the Maupertuis manor, unsurprisingly, yielded no secrets. And time was beginning to run out; {% symbol "Philomene" for "parcival_sick_child_name" %} had only a few weeks left to live.
 
 <{ monolith_found_by_explorers }/>
 

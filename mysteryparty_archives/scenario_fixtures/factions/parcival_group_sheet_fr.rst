@@ -24,7 +24,7 @@ Récemment, votre petite sœur **{% symbol "Philomène" for "parcival_sick_child
 
 Vous êtes donc partis sur les traces du passé, pour retrouver ce fabuleux **{% symbol "Cocktail de Réjuvénation" for "parcival_disease_main_remedy_name" %}** qui avait sauvé votre lignée.
 
-Les ruines du manoir des Maupertuis n'ont, sans surprise, livré aucun secret. Et le temps commençait à manquer ; {% symbol "Philomène" for "parcival_sick_child_name" %} n'en avait plus que pour quelques mois à vivre.
+Les ruines du manoir des Maupertuis n'ont, sans surprise, livré aucun secret. Et le temps commençait à manquer ; {% symbol "Philomène" for "parcival_sick_child_name" %} n'en avait plus que pour quelques semaines à vivre.
 
 <{ monolith_found_by_explorers }/>
 
