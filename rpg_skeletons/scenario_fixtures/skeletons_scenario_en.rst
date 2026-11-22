@@ -46,7 +46,7 @@ The other denizens of the keep call them **"the vanguard" or "the dream team"**.
 
   - In reality "Magus Childeric", a necromancer, who became a friend of Magus Parcival (and almost an uncle to SAPHIR)
   - Had set up the defences of the keep
-  - Fights well with a magic gauntlet (initially, can only cast a jet of flame)
+  - Fights well with a magic gauntlet, stored with the quality weapons in the hidden cellar of the guardroom (once recovered, can initially only cast a jet of flame)
   - Senses magical or bewitched artefacts
   - Rather tall and thin (male bones)
 
@@ -136,7 +136,7 @@ Guardroom
 - Other objects: a few small casks of bad beer, minimal furniture, a painting workbench
 - Hidden: a large **bloodstain** high on the wall, which everyone laments not having noticed before ("the princess mustn't see this kind of thing")
 - Hidden: one of the tables is actually CONRAD's **giant cleaver**, covered with a tablecloth and laid on trestles
-- Hidden: quality artefacts and weapons for everyone are in a small **cellar under a rug**; on grabbing them, the carcasses remember their combat skills
+- Hidden: quality artefacts and weapons for everyone (including GAMMA's magic gauntlet) are in a small **cellar under a rug**; on grabbing them, the carcasses remember their combat skills
 
 CONRAD:
 

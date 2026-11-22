@@ -46,7 +46,7 @@ Les autres protagonistes du donjon les appellent **"l'avant-garde" ou "la fine �
 
   - En réalité "le mage Childéric", nécromancien, devenu ami du mage Parcival (et quasi-oncle de SAPHIR)
   - Avait mis en place les défenses du donjon
-  - Sait bien se battre avec un gantelet magique (initialement, sait faire uniquement un jet de flamme)
+  - Sait bien se battre avec un gantelet magique, rangé avec les armes de qualité dans la cave cachée de la salle de garde (une fois récupéré, sait faire initialement uniquement un jet de flamme)
   - Ressent les artefacts magiques ou envoûtés
   - Plutôt grand et mince (ossements masculins)
 
@@ -136,7 +136,7 @@ Salle de garde
 - Autres objets : quelques tonnelets de mauvaise bière, un mobilier minimal, un établi de peinture
 - Caché : une grosse **trace de sang** en hauteur sur le mur, que tous se lamentent de ne pas avoir vu avant ("il ne faut pas que la princesse voie ce genre de choses")
 - Caché : une des tables est en réalité le **hachoir géant** de CONRAD recouvert d'une nappe, posé sur des tréteaux
-- Caché : des artefacts et armes de qualité pour tous sont dans une petite **cave sous un tapis** ; en les saisissant, les carcasses se souviennent de leurs compétences de combat
+- Caché : des artefacts et armes de qualité pour tous (dont le gantelet magique de GAMMA) sont dans une petite **cave sous un tapis** ; en les saisissant, les carcasses se souviennent de leurs compétences de combat
 
 CONRAD :
 
