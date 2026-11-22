@@ -626,6 +626,8 @@ gamemaster_manual:
 
         Pour certains objets illicites (comme la canne volée à Loyd Georges), il est envisageable de complexifier la situation, en faisant que l'académie de Belez se rende compte, après coup, du délit, et sonne l'alerte. Ce serait l'occasion pour les autres joueurs d'être mis au courant de ce qui se passe, et de mettre un peu sous pression le joueur qui est à l'initiative du recel illicite.
 
+        Les rapports d'analyse automatiques ne sont pas encore paramétrés dans cette version du jeu (section "abilities" de la base de données) : le MJ rédige donc lui-même chaque résultat, en s'aidant du modèle d'email prévu pour l'amphore ("biophysics_analysis_amphora"). Pour les autres objets, rester cohérent avec les quêtes : les artefacts "étrangers" du temple de Nazur trahissent des matériaux ou résidus provenant des étapes du retour de Bartzar (Kosalam, Vidastrit, Otzig, Blassow, voir la quête de l'Orbe Beta) ; la canne de LG livre son contenu (voir `La Canne de Loyd Georges`_) ; les gemmes et les orbes ne sont pas analysables.
+
 
         Scan mondial
         ++++++++++++++++++++++++
@@ -635,6 +637,14 @@ gamemaster_manual:
         La précision de cet outil n'est pas chirurgicale (de quelques dizaines de mètres à quelques kilomètres près, selon la distance vis-à-vis du scanner), mais suffisante pour orienter les recherches vers d'anciens sanctuaires yodiques, ou bien la zone de la banque de Salima qui contient le trésor de Loyd Georges.
 
         Par contre, à cause de leur nature très particulière, les orbes ne sont pas analysables de cette façon (sans cela, en trouver une reviendrait à les trouver toutes).
+
+        De même, les jeux de scan automatiques ne sont pas encore paramétrés : le MJ rédige lui-même chaque résultat, en s'aidant des modèles d'emails prévus pour l'amphore et pour le coffret runique ("world_scan_amphora", "world_scan_runic_chest"). Résultats attendus pour les autres demandes clefs :
+
+        - les objets de LG mis aux enchères : la zone de la Banque de Salima qui contient son trésor (voir `Cambriolage de la Banque de Salima`_) ;
+        - un objet religieux très typique des akarites : un "point de résonance" dans la mer de sel de Blassow (quête de l'Orbe Beta) ;
+        - des armes typiques des razulites ou des taranites : le dernier campement taranite dans la jungle (quête de l'Orbe Gamma) ;
+        - le bijou de fiançailles de Cynthia et Waden : la position de Cynthia et de ses ravisseurs (quête de l'Orbe Alpha) ;
+        - toute autre demande : quelques lieux plausibles, ou rien de concluant si l'objet est trop commun.
 
 
         Appel aux fidèles

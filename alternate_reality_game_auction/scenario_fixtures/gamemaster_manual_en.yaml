@@ -626,6 +626,8 @@ gamemaster_manual:
 
         For some illicit items (such as the cane stolen from Loyd Georges), it is conceivable to complicate the situation, by having the Belez Academy realise the offence afterwards, and raise the alarm. This would be an opportunity for the other players to be informed of what is going on, and to put a little pressure on the player behind the illicit receiving.
 
+        The automatic analysis reports are not configured yet in this version of the game ("abilities" section of the database): the GM therefore writes each result themselves, with the help of the email template provided for the amphora ("biophysics_analysis_amphora"). For the other items, stay consistent with the quests: the "foreign" artefacts of the Nazur temple betray materials or residues coming from the stages of Bartzar's journey back (Kosalam, Vidastrit, Otzig, Blassow, see the quest for the Beta Orb); LG's cane yields its contents (see `Loyd Georges' Cane`_); gems and orbs cannot be analysed.
+
 
         World Scan
         ++++++++++++++++++++++++
@@ -635,6 +637,14 @@ gamemaster_manual:
         The precision of this tool is not surgical (from a few tens of metres to a few kilometres, depending on the distance from the scanner), but it is enough to direct the searches towards ancient Yodic sanctuaries, or towards the area of the Bank of Salima which contains Loyd Georges' treasure.
 
         On the other hand, because of their very particular nature, the orbs cannot be analysed this way (otherwise, finding one would amount to finding them all).
+
+        Likewise, the automatic scanning sets are not configured yet: the GM writes each result themselves, with the help of the email templates provided for the amphora and for the runic casket ("world_scan_amphora", "world_scan_runic_chest"). Expected results for the other key requests:
+
+        - LG's auctioned items: the area of the Bank of Salima which holds his treasure (see `Burglary of the Bank of Salima`_);
+        - an item very typical of Akarith religion: a "resonance point" in the salt sea of Blassow (quest for the Beta Orb);
+        - weapons typical of the Razulites or Taranites: the last Taranite camp in the jungle (quest for the Gamma Orb);
+        - Cynthia and Waden's engagement jewel: the position of Cynthia and her kidnappers (quest for the Alpha Orb);
+        - any other request: a few plausible places, or nothing conclusive if the item is too common.
 
 
         Call to the faithful
