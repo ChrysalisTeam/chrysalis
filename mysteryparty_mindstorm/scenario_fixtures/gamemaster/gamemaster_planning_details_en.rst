@@ -64,6 +64,8 @@ Briefings in roleplay mode:
 
 [TEMPORARY] - ADDITIONS TO THE PC/NPC SHEETS:  {# TODO move this to player sheets later #}
 
+- GMs: Malachite's spy recorders; when a player recovers the CHROMIA pen (sold by Alphonse) or the Olympus dictaphone (behind a sofa), and tries to listen to it, give them the matching transcript of the "audio_recordings" document ("Spy pen": Opal and Lydia in the library; "Spy dictaphone": Loyd Georges and Rydji on the sofa), or play them the matching MP3
+
 - GMs and OBERONS: hiring armed mercenaries, for a violent action, costs between 600 and 1,000 kashes (half as much if paid in gems); remember to announce, every 30 min if possible, the unread emails (search for "has_new_messages" in the DB)
 
 - For the NPCs Rydji, Alphonse and Old Neighbour: You are aware of a "BAOBAB" anecdote in the life of the young Loyd Markis (and it reminds you of something displayed on the wall of the reception hall), but you do not know what exactly he meant by that; if asked about the Tabellion's date of birth, Rydji no longer knows the year, but remembers his birthday, which coincides with his own: {% symbol '24 November' for 'notary_birth_date_day_month' %}; Alphonse and the Old Neighbour no longer know the day/month, but remember the year: {% symbol '1968' for 'notary_birth_date_year' %}; if someone mentions an "autumnal bust" to you, it reminds you of paintings that were in the manor, but you no longer know where; BEWARE, CHANGE: no servant knows where the cooking recipes are!

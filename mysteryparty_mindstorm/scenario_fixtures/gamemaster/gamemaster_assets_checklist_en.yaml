@@ -97,7 +97,7 @@
   -
     - "Golden pass card for LG's safe (which opens ALL the pass-card locks): in LG's top hat {% xfact 'passcard_of_loyd_georges_is_in_his_hat' %} {% xitem 'lg_vault_pass_card' is provided %}"
     - "Code of LG's safe ({% symbol '603-109 (sick-oh-free... won-oh-nine)' for 'lg_vault_secret_code' %}): in a {% symbol 'small tissue box' for 'lg_vault_secret_code_location' %} hidden in the beautiful wood-and-gold chest with an anchor {% xitem 'lg_vault_secret_code' is provided %} "
-    - "Olympus dictaphone recorder attached to a signal transmitter, well hidden but without interference {% xitem 'opal_lydia_voice_recorder' is provided %}"
+    - "Olympus dictaphone recorder attached to a signal transmitter, well hidden but without interference (Malachite's spy dictaphone, behind a sofa: conversation of Loyd Georges and Rydji) {% xitem 'lg_rydji_voice_recorder' is provided %}"
     - "Pass card dedicated only to the manor's mailbox: in the wallet sold by Alphonse {% xitem 'postbox_specific_lost_passcard' is provided %}"
 
 -
@@ -199,7 +199,7 @@
     - "1 relic: my old wallet and step counter [100¤] {% xitem 'old_alphonse_wallet' is provided %}"  # contains the pass card dedicated ONLY to the mailbox
     - "1 Authentic replica of Loyd Georges' golden pass card, non-functional [100¤]"  # to swap it with the REAL golden pass card
     - "1 deck of cards (manual sadly undecipherable), found yesterday in the gambling den {% symbol 'La Murge de Salima' for 'alphonse_alibi_bar' %} [100¤] {% xitem 'card_game_with_unreadable_manual' is provided %}"   # secret word of the Purifiers, giving an appointment the next day at the Purineur; GM NOTE (never in the label, which is printed on the players' sales menu): the coded message prop is in French, FRERES RDV DEMAIN SOIR AU PURINEUR = brothers, meet tomorrow evening at the Purineur (see the GM manual)
-    - "1 high-tech CHROMIA pen found in the manor [100¤] {% xitem 'chromia_spy_pen' is provided %}"   # spy dictaphone
+    - "1 high-tech CHROMIA pen found in the manor [100¤] {% xitem 'chromia_spy_pen' is provided %}"   # Malachite's spy pen, found in the library: conversation of Opal and Lydia
     - "1 cave octopus tentacle [100¤] {% xitem 'octopus_tentacle_in_bottle' is provided %}"
     - "1 juice (dark red) of red-skinned Akarith land mushroom [100¤] {% xitem 'red_land_mushroom_juice' is provided %}"
     - "1 juice (light orange) of blue-skinned Akarith aquatic mushroom [100¤] {% xitem 'blue_aquatic_mushroom_juice' is provided %}"

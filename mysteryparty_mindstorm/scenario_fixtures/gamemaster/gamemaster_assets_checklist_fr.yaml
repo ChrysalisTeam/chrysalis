@@ -97,7 +97,7 @@
   -
     - "Carte pass dorée pour le coffre-fort de LG (qui ouvre TOUTES les serrures passcard) : dans le chapeau haut-de-forme de LG {% xfact 'passcard_of_loyd_georges_is_in_his_hat' %} {% xitem 'lg_vault_pass_card' is provided %}"
     - "Code du coffre-fort de LG ({% symbol '603-109 (six sans Troie...sang neuf)' for 'lg_vault_secret_code' %}): dans une {% symbol 'petite boite à mouchoir' for 'lg_vault_secret_code_location' %} cachée dans le beau coffret bois-et-or à ancre {% xitem 'lg_vault_secret_code' is provided %} "
-    - "Enregistreur dictaphone Olympus attaché à un émetteur de signal, bien caché mais sans interférence {% xitem 'opal_lydia_voice_recorder' is provided %}"
+    - "Enregistreur dictaphone Olympus attaché à un émetteur de signal, bien caché mais sans interférence (dictaphone espion de Malachite, derrière un canapé : conversation de Loyd Georges et Rydji) {% xitem 'lg_rydji_voice_recorder' is provided %}"
     - "Carte pass dédiée uniquement à la boîte aux lettres du manoir : dans le portefeuille vendu par Alphonse {% xitem 'postbox_specific_lost_passcard' is provided %}"
 
 -
@@ -199,7 +199,7 @@
     - "1 relique : mon vieux portefeuille et compteur de pas [100¤] {% xitem 'old_alphonse_wallet' is provided %}"  # contient le pass dédié UNIQUEMENT à la boite aux lettres
     - "1 Authentique réplique de la carte pass dorée de Loyd Georges, non fonctionnelle [100¤]"  # pour l'intervertir avec la VRAIE carte pass dorée
     - "1 jeu de cartes (manuel hélas indéchiffrable), trouvé hier au tripot {% symbol 'La Murge de Salima' for 'alphonse_alibi_bar' %} [100¤] {% xitem 'card_game_with_unreadable_manual' is provided %}"   # mot secret des purificateurs donnant RDV le lendemain au Purineur
-    - "1 stylo high-tech CHROMIA trouvé au manoir [100¤] {% xitem 'chromia_spy_pen' is provided %}"   # dictaphone espion
+    - "1 stylo high-tech CHROMIA trouvé au manoir [100¤] {% xitem 'chromia_spy_pen' is provided %}"   # stylo espion de Malachite, trouvé dans la bibliothèque : conversation d'Opal et Lydia
     - "1 tentacule de poulpe caverneux [100¤] {% xitem 'octopus_tentacle_in_bottle' is provided %}"
     - "1 jus (rouge foncé) de champignon terrestre akarite à peau rouge [100¤] {% xitem 'red_land_mushroom_juice' is provided %}"
     - "1 jus (orange clair) de champignon aquatique akarite à peau bleue [100¤] {% xitem 'blue_aquatic_mushroom_juice' is provided %}"

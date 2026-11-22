@@ -64,6 +64,8 @@ Briefings en mode roleplay :
 
 [TEMPORAIRE] - COMPLEMENTS AUX FICHES PJ/PNJ:  {# TODO move this to player sheets later #}
 
+- MJs : enregistreurs espions de Malachite ; quand un joueur récupère le stylo CHROMIA (vendu par Alphonse) ou le dictaphone Olympus (derrière un canapé), et cherche à l'écouter, lui remettre la transcription correspondante du document "audio_recordings" ("Stylo espion" : Opal et Lydia dans la bibliothèque ; "Dictaphone espion" : Loyd Georges et Rydji sur le canapé), ou lui faire écouter le MP3 correspondant
+
 - MJs et OBERONS : embaucher des mercenaires armés, pour une action violente, coûte entre 600 et 1000 kashes (2 fois moins si c'est payé en gemmes) ; penser à clamer, toutes les 30mn si possible, les emails non lus (chercher "has_new_messages" dans la DB)
 
 - Pour les PNJs Rydji, Alphonse et Vieille Voisine : Vous êtes au courant d'une anecdote du "BAOBAB" dans la vie du jeune Loyd Markis (et cela vous rappelle un affichage au mur de la salle de réception), mais vous ne savez pas ce qu'il voulait dire par là exactement. ; Si l'on vous pose la question de la date de naissance du Tabellion, Rydji ne sait plus l'année, mais se souvient de son anniversaire, qui coincide avec le sien : {% symbol '24 novembre' for 'notary_birth_date_day_month' %} ; Alphonse et la Vieille Voisine ne savent plus le jour/mois, mais se souviennent de l'année : {% symbol '1968' for 'notary_birth_date_year' %} ; si l'on vous parle d'un "buste automnal", ça vous rappelle des peintures qu'il y avait dans le manoir, mais vous ne savez plus où ; ATTENTION CHANGEMENT : aucun serviteur ne sait où sont les recettes de cuisine !
