@@ -4,7 +4,7 @@ Chrysalis:Sentience - L'alchimiste est morte
 
 **Compétences communes des animaux "sapiens" :**
 
-- communiquer télépathiquement avec les autres animaux "sapiens" (portée: 5km)
+- communiquer télépathiquement avec les autres animaux "sapiens" (portée : 5 km)
 - comprendre le langage parlé des humains
 - communiquer rudimentairement avec les membres (non "sapiens") de sa PROPRE espèce
 
@@ -48,7 +48,7 @@ Chrysalis:Sentience - L'alchimiste est morte
 
 **Tortue ancestrale (PNJ)**
 
-- télépathie rayonnante (portée 50km)
+- télépathie rayonnante (portée : 50 km)
 - réminiscence : peut revivre la dernière scène chargée émotionnellement vécue par un artefact
 - d'autres pouvoirs potentiels, mais méconnus
 
@@ -261,7 +261,7 @@ Cela donne l'idée à la fille de l'aubergiste, Rose, de l'y rejoindre ; mais Jo
 
 Le bourgmestre et le notaire se rendent comme convenu dans **l'ancienne écurie** pour attendre Joséphine.
 
-Mais Joséphine se rend auprès du sorceleur baigneur par des chemins détournés. Ils ont une conversation "crédible", où Joséphine dit vouloir évoquer le sujet des futures élections au poste de Bourgmestre, tandis qu'Abélard affirme ne pas vouloir cette rencontre, car elle peut faire jaser.
+Mais Joséphine se rend auprès du sorceleur baigneur par des chemins détournés. Ils ont une conversation "crédible", où Joséphine dit vouloir évoquer le sujet des futures élections au poste de bourgmestre, tandis qu'Abélard affirme ne pas vouloir cette rencontre, car elle peut faire jaser.
 
 Une fois que le sorceleur a vérifié qu'aucun humain n'était à proximité, grâce à l'automate d'alarme, ils rompent leur **simulacre** et se parlent franchement.
 

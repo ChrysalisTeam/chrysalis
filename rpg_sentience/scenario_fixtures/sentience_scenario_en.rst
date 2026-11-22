@@ -48,7 +48,7 @@ Chrysalis: Sentience - The Alchemist Is Dead
 
 **Ancestral Tortoise (NPC)**
 
-- radiating telepathy (range 50 km)
+- radiating telepathy (range: 50 km)
 - reminiscence: can relive the last emotionally charged scene experienced by an artefact
 - other potential powers, but little known
 
@@ -217,7 +217,7 @@ Josephine, very cold, tells him that she has a plan, but that they must keep up 
 
 Abelard, who has gone out for some air, is timidly joined by Rose, the innkeeper's daughter. He then puts a temporary end to his courtship, arguing that he does not want his advances to be misinterpreted by the village, that this is already earning him the enmity of the innkeeper and of a few young men, and that he prefers to "let the dust settle" before the two of them see each other again. Understanding, but with tears in her eyes, Rose goes back to serving.
 
-The burgomaster brings up again the subject of the alchemist's **undestroyed tower**. Abelard agrees to set off again at once, with whichever villagers are willing, to destroy what remains of the alchemist's den. Galvanised, a dozen villagers take up pitchforks and scythes and follow him, including the notary (on the burgomaster's orders).
+The burgomaster brings up again the subject of the alchemist's **undestroyed tower**. Abelard agrees to set off again at once, with whichever villagers are willing, to destroy what remains of the alchemist's den. Galvanised, about ten villagers take up pitchforks and scythes and follow him, including the notary (on the burgomaster's orders).
 
 
 
@@ -261,7 +261,7 @@ This gives the innkeeper's daughter, Rose, the idea of joining him there; but Jo
 
 The burgomaster and the notary go as agreed to the **old stable** to wait for Josephine.
 
-But Josephine makes her way to the bathing witcher by roundabout paths. They have a "credible" conversation, in which Josephine says she wants to raise the subject of the forthcoming elections to the post of Burgomaster, while Abelard claims not to want this meeting, because it may set tongues wagging.
+But Josephine makes her way to the bathing witcher by roundabout paths. They have a "credible" conversation, in which Josephine says she wants to raise the subject of the forthcoming elections to the post of burgomaster, while Abelard claims not to want this meeting, because it may set tongues wagging.
 
 Once the witcher has checked that no human is nearby, thanks to the alarm automaton, they drop their **pretence** and speak frankly to each other.
 
