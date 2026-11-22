@@ -89,7 +89,7 @@ static_pages:
             More details, for example about the 3D Visualisation option, are available on the "Auction Slideshow" page (provided it has been published).
 
         gamemaster_hints: |
-            **Game Master, do not forget to transfer the sums of money corresponding to the transactions you finalise here (if they are in Sabarith Pounds, this means manually editing the players' "extra goods").**
+            **Game Master, do not forget to transfer the sums of money corresponding to the transactions you finalise here (if they are in Sabarith Pounds, this means manually editing the players' "Extra Goods").**
 
     help-view_sales:
         categories: "content"
@@ -367,7 +367,7 @@ static_pages:
             ------------------
 
             - if you reply to a message, or use "recontact" on it, the parent message will automatically be "marked as read", so star it if you want to keep an eye on it
-            - you can attach to a message either one of your "personal documents", or an absolute file URL, thanks to the dedicated selection field
+            - you can attach to a message either one of the files of your "Personal Folder", or an absolute file URL, thanks to the dedicated selection field
             - if you forward an old message to one of your contacts, this "forwarded message" can be read in a new window, thanks to the link automatically inserted into the new message used for this forwarding
             - an automatic backup mechanism is in place, to prevent you from losing a whole draft after a wrong move; but if you have to type long texts, it is still better to write them in a separate file on your hard disk, to be safe
 
@@ -839,7 +839,7 @@ static_pages:
     help-personal_folder:
         categories: "content"
         content: |
-            Personal Documents
+            Personal Folder
             =========================
 
             Here you will find your personal documents, whether textual or audiovisual, in forms (mostly) viewable from your browser.

@@ -89,7 +89,7 @@ static_pages:
             Davantage de détails, par exemple sur la possibilité de Visualisation 3D, sont disponibles dans la page "Diaporama d'Enchères" (sous réserve qu'elle soit publiée).
 
         gamemaster_hints: |
-            **Maître du jeu, n'oubliez pas de transférer les sommes d'argent correspondant aux transactions que vous finalisez ici (s'il s'agit de Livres Sabarites, cela revient à éditer manuellement les "possessions diverses" des joueurs).**
+            **Maître du jeu, n'oubliez pas de transférer les sommes d'argent correspondant aux transactions que vous finalisez ici (s'il s'agit de Livres Sabarites, cela revient à éditer manuellement les "Biens Supplémentaires" des joueurs).**
 
     help-view_sales:
         categories: "content"
