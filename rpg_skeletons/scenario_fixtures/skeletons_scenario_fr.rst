@@ -73,7 +73,7 @@ L'action se passe dans un recoin du pays de **Listenland** (dont la capitale est
 
 La situation politique est confuse depuis la mort du dernier roi - le trône est vacant depuis plus d'un an, et les nobliaux intriguent pour le revendiquer.
 
-Le donjon est sur une petite presqu’île en hauteur, bordée par des falaises escarpées, sur un lac regorgeant de bêtes aquatiques très dangereuses.
+Le donjon est sur une petite presqu'île en hauteur, bordée par des falaises escarpées, sur un lac regorgeant de bêtes aquatiques très dangereuses.
 
 Des aventuriers s'y attaquent ponctuellement, dans des buts variés.
 
@@ -104,7 +104,7 @@ La garnison (à l'entrée de la presqu'île)
   - PANCARTE sur la lourde porte : **Dernier avertissement, vous ne trouverez ici que la défaite et la mort**
   - OMEGA (mage Parcival) voit des reflets de lumière et des tentes vertes sur une **colline lointaine** (un campement d'observation de l'armée)
 
-- Côté presqu’île : un chemin escarpé menant au donjon, avec un précipice de chaque côté
+- Côté presqu'île : un chemin escarpé menant au donjon, avec un précipice de chaque côté
 
 MAGE FOULQUES :
 
@@ -143,7 +143,7 @@ CONRAD :
 - Le plus énorme de tous (3m de haut, 1m50 de large)
 - Hors de la salle de garde, ne peut entrer que dans la salle du trône (en se courbant dans le corridor) ; ne peut pas entrer dans les autres bâtiments, ou monter à l'étage, car trop large
 - Initialement, joue de l'accordéon
-- A une **dague plantée** dans le côté et ne s'en rend pas compte (les autres en rient), il se plaint que ça peut rouiller et puruler
+- A une **dague plantée** dans le côté et ne s'en rend pas compte (les autres en rient), il se plaint que ça peut rouiller et suppurer
 - Sait dessiner au fusain, en couleur
 - Très amical et conciliant
 - Défend le bilan du "MAGE" (et non plus "apprenti") FOULQUES : nécromancie apprise en 6 mois seulement, dépeçoir mécanisé, pièges de la salle du trône, recettes de viande aux épices ; **"un véritable polymathe"**
@@ -302,7 +302,7 @@ Un énorme globe terrestre avec des reliefs, des annotations agrafées sur des p
 
 Un fauteuil vide fait face à ce globe terrestre. Aucune trace du mage Parcival.
 
-**IMPORTANT** : Sous le fauteuil, des vêtements de nourrisson, enfermés dans une **petite châsse couverte de runes**, donnent une **réminiscence complète** à OMEGA (mage Parcival) : une grande cuve semi-enterrée, des mouches, un bruit grinçant qui résonne, une odeur effroyable, et une boite en bois d'où s'échappent des pleurs d'enfant... *(c'est le purinoir dans lequel SAPHIR a été trouvée par l'apothicaire Colbert, futur mage Parcival)*
+**IMPORTANT** : Sous le fauteuil, des vêtements de nourrisson, enfermés dans une **petite châsse couverte de runes**, donnent une **réminiscence complète** à OMEGA (mage Parcival) : une grande cuve semi-enterrée, des mouches, un bruit grinçant qui résonne, une odeur effroyable, et une boîte en bois d'où s'échappent des pleurs d'enfant... *(c'est le purinoir dans lequel SAPHIR a été trouvée par l'apothicaire Colbert, futur mage Parcival)*
 
 
 .. raw:: pdf
@@ -322,7 +322,7 @@ Elles se font immédiatement massacrer par un groupe de chevaliers venus trop ra
 Jour 2
 ----------
 
-- FOULQUES réveille une à une les carcasses (amnésiques), leur demande leur prénom en touchant leur casque pour les entendre (mais elles n'en savent rien), et leur en assigne un tiré de l'alphabet grec
+- FOULQUES réveille une à une les carcasses (amnésiques), leur demande leur prénom en touchant leur heaume pour les entendre (mais elles n'en savent rien), et leur en assigne un tiré de l'alphabet grec
 - Il leur crie de protéger la **Perle de Sylvorann**, ce qui les électrise, puis il repart vers le donjon.
 - Un olifant résonne (3 coups)
 - Un rat musqué arrive, avec un parchemin : "1 épée à deux mains, un archer, et un diacre"
@@ -370,7 +370,7 @@ Dans la salle de garde :
 - Accueil cordial par les abominations, *"ça faisait longtemps !"*
 - Questions sur le chargement de biens (si apporté)
 - GAUBERT et HERBERT invitent ALPHA (Brunissende) à jouer aux dés et trinquer
-- Voyant les squelettes muets, l'une des abominations va chercher dans la petite cave cachée les gemmes **vibraphones** de casque, qui leur permettent de parler ; cela dévoile au passage les **ARMES disponibles**, que les carcasses peuvent obtenir après négociation (explication : il y avait la crainte de se faire dérober des armes trop intéressantes sur les squelettes, par des aventuriers qui rebrousseraient chemin)
+- Voyant les squelettes muets, l'une des abominations va chercher dans la petite cave cachée les gemmes **vibraphones** de heaume, qui leur permettent de parler ; cela dévoile au passage les **ARMES disponibles**, que les carcasses peuvent obtenir après négociation (explication : il y avait la crainte de se faire dérober des armes trop intéressantes sur les squelettes, par des aventuriers qui rebrousseraient chemin)
 - La garde rapprochée rappelle que le mage Parcival est en **voyage médiumnique** dans sa salle d'oracle, en haut de la tour, depuis bientôt **5 jours** ; c'est exceptionnel, et plutôt bon signe d'après eux ; la fumée turquoise qui s'en échappe est un encens, qui l'aide à rester concentré dans ses visions et ses dialogues distants avec d'autres initiés
 - CONRAD peut réaliser un nouveau briefing sur la **stratégie de défense** : avant-garde, garde rapprochée, pièges, puis "le tout pour le tout" : chiens, potions défensives de FOULQUES, poix brûlante et rochers dans l'escalier, en dernier recours SAPHIR peut se téléporter à quelques kilomètres, avec son père, via son **médaillon** (100kg téléportables au maximum)...
 
@@ -434,7 +434,7 @@ Jour 3 - nuit tombée
 - Un rat musqué arrive au château, et indique qu'un **détachement de militaires** se prépare à traverser la forêt **avec des canons**, ils seront probablement là au matin
 - À un moment, les joueurs finissent par découvrir que le mage Parcival n'est pas dans la maisonnette (ex. indice déclencheur : la fumée ne s'en échappe plus)
 - SAPHIR court partout, les larmes aux yeux, haletante, à la recherche de son papa
-- Elle fracture le dépeçoir, et en ramène deux plaques de peau portant le **tatouage** qu'elle-même a sur l'épaule : un **loup roulé en boule** (la peau des avant-bras des deux mages)
+- Elle force la porte de la dépècerie, et en ramène deux plaques de peau portant le **tatouage** qu'elle-même a sur l'épaule : un **loup roulé en boule** (la peau des avant-bras des deux mages)
 - Elle confronte alors l'ensemble des gens présents, réunis dans la salle du trône, mais le mage FOULQUES ne peut dissimuler sa panique
 - CONRAD confisque préventivement le **bâton incandescent** de FOULQUES
 - FOULQUES avoue tout, mais dit que ce sont des "accidents" (GAMMA et OMEGA ne peuvent pas chercher à lui nuire, voir le contrat moral du manuel de nécromancie)
@@ -490,7 +490,7 @@ Le nouveau Parcival a développé ses dons médiumniques pour guider leur route,
 
 Il est ainsi allé trouver le mage Childéric, lui aussi ostracisé pour ses travaux sur la nécromancie.
 
-Alliés de circonstance, ils ont acheté un donjon en ruine sur une presqu’île, afin de mener leurs vies en paix. 
+Alliés de circonstance, ils ont acheté un donjon en ruine sur une presqu'île, afin de mener leurs vies en paix. 
 Les deux mages ont enseigné à SAPHIR ce qui convenait à une enfant de son âge.
 Au début de son adolescence, une marque ronde en forme de **loup roulé en boule** est apparue sur l'épaule de SAPHIR, comme un tatouage (un signe de son sang semi-atlante, qui rappelait aussi la légende du couffin gardé par les loups). Pour qu'elle n'en ait pas honte, les deux mages se sont fait tatouer le même loup sur l'avant-bras, en lui disant qu'ils étaient désormais "sa meute". SAPHIR sait donc que seuls ses deux "pères" portent ce loup.
 
