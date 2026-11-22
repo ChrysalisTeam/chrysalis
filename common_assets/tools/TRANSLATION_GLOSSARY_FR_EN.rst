@@ -4853,7 +4853,7 @@ Alternate reality game: Auction (the Pychronia web game)
      - Lowercase.
    * - Harmonies Jungliennes
      - Jungle Harmonies
-     - Claudia Pason's album; the track list keeps the French map labels in brackets, since the jungle map image is French.
+     - Claudia Pason's album; the EN track list uses the English labels of the EN jungle map image (kamilia_jungle_map_en.jpg).
    * - historique télécom
      - telecom history
      - UI-related wording.
