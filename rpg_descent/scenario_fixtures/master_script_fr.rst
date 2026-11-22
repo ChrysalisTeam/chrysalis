@@ -194,7 +194,7 @@ Caverne aquifère
 - des **champignons aquatiques bleus** poussent dans les crevasses du sud-ouest ; c'est une **espèce inconnue** (mais comestible)
 - le canal est en contrebas du reste de la caverne, bordé par **3m de pente forte** (mais escaladable) ; deux conduits y débouchent depuis l'est, sous la surface (il est possible d'y explorer, en plongée, le système de vannes décrit ci-dessous).
 - le canal est rempli de **Chlamydes, ou serpents-requins**, mais ceux-ci ont peur des lumières qui bougent ; amphibies, ils peuvent se glisser hors du canal pour chasser ; ils ont un nid (trous dans le rocher) au niveau de la face nord du canal.
-- le **pont**, qui enjambe le canal au sud de la caverne, est le seul passage à pied sec entre la partie ouest (puits d'arrivée, buttes, crevasses, tunnel du temple païen) et la partie est (monolithe, leviers, corridor de l'est, tunnel vers l'extérieur) ; il est **couvert de poix** ; la moindre étincelle y déclenche **10 minutes** d'incendie et de fumée, bloquant ce passage, et alertant la contrée environnante ; une vieille mèche semi-enterrée part de la poix, et file en direction du nord-est.
+- le **pont**, qui enjambe le canal au sud de la caverne, est le seul passage à pied sec entre la partie ouest (puits d'arrivée, buttes, crevasses, tunnel du temple païen) et la partie est (monolithe, leviers, corridor de l'est, tunnel vers l'extérieur) ; il est **couvert de poix** ; la moindre étincelle y déclenche **10 minutes** d'incendie et de fumée, bloquant ce passage, et alertant la contrée environnante (cf. les alertes, dans les récapitulatifs) ; une vieille mèche semi-enterrée part de la poix, et file en direction du nord-est.
 - les **débris de bateaux et les pièces de monnaie percées**, près du canal, sont sur une corniche à **1m50 de l'eau** ; c'était un appât, destiné à faire exploser des intrus grâce au **baril de poudre noire** accolé (avec le même système de mèche que pour le pont) ; la poudre (1 kilo) est peut-être sèche (2/3 de chance).
 - un **énorme monolithe** en équilibre précaire (une stalagmite dont la base a été rabotée par des ruissellements) se trouve au centre-est de la caverne (il peut servir à écraser un ennemi en cas de combats).
 - le large corridor de l'est est **entièrement inondé sur 10m**, à cause des conduits (un large à l'est, deux plus fins à l'ouest) qui respectivement le remplissent et le vident de son eau (voir le schéma des vannes dans le diaporama : l'ouest y est à gauche, le nord en haut, et les flèches indiquent le sens de l'eau). Chaque conduit porte **2 vannes**, commandées chacune par un levier qui bascule vers l'est ou vers l'ouest, et qui est surmonté de la silhouette sculptée d'un animal. Un levier basculé vers son point cardinal d'ouverture ouvre entièrement sa vanne ; vertical, il la laisse à moitié ouverte ; basculé de l'autre côté, il la ferme. Au départ, tous les leviers sont verticaux : l'eau entre et sort au même rythme, et le corridor reste plein.
@@ -335,7 +335,7 @@ Saint des Saints du Temple Yodique
 
 **Énigme lumineuse** : si on cale la lanterne de pierre dans le creux au fond du puits, qu'on y place une lumière quelconque, puis qu'on met la grille dessus, les effets d'interférence mettent en évidence certaines runes sacrées du plafond, qui forment en réalité une **prophétie razulite postérieure à la chute de Nazur** ; cette prophétie ne sera déchiffrable que par l'Académie d'Alifir, mais on y reconnait au minimum l'idéogramme des **orbes divins**.
 
-Au bout d'un moment (plus tôt, si des mini-géodes ont été disposées partout), un **sifflement étrange** se fait entendre (cf. bande-son dédiée) : le **chant de l'orbe**. Sa provenance est très difficilement trouvable à l'oreille. Il faut sonder les murs au sonar, ou utiliser le kit de micros, pour savoir quelle paroi creuser au piolet. L'orbe est bien en évidence dans sa cachette, posé sur un **lingot d'or**. Il réagit violemment (lumière et vibration) lorsqu'on veut le prendre. On peut le mettre dans de l'eau glacée pour le calmer et l'emporter sans qu'il attire des zélotes akarites.
+Au bout d'un moment (plus tôt, si des mini-géodes ont été disposées partout), un **sifflement étrange** se fait entendre (cf. bande-son dédiée) : le **chant de l'orbe**. Sa provenance est très difficilement trouvable à l'oreille. Il faut sonder les murs au sonar, ou utiliser le kit de micros, pour savoir quelle paroi creuser au piolet. L'orbe est bien en évidence dans sa cachette, posé sur un **lingot d'or**. Il réagit violemment (lumière et vibration) lorsqu'on veut le prendre. On peut le mettre dans de l'eau glacée (ex. un sachet étanche rempli de l'eau du puits, à 2-3°C) pour le calmer et l'emporter sans qu'il attire des zélotes akarites (cf. les alertes, dans les récapitulatifs).
 Localisations possibles de la cachette : derrière la petite pagode, ou derrière la fresque murale, ou sous le sol au milieu de la pièce...
 
 
@@ -356,8 +356,15 @@ Exemple de déroulement minuté
 - 5 : arrivée au sol de la caverne aquifère
 - 70 : si les joueurs sont dans le Saint des Saints du temple, ils entendent le vrombissement de l'orbe
 - 90 : si le varan impérial n'a pas été géré, il se réveille et intercepte les joueurs ou porteurs
-- 105 : les akarites arrivent si des fumées de poix ou de fumigènes ont été dégagées
-- 120 : les akarites arrivent dans tous les cas
+- 105 : les akarites arrivent si une alerte a été donnée avant 90 (voir ci-dessous)
+- 120 : les akarites arrivent dans tous les cas (fin de l'orage)
+
+**Alertes** :
+
+- des fumées (poix du pont, poudre noire, fumigène) sortent par le puits et alertent la contrée : les akarites arrivent à 105, ou 15mn après la fumée si elle a été dégagée après 90
+- l'orbe est emporté hors de sa cachette sans avoir été calmé : ses lumières et vibrations attirent les zélotes akarites, qui arrivent 15mn plus tard (sauf si une autre alerte les fait venir plus tôt)
+- les explosions et coups de feu sont couverts par le tonnerre tant que l'orage dure, et n'alertent personne
+- le guetteur prévient le majordome par radio **10mn avant** l'arrivée des akarites au puits ; Loyd Georges et l'opérateur télécom se replient alors vers le camion
 
 **Délais** :
 

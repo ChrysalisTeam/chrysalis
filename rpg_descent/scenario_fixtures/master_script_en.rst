@@ -194,7 +194,7 @@ Aquifer Cavern
 - **blue water mushrooms** grow in the crevices to the south-west; they are an **unknown species** (but edible)
 - the canal lies below the rest of the cavern, bordered by **3 m of steep slope** (but climbable); two conduits open into it from the east, below the surface (the sluice system described below can be explored from there by diving).
 - the canal is full of **Chlamydes, or shark-snakes**, but they are afraid of moving lights; being amphibious, they can slither out of the canal to hunt; they have a nest (holes in the rock) on the north face of the canal.
-- the **bridge**, which spans the canal in the south of the cavern, is the only dry-footed crossing between the western part (arrival shaft, mounds, crevices, pagan temple tunnel) and the eastern part (monolith, levers, eastern corridor, tunnel to the outside); it is **covered in pitch**; the slightest spark sets off **10 minutes** of fire and smoke, blocking this crossing, and alerting the surrounding countryside; an old half-buried fuse leads away from the pitch, and runs off towards the north-east.
+- the **bridge**, which spans the canal in the south of the cavern, is the only dry-footed crossing between the western part (arrival shaft, mounds, crevices, pagan temple tunnel) and the eastern part (monolith, levers, eastern corridor, tunnel to the outside); it is **covered in pitch**; the slightest spark sets off **10 minutes** of fire and smoke, blocking this crossing, and alerting the surrounding countryside (see the alerts, in the Quick Reference); an old half-buried fuse leads away from the pitch, and runs off towards the north-east.
 - the **boat wreckage and pierced coins**, near the canal, are on a ledge **1.5 m above the water**; this was bait, intended to blow up intruders thanks to the adjoining **keg of black powder** (with the same fuse system as for the bridge); the powder (1 kilo) may be dry (2-in-3 chance).
 - a **huge monolith** in precarious balance (a stalagmite whose base has been worn away by trickling water) stands in the centre-east of the cavern (it can be used to crush an enemy in case of a fight).
 - the wide eastern corridor is **entirely flooded over 10 m**, because of the conduits (a wide one to the east, two narrower ones to the west) which respectively fill it with and drain it of its water (see the sluice diagram in the slideshow: west is on the left, north at the top, and the arrows show the direction of the water). Each conduit has **2 sluice gates**, each operated by a lever which tips towards the east or towards the west, and which is topped by the carved silhouette of an animal. A lever tipped towards its opening cardinal point opens its sluice gate fully; upright, it leaves it half open; tipped the other way, it closes it. At the start, all the levers are upright: the water flows in and out at the same rate, and the corridor stays full.
@@ -335,7 +335,7 @@ Holy of Holies of the Yodic Temple
 
 **The Light Puzzle**: if the stone lantern is wedged into the hollow at the bottom of the well, any light source is placed in it, and the grate is then put on top, the interference effects highlight certain sacred runes on the ceiling, which actually form a **Razulite prophecy dating from after the fall of Nazur**; this prophecy will only be decipherable by the Alifir Academy, but at the very least the ideogram of the **Divine Orbs** can be recognised in it.
 
-After a while (sooner, if mini-geodes have been placed everywhere), a **strange whistling** is heard (see dedicated soundtrack): the **orb's song**. Its source is very hard to locate by ear. The walls must be sounded with the sonar, or the microphone kit used, to find out which wall to dig into with an ice axe. The orb sits in plain view in its hiding place, resting on a **gold ingot**. It reacts violently (light and vibration) when someone tries to take it. It can be put in ice-cold water to calm it down and carry it away without it attracting Akarith zealots.
+After a while (sooner, if mini-geodes have been placed everywhere), a **strange whistling** is heard (see dedicated soundtrack): the **orb's song**. Its source is very hard to locate by ear. The walls must be sounded with the sonar, or the microphone kit used, to find out which wall to dig into with an ice axe. The orb sits in plain view in its hiding place, resting on a **gold ingot**. It reacts violently (light and vibration) when someone tries to take it. It can be put in ice-cold water (e.g. a waterproof bag filled with the water of the well, at 2-3°C) to calm it down and carry it away without it attracting Akarith zealots (see the alerts, in the Quick Reference).
 Possible locations of the hiding place: behind the small pagoda, or behind the wall fresco, or under the floor in the middle of the room...
 
 
@@ -356,8 +356,15 @@ Sample timeline
 - 5: arrival on the floor of the aquifer cavern
 - 70: if the players are in the Holy of Holies of the temple, they hear the humming of the orb
 - 90: if the imperial monitor has not been dealt with, it wakes up and intercepts the players or porters
-- 105: the Akariths arrive if pitch smoke or smoke grenades have been released
-- 120: the Akariths arrive in any case
+- 105: the Akariths arrive if an alert was raised before 90 (see below)
+- 120: the Akariths arrive in any case (end of the storm)
+
+**Alerts**:
+
+- smoke (pitch of the bridge, black powder, smoke grenade) rises through the shaft and alerts the countryside: the Akariths arrive at 105, or 15 min after the smoke if it was released after 90
+- the orb is carried out of its hiding place without having been calmed: its lights and vibrations attract the Akarith zealots, who arrive 15 min later (unless another alert brings them sooner)
+- explosions and gunshots are covered by the thunder as long as the storm lasts, and alert no one
+- the lookout warns the butler by radio **10 min before** the Akariths reach the shaft; Loyd Georges and the radio operator then withdraw to the truck
 
 **Time costs**:
 
