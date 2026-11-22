@@ -48,7 +48,7 @@ FOR THE AVATARS:
 
     - The Duchess can invoke her own gods, with the help of the initiates present, to repair a sacred injury (affecting the soul).
     - The Druid can use his sea-blue blood, with the help of the spirits of Nature, to heal all kinds of biological ailments.
-    - **ALTERNATIVE PLAN**: Druid and Duchess can heal ALL types of injuries (except a torn-off limb)
+    - **ALTERNATIVE PLAN**, if one of the two is unavailable (Druid unmasked, avatar already gone back to their world...): the remaining Druid or Duchess can heal ALL types of injuries (except a torn-off limb)
     - The Inventor can cobble together a mechanical prosthesis to replace a lost limb.
 
 

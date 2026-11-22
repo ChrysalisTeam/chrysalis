@@ -48,7 +48,7 @@ POUR LES AVATARS :
 
     - La duchesse peut invoquer ses propres dieux, avec l’aide des initiés présents, pour réparer une blessure sacrée (touchant l’âme).
     - Le druide peut utiliser son sang bleu comme la mer, avec l’aide des esprits de la Nature, pour soigner tous types de maux biologiques.
-    - **PLAN ALTERNATIF** : druide et duchesse peuvent soigner TOUS types de blessures (sauf membre arraché)
+    - **PLAN ALTERNATIF**, si l'un des deux n'est pas disponible (druide démasqué, avatar déjà reparti dans son monde...) : le druide ou la duchesse restant peut soigner TOUS types de blessures (sauf membre arraché)
     - L’inventeur peut bricoler une prothèse mécanique pour remplacer un membre perdu.
 
 
