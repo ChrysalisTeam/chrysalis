@@ -332,7 +332,7 @@ Day 3 - morning
 
 - The carcasses can freely go and see what is happening around the muskrat village
 
-- If they try to enter the keep, they are rebuffed by the abomination EULALIE, who puts her big eye to the peephole of the door.
+- If they try to enter the keep, they are rebuffed by the abomination EULALIE, who puts her big eye to the peephole of the door: she sticks to Foulques's orders ("the garrison first!"), and will only open to them once the morning attack has been repelled, hence the warm welcome of the afternoon.
 
 - A goblin (introducing himself as **"Winkle"**) arrives on the beach in a small steamboat, very discreetly, with a large grey cloak on his shoulders
 

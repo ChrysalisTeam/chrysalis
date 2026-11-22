@@ -332,7 +332,7 @@ Jour 3 - matin
 
 - Les carcasses peuvent sans problème aller voir ce qui se passe du côté du village des rats musqués
 
-- S'ils tentent d'entrer dans le donjon, ils se font rabrouer par l'abomination EULALIE qui passe son gros oeil par le judas de la porte.
+- S'ils tentent d'entrer dans le donjon, ils se font rabrouer par l'abomination EULALIE qui passe son gros oeil par le judas de la porte : elle s'en tient aux ordres de FOULQUES ("la garnison d'abord !"), et ne leur ouvrira qu'une fois l'attaque du matin repoussée, d'où l'accueil chaleureux de l'après-midi.
 
 - Un gobelin (annonçant être **"Winkle"**) arrive sur la plage via un petit bateau à vapeur, en toute discrétion, avec une grande cape grise sur les épaules
 
