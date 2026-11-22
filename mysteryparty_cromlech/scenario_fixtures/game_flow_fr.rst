@@ -46,7 +46,9 @@ Accueil par l'inspecteur de police
 - "Nous vous fournirons aussi des **informations policières**, au fur et à mesure, sur nos propres investigations."
 - "Voici un **article de journal** sur cette étrange institution qu'est le Cromlech de Lyon."
 
-**ORDRE DE ROTATION : Guide, Reporter, Conservateur, puis enfin Trésor du musée**
+**ORDRE DE ROTATION (cyclique) : Guide, puis Reporter, puis Conservateur, puis Trésor du musée, puis de nouveau Guide... Chaque groupe commence à un poste différent, et passe une fois par chaque poste.**
+
+Au Trésor, ne rien remettre en place entre deux groupes : ce qu'un groupe a ouvert (coffre, cryptex) reste ouvert pour les suivants, et si un groupe n'y parvient pas, le suivant reprend là où il en était. Les groupes déjà passés au Trésor apprennent la suite par les greffiers, lors des conciliabules finaux.
 
 
 Rapport d'enquête initial

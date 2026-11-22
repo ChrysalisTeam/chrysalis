@@ -46,7 +46,9 @@ Welcome by the Police Inspector
 - "We will also provide you with **police information**, as we go along, on our own investigations."
 - "Here is a **newspaper article** about that strange institution, the Cromlech of Lyon."
 
-**ROTATION ORDER: Guide, Reporter, Curator, and finally the Museum Treasure**
+**ROTATION ORDER (cyclic): Guide, then Reporter, then Curator, then Museum Treasure, then Guide again... Each group starts at a different station, and visits each station once.**
+
+At the Treasure, do not reset anything between two groups: whatever a group has opened (chest, cryptex) stays open for the following ones, and if a group fails to open it, the next one picks up where it left off. The groups that have already visited the Treasure learn what came next from the clerks, during the final huddles.
 
 
 Initial Investigation Report
