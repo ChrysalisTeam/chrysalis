@@ -10,6 +10,7 @@
     ##- "2 red tablecloths, yellow curtain, orange leopard-print curtain"
     - "3-colour spotlight with remote switches"
     - "well-filled smoke machine"
+    - "invisible-ink UV pen (yellow), to mark the seals of the Heliossarian reports before the game"
     - "remote switches set up, and electrical fuses identified, to switch everything on/off on demand"
     - "portable recorder to lend to Cynthia, if she does not record her interviews with her own smartphone"
     - "blank sheets for the documents that players write themselves, if they have not prepared them: Topaz's network traces {% xitem 'network_traces_on_amethyst_for_topaz' is provided %} and Shark's telephone frames {% xitem 'abnormal_phone_frames_for_shark' is provided %}"
@@ -30,7 +31,7 @@
 -
   - "Clues initially held by some NPCs"
   -
-    - "Oberon - Difficult summary of Yodic theology for Malachite (document \"yodic_theology_hard_summary\");{% xitem 'yodic_hard_summary_for_malachite_via_oberon' is provided %} Analysis 2/2 of the radioactive stones for Waden,{% xitem 'radioactive_samples_analysis_report_part_2_for_waden' is provided %} Two Heliossarian reports on Akarith armament, for the Lordanians {% xitem 'heliossar_spy_reports_on_akaris_armament' is provided %}"
+    - "Oberon - Difficult summary of Yodic theology for Malachite (document \"yodic_theology_hard_summary\");{% xitem 'yodic_hard_summary_for_malachite_via_oberon' is provided %} Analysis 2/2 of the radioactive stones for Waden,{% xitem 'radioactive_samples_analysis_report_part_2_for_waden' is provided %} Two Heliossarian reports on Akarith armament, for the Lordanians (draw an invisible seal with the UV pen: a vowel, e.g. \"A\", on the TRUE report, the one about the underground factories; a consonant, e.g. \"K\", on the FALSE one, the one about the obsolete explosives) {% xitem 'heliossar_spy_reports_on_akaris_armament' is provided %}"
     - "Rydji - Letter from Rodok for Loyd Georges, to be forwarded to Opal {% xitem 'letter_from_rodok_forwarded_to_opal' is provided %}"
     - "Tabellion - Elements of Sabarith Law (duplicate), Key to Loyd Georges' safe"
 

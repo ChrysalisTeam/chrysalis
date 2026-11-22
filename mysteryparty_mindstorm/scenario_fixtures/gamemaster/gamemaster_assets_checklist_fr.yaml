@@ -10,6 +10,7 @@
     ##- "2 nappes rouges, rideau jaune, rideau léopard orangé"
     - "projecteur 3 couleurs avec interrupteurs à distance"
     - "générateur de fumée bien rempli"
+    - "stylo à encre invisible UV (jaune), pour marquer les sceaux des rapports héliossars avant la partie"
     - "interrupteurs à distance réglés, et plombs électriques identifiés, pour tout allumer/éteindre sur demande"
     - "enregistreur portatif à prêter à Cynthia, si elle n'enregistre pas ses interviews avec son propre smartphone"
     - "feuilles vierges pour les documents que les joueurs rédigent eux-mêmes, s'ils ne les ont pas préparés : traces réseau de Topaz {% xitem 'network_traces_on_amethyst_for_topaz' is provided %} et trames téléphoniques de Shark {% xitem 'abnormal_phone_frames_for_shark' is provided %}"
@@ -30,7 +31,7 @@
 -
   - "Indices initialement détenus par certains PNJs"
   -
-    - "Obéron - Résumé difficile de théologie yodique pour Malachite (document \"yodic_theology_hard_summary\");{% xitem 'yodic_hard_summary_for_malachite_via_oberon' is provided %} Analyse 2/2 des pierres radioactives pour Waden,{% xitem 'radioactive_samples_analysis_report_part_2_for_waden' is provided %} Deux rapports héliossars sur l'armement akarite, pour les lordaniens {% xitem 'heliossar_spy_reports_on_akaris_armament' is provided %}"
+    - "Obéron - Résumé difficile de théologie yodique pour Malachite (document \"yodic_theology_hard_summary\");{% xitem 'yodic_hard_summary_for_malachite_via_oberon' is provided %} Analyse 2/2 des pierres radioactives pour Waden,{% xitem 'radioactive_samples_analysis_report_part_2_for_waden' is provided %} Deux rapports héliossars sur l'armement akarite, pour les lordaniens (marquer au stylo UV un sceau invisible : une voyelle, ex. \"A\", sur le VRAI rapport, celui des usines souterraines ; une consonne, ex. \"K\", sur le FAUX, celui des explosifs obsolètes) {% xitem 'heliossar_spy_reports_on_akaris_armament' is provided %}"
     - "Rydji - Lettre de Rodok pour Loyd Georges, à transférer à Opal {% xitem 'letter_from_rodok_forwarded_to_opal' is provided %}"
     - "Tabellion - Elements de Droit Sabarite (duplicata), Clef du coffre de Loyd Georges"
 

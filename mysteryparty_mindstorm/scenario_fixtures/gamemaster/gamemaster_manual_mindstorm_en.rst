@@ -253,7 +253,7 @@ But two Heliossarian espionage reports, obtainable from the Oberon mediator, pro
 1) one claims that the Akariths have obsolete explosives, not very effective against the new fortifications.
 2) the other claims that underground factories have been working at full capacity for several years, giving Akaris a monstrous advantage in terms of armoured forces.
 
-Analysis of these missives reveals that the first is false, and the second true.
+Analysis of these missives reveals that the first is false, and the second true: under Garnet's UV torch, the invisible yellow seal of the true one contains a vowel, that of the false one a consonant (the GM draws them with a UV pen, see the checklist).
 
 From then on, the Lordanians' objective becomes to prevent a victorious expansion of the Akariths in Midolia, by various means:
 

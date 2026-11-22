@@ -253,7 +253,7 @@ Mais deux rapports d'espionnage héliossars, récupérables auprès du médiateu
 1) l'une affirme que les akarites ont des explosifs obsolètes, peu efficaces contre les nouvelles fortifications.
 2) l'autre affirme que des usines souterraines travaillent à plein régime depuis plusieurs années, donnant à l'Akarie un avantage monstrueux en terme de forces blindées.
 
-L'analyse de ces missives révèle que la première est fausse, et la deuxième vraie.
+L'analyse de ces missives révèle que la première est fausse, et la deuxième vraie : à la lampe UV de Garnet, le sceau jaune invisible de la vraie contient une voyelle, celui de la fausse une consonne (le MJ les trace au stylo UV, voir la checklist).
 
 Dès lors, l'objectif des lordaniens devient d'empêcher une expansion victorieuse des akarites en Midolie, par différents moyens :
 
