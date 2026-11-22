@@ -16,7 +16,7 @@ Your main task is to protect Sabarim from the many external and internal threats
 =========================================================
 
 - you suspect {{character_properties.opal.official_name}} of having belonged to the "Red Wolves" gang in the past, a gang which stole the golden candles of the Duchess of Doria, mother of the current Duke; he is also said to have, in the past, rendered services to the Sabarith secret services under the supervision of your colleague "The Docker"  {% xfact 'opal_was_in_red_wolves_gang' %} {% xfact "opal_has_friend_in_sabarith_spies_called_the_docker" as author %}
-- according to the press, a certain "{{character_properties.malachite.official_name}}" had both legs broken the day before during a mouflon attack, in the desert hinterland of Sabarim...  {% xfact 'malachite_official_breaks_leg' %}
+- according to the press, a certain "{{character_properties.spinel.official_name}}" had both legs broken the day before during a mouflon attack, in the desert hinterland of Sabarim...  {% xfact 'spinel_official_breaks_leg' %}
 {% endif %}
 
 

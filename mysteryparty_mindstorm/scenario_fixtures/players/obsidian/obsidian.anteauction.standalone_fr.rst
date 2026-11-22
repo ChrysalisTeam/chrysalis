@@ -18,7 +18,7 @@ Avec l’appui de vos services secrets, vous pourriez lui apporter rapidement de
 
 Le sieur {{character_properties.opal.official_name}}, hébergé actuellement par Loyd Georges, semble avoir eu un passé tumultueux. Vos supérieurs vous ont indiqué qu'il avait rendu de "menus services" à votre pays, en contact exclusif avec un superviseur de mission sabarite appelé "le Docker". Mais sa tête ressemble étrangement à celle d'un des individus recherchés pour le vol des cierges d'or de la duchesse de Dorie, mère du Duc actuel. Pour l'acculer, il faudrait prouver sa connexion avec le gang des "loups rouges", qui avait organisé ce crime... {% xfact 'opal_was_in_red_wolves_gang' %} {% xfact "opal_has_friend_in_sabarith_spies_called_the_docker" as author %}
 
-En feuilletant les journaux du matin, un fait divers a attiré votre attention. L'enchérisseur "{{character_properties.malachite.full_official_title}}", a été victime d'une attaque de mouflon la veille, lors d'une randonnée pédestre dans l’arrière-pays désertique de Sabarim, et s'en est sorti avec les deux jambes cassées. Pauvre sir, il va être beau ce soir, s'il vient quand même au manoir de Loyd Georges. {% xfact 'malachite_official_breaks_leg' %}
+En feuilletant les journaux du matin, un fait divers a attiré votre attention. L'enchérisseur "{{character_properties.spinel.full_official_title}}" a été victime d'une attaque de mouflon la veille, lors d'une randonnée pédestre dans l’arrière-pays désertique de Sabarim, et s'en est sorti avec les deux jambes cassées. Pauvre sir, il va être beau ce soir, s'il vient quand même au manoir de Loyd Georges. {% xfact 'spinel_official_breaks_leg' %}
 
 
 
