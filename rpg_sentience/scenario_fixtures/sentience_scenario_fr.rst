@@ -131,6 +131,21 @@ Dans la foulée, Joséphine ramène de la ville un fidèle allié de son début 
 - faire emprisonner ou bannir le bourgmestre du village
 - se poser dans une fausse opposition électorale face à Joséphine, tout en laissant - dans tous les cas - la voie libre à la Société Minéralys pour exploiter les filons de la forêt.
 
+°
+
+**Les preuves, et où les trouver** :
+
+- **La vraie lettre de Séléné**, tapée à la machine à écrire, qui dénonce au bourgmestre les fouilles illicites : interceptée par Joséphine, qui l'a gardée (pour faire pression sur la Société Minéralys le moment venu) dans son **coffre-fort personnel**, à l'Hôtel de Village.
+- **Les papiers et carnets de bord des 3 explorateurs**, au sigle de Minéralys : Séléné les avait glissés dans son grimoire de vie ; ce sont les "carnets insérés dedans" que Joséphine récupère (scène 2) et range dans son coffre-fort.
+- **Le grimoire de vie** : ses dernières pages (l'explosion, les tombes, la lettre au bourgmestre, le mécanisme du coffret métallique) finissent dans le coffre-fort de Joséphine ; s'il n'a pas été escamoté entièrement, le reste du grimoire est dans les sacoches d'Abélard, à l'auberge.
+- **Le coffret métallique et sa mâchoire** : dans le coffre-fort (scènes 2 et 4), puis dans le sac de Joséphine, puis dans le bureau du bourgmestre (scène 5). Le coffre-fort s'ouvre avec la combinaison que les animaux peuvent épier (scène 4).
+- **La fausse lettre de menaces**, manuscrite et signée "Séléné" : le bourgmestre la garde ; l'apothicaire, archiviste, peut la lui demander (scène 4).
+- **L'écriture de Séléné** : ses manuscrits restés dans la tour (que les sapiens peuvent prendre au prélude, ou qu'Abélard rapporte en scène 4) ; ses missives, elles, sont toujours tapées à la machine.
+- **La vraie écriture de Dorina** : les lettres de Dorina conservées par Séléné dans la tour, ou Dorina elle-même (scène 4).
+- **La mort du toucan** : Dorina et Galien la connaissent ; ni la tortue ancestrale ni les sapiens ne la savent, Dorina n'étant pas venue à la tour depuis plus d'un an (le prologue, qui suit leur point de vue, présente donc le toucan comme vivant).
+- **Le second message télégraphique**, à la Société Minéralys : le poste télégraphique garde une bande imprimée de chaque message envoyé ; l'apothicaire, qui en est responsable, peut la relire s'il récupère sa clé (scène 4).
+- **Les témoins** : l'apothicaire (scènes 2 et 4) ; la conversation de la source thermale (scène 5) ; la tortue ancestrale, par sa réminiscence, sur un artefact qu'on lui apporte : le carreau d'arbalète (le meurtre par Abélard), la vraie lettre de Séléné (Joséphine la lisant, puis la cachant), ou la mâchoire (Joséphine scarifiant Abélard).
+
 
 .. raw:: pdf
 

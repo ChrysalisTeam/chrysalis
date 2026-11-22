@@ -131,6 +131,21 @@ In the process, Josephine brings back from the city a faithful ally from the sta
 - have the burgomaster imprisoned or banished from the village
 - set himself up as a sham electoral opponent against Josephine, while leaving - in any case - the way clear for the Mineralys Company to exploit the seams of the forest.
 
+°
+
+**Proofs, and where to find them**:
+
+- **Selene's real letter**, typed on her typewriter, which denounces the illicit diggings to the burgomaster: intercepted by Josephine, who has kept it (to put pressure on the Mineralys Company when the time comes) in her **personal safe**, at the Town Hall.
+- **The papers and logbooks of the 3 explorers**, bearing the Mineralys emblem: Selene had slipped them into her Grimoire of Life; they are the "notebooks inserted in it" that Josephine takes (scene 2) and stores in her safe.
+- **The Grimoire of Life**: its last pages (the explosion, the graves, the letter to the burgomaster, the mechanism of the metal casket) end up in Josephine's safe; unless it was spirited away entirely, the rest of the Grimoire is in Abelard's saddlebags, at the inn.
+- **The metal casket and its jaw**: in the safe (scenes 2 and 4), then in Josephine's bag, then in the burgomaster's office (scene 5). The safe opens with the combination that the animals can spy on (scene 4).
+- **The forged threatening letter**, handwritten and signed "Selene": the burgomaster keeps it; the apothecary, as archivist, can ask him for it (scene 4).
+- **Selene's handwriting**: her manuscripts left in the tower (which the sapients can take during the Prelude, or which Abelard brings back in scene 4); her missives, on the other hand, are always typed.
+- **Dorina's real handwriting**: Dorina's letters kept by Selene in the tower, or Dorina herself (scene 4).
+- **The toucan's death**: Dorina and Galien know of it; neither the Ancestral Tortoise nor the sapients do, as Dorina has not come to the tower for more than a year (so the Prologue, which follows their point of view, presents the toucan as alive).
+- **The second telegraph message**, to the Mineralys Company: the telegraph office keeps a printed tape of every message sent; the apothecary, who is responsible for it, can read it again if he gets his key back (scene 4).
+- **The witnesses**: the apothecary (scenes 2 and 4); the hot-spring conversation (scene 5); the Ancestral Tortoise, through her reminiscence, on an artefact brought to her: the crossbow bolt (the murder by Abelard), Selene's real letter (Josephine reading it, then hiding it), or the jaw (Josephine scarifying Abelard).
+
 
 .. raw:: pdf
 
