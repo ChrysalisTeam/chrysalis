@@ -507,4 +507,24 @@ Agilité (= attaque) des principaux ennemis :
 - Zélote akarite : 3 (avec un mousquet puis un katana)
 
 
+Fin de partie et épilogue
+---------------------------
+
+**Assaut final** : si les joueurs sont encore dans la caverne quand les akarites arrivent, une première vague de **4 paysans** descend par les filins du puits, suivie **10mn plus tard** de **6 zélotes** de la garnison. Le camion attend les joueurs à l'abri, au lieu convenu par radio ; s'ils le rejoignent plus de **30mn** après l'arrivée des akarites, des cavaliers de la garnison battent déjà les collines, et la fuite vers la frontière devient une course-poursuite.
+
+**Bilan**, une fois les joueurs revenus au camion (ou morts) :
+
+- tirer les chances encore en suspens, qui ne seront connues qu'après analyse par l'Académie d'Alifir : statue de Bartzar (1/3), cadavre (1/6), micro-inscriptions de la fresque (1/6), et crossentar ou hallebarde artefact exceptionnel (1/3 chacun, si ce n'est déjà fait) ; la prophétie runique se révèle bien postérieure à la chute de Nazur
+- additionner la valeur du butin rapporté (cf. trouvailles revendables) : il faut **100 kashes** pour éponger les dettes
+- pour l'Élixir Berserk : recette trouvée si les 3 ingrédients exacts ont été identifiés, sinon **1/2 chance** de la retrouver par essais et erreurs si les pictogrammes ont été notés
+
+**Épilogue**, à raconter pour chaque mission (réussie ou ratée) :
+
+- majordome : avec 100 kashes ou plus, la maisonnée de Loyd Georges est sauvée ; sinon, il doit vendre son domaine et congédier ses gens
+- archéologue : si les trois thèses (temple yodique, razulite, utilisé après la chute de Nazur) sont étayées et que 2 artefacts exceptionnels sont rapportés, l'Académie d'Alifir publie un "scoop archéologique" ; sinon, la découverte passe pour une fouille anecdotique
+- naturaliste : avec 2 nouvelles espèces, 2 découvertes d'adaptation et 5 séquences filmées, le département de Sciences de la Vie est fondé ; sinon, le projet est ajourné
+- baroudeur : réussite s'il n'y a eu aucun mort dans l'expédition, ni de blessé chez les akarites, et s'il a la recette de l'Élixir (efficacité double si le spectromètre de masse a servi)
+- si l'orbe a été rapporté, Loyd Georges le garde en grand secret, car sa découverte, si elle s'ébruitait, déclencherait la fureur des akarites
+
+
 

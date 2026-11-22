@@ -507,4 +507,24 @@ Agility (= attack) of the main enemies:
 - Akarith zealot: 3 (with a musket then a katana)
 
 
+Endgame and Epilogue
+---------------------------
+
+**Final assault**: if the players are still in the cavern when the Akariths arrive, a first wave of **4 peasants** climbs down the cables of the shaft, followed **10 min later** by **6 zealots** from the garrison. The truck waits for the players under cover, at the place agreed by radio; if they reach it more than **30 min** after the arrival of the Akariths, horsemen from the garrison are already scouring the hills, and the flight to the border becomes a chase.
+
+**Assessment**, once the players are back at the truck (or dead):
+
+- roll the chances still pending, which will only be known after analysis by the Alifir Academy: statue of Bartzar (1-in-3), corpse (1-in-6), micro-inscriptions of the fresco (1-in-6), and crossentar or halberd as an exceptional artefact (1-in-3 each, if not already done); the runic prophecy turns out to be well after the fall of Nazur
+- add up the value of the loot brought back (see the resaleable finds): **100 kashes** are needed to pay off the debts
+- for the Berserk Elixir: recipe found if the 3 exact ingredients were identified, otherwise a **1-in-2 chance** of finding it by trial and error if the pictograms were noted
+
+**Epilogue**, to narrate for each mission (succeeded or failed):
+
+- butler: with 100 kashes or more, Loyd Georges' household is saved; otherwise, he must sell his estate and dismiss his staff
+- archaeologist: if the three theses (Yodic temple, Razulite, used after the fall of Nazur) are substantiated and 2 exceptional artefacts are brought back, the Alifir Academy publishes an "archaeological scoop"; otherwise, the find passes for an anecdotal dig
+- naturalist: with 2 new species, 2 adaptation discoveries and 5 filmed sequences, the Life Sciences department is founded; otherwise, the project is postponed
+- ranger: success if there were no deaths in the expedition, nor any wounded among the Akariths, and if he has the Elixir recipe (double potency if the mass spectrometer was used)
+- if the orb was brought back, Loyd Georges keeps it in the utmost secrecy, for its discovery, if word got out, would unleash the fury of the Akariths
+
+
 
