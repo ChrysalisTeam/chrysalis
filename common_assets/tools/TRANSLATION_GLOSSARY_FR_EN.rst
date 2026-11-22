@@ -791,8 +791,8 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - gold sticker star / silver sticker star; sticker
      - Out-of-game markers. "pastille" referring back to a sticker star = "sticker" (never "sticker dot"); only the round coloured tidying dots of game_rules are "round coloured sticker dots".
    * - étole violette
-     - purple stole
-     - Diakons' identifying garment.
+     - violet stole
+     - Diakons' identifying garment; "violet", never "purple", to keep it apart from the phantoms' purple tunic.
    * - exorciste / exorcisme / Les rituels d'exorcisme
      - Exorcist / exorcism / Exorcism Rituals
      - Diakon role (canonical).
