@@ -176,7 +176,7 @@ HOUR 0:30
 
 - [if the will has not been read yet] Alphonse finds the golden pass card and the secret code, scene of the reading of Loyd Georges' will, with all the guests
 
-- EMAILS: "Tempting offers on the black market!", "Fwd: email sent to the snoop" (for Cynthia),
+- EMAILS: "Tempting offers on the black market!", "Fwd: emale sent too the snoop" (for Cynthia),
 
 - RADIO SPOTS: "Miscellaneous commercial announcements 2", "Warnings about Xylitol and the Zombifying Drug"
 
