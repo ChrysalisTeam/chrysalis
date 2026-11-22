@@ -792,7 +792,7 @@ messaging:
 
                 Chers Pr Loakim et sir Loyd Georges,
 
-                je suis toujours sur le discret chemin du retour vers Kéroskia, mais je me dois de vous alerter en urgence, car ma valise a été controlée positive aux rayonnements atomiques dans le port de Kotlal. Le sarcophage de plomb dans lequel le manuscrit se trouvait devait être notoirement radioactif, sans doute à cause des roches granitiques environnantes. Il est donc plus que probable que le fameux livet le soit aussi, même si le niveau de radiation ne doit pas être aussi fort. Évitez de le porter sur vous.
+                je suis toujours sur le discret chemin du retour vers Kéroskia, mais je me dois de vous alerter en urgence, car ma valise a été contrôlée positive aux rayonnements atomiques dans le port de Kotlal. Le sarcophage de plomb dans lequel le manuscrit se trouvait devait être notoirement radioactif, sans doute à cause des roches granitiques environnantes. Il est donc plus que probable que le fameux livret le soit aussi, même si le niveau de radiation ne doit pas être aussi fort. Évitez de le porter sur vous.
 
                 cordialement,
 
@@ -810,7 +810,7 @@ messaging:
 
                 sur vos instructions, nous avons fait une descente musclée dans {{ TARGET_LOCATION }}.
 
-                Nous sommes tombés sur une groupe d'individus louches dans le 3e sous-sol, mais ils ont réussi à s'enfuir par un tunnel.
+                Nous sommes tombés sur un groupe d'individus louches dans le 3e sous-sol, mais ils ont réussi à s'enfuir par un tunnel.
 
                 Nous avons trouvé une esquisse de Salima que nous vous envoyons par coursier, quelques griffonnages évoquant un "grand coup" en préparation, des armes de poing, ainsi que plusieurs caisses de montres à gousset industrielles. Ces montres contenaient en leur centre des sachets de la nouvelle Drogue Zombifiante ; nous en transmettons un exemplaire complet dans votre coffre à distance d'Anthropia, si vous voulez l'analyser vous-même.
 
@@ -833,7 +833,7 @@ messaging:
 
                 Agent,
 
-                suite aux différents indices découvertes par vos soin, nous avons dans le collimateur environ {{ NOMBRE }} tavernes "AuBonPichet" réparties dans les métropoles de Sabarim, et qui seraient soumises aux infiltrés akarites.
+                suite aux différents indices découverts par vos soins, nous avons dans le collimateur environ {{ NOMBRE }} tavernes "AuBonPichet" réparties dans les métropoles de Sabarim, et qui seraient soumises aux infiltrés akarites.
 
                 L'armée ne saurait intervenir dans une affaire intérieure, et la police a été mise au pas par les consuls, nous sommes donc les seuls à pouvoir régler ce problème avant que le "grand coup" évoqué par différentes sources ait lieu.
 
@@ -1017,9 +1017,9 @@ audio_messages:
             \pau=2000\ \vce=speaker=Antoine\ Bonsoir à tous. L'heure est grave. Le pays de Sabarim est
             en proie  à des grands troubles, Pour cette édition du journal national, nous retrouvons
             tout de suite notre envoyée spéciale à Salima! \pau=1000\ \vce=speaker=Julie\ En effet,
-            de nombreuses manifestations d'analphabêtes ont lieu dans plusieurs villes du pays, la
-            police tente de reprimer ce qui pourrait bien tourner à un mouvement d'émeutes.Les rues de
-            sont pas sures, Nous conseillons aux habitants de Salima de ne pas quitter leur logements.
+            de nombreuses manifestations d'analphabètes ont lieu dans plusieurs villes du pays, la
+            police tente de réprimer ce qui pourrait bien tourner à un mouvement d'émeutes. Les rues ne
+            sont pas sûres, nous conseillons aux habitants de Salima de ne pas quitter leur logements.
             \pau=1000\ \audio=play="new_orchestra_hits_X_ending_008";volume=120\
 
 
@@ -1074,7 +1074,7 @@ audio_messages:
          "text": >-
              \audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\
              \vce=speaker=Julie\
-             En sabarim, la situation est très confuse près de la frontière Esst, où divers groupes d'assaillants
+             En sabarim, la situation est très confuse près de la frontière Est, où divers groupes d'assaillants
              ont échangé des coups de feu dans un établissement thermal. Des akarites infiltrés,
              et des policiers renégats, auraient participé à cette scène de guerre, avant de se disperser dans la forêt.
              Le début d'incendie a été maîtrisé, et la plupart des pensionnaires ont rejoint Alifir, mais une dame et un

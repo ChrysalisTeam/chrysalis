@@ -23,7 +23,7 @@ Bien avant le jeu, entre MJs et PNJs :
 - mettre en place l'enregistrement complet de la murder, le son compris si possible
 - maquillages : pour vieillir un personnage, dessiner des rides avec un crayon noir type khole de manière fine et estomper, ou alors avec un fard gris ; ou mieux, marquer les cernes avec un fard foncé et griser les cheveux
 
-- ALERTER SUR LES PLATS A ALLERGIE : "OBSIDIAN : Allergie au fromage de chèvre (et quelques autres mais je sais me débrouiller pour les éviter, et elles ne sont pas grave)."
+- ALERTER SUR LES PLATS A ALLERGIE : "OBSIDIAN : Allergie au fromage de chèvre (et quelques autres mais je sais me débrouiller pour les éviter, et elles ne sont pas graves)."
 
 
 - fonctionnement des PNJs :
