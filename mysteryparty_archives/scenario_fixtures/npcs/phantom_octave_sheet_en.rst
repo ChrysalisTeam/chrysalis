@@ -70,7 +70,7 @@ You know that your sister kept her most precious belongings in her small occult-
 
 The Archivist told you that he had found, and properly filed, certain old potion recipes that had been useful in saving your sister Meredice in her childhood. {% xfact "archivist_knows_about_meredice_rejuvenation_cocktail_recipe_location" %} {% xfact "archivist_has_marked_locations_of_rejuvenation_cocktail_subrecipes" %}
 
-If someone talks to you about the **Maupertuis treasure**, you know that the family had a wealth-generating artefact, in the Forbidden Domain. The magic code to use it changes every day, you were told. {% xfact "treasure_code_changes_magically" %}
+If someone talks to you about the **Maupertuis treasure**, you know that the family had a wealth-generating artefact, in the Forbidden Domain. The magic code to use it changes every month, you were told. {% xfact "treasure_code_changes_magically" %}
 
 During your final preparations, you had started gathering **a little money** in your travel bag, at least the money that had not been mischievously hidden by your sister before the sacking of the Maupertuis manor. If this travel bag can no longer be found, either someone stole it, or it was simply buried under one of the **rockfalls** that have occurred since; you do not know where. {% xitem 'travel_bag_with_money_under_far_rubbles' is needed %} {% xfact "octave_moneybox_hidden_by_meredice_is_lost" %}
 

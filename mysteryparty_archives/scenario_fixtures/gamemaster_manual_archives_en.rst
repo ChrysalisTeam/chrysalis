@@ -936,7 +936,7 @@ The players must understand that it is a **coffee mill** simply "hidden in plain
 
 This mill, capable of generating precious stones out of nothing, actually requires a song from a magic grimoire in order to work.
 Optionally, a seal on the forbidden floor must be activated to make this magic grimoire appear.
-This work is protected by a code that changes every few days. {% xitem "symbolic_cards_enigma_app" is needed %} {% xfact "treasure_code_changes_magically" %}
+This work is protected by a code that changes every month. {% xitem "symbolic_cards_enigma_app" is needed %} {% xfact "treasure_code_changes_magically" %}
 
 The code is made up of symbols spread across 4 (indestructible) Maupertuis jewels. Only 3 jewels are enough to activate the song, as the last symbol can be found *relatively* quickly by trial and error on the singing grimoire's code.
 

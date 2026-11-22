@@ -936,7 +936,7 @@ Les joueurs doivent comprendre qu’il s’agit d’un **moulin à café** simpl
 
 Ce moulin, capable de générer des pierres précieuses à partir de rien, nécessite en réalité un chant issu d'un grimoire magique, pour fonctionner.
 Optionnellement, il faut activer un sceau dans l'étage interdit pour faire apparaître ce grimoire magique.
-Cet ouvrage est protégé par un code qui change tous les quelques jours. {% xitem "symbolic_cards_enigma_app" is needed %} {% xfact "treasure_code_changes_magically" %}
+Cet ouvrage est protégé par un code qui change chaque mois. {% xitem "symbolic_cards_enigma_app" is needed %} {% xfact "treasure_code_changes_magically" %}
 
 Le code est constitué de symboles répartis entre 4 bijoux (indestructibles) des Maupertuis. 3 bijoux seulement suffisent à activer la chanson, car le dernier symbole peut se trouver *relativement* rapidement par essai et erreur sur le code du grimoire chantant.
 
