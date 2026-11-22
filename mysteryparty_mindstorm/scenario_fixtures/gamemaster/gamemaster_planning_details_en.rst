@@ -66,7 +66,7 @@ REMINDERS FOR THE GMs (the NPCs' instructions are in their sheets)
 
 - GMs: Malachite's spy recorders; when a player recovers the CHROMIA pen (sold by Alphonse) or the Olympus dictaphone (behind a sofa), and tries to listen to it, give them the matching transcript of the "audio_recordings" document ("Spy pen": Opal and Lydia in the library; "Spy dictaphone": Loyd Georges and Rydji on the sofa), or play them the matching MP3
 
-- GMs and OBERONS: hiring armed mercenaries, for a violent action, costs between 600 and 1,000 kashes (half as much if paid in gems); remember to announce, every 30 min if possible, the unread emails (search for "has_new_messages" in the DB)
+- GMs and OBERONS: hiring armed mercenaries, for a violent action, costs between 600 and 1,000 kashes (a third as much if paid in gems, e.g. 600 kashes or 200 in gems on the portal); remember to announce, every 30 min if possible, the unread emails (search for "has_new_messages" in the DB)
 
 
 

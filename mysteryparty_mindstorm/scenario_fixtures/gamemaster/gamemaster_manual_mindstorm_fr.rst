@@ -97,7 +97,7 @@ Mécaniques récurrentes pour les joueurs
   - subtilisation (discrète) d'objets marqués comme "en jeu" (clefs, papiers…)
   - collaboration avec les serviteurs de LG ou les obérons pour aller chercher des informations ailleurs
   - utilisation de compétences propres à chaque joueur (interrogatoire hypnotique, déchiffrage de manuscrits anciens…)
-  - utilisation de certaines compétences du portail "Pangeaweb" (encyclopédie, mercenaires, outils d'analyse de l’académie), le cas échéant
+  - utilisation de certaines compétences du portail "Anthropia" (encyclopédie, mercenaires, outils d'analyse de l’académie), le cas échéant
 
 - enquête criminelle pour certains joueurs
 
@@ -251,7 +251,7 @@ Initialement, les agents lordaniens pensent que les forces armées sont équilib
 Mais deux rapports d'espionnage héliossars, récupérables auprès du médiateur obéron, apportent des informations contradictoires :
 
 1) l'une affirme que les akarites ont des explosifs obsolètes, peu efficaces contre les nouvelles fortifications.
-2) l'autre affirme que des usines souterraines travaillent à plein régime depuis plusieurs années, donnant à l'Akarie un avantage monstrueux en terme de forces blindées.
+2) l'autre affirme que des usines souterraines travaillent à plein régime depuis un an déjà, donnant à l'Akarie un avantage monstrueux en terme de forces blindées.
 
 L'analyse de ces missives révèle que la première est fausse, et la deuxième vraie : à la lampe UV de Garnet, le sceau jaune invisible de la vraie contient une voyelle, celui de la fausse une consonne (le MJ les trace au stylo UV, voir la checklist).
 
@@ -295,7 +295,7 @@ L'arbre de décision final est grosso-modo celui-ci :
   - si le duc a la confiance des akarites, il s'enfuit pour rejoindre les judicateurs et leur livrer ses secrets d'État
   - si le duc est "grillé", il rejoint avec son pays la coalition midolienne anti-akarite, avec un large support de sa population (mais là encore risques de troubles des akarites infiltrés)
 
-Attention, les lordaniens peuvent avoir mis leur grain de sel dans l'affaire, en émettant des fausses nouvelles dans les médias ; nouvelles qui peuvent ou non avoir été démasquées (en particulier par Cynthia et ses relations de presse). Cela pourrait a minima semer le doute parmi les différents chefs religieux akarites, et faire pencher la balance vers un sens ou l'autre.
+Attention, d'autres camps peuvent avoir mis leur grain de sel dans l'affaire, en émettant des fausses nouvelles dans les médias (seul le dorien Peridot a la compétence "Intox Presse", mais les lordaniens peuvent en obtenir l'usage auprès de lui : marché, chantage...) ; nouvelles qui peuvent ou non avoir été démasquées (en particulier par Cynthia et ses relations de presse). Cela pourrait a minima semer le doute parmi les différents chefs religieux akarites, et faire pencher la balance vers un sens ou l'autre.
 
 
 
@@ -354,7 +354,7 @@ Les serviteurs ne savent pas où ces recettes sont (pas vues depuis plusieurs jo
 
 Si personne n'a encore vu les glyphes sur le toit de la cabane de jardin lorsque le cuisinier arrive, des serviteurs peuvent alerter bruyamment de leur surprenante présence.
 
-Piste alternative, si la recherche cale toujours et si le détecteur de radioactivité est disponible : un message d'Ernest de Villeneuve annonce à Loyd Georges et Emilos Loakim que le livret livré ce matin au manoir risquait d'être **radioactif**, et qu'il leur fallait donc prendre des précautions.
+Piste alternative, si la recherche cale toujours et si le détecteur de radioactivité est disponible : un message d'Ernest de Villeneuve annonce à Loyd Georges et Emilos Loakim que le livret livré hier matin au manoir risquait d'être **radioactif**, et qu'il leur fallait donc prendre des précautions.
 Dès visualisation de ce message (via le compte de Loyd Georges hacké), les joueurs doivent penser à acheter le **détecteur de radiations** auprès du marché noir, le faire venir au manoir par un moyen ou un autre (colis postal ? masseur de Salima ? vieille dame ?), et s'en servir pour trouver le Panorbium Fortuna.
 
 Une fois arrivé, le cuisinier dit sans problème où ces recettes "encombrantes et inutiles" peuvent être récupérées : **dans un coin de la bibliothèque**.
@@ -479,7 +479,7 @@ Trouver le coupable de l'agression contre Loyd Georges : l’énigme du laurier 
 ---------------------------------------------------------------------------------------
 
 
-Les différents rapports médicaux, et les récits de la journée de la veille (dont les alibis des protagonistes), laissent à penser que l’empoisonnement de Loyd Georges a eu lieu au dîner, avec de la blanquette de veau au laurier. Le vieux chien Bedou, retrouvé mort avec des symptômes similaires à son maître, confirme cette intuition. Les autres habitants du manoir n'avaient pas dîné avec Loyd Georges, pour différentes raisons.
+Les différents rapports médicaux, et les récits de la journée de la veille (dont les alibis des protagonistes), laissent à penser que l’empoisonnement de Loyd Georges a eu lieu au dîner, avec de la blanquette de veau au laurier. Le vieux chien Bedou, retrouvé mort avec des symptômes similaires à son maître, confirme cette intuition. Personne d'autre au manoir n'avait mangé de cette blanquette (Rydji, végétarien, avait dîné avec Loyd Georges d'un riz nature ; les autres étaient absents).
 
 Alphonse retrouve, sur demande, la recette utilisée pour la blanquette de veau, puis l'emballage du laurier. Celui-ci contient, caché derrière quelques branchages, un petit flyer de publicité pour la boutique de l'apothicaire Maître Bibine.
 

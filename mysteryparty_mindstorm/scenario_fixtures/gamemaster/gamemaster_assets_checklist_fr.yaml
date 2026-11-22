@@ -84,7 +84,7 @@
     - "Jeu des bâtonnets en métal"
     - "Boite plate noire à motifs rouges"
     - "Beau coffret bois-et-or, contenant au moins 2 étuis à lunette (dont 1 rempli), 1 flacon tubulaire en verre, et le coupe-papier \"Blois\""
-    - "Cadre photo du lapin"
+    - "Cadre photo du lapin"  # leurre : le premier animal de LG était un chat, voir le cadre photo du chaton
 
 -
   - "Cadenas et leurs clefs"
@@ -225,4 +225,4 @@
     - "Lettre de la Gazette de Sabarim et objet en ivoire pour Cynthia (dans un fourreau de velours)"  # pour manipuler les purificateurs akarites de Sabarim
     - "Sabre de fanatique akarite"
     - "Fusil Nerf de fanatique akarite (avec laser)"
-    - "Cadre photo du chaton"
+    - "Cadre photo du chaton"  # indice sur le premier animal de LG (un chat), exposé dans la salle à 1:00 via Alphonse si pas déjà demandé

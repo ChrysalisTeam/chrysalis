@@ -97,7 +97,7 @@ Recurring mechanics for the players
   - (discreet) pilfering of objects marked as "in-game" (keys, papers…)
   - collaboration with LG's servants or the Oberons to go and fetch information elsewhere
   - use of the abilities specific to each player (hypnotic interrogation, deciphering of ancient manuscripts…)
-  - use of certain abilities of the "Pangeaweb" portal (encyclopedia, mercenaries, the academy's analysis tools), where applicable
+  - use of certain abilities of the "Anthropia" portal (encyclopedia, mercenaries, the academy's analysis tools), where applicable
 
 - criminal investigation for some players
 
@@ -251,7 +251,7 @@ Initially, the Lordanian agents believe that the armed forces are balanced in Mi
 But two Heliossarian espionage reports, obtainable from the Oberon mediator, provide contradictory information:
 
 1) one claims that the Akariths have obsolete explosives, not very effective against the new fortifications.
-2) the other claims that underground factories have been working at full capacity for several years, giving Akaris a monstrous advantage in terms of armoured forces.
+2) the other claims that underground factories have been working at full capacity for a year already, giving Akaris a monstrous advantage in terms of armoured forces.
 
 Analysis of these missives reveals that the first is false, and the second true: under Garnet's UV torch, the invisible yellow seal of the true one contains a vowel, that of the false one a consonant (the GM draws them with a UV pen, see the checklist).
 
@@ -295,7 +295,7 @@ The final decision tree is roughly as follows:
   - if the Duke has the Akariths' trust, he flees to join the Judicators and hand them his State secrets
   - if the Duke is "burnt", he joins the anti-Akarith Midolian coalition with his country, with broad support from his population (but there again, risk of unrest from infiltrated Akariths)
 
-Beware, the Lordanians may have put their oar in, by issuing fake news in the media; news that may or may not have been exposed (in particular by Cynthia and her press connections). This could at the very least sow doubt among the various Akarith religious leaders, and tip the balance one way or the other.
+Beware, other factions may have put their oar in, by issuing fake news in the media (only the Dorian Peridot has the "Press Disinformation" ability, but the Lordanians may obtain its use from him: deal, blackmail...); news that may or may not have been exposed (in particular by Cynthia and her press connections). This could at the very least sow doubt among the various Akarith religious leaders, and tip the balance one way or the other.
 
 
 
@@ -354,7 +354,7 @@ The servants do not know where these recipes are (not seen for several days), th
 
 If nobody has yet seen the glyphs on the roof of the garden shed when the cook arrives, servants may loudly raise the alarm about their surprising presence.
 
-Alternative lead, if the search is still stalling and if the radioactivity detector is available: a message from Ernest de Villeneuve informs Loyd Georges and Emilos Loakim that the booklet delivered to the manor this morning might be **radioactive**, and that they should therefore take precautions.
+Alternative lead, if the search is still stalling and if the radioactivity detector is available: a message from Ernest de Villeneuve informs Loyd Georges and Emilos Loakim that the booklet delivered to the manor yesterday morning might be **radioactive**, and that they should therefore take precautions.
 Upon viewing this message (via Loyd Georges' hacked account), the players must think of buying the **radiation detector** on the black market, having it brought to the manor by one means or another (postal parcel? masseur from Salima? old lady?), and using it to find the Panorbium Fortuna.
 
 Once he has arrived, the cook readily says where these "cumbersome and useless" recipes can be retrieved: **in a corner of the library**.
@@ -479,7 +479,7 @@ Finding the culprit of the attack on Loyd Georges: the oleander riddle
 ---------------------------------------------------------------------------------------
 
 
-The various medical reports, and the accounts of the previous day (including the protagonists' alibis), suggest that Loyd Georges' poisoning took place at dinner, with a veal blanquette with bay leaves. The old dog Bedou, found dead with symptoms similar to his master's, confirms this intuition. The other inhabitants of the manor had not dined with Loyd Georges, for various reasons.
+The various medical reports, and the accounts of the previous day (including the protagonists' alibis), suggest that Loyd Georges' poisoning took place at dinner, with a veal blanquette with bay leaves. The old dog Bedou, found dead with symptoms similar to his master's, confirms this intuition. Nobody else in the manor had eaten this blanquette (Rydji, a vegetarian, had dined with Loyd Georges on plain rice; the others were away).
 
 Alphonse finds, on request, the recipe used for the veal blanquette, then the packaging of the "bay leaves" (actually oleander). The latter contains, hidden behind a few sprigs, a small advertising flyer for the shop of the apothecary Master Bibine.
 

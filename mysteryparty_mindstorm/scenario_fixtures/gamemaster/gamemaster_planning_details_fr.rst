@@ -66,7 +66,7 @@ RAPPELS POUR LES MJs (les consignes des PNJs sont dans leurs fiches)
 
 - MJs : enregistreurs espions de Malachite ; quand un joueur récupère le stylo CHROMIA (vendu par Alphonse) ou le dictaphone Olympus (derrière un canapé), et cherche à l'écouter, lui remettre la transcription correspondante du document "audio_recordings" ("Stylo espion" : Opal et Lydia dans la bibliothèque ; "Dictaphone espion" : Loyd Georges et Rydji sur le canapé), ou lui faire écouter le MP3 correspondant
 
-- MJs et OBERONS : embaucher des mercenaires armés, pour une action violente, coûte entre 600 et 1000 kashes (2 fois moins si c'est payé en gemmes) ; penser à clamer, toutes les 30mn si possible, les emails non lus (chercher "has_new_messages" dans la DB)
+- MJs et OBERONS : embaucher des mercenaires armés, pour une action violente, coûte entre 600 et 1000 kashes (3 fois moins si c'est payé en gemmes, ex. 600 kashes ou 200 en gemmes sur le portail) ; penser à clamer, toutes les 30mn si possible, les emails non lus (chercher "has_new_messages" dans la DB)
 
 
 
