@@ -42,7 +42,7 @@ En ce qui concerne le jour des entretiens (la veille du jour actuel) :
 
 Loyd Georges prenait quotidiennement de la Digoxine à {% symbol "18h" for "afternoon_lg_medecine_time" %} (et du Resorpa au coucher), pour ses problèmes de rythme cardiaque. Le mémo d'instructions laissé au mur pour Robb Barrow le mentionne correctement, mais c'est de toute façon le majordome qui a effectué le dosage, comme à son habitude.
 
-LG était-il allergique à quelque chose ? Oui, à la poussière et aux foins, mais pas d'allergie alimentaire connue (ainsi les arachides apportées sont hors de cause).
+LG était-il allergique à quelque chose ? Oui, à la poussière et aux foins, mais pas d'allergie alimentaire connue (ainsi les noix tropicales apportées sont hors de cause).
 
 Baignant depuis longtemps dans l'archéologie de Loyd Georges, vous savez que la **bague à tête de mort** de l'ambassadeur akarite est typique des {% symbol "hauteurs de Kéroskia" for "akarith_ambassador_skull_ring_origin" %}. L'autre est plus commune.
 

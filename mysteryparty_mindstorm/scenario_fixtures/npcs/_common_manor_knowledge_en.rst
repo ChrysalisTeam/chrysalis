@@ -42,7 +42,7 @@ Regarding the day of the interviews (the day before the current one):
 
 Loyd Georges took Digoxin every day at {% symbol "18:00" for "afternoon_lg_medecine_time" %} (and Resorpa at bedtime), for his heart rhythm problems. The instruction memo left on the wall for Robb Barrow mentions it correctly, but in any case it was the butler who measured out the dose, as he always did.
 
-Was LG allergic to anything? Yes, to dust and hay, but no known food allergy (so the peanuts that were brought in are not to blame).
+Was LG allergic to anything? Yes, to dust and hay, but no known food allergy (so the tropical nuts that were brought in are not to blame).
 
 Having long been steeped in Loyd Georges' archaeology, you know that the Akarith Ambassador's **skull ring** is typical of the {% symbol "Keroskia highlands" for "akarith_ambassador_skull_ring_origin" %}. The other one is more common.
 
