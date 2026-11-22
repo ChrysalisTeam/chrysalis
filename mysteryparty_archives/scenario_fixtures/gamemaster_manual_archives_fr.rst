@@ -946,7 +946,7 @@ Mais les ingrédients et le mode de préparation de cette teinture sont très co
 - Un ingrédient de la Teinture est en évidence à l’étage autorisé ; un autre en évidence sur l'établi de gemmologie ; un autre sur l'établi d'alchimie dans le domaine interdit (la vapeur de Thorium, dans un des 2 tiroirs rouges protégés par un verrou magnétique, que le crocheteur sait ouvrir) ; le dernier dans un **corridor toxique** de l’étage interdit (c'est une protection supplémentaire du lieu). {% xfact "one_corridor_is_toxic" %} {# Hint tags for this are in the clues document #}
   Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% xitem "androids_command_silver_white_ribbon_bracelet_for_inventor" is needed %}
 
-- Enfin, il faut un récipient métallique avec **enchantement anti-explosion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet cylindrique en cuivre avec anse). {% xitem "enchanted_copper_cauldron_on_alchemy_table" is needed %}
+- Enfin, il faut un récipient métallique avec **enchantement anti-explosion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudron en cuivre à anse, au dessous bombé ; à ne pas confondre avec le chaudronnet rond à 3 pieds). {% xitem "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 
 - Une fois tous les ingrédients rassemblés (pas besoin de préparer effectivement les potions), la famille a réussi cette mission, à condition qu’elle puisse quitter les lieux.
 

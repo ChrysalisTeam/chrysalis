@@ -946,7 +946,7 @@ But the ingredients and the preparation method of this tincture are very complex
 - One ingredient of the Tincture is in plain sight on the authorised floor; another in plain sight on the gemmology workbench; another on the alchemy workbench in the Forbidden Domain (the Thorium vapour, in one of the 2 red drawers protected by a magnetic lock, which the Lockpicker can open); the last in a **toxic corridor** of the forbidden floor (this is an additional protection of the place). {% xfact "one_corridor_is_toxic" %} {# Hint tags for this are in the clues document #}
   Walking down this last corridor means certain death. To retrieve the ingredient in question, one must either have recovered the anti-poison necklace elsewhere, or have been given control of an automaton and send it to fetch this ingredient (or simply ask the Inventor to act). {% xitem "androids_command_silver_white_ribbon_bracelet_for_inventor" is needed %}
 
-- Finally, a metal container with an **anti-explosion enchantment** is needed, which can be found among the alchemy tools (in the form of a small cylindrical copper cauldron with a handle). {% xitem "enchanted_copper_cauldron_on_alchemy_table" is needed %}
+- Finally, a metal container with an **anti-explosion enchantment** is needed, which can be found among the alchemy tools (in the form of a copper cauldron with a rounded bottom and a handle; not to be confused with the small round cauldron on 3 feet). {% xitem "enchanted_copper_cauldron_on_alchemy_table" is needed %}
 
 - Once all the ingredients have been gathered (there is no need to actually prepare the potions), the family has succeeded in this mission, provided it can leave the place.
 
