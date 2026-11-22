@@ -27,7 +27,7 @@ Chrysalis:Sentience - L'alchimiste est morte
 - perçu comme un présage néfaste, quand croisé en journée
 - envol silencieux (quand il ne transporte personne)
 - voit dans le noir (nyctalopie)
-- œil aiguisé et cerfs acérés
+- œil aiguisé et serres acérées
 - parle le langage humain
 - a un peu observé les mœurs des humains du village
 - inception : sait insérer une idée, une envie, un sujet de discussion, dans la tête d'un humain
@@ -82,7 +82,7 @@ L'alchimiste **Séléné**, déçue par le comportement des humains, a vécu de 
 Inquiète de la convoitise croissante des humains envers les ressources de la forêt, elle a négocié il y a douze ans un **Pacte de Sang** entre elle-même et son village d'origine. Les humains s'engageaient solidairement à ne pas toucher aux arbres, aux pierres, et autres richesses de la forêt, et à ne chasser ou cueillir que ce qui leur était strictement nécessaire pour manger et se vêtir ; en retour, les bêtes et monstres de la forêt s'engageaient via Séléné à ne jamais déborder hors de leur territoire, même en temps de famine, et à ne jamais attaquer les humains (sauf légitime défense). Ce pacte se doublait bien sûr de garanties magiques : la chance et la prospérité tant qu'il serait respecté, la malchance et les catastrophes dans le cas contraire.
 
 Depuis, Séléné a poursuivi ses recherches dans les arts alchimiques, en les orientant vers les animaux.
-Elle a réussi des prodiges en la matière, avec des potions capables de rendre certaines bêtes des forêts "sapiens", c'est-à-dire douées de raison et d'inventivité. Ces réussites lui ont valu de rafler une bonne partie des récompenses aux **trois derniers Congrès Trisannuel des Prodiges** - ce qui naturellement a éveillé quelques jalousies.
+Elle a réussi des prodiges en la matière, avec des potions capables de rendre certaines bêtes des forêts "sapiens", c'est-à-dire douées de raison et d'inventivité. Ces réussites lui ont valu de rafler une bonne partie des récompenses aux **trois derniers Congrès Trisannuels des Prodiges** - ce qui naturellement a éveillé quelques jalousies.
 La **Tortue Ancestrale**, son animal de compagnie, est devenue son assistante de recherche. Et Séléné a continué ses travaux en éveillant à l'intelligence un ouistiti, un hibou, et dernièrement un wombat. 
 
 Avec le temps, Séléné était de plus en plus accaparée par ses travaux. Il lui arrivait encore, rarement, de recevoir la visite de quelques notables du village. Ou de ses amis : **l'Enchanteresse Dorina** (dont l'animal de compagnie est un rarissime **toucan à bec vert**), et le **Druide Galien** (dont l'animal de compagnie est un **ours nain**) ; tous deux des magiciens habitant aux autres extrémités de la forêt.
@@ -114,18 +114,18 @@ Là, Abélard enfonce la porte de la tour de Séléné, et l'assassine. C'est à
 
 **Le vrai fond de l'affaire** : en réalité, Joséphine des Hautvents déteste son père autoritaire, castrateur, qui n'a jamais cru en elle, et a même tenté de la marier de force avant qu'elle ne s'enfuie vers la grande ville. Sans surprise, lorsqu'elle revient au pays et évoque la ruée actuelle vers les cristaux sulfureux, le bourgmestre s'approprie cette idée, et elle ne peut jouer son rôle d'apporteuse d'affaire auprès de la **Société Minéralys** qui a des vues sur les gisements de la région.
 
-Elle guide donc, par télégraphe, la Société Minéralys pour qu'une de leur équipe évalue en secret la qualité des filons rocheux. Mais ces fouilles déclenchent la malédiction du Pacte de Sang : les **3 explorateurs de Minéralys** déclenchent une (rare) explosion sulfureuse, qui fait tomber des rochers sur le village, et aucun d'eux ne revient.
+Elle guide donc, par télégraphe, la Société Minéralys pour qu'une de leurs équipes évalue en secret la qualité des filons rocheux. Mais ces fouilles déclenchent la malédiction du Pacte de Sang : les **3 explorateurs de Minéralys** déclenchent une (rare) explosion sulfureuse, qui fait tomber des rochers sur le village, et aucun d'eux ne revient.
 
 L'alchimiste Séléné s'aperçoit de l'intrusion, **enterre sur place** décemment le peu qui reste des explorateurs, et récupère leurs quelques **papiers et carnets** de bord en vue de les rendre au village. Elle envoie une lettre courroucée au bourgmestre du village, en lui demandant de sévir pour que ces explorations illicites cessent immédiatement.
-L'alchimiste fait délivrer en boite aux lettres, par son **corbeau postal**, cette missive, mais celle-ci est interceptée et dissimulée par Joséphine, qui ne veut pas que ses manigances minières soient découvertes. 
+L'alchimiste fait délivrer en boîte aux lettres, par son **corbeau postal**, cette missive, mais celle-ci est interceptée et dissimulée par Joséphine, qui ne veut pas que ses manigances minières soient découvertes. 
 
-La fille du bourgmestre rebondit immédiatement sur cette catastrophe des éboulis rochers en encourageant son père à éliminer Séléné (qui reste un obstacle pour tous, entre autres en tant que gardienne du Pacte de Sang), tout en le poussant à la faute : l'échantillon d'écriture de l'Enchanteresse Dorina qu'elle fournit à son père est **volontairement faux**, et elle sait bien que le toucan à bec vert de l'Enchanteresse est **mort il y a plus d'un an**.
+La fille du bourgmestre rebondit immédiatement sur cette catastrophe des éboulis rocheux en encourageant son père à éliminer Séléné (qui reste un obstacle pour tous, entre autres en tant que gardienne du Pacte de Sang), tout en le poussant à la faute : l'échantillon d'écriture de l'Enchanteresse Dorina qu'elle fournit à son père est **volontairement faux**, et elle sait bien que le toucan à bec vert de l'Enchanteresse est **mort il y a plus d'un an**.
 
 Dans la foulée, Joséphine ramène de la ville un fidèle allié de son début de carrière, le sorceleur Abélard. Celui-ci a un plan bien rodé à suivre :
 
 - tuer l'alchimiste, récupérer les écrits compromettants, mais laisser le reste en place
 - se proposer en successeur potentiel du bourgmestre, et déclencher ainsi une scission du village
-- aider à ce que les villageois découvrent la manipulation du bourgmestre (ex. des manuscrits de l'alchimiste, puis des informations sur l'Enchanteresse Dorina), ou au besoin le faire acccuser de "tentative de meurtre par jalousie" sur sa personne de sorceleur
+- aider à ce que les villageois découvrent la manipulation du bourgmestre (ex. des manuscrits de l'alchimiste, puis des informations sur l'Enchanteresse Dorina), ou au besoin le faire accuser de "tentative de meurtre par jalousie" sur sa personne de sorceleur
 - faire emprisonner ou bannir le bourgmestre du village
 - se poser dans une fausse opposition électorale face à Joséphine, tout en laissant - dans tous les cas - la voie libre à la Société Minéralys pour exploiter les filons de la forêt.
 
@@ -141,7 +141,7 @@ Le déroulement du jeu
 0 - Prélude
 ------------------
 
-La tortue ancestrale, proche amie de Séléné, appelle via sa puissante aura télépathique les bêtes de la forêt à venir en deuil : l'alchimiste a été assassinée alors qu'elle lisait dans son lit. Elle a un carreau d'arbalète planté dans le coeur. Sa tête, aux ***longs cheveux roux**, a disparu.
+La tortue ancestrale, proche amie de Séléné, appelle via sa puissante aura télépathique les bêtes de la forêt à venir en deuil : l'alchimiste a été assassinée alors qu'elle lisait dans son lit. Elle a un carreau d'arbalète planté dans le coeur. Sa tête, aux **longs cheveux roux**, a disparu.
 
 Nombreux sont les animaux, apprivoisés par l'alchimiste, qui accourent. 
 En particulier les 3 autres sapiens - le hibou, le ouistiti et le wombat. 
@@ -193,7 +193,7 @@ Joséphine s'impose pour effectuer cette tâche, et renvoie **Rose** - fille de 
 Abélard va boire un coup à l'auberge avec les villageois, raconte avec humilité son aventure, avoue ne pas avoir détruit la tour tout de suite par crainte de la réaction des animaux nocturnes, et flirte courtoisement avec la fille de l'aubergiste. 
 Ce dernier voit cela d'un très mauvais œil, et tire sa fille à part pour la tancer, en disant qu'elle n'a pas intérêt à s'enticher d'un aventurier qui se jouera d'elle et l'engrossera avant de l'abandonner.
 
-Pendant ce temps, Joséphine va discrètement récupérer le **grimoire de vie** dans les sacoches du cheval, et soit l'escamote entièrement, soit en prend uniquement les dernières pages et des carnets insérés dedans. Elle passe déposer à l'hôtel de ville, dans son coffre-fort personnel, son butin.
+Pendant ce temps, Joséphine va discrètement récupérer le **grimoire de vie** dans les sacoches du cheval, et soit l'escamote entièrement, soit en prend uniquement les dernières pages et des carnets insérés dedans. Elle passe déposer à l'Hôtel de Village, dans son coffre-fort personnel, son butin.
 
 Abélard sort de sa propre besace divers **cristaux et métaux précieux** ramenés de la tour de l'alchimiste, rappelle qu'on lui avait uniquement promis une demi-livre d'or pour ses bons services, et se sert lui-même en coupant un des lingots ainsi pillés. Il rend au village le reste du butin, "qui lui revient de droit", démontrant ainsi sa probité.
 
@@ -208,14 +208,14 @@ L'apothicaire finit pendant ce temps d'enterrer la tête de l'alchimiste, et se 
 3 - Le sorceleur fait son discours et sème la discorde
 -----------------------------------------------------------
 
-À midi a lieu le banquet d'honneur, dans la cour intérieure  de l'auberge.
+À midi a lieu le banquet d'honneur, dans la cour intérieure de l'auberge.
 
 Le sorceleur révèle ses plans pour la suite : après une décennie à courir les routes, il est tombé en amour avec cette contrée (ainsi qu'avec une de ses habitantes, peut-on comprendre), et entend bien s'y installer durablement. Il candidate même pour l'élection au poste de **bourgmestre**, en arguant qu'il saura à la fois amener de la renommée et du confort au village (tirer l'eau de la source thermale, mettre des moulins solaires...), tout en préservant la quiétude qui fait son charme. 
 
 Le bourgmestre, outré par les événements, réquisitionne un instant à l'étage le notaire, et sa fille, pour humilier cette dernière et exiger une solution.
 Joséphine, très froide, lui dit qu'elle a un plan, mais qu'ils doivent faire bonne figure pour l'instant, et tous deux l'attendre discrètement à la nuit tombée, avec des armes de poing, dans **l'ancienne écurie** du village. En attendant, elle rappelle qu'il faut faire disparaître un maximum de traces de l'alchimiste (dont sa demeure), pour effacer les pistes.
 
-Abélard, sorti prendre l'air, est timidement rejoint par Rose, la fille de l'aubergiste. Il met alors un terme temporaire à sa cour, arguant qu'il ne veut pas que ses élans soient mal interprétés par le village, que cela lui vaut déjà des inimitiés de l'aubergiste et de quelques jeunes hommes, et qu'il préfère que "l'eau coule sous les ponts" avant que tous deux ne se revoient. Compréhensive, mais les larmes aux yeux, Rose, retourne faire le service.
+Abélard, sorti prendre l'air, est timidement rejoint par Rose, la fille de l'aubergiste. Il met alors un terme temporaire à sa cour, arguant qu'il ne veut pas que ses élans soient mal interprétés par le village, que cela lui vaut déjà des inimitiés de l'aubergiste et de quelques jeunes hommes, et qu'il préfère que "l'eau coule sous les ponts" avant que tous deux ne se revoient. Compréhensive, mais les larmes aux yeux, Rose retourne faire le service.
 
 Le bourgmestre relance le sujet de la **tour non détruite** de l'alchimiste. Abélard accepte de repartir de suite, avec les villageois qui le veulent bien, pour détruire ce qui reste de l'antre de l'alchimiste. Galvanisés, une dizaine de villageois prennent fourches et faux et le suivent, y compris le notaire (sur ordre du bourgmestre).
 
@@ -231,13 +231,13 @@ Si les 2 endeuillés sont encore là à l'arrivée des villageois, ils sont fait
 
 Si la tour n'a pas encore brûlé, Abélard impose d'abord de la fouiller, et aide à trouver quelques rares parchemins écrits manuellement, pour les ramener au village ; puis la demeure est incendiée. S'ils ne sont pas prisonniers, les 2 magiciens retrouvent la tortue ancestrale dans une cachette de la forêt.
 
-Pendant ce temps, au village, dans sa boutique, **l'apothicaire** peut expliquer aux animaux ce qu'il connait de l'histoire : les rochers tombés sur le village, et le parchemin de menace livré au bourgmestre - il parait par un toucan à bec vert (seul le bourgmestre l'a vu). Il peut demander au bourgmestre ce parchemin, "pour les archives du village", si suggéré, car il est aussi **archiviste**.
+Pendant ce temps, au village, dans sa boutique, **l'apothicaire** peut expliquer aux animaux ce qu'il connaît de l'histoire : les rochers tombés sur le village, et le parchemin de menace livré au bourgmestre - il paraît par un toucan à bec vert (seul le bourgmestre l'a vu). Il peut demander au bourgmestre ce parchemin, "pour les archives du village", si suggéré, car il est aussi **archiviste**.
 
 Joséphine arrive chez l'apothicaire, et sollicite une potion narcotique puissante, prétendument "parce que son père a des insomnies et a demandé à l'essayer". L'apothicaire hésite, mais finit par lui donner cela, si les animaux ne le convainquent pas autrement. 
 
 Il demande en retour la clé du poste télégraphique (dont il est AUSSI responsable), clé qu'il avait accepté de confier au bourgmestre. Joséphine botte en touche, disant qu'ils la ramèneront bientôt, mais que cette affaire de l'alchimiste peut encore exiger des communications urgentes hors des minces heures d'ouverture du poste télégraphique (le reste du temps, il y a un **"répondeur"**) ; elle affirme qu'elle s'y rendait justement, à la demande d'Abélard, pour informer **l'Ordre des Sorceleurs** des derniers événements et éviter les quiproquos.
 
-Au poste télégraphique, Joséphine envoie bien ce **message de statut** ; mais elle envoie aussi un **autre message**, à la Société Minéralys, en y résumant très neutrement la situation, et en disant agit pour que "l'affaire des éboulis" reste non élucidée.
+Au poste télégraphique, Joséphine envoie bien ce **message de statut** ; mais elle envoie aussi un **autre message**, à la Société Minéralys, en y résumant très neutrement la situation, et en disant qu'elle agit pour que "l'affaire des éboulis" reste non élucidée.
 
 Joséphine va ensuite travailler dans son bureau à l'Hôtel de Village, et vérifie dans son coffre-fort personnel la présence d'un petit coffret métallique très lourd et extrêmement bien fermé (impossible à ouvrir). Les animaux peuvent potentiellement voir sa combinaison secrète.
 
@@ -267,7 +267,7 @@ Une fois que le sorceleur a vérifié qu'aucun humain n'était à proximité, gr
 
 - Joséphine critique les complications introduites par le fait de flirter avec la fille de l'aubergiste, Abélard dit être de bonne foi dans sa séduction mais avoir mis en pause tout cela.
 - Ils se briefent sur le nettoyage des preuves, en forêt et dans le grimoire de vie, de "l'affaire des éboulis".
-- Puis Joséphine sort une mâchoire métallique de son sac (issue de lourd coffret métallique), et ils mettent en scène, en scarifiant jusqu'au sang le sorceleur sur le torse, le fait qu'il aurait été attaqué avec cette arme étrange.
+- Puis Joséphine sort une mâchoire métallique de son sac (issue du lourd coffret métallique), et ils mettent en scène, en scarifiant jusqu'au sang le sorceleur sur le torse, le fait qu'il aurait été attaqué avec cette arme étrange.
 
 Joséphine va ensuite dissimuler la **mâchoire ensanglantée** dans le bureau du bourgmestre ; peu après, le sorceleur court à moitié nu jusqu'au village, rugissant qu'il a été attaqué par deux hommes qui ont essayé de l'égorger avec une étrange arme. Il se fait amener à l'auberge, tandis que des villageois organisent une sorte de battue/perquisition.
 
