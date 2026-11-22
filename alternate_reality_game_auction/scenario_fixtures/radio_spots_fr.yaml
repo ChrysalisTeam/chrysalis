@@ -84,6 +84,7 @@ audio_messages:
     "40_news_council_explosion_alifir":
         "title": >-
             News internationales
+        "gamemaster_hints": "La dernière nouvelle (agent de nettoyage recherché) est le premier écho d'un vol à l'Académie d'Alifir commis par le contact sur place des mercenaires, qui se fait passer pour un agent de nettoyage et s'expatrie ensuite : la retirer si aucun vol n'a eu lieu. Le spot 50 est l'autre version, si le vol est l'oeuvre des akarites ; ne pas diffuser les deux pour un même vol."
         "text": >-
             \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Bruno\Dans
             les nouvelles internationales du jour : l'ordre des judicateurs akarites vient d'entrer
@@ -100,6 +101,7 @@ audio_messages:
     "50_theft_alifir":
         "title": >-
             Vol à l'Académie d'Alifir
+        "gamemaster_hints": "Annonce du vol du Livre Sacré Yodique quand il est commis par les akarites (ou si le MJ le leur attribue) : le voleur est alors un chercheur manipulé par une secte. Si le vol a été commis par le contact des mercenaires, utiliser plutôt la dernière nouvelle du spot 40. Envoyer ensuite le modèle d'email alifir_robbery_status."
         "text": >-
             \audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\
             \vce=speaker=Julie\ Consternation à l'Académie d'Alifir, où l'un des chercheurs en paléontologie
@@ -121,6 +123,7 @@ audio_messages:
     "62_news_akarith_riots":
         "title": >-
             News - Emeutes et Incidents
+        "gamemaster_hints": "La dernière nouvelle évoque le raid sur le laboratoire de Waden près de Faeran (quête de l'Orbe Alpha), où le physicien et sa fiancée sont recherchés. L'adapter au sort réel de Cynthia (ex. retirer la reporter si elle est encore aux mains de ses ravisseurs akarites) et de Waden, ou la retirer si le laboratoire n'a pas été investi."
         "text": "\\audio=mix=\"news_intense_full_loop_014\";volume=100;repeat=on\\ \\pau=5000\\\
             \ \\pau=5000\\ \\pau=4000\\ \\audio=volume=25\\ \\pau=1500\\ \\vce=speaker=Claire\\\
             \r\nl'incident diplomatique prend des proportions en Endara, où une expédition archéologique\

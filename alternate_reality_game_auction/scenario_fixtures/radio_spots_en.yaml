@@ -84,6 +84,7 @@ audio_messages:
     "40_news_council_explosion_alifir":
         "title": >-
             International News
+        "gamemaster_hints": "The last news item (a cleaner wanted by the police) is the first echo of a theft at the Alifir Academy committed by the mercenaries' contact on site, who poses as a cleaner and then leaves the country: remove it if no theft took place. Spot 50 is the other version, if the theft is the Akariths' doing; do not broadcast both for the same theft."
         "text": >-
             \audio=mix="news_aggressive_intro_012";volume=100\ \pau=5000\ \pau=2000\ \vce=speaker=Bruno\In
             today's international news: the Order of the Akarith Judicators has just gone into secret
@@ -99,6 +100,7 @@ audio_messages:
     "50_theft_alifir":
         "title": >-
             Theft at the Alifir Academy
+        "gamemaster_hints": "Announcement of the theft of the Sacred Yodic Book when the Akariths commit it (or if the GM blames them): the thief is then a researcher manipulated by a sect. If the theft was committed by the mercenaries' contact, use the last news item of spot 40 instead. Then send the email template alifir_robbery_status."
         "text": >-
             \audio=mix="news_military_full_147";volume=100\ \pau=5000\ \pau=3000\ \audio=volume=25\ \pau=1000\
             \vce=speaker=Julie\ Consternation at the Alifir Academy, where one of the palaeontology researchers
@@ -120,6 +122,7 @@ audio_messages:
     "62_news_akarith_riots":
         "title": >-
             News - Riots and Incidents
+        "gamemaster_hints": "The last news item hints at the raid on Waden's lab near Faeran (quest for the Alpha Orb), where the physicist and his fiancee are wanted. Adapt it to the actual fate of Cynthia (e.g. remove the reporter if she is still held by her Akarith kidnappers) and of Waden, or remove it if the lab has not been raided."
         "text": "\\audio=mix=\"news_intense_full_loop_014\";volume=100;repeat=on\\ \\pau=5000\\
             \\pau=5000\\ \\pau=4000\\ \\audio=volume=25\\ \\pau=1500\\ \\vce=speaker=Claire\\\r\nThe
             diplomatic incident is escalating in Endara, where an illegal archaeological expedition
