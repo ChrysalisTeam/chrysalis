@@ -3,7 +3,7 @@
 The story of Inspector Shark
 =====================================
 
-Throughout his career, Inspector Shark has been a loyal and effective bloodhound of Sabarith justice. But as retirement approached, the midlife crisis hit him head-on. During the early stages of his investigation alongside Loyd Georges, he was unsettled by the Akariths' mystical propaganda, following the overtures of **the Akarith Archdeacon Baazel**. In particular, **he was seduced by the prospect of "transfiliation"**, namely the possibility of becoming, through his actions, a Chosen Son of the Yods (Yodism being originally a "hereditary" religion).
+Throughout his career, Inspector Shark has been a loyal and effective bloodhound of Sabarith justice. But, barely retired, he was hit head-on by the midlife crisis, and volunteered to come out of retirement to protect Loyd Georges. During the early stages of his investigation alongside Loyd Georges, he was unsettled by the Akariths' mystical propaganda, following the overtures of **the Akarith Archdeacon Baazel**. In particular, **he was seduced by the prospect of "transfiliation"**, namely the possibility of becoming, through his actions, a Chosen Son of the Yods (Yodism being originally a "hereditary" religion).
 
 Shark therefore takes advantage of his position to set out in quest of the Divine Orbs (starting with the one Loyd Georges recovered). He keeps in frequent contact with his new Akarith masters, via a **P.O. box** located not far from Loyd Georges' manor, in the centre of the **{% symbol "Hamlet of Wiskons" for "hamlet_near_mlg_manor" %}**; in an emergency, he calls his mentors in Akaris from one of the **telephone booths** located in the same place (but he never uses the manor's telephone for this, it is too dangerous).
 
