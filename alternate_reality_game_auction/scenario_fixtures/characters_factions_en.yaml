@@ -269,7 +269,7 @@ character_properties:
         password: "4theyods"
         account: 300
         address_book: ["judicator-arthanas@akaris.pg", contact@akaris.pg]
-        official_name: "archbishop-baazel"
+        official_name: "Archbishop Baazel"
         official_role: "The guide of one of the 7 Akarith clans"
         gamemaster_hints: "He seeks to convert as many players as possible and to bring about Akarith supremacy; he is fanatical and harsh, but intelligent enough to understand that transfiliation must be accepted; he is a wolf in sheep's clothing."
         is_npc: true

@@ -75,12 +75,12 @@ messaging:
             categories: ["first_contacts"]
             sender_email: kjb@dark.pg
             recipient_emails: "[auction-list]@anthropia.pg"
-            subject: "A Poem"
+            subject: "Un Poème"
             body: |
 
-                Live or Die
+                Vivre ou Mourir
 
-                Leave or Lie.
+                Partir ou Gésir.
 
                 Immediately.
 

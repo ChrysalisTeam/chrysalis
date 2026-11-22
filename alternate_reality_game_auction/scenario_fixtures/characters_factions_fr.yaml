@@ -269,7 +269,7 @@ character_properties:
         password: "4theyods"
         account: 300
         address_book: ["judicator-arthanas@akaris.pg", contact@akaris.pg]
-        official_name: "archbishop-baazel"
+        official_name: "Archevêque Baazel"
         official_role: "Le guide de l'un des 7 clans akarites"
         gamemaster_hints: "Il cherche à convertir un maximum de joueur et à amener la suprématie akarite, il est fanatique et dur mais suffisamment intelligent pour comprendre qu'il faut accepter la transfiliation ; c'est un loup déguisé en agneau."
         is_npc: true
