@@ -18,7 +18,7 @@ Shark empoisonne dans le même temps Loyd Georges, en s’assurant qu’il ingè
 - avant le repas du soir, le "jour des entretiens" (la veille de la réception), il prévoit de remplacer le sachet de laurier sauce, en cuisine, par un de laurier rose (toxique à cause de l’oléandrine qu’il contient), dans le plat en sauce qu'il a lui-même suggéré au cuisinier ; ce poison est à effet rapide, et agit donc peu après son ingestion par Loyd Georges lors du dîner. Ce laurier rose a été commandé à "Maître Bibine, apothicaire à Salima", et livré dans la boite postale du hameau voisin. Le cuisinier, vieillissant, ne réalise pas l'entourloupe.
 - au cas où le laurier rose n'était pas cuisiné pour le dîner, il aurait pu tenter de forcer une surdose du médicament anti-tachycardie habituel de LG (la digoxine) ; mais cela n'a pas été nécessaire
 
-Noter que l’anti-vomitif "Resorpa" que LG prend pour pallier les effets secondaires de la digoxine (voir le "MEMO" pour Robb Barrow dans les documents LibreOffice), empêche la régurgitation du poison.
+Noter que l’anti-vomitif "Resorpa" que LG prend pour pallier les effets secondaires de la digoxine (voir le mémo d'instructions affiché pour le cuisinier Robb Barrow), empêche la régurgitation du poison.
 
 Loyd Georges fait un malaise cardiaque tard dans la soirée, et est hospitalisé en secret.
 

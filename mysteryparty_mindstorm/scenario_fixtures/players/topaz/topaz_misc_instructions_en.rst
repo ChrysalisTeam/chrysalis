@@ -3,7 +3,7 @@
 ==============================================
 
 
-Colleagues undercover in Thelassar have just sent you convincing *network traces* [write this document freestyle], showing that a certain "Amethyst", of the Lordanian secret services, had tapped the phone of the patriarch of Ghek; and that this spying came from the vicinity of Salima. {% xfact 'amethyst_wiretaps_ghek_patriarch' %}
+Colleagues undercover in Thelassar have just sent you convincing *network traces* *(a document to write yourself, freely, before the evening)*, showing that a certain "Amethyst", of the Lordanian secret services, had tapped the phone of the patriarch of Ghek; and that this spying came from the vicinity of Salima. {% xfact 'amethyst_wiretaps_ghek_patriarch' %} {% xitem 'network_traces_on_amethyst_for_topaz' is needed %}
 
 While spying on the manor's network traffic, on the day of the reception, you caught the user "Phonphonse" in the middle of a discussion on a buy/sell chat room; he was enquiring about the market value of an almost-new *Chromia* pen. He had supposedly "found one at his place, probably left behind by a former visitor". These enormous pens are often used as spying devices, so you would very much like to get your hands on this specimen, which was probably not in the manor by chance. {% xfact 'alphonse_has_found_library_spy_recorder' %}
 

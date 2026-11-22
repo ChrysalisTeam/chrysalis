@@ -20,7 +20,7 @@ Votre intuition vous dit que, pendant cette soirée qui s'annonce, les coupables
 En inspectant discrètement un terminal numérique du manoir, vous avez vu qu'il avait enregistré, dans sa mémoire de navigation Web, deux nouveaux logins : "opal" et "emerald".  {% xfact 'opal_accesses_emerald_agent_web_account' %}
 Des logins apparus peu après que {{character_properties.opal.official_name}} et sa famille soient venus s'installer temporairement dans le manoir de Loyd Georges, il y a 2 semaines de cela.  {% xfact "opal_lydia_temporarily_moved_to_lg_manor_2_weeks_ago" as author %}
 
-En analysant le réseau téléphonique du manoir, vous avez en outre vu passer des trames anormales, cherchant à rediriger les flux d'informations ; coïncidence, elles provenaient de la chambre d'hôtel occupée par le sir "{{character_properties.topaz.official_name}}". Voilà qui est déjà bien compromettant, pour ce pauvre espion [écrivez ces trames, freestyle]. {% xfact 'topaz_wiretaps_lg_and_friends' %}
+En analysant le réseau téléphonique du manoir, vous avez en outre vu passer des trames anormales, cherchant à rediriger les flux d'informations ; coïncidence, elles provenaient de la chambre d'hôtel occupée par le sir "{{character_properties.topaz.official_name}}". Voilà qui est déjà bien compromettant, pour ce pauvre espion *(vous pouvez rédiger vous-même, librement, une copie de ces trames avant la soirée)*. {% xitem 'abnormal_phone_frames_for_shark' is needed %} {% xfact 'topaz_wiretaps_lg_and_friends' %}
 
 
 

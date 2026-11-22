@@ -3,7 +3,7 @@
 ==============================================
 
 
-Des collègues infiltrés en Thelassar viennent de vous envoyer des *traces réseau* probantes [écrivez ce document freestyle], montrant qu'un certain "Amethyst", des services secrets lordaniens, avait mis sur écoute le patriarche de Ghek ; et que cet espionnage venait des environs de Salima. {% xfact 'amethyst_wiretaps_ghek_patriarch' %}
+Des collègues infiltrés en Thelassar viennent de vous envoyer des *traces réseau* probantes *(document à rédiger vous-même, librement, avant la soirée)*, montrant qu'un certain "Amethyst", des services secrets lordaniens, avait mis sur écoute le patriarche de Ghek ; et que cet espionnage venait des environs de Salima. {% xfact 'amethyst_wiretaps_ghek_patriarch' %} {% xitem 'network_traces_on_amethyst_for_topaz' is needed %}
 
 En espionnant les flux réseau du manoir, le jour de la réception, vous avez surpris l'utilisateur "Phonphonse" en pleine discussion sur un salon de discussion achat/vente ; il se renseignait sur la valeur marchande d'un stylo *Chromia* quasi-neuf. Il en aurait "trouvé un chez lui, probablement oublié par un ancien visiteur". Ces énormes stylos sont souvent utilisés comme systèmes d'espionnage, vous aimeriez donc grandement mettre la main sur cet exemplaire, qui n'était probablement pas dans le manoir par hasard. {% xfact 'alphonse_has_found_library_spy_recorder' %}
 

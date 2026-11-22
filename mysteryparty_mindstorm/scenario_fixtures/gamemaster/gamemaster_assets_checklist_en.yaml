@@ -12,6 +12,7 @@
     - "well-filled smoke machine"
     - "remote switches set up, and electrical fuses identified, to switch everything on/off on demand"
     - "portable recorder to lend to Cynthia, if she does not record her interviews with her own smartphone"
+    - "blank sheets for the documents that players write themselves, if they have not prepared them: Topaz's network traces {% xitem 'network_traces_on_amethyst_for_topaz' is provided %} and Shark's telephone frames {% xitem 'abnormal_phone_frames_for_shark' is provided %}"
 
 -
   - "Clues initially held by the players"  # BEWARE KEEP IN SYNC WITH "email_attachments" ZODB overrides

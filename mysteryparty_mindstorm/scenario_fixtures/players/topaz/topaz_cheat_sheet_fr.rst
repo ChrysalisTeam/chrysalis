@@ -40,7 +40,7 @@
 ==============================================
 
 - Panorbium Fortuna : l'adjoint du Pr Loakim, **Ernest De Villeneuve**, l'aurait fait venir en Sabarim dans une mallette ; à Nuxia, il a acheté un **sac en toile brune et un bleu de travail** ; et à part les invités et les coursiers à cheval, seuls 3 camions de livraison ont pris le chemin du manoir, entre {% symbol "9h et 10h" for "morning_delivery_trucks_time" %} {% xfact 'misc_panorbium_fortuna_brought_to_manor_in_bag' %}
-- vous avez des *traces réseau* probantes [écrivez ce document freestyle], montrant qu'un certain "Amethyst", des services secrets lordaniens, avait mis sur écoute le patriarche de Ghek, depuis les environs de Salima. {% xfact 'amethyst_wiretaps_ghek_patriarch' %}
+- vous avez des *traces réseau* probantes *(document à rédiger vous-même, librement, avant la soirée)*, montrant qu'un certain "Amethyst", des services secrets lordaniens, avait mis sur écoute le patriarche de Ghek, depuis les environs de Salima. {% xfact 'amethyst_wiretaps_ghek_patriarch' %}
 - un certain "Phonphonse" du manoir cherche à vendre un stylo "Chromia" qui pourrait être un système d'espionnage  {% xfact 'alphonse_has_found_library_spy_recorder' %}
 - le fameux {{character_properties.opal.official_name}} se connectait autrefois à un compte web de haute sécurité ayant pour identifiant "Emerald", et semblant en lecture seule  {% xfact 'opal_accesses_emerald_agent_web_account' %}
 - en cas d'alliance avec l'Akarie, le signe de reconnaissance avec les akarites serait "{% symbol "les bras croisés sur la poitrine" for "dorian_akarith_alliance_sign" %}" {% xfact "dorians_have_alliance_sign_with_akariths" %}

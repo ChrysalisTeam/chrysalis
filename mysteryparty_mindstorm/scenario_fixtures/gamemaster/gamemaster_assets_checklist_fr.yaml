@@ -12,6 +12,7 @@
     - "générateur de fumée bien rempli"
     - "interrupteurs à distance réglés, et plombs électriques identifiés, pour tout allumer/éteindre sur demande"
     - "enregistreur portatif à prêter à Cynthia, si elle n'enregistre pas ses interviews avec son propre smartphone"
+    - "feuilles vierges pour les documents que les joueurs rédigent eux-mêmes, s'ils ne les ont pas préparés : traces réseau de Topaz {% xitem 'network_traces_on_amethyst_for_topaz' is provided %} et trames téléphoniques de Shark {% xitem 'abnormal_phone_frames_for_shark' is provided %}"
 
 -
   - "Indices initialement détenus par les joueurs"  # BEWARE KEEP IN SYNC WITH "email_attachments" ZODB overrides
