@@ -73,6 +73,8 @@ Pour vous commence donc une quête de justice, voire de vengeance.
 
 Système de jeu très simple : 1 Dé à 6 faces, jets de difficulté variable suivant la situation, un "1" (échec critique) n'est vraiment dangereux que sur des actions risquées.
 
+Le joueur doit obtenir au moins la difficulté fixée par le MJ : 2 pour une action facile, 4 pour une action difficile, 6 pour un exploit. Sur une action risquée, un "1" blesse l'animal, le fait capturer ou le met en fuite, plutôt que de le tuer d'emblée.
+
 
 Prologue - à lire en entier aux joueurs
 =========================================
@@ -175,6 +177,8 @@ Tout son matériel est sur son cheval, dont sa gourde d'eau.
 Facilement réveillé par la présence des sapiens, le sorceleur reprend la route.
 
 Si tentative d’empoisonnement, il sort en urgence un caillou (un "bézoar") de sa sacoche de ceinture pour se soigner lui-même.
+
+Abélard est un combattant aguerri, en armure légère : l'affronter de front est un exploit (6) ; les sapiens ont intérêt à ruser (poison, inception, pièges, ou retourner les villageois contre lui).
 
 Quand il arrive au village, au lever du jour, des habitants accourent le saluer.
 

@@ -73,6 +73,8 @@ So for you begins a quest for justice, or even revenge.
 
 Very simple game system: 1 six-sided die, rolls of variable difficulty depending on the situation; a "1" (critical failure) is only really dangerous on risky actions.
 
+The player must roll at least the difficulty set by the GM: 2 for an easy action, 4 for a hard one, 6 for a feat. On a risky action, a "1" wounds the animal, gets it captured or puts it to flight, rather than killing it outright.
+
 
 Prologue - read in full to the players
 =========================================
@@ -175,6 +177,8 @@ All his gear is on his horse, including his water flask.
 Easily awakened by the presence of the sapients, the witcher gets back on the road.
 
 If there is a poisoning attempt, he hurriedly pulls a pebble (a "bezoar") out of his belt pouch to cure himself.
+
+Abelard is a seasoned fighter in light armour: taking him on head-on is a feat (6); the sapients had better use cunning (poison, inception, traps, or turning the villagers against him).
 
 When he arrives at the village, at daybreak, inhabitants come running to greet him.
 
