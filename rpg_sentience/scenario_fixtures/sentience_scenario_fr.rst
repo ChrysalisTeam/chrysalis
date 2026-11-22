@@ -199,7 +199,7 @@ Joséphine s'impose pour effectuer cette tâche, et renvoie **Rose** - fille de 
 Abélard va boire un coup à l'auberge avec les villageois, raconte avec humilité son aventure, avoue ne pas avoir détruit la tour tout de suite par crainte de la réaction des animaux nocturnes, et flirte courtoisement avec la fille de l'aubergiste. 
 Ce dernier voit cela d'un très mauvais œil, et tire sa fille à part pour la tancer, en disant qu'elle n'a pas intérêt à s'enticher d'un aventurier qui se jouera d'elle et l'engrossera avant de l'abandonner.
 
-Pendant ce temps, Joséphine va discrètement récupérer le **grimoire de vie** dans les sacoches du cheval, et soit l'escamote entièrement, soit en prend uniquement les dernières pages et des carnets insérés dedans. Elle passe déposer à l'Hôtel de Village, dans son coffre-fort personnel, son butin.
+Pendant ce temps, Joséphine va discrètement récupérer le **grimoire de vie** dans les sacoches du cheval, et soit l'escamote entièrement, soit en prend uniquement les dernières pages et des carnets insérés dedans. Elle y prend aussi un petit **coffret métallique** très lourd, qu'Abélard a emporté de la tour (voir scène 4). Elle passe déposer à l'Hôtel de Village, dans son coffre-fort personnel, son butin.
 
 Abélard sort de sa propre besace divers **cristaux et métaux précieux** ramenés de la tour de l'alchimiste, rappelle qu'on lui avait uniquement promis une demi-livre d'or pour ses bons services, et se sert lui-même en coupant un des lingots ainsi pillés. Il rend au village le reste du butin, "qui lui revient de droit", démontrant ainsi sa probité.
 
@@ -245,7 +245,7 @@ Il demande en retour la clé du poste télégraphique (dont il est AUSSI respons
 
 Au poste télégraphique, Joséphine envoie bien ce **message de statut** ; mais elle envoie aussi un **autre message**, à la Société Minéralys, en y résumant très neutrement la situation, et en disant qu'elle agit pour que "l'affaire des éboulis" reste non élucidée.
 
-Joséphine va ensuite travailler dans son bureau à l'Hôtel de Village, et vérifie dans son coffre-fort personnel la présence d'un petit coffret métallique très lourd et extrêmement bien fermé (impossible à ouvrir). Les animaux peuvent potentiellement voir sa combinaison secrète.
+Joséphine va ensuite travailler dans son bureau à l'Hôtel de Village, et vérifie dans son coffre-fort personnel la présence d'un petit coffret métallique très lourd et extrêmement bien fermé (impossible à ouvrir sans connaître son mécanisme secret, que Séléné décrit dans les dernières pages du grimoire de vie). Ce coffret contient une **mâchoire métallique** aux dents d'acier : la pièce enchantée d'un piège à monstres, que Séléné avait confisquée à des braconniers et mise sous clé. Les animaux peuvent potentiellement voir la combinaison secrète du coffre-fort (depuis la fenêtre, ou cachés dans le bureau), et revenir l'ouvrir plus tard.
 
 
 5 - La soirée amène des coups de théâtre
@@ -275,7 +275,7 @@ Une fois que le sorceleur a vérifié, grâce à l'automate d'alarme, que person
 - Ils se briefent sur le nettoyage des preuves, en forêt et dans le grimoire de vie, de "l'affaire des éboulis".
 - Puis Joséphine sort une mâchoire métallique de son sac (issue du lourd coffret métallique), et ils mettent en scène, en scarifiant jusqu'au sang le sorceleur sur le torse, le fait qu'il aurait été attaqué avec cette arme étrange.
 
-Joséphine va ensuite dissimuler la **mâchoire ensanglantée** dans le bureau du bourgmestre ; peu après, le sorceleur court à moitié nu jusqu'au village, rugissant qu'il a été attaqué par deux hommes qui ont essayé de l'égorger avec une étrange arme. Il se fait amener à l'auberge, tandis que des villageois organisent une sorte de battue/perquisition.
+Joséphine va ensuite dissimuler la **mâchoire ensanglantée** dans le bureau du bourgmestre (les villageois n'ont jamais vu cet objet, mais la tortue ancestrale peut le reconnaître) ; peu après, le sorceleur court à moitié nu jusqu'au village, rugissant qu'il a été attaqué par deux hommes qui ont essayé de l'égorger avec une étrange arme. Il se fait amener à l'auberge, tandis que des villageois organisent une sorte de battue/perquisition.
 
 Le bourgmestre et le notaire entendent du brouhaha, mais hésitent - ou non - à sortir de leur cachette.
 

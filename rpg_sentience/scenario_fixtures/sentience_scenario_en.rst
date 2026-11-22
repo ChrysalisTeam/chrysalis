@@ -199,7 +199,7 @@ Josephine insists on carrying out this task, and sends **Rose** - daughter of **
 Abelard goes for a drink at the inn with the villagers, humbly recounts his adventure, admits that he did not destroy the tower straight away for fear of the reaction of the nocturnal animals, and courteously flirts with the innkeeper's daughter.
 The innkeeper takes a very dim view of this, and pulls his daughter aside to scold her, saying that she had better not fall for an adventurer who will toy with her and get her pregnant before abandoning her.
 
-Meanwhile, Josephine discreetly goes to retrieve the **Grimoire of Life** from the horse's saddlebags, and either spirits it away entirely, or takes only its last pages and the notebooks inserted in it. She stops by the Town Hall to deposit her loot in her personal safe.
+Meanwhile, Josephine discreetly goes to retrieve the **Grimoire of Life** from the horse's saddlebags, and either spirits it away entirely, or takes only its last pages and the notebooks inserted in it. She also takes from them a small, very heavy **metal casket**, which Abelard carried off from the tower (see scene 4). She stops by the Town Hall to deposit her loot in her personal safe.
 
 Abelard pulls out of his own satchel various **precious crystals and metals** brought back from the alchemist's tower, recalls that he had only been promised half a pound of gold for his good services, and helps himself by cutting off a piece of one of the ingots thus plundered. He returns the rest of the loot to the village, "to which it rightfully belongs", thereby demonstrating his probity.
 
@@ -245,7 +245,7 @@ In return he asks for the key to the telegraph office (for which he is ALSO resp
 
 At the telegraph office, Josephine does indeed send this **status message**; but she also sends **another message**, to the Mineralys Company, summarising the situation in very neutral terms, and saying that she is acting so that "the rockfall affair" remains unsolved.
 
-Josephine then goes to work in her office at the Town Hall, and checks in her personal safe for the presence of a small, very heavy and extremely well-locked metal casket (impossible to open). The animals can potentially see her secret combination.
+Josephine then goes to work in her office at the Town Hall, and checks in her personal safe for the presence of a small, very heavy and extremely well-locked metal casket (impossible to open without knowing its secret mechanism, which Selene describes in the last pages of the Grimoire of Life). This casket holds a **metal jaw** with steel teeth: the enchanted part of a monster trap, which Selene had confiscated from poachers and put under lock and key. The animals can potentially see the secret combination of the safe (from the window, or hidden in the office), and come back later to open it.
 
 
 5 - The evening brings dramatic twists
@@ -275,7 +275,7 @@ Once the witcher has checked, thanks to the alarm automaton, that nobody - human
 - They brief each other on the cleaning up of the evidence, in the forest and in the Grimoire of Life, of "the rockfall affair".
 - Then Josephine pulls a metal jaw out of her bag (taken from the heavy metal casket), and they stage, by scarifying the witcher's chest until it bleeds, the fact that he was supposedly attacked with this strange weapon.
 
-Josephine then goes to hide the **bloodied jaw** in the burgomaster's office; shortly afterwards, the witcher runs half-naked to the village, roaring that he has been attacked by two men who tried to slit his throat with a strange weapon. He gets himself taken to the inn, while villagers organise a sort of manhunt/search.
+Josephine then goes to hide the **bloodied jaw** in the burgomaster's office (the villagers have never seen this object, but the Ancestral Tortoise can recognise it); shortly afterwards, the witcher runs half-naked to the village, roaring that he has been attacked by two men who tried to slit his throat with a strange weapon. He gets himself taken to the inn, while villagers organise a sort of manhunt/search.
 
 The burgomaster and the notary hear the hubbub, but hesitate - or not - to come out of their hiding place.
 
