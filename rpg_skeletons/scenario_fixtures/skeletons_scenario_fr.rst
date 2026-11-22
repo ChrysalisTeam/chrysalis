@@ -52,7 +52,7 @@ Les autres protagonistes du donjon les appellent **"l'avant-garde" ou "la fine �
 
 - OMEGA (ossements presque intacts)
 
-  - En réalité "le mage Parcival", médium, qui avait racheté ce donjon abandonné
+  - En réalité "le mage Parcival", médium, qui avait acheté ce donjon abandonné avec le mage Childéric
   - Père adoptif de SAPHIR
   - Peut "voir et entendre très loin", en projetant son esprit
   - Peut avoir des intuitions prophétiques
@@ -180,7 +180,7 @@ Salle du trône
 
 SAPHIR (semi-atlante) :
 
-- Adolescente (14 ans ?) aux cheveux couleur de cendre et aux yeux verts, à la peau un peu brillante
+- Adolescente de 14 ans aux cheveux couleur de cendre et aux yeux verts, à la peau un peu brillante
 - Les carcasses reconnaissent intuitivement qu'elle est la "Perle de Sylvorann", et brûlent de la protéger
 - Initialement habillée de velours vert classieux
 - Fille (adoptive) du mage Parcival ; la garde rapprochée dit qu'elle a été trouvée dans un "couffin de soie, gardé par une meute de loups"
@@ -334,7 +334,7 @@ Jour 3 - matin
 
 - FOULQUES réveille les carcasses bien à l'avance, il leur ordonne de garder le fort, et part chercher des ingrédients en forêt, armé de son **bâton de magicien**.
 
-- Les carcasses peuvent sans problème aller voir ce qui se passe du côté du village des rats musqués
+- Les carcasses peuvent sans problème aller voir ce qui se passe du côté du nid des rats musqués
 
 - S'ils tentent d'entrer dans le donjon, ils se font rabrouer par l'abomination EULALIE qui passe son gros oeil par le judas de la porte : elle s'en tient aux ordres de FOULQUES ("la garnison d'abord !"), et ne leur ouvrira qu'une fois l'attaque du matin repoussée, d'où l'accueil chaleureux de l'après-midi.
 
@@ -376,7 +376,7 @@ Dans la salle de garde :
 
 Dans la salle du trône :
 
-- Saphir interrompt sa leçon scolaire en télémiroir, et les salue avec enthousiasme, sautant dans les bras de ALPHA (Brunissende)
+- SAPHIR interrompt sa leçon scolaire en télémiroir, et les salue avec enthousiasme, sautant dans les bras de ALPHA (Brunissende)
 
   - Les squelettes ont immédiatement un immense **instinct de protection** envers elle
   - Elle était déjà passée à la garnison deux fois, mais ils étaient "endormis"
@@ -481,7 +481,7 @@ Cette lointaine civilisation avait encore quelques gènes qui trainaient dans la
 La jeune SAPHIR a donc vite été rejetée par le reste du village, et constamment moquée pour avoir été trouvée dans un purinoir.
 
 Alors Colbert a tout vendu et quitté le village.
-Il a changé de nom pour s'appeler désormais "Parcival" comme sa grand-mère.
+Il a changé de nom pour s'appeler désormais "Parcival", le nom de jeune fille de sa grand-mère.
 Il a inventé avec SAPHIR l'histoire d'un "couffin de soie, gardé par une meute de loups".
 Il l'appelait pourtant tendrement sa "Perle de Sylvorann", pour qu'elle reste fière, malgré tout, du village où elle est née ; le surnom est resté au donjon, où le mage Childéric en a fait le mot de ralliement de ses défenses, inscrit dans le rituel de l'arbre de vie (d'où l'instinct des carcasses). Au donjon, on sait donc qu'elle vient de Sylvorann, mais on ignore tout du purinoir.
 Mais nulle part, lui et sa fille n'étaient les bienvenus.

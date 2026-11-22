@@ -52,7 +52,7 @@ The other denizens of the keep call them **"the vanguard" or "the dream team"**.
 
 - OMEGA (almost intact bones)
 
-  - In reality "Magus Parcival", a medium, who had bought this abandoned keep
+  - In reality "Magus Parcival", a medium, who had bought this abandoned keep with Magus Childeric
   - SAPHIR's adoptive father
   - Can "see and hear very far away", by projecting his mind
   - May have prophetic intuitions
@@ -180,7 +180,7 @@ Throne room
 
 SAPHIR (half-Atlantean):
 
-- Teenage girl (14 years old?) with ash-coloured hair and green eyes, and slightly shiny skin
+- Teenage girl, 14 years old, with ash-coloured hair and green eyes, and slightly shiny skin
 - The carcasses intuitively recognise that she is the "Pearl of Sylvorann", and burn to protect her
 - Initially dressed in classy green velvet
 - (Adoptive) daughter of Magus Parcival; the close guard says she was found in a "silk Moses basket, guarded by a pack of wolves"
@@ -334,7 +334,7 @@ Day 3 - morning
 
 - Foulques wakes the carcasses well in advance, orders them to guard the fort, and leaves to gather ingredients in the forest, armed with his **wizard's staff**.
 
-- The carcasses can freely go and see what is happening around the muskrat village
+- The carcasses can freely go and see what is happening around the muskrat nest
 
 - If they try to enter the keep, they are rebuffed by the abomination EULALIE, who puts her big eye to the peephole of the door: she sticks to Foulques's orders ("the garrison first!"), and will only open to them once the morning attack has been repelled, hence the warm welcome of the afternoon.
 
@@ -376,7 +376,7 @@ In the guardroom:
 
 In the throne room:
 
-- Saphir interrupts her school lesson by telemirror, and greets them enthusiastically, jumping into the arms of ALPHA (Brunissende)
+- SAPHIR interrupts her school lesson by telemirror, and greets them enthusiastically, jumping into the arms of ALPHA (Brunissende)
 
   - The skeletons immediately feel an immense **protective instinct** towards her
   - She had already come to the garrison twice, but they were "asleep"
@@ -481,7 +481,7 @@ In adolescence, a half-Atlantean could reveal some supernatural powers, harmless
 Young SAPHIR was therefore quickly rejected by the rest of the village, and constantly mocked for having been found in a cesspit.
 
 So Colbert sold everything and left the village.
-He changed his name to "Parcival", like his grandmother.
+He changed his name to "Parcival", his grandmother's maiden name.
 With SAPHIR, he invented the story of a "silk Moses basket, guarded by a pack of wolves".
 He nevertheless tenderly called her his "Pearl of Sylvorann", so that she would stay proud, despite everything, of the village where she was born; the nickname stuck at the keep, where Magus Childeric made it the rallying cry of its defences, inscribed in the ritual of the tree of life (hence the carcasses' instinct). At the keep, everyone thus knows that she comes from Sylvorann, but nobody knows about the cesspit.
 But nowhere were he and his daughter welcome.
