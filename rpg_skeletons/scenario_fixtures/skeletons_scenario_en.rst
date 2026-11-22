@@ -491,13 +491,24 @@ Panicking, Foulques claimed that the magus had left on a whim.
 But EULALIE recovered these "sturdy and magic-aura-endowed" bones from the ossuary, to replace one of the carcasses.
 Foulques therefore played along, but cast an amnesia spell and limited the animation time of the carcasses, so as not to be unmasked.
 
-SAPHIR then left with some abominations on an initiatory bivouac around the lake.
+SAPHIR then left with GAUBERT and HERBERT, her bodyguards, on an initiatory bivouac of several days around the lake.
 It was Foulques's turn to cook dinner, and by mistake he left a piece of pufferfish in the dish.
 Magus Parcival was very ill that evening because of it, and was hallucinating, to the point of losing his apothecary's knowledge.
 Foulques gave him sedatives, thinking it was a mere bout of indigestion, but his patient died.
 Panicking, Foulques put the magus's body in the flaying machine, and claimed that he had set off on a great mediumistic journey (so it was Foulques who periodically refilled the incense in the cottage).
 But there too, EULALIE recovered these "sturdy and far-sight-gifted" bones from the ossuary, to replace another carcass.
-SAPHIR came back from her bivouac at that very moment.
+SAPHIR, for her part, only came back from her bivouac much later, during the night before Day 3.
 
 Foulques looked for a way out, even buying explosives and other equipment with a staging in mind... and that is when the story of the game began.
+
+
+Timeline
+-------------------------------
+
+- A few weeks before Day 1: Magus Childeric's accident in the flaying machine; in the following days, his bones replace Brolok (GAMMA).
+- Three days before Day 1: SAPHIR leaves on her bivouac with GAUBERT and HERBERT; that very evening, Magus Parcival dies, and his so-called "mediumistic journey" begins.
+- The following days: EULALIE recovers his bones, which replace Karnine (OMEGA).
+- Day 1, Day 2, then Day 3 morning: see "The events".
+- The night before Day 3: SAPHIR comes back with GAUBERT and HERBERT, passing by the garrison, where the carcasses lie "asleep" since their defeat of Day 2.
+- Day 3 afternoon: the "mediumistic journey" has been going on for nearly 5 days.
 

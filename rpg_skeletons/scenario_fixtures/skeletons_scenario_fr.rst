@@ -491,13 +491,24 @@ Paniqué, FOULQUES a prétendu que le mage était parti sur un coup de tête.
 Mais EULALIE a récupéré ces ossements "robustes et nantis d'auras magiques" dans l'ossuaire, pour remplacer une des carcasses.
 FOULQUES a donc joué le jeu, mais en lançant un sort d'amnésie et en limitant le temps d'animation des carcasses, pour ne pas être démasqué.
 
-SAPHIR est partie ensuite avec des abominations en bivouac initiatique autour du lac.
+SAPHIR est partie ensuite avec GAUBERT et HERBERT, ses gardes du corps, en bivouac initiatique de plusieurs jours autour du lac.
 C'était au tour de FOULQUES de préparer le dîner, et par mégarde il a laissé un morceau de poisson-globe dans le plat.
 Le mage Parcival a été très malade le soir à cause de cela, et hallucinait, au point de perdre ses notions d'apothicaire. 
 FOULQUES lui a donné des calmants en pensant à une banale indigestion, mais son patient est décédé.
 Paniqué, FOULQUES a mis le corps du mage dans le dépeçoir, et prétendu qu'il s'était lancé dans un grand voyage médiumnique (c'est donc FOULQUES qui rechargeait ponctuellement l'encens de la maisonnette).
 Mais là aussi EULALIE a récupéré ces ossements "robustes et doués de pouvoirs de vision lointaine" dans l'ossuaire, pour remplacer une autre carcasse.
-SAPHIR est rentrée à ce moment-là de son bivouac.
+SAPHIR, elle, n'est rentrée de son bivouac que bien plus tard, la nuit précédant le Jour 3.
 
 FOULQUES a cherché un moyen de s'en tirer, achetant même des explosifs et autres équipements en vue d'une mise en scène... et c'est à ce moment que l'histoire du jeu a commencé.
+
+
+Chronologie
+-------------------------------
+
+- Quelques semaines avant le Jour 1 : accident du mage Childéric dans le dépeçoir ; dans les jours qui suivent, ses ossements remplacent Brolok (GAMMA).
+- Trois jours avant le Jour 1 : SAPHIR part en bivouac avec GAUBERT et HERBERT ; le soir même, le mage Parcival meurt, et son prétendu "voyage médiumnique" commence.
+- Les jours suivants : EULALIE récupère ses ossements, qui remplacent Karnine (OMEGA).
+- Jour 1, Jour 2, puis Jour 3 matin : voir "Les évènements".
+- La nuit précédant le Jour 3 : SAPHIR rentre avec GAUBERT et HERBERT, en passant devant la garnison, où les carcasses gisent "endormies" depuis leur défaite du Jour 2.
+- Jour 3 après-midi : le "voyage médiumnique" dure depuis bientôt 5 jours.
 
