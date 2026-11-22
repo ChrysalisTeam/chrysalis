@@ -244,6 +244,18 @@ Inside: large machinery turning slowly, but noisily, nonstop, powered by a windm
 
 The corpses of adventurers are separated there into bones, which end up in the ossuary, meat, which ends up in the self-refrigerating ice house, and skin, which is first dried and then stored to serve as snacks for the dogs (but a reseller is lacking to sell off the surplus).
 
+Hidden: among the piles of dried skins, two patches bear the tattoo of the **wolf curled up in a ball** (the skin of the forearms of Magus Childeric and Magus Parcival, see "The magi's past"); if the carcasses find them and show them to SAPHIR before night, the GM brings forward the confrontation of "Day 3 - nightfall".
+
+
+Ossuary and ice house
+--------------------------------
+
+Two half-buried outbuildings of the flaying house, at the back, fed by chutes from the machinery.
+
+Ossuary: it has its own door, to which EULALIE also has the key. Adventurers' bones sorted by size on shelves, and a few complete skeletons, set aside as "spare parts"; this is where EULALIE chose those of GAMMA and OMEGA. Hidden: in a jar of sorted teeth, a **gold tooth** (Magus Parcival's, cf. his portrait).
+
+Ice house: it only opens from the flaying house. An icy room, self-refrigerated by an invention of Foulques, where quarters of meat hang (the "keep's meat" promised to the muskrats, and Foulques's spiced recipes). Nothing else of interest.
+
 
 Tower - bedrooms
 ------------------

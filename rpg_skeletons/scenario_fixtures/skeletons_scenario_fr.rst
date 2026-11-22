@@ -244,6 +244,18 @@ Dedans : grande machinerie qui tourne lentement, mais bruyamment, en continu, g
 
 Les cadavres des aventuriers y sont séparés entre les os qui terminent à l'ossuaire, la viande qui finit au glacier autoréfrigéré, et la peau qui est d'abord séchée avant d'être stockée pour servir de snacks aux chiens (mais il manque un revendeur pour écouler le surplus).
 
+Caché : parmi les piles de peaux séchées, deux plaques portent le tatouage du **loup roulé en boule** (la peau des avant-bras des mages Childéric et Parcival, voir "Le passé des mages") ; si les carcasses les découvrent et les montrent à SAPHIR avant la nuit, le MJ avance la confrontation de "Jour 3 - nuit tombée".
+
+
+Ossuaire et glacier
+--------------------------------
+
+Deux annexes semi-enterrées de la dépècerie, à l'arrière, alimentées par des goulottes depuis la machinerie.
+
+Ossuaire : il a sa propre porte, dont EULALIE a aussi la clé. Des os d'aventuriers triés par taille sur des étagères, et quelques squelettes complets, mis de côté comme "pièces de rechange" ; c'est là qu'EULALIE a choisi ceux de GAMMA et d'OMEGA. Caché : dans un bocal de dents triées, une **dent en or** (celle du mage Parcival, cf. son portrait).
+
+Glacier : il ne s'ouvre que depuis la dépècerie. Salle glaciale, autoréfrigérée par une invention de FOULQUES, où pendent des quartiers de viande (la "viande du donjon" promise aux rats musqués, et les recettes aux épices de FOULQUES). Rien d'autre d'intéressant.
+
 
 Tour - Chambres
 ------------------
