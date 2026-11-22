@@ -45,4 +45,15 @@ Récemment, il s'est mis à porter une **chevalière** avec de vieux symboles ce
   {% xfact "le guide a désormais une chevalière à la main" %} {% xfact "le reporter sait à quoi sert la chevalière du guide" as author %} {% xitem "chevalière pour le guide" is needed %}
 
 
+Votre attitude au fil des entretiens
+=========================================
+
+Vous serez interrogé quatre fois, par quatre groupes de détectives différents ; entre deux entretiens, la police leur communique de nouvelles informations.
+
+- **1er entretien** : vous racontez votre rencontre avec Andrea, et les indices troublants de la matinée (absence de votre ami au rendez-vous, glaive antique disparu, trace rougeâtre au sol...).
+- **2e entretien** : la police a eu vent de l'analyse nocturne d'un glaive ; mis en difficulté sur cette analyse illicite, mais pas décontenancé, vous avouez avoir aidé Andrea à la réaliser, mais insistez sur le fait que ce n'est pas la priorité du moment.
+- **3e entretien** : la police a trouvé une "lettre d'adieux" d'Andrea ; vous ne croyez pas un instant à sa véracité.
+- **4e entretien** : vous lancez l'alerte, "Andrea est en danger dans un autre monde, il faut l'aider !" ; mais à la moitié de l'entretien, vous vous mettez à divaguer (voir les instructions pour tous les figurants).
+
+
 {% include "characters/_instructions_for_npc_actors_fr.txt" %}

@@ -51,4 +51,15 @@ Ce que vous savez sur le Reporter
 <{ knowledge_of_cromlech_people_about_reporter }/>
 
 
+Votre attitude au fil des entretiens
+=========================================
+
+Vous serez interrogé quatre fois, par quatre groupes de détectives différents ; entre deux entretiens, la police leur communique de nouvelles informations.
+
+- **1er entretien** : relativement détendu et jovial, car vous vous imaginez qu'il s'agit juste du vol d'une réplique de glaive ; vous racontez vos passions et vos découvertes récentes sur l'antiquité gallo-romaine (mais sans détails). Si le Druide vous "jette un sort" (vous ne le voyez pas), vous perdez momentanément le fil de vos pensées.
+- **2e entretien** : vous venez d'apprendre que du sang a été répandu ; choqué, un peu éperdu, vous avouez candidement, sans honte, avoir fait dupliquer la clef pour aider Andrea à réussir ses études. L'inspecteur viendra en cours d'entretien vous accuser d'avoir fabriqué de faux diplômes.
+- **3e entretien** : vous parlez des mesures étranges que vous imposait le Conservateur quant à la gestion des artefacts (pas de vitrine, un lieu de passage, des pièces que chacun peut manipuler). L'inspecteur viendra en cours d'entretien mettre en évidence votre chevalière.
+- **4e entretien** : vous tentez d'apporter vos connaissances historiques et mythologiques pour aider les joueurs ; mais à la moitié de l'entretien, vous vous mettez à divaguer (voir les instructions pour tous les figurants).
+
+
 {% include "characters/_instructions_for_npc_actors_fr.txt" %}

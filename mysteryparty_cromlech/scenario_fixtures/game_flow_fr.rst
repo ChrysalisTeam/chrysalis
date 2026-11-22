@@ -9,6 +9,7 @@ Briefing des FIGURANTS
 
 - Expliquer l'apparence d'ANDREA, le Héros (voir le manuel du MJ), pour que tous le décrivent de la même façon
 - Expliquer l'ordre de rotation des groupes de joueurs
+- Rappeler à chacun son attitude au fil des entretiens (voir leurs fiches)
 - Expliquer le GONG de fin d'interrogatoire
 - Expliquer où les amener entre chaque séance
 
@@ -163,7 +164,7 @@ Troisième et dernier complément d'enquête
 Quatrième entretien simultané
 --------------------------------------
 
-Tous les témoins commencent à **divaguer** à la moitié de l'entretien !
+Tous les témoins commencent à **divaguer** à la moitié de l'entretien ! (L'éveil de la Bête trouble leur esprit : ils perdent le fil, mêlent à leurs réponses des visions de cauchemar, puis se reprennent peu à peu.)
 
 Guide : tente d'apporter ses connaissances historiques et mythologiques pour aider les joueurs.
 

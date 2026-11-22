@@ -9,6 +9,7 @@ NPC ACTORS' Briefing
 
 - Explain the appearance of ANDREA, the Hero (see the GM manual), so that they all describe him in the same way
 - Explain the rotation order of the player groups
+- Remind each of them of their attitude over the interviews (see their sheets)
 - Explain the end-of-interview GONG
 - Explain where to take them between each session
 
@@ -163,7 +164,7 @@ Third and Final Investigation Update
 Fourth Simultaneous Interview
 --------------------------------------
 
-All the witnesses start to **ramble** halfway through the interview!
+All the witnesses start to **ramble** halfway through the interview! (The awakening of the Beast troubles their minds: they lose their train of thought, mix nightmarish visions into their answers, then gradually pull themselves together.)
 
 Guide: tries to contribute his historical and mythological knowledge to help the players.
 

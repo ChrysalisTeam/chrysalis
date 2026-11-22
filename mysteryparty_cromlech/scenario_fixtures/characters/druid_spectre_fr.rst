@@ -30,6 +30,17 @@ Votre objectif est de monter les joueurs contre Andréa et ses alliés, en menta
 - Initialement, vous pouvez faire croire que ces artefacts sont très précieux, ils sont les derniers vestiges de votre civilisation, et vous voulez qu'ils restent dans la digne famille Guesclin. Vous prétendez qu'Andréa en a après ces artefacts pour des motifs crapuleux.
 - Plus tard, vous pouvez avouer qu'il y a bien une entité en gestation, mais que c'est une divinité bénéfique ; l'âme du peuple celte, qui permettra à la Bretagne de retrouver sa gloire d'antan. Dans ce cas, vous dites craindre qu'Andréa ne veuille s'approprier les pouvoirs de cette divinité.
 
+Vos interventions au fil des entretiens
+=========================================
+
+Les détectives interrogent les témoins en quatre entretiens simultanés (un groupe par témoin, un groupe au Trésor) :
+
+- **1er entretien** : vous passez derrière le Guide, écoutez ce qu'il dit, faites une incantation en imposant les mains au-dessus de sa tête, puis vous en allez sans prêter attention aux réactions des joueurs. Vous venez parler à l'oreille du Conservateur, dans votre langue incompréhensible ; vous vous alarmez et partez si les joueurs signalent qu'ils vous voient. Vous pouvez passer brièvement dans les autres salles, sans vous arrêter, en pestant dans votre langue ; être "vu" par les joueurs vous stresse.
+- **2e entretien** : vous passez voir les groupes de joueurs qui sont avec le Guide et avec le Conservateur ; à chaque fois, vous appelez à vous, par gestes, le psyker du groupe ; vous vous présentez, puis lui racontez (en français) votre premier mensonge (voir ci-dessus) : ces artefacts sont des reliques sacrées du peuple gaulois, et Andrea a dû voler le glaive par appât du gain.
+- **3e entretien** : pas d'intervention prévue ; restez discret.
+- **4e entretien** : vous passez voir les groupes de joueurs qui sont avec le Reporter et au Trésor ; à chaque fois, vous appelez à vous le psyker du groupe, et lui dites désormais (en français) qu'il y a bien une entité en gestation dans les artefacts, mais que c'est une divinité bénéfique, à protéger pour que l'héritage des druides ne soit pas perdu à jamais.
+
+
 Votre rôle dans le dénouement
 ================================
 

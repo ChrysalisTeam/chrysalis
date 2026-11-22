@@ -30,6 +30,17 @@ Your goal is to turn the players against Andrea and his allies, by lying skilful
 - Initially, you can make them believe that these artefacts are very precious, that they are the last remnants of your civilisation, and that you want them to stay with the worthy Guesclin family. You claim that Andrea is after these artefacts for villainous motives.
 - Later, you can admit that there is indeed an entity gestating, but that it is a benevolent deity; the soul of the Celtic people, which will allow Brittany to regain its former glory. In that case, you say you fear that Andrea wants to appropriate the powers of this deity.
 
+Your interventions over the interviews
+=========================================
+
+The detectives question the witnesses in four simultaneous interviews (one group per witness, one group at the Treasure):
+
+- **1st interview**: you walk behind the Guide, listen to what he says, perform an incantation while laying hands above his head, then leave without paying attention to the players' reactions. You come to whisper in the Curator's ear, in your unintelligible tongue; you take fright and leave if the players point out that they can see you. You may pass briefly through the other rooms, without stopping, cursing in your tongue; being "seen" by the players stresses you out.
+- **2nd interview**: you go to see the player groups that are with the Guide and with the Curator; each time, you beckon the group's psyker over to you; you introduce yourself, then tell them (in the players' language) your first lie (see above): these artefacts are sacred relics of the Gaulish people, and Andrea must have stolen the gladius out of greed.
+- **3rd interview**: no intervention planned; keep a low profile.
+- **4th interview**: you go to see the player groups that are with the Reporter and at the Treasure; each time, you beckon the group's psyker over to you, and now tell them (in the players' language) that there is indeed an entity gestating in the artefacts, but that it is a benevolent deity, to be protected so that the druids' legacy is not lost forever.
+
+
 Your role in the ending
 ================================
 

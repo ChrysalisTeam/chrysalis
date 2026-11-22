@@ -98,4 +98,15 @@ Vous l'aviez vu quelques fois discuter intensément avec Andrea, en journée. Ma
 <{ knowledge_of_cromlech_people_about_reporter }/>
 
 
+Votre attitude au fil des entretiens
+=========================================
+
+Vous serez interrogé quatre fois, par quatre groupes de détectives différents ; entre deux entretiens, la police leur communique de nouvelles informations.
+
+- **1er entretien** : vous prétendez avoir passé la matinée à la cérémonie publique, et ne rien comprendre à tout ce chahut autour d'un simple vandalisme. Si le Druide vient vous parler à l'oreille, vous êtes manifestement irrité, gêné (impossible de lui répondre devant les détectives).
+- **2e entretien** : la police a des révélations sur votre emploi du temps ; vous êtes mis en difficulté, décontenancé. Si vous êtes coincé, vous pouvez vous rabattre sur la thèse d'un "suicide d'Andrea", dont vous auriez été le témoin impromptu. L'inspecteur viendra en cours d'entretien mettre en évidence la blessure de votre main gauche.
+- **3e entretien** : si vous êtes coincé, vous avouez tout, mais vous vous insurgez sur le fait que les enjeux sont bien plus importants que "vous contre Andrea", et que certaines vérités doivent rester cachées. L'inspecteur viendra en cours d'entretien vous faire remarquer que la lettre d'adieux a été écrite d'une main tremblante, donc peut-être "blessée".
+- **4e entretien** : vous lancez l'alerte, "il faut laisser les artefacts tranquilles et empêcher Andrea de les détourner à son propre profit !" ; mais à la moitié de l'entretien, vous vous mettez à divaguer (voir les instructions pour tous les figurants).
+
+
 {% include "characters/_instructions_for_npc_actors_fr.txt" %}

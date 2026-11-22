@@ -45,4 +45,15 @@ Recently, he started wearing a **signet ring** with old Celtic symbols. You had 
   {% xfact "le guide a désormais une chevalière à la main" %} {% xfact "le reporter sait à quoi sert la chevalière du guide" as author %} {% xitem "chevalière pour le guide" is needed %}
 
 
+Your attitude over the interviews
+=========================================
+
+You will be questioned four times, by four different groups of detectives; between two interviews, the police give them new information.
+
+- **1st interview**: you recount your meeting with Andrea, and the troubling clues of the morning (your friend's absence at the appointment, ancient gladius missing, reddish mark on the floor...).
+- **2nd interview**: the police have got wind of the nocturnal analysis of a gladius; put on the spot over this illicit analysis, but not thrown off balance, you admit you helped Andrea carry it out, but insist that this is not the priority right now.
+- **3rd interview**: the police have found a "farewell letter" from Andrea; you do not believe for a moment that it is genuine.
+- **4th interview**: you raise the alarm: "Andrea is in danger in another world, we must help him!"; but halfway through the interview, you start to ramble (see the instructions for all NPC actors).
+
+
 {% include "characters/_instructions_for_npc_actors_en.txt" %}

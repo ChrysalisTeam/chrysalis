@@ -98,4 +98,15 @@ You had seen him a few times talking intensely with Andrea, during the day. But 
 <{ knowledge_of_cromlech_people_about_reporter }/>
 
 
+Your attitude over the interviews
+=========================================
+
+You will be questioned four times, by four different groups of detectives; between two interviews, the police give them new information.
+
+- **1st interview**: you claim to have spent the morning at the public ceremony, and to understand nothing of all this fuss over a simple act of vandalism. If the Druid comes to whisper in your ear, you are visibly irritated, embarrassed (you cannot answer him in front of the detectives).
+- **2nd interview**: the police have revelations about your timetable; you are put on the spot, thrown off balance. If cornered, you can fall back on the theory that "Andrea committed suicide", which you supposedly witnessed by chance. The Inspector will come during the interview to point out the wound on your left hand.
+- **3rd interview**: if cornered, you confess everything, but protest that the stakes are far greater than "you versus Andrea", and that certain truths must remain hidden. The Inspector will come during the interview to challenge you on the fact that the farewell letter was written with a trembling hand, hence perhaps a "wounded" one.
+- **4th interview**: you raise the alarm: "the artefacts must be left alone, and Andrea must be stopped from hijacking them for his own benefit!"; but halfway through the interview, you start to ramble (see the instructions for all NPC actors).
+
+
 {% include "characters/_instructions_for_npc_actors_en.txt" %}

@@ -51,4 +51,15 @@ What you know about the Reporter
 <{ knowledge_of_cromlech_people_about_reporter }/>
 
 
+Your attitude over the interviews
+=========================================
+
+You will be questioned four times, by four different groups of detectives; between two interviews, the police give them new information.
+
+- **1st interview**: relatively relaxed and jovial, as you imagine it is merely the theft of a replica gladius; you talk about your passions and your recent discoveries regarding Gallo-Roman antiquity (but without details). If the Druid "casts a spell" on you (you cannot see him), you momentarily lose your train of thought.
+- **2nd interview**: you have just learned that blood was spilled; shocked, somewhat distraught, you candidly admit, without shame, that you had the key duplicated to help Andrea succeed in his studies. The Inspector will come during the interview to accuse you of having forged diplomas.
+- **3rd interview**: you talk about the strange measures imposed on you by the Curator regarding the handling of the artefacts (no display case, a high-traffic spot, pieces that anyone may handle). The Inspector will come during the interview to point out your signet ring.
+- **4th interview**: you try to contribute your historical and mythological knowledge to help the players; but halfway through the interview, you start to ramble (see the instructions for all NPC actors).
+
+
 {% include "characters/_instructions_for_npc_actors_en.txt" %}
