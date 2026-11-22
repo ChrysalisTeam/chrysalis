@@ -62,7 +62,7 @@ FOR THE AUTOMATONS:
 - Towards the end of the game, after the mystery is solved, you help gather the players at the bottom of the stairs while waiting for the epilogue.
 - After the epilogue and the final departure of the phantoms, escort the players back to the round room of the initial briefing, saying that the teleportation portals to the surface will soon close.
 - Take photographs during the game, if possible, PLEASE!
-- Sentinel automaton: you are vulnerable to DARTS, after all
+- Sentinel automaton: a DART hitting you right in the heart (in the middle of the torso) destroys you; anywhere else, it only slightly hampers you
 
 .. raw:: pdf
 

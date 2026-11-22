@@ -62,7 +62,7 @@ POUR LES AUTOMATES :
 - Vers la fin du jeu, après la résolution du mystère, vous aidez à rassembler les joueurs au bas des escaliers en attendant l'épilogue.
 - Après l'épilogue et le départ final des fantômes, raccompagnez les joueurs jusqu'à la salle ronde du briefing initial, en disant que les portails de téléportation vers la surface vont bientôt se refermer.
 - Prenez des photographies durant le jeu, si possible, SVP !
-- Automate de garde : tu es vulnérable aux FLECHETTES, finalement
+- Automate de garde : une FLÉCHETTE qui te touche en plein coeur (au milieu du torse) te détruit ; ailleurs, elle ne fait que te gêner légèrement
 
 .. raw:: pdf
 
