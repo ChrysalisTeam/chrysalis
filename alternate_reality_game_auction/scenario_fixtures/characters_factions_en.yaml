@@ -146,7 +146,7 @@ character_properties:
         account: 300
         address_book: []
         official_name: "Lydia Magnus"
-        official_role: "Sabarith politician, candidate for the office of consul of Alifir"
+        official_role: "Lordanian-Sabarith politician, candidate for the office of consul of Alifir"
         gamemaster_hints: "Opal's wife."
         extra_goods: "Certified currency: 1000 Sabarith Pounds"
         is_npc: false

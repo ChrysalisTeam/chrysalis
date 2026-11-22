@@ -146,7 +146,7 @@ character_properties:
         account: 300
         address_book: []
         official_name: "Lydia Magnus"
-        official_role: "Politicienne sabarite, candidate au poste de consule d'Alifir"
+        official_role: "Politicienne lordano-sabarite, candidate au poste de consule d'Alifir"
         gamemaster_hints: "Femme d'Opal."
         extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
         is_npc: false
