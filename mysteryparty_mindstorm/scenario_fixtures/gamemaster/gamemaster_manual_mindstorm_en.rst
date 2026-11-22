@@ -618,7 +618,7 @@ He has on him (and not in his briefcase) the key to the safe, but he lacks Loyd 
 
 **Alphonse had been told by Loyd Georges where the latter kept his golden magnetic pass, somewhere in the dining room, but he has forgotten where.**
 
-The session is therefore postponed; and Alphonse, instead of searching by himself, enlists all the guests to search the reception hall, looking for these 2 elements. {% xitem 'lg_vault_pass_card' is needed %} {% xitem 'lg_vault_secret_code' is needed %}
+The session is therefore postponed; and Alphonse, instead of searching by himself, enlists all the guests to search the dining room, looking for these 2 elements (the tissue box is hidden in the wood-and-gold chest with an anchor, and the pass card in Loyd Georges' top hat, see the checklist). {% xitem 'lg_vault_pass_card' is needed %} {% xitem 'lg_vault_secret_code' is needed %}
 
 Once these elements are found (or if the secret agent who knows how to hack magnetic cards volunteers), everyone opens the safe together.
 

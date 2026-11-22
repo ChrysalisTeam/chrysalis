@@ -15,7 +15,7 @@ After the first series of sales (fairly ordinary artefacts and gems to begin wit
 
 - you must conduct a **series of archaeological sales, concerning objects as well as precious stones**. {% symbol "Gem lots are sold by descending auction, while artefacts are sold by normal ascending auction." for "auction_process_instructions" %}
 
-- you must read in private, with him, the **draft of his will**, which he keeps in his safe. You are carrying various copies of his documents, including the said draft. Should anything happen to him, Loyd Georges has asked you to proceed without delay to the reading of his will, so as to preserve the interests of his household.
+- you must read in private, with him, the **draft of his will**, which he keeps in his safe. You are carrying copies of various documents of Loyd Georges, but not of this draft, which exists in a single copy, in the safe. Should anything happen to him, Loyd Georges has asked you to proceed without delay to the reading of his will, so as to preserve the interests of his household.
 
 - you must lend assistance to the **sale of the mining deposit** that Lydia will conduct, that is to say let her freely conduct this sale, but make sure beforehand that the potential buyers do have a valid mandate, and remain at her disposal should she need advice. The purchase price must be a multiple of 0.5 megakashes.
 
@@ -27,6 +27,8 @@ As a prominent public figure of Sabarim, you were neither searched on entering t
 You arrive at the evening about half an hour after it begins. <{ sabarim_notable_has_no_body_search }/>
 
 As a token of his trust in you, and also of his distrust of his household's security, Loyd Georges has entrusted you with the **key to the safe in his study**; he keeps for himself the other means required to open it: **the pass card and the secret code**.  {% xfact "notary_has_lg_vault_key" as author %}
+
+**Opening the safe**: when you gather the guests around the safe to read the will, you lack the code and the pass card; let Rydji and Alphonse explain where they should be, and the session is postponed while the guests find them. Once the safe is open (by Alphonse, with your key), you read the will, have each person given what is theirs, then have everything put back in the safe, close it, and announce that from now on **you keep the key to the safe in your briefcase**, and that **you entrust the golden pass card to Alphonse**, with much advice (for the running of the manor).
 
 With regard to Sabarith justice: the judicial immunity of tabellions is an entitlement dear to you; you will therefore defend tooth and nail your right not to be subjected to any interrogation, nor searched by Inspector Shark (only a special court of justice can revoke this exceptional status), nor put through the slightest detector; all the more so since Loyd Georges recently confided to you that he distrusted the inspector, who "was losing his grip on reality". So there is no question of giving this individual the key to the safe, or any other of Loyd Georges' secrets.
 

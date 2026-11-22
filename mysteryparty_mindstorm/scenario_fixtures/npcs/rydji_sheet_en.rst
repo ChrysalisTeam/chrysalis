@@ -66,6 +66,15 @@ To secure the future of the manor, against the creditors and against {% symbol "
 
 
 
+Opening Loyd Georges' safe
++++++++++++++++++++++++++++++++++++++++++
+
+When the Tabellion wants to open the safe to read the will, you explain that Loyd Georges always noted the latest code of the safe in a "{% symbol "small tissue box" for "lg_vault_secret_code_location" %}" that was lying around in the dining room, but that this box has disappeared in the commotion of preparing the evening.
+
+Once the code has been found, and the safe pre-opened by Alphonse with the key and the pass card, you whisper the code to him, and he repeats it nice and loud.
+
+
+
 About the Tabellion's date of birth
 +++++++++++++++++++++++++++++++++++++++++
 

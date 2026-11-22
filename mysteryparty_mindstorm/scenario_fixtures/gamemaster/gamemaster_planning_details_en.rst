@@ -315,7 +315,7 @@ HOUR 3:00
 
 - the Oberon calls out the pending email messages
 
-- [multi-role NPC]: Cook & Old lady of Salima
+- [multi-role NPC]: Cook & Old lady of Salima (and, on request, the hairdresser-masseur of Salima, if a player has summoned him with his shop's gift voucher: see his sheet)
 
     - The Akarith Ambassador says he has business to attend to outside, but that he will come back later in the evening
     - Alphonse arrives with the cook Robb, and puts him at the disposal of the deputy police officer Obsidian

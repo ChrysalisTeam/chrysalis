@@ -315,7 +315,7 @@ HEURE 3:00
 
 - l'obéron clame les messages email en attente
 
-- [PNJ-MR] : Cuisinier & Vieille dame de Salima
+- [PNJ-MR] : Cuisinier & Vieille dame de Salima (et, à la demande, le coiffeur-masseur de Salima, si un joueur l'a convoqué avec le bon cadeau de sa boutique : voir sa fiche)
 
     - L'ambassadeur akarite dit avoir des affaires à traiter à l'extérieur, mais qu'il repassera plus tard en soirée
     - Alphonse arrive avec le cuisinier Robb, et le met à la disposition de l'adjointe de police Obsidian

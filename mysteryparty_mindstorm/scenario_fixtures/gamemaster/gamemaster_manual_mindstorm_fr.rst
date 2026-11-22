@@ -618,7 +618,7 @@ Il a sur lui (et non dans sa mallette) la clef du coffre, mais il lui manque le 
 
 **Alphonse s'était vu confier par Loyd Georges où celui-ci gardait son pass magnétique doré, quelque part dans la salle à manger, mais il l'a oublié.**
 
-La séance est donc reportée ; et Alphonse, au lieu de chercher par lui-même, met à contribution tous les invités pour fouiller la salle de réception, à la recherche de ces 2 éléments. {% xitem 'lg_vault_pass_card' is needed %} {% xitem 'lg_vault_secret_code' is needed %}
+La séance est donc reportée ; et Alphonse, au lieu de chercher par lui-même, met à contribution tous les invités pour fouiller la salle à manger, à la recherche de ces 2 éléments (la boite à mouchoir est cachée dans le coffret bois-et-or à ancre, et la carte pass dans le chapeau haut-de-forme de Loyd Georges, voir la checklist). {% xitem 'lg_vault_pass_card' is needed %} {% xitem 'lg_vault_secret_code' is needed %}
 
 Une fois que ces éléments sont trouvés (voire si l'agent secret qui sait hacker des cartes magnétiques se propose), on ouvre tous ensemble le coffre-fort.
 

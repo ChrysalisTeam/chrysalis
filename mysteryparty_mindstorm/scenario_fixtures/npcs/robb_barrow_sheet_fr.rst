@@ -28,5 +28,7 @@ Si l'on vous demande la recette d'un des 2 plats de la veille, vous allez la che
 
 Si l'on vous demande de réaliser un (faux) cocktail, avec différents ingrédients apportés par un joueur, allez voir le maître de jeu pour qu'il vous donne le résultat de ce mélange.
 
+Une fois arrivé au manoir, allez voir {{character_properties.opal.official_name}} (si ce n'est déjà fait) : Loyd Georges vous avait parlé d'un cocktail très spécial, que vous auriez sans doute à préparer pour lui (l'Élixir Berserk). Si des ingrédients lui manquent, orientez-le vers la vieille voisine ; s'il vous a tout fourni, allez voir le maître de jeu avec les ingrédients, qui vous indiquera l'effet obtenu.
+
 Toutes ces actions de jeu, vous les faites gratuitement (pas besoin de demander des billets de "kashes", l'argent fictif du jeu).
 

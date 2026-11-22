@@ -28,5 +28,7 @@ If you are asked for the recipe of one of the 2 dishes of the previous day, you 
 
 If you are asked to make a (fake) cocktail, with various ingredients brought by a player, go and see the Game Master so that they can give you the result of this mixture.
 
+Once you have arrived at the manor, go and see {{character_properties.opal.official_name}} (if not already done): Loyd Georges had spoken to you of a very special cocktail that you would probably have to prepare for him (the Berserk Elixir). If ingredients are missing, direct him to the old neighbour; if he has provided you with everything, go and see the Game Master with the ingredients, who will tell you the effect obtained.
+
 All these game actions, you do for free (no need to ask for "kash" notes, the game's fictional money).
 

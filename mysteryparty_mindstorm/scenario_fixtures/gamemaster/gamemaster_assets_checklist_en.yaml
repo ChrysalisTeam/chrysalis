@@ -95,8 +95,8 @@
 -
   - "Miscellaneous hidden objects"
   -
-    - "Golden pass card for LG's safe (which opens ALL the pass-card locks): in LG's top hat {% xfact 'passcard_of_loyd_georges_is_in_his_hat' %} {% xitem 'lg_vault_pass_card' is provided %}"
-    - "Code of LG's safe ({% symbol '603-109 (sick-oh-free... won-oh-nine)' for 'lg_vault_secret_code' %}): in a {% symbol 'small tissue box' for 'lg_vault_secret_code_location' %} hidden in the beautiful wood-and-gold chest with an anchor {% xitem 'lg_vault_secret_code' is provided %} "
+    - "Golden pass card for LG's safe (which opens ALL the pass-card locks): in LG's top hat, placed in the DINING ROOM (e.g. on a coat stand) {% xfact 'passcard_of_loyd_georges_is_in_his_hat' %} {% xitem 'lg_vault_pass_card' is provided %}"
+    - "Code of LG's safe ({% symbol '603-109 (sick-oh-free... won-oh-nine)' for 'lg_vault_secret_code' %}): in a {% symbol 'small tissue box' for 'lg_vault_secret_code_location' %} hidden in the beautiful wood-and-gold chest with an anchor, placed in the DINING ROOM {% xitem 'lg_vault_secret_code' is provided %} "
     - "Olympus dictaphone recorder attached to a signal transmitter, well hidden but without interference (Malachite's spy dictaphone, behind a sofa: conversation of Loyd Georges and Rydji) {% xitem 'lg_rydji_voice_recorder' is provided %}"
     - "Pass card dedicated only to the manor's mailbox: in the wallet sold by Alphonse {% xitem 'postbox_specific_lost_passcard' is provided %}"
 

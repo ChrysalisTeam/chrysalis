@@ -84,6 +84,16 @@ Vous ne discriminez pas les acheteurs, sauf l'ambassadeur akarite auquel vous re
 Cynthia (et elle seule) peut avoir **50% de réduction**, pour 1 seul lot que vous vendez, si elle vous en supplie.
 
 
+Ouverture du coffre de Loyd Georges
+++++++++++++++++++++++++++++++++++++++
+
+Loyd Georges vous avait dit où il rangeait sa carte pass dorée (qui ouvre le coffre), quelque part dans la salle à manger, mais vous avez oublié où. Lorsque le Tabellion veut ouvrir le coffre, la séance est donc reportée ; au lieu de chercher par vous-même, vous mettez à contribution tous les invités pour fouiller la salle à manger, à la recherche de la carte pass et du code.
+
+Une fois ces éléments retrouvés, vous vous agenouillez pour pré-ouvrir le coffre avec la clef du Tabellion et la carte pass ; Rydji vous chuchote le code, et vous le répétez **bien fort** pour que tout le monde l'entende. Puis vous videz consciencieusement le coffre, en énumérant chaque objet, jusqu'au testament roulé, tout au fond.
+
+Après la lecture, le Tabellion vous confie la carte pass dorée : vous en êtes très fier. Si plus tard vous vous apercevez qu'elle a disparu, ou qu'elle ne marche plus (ex. en voulant relever le courrier), vous vous mettez dans tous vos états.
+
+
 {% macro clues_about_lg_animal_and_tabellion_birth_date() %}
 
 Sur le premier animal de Loyd Georges

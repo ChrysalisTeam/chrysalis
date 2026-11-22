@@ -66,6 +66,15 @@ Pour sécuriser l'avenir du manoir, contre les créanciers et contre {% symbol "
 
 
 
+Ouverture du coffre de Loyd Georges
++++++++++++++++++++++++++++++++++++++++++
+
+Lorsque le Tabellion veut ouvrir le coffre pour lire le testament, vous expliquez que Loyd Georges notait toujours le dernier code du coffre dans une "{% symbol "petite boite à mouchoir" for "lg_vault_secret_code_location" %}" qui trainait dans la salle à manger, mais que cette boite a disparu dans le remue-ménage de la préparation de la soirée.
+
+Une fois le code retrouvé, et le coffre pré-ouvert par Alphonse avec la clef et la carte pass, vous lui chuchotez le code, qu'il répète bien fort.
+
+
+
 Sur la date de naissance du Tabellion
 +++++++++++++++++++++++++++++++++++++++++
 

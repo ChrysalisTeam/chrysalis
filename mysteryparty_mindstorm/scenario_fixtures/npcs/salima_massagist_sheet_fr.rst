@@ -15,3 +15,4 @@ Interactions diverses :
 - Les troquets de Sabarim, et surtout de la ville de Salima, sont de plus en plus mal famés, avec des types louches à l'accent midolien qui s'y rendent en bandes certains soirs.
 
 - si un des protagonistes vous confie **un objet à sortir du manoir, c'est à facturer 50 kashes**.
+- de même, si en vous convoquant, un protagoniste vous demande d'**apporter un objet au manoir** (ex. un objet acheté au marché noir, livré à votre boutique), vous le faites entrer pour **50 kashes**.

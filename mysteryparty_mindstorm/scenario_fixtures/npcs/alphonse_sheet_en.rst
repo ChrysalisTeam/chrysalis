@@ -84,6 +84,16 @@ You do not discriminate between buyers, except for the Akarith Ambassador, to wh
 Cynthia (and she alone) can get a **50% discount**, on 1 single lot that you sell, if she begs you for it.
 
 
+Opening Loyd Georges' safe
+++++++++++++++++++++++++++++++++++++++
+
+Loyd Georges had told you where he kept his golden pass card (which opens the safe), somewhere in the dining room, but you have forgotten where. When the Tabellion wants to open the safe, the session is therefore postponed; instead of searching by yourself, you enlist all the guests to search the dining room, looking for the pass card and the code.
+
+Once these elements are found, you kneel down to pre-open the safe with the Tabellion's key and the pass card; Rydji whispers the code to you, and you repeat it **nice and loud** so that everyone hears. Then you conscientiously empty the safe, enumerating each object, down to the rolled-up will, right at the bottom.
+
+After the reading, the Tabellion entrusts you with the golden pass card: you are very proud of it. If you later realise that it has disappeared, or that it no longer works (e.g. when trying to collect the mail), you get into a terrible state.
+
+
 {% macro clues_about_lg_animal_and_tabellion_birth_date() %}
 
 About Loyd Georges' first pet

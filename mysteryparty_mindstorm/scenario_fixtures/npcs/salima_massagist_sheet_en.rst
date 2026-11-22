@@ -15,3 +15,4 @@ Miscellaneous interactions:
 - The bars of Sabarim, and especially of the city of Salima, are becoming more and more disreputable, with shady types with a Midolian accent going there in gangs on certain evenings.
 
 - if one of the protagonists entrusts you with **an item to take out of the manor, charge 50 kashes for it**.
+- likewise, if when summoning you, a protagonist asks you to **bring an item into the manor** (e.g. an object bought on the black market, delivered to your shop), you bring it in for **50 kashes**.

@@ -15,7 +15,7 @@ Après la première série de ventes (des artefacts et gemmes assez banals pour 
 
 - vous devez conduire une **série de ventes archéologiques, concernant des objets aussi bien que des pierres précieuses**. {% symbol "Les lots de gemmes sont vendus en enchères descendantes, tandis que les artefacts le sont en enchères montantes normales." for "auction_process_instructions" %}
 
-- vous devez lire en privé, avec lui, le **brouillon de son testament**, qu'il garde dans son coffre-fort. Vous avez sur vous diverses copies de ses documents, dont ledit brouillon. Au cas où il lui arriverait quelque chose, Loyd Georges vous a demandé de procéder sans délai à la lecture de son testament, afin de préserver les intérêts de sa maisonnée.
+- vous devez lire en privé, avec lui, le **brouillon de son testament**, qu'il garde dans son coffre-fort. Vous avez sur vous des copies de divers documents de Loyd Georges, mais pas de ce brouillon, qui n'existe qu'en un exemplaire, dans le coffre. Au cas où il lui arriverait quelque chose, Loyd Georges vous a demandé de procéder sans délai à la lecture de son testament, afin de préserver les intérêts de sa maisonnée.
 
 - vous devez prêter assistance à la **vente du gisement minier** qui sera faite par Lydia, c'est-à-dire la laisser librement mener cette vente, mais vous assurer préalablement que les acheteurs potentiels ont bien un mandat valide, et vous tenir à sa disposition si elle a besoin de conseils. Le prix d'achat doit être un multiple de 0.5 mégakashes.
 
@@ -27,6 +27,8 @@ En tant que haute personnalité de Sabarim, vous n'avez pas été fouillé à vo
 Vous arrivez à la soirée environ 1/2h après son commencement. <{ sabarim_notable_has_no_body_search }/>
 
 Gage de sa confiance en vous, et aussi de sa méfiance envers la sécurité de sa maisonnée, Loyd Georges vous a confié la **clef du coffre de son bureau** ; il garde pour lui les autres moyens requis pour son ouverture : **la carte pass et le code secret**.  {% xfact "notary_has_lg_vault_key" as author %}
+
+**Ouverture du coffre** : lorsque vous réunissez les invités autour du coffre pour lire le testament, il vous manque le code et la carte pass ; laissez Rydji et Alphonse expliquer où ils devaient se trouver, et la séance est reportée le temps que les invités les retrouvent. Une fois le coffre ouvert (par Alphonse, avec votre clef), vous lisez le testament, faites remettre à chacun ce qui lui revient, puis faites tout remettre dans le coffre, le refermez, et annoncez que désormais **vous gardez la clef du coffre dans votre mallette**, et que **vous confiez la carte pass dorée à Alphonse**, avec force conseils (pour la bonne marche du manoir).
 
 Vis-à-vis de la justice sabarite : l'immunité judiciaire des tabellions est un acquis qui vous est cher ; vous défendrez donc bec et ongles votre droit à n'être ni soumis à un interrogatoire, ni fouillé par l'inspecteur Shark (seule une cour de justice spéciale peut révoquer ce statut d'exception), ni passé sous le moindre détecteur ; d'autant plus que Loyd Georges vous a confié récemment qu'il se méfiait de l'inspecteur, qui "perdait le sens des réalités". Hors de question, donc, de donner à cet individu la clef du coffre, ou tout autre secret de Loyd Georges.
 

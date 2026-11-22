@@ -95,8 +95,8 @@
 -
   - "Objets divers cachés"
   -
-    - "Carte pass dorée pour le coffre-fort de LG (qui ouvre TOUTES les serrures passcard) : dans le chapeau haut-de-forme de LG {% xfact 'passcard_of_loyd_georges_is_in_his_hat' %} {% xitem 'lg_vault_pass_card' is provided %}"
-    - "Code du coffre-fort de LG ({% symbol '603-109 (six sans Troie...sang neuf)' for 'lg_vault_secret_code' %}): dans une {% symbol 'petite boite à mouchoir' for 'lg_vault_secret_code_location' %} cachée dans le beau coffret bois-et-or à ancre {% xitem 'lg_vault_secret_code' is provided %} "
+    - "Carte pass dorée pour le coffre-fort de LG (qui ouvre TOUTES les serrures passcard) : dans le chapeau haut-de-forme de LG, posé dans la SALLE À MANGER (ex. sur un portemanteau) {% xfact 'passcard_of_loyd_georges_is_in_his_hat' %} {% xitem 'lg_vault_pass_card' is provided %}"
+    - "Code du coffre-fort de LG ({% symbol '603-109 (six sans Troie...sang neuf)' for 'lg_vault_secret_code' %}): dans une {% symbol 'petite boite à mouchoir' for 'lg_vault_secret_code_location' %} cachée dans le beau coffret bois-et-or à ancre, posé dans la SALLE À MANGER {% xitem 'lg_vault_secret_code' is provided %} "
     - "Enregistreur dictaphone Olympus attaché à un émetteur de signal, bien caché mais sans interférence (dictaphone espion de Malachite, derrière un canapé : conversation de Loyd Georges et Rydji) {% xitem 'lg_rydji_voice_recorder' is provided %}"
     - "Carte pass dédiée uniquement à la boîte aux lettres du manoir : dans le portefeuille vendu par Alphonse {% xitem 'postbox_specific_lost_passcard' is provided %}"
 
