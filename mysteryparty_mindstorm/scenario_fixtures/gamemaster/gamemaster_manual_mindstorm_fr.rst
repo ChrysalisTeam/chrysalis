@@ -410,7 +410,7 @@ L'agent lordanien "Emerald" est mort en mission, intoxiqué lors d'une réceptio
 
 Il s'agissait en fait d'un agent double, retourné par les akarites. Emerald avait donc été chargé, par la secte akarite des "purificateurs", d'empoisonner le riche citoyen lordanien "Opal", qui avait profané des temples akarites dans sa jeunesse. Mais Opal s'est aperçu que quelque chose ne tournait pas rond, a échangé les verres, et a même pris le portefeuille d'Emerald quand celui-ci s'est senti mal.
 
-Depuis, Opal a accès au compte web sécurisé d'Emerald (mais en lecture seule). L'agent lordanien "Garnet" a repris l'identité fictive autrefois portée par son coéquipier Emerald, et cherche à venger sa mort, car il ne sait pas qu'Emerald avait trahi son camp.
+Depuis, Opal a eu accès au compte web sécurisé d'Emerald (mais en lecture seule), jusqu'à la suppression de ce compte ces derniers jours. L'agent lordanien "Garnet" a repris l'identité fictive autrefois portée par son coéquipier Emerald, et cherche à venger sa mort, car il ne sait pas qu'Emerald avait trahi son camp.
 
 Des indices répartis entre les protagonistes permettent de relier Opal à la mort d'Emerald, et d'expliquer a posteriori l'action d'Opal face à cet agent double.
 

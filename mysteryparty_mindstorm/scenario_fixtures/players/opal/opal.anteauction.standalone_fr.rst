@@ -62,7 +62,7 @@ Par chance les services secrets lordaniens n’avaient que partiellement désact
 
 En recoupant les informations de ce compte avec celles de vos indic’, vous avez découvert que le soi-disant enchérisseur "{{character_properties.spinel.official_name}}" (dit "Spinel") n’était pas le véritable négociant masslave de ce nom ; c'est simplement sous ce nom d'emprunt qu'un agent des services secrets masslaves intervenait dans l’affaire des orbes. {% xfact 'spinel_is_undercover' %}
 
-Toutefois, le compte de l'agent Emerald a fini par être supprimé... trop longue inactivité sans doute... dommage. {% xfact 'emerald_account_is_now_destroyed' %}
+Toutefois, ces derniers jours, le compte de l’agent Emerald a fini par être supprimé... les services lordaniens ont sans doute fini par faire le ménage... dommage. {% xfact 'emerald_account_is_now_destroyed' %}
 
 Pour compléter le tableau, vous avez identifié une autre atteinte aux biens de Loyd Georges : un certain internaute "Garnet" avait engagé un pickpocket pour voler le pauvre sir, mais devant le tapage médiatique entourant ces enchères, le pickpocket se serait dégonflé... {% xfact 'garnet_attempts_lg_pickpocketing' %}
 

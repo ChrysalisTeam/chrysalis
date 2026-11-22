@@ -28,7 +28,6 @@
 - votre collègue a tenté de cambrioler le manoir de Loyd Georges, mais sans succès {% xfact 'peridot_robs_lg_manor_fail' %}
 {% endif %}
 
-- le fameux homme d'affaires "{{character_properties.opal.official_name}}" a étrangement accès à un compte web de haute sécurité, mais "gelé", ayant pour identifiant "Emerald". {% xfact 'opal_accesses_emerald_agent_web_account' %}
 {% if standalone %}
 - "{{character_properties.amethyst.official_name}}" est en réalité un agent lordanien, le vrai porteur du nom est hospitalisé pour maladies vénériennes {% xfact 'amethyst_official_has_venereal_disease' %}
 - c'est un agent masslave de pseudonyme "Malachite" qui a récemment déclenché une émeute akarite en Dorie {% xfact 'malachite_triggers_akarith_riot_in_dorian_dukedom' %}

@@ -62,7 +62,7 @@ Luckily, the Lordanian secret services had only partially deactivated Emerald's 
 
 By cross-checking the information from this account with that of your informants, you discovered that the so-called bidder "{{character_properties.spinel.official_name}}" (known as "Spinel") was not the real Masslavian trader of that name; it was simply under this borrowed name that an agent of the Masslavian secret services was intervening in the orb affair. {% xfact 'spinel_is_undercover' %}
 
-However, agent Emerald's account was eventually deleted... too long a period of inactivity, no doubt... a pity. {% xfact 'emerald_account_is_now_destroyed' %}
+However, in the last few days, agent Emerald's account was eventually deleted... the Lordanian services must have finally tidied up... a pity. {% xfact 'emerald_account_is_now_destroyed' %}
 
 To complete the picture, you identified another attack on Loyd Georges' property: a certain web user "Garnet" had hired a pickpocket to rob the poor gentleman, but faced with the media hype surrounding these auctions, the pickpocket apparently chickened out... {% xfact 'garnet_attempts_lg_pickpocketing' %}
 

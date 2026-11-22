@@ -410,7 +410,7 @@ The Lordanian agent "Emerald" died on a mission, poisoned during a reception at 
 
 He was in fact a double agent, turned by the Akariths. Emerald had therefore been tasked, by the Akarith sect of the "Purifiers", with poisoning the wealthy Lordanian citizen "Opal", who had desecrated Akarith temples in his youth. But Opal noticed that something was wrong, swapped the glasses, and even took Emerald's wallet when the latter felt unwell.
 
-Since then, Opal has had access to Emerald's secure web account (but read-only). The Lordanian agent "Garnet" has taken over the fake identity formerly used by his teammate Emerald, and seeks to avenge his death, as he does not know that Emerald had betrayed his side.
+Since then, Opal had access to Emerald's secure web account (but read-only), until this account was deleted in the last few days. The Lordanian agent "Garnet" has taken over the fake identity formerly used by his teammate Emerald, and seeks to avenge his death, as he does not know that Emerald had betrayed his side.
 
 Clues spread among the protagonists make it possible to link Opal to Emerald's death, and to explain in hindsight Opal's action against this double agent.
 
