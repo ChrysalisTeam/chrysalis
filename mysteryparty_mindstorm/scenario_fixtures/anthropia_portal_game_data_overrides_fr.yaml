@@ -842,6 +842,7 @@ messaging:
                 Tâchez donc d'obtenir le soutien de groupes obérons dans les villes de **{{ 2_OU_3_VILLES_SABARITES }}**, afin qu'ils suivent à la trace les mouvements des infiltrés lorsque nous frappons à un endroit. Ou mieux encore, si vous pouvez engager une compagnie d'une **centaine de mercenaires**, nous lancerons un assaut synchronisé sans risque d'entourloupe). Nous autres du service d'intelligence sabarite n'avons hélas plus l'oreille des uns ni des autres, suite aux manigances des consuls, et à des opérations calamiteusement menées par le passé...
 
                 Nous attendons vos retours en vue d'un assaut.
+            gamemaster_hints: "Avant l'envoi, remplacer {{ NOMBRE }} : 17 si Obsidian a croisé l'analyse biophysique de la montre à gousset (liqueur de tilleul, environ 80 tavernes) et son scan mondial (13 quartiers, une soixantaine de tavernes), sinon 80 ou 60 selon le seul indice obtenu ; et {{ 2_OU_3_VILLES_SABARITES }} par les régions du scan autres que Salima (Alifir, Faeran, Cazoar). Pour 17 tavernes, 1 groupe de soutien suffit, sinon il en faut 2."
 
 
         -   id: warning_about_dorian_duke_blasphemy_for_masslavians

@@ -842,6 +842,7 @@ messaging:
                 So try to obtain the support of Oberon groups in the cities of **{{ 2_OR_3_SABARITH_CITIES }}**, so that they track the movements of the infiltrators when we strike somewhere. Or better still, if you can hire a company of **about a hundred mercenaries**, we will launch a synchronised assault with no risk of foul play. We of the Sabarith intelligence service unfortunately no longer have the ear of either of them, following the consuls' schemes, and some disastrously conducted operations in the past...
 
                 We await your feedback with a view to an assault.
+            gamemaster_hints: "Before sending, replace {{ NUMBER }}: 17 if Obsidian has cross-checked the biophysical analysis of the pocket watch (lime-blossom liqueur, about 80 taverns) with its World Scanner scan (13 districts, some sixty taverns), otherwise 80 or 60 depending on the only clue obtained; and {{ 2_OR_3_SABARITH_CITIES }} with the regions of the scan other than Salima (Alifir, Faeran, Cazoar). For 17 taverns, 1 support group is enough, otherwise 2 are needed."
 
 
         -   id: warning_about_dorian_duke_blasphemy_for_masslavians

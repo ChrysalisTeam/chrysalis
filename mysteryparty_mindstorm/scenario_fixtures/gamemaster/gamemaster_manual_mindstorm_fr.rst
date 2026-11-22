@@ -174,7 +174,7 @@ En revanche, les services secrets sabarites peuvent y faire une descente.
 Trouvailles remontées par la perquisition :
 
 - message codé {% symbol "MO NOUS COUVRE - LIVRAISON OK – 17 TAVERNES AUBONPICHET SOUMISES SUR 1238" for "akarith_sect_coded_message" %}, déchiffrable avec l'aide de Cynthia. {% xfact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
-- montre à gousset qui, une fois analysée biophysiquement via Anthropia, divulgue des métaux lordaniens, des pollens d'Akarie dans la drogue ainsi que des "vapeurs de liqueur de tilleul" dans la drogue (ce qui circonscrit à environ 80 tavernes AuBonPichet servant cette boisson); le scanner mondial, lui, donne une dizaine de zones dans les grandes villes akarites, zones contenant en tout environ 50 tavernes AuBonPichet. Avoir les deux indices permet de cerner précisément les 17 tavernes soumises.
+- montre à gousset qui, une fois analysée biophysiquement via Anthropia, divulgue des métaux lordaniens, des pollens d'Akarie dans la drogue ainsi que des "vapeurs de liqueur de tilleul" dans la drogue (ce qui circonscrit à environ 80 tavernes AuBonPichet servant cette boisson); le scanner mondial, lui, donne une treizaine de quartiers dans les grandes villes sabarites (régions de Salima/Belez, Alifir, Faeran et Cazoar), quartiers contenant en tout une soixantaine de tavernes AuBonPichet. Avoir les deux indices (les tavernes servant de la liqueur de tilleul, dans ces quartiers) permet de cerner précisément les 17 tavernes soumises ; le MJ communique ce résultat à Obsidian via le mail "Préparation d'assaut simultané" (voir son indice pour le MJ).
 
 Les consuls peuvent pousser une gueulante, en interne, suite à cette première investigation dans un tripot qu'ils cherchent à protéger.
 
