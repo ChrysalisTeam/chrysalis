@@ -40,7 +40,7 @@ So much so that at the very beginning of the 20th century, this legendary creatu
 
 But a young "Hero", the child of an Italian diplomat and passionate about ancient esotericism, is on the trail of this invocation. He discreetly spies on the museum, trying to find out who knows about this phenomenon, and who is friend or foe. Along the way, he befriends a student reporter, whom he partly lets in on the secret.
 
-On the day of the crime, at dawn, the Hero catches the museum's Curator performing magic rituals on the artefacts. The confrontation turns into a brawl. The Hero defends himself with the Gaulish gladius, wounding his opponent on the left hand. Exasperated, the Curator shoots him right in the belly; then leaves him lying near the artefacts, revolver in hand - to make it look like a suicide - before fleeing to show his face in public at a society event. {% xfact "le conservateur a été blessé à la main gauche par le héros" %} {% xfact "le conservateur a tiré au pistolet sur le héros" %}
+On the day of the crime, at dawn, the Hero catches the museum's Curator performing magic rituals on the artefacts. The confrontation turns into a brawl. The Hero defends himself with the ancient gladius, wounding his opponent on the left hand. Exasperated, the Curator shoots him right in the belly; then leaves him lying near the artefacts, revolver in hand - to make it look like a suicide - before fleeing to show his face in public at a society event. {% xfact "le conservateur a été blessé à la main gauche par le héros" %} {% xfact "le conservateur a tiré au pistolet sur le héros" %}
 
 When the library-museum opens at the usual time, nothing unusual is noticed. The guide-librarian who runs the place is merely upset by a huge "ink stain" near the artefacts.
 
