@@ -358,7 +358,7 @@ gamemaster_manual:
 
         Ses objectifs : identifier les participants des enchères et leurs véritables motivations, faire chanter puis mettre derrière les barreaux ceux qui enfreignent la loi sabarite, comprendre ce qui se trame autour des orbes, et déjouer tout complot visant Sabarim (en particulier les ingérences akarites sur son territoire). Contrairement aux agents étrangers, elle doit agir dans le cadre de la loi : toute action "spéciale" (cambriolage, assaut...) doit d'abord être approuvée par ses supérieurs, qui la refuseront si elle n'est pas solidement justifiée. En contrepartie, sa position lui donne accès à des informations officielles (registres, interrogatoires, coopération de la police locale), que le MJ distillera avec parcimonie.
 
-        Lorsque l'inspecteur Shark entre en scène (voir la `Chronologie synthétique du jeu`_), ses supérieurs peuvent adjoindre Obsidian à ce dernier, qui lui confiera surtout les enquêtes sur les parcours des enchérisseurs, tout en lui défendant de lui "marcher dans les pattes" (c'est la situation de départ de Chrysalis:Mindstorm). Diplomatiquement, Sabarim reste neutre dans le conflit midolien, mais Obsidian peut monnayer son silence ou son aide auprès des autres factions. Ce rôle solitaire est à réserver à un joueur aguerri ; à défaut, faire d'Obsidian un PNJ.
+        Lorsque l'inspecteur Shark entre en scène (voir `L'inspecteur Shark`_), ses supérieurs peuvent adjoindre Obsidian à ce dernier, qui lui confiera surtout les enquêtes sur les parcours des enchérisseurs, tout en lui défendant de lui "marcher dans les pattes" (c'est la situation de départ de Chrysalis:Mindstorm). Diplomatiquement, Sabarim reste neutre dans le conflit midolien, mais Obsidian peut monnayer son silence ou son aide auprès des autres factions. Ce rôle solitaire est à réserver à un joueur aguerri ; à défaut, faire d'Obsidian un PNJ.
 
 
         Super-factions racoleuses
@@ -455,6 +455,18 @@ gamemaster_manual:
         Il faut évidemment faire preuve de finesse. Loyd Georges est sensible aux commentaires positifs sur ses "exploits" archéologiques, mais pas aux flatteries intéressées, voire obséquieuses que certains tenteront. De même, si - comme tout un chacun - il n'aime pas être humilié, il n'est pas pour autant blessé par les commentaires négatifs, tant qu'ils restent francs et constructifs.
 
         Mais bien plus que la rhétorique, c'est l'action qui permettra aux joueurs d'obtenir les faveurs de Loyd Georges. Celui-ci a en effet ses propres *quêtes annexes*, la principale étant d'obtenir une reconnaissance du monde scientifique pour ses contributions archéologiques. Dès lors, toute action visant à influer sur l'Académie d'Alifir, pour qu'elle accorde un titre honorifique audit sire, sera susceptible d'être récompensée par Loyd Georges - et donc d'offrir un bon coup de pouce dans la quête des orbes.
+
+
+        L'inspecteur Shark
+        -------------------------
+
+        Ce vieux limier de la police sabarite, tout juste sorti de sa retraite, entre en scène au cours de la partie (voir la `Chronologie synthétique du jeu`_) pour enquêter sur les spoliations dont Loyd Georges est victime. Il connaît bien ce dernier, dont il accepte régulièrement les pots-de-vin en échange d'une certaine indulgence envers ses recherches archéologiques.
+
+        C'est par défaut un PNJ, grâce auquel le maître du jeu gère les interactions "joueur contre joueur" et les délits commis sur le sol sabarite : lorsqu'un joueur est cambriolé, escroqué ou agressé par un autre, ou lorsqu'un cambriolage fait la une des médias, Shark ouvre une enquête, interroge les suspects (par email ou par téléphone), et peut les menacer d'arrestation ou de confiscation de leurs biens. Au MJ de doser son efficacité selon les traces laissées par les fautifs, afin que les mauvaises actions aient des conséquences sans pour autant bloquer la partie (sachant que Shark reste corruptible).
+
+        Son compte Anthropia peut être piraté, si le MJ en fait fuiter l'indice : la réponse à sa question secrète ("Mon fidèle compagnon") est le modèle de son revolver, "S&W_M66".
+
+        Enfin, les judicateurs akarites (via l'archevêque Baazel) peuvent chercher à le séduire par la perspective de la transfiliation ; c'est ainsi qu'il deviendra leur instrument dans Chrysalis:Mindstorm (voir sa feuille de personnage). Ce rôle n'est à confier à un joueur qu'exceptionnellement.
 
 
         .. raw:: pdf
