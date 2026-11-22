@@ -81,14 +81,6 @@ Briefings en mode roleplay :
 - Cuisinier Robb Barrow : vous avez toute votre tête, mais vos sens sont en plein déclin avec l'âge : myopie, surdité, perte de l'odorat...
 
 
-- Lydia : vous n'avez jamais revendiqué haut et fort votre nationalité lordanienne pour que ça ne vous nuise pas électoralement, même si elle est connue de nombreuses personnes, et là-bas en Lordanie vous êtes quasiment inconnue du public ; vous savez que Sabarim possède un aérodrome militaire géant à Alifir, que le monde entier vous envie, mais uniquement des forces aériennes de petit calibre
-
-- Opal : vous simulez l'affaiblissement, le boitement, crescendo au fil de la soirée (selon instructions du MJ)
-
-- Cynthia : c'est la "Drogue Zombifiante" qui est au coeur du trafic lordano-sabarite que vous avez découvert ; vos collègues vous ont donné un déchiffreur de cryptorunes akarites modernes, trouvé durant leurs investigations ; vous avez sur vous un dispositif (ex. smartphone, ou demander à l'obéron) capable d'enregistrer une interview, qui pourra ensuite être diffusée à la radio ; vous avez évidemment sur vous les clefs de votre appartement
-
-- Obsidian : (déjà dit) vous venez de gagner accès à la compétence "scanner mondial" grâce à vos services secrets
-
 
 RELANCES DE GAMEPLAYS possibles pendant la 2e partie du jeu (signaler au MJ si des joueurs semblent durablement désoeuvrés ou bloqués) :
 

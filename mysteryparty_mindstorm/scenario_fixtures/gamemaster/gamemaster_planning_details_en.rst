@@ -81,14 +81,6 @@ Briefings in roleplay mode:
 - Cook Robb Barrow: you have all your wits about you, but your senses are in steep decline with age: short-sightedness, deafness, loss of smell...
 
 
-- Lydia: you have never loudly claimed your Lordanian nationality so that it does not hurt you electorally, even though many people know of it, and over there in Lordania you are virtually unknown to the public; you know that Sabarim has a giant military aerodrome in Alifir, the envy of the whole world, but only small-calibre air forces
-
-- Opal: you feign weakness and a limp, more and more markedly over the course of the evening (according to the GM's instructions)
-
-- Cynthia: it is the "Zombifying Drug" that is at the heart of the Lordanian-Sabarith trafficking you discovered; your colleagues gave you a decoder of modern Akarith cryptorunes, found during their investigations; you carry a device (e.g. smartphone, or ask the Oberon) capable of recording an interview, which can then be broadcast on the radio; you obviously carry the keys to your flat
-
-- Obsidian: (already said) you have just gained access to the "World Scanner" ability thanks to your secret services
-
 
 Possible GAMEPLAY BOOSTS during the 2nd part of the game (report to the GM if players seem idle or stuck for a long time):
 

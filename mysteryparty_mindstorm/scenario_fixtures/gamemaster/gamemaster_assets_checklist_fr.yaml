@@ -11,6 +11,7 @@
     - "projecteur 3 couleurs avec interrupteurs à distance"
     - "générateur de fumée bien rempli"
     - "interrupteurs à distance réglés, et plombs électriques identifiés, pour tout allumer/éteindre sur demande"
+    - "enregistreur portatif à prêter à Cynthia, si elle n'enregistre pas ses interviews avec son propre smartphone"
 
 -
   - "Indices initialement détenus par les joueurs"  # BEWARE KEEP IN SYNC WITH "email_attachments" ZODB overrides

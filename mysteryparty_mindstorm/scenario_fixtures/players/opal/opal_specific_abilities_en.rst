@@ -6,6 +6,8 @@
 
 You turn up at the evening with 150 kashes in banknotes (you never know...).
 
+The muscle damage caused by your poisoned medication makes you limp, and you walk with a cane. Feign weakness and a limp, more and more markedly over the course of the evening (according to the Game Master's instructions).
+
 
 <{ title_special_abilities }/>
 ======================================

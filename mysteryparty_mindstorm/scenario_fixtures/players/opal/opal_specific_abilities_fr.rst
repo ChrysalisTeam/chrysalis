@@ -6,6 +6,8 @@
 
 Vous vous présentez à la soirée avec 150 kashes en billets (sait-on jamais...).
 
+Les dégâts musculaires causés par vos médicaments empoisonnés vous font boiter, et vous vous déplacez avec une canne. Simulez un affaiblissement et un boitement de plus en plus marqués au fil de la soirée (selon les indications du maître de jeu).
+
 
 <{ title_special_abilities }/>
 ======================================
