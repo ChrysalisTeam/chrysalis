@@ -4023,7 +4023,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - Location heading (Title Case); lowercase in running text ("the Yodic temple cavern").
    * - cérémonie de crémation / obsèques
      - cremation ceremony / funeral
-     - Sentience scene 3.
+     - Sentience scene 4.
    * - champignons rosés / champignons aquatiques bleus
      - pinkish mushrooms / blue water mushrooms
      - Flora.
@@ -4068,7 +4068,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - Equipment.
    * - Compagnie des Rocheuses
      - the Rockies Company
-     - Sentience mining corporation.
+     - Sentience mining corporation, the burgomaster's choice and the rival of the Société Minéralys.
    * - compétences / Compétences communes
      - skills / Common abilities
      - Sheet section (yaml key "abilities"); Sentience "Compétences communes" are powers.
@@ -4296,7 +4296,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - Singular artefact (= the orb).
    * - Le sorceleur est en route vers le village / … est acclamé par les villageois à son retour / … fait son discours et sème la discorde / Les villageois interrompent les obsèques de l'alchimiste / La soirée amène des coups de théâtre
      - The witcher is on his way to the village / … is cheered by the villagers on his return / … makes his speech and sows discord / The villagers interrupt the alchemist's funeral / The evening brings dramatic twists
-     - Scene headings 1-4.
+     - Scene headings 1-5.
    * - leviers / vannes / pistons en bois / grand levier isolé
      - levers / sluice gates / wooden plungers / large lone lever
      - Water puzzle.
@@ -4569,7 +4569,7 @@ Chrysalis: Descent (The Temple of Nazur) and Chrysalis: Sentience
      - "tortoise", not "turtle". A named NPC: always capitalised, "the Ancestral Tortoise", also in running text; the short form "la tortue" = "the Tortoise" (capitalised), as it designates the same character.
    * - tour / chaumière de l'alchimiste
      - the alchemist's tower / cottage
-     - Same dwelling, two words.
+     - Same dwelling; the Sentience scenario now only says "tour" / "tower".
    * - traces de vandalisme
      - traces of vandalism
      - Teaser puzzle.
