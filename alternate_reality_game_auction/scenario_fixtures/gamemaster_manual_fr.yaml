@@ -247,7 +247,7 @@ gamemaster_manual:
         Les Trois Orbes Divins et la tension midolienne
         ----------------------------------------------------
 
-        Les joueurs auront à remonter la piste des fameuses "Trois Orbes Divins" (oui, c'est masculin...), des gemmes géantes cibles de toutes les passions. Il leur faudra alors parcourir un chemin semé d'embûches et d'énigmes pour les localiser au plus vite, puis se servir de ces informations à bon escient selon le camp qu'ils auront, en définitive, choisi de servir.
+        Les joueurs auront à remonter la piste des fameux "Trois Orbes Divins" (oui, c'est masculin...), des gemmes géantes cibles de toutes les passions. Il leur faudra alors parcourir un chemin semé d'embûches et d'énigmes pour les localiser au plus vite, puis se servir de ces informations à bon escient selon le camp qu'ils auront, en définitive, choisi de servir.
 
         En arrière-plan, le conflit entre les états midoliens montera inexorablement en puissance, au fil de cette progression vers les Orbes. Des quêtes "diplomatiques" permettront aux joueurs d'influer sur la situation géo-politico-religieuse, que ce soit en ambassadeurs pacificateurs ou - au contraire - en semeurs de troubles. De petites quêtes annexes, enfin, permettront de gagner de l'argent, ou de s'attirer des soutiens supplémentaires.
 
@@ -532,7 +532,7 @@ gamemaster_manual:
             Il n'est pas possible, pour l'heure, de modifier la nature (brute ou taillée), ou le poids des gemmes (ex. en les retaillant).
 
         - Les petites gemmes sont principalement destinées à payer, au meilleur prix, les mercenaires pour faire de l'espionnage et mener des opérations spéciales.
-        - Les gemmes d'exception, et autres gemmes chères à l'unité, sont destinées à débloquer quelques compétences pour lesquelles les prestataires sont très exigeants sur la qualité : djinns de Sedes Sancta (à venir), guides et indics présents sur les lieux sensibles (jungle, zone polaire...).
+        - Les gemmes d'exception, et autres gemmes chères à l'unité, sont destinées à débloquer quelques compétences pour lesquelles les prestataires sont très exigeants sur la qualité : djinns de Sedes Sancta, guides et indics présents sur les lieux sensibles (jungle, zone polaire...).
         - Certains contacts, réellement commerciaux, exigent des gemmes brutes (non taillées), avec une grosse plus-value pour le joueur qui sert ainsi d'intermédiaire.
         - Quelques gemmes sont "piégées", en ce qu'elles ne sont pas assez exceptionnelles pour intéresser les meilleures sources d'information, mais pas assez communes pour payer au plus juste les mercenaires et autres compétences de base. Le mieux sera donc de les revendre au marché noir, ce qui ne sera rentable que si elles ont été sous-évaluées durant les enchères.
 
@@ -650,7 +650,7 @@ gamemaster_manual:
 
         La précision de cet outil n'est pas chirurgicale (de quelques dizaines de mètres à quelques kilomètres près, selon la distance vis-à-vis du scanner), mais suffisante pour orienter les recherches vers d'anciens sanctuaires yodiques, ou bien la zone de la banque de Salima qui contient le trésor de Loyd Georges.
 
-        Par contre, à cause de leur nature très particulière, les orbes ne sont pas analysables de cette façon (sans cela, en trouver une reviendrait à les trouver toutes).
+        Par contre, à cause de leur nature très particulière, les orbes ne sont pas analysables de cette façon (sans cela, en trouver un reviendrait à les trouver tous).
 
         De même, les jeux de scan automatiques ne sont pas encore paramétrés : le MJ rédige lui-même chaque résultat, en s'aidant des modèles d'emails prévus pour l'amphore et pour le coffret runique ("world_scan_amphora", "world_scan_runic_chest"). Résultats attendus pour les autres demandes clefs :
 
@@ -1011,7 +1011,7 @@ gamemaster_manual:
 
         Les joueurs peuvent se lancer sur la trace de ces oeuvres, principalement pour acquérir des richesses ou de la renommée :
 
-        - un tableau peut être récupéré via opération coup de poing chez un collectionneur de Faeran (sur indices des oberons)
+        - un tableau peut être récupéré via opération coup de poing chez un collectionneur de Faeran (sur indices des Oberons, la compagnie de mercenaires)
         - un tableau peut être retrouvé en coinçant le conservateur du musée, louche, qui s'est retiré sur Cazoar après son licenciement (ex. faire un interrogatoire sous élixir de vérité, où il ne peut répondre que "oui" ou "non")
         - un tableau enfin reparaît bien plus tard au marché noir, discrètement, et les joueurs doivent sauter sur l'occasion
 
@@ -1223,7 +1223,7 @@ gamemaster_manual:
 
         L'alignement politique des différents pays dépendra fortement de la récupération des orbes par les deux grands adversaires (Akaris et le Paladium), mais les joueurs pourront aussi influer plus directement dessus, grâce à leurs rôles d'informateur et d'ambassadeur.
 
-        Dans chaque faction initiale, les deux joueurs se verront en effet affecter des missions de négociation différentes, qui les amèneront à rentrer en contact à la fois avec d'autres joueurs (eux aussi mandatés par leurs factions), et avec des PNJs. Autant que possible, ces réunions doivent se jouer en grandeur-nature, voire en costume.
+        Dans chaque faction initiale, les joueurs (s'ils sont deux) se verront en effet affecter des missions de négociation différentes, qui les amèneront à rentrer en contact à la fois avec d'autres joueurs (eux aussi mandatés par leurs factions), et avec des PNJs. Autant que possible, ces réunions doivent se jouer en grandeur-nature, voire en costume.
 
         Pour éviter de trop facilement divulguer qui est avec qui, deux joueurs de la même faction ne devront de préférence pas intervenir sur la même mission diplomatique.
 
@@ -1627,7 +1627,7 @@ gamemaster_manual:
 
           <<ceci est un message automatique, merci de ne pas y répondre>>
 
-          Cher monsieur {{ NOM_FICTIF }},
+          Bonjour {{ NOM_FICTIF }},
 
           J'ai le plaisir et l’honneur de vous annoncer présentement que vous avez été sélectionné pour participer aux prestigieuses ventes aux enchères "Trésors Perdus de Midolie", organisées par Sir Loyd Georges en sa ville de Salima.
 

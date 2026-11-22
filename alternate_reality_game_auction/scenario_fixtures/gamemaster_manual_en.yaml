@@ -247,7 +247,7 @@ gamemaster_manual:
         The Three Divine Orbs and the Midolian tension
         ----------------------------------------------------
 
-        The players will have to follow the trail of the famous "Three Divine Orbs" (yes, it is masculine in French...), giant gems that are the target of all passions. They will then have to travel a path strewn with pitfalls and riddles to locate them as fast as possible, then make wise use of this information according to the camp they will, in the end, have chosen to serve.
+        The players will have to follow the trail of the famous "Three Divine Orbs", giant gems that are the target of all passions. They will then have to travel a path strewn with pitfalls and riddles to locate them as fast as possible, then make wise use of this information according to the camp they will, in the end, have chosen to serve.
 
         In the background, the conflict between the Midolian states will inexorably escalate, as the progress towards the orbs goes on. "Diplomatic" quests will allow the players to influence the geo-politico-religious situation, either as peacemaking ambassadors or - on the contrary - as troublemakers. Lastly, small side quests will make it possible to earn money, or to win additional support.
 
@@ -532,7 +532,7 @@ gamemaster_manual:
             For the time being, it is not possible to modify the nature (raw or cut), or the weight of the gems (e.g. by recutting them).
 
         - The small gems are mainly meant to pay mercenaries, at the best price, to do espionage and carry out special operations.
-        - The exceptional gems, and other gems that are expensive per unit, are meant to unlock a few abilities whose providers are very demanding about quality: Djinns of Sedes Sancta (coming soon), guides and informants present in sensitive places (jungle, polar zone...).
+        - The exceptional gems, and other gems that are expensive per unit, are meant to unlock a few abilities whose providers are very demanding about quality: Djinns of Sedes Sancta, guides and informants present in sensitive places (jungle, polar zone...).
         - Some genuinely commercial contacts demand raw (uncut) gems, with a large profit for the player who thus acts as an intermediary.
         - A few gems are "traps", in that they are not exceptional enough to interest the best sources of information, but not common enough to pay exactly for mercenaries and other basic abilities. The best thing will thus be to resell them on the black market, which will only be profitable if they were undervalued during the auctions.
 
@@ -1011,7 +1011,7 @@ gamemaster_manual:
 
         The players can set off on the trail of these works, mainly to acquire riches or fame:
 
-        - one painting can be recovered via a strike operation at a collector's in Faeran (based on clues from the Oberons)
+        - one painting can be recovered via a strike operation at a collector's in Faeran (based on clues from the Oberons, the mercenary company)
         - one painting can be found by cornering the museum's shady curator, who retired to Cazoar after his dismissal (e.g. carrying out an interrogation under truth elixir, where he can only answer "yes" or "no")
         - finally, one painting discreetly reappears much later on the black market, and the players must jump at the opportunity
 
@@ -1223,7 +1223,7 @@ gamemaster_manual:
 
         The political alignment of the various countries will strongly depend on the recovery of the orbs by the two great adversaries (Akaris and the Paladium), but the players will also be able to influence it more directly, thanks to their roles as informant and ambassador.
 
-        In each initial faction, the two players will indeed be assigned different negotiation missions, which will lead them to get in touch both with other players (also mandated by their factions) and with NPCs. As far as possible, these meetings should be played LARP-style, even in costume.
+        In each initial faction, the players (if there are two of them) will indeed be assigned different negotiation missions, which will lead them to get in touch both with other players (also mandated by their factions) and with NPCs. As far as possible, these meetings should be played LARP-style, even in costume.
 
         To avoid revealing too easily who is with whom, two players of the same faction should preferably not take part in the same diplomatic mission.
 
@@ -1627,7 +1627,7 @@ gamemaster_manual:
 
           <<this is an automatic message, please do not reply>>
 
-          Dear Mr {{ FICTIONAL_NAME }},
+          Dear {{ FICTIONAL_NAME }},
 
           I have the pleasure and the honour to hereby inform you that you have been selected to take part in the prestigious "Lost Treasures of Midolia" auctions, organised by Sir Loyd Georges in his city of Salima.
 
