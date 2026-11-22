@@ -1381,7 +1381,7 @@ The automatons, strangely, ignore the sound of this bell.
 
 If someone presses the bell for the first time, the GM must trigger the unsettling soundtrack of the **{% symbol "spectral frenzy" for "phantom_frenzy_name" %}**. The phantoms then switch to their disembodied form, and rush towards the sound of the bell. Once near it, they wander left and right, not far off, distraught, until the end of the soundtrack, then go back to what they were doing before. {% xfact "table_bell_triggers_spectral_frenzy" %}
 
-Afterwards, the bell is supposed to be **temporarily drained** of its magic; the avatars and phantoms can sense this and tell the players if they press the bell again. *Put black tape on it to show this.* {% xfact "table_bell_is_only_usable_once" %}
+Afterwards, the bell is supposed to be **temporarily drained** of its magic; the avatars and phantoms can sense this and tell the players if they press the bell again. *Put black tape on it to show this.* {% xfact "table_bell_is_only_usable_once" %} It **recharges by itself in about an hour** (or at once if the Ankou recharges it): the black tape is then removed, and a new ring of the bell triggers the {% symbol "spectral frenzy" for "phantom_frenzy_name" %} again. This is what allows the Druid, who has stolen it in the meantime, to use it during the final battle.
 
 *Mini-spoiler: It is in reality just a recall signal forgotten by the Ankou during a previous visit, but only the Ankou knows this.* {% xfact "table_bell_belongs_to_ankou" %}
 

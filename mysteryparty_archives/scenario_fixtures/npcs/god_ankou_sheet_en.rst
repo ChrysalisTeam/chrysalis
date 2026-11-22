@@ -18,7 +18,7 @@ Specific information and instructions
 
 During your visit, you ask the players whether they might have seen a **metal table bell** in the library.
 They should know what you are talking about.
-You explain to them that during your last visit you forgot this accessory, the **"{% symbol "Spectral Bell" for "table_bell_name" %}"**, which allows you to call stray phantoms to you, in disembodied form (it can only work once before having to be recharged by you). {% xfact "table_bell_belongs_to_ankou" %}
+You explain to them that during your last visit you forgot this accessory, the **"{% symbol "Spectral Bell" for "table_bell_name" %}"**, which allows you to call stray phantoms to you, in disembodied form (it can only work once before having to be recharged by you; failing that, it recharges by itself in about an hour). {% xfact "table_bell_belongs_to_ankou" %}
 *Normally, the bell should have become impossible to find at this point in the game, which you then complain about.*
 In any case, you ask the players to leave the bell in plain view (if they find it), on the spot, as you will soon have a use for it here, if - as you hope - the players break the library curse (so there is no point in burdening yourself with this object for the rest of your business today).
 

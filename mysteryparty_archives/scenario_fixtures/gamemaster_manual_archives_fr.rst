@@ -1381,7 +1381,7 @@ Les automates ignorent, étrangement, le son de cette sonnette.
 
 Si quelqu'un appuie sur la clochette pour la première fois, le MJ doit déclencher la bande-son angoissante de la **{% symbol "frénésie spectrale" for "phantom_frenzy_name" %}**. Les fantômes se mettent alors sous forme non-incarnée, et se ruent vers le son de clochette. Une fois près d'elle, ils errent de gauche et de droite, non loin, éperdus, jusqu'à la fin de la bande-son, puis reviennent à ce qu'ils faisaient avant. {% xfact "table_bell_triggers_spectral_frenzy" %}
 
-Par la suite, la clochette est censée être **temporairement déchargée** de sa magie, les avatars et fantômes peuvent le sentir et le disent aux joueurs s'ils appuient encore sur la clochette. *Mettre un scotch noir dessus pour matérialiser cela.* {% xfact "table_bell_is_only_usable_once" %}
+Par la suite, la clochette est censée être **temporairement déchargée** de sa magie, les avatars et fantômes peuvent le sentir et le disent aux joueurs s'ils appuient encore sur la clochette. *Mettre un scotch noir dessus pour matérialiser cela.* {% xfact "table_bell_is_only_usable_once" %} Elle se **recharge d'elle-même en une heure environ** (ou aussitôt si l'Ankou la recharge) : on retire alors le scotch noir, et un nouveau coup de clochette redéclenche la {% symbol "frénésie spectrale" for "phantom_frenzy_name" %}. C'est ce qui permet au druide, qui l'a dérobée entre-temps, de s'en servir lors de la bataille finale.
 
 *Mini-spoiler : Il s'agit en réalité juste d'un signal de rappel oublié par l'Ankou lors d'un précédent passage, mais seul l'Ankou le sait.* {% xfact "table_bell_belongs_to_ankou" %}
 

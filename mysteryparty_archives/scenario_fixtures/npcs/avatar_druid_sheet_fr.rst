@@ -56,7 +56,7 @@ Informations et instructions spécifiques
 
 {# NOPE NOT NOW Demander à heures fixes des boissons à l'automate de service. #}
 
-Vous vous posez des questions sur la clochette métallique laissée en évidence, qui, lorsque vous l'essayez, sonne mais ne déclenche rien (car vous ne voyez pas les spectres s'agitant à ce moment-là) ; ce n'est pas, en tout cas, une trouvaille de l'inventeur et de ses automates.
+Vous vous posez des questions sur la clochette métallique laissée en évidence, qui, lorsque vous l'essayez, sonne mais ne déclenche rien de visible pour vous (car vous ne voyez pas les spectres s'agitant à ce moment-là) ; ce n'est pas, en tout cas, une trouvaille de l'inventeur et de ses automates. Si elle a déjà sonné (scotch noir dessus), elle est temporairement déchargée, mais se recharge d'elle-même en une heure environ (retirez alors le scotch noir).
 En discutant avec les joueurs, ils finiront bien par vous expliquer ce qui se passe lorsqu'elle est utilisée.
 Une fois que vous savez qu'il s'agit d'un signal de rappel pour les fantômes, **vous la volez discrètement**, et vous la cachez dans votre besace ; et ce au plus tard vers H+30mn, avant le passage de l'Ankou, même si personne ne vous a encore expliqué son usage. Ni avatars ni joueurs ne doivent savoir que c'est vous qui l'avez prise, elle vous servira en principe d'arme lors de la bataille finale. {% xfact "druid_must_steal_table_bell_when_usage_understood" %} {% xfact "druid_finally_uses_table_bell_as_weapon" %}
 
