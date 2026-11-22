@@ -9,6 +9,14 @@ Each character has 100 hit points.
 Initiative by a D6 roll if needed.
 Reactions to an attack: dodge, block, counter-attack (dangerous)
 
+Very simple game system:
+
+- Any uncertain action (attack, dodge, lock-picking, ballista shot, spell, far sight...) is resolved by 1 D6 roll, which succeeds if it reaches a difficulty set by the GM depending on the situation (from 2 for an easy action to 6 for an almost impossible one); a "1" (critical failure) is only really dangerous on risky actions.
+- A successful attack deals 10 to 30 points of damage depending on the weapon (10: fist, dagger; 20: axe, sabre, arrow, crossbow bolt; 30: CONRAD's cleaver, ballista bolt, spell of GAMMA's gauntlet); a successful dodge or block cancels the attack; a successful counter-attack cancels the attack and hits the attacker, but a failed counter-attack inflicts double damage on the one who tried it.
+- Typical opponents: knight, archer, bard or merchant 40 HP; two-handed swordsman or winged hussar 60 HP; blind-drunk dwarf 10 HP; the Diakon (a priest who is deadly against the undead) 60 HP, and his banishing prayers deal 30 points to every carcass that comes near him.
+- The abominations have 150 HP (CONRAD 200), and heal by feeding.
+- At 0 HP, a living being is out of the fight; a carcass collapses into a heap of lifeless bones, where it fell; Foulques (or any necromancer bound to the tree of life) can wake it again a few hours later at the earliest, with its 100 HP, but with no memory of the fight.
+
 
 The characters
 =====================

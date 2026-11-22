@@ -9,6 +9,14 @@ Les personnages ont 100 points de vie chacun.
 Initiative par jet de Dé6 si besoin.
 Réactions à une attaque : esquiver, bloquer, contre-attaquer (dangereux)
 
+Système de jeu très simple :
+
+- Toute action incertaine (attaque, esquive, crochetage, tir de baliste, sortilège, vision lointaine...) se résout par 1 Dé6, réussi s'il atteint une difficulté fixée par le MJ suivant la situation (de 2 pour une action facile à 6 pour une action quasi impossible) ; un "1" (échec critique) n'est vraiment dangereux que sur des actions risquées.
+- Une attaque réussie inflige 10 à 30 points de dégâts selon l'arme (10 : poing, dague ; 20 : hache, sabre, flèche, carreau d'arbalète ; 30 : hachoir de CONRAD, trait de baliste, sortilège du gantelet de GAMMA) ; une esquive ou un blocage réussi annule l'attaque ; une contre-attaque réussie annule l'attaque et touche l'agresseur, mais une contre-attaque ratée fait subir le double des dégâts.
+- Adversaires typiques : chevalier, archer, barde ou marchand 40 PV ; porteur d'épée à deux mains ou hussard ailé 60 PV ; nain ivre mort 10 PV ; le diacre (un prêtre redoutable contre les morts-vivants) 60 PV, et ses prières de bannissement infligent 30 points à chaque carcasse qui l'approche.
+- Les abominations ont 150 PV (CONRAD 200), et cicatrisent en se nourrissant.
+- À 0 PV, un vivant est hors de combat ; une carcasse s'effondre en un tas d'os inertes, là où elle est tombée ; FOULQUES (ou tout nécromancien relié à l'arbre de vie) peut la réveiller au plus tôt quelques heures plus tard, avec ses 100 PV, mais sans souvenir du combat.
+
 
 Les personnages
 =====================
