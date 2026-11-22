@@ -22,7 +22,7 @@ Le lendemain, jour de la soirée spéciale, vous apprenez que Loyd Georges est h
 
 Vous ne connaissez pas le Tabellion de Salima, ni les différents invités (enchérisseurs ou non) présents.
 
-Si l'on vous demande la recette d'un des 2 plats de la veille, vous allez la chercher (auprès du maître de jeu). Si l'on vous demande d'aller chercher tous les livres de recette du manoir, même chose.
+Si l'on vous demande la recette d'un des 2 plats de la veille, vous allez la chercher (auprès du maître de jeu). Si l'on vous demande où sont tous les livres de recette du manoir, vous répondez sans problème que vous avez rangé ces recettes "encombrantes et inutiles" **dans un coin de la bibliothèque**, et vous laissez les curieux aller les y chercher (vous ne savez pas ce qui a pu être glissé dessous).
 
 **Si l'on vous prouve que vous avez mis par erreur du laurier rose dans un plat, au lieu du laurier sauce, vous êtes atterré, désespéré, et demandez à ce qu'on vous emprisonne.**
 

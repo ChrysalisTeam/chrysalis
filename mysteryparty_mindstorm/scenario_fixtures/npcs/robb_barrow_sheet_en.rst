@@ -22,7 +22,7 @@ The next day, the day of the special evening, you learn that Loyd Georges has be
 
 You do not know the Tabellion of Salima, nor the various guests (bidders or not) present.
 
-If you are asked for the recipe of one of the 2 dishes of the previous day, you go and fetch it (from the Game Master). If you are asked to go and fetch all the manor's recipe books, same thing.
+If you are asked for the recipe of one of the 2 dishes of the previous day, you go and fetch it (from the Game Master). If you are asked where all the manor's recipe books are, you readily answer that you put these "cumbersome and useless" recipes away **in a corner of the library**, and you let the curious go and fetch them there (you do not know what may have been slipped under them).
 
 **If someone proves to you that you mistakenly put oleander in a dish, instead of bay leaf, you are appalled, desperate, and ask to be imprisoned.**
 

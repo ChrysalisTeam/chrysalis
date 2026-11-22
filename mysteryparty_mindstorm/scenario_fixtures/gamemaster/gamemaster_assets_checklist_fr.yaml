@@ -162,6 +162,14 @@
     - "Perquisition du CHENIL : Talon gris de chaussure \"GoodShoe\" {% xitem 'broken_shoe_heel' is provided %}"
 
 -
+  - "Quête du Panorbium Fortuna (voir le manuel du MJ)"
+  -
+    - "Énigme littéraire \"sous les recettes de cuisine\" (\"Indice visible aux jumelles\" du document d'indices), imprimée en grand et fixée sur le toit de la cabane de jardin, lisible aux jumelles depuis la fenêtre du bureau de LG (salle d'interrogatoire)"
+    - "Sac en toile marron avec la note d'Emilos Loakim, sur une étagère de la BIBLIOTHÈQUE (voir aussi les perquisitions d'Obsidian)"
+    - "Pile des livres de recettes du manoir, dans un coin de la BIBLIOTHÈQUE (rangés là par le cuisinier Robb Barrow)"
+    - "Livret du Panorbium Fortuna (extrait du document d'indices, avec la prophécie du Mont Shina), caché sous ces livres de recettes"
+
+-
   - "Boîte aux lettres du manoir"
   -
     - "LOT 1 (initial) : Lettre de délation de Gégé le Repenti, destinée à Loyd Georges"  # pourrait compromettre un des 2 cambrioleurs du manoir
