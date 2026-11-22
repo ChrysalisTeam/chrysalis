@@ -65,7 +65,7 @@ Reporter: recounts his meeting with Andrea, and the troubling clues of the morni
 
 Curator: claims to have spent the morning at a public ceremony and to understand nothing of all this fuss over a simple act of vandalism. Is visibly irritated, embarrassed, if the Druid's ghost distracts him by speaking to him.
 
-Treasure: discovery of the museum's artefacts, and of the {% symbol "regeneration potion" for "healing_potion" %} on the floor (used by Andrea).
+Treasure: discovery of the museum's artefacts, of the paper with the symbols of Gaulish mythology (laid near the model), and of the {% symbol "regeneration potion" for "healing_potion" %} on the floor (used by Andrea).
 
 Druid's intervention:
 
@@ -118,7 +118,7 @@ INTERLUDE: Professor Gustave Bloch's History Lesson
 
 The players are gathered in the largest room.
 
-The professor arrives, eccentric and agitated, and recaps the history of the conquest of Gaul and the battle of Uxellodunum, then sceptically touches on a few legends surrounding it.
+The professor arrives, eccentric and agitated, and recaps the history of the conquest of Gaul and the battle of Uxellodunum, then sceptically touches on a few legends surrounding it. At the end of his lesson, he gives each group a copy of the paper with the symbols of Gaulish mythology.
 
 
 Third Simultaneous Interview
