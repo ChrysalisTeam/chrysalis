@@ -1099,7 +1099,7 @@ Les avatars refusent initialement que quiconque continue le rituel, commencé pa
 
 Le pentacle et les objets du rituel sont toujours en place, le traître n’ayant pas osé toucher à cette magie sacrée qu’il ne connait pas, et ne pouvant de plus, par nature, transporter des romans. {% xfact "avatars_cannot_carry_novels" %}
 
-Après tant de siècles, ce pentacle canonique s'est éteint : il faut le réactiver avant le rituel, ce qui demande **au moins 4 initiés** (voir la fiche de l'invocateur). Les 3 diacres doivent donc s'adjoindre l'anthropologue, ritualiste de {% symbol "Bahamoot" for "god_of_diakons" %} et seul autre initié parmi les joueurs ; la fiche de l'invocateur leur indique qu'un des explorateurs a suivi cette initiation. {% xfact "penatacle_activation_requires_4_ritualists" %}
+Après tant de siècles, ce pentacle canonique s'est éteint : il faut le réactiver avant le rituel (si ce n'est déjà fait, par exemple pour la Stase de la Bête), ce qui demande **au moins 4 initiés** (voir la fiche de l'invocateur). Les 3 diacres doivent donc s'adjoindre l'anthropologue, ritualiste de {% symbol "Bahamoot" for "god_of_diakons" %} et seul autre initié parmi les joueurs ; la fiche de l'invocateur leur indique qu'un des explorateurs a suivi cette initiation. {% xfact "penatacle_activation_requires_4_ritualists" %}
 
 C'est uniquement une fois le plan de bataille finale bien établi, ou le méchant déjà supprimé par un quelconque moyen, que les avatars acceptent de retourner chez eux et de laisser le rituel de l'exorciste les renvoyer définitivement dans leurs mondes.  {% xfact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
