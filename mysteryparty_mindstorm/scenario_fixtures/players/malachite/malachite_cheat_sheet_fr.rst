@@ -26,7 +26,7 @@
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - vous avez démasqué "{{character_properties.garnet.full_official_title}}", et "{{character_properties.amethyst.full_official_title}}" comme étant les agents secrets lordaniens Garnet et Amethyst {% xfact 'amethyst_is_undercover' %} {% xfact 'garnet_is_undercover' %}
 
-- il semble qu'un agent lordanien "Emerald", perverti par les Akarites, se soit auto-empoisonné il y a peu, dans une ambassade dorienne, en tentant d'assassiner un riche profanateur lordanien ; les services lordaniens n'ont visiblement rien compris à l'affaire, et cherchent à venger cet "Emerald" {% xfact 'opal_killed_emerald_agent' %}
+- il semble qu'un agent lordanien "Emerald", perverti par les Akarites, se soit auto-empoisonné il y a peu, à l'ambassade akarite en Dorie, en tentant d'assassiner un riche profanateur lordanien ; les services lordaniens n'ont visiblement rien compris à l'affaire, et cherchent à venger cet "Emerald" {% xfact 'opal_killed_emerald_agent' %}
 - vous avez appris que la cave du {% symbol "Café Bargarac d'Alifir" for "akarith_sect_den_bar" %} abritait des "purificateurs" akarites {% xfact 'misc_akarith_assassins_den_in_alifir_ignored_by_masslavians' %}
 {% endif %}
 
