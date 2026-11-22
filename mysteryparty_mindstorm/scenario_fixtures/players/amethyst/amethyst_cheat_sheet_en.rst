@@ -56,7 +56,7 @@ You know some "Gems of Sabarith Law", such as the one about a romantic break-up 
 <{ title_past_infractions }/>
 ======================================================
 
-.. Here are the actions you have been guilty of during these first weeks of operations:
+Here are the actions you have been guilty of during these first weeks of operations:
 
 - desecration of Loyd Georges' family vault (Lordanian commando)  {% xfact 'amethyst&garnet_open_lg_family_tomb' as author %}
 - unlawful interception of communications (wiretapping of the patriarch of Ghek) {% xfact 'amethyst_wiretaps_ghek_patriarch' as author %}

@@ -19,7 +19,7 @@
 =========================================================
 
 {% if standalone %}
-- vous avez emprunté avec sa complicité l'identité de {{character_properties.malachite.full_official_title}}, expert en histoire yodique qui reste disponible pour aider votre mission {% xfact 'malachite_official_is_helping_secret_services' as author %} {% xfact 'malachite_official_is_expert_in_yodic_history' %}
+- vous avez emprunté avec sa complicité l'identité de {{character_properties.malachite.full_official_title}}, qui reste disponible pour aider votre mission {% xfact 'malachite_official_is_helping_secret_services' as author %} {% xfact 'malachite_official_is_expert_in_yodic_history' %}
 {% endif %}
 - vous faites équipe avec l'agent Spinel, avec qui vous partagez un appartement de Salima, au-dessus de chez "Maître Bibine, apothicaire".
 {% if standalone %}
@@ -33,13 +33,13 @@
 
 - la veille :
 
-  - vous rencontrez Loyd Georges à {% symbol "12h" for "lg_meeting_time_for_malachite" %} et lui offrez d'onéreuses noix tropicales {% xfact 'malachite_offers_nuts_to_lg' as author %}
-  - vous réussissez à déjouer ses questions suspicieuses sur vos prétendues connaissances en histoire yodique, mais n'apprenez rien d'intéressant non plus
-  - vous réussissez à revenir au manoir par la fenêtre de la bibliothèque, les caméras étant désactivées, et y placez un enregistreur sur une étagère haute proche du petit hall
-  - vous entendez parler de vente de terrain dans la chambre accolée à la bibliothèque
-  - vous placez le deuxième enregistreur dans le dos d'un canapé de la salle à manger
-  - peu après {% symbol "12h45" for "malachite_amethyst_encounter_time" %} vous vous retrouvez avec {{character_properties.amethyst.official_name}}, cachés dans le garde-manger {% xfact 'amethyst_and_malachite_locked_in_pantry' as author %} ; vous vous en échappez heureusement
-  - après des investigations infructueuses, vous échouez, le soir tard, à soudoyer un haut-préfet salimien dans le {% symbol "Square Fleuri de Salima" for "malachite_alibi_location" %} {% xfact "malachite_alibi_is_illegal" as author %}
+  - vous avez rencontré Loyd Georges à {% symbol "12h" for "lg_meeting_time_for_malachite" %} et lui avez offert d'onéreuses noix tropicales {% xfact 'malachite_offers_nuts_to_lg' as author %}
+  - vous avez réussi à déjouer ses questions suspicieuses sur vos prétendues connaissances en histoire yodique, mais n'avez rien appris d'intéressant non plus
+  - vous avez réussi à revenir au manoir par la fenêtre de la bibliothèque, les caméras étant désactivées, et y avez placé un enregistreur sur une étagère haute proche du petit hall
+  - vous avez entendu parler de vente de terrain dans la chambre accolée à la bibliothèque
+  - vous avez placé le deuxième enregistreur dans le dos d'un canapé de la salle à manger
+  - peu après {% symbol "12h45" for "malachite_amethyst_encounter_time" %} vous vous êtes retrouvé avec {{character_properties.amethyst.official_name}}, cachés dans le garde-manger {% xfact 'amethyst_and_malachite_locked_in_pantry' as author %} ; vous vous en êtes heureusement échappés
+  - après des investigations infructueuses, vous avez échoué, le soir tard, à soudoyer un haut-préfet salimien dans le {% symbol "Square Fleuri de Salima" for "malachite_alibi_location" %} {% xfact "malachite_alibi_is_illegal" as author %}
 
 
 

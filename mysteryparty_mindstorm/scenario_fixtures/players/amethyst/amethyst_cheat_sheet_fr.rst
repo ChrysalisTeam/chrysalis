@@ -56,7 +56,7 @@ Vous connaissez des "Perles du Droit Sabarites", comme celle de la rupture amour
 <{ title_past_infractions }/>
 ======================================================
 
-.. Voici les actions dont vous vous êtes rendu coupable durant ces premières semaines d'opérations :
+Voici les actions dont vous vous êtes rendu coupable durant ces premières semaines d'opérations :
 
 - profanation du caveau familial de Loyd Georges (commando lordanien)  {% xfact 'amethyst&garnet_open_lg_family_tomb' as author %}
 - interception illicite de communications (mise sur écoute du patriarche de Ghek) {% xfact 'amethyst_wiretaps_ghek_patriarch' as author %}

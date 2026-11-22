@@ -28,7 +28,7 @@
 - vous faites équipe avec l'agent Amethyst
 {% if standalone %}
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
-- vous avez la preuve que {{character_properties.spinel.full_official_title}} a espionné Loyd Georges et des scientifiques d'Alifir {% xfact 'spinel_wiretaps_lg_and_friends' %}
+- vous savez comment prouver que {{character_properties.spinel.full_official_title}} a espionné Loyd Georges et des scientifiques d'Alifir (journaux d'évènements de la passerelle téléphonique "AlifirFront176") {% xfact 'spinel_wiretaps_lg_and_friends' %}
 - vous savez que {{character_properties.topaz.official_name}} a revendu certaines des gemmes acquises en enchères au marché noir {% xfact 'topaz_sells_gems_at_black_market' %}
 - en duo, pour approcher les artefacts de Loyd Georges, vous avez joué double jeu : vous avez dévoilé à la Dorie la couverture de l'agent masslave Marduk Pamuk, et donné à la Masslavie la localisation de la cache d'armes des doriens à Mastden {% xfact 'amethyst&garnet_unmask_masslavian_agent_in_dorian_dukedom' as author %} {% xfact 'amethyst&garnet_unmask_dorian_den_in_masslavia' as author %}
 {% endif %}
@@ -39,7 +39,7 @@
   - vous êtes arrivé en avance, et avez finalement rencontré Loyd Georges à {% symbol "17h" for "lg_meeting_time_for_garnet" %}
   - le sir s'était disputé dans son bureau avec quelqu'un {% xfact 'loyd_georges_quarrelled_with_someone' %}
   - il a pris de la digoxine pour soigner ses problèmes cardiaques {% xfact 'loyd_georges_takes_medicine' %}
-  - en prétextant l'oubli de votre montre à gousset, vous vous êtes isolé le temps de saboter le système d'alarme {% xfact 'garnet_breaks_alarm_for_evening' %}
+  - en feignant d'avoir laissé tomber votre montre à gousset, vous vous êtes isolé le temps de saboter le système d'alarme {% xfact 'garnet_breaks_alarm_for_evening' %}
   - vous êtes revenu au manoir à {% symbol "22h" for "evening_intrusion_time_garnet" %}, pour y pénétrer en aveuglant les caméras de sécurité {% xfact 'garnet_breaks_into_manor_in_the_evening' %}
   - dans le bureau, vous avez trouvé un coffre-fort très sécurisé, le numéro d'un coffre à la banque de Salima ({% symbol "AIXJ726H" for "lg_bank_account_number" %}) et une note d'un certain E.L.
   - vous avez entendu des gémissements de douleur dans la chambre de Loyd Georges, puis le tintement de la sonnette d'appel {% xfact 'garnet_hears_moanings_and_bell' %}

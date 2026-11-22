@@ -28,7 +28,7 @@
 - you are teamed up with agent Amethyst
 {% if standalone %}
 - you know that Loyd Georges has discovered one of the Divine Orbs and hidden it away {% xfact 'lg_has_found_and_hidden_an_orb' %}
-- you have proof that {{character_properties.spinel.full_official_title}} has spied on Loyd Georges and on scientists from Alifir {% xfact 'spinel_wiretaps_lg_and_friends' %}
+- you know how to prove that {{character_properties.spinel.full_official_title}} has spied on Loyd Georges and on scientists from Alifir (event logs of the "AlifirFront176" telephone gateway) {% xfact 'spinel_wiretaps_lg_and_friends' %}
 - you know that {{character_properties.topaz.official_name}} has resold some of the gems acquired at auction on the black market {% xfact 'topaz_sells_gems_at_black_market' %}
 - as a duo, to get at Loyd Georges' artefacts, you played a double game: you revealed to Doria the cover of the Masslavian agent Marduk Pamuk, and gave Masslavia the location of the Dorians' weapons cache in Mastden {% xfact 'amethyst&garnet_unmask_masslavian_agent_in_dorian_dukedom' as author %} {% xfact 'amethyst&garnet_unmask_dorian_den_in_masslavia' as author %}
 {% endif %}
@@ -39,7 +39,7 @@
   - you arrived early, and finally met Loyd Georges at {% symbol "17:00" for "lg_meeting_time_for_garnet" %}
   - the gentleman had quarrelled with someone in his study {% xfact 'loyd_georges_quarrelled_with_someone' %}
   - he took digoxin to treat his heart problems {% xfact 'loyd_georges_takes_medicine' %}
-  - under the pretext of having forgotten your pocket watch, you slipped away long enough to sabotage the alarm system {% xfact 'garnet_breaks_alarm_for_evening' %}
+  - pretending to have dropped your pocket watch, you slipped away long enough to sabotage the alarm system {% xfact 'garnet_breaks_alarm_for_evening' %}
   - you came back to the manor at {% symbol "22:00" for "evening_intrusion_time_garnet" %}, to get inside by blinding the security cameras {% xfact 'garnet_breaks_into_manor_in_the_evening' %}
   - in the study, you found a highly secured safe, the number of a safe-deposit box at the Bank of Salima ({% symbol "AIXJ726H" for "lg_bank_account_number" %}) and a note from a certain E.L.
   - you heard moans of pain in Loyd Georges' bedroom, then the ringing of the call bell {% xfact 'garnet_hears_moanings_and_bell' %}

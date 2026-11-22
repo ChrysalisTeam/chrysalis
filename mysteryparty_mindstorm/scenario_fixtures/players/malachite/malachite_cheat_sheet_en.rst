@@ -19,7 +19,7 @@
 =========================================================
 
 {% if standalone %}
-- you have borrowed, with his full cooperation, the identity of {{character_properties.malachite.full_official_title}}, an expert in Yodic history who remains available to help your mission {% xfact 'malachite_official_is_helping_secret_services' as author %} {% xfact 'malachite_official_is_expert_in_yodic_history' %}
+- you have borrowed, with her full cooperation, the identity of {{character_properties.malachite.full_official_title}}, who remains available to help your mission {% xfact 'malachite_official_is_helping_secret_services' as author %} {% xfact 'malachite_official_is_expert_in_yodic_history' %}
 {% endif %}
 - you are teamed up with agent Spinel, with whom you share a flat in Salima, above "Master Bibine, apothecary".
 {% if standalone %}
@@ -33,13 +33,13 @@
 
 - the day before:
 
-  - you meet Loyd Georges at {% symbol "12:00" for "lg_meeting_time_for_malachite" %} and offer him expensive tropical nuts {% xfact 'malachite_offers_nuts_to_lg' as author %}
-  - you manage to parry his suspicious questions about your supposed knowledge of Yodic history, but learn nothing of interest either
-  - you manage to get back into the manor through the library window, the cameras being disabled, and place a recorder there on a high shelf near the small hall
-  - you hear talk of a land sale in the bedroom adjoining the library
-  - you place the second recorder behind a sofa in the dining room
-  - shortly after {% symbol "12:45" for "malachite_amethyst_encounter_time" %} you end up with {{character_properties.amethyst.official_name}}, hiding in the pantry{% xfact 'amethyst_and_malachite_locked_in_pantry' as author %}; you fortunately escape from it
-  - after fruitless investigations, you fail, late in the evening, to bribe a Salimian high prefect in the {% symbol "Salima Flower Square" for "malachite_alibi_location" %} {% xfact "malachite_alibi_is_illegal" as author %}
+  - you met Loyd Georges at {% symbol "12:00" for "lg_meeting_time_for_malachite" %} and offered him expensive tropical nuts {% xfact 'malachite_offers_nuts_to_lg' as author %}
+  - you managed to parry his suspicious questions about your supposed knowledge of Yodic history, but learned nothing of interest either
+  - you managed to get back into the manor through the library window, the cameras being disabled, and placed a recorder there on a high shelf near the small hall
+  - you heard talk of a land sale in the bedroom adjoining the library
+  - you placed the second recorder behind a sofa in the dining room
+  - shortly after {% symbol "12:45" for "malachite_amethyst_encounter_time" %} you ended up with {{character_properties.amethyst.official_name}}, hiding in the pantry{% xfact 'amethyst_and_malachite_locked_in_pantry' as author %}; you fortunately escaped from it
+  - after fruitless investigations, you failed, late in the evening, to bribe a Salimian high prefect in the {% symbol "Salima Flower Square" for "malachite_alibi_location" %} {% xfact "malachite_alibi_is_illegal" as author %}
 
 
 
