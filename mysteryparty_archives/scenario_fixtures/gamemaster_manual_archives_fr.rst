@@ -943,7 +943,7 @@ Le remède contre la dégénérescence marbrée (famille Parcival)
 
 Mais les ingrédients et le mode de préparation de cette teinture sont très complexes, il faut donc profiter de ce qui avait déjà été rassemblé par la famille Maupertuis.
 
-- Un ingrédient de la Teinture est en évidence à l’étage autorisé ; un autre en évidence sur l'établi de gemmologie ; un autre sur l'établi d'alchimie dans le domaine interdit (mais protégé par un cadenas à crocheter) ; le dernier dans un **corridor toxique** de l’étage interdit (c'est une protection supplémentaire du lieu). {% xfact "one_corridor_is_toxic" %} {# Hint tags for this are in the clues document #}
+- Un ingrédient de la Teinture est en évidence à l’étage autorisé ; un autre en évidence sur l'établi de gemmologie ; un autre sur l'établi d'alchimie dans le domaine interdit (la vapeur de Thorium, dans un des 2 tiroirs rouges protégés par un verrou magnétique, que le crocheteur sait ouvrir) ; le dernier dans un **corridor toxique** de l’étage interdit (c'est une protection supplémentaire du lieu). {% xfact "one_corridor_is_toxic" %} {# Hint tags for this are in the clues document #}
   Se promener dans ce dernier corridor, c'est la mort assurée. Pour récupérer l'ingrédient concerné, il faut soit avoir récupéré le collier anti-poison ailleurs, soit avoir reçu le contrôle d'un automate et l'envoyer chercher cet ingrédient (ou juste demander à l'inventeur d'agir). {% xitem "androids_command_silver_white_ribbon_bracelet_for_inventor" is needed %}
 
 - Enfin, il faut un récipient métallique avec **enchantement anti-explosion**, qui se trouve dans les outils d’alchimie (sous forme d’un chaudronnet cylindrique en cuivre avec anse). {% xitem "enchanted_copper_cauldron_on_alchemy_table" is needed %}
