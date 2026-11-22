@@ -8,7 +8,8 @@ TRANSLATION ISSUES TO SOLVE (FR -> EN)
 #     archives_media/audio/Vocal enigmas/treasure_enigma_charade_by_meredice_for_octave.mp3
 #     (in English, the torn animal book is now mere decoration).
 #  2. Archives - cipher images: re-encode in English the Thief's ogham memo (it decodes to the French
-#     ASTROLABE TRANSPORTE MOI LA BAS) and, optionally, the "useless well" hieroglyphs (PUITS INUTILE).
+#     ASTROLABE TRANSPORTE MOI LA BAS) and, optionally, the "useless well" hieroglyphs (PUITS INUTILE) and the
+#     Anthropologist's seven polychromatic/anaglyph messages (GRIMOIRE TRACEUR, DOMAINE INTERDIT...).
 #  3. Archives - anamorphosis enigma: re-edit the picture with an English caption ("For the day I forget it..."),
 #     or accept the French one.
 #  4. Mindstorm - cipher images: produce English-encoded hieroglyphs/runes/symbols pictures for
@@ -57,6 +58,12 @@ Archives (script_fixtures/mysteryparty_archives/)
   => SUGGESTION: re-encode at least the ogham memo, since it carries the formula the players must speak.
   => PARTLY DONE (cba1e14..b794ef8): GM notes added in ingame_clues_archives_en.odt comments p336 (ogham memo = French ASTROLABE TRANSPORTE MOI LA BAS, accept the English formula) and p344 (hieroglyphs = PUITS INUTILE), and in gamemaster_assets_checklist_en.yaml:338 (Thief's wallet micro-text spells the French formula)
   => !!!!!! BLOCKED ON AUTHOR !!!!!!: re-encode the ogham memo (and, optionally, the useless-well sign) pictures in English for ingame_clues_archives_en.odt
+
+- Clue ODT polychromatic pictures of the Anthropologist's Mystic Reminiscences (GM comments "Tracker Grimoire" ... "Thanatologue"):
+  the seven pictures are the same in both ODTs, so they spell French words in English (GRIMOIRE TRACEUR, DOMAINE INTERDIT, GRIMOIRE
+  CHANTANT, INITIATION DYNASTIQUE, ORBE SPIRITUEL, MORT AUX IMPURS, THANATOLOGUE), as does the Fraktur caption "serrure vortex abyssal".
+  => PARTLY DONE: the French words and their English meaning are listed for the GM in miscellaneous/enigma_solutions_en.rst.
+  => !!!!!! BLOCKED ON AUTHOR !!!!!!: optionally regenerate these pictures in English (https://scape.enepe.fr/ressources/polychromacryptographe/)
 
 - maupertuis_father_chest_code_anamorphosis_enigma (clue ODT, docs/build_archives_pdfs.py:250): the caption "Pour le jour où je
   l'oublierai..." is part of the image, so it stays French in the EN clues.
