@@ -404,7 +404,7 @@ HEURE 5:00
     - 2 akarites surgissent dans la fumée, l'un avec un nerf, l'autre avec un sabre
     - ils demandent à ce que "ceux qui connaissent le signe des yods" partent (si la Dorie a rejoint l'Akarie, le signe des Doriens fonctionne ; dans tous les cas, Alphonse fait un signe bizarre aux akarites et sort, à la surprise de tous)
     - ils demandent à "celle qui s'appelle Lydia" de s'avancer
-    - les joueurs utilisent potentiellement le pistolet à 1 coup doré, et si Opal est en Berserk, il devrait s'interposer
+    - les joueurs utilisent potentiellement le pistolet 1-coup (calibre 12, dans son étui de cuir gris, voir la checklist), et si Opal est en Berserk, il devrait s'interposer
     - Alphonse revient avec une arme récupérée sur un cadavre, et descend les akarites qui seraient encore en vie (il avait vu ce signe dans un tripot de Salima, et potentiellement se moque d'arriver "comme la cavalerie, toujours trop tard")
 
 

@@ -404,7 +404,7 @@ HOUR 5:00
     - 2 Akariths burst out of the smoke, one with a Nerf gun, the other with a sabre
     - they demand that "those who know the Sign of the Yods" leave (if Doria has joined Akaris, the Dorians' sign works; in any case, Alphonse makes a strange sign to the Akariths and walks out, to everyone's surprise)
     - they ask "the one called Lydia" to step forward
-    - the players may use the golden single-shot pistol, and if Opal is in Berserk mode, he should step in
+    - the players may use the single-shot pistol (12 gauge, in its grey leather holster, see the checklist), and if Opal is in Berserk mode, he should step in
     - Alphonse comes back with a weapon picked up from a corpse, and shoots down any Akariths still alive (he had seen this sign in a gambling den of Salima, and may joke about arriving "like the cavalry, always too late")
 
 

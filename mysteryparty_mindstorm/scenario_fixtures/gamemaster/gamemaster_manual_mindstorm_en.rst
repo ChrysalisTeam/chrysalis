@@ -498,7 +498,7 @@ Finding the culprit of the attack on Loyd Georges: the oleander riddle
 
 The various medical reports, and the accounts of the previous day (including the protagonists' alibis), suggest that Loyd Georges' poisoning took place at dinner, with a veal blanquette with bay leaves. The old dog Bedou, found dead with symptoms similar to his master's, confirms this intuition. Nobody else in the manor had eaten this blanquette (Rydji, a vegetarian, had dined with Loyd Georges on plain rice; the others were away).
 
-Alphonse finds, on request, the recipe used for the veal blanquette, then the packaging of the "bay leaves" (actually oleander). The latter contains, hidden behind a few sprigs, a small advertising flyer for the shop of the apothecary Master Bibine.
+Alphonse finds, on request, the recipe used for the veal blanquette, then the packaging of the "bay leaves" (actually oleander). The latter contains, hidden behind a few sprigs, a small "Bibine Express" advertising flyer, for the shop of the apothecary Master Bibine.
 
 If the inspector (when an NPC) is informed of this discovery, he confiscates the papers and may assault LG's servants for having shared this information with the guests.
 

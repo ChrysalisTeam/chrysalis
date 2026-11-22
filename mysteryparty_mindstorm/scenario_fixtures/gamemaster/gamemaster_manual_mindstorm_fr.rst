@@ -498,7 +498,7 @@ Trouver le coupable de l'agression contre Loyd Georges : l’énigme du laurier 
 
 Les différents rapports médicaux, et les récits de la journée de la veille (dont les alibis des protagonistes), laissent à penser que l’empoisonnement de Loyd Georges a eu lieu au dîner, avec de la blanquette de veau au laurier. Le vieux chien Bedou, retrouvé mort avec des symptômes similaires à son maître, confirme cette intuition. Personne d'autre au manoir n'avait mangé de cette blanquette (Rydji, végétarien, avait dîné avec Loyd Georges d'un riz nature ; les autres étaient absents).
 
-Alphonse retrouve, sur demande, la recette utilisée pour la blanquette de veau, puis l'emballage du laurier. Celui-ci contient, caché derrière quelques branchages, un petit flyer de publicité pour la boutique de l'apothicaire Maître Bibine.
+Alphonse retrouve, sur demande, la recette utilisée pour la blanquette de veau, puis l'emballage du laurier. Celui-ci contient, caché derrière quelques branchages, un petit flyer de publicité "Bibine Express", pour la boutique de l'apothicaire Maître Bibine.
 
 Si l'inspecteur (lorsque PNJ) est mis au courant de cette découverte, il confisque les papiers et agresse potentiellement les serviteurs de LG pour avoir partagé ces informations avec les invités.
 
