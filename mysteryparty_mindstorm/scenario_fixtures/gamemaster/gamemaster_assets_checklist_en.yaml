@@ -145,7 +145,7 @@
     - "Tropical nuts and remains of blue Liqueur (stored in the kitchen, offered the day before to Loyd Georges) {% xfact 'malachite_offers_nuts_to_lg' as author %} {% xfact 'amethyst_offers_liquor_to_lg' as author %}"
     - "Pouch of \"bay leaves\" (actually oleander) behind the kitchen condiments, with a \"Bibine Express\" flyer {% xitem 'oleander_ingredient_pouch' is provided %}"
     - "\"Jane Pectoral Paste\" box under the \"Baobab\", containing the riddle leading to the \"Precious Cauldron\" {% xitem 'paste_box_with_precious_cauldron_enigma' is provided %}"
-    - "Coded message \"MO is covering us, delivery OK\" etc. if the Purineur Brasserie is raided"
+    - "Coded message \"MO is covering us, delivery OK\" etc. if the Purineur Brasserie is raided (the prop is in French: MO NOUS COUVRE - LIVRAISON OK...; give the English text of the GM manual once it is decoded)"
     - "Letter from Judicator Praeves, in a padded envelope (anonymous P.O. box of the neighbouring hamlet) {% xitem 'judicator_praeves_letter_and_lily_juice' is provided %}"
     - "\"Venture Prins\" fake book (containing a note urging the reader to look out of the study window) {% xitem 'venture_prins_fake_book' is provided %}"
 

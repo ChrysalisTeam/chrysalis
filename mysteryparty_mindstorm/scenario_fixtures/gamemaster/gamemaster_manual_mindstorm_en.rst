@@ -173,7 +173,7 @@ On the other hand, the Sabarith secret services can raid it.
 
 Findings brought back by the raid:
 
-- coded message {% symbol "MO IS COVERING US - DELIVERY OK – 17 AUBONPICHET TAVERNS SUBDUED OUT OF 1238" for "akarith_sect_coded_message" %}, decipherable with Cynthia's help. {% xfact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %}
+- coded message {% symbol "MO IS COVERING US - DELIVERY OK – 17 AUBONPICHET TAVERNS SUBDUED OUT OF 1238" for "akarith_sect_coded_message" %}, decipherable with Cynthia's help. {% xfact "cynthia_knows_secret_codes_of_modern_akarith_sects" as author %} *GM note: the coded message prop is in French, it decodes to "MO NOUS COUVRE - LIVRAISON OK - 17 TAVERNES AUBONPICHET SOUMISES SUR 1238"; if needed, give the players the English text above once they have decoded it.*
 - pocket watch which, once biophysically analysed via Anthropia, reveals Lordanian metals, Akarith pollens in the drug as well as "lime-blossom liqueur vapours" in the drug (which narrows it down to about 80 AuBonPichet taverns serving this drink); the World Scanner, for its part, gives about ten zones in the big Akarith cities, zones containing in total about 50 AuBonPichet taverns. Having both clues makes it possible to pinpoint exactly the 17 subdued taverns.
 
 The consuls may raise hell, internally, following this first investigation into a gambling den they are trying to protect.
@@ -526,7 +526,7 @@ Trying to keep the treasure entirely for oneself may therefore result in complet
 - the old neighbour's farm previously belonged to Loyd Georges, she has heard of the disappearance of the "Precious Cauldron"
 
 - a mysterious encrypted scroll is in Loyd Georges' safe, along with his will, and it is bequeathed to Cynthia.
-- the inherited scroll mentions the "roots of the baobab", in the form of a secret code that Opal can decipher  {% xfact "opal_knows_standard_secret_codes" as author %}
+- the inherited scroll mentions the "roots of the baobab", in the form of a secret code that Opal can decipher  {% xfact "opal_knows_standard_secret_codes" as author %} *GM note: the hieroglyph picture of the scroll is in French, it decodes to "SOUS RACINES DE BAOBAB" ("under baobab roots"); if needed, give Opal this translation once he has decoded it.*
 - Loyd Georges' servants are categorical, there has never been a single baobab on the Loyd estate; but this word reminds them of an anecdote about the young Loyd Markis, they no longer remember which.
 - an excerpt from Loyd Markis's biography indicates that for him the Baobab is "the majestic tree whose fruit is on the lips of the autumnal bust"
 - this refers to one of Arcimboldo's Four Seasons paintings, displayed on the wall; the bust representing Autumn has a chestnut for a mouth
