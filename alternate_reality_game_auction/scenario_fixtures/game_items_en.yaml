@@ -401,7 +401,7 @@ game_items:
         image: images/objects/black_outdoor_lamp.png
         is_gem: false
         num_items: 1
-        title: Storm Lantern
+        title: Hurricane Lamp
         total_price: null
 
     brass_key:
