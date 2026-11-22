@@ -1705,6 +1705,8 @@ gamemaster_manual:
 
         - the chiefs ask the players for a report on their strategy as the first auctions approach
 
+        - throughout the game: pay each player their wages in kashes, for instance every week or after each series of auctions, with possible bonuses/penalties depending on their results, and adjust their Sabarith Pounds if needed (see `Money`_)
+
         ------------
 
         - **FIRST series of auctions (gems only)**
@@ -1755,7 +1757,7 @@ gamemaster_manual:
 
         - **abilities added: telecom analysis**
 
-        - [alpha] trigger the kidnapping of Cynthia, if the players are stuck in this quest for the alpha orb
+        - [alpha] trigger the kidnapping of Cynthia, if the players are stuck in this quest for the alpha orb (since the world scan is only unlocked later, the Paladium can exceptionally run the scan of the engagement jewel for its allies at this point; otherwise, the mercenaries' lead in Aklarvik remains available)
 
         - broadcast of the scientific video about Tunguska, by the Alifir Academy
 
@@ -1799,6 +1801,8 @@ gamemaster_manual:
         ------------
 
         - **[doctorate] award CEREMONY at Alifir, and outcome of this quest for the honorary doctorate**
+
+        - **outcome of the quests for the orbs: establish who finally holds each orb (player, super-faction, NPC, or orb still missing), deduce from it the final balance of power of the Midolian conflict, then broadcast the closing media (Akarith invasion attempt, Paladium intervention) and switch the portal to read-only mode (see `The finale`_)**
 
         - *OPTIONAL: Chrysalis:Mindstorm mystery evening to close the adventure, otherwise end of the game revealed in the form of radio spots or a teleconference*
 
