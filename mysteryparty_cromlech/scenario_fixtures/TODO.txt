@@ -6,7 +6,6 @@ FAIRE TACHE DE SANG, ET LETTRE AVEC ENVELOPPE+CODE
 
 DIRE groupes JOUEURS PAS ENNEMIS DANS cromlech
 
-Ajouter MOT apparu dans grimoire
 
 
 COOKIES
@@ -23,7 +22,7 @@ Les point d l'affaire sur lesquels il nous faut au plus vite investiguer :
 Fixer heuer de venue des figurants + tôt que joueurs, pour briefing interne
 
 
-- AJouter en INVENTAIRE le parchemin supplémentaire (message d'Andréa) et portable avec VORTEX
+- AJouter en INVENTAIRE le portable avec VORTEX
 
 
 TODO FICHES:

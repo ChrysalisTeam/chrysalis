@@ -146,7 +146,7 @@ Troisième et dernier complément d'enquête
 - Retours des habitués du Cromlech sur leurs cauchemars.
 - Appel d'Andrea à ses alliés, via un message griffonné sur l'enveloppe trouvée au sol.
 
-**LOGISTIQUE : mettre le parchemin supplémentaire (message d'Andréa) dans le Grimoire, et allumer la vidéo de Vortex dans la porte du Cromlech miniature**
+**LOGISTIQUE : glisser sous la couverture du Grimoire le parchemin supplémentaire (document "andrea_message_in_grimoire"), et allumer la vidéo de Vortex dans la porte du Cromlech miniature** {% xitem "message d'Andrea apparu dans le grimoire" is needed %}
 
 
 Quatrième entretien simultané
@@ -160,7 +160,7 @@ Reporter : lance l'alerte, "Andréa est en danger dans un autre monde, il faut l
 
 Conservateur : lance l'alerte, "il faut laisser les artefacts tranquilles et empêcher Andréa de les détourner à son propre profit !".
 
-Trésor : étude des artefacts et messages découverts, rien de nouveau n'est attendu.
+Trésor : découverte du message d'Andrea apparu sous la couverture du grimoire, et étude des artefacts et messages découverts.
 
 Intervention du druide : Il passe voir les groupes de joueurs actuellement avec le Reporter et le Trésor ; à chaque fois, il appelle à lui, par gestes, le Psyker du groupe, et dit désormais (en français) qu'il y a bien une entité en gestation dans les artefacts, mais que c'est une divinité bénéfique, à protéger pour que l'héritage des druides ne soit pas perdu à jamais.
 

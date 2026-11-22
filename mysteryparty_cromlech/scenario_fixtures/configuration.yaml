@@ -96,3 +96,6 @@
         "ancient_artefacts_description":
           "full_sheet":
             - "documents/ancient_artefacts_description_{lang}.rst"
+        "andrea_message_in_grimoire":
+          "full_sheet":
+            - "documents/andrea_message_in_grimoire_{lang}.rst"

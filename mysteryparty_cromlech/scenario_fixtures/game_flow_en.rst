@@ -146,7 +146,7 @@ Third and Final Investigation Update
 - Feedback from the Cromlech regulars about their nightmares.
 - Andrea's call to his allies, via a message scrawled on the envelope found on the floor.
 
-**LOGISTICS: put the extra parchment (Andrea's message) in the Grimoire, and start the vortex video in the door of the miniature cromlech**
+**LOGISTICS: slip the extra parchment (document "andrea_message_in_grimoire") under the cover of the Grimoire, and start the vortex video in the door of the miniature cromlech** {% xitem "message d'Andrea apparu dans le grimoire" is needed %}
 
 
 Fourth Simultaneous Interview
@@ -160,7 +160,7 @@ Reporter: raises the alarm: "Andrea is in danger in another world, we must help 
 
 Curator: raises the alarm: "the artefacts must be left alone, and Andrea must be stopped from hijacking them for his own benefit!".
 
-Treasure: study of the artefacts and messages discovered; nothing new is expected.
+Treasure: discovery of Andrea's message that has appeared under the cover of the grimoire, and study of the artefacts and messages discovered.
 
 Druid's intervention: He goes to see the player groups currently with the Reporter and the Treasure; each time, he beckons the group's Psyker over to him, and now says (in the players' language) that there is indeed an entity gestating in the artefacts, but that it is a benevolent deity, to be protected so that the druids' legacy is not lost forever.
 
