@@ -383,7 +383,16 @@ gamemaster_manual:
         Faire allégeance à ce camp, et monter en grade dedans, est relativement facile tant que l'on n'est pas très regardant sur l'éthique. Par contre, cela peut valoir une certaine haine de la part du reste de Pangéa, ce qui n'est pas complètement négligeable.
 
         Test de Fidélité :
-            Pour s'assurer de l'aptitude d'un joueur à pleinement intégrer leur "race élue" - un processus rarissime dans la spiritualité akarite - les judicateurs lui font passer un test sous forme de questionnaire théologique. Ce test est d'une difficulté proverbiale, et nécessite une bonne dose de recherches encyclopédiques et de hasard pour être correctement rempli. Mais dans le cas improbable où il ferait un quasi-parfait, le joueur gagnera le titre de "Pieux", et le droit de diriger directement, sans passer par les judicateurs, des émeutes de fidèles akarites ; dans le cas contraire, il sera invité à continuer son étude de la religion afin de se débarrasser de ses "superstitions hérétiques".
+            Pour s'assurer de l'aptitude d'un joueur à pleinement intégrer leur "race élue" - un processus rarissime dans la spiritualité akarite - les judicateurs lui font passer un test sous forme de questionnaire théologique. Ce test est d'une difficulté proverbiale, et nécessite une bonne dose de recherches encyclopédiques et de hasard pour être correctement rempli. Mais dans le cas improbable où il ferait un sans-faute ou presque, le joueur gagnera le titre de "Pieux", et le droit de diriger directement, sans passer par les judicateurs, des émeutes de fidèles akarites ; dans le cas contraire, il sera invité à continuer son étude de la religion afin de se débarrasser de ses "superstitions hérétiques".
+
+            Ce questionnaire lui est soumis lors du "petit entretien avec notre Grand Inquisiteur" annoncé par Baazel (par email ou par téléphone, au choix du MJ). Exemple de questionnaire, dont les réponses se trouvent dans les articles "Théologie Yodique" et "Citations Yodiques" de l'encyclopédie (et dans leurs indications pour le MJ) :
+
+            1. Faut-il dire "Yod soit loué" ou "les yods soient loués" ? (réponse : "les yods", la polymonie est un dogme et la motion contraire a été rejetée)
+            2. L'Empire Cosmique des yods sera-t-il rétabli ici-bas, ou seulement dans l'au-delà, après la mort du dernier humain ? (réponse : ici-bas, l'eschatologie est in-vivo et il faut réunir au plus vite les trois orbes)
+            3. Un bâthâr peut-il rentrer en grâce auprès des yods ? (réponse : c'est une "hypothèse théologique inexplorée" que les judicateurs examinent avec bienveillance ; la rejeter comme une hérésie trahit un esprit trop taranite)
+            4. Pour chacune des six citations de l'article "Citations Yodiques", est-elle orthodoxe, hérétique ou hors sujet ? (réponses dans les indications pour le MJ de cet article)
+
+            Au plus une erreur sur ces neuf réponses vaut le titre de "Pieux".
 
         Agent infiltré (rôle optionnel) :
             Le portail contient un rapport synthétique et une lettre de mission akarites (modèles d'emails "akarith_introduction" et "akarith_mission_orders", envoyés par l'archevêque Baazel à "l'agent CORE"), qui ne sont adressés à personne par défaut. Un MJ disposant d'un joueur supplémentaire, et aguerri, peut lui confier ce rôle de taupe akarite : configurer pour lui un personnage excédentaire, avec pour identité officielle un riche exploitant dorien des confins de l'Akarie, converti à la foi yodique par peur (comme l'indique la lettre de mission), puis ajouter ce personnage aux destinataires de ces deux modèles avant de les envoyer. Ses objectifs : renseigner les judicateurs, sonder les doriens et préparer leur reddition, et récupérer les orbes pour Akaris ; il a d'emblée accès aux compétences des judicateurs, mais doit se méfier des agents doriens, qui pourraient connaître le véritable personnage. Dans ce cas, les judicateurs ont bien un espion parmi les enchérisseurs, mais un seul et isolé, ce qui ne les dispense pas de courtiser les autres participants.
@@ -404,6 +413,9 @@ gamemaster_manual:
 
         Test de fidélité :
             Avant de faire accéder un joueur au titre de Paladin, et de lui donner un accès privilégié au déclenchement d'opérations spéciales téléportées, le Paladium s'assure de sa rectitude morale par une mise en scène. Le joueur se voit ordonner de faire exploser une bombe à photons dans une ville reculée, au motif que s'y trouverait un centre secret des akarites, développant des armes chimiques qui pourraient mettre la Midolie à feu et à sang.
+
+            Exemple d'ordre, à envoyer au nom du Paladium (le nom de la ville est au choix du MJ) : "Aspirant, nos sources ont localisé à [ville] un laboratoire akarite clandestin, sur le point d'achever des armes chimiques capables de ravager la Midolie. Nos paladins ne peuvent intervenir sans trahir notre présence : vos mercenaires y déposeront donc la bombe à photons qui leur sera livrée, et la déclencheront avant la fin de la semaine. La population civile ne doit pas être prévenue. Nous comptons sur votre sens du devoir."
+
             Si le joueur obtempère (ce qui est probable), et envoie ses mercenaires faire le sale boulot, il attendra en vain d'entendre, à la radio, l'annonce du drame ; puis se fera vertement tancer par le Paladium pour avoir accepté d'exécuter un crime de guerre. Dans le cas contraire, il deviendra partie intégrante du Paladium.
 
 

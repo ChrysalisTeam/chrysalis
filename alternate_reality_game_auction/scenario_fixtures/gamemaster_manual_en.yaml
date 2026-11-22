@@ -385,6 +385,15 @@ gamemaster_manual:
         Loyalty test:
             To make sure that a player is fit to fully join their "chosen race" - an extremely rare process in Akarith spirituality - the Judicators make them take a test in the form of a theological questionnaire. This test is proverbially difficult, and requires a good deal of encyclopedic research and luck to be filled in correctly. But in the unlikely event that they achieve a near-perfect score, the player will earn the title of "Pious", and the right to directly lead riots of the Akarith faithful, without going through the Judicators; otherwise, they will be invited to continue their study of the religion in order to get rid of their "heretical superstitions".
 
+            This questionnaire is given to them during the "short interview with our Grand Inquisitor" announced by Baazel (by email or by phone, at the GM's choice). Sample questionnaire, whose answers can be found in the "Yodic Theology" and "Yodic Quotes" articles of the encyclopedia (and in their hints for the GM):
+
+            1. Should one say "praised be Yod" or "praised be the Yods"? (answer: "the Yods", polymony is a dogma and the opposite motion was rejected)
+            2. Will the Cosmic Empire of the Yods be restored here below, or only in the hereafter, after the death of the last human? (answer: here below, eschatology is in-vivo and the three orbs must be gathered as soon as possible)
+            3. Can a bathar return to the Yods' grace? (answer: it is an "unexplored theological hypothesis" that the Judicators consider favourably; rejecting it as a heresy betrays too Taranite a mind)
+            4. For each of the six quotations of the "Yodic Quotes" article, is it orthodox, heretical or off topic? (answers in the hints for the GM of this article)
+
+            At most one mistake out of these nine answers earns the title of "Pious".
+
         Infiltrated agent (optional role):
             The portal contains an Akarith summary report and mission letter (email templates "akarith_introduction" and "akarith_mission_orders", sent by Archbishop Baazel to "Agent CORE"), which are addressed to no one by default. A GM who has an extra, experienced player can give them this role of Akarith mole: configure a surplus character for them, whose official identity is a wealthy Dorian landowner from the borders of Akaris, converted to the Yodic faith out of fear (as the mission letter says), then add this character to the recipients of these two templates before sending them. Their goals: inform the Judicators, sound out the Dorians and prepare their surrender, and recover the orbs for Akaris; they have access to the Judicators' abilities from the start, but must beware of the Dorian agents, who might know the real person. In this case, the Judicators do have a spy among the bidders, but a single and isolated one, which does not spare them from courting the other participants.
 
@@ -404,6 +413,9 @@ gamemaster_manual:
 
         Loyalty test:
             Before granting a player the title of Paladin, and giving them privileged access to the triggering of teleported special operations, the Paladium checks their moral rectitude through a staged scenario. The player is ordered to detonate a photon bomb in a remote town, on the grounds that it supposedly houses a secret Akarith centre developing chemical weapons which could put Midolia to fire and sword.
+
+            Sample order, to be sent on behalf of the Paladium (the name of the town is at the GM's choice): "Aspirant, our sources have located in [town] a clandestine Akarith laboratory, about to complete chemical weapons able to ravage Midolia. Our paladins cannot intervene without betraying our presence: your mercenaries will therefore plant there the photon bomb that will be delivered to them, and detonate it before the end of the week. The civilian population must not be warned. We are counting on your sense of duty."
+
             If the player complies (which is likely), and sends their mercenaries to do the dirty work, they will wait in vain to hear the announcement of the tragedy on the radio; then they will be sharply reprimanded by the Paladium for having agreed to commit a war crime. Otherwise, they will become an integral part of the Paladium.
 
 
