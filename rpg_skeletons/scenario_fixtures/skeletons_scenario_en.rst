@@ -222,7 +222,7 @@ Magus Childeric's old equipment (including books) has been pushed into chests at
 Interesting artefacts OUTSIDE the chests:
 
 - **Tree of life** made of black gems of all sizes, with 3 main branches
-- **Necromancy manual**, explaining how to summon abominations and carcasses. Key points: this reanimation is only possible after violent deaths, within a few days at most; the tree of life is what keeps the carcasses alive, it has a limited range, and a "capacity" that depends on its number of main branches; it needs little upkeep, apart from a few drops of the necromancer's blood every moon; the abominations, for their part, can stay alive for a very long time, as long as they feed; all of them are bound by a **moral contract**: never to seek to harm their creator.
+- **Necromancy manual**, explaining how to summon abominations and carcasses. Key points: this reanimation is only possible after violent deaths (accident, fight, poisoning... but not a natural death, from old age or illness), within a few days at most; the tree of life is what keeps the carcasses alive, it has a limited range, and a "capacity" that depends on its number of main branches; it needs little upkeep, apart from a few drops of the necromancer's blood every moon; the abominations, for their part, can stay alive for a very long time, as long as they feed; all of them are bound by a **moral contract**: never to seek to harm their creator.
 
 Interesting artefacts IN the chests:
 

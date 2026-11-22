@@ -222,7 +222,7 @@ L'ancien matériel (dont livres) du mage Childéric est repoussé dans des coffr
 Artefacts intéressants HORS des coffres :
 
 - **Arbre de vie** en gemmes noires de toutes tailles, avec 3 branches principales
-- **Manuel de nécromancie**, expliquant comment invoquer des abominations et des carcasses. Points importants : cette réanimation n'est possible que lors de morts violentes, pendant quelques jours maximum ; l'arbre de vie est la source du maintien en vie des carcasses, il a une portée limitée, et une "capacité" qui dépend de son nombre de branches principales ; il nécessite peu d'entretien, hormis quelques gouttes du sang du nécromancien à chaque lune ; les abominations, elles, peuvent rester en vie très longtemps, tant qu'elles se nourrissent ; tous ont un **contrat moral** : ne jamais chercher à nuire à leur créateur.
+- **Manuel de nécromancie**, expliquant comment invoquer des abominations et des carcasses. Points importants : cette réanimation n'est possible que lors de morts violentes (accident, combat, empoisonnement... mais pas de mort naturelle, de vieillesse ou de maladie), pendant quelques jours maximum ; l'arbre de vie est la source du maintien en vie des carcasses, il a une portée limitée, et une "capacité" qui dépend de son nombre de branches principales ; il nécessite peu d'entretien, hormis quelques gouttes du sang du nécromancien à chaque lune ; les abominations, elles, peuvent rester en vie très longtemps, tant qu'elles se nourrissent ; tous ont un **contrat moral** : ne jamais chercher à nuire à leur créateur.
 
 Artefacts intéressants DANS les coffres :
 
