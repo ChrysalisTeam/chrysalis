@@ -141,7 +141,7 @@ messaging:
                 It was in a dustbin in Alifir that the thief (or thieves) finally abandoned their loot, unable
                 as they were to smuggle out or resell the fruits of their daring misdeed.
 
-                As a reminder, these three paintings depict Lady Aurora, Lord Phrephett and Lord Rulias, three
+                As a reminder, these three paintings depict Lady Aurora, Lord Prephett and Lord Rulias, three
                 dignitaries of pre-Tectonic Akaris who had long studied the Tunguska crash, and the
                 climatic and geopolitical consequences of that event. Sadly, their work disappeared shortly
                 after their death.
@@ -163,7 +163,7 @@ messaging:
             "categories":
             - >-
                 universe
-            "gamemaster_hints": ""
+            "gamemaster_hints": "Default ending of the stolen paintings quest: only send it if the players have recovered none of the three paintings (otherwise, adapt the text to the paintings still missing)."
             "recipient_emails":
             - >-
                 [auction-list]@anthropia.pg

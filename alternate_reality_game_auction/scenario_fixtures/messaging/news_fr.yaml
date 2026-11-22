@@ -142,7 +142,7 @@ messaging:
                 C'est dans une poubelle d'Alifir que le(s) voleur(s) ont finalement abandonné leur butin, incapables
                 comme ils l'étaient d'exfiltrer ou de revendre le fruit de leur audacieux méfait.
 
-                Pour rappel, ces trois tableaux représentent lady Aurora, Lord Phrephett et Lord Rulias, trois
+                Pour rappel, ces trois tableaux représentent lady Aurora, Lord Préphett et Lord Rulias, trois
                 dignitaires de l'akarie prétectonne qui avaient longuement étudié le crash de Tunguska, et les
                 conséquences climatiques et géopolitiques de cet évènement. Leurs travaux ont hélas disparu peu
                 après leur mort.
@@ -164,7 +164,7 @@ messaging:
             "categories":
             - >-
                 universe
-            "gamemaster_hints": ""
+            "gamemaster_hints": "Dénouement par défaut de la quête des tableaux volés : à n'envoyer que si les joueurs n'ont retrouvé aucun des trois tableaux (sinon, adapter le texte aux seuls tableaux encore manquants)."
             "recipient_emails":
             - >-
                 [auction-list]@anthropia.pg
