@@ -882,7 +882,7 @@ To neutralise the Beast:
 
 - The Beast's favourite treats were {% symbol "moon stones" for "phosphorescent_pebbles_name" %}; even though it can no longer eat them, it pounces on them whenever it comes across some. {% xitem "beast_snack_as_moon_stones" is needed %} {% xfact "beast_is_addicted_to_moon_stones" %}
 
-- **The Invoker** knows a ritual capable of "freezing" an entity from the world of the dead for several days. He must draw the right pentacle, and make sure the Beast is lured onto it. Once this is done, the players are rid of it until the end of the game. {% xfact "diakon_invoker_can_freeze_beast_for_days" %}
+- **The Invoker** knows a ritual capable of "freezing" an entity from the world of the dead for several days. He cannot draw a new pentacle (only the great mystics of the monastery know how, and it takes hours): he must **activate the existing canonical pentacle**, that of the Arkon's unfinished ritual, with at least 4 {% symbol "initiates" for "ritualist_kind_name" %}, and make sure the Beast is lured onto it and stays there during the incantation. Once this is done, the players are rid of it until the end of the game. {% xfact "diakon_invoker_can_freeze_beast_for_days" %}
 
 {# NOT YET - movable walls could be shifted to cage the Beast #}
 {# NOPE - **The Alchemist** can find a potion capable of creating an {% symbol "Absolute Barrier Seal" for "ultimate_seal_name" %} for one day on a #}

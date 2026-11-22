@@ -882,7 +882,7 @@ Pour neutraliser la Bête :
 
 - La Bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même si elle ne peut plus les manger, elle se jette dessus quand il en croise. {% xitem "beast_snack_as_moon_stones" is needed %} {% xfact "beast_is_addicted_to_moon_stones" %}
 
-- **L’invocateur** connait un rituel capable de "geler" pour plusieurs jours une entité du monde des morts. Il lui faut tracer le bon pentacle, et s’assurer que la Bête soit attirée dessus. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% xfact "diakon_invoker_can_freeze_beast_for_days" %}
+- **L’invocateur** connait un rituel capable de "geler" pour plusieurs jours une entité du monde des morts. Il ne peut pas tracer de nouveau pentacle (seuls les grands mystiques du monastère le savent, et cela prend des heures) : il lui faut **activer le pentacle canonique existant**, celui du rituel inachevé de l'arkonte, avec au moins 4 {% symbol "initiés" for "ritualist_kind_name" %}, et s’assurer que la Bête soit attirée dessus et y reste pendant l'incantation. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% xfact "diakon_invoker_can_freeze_beast_for_days" %}
 
 {# NOT YET - murs amovibles pourraient être déplacés pour encager la Bête #}
 {# NOPE - **L'alchimiste** peut trouver une potion capable de réaliser un {% symbol "Sceau de barrage absolu" for "ultimate_seal_name" %} pendant une journée sur u #}
