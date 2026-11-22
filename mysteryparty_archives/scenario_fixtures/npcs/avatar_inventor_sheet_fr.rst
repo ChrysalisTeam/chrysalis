@@ -57,6 +57,12 @@ Naturellement, vous savez **réparer** moult choses, par exemple un détecteur d
 #}
 
 
+Le rituel d'expulsion des avatars
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+<{ avatar_expulsion_ritual_instructions }/>
+
+
 Discours d'ouverture du buffet
 ====================================================
 

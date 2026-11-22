@@ -57,6 +57,12 @@ Naturally, you know how to **repair** many things, for example a broken metal de
 #}
 
 
+The Avatar expulsion ritual
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+<{ avatar_expulsion_ritual_instructions }/>
+
+
 Buffet opening speech
 ====================================================
 

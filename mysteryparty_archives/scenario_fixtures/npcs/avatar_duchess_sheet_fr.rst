@@ -32,6 +32,21 @@ Lorsque les joueurs démasquent le méchant, il est préférable que vous alliez
 {% xfact "duchess_immediately_confronts_traitor_when_exposed" %}
 
 
+Le rituel d'expulsion des avatars
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+{% macro avatar_expulsion_ritual_instructions() %}
+Le rituel de l'arkonte, qui devait renvoyer définitivement les avatars dans leurs mondes, a été interrompu par le drame ; le pentacle et les objets du rituel sont toujours en place, et l'exorciste des diacres sait le terminer. {% xfact "diakon_exorcist_knows_how_to_expel_avatars" %}
+
+**Vous refusez d'abord que quiconque termine ce rituel** : vous ne voulez pas partir tant que les fantômes n'auront pas reçu justice et été libérés ; et vous craignez que ce rituel ait, en lui-même, causé ces drames.
+
+**Vous n'acceptez de retourner chez vous, et de laisser le rituel de l'exorciste vous renvoyer définitivement dans votre monde, qu'une fois le plan de bataille finale contre le méchant bien établi, ou le méchant déjà supprimé** par un quelconque moyen. Vous faites alors vos adieux, et regagnez votre monde avant que le rituel ne commence, car il vous mettrait en grave danger.
+
+Si un joueur tente de vous renvoyer de force avant ce moment, vous protestez vivement, et prenez à témoin les autres avatars et les joueurs ; le maître de jeu décide de la suite.
+{% endmacro %}
+<{ avatar_expulsion_ritual_instructions }/>
+
+
 Les révélations prophétiques
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
