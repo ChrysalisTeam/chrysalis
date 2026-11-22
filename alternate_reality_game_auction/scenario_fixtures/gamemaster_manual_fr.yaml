@@ -1021,18 +1021,18 @@ gamemaster_manual:
         La Canne de Loyd Georges
         +++++++++++++++++++++++++++++
 
-        A un moment, Loyd Georges enverra un email à un certain sir Zenon de Salim, évoquant la canne qu'il a oubliée chez lui à leur dernière soirée, et annonçant qu'il dira à l'un de ses coursiers de la prendre dans les jours suivants.
+        A un moment, Loyd Georges enverra un email à son ami Sir Adémar de Salima (contact sir-ademar\@salima.pg), évoquant la canne qu'il a oubliée chez lui à leur dernière soirée, et annonçant qu'il dira à l'un de ses coursiers de la prendre dans les jours suivants (modèle d'email "lg_cane_forgotten").
 
         Aux joueurs de saisir l'occasion pour, via les mercenaires, localiser cet ami de LG, et envoyer un faux coursier récupérer sans heurts la canne.
 
-        Ladite canne contient, dans un logement habilement verrouillé, la clef électronique du coffre de Salima, ainsi qu'un mystérieux papier griffonné. Elle livrera ces objets principalement dans deux cas :
+        Ladite canne contient, dans un logement habilement verrouillé, la clef du coffre de Salima (objet "brass_key", portant le numéro de coffre XN608), ainsi qu'un mystérieux papier griffonné (objet "scribbled_note"). Elle livrera ces objets principalement dans deux cas :
 
         - si elle est passée à la compétence "Expertise biophysique" ; elle sera alors ouverte proprement, et revendable au marché noir à bon prix.
         - si le joueur demande à ses mercenaires de la casser (quelques indices dans sa description ou son image pourront laisser penser qu'elle a des choses à révéler). Dans ce cas-là, la canne sera en morceaux, et le joueur la perdra.
 
-        La clef du coffre aura principalement valeur d'information, via le numéro de coffre qu'elle porte (voir `Cambriolage de la Banque de Salima`_). Quant au papier griffonné, il s'agira d'un mémo de Loyd Georges, mentionnant sous forme énigmatique le digicode de sécurité du manoir.
+        La clef du coffre aura principalement valeur d'information, via le numéro de coffre qu'elle porte (voir `Cambriolage de la Banque de Salima`_). Quant au papier griffonné, il s'agira d'un mémo de Loyd Georges, mentionnant sous forme énigmatique le digicode de sécurité du manoir : "autant de chiffres que de points cardinaux, chacun valant le nombre de clans d'Akarie", soit 7777 (valeur "house_doors_password" de la compétence "house_locking", dans la base de données). Ce code figure aussi en clair dans le fichier personnel "TODO.txt" de Loyd Georges, récompense alternative des joueurs qui piratent son compte Anthropia.
 
-        Le voleur devra mettre à profit ces informations avant que LG ne se rende compte du vol, et ne remédie aux failles de sécurité créées par cette "fuite". Mais le maître du jeu pourra amplement laisser du temps aux joueurs ; par exemple LG ne recontactera Zenon qu'une semaine plus tard, pour lui dire qu'il n'a toujours pas eu le temps de lui envoyer un coursier, et Zenon s'étonnera alors d'avoir pourtant déjà donné la canne ; les deux compères auront encore quelques échanges interloqués avant de se rendre compte que c'est bel et bien un vol, temps pendant lequel le voleur sera doublement pressé à agir.
+        Le voleur devra mettre à profit ces informations avant que LG ne se rende compte du vol, et ne remédie aux failles de sécurité créées par cette "fuite". Mais le maître du jeu pourra amplement laisser du temps aux joueurs ; par exemple LG ne recontactera Sir Adémar qu'une semaine plus tard, pour lui dire qu'il n'a toujours pas eu le temps de lui envoyer un coursier, et Sir Adémar s'étonnera alors d'avoir pourtant déjà donné la canne ; les deux compères auront encore quelques échanges interloqués avant de se rendre compte que c'est bel et bien un vol, temps pendant lequel le voleur sera doublement pressé à agir (modèles d'emails "lg_cane_courier_delay", "ademar_cane_already_given" et "lg_cane_stolen"). Une fois le vol avéré, le MJ remplace le digicode du manoir par un code plus complexe.
 
 
 
@@ -1767,7 +1767,7 @@ gamemaster_manual:
 
         - [beta] envoyer un email de Loakim évoquant la grille en fer "filtre de la doctrine"
 
-        - [salima] message de Loyd Georges à sir Zenon de Salim, à propos de sa canne oubliée chez lui
+        - [salima] message de Loyd Georges à Sir Adémar de Salima, à propos de sa canne oubliée chez lui
 
         - [alpha] s'assurer que le cambriolage de Cynthia a eu lieu, ou à défaut donner plus d'indices pour pirater le compte de cette reporter, puis lui faire demander "l'amitié numérique" de Waden
 
@@ -1796,7 +1796,7 @@ gamemaster_manual:
 
         - [gamma] Loakim part en Kéroskia sur la piste de l'orbe gamma (diffuser des infos sur la "bataille de Wigwir")
 
-        - [salima] si pertinent, échanges entre LG et Zenon de Salim, mettant peu à peu en évidence le vol de la canne de LG
+        - [salima] si pertinent, échanges entre LG et Sir Adémar, mettant peu à peu en évidence le vol de la canne de LG
 
         - [gamma] diffuser la publicité ciblant l'oeuvre musicale "Harmonies Jungliennes"
 

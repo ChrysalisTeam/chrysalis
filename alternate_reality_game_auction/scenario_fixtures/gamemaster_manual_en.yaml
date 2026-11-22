@@ -1021,18 +1021,18 @@ gamemaster_manual:
         Loyd Georges' Cane
         +++++++++++++++++++++++++++++
 
-        At some point, Loyd Georges will send an email to a certain Sir Zenon de Salim, mentioning the cane he forgot at his home at their last evening together, and announcing that he will tell one of his couriers to pick it up in the following days.
+        At some point, Loyd Georges will send an email to his friend Sir Ademar of Salima (contact sir-ademar\@salima.pg), mentioning the cane he forgot at his home at their last evening together, and announcing that he will tell one of his couriers to pick it up in the following days (email template "lg_cane_forgotten").
 
         It is up to the players to seize the opportunity to locate this friend of LG via the mercenaries, and send a fake courier to retrieve the cane smoothly.
 
-        Said cane contains, in a cleverly locked compartment, the electronic key of the Salima safe, as well as a mysterious scribbled note. It will give up these items mainly in two cases:
+        Said cane contains, in a cleverly locked compartment, the key of the Salima safe (item "brass_key", bearing the safe number XN608), as well as a mysterious scribbled note (item "scribbled_note"). It will give up these items mainly in two cases:
 
         - if it is submitted to the "Biophysical appraisal" ability; it will then be opened cleanly, and can be resold on the black market at a good price.
         - if the player asks their mercenaries to break it (a few clues in its description or its image may suggest that it has things to reveal). In this case, the cane will be in pieces, and the player will lose it.
 
-        The safe key will mainly have informational value, through the safe number it bears (see `Burglary of the Bank of Salima`_). As for the scribbled note, it will be a memo from Loyd Georges, mentioning in enigmatic form the security keypad code of the manor.
+        The safe key will mainly have informational value, through the safe number it bears (see `Burglary of the Bank of Salima`_). As for the scribbled note, it will be a memo from Loyd Georges, mentioning in enigmatic form the security keypad code of the manor: "as many digits as cardinal points, each worth the number of Akarith clans", i.e. 7777 (value "house_doors_password" of the "house_locking" ability, in the database). This code also appears in plain text in Loyd Georges' personal file "TODO.txt", an alternative reward for the players who hack his Anthropia account.
 
-        The thief will have to make good use of this information before LG realises the theft, and fixes the security loopholes created by this "leak". But the Game Master can leave the players plenty of time; for example LG will only contact Zenon again a week later, to tell him that he still has not had time to send him a courier, and Zenon will then be surprised to have already handed over the cane; the two cronies will still have a few puzzled exchanges before realising that it is indeed a theft, a time during which the thief will be doubly pressed to act.
+        The thief will have to make good use of this information before LG realises the theft, and fixes the security loopholes created by this "leak". But the Game Master can leave the players plenty of time; for example LG will only contact Sir Ademar again a week later, to tell him that he still has not had time to send him a courier, and Sir Ademar will then be surprised to have already handed over the cane; the two cronies will still have a few puzzled exchanges before realising that it is indeed a theft, a time during which the thief will be doubly pressed to act (email templates "lg_cane_courier_delay", "ademar_cane_already_given" and "lg_cane_stolen"). Once the theft is established, the GM replaces the manor keypad code with a more complex one.
 
 
 
@@ -1767,7 +1767,7 @@ gamemaster_manual:
 
         - [beta] send an email from Loakim mentioning the iron grate "filter of the doctrine"
 
-        - [salima] message from Loyd Georges to Sir Zenon de Salim, about his cane forgotten at his home
+        - [salima] message from Loyd Georges to Sir Ademar of Salima, about his cane forgotten at his home
 
         - [alpha] make sure that the burglary of Cynthia's home has taken place, or failing that give more clues to hack this reporter's account, then have the players request Waden's "digital friendship" in her name
 
@@ -1796,7 +1796,7 @@ gamemaster_manual:
 
         - [gamma] Loakim leaves for Keroskia on the trail of the Gamma Orb (broadcast information about the "battle of Wigwir")
 
-        - [salima] if relevant, exchanges between LG and Zenon de Salim, gradually bringing to light the theft of LG's cane
+        - [salima] if relevant, exchanges between LG and Sir Ademar, gradually bringing to light the theft of LG's cane
 
         - [gamma] broadcast the advert for the musical work "Jungle Harmonies"
 

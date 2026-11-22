@@ -134,3 +134,69 @@ messaging:
             "subject": >-
                 Important - suite à ce nouveau cambriolage.....
 
+
+        # LOYD GEORGES' CANE (see the GM manual) #
+
+        -   id: lg_cane_forgotten
+            gamemaster_hints: "Quête annexe de la canne : point de départ, qui permet aux joueurs d'envoyer un faux coursier chez Sir Adémar."
+            categories: ["npc_account_hacking"]
+            sender_email: loyd.georges
+            recipient_emails: ["sir-ademar@salima.pg"]
+            subject: "Ma canne"
+            body: |
+
+                Cher Sir Adémar,
+
+                quelle étourderie : j'ai oublié ma canne chez vous, lors de notre dernière soirée. J'enverrai l'un de mes coursiers la reprendre dans les prochains jours ; d'ici là, je vous la confie, j'y tiens comme à la prunelle de mes yeux.
+
+                Sirement vôtre,
+
+                L.G
+
+
+        -   id: lg_cane_courier_delay
+            gamemaster_hints: "Quête annexe de la canne : une semaine après lg_cane_forgotten, si un joueur a récupéré la canne par un faux coursier."
+            categories: ["npc_account_hacking"]
+            sender_email: loyd.georges
+            recipient_emails: ["sir-ademar@salima.pg"]
+            subject: "Re: Ma canne"
+            body: |
+
+                Cher Sir Adémar,
+
+                toutes mes excuses, je n'ai toujours pas trouvé le temps de vous envoyer un coursier pour ma canne. Ce sera fait cette semaine, promis.
+
+                L.G
+
+
+        -   id: ademar_cane_already_given
+            gamemaster_hints: "Quête annexe de la canne : réponse à lg_cane_courier_delay."
+            categories: ["npc_account_hacking"]
+            sender_email: sir-ademar@salima.pg
+            recipient_emails: ["loyd.georges@anthropia.pg"]
+            subject: "Re: Ma canne"
+            body: |
+
+                Mon cher Loyd Georges,
+
+                je ne comprends pas : votre coursier est déjà passé la prendre, la semaine dernière ! Un garçon fort poli, d'ailleurs. Vous perdez la tête, mon ami.
+
+                Princement vôtre,
+
+                S.A
+
+
+        -   id: lg_cane_stolen
+            gamemaster_hints: "Quête annexe de la canne : LG découvre le vol. Le MJ remplace alors le digicode du manoir (7777) par un code plus complexe."
+            categories: ["npc_account_hacking"]
+            sender_email: loyd.georges
+            recipient_emails: ["sir-ademar@salima.pg"]
+            subject: "Re: Ma canne"
+            body: |
+
+                Cher Sir Adémar,
+
+                je n'ai envoyé personne ! On m'a dérobé ma canne, et vous savez sans doute ce qu'elle renfermait... Je fais changer sur l'heure le code de mon manoir, et je préviens l'inspecteur Shark.
+
+                L.G
+

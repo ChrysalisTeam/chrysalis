@@ -416,12 +416,22 @@ game_items:
 
     wooden_cane:
         auction: null
-        comments: "A one-of-a-kind model."
-        gamemaster_hints: "This is Loyd Georges' famous cane."
+        comments: "A one-of-a-kind model. Its knob sounds strangely hollow, and a thin groove runs under the brass ring."
+        gamemaster_hints: "This is Loyd Georges' famous cane. Its knob hides the key of his safe (brass_key) and an enigmatic memo (scribbled_note), given up if it is appraised or broken (see the GM manual)."
         image: images/objects/cane1.png
         is_gem: false
         num_items: 1
         title: "Distinguished Cane"
+        total_price: null
+
+    scribbled_note:
+        auction: null
+        comments: "A note scribbled in Loyd Georges' hand: \"Manor keypad: as many digits as cardinal points, each worth the number of Akarith clans.\""
+        gamemaster_hints: "Found in Loyd Georges' cane. The manor keypad code is 7777 (4 cardinal points, 7 Akarith clans)."
+        image: images/objects/scroll_void.png
+        is_gem: false
+        num_items: 1
+        title: "Scribbled Note"
         total_price: null
 
     wooden_box:

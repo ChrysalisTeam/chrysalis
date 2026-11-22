@@ -416,12 +416,22 @@ game_items:
 
     wooden_cane:
         auction: null
-        comments: "Un modèle unique en son genre."
-        gamemaster_hints: "C'est la fameuse canne de Loyd Georges."
+        comments: "Un modèle unique en son genre. Son pommeau sonne étrangement creux, et une fine rainure court sous la bague de laiton."
+        gamemaster_hints: "C'est la fameuse canne de Loyd Georges. Son pommeau cache la clef de son coffre (brass_key) et un mémo énigmatique (scribbled_note), livrés si elle est expertisée ou cassée (voir le manuel du MJ)."
         image: images/objects/cane1.png
         is_gem: false
         num_items: 1
         title: "Canne Distinguée"
+        total_price: null
+
+    scribbled_note:
+        auction: null
+        comments: "Un papier griffonné de la main de Loyd Georges : \"Digicode du manoir : autant de chiffres que de points cardinaux, chacun valant le nombre de clans d'Akarie.\""
+        gamemaster_hints: "Trouvé dans la canne de Loyd Georges. Le digicode du manoir est 7777 (4 points cardinaux, 7 clans akarites)."
+        image: images/objects/scroll_void.png
+        is_gem: false
+        num_items: 1
+        title: "Papier Griffonné"
         total_price: null
 
     wooden_box:

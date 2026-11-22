@@ -135,3 +135,69 @@ messaging:
             "subject": >-
                 Important - following this new burglary.....
 
+
+        # LOYD GEORGES' CANE (see the GM manual) #
+
+        -   id: lg_cane_forgotten
+            gamemaster_hints: "Cane side quest: starting point, which lets the players send a fake courier to Sir Ademar."
+            categories: ["npc_account_hacking"]
+            sender_email: loyd.georges
+            recipient_emails: ["sir-ademar@salima.pg"]
+            subject: "My cane"
+            body: |
+
+                Dear Sir Ademar,
+
+                how absent-minded of me: I forgot my cane at your home, during our last evening together. I shall send one of my couriers to pick it up in the coming days; until then, I entrust it to you, I treasure it like the apple of my eye.
+
+                Sirtainly yours,
+
+                L.G
+
+
+        -   id: lg_cane_courier_delay
+            gamemaster_hints: "Cane side quest: one week after lg_cane_forgotten, if a player has retrieved the cane through a fake courier."
+            categories: ["npc_account_hacking"]
+            sender_email: loyd.georges
+            recipient_emails: ["sir-ademar@salima.pg"]
+            subject: "Re: My cane"
+            body: |
+
+                Dear Sir Ademar,
+
+                my apologies, I still have not found the time to send you a courier for my cane. It will be done this week, I promise.
+
+                L.G
+
+
+        -   id: ademar_cane_already_given
+            gamemaster_hints: "Cane side quest: reply to lg_cane_courier_delay."
+            categories: ["npc_account_hacking"]
+            sender_email: sir-ademar@salima.pg
+            recipient_emails: ["loyd.georges@anthropia.pg"]
+            subject: "Re: My cane"
+            body: |
+
+                My dear Loyd Georges,
+
+                I do not understand: your courier already came to pick it up, last week! A very polite young man, at that. You are losing your mind, my friend.
+
+                Princely yours,
+
+                S.A
+
+
+        -   id: lg_cane_stolen
+            gamemaster_hints: "Cane side quest: LG discovers the theft. The GM then replaces the manor keypad code (7777) with a more complex one."
+            categories: ["npc_account_hacking"]
+            sender_email: loyd.georges
+            recipient_emails: ["sir-ademar@salima.pg"]
+            subject: "Re: My cane"
+            body: |
+
+                Dear Sir Ademar,
+
+                I sent no one! My cane has been stolen, and you no doubt know what it contained... I am having the code of my manor changed at once, and I am warning Inspector Shark.
+
+                L.G
+
