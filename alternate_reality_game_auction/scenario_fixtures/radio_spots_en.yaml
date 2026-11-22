@@ -210,7 +210,7 @@ audio_messages:
 
     "80_defeat_wiremind_standard":
         "title": >-
-            Announcement - WireMind defeated
+            Announcement - Wiremind defeated
         "gamemaster_hints": "Sober version of spot 65. Before broadcasting it, replace the two {{TODO}} with the official name of the winner and with their town or country."
         "text": >-
             \audio=mix="news_bass_full_042";volume=100\ \pau=6000\ \audio=volume=25\ \pau=1000\ \vce=speaker=alice\

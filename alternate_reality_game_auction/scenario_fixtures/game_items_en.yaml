@@ -520,7 +520,7 @@ game_items:
         image: images/objects/rusty_wheel.png
         is_gem: false
         num_items: 1
-        title: "Rusty Antique Bar"
+        title: "Rusty Antique Helm"
         total_price: 1000
 
     scrolls_rolled:
