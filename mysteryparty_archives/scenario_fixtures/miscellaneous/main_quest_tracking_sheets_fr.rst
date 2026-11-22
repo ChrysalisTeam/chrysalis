@@ -63,7 +63,7 @@ FICHE DE SUIVI POUR L'ARKONTE - Quête des Diacres de Bahamoot
 
 ---
 
-**Les diacres ont pour principal objectif de restaurer l'ordre des choses dans la bibliothèque : neutraliser la Bête, libérer les âmes prisonnières, et renvoyer les avatars dans leurs propres mondes. Voire s'assurer que la bibliothèque ne nuise plus, sur le long terme.**
+<{ diakon_group_main_quest }/>
 
 
 .. raw:: pdf

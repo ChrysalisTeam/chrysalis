@@ -1022,6 +1022,25 @@ Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conse
 <{ explorer_group_main_quest }/>
 
 
+Mission des diacres (diacres de {% symbol "Bahamoot" for "god_of_diakons" %})
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+{% macro diakon_group_main_quest() %}
+
+**Les diacres ont pour principal objectif de restaurer l'ordre des choses dans la bibliothèque : neutraliser la Bête, libérer les âmes prisonnières, et renvoyer les avatars dans leurs propres mondes. Voire s'assurer que la bibliothèque ne nuise plus, sur le long terme.**
+
+- **Neutraliser la Bête** (voir "Neutraliser la Bête des Maupertuis") : l'exorciste peut la faire fuir, ou l'attirer lentement à lui, et bénir les fléchettes du Gardien des bois Parcival ; l'invocateur peut la "geler" jusqu'à la fin du jeu, en activant le pentacle canonique du rituel inachevé de l'arkonte avec au moins 4 {% symbol "initiés" for "ritualist_kind_name" %}, une fois la Bête attirée dessus.
+- **Communiquer avec les défunts** : l'invocateur peut envoyer des messages aux parents Maupertuis via l'Ankou, par exemple pour obtenir le code d'{% symbol "Isadora" for "maupertuis_mother" %} pour le coffre légendaire.
+- **Libérer les âmes prisonnières** : les fantômes ne pourront quitter les lieux qu'une fois la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} levée, ce qui arrive à la mort du traître ; il faut donc d'abord le démasquer (voir "Démasquer et neutraliser le méchant"). L'exorciste peut aussi libérer un fantôme de son point d'ancrage.
+- **Renvoyer les avatars** : l'exorciste connait le rituel de rupture des corridors d'outre-monde, qui permet de finir le rituel d'expulsion de l'arkonte sur son pentacle. Les avatars le refusent d'abord, et ne l'acceptent qu'une fois le plan de bataille contre le traître établi, ou le traître supprimé (voir "Finir le rituel d'expulsion des avatars"). Ce rituel est aussi l'arme la plus efficace contre le druide, lors de la bataille finale.
+- **Piège** : les diacres connaissent un rituel pour lever précocement la {% symbol "Clôture Absolue" for "library_cursed_enclosure_name" %} (avec au moins les {% symbol "3 / 5 des vivants" for "library_cursed_enclosure_opening_quota" %} et des ingrédients du domaine interdit) ; mais s'il est réalisé avant la mort du traître, celui-ci s'échappe, et c'est un échec pour tous. Orienter plutôt les diacres vers la recherche du traître.
+- **Le {% symbol "Thanatologue" for "book_of_the_dead" %}** : ses sorts de zombification (après une Potion d'Autorité) peuvent servir, par exemple pour qu'un joueur tué dans le tombeau du mage en ramène les artefacts ; les diacres savent aussi désenvoûter à l'avance une tombe contre les nécromanciens, ce qui aide les explorateurs.
+- **Les déchus** (si l'équipe est jouée) : les deux souriceaux confiés par l'oracle sont des dieux-dragons, et les diacres sont les alliés naturels de leur quête (voir "Le piège psychique à démons").
+
+{% endmacro %}
+<{ diakon_group_main_quest }/>
+
+
 Démasquer et neutraliser le méchant
 +++++++++++++++++++++++++++++++++++++
 

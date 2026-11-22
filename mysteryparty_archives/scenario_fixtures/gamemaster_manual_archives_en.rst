@@ -1022,6 +1022,25 @@ One of the rare copies of this mythical (and controversial) work has been kept b
 <{ explorer_group_main_quest }/>
 
 
+Mission of the Diakons (Diakons of {% symbol "Bahamoot" for "god_of_diakons" %})
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+{% macro diakon_group_main_quest() %}
+
+**The Diakons' main objective is to restore the order of things in the library: neutralise the Beast, free the imprisoned souls, and send the avatars back to their own worlds. And even make sure that the library does no more harm, in the long run.**
+
+- **Neutralise the Beast** (see "Neutralise the Maupertuis Beast"): the Exorcist can make it flee, or slowly draw it to him, and bless the darts of the Parcival Woodsman; the Invoker can "freeze" it until the end of the game, by activating the canonical pentacle of the Arkon's unfinished ritual with at least 4 {% symbol "initiates" for "ritualist_kind_name" %}, once the Beast has been lured onto it.
+- **Communicate with the dead**: the Invoker can send messages to the Maupertuis parents through the Ankou, for instance to obtain {% symbol "Isadora" for "maupertuis_mother" %}'s code for the legendary chest.
+- **Free the imprisoned souls**: the phantoms can only leave once the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} is lifted, which happens at the traitor's death; so he must first be unmasked (see "Unmask and neutralise the villain"). The Exorcist can also free a phantom from its anchoring point.
+- **Send the avatars back**: the Exorcist knows the ritual of rupture of the otherworld corridors, which allows him to finish the Arkon's expulsion ritual on his pentacle. The avatars refuse it at first, and only accept it once the battle plan against the traitor is set, or the traitor is eliminated (see "Finish the Avatar expulsion ritual"). This ritual is also the most effective weapon against the Druid, during the final battle.
+- **Trap**: the Diakons know a ritual to lift the {% symbol "Absolute Enclosure" for "library_cursed_enclosure_name" %} prematurely (with at least {% symbol "3 / 5 of the living" for "library_cursed_enclosure_opening_quota" %} and ingredients from the Forbidden Domain); but if it is performed before the traitor's death, he escapes, and it is a failure for all. Steer the Diakons towards the search for the traitor instead.
+- **The {% symbol "Thanatologue" for "book_of_the_dead" %}**: its zombification spells (after a Potion of Authority) can be useful, for instance so that a player killed in the Magus's tomb brings back its artefacts; the Diakons also know how to dispel a tomb in advance against necromancers, which helps the explorers.
+- **The Fallen** (if the team is played): the two baby mice entrusted by the oracle are dragon gods, and the Diakons are the natural allies of their quest (see "The psychic demon trap").
+
+{% endmacro %}
+<{ diakon_group_main_quest }/>
+
+
 Unmask and neutralise the villain
 +++++++++++++++++++++++++++++++++++++
 
