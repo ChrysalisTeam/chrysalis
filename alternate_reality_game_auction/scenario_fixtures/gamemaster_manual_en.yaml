@@ -1045,6 +1045,18 @@ gamemaster_manual:
         The various items gleaned are, for now, left entirely to the GM's discretion.
 
 
+        Burglary of the Alifir Academy
+        +++++++++++++++++++++++++++++++++++++++
+
+        Loyd Georges entrusted the Alifir Academy with the major pieces brought back from the Nazur temple (the Horned Statue, the Sacred Yodic Book and the Restored Antique Casket), which Prof. Loakim's department studies one after the other; they are stored in an ultra-secure depot, under omnipresent video surveillance.
+
+        The players who send mercenaries to investigate the academy learn about these artefacts (email templates "oberons_feedback_alifir" then "oberons_alifir_academy_spying"), as well as the only flaw of the system: each item leaves the depot in turn to be analysed, and is poorly watched during the lunch break. The mercenaries' contact on site can then snatch the item named by the player, only once (since he then leaves the country), for 2000¤ in cash or 1000¤ in gems. The assaults of the factions and super-factions (see `Assaults`_) can also target the academy, but will only be as successful if the player knows which item to target, and when.
+
+        Once the Sacred Book has been stolen, whoever the real thief is, the GM sends Prof. Loakim's message announcing this theft, which he blames on the Akariths (template "alifir_robbery_status"); if no player dares to do it, the GM can also have the Akarith Judicators commit this theft, to relaunch the quest for the Gamma Orb. The theft indeed does not stop the scientists, who have digital copies of all the pages and go on with their translation, up to the battle of Wigwir.
+
+        Consequences: the stolen item gives the thief its runes and its analyses (quests for the Beta and Gamma Orbs), but the theft causes a scandal; the academy and Prof. Loakim become wary of the participants of the auctions, Inspector Shark investigates, and such an identifiable item is almost impossible to resell without attracting attention.
+
+
 
 
         Secret Plot of Heliossar
@@ -1751,7 +1763,7 @@ gamemaster_manual:
 
         - **THIRD series of auctions**
 
-        - if LG's manor and/or the Alifir Academy have not yet been burgled, give clues in this direction
+        - if LG's manor and/or the Alifir Academy have not yet been burgled, give clues in this direction (see `Burglary of the Alifir Academy`_)
 
         - [doctorate] defamation against LG, by Prof. Losslass, and LG<->Loakim exchanges about it;
 

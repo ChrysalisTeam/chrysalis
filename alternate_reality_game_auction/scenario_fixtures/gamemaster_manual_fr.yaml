@@ -1045,6 +1045,18 @@ gamemaster_manual:
         Les différents objets glanés sont, pour l'instant, laissés entièrement à l'appréciation du MJ.
 
 
+        Cambriolage de l'Académie d'Alifir
+        +++++++++++++++++++++++++++++++++++++++
+
+        Loyd Georges a confié à l'Académie d'Alifir les pièces majeures ramenées du temple de Nazur (la Statue Cornue, le Livre Sacré Yodique et le Coffret Antique Restauré), que le département du Pr Loakim étudie à tour de rôle ; elles sont rangées dans un dépôt ultra-sécurisé, sous une vidéosurveillance omniprésente.
+
+        Les joueurs qui envoient des mercenaires enquêter à l'académie apprennent l'existence de ces artefacts (modèles d'emails "oberons_feedback_alifir" puis "oberons_alifir_academy_spying"), ainsi que la seule faille du dispositif : chaque objet sort à son tour du dépôt pour être analysé, et reste peu surveillé pendant la pause de midi. Le contact des mercenaires sur place peut alors subtiliser l'objet désigné par le joueur, une seule fois (car il s'expatrie ensuite), contre 2000¤ en cash ou 1000¤ en gemmes. Les assauts des factions et super-factions (voir `Assauts`_) peuvent aussi viser l'académie, mais ne connaîtront le même succès que si le joueur sait quel objet viser, et quand.
+
+        Une fois le Livre Sacré dérobé, quel qu'en soit le voleur réel, le MJ envoie le message du Pr Loakim annonçant ce vol, qu'il attribue aux akarites (modèle "alifir_robbery_status") ; si aucun joueur ne s'y risque, le MJ peut aussi faire commettre ce vol par les judicateurs akarites, pour relancer la quête de l'Orbe Gamma. Le vol ne bloque en effet pas les scientifiques, qui disposent de copies numériques de toutes les pages et poursuivent leur traduction, jusqu'à la bataille de Wigwir.
+
+        Conséquences : l'objet volé apporte au voleur ses runes et ses analyses (quêtes des Orbes Beta et Gamma), mais le vol fait scandale ; l'académie et le Pr Loakim deviennent méfiants envers les participants des enchères, l'inspecteur Shark enquête, et un objet aussi identifiable est presque impossible à revendre sans attirer l'attention.
+
+
 
 
         Complot Secret d'Héliossar
@@ -1751,7 +1763,7 @@ gamemaster_manual:
 
         - **TROISIEME série de ventes aux enchères**
 
-        - si le manoir de LG et/ou l'Académie d'Alifir n'ont pas encore été cambriolés, donner des indices en ce sens
+        - si le manoir de LG et/ou l'Académie d'Alifir n'ont pas encore été cambriolés, donner des indices en ce sens (voir `Cambriolage de l'Académie d'Alifir`_)
 
         - [doctorate] diffamation contre LG, de la part du Pr Losslass, et échanges LG<->Loakim à ce propos ;
 
