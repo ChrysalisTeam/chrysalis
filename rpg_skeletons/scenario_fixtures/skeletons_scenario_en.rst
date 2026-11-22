@@ -141,7 +141,7 @@ Guardroom
 CONRAD:
 
 - The most enormous of them all (3 m tall, 1.5 m wide)
-- Cannot enter the other buildings, or go upstairs, because he is too wide
+- Apart from the guardroom, can only enter the throne room (stooping in the corridor); cannot enter the other buildings, or go upstairs, because he is too wide
 - Initially, plays the accordion
 - Has a **dagger stuck** in his side and does not realise it (the others laugh about it); he complains that it might rust and fester
 - Can draw in charcoal, and in colour
@@ -429,7 +429,7 @@ Day 3 - nightfall
 - At some point, the players end up discovering that Magus Parcival is not in the cottage (e.g. triggering clue: smoke no longer comes out of it)
 - SAPHIR runs everywhere, tears in her eyes, breathless, looking for her daddy
 - She breaks into the flaying house, and brings back two patches of skin bearing the **tattoo** that she herself has on her shoulder: a **wolf curled up in a ball** (the skin of the two magi's forearms)
-- She then confronts everyone present, but Magus Foulques cannot hide his panic
+- She then confronts everyone present, gathered in the throne room, but Magus Foulques cannot hide his panic
 - CONRAD confiscates Foulques's **white-hot staff** as a precaution
 - Foulques confesses everything, but says they were "accidents"
 - SAPHIR, her eyes black as coal, heads for the throne, seizes it, leaps up to the ceiling, and hurls it at Foulques (who is potentially flattened)

@@ -141,7 +141,7 @@ Salle de garde
 CONRAD :
 
 - Le plus énorme de tous (3m de haut, 1m50 de large)
-- Ne peut pas entrer dans les autres bâtiments, ou monter à l'étage, car trop large
+- Hors de la salle de garde, ne peut entrer que dans la salle du trône (en se courbant dans le corridor) ; ne peut pas entrer dans les autres bâtiments, ou monter à l'étage, car trop large
 - Initialement, joue de l'accordéon
 - A une **dague plantée** dans le côté et ne s'en rend pas compte (les autres en rient), il se plaint que ça peut rouiller et puruler
 - Sait dessiner au fusain, en couleur
@@ -429,7 +429,7 @@ Jour 3 - nuit tombée
 - À un moment, les joueurs finissent par découvrir que le mage Parcival n'est pas dans la maisonnette (ex. indice déclencheur : la fumée ne s'en échappe plus)
 - SAPHIR court partout, les larmes aux yeux, haletante, à la recherche de son papa
 - Elle fracture le dépeçoir, et en ramène deux plaques de peau portant le **tatouage** qu'elle-même a sur l'épaule : un **loup roulé en boule** (la peau des avant-bras des deux mages)
-- Elle confronte alors l'ensemble des gens présents, mais le mage FOULQUES ne peut dissimuler sa panique
+- Elle confronte alors l'ensemble des gens présents, réunis dans la salle du trône, mais le mage FOULQUES ne peut dissimuler sa panique
 - CONRAD confisque préventivement le **bâton incandescent** de FOULQUES
 - FOULQUES avoue tout, mais dit que ce sont des "accidents"
 - SAPHIR, les yeux noirs comme du charbon, se dirige vers le trône, le saisit, bondit au plafond, et le lance sur FOULQUES (qui est potentiellement aplati)
