@@ -285,7 +285,7 @@ gamemaster_manual:
 
         Consequently, the more orbs the Akarith Judicators possess, the more they will manage to rally the various communities of the faithful through faith, and the neighbouring peoples through fear (in particular, the Dorians). All this being of course modulated by the alliances and rivalries that the players will have created, in their possible roles as diplomatic intermediaries.
 
-        More precisely, there are 7 clans in Akaris, which are more or less in tune with the warmongering strategy of the Judicators. Schematically, one can thus "calculate" the number of clans ready to follow the Judicators in their war of conquest:
+        More precisely, there are 7 clans in Akaris, which are more or less in tune with the warmongering strategy of the Judicators. Schematically, one can thus "calculate" the number of clans ready to follow the Judicators in their war of conquest (the total being capped at the 7 existing clans, and never falling below 1):
 
         - the clan the Judicators come from will support them whatever happens;
         - for each orb recovered by the Judicators, 2 more clans will be won over to the idea that the prophecy is about to come true (and will therefore join the war effort);
