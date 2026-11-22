@@ -120,7 +120,7 @@ Montée de la presqu'île
 - Rien de dangereux sur ce chemin, hormis son étroitesse
 - Montre des traces d'anciens pièges et barrières arrachés
 - Le mur d'enceinte du donjon est abîmé par endroit, mais semble encore solide
-- Une haute tour dépasse du milieu de l'enceinte
+- Une haute tour dépasse de l'enceinte
 - Il y a comme une maisonnette cylindrique posée sur le sommet de la tour, et entourée d'un petit chemin de ronde ; ses fenêtres sont fermées
 - **IMPORTANT** : une mince **fumée turquoise** s'élève d'une cheminée de la maisonnette
 
@@ -173,7 +173,7 @@ GAUBERT et HERBERT :
 Salle du trône
 ---------------------
 
-- Le corridor menant à la salle du trône est couvert de **vieilles tentures**, derrière lesquelles se trouve un piège fait de pieux acérés sur ressorts (le levier qui les commande est près du trône).
+- Le court corridor qui mène de la salle de garde à la salle du trône (percé dans l'épaisseur du mur, trop petit pour figurer sur le plan) est couvert de **vieilles tentures**, derrière lesquelles se trouve un piège fait de pieux acérés sur ressorts (le levier qui les commande est près du trône).
 - Si un test du piège est effectué, les abominations enlèvent d'abord les tentures pour les préserver, puis, après, passent du temps à réarmer le dispositif
 - La salle du trône en elle-même est assez sobre, à part un lourd **trône en bois, un grand miroir sur pied,** des manuels scolaires, et quelques jeux anciens
 - Un gros coffre contient le **butin récent**, à écouler (armes, armures, quelques bijoux et vêtements)
@@ -336,7 +336,7 @@ Jour 3 - matin
 
 - Interactions :
 
-  - Il remonte la falaise à travers des galeries souterraines
+  - Il remonte la falaise à travers des galeries souterraines, qui débouchent dans la forêt (elles ne figurent pas sur le plan)
   - Il appelle les carcasses avec un **sifflet** depuis la forêt, puis seulement si nécessaire va jusqu'à la garnison lui-même (à contrecoeur)
   - À transmettre au donjon : un petit campement militaire et une tourelle d'observation ont été dressés sur une colline de l'autre côté de la forêt, donc le donjon est désormais espionné, il ne veut plus y être vu ; il a laissé son **Zeppelin** bien loin, au port, pour ne pas éveiller de soupçons ; il suggère d'aller négocier avec ces militaires au cas où.
   - Il délivre un chargement de 2 tonnelets de **poudre noire**, un bidon de poix liquide, un caisson de pièces métalliques biscornues, des lentilles de longue-vue (fragiles).

@@ -120,7 +120,7 @@ Climb up the peninsula
 - Nothing dangerous on this path, apart from its narrowness
 - Shows traces of old traps and barriers that were torn away
 - The outer wall of the keep is damaged in places, but still seems solid
-- A tall tower rises from the middle of the enclosure
+- A tall tower rises above the enclosure
 - There is a sort of cylindrical cottage perched on top of the tower, surrounded by a small wall-walk; its windows are shut
 - **IMPORTANT**: a thin **turquoise smoke** rises from a chimney of the cottage
 
@@ -173,7 +173,7 @@ GAUBERT and HERBERT:
 Throne room
 ---------------------
 
-- The corridor leading to the throne room is covered with **old hangings**, behind which lies a trap made of sharpened spring-loaded stakes (the lever that controls them is near the throne).
+- The short corridor leading from the guardroom to the throne room (cut through the thickness of the wall, too small to appear on the map) is covered with **old hangings**, behind which lies a trap made of sharpened spring-loaded stakes (the lever that controls them is near the throne).
 - If the trap is tested, the abominations first take down the hangings to preserve them, then afterwards spend time re-arming the device
 - The throne room itself is rather plain, apart from a heavy **wooden throne, a large standing mirror,** schoolbooks, and a few old games
 - A big chest contains the **recent loot**, to be sold off (weapons, armour, a few jewels and clothes)
@@ -336,7 +336,7 @@ Day 3 - morning
 
 - Interactions:
 
-  - He climbs up the cliff through underground tunnels
+  - He climbs up the cliff through underground tunnels, which come out in the forest (they do not appear on the map)
   - He calls the carcasses with a **whistle** from the forest, then only if necessary goes to the garrison himself (reluctantly)
   - To pass on to the keep: a small military camp and an observation turret have been set up on a hill on the other side of the forest, so the keep is now being spied on, and he no longer wants to be seen there; he has left his **Zeppelin** far away, at the port, so as not to arouse suspicion; he suggests going to negotiate with these soldiers just in case.
   - He delivers a load of 2 small casks of **black powder**, a can of liquid pitch, a crate of oddly shaped metal parts, and spyglass lenses (fragile).
