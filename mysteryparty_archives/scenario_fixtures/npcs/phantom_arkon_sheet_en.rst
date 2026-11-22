@@ -96,4 +96,6 @@ If the villain is unmasked, and the players manage to complete a ritual to expel
 
 You then step in to finish the battle, to music, with the help of the Diakons; the choreography of this final scene must be well rehearsed beforehand, with the Game Master.
 
+Once the ritual is complete, you proclaim victory, and call all the Diakons around you for a few final repetitions of the ritual incantation. Then you break away from them to proclaim, authoritatively pointing out the centre of the pentacle to your adversary: **"Per Horus et per Ra, per solem invictus, duceres <name of the villain>, ACTA EST FABULA"** (the Game Master gives you this name during the rehearsal). The villain is then drawn to the pentacle, and dies there.
+
 
