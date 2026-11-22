@@ -125,7 +125,7 @@ The burgomaster's daughter immediately seizes on this rockfall catastrophe by en
 
 In the process, Josephine brings back from the city a faithful ally from the start of her career, the witcher Abelard. He has a well-oiled plan to follow:
 
-- kill the alchemist, retrieve the compromising writings, but leave the rest in place
+- kill the alchemist, retrieve the compromising writings (as well as the metal casket, and a few valuables to hand back to the village as a show of probity), but leave the tower standing (the manuscripts left there will help to expose the burgomaster)
 - put himself forward as a potential successor to the burgomaster, and thus trigger a split in the village
 - help the villagers discover the burgomaster's manipulation (e.g. the alchemist's manuscripts, then information about the Enchantress Dorina), or if necessary have him accused of "attempted murder out of jealousy" against his own person as a witcher
 - have the burgomaster imprisoned or banished from the village

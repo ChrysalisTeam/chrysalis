@@ -125,7 +125,7 @@ La fille du bourgmestre rebondit immédiatement sur cette catastrophe des éboul
 
 Dans la foulée, Joséphine ramène de la ville un fidèle allié de son début de carrière, le sorceleur Abélard. Celui-ci a un plan bien rodé à suivre :
 
-- tuer l'alchimiste, récupérer les écrits compromettants, mais laisser le reste en place
+- tuer l'alchimiste, récupérer les écrits compromettants (ainsi que le coffret métallique, et quelques richesses à restituer au village pour faire montre de probité), mais laisser la tour debout (les manuscrits qui y restent serviront à confondre le bourgmestre)
 - se proposer en successeur potentiel du bourgmestre, et déclencher ainsi une scission du village
 - aider à ce que les villageois découvrent la manipulation du bourgmestre (ex. des manuscrits de l'alchimiste, puis des informations sur l'Enchanteresse Dorina), ou au besoin le faire accuser de "tentative de meurtre par jalousie" sur sa personne de sorceleur
 - faire emprisonner ou bannir le bourgmestre du village
