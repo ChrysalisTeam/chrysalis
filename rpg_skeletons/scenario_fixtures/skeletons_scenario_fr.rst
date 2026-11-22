@@ -82,7 +82,7 @@ La forêt bubonique
 ---------------------
 
 - Une mince plage en bas de la falaise (difficilement accessible), où se trouve un **petit voilier** (appartenant au donjon)
-- Forêt dense et dangereuse, une seule piste, passant par un **nid de rats musqués** à 200m de la garnison
+- Forêt dense et dangereuse, une seule piste, passant par un **nid de rats musqués** à 200m de la garnison (dans la forêt, il ne figure pas sur le plan)
 - Des rats guetteurs surveillent la forêt et le donjon, ils communiquent de proche en proche par piaillements
 - Ils sonnent un **olifant** pour avertir le donjon des dangers (de 1 à 5 coups selon la gravité, 5 pour une attaque gravissime)
 - Ils vont chercher leur Marquis si les squelettes arrivent

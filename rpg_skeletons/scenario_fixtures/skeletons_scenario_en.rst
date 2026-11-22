@@ -82,7 +82,7 @@ The Bubonic Forest
 ---------------------
 
 - A narrow beach at the foot of the cliff (hard to reach), where a **small sailing boat** (belonging to the keep) lies
-- Dense and dangerous forest, a single trail, passing by a **muskrat nest** 200 m from the garrison
+- Dense and dangerous forest, a single trail, passing by a **muskrat nest** 200 m from the garrison (in the forest, it does not appear on the map)
 - Lookout rats watch over the forest and the keep; they relay messages to one another by squeaking
 - They sound an **oliphant** to warn the keep of dangers (1 to 5 blasts depending on the severity, 5 for an extremely serious attack)
 - They go and fetch their Marquis if the skeletons come
