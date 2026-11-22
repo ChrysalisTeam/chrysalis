@@ -97,7 +97,7 @@ Curator: put on the spot by the revelations about his timetable, thrown off bala
 
 Treasure: probable opening of the chest's padlock, and examination of its contents (curse tablet and cryptex).
 
-Police Inspector's intervention halfway through the interview:
+Police Inspector's interventions (one third of the way through the interview with the Curator, then two thirds of the way through it with the Guide, since they are in two different rooms):
 
 - Points out the wound on the Curator's left hand. {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
 - Accuses the Guide of having forged diplomas.
@@ -134,7 +134,7 @@ Curator: if cornered, he confesses everything, but protests that the stakes are 
 
 Treasure: probable opening of the cryptex, and study of its contents.
 
-Police Inspector's intervention halfway through the interview:
+Police Inspector's interventions (one third of the way through the interview with the Curator, then two thirds of the way through it with the Guide, since they are in two different rooms):
 
 - Comes to challenge the Curator on the fact that the letter was written with a trembling hand, hence perhaps a "wounded" one.
 - Points out the mysterious signet ring worn by the Guide (a gift from Andrea).

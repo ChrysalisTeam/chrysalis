@@ -97,7 +97,7 @@ Conservateur : mis en difficulté par les révélations sur son emploi du temps,
 
 Trésor : ouverture probable du cadenas du coffret, et observation de son contenu (tablette de défixion et cryptex).
 
-Intervention de l'inspecteur de police à la moitié de l'entretien :
+Interventions de l'inspecteur de police (au premier tiers de l'entretien auprès du Conservateur, puis aux deux tiers auprès du Guide, car ils sont dans deux salles différentes) :
 
 - Met en évidence la blessure à la main gauche du Conservateur. {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
 - Accuse le Guide d'avoir fabriqué de faux diplômes.
@@ -134,7 +134,7 @@ Conservateur : si coincé, il avoue tout, mais s'insurge sur le fait que les enj
 
 Trésor : ouverture probable du cryptex, et étude de son contenu.
 
-Intervention de l'inspecteur de police à la moitié de l'entretien :
+Interventions de l'inspecteur de police (au premier tiers de l'entretien auprès du Conservateur, puis aux deux tiers auprès du Guide, car ils sont dans deux salles différentes) :
 
 - Vient challenger le conservateur sur le fait que la lettre a été écrite d'une main tremblante, donc peut-être "blessée".
 - Met en évidence la chevalière mystérieuse portée par le Guide (offerte par Andréa).
