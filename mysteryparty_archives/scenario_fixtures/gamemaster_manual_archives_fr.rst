@@ -777,7 +777,7 @@ Le cadavre du mage gît allongé là, dans l'aube papale dorée.
 
 Si un non-Parcival fait partie du groupe des téléportés (voir leurs habits de reconnaissance), cela déclenche une malédiction : la momie du mage se lève, et pourchasse (en marchant lentement, comme un zombie) l'intrus, qui doit l'esquiver jusqu'à ce que le téléporteur lui permette de sortir, sous peine de mourir. La momie retourne ensuite à sa place. {% xfact "magus_mos_peratys_tomb_kills_non_heir_intruders" %} {% xfact "phantoms_are_persistent_but_zombies_are_transient" %}
 
-Lorsqu'il n'y a pas de non-Parcival dans le tombeau, la momie ne bouge absolument pas, mais sa simple présence suffit à stresser les joueurs, tandis qu'ils lui piquent ses ornements légendaires.
+Lorsqu'il n'y a pas de non-Parcival dans le tombeau, la momie ne bouge absolument pas, mais sa simple présence suffit à stresser les joueurs, tandis qu'ils lui piquent ses ornements légendaires. Exception : si les joueurs **malmènent la momie** en la fouillant (en la bousculant, en la retournant, en lui arrachant brutalement ses ornements), elle se lève et pourchasse de la même façon le plus brutal d'entre eux, même s'il est un Parcival ; prélever délicatement ses ornements ne la réveille pas.
 
 {% endmacro %}
 <{ magus_zombie_instructions }/>

@@ -777,7 +777,7 @@ The Magus's corpse lies stretched out there, in his golden papal alb.
 
 If a non-Parcival is part of the teleported group (see their identifying garments), this triggers a curse: the Magus's mummy rises, and chases (walking slowly, like a zombie) the intruder, who must dodge it until the teleporter lets them out, on pain of death. The mummy then returns to its place. {% xfact "magus_mos_peratys_tomb_kills_non_heir_intruders" %} {% xfact "phantoms_are_persistent_but_zombies_are_transient" %}
 
-When there is no non-Parcival in the tomb, the mummy does not move at all, but its mere presence is enough to unnerve the players, while they pinch its legendary ornaments.
+When there is no non-Parcival in the tomb, the mummy does not move at all, but its mere presence is enough to unnerve the players, while they pinch its legendary ornaments. Exception: if the players **mistreat the mummy** while searching it (jostling it, turning it over, roughly tearing off its ornaments), it rises and chases the roughest of them in the same way, even a Parcival; carefully taking its ornaments does not wake it.
 
 {% endmacro %}
 <{ magus_zombie_instructions }/>
