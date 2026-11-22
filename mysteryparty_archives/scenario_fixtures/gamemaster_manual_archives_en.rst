@@ -274,7 +274,7 @@ These 3 monks officiate in the worship of the god {% symbol "Bahamoot" for "god_
 Their abilities are oriented towards theology and esotericism.
 
 {% macro diakon_group_symbols() %}
-The identifying garment of the Diakons of {% symbol "Bahamoot" for "god_of_diakons" %} is a **purple stole** (a scarf worn across the chest).
+The identifying garment of the Diakons of {% symbol "Bahamoot" for "god_of_diakons" %} is a **violet stole** (a scarf worn across the chest).
 
 Unless specifically instructed otherwise, during rituals and processions, the Diakons keep their hands joined by the fingertips, palms apart, as if holding a globe between them; this is their prayer sign. When moving in procession, they drone a slow, guttural **"ohhhhm" sound**.
 

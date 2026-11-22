@@ -158,7 +158,7 @@ At the start of the evening, you will really be playing automatons. Very plain, 
 
 You may watch the game's introduction from a distance, then you will go about automaton business in the library (dusting, serving, greeting visitors arriving on the premises...), keeping a very mechanical gait and voice. Do not concern yourselves with the characters already present on site, nor with the phantoms.
 
-When you meet the Diakons of {% symbol "Bahamoot" for "god_of_diakons" %} (who wear a purple stole), it is assumed that the mice escape from their satchel, and each go and take control of an automaton, thereby endowing it with an almost human personality.
+When you meet the Diakons of {% symbol "Bahamoot" for "god_of_diakons" %} (who wear a violet stole), it is assumed that the mice escape from their satchel, and each go and take control of an automaton, thereby endowing it with an almost human personality.
 
 From then on, you are part of the world of the living of Pangea, so you become vulnerable to everything a human would fear (in particular wandering phantoms), and you are subject to the rules of the {% symbol "Oath of Zarathustra" for "unbreakable_oath_name" %}. You keep a somewhat mechanical demeanour, since your body is made that way.
 

@@ -15,7 +15,7 @@ Here you are, weightless, sucked in by a whirlwind towards the depths of the ear
 But in the midst of this tumult, you glimpse other silhouettes around you, **open your eyes wide**!
 You do not know what brings these people here, but one thing is certain: today, destiny has brought you together.
 
-You recognise Diakons, by their purple stole
+You recognise Diakons, by their violet stole
 You recognise archaeologists, by their beige belt
 You recognise soldiers, by their green armband
 And finally, the famous Parcival lineage, by their blue jabot
