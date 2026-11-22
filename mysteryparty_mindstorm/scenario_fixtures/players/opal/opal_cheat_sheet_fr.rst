@@ -25,6 +25,15 @@
 - un internaute de pseudo "Garnet" a tenté, sans succès, d'embaucher un pickpocket pour spolier Loyd Georges  {% xfact 'garnet_attempts_lg_pickpocketing' %}
 {% endif %}
 
+- l'avant-veille, le laboratoire biochimique d'Alifir vous a appris que vos antihistaminiques contenaient des molécules "myotoxiques", qui détruisent les muscles ; et vous avez découvert que plusieurs collectionneurs d'antiquités akarites étaient morts prématurément ou avaient été assassinés, sans doute par une confrérie de fanatiques {% xfact 'opal_and_others_were_targeted_by_sect' as author %}
+- Lydia et Khaal étaient partis pour une {% symbol "thalassothérapie dans les monts brumeux (près de la frontière Est de Sabarim)" for "khaal_isildis_location" %}, avec une cousine de votre femme
+
+- la veille :
+
+  - vers {% symbol "12h30" for "noon_opal_lydia_call_time" %}, Lydia vous a appelé pour vous annoncer qu'elle participerait finalement à la soirée de Loyd Georges, pour y "vendre un de ses vieux terrains"
+  - vous êtes sorti en cab' à {% symbol "14h45" for "afternoon_opal_departure_time" %}, méconnaissable (moustache postiche, binocles factices), pour flâner dans le centre de Salima puis au café-théâtre "Aux Lucioles Salimiennes"
+  - rentré en taxi vers {% symbol "21h30" for "evening_opal_return_time" %}, vous vous êtes endormi avec un comprimé de somnifère {% xfact "opal_alibi_is_average" as author %}
+
 
 <{ title_last_minute_information }/>
 =========================================================

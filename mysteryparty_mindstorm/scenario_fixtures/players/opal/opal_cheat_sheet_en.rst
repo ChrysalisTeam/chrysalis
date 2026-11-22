@@ -25,6 +25,15 @@
 - a web user with the pseudonym "Garnet" tried, unsuccessfully, to hire a pickpocket to rob Loyd Georges  {% xfact 'garnet_attempts_lg_pickpocketing' %}
 {% endif %}
 
+- two days before, the Alifir biochemistry laboratory told you that your antihistamines contained "myotoxic", muscle-destroying molecules; and you discovered that several collectors of Akarith antiquities had died prematurely or been murdered, probably by a brotherhood of fanatics {% xfact 'opal_and_others_were_targeted_by_sect' as author %}
+- Lydia and Khaal had left for a {% symbol "thalassotherapy stay in the misty mountains (near the eastern border of Sabarim)" for "khaal_isildis_location" %}, with a cousin of your wife's
+
+- the day before:
+
+  - at around {% symbol "12:30" for "noon_opal_lydia_call_time" %}, Lydia called you to announce that she would after all attend Loyd Georges' evening, to "sell one of her old plots of land" there
+  - you went out by cab at {% symbol "14:45" for "afternoon_opal_departure_time" %}, unrecognisable (false moustache, fake spectacles), to stroll around Salima city centre and then the cafe-theatre "Aux Lucioles Salimiennes"
+  - back by taxi at around {% symbol "21:30" for "evening_opal_return_time" %}, you fell asleep with a sleeping tablet {% xfact "opal_alibi_is_average" as author %}
+
 
 <{ title_last_minute_information }/>
 =========================================================
