@@ -143,7 +143,7 @@ Médias d'accompagnement
 ---------------------------
 
 
-Le maître du jeu doit disposer :
+Le maître de jeu doit disposer :
 
 - du diaporama contenant les plans et images des lieux visités, avec bestiaire et objets
 - des pions représentant les joueurs, les porteurs, et les ennemis
