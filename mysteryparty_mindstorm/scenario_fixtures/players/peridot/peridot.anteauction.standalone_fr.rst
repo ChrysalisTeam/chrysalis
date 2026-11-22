@@ -3,7 +3,7 @@
 <{ title_your_intervention }/>
 ================================
 
-Le service d'espionnage dorien, auquel vous appartenez, vous a envoyé enquêter sur les Loyd Georges, il y a plusieurs semaines de cela.
+Le service d'espionnage dorien, auquel vous appartenez, vous a envoyé enquêter sur Loyd Georges et son entourage, il y a plusieurs semaines de cela.
 
 Votre nom de code est **Peridot** ; c’est notamment le pseudo que vous utilisez pour vous connecter à votre compte sur le réseau mondial, ou pour communiquer avec votre service d’espionnage.
 

@@ -77,7 +77,7 @@ Damn Voluto, all this because of him...
 These last few days...
 ==========================
 
-To your great surprise, you recently received an insistent invitation, just like your sweetheart, to Loyd Georges' grand evening of private sales. You would have preferred to stay discreet, but Cynthia was delighted by this opportunity, and there was no question of leaving her alone. You therefore hope that all will go well, and that no one will pay attention to the discreet lab technician that you are.
+To your great surprise, you recently received an insistent invitation, just like your sweetheart, to Loyd Georges' grand evening of private sales. You would have preferred to stay discreet, but Cynthia was delighted by this opportunity, and there was no question of leaving her alone. You therefore hope that all will go well, and that no one will pay attention to the discreet laboratory assistant that you are.
 
 You spend the day before the private sales evening in your secret laboratory, studying the orb. Then on the big day, in the early afternoon, you travel up to Salima by airship; pondering all the challenges surrounding you, without finding any obvious solution... {% xfact "waden_alibi_is_revealing" as author %}
 You meet up with Cynthia in town, to go up together to Loyd Georges' manor.

@@ -14,6 +14,6 @@
 
     An informant you have in the central services of Pangeanet has passed on to you some convincing logs, showing that the hotel room of "{{character_properties.spinel.official_name}}" was also connecting to the accounts of "emilos.loakim" and "loyd.georges" [write these logs freestyle].
 
-    .. You once came across Malachite NO FALSEXXXXXXXX, who seemed to be having great fun, on a café terrace, reading a little book "Gems of Sabarith Law". With one glance through the binoculars, you were even able to read the title of the page he was on: "how to avoid questioning in police custody". But unfortunately for you, the book was out of print at the bookshop.
+    .. You once came across Malachite NO FALSEXXXXXXXX, who seemed to be having great fun, on a cafe terrace, reading a little book "Gems of Sabarith Law". With one glance through the binoculars, you were even able to read the title of the page he was on: "how to avoid questioning in police custody". But unfortunately for you, the book was out of print at the bookshop.
 
 #}
