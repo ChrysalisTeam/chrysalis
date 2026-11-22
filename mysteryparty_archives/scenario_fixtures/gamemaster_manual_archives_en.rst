@@ -1380,6 +1380,8 @@ He created the Maupertuis family castle, the buried library, as well as the netw
 
 He died suddenly during great festivities, as he approached the age of 50, choking on a peach stone. He had not yet passed on his most important secrets to his heirs.
 
+Ancient texts often nickname him the **Dark Magus**; long after his death, some mages still called themselves his "apprentices". The prophetess **Cassandra**, whose hologram can appear in the Forbidden Domain, is one of his distant descendants.
+
 His relatives buried him hastily in a room adjoining the library, in his festive robe, without daring to risk triggering some curse by laying out his body. In particular, as proud as he was of his lineage, the Magus was equally **hateful** towards the "rabble" uninitiated in the magical arts, and legend has it that his grave still resonates with this feeling. {% xfact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
 Since then, each generation of Maupertuis has added its own layer of protections to his tomb, so that no **stranger** ever violates the burial place of this venerable forefather, nor any of the dangerous mysteries he took with him to the grave. To this day, no guild of mages on the planet would probably be capable of breaking so many accumulated bewitchments. But perhaps it is possible to get in by roundabout means, who knows? {% xfact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}

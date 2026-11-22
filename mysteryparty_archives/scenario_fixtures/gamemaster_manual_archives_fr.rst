@@ -1380,6 +1380,8 @@ Il a créé le château familial des Maupertuis, la bibliothèque enfouie, ainsi
 
 Il est mort brusquement lors de grandes festivités, à l'approche de ses 50 ans, en s'étouffant avec un noyau de pêche. Il n'avait pas encore transmis à ses héritiers ses plus importants secrets.
 
+Les textes anciens le surnomment souvent le **Mage Sombre** ; longtemps après sa mort, certains magiciens se disaient encore ses "apprentis". La prophétesse **Cassandra**, dont l'hologramme peut apparaitre dans le domaine interdit, est une de ses lointaines descendantes.
+
 Ses proches l'ont enterré à la va-vite dans une salle jouxtant la bibliothèque, dans sa robe de fêtes, sans oser risquer de déclencher quelque malédiction en le toilettant. En particulier, autant il était très fier de sa lignée, autant le mage était **haineux** envers la "piétaille" non-initiée aux arts magiques, et la légende raconte que sa tombe résonne encore de ce sentiment. {% xfact "magus_mos_peratys_tomb_kills_non_heir_intruders" %}
 
 Depuis, chaque génération de Maupertuis ajoute sa propre surcouche de protections à son tombeau, afin que nul **étranger** ne viole jamais la sépulture de ce vénérable aïeul, ni aucun des dangereux mystères qu'il a emportés dans la tombe. À ce jour, aucune guilde de mages sur la planète ne serait probablement capable de briser autant d'envoutements accumulés. Mais peut-être qu'il est possible d'y entrer par des moyens détournés, qui sait ? {% xfact "magus_mos_peratys_tomb_is_extremly_well_sealed" %}
