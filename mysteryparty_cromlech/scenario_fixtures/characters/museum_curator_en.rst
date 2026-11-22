@@ -48,7 +48,7 @@ His intrusion, his nerve, his verbal aggression made you lose your composure. Yo
 
 When you came to your senses, the young man lay in front of the artefacts, in a pool of blood. {% symbol "Olloudios" for "spectre_name" %} appeared to you, and dictated the course to follow:
 
-- Bandage your bloodied left wrist, and hide it under a black glove; {% xitem "bandage sanglant au poignet pour le conservateur" is needed %}
+- Bandage your bloodied left wrist, and hide it under a black glove; {% xitem "bandage sanglant au poignet pour le conservateur" is needed %} {% xitem "gant noir pour le conservateur" is needed %}
 - Clean the gladius and put it back in its place;
 - Place the revolver in Andrea's left hand (for Andrea was left-handed!);
 - Write a fake farewell letter in his name (with the left hand again - ouch);

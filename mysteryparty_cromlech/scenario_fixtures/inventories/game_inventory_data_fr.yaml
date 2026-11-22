@@ -11,6 +11,7 @@
   - '{% item "Glaive romain pour l''apparition finale d''Andrea" is provided %} (réplique, à cacher avec l''interprète d''Andrea) IMPORTANT'
   - 'Tatouages-éclair pour maquiller les psykers en fin de jeu'
   - 'Nappes et lanternes pour l''ambiance'
+  - '{% item "Gant noir pour le conservateur" is provided %} (pour cacher son bandage)'
 
 "Trésor du musée":
   - '{% item "Maquette de Cromlech et de portail magique " is provided %} IMPORTANT'
@@ -25,3 +26,13 @@
   - '{% item "Cryptex contenant le parchemin médiéval" is provided %}, et ayant pour code "{% symbol "secret" for "code_du_cryptex" %}" IMPORTANT'
   - '{% item "Papier avec les symboles de la mythologie gauloise" is provided %} (1 exemplaire au Trésor, plus 1 par groupe pour l''interlude) IMPORTANT'
   - '{% item "Lettre médiévale expliquant les runes du cromlech" is provided %} IMPORTANT'
+  - '{% item "Fourreau vide du glaive antique" is provided %}, posé avec l''armure'
+  - '{% item "Tache de sang séché au sol, sous un fauteuil déplacé" is provided %} (tache factice près des artefacts)'
+  - '{% item "Revolver où il manque une balle" is provided %} (factice, à cacher derrière un tas de livres de la salle du Trésor, pour le complément #3)'
+  - '{% item "Bobine Tesla et son aiguille" is provided %}, dans la maquette de Cromlech (aiguille à mettre pendant les conciliabules finaux) IMPORTANT'
+  - '{% item "Smartphone avec la vidéo de vortex" is provided %}, à placer dans la porte de la maquette avant le 4e entretien IMPORTANT'
+
+"Maître du jeu":
+  - '{% item "Gong" is provided %} pour la fin des entretiens IMPORTANT'
+  - '{% item "Bande son finale et enceinte" is provided %} IMPORTANT'
+  - '{% item "Enveloppe non timbrée avec message codé, contenant la fausse lettre d''adieux" is provided %} (lettre écrite de la main gauche ; l''inspecteur la montre avec le complément #2)'

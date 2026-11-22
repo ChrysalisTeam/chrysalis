@@ -12,7 +12,7 @@ NPC ACTORS' Briefing
 - Explain the appearance of ANDREA, the Hero (see the GM manual), so that they all describe him in the same way
 - Explain the rotation order of the player groups
 - Remind each of them of their attitude over the interviews, and of their role in the final scene: side, sign, slogan and cue (see their sheets)
-- Explain the end-of-interview GONG
+- Explain the end-of-interview GONG {% xitem "gong" is needed %}
 - Explain where to take them between each session
 
 
@@ -58,7 +58,7 @@ Initial Investigation Report
 -----------------------------
 
 - Identity sheets of the witnesses in the case.
-- First findings made on the premises: available access routes, bloodstain, disappearance of the ancient gladius.
+- First findings made on the premises: available access routes, bloodstain, disappearance of the ancient gladius. {% xitem "tache de sang séché au sol, sous un fauteuil déplacé" is needed %} {% xitem "fourreau vide du glaive antique" is needed %}
 
 
 First Simultaneous Interview
@@ -113,7 +113,7 @@ Second Investigation Update
 
 - Analysis report obtained by Andrea and the Reporter, certifying that the gladius was a genuine antiquity.
 - Discovery of the Curator's liturgical paraphernalia, and of a clue to the cryptex code.
-- Discovery of the (fake) farewell letter mistakenly put in the Lost and Found by the Guide.
+- Discovery of the (fake) farewell letter mistakenly put in the Lost and Found by the Guide. {% xitem "enveloppe non timbrée avec message codé, contenant la fausse lettre d'adieux" is needed %}
 
 
 INTERLUDE: Professor Gustave Bloch's History Lesson
@@ -155,12 +155,12 @@ Police Inspector's interventions (one third of the way through the interview wit
 Third and Final Investigation Update
 ------------------------------------------------
 
-- Discovery of a revolver (with one bullet missing), bearing fingerprints, in the Treasure Room.
+- Discovery of a revolver (with one bullet missing), bearing fingerprints, in the Treasure Room. {% xitem "revolver où il manque une balle" is needed %}
 - Vibrations set off on the museum's fake grimoire.
 - Feedback from the Cromlech regulars about their nightmares.
 - Andrea's call to his allies, via a message scrawled on the envelope found on the floor.
 
-**LOGISTICS: slip the extra parchment (document "andrea_message_in_grimoire") under the cover of the Grimoire, and start the vortex video in the door of the miniature cromlech** {% xitem "message d'Andrea apparu dans le grimoire" is needed %}
+**LOGISTICS: slip the extra parchment (document "andrea_message_in_grimoire") under the cover of the Grimoire, and start the vortex video in the door of the miniature cromlech** {% xitem "message d'Andrea apparu dans le grimoire" is needed %} {% xitem "smartphone avec la vidéo de vortex" is needed %}
 
 
 Fourth Simultaneous Interview
@@ -191,7 +191,7 @@ Everyone gathers **OUTSIDE the Treasure Room**.
 - All the "psykers" are gathered and briefed by the Druid: they are now like zombies, subjected to his druidic will, and will be his accomplices in the final scene (with **quick make-up** simulating demonic possession). From now on they must walk slowly, occasionally stammer unintelligible things, and follow the Druid's orders. {% xfact "le druide envoûte les psykers à la fin du jeu" %}
 - The rest of the players stay and talk among themselves.
 
-**LOGISTICS: Remove the smartphone from the door of the miniature cromlech (safety) and fit the needle of the Tesla coil.**
+**LOGISTICS: Remove the smartphone from the door of the miniature cromlech (safety) and fit the needle of the Tesla coil.** {% xitem "bobine Tesla et son aiguille" is needed %}
 
 
 Final Scene
@@ -199,7 +199,7 @@ Final Scene
 
 - The players are called back to the **Treasure**.
 - Meanwhile the Druid nudges the **zombie psykers** to return, rather discreetly, to their groups.
-- The final soundtrack is started, the cromlech begins to **crackle** from time to time.
+- The final soundtrack is started, the cromlech begins to **crackle** from time to time. {% xitem "bande son finale et enceinte" is needed %}
 - 30 s after the start, the cromlech's Tesla coil also starts playing the "Dies Irae"; the **Reporter**, followed by the **Guide**, then calls on the players to join him on the **left** of the cromlech, and to make the "Centurions' Sign" with him to help Andrea (arms crossed over the chest). **Slogan to repeat: "By the Glory of Jupiter".**
 - 12 s later, when the Tesla coil takes up the "Dies Irae" again, it is the turn of the **Druid** (now in broken English), followed by the **Curator**, to urge the players to join him on the **right** of the cromlech, and to make the "Druids' Sign" with him (forming a menhir shape with the arms and hands) to save the Druids' Last Wish. The zombie psykers follow his orders. **Slogan to repeat: "By the Might of Toutatis".**
 - The cromlech calms down but the music goes on; both camps must keep up their slogans.

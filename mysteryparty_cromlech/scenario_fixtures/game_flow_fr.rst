@@ -12,7 +12,7 @@ Briefing des FIGURANTS
 - Expliquer l'apparence d'ANDREA, le Héros (voir le manuel du MJ), pour que tous le décrivent de la même façon
 - Expliquer l'ordre de rotation des groupes de joueurs
 - Rappeler à chacun son attitude au fil des entretiens, et son rôle dans la scène finale : camp, signe, slogan et moment où il intervient (voir leurs fiches)
-- Expliquer le GONG de fin d'interrogatoire
+- Expliquer le GONG de fin d'interrogatoire {% xitem "gong" is needed %}
 - Expliquer où les amener entre chaque séance
 
 
@@ -58,7 +58,7 @@ Rapport d'enquête initial
 --------------------------
 
 - Fiches d'identification des témoins de l'affaire.
-- Premiers relevés faits sur les lieux : voies d'accès disponibles, tache de sang, disparition du glaive antique.
+- Premiers relevés faits sur les lieux : voies d'accès disponibles, tache de sang, disparition du glaive antique. {% xitem "tache de sang séché au sol, sous un fauteuil déplacé" is needed %} {% xitem "fourreau vide du glaive antique" is needed %}
 
 
 Premier entretien simultané
@@ -113,7 +113,7 @@ Deuxième complément d'enquête
 
 - Rapport d'analyse obtenu par Andrea et le Reporter, attestant que le glaive était un vraie antiquité.
 - Découverte du matériel liturgique du Conservateur, et d'un indice sur le code du cryptex.
-- Découverte de la lettre d'adieux (factice) mise par erreur aux Objets Trouvés par le guide.
+- Découverte de la lettre d'adieux (factice) mise par erreur aux Objets Trouvés par le guide. {% xitem "enveloppe non timbrée avec message codé, contenant la fausse lettre d'adieux" is needed %}
 
 
 INTERLUDE : Leçon d'Histoire du professeur Gustave Bloch
@@ -155,12 +155,12 @@ Interventions de l'inspecteur de police (au premier tiers de l'entretien auprès
 Troisième et dernier complément d'enquête
 ------------------------------------------------
 
-- Découverte d'un pistolet (où il manque une balle), avec empreintes digitales, dans la salle du trésor.
+- Découverte d'un pistolet (où il manque une balle), avec empreintes digitales, dans la salle du trésor. {% xitem "revolver où il manque une balle" is needed %}
 - Déclenchement de vibrations sur le grimoire factice du musée.
 - Retours des habitués du Cromlech sur leurs cauchemars.
 - Appel d'Andrea à ses alliés, via un message griffonné sur l'enveloppe trouvée au sol.
 
-**LOGISTIQUE : glisser sous la couverture du Grimoire le parchemin supplémentaire (document "andrea_message_in_grimoire"), et allumer la vidéo de Vortex dans la porte du Cromlech miniature** {% xitem "message d'Andrea apparu dans le grimoire" is needed %}
+**LOGISTIQUE : glisser sous la couverture du Grimoire le parchemin supplémentaire (document "andrea_message_in_grimoire"), et allumer la vidéo de Vortex dans la porte du Cromlech miniature** {% xitem "message d'Andrea apparu dans le grimoire" is needed %} {% xitem "smartphone avec la vidéo de vortex" is needed %}
 
 
 Quatrième entretien simultané
@@ -191,7 +191,7 @@ Tout le monde se rassemble **HORS DE la salle du trésor**.
 - Tous les "psykers" sont rassemblés et briefés par le Druide : ils sont désormais comme des zombies, soumis à sa volonté de druide, et vont être ses complices dans la scène finale (avec des **maquillages rapides** simulant une possession démoniaque). Ils doivent désormais marcher lentement, parfois bégayer des choses incompréhensibles, et suivre les ordres du druide. {% xfact "le druide envoûte les psykers à la fin du jeu" %}
 - Le reste des joueurs reste à discuter ensemble.
 
-**LOGISTIQUE : Enlever le smartphone de la porte du Cromlech miniature (sécurité) et mettre l'aiguille de la bobine Tesla.**
+**LOGISTIQUE : Enlever le smartphone de la porte du Cromlech miniature (sécurité) et mettre l'aiguille de la bobine Tesla.** {% xitem "bobine Tesla et son aiguille" is needed %}
 
 
 Scène finale
@@ -199,7 +199,7 @@ Scène finale
 
 - Les joueurs sont appelés à revenir auprès du **Trésor**.
 - Le druide pousse en parallèle les **psykers zombies** à retourner, plutôt discrètement, auprès de leurs groupes.
-- La bande son finale est lancée, le Cromlech se met à **crépiter** ponctuellement.
+- La bande son finale est lancée, le Cromlech se met à **crépiter** ponctuellement. {% xitem "bande son finale et enceinte" is needed %}
 - 30s après le début, la bobine Tesla du Cromlech se met aussi à faire le "Dies Irae" en musique ; le **Reporter**, suivi par le **Guide**, appelle alors les joueurs à le rejoindre à **gauche** du Cromlech, et à réaliser le "signe des centurions" avec lui pour aider Andrea (bras croisés sur la poitrine). **Slogan à répéter : "Par la Gloire de Jupiter".**
 - 12s plus tard, à la reprise du "Dies Irae" par la bobine Tesla, c'est au tour du **Druide** (en français approximatif désormais), suivi par le **Conservateur**, à exhorter les joueurs à le rejoindre à **droite** du Cromlech, et à réaliser le "signe des druides" avec lui (réaliser une forme de menhir avec les bras et les mains) pour sauver le dernier voeu des druides. Les psyckers zombies suivent ses ordres. **Slogan à répéter : "Par la Force de Toutatis".**
 - Le Cromlech se calme mais la musique continue, les deux camps doivent continuer leurs slogans.

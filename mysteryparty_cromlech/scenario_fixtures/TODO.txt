@@ -1,7 +1,6 @@
 A AJOUTER POUR LES JOUEURS :
 (pour aider l'enquête)
 
-FAIRE TACHE DE SANG, ET LETTRE AVEC ENVELOPPE+CODE
 
 
 DIRE groupes JOUEURS PAS ENNEMIS DANS cromlech
@@ -21,14 +20,12 @@ Les point d l'affaire sur lesquels il nous faut au plus vite investiguer :
 
 
 
-- AJouter en INVENTAIRE le portable avec VORTEX
 
 
 TODO FICHES:
 Ajouter des insctructions pour le druide, ses interactions avec le Conservateur au début du jeu, sa surprise d'être visible des joueurs !!! done
 
 
-gant noir, bandage,
 
 amener papiers et sylos pour joueurs
 
