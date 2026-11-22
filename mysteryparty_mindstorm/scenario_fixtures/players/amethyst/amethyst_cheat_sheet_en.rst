@@ -37,6 +37,7 @@
 
   - you offered a sealed bottle of blue digestive liqueur to Loyd Georges, during the interview at {% symbol "11:00" for "lg_meeting_time_for_amethyst" %}, but learned nothing from it {% xfact 'amethyst_offers_liquor_to_lg' as author %}
   - then you disabled the surveillance cameras to explore the manor {% xfact 'amethyst_disabled_surveillance_cameras' as author %}
+  - at 12:00, through a wall, you heard Shark questioning Loyd Georges about an individual disguised as a delivery man, who came early in the morning to bring him news of his friend Professor Loakim
   - you ran into {{character_properties.malachite.official_name}} hiding in the pantry {% xfact 'amethyst_and_malachite_locked_in_pantry' as author %}
   - you retrieved a letter for Loyd Georges, but lost his thin brown parcel on your way out {% xfact 'amethyst_has_stolen_manor_letter' as author %} {% xfact 'amethyst_has_lost_thin_manor_parcel' as author %} {% xitem "stolen_manor_letter_for_amethyst" is needed %}
   - after fruitless investigations, you went to bed very early on the {% symbol "8th floor of the SalimaGlobeCenter Hotel" for "amethyst_hostel_room" %} {% xfact "amethyst_alibi_is_void" as author %}

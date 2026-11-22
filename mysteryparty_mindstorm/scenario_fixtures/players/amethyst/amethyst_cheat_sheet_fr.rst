@@ -37,6 +37,7 @@
 
   - vous avez offert une bouteille de liqueur digestive bleue cachetée à Loyd Georges, lors de l'entretien à {% symbol "11h" for "lg_meeting_time_for_amethyst" %}, mais n'y avez rien appris {% xfact 'amethyst_offers_liquor_to_lg' as author %}
   - puis vous avez désactivé les caméras de surveillance pour explorer le manoir {% xfact 'amethyst_disabled_surveillance_cameras' as author %}
+  - à 12h, à travers un mur, vous avez entendu Shark questionner Loyd Georges sur un individu grimé en livreur, venu tôt le matin lui apporter des nouvelles de son ami le professeur Loakim
   - vous avez croisé {{character_properties.malachite.official_name}} caché dans le garde-manger {% xfact 'amethyst_and_malachite_locked_in_pantry' as author %}
   - vous avez récupéré une lettre pour Loyd Georges, mais perdu son fin colis marron en repartant {% xfact 'amethyst_has_stolen_manor_letter' as author %} {% xfact 'amethyst_has_lost_thin_manor_parcel' as author %} {% xitem "stolen_manor_letter_for_amethyst" is needed %}
   - après des investigations infructueuses, vous rentrez vous coucher très tôt au {% symbol "8e étage de l'Hotel SalimaGlobeCenter" for "amethyst_hostel_room" %} {% xfact "amethyst_alibi_is_void" as author %}
