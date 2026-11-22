@@ -483,6 +483,7 @@ Young SAPHIR was therefore quickly rejected by the rest of the village, and cons
 So Colbert sold everything and left the village.
 He changed his name to "Parcival", like his grandmother.
 With SAPHIR, he invented the story of a "silk Moses basket, guarded by a pack of wolves".
+He nevertheless tenderly called her his "Pearl of Sylvorann", so that she would stay proud, despite everything, of the village where she was born; the nickname stuck at the keep, where Magus Childeric made it the rallying cry of its defences, inscribed in the ritual of the tree of life (hence the carcasses' instinct). At the keep, everyone thus knows that she comes from Sylvorann, but nobody knows about the cesspit.
 But nowhere were he and his daughter welcome.
 
 The new Parcival developed his mediumistic gifts to guide their way, thus becoming a magus.

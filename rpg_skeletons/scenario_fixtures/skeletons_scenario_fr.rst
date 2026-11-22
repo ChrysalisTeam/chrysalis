@@ -483,6 +483,7 @@ La jeune SAPHIR a donc vite été rejetée par le reste du village, et constamme
 Alors Colbert a tout vendu et quitté le village.
 Il a changé de nom pour s'appeler désormais "Parcival" comme sa grand-mère.
 Il a inventé avec SAPHIR l'histoire d'un "couffin de soie, gardé par une meute de loups".
+Il l'appelait pourtant tendrement sa "Perle de Sylvorann", pour qu'elle reste fière, malgré tout, du village où elle est née ; le surnom est resté au donjon, où le mage Childéric en a fait le mot de ralliement de ses défenses, inscrit dans le rituel de l'arbre de vie (d'où l'instinct des carcasses). Au donjon, on sait donc qu'elle vient de Sylvorann, mais on ignore tout du purinoir.
 Mais nulle part, lui et sa fille n'étaient les bienvenus.
 
 Le nouveau Parcival a développé ses dons médiumniques pour guider leur route, devenant ainsi un mage.
