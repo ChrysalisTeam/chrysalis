@@ -135,13 +135,14 @@ messaging:
 
         -   "id": jungle_harmony_album_announce
             "body": |
-                La gazette de Sabrim est heureuse de vous présenter, en exclusivité, la dernière création de l'étoile
+                La gazette de Sabarim est heureuse de vous présenter, en exclusivité, la dernière création de l'étoile
                 montante de la création musicale, Claudia Pason.
 
                 Native d'Alifir, Claudia écume depuis plusieurs année Kéroskia, en quête de sonorités hybrides.
                 Après son passage dans le désert de sel près de Meelish, voici qu'elle s'aventure plus au nord,
                 pour son prochain album Harmonies Jungliennes. Un album qui, une nouvelle fois, mêle instruments
-                traditionnels et prises de son en milieu sauvage.
+                traditionnels et prises de son en milieu sauvage. Les lieux de prise de son de son premier morceau,
+                dans la jungle de Kamilia, sont détaillés dans notre article encyclopédique sur Harmonies Jungliennes.
 
                 .. embed_audio:: [GAME_FILE_URL "audio/musics/Journey in keroskian jungle.mp3"]
             "categories":
@@ -157,4 +158,88 @@ messaging:
                 Harmonies Jungliennes - Preview
 
 
+        # QUEST FOR THE GAMMA ORB (see the GM manual) #
+
+        -   id: gamma_villager_tale
+            gamemaster_hints: "Orbe Gamma : rapport des mercenaires envoyés au dernier village avant la jungle de Kamilia (indice de dernier recours, contre paiement du villageois)."
+            categories: ["wigwir_orb"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Rapport - village de la lisière"
+            body: |
+
+                Cher client,
+
+                au dernier village avant la jungle, les anciens se souviennent encore de cette histoire de guerriers en fuite, poursuivis par d'autres guerriers. Aucun n'est ressorti de la jungle.
+
+                Contre quelques kashes, un vieux pêcheur nous a parlé des pygmées de la forêt : à chaque pleine lune, ils partent en canoë adorer leur dieu iguane, à une journée de rame en remontant la rivière, jusqu'au pied du "mont noir". Ils y chantent toute la nuit, à la lueur des torches, et on dit que la cascade leur répond.
+
+                Nos hommes refusent catégoriquement d'aller plus loin dans cette "jungle aux naïades chantantes". Par contre, nous pouvons vous mettre en contact avec un loueur de drones volants, capables de quadriller la zone de votre choix.
+
+                cdlt,
+
+                Les Obérons
+
+
+        -   id: gamma_taranite_camp_notes
+            gamemaster_hints: "Orbe Gamma : à envoyer (depuis le contact adéquat : supérieurs, judicateurs, Paladium...) à qui atteint le dernier campement taranite, au pied du Roc du Babouin."
+            categories: ["wigwir_orb"]
+            subject: "Le campement taranite"
+            body: |
+
+                Nos hommes ont atteint le campement taranite abandonné : quelques ossements, des armes rouillées, et une sacoche de cuir contenant les dernières notes du chef taranite, dont voici la traduction :
+
+                    *"Que les Yods soient loués, l'orbe des hérétiques est entre nos mains. Mais mes guerriers sont trop blessés pour rebrousser chemin à travers cette jungle maudite. Envoyez au plus vite une équipe de secours, avant que les fièvres ou les sauvages n'achèvent notre tâche."*
+
+                Aucune trace de l'orbe sur place, ni de sépulture pour ces guerriers. Une cage à pigeon gît, vide, à côté du message, qui n'est donc jamais parti.
+
+
+        -   id: gamma_drone_report_waterfall
+            gamemaster_hints: "Orbe Gamma : rapport du drone envoyé sur la Rivière Cascadante (la bonne zone). Il mentionne les célébrations nocturnes dont les commandos devront être avertis."
+            categories: ["wigwir_orb"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Rapport de drone - Rivière Cascadante"
+            body: |
+
+                Cher client,
+
+                le drone a survolé la zone demandée. Près de la source de la rivière, il a capté un étrange sifflement cristallin, provenant d'une caverne dissimulée derrière une cascade (voir le cliché ci-dessous). A la tombée de la nuit, de nombreuses torches et des chants rythmés ont été repérés aux abords de la caverne.
+
+                .. image:: [GAME_THUMBNAIL_URL "images/locations/pygmea_forest_hud.png" "big_width"]
+                    :align: center
+
+                cdlt,
+
+                Les Obérons
+
+
+        -   id: gamma_drone_report_echo
+            gamemaster_hints: "Orbe Gamma : rapport du drone envoyé sur la Vallée du Souffle (le chant n'y est qu'un écho, venu de la Rivière Cascadante voisine)."
+            categories: ["wigwir_orb"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Rapport de drone - Vallée du Souffle"
+            body: |
+
+                Cher client,
+
+                le drone a quadrillé toute la vallée sans rien repérer d'anormal à l'image. Les micros ont bien capté, par moments, un faible sifflement cristallin, mais il semblait porté par le vent, depuis le sud de la vallée.
+
+                cdlt,
+
+                Les Obérons
+
+
+        -   id: gamma_drone_report_nothing
+            gamemaster_hints: "Orbe Gamma : rapport du drone envoyé sur toute autre zone de la jungle."
+            categories: ["wigwir_orb"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Rapport de drone"
+            body: |
+
+                Cher client,
+
+                le drone a quadrillé la zone demandée : de la jungle, des oiseaux, quelques singes, mais aucune anomalie visuelle ou sonore.
+
+                cdlt,
+
+                Les Obérons
 

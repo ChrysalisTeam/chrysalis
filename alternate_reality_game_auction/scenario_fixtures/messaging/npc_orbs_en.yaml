@@ -142,7 +142,8 @@ messaging:
                 A native of Alifir, Claudia has been roaming Keroskia for several years in search of hybrid sounds.
                 After her stay in the salt desert near Meelish, she is now venturing further north
                 for her next album, Jungle Harmonies. An album which, once again, blends traditional
-                instruments with field recordings made in the wild.
+                instruments with field recordings made in the wild. The recording places of its first track,
+                in the Kamilia jungle, are listed in our encyclopedia article on Jungle Harmonies.
 
                 .. embed_audio:: [GAME_FILE_URL "audio/musics/Journey in keroskian jungle.mp3"]
             "categories":
@@ -158,4 +159,88 @@ messaging:
                 Jungle Harmonies - Preview
 
 
+        # QUEST FOR THE GAMMA ORB (see the GM manual) #
+
+        -   id: gamma_villager_tale
+            gamemaster_hints: "Gamma Orb: report of the mercenaries sent to the last village before the Kamilia jungle (last-resort clue, against payment of the villager)."
+            categories: ["wigwir_orb"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Report - village on the edge"
+            body: |
+
+                Dear client,
+
+                in the last village before the jungle, the elders still remember that story of warriors on the run, pursued by other warriors. None of them ever came out of the jungle.
+
+                For a few kashes, an old fisherman told us about the pygmies of the forest: at every full moon, they set off by canoe to worship their iguana god, a day's paddling upstream, up to the foot of the "black mountain". They sing there all night long, by torchlight, and it is said that the waterfall answers them.
+
+                Our men flatly refuse to go any further into this "jungle of the singing naiads". However, we can put you in touch with a hirer of flying drones, able to comb the area of your choice.
+
+                rgds,
+
+                The Oberons
+
+
+        -   id: gamma_taranite_camp_notes
+            gamemaster_hints: "Gamma Orb: to send (from the relevant contact: superiors, Judicators, Paladium...) to whoever reaches the last Taranite camp, at the foot of Baboon Rock."
+            categories: ["wigwir_orb"]
+            subject: "The Taranite camp"
+            body: |
+
+                Our men have reached the abandoned Taranite camp: a few bones, rusty weapons, and a leather satchel holding the last notes of the Taranite chief, translated below:
+
+                    *"Praise be to the Yods, the orb of the heretics is in our hands. But my warriors are too wounded to turn back through this cursed jungle. Send a rescue team as soon as possible, before fevers or savages finish us off."*
+
+                No trace of the orb on site, nor any grave for these warriors. A pigeon cage lies empty next to the message, which therefore never left.
+
+
+        -   id: gamma_drone_report_waterfall
+            gamemaster_hints: "Gamma Orb: report of the drone sent over the Cascading River (the right area). It mentions the night-time celebrations that the commandos must be warned about."
+            categories: ["wigwir_orb"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Drone report - Cascading River"
+            body: |
+
+                Dear client,
+
+                the drone flew over the requested area. Near the source of the river, it picked up a strange crystalline whistling, coming from a cave hidden behind a waterfall (see the picture below). At nightfall, many torches and rhythmic chants were spotted around the cave.
+
+                .. image:: [GAME_THUMBNAIL_URL "images/locations/pygmea_forest_hud.png" "big_width"]
+                    :align: center
+
+                rgds,
+
+                The Oberons
+
+
+        -   id: gamma_drone_report_echo
+            gamemaster_hints: "Gamma Orb: report of the drone sent over the Valley of the Breath (the song there is only an echo, coming from the neighbouring Cascading River)."
+            categories: ["wigwir_orb"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Drone report - Valley of the Breath"
+            body: |
+
+                Dear client,
+
+                the drone combed the whole valley without spotting anything unusual on camera. The microphones did pick up, at times, a faint crystalline whistling, but it seemed to be carried by the wind, from the south of the valley.
+
+                rgds,
+
+                The Oberons
+
+
+        -   id: gamma_drone_report_nothing
+            gamemaster_hints: "Gamma Orb: report of the drone sent over any other area of the jungle."
+            categories: ["wigwir_orb"]
+            sender_email: atyourservice@oberons.pg
+            subject: "Drone report"
+            body: |
+
+                Dear client,
+
+                the drone combed the requested area: jungle, birds, a few monkeys, but no visual or sound anomaly.
+
+                rgds,
+
+                The Oberons
 
