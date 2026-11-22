@@ -17,7 +17,7 @@ Présentation rapide du jeu
 Pourront-ils affronter les pièges et les créatures qu'ils rencontreront durant leur descente ?
 Mettront-ils la main sur les pierres précieuses, et les trésors archéologiques, dont parlent les textes anciens ?
 
-"Le temple de Nazur" est un jeu de rôle d'aventure-enquête exploratoire, fortement narratif et boosté au multimédia, pour 2 à 5 joueurs. Durée totale : 3h30 en moyenne.
+"Le temple de Nazur", scénario de Chrysalis:Descent, est un jeu de rôle d'aventure-enquête exploratoire, fortement narratif et boosté au multimédia, pour 2 à 5 joueurs. Durée totale : 3h30 en moyenne.
 
 
 
@@ -194,7 +194,7 @@ Caverne aquifère
 - le canal est en contrebas du reste de la caverne, bordé par **3m de pente forte** (mais escaladable) ; deux conduits y débouchent depuis l'est, sous la surface (il est possible d'y explorer, en plongée, le système de vannes décrit ci-dessous).
 - le canal est rempli de **Chlamydes, ou serpents-requins**, mais ceux-ci ont peur des lumières qui bougent ; amphibies, ils peuvent se glisser hors du canal pour chasser ; ils ont un nid (trous dans le rocher) au niveau de la face nord du canal.
 - le **pont**, qui enjambe le canal au sud de la caverne, est le seul passage à pied sec entre la partie ouest (puits d'arrivée, buttes, crevasses, tunnel du temple païen) et la partie est (monolithe, leviers, corridor de l'est, tunnel vers l'extérieur) ; il est **couvert de poix** ; la moindre étincelle y déclenche **10 minutes** d'incendie et de fumée, bloquant ce passage, et alertant la contrée environnante (cf. les alertes, dans les récapitulatifs) ; une vieille mèche semi-enterrée part de la poix, et file en direction du nord-est.
-- les **débris de bateaux et les pièces de monnaie percées**, près du canal, sont sur une corniche à **1m50 de l'eau** ; c'était un appât, destiné à faire exploser des intrus grâce au **baril de poudre noire** accolé (avec le même système de mèche que pour le pont) ; la poudre (1 kilo) est peut-être sèche (2/3 de chance).
+- les **débris de bateaux et les pièces de monnaie percées**, près du canal, sont sur une corniche à **1m50 de l'eau** ; c'était un appât, destiné à faire exploser des intrus grâce au **tonnelet de poudre noire** accolé (avec le même système de mèche que pour le pont) ; la poudre (1 kilo) est peut-être sèche (2/3 de chance).
 - un **énorme monolithe** en équilibre précaire (une stalagmite dont la base a été rabotée par des ruissellements) se trouve au centre-est de la caverne (il peut servir à écraser un ennemi en cas de combats).
 - le large corridor de l'est est **entièrement inondé sur 10m**, à cause des conduits (un large à l'est, deux plus fins à l'ouest) qui respectivement le remplissent et le vident de son eau (voir le schéma des vannes dans le diaporama : l'ouest y est à gauche, le nord en haut, et les flèches indiquent le sens de l'eau). Chaque conduit porte **2 vannes**, commandées chacune par un levier qui bascule vers l'est ou vers l'ouest, et qui est surmonté de la silhouette sculptée d'un animal. Un levier basculé vers son point cardinal d'ouverture ouvre entièrement sa vanne ; vertical, il la laisse à moitié ouverte ; basculé de l'autre côté, il la ferme. Au départ, tous les leviers sont verticaux : l'eau entre et sort au même rythme, et le corridor reste plein.
 - dans le coin nord-est se trouvent **4 grands leviers** disposés en carré, initialement verticaux : ce sont les vannes des 2 conduits de vidange, une rangée de 2 leviers par conduit (rangée nord : **antilope** puis **hirondelle** ; rangée sud : **chauve-souris** puis **lapin**). Ils correspondent à l'énigme des "êtres de l'air et de la terre" de l'archéologue : les êtres de l'air (hirondelle, chauve-souris) ouvrent leur vanne vers l'est, les êtres de la terre (antilope, lapin) vers l'ouest. Ils doivent être basculés chacun vers leur point cardinal d'ouverture, pour que l'eau puisse s'écouler davantage hors du corridor inondé. Dans la zone non inondée du corridor, à l'est (hors carte), se situent les **2 autres vannes**, celles du conduit d'arrivée (**mouche**, être de l'air, et **loup**, être de la terre), qui elles doivent être laissées telles quelles, ou basculées chacune vers leur point cardinal de fermeture (mouche vers l'ouest, loup vers l'est), pour accélérer la vidange du corridor.
@@ -262,7 +262,7 @@ Caverne du temple yodique
 - l'archéologue voit que c'est une architecture typique des temples d'une civilisation éteinte il y a mille ans
 - l'archéologue sait que le renfoncement à côté du temple est juste un ancien **socle pour des feux rituels**
 - au **sommet du portique d'entrée**, il y a une loge, dans laquelle on trouve habituellement un insigne religieux ; on peut récupérer un **crossentar**, prouvant que des fidèles yodiques ont revendiqué ce lieu pré-yodique
-- lézardes hautes et sombres sur la paroi en face du temple ; elles abritent des **chauve-souris phosphorescentes amphibies**, **espèce inconnue**, qui s'enfuient si on les dérange (elles sortent de la caverne via le canal souterrain, leur ventre lumineux fait peur aux serpents-requins) ; du **guano brun** est récupérable au sol des lézardes, à haute valeur marchande car radioactif (outre le détecteur de radioactivité, le spectromètre de masse peut le dévoiler, en détectant des atomes inhabituels)
+- lézardes hautes et sombres sur la paroi en face du temple ; elles abritent des **chauves-souris luminescentes amphibies**, **espèce inconnue**, qui s'enfuient si on les dérange (elles sortent de la caverne via le canal souterrain, leur ventre lumineux fait peur aux serpents-requins) ; du **guano brun** est récupérable au sol des lézardes, à haute valeur marchande car radioactif (outre le détecteur de radioactivité, le spectromètre de masse peut le dévoiler, en détectant des atomes inhabituels)
 
 
 Salle principale du temple pré-yodique
@@ -292,11 +292,11 @@ Saint des Saints du Temple Yodique
   - les **gros lichens** des pierres tombales, privés de lumière, y ont accumulé un **gaz toxique** et pauvre en oxygène ; il faut un peu de temps pour que **l'oxygène revienne** (les flammes, flambeaux compris, s'éteignent initialement ; l'air redevient respirable 15mn après l'ouverture, ou plus tôt si des géodes lumineuses éclairent les lichens, qui cessent alors de produire du gaz) ; sans masque pendant ce temps : vertiges et nausées (agilité et observation -1, jusqu'à ce que le personnage aille respirer ailleurs)
   - des **moisissures infectieuses** : sans masque, risque d'infection pulmonaire, qui ne se déclare qu'après plusieurs jours (ou, chez un sujet allergique, oedème immédiat de la gorge, cf. péripéties envisageables)
 
-- le Saint des Saints est plutôt sec, mais très froid, à 2-3°C, probablement à cause des nappes phréatiques alentours
+- le Saint des Saints est plutôt sec, mais très froid, à 2-3°C, probablement à cause des nappes phréatiques alentour
 - éléments principaux de gauche à droite : **des pierres tombales dressées, une statue de guerrier, un empilement d'objets, un puits, une fresque murale, une petite pagode, une table basse**
 - **important : cadavre recroquevillé**, caché par la statue de guerrier
 
-- un porteur propose de disposer des **mini-géodes** partout
+- un porteur propose de disposer des **géodes lumineuses** partout
 - détail troublant : **traces de vandalisme**, de chocs et coupures, sur les décorations murales et sur de nombreux éléments de mobilier, lorsqu'ils sont examinés ; le MJ peut faire passer cela pour d'énormes griffures ; *c'est une énigme teaser, résolue dans un jeu ultérieur*
 - si les joueurs pensent à regarder en l'air, il y a des **runes sacrées akarites** disposées aléatoirement au plafond, du côté du puits
 
@@ -334,7 +334,7 @@ Saint des Saints du Temple Yodique
 
 **Énigme lumineuse** : si on cale la lanterne de pierre dans le creux au fond du puits, qu'on y place une lumière quelconque, puis qu'on met la grille dessus, les effets d'interférence mettent en évidence certaines runes sacrées du plafond, qui forment en réalité une **prophétie razulite postérieure à la chute de Nazur** ; cette prophétie ne sera déchiffrable que par l'Académie d'Alifir, mais on y reconnait au minimum l'idéogramme des **orbes divins**.
 
-Au bout d'un moment (plus tôt, si des mini-géodes ont été disposées partout), un **sifflement étrange** se fait entendre (cf. bande-son dédiée) : le **chant de l'orbe**. Sa provenance est très difficilement trouvable à l'oreille. Il faut sonder les murs au sonar, ou utiliser le kit de micros, pour savoir quelle paroi creuser au piolet. L'orbe est bien en évidence dans sa cachette, posé sur un **lingot d'or**. Il réagit violemment (lumière et vibration) lorsqu'on veut le prendre. On peut le mettre dans de l'eau glacée (ex. un sachet étanche rempli de l'eau du puits, à 2-3°C) pour le calmer et l'emporter sans qu'il attire des zélotes akarites (cf. les alertes, dans les récapitulatifs).
+Au bout d'un moment (plus tôt, si des géodes lumineuses ont été disposées partout), un **sifflement étrange** se fait entendre (cf. bande-son dédiée) : le **chant de l'orbe**. Sa provenance est très difficilement trouvable à l'oreille. Il faut sonder les murs au sonar, ou utiliser le kit de micros, pour savoir quelle paroi creuser au piolet. L'orbe est bien en évidence dans sa cachette, posé sur un **lingot d'or**. Il réagit violemment (lumière et vibration) lorsqu'on veut le prendre. On peut le mettre dans de l'eau glacée (ex. un sachet étanche rempli de l'eau du puits, à 2-3°C) pour le calmer et l'emporter sans qu'il attire des zélotes akarites (cf. les alertes, dans les récapitulatifs).
 Localisations possibles de la cachette : derrière la petite pagode, ou derrière la fresque murale, ou sous le sol au milieu de la pièce...
 
 
@@ -353,7 +353,7 @@ Exemple de déroulement minuté
 
 - 0 : la colline est percée par l'explosion
 - 5 : arrivée au sol de la caverne aquifère
-- 70 : si les joueurs sont dans le Saint des Saints du temple, ils entendent le vrombissement de l'orbe
+- 70 : si les joueurs sont dans le Saint des Saints du temple, ils entendent le sifflement de l'orbe
 - 90 : si le varan impérial n'a pas été géré, il se réveille et intercepte les joueurs ou porteurs
 - 105 : les akarites arrivent si une alerte a été donnée avant 90 (voir ci-dessous)
 - 120 : les akarites arrivent dans tous les cas (fin de l'orage)
@@ -394,7 +394,7 @@ Les **bêtes sauvages** (yéti, chlamydes, varan...) peuvent être capturées et
 - parchemins sacrés : 10 kashes
 - objets entassés : 10 kashes l'ensemble
 - 5 pierres tombales : 10 kashes l'ensemble
-- un kilo de vraies gemmes libres vaut 10 kashes, et se récolte en 5mn ; on peut en ramasser 6 kilos, mais dedans, 2 kilos de gemmes violettes sont **sans valeur**
+- un kilo de vraies gemmes libres vaut 10 kashes, et se récolte en 5mn ; on peut ramasser 6 kilos de gemmes libres, mais dedans, 2 kilos de gemmes violettes (fausses) sont **sans valeur**
 - un kilo de diamants incrustés vaut 15 kashes, et se récolte en 15mn ; on peut en récolter 1 kilo
 - lingot d'or : 10 kashes
 - larme divine (l'orbe) : artefact super méga exceptionnel, invendable
@@ -427,7 +427,7 @@ Les petits objets (gemmes et lingots, larme divine...) se portent dans les sacs 
 Enquête naturaliste
 -------------------------
 
-Récapitulatif des nouvelles espèces à "capturer" (en photo/vidéo, ou en chair et en os) : **champignons aquatiques bleus, yéti forestier, chauve-souris luminescentes amphibies**
+Récapitulatif des nouvelles espèces à "capturer" (en photo/vidéo, ou en chair et en os) : **champignons aquatiques bleus, yéti forestier, chauves-souris luminescentes amphibies**
 
 Récapitulatif des faits scientifiques nouveaux :
 
@@ -454,7 +454,7 @@ Pour prouver que c'est un temple yodique :
 
 Pour prouver qu'il est de la confession razulite :
 
-- résoudre l'énigme de la lanterne dans le puits, qui pointe sur la voute un message en runes sacrées akarites
+- résoudre l'énigme de la lanterne dans le puits, qui pointe sur la voûte un message en runes sacrées akarites
 - si la hallebarde est un artefact exceptionnel, ses inscriptions comportent des devises razulites
 - si la statue du guerrier Bartzar est ramenée, 1/3 de chance que cela permette à terme de faire le lien avec la confession razulite
 

@@ -17,7 +17,7 @@ Quick Game Overview
 Will they be able to face the traps and creatures they encounter during their descent?
 Will they lay their hands on the precious stones, and the archaeological treasures, that the ancient texts speak of?
 
-"The Temple of Nazur" is an exploratory adventure-investigation RPG, strongly narrative and multimedia-enhanced, for 2 to 5 players. Total duration: 3½ h on average.
+"The Temple of Nazur", a Chrysalis: Descent scenario, is an exploratory adventure-investigation RPG, strongly narrative and multimedia-enhanced, for 2 to 5 players. Total duration: 3½ h on average.
 
 
 
@@ -296,7 +296,7 @@ Holy of Holies of the Yodic Temple
 - main elements from left to right: **standing gravestones, a warrior statue, a heap of objects, a well, a wall fresco, a small pagoda, a low table**
 - **important: a curled-up corpse**, hidden by the warrior statue
 
-- a porter suggests placing **mini-geodes** everywhere
+- a porter suggests placing **glow-geodes** everywhere
 - disturbing detail: **traces of vandalism**, of blows and cuts, on the wall decorations and on many pieces of furniture, when they are examined; the GM can pass this off as enormous claw marks; *this is a teaser puzzle, solved in a later game*
 - if the players think of looking up, there are **Akarith sacred runes** randomly arranged on the ceiling, on the well side
 
@@ -334,7 +334,7 @@ Holy of Holies of the Yodic Temple
 
 **The Light Puzzle**: if the stone lantern is wedged into the hollow at the bottom of the well, any light source is placed in it, and the grate is then put on top, the interference effects highlight certain sacred runes on the ceiling, which actually form a **Razulite prophecy dating from after the fall of Nazur**; this prophecy will only be decipherable by the Alifir Academy, but at the very least the ideogram of the **Divine Orbs** can be recognised in it.
 
-After a while (sooner, if mini-geodes have been placed everywhere), a **strange whistling** is heard (see dedicated soundtrack): the **orb's song**. Its source is very hard to locate by ear. The walls must be sounded with the sonar, or the microphone kit used, to find out which wall to dig into with an ice axe. The orb sits in plain view in its hiding place, resting on a **gold ingot**. It reacts violently (light and vibration) when someone tries to take it. It can be put in ice-cold water (e.g. a waterproof bag filled with the water of the well, at 2-3°C) to calm it down and carry it away without it attracting Akarith zealots (see the alerts, in the Quick Reference).
+After a while (sooner, if glow-geodes have been placed everywhere), a **strange whistling** is heard (see dedicated soundtrack): the **orb's song**. Its source is very hard to locate by ear. The walls must be sounded with the sonar, or the microphone kit used, to find out which wall to dig into with an ice axe. The orb sits in plain view in its hiding place, resting on a **gold ingot**. It reacts violently (light and vibration) when someone tries to take it. It can be put in ice-cold water (e.g. a waterproof bag filled with the water of the well, at 2-3°C) to calm it down and carry it away without it attracting Akarith zealots (see the alerts, in the Quick Reference).
 Possible locations of the hiding place: behind the small pagoda, or behind the wall fresco, or under the floor in the middle of the room...
 
 
@@ -353,7 +353,7 @@ Sample timeline
 
 - 0: the hill is breached by the explosion
 - 5: arrival on the floor of the aquifer cavern
-- 70: if the players are in the Holy of Holies of the temple, they hear the humming of the orb
+- 70: if the players are in the Holy of Holies of the temple, they hear the whistling of the orb
 - 90: if the imperial monitor has not been dealt with, it wakes up and intercepts the players or porters
 - 105: the Akariths arrive if an alert was raised before 90 (see below)
 - 120: the Akariths arrive in any case (end of the storm)
@@ -394,7 +394,7 @@ The **wild beasts** (yeti, Chlamydes, monitor lizard...) can be captured and res
 - sacred scrolls: 10 kashes
 - heaped objects: 10 kashes for the lot
 - 5 gravestones: 10 kashes for the lot
-- one kilo of real loose gems is worth 10 kashes, and is gathered in 5 min; up to 6 kilos can be picked up, but among them, 2 kilos of purple gems are **worthless**
+- one kilo of real loose gems is worth 10 kashes, and is gathered in 5 min; up to 6 kilos of loose gems can be picked up, but among them, 2 kilos of purple gems (fake) are **worthless**
 - one kilo of inlaid diamonds is worth 15 kashes, and is gathered in 15 min; 1 kilo can be collected
 - gold ingot: 10 kashes
 - Divine Tear (the orb): super-mega-exceptional artefact, unsellable
