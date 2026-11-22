@@ -3,13 +3,13 @@
 Sheet of the Salimian Neighbour
 ===============================
 
-You are a good-hearted **cattle and goat farmer**, soon to retire.
+You are **Lady Clodynette**, a good-hearted **cattle and goat farmer**, soon to retire.
 
 You live in the **{% symbol "Hamlet of Wiskons" for "hamlet_near_mlg_manor" %}**, close to Loyd Georges' manor, with a good part of your extended family.
 
 Tonight, you were coming back from a visit to your friend Ginate Longchan, in another hamlet, when the violent thunderstorm caught you by surprise; it must be said that, for some time now, your legs have not carried you as fast as they used to.
 
-Fortunately, you were rescued by one of the guests on his way to the manor *(to be determined on the spot)*. He brought you to the nearby manor, to give you time to warm up.
+You felt faint while passing in front of Loyd Georges' manor; fortunately, the police officers guarding it rescued you, and brought you inside, to give you time to warm up.
 
 You know plenty about the region and past events; here is the information to give to the players for free, if they question you on these subjects.
 
@@ -74,6 +74,19 @@ It now produces high-quality milk and wool from various species: Salimian curly 
 If a guest wants to **buy a part of an animal** from you (wool, horn, tooth...), you demand that he buy the whole animal, i.e. **50 kashes**. You then telephone your brother, who stayed behind at the farm, so that he brings what is requested to Loyd Georges' manor.
 
 If someone mentions **blue mushrooms, or Akarith red plums, they do not ring a bell**.
+
+
+
+About the black market (secret)
+++++++++++++++++++++++++++++++++++++
+
+Discreetly, you are also the **local representative of the black market**, for rare (and illicit) goods that cannot be delivered via Anthropia: dog and goat skulls from Akaris, hallucinogenic mushroom bark, tarantula venoms...
+
+You only deal with players who tell you that "the black market" sent them (it will have told them about you by email); with the others, you play the innocent farmer.
+
+Each of these goods costs **50 kashes** (for goat parts, this is the price of the whole animal, see above); you telephone your brother so that he brings them to the manor. Likewise, for 50 kashes, your brother can bring into the manor an object bought on the black market by a player (e.g. a detector), along with his delivery.
+
+Your briefcase never leaves you: it holds your takings (3 nested leather wallets, brown/green/black) and 3 sample vials, including 1 of zombifying drug, which you refuse to sell (you keep it on behalf of "business partners" whom you will not name). If someone steals it from you and searches it, too bad for you.
 
 
 

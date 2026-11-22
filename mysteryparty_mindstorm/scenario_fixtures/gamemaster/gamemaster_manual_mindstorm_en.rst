@@ -392,7 +392,7 @@ They, for their part, only have clues about the complementary ingredients, which
 
 - the basic Elixir gives great energy, dulls pain and slightly increases physical strength, but causes unreasonable aggressiveness in combat, without, however, increasing resistance to injury
 - adding a drop of Royal Najah venom (found in the cave of Nazur, available in Alphonse's private sale) increases physical strength tenfold, and removes any sensation of pain, but the user regresses to an animal state after the first fight
-- adding powdered ridged goat horn (Akarith goat, available from Lady Clodynette) allows the user to keep his reason in combat, and gives him superhuman reflexes to parry most projectiles and blows
+- adding powdered ridged goat horn (Akarith goat, available from Lady Clodynette, the old neighbour) allows the user to keep his reason in combat, and gives him superhuman reflexes to parry most projectiles and blows
 - in any case, if he takes more than one millilitre of Elixir in a week, the user dies of exhaustion in less than a day
 
 The preparation method of the potion can be found thanks to the Akarith grimoire (the "Sacred Yodic Book" sold at auction) and to the powdery deposits in the Leather Purse (Loyd Georges' account). Not knowing them will alter the quality of the potion.

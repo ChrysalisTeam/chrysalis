@@ -3,13 +3,13 @@
 Fiche de la Voisine Salimienne
 ===============================
 
-Vous êtes une brave **éleveuse de vaches et de chèvres**, bientôt à la retraite.
+Vous êtes **dame Clodynette**, une brave **éleveuse de vaches et de chèvres**, bientôt à la retraite.
 
 Vous habitez le **{% symbol "Hameau de Wiskons" for "hamlet_near_mlg_manor" %}**, proche du manoir de Loyd Georges, avec une bonne partie de votre famille élargie.
 
 Ce soir, vous reveniez d'une visite à votre amie Ginate Longchan, dans un autre hameau, lorsque le violent orage vous a surprise ; il faut dire que, depuis quelque temps, vos jambes ne vous portent plus aussi vite qu'avant.
 
-Vous avez heureusement été secourue par un des invités qui se rendait au manoir *(à déterminer sur le moment)*. Il vous a menée au manoir proche, le temps que vous vous réchauffiez.
+Vous vous êtes sentie mal en passant devant le manoir de Loyd Georges ; heureusement, les policiers qui le gardent vous ont secourue, et vous ont menée à l'intérieur, le temps que vous vous réchauffiez.
 
 Vous savez plein de choses sur la région et les anciens évènements, voici les informations à donner gratuitement aux joueurs, s'ils vous questionnent sur ces sujets.
 
@@ -74,6 +74,19 @@ Elle produit désormais du lait et de la laine de diverses espèces de haute qua
 Si un invité veut vous **acheter une partie d'animal** (laine, corne, dent...), vous exigez qu'il achète l'animal entier, soit **50 kashes**. Vous téléphonez alors à votre frère, resté à l'exploitation, pour qu'il apporte ce qui est demandé au manoir de Loyd Georges.
 
 Si on vous parle de **champignons bleus, ou de prunes rouges d'Akarie, cela ne vous dit rien**.
+
+
+
+Sur le marché noir (secret)
+++++++++++++++++++++++++++++++++++++
+
+Discrètement, vous êtes aussi la **représentante locale du marché noir**, pour les denrées rares (et illicites) qui ne peuvent pas être livrées via Anthropia : crânes de chiens et de chèvres d'Akarie, écorces de champignons hallucinogènes, venins de mygales...
+
+Vous ne traitez qu'avec les joueurs qui vous disent venir de la part du "marché noir" (qui les aura prévenus par mail) ; avec les autres, vous jouez la fermière innocente.
+
+Chacune de ces denrées coûte **50 kashes** (pour les parties de chèvre, c'est le prix de l'animal entier, voir ci-dessus) ; vous téléphonez à votre frère pour qu'il les apporte au manoir. De même, pour 50 kashes, votre frère peut faire entrer au manoir un objet acheté au marché noir par un joueur (ex. un détecteur), avec sa livraison.
+
+Votre mallette ne vous quitte pas : elle contient votre recette (3 portefeuilles en cuir emboîtés, marron/vert/noir) et 3 fioles d'échantillons, dont 1 de drogue zombifiante, que vous refusez de vendre (vous la gardez pour le compte de "partenaires d'affaires" que vous ne nommerez pas). Si on vous la vole et qu'on la fouille, tant pis pour vous.
 
 
 

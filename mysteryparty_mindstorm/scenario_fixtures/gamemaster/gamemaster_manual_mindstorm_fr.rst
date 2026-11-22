@@ -392,7 +392,7 @@ Ils ont pour leur part uniquement des indices sur les ingrédients complémentai
 
 - l'Élixir de base donne une grande énergie, atténue la douleur et augmente légèrement la force physique, mais entraine une agressivité déraisonnable au combat, sans augmenter la résistance aux blessures pour autant
 - ajouter une goutte de venin de Najah royal (trouvé dans la grotte de Nazur, disponible dans la vente privée d'Alphonse) décuple la force physique, et enlève toute sensation de douleur, mais l'utilisateur régresse à l'état d'animal suite au premier combat
-- ajouter de la poudre de corne striée de chèvre (chèvre d'Akarie, disponible auprès de dame Clodynette) permet à l'utilisateur de garder sa raison au combat, et lui donne des réflexes surhumains pour parer la plupart des projectiles et des coups
+- ajouter de la poudre de corne striée de chèvre (chèvre d'Akarie, disponible auprès de dame Clodynette, la vieille voisine) permet à l'utilisateur de garder sa raison au combat, et lui donne des réflexes surhumains pour parer la plupart des projectiles et des coups
 - dans tous les cas, s'il prend plus d'un millilitre d'Élixir en une semaine, l'utilisateur meurt d'épuisement en moins d'une journée
 
 Le mode préparatoire de la potion est trouvable grâce au grimoire akarite (le "Livre Sacré Yodique" vendu aux enchères) et aux dépôts poudreux de la bourse de cuir (compte de Loyd Georges). Ne pas les connaître altérera la qualité de la potion.
