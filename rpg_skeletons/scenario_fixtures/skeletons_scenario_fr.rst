@@ -250,7 +250,7 @@ Tour - Chambres
 
 Devant les chambres, une petite **galerie de portraits** réalisés au fusain par CONRAD : le mage Childéric (grand et mince, long visage très fin), le mage Parcival (petit et trapu, a une **dent en or**), et plusieurs, évolutives, de SAPHIR.
 
-**Détail supplémentaire : TATOUAGE** de forme ronde qui apparait sur l'épaule de SAPHIR au début de l'adolescence, et un bout de tatouage arrondi sur l'avant-bras du mage Parcival. Le mage Childéric est trop couvert pour voir s'il a des tatouages.
+**Détail supplémentaire : TATOUAGE** de forme ronde qui apparait sur l'épaule de SAPHIR au début de l'adolescence, et un bout de tatouage arrondi sur l'avant-bras du mage Parcival. Le mage Childéric est trop couvert pour voir s'il a des tatouages. *(Les deux mages portent en fait le même tatouage que SAPHIR, voir "Le passé des mages".)*
 
 Les chambres sont ouvertes, en train d'être aérées.
 
@@ -416,7 +416,7 @@ Jour 3 - nuit tombée
 - Un rat musqué arrive au château, et indique qu'un **détachement de militaires** se prépare à traverser la forêt **avec des canons**, ils seront probablement là au matin
 - À un moment, les joueurs finissent par découvrir que le mage Parcival n'est pas dans la maisonnette (ex. indice déclencheur : la fumée ne s'en échappe plus)
 - SAPHIR court partout, les larmes aux yeux, haletante, à la recherche de son papa
-- Elle fracture le dépeçoir, et en ramène deux plaques de peau portant le **tatouage** qu'elle-même a sur l'épaule : un **loup roulé en boule**
+- Elle fracture le dépeçoir, et en ramène deux plaques de peau portant le **tatouage** qu'elle-même a sur l'épaule : un **loup roulé en boule** (la peau des avant-bras des deux mages)
 - Elle confronte alors l'ensemble des gens présents, mais le mage FOULQUES ne peut dissimuler sa panique
 - CONRAD confisque préventivement le **bâton incandescent** de FOULQUES
 - FOULQUES avoue tout, mais dit que ce sont des "accidents"
@@ -471,6 +471,7 @@ Il est ainsi allé trouver le mage Childéric, lui aussi ostracisé pour ses tra
 
 Alliés de circonstance, ils ont acheté un donjon en ruine sur une presqu’île, afin de mener leurs vies en paix. 
 Les deux mages ont enseigné à SAPHIR ce qui convenait à une enfant de son âge.
+Au début de son adolescence, une marque ronde en forme de **loup roulé en boule** est apparue sur l'épaule de SAPHIR, comme un tatouage (un signe de son sang semi-atlante, qui rappelait aussi la légende du couffin gardé par les loups). Pour qu'elle n'en ait pas honte, les deux mages se sont fait tatouer le même loup sur l'avant-bras, en lui disant qu'ils étaient désormais "sa meute". SAPHIR sait donc que seuls ses deux "pères" portent ce loup.
 
 Mais des gredins mercenaires étaient sur la trace du mage Childéric, en vue de lui voler ses secrets. Vaincus puis zombifiés, ils sont devenus les premières "abominations" du lieu.
 

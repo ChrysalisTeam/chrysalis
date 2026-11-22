@@ -250,7 +250,7 @@ Tower - bedrooms
 
 In front of the bedrooms, a small **portrait gallery** drawn in charcoal by CONRAD: Magus Childeric (tall and thin, long and very fine face), Magus Parcival (short and stocky, has a **gold tooth**), and several of SAPHIR, through the years.
 
-**Additional detail: TATTOO** of round shape which appeared on SAPHIR's shoulder at the start of adolescence, and a rounded piece of tattoo on Magus Parcival's forearm. Magus Childeric is too covered up to see whether he has tattoos.
+**Additional detail: TATTOO** of round shape which appeared on SAPHIR's shoulder at the start of adolescence, and a rounded piece of tattoo on Magus Parcival's forearm. Magus Childeric is too covered up to see whether he has tattoos. *(Both magi actually bear the same tattoo as SAPHIR, see "The magi's past".)*
 
 The bedrooms are open, being aired.
 
@@ -416,7 +416,7 @@ Day 3 - nightfall
 - A muskrat arrives at the castle, and reports that a **military detachment** is preparing to cross the forest **with cannons**; they will probably be there by morning
 - At some point, the players end up discovering that Magus Parcival is not in the cottage (e.g. triggering clue: smoke no longer comes out of it)
 - SAPHIR runs everywhere, tears in her eyes, breathless, looking for her daddy
-- She breaks into the flaying house, and brings back two patches of skin bearing the **tattoo** that she herself has on her shoulder: a **wolf curled up in a ball**
+- She breaks into the flaying house, and brings back two patches of skin bearing the **tattoo** that she herself has on her shoulder: a **wolf curled up in a ball** (the skin of the two magi's forearms)
 - She then confronts everyone present, but Magus Foulques cannot hide his panic
 - CONRAD confiscates Foulques's **white-hot staff** as a precaution
 - Foulques confesses everything, but says they were "accidents"
@@ -471,6 +471,7 @@ He thus went to find Magus Childeric, who was also ostracised for his work on ne
 
 Allies of circumstance, they bought a ruined keep on a peninsula, in order to live their lives in peace.
 The two magi taught SAPHIR what was suitable for a child of her age.
+At the start of her adolescence, a round mark shaped like a **wolf curled up in a ball** appeared on SAPHIR's shoulder, like a tattoo (a sign of her half-Atlantean blood, which also recalled the legend of the Moses basket guarded by wolves). So that she would not be ashamed of it, the two magi had the same wolf tattooed on their forearms, telling her that they were now "her pack". SAPHIR therefore knows that only her two "fathers" bear this wolf.
 
 But mercenary scoundrels were on the trail of Magus Childeric, intent on stealing his secrets. Defeated then zombified, they became the first "abominations" of the place.
 
