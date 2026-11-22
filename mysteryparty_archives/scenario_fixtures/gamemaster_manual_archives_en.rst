@@ -167,7 +167,7 @@ They obey only the character (NPC actor or player) wearing a **wide silver brace
 
 The robots see the living and the avatars, but NOT the phantoms. They are visible to all.
 
-They are generally slow and rigid in their movements. But they have **immense physical strength**, and can therefore move ULTRA-HEAVY objects on request. In a brawl, they would easily win against a human.
+They are generally slow and rigid in their movements. But they have **great physical strength**: in a brawl, they would easily win against a human. Their mechanisms cannot bear ULTRA-HEAVY objects, however, which they **cannot move**; only the Woodsman is able to.
 
 They are vulnerable to physical and magical attacks (except poisons, of course), but not to sacred attacks (e.g. from phantoms).
 More precisely, they fear explosives and sword blows, but have little to fear from projectiles (bullets or arrows).

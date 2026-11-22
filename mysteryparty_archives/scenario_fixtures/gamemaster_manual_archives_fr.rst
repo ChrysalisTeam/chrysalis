@@ -167,7 +167,7 @@ Ils obéissent uniquement au personnage (figurant ou joueur) portant un **bracel
 
 Les robots voient les vivants et les avatars, mais PAS les fantômes. Ils sont visibles par tous.
 
-Ils sont globalement lents et rigides dans leurs mouvements. Mais ils disposent d'une **immense force physique**, et peuvent donc déplacer des objets de type ULTRA-LOURD à la demande. En cas d'empoignade, ils gagneraient facilement contre un humain.
+Ils sont globalement lents et rigides dans leurs mouvements. Mais ils disposent d'une **grande force physique** : en cas d'empoignade, ils gagneraient facilement contre un humain. Leurs mécanismes ne supportent cependant pas les objets de type ULTRA-LOURD, qu'ils **ne peuvent pas déplacer** ; seul le Gardien des Bois en est capable.
 
 Ils sont sensibles aux attaques physiques et magiques (hormis les poisons bien sûr), mais pas aux attaques sacrées (ex. des fantômes).
 Plus précisément, ils craignent les explosifs et les coups d'épée, mais peu les projectiles (balles ou flèches).
