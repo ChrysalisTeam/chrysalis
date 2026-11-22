@@ -23,7 +23,7 @@
 {% if standalone %}
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
 - vos recherches dans le voisinage n'ont rien donné, hormis une interminable discussion avec Maître Florent, apothicaire et ancien apprenti de Maître Bibine de Salima {% xfact "peridot_talked_with_master_florent" as author %}
-- vous savez par votre compère que le professeur Loakim était fortement impliqué par Loyd Georges {% xfact 'lg_gave_responsibilities_to_loakim' %}
+- vous savez par votre compère que le professeur Loakim était fortement impliqué dans les affaires de Loyd Georges {% xfact 'lg_gave_responsibilities_to_loakim' %}
 - vous avez tenté, en duo, d'enlever ce professeur Loakim, hélas sans succès {% xfact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
 - un certain "Malachite" semble responsable d'un récent cambriolage dans un entrepôt privé d'Alifir {% xfact 'malachite&spinel_rob_alifir_warehouse' %}
 - un certain "Spinel" a espionné les communications téléphoniques entre Loyd Georges et le professeur Loakim {% xfact 'spinel_wiretaps_lg_and_friends' %}

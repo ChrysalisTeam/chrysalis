@@ -23,7 +23,7 @@
 - vous faites équipe avec l'agent Peridot
 {% if standalone %}
 - vous savez que Loyd Georges a découvert l'un des orbes divins et l'a mis au secret {% xfact 'lg_has_found_and_hidden_an_orb' %}
-- vous avez découvert que le professeur Loakim était fortement impliqué par Loyd Georges {% xfact 'lg_gave_responsibilities_to_loakim' %}
+- vous avez découvert que le professeur Loakim était fortement impliqué dans les affaires de Loyd Georges {% xfact 'lg_gave_responsibilities_to_loakim' %}
 - vous avez tenté, en duo, d'enlever ce professeur Loakim, hélas sans succès {% xfact 'peridot&topaz_abduct_emilos_loakim_fail' as author %}
 - votre collègue a tenté de cambrioler le manoir de Loyd Georges, mais sans succès {% xfact 'peridot_robs_lg_manor_fail' %}
 {% endif %}

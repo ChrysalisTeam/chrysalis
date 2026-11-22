@@ -33,7 +33,7 @@ Culture Médicale
 
 {% macro knownledge_of_poisons() %}
 Connaissance des Poisons
-  Vous avez, au long des années, acquis la capacité de détecter immédiatement, au sentir ou au goûter, qu'une substance contient un poison. Vous savez dès lors de reconnaître ce toxique, et vous souvenir de ses effets sur une victime. *Demandez au maître de jeu si quelque chose que vous avez trouvé est, ou non, empoisonné (et le cas échéant, les détails du produit nocif).*
+  Vous avez, au long des années, acquis la capacité de détecter immédiatement, au sentir ou au goûter, qu'une substance contient un poison. Vous savez dès lors reconnaître ce toxique, et vous souvenir de ses effets sur une victime. *Demandez au maître de jeu si quelque chose que vous avez trouvé est, ou non, empoisonné (et le cas échéant, les détails du produit nocif).*
 
 {#
 .. utile pour:
