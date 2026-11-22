@@ -4,7 +4,7 @@ locations:
 
     # CONTINENTS ET PAYS #
 
-    Austrions:
+    Austrion:
         summary: ""
         geolocation: [727,314,867,335]
 
@@ -12,7 +12,7 @@ locations:
         summary: ""
         geolocation: [867,243,952,261]
 
-    Kingdom_of_Suabel:
+    Kingdom_of_Subael:
         summary: ""
         geolocation: [647,347,735,386]
 
@@ -108,7 +108,7 @@ locations:
         summary: ""
         geolocation: [1105,586,1197,609]
 
-    Kuniski:
+    Kunisky:
         summary: ""
         geolocation: [1098,472,1185,493]
 
@@ -243,7 +243,7 @@ locations:
         summary: "L'État militaire tient cette ville et le pays d'une main de fer."
         geolocation: [1027,1265,20]
 
-    Aklarvic:
+    Aklarvik:
         summary: "Une petite ville isolée de tout."
         geolocation: [772,1543,20]
 
@@ -287,7 +287,7 @@ locations:
         summary: "Cette région a toujours été remplie de mines diamantifères. Aux dépens de sa stabilité politique."
         geolocation: [1374,742,20]
 
-    Nuja:
+    Nujah:
         summary: "Les mines de charbon et de bois, ce sont les mamelles de cette région. Beaucoup d'étrangers se sont installés ici ces derniers temps, et ont construit une sorte de centre technologique isolé."
         geolocation: [1153,745,20]
 

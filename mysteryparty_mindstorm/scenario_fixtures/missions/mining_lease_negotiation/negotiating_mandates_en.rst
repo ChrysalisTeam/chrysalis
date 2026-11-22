@@ -9,7 +9,7 @@
 
     We, the Sovereign State of **{{ country_name }}**,
 
-    hereby mandate the bearer of this missive, a citizen of our country, to negotiate on our behalf the purchase of a tar sands deposit located in the Kingdom of Suabel, in Austrion.
+    hereby mandate the bearer of this missive, a citizen of our country, to negotiate on our behalf the purchase of a tar sands deposit located in the Kingdom of Subael, in Austrion.
 
 .. image:: {{ project_dir }}../../common_assets/images/red_seal_wax_empty.png
     :align: right

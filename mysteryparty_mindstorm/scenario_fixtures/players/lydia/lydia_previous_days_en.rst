@@ -6,7 +6,7 @@ Your husband was burning to take part in the mysterious auctions of a certain Si
 
 You were in great need of reinvigoration; so you declined Loyd Georges' special evening, to go on a {% symbol "thalassotherapy stay in the misty mountains (near the eastern border of Sabarim)" for "khaal_isildis_location" %}, with Khaal and your good cousin **{% symbol "Isildis" for "lydia_cousin_name" %}**. It was understood that you would go straight back to Alifir the day after the said evening (which is also polling day), to take up your duties there, if - as expected - you were elected. {% xfact "lydia_was_out_of_manor_with_khaal_recently" as author %}
 
-While resting in a bubbling bath, you had a flash of inspiration: among the eclectic possessions your parents bequeathed to you, there is a large plot of "tar sands", in the Kingdom of Suabel, in Austrion. Until now it was worth nothing, but technologies have evolved so much recently...
+While resting in a bubbling bath, you had a flash of inspiration: among the eclectic possessions your parents bequeathed to you, there is a large plot of "tar sands", in the Kingdom of Subael, in Austrion. Until now it was worth nothing, but technologies have evolved so much recently...
 
 So you called upon your political network to see if this land interested anyone. Surprise, several contacts proved extremely interested, and begged you to meet one of their representatives; representatives who happen, by the greatest of coincidences, to be taking part in Loyd Georges' auctions as well.
 

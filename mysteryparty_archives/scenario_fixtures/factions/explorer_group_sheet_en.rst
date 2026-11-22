@@ -31,7 +31,7 @@ They mentioned, in enigmatic form, the creation of a library buried very deep un
 
 {#
 And in a temple of the neighbouring country, you found runes detailing the construction of these manors, and in particular of a library buried within their domain.
-Alas, your first photographs were snatched away by the tabloid press, and since then the images have gone around the globe. You are therefore travelling at full speed to get into the buried library before anyone else, lay your hands on this famous Tamas Ecology, and if possible find a counter to the plan of the Acharie.
+Alas, your first photographs were snatched away by the tabloid press, and since then the images have gone around the globe. You are therefore travelling at full speed to get into the buried library before anyone else, lay your hands on this famous Tamas Ecology, and if possible find a counter to the plan of Akaris.
 #}
 
 

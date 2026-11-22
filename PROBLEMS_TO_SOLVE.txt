@@ -645,6 +645,9 @@ Mindstorm (script_fixtures/mysteryparty_mindstorm/)
   => Is the French a typo?
   => SUGGESTION: yes, "Royaume de Suabel" in the three FR files and the glossary FR cell.
   => DONE (cba1e14..b794ef8): typo: "Royaume de Suabel" in the three FR files and the glossary FR cell (l.2803, note mentions the old spelling)
+  => REVERTED (2026-11-22, author's decision): the world map says "Kingdom of Subael", so "Subael" is right; FR and EN texts,
+     the glossary and the location key (now Kingdom_of_Subael) use "Subael". The other location keys were aligned on the map too
+     (Austrion, Kunisky, Nujah, Aklarvik); "Akaris" stays (the map label "Acharis" was replaced, see Map_09_akaris.png).
 
 - Alphonse's time announcement "Mesdame messieurs, il est 20h..." (npcs/alphonse_sheet_fr.rst:54, gamemaster_planning_details_fr.rst:73).
   => Typo, or his deliberate word-mangling? If a typo: "Mesdames messieurs".

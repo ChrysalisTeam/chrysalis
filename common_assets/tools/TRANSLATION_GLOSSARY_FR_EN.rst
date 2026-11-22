@@ -28,6 +28,15 @@ keys (e.g. ``duel_of_honor_rules.rst`` stays as a path, but the prose says
 **Proper nouns**: invented names (Loyd Georges, Maupertuis, Rydji, Nazur,
 Olloudios...) stay verbatim, but without accents (Meredice, Josephine, Selene).
 
+**Place names of Pangea**: English texts (and the location keys of
+``alternate_reality_game_auction/scenario_fixtures/locations_{fr,en}.yaml``,
+which the Pychronia portal displays) use exactly the spellings of the world map
+(``Map_09.png`` of the "World Map" artworks): Austrion, Kingdom of Subael,
+Kunisky, Nujah, Betsveda, Kotlal, Kioctl, Aklarvik, Yumeimatchi, Beth-Asmavoth,
+Salima... The only exception is the theocracy, spelled "Akaris" everywhere
+(the map's "Acharis" label is superseded, see ``Map_09_akaris.png``). Never
+"correct" a map name from another source: the map wins.
+
 **No accents in English**: English texts never contain accented letters, neither
 in names nor in loanwords (cafe, fiance, deja vu, creme fraiche, coup d'etat);
 French texts keep them (Mérédice, Childéric, Séléné). Only French data keys
@@ -1845,9 +1854,6 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Caveau familial (profanation du)
      - Family vault (desecration of the)
      - Judicial offence.
-   * - Cazoar / Sablima (métropoles)
-     - Cazoar / Sablima
-     - Sabarith consulate metropolises; verbatim.
    * - Cazoar / Salima (métropoles)
      - Cazoar / Salima
      - Sabarith consulate metropolises.
@@ -2814,9 +2820,9 @@ Mystery Party: Mindstorm (L'Affaire Loyd Georges)
    * - Rodok
      - Rodok
      - LG's adventurer friend (symbol lg_adventurer_friend_name).
-   * - Royaume de Suabel
-     - Kingdom of Suabel
-     - locations.yaml key is Kingdom_of_Suabel; use "Suabel" (the former FR spelling "Subael" was a typo).
+   * - Royaume de Subael
+     - Kingdom of Subael
+     - Spelled as on the world map; locations.yaml key is Kingdom_of_Subael. "Suabel" (2026-11-09 change) was a mistake, reverted.
    * - rubrique des chiens écrasés
      - miscellaneous news pages
      - Topaz standalone; the idiom, not "crushed dogs".
