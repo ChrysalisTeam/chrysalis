@@ -176,7 +176,7 @@
     - "Request from the scientist Eusebon pinned on the bag {% xitem 'dr_eusebon_request' is provided %}"
     - "Khaki fatigues (jacket + trousers)"
     - "Useless loose draft papers"
-    - "Loyd Georges' Memo Notebook with various clues inside {% xitem 'lg_notebook' is provided %}"
+    - "Loyd Georges' Memo Notebook with various clues inside (\"Loyd Georges' Memo Notebook\" document, to be copied into a small notebook) {% xitem 'lg_notebook' is provided %}"
     - "Modern Akarith Lexicon"
     - "ALL the secret code decipherers (2 pages)"
     - "Gems and money in the copper bottle"

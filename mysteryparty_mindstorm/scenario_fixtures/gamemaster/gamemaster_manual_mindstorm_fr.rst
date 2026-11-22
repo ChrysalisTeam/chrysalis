@@ -645,6 +645,6 @@ En milieu de soirée, le domestique amène dans le couloir un sac militaire, et 
 
 Dès lors, aux joueurs de fouiller discrètement le sac lorsque l’occasion se présente, afin d’y trouver des richesses, des duplicatas de papiers à indice existants (c'est une seconde chance au cas où ils en auraient raté), et le Calepin Mémo égaré par Loyd Georges durant le voyage.
 
-Le calepin indique entre autres, par expressions énigmatiques, les cachettes successives de la clef du coffre ; ce coffre est dans la salle où l’inspecteur mène les interrogatoires.
+Le calepin (document "Calepin Mémo de Loyd Georges") indique entre autres, par expressions énigmatiques, où Loyd Georges range le code et la carte pass dorée de son coffre, et que la clef du coffre est chez le Tabellion, dont la mallette s'ouvre sur sa date de naissance abrégée ; ce coffre est dans la salle où l’inspecteur mène les interrogatoires.
 
 

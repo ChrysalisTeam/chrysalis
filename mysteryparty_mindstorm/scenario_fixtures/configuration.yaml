@@ -218,6 +218,9 @@
         "yodic_theology_hard_summary":  # handed to Malachite by the Oberon mediator
           "full_sheet":
             - "documents/yodic_theology_hard_summary_{lang}.rst"
+        "lg_memo_notebook":  # found in the military duffel bag
+          "full_sheet":
+            - "documents/lg_memo_notebook_{lang}.rst"
 
 "document_generation":
   "ingame_clues_mindstorm":

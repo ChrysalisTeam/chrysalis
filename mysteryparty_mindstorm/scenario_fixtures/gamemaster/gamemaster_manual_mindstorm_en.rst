@@ -645,6 +645,6 @@ In the middle of the evening, the servant brings a military duffel bag into the 
 
 From then on, it is up to the players to discreetly search the bag when the opportunity arises, in order to find riches, duplicates of existing clue papers (this is a second chance in case they missed some), and the Memo Notebook mislaid by Loyd Georges during the journey.
 
-The notebook indicates among other things, through enigmatic expressions, the successive hiding places of the key to the safe; this safe is in the room where the inspector conducts the interrogations.
+The notebook ("Loyd Georges' Memo Notebook" document) indicates among other things, through enigmatic expressions, where Loyd Georges keeps the code and the golden pass card of his safe, and that the key to the safe is with the Tabellion, whose briefcase opens on his abbreviated date of birth; this safe is in the room where the inspector conducts the interrogations.
 
 
