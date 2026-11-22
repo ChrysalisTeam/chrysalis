@@ -19,7 +19,7 @@ IMPORTANT_MARKER = " IMPORTANT"
 
 DOCUMENT_TITLES = dict(
     fr=dict(game_title="Les archives secrètes des Maupertuis",
-            common_lore_and_game_rules="Univers et Règles du Jeu ",
+            common_lore_and_game_rules="Univers et Règles du Jeu",
             common_npc_information="Compléments des Figurants",
             table_of_contents="Table des Matières"),
     en=dict(game_title="The Secret Archives of the Maupertuis",

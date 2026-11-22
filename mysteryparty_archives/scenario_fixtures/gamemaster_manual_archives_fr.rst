@@ -136,7 +136,7 @@ Ils retournent chacun dans leur monde parallèle via leurs livres, lorsqu’ils 
 
 - Si les avatars meurent dans le monde réel, cela équivaut à une mort dans leur monde imaginaire (une mort soumise à leur propre système de croyances religieuses) ; ils y sont alors reprojetés, et ne deviennent pas des fantômes dans le monde réel.
 
-- Ils peuvent interagir librement avec le monde des vivants, ses humains et animaux, ses objets et grimoires ; **sauf avec les "romans"**, qu’il ne peuvent déplacer car ces livres portent en eux un univers entier. {% xfact "avatars_cannot_carry_novels" %}
+- Ils peuvent interagir librement avec le monde des vivants, ses humains et animaux, ses objets et grimoires ; **sauf avec les "romans"**, qu’ils ne peuvent déplacer car ces livres portent en eux un univers entier. {% xfact "avatars_cannot_carry_novels" %}
 
 - Ils ne peuvent ni voir, ni entendre, ni sentir les personnages du monde des morts, et ne craignent pas leur toucher (en phase incarnée ou non).
 
@@ -916,7 +916,7 @@ Pour neutraliser la Bête :
 
 - Le Gardien des bois des Parcival a une fléchette d'arbalète qui peut être **rendue sacrée par l’exorciste**, et donc capable de "tuer" la Bête fantomatique (c'est-à-dire la retransformer en spectre errant aléatoirement). Mais à cause de la malédiction qui clôture la bibliothèque, la Bête reviendrait forcément dans ce cas un peu plus tard, encore plus féroce. {% xfact "diakon_exorcist_can_bless_parcival_woodsman_arrows" %}
 
-- La Bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même si elle ne peut plus les manger, elle se jette dessus quand il en croise. {% xitem "beast_snack_as_moon_stones" is needed %} {% xfact "beast_is_addicted_to_moon_stones" %}
+- La Bête avait pour friandises favorites des {% symbol "pierres de lune" for "phosphorescent_pebbles_name" %} ; même si elle ne peut plus les manger, elle se jette dessus quand elle en croise. {% xitem "beast_snack_as_moon_stones" is needed %} {% xfact "beast_is_addicted_to_moon_stones" %}
 
 - **L’invocateur** connait un rituel capable de "geler" pour plusieurs jours une entité du monde des morts. Il ne peut pas tracer de nouveau pentacle (seuls les grands mystiques du monastère le savent, et cela prend des heures) : il lui faut **activer le pentacle canonique existant**, celui du rituel inachevé de l'arkonte, avec au moins 4 {% symbol "initiés" for "ritualist_kind_name" %}, et s’assurer que la Bête soit attirée dessus et y reste pendant l'incantation. Une fois cela fait, les joueurs en sont débarrassés jusqu’à la fin du jeu. {% xfact "diakon_invoker_can_freeze_beast_for_days" %}
 
@@ -1320,7 +1320,7 @@ La monnaie internationale est le **kash** (1 kash permet de se payer environ 100
 Le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}
 =====================================================================
 
-L'arkonte Zarathoustra serait à l'origine de cet envoutement planétaire très puissant, et toujours en effet si longtemps après sa mise en place - au tout début de l'ère actuelle.
+L'arkonte Zarathoustra serait à l'origine de cet envoutement planétaire très puissant, et toujours en vigueur si longtemps après sa mise en place - au tout début de l'ère actuelle.
 
 Sur Pangéa, toute personne qui jure quelque chose **"Par le {% symbol "Serment de Zarathoustra" for "unbreakable_oath_name" %}"** est tenue par les Cieux de respecter son engagement, quelles que soient ses propres croyances.
 
