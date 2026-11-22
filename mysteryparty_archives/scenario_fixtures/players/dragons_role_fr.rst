@@ -10,7 +10,7 @@ Votre histoire
 
 Vous êtes des dragons. Ou plutôt, ce que les humains appellent "dragons". L'image de gigantesque reptile ailé que cela leur évoque, n'est qu'une des mille apparences que vous auriez pu choisir pour leur apparaitre ; mais celle-ci vous plaisait esthétiquement. En réalité, vous venez d'un univers parallèle, d'un outre-monde, dans lequel la vie et les sens se comportent très différemment.
 
-Comme quelques compatriotes assoiffés de nouveauté, vous avez quitté votre univers natal grâce à un puissant rituel draconique, pour explorer d'autres dimensions ; vous avez ainsi rejoint Pangéa, plusieurs siècles avant la Nouvelle Ère.
+Comme quelques compatriotes assoiffés de nouveauté, vous avez quitté votre univers natal grâce à un puissant rituel draconique, pour explorer d'autres dimensions ; vous avez ainsi rejoint Pangéa, plusieurs siècles avant le début de l'{% symbol "ère du Grand Apaisement" for "current_era_name" %}.
 Comme les Djinns, vous avez erré dans un entre-monde invisible, apprenant peu à peu le fonctionnement des sociétés humaines.
 Mais contrairement à ces purs esprits de connaissance, vous avez décidé d'interférer avec cette réalité, afin de transmettre un peu de votre sagesse.
 

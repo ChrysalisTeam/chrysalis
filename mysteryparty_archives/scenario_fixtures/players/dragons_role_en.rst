@@ -10,7 +10,7 @@ Your story
 
 You are dragons. Or rather, what humans call "dragons". The image of a gigantic winged reptile that this conjures up for them is but one of the thousand appearances you could have chosen to appear before them; but this one pleased you aesthetically. In reality, you come from a parallel universe, an otherworld, in which life and the senses behave very differently.
 
-Like a few compatriots thirsting for novelty, you left your native universe thanks to a powerful draconic ritual, to explore other dimensions; you thus reached Pangea, several centuries before the New Era.
+Like a few compatriots thirsting for novelty, you left your native universe thanks to a powerful draconic ritual, to explore other dimensions; you thus reached Pangea, several centuries before the beginning of the {% symbol "Era of the Great Appeasement" for "current_era_name" %}.
 Like the Djinns, you wandered through an invisible in-between world, gradually learning how human societies work.
 But unlike those pure spirits of knowledge, you decided to interfere with this reality, so as to pass on some of your wisdom.
 
