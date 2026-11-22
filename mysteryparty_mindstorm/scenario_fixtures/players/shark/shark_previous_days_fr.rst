@@ -33,7 +33,7 @@ La veille de la grande soirée, ont eu lieu les entretiens de Loyd Georges avec 
 
 Les **rapports de surveillance du manoir**, dans la suite de ce document, contiennent davantage de détails sur ce qui s'est passé heure par heure. Il semble que certains invités se soient montrés audacieux en marge de leur entretien.
 
-**Attention**, certaines informations *spoiler* (en italique, initialement destinées au maître de jeu) dans ces rapports sont censées être connues de l'inspecteur, d'autres ne le sont pas !
+**Attention**, certaines informations *spoiler* (en italique, initialement destinées au maître de jeu) dans ces rapports sont censées être connues de l'inspecteur, d'autres ne le sont pas ! Vous savez ce que vous avez vous-même fait ou constaté, ou appris des serviteurs. Mais vous IGNOREZ le contenu du colis livré le matin, le retour de {{character_properties.amethyst.official_name}} pour désactiver les caméras et sa fuite par le garde-manger avec {{character_properties.malachite.official_name}}, ainsi que la reprogrammation de la sécurité du manoir et l'intrusion nocturne commises par {{character_properties.garnet.official_name}}.
 
 
 La journée de la soirée spéciale

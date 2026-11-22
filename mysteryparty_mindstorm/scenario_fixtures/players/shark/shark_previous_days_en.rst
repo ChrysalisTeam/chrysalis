@@ -33,7 +33,7 @@ On the eve of the grand evening, Loyd Georges' interviews with each bidder took 
 
 The **manor surveillance reports**, further on in this document, contain more details on what happened hour by hour. It seems that some guests were bold on the sidelines of their interview.
 
-**Beware**, some *spoiler* information (in italics, originally intended for the Game Master) in these reports is supposed to be known to the inspector, some is not!
+**Beware**, some *spoiler* information (in italics, originally intended for the Game Master) in these reports is supposed to be known to the inspector, some is not! You know what you yourself did or observed, or learned from the servants. But you do NOT know the contents of the parcel delivered in the morning, the return of {{character_properties.amethyst.official_name}} to disable the cameras and his escape through the pantry with {{character_properties.malachite.official_name}}, nor the reprogramming of the manor's security and the night intrusion carried out by {{character_properties.garnet.official_name}}.
 
 
 The day of the special evening

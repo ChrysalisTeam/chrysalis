@@ -113,6 +113,26 @@ You are the type to verbally assault any protagonist who might behave "suspiciou
 
 Expected behaviour with the servants: the inspector is at first "very professional" with them, but when they start helping the players in their own investigations, he quickly gets irritated, to the point of uttering strange Akarith religious interjections... and he does not fail to lose his temper if the old servant Alphonse, through his blunders, hampers his manoeuvres.
 
-You have a document, the "Elements of Sabarith Law", which you keep with you, even though you are ready to try to circumvent its provisions for the needs of this very special investigation.
+You have a document, the "Elements of Sabarith Law", which you keep with you, even though you are ready to try to circumvent its provisions for the needs of this very special investigation. {% xitem 'sabarith_law_summary_for_shark' is needed %}
+
+You also keep on you an **Akarith lexicon**, which helps you understand the religious terms of your new masters, and from which you will draw the Akarith oath that you will let slip (see below). {% xitem 'akarith_lexicon_for_shark' is needed %}
+
+You have exchanged many letters with your sister, before and during your conversion to the Akarith religion.
+
+
+
+Your mandatory actions during the evening
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*Here are the moments imposed by the Game Master's planning (approximate times, counted from the start of the game). Your interrogations must remain SHORT (10-15 min) but intense.*
+
+- HOUR 0:15: make your entrance with your introductory speech (assault on Loyd Georges, "judicial requisition" of all the guests), then leave again to "finish certain investigations".
+- HOUR 0:30: when the Tabellion arrives, quarrel with him (immunity, interference); order Obsidian to question **Cynthia and Waden** together; question **Peridot** (sombre at first, then "good alibi, I don't think it was you, help me by spilling everything you know about the others"), then **Spinel** (his quarrel with Loyd Georges during the interview, his alibi).
+- HOUR 1:00: make no comment on the arrival of the Akarith Ambassador; question **Garnet**, rather aggressively; if someone brings you the telegram about "the prowler of the neighbouring hamlet", you MUST disdainfully tear it up.
+- HOUR 2:00: entrust Obsidian with the questioning of **Amethyst**, and run a "prisoner's dilemma" with **Malachite and Topaz** (giving them 5 minutes to prepare).
+- HOUR 2:30: question **Opal** while Obsidian questions **Lydia**, in the SAME room; then possibly, with Obsidian, a "good cop / bad cop" on the most incriminated suspect.
+- HOUR 3:00: in a fit of anger, you MUST let slip an Akarith oath (*Yod' Lash*, *Zort'* or *Sel'ha*) in front of at least Obsidian; hold mini-interviews, even outside your office, and file your requests for indictment.
+- HOUR 3:30: announce that you are going away for 15 minutes to take stock with the armed guards (you may take the opportunity to visit your P.O. box).
+- HOUR 4:30: announce that you are leaving to report to your superiors in Salima, and entrust Obsidian with watching over the guests; if you have not been unmasked, now is the time to go and finish off Loyd Georges with your lily of the valley extract (check with the Game Master).
 
 

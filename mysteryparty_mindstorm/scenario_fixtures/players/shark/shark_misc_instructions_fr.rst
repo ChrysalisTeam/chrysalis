@@ -113,6 +113,26 @@ Vous êtes du genre à agresser verbalement tout protagoniste qui pourrait avoir
 
 Comportement attendu avec les serviteurs : l’inspecteur est d’abord "très professionnel" avec eux, mais lorsque ceux-ci se mettent à aider les joueurs dans leurs propres enquêtes, il s’irrite rapidement, jusqu’à avoir d’étranges interjections religieuses akarites… et il ne manque pas de s'emporter si le vieux domestique Alphonse, par ses bévues, gêne ses manœuvres.
 
-Vous avez un document des "Eléments de droit sabarite" que vous gardez avec vous, même si vous êtes prêt à tenter de les contourner pour les besoins de cette enquête très spéciale.
+Vous avez un document des "Eléments de droit sabarite" que vous gardez avec vous, même si vous êtes prêt à tenter de les contourner pour les besoins de cette enquête très spéciale. {% xitem 'sabarith_law_summary_for_shark' is needed %}
+
+Vous gardez aussi sur vous un **lexique akarite**, qui vous aide à comprendre les termes religieux de vos nouveaux maîtres, et dans lequel vous puiserez le juron akarite que vous laisserez échapper (voir ci-dessous). {% xitem 'akarith_lexicon_for_shark' is needed %}
+
+Vous avez échangé de nombreuses lettres avec votre soeur, avant et pendant votre conversion à la religion akarite.
+
+
+
+Vos actions obligatoires pendant la soirée
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*Voici les moments imposés par le planning du maître de jeu (horaires approximatifs, comptés depuis le début du jeu). Vos interrogatoires doivent rester COURTS (10-15mn) mais intenses.*
+
+- HEURE 0:15 : entrée en scène avec votre discours introductif (agression de Loyd Georges, "réquisition judiciaire" de tous les invités), puis vous repartez "terminer certaines investigations".
+- HEURE 0:30 : à l'arrivée du tabellion, disputez-vous avec lui (immunité, ingérence) ; ordonnez à Obsidian d'interroger ensemble **Cynthia et Waden** ; interrogez **Peridot** (d'abord sombre, puis "bon alibi, je ne pense pas que c'est vous, aidez-moi en balançant tout ce que vous savez sur les autres"), puis **Spinel** (sa querelle avec Loyd Georges pendant l'entretien, son alibi).
+- HEURE 1:00 : ne faites aucun commentaire sur l'arrivée de l'ambassadeur akarite ; interrogez **Garnet**, de façon plutôt agressive ; si l'on vous apporte le télégramme sur "le rôdeur du hameau voisin", vous DEVEZ le déchirer dédaigneusement.
+- HEURE 2:00 : confiez à Obsidian l'interrogatoire d'**Amethyst**, et menez un "dilemme du prisonnier" avec **Malachite et Topaz** (en leur laissant 5 minutes pour se préparer).
+- HEURE 2:30 : interrogez **Opal** pendant qu'Obsidian interroge **Lydia**, dans la MÊME salle ; puis éventuellement, avec Obsidian, un "gentil flic / méchant flic" sur le suspect le plus accablé.
+- HEURE 3:00 : lors d'un coup de colère, vous DEVEZ laisser échapper un juron akarite (*Yod' Lash*, *Zort'* ou *Sel'ha*) devant au moins Obsidian ; menez des mini-entretiens, même hors de votre bureau, et lancez vos demandes de mise en examen.
+- HEURE 3:30 : annoncez que vous vous absentez 15 minutes pour faire le point avec les gardes armés (vous pouvez en profiter pour passer à votre boîte postale).
+- HEURE 4:30 : annoncez que vous partez faire votre rapport à vos supérieurs à Salima, et confiez à Obsidian la surveillance des invités ; si vous n'avez pas été démasqué, c'est le moment d'aller achever Loyd Georges avec votre extrait de muguet (voir avec le maître de jeu).
 
 
