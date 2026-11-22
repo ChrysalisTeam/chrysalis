@@ -1,6 +1,8 @@
 Game Flow - GM SHEET
 #######################################
 
+*Timetable (about 2 hours, details in the GM manual): out-of-game briefing 10 min; welcome 5 min; 4 interviews of 12 min, separated by 3 investigation updates of 5 min; 10 min interlude after the 2nd update; final huddles 10 min; final scene 5 min; debriefing 10 min. The NPC actors arrive 45 min before the players.*
+
 
 NPC ACTORS' Briefing
 ----------------------------

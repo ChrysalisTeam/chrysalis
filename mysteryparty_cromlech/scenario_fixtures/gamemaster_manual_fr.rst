@@ -124,3 +124,60 @@ En réalité :
 - Armure, casque et bouclier romains : *"Des échos de bataille vous parviennent : cris en latin et en gaulois, fracas des armes... et du sang versé en offrande."*
 - Tablette noire de défixion (dans le coffre) : *"Glacée au toucher. Un murmure assoiffé de sang semble en émaner."*
 
+
+Préparation et logistique
+===========================================
+
+Joueurs et groupes
+    Les joueurs forment **4 groupes** de détectives, un par poste d'enquête, de 3 à 6 joueurs chacun (idéalement 4 ou 5). Dans chaque groupe, trois joueurs reçoivent un rôle spécial : greffier, psyker et intimidateur (voir la fiche "Détectives du paranormal") ; on peut nommer les groupes A, B, C et D.
+
+Lieux
+    - La salle du Trésor, où sont exposés les artefacts ; on y inspecte le Trésor pendant les entretiens, et on y joue la scène finale.
+    - Trois espaces d'entretien, un par témoin (Guide, Reporter, Conservateur), assez éloignés pour que les groupes ne s'entendent pas ; ceux du Guide et du Conservateur doivent être dans deux salles différentes.
+    - Une grande salle, hors de la salle du Trésor, pour l'accueil, les compléments d'enquête, l'interlude et les conciliabules finaux.
+    - Une cachette près de la salle du Trésor, où l'interprète d'Andrea attend pendant la scène finale.
+
+Arrivée des figurants
+    Les figurants arrivent environ **45 minutes avant les joueurs**, pour leur briefing (voir la fiche "Déroulement du jeu"), les costumes et maquillages, et la mise en place du Trésor.
+
+Horaires (environ 2 heures)
+    - Briefing hors-jeu des joueurs : 10 min.
+    - Accueil par l'inspecteur, article de journal et rapport d'enquête initial : 5 min.
+    - 4 entretiens simultanés de 12 min chacun.
+    - Après chacun des 3 premiers entretiens, un complément d'enquête : 5 min, le temps de rassembler les groupes dans la grande salle, de leur remettre le complément, puis de les envoyer à leur poste suivant.
+    - Interlude (leçon d'Histoire du professeur Bloch), entre le 2e complément et le 3e entretien : 10 min.
+    - Conciliabules finaux : 10 min.
+    - Scène finale : environ 5 min (la durée de la bande son).
+    - Debriefing : 10 min.
+
+Au cours d'un entretien
+    Le MJ sonne le **gong** au bout de 12 minutes. Lors des 2e et 3e entretiens, l'inspecteur intervient vers la 4e minute auprès du Conservateur, puis vers la 8e minute auprès du Guide. Lors du 4e entretien, les témoins se mettent à divaguer à partir de la 6e minute. Le Druide intervient lors des 1er, 2e et 4e entretiens (voir sa fiche).
+
+Rotation des groupes
+    Chaque groupe passe une fois par chaque poste, dans l'ordre cyclique Guide, Reporter, Conservateur, Trésor :
+
+    ===========  =====  ========  ============  ======
+    Entretien    Guide  Reporter  Conservateur  Trésor
+    ===========  =====  ========  ============  ======
+    1er          A      B         C             D
+    2e           D      A         B             C
+    3e           C      D         A             B
+    4e           B      C         D             A
+    ===========  =====  ========  ============  ======
+
+    Ainsi, le Druide rencontre une fois le psyker de chaque groupe : celui du groupe D (au Guide) et du groupe B (au Conservateur) au 2e entretien, celui du groupe C (au Reporter) et du groupe A (au Trésor) au 4e.
+
+Documents à remettre
+    - Briefing hors-jeu : une fiche "Détectives du paranormal" par joueur ; un brassard pour chaque psyker, du papier et un stylo pour chaque greffier.
+    - Accueil : à chaque groupe, l'article de journal sur le Cromlech, et la première partie du document des rapports de police (fiches d'identité des personnes impliquées et rapport d'enquête initial).
+    - Après les 1er, 2e et 3e entretiens : à chaque groupe, le complément d'enquête #1, #2 puis #3 (le document des rapports de police est à imprimer en 4 exemplaires, puis à découper entre les rapports).
+    - Au Trésor : la première page du document "Le Trésor du Cromlech" (si le professeur Bloch n'est pas là) et le papier sur les symboles de la mythologie gauloise, posés près des artefacts ; la lettre médiévale (document game_clues), roulée dans le cryptex ; et, à partir du 4e entretien, le message d'Andrea glissé sous la couverture du grimoire.
+    - Interlude : à chaque groupe, le document "Le Siège d'Uxellodunum" et un exemplaire du papier sur les symboles de la mythologie gauloise.
+    - Figurants : chacun sa fiche ; le Guide reçoit aussi un exemplaire du "Siège d'Uxellodunum", auquel sa fiche renvoie, et l'expert du Trésor le document "Le Trésor du Cromlech" complet.
+
+Solutions des énigmes
+    - **Cadenas du coffre en bois** : code {% symbol "2681" for "code_du_coffre_en_bois" %}. Le complément #1 révèle le papier caché dans le portefeuille du Conservateur (*"indice : année de naissance renversée"*), et sa fiche d'identité donne son année de naissance, 1862 : renversée, elle donne 2681.
+    - **Cryptex** : mot de passe "{% symbol "secret" for "code_du_cryptex" %}". Le complément #2 révèle l'inscription de l'encensoir, *"le code du cryptex est secret"*, qu'il faut prendre au pied de la lettre. Si les joueurs bloquent, l'inspecteur peut leur souffler : "Et si cette inscription disait exactement ce qu'elle dit ?"
+    - Le Conservateur connaît ces deux codes ; il ne les donne pas de lui-même, mais un intimidateur peut lui faire confirmer une hypothèse.
+    - Le message codé de l'enveloppe est déchiffré par la police elle-même (complément #3).
+    - Le choix final se fait par le décompte des deux camps lors de la scène finale (voir la fiche "Déroulement du jeu").

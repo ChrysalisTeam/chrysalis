@@ -19,7 +19,6 @@ Les point d l'affaire sur lesquels il nous faut au plus vite investiguer :
 - Toute information utile sur la personne disparu
 - Quelle est l'origine des artefects du musée, en particulier celui volé ?
 
-Fixer heuer de venue des figurants + tôt que joueurs, pour briefing interne
 
 
 - AJouter en INVENTAIRE le portable avec VORTEX
@@ -59,7 +58,6 @@ Ajouter MAQUILLAGES RAPIDES
 
 Harmoniser salle des antiquité ou du trésor ?? Naming
 
-; il leur donne **l'article de journal** sur le Cromlech, et llele rapport d'enquête initial ;
 
 
 

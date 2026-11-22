@@ -124,3 +124,60 @@ In reality:
 - Roman armour, helmet and shield: *"Echoes of battle reach you: cries in Latin and in Gaulish, the clash of weapons... and blood shed as an offering."*
 - Black curse tablet (in the chest): *"Icy to the touch. A bloodthirsty murmur seems to emanate from it."*
 
+
+Preparation and logistics
+===========================================
+
+Players and groups
+    The players form **4 groups** of detectives, one per investigation station, of 3 to 6 players each (ideally 4 or 5). In each group, three players receive a special role: clerk, psyker and intimidator (see the "Paranormal Detectives" sheet); the groups can be named A, B, C and D.
+
+Locations
+    - The Treasure Room, where the artefacts are displayed; the Treasure is inspected there during the interviews, and the final scene is played there.
+    - Three interview spaces, one per witness (Guide, Reporter, Curator), far enough apart for the groups not to overhear one another; the Guide's and the Curator's must be in two different rooms.
+    - A large room, outside the Treasure Room, for the welcome, the investigation updates, the interlude and the final huddles.
+    - A hiding place near the Treasure Room, where Andrea's actor waits during the final scene.
+
+NPC actors' arrival
+    The NPC actors arrive about **45 minutes before the players**, for their briefing (see the "Game Flow" sheet), costumes and make-up, and the setting up of the Treasure.
+
+Timetable (about 2 hours)
+    - Out-of-game briefing of the players: 10 min.
+    - Welcome by the Inspector, newspaper article and initial investigation report: 5 min.
+    - 4 simultaneous interviews of 12 min each.
+    - After each of the first 3 interviews, an investigation update: 5 min, the time to gather the groups in the large room, give them the update, then send them to their next station.
+    - Interlude (Professor Bloch's History lesson), between the 2nd update and the 3rd interview: 10 min.
+    - Final huddles: 10 min.
+    - Final scene: about 5 min (the length of the soundtrack).
+    - Debriefing: 10 min.
+
+During an interview
+    The GM rings the **gong** after 12 minutes. In the 2nd and 3rd interviews, the Inspector steps in at about the 4th minute with the Curator, then at about the 8th minute with the Guide. In the 4th interview, the witnesses start to ramble from the 6th minute. The Druid steps in during the 1st, 2nd and 4th interviews (see his sheet).
+
+Group rotation
+    Each group goes once through each station, in the cyclic order Guide, Reporter, Curator, Treasure:
+
+    ===========  =====  ========  =======  ========
+    Interview    Guide  Reporter  Curator  Treasure
+    ===========  =====  ========  =======  ========
+    1st          A      B         C        D
+    2nd          D      A         B        C
+    3rd          C      D         A        B
+    4th          B      C         D        A
+    ===========  =====  ========  =======  ========
+
+    So the Druid meets each group's psyker once: those of group D (at the Guide) and group B (at the Curator) in the 2nd interview, those of group C (at the Reporter) and group A (at the Treasure) in the 4th.
+
+Documents to hand out
+    - Out-of-game briefing: one "Paranormal Detectives" sheet per player; an armband for each psyker, paper and a pen for each clerk.
+    - Welcome: to each group, the newspaper article about the Cromlech, and the first part of the police reports document (identity sheets of the people involved and initial investigation report).
+    - After the 1st, 2nd and 3rd interviews: to each group, investigation update #1, #2 then #3 (the police reports document is to be printed in 4 copies, then cut up between the reports).
+    - At the Treasure: the first page of the document "The Cromlech Treasure" (if Professor Bloch is not there) and the paper with the symbols of Gaulish mythology, laid near the artefacts; the medieval letter (game_clues document), rolled up in the cryptex; and, from the 4th interview, Andrea's message slipped under the grimoire's cover.
+    - Interlude: to each group, the document "The Siege of Uxellodunum" and a copy of the paper with the symbols of Gaulish mythology.
+    - NPC actors: each their own sheet; the Guide also receives a copy of "The Siege of Uxellodunum", which his sheet refers to, and the Treasure's expert the full "The Cromlech Treasure" document.
+
+Puzzle solutions
+    - **Wooden chest padlock**: code {% symbol "2681" for "wooden_chest_code" %}. Update #1 reveals the piece of paper hidden in the Curator's wallet (*"clue: birth year reversed"*), and his identity sheet gives his year of birth, 1862: reversed, it gives 2681.
+    - **Cryptex**: password "{% symbol "secret" for "cryptex_code" %}". Update #2 reveals the inscription on the censer, *"the cryptex code is secret"*, which must be taken literally. If the players are stuck, the Inspector can hint: "What if this inscription meant exactly what it says?"
+    - The Curator knows both codes; he does not give them of his own accord, but an intimidator can make him confirm a guess.
+    - The coded message on the envelope is deciphered by the police themselves (update #3).
+    - The final choice is made by counting the two camps during the final scene (see the "Game Flow" sheet).

@@ -1,6 +1,8 @@
 Déroulement du jeu - FICHE MJ
 #######################################
 
+*Horaires (environ 2 heures, détails dans le manuel du MJ) : briefing hors-jeu 10 min ; accueil 5 min ; 4 entretiens de 12 min, séparés par 3 compléments d'enquête de 5 min ; interlude de 10 min après le 2e complément ; conciliabules finaux 10 min ; scène finale 5 min ; debriefing 10 min. Les figurants arrivent 45 min avant les joueurs.*
+
 
 Briefing des FIGURANTS
 ----------------------------
