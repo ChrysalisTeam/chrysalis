@@ -215,6 +215,9 @@
         "audio_recordings":
           "full_sheet":
             - "documents/audio_recordings_{lang}.rst"
+        "yodic_theology_hard_summary":  # handed to Malachite by the Oberon mediator
+          "full_sheet":
+            - "documents/yodic_theology_hard_summary_{lang}.rst"
 
 "document_generation":
   "ingame_clues_mindstorm":

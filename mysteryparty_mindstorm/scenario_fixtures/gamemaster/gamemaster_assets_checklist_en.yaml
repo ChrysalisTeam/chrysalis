@@ -30,7 +30,7 @@
 -
   - "Clues initially held by some NPCs"
   -
-    - "Oberon - Difficult summary of Yodic theology for Malachite;{% xitem 'yodic_hard_summary_for_malachite_via_oberon' is provided %} Analysis 2/2 of the radioactive stones for Waden,{% xitem 'radioactive_samples_analysis_report_part_2_for_waden' is provided %} Two Heliossarian reports on Akarith armament, for the Lordanians {% xitem 'heliossar_spy_reports_on_akaris_armament' is provided %}"
+    - "Oberon - Difficult summary of Yodic theology for Malachite (document \"yodic_theology_hard_summary\");{% xitem 'yodic_hard_summary_for_malachite_via_oberon' is provided %} Analysis 2/2 of the radioactive stones for Waden,{% xitem 'radioactive_samples_analysis_report_part_2_for_waden' is provided %} Two Heliossarian reports on Akarith armament, for the Lordanians {% xitem 'heliossar_spy_reports_on_akaris_armament' is provided %}"
     - "Rydji - Letter from Rodok for Loyd Georges, to be forwarded to Opal {% xitem 'letter_from_rodok_forwarded_to_opal' is provided %}"
     - "Tabellion - Elements of Sabarith Law (duplicate), Key to Loyd Georges' safe"
 
