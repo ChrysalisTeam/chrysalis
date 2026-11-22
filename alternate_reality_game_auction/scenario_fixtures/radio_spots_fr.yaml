@@ -13,6 +13,7 @@ audio_messages:
     "01_news_auction_bidders_chosen":
         "title": >-
             Informations Nationales - Spécial Salima
+        "gamemaster_hints": "Avant diffusion, éditer ce spot pour remplacer les deux {{TODO}} : le nombre d'enchérisseurs de la partie, puis leurs noms officiels (ex. ceux de la liste [auction-list]), écrits si besoin de façon phonétique pour le synthétiseur vocal."
         "text": >-
             \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\ \pau=2000\
             \vce=speaker=Antoine\ Bonjour à tous. Pour cette édition du journal national, nous retrouvons
@@ -153,6 +154,7 @@ audio_messages:
     "65_wiremind_defeat_irony":
         "title": >-
             Imuo confrontée à son échec
+        "gamemaster_hints": "A diffuser si un joueur bat l'IA Wiremind aux échecs. Avant diffusion, remplacer les trois {{TODO}} par le nom officiel du vainqueur (1er et 3e) et par sa ville ou son pays (2e)."
         "text": >-
             \audio=mix="entertainment_rock_237";volume=100\ \pau=2000\ \audio=volume=10\ \vce=speaker=antoinehappy\
             Coup de projecteur sur les louzeurs de la semaine. La Faculté d'Imuo avait proclamé,
@@ -188,6 +190,7 @@ audio_messages:
     "80_defeat_wiremind_standard":
         "title": >-
             Annonce - Wiremind battu
+        "gamemaster_hints": "Version sobre du spot 65. Avant diffusion, remplacer les deux {{TODO}} par le nom officiel du vainqueur et par sa ville ou son pays."
         "text": >-
             \audio=mix="news_bass_full_042";volume=100\ \pau=6000\ \audio=volume=25\ \pau=1000\ \vce=speaker=alice\
             La Faculté d'Imuo est la cible de nombreux commentaires zacerbes, après avoir tenté de dissimuler

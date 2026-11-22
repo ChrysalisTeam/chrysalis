@@ -13,6 +13,7 @@ audio_messages:
     "01_news_auction_bidders_chosen":
         "title": >-
             National News - Salima Special
+        "gamemaster_hints": "Before broadcasting it, edit this spot to replace the two {{TODO}}: the number of bidders in the game, then their official names (e.g. those of the [auction-list] list), spelled phonetically for the voice synthesiser if needed."
         "text": >-
             \audio=mix="new_orchestra_hits_A_full_308";volume=120\ \pau=5000\ \audio=volume=40\ \pau=2000\
             \vce=speaker=Antoine\ Hello everyone. For this edition of the national news, we go straight
@@ -150,6 +151,7 @@ audio_messages:
     "65_wiremind_defeat_irony":
         "title": >-
             Imuo checkmated
+        "gamemaster_hints": "To broadcast if a player beats the Wiremind AI at chess. Before broadcasting it, replace the three {{TODO}} with the official name of the winner (1st and 3rd) and with their town or country (2nd)."
         "text": >-
             \audio=mix="entertainment_rock_237";volume=100\ \pau=2000\ \audio=volume=10\ \vce=speaker=antoinehappy\
             Spotlight on the losers of the week. The Faculty of Imuo had proclaimed, with
@@ -185,6 +187,7 @@ audio_messages:
     "80_defeat_wiremind_standard":
         "title": >-
             Announcement - WireMind defeated
+        "gamemaster_hints": "Sober version of spot 65. Before broadcasting it, replace the two {{TODO}} with the official name of the winner and with their town or country."
         "text": >-
             \audio=mix="news_bass_full_042";volume=100\ \pau=6000\ \audio=volume=25\ \pau=1000\ \vce=speaker=alice\
             The Faculty of Imuo is the target of many scathing comments, after trying to cover up
