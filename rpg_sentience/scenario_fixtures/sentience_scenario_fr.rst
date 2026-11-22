@@ -237,6 +237,8 @@ Si les 2 endeuillés sont encore là à l'arrivée des villageois, ils sont fait
 
 Si la tour n'a pas encore brûlé, Abélard impose d'abord de la fouiller, et aide à trouver quelques rares parchemins écrits manuellement, pour les ramener au village ; puis la demeure est incendiée. S'ils ne sont pas prisonniers, les 2 magiciens retrouvent la tortue ancestrale dans une cachette de la forêt.
 
+Les magiciens faits prisonniers sont ramenés à Sylvorann, et enfermés dans la cave de l'Hôtel de Village en attendant d'être livrés à la justice de la grande ville ; Abélard veille ostensiblement à ce qu'ils soient bien traités. Si on l'interroge sur le toucan, Dorina nie toute menace et révèle que son toucan à bec vert est mort depuis plus d'un an - ce qui sert le plan de Joséphine. Les sapiens peuvent les rencontrer en secret (par le soupirail, ou par un tunnel du wombat), voire les faire évader.
+
 Pendant ce temps, au village, dans sa boutique, **l'apothicaire** peut expliquer aux animaux ce qu'il connaît de l'histoire : les rochers tombés sur le village, et le parchemin de menace livré au bourgmestre - il paraît par un toucan à bec vert (seul le bourgmestre l'a vu). Il peut demander au bourgmestre ce parchemin, "pour les archives du village", si suggéré, car il est aussi **archiviste**.
 
 Joséphine arrive chez l'apothicaire, et sollicite une potion narcotique puissante, prétendument "parce que son père a des insomnies et a demandé à l'essayer". L'apothicaire hésite, mais finit par lui donner cela, si les animaux ne le convainquent pas autrement. En réalité, Joséphine compte droguer son père et le notaire (voir scène 5).

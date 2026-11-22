@@ -237,6 +237,8 @@ If the 2 mourners are still there when the villagers arrive, they are taken pris
 
 If the tower has not yet burned, Abelard first insists on searching it, and helps to find a few rare handwritten parchments, to bring them back to the village; then the dwelling is set on fire. If they are not prisoners, the 2 magicians join the Ancestral Tortoise in a hiding place in the forest.
 
+The magicians taken prisoner are brought back to Sylvorann and locked in the cellar of the Town Hall, until they can be handed over to the justice of the big city; Abelard ostentatiously sees to it that they are well treated. If questioned about the toucan, Dorina denies any threat and reveals that her green-billed toucan died more than a year ago - which serves Josephine's plan. The sapients can meet them in secret (through the cellar window, or through a wombat tunnel), or even help them escape.
+
 Meanwhile, in the village, in his shop, **the apothecary** can explain to the animals what he knows of the story: the rocks that fell on the village, and the threatening parchment delivered to the burgomaster - by a green-billed toucan, it seems (only the burgomaster saw it). He can ask the burgomaster for this parchment, "for the village archives", if prompted, because he is also the **archivist**.
 
 Josephine arrives at the apothecary's, and requests a powerful narcotic potion, supposedly "because her father has insomnia and asked to try it". The apothecary hesitates, but ends up giving it to her, if the animals do not convince him otherwise. In reality, Josephine intends to drug her father and the notary (see scene 5).
