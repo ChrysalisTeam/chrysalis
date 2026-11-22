@@ -173,7 +173,7 @@ messaging:
             "sender_email": >-
                 loyd.georges@anthropia.pg
             "subject": >-
-                Bievenue mon cher Magnus
+                Bienvenue mon cher Magnus
 
 
         -
@@ -187,7 +187,7 @@ messaging:
 
                 je dois vous avouer qu'à la lecture de votre lettre, le rose m'est monté aux joues. J'ai beau m'être attendu à quelques congratulations suite à mon expédition archéologique hors-norme (congratulations que le monde académique tarde, hélas, à me délivrer), les vôtres étaient bien au-delà de mes attentes, et je vous en remercie.
 
-                En ce qui concerne les enchères, certes, il ne s'agira pas des plus belles pièces du sanctuaire akarite, car la Science les réclame à grands cris, à l'Académie d'Alifir. mais il s'agira tout de même de biens assez uniques en leur genre, et même pour certains couverts de mystérieuses runes akarites (celles-là mêmes que mon ami Emilos Loakim tente de déchiffrer depuis des lustres).
+                En ce qui concerne les enchères, certes, il ne s'agira pas des plus belles pièces du sanctuaire akarite, car la Science les réclame à grands cris, à l'Académie d'Alifir ; mais il s'agira tout de même de biens assez uniques en leur genre, et même pour certains couverts de mystérieuses runes akarites (celles-là mêmes que mon ami Emilos Loakim tente de déchiffrer depuis des lustres).
 
                 Nous aurons l'occasion de rediscuter de mon périple plus amplement (une vidéo historique est même en cours de tournage !), quand les enchères seront lancées.
 
@@ -202,7 +202,7 @@ messaging:
 
                 {{ lien_video }}
 
-                loyd Georges
+                Loyd Georges
             "categories": ["first_contacts"]
             "gamemaster_hints": "Remplacer {{ lien_video }} par le lien de la vidéo d'introduction des enchères projetée en début de partie (vidéo d'origine, en français : http://sharing.prolifik.net/LG_auction_intro_blingbling_french.mp4)."
             "sender_email": >-

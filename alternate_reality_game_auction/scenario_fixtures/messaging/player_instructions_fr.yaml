@@ -32,7 +32,7 @@ _TEMP_:
             Mais s’il a réellement déniché des pièces en rapport avec les Trois Orbes Sacrés akarites, nous pouvons craindre de graves troubles politico-religieux à court terme dans la région, alors même que notre puissance militaire se fait rapidement dépasser par celle de nos voisins akarites.
 
         -   &lg_auction_announce   |
-            Loyd Georges organise bientôt la vente aux enchères d'une partie de ses trouvailles, afin de remettre en états ses finances grevées par des décennies de fouilles infructueuses (ainsi qu'un train de vie plus qu'exubérant). Il invite à cette occasion les musées archéologiques, les grands bijoutiers, ainsi que "tous les amoureux de l'Ère Tectonne et des pierres précieuses", à concourir via le portail intranet "Anthropia", gracieusement prêté par l'université d'Alifir.
+            Loyd Georges organise bientôt la vente aux enchères d'une partie de ses trouvailles, afin de remettre en état ses finances grevées par des décennies de fouilles infructueuses (ainsi qu'un train de vie plus qu'exubérant). Il invite à cette occasion les musées archéologiques, les grands bijoutiers, ainsi que "tous les amoureux de l'Ère Tectonne et des pierres précieuses", à concourir via le portail intranet "Anthropia", gracieusement prêté par l'université d'Alifir.
 
             Il faut à tout prix que nos meilleurs agents empruntent de fausses identités pour participer à ces enchères, et obtiennent un maximum d'informations sur cette expédition archéologique. Sans nul doute, nous ne serons pas les seuls services secrets sur la sellette ; une prudence infinie et une présence d'esprit impeccable seront donc de mise.
 
@@ -57,12 +57,12 @@ _TEMP_:
         -   *nazur_excavation_intro
 
         -       |
-            Nous n’avons à l’heure actuelle aucun renseignement fiable sur les artefacts qu’il aurait mis au jour. Mais s’il a réellement déniché des pièces en rapport avec les Trois Orbes Sacrés akarites, la fièvre religieuse qui grandit en akarite pourrait bien dégénérer pour de bon.
+            Nous n’avons à l’heure actuelle aucun renseignement fiable sur les artefacts qu’il aurait mis au jour. Mais s’il a réellement déniché des pièces en rapport avec les Trois Orbes Sacrés akarites, la fièvre religieuse qui grandit en Akarie pourrait bien dégénérer pour de bon.
 
         -   *lg_auction_announce
 
         -       |
-            Quelques soient les résultats de cette investigation, nous ne devons pas oublier l'objectif prioritaire que nous a fixé notre bien-aimé duc : ménager à tout prix la susceptibilité des judicateurs akarites. Certains d'entre eux considèrent déjà notre peuple comme issu de leur "lignée sacrée", cela nous offre donc une chance de nous ranger sans heurts sous leur bannière, si une nouvelle guerre midolienne devait éclater ; des contacts diplomatiques secrets ont déjà été établis, pour préparer le terrain en ce sens.
+            Quels que soient les résultats de cette investigation, nous ne devons pas oublier l'objectif prioritaire que nous a fixé notre bien-aimé duc : ménager à tout prix la susceptibilité des judicateurs akarites. Certains d'entre eux considèrent déjà notre peuple comme issu de leur "lignée sacrée", cela nous offre donc une chance de nous ranger sans heurts sous leur bannière, si une nouvelle guerre midolienne devait éclater ; des contacts diplomatiques secrets ont déjà été établis, pour préparer le terrain en ce sens.
             Mais il nous reste à agir dans l'ombre pour que cette solution de dernier recours - nuisible à nos anciens alliés héliossars et masslaves, et fort humiliante au demeurant - n'ait jamais à être appliquée.
 
 
@@ -140,7 +140,7 @@ _TEMP_:
             Nous n’avons, à l’heure actuelle aucun renseignement fiable sur la façon dont ce retraité de Salima s'y est pris pour passer outre les décrets midoliens proscrivant ce type d'activités, ni sur les artefacts qu’il aurait mis au jour.
 
         -       |
-            Loyd Georges organise bientôt la vente aux enchères d'une partie de ses trouvailles, afin de remettre en états ses finances grevées par des décennies de fouilles infructueuses (ainsi qu'un train de vie plus qu'exubérant). Il invite à cette occasion les musées archéologiques, les grands bijoutiers, ainsi que "tous les amoureux de l'Ère Tectonne et des pierres précieuses", à concourir via le portail intranet "Anthropia", gracieusement prêté par l'université d'Alifir.
+            Loyd Georges organise bientôt la vente aux enchères d'une partie de ses trouvailles, afin de remettre en état ses finances grevées par des décennies de fouilles infructueuses (ainsi qu'un train de vie plus qu'exubérant). Il invite à cette occasion les musées archéologiques, les grands bijoutiers, ainsi que "tous les amoureux de l'Ère Tectonne et des pierres précieuses", à concourir via le portail intranet "Anthropia", gracieusement prêté par l'université d'Alifir.
 
             Tout ce qu'on sait c'est que nos indics n'ont jamais eu les lèvres aussi scellées et que les enchères de ce cher vieillard sont un véritable panier à crabes!
 
@@ -255,7 +255,7 @@ _TEMP_:
 
             Vous suivrez donc les enchères en ligne de Loyd Georges, en vous faisant passer pour un innocent acheteur.
 
-            CORE, vous vous présenterez comme {{ titre_officiel }}. Le véritable personnage s'est converti à la foi akarite par peur, ses exploitations étant limitrophe. Il ne sort plus de chez lui et passe son temps a prier, attention donc, car des agents doriens pourraient éventuellement vous repérez.
+            CORE, vous vous présenterez comme {{ titre_officiel }}. Le véritable personnage s'est converti à la foi akarite par peur, ses exploitations étant limitrophe. Il ne sort plus de chez lui et passe son temps a prier, attention donc, car des agents doriens pourraient éventuellement vous repérer.
 
         -   *explain_threats_competitors
 
@@ -292,7 +292,7 @@ _TEMP_:
 
             - Identifier les participants de ces enchères et la raison de leur présence, s'ils sont en infraction avec la loi, n'hésitez pas à les faire chanter avant de les mettre derrière les barreaux.
             - Comprenez ce que fait tout ce foutoir ici, et si cela nous concerne, remontez-nous toute information sensible et prenez les mesures nécessaires.
-            - Assurez la sécurité nationale et déjouez tout complôt se passant sur notre territoire, tout en arrêtant les criminels.
+            - Assurez la sécurité nationale et déjouez tout complot se passant sur notre territoire, tout en arrêtant les criminels.
 
         -    *sabarite_motto
 
@@ -399,7 +399,7 @@ messaging:
               - Votre deuxième mission sera de mettre Loyd Georges sur écoute, grâce au module "mise sur écoute" qui vient d'être raccordé à votre compte Anthropia. Il est indispensable que nous puissions voir tous les messages qu'il envoie ou reçoit.
               - Votre troisième mission sera d'engager (dès que ce sera possible) des espions dans la ville de Loyd Georges, afin de surveiller les moindres faits et gestes du bonhomme. Leurs tarifs ont augmenté récemment : ils monnayent désormais leur expertise bien plus cher si elle est payée en argent et non en pierres précieuses ; les ventes aux enchères pourraient donc nous aider sur ce point ci.
 
-              Répartissez-vous intelligement le travail.
+              Répartissez-vous intelligemment le travail.
               Vous me ferez un rapport commun dès que la première série d'enchères aura eu lieu.
 
 
@@ -434,7 +434,7 @@ messaging:
                 Tout cela au service de notre premier objectif : comprendre ce qu'il a fait lors de son expédition
                 en Midolie, et en particulier ce qu'il a ramené hormis les banals joyaux qu'il exhibe présentement.
 
-                Sinon, pour information, voici les prix que nous avons pu négocier auprès de différents sécrétariats
+                Sinon, pour information, voici les prix que nous avons pu négocier auprès de différents secrétariats
                 et indics' répartis dans quelques académies et confréries de Pangéa. Inutile de souligner que
                 les enchères de Loyd Georges, et leurs gemmes certifiées 100% naturelles, sont une énorme opportunité
                 pour avoir un rabais sur ces menus services (qui seront d'ici quelques jours/semaines raccordés

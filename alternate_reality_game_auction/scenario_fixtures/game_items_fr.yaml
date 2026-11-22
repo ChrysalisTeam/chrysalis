@@ -23,7 +23,7 @@ game_items:
         auction: "1-B"
         image: "7_topazes.jpg"
         title: "7 topazes"
-        comments: "Ces topazes, taillés en Princesse, vous séduiront par la profondeur de leur teinte légèrement turquoise."
+        comments: "Ces topazes, taillées en Princesse, vous séduiront par la profondeur de leur teinte légèrement turquoise."
         gamemaster_hints: "Gemmes multi-usages."
 
     8_amethysts:
@@ -353,7 +353,7 @@ game_items:
 
     band_topaz:
         auction: null
-        comments: "Une bague sertie d'un magnifique topaze."
+        comments: "Une bague sertie d'une magnifique topaze."
         image: images/sales/band_topaz.png
         is_gem: true
         num_items: 1

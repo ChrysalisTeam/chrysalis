@@ -31,7 +31,7 @@ messaging:
 
                 Les enchères débutent {{ date }} ; je n'ai pas encore eu la joie d'échanger avec tous les participants, mais cela viendra bien. Nous sommes encore ennuyés par des messages non sollicités (euphémisme), mais cette fois-ci pas des menaces, juste de bêtes arnaques. Je vais aller voir le support du portail Anthropia pour qu'ils corrigent leur filtrage de messagerie en conséquence ; mais morbleu, si seulement quelqu'un sur Pangéa pouvait aller régler ce genre de problèmes à la source, je serais prêt à lui donner gros...
 
-                Je te remercie d'avoir discrètement plaidé en ma faveur auprès de nos trois amies ;, j'espère bien que la manne que je viens d'apporter à ton département d'archéologie saura faire pencher la balance en ma faveur (mais je n'en redouble pas moins d'efforts).
+                Je te remercie d'avoir discrètement plaidé en ma faveur auprès de nos trois amies ; j'espère bien que la manne que je viens d'apporter à ton département d'archéologie saura faire pencher la balance en ma faveur (mais je n'en redouble pas moins d'efforts).
 
                 La petite bande de cinéastes que j'ai engagée s'est mise au tournage depuis maintenant 2 semaines, j'ai hâte de pouvoir visionner les premiers morceaux de leur œuvre.
 
@@ -50,7 +50,7 @@ messaging:
 
                 je tenais à vous remercier, au nom de l'académie, pour les généreuses contributions que vous lui avez tout récemment consenties.
 
-                D'après les premières datations de notre département archéologique, le temple pré-akarite que vous avez mis au jour serait resté en usage prés de 60 ans après la date présumée de la chute de Nazur, ce qui soulève de nombreuses questions fort intéressantes.
+                D'après les premières datations de notre département archéologique, le temple pré-akarite que vous avez mis au jour serait resté en usage près de 60 ans après la date présumée de la chute de Nazur, ce qui soulève de nombreuses questions fort intéressantes.
 
                 Tous travaillent d'arrache-pied pour que le Traducteur de Runes soit opérationnel, et que nous puissions enfin exploiter cette abondance d'écrits antiques.
 
@@ -258,7 +258,7 @@ messaging:
 
                 Pour le reste, je ne partage pas ton analyse. Là où il n’y a pas de mystères, il n’y a rien à
                 apprendre ; l’étrangeté de ce temple est donc un défi et une chance pour nous, non un échec. Et
-                nous avons encore quelques cartes maîtresses à joueur, en particulier les runes de ce fameux manuscrit.
+                nous avons encore quelques cartes maîtresses à jouer, en particulier les runes de ce fameux manuscrit.
                 Elles dépassent largement le contenu du livre saint yodique, même avec toutes ses extensions.
 
                 J'ai d'ailleurs trouvé quelques passages assez inédits dedans, qui parlent de la mythique "Bataille
@@ -275,7 +275,7 @@ messaging:
             "sender_email": >-
                 emilos.loakim@anthropia.pg
             "subject": >-
-                "RE: Grandeur et déchéance........."
+                Re: Grandeur et déchéance.........
 
 
 
@@ -488,7 +488,7 @@ messaging:
             "gamemaster_hints": "Si un joueur enquête sur les commandes du Pr Losslass aux imprimeries 3D (création de faux artefacts archéologiques)."
             "sender_email": >-
                 atyourservice@oberons.pg
-            "subject": "Bon de Livraison Imprimeries Tridimensionnelless"
+            "subject": "Bon de Livraison Imprimeries Tridimensionnelles"
 
 
 
