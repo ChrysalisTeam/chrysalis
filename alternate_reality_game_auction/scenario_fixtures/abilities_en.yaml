@@ -452,7 +452,25 @@ abilities:
                 #sacred_chests_locations: [Alifir, Endara, Denkos, Mastden, Aklarvik, Kosalam, Nelm]
 
 
-            item_locations: {}
+            item_locations:  # automatic replies (same texts as the world_scan_* message templates); other items are answered by the GM
+                amphora:
+                    scanning_set: null
+                    message: |
+                        The manaic imprint of this amphora has been detected at various places on Pangea:
+
+                        - in "Joji's Old Curios", an antique dealer in Baynon (Lordania)
+                        - in the warehouse of the Traditional Honeyworks, in Cazoar (Sabarim)
+                        - in high concentration in the ruins of ancient Blassow (Antaria)
+                        - in a few private cellars in Kosalam
+                antic_chest:
+                    scanning_set: null
+                    message: |
+                        The manaic imprint of this chest has been detected at various places on Pangea:
+
+                        - in a salt sea west of Antaria (coordinates 128.872228)
+                        - deep in the jungle, south of Slavinka (coordinates 9278.2267)
+                        - in the Yodic Temple of Zorzas
+                        - at the home of Master Vedrille, a fabulously wealthy lord of Kioctl (Balberith)
                 #amphora: "varied_artefacts_locations"
                 #horned_statue: "unique_artefacts_locations" # FIXME
                 #antic_chest: "unique_artefacts_locations"

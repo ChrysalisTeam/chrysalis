@@ -367,7 +367,7 @@ game_items:
     horned_statue:
         auction: null
         comments: "An enigmatic statue from the Temple of Nazur."
-        gamemaster_hints: FIXME
+        gamemaster_hints: "Statue of Bartzar, which stood on his tomb in the Temple of Nazur: its runes start the beta orb quest. Not auctioned, it is studied by Prof. Loakim at the Alifir Academy; the manual assumes that its 3D view is among the items of his account (give it to him at the start of the game)."
         image: images/sales/horned_statue.png
         is_gem: false
         num_items: 1
@@ -377,7 +377,7 @@ game_items:
     antic_chest:
         auction: null
         comments: "This casket, found full of rust and mud in a corner of the Temple of Nazur, has been stripped so that it can be used again."
-        gamemaster_hints: FIXME
+        gamemaster_hints: "Razulite spoils of war (its runes mention the skirmish of the Black Prairies). Not auctioned, kept at the Alifir Academy; its world scan points to the salt sea of Endara/Blassow (beta orb) and to the Kamilia jungle (gamma orb)."
         image: images/sales/antic_chest.jpg
         is_gem: false
         num_items: 1
@@ -387,7 +387,7 @@ game_items:
     sacred_book:
         auction: null
         comments: "Book in Akarith runes, discovered in the sanctuary of Nazur."
-        gamemaster_hints: FIXME
+        gamemaster_hints: "Razulite sacred book from the Temple of Nazur. Not auctioned, deciphered by Prof. Loakim at the Alifir Academy (where the Akariths steal it, see the alifir_robbery_status message): it leads to the battle of Wigwir, hence to the gamma orb."
         image: images/sales/sacred_book.jpg
         is_gem: false
         num_items: 1

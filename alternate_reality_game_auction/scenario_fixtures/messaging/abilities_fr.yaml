@@ -336,7 +336,7 @@ messaging:
             "categories":
             - >-
                 abilities
-            "gamemaster_hints": ""
+            "gamemaster_hints": "Le portail ne débite pas ce tarif automatiquement (la discussion avec les djinns n'a pas de coût programmé) : c'est au MJ de prélever 800¤, ou 200¤ en gemmes d'une valeur unitaire d'au moins 200¤, pour chaque question à laquelle il répond, et de n'accorder l'accès aux djinns qu'aux joueurs qui ont payé."
             "sender_email": >-
                 djinns@sedes-sancta.pg
             "subject": >-

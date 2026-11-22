@@ -452,7 +452,25 @@ abilities:
                 #sacred_chests_locations: [Alifir, Endara, Denkos, Mastden, Aklarvik, Kosalam, Nelm]
 
 
-            item_locations: {}
+            item_locations:  # automatic replies (same texts as the world_scan_* message templates); other items are answered by the GM
+                amphora:
+                    scanning_set: null
+                    message: |
+                        L'empreinte manaïque de cette amphore a été repérée à divers endroits sur Pangéa:
+
+                        - dans "Les vieilleries de Joji", antiquaire à Baynon (Lordanie)
+                        - dans l'entrepôt des Mielleries à l'Ancienne, à Cazoar (Sabarim)
+                        - en forte concentration dans les ruines de l'ancienne Blassow (Antaria)
+                        - dans quelques caves de particuliers à Kosalam
+                antic_chest:
+                    scanning_set: null
+                    message: |
+                        L'empreinte manaïque de ce coffre a été repérée en divers endroits sur Pangéa:
+
+                        - dans une mer de sel à l'Ouest d'Antaria (coordonnées 128.872228)
+                        - en pleine jungle, au sud de Slavinka (coordonnées 9278.2267)
+                        - dans le Temple Yodique de Zorzas
+                        - chez Maître Védrille, richissime lord de Kioctl (Balberith)
                 #amphora: "varied_artefacts_locations"
                 #horned_statue: "unique_artefacts_locations" # FIXME
                 #antic_chest: "unique_artefacts_locations"

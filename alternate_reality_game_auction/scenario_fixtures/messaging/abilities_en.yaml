@@ -336,7 +336,7 @@ messaging:
             "categories":
             - >-
                 abilities
-            "gamemaster_hints": ""
+            "gamemaster_hints": "The portal does not charge this rate automatically (chatting with the Djinns has no programmed cost): it is up to the GM to deduct 800¤, or 200¤ in gems with a unit value of at least 200¤, for each question they answer, and to grant access to the Djinns only to the players who have paid."
             "sender_email": >-
                 djinns@sedes-sancta.pg
             "subject": >-

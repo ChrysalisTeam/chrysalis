@@ -367,7 +367,7 @@ game_items:
     horned_statue:
         auction: null
         comments: "Une énigmatique statue du temple de Nazur."
-        gamemaster_hints: FIXME
+        gamemaster_hints: "Statue de Bartzar, qui se dressait sur sa tombe dans le temple de Nazur : ses runes lancent la quête de l'orbe Beta. Hors enchères, elle est étudiée par le Pr Loakim à l'Académie d'Alifir ; le manuel suppose que sa visualisation 3D figure dans les objets de son compte (la lui attribuer en début de partie)."
         image: images/sales/horned_statue.png
         is_gem: false
         num_items: 1
@@ -377,7 +377,7 @@ game_items:
     antic_chest:
         auction: null
         comments: "Ce coffret, trouvé plein de rouille et de boue dans un recoin du temple de Nazur, a été décapé pour pouvoir de nouveau servir."
-        gamemaster_hints: FIXME
+        gamemaster_hints: "Butin de guerre razulite (ses runes évoquent l'escarmouche des Prairies Noires). Hors enchères, conservé à l'Académie d'Alifir ; son scan mondial pointe la mer de sel d'Endara/Blassow (orbe Beta) et la jungle de Kamilia (orbe Gamma)."
         image: images/sales/antic_chest.jpg
         is_gem: false
         num_items: 1
@@ -387,7 +387,7 @@ game_items:
     sacred_book:
         auction: null
         comments: "Livre en runes akarites, découvert dans le sanctuaire de Nazur."
-        gamemaster_hints: FIXME
+        gamemaster_hints: "Livre sacré razulite du temple de Nazur. Hors enchères, déchiffré par le Pr Loakim à l'Académie d'Alifir (où les akarites le volent, voir le message alifir_robbery_status) : il mène à la bataille de Wigwir et donc à l'orbe Gamma."
         image: images/sales/sacred_book.jpg
         is_gem: false
         num_items: 1
