@@ -55,7 +55,7 @@ How a session unfolds
 
 The general plot is that the players descend deeper and deeper into the cave, until they find the Holy of Holies of the Yodic temple. During this exploration, they must gather as many gems and artefacts as possible, as well as clues about the history of this temple. Many heavy objects must be hauled back up as they go, on stretchers. When the storm dies down, Akariths come near the shaft blasted into the hill. Loyd Georges and the other members of the expedition must then withdraw.
 
-If the players have already come back up, all goes well for them. Otherwise, they must find a way to escape, and to reach the truck; either by repelling the first assailants who climb down the shaft (peasants, or soldiers from the small nearby garrison), or via another exit: the canal despite the shark-snakes, or the collapsed exit tunnel, or the openings above the pagan temple, or by blowing up the sub-cavern of the Yodic temple...
+If the players have already come back up, all goes well for them. Otherwise, they must find a way to escape, and to reach the truck; either by repelling the first assailants who climb down the shaft (peasants, or soldiers from the small nearby garrison), or via another exit: the canal despite the shark-snakes, or the collapsed exit tunnel, or the openings above the pagan temple, or by dynamiting the ceiling of the main hall of the Yodic temple...
 A chase, inside and then outside the cavern, is possible.
 All this time, the two porters are, depending on the case, either with Loyd Georges, or with the players.
 The adventure ends when the players reach Loyd Georges' off-road truck (or die...).
@@ -269,11 +269,11 @@ Tree roots are visible in the ceiling, as in the pagan temple (**8 m** to the su
 
 In the small crypt of the Yodic temple (which opens to the right of the ark), a huge (and extremely rare) **imperial monitor** sleeps; it is a **giant, venomous lizard**, usually timid, except when its lair is threatened; it has a poor sense of smell, sees in the dark, but only detects movement. The players can ignore it, or try to put it to sleep, or block the exit of its lair... but if they ignore it, it will eventually wake up, and intercept passers-by. This monitor usually goes through the Chlamydes' canal to leave the cavern.
 
-By sounding the **rear gallery** (between the columns and the wall), the players may notice that this is not an original partition; it is much darker and more crumbly (to break through it: ice axe or explosives).
+By sounding the **rear gallery** (between the columns and the wall), the players may notice that this is not an original partition; it is much darker and more crumbly (to break through it: ice axe or explosives). It is a wall added by the Razulites: behind it lies the **Holy of Holies**.
 
 A **trap (spring-loaded spikes)** is triggered if one walks along the rear gallery, stepping on **one of the flagstones**; it inflicts a serious wound to the thigh if the character is hit.
 
-A **large sliding metal hatch** is also visible at floor level, on the right-hand side: it is not big enough to get the large artefacts of the place through.
+A **large sliding metal hatch** is also visible at floor level, on the right-hand side of this partition (not to be confused with the entrance of the monitor's crypt, near the ark): it leads into the Holy of Holies, which can be entered by crawling through it (walking along the rear gallery, and so risking the trap), but it is not big enough to get the large artefacts of the place through; to bring them out, the partition must be broken through.
 
 
 

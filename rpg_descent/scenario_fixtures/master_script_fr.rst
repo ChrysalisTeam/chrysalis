@@ -55,7 +55,7 @@ Déroulement d'une partie
 
 La trame générale est que les joueurs descendent de plus en plus profondément dans la grotte, jusqu'à trouver le Saint des Saints du temple yodique. Ils doivent, lors de cette exploration, récolter un maximum de gemmes et d'artefacts, ainsi que des indices sur l'histoire de ce temple. Beaucoup d'objets, lourds, doivent être remontés au fur et à mesure, sur des brancards. Lorsque l'orage s'estompe, des akarites viennent près du puits creusé dans la colline. Loyd Georges et les autres membres de l'expédition doivent alors se replier.
 
-Si les joueurs étaient déjà remontés, tout se passe bien pour eux. Sinon, ils doivent trouver un moyen de s'enfuir, et de rejoindre le camion ; soit en repoussant les premiers assaillants qui descendent dans le puits (des paysans, ou des soldats de la petite garnison proche), soit via une autre issue : le canal malgré les serpents-requins, ou le tunnel de sortie éboulé, ou les orifices au-dessus du temple païen, ou en faisant sauter la sous-caverne du temple yodique...
+Si les joueurs étaient déjà remontés, tout se passe bien pour eux. Sinon, ils doivent trouver un moyen de s'enfuir, et de rejoindre le camion ; soit en repoussant les premiers assaillants qui descendent dans le puits (des paysans, ou des soldats de la petite garnison proche), soit via une autre issue : le canal malgré les serpents-requins, ou le tunnel de sortie éboulé, ou les orifices au-dessus du temple païen, ou en dynamitant le plafond de la salle principale du temple yodique...
 Une course-poursuite, dans puis hors de la caverne, est possible.
 Pendant tout ce temps, les deux porteurs sont, suivant les cas, soit avec Loyd Georges, soit avec les joueurs.
 L'aventure se termine lorsque les joueurs rejoignent le camion tout-terrain de Loyd Georges (ou meurent...).
@@ -269,11 +269,11 @@ Des racines d'arbre sont apparentes au plafond, comme pour le temple païen (**8
 
 Dans la petite crypte du temple yodique (qui débouche à droite de l'arche), un immense (et rarissime) **varan impérial** dort ; c'est un **lézard géant, venimeux**, habituellement peureux, sauf lorsque son gite est menacé ; il a un mauvais odorat, voit dans le noir, mais ne repère que les mouvements. Les joueurs peuvent l'ignorer, ou tenter de l'endormir, ou bien bloquer la sortie de son antre... mais s'ils l'ignorent, il finira par se réveiller, et intercepter les passants. Ce varan passe habituellement par le canal des chlamydes, pour sortir de la caverne.
 
-En auscultant la **galerie du fond** (entre les colonnes et le mur), les joueurs peuvent remarquer que ce n'est pas une cloison d'origine, elle est bien plus sombre et friable (pour y faire une percée : piolet ou explosif).
+En auscultant la **galerie du fond** (entre les colonnes et le mur), les joueurs peuvent remarquer que ce n'est pas une cloison d'origine, elle est bien plus sombre et friable (pour y faire une percée : piolet ou explosif). C'est un mur ajouté par les razulites : derrière lui se trouve le **Saint des Saints**.
 
 Un **piège (pieux sur ressort)** se déclenche si on parcourt la galerie du fond, en marchant sur **une des dalles** ; il inflige une sérieuse blessure à la cuisse si le personnage est touché.
 
-Une **grande chatière en métal**, coulissante, est aussi visible au ras du sol, sur le côté droit : elle ne peut suffire à faire passer les gros artefacts du lieu.
+Une **grande chatière en métal**, coulissante, est aussi visible au ras du sol, sur le côté droit de cette cloison (à ne pas confondre avec l'entrée de la crypte du varan, près de l'arche) : elle donne dans le Saint des Saints, où l'on peut entrer en rampant (en longeant la galerie du fond, donc en risquant le piège), mais elle ne peut suffire à faire passer les gros artefacts du lieu ; pour les sortir, il faut percer la cloison.
 
 
 
