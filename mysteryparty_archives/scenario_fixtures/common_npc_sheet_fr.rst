@@ -154,7 +154,7 @@ Les diacres peuvent détacher les morts de leur ancrage spirituel ; mais les fan
 
 Noter que les êtres morts de **vieillesse**, comme la **Bête**, ne sont pas ancrés, ils errent librement qu'ils soient incarnés ou en errance ; le reste des règles s'applique à eux identiquement. {% xfact "beings_dead_naturally_are_not_anchored" %}
 
-En tant que fantôme, y compris la Bête : Prêtez attention aux **incantations de l'exorciste**, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour éviter cet exorciste, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une balle sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes, puis vous allez voir le MJ discrètement. Plus de détails ci-dessous. {% xfact "beast_does_not_fear_rituals" %}
+En tant que fantôme, y compris la Bête : Prêtez attention aux **incantations de l'exorciste**, qui peut vous chasser (en vous repassant en forme spectrale) ou vous attirer lentement à lui (sous forme incarnée) ; même la Bête ne fait rien pour éviter cet exorciste, car elle n'est pas censée connaitre ses pouvoirs. Et si vous êtes touché par une fléchette sacrée, vous partez au hasard, en gémissant sous forme spectrale, pendant quelques minutes, puis vous allez voir le MJ discrètement. Plus de détails ci-dessous. {% xfact "beast_does_not_fear_rituals" %}
 
 
 Les sorts d'exorcisme affectant les fantômes

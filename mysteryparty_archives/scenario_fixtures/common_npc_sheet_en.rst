@@ -154,7 +154,7 @@ The Diakons can detach the dead from their spiritual anchoring; but the released
 
 Note that beings who died of **old age**, like the **Beast**, are not anchored; they roam freely whether embodied or wandering; the rest of the rules apply to them identically. {% xfact "beings_dead_naturally_are_not_anchored" %}
 
-As a phantom, including the Beast: Pay attention to the **incantations of the Exorcist**, who can drive you away (by switching you back to spectral form) or draw you slowly towards him (in embodied form); even the Beast does nothing to avoid this Exorcist, because it is not supposed to know his powers. And if you are hit by a sacred bullet, you leave at random, moaning in spectral form, for a few minutes, then you go and see the GM discreetly. More details below. {% xfact "beast_does_not_fear_rituals" %}
+As a phantom, including the Beast: Pay attention to the **incantations of the Exorcist**, who can drive you away (by switching you back to spectral form) or draw you slowly towards him (in embodied form); even the Beast does nothing to avoid this Exorcist, because it is not supposed to know his powers. And if you are hit by a sacred dart, you leave at random, moaning in spectral form, for a few minutes, then you go and see the GM discreetly. More details below. {% xfact "beast_does_not_fear_rituals" %}
 
 
 The exorcism spells affecting the phantoms
