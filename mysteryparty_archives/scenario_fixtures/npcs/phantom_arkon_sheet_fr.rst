@@ -96,6 +96,6 @@ Si le méchant est démasqué, et que les joueurs arrivent à mener à son terme
 
 Vous intervenez alors pour finir la bataille, en musique, avec l'aide des diacres ; la chorégraphie de cette scène finale doit être bien répétée auparavant, avec le maître de jeu.
 
-Une fois le rituel à son terme, vous clamez victoire, et appelez tous les diacres autour de vous pour quelques dernières répétitions de l'incantation rituelle. Puis vous vous en désolidarisez pour clamer, en désignant avec autorité le centre du pentacle à votre adversaire : **"Per Horus et per Ra, per solem invictus, duceres <nom du méchant>, ACTA EST FABULA"** (le maître de jeu vous donne ce nom lors de la répétition). Le méchant est alors attiré par le pentacle, et y meurt.
+Une fois le rituel à son terme, vous clamez victoire, et appelez tous les diacres autour de vous pour quelques dernières répétitions de l'incantation rituelle. Puis vous vous en désolidarisez pour clamer, en désignant avec autorité le centre du pentacle à votre adversaire : **"Per Horus et per Ra, per solem invictus, duceres <nom du méchant>, ACTA EST FABULA"** (le maître de jeu vous donne ce nom lors de la répétition). Le méchant est alors attiré par le pentacle, et y meurt. {% xfact "arkon_finishes_off_villain_on_pentacle_after_ritual" %}
 
 
