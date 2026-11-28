@@ -206,7 +206,7 @@ gamemaster_manual:
         Getting started with the game
         ------------------------------
 
-        The players are initially *on rails*: they automatically share their data with their partners (thanks to the *digital friendship* system, which the GM must seal before the game, see the `Summary timeline of the game`_), and are closely supervised by their superiors in the secret services. They will then become familiar with the universe and the forces at play by reading their messages, a few encyclopedia articles, and by browsing the sections already accessible in their web account (auction programme, list of participants, web radio...).
+        The players are initially *on rails*: they automatically share their data with their partners (thanks to the *digital friendship* system, already sealed between faction partners in the initial database), and are closely supervised by their superiors in the secret services. They will then become familiar with the universe and the forces at play by reading their messages, a few encyclopedia articles, and by browsing the sections already accessible in their web account (auction programme, list of participants, web radio...).
 
         Help panels can be displayed on some pages of the site, to explain how they work. For the rest, the players are encouraged to contact the NPCs: the "webmaster" for purely technical misunderstandings, and their hierarchical superiors for doubts about their objectives or other questions.
 
@@ -1706,8 +1706,6 @@ gamemaster_manual:
 
 
         - initial state: send the summary reports of the LG affair, from the chiefs of the secret services to their agents (including the Sabarith police one to Obsidian, and the Judicators' one to the infiltrated Akarith agent if this optional role is played)
-
-        - initial state: no digital friendship is predefined in the database; before inviting the players, the GM therefore impersonates each player (via the controls in the site header, with write access) and seals, from the Friendship Management page, their digital friendship with their faction partner
 
         - **initial abilities: wiretapping, and hiring of mercenaries**
 
