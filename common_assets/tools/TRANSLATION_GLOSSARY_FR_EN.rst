@@ -792,7 +792,7 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - Out-of-game markers. "pastille" referring back to a sticker star = "sticker" (never "sticker dot"); only the round coloured tidying dots of game_rules are "round coloured sticker dots".
    * - étole violette
      - violet stole
-     - Diakons' identifying garment; "violet", never "purple", to keep it apart from the phantoms' purple tunic.
+     - Diakons' identifying garment; "violet", never "purple", to keep it apart from the phantoms' crimson tunic.
    * - exorciste / exorcisme / Les rituels d'exorcisme
      - Exorcist / exorcism / Exorcism Rituals
      - Diakon role (canonical).
@@ -1529,8 +1529,8 @@ Mystery Party: Archives (Les Archives Secrètes des Maupertuis)
      - triple longevity / blessing of the leprechauns
      - Dragons' "Reward" secret (useless well).
    * - tunique pourpre
-     - purple tunic
-     - Phantom costume marker.
+     - crimson tunic
+     - Phantom costume marker; the tunics are dark red, so "crimson", never "purple".
    * - tuyaux de voleur (bons)
      - (good) thief's tips
      - Thief's paid clues heading.

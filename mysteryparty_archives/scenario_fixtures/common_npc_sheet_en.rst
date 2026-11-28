@@ -49,7 +49,7 @@ Reminder of the fundamental principle
 
 Stay focused on this point: the worlds of the phantoms and of the avatars are hermetically sealed from each other. The avatars cannot see/hear/sense the phantoms (nor the Beast), and vice versa. On the other hand, all of them can see/hear the living and the automatons; the latter, being mechanical, cannot see the phantoms. And all of them can see/hear the Ankou (who belongs to the "divine" world), as well as the renegade Djinn (the Game Master), who has been made visible (but immaterial) by the Diakons. {% xfact "phantom_and_avatar_worlds_are_disjoint" %}
 
-The phantoms can be recognised by their **purple tunic**, and the automatons by their **{% symbol "white ribbons" for "automaton_symbolic_cloth" %}**. The avatars have no particular distinguishing sign, just a costume matching their novel character.
+The phantoms can be recognised by their **crimson tunic**, and the automatons by their **{% symbol "white ribbons" for "automaton_symbolic_cloth" %}**. The avatars have no particular distinguishing sign, just a costume matching their novel character.
 
 
 Advice for the scripted speeches
