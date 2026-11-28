@@ -1,0 +1,854 @@
+CHRYSALIS SCENARIO AUDIT - 2026-11-21 (finalized 2026-11-22)
+=============================================================
+
+Scope: P:\Workspace\Chrysalis - rpg_descent, rpg_sentience, rpg_skeletons, mysteryparty_mindstorm,
+  mysteryparty_archives, mysteryparty_cromlech, mysteryparty_common, alternate_reality_game_auction,
+  common_assets (tools, configs, glossary), make.py. Excluded: ___* folders, "!!WIP modifications *.txt",
+  issues already listed in PROBLEMS_TO_SOLVE.txt (each candidate was grepped there) and Cromlech TODO.txt.
+Mode: READ-ONLY. No tracked file was modified; this log is the only file written in the repo
+  (git status --short before/after every build: only "?? _BUGS_REVIEW_2026-11-21.txt").
+
+Method:
+  1. Builds (below) to collect storygen coherence errors and the rendered RST (_build/<lang>/).
+  2. Programmatic FR/EN diffs (scripts in %TEMP%\chry*, not in the repo): coherence summaries (facts + knowers,
+     items needed/provided, symbol names/values) FR vs EN; per-file-pair story tags, jinja2 constructs, variables,
+     macros, headings, RST targets/refs, images; normalized numbers/times with line context; per-line and
+     paragraph/list-item alignment; ODT/ODP text + GM annotations extracted from content.xml.
+  3. Existing checkers: check_fixture_translations.py (Auction default + run by hand on the Mindstorm overrides,
+     checklists, Descent data, Cromlech inventory) and check_english_accents.py: all OK / expected differences only.
+  4. Manual reading of flagged spots and cross-document coherence review per game (sheets vs cheat sheets vs NPC
+     sheets vs GM manual/planning vs clue documents vs checklists/inventories vs portal fixtures), by game-scoped
+     reviewers; CRITICAL/MAJOR findings and a sample of the others were re-verified against the sources.
+  5. Code review of make.py, common_assets/tools/*.py, the three storygen_hooks.py, configuration.yaml files.
+
+Builds run (storygen editable install, branch fix/review-2026-11-21-major of Pychronia-storygen):
+  - python make.py build --no-pdf (7 projects x fr/en): 14/14 succeeded, no coherence ERROR; only warnings
+    "provided but not needed" (Mindstorm, ~30 items, informational) and "(MISSING)" email recipients (no local.yaml).
+  - Full PDF build of every project x fr/en with --skip-document-splitting, --output-dir in %TEMP% (outside the repo):
+    14/14 exit 0, no rst2pdf error; only "image too wide, rescaling" warnings. (The temp output folder was removed.)
+  - make.py clean --dry-run (all, and one project): OK. A make.py run with a misplaced folder argument: see [T-01].
+  - No storygen crash/traceback was met (nothing attributable to the concurrent storygen work).
+  - Storygen coherence registries are identical between FR and EN builds (except the known torn-book item of
+    Archives); Cromlech symbol names are translated in EN but values match.
+
+SEVERITY INDEX
+--------------
+CRITICAL = breaks the game/build or reveals the solution wrongly; MAJOR = plot contradiction or missing content in one
+language; MINOR; TRIVIAL.  Confidence (CONFIRMED / PLAUSIBLE) is given in each entry.
+
+Counts:        CRITICAL  MAJOR     MINOR     TRIVIAL   TOTAL
+  Mindstorm     0         5         14        3         22
+  Archives      0         2         14        2         18
+  Auction       1         5         10        3         19
+  Cromlech      0         0         10        3         13
+  MP common     0         0         0         2         2
+  RPGs          0         0         11        2         13
+  Tools/config  0         0         2         4         6
+  ALL           1         12        61        19        93
+
+CRITICAL:
+  [A-01] Cynthia's password "globetrotter" in the manual, "lightspeed1" in the fixtures [FIXED 5413b43]
+
+MAJOR:
+  [M-01] Surveillance report: Garnet received by Loyd Georges at 16h35, while his sheets say 17h [FIXED 5e9079e]
+  [M-03] Shark's sheet puts the safe in Loyd Georges' BEDROOM; everywhere else it is in the STUDY [FIXED d903837]
+  [M-04] GM planning: LG found on the floor "in his study"; all other sources say his bedroom [FIXED d4fd66e]
+  [M-05] GM planning gives the wrong NPCs the Tabellion's birthday (clue for the briefcase code 241-168) [FIXED 0a8a341]
+  [M-06] Servants' common knowledge: digoxin "at bedtime"; memo, symbol and witnesses say 18h [FIXED 8688b9f]
+  [AR-01] Player rules: stepping on a pentacle is dangerous; every other source says it is harmless outside rituals [FIXED a485e4f]
+  [AR-02] Spectral bell works once and is never recharged, yet it is the Druid's final-battle weapon [SKIPPED: needs author decision (bell recharge rule)]
+  [A-02] Cynthia and Waden are flagged as players (is_npc: false), so the portal randomizes their passwords [FIXED 944e579]
+  [A-03] Masslavian cover stories swapped between agents SHA1 (spinel) and MD5 (malachite) [FIXED 355b6eb]
+  [A-04] The manual's alpha-orb clue chain has no counterpart in the fixtures [SKIPPED: needs author decision (missing messages/files vs trimming the manual)]
+  [A-05] Lantern and grate have "runic inscriptions not yet translated" but no runic-translation reference [FIXED cb6af77]
+  [A-06] FR runic-translation data is in English [FIXED aefc2f9]
+
+MINOR:
+  [M-02] FR surveillance report: "A 16h10" in the 18h-20h block (end of Garnet's meeting) [FIXED 873f44d]
+  [M-07] Malachite's allergen: "peanuts" for the servants, "tropical nuts" everywhere else
+  [M-08] Shark "approaching retirement" vs "out of his recent retirement"
+  [M-09] World Scan of the pocket watch: GM manual "about ten zones / ~50 taverns" vs portal "13 districts / some sixty"
+  [M-10] Mouflon-attack anecdote targets Malachite's official identity, but the trekker is Spinel's
+  [M-11] Robb Barrow's secondment: 7 days vs 10 days
+  [M-12] 13h15 aperitif served by Robb (his sheet) vs by Alphonse (surveillance report)
+  [M-13] Radiation email conditioned on the "wave detector" instead of the radiation detector
+  [M-14] Notebook gives the "hiding places of the KEY of the safe", but the hidden thing is the CODE
+  [M-15] GM manual lists Obsidian (secret agent / deputy police) among the "Sabarith civilians"
+  [M-16] Checklist: "rabbit photo frame" vs "kitten photo frame"
+  [M-17] FR intercepted letter 1/3 says the opposite of EN
+  [M-18] Medical report "Digoxin 2 mg/L - non-toxic" vs pharmacology sheet "toxic above 2.5 nmol/l"
+  [M-19] FR portal overrides: antic_chest runic translation left in English (entry marked SUPPOSEDLY UNUSED) [FIXED 7807920]
+  [AR-03] Octave aged 10 at the attack of year 500, but his grave label says 488-501
+  [AR-04] Thorium ingredient "behind a padlock to pick" vs "MAGNETIC LOCK" in the checklist
+  [AR-05] Anti-explosion cauldron described as the wrong pot in the GM manual
+  [AR-06] Pyrolitis Tincture: 5th ingredient (eye of newt/toad) not mentioned by the GM manual
+  [AR-07] EN recipe now says "eye of toad", EN sheet and glossary still say "eye of newt"
+  [AR-08] Treasure code changes "every day" / "every few days" / "not the same as the previous month"
+  [AR-09] NPC lore says Octave's piggy bank was "probably hidden in the forbidden domain"; it is on the authorised floor
+  [AR-10] Thief "destroyed the very rare cryptex", but an intact cryptex (GENIAL) is in the legendary chest
+  [AR-11] Spy faction sheet gives the Lockpicker magnetic-field reading and the third spy "telecommunication"
+  [AR-12] Last-minute instructions: sentinel automaton "vulnerable to DARTS after all" vs GM manual and Woodsman sheet
+  [AR-13] Minesweeper rules out of date ("electric hand now") in sheet and checklist
+  [AR-14] Two broken fact names in the facts summary
+  [AR-15] Placeholders "X mois" / "N mini-coffrets" left in texts printed for NPCs/GM
+  [AR-16] Archives hook crashes if local.yaml lacks a character - see [K-02]
+  [A-07] Akarith mission orders sent to a Sabarith character; no Akarith player exists
+  [A-08] EN encyclopedia renames the Egyptian-like gods, breaking the naming clue
+  [A-09] Magnus's private-detective fee: 100 vs 50 kashes
+  [A-10] Magnus located in Alifir (messages) vs around Salima (manual); medical record dates out of order
+  [A-11] Belez presented as "another academy of Salima" although it is a separate city
+  [A-12] Anubis the dog alive in one message, mourned and buried in the reply
+  [A-13] Orb whistles once its temperature "rises above absolute zero" (always true)
+  [A-14] "Trapped" sapphires priced exactly 200 each pass the Djinns' "under 200" filter
+  [A-15] Player-visible "TODO FIXME" and French video link in the EN welcome message
+  [A-16] Place names spelled differently across files
+  [C-01] Curator's sheet: "you hid their codes in your office", but the chest clue is in his wallet
+  [C-02] Curator alibi: arrives at 10h "more than an hour after it began", but the ceremony began at 9h
+  [C-03] GM manual calls the sword "Gaulish" while all handouts say it is Roman
+  [C-04] Gaulish-mythology symbols sheet is needed and provided but never handed out in the game flow
+  [C-05] Cromlech model: "symbols of 3 beneficent Gaulish gods" vs "Six runes are carved"
+  [C-06] Guide's signet ring: "Roman-inspired" vs "with old Celtic symbols"
+  [C-07] "Only Curator and Druid perceive the manifestations" vs vibrations "that everyone can feel"
+  [C-08] FR writes the hero "Andrea" with an accent ("Andrea" symbol value without)
+  [C-09] Props used by the game flow missing from the inventory (not in TODO.txt)
+  [C-10] Curator gender hard-coded masculine in player handouts despite "Le/la conservateur.trice"
+  [R-01] Readme says Skeletons has no English translation, but it has one
+  [R-02] Sentience FR: owl has "cerfs acérés" (stags) instead of "serres acérées" (talons)
+  [R-03] Sentience FR: "***longs cheveux roux**" prints a stray asterisk
+  [R-04] Sentience: alarm automaton detects animals (:171) but is used to check that no HUMAN is nearby (:266)
+  [R-05] Sentience: Selene lives in a tower vs a cottage; burial vs cremation
+  [R-06] Skeletons: oliphant scale "1, 2 or 3 blasts" vs "5 oliphant blasts: very serious attack"
+  [R-07] Skeletons: Saphir's return from the bivouac - "at that very moment" (Parcival's death, ~5 days ago)
+  [R-08] Skeletons: reanimation "only possible after violent deaths" but Parcival dies of poison + sedatives
+  [R-09] Skeletons: three small GM logic gaps
+  [R-10] Descent: exits mentioned but never described
+  [R-11] Descent storygen_hooks.py: weak validation errors
+  [T-01] make.py: a game folder placed after an option makes EVERY project fail with a cryptic error
+  [T-04] check_fixture_translations.py only covers the Auction fixtures by default
+
+TRIVIAL:
+  [M-20] Small EN/FR wording and prop inconsistencies
+  [M-21] Config/data nits
+  [M-22] FR typos and name drift in the portal overrides
+  [AR-17] Archivist's diary 15 octobaire 501: "only three more months" before the 21 decembaire solstice (~2 months)
+  [AR-18] Grouped trivia
+  [A-17] "Lord Phrephett" vs "Lord Prephett"
+  [A-18] English / unaccented text in the FR encyclopedia
+  [A-19] Typo group
+  [C-11] Fact-tag attributions
+  [C-12] FR-only typos
+  [C-13] Small points
+  [K-01] Checklist header promises "non-crucial items in italics", none are for Mindstorm
+  [K-02] Archives hook crashes on an incomplete local.yaml
+  [R-12] Sentience/Skeletons configuration comments claim "plain RST, without jinja2 templating"
+  [R-13] FR typos / glossary references (FR only, EN correct)
+  [T-02] make.py: duplicated --lang values build the same language twice
+  [T-03] check_english_accents.py only excludes the "___Trash" draft folder
+  [T-05] check_fixture_translations.py: "\S*/\S*" identifier heuristic flags translated slash-words
+  [T-06] Cromlech PDFs use English smart quotes in French (no docutils.conf, rst2pdf smart quotes default)
+
+======================================================================================================
+MYSTERYPARTY_MINDSTORM (+ Auction portal data it consumes)
+======================================================================================================
+(Paths below are relative to mysteryparty_mindstorm/scenario_fixtures/ unless stated, from [M-03] on.)
+
+[M-01] Surveillance report: Garnet received by Loyd Georges at 16h35, while his sheets say 17h
+  Severity: MAJOR   Confidence: CONFIRMED
+  Files: alternate_reality_game_auction/scenario_fixtures/abilities_fr.yaml:93,97 (and abilities_en.yaml:93,97)
+         vs mysteryparty_mindstorm/scenario_fixtures/players/garnet/garnet_previous_days_fr.rst:7,13,
+            players/garnet/garnet_cheat_sheet_fr.rst:38, npcs/_common_manor_knowledge_fr.rst:15 (+ _en twins)
+  Description: the in-game surveillance report (bought by players through the portal, house_reports
+    ability, not overridden by anthropia_portal_game_data_overrides_*.yaml:314) says Garnet "arrive au
+    manoir a 16h30" and is received "dans le bureau, a 16h35". Garnet's sheet says he arrives "vers
+    16h25 ... une demi-heure avant ce qui etait prevu" and is invited in the study at
+    {% symbol "17h" for "lg_meeting_time_for_garnet" %}; servants (Alphonse/Rydji) know 17h too.
+    Players cross-checking testimonies against the report get a false 25-minute discrepancy.
+  Fix: in both abilities_*.yaml, make the report say Garnet arrives ~16h25 and is received at 17h
+    (or change the symbol to 16h35 everywhere).
+
+[M-02] FR surveillance report: "A 16h10" in the 18h-20h block (end of Garnet's meeting)
+  Severity: MINOR   Confidence: CONFIRMED
+  Files: alternate_reality_game_auction/scenario_fixtures/abilities_fr.yaml:107
+         vs abilities_en.yaml:107 ("At 6:10 pm")
+  Description: FR says the meeting with Garnet ends at 16h10, i.e. before it started (16h35/17h), and
+    inside the "18h-20h" report; EN says 6:10 pm. Garnet's sheet has the 18h digoxin just before the
+    end of the meeting, so 18h10 is intended.
+  Fix: "A 18h10" in abilities_fr.yaml:107.
+
+
+[M-03] Shark's sheet puts the safe in Loyd Georges' BEDROOM; everywhere else it is in the STUDY
+  Severity: MAJOR   Confidence: CONFIRMED
+  File: players/shark/shark_previous_days_{fr,en}.rst:59 ("le **coffre-fort** dans la chambre de Loyd Georges")
+    vs npcs/notary_sheet_{fr,en}.rst:29 (key to the safe in his study), garnet_cheat_sheet:43 / garnet_previous_days
+    (safe behind a wall hanging in the study), gamemaster/gamemaster_manual_mindstorm_{fr,en}.rst:646 + :347
+  Fix: "bureau" / "study".
+
+[M-04] GM planning: LG found on the floor "in his study"; all other sources say his bedroom
+  Severity: MAJOR   Confidence: CONFIRMED
+  File: gamemaster/gamemaster_planning_details_{fr,en}.rst:143 vs npcs/rydji_sheet_{fr,en}.rst:21 ("in the middle of
+    his bedroom"), Auction house_reports hint, ODT medical report p253 ("fall in the bedroom"), lydia_previous_days
+  Fix: "chambre" / "bedroom".
+
+[M-05] GM planning gives the wrong NPCs the Tabellion's birthday (clue for the briefcase code 241-168)
+  Severity: MAJOR   Confidence: CONFIRMED
+  File: gamemaster/gamemaster_planning_details_{fr,en}.rst:69 (Rydji, Alphonse AND Old Neighbour "ne savez plus quelle
+    annee ... vous souvenez de sa date d'anniversaire ... 24 novembre"), :73 (Alphonse = same as the neighbour)
+    vs npcs/alphonse_sheet_{fr,en}.rst:99 (macro clues_about_lg_animal_and_tabellion_birth_date, also included by
+    npcs/old_neighbour_sheet_{fr,en}.rst:41: "vous ne savez plus quel jour/mois il est ne, mais vous vous souvenez de
+    l'annee ... 1968"); only npcs/rydji_sheet_{fr,en}.rst:70 gives the day. The code (checklist :119) needs both parts,
+    so a GM following the planning misplays the NPCs.
+  Fix: planning :69/:73 -> "Rydji: day/month; Alphonse and Old Neighbour: year 1968".
+
+[M-06] Servants' common knowledge: digoxin "at bedtime"; memo, symbol and witnesses say 18h
+  Severity: MAJOR   Confidence: CONFIRMED
+  File: npcs/_common_manor_knowledge_{fr,en}.rst:43 ("Digoxine au coucher ... Le memo ... le mentionne correctement")
+    vs ODT memo p210 ("At 18:00, prepare 6 ml of Digoxin ... Resorpa for bedtime"), symbol afternoon_lg_medecine_time=18h
+    (garnet_previous_days), Auction surveillance report ("Peu avant 18h, Alphonse lui apporte un verre")
+  Fix: "Digoxine a 18h (Resorpa au coucher)".
+
+[M-07] Malachite's allergen: "peanuts" for the servants, "tropical nuts" everywhere else
+  Severity: MINOR   Confidence: CONFIRMED
+  File: npcs/_common_manor_knowledge_{fr,en}.rst:45 vs players/malachite/malachite_cheat_sheet_{fr,en}.rst:35,
+    malachite_previous_days_{fr,en}.rst:6, gamemaster/gamemaster_assets_checklist_{fr,en}.yaml:142
+  Fix: "noix tropicales" / "tropical nuts".
+
+[M-08] Shark "approaching retirement" vs "out of his recent retirement"
+  Severity: MINOR   Confidence: CONFIRMED
+  File: players/shark/shark.anteauction.standalone_{fr,en}.rst:6 vs npcs/rydji_sheet_{fr,en}.rst:9 (+ ODT intercepted
+    letters p604; Auction characters_factions_en.yaml:257 "recently out of retirement")
+  Fix: align Shark's sheet on "recently retired".
+
+[M-09] World Scan of the pocket watch: GM manual "about ten zones / ~50 taverns" vs portal "13 districts / some sixty"
+  Severity: MINOR   Confidence: CONFIRMED
+  File: gamemaster/gamemaster_manual_mindstorm_{fr,en}.rst:177 vs anthropia_portal_game_data_overrides_{fr,en}.yaml:293
+    (and :187 "about 80")
+  Fix: align the manual on the portal texts.
+
+[M-10] Mouflon-attack anecdote targets Malachite's official identity, but the trekker is Spinel's
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: players/obsidian/obsidian.anteauction.standalone_{fr,en}.rst:21, obsidian_cheat_sheet_{fr,en}.rst:19
+    (malachite.full_official_title ... "randonnee dans l'arriere-pays desertique de Sabarim") vs
+    players/spinel/spinel.anteauction.standalone_{fr,en}.rst:10 (xfact spinel_official_does_trekking)
+  Fix: use character_properties.spinel (and rename the xfact), or drop the hike if Malachite is intended.
+
+[M-11] Robb Barrow's secondment: 7 days vs 10 days
+  Severity: MINOR   Confidence: CONFIRMED
+  File: npcs/robb_barrow_sheet_{fr,en}.rst:9 vs common/context_details.postauction.custom_{fr,en}.rst:25
+  Fix: one value in the 4 files.
+
+[M-12] 13h15 aperitif served by Robb (his sheet) vs by Alphonse (surveillance report)
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: npcs/robb_barrow_sheet_{fr,en}.rst:15 vs alternate_reality_game_auction/scenario_fixtures/abilities_{fr,en}.yaml:64
+  Fix: pick one server in both.
+
+[M-13] Radiation email conditioned on the "wave detector" instead of the radiation detector
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: gamemaster/gamemaster_planning_details_{fr,en}.rst:332 vs gamemaster/gamemaster_manual_mindstorm_{fr,en}.rst:355-356
+  Fix: "detecteur de radioactivite" / "radiation detector".
+
+[M-14] Notebook gives the "hiding places of the KEY of the safe", but the hidden thing is the CODE
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: gamemaster/gamemaster_manual_mindstorm_{fr,en}.rst:646 vs :613 (Tabellion holds the key; code in the tissue box)
+  Fix: "cachettes successives du code du coffre".
+
+[M-15] GM manual lists Obsidian (secret agent / deputy police) among the "Sabarith civilians"
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: gamemaster/gamemaster_manual_mindstorm_{fr,en}.rst:53 vs planning :291, mentor_briefings :29
+  Fix: replace Obsidian with Lydia/Opal, or rephrase.
+
+[M-16] Checklist: "rabbit photo frame" vs "kitten photo frame"
+  Severity: MINOR   Confidence: CONFIRMED
+  File: gamemaster/gamemaster_assets_checklist_{fr,en}.yaml:83 vs :216 and gamemaster/gamemaster_planning_details_{fr,en}.rst:229
+  Fix: "chaton" / "kitten" at :83 (unless two props).
+
+[M-17] FR intercepted letter 1/3 says the opposite of EN
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: documents/ingame_clues_mindstorm_fr.odt p595 ("cela ne ressemblait pas davantage a une mise au placard") vs
+    documents/ingame_clues_mindstorm_en.odt p595 ("this looked more like being shelved")
+  Fix: FR "mais cela ressemblait davantage a une mise au placard".
+
+[M-18] Medical report "Digoxin 2 mg/L - non-toxic" vs pharmacology sheet "toxic above 2.5 nmol/l"
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: documents/ingame_clues_mindstorm_{fr,en}.odt p264 vs p223 (2 mg/L is ~2.5 million nmol/L)
+  Fix: "2 nmol/L" in p264 of both ODTs.
+
+[M-19] FR portal overrides: antic_chest runic translation left in English (entry marked SUPPOSEDLY UNUSED)
+  Severity: MINOR   Confidence: CONFIRMED
+  File: anthropia_portal_game_data_overrides_fr.yaml:79-82 (+ typo "shortent" in FR and EN :79-82)
+  Fix: translate (and fix "shortent"), or delete the unused entry.
+
+[M-20] Small EN/FR wording and prop inconsistencies
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  - gamemaster/gamemaster_manual_mindstorm_en.rst:385 "small tangy red fruit" vs EN ODT p560 "small stinging red fruit".
+  - gamemaster/gamemaster_planning_details_{fr,en}.rst:425 "golden single-shot pistol" vs checklist_{fr,en}.yaml:136
+    "unloaded single-shot pistol (12 gauge) in a grey leather holster".
+  - documents/audio_recordings_{fr,en}.rst: xfact alphonse_has_found_library_spy_recorder sits under the dictaphone
+    section, not the spy-pen (library) one.
+  - players/malachite/malachite.anteauction.standalone_{fr,en}.rst:44, malachite_cheat_sheet_{fr,en}.rst:29 "a Dorian
+    embassy" vs Garnet's/Opal's sheets "Akarith embassy in Doria" (PLAUSIBLE).
+  - EN malapropism of Alphonse: gamemaster_planning_details_en.rst:73 "solutionise" vs npcs/alphonse_sheet_en.rst:35 "solutionate".
+  - ODT p143: the cod-gratin method uses thyme, absent from the ingredient list.
+  - "Uranium 234" (FR) vs "Uranium-234" (EN), players/waden/waden_previous_days_{fr,en}.rst:24,34.
+
+[M-21] Config/data nits
+  Severity: TRIVIAL   Confidence: PLAUSIBLE
+  - gamemaster/gamemaster_assets_checklist_{fr,en}.yaml:16 stale comment "KEEP IN SYNC WITH email_attachments ZODB
+    overrides" (attachments now in configuration.yaml email_generation).
+  - anthropia_portal_game_data_overrides_{fr,en}.yaml ~:476 (shark), ~:484 (emilos.loakim): "secret_question: None" is
+    the YAML string "None", not null (storygen_hooks normalization only replaces Python None).
+  - Cynthia's cryptorunes (checklist :25), Obsidian's lexicon, Amethyst's stolen letter are not in email_generation
+    (probably physical props: add a comment).
+
+[M-22] FR typos and name drift in the portal overrides
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  File: anthropia_portal_game_data_overrides_fr.yaml :791 "sir Lord Georges"; :525 "dur vous"; :751 "le decheance";
+    :793 "livet"; :1074 "Esst"; :175 "Poportions"; :132 "Les ferronnerie"; :834 "indices decouvertes par vos soin";
+    :1036 "Navalut" / :1039 "Nalavuth" (glossary: Nalavut); FR :891 "Kittiiika" vs EN :890 "Kitiika".
+  Fix: correct; add a Kitiika glossary row.
+
+======================================================================================================
+MYSTERYPARTY_ARCHIVES
+======================================================================================================
+(Paths relative to mysteryparty_archives/scenario_fixtures/; FR/EN pairs are line-aligned, so "{fr,en}:N" is the same
+ line in both. Checked consistent: codes 723 / 159 / 625-993 / 425 / GENIAL, 630 kashes of riches listed and placed,
+ every item needed+provided, no multi-valued symbol, unique 3-letter hint codes, overall timeline. ODT clues are
+ cited by their document_splitting part name. The torn-book / Blowtorch EN redesign is a known issue, not repeated.)
+
+[AR-01] Player rules: stepping on a pentacle is dangerous; every other source says it is harmless outside rituals
+  Severity: MAJOR   Confidence: CONFIRMED
+  File: game_rules_{fr,en}.rst:59 ("si vous marchez sur un pentacle ou prononcez des incantations ... gare") vs
+    players/diakon_invoker_role_{fr,en}.rst:36 ("Un pentacle n'est jamais en soi dangereux ... peuvent marcher dessus
+    sans crainte", xfact pentacle_is_not_harmful_oustide_rituals) and gamemaster_manual_archives_{fr,en}.rst:602
+  Fix: game_rules:59 -> "si vous entrez dans un pentacle pendant un rituel ...".
+
+[AR-02] Spectral bell works once and is never recharged, yet it is the Druid's final-battle weapon
+  Severity: MAJOR   Confidence: PLAUSIBLE
+  File: gamemaster_manual_archives_{fr,en}.rst:688 (likely rung early; planning_details_for_game :20 frenzy at H+2),
+    :1382 ("temporairement dechargee", black tape), npcs/god_ankou_sheet_{fr,en}.rst:21 (works once before the Ankou
+    recharges it); the Druid steals it before the Ankou passes (miscellaneous/planning_details_for_game :34, GM :700),
+    but GM :1079 and npcs/avatar_druid_sheet_{fr,en}.rst:61 make it his final weapon.
+  Fix: define a recharge rule (time-based, or the Druid can recharge it) in GM :1382 and Ankou :21.
+
+[AR-03] Octave aged 10 at the attack of year 500, but his grave label says 488-501
+  Severity: MINOR   Confidence: CONFIRMED
+  File: gamemaster_manual_archives_{fr,en}.rst:43 ({% symbol "10" for "maupertuis_son_age" %}) vs
+    miscellaneous/ingame_clues_archives_{fr,en}.odt part trap_and_property_markers ("OCTAVE DE MAUPERTUIS 488-501")
+  Fix: "490-501" in both ODTs (or age 12).
+
+[AR-04] Thorium ingredient "behind a padlock to pick" vs "MAGNETIC LOCK" in the checklist
+  Severity: MINOR   Confidence: CONFIRMED
+  File: gamemaster_manual_archives_{fr,en}.rst:912 vs gamemaster_assets_checklist_{fr,en}.yaml:249,251
+  Fix: GM :912 -> "derriere un verrou magnetique".
+
+[AR-05] Anti-explosion cauldron described as the wrong pot in the GM manual
+  Severity: MINOR   Confidence: CONFIRMED
+  File: gamemaster_manual_archives_{fr,en}.rst:915 ("chaudronnet cylindrique en cuivre avec anse") vs
+    gamemaster_assets_checklist_{fr,en}.yaml:236 (enchanted one, code adp: "Chaudron bombe dessous en cuivre a anse";
+    :234 is a different "Chaudronnet rond ... 3 pieds")
+  Fix: align GM :915 with checklist :236.
+
+[AR-06] Pyrolitis Tincture: 5th ingredient (eye of newt/toad) not mentioned by the GM manual
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: ODT part recipe_pyrolitis_tincture (5 ingredients) vs gamemaster_manual_archives_{fr,en}.rst:912 (4, all on
+    site); the eye is only in the Alchemist's home stock (players/parcival_alchemist_role_{fr,en}.rst:18, not :21-28)
+  Fix: say in GM :912 where the eye comes from (or add one on site).
+
+[AR-07] EN recipe now says "eye of toad", EN sheet and glossary still say "eye of newt"
+  Severity: MINOR   Confidence: CONFIRMED
+  File: miscellaneous/ingame_clues_archives_en.odt part recipe_pyrolitis_tincture vs
+    players/parcival_alchemist_role_en.rst:18 and common_assets/tools/TRANSLATION_GLOSSARY_FR_EN.rst:337-339
+  Fix: "Eye of toad" in the EN sheet and glossary row.
+
+[AR-08] Treasure code changes "every day" / "every few days" / "not the same as the previous month"
+  Severity: MINOR   Confidence: CONFIRMED
+  File: npcs/phantom_octave_sheet_{fr,en}.rst:73 vs gamemaster_manual_archives_{fr,en}.rst:939 vs ODT part meredice_diary_extract
+  Fix: one frequency (monthly, per the diary).
+
+[AR-09] NPC lore says Octave's piggy bank was "probably hidden in the forbidden domain"; it is on the authorised floor
+  Severity: MINOR   Confidence: CONFIRMED (may be deliberate)
+  File: gamemaster_manual_archives_{fr,en}.rst:1371 (common_npc_lore_knowledge, printed in NPC supplements) vs
+    gamemaster_assets_checklist_{fr,en}.yaml:114 (secret box near the blowtorches, Archivist's nook) and the
+    Archivist's diary (20 decembaire 501)
+  Fix: "probablement cachee par Meredice quelque part dans la bibliotheque".
+
+[AR-10] Thief "destroyed the very rare cryptex", but an intact cryptex (GENIAL) is in the legendary chest
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: npcs/phantom_thief_sheet_{fr,en}.rst:26 vs gamemaster_assets_checklist_{fr,en}.yaml:217
+  Fix: "vous croyiez avoir detruit l'unique cryptex" (or "un exemplaire").
+
+[AR-11] Spy faction sheet gives the Lockpicker magnetic-field reading and the third spy "telecommunication"
+  Severity: MINOR   Confidence: CONFIRMED
+  File: factions/spy_group_sheet_{fr,en}.rst:10 vs players/spy_sounder_role_{fr,en}.rst:27-32 (magnetic reading is the
+    Sounder's), checklist :468; no telecommunication skill exists
+  Fix: "crochetage et deverrouillage magnetique" / "detection des metaux et des champs magnetiques".
+
+[AR-12] Last-minute instructions: sentinel automaton "vulnerable to DARTS after all" vs GM manual and Woodsman sheet
+  Severity: MINOR   Confidence: CONFIRMED
+  File: miscellaneous/last_minute_instructions_for_participants_{fr,en}.rst:65 vs gamemaster_manual_archives_{fr,en}.rst:735,
+    players/parcival_woodsman_role_{fr,en}.rst:26 (darts "tres peu efficaces" against machines)
+  Fix: carry the decision into GM :735 and Woodsman :26, or drop it.
+
+[AR-13] Minesweeper rules out of date ("electric hand now") in sheet and checklist
+  Severity: MINOR   Confidence: CONFIRMED
+  File: miscellaneous/last_minute_instructions_for_participants_{fr,en}.rst:95 vs players/spy_minesweeper_role_{fr,en}.rst:18-29
+    (still "FIXME UPDATE THIS"), gamemaster_assets_checklist_{fr,en}.yaml:305,346 (threads and bells)
+  Fix: update sheet and checklist to the electric-hand mechanism.
+
+[AR-14] Two broken fact names in the facts summary
+  Severity: MINOR   Confidence: CONFIRMED
+  File: npcs/phantom_octave_sheet_{fr,en}.rst:40 xfact "..._secret_family_symbol_infamily_briefcase" (typo) vs
+    gamemaster_manual_archives_{fr,en}.rst:850 "..._in_family_briefcase" (left with no knower);
+    gamemaster_manual_archives_{fr,en}.rst:794 xfact "arkon_questions_groups_about_the future_of_maupertuis_archives"
+    (contains a space; orphan duplicate of "arkon_queries_players_about_their_choice_for_final_destiny_of_archives",
+    npcs/phantom_arkon_sheet :73)
+  Fix: "_in_family_"; reuse the arkon_queries key.
+
+[AR-15] Placeholders "X mois" / "N mini-coffrets" left in texts printed for NPCs/GM
+  Severity: MINOR   Confidence: CONFIRMED
+  File: gamemaster_manual_archives_{fr,en}.rst:1367 ("dans X mois", inside common_npc_lore_knowledge; the ODT letter says
+    "plusieurs mois"), :950 ("N mini-coffrets")
+  Fix: "plusieurs mois" and the real box count.
+
+[AR-16] Archives hook crashes if local.yaml lacks a character - see [K-02]
+  Severity: MINOR   Confidence: CONFIRMED (code) - the untracked local.FIRST-SESSION.yaml / local.SECOND-SESSION.yaml
+    lack "dragons", so copying either one to local.yaml breaks the build.
+  File: storygen_hooks.py:151-152,160
+
+[AR-17] Archivist's diary 15 octobaire 501: "only three more months" before the 21 decembaire solstice (~2 months)
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  File: ODT part archivist_diary_in_his_case (FR and EN)
+  Fix: "Plus que deux mois".
+
+[AR-18] Grouped trivia
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  - npcs/avatar_druid_sheet_{fr,en}.rst:41 "arrow with curare" vs curare blowpipe-flute dart elsewhere (checklist :414, ODT Tome 3).
+  - Initiation containers: "pots-gigognes" (ODT letter) vs "Boites-gigognes" (checklist :315) vs "mini-coffrets" (GM :950).
+  - FR typos: gamemaster_assets_checklist_fr.yaml:215 "flechettes" accent; miscellaneous/complement_for_spies_fr.rst:17
+    "qu'ils n'ont pas brule" -> "qu'elles"; fact keys "penatacle_..." (players/diakon_invoker_role :46) and
+    "...oustide_rituals" misspelled.
+  - storygen_hooks.py:22 FR title "Univers et Regles du Jeu " has a trailing space.
+  - Crate label "@NICHE-BETE" with accent (FR) vs without (EN): only crate name differing between the two checklists.
+
+======================================================================================================
+ALTERNATE_REALITY_GAME_AUCTION
+======================================================================================================
+(Paths relative to alternate_reality_game_auction/scenario_fixtures/; "gm" = gamemaster_manual_{fr,en}.yaml,
+ "cf" = characters_factions_{fr,en}.yaml; FR/EN line numbers identical unless noted. Checked OK: captcha answers
+ (6210001000, 4 FR / 5 EN, 5460, Alifir), secret answers (Bastet...), ability prices vs price list, sender/recipient
+ IDs, no duplicate message IDs, no missing RST targets in the full manual. For the Garnet surveillance time
+ conflict and the "16h10" typo of abilities_fr.yaml, see [M-01]/[M-02]; for the Robb/Alphonse aperitif, [M-12].)
+
+[A-01] Cynthia's password "globetrotter" in the manual, "lightspeed1" in the fixtures
+  Severity: CRITICAL   Confidence: CONFIRMED
+  File: gm:732 (FR+EN: brute-forcing Cynthia's archive reveals "le mot de passe fetiche de Cynthia : globetrotter",
+    which then opens her account) vs cf:206 (password: "lightspeed1"); waden cf:221 "lightspeed2  # FIXME a changer"
+  Description: players following the manual's clue chain cannot log in; see also [A-02].
+  Fix: set Cynthia's password to "globetrotter" (and pick a final password for Waden).
+
+[A-02] Cynthia and Waden are flagged as players (is_npc: false), so the portal randomizes their passwords
+  Severity: MAJOR   Confidence: CONFIRMED (fixture + Pychronia code)
+  File: cf:212 (cynthia), cf:227 (waden); Pychronia pychronia_game/datamanager/datamanager_modules.py:859-868
+    (randomize_passwords_for_players replaces the password of every non-NPC)
+  Description: even with [A-01] fixed, the password becomes random at game creation; they also receive the
+    [auction-list] mails and appear as bidders, and the GM compose form excludes player addresses as senders,
+    while messaging/cynthia_abduction_{fr,en}.yaml:49 (sender cynthia) and the waden_* messages of
+    messaging/npc_orbs_{fr,en}.yaml need them as senders.
+  Fix: is_npc: true for cynthia and waden.
+
+[A-03] Masslavian cover stories swapped between agents SHA1 (spinel) and MD5 (malachite)
+  Severity: MAJOR   Confidence: CONFIRMED
+  File: messaging/player_instructions_{fr,en}.yaml:166-169 ("SHA1 ... le veritable detenteur du nom ... restera a nos
+    cotes"; "MD5 ... le veritable personnage est parti faire de la randonnee ... Sabarim") vs cf:50 (spinel/SHA1: real
+    person went hiking) and cf:63 (malachite/MD5: real holder stays at the State's disposal); Mindstorm
+    (spinel.anteauction.standalone_*.rst:10) agrees with cf.
+  Fix: swap the two cover-story sentences (feminine forms: "la veritable detentrice", "bonne patriote").
+
+[A-04] The manual's alpha-orb clue chain has no counterpart in the fixtures
+  Severity: MAJOR   Confidence: PLAUSIBLE (nothing found by grep; might be planned as live handouts)
+  File: gm:716-738, :770, :966, :1692-1723
+  Description: absent from all fixtures: Wetfeet studio / keys in the 2nd mailbox / neighbours; Cynthia's encrypted
+    archive; order confirmation and invoice sent to Waden's other address; Loakim's "merveille" message; LG / Zenon de
+    Salim cane messages (only contact sir-ademar@salima.pg exists); Loakim's email about the iron grate as "filtre de
+    la doctrine"; nicknames "Lumiere des fideles" / "Filtre de l'Orthodoxie" (gm:770) not in game_items stone_lantern /
+    rounded_grating; personal_files of cynthia and emilos.loakim are empty although the manual describes documents
+    and the 3D statue in Loakim's account.
+  Fix: add the missing messages/files, or trim the manual to the fixtures.
+
+[A-05] Lantern and grate have "runic inscriptions not yet translated" but no runic-translation reference
+  Severity: MAJOR   Confidence: CONFIRMED
+  File: game_items_{fr,en}.yaml (stone_lantern, rounded_grating) vs abilities_{fr,en}.yaml:275-340 (references)
+  Description: the translation ability returns random words instead of the clue the manual relies on.
+  Fix: add reference translations for both items.
+
+[A-06] FR runic-translation data is in English
+  Severity: MAJOR   Confidence: CONFIRMED
+  File: abilities_fr.yaml:281-330 (random_translation_words "monkey apocalypse blood sun..."; amphora, sacred_book,
+    horned_statue, antic_chest translations "all hail | the glorious Bartzar...", "shortent our penance...") while
+    runic_translation_open in the same file is French. (Mindstorm overrides: [M-19].)
+  Fix: translate into French (and fix "shortent" -> "shorten" in EN, :330).
+
+[A-07] Akarith mission orders sent to a Sabarith character; no Akarith player exists
+  Severity: MINOR (MAJOR if the Akarith side is meant to be played)   Confidence: PLAUSIBLE
+  File: messaging/player_instructions_{fr,en}.yaml:339 (akarith_introduction "recipient_emails: []  # FIXME ??"),
+    :346/:376/:383 (all ["obsidian"]); Obsidian also gets sabarite_mission_orders, which address a masculine
+    "Inspecteur I7" (Obsidian is a female "Adjointe de police sabarite")
+  Fix: decide who plays the Akarith side; fix recipients and genders.
+
+[A-08] EN encyclopedia renames the Egyptian-like gods, breaking the naming clue
+  Severity: MINOR   Confidence: CONFIRMED
+  File: encyclopedia/midolian_and_yodic_subjects_en.yaml:270-293 (Set, Wepwawet, Khnum, Apedemak, Montu, Sokar; FR Seth,
+    Oupaout, Khnoum, Apademak, Montou, Sokaris) vs messaging/main_npcs_exchanges_en.yaml:22 ("Seth, for instance - to
+    keep to the same naming scheme"); glossary (~l.2631) keeps "Oupaout"
+  Fix: use "Seth" and "Oupaout" (optionally all FR spellings) in EN.
+
+[A-09] Magnus's private-detective fee: 100 vs 50 kashes
+  Severity: MINOR   Confidence: CONFIRMED
+  File: messaging/inquiries_between_players_{fr,en}.yaml:17 ("pour 100") vs :33 ("Vos 50 ont ete debites")
+  Fix: one amount.
+
+[A-10] Magnus located in Alifir (messages) vs around Salima (manual); medical record dates out of order
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: messaging/magnus_society_family_exchanges_{fr,en}.yaml:39 ("Hotel Imperial d'Alifir"),
+    messaging/inquiries_between_players_{fr,en}.yaml:36 vs gm:892 ("voyage d'affaires a Salima") and
+    more_instructions_complete ("hotels des environs de Salima"); medical record lists "2015 Mars" before "2015 Janvier"
+  Fix: pick one city; reorder the dates.
+
+[A-11] Belez presented as "another academy of Salima" although it is a separate city
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: gm:600 vs locations_{fr,en}.yaml:170
+  Fix: "l'academie de Belez".
+
+[A-12] Anubis the dog alive in one message, mourned and buried in the reply
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: messaging/main_npcs_exchanges_{fr,en}.yaml:16 vs :51
+  Fix: past tense in the first message, or another dog.
+
+[A-13] Orb whistles once its temperature "rises above absolute zero" (always true)
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: messaging/npc_orbs_fr.yaml:96 / npc_orbs_en.yaml:97 vs gm:701, :765 (sings "en presence de chaleur",
+    silenced by the cold at Blassow)
+  Fix: a real threshold (above 0 C / room temperature).
+
+[A-14] "Trapped" sapphires priced exactly 200 each pass the Djinns' "under 200" filter
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: game_items_{fr,en}.yaml (6_sapphire_gems, 1200 for 6, hint "Gemmes piegees") vs the Djinn rule in messaging
+  Fix: change the price, or make the rule "200 or less".
+
+[A-15] Player-visible "TODO FIXME" and French video link in the EN welcome message
+  Severity: MINOR   Confidence: CONFIRMED
+  File: messaging/first_contacts_{fr,en}.yaml:203 ("TODO FIXME http://sharing.prolifik.net/LG_auction_intro_blingbling_french.mp4")
+  Fix: remove the TODO; give an EN video URL in EN.
+
+[A-16] Place names spelled differently across files
+  Severity: MINOR   Confidence: CONFIRMED
+  File: locations_{fr,en}.yaml:246 "Aklarvic" vs "Aklarvik" (gm:736, messaging/abilities_fr.yaml:175); locations:59
+    "Yumeimatchi" vs encyclopedia/pangea_misc_locations_and_events_*:80 "Yumeinamatchi"; abilities world_scan comments
+    "Nujah"/"Itzig" vs location "Nuja" (comments only)
+  Fix: one spelling each.
+
+[A-17] "Lord Phrephett" vs "Lord Prephett"
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  File: messaging/news_fr.yaml:145, news_en.yaml:144 vs image lord_prephett.png, radio_spots_en.yaml:81
+  Fix: "Prephett".
+
+[A-18] English / unaccented text in the FR encyclopedia
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  File: encyclopedia/sabarim_locations_and_characters_fr.yaml ~:100 (pr_loakim: title "Professor Loakim", keyword
+    "academie", "dans laquelle" -> "lesquels")
+  Fix: "Professeur Loakim", "academie" with accent, "lesquels".
+
+[A-19] Typo group
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  FR: messaging/abilities_fr.yaml:111 "Prix: 20px" (EN 20 kashes); messaging/npc_orbs_fr.yaml:138 "Sabrim";
+    messaging/first_contacts_fr.yaml:176 "Bievenue"; cf cynthia hints "Waden Show", shark hints "loyd Georges";
+    messaging/geopolitics_fr.yaml:19 "ses 4 premieres de metier" (word missing); game_items_fr.yaml "topazes, tailles",
+    "Bague au Topaze", "d'un magnifique topaze" (feminine); encyclopedia/hidden_clues_fr.yaml "taches" with circumflex,
+    "De tels sceau", "multiple traces", "normale"; locations_fr.yaml:223 "Ses solides alliances ... a permis ... epargne".
+  Both: abilities_{fr,en}.yaml:330 "shortent"; encyclopedia/midolian_and_yodic_subjects_*:266 "Tungunska" vs "Tunguska";
+    message id "pangea_geopolitics_accounce"; id "telephone switchboard_instructions" with a space
+    (messaging/player_instructions_* ~:465); LG motto "noblesse et fantaisie" (first_contacts) vs "Noblesse, science,
+    arts et fantaisie" (encyclopedia).
+  EN: gamemaster_manual_en.yaml:388 "Axiolian" vs "Axolia".
+
+======================================================================================================
+MYSTERYPARTY_CROMLECH
+======================================================================================================
+(FR/EN pairs line-aligned: same line counts, tag counts, numbers per line; the two clue ODTs have the
+ same paragraphs/images/annotations; FR and EN items summaries identical; clue chain works: chest code
+ 2681 = curator's birth year 1862 reversed, cryptex code "secret" on the censer.)
+
+[C-01] Curator's sheet: "you hid their codes in your office", but the chest clue is in his wallet
+  Severity: MINOR   Confidence: CONFIRMED
+  File: mysteryparty_cromlech/scenario_fixtures/characters/museum_curator_{fr,en}.rst:37 vs
+    documents/police_reports_{fr,en}.rst:88 ("papier cache dans la doublure du portefeuille"); only the
+    cryptex clue is in the office (:102, censer). (TODO.txt only says to give the curator the codes.)
+  Fix: ":37 -> one in your wallet (birth year reversed), the other engraved on the censer of your office".
+
+[C-02] Curator alibi: arrives at 10h "more than an hour after it began", but the ceremony began at 9h
+  Severity: MINOR   Confidence: CONFIRMED
+  File: characters/museum_curator_{fr,en}.rst:60 vs documents/police_reports_{fr,en}.rst:86
+  Fix: start the ceremony at 8h30 in police_reports :86, or change the symbol to "10h15".
+
+[C-03] GM manual calls the sword "Gaulish" while all handouts say it is Roman
+  Severity: MINOR   Confidence: CONFIRMED
+  File: gamemaster_manual_{fr,en}.rst:43 ("le glaive gaulois") vs documents/ancient_artefacts_description_{fr,en}.rst:13
+    ("Un glaive romain"), police_reports_{fr,en}.rst:100 ("propres aux legions romaines")
+  Fix: "le glaive antique" / "the ancient gladius".
+
+[C-04] Gaulish-mythology symbols sheet is needed and provided but never handed out in the game flow
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: documents/game_clues_{fr,en}.odt (first-paragraph annotation), inventories/game_inventory_data_{fr,en}.yaml:22;
+    absent from game_flow_{fr,en}.rst and gamemaster_manual_{fr,en}.rst (third decision clue at :73 depends on it)
+  Fix: add when/where players get it (e.g. a Treasure step in game_flow :68 and GM manual :104).
+
+[C-05] Cromlech model: "symbols of 3 beneficent Gaulish gods" vs "Six runes are carved"
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: gamemaster_manual_{fr,en}.rst:104 vs documents/ancient_artefacts_description_{fr,en}.rst:37 (clue ODT
+    lists 6 non-Toutatis gods)
+  Fix: align the count with the physical prop in both files.
+
+[C-06] Guide's signet ring: "Roman-inspired" vs "with old Celtic symbols"
+  Severity: MINOR   Confidence: CONFIRMED (wording) / may be intended
+  File: characters/museum_guide_{fr,en}.rst:28 vs characters/student_reporter_{fr,en}.rst:44
+  Fix: neutral wording ("ornee de vieux symboles") so one prop fits both.
+
+[C-07] "Only Curator and Druid perceive the manifestations" vs vibrations "that everyone can feel"
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: characters/_instructions_for_npc_actors_{fr,en}.txt:4 vs documents/police_reports_{fr,en}.rst:114,
+    game_flow_{fr,en}.rst:44 (Inspector announces failing lights around the treasure)
+  Fix: list the exceptions in the NPC instructions, or reword the police lines.
+
+[C-08] FR writes the hero "Andrea" with an accent ("Andrea" symbol value without)
+  Severity: MINOR   Confidence: CONFIRMED
+  File: characters/druid_spectre_fr.rst:13,18,20,22,28,30,31; game_flow_fr.rst:138,149,159,161 (glossary row
+    "Andrea di Revel (Andrea)" says to harmonise; EN clean)
+  Fix: replace the accented spelling; use the symbol tag at druid_spectre_fr.rst:13.
+
+[C-09] Props used by the game flow missing from the inventory (not in TODO.txt)
+  Severity: MINOR   Confidence: CONFIRMED
+  File: inventories/game_inventory_data_{fr,en}.yaml vs game_flow :12 (GONG), :144 + police :111 (revolver with one
+    bullet missing), museum_guide :37 / student_reporter :24 / museum_curator :67 (empty scabbard), game_flow
+    :180,188-189 (Tesla coil, needle, final soundtrack), moved armchair
+  Fix: add them to both inventory files (EN labels + FR xitem keys).
+
+[C-10] Curator gender hard-coded masculine in player handouts despite "Le/la conservateur.trice"
+  Severity: MINOR   Confidence: CONFIRMED
+  File: gamemaster_manual_{fr,en}.rst:79 vs documents/article_about_the_cromlech_of_lyon_{fr,en}.rst:10 ("son fils
+    unique"), characters/museum_guide_{fr,en}.rst:44 ("M. du Guesclin"), documents/police_reports_fr.rst:24 ("Avocat")
+  Fix: neutral forms in handouts, or state the role is male.
+
+[C-11] Fact-tag attributions
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  File: characters/museum_curator_{fr,en}.rst:47 (curator wounded by the hero: curator should be "as author");
+    characters/student_reporter_{fr,en}.rst:13 (common coded language: reporter should be author);
+    characters/museum_curator_{fr,en}.rst:31 fact name typo "il ya", and druid_spectre :22 knows it but is not tagged.
+  Fix: add "as author" / tag the druid / fix "il y a" in both languages.
+
+[C-12] FR-only typos
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  Files: gamemaster_manual_fr.rst:23 "en meme tempe"; :31 "dans bibliotheque"; :104 "il contient" -> "elle", "dan lequel";
+    game_flow_fr.rst:44 "phbnomene" + missing closing quote; :109 "un vraie"; :190 "psyckers";
+    characters/student_reporter_fr.rst:11 "son mere"; :13 "cela pour vous servir" -> "pourrait"; :36 "ca" with cedilla-grave;
+    characters/druid_spectre_fr.rst:22 "ne soit passes" -> "soient"; :36 "scene finalement" -> "finale";
+    characters/paranormal_detectives_fr.rst:34 "tapant du point" -> "poing";
+    characters/museum_curator_fr.rst:78 "perce au jour" -> "a jour" (+ double space);
+    documents/police_reports_fr.rst:86 "festivitee"; documents/ancient_artefacts_description_fr.rst:24 "rouleurs";
+    documents/game_clues_fr.odt medieval letter "Les runes qu'elles portent" -> "qu'elle porte";
+    FR mixes "pistolet"/"revolver" (museum_curator_fr :47 vs :53, gamemaster_manual_fr :43, game_flow_fr :144).
+
+[C-13] Small points
+  Severity: TRIVIAL   Confidence: PLAUSIBLE
+  - "concours Maurice Genevoix" (museum_curator :60, police :86): Genevoix was 10 in Dec. 1900 (anachronism, maybe deliberate).
+  - documents/last_battle_of_the_gauls_en.rst:7 cites fr.wikipedia; use en.wikipedia.org/wiki/Siege_of_Uxellodunum.
+  - French smart quotes: see [T-06].
+
+======================================================================================================
+MYSTERYPARTY_COMMON
+======================================================================================================
+
+[K-01] Checklist header promises "non-crucial items in italics", none are for Mindstorm
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  File: mysteryparty_common/scenario_fixtures/gamemaster_assets_checklist_{fr,en}.rst:4 (Mindstorm checklist YAML has
+    0 IMPORTANT markers, so every item renders roman; see _build/fr/gamemaster/assets_checklist_full_sheet.txt)
+  Fix: only print that sentence when at least one item is marked IMPORTANT.
+
+[K-02] Archives hook crashes on an incomplete local.yaml
+  Severity: TRIVIAL   Confidence: PLAUSIBLE
+  File: mysteryparty_archives/scenario_fixtures/storygen_hooks.py:151-152,159 (pop("_CHARACTER_OVERRIDES_") and
+    local_overrides[name] without defaults; Mindstorm hook :163-168 is tolerant). local.yaml.example is complete.
+  Fix: .pop(..., {}) and .get(name, {}).
+
+======================================================================================================
+RPG_DESCENT / RPG_SENTIENCE / RPG_SKELETONS
+======================================================================================================
+(FR/EN pairs are line-for-line twins: same line counts, lists, numbers, stats, kash prices, distances;
+ the two Skeletons map ODPs carry the same 17 labels. No CRITICAL/MAJOR issue found.)
+
+[R-01] Readme says Skeletons has no English translation, but it has one
+  Severity: MINOR   Confidence: CONFIRMED
+  File: Readme.rst:18 (vs Readme.rst:166-174, rpg_skeletons/scenario_fixtures/skeletons_scenario_en.rst,
+    skeletons_map_en.odp, added by commit d6ac7a8)
+  Description: "English translations are available for all games except Skeletons" is stale; the same
+    Readme builds Skeletons with --variable lang=en.
+  Fix: "English translations are available for all games."
+
+[R-02] Sentience FR: owl has "cerfs acérés" (stags) instead of "serres acérées" (talons)
+  Severity: MINOR   Confidence: CONFIRMED
+  File: rpg_sentience/scenario_fixtures/sentience_scenario_fr.rst:30 (EN :30 "sharp talons"; glossary row
+    "oeil aiguise et serres acerees")
+  Fix: "œil aiguisé et serres acérées".
+
+[R-03] Sentience FR: "***longs cheveux roux**" prints a stray asterisk
+  Severity: MINOR   Confidence: CONFIRMED (docutils renders bold "*longs cheveux roux")
+  File: rpg_sentience/scenario_fixtures/sentience_scenario_fr.rst:144 (EN :144 correct)
+  Fix: "**longs cheveux roux**".
+
+[R-04] Sentience: alarm automaton detects animals (:171) but is used to check that no HUMAN is nearby (:266)
+  Severity: MINOR   Confidence: CONFIRMED (text) / gameplay impact PLAUSIBLE
+  File: rpg_sentience/scenario_fixtures/sentience_scenario_{fr,en}.rst:171 vs :266
+  Description: the players are animals spying the hot-spring scene; GM can't tell whether the automaton
+    detects them.
+  Fix: state one rule (e.g. "detects animal and human presences").
+
+[R-05] Sentience: Selene lives in a tower vs a cottage; burial vs cremation
+  Severity: MINOR   Confidence: CONFIRMED
+  File: sentience_scenario_{fr,en}.rst: "tour"/"tower" at :111,193,198,220,228,232 vs "chaumiere"/"cottage"
+    at :155-156; "enterrement"/"burial" at :151 vs "ceremonie de cremation"/"cremation ceremony" at :227.
+  Fix: use "tour"/"tower" at :155-156 and "funerailles"/"funeral" at :151.
+
+[R-06] Skeletons: oliphant scale "1, 2 or 3 blasts" vs "5 oliphant blasts: very serious attack"
+  Severity: MINOR   Confidence: CONFIRMED
+  File: rpg_skeletons/scenario_fixtures/skeletons_scenario_{fr,en}.rst:79 vs :389 (glossary says "1 to 5 blasts")
+  Fix: ":79 -> 1 to 5 blasts depending on the severity".
+
+[R-07] Skeletons: Saphir's return from the bivouac - "at that very moment" (Parcival's death, ~5 days ago)
+  vs Day 3 treating the bivouac as just finished
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: skeletons_scenario_{fr,en}.rst:486-492 vs :348 ("nearly 5 days"), :357, :360, :369
+  Fix: make Saphir return on Day 3 (drop "at that very moment"), or write "her recent bivouac" at :357.
+
+[R-08] Skeletons: reanimation "only possible after violent deaths" but Parcival dies of poison + sedatives
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: skeletons_scenario_{fr,en}.rst:217 vs :487-491 (put in the flaying machine only after death, yet becomes OMEGA)
+  Fix: have him die in the machine, or state that poisoning counts as violent death.
+
+[R-09] Skeletons: three small GM logic gaps
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: skeletons_scenario_{fr,en}.rst: (a) :411 two skin patches with Saphir's wolf tattoo, never explained
+    (:245 Childeric "too covered up to see"); (b) :136 Conrad "cannot enter the other buildings" but
+    confiscates Foulques's staff in the throne room (:401, :412-415), a separate building on the map;
+    (c) :432 ending "teleport SAPHIR and the carcasses" ignores :84 (carcasses fall apart beyond the
+    muskrat nest, 200 m from the tree of life).
+  Fix: one clarifying line each.
+
+[R-10] Descent: exits mentioned but never described
+  Severity: MINOR   Confidence: PLAUSIBLE
+  File: rpg_descent/scenario_fixtures/master_script_{fr,en}.rst:271 (false partition, rear gallery),
+    :275 (large sliding metal hatch), :58 (blowing up the sub-cavern of the Yodic temple as escape);
+    :452 (filled western entrance) may be the intended link but is never connected.
+  Fix: add one line per feature saying where it leads.
+
+[R-11] Descent storygen_hooks.py: weak validation errors
+  Severity: MINOR   Confidence: CONFIRMED (code reading)
+  File: rpg_descent/scenario_fixtures/storygen_hooks.py:38-61
+  Description: validates every key the template uses (both languages pass), but a missing key raises a
+    bare KeyError (descent_data["common_equipments"], player_data["name"], player_data["stats"][stat])
+    and a non-mapping entry a TypeError, instead of DescentDataError with its path; it doesn't check that
+    the configured sheet names exist in "players", nor FR/EN player-ID parity.
+  Fix: check isinstance(dict)/key presence via _check; optionally compare player IDs with configured sheets.
+
+[R-12] Sentience/Skeletons configuration comments claim "plain RST, without jinja2 templating"
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  File: rpg_sentience/scenario_fixtures/configuration.yaml, rpg_skeletons/scenario_fixtures/configuration.yaml
+    (header comments)
+  Description: storygen still renders full sheets through jinja2 (harmless: no {{ or {% in the sources).
+  Fix: "no jinja2 constructs used".
+
+[R-13] FR typos / glossary references (FR only, EN correct)
+  Severity: TRIVIAL   Confidence: CONFIRMED
+  Files: sentience_scenario_fr.rst :128 "acccuser"; :240 "en disant agit pour que" -> "qu'elle agit";
+    :270 "issue de lourd coffret" -> "du lourd coffret"; :85 "Congres Trisannuel" -> "Trisannuels";
+    :117 "une de leur equipe" -> "leurs equipes"; :122 "eboulis rochers" -> "rocheux"; :218 "Rose, retourne"
+    stray comma; :7 "portee: 5km" -> "portee : 5 km".
+    master_script_fr.rst:141 "maitre du jeu" vs :150 "maitre de jeu" (harmonized form chosen in PROBLEMS_TO_SOLVE).
+    skeletons_scenario_fr.rst:299,347 "casque" where the rest of the file and glossary use "heaume".
+    TRANSLATION_GLOSSARY_FR_EN.rst: Sentience rows still cite old scene numbers ("Scene headings 1-4",
+    now 5; "cremation ceremony ... scene 3", now 4) after commit 2e8abf6.
+
+======================================================================================================
+PYTHON TOOLS (make.py, common_assets/tools) AND SHARED CONFIGURATION
+======================================================================================================
+
+[T-01] make.py: a game folder placed after an option makes EVERY project fail with a cryptic error
+  Severity: MINOR   Confidence: CONFIRMED (reproduced)
+  File: make.py:70-73
+  Description: the folder is only recognized as argv[1]; "python make.py build --lang en rpg_sentience
+    --no-pdf" silently treats "rpg_sentience" as an unknown storygen option, so all 7 projects are
+    launched and all fail with "Error: Got unexpected extra argument (rpg_sentience)" (0/7 succeeded).
+    Documented in the Readme ("must come right after the command"), but easy to hit.
+  Fix: after parse_known_args, if a leftover arg does not start with "-" and is an existing folder,
+    take it as the folder (or exit with a clear "folder must come right after the command").
+
+[T-02] make.py: duplicated --lang values build the same language twice
+  Severity: TRIVIAL   Confidence: CONFIRMED (code reading)
+  File: make.py:78
+  Description: "--lang en --lang en" gives languages ["en","en"]; harmless but wasteful.
+  Fix: languages = list(dict.fromkeys(args.lang or LANGUAGES)).
+
+[T-03] check_english_accents.py only excludes the "___Trash" draft folder
+  Severity: TRIVIAL   Confidence: CONFIRMED (code reading)
+  File: common_assets/tools/check_english_accents.py:33
+  Description: EXCLUDED_DIRS lists "___Trash" but not the other "___*" draft folders ignored by git
+    (alternate_reality_game_auction/scenario_fixtures/___AUCTIONS_EN_draft, ___AUCTIONS_FR,
+    mysteryparty_cromlech/scenario_fixtures/themes/___oldies), so --fix would also rewrite drafts and
+    future drafts could produce false reports. (Current run: 0 accented words found.)
+  Fix: skip every directory whose name starts with "___" (as make.py does for projects).
+
+[T-04] check_fixture_translations.py only covers the Auction fixtures by default
+  Severity: MINOR   Confidence: CONFIRMED (code reading + run)
+  File: common_assets/tools/check_fixture_translations.py:21 ; Readme.rst ("The game data of the Pychronia
+    portal" / Auction section)
+  Description: DEFAULT_ROOT is the Auction folder, so mysteryparty_mindstorm/scenario_fixtures/
+    anthropia_portal_game_data_overrides_{fr,en}.yaml (deep-merged over the Auction fixtures, same
+    portal format) is never checked unless passed explicitly. Run by hand during this audit: OK
+    (0 errors). Also, an *_en.yaml without *_fr.yaml twin is never reported.
+  Fix: add the Mindstorm overrides file to the default paths, and report orphan *_en.yaml files.
+
+[T-05] check_fixture_translations.py: "\S*/\S*" identifier heuristic flags translated slash-words
+  Severity: TRIVIAL   Confidence: PLAUSIBLE (code reading; no false positive in the current data)
+  File: common_assets/tools/check_fixture_translations.py:33
+  Description: any space-less value containing "/" (e.g. "et/ou" -> "and/or", "1/2") is treated as a
+    path that must stay verbatim, so a legitimate translation would be reported as an error.
+  Fix: require a dot or a known URL/path prefix for the path alternative.
+
+[T-06] Cromlech PDFs use English smart quotes in French (no docutils.conf, rst2pdf smart quotes default)
+  Severity: TRIVIAL   Confidence: CONFIRMED (configuration reading)
+  File: mysteryparty_cromlech/scenario_fixtures/configuration.yaml:5-7 (vs e.g.
+    mysteryparty_archives/scenario_fixtures/configuration.yaml:16-18)
+  Description: all other projects set "docutils_conf_file": "../../common_assets/docutils.conf" and
+    "rst2pdf_smart_quotes": 0 for language-aware quotes; Cromlech sets neither, so storygen's default
+    rst2pdf --smart-quotes=2 (English rules) turns the straight quotes of the French texts into
+    English curly quotes instead of guillemets.
+  Fix: add the two settings to the Cromlech configuration (docutils.conf path relative to the project).
+
+
+======================================================================================================
+OPEN DECISIONS FOR THE AUTHOR (after the fixes of branch fix/review-2026-11-21-major, 2026-11-22)
+======================================================================================================
+1. [A-04] NOT FIXED - The alpha-orb clue chain of the Auction GM manual (gm:716-738, :770, :966, :1692-1723) has no
+   counterpart in the fixtures: add the missing messages/files, or trim the manual.
+2. [AR-02] NOT FIXED - Archives spectral bell: works once and is never recharged, yet it is the Druid's final weapon.
+   Define a recharge rule (GM manual :1382, npcs/god_ankou_sheet :21).
+3. [A-01] Waden's final password is still "lightspeed2  # FIXME a changer" (characters_factions_{fr,en}.yaml:221).
+4. [A-05] commit cb6af77 - the lantern/grate runic references use MEANINGS taken from rpg_descent master_script_fr.rst
+   :311/:322 ("Lumiere des fideles" / "Filtre de l'Orthodoxie"), but their rune SYLLABLES ("se ki to | ku ta",
+   "ka su | shi ko te") were invented, and no in-game document shows these runes to players (item images have none).
+   Keep (and provide a handout/document), rewrite, or revert cb6af77.
+5. [A-06] commit aefc2f9 - wording to check: "Prairies Noires" for "black meadows"; deliberately archaic statue text
+   ("a l'illustre Bartzar qui, pour le proteger des heretiques, notre dernier orbe enfouit...").
+6. NEW, not fixed - GM manual :770 says the sacred book reveals that Bartzar's secret appears when "the light of Faith
+   passes through the filter of Doctrine", but the sacred_book runic translation of abilities_{fr,en}.yaml is
+   another prophecy (return of Sul'Razul). Align one of them.
+7. [A-02] commit 944e579 - Cynthia and Waden became NPCs in Auction (no password randomization, GM can send as them,
+   hidden from the players' mailing list and characters list); "is_npc: false" overrides were added to Mindstorm's
+   anthropia_portal_game_data_overrides_{fr,en}.yaml so they stay players there. Confirm this is the intent.
