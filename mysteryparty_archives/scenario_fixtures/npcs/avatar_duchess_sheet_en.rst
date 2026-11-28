@@ -38,7 +38,7 @@ The Avatar expulsion ritual
 {% macro avatar_expulsion_ritual_instructions() %}
 The Arkon's ritual, which was to send the avatars back to their worlds for good, was interrupted by the tragedy; the pentacle and the ritual objects are still in place, and the Exorcist of the Diakons knows how to finish it. {% xfact "diakon_exorcist_knows_how_to_expel_avatars" %}
 
-**You first refuse to let anyone finish this ritual**: you do not want to leave until the phantoms have received justice and been freed; and you fear that the ritual itself caused these tragedies.
+**You first refuse to let anyone finish this ritual**: you do not want to leave until the phantoms have received justice and been freed; and you fear that the ritual itself caused these tragedies. {% xfact "avatars_refuse_expulsion_until_final_battle_plan_set" %}
 
 **You only agree to return home, and to let the Exorcist's ritual send you back to your world for good, once the final battle plan against the villain is well established, or the villain already eliminated** by some means. You then say your farewells, and go back to your world before the ritual begins, as it would put you in grave danger.
 

@@ -1150,7 +1150,7 @@ Les joueurs peuvent dans ce cas effectivement rentrer chez eux, mais avec l'amer
 Finir le rituel d'expulsion des avatars (diacres)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Les avatars refusent initialement que quiconque continue le rituel, commencé par l’arkonte et interrompu par la trahison du méchant, en vue de les renvoyer chez eux. En effet, ils ne veulent pas partir tant que les fantômes n’auront pas reçu justice et été libérés. À cela s’ajoute initialement la crainte que le rituel ait, en lui-même, causé ces drames.
+Les avatars refusent initialement que quiconque continue le rituel, commencé par l’arkonte et interrompu par la trahison du méchant, en vue de les renvoyer chez eux. En effet, ils ne veulent pas partir tant que les fantômes n’auront pas reçu justice et été libérés. À cela s’ajoute initialement la crainte que le rituel ait, en lui-même, causé ces drames. {% xfact "avatars_refuse_expulsion_until_final_battle_plan_set" %}
 
 Le pentacle et les objets du rituel sont toujours en place, le traître n’ayant pas osé toucher à cette magie sacrée qu’il ne connait pas, et ne pouvant de plus, par nature, transporter des romans. {% xfact "avatars_cannot_carry_novels" %}
 

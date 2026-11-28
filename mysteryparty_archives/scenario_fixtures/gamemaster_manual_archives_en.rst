@@ -1150,7 +1150,7 @@ In that case, the players can indeed go home, but with the bitterness of failure
 Finish the avatar expulsion ritual (Diakons)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The avatars initially refuse to let anyone continue the ritual, begun by the Arkon and interrupted by the villain's betrayal, with a view to sending them home. Indeed, they do not want to leave until the phantoms have received justice and been freed. Added to this, initially, is the fear that the ritual itself caused these tragedies.
+The avatars initially refuse to let anyone continue the ritual, begun by the Arkon and interrupted by the villain's betrayal, with a view to sending them home. Indeed, they do not want to leave until the phantoms have received justice and been freed. Added to this, initially, is the fear that the ritual itself caused these tragedies. {% xfact "avatars_refuse_expulsion_until_final_battle_plan_set" %}
 
 The pentacle and the ritual objects are still in place, as the traitor did not dare touch this sacred magic that he does not know, and moreover cannot, by nature, carry novels. {% xfact "avatars_cannot_carry_novels" %}
 
