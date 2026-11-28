@@ -73,9 +73,9 @@ character_properties:
         password: "ocean"
         account: 1600
         address_book: ["secret-services@dorian-dukedom.pg"]
-        official_name: "Luciane Begalazatr"
+        official_name: "Luciane Thermidor"
         official_role: "Prospector commissioned by wealthy collectors of Nimouk (Dorian Dukedom)"
-        gamemaster_hints: "In truth MP3, a Dorian agent. As the person in question never existed, it will take subtle play to avoid being unmasked. This cover name has no link with the Begalatrs, Prof. Loakim's in-laws (and the answer to his secret question): if players see a lead in it, it is a mere coincidence."
+        gamemaster_hints: "In truth MP3, a Dorian agent. As the person in question never existed, it will take subtle play to avoid being unmasked."
         extra_goods: "Certified currency: 1000 Sabarith Pounds"
         is_npc: false
 

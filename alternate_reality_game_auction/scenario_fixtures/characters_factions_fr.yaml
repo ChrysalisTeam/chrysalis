@@ -73,9 +73,9 @@ character_properties:
         password: "ocean"
         account: 1600
         address_book: ["secret-services@dorian-dukedom.pg"]
-        official_name: "Luciane Begalazatr"
+        official_name: "Luciane Thermidor"
         official_role: "Prospectrice mandatée par de riches collectionneurs de Nimouk (Duché dorien)"
-        gamemaster_hints: "En vérité MP3, agent dorien. La personne en question n'ayant jamais existé, il faudra jouer finement pour ne pas se faire démasquer. Ce nom de couverture n'a aucun lien avec les Begalatr, belle-famille du Pr Loakim (et réponse à sa question secrète) : si des joueurs y voient une piste, ce n'est qu'une coïncidence."
+        gamemaster_hints: "En vérité MP3, agent dorien. La personne en question n'ayant jamais existé, il faudra jouer finement pour ne pas se faire démasquer."
         extra_goods: "Monnaie certifiée : 1000 Livres Sabarites"
         is_npc: false
 
