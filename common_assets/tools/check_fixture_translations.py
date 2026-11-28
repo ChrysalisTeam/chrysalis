@@ -50,13 +50,22 @@ MARKUP_REGEXES = [
 FRENCH_HINT_REGEX = re.compile(r"\b(les|des|est|une|vous|nous|avec|dans|pour|qui|que|sont|leur|été|à)\b", re.IGNORECASE)
 
 
+class _FixtureLoader(yaml.SafeLoader):
+    """Safe loader which also accepts the python tuples used by the game fixtures (e.g. friendship keys)."""
+
+
+_FixtureLoader.add_constructor(
+    "tag:yaml.org,2002:python/tuple", lambda loader, node: tuple(loader.construct_sequence(node))
+)
+
+
 def load_yaml(path):
     with open(path, "r", encoding="utf-8-sig") as f:
         raw = f.read()
     for lineno, line in enumerate(raw.split("\n"), start=1):
         if "\t" in line:
             raise ValueError("Forbidden tabulation at line %d of %s" % (lineno, path))
-    return yaml.safe_load(raw)
+    return yaml.load(raw, Loader=_FixtureLoader)
 
 
 def _type_name(value):
