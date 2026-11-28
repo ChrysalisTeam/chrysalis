@@ -22,6 +22,8 @@ Fundamental principles
 
 This behaviour of the different worlds comes as a surprise to all the NPC actors (except, at a stretch, the Arkon, who had some inkling of it); they must therefore be intrigued when the players "talk to thin air", then gradually come to understand how all this works, and realise (for the phantoms) why the automatons sometimes start moving on their own, why certain objects from the world of the living float about in mid-air, and so on.
 
+**The avatars can handle all the contents of the library (including the other books and the grimoires), except the novels, theirs or those of others, which they can neither carry nor move.** {% xfact "avatars_cannot_carry_novels" %}
+
 Occasionally, the NPC actors may communicate from one world to the other through the players, to greet each other, pass on information, etc.
 
 <{ explanation_of_different_worlds }/>

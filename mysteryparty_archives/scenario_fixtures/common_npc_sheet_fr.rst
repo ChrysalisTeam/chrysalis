@@ -22,6 +22,8 @@ Principes fondamentaux
 
 Ce comportement des différents mondes est une surprise pour tous les figurants (hormis à la rigueur pour l'Arkonte qui s'en doutait un peu) ; ils doivent donc être intrigués lorsque les joueurs "parlent à du vide", puis peu à peu comprendre le fonctionnement de tout cela, et réaliser (pour les fantômes) pourquoi les automates se mettent parfois à bouger tous seuls, pourquoi certains objets issus du monde des vivants se déplacent en apesanteur, etc.
 
+**Les avatars peuvent manipuler tout le contenu de la bibliothèque (autres livres et grimoires compris), sauf les romans, les leurs ou ceux des autres, qu'ils ne peuvent ni porter ni déplacer.** {% xfact "avatars_cannot_carry_novels" %}
+
 A l'occasion, les figurants peuvent communiquer d'un monde à l'autre par l'intercession des joueurs, pour se saluer, se transmettre des informations etc.
 
 <{ explanation_of_different_worlds }/>

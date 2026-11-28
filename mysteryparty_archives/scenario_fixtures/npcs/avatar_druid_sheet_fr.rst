@@ -12,6 +12,8 @@ Votre profil
 
 {% macro avatar_principle_summary() %}
 Vous êtes ce que les mystiques de la planète Terre appellent un **avatar**. C'est-à-dire que vous êtes un personnage né de l'imagination d'un écrivain, qui vous a couché par écrit dans un roman, avec tout un univers autour. Mais par un prodige rarissime, un de vos lecteurs a réussi à vous "incarner" dans le monde des vivants.
+
+Vous ne pouvez ni porter ni déplacer de romans, pas même le vôtre.
 {% endmacro %}
 <{ avatar_principle_summary }/>
 
