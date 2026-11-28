@@ -3,7 +3,7 @@
 TEXTS OF THE IN-GAME SIGNS AND LABELS
 ++++++++++++++++++++++++++++++++++++++++++
 
-*The printable labels document "miscellaneous/gamemaster_assets_boxes_labels.odt" exists only in French. Its crate labels can stay in French, as only the organisers see them; but for an English game, print this sheet and cut out its texts, to stick them on the props below instead of the French ones.*
+*These texts are those of the printable labels document "miscellaneous/gamemaster_assets_boxes_labels_en.odt" (French version: "gamemaster_assets_boxes_labels_fr.odt"). Print the ODT document in the language of the game; this sheet serves as a reference.*
 
 
 "Do not touch" signs

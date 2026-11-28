@@ -3,7 +3,7 @@
 TEXTES DES ÉCRITEAUX ET ÉTIQUETTES EN JEU
 ++++++++++++++++++++++++++++++++++++++++++
 
-*Ces textes sont ceux du document d'étiquettes imprimable "miscellaneous/gamemaster_assets_boxes_labels.odt", qui n'existe qu'en français. Pour une partie en français, imprimez directement ce document ODT ; cette fiche sert de référence, et de modèle pour la version anglaise (où seules les étiquettes de caisses, vues par les organisateurs uniquement, restent en français).*
+*Ces textes sont ceux du document d'étiquettes imprimable "miscellaneous/gamemaster_assets_boxes_labels_fr.odt" (version anglaise : "gamemaster_assets_boxes_labels_en.odt"). Imprimez le document ODT dans la langue de la partie ; cette fiche sert de référence.*
 
 
 Écriteaux "ne pas toucher"
