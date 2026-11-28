@@ -671,6 +671,8 @@ Avec le bon rituel du grimoire {% symbol "Thanatologue" for "book_of_the_dead" %
 {% endmacro %}
 <{ injury_cases_and_remedies }/>
 
+*Si le Gardien des Bois meurt, les objets ULTRA-LOURDS restent hors de portée jusqu'à sa zombification ; aucun n'est indispensable pour finir le jeu (3 bijoux suffisent pour le trésor, et les autres usages de ces objets ont des alternatives).*
+
 
 Événements rythmant le jeu
 ==========================

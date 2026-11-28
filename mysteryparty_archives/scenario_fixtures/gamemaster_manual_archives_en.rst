@@ -671,6 +671,8 @@ With the right ritual from the {% symbol "Thanatologue" for "book_of_the_dead" %
 {% endmacro %}
 <{ injury_cases_and_remedies }/>
 
+*If the Woodsman dies, ULTRA-HEAVY objects stay out of reach until he is zombified; none of them is required to finish the game (3 jewels suffice for the treasure, and the other uses of these objects have alternatives).*
+
 
 Events that pace the game
 ==========================
