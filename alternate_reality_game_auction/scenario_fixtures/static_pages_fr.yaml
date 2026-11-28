@@ -482,31 +482,7 @@ static_pages:
 
         gamemaster_hints: |
 
-            Référence des transcriptions de runes (section "abilities" de la base de données, compétence "runic_translation") ; le traducteur retient la référence la plus proche de la transcription soumise, les séparateurs "|" et "#" ne délimitant que les groupes de mots et les phrases de la traduction::
-
-                Belle Amphore Antique (amphora)
-                    chi shi se | ko ke to # ke te ka | tsu tsu ki ko # ta ke sa so to
-                    = la plus fine fleur | de sel d'Antaria # en promotion | sur le marché d'Endara # 3 avenue des lacs salés
-
-                Livre Sacré Yodique (sacred_book)
-                    ka to | ko chi su # ke so | ki sa # chi tsu | to to | shi # ko ke ta | chi ki # ko chi ka
-                    = soyez fidèles | enfants bien-aimés # avant que l'un de vous | ne repose dans sa tombe # le grand prêtre | Sul'Razul | reviendra # et ouvrira notre règne | pour l'éternité # prophétie des Yods
-
-                Statue Cornue (horned_statue)
-                    ta ko | ta ka so # ku ko ki | ta ka # chi ki | sa chi to # sa ka so | ka ki
-                    = gloire éternelle | à l'illustre Bartzar qui # pour le protéger des hérétiques | notre dernier orbe # enfouit | dans ces eaux désolées # où ni algues | ni poissons ne peuvent vivre
-
-                Coffret Antique Restauré (antic_chest)
-                    su se | so sa | chi so # ku sa | su te # chi sa to | ta sa su
-                    = butin de guerre | de l'escarmouche des | Prairies Noires # que les Yods | purifient ces biens # abrègent notre pénitence | et nous accordent la victoire finale
-
-                Lanterne de Pierre (stone_lantern)
-                    ka su | shi ko te
-                    = Lumière | des fidèles
-
-                Grille Rouillée (rounded_grating)
-                    se ki to | ku ta
-                    = Filtre | de l'Orthodoxie
+            Les transcriptions de runes de référence, et leurs traductions, figurent dans la section "abilities" de la base de données (compétence "runic_translation") ; le traducteur retient la référence la plus proche de la transcription soumise.
 
 
     help-matter_analysis:

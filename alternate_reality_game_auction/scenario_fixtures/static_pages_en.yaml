@@ -482,31 +482,7 @@ static_pages:
 
         gamemaster_hints: |
 
-            Reference of rune transcriptions ("abilities" section of the database, "runic_translation" ability); the translator picks the reference closest to the submitted transcription, the "|" and "#" separators only delimiting the word groups and sentences of the translation::
-
-                Beautiful Antique Amphora (amphora)
-                    chi shi se | ko ke to # ke te ka | tsu tsu ki ko # ta ke sa so to
-                    = finest Antarian | salt flower # in promotion at | Endara's market place # 3 avenue of salt lakes
-
-                Sacred Yodic Book (sacred_book)
-                    ka to | ko chi su # ke so | ki sa # chi tsu | to to | shi # ko ke ta | chi ki # ko chi ka
-                    = be faithful | beloved children # before any of you | rests in his grave # will the high priest | Sul'Razul | return # and open our reign | for all eternity # prophecy of the Yods
-
-                Horned Statue (horned_statue)
-                    ta ko | ta ka so # ku ko ki | ta ka # chi ki | sa chi to # sa ka so | ka ki
-                    = all hail | the glorious Bartzar who # to protect from heretics | our last orb # buried it | in these desolate waters # where neither seaweeds | nor fishes can live
-
-                Restored Antique Casket (antic_chest)
-                    su se | so sa | chi so # ku sa | su te # chi sa to | ta sa su
-                    = spoils of war | skirmish of | the Black Meadows # may the Yods | purify these goods # shorten our penance | and give us final victory
-
-                Stone Lantern (stone_lantern)
-                    ka su | shi ko te
-                    = Light | of the Faithful
-
-                Rusty Grate (rounded_grating)
-                    se ki to | ku ta
-                    = Filter | of Orthodoxy
+            The reference rune transcriptions, and their translations, are in the "abilities" section of the database ("runic_translation" ability); the translator picks the reference closest to the submitted transcription.
 
 
     help-matter_analysis:
