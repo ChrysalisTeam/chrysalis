@@ -1042,7 +1042,7 @@ One of the rare copies of this mythical (and controversial) work has been kept b
 <{ explorer_group_main_quest }/>
 
 
-Mission of the Diakons (Diakons of {% symbol "Bahamoot" for "god_of_diakons" %})
+Missions of the Diakons (Diakons of {% symbol "Bahamoot" for "god_of_diakons" %})
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro diakon_group_main_quest() %}

@@ -1042,7 +1042,7 @@ Un des rares exemplaires de cet ouvrage mythique (et controversé) a été conse
 <{ explorer_group_main_quest }/>
 
 
-Mission des diacres (diacres de {% symbol "Bahamoot" for "god_of_diakons" %})
+Missions des diacres (diacres de {% symbol "Bahamoot" for "god_of_diakons" %})
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 {% macro diakon_group_main_quest() %}
