@@ -163,10 +163,10 @@ _TEMP_:
             que l'on puisse imaginer, et il nous appartient de calmer le jeu avant qu'un désastre continental ne se produise une fois encore.
             Vous suivrez donc les enchères en ligne de Loyd Georges, en vous faisant passer pour d'innocents acheteurs.
 
-            SHA1, vous prendrez officiellement l'identité de {{ titre_officiel }} ;
+            SHA1, vous prendrez officiellement l'identité de Simonie Vladstaffulovza, négociant en matières premières pour les joailleries de Mastden (Masslavie) ;
             la véritable personne est partie faire de la randonnée pédestre dans l'arrière-pays désertique de Sabarim, pour au moins 6 semaines encore - voilà une aubaine pour nous.
 
-            MD5, pour brouiller les pistes, vous endosserez le rôle de {{ titre_officiel }} ; la véritable détentrice du nom, en bonne patriote masslave, restera à nos côtés avec ses proches, pour vous conseiller en cas de besoin.
+            MD5, pour brouiller les pistes, vous endosserez le rôle de Wiliette Bfurokt, conservatrice du musée archéologique de Mastden (Masslavie) et experte en histoire du yodisme ; la véritable détentrice du nom, en bonne patriote masslave, restera à nos côtés avec ses proches, pour vous conseiller en cas de besoin.
 
         -   &explain_threats_competitors    |
             Les enchères ne sont jamais des opérations extrêmement amicales, mais celles-ci s'annoncent particulièrement gratinées: vous avez dès à présent de nombreuses menaces anonymes qui vous attendent sur vos messageries Anthropia, vous déconseillant fortement de participer à ces enchères.
@@ -196,10 +196,10 @@ _TEMP_:
             En menant des fouilles illégales en Midolie, Loyd Georges a en effet dopé le fanatisme de nos voisins akarites, et il nous appartient de prendre en main la situation avant que notre pays ne soit une fois encore brisé par une déferlante akarite.
             Vous suivrez donc les ventes aux enchères de Loyd Georges, en vous faisant passer pour d'innocents acheteurs.
 
-            MP3, vous vous présenterez comme {{ titre_officiel }}. L'individu en question n'ayant jamais existé,
+            MP3, vous vous présenterez comme Luciane Begalazatr, prospectrice mandatée par de riches collectionneurs de Nimouk (Duché dorien). L'individu en question n'ayant jamais existé,
             il nous faudra jouer finement si vous attirez par trop l'attention sur vous.
 
-            MP5, vous usurperez pour votre part l'identité de {{ titre_officiel }}
+            MP5, vous usurperez pour votre part l'identité de Philipon Vertioundem, patron d’une bijouterie de Nimouk (Duché dorien) en quête de bonnes affaires
             Le vrai sieur était au bord de la faillite à force de se faire pigeonner, il s'est donc montré très compréhensif face à nos propositions, et se fera éminemment discret pendant les semaines à venir.
 
         -   *explain_threats_competitors
@@ -227,9 +227,9 @@ _TEMP_:
 
             Vous suivrez donc les enchères en ligne de Loyd Georges, en vous faisant passer pour d'innocents acheteurs.
 
-            HDD, vous vous présenterez comme {{ titre_officiel }}. C'est une identité fictive que nous faisons "vivre" depuis de nombreuses années déjà, et qui nous a servi pour toutes sortes de missions à l'étranger ; vous devriez donc être en toute sécurité dans ce rôle.
+            HDD, vous vous présenterez comme Arthiane Subduernum, riche collectionneuse d'Ouram (Lordanie) en quête d’antiquités akarites. C'est une identité fictive que nous faisons "vivre" depuis de nombreuses années déjà, et qui nous a servi pour toutes sortes de missions à l'étranger ; vous devriez donc être en toute sécurité dans ce rôle.
 
-            SSD, vous usurperez pour votre part l'identité de {{ titre_officiel }}.
+            SSD, vous usurperez pour votre part l'identité de Tomol Niokiev, conservateur au musée d'histoire ancienne d'Ouram (Lordanie).
             Actuellement, le véritable personnage est censé être en voyage d'affaires, mais dans les faits il est en cure pour se débarrasser d'une maladie assez honteuse, et cela pour au moins 2 mois encore. Profitons-en gaiement.
 
         -   *explain_threats_competitors
@@ -281,7 +281,7 @@ _TEMP_:
             que l'on puisse imaginer, et il semblerait que nous en soyons la cible.
             Vous suivrez donc les enchères en ligne de Loyd Georges, en vous faisant passer pour une innocente acheteuse.
 
-            Vous prendrez officiellement l'identité de {{ titre_officiel }}.
+            Vous prendrez officiellement l'identité de Marcille Kiliringar, adjointe de police sabarite.
             Le véritable personnage est également en voyage en Sabarim mais compte plutôt jouer de ses relations pour pouvoir admirer la collection privée de l'académie, que celle de cette vente aux enchères.
 
         -       |
