@@ -1154,7 +1154,7 @@ The avatars initially refuse to let anyone continue the ritual, begun by the Ark
 
 The pentacle and the ritual objects are still in place, as the traitor did not dare touch this sacred magic that he does not know, and moreover cannot, by nature, carry novels. {% xfact "avatars_cannot_carry_novels" %}
 
-After so many centuries, this canonical pentacle has gone out: it must be reactivated before the ritual (unless already done, e.g. for the Stasis of the Beast), which requires **at least 4 initiates** (see the Invoker's sheet). The 3 Diakons must therefore enlist the Anthropologist, a Ritualist of {% symbol "Bahamoot" for "god_of_diakons" %} and the only other initiate among the players; the Invoker's sheet tells them that one of the explorers went through this initiation. {% xfact "penatacle_activation_requires_4_ritualists" %}
+After so many centuries, this canonical pentacle has gone out: it must be reactivated before the ritual (unless already done, e.g. for the Stasis of the Beast), which requires **at least 4 initiates** (see the Invoker's sheet). The 3 Diakons must therefore enlist the Anthropologist, a Ritualist of {% symbol "Bahamoot" for "god_of_diakons" %} and the only other initiate among the players. {% xfact "penatacle_activation_requires_4_ritualists" %}
 
 It is only once the final battle plan is well established, or the villain already eliminated by some means, that the avatars agree to return home and let the Exorcist's ritual send them back to their worlds for good.  {% xfact "diakon_exorcist_knows_how_to_expel_avatars" %}
 

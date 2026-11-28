@@ -43,7 +43,7 @@ Notez que seule la personne ayant dessiné un pentacle ou un sceau peut facileme
 
 Vous pouvez facilement **réactiver un sceau existant**, seul, en **l'encensant** (un tour suffit) puis en clamant l'invocation **"Ô sceau magique, réveille-toi et écoute ma voix"**. Le sceau devrait s'illuminer peu après, signe qu'il est désormais actif. Cette opération peut être entièrement déléguée à d'autres {% symbol "initiés" for "ritualist_kind_name" %}.
 
-Un **pentacle canonique** peut être activé selon le même processus, mais **attention**, il faut être **au moins 4 initiés** à réaliser le rituel, car cela demande beaucoup d'énergie spirituelle. L'invocation est dans ce cas, évidemment, **"Ô pentacle canonique, réveille-toi et écoute ma voix"**. {% xfact "penatacle_activation_requires_4_ritualists" %} Vous n'êtes que trois diacres : il vous faudra donc l'aide d'au moins un autre initié présent sur les lieux (on vous a rapporté qu'un des explorateurs héliossars aurait jadis suivi l'initiation de {% symbol "Bahamoot" for "god_of_diakons" %}).
+Un **pentacle canonique** peut être activé selon le même processus, mais **attention**, il faut être **au moins 4 initiés** à réaliser le rituel, car cela demande beaucoup d'énergie spirituelle. L'invocation est dans ce cas, évidemment, **"Ô pentacle canonique, réveille-toi et écoute ma voix"**. {% xfact "penatacle_activation_requires_4_ritualists" %}
 
 Notez que ces tracés se désactivent d'eux-mêmes au bout d'un (très long) temps sans utilisation.
 
